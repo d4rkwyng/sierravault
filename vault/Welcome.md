@@ -171,7 +171,11 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 
 ---
 
-## Get in Touch
+## Get Involved
+
+SierraVault is open source! Browse the code, report issues, or contribute content:
+
+🔗 **[GitHub Repository](https://github.com/d4rkwyng/sierravault)**
 
 Questions, corrections, or citation leads? **[@Sierra_Vault](https://x.com/Sierra_Vault)** on X
 
