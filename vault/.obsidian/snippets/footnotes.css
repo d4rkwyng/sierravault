@@ -1,0 +1,4 @@
+/* Hide the extra line that appears above footnotes */
+.markdown-preview-view .footnotes hr {
+  display: none;
+}

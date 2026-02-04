@@ -1,0 +1,57 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+
+# Environment/Secrets
+.env
+*.pem
+*.key
+
+# Large binary files (except vault/Images/)
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+
+# Allow vault images
+!vault/Images/**/*.png
+!vault/Images/**/*.jpg
+!vault/Images/**/*.webp
+!vault/Images/**/*.ico
+!vault/Images/*.webp
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Obsidian (optional - uncomment if needed)
+# .obsidian/workspace.json
+# .obsidian/workspace-mobile.json
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Claude task outputs
+/tmp/
+
+# Obsidian workspace (changes frequently)
+vault/.obsidian/workspace.json
+vault/.obsidian/workspace-mobile.json
+.git-backup/

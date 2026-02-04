@@ -1,0 +1,10 @@
+{
+  "siteId": "e539984c235f102b15ea51fdf1f47b6f",
+  "host": "publish-01.obsidian.md",
+  "included": [],
+  "excluded": [
+    "internal",
+    "Reference",
+    "CLAUDE.md"
+  ]
+}

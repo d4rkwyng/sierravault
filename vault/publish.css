@@ -1,0 +1,29 @@
+/* Hide the extra line that appears above footnotes */
+.markdown-preview-view .footnotes hr {
+  display: none;
+}
+
+/* Hide site name in left column */
+.site-body-left-column-site-name {
+  display: none !important;
+}
+
+/* Sortable table headers */
+table th {
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+table th:hover {
+  background-color: var(--background-modifier-hover);
+}
+
+table th .sort-indicator {
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+table th[data-sort-dir="asc"] .sort-indicator,
+table th[data-sort-dir="desc"] .sort-indicator {
+  opacity: 1;
+}

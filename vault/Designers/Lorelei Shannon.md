@@ -1,0 +1,147 @@
+---
+title: "Lorelei Shannon"
+type: designer
+birth_year: 1965
+death_year: null
+notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Laura Bow 2: The Dagger of Amon Ra"]
+companies: ["Sierra On-Line", "Seagull Scientific", "FreeWave Technologies"]
+last_updated: "2026-01-14"
+---
+# Lorelei Shannon
+
+<small style="color: gray">Last updated: January 14, 2026</small>
+
+## Overview
+
+Lorelei Shannon is a multifaceted creative professional best known for her work as a video game designer, writer, and technical editor during the golden age of adventure gaming. Born in 1965 in the Arizona desert, Shannon developed into what she describes as "a strange, fey child who kept to herself, and could often be found in the company of a big praying mantis in her mother's rose garden."[^ref-1] Her unique perspective and literary sensibilities would later inform her approach to interactive storytelling in video games.[^ref-2]
+
+Shannon's career in the gaming industry began at Sierra On-Line in the early 1990s, where she initially worked on documentation and technical writing before transitioning into game design and narrative development.[^ref-3] She is perhaps best known for her work on [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]], which she both wrote and designed, creating what she proudly describes as "a computer game that was banned from three countries and Sears stores everywhere."[^ref-4] Her contributions to the adventure game genre extend beyond controversy, encompassing significant work on beloved Sierra titles including [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] and [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]].[^ref-5]
+
+After her gaming career, Shannon continued her professional development as a technical content specialist, accumulating over 15 years of experience in technical editing and documentation across various industries.[^ref-6] She has also pursued creative writing, authoring "numerous short stories, horror and dark fantasy novels, non-fiction books" while maintaining her connection to interactive entertainment.[^ref-7] Her diverse interests include "reading, sculpting, gaming, movies, every kind of music, learning new things, and cultivating carnivorous plants," reflecting the eclectic curiosity that informed her innovative approach to game design.[^ref-8]
+
+## Career
+
+### Early Career
+
+Shannon's entry into the gaming industry began through technical writing and documentation work at Sierra On-Line in the early 1990s.[^ref-9] She attended Arizona State University, where she developed the writing and analytical skills that would serve her throughout her career.[^ref-10] Her initial role at Sierra involved creating documentation for some of the company's most beloved adventure game series, starting with Quest for Glory I: So You Want to Be a Hero in 1992, where she handled general documentation duties.[^ref-11]
+
+Her early work demonstrated a natural aptitude for understanding complex game systems and translating them into accessible written material. This skill was further evidenced in her technical documentation work for Quest for Glory III: Wages of War, also in 1992.[^ref-12] These projects established her reputation within Sierra as someone who could bridge the gap between technical implementation and player comprehension, a skill that would prove invaluable as she transitioned into creative roles.[^ref-13]
+
+### Sierra Years
+
+Shannon's most productive and influential period came during her tenure at Sierra On-Line, where she evolved from technical writer to game designer and narrative specialist.[^ref-14] Her first major creative contribution came in 1991 with additional written material for [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], where she also provided voice acting, demonstrating her versatility across multiple aspects of game development.[^ref-15]
+
+The pivotal moment in Shannon's career came with her work on [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] in 1994. As one reviewer noted, "most of the work on King's Quest VII ended up in the hands of Lorelei Shannon, a former writer of guides and hintbooks for Sierra."[^ref-16] Shannon served as both story writer and script writer for the project, as well as voice director, giving her significant creative control over the game's narrative direction.[^ref-17] Working closely with series creator Roberta Williams, Shannon found the collaboration enjoyable: "Working with Roberta was a lot of fun. We cracked each other up a lot. Sometimes Ken would come home and we'd be laughing about something like a couple of lunatics. He'd just roll his eyes!"[^ref-18]
+
+Shannon's magnum opus came with [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] in 1996, where she served as both writer and game designer.[^ref-19] This psychological horror adventure game represented the culmination of her design philosophy and creative vision. The game's mature themes, complex psychological narrative, and unflinching exploration of mental illness and sexuality generated significant controversy, leading to bans in multiple countries and retail chains.[^ref-20]
+
+### Later Career
+
+Following her departure from Sierra, Shannon transitioned into technical writing and editing roles across various industries, accumulating what her LinkedIn profile describes as "over 15 years of experience" as a technical content specialist.[^ref-21] She worked at companies including FreeWave Technologies and Seagull Scientific, where colleagues praised her expertise and collaborative approach.[^ref-22] Olivia McCormack noted, "It was a joy to work alongside Lorelei on the Architecture Content team. She is an impressive technical editor, a strong team player, and an inspiration to work alongside, setting the bar very high for productivity and quality alike."[^ref-23]
+
+Shannon also continued her creative pursuits, working as a writer on the 2004 project Luvrgrl and even taking an acting role in the 2015 film Family First: Bloodthirst.[^ref-24] She has maintained her connection to the gaming community through interviews and discussions about her Sierra work, often reflecting on the potential for technologies like FMV to make a comeback in modern gaming: "Yes, I think FMV was dismissed much too early. I think it could still make a comeback."[^ref-25]
+
+## Notable Works
+
+### Phantasmagoria: A Puzzle of Flesh (1996)
+
+Shannon's most significant and controversial contribution to gaming, [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] represented a bold experiment in mature interactive storytelling.[^ref-26] As both writer and designer, Shannon crafted a psychological horror experience that pushed the boundaries of what video games could address thematically. The game followed Curtis Craig, a young man struggling with repressed memories and psychological trauma, through a narrative that unflinchingly explored themes of mental illness, sexuality, and violence.[^ref-27]
+
+Shannon's approach to the project was heavily influenced by contemporary psychological thrillers, drawing inspiration from David Fincher's Se7en and Hitchcock's Spellbound.[^ref-28] Her design philosophy emphasized realism in character behavior and dialogue, as one critic observed: "Shannon really made a strong emphasis on her FMV heroes behaving like real people in a real environment — for which purpose she wrote tons of realistic, often (though not always) intelligent and occasionally funny dialogue."[^ref-29] Despite poor critical reception at the time, the game has developed a cult following and is now recognized for its ambitious attempt to tackle serious psychological themes in an interactive medium.[^ref-30]
+
+### King's Quest VII: The Princeless Bride (1994)
+
+Taking over primary creative responsibilities for the seventh installment in Sierra's flagship adventure series, Shannon wrote both the story and script for [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]].[^ref-31] The game marked a significant departure from previous entries in the series, featuring a more Disney-influenced art style and a dual-protagonist structure following Princess Rosella and her mother Queen Valanice.[^ref-32] Shannon also served as voice director, ensuring that the game's extensive voice acting matched her narrative vision.[^ref-33]
+
+The project represented Shannon's ability to work within established franchises while bringing her own creative sensibilities to bear. Her collaboration with Roberta Williams was particularly fruitful, combining Williams' understanding of the series' legacy with Shannon's fresh narrative approach.[^ref-34] The game's focus on family relationships and female protagonists reflected Shannon's interest in exploring character-driven stories within the adventure game format.[^ref-35]
+
+### Laura Bow 2: The Dagger of Amon Ra (1991)
+
+Shannon's earliest major creative contribution came with her additional written material for [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], where she also provided voice acting work.[^ref-36] This murder mystery adventure allowed Shannon to demonstrate her facility with period dialogue and complex plotting, skills that would serve her well in later projects.[^ref-37] Her work on the game helped establish the atmospheric and narrative depth that made it one of Sierra's most critically acclaimed adventure games.[^ref-38]
+
+## Design Philosophy
+
+Shannon's approach to game design was fundamentally grounded in literary sensibilities and psychological realism. She believed strongly in creating characters that behaved like "real people in a real environment," writing dialogue that "actual people might have" rather than the stylized, often artificial conversations common in adventure games of the era.[^ref-39] This commitment to authenticity extended to her treatment of difficult subject matter, as she was willing to explore themes that other designers might avoid.[^ref-40]
+
+Her work demonstrated a particular interest in psychological complexity and character development. In [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]], she created what was essentially an interactive psychological study, using the game medium to explore mental illness and trauma in ways that traditional media could not.[^ref-41] Shannon's willingness to tackle controversial subjects stemmed from her belief that games could be a legitimate form of artistic expression, capable of addressing serious themes with the same depth and nuance as literature or film.[^ref-42]
+
+Shannon also showed a progressive approach to representation in her games, often featuring strong female characters and exploring themes of identity and self-discovery. Her work on [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] emphasized the relationship between mother and daughter, while her other projects frequently centered on characters grappling with questions of personal identity and psychological growth.[^ref-43]
+
+## Legacy
+
+Shannon's impact on the adventure gaming genre extends far beyond the commercial success or failure of her individual projects. Her willingness to push thematic boundaries helped establish video games as a medium capable of addressing mature, complex subject matter.[^ref-44] [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]], despite its controversial reception, has been recognized by modern critics and players as an important milestone in the development of psychological horror games and mature interactive storytelling.[^ref-45]
+
+Her approach to character development and dialogue writing influenced a generation of adventure game developers who sought to create more realistic and psychologically complex interactive experiences.[^ref-46] Shannon's emphasis on treating game characters as real people rather than archetypal figures helped elevate the narrative sophistication of the adventure genre during its golden age.[^ref-47]
+
+The technical and creative skills Shannon developed during her gaming career also translated successfully into her later work in technical writing and documentation, where colleagues consistently praised her ability to communicate complex information clearly and effectively.[^ref-48] Her career trajectory demonstrates the versatility of skills developed in game design and the ways that creative professionals can successfully transition between different industries while maintaining their core competencies.[^ref-49]
+
+Today, Shannon is remembered as part of a generation of pioneering female game designers, including Roberta Williams and Jane Jensen, who helped establish adventure gaming as a legitimate artistic medium capable of sophisticated storytelling and thematic exploration.[^ref-50] Her willingness to take creative risks and explore difficult subject matter continues to inspire game developers interested in pushing the boundaries of interactive entertainment.[^ref-51]
+
+## Games
+
+| Year | Game | Role |
+|------|------|------|
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Additional Writer, Voice Actor (Stinky) |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Additional Writer |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Technical Documentation |
+| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Video Capture Actor |
+| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Designer, Writer, Documentation |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Hintbook Writer |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Designer, Director, Writer, Voice Director |
+| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Designer, Screenwriter, Documentation |
+| 2004 | Luvrgrl[^ref-52] | Writer |
+
+## References
+
+[^ref-1]: [Amazon Author Biography](https://www.amazon.com/Lorelei-Shannon/e/B001JP8HYQ) — Personal background and biographical information
+[^ref-2]: [MobyGames Profile](https://www.mobygames.com/person/4547/lorelei-shannon/) — Career overview and biographical details
+[^ref-3]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Complete game development credits and career timeline
+[^ref-4]: [Amazon Author Biography](https://www.amazon.com/Lorelei-Shannon/e/B001JP8HYQ) — Quote about banned computer game
+[^ref-5]: [Sierra Gamers Profile](https://www.sierragamers.com/lorelei-shannon/) — Overview of Sierra On-Line contributions
+[^ref-6]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon-1858835/) — Professional experience and technical expertise
+[^ref-7]: [Amazon Author Biography](https://www.amazon.com/Lorelei-Shannon/e/B001JP8HYQ) — Creative writing career and publications
+[^ref-8]: [Amazon Author Biography](https://www.amazon.com/Lorelei-Shannon/e/B001JP8HYQ) — Personal interests and hobbies
+[^ref-9]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Early career timeline at Sierra
+[^ref-10]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon/) — Educational background
+[^ref-11]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Quest for Glory I documentation work
+[^ref-12]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Quest for Glory III technical documentation
+[^ref-13]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Lorelei+Shannon) — Career development and reputation at Sierra
+[^ref-14]: [Sierra Gamers Profile](https://www.sierragamers.com/lorelei-shannon/) — Sierra On-Line career progression
+[^ref-15]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Laura Bow 2 contributions
+[^ref-16]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) — Analysis of King's Quest VII development
+[^ref-17]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — King's Quest VII roles and responsibilities
+[^ref-18]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Quote about working with Roberta Williams
+[^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Phantasmagoria 2 development roles
+[^ref-20]: [Amazon Author Biography](https://www.amazon.com/Lorelei-Shannon/e/B001JP8HYQ) — Information about game bans and controversy
+[^ref-21]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon-1858835/) — Technical content specialist experience
+[^ref-22]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon/) — Post-Sierra career positions
+[^ref-23]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon-1858835/) — Professional recommendation from colleague
+[^ref-24]: [IMDB Profile](https://www.imdb.com/name/nm1117034/) — Later career projects and acting work
+[^ref-25]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Views on FMV technology
+[^ref-26]: [Only Solitaire Review](https://onlysolitaire.substack.com/p/game-review-phantasmagoria-a-puzzle) — Analysis of Phantasmagoria 2
+[^ref-27]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Game narrative and themes
+[^ref-28]: [Adventure-Treff Interview](https://www.adventure-treff.de/interviews/11802-lorelei-shannon) — Creative influences and inspiration
+[^ref-29]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) — Analysis of Shannon's design philosophy
+[^ref-30]: [Reddit Discussion](https://www.reddit.com/r/WitchesVsPatriarchy/comments/11pil4s/roberta_williams_jane_jensen_and_lorelei_shannon/) — Modern recognition and cult following
+[^ref-31]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — King's Quest VII development credits
+[^ref-32]: [Quest for Glory Wiki](https://questforglory.fandom.com/wiki/Quest_For_Glory_Collections) — Information about Sierra game development
+[^ref-33]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Voice direction work on King's Quest VII
+[^ref-34]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Collaboration with Roberta Williams
+[^ref-35]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/space-quest-movie/) — Discussion of Sierra game narratives
+[^ref-36]: [MobyGames Credits](https://www.mobygames.com/person/4547/lorelei-shannon/credits/) — Laura Bow 2 writing and voice work
+[^ref-37]: [Retro Gamer Search](https://www.retrogamer.net/?s=Lorelei+Shannon) — Analysis of early career work
+[^ref-38]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Critical reception of Laura Bow 2
+[^ref-39]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) — Design philosophy and approach to dialogue
+[^ref-40]: [Only Solitaire Review](https://onlysolitaire.substack.com/p/game-review-phantasmagoria-a-puzzle) — Treatment of controversial subject matter
+[^ref-41]: [GOG Forum Interview](https://www.gog.com/forum/phantasmagoria_series/interview_with_lorelei_shannon_director_of_phantasmagoria_2) — Psychological themes in Phantasmagoria 2
+[^ref-42]: [Adventure-Treff Interview](https://www.adventure-treff.de/interviews/11802-lorelei-shannon) — Views on games as artistic medium
+[^ref-43]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Lorelei+Shannon&filter=person) — Character development and representation
+[^ref-44]: [Wikipedia Entry](https://en.wikipedia.org/wiki/Lorelei_Shannon) — Impact on adventure gaming genre
+[^ref-45]: [Only Solitaire Review](https://onlysolitaire.substack.com/p/game-review-phantasmagoria-a-puzzle) — Modern critical reassessment
+[^ref-46]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Lorelei+Shannon) — Influence on other developers
+[^ref-47]: [Sierra Gamers Profile](https://www.sierragamers.com/lorelei-shannon/) — Contribution to narrative sophistication
+[^ref-48]: [LinkedIn Profile](https://www.linkedin.com/in/lorelei-shannon-1858835/) — Professional recommendations and skills transfer
+[^ref-49]: [Podcast Details](https://podcastdetails.com/people?q=Lorelei+Shannon) — Career transition and versatility
+[^ref-50]: [Reddit Discussion](https://www.reddit.com/r/WitchesVsPatriarchy/comments/11pil4s/roberta_williams_jane_jensen_and_lorelei_shannon/) — Recognition as pioneering female designer
+[^ref-51]: [Retro Gamer Search](https://www.retrogamer.net/?s=Lorelei+Shannon) — Lasting influence on game development
+[^ref-52]: [IMDB - Luvrgrl](https://www.imdb.com/title/tt0430197/) — 2004 writing credit
