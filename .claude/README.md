@@ -1,6 +1,6 @@
 # .claude/ Directory
 
-Claude Code configuration and instructions for Sierra Vault.
+Claude Code configuration and instructions for SierraVault.
 
 ## Structure
 
@@ -20,22 +20,21 @@ Claude Code configuration and instructions for Sierra Vault.
 
 ## How It Works
 
-1. **Root `CLAUDE.md`** - Auto-loaded every session. Contains core rules and quality standards.
+1. **Root `CLAUDE.md`** — Auto-loaded every session. Contains core rules and quality standards.
 
-2. **`internal/MEMORY.md`** - Read first every session. Contains current project state, statistics, and pending tasks.
-
-3. **`instructions/`** - Read these when doing specific tasks:
+2. **`instructions/`** — Read these when doing specific tasks:
    - Working on pipeline/research → `pipeline.md`
    - Generating or editing pages → `page-format.md`
    - Citation work or scoring issues → `citations.md`
+
+> **Note:** Research data, scoring history, and project state are maintained in a separate private repository (`sierravault-internal`). Set `SIERRAVAULT_INTERNAL` env var to point to it, or place it alongside this repo.
 
 ## Key Locations
 
 | What | Where |
 |------|-------|
 | Project instructions | `/CLAUDE.md` |
-| Session state | `/internal/MEMORY.md` |
-| Decisions & context | `/internal/MEMORY_ARCHIVE.md` |
-| Research data | `/internal/research/` |
-| Scripts | `/internal/*.py` |
-| Game pages | `/Games/` |
+| Game pages | `vault/Games/` |
+| Scripts | `scripts/` |
+| Templates | `templates/` |
+| Documentation | `docs/` |

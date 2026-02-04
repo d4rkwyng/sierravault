@@ -18,7 +18,7 @@ Six-stage pipeline for research and page generation.
 ## Automated Pipeline
 
 ```bash
-cd internal && source .venv/bin/activate
+source .venv/bin/activate
 
 # Default: Discover → Crawl → Enrich (stops before generation)
 python3 pipeline.py "Space Quest III"
@@ -290,16 +290,16 @@ python3 completion_tracker.py --next 10      # Next priorities
 ## Environment Setup
 
 ```bash
-cd internal
 python3 -m venv .venv
 source .venv/bin/activate
-pip install anthropic httpx beautifulsoup4 openai playwright
-playwright install chromium
+pip install -r requirements.txt
 
-# API keys in .env
-echo 'export ANTHROPIC_API_KEY="sk-ant-..."' >> .env
-echo 'export OPENAI_API_KEY="sk-proj-..."' >> .env
-echo 'export BRAVE_API_KEY="..."' >> .env
+# Optional: browser-rendered crawling
+pip install playwright && playwright install chromium
+
+# API keys in .env (copy from .env.example)
+cp .env.example .env
+# Then edit .env with your actual keys
 echo 'export SCRAPER_API_KEY="..."' >> .env
 echo 'export KAGI_API_KEY="..."' >> .env
 source .env

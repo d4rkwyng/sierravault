@@ -1,0 +1,9 @@
+# Core dependencies for SierraVault scripts
+anthropic>=0.40.0
+openai>=1.0.0
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+pyyaml>=6.0
+
+# Optional — for browser-rendered crawling
+# playwright>=1.40.0

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 """Find research folder for a game page, or vice versa."""
+import os
 import sys
 import json
 from pathlib import Path
@@ -13,9 +14,10 @@ def main():
     
     query = " ".join(sys.argv[1:]).lower()
     
-    # Find the index file (relative to script location)
+    # Find the index file
     script_dir = Path(__file__).parent
-    index_file = script_dir.parent / "research" / "GAME_INDEX.json"
+    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", script_dir.parent.parent / "sierravault-internal"))
+    index_file = internal_root / "research" / "GAME_INDEX.json"
     
     if not index_file.exists():
         print(f"Error: Index file not found at {index_file}")
@@ -32,7 +34,7 @@ def main():
             print(f"Page:   {m['page']}")
             print(f"Title:  {m['title']}")
             print(f"Year:   {m['year']}")
-            print(f"Folder: internal/research/games/{m['folder']}/")
+            print(f"Folder: research/games/{m['folder']}/")
             print(f"Exists: {exists_icon}")
             print()
     
@@ -43,7 +45,7 @@ def main():
         for folder in index["orphan_folders"]:
             if query in folder.lower():
                 print(f"\nFound in orphan folders:")
-                print(f"  internal/research/games/{folder}/")
+                print(f"  research/games/{folder}/")
 
 
 if __name__ == "__main__":

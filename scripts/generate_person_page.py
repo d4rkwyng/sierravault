@@ -22,8 +22,9 @@ try:
 except ImportError:
     HAS_ANTHROPIC = False
 
-RESEARCH_DIR = Path(__file__).parent.parent / "research"  # internal/research
-VAULT_DIR = Path(__file__).parent.parent.parent  # sierravault repo root
+INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", Path(__file__).parent.parent.parent / "sierravault-internal"))
+RESEARCH_DIR = INTERNAL_ROOT / "research"
+VAULT_DIR = Path(__file__).parent.parent  # sierravault repo root
 
 
 def load_env():

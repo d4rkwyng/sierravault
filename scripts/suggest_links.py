@@ -22,7 +22,7 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Set, Tuple
 
-# Repository root (parent of internal/)
+# Repository root
 REPO_ROOT = Path(__file__).parent.parent
 
 

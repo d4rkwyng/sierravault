@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Generate GAME_INDEX.json mapping game pages to research folders."""
 import json
+import os
 import re
 from pathlib import Path
 from typing import Optional, Tuple
@@ -23,13 +24,14 @@ def extract_title_year(filename: str) -> Tuple[Optional[int], str]:
 
 
 def main():
-    # Paths relative to sierravault root
+    # Paths
     script_dir = Path(__file__).parent
-    root = script_dir.parent.parent  # Up from internal/scripts to sierravault
+    repo_root = script_dir.parent
+    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "sierravault-internal"))
     
-    games_dir = root / "Games"
-    research_dir = root / "internal" / "research" / "games"
-    output_file = root / "internal" / "research" / "GAME_INDEX.json"
+    games_dir = repo_root / "vault" / "Games"
+    research_dir = internal_root / "research" / "games"
+    output_file = internal_root / "research" / "GAME_INDEX.json"
     
     mappings = []
     

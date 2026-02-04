@@ -12,7 +12,8 @@ from datetime import datetime
 
 VAULT_ROOT = Path(__file__).parent.parent / "vault"
 DESIGNERS_DIR = VAULT_ROOT / "Designers"
-RESEARCH_DIR = VAULT_ROOT / "internal/research/designers"
+INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", Path(__file__).parent.parent.parent / "sierravault-internal"))
+RESEARCH_DIR = INTERNAL_ROOT / "research" / "designers"
 GAMES_DIR = VAULT_ROOT / "Games"
 
 def slugify(name):
@@ -250,7 +251,7 @@ def main():
     report = generate_report(results)
     
     # Save report
-    output_dir = VAULT_ROOT / "internal/audit"
+    output_dir = INTERNAL_ROOT / "audit"
     output_dir.mkdir(parents=True, exist_ok=True)
     
     report_path = output_dir / "designer-audit.md"

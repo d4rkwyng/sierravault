@@ -16,7 +16,7 @@ Full license text: https://creativecommons.org/licenses/by-nc/4.0/legalcode
 
 ## Code License
 
-The Python scripts in `internal/scripts/` are licensed under the **MIT License**.
+The Python scripts in `scripts/` are licensed under the **MIT License**.
 
 ```
 MIT License
@@ -55,4 +55,4 @@ This is an unofficial fan archive with no affiliation to any rights holders.
 
 ## Research Data
 
-The `internal/research/` folder contains cached data from public sources (MobyGames, Wikipedia, gaming databases, etc.) used for fact-checking. This data is used under fair use for research and archival purposes.
+Research data used for fact-checking is maintained in a separate private repository. It contains cached content from public sources (MobyGames, Wikipedia, gaming databases, etc.) used under fair use for research and archival purposes.
