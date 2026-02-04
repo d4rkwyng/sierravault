@@ -394,7 +394,6 @@ Point-and-click adventures. **Play with:** ScummVM
 | Game | Year |
 |------|------|
 | [[2000 - No One Lives Forever\|No One Lives Forever]] | 2000 |
-| [[2002 - Die Hard - Nakatomi Plaza\|Die Hard: Nakatomi Plaza]] | 2002 |
 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2]] | 2002 |
 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | 2003 |
 
