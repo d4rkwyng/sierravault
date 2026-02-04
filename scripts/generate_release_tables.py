@@ -2,6 +2,7 @@
 """Generate release information tables from MobyGames research data."""
 
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -201,9 +202,10 @@ def main():
     
     args = parser.parse_args()
     
-    base_dir = Path(__file__).parent.parent.parent
-    research_dir = base_dir / 'internal' / 'research' / 'games'
-    games_dir = base_dir / 'Games'
+    repo_root = Path(__file__).parent.parent
+    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "sierravault-internal"))
+    research_dir = internal_root / 'research' / 'games'
+    games_dir = repo_root / 'vault' / 'Games'
     
     if args.write:
         args.dry_run = False

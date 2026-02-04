@@ -13,11 +13,12 @@ import sys
 from pathlib import Path
 from typing import Optional, List, Tuple
 
-# Paths relative to sierravault root
+# Paths
 SCRIPT_DIR = Path(__file__).parent
-PROJECT_ROOT = SCRIPT_DIR.parent.parent
-IMAGES_DIR = PROJECT_ROOT / "internal" / "images" / "mobygames"
-GAMES_DIR = PROJECT_ROOT / "Games"
+REPO_ROOT = SCRIPT_DIR.parent
+INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", REPO_ROOT.parent / "sierravault-internal"))
+IMAGES_DIR = INTERNAL_ROOT / "images" / "mobygames"
+GAMES_DIR = REPO_ROOT / "vault" / "Games"
 
 
 def slugify(title: str) -> str:
