@@ -177,7 +177,7 @@ SierraVault is open source! Browse the code, report issues, or contribute conten
 
 🔗 **[GitHub Repository](https://github.com/d4rkwyng/sierravault)**
 
-Questions, corrections, or citation leads? **[@Sierra_Vault](https://x.com/Sierra_Vault)** on X
+Created by **[@d4rkwyng](https://x.com/d4rkwyng)** · Questions, corrections, or citation leads? **[@Sierra_Vault](https://x.com/Sierra_Vault)** on X
 
 ---
 
