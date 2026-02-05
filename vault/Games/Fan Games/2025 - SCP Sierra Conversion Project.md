@@ -35,7 +35,7 @@ The project gained significant attention in late 2025 and early 2026 with the re
 
 ## Released Projects
 
-### Space Quest IV OCS Enhanced (December 2025)
+### Space Quest IV OCS Enhanced (January 2026)
 
 The first major SCP release reconstructs the palette and graphics of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] for Amiga OCS.[^ref-3] The original Amiga port was notorious for its poor color palette—a limitation of Sierra's SCI engine implementation for Amiga which used a single palette for the entire adventure.[^ref-3]
 

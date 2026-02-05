@@ -77,7 +77,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
-> | Dec 2025 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
+> | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
 > | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced v4.2]] | AGD Interactive | Engine upgrade, modern OS compatibility |
 > | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive | Released |
