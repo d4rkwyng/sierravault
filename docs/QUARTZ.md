@@ -93,19 +93,20 @@ LOCAL=$(git rev-parse HEAD)
 REMOTE=$(git rev-parse origin/main)
 
 if [ "$LOCAL" != "$REMOTE" ]; then
-    git pull origin main --quiet
-    
+    # Reset to match remote (this is a read-only build copy)
+    git reset --hard origin/main --quiet
+
     # Sync vault/ to content/ (exclude .obsidian settings)
     rsync -a --delete --exclude='.obsidian' "$REPO_DIR/vault/" "$CONTENT_DIR/"
-    
+
     # Copy favicons to static folder
     cp "$CONTENT_DIR/Images/favicon/"* "$SITE_DIR/quartz/static/" 2>/dev/null
-    
+
     # Rebuild
     cd "$SITE_DIR"
     rm -rf .quartz-cache public
     npx quartz build
-    
+
     # Fix index (Welcome.html is the homepage)
     cd "$SITE_DIR/public" && ln -sf Welcome.html index.html
 fi
