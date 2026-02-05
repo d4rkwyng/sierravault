@@ -62,7 +62,7 @@ MOBYGAMES_API_KEY = os.environ.get('MOBYGAMES_API_KEY', '')
 
 # Paths
 RESEARCH_DIR = Path(__file__).parent.parent / "research" / "designers"
-VAULT_DIR = Path(__file__).parent.parent.parent  # sierravault repo root
+VAULT_DIR = Path(__file__).parent.parent / "vault"
 GAMES_DIR = VAULT_DIR / "Games"
 
 # Rate limiting

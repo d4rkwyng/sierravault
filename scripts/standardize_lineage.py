@@ -8,7 +8,7 @@ import os
 import re
 from pathlib import Path
 
-GAMES_DIR = Path(__file__).parent.parent.parent / "Games"
+GAMES_DIR = Path(__file__).parent.parent / "vault" / "Games"
 
 # Canonical values and their mappings
 LINEAGE_MAP = {

@@ -190,7 +190,7 @@ def main():
     parser.add_argument('--dry-run', action='store_true', help="Show what would be done without making changes")
     args = parser.parse_args()
     
-    games_dir = Path(__file__).parent.parent.parent / 'Games'
+    games_dir = Path(__file__).parent.parent / 'vault' / 'Games'
     
     if args.folder:
         folder_path = games_dir / args.folder

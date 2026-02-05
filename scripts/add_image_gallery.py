@@ -173,7 +173,7 @@ def generate_gallery_section(image_folder: Path, max_screenshots: int = 6, max_c
         return ""
     
     # Build relative path from Games folder to images
-    rel_path = image_folder.relative_to(PROJECT_ROOT)
+    rel_path = image_folder.relative_to(INTERNAL_ROOT)
     
     lines = ["## Gallery", ""]
     
@@ -278,7 +278,7 @@ def main():
         # Single page
         page = Path(args.path)
         if not page.exists():
-            page = PROJECT_ROOT / args.path
+            page = REPO_ROOT / args.path
         if not page.exists():
             print(f"Error: Page not found: {args.path}")
             sys.exit(1)

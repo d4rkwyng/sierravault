@@ -16,7 +16,7 @@ import re
 import argparse
 from pathlib import Path
 
-VAULT = Path(__file__).parent.parent.parent  # sierravault root
+VAULT = Path(__file__).parent.parent / "vault"
 
 def get_entities():
     """Build master list of linkable entities."""
