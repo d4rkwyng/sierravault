@@ -23,7 +23,7 @@ The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preservi
 
 Led by key members DaRaSCo and kikems (of AmigaWave), the SCP has developed techniques to extract, modify, and re-inject improved graphics back into Sierra's SCI engine games.[^ref-2] Their work addresses a long-standing frustration in the retro gaming community—Sierra's Amiga ports were widely considered among the worst conversions of the era, with fans describing the original Space Quest IV Amiga version as causing them to "vomit at the non-amiga-worthy graphics" and "swear at the arrogance of Sierra for releasing a daft excuse for a port."[^ref-3]
 
-The project gained significant attention in late 2025 and early 2026 with the release of enhanced versions of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], and [[1991 - Police Quest III - The Kindred|Police Quest III]].[^ref-1][^ref-4][^ref-5]
+The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-1][^ref-4][^ref-5]
 
 > [!info]- Project Info
 > **Group:** Sierra Conversion Project (SCP)
@@ -35,27 +35,27 @@ The project gained significant attention in late 2025 and early 2026 with the re
 
 ## Released Projects
 
-### Space Quest IV OCS Enhanced (January 2026)
-
-The first major SCP release reconstructs the palette and graphics of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] for Amiga OCS.[^ref-3] The original Amiga port was notorious for its poor color palette—a limitation of Sierra's SCI engine implementation for Amiga which used a single palette for the entire adventure.[^ref-3]
-
-DaRaSCo spent considerable time finding a more consistent palette that works across all game screens while maintaining the spirit of the original DOS VGA graphics.[^ref-3] The enhancement also includes MIDI support via Roland MT-32.[^ref-3]
-
-**Download:** [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3]
-
-### King's Quest V OCS Remaster (January 2026)
-
-A collaborative effort between kikems/AmigaWave and DaRaSCo, this remaster brings [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] closer to the PC VGA version's visual quality.[^ref-4] The enhancement improves the graphics that Sierra's original Amiga conversion poorly translated from the DOS original.
-
-Like the Space Quest IV enhancement, the King's Quest V remaster includes MIDI support via Roland MT-32/mt32-pi.[^ref-4]
-
-**Download:** [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4]
-
-### Police Quest III Enhancement (January 2026)
+### Police Quest III Enhancement (January 3, 2026)
 
 The first SCP project to be completed with all graphics improved and tested to completion, [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] represents a milestone for the group.[^ref-2] Graphics were modified by kikems with assistance from DaRaSCo using Amiga-native tools including ImageFX, PPaint, and Adpro.[^ref-2]
 
 As Estrayk noted: "Yes, kikems used Amiga tools to prove that Sierra didn't do better in those years because they didn't want to, not because the tools didn't exist."[^ref-2]
+
+### King's Quest V OCS Remaster (January 4, 2026)
+
+A collaborative effort between kikems/AmigaWave and DaRaSCo, this remaster brings [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] closer to the PC VGA version's visual quality.[^ref-4] The enhancement improves the graphics that Sierra's original Amiga conversion poorly translated from the DOS original.
+
+Like the other SCP enhancements, the King's Quest V remaster includes MIDI support via Roland MT-32/mt32-pi.[^ref-4]
+
+**Download:** [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4]
+
+### Space Quest IV OCS Enhanced (January 15, 2026)
+
+The third SCP release reconstructs the palette and graphics of [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] for Amiga OCS.[^ref-3] The original Amiga port was notorious for its poor color palette—a limitation of Sierra's SCI engine implementation for Amiga which used a single palette for the entire adventure.[^ref-3]
+
+DaRaSCo spent considerable time finding a more consistent palette that works across all game screens while maintaining the spirit of the original DOS VGA graphics.[^ref-3] The enhancement also includes MIDI support via Roland MT-32.[^ref-3]
+
+**Download:** [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3]
 
 ## Projects in Development
 
