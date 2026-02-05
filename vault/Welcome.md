@@ -79,6 +79,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
 > | Dec 2025 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
+> | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced v4.2]] | AGD Interactive | Engine upgrade, modern OS compatibility |
 > | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive | Released |
 > | Mar 2024 | [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] | Prophecy Games | Released |
 > | Aug 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Lori & Corey Cole | Released |
@@ -94,7 +95,6 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
 > | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
 > | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
-> | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced]] | AGD Interactive | v4.2 RC1 |
 > | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
 
