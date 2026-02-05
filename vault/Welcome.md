@@ -69,7 +69,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 ---
 
-## What's New (2021–2026)
+## What's New (2022–2026)
 
 *See [[News & Updates]] for further detail on releases and project updates.*
 
@@ -86,17 +86,18 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | Jun 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] | Pierre Gilhodes | Released |
 > | Feb 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Triskell Interactive | Released |
 > | Jan 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave]] | Ken & Roberta Williams | Released |
-> | May 2021 | [[2021 - King's Quest IV Retold\|KQ4 Retold]] | DrSlash | Released (EGA) |
 
 > [!note] In Development
 > | Project | Team | Status |
 > |---------|------|--------|
 > | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | Imminent release |
-> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
 > | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
-> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% complete |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Space Quest IV Full Remaster]] | DaRaSCo & kikems | ~75% complete |
 > | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
+> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
+> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
 
 ---
 
