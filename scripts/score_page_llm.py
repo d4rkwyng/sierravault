@@ -12,24 +12,31 @@ Usage:
     python3 score_page_llm.py /tmp/*.md               # Multiple files
     python3 score_page_llm.py page.md --sections      # Show section-by-section scoring
     python3 score_page_llm.py page.md --feedback "Reception section IS present at line 60"
+    python3 score_page_llm.py page.md --claude-code    # Use Claude Code CLI (Max subscription)
 
 Environment variables required:
     ANTHROPIC_API_KEY - for Claude
     OPENAI_API_KEY    - for ChatGPT
+
+Optional: If you have Claude Code CLI installed and a Max subscription,
+use --claude-code to route Claude scoring through it (no per-token charges).
 """
 
 import argparse
 import json
 import os
+import subprocess
+import shutil
 import sys
 from pathlib import Path
 from typing import Dict, List, Optional
 import re
 import glob
 
-# Check for API keys
+# Check for API keys and Claude Code CLI
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY")
 OPENAI_KEY = os.environ.get("OPENAI_API_KEY")
+CLAUDE_CODE_PATH = shutil.which("claude")
 
 SCORING_PROMPT = """You are a quality assurance reviewer for a Sierra Games wiki archive.
 Score the following wiki page on a scale of 0-100 based on these criteria:
@@ -325,8 +332,68 @@ def add_line_numbers(content: str) -> str:
     return '\n'.join(numbered)
 
 
-def score_with_claude(content: str, feedback: Optional[str] = None, research_summary: Optional[str] = None) -> Optional[Dict]:
-    """Score using Claude API."""
+def score_with_claude(content: str, feedback: Optional[str] = None, research_summary: Optional[str] = None, use_api: bool = False) -> Optional[Dict]:
+    """Score using Claude Code CLI (default) or direct Anthropic API.
+
+    By default, routes through Claude Code CLI which uses the Claude Max
+    subscription. Pass use_api=True to use direct Anthropic API calls instead.
+    """
+    prompt = SCORING_PROMPT
+    if research_summary:
+        prompt += RESEARCH_DATA_PROMPT.format(research_summary=research_summary)
+    if feedback:
+        prompt += FEEDBACK_PROMPT.format(feedback=feedback)
+    prompt += "PAGE TO REVIEW (with line numbers):\n\n" + add_line_numbers(content)
+
+    if not use_api:
+        return _score_with_claude_code(prompt)
+    else:
+        return _score_with_claude_api(prompt)
+
+
+def _score_with_claude_code(prompt: str) -> Optional[Dict]:
+    """Score using Claude Code CLI (uses Max subscription)."""
+    if not CLAUDE_CODE_PATH:
+        print("Warning: 'claude' CLI not found in PATH, falling back to API", file=sys.stderr)
+        return _score_with_claude_api(prompt)
+
+    try:
+        # Use claude -p (print mode) with --output-format json for structured output
+        # Pipe the prompt via stdin to avoid arg length limits
+        result = subprocess.run(
+            [CLAUDE_CODE_PATH, "-p", "--output-format", "text", "--max-turns", "1"],
+            input=prompt,
+            capture_output=True,
+            text=True,
+            timeout=120
+        )
+
+        if result.returncode != 0:
+            print(f"Claude Code CLI error (exit {result.returncode}): {result.stderr[:200]}", file=sys.stderr)
+            print("Falling back to API...", file=sys.stderr)
+            return _score_with_claude_api(prompt)
+
+        response_text = result.stdout
+
+        # Extract JSON from response
+        json_match = re.search(r'\{[\s\S]*\}', response_text)
+        if json_match:
+            return json.loads(json_match.group())
+        else:
+            print(f"Claude Code: Could not parse JSON from response", file=sys.stderr)
+            print(f"Response preview: {response_text[:300]}...", file=sys.stderr)
+            return None
+
+    except subprocess.TimeoutExpired:
+        print("Claude Code CLI timed out (120s)", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"Claude Code CLI error: {e}", file=sys.stderr)
+        return None
+
+
+def _score_with_claude_api(prompt: str) -> Optional[Dict]:
+    """Score using direct Anthropic API (billed per-token)."""
     if not ANTHROPIC_KEY:
         print("Warning: ANTHROPIC_API_KEY not set, skipping Claude scoring", file=sys.stderr)
         return None
@@ -334,13 +401,6 @@ def score_with_claude(content: str, feedback: Optional[str] = None, research_sum
     try:
         import anthropic
         client = anthropic.Anthropic(api_key=ANTHROPIC_KEY)
-
-        prompt = SCORING_PROMPT
-        if research_summary:
-            prompt += RESEARCH_DATA_PROMPT.format(research_summary=research_summary)
-        if feedback:
-            prompt += FEEDBACK_PROMPT.format(feedback=feedback)
-        prompt += "PAGE TO REVIEW (with line numbers):\n\n" + add_line_numbers(content)
 
         message = client.messages.create(
             model="claude-sonnet-4-20250514",
@@ -360,7 +420,7 @@ def score_with_claude(content: str, feedback: Optional[str] = None, research_sum
         if json_match:
             return json.loads(json_match.group())
         else:
-            print(f"Claude: Could not parse JSON from response", file=sys.stderr)
+            print(f"Claude API: Could not parse JSON from response", file=sys.stderr)
             return None
 
     except ImportError:
@@ -544,7 +604,8 @@ def save_feedback(filepath: str, feedback: str):
 
 
 def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
-               feedback: Optional[str] = None, research_path: Optional[str] = None) -> Dict:
+               feedback: Optional[str] = None, research_path: Optional[str] = None,
+               claude_use_api: bool = False) -> Dict:
     """Score a single page with specified models."""
     with open(filepath) as f:
         content = f.read()
@@ -574,7 +635,7 @@ def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
     }
 
     if 'claude' in models:
-        results['claude'] = score_with_claude(content, combined_feedback, research_summary)
+        results['claude'] = score_with_claude(content, combined_feedback, research_summary, use_api=claude_use_api)
 
     if 'gpt' in models:
         results['gpt'] = score_with_gpt(content, feedback=combined_feedback, research_summary=research_summary)
@@ -600,17 +661,29 @@ def main():
                         help="Log all scoring results and suggestions to a JSON file for review")
     parser.add_argument("--research", "-r", type=str, default=None,
                         help="Path to research folder to validate facts against (enables hallucination detection)")
+    parser.add_argument("--claude-code", action="store_true",
+                        help="Use Claude Code CLI instead of Anthropic API (uses Max subscription, no per-token cost)")
 
     args = parser.parse_args()
 
     models = ['claude', 'gpt'] if args.model == 'both' else [args.model]
 
-    # Check API keys
-    if 'claude' in models and not ANTHROPIC_KEY:
-        print("Error: ANTHROPIC_API_KEY environment variable not set", file=sys.stderr)
-        if args.model == 'claude':
-            sys.exit(1)
-        models.remove('claude')
+    # Check Claude availability
+    if 'claude' in models:
+        if args.claude_code:
+            if not CLAUDE_CODE_PATH:
+                print("Error: 'claude' CLI not found (required with --claude-code)", file=sys.stderr)
+                print("Install: https://docs.anthropic.com/en/docs/claude-code", file=sys.stderr)
+                if args.model == 'claude':
+                    sys.exit(1)
+                models.remove('claude')
+            else:
+                print("Using Claude Code CLI (Max subscription)", file=sys.stderr)
+        elif not ANTHROPIC_KEY:
+            print("Error: ANTHROPIC_API_KEY environment variable not set", file=sys.stderr)
+            if args.model == 'claude':
+                sys.exit(1)
+            models.remove('claude')
 
     if 'gpt' in models and not OPENAI_KEY:
         print("Error: OPENAI_API_KEY environment variable not set", file=sys.stderr)
@@ -635,7 +708,8 @@ def main():
             save_feedback(filepath, args.feedback)
 
         print(f"\nScoring {filepath}...", file=sys.stderr)
-        results = score_page(filepath, models, args.feedback, args.research)
+        results = score_page(filepath, models, args.feedback, args.research,
+                             claude_use_api=not args.claude_code)
         all_results.append(results)
 
         if results.get('feedback_used'):
