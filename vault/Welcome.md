@@ -97,7 +97,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > | 2026 | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
 > | Dec 2025 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
-> | 2025 | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
+> | 2025 | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | In Development — voice recording final phase |
 > | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced]] | AGD Interactive | v4.2 RC1 |
 > | May 2021 | [[2021 - King's Quest IV Retold\|KQ4 Retold]] | DrSlash | Released (EGA) |
 > | On hold | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | ~75% complete |
