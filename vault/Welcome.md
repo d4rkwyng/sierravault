@@ -73,34 +73,30 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 
 *See [[News & Updates]] for further detail on releases and project updates.*
 
-> [!success] Recent Releases
-> | Date | Project | Creator |
-> |------|---------|---------|
-> | 2026 | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes |
-> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda |
-> | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive |
-> | Mar 2024 | [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] | Prophecy Games |
-> | Aug 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Lori & Corey Cole |
-> | Jun 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] | Pierre Gilhodes |
-> | Feb 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Triskell Interactive |
-> | Jan 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave]] | Ken & Roberta Williams |
-
-> [!note] Alumni Projects in Development
-> | Project | Creator | Status |
-> |---------|---------|--------|
-> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
-> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
-
-> [!tip] Fan Projects & Updates
+> [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
-> | 2026 | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
+> | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
 > | Dec 2025 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
-> | 2025 | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | In Development — voice recording final phase |
-> | Jul 2024 | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced]] | AGD Interactive | v4.2 RC1 |
+> | May 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | Blackbird Interactive | Released |
+> | Mar 2024 | [[2024 - Tribes 3 - Rivals\|Tribes 3: Rivals]] | Prophecy Games | Released |
+> | Aug 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Lori & Corey Cole | Released |
+> | Jun 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5]] | Pierre Gilhodes | Released |
+> | Feb 2023 | [[2023 - Pharaoh - A New Era\|Pharaoh: A New Era]] | Triskell Interactive | Released |
+> | Jan 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave]] | Ken & Roberta Williams | Released |
 > | May 2021 | [[2021 - King's Quest IV Retold\|KQ4 Retold]] | DrSlash | Released (EGA) |
-> | On hold | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | ~75% complete |
+
+> [!note] In Development
+> | Project | Team | Status |
+> |---------|------|--------|
+> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | Imminent release |
+> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
+> | [[2001 - King's Quest I VGA Remake\|KQ1/KQ2 Enhanced]] | AGD Interactive | v4.2 RC1 |
+> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
+> | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
 
 ---
 
