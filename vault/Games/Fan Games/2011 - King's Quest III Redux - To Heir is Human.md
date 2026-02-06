@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-01-27'
+last_updated: '2026-02-05'
 description: 'King''s Quest III Redux: To Heir is Human is a fan-made remake of Roberta
   Williams'' 1986 classic adventure game, developed by AGD Interactive and released...'
 tags: [2010s, adventure, king-s-quest, sierra]
@@ -255,6 +255,10 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Old-Games.com](https://www.old-games.com/download/11892/king-s-quest-iii-redux) - 232 MB download[^ref-21]
 - [CDRomance](https://cdromance.org/windows/kings-quest-iii-redux-to-heir-is-human-remake/) - Windows installer[^ref-5]
 - [Free Games Utopia](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) - Full free version[^ref-2]
+
+**SierraVault Mirror:**
+- [Windows (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.exe) – 233 MB
+- [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
 ## Series Continuity
 

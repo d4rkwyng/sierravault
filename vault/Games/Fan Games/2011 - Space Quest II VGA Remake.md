@@ -10,7 +10,7 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-01-23'
+last_updated: '2026-02-05'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
   1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
@@ -190,6 +190,9 @@ The continued support for the project, with updates still being released as rece
 
 **Download / Free Distribution**
 - [Infamous Adventures itch.io Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake) - Official distribution (Name your own price)
+
+**SierraVault Mirror:**
+- [Windows (v1.1)](https://files.sierravault.net/FanGames/InfamousAdventures/SpaceQuestII/SQ2_Installer_1_1.exe) – 473 MB
 
 **Manuals & Extras**
 - PDF Manual included with game download (2.7 MB)[^ref-3]

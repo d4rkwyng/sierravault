@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Adventure Game Studio
 protagonist: The Hero
 sierra_lineage: Fan Project
-last_updated: '2026-01-27'
+last_updated: '2026-02-05'
 description: 'Quest for Glory II VGA Remake is a fan-made recreation of Sierra On-Line''s
   classic 1990 adventure-RPG hybrid *Quest for Glory II: Trial by Fire*, developed...'
 tags: [2000s, adventure, quest-for-glory, rpg, sierra]
@@ -173,6 +173,10 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [AGD Interactive Official Site](https://www.agdinteractive.com/games/qfg2/) - Official free download[^ref-3]
 - [MyAbandonware](https://www.myabandonware.com/game/quest-for-glory-ii-vga-remake-bz3) - Alternative download[^ref-12]
 - [ClassicReload](https://classicreload.com/quest-for-glory-ii-vga-remake.html) - Browser playable version[^ref-13]
+
+**SierraVault Mirror:**
+- [Windows (v2.0)](https://files.sierravault.net/FanGames/AGDInteractive/QuestForGlory2VGA/Qfg2vga20.exe) – 71 MB
+- [Mac (v2.0)](https://files.sierravault.net/FanGames/AGDInteractive/QuestForGlory2VGA/Qfg2vga20.dmg) – 587 MB
 
 **Manuals & Extras**
 - [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Quest_for_Glory_II_VGA_Remake) - Technical help and guides[^ref-14]

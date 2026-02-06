@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Sir Graham
 sierra_lineage: Fan Project
-last_updated: '2026-01-13'
+last_updated: '2026-02-05'
 description: 'King''s Quest I: Quest for the Crown VGA Remake is a fan-made reimagining
   of Roberta Williams'' legendary 1984 adventure game, released on August 7, 2001
   by...'
@@ -291,6 +291,10 @@ The team's approach of receiving official licensing before distribution set an i
 
 **Official Download:**
 - [AGD Interactive Official Site](https://www.agdinteractive.com/games/kq1/download/download.html) – Free download, versions 4.1 and 4.2
+
+**SierraVault Mirror:**
+- [Windows (v4.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga41c.exe) – 102 MB
+- [Mac (v4.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga41c.dmg) – 489 MB
 
 **Preservation:**
 - [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown)[^ref-35]

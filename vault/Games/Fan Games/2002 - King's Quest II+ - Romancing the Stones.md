@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-01-13'
+last_updated: '2026-02-05'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
   1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
   AGD...'
@@ -184,6 +184,10 @@ The remake's significance extends beyond its individual merits to represent a br
 - [AGD Interactive Official Download](https://www.agdinteractive.com/games/kq2/download/download.html)[^ref-3]
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones)[^ref-7]
 - [Internet Archive](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra)[^ref-8]
+
+**SierraVault Mirror:**
+- [Windows (v3.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest2VGA/Kq2vga31c.exe) – 309 MB
+- [Mac (v3.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest2VGA/Kq2vga31c.dmg) – 782 MB
 
 **Manuals & Extras**
 - [AGD Interactive Game Information](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]

@@ -9,7 +9,7 @@ platforms: [Amiga OCS, Amiga AGA]
 series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 sierra_lineage: Fan Project
-last_updated: '2026-02-02'
+last_updated: '2026-02-05'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
@@ -116,6 +116,18 @@ Their work also serves as historical documentation, demonstrating that the tools
 - [[Infamous Adventures]] - VGA remakes using AGS
 - [[AGD Interactive]] - VGA remakes and enhanced editions
 - [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]]
+
+## Downloads
+
+**SierraVault Mirror:**
+- [King's Quest V OCS Remaster](https://files.sierravault.net/FanGames/SCP_Amiga/KQ5_OCS_Remaster_SCP.lha) – 93 MB
+- [Police Quest III Enhancement](https://files.sierravault.net/FanGames/SCP_Amiga/PQ3_Enhancement_SCP.lha) – 49 MB
+- [Space Quest IV OCS Enhanced](https://files.sierravault.net/FanGames/SCP_Amiga/SQ4_OCS_Enhanced_SCP.lha) – 59 MB
+
+**Original Sources:**
+- [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4]
+- [PQ3 on MEGA](https://mega.nz/file/vsFCUTYL#r6VCTRi0IMbCpF-fGpZrFyZ1ntS5nynf0gy14gIvGlY)[^ref-2]
+- [SQ4 on MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3]
 
 ## External Links
 

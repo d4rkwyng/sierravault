@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Fan Project
-last_updated: '2026-01-30'
+last_updated: '2026-02-05'
 description: 'King''s Quest III: To Heir Is Human is a fan-made VGA remake of Sierra
   On-Line''s classic 1986 adventure game, developed and published by Infamous Adventures...'
 tags: [2000s, adventure, king-s-quest, sierra]
@@ -176,6 +176,9 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 **Download / Preservation**
 - [Infamous Adventures itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) - Official distribution
 - [Internet Archive](https://archive.org/details/kings-quest-iii-fan-remake) - Archived preservation copy
+
+**SierraVault Mirror:**
+- [Windows](https://files.sierravault.net/FanGames/InfamousAdventures/KingsQuestIII/KQ3VGASETUP.zip) – 126 MB
 
 **Manuals & Extras**
 - Refer to original Sierra documentation for gameplay reference
