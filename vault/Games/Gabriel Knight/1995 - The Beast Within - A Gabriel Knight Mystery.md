@@ -11,7 +11,7 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 description: 'The Beast Within: A Gabriel Knight Mystery stands as one of the most
   ambitious and critically acclaimed adventure games of the mid-1990s. Released in
   1995...'
@@ -19,7 +19,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

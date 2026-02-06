@@ -10,14 +10,14 @@ series: IndyCar Racing
 engine: Papyrus Racing Simulation Engine
 protagonist: Player-created driver
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: CART Racing is a 1997 re-release of IndyCar Racing II, developed by Papyrus
   Design Group and published by Sierra On-Line. The game simulates the 1995 season...
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # CART Racing
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

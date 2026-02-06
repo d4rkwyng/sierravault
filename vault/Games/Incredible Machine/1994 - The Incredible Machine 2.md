@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Custom 2D physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: The Incredible Machine 2, released in 1994, stands as one of the most
   innovative puzzle games of the 1990s, challenging players to "arrange a given...
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

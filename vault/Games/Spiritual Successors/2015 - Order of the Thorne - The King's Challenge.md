@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released in 2015. Described as "a
   classic...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

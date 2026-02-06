@@ -10,14 +10,14 @@ series: King's Quest
 engine: 3Space (modified)
 protagonist: Connor
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'King''s Quest: Mask of Eternity represents a dramatic departure for
   Sierra''s flagship adventure series, marking the first time in the franchise''s...'
 tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

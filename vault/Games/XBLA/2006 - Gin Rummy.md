@@ -8,12 +8,12 @@ platforms: ["Xbox 360"]
 series: "Standalone"
 engine: "Custom"
 sierra_lineage: Sierra Published
-last_updated: "2026-02-02"
+last_updated: '2026-02-04'
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

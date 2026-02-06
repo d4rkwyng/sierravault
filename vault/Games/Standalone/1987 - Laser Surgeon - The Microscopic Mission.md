@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (Synergistic)
 protagonist: Laser Surgeon
 sierra_lineage: Acquired Studio
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'Laser Surgeon: The Microscopic Mission is a pioneering educational simulation
   game released in 1987 that challenges players to master the art of microscopic...'
 tags: [1980s, educational, sierra, standalone]
 ---
 # Laser Surgeon: The Microscopic Mission
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

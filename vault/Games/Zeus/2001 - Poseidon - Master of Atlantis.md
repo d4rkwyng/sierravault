@@ -10,7 +10,7 @@ series: City Building Series
 engine: Zeus Engine
 protagonist: Atlantean Leader (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-13'
+last_updated: '2026-02-04'
 composer: [Henry Beckett]
 description: 'Poseidon: Master of Atlantis is the official expansion pack for Zeus:
   Master of Olympus, developed by Impressions Games and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: January 13, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

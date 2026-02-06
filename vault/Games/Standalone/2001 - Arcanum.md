@@ -10,7 +10,7 @@ series: Arcanum
 engine: Custom 2D Engine
 protagonist: The Living One
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Ben Houge]
 description: 'Arcanum: Of Steamworks & Magick Obscura is a groundbreaking role-playing
   game that merges Tolkienian high fantasy with Victorian-era steampunk, creating
@@ -19,7 +19,7 @@ tags: [2000s, arcanum, rpg, sierra]
 ---
 # Arcanum: Of Steamworks & Magick Obscura
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Gabriel Knight
 engine: G-Engine
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: 'Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the third
   and final installment in Jane Jensen''s acclaimed Gabriel Knight adventure series,...'
 tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

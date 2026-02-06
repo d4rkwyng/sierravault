@@ -10,14 +10,14 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
   designed to teach about the importance of environmental ethics and marine conservation....'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

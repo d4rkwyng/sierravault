@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI1.1
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 composer: [Rudy Helm]
 description: 'Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing
   game developed and published by Sierra On-Line for MS-DOS. Designed by Corey Cole...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2]. Designed by [[Corey Cole]] and [[Lori Ann Cole]], it is the third entry in the Quest for Glory series and the sequel to Quest for Glory II: Trial by Fire[^ref-1]. The game was the first in the series to use VGA graphics and a point-and-click interface, abandoning the text parser of previous entries[^ref-1][^ref-3]. Set in Fricana, a land inspired by central African ecosystems, the game explores themes of tribal conflict and features Liontaurs, half-human half-lion creatures[^ref-1]. According to Corey Cole, the game was developed with a budget of $750,000[^ref-1]. Lori Cole was responsible for "90% of the design work" while also supervising the VGA remake of Quest for Glory I[^ref-1].

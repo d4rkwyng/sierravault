@@ -10,7 +10,7 @@ series: Counter-Strike
 engine: GoldSrc
 protagonist: Player-controlled Terrorist or Counter-Terrorist operatives
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 description: 'Half-Life: Counter-Strike is a 2000 tactical first-person shooter game
   developed by Valve Corporation and published by Sierra Studios that began life as
   a...'
@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Homeworld
 engine: Unity 5
 protagonist: Rachel S'jet
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'Homeworld: Deserts of Kharak is a real-time strategy game that serves
   as a prequel to the classic Homeworld series, taking place over a century before
   the...'
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

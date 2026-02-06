@@ -10,14 +10,14 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: Heart of China is a 1991 adventure game developed by Dynamix and published
   by Sierra On-Line, representing one of the studio's most ambitious attempts at...
 tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

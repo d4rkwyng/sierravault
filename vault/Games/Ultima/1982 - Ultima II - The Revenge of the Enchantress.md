@@ -11,7 +11,7 @@ series: Ultima
 engine: Custom (Assembly Language)
 protagonist: The Stranger
 sierra_lineage: Sierra Published
-last_updated: '2026-01-17'
+last_updated: '2026-02-04'
 description: 'Ultima II: The Revenge of the Enchantress is a fantasy role-playing
   game designed and programmed by Richard Garriott, released on August 24, 1982. The
   game...'
@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

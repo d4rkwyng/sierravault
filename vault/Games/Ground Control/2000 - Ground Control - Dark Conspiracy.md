@@ -10,7 +10,7 @@ series: Ground Control
 engine: DirectX 7
 protagonist: Major Sarah Parker
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Ola Strandh]
 description: 'Ground Control: Dark Conspiracy is an expansion pack for the critically
   acclaimed real-time tactics game Ground Control, developed by High Voltage Software...'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

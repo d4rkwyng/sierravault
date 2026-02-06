@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Charles (Chuck) Barth]
 description: Red Baron II is a World War I combat flight simulation developed by Dynamix
   and published by Sierra On-Line in December 1997. The game arrived seven years...
@@ -18,7 +18,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron II
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

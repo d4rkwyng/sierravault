@@ -10,14 +10,14 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand for...
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13]. Released in five chapters between July 2015 and October 2016, the game reimagines the classic King's Quest franchise, featuring an elderly King Graham narrating his youthful adventures to his granddaughter Gwendolyn[^ref-1][^ref-3]. The entire game is told as a flashback, similar to the story structure of King's Quest VII: The Princeless Bride, set in a fantasy universe and with a humorous tone[^ref-3]. IGN called it "a beautiful experiment in resurrecting the conventions of gaming's past and dressing them up in the lush graphics available today" and awarded it 8/10[^ref-9]. The game received an "Excellent" 4.5/5 rating from Adventure Gamers, who called it "an instant classic" and recommended that "wise, brave, and compassionate adventurers alike should definitely consider having a crack at it"[^ref-6].

@@ -10,7 +10,7 @@ series: Hoyle Official Book of Games
 engine: SCI0
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Robert Atesalp]
 description: 'Hoyle Official Book of Games Volume 2: Solitaire is a card game collection
   developed and published by Sierra On-Line in 1990 . The game represented a...'
@@ -18,7 +18,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

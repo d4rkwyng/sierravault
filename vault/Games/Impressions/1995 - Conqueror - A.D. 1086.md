@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: Player-created Knight
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-02-04'
 composer: [David Milner]
 description: 'Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing,
   and action game released in 1995, developed by Software Sorcery and published by
@@ -19,7 +19,7 @@ tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

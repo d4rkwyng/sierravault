@@ -11,14 +11,14 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Return to Krondor is a fantasy role-playing game released in November
   1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor...
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,13 +10,13 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags: [2020s, city-builder, impressions, remake, pharaoh]
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Al Lowe]
 description: '*Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)*
   is the second game in Al Lowe''s landmark comedy adventure series, released by Sierra...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

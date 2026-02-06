@@ -10,7 +10,7 @@ series: NASCAR Racing
 engine: NASCAR Racing 1999 engine
 protagonist: Truck Series Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: NASCAR Craftsman Truck Series Racing is a racing simulation developed
   by Papyrus Design Group and published by Sierra Sports in 1999 for Windows. The
   game...
@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Craftsman Truck Series Racing
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

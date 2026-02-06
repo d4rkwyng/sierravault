@@ -10,7 +10,7 @@ series: Lords Series
 engine: GameScript (PostScript-based)
 protagonist: Player-created Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Keith Zizza]
 description: 'Lords of Magic: Special Edition is a fantasy strategy game that combines
   turn-based exploration with real-time combat and resource management, set in the...'
@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: SCI 2.1
 protagonist: Unnamed SWAT Recruit ('SWAT-Pup')
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Dan Kehler]
 description: 'Police Quest: SWAT, officially titled *Daryl F. Gates'' Police Quest:
   SWAT*, is the fifth installment in Sierra On-Line''s Police Quest series and the
@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
  Police Quest: SWAT
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

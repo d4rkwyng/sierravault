@@ -10,14 +10,14 @@ series: No One Lives Forever
 engine: LithTech 2.2
 protagonist: Cate Archer
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 description: 'The Operative: No One Lives Forever is a story-driven first-person shooter
   developed by Monolith Productions and published by Fox Interactive in November...'
 tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # The Operative: No One Lives Forever
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

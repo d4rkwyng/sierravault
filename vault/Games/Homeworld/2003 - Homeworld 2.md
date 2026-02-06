@@ -10,7 +10,7 @@ series: Homeworld
 engine: Custom 3D Engine
 protagonist: Karan S'jet
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Paul Ruskay]
 description: Homeworld 2 is a fully three-dimensional real-time strategy game set
   in the depths of space, continuing the epic saga of the Hiigaran people one hundred...
@@ -18,7 +18,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

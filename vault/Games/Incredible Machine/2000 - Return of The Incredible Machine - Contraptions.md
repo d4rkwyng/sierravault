@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   strategy game that revitalized the beloved Incredible Machine series after a five-year...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

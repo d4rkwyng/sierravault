@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Client-Server)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-20'
+last_updated: '2026-02-04'
 composer: [Chance Thomas]
 description: The Realm Online stands as one of the pioneering graphical massively
   multiplayer online role-playing games (MMORPGs) in gaming history, released in December...
@@ -18,7 +18,7 @@ tags: [1990s, rpg, sierra, standalone]
 ---
 # The Realm Online
 
-<small style="color: gray">Last updated: January 20, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
   the King''s Quest series, released in May 1985 for IBM PC and PCjr. Designed by
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

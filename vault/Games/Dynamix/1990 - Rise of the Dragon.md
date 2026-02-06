@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
   in the...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Rise of the Dragon
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

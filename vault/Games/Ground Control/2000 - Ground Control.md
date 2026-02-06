@@ -10,7 +10,7 @@ series: Ground Control
 engine: Direct3D 7
 protagonist: Major Sarah Parker / Deacon Jarrod Stone
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Ola Strandh]
 description: Ground Control is a groundbreaking real-time tactics game developed by
   Swedish studio Massive Entertainment and published by Sierra Studios in 2000. Set
@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

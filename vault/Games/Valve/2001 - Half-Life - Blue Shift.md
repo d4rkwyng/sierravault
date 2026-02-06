@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Barney Calhoun
 sierra_lineage: Core Sierra
-last_updated: '2026-01-11'
+last_updated: '2026-02-04'
 description: 'Half-Life: Blue Shift is the second expansion pack to Valve''s acclaimed
   1998 first-person shooter Half-Life, developed by Gearbox Software and published by
   Sierra Entertainment in 2001.'
@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life: Blue Shift
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

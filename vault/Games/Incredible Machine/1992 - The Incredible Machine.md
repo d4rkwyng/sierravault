@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Custom physics engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 description: The Incredible Machine is a physics-based puzzle game where players arrange
   a given collection of objects in a needlessly complex fashion to perform simple...
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

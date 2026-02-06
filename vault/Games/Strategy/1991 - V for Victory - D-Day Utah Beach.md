@@ -10,14 +10,14 @@ series: V for Victory
 engine: Atomic Games Wargame Engine
 protagonist: Allied Commander
 sierra_lineage: Sierra Published
-last_updated: '2026-01-11'
+last_updated: '2026-02-04'
 description: 'V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based
   strategy wargame developed by Atomic Games, Inc. and published by Three-Sixty Pacific,...'
 tags: [1990s, sierra, strategy, v-for-victory]
 ---
 # V for Victory: Battleset 1 - D-Day Utah Beach - 1944
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

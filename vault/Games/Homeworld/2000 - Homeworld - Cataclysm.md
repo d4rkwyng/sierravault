@@ -10,14 +10,14 @@ series: Homeworld
 engine: Modified Homeworld engine
 protagonist: Kiith Somtaaw Fleet Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'Homeworld: Cataclysm is a standalone real-time strategy sequel to the
   acclaimed Homeworld, developed by Barking Dog Studios and published by Sierra...'
 tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld: Cataclysm
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

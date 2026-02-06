@@ -10,7 +10,7 @@ series: SWAT
 engine: OKRE
 protagonist: Mathias Kincaid
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-02-04'
 composer: [Nick Arundel]
 description: 'SWAT: Global Strike Team is a tactical first-person shooter developed
   by Argonaut Games and published by Sierra Entertainment, released in October 2003
@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT: Global Strike Team
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Physics Simulator
 protagonist: Sid E. Mouse / Al E. Cat
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-02-04'
 composer: [Timothy Clarke (original Sid & Al's)]
 description: The Incredible Toon Machine is a puzzle game released in 1994 by Sierra
   On-Line, developed by Jeff Tunnell Productions with development work also handled
@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Toon Machine
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

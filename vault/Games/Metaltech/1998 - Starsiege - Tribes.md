@@ -11,7 +11,7 @@ series: Starsiege
 engine: Darkstar
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'Starsiege: Tribes was a pioneering multiplayer-focused first-person
   shooter developed by Dynamix and published by Sierra On-Line in 1998, widely credited
   as the first retail FPS designed specifically for multiplayer competition.'
@@ -19,7 +19,7 @@ tags: [1990s, shooter, sierra, starsiege]
 ---
 # Starsiege: Tribes
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

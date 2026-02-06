@@ -10,14 +10,14 @@ series: Space Quest
 engine: SCI32
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click
   adventure game developed and published by Sierra On-Line, released on July 11, 1995...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Sierra On-Line]], released on July 11, 1995 for MS-DOS and Windows, with a Macintosh version released in 1996[^ref-6][^ref-2]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution—a significant visual upgrade from previous entries[^ref-3][^ref-15]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The game's subtitle refers to the final portion, where Roger must undergo miniaturization and enter the body of a shipmate, a spoof of the 1987 film Innerspace[^ref-4].

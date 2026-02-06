@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI0 (EGA), SCI1.1 (VGA)
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 composer: [Mark Seibert]
 description: 'Quest for Glory: So You Want to Be a Hero (originally released as Hero''s
   Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2]. It is the first game in the Quest for Glory series and established the series' trademark mix of graphical adventure gaming with role-playing elements such as statistic building that affect the player's ability to accomplish certain tasks[^ref-1]. The game was originally released with EGA graphics in October 1989, with a VGA remake released in July 1992[^ref-1][^ref-3]. The game was renamed from Hero's Quest to Quest for Glory in 1990 due to trademark conflicts with the HeroQuest board game[^ref-1][^ref-4]. Ports for the Amiga, Atari ST, and NEC PC-9801 were released in the early 1990s[^ref-1].

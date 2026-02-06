@@ -10,7 +10,7 @@ series: Spelling Jungle
 engine: Proprietary (Bright Star)
 protagonist: Wali
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Gordon van Ekström]
 description: Spelling Blizzard is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1994 for Windows 3.x and Macintosh...
@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, spelling-jungle]
 ---
 # Spelling Blizzard
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

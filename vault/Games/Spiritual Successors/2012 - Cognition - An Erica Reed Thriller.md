@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: ['The atmospheric music was composed by Austin Haynes, Matthew Florianz,
     and Robert Holmes.']
 description: '**Cognition: An Erica Reed Thriller** is a four-part episodic point-and-click
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

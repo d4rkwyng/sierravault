@@ -10,7 +10,7 @@ series: Codename (standalone)
 engine: SCI0
 protagonist: Johnny Westland
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Mark Seibert]
 description: 'Codename: ICEMAN is a graphical adventure game made with the SCI engine
   and published by Sierra On-Line in 1990. The lead designer was Jim Walls, a former...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

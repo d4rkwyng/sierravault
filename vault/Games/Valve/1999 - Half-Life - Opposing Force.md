@@ -10,7 +10,7 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Corporal Adrian Shephard
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Chris Jensen]
 description: 'Half-Life: Opposing Force is the first official expansion pack for Valve''s
   acclaimed 1998 first-person shooter Half-Life, developed by Gearbox Software and
@@ -19,7 +19,7 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -11,14 +11,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-09'
+last_updated: '2026-02-04'
 description: 'Leisure Suit Larry: Wet Dreams Don''t Dry represents the ninth installment
   in the legendary Leisure Suit Larry series and marks the first proper return to...'
 tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: January 9, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

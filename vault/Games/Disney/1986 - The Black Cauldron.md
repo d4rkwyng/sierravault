@@ -10,14 +10,14 @@ series: 'null'
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: The Black Cauldron is a 1986 adventure game developed by Sierra On-Line
   in collaboration with Disney. Created by designer Al Lowe, who would later become...
 tags: [1980s, adventure, agi, al-lowe, 'null', roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

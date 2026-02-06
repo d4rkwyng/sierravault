@@ -10,7 +10,7 @@ series: SpaceVenture
 engine: Unity 4
 protagonist: Cluck Yegger
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Ken Allen]
 description: '*Cluck Yegger in Escape from the Planet of the Poultroid* is a comedic
   horror strategy game developed and published by Guys From Andromeda LLC, released
@@ -19,7 +19,7 @@ tags: [2010s, sierra, spaceventure, two-guys]
 ---
  Cluck Yegger in Escape from the Planet of the Poultroid
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

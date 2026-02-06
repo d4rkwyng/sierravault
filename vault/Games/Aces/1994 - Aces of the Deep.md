@@ -10,14 +10,14 @@ series: Aces Series
 engine: 3D-Grafikengine
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Aces of the Deep stands as one of the most acclaimed submarine simulations
   ever created, developed by Dynamix and published by Sierra On-Line in 1994. Set...
 tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

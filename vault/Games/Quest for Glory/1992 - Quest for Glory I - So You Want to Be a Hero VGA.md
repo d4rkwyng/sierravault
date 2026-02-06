@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI 1.1
 protagonist: The Hero (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Mark Seibert]
 description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
  Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

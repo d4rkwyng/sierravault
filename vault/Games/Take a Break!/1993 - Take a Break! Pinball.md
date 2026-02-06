@@ -10,14 +10,14 @@ series: Take a Break!
 engine: Dynamix Pinball Engine
 protagonist: N/A
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Take a Break! Pinball was a 1993 pinball computer game collection developed
   by Dynamix, Inc. and published by Sierra On-Line, Inc. The game was the second...
 tags: [1990s, dynamix, sierra, take-a-break]
 ---
 # Take a Break! Pinball
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

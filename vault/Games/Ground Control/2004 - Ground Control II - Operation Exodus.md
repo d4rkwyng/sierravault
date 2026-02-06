@@ -10,7 +10,7 @@ series: Ground Control
 engine: Asura / MassTech
 protagonist: Captain Jacob Angelus
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Ola Strandh]
 description: 'Ground Control II: Operation Exodus is a real-time tactics video game
   developed by Massive Entertainment and published by Vivendi Universal Games in 2004....'
@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control II: Operation Exodus
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

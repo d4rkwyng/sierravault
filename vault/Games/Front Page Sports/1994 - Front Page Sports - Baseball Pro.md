@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: Physics-based engine with motion capture technology
 protagonist: Team Manager (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-07'
+last_updated: '2026-02-04'
 description: Front Page Sports Baseball Pro was a groundbreaking baseball simulation
   series developed by Dynamix and published by Sierra On-Line throughout the 1990s....
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Baseball Pro
 
-<small style="color: gray">Last updated: February 7, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

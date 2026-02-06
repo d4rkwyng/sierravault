@@ -12,14 +12,14 @@ series: Leisure Suit Larry
 engine: Unity
 protagonist: Larry Laffer
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-02-04'
 description: 'Leisure Suit Larry: Wet Dreams Dry Twice is a 2020 point-and-click adventure
   game developed by German studio CrazyBunch and published by Assemble...'
 tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: January 9, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

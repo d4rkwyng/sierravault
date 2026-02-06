@@ -10,7 +10,7 @@ series: Gobliiins
 engine: Gob
 protagonist: Asgard, Ignatius, and Oups (Hooter, Dwayne, and BoBo in US)
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Gobliiins is a quirky point-and-click adventure/puzzle game developed
   by French studio Coktel Vision and released in 1991. Created by Pierre Gilhodes
   and...
@@ -18,7 +18,7 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 ---
 # Gobliiins
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

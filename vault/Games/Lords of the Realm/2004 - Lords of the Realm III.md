@@ -11,14 +11,14 @@ series: Lords of the Realm
 engine: Full 3D engine
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: '**Lords of the Realm III** is a medieval themed real-time strategy computer
   game released in 2004. Developed by Impressions Games and published by Sierra...'
 tags: [2000s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm III
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

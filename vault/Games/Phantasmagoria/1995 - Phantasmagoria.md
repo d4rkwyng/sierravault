@@ -10,14 +10,14 @@ series: Phantasmagoria
 engine: SCI2.1
 protagonist: Adrienne Delaney
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: Phantasmagoria is a 1995 interactive horror adventure game designed by
   Roberta Williams and developed by Sierra On-Line. The game marked a radical departure...
 tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

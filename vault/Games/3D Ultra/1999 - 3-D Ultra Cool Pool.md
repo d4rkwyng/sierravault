@@ -10,14 +10,14 @@ series: 3-D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 3-D Ultra Cool Pool is a billiards simulation game developed by Dynamix
   through Jeff Tunnell Productions and published by Sierra Attractions in 1999....
 tags: [1990s, 3-d-ultra, sierra]
 ---
 # 3-D Ultra Cool Pool
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Al Lowe]
 description: 'Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA is a 1991
   remake of Sierra On-Line''s influential 1987 adult comedy adventure game, featuring
@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra, two-guys]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

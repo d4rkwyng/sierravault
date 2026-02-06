@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGI
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'Space Quest: Chapter I – The Sarien Encounter is a graphic adventure
   game developed and published by Sierra On-Line, released in October 1986 for MS-DOS...'
 tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14]. Designed by [[Mark Crowe]] and [[Scott Murphy]]—who became known as "The Two Guys from Andromeda"—the game casts players as Roger Wilco, a lowly janitor aboard a research spaceship who must stop an alien race from using a stolen superweapon for evil purposes[^ref-5][^ref-3]. Space Quest was an instant hit, selling in excess of 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4][^ref-5]. The game's combination of science fiction setting, sardonic humor, and frequent humorous death scenes established a distinct identity that set it apart from Sierra's fantasy-themed adventures[^ref-6].

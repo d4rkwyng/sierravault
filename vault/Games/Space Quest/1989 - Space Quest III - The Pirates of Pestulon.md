@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI0
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'Space Quest III: The Pirates of Pestulon is a graphic adventure game
   developed and published by Sierra On-Line, released on March 24, 1989 for MS-DOS,
   with...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the third installment in the Space Quest series and the first to use Sierra's SCI engine[^ref-2][^ref-5]. The game features music composed by Supertramp drummer Bob Siebenberg and was one of the first games to support the Sound Blaster sound card[^ref-2][^ref-4]. Space Quest III won the Software Publishers Association's "Best Adventure Game of the Year" award for 1989[^ref-4]. The game continues the misadventures of Roger Wilco as he becomes involved in rescuing a pair of computer programmers—the game's own creators—from a sinister video game company[^ref-2].

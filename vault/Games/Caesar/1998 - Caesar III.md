@@ -10,14 +10,14 @@ series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Caesar III is a city-building strategy game that transports players to
   the Roman Empire, where they serve as a provincial governor tasked with building...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

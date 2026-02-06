@@ -10,7 +10,7 @@ series: Front Page Sports Baseball
 engine: Physics-based simulation engine
 protagonist: N/A (Player-controlled teams)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Charles Barth]
 description: 'Front Page Sports: Baseball Pro ''98 is a baseball sports simulation
   video game developed by Dynamix and published by Sierra On-Line for Microsoft Windows
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports-baseball, sierra]
 ---
 # Front Page Sports: Baseball Pro '98
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

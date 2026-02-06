@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: SCI2
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers is a point-and-click adventure game
   developed and published by Sierra On-Line, released on December 17, 1993. Designed...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

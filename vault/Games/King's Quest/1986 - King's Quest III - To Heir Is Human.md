@@ -11,7 +11,7 @@ series: King's Quest
 engine: AGI
 protagonist: Gwydion (Prince Alexander)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Margaret Lowe]
 description: 'King''s Quest III: To Heir Is Human is the third installment in the
   landmark King''s Quest series of graphic adventure games, released in November 1986
@@ -20,7 +20,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

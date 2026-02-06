@@ -10,14 +10,14 @@ series: Shivers
 engine: SCI32
 protagonist: Unnamed teenager
 sierra_lineage: Core Sierra
-last_updated: '2026-01-13'
+last_updated: '2026-02-04'
 description: Shivers is a first-person horror adventure game released by Sierra On-Line
   in November 1995, marking the company's first foray into first-person adventure...
 tags: [1990s, adventure, sci, shivers, sierra]
 ---
 # Shivers
 
-<small style="color: gray">Last updated: January 13, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

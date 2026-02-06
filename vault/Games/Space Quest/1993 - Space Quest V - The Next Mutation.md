@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1.1
 protagonist: Roger Wilco
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure
   game developed by Dynamix and published by Sierra On-Line, released on February
   5,...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18]. Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-18][^ref-3]. Set within a spoof of the Star Trek franchise, the story focuses on Roger Wilco finally achieving his dream of becoming a star captain, only to become involved in saving the galaxy from a deadly threat posed by a man-made virus[^ref-5][^ref-18]. The game was released on floppy disk only; early plans for a CD-ROM "talkie" version were cancelled because Dynamix was in financial trouble and eager to release new games rather than work on enhanced versions of already-released titles[^ref-4][^ref-3].

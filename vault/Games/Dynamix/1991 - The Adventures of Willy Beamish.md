@@ -10,14 +10,14 @@ series: Standalone
 engine: Dynamix Game Development System (DGDS)
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: The Adventures of Willy Beamish is a graphic adventure game developed
   by Dynamix and published by Sierra On-Line in 1991. The game puts players in control...
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

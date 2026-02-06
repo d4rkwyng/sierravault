@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: Sierra SCI2
 protagonist: Player (guided by Elaina)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-02-04'
 composer: [Jonathan Cunningham]
 description: The Lost Mind of Dr. Brain is an educational puzzle game released in
   August 1995 by Sierra On-Line, developed by Bright Star Technology. The third...
@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Lost Mind of Dr. Brain
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

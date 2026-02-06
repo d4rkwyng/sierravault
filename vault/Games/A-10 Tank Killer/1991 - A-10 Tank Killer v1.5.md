@@ -12,14 +12,14 @@ series: A-10 Tank Killer Series
 engine: 3Space
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: A-10 Tank Killer is a combat flight simulation that puts players in the
   cockpit of the A-10 Thunderbolt II, also known as the "Warthog". Developed by...
 tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

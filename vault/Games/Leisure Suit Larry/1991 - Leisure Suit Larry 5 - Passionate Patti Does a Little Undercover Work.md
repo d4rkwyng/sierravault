@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI1
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: 'Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work,
   released in 1991, stands as the fourth entry in Al Lowe''s infamous adventure series....'
 tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

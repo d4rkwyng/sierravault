@@ -10,14 +10,14 @@ series: Empire Earth
 engine: Titan
 protagonist: Player-controlled Civilization
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 description: Empire Earth is an ambitious real-time strategy game that spans an unprecedented
   500,000 years of human history, from the prehistoric age through a...
 tags: [2000s, empire-earth, sierra, strategy]
 ---
 # Empire Earth
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

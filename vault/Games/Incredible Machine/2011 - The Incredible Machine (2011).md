@@ -10,7 +10,7 @@ series: The Incredible Machine
 engine: Custom 2D Physics Simulation
 protagonist: None (Player as inventor)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Christopher Stevens]
 description: The Incredible Machine is a groundbreaking physics-based puzzle game
   that challenges players to build elaborate Rube Goldberg-style contraptions to solve...
@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

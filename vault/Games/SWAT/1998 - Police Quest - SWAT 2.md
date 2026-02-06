@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Proprietary (Windows)
 protagonist: SWAT Commander / Dante (Terrorist Campaign)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 description: 'Police Quest: SWAT 2 is a real-time tactics game released on July 11,
   1998, developed by Yosemite Entertainment and published by Sierra FX. Representing
   a...'
@@ -18,7 +18,7 @@ tags: [1990s, police-quest-swat, sierra]
 ---
 # Police Quest: SWAT 2
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

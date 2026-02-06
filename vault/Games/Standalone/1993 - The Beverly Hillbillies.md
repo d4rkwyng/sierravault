@@ -10,7 +10,7 @@ series: N/A
 engine: World Builder
 protagonist: Jed Clampett
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Christopher Barker]
 description: The Beverly Hillbillies is a point-and-click adventure game released
   in 1993 for MS-DOS, developed by Synergistic Software, Inc. and published by Capstone...
@@ -18,7 +18,7 @@ tags: [1990s, adventure, n-a, sierra]
 ---
 # The Beverly Hillbillies
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

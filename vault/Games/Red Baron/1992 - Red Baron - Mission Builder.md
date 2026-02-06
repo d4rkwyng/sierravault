@@ -10,7 +10,7 @@ series: Red Baron
 engine: 3Space
 protagonist: Player-created WWI pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Cayanie Music]
 description: 'Red Baron: Mission Builder is an expansion pack for the critically acclaimed
   World War I combat flight simulator Red Baron, developed by Dynamix and...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: Space Quest
 engine: Adventure Game Studio
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-01-11'
+last_updated: '2026-02-04'
 description: 'Space Quest: Vohaul Strikes Back is a non-commercial fan-made sequel
   to Sierra On-Line''s beloved Space Quest series, developed by a volunteer team known
   as...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, sierra, space-quest]
 ---
 # Space Quest: Vohaul Strikes Back
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,14 +10,14 @@ series: Lighthouse
 engine: SCI32
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
   and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken...'
 tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

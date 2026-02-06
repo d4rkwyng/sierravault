@@ -10,7 +10,7 @@ series: Police Quest / SWAT
 engine: Java
 protagonist: SWAT Team (Artilleryman and Expert)
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: SWAT Force is a mobile tactical action game released on February 28,
   2006, marking a significant milestone as the first game in the Police Quest series
   to...
@@ -18,7 +18,7 @@ tags: [2000s, police-quest-swat, sierra]
 ---
  SWAT Force
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

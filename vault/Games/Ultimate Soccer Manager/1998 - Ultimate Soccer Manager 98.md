@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: Custom Football Management Engine
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Ultimate Soccer Manager stands as one of the most innovative football
   management simulation series of the 1990s, offering players the complete fantasy
   of...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

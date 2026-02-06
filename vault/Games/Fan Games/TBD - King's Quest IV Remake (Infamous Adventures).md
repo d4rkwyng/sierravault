@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-02-02'
+last_updated: '2026-02-04'
 description: 'King''s Quest IV Remake is an in-development fan remake of Sierra''s
   1988 classic *King''s Quest IV: The Perils of Rosella*, being created by Infamous...'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

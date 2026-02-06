@@ -10,14 +10,14 @@ series: The Incredible Machine
 engine: Custom 2D physics engine
 protagonist: None (player-driven)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-02-04'
 description: 'The Incredible Machine: Even More Contraptions is a puzzle game released
   in 2001, serving as the eighth and final installment in the beloved Incredible...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine: Even More Contraptions
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

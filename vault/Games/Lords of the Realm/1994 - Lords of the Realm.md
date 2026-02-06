@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: AIL / Miles Sound System
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: Lords of the Realm is a medieval turn-based strategy game developed by
   Impressions Games and released in 1994. Set in 1268 A.D. during a time when the...
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-02-04'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999....
@@ -18,7 +18,7 @@ tags: [1990s, 3d-ultra, puzzle, sierra]
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

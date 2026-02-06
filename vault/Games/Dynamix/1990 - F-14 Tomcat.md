@@ -10,7 +10,7 @@ series: Dynamix
 engine: 3Space
 protagonist: Naval Fighter Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: ['Russell Lieblich, Matthew Berardo']
 description: F-14 Tomcat is a flight simulation game that has appeared across multiple
   platforms and incarnations since the late 1980s, taking players into the cockpit...
@@ -18,7 +18,7 @@ tags: [1980s, dynamix, sierra, simulation]
 ---
 # F-14 Tomcat
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

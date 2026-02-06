@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Robert Holmes]
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
   developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
@@ -18,7 +18,7 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

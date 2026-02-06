@@ -10,7 +10,7 @@ series: Laura Bow
 engine: SCI 1.1
 protagonist: Laura Bow
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Christopher G. Braymen]
 description: '*The Dagger of Amon Ra* is a murder mystery adventure game developed
   and published by Sierra On-Line in 1992, serving as the second and final installment
@@ -19,7 +19,7 @@ tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

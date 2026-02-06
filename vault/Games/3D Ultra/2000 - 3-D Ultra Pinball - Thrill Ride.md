@@ -10,14 +10,14 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: '3-D Ultra Pinball: Thrillride is a pinball simulation game developed
   by Dynamix and published by Sierra On-Line in 2000 for Windows and Macintosh platforms,...'
 tags: [2000s, 3-d-ultra-pinball, sierra]
 ---
 # 3-D Ultra Pinball: Thrillride
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

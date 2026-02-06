@@ -10,14 +10,14 @@ series: Caesar
 engine: Custom 2D isometric engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Caesar II is a city-building strategy game that transports players to
   ancient Rome, where they assume the role of a provincial governor seeking to rise...
 tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

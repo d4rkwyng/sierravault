@@ -10,14 +10,14 @@ series: Gold Rush!
 engine: Custom (pre-rendered)
 protagonist: Jerrod Wilson
 sierra_lineage: Fan Project
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 description: Gold Rush! Anniversary is a 2014 remake of the beloved 1988 Sierra On-Line
   adventure game Gold Rush!, developed by Sunlight Games and published by KISS Ltd....
 tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

@@ -10,7 +10,7 @@ series: City Building Series
 engine: 2D-sprite game engine
 protagonist: Player as Emperor/City Administrator
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Jeff van Dyck]
 description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy game
   developed by BreakAway Games in collaboration with Impressions Games and published
@@ -19,7 +19,7 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
  Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

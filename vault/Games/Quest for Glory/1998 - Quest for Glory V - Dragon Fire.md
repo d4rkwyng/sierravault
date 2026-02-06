@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: Custom 3D
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 composer: [Chance Thomas]
 description: 'Quest for Glory V: Dragon Fire is the fifth and final game in the Quest
   for Glory series, developed by Yosemite Entertainment and published by Sierra FX
@@ -19,7 +19,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory V: Dragon Fire
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2]. Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6]. The game was always planned as part of the series (whereas Wages of War originally was not), but it would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line[^ref-1][^ref-4]. Dragon Fire features polygonal 3D characters over pre-rendered 2D backgrounds, making it one of the earliest adopters of a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1]. The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].

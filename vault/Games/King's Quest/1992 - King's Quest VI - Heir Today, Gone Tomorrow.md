@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

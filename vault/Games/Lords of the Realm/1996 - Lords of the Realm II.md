@@ -10,7 +10,7 @@ series: Lords of the Realm
 engine: DOS4GW
 protagonist: Player-controlled Lord
 sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Keith Zizza]
 description: Lords of the Realm II is a medieval strategy game that masterfully blends
   turn-based resource management with real-time combat, set against a rich...
@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

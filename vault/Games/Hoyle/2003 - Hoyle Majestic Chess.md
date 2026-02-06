@@ -11,7 +11,7 @@ series: Hoyle
 engine: WChess 2000
 protagonist: The King
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-02-04'
 composer: [Clockwork Productions]
 description: Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment,
   Inc. and published by Sierra Entertainment in North America in 2003. The game...
@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Majestic Chess
 
-<small style="color: gray">Last updated: January 15, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

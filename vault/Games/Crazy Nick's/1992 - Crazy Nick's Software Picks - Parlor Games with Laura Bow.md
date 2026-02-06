@@ -10,14 +10,14 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-20'
+last_updated: '2026-02-04'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a budget
   compilation title released by Sierra On-Line in 1992 as part of their Crazy Nick''s...'
 tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: January 20, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

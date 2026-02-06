@@ -10,14 +10,14 @@ series: King's Quest (Fan Remake)
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'King''s Quest IV Retold is a fan-made point-and-click remake of Sierra
   On-Line''s classic 1988 adventure game *King''s Quest IV: The Perils of Rosella*....'
 tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

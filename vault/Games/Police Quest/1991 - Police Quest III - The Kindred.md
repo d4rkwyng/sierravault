@@ -10,7 +10,7 @@ series: Police Quest
 engine: SCI1
 protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-04'
 composer: [Jan Hammer]
 description: 'Police Quest III: The Kindred is a 1991 police procedural adventure
   game developed and published by Sierra On-Line, marking the third installment in
@@ -19,7 +19,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

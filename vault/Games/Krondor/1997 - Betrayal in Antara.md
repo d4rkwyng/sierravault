@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a spiritual successor to the acclaimed 1993 title Betrayal
   at...
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

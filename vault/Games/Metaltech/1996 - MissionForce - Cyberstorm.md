@@ -10,14 +10,14 @@ series: Earthsiege/Starsiege
 engine: Dynamix 3Space
 protagonist: Corporation Commander (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 description: 'MissionForce: CyberStorm is a turn-based strategy game developed by
   Dynamix and published by Sierra On-Line in 1996. Set in the Earthsiege/Starsiege...'
 tags: [1990s, earthsiege-starsiege, sierra, strategy]
 ---
 # MissionForce: CyberStorm
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

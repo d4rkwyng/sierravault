@@ -10,14 +10,14 @@ series: Dr. Brain
 engine: SCI1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-02-04'
 description: Castle of Dr. Brain is an educational puzzle game developed and published
   by Sierra On-Line in 1991, representing the company's first major foray into the...
 tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

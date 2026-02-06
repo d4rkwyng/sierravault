@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: Live match engine
 protagonist: Player-created Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-01-16'
+last_updated: '2026-02-04'
 description: Ultimate Soccer Manager 98-99 is the final release in the USM series,
   which began in 1995 and became a massive hit in Europe. Developed by Impressions
   Games...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 98-99
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

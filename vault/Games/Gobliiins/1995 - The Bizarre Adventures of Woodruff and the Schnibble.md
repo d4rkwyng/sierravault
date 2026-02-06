@@ -10,7 +10,7 @@ series: Standalone (Gobliiins spiritual successor)
 engine: Gob
 protagonist: Woodruff
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-30'
+last_updated: '2026-02-04'
 composer: [Charles Callet]
 description: '*The Bizarre Adventures of Woodruff and the Schnibble* (known in Europe
   as *Woodruff and the Schnibble of Azimuth*) is a point-and-click adventure game...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

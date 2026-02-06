@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix 3D Engine
 protagonist: Unnamed A-10 Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-20'
+last_updated: '2026-02-04'
 composer: [Alan McKean]
 description: A-10 Tank Killer is a combat flight simulation developed and published
   by Dynamix in December 1989 for DOS, with an Amiga port following in 1990-1991.
@@ -19,7 +19,7 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: January 20, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 

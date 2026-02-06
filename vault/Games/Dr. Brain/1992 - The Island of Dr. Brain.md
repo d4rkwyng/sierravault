@@ -10,7 +10,7 @@ series: Dr. Brain
 engine: SCI1.1
 protagonist: Unnamed Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-10'
+last_updated: '2026-02-04'
 composer: [Rob Atesalp]
 description: The Island of Dr. Brain is an educational puzzle adventure game released
   in 1992 by Sierra On-Line as part of the Sierra Discovery Series. As the second...
@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Island of Dr. Brain
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: February 4, 2026</small>
 
 ## Overview
 
