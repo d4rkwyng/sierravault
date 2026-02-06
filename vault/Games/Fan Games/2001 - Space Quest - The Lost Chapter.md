@@ -212,9 +212,6 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 
 ## Downloads
 
-**Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/space-quest-the-lost-chapter) - Community Dreamlist
-
 **Download / Preservation**
 - [Internet Archive (AGI Version)](https://archive.org/details/agi_space-quest-x-the-lost-chapter)
 - [Internet Archive (Windows Version)](https://archive.org/details/SpaceQuestTheLostChapter)
