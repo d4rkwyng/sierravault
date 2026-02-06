@@ -156,7 +156,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-24]: [Geek Vibes Nation](https://geekvibesnation.com/flashback-friday-pc-gaming-dynamix-sierra-online/) – - PC Gamer ranking
 [^ref-25]: [MobyGames - Game Arts](https://www.mobygames.com/company/29/game-arts-co-ltd/) – - Company founding information
 [^ref-26]: [VGM Database](https://vgmdb.net/album/146078) – - Soundtrack composition information
-[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – - User nostalgic comment
+[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - User nostalgic comment
 [^ref-28]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – - Technical achievement
 [^ref-29]: [Square Enix](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – - Graphics description
 [^ref-30]: [Pixs Original Adventures](https://www.pixsoriginadventures.co.uk/thexder/) – - EGA color simulation

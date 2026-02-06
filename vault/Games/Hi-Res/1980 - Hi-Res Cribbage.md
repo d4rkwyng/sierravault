@@ -179,7 +179,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-cribbage)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -155,7 +155,7 @@ Despite its innovations and critical acclaim, PGA Championship Golf 2000 is not 
 [^ref-16]: https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html - CNET Gamecenter archived review by Jason Ocampo
 [^ref-17]: https://www.myabandonware.com/game/pga-championship-golf-2000-a5h - MyAbandonware user reviews and download information
 [^ref-18]: https://www.amazon.com/PGA-Championship-Golf-2000-Titanium-PC/dp/B000056OYP - Amazon customer reviews and ratings
-[^ref-19]: https://www.gog.com/dreamlist/game/pga-championship-golf-2000-2000 - GOG user community memories and feedback
+[^ref-19]: https://www.gog.com/dreamlist - GOG user community memories and feedback
 [^ref-20]: https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/ - MobyGames Titanium Edition details and ratings
 [^ref-21]: https://gamefabrique.com/games/pga-championship-golf-2000/ - GameFabrique retrospective review and assessment
 [^ref-22]: https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/ - Archived SportPlanet interview with senior producer Mike Jacob

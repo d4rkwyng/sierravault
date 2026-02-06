@@ -231,7 +231,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/air-bucks)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

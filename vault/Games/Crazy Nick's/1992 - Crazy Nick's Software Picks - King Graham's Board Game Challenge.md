@@ -161,7 +161,7 @@ King Graham's Board Game Challenge demonstrates the synergy between Sierra's Hoy
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/crazy-nicks-software-picks-king-grahams-board-game-challenge) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-king-graham-s-board-game-challenge-1yz)[^ref-11]

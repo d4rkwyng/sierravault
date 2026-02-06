@@ -233,7 +233,7 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – DOS version preservation[^ref-13]
 
 **Community Interest**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-1-1989)[^ref-11]
+- [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-11]
 
 ## Series Continuity
 
@@ -258,7 +258,7 @@ The success of Volume 1 led directly to the development of Volume 2 (1990), whic
 [^ref-8]: [LastDodo – Hoyle Official Book of Games Volume 1](https://www.lastdodo.com/en/items/4241357-hoyle-official-book-of-games-volume-1) – Amiga physical edition contents, media specifications
 [^ref-9]: [PriceCharting – Hoyle Official Book of Games Volume One](https://www.pricecharting.com/game/pc-games/hoyle-official-book-of-games-volume-one) – release date, rarity status
 [^ref-10]: [Sierra Gamers – Ken Williams Biography](https://www.sierragamers.com/ken-williams/) – production credits, company philosophy
-[^ref-11]: [GOG.com Dreamlist – Hoyle Official Book of Games Volume 1](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-1-1989) – basic game information, community interest
+[^ref-11]: [GOG.com Dreamlist – Hoyle Official Book of Games Volume 1](https://www.gog.com/dreamlist) – basic game information, community interest
 [^ref-12]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – engine compatibility, series overview
 [^ref-13]: [Internet Archive – Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – preservation copy, DOS version
 [^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context

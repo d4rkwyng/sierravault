@@ -194,7 +194,7 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/air-force-commander)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

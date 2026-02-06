@@ -199,7 +199,7 @@ The game's historical significance lies primarily in documenting the evolution o
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/ww2-air-force-commander)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

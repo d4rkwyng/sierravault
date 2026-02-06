@@ -184,7 +184,7 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/david-wolf-secret-agent) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Available on Steam as part of retro collections
 
 **Download / Preservation**

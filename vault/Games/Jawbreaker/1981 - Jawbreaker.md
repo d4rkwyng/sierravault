@@ -200,7 +200,7 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/jawbreaker) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/a2_Jawbreaker_1981_On_Line)[^ref-1]

@@ -146,7 +146,7 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-miami-solitaire)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

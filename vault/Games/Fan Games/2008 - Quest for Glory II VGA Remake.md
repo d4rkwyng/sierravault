@@ -162,7 +162,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/quest-for-glory-ii-vga-remake)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

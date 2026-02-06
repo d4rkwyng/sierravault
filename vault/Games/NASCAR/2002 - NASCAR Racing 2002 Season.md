@@ -128,7 +128,7 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 
 **Purchase / Digital Stores**
 - Currently not available on major digital platforms like Steam or GOG
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2002-season) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2002-season-2002) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2002-season-m0i) - Full game download with compatibility information

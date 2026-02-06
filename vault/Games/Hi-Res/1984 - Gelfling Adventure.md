@@ -145,7 +145,7 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/gelfling-adventure)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

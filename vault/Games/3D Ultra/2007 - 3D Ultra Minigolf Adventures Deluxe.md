@@ -223,7 +223,7 @@ The 3-D Ultra brand encompassed numerous other game types including pinball (199
 [^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, development, releases, GameSpot review
 [^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
 [^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins
-[^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-deluxe-2009) – game description, community votes, features
+[^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist) – game description, community votes, features
 [^ref-7]: [Kotaku – 3D Ultra Minigolf Adventures Deluxe](https://kotaku.com/games/3d-ultra-minigolf-adventures-deluxe) – game features, description
 [^ref-12]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – game description, community hub
 [^ref-9]: [XB Deals Canada – 3D Ultra Minigolf Adventures](https://xbdeals.net/ca-store/game/677939/3d-ultra-minigolf-adventures) – Xbox release date, price, languages, developer

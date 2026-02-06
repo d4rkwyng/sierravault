@@ -216,7 +216,7 @@ Hoyle Official Book of Games Volume 3 was the third entry in Sierra's series of 
 [^ref-9]: [Internet Archive – Hoyle Classic Games](https://archive.org/details/hoyle-classic-games) – character opponents, game list
 [^ref-10]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – ratings, interface details, easter eggs
 [^ref-11]: [eBay Product Page](https://www.ebay.com/p/53830419) – control elements, players, customization options
-[^ref-12]: [GOG Dreamlist – Hoyle Classic Games](https://www.gog.com/dreamlist/game/hoyle-classic-games-1995) – series position, game content
+[^ref-12]: [GOG Dreamlist – Hoyle Classic Games](https://www.gog.com/dreamlist) – series position, game content
 [^ref-13]: [MyAbandonware – Hoyle Classic Games](https://www.myabandonware.com/game/hoyle-classic-games-3l5) – ratings, file sizes, preservation status
 [^ref-14]: [eBay Listing](https://www.ebay.com/itm/334303570978) – media type, platform compatibility
 [^ref-15]: [Amazon Customer Reviews](https://www.amazon.com/Hoyle-Classic-Games-Pc/dp/B0007WJJT4) – compatibility issues

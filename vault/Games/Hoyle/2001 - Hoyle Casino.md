@@ -203,7 +203,7 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist/game/hoyle-casino-2000)
+- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-2001)

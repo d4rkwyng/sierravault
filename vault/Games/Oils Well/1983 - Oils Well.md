@@ -211,7 +211,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/oils-well)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

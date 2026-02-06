@@ -147,7 +147,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 **Purchase / Digital Stores**
 - Currently not available on Steam[^ref-39]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/police-quest-open-season) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/police-quest-open-season-1993) - Community Dreamlist
 - Available on GOG as part of Police Quest Collection[^ref-40]
 
 **Download / Preservation**

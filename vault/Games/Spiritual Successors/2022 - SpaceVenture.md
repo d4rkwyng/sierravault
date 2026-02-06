@@ -138,7 +138,7 @@ The team has continued supporting the game post-release, with v2 updates in late
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/spaceventure)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

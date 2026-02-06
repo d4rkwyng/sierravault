@@ -223,7 +223,7 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kempelen)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

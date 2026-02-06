@@ -127,7 +127,7 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 
 **Purchase / Digital Stores**
 - Not available on GOG, Steam, or major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-crosswords) – Community Dreamlist for digital re-release[^ref-7]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist for digital re-release[^ref-7]
 - Physical copies available through secondary markets
 
 **Download / Preservation**
@@ -160,7 +160,7 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 
 [^ref-6]: [MobyGames – Hoyle Official Book Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Interface style reference, series origins
 
-[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – User sentiment, community interest
+[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist) – User sentiment, community interest
 
 [^ref-8]: [GameSpot – Sierra Shifts Course](https://www.gamespot.com/articles/sierra-shifts-course/1100-2804424/) – Corporate restructuring, Michael Ryder quotes
 

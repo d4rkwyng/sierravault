@@ -192,7 +192,7 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-helicopter-simulator)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-helicopter-simulator-1987)
 
 ## Downloads
 

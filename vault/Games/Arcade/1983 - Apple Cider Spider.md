@@ -214,7 +214,7 @@ The game's creative premise—controlling a spider through cider factory machine
 [^ref-14]: [GameFAQs – Apple Cider Spider](https://gamefaqs.gamespot.com/c64/564622-apple-cider-spider) – user ratings, developer attribution, length/difficulty ratings
 [^ref-15]: [Commodore Games Network](https://www.commodoregames.net/Commodore64/Apple-Cider-Spider-340.html) – PAL format, platform type
 [^ref-16]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Apple+Cider+Spider) – September 1983 release date
-[^ref-17]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/apple-cider-spider-1983) – wishlist entry, platform confirmation
+[^ref-17]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – wishlist entry, platform confirmation
 [^ref-18]: [Virtual Apple](http://www.virtualapple.org/appleciderspiderdisk.html) – Apple II/IIgs compatibility, disk format
 [^ref-19]: [Internet Archive – C64 Version](https://archive.org/details/Apple_Cider_Spider_1984_Sierra_Online) – C64 technical specs, file format
 [^ref-20]: [Wikidata – Apple Cider Spider](https://www.wikidata.org/wiki/Q4781143) – country of origin, genre classification

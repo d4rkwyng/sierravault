@@ -225,7 +225,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/crazy-nicks-software-picks-leisure-suit-larrys-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

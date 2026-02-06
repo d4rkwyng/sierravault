@@ -206,7 +206,7 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 **Purchase / Digital Stores**
 - Not available (game was never released)
 - The Space Quest Collection on Steam contains a promotional trailer for the cancelled game
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/space-quest-vii-return-to-roman-numerals)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

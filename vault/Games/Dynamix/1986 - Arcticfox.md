@@ -231,7 +231,7 @@ For many players of the era, Arcticfox represented their first encounter with 3D
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/arcticfox)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

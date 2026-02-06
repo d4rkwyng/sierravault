@@ -171,7 +171,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/order-of-the-thorne-fortress-of-fire)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

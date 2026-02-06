@@ -173,7 +173,7 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/wizard-of-ids-wizmath)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

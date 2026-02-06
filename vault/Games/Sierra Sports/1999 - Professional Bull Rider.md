@@ -192,7 +192,7 @@ The franchise's continued existence through mobile and console titles decades la
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/professional-bull-rider)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

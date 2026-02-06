@@ -184,7 +184,7 @@ The continued support for the project, with updates still being released as rece
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/space-quest-ii-vga-remake)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

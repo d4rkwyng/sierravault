@@ -190,7 +190,7 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Game was originally budget-priced retail software
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

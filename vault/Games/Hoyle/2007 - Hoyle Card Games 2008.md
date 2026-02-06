@@ -203,7 +203,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Product discontinued; physical copies may be available from resellers[^ref-3]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-card-games-2008)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-card-games-2000)
 
 ## Downloads
 

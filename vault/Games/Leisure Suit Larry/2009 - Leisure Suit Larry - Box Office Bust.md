@@ -166,7 +166,7 @@ Leisure Suit Larry: Box Office Bust is the direct sequel to Magna Cum Laude, con
 [^ref-25]: http://www.gamesradar.com/leisure-suit-larry-box-office-bust-review/ - GamesRadar+ contemporary review
 [^ref-26]: https://www.gamesradar.com/leisure-suit-larry-box-office-bust/ - GamesRadar+ game page
 [^ref-27]: https://www.gamewatcher.com/reviews/leisure-suit-larry-box-office-bust-review/9742 - GameWatcher negative review
-[^ref-28]: https://www.gog.com/dreamlist/game/leisure-suit-larry-box-office-bust-2009 - GOG wishlist with user reviews about technical issues
+[^ref-28]: https://www.gog.com/dreamlist - GOG wishlist with user reviews about technical issues
 [^ref-29]: https://howlongtobeat.com/?q=Leisure+Suit+Larry%3A+Box+Office+Bust - HowLongToBeat search (no specific results)
 [^ref-30]: http://www.ign.com/articles/2009/05/13/leisure-suit-larry-box-office-bust-review - IGN extremely negative review
 [^ref-31]: https://www.ign.com/articles/2008/01/17/leisure-suit-larry-box-office-bust-interview?page=2 - IGN developer interview with design philosophy

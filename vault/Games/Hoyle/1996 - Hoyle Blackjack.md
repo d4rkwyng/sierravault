@@ -181,7 +181,7 @@ The game's influence on casino game design persists in modern software, though c
 
 **Purchase / Digital Stores**
 - [Amazon - Encore Re-release](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Modern digital download (compatibility varies)
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-blackjack) - Community Dreamlist for proper re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for proper re-release
 
 **Download / Preservation**
 - [Internet Archive - Blackjack 1996](https://archive.org/details/Blackjack_201905) - Original version preservation
@@ -212,7 +212,7 @@ The game's influence on casino game design persists in modern software, though c
 [^ref-11]: [MobyGames - Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) - Starting money and voice cast
 [^ref-12]: [MobyGames - Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) - Documentation format and critic scores
 [^ref-13]: [Amazon Review Quote](https://www.amazon.com/Hoyle-Craps-Blackjack-PC-Mac/dp/B00001JWML) - GameSpot review citation
-[^ref-15]: [GOG Community](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) - User enthusiasm for Hoyle series
+[^ref-15]: [GOG Community](https://www.gog.com/dreamlist) - User enthusiasm for Hoyle series
 [^ref-16]: [Company Histories](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) - Sierra business strategy and diversification
 [^ref-18]: [Grokipedia](https://grokipedia.com/page/Hoyle_Casino) - Technical innovations and series statistics
 [^ref-19]: [GameSpot News](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - 2006 corporate restructuring

@@ -113,7 +113,7 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms[^ref-73]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/birthright-the-gorgons-alliance) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/birthright-the-gorgon-s-alliance) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov)[^ref-74]
@@ -188,12 +188,12 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 [^ref-61]: Sierra Help. "Birthright: The Gorgon's Alliance Help." Accessed January 9, 2026. https://sierrahelp.com/Games/BirthrightHelp.html
 [^ref-62]: PC Gaming Wiki. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.pcgamingwiki.com/wiki/Birthright:_The_Gorgon's_Alliance
 [^ref-63]: Collection Chamber. "Birthright: Gorgon Alliance." Accessed January 9, 2026. https://collectionchamber.blogspot.com/p/birthright-gorgon-alliance.html
-[^ref-64]: GOG Dreamlist. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.gog.com/dreamlist/game/birthright-the-gorgons-alliance
+[^ref-64]: GOG Dreamlist. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.gog.com/dreamlist/game/birthright-the-gorgon-s-alliance
 [^ref-65]: Kiran Welle. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.kiranwelle.com/birthright/
 [^ref-66]: GitHub - BirP. "Birthright Preservation Patch." Accessed January 9, 2026. https://github.com/Shiryou/BirP
 [^ref-67]: Reddit. "Birthright: The Gorgon's Alliance - The Good, The Bad." Accessed January 9, 2026. https://www.reddit.com/r/patientgamers/comments/13a3brl/birthright_the_gorgons_alliance_the_good_the_bad/
 [^ref-68]: Kiran Welle. "Birthright: The Gorgon's Alliance Series." Accessed January 9, 2026. https://www.kiranwelle.com/series/rebuilding-birthright-the-gorgons-alliance
-[^ref-69]: GOG Dreamlist. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.gog.com/dreamlist/game/birthright-the-gorgons-alliance
+[^ref-69]: GOG Dreamlist. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.gog.com/dreamlist/game/birthright-the-gorgon-s-alliance
 [^ref-70]: ModDB. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.moddb.com/games/birthright-the-gorgons-alliance
 [^ref-71]: GitHub - BirP. "Birthright Preservation Patch." Accessed January 9, 2026. https://github.com/Shiryou/BirP
 [^ref-72]: Kiran Welle. "Birthright: The Gorgon's Alliance." Accessed January 9, 2026. https://www.kiranwelle.com/birthright/

@@ -252,7 +252,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/bcs-quest-for-tires)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

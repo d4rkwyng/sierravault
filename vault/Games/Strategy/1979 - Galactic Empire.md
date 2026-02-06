@@ -181,7 +181,7 @@ The game's influence can be traced through the entire 4X genre—from later titl
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/galactic-empire) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Galactic_Empire_1981_Adventure_International_US)

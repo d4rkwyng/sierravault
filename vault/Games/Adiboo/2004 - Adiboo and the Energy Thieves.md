@@ -168,7 +168,7 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/adiboo-and-the-energy-thieves)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -192,7 +192,7 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist/game/hoyle-casino-2000)
+- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [Internet Archive – Hoyle Casino 2000](https://archive.org/details/Hoyle_Casino_2000_U)[^ref-1]

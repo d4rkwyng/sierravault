@@ -285,7 +285,7 @@ The team's approach of receiving official licensing before distribution set an i
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kings-quest-i-vga-remake)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -220,7 +220,7 @@ All three Pro Pilot titles shared similar core gameplay focused on civilian avia
 [^ref-2]: [Grokipedia – Sierra Pro Pilot](https://grokipedia.com/page/sierra_pro_pilot) – development history, technical specifications, Sub-Logic acquisition, Dynamix background, critical reception, 3Space technology
 [^ref-3]: [Wikipedia – Sierra Pro Pilot](https://en.wikipedia.org/wiki/Sierra_Pro_Pilot) – release dates, gameplay features, review scores, sales data, series information
 [^ref-4]: [MobyGames – Sierra Pro Pilot '98](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) – developer credits, technical specifications, critic scores, installation issues
-[^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist/game/sierra-pro-pilot-98-the-complete-flight-simulator-1997) – aircraft list, gameplay features, community interest
+[^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist) – aircraft list, gameplay features, community interest
 [^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – user experiences, technical issues, legacy compatibility, pricing history
 [^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog information, preservation status
 [^ref-8]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Pro+Pilot+USA) – digital availability status

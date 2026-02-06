@@ -225,7 +225,7 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/casino-de-luxe)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -255,4 +255,4 @@ The broader Front Page Sports line included football management simulations that
 [^ref-17]: [eBay Product Page](https://www.ebay.com/p/54066195) – product description, publisher confirmation
 [^ref-18]: [Metacritic – Front Page Sports: Trophy Rivers](https://www.metacritic.com/game/front-page-sports-trophy-rivers/) – release date, developer/publisher confirmation
 [^ref-19]: [The Video Game Database Fandom](https://thevideogamedatabase.fandom.com/wiki/Front_Page_Sports:_Trophy_Rivers) – release date, GameSpot score reference
-[^ref-20]: [GOG Dreamlist – Front Page Sports: Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – series predecessor information, gameplay mechanics
+[^ref-20]: [GOG Dreamlist – Front Page Sports: Trophy Bass 2](https://www.gog.com/dreamlist) – series predecessor information, gameplay mechanics

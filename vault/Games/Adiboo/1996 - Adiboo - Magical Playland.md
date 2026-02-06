@@ -211,7 +211,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/adiboo-magical-playland)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

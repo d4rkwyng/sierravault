@@ -137,7 +137,7 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/mixed-up-mother-goose-deluxe) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware - Deluxe Version](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7)

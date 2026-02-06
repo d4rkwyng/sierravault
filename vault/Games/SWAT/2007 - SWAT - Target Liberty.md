@@ -206,7 +206,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/swat-target-liberty)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -162,7 +162,7 @@ The series is perhaps best remembered for its educational features rather than i
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/power-chess-2-0)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

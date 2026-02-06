@@ -231,7 +231,7 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/summer-daze-tillys-tale)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -237,7 +237,7 @@ The game is preserved through abandonware archives, though it faces compatibilit
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – Community Dreamlist[^ref-7]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist[^ref-7]
 
 ## Downloads
 
@@ -267,7 +267,7 @@ The game is preserved through abandonware archives, though it faces compatibilit
 [^ref-4]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – Game archive with historical information, user reviews
 [^ref-5]: [GameFabrique](https://gamefabrique.com/games/front-page-sports-trophy-bass-2/) – Review with Trophy Boss engine details
 [^ref-6]: [eBay Listing](https://www.ebay.com/itm/403449583476) – Original product description and features
-[^ref-7]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – User-submitted game description
+[^ref-7]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – User-submitted game description
 [^ref-8]: [MobyGames – Specs](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/specs/) – Technical specifications and platform details
 [^ref-9]: [Old-Games.com](https://www.old-games.com/download/8786/front-page-sports-trophy-bass) – Comprehensive game review
 [^ref-10]: [eBay Listing](https://www.ebay.com/itm/226030508343) – Marketing description from product listing

@@ -201,7 +201,7 @@ From a modern perspective, the game serves as an important data point in underst
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/wrath-of-denethenor)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -287,7 +287,7 @@ The title competed directly with Access Software's Links series, which was consi
 [^ref-8]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=306&title=golf&fld=walkthrough) – Quick Start, default players, save file information
 [^ref-9]: [CNET Gamecenter – Review](https://web.archive.org/web/20010105172400/http://www.gamecenter.com/Reviews/Item/0,6,0-964,00.html) – 8/10 score, Gordon Goble review, TrueSwing description
 [^ref-11]: [Internet Archive – Demo](https://archive.org/details/FPSGOLF) – demo version, TrueSwing description, advanced ball dynamics
-[^ref-12]: [GOG.com – Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-golf) – user comments, lasting appeal, available courses
+[^ref-12]: [GOG.com – Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-golf-1997) – user comments, lasting appeal, available courses
 [^ref-13]: [MyAbandonware – Front Page Sports: Golf](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – alternate names, regional releases, user reviews
 [^ref-14]: [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – release date, user ratings, game length
 [^ref-15]: [HandWiki – Front Page Sports: Golf](https://handwiki.org/wiki/Software:Front_Page_Sports:_Golf) – development timeline, course creation process, version history

@@ -207,7 +207,7 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/air-cavalry) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Antstream (Streaming service) – 2023 release[^ref-15]
 
 **Secondary Market**

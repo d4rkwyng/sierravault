@@ -258,7 +258,7 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf-collectors-edition)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

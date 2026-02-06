@@ -182,7 +182,7 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms[^ref-28]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - Community Dreamlist[^ref-25]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist[^ref-25]
 
 ## Downloads
 
@@ -224,7 +224,7 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 [^ref-22]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Modern system compatibility
 [^ref-23]: [HandWiki - After Dark History](https://handwiki.org/wiki/Software:After_Dark) - Cultural impact context
 [^ref-24]: [Old Games Download](https://oldgamesdownload.com/after-dark-games/) - Community preservation efforts, user comments
-[^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - User preservation requests, nostalgia quotes
+[^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist) - User preservation requests, nostalgia quotes
 [^ref-26]: [Speedrun.com - Toaster Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Specific speedrun submission
 [^ref-27]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/189342-after-dark-games/cheats) - Easter eggs and hidden features
 [^ref-28]: [Steam Search](https://store.steampowered.com/search/?term=After+Dark+Games) - Digital availability status

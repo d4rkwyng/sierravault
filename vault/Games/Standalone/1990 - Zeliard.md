@@ -231,7 +231,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/zeliard) - Community request page[^ref-31]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community request page[^ref-31]
 
 **Download / Preservation**
 - [Internet Archive – Zeliard](https://archive.org/details/ZELIARD)[^ref-9]
@@ -289,7 +289,7 @@ The title represents an interesting intersection of Japanese and American gaming
 [^ref-28]: [Speedrun.com – Zeliard Guide](https://www.speedrun.com/zeliard/guides/zwjuc) – DOSBox cycles recommendation, speed settings
 [^ref-29]: [PC Gamer – Worst PC Game Box Art](https://www.pcgamer.com/the-worst-pc-game-box-art-ever/) – box art criticism quote
 [^ref-30]: [VJ Army – Zeliard](https://vjarmy.com/archives/2013/06/zeliard.php) – Japanese gaming exposure, Game Arts legacy
-[^ref-31]: [GOG Dreamlist – Zeliard](https://www.gog.com/dreamlist/game/zeliard) – digital availability status
+[^ref-31]: [GOG Dreamlist – Zeliard](https://www.gog.com/dreamlist) – digital availability status
 [^ref-32]: [Zeliard Game Tripod – Projects](https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
 [^ref-33]: [Abandonware DOS – Zeliard Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849) – manual content, installation instructions
 [^ref-34]: [KHInsider – Zeliard MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987) – MT-32 recording details, track listing

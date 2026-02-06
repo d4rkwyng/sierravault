@@ -195,7 +195,7 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-card-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -105,7 +105,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/high-seas-trader) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on modern digital platforms
 
 **Download / Preservation**
@@ -127,7 +127,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 [^ref-2]: [Abandonware DOS](https://www.abandonwaredos.com/docawd.php?sf=highseastmanual.txt&st=manual&sg=High+Seas+Trader&idg=2184) – - Game objective description from manual
 [^ref-3]: [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p) – - Ranking system information
 [^ref-4]: [Metacritic](https://www.metacritic.com/game/high-seas-trader/) – - Unique perspective description
-[^ref-5]: [GOG Community](https://www.gog.com/dreamlist/game/high-seas-trader) – - Development history and predecessor information
+[^ref-5]: [GOG Community](https://www.gog.com/dreamlist) – - Development history and predecessor information
 [^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – - Developer information
 [^ref-7]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=High+Seas+Trader&gid=2184) – - Designer credits
 [^ref-8]: [MobyGames](https://www.mobygames.com/game/4256/high-seas-trader/) – - Publisher information

@@ -202,7 +202,7 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/precinct-2013)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

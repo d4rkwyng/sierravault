@@ -206,7 +206,7 @@ However, the Leeper character's transition to educational gaming through *Learni
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/lunar-leeper)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

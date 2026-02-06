@@ -197,7 +197,7 @@ The title also reflects the industry's growing interest in online multiplayer ga
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Hoyle Kids Games](https://www.gog.com/dreamlist/game/hoyle-kids-games) – Vote to add to GOG's catalog
+- [GOG Dreamlist – Hoyle Kids Games](https://www.gog.com/dreamlist) – Vote to add to GOG's catalog
 - [eBay – Physical Copies](https://www.ebay.com/sch/i.html?_nkw=hoyle+kids+games) – Secondary market availability[^ref-13]
 
 **Download / Preservation**

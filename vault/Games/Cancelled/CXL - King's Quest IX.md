@@ -198,7 +198,7 @@ Much of what is known about these cancelled projects comes from fan community ef
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kings-quest-ix)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

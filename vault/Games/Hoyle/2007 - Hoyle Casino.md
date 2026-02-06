@@ -169,7 +169,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

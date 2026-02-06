@@ -199,7 +199,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-4-ulysses-and-the-golden-fleece)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

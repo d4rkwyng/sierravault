@@ -195,7 +195,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/search/?term=Head+Rush) - Available as part of You Don't Know Jack bundle
-- [GOG Dreamlist – Head Rush](https://www.gog.com/dreamlist/game/head-rush) – Vote to add this game to GOG's catalog
+- [GOG Dreamlist – Head Rush](https://www.gog.com/dreamlist) – Vote to add this game to GOG's catalog
 
 **Download / Preservation**
 - [My Abandonware](https://www.myabandonware.com/game/head-rush-d94) - Note: No longer hosted due to commercial availability

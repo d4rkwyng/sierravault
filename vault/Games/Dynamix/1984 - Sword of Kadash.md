@@ -186,7 +186,7 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sword-of-kadash)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

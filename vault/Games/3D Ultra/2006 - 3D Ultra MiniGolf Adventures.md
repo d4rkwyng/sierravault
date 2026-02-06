@@ -200,7 +200,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2006)
 
 ## Downloads
 

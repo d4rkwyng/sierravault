@@ -166,7 +166,7 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kings-quest-iii-remake-infamous-adventures)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -213,7 +213,7 @@ The game's short length (completable in under three hours) and easy puzzles posi
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/gold-rush-2)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

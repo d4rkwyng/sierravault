@@ -190,7 +190,7 @@ The game's educational focus on reading, spelling, and logic skills[^ref-2] posi
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-word-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

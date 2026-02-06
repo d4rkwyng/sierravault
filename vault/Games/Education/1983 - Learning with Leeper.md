@@ -190,7 +190,7 @@ The broader significance of educational software like Learning with Leeper was r
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/learning-with-leeper)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -195,7 +195,7 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-power)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

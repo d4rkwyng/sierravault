@@ -185,7 +185,7 @@ For Impressions Games, Front Lines represented an early experiment before the st
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-lines)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

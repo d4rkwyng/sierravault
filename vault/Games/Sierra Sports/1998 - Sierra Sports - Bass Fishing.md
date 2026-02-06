@@ -131,7 +131,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 
 **Purchase / Digital Stores**
 - Currently unavailable on modern digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-sports-bass-fishing) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive - Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone)

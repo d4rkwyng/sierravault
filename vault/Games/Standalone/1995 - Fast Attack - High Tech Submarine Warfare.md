@@ -203,7 +203,7 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fast-attack-high-tech-submarine-warfare)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fast-attack-high-tech-submarine-warfare-1996)
 
 ## Downloads
 

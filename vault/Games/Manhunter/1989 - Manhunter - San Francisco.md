@@ -250,7 +250,7 @@ The series was conceived as a trilogy with potential for additional installments
 [^ref-17]: [Alex Bevilacqua Blog – Manhunter: New York](https://alexbevi.com/blog/2023/02/18/manhunter-new-york/) – MAD tracking mechanic, artwork quality, gore content, AGI history
 [^ref-19]: [Computer Gaming World](https://manhunter.fandom.com/wiki/Manhunter:_New_York) – visual attention requirements
 [^ref-20]: [Lemon Amiga – Manhunter Documentation](https://www.lemonamiga.com/games/docs.php?id=1045) – OOPS feature, gameplay mechanics
-[^ref-21]: [GOG Dreamlist – Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) – fan requests, copyright holder, community appreciation
+[^ref-21]: [GOG Dreamlist – Manhunter: New York](https://www.gog.com/dreamlist) – fan requests, copyright holder, community appreciation
 [^ref-23]: [TV Tropes – Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – developer history, easter eggs, Manhunter's Field Guide quote
 [^ref-24]: [Manhunter Fandom – Evryware](https://manhunter.fandom.com/wiki/Evryware) – sales data, Game of the Year, real-world settings
 [^ref-25]: [Sierra Gamers Forum – Why Was There Never a Third Game](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Manhunter 3 prototype, business reasons for cancellation

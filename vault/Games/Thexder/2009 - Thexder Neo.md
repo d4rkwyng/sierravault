@@ -208,7 +208,7 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 **Purchase / Digital Stores**
 - PlayStation Network (PS3/PSP versions)
 - Nintendo eShop (Switch version)
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder-neo) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - Available through PlayStation Store (regions vary)
@@ -256,7 +256,7 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 [^ref-25]: [MobyGames Reviews](https://www.mobygames.com/game/2857/thexder/) – Player perspective on adaptation
 [^ref-26]: [Archive Today](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – Development goals
 [^ref-27]: [Downloads KH Insider](https://downloads.khinsider.com/game-soundtracks/album/thexder-neo-2009-psp) – Rebuild details
-[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – Moonlight Sonata reference
+[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist) – Moonlight Sonata reference
 [^ref-29]: [Games DB](https://gamesdb.launchbox-app.com/games/details/129840-thexder-neo) – Engine and graphics details
 [^ref-30]: [Joystiq Review Archive](https://web.archive.org/web/2009/http://www.joystiq.com/thexder-neo/) – Contemporary gaming site coverage
 [^ref-31]: [PlayStation Store](https://store.playstation.com/thexder-neo/) – Digital distribution availability (PlayStation Network)

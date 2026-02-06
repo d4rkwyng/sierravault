@@ -352,7 +352,7 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/half-life-2)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -242,7 +242,7 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist/game/hoyle-casino-empire-2002)
+- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) - Free download (Windows version)

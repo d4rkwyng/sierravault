@@ -216,7 +216,7 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/marauder)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

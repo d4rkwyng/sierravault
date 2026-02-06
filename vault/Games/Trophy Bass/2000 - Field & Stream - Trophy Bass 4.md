@@ -103,7 +103,7 @@ The game's influence extended beyond the immediate fishing simulation genre, est
 
 **Purchase / Digital Stores**
 - Currently not available on Steam[^ref-27]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/trophy-bass) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Listed on GOG wishlist for potential future release[^ref-28]
 
 **Download / Preservation**
@@ -143,6 +143,6 @@ The game's influence extended beyond the immediate fishing simulation genre, est
 [^ref-25]: [Sierra Help Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – - Patch support documentation
 [^ref-26]: [VOGONs Forum Topic 50808](https://www.vogons.org/viewtopic.php?t=50808) – - Compatibility improvements
 [^ref-27]: [Steam Search Trophy Bass](https://store.steampowered.com/search/?term=Trophy+Bass) – - Modern platform availability
-[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – - Community preservation efforts
+[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - Community preservation efforts
 [^ref-29]: [Internet Archive TROPHY](https://archive.org/details/TROPHY) – - Demo preservation
 [^ref-30]: [Internet Archive Trophy Bass 4](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – - Full game preservation

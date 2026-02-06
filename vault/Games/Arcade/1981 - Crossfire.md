@@ -204,7 +204,7 @@ The game's influence can be seen in its innovative control scheme and its achiev
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/crossfire) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Apple II Version](https://archive.org/details/a2_Crossfire_1981_On_Line_Systems)

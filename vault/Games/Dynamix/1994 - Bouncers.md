@@ -212,7 +212,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Physical Sega CD copies available through retro game retailers and auction sites[^ref-20]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/bouncers)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

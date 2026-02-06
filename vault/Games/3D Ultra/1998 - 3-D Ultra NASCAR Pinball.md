@@ -160,7 +160,7 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-nascar-pinball)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-nascar-pinball-1998)
 
 ## Downloads
 

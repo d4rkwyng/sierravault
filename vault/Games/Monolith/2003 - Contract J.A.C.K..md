@@ -287,7 +287,7 @@ Paradoxically, the game's failure may have preserved the *NOLF* brand's positive
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/contract-j-a-c-k)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

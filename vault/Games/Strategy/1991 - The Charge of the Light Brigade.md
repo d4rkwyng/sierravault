@@ -191,7 +191,7 @@ Impressions Games would find greater success with their subsequent city-building
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-charge-of-the-light-brigade) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – DOS version with browser emulation

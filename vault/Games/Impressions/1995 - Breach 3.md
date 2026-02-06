@@ -245,6 +245,6 @@ Unlike its predecessors, Breach 3 dropped the fake isometric view of Breach 2 in
 [^ref-14]: [MobyGames User Review – Isdaron](https://www.mobygames.com/game/4263/breach-3/user-review/2586115/) – negative user assessment
 [^ref-15]: [MyAbandonware – Breach 3](https://www.myabandonware.com/game/breach-3-2qx) – user ratings, technical issues, installation problems
 [^ref-16]: [Glitchwave – Breach 3](https://glitchwave.com/game/breach-3/) – user rating
-[^ref-17]: [GOG Community Dreamlist – ROE2/Breach 3](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) – integration details, patch requirements, Thomas Carbone info
+[^ref-17]: [GOG Community Dreamlist – ROE2/Breach 3](https://www.gog.com/dreamlist) – integration details, patch requirements, Thomas Carbone info
 [^ref-18]: [GameSpot – Breach 3 Cheats](https://www.gamespot.com/games/breach-3/cheats/) – command line parameters, level access codes
 [^ref-19]: [GameSpot – Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – Sierra consolidation context

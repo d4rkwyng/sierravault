@@ -161,7 +161,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 [^ref-8]: [MobyGames](https://mobygames.com/game/gold-rush) – Route dangers description
 [^ref-9]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GoldRush) – Historical setting details
 [^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564731-gold-rush/faqs/37856) – Points system information
-[^ref-11]: [GOG Community](https://www.gog.com/dreamlist/game/gold-rush) – Death mechanics and community comments
+[^ref-11]: [GOG Community](https://www.gog.com/dreamlist) – Death mechanics and community comments
 [^ref-12]: [Choicest Games](https://www.choicestgames.com/2019/10/gold-rush-classic-review.html) – Review and Dragon magazine score
 [^ref-13]: [MyAbandonware](https://www.myabandonware.com/game/gold-rush-g8) – HOTUD review and score
 [^ref-14]: [Steam Store](https://store.steampowered.com/app/308000/Gold_Rush_Classic/) – User review percentage

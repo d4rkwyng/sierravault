@@ -230,5 +230,5 @@ The series was notable for its short lifespan—planned future titles including 
 [^ref-16]: [Internet Archive – Mega Math](https://archive.org/details/msdos_Mega_Math_1992) – preservation, MobyGames description
 [^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
 [^ref-18]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
-[^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – community interest in preservation
+[^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist) – community interest in preservation
 [^ref-20]: [Kagi FastGPT – Release Information](kagi:fastgpt:What_year_was_Turbo_Learning_Mega_Math_video_game_released_and_who_developed_it?) – basic factual confirmation

@@ -168,7 +168,7 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) - Community Dreamlist for digital re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for digital re-release
 
 **Download / Preservation**
 - [Internet Archive - MS-DOS Version](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993)

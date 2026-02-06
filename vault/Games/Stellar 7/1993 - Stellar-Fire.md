@@ -182,7 +182,7 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/stellar-fire)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

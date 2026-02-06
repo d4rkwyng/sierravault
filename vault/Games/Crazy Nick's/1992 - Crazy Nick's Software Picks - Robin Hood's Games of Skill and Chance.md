@@ -198,7 +198,7 @@ The game's modest reception and relative obscurity compared to its source materi
 ## Purchase
 
 No official digital distribution is currently available. The game may be found through retro gaming collectors[^ref-12].
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

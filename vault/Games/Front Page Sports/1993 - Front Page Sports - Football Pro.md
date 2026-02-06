@@ -126,7 +126,7 @@ The series' influence can be seen in modern football management games, and its e
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - [Steam Store Page](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Football+Pro)
 
 **Download / Preservation**

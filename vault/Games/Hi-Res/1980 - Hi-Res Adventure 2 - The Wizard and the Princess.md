@@ -145,7 +145,7 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-2-the-wizard-and-the-princess) – Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist
 
 ## Downloads
 

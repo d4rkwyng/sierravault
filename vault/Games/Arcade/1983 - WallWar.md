@@ -188,7 +188,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/wallwar)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

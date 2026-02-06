@@ -229,7 +229,7 @@ The cancellation left the Babylon 5 franchise without an official space combat g
 
 [^ref-11]: [Abandonware DOS – Babylon 5 Games Search](https://www.abandonwaredos.com/search.php?search=Babylon+5%3A+Into+the+Fire) – reference to fan-made alternative
 
-[^ref-12]: [GOG Dreamlist – Babylon 5: Into the Fire](https://www.gog.com/dreamlist/game/babylon-5-into-the-fire-2000) – user descriptions, development summary
+[^ref-12]: [GOG Dreamlist – Babylon 5: Into the Fire](https://www.gog.com/dreamlist) – user descriptions, development summary
 
 [^ref-13]: [IGN – Babylon 5: Into the Fire Database](https://www.ign.com/games/babylon-5-into-the-fire) – cancellation news reference
 

@@ -112,7 +112,7 @@ The game's multiple edition releases and regional variations[^ref-23] demonstrat
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf-2000-titanium-edition) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Amazon UK (Limited availability)[^ref-3]
 - eBay (Vintage copies available)[^ref-4][^ref-5]
 

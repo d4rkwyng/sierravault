@@ -143,7 +143,7 @@ The title's impact on flight simulation gaming remains significant, with modern 
 [^ref-1]: [GameFAQs - Aces of the Pacific](https://gamefaqs.gamespot.com/pc/915693-aces-of-the-pacific) – - Release year and developer information
 [^ref-2]: [Internet Archive - Aces of the Pacific Demo](https://archive.org/details/AcesOfThePacificDemo) – - Game description and timeline
 [^ref-3]: [GOG Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Sequel information
-[^ref-4]: [GOG Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist/game/aces-over-europe) – - Developer credit
+[^ref-4]: [GOG Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist) – - Developer credit
 [^ref-5]: [MobyGames - Aces of the Pacific Credits](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/credits/dos/) – - Design team information
 [^ref-6]: [Computing History - Aces of the Pacific](https://www.computinghistory.org.uk/det/30713/Aces-Of-The-Pacific/) – - Publisher information
 [^ref-7]: [MobyGames - Aces of the Pacific Specs](https://www.mobygames.com/game/1419/aces-of-the-pacific/specs/) – - Platform compatibility
@@ -158,7 +158,7 @@ The title's impact on flight simulation gaming remains significant, with modern 
 [^ref-17]: [Sierra Help - Manuals](http://sierrahelp.com/Documents/Manuals.html) – - Technical documentation availability
 [^ref-18]: [Internet Archive - Community Files](https://archive.org/details/wargamer-depot_aces-of-the-pacific) – - Community content preservation
 [^ref-19]: [GOG Forum - Red Baron Input Issues](https://www.gog.com/forum/red_baron_pack/rb1_no_input) – - DOSBox compatibility challenges
-[^ref-20]: [GOG Dreamlist - European Air War](https://www.gog.com/dreamlist/game/european-air-war) – - Current availability reference
+[^ref-20]: [GOG Dreamlist - European Air War](https://www.gog.com/dreamlist) – - Current availability reference
 [^ref-21]: [Internet Archive - 1994 Release](https://archive.org/details/Aces_of_the_Pacific_1994_Sierra) – - CD-ROM version
 [^ref-22]: [Internet Archive - WWII 1946](https://archive.org/details/001054-AcesOfThePacificWwii1946) – - Expansion preservation
 [^ref-23]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=general) – - Archive metadata

@@ -113,7 +113,7 @@ The title remains available through preservation efforts, with multiple archive 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-the-lost-continent) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-pinball-the-lost-continent-1997) - Community Dreamlist
 - Available through NeverDieMedia for commercial purchase[^ref-10]
 - Price tracking available through PriceCharting[^ref-24]
 

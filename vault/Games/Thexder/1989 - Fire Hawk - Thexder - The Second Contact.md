@@ -232,7 +232,7 @@ The Thexder series would later see additional entries and remakes. A 2008 remake
 [^ref-1]: [MobyGames – Fire Hawk: Thexder - The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – credits, ratings, technical specifications, trivia
 [^ref-2]: [Wikipedia – Fire Hawk: Thexder - The Second Contact](https://en.wikipedia.org/wiki/Fire_Hawk:_Thexder_-_The_Second_Contact) – release dates, developers, designers, composers, reception, sales
 [^ref-3]: [Retrolorean – Fire Hawk: Thexder - The Second Contact](https://www.retrolorean.com/en/fire-hawk-thexder-the-second-contact-12327) – historical context, remake information
-[^ref-4]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – game description, soundtrack quality, mission count
+[^ref-4]: [GOG.com – Dreamlist Entry](https://www.gog.com/dreamlist) – game description, soundtrack quality, mission count
 [^ref-5]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/user-review/2418714/) – gameplay mechanics, story details, final boss description
 [^ref-6]: [Generation-MSX – Fire Hawk Database Entry](https://www.generation-msx.nl/software/game-arts/fire-hawk-thexder---the-second-contact/1249/) – MSX2 technical specifications, credits, release date
 [^ref-7]: [Pixelated Arcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – story overview, platform information, gameplay description
@@ -260,7 +260,7 @@ The Thexder series would later see additional entries and remakes. A 2008 remake
 [^ref-30]: [GameFAQs User Ratings](https://gamefaqs.gamespot.com/pc/564895-fire-hawk-thexder-the-second-contact) – "Outstanding" user average rating
 [^ref-31]: [MyAbandonware HOTUD](https://www.myabandonware.com/game/fire-hawk-thexder-the-second-contact-1ue) – 5/5 HOTUD rating
 [^ref-32]: [The One Magazine Preview](https://en.wikipedia.org/wiki/Fire_Hawk:_Thexder_The_Second_Contact) – "Furious arcade action, high-resolution graphics"
-[^ref-33]: [GOG Dreamlist Entry](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact) – Community demand for digital re-release
+[^ref-33]: [GOG Dreamlist Entry](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – Community demand for digital re-release
 [^ref-34]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/reviews/) – Positive 2013 retrospective
 [^ref-35]: [MobyGames Screenshots](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/screenshots/) – Multi-platform visual comparison
 [^ref-36]: [MobyGames Cover Art](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/cover/) – Box art gallery

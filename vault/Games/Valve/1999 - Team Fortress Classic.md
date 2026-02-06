@@ -233,7 +233,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/team-fortress-classic)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

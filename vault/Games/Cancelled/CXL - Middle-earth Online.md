@@ -168,7 +168,7 @@ Gaming historians continue to wonder what might have been had Sierra's vision co
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/middle-earth-online)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

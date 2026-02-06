@@ -219,7 +219,7 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/metaltech-battledrome) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/metaltech-battledrome-1994) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Full Game](https://archive.org/details/msdos_Metaltech_Battledrome_1994)[^ref-23]
@@ -257,7 +257,7 @@ The Metaltech series established the foundation for what would become an extensi
 [^ref-12]: [MyAbandonware – Metaltech: Battledrome](https://www.myabandonware.com/game/metaltech-battledrome-2wd) – first-person perspective, user rating, regional release dates
 [^ref-13]: [MobyGames – Technical Specs](https://www.mobygames.com/game/1401/metaltech-battledrome/specs/dos/) – system requirements, input devices, sound support, multiplayer options, content ratings
 [^ref-14]: [DOSGames.com – Metaltech: Battledrome](https://dosgames.com/game/metaltech-battledrome/) – rating, resolution, demo description, Instant Action mode
-[^ref-15]: [GOG Dreamlist – Metaltech: Battledrome](https://www.gog.com/dreamlist/game/metaltech-battledrome) – user testimonials, negotiation mechanics, Warlord cheat
+[^ref-15]: [GOG Dreamlist – Metaltech: Battledrome](https://www.gog.com/dreamlist/game/metaltech-battledrome-1994) – user testimonials, negotiation mechanics, Warlord cheat
 [^ref-16]: [ClassicReload – Metaltech: Battledrome](https://classicreload.com/metaltech-battledrome.html) – energy distribution mechanic, ranking progression
 [^ref-18]: [Abandonware DOS – Metaltech: Battledrome](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Metaltech:+Battledrome&gid=3323) – rating, designers, game modes
 [^ref-19]: [Starsiege Forums – LAN Instructions](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions) – modern play instructions, DOSBox requirements, LAN player count

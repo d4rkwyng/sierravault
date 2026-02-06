@@ -96,7 +96,7 @@ The community created extensive modifications and content, including approximate
 
 **Purchase / Digital Stores**
 - Currently available as freeware
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/tribes-2) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive - Tribes 2 Ultimate Game Pack](https://archive.org/details/Tribes2UltimateGamePack)

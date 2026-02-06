@@ -202,7 +202,7 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-puzzle-and-board-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

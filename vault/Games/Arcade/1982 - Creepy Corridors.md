@@ -205,7 +205,7 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/creepy-corridors)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

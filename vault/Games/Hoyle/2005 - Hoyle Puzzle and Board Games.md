@@ -242,7 +242,7 @@ The community's expressed desire for a modern re-release with online multiplayer
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-puzzle-and-board-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

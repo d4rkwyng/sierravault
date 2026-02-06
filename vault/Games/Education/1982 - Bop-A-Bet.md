@@ -171,7 +171,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/bop-a-bet)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

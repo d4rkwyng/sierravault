@@ -202,7 +202,7 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 
 **Purchase / Digital Stores**
 - Currently not available on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-pro-pilot-98) - Community Dreamlist for potential re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for potential re-release
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) - Full game preservation

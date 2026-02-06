@@ -255,7 +255,7 @@ The series would later return with Thexder Neo (2009-2010), developed by Zereo I
 [^ref-27]: [Shmuplations – Thexder Developer Interview](https://shmuplations.com/thexder/) – Animation patterns, development time, design philosophy
 [^ref-28]: [PCGamingWiki – Thexder](https://www.pcgamingwiki.com/wiki/Thexder) – Technical specifications, DOSBox compatibility
 [^ref-29]: [Sierra Chest – Thexder Music](https://sierrachest.com/index.php?a=games&id=42&fld=music) – Moonlight Sonata intermission
-[^ref-30]: [GOG Dreamlist – Thexder](https://www.gog.com/dreamlist/game/thexder) – Fan memories, Moonlight Sonata nostalgia
+[^ref-30]: [GOG Dreamlist – Thexder](https://www.gog.com/dreamlist) – Fan memories, Moonlight Sonata nostalgia
 [^ref-31]: [Generation MSX – Thexder](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – Pronunciation guide, designer credits
 [^ref-32]: [GameFAQs – Thexder FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – Transformers comparison, Level 99 easter egg
 [^ref-33]: [GameSpot – Game Arts Founder](https://www.gamespot.com/articles/game-arts-founder-dead-at-45/1100-6326241/) – Game Arts history, Thexder significance

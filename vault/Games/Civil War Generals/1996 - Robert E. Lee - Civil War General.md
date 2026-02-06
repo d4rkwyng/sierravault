@@ -114,7 +114,7 @@ The game's educational value has ensured its lasting relevance, with players con
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/robert-e-lee-civil-war-general) – Vote to add to GOG's catalog
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Vote to add to GOG's catalog
 - [eBay](https://www.ebay.com/sch/i.html?_nkw=robert+e+lee+civil+war+general) – Physical copies on secondary market[^ref-6]
 - Currently not available on major digital platforms[^ref-19][^ref-43]
 

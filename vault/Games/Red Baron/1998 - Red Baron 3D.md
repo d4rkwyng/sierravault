@@ -104,7 +104,7 @@ An amusing piece of trivia emerged years after release when someone successfully
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/red-baron-3d) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Available through various digital distributors
 
 **Download / Preservation**

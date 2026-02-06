@@ -174,7 +174,7 @@ The game's technical conservatism, criticized at release, ironically contributed
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts (Steam version delisted)
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist/game/hoyle-card-games-2000)
+- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/hoyle-card-games-2002)

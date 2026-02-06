@@ -212,7 +212,7 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/oils-well)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

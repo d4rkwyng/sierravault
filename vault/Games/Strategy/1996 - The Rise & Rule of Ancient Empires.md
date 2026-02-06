@@ -164,7 +164,7 @@ From a development perspective, the game is notable as an example of Impressions
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-rise-rule-of-ancient-empires)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-rise-rule-of-ancient-empires-1996)
 
 ## Downloads
 

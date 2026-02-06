@@ -183,7 +183,7 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-backgammon-and-cribbage)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

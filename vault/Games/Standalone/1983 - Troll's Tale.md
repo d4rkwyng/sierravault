@@ -128,7 +128,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/trolls-tale) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Available as freeware from Al Lowe's official website[^ref-3]
 
 **Download / Preservation**

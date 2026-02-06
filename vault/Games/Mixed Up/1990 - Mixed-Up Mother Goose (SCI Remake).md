@@ -111,7 +111,7 @@ The preservation community's continued interest, evidenced by active wishlist ca
 
 **Purchase / Digital Stores**
 - Currently not available on major digital platforms[^ref-39]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/mixed-up-mother-goose) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware - 1991 Remake](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254)[^ref-28]
@@ -134,7 +134,7 @@ The preservation community's continued interest, evidenced by active wishlist ca
 [^ref-6]: [Museum of Play Archives - Sierra On-Line Collection](https://archives.museumofplay.org/repositories/3/resources/18) - Historical documentation of Sierra's game catalog
 [^ref-7]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) - Comprehensive development history, sales figures, and version details
 [^ref-8]: [Digital Entertainment History Blog](https://www.filfre.net/?s=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Historical context and limited game details
-[^ref-9]: [GOG Dreamlist - Mixed-Up Mother Goose](https://www.gog.com/dreamlist/game/mixed-up-mother-goose) - Community preservation interest and user comments
+[^ref-9]: [GOG Dreamlist - Mixed-Up Mother Goose](https://www.gog.com/dreamlist) - Community preservation interest and user comments
 [^ref-10]: [HistoryLink - Sierra On-Line Corporate History](https://www.historylink.org/File/20919) - Company relocation and business context
 [^ref-11]: [IMDb - Game Entry](https://www.imdb.com/title/tt1683900/) - Cast information and historical significance
 [^ref-12]: [IMDb Search Results](https://www.imdb.com/find/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose&s=tt) - Version ratings and release information

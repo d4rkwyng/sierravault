@@ -264,7 +264,7 @@ The '95 edition marked the first official NFL licensing for the series, a signif
 [^ref-4]: [Home of the Underdogs](https://homeoftheunderdogs.net/game.php?id=3937) – review score, critical quotes, technical features, play database comparison
 [^ref-5]: [OldGames.sk](https://www.oldgames.sk/en/game/front-page-sports-football-pro-95/download/2192/) – version differences, CAMS system, rating
 [^ref-6]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series history, awards, sales data, industry impact, version history
-[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – game mode description, community memories
+[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist) – game mode description, community memories
 [^ref-8]: [Old-Games.com – Football Pro '95](https://www.old-games.com/download/4647/front-page-sports-football-pro) – gameplay description, AI features
 [^ref-9]: [GameSpot – Football Pro '98 Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – series management features, career mode depth
 [^ref-10]: [MobyGames – Front Page Sports: Football Pro '97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) – PC Gamer quote, league customization

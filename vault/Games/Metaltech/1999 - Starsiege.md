@@ -278,7 +278,7 @@ The Earthsiege universe was part of the broader Metaltech brand, which included 
 [^ref-11]: [Internet Archive – Starsiege Pilot Guide](https://archive.org/stream/Starsiege_Pilot_Guide/Starsiege_Pilot_Guide_djvu.txt) – system requirements, manual details, platform support
 [^ref-12]: [TV Tropes – Starsiege](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Starsiege) – opening narration quotes, Prometheus dialogue
 [^ref-13]: [Tropedia – Starsiege](https://tropedia.fandom.com/wiki/Starsiege) – narrative summary, opening monologue
-[^ref-14]: [GOG.com Dreamlist – Starsiege](https://www.gog.com/dreamlist/game/starsiege) – community quotes, campaign comparisons, fan perspectives
+[^ref-14]: [GOG.com Dreamlist – Starsiege](https://www.gog.com/dreamlist) – community quotes, campaign comparisons, fan perspectives
 [^ref-15]: [Internet Archive – Prima's Official Strategy Guide](https://archive.org/details/starsiege-primas-official-strategy-guide) – Blake Hutchins contribution, strategy guide details
 [^ref-16]: [Starsiege Compendium – Backstory](https://starsiegecompendium.com/writersguide/wg-backstory.html) – Chris Cole backstory, timeline details
 [^ref-18]: [IGN – Starsiege (Archive)](https://web.archive.org/web/20210501234053/https://www.ign.com/articles/1999/04/07/starsiege) – Tal Blevins review, control praise, vehicle/weapon counts

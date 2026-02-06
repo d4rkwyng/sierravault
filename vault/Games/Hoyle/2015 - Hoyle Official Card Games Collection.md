@@ -218,7 +218,7 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-official-card-games-collection)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

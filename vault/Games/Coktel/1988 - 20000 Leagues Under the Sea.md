@@ -203,7 +203,7 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/20000-leagues-under-the-sea)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

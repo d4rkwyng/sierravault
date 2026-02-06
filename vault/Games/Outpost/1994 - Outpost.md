@@ -264,7 +264,7 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/outpost) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on major digital platforms
 
 **Download / Preservation**

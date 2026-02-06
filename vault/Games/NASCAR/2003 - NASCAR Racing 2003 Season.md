@@ -320,7 +320,7 @@ With EA's exclusive NASCAR license beginning in 2004, no direct sequel was possi
 [^ref-4]: [GameSpot – NASCAR Racing 2003 Season Review](https://www.gamespot.com/reviews/nascar-racing-2003-season-review/1900-2910398/) – review score, track list, features
 [^ref-5]: [Grokipedia – NASCAR Racing 2003 Season](https://grokipedia.com/page/NASCAR_Racing_2003_Season) – release dates, technical specs, development timeline, sales data
 [^ref-6]: [GameSpot – NASCAR Stops Flirting, Now Exclusive to EA](https://www.gamespot.com/articles/nascar-stops-flirting-now-exclusive-to-ea/1100-6075962/) – EA licensing, Papyrus quotes
-[^ref-7]: [GOG Dreamlist – NASCAR Racing 2003 Season](https://www.gog.com/dreamlist/game/nascar-racing-2003-season-2003) – community quotes, preservation interest
+[^ref-7]: [GOG Dreamlist – NASCAR Racing 2003 Season](https://www.gog.com/dreamlist) – community quotes, preservation interest
 [^ref-8]: [Traxion.gg – How iRacing Came to Be](https://traxion.gg/how-iracing-came-to-be-the-papyrus-design-group-story/) – iRacing connection, cut content, source code sale
 [^ref-9]: [PCGamingWiki – NASCAR Racing 2003 Season](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2003_Season) – engine name, technical issues, compatibility
 [^ref-10]: [Auto Racing Video Games Wiki](https://auto-racing-video-games.fandom.com/wiki/NASCAR_Racing_2003_Season) – track list, release dates, features

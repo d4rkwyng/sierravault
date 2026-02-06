@@ -178,7 +178,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-puzzle-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

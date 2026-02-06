@@ -167,7 +167,7 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-silver-lining)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

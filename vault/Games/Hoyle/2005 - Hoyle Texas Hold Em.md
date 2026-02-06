@@ -147,7 +147,7 @@ The game's significance lies primarily in its position within the Hoyle franchis
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-texas-hold-em)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

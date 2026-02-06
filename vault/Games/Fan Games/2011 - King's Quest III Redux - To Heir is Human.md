@@ -244,7 +244,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kings-quest-iii-redux-to-heir-is-human)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

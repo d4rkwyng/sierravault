@@ -226,7 +226,7 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-1995) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) - Community Dreamlist
 
 ## Downloads
 
@@ -285,6 +285,6 @@ The series maintained its partnership with the B.A.S.S. organization through mul
 [^ref-30]: [Zophar's Domain – Trophy Bass Music](https://www.zophar.net/music/windows/trophy-bass) – game music archive
 [^ref-31]: [MobyGames – Trophy Bass 2](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – sequel credits and details
 [^ref-32]: [Internet Archive – Trophy Bass Demo 1996](https://archive.org/details/swizzle_demu_BASS) – demo version metadata
-[^ref-33]: [GOG.com Dreamlist – Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – community interest
+[^ref-33]: [GOG.com Dreamlist – Trophy Bass 2](https://www.gog.com/dreamlist) – community interest
 [^ref-34]: [GameRevolution – Trophy Bass 2](https://www.gamerevolution.com/game/trophy-bass-2) – gameplay features
 [^ref-35]: [FilePlanet – Trophy Bass 4 Patch](https://www.fileplanet.com/archive/p-29857/Trophy-Bass-4-Patch-1-0-0-3) – patch details

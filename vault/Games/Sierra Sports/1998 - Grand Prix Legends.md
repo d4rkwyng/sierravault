@@ -291,7 +291,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/grand-prix-legends)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -190,7 +190,7 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fates-of-twinion) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available for commercial purchase
 
 ## Downloads
@@ -239,4 +239,4 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 [^ref-20]: [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Fates_Of_Twinion_V1.0_(1993)(Sierra_Online)/93341) - User rating
 [^ref-21]: [CRPG Addict - Final Rating](http://crpgaddict.blogspot.com/) - Detailed critique, breadth vs depth analysis
 [^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
-[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories
+[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist) - Player memories

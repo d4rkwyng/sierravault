@@ -169,7 +169,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/gobbler)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

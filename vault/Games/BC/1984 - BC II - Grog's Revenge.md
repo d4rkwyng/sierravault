@@ -250,7 +250,7 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/bc-ii-grogs-revenge)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

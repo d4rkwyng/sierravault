@@ -350,5 +350,5 @@ Himalaya Studios continued developing adventure games following Al Emmo's releas
 [^ref-27]: [Steam Community – User Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=300937060) – version 4.1 confirmation, developer interaction
 [^ref-28]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/932543-al-emmo-and-the-lost-dutchmans-mine/faqs/51963) – studio background, commercial release context
 [^ref-29]: [UHS Hints – Al Emmo](https://www.uhs-hints.com/uhsweb/alemmo.php) – hint system availability
-[^ref-30]: [GOG Dreamlist – Community Comments](https://www.gog.com/dreamlist/game/al-emmo-and-the-lost-dutchmans-mine) – fan testimonials, AGDI legacy references
+[^ref-30]: [GOG Dreamlist – Community Comments](https://www.gog.com/dreamlist) – fan testimonials, AGDI legacy references
 [^ref-31]: [Internet Archive – Al Emmo USA](https://archive.org/details/al-emmo-and-the-lost-dutchmans-mine-usa) – preservation data, file specifications

@@ -206,7 +206,7 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/red-baron-2013-remake)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

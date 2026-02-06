@@ -285,7 +285,7 @@ The various versions of Mixed-Up Mother Goose—1987, 1990, 1991/1992, and 1995/
 [^ref-12]: [GameFAQs – Walkthrough by ASchultz](https://gamefaqs.gamespot.com/pc/562688-roberta-williams-mixed-up-mother-goose/faqs/11350) – gameplay tips, item placement observations
 [^ref-13]: [MyAbandonware – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-273) – user ratings, nostalgic comments
 [^ref-14]: [MyAbandonware – Mixed-Up Mother Goose Deluxe](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7) – technical issues, compatibility information
-[^ref-15]: [GOG.com – Dreamlist Discussion](https://www.gog.com/dreamlist/game/mixedup-mother-goose) – user memories, "hidden gem" quote
+[^ref-15]: [GOG.com – Dreamlist Discussion](https://www.gog.com/dreamlist) – user memories, "hidden gem" quote
 [^ref-16]: [GOG.com – The Spirit and the Mouse](https://www.gog.com/en/game/the_spirit_and_the_mouse) – user comparison to Mixed-Up Mother Goose
 [^ref-17]: [IMDB – Mixed-Up Mother Goose](https://www.imdb.com/find/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose&s=tt) – user rating
 [^ref-18]: [HistoryLink.org – Sierra On-Line History](https://www.historylink.org/File/20919) – Roberta Williams career context

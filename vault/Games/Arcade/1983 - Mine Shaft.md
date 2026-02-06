@@ -161,7 +161,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/mine-shaft)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

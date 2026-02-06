@@ -195,7 +195,7 @@ Modern assessments recognize the game's historical significance while acknowledg
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-crimson-crown)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

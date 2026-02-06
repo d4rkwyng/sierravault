@@ -120,7 +120,7 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/lords-of-the-realm-ii-siege-pack) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Available on Steam as part of Lords of the Realm II collection
 
 **Download / Preservation**

@@ -126,7 +126,7 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-4) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on modern digital platforms
 
 **Download / Preservation**

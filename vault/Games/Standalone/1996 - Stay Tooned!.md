@@ -173,7 +173,7 @@ The title has developed a cult following among players who experienced it during
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Stay Tooned!](https://www.gog.com/dreamlist/game/stay-tooned) – Community Dreamlist (444+ votes)
+- [GOG Dreamlist – Stay Tooned!](https://www.gog.com/dreamlist) – Community Dreamlist (444+ votes)
 
 **Download / Preservation**
 - [ClassicReload](https://classicreload.com/win3x-stay-tooned.html) - Browser-based emulation[^ref-1]

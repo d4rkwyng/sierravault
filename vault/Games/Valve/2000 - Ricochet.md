@@ -187,7 +187,7 @@ It supports Valve Anti-Cheat (VAC) for online play and is compatible with Steam 
 
 **Purchase / Digital Stores**
 - [Steam](https://store.steampowered.com/app/60/Ricochet/) - Currently available for purchase
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/ricochet)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 The game is occasionally included in Valve Complete Pack bundles and has been offered during Steam sales with discounts up to 90%.[^ref-7][^ref-19] Players who own a retail copy of Half-Life can redeem their CD key on Steam to receive Ricochet for free.[^ref-4] According to SteamDB, the game has seen periodic sales making it available for minimal cost.[^ref-19]
 

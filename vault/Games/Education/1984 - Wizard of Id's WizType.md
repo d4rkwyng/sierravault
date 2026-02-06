@@ -198,7 +198,7 @@ From a historical perspective, WizType demonstrates how early educational softwa
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/wizard-of-ids-wiztype)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

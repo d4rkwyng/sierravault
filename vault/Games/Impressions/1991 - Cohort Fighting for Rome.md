@@ -205,7 +205,7 @@ From a modern perspective, Cohort: Fighting for Rome serves as a historical arti
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-fighting-for-rome)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-fighting-for-rome-1991)
 
 ## Downloads
 

@@ -250,7 +250,7 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/alien-legacy) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/alien-legacy-1994) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Alien Legacy](https://archive.org/details/alien-legacy) – Browser-playable version
@@ -290,7 +290,7 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 [^ref-20]: [Pelit – Alien Legacy Review](http://www.pelit.fi/artikkelit/alien-legacy/) – Finnish review, score, version reviewed
 [^ref-21]: [Game Bytes Issue 21 – Alien Legacy Review](http://www.ibiblio.org/GameBytes/issue21/greviews/legacy.html) – contemporary review, technical specs
 [^ref-22]: [Amazon – Alien Legacy DOS](https://www.amazon.com/Alien-Legacy-DOS/dp/B0002S50O6) – customer reviews, ratings
-[^ref-23]: [GOG.com Dreamlist – Alien Legacy](https://www.gog.com/dreamlist/game/alien-legacy) – community comments, fan testimonials
+[^ref-23]: [GOG.com Dreamlist – Alien Legacy](https://www.gog.com/dreamlist/game/alien-legacy-1994) – community comments, fan testimonials
 [^ref-24]: [OldGames.sk – Alien Legacy](https://www.oldgames.sk/en/game/alien-legacy/download/3620/) – rating, game description
 [^ref-25]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – Ken Williams quote, industry context
 [^ref-26]: [KHInsider – Alien Legacy Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/alien-legacy-gamerip) – soundtrack details

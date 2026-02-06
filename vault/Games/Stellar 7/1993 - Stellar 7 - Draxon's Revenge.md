@@ -182,7 +182,7 @@ The game's design choices, including the significantly higher difficulty with on
 
 **Purchase / Digital Stores**
 - Not currently available on major digital storefronts
-- Listed on [GOG Dreamlist](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) for potential future release[^ref-15]
+- Listed on [GOG Dreamlist](https://www.gog.com/dreamlist) for potential future release[^ref-15]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/stellar-7-draxon-s-revenge-edc) - Free download (3DO version)
@@ -221,7 +221,7 @@ The series includes the spiritual sequel/prequel Arcticfox (1986) and the direct
 [^ref-12]: [IMDB – Stellar 7: Draxon's Revenge](https://www.imdb.com/title/tt19120902/) – cast information, voice actors
 [^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – images, release date, Japanese title
 [^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
-[^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
+[^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist) – community votes, genre classification
 [^ref-16]: [Old Games Download – Stellar 7: Draxon's Revenge](https://oldgamesdownload.com/stellar-7-draxons-revenge/) – ROM availability
 [^ref-17]: [MoviePosterDB – Stellar 7: Draxon's Revenge](https://es-np.movieposterdb.com/stellar-7-draxons-revenge-i19120902) – release date, director credits
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description

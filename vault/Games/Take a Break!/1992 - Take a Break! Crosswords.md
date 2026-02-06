@@ -167,7 +167,7 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/take-a-break-crosswords)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

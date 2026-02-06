@@ -301,7 +301,7 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - Not available on modern storefronts
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-soccer-world-challenge-edition)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -201,7 +201,7 @@ The game's emphasis on consequences for environmental destruction—whether thro
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – EcoQuest 2: Lost Secret of the Rainforest](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest) – Community Dreamlist[^ref-24]
+- [GOG Dreamlist – EcoQuest 2: Lost Secret of the Rainforest](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – Community Dreamlist[^ref-24]
 
 **Download / Preservation**
 - [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993)[^ref-26]
@@ -248,7 +248,7 @@ The game shares thematic DNA with *EcoQuest: The Search for Cetus* in its focus 
 [^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/?s=Lost+Secret+of+the+Rainforest) – Gano Haine reference, Sierra development context
 [^ref-22]: [TV Tropes – Dan Kehler](https://tvtropes.org/pmwiki/pmwiki.php/Music/DanKehler) – composer credits
 [^ref-23]: [Sierra Wiki – EcoQuest 2 Technical](http://wiki.sierrahelp.com/index.php/EcoQuest_2:_Lost_Secret_of_the_Rainforest_Technical) – system requirements, audio hardware
-[^ref-24]: [GOG.com – Community Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest) – wishlist votes
+[^ref-24]: [GOG.com – Community Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – wishlist votes
 [^ref-25]: [GameFAQs – Guide and Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest/faqs/64006) – walkthrough data
 [^ref-26]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993) – game preservation
 [^ref-27]: [Internet Archive – Alternative Upload](https://archive.org/details/ecoquest-2) – game preservation

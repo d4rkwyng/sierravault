@@ -284,7 +284,7 @@ The franchise eventually expanded to include board games (Volume 3), casino game
 [^ref-6]: [Internet Archive – Hoyle Solitaire](https://archive.org/details/win3_HoyleSol) – release dates, technical details, features, compatibility
 [^ref-7]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – engine information, platform support
 [^ref-9]: [Sierra Chest – Hoyle Solitaire Walkthrough](https://sierrachest.com/index.php?a=games&id=524&title=hoyle-solitaire-1996&fld=walkthrough) – gameplay details, features, release date
-[^ref-10]: [GOG Dreamlist – Sierra Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user commentary
+[^ref-10]: [GOG Dreamlist – Sierra Hoyle Classic Card Games](https://www.gog.com/dreamlist) – user commentary
 [^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – user ratings, download information
 [^ref-12]: [Sierra Gamers Forum – Sierra Classics Discussion](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – fan perspectives on Hoyle series
 [^ref-13]: [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – system requirements, 2013 release, publisher

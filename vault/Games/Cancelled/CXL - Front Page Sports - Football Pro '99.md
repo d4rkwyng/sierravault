@@ -206,7 +206,7 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-99)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

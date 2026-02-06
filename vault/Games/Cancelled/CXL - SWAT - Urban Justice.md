@@ -185,7 +185,7 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/swat-urban-justice)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

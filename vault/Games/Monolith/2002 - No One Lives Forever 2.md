@@ -307,7 +307,7 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/no-one-lives-forever-2-a-spy-in-harms-way) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way) - Community Dreamlist
 - Not available for legal purchase on any digital storefront
 
 **Download / Preservation**
@@ -338,7 +338,7 @@ Cate Archer makes a cameo appearance in Contract J.A.C.K., standing roadside in 
 ## References
 
 [^ref-1]: [Wikipedia – No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – development info, reception scores, awards, release dates
-[^ref-2]: [GOG Dreamlist – No One Lives Forever 2](https://www.gog.com/dreamlist/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way) – game description, publishers, setting
+[^ref-2]: [GOG Dreamlist – No One Lives Forever 2](https://www.gog.com/dreamlist) – game description, publishers, setting
 [^ref-3]: [Metacritic – No One Lives Forever 2](https://www.metacritic.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/) – aggregate scores, critic quotes
 [^ref-22]: [GameSpot Review](https://www.gamespot.com/reviews/no-one-lives-forever-2-a-spy-in-harms-way/1900-2881851/) – Akron, Ohio location mention
 [^ref-5]: [Reddit r/ImmersiveSim Discussion](https://www.reddit.com/r/ImmersiveSim/comments/taz46k/is_no_one_lives_forever_2_a_spy_in_harms_way_2002/) – immersive sim analysis, Deus Ex comparisons, AI praise

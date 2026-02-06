@@ -205,7 +205,7 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/powerhouse)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

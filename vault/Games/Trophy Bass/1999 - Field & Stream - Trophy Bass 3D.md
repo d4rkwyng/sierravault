@@ -208,7 +208,7 @@ Community preservation efforts maintain access to the game through abandonware a
 
 **Purchase / Digital Stores**
 - Currently unavailable on modern digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/field-stream-trophy-bass-3d) - Community Dreamlist for digital re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for digital re-release
 
 **Download / Preservation**
 - [Internet Archive - Demo Version](https://archive.org/details/FieldStreamTrophyBass3dDemo)

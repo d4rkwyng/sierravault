@@ -169,7 +169,7 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Hoyle Solitaire](https://www.gog.com/dreamlist/game/hoyle-solitaire-mahjong) – Vote to add to GOG's catalog
+- [GOG Dreamlist – Hoyle Solitaire](https://www.gog.com/dreamlist) – Vote to add to GOG's catalog
 - [eBay – Physical Copies](https://www.ebay.com/sch/i.html?_nkw=hoyle+solitaire+mahjong) – Secondary market availability[^ref-20]
 
 **Download / Preservation**

@@ -209,7 +209,7 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 **Purchase / Digital Stores**
 - Not currently available on GOG, Steam, or other modern storefronts
 - Original retail copies may be found through online auction sites[^ref-8]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pest-patrol)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -168,7 +168,7 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/learning-with-fuzzywomp)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/learning-with-fuzzywomp-1984)
 
 ## Downloads
 

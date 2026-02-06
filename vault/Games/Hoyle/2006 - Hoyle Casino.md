@@ -208,7 +208,7 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

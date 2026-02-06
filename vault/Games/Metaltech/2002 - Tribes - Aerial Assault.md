@@ -178,7 +178,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/tribes-aerial-assault)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -265,7 +265,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/homeworld-3)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

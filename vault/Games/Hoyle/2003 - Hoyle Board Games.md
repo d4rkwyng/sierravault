@@ -236,7 +236,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-board-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

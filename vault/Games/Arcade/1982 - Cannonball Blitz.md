@@ -189,7 +189,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist Request](https://www.gog.com/dreamlist/game/cannonball-blitz-1982) - Community Dreamlist entry
+- [GOG Dreamlist Request](https://www.gog.com/dreamlist) - Community Dreamlist entry
 
 **Download / Preservation**
 - [Internet Archive – WOZ Format](https://archive.org/details/a2woz_Cannonball_Blitz_1982_On-Line_Systems)
@@ -212,7 +212,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [^ref-4]: [Sierra Chest – Cannonball Blitz](https://www.sierrachest.com/index.php?a=games&id=442&title=cannonball-blitz&fld=general) – original promotional text, engine details, platform list
 [^ref-5]: [MobyGames – Cannonball Blitz Main Page](https://www.mobygames.com/game/9300/cannonball-blitz/) – credits, technical specs, ratings, platform releases
 [^ref-6]: [LaunchBox Games Database – Cannonball Blitz](https://gamesdb.launchbox-app.com/games/details/83426-cannonball-blitz) – gameplay mechanics, platform information
-[^ref-7]: [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist/game/cannonball-blitz-1982) – gameplay description, platforms
+[^ref-7]: [GOG Dreamlist – Cannonball Blitz](https://www.gog.com/dreamlist) – gameplay description, platforms
 [^ref-8]: [HandWiki – Software: Cannonball Blitz](https://handwiki.org/wiki/Software:Cannonball_Blitz) – Ahoy! magazine review quotes
 [^ref-9]: [Glitchwave – Cannonball Blitz](https://glitchwave.com/game/cannonball-blitz/) – aggregate rating
 [^ref-10]: [My Abandonware – Cannonball Blitz](https://www.myabandonware.com/game/cannonball-blitz-74f) – file sizes, user ratings, release dates

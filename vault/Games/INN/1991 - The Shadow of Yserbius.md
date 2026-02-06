@@ -164,7 +164,7 @@ Several bugs and design issues were documented during the game's lifespan:
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-shadow-of-yserbius) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available for purchase on major platforms
 
 **Download / Preservation**

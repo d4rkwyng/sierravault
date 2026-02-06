@@ -171,7 +171,7 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 - [MyAbandonware – Mouskattack](https://www.myabandonware.com/game/mouskattack-7mk)[^ref-4]
 
 **Wishlists / Community Interest**
-- [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist/game/mouskattack-1982)[^ref-6]
+- [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist)[^ref-6]
 
 ## See Also
 - [[1982 - Marauder|← Previous: Marauder]]
@@ -184,7 +184,7 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 [^ref-3]: [GameSpot – Mouskattack](https://www.gamespot.com/games/mouskattack/) – genre classification, platform coverage, game database entry
 [^ref-4]: [MyAbandonware – Mouskattack](https://www.myabandonware.com/game/mouskattack-7mk) – file sizes, user ratings, platform information, top-down perspective
 [^ref-5]: [Sierra Chest – Mouskattack](https://sierrachest.com/index.php?a=games&id=453&fld=general) – developer insights, John Harris/Ken Williams/Al Nystrom credits, development timeline, Larry Bain trivia, Jawbreaker/Gobbler code heritage, commercial performance
-[^ref-6]: [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist/game/mouskattack-1982) – Pac Man variant classification, basic metadata
+[^ref-6]: [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist) – Pac Man variant classification, basic metadata
 
 [^ref-7]: [Internet Archive – MobyGames Mouskattack](https://web.archive.org/web/2019/https://www.mobygames.com/game/45477/mouskattack/) – archived version, gameplay description, Larry Bain character details
 

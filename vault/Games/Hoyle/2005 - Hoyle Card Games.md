@@ -177,7 +177,7 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-card-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

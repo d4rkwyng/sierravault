@@ -183,7 +183,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-kids-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

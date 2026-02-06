@@ -198,7 +198,7 @@ Modern players can run the Windows version through compatibility modes, though s
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/maximum-pool) - Community Dreamlist for digital re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for digital re-release
 - No longer available through official retail channels
 
 **Download / Preservation**

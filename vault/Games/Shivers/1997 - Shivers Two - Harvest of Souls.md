@@ -141,7 +141,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Shivers 2: Harvest of Souls](https://www.gog.com/dreamlist/game/shivers-2-harvest-of-souls) – Community Dreamlist[^ref-29]
+- [GOG Dreamlist – Shivers 2: Harvest of Souls](https://www.gog.com/dreamlist) – Community Dreamlist[^ref-29]
 - Currently unavailable on major digital platforms[^ref-30]
 
 **Download / Preservation**
@@ -181,7 +181,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 [^ref-26]: [eBay Listing 3](https://www.ebay.com/itm/304726223529) – - Technical specifications and production values
 [^ref-27]: [MobyGames Shivers Original](https://www.mobygames.com/game/663/shivers/) – - Sierra history and sequel context
 [^ref-28]: [VGMdb Soundtrack](https://vgmdb.net/album/65584) – - Music composition credits
-[^ref-29]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/shivers-2-harvest-of-souls) – - Community demand for modern release
+[^ref-29]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - Community demand for modern release
 [^ref-30]: [Steam Search](https://store.steampowered.com/search/?term=Shivers+Two%3A+Harvest+of+Souls) – - Digital availability status
 [^ref-31]: [MyAbandonware](https://www.myabandonware.com/game/shivers-two-harvest-of-souls-e56) – - Preservation and download options
 [^ref-33]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Shivers+Two%3A+Harvest+of+Souls) – - Additional preservation data

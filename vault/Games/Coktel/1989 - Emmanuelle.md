@@ -224,7 +224,7 @@ Modern players typically approach the game "more out of historical interest than
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/emmanuelle)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

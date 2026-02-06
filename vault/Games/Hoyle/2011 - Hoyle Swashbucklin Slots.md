@@ -192,7 +192,7 @@ The game's limited documentation and review coverage reflects the challenge face
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-swashbucklin-slots)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

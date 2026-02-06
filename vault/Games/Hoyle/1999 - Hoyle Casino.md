@@ -190,7 +190,7 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist/game/hoyle-casino-2000)
+- [GOG Dreamlist – Vote for re-release](https://www.gog.com/dreamlist)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-casino-hzg) - Free download (Windows version)

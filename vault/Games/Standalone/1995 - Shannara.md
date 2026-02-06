@@ -286,7 +286,7 @@ The game serves as a companion piece to the original Shannara trilogy rather tha
 [^ref-27]: [MyAbandonware – Shannara](https://www.myabandonware.com/game/shannara-2t8) – release regions, version differences, rating
 [^ref-28]: [Emuparadise – Shannara](https://www.emuparadise.me/Abandonware_Games/Shannara_(1995)(Legend_Entertainment)/94839) – user rating
 [^ref-29]: [Free Game Downloads – Shannara](https://free-game-downloads.mosw.com/abandonware/pc/adventure/games_sa_so/shannara.html) – Quest for Glory creators, game description
-[^ref-30]: [GOG Dreamlist – Shannara](https://www.gog.com/dreamlist/game/shannara) – fan comments, re-release requests
+[^ref-30]: [GOG Dreamlist – Shannara](https://www.gog.com/dreamlist) – fan comments, re-release requests
 [^ref-31]: [GameCopyWorld – Shannara](https://gamecopyworld.com/games/pc_shannara.shtml) – copy protection status
 [^ref-32]: [MoneyInc – Best Selling Fantasy Books](https://moneyinc.com/best-selling-fantasy-books-of-all-time/) – Shannara series sales figures
 [^ref-33]: [ClassicReload – Shannara](https://classicreload.com/shannara.html) – browser playable version, developer info

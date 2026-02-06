@@ -184,7 +184,7 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/african-raiders-01)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

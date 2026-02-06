@@ -304,7 +304,7 @@ The series continued with a reimagined version for the Sega CD in 1993, set 44 y
 [^ref-42]: [VideoGameGeek – Silpheed Series](https://videogamegeek.com/videogameseries/5379/silpheed) – pronunciation guide
 [^ref-43]: [Hardcore Gaming 101 – Silpheed Sega CD](http://www.hardcoregaming101.net/silpheed-sega-cd/) – Star Fox comparisons, sequel story details
 [^ref-44]: [TV Tropes – Silpheed Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Silpheed) – abandonware status, English voice acting
-[^ref-46]: [GOG Dreamlist – Silpheed](https://www.gog.com/dreamlist/game/silpheed) – DOSBox compatibility
+[^ref-46]: [GOG Dreamlist – Silpheed](https://www.gog.com/dreamlist) – DOSBox compatibility
 [^ref-47]: [VGMdb – Silpheed Official Game Music Sound](https://vgmdb.net/album/2097) – soundtrack album details
 [^ref-48]: [KHInsider – QY Sound of Game Arts](https://downloads.khinsider.com/game-soundtracks/album/silpheed-qy-sound-of-game-arts-2006) – arranged soundtrack information
 [^ref-50]: [Hardcore Gaming 101 – Silpheed PS2](http://www.hardcoregaming101.net/silpheed-ps2/) – The Lost Planet development, Treasure involvement

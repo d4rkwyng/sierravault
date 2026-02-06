@@ -107,7 +107,7 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-3) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-3-1999) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-3-cow) - Full game download
@@ -139,7 +139,7 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 [^ref-13]: [Web Archive GameZone](https://web.archive.org/web/20071008095344/http://pc.gamezone.com/gzreviews/r13604.htm) – - GameZone review and personal impact
 [^ref-14]: [Web Archive CDMag](https://web.archive.org/web/20030228114527/http://www.cdmag.com/articles/023/116/nascar3_review.html) – - CDMag review score and assessment
 [^ref-15]: [Web Archive PC Gamer](https://web.archive.org/web/20060315141455/http://www.pcgamer.com/archives/2005/07/nascar_racing_3.html) – - PC Gamer score and conclusion
-[^ref-16]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2003-season-2003) – - Modern user testimonials
+[^ref-16]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - Modern user testimonials
 [^ref-17]: [Web Archive GameSpot Awards](https://web.archive.org/web/20000823200831/http://www.gamespot.com/features/1999/p3_03a.html) – - GameSpot 1999 Driving Game of the Year award
 [^ref-18]: [Amazon Reviews](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – - Amazon customer ratings
 [^ref-19]: [Amazon Manual Page](https://amazon.com/NASCAR-Racing-3-Game-Manual/dp/B000KBCEVM) – - Amazon customer ratings

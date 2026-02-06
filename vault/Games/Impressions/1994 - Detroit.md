@@ -237,7 +237,7 @@ The game exists within a broader tradition of industry-specific business simulat
 [^ref-3]: [ClassicReload – Detroit](https://classicreload.com/detroit.html) – gameplay description, historical events, failure state
 [^ref-4]: [AbandonwareGames.net – Detroit](https://abandonwaregames.net/game/detroit) – user rating, game description, platforms
 [^ref-5]: [Home of the Underdogs – Detroit](https://web.archive.org/web/*/homeoftheunderdogs.net) – Air Bucks comparison, design philosophy
-[^ref-6]: [GOG.com – Detroit Wishlist](https://www.gog.com/dreamlist/game/detroit) – user comments, fan reception, sequel project
+[^ref-6]: [GOG.com – Detroit Wishlist](https://www.gog.com/dreamlist) – user comments, fan reception, sequel project
 [^ref-7]: [Lemon Amiga – Detroit Manual](https://www.lemonamiga.com/games/docs.php?id=467) – game manual text, starting conditions, objectives
 [^ref-8]: [FreeGameEmpire – Detroit](https://www.freegameempire.com/games/Detroit) – interface description, Impressions history, rating
 [^ref-9]: [Game Bytes Issue 20 – Detroit Review](http://www.ibiblio.org/GameBytes/issue20/greviews/detroit.html) – Philip Chiu review, technical requirements, patch information

@@ -255,7 +255,7 @@ The game stands alone within its franchise—while numerous other Winnie the Poo
 [^ref-21]: [VGMPF Wiki – Commodore 64 Version](https://vgmpf.com/Wiki/index.php?title=Winnie_the_Pooh_in_the_Hundred_Acre_Wood_(C64)) – sound driver details, composer credits
 [^ref-22]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – technical specifications, engine information
 [^ref-23]: [MobyGames – Releases](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/releases/) – detailed release dates by platform
-[^ref-24]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) – community interest, user comments
+[^ref-24]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood-1986) – community interest, user comments
 [^ref-25]: [ClassicReload](https://classicreload.com/winnie-the-pooh-in-the-hundred-acre-wood.html) – browser playability, preservation
 [^ref-26]: [MobyGames – Adventures in the 100 Acre Wood (GBC)](https://www.mobygames.com/game/173535/disneys-winnie-the-pooh-adventures-in-the-100-acre-wood/) – later unrelated Pooh game
 [^ref-27]: [MoegamerNet – Atari ST A to Z](https://moegamer.net/2019/02/28/atari-st-a-to-z-winnie-the-pooh-in-the-hundred-acre-wood/) – retrospective perspective, Sierra context

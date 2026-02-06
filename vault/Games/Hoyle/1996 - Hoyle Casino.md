@@ -231,7 +231,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

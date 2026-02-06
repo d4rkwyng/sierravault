@@ -219,7 +219,7 @@ These titles shared design philosophies with Kid's Typing, using character-drive
 ## References
 
 [^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release dates, developer, publisher, platforms, credits
-[^ref-2]: [GOG.com – Dream Team Kid's Typing Dreamlist](https://www.gog.com/dreamlist/game/dream-team-kid-s-typing-1993) – game description, Spooky character, adaptive learning features
+[^ref-2]: [GOG.com – Dream Team Kid's Typing Dreamlist](https://www.gog.com/dreamlist) – game description, Spooky character, adaptive learning features
 [^ref-3]: [Classic Reload – Dream Team Kids Typing](https://classicreload.com/win3x-dream-team-kids-typing.html) – platform, publisher, character-driven design, printable reports
 [^ref-4]: [Sierra Chest – Kid's Typing Demos](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=demos) – series information, demo compilation, game rooms
 [^ref-5]: [Macintosh Repository – Dream Team Kid's Typing](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) – technical specifications, system requirements, adaptive lessons

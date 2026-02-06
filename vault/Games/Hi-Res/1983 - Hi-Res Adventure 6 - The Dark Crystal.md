@@ -128,7 +128,7 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-6-the-dark-crystal)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

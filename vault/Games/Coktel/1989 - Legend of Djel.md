@@ -116,7 +116,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/legend-of-djel) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/legend-of-djel-ou)[^ref-30]

@@ -188,7 +188,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-poker-series)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

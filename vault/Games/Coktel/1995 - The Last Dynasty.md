@@ -200,7 +200,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-last-dynasty)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

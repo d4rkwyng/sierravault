@@ -260,7 +260,7 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 **Purchase / Digital Stores**
 - Available as part of Pharaoh Gold bundle on GOG.com
 - Pharaoh: A New Era (2023 remake) available on Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cleopatra-queen-of-the-nile) - Community Dreamlist for standalone
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for standalone
 
 **Download / Preservation**
 - Version 2.1 patch available for download[^ref-25]

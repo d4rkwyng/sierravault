@@ -125,7 +125,7 @@ The game's technical innovations, particularly its record and playback system, i
 ## References
 
 [^ref-1]: [GOG.com Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Information about Aces Over Europe being a follow-up to Aces of the Pacific
-[^ref-2]: [GOG.com Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist/game/aces-over-europe) – - Game description, designer information, and promotional details
+[^ref-2]: [GOG.com Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist) – - Game description, designer information, and promotional details
 [^ref-3]: [Internet Archive - Aces Over Europe Demo](https://archive.org/details/AcesOverEurope_1020) – - Game description, aircraft details, and gameplay features
 [^ref-4]: [GameSpot User Reviews](https://www.gamespot.com/aces-over-europe/user-reviews/2200-236058/) – - User review scores and retrospective assessment
 [^ref-5]: [MobyGames - Aces Over Europe MobyRank](https://www.mobygames.com/game/aces-over-europe/mobyrank) – - Aggregated critic and player review scores
@@ -135,7 +135,7 @@ The game's technical innovations, particularly its record and playback system, i
 [^ref-9]: [MobyGames - Aces Over Europe Specs](https://www.mobygames.com/game/519/aces-over-europe/specs/) – - Technical specifications and system requirements
 [^ref-11]: [MobyGames - Aces Over Europe User Review](https://www.mobygames.com/game/dos/aces-over-europe/reviews/reviewerId,25041/) – - Mission types and flight model details
 [^ref-12]: [ModDB - Aces Over Europe Revisited](https://www.moddb.com/games/aces-over-europe/news/aces-over-europe-revisited) – - Technical capabilities regarding aircraft numbers
-[^ref-13]: [GOG.com Dreamlist - European Air War](https://www.gog.com/dreamlist/game/european-air-war) – - Bird strike feature details
+[^ref-13]: [GOG.com Dreamlist - European Air War](https://www.gog.com/dreamlist) – - Bird strike feature details
 [^ref-14]: [MobyGames - Aces of the Pacific](https://www.mobygames.com/game/1419/aces-of-the-pacific/) – - Awards and recognition information
 [^ref-16]: [Videospiele Fandom Wiki](https://videospiele.fandom.com/wiki/Aces_over_Europe) – - Technical comparison to predecessor
 [^ref-17]: [Internet Archive - Aces Complete Collector's Edition](https://archive.org/details/AcesTheCompleteCollectorsEditionUSA) – - Compilation release information

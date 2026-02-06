@@ -230,7 +230,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fascination) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – CD Version](https://archive.org/details/fascination-cd) (921 MB)[^ref-13]

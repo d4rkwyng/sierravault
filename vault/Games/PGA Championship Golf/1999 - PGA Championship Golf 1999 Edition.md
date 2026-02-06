@@ -233,7 +233,7 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf-1999-edition)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf-1999-edition-1999)
 
 ## Downloads
 

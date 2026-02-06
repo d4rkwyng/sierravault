@@ -217,8 +217,8 @@ The Bananas & Jack characters appeared in multiple educational titles from Brigh
 [^ref-7]: [MobyGames – Promo](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/promo/) – alternate title "Beginning Reading", Sierra Sneak Peeks inclusion
 [^ref-8]: [GameFAQs – Ready, Set, Read](https://gamefaqs.gamespot.com/pc/348854-ready-set-read-with-bananas-and-jack) – user rating, platform information
 [^ref-9]: [Metacritic – Ready, Set, Read](https://www.metacritic.com/game/ready-set-read-with-bananas-and-jack/) – developer/publisher confirmation
-[^ref-10]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/ready-set-read-with-bananas-jack-1993) – user wishlist entry, release year
-[^ref-11]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-discovery-ready-set-read-with-bananas-jack) – Sierra Discovery Series reference
+[^ref-10]: [GOG Dreamlist](https://www.gog.com/dreamlist) – user wishlist entry, release year
+[^ref-11]: [GOG Dreamlist](https://www.gog.com/dreamlist) – Sierra Discovery Series reference
 [^ref-12]: [Sierra Help Wiki – Bright Star Technology](https://wiki.sierrahelp.com/index.php/Bright_Star_Technology) – company history, Sierra acquisition, release information
 [^ref-13]: [Sierra Help Wiki – Ready, Set, Read](https://wiki.sierrahelp.com/index.php/Ready,_Set,_Read_with_Bananas_%26_Jack) – platform, designer information
 [^ref-14]: [Reddit – Tip of My Tongue (Monkey Game)](https://www.reddit.com/r/tipofmytongue/comments/vwt0a/tomt_game_a_childrens_pc_game_starring_a_monkey/) – character descriptions, gameplay memories

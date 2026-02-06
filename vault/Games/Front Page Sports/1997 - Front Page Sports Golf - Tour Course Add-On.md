@@ -210,7 +210,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-golf-tour-course-add-on)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

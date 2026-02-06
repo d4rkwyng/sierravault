@@ -201,7 +201,7 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-puzzle-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

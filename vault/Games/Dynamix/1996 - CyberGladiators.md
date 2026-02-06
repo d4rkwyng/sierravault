@@ -235,7 +235,7 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cybergladiators)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

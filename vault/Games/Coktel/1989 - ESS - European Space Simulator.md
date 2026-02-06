@@ -218,7 +218,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/ess-european-space-simulator)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

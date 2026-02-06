@@ -108,7 +108,7 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 
 **Purchase / Digital Stores**
 - Currently not available on modern digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/adventure-in-serenia) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Adventure+in+Serenia&gid=2484)[^ref-1]

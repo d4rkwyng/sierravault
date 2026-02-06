@@ -251,7 +251,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 **Purchase / Digital Stores**
 - [Nintendo eShop (Arcade Archives)](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) - Nintendo Switch version
 - [PlayStation Store (Arcade Archives)](https://store.playstation.com/) - PlayStation 4 version
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/frogger)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

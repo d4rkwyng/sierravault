@@ -305,7 +305,7 @@ For its era, the bot AI represented a genuine technical achievement that would i
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike-condition-zero)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike-condition-zero-2004)
 
 ## Downloads
 

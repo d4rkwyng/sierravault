@@ -242,7 +242,7 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino-games-collection)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

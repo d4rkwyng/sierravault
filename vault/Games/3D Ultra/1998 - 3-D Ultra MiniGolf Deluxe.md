@@ -104,7 +104,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-minigolf-deluxe)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-minigolf-deluxe-1998)
 
 ## Downloads
 

@@ -186,7 +186,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) - Community Dreamlist[^ref-18]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist[^ref-18]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k)[^ref-17]
@@ -220,7 +220,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 [^ref-15]: [GMGames](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Enthusiast community rating
 [^ref-16]: [Old-Games.com](https://old-games.com/) - Dan Marino box art commentary
 [^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) - User ratings
-[^ref-18]: [GOG Community](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) - Series finale memories
+[^ref-18]: [GOG Community](https://www.gog.com/dreamlist) - Series finale memories
 [^ref-19]: [Reddit Discussion](https://www.reddit.com/) - Modern retrospective
 [^ref-20]: [Digital Antiquarian](https://www.filfre.net/) - Sierra business strategy context
 [^ref-21]: [KHInsider](https://downloads.khinsider.com/) - Music composition credits

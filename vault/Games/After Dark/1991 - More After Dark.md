@@ -197,7 +197,7 @@ While More After Dark never received the critical attention afforded to traditio
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/more-after-dark)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

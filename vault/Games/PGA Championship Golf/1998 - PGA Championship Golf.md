@@ -242,7 +242,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

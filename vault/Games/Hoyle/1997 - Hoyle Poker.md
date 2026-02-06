@@ -177,7 +177,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-poker)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

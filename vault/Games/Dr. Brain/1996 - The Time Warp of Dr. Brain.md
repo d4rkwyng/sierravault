@@ -138,7 +138,7 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – The Time Warp of Dr. Brain](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain) – Community Dreamlist (804+ votes)
+- [GOG Dreamlist – The Time Warp of Dr. Brain](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – Community Dreamlist (804+ votes)
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf)[^ref-15]
@@ -185,7 +185,7 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [^ref-38]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – - Primary database entry
 [^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – - Comprehensive puzzle descriptions and gameplay details
 [^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – - Point system and puzzle mechanics
-[^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – - Player memories and experiences
+[^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist) – - Player memories and experiences
 [^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – - Modern retrospective review
 [^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – - Contemporary review details
 [^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – - Target audience and game overview

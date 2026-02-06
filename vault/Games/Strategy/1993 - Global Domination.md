@@ -171,7 +171,7 @@ This article focuses specifically on the 1993 Impressions Games title.
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/global-domination) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993)
@@ -200,7 +200,7 @@ This article focuses specifically on the 1993 Impressions Games title.
 [^ref-11]: [SquakeNet – Global Domination](https://www.squakenet.com/game/global-domination/) – critical reception, interface issues
 [^ref-12]: [MobyGames User Review – PCGamer77](https://www.mobygames.com/game/3025/global-domination/user-review/2288974/) – Hitler exclusion trivia, review quotes
 [^ref-13]: [Internet Archive – IBM PC Preservation](https://archive.org/details/002942-GlobalDomination) – technical specifications, restoration status
-[^ref-14]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/global-domination) – community interest, Wikipedia creation note
+[^ref-14]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – community interest, Wikipedia creation note
 [^ref-15]: [ClassicReload – Global Domination](https://classicreload.com/global-domination.html) – preservation availability
 [^ref-16]: [GameSpot Review – 1998/2000 Version](https://www.gamespot.com/reviews/global-domination-review/1900-2536250/) – Psygnosis version review
 [^ref-17]: [IGN Review – 1999 Version](https://www.ign.com/articles/1999/01/01/global-domination) – Psygnosis version review

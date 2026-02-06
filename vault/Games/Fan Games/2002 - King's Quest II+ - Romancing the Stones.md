@@ -191,7 +191,7 @@ The remake's significance extends beyond its individual merits to represent a br
 
 **Manuals & Extras**
 - [AGD Interactive Game Information](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/kings-quest-ii-romancing-the-stones)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Series Continuity
 

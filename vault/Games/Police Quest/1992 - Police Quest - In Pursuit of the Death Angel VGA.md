@@ -323,7 +323,7 @@ The series would continue through Police Quest III: The Kindred before original 
 [^ref-35]: [Police Quest Fandom – PQ3](https://policequest.fandom.com/wiki/Police_Quest_III:_The_Kindred_VGA) – voice cast credits
 [^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2018/11/police-quest/) – Rich DeBaun training tool quote
 [^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – career influence quote, accuracy assessment
-[^ref-38]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel-original-1987-version) – GOG release confirmation
+[^ref-38]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist) – GOG release confirmation
 [^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning
 [^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
 [^ref-41]: [Hardcore Gaming 101 – Police Quest](http://www.hardcoregaming101.net/police-quest/) – stepping behind badge quote

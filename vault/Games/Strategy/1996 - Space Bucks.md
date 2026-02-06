@@ -163,7 +163,7 @@ Impressions Games would go on to achieve greater success with their city-buildin
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/space-bucks) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on major digital platforms
 
 **Download / Preservation**

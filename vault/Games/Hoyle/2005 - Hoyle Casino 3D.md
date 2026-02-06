@@ -214,7 +214,7 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino-3d)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

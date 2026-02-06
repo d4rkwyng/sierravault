@@ -231,7 +231,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

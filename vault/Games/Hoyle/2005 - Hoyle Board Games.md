@@ -208,7 +208,7 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - [Amazon](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ) - Physical copies may be available
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-board-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

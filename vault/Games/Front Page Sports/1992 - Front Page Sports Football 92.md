@@ -280,4 +280,4 @@ The series changed primary developers from Dynamix to Synergistic Software for t
 [^ref-21]: [GameSpot – FPS Baseball Pro '96 Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-96-season-review/1900-2536091/) – management gameplay quote
 [^ref-22]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/90537-front-page-sports-football-pro-96-season) – metadata, ESRB rating
 [^ref-23]: [IGN – FPS Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – release date, features
-[^ref-24]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – game description
+[^ref-24]: [GOG Dreamlist](https://www.gog.com/dreamlist) – game description

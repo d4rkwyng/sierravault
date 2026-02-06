@@ -196,7 +196,7 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sabotage)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

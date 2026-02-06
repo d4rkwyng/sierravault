@@ -207,7 +207,7 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nova-9-return-of-gir-draxon) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on modern digital platforms
 
 **Download / Preservation**
@@ -243,5 +243,5 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 [^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/reviews/dos/) – Difficulty assessment
 [^ref-18]: [AMR Reviews](http://amr.abime.net/review_25631) – Amiga magazine review scores
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/nova-9-the-return-of-gir-draxon/) – Modern rating
-[^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nova-9-return-of-gir-draxon) – Sequel relationship to Stellar 7
+[^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist) – Sequel relationship to Stellar 7
 [^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Planned sequel information

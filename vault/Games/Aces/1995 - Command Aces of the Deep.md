@@ -154,4 +154,4 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-27]: [Sierra Help Wiki](http://wiki.sierrahelp.com/index.php/Aces_of_the_Deep_Technical) – - Graphics and audio hardware support
 [^ref-28]: [Metacritic](https://www.metacritic.com/game/aces-of-the-deep/) – - Voice control technology description
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – - Stability issues and compatibility problems
-[^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/aces-of-the-deep) – - Continuing player preference and legacy status
+[^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - Continuing player preference and legacy status

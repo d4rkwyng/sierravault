@@ -193,7 +193,7 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -215,7 +215,7 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist
 
 ## Downloads
 
@@ -269,4 +269,4 @@ The Front Page Sports brand itself declined following Sierra's corporate changes
 
 
 
-[^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release
+[^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist) – Community wishlist for digital re-release

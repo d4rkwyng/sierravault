@@ -149,7 +149,7 @@ Historical records indicate the game was released in multiple versions, includin
 
 **Purchase / Digital Stores**
 - Currently not available on major digital distribution platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-0-mission-asteroid) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-0-mission-asteroid-4yl)

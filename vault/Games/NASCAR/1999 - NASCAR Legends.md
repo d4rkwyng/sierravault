@@ -216,7 +216,7 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-legends)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

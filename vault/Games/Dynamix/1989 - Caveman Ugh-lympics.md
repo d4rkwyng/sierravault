@@ -240,7 +240,7 @@ Nostalgic players continue to express fondness for the title. As one Reddit user
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Caveman Ugh-Lympics](https://www.gog.com/dreamlist/game/caveman-ughlympics) – Community Dreamlist[^ref-29]
+- [GOG Dreamlist – Caveman Ugh-Lympics](https://www.gog.com/dreamlist) – Community Dreamlist[^ref-29]
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/msdos_Caveman_Ugh-Lympics_1989)
@@ -286,5 +286,5 @@ Nostalgic players continue to express fondness for the title. As one Reddit user
 [^ref-26]: [MobyGames – Screenshot Detail](https://www.mobygames.com/game/4230/caveman-ugh-lympics/screenshots/dos/18715/) – resolution, graphics
 [^ref-27]: [Reddit – r/c64](https://www.reddit.com/r/c64/comments/vsnbtf/c64_maxi_caveman_ughlympics_doublesided_games/) – media format, user nostalgia
 [^ref-28]: [Lemon64 Forum – Compatibility](https://www.lemon64.com/forum/viewtopic.php?t=40775) – Chameleon 64 issues, version compatibility
-[^ref-29]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/caveman-ugh-lympics-1988) – community interest
+[^ref-29]: [GOG.com Dreamlist](https://www.gog.com/dreamlist) – community interest
 : [Channel 3 Gaming](https://channel3.gg/caveman-games-ugh-lympics) – release dates, publishers

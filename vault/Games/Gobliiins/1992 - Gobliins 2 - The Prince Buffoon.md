@@ -239,7 +239,7 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/gobliins-2-the-prince-buffoon) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - [GOG](https://www.gog.com) – Available in Gobliiins Pack
 
 **Download / Preservation**

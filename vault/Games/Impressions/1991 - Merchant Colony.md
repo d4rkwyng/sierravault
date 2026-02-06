@@ -207,7 +207,7 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/merchant-colony)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

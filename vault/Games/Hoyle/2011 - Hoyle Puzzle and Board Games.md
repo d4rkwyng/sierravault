@@ -161,7 +161,7 @@ The technical issues plaguing the release—from 64-bit compatibility problems t
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-puzzle-and-board-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -125,7 +125,7 @@ Modern digital preservation efforts have made the game available through various
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Digital Stores**
 - Available on GOG.com as part of Leisure Suit Larry collection[^ref-28]

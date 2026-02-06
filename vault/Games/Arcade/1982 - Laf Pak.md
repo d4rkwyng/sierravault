@@ -182,7 +182,7 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/laf-pak)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

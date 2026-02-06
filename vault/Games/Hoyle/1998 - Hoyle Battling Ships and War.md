@@ -213,7 +213,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-battling-ships-and-war)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

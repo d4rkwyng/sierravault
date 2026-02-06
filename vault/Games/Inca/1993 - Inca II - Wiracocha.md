@@ -137,7 +137,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/inca-ii-nations-of-immortality) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/inca-2-mr-abandonware)[^ref-3] - DOSBox compatible version
@@ -152,7 +152,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 [^ref-2]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - General adventure gaming website search page
 [^ref-3]: [Internet Archive - Inca 2](https://archive.org/details/inca-2-mr-abandonware) – - Downloadable version with DOSBox compatibility for modern systems
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Blog search results showing no posts found
-[^ref-5]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/inca-ii) – - User community wishlist with player comments and experiences
+[^ref-5]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - User community wishlist with player comments and experiences
 [^ref-6]: [IMDb Game Entry](https://www.imdb.com/find/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29&s=tt) – - Basic release information and user rating
 [^ref-7]: [MobyGames Game Entry](https://www.mobygames.com/game/58618/) – - Comprehensive game database with metadata
 [^ref-8]: [MobyGames Collector's Edition](https://www.mobygames.com/game/4755/inca-i-ii-collectors-edition/) – - Information about the 1995 compilation release

@@ -250,7 +250,7 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – NASCAR Racing](https://archive.org/details/msdos_NASCAR_Racing_1994)

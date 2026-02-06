@@ -250,7 +250,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/stellar-7) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Stellar 7 MS-DOS CD](https://archive.org/details/stellar-7-msdos-cd)

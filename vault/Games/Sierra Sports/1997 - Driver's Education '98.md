@@ -262,7 +262,7 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 **Digital Stores**
 - Not currently available for purchase on modern platforms
 - Game is preserved as abandonware
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/drivers-education-98)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

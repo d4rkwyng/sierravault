@@ -243,7 +243,7 @@ The game's 1996 inclusion in Computer Gaming World's "150 Best Games of All Time
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/deathtrack)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

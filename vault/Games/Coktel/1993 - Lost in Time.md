@@ -229,7 +229,7 @@ The game also holds historical significance as one of the earlier adventure game
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/lost-in-time) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive (DOS Version)](https://archive.org/details/msdos_Lost_in_Time_1993)[^ref-3]
@@ -273,7 +273,7 @@ Lost in Time is technically a standalone title, though its protagonist Doralice 
 [^ref-15]: [Adventure Gamer Blog – Lost in Time Introduction](https://advgamer.blogspot.com/2023/06/game-135-lost-in-time-introduction-1993.html) – Sierra acquisition timing, manual quote, release details
 [^ref-16]: [GameFAQs – Lost in Time FAQ](https://gamefaqs.gamespot.com/pc/564643-lost-in-time/faqs/55450) – fan testimonials, storyline praise
 [^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score
-[^ref-18]: [GOG Dreamlist – Lost in Time](https://www.gog.com/dreamlist/game/lost-in-time) – user testimonials, Fascination sequel revelation, compatibility issues
+[^ref-18]: [GOG Dreamlist – Lost in Time](https://www.gog.com/dreamlist) – user testimonials, Fascination sequel revelation, compatibility issues
 [^ref-19]: [Abandonware DOS – Lost in Time](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Lost+in+Time&gid=1998) – rating, floppy version details
 [^ref-20]: [Amazon – Lost in Time](https://www.amazon.com/Sierra-On-Line-Inc-Lost-Time/dp/B0002T87RM) – customer rating
 [^ref-21]: [Sierra Help – Lost in Time Technical Help](https://sierrahelp.com/Games/LostInTimeHelp.html) – system requirements, compatibility issues, technical specifications

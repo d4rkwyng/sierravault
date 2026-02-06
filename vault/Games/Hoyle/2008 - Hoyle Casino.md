@@ -163,7 +163,7 @@ The game's significance lies primarily in its role as a bridge product—connect
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

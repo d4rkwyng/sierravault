@@ -198,7 +198,7 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-slots-and-video-poker)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

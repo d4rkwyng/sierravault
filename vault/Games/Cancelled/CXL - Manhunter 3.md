@@ -171,7 +171,7 @@ The intellectual property's current ownership by Activision has led to periodic 
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-3)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

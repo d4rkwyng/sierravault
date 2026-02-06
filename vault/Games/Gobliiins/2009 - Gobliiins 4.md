@@ -252,7 +252,7 @@ The series would continue with Gobliiins 5 in 2023, demonstrating the franchise'
 [^ref-19]: [Wayback Machine – MobyGames Gobliins 2](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – immortality mechanic
 [^ref-20]: [IMDB – Gobliiins 4](https://www.imdb.com/title/tt1537775/) – user rating, release date
 [^ref-21]: [MobyGames – Gobliiins Series](http://www.mobygames.com/game-group/gobliiins-series) – MobyScore, Platinum Edition
-[^ref-22]: [GOG Dreamlist – Gobliiins 4](https://www.gog.com/dreamlist/game/gobliiins-4) – availability concerns, community comments
+[^ref-22]: [GOG Dreamlist – Gobliiins 4](https://www.gog.com/dreamlist) – availability concerns, community comments
 [^ref-23]: [Neoseeker – Gobliiins 4](https://www.neoseeker.com/gobliiins-4/) – Gilhodes return, development background
 [^ref-24]: [MobyGames – Gobliiins (Original)](http://www.mobygames.com/game/atari-st/gobliiins) – original game credits, series history
 [^ref-25]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – development credits, Gilhodes biography

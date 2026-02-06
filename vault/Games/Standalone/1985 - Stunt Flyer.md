@@ -170,7 +170,7 @@ However, this commitment to realism came at the cost of accessibility. The steep
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/stunt-flyer)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

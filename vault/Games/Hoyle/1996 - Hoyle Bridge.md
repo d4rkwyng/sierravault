@@ -224,7 +224,7 @@ The broader Hoyle series extended from 1989's Hoyle's Official Book of Games: Vo
 [^ref-8]: [Retrolorean – Hoyle Bridge](https://www.retrolorean.com/en/hoyle-bridge-6922) – game modes, AI description
 [^ref-9]: [Amazon – Hoyle Bridge Club](https://www.amazon.com/Hoyle-Bridge-Club-pc/dp/B000HLP5WA) – game variations, tutorials, package contents
 [^ref-10]: [MyAbandonware – Hoyle Bridge](https://www.myabandonware.com/game/hoyle-bridge-dk1) – file sizes, user ratings
-[^ref-11]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user praise for Hoyle series
+[^ref-11]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist) – user praise for Hoyle series
 [^ref-12]: [eBay – Hoyle Bridge](https://www.ebay.com/p/128176800) – compatibility issues, vintage listing
 [^ref-13]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community perspective on Hoyle series
 [^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origins, character easter eggs

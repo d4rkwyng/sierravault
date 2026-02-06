@@ -207,7 +207,7 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cougar-force)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -227,7 +227,7 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/silent-thunder-a-10-tank-killer-ii-1996) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Currently not available on major digital platforms
 
 **Download / Preservation**
@@ -272,7 +272,7 @@ Silent Thunder exists within Dynamix's broader catalog of flight simulations:
 [^ref-15]: [MobyGames Reviews](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/reviews/) – User aggregate rating
 [^ref-16]: [eBay](https://www.ebay.com/itm/265648127555) – ESRB rating information
 [^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/silent-thunder-a-10-tank-killer-ii-9z7) – Modern user ratings
-[^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/silent-thunder-a-10-tank-killer-ii-1996) – User testimonial
+[^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – User testimonial
 [^ref-20]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/silent-thunder) – Soundtrack details
 [^ref-21]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=32633) – Graphics card compatibility information
 [^ref-22]: [Reddit Discussion](https://www.reddit.com/r/gamemusic/comments/1nrvlf/does_anyone_remember_this_amazing_original/) – Specific track appreciation

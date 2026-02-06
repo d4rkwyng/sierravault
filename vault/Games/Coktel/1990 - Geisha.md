@@ -177,7 +177,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/geisha) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not commercially available
 
 **Download / Preservation**

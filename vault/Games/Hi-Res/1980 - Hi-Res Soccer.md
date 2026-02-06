@@ -131,7 +131,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-soccer) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware - Sierra Soccer World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix)
@@ -156,7 +156,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 [^ref-6]: [Apple2Games Wiki](https://apple2games.com/wiki/Hi-Res_Soccer) – - AI behavior description
 [^ref-7]: [MyAbandonware - Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Modern rating and user reviews
 [^ref-8]: [WHDLoad - Sierra Soccer](http://www.whdload.de/games/SierraSoccer.html) – Technical assessment and Amiga compatibility
-[^ref-9]: [GOG Dreamlist Discussion](https://www.gog.com/dreamlist/game/sierra-online-hires-adventure-set) – Hi-Res series information
+[^ref-9]: [GOG Dreamlist Discussion](https://www.gog.com/dreamlist) – Hi-Res series information
 [^ref-10]: [Retro-Treasures Blog](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – Historical perspective
 [^ref-11]: [Giant Bomb – Hi-Res Soccer](https://www.giantbomb.com/hi-res-soccer/3030-61989/) – game wiki entry
 [^ref-12]: [IGDB – Hi-Res Soccer](https://www.igdb.com/games/hi-res-soccer) – Internet Games Database entry

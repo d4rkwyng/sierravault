@@ -123,7 +123,7 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 
 **Purchase / Digital Stores**
 - Currently unavailable on major digital platforms
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/earthsiege-2) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/earthsiege-2-a7b) - Freeware release

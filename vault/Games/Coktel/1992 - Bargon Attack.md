@@ -262,6 +262,6 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-20]: [Je Ne Suis – Amiga Review](http://www.jenesuis.net/tests/amiga/433-bargon-attack) – comic magazine origin, French dialogue, Amiga market
 [^ref-21]: [Official Bargon Attack Website](http://www.bargon-attack.com/) – Claude Marc statement, Roland Oskian credit, development origins
 [^ref-22]: [MobyGames – Specs](https://www.mobygames.com/game/13178/bargon-attack/specs/) – technical requirements, audio support, version differences
-[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/bargon-attack) – availability status
+[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist) – availability status
 [^ref-24]: [GameFAQs – Guides List](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs) – available walkthroughs, guide metadata
 [^ref-25]: [PCGamingWiki – Bargon Attack](https://www.pcgamingwiki.com/wiki/Bargon_Attack) – localizations, Russian fan translation, system requirements

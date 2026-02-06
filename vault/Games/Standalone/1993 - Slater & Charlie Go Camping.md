@@ -86,7 +86,7 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/slater-charlie-go-camping-a-talking-book-i-can-read) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Not currently available on major digital platforms
 
 **Download / Preservation**
@@ -121,7 +121,7 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 [^ref-16]: [Abandonware France - Slater & Charlie Go Camping](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2638&fic=liens) – - File sizes and compatibility information
 [^ref-17]: [Wikidata - Q18215990](https://www.wikidata.org/wiki/Q18215990) – - Official metadata and verification
 [^ref-18]: [WowRoms - Slater and Charlie Go Camping](https://wowroms.com/en/roms/dos/slater-and-charlie-go-camping-1993/149665.html) – - ROM preservation listing
-[^ref-19]: [GOG Dreamlist - Slater Charlie Go Camping](https://www.gog.com/dreamlist/game/slater-charlie-go-camping) – - Community interest in digital re-release
+[^ref-19]: [GOG Dreamlist - Slater Charlie Go Camping](https://www.gog.com/dreamlist) – - Community interest in digital re-release
 [^ref-20]: [Steam Search Results](https://store.steampowered.com/search/?term=Slater+%26+Charlie+Go+Camping) – - Current digital availability status
 [^ref-21]: [GOG Games Search](https://www.gog.com/en/games?query=Slater+%26+Charlie+Go+Camping) – - Digital store availability
 [^ref-22]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Slater+%26+Charlie+Go+Camping) – - Abandonware database search results

@@ -173,7 +173,7 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-baseball-pro-96)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -204,7 +204,7 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/tank-the-m1a1-abrams-battle-tank-simulation)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

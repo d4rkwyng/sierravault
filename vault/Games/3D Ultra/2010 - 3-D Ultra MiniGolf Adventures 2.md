@@ -114,7 +114,7 @@ Contemporary reviewers recognized both the series' potential and limitations. Eu
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-minigolf-adventures-2)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2006)
 
 ## Downloads
 

@@ -180,7 +180,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/asterix-operation-getafix)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

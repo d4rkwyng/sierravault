@@ -249,7 +249,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/battle-bugs)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

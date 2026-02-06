@@ -223,7 +223,7 @@ The emphasis on accessibility—allowing children as young as three to use the s
 
 **Database Entries:**
 - [MobyGames](https://www.mobygames.com/game/113498/alphabet-blocks/) – Credits and technical specifications[^ref-1]
-- [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/sierra-discovery-alphabet-blocks) – Community request for digital release[^ref-10]
+- [GOG.com Dreamlist](https://www.gog.com/dreamlist) – Community request for digital release[^ref-10]
 
 **Manuals & Extras:**
 - Manual PDF available through Sierra Gamers community[^ref-11]
@@ -259,7 +259,7 @@ The game's development by Bright Star Technology connected it to a broader famil
 [^ref-7]: [Sierra Gamers Forums – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion of Bright Star Technology contributions
 [^ref-8]: [MobyGames – Sierra Entertainment Company Profile](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Elon Gasper as principal author
 [^ref-9]: [Sierra Help – Patches & Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates.html) – reference to Alphabet Blocks updates
-[^ref-10]: [GOG.com Community Dreamlist – Sierra Discovery Alphabet Blocks](https://www.gog.com/dreamlist/game/sierra-discovery-alphabet-blocks) – preservation interest
+[^ref-10]: [GOG.com Community Dreamlist – Sierra Discovery Alphabet Blocks](https://www.gog.com/dreamlist) – preservation interest
 [^ref-11]: [Sierra Gamers – Alphabet Blocks Downloads](https://www.sierragamers.com/alphabet-blocks/) – fan preservation resources, manual, scans
 [^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers, packaging weight, publication date
 [^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context and related titles[^ref-14]: [Giant Bomb - Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/) - game wiki

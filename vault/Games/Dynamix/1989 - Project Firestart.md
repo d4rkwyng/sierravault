@@ -202,7 +202,7 @@ Despite its lack of commercial success, Project Firestart demonstrated that vide
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/project-firestart-1989) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 ## Downloads
 
@@ -222,7 +222,7 @@ Despite its lack of commercial success, Project Firestart demonstrated that vide
 
 [^ref-1]: [MobyGames – Project Firestart](https://www.mobygames.com/game/8885/project-firestart/) – developer, publisher, credits, release date, ratings, technical specs
 [^ref-2]: [Glitchwave – Project Firestart](https://glitchwave.com/game/project-firestart/) – plot summary, platform, ratings
-[^ref-3]: [GOG Dreamlist – Project Firestart](https://www.gog.com/dreamlist/game/project-firestart-1989) – genre influence, user quotes on survival horror origins
+[^ref-3]: [GOG Dreamlist – Project Firestart](https://www.gog.com/dreamlist) – genre influence, user quotes on survival horror origins
 [^ref-4]: [Wikipedia – Project Firestart](https://en.wikipedia.org/wiki/Project_Firestart) – review scores, Zzap!64 quotes, Lemon64 ranking, trivia
 [^ref-5]: [Old School Gamer Magazine – Project Firestart: A Forgotten Masterpiece](https://www.oldschoolgamermagazine.com/project-firestart-a-forgotten-masterpiece/) – Jeff Tunnell quotes, Penny Arcade reference, design philosophy
 [^ref-6]: [MyAbandonware – Project Firestart](https://www.myabandonware.com/game/project-firestart-5q6) – user ratings, user quotes

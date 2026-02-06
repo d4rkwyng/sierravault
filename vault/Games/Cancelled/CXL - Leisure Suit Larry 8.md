@@ -172,7 +172,7 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/leisure-suit-larry-8)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

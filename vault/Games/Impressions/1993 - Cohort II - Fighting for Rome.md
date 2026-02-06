@@ -185,7 +185,7 @@ The game's most significant contribution to gaming history may be its innovative
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-ii-fighting-for-rome)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-ii-fighting-for-rome-1993)
 
 ## Downloads
 

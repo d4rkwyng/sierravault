@@ -231,7 +231,7 @@ The fifth installment consciously distances itself from Gobliiins 4's approach w
 [^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – level count, return to 2D
 [^ref-16]: [RPG Codex Forums – Player Reviews](https://rpgcodex.net/forums/threads/gobliiins-5-by-pierre-gilhodes-woodruff-soon%E2%84%A2.111621/page-3) – gameplay length, quality assessment, technical observations
 [^ref-17]: [Steam Community – Gobliiins 5](https://steamcommunity.com/app/2475980) – user reviews, technical issues, community feedback
-[^ref-18]: [GOG.com – Gobliiins 5 Wishlist](https://www.gog.com/dreamlist/game/gobliiins-5) – community reception, animation praise
+[^ref-18]: [GOG.com – Gobliiins 5 Wishlist](https://www.gog.com/dreamlist) – community reception, animation praise
 [^ref-19]: [IMDB – Gobliiins 5](https://www.imdb.com/find/?q=Gobliiins+5&s=tt) – Woodruff creator connection
 [^ref-20]: [Steam Store – Gobliiins 5](https://store.steampowered.com/search/?term=Gobliiins+5) – Steam release date, demo availability
 [^ref-21]: [Reddit – Mac Port Discussion](https://www.reddit.com/r/adventuregames/comments/13f043h/gobliiins_5_demo_mac_port/) – fan porting efforts, ScummVM compatibility

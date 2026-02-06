@@ -247,7 +247,7 @@ IndyCar Racing is the second racing simulation from Papyrus Design Group, follow
 [^ref-10]: [Internet Archive – MS-DOS IndyCar Racing 1993](https://archive.org/details/msdos_IndyCar_Racing_1993) – historical context, game features
 [^ref-11]: [Free Game Empire – IndyCar Racing Manual](https://www.freegameempire.com/games/IndyCar-Racing/manual) – technical requirements, known issues, Paul Page voice
 [^ref-12]: [Wayback Machine – SIIA CODiE Awards 1994](https://web.archive.org/web/20050215091406/http://spa.org:80/codies/2005/history_1994.asp) – Best Sports Program award
-[^ref-13]: [GOG.com Dreamlist – IndyCar Racing](https://www.gog.com/dreamlist/game/indycar-racing-1993) – user reviews, physics model praise
+[^ref-13]: [GOG.com Dreamlist – IndyCar Racing](https://www.gog.com/dreamlist) – user reviews, physics model praise
 [^ref-14]: [MobyGames – IndyCar Racing Reviews](https://www.mobygames.com/game/983/indycar-racing/reviews/) – aggregate scores
 [^ref-15]: [Race Sim Central – Papyrus Returns Interview](https://racesimcentral.net/papyrus-returns-to-winners-circle/) – David Kaemmer interview, physics model details
 [^ref-17]: [Wayback Machine – RPG Vault](https://web.archive.org/web/20000815222841/http://rpgvault.ign.com/features/den/den1.shtml) – Adam Levesque quote, 400,000 units shipped

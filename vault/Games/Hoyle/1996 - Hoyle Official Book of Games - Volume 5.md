@@ -249,7 +249,7 @@ The Hoyle franchise would continue well beyond Sierra's original stewardship, wi
 [^ref-9]: [PCGamingWiki – Hoyle Solitaire](https://www.pcgamingwiki.com/wiki/Hoyle_Solitaire) – SCI2.1 engine, technical specifications, system requirements
 [^ref-10]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – control scheme, full screen toggle
 [^ref-11]: [GameSpot – Hoyle Solitaire Review](https://www.gamespot.com/reviews/hoyle-solitaire-review/1900-2558794/) – review score, reviewer quotes, customization features
-[^ref-12]: [GOG Community – Sierra Hoyle Classic Card Games Wishlist](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user testimonial, character selection information
+[^ref-12]: [GOG Community – Sierra Hoyle Classic Card Games Wishlist](https://www.gog.com/dreamlist) – user testimonial, character selection information
 [^ref-13]: [Sierra Gamers Forum – Where Does Sierra End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion on Hoyle series classification
 [^ref-14]: [MyAbandonware – Hoyle Solitaire (1998)](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – download sizes, platform versions, user rating
 [^ref-15]: [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – user rating, promotional quote

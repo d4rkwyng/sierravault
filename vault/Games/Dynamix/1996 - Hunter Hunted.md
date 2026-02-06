@@ -203,7 +203,7 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist/game/hunter-hunted) – Community Dreamlist[^ref-12]
+- [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist) – Community Dreamlist[^ref-12]
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/hunter-hunted) – Full game preservation
@@ -238,7 +238,7 @@ The game was part of Sierra's K.A.A. line, which also included other action-orie
 [^ref-9]: [Reddit r/retrogaming – Hunter Hunted discussion](https://www.reddit.com/r/retrogaming/comments/12gcb75/27_years_later_i_finished_hunter_hunted_pc1996/) – escape vehicle objective, player experiences
 [^ref-10]: [eBay – Hunter Hunted listing](https://www.ebay.com/p/54332441) – control options, mission count, ESRB rating
 [^ref-11]: [Sierra Chest – Hunter Hunted Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – game modes, difficulty levels, multiplayer details
-[^ref-12]: [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist/game/hunter-hunted) – character abilities, gameplay innovation, composers
+[^ref-12]: [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist) – character abilities, gameplay innovation, composers
 [^ref-13]: [Internet Archive – Hunter Hunted](https://archive.org/details/hunter-hunted) – mission counts, multiplayer modes
 [^ref-14]: [IMDB – Hunter Hunted](https://www.imdb.com/title/tt11296126/) – user rating, game description
 [^ref-15]: [Sierra Gamers – Hunter Hunted](https://www.sierragamers.com/hunter-hunted/) – gameplay description

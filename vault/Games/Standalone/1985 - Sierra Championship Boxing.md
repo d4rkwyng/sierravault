@@ -210,7 +210,7 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 **Digital Stores**
 - Not currently available for purchase on modern platforms
 - Available as abandonware for preservation purposes
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-championship-boxing)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-championship-boxing-1985)
 
 ## Downloads
 

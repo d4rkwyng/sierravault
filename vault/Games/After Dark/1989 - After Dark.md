@@ -146,7 +146,7 @@ The technical influence of After Dark proved substantial, with the software appe
 [^ref-19]: [Games Nostalgia - Search Results](https://gamesnostalgia.com/search?query=After+Dark+Games) - Search error page
 [^ref-20]: [GameSpot - After Dark Games Review](https://www.gamespot.com/reviews/after-dark-games-review/1900-2537844/) - Professional review with numerical score
 [^ref-21]: [GamesRadar - Alone in the Dark Music](https://www.gamesradar.com/game-music-of-the-day-alone-in-the-dark/) - Gaming music article
-[^ref-22]: [GOG - After Dark Games Wishlist](https://www.gog.com/dreamlist/game/after-dark-games) - User wishlist page
+[^ref-22]: [GOG - After Dark Games Wishlist](https://www.gog.com/dreamlist) - User wishlist page
 [^ref-23]: [GOG - Search Results](https://www.gog.com/en/games?query=After+Dark+Games) - Game store search page
 [^ref-24]: [HandWiki - After Dark Software](https://handwiki.org/wiki/Software:After_Dark) - Technical wiki documentation
 [^ref-25]: [HowLongToBeat - Search](https://howlongtobeat.com/?q=After+Dark+Games) - Game completion time website

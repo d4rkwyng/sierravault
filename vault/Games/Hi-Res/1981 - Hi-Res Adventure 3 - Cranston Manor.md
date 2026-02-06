@@ -166,7 +166,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-3-cranston-manor)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -234,7 +234,7 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/deathmatch-classic)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

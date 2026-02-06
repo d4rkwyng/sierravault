@@ -191,7 +191,7 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/red-baron-arcade)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

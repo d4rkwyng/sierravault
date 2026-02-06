@@ -207,7 +207,7 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - 1984 release is considered abandonware[^ref-10]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/dragons-keep)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

@@ -135,7 +135,7 @@ The game's commitment to procedural accuracy created a template for serious game
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel) - Community Dreamlist[^ref-23]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist[^ref-23]
 - Available through GOG as part of Police Quest Collection[^ref-24]
 - Steam search results indicate availability[^ref-62]
 
@@ -185,7 +185,7 @@ Police Quest: In Pursuit of the Death Angel is the first entry in the Police Que
 [^ref-20]: [GameFAQs - Player Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – - Player-created walkthrough guide
 [^ref-21]: [Gamer Walkthroughs](https://gamerwalkthroughs.com/police-quest-pursuit-of-the-death-angel/) – - Gameplay guide and basic game information
 [^ref-22]: [Games Nostalgia](https://gamesnostalgia.com/game/police-quest-in-pursuit-of-the-death-angel) – - Review with technical details about original and remake versions
-[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel-original-1987-version) – - Community Dreamlist for original 1987 version
+[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist) – - Community Dreamlist for original 1987 version
 [^ref-24]: [GOG Database](https://www.gogdb.org/product/1207661263) – - Technical distribution data and version history
 [^ref-25]: [Archive.org - Police Quest 1 Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt) – - Official hint book text
 [^ref-26]: [IMDb Search Results](https://www.imdb.com/find/?q=Police+Quest%3A+In+Pursuit+of+the+Death+Angel&s=tt) – - User ratings for different versions

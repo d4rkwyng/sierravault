@@ -253,7 +253,7 @@ The Incredible Toon Machine expanded upon the original with a revamped user inte
 [^ref-24]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – series relationship, developer information
 [^ref-25]: [Metacritic](https://www.metacritic.com/game/sid-and-als-incredible-toons/) – platform and genre classification
 [^ref-26]: [IMDB – Sid & Al's Incredible Toons](https://www.imdb.com/title/tt0471034/) – release year, designer credits
-[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – user commentary on gameplay
+[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sid-al-s-incredible-toons-1993) – user commentary on gameplay
 [^ref-28]: [Internet Archive – Incredible Toon Machine](https://archive.org/details/incredible-toon-machine) – sequel details, character information
 [^ref-29]: [Internet Archive – Masque Version](https://archive.org/details/masque_202208) – Windows port information
 [^ref-30]: [Consolidated Research Data](_consolidated) – multiple source aggregation

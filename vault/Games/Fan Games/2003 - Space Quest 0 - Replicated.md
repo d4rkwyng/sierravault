@@ -194,7 +194,7 @@ The game also represents an important artifact of early 2000s fan game developme
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/space-quest-0-replicated) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive (AGI Browser Version)](https://archive.org/details/agi_space-quest-zero-replicated) - Note: Listed as potentially broken[^ref-2]

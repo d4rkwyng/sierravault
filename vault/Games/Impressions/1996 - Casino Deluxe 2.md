@@ -184,7 +184,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/casino-deluxe-2)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

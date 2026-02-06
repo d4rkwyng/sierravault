@@ -199,7 +199,7 @@ The game's influence extends far beyond its direct sequels. Top Gear suggests th
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/indianapolis-500-the-simulation)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/indianapolis-500-the-simulation-1989)
 
 ## Downloads
 

@@ -161,7 +161,7 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/jawbreaker-ii) - Community Dreamlist for potential re-release
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist for potential re-release
 - Available through various retro gaming collections
 
 **Download / Preservation**

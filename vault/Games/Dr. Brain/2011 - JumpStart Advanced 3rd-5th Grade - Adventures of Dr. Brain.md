@@ -193,7 +193,7 @@ This transition mirrors broader trends in the educational software market of the
 
 **Purchase / Digital Stores**
 - Currently unavailable through major digital storefronts[^ref-5]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain-2011) - Community requested[^ref-3]
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community requested[^ref-3]
 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) - Related Dr. Brain titles[^ref-13]
@@ -217,7 +217,7 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 
 [^ref-1]: [Softonic – JumpStart Advanced 3rd-5th Grade Adventures of Dr. Brain](https://jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.en.softonic.com/mac) – rating, description, system requirements
 [^ref-2]: [Wikipedia – Dr. Brain](https://en.wikipedia.org/wiki/Dr._Brain) – series history, release dates, sales data, development notes
-[^ref-3]: [GOG.com Dreamlist – Adventures of Dr. Brain](https://www.gog.com/dreamlist/game/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain-2011) – game description, platform information
+[^ref-3]: [GOG.com Dreamlist – Adventures of Dr. Brain](https://www.gog.com/dreamlist) – game description, platform information
 [^ref-4]: [JumpStart Fandom Wiki – Dr. Brain](https://jstart.fandom.com/wiki/Dr._Brain) – character information, trivia
 [^ref-5]: [Amazon India – JumpStart 3-5 Adventures Doctor Brain](https://www.amazon.in/Jumpstart-3-5-Adventures-Doctor-Brain/dp/B003MU9COU) – product description, customer rating
 [^ref-6]: [ESRB – Rating Information](https://www.esrb.org/ratings/29080/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain/) – content rating, gameplay description

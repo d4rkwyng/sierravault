@@ -174,7 +174,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-2-the-case-of-the-counterfeit-collaborator)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

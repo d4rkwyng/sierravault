@@ -180,7 +180,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 
 **Purchase / Digital Stores**
 - Not currently available on major digital platforms
-- [GOG.com Dreamlist Entry](https://www.gog.com/dreamlist/game/sierra-discovery-ready-set-read-with-bananas-jack) - Community request for release[^ref-6]
+- [GOG.com Dreamlist Entry](https://www.gog.com/dreamlist) - Community request for release[^ref-6]
 
 **Download / Preservation**
 - Demo available through Sierra Chest archives[^ref-2]
@@ -207,7 +207,7 @@ Within the Sierra Discovery Series, the title was released alongside *Pepper's A
 [^ref-2]: [The Sierra Chest – Ready, Set, Read with Bananas and Jack](https://sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos) – first release date (1992-01-01), developer, publisher, series affiliations, platform, demo information
 [^ref-3]: [The Sierra Chest – Ready, Set, Read Demo Page](https://www.sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos&pid=713) – developer, publisher, series groups, genres, platforms
 [^ref-4]: [GameFAQs – Ready, Set, Read with Bananas & Jack](https://gamefaqs.gamespot.com/pc/348854-ready-set-read-with-bananas-and-jack) – 1993 release date, developer (Bright Star Technology), publisher (Sierra On-Line), genre classification, user rating
-[^ref-6]: [GOG.com Dreamlist – Sierra Discovery Ready Set Read with Bananas & Jack](https://www.gog.com/dreamlist/game/sierra-discovery-ready-set-read-with-bananas-jack) – 1993 release date, Sierra as developer/publisher, community interest in digital release
+[^ref-6]: [GOG.com Dreamlist – Sierra Discovery Ready Set Read with Bananas & Jack](https://www.gog.com/dreamlist) – 1993 release date, Sierra as developer/publisher, community interest in digital release
 [^ref-7]: [Sierra Help Pages – Sierra Game Demos](https://sierrahelp.com/Misc/Demos.html) – compatibility information for 16-bit Windows software, DOSBox requirements, modern system limitations
 [^ref-8]: [Sierra Wiki – Bright Star Technology](https://wiki.sierrahelp.com/index.php/Bright_Star_Technology) – company history, founding by Elon Gasper, acquisition by Sierra in 1992
 [^ref-9]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – company background and educational software catalog

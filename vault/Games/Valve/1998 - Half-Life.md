@@ -313,7 +313,7 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/half-life)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

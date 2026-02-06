@@ -157,7 +157,7 @@ The game's mixed reception reflects the tensions between promising premises and 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 - 1991 release is considered abandonware[^ref-2]
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fort-apache)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

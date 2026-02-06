@@ -202,7 +202,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-prophecy) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Demo](https://archive.org/details/TheProphecy_1020)[^ref-5]
@@ -243,7 +243,7 @@ The game was released during a transitional period for Coktel Vision, shortly be
 [^ref-10]: [Lemon Amiga – Ween: The Prophecy](https://www.lemonamiga.com/game/ween-the-prophecy) – Amiga review, engine, technical specs, development credits, retail price
 [^ref-11]: [My Abandonware – The Prophecy](https://www.myabandonware.com/game/the-prophecy-225) – regional releases, alternative names, HOTUD rating
 [^ref-12]: [Sierra Gamers – The Prophecy](https://www.sierragamers.com/the-prophecy/) – gameplay description, puzzle structure
-[^ref-13]: [GOG.com Dreamlist – Ween: The Prophecy](https://www.gog.com/dreamlist/game/ween-the-prophecy) – user testimonials, platform memories
+[^ref-13]: [GOG.com Dreamlist – Ween: The Prophecy](https://www.gog.com/dreamlist) – user testimonials, platform memories
 [^ref-14]: [Lemon Amiga – Reviews](https://www.lemonamiga.com/games/reviews/view.php?id=332) – user reviews, version comparison, cut content
 [^ref-15]: [GameFAQs – The Prophecy Walkthrough](https://gamefaqs.gamespot.com/pc/567180-the-prophecy/faqs/15201) – playtime estimate, character quotes
 [^ref-16]: [UV List – Ween: The Prophecy](https://www.uvlist.net/game-43148-Ween+The+Prophecy) – magazine review scores, platform details, language support

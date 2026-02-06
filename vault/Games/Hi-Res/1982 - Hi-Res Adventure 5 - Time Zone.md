@@ -186,7 +186,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/time-zone) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 
 **Download / Preservation**
 - [Internet Archive – Time Zone v1.1](https://archive.org/details/wozaday_Time_Zone_v11)[^ref-11]

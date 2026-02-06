@@ -191,7 +191,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/early-math)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

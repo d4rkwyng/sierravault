@@ -203,7 +203,7 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 
 **Purchase / Digital Stores**
 - Not currently available on digital storefronts
-- [GOG Dreamlist – Hoyle Casino](https://www.gog.com/dreamlist/game/hoyle-casino-2000) – Vote for re-release
+- [GOG Dreamlist – Hoyle Casino](https://www.gog.com/dreamlist) – Vote for re-release
 
 **Download / Preservation**
 - [Macintosh Repository](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac version

@@ -212,7 +212,7 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/fester-mudd-curse-of-the-gold)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

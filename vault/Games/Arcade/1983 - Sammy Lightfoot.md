@@ -209,7 +209,7 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/sammy-lightfoot)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

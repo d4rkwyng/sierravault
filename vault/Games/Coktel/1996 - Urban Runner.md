@@ -248,4 +248,4 @@ The game represents Coktel Vision's final major FMV production before the studio
 [^ref-20]: [MobyGames Archive (Web Archive)](https://web.archive.org/web/20160303203136/http://www.mobygames.com/game/dos/urban-runner/) – Sierra acquisition, development history
 [^ref-21]: [Internet Archive – Urban Runner Europe](https://archive.org/details/urbanrunnereurope) – game description, file size, preservation
 [^ref-22]: [GameFAQs – Urban Runner FAQ](https://gamefaqs.gamespot.com/pc/565291-urban-runner/faqs/2293) – save game bug, walkthrough notes
-[^ref-23]: [GOG Dreamlist – Urban Runner](https://www.gog.com/dreamlist/game/urban-runner-1996) – cuddly toy trivia, user commentary
+[^ref-23]: [GOG Dreamlist – Urban Runner](https://www.gog.com/dreamlist) – cuddly toy trivia, user commentary

@@ -126,7 +126,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 ## Purchase
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hi-res-adventure-1-mystery-house) – Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist
 - Game is in the public domain as of 1987[^ref-21]
 
 ## Downloads

@@ -182,7 +182,7 @@ The game's historical significance lies not in its gameplay contributions—whic
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/ultima-escape-from-mt-drash)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/ultima-escape-from-mt-drash-1983)
 
 ## Downloads
 

@@ -215,7 +215,7 @@ Spelling Jungle was the first entry in Bright Star Technology's spelling-focused
 [^ref-15]: [Justapedia – Spelling Jungle](https://justapedia.org/wiki/Spelling_Jungle) – Computer Gaming World review quotes
 [^ref-16]: [Los Angeles Times – December 3, 1993](https://www.latimes.com/archives/la-xpm-1993-12-03-va-63439-story.html) – spelling software review, pricing, age ranges
 [^ref-17]: [Reddit – r/Sierra](https://www.reddit.com/r/Sierra/comments/1gcne9s/spelling_blizzard_or_spelling_jungle/) – player testimony on spelling improvement
-[^ref-18]: [GOG Dreamlist – Spelling Blizzard](https://www.gog.com/dreamlist/game/spelling-blizzard-aka-yobis-advanced-spelling-tricks) – user assessment of lasting appeal
+[^ref-18]: [GOG Dreamlist – Spelling Blizzard](https://www.gog.com/dreamlist) – user assessment of lasting appeal
 [^ref-19]: [MyAbandonware – Spelling Jungle](https://www.myabandonware.com/game/spelling-jungle-fac) – user rating, alternative titles, download
 [^ref-20]: [GameFAQs – Spelling Jungle](https://gamefaqs.gamespot.com/pc/934972-spelling-jungle) – user ratings, release date, game length
 [^ref-21]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – company founders, Elon Gasper background

@@ -116,7 +116,7 @@ NPD retail tracking data from September 1996 showed strong commercial performanc
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/civil-war-generals-2-grant-lee-sherman) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - Steam search results show limited availability of Civil War strategy games[^ref-59]
 - GOG.com does not currently feature this specific title[^ref-60]
 

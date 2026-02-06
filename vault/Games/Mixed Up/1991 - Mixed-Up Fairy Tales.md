@@ -206,7 +206,7 @@ From a preservation standpoint, the game's absence from modern digital storefron
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/dreamlist/game/mixedup-fairy-tales) – Community Dreamlist[^ref-17]
+- [GOG Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/dreamlist) – Community Dreamlist[^ref-17]
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/mixedupfairytalespc) – Kryoflux disk image preservation[^ref-22]
@@ -246,7 +246,7 @@ The "Mixed Up" series represents Sierra's primary foray into educational adventu
 [^ref-14]: [The Digital Antiquarian](https://www.filfre.net/?s=Mixed+Up+Fairy+Tales) – Disney comparison quote, Sierra revenue figures
 [^ref-15]: [Sierra Gamers Forum – Product List](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Oakhurst offices development location
 [^ref-16]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – Ken Williams production credit, "club" philosophy quote
-[^ref-17]: [GOG.com Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/dreamlist/game/mixedup-fairy-tales) – user requests for release, classical music appreciation, nostalgia comments
+[^ref-17]: [GOG.com Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/dreamlist) – user requests for release, classical music appreciation, nostalgia comments
 [^ref-18]: [Sierra Help Pages – Sound Drivers](https://sierrahelp.com/Patches-Updates/Patches-Updates-Misc/UpdatedSoundCardDrivers.html) – General MIDI patch information, driver installation instructions
 [^ref-19]: [Reddit – Tip of My Joystick](https://www.reddit.com/r/tipofmyjoystick/comments/18p87fn/pc1990s_a_mixedup_fairy_tale_game/) – endless forest description, 2D pixel graphics note
 [^ref-20]: [Steam Store Search](https://store.steampowered.com/search/?term=Mixed+Up+Fairy+Tales) – game not available on Steam

@@ -189,7 +189,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam (original 1997 version)
 - [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – 2006 sequel
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-minigolf)
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-1997)
 
 ## Downloads
 

@@ -229,7 +229,7 @@ Modern retrospective assessment has been somewhat kinder than contemporary revie
 - [Free Game Empire](https://www.freegameempire.com/games/Skyfox-II-The-Cygnus-Conflict)
 
 **Wishlist / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/skyfox-ii-the-cygnus-conflict-1987) – Community request for availability
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community request for availability
 
 ## Series Continuity
 
@@ -251,7 +251,7 @@ Skyfox II: The Cygnus Conflict is the direct sequel to the original Skyfox, rele
 [^ref-6]: [UVList – Skyfox II](https://www.uvlist.net/game-17573-Skyfox+II+The+Cygnus+Conflict) – French magazine reviews, official description, weapons, enemies, gameplay features
 [^ref-7]: [Every Game Going – Commodore User Review (Issue #54, March 1988)](https://www.everygamegoing.com/larticle/skyfox-ii-/53890) – review scores, reviewer name, packaging details, critical assessment
 [^ref-8]: [Games Nostalgia – Skyfox II](https://gamesnostalgia.com/game/skyfox-ii-the-cygnus-conflict) – editorial scores, technical specs, controls, bugs, development notes
-[^ref-9]: [GOG Dreamlist – Skyfox II](https://www.gog.com/dreamlist/game/skyfox-ii-the-cygnus-conflict-1987) – CGA/EGA graphics information, platforms
+[^ref-9]: [GOG Dreamlist – Skyfox II](https://www.gog.com/dreamlist) – CGA/EGA graphics information, platforms
 [^ref-10]: [Free Game Empire – Skyfox II](https://www.freegameempire.com/games/Skyfox-II-The-Cygnus-Conflict) – Dynamix company history, gameplay features
 [^ref-11]: [Lemon64 – Skyfox II](https://www.lemon64.com/game/skyfox-2-the-cygnus-conflict) – comprehensive magazine reviews, credits, retail prices, user comments, copy protection
 [^ref-12]: [Lemon Amiga – Dynamix Games](https://www.lemonamiga.com/games/list.php?list_letter=&list_music=yes&list_company=dynamix) – Amiga release date, user rating

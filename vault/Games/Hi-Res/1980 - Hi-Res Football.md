@@ -192,7 +192,7 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist – Hi-Res Football](https://www.gog.com/dreamlist/game/hi-res-football) – Vote to add this game to GOG's catalog
+- [GOG Dreamlist – Hi-Res Football](https://www.gog.com/dreamlist) – Vote to add this game to GOG's catalog
 
 **Download / Preservation**
 - [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt)[^ref-2]

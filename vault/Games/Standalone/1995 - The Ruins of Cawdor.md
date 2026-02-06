@@ -204,7 +204,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [Games Nostalgia](https://gamesnostalgia.com/game/ruins-of-cawdor)[^ref-19]
 
 **Digital Wishlist**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995)[^ref-22]
+- [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
 
 ## Series Continuity
 
@@ -239,5 +239,5 @@ The series competed with Neverwinter Nights on America Online during the early d
 [^ref-19]: [Games Nostalgia – Ruins of Cawdor](https://gamesnostalgia.com/game/ruins-of-cawdor) – version info, download details
 [^ref-20]: [Alchetron – Eric and the Dread Gazebo](https://alchetron.com/Eric-and-the-Dread-Gazebo) – Richard Aronson background, anecdote history
 [^ref-21]: [Old-Games.com – Ruins of Cawdor](https://www.old-games.com/download/7344/ruins-of-cawdor) – download, file size
-[^ref-22]: [GOG Dreamlist – The Ruins of Cawdor](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995) – wishlist entry
+[^ref-22]: [GOG Dreamlist – The Ruins of Cawdor](https://www.gog.com/dreamlist) – wishlist entry
 [^ref-24]: [Squakenet – The Ruins of Cawdor](https://www.squakenet.com/game/the-ruins-of-cawdor/) – character classes, dungeon structure

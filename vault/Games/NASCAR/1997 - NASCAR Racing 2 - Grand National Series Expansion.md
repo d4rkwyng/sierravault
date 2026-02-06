@@ -177,7 +177,7 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2-grand-national-series-expansion) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - No longer commercially available
 
 **Download / Preservation**

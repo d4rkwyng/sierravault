@@ -108,7 +108,7 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/power-chess) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - No longer commercially available
 
 **Download / Preservation**

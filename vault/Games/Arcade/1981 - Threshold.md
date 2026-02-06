@@ -189,7 +189,7 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/threshold)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

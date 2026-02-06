@@ -111,7 +111,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/eat-my-dust) - Community Dreamlist
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
 - No longer commercially available
 
 **Download / Preservation**

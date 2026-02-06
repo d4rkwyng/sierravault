@@ -216,7 +216,7 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=3226)
 
 **Community Resources**
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/quarky-quaysoos-turbo-science) – Community request for re-release (264 votes)
+- [GOG Dreamlist](https://www.gog.com/dreamlist) – Community request for re-release (264 votes)
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
 ## Series Continuity
@@ -247,7 +247,7 @@ Jeff Tunnell Productions developed the game during the studio's operation betwee
 [^ref-12]: [Speedrun.com – Turbo Science Guide](https://www.speedrun.com/turbo_science/guides/3odi4) – gameplay mechanics, race count, money system, emulation settings
 [^ref-13]: [MyAbandonware – Quarky & Quaysoo's Turbo Science](https://www.myabandonware.com/game/quarky-quaysoo-s-turbo-science-1pw) – user reviews, ratings, file size, release dates
 [^ref-14]: [GameSpot – Quarky & Quaysoo's Turbo Science](https://www.gamespot.com/quarky-and-quaysoos-turbo-science/) – user rating, genre classification
-[^ref-15]: [GOG Dreamlist – Quarky & Quaysoo's Turbo Science](https://www.gog.com/dreamlist/game/quarky-quaysoos-turbo-science) – community interest, wishlist votes
+[^ref-15]: [GOG Dreamlist – Quarky & Quaysoo's Turbo Science](https://www.gog.com/dreamlist) – community interest, wishlist votes
 [^ref-16]: [Sierra Fandom Wiki – Jeff Tunnell Productions](https://sierra.fandom.com/wiki/Jeff_Tunnell_Productions) – development studio history, release date variant
 [^ref-17]: [The Adventure Gamer – Pepper's Adventures in Time](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Sierra Discovery Series context, development era
 [^ref-18]: [Old Games Download – Quarky & Quaysoo's Turbo Science](https://oldgamesdownload.com/quarky-quaysoos-turbo-science/) – file size, basic information

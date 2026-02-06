@@ -158,7 +158,7 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-casino)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

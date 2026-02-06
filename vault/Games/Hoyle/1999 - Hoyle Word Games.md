@@ -175,7 +175,7 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-word-games)
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
