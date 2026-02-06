@@ -17,7 +17,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest IV: Roger Wilco and the Time Rippers
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 2, 2026</small>
 
 ## Overview
 Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the fourth installment in the Space Quest series and the first to feature Sierra's icon-based point-and-click SCI interface and 256-color VGA graphics[^ref-3][^ref-6]. The game was released on floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support, featuring Laugh-In announcer Gary Owens as the narrator[^ref-4][^ref-32]. The game cost over $1,000,000 to produce but was a commercial success, selling more copies than all three previous Space Quest games combined[^ref-4][^ref-5]. It was one of the first games to use motion capture animation and featured video-captured animation[^ref-3][^ref-4].

@@ -15,7 +15,7 @@ tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 5, 2026</small>
 
 ## Overview
 

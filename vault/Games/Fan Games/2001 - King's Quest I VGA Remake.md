@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: January 13, 2026</small>
+<small style="color: gray">Last updated: February 5, 2026</small>
 
 ## Overview
 

@@ -17,7 +17,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 5, 2026</small>
 
 ## Overview
 
