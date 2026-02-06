@@ -295,6 +295,7 @@ The team's approach of receiving official licensing before distribution set an i
 **SierraVault Mirror:**
 - [Windows (v4.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga41c.exe) – 102 MB
 - [Mac (v4.1c)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga41c.dmg) – 489 MB
+- [Windows (v4.2 RC1 - Beta)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest1VGA/Kq1vga42-RC1.exe) – 112 MB *(Jul 2024, improved modern OS compatibility)*
 
 **Preservation:**
 - [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown)[^ref-35]
