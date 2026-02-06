@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-02-02"
+updated: "2026-02-06"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -10,6 +10,16 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 ---
 
 ## 🔥 Q1 2026 (Jan–Feb)
+
+> [!tip] Al Lowe Interview — Spillhistorie.no
+> **February 6, 2026** — Norwegian gaming history site Spillhistorie published a new in-depth interview with [[Al Lowe|Al Lowe]], discussing topics beyond Leisure Suit Larry:
+> 
+> - 🚂 His lifelong passion for model railroading (started at age 2!)
+> - 🎮 Working with Disney on [[1984 - Donald Duck's Playground|Donald Duck's Playground]]
+> - 🎷 His musical background and love of the saxophone
+> - 🇳🇴 Getting emergency eye surgery in Oslo (!)
+> 
+> [Read the Full Interview](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 
 > [!warning] Gobliins 6 — Imminent Release!
 > **February 2, 2026** — Pierre Gilhodes posted Kickstarter update titled **"Imminent game release / Sortie du jeu imminente"**
@@ -149,4 +159,4 @@ Want updates? Follow us:
 
 ---
 
-*Last bot scan: February 2, 2026 · 261 items processed*
+*Last bot scan: February 6, 2026 · 229 items processed*
