@@ -11,6 +11,14 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 
 ## 🔥 Q1 2026 (Jan–Feb)
 
+> [!success] Gobliins 6: The Madmen of the Year 1000 — RELEASED!
+> **February 10, 2026** — [[2026 - Gobliins 6|Gobliins 6]] is out! Pierre Gilhodes brings back Fingus & Winkle 30+ years after Gobliins 2.
+> 
+> - ✅ **itch.io** — Available now ($10)
+> - 🔜 **Steam** — Friday, February 13, 2026
+> 
+> [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
+
 > [!tip] Al Lowe Interview — Spillhistorie.no
 > **February 6, 2026** — Norwegian gaming history site Spillhistorie published a new in-depth interview with [[Al Lowe|Al Lowe]], discussing topics beyond Leisure Suit Larry:
 > 
@@ -20,14 +28,6 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - 🇳🇴 Getting emergency eye surgery in Oslo (!)
 > 
 > [Read the Full Interview](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
-
-> [!success] Gobliins 6: The Madmen of the Year 1000 — RELEASED!
-> **February 10, 2026** — [[2026 - Gobliins 6|Gobliins 6]] is out! Pierre Gilhodes brings back Fingus & Winkle 30+ years after Gobliins 2.
-> 
-> - ✅ **itch.io** — Available now ($10)
-> - 🔜 **Steam** — Friday, February 13, 2026
-> 
-> [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
 
 > [!tip] ScummVM v2026.1.0 "Like a Version"
 > **January 31, 2026** — Massive release with 12 new engines and 190+ new games!
@@ -112,7 +112,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!abstract] Alumni Projects
 > | Project | Creator | Status |
 > |---------|---------|--------|
-> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | 🔥 **Imminent release!** |
+> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | ✅ **Released Feb 10!** |
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4]] | Jane Jensen | ⏳ Awaiting MS approval |
 > | Hero-U Sequel | Corey & Lori Cole | 💰 Seeking funding |
 
@@ -160,4 +160,4 @@ Want updates? Follow us:
 
 ---
 
-*Last bot scan: February 6, 2026 · 229 items processed*
+*Last bot scan: February 11, 2026 · 241 items processed*
