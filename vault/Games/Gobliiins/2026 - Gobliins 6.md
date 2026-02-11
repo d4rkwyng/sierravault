@@ -1,6 +1,7 @@
 ---
-title: Gobliins 6
+title: "Gobliins 6: The Madmen of the Year 1000"
 release_year: 2026
+release_date: 2026-02-10
 developer: Pierre Gilhodes
 designer: [Pierre Gilhodes]
 publisher: Schnibble Productions
@@ -10,18 +11,18 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-02-04'
-description: '*Gobliins 6* is a 2026 2D puzzle adventure game that serves as
+last_updated: '2026-02-11'
+description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as
   a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
- Gobliins 6
+ Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 11, 2026</small>
 
 ## Overview
 
-*Gobliins 6* is a 2026 2D puzzle adventure game that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]]*, reuniting the beloved duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2] Developed by [[Pierre Gilhodes]] and published through his independent [[Schnibble Productions]] label, the game represents a continuation of Gilhodes' personal stewardship of the franchise he co-created at Coktel Vision in 1991.[^ref-1][^ref-6]
+*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]]*, reuniting the beloved duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2] Developed by [[Pierre Gilhodes]] and published through his independent [[Schnibble Productions]] label, the game represents a continuation of Gilhodes' personal stewardship of the franchise he co-created at Coktel Vision in 1991.[^ref-1][^ref-6]
 
 The game was successfully crowdfunded on Kickstarter from October 10 to November 9, 2024, raising €9,524 from 388 backers against a modest €4,000 goal—exceeding its target by more than double.[^ref-1][^ref-3] Built using Adventure Game Studio (AGS), the same engine that powered *Gobliiins 5*, the game promises to deliver classic point-and-click gameplay with modern quality-of-life improvements while maintaining the series' distinctive humor and charm.[^ref-3][^ref-5]
 
@@ -140,6 +141,12 @@ In a Kickstarter update posted on February 2, 2026, Pierre Gilhodes announced th
 
 This announcement confirms that *Gobliins 6* has completed development and is awaiting final release logistics. Backers will receive their keys via email, with Steam as the default distribution platform and Itch.io available as an alternative.[^ref-13]
 
+### Release (February 10-13, 2026)
+
+*Gobliins 6: The Madmen of the Year 1000* was released on itch.io on February 10, 2026, with the Steam release following on February 13, 2026.[^ref-14][^ref-15] In a Kickstarter update announcing the release, Pierre Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday. See you soon."[^ref-15]
+
+The staggered release allowed Kickstarter backers to receive their keys first via itch.io, with the broader Steam release arriving three days later.[^ref-15]
+
 ### Technical Foundation
 
 *Gobliins 6* is being developed using Adventure Game Studio (AGS), a free game development tool specifically designed for creating point-and-click adventure games.[^ref-3][^ref-5] This same engine powered *Gobliiins 5* (2023), allowing Gilhodes to leverage his experience and potentially reuse certain technical frameworks while creating new content.[^ref-3]
@@ -197,7 +204,7 @@ The Gobliiins series spans over three decades:[^ref-4][^ref-6]
 | 1992 | Gobliins 2: The Prince Buffoon | 2 | Coktel Vision |
 | 1993 | Goblins Quest 3 | 1 | Coktel Vision |
 | 2023 | Gobliiins 5: The Morgloton Invasion | 3 | Schnibble Productions |
-| TBA | Gobliins 6 | 2 | Schnibble Productions |
+| 2026 | Gobliins 6: The Madmen of the Year 1000 | 2 | Schnibble Productions |
 
 ### Pierre Gilhodes' Vision
 
@@ -231,9 +238,8 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not yet available (game in development)
-- Expected to release on itch.io[^ref-5]
-- Potential Steam release[^ref-5]
+- [itch.io – Gobliins 6](https://pierre-gilhodes.itch.io/gobliins6) – Released February 10, 2026 ($10)[^ref-14]
+- Steam – Released February 13, 2026[^ref-15]
 
 ## Files & Downloads
 
@@ -267,3 +273,5 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 [^ref-11]: [Facebook – Pierre Gilhodes status update](https://www.facebook.com/groups/144759398597) – December 15, 2025 development status
 [^ref-12]: [Adventure Gamers – Gobliiins 6 Game Details](https://adventuregamers.com/games/gobliiins-6) – Game database entry with plot details
 [^ref-13]: [Kickstarter – Gobliins 6 Update #8: Imminent game release](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616) – February 2, 2026 release announcement
+[^ref-14]: [itch.io – GOBLiiNS6 by Pierre Gilhodes](https://pierre-gilhodes.itch.io/gobliins6) – Official itch.io store page, released February 10, 2026
+[^ref-15]: [Kickstarter – Gobliins 6 Update: Jeu/Game](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311) – February 11, 2026 release announcement confirming itch.io and Steam dates
