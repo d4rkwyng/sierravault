@@ -237,7 +237,7 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 **Purchase / Digital Stores**
 - [itch.io – Gobliins 6](https://pierre-gilhodes.itch.io/gobliins6) – Released February 10, 2026 ($10)[^ref-14]
-- Steam – Released February 13, 2026[^ref-15]
+- [Steam – Gobliins 6](https://store.steampowered.com/app/4293620/GOBLiiNS6/) – Releases February 13, 2026[^ref-15]
 
 ## Files & Downloads
 
@@ -248,8 +248,6 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 **Developer**
 
 - [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page with previous releases[^ref-5]
-
-*Note: Game is currently in development. Purchase links will be available upon release.*
 
 ## Series Continuity
 

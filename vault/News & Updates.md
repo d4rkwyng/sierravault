@@ -19,6 +19,11 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > 
 > [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
 
+> [!tip] Gobliins 6 — Release Imminent
+> **February 2, 2026** — Pierre Gilhodes posted a Kickstarter update confirming [[2026 - Gobliins 6|Gobliins 6]] is complete and awaiting release. Keys will be distributed via email with Steam as default, itch.io as alternative.
+> 
+> [Kickstarter Update](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
+
 > [!tip] Al Lowe Interview — Spillhistorie.no
 > **February 6, 2026** — Norwegian gaming history site Spillhistorie published a new in-depth interview with [[Al Lowe|Al Lowe]], discussing topics beyond Leisure Suit Larry:
 > 
@@ -112,7 +117,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!abstract] Alumni Projects
 > | Project | Creator | Status |
 > |---------|---------|--------|
-> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | ✅ **Released Feb 10!** |
+> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | ✅ **Released!** ([itch.io](https://pierre-gilhodes.itch.io/gobliins6) now, [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) Feb 13) |
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4]] | Jane Jensen | ⏳ Awaiting MS approval |
 > | Hero-U Sequel | Corey & Lori Cole | 💰 Seeking funding |
 
