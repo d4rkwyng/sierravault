@@ -1,6 +1,6 @@
 ---
 title: "News & Updates"
-updated: "2026-02-06"
+updated: "2026-02-11"
 cssclass: news-page
 ---
 # 📰 News & Updates
@@ -21,12 +21,13 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > 
 > [Read the Full Interview](https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/)
 
-> [!warning] Gobliins 6 — Imminent Release!
-> **February 2, 2026** — Pierre Gilhodes posted Kickstarter update titled **"Imminent game release / Sortie du jeu imminente"**
+> [!success] Gobliins 6: The Madmen of the Year 1000 — RELEASED!
+> **February 10, 2026** — [[2026 - Gobliins 6|Gobliins 6]] is out! Pierre Gilhodes brings back Fingus & Winkle 30+ years after Gobliins 2.
 > 
-> The sequel to Gobliins 2 featuring Fingus and Winkle is in the final stretch! 🎉
+> - ✅ **itch.io** — Available now ($10)
+> - 🔜 **Steam** — Friday, February 13, 2026
 > 
-> [Kickstarter Update](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616)
+> [itch.io](https://pierre-gilhodes.itch.io/gobliins6) · [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) · [Kickstarter Announcement](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4608311)
 
 > [!tip] ScummVM v2026.1.0 "Like a Version"
 > **January 31, 2026** — Massive release with 12 new engines and 190+ new games!

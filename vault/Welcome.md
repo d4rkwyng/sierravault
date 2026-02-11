@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Sierra Vault"
-updated: "2026-02-02"
+updated: "2026-02-11"
 ---
 # Welcome, Fellow Adventure Seeker
 <img src="sg-logo-roger-graham-400x400.webp" alt="Sierra Vault" width="200" style="float: right; margin: 0 0 10px 10px;">
@@ -76,6 +76,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
+> | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
 > | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
@@ -90,7 +91,6 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!note] In Development
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | Imminent release |
 > | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
 > | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% complete |
 > | [[TBD - King's Quest IV Remake (Infamous Adventures)\|King's Quest IV Remake]] | Infamous Adventures | Active development |
