@@ -145,8 +145,6 @@ This announcement confirms that *Gobliins 6* has completed development and is aw
 
 *Gobliins 6: The Madmen of the Year 1000* was released on itch.io on February 10, 2026, with the Steam release following on February 13, 2026.[^ref-14][^ref-15] In a Kickstarter update announcing the release, Pierre Gilhodes wrote: "Hello, all mailings are done, check your spam emails. Let me know in case of any problem. The game should be on Steam on Friday. See you soon."[^ref-15]
 
-The staggered release allowed Kickstarter backers to receive their keys first via itch.io, with the broader Steam release arriving three days later.[^ref-15]
-
 ### Technical Foundation
 
 *Gobliins 6* is being developed using Adventure Game Studio (AGS), a free game development tool specifically designed for creating point-and-click adventure games.[^ref-3][^ref-5] This same engine powered *Gobliiins 5* (2023), allowing Gilhodes to leverage his experience and potentially reuse certain technical frameworks while creating new content.[^ref-3]
