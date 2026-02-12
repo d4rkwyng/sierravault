@@ -41,9 +41,9 @@ The game features hand-drawn 2D background artwork and hand-drawn cel animation,
 
 Set in 1970s Jamaica, Bolt Riley follows the titular protagonist, a good-hearted young man growing up in the impoverished Trenchtown neighborhood of Kingston[^ref-11]. Bolt is struggling to survive and must deal with a gang of thugs known as the Rude Boys who terrorize his community[^ref-2]. As Oded Sharon described the character: "He's a good boy who grew up in a bad environment. He doesn't want to be part of a world of crime and throughout the game he realises he wants to escape it and become the good person he is."[^ref-6]
 
-The story follows Bolt on a journey of self-discovery, love, friendship, and inspiration where he is introduced to reggae music and finds his calling[^ref-7]. Through classic adventure game mechanics—exploring environments, solving puzzles, engaging in dialog challenges, and collecting inventory items—players guide Bolt as he forms his band, finds inspiration, writes and produces songs, and ultimately performs them[^ref-1]. The narrative was planned across multiple chapters, each focusing on different aspects of Bolt's passage into becoming a reggae legend[^ref-2].
+The story follows Bolt on a journey of self-discovery, love, friendship, and inspiration where he is introduced to reggae music and finds his calling[^ref-2]. Through classic adventure game mechanics—exploring environments, solving puzzles, engaging in dialog challenges, and collecting inventory items—players guide Bolt as he forms his band, finds inspiration, writes and produces songs, and ultimately performs them[^ref-1]. The narrative was planned across multiple chapters, each focusing on different aspects of Bolt's passage into becoming a reggae legend[^ref-2].
 
-"This is the story of the underdog who breaks out and becomes a worldwide sensation," the developers proclaimed[^ref-7]. The tale draws inspiration from the real history of Jamaican reggae, with the Trenchtown setting serving as the birthplace of the genre and home to artists like Bob Marley[^ref-13]. The game takes place in Kingston, Jamaica, with environments based on 1970s photo references of the area[^ref-14].
+"This is the story of the underdog who breaks out and becomes a worldwide sensation," the developers proclaimed[^ref-2]. The tale draws inspiration from the real history of Jamaican reggae, with the Trenchtown setting serving as the birthplace of the genre and home to artists like Bob Marley[^ref-13]. The game takes place in Kingston, Jamaica, with environments based on 1970s photo references of the area[^ref-14].
 
 A unique gameplay element involves Bolt's "Inspirational powers"—special abilities he learns during his journeys that function similarly to the spell system in later Quest for Glory games, appearing in a separate inventory from regular items[^ref-2]. These powers reflect the spiritual and musical themes of reggae culture and provide alternative solutions to various puzzles.
 
@@ -71,7 +71,7 @@ Bolt Riley's path to release involved multiple crowdfunding attempts. The first 
 
 As Sharon explained the financial situation: "I managed to convince [the initial investors] to let us have one final shot to save the game and that was the Kickstarter."[^ref-6] The initial investors had already contributed over $320,000 to the project's development[^ref-6]. This significant prior investment created pressure to find additional funding to complete the game.
 
-A second Kickstarter campaign in August 2014 took a different approach, running for only seven days to coincide with the OUYA #FreeTheGames fund matching program[^ref-19]. This time, the campaign sought a more modest $31,668 goal[^ref-18]. The campaign ultimately succeeded with 757 backers supporting the project[^ref-8].
+A second Kickstarter campaign in August 2014 took a different approach, running for only seven days to coincide with the OUYA #FreeTheGames fund matching program[^ref-19]. This time, the campaign sought a more modest $31,668 goal[^ref-18]. The campaign ultimately succeeded with 757 backers supporting the project[^ref-2].
 
 ### Technical Development
 
@@ -101,7 +101,7 @@ Sharon had connections to The Journey Down developers Skygoblin, which helped se
 
 ### Interface and Controls
 
-Bolt Riley utilizes a traditional point-and-click interface built on Unity 3D with Adventure Creator middleware[^ref-9]. The game was designed for cross-platform play, allowing players to "start playing it on one platform and finish it on another" across desktop, mobile, and console versions[^ref-10]. The interface combines classic Sierra-style adventure game conventions with a unique dual-inventory system—one for standard items and another for Bolt's special "Inspirational powers" that function similarly to the spell system in later Quest for Glory games[^ref-15].
+Bolt Riley utilizes a traditional point-and-click interface built on Unity 3D with Adventure Creator middleware[^ref-9]. The game was designed for cross-platform play, allowing players to "start playing it on one platform and finish it on another" across desktop, mobile, and console versions[^ref-6]. The interface combines classic Sierra-style adventure game conventions with a unique dual-inventory system—one for standard items and another for Bolt's special "Inspirational powers" that function similarly to the spell system in later Quest for Glory games[^ref-2].
 
 ### Structure and Progression
 

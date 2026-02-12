@@ -8,7 +8,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-This archive contains **512 game pages** across 74 categories.
+This archive contains **516 game pages** across 74 categories.
 
 | Category | Pages |
 |----------|-------|
@@ -28,7 +28,7 @@ This archive contains **512 game pages** across 74 categories.
 | [[#Discovery\|Discovery]] | 4 |
 | [[#Disney\|Disney]] | 4 |
 | [[#Dr. Brain\|Dr. Brain]] | 8 |
-| [[#Dynamix\|Dynamix]] | 17 |
+| [[#Dynamix\|Dynamix]] | 18 |
 | [[#EcoQuest\|EcoQuest]] | 2 |
 | [[#Education\|Education]] | 9 |
 | [[#Empire Earth\|Empire Earth]] | 2 |
@@ -74,7 +74,7 @@ This archive contains **512 game pages** across 74 categories.
 | [[#Sierra Pro Pilot\|Sierra Pro Pilot]] | 3 |
 | [[#Sierra Sports\|Sierra Sports]] | 5 |
 | [[#Space Quest\|Space Quest]] | 7 |
-| [[#Spiritual Successors\|Spiritual Successors]] | 16 |
+| [[#Spiritual Successors\|Spiritual Successors]] | 18 |
 | [[#Standalone\|Standalone]] | 29 |
 | [[#Stellar 7\|Stellar 7]] | 4 |
 | [[#Strategy\|Strategy]] | 10 |
@@ -292,6 +292,7 @@ This archive contains **512 game pages** across 74 categories.
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | 2026-01-10 |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | 2026-01-10 |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | 2026-01-22 |
+| 1992 | [[1992 - Johnny Castaway\|Johnny Castaway]] | 2026-02-12 |
 | 1992 | [[1992 - Quarky & Quaysoo's Turbo Science\|Quarky & Quaysoo's Turbo Science]] | 2026-01-22 |
 | 1994 | [[1994 - Bouncers\|Bouncers]] | 2026-01-18 |
 | 1994 | [[1994 - Sierra Soccer - World Challenge Edition\|Sierra Soccer: World Challenge Edition]] | 2026-01-18 |
@@ -826,6 +827,7 @@ This archive contains **512 game pages** across 74 categories.
 |------|------|--------------|
 | 1993 | [[1993 - Blue Force\|Blue Force]] | 2026-02-12 |
 | 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | 2026-01-16 |
+| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | 2026-02-12 |
 | 2010 | [[2010 - Gray Matter\|Gray Matter]] | 2026-01-09 |
 | 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | 2026-01-09 |
 | 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | 2026-01-14 |
@@ -833,6 +835,7 @@ This archive contains **512 game pages** across 74 categories.
 | 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | 2026-01-13 |
 | 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape from the Planet of the Poultroid]] | 2026-01-22 |
 | 2015 | [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] | 2026-01-09 |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | 2026-02-12 |
 | 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | 2026-01-10 |
 | 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | 2026-01-16 |
 | 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | 2026-01-13 |
