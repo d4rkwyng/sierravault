@@ -124,3 +124,28 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-18]: [Apex Magazine Interview](https://www.apexbookcompany.com/a/blog/apex-magazine/post/interview-with-cover-artist-scott-murphy) — other Sierra projects and contributions
 [^ref-19]: [Game Developer - 20 Year Estrangement](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) — Space Quest IV development and career peak
 [^ref-20]: [Game Developer Interview](https://www.gamedeveloper.com/design/interview-john-murphy-of-octodad) — technical achievements and VGA graphics implementation
+[^ref-21]: [Wikipedia - Space Quest](https://en.wikipedia.org/wiki/Space_Quest) — Space Quest 6 development and Sierra's shifting focus
+[^ref-22]: [Space Quest Collection History (1997)](https://archive.org/details/the-history-of-space-quest) — adventure game market changes and Sierra corporate pressures
+[^ref-23]: [SpaceQuest.net Archives - Space Quest 7](https://www.spacequest.net/archives/sq7/) — Space Quest VII cancellation and "Chainsaw Monday" layoffs
+[^ref-24]: [Game Developer - The 20-Year Estrangement](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) — Murphy's estrangement from Mark Crowe and reconciliation
+[^ref-25]: [Virtual Broomcloset Interview (2000)](https://wiw.org/~jess/scott112900.html) — Murphy's lower profile post-Sierra and career transitions
+[^ref-26]: [Wikipedia - Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) — fan-made Space Quest games keeping the series alive
+[^ref-27]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Two Guys from Andromeda crowdfunding campaign
+[^ref-28]: [Rock Paper Shotgun - Two Guys Reform](https://www.rockpapershotgun.com/two-guys-from-andromeda-reform-to-make-space-quest) — SpaceVenture development challenges and delays
+[^ref-29]: [IGN - A Year of Adventure: Space Quest I & II](https://www.ign.com/articles/2014/02/24/a-year-of-adventure-3-space-quest-i-ii) — Space Quest establishment of Murphy as creative force
+[^ref-30]: [MobyGames - Space Quest Series](https://www.mobygames.com/group/4/space-quest-series/) — AGI engine usage and series technical details
+[^ref-31]: [Adventure Gamers - Space Quest Retrospective](https://adventuregamers.com/articles/view/17490) — Space Quest's influence on adventure gaming comedy
+[^ref-32]: [Wikipedia - Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) — Space Quest IV as pinnacle of series, critical reception
+[^ref-33]: [MobyGames - Space Quest IV](https://www.mobygames.com/game/533/space-quest-iv-roger-wilco-and-the-time-rippers/) — time travel mechanics and puzzle design details
+[^ref-34]: [Computer Gaming World (March 1991)](https://archive.org/details/Computer_Gaming_World_Issue_80) — technical achievements in VGA graphics and Sound Blaster audio
+[^ref-35]: [MobyGames - King's Quest](https://www.mobygames.com/game/121/kings-quest/) — Murphy's programming contributions to King's Quest
+[^ref-36]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — AGI engine development and implementation details
+[^ref-37]: [The Sierra Newsletter (1989)](https://wiw.org/~jess/2guys_sq3.html) — Murphy's technical contributions at Sierra
+[^ref-38]: [Adventure Classic Gaming - Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/234/) — design philosophy on humor and player engagement
+[^ref-39]: [Best of AMA - Scott Murphy](https://bestofama.com/ops/scott-murphy-video-game-designer) — balance of puzzles with comedy
+[^ref-40]: [MobyGames - Scott Murphy Credits](https://www.mobygames.com/person/4525/scott-murphy/credits/) — programming background and technical expertise
+[^ref-41]: [Guys from Andromeda Press Release (2012)](http://guysfromandromeda.com/wp-content/uploads/2012/06/Spaceventure_Press_Release_PDF1.5.pdf) — design approach and iteration philosophy
+[^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
+[^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games
+[^ref-44]: [Adventure Gamers - Hall of Fame](https://adventuregamers.com/articles/view/15193) — Murphy's contributions to puzzle design and narrative
+[^ref-45]: [Kotaku - SpaceVenture Coverage](https://kotaku.com/spaceventure-two-guys-from-andromeda-review-kickstarte-1851540622) — enduring Space Quest popularity and fan community
