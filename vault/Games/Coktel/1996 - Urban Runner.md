@@ -214,7 +214,7 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Urban_Runner) – Compatibility fixes and ScummVM setup[^ref-10]
 - [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough and technical support[^ref-15]
 
-## Series Continuity
+## See Also
 
 Urban Runner was conceived as a spiritual sequel to Lost in Time (1993), originally titled "Lost in Town" to maintain the naming convention of an intended "Lost in..." series.[^ref-4] While not a direct narrative sequel, the game shared Coktel Vision's approach to FMV adventure gaming and was marketed as part of the same creative lineage. Sierra's acquisition of Coktel Vision during development led to the name change and the abandonment of the planned series branding.[^ref-20]
 

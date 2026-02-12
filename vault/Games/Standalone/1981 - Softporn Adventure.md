@@ -220,7 +220,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 **Manuals & Extras**
 - [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-34]
 
-## Series Continuity
+## See Also
 
 Softporn Adventure stands as the precursor to the entire Leisure Suit Larry series, though it differs significantly in tone and presentation. While the original game was a straightforward (if crude) adult text adventure, Al Lowe's graphical remake in 1987 transformed the material into comedy, introducing the lovable loser Larry Laffer as the protagonist.[^ref-8] Lowe noted that "There were no characters in the game. There was no central character at all. There were almost no characters to the women. And so it was a real role-over. I think there's one line of dialogue that I kept of the original game and all the rest was fresh."[^ref-44]
 

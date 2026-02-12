@@ -177,7 +177,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 **Modern Compatibility**
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
-## Series Continuity
+## See Also
 
 Cranston Manor is the third numbered entry in Sierra's Hi-Res Adventure series, a collection of early graphical adventure games that helped establish the company as a leader in the genre[^ref-8]. The series would eventually encompass seven titles, released between 1980 and 1982[^ref-1]. While most games in the series were designed by Roberta Williams, Cranston Manor stands out as the first to feature different designers, demonstrating the company's expanding development capacity[^ref-2].
 

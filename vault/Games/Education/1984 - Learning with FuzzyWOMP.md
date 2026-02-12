@@ -185,7 +185,7 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 - [Giant Bomb](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/)[^ref-6]
 - [CollectorVision](https://collectorvision.com/games/lwfuzzywomp.php)[^ref-9]
 
-## Series Continuity
+## See Also
 
 Learning With Fuzzywomp was part of Sierra On-Line's educational software line for preschool children, following the design principles established by Learning with Leeper in 1983.[^ref-1] Both games shared a focus on pre-reader accessibility and animated instruction, establishing Sierra's approach to early childhood educational software during the home computer boom of the early 1980s.
 

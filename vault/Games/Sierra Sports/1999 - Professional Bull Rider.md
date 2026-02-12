@@ -203,7 +203,7 @@ The franchise's continued existence through mobile and console titles decades la
 **Purchase (Original)**
 - [Amazon – Professional Bull Rider PC](https://www.amazon.com/Professional-Bull-Rider-PC/dp/B00001LCDC)[^ref-7]
 
-## Series Continuity
+## See Also
 
 Professional Bull Rider was the first game in Sierra Sports' bull riding franchise, establishing the core gameplay mechanics and authentic PBR integration that would carry forward into the sequel. The game set the template for future PBR-licensed titles, demonstrating the viability of bull riding as a video game subject.
 

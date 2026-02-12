@@ -126,7 +126,7 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - [MyAbandonware](https://www.myabandonware.com/game/starsiege-tribes-bhx)
 - Community servers still active through TribesNext and similar services[^ref-25]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - Starsiege]] (1999)
 - **Next:** [[2001 - Tribes 2]]

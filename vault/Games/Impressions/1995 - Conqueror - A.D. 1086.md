@@ -231,7 +231,7 @@ Despite its critical reception as a game where presentation exceeded substance, 
 **Manuals & Extras**
 - German manual and booklet available through Internet Archive preservation[^ref-17]
 
-## Series Continuity
+## See Also
 
 Conqueror: A.D. 1086 is a standalone title with no direct sequels or prequels. It represents Software Sorcery's sole major collaboration with Sierra On-Line, though the studio also developed naval simulation titles *Jutland* and *Fast Attack*[^ref-6]. The game's spiritual lineage connects it to Cinemaware's *Defender of the Crown* (1986), which established the template of combining strategic medieval conquest with action mini-games that Conqueror sought to expand upon[^ref-5][^ref-8].
 

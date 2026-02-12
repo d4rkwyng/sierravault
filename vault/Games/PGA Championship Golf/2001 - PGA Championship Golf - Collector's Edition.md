@@ -272,7 +272,7 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 **Patches & Updates**
 - [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html)[^ref-28]
 
-## Series Continuity
+## See Also
 
 PGA Championship Golf Collectors Edition served as the final entry in Sierra's PGA Championship Golf series, which itself evolved from the earlier Front Page Sports Golf franchise.[^ref-3] The series transitioned through several naming conventions—from Front Page Sports Golf to PGA Championship Golf following the PGA endorsement deal.
 

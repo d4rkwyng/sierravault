@@ -163,7 +163,7 @@ The game has been preserved and made playable on modern systems through the effo
 - [Internet Archive](https://archive.org/details/esdemo)
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) - Custom installer with DOSBox
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1994 - Metaltech - Battledrome]]
 - **Next:** [[1996 - Earthsiege 2]]

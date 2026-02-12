@@ -134,7 +134,7 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3)
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (standalone title)
 - **Next:** None (standalone title)

@@ -229,7 +229,7 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 **Manuals & Extras**
 - [Manual PDF](https://www.myabandonware.com/game/3-d-ultra-pinball-thrillride-3fj) - 718 KB download available through MyAbandonware[^ref-10]
 
-## Series Continuity
+## See Also
 
 3-D Ultra Pinball: Thrillride serves as the fifth and final entry in Sierra's 3-D Ultra Pinball franchise[^ref-2]. The series began with the original 3-D Ultra Pinball and continued through various themed iterations. Following the mixed reception of 3D Ultra NASCAR Pinball, Dynamix returned to a more fantastical setting with the amusement park theme, though reviewers noted it lacked the pure imagination of earlier horror-themed entries like Creep Night[^ref-2].
 

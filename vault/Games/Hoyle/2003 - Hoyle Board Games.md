@@ -249,7 +249,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 **Manuals & Extras**
 - Original Hoyle rulebook and strategy guide included with game[^ref-6]
 
-## Series Continuity
+## See Also
 
 Hoyle Board Games 2003 was part of Sierra's extensive Hoyle series, which produced annual editions of both card game and board game compilations throughout the 1990s and 2000s. The series established Sierra's presence in the casual gaming market and provided a reliable revenue stream alongside their more prominent adventure game titles.
 

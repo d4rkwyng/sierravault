@@ -246,7 +246,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 **Manuals & Extras**
 - [Game Manual](https://www.freegameempire.com/games/Shannara/manual)
 
-## Series Continuity
+## See Also
 
 Shannara represents a standalone game adaptation of Terry Brooks' fantasy novel series. While the game's story is set between *The Sword of Shannara* (1977) and *The Elfstones of Shannara* (1982) within the novels' chronology, no video game sequels were produced [^ref-2]. The Shannara franchise would later be adapted for television as *The Shannara Chronicles* (2016-2017), which aired on MTV and Spike before cancellation after two seasons [^ref-35].
 

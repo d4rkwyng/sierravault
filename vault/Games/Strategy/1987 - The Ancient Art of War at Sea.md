@@ -246,7 +246,7 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 **Manuals & Extras**
 - [Game Manual (Apple Version)](https://archive.org/details/The_Ancient_Art_Of_War_At_Sea_Manual) – 126-page manual PDF
 
-## Series Continuity
+## See Also
 
 The Ancient Art of War at Sea continues the strategic warfare series that began with the land-based original in 1984. The game applies the same real-time tactical principles established in the first game—derived from Sun Tzu's military philosophy—to the domain of naval warfare. Players familiar with the original will recognize the accessible interface, historical opponent selection, and powerful scenario editor, now adapted for ship-to-ship combat with wind mechanics and boarding actions.
 

@@ -267,7 +267,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 **Manuals & Extras**
 - [Lemon Amiga – Manual](https://www.lemonamiga.com/doc/rise-of-the-dragon/1350)
 
-## Series Continuity
+## See Also
 
 Rise of the Dragon was the first game to use the Dynamix Game Development System (DGDS), establishing a template for narrative-driven adventures that would be refined in subsequent titles.[^ref-12] While marketed with the subtitle "A Blade Hunter Mystery" on the Sega CD version—implying a potential series—no sequel was ever produced despite hints in the game suggesting further adventures.[^ref-23] The DGDS engine and design philosophy continued in Dynamix's other adventure titles, creating an informal trilogy of mature graphic adventures.
 

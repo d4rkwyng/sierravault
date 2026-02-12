@@ -250,7 +250,7 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 **Manuals & Extras**
 - [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=727)
 
-## Series Continuity
+## See Also
 
 Gobliins 2: The Prince Buffoon is the second game in the Gobliiins series, following the original Gobliiins (1991) which established the franchise's core mechanics of controlling multiple goblin characters with complementary abilities.[^ref-40] While the original game featured three goblins named Hooter, Dwayne, and BoBo (or Oups, Ignatius, and Asgard in European releases) dealing with King Angoulafre's magical madness, this sequel introduces completely new protagonists—Fingus and Winkle—on a fresh adventure to rescue the king's son.[^ref-43]
 

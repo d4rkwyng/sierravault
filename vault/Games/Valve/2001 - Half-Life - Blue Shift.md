@@ -271,7 +271,7 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 **Manuals & Extras**
 - [Official Manual (Scribd)](https://www.scribd.com/document/635504301/Blue-Shift-Manual)[^ref-51]
 
-## Series Continuity
+## See Also
 
 Half-Life: Blue Shift is the second expansion pack for the original Half-Life, chronologically taking place during the same 24-hour period as both Half-Life and Half-Life: Opposing Force[^ref-3]. The game's narrative intersects with the original at multiple points, most notably when players witness Gordon Freeman at the beginning and end of the campaign. Unlike Adrian Shephard from Opposing Force, whose fate remains ambiguous, Barney Calhoun successfully escapes Black Mesa and later reappears as a major character in Half-Life 2, where he helps Gordon Freeman escape City 17[^ref-15].
 

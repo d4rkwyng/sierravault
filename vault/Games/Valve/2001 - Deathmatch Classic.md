@@ -245,7 +245,7 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - [Steam Community Hub](https://steamcommunity.com/app/40) - Discussions, guides, and mods
 - [ModDB](https://www.moddb.com/games/deathmatch-classic) - Community modifications and downloads
 
-## Series Continuity
+## See Also
 
 Deathmatch Classic exists as a standalone multiplayer experience within the broader Half-Life universe, utilizing Half-Life's engine and character assets without direct narrative connections to the main series. The game serves as a parallel offering alongside other Half-Life multiplayer titles such as Half-Life Deathmatch and Counter-Strike.
 

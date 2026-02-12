@@ -274,7 +274,7 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 **Manuals & Extras**
 - [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt)
 
-## Series Continuity
+## See Also
 
 Outpost launched Sierra's strategy/survival franchise, establishing the premise of humanity escaping a doomed Earth to colonize hostile alien worlds. Despite its troubled reception, the game spawned a sequel that would receive significantly better reviews.
 

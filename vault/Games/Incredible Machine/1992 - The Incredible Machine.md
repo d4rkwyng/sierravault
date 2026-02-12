@@ -141,7 +141,7 @@ One preservation issue affects the digital versions: "The original release of th
 - [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-1mg)
 - [Internet Archive](https://archive.org/details/TheIncredibleMachine_1020)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None
 - **Next:** [[1993 - The Even More Incredible Machine]]

@@ -144,7 +144,7 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 - [Archive.org](https://archive.org/details/mother_go)
 - [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-mixed-mother-goose-deluxe-online/)
 
-## Series Continuity
+## See Also
 
 - **Previous:** Mixed-Up Mother Goose Enhanced (1990)
 - **Next:** Mixed-Up Fairy Tales (1991)

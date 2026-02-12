@@ -122,7 +122,7 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 - Not currently available on GOG or Steam
 
 
-## Series Continuity
+## See Also
 
 |  | **Aces Series** |  |
 |:---:|:---:|:---:|

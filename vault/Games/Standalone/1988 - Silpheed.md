@@ -254,7 +254,7 @@ The game's influence extended beyond its immediate commercial success. The tilte
 **Manuals & Extras**
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
 
-## Series Continuity
+## See Also
 
 Silpheed launched a franchise that would span multiple console generations. The original game established the core gameplay formula of vertical shooting with 3D graphics and emphasized high-quality audio presentation. Set in the year 3032, the game introduced the conflict with Xacalite and the discovery of alien technology that enabled humanity's expansion into space.[^ref-16][^ref-17]
 

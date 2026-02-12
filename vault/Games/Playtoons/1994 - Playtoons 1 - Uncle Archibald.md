@@ -193,7 +193,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 **Demos & Extras**
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66MB demo playable in DOSBox[^ref-14]
 
-## Series Continuity
+## See Also
 
 Playtoons 1: Featuring Uncle Archibald launched the Playtoons series of interactive comic books and creative tools for children. The series was developed by Coktel Vision and published by Sierra On-Line throughout 1995, with all games sharing the same construction tool system that allowed assets to be combined across titles.[^ref-4]
 

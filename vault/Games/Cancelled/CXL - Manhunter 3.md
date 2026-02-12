@@ -188,7 +188,7 @@ The intellectual property's current ownership by Activision has led to periodic 
 - [Manhunter Wiki](https://manhunter.fandom.com/wiki/Manhunter_3:_London)[^ref-1]
 - [Sierra Wiki](https://sierra.fandom.com/wiki/Manhunter)[^ref-7]
 
-## Series Continuity
+## See Also
 
 Manhunter 3: London was intended to conclude the story arc begun in Manhunter: New York (1988) and continued in Manhunter 2: San Francisco (1989).[^ref-1] The series follows an unnamed Manhunter who is initially pressed into service by the alien Orb Alliance, tracking down human resistance members while secretly working against the occupation. By the end of the second game, the protagonist is in pursuit of the serial killer Phil Cook, setting up the chase to London that would have formed the basis of the third game.[^ref-1]
 

@@ -193,7 +193,7 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 - [Internet Archive](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_98_1997) - DOS version preservation
 - [GMGames Community](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Active modding community[^ref-15]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Front Page Sports - Football Pro '97]]
 - **Next:** No direct sequel (final entry in series)

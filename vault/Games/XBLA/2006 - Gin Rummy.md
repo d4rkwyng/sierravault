@@ -116,7 +116,7 @@ Like many XBLA titles from this era, Gin Rummy may no longer be available for pu
 
 As an early XBLA title from 2006, availability may be affected by marketplace changes. Digital-only releases from this era face ongoing preservation challenges.
 
-## Series Continuity
+## See Also
 
 Gin Rummy was among the first titles in Sierra Online's XBLA initiative (2006-2009), which brought classic card and board games to Xbox 360.
 

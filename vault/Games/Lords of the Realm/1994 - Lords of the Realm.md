@@ -222,7 +222,7 @@ The emphasis on economic management and population welfare set Lords of the Real
 
 Today, Lords of the Realm is recognized as a foundational title that helped define the medieval strategy genre. Its influence can be seen in numerous subsequent games, from Stronghold to Medieval: Total War, all of which built upon the template established by David Lester and his team at Impressions Games.[^ref-31]
 
-## Series Continuity
+## See Also
 
 Lords of the Realm launched a franchise that would span a decade and multiple sequels. The original game established the core formula of turn-based resource management combined with real-time tactical combat that would define the series. The setting in medieval England during a succession crisis provided a compelling backdrop that subsequent games would expand upon with new time periods and locations.
 

@@ -294,7 +294,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 **Manuals & Extras**
 - [ModDB – Homeworld Manual](https://www.moddb.com/games/homeworld/downloads/homeworld-manual)
 
-## Series Continuity
+## See Also
 
 Homeworld stands as the foundational entry in Relic Entertainment's space opera franchise. The game established the Kushan/Hiigaran civilization, the ancient conflict with the Taiidan Empire, and the mysterious Hyperspace technology that drives the series' mythology. Characters and concepts introduced here—particularly Karan S'jet and the Mothership design philosophy—remain central to the franchise through Homeworld 3.
 

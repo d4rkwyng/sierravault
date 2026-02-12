@@ -133,7 +133,7 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 - [Internet Archive - Demo Version](https://archive.org/details/n4demo)[^ref-1]
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos)[^ref-20]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - NASCAR Racing 3]]
 - **Next:** NASCAR Racing 2002 Season

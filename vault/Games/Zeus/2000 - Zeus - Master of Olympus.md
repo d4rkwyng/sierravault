@@ -322,7 +322,7 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 - [Nexus Mods – Resolution Customizer](https://www.nexusmods.com/zeusmasterofolympus/mods/1) - Custom resolution support
 - [Sierra Help – Official Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/ZeusUpdates.html) - Enhancement Pack and updates
 
-## Series Continuity
+## See Also
 
 Zeus: Master of Olympus occupies a pivotal position in Impressions Games' City Building Series, which began with the original Caesar in 1992 and continued through multiple civilizations. Following Pharaoh's exploration of ancient Egypt (1999), Zeus transported the series to mythological Greece, introducing supernatural elements that expanded the gameplay possibilities beyond historical simulation. The success of this approach led directly to the Poseidon expansion (2001), which further embraced fantasy by allowing players to build the legendary civilization of Atlantis.
 

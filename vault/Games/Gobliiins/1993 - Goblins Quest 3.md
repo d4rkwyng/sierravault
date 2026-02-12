@@ -193,7 +193,7 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 **Manuals & Extras**
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=walkthrough)
 
-## Series Continuity
+## See Also
 
 Goblins Quest 3 serves as the concluding chapter of the original Gobliiins trilogy developed by Coktel Vision under Sierra's distribution. The series is characterized by its unique naming convention where the number of "i"s in the title corresponds to the number of playable goblin characters[^ref-1]. The first game featured three goblins (Gobliiins), the second featured two (Gobliins 2), and this final entry features one (Goblins). A significant narrative connection exists between Gobliins 2 and Goblins Quest 3: the protagonist Blount is revealed to be the same prince who was kidnapped in the previous game, providing unexpected continuity to what initially appeared to be standalone puzzle adventures[^ref-11].
 

@@ -187,7 +187,7 @@ The game's influence on casino game design persists in modern software, though c
 - [Internet Archive - Blackjack 1996](https://archive.org/details/Blackjack_201905) - Original version preservation
 - [Internet Archive - Blackjack 2000](https://archive.org/details/blackjack_202001/) - Later version archive
 
-## Series Continuity
+## See Also
 
 - **Related Series:** Part of the larger Hoyle card and casino game franchise
 - **Companion Titles:** [[1996 - Hoyle Casino]], [[1993 - Hoyle Classic Card Games]], [[2002 - Hoyle Casino Empire]]

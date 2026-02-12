@@ -186,7 +186,7 @@ This game has been included in the following collections:
 - [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) – in-depth review, analysis[^ref-30]
 - [MobyGames – SQ1 VGA Credits](https://www.mobygames.com/game/187/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) – full development team, Douglas Herring as director[^ref-31]
 
-## Series Continuity
+## See Also
 - Original Version: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter (AGI)]]
 - Next: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
 

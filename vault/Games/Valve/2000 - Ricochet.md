@@ -199,7 +199,7 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 - [My Abandonware](https://www.myabandonware.com/game/ricochet-d59) - Information and screenshots[^ref-5]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical fixes and compatibility information[^ref-15]
 
-## Series Continuity
+## See Also
 
 While Ricochet is technically part of the Half-Life family of GoldSrc games, it shares no narrative or gameplay connections with Half-Life or its expansions. The game stands alone as a unique multiplayer experience that happened to use the same engine and distribution channels as Valve's flagship shooter.
 

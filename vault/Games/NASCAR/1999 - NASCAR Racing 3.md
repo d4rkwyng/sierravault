@@ -113,7 +113,7 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-3-cow) - Full game download
 - [MyAbandonware Expansion](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) - Craftsman Truck Series Expansion Pack
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - NASCAR Racing 2]]
 - **Next:** [[2001 - NASCAR Racing 4]]

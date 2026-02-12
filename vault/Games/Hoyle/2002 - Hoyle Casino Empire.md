@@ -255,7 +255,7 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 **Manuals & Extras**
 - Manual included with retail package
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2002 was part of Sierra's annual Hoyle Casino franchise, which released updated versions yearly throughout the late 1990s and early 2000s[^ref-5]. The series began as a spin-off from Hoyle's Official Book of Games and established Sierra as a major publisher of casino simulation software[^ref-5].
 

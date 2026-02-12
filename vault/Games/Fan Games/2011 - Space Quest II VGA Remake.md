@@ -199,7 +199,7 @@ The continued support for the project, with updates still being released as rece
 
 The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
-## Series Continuity
+## See Also
 
 The Space Quest II VGA Remake is a faithful recreation of the second game in Sierra's Space Quest series. The original Space Quest II: Vohaul's Revenge was released in 1987, following the success of the original Space Quest: The Sarien Encounter (1986). The story continues Roger Wilco's adventures and introduces the villain Sludge Vohaul, who would remain an important antagonist throughout the series.[^ref-1]
 

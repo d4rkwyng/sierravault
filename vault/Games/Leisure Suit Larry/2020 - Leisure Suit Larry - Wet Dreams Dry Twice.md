@@ -124,7 +124,7 @@ The game also holds historical significance as Jan Rabson's final portrayal of L
 - [PlayStation Trophies Walkthrough](https://www.playstationtrophies.org/game/leisure-suit-larry-dreams-dont-die-twice/guide/)[^ref-39]
 - [TrueAchievements Guide](https://www.trueachievements.com/game/Leisure-Suit-Larry-Wet-Dreams-Dry-Twice/walkthrough)[^ref-52]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry: Wet Dreams Dry Twice is the direct sequel to Wet Dreams Don't Dry, continuing Larry Laffer's modern-day adventures. The game picks up immediately after the events of the first Wet Dreams game and is currently the most recent entry in the Leisure Suit Larry franchise.
 

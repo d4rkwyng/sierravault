@@ -211,7 +211,7 @@ In retrospect, the game represents an interesting moment in edutainment historyâ
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-lionel-traintown-1999) - Community voting for digital re-release
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
 
-## Series Continuity
+## See Also
 
 3D Ultra Lionel Traintown is part of Sierra's 3D Ultra series of casual games, which included titles across various genres including pinball, pool, and minigolf[^ref-3]. As a puzzle-focused entry, it represented a departure from the more arcade-oriented gameplay of other titles in the series, demonstrating Sierra Attractions' willingness to experiment with the formula.
 

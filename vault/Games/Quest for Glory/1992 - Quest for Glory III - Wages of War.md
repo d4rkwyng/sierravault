@@ -148,7 +148,7 @@ This game has been included in the following collections:
 - [GameFAQs – Quest for Glory III](https://gamefaqs.gamespot.com/pc/562690-quest-for-glory-iii-wages-of-war) – guides and FAQs[^ref-10]
 - [StrategyWiki – Quest for Glory III](https://strategywiki.org/wiki/Quest_for_Glory_III) – game guide[^ref-16]
 
-## Series Continuity
+## See Also
 - Previous: [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]]
 - Next: [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory: Shadows of Darkness]]
 

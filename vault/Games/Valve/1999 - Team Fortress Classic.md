@@ -245,7 +245,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 - [Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Team_Fortress_Classic) - Comprehensive documentation
 - [Speedrun.com](https://www.speedrun.com/tfc) - Speedrunning leaderboards
 
-## Series Continuity
+## See Also
 
 Team Fortress Classic represents the first commercially released game in the Team Fortress franchise, transitioning the beloved Quake mod into Valve's ecosystem. The game established the nine-class structure that would carry forward to Team Fortress 2, though the sequel would dramatically reimagine the visual style and expand the narrative universe.
 

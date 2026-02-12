@@ -228,7 +228,7 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 **Note:** The game is not currently available on digital storefronts such as GOG or Steam.[^ref-12]
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Ski Racing '99 was the second and final ski racing entry in the Front Page Sports series, following the original Front Page Sports: Ski Racing released in 1997. The series was primarily known for its football titles, which ran from 1993 through 1998 and established the franchise's reputation for deep sports simulation.
 

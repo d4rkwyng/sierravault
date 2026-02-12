@@ -114,7 +114,7 @@ The original Xbox 360 version may no longer be available for purchase on the Xbo
 
 The original Xbox 360 XBLA version may no longer be available due to marketplace changes. Digital-only releases from this era face preservation challenges.
 
-## Series Continuity
+## See Also
 
 Carcassonne was part of Sierra Online's XBLA initiative (2006-2009), which brought classic card and board games to Xbox 360.
 

@@ -219,7 +219,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 **Manuals & Extras**
 - Original instruction manual included with physical release
 
-## Series Continuity
+## See Also
 
 SWAT: Target Liberty is part of the long-running Police Quest/SWAT franchise that began with Sierra's Police Quest series in 1987.[^ref-8] While the PC SWAT games featured first-person tactical gameplay emphasizing procedure and realism, Target Liberty adapted the formula for portable play with its isometric perspective and streamlined controls.[^ref-12] The game's protagonist, Kurt Wolfe, previously appeared as "Boss" in SWAT 4, establishing narrative continuity with the PC predecessor.[^ref-12]
 

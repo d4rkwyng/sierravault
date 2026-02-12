@@ -230,7 +230,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 
 **Note:** The Tour Course Add On packages are particularly rare and may require specialized collector resources to locate[^ref-3].
 
-## Series Continuity
+## See Also
 
 Front Page Sports Golf Tour Course Add On expanded upon the base Front Page Sports: Golf, which was part of Sierra's broader Front Page Sports franchise that included titles covering football, baseball, and other sports[^ref-15]. The golf simulation stood as Headgate Studios' first contribution to the series following Sierra's 1996 acquisition of the studio[^ref-1][^ref-15].
 

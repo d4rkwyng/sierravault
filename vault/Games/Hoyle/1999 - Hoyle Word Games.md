@@ -192,7 +192,7 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 **Retailers / Resellers**
 - [Neverdie Media](https://www.neverdiemedia.com/products/hoyle-word-games-1999) – Retail CD copies[^ref-4]
 
-## Series Continuity
+## See Also
 
 Hoyle Word Games was released as part of Sierra's expansive Hoyle series of casual game compilations, which began with adaptations of classic card games and expanded to include board games, casino games, and eventually word puzzles.[^ref-1] The game shared the Hoyle brand's emphasis on digital adaptations of traditional parlor games with computer opponent interactions and multiplayer support.[^ref-2]
 

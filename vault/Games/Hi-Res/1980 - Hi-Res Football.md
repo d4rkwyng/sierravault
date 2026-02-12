@@ -201,7 +201,7 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 **Manuals & Extras**
 - [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
 
-## Series Continuity
+## See Also
 
 Hi-Res Football was released as part of On-Line Systems' "Hi-Res" branded product line, which also included Hi-Res Soccer[^ref-5]. These sports titles represented the company's attempt to diversify beyond their adventure game offerings. The Hi-Res branding would become more famously associated with the Hi-Res Adventure series, beginning with Mystery House in 1980, which established the graphical adventure game genre[^ref-8].
 

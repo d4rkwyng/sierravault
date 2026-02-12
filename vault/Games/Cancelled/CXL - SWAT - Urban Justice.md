@@ -198,7 +198,7 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 **Manuals & Extras**
 - 2002 Trailer (included on No One Lives Forever 2, Disc 2)[^ref-1]
 
-## Series Continuity
+## See Also
 
 SWAT: Urban Justice was planned as the direct sequel to SWAT 3: Close Quarters Battle, which had been released in 1999 and subsequently updated with Elite Edition and Tactical Game of the Year Edition versions.[^ref-12] The game would have continued the franchise's evolution from its adventure game roots through isometric strategy and into the first-person tactical shooter space.[^ref-7]
 

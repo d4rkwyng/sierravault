@@ -137,7 +137,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 - [MyAbandonware - Sierra Soccer World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix)
 - [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199)
 
-## Series Continuity
+## See Also
 
 - **Related:** Hi-Res Football (1980) - companion American football game
 - **Series:** Part of the broader Hi-Res game series including various adventure titles

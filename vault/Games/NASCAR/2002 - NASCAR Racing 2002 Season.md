@@ -133,7 +133,7 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2002-season-m0i) - Full game download with compatibility information
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[2001 - NASCAR Racing 4]] (2001)
 - **Next:** [[2003 - NASCAR Racing 2003 Season]] (2003)

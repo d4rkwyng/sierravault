@@ -249,7 +249,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 **Manuals & Extras**
 - [Internet Archive – NASCAR Racing 2 Manual](https://archive.org/details/NASCAR_Racing_2_-_Manual)[^ref-32]
 
-## Series Continuity
+## See Also
 
 NASCAR Racing 2 was the second entry in Papyrus's critically acclaimed NASCAR Racing series for PC. Building upon the foundation established by the original NASCAR Racing (1994), which sold over 700,000 copies, the sequel introduced a new game engine, 3D acceleration support, and the official 1996 NASCAR Winston Cup Series content[^ref-2]. The success of NASCAR Racing 2 paved the way for NASCAR Racing 3 (1999), which would feature free Internet racing with up to 42 drivers per race[^ref-29].
 

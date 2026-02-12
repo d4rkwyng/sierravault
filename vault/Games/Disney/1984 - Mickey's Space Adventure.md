@@ -232,7 +232,7 @@ The collaboration between Sierra and Disney established a template for education
 **Manuals & Extras**
 - [Manual Scans - Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual)
 
-## Series Continuity
+## See Also
 
 Mickey's Space Adventure was part of Sierra's early Disney educational software partnership, though it is not considered part of a formal numbered series.[^ref-1] The game preceded Sierra's collaboration with Disney on The Black Cauldron and was followed by other Disney character educational titles including Donald Duck's Playground. These games collectively represented Sierra's foray into children's educational entertainment using beloved Disney properties.
 

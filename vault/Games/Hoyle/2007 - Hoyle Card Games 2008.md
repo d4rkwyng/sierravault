@@ -213,7 +213,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 **Manuals & Extras**
 - Registration key for Mac printed on back cover of manual[^ref-1]
 
-## Series Continuity
+## See Also
 
 Hoyle Card Games 2008 exists within a long-running franchise that began with Sierra On-Line's Hoyle's Official Book of Games Volume 1 in 1989[^ref-11]. The series transitioned through various publishers over the decades, with Encore Software maintaining the brand through annual releases during the 2000s. The 2008 edition followed Hoyle Card Games 2007 and preceded Hoyle Card Games 2009, maintaining the established pattern of yearly updates that characterized the franchise's later years[^ref-12].
 

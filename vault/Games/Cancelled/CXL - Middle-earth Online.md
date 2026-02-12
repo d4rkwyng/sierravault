@@ -179,7 +179,7 @@ Middle Earth Online was never released and is not available for purchase.
 - [The Lord of the Rings Online on Steam](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) - Free to Play[^ref-12]
 - [The Lord of the Rings Online Official Site](https://www.lotro.com/)[^ref-15]
 
-## Series Continuity
+## See Also
 
 Middle Earth Online was intended to be Sierra's entry into the Tolkien gaming space, building on the rich history of Middle-earth video games that began in 1982 with Melbourne House's text adventure based on The Hobbit.[^ref-16] The project ultimately evolved into The Lord of the Rings Online, which launched in 2007 and continues to receive updates and expansions to this day.[^ref-2]
 

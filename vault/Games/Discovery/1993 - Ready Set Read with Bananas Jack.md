@@ -195,7 +195,7 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 **Manuals & Extras**
 - No digital manuals located in research
 
-## Series Continuity
+## See Also
 
 Ready, Set, Read with Bananas & Jack was part of Sierra's Discovery Series and the Bananas & Jack franchise of educational titles[^ref-1][^ref-3]. The game served as a sequel to Alphabet Blocks, building on that title's introduction of the Bananas and Jack characters[^ref-1]. Both games were part of Bright Star's broader Talking Tutor methodology for educational software[^ref-3].
 

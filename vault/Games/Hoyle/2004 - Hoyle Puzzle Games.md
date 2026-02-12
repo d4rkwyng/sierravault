@@ -215,7 +215,7 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 **Official Website**
 - http://www.hoylegames.com (historical)[^ref-10]
 
-## Series Continuity
+## See Also
 
 Hoyle Puzzle Games 2004 continues the long-running Hoyle game series, which Sierra had been publishing since the late 1980s with titles covering cards, board games, casino games, and puzzles[^ref-6]. The 2004 edition built upon Hoyle Puzzle Games 2003 with new games and refinements[^ref-4].
 

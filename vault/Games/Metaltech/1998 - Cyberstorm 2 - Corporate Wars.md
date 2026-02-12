@@ -139,7 +139,7 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 - [Old Games Download](https://oldgamesdownload.com/cyberstorm-2-corporate-wars/)
 - [Internet Archive](https://archive.org/search?query=cyberstorm+2+corporate+wars) – Preservation archives
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - MissionForce - Cyberstorm]]
 - **Next:** No direct sequel produced

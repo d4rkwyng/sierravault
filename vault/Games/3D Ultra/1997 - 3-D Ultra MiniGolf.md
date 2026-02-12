@@ -200,7 +200,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 **Sequel Available On:**
 - [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-8]
 
-## Series Continuity
+## See Also
 
 3D Ultra Minigolf launched what would become a multi-game franchise spanning from 1997 to 2010. As the first entry in the series, it established the core formula of combining traditional miniature golf elements with fantasy-themed courses and hidden secrets. The game's multiplayer focus and variety of play modes became hallmarks that carried through to subsequent releases.
 

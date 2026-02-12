@@ -277,7 +277,7 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 - [Sierra Help – SWAT Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SWATUpdates.html)
 - [ModDB – Version 2.0 Patch](https://www.moddb.com/games/swat-3/downloads/swat-3-us-retail-v20-patch-tactical-goty)
 
-## Series Continuity
+## See Also
 
 SWAT 3: Close Quarters Battle is the seventh installment in the Police Quest franchise and the third game to bear the SWAT name.[^ref-7] It represents a dramatic departure from its predecessors, transforming from the isometric real-time strategy gameplay of SWAT 2 into a fully-realized first-person tactical simulation. The game was the first in the series to completely drop the "Police Quest" name from its title, though it maintains thematic continuity with the franchise's emphasis on proper police procedure.[^ref-40]
 

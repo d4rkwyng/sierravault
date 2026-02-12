@@ -110,7 +110,7 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [MyAbandonware](https://www.myabandonware.com/game/the-black-cauldron-7l)
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (standalone game)
 - **Next:** None (standalone game)

@@ -213,7 +213,7 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 **Manuals & Extras**
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – Complete game guide
 
-## Series Continuity
+## See Also
 
 Hunter Hunted serves as a prequel to the Metaltech: Earthsiege series, establishing the backstory of the Masters' invasion of Earth[^ref-1]. The game exists within a shared universe that explores humanity's struggle against technologically superior alien invaders. While Hunter Hunted focuses on gladiatorial combat during the occupation period, the Earthsiege games deal with later stages of the conflict involving mech warfare.
 

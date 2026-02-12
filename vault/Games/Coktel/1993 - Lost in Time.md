@@ -243,7 +243,7 @@ The game also holds historical significance as one of the earlier adventure game
 - [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Lost_in_Time) – Supported since version 0.12.0[^ref-9]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
-## Series Continuity
+## See Also
 
 Lost in Time is technically a standalone title, though its protagonist Doralice Prunelier previously appeared in Coktel Vision's adult-oriented adventure game Fascination[^ref-18]. The connection between the two games was not indicated in Lost in Time's packaging or documentation, leaving many players unaware of the shared continuity[^ref-18]. The games share the same protagonist but feature very different tones and subject matter.
 

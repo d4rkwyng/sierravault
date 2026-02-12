@@ -215,7 +215,7 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 - [Khinsider – MSX2 OPLL Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/fire-hawk-thexder-the-second-contact-msx2-opll)
 - [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll)
 
-## Series Continuity
+## See Also
 
 Fire Hawk: Thexder - The Second Contact continues the story of the original Thexder, introducing an upgraded transforming robot designed to address a new extraterrestrial threat. The game maintains continuity with its predecessor through shared gameplay mechanics—the laser weapon, shield system, and transformation ability—while establishing Fire Hawk as a technological evolution of the original Thexder unit.[^ref-5] The climactic boss battle against a giant Thexder creates a direct narrative and visual connection between the two games.[^ref-5]
 

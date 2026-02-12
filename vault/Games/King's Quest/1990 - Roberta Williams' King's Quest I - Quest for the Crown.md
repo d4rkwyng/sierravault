@@ -203,7 +203,7 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 **Manuals & Extras**
 - [Sierra Help: KQ1 SCI Manual](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – PDF manual and walkthrough[^ref-16]
 
-## Series Continuity
+## See Also
 
 **Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984) – Original AGI version
 

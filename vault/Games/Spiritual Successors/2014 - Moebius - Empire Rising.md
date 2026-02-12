@@ -133,7 +133,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 **Soundtrack**
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (series debut)
 - **Next:** None (planned sequels unreleased)

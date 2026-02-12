@@ -216,7 +216,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 **ScummVM Compatibility**
 - Playable through ScummVM using the Gob engine[^ref-20]
 
-## Series Continuity
+## See Also
 
 *The Prophecy* exists as a spiritual successor to *Legend of Djel*, an earlier Coktel Vision title from the late 1980s, though it tells a completely standalone story.[^ref-7] The game shares its engine and design philosophy with Coktel Vision's famous *Gobliiins* series, using similar simplified interfaces and puzzle-focused gameplay mechanics.[^ref-5] While not an official entry in the *Gobliiins* franchise, it was marketed and developed alongside that series and appeals to the same audience.
 

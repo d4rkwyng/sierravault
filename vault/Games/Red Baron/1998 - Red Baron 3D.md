@@ -110,7 +110,7 @@ An amusing piece of trivia emerged years after release when someone successfully
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/SierraRedBaron3D)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1997 - Red Baron II]]
 - **Original:** [[1990 - Red Baron]]

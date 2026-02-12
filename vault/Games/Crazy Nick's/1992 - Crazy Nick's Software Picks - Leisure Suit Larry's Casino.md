@@ -239,7 +239,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 **Manuals & Extras**
 - No dedicated manual documentation has been archived for this budget title
 
-## Series Continuity
+## See Also
 
 Crazy Nick's Software Picks: Leisure Suit Larry's Casino exists as a spin-off compilation rather than a numbered entry in the Leisure Suit Larry adventure game series. It was released between the mainline entries and drew content from Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA (1991) and Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work (1991).[^ref-1]
 

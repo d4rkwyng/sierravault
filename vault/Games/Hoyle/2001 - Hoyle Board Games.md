@@ -231,7 +231,7 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 - [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – 523.9MB ISO format[^ref-15]
 - [Macintosh Repository](https://www.macintoshrepository.org/5852-hoyle-board-games-2001) – Mac version preservation[^ref-7]
 
-## Series Continuity
+## See Also
 
 Hoyle Board Games 2001 is the fifth entry in Sierra's Hoyle Board Games sub-series, which specialized in digital adaptations of classic tabletop games. The series evolved throughout the late 1990s and early 2000s, with each edition typically adding a few new games while maintaining the core collection of classics. This installment added Master Match and Rummy Squares to the lineup[^ref-3], distinguishing it from the 1998 edition which contained 14 games[^ref-14].
 

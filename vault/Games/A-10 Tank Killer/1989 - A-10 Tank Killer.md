@@ -210,7 +210,7 @@ While the Amiga version disappointed some critics who found it technically infer
 **Manuals & Extras**
 - [Internet Archive – A-10 Tank Killer Manual (PDF)](https://archive.org/details/A-10_Tank_Killer_-_Manual)[^ref-17]
 
-## Series Continuity
+## See Also
 
 A-10 Tank Killer launched Dynamix's modern jet combat simulation line, distinct from their World War I-era Red Baron series. The original game established the franchise's focus on the unique capabilities of the A-10 Thunderbolt II—its durability, devastating cannon armament, and ground attack specialization. Version 1.5's addition of Gulf War content demonstrated the flexibility of the simulation framework and kept the product relevant during a period of heightened public interest in military aviation following Operation Desert Storm.
 

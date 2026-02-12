@@ -189,7 +189,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 **Manuals & Extras**
 - Physical copies occasionally available through secondary markets[^ref-4]
 
-## Series Continuity
+## See Also
 
 Hoyle Puzzle Games 2002 is part of the extensive Hoyle Series that began in 1989 and continued through 2016[^ref-5][^ref-6][^ref-11]. The game specifically belongs to the "Hoyle Word Games / Puzzle Games" sub-series within the broader Hoyle brand[^ref-7]. The collection marked Sierra's effort to expand the traditionally card and board game-focused Hoyle line into dedicated puzzle game territory, with the format proving successful enough to warrant a follow-up release the following year.
 

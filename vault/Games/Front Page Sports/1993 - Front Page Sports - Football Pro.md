@@ -133,7 +133,7 @@ The series' influence can be seen in modern football management games, and its e
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k)
 - [Internet Archive Patches](https://archive.org/details/FBP9611)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1992 - Front Page Sports Football 92]]
 - **Next:** [[1994 - Front Page Sports - Football Pro '95]]

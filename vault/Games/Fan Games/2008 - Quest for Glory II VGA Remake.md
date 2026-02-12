@@ -183,7 +183,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Quest_for_Glory_II_VGA_Remake) - Detailed game information[^ref-10]
 - [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - Official FAQ and feature list[^ref-6]
 
-## Series Continuity
+## See Also
 
 Quest for Glory II VGA Remake faithfully recreates the second entry in Sierra's beloved Quest for Glory series, bridging the Hero's journey from the Germanic-inspired Spielburg Valley of the first game to the Arabian Nights atmosphere of Shapeir. The game introduces players to iconic series characters including Rakeesh the Liontaur Paladin and Uhura the warrior woman, who would become recurring figures throughout the series[^ref-4]. The events in Shapeir and Raseir set the stage for the Hero's continued adventures across diverse cultural settings.
 

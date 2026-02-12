@@ -262,7 +262,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 **Manuals & Extras**
 - [Internet Archive – Draxon's Revenge Manual](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US)
 
-## Series Continuity
+## See Also
 
 Stellar 7 launched a franchise spanning multiple games and platforms over a decade. The series follows humanity's ongoing conflict with Gir Draxon and the Arcturan Empire, with the villain's escape at the end of the first game establishing continuity for subsequent entries. The 3Space engine developed for Stellar 7 became the technological foundation for the entire series and many other Dynamix titles.[^ref-16]
 

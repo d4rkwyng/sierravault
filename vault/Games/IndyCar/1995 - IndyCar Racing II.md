@@ -144,7 +144,7 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 - [Internet Archive](https://archive.org/details/msdos_IndyCar_Racing_II_1996)
 - [Classic Reload](https://classicreload.com/indycar-racing-ii.html)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1993 - IndyCar Racing]]
 - **Next:** Series concluded; later renamed to CART Racing due to licensing changes

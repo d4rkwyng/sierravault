@@ -192,7 +192,7 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 **Manuals & Extras**
 - [Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
 
-## Series Continuity
+## See Also
 
 Stellar-Fire is part of the Stellar 7 series, a franchise of 3D sci-fi tank/vehicle simulators developed primarily by Dynamix in which players defend the human race from the evil Draxon empire[^ref-12]. The series began with Stellar 7 in 1983, evolving through multiple entries with various style and gameplay changes[^ref-4]. Stellar-Fire maintains the core conflict against the Draxon but introduces new elements like the hovermorph vehicle transformation mechanic[^ref-2].
 

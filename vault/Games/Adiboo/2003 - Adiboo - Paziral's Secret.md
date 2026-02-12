@@ -222,7 +222,7 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 - [eBay UK](https://www.ebay.co.uk/itm/276838934105) – Sealed copies occasionally available[^ref-10]
 - [GEX.co.uk](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – Trade-in marketplace[^ref-13]
 
-## Series Continuity
+## See Also
 
 Adiboo & Paziral's Secret exists within the broader Adibou multimedia franchise, which originated as educational software for children in France during the 1990s[^ref-8]. The series primarily focused on learning activities covering subjects like reading, mathematics, and science, making this action-adventure title a notable departure from the franchise's educational roots. The game represents Coktel Vision's attempt to expand the beloved Adibou character into entertainment gaming, targeting the same young demographic through different means.
 

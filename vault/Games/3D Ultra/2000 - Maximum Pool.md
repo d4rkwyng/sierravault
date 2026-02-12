@@ -207,7 +207,7 @@ Modern players can run the Windows version through compatibility modes, though s
 - [Macintosh Repository](https://www.macintoshrepository.org/) - Mac version
 - [Community Server Patch](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Restores online play
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - 3-D Ultra Cool Pool]] (1999)
 - **Next:** No direct sequel

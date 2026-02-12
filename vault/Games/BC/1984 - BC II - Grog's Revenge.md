@@ -262,7 +262,7 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 **MSX Patched Version**
 - [MSX FX Blog – Fixed ROM](https://msxfx.blogspot.com/2019/02/nuevo-parcheo-bc-ii-grogs-revenge.html)
 
-## Series Continuity
+## See Also
 
 B.C. II: Grog's Revenge is the second and final game in the B.C. video game series based on Johnny Hart's newspaper comic strip[^ref-3]. While the first game featured the main character B.C. in a side-scrolling chase to rescue his love interest Cute Chick, this sequel shifts focus to Thor's philosophical quest for the Meaning of Life[^ref-4]. Both games share the distinctive cartoon aesthetic and stone unicycle mechanics that defined the series[^ref-5].
 

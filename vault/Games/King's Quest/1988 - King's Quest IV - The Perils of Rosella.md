@@ -257,7 +257,7 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [Sierra Gamers - Hint Book](https://www.sierragamers.com/kings-quest-4/) (Scans and resources)[^ref-25]
 - [Sierra Help Pages](https://sierrahelp.com/Games/KQ/KQ4.html) (Patches and technical support)[^ref-36]
 
-## Series Continuity
+## See Also
 
 King's Quest IV directly continues from [[1986 - King's Quest III - To Heir Is Human|King's Quest III]], opening with an extended reprise of that game's closing scene showing Graham, Valanice, Alexander, and Rosella reunited in Castle Daventry.[^ref-14]
 

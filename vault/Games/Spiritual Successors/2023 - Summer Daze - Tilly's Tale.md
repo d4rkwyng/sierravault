@@ -242,7 +242,7 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 
 **Price:** $20.00 USD[^ref-10]
 
-## Series Continuity
+## See Also
 
 *Summer Daze: Tilly's Tale* serves as both a prequel and spiritual successor to *Hero-U: Rogue to Redemption* (2018), taking place in the same universe at Hero University[^ref-5][^ref-6]. The game connects to the broader Quest for Glory universe through Tilly's background as the adopted daughter of the Healer of Spielburg[^ref-3].
 

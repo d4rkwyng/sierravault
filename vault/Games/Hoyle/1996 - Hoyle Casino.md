@@ -248,7 +248,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 - [Internet Archive – Hoyle Casino 2004 Manual](https://archive.org/stream/hoyle-casino-2004/HoyleCasino2004_Manual_djvu.txt)
 - [Internet Archive – Game Boy Color Manual](https://archive.org/details/Hoyle_Casino_GBC_Manual_cbz)
 
-## Series Continuity
+## See Also
 
 Hoyle Casino was a spin-off of Sierra's Hoyle's Official Book of Games series, which began in 1989 with card game compilations. While the main Hoyle series focused on traditional card games and board games, Hoyle Casino specifically targeted casino gambling simulations. The 2002 release of Hoyle Casino Empire represented a significant departure, transforming the formula from gambling simulation to business management strategy.
 

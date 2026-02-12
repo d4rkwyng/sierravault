@@ -215,7 +215,7 @@ Community preservation efforts maintain access to the game through abandonware a
 - [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z)
 - [Sierra Help - Patches](https://sierrahelp.com/) - Official patches for versions 1.0 and 1.2
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Front Page Sports - Trophy Bass 2]] (1996)
 - **Next:** [[2000 - Field & Stream - Trophy Bass 4]] (2000)

@@ -195,7 +195,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 **Manuals & Extras**
 - [Lemon Amiga Manual Documentation](https://www.lemonamiga.com/games/docs.php?id=114)
 
-## Series Continuity
+## See Also
 
 Asterix: Operation Getafix was part of Coktel Vision's series of Asterix game adaptations, though it stands as a relatively standalone title within the broader franchise of Asterix video games. The game's plot draws from elements of the 1989 animated film "Astérix et le coup du menhir," which combined story elements from two comic albums[^ref-13]. While numerous Asterix games have been produced by various developers over the years, Operation Getafix represents Coktel Vision's particular approach to the license, emphasizing adventure game mechanics alongside action platforming[^ref-3].
 

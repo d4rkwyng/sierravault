@@ -222,7 +222,7 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 - [FilePlanet Archive](https://www.fileplanet.com/archive/p-71316/Front-Page-Sports-Trophy-Rivers)
 - [CNET Download](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html)
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Trophy Rivers was part of Sierra's Front Page Sports franchise, which encompassed multiple sports simulation titles. The fishing simulation branch of the franchise began with Front Page Sports: Trophy Bass in 1995, followed by Trophy Bass 2 in 1996[^ref-7]. Trophy Rivers represented an expansion of the fishing concept from bass fishing to fly-fishing for salmon, steelhead, and trout species[^ref-4].
 

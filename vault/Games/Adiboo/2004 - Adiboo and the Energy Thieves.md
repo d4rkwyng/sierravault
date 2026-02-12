@@ -178,7 +178,7 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 **Download / Preservation**
 - [Old Games Download](https://oldgamesdownload.com/adiboo-and-the-energy-thieves/) - Abandonware archive[^ref-13]
 
-## Series Continuity
+## See Also
 
 Adiboo and the Energy Thieves represents one of the later entries in the broader Adiboo franchise, which had its origins in educational software developed by Coktel Vision[^ref-12]. The character Adiboo had appeared in numerous educational titles throughout the 1990s before this transition to 3D action-adventure gameplay[^ref-6].
 

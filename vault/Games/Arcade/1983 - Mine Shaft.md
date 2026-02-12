@@ -174,7 +174,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
 - [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
 
-## Series Continuity
+## See Also
 
 Mine Shaft is a standalone title with no direct sequels or prequels. The game exists as an independent entry in Sierra's early arcade catalog, separate from the adventure game series that would come to define the company's identity.
 

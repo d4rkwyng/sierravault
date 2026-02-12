@@ -331,7 +331,7 @@ This game has been included in[^ref-20][^ref-21]:
 - [Sierra Help – KQ6](https://sierrahelp.com/Games/KingsQuest/KQ6.html) – Patches, saves, technical support
 - [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – Technical fixes
 
-## Series Continuity
+## See Also
 
 King's Quest VI: Heir Today, Gone Tomorrow is the sixth entry in the King's Quest series. The story continues from [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]], with Alexander pursuing Princess Cassima whom he met during the previous adventure.
 

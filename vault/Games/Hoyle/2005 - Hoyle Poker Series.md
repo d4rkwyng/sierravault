@@ -202,7 +202,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 - [Amazon UK – Hoyle Poker Series](https://www.amazon.co.uk/Hoyle-Poker-Series-PC-CD/dp/B000FSDZTA)[^ref-3]
 - [Amazon UK – Encore Version](https://www.amazon.co.uk/Encore-33036-Hoyle-Poker-Series/dp/B00094OT2M)[^ref-6]
 
-## Series Continuity
+## See Also
 
 Hoyle Poker Series is part of the extensive Hoyle gaming franchise that began in 1989 and continued through 2016. The series evolved from simple card game compilations to sophisticated casino simulations with 3D graphics and online multiplayer capabilities. The franchise included dedicated poker titles alongside broader casino game collections.
 

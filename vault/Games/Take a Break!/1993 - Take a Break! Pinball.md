@@ -209,7 +209,7 @@ The performance issues that plagued the game highlighted the challenges develope
 **Patches and Updates**
 - [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – Official patches including KQUEST.DLL and DIB.DRV fixes[^ref-8]
 
-## Series Continuity
+## See Also
 
 Take a Break! Pinball was the second and final entry in Sierra's Take a Break! casual game series[^ref-5]. The series was designed to provide Windows users with quick, accessible gaming experiences that could be enjoyed during short breaks from work or other activities[^ref-2]. Despite the modest critical reception of the pinball entry, the series represented an early attempt by Sierra and Dynamix to diversify beyond their core adventure game offerings into the emerging casual gaming market.
 

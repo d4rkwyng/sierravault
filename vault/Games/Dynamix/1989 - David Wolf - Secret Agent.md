@@ -192,7 +192,7 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 - [MyAbandonware](https://www.myabandonware.com/game/david-wolf-secret-agent-mp)
 - [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) - Browser playable
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (first in series)
 - **Next:** No direct sequels produced

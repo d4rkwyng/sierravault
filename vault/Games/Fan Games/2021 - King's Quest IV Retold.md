@@ -223,7 +223,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 **Manuals & Extras**
 - Original game manual required for copy protection[^ref-11]
 
-## Series Continuity
+## See Also
 
 King's Quest IV Retold is a fan remake of the fourth installment in Sierra On-Line's legendary King's Quest adventure game series. The story directly continues from the events of *King's Quest III: To Heir Is Human*, where Prince Alexander (Gwydion) reunites with his family in Daventry[^ref-3]. The game introduces Princess Rosella as the playable protagonist, marking the first time a woman took the lead role in the main King's Quest series[^ref-6].
 

@@ -297,7 +297,7 @@ The game's transition from the Police Quest adventure game format to real-time t
 **Manuals & Extras**
 - [Sierra Chest – Music Files](https://sierrachest.com/index.php?a=games&id=70&fld=music)
 
-## Series Continuity
+## See Also
 
 Police Quest: SWAT 2 represents the final game in the Police Quest lineage to bear that name, transitioning the franchise from its adventure game origins to tactical action. The game maintains connections to earlier entries through the inclusion of Sonny Bonds as a playable SWAT officer—the protagonist of Police Quest I-III who had been absent from the series since 1991.[^ref-9] The involvement of Daryl Gates continued the controversial association that began with Police Quest: Open Season (1993).
 

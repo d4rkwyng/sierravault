@@ -218,7 +218,7 @@ Modern critics acknowledge the Manhunter games as important historical artifacts
 
 Note: The Manhunter games are not currently available on GOG or Steam. The series rights are held by Activision.[^ref-15][^ref-21]
 
-## Series Continuity
+## See Also
 
 Manhunter 2: San Francisco picks up immediately where its predecessor left off, continuing the unnamed protagonist's rebellion against the Orb Alliance.[^ref-2] The game maintains all the core gameplay mechanics and dystopian setting established in the first game while expanding the scope to a new city. The cliffhanger ending was designed to lead directly into a planned Manhunter 3: London, which was never produced despite fan interest and developer intent.[^ref-4]
 

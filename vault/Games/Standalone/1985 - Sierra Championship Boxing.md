@@ -221,7 +221,7 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [Macintosh Repository – Mac Version](https://www.macintoshrepository.org/3494-sierra-championship-boxing)
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
-## Series Continuity
+## See Also
 
 Sierra Championship Boxing was a standalone sports title and not part of any ongoing series. It was one of several third-party games published by Sierra On-Line during the company's expansion in the mid-1980s. The game has no direct sequels, though the boxing simulation genre it helped pioneer continued to evolve through titles from other developers.
 

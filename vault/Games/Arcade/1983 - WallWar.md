@@ -201,7 +201,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 **Manuals & Extras**
 - No digital manual currently available
 
-## Series Continuity
+## See Also
 
 Wallwar is a standalone title and not part of any game series[^ref-1][^ref-11]. It represents Peter Oliphant's first commercial game release, followed by Mr. Cool, which was also published by Sierra On-Line and similarly failed to achieve commercial success[^ref-3]. The game is documented in multiple game databases and preservation archives[^ref-10][^ref-12].
 

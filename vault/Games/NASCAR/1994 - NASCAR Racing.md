@@ -259,7 +259,7 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 **Manuals & Extras**
 - [NASCAR Racing Manual (Internet Archive)](https://archive.org/details/NASCAR_RACING_PCDOS)
 
-## Series Continuity
+## See Also
 
 NASCAR Racing launched a franchise that would span nearly a decade and multiple sequels. The series established Papyrus as the definitive developer of NASCAR simulations, a position they maintained until losing the NASCAR license to Electronic Arts in 2004.[^ref-16] Each subsequent entry refined the formula with improved graphics, expanded track rosters, and enhanced physics modeling, culminating in the beloved NASCAR Racing 2003 Season.
 

@@ -93,7 +93,7 @@ The game's educational value has made it a lasting presence in classrooms worldw
 In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40].
 
 
-## Series Continuity
+## See Also
 
 |  | **Incredible Machine Series** |  |
 |:---:|:---:|:---:|

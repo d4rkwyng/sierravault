@@ -214,7 +214,7 @@ From a historical perspective, WizType demonstrates how early educational softwa
 **Manuals & Extras**
 - Documentation may be available through Sierra Gamers fan site[^ref-7]
 
-## Series Continuity
+## See Also
 
 WizType was one of two educational titles released by Sierra using the Wizard of Id license in 1984.[^ref-6] While not a series in the traditional sense, the games shared the same licensed property and educational focus.
 

@@ -187,7 +187,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 **Emulation Support**
 - ScummVM provides modern compatibility through Gob engine emulation[^ref-7]
 
-## Series Continuity
+## See Also
 
 Playtoons 2: The Case of the Counterfeit Collaborator is the second entry in Coktel Vision's Playtoons series, which began in 1994 and continued through at least five numbered entries[^ref-9]. The series was designed with interconnectivity in mind, with each title adding to the collective library of creative assets available in the construction kit mode[^ref-4].
 

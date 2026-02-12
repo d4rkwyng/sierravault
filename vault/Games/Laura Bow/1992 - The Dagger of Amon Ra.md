@@ -304,7 +304,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 **Manuals & Extras**
 - [Game Manual (Archive.org)](https://archive.org/stream/Laura_Bow_Dagger_Of_Amon_Ra_Manual/Laura_Bow_Dagger_Of_Amon_Ra_Manual_djvu.txt)
 
-## Series Continuity
+## See Also
 
 *The Dagger of Amon Ra* is the second and final game in the Laura Bow Mysteries series. Taking place one year after *The Colonel's Bequest*, it follows Laura's transition from college student to professional journalist. While the first game established Laura's detective instincts through a murder mystery in a Louisiana bayou mansion, the sequel expands her world to New York City and the international intrigue of Egyptology.
 

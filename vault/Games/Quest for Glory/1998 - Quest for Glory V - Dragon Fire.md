@@ -174,7 +174,7 @@ This game has been included in the following collections:
 - [StrategyWiki – Quest for Glory V](https://strategywiki.org/wiki/Quest_for_Glory_V) – game guide[^ref-15]
 - [Open Library – Quest for Glory V Strategy Guide](https://openlibrary.org/works/OL2015945W) – hint book by Rick Barba[^ref-16]
 
-## Series Continuity
+## See Also
 - Previous: [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory: Shadows of Darkness]]
 - Final game in the series
 

@@ -259,7 +259,7 @@ Critically, the game's insistence on maintaining combat mechanics that many foun
 
 The game has a small but dedicated speedrunning community. The current Any% world record for Water Mage is 41 minutes 17 seconds, held by davidtki[^ref-33]. Earth Mage Any% record stands at 54 minutes 49 seconds by legostevey[^ref-33]. The runner notes that "sub-40 might be possible but it's going to be a heck of a lot of effort away"[^ref-33].
 
-## Series Continuity
+## See Also
 
 Mage's Initiation was designed as the first entry in a potential saga of sequels, with the character export feature allowing players to transfer their D'arc to future installments[^ref-23]. The post-credits sting explicitly sets up continuation of the story[^ref-23]. However, the developers have indicated that sequels are contingent on securing additional funding or finding a publisher for financial security[^ref-12].
 

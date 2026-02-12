@@ -171,7 +171,7 @@ This game is not available on GOG[^ref-7].
 - [Adventure Gamers – King's Quest (2015)](https://adventuregamers.com/games/kings-quest-2015) – reviews[^ref-6]
 - [ScummVM Wiki – King's Quest](https://wiki.scummvm.org/index.php/AGIWiki/King%27s_Quest) – series information[^ref-8]
 
-## Series Continuity
+## See Also
 
 King's Quest (2015) is an episodic reboot of the King's Quest series developed by The Odd Gentlemen. While it serves as both a soft reboot and a loving tribute to the classic series, the developers confirmed that [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] remains canon to this game's timeline.
 

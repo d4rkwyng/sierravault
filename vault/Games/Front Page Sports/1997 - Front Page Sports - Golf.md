@@ -262,7 +262,7 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 **Manuals & Extras**
 - Instruction manual included with game installation[^ref-4]
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Golf was Sierra and Headgate Studios' first entry into golf simulation, building on the established Front Page Sports brand that had previously covered football and baseball.[^ref-4] The game shared the Front Page Sports name recognition while introducing completely new gameplay systems designed specifically for golf simulation.
 

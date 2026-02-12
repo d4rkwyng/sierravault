@@ -322,7 +322,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 - [Internet Archive – Soundtrack](https://archive.org/details/VariousTheOperativeNoOneLivesForever)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – Technical fixes and compatibility information
 
-## Series Continuity
+## See Also
 
 The Operative: No One Lives Forever launched a trilogy of games following the battle between UNITY and H.A.R.M. The original game established the setting, characters, and tone that would define the series. The post-credits revelation that Volkov survived directly set up the sequel's events, where the drunk character glimpsed with him would rise to lead H.A.R.M.[^ref-17]
 

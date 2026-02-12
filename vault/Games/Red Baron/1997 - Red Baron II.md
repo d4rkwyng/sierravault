@@ -234,7 +234,7 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 **Patches**
 - [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html)
 
-## Series Continuity
+## See Also
 
 Red Baron II is the third entry in Dynamix's World War I flight simulation series, following the original Red Baron (1990) and Red Baron: Mission Builder (1992). The series was part of Dynamix's broader "Great Warplanes" flight simulator lineup that helped establish the studio's reputation in the simulation genre[^ref-23].
 

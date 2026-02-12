@@ -212,7 +212,7 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 - ISBN: 0784922586[^ref-5]
 - UPC/Product ID: 020626716345[^ref-13]
 
-## Series Continuity
+## See Also
 
 Hoyle Card Games 2003 was part of Sierra Entertainment's annual Hoyle releases during the early 2000s period. The game belonged to the broader Hoyle franchise that Sierra had been publishing since the late 1980s, encompassing both card games and board games collections[^ref-7]. The 2003 lineup also included Hoyle Board Games 2003 and Hoyle Casino 2003 as companion products[^ref-4][^ref-13][^ref-20][^ref-21].
 

@@ -203,7 +203,7 @@ The game's educational focus on reading, spelling, and logic skills[^ref-2] posi
 
 The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
 
-## Series Continuity
+## See Also
 
 Hoyle Word Games 2001 is part of the extensive Hoyle series of game compilations published by Sierra. The Hoyle brand encompassed various card game, board game, casino game, and word game collections throughout the 1990s and 2000s. The word games sub-series focused specifically on vocabulary and spelling challenges, distinguishing itself from the card and casino-focused Hoyle titles.
 

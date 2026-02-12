@@ -222,7 +222,7 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 **Manuals & Extras**
 - Official rulebook included with game[^ref-1]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2006 occupies a middle position in the long-running Hoyle Casino series, which began in 1996 and continued through at least 2016[^ref-4]. The series established an annual release pattern, with each new edition adding features and updating game content to reflect contemporary casino gaming trends[^ref-4]. The 2006 edition notably emphasized Texas Hold'em, capitalizing on the poker boom that was sweeping American popular culture during this period[^ref-1].
 

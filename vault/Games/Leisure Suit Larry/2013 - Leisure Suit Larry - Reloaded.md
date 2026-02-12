@@ -119,7 +119,7 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 **Download / Preservation**
 - No abandonware sites currently host this 2013 remake, as it remains under copyright protection[^ref-3]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry: Reloaded is an HD remake of the original 1987 game, created by series creator Al Lowe in collaboration with Replay Games. The project was funded through Kickstarter, raising over $655,000. This marked Al Lowe's return to the franchise after his departure from Sierra and the poorly-received Larry Lovage games.
 

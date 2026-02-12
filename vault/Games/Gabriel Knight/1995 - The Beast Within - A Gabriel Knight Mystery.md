@@ -183,7 +183,7 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 - [MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu) - Abandonware preservation site[^ref-91]
 - [Internet Archive](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) - Historical software preservation[^ref-92]
 
-## Series Continuity
+## See Also
 
 The Beast Within: A Gabriel Knight Mystery continues the story from Sins of the Fathers, with Gabriel now living in his family's ancestral castle, Schloss Ritter, in Bavaria. The game explores the Schattenjäger legacy more deeply and introduces lycanthrope mythology to the series. Grace Nakimura takes a larger role, becoming playable for portions of the game.
 

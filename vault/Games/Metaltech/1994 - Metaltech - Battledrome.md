@@ -202,7 +202,7 @@ The Starsiege community has maintained active preservation efforts, creating det
 
 The game's MIDI soundtrack was extracted and converted to standard format by community member "Locutus," who noted "I sort of liked some of the music from this old DOS game, so I converted the MIDI tunes from Battledrome to the widely known MIDI format"[^ref-20].
 
-### Series Continuity
+### See Also
 
 Metaltech: Battledrome represents an early entry in what would become an extensive game universe. The Metaltech series spawned the Earthsiege games, which in turn led to Cyberstorm and eventually the highly influential Tribes series[^ref-10]. While Battledrome focused specifically on arena combat, it shared the universe and many mechanical designs with its companion titles.
 
@@ -231,7 +231,7 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 **LAN Play Instructions**
 - [Starsiege Forums – Modern LAN Setup Guide](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions)[^ref-19]
 
-## Series Continuity
+## See Also
 
 Metaltech: Battledrome was released as part of Dynamix's expansion into the mech combat genre, alongside its companion title Metaltech: Earthsiege. While Earthsiege offered a more traditional single-player campaign experience, Battledrome focused exclusively on arena-based competitive combat. Both games share the same universe, HERC designs, and core mechanics, but serve different gameplay preferences[^ref-4].
 

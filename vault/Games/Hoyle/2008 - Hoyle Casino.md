@@ -179,7 +179,7 @@ The game's significance lies primarily in its role as a bridge product—connect
 
 The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2008 is part of the long-running Hoyle casino game franchise that began with Sierra Entertainment in the 1990s. The series transitioned from Sierra to Encore in 2005, with Encore continuing development through 2016.[^ref-5] The game includes the traditional Hoyle features such as the face creator, multiple player profiles, and the official rulebook that had become series staples.[^ref-6] The franchise expanded beyond casino games to include Hoyle Card Games, Hoyle Board Games, and the related Hoyle Casino Empire business simulation.[^ref-5]
 

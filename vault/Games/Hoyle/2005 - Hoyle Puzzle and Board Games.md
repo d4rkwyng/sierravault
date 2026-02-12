@@ -255,7 +255,7 @@ The community's expressed desire for a modern re-release with online multiplayer
 
 The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 
-## Series Continuity
+## See Also
 
 Hoyle Puzzle & Board Games 2005 continues Sierra's long-running Hoyle series, which began in 1989 with Hoyle's Book of Games. The compilation format bundling puzzle and board games together represents the mid-2000s approach to the franchise, providing comprehensive value for casual gaming enthusiasts. The series would continue under various publishers following Sierra's restructuring, with titles like Hoyle Card Games 2007 and Hoyle Board Games 2008 carrying the brand forward[^ref-13].
 

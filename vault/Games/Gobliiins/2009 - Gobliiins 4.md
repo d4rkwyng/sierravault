@@ -216,7 +216,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 - [Sierra Help - Patches Page](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html)[^ref-29]
 - [Patches Scrolls - Gobliiins 4](https://www.patches-scrolls.com/gobliiins4.php)[^ref-29]
 
-## Series Continuity
+## See Also
 
 Gobliiins 4 marks the franchise's return after a fifteen-year absence, bridging the classic [[Coktel Vision]]/Sierra era with independent development. The game deliberately returns to the three-goblin formula of the original, acknowledging that fans preferred the cooperative puzzle-solving over the single-character approach of Goblins Quest 3. While the earlier games were developed by Coktel Vision and published by [[Sierra On-Line]], this installment represents Pierre Gilhodes reclaiming his creation through independent production.
 

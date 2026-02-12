@@ -209,7 +209,7 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 - [Macintosh Repository](https://www.macintoshrepository.org/19794-hoyle-casino-2003) – Mac version
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-casino-hzg) – Windows version
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2003 is part of Sierra's long-running Hoyle gaming franchise, which encompasses card games, board games, and casino simulations[^ref-3]. The series traces its origins to Hoyle's Official Book of Games and has produced numerous annual casino editions[^ref-3].
 

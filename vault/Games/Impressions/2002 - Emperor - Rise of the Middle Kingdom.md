@@ -248,7 +248,7 @@ The game also holds significance as the final 2D entry in the series and the las
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Emperor:_Rise_of_the_Middle_Kingdom) - Technical fixes and compatibility information
 - [Nexus Mods](https://www.nexusmods.com/emperorriseofthemiddlekingdom) - Resolution customizer and mods
 
-## Series Continuity
+## See Also
 
 Emperor: Rise of the Middle Kingdom is the sixth and final title in Sierra's City Building Series, following the progression from ancient Rome through Egypt and Greece to China. While each game stands independently with its own historical setting, they share core mechanics including the walker-based service system, housing evolution tiers, monument construction, and economic management. Emperor represents the most refined implementation of the 2D engine before the series transitioned to 3D graphics with Caesar IV in 2006.
 

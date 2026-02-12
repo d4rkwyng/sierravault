@@ -238,7 +238,7 @@ This game has been included in the following collections:
 - [Guys From Andromeda – SQ5 Screenshot Walkthrough](http://guysfromandromeda.com/wp-content/uploads/2024/09/SQ5-Pics.zip) – visual walkthrough (ZIP)
 - [Adventure Gamers – Space Quest V](https://adventuregamers.com/games/space-quest-v-the-next-mutation) – review, walkthrough[^ref-31]
 
-## Series Continuity
+## See Also
 - Previous: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
 - Next: [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]]
 

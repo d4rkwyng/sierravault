@@ -245,7 +245,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 - [Sierra Help – Manual Text](http://sierrahelp.com/Documents/Manuals/Air_Bucks_-_Manual.txt)[^ref-3]
 - [Scribd – Game Manual](https://www.scribd.com/document/120481106/Air-Bucks)[^ref-25]
 
-## Series Continuity
+## See Also
 
 Air Bucks was the inaugural title in Impressions Games' "Bucks" series of business simulations. The game established the core formula of accessible economic simulation that would be applied to different industries in subsequent titles. The series concept was later expanded into outer space with Space Bucks in 1996, which transplanted the trading and transportation management mechanics to an interstellar setting with alien races, though that title was considerably less well-received[^ref-9].
 

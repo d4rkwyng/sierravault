@@ -249,7 +249,7 @@ The game is preserved through abandonware archives, though it faces compatibilit
 **Soundtrack**
 - [XeenMusic Bandcamp](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – Archival soundtrack recording[^ref-18]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1995 - Trophy Bass]]
 - **Expansion:** Front Page Sports: Trophy Bass 2 - Northern Lakes (1997)[^ref-19]

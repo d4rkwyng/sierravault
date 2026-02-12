@@ -259,7 +259,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 - [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – Later version[^ref-17]
 - [Classic Reload](https://classicreload.com/hoyle-solitaire.html) – Browser playable[^ref-23]
 
-## Series Continuity
+## See Also
 
 Hoyle Solitaire (1996) exists within Sierra's extensive Hoyle franchise, which produced card and board game collections from 1989 through the 2010s. The 1996 release specifically updated and expanded upon the content from *Hoyle Official Book of Games: Volume 2* (1990), which had introduced solitaire games to the series.[^ref-1]
 

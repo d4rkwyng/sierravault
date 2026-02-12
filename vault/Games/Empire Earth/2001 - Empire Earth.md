@@ -278,7 +278,7 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 **Manuals & Extras**
 - [Empire Earth Manual (Internet Archive)](https://archive.org/details/Empire_Earth_-_Manual_-_PC)
 
-## Series Continuity
+## See Also
 
 Empire Earth launched a franchise that would span multiple sequels and expansion packs over the following years. The original game established the core formula of epoch-spanning historical RTS gameplay that would define the series, though subsequent entries would meet with increasingly mixed reception.
 

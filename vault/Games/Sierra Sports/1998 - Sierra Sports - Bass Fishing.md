@@ -138,7 +138,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [MyAbandonware - Field & Stream Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c)
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - Field & Stream - Trophy Bass 3D]]
 - **Next:** Trophy Bass 5 (Unreleased)

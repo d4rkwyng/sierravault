@@ -130,7 +130,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 - [MyAbandonware](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q)
 - [Internet Archive](https://archive.org/details/missionforce-cyberstorm)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Earthsiege 2]]
 - **Next:** [[1998 - Cyberstorm 2 - Corporate Wars]]

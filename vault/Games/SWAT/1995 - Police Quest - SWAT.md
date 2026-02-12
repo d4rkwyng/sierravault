@@ -255,7 +255,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 - [Police Quest: SWAT Manual (Archive.org)](https://archive.org/details/Police_Quest_SWAT_-_Manual)
 - [German Manual (Archive.org)](https://archive.org/details/swat_20230322)
 
-## Series Continuity
+## See Also
 
 Police Quest: SWAT represents a pivotal transition in the Police Quest franchise, shifting from adventure gaming to tactical simulation. While technically the fifth mainline Police Quest title, it abandoned the Sonny Bonds character and Lytton setting that defined the original trilogy, instead placing players in a realistic Los Angeles SWAT unit.[^ref-23] The game established the template for the SWAT spin-off series, which would continue through SWAT 4 in 2005.[^ref-10]
 

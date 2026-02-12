@@ -215,7 +215,7 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 - [Internet Archive](https://archive.org/details/msdos_Nova_9_-_Return_of_Gir_Draxon_1991)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1990 - Stellar 7]]
 - **Next:** Stellar 7: Draxon's Revenge (1993) (3DO console)

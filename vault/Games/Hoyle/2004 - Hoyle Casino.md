@@ -170,7 +170,7 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 - [GameFAQs – Hoyle Casino 2004](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004)
 - [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2004 was part of the long-running Hoyle's Official Book of Games series, which began with card and board game compilations in 1989 and expanded to include casino simulations starting in 1996.[^ref-15] The game represented one of Sierra Entertainment's final contributions to the franchise before development transitioned to Encore, Inc.[^ref-5]
 

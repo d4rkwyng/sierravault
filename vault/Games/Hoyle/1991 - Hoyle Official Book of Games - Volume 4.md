@@ -176,7 +176,7 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]] (1991)
 - **Next:** [[1996 - Hoyle Official Book of Games - Volume 5]] (1993)

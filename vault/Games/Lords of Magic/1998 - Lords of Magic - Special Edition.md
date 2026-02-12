@@ -298,7 +298,7 @@ The game's ongoing availability on modern digital platforms and the active moddi
 - [Unofficial 3.02 Patch](https://impz.proboards.com/thread/1769/release-lom-se-unofficial-patch)
 - [ModDB – Update Mod](https://www.moddb.com/mods/lords-of-magic-special-edition-update-mod)
 
-## Series Continuity
+## See Also
 
 Lords of Magic: Special Edition exists within Sierra's broader strategy game portfolio through Impressions Games, which also developed the Lords of the Realm series. The game builds on the strategy template established by Lords of the Realm II while incorporating fantasy RPG elements.[^ref-39] The eight faiths and their distinct characteristics, combined with the procedurally-varied gameplay, ensured that "the game ties together all of the rich diverse elements that make up classic high fantasy and weaves from them a wonderful, different story every time you play."[^ref-6]
 

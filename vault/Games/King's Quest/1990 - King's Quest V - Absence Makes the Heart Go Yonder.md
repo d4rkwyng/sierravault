@@ -275,7 +275,7 @@ On the other hand, the game also exemplifies design philosophies that would even
 - [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
 - [Internet Archive – Alternate Manual](https://archive.org/details/vgmuseum_sierra_kq5-alt-manual)
 
-## Series Continuity
+## See Also
 
 King's Quest V follows the events of King's Quest IV: The Perils of Rosella, which focused on Graham's daughter Rosella saving her father from death. The fifth installment returns the series' focus to King Graham himself, who had been the protagonist of the first two games.[^ref-26] The game introduces Princess Cassima, who would become the love interest of Prince Alexander and central to the plot of King's Quest VI.[^ref-13]
 

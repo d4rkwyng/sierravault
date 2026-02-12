@@ -201,7 +201,7 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 
 **Note:** Red Baron Arcade is not currently available on Steam or GOG digital storefronts[^ref-15].
 
-## Series Continuity
+## See Also
 
 Red Baron Arcade is part of the Red Baron franchise that originated with the celebrated 1990 flight simulator developed by Dynamix. While positioned as an arcade reimagining rather than a direct sequel, the game drew inspiration from both the original PC title and the 1980/1981 Atari arcade game that first brought WWI aerial combat to video game form[^ref-3][^ref-12]. The franchise's legacy continues through fan appreciation of the original Dynamix titles rather than this arcade spinoff.
 

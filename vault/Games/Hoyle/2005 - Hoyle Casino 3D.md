@@ -225,7 +225,7 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 - Physical copies occasionally available through secondary markets[^ref-1]
 - MSU Libraries holds a copy in their Rovi Corporation video game collection[^ref-14]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 3D was released during a period of transition for the Hoyle Casino franchise, following Encore's acquisition of the brand from Sierra Entertainment[^ref-7]. The game represented an experimental 3D approach that would later influence the series direction, with "the 2009 version of to 2011 it went 3D with Card and Casino"[^ref-7].
 

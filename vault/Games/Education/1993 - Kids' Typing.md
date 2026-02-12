@@ -200,7 +200,7 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 **Manuals & Extras**
 - [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Walkthrough and game information[^ref-4]
 
-## Series Continuity
+## See Also
 
 Kid's Typing was part of Sierra On-Line's Talking Tutor educational software series, which utilized voice technology to create interactive learning experiences for children.[^ref-4] The series included multiple titles covering different educational subjects including reading, spelling, and mathematics.
 

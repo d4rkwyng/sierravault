@@ -155,7 +155,7 @@ This game has been included in the following collections:
 - [GameFAQs – Quest for Glory II](https://gamefaqs.gamespot.com/pc/562671-quest-for-glory-ii-trial-by-fire) – guides and FAQs[^ref-7]
 - [StrategyWiki – Quest for Glory II](https://strategywiki.org/wiki/Quest_for_Glory_II) – game guide[^ref-17]
 
-## Series Continuity
+## See Also
 - Previous: [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]]
 - Next: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - Fan Remake: Quest for Glory II VGA Remake ([[AGD Interactive]], 2008)

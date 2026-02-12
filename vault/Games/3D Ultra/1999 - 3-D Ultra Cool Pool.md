@@ -196,7 +196,7 @@ The game's combination of realistic physics with fantastical game modes anticipa
 **Patches & Fixes**
 - Server fix patch available at [Sierra Chest](https://sierrachest.com/index.php?a=games&id=112&fld=walkthrough) for online play restoration[^ref-2]
 
-## Series Continuity
+## See Also
 
 3-D Ultra Cool Pool was the ninth game in Sierra's 3-D Ultra series of casual arcade games[^ref-3]. The series spanned multiple genres including pinball, miniature golf, NASCAR racing, and other sports and arcade titles. All games in the series shared a philosophy of prioritizing entertainment and accessibility over simulation depth[^ref-4].
 

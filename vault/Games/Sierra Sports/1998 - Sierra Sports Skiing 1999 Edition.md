@@ -189,7 +189,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 **Manuals & Extras**
 - No digital manual copies currently documented
 
-## Series Continuity
+## See Also
 
 Sierra Sports Skiing 1999 Edition served as the direct sequel to Front Page Sports: Ski Racing, which Dynamix had released in October 1997[^ref-2]. Both games were published under the Sierra Sports label and shared similar gameplay features, course locations, and the involvement of Picabo Street as a celebrity instructor[^ref-4].
 

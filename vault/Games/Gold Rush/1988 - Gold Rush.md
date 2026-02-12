@@ -141,7 +141,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 - [MyAbandonware](https://www.myabandonware.com/game/gold-rush-g8)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gold+Rush!&gid=324)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None
 - **Next:** [[2017 - Gold Rush 2]] (2017) - Spiritual sequel by Sunlight Games

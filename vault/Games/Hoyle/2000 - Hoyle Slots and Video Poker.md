@@ -214,7 +214,7 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 
 The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 
-## Series Continuity
+## See Also
 
 Hoyle Slots and Video Poker 2000 was released as part of a substantial Hoyle game lineup in 2000, which also included Hoyle Board Games 2001, Hoyle Crosswords, Hoyle Kids Games, and Hoyle Mahjong Tiles[^ref-8]. The title focused specifically on slot machine and video poker gameplay, differentiating it from the broader Hoyle Casino products that included table games and other casino offerings.
 

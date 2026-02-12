@@ -192,7 +192,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 **Manuals & Extras**
 - Original packaging and materials are held in private collections[^ref-6]
 
-## Series Continuity
+## See Also
 
 Hi-Res Cribbage was part of On-Line Systems' "Hi-Res Series" of games that utilized the Apple II's high-resolution graphics capabilities.[^ref-7][^ref-8] This series helped establish the company's technical reputation in the early personal computer market.
 

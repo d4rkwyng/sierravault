@@ -224,7 +224,7 @@ As a standalone product, *Cluck Yegger* succeeded in what it set out to do: prov
 **Platform Compatibility Notes:**
 The macOS version is not compatible with macOS 10.15 Catalina or later versions[^ref-3]. Linux users may experience technical issues with camera displays and movement controls[^ref-19].
 
-## Series Continuity
+## See Also
 
 *Cluck Yegger* exists as part of the broader *SpaceVenture* universe created by the Two Guys from Andromeda. The character of Cluck Yegger appears in the main *SpaceVenture* game, where Mike Schiff reprises his voice role[^ref-23]. The game shares thematic DNA with the *Space Quest* series, featuring the same brand of science fiction parody and absurdist humor that characterized those classic Sierra adventures.
 

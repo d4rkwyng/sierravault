@@ -217,7 +217,7 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 **Manuals & Extras**
 - [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
 
-## Series Continuity
+## See Also
 
 Fast Attack: High Tech Submarine Warfare was developed as a standalone title without direct sequels or prequels. It existed within Sierra's broader simulation portfolio alongside other military-themed titles, though it remained distinct from series like Aces of the Pacific or Red Baron.
 

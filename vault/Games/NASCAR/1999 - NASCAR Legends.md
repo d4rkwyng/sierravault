@@ -229,7 +229,7 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 - **Complete-in-Box Value:** ~$29.18
 - **New/Sealed Value:** ~$50.00
 
-## Series Continuity
+## See Also
 
 NASCAR Legends sits within Papyrus Design Group's broader NASCAR Racing franchise, serving as a historical spin-off from the main simulation series.[^ref-11] While the mainline NASCAR Racing games focused on contemporary seasons with current drivers and regulations, NASCAR Legends carved out its own niche by looking backward to the sport's formative years.[^ref-3][^ref-5]
 

@@ -263,7 +263,7 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 **Patches**
 - [Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) - Official bug fix patch[^ref-17]
 
-## Series Continuity
+## See Also
 
 Poseidon: Master of Atlantis is part of Impressions Games' broader city-building series, which began with the Caesar games set in ancient Rome before expanding to other historical and mythological settings. The expansion builds directly upon Zeus: Master of Olympus, sharing its engine, core mechanics, and Greek mythological setting while adding the Atlantean civilization as a distinct new playable culture.
 

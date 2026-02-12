@@ -274,7 +274,7 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 - [Internet Archive – Manual](https://archive.org/details/Gunman_Chronicles_Manual) – Original game manual[^ref-8]
 - [Steam Conversion Patch](http://www.nextdimension.org/gunmantosteam/) – Community patch for Steam compatibility[^ref-43]
 
-## Series Continuity
+## See Also
 
 Gunman Chronicles is a standalone title with no direct sequels or prequels. The game shares its engine and publisher with the Half-Life series but exists in an entirely separate fictional universe.
 

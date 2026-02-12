@@ -180,7 +180,7 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 **Manuals & Extras**
 - Manual included with eXoWin3x collection download[^ref-4]
 
-## Series Continuity
+## See Also
 
 Playtoons 4: The Mandarine Prince is the fourth entry in the Playtoons series developed by Coktel Vision. The series was designed with interconnectivity in mind, allowing assets from multiple installed games to be combined in the animation editor.[^ref-3] This unique approach meant that players who collected multiple Playtoons titles could enjoy an increasingly rich creative palette for their animated stories.
 

@@ -175,7 +175,7 @@ The technical issues plaguing the release—from 64-bit compatibility problems t
 
 The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]
 
-## Series Continuity
+## See Also
 
 Hoyle Puzzle and Board Games 2011 continues the long tradition of Hoyle-branded game compilations that began with Sierra On-Line in 1989. The original series progressed through multiple volumes: Volume 1 (1989) focused on card games, Volume 2 (1990) featured 28 solitaire variations, and Volume 3 (1991) introduced board games using a VGA engine[^ref-7]. After Sierra's dissolution, Encore Software acquired the rights and continued producing annual Hoyle compilations.
 

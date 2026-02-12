@@ -186,7 +186,7 @@ The game also stands as a testament to the challenges of software preservation, 
 - [MyAbandonware – Spelling Jungle](https://www.myabandonware.com/game/spelling-jungle-fac)[^ref-19]
 - [ClassicReload – Windows 3.x Version](https://classicreload.com/win3x-spelling-jungle-yobis-basic-spelling-tricks.html)[^ref-11]
 
-## Series Continuity
+## See Also
 
 Spelling Jungle was the first entry in Bright Star Technology's spelling-focused educational game series. The game established the core mechanics of combining word-spelling with puzzle navigation that would continue in its sequel. Yobi the wizard served as the connecting character between titles, providing guidance and encouragement to young players learning to spell.
 

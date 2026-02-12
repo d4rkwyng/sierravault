@@ -213,7 +213,7 @@ The game also illustrates the challenges faced by flight simulation developers i
 **Related Resources**
 - [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) - Patches for Red Baron franchise[^ref-15]
 
-## Series Continuity
+## See Also
 
 Curse You! Red Baron occupies an unusual position in the Red Baron series as an arcade-oriented spin-off from the main simulation line. The franchise began with the original Red Baron and expanded through Mission Builder editions and numbered sequels before this 1999 entry attempted to reach a broader audience through simplified gameplay.
 

@@ -181,7 +181,7 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 **Manuals & Extras**
 - Built-in 65-page crossword dictionary included with software[^ref-6]
 
-## Series Continuity
+## See Also
 
 Take a Break! Crosswords was the inaugural title in Sierra and Dynamix's Take a Break! series, designed to provide casual entertainment experiences for the emerging Windows platform[^ref-7]. The series was conceived as a collection of bite-sized games that office workers could enjoy during breaks from their regular work duties[^ref-6][^ref-7].
 

@@ -135,7 +135,7 @@ Modern digital preservation efforts have made the game available through various
 - [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-iii-passionate-patti-in-pursuit-of-the-pulsating-pectorals-27s) - User rating 4.44/5[^ref-22]
 - [Internet Archive](https://archive.org/details/Leisure_Suit_Larry_3_-_Manual) - Manual preservation[^ref-25]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals continues Larry's adventures after his marriage to Kalalau (from LSL2) ends in divorce. The game notably introduces Passionate Patti as a playable character—the first time in the series players control someone other than Larry. The meta-ending has Larry and Patti literally falling into Sierra On-Line's offices, setting up an unusual transition to LSL5 (LSL4 was famously "lost").
 

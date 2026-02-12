@@ -116,7 +116,7 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 - [Official Game Website](https://www.desertsofkharak.com/)
 - [Homeworld Universe](https://www.homeworlduniverse.com/)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[2003 - Homeworld 2]] (chronologically later, but released earlier)
 - **Next:** [[2024 - Homeworld 3]] (in development)

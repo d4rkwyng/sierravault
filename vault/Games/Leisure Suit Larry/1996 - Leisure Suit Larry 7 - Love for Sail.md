@@ -298,7 +298,7 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html)[^ref-27]
 - [Al Lowe's Easter Eggs Guide](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html)[^ref-13]
 
-## Series Continuity
+## See Also
 
 *Leisure Suit Larry: Love for Sail!* concludes the adventures of Larry Laffer as written by his creator Al Lowe. The game opens with Larry escaping from Shamara Payne, whom he won over at the end of *Leisure Suit Larry 6: Shape Up or Slip Out!*, continuing the series tradition of Larry's romantic conquests never lasting.[^ref-10] The alien abduction ending was intended to set up future adventures, but the series was placed on hiatus after this entry.
 

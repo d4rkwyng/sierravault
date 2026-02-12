@@ -227,7 +227,7 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Mokalus of Borg Walkthrough](https://www.wiw.org/~jess/tlchint.html)
 - [Walkthrough King](https://www.walkthroughking.com/text/spacequestlostchapter.aspx)
 
-## Series Continuity
+## See Also
 
 Space Quest: The Lost Chapter serves as an unofficial bridge between two official Sierra releases. The game opens with a seamless transition from the ending of Space Quest II, where Roger Wilco escapes Vohaul's asteroid in a cryogenic sleep pod[^ref-8]. The narrative concludes by positioning Roger exactly where he needs to be for the opening of Space Quest III, where he is discovered floating in space by a garbage freighter[^ref-8].
 

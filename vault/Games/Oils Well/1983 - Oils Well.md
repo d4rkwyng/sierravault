@@ -225,7 +225,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 **Soundtracks**
 - [Oil's Well MT-32 Soundtrack – Bandcamp](https://xeenmusic.bandcamp.com/album/oils-well-soundtrack-mt-32)
 
-## Series Continuity
+## See Also
 
 Oil's Well is a standalone title without direct sequels, though the 1990 MS-DOS remake can be considered a successor to the 1983 original. The game's influence extended to inspiring several clones and similar titles throughout the late 1980s and early 1990s, including *Pipeline Run* (1990) and *Oilmania* (1991).[^ref-1]
 

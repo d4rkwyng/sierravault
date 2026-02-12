@@ -143,7 +143,7 @@ The game's satirical take on the American Dream resonates differently in differe
 - [MyAbandonware](https://www.myabandonware.com/game/jones-in-the-fast-lane-1xb)
 - [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None
 - **Next:** None (standalone title)

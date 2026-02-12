@@ -203,7 +203,7 @@ The game's approach—offering both consumption and creation modes—anticipated
 - [MyAbandonware](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8)
 - [Macintosh Repository](https://www.macintoshrepository.org/4813-playtoons-3-the-secret-of-the-castle)
 
-## Series Continuity
+## See Also
 
 Playtoons 3: Secret of the Castle is the third entry in the five-game Playtoons series developed by Coktel Vision and published by Sierra On-Line.[^ref-5] The series began with Playtoons 1: Uncle Archibald in 1994 and concluded with Playtoons 5: The Stone of Wakan in 1995.[^ref-5] All games in the series share cross-compatibility, allowing assets from any installed title to be used in the construction kit of others.[^ref-3][^ref-6]
 

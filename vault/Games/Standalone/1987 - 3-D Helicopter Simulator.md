@@ -205,7 +205,7 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 **Manuals & Extras**
 - Documentation available through Sierra Gamers archive[^ref-10]
 
-## Series Continuity
+## See Also
 
 3-D Helicopter Simulator was a standalone release and was not part of any ongoing series[^ref-1]. Sierra did not produce direct sequels to this title, instead focusing their simulation efforts on other projects. The game represents a one-time experiment in the helicopter simulation genre for the company, which returned its primary focus to adventure games like the King's Quest, Space Quest, and Police Quest series.
 

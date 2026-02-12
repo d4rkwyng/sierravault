@@ -145,7 +145,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws)
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (standalone game)
 - **Next:** None (sequel cancelled due to poor sales)

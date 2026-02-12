@@ -192,7 +192,7 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 - [Macintosh Repository](https://www.macintoshrepository.org/3569-after-dark-games) - Mac-specific preservation[^ref-21]
 - [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo and bundling information[^ref-29]
 
-## Series Continuity
+## See Also
 
 - **Previous:** More After Dark (1994)
 - **Related:** After Dark (1992) (original screensaver software)

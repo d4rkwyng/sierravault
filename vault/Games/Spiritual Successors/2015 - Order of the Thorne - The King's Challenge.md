@@ -244,7 +244,7 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 - ~~Steam~~ – Delisted (no longer available)
 - [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (First in series)
 - **Next:** Order of the Thorne: Fortress of Fire (In Development)

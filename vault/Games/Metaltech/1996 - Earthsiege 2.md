@@ -130,7 +130,7 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 - [Internet Archive](https://archive.org/details/es2demo) - Demo version
 - Hi-Rez Studios - Official freeware release (2015)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1994 - Metaltech - Earthsiege]] (1994)
 - **Next:** [[1999 - Starsiege]] (1999)

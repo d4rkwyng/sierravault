@@ -234,7 +234,7 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 **Manuals & Extras**
 - No digital manual distributions documented
 
-## Series Continuity
+## See Also
 
 The Hoyle Official Card Games Collection 2015 represents a later-era revival of the franchise originally created by Sierra On-Line in 1989. The original series developed by Sierra included multiple volumes covering card games, solitaire variations, and board games, utilizing the SCI engine that powered many Sierra adventure games[^ref-1].
 

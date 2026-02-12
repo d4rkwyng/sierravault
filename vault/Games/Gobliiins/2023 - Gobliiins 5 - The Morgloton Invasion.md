@@ -201,7 +201,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 **Community Resources**
 - [ScummVM](https://www.scummvm.org/) - For cross-platform compatibility
 
-## Series Continuity
+## See Also
 
 Gobliiins 5: The Morgloton Invasion represents a direct return to the roots of the franchise, deliberately invoking the first game by reuniting the original trio of Oups, Asgard, and Ignatius[^ref-1]. The Gobliiins series began in 1991 with the original Gobliiins, developed by Coktel Vision and published by Sierra, followed by Gobliins 2: The Prince Buffoon (1992) and Goblins Quest 3 (1993)[^ref-3]. After a 16-year hiatus, Gobliiins 4 arrived in 2009 with mixed reception due to its shift to 3D graphics[^ref-13].
 

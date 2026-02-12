@@ -219,7 +219,7 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 **Manuals & Extras**
 - [Sierra Chest - Manual PDF](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) - User manual and quick reference[^ref-9]
 
-## Series Continuity
+## See Also
 
 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition belongs to both the broader 3-D Ultra series and the specific 3-D Ultra Radio Control Racers sub-series.[^ref-9] The 3-D Ultra line from Dynamix and Sierra encompassed a variety of casual gaming experiences including Cool Pool, TrainTown, and various other titles released during the late 1990s.[^ref-6] The Traxxas Edition represented an enhanced update to the original Radio Control Racers rather than a true sequel, adding significant content including eight additional tracks and new game modes while refining the core experience.[^ref-3]
 

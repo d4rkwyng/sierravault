@@ -222,7 +222,7 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 - [Sierra Help – USM98 Patch 1.0.1.1](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – Fixes 8th season crash[^ref-17]
 - [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – Savegame editor and patcher[^ref-18]
 
-## Series Continuity
+## See Also
 
 Ultimate Soccer Manager 98-99 serves as the final chapter in the USM series that began in 1995. The game built upon the foundation established by its predecessors while adding new leagues and updated player rosters. The series evolved from its DOS and Amiga origins to become a Windows-native application, expanding its feature set with each iteration.[^ref-2][^ref-4]
 

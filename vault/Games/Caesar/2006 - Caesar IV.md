@@ -268,7 +268,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 **Patches**
 - [Patch 1.0 to 1.2 (English)](https://www.moddb.com/games/caesar-iv/downloads/caesar-iv-v12-english-patch) - ModDB
 
-## Series Continuity
+## See Also
 
 Caesar IV is the fourth main entry in the Caesar series, continuing the city-building gameplay established by the original Caesar in 1992 and refined through Caesar II (1995) and Caesar III (1998)[^ref-23]. While developed by Tilted Mill rather than Impressions Games, the game maintains strong connections to its predecessors through shared design philosophy and key personnel who worked on earlier entries[^ref-4].
 

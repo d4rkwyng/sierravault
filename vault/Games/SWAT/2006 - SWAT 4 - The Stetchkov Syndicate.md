@@ -269,7 +269,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 - [ModDB – SWAT 4: The Stetchkov Syndicate Mods](https://www.moddb.com/games/swat-4-the-stetchkov-syndicate)
 - [GamePressure – SAS Mod v1.1](https://www.gamepressure.com/download/swat-4-the-stetchkov-syndicate-sas-mod-v11/z0c3f4)
 
-## Series Continuity
+## See Also
 
 SWAT 4: The Stetchkov Syndicate represents the final entry in Sierra's long-running Police Quest/SWAT franchise, which began in 1987 and evolved from adventure game roots into tactical shooters by 1999.[^ref-9] The expansion builds directly upon SWAT 4's gameplay and setting, continuing the fictional Fairview, New York location while introducing a connected narrative around the Stetchkov crime family.
 

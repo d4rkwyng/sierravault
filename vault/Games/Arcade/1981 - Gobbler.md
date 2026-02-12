@@ -184,7 +184,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 - [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/)[^ref-7]
 - [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2]
 
-## Series Continuity
+## See Also
 
 Gobbler is a standalone title and not part of any game series. However, it connects to On-Line Systems' broader catalog of arcade clones from the early 1980s through its developer, Olaf Lubeck, who also created Cannonball Blitz.[^ref-1]
 

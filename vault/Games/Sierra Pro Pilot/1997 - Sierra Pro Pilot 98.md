@@ -209,7 +209,7 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 - [MyAbandonware](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) - Game with documentation
 - [Sierra Help - Patches](https://sierrahelp.com/) - Official patches 1.1, 1.2, 1.3a
 
-## Series Continuity
+## See Also
 
 - **Previous:** N/A (First in series)
 - **Next:** [[1998 - Sierra Pro Pilot USA]] (1998)

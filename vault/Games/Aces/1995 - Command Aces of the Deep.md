@@ -115,7 +115,7 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 - [MyAbandonware](https://www.myabandonware.com/game/command-aces-of-the-deep-mhh)
 - [Internet Archive](https://archive.org/details/msdos_Aces_of_the_Deep_1994)
 
-## Series Continuity
+## See Also
 
 - **Previous:** Various Aces flight simulators
 - **Next:** Aces of the Deep: Expansion Disk (1995)

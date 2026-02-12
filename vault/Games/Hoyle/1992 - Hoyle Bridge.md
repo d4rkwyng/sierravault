@@ -199,7 +199,7 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 **Compatibility**
 - Windows 3.x version may be playable through ScummVM on modern systems[^ref-5]
 
-## Series Continuity
+## See Also
 
 Hoyle Bridge exists as a standalone spinoff from Sierra's larger Hoyle compilation series. It was derived from Hoyle Classic Games (1995), also known as Hoyle 5[^ref-3]. The game shares its engine and character roster with the parent compilation while focusing exclusively on contract bridge gameplay.
 

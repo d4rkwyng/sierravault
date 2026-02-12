@@ -242,7 +242,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [ScummVM Wiki – Fascination](https://wiki.scummvm.org/index.php?title=Fascination)[^ref-10]
 - [PCGamingWiki – Fascination](https://www.pcgamingwiki.com/wiki/Fascination)[^ref-28]
 
-## Series Continuity
+## See Also
 
 While *Fascination* is a standalone title, its protagonist Doralice May returns in Coktel Vision's *Lost in Time* (1993), creating an informal connection between the games.[^ref-6] In *Lost in Time*, Doralice appears as a more fully developed character, and the CD-ROM version of that game even references her nude appearance in *Fascination*.[^ref-30] The two games share no direct plot connections but establish Doralice as a recurring Coktel Vision heroine.
 

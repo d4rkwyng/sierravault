@@ -109,7 +109,7 @@ Phantasmagoria: A Puzzle of Flesh holds historical significance as one of the fi
 The game's commercial failure and negative critical reception contributed to Sierra's movement away from full-motion video adventures toward other genres[^ref-73]. The planned Phantasmagoria 3 was never developed, effectively ending the anthology series after only two installments[^ref-74]. Despite its controversial nature, the game developed a cult following among horror game enthusiasts and LGBTQ gaming communities who appreciated its willingness to tackle mature themes[^ref-75]. The game's influence can be seen in later horror adventures that incorporated psychological themes and mature content, though few matched its explicit approach to sexuality and violence[^ref-76].
 
 
-## Series Continuity
+## See Also
 
 |  | **Phantasmagoria Series** |  |
 |:---:|:---:|:---:|

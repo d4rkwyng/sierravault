@@ -171,7 +171,7 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 **Manuals & Extras**
 - NASCAR Multimedia Vault included on CD with racing history and driver information[^ref-7]
 
-## Series Continuity
+## See Also
 
 3-D Ultra NASCAR Pinball is the fourth entry in Sierra's 3-D Ultra Pinball series[^ref-2], following previous themed pinball games including Creep Night[^ref-12] and Thrillride[^ref-3]. The game utilized an improved graphics engine first introduced in Thrillride, continuing the series' technical evolution while exploring a new thematic direction through the NASCAR license[^ref-3]. The NASCAR/racing theme would not be revisited in subsequent entries, making this a unique sports-themed outlier in the primarily fantasy and theme park-oriented series.
 

@@ -124,7 +124,7 @@ The game achieved commercial success despite mixed critical reception, with the 
 - [Internet Archive manual preservation](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual)[^ref-39]
 - [Technical documentation at PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work)[^ref-40]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry 5 follows the infamous "missing" fourth game with a running joke that Larry has amnesia and can't remember what happened. The game features parallel storylines with both Larry and Patti as playable characters. This was the last LSL game to feature Passionate Patti as a main character.
 

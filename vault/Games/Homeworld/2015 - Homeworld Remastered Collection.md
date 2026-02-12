@@ -338,7 +338,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 - [Official Soundtrack (Steam)](https://store.steampowered.com)
 - [Vinyl Release (Black Screen Records)](https://blackscreenrecords.com/products/homeworld-remastered)
 
-## Series Continuity
+## See Also
 
 Homeworld Remastered Collection encompasses two games from the core Homeworld series. The original Homeworld (1999) established the universe and told the story of the Kushan exile and journey to Hiigara. Homeworld 2 (2003) continued the story with the Hiigaran people facing the Vaygr threat. The collection notably excludes Homeworld: Cataclysm (2000), a standalone expansion developed by Barking Dog Studios that takes place 15 years after the first game and introduces "The Beast," a techno-organic virus[^ref-62].
 

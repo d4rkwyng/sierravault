@@ -189,7 +189,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 - [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209)
 - [Internet Archive - Hoyle Poker USA](https://archive.org/details/hoyle-poker-usa)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Hoyle Casino]] (1996)
 - **Next:** [[2005 - Hoyle Poker Series]] (2005)

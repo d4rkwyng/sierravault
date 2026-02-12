@@ -260,7 +260,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 **Manuals & Extras**
 - [Manual Machine - Official Manual](https://manualmachine.com/gamespc/empireearththeartofconquest/1118660-user-manual/)
 
-## Series Continuity
+## See Also
 
 Empire Earth: The Art of Conquest serves as the bridge between the original 2001 Empire Earth and its sequel Empire Earth II (2005). While the expansion didn't dramatically alter the series' formula, it established the precedent for the franchise's continued focus on spanning all of human history and beyond. The civilization powers system introduced in The Art of Conquest would influence later entries, though Empire Earth II would be developed by Mad Doc Software—the same team behind this expansion—rather than original creator Stainless Steel Studios.
 

@@ -256,7 +256,7 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 **Patches**
 - [Official King's Quest VII Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – For versions 1.4 and 1.51[^ref-22]
 
-## Series Continuity
+## See Also
 
 King's Quest VII is the only mainline entry not to feature King Graham, focusing instead entirely on the female members of the royal family. The game continues Rosella's story from King's Quest IV and features the return of Prince Edgar, now revealed as a prince of Etheria who was kidnapped as an infant by Malicia. The simplified tone and [[Disney]]-inspired aesthetics marked a significant departure from the darker fantasy of King's Quest VI, though the series would return to a more mature approach with the 3D Mask of Eternity.
 

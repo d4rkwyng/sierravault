@@ -184,7 +184,7 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 **Manuals & Extras**
 - Online documentation included with game[^ref-8]
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Baseball Pro '96 Season was the second entry in Dynamix's baseball simulation series, following the well-received '94 edition and preceding the '98 version[^ref-3]. The series ran parallel to the more commercially prominent Front Page Sports Football titles, sharing the franchise's philosophy of deep simulation over arcade action.
 

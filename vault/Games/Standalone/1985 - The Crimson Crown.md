@@ -206,7 +206,7 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [Free Game Empire – The Crimson Crown](https://www.freegameempire.com/games/The-Crimson-Crown)
 - [DOSGames.com – The Crimson Crown](https://dosgames.com/game/crimson-crown-the/)
 
-## Series Continuity
+## See Also
 
 The Crimson Crown is the second game in the Transylvania trilogy, continuing the story established in the original *Transylvania* (1982) and setting up the events of *Transylvania III: Vanquish the Night* (1989).[^ref-5] The series follows the adventures of an unnamed hero as they confront vampiric threats to the kingdom of Transylvania, with each game expanding on the mythology and gameplay mechanics of its predecessors.
 

@@ -327,7 +327,7 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 **Manuals & Extras**
 - [Half-Life PS2 Manual](https://archive.org/details/hl_ps2_pdf) – PlayStation 2 version manual
 
-## Series Continuity
+## See Also
 
 Half-Life launched one of gaming's most beloved franchises, spawning direct sequels, expansions developed by [[Gearbox Software]], and spin-offs that collectively built an intricate science fiction universe. The original game establishes the Black Mesa incident and Gordon Freeman's emergence as an unlikely hero, setting up the alien occupation depicted in Half-Life 2. The G-Man's mysterious intervention at the game's conclusion creates the narrative bridge that would not be explored until six years later.
 

@@ -136,7 +136,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-1-mystery-house-7nl)
 - [IF Archive](https://ifarchive.org/if-archive/games/appleII/mystery.dsk)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (First in series)
 - **Next:** [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure #2: The Wizard and the Princess]]

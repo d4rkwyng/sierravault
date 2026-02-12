@@ -208,7 +208,7 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 **Manuals & Extras**
 - Original manuals included with physical CD-ROM releases
 
-## Series Continuity
+## See Also
 
 3-D Ultra Pinball Power! functions as a compilation rather than a sequential entry in the series, collecting the first four mainline 3-D Ultra Pinball games released between 1995 and 1998[^ref-10]. The compilation was released alongside continuing development of the series, with 3-D Ultra Pinball: Thrillride launching in late 1999[^ref-8]. The 3-D Ultra brand extended beyond pinball to encompass various casual gaming genres including mini golf (1997-2007), pool (1999-2000), radio control racing (1999-2000), and model train simulations (1999-2000)[^ref-10].
 

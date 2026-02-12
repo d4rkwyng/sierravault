@@ -209,7 +209,7 @@ The title also reflects the industry's growing interest in online multiplayer ga
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Game database entry[^ref-1]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Series:Hoyle) - Technical information[^ref-11]
 
-## Series Continuity
+## See Also
 
 Hoyle Kids Games is part of Sierra's long-running Hoyle game series, which began in 1989 and continued through 2016[^ref-5][^ref-9]. The series produced numerous card and board game compilations for adult audiences before branching into children's titles[^ref-5][^ref-12]. Wikipedia lists both a 2000 and 2001 version of Hoyle Kids Games, suggesting either multiple releases or regional variations[^ref-5][^ref-10]. The Hoyle franchise demonstrated strong commercial viability across multiple demographics[^ref-7][^ref-15].
 

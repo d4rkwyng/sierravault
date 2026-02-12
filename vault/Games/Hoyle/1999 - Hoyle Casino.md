@@ -206,7 +206,7 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 - **UPC:** 020626707572[^ref-2]
 - **ASIN:** B00001KRTG[^ref-2]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 1999 is the fourth installment in Sierra's casino simulation series, which began in 1996 as a spin-off of the broader Hoyle's Official Book of Games franchise[^ref-10]. The series established an annual release pattern that continued well beyond Sierra's tenure, with Encore, Inc. eventually taking over publishing duties and releasing editions through 2016[^ref-10].
 

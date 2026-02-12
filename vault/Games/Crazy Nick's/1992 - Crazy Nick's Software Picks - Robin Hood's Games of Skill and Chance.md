@@ -208,7 +208,7 @@ No official digital distribution is currently available. The game may be found t
 **Manuals & Extras**
 - No standalone manual PDF located in research
 
-## Series Continuity
+## See Also
 
 This title is part of the Crazy Nick's Software Picks budget compilation series, released by Sierra in 1992[^ref-2]. The series drew content from various Sierra adventure games, repurposing mini-games and diversions as standalone budget releases[^ref-2]. The Robin Hood compilation specifically connects to Conquests of the Longbow: The Legend of Robin Hood, from which its mini-games were extracted[^ref-1].
 

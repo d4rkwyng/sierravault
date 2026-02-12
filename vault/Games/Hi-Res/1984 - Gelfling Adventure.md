@@ -164,7 +164,7 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 
 The game is documented in gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
-## Series Continuity
+## See Also
 
 Gelfling Adventure is a companion title to Hi-Res Adventure #6: The Dark Crystal, sharing graphics and story but featuring simplified gameplay for younger audiences.[^ref-2] The game was based on Jim Henson's 1982 fantasy film, which Sierra had previously adapted as Hi-Res Adventure #6.[^ref-9] Jim Henson himself had collaborated with Ken Williams on the original Dark Crystal game project.[^ref-10]
 

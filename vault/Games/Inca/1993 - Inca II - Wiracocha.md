@@ -129,7 +129,7 @@ The Inca series as a whole represents an interesting footnote in Coktel Vision's
 Inca II stands as a fascinating example of 1990s multimedia gaming ambition, representing both the possibilities and pitfalls of early CD-ROM adventure games. Its blend of serious mythological themes with unintentionally comedic execution has secured its place in gaming history, even if not for the reasons its developers originally intended. For many players who encountered the game during the CD-ROM boom, it remains a nostalgic curiosity—a reminder of an era when developers were still discovering what the new medium could achieve, sometimes with spectacularly bizarre results.
 
 
-## Series Continuity
+## See Also
 
 |  | **Inca Series** |  |
 |:---:|:---:|:---:|

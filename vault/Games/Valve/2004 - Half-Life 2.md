@@ -364,7 +364,7 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 - [HalfLife2.net](https://www.halflife2.net/) - Community forums
 - [Half-Life 2: Beta Archive](https://hl2-beta.ru/) - Preservation of development content
 
-## Series Continuity
+## See Also
 
 Half-Life 2 takes place approximately twenty years after the events of the original Half-Life, though the exact timeline remains deliberately ambiguous. Gordon Freeman returns from stasis induced by the G-Man at the conclusion of the first game, finding Earth conquered by the Combine. Several characters from Black Mesa return, including Barney Calhoun (protagonist of the expansion Blue Shift) and scientists Eli Vance and Isaac Kleiner.
 

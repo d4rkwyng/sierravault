@@ -224,7 +224,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 - [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh)
 - [Classic Reload – Browser Version](https://classicreload.com/hoyle-solitaire.html)
 
-## Series Continuity
+## See Also
 
 Hoyle Official Book of Games Volume 5 (Hoyle Solitaire) continues Sierra's long-running series of digital card and board game collections. The series began in 1989 with the original Hoyle Official Book of Games featuring six card games, followed by Volume 2's 28 solitaire games in 1990, and Volume 3's board games in 1991[^ref-3]. This 1996 release served as a modernized update to Volume 2, bringing the solitaire collection to Windows platforms.
 

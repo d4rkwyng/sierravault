@@ -213,7 +213,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 
 The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-23].
 
-## Series Continuity
+## See Also
 
 Hi-Res Adventure #4: Ulysses and the Golden Fleece is the fourth installment in Sierra's Hi-Res Adventure series, a pioneering collection of graphical adventure games from the early 1980s[^ref-2][^ref-19]. The series was designed by [[Roberta Williams]] and represented Sierra's first major venture into graphical adventure gaming, preceding the influential AGI-based games that would follow.
 

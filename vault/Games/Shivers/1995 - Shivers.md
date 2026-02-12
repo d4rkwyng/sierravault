@@ -280,7 +280,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 **Manuals & Extras**
 - [Manual PDF](https://archive.org/stream/SHIV102/Shivers_-_Manual_-_PC_djvu.txt) - Internet Archive
 
-## Series Continuity
+## See Also
 
 Shivers spawned a single sequel, Shivers Two: Harvest of Souls, released in 1997. While sharing the same development team and puzzle-adventure gameplay style, the sequel features an entirely different setting and storyline—taking place in the ghost town of Cyclone, Arizona rather than a museum, with players searching for their missing friends from the band Trip Cyclone[^ref-39]. Despite the different plot, Shivers II contains a small reference to the original: "In the library, a book written by Hubert Windlenot, the professor from the original game, can be found"[^ref-39].
 

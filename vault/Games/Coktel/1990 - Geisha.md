@@ -185,7 +185,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 - [Internet Archive](https://archive.org/details/msdos_Geisha_1990)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Geisha&gid=1910)
 
-## Series Continuity
+## See Also
 
 - **Previous:** N/A (Standalone title)
 - **Next:** N/A

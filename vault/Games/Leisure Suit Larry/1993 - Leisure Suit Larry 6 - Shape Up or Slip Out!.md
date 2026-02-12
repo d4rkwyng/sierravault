@@ -168,7 +168,7 @@ The game remains available through digital distribution platforms, included in t
 - [My Abandonware](https://www.myabandonware.com/game/leisure-suit-larry-6-shape-up-or-slip-out-2ws) - Community preservation with user ratings[^ref-75]
 - [Archive.org](https://archive.org/details/Leisure_Suit_Larry_6_-_Manual) - Game manual and documentation[^ref-76]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry 6: Shape Up or Slip Out! continues Larry's romantic misadventures at the La Costa Lotta health spa. The game represents a return to the single-protagonist format after LSL5's dual-character gameplay. The events lead directly into LSL7, where Larry's latest conquest Shamara Payne dumps him in the opening scene.
 

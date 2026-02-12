@@ -258,7 +258,7 @@ The game is preserved through various abandonware archives and remains playable 
 - [Internet Archive](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995)[^ref-29]
 - [Old-Games.com](https://www.old-games.com/download/6103/front-page-sports-football-pro)[^ref-9]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1994 - Front Page Sports - Football Pro '95]]
 - **Next:** [[1996 - Front Page Sports - Football Pro '97]]

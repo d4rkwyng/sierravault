@@ -241,7 +241,7 @@ The game's legacy is preserved through digital distribution on platforms like GO
 - [GameFAQs Strategy Guides](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy/faqs)
 - [Ground Control Fandom Wiki](https://groundcontrol.fandom.com/wiki/Ground_Control:_Dark_Conspiracy)
 
-## Series Continuity
+## See Also
 
 Ground Control: Dark Conspiracy serves as a direct narrative sequel to the original Ground Control, picking up immediately after the conclusion of Major Sarah Parker's campaign. The expansion introduces the Phoenix Mercenaries faction, which would not appear in subsequent games. The story ends on a cliffhanger, leaving several plot threads unresolved.
 

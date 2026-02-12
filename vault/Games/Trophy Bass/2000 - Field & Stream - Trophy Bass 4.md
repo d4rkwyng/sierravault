@@ -94,7 +94,7 @@ Trophy Bass established a successful franchise that spawned multiple sequels inc
 The game's influence extended beyond the immediate fishing simulation genre, establishing design principles for authentic sports simulation that emphasized realism over arcade-style gameplay[^ref-21]. Despite not being available on modern digital distribution platforms like Steam[^ref-27], the game maintains an active preservation community through sites like Internet Archive and GOG wishlists[^ref-28].
 
 
-## Series Continuity
+## See Also
 
 |  | **Trophy Bass Series** |  |
 |:---:|:---:|:---:|

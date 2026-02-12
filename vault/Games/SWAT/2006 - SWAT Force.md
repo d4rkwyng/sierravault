@@ -191,7 +191,7 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 **Manuals & Extras**
 - No digital manuals currently archived[^ref-2][^ref-4]
 
-## Series Continuity
+## See Also
 
 SWAT Force represents a mobile spin-off of the SWAT series[^ref-1][^ref-11][^ref-12], which itself evolved from the Police Quest franchise[^ref-11][^ref-12]. The mainline SWAT series on PC continued with titles like SWAT 4 (2005)[^ref-9][^ref-11], developed by Irrational Games[^ref-9], while SWAT Force brought the tactical law enforcement gameplay to mobile devices for the first time[^ref-1][^ref-11][^ref-12].
 

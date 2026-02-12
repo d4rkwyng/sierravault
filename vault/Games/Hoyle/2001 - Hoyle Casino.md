@@ -212,7 +212,7 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 **Retail (Sealed/Used)**
 - [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2001)
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2001 is the sixth entry in Sierra's Hoyle Casino series, which evolved from the earlier Hoyle's Official Book of Games franchise[^ref-2]. The series continued with annual releases throughout the 2000s, eventually being developed by Encore after Sierra's dissolution. The 2007 edition experienced significant technical problems that were eventually addressed in Hoyle Casino 2008[^ref-2].
 

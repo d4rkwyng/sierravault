@@ -156,7 +156,7 @@ Historical records indicate the game was released in multiple versions, includin
 - [Lutris](https://lutris.net/games/hi-res-adventure-0-mission-asteroid/)
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) - Sierra On-Line Hi-Res Adventures Catalog
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (numbered as #0 for introductory purposes)
 - **Next:** [[1980 - Hi-Res Adventure 1 - Mystery House]]

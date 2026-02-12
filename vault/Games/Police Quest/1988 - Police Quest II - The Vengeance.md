@@ -257,7 +257,7 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 - [MOCAGH – Police Quest 2 Manual](https://www.mocagh.org/sierra/pq2-manual.pdf)
 - [Quest Studios – Digital Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/pq2/)
 
-## Series Continuity
+## See Also
 
 Police Quest II: The Vengeance serves as the direct sequel to Police Quest: In Pursuit of the Death Angel, continuing Sonny Bonds' story immediately after the events of the first game.[^ref-14] The game resolves the story of Jesse Bains, the "Death Angel" who was arrested in the original but escapes to seek revenge. The Gremlin subplot from the first game is also resolved, revealing the antagonist's identity through an Easter egg in the police computer system.[^ref-3]
 

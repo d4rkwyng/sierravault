@@ -184,7 +184,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 **Developer Support**
 - [Patreon](https://www.patreon.com/posts/updates-on-rtr-141274312) - Early access for supporters[^ref-5]
 
-## Series Continuity
+## See Also
 
 *Order of the Thorne: Fortress of Fire* is designed as the second and final installment of the *Order of the Thorne* anthology series, serving as a direct continuation of the events established in *The King's Challenge*[^ref-1][^ref-2]. While the first game followed Finn the Bard on a quest to find the hidden Queen of Uir, *Fortress of Fire* shifts perspective to Patrick, a squire of the Order of the Thorne, expanding the world and lore of the fairy realm[^ref-4].
 

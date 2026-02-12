@@ -137,7 +137,7 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 **Manuals & Extras**
 - Original documentation included with retail release
 
-## Series Continuity
+## See Also
 
 - **Previous:** Various Hoyle card and board game collections (1989-1999)
 - **Next:** Hoyle Crosswords & Sudoku (later release)

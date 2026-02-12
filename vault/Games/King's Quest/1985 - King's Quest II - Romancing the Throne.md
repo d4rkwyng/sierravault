@@ -224,7 +224,7 @@ This game has been included in[^ref-1]:
 - [AGD Interactive – King's Quest II VGA](https://www.agdinteractive.com/games/kq2/) – free fan remake[^ref-23]
 - [The Cutting Room Floor – KQ2](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) – unused content[^ref-22]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984)
 - **Next:** [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] (1986)

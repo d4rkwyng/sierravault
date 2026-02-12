@@ -156,7 +156,7 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 
 **Development Status:** In active development as of January 2026.[^ref-1][^ref-2]
 
-## Series Continuity
+## See Also
 
 This is a fan remake of the fourth game in the King's Quest series.
 

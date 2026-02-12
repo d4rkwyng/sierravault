@@ -123,7 +123,7 @@ The game's influence extends to the broader city-building genre, establishing co
 - [Internet Archive - Pharaoh](https://archive.org/details/pharaoh_202104)
 - [Internet Archive - Pharaoh + Cleopatra](https://archive.org/details/pharaohcleopatrausarereleasealt)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1998 - Caesar III]]
 - **Next:** [[2000 - Zeus - Master of Olympus]]

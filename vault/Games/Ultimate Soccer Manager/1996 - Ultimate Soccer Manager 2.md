@@ -124,7 +124,7 @@ The series' legacy lies in its contribution to the football management genre dur
 - [Internet Archive](https://archive.org/details/msdos_Ultimate_Soccer_Manager_2_1996)
 - [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1995 - Ultimate Soccer Manager]] (1995)
 - **Next:** [[1998 - Ultimate Soccer Manager 98]] (1997)

@@ -191,7 +191,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 - [Internet Archive](https://archive.org/details/tribes-aerial-assault) – Disc preservation[^ref-7]
 - [MobyGames Entry](https://www.mobygames.com/game/13459/tribes-aerial-assault/)[^ref-4]
 
-## Series Continuity
+## See Also
 
 Tribes: Aerial Assault represents the third installment in the Tribes franchise, following the original Starsiege: Tribes (1998) and Tribes 2 (2001).[^ref-6][^ref-9] The game serves as a console adaptation of Tribes 2, bringing the franchise's signature jetpack combat and large-scale multiplayer battles to PlayStation 2 owners.[^ref-4][^ref-12] Set within the broader Earthsiege/Starsiege universe, the game continues the series' tradition of futuristic tribal warfare in the 40th century Wilderzone.[^ref-2][^ref-8]
 

@@ -136,7 +136,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 - [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) - Historical preservation with browser play option[^ref-22]
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Complete download package[^ref-10]
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (standalone title)
 - **Next:** None (standalone title)

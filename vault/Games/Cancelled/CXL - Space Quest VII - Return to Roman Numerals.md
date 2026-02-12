@@ -217,7 +217,7 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 - [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – Developer interviews and development history[^ref-2]
 - [Wiw.org – Space Quest 7 Archive](http://www.wiw.org/~jess/sq7.html) – Concept art and timeline[^ref-6]
 
-## Series Continuity
+## See Also
 
 Space Quest VII was intended to continue the adventures of Roger Wilco following the events of Space Quest 6: Roger Wilco in the Spinal Frontier. The game would have returned to planet Polysorbate LX, a location from the previous entry[^ref-2]. The planned revelation that Sludge Vohaul was Roger's brother or failed clone would have significantly recontextualized the series' ongoing conflict between protagonist and antagonist[^ref-6].
 

@@ -158,7 +158,7 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 - **Item Code:** 137222[^ref-3]
 - **Classification:** G (General)[^ref-3]
 
-## Series Continuity
+## See Also
 
 Hoyle Miami Solitaire exists within the extensive Hoyle franchise, which has produced numerous card, casino, and board game compilations since Sierra Entertainment began the series in the late 1980s [^ref-1][^ref-2]. The franchise spans multiple publishers and decades, with titles covering everything from poker and blackjack to traditional board games and word games [^ref-10].
 

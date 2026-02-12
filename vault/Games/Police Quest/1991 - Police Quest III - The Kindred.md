@@ -261,7 +261,7 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 - [Manual PDF at Internet Archive](https://archive.org/details/Police_Quest_3_-_Manual)[^ref-29]
 - [Hint Book at Internet Archive](https://archive.org/stream/Police_Quest_3_Hint_Book/Police_Quest_3_Hint_Book_djvu.txt)[^ref-27]
 
-## Series Continuity
+## See Also
 
 Police Quest III: The Kindred serves as the final chapter in Sonny Bonds' story, concluding the narrative arc that began in the original Police Quest: In Pursuit of the Death Angel and continued through Police Quest II: The Vengeance. The game resolves the ongoing Bains family vendetta by introducing Michael Bains, brother of the previously defeated Jesse Bains[^ref-2]. While Sonny Bonds makes only cameo appearances in later Police Quest and SWAT titles, this game represents his last starring role[^ref-18].
 

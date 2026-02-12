@@ -206,7 +206,7 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html)[^ref-17]
 - [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941)[^ref-7]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1991 - The Shadow of Yserbius]]
 - **Next:** [[1995 - The Ruins of Cawdor]]

@@ -143,7 +143,7 @@ The series continued with multiple sequels and iterations, eventually transition
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av)
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]] (1991)
 - **Next:** [[2002 - Hoyle Card Games]] (2002)

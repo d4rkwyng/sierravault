@@ -208,7 +208,7 @@ This game has been included in the following collections:
 - [Adventure Gamers – Space Quest 6](https://adventuregamers.com/games/space-quest-6-roger-wilco-in-the-spinal-frontier) – review, walkthrough[^ref-29]
 - [IMDB – Space Quest 6](https://www.imdb.com/title/tt0348081/) – full cast and crew credits[^ref-33]
 
-## Series Continuity
+## See Also
 - Previous: [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]]
 - Fan Sequel: [[2011 - Space Quest - Vohaul Strikes Back|Space Quest: Vohaul Strikes Back]]
 

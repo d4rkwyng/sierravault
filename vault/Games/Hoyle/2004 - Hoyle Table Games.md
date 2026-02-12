@@ -213,7 +213,7 @@ The title's enduring appeal among nostalgic players demonstrates the value of si
 
 The game is documented in various gaming databases.[^ref-15][^ref-16]
 
-## Series Continuity
+## See Also
 
 Hoyle Table Games 2004 was part of Sierra's extensive Hoyle product line that began in 1989 with the original Hoyle's Book of Games[^ref-1]. The series evolved from using the Sierra Creative Interpreter (SCI) engine in early titles to more modern development frameworks[^ref-1]. The Hoyle brand continued under various publishers including Encore, Inc. through at least 2016[^ref-1].
 

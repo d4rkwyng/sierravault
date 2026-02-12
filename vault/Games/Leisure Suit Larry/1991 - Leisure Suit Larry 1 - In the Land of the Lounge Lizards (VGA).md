@@ -287,7 +287,7 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 **Compatibility**
 - ScummVM provides full compatibility for modern systems[^ref-28]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry 1: In the Land of the Lounge Lizards established the foundation for one of gaming's longest-running adult comedy franchises. The game introduced Larry Laffer as Sierra's third major adventure game protagonist after King Graham and Roger Wilco, creating what would become the company's third long-running series.[^ref-14]
 

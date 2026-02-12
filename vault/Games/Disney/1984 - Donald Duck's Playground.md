@@ -230,7 +230,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - [MobyGames](https://www.mobygames.com/game/3491/donald-ducks-playground/)
 - [Lemon64](https://www.lemon64.com/game/donald-ducks-playground)
 
-## Series Continuity
+## See Also
 
 Donald Duck's Playground was one of Sierra's early Disney-licensed titles, produced under the Walt Disney Personal Computer Software partnership. The game exists as a standalone educational title rather than part of a narrative series, though it belongs to the broader Disney gaming franchise. It was followed by other Disney computer games from Sierra, and Al Lowe would go on to develop "Winnie the Pooh in the Hundred Acre Wood" for the same platform using similar design principles.[^ref-6]
 

@@ -200,7 +200,7 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - Game of the Year Edition includes making-of videos, concept art, and storyboards[^ref-21]
 - Official Soundtrack available via Phoenix Online Store[^ref-25]
 
-## Series Continuity
+## See Also
 
 - **Previous:** N/A (First game in series)
 - **Next:** Episodes 2-4 continue the narrative

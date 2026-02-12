@@ -255,7 +255,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 **Manuals & Extras**
 - [Retrogames.cz](https://www.retrogames.cz/play_515-DOS.php) - Browser emulation and documentation
 
-## Series Continuity
+## See Also
 
 Gobliiins established the franchise's core identity: whimsical, challenging puzzle-adventure gameplay with lovable goblin protagonists speaking in gibberish while navigating surreal, colorful worlds. The game introduced King Angoulafre's kingdom and the basic premise of goblins saving royalty from magical threats—themes that would recur throughout the series.
 

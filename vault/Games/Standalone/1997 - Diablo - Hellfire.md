@@ -249,7 +249,7 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - **Completionist:** 28 hours
 - **All Playstyles Average:** 16.5 hours
 
-## Series Continuity
+## See Also
 
 Diablo: Hellfire exists as a standalone expansion to the original Diablo, adding optional content that players can explore alongside or instead of the base game's dungeons. While Sierra On-Line published the expansion as an official product, Blizzard Entertainment has never recognized its storyline as canonical to the Diablo universe.[^ref-3] The events involving Na-Krul and the new dungeon areas were not referenced in Diablo II or any subsequent games in the franchise.[^ref-3]
 

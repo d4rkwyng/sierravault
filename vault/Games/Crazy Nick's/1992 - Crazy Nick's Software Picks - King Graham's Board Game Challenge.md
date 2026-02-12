@@ -170,7 +170,7 @@ King Graham's Board Game Challenge demonstrates the synergy between Sierra's Hoy
 
 The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bomb[^ref-15], and IGDB.[^ref-16]
 
-## Series Continuity
+## See Also
 
 - **Series:** Part of the 5-game Crazy Nick's Software Picks compilation series released in 1992[^ref-12]
 - **Related:** Based on board games from Sierra's Hoyle series (specifically [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]])[^ref-1][^ref-6]

@@ -130,7 +130,7 @@ A community-created patch has been developed to address compatibility issues, sp
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-ski-racing-fyl)
 - [Internet Archive](https://archive.org/details/front-page-sports-ski-racing)
 
-## Series Continuity
+## See Also
 
 - **Previous:** Other Front Page Sports titles (Football Pro series)
 - **Next:** Skiing, 1999 Edition

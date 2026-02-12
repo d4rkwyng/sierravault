@@ -165,7 +165,7 @@ Academic analysis has also examined the series' cultural significance, with the 
 - Internet Archive: VGA remake (1991)[^ref-38]
 - Abandonware DOS with 4.25/5 rating[^ref-39]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry in the Land of the Lounge Lizards is the first entry in the Leisure Suit Larry series, introducing the lovable loser Larry Laffer and his quest for love in the fictional city of Lost Wages. The game's success led to numerous sequels spanning multiple decades.
 

@@ -277,7 +277,7 @@ The game's focus on historical accuracy and cultural research also distinguishes
 - [Manual PDF (Internet Archive)](https://archive.org/details/Conquests_of_the_Longbow_-_Manual)
 - [Manual PDF (MOCAGH)](https://www.mocagh.org/sierra/longbow-manual.pdf)
 
-## Series Continuity
+## See Also
 
 *Conquests of the Longbow* is the second and final game in the Conquests series, which began with *Conquests of Camelot: The Search for the Grail* (1989). Both games were designed by Christy Marx and share a focus on British medieval legend with extensive historical research integrated into gameplay.[^ref-5] While *Conquests of Camelot* explored Arthurian mythology, the sequel shifted to the Robin Hood legend while maintaining the series' commitment to historical authenticity.
 

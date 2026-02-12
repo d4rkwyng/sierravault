@@ -214,7 +214,7 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 **Manuals & Extras**
 - [Internet Archive – Game Reference Manual](https://archive.org/details/breach-3-game-reference)[^ref-6]
 
-## Series Continuity
+## See Also
 
 Breach 3 is the third and final entry in the Breach series, following the original Breach (1987) and Breach 2 (1990). All three games were developed by Omnitrend Software, with Impressions Games completing Breach 3 after Omnitrend ceased operations. The series exists within Omnitrend's larger Universe setting, which also includes the Rules of Engagement space combat games.[^ref-9]
 

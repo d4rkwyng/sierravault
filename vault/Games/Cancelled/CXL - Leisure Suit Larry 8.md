@@ -185,7 +185,7 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 **Historical Materials**
 - [Larry Laffer Dot Net – Test Video](http://larrylaffer.net/exxxtras/larry-game-materials/the-promo-demo-videos) – Preserved development video
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry 8: Lust in Space was planned as the direct sequel to *Leisure Suit Larry: Love for Sail!* (1996), which had concluded Larry Laffer's adventures aboard the cruise ship PMS Bounty. The game would have continued Larry's story while transitioning the series into 3D graphics.[^ref-1] An easter egg in *Love for Sail!* referenced the planned sequel, demonstrating that the development team was already laying groundwork for the next installment.[^ref-1]
 

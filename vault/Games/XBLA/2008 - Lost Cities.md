@@ -119,7 +119,7 @@ Reiner Knizia's Lost Cities has seen multiple digital adaptations across platfor
 
 The original Xbox 360 XBLA version has been delisted and is no longer available for purchase. This highlights the preservation challenges facing digital-only releases from this era.
 
-## Series Continuity
+## See Also
 
 Lost Cities was part of Sierra Online's XBLA initiative (2006-2009), which brought classic card and board games to Xbox 360.
 

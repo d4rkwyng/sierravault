@@ -199,7 +199,7 @@ Impressions Games would find greater success with their subsequent city-building
 - [ClassicReload](https://classicreload.com/the-charge-of-the-light-brigade.html) – Browser-based DOS version
 - [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
 
-## Series Continuity
+## See Also
 
 The Charge of the Light Brigade was part of Impressions Games' informal "Micro Miniatures" series of historical battle simulations, which shared a common game engine and presentation style[^ref-4]. These games applied the miniature wargaming aesthetic to various historical periods and conflicts.
 

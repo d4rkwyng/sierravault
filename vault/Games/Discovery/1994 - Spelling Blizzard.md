@@ -197,7 +197,7 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 **Manuals & Extras**
 - PDF manual included on original game disc[^ref-4]
 
-## Series Continuity
+## See Also
 
 Spelling Blizzard is the second and final game in the Spelling Jungle series, maintaining the core gameplay mechanics of its predecessor while transporting the setting from a jungle environment to an arctic landscape[^ref-3][^ref-10]. Both games feature the character Yobi as a guide and mentor, with the sequel introducing Wali as the player character[^ref-5].
 

@@ -212,7 +212,7 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 **Manuals & Extras**
 - [Sierra Chest – Walkthrough & Documentation](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons)
 
-## Series Continuity
+## See Also
 
 Sid & Al's Incredible Toons serves as a spin-off within The Incredible Machine franchise rather than a direct sequel. While maintaining the core puzzle mechanics of arranging Rube Goldberg devices, it distinguished itself through cartoon aesthetics and character-driven scenarios[^ref-1]. The game introduced players to Sid E. Mouse and Al E. Cat, characters who would return in the 1994 follow-up The Incredible Toon Machine[^ref-8].
 

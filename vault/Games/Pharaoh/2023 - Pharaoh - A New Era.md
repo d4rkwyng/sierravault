@@ -99,7 +99,7 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 - [Official Website (Dotemu)](https://www.dotemu.com/games/pharaoh-a-new-era/)
 - [Triskell Interactive](https://www.triskell-interactive.com/)
 
-## Series Continuity
+## See Also
 
 Pharaoh: A New Era is a remake of the original Pharaoh, which was the second entry in Impressions Games' City Building series after [[1998 - Caesar III|Caesar III]].
 

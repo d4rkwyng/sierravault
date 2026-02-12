@@ -250,7 +250,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 - [Internet Archive – Starsiege Pilot Guide](https://archive.org/stream/Starsiege_Pilot_Guide/Starsiege_Pilot_Guide_djvu.txt) - Official manual[^ref-11]
 - [Starsiege Compendium](https://starsiegecompendium.com) - Backstory and lore documentation[^ref-16]
 
-## Series Continuity
+## See Also
 
 Starsiege serves as the sixth and final installment in the Metaltech/Earthsiege universe, bringing the long-running conflict between humanity and the Cybrids to its narrative conclusion. The game directly continues the story established in Earthsiege (1994) and Earthsiege 2 (1995), while performing significant retcons to create a more coherent timeline.[^ref-3] The companion title Starsiege: Tribes (1998) shares the same engine and universe, set over 1000 years after Starsiege's events when humanity has fractured into warring tribal factions.[^ref-44]
 

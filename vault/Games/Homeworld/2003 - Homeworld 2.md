@@ -273,7 +273,7 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 - [Homeworld 2 Patch v1.1 – PCGamingWiki](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/)
 - [Homeworld 2 Manual PDF – ModDB](https://www.moddb.com/games/homeworld-2/downloads/homeworld2-manual-pdf)
 
-## Series Continuity
+## See Also
 
 Homeworld 2 continues the story of the Kushan people—now known as Hiigarans—one hundred years after their triumphant return to their ancestral homeworld in the original Homeworld. The game takes place 115 years after Homeworld and approximately 100 years after the events of Homeworld: Cataclysm, which chronicled a separate threat involving the Beast[^ref-7]. Karan S'jet, who served as Fleet Command in the first game, returns as the central figure neurally integrated with a new Mothership.
 

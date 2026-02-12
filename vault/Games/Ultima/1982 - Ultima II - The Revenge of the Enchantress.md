@@ -228,7 +228,7 @@ The game's historical significance lies in several areas: it demonstrated that R
 **Manuals & Extras**
 - Cloth map included with original retail release[^ref-1]
 
-## Series Continuity
+## See Also
 
 Ultima II serves as the direct sequel to Ultima I: The First Age of Darkness, continuing the story of the hero who defeated the evil wizard Mondain. The game introduces Minax, Mondain's apprentice and lover, who would become one of the series' memorable villains.[^ref-1] Unlike its predecessor and successors, Ultima II takes place entirely on Earth across multiple time periods rather than in the fantasy realm of Britannia, making it a unique outlier in the series' continuity.[^ref-4]
 

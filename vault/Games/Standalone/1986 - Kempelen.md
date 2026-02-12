@@ -242,7 +242,7 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – Technical development history[^ref-1]
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
 
-## Series Continuity
+## See Also
 
 Kempelen is a standalone chess program and is not part of a larger game series. It represents Sierra On-Line's occasional ventures into publishing strategy and simulation software during the 1980s, alongside their primary focus on adventure games.
 

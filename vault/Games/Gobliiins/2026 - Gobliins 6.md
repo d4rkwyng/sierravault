@@ -249,7 +249,7 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 - [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page with previous releases[^ref-5]
 
-## Series Continuity
+## See Also
 
 - Previous: [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)

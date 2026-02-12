@@ -175,7 +175,7 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 - [Quest for Infamy on GOG](https://www.gog.com/game/quest_for_infamy)[^ref-10]
 - [Quest for Infamy on Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)[^ref-12]
 
-## Series Continuity
+## See Also
 
 *Quest for Infamy: Roehm to Ruin* serves as a direct prequel to the original *Quest for Infamy*, depicting the events that led protagonist Roehm to flee to the Valley of Krasna.[^ref-1] The original game begins with Roehm escaping the Baron's forces, a sequence whose context is fully explored in this prequel.[^ref-8] The series exists within the broader Infamous Quests catalog alongside the *Order of the Thorne* anthology series, though the two series are set in different fictional worlds.[^ref-2]
 

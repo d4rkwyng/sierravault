@@ -108,7 +108,7 @@ The game's educational value extended beyond entertainment, serving as a bridge 
 NPD retail tracking data from September 1996 showed strong commercial performance, with the original Robert E. Lee: Civil War General ranking #8 in the reference software category at a $51 price point across 8,823 stores[^ref-58]. This commercial success validated the market demand for sophisticated historical gaming experiences and paved the way for future educational strategy titles.
 
 
-## Series Continuity
+## See Also
 
 |  | **Civil War Generals Series** |  |
 |:---:|:---:|:---:|

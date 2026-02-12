@@ -278,7 +278,7 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 **Manuals & Extras**
 - [Prima Official eGuide](https://archive.org/stream/Ground_Control_2_Operation_Exodus_Prima_Official_eGuide/) - Strategy guide[^ref-39]
 
-## Series Continuity
+## See Also
 
 Ground Control II: Operation Exodus serves as the direct sequel to Ground Control (2000), advancing the timeline by 320 years while introducing entirely new factions and conflicts. The original game established Massive Entertainment's reputation for tactical gameplay and 3D graphics innovation, which the sequel built upon with enhanced visuals and refined mechanics[^ref-5].
 

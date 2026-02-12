@@ -250,7 +250,7 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – technical documentation[^ref-8]
 - [ScummVM](https://docs.scummvm.org/) – modern compatibility layer[^ref-30]
 
-## Series Continuity
+## See Also
 
 While *The Bizarre Adventures of Woodruff and the Schnibble* shares the visual style, gameplay mechanics, and offbeat humor of Coktel Vision's *Gobliiins* series, it is not officially part of that franchise.[^ref-4] Created by the same artist, Pierre Gilhodes, who designed the *Gobliiins* games, the title exists as a standalone spiritual successor rather than a direct continuation.[^ref-4]
 

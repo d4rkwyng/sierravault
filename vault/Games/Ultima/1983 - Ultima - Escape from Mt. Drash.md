@@ -196,7 +196,7 @@ The game's historical significance lies not in its gameplay contributions—whic
 **Manuals & Extras**
 - Original documentation is extremely rare due to limited production run
 
-## Series Continuity
+## See Also
 
 *Ultima: Escape from Mt. Drash* occupies an unusual position within the Ultima franchise. While it bears the Ultima name and references Mt. Drash (a dungeon from *Ultima I*), the game was developed without the involvement or approval of series creator Richard Garriott[^ref-2][^ref-3]. It shares virtually no gameplay mechanics, story elements, or thematic content with the mainline Ultima series[^ref-2]. The game is typically considered a non-canonical entry or spin-off rather than a true series installment.
 

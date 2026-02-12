@@ -203,7 +203,7 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 - [Internet Archive – 3D Ultra Minigolf Deluxe (1998)](https://archive.org/details/3DUltraMinigolfDeluxe_201809) - Original Dynamix version[^ref-18]
 - [MyAbandonware – 3D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) - 1998 version available[^ref-15]
 
-## Series Continuity
+## See Also
 
 *3D Ultra Minigolf Adventures Deluxe* serves as the culmination of the 3-D Ultra Minigolf series, combining all content from the main game and its expansion into a single package[^ref-5]. The series began with the original *3D Ultra Minigolf* in 1997 and continued with *3D Ultra Minigolf Deluxe* in 1998, both developed by Dynamix[^ref-3][^ref-4]. Following Dynamix's closure in 2001, the series was revived by Wanako Games with *3D Ultra Minigolf Adventures* in 2006-2007[^ref-3][^ref-5].
 

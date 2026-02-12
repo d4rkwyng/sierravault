@@ -225,7 +225,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 **Online Play Restoration**
 - [Insignia](https://insignia-online.com/) - Xbox Live 1.0 replacement service supporting this title[^ref-35]
 
-## Series Continuity
+## See Also
 
 SWAT: Global Strike Team represents the first and only console entry in Sierra's SWAT franchise, which originated as a spinoff of the Police Quest adventure game series.[^ref-2] Previous SWAT games were PC-exclusive tactical experiences, sometimes developed under the tutelage of former LAPD chief Daryl Gates.[^ref-2] The game attempted to modernize the franchise for console audiences while retaining core SWAT elements like procedural accuracy and non-lethal options.
 

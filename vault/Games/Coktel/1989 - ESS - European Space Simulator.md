@@ -234,7 +234,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=2375)
 - [Atari Legend](https://www.atarilegend.com/games/ess-european-space-simulator)
 
-## Series Continuity
+## See Also
 
 E.S.S. spawned one direct sequel that expanded upon the original's concepts while adding improved presentation. E.S.S. Mega (1991) featured enhanced 3D-modelled graphics, an introductory sequence, and additional music, representing a significant upgrade over the original release.[^ref-5] The Mega version also received a CDTV release in 1992, bringing the game to Commodore's multimedia platform.[^ref-5]
 

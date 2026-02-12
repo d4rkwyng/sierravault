@@ -175,7 +175,7 @@ Based on contemporary documentation:[^ref-6]
 
 The game was originally released on CD-ROM for Windows and is occasionally available through secondary market sellers. It was also included in the *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999) compilation.[^ref-7]
 
-## Series Continuity
+## See Also
 
 *Leisure Suit Larry's Casino* is a spinoff title rather than a mainline entry in the Leisure Suit Larry series. It was released between *Leisure Suit Larry 7: Love for Sail!* (1996) and the cancelled *Leisure Suit Larry 8: Lust in Space*. The game features characters and assets from the adventure games but tells no story continuing Larry's romantic misadventures.
 

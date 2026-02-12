@@ -224,7 +224,7 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - App Store (iOS) - $0.99[^ref-4]
 - Google Play (Android)
 
-## Series Continuity
+## See Also
 
 Fester Mudd: Curse of the Gold was conceived as the first part of a trilogy chronicling the adventures of Fester Mudd in the Wild West. Episode 1, "A Fistful of Pocket Lint," establishes Fester's quest to find his missing brother Bud and ends on a cliffhanger intended to lead into Episode 2, "Injun Trouble."[^ref-7]
 

@@ -96,7 +96,7 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - [Official Website](https://www.tribes3rivals.com/)
 - [SteamDB Charts](https://steamdb.info/app/2687970/charts/)
 
-## Series Continuity
+## See Also
 
 Tribes 3: Rivals continues the legacy of the Tribes series, which originated with Starsiege: Tribes developed by Dynamix under Sierra Entertainment.
 

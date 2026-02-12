@@ -200,7 +200,7 @@ This game has been included in the following collections:
 - [Digital Antiquarian – So You Want to Be a Hero?](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) – historical article[^ref-16]
 - [StrategyWiki – Quest for Glory](https://strategywiki.org/wiki/Quest_for_Glory) – game guide[^ref-17]
 
-## Series Continuity
+## See Also
 
 Quest for Glory I: So You Want to Be a Hero (originally titled Hero's Quest) introduced the innovative blend of adventure gaming with RPG elements that would define the series. The player's hero begins as a novice adventurer in the valley of Spielburg, setting the stage for a journey spanning five games.
 

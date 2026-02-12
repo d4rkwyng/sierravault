@@ -216,7 +216,7 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 **Download / Preservation**
 - [Noble Knight Games](https://www.nobleknight.com/P/2148206199/Front-Page-Sports-Football-Pro-99) - Physical copies occasionally available[^ref-9]
 
-## Series Continuity
+## See Also
 
 NFL Football Pro '99 was intended to be the evolutionary next step for the acclaimed Front Page Sports football franchise, but instead became its tombstone. The series had grown from the original 1992 MS-DOS release through seven annual iterations, each building on the previous version's features and reputation.[^ref-1] The decision to completely rebuild the game engine rather than iterate on the proven formula, combined with the pressure of meeting the football season release window, led to the franchise's destruction.
 

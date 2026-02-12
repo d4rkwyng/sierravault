@@ -263,7 +263,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 **Manuals & Extras**
 - [Free Game Empire - Windows 95 Manual](https://www.freegameempire.com/games/Frogger/manual)
 
-## Series Continuity
+## See Also
 
 Frogger launched one of gaming's longest-running franchises, spawning over 20 sequels and spin-offs across four decades[^ref-7]. The original game established the core mechanics of obstacle navigation and pattern-based timing that would be expanded upon in subsequent entries. The immediate sequel, Frogger II: ThreeeDeep!, added underwater and aerial sections to the classic formula.
 

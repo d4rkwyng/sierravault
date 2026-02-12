@@ -215,7 +215,7 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 
 The game is documented in various gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
 
-## Series Continuity
+## See Also
 
 Hoyle Puzzle and Board Games 2008 is part of the extensive Hoyle series of game compilations that began with [[Sierra On-Line]] in 1989. The series split into multiple sub-lines including card games, casino games, and puzzle/board games, with various publishers continuing the brand after Sierra's dissolution. This particular entry focuses on the puzzle and board game segment, distinguishing it from the concurrent Hoyle Card Games releases.
 

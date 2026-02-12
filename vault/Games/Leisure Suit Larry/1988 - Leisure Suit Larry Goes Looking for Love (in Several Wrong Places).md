@@ -243,7 +243,7 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 - [Manual PDF](https://archive.org/details/Leisure_Suit_Larry_2_Manual) – Original game manual (8 pages)[^ref-39]
 - [Quest Studios Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl2/) – Roland MT-32 recordings[^ref-18]
 
-## Series Continuity
+## See Also
 
 *Leisure Suit Larry Goes Looking for Love* directly continues from the ending of the original game, with Larry's romantic conquest Eve unceremoniously dumping him in the opening scene. The game introduces several elements that would carry forward in the series, most notably the character of Kalalau/Polyester Patti, who would later become the beloved Passionate Patti in subsequent installments.[^ref-9] The bronze plaque mentioned in *Leisure Suit Larry 3* commemorates Larry's heroic defeat of Dr. Nonookee.[^ref-15]
 

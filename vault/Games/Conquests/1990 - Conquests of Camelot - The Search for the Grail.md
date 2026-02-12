@@ -242,7 +242,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 **Manuals & Extras**
 - [Liber Ex Doctrina Manual](https://archive.org/stream/vgmuseum_sierra_camelot-manual/camelot-manual_djvu.txt)
 
-## Series Continuity
+## See Also
 
 *Conquests of Camelot* was the first and only Arthur-focused entry in Sierra's Conquests series. The series continued with a shift in setting to medieval England with Robin Hood as the protagonist. While the two games share design philosophies—deep research, moral scoring systems, and blending historical elements with legend—they do not share narrative continuity or returning characters.
 

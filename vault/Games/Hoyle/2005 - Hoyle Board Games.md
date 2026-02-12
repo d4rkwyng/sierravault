@@ -219,7 +219,7 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 **Community Resources**
 - [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – Detailed gameplay guide and workarounds[^ref-10]
 
-## Series Continuity
+## See Also
 
 Hoyle Board Games 2005 is part of the extensive Hoyle game series that began with Sierra On-Line in 1989. The series has encompassed card games, board games, casino games, and puzzle games across numerous platforms including DOS, Windows, Macintosh, Amiga, Atari ST, Dreamcast, and Game Boy Color.[^ref-3] The 2005 edition was developed during the period when Encore, Inc. had taken over development and publishing responsibilities from Sierra Entertainment (which had handled the series from 1996-2003).[^ref-3]
 

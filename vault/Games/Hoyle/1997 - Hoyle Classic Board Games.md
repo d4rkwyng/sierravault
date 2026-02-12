@@ -211,7 +211,7 @@ Abandonware archives and retro gaming communities continue maintaining access to
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-board-games-hzm)
 - [Internet Archive](https://archive.org/details/hoyle-classic-board-games_202209)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]]
 - **Next:** [[2001 - Hoyle Board Games]]

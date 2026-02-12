@@ -266,7 +266,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 - [Game Manual (Internet Archive)](https://archive.org/details/returntokrondormanual)
 - [Official Patch 1.0.0.6](https://archive.org/details/RTK106)
 
-## Series Continuity
+## See Also
 
 Return to Krondor is the direct sequel to Betrayal at Krondor, taking place approximately one year after the events of that game[^ref-28]. The game features returning character James (Jimmy the Hand), now serving as Squire James of Krondor, having risen from his origins as a thief in the original game[^ref-11]. The setting remains the same fantasy world of Midkemia from Raymond E. Feist's Riftwar Saga novels.
 

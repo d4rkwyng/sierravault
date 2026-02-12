@@ -307,7 +307,7 @@ The team's approach of receiving official licensing before distribution set an i
 - [AGDI Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html)[^ref-4]
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796)[^ref-13]
 
-## Series Continuity
+## See Also
 
 The VGA Remake faithfully recreates the first chapter in the King's Quest saga, establishing Sir Graham's rise from knight to king of Daventry. The events depicted—recovering the magic mirror, shield, and chest—set the foundation for all subsequent adventures in the series. Graham's coronation at the conclusion leads directly into King's Quest II, where he seeks a queen for Daventry.
 

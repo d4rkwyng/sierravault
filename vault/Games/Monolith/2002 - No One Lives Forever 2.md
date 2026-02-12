@@ -320,7 +320,7 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [v1.3 Patch](https://community.pcgamingwiki.com/files/file/303-no-one-lives-forever-2-a-spy-in-harms-way-patch/) - Multiple language versions available[^ref-37]
 - [NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) - Level editor and source code[^ref-45]
 
-## Series Continuity
+## See Also
 
 No One Lives Forever 2 is the second mainline entry in the No One Lives Forever franchise, continuing the story of UNITY operative Cate Archer established in the original 2000 title. The game directly follows the events of the first game, with a year having passed since Cate foiled H.A.R.M.'s initial schemes[^ref-6]. Many characters return including Bruno Lawrie, Magnus Armstrong, and the villainous Dimitri Volkov, while new threats like the ninja assassin Isako add fresh antagonists.
 

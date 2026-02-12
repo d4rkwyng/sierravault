@@ -311,7 +311,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 **Manuals & Extras**
 - [Grand Prix Legends Manual](https://archive.org/details/Grand_Prix_Legends)[^ref-3]
 
-## Series Continuity
+## See Also
 
 Grand Prix Legends stands as a unique entry in Papyrus Design Group's racing simulation lineage. While not part of a numbered series, it represents the culmination of the company's racing simulation expertise developed through Indianapolis 500: The Simulation (1989), IndyCar Racing (1993-1995), and NASCAR Racing (1994-1999)[^ref-33]. The game's physics engine would later evolve into NASCAR Racing 4 (2001)[^ref-6].
 

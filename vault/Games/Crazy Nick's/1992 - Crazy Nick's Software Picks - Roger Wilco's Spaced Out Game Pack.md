@@ -199,7 +199,7 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 - [CDRomance](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/)
 - [Free Game Empire](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack)
 
-## Series Continuity
+## See Also
 
 Roger Wilco's Spaced Out Game Pack draws content from multiple Space Quest games, primarily Space Quest IV: Roger Wilco and the Time Rippers (1991) and the Space Quest I VGA remake (1991)[^ref-5]. The mini-games preserve moments from these titles in an accessible standalone format, allowing players to experience arcade sequences without engaging with the full adventure game structure.
 

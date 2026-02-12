@@ -227,7 +227,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 - [PCGamingWiki – Hoyle Battling Ships and War](https://www.pcgamingwiki.com/wiki/Hoyle_Battling_Ships_and_War) - Technical specifications and compatibility information[^ref-2]
 - [DOSBox Staging Issue #312](https://github.com/dosbox-staging/dosbox-staging/issues/312) - Emulation compatibility documentation[^ref-6]
 
-## Series Continuity
+## See Also
 
 Hoyle Battling Ships And War is part of Sierra's long-running Hoyle's Official Book of Games series, which began in 1989 and continued through the late 1990s[^ref-2]. The series included numerous titles covering various card games, board games, and casino games, all bearing the Hoyle brand known for authoritative rules on traditional games.
 

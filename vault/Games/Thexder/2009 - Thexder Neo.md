@@ -214,7 +214,7 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 - Available through PlayStation Store (regions vary)
 - Physical copies rare for PSP version
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1995 - Thexder 95]]
 - **Next:** No announced sequels

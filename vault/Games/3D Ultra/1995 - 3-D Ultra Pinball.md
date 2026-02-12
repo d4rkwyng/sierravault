@@ -203,7 +203,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 **Manuals & Extras**
 - Manual included with ISO versions at Internet Archive[^ref-7]
 
-## Series Continuity
+## See Also
 
 3-D Ultra Pinball launched what would become one of Sierra's most successful pinball franchises. The original game established the template of fantasy pinball with interconnected tables and impossible physics that subsequent entries would follow and refine. The Outpost-themed space setting gave way to horror themes in Creep Night, adventure themes in The Lost Continent, and eventually licensed NASCAR content and amusement park settings.
 

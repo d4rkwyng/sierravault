@@ -203,7 +203,7 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 **Manuals & Extras**
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
 
-## Series Continuity
+## See Also
 
 Codename: ICEMAN was designed as the first entry in a planned franchise of espionage-themed adventure games. Sierra promotional materials referenced "Codename: PHOENIX" as a planned sequel, but disappointing sales of ICEMAN resulted in the cancellation of any follow-up titles.[^ref-1] The game thus remains a standalone entry, representing Jim Walls' only non-Police Quest work for Sierra.
 

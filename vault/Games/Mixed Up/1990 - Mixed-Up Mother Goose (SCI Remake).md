@@ -102,7 +102,7 @@ The game's influence extends beyond its immediate success. It demonstrated that 
 The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9] and abandonware archives[^ref-1], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
 
 
-## Series Continuity
+## See Also
 
 |  | **Mixed Up Series** |  |
 |:---:|:---:|:---:|

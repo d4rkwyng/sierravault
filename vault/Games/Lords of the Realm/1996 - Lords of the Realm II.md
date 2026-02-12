@@ -279,7 +279,7 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 - [Game Manual PDF (Internet Archive)](https://archive.org/download/Lords_of_the_Realm_II_-_Manual/Lords_of_the_Realm_II_-_Manual.pdf)
 - [OpenLotR2 Documentation](https://openlotr2.readthedocs.io/en/latest/game/part-1/Part-1.html)
 
-## Series Continuity
+## See Also
 
 Lords of the Realm II built upon the foundation established by the original Lords of the Realm (1994), which had won multiple awards and established Impressions Games' reputation for quality historical strategy games.[^ref-17] The sequel streamlined the economy compared to the first game while introducing the acclaimed real-time battle system.[^ref-49]
 

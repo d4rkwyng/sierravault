@@ -215,7 +215,7 @@ Much of what is known about these cancelled projects comes from fan community ef
 - [King's Quest Omnipedia – KQ9 History](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) - Comprehensive documentation of cancelled projects[^ref-1]
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Complete classic series (KQ1-8)[^ref-11]
 
-## Series Continuity
+## See Also
 
 King's Quest IX would have followed [[1998 - King's Quest - Mask of Eternity]], the eighth mainline entry. The Twins of Change project specifically reimagined Alexander and Rosella as protagonists, suggesting a return to the royal family focus after KQ8's departure with Connor.
 

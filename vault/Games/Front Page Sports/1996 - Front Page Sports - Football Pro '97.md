@@ -167,7 +167,7 @@ The series represented Sierra's most successful foray into sports gaming, with [
 - [Internet Archive - Patch Files](https://archive.org/details/FBP9711)[^ref-21]
 - [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/)[^ref-10]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1995 - Front Page Sports - Football Pro '96]]
 - **Next:** [[1997 - Front Page Sports - Football Pro '98]]

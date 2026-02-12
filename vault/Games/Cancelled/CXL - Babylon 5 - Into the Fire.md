@@ -199,7 +199,7 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 **Related Fan Games**
 - Babylon Project (FreeSpace mod/standalone) - Free alternative[^ref-7]
 
-## Series Continuity
+## See Also
 
 Into the Fire was intended as Sierra's sole Babylon 5 gaming venture, though the franchise had seen previous gaming adaptations from other publishers. The game was designed to be accessible to newcomers while providing authentic content for series devotees[^ref-3]. Its timeline placement between the main series and Crusade would have expanded the canonical story of the Babylon 5 universe.
 

@@ -244,7 +244,7 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 - [VPNFL99 Mod for FB Pro '98](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/)[^ref-19]
 - [Patch 1.01 for FPS Football Pro '95](https://archive.org/details/FBP9611)[^ref-16]
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Football launched what would become an annual franchise spanning from 1992 to 1999. The original game used fictional teams before the 1993 Pro version secured NFLPA licensing[^ref-1]. Each subsequent release added features, with Pro '95 introducing full NFL licensing, Pro '96 adding SVGA graphics and expansion teams, and Pro '97 incorporating motion capture animation[^ref-11][^ref-5].
 

@@ -179,7 +179,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 **Physical Retail**
 - [Walmart Canada](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – Limited availability[^ref-13]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2007 continues the annual release schedule established by Sierra Entertainment and maintained by Encore Software. The Hoyle Casino series sits alongside related Hoyle product lines including Hoyle Card Games and Hoyle Board Games, all sharing the trusted Hoyle brand name derived from Edmond Hoyle's authoritative gaming rule books[^ref-6]. The franchise spans multiple platforms beyond PC, with earlier releases appearing on Mac OS X, Dreamcast, and Game Boy Color[^ref-6].
 

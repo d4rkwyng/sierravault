@@ -210,7 +210,7 @@ While More After Dark never received the critical attention afforded to traditio
 - [Macintosh Repository](https://www.macintoshrepository.org/67-after-dark-more-after-dark)[^ref-3]
 - [MyAbandonware](https://www.myabandonware.com/game/more-after-dark-volume-1-saf)[^ref-7]
 
-## Series Continuity
+## See Also
 
 More After Dark was released as an expansion to the After Dark 2.0 screensaver system, adding 26 new modules including the notable Lunatic Fringe game. It existed within a broader ecosystem of After Dark products that included themed editions based on licensed properties and eventually led to the standalone After Dark Games compilation in 1998, published by Sierra On-Line.[^ref-11] The series demonstrated how utility software could evolve into entertainment products, with the After Dark brand remaining active through various compilations into the 2000s.[^ref-13]
 

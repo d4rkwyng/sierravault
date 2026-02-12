@@ -179,7 +179,7 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 **Manuals & Extras**
 - No digital manual currently documented
 
-## Series Continuity
+## See Also
 
 Hoyle Solitaire And Mahjong Tiles 2000 was released as part of Sierra's extensive Hoyle Series, which began in 1989 with Hoyle: Official Book of Games Volume 1[^ref-5]. The series has included numerous compilations of card games, board games, casino games, and word games over the years[^ref-5]. This title specifically focuses on solitaire variations and Mahjong tile games, combining two popular casual gaming genres into a single package[^ref-3].
 

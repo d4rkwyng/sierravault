@@ -155,7 +155,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [Internet Archive - Manual](https://archive.org/details/Police_Quest_4_-_Manual)[^ref-41]
 - [Internet Archive - Video Review](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
 
-## Series Continuity
+## See Also
 
 Police Quest: Open Season (also known as Police Quest 4) marked a major turning point for the series. Following original designer Jim Walls' departure, former LAPD Chief Daryl F. Gates took over as consultant and designer. The game moves the setting from the fictional Lytton, California to Los Angeles, and introduces a new protagonist, Detective John Carey, effectively rebooting the franchise.
 

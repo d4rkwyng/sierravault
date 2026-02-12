@@ -222,7 +222,7 @@ From a modern perspective, Cohort: Fighting for Rome serves as a historical arti
 
 The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10][^ref-11][^ref-12]
 
-## Series Continuity
+## See Also
 
 Cohort: Fighting for Rome established the Cohort series of Roman tactical warfare games from Impressions Games. The original title introduced the core concept of commanding Roman legions in real-time tactical battles, establishing the foundation that would be refined in the sequel.
 

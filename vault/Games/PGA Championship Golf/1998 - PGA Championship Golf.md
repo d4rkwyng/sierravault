@@ -254,7 +254,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 - [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html)[^ref-28]
 - [VOGONS Forum – Compatibility Discussion](https://www.vogons.org/viewtopic.php?t=63536)[^ref-16]
 
-## Series Continuity
+## See Also
 
 PGA Championship Golf 2000 is the third main entry in Sierra's PGA Championship Golf series, which evolved from the earlier Front Page Sports Golf franchise developed by Dynamix[^ref-20]. The series represented Sierra Sports' flagship golf simulation line, competing against EA Sports' PGA Tour franchise and Microsoft Golf.
 

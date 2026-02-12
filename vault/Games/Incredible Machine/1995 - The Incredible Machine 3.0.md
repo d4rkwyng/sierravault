@@ -219,7 +219,7 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 - [Internet Archive – Original DOS Manual](https://archive.org/details/the-incredible-machine-dos-manual)[^ref-17]
 - [Internet Archive – TIM 2 Manual](https://archive.org/details/Incredible_Machine_2_-_Manual)[^ref-10]
 
-## Series Continuity
+## See Also
 
 The Incredible Machine 3.0 represents the fourth major release in the long-running puzzle franchise. It built directly upon The Incredible Machine 2, sharing the same level set but featuring an improved interface that enhanced usability[^ref-2]. The series continued to evolve through multiple entries spanning DOS, Windows, console platforms, and eventually mobile devices including iOS[^ref-2].
 

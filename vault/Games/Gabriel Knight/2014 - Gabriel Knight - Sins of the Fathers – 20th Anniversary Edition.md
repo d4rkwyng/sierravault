@@ -248,7 +248,7 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 **Technical Resources**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_-_20th_Anniversary_Edition) – Technical fixes and compatibility information
 
-## Series Continuity
+## See Also
 
 The Gabriel Knight series follows the supernatural investigations of its titular protagonist across three installments, each employing different graphical technologies and settings while maintaining narrative continuity. Sins of the Fathers establishes Gabriel's transformation from struggling author to Schattenjäger, a legacy he inherits from his deceased uncle Wolfgang[^ref-34]. The game introduces key characters including Grace Nakimura and Detective Mosely who return throughout the series, while the voodoo mythology and New Orleans setting provide foundation for Gabriel's ongoing battle against supernatural evil.
 

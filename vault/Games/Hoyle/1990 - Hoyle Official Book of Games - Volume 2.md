@@ -210,7 +210,7 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-16v) - DOS version[^ref-10]
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) - Preservation copy[^ref-9]
 
-## Series Continuity
+## See Also
 
 Hoyle Official Book of Games Volume 2: Solitaire was the second entry in Sierra's Hoyle gaming series. While the first volume featured multiplayer card games with Sierra adventure characters as opponents, Volume 2 shifted focus entirely to single-player solitaire variants [^ref-2]. This established a pattern where subsequent Hoyle volumes would specialize in particular game types rather than mixing formats.
 

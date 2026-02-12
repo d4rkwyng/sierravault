@@ -222,7 +222,7 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 **Related Resources**
 - [Red Baron Game Official Site](https://www.redbarongame.com/) - Remake project page (historical)[^ref-7]
 
-## Series Continuity
+## See Also
 
 The Red Baron 2013 Remake was intended to revive a franchise that began with the groundbreaking 1990 original and continued through Red Baron II/3D in 1997-1998[^ref-14]. The original game was the first installment in Dynamix's "Great Warplanes Series"[^ref-4] and established a template for WWI flight simulation that remained influential for decades.
 

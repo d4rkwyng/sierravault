@@ -241,7 +241,7 @@ Modern players typically approach the game "more out of historical interest than
 - Steam (not listed)[^ref-23]
 - GOG.com (not listed)
 
-## Series Continuity
+## See Also
 
 Emmanuelle represents the first entry in what gaming historians have identified as "a loose trilogy of unconnected erotic games by Muriel Tramis."[^ref-9] While these games share a designer and adult themes, they feature completely separate storylines, characters, and settings. The trilogy demonstrates Coktel Vision's ongoing experimentation with adult content throughout the late 1980s and early 1990s, with each subsequent entry showing improved game design sensibilities.
 

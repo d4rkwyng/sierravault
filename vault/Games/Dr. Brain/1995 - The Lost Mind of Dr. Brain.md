@@ -205,7 +205,7 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 **Manuals & Extras**
 - [UHS Hint Guide](https://www.uhs-hints.com/uhsweb/drbrain3.php)
 
-## Series Continuity
+## See Also
 
 The Lost Mind of Dr. Brain is the third game in the Dr. Brain educational puzzle series, following Castle of Dr. Brain (1991) and The Island of Dr. Brain (1992). This installment marked a significant shift in both development and design philosophy—while the first two games were developed internally at Sierra using the SCI1 engine, The Lost Mind was the first entry developed by Bright Star Technology using the upgraded SCI2 engine.[^ref-3][^ref-21]
 

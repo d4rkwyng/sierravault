@@ -241,7 +241,7 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 - [Xeen Music – Trophy Bass Official Soundtrack](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – Archival soundtrack release[^ref-16]
 - [Zophar's Domain – Trophy Bass Music](https://www.zophar.net/music/windows/trophy-bass) – Game music files[^ref-30]
 
-## Series Continuity
+## See Also
 
 Trophy Bass launched what would become one of Sierra's most commercially successful sports simulation franchises, spanning multiple sequels throughout the late 1990s and into the 2000s. While the original game featured overhead perspective fishing, later entries would evolve to include full 3D graphics, expanded lake selections, and increasingly sophisticated multiplayer options.[^ref-27]
 

@@ -224,7 +224,7 @@ The series would continue under different developers, with Knowledge Adventure e
 **Soundtrack**
 - [Xeen Music – SC-55 Soundtrack](https://xeenmusic.bandcamp.com/album/island-of-dr-brain-soundtrack-sc-55)[^ref-28]
 
-## Series Continuity
+## See Also
 
 The Island of Dr. Brain is the second game in the Dr. Brain series, following the successful Castle of Dr. Brain (1991) and preceding The Lost Mind of Dr. Brain (1995).[^ref-1] While the gameplay formula remained consistent—educational puzzles framed within an adventure game structure—this entry marked a transition point for the series.
 

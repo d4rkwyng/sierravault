@@ -162,7 +162,7 @@ This game has been included in the following collections:
 - [Sierra Help – Space Quest II](https://sierrahelp.com/Games/SpaceQuest/SQ2Help.html) – technical help, DOSBox tips[^ref-23]
 - [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – guides, FAQs, user ratings[^ref-22]
 
-## Series Continuity
+## See Also
 - Previous: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]]
 - Next: [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]]
 

@@ -127,7 +127,7 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 - [Internet Archive - Lords of the Realm II: Siege Pack](https://archive.org/details/LordsoftheRealmIISiegePack_1020)
 - [MyAbandonware - Lords of the Realm II: Siege Pack](https://www.myabandonware.com/game/lords-of-the-realm-ii-siege-pack-bdd)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Lords of the Realm II]] (1996)
 - **Next:** Lords of the Realm III (2004)

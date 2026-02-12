@@ -160,7 +160,7 @@ The game's significance lies primarily in its position within the Hoyle franchis
 - [My Abandonware – Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – 1997 predecessor preserved[^ref-11]
 - [GameArchives – Hoyle Poker Series](https://gamearchives.net/hoyle-poker-series/) – Game information and archive[^ref-8]
 
-## Series Continuity
+## See Also
 
 Hoyle Texas Hold 'Em 2005 exists within the extensive Hoyle gaming franchise, which encompasses card games, casino simulations, and board game collections dating back to 1996[^ref-4]. The game drew upon Sierra's earlier 'Hoyle Poker' from 1997 while establishing mechanics that would influence the later Hoyle Poker Series[^ref-2]. The franchise continued under Encore's publication through 2016 with the Hoyle Official Casino Games Collection[^ref-4].
 

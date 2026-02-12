@@ -155,7 +155,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 - [MyAbandonware](https://www.myabandonware.com/game/ecoquest-the-search-for-cetus-1ra)
 - [Internet Archive](https://archive.org/details/eco-quest-1-the-search-for-cetus)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (First in series)
 - **Next:** [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] (1993)

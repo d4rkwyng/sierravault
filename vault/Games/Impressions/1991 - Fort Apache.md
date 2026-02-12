@@ -170,7 +170,7 @@ The game's mixed reception reflects the tensions between promising premises and 
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=424)
 - [Atari Legend](https://www.atarilegend.com/games/fort-apache)
 
-## Series Continuity
+## See Also
 
 Fort Apache was the third game in Impressions' Micro Miniatures series of accessible turn-based strategy games[^ref-2][^ref-5][^ref-20]. Each entry in the series used a similar gameplay engine and mechanics while exploring different historical military conflicts[^ref-7][^ref-8]. The series was characterized by its streamlined approach to tactical combat, making it more accessible than complex wargames of the era[^ref-2][^ref-9].
 

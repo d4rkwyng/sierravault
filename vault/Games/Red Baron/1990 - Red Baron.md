@@ -248,7 +248,7 @@ Red Baron also represented an important step in the maturation of flight simulat
 **Manuals & Extras**
 - [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt)
 
-## Series Continuity
+## See Also
 
 Red Baron launched one of the most respected flight simulation franchises of the 1990s. The original game established the core formula—historically accurate WWI aerial combat with an engaging career system—that would be refined in subsequent releases. The Mission Builder expansion (1992) added user-created content capabilities, extending the game's replay value significantly.
 

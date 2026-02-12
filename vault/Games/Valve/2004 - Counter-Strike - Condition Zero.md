@@ -319,7 +319,7 @@ For its era, the bot AI represented a genuine technical achievement that would i
 **Manuals & Extras**
 - [Prima Official eGuide (Internet Archive)](https://archive.org/details/Counter_Strike_Condition_Zero_Prima_Official_eGuide)
 
-## Series Continuity
+## See Also
 
 Counter-Strike: Condition Zero represents the franchise's only venture into dedicated single-player gaming, bridging the gap between the original Counter-Strike multiplayer experience and later iterations. While the Counter-Strike series would continue with Counter-Strike: Source (2004) and Counter-Strike: Global Offensive (2012), neither would revisit the single-player format, making Condition Zero a unique entry in the franchise's history.
 

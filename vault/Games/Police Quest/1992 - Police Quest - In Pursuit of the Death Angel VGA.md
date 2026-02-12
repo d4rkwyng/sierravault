@@ -270,7 +270,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 - [ClassicReload.com](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) – Online emulation
 - [RetroGames.cz](https://www.retrogames.cz/play_757-DOS.php) – Online emulation
 
-## Series Continuity
+## See Also
 
 The VGA remake serves as an updated entry point to the Police Quest series, introducing players to Sonny Bonds and the fictional city of Lytton that would serve as the setting for the first three games. The remake maintains continuity with the sequel Police Quest II: The Vengeance, though some character changes (notably the replacement of bartender Woody Roberts) create minor inconsistencies.[^ref-2]
 

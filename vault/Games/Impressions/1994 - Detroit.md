@@ -220,7 +220,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 **Manuals & Extras**
 - [Amiga Manual (Lemon Amiga)](https://www.lemonamiga.com/games/docs.php?id=467)
 
-## Series Continuity
+## See Also
 
 Detroit is a standalone title with no direct sequels or prequels. However, it shares design philosophy with other Impressions Games business simulations, particularly Air Bucks, which applied similar management mechanics to the airline industry.[^ref-5]
 

@@ -121,7 +121,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 - [MyAbandonware](https://www.myabandonware.com/game/thexder-dk)
 - [Internet Archive](https://archive.org/details/msdos_Thexder_1987)
 
-## Series Continuity
+## See Also
 
 - **Next:** [[1989 - Fire Hawk - Thexder - The Second Contact]]
 

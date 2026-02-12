@@ -185,7 +185,7 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [MobyGames](https://www.mobygames.com/game/122956/stunt-flyer/)[^ref-1]
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
 
-## Series Continuity
+## See Also
 
 Stunt Flyer was a standalone title and was not part of any ongoing series. It represents Sierra On-Line's single foray into the aerobatic simulation genre during their 1985 publishing period. The game has no direct predecessors or sequels, though it exists alongside other Sierra flight-related titles of the era.
 

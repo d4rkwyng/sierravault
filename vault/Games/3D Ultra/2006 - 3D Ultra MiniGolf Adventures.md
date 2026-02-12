@@ -210,7 +210,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 **Community**
 - [Steam Community Hub](https://steamcommunity.com/app/10140) - Discussions, screenshots, and user content
 
-## Series Continuity
+## See Also
 
 3D Ultra Minigolf Adventures is the third entry in Sierra's 3D Ultra Minigolf series, following nearly a decade after the original games developed by Dynamix.[^ref-2] The original 3D Ultra Minigolf was released in May 1997 with 18 holes, followed by 3D Ultra Minigolf Deluxe in July 1998 which added nine new holes to the original eighteen and introduced online multiplayer.[^ref-2] 
 

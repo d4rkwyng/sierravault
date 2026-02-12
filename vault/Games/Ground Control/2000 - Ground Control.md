@@ -249,7 +249,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 **Manuals & Extras**
 - [Manual PDF - Internet Archive](https://archive.org/details/manual_Ground_Control)
 
-## Series Continuity
+## See Also
 
 Ground Control established a universe that would span multiple games and centuries of in-game time. The original game's conflict between the Crayven Corporation and Order of the New Dawn on Krig-7B is just the beginning of a larger saga. The Dark Conspiracy expansion continues immediately after the base game, following Major Parker's desperate escape from the planet with help from the Phoenix Mercenaries.
 

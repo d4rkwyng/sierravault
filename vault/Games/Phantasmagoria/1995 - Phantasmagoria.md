@@ -283,7 +283,7 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 **Manuals & Extras**
 - [Manual PDF at Internet Archive](https://archive.org/details/Phantasmagoria_-_Manual) - Original game manual
 
-## Series Continuity
+## See Also
 
 Phantasmagoria was Roberta Williams' sixteenth adventure game and represented a complete departure from her previous work on the King's Quest series[^ref-6]. While not connected to any of Williams' prior games narratively, it established Sierra's willingness to pursue mature-rated content for adult audiences.
 

@@ -193,7 +193,7 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 **Manuals & Extras**
 - Original documentation included with game
 
-## Series Continuity
+## See Also
 
 Hoyle Official Book of Games Volume 3 was the third entry in Sierra's series of traditional game compilations. While each volume stood alone as a complete product, they shared the same engine technology, character interaction systems, and design philosophy. The series established a template for quality computer implementations of classic games that Sierra would continue to refine through subsequent releases spanning over a decade of development.
 

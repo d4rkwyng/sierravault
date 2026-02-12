@@ -184,7 +184,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 **Manuals & Extras**
 - Original documentation included with Sunnyside Soft zip-lock packaging
 
-## Series Continuity
+## See Also
 
 Bop-A-Bet was part of Sierra's Hi-Res Learning educational software series, which Sierra developed and acquired during the early 1980s.[^ref-3] The game represents Al Lowe's second title under the Sunnyside Soft label before the company was acquired by Sierra On-Line.
 

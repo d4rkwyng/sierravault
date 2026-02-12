@@ -202,7 +202,7 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 **Download / Preservation**
 - [Internet Archive – Pro Pilot USA](https://archive.org/details/pro-pilot-usa)[^ref-1]
 
-## Series Continuity
+## See Also
 
 Pro Pilot USA is the second entry in Sierra's Pro Pilot civilian flight simulation series, positioned between Pro Pilot '98 and Pro Pilot '99[^ref-1][^ref-3]. The series was developed by Dynamix with support from subLOGIC's geographical databases acquired by Sierra in 1993[^ref-2][^ref-4].
 

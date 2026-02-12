@@ -132,7 +132,7 @@ The franchise has experienced renewed interest in recent years, with independent
 
 Fan communities continue to create content inspired by The Colonel's Bequest, including HD graphics patches and technical modifications[^ref-52]. Speedrunning communities maintain active leaderboards for optimal completion routes[^ref-53], while preservation efforts ensure the game remains accessible through modern platforms[^ref-12]. The game's influence on interactive storytelling continues to be recognized by modern developers creating similar atmospheric mystery games[^ref-54].
 
-## Series Continuity
+## See Also
 
 |  | **Laura Bow Series** |  |
 |:---:|:---:|:---:|

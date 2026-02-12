@@ -224,7 +224,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 
 **Note:** Due to compatibility issues, the game requires emulation (not virtualization) to run properly on modern systems[^ref-5][^ref-12].
 
-## Series Continuity
+## See Also
 
 Adiboo: Magical Playland, originally released as Adibou 2 in France, represents the second major entry in the Adibou/Adiboo franchise[^ref-4]. The series continued with expansion content, with five expansion disks released for the base game between 1996 and 1999[^ref-5]. Related Adiboo products include "ADIBOU présente la Magie" (2000) for Windows and Macintosh platforms[^ref-13]. The franchise featured Adiboo as an educational guide character across multiple titles targeting young children with age-appropriate learning content.
 

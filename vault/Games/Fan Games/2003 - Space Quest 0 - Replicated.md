@@ -206,7 +206,7 @@ The game also represents an important artifact of early 2000s fan game developme
 **Fan Sites**
 - [Jess Morrissette's Space Quest 0 Page](https://www.wiw.org/~jess/replicated.html) - Includes v1.04 download[^ref-15]
 
-## Series Continuity
+## See Also
 
 Space Quest 0: Replicated positions itself as a prequel to the entire official Space Quest series, with its storyline occurring before the events of Space Quest: The Sarien Encounter (1986).[^ref-21] The fan community has placed the game's events at roughly "year 0" in their timeline—described as potentially corresponding to "1 A.D." in the series' fictional chronology, occurring "long before the other games in the series."[^ref-4]
 

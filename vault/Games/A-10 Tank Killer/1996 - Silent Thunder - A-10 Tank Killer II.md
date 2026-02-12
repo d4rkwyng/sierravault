@@ -235,7 +235,7 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 - [Internet Archive - Multiple Versions](https://archive.org/details/a-10-tank-killer-2-silent-thunder)
 - Version 1.01 patch available through preservation sites[^ref-10]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1989 - A-10 Tank Killer]]
 - **Next:** No direct sequel produced

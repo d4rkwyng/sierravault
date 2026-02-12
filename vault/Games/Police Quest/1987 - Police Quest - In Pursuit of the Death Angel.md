@@ -145,7 +145,7 @@ The game's commitment to procedural accuracy created a template for serious game
 - [Internet Archive - Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual)[^ref-8]
 - [Internet Archive - Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt)[^ref-25]
 
-## Series Continuity
+## See Also
 
 Police Quest: In Pursuit of the Death Angel is the first entry in the Police Quest series, introducing players to Officer Sonny Bonds and the fictional city of Lytton, California. The game's events lead directly into [[1988 - Police Quest II - The Vengeance]], where the antagonist Jesse Bains (the "Death Angel") escapes custody to seek revenge against Bonds.
 

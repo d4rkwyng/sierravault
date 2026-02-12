@@ -201,7 +201,7 @@ The broader significance of educational software like Learning with Leeper was r
 **Manuals & Extras**
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
 
-## Series Continuity
+## See Also
 
 Learning with Leeper served as the foundation for Sierra's "Leeper" educational game line. The character's origin in the arcade game Lunar Leeper provided brand recognition, while the educational reimagining proved successful enough to warrant expansion of the franchise[^ref-2][^ref-3].
 

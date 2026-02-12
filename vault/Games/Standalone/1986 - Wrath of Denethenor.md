@@ -216,7 +216,7 @@ From a modern perspective, the game serves as an important data point in underst
 **Developer Resources**
 - [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
 
-## Series Continuity
+## See Also
 
 Wrath of Denethenor is a standalone title with no prequels or sequels. While the game's ending hints at potential continuation, Christopher Crim never developed a follow-up.[^ref-3] The game represents a self-contained adventure in the world of Deledain, offering complete closure to its narrative without requiring additional installments.
 

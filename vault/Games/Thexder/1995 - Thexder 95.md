@@ -211,7 +211,7 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 **Technical Resources**
 - [PCGamingWiki – Thexder](https://www.pcgamingwiki.com/wiki/Thexder)[^ref-28]
 
-## Series Continuity
+## See Also
 
 Thexder 95 occupies an unusual position in the franchise as a Western-developed remake rather than a true sequel. The original Thexder (1985) established the transforming robot concept that would define the series, while Fire Hawk: Thexder the Second Contact (1989) served as the canonical Japanese sequel[^ref-37][^ref-38]. Thexder 95 attempted to reintroduce the franchise to Western audiences on the emerging Windows 95 platform but failed to match either the original's commercial success or critical acclaim[^ref-2].
 

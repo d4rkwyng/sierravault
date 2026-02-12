@@ -198,7 +198,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Full credits and information
 - [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data
 
-## Series Continuity
+## See Also
 
 Hoyle Kids Games 2000 was part of Sierra's extensive Hoyle game series, which began in 1989 with Hoyle's Official Book of Games.[^ref-3] The series was known for bringing quality versions of classic card and board games to home computers. This title specifically targeted younger audiences while maintaining the series' reputation for polished presentation and multiplayer support.[^ref-1]
 

@@ -252,7 +252,7 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 - [Bitpatch.com](http://bitpatch.com/cybergladiators.html) – Timing bug hex-edit fixes[^ref-20]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/CyberGladiators) – Technical troubleshooting[^ref-6]
 
-## Series Continuity
+## See Also
 
 CyberGladiators was released as part of Sierra's K.A.A. (Kicks A** Action) game line, a short-lived brand created to distinguish Sierra's action titles from their adventure game catalog[^ref-7]. The K.A.A. series represented Dynamix's contribution to Sierra's expanding portfolio during the mid-1990s diversification period. While only two games were released under the K.A.A. banner, the line demonstrated Sierra's willingness to experiment with different genres during the Windows 95 transition era[^ref-3].
 

@@ -106,7 +106,7 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 **Download / Preservation**
 - Not available on preservation sites (commercial release)
 
-## Series Continuity
+## See Also
 
 - **Prequel:** [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] (In Development)
 - **Sequel:** None announced

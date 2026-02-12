@@ -217,7 +217,7 @@ From a design perspective, the game's innovation of eliminating typing requireme
 **Manuals & Extras**
 - [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
 
-## Series Continuity
+## See Also
 
 *Winnie the Pooh in the Hundred Acre Wood* was the second title in Sierra's short-lived Disney edutainment partnership, following *Mickey's Space Adventure* (1984).[^ref-2] The games shared a design philosophy of making licensed characters accessible to young children through simplified interfaces while maintaining educational value. Sierra would continue to produce Disney-licensed titles through the mid-1980s, though the partnership was ultimately described as an "unproductive side trip" by Sierra developers.[^ref-19]
 

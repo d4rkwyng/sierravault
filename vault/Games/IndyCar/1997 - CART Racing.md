@@ -238,7 +238,7 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 **Community Resources**
 - [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – Fan community with patches, mods, and support[^ref-2]
 
-## Series Continuity
+## See Also
 
 CART Racing is the rebranded continuation of the IndyCar Racing series developed by Papyrus. The series began with Indianapolis 500: The Simulation in 1989, considered by many to be the first true racing simulation[^ref-15]. IndyCar Racing followed in 1993, expanding the scope to include the full CART series[^ref-16]. IndyCar Racing II (1996) introduced significant improvements including enhanced AI and SVGA graphics, before being rebranded as CART Racing in 1997 due to licensing changes[^ref-11].
 

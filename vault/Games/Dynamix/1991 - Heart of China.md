@@ -232,7 +232,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 **Manuals & Extras**
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
 
-## Series Continuity
+## See Also
 
 Heart of China is part of an informal trilogy of adventure games created by Jeff Tunnell's team at Dynamix using the Dynamix Game Development System. While not a direct narrative sequel to any game, it shares engine technology, design philosophy, and development staff with Rise of the Dragon (1990) and The Adventures of Willy Beamish (1991)[^ref-7].
 

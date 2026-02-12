@@ -253,7 +253,7 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 **Manuals & Extras**
 - [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual)
 
-## Series Continuity
+## See Also
 
 Red Baron: Mission Builder serves as an expansion to the original Red Baron (1990), extending the base game's content rather than advancing a narrative timeline. The expansion introduced new aircraft, historical aces, and most importantly, the mission creation tools that allowed players to craft their own WWI aerial combat scenarios[^ref-2].
 

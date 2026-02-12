@@ -195,7 +195,7 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 - [GOG – Gabriel Knight Series](https://www.gog.com/game/gabriel_knight_sins_of_the_fathers) – Original games available
 - [Steam – Gabriel Knight Series](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) – Anniversary edition
 
-## Series Continuity
+## See Also
 
 Gabriel Knight 4: Five Hearts would continue the supernatural mystery saga that began with Gabriel Knight: Sins of the Fathers in 1993.[^ref-1] The series follows Gabriel Knight, a struggling New Orleans novelist who discovers he is the last in a line of Schattenjäger—Shadow Hunters who combat supernatural evil.[^ref-6] Across three games, Gabriel and his research assistant Grace Nakimura have investigated voodoo cults in Louisiana, werewolves in Bavaria, and the mysteries of Rennes-le-Château in France.[^ref-1]
 

@@ -178,7 +178,7 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 **Preservation**
 - [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demonstration version[^ref-8]
 
-## Series Continuity
+## See Also
 
 The Silver Lining exists as an unofficial fan continuation of the King's Quest series, created with love by dedicated fans who wanted to see King Graham's adventures continue after Sierra ceased development on the franchise.[^ref-1] The game is set after the events of the official King's Quest series and incorporates characters, locations, and plot elements from across the franchise, particularly drawing on King's Quest III, IV, and VI.[^ref-1] While not considered canon to the official series, The Silver Lining represents an important piece of King's Quest fan culture and demonstrates the lasting impact of Roberta Williams' adventure game designs on players who grew up with the series.[^ref-3]
 

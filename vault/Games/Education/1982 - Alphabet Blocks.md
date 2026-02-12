@@ -231,7 +231,7 @@ The emphasis on accessibility—allowing children as young as three to use the s
 
 The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 
-## Series Continuity
+## See Also
 
 Alphabet Blocks was part of multiple interconnected series from Sierra and Bright Star Technology. Within the Sierra Discovery Series, it joined other educational titles targeting various age groups and subject areas[^ref-13]. As part of the Bananas & Jack series, it established the two coach characters who would return in the sequel "Ready, Set, Read With Bananas and Jack"[^ref-5].
 

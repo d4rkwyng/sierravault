@@ -243,7 +243,7 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 **Patches & Updates**
 - [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official patches 1.02 and 1.3
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Football Pro '95 was the third entry in [[Dynamix]]'s football simulation series, following the critically acclaimed Front Page Sports: Football Pro (1993)[^ref-1]. The series had begun with the original Front Page Sports Football in 1992[^ref-6], which established the franchise's reputation for depth and realism.
 

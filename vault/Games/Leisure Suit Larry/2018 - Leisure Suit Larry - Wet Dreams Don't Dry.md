@@ -119,7 +119,7 @@ The title sparked discussions about updating classic gaming franchises for moder
 - Game soundtrack archived at [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-don-t-dry-soundtrack-2018)[^ref-29]
 - Technical documentation available at [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry)[^ref-26]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry: Wet Dreams Don't Dry marks Larry Laffer's triumphant return as the series protagonist after the Larry Lovage spinoffs. The game follows the classic adventure game format, with Larry mysteriously transported from the late 1980s to the modern day, providing fish-out-of-water humor as he navigates dating apps and social media.
 

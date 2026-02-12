@@ -246,7 +246,7 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 **Manuals & Extras**
 - [Official Press Kit](https://colossalcave3d.com/press/)
 
-## Series Continuity
+## See Also
 
 Colossal Cave 3D Adventure is a standalone remake of the 1976 original rather than part of an ongoing series. However, its significance to Sierra On-Line's history cannot be overstated. Playing the original Colossal Cave Adventure inspired Roberta Williams to create Mystery House (1980), which became the first graphical adventure game and launched Sierra On-Line[^ref-7]. This lineage makes Colossal Cave the spiritual predecessor to the entire Sierra adventure game catalog, including the King's Quest, Space Quest, Leisure Suit Larry, and Gabriel Knight series.
 

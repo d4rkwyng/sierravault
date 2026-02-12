@@ -253,7 +253,7 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 **Software Distribution**
 - [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/)[^ref-12]
 
-## Series Continuity
+## See Also
 
 Hoyle Official Casino Games Collection represents the final entry in the Hoyle Casino video game series, which spanned two decades from 1996 to 2016. The series transitioned from Sierra Entertainment's development (1996-2003) to Encore's stewardship (2005-2016), with the brand eventually being retired following the poor reception of this final release[^ref-1].
 

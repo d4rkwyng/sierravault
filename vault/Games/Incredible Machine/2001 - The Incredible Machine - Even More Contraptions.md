@@ -265,7 +265,7 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 **Manuals & Extras**
 - Manual included with GOG.com Mega Pack (37 pages)[^ref-32]
 
-## Series Continuity
+## See Also
 
 The Incredible Machine: Even More Contraptions serves as the eighth and final entry in The Incredible Machine series, directly building upon Return of the Incredible Machine: Contraptions released the previous year.[^ref-4] While it shares 50 tutorial puzzles with its predecessor, all other content was newly created for this release, making it function as both an expansion and standalone product.[^ref-11]
 

@@ -180,7 +180,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/gray-matter)[^ref-43]
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (standalone title)
 - **Next:** None (no sequels produced despite Jensen's original plans)

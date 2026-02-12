@@ -114,7 +114,7 @@ The Special Edition release in 2000 attempted to address many of the original ga
 - [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp)
 - [Internet Archive](https://archive.org/details/lordsofmagicusaspecialeditionrerelease)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Lords of the Realm II]]
 - **Next:** None (end of series)

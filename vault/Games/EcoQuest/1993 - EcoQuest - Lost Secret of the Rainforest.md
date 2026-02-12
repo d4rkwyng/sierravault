@@ -212,7 +212,7 @@ The game's emphasis on consequences for environmental destruction—whether thro
 **Manuals & Extras**
 - [Abandonware DOS – Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=ecoquest2solution.txt&st=walkthrough&sg=EcoQuest+2:+Lost+Secret+of+the+Rainforest&idg=2594)[^ref-8]
 
-## Series Continuity
+## See Also
 
 *Lost Secret of the Rainforest* is the second and final game in the EcoQuest series, and also part of the broader Sierra Discovery Series of educational titles.[^ref-7] While maintaining the protagonist Adam Greene and his father Noah from the original game, the sequel shifts the setting entirely from underwater environments to the South American rainforest. Adam retains his ability to communicate with animals—a power established in the first game—but now applies it to rainforest creatures rather than marine life.[^ref-6]
 

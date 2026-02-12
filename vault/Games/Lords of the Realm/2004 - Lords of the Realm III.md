@@ -117,7 +117,7 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/lords-of-the-realm-3_202204)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - Lords of the Realm II]] (1996)
 - **Next:** None (series concluded)

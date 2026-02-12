@@ -321,7 +321,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 - [Quick Reference Card PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (277 KB)
 - [Map PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (253 KB)
 
-## Series Continuity
+## See Also
 
 Arcanum: Of Steamworks & Magick Obscura was intended as the first entry in a franchise, but remained a standalone title after Troika Games closed in 2005. The planned sequel "Journey to the Centre of Arcanum" never progressed beyond the concept phase.[^ref-25] The game exists as a singular achievement—an ambitious fusion of fantasy and steampunk that, despite its flaws, created a world rich enough to support the extensive lore found in its libraries, newspapers, and legends.
 

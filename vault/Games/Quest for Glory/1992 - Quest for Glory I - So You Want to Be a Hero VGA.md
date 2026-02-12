@@ -325,7 +325,7 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 - ScummVM or DOSBox recommended for modern systems[^ref-16]
 - DOSBox cycles: 10,000 recommended; EMS=false prevents crashes[^ref-44]
 
-## Series Continuity
+## See Also
 
 Quest for Glory I: So You Want to Be a Hero establishes the foundation for one of gaming's most beloved series. The game introduces the player character as a novice adventurer, setting the stage for a journey that would span five games across different cultural settings—Germanic mythology (QfG I), Arabian Nights (QfG II), African savanna (QfG III), Slavic folklore (QfG IV), and Greek mythology (QfG V)[^ref-6].
 

@@ -216,7 +216,7 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 **Technical Resources**
 - [WHDLoad](https://www.whdload.de/games/Discovery.html) – Amiga hard drive installation[^ref-16]
 
-## Series Continuity
+## See Also
 
 Discovery: In the Steps of Columbus is a standalone title and not part of an ongoing series. While Impressions would go on to develop numerous historical strategy games including the Caesar and Lords of the Realm series, Discovery did not receive any sequels or direct follow-ups.
 

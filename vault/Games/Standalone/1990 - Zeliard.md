@@ -247,7 +247,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [KHInsider – MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987)[^ref-34]
 - [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
 
-## Series Continuity
+## See Also
 
 Zeliard is a standalone title with no direct sequels or prequels. While Game Arts continued developing games including the successful Lunar and Grandia RPG series, they never returned to the Zeliard universe despite fan interest[^ref-32]. The game exists as part of Sierra's broader catalog of licensed Japanese titles from the late 1980s and early 1990s, alongside other Game Arts ports like Thexder and Silpheed[^ref-6].
 

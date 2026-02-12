@@ -310,7 +310,7 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Half-Life:_Opposing_Force)
 - [GitHub – SDK Updated Repository](https://github.com/twhl-community/halflife-op4-updated)
 
-## Series Continuity
+## See Also
 
 Half-Life: Opposing Force exists as a parallel narrative to the original Half-Life, showing the same events from a military perspective. While Gordon Freeman fights through Black Mesa as a scientist caught in the disaster, Corporal Shephard experiences the same catastrophe as one of the soldiers sent to contain it. The two protagonists briefly cross paths but never directly interact, with the G-Man ultimately placing both in stasis for different purposes[^ref-9].
 

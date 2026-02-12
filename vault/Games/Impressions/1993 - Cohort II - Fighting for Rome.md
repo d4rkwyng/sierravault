@@ -196,7 +196,7 @@ The game's most significant contribution to gaming history may be its innovative
 - [Internet Archive](https://archive.org/details/msdos_Cohort_2_1993) - Browser playable version[^ref-2]
 - [MyAbandonware](https://www.myabandonware.com/game/cohort-ii-1ll) - DOS and Amiga versions[^ref-3]
 
-## Series Continuity
+## See Also
 
 Cohort II is the second and final entry in the Cohort series, following the original Cohort: Fighting for Rome released in 1991[^ref-10]. Both games share the "Fighting for Rome" subtitle and focus on tactical Roman-era combat[^ref-1]. The sequel represented a significant technical upgrade over its predecessor, particularly in graphics quality, while maintaining the same fundamental gameplay structure[^ref-15].
 

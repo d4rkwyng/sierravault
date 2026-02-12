@@ -204,7 +204,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 **Manuals & Extras**
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=demos) - 10.4 MB demo download
 
-## Series Continuity
+## See Also
 
 Head Rush exists as a teen-focused spin-off within the broader *You Don't Know Jack* franchise[^ref-1]. While it shares gameplay mechanics and format with the main series, its content was developed specifically for younger audiences, distinguishing it from the numbered entries[^ref-5]. The game emerged following *You Don't Know Jack: Volume 4: The Ride*, with which it was occasionally bundled[^ref-2].
 

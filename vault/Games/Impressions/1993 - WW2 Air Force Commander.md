@@ -214,7 +214,7 @@ The game's historical significance lies primarily in documenting the evolution o
 - [Play Old Games](https://playold.games/play-game/ww2-air-force-commander/) - Browser emulation[^ref-4]
 - [Classic Reload](https://classicreload.com/ww2-air-force-commander.html) - Online play[^ref-14]
 
-## Series Continuity
+## See Also
 
 WW2 Air Force Commander is the second entry in Impressions Games' Air Force Commander series. While the original Air Force Commander (1992) focused on modern-day Middle Eastern conflict scenarios with detailed geopolitical situations[^ref-9][^ref-11], the WW2 sequel shifted the setting to the more universally recognized World War II theater[^ref-3].
 

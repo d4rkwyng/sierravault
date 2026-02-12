@@ -192,7 +192,7 @@ The game's design choices, including the significantly higher difficulty with on
 - [Sierra Chest – Box Art](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box)[^ref-6]
 - [LaunchBox Games Database – Images](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge)[^ref-13]
 
-## Series Continuity
+## See Also
 
 Stellar 7: Draxon's Revenge is the fourth game in the Stellar 7 series and serves as both a sequel to and remake of the 1990 Stellar 7 remake.[^ref-2] The series began with Damon Slye's original 1983 Apple II/Commodore 64 game, which was inspired by the arcade classic Battlezone.[^ref-3] The franchise explored the ongoing conflict between humanity and Gir Draxon's Arcturan Empire across multiple entries.
 

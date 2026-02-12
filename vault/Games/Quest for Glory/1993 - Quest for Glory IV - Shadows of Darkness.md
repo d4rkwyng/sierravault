@@ -222,7 +222,7 @@ This game has been included in the following collections:
 - [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series overview
 - [StrategyWiki – Quest for Glory IV](https://strategywiki.org/wiki/Quest_for_Glory_IV) – game guide
 
-## Series Continuity
+## See Also
 - Previous: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - Next: [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]]
 

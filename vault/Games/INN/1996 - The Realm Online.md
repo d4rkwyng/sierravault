@@ -238,7 +238,7 @@ The game also represents an important cautionary tale about the challenges of de
 - [MobyGames – The Realm](https://www.mobygames.com/game/4363/the-realm/) - Game database entry[^ref-4]
 - [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) - Comprehensive article[^ref-1]
 
-## Series Continuity
+## See Also
 
 The Realm Online stands as a standalone title rather than part of a continuing franchise. While Sierra had considered branding it as "World of Quest for Glory" to connect it with their popular adventure game series, this plan was abandoned when the development team admitted they lacked the tools to create proper quests.[^ref-13] The game therefore launched and has continued as an independent property.
 

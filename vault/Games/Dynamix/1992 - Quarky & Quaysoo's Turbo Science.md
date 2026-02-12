@@ -219,7 +219,7 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [GOG Dreamlist](https://www.gog.com/dreamlist) – Community request for re-release (264 votes)
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
-## Series Continuity
+## See Also
 
 Quarky & Quaysoo's Turbo Science was developed as part of Sierra's Discovery Series, a lineup of educational games published between 1991 and 1993.[^ref-17] The game was also connected to a "Turbo Learning" series that included Turbo Learning: Mega Math, suggesting a planned franchise of educational titles using the "Turbo" branding.[^ref-16]
 

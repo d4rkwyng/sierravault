@@ -310,7 +310,7 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 **Demos & Trials**
 - Free 60-minute trial available through official channels[^ref-7]
 
-## Series Continuity
+## See Also
 
 Al Emmo and the Lost Dutchman's Mine stands as a standalone adventure, though its setting and characters were designed with potential sequels in mind. The game establishes the fictional town of Anozira and its colorful inhabitants as a distinctive world ripe for further exploration.
 

@@ -128,7 +128,7 @@ The community around The Incredible Machine remains active decades after release
 - [MyAbandonware](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph)
 - [Internet Archive](https://archive.org/details/return-of-the-incredible-machine-contraptions)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1995 - The Incredible Machine 3.0]]
 - **Next:** [[2001 - The Incredible Machine - Even More Contraptions]]

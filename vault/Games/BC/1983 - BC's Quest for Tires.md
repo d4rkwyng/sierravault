@@ -268,7 +268,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 **Manuals & Extras**
 - [ColecoVision Manual](https://cvaddict.com/profile.php?gameid=50)[^ref-7]
 
-## Series Continuity
+## See Also
 
 B.C.'s Quest for Tires was followed by a sequel, *B.C. II: Grog's Revenge*, released in 1984 by Coleco.[^ref-27] The sequel shifted focus to a different character and gameplay style while maintaining the prehistoric comic strip setting. The original game's success made a sequel a natural commercial decision.
 

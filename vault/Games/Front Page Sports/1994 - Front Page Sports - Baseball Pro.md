@@ -134,7 +134,7 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 - [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-baseball-pro-98-fz3)[^ref-5]
 - [Internet Archive](https://archive.org/details/BB98DML)
 
-## Series Continuity
+## See Also
 
 - **Previous:** Front Page Sports Baseball '94
 - **Next:** Series concluded with '98 edition

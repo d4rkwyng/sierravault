@@ -235,7 +235,7 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 **Community Interest**
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-11]
 
-## Series Continuity
+## See Also
 
 Hoyle Official Book of Games: Volume 1 launched what would become one of Sierra's longest-running series of casual games[^ref-14]. As the inaugural entry, it established the template of combining multiple card games with personality-driven computer opponents that would define subsequent volumes.
 

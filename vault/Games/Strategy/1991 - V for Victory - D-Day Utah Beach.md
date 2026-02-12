@@ -181,7 +181,7 @@ The game's influence extended beyond its immediate series. The similar World at 
 - [PlayOldGames](https://playold.games/play-game/v-for-victory-battleset-1-d-day-utah-beach-1944/) - Browser playable
 - [PlayClassicGames](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) - Browser playable
 
-## Series Continuity
+## See Also
 
 V for Victory: Battleset 1 - D-Day Utah Beach - 1944 was the inaugural title in the V for Victory series, establishing the gameplay systems and design philosophy that would carry through the subsequent releases[^ref-5]. The game's success demonstrated market viability for accessible wargames and directly enabled the development of three follow-up titles covering other significant World War II engagements.
 

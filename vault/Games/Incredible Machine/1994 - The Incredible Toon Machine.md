@@ -210,7 +210,7 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 **Technical Support**
 - [Sierra Help Pages – Custom Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html)
 
-## Series Continuity
+## See Also
 
 The Incredible Toon Machine is part of the broader Incredible Machine franchise, serving as an updated version of Sid & Al's Incredible Toons with enhanced features and additional content. While considered a spin-off rather than a mainline entry, it shares the core gameplay mechanics that defined the series: arranging objects to create chain-reaction Rube Goldberg contraptions.[^ref-7][^ref-35]
 

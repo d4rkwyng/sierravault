@@ -260,7 +260,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Windows (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.exe) – 233 MB
 - [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
-## Series Continuity
+## See Also
 
 King's Quest III Redux is a fan remake of the third entry in Sierra's flagship King's Quest series. The original 1986 game marked the first time players did not control King Graham, instead following his kidnapped son Alexander (known as Gwydion during his captivity)[^ref-20]. The story directly connects to the overarching series narrative, with Alexander's return to Daventry setting up events that would continue in King's Quest IV: The Perils of Rosella.
 

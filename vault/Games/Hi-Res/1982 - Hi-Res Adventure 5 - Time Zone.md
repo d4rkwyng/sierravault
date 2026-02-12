@@ -196,7 +196,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 **Manuals & Extras**
 - [Manual (Archive.org)](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt)[^ref-14]
 
-## Series Continuity
+## See Also
 
 Time Zone represents the fifth entry in Sierra's Hi-Res Adventures series, following the mythology-themed Ulysses and the Golden Fleece. While the series maintained consistent technical foundations through the ADL engine, each game explored dramatically different settings and themes. Time Zone's time-travel premise made it the most ambitious in scope, spanning millennia rather than focusing on a single setting or mythology.
 

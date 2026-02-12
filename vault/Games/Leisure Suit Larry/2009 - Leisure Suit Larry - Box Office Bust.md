@@ -122,7 +122,7 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 - [My Abandonware](https://www.myabandonware.com/game/leisure-suit-larry-box-office-bust-iv8)[^ref-50]
 - [Internet Archive](https://archive.org/details/leisure-suit-larry-box-office-bust-2009.w)[^ref-7]
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry: Box Office Bust is the direct sequel to Magna Cum Laude, continuing the adventures of Larry Lovage (Larry Laffer's nephew). The game was developed without Al Lowe's involvement and is considered outside the main series canon. The franchise would return to Larry Laffer as protagonist with Wet Dreams Don't Dry (2018).
 

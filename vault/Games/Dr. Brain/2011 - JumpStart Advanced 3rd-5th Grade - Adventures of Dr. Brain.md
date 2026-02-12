@@ -198,7 +198,7 @@ This transition mirrors broader trends in the educational software market of the
 **Download / Preservation**
 - [MyAbandonware](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) - Related Dr. Brain titles[^ref-13]
 
-## Series Continuity
+## See Also
 
 *JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* represents the convergence of two educational gaming lineages. Within the Dr. Brain series, it followed *Dr. Brain Thinking Games: IQ Adventure* (1999)[^ref-2] as one of Knowledge Adventure's entries in the franchise. The game also fits within the broader JumpStart Advanced line, which targeted specific grade levels with age-appropriate educational content.
 

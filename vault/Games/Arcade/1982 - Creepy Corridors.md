@@ -219,7 +219,7 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 **Manuals & Extras**
 - Box scans available at [The Sierra Chest](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box)[^ref-9]
 
-## Series Continuity
+## See Also
 
 Creepy Corridors was released as part of the Laf Pak compilation alongside Apple Zap, Mine Sweep, and Space Race, all written by Chuck Bueche for On-Line Systems.[^ref-1] While not a traditional narrative series, these games represent Bueche's early output for Sierra and share common technical underpinnings in their 6502 assembly language development.
 

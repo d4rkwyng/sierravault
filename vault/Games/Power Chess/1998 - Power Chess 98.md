@@ -220,7 +220,7 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 **Patches & Compatibility**
 - [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html)[^ref-18]
 
-## Series Continuity
+## See Also
 
 Power Chess 98 is the second installment in Sierra's Power Chess series, following the original Power Chess released in September 1996[^ref-2]. The series represented Sierra's entry into the competitive chess software market, offering a more accessible and educational alternative to established franchises. The franchise continued with Power Chess 2.0 released in 1998-1999, though Sierra discontinued active development of the series shortly thereafter[^ref-7].
 

@@ -136,7 +136,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 - [Windows v1.01 Patch - ModDB](https://www.moddb.com/games/caesar-ii/downloads/caesar-ii-v101-windows-patch)[^ref-27]
 - [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html)[^ref-28]
 
-## Series Continuity
+## See Also
 
 Caesar II is the second installment in the Caesar series, following the original Caesar (1992) and preceding [[1998 - Caesar III|Caesar III]] (1998).
 

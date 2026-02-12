@@ -240,7 +240,7 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 - [MobyGames](https://www.mobygames.com/game/1145/casino-de-luxe/) – Credits and ratings[^ref-2]
 - [GameFAQs](https://gamefaqs.gamespot.com/pc/227504-casino-de-luxe) – User ratings[^ref-5]
 
-## Series Continuity
+## See Also
 
 Casino De Luxe was the first entry in the Casino Deluxe series developed by Impressions Games[^ref-2]. Following the studio's acquisition by Sierra On-Line, the series continued with Casino Deluxe 2 in 1996, which was published directly under the Sierra banner[^ref-8]. The sequel promised to improve upon the original with the tagline "Beat the odds...to a pulp!" and featured on-screen professional advice to assist players[^ref-8].
 

@@ -223,7 +223,7 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 **Manuals & Extras**
 - [Free Game Empire – Manual](https://www.freegameempire.com/games/IndyCar-Racing/manual) – Version 1.05 documentation[^ref-11]
 
-## Series Continuity
+## See Also
 
 IndyCar Racing is the second racing simulation from Papyrus Design Group, following their groundbreaking Indianapolis 500: The Simulation (1989). The game established the template that would be refined in IndyCar Racing II (1996), which featured 15 tracks from the 1995 season, SVGA graphics, and was later re-released as CART Racing after licensing changes.[^ref-9] The series' DNA continued through Papyrus's NASCAR Racing franchise, which became their primary focus after Sierra's acquisition, and ultimately into iRacing, founded by David Kaemmer after Papyrus's closure.
 

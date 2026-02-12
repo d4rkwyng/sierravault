@@ -299,7 +299,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 **Manuals & Extras**
 - [Internet Archive - Strategy Guide](https://archive.org/details/World_in_Conflict_Strategy_Guide)
 
-## Series Continuity
+## See Also
 
 World in Conflict represents Massive Entertainment's evolution from their Ground Control series, refining the no-base-building tactical gameplay that defined those earlier titles. While not a direct sequel, it shares the same design philosophy and was developed by many of the same team members.[^ref-29] The Soviet Assault expansion (2009) provided the only direct continuation of the World in Conflict storyline, adding six missions from the Soviet perspective and achieving a Metacritic score of 72/100.[^ref-14]
 

@@ -193,7 +193,7 @@ The remake's significance extends beyond its individual merits to represent a br
 - [AGD Interactive Game Information](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
-## Series Continuity
+## See Also
 
 Romancing the Stones serves as an alternate vision of the second chapter in King Graham's adventures, reimagining the events between his coronation in the original King's Quest and his later adventures with his family in subsequent games[^ref-4]. The expanded storyline creates stronger connections to the broader King's Quest mythology than the original 1985 release, adding elements that resonate with plot points from later official entries in the series[^ref-1].
 

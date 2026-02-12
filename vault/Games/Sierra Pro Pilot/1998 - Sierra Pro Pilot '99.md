@@ -192,7 +192,7 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 **Digital Stores**
 - [GOG.com Dreamlist](https://www.gog.com/dreamlist) – Currently requested by community[^ref-7]
 
-## Series Continuity
+## See Also
 
 Sierra Pro Pilot 98 launched the Pro Pilot civilian flight simulation series for Sierra On-Line. The game established the franchise's focus on realistic flight training and accurate instrumentation, themes that would continue through subsequent releases. The commercial success of the initial title, despite mixed reviews, justified rapid expansion of the series with two follow-up products released within the same year.
 

@@ -249,7 +249,7 @@ This game has been included in[^ref-8][^ref-9]:
 - [MobyGames – King's Quest](https://www.mobygames.com/game/122/kings-quest/) – Covers, screenshots, credits[^ref-8]
 - [PCGamingWiki – King's Quest](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Quest_for_the_Crown) – Technical fixes[^ref-38]
 
-## Series Continuity
+## See Also
 
 King's Quest: Quest for the Crown is the first entry in the King's Quest series. Sir Graham's successful quest leads directly into [[1985 - King's Quest II - Romancing the Throne]], where the newly crowned King Graham seeks a queen.
 

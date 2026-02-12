@@ -206,7 +206,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 **Digital Wishlist**
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
 
-## Series Continuity
+## See Also
 
 The Ruins of Cawdor concluded Sierra's trilogy of graphical MUDs for The Sierra Network and The ImagiNation Network.[^ref-1] All three games shared a common engine and were set on the same fictional island, though each featured distinct storylines and settings.[^ref-12] The Shadow of Yserbius established the core gameplay mechanics and online community features in 1991-1992, while The Fates of Twinion expanded the formula in 1993.[^ref-2] The Ruins of Cawdor brought the series to a close with its Shakespearean-inspired setting and refined dungeon design.
 

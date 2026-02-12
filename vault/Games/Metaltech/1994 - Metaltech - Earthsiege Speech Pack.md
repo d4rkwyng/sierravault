@@ -210,7 +210,7 @@ The game is part of the larger Metaltech universe that evolved into the Tribes f
 
 The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 
-## Series Continuity
+## See Also
 
 - **Base Game:** [[1994 - Metaltech - Earthsiege]] (required)
 - **Next:** [[1995 - Metaltech - Earthsiege Expansion Pack]]

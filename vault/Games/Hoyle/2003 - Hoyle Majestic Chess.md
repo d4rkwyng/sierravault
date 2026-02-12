@@ -223,7 +223,7 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 **Community Requests**
 - [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) - Ongoing requests for digital re-release
 
-## Series Continuity
+## See Also
 
 Hoyle Majestic Chess represents a unique entry in the long-running Hoyle brand of card and board game compilations published by Sierra Entertainment.[^ref-16] Unlike the numbered Hoyle compilations that collected multiple traditional games, Majestic Chess focused exclusively on chess while introducing innovative adventure-based gameplay elements not seen in other Hoyle titles.
 

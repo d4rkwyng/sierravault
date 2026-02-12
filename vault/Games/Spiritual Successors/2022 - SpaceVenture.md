@@ -148,7 +148,7 @@ The team has continued supporting the game post-release, with v2 updates in late
 **Preservation**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
-## Series Continuity
+## See Also
 
 - **Previous:** Space Quest 6: Roger Wilco in the Spinal Frontier (spiritual predecessor)
 - **Next:** None announced

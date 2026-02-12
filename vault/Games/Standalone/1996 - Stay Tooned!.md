@@ -184,7 +184,7 @@ The title has developed a cult following among players who experienced it during
 **Manuals & Extras**
 - Physical copies included two pairs of 3D glasses for stereoscopic mini-games[^ref-4]
 
-## Series Continuity
+## See Also
 
 Stay Tooned! was developed as a standalone title by Funnybone Interactive and is not part of a larger game series. The game represents the studio's primary contribution to the adventure game genre before their focus shifted to educational software under the Fisher-Price brand[^ref-1][^ref-12]. While published by Sierra On-Line, the game has no narrative or gameplay connections to Sierra's other adventure game franchises.[^ref-9][^ref-10]
 

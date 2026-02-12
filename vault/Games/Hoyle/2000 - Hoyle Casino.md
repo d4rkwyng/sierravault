@@ -201,7 +201,7 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 **Retail (Sealed/Used)**
 - [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2000)[^ref-5]
 
-## Series Continuity
+## See Also
 
 Hoyle Casino 2000 (also designated Hoyle Casino 5) represents the fifth major entry in Sierra's Hoyle Casino sub-series, which itself spun off from the broader Hoyle's Official Book of Games franchise[^ref-4]. The game built upon the foundation of previous casino titles while expanding the game selection to over 350 variations and introducing enhanced 3D graphics[^ref-8]. The series would continue with annual releases, eventually transitioning from Sierra's development to Encore, Inc. after 2003[^ref-4].
 

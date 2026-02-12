@@ -188,7 +188,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 **Manuals & Extras**
 - No digital manual currently archived in available sources
 
-## Series Continuity
+## See Also
 
 *Ready, Set, Read with Bananas & Jack* occupies a unique position within Sierra's educational software ecosystem. It serves as a direct sequel to *Alphabet Blocks*, designed for children who have progressed beyond basic letter recognition to early reading skills[^ref-1]. The game shares its animated coach characters—Bananas the monkey and Jack the jack-in-the-box—with its predecessor, providing continuity for young learners familiar with these guides.
 

@@ -273,7 +273,7 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 - [Internet Archive](https://archive.org/details/metaltech-earthsiege-complete-mr-abandonware) – Complete archive with expansion[^ref-9]
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Pre-configured DOSBox package[^ref-3]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1994 - Metaltech - Earthsiege]]
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]

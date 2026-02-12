@@ -219,7 +219,7 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 **Manuals & Extras**
 - [Internet Archive – Manual](https://archive.org/stream/vgmuseum_sierra_dragonskeep-manual/dragonskeep-manual_djvu.txt) – Sierra On-Line manual text
 
-## Series Continuity
+## See Also
 
 Dragon's Keep was part of Sierra's Hi-Res Learning line of educational games designed for children[^ref-12]. The game shares its underlying engine and design philosophy with other Sierra children's titles from the same era, including Troll's Tale, Mickey's Space Adventure, and Winnie the Pooh[^ref-8].
 

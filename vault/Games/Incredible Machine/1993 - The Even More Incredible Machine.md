@@ -233,7 +233,7 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 **Manuals & Extras**
 - [Manual PDF](http://wiki.sierrahelp.com/index.php/File:The_Even_More_Incredible_Machine_-_Manual.pdf) - Sierra Help Wiki
 
-## Series Continuity
+## See Also
 
 The Even More Incredible Machine serves as an expanded re-release of the original game, bridging the gap between the 1992 debut and the substantially revised sequel that followed. The game preserves all content from the original while adding significant new puzzles and features, making it the definitive version of the first-generation Incredible Machine experience[^ref-9].
 

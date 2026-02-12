@@ -184,7 +184,7 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [Internet Archive](https://archive.org/details/nascar_2)
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2-c6r)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1996 - NASCAR Racing 2]]
 - **Base Game:** [[1996 - NASCAR Racing 2]] (required)

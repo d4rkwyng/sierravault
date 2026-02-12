@@ -102,7 +102,7 @@ The community created extensive modifications and content, including approximate
 - [Internet Archive - Tribes 2 Ultimate Game Pack](https://archive.org/details/Tribes2UltimateGamePack)
 - [TribesNext Community Project](https://www.tribesnext.com/)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1998 - Starsiege - Tribes]]
 - **Next:** Tribes: Vengeance (2004) (2004)

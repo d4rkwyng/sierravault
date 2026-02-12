@@ -183,7 +183,7 @@ The game's technical conservatism, criticized at release, ironically contributed
 **Retail (Sealed/Used)**
 - [PriceCharting](https://www.pricecharting.com/game/pc-games/hoyle-card-games) - market pricing
 
-## Series Continuity
+## See Also
 
 Hoyle Card Games 2002 occupies a central position in Sierra's long-running card game franchise, which began in the late 1980s and continued through 2016 under subsequent publishers. The series maintained remarkable consistency in its core formula: comprehensive card game selections, animated AI opponents, and the Facemaker character creation system. Player profiles created in Card Games were designed to work across the broader Hoyle product line, including Board Games and Casino editions, creating an interconnected ecosystem of casual gaming products.[^ref-1]
 

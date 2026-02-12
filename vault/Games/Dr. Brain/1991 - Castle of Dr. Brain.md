@@ -257,7 +257,7 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - [Xeen Music – MT-32 Original Soundtrack](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-original-soundtrack-mt-32)
 - [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos)
 
-## Series Continuity
+## See Also
 
 Castle of Dr. Brain launched Sierra's Dr. Brain franchise, which would span seven titles across nearly a decade. The series became the cornerstone of Sierra's educational gaming efforts under the Discovery Series banner. The game's success led directly to the sequel The Island of Dr. Brain (1992), though creator Corey Cole was not involved in its development.[^ref-2]
 

@@ -180,7 +180,7 @@ The game has been preserved through abandonware archives and the Internet Archiv
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-craftsman-truck-series-racing)
 
 
-## Series Continuity
+## See Also
 
 |  | **NASCAR Series** |  |
 |:---:|:---:|:---:|

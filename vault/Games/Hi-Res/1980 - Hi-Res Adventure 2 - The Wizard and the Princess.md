@@ -154,7 +154,7 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog)
 - [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/)[^ref-23]
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure #1: Mystery House]]
 - **Next:** [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure #3: Cranston Manor]]

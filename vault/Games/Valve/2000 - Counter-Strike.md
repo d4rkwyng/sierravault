@@ -297,7 +297,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 **Manuals & Extras**
 - [Internet Archive – Counter-Strike Manual](https://archive.org/details/counter-strike-manual) - Digitized original manual
 
-## Series Continuity
+## See Also
 
 Half-Life: Counter-Strike began as a modification for the original Half-Life (1998) that evolved into its own franchise. While it shares the GoldSrc engine and Half-Life branding, Counter-Strike established a separate universe focused purely on competitive multiplayer combat between terrorist and counter-terrorist forces. The franchise has continued through multiple iterations including Counter-Strike: Condition Zero (2004), Counter-Strike: Source (2004), Counter-Strike: Global Offensive (2012), and Counter-Strike 2 (2023).[^ref-4]
 

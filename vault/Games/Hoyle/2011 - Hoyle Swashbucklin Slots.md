@@ -209,7 +209,7 @@ The game's limited documentation and review coverage reflects the challenge face
 - No manual PDFs located in research
 - Publisher information available through Encore Software[^ref-15]
 
-## Series Continuity
+## See Also
 
 Hoyle Swashbucklin' Slots exists as a themed spin-off within the broader Hoyle gaming franchise, which encompasses card games, board games, and casino simulations[^ref-3]. The Hoyle brand originated with Sierra Entertainment before transitioning to Encore Software's management. While the main Hoyle Casino series continued with numbered entries, themed spin-offs like Swashbucklin' Slots explored specific gambling genres with dedicated thematic content[^ref-3].
 

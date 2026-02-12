@@ -111,7 +111,7 @@ Fan-created unofficial patches have been developed to address minor technical is
 - [MyAbandonware](https://www.myabandonware.com/game/manhunter-new-york-ha)
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Manhunter:+New+York&gid=1867)
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (First in series)
 - **Next:** [[1989 - Manhunter - San Francisco]] (1989)

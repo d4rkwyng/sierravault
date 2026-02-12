@@ -183,7 +183,7 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 **Manuals & Extras**
 - Refer to original Sierra documentation for gameplay reference
 
-## Series Continuity
+## See Also
 
 The Infamous Adventures remake recreates the third entry in Sierra's King's Quest series, which serves as a crucial bridge in the franchise's overarching narrative.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20] The original King's Quest III: To Heir Is Human was designed by Roberta Williams and released in 1986[^ref-2]. The story reveals the fate of Prince Alexander, the kidnapped son of King Graham from the original King's Quest, and sets up plot elements that continue through subsequent entries including King's Quest VI: Heir Today, Gone Tomorrow.
 

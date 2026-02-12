@@ -230,7 +230,7 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 - Demo available via Sierra Chest[^ref-20]
 - CNET Download page (historical)[^ref-12]
 
-## Series Continuity
+## See Also
 
 Front Page Sports: Baseball Pro '98 serves as the third and final entry in the Front Page Sports Baseball series. It built upon the foundation established by the original 1994 release and addressed criticisms leveled at the 1996 edition[^ref-10]. The series was part of the broader Front Page Sports brand, which also included the popular football simulation line[^ref-18].
 

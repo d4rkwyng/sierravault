@@ -199,7 +199,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 **Patches & Updates**
 - [Sierra Help Pages - Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html)[^ref-13]
 
-## Series Continuity
+## See Also
 
 Casino Deluxe 2 is the direct sequel to Casino De Luxe, released in 1995 by Impressions Games[^ref-7]. The sequel expanded the game library from the original while introducing enhanced 3D SVGA graphics and additional features like internet play[^ref-2]. Following Impressions' acquisition by Sierra On-Line, both games were distributed under the Sierra brand[^ref-7].
 

@@ -225,7 +225,7 @@ The game's short length (completable in under three hours) and easy puzzles posi
 **Official Website**
 - [Gold Rush! Game](https://www.goldrush-game.com/) - Developer website
 
-## Series Continuity
+## See Also
 
 Gold Rush! 2 continues the story established in the original 1988 Gold Rush! and carried forward through Gold Rush! Anniversary (2014). The game picks up twenty years after the original adventure, following Jake and Jerrod Wilson as they confront new challenges in their home of Brooklyn, New York. The narrative connection to the original is strengthened by the involvement of original developers Ken and Doug MacNeill in crafting the sequel's story[^ref-2].
 

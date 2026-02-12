@@ -267,7 +267,7 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 - Widescreen patch available through community sites[^ref-23]
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Cleopatra:_Queen_of_the_Nile) - Technical fixes and compatibility
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - Pharaoh]]
 - **Next:** Pharaoh: A New Era (2023 remake)

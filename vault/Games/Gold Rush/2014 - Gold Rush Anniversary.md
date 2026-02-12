@@ -266,7 +266,7 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 **Official Website**
 - [GoldRush-Game.com](https://www.goldrush-game.com/)
 
-## Series Continuity
+## See Also
 
 Gold Rush! Anniversary serves as a complete remake of the original 1988 Sierra adventure, maintaining the same narrative while updating the presentation for modern platforms.[^ref-5] The game was followed by an original sequel, Gold Rush! 2, released in April 2017, which continues the story eleven years after the events of the first game.[^ref-1] The sequel was developed using the same engine as the Anniversary remake and features a point-and-click only interface.[^ref-16]
 

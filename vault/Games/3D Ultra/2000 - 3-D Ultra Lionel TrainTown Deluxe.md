@@ -205,7 +205,7 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 **Community**
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
 
-## Series Continuity
+## See Also
 
 3D Ultra Lionel Traintown was part of Sierra's 3D Ultra casual gaming brand, which included titles like 3D Ultra Pinball, 3D Ultra Pool, and 3D Ultra Minigolf[^ref-4]. Unlike its arcade-focused siblings, Traintown carved out its own niche as a puzzle-oriented experience. The Deluxe version released in 2000 served as both an enhanced reissue and expansion of the original concept[^ref-8].
 

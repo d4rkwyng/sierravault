@@ -203,7 +203,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Help Pages - Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates.html)[^ref-12]
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
-## Series Continuity
+## See Also
 
 Early Math was part of Bright Star Technology's "Talking Tutor" series of educational software published by Sierra On-Line.[^ref-5] The series featured animated on-screen teachers who guided children through various learning activities, with different titles focusing on different subject areas and age groups. Bright Star Technology produced several educational titles for Sierra during the early 1990s, establishing a recognizable brand identity for the company's children's software.[^ref-8]
 

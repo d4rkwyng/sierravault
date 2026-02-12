@@ -172,7 +172,7 @@ The series is perhaps best remembered for its educational features rather than i
 **Download / Preservation**
 - Compatibility requires Windows 98 virtual machine setup[^ref-4][^ref-12]
 
-## Series Continuity
+## See Also
 
 Power Chess 2.0 was the third and final entry in Sierra's Power Chess series. The series evolved from the original 1996 release through Power Chess 98 before reaching its conclusion with this 1999 edition. While marketed as an upgrade, Power Chess 2.0 was essentially a compatibility update with minor improvements over its predecessor[^ref-6]. The series was discontinued following Sierra's corporate restructuring, and no further Power Chess titles were developed[^ref-3].
 

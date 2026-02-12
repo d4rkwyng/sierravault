@@ -189,7 +189,7 @@ This game has been included in the following collections:
 - [Virtual Broomcloset – Two Guys SQ3 Interview](https://wiw.org/~jess/2guys_sq3.html) – Spring 1989 Sierra Newsletter interview[^ref-28]
 - [StrategyWiki – SQ3 Appendices](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Appendices) – easter eggs, minigames[^ref-29]
 
-## Series Continuity
+## See Also
 - Previous: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
 - Next: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
 

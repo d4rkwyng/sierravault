@@ -212,7 +212,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty)[^ref-7]
 - [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
-## Series Continuity
+## See Also
 
 The Last Dynasty is a standalone title with no direct sequels or prequels. It represents Coktel Vision's venture into space combat simulation territory, distinct from their more well-known adventure series like Goblins and Inca. The game shares the Gob engine with other Coktel Vision titles but features no narrative connections to the studio's other works.[^ref-7]
 

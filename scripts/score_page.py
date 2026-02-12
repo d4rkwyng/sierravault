@@ -234,7 +234,7 @@ def score_series_continuity(content: str, filepath: str) -> tuple:
     """Score series continuity and cross-references (max 10 bonus points).
     
     Checks:
-    - Series Continuity section exists for series games
+    - See Also (or Series Continuity) section exists for series games
     - Previous/Next links are present where applicable
     - At least one cross-reference to another game in series
     
@@ -249,14 +249,20 @@ def score_series_continuity(content: str, filepath: str) -> tuple:
     if not is_in_series:
         return (0, [])  # Not in a series, no bonus/penalty
     
-    # Check for Series Continuity section
-    has_continuity = '## Series Continuity' in content or '### Series Continuity' in content
+    # Check for Series Continuity or See Also section
+    has_continuity = '## Series Continuity' in content or '### Series Continuity' in content or '## See Also' in content or '### See Also' in content
     
     if has_continuity:
         score += 3
         
         # Check for Previous/Next links
-        continuity_section = content.split('eries Continuity')[1] if 'eries Continuity' in content else ''
+        # Extract See Also or Series Continuity section
+        if 'ee Also' in content:
+            continuity_section = content.split('ee Also')[1]
+        elif 'eries Continuity' in content:
+            continuity_section = content.split('eries Continuity')[1]
+        else:
+            continuity_section = ''
         continuity_section = continuity_section.split('\n## ')[0] if '\n## ' in continuity_section else continuity_section[:500]
         
         has_previous = 'Previous' in continuity_section or '**←**' in continuity_section
@@ -267,9 +273,9 @@ def score_series_continuity(content: str, filepath: str) -> tuple:
         if has_previous or has_next:
             score += 2
         elif 'First game' not in continuity_section and 'final game' not in continuity_section.lower():
-            issues.append("Series Continuity section missing Previous/Next navigation")
+            issues.append("See Also section missing Previous/Next navigation")
     else:
-        issues.append(f"Missing Series Continuity section (game is in {series_name} folder)")
+        issues.append(f"Missing See Also section (game is in {series_name} folder)")
         score -= 5  # Penalty for missing continuity in series game
     
     # Check for wiki links to other games in the same series

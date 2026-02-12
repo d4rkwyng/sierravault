@@ -346,7 +346,7 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 **Manuals & Extras**
 - Manual PDF (36 pages) included with GOG release[^ref-20]
 
-## Series Continuity
+## See Also
 
 Gabriel Knight: Sins of the Fathers established the foundation for one of adventure gaming's most beloved trilogies. The game introduces the concept of the Schattenjäger—German shadow hunters who battle supernatural evil—and establishes Gabriel's destiny to continue his family's legacy. The game's conclusion sets up Gabriel's ongoing relationship with Grace Nakimura and his acceptance of his role as a supernatural investigator, themes that would be further developed in the sequels.
 

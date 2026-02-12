@@ -112,7 +112,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 - [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p)
 - [Internet Archive](https://archive.org/details/msdos_High_Seas_Trader_1995)
 
-## Series Continuity
+## See Also
 
 - **Previous:** Merchant Colony (spiritual predecessor)
 - **Next:** No direct sequel

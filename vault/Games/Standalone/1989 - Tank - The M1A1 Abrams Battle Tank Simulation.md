@@ -215,7 +215,7 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [My Abandonware](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) - DOS version
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
-## Series Continuity
+## See Also
 
 Tank: The M1A1 Abrams Battle Tank Simulation was conceived as the inaugural title in Spectrum HoloByte's "Electronic Battlefield System," intended to be a comprehensive platform for military simulations spanning different combat domains.[^ref-2] The game shared technological DNA with Spectrum HoloByte's Falcon flight simulator series through its use of a modified Falcon AT engine, positioning it as a ground-based complement to their aerial combat offerings.[^ref-4]
 

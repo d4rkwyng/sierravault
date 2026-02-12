@@ -273,7 +273,7 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 **Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
 
-## Series Continuity
+## See Also
 
 Driver's Education '98 was the first entry in Sierra's Driver's Education series, establishing the template of combining theoretical test preparation with practical 3D driving simulation. The game introduced the virtual instructor character "Ed" and the comprehensive state-by-state approach to driver education content that would continue in subsequent releases.[^ref-5]
 

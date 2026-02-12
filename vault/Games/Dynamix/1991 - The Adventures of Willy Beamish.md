@@ -290,7 +290,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [Game Manual – Internet Archive](https://archive.org/details/AdventuresOfWillyBeamishManual)
 - [Hint Book – Internet Archive](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991)
 
-## Series Continuity
+## See Also
 
 The Adventures of Willy Beamish was conceived as a standalone title, though its success prompted plans for a sequel featuring an older Willy Beamish that was ultimately canceled when Jeff Tunnell left Dynamix.[^ref-4] The game shares the DGDS engine with Dynamix's other adventure titles Rise of the Dragon (1990) and Heart of China (1991), and contains easter egg references to Rise of the Dragon's EmWay stations.[^ref-45]
 

@@ -129,7 +129,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 - [Internet Archive - Homeworld Cataclysm](https://archive.org/details/HWCata)
 - [MyAbandonware - Homeworld: Cataclysm](https://www.myabandonware.com/game/homeworld-cataclysm-cyy)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1999 - Homeworld]]
 - **Next:** [[2003 - Homeworld 2]] (2003)

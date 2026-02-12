@@ -222,7 +222,7 @@ As a historical artifact, the game documents the budget software market of the e
 **Emulation**
 - ScummVM provides full compatibility for running on modern systems[^ref-9][^ref-5]
 
-## Series Continuity
+## See Also
 
 Crazy Nick's Software Picks: Parlor Games with Laura Bow occupies a unique position as both part of the Crazy Nick's Software Picks compilation series and a tie-in to the Laura Bow mystery adventure series[^ref-5]. The game features Laura Bow fresh from her appearance in The Dagger of Amon Ra (1992), though the parlor game format has no narrative connection to the adventure series[^ref-2].
 

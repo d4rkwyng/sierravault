@@ -133,7 +133,7 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 - [MyAbandonware](https://www.myabandonware.com/game/outpost-2-divided-destiny-e3n)
 - [Internet Archive](https://archive.org/details/outpost2divideddestiny)
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1994 - Outpost]]
 - **Next:** No direct sequel produced

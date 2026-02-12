@@ -188,7 +188,7 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-card-games-2005-hzi)
 - [Old Games Download](https://oldgamesdownload.com/hoyle-card-games-2005/)
 
-## Series Continuity
+## See Also
 
 Hoyle Card Games 2005 is part of the long-running Hoyle Card Games series that began in 1989 with the original Hoyle's Official Book of Games[^ref-3]. The series was known for its comprehensive card game collections and, in earlier entries, for featuring Sierra adventure game characters as opponents[^ref-3]. By 2005, the series had evolved to focus more on customizable player avatars and achievement-based progression rather than character crossovers from other Sierra properties.
 

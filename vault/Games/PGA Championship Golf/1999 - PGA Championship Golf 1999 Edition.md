@@ -247,7 +247,7 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 **Patches & Updates**
 - [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html)[^ref-25]
 
-## Series Continuity
+## See Also
 
 PGA Championship Golf 2000 was the culmination of Sierra's golf simulation franchise, which evolved from the Front Page Sports Golf series developed by Dynamix. The series began with PGA Championship Golf in 1998, followed by PGA Championship Golf '99 Edition in 1999, and reached its peak with the 2000 edition.[^ref-32] The Titanium Edition (2000) and Collector's Edition (2001) served as enhanced versions of the base 2000 game rather than true sequels.
 

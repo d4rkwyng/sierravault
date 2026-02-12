@@ -277,7 +277,7 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 - [Homeworld Universe Official Site](https://www.homeworlduniverse.com/)
 - [Gearbox Publishing Game Page](https://www.gearboxpublishing.com/game/homeworld-3/)
 
-## Series Continuity
+## See Also
 
 Homeworld 3 continues the mainline series as the fourth major entry, following Homeworld (1999), Homeworld: Cataclysm (2000), and Homeworld 2 (2003).[^ref-9] The game takes place approximately 100 years after Homeworld 2, during the decline of the "Age of S'Jet" that followed Karan S'Jet's heroic unification of the galaxy.[^ref-4]
 

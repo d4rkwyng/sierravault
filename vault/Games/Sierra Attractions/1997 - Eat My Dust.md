@@ -118,7 +118,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [MyAbandonware](https://www.myabandonware.com/game/eat-my-dust-dl6)
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
-## Series Continuity
+## See Also
 
 - **Previous:** N/A
 - **Next:** N/A

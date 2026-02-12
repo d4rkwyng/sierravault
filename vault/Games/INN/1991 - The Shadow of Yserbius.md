@@ -174,7 +174,7 @@ Several bugs and design issues were documented during the game's lifespan:
 **Modern Recreation**
 - [MedievaLands](https://www.medievalands.com/) - Fan remake with multiplayer support
 
-## Series Continuity
+## See Also
 
 - **Previous:** None (first in series)
 - **Next:** [[1993 - Fates of Twinion]]

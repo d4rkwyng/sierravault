@@ -233,7 +233,7 @@ However, the game also exemplifies the design philosophy that would eventually f
 **Manuals & Extras**
 - Manual PDF containing spell formulas available through digital collections
 
-## Series Continuity
+## See Also
 
 King's Quest III occupies a crucial position in the series timeline, bridging the gap between the fairy-tale simplicity of the early games and the more elaborate narratives that followed. The game takes place years after King's Quest II, with Graham and Valanice's children having been kidnapped in infancy. The revelation that Gwydion is actually Prince Alexander establishes family dynamics that would drive subsequent entries.
 

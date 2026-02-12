@@ -216,7 +216,7 @@ From a preservation standpoint, the game's absence from modern digital storefron
 **Manuals & Extras**
 - Original manual included with abandonware downloads
 
-## Series Continuity
+## See Also
 
 Mixed-Up Fairy Tales serves as the spiritual successor to Mixed-Up Mother Goose (1987), applying the same "mixed up" concept to longer-form fairy tales rather than nursery rhymes[^ref-2]. While sharing the core premise of restoring scrambled children's literature, the games differ in their source material and complexity level, with Fairy Tales targeting slightly older children who can read independently[^ref-3].
 

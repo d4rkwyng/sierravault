@@ -207,7 +207,7 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 **Related Game**
 - [Internet Archive – WW2 Air Force Commander](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) – 1993 sequel[^ref-10]
 
-## Series Continuity
+## See Also
 
 Air Force Commander launched what would become a brief series exploring aerial warfare strategy. The original 1992 release focused exclusively on modern Middle Eastern conflicts, establishing the gameplay framework of real-time aerial combat management. The 1993 sequel, WW2 Air Force Commander, transported the concept to World War II scenarios, allowing players to command Allied or Axis air forces across historical battles[^ref-10].
 

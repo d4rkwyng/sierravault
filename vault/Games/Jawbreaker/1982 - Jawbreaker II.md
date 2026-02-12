@@ -170,7 +170,7 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 - [Internet Archive - Game Files](https://archive.org/details/JawbreakerIISierraOnline) - Preservation archive
 - [Atarimania](https://www.atarimania.com/game-atari-400-800-xl-xe-jawbreaker-ii_2652.html) - Atari 8-bit version
 
-## Series Continuity
+## See Also
 
 - **Previous:** [[1981 - Jawbreaker]]
 - **Next:** Jawbreaker IV

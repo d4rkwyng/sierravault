@@ -287,7 +287,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 **Manuals & Extras**
 - [Scribd – Official Manual](https://www.scribd.com/doc/92544684/Betrayal-at-Krondor-Manual)
 
-## Series Continuity
+## See Also
 
 Betrayal at Krondor is the first game in the Krondor series and the first video game set in Raymond E. Feist's Midkemia universe. The story takes place approximately halfway between the novels A Darkness at Sethanon and Prince of the Blood in Feist's Riftwar timeline.[^ref-7] The game introduced several characters and plot elements that Feist later incorporated into his novels, most notably Gorath the moredhel chieftain and Lysle Rigger, Jimmy the Hand's twin brother.[^ref-1]
 

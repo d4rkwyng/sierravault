@@ -193,7 +193,7 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 
 **Note:** Due to Sierra Entertainment's corporate transitions and eventual absorption into Activision Blizzard,[^ref-7] official digital distribution of older Hoyle titles may be limited.
 
-## Series Continuity
+## See Also
 
 Hoyle Backgammon & Cribbage was part of Sierra's extensive Hoyle series, which began in 1989 with Hoyle's Official Book of Games: Volume 1 and continued through numerous iterations focusing on various types of card games, board games, puzzles, and casino games.[^ref-3] The series ran under Sierra's development until 2003, after which Encore, Inc. took over publishing from 2005 to 2016.[^ref-3]
 

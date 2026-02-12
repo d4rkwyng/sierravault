@@ -198,7 +198,7 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 **Manuals & Extras**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
-## Series Continuity
+## See Also
 
 Turbo Learning: Mega Math was the second and final entry in the Turbo Learning series, following Quarky & Quaysoo's Turbo Science released in 1992[^ref-13]. Both games featured the alien characters Quarky and Quaysoo, creating continuity between the science and mathematics-focused educational titles[^ref-4]. The games were published under Sierra's Discovery Series brand, which aimed to provide educational entertainment for children.
 

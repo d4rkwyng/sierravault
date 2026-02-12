@@ -203,7 +203,7 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 **Emulation**
 - [Vizzed – Browser Emulation](http://www.vizzed.com/play/arthur-to-astaroth-no-nazo-makaimuraincredible-toons-ss-sega-saturn-75961-game)[^ref-20]
 
-## Series Continuity
+## See Also
 
 Arthur to Astaroth no Nazo Makaimura exists at the intersection of two separate franchises. As an Incredible Machine spinoff, it follows Sid & Al's Incredible Toons (1993) in utilizing character-driven puzzle scenarios rather than abstract mechanical challenges[^ref-10][^ref-7]. Within the Ghosts 'n Goblins series, it represents an unusual puzzle spinoff that maintains narrative continuity with the main action titles through its use of established characters and storylines.
 

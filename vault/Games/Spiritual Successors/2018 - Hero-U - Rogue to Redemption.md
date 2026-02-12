@@ -243,7 +243,7 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 **Manuals & Extras**
 - [Official Hint Guide (itch.io)](https://transolar-games.itch.io/hero-u-rogue-to-redemption-hint-guide)
 
-## Series Continuity
+## See Also
 
 Hero-U: Rogue to Redemption is the first game in the planned Hero-U series, set at Hero University in the land of Sardonia[^ref-6]. While not a direct sequel to the Quest for Glory games, it exists in the same universe and features the same design philosophy and tonal approach that defined that series[^ref-3]. The Coles conceived Hero-U as a five-game series, with each installment focusing on a different character class at the university[^ref-33].
 

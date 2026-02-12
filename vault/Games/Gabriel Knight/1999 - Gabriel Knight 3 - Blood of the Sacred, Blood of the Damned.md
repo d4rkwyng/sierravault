@@ -131,7 +131,7 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 - [Internet Archive](https://archive.org/details/gk-31) - Preserved game files including manual and ISOs[^ref-7]
 - [OldGames.sk](https://www.oldgames.sk/en/game/gabriel-knight-3/download/4870/) - Retro gaming archive[^ref-60]
 
-## Series Continuity
+## See Also
 
 Gabriel Knight 3: Blood of the Sacred, Blood of the Damned is the final installment in the original Gabriel Knight trilogy. The game moves from FMV to full 3D graphics, though the writing and voice acting maintain the series' high standards. The plot involves the mysteries of Rennes-le-Château and the Holy Grail, weaving real-world conspiracy theories into the supernatural narrative.
 

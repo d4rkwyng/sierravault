@@ -227,7 +227,7 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 **Manuals & Extras**
 - Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/)[^ref-15]
 
-## Series Continuity
+## See Also
 
 Oil's Well (1990) is a remake of the 1983 original, serving as the final official release in the Oil's Well series from Sierra. The game follows the same fundamental premise as the original while adding enhanced audiovisual presentation and the memorable Slater the Petrosaur character. The game was preceded by a 1988 clone called North-Sea Action.[^ref-5]
 

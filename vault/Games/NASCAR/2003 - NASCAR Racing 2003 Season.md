@@ -299,7 +299,7 @@ The game's influence extends beyond nostalgia. Its netcode and replay systems be
 **Patches**
 - [Sierra Help – Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html)
 
-## Series Continuity
+## See Also
 
 NASCAR Racing 2003 Season is the eighth and final entry in Papyrus's NASCAR Racing series, which began with the original NASCAR Racing in 1994.[^ref-30] The series pioneered realistic stock car simulation on PC, introducing features like licensed sponsors, detailed damage modeling, tire temperature simulation, and sophisticated multiplayer support over its nine-year run.[^ref-30]
 

@@ -219,7 +219,7 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 - [Kotaku Coverage](https://kotaku.com/guys-police-quest-is-basically-back-796665191) - Original announcement coverage
 - [Sierra Classic Gaming Entry](https://sierraclassicgaming.com/game/precinct/) - Game database documentation
 
-## Series Continuity
+## See Also
 
 While Precinct was not officially part of the Police Quest series due to trademark issues, it was conceived as a spiritual successor that would continue the legacy Jim Walls established at Sierra On-Line[^ref-2]. The game would have represented Walls' return to the police procedural adventure genre he pioneered, updating the concept for modern gaming platforms and audiences.
 

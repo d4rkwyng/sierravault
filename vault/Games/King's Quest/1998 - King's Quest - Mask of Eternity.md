@@ -300,7 +300,7 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 - [PCGamingWiki – Compatibility Fixes](https://www.pcgamingwiki.com/wiki/King%27s_Quest:_Mask_of_Eternity)
 - [Speedrun.com – Technical Setup Guide](https://www.speedrun.com/kings_quest_mask_of_eternity/guides/ok53a)
 
-## Series Continuity
+## See Also
 
 King's Quest: Mask of Eternity serves as both the eighth and final traditional entry in the King's Quest series, standing seventeen years before the 2015 episodic reboot. The game maintains loose connections to series lore while largely departing from its narrative traditions. Connor's adventure takes place in the same universe as previous games, with Daventry and Castle Daventry appearing as recognizable locations, and King Graham making a cameo appearance as a petrified statue.[^ref-13]
 

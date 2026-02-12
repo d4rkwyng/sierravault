@@ -313,7 +313,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/LeisureSuitLarryMagnaCumLaude_922)
 
-## Series Continuity
+## See Also
 
 Leisure Suit Larry: Magna Cum Laude serves as a soft reboot of the franchise, introducing Larry Lovage as the new protagonist while relegating the original Larry Laffer to a cameo role. The game acknowledges the previous entries through various easter eggs and references, including the "lost" fourth game appearing on Larry's computer and secret tokens featuring imagery from Love for Sail.[^ref-1]
 

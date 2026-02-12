@@ -303,7 +303,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [PCGamingWiki Community Patch v1.1](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,132 downloads[^ref-46]
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
-## Series Continuity
+## See Also
 
 Contract J.A.C.K. occupies a unique position within the *No One Lives Forever* franchise as both a prequel and something of an outlier. Set chronologically between *The Operative: No One Lives Forever* (2000) and *No One Lives Forever 2: A Spy in H.A.R.M.'s Way* (2002), the game takes place mere weeks before the events of *NOLF 2*.[^ref-4] Unlike the main games which follow UNITY agent Cate Archer, Contract J.A.C.K. presents events from the villains' perspective, showing H.A.R.M.'s internal power struggles.
 
