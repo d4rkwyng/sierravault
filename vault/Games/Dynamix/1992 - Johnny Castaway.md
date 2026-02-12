@@ -92,7 +92,7 @@ Rather than seeking formal approval, Tunnell created a working demo of Johnny wa
 
 ### Team
 
-Johnny Castaway was developed at Jeff Tunnell Productions alongside *[[The Incredible Machine]]* and *Turbo Science*:
+Johnny Castaway was developed at Jeff Tunnell Productions alongside *[[1992 - The Incredible Machine]]* and *Turbo Science*:
 
 - **Jeff Tunnell** – Producer, concept
 - **Brian Hahn** – Art Director, gag writer
@@ -106,7 +106,7 @@ Brian Hahn and Tunnell developed most of the comedic gags. Tunnell later clarifi
 
 ### Animation Process
 
-The team leveraged animation tools developed for *[[The Adventures of Willy Beamish]]*. Animator Sherry Wheeler, who had worked at Disney, created pencil animation frames that were then scanned and cleaned up for the limited 640×480 resolution of the era. Wheeler lived off-grid about 30 minutes from the office, bringing in batches of animation weekly.[^ref-3]
+The team leveraged animation tools developed for *[[1991 - The Adventures of Willy Beamish]]*. Animator Sherry Wheeler, who had worked at Disney, created pencil animation frames that were then scanned and cleaned up for the limited 640×480 resolution of the era. Wheeler lived off-grid about 30 minutes from the office, bringing in batches of animation weekly.[^ref-3]
 
 The screensaver shipped in November 1992, with a stable version 1.02 released in 1993.[^ref-9]
 
@@ -125,7 +125,7 @@ Sierra positioned Johnny Castaway as the first release in a "Screen Antics" prod
 
 *Computer Gaming World* called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-4]
 
-According to Ken Williams, the screensaver was one of several Dynamix products that proved highly profitable relative to their modest development costs, alongside *[[The Incredible Machine]]* and *[[Hoyle Card Games]]*.[^ref-10] Sierra later bundled Johnny Castaway with other titles in the *Family Fun Pack* compilation.[^ref-13]
+According to Ken Williams, the screensaver was one of several Dynamix products that proved highly profitable relative to their modest development costs, alongside *[[1992 - The Incredible Machine]]* and the *Hoyle* series.[^ref-10] Sierra later bundled Johnny Castaway with other titles in the *Family Fun Pack* compilation.[^ref-13]
 
 ## Legacy
 
@@ -156,8 +156,8 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 ## See Also
 
-- [[The Incredible Machine]] – Developed concurrently at JTP
-- [[The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
+- [[1992 - The Incredible Machine]] – Developed concurrently at JTP
+- [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
 - [[Jeff Tunnell]] – Producer and concept creator
 - [[Dynamix]] – Development studio
 
