@@ -114,3 +114,9 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 [^ref-19]: https://www.wired.com/2019/02/geeks-guide-game-design/ — Modern game design influence and legacy
 [^ref-20]: https://www.sierragamers.com/forums/topic/interview-with-lori-ann-cole-and-corey-cole/ — Joint interview with husband and collaborator
 [^ref-21]: https://en.wikipedia.org/wiki/The_Coles — Wikipedia article on The Coles with complete game credits
+[^ref-22]: https://en.wikipedia.org/wiki/Sierra_Entertainment — Sierra corporate history including 1996 CUC acquisition and 1999 restructuring
+[^ref-23]: https://www.eurogamer.net/quest-for-glory-creators-take-to-kickstarter-with-hero-u-rogue-to-redemption — Coverage of the Coles' post-Sierra activities and Kickstarter launch
+[^ref-24]: https://web.archive.org/web/20130207163851/http://www.nypost.com/p/blogs/gamereport/interview_with_cori_cole_creator_fo3JcablCc214MdZhtEh1M — NY Post interview on Hero-U and continued creative projects
+[^ref-25]: https://mixnmojo.com/news/Hero-U-is-a-Kickstarter-for-a-new-RPG-Adventure-Hybrid — International House of Mojo coverage of Hero-U Kickstarter and Transolar Games
+[^ref-26]: https://en.wikipedia.org/wiki/Hero-U:_Rogue_to_Redemption — Wikipedia article on Hero-U with development history and credits
+[^ref-27]: https://www.hero-u.com/ — Official Transolar Games website with game information and Cole biography
