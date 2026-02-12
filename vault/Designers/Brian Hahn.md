@@ -161,16 +161,16 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 | Year | Title | Role |
 |------|-------|------|
 | 1996 | [[1996 - Hunter Hunted\|Hunter Hunted]] | Art Director |
-| 1997 | Front Page Sports: Trophy Rivers | Art Director |
-| 1997 | 3-D Ultra Minigolf | Art Director |
-| 1998 | 3-D Ultra MiniGolf Deluxe | Managing Art Director |
-| 1999 | 3-D Ultra NASCAR Pinball | Managing Art Director |
-| 1999 | 3-D Ultra Radio Control Racers | Special Thanks |
-| 1999 | Field & Stream: Trophy Bass 3D | Past Contributions |
+| 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Front Page Sports: Trophy Rivers]] | Art Director |
+| 1997 | [[1997 - 3-D Ultra MiniGolf\|3-D Ultra Minigolf]] | Art Director |
+| 1998 | [[1998 - 3-D Ultra MiniGolf Deluxe\|3-D Ultra MiniGolf Deluxe]] | Managing Art Director |
+| 1999 | [[1998 - 3-D Ultra NASCAR Pinball\|3-D Ultra NASCAR Pinball]] | Managing Art Director |
+| 1999 | [[1999 - 3-D Ultra Radio Control Racers\|3-D Ultra Radio Control Racers]] | Special Thanks |
+| 1999 | [[1999 - Field & Stream - Trophy Bass 3D\|Field & Stream: Trophy Bass 3D]] | Past Contributions |
 | 2000 | [[2000 - Return of The Incredible Machine - Contraptions\|Return of the Incredible Machine: Contraptions]] | Designer, Art Director, Box Art |
-| 2000 | 3-D Ultra Pinball: Thrillride | Art Assistance |
-| 2000 | 3-D Ultra Radio Control Racers Deluxe | Art Special Thanks |
-| 2000 | Field & Stream: Trophy Bass 4 | Past Contributions |
+| 2000 | [[2000 - 3-D Ultra Pinball - Thrill Ride\|3-D Ultra Pinball: Thrillride]] | Art Assistance |
+| 2000 | [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition\|3-D Ultra Radio Control Racers Deluxe]] | Art Special Thanks |
+| 2000 | [[2000 - Field & Stream - Trophy Bass 4\|Field & Stream: Trophy Bass 4]] | Past Contributions |
 | 2001 | [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] | Designer, Art Director |
 
 ### Post-Dynamix (2002)
