@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "SWAT 3: Close Quarters Battle"]
 companies: ["Sierra On-Line", "Yosemite Entertainment", "Sierra Studios"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Tammy Dargan
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -77,8 +77,10 @@ The technical innovations in her games, particularly the transition from traditi
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Sierra On-Line (1991–1999)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Producer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Producer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's: Leisure Suit Larry's Casino]] | Producer |
@@ -87,17 +89,36 @@ The technical innovations in her games, particularly the transition from traditi
 | 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] | Producer |
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Producer |
 | 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Producer |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer, Producer, Writer |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer, Director, Producer, Writer |
 | 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Lead Designer, Project Leader, Writer |
 | 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Project Manager |
+| 1997 | King's Quest: Collection Series | Producer, Director |
 | 1999 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle]] | Designer, Director, Writer |
+
+### Sierra/Vivendi Years (2000–2006)
+
+| Year | Title | Role |
+|------|-------|------|
+| 2000 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle – Elite Edition]] | Designer, Director, Writer |
+| 2001 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Tactical Game of the Year Edition]] | Designer, Director, Writer |
+| 2006 | King's Quest Collection | Producer, Director |
+
+### Special Thanks
+
+| Year | Title |
+|------|-------|
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] |
+| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] |
+| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] |
 
 ## References
 
 [^ref-1]: [RAWG.io](https://rawg.io/creators/tammy-dargan) — Career overview and game credits
 [^ref-2]: [PC Gamer](https://www.pcgamer.com/best-sierra-adventure-games/) — Analysis of Sierra adventure games and Dargan's role
 [^ref-3]: [Starling Database](https://starlingdb.org/games/Police_Quest_IV.htm) — Police Quest IV development information
-[^ref-4]: [MobyGames](https://www.mobygames.com/person/3083/tammy-dargan/) — Complete game credits and career timeline
+[^ref-4]: [MobyGames](https://www.mobygames.com/person/3083/tammy-dargan/) — Complete game credits and career timeline (48 credits on 21 games)
 [^ref-5]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Police Quest: Open Season analysis and development details
 [^ref-6]: [IGN Interview 1999](https://www.ign.com/articles/1999/11/03/swat-3-close-quarters-battle-interview-2) — SWAT 3 development interview
 [^ref-7]: [Police Quest Fandom](https://policequest.fandom.com/wiki/Tammy_Dargan) — Biography and career information
@@ -111,6 +132,9 @@ The technical innovations in her games, particularly the transition from traditi
 [^ref-15]: [Metacritic](https://www.metacritic.com/person/tammy-dargan/) — Professional profile and game credits
 [^ref-16]: [IMDB](https://www.imdb.com/name/nm1010950/) — Complete filmography and game credits
 [^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2019/07/chief-gates-comes-to-oakhurst-a-cop-drama/) — Police Quest development history
-[^ref-18]: [Sierra Help Wiki](http://sciwiki.sierrahelp.com/index.php/Tammy_Dargan) — Developer profile and career information
+[^ref-18]: [Sierra Help Wiki](http://sciwiki.sierrahelp.com/index.php/Tammy_Dargan) — Developer profile, career information, and complete game credits including Special Thanks roles
 [^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/3083/tammy-dargan/credits/) — Complete game development credits
 [^ref-20]: [Reddit Sierra Discussion](https://www.reddit.com/r/Sierra/comments/1gxec0g/space_quest_1_vga_hit_or_miss/) — Community discussion of Sierra games and developers
+[^ref-21]: [King's Quest Fandom - KQ7 Development](https://kingsquest.fandom.com/wiki/KQ7_development) — King's Quest VII development credits confirming Special Thanks
+[^ref-22]: [Laura Bow Fandom](https://laurabow.fandom.com/wiki/The_Dagger_of_Amon_Ra) — The Dagger of Amon Ra credits confirming Special Thanks
+[^ref-23]: [IMDB - King's Quest VI Credits](https://www.imdb.com/title/tt0214857/fullcredits/) — King's Quest VI full credits listing

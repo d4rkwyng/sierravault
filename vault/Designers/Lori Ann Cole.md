@@ -5,11 +5,11 @@ birth_year: 1965
 death_year: null
 notable_games: ["Quest for Glory I: So You Want to Be a Hero", "Quest for Glory II: Trial by Fire", "Quest for Glory III: Wages of War"]
 companies: ["Sierra On-Line", "Transolar Games"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Lori Ann Cole
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -67,20 +67,29 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Co-Designer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Voice Actor (Queen Isabella) |
+### Sierra On-Line (1989–1998)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Director, Writer |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Co-Designer |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Co-Designer |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero VGA]] | Co-Designer |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Co-Designer |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer |
-| 1995 | [[1995 - Shannara\|Shannara]] | Co-Designer |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Co-Designer |
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | Voice Actor (Smaude) |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Co-Designer, Lead Writer |
-| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Co-Designer |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | Voice Actor (Queen Isabella) |
+| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Designer, Director |
+| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Additional Material |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Director, Co-Designer |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Director, Designer, Writer |
+| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer, Co-Director, Writer |
+| 1995 | [[1995 - Shannara\|Shannara]] | Co-Designer, Writer |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Designer |
+
+### Post-Sierra (2011–2023)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (Smaude) |
+| 2018 | Bolt Riley: A Reggae Adventure | Adventure Mob | Co-Designer |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Designer, Lead Writer, Director |
+| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Director, Writer |
 
 ## References
 
@@ -104,3 +113,4 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 [^ref-18]: https://www.retrogamer.net/?s=Lori+Ann+Cole — Retro gaming coverage and legacy discussion
 [^ref-19]: https://www.wired.com/2019/02/geeks-guide-game-design/ — Modern game design influence and legacy
 [^ref-20]: https://www.sierragamers.com/forums/topic/interview-with-lori-ann-cole-and-corey-cole/ — Joint interview with husband and collaborator
+[^ref-21]: https://en.wikipedia.org/wiki/The_Coles — Wikipedia article on The Coles with complete game credits

@@ -4,12 +4,12 @@ type: designer
 birth_year: 1966
 death_year: null
 notable_games: ["Betrayal at Krondor", "Dungeon Siege", "Might & Magic III: Isles of Terra"]
-companies: ["Dynamix", "Sony Computer Entertainment America", "Gas Powered Games"]
-last_updated: "2026-01-14"
+companies: ["New World Computing", "Dynamix", "Gas Powered Games", "Rapid Eye Entertainment", "Sony Computer Entertainment America"]
+last_updated: "2026-02-12"
 ---
 # Neal Hallford
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -23,13 +23,13 @@ Best known for the legendary computer role-playing game [[1993 - Betrayal at Kro
 
 Hallford's entertainment career began in 1984 when he started working as a disc jockey at KTOW radio station, demonstrating his early passion for audio production and storytelling.[^ref-6] During this period from 1984 to 1989, he created and produced the "Uncharted Regions" radio drama series, showcasing his talent for narrative construction and audio direction that would later prove invaluable in his game design work.[^ref-7] He pursued formal education at the University of Oklahoma, earning a degree in radio, television, and film production, which provided him with the technical and creative foundation for his multifaceted career.[^ref-8]
 
-The transition from radio to gaming came in 1990 when Hallford entered the computer gaming industry as a writer and game designer.[^ref-9] This career shift aligned perfectly with the golden age of computer role-playing games, allowing him to combine his storytelling abilities with the emerging interactive entertainment medium. His background in audio production and narrative development gave him a unique perspective on game design, particularly in understanding how to create immersive experiences that engaged players on multiple sensory levels.[^ref-10]
+The transition from radio to gaming came in 1990 when Hallford joined New World Computing as a writer and designer.[^ref-9] His first assignment was editing the text and writing the manual for Tunnels & Trolls: Crusaders of Khazan, translating the Japanese-developed RPG for the American market—a task that required him to play through the Japanese version to understand context despite not speaking the language.[^ref-41] He also authored the companion hintbook "Dreams of the Dragon" for the game.[^ref-42] This career shift aligned perfectly with the golden age of computer role-playing games, allowing him to combine his storytelling abilities with the emerging interactive entertainment medium. His background in audio production and narrative development gave him a unique perspective on game design, particularly in understanding how to create immersive experiences that engaged players on multiple sensory levels.[^ref-10]
 
 ### Gaming Industry Years
 
 Hallford's entry into the gaming world was marked by his work on several significant titles that helped define the RPG genre. His early contributions included work on Might & Magic III: Isles of Terra and Planet's Edge, projects that established his reputation as a skilled narrative designer and world-builder.[^ref-11] However, it was his role in creating [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] in 1993 that truly cemented his place in gaming history.[^ref-12]
 
-Following the success of Betrayal at Krondor, Hallford continued to work on notable projects including [[1997 - Betrayal in Antara\|Betrayal in Antara]] (1997) and [[1998 - Return to Krondor\|Return to Krondor]] (1998), maintaining his connection to the beloved Krondor universe.[^ref-13] His later gaming career included significant contributions to major titles such as Dungeon Siege (2002), Lords of EverQuest (2003), Dungeon Siege II (2005), and Supreme Commander (2007), demonstrating his ability to adapt to evolving gaming technologies and genres.[^ref-14]
+Following the success of Betrayal at Krondor, Hallford continued to work on notable projects including [[1997 - Betrayal in Antara\|Betrayal in Antara]] (1997) and [[1998 - Return to Krondor\|Return to Krondor]] (1998), maintaining his connection to the beloved Krondor universe.[^ref-13] His later gaming career included significant contributions to major titles such as Dungeon Siege (2002), Lords of EverQuest (2003), and Dungeon Siege II (2005).[^ref-14] During his time at Rapid Eye Entertainment as lead designer on Lords of EverQuest, he simultaneously contributed story and dialog to Snowblind Studios' Champions of Norrath (2004), a PlayStation 2 action RPG set in the same EverQuest universe.[^ref-43] He later returned to Gas Powered Games to provide story and dialogue for Supreme Commander (2007), demonstrating his ability to adapt to evolving gaming technologies and genres.[^ref-44]
 
 A colleague at Sony SCEA San Diego praised his meticulous approach: "I worked with Neal at Sony SCEA San Diego. He was a designer and he was an absolute pleasure to work with. He put in a lot of details into every level he described and designed which made it so much easier for the artists to envision."[^ref-15] This attention to detail and collaborative approach made him highly valued in the industry.
 
@@ -81,19 +81,28 @@ Currently maintaining an active online presence through his website and Substack
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
-| 1991 | Might & Magic III: Isles of Terra | Writer/Designer |
-| 1992 | Planet's Edge | Writer/Designer |
-| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | Lead Designer/Writer |
-| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Designer |
-| 1997 | [[1997 - Betrayal in Antara\|Betrayal in Antara]] | Designer/Writer |
-| 1998 | [[1998 - Return to Krondor\|Return to Krondor]] | Designer/Writer |
-| 2002 | Dungeon Siege | Designer/Writer |
-| 2003 | Lords of EverQuest | Designer |
-| 2005 | Dungeon Siege II | Designer/Writer |
-| 2007 | Supreme Commander | Narrative Designer |
-| 2008 | Golden Axe: Beast Rider | Designer |
+### New World Computing & Dynamix (1990–1994)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1990 | Tunnels & Trolls: Crusaders of Khazan | Documentation, Manual |
+| 1991 | Might & Magic III: Isles of Terra | Designer |
+| 1992 | Planet's Edge | Designer, Writer |
+| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | Lead Designer, Writer |
+| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Writer |
+
+### Post-Dynamix (1997–2008)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1997 | [[1997 - Betrayal in Antara\|Betrayal in Antara]] | Designer, Writer |
+| 1998 | [[1998 - Return to Krondor\|Return to Krondor]] | Original Story Concept |
+| 2002 | Dungeon Siege | Story and Dialogue |
+| 2003 | Lords of EverQuest | Lead Designer |
+| 2004 | Champions of Norrath | Story and Dialog |
+| 2005 | Dungeon Siege II | Story and Writing |
+| 2007 | Supreme Commander | Additional Writing |
+| 2008 | Golden Axe: Beast Rider | Writer |
 
 ## References
 
@@ -137,3 +146,7 @@ Currently maintaining an active online presence through his website and Substack
 [^ref-38]: [Amazon](https://www.amazon.com/stores/author/B0034PZZNU/about) — Collaborative work with spouse
 [^ref-39]: [Neal Hallford Official Site](https://www.nealhallford.com/about) — Current activities description
 [^ref-40]: [Retro Rents Podcast](https://retrorents.podbean.com/e/the-retro-rents-ep071-neal-hallford-from-krondor-to-movies/) — Mentorship and industry engagement
+[^ref-41]: [MobyGames - Tunnels & Trolls: Crusaders of Khazan](https://www.mobygames.com/game/3398/tunnels-trolls-crusaders-of-khazan/) — Documentation work and translation context
+[^ref-42]: [MobyGames Profile](https://www.mobygames.com/person/4269/neal-hallford/) — Career biography detailing T&T hintbook authorship
+[^ref-43]: [MobyGames Credits](https://www.mobygames.com/person/4269/neal-hallford/credits/) — Champions of Norrath story and dialog credit
+[^ref-44]: [MobyGames Profile](https://www.mobygames.com/person/4269/neal-hallford/) — Supreme Commander work after Champions of Norrath

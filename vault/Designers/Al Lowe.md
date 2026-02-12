@@ -3,13 +3,13 @@ title: "Al Lowe"
 type: designer
 birth_year: 1946
 death_year: null
-notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
+notable_games: ["Leisure Suit Larry in the Land of the Lounge Lizards", "Torin's Passage", "Freddy Pharkas: Frontier Pharmacist", "The Black Cauldron"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Al Lowe
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -61,6 +61,10 @@ The experience taught him important lessons about creative control and the chall
 
 Freddy Pharkas represented Lowe's attempt to create a comedy adventure game outside the Larry franchise, demonstrating his versatility as a designer and his commitment to humor-based gameplay.[^ref-31] The game featured the same attention to comedic timing and character development that made the Larry series successful, but applied to a completely different setting and premise. The project showcased Lowe's ability to create engaging characters and situations without relying on adult themes, proving that his design skills extended well beyond his most famous creation.
 
+### Torin's Passage (1995)
+
+[[1995 - Torin's Passage\|Torin's Passage]] marked a significant departure for Lowe—a family-friendly fantasy adventure game designed for parents and children to play together.[^ref-38] Inspired by his own desire to create something he could share with his daughter, the game followed young Torin and his morphing companion Boogle through the nested worlds of the planet Strata.[^ref-39] The game showcased Lowe's range as a designer, proving he could craft engaging puzzles and compelling stories without relying on adult humor. Critics praised the game's imaginative world-building and accessibility, though some felt it lacked the edge of Lowe's Larry titles.[^ref-40] Torin's Passage demonstrated that Lowe's fundamental design strengths—clever puzzles, memorable characters, and polished production values—transcended any single genre or audience.
+
 ## Design Philosophy
 
 Al Lowe's approach to game design was fundamentally rooted in accessibility and entertainment value rather than technical showmanship or niche appeal. His philosophy centered on creating games that would appeal to the broadest possible audience while still maintaining sophisticated humor and engaging gameplay mechanics.[^ref-32] He believed strongly in the power of comedy to make games more memorable and enjoyable, but always emphasized that the humor should serve the gameplay rather than overshadowing it.
@@ -79,36 +83,47 @@ Lowe's preservation of Sierra's development history through his personal archive
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Early Career & Disney Era (1982–1986)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Designer/Programmer |
 | 1982 | [[1982 - Dragon's Keep\|Dragon's Keep]] | Designer/Programmer |
 | 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure #6: The Dark Crystal]] | Programmer |
 | 1983 | [[1983 - Troll's Tale\|Troll's Tale]] | Designer/Programmer |
-| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Designer/Programmer |
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Lead Programmer |
-| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Music Composer |
+| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Designer/Programmer/Composer |
+| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Composer |
 | 1984 | [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]] | Designer/Programmer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Programmer, Music |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Programmer |
+| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Composer |
+| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Lead Programmer |
 | 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Designer/Programmer |
+
+### Sierra Golden Age (1987–1998)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Programmer |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Designer/Programmer |
+| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Designer/Programmer/Composer |
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Programmer |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Designer/Programmer |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Lead Programmer |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Designer/Programmer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Programmer |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Designer/Programmer |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Designer/Programmer |
+| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Designer/Programmer/Composer |
+| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Designer/Programmer/Producer |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Director/Designer/Programmer |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Director/Designer/Programmer/Composer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] | Designer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Programmer |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Designer/Programmer |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Designer/Programmer |
-| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail]] | Designer/Programmer |
+| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Designer/Writer |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Director/Producer/Designer/Writer/Composer |
+| 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Designer/Writer/Composer/Voice Director |
+| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Director/Designer/Writer/Composer |
 | 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Images |
+| 1998 | Leisure Suit Larry's Casino | Director/Designer/Writer/Composer |
+
+### Post-Sierra (2013–Present)
+
+| Year | Title | Role |
+|------|-------|------|
 | 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Special Thanks |
-| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Creative Consultant |
+| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Designer/Writer/Voice Director |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Special Thanks |
 
 ## References
 
@@ -149,3 +164,6 @@ Lowe's preservation of Sierra's development history through his personal archive
 [^ref-35]: [Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) — Legacy and influence on adventure games
 [^ref-36]: [Adventure Game Hotspot](https://adventuregamehotspot.com/interview/754/al-lowe-has-a-tech-talk-with-daniel-albu-in-a-leisurely-in-depth-video-interview) — Impact on mature content in games
 [^ref-37]: [PC Gamer](https://www.pcgamer.com/leisure-suit-larry-creator-al-lowe-is-selling-his-archive-including-sierra-source-code/) — Historical preservation contributions
+[^ref-38]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin's_Passage) — Torin's Passage as a family-friendly adventure game designed by Al Lowe
+[^ref-39]: [Al Lowe's Official Site - Torin's Passage](https://allowe.com/games/torin/torin.html) — Background on the game's creation and design
+[^ref-40]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) — Critical reception and design credits

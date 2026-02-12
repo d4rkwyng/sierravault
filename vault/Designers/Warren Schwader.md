@@ -1,110 +1,166 @@
 ---
 title: "Warren Schwader"
 type: designer
-birth_year: null
+birth_year: 1959
 death_year: null
-notable_games: ["Hoyle Official Book of Games series", "Jones in the Fast Lane", "Threshold"]
-companies: ["Sierra On-Line", "On-Line Systems", "Dynamix"]
-last_updated: "2026-01-14"
+notable_games: ["Threshold", "Hoyle Official Book of Games series", "Jones in the Fast Lane", "Jewel Quest series"]
+companies: ["On-Line Systems", "Sierra On-Line", "ImagiNation Network", "iWin", "Solitaire Network"]
+last_updated: "2026-02-12"
 ---
 # Warren Schwader
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
-Warren Schwader stands as one of the pioneering figures in early computer game design, with a career spanning from the arcade era of the early 1980s through the golden age of PC gaming.[^ref-1] Best known for his extensive work on Sierra On-Line's Hoyle series of card and board games, Schwader helped establish the template for computer adaptations of traditional games that would influence the industry for decades.[^ref-2] His career trajectory from arcade programmer to lead designer on major PC titles reflects the broader evolution of the video game industry itself.[^ref-3]
+Warren Schwader is a pioneering game programmer and designer whose career spans over four decades, from the earliest days of Apple II programming to modern casual gaming.[^ref-halcyon] The first programmer ever hired by Ken and Roberta Williams at On-Line Systems (later Sierra On-Line), Schwader's journey began when Ken discovered his self-programmed cribbage game and offered him a job that would launch one of the longest careers in the game industry.[^ref-retro365]
 
-Beginning his career during the formative years of the video game industry, Schwader made his mark with early arcade titles before transitioning to personal computer development.[^ref-4] His most significant contributions came during his tenure at Sierra On-Line, where he became the primary architect of the Hoyle gaming franchise, one of the most successful series of traditional game adaptations in computer gaming history.[^ref-5] Beyond his technical contributions, Schwader's work helped legitimize computer gaming as a medium for traditional card and board games, bringing these classic pastimes to a new generation of digital players.[^ref-6]
+Beginning with arcade-style action games like [[1981 - Threshold\|Threshold]]—praised by *Softalk* magazine as "the epitome of arcade gaming yet devised" for the Apple II—Schwader later became Sierra's leading designer of card and board game adaptations.[^ref-halcyon] His work on the Hoyle Official Book of Games series established the template for digital traditional games that influenced the industry for decades.[^ref-wikipedia-hoyle] After leaving Sierra in 1993, he continued his specialty in casual games, eventually becoming the designer and primary engineer behind the massively successful Jewel Quest franchise at iWin, while also founding Solitaire Network in 2001.[^ref-solitaire-network]
 
 ## Career
 
-### Early Career
+### Early Years and Apple II Pioneering (1977–1980)
 
-Schwader entered the video game industry during its explosive growth period in the early 1980s, working initially in the arcade sector.[^ref-7] His first major contribution to the industry came with the 1981 arcade game Threshold, which showcased his programming abilities and understanding of action game mechanics.[^ref-8] This early work demonstrated his technical proficiency and creative vision that would later serve him well in the personal computer gaming market.[^ref-9]
+Warren Schwader's introduction to computers came in 1977 when his older brother, paralyzed in a car accident and seeking mental stimulation, purchased one of the first Apple II computers.[^ref-halcyon] Schwader became his brother's extended hands, entering commands and bringing the machine to life. The experience captivated the methodical young man from rural Wisconsin, and countless hours were spent exploring software and experimenting with graphics demos.[^ref-retro365]
 
-Following his success with Threshold, Schwader continued his arcade career with 1983's Sammy Lightfoot, further establishing his reputation as a capable programmer and game designer.[^ref-10] These early arcade experiences provided him with crucial technical skills and an understanding of game mechanics that would prove invaluable as the industry shifted toward home computer platforms.[^ref-11] His transition from arcade development to personal computer gaming reflected the broader industry trend as home computers became more powerful and widespread.[^ref-12]
+Being an avid arcade game player, Schwader's debugging experiments soon evolved into fully playable games. After writing Bustout, a simple Lo-Res Breakout clone, he dove into assembly language—spending two years teaching himself through pure trial and error, as no books existed on the subject and magazine articles were scarce.[^ref-halcyon] His efforts produced Smash-Up, a Head-On clone, which he sold on cassettes to local stores for a few hundred copies.[^ref-halcyon]
 
-### Sierra Years
+In 1980, after Parker Pen closed the factory division where Schwader worked as a machinist apprentice, he devoted himself full-time to game development while caring for his disabled brother.[^ref-halcyon] His next project was born from a personal need: an avid cribbage player who often lacked opponents, he created a computer program that could be his partner. Using the Apple II's crude built-in mini-assembler, Schwader programmed an algorithm that could evaluate hands by 12 major rules—a sophisticated AI for its time.[^ref-retro365]
 
-Schwader's association with Sierra On-Line marked the most productive and influential period of his career.[^ref-13] Joining the company during its period of rapid expansion, he became instrumental in developing Sierra's presence in the traditional games market, a significant departure from their adventure game focus.[^ref-14] His work at Sierra began with the ambitious project of creating the first Hoyle Official Book of Games, which would establish a franchise that continued for over a decade.[^ref-15]
+### On-Line Systems: First Hire (1980–1983)
 
-The development of [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] in 1989 represented a significant technical and design challenge.[^ref-16] Schwader had to create digital versions of classic card games that maintained the authentic feel and strategic depth of their physical counterparts while taking advantage of the computer medium's unique capabilities.[^ref-17] His success with this initial volume led to immediate work on [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]], also released in 1989, demonstrating Sierra's confidence in both the concept and Schwader's execution.[^ref-18]
+In 1980, while Ken and Roberta Williams were working on *The Wizard and the Princess* following the success of *Mystery House*, a cassette tape reached Ken containing Schwader's cribbage game.[^ref-retro365] Impressed by the crisp Hi-Res graphics and well-crafted logic—skills that only a handful of programmers possessed at the time—Ken reached out with a job offer.[^ref-retro365]
 
-The Hoyle series continued to grow under Schwader's guidance throughout the early 1990s. [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] in 1990 and [[1991 - Hoyle Official Book of Games - Volume 4\|Hoyle Official Book of Games: Volume 4]] in 1991 expanded the franchise's scope and refined the gameplay mechanics that had made the earlier volumes successful.[^ref-19] Each successive volume incorporated improved graphics, enhanced AI, and additional games, showcasing Schwader's commitment to continuous improvement and innovation within the traditional games genre.[^ref-20]
+The decision to accept meant leaving Wisconsin, his disabled brother, and everything familiar for a small software company in the foothills of California's Sierra Nevada mountains. With his brother's blessing, Schwader made the bold move, becoming On-Line Systems' first hired programmer (the second programmer after Ken himself).[^ref-levy] He moved into one of Williams' small two-bedroom houses, rent-free.[^ref-retro365]
 
-### Later Career
+His cribbage game was re-released on floppy disk as [[1981 - Hi-Res Cribbage\|Hi-Res Cribbage]] in early 1981, selling around 2,000 copies—ten times what his cassette version had managed.[^ref-retro365] That same year, On-Line released [[1981 - Thrilogy of Games\|Thrilogy of Games]], a compilation of Schwader's early creations: Smash-Up, Bustout, and William Tell.[^ref-halcyon]
 
-Following his success with the main Hoyle series, Schwader expanded his role at Sierra to encompass a broader range of gaming projects.[^ref-1] His work on [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] in 1991 demonstrated his versatility as a designer, moving beyond traditional card and board games to create an original life simulation game that combined strategy and humor.[^ref-2] This project showcased his ability to innovate beyond the constraints of adapting existing games, creating entirely new gaming experiences.[^ref-3]
+Ken Williams then approached Schwader about creating a game inspired by *Astro Blaster*, an arcade game at the local Ahwahnee Tack and Feed store.[^ref-halcyon] Rather than duplicate it exactly, Schwader took the concept and ran with it. Over four months, including a crucial two-week collaboration with Ken on the animation engine, he created [[1981 - Threshold\|Threshold]].[^ref-halcyon] The game sold approximately 25,000 copies and established Schwader as one of the premier Apple II programmers.[^ref-halcyon]
 
-The mid-1990s saw Schwader continue to evolve the Hoyle franchise with more specialized releases. [[1996 - Hoyle Bridge\|Hoyle Bridge]] in 1996 represented a focused approach to one of the most complex card games, while [[1996 - Hoyle Solitaire\|Hoyle Solitaire]] in 1995 capitalized on the growing popularity of computer solitaire games.[^ref-4] His work during this period reflected the maturing PC gaming market and the increasing sophistication of both hardware and player expectations.[^ref-5]
+Schwader also contributed "Special Features Development" to [[1982 - Time Zone\|Time Zone]], Sierra's massive six-disk adventure, before creating [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] in 1983.[^ref-mobygames] For Sammy Lightfoot, he invented a page-flipping technique to eliminate screen flicker—displaying one page while preparing the next, then flipping instantly for smooth animation. This technique is still used in game development today.[^ref-halcyon]
+
+### The Crash and Wilderness Years (1984–1988)
+
+The video game crash of 1983-1984 nearly destroyed Sierra. As a freelancer, Schwader didn't immediately feel the layoffs, but the market for his innovative Apple II games evaporated.[^ref-halcyon] Despite creating several impressive tech demos—including an unreleased sequel *Sammy's Icehouse*, a jet-pack game inspired by *Major Havoc*, and a full-color skateboard game—Sierra turned him down each time. The Apple II market had died.[^ref-halcyon]
+
+When his savings from Threshold and Sammy Lightfoot ran out in February 1985, Schwader—now married with a pregnant wife—took manual labor jobs: body and paint work, then masonry and concrete. He later joked that doing body work was "computer motivation."[^ref-halcyon]
+
+### Return to Sierra (1988–1993)
+
+In March 1988, a chance encounter with Ken Williams at the post office changed everything. Sierra's *King's Quest* had saved the company, and Ken asked Schwader to return and work with SCI, their new proprietary scripting language.[^ref-halcyon] This time the decision was easy—he lived only three miles away.[^ref-halcyon]
+
+Schwader's specialty in card and board games made him the natural choice to develop Sierra's first traditional games collection. [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] (1989) presented an ambitious challenge: implementing card games and AI opponents in SCI, a language designed for adventure games.[^ref-wikipedia-hoyle] The game included 18 computer opponents, including characters from other Sierra games (King Graham, Roger Wilco, Larry Laffer, Sonny Bonds) as well as Schwader himself as a playable character.[^ref-archive-hoyle]
+
+The series continued with [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] (1990), featuring 28 solitaire variants, and [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] (1991), which introduced board games.[^ref-halcyon] The first volume alone sold over 250,000 copies by 1990.[^ref-wikipedia-hoyle]
+
+Schwader also served as lead programmer on [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] (1991), a life simulation board game that became Sierra's first multimedia CD-ROM release when the enhanced version shipped in 1992.[^ref-halcyon] He contributed to [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] (1992) and designed [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] (1993), his final Sierra project.[^ref-mobygames]
+
+### The Sierra Network and ImagiNation (1993–~1997)
+
+Sierra had created The Sierra Network (TSN), later renamed The ImagiNation Network (INN), an early online gaming service.[^ref-halcyon] The platform's focus on card and board games made it a natural fit for Schwader's expertise. He transferred to TSN in 1993, though he had wanted to join from the start—he was finishing Jones in the Fast Lane CD-ROM at the time of its launch.[^ref-halcyon]
+
+When Sierra sold its interest in INN, Schwader stayed with the network. In his 1996 Halcyon Days interview, he noted: "I'm a person that hates change. The notoriety that I got from being with Sierra so long is a result of that."[^ref-halcyon]
+
+### iWin and Casual Gaming Success (2004–2016)
+
+After working at AOL Games and BigPrizes.com, Schwader joined iWin.com, where he became the designer and primary engineer for one of casual gaming's biggest franchises: Jewel Quest.[^ref-solitaire-network]
+
+The original [[2004 - Jewel Quest\|Jewel Quest]] (2004) was an instant hit, spawning numerous sequels that Schwader designed and engineered: Jewel Quest II (2007), Jewel Quest Solitaire (2007), Jewel Quest Solitaire II (2007), Jewel Quest III (2008), Jewel Quest IV: Heritage (2009), Jewel Quest Solitaire III (2009), and Jewel Quest: Seven Seas (2016).[^ref-mobygames] He also designed Deal or No Deal (2011) and Family Feud adaptations for iWin.[^ref-solitaire-network]
+
+As colleague Dwain Theobald wrote: "Warren is the designer and primary engineer for the very successful Jewel Quest games. He has a great eye for detail and he knows how to polish a product to give it AAA quality and to take it to the next level."[^ref-linkedin]
+
+### Solitaire Network and Current Work (2001–Present)
+
+In 2001, Schwader founded Solitaire Network, a website offering free-to-play solitaire and mahjong games.[^ref-solitaire-network] The site continues to operate from Oakhurst, California, just miles from Yosemite National Park—and from the old Sierra headquarters where his career began.[^ref-solitaire-network]
+
+He also created the Clutter puzzle game series, which by December 2024 had generated over $2 million in royalties across 17 titles.[^ref-linkedin] Currently, Schwader owns and operates MahjongRush.com in addition to Solitaire Network.[^ref-linkedin]
 
 ## Notable Works
 
-### Hoyle Official Book of Games Series (1989-1993)
+### Threshold (1981)
 
-The Hoyle Official Book of Games series represents Schwader's most significant contribution to computer gaming, establishing a template for traditional game adaptations that influenced countless subsequent titles.[^ref-6] Beginning with [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]], Schwader created a comprehensive digital card game collection that maintained the authenticity and strategic depth of traditional games while leveraging the unique advantages of computer gaming.[^ref-7] The series' success stemmed from Schwader's meticulous attention to game rules, his sophisticated AI programming, and his understanding of what made these classic games enduringly popular.[^ref-8]
+[[1981 - Threshold\|Threshold]] established Schwader's reputation as one of the elite Apple II programmers. The space shooter, inspired by *Astro Blaster*, featured 24 levels of increasingly difficult enemy waves—though Schwader kept this secret, telling players "when they saw the last ones they'd know it."[^ref-halcyon] *Softalk* magazine called it "the epitome of arcade gaming yet devised" for the Apple II.[^ref-halcyon] The game sold approximately 25,000 copies and was later ported to Atari 2600.[^ref-halcyon]
 
-The technical challenges of creating accurate digital versions of traditional card games required Schwader to develop innovative solutions for AI behavior, game state management, and user interface design.[^ref-9] Each volume in the series built upon the previous entries, incorporating player feedback and technological advances to create increasingly polished gaming experiences.[^ref-10] The series' continued success through [[1996 - Hoyle Official Book of Games - Volume 5\|Hoyle Official Book of Games: Volume 5]] in 1993 demonstrated both the enduring appeal of traditional games and Schwader's skill in adapting them for digital platforms.[^ref-11]
+### Hoyle Official Book of Games Series (1989–1993)
+
+The Hoyle series represents Schwader's most significant contribution to Sierra, demonstrating that their SCI engine could handle more than adventure games. He served as lead designer and programmer for the first three volumes and Hoyle Classic Card Games, establishing conventions for AI opponents and digital card game interfaces that influenced the genre for decades.[^ref-wikipedia-hoyle]
 
 ### Jones in the Fast Lane (1991)
 
-[[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] showcased Schwader's creative range beyond traditional game adaptations, presenting an original life simulation that combined strategic gameplay with Sierra's characteristic humor.[^ref-12] The game challenged players to balance career, education, and personal life while competing against computer or human opponents, creating a unique gaming experience that reflected contemporary social concerns and aspirations.[^ref-13] Schwader's design successfully translated the complexity of life decisions into engaging gameplay mechanics, demonstrating his ability to create compelling original content alongside his adaptation work.[^ref-14]
+[[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] showcased Schwader's range beyond card games, presenting an original life simulation where players balance career, education, and personal goals.[^ref-halcyon] As Sierra's first multimedia CD-ROM release (1992 enhanced version), it marked a technological milestone in addition to its gameplay innovations.[^ref-halcyon]
 
-### Threshold (1981)
+### Jewel Quest Series (2004–2016)
 
-As one of Schwader's earliest professional works, Threshold established his reputation in the arcade gaming industry and demonstrated his technical proficiency during the medium's formative years.[^ref-15] The game's success helped launch his career and provided the foundation for his later achievements in personal computer gaming.[^ref-16] While primarily an arcade action game, Threshold showcased design sensibilities and technical skills that would later prove crucial in his more complex computer game projects.[^ref-17]
+At iWin, Schwader designed and engineered the Jewel Quest franchise, one of casual gaming's most successful series.[^ref-linkedin] The match-3 puzzle games with archaeological themes spawned numerous sequels and spin-offs, demonstrating his ability to adapt to new platforms and audiences while maintaining the game design expertise honed over decades.[^ref-mobygames]
 
 ## Design Philosophy
 
-Schwader's approach to game design emphasized authenticity and accessibility, particularly in his work adapting traditional games for computer platforms.[^ref-18] He believed in maintaining the essential character and strategic depth of classic games while utilizing technology to enhance rather than replace the core gameplay experience.[^ref-19] This philosophy is evident throughout the Hoyle series, where sophisticated AI opponents and convenient digital features complemented rather than overshadowed the fundamental appeal of the traditional games.[^ref-20]
+Schwader's approach to game design emphasizes technical excellence and player engagement. In his Halcyon Days interview, he described the philosophy behind Threshold: "We set out to provide the same experience [as Astro Blaster] for Threshold players... It was not unusual for me to get nasty letters from people thanking me for impelling them to shell out $40 in order to be frustrated by never being able to get to the last level."[^ref-halcyon]
 
-His design work consistently demonstrated respect for the source material combined with an understanding of the computer gaming medium's unique strengths and limitations.[^ref-1] Schwader's games typically featured intuitive interfaces, comprehensive rule explanations, and AI opponents that provided appropriate challenge levels for players of varying skill.[^ref-2] This attention to accessibility helped introduce traditional games to new audiences while satisfying experienced players seeking digital versions of their favorite pastimes.[^ref-3]
+His transition from arcade action to card and board games reflected a practical understanding of his strengths: "I had transferred to TSN because they made the kind of games that had become my specialty through the years: card and board games."[^ref-halcyon]
+
+On the games industry itself, Schwader observed in 1996: "Just as arcade games crashed in 1984, games that don't support network play will crash if they haven't already. Happily, I am in the right place at the right time, being with the ImagiNation Network."[^ref-halcyon] His subsequent success in casual and online gaming validated this prediction.
 
 ## Legacy
 
-Warren Schwader's impact on the gaming industry extends far beyond his individual titles, as his work on the Hoyle series established lasting conventions for traditional game adaptations that continue to influence contemporary game development.[^ref-4] His success in creating commercially viable computer versions of card and board games demonstrated the market potential for this genre, inspiring numerous imitators and establishing traditional games as a legitimate category within computer gaming.[^ref-5] The longevity and continued popularity of the Hoyle brand testifies to the solid foundation Schwader created during his tenure at Sierra.[^ref-6]
+Warren Schwader's career spans the entire history of personal computer gaming, from the Apple II's pioneering days through the modern casual gaming era. As On-Line Systems' first hire, he helped establish the company that became Sierra On-Line.[^ref-levy] His work on Threshold pushed the Apple II's capabilities and earned him a place among the legendary programmers of that platform, alongside Bill Budge and Nasir Gebelli—developers he personally admired.[^ref-halcyon]
 
-Beyond commercial success, Schwader's work contributed to the broader acceptance of computer gaming as a legitimate entertainment medium.[^ref-7] By adapting respected traditional games, he helped bridge the gap between conventional gaming and the emerging world of computer entertainment, making digital games more acceptable to mainstream audiences.[^ref-8] His technical innovations in AI programming and user interface design for traditional games influenced subsequent developments in these areas across the broader gaming industry.[^ref-9]
+The Hoyle series established Sierra's presence in the traditional games market and demonstrated that their technology could support genres beyond adventure games. His later work on Jewel Quest proved his ability to evolve with the industry, bringing decades of experience to casual gaming's biggest franchises.
+
+Perhaps most remarkably, Schwader never strayed far from games. Even during his "wilderness years" of manual labor (1985-1988), his colleagues knew it was only "computer motivation."[^ref-halcyon] Over 45 years after writing his first code on his brother's Apple II, he continues designing and developing games from his California home near Yosemite—not far from where Ken Williams once spotted a 21-year-old's cribbage game and launched an industry pioneer's career.[^ref-retro365]
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
-| 1981 | [[1981 - Threshold\|Threshold]] | Designer/Programmer |
-| 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] | Designer/Programmer |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Lead Designer |
-| 1989 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Lead Designer |
-| 1990 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Lead Designer |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 4\|Hoyle Official Book of Games: Volume 4]] | Lead Designer |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Designer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Designer |
-| 1996 | [[1996 - Hoyle Bridge\|Hoyle Bridge]] | Lead Designer |
-| 1993 | [[1996 - Hoyle Official Book of Games - Volume 5\|Hoyle Official Book of Games: Volume 5]] | Lead Designer |
-| 1995 | [[1996 - Hoyle Solitaire\|Hoyle Solitaire]] | Designer |
-| 1996 | [[1996 - Hoyle Casino\|Hoyle Casino]] | Designer |
-| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Designer |
-| 1997 | [[1997 - Hoyle Classic Board Games\|Hoyle Classic Board Games]] | Designer |
+### Apple II & Arcade Era (1980–1985)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1981 | [[1981 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Designer, Programmer |
+| 1981 | [[1981 - Thrilogy of Games\|Thrilogy of Games]] | Designer, Programmer |
+| 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer |
+| 1982 | [[1982 - Time Zone\|Time Zone]] | Special Features Development |
+| 1982 | [[1982 - Threshold (Atari 2600)\|Threshold (Atari 2600)]] | Designer |
+| 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] | Creator |
+
+### Sierra On-Line (1988–1993)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Designer, Programmer, Artist |
+| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Designer, Programmer, Artist |
+| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Lead Programmer |
+| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Lead Programmer, Writer |
+| 1992 | [[1992 - Jones in the Fast Lane CD-ROM\|Jones in the Fast Lane CD-ROM]] | Lead Programmer, Writer |
+| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Lead Programmer |
+| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Designer, Senior Programmer |
+
+### Post-Sierra (1999–2016)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1999 | You Don't Know Jack: Offline | Sierra | Special Thanks |
+| 2004 | Jewel Quest | iWin | Designer, Engineer, Art Director |
+| 2005 | Mah Jong Quest | iWin | Systems Engineer |
+| 2006 | Jewel Quest (Xbox 360, Mac) | iWin | Designer, Engineer |
+| 2007 | Jewel Quest II | iWin | Designer, Lead Engineer |
+| 2007 | Jewel Quest Solitaire | iWin | Designer, Programmer |
+| 2007 | Jewel Quest Solitaire II | iWin | Designer, Programmer |
+| 2008 | Jewel Quest III | iWin | Designer, Programmer, Producer |
+| 2009 | Jewel Quest IV: Heritage | iWin | Designer, Engineer, Producer |
+| 2009 | Jewel Quest Solitaire III | iWin | Original Concept |
+| 2011 | Deal or No Deal | iWin | Creative Producer, Designer, Lead Engineer |
+| 2016 | Jewel Quest: Seven Seas | iWin | Creative Producer, Designer |
 
 ## References
 
-[^ref-1]: [Retro365 Blog - Hi-Res Cribbage by Warren Schwader](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) — Career overview and Sierra connection
-[^ref-2]: [Dadgum Halcyon Book Entry](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — Biographical information and game development history
-[^ref-3]: [Retro Gamer Search Results](https://www.retrogamer.net/?s=Warren+Schwader) — Industry recognition and contemporary coverage
-[^ref-4]: [HandWiki - Hoyle's Official Book of Games](https://handwiki.org/wiki/Software:Hoyle's_Official_Book_of_Games) — Technical details of the Hoyle series development
-[^ref-5]: [Solitaire Network Contact](https://www.solitairenetwork.com/contactus.html) — Later career connections and ongoing involvement
-[^ref-6]: [Sierra Gamers Hint Books](https://www.sierragamers.com/hint-books/) — Documentation of Sierra-era work and publications
-[^ref-7]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Warren+Schwader) — Coverage of adventure gaming connections
-[^ref-8]: [MobyGames Profile](https://www.mobygames.com/person/9371/warren-schwader/) — Complete game credits and career timeline
-[^ref-9]: [TimeToast Timeline](https://www.timetoast.com/timelines/life-and-work-of-warren-schwader) — Chronological career development
-[^ref-10]: [Sierra Planet Easter Eggs](http://www.sierraplanet.net/other-pages/curiosities/easter-egg-hunt/) — Behind-the-scenes development stories
-[^ref-11]: [YouTube Documentation](https://www.youtube.com/watch?v=K_AKuntGaIo) — Video interviews and gameplay demonstrations
-[^ref-12]: [IMDb Search Results](https://www.imdb.com/find/?q=Warren+Schwader&s=nm) — Multimedia and cross-platform work
-[^ref-13]: [Reddit Sierra Games Discussion](https://www.reddit.com/r/80s/comments/1gucdi1/anyone_else_love_sierra_games_space_quest_kings/) — Fan community recognition and legacy discussion
-[^ref-14]: [Quest for Glory Wiki](https://questforglory.fandom.com/wiki/Quest_For_Glory_Collections) — Sierra development team connections
-[^ref-15]: [Giant Bomb Search](https://www.giantbomb.com/search/?q=Warren+Schwader&filter=person) — Game database entries and community coverage
-[^ref-16]: [Every Game Going](https://www.everygamegoing.com/lauthor/Warren-Schwader/17700/games/) — Comprehensive game bibliography
-[^ref-17]: [RAWG Creator Profile](https://rawg.io/creators/warren-schwader) — Modern gaming database recognition
-[^ref-18]: [MobyGames Credits](https://www.mobygames.com/person/9371/warren-schwader/credits/) — Detailed role descriptions and project involvement
-[^ref-19]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Analysis of Sierra development culture and team dynamics
-[^ref-20]: [Wizwords Jones Analysis](http://www.wizwords.net/jones-in-the-fast-lane) — In-depth examination of Jones in the Fast Lane development and design philosophy
+[^ref-halcyon]: [Halcyon Days - Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) — Comprehensive 1996 interview covering early career, Apple II development, and design philosophy
+[^ref-retro365]: [Retro365 - Hi-Res Cribbage and On-Line Systems' First Hire](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) — Historical account of Schwader's hiring at On-Line Systems
+[^ref-levy]: Steven Levy, *Hackers: Heroes of the Computer Revolution* (1984) — Documents early Sierra On-Line history including Schwader's role as first programmer hire
+[^ref-mobygames]: [MobyGames - Warren Schwader](https://www.mobygames.com/person/9371/warren-schwader/) — Complete game credits and career timeline
+[^ref-wikipedia-hoyle]: [Wikipedia - Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) — Technical details of the Hoyle series development and sales figures
+[^ref-archive-hoyle]: [Internet Archive - Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) — Documentation of computer opponents including Schwader as a character
+[^ref-solitaire-network]: [Solitaire Network - Contact Us](https://www.solitairenetwork.com/contactus.html) — Schwader's company history and post-Sierra career details
+[^ref-linkedin]: [LinkedIn - Warren Schwader](https://www.linkedin.com/in/warren-schwader-0b11661/) — Professional testimonials and Clutter games success milestone
+[^ref-sierragamers]: [Sierra Gamers - Warren Schwader](https://www.sierragamers.com/warren-schwader/) — Sierra game credits and career summary
+[^ref-timetoast]: [TimeToast - Life and Work of Warren Schwader](https://www.timetoast.com/timelines/life-and-work-of-warren-schwader) — Chronological career timeline
+[^ref-kingsquest-wiki]: [King's Quest Omnipedia - Warren Schwader](https://kingsquest.fandom.com/wiki/Warren_Schwader) — Documentation of Schwader as an in-game character in Hoyle series
