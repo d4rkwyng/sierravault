@@ -108,20 +108,20 @@ His dual career success in both gaming and illustration has made him a role mode
 
 | Year | Title | Role |
 |------|-------|------|
-| 1994 | Detroit | Artist |
-| 1994 | Lords of the Realm | Art Director |
-| 1994 | Front Lines | Art Director |
+| 1994 | [[1994 - Detroit\|Detroit]] | Artist |
+| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Art Director |
+| 1994 | [[1994 - Front Lines\|Front Lines]] | Art Director |
 | 1995 | [[1992 - Caesar\|Caesar II]] | Art Director |
-| 1995 | Breach 3 | Art Director, 3D Graphics, Campaign Designer |
-| 1995 | High Seas Trader | Art Director |
+| 1995 | [[1995 - Breach 3\|Breach 3]] | Art Director, 3D Graphics, Campaign Designer |
+| 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Art Director |
 | 1995 | Ultimate Soccer Manager | Art Director |
-| 1995 | Casino De Luxe | Art Director |
-| 1996 | Robert E. Lee: Civil War General | Art Director |
-| 1996 | Space Bucks | Art Director |
+| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Art Director |
+| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Art Director |
+| 1996 | [[1996 - Space Bucks\|Space Bucks]] | Art Director |
 | 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Art Director |
-| 1996 | Lords of the Realm II | Creative Director, Game Designer |
-| 1997 | Lords of the Realm II: Siege Pack | Creative Director, Game Designer |
-| 1997 | Grant, Lee, Sherman: Civil War Generals 2 | Creative Director |
+| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Creative Director, Game Designer |
+| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Creative Director, Game Designer |
+| 1997 | [[1997 - Civil War Generals 2 - Grant–Lee–Sherman\|Grant, Lee, Sherman: Civil War Generals 2]] | Creative Director |
 | 1997 | [[1997 - Lords of Magic\|Lords of Magic]] | Creative Director, Lead Designer |
 | 1998 | [[1998 - Lords of Magic - Special Edition\|Lords of Magic: Special Edition]] | Lead Designer |
 | 1998 | [[1998 - Caesar III\|Caesar III]] | Studio Head |
