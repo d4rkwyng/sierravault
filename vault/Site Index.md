@@ -8,7 +8,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-This archive contains **516 game pages** across 74 categories.
+This archive contains **507 game pages** across 74 categories.
 
 | Category | Pages |
 |----------|-------|
@@ -28,7 +28,7 @@ This archive contains **516 game pages** across 74 categories.
 | [[#Discovery\|Discovery]] | 4 |
 | [[#Disney\|Disney]] | 4 |
 | [[#Dr. Brain\|Dr. Brain]] | 8 |
-| [[#Dynamix\|Dynamix]] | 18 |
+| [[#Dynamix\|Dynamix]] | 12 |
 | [[#EcoQuest\|EcoQuest]] | 2 |
 | [[#Education\|Education]] | 9 |
 | [[#Empire Earth\|Empire Earth]] | 2 |
@@ -57,7 +57,7 @@ This archive contains **516 game pages** across 74 categories.
 | [[#Metaltech\|Metaltech]] | 11 |
 | [[#Mixed Up\|Mixed Up]] | 4 |
 | [[#Monolith\|Monolith]] | 3 |
-| [[#NASCAR\|NASCAR]] | 10 |
+| [[#NASCAR\|NASCAR]] | 9 |
 | [[#Oils Well\|Oils Well]] | 2 |
 | [[#Outpost\|Outpost]] | 2 |
 | [[#PGA Championship Golf\|PGA Championship Golf]] | 5 |
@@ -75,7 +75,7 @@ This archive contains **516 game pages** across 74 categories.
 | [[#Sierra Sports\|Sierra Sports]] | 5 |
 | [[#Space Quest\|Space Quest]] | 7 |
 | [[#Spiritual Successors\|Spiritual Successors]] | 18 |
-| [[#Standalone\|Standalone]] | 29 |
+| [[#Standalone\|Standalone]] | 28 |
 | [[#Stellar 7\|Stellar 7]] | 4 |
 | [[#Strategy\|Strategy]] | 10 |
 | [[#Take a Break!\|Take a Break!]] | 2 |
@@ -282,13 +282,7 @@ This archive contains **516 game pages** across 74 categories.
 | Year | Game | Last Updated |
 |------|------|--------------|
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | 2026-01-11 |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | 2026-01-11 |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | 2026-01-14 |
-| 1988 | [[1989 - Caveman Ugh-lympics\|Caveman Ugh-Lympics]] | 2026-01-11 |
-| 1988 | [[1990 - F-14 Tomcat\|F-14 Tomcat]] | 2026-01-10 |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | 2026-01-09 |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | 2026-01-11 |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | 2026-01-10 |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | 2026-01-10 |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | 2026-01-10 |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | 2026-01-22 |
@@ -665,7 +659,6 @@ This archive contains **516 game pages** across 74 categories.
 
 | Year | Game | Last Updated |
 |------|------|--------------|
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | 2026-01-14 |
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | 2026-01-10 |
 | 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | 2026-01-09 |
 | 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2 Grand National Series Expansion]] | 2026-01-09 |
@@ -863,7 +856,6 @@ This archive contains **516 game pages** across 74 categories.
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | 2026-01-09 |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | 2026-01-09 |
 | 1993 | [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping: A Talking Book I Can Read]] | 2026-01-09 |
-| 1993 | [[1993 - The Beverly Hillbillies\|The Beverly Hillbillies]] | 2026-01-10 |
 | 1994 | [[1994 - Battle Bugs\|Battle Bugs]] | 2026-01-10 |
 | 1995 | [[1995 - Air Cavalry\|Air Cavalry]] | 2026-01-10 |
 | 1995 | [[1995 - Fast Attack - High Tech Submarine Warfare\|Fast Attack: High Tech Submarine Warfare]] | 2026-01-11 |

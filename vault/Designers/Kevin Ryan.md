@@ -89,10 +89,10 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 | Year | Title | Role |
 |------|------|------|
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Programmer (C64 version) |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Programmer/Graphics/Sound |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Designer/Programmer |
+| 1986 | Arcticfox | Programmer/Graphics/Sound |
+| 1987 | Skyfox II: The Cygnus Conflict | Designer/Programmer |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Programmer |
-| 1990 | [[1990 - F-14 Tomcat\|F-14 Tomcat]] | Designer/Programmer |
+| 1990 | F-14 Tomcat | Designer/Programmer |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Programmer |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Programmer |
 | 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Designer/Programmer |

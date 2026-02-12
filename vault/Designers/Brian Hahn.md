@@ -27,7 +27,7 @@ Brian Hahn attended Lane Community College and the University of Oregon beginnin
 
 ### Dynamix Years (1987–2001)
 
-Hahn was hired by Dynamix in December 1987 to work as an art director, beginning a tenure that would last thirteen years and eleven months.[^ref-1] At Dynamix, he served multiple roles beyond art direction, including producer, designer, marketing liaison, localization lead, and audio director.[^ref-1] His early contributions included graphics and animation for [[1989 - Caveman Ugh-lympics\|Caveman Ugh-Lympics]] (1988), artwork for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] (1989), where he also appeared as a voice actor playing Dr. Johnson.[^ref-2]
+Hahn was hired by Dynamix in December 1987 to work as an art director, beginning a tenure that would last thirteen years and eleven months.[^ref-1] At Dynamix, he served multiple roles beyond art direction, including producer, designer, marketing liaison, localization lead, and audio director.[^ref-1] His early contributions included graphics and animation for Caveman Ugh-Lympics (1988), artwork for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] (1989), where he also appeared as a voice actor playing Dr. Johnson.[^ref-2]
 
 Hahn also contributed voice work to [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] (1989), playing Lieutenant Jake Styles.[^ref-2] His versatility was evident as he transitioned seamlessly between animation, art direction, and even acting roles within productions.
 
@@ -125,7 +125,7 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 | Year | Title | Role |
 |------|-------|------|
 | 1985 | Dave Winfield's Batter Up! | C64 Graphics |
-| 1988 | [[1989 - Caveman Ugh-lympics\|Caveman Ugh-Lympics]] | Graphics, Animation |
+| 1988 | Caveman Ugh-Lympics | Graphics, Animation |
 | 1989 | Motocross | Graphics, Artwork |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Animation, Voice Actor (Dr. Johnson) |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Voice Actor (Lt. Jake Styles) |

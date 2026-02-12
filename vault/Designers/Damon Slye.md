@@ -51,7 +51,7 @@ Stellar 7 was Slye's breakthrough title, published by his Software Entertainment
 
 ### Arcticfox (1986)
 
-Building on the success of Stellar 7, [[1986 - Arcticfox\|Arcticfox]] represented a significant evolution in Slye's design philosophy and technical capabilities.[^ref-16] The game was the first original title Electronic Arts published for the new Amiga computer, featuring more sophisticated 3D graphics and gameplay mechanics.[^ref-2] Arcticfox earned recognition from the Software Publishers Association with a Gold Award in 1986 and landed at #138 on Computer Gaming World's "Best Games of All Time" list.[^ref-2] This achievement highlighted Slye's growing reputation as both a technical innovator and skilled game designer, setting the stage for his later masterwork in flight simulation.[^ref-17]
+Building on the success of Stellar 7, Arcticfox represented a significant evolution in Slye's design philosophy and technical capabilities.[^ref-16] The game was the first original title Electronic Arts published for the new Amiga computer, featuring more sophisticated 3D graphics and gameplay mechanics.[^ref-2] Arcticfox earned recognition from the Software Publishers Association with a Gold Award in 1986 and landed at #138 on Computer Gaming World's "Best Games of All Time" list.[^ref-2] This achievement highlighted Slye's growing reputation as both a technical innovator and skilled game designer, setting the stage for his later masterwork in flight simulation.[^ref-17]
 
 ### Red Baron (1990)
 
@@ -89,11 +89,11 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 |------|-------|------|
 | 1983 | Stellar 7 (original)[^ref-2] | Designer, Programmer |
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Additional Designer |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Designer, Programmer |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Creator |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Designer |
+| 1986 | Arcticfox | Designer, Programmer |
+| 1987 | Skyfox II: The Cygnus Conflict | Creator |
+| 1989 | Project Firestart | Designer |
 | 1989 | [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation\|Tank: The M1A1 Abrams Battle Tank Simulation]] | Director |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Actor (as "Sly") |
+| 1989 | Deathtrack | Actor (as "Sly") |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Producer, Flight Model |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Designer, Producer |

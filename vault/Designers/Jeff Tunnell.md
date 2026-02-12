@@ -25,9 +25,9 @@ Beyond adventure games, Tunnell is credited with pioneering new game genres such
 
 Jeff Tunnell's entry into the video game industry began in the mid-1980s when he co-founded Dynamix with Damon Slye in Eugene, Oregon.[^ref-6] As Kevin Ryan described the company's origins, "One day Damon came by the shop, showed Jeff the game, and a computer game publishing company was born."[^ref-6] Tunnell was operating a computer store in downtown Eugene when Slye, a University of Oregon student who had just completed [[1990 - Stellar 7\|Stellar 7]] for the Apple II, arrived to show him the game.[^ref-7] This partnership would prove to be one of the most creative and productive collaborations in gaming history.
 
-The company was initially called Software Entertainment Corporation before changing its name to Dynamix and shifting focus from publishing to game development.[^ref-2] Tunnell, Slye, Kevin Ryan, and Richard Hicks became the four original owner-partners, all around 23 years old and former University of Oregon students.[^ref-6] His first major published game, [[1986 - Arcticfox\|Arcticfox]], was released in 1986 by Electronic Arts, marking the beginning of a prolific career that would span multiple genres and platforms.[^ref-8]
+The company was initially called Software Entertainment Corporation before changing its name to Dynamix and shifting focus from publishing to game development.[^ref-2] Tunnell, Slye, Kevin Ryan, and Richard Hicks became the four original owner-partners, all around 23 years old and former University of Oregon students.[^ref-6] His first major published game, Arcticfox, was released in 1986 by Electronic Arts, marking the beginning of a prolific career that would span multiple genres and platforms.[^ref-8]
 
-Throughout these early years, Dynamix created original games and ported titles for various computer systems. [[1989 - Project Firestart\|Project Firestart]] (1989) was particularly notable—a horror game set in space with adventure game elements that is now considered the first survival horror game.[^ref-7] Tunnell also contributed to games like [[1989 - Caveman Ugh-lympics\|Caveman Ugh-lympics]], [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]], and [[1989 - Deathtrack\|Deathtrack]] during this period.[^ref-2]
+Throughout these early years, Dynamix created original games and ported titles for various computer systems. Project Firestart (1989) was particularly notable—a horror game set in space with adventure game elements that is now considered the first survival horror game.[^ref-7] Tunnell also contributed to games like Caveman Ugh-lympics, [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]], and Deathtrack during this period.[^ref-2]
 
 ### Sierra Acquisition and Adventure Game Era (1990–1991)
 
@@ -111,12 +111,12 @@ His later advocacy for independent game development through GarageGames helped e
 |------|-------|------|
 | 1983 | [[1983 - Early Math\|Early Math]] | Designer |
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Designer |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Designer |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Designer |
-| 1989 | [[1989 - Caveman Ugh-lympics\|Caveman Ugh-lympics]] | Producer |
+| 1986 | Arcticfox | Designer |
+| 1989 | Project Firestart | Designer |
+| 1989 | Caveman Ugh-lympics | Producer |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Designer |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Designer |
-| 1990 | [[1990 - F-14 Tomcat\|F-14 Tomcat]] | Producer |
+| 1989 | Deathtrack | Designer |
+| 1990 | F-14 Tomcat | Producer |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Designer/Director |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | Designer/Director |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Designer/Director |

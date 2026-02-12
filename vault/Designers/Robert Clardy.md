@@ -148,7 +148,7 @@ In 2017, Clardy published his autobiography, "Cyber Jack: The Adventures of Robe
 | 1990 | Low Blow | Accolade | Developer |
 | 1990 | NY Warriors | Virgin Games | Developer |
 | 1992 | LA Law: The Computer Game | Capstone Software | Developer |
-| 1993 | [[1993 - The Beverly Hillbillies\|The Beverly Hillbillies]] | Capstone Software | Director |
+| 1993 | The Beverly Hillbillies | Capstone Software | Director |
 | 1993 | Homey D. Clown | Capstone Software | Developer |
 | 1993 | Super Battleship | Mindscape | Developer |
 | 1994 | Spectre | Velocity | Developer |

@@ -23,7 +23,7 @@ His professional philosophy centers on "helping great games get made by very tal
 
 Randy Dersham's path to the gaming industry began with a solid educational foundation in Oregon. After graduating from Creswell High School, he pursued an Associate of Arts degree before completing a Bachelor of Science in Photography and Film from the University of Oregon.[^ref-7] This background in visual media would prove invaluable in the emerging field of computer game development, where storytelling and visual presentation were becoming increasingly sophisticated.
 
-Dersham entered the computer gaming industry in 1986, initially contributing photography work to [[1986 - Arcticfox\|Arcticfox]].[^ref-8] His early work demonstrated an aptitude for both creative development and project management, skills that would define his later executive roles. By 1989, he had joined Dynamix as photo and video director, where he helped establish the visual style that would define many of their future releases.[^ref-9]
+Dersham entered the computer gaming industry in 1986, initially contributing photography work to Arcticfox.[^ref-8] His early work demonstrated an aptitude for both creative development and project management, skills that would define his later executive roles. By 1989, he had joined Dynamix as photo and video director, where he helped establish the visual style that would define many of their future releases.[^ref-9]
 
 ### Sierra Years (1989–1998)
 
@@ -91,8 +91,8 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 
 | Year | Title | Role |
 |------|-------|------|
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Photography |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Photography |
+| 1986 | Arcticfox | Photography |
+| 1989 | Deathtrack | Photography |
 | 1990 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Art Staff Manager |
 | 1990 | [[1990 - Red Baron\|Red Baron]] | Art Staff Manager |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Art Director |

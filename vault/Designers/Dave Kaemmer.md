@@ -75,7 +75,7 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 
 | Year | Title | Role |
 |------|-------|------|
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Designer/Programmer |
+| 1989 | Indianapolis 500: The Simulation | Designer/Programmer |
 | 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Designer/Programmer |
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Designer/Programmer |
 | 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Designer/Programmer |
