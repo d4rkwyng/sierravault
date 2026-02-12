@@ -1,0 +1,57 @@
+{
+  "url": "http://www.douglasherring.com/09_resumemst.html",
+  "domain": "douglasherring.com",
+  "fetch_date": "2026-02-12",
+  "source_type": "official_resume",
+  "sierra_credits": {
+    "Space Quest I VGA": "Director, Art Designer, Painter, Animator",
+    "Castle of Dr. Brain": "Art Designer, Lead Animator",
+    "Mixed-Up Fairy Tales": "Art Designer, Animator",
+    "Quest for Glory III": "Preliminary Storyboards",
+    "EcoQuest: The Search for Cetus": "Preliminary Storyboards",
+    "King's Quest V": "Team Leader, final Art Director",
+    "Quest for Glory II: Trial by Fire": "Art design desert section, Combat System",
+    "Conquests of Camelot": "In-house Art Designer, lead animator, endgame combat system",
+    "The Colonel's Bequest": "Art Designer, lead artist, sole animator",
+    "Leisure Suit Larry II": "15% of the pictures and animation"
+  },
+  "sierra_tenure": "June 1988 - October 1991",
+  "microsoft_tenure": "November 1995 - October 2004",
+  "microsoft_role": "Art Director Microsoft Games Studios",
+  "microsoft_games": {
+    "Age of Empires": "Internal Art Director/Content Lead",
+    "Age of Empires II": "Internal Art Director, helped re-engineer animation pipeline",
+    "Close Combat series": "Internal Art Director/Content Lead",
+    "MechWarrior 4": "Art Director",
+    "MechCommander 2": "Art Director",
+    "Pandora's Box": "Art Director",
+    "Fable": "Art Director (external)",
+    "Rise of Nations": "Art Director (external)",
+    "Tao Feng": "Art Director (external)",
+    "Blinx": "Art Director (external)"
+  },
+  "freelance_work": {
+    "Shannara": {"company": "Legend Entertainment", "role": "Art Director", "year": "1995"},
+    "Star Trek DS9 The Hunt": {"company": "Paramount/Tachyon", "role": "Art Director", "status": "95% done, put on hold"},
+    "Ring of Doom": {"company": "Electronic Arts", "role": "Animator", "status": "never shipped"},
+    "MIG-29 Falcon 3.0": {"company": "Spectrum Holobyte", "role": "UI Designer"},
+    "Archon Ultra": {"company": "Free Fall Associates", "role": "Fantasy Animator"},
+    "Spider-Man Vs Kingpin Sega CD": {"company": "Monkey Business", "role": "Art Director, co-designer"},
+    "Ringworld": {"company": "Tsunami", "role": "Game Designer, Art Designer", "year": "1992"}
+  },
+  "pre_games_career": {
+    "role": "Art Director of KIXE-TV (PBS affiliate in Redding, CA)",
+    "tenure": "August 1982 - May 1988",
+    "duties": ["graphic design", "set design", "photography", "cameraman", "lighting tech", "editor", "director"]
+  },
+  "notable_achievements": [
+    "King's Quest V: Best selling Adventure Game of all time",
+    "King's Quest V: First major VGA game published (Holiday 1990)",
+    "Shannara: Legend Entertainment's last and best selling game",
+    "Wrote the Game Artist ladder for Microsoft HR"
+  ],
+  "freelance_illustration_clients": [
+    "Kimberly-Clark Corporation", "The Comics Journal", "Comic Buyers' Guide",
+    "Marvel Comics", "Malibu Publishing", "Electronic Arts", "Fantagraphics"
+  ]
+}

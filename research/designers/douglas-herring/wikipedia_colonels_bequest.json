@@ -1,0 +1,20 @@
+{
+  "url": "https://en.wikipedia.org/wiki/The_Colonel%27s_Bequest",
+  "domain": "wikipedia.org",
+  "fetch_date": "2026-02-12",
+  "source_type": "encyclopedia",
+  "credits": {
+    "Developer": "Sierra On-Line",
+    "Publisher": "Sierra On-Line",
+    "Directors": ["Roberta Williams", "Chris Iden"],
+    "Producer": "Ken Williams",
+    "Designer": "Jacqueline Austin",
+    "Programmers": ["Chris Hoyt", "Chris Iden"],
+    "Artists": ["Douglas Herring", "Gerald Moore"],
+    "Writer": "Roberta Williams",
+    "Composer": "Ken Allen"
+  },
+  "release_date": "October 1989 (MS-DOS), 1990 (Amiga, ST)",
+  "platforms": ["MS-DOS", "Amiga", "Atari ST"],
+  "engine": "SCI0"
+}
