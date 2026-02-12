@@ -10,7 +10,7 @@ series: Quest for Glory
 engine: SCI2
 protagonist: The Hero
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-02-12'
 composer: [Aubrey Hodges]
 description: 'Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing
   video game hybrid, the fourth installment in the Quest for Glory series by Sierra...'
@@ -43,7 +43,7 @@ Shadows of Darkness follows directly from the events of Quest for Glory III: Wag
 
 Upon escaping from the closing cave mouth, the Hero meets a mysterious young woman named Katrina who assists him several times in his journey[^ref-1]. The Hero helps the townspeople with their problems and encounters several old foes, including the not-quite-dead Ad Avis and the ogress Baba Yaga, while making several bizarre new allies[^ref-1].
 
-The Hero is ultimately coerced into assisting Ad Avis' Dark Master in collecting the Dark Rituals that will allow Avoozl the Dark One (an obvious Cthulhu pastiche, and most likely a reference to the Slavic deity Chernobog) to manifest in Mordavia's world[^ref-1][^ref-3]. Naturally, the Hero escapes this control and thwarts their plan, destroying Ad Avis in the process[^ref-1]. During the celebration of the Hero's somewhat pyrrhic victory, the wizard Erasmus appears, summoning the Hero to the land of Silmaria[^ref-1].
+The Hero is ultimately coerced into assisting Ad Avis' Dark Master in collecting the Dark Rituals that will allow Avoozl the Dark One (an obvious Cthulhu pastiche, and most likely a reference to the Slavic deity Chernobog) to manifest in Mordavia's world[^ref-1][^ref-3]. Naturally, the Hero escapes this control and thwarts their plan, <span class="spoiler">destroying Ad Avis in the process</span>[^ref-1]. During the celebration of the Hero's somewhat pyrrhic victory, the wizard Erasmus appears, summoning the Hero to the land of Silmaria[^ref-1].
 
 ## Gameplay
 
