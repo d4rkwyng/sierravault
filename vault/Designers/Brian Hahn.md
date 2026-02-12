@@ -146,15 +146,15 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 
 | Year | Title | Role |
 |------|-------|------|
-| 1992 | Quarky & Quaysoo's Turbo Science | Art Director |
-| 1992 | Johnny Castaway (Screensaver) | Art Director, Gags |
+| 1992 | [[1992 - Quarky & Quaysoo's Turbo Science\|Quarky & Quaysoo's Turbo Science]] | Art Director |
+| 1992 | [[1992 - Johnny Castaway\|Johnny Castaway]] | Art Director, Gags |
 | 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Designer, Art Director |
-| 1993 | Turbo Learning: Mega Math | Art Director |
+| 1993 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] | Art Director |
 | 1993 | [[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] | Designer, Art Director, Music, Sound Effects |
-| 1993 | The Even More! Incredible Machine | Art Director |
+| 1993 | [[1993 - The Even More Incredible Machine\|The Even More! Incredible Machine]] | Art Director |
 | 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Designer, Art Director, Music, Sound Effects |
 | 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Original Designer, Art Director |
-| 1995 | Trophy Bass | Art Director |
+| 1995 | [[1995 - Trophy Bass\|Trophy Bass]] | Art Director |
 
 ### Later Sierra Era (1996–2001)
 
