@@ -105,11 +105,11 @@ Beyond his game industry contributions, McPheeters' later involvement in civic e
 | 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Previous Work Credit |
 | 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design/Testing |
 | 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Lead Designer |
-| 1996 | Front Page Sports: Baseball Pro '96 Season | Previous Work Credit |
+| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Previous Work Credit |
 | 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Previous Additional Work |
 | 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Designer/Documentation |
 | 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Previous Additional Work |
-| 1997 | Front Page Sports: Baseball Pro '98 | Previous Work Credit |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Previous Work Credit |
 | 1998 | Driver's Education '98 | Special Thanks |
 
 ### Post-Sierra (1999–2004)
