@@ -27,3 +27,75 @@ table th[data-sort-dir="asc"] .sort-indicator,
 table th[data-sort-dir="desc"] .sort-indicator {
   opacity: 1;
 }
+
+/* ===== SPOILER STYLES ===== */
+
+/* Inline spoiler - blacked out until hover/tap */
+.spoiler {
+  background-color: var(--text-normal);
+  color: var(--text-normal);
+  padding: 1px 4px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  user-select: none;
+}
+
+.spoiler:hover,
+.spoiler:focus,
+.spoiler.revealed {
+  background-color: var(--background-modifier-hover);
+  color: var(--text-normal);
+  user-select: auto;
+}
+
+/* Mobile tap support */
+@media (hover: none) {
+  .spoiler:active {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-normal);
+  }
+}
+
+/* Spoiler callout styling */
+.callout[data-callout="spoiler"] {
+  --callout-color: 180, 65, 65;
+  --callout-icon: lucide-eye-off;
+}
+
+.callout[data-callout="spoiler"] .callout-title {
+  font-weight: 600;
+}
+
+/* Details/summary spoiler blocks */
+details.spoiler-block {
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  padding: 0;
+  margin: 1em 0;
+}
+
+details.spoiler-block summary {
+  padding: 10px 15px;
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--text-muted);
+  list-style: none;
+}
+
+details.spoiler-block summary::before {
+  content: "⚠️ ";
+}
+
+details.spoiler-block summary:hover {
+  color: var(--text-normal);
+}
+
+details.spoiler-block[open] summary {
+  border-bottom: 1px solid var(--background-modifier-border);
+}
+
+details.spoiler-block > *:not(summary) {
+  padding: 15px;
+}
