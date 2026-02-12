@@ -79,25 +79,27 @@ Marx remains active in the gaming and writing communities, maintaining her Subst
 
 ## Games
 
-### In This Archive (Sierra Era)
+### Sierra On-Line (1989–1999)
 
-| Year | Game | Role |
-|------|------|------|
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Designer/Writer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Designer/Writer/Director |
+| Year | Title | Role |
+|------|-------|------|
+| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Designer, Writer |
+| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Designer, Writer, Director |
 | 1999 | [[CXL - Babylon 5 - Into the Fire\|Babylon 5: Into the Fire]] | Writer (Cancelled) |
 
-### Other Notable Games (Non-Sierra)
+### Post-Sierra (2000–2016)
 
-- The Legend of Alon d'Ar — 2000 (Stormfront Studios, story and narrative design)
-- Earth & Beyond — 2002 (EA/Westwood, character and dialogue writing)
-- The Lord of the Rings: The Two Towers — 2002 (Stormfront Studios, writer)
-- Tao Feng: Fist of the Lotus — 2003 (Studio Gigante, writer)
-- CSI: Crime Scene Investigation - Hard Evidence — 2007 (narrative design)
-- Lord of the Rings: War in the North — 2011 (Snowblind Studios, story editing and additional writing)
-- Hidden Chronicles — 2012 (Zynga, Principal Game Designer/Narrative Director)
-- CastleVille: Legends — 2013 (Zynga, Principal Game Designer/Narrative Director)
-- FarmVille: Tropic Escape — 2016 (Zynga, Principal Game Designer/Narrative Director)
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2000 | The Legend of Alon d'Ar | Stormfront Studios | Story, Narrative Design |
+| 2002 | Earth & Beyond | EA/Westwood | Character & Dialogue Writing |
+| 2002 | The Lord of the Rings: The Two Towers | Stormfront Studios | Writer |
+| 2003 | Tao Feng: Fist of the Lotus | Studio Gigante | Writer |
+| 2007 | CSI: Hard Evidence | Telltale Games | Narrative Design |
+| 2011 | Lord of the Rings: War in the North | Snowblind Studios | Story Editing, Additional Writing |
+| 2012 | Hidden Chronicles | Zynga | Principal Designer, Narrative Director |
+| 2013 | CastleVille: Legends | Zynga | Principal Designer, Narrative Director |
+| 2016 | FarmVille: Tropic Escape | Zynga | Principal Designer, Narrative Director |
 
 ## References
 

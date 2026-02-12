@@ -93,18 +93,20 @@ Several of Balfour's games, including Neuromancer, Wasteland, Outpost, and The D
 
 ## Games
 
-### In This Archive
+### Interplay Entertainment (1987–1988)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1988 | Wasteland | Scenario Designer, Map Coder |
+| 1988 | Battle Chess | Design, Writing |
+| 1988 | Neuromancer | Designer |
+
+### Sierra On-Line (1991–1994)
+
 | Year | Title | Role |
 |------|-------|------|
 | 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Producer, Director, Designer, Writer, Voice Actor |
 | 1994 | [[1994 - Outpost\|Outpost]] | Designer |
-
-### Other Notable Games (not in archive)
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1988 | Wasteland | Interplay | Scenario Designer, Map Coder |
-| 1988 | Battle Chess | Interplay | Design, Writing |
-| 1988 | Neuromancer | Interplay | Designer |
 
 ## References
 
