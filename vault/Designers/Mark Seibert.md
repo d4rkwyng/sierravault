@@ -97,19 +97,19 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 |------|-------|------|
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Musician, Music Editor |
 | 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Composer |
-| 1988 | Silpheed | Music Editor |
+| 1988 | [[1988 - Silpheed\|Silpheed]] | Music Editor |
 | 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Arranger, Musician |
 | 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Music/Sound Programming |
 | 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Composer |
 | 1989 | [[1990 - Codename - Iceman\|Codename: ICEMAN]] | Composer |
 | 1989 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Composer |
-| 1989 | Hoyle's Official Book of Games: Volume 1 | Music Director |
+| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle's Official Book of Games: Volume 1]] | Music Director |
 | 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Music Director |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Music Director, Composer |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Music Director |
-| 1990 | Firehawk: Thexder The Second Contact | Music Director |
-| 1990 | Oil's Well | Music Director |
-| 1990 | Hoyle's Official Book of Games: Volume 2 | Music Director |
+| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Firehawk: Thexder The Second Contact]] | Music Director |
+| 1990 | [[1990 - Oils Well\|Oil's Well]] | Music Director |
+| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle's Official Book of Games: Volume 2]] | Music Director |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Music Director, Sound Effects |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Music Director, Voice Actor |
 | 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Music Director |
@@ -119,7 +119,7 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Music Director |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music Director, Musician |
 | 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Music Arrangement, Performance |
-| 1991 | Hoyle's Official Book of Games: Volume 3 | Music/Sound Programming |
+| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle's Official Book of Games: Volume 3]] | Music/Sound Programming |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Music Director, Composer ("Girl in the Tower") |
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Music Director |
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Music Director |
@@ -128,11 +128,11 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Music Director |
 | 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | Director |
 | 1992 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (Enhanced CD-ROM)]] | Composer |
-| 1992 | Crazy Nick's Software Picks: King Graham's Board Game Challenge | Music Director |
+| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] | Music Director |
 | 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Sound |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Producer, Musician |
-| 1993 | The Shadow of Yserbius (boxed version) | Producer |
-| 1993 | Take-a-Break! Pinball | Musician |
+| 1993 | [[1991 - The Shadow of Yserbius\|The Shadow of Yserbius]] (boxed version) | Producer |
+| 1993 | [[1993 - Take a Break! Pinball\|Take-a-Break! Pinball]] | Musician |
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Music Director |
 | 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Producer, Musician |
 | 1994 | King's Quest: Collector's Edition | Music |

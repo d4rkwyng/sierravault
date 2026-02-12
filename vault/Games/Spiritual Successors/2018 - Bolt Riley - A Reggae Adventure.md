@@ -99,17 +99,23 @@ Sharon had connections to The Journey Down developers Skygoblin, which helped se
 
 ## Gameplay
 
-Bolt Riley plays as a traditional 2D point-and-click adventure game, featuring inventory-based puzzles, environmental exploration, and dialogue challenges[^ref-2]. The interface combines classic adventure game conventions with Quest for Glory-inspired elements, including a separate inventory for Bolt's "Inspirational powers" that function similarly to the spell system in the later Quest for Glory games[^ref-15].
+### Interface and Controls
 
-The game features:
-- Hand-drawn 2D background artwork
-- Hand-drawn cel animation for characters
-- Classic point-and-click puzzle design
-- Dialogue-based puzzles and humor
-- Inventory item collection and combination
-- Special "Inspirational powers" system[^ref-7]
+Bolt Riley utilizes a traditional point-and-click interface built on Unity 3D with Adventure Creator middleware[^ref-9]. The game was designed for cross-platform play, allowing players to "start playing it on one platform and finish it on another" across desktop, mobile, and console versions[^ref-10]. The interface combines classic Sierra-style adventure game conventions with a unique dual-inventory system—one for standard items and another for Bolt's special "Inspirational powers" that function similarly to the spell system in later Quest for Glory games[^ref-15].
 
-Players explore various locations throughout 1970s Kingston, Jamaica, including Bob's House and beach areas depicted in the game's promotional materials[^ref-7]. The environments were designed based on historical photo references of the era[^ref-14].
+### Structure and Progression
+
+The game was planned as an episodic adventure with multiple chapters, each focusing on different aspects of Bolt's journey to reggae stardom[^ref-2]. Chapter 1 establishes Bolt's struggles in Trenchtown and introduces the core mechanics, while subsequent chapters were intended to expand on band formation, songwriting, and musical performance[^ref-7]. Players progress by exploring environments, interacting with characters, solving puzzles, and making choices that affect Bolt's development as both a person and a musician.
+
+### Puzzles and Mechanics
+
+Bolt Riley features classic adventure game puzzle design including:
+- **Inventory puzzles:** Collecting and combining "wacky inventory items, and of course, a rope"[^ref-7]
+- **Dialogue challenges:** Engaging NPCs through conversation trees with humor and character development
+- **Environmental exploration:** Discovering secrets throughout 1970s Kingston based on historical photo references[^ref-14]
+- **Inspirational powers:** Special abilities that provide alternative puzzle solutions, inspired by Quest for Glory's magic system[^ref-15]
+
+The game combines these elements with music-focused mechanics. As Oded Sharon described: "Imagine using point-and-click adventure mechanics (puzzles, dialogs, inventory, etc.) to make music. It's pretty neat."[^ref-6] Players explore various locations including Bob's House and beach areas depicted in the game's promotional materials[^ref-7].
 
 ## Reception
 
@@ -126,6 +132,10 @@ Bolt Riley represents an interesting footnote in the history of Sierra alumni pr
 The game also illustrates the challenges facing crowdfunded adventure games in the 2010s. Despite having experienced designers attached and a unique cultural setting, Bolt Riley struggled to reach its funding goals and complete its planned episodic structure[^ref-22]. The project's history—from Adventure Mob's initial work on Leisure Suit Larry: Reloaded, through multiple Kickstarter campaigns, to the eventual release of only Chapter 1—reflects the difficulties of independent game development[^ref-4].
 
 The Adventure Mob/Corbomite Games team demonstrated technical ambition with their Unity-based approach and cross-platform goals, even if the final product didn't fully realize these aspirations[^ref-10]. The game's hand-drawn art style and original reggae soundtrack remain its most distinctive achievements[^ref-7][^ref-20].
+
+## Downloads
+
+As a modern release, Bolt Riley: A Reggae Adventure is available through digital storefronts rather than traditional downloads.
 
 ## Purchase
 

@@ -96,14 +96,14 @@ His work on the Front Page Sports franchise helped establish Sierra/Dynamix as a
 | 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports: Football]] | Director |
 | 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Designer, Director |
 | 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Designer, Executive Producer |
-| 1994 | Front Page Sports: Baseball '94 | Original Concept, Executive Producer |
+| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Original Concept, Executive Producer |
 | 1995 | [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96]] | Original Design |
 | 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Previous Work |
 | 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Original Concept |
 | 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Original Concept |
-| 1997 | Front Page Sports: Baseball Pro '98 | Previous Work |
+| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Previous Work |
 | 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Director, Designer |
-| 1998 | Driver's Education '98 | Special Thanks |
+| 1998 | [[1997 - Driver's Education '98\|Driver's Education '98]] | Special Thanks |
 | 2000 | [[2000 - 3-D Ultra Lionel TrainTown Deluxe\|3-D Ultra Lionel TrainTown Deluxe]] | Contributor (Original TrainTown) |
 
 ### Microsoft Game Studios (2000–2013)
