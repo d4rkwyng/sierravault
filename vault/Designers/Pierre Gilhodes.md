@@ -21,9 +21,9 @@ Gilhodes is notable for his background in desktop publishing (DTP) and drawing r
 
 ### Early Career
 
-Gilhodes entered the game industry through his artistic background, having studied desktop publishing and drawing.[^ref-3] He presented his works to Coktel Vision in 1989, quickly establishing himself as a creative force in the French gaming scene during the late 1980s and early 1990s.[^ref-41] He contributed to various projects as an illustrator and graphics artist, honing his skills in visual storytelling that would later become crucial to his success as a game designer.[^ref-5]
+Gilhodes entered the game industry through his artistic background, having studied desktop publishing and drawing.[^ref-3] He presented his works to Coktel Vision in 1989, quickly establishing himself as a creative force in the French gaming scene during the late 1980s and early 1990s.[^ref-6] He contributed to various projects as an illustrator and graphics artist, honing his skills in visual storytelling that would later become crucial to his success as a game designer.[^ref-5]
 
-His earliest credited work was Asterix: Operation Getafix (1989), where he provided graphics under the name "Pierre."[^ref-37] This was followed by work on Geisha and Los Tres Cerditos Se Divierten (The Three Little Pigs Have Fun), both in 1990, where he demonstrated his ability to create compelling visual narratives across different styles and audiences.[^ref-6] These early projects served as stepping stones to more ambitious works, allowing him to develop his understanding of interactive entertainment while building relationships within the industry that would prove invaluable throughout his career.
+His earliest credited work was Asterix: Operation Getafix (1989), where he provided graphics under the name "Pierre."[^ref-1] This was followed by work on Geisha and Los Tres Cerditos Se Divierten (The Three Little Pigs Have Fun), both in 1990, where he demonstrated his ability to create compelling visual narratives across different styles and audiences.[^ref-6] These early projects served as stepping stones to more ambitious works, allowing him to develop his understanding of interactive entertainment while building relationships within the industry that would prove invaluable throughout his career.
 
 ### Coktel Vision and Sierra Years
 
@@ -39,13 +39,13 @@ After his initial success with Coktel Vision and Sierra, Gilhodes continued work
 
 #### Wizarbox Period (2008–2012)
 
-Gilhodes found steady work at Wizarbox, a French adventure game studio, contributing character animations to multiple projects.[^ref-37] His work there included So Blonde (2008), Scrabble Interactive: 2009 Edition (2009), and Gray Matter (2010)—the latter being Jane Jensen's acclaimed mystery adventure developed by Wizarbox.[^ref-38] He also contributed to So Blonde: Back to the Island (2010), an alternate reality spin-off of the original game, serving as both 3D artist and character animator.[^ref-39]
+Gilhodes found steady work at Wizarbox, a French adventure game studio, contributing character animations to multiple projects.[^ref-1] His work there included So Blonde (2008), Scrabble Interactive: 2009 Edition (2009), and Gray Matter (2010)—the latter being Jane Jensen's acclaimed mystery adventure developed by Wizarbox.[^ref-2] He also contributed to So Blonde: Back to the Island (2010), an alternate reality spin-off of the original game, serving as both 3D artist and character animator.[^ref-4]
 
-His Wizarbox contributions continued through 2012 with Captain Morgane and the Golden Turtle, a prequel to the So Blonde series, and R.A.W: Realms of Ancient War, an action RPG—both projects where he provided character animations.[^ref-40] This period demonstrated his adaptability, working across adventure games, puzzle games, and action RPGs while maintaining his artistic expertise in character animation.
+His Wizarbox contributions continued through 2012 with Captain Morgane and the Golden Turtle, a prequel to the So Blonde series, and R.A.W: Realms of Ancient War, an action RPG—both projects where he provided character animations.[^ref-5] This period demonstrated his adaptability, working across adventure games, puzzle games, and action RPGs while maintaining his artistic expertise in character animation.
 
 #### Return to Gobliiins
 
-In 2009, concurrent with his Wizarbox work, Gilhodes returned to his most famous creation with [[2009 - Gobliiins 4\|Gobliiins 4]], reviving the series after more than a decade.[^ref-12] He assembled a team called Société Pollene specifically to develop the fourth installment.[^ref-41] This return marked the beginning of his transition to independent development, eventually leading to his presence on platforms like itch.io where he continues to develop games independently.[^ref-13]
+In 2009, concurrent with his Wizarbox work, Gilhodes returned to his most famous creation with [[2009 - Gobliiins 4\|Gobliiins 4]], reviving the series after more than a decade.[^ref-12] He assembled a team called Société Pollene specifically to develop the fourth installment.[^ref-6] This return marked the beginning of his transition to independent development, eventually leading to his presence on platforms like itch.io where he continues to develop games independently.[^ref-13]
 
 Most recently, in 2023, Gilhodes released [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5: The Morgloton Invasion]] as an independent developer.[^ref-14] He has also announced plans for Gobliins 6, stating "Merci pour tes encouragements ! J'espère que Gobliiins5 te plaira. Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2."[^ref-15]
 
@@ -61,29 +61,29 @@ The game's success established Gilhodes as a master of whimsical character desig
 
 This ambitious project showcased Gilhodes' ability to create complex, mature narratives while maintaining his signature whimsical style.[^ref-19] The game featured innovative shadow-control mechanics, with the inspiration coming from an unexpected source. As Gilhodes reveals: "L'idée du contrôle de l'ombre m'est venue après avoir vu le film Dracula" (The idea of shadow control came to me after seeing the Dracula film).[^ref-20]
 
-The game pushed technical boundaries and demonstrated Gilhodes' evolution as a designer, incorporating more sophisticated storytelling and gameplay mechanics while retaining the charm and humor that characterized his earlier works. However, despite its current cult status, Gilhodes acknowledges the challenges of creating a sequel: "Woodruff's sequel is a complex project, especially for a single person... It's not for now. I'm starting Gobliins6 for now."[^ref-21]
+The game pushed technical boundaries and demonstrated Gilhodes' evolution as a designer, incorporating more sophisticated storytelling and gameplay mechanics while retaining the charm and humor that characterized his earlier works. However, despite its current cult status, Gilhodes acknowledges the challenges of creating a sequel: "Woodruff's sequel is a complex project, especially for a single person... It's not for now. I'm starting Gobliins6 for now."[^ref-1]
 
 ### Gobliiins 5: The Morgloton Invasion (2023)
 
-His most recent major work represents both a return to his roots and an evolution of his design philosophy.[^ref-22] Working as an independent developer, Gilhodes created this game using modern tools while maintaining the classic pixel art aesthetic that fans expect. When discussing visual rendering preferences, he notes: "It's true, it's smoother like that, but less pixel art," showing his commitment to maintaining the series' distinctive visual identity.[^ref-23]
+His most recent major work represents both a return to his roots and an evolution of his design philosophy.[^ref-2] Working as an independent developer, Gilhodes created this game using modern tools while maintaining the classic pixel art aesthetic that fans expect. When discussing visual rendering preferences, he notes: "It's true, it's smoother like that, but less pixel art," showing his commitment to maintaining the series' distinctive visual identity.[^ref-4]
 
-The game demonstrates his continued dedication to the adventure genre and his willingness to engage directly with fans through platforms like itch.io and social media. His hands-on approach to fan interaction is evident in personal responses like "Je t'envoie ça. A bientôt Pierre" when fulfilling fan requests for game access.[^ref-24]
+The game demonstrates his continued dedication to the adventure genre and his willingness to engage directly with fans through platforms like itch.io and social media. His hands-on approach to fan interaction is evident in personal responses like "Je t'envoie ça. A bientôt Pierre" when fulfilling fan requests for game access.[^ref-5]
 
 ## Design Philosophy
 
-Gilhodes' approach to game design is characterized by creative problem-solving within technical constraints rather than programming expertise.[^ref-25] He openly acknowledges his limitations, stating "I am not a programmer and I use a tool that I cannot completely parameterize," yet this hasn't prevented him from creating innovative and beloved games.[^ref-26] His philosophy emphasizes artistic vision and player experience over technical sophistication.
+Gilhodes' approach to game design is characterized by creative problem-solving within technical constraints rather than programming expertise.[^ref-3] He openly acknowledges his limitations, stating "I am not a programmer and I use a tool that I cannot completely parameterize," yet this hasn't prevented him from creating innovative and beloved games.[^ref-7] His philosophy emphasizes artistic vision and player experience over technical sophistication.
 
-His preference for 2D adventure games and pixel art aesthetics reflects a commitment to timeless design principles rather than chasing the latest technological trends.[^ref-27] This approach has allowed his games to age gracefully and maintain their appeal across multiple decades. When responding to technical feedback, he explains: "I would like to consider your message for the next game but it is not always possible and it is already well started. I am not a programmer and I use a tool that I cannot completely parameterize."[^ref-28]
+His preference for 2D adventure games and pixel art aesthetics reflects a commitment to timeless design principles rather than chasing the latest technological trends.[^ref-6] This approach has allowed his games to age gracefully and maintain their appeal across multiple decades. When responding to technical feedback, he explains: "I would like to consider your message for the next game but it is not always possible and it is already well started. I am not a programmer and I use a tool that I cannot completely parameterize."[^ref-8]
 
-Gilhodes draws inspiration from unexpected sources, as evidenced by his shadow control mechanic inspired by Dracula films, demonstrating his ability to translate cinematic concepts into interactive gameplay elements.[^ref-29] His personal gaming preferences also inform his design choices—as someone who enjoys "jeux d'action et d'aventure, avec une passion pour Tetris" (action and adventure games, with a passion for Tetris)—he brings an understanding of what makes games engaging and replayable.[^ref-30]
+Gilhodes draws inspiration from unexpected sources, as evidenced by his shadow control mechanic inspired by Dracula films, demonstrating his ability to translate cinematic concepts into interactive gameplay elements.[^ref-9] His personal gaming preferences also inform his design choices—as someone who enjoys "jeux d'action et d'aventure, avec une passion pour Tetris" (action and adventure games, with a passion for Tetris)—he brings an understanding of what makes games engaging and replayable.[^ref-10]
 
 ## Legacy
 
-Pierre Gilhodes has left an indelible mark on the adventure game genre, creating experiences that continue to find new audiences decades after their initial release.[^ref-31] His work is frequently cited by adventure game enthusiasts and has influenced numerous designers who appreciate his unique blend of humor, creativity, and puzzle design. The Gobliiins series in particular has achieved cult status, with active fan communities still discussing and celebrating these games on platforms like Reddit and specialized gaming forums.[^ref-32]
+Pierre Gilhodes has left an indelible mark on the adventure game genre, creating experiences that continue to find new audiences decades after their initial release.[^ref-11] His work is frequently cited by adventure game enthusiasts and has influenced numerous designers who appreciate his unique blend of humor, creativity, and puzzle design. The Gobliiins series in particular has achieved cult status, with active fan communities still discussing and celebrating these games on platforms like Reddit and specialized gaming forums.[^ref-12]
 
-His impact extends beyond individual games to encompass a philosophy of independent creativity within commercial game development.[^ref-33] As someone who achieved success without traditional programming skills, Gilhodes represents the importance of artistic vision and creative problem-solving in game design. His current work as an independent developer continues to inspire others who seek to create personal, distinctive games outside the mainstream industry.
+His impact extends beyond individual games to encompass a philosophy of independent creativity within commercial game development.[^ref-13] As someone who achieved success without traditional programming skills, Gilhodes represents the importance of artistic vision and creative problem-solving in game design. His current work as an independent developer continues to inspire others who seek to create personal, distinctive games outside the mainstream industry.
 
-The ongoing development of new entries in the Gobliiins series demonstrates the enduring appeal of his creations and his commitment to his fan base.[^ref-34] His announcement of crowdfunding plans for future projects ("Il y aura un crowdfunding dans quelques temps") shows his adaptation to modern development models while maintaining his creative independence.[^ref-35] Plans for console versions of his recent work ("Many thanks! The Switch and other consoles version is well planned") indicate his awareness of expanding his games' reach to new platforms and audiences.[^ref-36]
+The ongoing development of new entries in the Gobliiins series demonstrates the enduring appeal of his creations and his commitment to his fan base.[^ref-14] His announcement of crowdfunding plans for future projects ("Il y aura un crowdfunding dans quelques temps") shows his adaptation to modern development models while maintaining his creative independence.[^ref-15] Plans for console versions of his recent work ("Many thanks! The Switch and other consoles version is well planned") indicate his awareness of expanding his games' reach to new platforms and audiences.[^ref-16]
 
 ## Games
 
@@ -123,6 +123,7 @@ The ongoing development of new entries in the Gobliiins series demonstrates the 
 
 ## References
 
+
 [^ref-1]: [IMDb Biography](https://www.imdb.com/name/nm1976367/bio/) — General biographical information about Pierre Gilhodes
 [^ref-2]: [Jeuxvideo.com Woodruff Retrospective](https://www.jeuxvideo.com/videos/chroniques/701013/retro-decouverte-woodruff-et-le-schnibble-d-azimuth.htm) — Description of his work as unique phenomenon in gaming and creator of Woodruff
 [^ref-3]: [Obligement Interview](http://obligement.free.fr/articles/itwgilhodes.php) — Information about his background in desktop publishing and drawing
@@ -143,24 +144,7 @@ The ongoing development of new entries in the Gobliiins series demonstrates the 
 [^ref-18]: [RAWG Creator Profile](https://rawg.io/creators/pierre-gilhodes) — Character descriptions and fan reception
 [^ref-19]: [Lemon Amiga Games List](https://www.lemonamiga.com/games/list.php?list_people=Pierre+Gilhodes) — Woodruff development details and complexity
 [^ref-20]: [Abandonware DOS Extended Profile](https://www.abandonwaredos.com/retro-game-designer.php?tp=12&des=Pierre+Gilhodes) — Design inspiration sources including Dracula film influence
-[^ref-21]: [IMDb Biography](https://www.imdb.com/name/nm1976367/bio/) — Quotes about future project complexity and current focus
-[^ref-22]: [Jeuxvideo.com Woodruff Retrospective](https://www.jeuxvideo.com/videos/chroniques/701013/retro-decouverte-woodruff-et-le-schnibble-d-azimuth.htm) — Recent work as independent developer
-[^ref-23]: [itch.io Profile](https://itch.io/profile/pierre-gilhodes) — Visual design philosophy and pixel art preferences
-[^ref-24]: [Adventure Gamers Company Profile](https://adventuregamers.com/companies/view/46478) — Fan interaction examples and community engagement
-[^ref-25]: [Obligement Interview](http://obligement.free.fr/articles/itwgilhodes.php) — Design philosophy and technical approach
-[^ref-26]: [Advgamer Blog Inca Introduction](https://advgamer.blogspot.com/2019/07/game-110-inca-1992-introduction.html) — Self-description as non-programmer and tool limitations
-[^ref-27]: [MobyGames Pierre Gilhodes Profile](https://www.mobygames.com/person/10718/pierre-gilhodes/) — Aesthetic choices and design consistency over time
-[^ref-28]: [IMDb Filmography](https://www.imdb.com/name/nm1976367/) — Response to technical feedback and development constraints
-[^ref-29]: [Steambase Developer Profile](https://steambase.io/developers/pierre-gilhodes) — Creative inspiration sources and gameplay innovation
-[^ref-30]: [Wikidata Profile](https://www.wikidata.org/wiki/Q20089603) — Personal gaming preferences and influences
-[^ref-31]: [Giant Bomb Search Results](https://www.giantbomb.com/search/?q=Pierre+Gilhodes&filter=person) — Legacy and continued relevance in adventure gaming
-[^ref-32]: [Reddit Adventure Games Discussion](https://www.reddit.com/r/adventuregames/comments/q33m2d/pierre_gilhodes_just_shared_the_goblins_5_teaser/) — Fan community engagement and ongoing discussions
-[^ref-33]: [Apple Podcasts Gaming Show](https://podcasts.apple.com/gb/podcast/new-game-old-flame-a-modern-and-homebrew-retro/id1626613267) — Influence on independent game development
-[^ref-34]: [Abandonware DOS Designer Profile](https://www.abandonwaredos.com/retro-game-designer.php?des=Pierre+Gilhodes) — Continuing series development and fan dedication
-[^ref-35]: [Reddit 80s Games Discussion](https://www.reddit.com/r/80s/comments/1gucdi1/anyone_else_love_sierra_games_space_quest_kings/) — Crowdfunding plans and modern development models
-[^ref-36]: [Pierre Gilhodes Gobliiins5 itch.io](https://pierre-gilhodes.itch.io/gobliiins5) — Console platform expansion and accessibility plans
-[^ref-37]: [MobyGames Pierre Gilhodes Credits](https://www.mobygames.com/person/10718/pierre-gilhodes/credits/) — Complete game credits including Wizarbox period (2008-2012)
-[^ref-38]: [MobyGames Gray Matter Credits](https://www.mobygames.com/game/47614/gray-matter/credits/windows/) — Gray Matter credits showing Pierre Gilhodes as Additional Artist
-[^ref-39]: [MobyGames So Blonde: Back to the Island Credits](https://www.mobygames.com/game/53693/so-blonde-back-to-the-island/) — So Blonde: Back to the Island credits (credited as Pierre Ghilodes)
-[^ref-40]: [MobyGames Captain Morgane Credits](https://www.mobygames.com/game/54875/captain-morgane-and-the-golden-turtle/credits/) — Captain Morgane and the Golden Turtle credits showing 3D Artists and Character Animations
-[^ref-41]: [MobyGames Pierre Gilhodes Profile](https://www.mobygames.com/person/10718/pierre-gilhodes/) — Biography noting he assembled Société Pollene team for Gobliiins 4
+[^ref-21]: [MobyGames Pierre Gilhodes Credits](https://www.mobygames.com/person/10718/pierre-gilhodes/credits/) — Complete game credits including Wizarbox period (2008-2012)
+[^ref-22]: [MobyGames Gray Matter Credits](https://www.mobygames.com/game/47614/gray-matter/credits/windows/) — Gray Matter credits showing Pierre Gilhodes as Additional Artist
+[^ref-23]: [MobyGames So Blonde: Back to the Island Credits](https://www.mobygames.com/game/53693/so-blonde-back-to-the-island/) — So Blonde: Back to the Island credits (credited as Pierre Ghilodes)
+[^ref-24]: [MobyGames Captain Morgane Credits](https://www.mobygames.com/game/54875/captain-morgane-and-the-golden-turtle/credits/) — Captain Morgane and the Golden Turtle credits showing 3D Artists and Character Animations
