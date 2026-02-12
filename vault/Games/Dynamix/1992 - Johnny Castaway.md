@@ -170,7 +170,7 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-5]: ["Johnny Castaway Screensaver for Windows."](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) Screensavers Planet.
 [^ref-6]: Ishai, Miki. ["The tale of Johnny Castaway: the legendary screensaver from the 90s."](https://uxdesign.cc/the-tale-of-johnny-castaway-the-legendary-screensaver-from-the-90s-a75f6081f990) *UX Collective*, June 14, 2020.
 [^ref-7]: ["Johnny Castaway – no Johnny is an island (1992)."](https://genesistemple.com/johnny-castaway-no-johnny-is-an-island) The Genesis Temple.
-[^ref-8]: ["Johnny Castaway (screensaver)."](https://dynamix.fandom.com/wiki/Johnny_Castaway_(screensaver)) Dynamix Wiki.
+[^ref-8]: ["Johnny Castaway (screensaver)."](https://dynamix.fandom.com/wiki/Johnny_Castaway_%28screensaver%29) Dynamix Wiki.
 [^ref-9]: ["Sierra FTP – Demos."](https://web.archive.org/web/19991005070519/http://www.sierra.com/demos/preview/0%2C1690%2C103%2C00.html) Sierra On-Line (archived October 5, 1999).
 [^ref-10]: Jong, Philip. ["Ken Williams (Interview)."](http://www.adventureclassicgaming.com/index.php/site/interviews/197/) Adventure Classic Gaming.
 [^ref-11]: ["Missed Classic: Johnny Castaway (1992)."](https://advgamer.blogspot.com/2024/04/missed-classic-johnny-castaway-1992.html) The Adventurers' Guild.
