@@ -31,7 +31,7 @@ Dersham's most significant industry contributions came during his tenure at Dyna
 
 Under Dersham's leadership, Dynamix produced several groundbreaking games. [[1990 - Rise of the Dragon\|Rise of the Dragon]] (1990), on which he served as Art Director, was a pioneering cyberpunk adventure that combined traditional point-and-click gameplay with arcade sequences and featured artwork with a real graphic-novel feel created by Robert Caracol under Dersham's direction.[^ref-11] This was followed by [[1991 - Heart of China\|Heart of China]] (1991), another adventure title that showcased the team's storytelling capabilities.[^ref-12]
 
-His management role expanded significantly as Dynamix grew, with Dersham overseeing art staff for major simulation titles including [[1990 - A-10 Tank Killer\|A-10 Tank Killer]], [[1990 - Red Baron\|Red Baron]], [[1992 - Aces of the Pacific\|Aces of the Pacific]], and the Front Page Sports series.[^ref-9] He also managed production on acclaimed adventure games like [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] and the critically celebrated [[1993 - Betrayal at Krondor\|Betrayal at Krondor]].[^ref-9]
+His management role expanded significantly as Dynamix grew, with Dersham overseeing art staff for major simulation titles including [[1989 - A-10 Tank Killer\|A-10 Tank Killer]], [[1990 - Red Baron\|Red Baron]], [[1992 - Aces of the Pacific\|Aces of the Pacific]], and the Front Page Sports series.[^ref-9] He also managed production on acclaimed adventure games like [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] and the critically celebrated [[1993 - Betrayal at Krondor\|Betrayal at Krondor]].[^ref-9]
 
 Transitioning from art management to game design, Dersham designed, produced, or executive produced the entire [[1992 - The Incredible Machine\|Incredible Machine]] series and the [[1995 - Trophy Bass\|Trophy Bass]] franchise—games that combined his professional expertise with his personal passion for fishing and outdoor recreation.[^ref-9] He remained as studio head through Sierra's 1996 acquisition by CUC, continuing to lead Dynamix until departing in 1998.[^ref-13]
 
@@ -93,7 +93,7 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 |------|-------|------|
 | 1986 | [[1986 - Arcticfox\|Arcticfox]] | Photography |
 | 1989 | [[1989 - Deathtrack\|Deathtrack]] | Photography |
-| 1990 | [[1990 - A-10 Tank Killer\|A-10 Tank Killer]] | Art Staff Manager |
+| 1990 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Art Staff Manager |
 | 1990 | [[1990 - Red Baron\|Red Baron]] | Art Staff Manager |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Art Director |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | Studio Head |

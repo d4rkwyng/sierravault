@@ -15,7 +15,7 @@ last_updated: "2026-02-12"
 
 Gerald "Jerry" Moore is an American artist and game industry veteran who contributed to numerous Sierra On-Line titles during the company's golden age of adventure games.[^ref-1] Born in Ridgecrest, California in 1952, Moore combined formal training in commercial art with a minor in computer science, a dual background that proved invaluable during the early days of computer graphics when technical understanding was as important as artistic skill.[^ref-1]
 
-Moore's Sierra career spanned from 1984 to 1994, during which he contributed graphics and animation to landmark titles including [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]], [[1989 - Hero's Quest - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]], [[1991 - Space Quest IV - Roger Wilco and The Time Rippers\|Space Quest IV]], and [[1989 - The Colonel's Bequest\|The Colonel's Bequest]].[^ref-2] His extensive collaboration with fellow Sierra artists helped establish the visual style that defined the company's transition from EGA to VGA graphics.
+Moore's Sierra career spanned from 1984 to 1994, during which he contributed graphics and animation to landmark titles including [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]], [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]], [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]], and [[1989 - The Colonel's Bequest\|The Colonel's Bequest]].[^ref-2] His extensive collaboration with fellow Sierra artists helped establish the visual style that defined the company's transition from EGA to VGA graphics.
 
 A founding member of the Association of Christian Entertainment (ACE), Moore later established Dimensions Vertical, a small video game company he runs with his son Devin, focused on faith-based gaming projects.[^ref-1]
 
@@ -31,15 +31,15 @@ Moore's earliest known Sierra credit came on [[1984 - Donald Duck's Playground\|
 
 By 1987, Moore had become a regular contributor to Sierra's growing catalog. He provided graphics for [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] and [[1987 - Mixed-Up Mother Goose\|Roberta Williams' Mixed-Up Mother Goose]], demonstrating versatility across both adult-oriented adventure games and children's titles.[^ref-2]
 
-The transition to SCI-era productions saw Moore's responsibilities expand. On [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] (1988), Sierra's first major SCI game, he contributed animation work that helped establish new standards for character movement in adventure games.[^ref-2] His animation and background scene work on [[1989 - Hero's Quest - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] (1989) helped create the distinctive visual identity of what would become the Quest for Glory series.[^ref-5]
+The transition to SCI-era productions saw Moore's responsibilities expand. On [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] (1988), Sierra's first major SCI game, he contributed animation work that helped establish new standards for character movement in adventure games.[^ref-2] His animation and background scene work on [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] (1989) helped create the distinctive visual identity of what would become the Quest for Glory series.[^ref-5]
 
-Moore collaborated extensively with Douglas Herring on [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] (1989), contributing graphics and artwork to Roberta Williams' atmospheric murder mystery set in 1920s Louisiana.[^ref-2] He also provided additional artwork for [[1989 - Code-Name - Iceman\|Code-Name: Iceman]] and graphic arts for [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games - Volume 1]].[^ref-2]
+Moore collaborated extensively with Douglas Herring on [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] (1989), contributing graphics and artwork to Roberta Williams' atmospheric murder mystery set in 1920s Louisiana.[^ref-2] He also provided additional artwork for [[1990 - Codename - Iceman\|Code-Name: Iceman]] and graphic arts for [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games - Volume 1]].[^ref-2]
 
-The VGA era brought Moore's most prolific period. On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990), he served as one of the artists contributing to Sierra's first major VGA game—which became the best-selling adventure game of all time.[^ref-2] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] and artist work on [[1990 - Hoyle Official Book of Games - Volume 2 - Solitaire\|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
+The VGA era brought Moore's most prolific period. On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] (1990), he served as one of the artists contributing to Sierra's first major VGA game—which became the best-selling adventure game of all time.[^ref-2] He contributed backgrounds and animation to [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] and artist work on [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle: Official Book of Games - Volume 2: Solitaire]].[^ref-2]
 
-Moore continued his prolific output into 1991, contributing graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and The Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]], and art design work for the VGA remake [[1991 - Mixed-Up Mother Goose (VGA)\|Mixed-Up Mother Goose]].[^ref-2]
+Moore continued his prolific output into 1991, contributing graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]], and art design work for the VGA remake [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]].[^ref-2]
 
-His final Sierra credits included "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I VGA]] (1992), additional animation on [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] (1993).[^ref-2]
+His final Sierra credits included "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I VGA]] (1992), additional animation on [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] (1993).[^ref-2]
 
 ### Westwood Studios and Later Career
 
@@ -59,7 +59,7 @@ Moore's animation work on [[1988 - King's Quest IV - The Perils of Rosella\|King
 
 ### Hero's Quest / Quest for Glory I (1989/1992)
 
-Moore provided animation and background scenes for the original [[1989 - Hero's Quest - So You Want to Be a Hero\|Hero's Quest]] (1989), helping establish the visual identity of Corey and Lori Cole's innovative RPG-adventure hybrid.[^ref-5] He later contributed "Incredible Artwork" to the [[1992 - Quest for Glory I - So You Want to Be a Hero\|VGA remake]] (1992), updating the game's visuals for the 256-color era.[^ref-2]
+Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest]] (1989), helping establish the visual identity of Corey and Lori Cole's innovative RPG-adventure hybrid.[^ref-5] He later contributed "Incredible Artwork" to the [[1992 - Quest for Glory I - So You Want to Be a Hero\|VGA remake]] (1992), updating the game's visuals for the 256-color era.[^ref-2]
 
 ### The Colonel's Bequest (1989)
 
@@ -71,7 +71,7 @@ As one of the artists on [[1990 - King's Quest V - Absence Makes the Heart Go Yo
 
 ### Space Quest IV (1991)
 
-Moore's graphics and artwork contributions to [[1991 - Space Quest IV - Roger Wilco and The Time Rippers\|Space Quest IV]] helped bring the Two Guys from Andromeda's time-traveling comedy adventure to life.[^ref-2] The game's varied visual styles—spanning multiple time periods—required versatile artists who could adapt to different aesthetic requirements.
+Moore's graphics and artwork contributions to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] helped bring the Two Guys from Andromeda's time-traveling comedy adventure to life.[^ref-2] The game's varied visual styles—spanning multiple time periods—required versatile artists who could adapt to different aesthetic requirements.
 
 ## Legacy
 
@@ -91,19 +91,19 @@ Through Dimensions Vertical and his ongoing work on Progress 21, Moore continues
 | 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Graphics |
 | 1987 | [[1987 - Mixed-Up Mother Goose\|Roberta Williams' Mixed-Up Mother Goose]] | Graphics |
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Animation |
-| 1989 | [[1989 - Hero's Quest - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Animation & Background Scenes |
-| 1989 | [[1989 - Code-Name - Iceman\|Code-Name: Iceman]] | Additional Artwork |
+| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Animation & Background Scenes |
+| 1989 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] | Additional Artwork |
 | 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games - Volume 1]] | Graphic Artists |
 | 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Graphics / Artwork |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | Artist |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Backgrounds and Animation |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2 - Solitaire\|Hoyle: Official Book of Games - Volume 2: Solitaire]] | Artist |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and The Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Graphics / Artwork |
+| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle: Official Book of Games - Volume 2: Solitaire]] | Artist |
+| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Graphics / Artwork |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Background Art & Animation |
-| 1991 | [[1991 - Mixed-Up Mother Goose (VGA)\|Mixed-Up Mother Goose (VGA)]] | Art Designer |
+| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (VGA)]] | Art Designer |
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Incredible Artwork |
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Additional Animation |
-| 1993 | [[1993 - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] | Graphics / Artwork |
+| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] | Graphics / Artwork |
 
 ### Other Credits (1993–2015)
 

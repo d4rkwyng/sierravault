@@ -101,10 +101,10 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Arranger, Musician |
 | 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Music/Sound Programming |
 | 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Composer |
-| 1989 | [[1989 - Codename - Iceman\|Codename: ICEMAN]] | Composer |
+| 1989 | [[1990 - Codename - Iceman\|Codename: ICEMAN]] | Composer |
 | 1989 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Composer |
 | 1989 | Hoyle's Official Book of Games: Volume 1 | Music Director |
-| 1990 | [[1990 - King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Music Director |
+| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Music Director |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Music Director, Composer |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Music Director |
 | 1990 | Firehawk: Thexder The Second Contact | Music Director |
@@ -114,7 +114,7 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Music Director, Voice Actor |
 | 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Music Director |
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Music/Sound Programming |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] | Music Director |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] | Music Director |
 | 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Music Director |
 | 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Music Director |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music Director, Musician |
@@ -124,7 +124,7 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Music Director |
 | 1992 | [[1992 - Police Quest I - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Music Director |
 | 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Music Director |
-| 1992 | [[1992 - Laura Bow II - The Dagger of Amon Ra\|Laura Bow: The Dagger of Amon Ra]] | Music Director |
+| 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow: The Dagger of Amon Ra]] | Music Director |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Music Director |
 | 1992 | [[1992 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | Director |
 | 1992 | [[1992 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose (Enhanced CD-ROM)]] | Composer |
@@ -144,7 +144,7 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1997 | King's Quest: Collection Series | Music |
 | 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Producer |
 | 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Director, Producer, Musician, Co-Designer |
-| 2001 | [[2001 - Arcanum - Of Steamworks and Magick Obscura\|Arcanum: Of Steamworks and Magick Obscura]] | Executive Producer |
+| 2001 | [[2001 - Arcanum\|Arcanum: Of Steamworks and Magick Obscura]] | Executive Producer |
 | 2001 | Throne of Darkness | Producer |
 
 ### Post-Sierra (2004–2008)

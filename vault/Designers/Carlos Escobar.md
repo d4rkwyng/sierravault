@@ -29,7 +29,7 @@ One of Escobar's most significant partnerships was with Al Lowe on the Leisure S
 
 As Sierra expanded its development capabilities, Escobar became part of the core programming teams for major productions. His work on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) placed him among the programmers—including Oliver Brelsford, Doug Oldfield, Chris Hoyt, Raoul Said, and Robert Lindsley—who implemented Sierra's first fully VGA adventure game.[^ref-7] On [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] (1992), Escobar continued his programming work under lead programmer Robert Lindsley.[^ref-8]
 
-Escobar's versatility was evident in the range of projects he contributed to: from serious drama like [[1989 - Code-Name - Iceman\|Code-Name: Iceman]] (1989) to educational titles like [[1991 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (1991), from fantasy adventures like [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] (1991) to sci-fi comedy in [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] (1991).[^ref-2]
+Escobar's versatility was evident in the range of projects he contributed to: from serious drama like [[1990 - Codename - Iceman\|Code-Name: Iceman]] (1989) to educational titles like [[1991 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (1991), from fantasy adventures like [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] (1991) to sci-fi comedy in [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] (1991).[^ref-2]
 
 His final major credits at Sierra included [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]] (1994) and [[1995 - Phantasmagoria\|Phantasmagoria]] (1995), Roberta Williams' ambitious horror adventure.[^ref-2]
 
@@ -82,7 +82,7 @@ Bridget McKenna recalled: "He was such a character, and so much a part of our ev
 | 1987 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I: Quest for the Crown]] (Apple IIGS) | Programmer |
 | 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Programmer |
 | 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Programmer |
-| 1989 | [[1989 - Code-Name - Iceman\|Code-Name: Iceman]] | Programmer |
+| 1989 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] | Programmer |
 | 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Programmer |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmer |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Programmer |
@@ -90,7 +90,7 @@ Bridget McKenna recalled: "He was such a character, and so much a part of our ev
 | 1991 | [[1991 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] | Programmer |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Programmer |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Programmer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] (VGA) | Programmer |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel]] (VGA) | Programmer |
 | 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want To Be A Hero]] (VGA) | Programmer |
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Programmer |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Programmer |

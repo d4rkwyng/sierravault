@@ -25,9 +25,9 @@ After Microsoft, Moulder held executive positions at Gazillion Entertainment wor
 
 Moulder began his game industry career at Sierra On-Line, where he quickly established himself as a capable producer on some of the company's most beloved titles.[^ref-1] His work on [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]] proved particularly significant, as this children's game became Sierra's first CD-ROM release—a technological milestone that anticipated the industry's shift from floppy disks to optical media.[^ref-2]
 
-At Sierra, Moulder's production credits spanned multiple franchises including King's Quest, Space Quest, Quest for Glory, Leisure Suit Larry, and the Dr. Brain educational series.[^ref-3] He produced the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I]] and [[1992 - Quest for Glory I - So You Want To Be A Hero\|Quest for Glory I]], helping shepherd Sierra's classic parser-driven adventures into the point-and-click era. His involvement with [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] (1991) demonstrated his ability to manage educational titles alongside entertainment products.[^ref-7]
+At Sierra, Moulder's production credits spanned multiple franchises including King's Quest, Space Quest, Quest for Glory, Leisure Suit Larry, and the Dr. Brain educational series.[^ref-3] He produced the VGA remakes of [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I]] and [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I]], helping shepherd Sierra's classic parser-driven adventures into the point-and-click era. His involvement with [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] (1991) demonstrated his ability to manage educational titles alongside entertainment products.[^ref-7]
 
-Beyond production, Moulder contributed creatively to Sierra productions. He served as Director on [[1991 - Hoyle Official Book of Games Volume 3\|Hoyle: Official Book of Games - Volume 3]] and [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]].[^ref-3] He also provided voice work for [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] and [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], joining other Sierra staff members who lent their voices to the company's productions.[^ref-8]
+Beyond production, Moulder contributed creatively to Sierra productions. He served as Director on [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle: Official Book of Games - Volume 3]] and [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]].[^ref-3] He also provided voice work for [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] and [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], joining other Sierra staff members who lent their voices to the company's productions.[^ref-8]
 
 ### Microsoft Game Studios (1995–2004)
 
@@ -112,12 +112,12 @@ At Her Interactive, Moulder helped ensure the Nancy Drew franchise's survival in
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Voice Actor |
 | 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Producer |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Producer |
-| 1991 | [[1991 - Hoyle Official Book of Games Volume 3\|Hoyle: Official Book of Games - Volume 3]] | Director, Producer |
+| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle: Official Book of Games - Volume 3]] | Director, Producer |
 | 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | Producer |
-| 1992 | [[1992 - Quest for Glory I - So You Want To Be A Hero\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Producer |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Producer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Director, Producer |
 | 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Voice Actor (Blue Person) |
-| 1992 | [[1992 - Police Quest 1 - In Pursuit of the Death Angel (VGA)\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Special Thanks |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Special Thanks |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Special Thanks |
 | 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Special Thanks |
 

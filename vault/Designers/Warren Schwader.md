@@ -37,7 +37,7 @@ His cribbage game was re-released on floppy disk as [[1981 - Hi-Res Cribbage\|Hi
 
 Ken Williams then approached Schwader about creating a game inspired by *Astro Blaster*, an arcade game at the local Ahwahnee Tack and Feed store.[^ref-halcyon] Rather than duplicate it exactly, Schwader took the concept and ran with it. Over four months, including a crucial two-week collaboration with Ken on the animation engine, he created [[1981 - Threshold\|Threshold]].[^ref-halcyon] The game sold approximately 25,000 copies and established Schwader as one of the premier Apple II programmers.[^ref-halcyon]
 
-Schwader also contributed "Special Features Development" to [[1982 - Time Zone\|Time Zone]], Sierra's massive six-disk adventure, before creating [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] in 1983.[^ref-mobygames] For Sammy Lightfoot, he invented a page-flipping technique to eliminate screen flicker—displaying one page while preparing the next, then flipping instantly for smooth animation. This technique is still used in game development today.[^ref-halcyon]
+Schwader also contributed "Special Features Development" to [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]], Sierra's massive six-disk adventure, before creating [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] in 1983.[^ref-mobygames] For Sammy Lightfoot, he invented a page-flipping technique to eliminate screen flicker—displaying one page while preparing the next, then flipping instantly for smooth animation. This technique is still used in game development today.[^ref-halcyon]
 
 ### The Crash and Wilderness Years (1984–1988)
 
@@ -118,7 +118,7 @@ Perhaps most remarkably, Schwader never strayed far from games. Even during his 
 | 1981 | [[1981 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Designer, Programmer |
 | 1981 | [[1981 - Thrilogy of Games\|Thrilogy of Games]] | Designer, Programmer |
 | 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer |
-| 1982 | [[1982 - Time Zone\|Time Zone]] | Special Features Development |
+| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Special Features Development |
 | 1982 | [[1982 - Threshold (Atari 2600)\|Threshold (Atari 2600)]] | Designer |
 | 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] | Creator |
 
@@ -130,7 +130,7 @@ Perhaps most remarkably, Schwader never strayed far from games. Even during his 
 | 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Designer, Programmer, Artist |
 | 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Lead Programmer |
 | 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Lead Programmer, Writer |
-| 1992 | [[1992 - Jones in the Fast Lane CD-ROM\|Jones in the Fast Lane CD-ROM]] | Lead Programmer, Writer |
+| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane CD-ROM]] | Lead Programmer, Writer |
 | 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Lead Programmer |
 | 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Designer, Senior Programmer |
 
