@@ -87,7 +87,7 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 | Year | Title | Company | Role |
 |------|-------|---------|------|
 | 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (Smaude) |
-| 2018 | Bolt Riley: A Reggae Adventure | Adventure Mob | Co-Designer |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Writer |
 | 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Designer, Lead Writer, Director |
 | 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Director, Writer |
 

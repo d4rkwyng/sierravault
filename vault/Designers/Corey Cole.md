@@ -107,6 +107,7 @@ His work at Sierra On-Line during the company's golden age also contributed to e
 |------|-------|---------|------|
 | 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | AGD Interactive | Consultant |
 | 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Creator, Co-Designer, Co-Writer, Programmer, Project Lead |
+| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Co-Designer |
 | 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Co-Founder, Co-Designer |
 
 ## References
