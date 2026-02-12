@@ -118,9 +118,9 @@ Beyond gaming, Benton's career trajectory exemplifies the entrepreneurial spirit
 | 1983 | Frogger | Commodore 64 | Programmer |
 | 1983 | [[1983 - BC's Quest for Tires\|BC's Quest for Tires]] | Atari 8-bit | Programmer |
 | 1984 | [[1983 - BC's Quest for Tires\|BC's Quest for Tires]] | Commodore 64 | Programmer |
-| 1984 | Wizard of Id's WizType | Apple II | Programmer |
-| 1984 | Wizard of Id's WizMath | Apple II | Programmer |
-| 1984 | Donald Duck's Playground | Commodore 64 | Programmer |
+| 1984 | [[1984 - Wizard of Id's WizType\|Wizard of Id's WizType]] | Apple II | Programmer |
+| 1984 | [[1984 - Wizard of Id's WizMath\|Wizard of Id's WizMath]] | Apple II | Programmer |
+| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Commodore 64 | Programmer |
 | 1986 | The American Challenge: A Sailing Simulation | DOS | IBM Programmer |
 
 ### Original Concept Credits (1987–1991)
@@ -135,7 +135,7 @@ Beyond gaming, Benton's career trajectory exemplifies the entrepreneurial spirit
 
 | Year | Title | Role |
 |------|-------|------|
-| 2018 | Leisure Suit Larry: Wet Dreams Don't Dry | Special Thanks |
+| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] | Special Thanks |
 
 ## References
 
