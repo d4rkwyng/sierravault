@@ -82,6 +82,7 @@ The studio's commitment to technical excellence and willingness to experiment wi
 | 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] | Tank Combat |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Adventure |
 | 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports Football 92]] | Sports |
+| 1992 | [[1992 - Johnny Castaway\|Johnny Castaway]] | Screen Saver |
 | 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Puzzle |
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Flight Simulation |
 | 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | RPG |
