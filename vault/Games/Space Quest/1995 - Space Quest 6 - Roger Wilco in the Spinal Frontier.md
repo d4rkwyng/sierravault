@@ -209,7 +209,6 @@ This game has been included in the following collections:
 - [IMDB – Space Quest 6](https://www.imdb.com/title/tt0348081/) – full cast and crew credits[^ref-33]
 
 ## See Also
-- Previous: [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]]
 - Fan Sequel: [[2011 - Space Quest - Vohaul Strikes Back|Space Quest: Vohaul Strikes Back]]
 - [[Space Quest Series]] - Series overview
 - [[1993 - Space Quest V - The Next Mutation|← Previous: Space Quest V - The Next Mutation]]

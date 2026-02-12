@@ -239,8 +239,6 @@ This game has been included in the following collections:
 - [Adventure Gamers – Space Quest V](https://adventuregamers.com/games/space-quest-v-the-next-mutation) – review, walkthrough[^ref-31]
 
 ## See Also
-- Previous: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
-- Next: [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]]
 - [[Space Quest Series]] - Series overview
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|← Previous: Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|→ Next: Space Quest 6 - Roger Wilco in the Spinal Frontier]]

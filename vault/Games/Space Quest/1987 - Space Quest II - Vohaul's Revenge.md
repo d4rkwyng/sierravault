@@ -163,8 +163,6 @@ This game has been included in the following collections:
 - [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – guides, FAQs, user ratings[^ref-22]
 
 ## See Also
-- Previous: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]]
-- Next: [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]]
 - [[Space Quest Series]] - Series overview
 - [[1986 - Space Quest - The Sarien Encounter|← Previous: Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon|→ Next: Space Quest III - The Pirates of Pestulon]]

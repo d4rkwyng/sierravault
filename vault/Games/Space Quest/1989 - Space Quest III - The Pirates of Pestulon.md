@@ -190,8 +190,6 @@ This game has been included in the following collections:
 - [StrategyWiki – SQ3 Appendices](https://strategywiki.org/wiki/Space_Quest_III:_The_Pirates_of_Pestulon/Appendices) – easter eggs, minigames[^ref-29]
 
 ## See Also
-- Previous: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
-- Next: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
 - [[Space Quest Series]] - Series overview
 - [[1987 - Space Quest II - Vohaul's Revenge|← Previous: Space Quest II - Vohaul's Revenge]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|→ Next: Space Quest I - Roger Wilco in the Sarien Encounter]]

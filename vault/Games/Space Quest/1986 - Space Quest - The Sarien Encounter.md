@@ -199,7 +199,6 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ1 Easter Eggs](https://spacequest.net/sq1/eastereggs/) – hidden content, secrets[^ref-26]
 
 ## See Also
-- Next: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
 - VGA Remake: [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]]
 - [[Space Quest Series]] - Series overview
 - [[1987 - Space Quest II - Vohaul's Revenge|→ Next: Space Quest II - Vohaul's Revenge]]

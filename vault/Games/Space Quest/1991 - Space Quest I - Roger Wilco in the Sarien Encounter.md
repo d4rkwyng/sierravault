@@ -188,7 +188,6 @@ This game has been included in the following collections:
 
 ## See Also
 - Original Version: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter (AGI)]]
-- Next: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
 - [[Space Quest Series]] - Series overview
 - [[1989 - Space Quest III - The Pirates of Pestulon|← Previous: Space Quest III - The Pirates of Pestulon]]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|→ Next: Space Quest IV - Roger Wilco and the Time Rippers]]

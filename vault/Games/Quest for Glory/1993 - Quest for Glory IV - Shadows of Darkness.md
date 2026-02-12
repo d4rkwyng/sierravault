@@ -223,8 +223,6 @@ This game has been included in the following collections:
 - [StrategyWiki – Quest for Glory IV](https://strategywiki.org/wiki/Quest_for_Glory_IV) – game guide
 
 ## See Also
-- Previous: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
-- Next: [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]]
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory III - Wages of War|← Previous: Quest for Glory III - Wages of War]]
 - [[1998 - Quest for Glory V - Dragon Fire|→ Next: Quest for Glory V - Dragon Fire]]

@@ -156,8 +156,6 @@ This game has been included in the following collections:
 - [StrategyWiki – Quest for Glory II](https://strategywiki.org/wiki/Quest_for_Glory_II) – game guide[^ref-17]
 
 ## See Also
-- Previous: [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]]
-- Next: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - Fan Remake: Quest for Glory II VGA Remake ([[AGD Interactive]], 2008)
 - [[Quest for Glory Series]] - Series overview
 - [[1989 - Quest for Glory I - So You Want to Be a Hero|← Previous: Quest for Glory I - So You Want to Be a Hero]]

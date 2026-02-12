@@ -279,8 +279,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 - [IMDB – SQ4 Full Credits](https://www.imdb.com/title/tt0448772/fullcredits/) – complete voice cast, crew
 
 ## See Also
-- Previous: [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]]
-- Next: [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]]
 - [[Space Quest Series]] - Series overview
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|← Previous: Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]

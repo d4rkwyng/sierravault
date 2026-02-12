@@ -149,8 +149,6 @@ This game has been included in the following collections:
 - [StrategyWiki – Quest for Glory III](https://strategywiki.org/wiki/Quest_for_Glory_III) – game guide[^ref-16]
 
 ## See Also
-- Previous: [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]]
-- Next: [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory: Shadows of Darkness]]
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|← Previous: Quest for Glory I - So You Want to Be a Hero VGA]]
 - [[1993 - Quest for Glory IV - Shadows of Darkness|→ Next: Quest for Glory IV - Shadows of Darkness]]
