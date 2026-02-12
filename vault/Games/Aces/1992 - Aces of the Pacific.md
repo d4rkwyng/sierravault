@@ -117,7 +117,6 @@ Aces of the Pacific established Dynamix as a premier developer of military fligh
 
 The title's impact on flight simulation gaming remains significant, with modern players still praising its atmospheric presentation and historical authenticity[^ref-4]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19].
 
-
 ## See Also
 
 |  | **Aces Series** |  |
@@ -134,8 +133,6 @@ The title's impact on flight simulation gaming remains significant, with modern 
 - [Internet Archive - 1994 Sierra Release](https://archive.org/details/Aces_of_the_Pacific_1994_Sierra)[^ref-21]
 - [Internet Archive - WWII 1946 Expansion](https://archive.org/details/001054-AcesOfThePacificWwii1946)[^ref-22]
 - [Internet Archive - Community Mods](https://archive.org/details/wargamer-depot_aces-of-the-pacific)[^ref-18]
-
-## See Also
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
 
 ## References

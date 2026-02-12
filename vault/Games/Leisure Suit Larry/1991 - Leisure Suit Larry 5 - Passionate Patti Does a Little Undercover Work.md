@@ -130,8 +130,6 @@ Leisure Suit Larry 5 follows the infamous "missing" fourth game with a running j
 
 - **Previous:** [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]] (LSL4 was intentionally skipped)
 - **Next:** [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|← Previous: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|→ Next: Leisure Suit Larry 6 - Shape Up or Slip Out!]]

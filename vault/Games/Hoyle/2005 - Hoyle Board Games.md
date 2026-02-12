@@ -227,8 +227,6 @@ The Hoyle name itself carries significant historical weight, referring to Edmond
 
 - **Previous:** [[2005 - Hoyle Puzzle and Board Games]]
 - **Next:** Various Hoyle titles continued through 2016 under Encore
-
-## See Also
 - [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
 - [[2005 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 

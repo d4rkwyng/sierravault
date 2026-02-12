@@ -224,8 +224,6 @@ The series would continue with Gobliiins 5 in 2023, demonstrating the franchise'
 
 - **Previous:** [[1993 - Goblins Quest 3]]
 - **Next:** [[2023 - Gobliiins 5 - The Morgloton Invasion]]
-
-## See Also
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|← Previous: The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|→ Next: Gobliiins 5 - The Morgloton Invasion]]
 

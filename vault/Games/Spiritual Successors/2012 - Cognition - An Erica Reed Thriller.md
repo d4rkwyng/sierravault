@@ -205,8 +205,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - **Previous:** N/A (First game in series)
 - **Next:** Episodes 2-4 continue the narrative
 - **Spiritual Predecessor:** [[1993 - Gabriel Knight - Sins of the Fathers]] (Jane Jensen connection)
-
-## See Also
 - [[2010 - Gray Matter|← Previous: Gray Matter]]
 - [[2013 - Fester Mudd - Curse of the Gold|→ Next: Fester Mudd - Curse of the Gold]]
 

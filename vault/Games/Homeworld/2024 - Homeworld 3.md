@@ -262,7 +262,6 @@ The game's troubled post-launch trajectory, culminating in the announcement that
 
 Perhaps most telling is Rob Cunningham's own framing of the project. When asked about finally realizing his decades-old vision, he described it as "a bit of a dream. Not quite a dream come true, but a dream brought to life."[^ref-18] That nuanced distinction—between perfection achieved and vision manifested—encapsulates Homeworld 3's place in gaming history: a technically impressive, visually stunning strategy game that honors its legacy without quite surpassing it.[^ref-20]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -287,8 +286,6 @@ Homeworld: Deserts of Kharak (2016), developed by the same team at Blackbird Int
 
 - **Previous:** [[2003 - Homeworld 2]]
 - **Related:** [[2016 - Homeworld - Deserts of Kharak]]
-
-## See Also
 - [[2016 - Homeworld - Deserts of Kharak|← Previous: Homeworld - Deserts of Kharak]]
 
 ## References

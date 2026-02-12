@@ -233,7 +233,6 @@ Hoyle Board Games 2003 represents an important snapshot of casual gaming in the 
 
 The Hoyle series had been a consistent performer for Sierra since the late 1980s, and the 2003 edition demonstrated the company's continued commitment to the casual gaming market even as the industry increasingly focused on action and immersive 3D titles. The cross-platform approach, extending to handheld devices, showed prescient understanding of gaming trends that would later explode with mobile gaming. While not a groundbreaking title in terms of innovation, Hoyle Board Games 2003 fulfilled its purpose as accessible, family-friendly entertainment that brought classic board games to the digital realm.[^ref-10]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -257,8 +256,6 @@ The 2003 edition continued refinements from previous years while expanding platf
 
 - **Previous:** [[2001 - Hoyle Board Games]]
 - **Next:** [[2003 - Hoyle Board Games]]
-
-## See Also
 - [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 

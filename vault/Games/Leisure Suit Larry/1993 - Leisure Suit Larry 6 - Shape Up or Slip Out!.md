@@ -174,8 +174,6 @@ Leisure Suit Larry 6: Shape Up or Slip Out! continues Larry's romantic misadvent
 
 - **Previous:** [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - **Next:** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|← Previous: Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|→ Next: Leisure Suit Larry 7 - Love for Sail]]

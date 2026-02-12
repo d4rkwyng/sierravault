@@ -217,8 +217,6 @@ The game directly follows Hoyle Casino 2002 and precedes later editions in the s
 
 - **Previous:** [[2002 - Hoyle Casino Empire]]
 - **Next:** [[2005 - Hoyle Poker Series]]
-
-## See Also
 - [[2003 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2003 - Hoyle Majestic Chess|→ Next: Hoyle Majestic Chess]]
 

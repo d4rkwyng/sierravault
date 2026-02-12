@@ -195,7 +195,6 @@ The game represents the convergence of several 1980s trends: the educational sof
 
 From a historical perspective, WizType demonstrates how early educational software developers attempted to balance pedagogical goals with entertainment value—a challenge that would define the edutainment genre for decades to come.[^ref-2][^ref-5] While not revolutionary, the game executed its educational mission competently while providing memorable visual rewards and penalties that likely motivated young typists more effectively than dry skill drills.[^ref-6]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -221,8 +220,6 @@ WizType was one of two educational titles released by Sierra using the Wizard of
 - **Related Title:** WizMath (1984, Commodore 64 and ColecoVision only)[^ref-6]
 
 The Wizard of Id games represent Sierra's foray into licensed educational software, separate from their core adventure game development but reflective of the company's broader business strategy during this period.[^ref-7]
-
-## See Also
 - [[1984 - Wizard of Id's WizMath|← Previous: Wizard of Id's WizMath]]
 - [[1992 - Ready, Set, Read with Bananas & Jack|→ Next: Ready, Set, Read with Bananas & Jack]]
 

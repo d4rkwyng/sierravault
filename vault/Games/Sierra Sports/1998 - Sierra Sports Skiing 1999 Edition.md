@@ -198,8 +198,6 @@ The Front Page Sports franchise had established Sierra as a significant player i
 No subsequent skiing titles were released in the series following the 1999 Edition. The closure of Dynamix in 2001 effectively ended Sierra's in-house skiing game development[^ref-7].
 
 - **Previous:** [[1997 - Front Page Sports - Ski Racing]]
-
-## See Also
 - [[1998 - Sierra Sports - Bass Fishing|← Previous: Sierra Sports - Bass Fishing]]
 - [[1999 - Professional Bull Rider|→ Next: Professional Bull Rider]]
 

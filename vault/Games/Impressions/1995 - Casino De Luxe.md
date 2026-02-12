@@ -222,7 +222,6 @@ Casino De Luxe occupies a specific niche in the history of PC gaming—the casin
 
 The game's acquisition by Sierra On-Line shortly after release placed it within one of the era's most significant gaming publishers, though it remained a relatively minor title in Sierra's expansive catalog[^ref-3][^ref-4]. Contemporary reviews acknowledged it as one of the better gambling simulations available, with Next Generation's assessment that it was "the best one around" for casino game enthusiasts serving as qualified praise for its niche appeal[^ref-3][^ref-4]. The sequel, Casino Deluxe 2, released the following year under Sierra's direct publishing, indicated sufficient commercial success to warrant continuation of the series[^ref-8].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -246,8 +245,6 @@ Casino De Luxe was the first entry in the Casino Deluxe series developed by Impr
 
 - **Previous:** N/A (First in series)
 - **Next:** [[1996 - Casino Deluxe 2]]
-
-## See Also
 - [[1995 - Breach 3|← Previous: Breach 3]]
 - [[1995 - Conqueror - A.D. 1086|→ Next: Conqueror - A.D. 1086]]
 

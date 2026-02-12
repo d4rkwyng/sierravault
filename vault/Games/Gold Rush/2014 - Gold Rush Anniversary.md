@@ -276,8 +276,6 @@ Sunlight Games established their RetroTainment label specifically for retro game
 
 - **Previous:** [[1988 - Gold Rush]]
 - **Next:** [[2017 - Gold Rush 2]]
-
-## See Also
 - [[1988 - Gold Rush|← Previous: Gold Rush]]
 - [[2017 - Gold Rush 2|→ Next: Gold Rush 2]]
 

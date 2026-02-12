@@ -238,9 +238,6 @@ Alphabet Blocks was part of multiple interconnected series from Sierra and Brigh
 The game's development by Bright Star Technology connected it to a broader family of educational multimedia products that Sierra acquired in 1992, including HyperAnimation and Talking Tiles[^ref-2]. This acquisition brought proven educational software expertise to Sierra's portfolio during a period of significant expansion in the company's product offerings.
 
 - **Next:** [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read With Bananas and Jack]] (sequel featuring the same coach characters)[^ref-5]
-
-## See Also
-
 **Education Series:**
 - [[1982 - Bop-A-Bet|Bop-A-Bet]] (1982) - Letter matching educational game
 - [[1983 - Early Math|Early Math]] (1983) - Mathematics fundamentals for young learners

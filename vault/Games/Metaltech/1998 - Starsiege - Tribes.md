@@ -130,8 +130,6 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 
 - **Previous:** [[1999 - Starsiege]] (1999)
 - **Next:** [[2001 - Tribes 2]]
-
-## See Also
 - [[1998 - Cyberstorm 2 - Corporate Wars|← Previous: Cyberstorm 2 - Corporate Wars]]
 - [[1999 - Starsiege|→ Next: Starsiege]]
 

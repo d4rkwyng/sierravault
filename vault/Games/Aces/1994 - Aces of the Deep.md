@@ -121,7 +121,6 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 
-
 ## See Also
 
 |  | **Aces Series** |  |
@@ -140,8 +139,6 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 - [PCGamingWiki Compatibility Guide](https://www.pcgamingwiki.com/wiki/Aces_of_the_Deep)[^ref-8]
 
 The game is documented in gaming databases.[^ref-19][^ref-20][^ref-21][^ref-22][^ref-23]
-
-## See Also
 - [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]
 - [[1995 - Command Aces of the Deep|→ Next: Command Aces of the Deep]]
 

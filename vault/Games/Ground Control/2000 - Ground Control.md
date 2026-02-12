@@ -256,8 +256,6 @@ Ground Control established a universe that would span multiple games and centuri
 Ground Control II: Operation Exodus jumps 320 years into the future, where the factions from the original game have long since dissolved, replaced by new powers fighting over the same alien technology that drove the original conflict. The sequel maintains thematic continuity while telling an entirely new story with new characters.
 
 - **Next:** [[2000 - Ground Control - Dark Conspiracy]]
-
-## See Also
 - [[2000 - Ground Control - Dark Conspiracy|→ Next: Ground Control - Dark Conspiracy]]
 
 ## References

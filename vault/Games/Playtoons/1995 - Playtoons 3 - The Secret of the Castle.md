@@ -189,7 +189,6 @@ Playtoons 3: Secret of the Castle represents an interesting point in the evoluti
 
 The game's approach—offering both consumption and creation modes—anticipated later developments in game design that would emphasize user-generated content. While not revolutionary in execution, the Playtoons series demonstrated an understanding that children could be empowered as creators rather than merely passive consumers of digital content. The medieval setting of Secret of the Castle, with its Arthurian themes and castle intrigue, provided accessible fantasy elements that appealed to the target demographic while teaching basic narrative concepts through interactive play.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-3-the-secret-of-the-castle)
@@ -209,8 +208,6 @@ Playtoons 3: Secret of the Castle is the third entry in the five-game Playtoons 
 
 - **Previous:** [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
 - **Next:** [[1995 - Playtoons 4 - The Mandarine Prince]]
-
-## See Also
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|← Previous: Playtoons 2 - The Case of the Counterfeit Collaborator]]
 - [[1995 - Playtoons 4 - The Mandarine Prince|→ Next: Playtoons 4 - The Mandarine Prince]]
 

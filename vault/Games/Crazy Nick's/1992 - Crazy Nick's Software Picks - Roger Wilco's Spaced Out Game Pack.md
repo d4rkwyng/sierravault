@@ -215,8 +215,6 @@ Within the Space Quest series timeline, this compilation was released between th
 - Robin Hood's Game of Skill and Chance (1992)
 - Leisure Suit Larry Casino (1992)
 - Roger Wilco's Spaced Out Game Pack (1992)
-
-## See Also
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|← Previous: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 
 ## References

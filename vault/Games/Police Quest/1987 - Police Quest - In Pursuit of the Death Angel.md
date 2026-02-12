@@ -156,8 +156,6 @@ Police Quest: In Pursuit of the Death Angel is the first entry in the Police Que
 **See also:**
 - [[1991 - Police Quest III - The Kindred]] – Final chapter of Sonny Bonds' story
 - [[1993 - Police Quest - Open Season]] – Series reboot with new protagonist
-
-## See Also
 - [[Police Quest Series]] - Series overview
 - [[1988 - Police Quest II - The Vengeance|→ Next: Police Quest II - The Vengeance]]
 

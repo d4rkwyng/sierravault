@@ -132,7 +132,6 @@ The soundtrack has maintained a cult following, with fans particularly appreciat
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
 
-
 ## See Also
 
 |  | **Shivers Series** |  |
@@ -149,8 +148,6 @@ Despite technical obsolescence, the game continues to attract interest from retr
 - [Internet Archive - Demo Version](https://archive.org/details/s2demozp)[^ref-9]
 - [MyAbandonware](https://www.myabandonware.com/game/shivers-two-harvest-of-souls-e56)[^ref-31]
 - [Old-Games.com](https://www.old-games.com/download/8856/shivers-two-harvest-of-souls)[^ref-65]
-
-## See Also
 - [[1995 - Shivers|← Previous: Shivers]]
 
 ## References

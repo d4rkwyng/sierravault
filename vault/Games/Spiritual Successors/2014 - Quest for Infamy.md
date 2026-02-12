@@ -110,8 +110,6 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 
 - **Prequel:** [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] (In Development)
 - **Sequel:** None announced
-
-## See Also
 - [[2014 - Moebius - Empire Rising|← Previous: Moebius - Empire Rising]]
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|→ Next: Cluck Yegger in Escape From The Planet of The Poultroid]]
 

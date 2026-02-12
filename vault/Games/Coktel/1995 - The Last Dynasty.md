@@ -197,7 +197,6 @@ The stark divide between European and American critical reception illustrates ho
 
 The game's comparison to both Wing Commander and Myst reveals its fundamental identity crisis—attempting to satisfy fans of two very different genres without fully committing to either approach.[^ref-2] This "schizophrenic" design philosophy, as one retrospective termed it, would become increasingly rare as the industry matured and genre boundaries solidified.[^ref-10] The Last Dynasty remains a fascinating artifact of an era when developers believed that combining every popular gaming trend into a single package would result in universal appeal, rather than a product that "caters to no-one."[^ref-10]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -215,8 +214,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 ## See Also
 
 The Last Dynasty is a standalone title with no direct sequels or prequels. It represents Coktel Vision's venture into space combat simulation territory, distinct from their more well-known adventure series like Goblins and Inca. The game shares the Gob engine with other Coktel Vision titles but features no narrative connections to the studio's other works.[^ref-7]
-
-## See Also
 - [[1993 - Lost in Time|← Previous: Lost in Time]]
 - [[1996 - Urban Runner|→ Next: Urban Runner]]
 

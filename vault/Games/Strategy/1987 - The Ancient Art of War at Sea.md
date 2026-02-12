@@ -254,8 +254,6 @@ The series would conclude with The Ancient Art of War in the Skies (1992), which
 
 - **Previous:** The Ancient Art of War
 - **Next:** The Ancient Art of War in the Skies (1992)
-
-## See Also
 - [[1979 - Galactic Empire|← Previous: Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade|→ Next: The Charge of the Light Brigade]]
 

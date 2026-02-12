@@ -242,8 +242,6 @@ The series evolved significantly with each entry. Lords of the Realm II (1996) e
 
 **Manuals & Extras**
 - [Internet Archive – Lords of the Realm Manual (PDF)](https://archive.org/details/Lords_of_the_Realm_-_Manual)
-
-## See Also
 - [[1996 - Lords of the Realm II|→ Next: Lords of the Realm II]]
 
 ## References

@@ -252,8 +252,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 Zeliard is a standalone title with no direct sequels or prequels. While Game Arts continued developing games including the successful Lunar and Grandia RPG series, they never returned to the Zeliard universe despite fan interest[^ref-32]. The game exists as part of Sierra's broader catalog of licensed Japanese titles from the late 1980s and early 1990s, alongside other Game Arts ports like Thexder and Silpheed[^ref-6].
 
 The title represents an interesting intersection of Japanese and American gaming cultures during a formative period for both industries, demonstrating Sierra's willingness to expand beyond their core adventure game expertise to bring diverse gaming experiences to Western audiences[^ref-2].
-
-## See Also
 - [[1990 - Jones in the Fast Lane|← Previous: Jones in the Fast Lane]]
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|→ Next: Freddy Pharkas - Frontier Pharmacist]]
 

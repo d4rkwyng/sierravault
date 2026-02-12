@@ -220,7 +220,6 @@ What makes The Realm Online remarkable is not its commercial success but its sur
 
 The game also represents an important cautionary tale about the challenges of developing online services. Ken Williams' observation that it "needed an engineer to lead it more than a creative person, as every design detail had network ramifications" highlights the fundamental tension between creative vision and technical constraints that continues to challenge MMORPG development today.[^ref-3] The abandoned "World of Quest for Glory" initiative similarly demonstrates how corporate priorities and development realities can derail even promising concepts.[^ref-13]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-realm-online)
@@ -245,8 +244,6 @@ The Realm Online stands as a standalone title rather than part of a continuing f
 The game's development occurred during Sierra's peak era of adventure game production, with artist Richard Powell bringing experience from Space Quest and Gabriel Knight to the project.[^ref-1] While not narratively connected to those series, The Realm Online shares their visual DNA and interface philosophy, representing Sierra's attempt to extend their design sensibilities into the emerging online space.
 
 The game has no direct sequels, but its technological innovations—particularly the instancing system—influenced virtually every MMORPG that followed. In this sense, games like World of Warcraft, Final Fantasy XIV, and countless others can trace part of their design lineage back to experiments conducted in The Realm Online nearly three decades ago.[^ref-2]
-
-## See Also
 - [[1993 - Fates of Twinion|← Previous: Fates of Twinion]]
 
 ## References

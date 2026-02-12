@@ -198,7 +198,6 @@ The game's lasting legacy is perhaps most notable in its demonstration of Window
 
 While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended purpose as accessible family entertainment, maintaining the Hoyle brand's reputation for quality casual gaming content[^ref-3][^ref-6].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -223,8 +222,6 @@ Hoyle Puzzle Games 2004 continues the long-running Hoyle game series, which Sier
 - **Next:** [[2005 - Hoyle Puzzle and Board Games]]
 
 The game is documented in gaming databases.[^ref-15][^ref-16][^ref-17][^ref-18][^ref-19]
-
-## See Also
 - [[2004 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Table Games|→ Next: Hoyle Table Games]]
 

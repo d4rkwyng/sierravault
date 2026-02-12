@@ -159,7 +159,6 @@ The Quest for Glory II VGA Remake stands as a landmark achievement in fan game d
 
 The remake's success lies not merely in its technical achievements but in its philosophical approach—maintaining strict fidelity to the original narrative while judiciously improving accessibility and combat systems[^ref-6]. This balance between preservation and modernization has made it the definitive way to experience Quest for Glory II for contemporary players, ensuring the game's legacy continues for new generations of adventurers[^ref-1][^ref-10].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -189,8 +188,6 @@ Quest for Glory II VGA Remake faithfully recreates the second entry in Sierra's 
 
 - **Previous:** [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want To Be A Hero]]
 - **Next:** [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
-
-## See Also
 - [[2006 - King's Quest III Remake (Infamous Adventures)|← Previous: King's Quest III Remake (Infamous Adventures)]]
 - [[2010 - The Silver Lining|→ Next: The Silver Lining]]
 

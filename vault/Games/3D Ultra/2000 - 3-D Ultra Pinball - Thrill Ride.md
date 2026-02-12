@@ -236,8 +236,6 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 The game represents the end of an era for Sierra's pinball development.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-19][^ref-20] With Dynamix's eventual closure and Sierra's own restructuring in the years that followed, no further entries in the franchise were produced. The 3-D Ultra Pinball series thus concluded with this celebration of roller coasters and carnival attractions, leaving behind a legacy of accessible, visually appealing pinball entertainment.
 
 - **Previous:** [[1998 - 3-D Ultra NASCAR Pinball]]
-
-## See Also
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|← Previous: 3-D Ultra Lionel TrainTown Deluxe]]
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|→ Next: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 

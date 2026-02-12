@@ -180,8 +180,6 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]] (1991)
 - **Next:** [[1996 - Hoyle Official Book of Games - Volume 5]] (1993)
-
-## See Also
 - [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
 - [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
 

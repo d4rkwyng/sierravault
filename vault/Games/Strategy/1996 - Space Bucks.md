@@ -176,8 +176,6 @@ Impressions Games would go on to achieve greater success with their city-buildin
 
 - **Previous:** None
 - **Next:** None (Standalone title)
-
-## See Also
 - [[1996 - Birthright - The Gorgon's Alliance|← Previous: Birthright - The Gorgon's Alliance]]
 - [[1996 - The Rise & Rule of Ancient Empires|→ Next: The Rise & Rule of Ancient Empires]]
 

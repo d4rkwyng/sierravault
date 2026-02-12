@@ -184,8 +184,6 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 
 - **Previous:** None (standalone title)
 - **Next:** None (no sequels produced despite Jensen's original plans)
-
-## See Also
 - [[2006 - Al Emmo and the Lost Dutchman's Mine|← Previous: Al Emmo and the Lost Dutchman's Mine]]
 - [[2012 - Cognition - An Erica Reed Thriller|→ Next: Cognition - An Erica Reed Thriller]]
 

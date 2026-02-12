@@ -307,8 +307,6 @@ Following Ubisoft's acquisition of Massive Entertainment, the studio shifted foc
 
 - **Previous:** Ground Control II: Operation Exodus (2004) - Spiritual predecessor
 - **Next:** World in Conflict: Soviet Assault (2009) - Expansion pack
-
-## See Also
 - [[2001 - Arcanum|← Previous: Arcanum]]
 
 ## References

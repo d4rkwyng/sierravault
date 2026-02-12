@@ -115,8 +115,6 @@ Fan-created unofficial patches have been developed to address minor technical is
 
 - **Previous:** None (First in series)
 - **Next:** [[1989 - Manhunter - San Francisco]] (1989)
-
-## See Also
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
 
 ## References

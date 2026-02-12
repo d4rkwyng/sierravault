@@ -308,8 +308,6 @@ The game builds directly upon NASCAR Racing 2002 Season, featuring an updated dr
 With EA's exclusive NASCAR license beginning in 2004, no direct sequel was possible. The simulation racing community considers NR2003 the final "true" NASCAR simulator, with subsequent EA titles taking a more accessible arcade approach. The game's spiritual successor came in 2008 with iRacing, developed by former Papyrus staff using NR2003's codebase.[^ref-8]
 
 - **Previous:** [[2002 - NASCAR Racing 2002 Season]]
-
-## See Also
 - [[2002 - NASCAR Racing 2002 Season|← Previous: NASCAR Racing 2002 Season]]
 
 ## References

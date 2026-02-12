@@ -149,8 +149,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 
 - **Previous:** None (standalone game)
 - **Next:** None (sequel cancelled due to poor sales)
-
-## See Also
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|← Previous: Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Slater & Charlie Go Camping|→ Next: Slater & Charlie Go Camping]]
 

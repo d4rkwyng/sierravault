@@ -210,7 +210,6 @@ The game's significance lies primarily in its connection to the Two Guys from An
 
 As a standalone product, *Cluck Yegger* succeeded in what it set out to do: provide an entertaining diversion for fans while generating support for the larger *SpaceVenture* project. Its positive reception, particularly among those familiar with the developers' pedigree, suggests that the Two Guys' comedic voice remained appealing to audiences decades after *Space Quest* first launched.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/cluck-yegger-in-escape-from-the-planet-of-the-poultroid)
@@ -231,8 +230,6 @@ The macOS version is not compatible with macOS 10.15 Catalina or later versions[
 While not a direct sequel or prequel to any specific game, *Cluck Yegger* serves as a standalone side story within the *SpaceVenture* continuity. The characters and settings were developed as part of the larger project, making this mini-game an extended preview of the universe that would eventually be fully realized in *SpaceVenture* (2022)[^ref-23].
 
 - **Related:** [[2022 - SpaceVenture]]
-
-## See Also
 - [[2014 - Quest for Infamy|← Previous: Quest for Infamy]]
 - [[2015 - Order of the Thorne - The King's Challenge|→ Next: Order of the Thorne - The King's Challenge]]
 

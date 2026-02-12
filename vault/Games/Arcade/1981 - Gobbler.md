@@ -166,7 +166,6 @@ The lawsuit that ended Gobbler's commercial life represented a turning point for
 
 From a modern perspective, Gobbler serves as an artifact of the video game industry's formative period, when the boundaries between homage, clone, and infringement had not yet been legally defined.[^ref-3] The game itself, while competently executed, offers little beyond historical interest—its significance lies not in what it achieved but in what its withdrawal from the market prevented and what legal precedents it helped establish.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -192,8 +191,6 @@ Cannonball Blitz, released in 1982 for Apple II and later ported to Commodore VI
 
 **Related Titles by Developer:**
 - **Cannonball Blitz (1982)** – Donkey Kong clone by Olaf Lubeck[^ref-1]
-
-## See Also
 - [[1981 - Frogger|← Previous: Frogger]]
 - [[1981 - Sabotage|→ Next: Sabotage]]
 

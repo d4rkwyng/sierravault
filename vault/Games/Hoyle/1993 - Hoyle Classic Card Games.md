@@ -148,8 +148,6 @@ The series continued with multiple sequels and iterations, eventually transition
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]] (1991)
 - **Next:** [[2002 - Hoyle Card Games]] (2002)
-
-## See Also
 - [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
 - [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
 

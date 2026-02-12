@@ -228,7 +228,6 @@ The series represented Sierra's business savvy in leveraging an established bran
 
 The transfer of the brand from Sierra to Encore marked a shift in the series' identity, though the core premise remained unchanged. The final Steam release's poor reception (16% positive) suggests that by 2016, the market had moved on to other forms of casual and social gaming, leaving Hoyle Casino as a relic of an earlier era of computer entertainment[^ref-27].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -256,8 +255,6 @@ The franchise shared its core identity with the broader Hoyle gaming family, inc
 
 - **Previous:** [[1989 - Hoyle Official Book of Games - Volume 1]]
 - **Related:** [[2002 - Hoyle Casino Empire]]
-
-## See Also
 - [[1996 - Hoyle Blackjack|← Previous: Hoyle Blackjack]]
 - [[1996 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]
 

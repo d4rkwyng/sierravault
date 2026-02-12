@@ -266,8 +266,6 @@ Empire Earth: The Art of Conquest serves as the bridge between the original 2001
 
 - **Previous:** [[2001 - Empire Earth]]
 - **Next:** Empire Earth II (2005)
-
-## See Also
 - [[2001 - Empire Earth|← Previous: Empire Earth]]
 
 ## References

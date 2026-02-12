@@ -181,7 +181,6 @@ The game's emphasis on educational content through the Gambling Academy feature 
 
 In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the company's willingness to publish diverse entertainment software beyond their signature adventure games. The title served a specific niche audience effectively, though it never achieved the critical acclaim or cultural impact of Sierra's flagship series[^ref-3].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -206,8 +205,6 @@ Casino Deluxe 2 is the direct sequel to Casino De Luxe, released in 1995 by Impr
 The series established itself as a competent gambling simulation franchise, though no further sequels appear to have been released following Casino Deluxe 2.
 
 - **Previous:** [[1995 - Casino De Luxe]]
-
-## See Also
 - [[1995 - Powerhouse|← Previous: Powerhouse]]
 - [[2002 - Emperor - Rise of the Middle Kingdom|→ Next: Emperor - Rise of the Middle Kingdom]]
 

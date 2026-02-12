@@ -207,8 +207,6 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 The series experienced a significant gap when Dynamix closed in 2001, leaving the planned sequel Minigolf Maniacs unfinished. When development resumed in 2006 with Chilean developer Wanako Games, many level designs and mechanics from the cancelled project were incorporated into 3D Ultra Minigolf Adventures.[^ref-5] This connection between the original 1997 game and the 2006 revival demonstrates how franchise continuity can persist even through studio closures and development interruptions.
 
 - **Next:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
-
-## See Also
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
 

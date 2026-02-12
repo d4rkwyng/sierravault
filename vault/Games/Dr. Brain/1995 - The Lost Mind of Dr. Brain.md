@@ -213,8 +213,6 @@ The game departs from the exploration-based puzzle design of its predecessors, i
 
 - **Previous:** [[1992 - The Island of Dr. Brain]]
 - **Next:** [[1996 - The Time Warp of Dr. Brain]]
-
-## See Also
 - [[1992 - The Island of Dr. Brain|← Previous: The Island of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain|→ Next: The Time Warp of Dr. Brain]]
 

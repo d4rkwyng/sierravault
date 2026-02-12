@@ -279,8 +279,6 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 The Incredible Machine launched what would become Sierra's most successful puzzle game franchise. The original 1992 release established the core gameplay formula of building Rube Goldberg contraptions that would remain consistent throughout the series, while each sequel added new parts, puzzles, and technical improvements. The series spawned cartoon spin-offs with Sid & Al's Incredible Toons and inspired the modern spiritual successor Contraption Maker.
 
 - **Next:** [[1993 - The Even More Incredible Machine]]
-
-## See Also
 - [[2001 - The Incredible Machine - Even More Contraptions|← Previous: The Incredible Machine - Even More Contraptions]]
 
 ## References

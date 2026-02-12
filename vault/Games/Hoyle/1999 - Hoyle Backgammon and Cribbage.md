@@ -203,8 +203,6 @@ Other Hoyle titles from Sierra included Hoyle Solitaire (1996), Hoyle Board Game
 - **Next:** [[2001 - Hoyle Board Games]]
 
 The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
-
-## See Also
 - [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
 

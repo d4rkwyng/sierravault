@@ -248,8 +248,6 @@ Trophy Bass launched what would become one of Sierra's most commercially success
 The series maintained its partnership with the B.A.S.S. organization through multiple installments before later titles incorporated the Field & Stream magazine license for additional credibility in the outdoor sports market.[^ref-27] The franchise's fish AI and simulation systems served as a foundation that was refined across subsequent releases, with each new entry expanding equipment options, lake selections, and fish species.[^ref-28]
 
 - **Next:** [[1996 - Front Page Sports - Trophy Bass 2]]
-
-## See Also
 - [[1996 - Front Page Sports - Trophy Bass 2|→ Next: Front Page Sports - Trophy Bass 2]]
 
 ## References

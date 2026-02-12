@@ -100,7 +100,6 @@ Aces Over Europe became part of several compilation releases, including the "Ace
 
 The game's technical innovations, particularly its record and playback system, influenced later flight simulators. As one user noted, "The Aces Over series had the absolute best record/playback mission deck and video edit interface"[^ref-2] among its contemporaries. The simulation's attention to environmental detail, such as the unique bird strike feature[^ref-13], demonstrated Dynamix's commitment to realistic flight modeling that would influence future aviation games.
 
-
 ## See Also
 
 |  | **Aces Series** |  |
@@ -117,8 +116,6 @@ The game's technical innovations, particularly its record and playback system, i
 - [Internet Archive - Patches and Updates](https://archive.org/details/AOE_DOS_ZIP)[^ref-20]
 - [Internet Archive - Collector's Edition](https://archive.org/details/AcesTheCompleteCollectorsEditionUSA)[^ref-17]
 - [Internet Archive - Community Scenarios](https://archive.org/details/wargamer-depot_aces-over-europe)[^ref-19]
-
-## See Also
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
 - [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
 

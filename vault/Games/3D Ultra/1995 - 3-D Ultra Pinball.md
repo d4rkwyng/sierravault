@@ -210,8 +210,6 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 Each sequel addressed criticisms of its predecessor—most notably the addition of save game functionality in later entries after players complained about its absence in the original[^ref-2]. The series demonstrated Sierra's commitment to iterative improvement while maintaining the core fantasy pinball identity.
 
 - **Next:** [[1996 - 3-D Ultra Pinball - Creep Night]]
-
-## See Also
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
 
 ## References

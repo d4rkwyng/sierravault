@@ -210,7 +210,6 @@ The game represents the casual gaming market of the late 1990s, before the explo
 
 The collaboration between experienced Sierra personnel on this title, including writers, composers, and voice actors who worked across multiple Hoyle products, demonstrates the company's commitment to quality even in their casual gaming lineup[^ref-3][^ref-7][^ref-8]. Today, the game serves primarily as a historical artifact, representing both Sierra's diverse product portfolio and the evolution of casual gaming on personal computers.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -232,8 +231,6 @@ The collaboration between experienced Sierra personnel on this title, including 
 Hoyle Battling Ships And War is part of Sierra's long-running Hoyle's Official Book of Games series, which began in 1989 and continued through the late 1990s[^ref-2]. The series included numerous titles covering various card games, board games, and casino games, all bearing the Hoyle brand known for authoritative rules on traditional games.
 
 The 1998 release date places this title among the later entries in Sierra's Hoyle catalog, released during a period when the company was producing multiple gaming brands across various genres[^ref-1][^ref-3]. The game shares development personnel with other Sierra titles of the era, including multiple Hoyle products[^ref-3][^ref-7][^ref-8].
-
-## See Also
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1997 - Hoyle Classic Board Games|→ Next: Hoyle Classic Board Games]]
 

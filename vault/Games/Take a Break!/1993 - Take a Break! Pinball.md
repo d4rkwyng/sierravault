@@ -216,8 +216,6 @@ Take a Break! Pinball was the second and final entry in Sierra's Take a Break! c
 The game's use of Sierra franchise themes created connections to the broader Sierra gaming universe, allowing fans of King's Quest, Space Quest, Leisure Suit Larry, and other series to experience those worlds in a completely different gaming context[^ref-1]. The game is documented across various gaming databases[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-20].
 
 - **Previous:** Take a Break! Crossword (1992)
-
-## See Also
 - [[1992 - Take a Break! Crosswords|← Previous: Take a Break! Crosswords]]
 
 ## References

@@ -251,8 +251,6 @@ The '95 edition marked the first official NFL licensing for the series, a signif
 
 - **Previous:** [[1993 - Front Page Sports - Football Pro]]
 - **Next:** [[1995 - Front Page Sports - Football Pro '96]]
-
-## See Also
 - [[1994 - Front Page Sports - Baseball Pro|← Previous: Front Page Sports - Baseball Pro]]
 - [[1995 - Front Page Sports - Football Pro '96|→ Next: Front Page Sports - Football Pro '96]]
 

@@ -226,8 +226,6 @@ Quarky & Quaysoo's Turbo Science was developed as part of Sierra's Discovery Ser
 Other titles in the Sierra Discovery Series during this period included educational adventures developed by various Sierra subsidiaries, including Bright Star Entertainment.[^ref-17] The Discovery Series represented Sierra's attempt to expand beyond their core adventure game audience to capture the educational software market that was growing rapidly as more families acquired home computers.
 
 Jeff Tunnell Productions developed the game during the studio's operation between 1992 and 2000, a period that also saw the creation of other educational and puzzle titles before Tunnell's later success with The Incredible Machine.[^ref-16]
-
-## See Also
 - [[1991 - The Adventures of Willy Beamish|← Previous: The Adventures of Willy Beamish]]
 - [[1994 - Bouncers|→ Next: Bouncers]]
 

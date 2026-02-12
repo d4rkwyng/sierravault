@@ -281,8 +281,6 @@ Outpost launched Sierra's strategy/survival franchise, establishing the premise 
 The series emphasizes resource management, colony building, and survival mechanics grounded in realistic science. Outpost 2: Divided Destiny, developed by Dynamix, refined and reimproved many concepts from the original while adding real-time strategy elements[^ref-8].
 
 - **Next:** [[1997 - Outpost 2 - Divided Destiny]]
-
-## See Also
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
 
 ## References

@@ -229,8 +229,6 @@ Front Page Sports: Trophy Rivers was part of Sierra's Front Page Sports franchis
 The broader Front Page Sports line included football management simulations that would later inspire revival attempts, with fans expressing nostalgia for "Original Front Page Sports Football Sierra" and requesting updated versions with modern graphics and expanded features[^ref-15]. Dynamix's closure effectively ended active development of the franchise, though the titles remain available through abandonware preservation efforts.
 
 - **Previous:** [[1996 - Front Page Sports - Trophy Bass 2]]
-
-## See Also
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 

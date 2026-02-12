@@ -205,8 +205,6 @@ Turbo Learning: Mega Math was the second and final entry in the Turbo Learning s
 The series was notable for its short lifespan—planned future titles including "Turbo Earth Science" were announced within Turbo Science but never materialized[^ref-15]. The cancellation of the series after Mega Math suggests that sales did not meet Sierra's expectations for the educational software market.
 
 - **Previous:** [[1992 - Quarky & Quaysoo's Turbo Science]]
-
-## See Also
 - [[1993 - Spelling Jungle|← Previous: Spelling Jungle]]
 - [[1994 - Spelling Blizzard|→ Next: Spelling Blizzard]]
 

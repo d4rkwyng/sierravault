@@ -270,8 +270,6 @@ The title competed directly with Access Software's Links series, which was consi
 
 - **Previous:** N/A (First golf entry in series)
 - **Next:** N/A (No direct sequel)
-
-## See Also
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
 

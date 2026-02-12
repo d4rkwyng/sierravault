@@ -222,8 +222,6 @@ Fire Hawk: Thexder - The Second Contact continues the story of the original Thex
 The Thexder series would later see additional entries and remakes. A 2008 remake updated the graphics and added new levels, bringing the franchise to newer platforms including PlayStation Network.[^ref-3] The original Thexder was re-released on Nintendo Switch in 2023 as part of retro gaming preservation efforts.[^ref-10]
 
 - **Previous:** [[1985 - Thexder]]
-
-## See Also
 - [[1985 - Thexder|← Previous: Thexder]]
 - [[1995 - Thexder 95|→ Next: Thexder 95]]
 

@@ -279,8 +279,6 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 Gunman Chronicles is a standalone title with no direct sequels or prequels. The game shares its engine and publisher with the Half-Life series but exists in an entirely separate fictional universe.
 
 The question of potential remakes or sequels has been raised by fans, but as one community moderator noted: "There are currently no future plans of any kind."[^ref-52] The uncertain rights situation—caught between defunct developer Rewolf, Valve's engine ownership, and Sierra/Activision's publishing rights—makes any official revival unlikely.[^ref-20]
-
-## See Also
 - [[2000 - Counter-Strike|← Previous: Counter-Strike]]
 - [[2000 - Ricochet|→ Next: Ricochet]]
 

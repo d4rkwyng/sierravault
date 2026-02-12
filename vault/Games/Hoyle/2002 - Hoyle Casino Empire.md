@@ -263,8 +263,6 @@ The 2002 edition introduced online multiplayer and Palm OS compatibility, buildi
 
 - **Previous:** [[2001 - Hoyle Casino]]
 - **Next:** [[2003 - Hoyle Casino]]
-
-## See Also
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 

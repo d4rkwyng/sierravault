@@ -131,8 +131,6 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 
 - **Previous:** [[1996 - Lords of the Realm II]] (1996)
 - **Next:** Lords of the Realm III (2004)
-
-## See Also
 - [[1996 - Lords of the Realm II|← Previous: Lords of the Realm II]]
 - [[2004 - Lords of the Realm III|→ Next: Lords of the Realm III]]
 

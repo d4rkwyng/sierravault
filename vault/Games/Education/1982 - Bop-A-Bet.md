@@ -168,7 +168,6 @@ The game demonstrates the experimental nature of early educational software, att
 
 From a preservation standpoint, Bop-A-Bet represents one of the rarest titles associated with Sierra On-Line. The 2018 auction of Al Lowe's personal copy for $10,200 demonstrates the significant collector interest in early, obscure titles from developers who achieved later fame.[^ref-2] The game serves as a reminder that even legendary designers began with humble projects, honing their craft before creating their landmark works.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -189,8 +188,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 Bop-A-Bet was part of Sierra's Hi-Res Learning educational software series, which Sierra developed and acquired during the early 1980s.[^ref-3] The game represents Al Lowe's second title under the Sunnyside Soft label before the company was acquired by Sierra On-Line.
 
 Following the success of the Sunnyside Soft acquisition, Al Lowe joined Sierra as a staff developer, where he would contribute to numerous projects before creating the Leisure Suit Larry series in 1987.[^ref-7] Bop-A-Bet thus serves as the earliest commercially released work from one of Sierra's most prolific and celebrated designers.
-
-## See Also
 - [[1982 - Alphabet Blocks|← Previous: Alphabet Blocks]]
 - [[1983 - Early Math|→ Next: Early Math]]
 

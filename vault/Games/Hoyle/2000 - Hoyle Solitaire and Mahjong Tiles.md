@@ -187,8 +187,6 @@ The game was released during a period when Sierra was producing multiple Hoyle t
 
 - **Previous:** [[1999 - Hoyle Casino]]
 - **Next:** [[2000 - Hoyle Casino]]
-
-## See Also
 - [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 

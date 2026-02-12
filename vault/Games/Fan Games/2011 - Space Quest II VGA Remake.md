@@ -208,8 +208,6 @@ The game serves as a bridge between Roger's first heroic act of saving Xenon fro
 - **Original Game:** Space Quest II: Vohaul's Revenge (1987)
 - **Previous in Series:** Space Quest: The Sarien Encounter (1986)
 - **Next in Series:** Space Quest III: The Pirates of Pestulon (1989)
-
-## See Also
 - [[2011 - Space Quest - Vohaul Strikes Back|← Previous: Space Quest - Vohaul Strikes Back]]
 - [[2012 - Space Quest - Incinerations|→ Next: Space Quest - Incinerations]]
 

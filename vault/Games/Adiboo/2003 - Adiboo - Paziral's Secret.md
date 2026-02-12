@@ -230,8 +230,6 @@ The Adibou franchise enjoyed significant popularity in European markets, particu
 
 - **Previous:** Various Adibou educational titles
 - **Next:** Continued educational software releases under the Adibou brand
-
-## See Also
 - [[1996 - Adiboo - Magical Playland|← Previous: Adiboo - Magical Playland]]
 - [[2004 - Adiboo and the Energy Thieves|→ Next: Adiboo and the Energy Thieves]]
 

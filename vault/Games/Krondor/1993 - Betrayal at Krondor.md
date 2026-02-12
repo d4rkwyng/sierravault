@@ -295,8 +295,6 @@ The events of the game were considered significant enough that Feist novelized t
 
 - **Next:** [[1997 - Betrayal in Antara]] (spiritual successor without Feist license)
 - **Next:** [[1998 - Return to Krondor]] (official sequel)
-
-## See Also
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
 ## References

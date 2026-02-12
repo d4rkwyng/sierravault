@@ -182,7 +182,6 @@ Cohort II represents an interesting but flawed entry in the early real-time tact
 
 The game's most significant contribution to gaming history may be its innovative approach to cross-game integration with Caesar, presaging the modular design philosophy that would later become common in strategy gaming[^ref-1]. However, the poor critical reception and fundamental control issues prevented the game from achieving lasting recognition. Modern retrospectives tend to view Cohort II as a curiosity of early 1990s strategy gaming—ambitious in concept but severely limited in execution, remembered primarily as a companion piece to the more successful Caesar franchise rather than as a standalone achievement[^ref-9].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/cohort-ii-fighting-for-rome-1993)
@@ -203,8 +202,6 @@ Cohort II is the second and final entry in the Cohort series, following the orig
 The game's integration with the Caesar city-building series positioned it as part of a larger interconnected game system, though this cross-title functionality was considered its primary value proposition rather than its standalone merits[^ref-3]. No further sequels were produced in the Cohort series, with Impressions Games subsequently focusing on their more successful city-builder franchises.
 
 - **Previous:** [[1993 - Cohort II - Fighting for Rome]]
-
-## See Also
 - [[1992 - Discovery - In the Steps of Columbus|← Previous: Discovery - In the Steps of Columbus]]
 - [[1993 - WW2 Air Force Commander|→ Next: WW2 Air Force Commander]]
 

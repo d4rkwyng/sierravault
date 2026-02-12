@@ -276,8 +276,6 @@ SWAT 4: The Stetchkov Syndicate represents the final entry in Sierra's long-runn
 The game was developed by Irrational Games, who had taken over the franchise from Sierra's internal teams, bringing their expertise in atmospheric world-building and detailed environmental storytelling. The closure of Sierra Entertainment meant no further entries would be developed, leaving The Stetchkov Syndicate as the franchise's final chapter. Fans continue to hope for a revival, with community member sentiment captured in comments like "I'm still waiting for a SWAT 5."[^ref-25]
 
 - **Previous:** [[2005 - SWAT 4]]
-
-## See Also
 - [[2005 - SWAT 4|← Previous: SWAT 4]]
 - [[2006 - SWAT Force|→ Next: SWAT Force]]
 

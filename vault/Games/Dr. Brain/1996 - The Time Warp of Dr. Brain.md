@@ -129,7 +129,6 @@ The game's educational approach, incorporating "Gardner's theory of multiple int
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
-
 ## See Also
 
 |  | **Dr. Brain Series** |  |
@@ -144,8 +143,6 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 - [MyAbandonware](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf)[^ref-15]
 - [Internet Archive - Mac Version](https://archive.org/details/the-time-warp-of-dr-brain_mac)[^ref-21]
 - [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html)[^ref-43]
-
-## See Also
 - [[1995 - The Lost Mind of Dr. Brain|← Previous: The Lost Mind of Dr. Brain]]
 - [[1998 - Dr. Brain Thinking Games - IQ Adventure|→ Next: Dr. Brain Thinking Games - IQ Adventure]]
 

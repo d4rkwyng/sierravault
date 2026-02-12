@@ -256,8 +256,6 @@ The 20th Anniversary Edition preserves all narrative connections to the subseque
 
 - **Previous:** N/A (First game in series)
 - **Next:** [[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-## See Also
 - [[Gabriel Knight Series]] - Series overview
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 

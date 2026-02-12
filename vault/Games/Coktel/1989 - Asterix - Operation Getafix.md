@@ -177,7 +177,6 @@ Asterix: Operation Getafix occupies an interesting position in the history of li
 
 The game's mixed reception highlights a recurring challenge in licensed game development: balancing faithful adaptation of source material with engaging gameplay design. Later Asterix games, particularly those developed by Japanese studios for Sega platforms, would be cited as more successful attempts to capture "the mood and feel" of the comics while delivering competent action gameplay[^ref-14]. Nevertheless, Operation Getafix remains a curiosity for collectors and a nostalgic artifact for European gamers who grew up with both the Asterix comics and home computers of the late 1980s.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -200,8 +199,6 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 Asterix: Operation Getafix was part of Coktel Vision's series of Asterix game adaptations, though it stands as a relatively standalone title within the broader franchise of Asterix video games. The game's plot draws from elements of the 1989 animated film "Astérix et le coup du menhir," which combined story elements from two comic albums[^ref-13]. While numerous Asterix games have been produced by various developers over the years, Operation Getafix represents Coktel Vision's particular approach to the license, emphasizing adventure game mechanics alongside action platforming[^ref-3].
 
 The game shares thematic connections with other Coktel Vision adaptations of French comic properties, including their Blueberry and Lucky Luke games[^ref-3]. For Asterix specifically, the game features familiar characters including Obelix, Chief Vitalstatistix, the bard Cacofonix, and the soothsayer Prolix, all drawn from the established comic universe[^ref-5].
-
-## See Also
 - [[1988 - African Raiders-01|← Previous: African Raiders-01]]
 - [[1989 - ESS - European Space Simulator|→ Next: ESS - European Space Simulator]]
 

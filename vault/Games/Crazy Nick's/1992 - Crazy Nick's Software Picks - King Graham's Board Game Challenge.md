@@ -181,8 +181,6 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Robin Hood's Games of Skill and Chance]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]]
-
-## See Also
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|→ Next: Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 
 ## References

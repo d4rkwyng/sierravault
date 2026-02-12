@@ -175,7 +175,6 @@ The game's approach of bundling diverse puzzle types with a complete bonus game 
 
 The preservation of audio assets from earlier Hoyle titles reflects both the practical economics of casual game development and the consistency that series fans expected[^ref-7]. While not groundbreaking, Hoyle Puzzle Games 2002 fulfilled its role as an accessible, family-friendly puzzle compilation that extended the Hoyle brand into new territory beyond its card and board game origins.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -197,8 +196,6 @@ The series maintained its tradition of including social features like character 
 
 - **Previous:** Various Hoyle Card Games and Board Games releases (2001)
 - **Next:** Hoyle Puzzle Games 2003[^ref-5][^ref-6]
-
-## See Also
 - [[2002 - Hoyle Casino Empire|← Previous: Hoyle Casino Empire]]
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 

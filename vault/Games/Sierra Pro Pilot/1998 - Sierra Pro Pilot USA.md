@@ -210,8 +210,6 @@ All three Pro Pilot titles shared similar core gameplay focused on civilian avia
 
 - **Previous:** [[1997 - Sierra Pro Pilot 98]]
 - **Next:** [[1998 - Sierra Pro Pilot '99]]
-
-## See Also
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
 ## References

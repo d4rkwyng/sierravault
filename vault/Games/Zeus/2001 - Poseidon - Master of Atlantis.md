@@ -273,8 +273,6 @@ Within the City Building Series, Zeus and Poseidon followed the Pharaoh and Cleo
 
 - **Previous:** [[2000 - Zeus - Master of Olympus]]
 - **Compilation:** Acropolis expansion
-
-## See Also
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
 
 ## References

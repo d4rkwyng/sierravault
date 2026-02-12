@@ -228,8 +228,6 @@ The games share the same WChess engine core and royal court theme, with each ite
 
 - **Previous:** [[1996 - Power Chess]]
 - **Next:** [[1999 - Power Chess 2.0]]
-
-## See Also
 - [[1996 - Power Chess|← Previous: Power Chess]]
 - [[1999 - Power Chess 2.0|→ Next: Power Chess 2.0]]
 

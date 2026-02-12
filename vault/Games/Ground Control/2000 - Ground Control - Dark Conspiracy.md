@@ -249,8 +249,6 @@ The franchise would continue with Ground Control II: Operation Exodus in 2004, t
 
 - **Previous:** [[2000 - Ground Control]]
 - **Next:** [[2004 - Ground Control II - Operation Exodus]]
-
-## See Also
 - [[2000 - Ground Control|← Previous: Ground Control]]
 - [[2004 - Ground Control II - Operation Exodus|→ Next: Ground Control II - Operation Exodus]]
 

@@ -272,8 +272,6 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 Rise of the Dragon was the first game to use the Dynamix Game Development System (DGDS), establishing a template for narrative-driven adventures that would be refined in subsequent titles.[^ref-12] While marketed with the subtitle "A Blade Hunter Mystery" on the Sega CD version—implying a potential series—no sequel was ever produced despite hints in the game suggesting further adventures.[^ref-23] The DGDS engine and design philosophy continued in Dynamix's other adventure titles, creating an informal trilogy of mature graphic adventures.
 
 - **Next:** [[1991 - Heart of China]]
-
-## See Also
 - [[1990 - F-14 Tomcat|← Previous: F-14 Tomcat]]
 - [[1991 - Heart of China|→ Next: Heart of China]]
 

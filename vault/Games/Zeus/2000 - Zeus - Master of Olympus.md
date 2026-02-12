@@ -330,8 +330,6 @@ The series would continue after Zeus with Emperor: Rise of the Middle Kingdom (2
 
 - **Previous:** [[1999 - Pharaoh]]
 - **Next:** [[2001 - Poseidon - Master of Atlantis]] (expansion)
-
-## See Also
 - [[2001 - Poseidon - Master of Atlantis|→ Next: Poseidon - Master of Atlantis]]
 
 ## References

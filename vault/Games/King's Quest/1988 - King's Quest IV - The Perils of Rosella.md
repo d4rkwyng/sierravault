@@ -265,8 +265,6 @@ The game establishes Rosella's character and romantic interest Edgar, both of wh
 
 **Previous:** [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] (1986)
 **Next:** [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] (1990)
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1986 - King's Quest III - To Heir Is Human|← Previous: King's Quest III - To Heir Is Human]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|→ Next: King's Quest V - Absence Makes the Heart Go Yonder]]

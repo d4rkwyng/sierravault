@@ -134,8 +134,6 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 
 - **Previous:** [[1996 - Earthsiege 2]]
 - **Next:** [[1998 - Cyberstorm 2 - Corporate Wars]]
-
-## See Also
 - [[1996 - Earthsiege 2|← Previous: Earthsiege 2]]
 - [[1998 - Cyberstorm 2 - Corporate Wars|→ Next: Cyberstorm 2 - Corporate Wars]]
 

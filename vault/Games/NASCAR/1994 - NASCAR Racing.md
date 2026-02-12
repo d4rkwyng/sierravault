@@ -267,8 +267,6 @@ The original game's physics engine and design philosophy formed the foundation f
 
 - **Previous:** [[1993 - IndyCar Racing]]
 - **Next:** [[1996 - NASCAR Racing 2]]
-
-## See Also
 - [[1989 - Indianapolis 500 - The Simulation|← Previous: Indianapolis 500 - The Simulation]]
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
 

@@ -103,7 +103,6 @@ PGA Championship Golf 2000 Titanium Edition contributed to the evolution of golf
 
 The game's multiple edition releases and regional variations[^ref-23] demonstrated the commercial viability of enhanced sports simulations, paving the way for future special editions and expanded content models in sports gaming. The practice of offering free upgrades to existing customers[^ref-11] also set precedents for customer service approaches in the gaming industry.
 
-
 ## See Also
 
 |  | **PGA Championship Golf Series** |  |
@@ -119,8 +118,6 @@ The game's multiple edition releases and regional variations[^ref-23] demonstrat
 **Download / Preservation**
 - MyAbandonware - Search results available[^ref-24]
 - Various abandonware sites maintain archive listings[^ref-1]
-
-## See Also
 - [[2000 - PGA Championship Golf 2000|← Previous: PGA Championship Golf 2000]]
 - [[2001 - PGA Championship Golf - Collector's Edition|→ Next: PGA Championship Golf - Collector's Edition]]
 

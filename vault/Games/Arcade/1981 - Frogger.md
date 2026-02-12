@@ -270,8 +270,6 @@ Frogger launched one of gaming's longest-running franchises, spawning over 20 se
 The series saw major revivals with the 1997 3D remake and continued through numerous console generations, eventually expanding into mobile gaming with Frogger Free (2012) and receiving the ultimate cultural validation when Konami partnered with Peacock to create a live-action game show adaptation in 2021[^ref-7].
 
 - **Next:** Frogger II: ThreeeDeep! (1984)
-
-## See Also
 - [[1981 - Crossfire|← Previous: Crossfire]]
 - [[1981 - Gobbler|→ Next: Gobbler]]
 

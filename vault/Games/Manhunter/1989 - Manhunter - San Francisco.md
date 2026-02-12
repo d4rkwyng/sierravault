@@ -226,8 +226,6 @@ The series was conceived as a trilogy with potential for additional installments
 
 - **Previous:** [[1988 - Manhunter - New York]]
 - **Next:** Manhunter 3: London (Cancelled)
-
-## See Also
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
 
 ## References

@@ -240,8 +240,6 @@ The three games together represent Dynamix's complete output in the adventure ge
 
 - **Related:** [[1990 - Rise of the Dragon]]
 - **Related:** [[1991 - The Adventures of Willy Beamish]]
-
-## See Also
 - [[1990 - Rise of the Dragon|← Previous: Rise of the Dragon]]
 - [[1991 - The Adventures of Willy Beamish|→ Next: The Adventures of Willy Beamish]]
 

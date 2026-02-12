@@ -200,7 +200,6 @@ The simulation's legacy is complicated by its technical issues at launch, which 
 
 For submarine enthusiasts, Fast Attack remains a notable historical artifact, offering insight into the capabilities of Los Angeles class attack submarines during their operational prime. The game's educational value regarding submarine tactics, sonar operations, and weapons systems ensures its continued relevance to those interested in naval warfare simulation.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/fast-attack-high-tech-submarine-warfare-1996)
@@ -222,8 +221,6 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 Fast Attack: High Tech Submarine Warfare was developed as a standalone title without direct sequels or prequels. It existed within Sierra's broader simulation portfolio alongside other military-themed titles, though it remained distinct from series like Aces of the Pacific or Red Baron.
 
 The game represented Sierra's foray into modern naval simulation, differentiating itself from World War II-era submarine games that dominated the market. Its focus on contemporary nuclear attack submarines and Cold War-era scenarios offered a unique perspective on submarine warfare that few competitors attempted to match.
-
-## See Also
 - [[1995 - Air Cavalry|← Previous: Air Cavalry]]
 - [[1995 - Shannara|→ Next: Shannara]]
 

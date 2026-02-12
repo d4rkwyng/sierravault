@@ -250,8 +250,6 @@ Silent Thunder exists within Dynamix's broader catalog of flight simulations:
 - **Aces Over Europe** (1993) - WWII European theater
 - **Aces of the Deep** (1994) - U-boat simulation
 - **Silent Thunder: A-10 Tank Killer II** (1996)
-
-## See Also
 - [[1991 - A-10 Tank Killer v1.5|← Previous: A-10 Tank Killer v1.5]]
 
 ## References

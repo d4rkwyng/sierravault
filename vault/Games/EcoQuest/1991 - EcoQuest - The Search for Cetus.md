@@ -159,8 +159,6 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 - **Previous:** None (First in series)
 - **Next:** [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] (1993)
-
-## See Also
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
 
 ## References

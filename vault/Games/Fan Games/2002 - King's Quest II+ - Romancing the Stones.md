@@ -201,8 +201,6 @@ As a fan remake rather than an official Sierra release, the game exists parallel
 
 - **Previous:** [[2001 - King's Quest I VGA Remake]]
 - **Next:** [[2011 - King's Quest III Redux - To Heir is Human]]
-
-## See Also
 - [[2001 - Space Quest - The Lost Chapter|← Previous: Space Quest - The Lost Chapter]]
 - [[2003 - Space Quest 0 - Replicated|→ Next: Space Quest 0 - Replicated]]
 

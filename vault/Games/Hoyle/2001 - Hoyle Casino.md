@@ -220,8 +220,6 @@ The game belongs to Sierra's broader Hoyle brand, which also encompasses card ga
 
 - **Previous:** [[2000 - Hoyle Casino]]
 - **Next:** [[2002 - Hoyle Casino Empire]]
-
-## See Also
 - [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 

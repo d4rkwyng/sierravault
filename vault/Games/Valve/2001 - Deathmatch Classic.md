@@ -231,7 +231,6 @@ The game's historical significance extends beyond its gameplay. It represents an
 
 However, the game's legacy is complicated by its technical execution. As Rock Paper Shotgun noted, the changes Valve made to the Quake engine—affecting character movement, lighting, and overall feel—meant that DMC never quite captured the precise sensation of playing original Quake deathmatch.[^ref-5] Combined with its largely abandoned multiplayer servers and the abundance of superior alternatives, Deathmatch Classic remains more historically interesting than practically playable in the modern era.[^ref-4][^ref-8]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -254,8 +253,6 @@ The game's relationship to other titles is primarily technical rather than narra
 - **Related:** [[1998 - Half-Life]]
 - **Related:** [[2000 - Counter-Strike]]
 - **Related:** [[2001 - Half-Life - Blue Shift]]
-
-## See Also
 - [[2000 - Ricochet|← Previous: Ricochet]]
 - [[2001 - Half-Life - Blue Shift|→ Next: Half-Life - Blue Shift]]
 

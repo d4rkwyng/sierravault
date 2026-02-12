@@ -241,8 +241,6 @@ The game's events directly set up King's Quest IV: The Perils of Rosella, which 
 
 - **Previous:** [[1985 - King's Quest II - Romancing the Throne]]
 - **Next:** [[1988 - King's Quest IV - The Perils of Rosella]]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1985 - King's Quest II - Romancing the Throne|← Previous: King's Quest II - Romancing the Throne]]
 - [[1988 - King's Quest IV - The Perils of Rosella|→ Next: King's Quest IV - The Perils of Rosella]]

@@ -236,8 +236,6 @@ Within the Crazy Nick's series, the title shares its release timing and format w
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
-
-## See Also
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|← Previous: Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|→ Next: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 

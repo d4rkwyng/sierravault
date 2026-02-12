@@ -93,7 +93,6 @@ Trophy Bass established a successful franchise that spawned multiple sequels inc
 
 The game's influence extended beyond the immediate fishing simulation genre, establishing design principles for authentic sports simulation that emphasized realism over arcade-style gameplay[^ref-21]. Despite not being available on modern digital distribution platforms like Steam[^ref-27], the game maintains an active preservation community through sites like Internet Archive and GOG wishlists[^ref-28].
 
-
 ## See Also
 
 |  | **Trophy Bass Series** |  |
@@ -110,8 +109,6 @@ The game's influence extended beyond the immediate fishing simulation genre, est
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)[^ref-20]
 - [Internet Archive - Trophy Bass Demo](https://archive.org/details/TROPHY)[^ref-29]
 - [Internet Archive - Trophy Bass 4 Full Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone)[^ref-30]
-
-## See Also
 - [[1999 - Field & Stream - Trophy Bass 3D|← Previous: Field & Stream - Trophy Bass 3D]]
 
 ## References

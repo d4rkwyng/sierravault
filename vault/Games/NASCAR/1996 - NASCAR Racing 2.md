@@ -228,7 +228,6 @@ NASCAR Racing 2 represents a pivotal moment in racing simulation history, arrivi
 
 The Papyrus legacy continued to influence racing games long after the studio's closure by Vivendi Universal in May 2003[^ref-20]. David Kaemmer recovered the rights to their racing simulation technology and went on to found iRacing, which continues the hardcore simulation philosophy[^ref-20]. The NASCAR Racing 2003 Season, the final game in the series, developed such a dedicated modding community that it remained actively played decades after release, with developer Steve Myers noting "Having seen the writing on the wall that this was going to be the end, we did release Sandbox, so that the community could build their own tracks"[^ref-15].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -255,8 +254,6 @@ NASCAR Racing 2 was the second entry in Papyrus's critically acclaimed NASCAR Ra
 
 - **Previous:** [[1994 - NASCAR Racing]]
 - **Next:** [[1999 - NASCAR Racing 3]]
-
-## See Also
 - [[1994 - NASCAR Racing|← Previous: NASCAR Racing]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 - Grand National Series Expansion]]
 

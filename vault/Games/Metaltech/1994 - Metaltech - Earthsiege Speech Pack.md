@@ -222,8 +222,6 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - Metaltech: Earthsiege Speech Pack (1994)
 - [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: Earthsiege Expansion Pack]] (1995)
 - [[1996 - Earthsiege 2|Earthsiege 2]] (1996)
-
-## See Also
 - [[1994 - Metaltech - Earthsiege|← Previous: Metaltech - Earthsiege]]
 - [[1995 - Metaltech - Earthsiege Expansion Pack|→ Next: Metaltech - Earthsiege Expansion Pack]]
 

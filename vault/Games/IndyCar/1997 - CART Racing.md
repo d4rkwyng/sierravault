@@ -246,8 +246,6 @@ The CART licensing issues reflected broader industry conflicts between CART and 
 
 - **Previous:** [[1993 - IndyCar Racing]]
 - **Next:** None (series concluded with rebrand)
-
-## See Also
 - [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
 
 ## References

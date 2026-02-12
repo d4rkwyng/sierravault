@@ -223,8 +223,6 @@ The games share a persistent squad leader character system, where leaders gain e
 Unlike its predecessors, Breach 3 dropped the fake isometric view of Breach 2 in favor of a pure top-down perspective, representing a controversial design decision that some viewed as a regression.[^ref-9]
 
 - **Previous:** Breach 2
-
-## See Also
 - [[1994 - Front Lines|← Previous: Front Lines]]
 - [[1995 - Casino De Luxe|→ Next: Casino De Luxe]]
 

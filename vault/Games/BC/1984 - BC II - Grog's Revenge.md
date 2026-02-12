@@ -247,7 +247,6 @@ The game's legacy is perhaps most notable for what it reveals about software qua
 
 From a design perspective, "In comparison to its forerunner Grog's Revenge distinguishes itself in my opinion by its monotony of the course of the game. You do not have to do more than collecting clams and avoiding obstacles"[^ref-3]. This assessment reflects a common trajectory for sequels attempting to expand upon simpler predecessors—sometimes additional complexity doesn't translate to additional engagement.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -269,8 +268,6 @@ B.C. II: Grog's Revenge is the second and final game in the B.C. video game seri
 The character of Grog, who serves as the primary antagonist in this sequel, comes directly from the comic strip, as does Peter the toll collector[^ref-9]. The use of clams as currency maintains continuity with the comic's established prehistoric economy[^ref-6].
 
 - **Previous:** [[1983 - BC's Quest for Tires]]
-
-## See Also
 - [[1983 - BC's Quest for Tires|← Previous: BC's Quest for Tires]]
 
 ## References
@@ -288,7 +285,6 @@ The character of Grog, who serves as the primary antagonist in this sequel, come
 [^ref-6]: [Wikipedia – B.C. II: Grog's Revenge](https://en.wikipedia.org/wiki/B.C._II%3A_Grog%27s_Revenge) – ratings, bugs, cancelled ports, Félix Espina fix, designers
 
 [^ref-7]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/129782-bc-ii-grogs-revenge) – story overview, Coleco Adam platform
-
 
 [^ref-9]: [Kotaku Games Database](https://kotaku.com/games/bc-ii-grogs-revenge) – story description, clam mechanics
 

@@ -187,8 +187,6 @@ The title has developed a cult following among players who experienced it during
 ## See Also
 
 Stay Tooned! was developed as a standalone title by Funnybone Interactive and is not part of a larger game series. The game represents the studio's primary contribution to the adventure game genre before their focus shifted to educational software under the Fisher-Price brand[^ref-1][^ref-12]. While published by Sierra On-Line, the game has no narrative or gameplay connections to Sierra's other adventure game franchises.[^ref-9][^ref-10]
-
-## See Also
 - [[1996 - Lighthouse - The Dark Being|← Previous: Lighthouse - The Dark Being]]
 - [[1997 - Diablo - Hellfire|→ Next: Diablo - Hellfire]]
 

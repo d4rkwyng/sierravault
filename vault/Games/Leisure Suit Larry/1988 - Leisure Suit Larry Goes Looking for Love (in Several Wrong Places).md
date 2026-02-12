@@ -251,8 +251,6 @@ The game also established the series' tradition of inter-game references, with P
 
 - **Previous:** [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - **Next:** [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|← Previous: Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|→ Next: Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]

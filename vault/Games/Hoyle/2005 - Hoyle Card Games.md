@@ -174,7 +174,6 @@ The game's legacy is complicated by the technical issues that plagued many copie
 
 In the broader context of the Hoyle series, the 2005 edition marked one of the final entries associated with Sierra's direct involvement before the brand continued under different corporate ownership. The series itself represents an important lineage in casual gaming history, having provided accessible card game entertainment to PC users for over 15 years by this point[^ref-3].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -196,8 +195,6 @@ The Hoyle series continued after the 2005 edition, with later versions released 
 
 - **Previous:** [[2003 - Hoyle Card Games]]
 - **Next:** [[2015 - Hoyle Official Card Games Collection]]
-
-## See Also
 - [[2005 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2005 - Hoyle Casino 3D|→ Next: Hoyle Casino 3D]]
 

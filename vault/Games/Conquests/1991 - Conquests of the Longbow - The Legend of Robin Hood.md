@@ -286,8 +286,6 @@ The games share design philosophies including multiple endings based on player c
 No third installment was ever developed, making this the conclusion of Christy Marx's Conquests series at Sierra.
 
 - **Previous:** [[1990 - Conquests of Camelot - The Search for the Grail]]
-
-## See Also
 - [[1990 - Conquests of Camelot - The Search for the Grail|← Previous: Conquests of Camelot - The Search for the Grail]]
 
 ## References

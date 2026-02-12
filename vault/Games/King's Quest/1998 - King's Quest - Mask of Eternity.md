@@ -308,8 +308,6 @@ The Dimension of Death visited in this game is explicitly not the same underworl
 
 - **Previous:** [[1994 - King's Quest VII - The Princeless Bride]]
 - **Next:** [[2015 - King's Quest]]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1994 - King's Quest VII - The Princeless Bride|← Previous: King's Quest VII - The Princeless Bride]]
 - [[2015 - King's Quest|→ Next: King's Quest]]

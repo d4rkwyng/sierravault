@@ -183,8 +183,6 @@ The game's connection to the main series is primarily through shared characters 
 
 - **Previous (Main Series):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[Al Lowe]] - Creator and designer
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail!]]

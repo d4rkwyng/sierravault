@@ -221,7 +221,6 @@ The game is best understood as "a cultural artifact, showing how developers trie
 
 Modern players typically approach the game "more out of historical interest than enjoyment—and that's probably how it should be approached."[^ref-3] As one retrospective noted: "There are some video games which you will never forget. Emmanuelle: A Game of Eroticism is one of them."[^ref-1]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -230,7 +229,6 @@ Modern players typically approach the game "more out of historical interest than
 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
-
 
 **Download / Preservation**
 - [Internet Archive – DOS Version](https://archive.org/details/002696-EmmanuelleAGameOfEroticism)
@@ -248,8 +246,6 @@ Emmanuelle represents the first entry in what gaming historians have identified 
 Coktel Vision itself would continue as an independent studio until 1993, when they were acquired by Sierra On-Line, becoming part of the Sierra family that also included other European acquisitions.[^ref-7]
 
 - **Next:** 1990 - Geisha
-
-## See Also
 - [[1989 - ESS - European Space Simulator|← Previous: ESS - European Space Simulator]]
 - [[1989 - Legend of Djel|→ Next: Legend of Djel]]
 

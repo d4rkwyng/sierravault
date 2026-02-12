@@ -165,7 +165,6 @@ The game's release in 2004 placed it in direct competition with vastly more poli
 
 Retrospectively, the game serves as a nostalgic touchstone for a generation who encountered it during childhood, even among those who acknowledge its limitations[^ref-5]. The adaptive difficulty system and non-violent approach to gameplay represented thoughtful design choices for the target demographic, even if the overall execution failed to match contemporary standards[^ref-8].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -183,8 +182,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 Adiboo and the Energy Thieves represents one of the later entries in the broader Adiboo franchise, which had its origins in educational software developed by Coktel Vision[^ref-12]. The character Adiboo had appeared in numerous educational titles throughout the 1990s before this transition to 3D action-adventure gameplay[^ref-6].
 
 The game was part of Coktel Vision's catalog that included other notable titles across various genres[^ref-12]. While the Adiboo franchise continued in various forms, this title represented one of the most ambitious console releases featuring the character.
-
-## See Also
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
 ## References

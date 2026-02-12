@@ -196,7 +196,6 @@ The game represents an earnest attempt to bring air warfare strategy to PC gamer
 
 The game's historical significance lies primarily in documenting the evolution of Impressions Games as a studio and showcasing the diversity of strategy games available during the DOS era. For enthusiasts of military history and vintage gaming, WW2 Air Force Commander remains an accessible window into 1990s strategy game design philosophies.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -205,7 +204,6 @@ The game's historical significance lies primarily in documenting the evolution o
 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
-
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) - Browser-playable version[^ref-7]
@@ -221,8 +219,6 @@ WW2 Air Force Commander is the second entry in Impressions Games' Air Force Comm
 The game engine technology developed for Air Force Commander was subsequently improved and utilized in other Impressions strategy titles including Global Domination and When Two Worlds War[^ref-9], demonstrating how the series contributed to the studio's broader technological development.
 
 - **Previous:** [[1992 - Air Force Commander]]
-
-## See Also
 - [[1993 - Cohort II - Fighting for Rome|← Previous: Cohort II - Fighting for Rome]]
 - [[1994 - Detroit|→ Next: Detroit]]
 

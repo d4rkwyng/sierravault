@@ -296,8 +296,6 @@ The VGA remake served as many players' first introduction to Larry, presenting t
 - **Original Version:** [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - **Next:** [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - **HD Remake:** [[2013 - Leisure Suit Larry - Reloaded]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|← Previous: Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|→ Next: Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]

@@ -256,8 +256,6 @@ BreakAway Games' involvement continued the collaborative development approach es
 
 - **Previous:** [[2000 - Zeus - Master of Olympus]]
 - **Next:** [[2006 - Caesar IV]]
-
-## See Also
 - [[1996 - Casino Deluxe 2|← Previous: Casino Deluxe 2]]
 
 ## References
@@ -277,7 +275,6 @@ BreakAway Games' involvement continued the collaborative development approach es
 [^ref-7]: [GameZone Review](https://web.archive.org/web/20081006201435/http://pc.gamezone.com/gzreviews/r19809.htm) – review score 9.3/10, gameplay analysis
 
 [^ref-8]: [TV Tropes – Emperor: Rise of the Middle Kingdom](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/EmperorRiseOfTheMiddleKingdom) – gameplay tropes, zodiac names, alternate history
-
 
 [^ref-10]: [GameFAQs – FAQ/Walkthrough by Mike Jenista](https://gamefaqs.gamespot.com/pc/553878-emperor-rise-of-the-middle-kingdom/faqs/54453) – fixed grid system, series comparison
 

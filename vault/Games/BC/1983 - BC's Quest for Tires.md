@@ -249,7 +249,6 @@ The game represents an early example of successful comic strip licensing in vide
 
 The game also exemplifies the rapid multi-platform development practices of the early 1980s, with different programmers creating distinct versions for various home computers and consoles. Chuck Benton's story of designing "the second half of the game myself, even though it wasn't part of the contract" reveals the informal, entrepreneurial nature of game development in this era.[^ref-21] That Sierra was impressed enough to have in-house designers copy his work speaks to both the quality of his contribution and the collaborative chaos of early game publishing.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -275,8 +274,6 @@ B.C.'s Quest for Tires was followed by a sequel, *B.C. II: Grog's Revenge*, rele
 The *B.C.* comic strip license was unique among Sierra On-Line's catalog, as the company was primarily known for adventure games rather than action titles. This licensed game represented an attempt to diversify into the arcade-style action market that dominated early 1980s home gaming.
 
 - **Next:** [[1984 - BC II - Grog's Revenge]]
-
-## See Also
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
 
 ## References

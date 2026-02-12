@@ -213,7 +213,6 @@ The game represents the culmination of Papyrus Design Group's NASCAR simulation 
 
 As the only simulation covering this specific era, NASCAR Legends remains relevant decades after its release. The continued interest from the retro gaming community, as evidenced by ongoing compatibility efforts and strong user ratings on abandonware sites, demonstrates its enduring appeal.[^ref-8] For nostalgic NASCAR fans and those curious about the sport's formative years, it remains, as GameSpot stated, "the only game for nostalgic NASCAR fans to turn to."[^ref-3]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -237,8 +236,6 @@ The game shares its technological foundation with NASCAR Racing 3, using the sam
 
 - **Previous:** [[1999 - NASCAR Racing 3]]
 - **Next:** [[2001 - NASCAR Racing 4]]
-
-## See Also
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
 

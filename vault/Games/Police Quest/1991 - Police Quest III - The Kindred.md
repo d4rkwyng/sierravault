@@ -269,8 +269,6 @@ Following Jim Walls' departure, Sierra brought in former LAPD Chief Daryl F. Gat
 
 - **Previous:** [[1988 - Police Quest II - The Vengeance]]
 - **Next:** [[1993 - Police Quest - Open Season]]
-
-## See Also
 - [[Police Quest Series]] - Series overview
 - [[1988 - Police Quest II - The Vengeance|← Previous: Police Quest II - The Vengeance]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|→ Next: Police Quest - In Pursuit of the Death Angel VGA]]

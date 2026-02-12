@@ -138,8 +138,6 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 
 - **Previous:** Front Page Sports Baseball '94
 - **Next:** Series concluded with '98 edition
-
-## See Also
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
 

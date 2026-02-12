@@ -221,8 +221,6 @@ The broader Hoyle universe also includes the Hoyle Casino spin-off series that b
 
 - **Previous:** [[2007 - Hoyle Card Games 2008]]
 - **Next:** [[2007 - Hoyle Card Games 2008]]
-
-## See Also
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
 

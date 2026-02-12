@@ -264,8 +264,6 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 Mage's Initiation was designed as the first entry in a potential saga of sequels, with the character export feature allowing players to transfer their D'arc to future installments[^ref-23]. The post-credits sting explicitly sets up continuation of the story[^ref-23]. However, the developers have indicated that sequels are contingent on securing additional funding or finding a publisher for financial security[^ref-12].
 
 The game exists as a standalone title with no direct predecessors, though it serves as a spiritual successor to Sierra's Quest for Glory series (1989-1998). Himalaya Studios' previous commercial release, Al Emmo and the Lost Dutchman's Mine (2006), exists in a separate continuity as a Leisure Suit Larry-inspired comedy adventure[^ref-5].
-
-## See Also
 - [[2018 - Hero-U - Rogue to Redemption|← Previous: Hero-U - Rogue to Redemption]]
 - [[2022 - SpaceVenture|→ Next: SpaceVenture]]
 

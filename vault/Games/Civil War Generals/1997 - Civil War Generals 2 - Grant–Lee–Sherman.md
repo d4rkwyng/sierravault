@@ -107,7 +107,6 @@ The game's educational value extended beyond entertainment, serving as a bridge 
 
 NPD retail tracking data from September 1996 showed strong commercial performance, with the original Robert E. Lee: Civil War General ranking #8 in the reference software category at a $51 price point across 8,823 stores[^ref-58]. This commercial success validated the market demand for sophisticated historical gaming experiences and paved the way for future educational strategy titles.
 
-
 ## See Also
 
 |  | **Civil War Generals Series** |  |
@@ -124,8 +123,6 @@ NPD retail tracking data from September 1996 showed strong commercial performanc
 - [MyAbandonware - Grant Lee Sherman Civil War 2 Generals](https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq)[^ref-61]
 - [Old-Games.com - Robert E. Lee Civil War General](https://www.old-games.com/download/9946/robert-e-lee-civil-war)[^ref-37]
 - [Internet Archive - R.E. Lee Movies](https://archive.org/details/r-e-lee-movies)[^ref-2]
-
-## See Also
 - [[1996 - Robert E. Lee - Civil War General|← Previous: Robert E. Lee - Civil War General]]
 
 ## References

@@ -192,7 +192,6 @@ A-10 Tank Killer holds an important position in flight simulation history as one
 
 While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. The game's persistent battlefield mechanic, where destroyed or surviving targets carried consequences into future missions, presaged features that would become standard in later combat simulators. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-12][^ref-8].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/a-10-tank-killer)
@@ -217,8 +216,6 @@ A-10 Tank Killer launched Dynamix's modern jet combat simulation line, distinct 
 The sequel, Silent Thunder: A-10 Tank Killer II, arrived six years later with dramatically improved technology while maintaining the original's emphasis on authentic A-10 operations. Both games share the distinction of being among the few flight simulators dedicated entirely to the ground attack role rather than air superiority missions.
 
 - **Next:** [[1996 - Silent Thunder - A-10 Tank Killer II]]
-
-## See Also
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
 
 ## References

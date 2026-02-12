@@ -248,8 +248,6 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 
 - **Previous:** None (First in series)
 - **Next:** Order of the Thorne: Fortress of Fire (In Development)
-
-## See Also
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|← Previous: Cluck Yegger in Escape From The Planet of The Poultroid]]
 - [[2018 - Hero-U - Rogue to Redemption|→ Next: Hero-U - Rogue to Redemption]]
 

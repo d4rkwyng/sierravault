@@ -179,7 +179,6 @@ The game has been preserved through abandonware archives and the Internet Archiv
 - Not currently available on GOG or Steam
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-craftsman-truck-series-racing)
 
-
 ## See Also
 
 |  | **NASCAR Series** |  |
@@ -195,8 +194,6 @@ The game has been preserved through abandonware archives and the Internet Archiv
 - [Internet Archive - NASCAR Craftsman Truck Series Racing](https://archive.org/details/NascarCraftsmanTruckSeriesRacing) - Preservation copy[^ref-2]
 
 The game is documented in various gaming databases.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15]
-
-## See Also
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|← Previous: NASCAR Racing 2 - Grand National Series Expansion]]
 - [[1999 - NASCAR Legends|→ Next: NASCAR Legends]]
 

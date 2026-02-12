@@ -142,8 +142,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 
 - **Previous:** [[1999 - Field & Stream - Trophy Bass 3D]]
 - **Next:** Trophy Bass 5 (Unreleased)
-
-## See Also
 - [[1998 - Grand Prix Legends|← Previous: Grand Prix Legends]]
 - [[1998 - Sierra Sports Skiing 1999 Edition|→ Next: Sierra Sports Skiing 1999 Edition]]
 

@@ -101,7 +101,6 @@ The game's influence extends beyond its immediate success. It demonstrated that 
 
 The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9] and abandonware archives[^ref-1], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
 
-
 ## See Also
 
 |  | **Mixed Up Series** |  |
@@ -119,8 +118,6 @@ The preservation community's continued interest, evidenced by active wishlist ca
 - [Internet Archive - MS-DOS 1991](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991)[^ref-5]
 - [Play Classic Games - Browser Version](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/)[^ref-31]
 - [Play Old Games - Browser Version](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/)[^ref-32]
-
-## See Also
 - [[1987 - Mixed-Up Mother Goose|← Previous: Mixed-Up Mother Goose]]
 - [[1991 - Mixed-Up Fairy Tales|→ Next: Mixed-Up Fairy Tales]]
 

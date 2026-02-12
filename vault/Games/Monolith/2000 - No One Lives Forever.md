@@ -329,8 +329,6 @@ The Operative: No One Lives Forever launched a trilogy of games following the ba
 The series expanded the 1960s spy universe with each installment, maintaining the blend of action, stealth, and comedy while exploring different aspects of Cate Archer's world. No One Lives Forever 2: A Spy in H.A.R.M.'s Way (2002) received similar critical acclaim, with GameSpot awarding it 9.3/10 and declaring it "a rousing success on every level."[^ref-51] The third game, Contract J.A.C.K. (2003), served as a spin-off prequel following a H.A.R.M. operative rather than Cate Archer.[^ref-47]
 
 - **Next:** [[2002 - No One Lives Forever 2]]
-
-## See Also
 - [[2002 - No One Lives Forever 2|→ Next: No One Lives Forever 2]]
 
 ## References

@@ -92,7 +92,6 @@ The game's educational value has made it a lasting presence in classrooms worldw
 
 In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40].
 
-
 ## See Also
 
 |  | **Incredible Machine Series** |  |
@@ -108,8 +107,6 @@ In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contra
 - [MyAbandonware - The Incredible Machine](https://www.myabandonware.com/game/the-incredible-machine-1mg)[^ref-22]
 - [Internet Archive - The Incredible Machine](https://archive.org/details/the_incredible_machine_1992)[^ref-2]
 - [Classic Reload - Browser Playable Version](https://classicreload.com/the-incredible-machine.html)[^ref-3]
-
-## See Also
 - [[1993 - The Even More Incredible Machine|← Previous: The Even More Incredible Machine]]
 - [[1994 - The Incredible Toon Machine|→ Next: The Incredible Toon Machine]]
 

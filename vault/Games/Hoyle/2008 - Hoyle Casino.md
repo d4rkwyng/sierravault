@@ -185,8 +185,6 @@ Hoyle Casino 2008 is part of the long-running Hoyle casino game franchise that b
 
 - **Previous:** Hoyle Casino 2007 (2006)
 - **Next:** Hoyle Casino Games 2009 (2008)
-
-## See Also
 - [[2007 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2008 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

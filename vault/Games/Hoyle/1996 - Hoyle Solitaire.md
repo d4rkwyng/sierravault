@@ -269,8 +269,6 @@ The franchise eventually expanded to include board games (Volume 3), casino game
 
 - **Previous:** [[1990 - Hoyle Official Book of Games - Volume 2]]
 - **Next:** [[2002 - Hoyle Card Games]]
-
-## See Also
 - [[1996 - Hoyle Official Book of Games - Volume 5|← Previous: Hoyle Official Book of Games - Volume 5]]
 - [[1993 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
 

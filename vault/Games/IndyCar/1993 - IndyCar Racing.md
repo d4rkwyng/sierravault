@@ -229,8 +229,6 @@ IndyCar Racing is the second racing simulation from Papyrus Design Group, follow
 
 - **Previous:** Indianapolis 500: The Simulation (1989)
 - **Next:** IndyCar Racing II (1996)
-
-## See Also
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
 
 ## References

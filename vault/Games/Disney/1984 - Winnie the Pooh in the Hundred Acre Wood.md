@@ -225,8 +225,6 @@ The game stands alone within its franchise—while numerous other Winnie the Poo
 
 - **Previous:** [[1984 - Mickey's Space Adventure]]
 - **Next:** [[1984 - Donald Duck's Playground]]
-
-## See Also
 - [[1984 - Mickey's Space Adventure|← Previous: Mickey's Space Adventure]]
 - [[1986 - The Black Cauldron|→ Next: The Black Cauldron]]
 

@@ -285,8 +285,6 @@ Empire Earth launched a franchise that would span multiple sequels and expansion
 The series IP changed hands following the merger of Activision and Vivendi into Activision Blizzard in 2008, with the intellectual property rights ultimately acquired by Rebellion Developments in 2009[^ref-34]. The Titan engine developed for Empire Earth was later sold after Stainless Steel Studios closed[^ref-37].
 
 - **Next:** [[2002 - Empire Earth - The Art of Conquest]]
-
-## See Also
 - [[2002 - Empire Earth - The Art of Conquest|→ Next: Empire Earth - The Art of Conquest]]
 
 ## References

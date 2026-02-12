@@ -177,8 +177,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory: Shadows of Darkness]]
 - Final game in the series
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1993 - Quest for Glory IV - Shadows of Darkness|← Previous: Quest for Glory IV - Shadows of Darkness]]
 

@@ -208,8 +208,6 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 Codename: ICEMAN was designed as the first entry in a planned franchise of espionage-themed adventure games. Sierra promotional materials referenced "Codename: PHOENIX" as a planned sequel, but disappointing sales of ICEMAN resulted in the cancellation of any follow-up titles.[^ref-1] The game thus remains a standalone entry, representing Jim Walls' only non-Police Quest work for Sierra.
 
 While not a sequel, the game shares thematic DNA with the Police Quest series through its emphasis on realistic procedures and protocols. Walls would return to that franchise for Police Quest 3, applying lessons learned from ICEMAN's mixed reception to create a more balanced adventure experience.
-
-## See Also
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|← Previous: Tank - The M1A1 Abrams Battle Tank Simulation]]
 - [[1990 - Jones in the Fast Lane|→ Next: Jones in the Fast Lane]]
 

@@ -190,8 +190,6 @@ The Beast Within: A Gabriel Knight Mystery continues the story from Sins of the 
 - **Previous:** [[1993 - Gabriel Knight - Sins of the Fathers]]
 - **Next:** [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 - **Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] (GK1 only)
-
-## See Also
 - [[Gabriel Knight Series]] - Series overview
 - [[1993 - Gabriel Knight - Sins of the Fathers|← Previous: Gabriel Knight - Sins of the Fathers]]
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|→ Next: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]

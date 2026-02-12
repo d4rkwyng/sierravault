@@ -114,8 +114,6 @@ An amusing piece of trivia emerged years after release when someone successfully
 
 - **Previous:** [[1997 - Red Baron II]]
 - **Original:** [[1990 - Red Baron]]
-
-## See Also
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
 

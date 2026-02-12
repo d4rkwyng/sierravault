@@ -179,7 +179,6 @@ Stellar-Fire occupies an interesting position in gaming history as both a techni
 
 The game's mixed reception reflects broader challenges facing Sega CD developers—the hardware offered CD-quality audio and FMV capabilities, but struggled with real-time 3D rendering[^ref-5]. Stellar-Fire's soundtrack remains its most consistently praised element, suggesting the development team correctly identified audio as the platform's strength[^ref-11]. As a piece of gaming history, it serves as a snapshot of early 1990s console 3D gaming ambitions and the compromises necessary to achieve them on limited hardware.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -200,8 +199,6 @@ The game was developed externally by Infinite Laser Dog, making it unique among 
 
 - **Previous:** [[1991 - Nova 9 - The Return of Gir Draxon]]
 - **Next:** [[1993 - Stellar 7 - Draxon's Revenge]]
-
-## See Also
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
 
 ## References

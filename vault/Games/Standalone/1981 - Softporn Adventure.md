@@ -227,8 +227,6 @@ Softporn Adventure stands as the precursor to the entire Leisure Suit Larry seri
 The game's setting of "Lost Vagueness" became "Lost Wages" in the Larry series, and the three-women-to-seduce structure remained intact. However, where Softporn Adventure played its premise relatively straight, Leisure Suit Larry used the same framework for parody and satire. The Larry series would continue for multiple sequels, becoming one of Sierra's flagship franchises, while Softporn Adventure faded into obscurity—remembered primarily as a historical curiosity and the unlikely origin of a gaming icon.
 
 - **Next:** [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-
-## See Also
 - [[1983 - Troll's Tale|→ Next: Troll's Tale]]
 
 ## References

@@ -272,8 +272,6 @@ The series includes spiritual successors and direct sequels:
 - **Stellar 7: Draxon's Revenge** (1993): 3DO remake/sequel with enhanced graphics and voice acting
 
 - **Next:** [[1991 - Nova 9 - The Return of Gir Draxon]]
-
-## See Also
 - [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
 
 ## References

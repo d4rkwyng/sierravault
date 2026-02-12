@@ -211,8 +211,6 @@ The 3-D Ultra brand encompassed numerous other game types including pinball (199
 
 - **Previous:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
 - **Next:** [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-
-## See Also
 - [[2006 - 3D Ultra MiniGolf Adventures|← Previous: 3D Ultra MiniGolf Adventures]]
 - [[2010 - 3-D Ultra MiniGolf Adventures 2|→ Next: 3-D Ultra MiniGolf Adventures 2]]
 

@@ -229,8 +229,6 @@ Ultimate Soccer Manager 98-99 serves as the final chapter in the USM series that
 The cancellation of the planned Ultimate Soccer Manager 2000 meant this title remained the definitive conclusion to the series, preserving its unique blend of accessibility and depth for future generations of fans to discover.[^ref-8][^ref-2]
 
 - **Previous:** [[1998 - Ultimate Soccer Manager 98]]
-
-## See Also
 - [[1998 - Ultimate Soccer Manager 98|← Previous: Ultimate Soccer Manager 98]]
 
 ## References

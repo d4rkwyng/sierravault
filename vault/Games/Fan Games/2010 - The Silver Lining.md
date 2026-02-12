@@ -164,7 +164,6 @@ The Silver Lining stands as one of the most ambitious fan game projects in adven
 
 The project's legacy extends beyond The Silver Lining itself, as Phoenix Online Studios parlayed their experience into a commercial venture, eventually publishing other adventure games.[^ref-1] However, the incomplete status of The Silver Lining remains a bittersweet reminder of the challenges facing ambitious fan projects, particularly when navigating complex intellectual property landscapes.[^ref-1]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -186,8 +185,6 @@ The game should not be confused with King's Quest (2015), the official series re
 
 - **Previous (Official Series):** [[1998 - King's Quest - Mask of Eternity]]
 - **Related Fan Games:** King's Quest II: Romancing the Stones (AGD Interactive), King's Quest III Redux (AGD Interactive)[^ref-3]
-
-## See Also
 - [[2008 - Quest for Glory II VGA Remake|← Previous: Quest for Glory II VGA Remake]]
 - [[2011 - King's Quest III Redux - To Heir is Human|→ Next: King's Quest III Redux - To Heir is Human]]
 

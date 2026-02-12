@@ -219,8 +219,6 @@ The series would later return with Thexder Neo (2009-2010), developed by Zereo I
 
 - **Previous:** [[1989 - Fire Hawk - Thexder - The Second Contact]]
 - **Next:** [[2009 - Thexder Neo]]
-
-## See Also
 - [[1989 - Fire Hawk - Thexder - The Second Contact|← Previous: Fire Hawk - Thexder - The Second Contact]]
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 

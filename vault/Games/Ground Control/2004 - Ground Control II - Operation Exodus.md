@@ -288,8 +288,6 @@ The Ground Control franchise was expanded with Ground Control: Dark Conspiracy, 
 
 - **Previous:** [[2000 - Ground Control]]
 - **Related:** [[2000 - Ground Control - Dark Conspiracy]]
-
-## See Also
 - [[2000 - Ground Control - Dark Conspiracy|← Previous: Ground Control - Dark Conspiracy]]
 
 ## References

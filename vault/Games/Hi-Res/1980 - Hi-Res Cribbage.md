@@ -176,7 +176,6 @@ The game also represents a fascinating example of how early personal computer so
 
 From a game design perspective, Hi-Res Cribbage showed that card games could successfully transition to personal computers with proper attention to visual presentation and AI challenge. The animated card dealing, visual cribbage board, and audible scoring created an engaging simulation that transcended the purely functional text-based implementations common in earlier computer card games.[^ref-3][^ref-4]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -197,8 +196,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 Hi-Res Cribbage was part of On-Line Systems' "Hi-Res Series" of games that utilized the Apple II's high-resolution graphics capabilities.[^ref-7][^ref-8] This series helped establish the company's technical reputation in the early personal computer market.
 
 The game was developed by Warren Schwader after his previous title Smash-Up, representing his second commercial software release.[^ref-6] Schwader's work on Hi-Res Cribbage led directly to his hiring at On-Line Systems, where he would contribute to the company's growing catalog of games.
-
-## See Also
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|← Previous: Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Football|→ Next: Hi-Res Football]]
 

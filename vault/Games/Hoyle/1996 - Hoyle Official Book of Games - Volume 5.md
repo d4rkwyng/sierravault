@@ -232,8 +232,6 @@ The Hoyle franchise would continue well beyond Sierra's original stewardship, wi
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]]
 - **Next:** [[2002 - Hoyle Card Games]]
-
-## See Also
 - [[1996 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[1996 - Hoyle Solitaire|→ Next: Hoyle Solitaire]]
 

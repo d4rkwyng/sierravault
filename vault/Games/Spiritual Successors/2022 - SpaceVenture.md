@@ -135,7 +135,6 @@ The developers attempted to contact Activision about working on an official Spac
 
 The team has continued supporting the game post-release, with v2 updates in late 2025 addressing many technical issues that plagued the initial release[^ref-18]. Plans for Steam achievements indicate ongoing commitment to improving the player experience[^ref-3].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -152,8 +151,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 
 - **Previous:** Space Quest 6: Roger Wilco in the Spinal Frontier (spiritual predecessor)
 - **Next:** None announced
-
-## See Also
 - [[2019 - Mage's Initiation - Reign of the Elements|← Previous: Mage's Initiation - Reign of the Elements]]
 - [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
 

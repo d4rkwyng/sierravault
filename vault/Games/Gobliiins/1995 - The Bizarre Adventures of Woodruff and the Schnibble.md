@@ -259,8 +259,6 @@ The game was referenced in *Gobliiins 4* (2009), where its game box can be spott
 - **Related:** [[1991 - Gobliiins]] (spiritual predecessor)
 - **Related:** [[1992 - Gobliins 2 - The Prince Buffoon]]
 - **Related:** [[1993 - Goblins Quest 3]]
-
-## See Also
 - [[1993 - Goblins Quest 3|← Previous: Goblins Quest 3]]
 - [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
 

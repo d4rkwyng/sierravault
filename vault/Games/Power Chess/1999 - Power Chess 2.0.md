@@ -159,7 +159,6 @@ Power Chess 2.0 represents the final entry in Sierra's attempt to make chess acc
 
 The series is perhaps best remembered for its educational features rather than its competitive chess engine. The voiced Queen character, performed by Natacha LaFerriere, remains fondly recalled by users who appreciate both her pleasant delivery and the genuine instructional value of the post-game analysis[^ref-4]. In the modern era, the game's legacy is unfortunately overshadowed by severe compatibility issues that make it nearly impossible to run on contemporary systems without virtualization[^ref-4][^ref-6].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -177,8 +176,6 @@ The series is perhaps best remembered for its educational features rather than i
 Power Chess 2.0 was the third and final entry in Sierra's Power Chess series. The series evolved from the original 1996 release through Power Chess 98 before reaching its conclusion with this 1999 edition. While marketed as an upgrade, Power Chess 2.0 was essentially a compatibility update with minor improvements over its predecessor[^ref-6]. The series was discontinued following Sierra's corporate restructuring, and no further Power Chess titles were developed[^ref-3].
 
 - **Previous:** [[1998 - Power Chess 98]]
-
-## See Also
 - [[1998 - Power Chess 98|← Previous: Power Chess 98]]
 
 ## References

@@ -207,8 +207,6 @@ Hoyle Casino 2000 (also designated Hoyle Casino 5) represents the fifth major en
 
 - **Previous:** [[1999 - Hoyle Casino]]
 - **Next:** [[2001 - Hoyle Casino]]
-
-## See Also
 - [[1999 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2000 - Hoyle Crosswords|→ Next: Hoyle Crosswords]]
 

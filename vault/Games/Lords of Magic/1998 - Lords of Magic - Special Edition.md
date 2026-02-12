@@ -306,8 +306,6 @@ No direct sequels were produced, though the franchise rights have been complicat
 
 - **Previous:** [[1996 - Lords of the Realm II]] (spiritual predecessor by same developer)
 - **Next:** None (final entry in series)
-
-## See Also
 - [[1997 - Lords of Magic|← Previous: Lords of Magic]]
 
 ## References

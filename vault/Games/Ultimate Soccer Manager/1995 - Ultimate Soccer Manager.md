@@ -133,7 +133,6 @@ Despite plans for Ultimate Soccer Manager 2000 with an advanced 3D match engine,
 
 The series maintains an active community of enthusiasts who continue to create tools, patches, and updates for modern systems[^ref-47]. Projects like the USM 9899 Tweaker demonstrate ongoing interest in preserving and extending the games' functionality[^ref-32]. The games' availability on preservation sites like MyAbandonware and Internet Archive ensures continued access for new players and nostalgic fans[^ref-48].
 
-
 ## See Also
 
 |  | **Ultimate Soccer Manager Series** |  |
@@ -149,8 +148,6 @@ The series maintains an active community of enthusiasts who continue to create t
 **Community Tools**
 - [USM 9899 Tweaker](https://github.com/enrico69/usm9899tweaker)[^ref-32]
 - [Community Patches and Tools](http://usm.dynamic-mess.com/downloads/tools/)[^ref-47]
-
-## See Also
 - [[1996 - Ultimate Soccer Manager 2|→ Next: Ultimate Soccer Manager 2]]
 
 ## References

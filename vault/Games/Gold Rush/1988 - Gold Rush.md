@@ -145,8 +145,6 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 
 - **Previous:** None
 - **Next:** [[2017 - Gold Rush 2]] (2017) - Spiritual sequel by Sunlight Games
-
-## See Also
 - [[2014 - Gold Rush Anniversary|→ Next: Gold Rush Anniversary]]
 
 ## References

@@ -209,8 +209,6 @@ Dr. Brain's character made the transition from Sierra's more adult-oriented puzz
 - **Related JumpStart Titles:** JumpStart Adventures series
 
 The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
-
-## See Also
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
 
 ## References

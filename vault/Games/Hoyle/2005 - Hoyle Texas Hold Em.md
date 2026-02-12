@@ -144,7 +144,6 @@ Hoyle Texas Hold 'Em 2005 represented a solid if unremarkable entry in the crowd
 
 The game's significance lies primarily in its position within the Hoyle franchise's evolution and the broader context of Sierra Entertainment's final years of card game development[^ref-4]. As Sierra transitioned publishing duties to Encore, titles like Hoyle Texas Hold 'Em 2005 marked the end of an era for Sierra's involvement in casual card gaming[^ref-4]. The game's DNA would continue through subsequent Hoyle poker releases, influencing the Hoyle Poker Series and later console adaptations[^ref-2][^ref-5].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -166,8 +165,6 @@ Hoyle Texas Hold 'Em 2005 exists within the extensive Hoyle gaming franchise, wh
 
 - **Previous:** [[1997 - Hoyle Poker]]
 - **Next:** [[2005 - Hoyle Texas Hold Em]]
-
-## See Also
 - [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 

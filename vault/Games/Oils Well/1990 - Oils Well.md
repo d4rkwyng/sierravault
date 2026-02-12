@@ -209,7 +209,6 @@ The 1990 remake illustrates the challenges of updating classic arcade games for 
 
 As an historical artifact, Oil's Well represents Sierra's diverse publishing strategy during their golden era, demonstrating their willingness to maintain and update their back catalog even as they pushed forward with groundbreaking adventure games like King's Quest V and Space Quest IV.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -235,8 +234,6 @@ The character of Slater proved popular enough that he was given his own spinoff 
 
 - **Previous:** [[1983 - Oils Well]] (Original version)
 - **Related:** North-Sea Action (1988) (Clone/variant)
-
-## See Also
 - [[1983 - Oils Well|← Previous: Oils Well]]
 
 ## References

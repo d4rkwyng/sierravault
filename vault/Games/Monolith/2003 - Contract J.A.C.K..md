@@ -284,7 +284,6 @@ The game's rushed development cycle and extensive asset recycling from *NOLF 2* 
 
 Paradoxically, the game's failure may have preserved the *NOLF* brand's positive reputation. Had Contract J.A.C.K. been more successful, it might have redirected the series permanently away from the elements fans valued. Instead, the franchise ended with *No One Lives Forever 2* as its definitive statement, remembered fondly as one of the most creative shooters of its era—while its lesser spinoff faded into obscurity.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -313,8 +312,6 @@ Night Dive Studios' exclusion of Contract J.A.C.K. from their trademark filings 
 
 - **Previous:** [[2002 - No One Lives Forever 2]]
 - **Next:** None (final entry in series)
-
-## See Also
 - [[2002 - No One Lives Forever 2|← Previous: No One Lives Forever 2]]
 
 ## References

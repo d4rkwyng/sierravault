@@ -211,7 +211,6 @@ The game is perhaps best understood as a transitional product—both technologic
 
 For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosity: a technically ambitious title that demonstrated both the potential and pitfalls of bringing cutting-edge graphics technology to a traditionally modest gaming genre.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -233,8 +232,6 @@ The title is part of the broader Hoyle gaming family, which includes not just ca
 
 - **Previous:** [[2004 - Hoyle Casino]]
 - **Next:** [[2006 - Hoyle Casino]]
-
-## See Also
 - [[2005 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2005 - Hoyle Poker Series|→ Next: Hoyle Poker Series]]
 

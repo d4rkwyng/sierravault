@@ -210,8 +210,6 @@ The sports titles existed separately from the adventure game line and did not sp
 - **Previous:** N/A (First in Hi-Res Sports series)
 - **Next:** N/A (Series discontinued)
 - **Related:** [[1980 - Hi-Res Soccer]] (Companion sports title)
-
-## See Also
 - [[1980 - Hi-Res Cribbage|← Previous: Hi-Res Cribbage]]
 - [[1980 - Hi-Res Soccer|→ Next: Hi-Res Soccer]]
 

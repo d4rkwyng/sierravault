@@ -170,7 +170,6 @@ The game's lasting significance lies not in its graphics or presentation, which 
 
 The Front Page Sports series demonstrated that PC sports games could offer experiences fundamentally different from console counterparts, focusing on simulation depth rather than visual spectacle. This legacy continues to influence sports gaming today, where franchise modes and management simulations remain crucial features alongside action gameplay.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -192,8 +191,6 @@ The '96 edition improved upon its predecessor with updated rosters reflecting th
 
 - **Previous:** [[1994 - Front Page Sports - Baseball Pro]]
 - **Next:** [[1997 - Front Page Sports - Baseball Pro '98]]
-
-## See Also
 - [[1995 - Front Page Sports - Football Pro '96|← Previous: Front Page Sports - Football Pro '96]]
 - [[1996 - Front Page Sports - Football Pro '97|→ Next: Front Page Sports - Football Pro '97]]
 

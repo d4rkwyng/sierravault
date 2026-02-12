@@ -202,7 +202,6 @@ The game's technical innovations, particularly the sampled speech on Apple II, f
 
 From a design perspective, Creepy Corridors reflects gaming's broader fascination with corridors as spaces of tension and limited visibility. As later analyzed by critics and developers, "The corridor is conducive to horror through its ability to heighten suspense and gesture to the unknown."[^ref-11] While Creepy Corridors is not a horror game per se, its maze design taps into similar psychological territory that would be more fully exploited by later titles.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -226,8 +225,6 @@ Creepy Corridors was released as part of the Laf Pak compilation alongside Apple
 The game was later rebranded as "Mine Shaft" for the IBM PCjr platform in 1984, representing one of the few instances of Sierra renaming a game for a port rather than simply adapting it.[^ref-6]
 
 - **Related:** [[1982 - Laf Pak]] (compilation including Creepy Corridors)
-
-## See Also
 - [[1982 - Cannonball Blitz|← Previous: Cannonball Blitz]]
 - [[1982 - Dragon's Keep|→ Next: Dragon's Keep]]
 

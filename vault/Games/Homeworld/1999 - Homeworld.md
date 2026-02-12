@@ -301,8 +301,6 @@ Homeworld stands as the foundational entry in Relic Entertainment's space opera 
 The game's story of exodus and reclamation set the template for subsequent entries. Homeworld: Cataclysm expanded the universe 15 years after the original, while Homeworld 2 continued the saga with the Vaygr threat. The 2016 prequel Deserts of Kharak explored the discovery of the Guidestone and the early days of the Kushan's journey to the stars.
 
 - **Next:** [[2000 - Homeworld - Cataclysm]]
-
-## See Also
 - [[2000 - Homeworld - Cataclysm|→ Next: Homeworld - Cataclysm]]
 
 ## References

@@ -158,8 +158,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 
 - **Previous:** [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure #1: Mystery House]]
 - **Next:** [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure #3: Cranston Manor]]
-
-## See Also
 - [[1980 - Hi-Res Adventure 1 - Mystery House|← Previous: Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Cribbage|→ Next: Hi-Res Cribbage]]
 

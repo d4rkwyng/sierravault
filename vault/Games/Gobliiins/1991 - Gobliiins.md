@@ -264,8 +264,6 @@ The game's success led directly to Gobliins 2: The Prince Buffoon, which refined
 Pierre Gilhodes's continued involvement across all five games provides remarkable creative continuity—from the original 1991 release through the 2023 crowdfunded fifth entry, the series maintains his distinctive "kidults style" and commitment to "funny and clever quests."[^ref-25][^ref-24]
 
 - **Next:** [[1992 - Gobliins 2 - The Prince Buffoon]]
-
-## See Also
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
 
 ## References

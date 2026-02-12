@@ -212,8 +212,6 @@ The *You Don't Know Jack* series was originally created by Jellyvision in the mi
 
 - **Previous:** You Don't Know Jack: Volume 4 - The Ride (1997)
 - **Next:** You Don't Know Jack: Volume 5 (1999)
-
-## See Also
 - [[1997 - Eat My Dust|← Previous: Eat My Dust]]
 
 ## References

@@ -349,7 +349,6 @@ Perhaps most significantly, Half-Life 2's role in launching Steam fundamentally 
 
 The game's unresolved narrative—and Valve's subsequent retreat from traditional game development—has become part of gaming culture. Half-Life 3 remains one of the most requested sequels in history. Yet Half-Life 2's achievements stand complete: a technical marvel, a storytelling breakthrough, and a business model revolution that shaped the modern gaming landscape.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -372,8 +371,6 @@ The game's episodic continuations—Episode One (2006) and Episode Two (2007)—
 
 - **Previous:** [[1998 - Half-Life]]
 - **Next:** Half-Life 2: Episode One (2006)
-
-## See Also
 - [[2004 - Counter-Strike - Condition Zero|← Previous: Counter-Strike - Condition Zero]]
 
 ## References

@@ -281,8 +281,6 @@ The story expands the universe's mythology significantly, introducing the concep
 
 - **Previous:** [[1999 - Homeworld]]
 - **Next:** [[2024 - Homeworld 3]]
-
-## See Also
 - [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 

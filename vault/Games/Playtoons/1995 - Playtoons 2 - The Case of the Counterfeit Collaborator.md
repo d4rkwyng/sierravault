@@ -171,7 +171,6 @@ The decision to adapt existing animated content rather than create original stor
 
 The cross-title asset sharing system was remarkably forward-thinking, creating an early form of expandable content that predated modern DLC and expansion pack models[^ref-4]. This feature transformed the Playtoons series from individual standalone products into a cumulative creative platform.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -202,8 +201,6 @@ Each game features a unique interactive story while sharing the common construct
 
 - **Previous:** [[1994 - Playtoons 1 - Uncle Archibald]]
 - **Next:** [[1995 - Playtoons 3 - The Secret of the Castle]]
-
-## See Also
 - [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3 - The Secret of the Castle]]
 

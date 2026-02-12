@@ -165,8 +165,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]]
 - Next: [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]]
-
-## See Also
 - [[Space Quest Series]] - Series overview
 - [[1986 - Space Quest - The Sarien Encounter|← Previous: Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon|→ Next: Space Quest III - The Pirates of Pestulon]]

@@ -348,8 +348,6 @@ A mobile entry, Homeworld Mobile, launched October 11, 2022, set over a century 
 
 - **Previous:** [[1999 - Homeworld]] (Original release, included in collection)
 - **Next:** [[2016 - Homeworld - Deserts of Kharak]]
-
-## See Also
 - [[2003 - Homeworld 2|← Previous: Homeworld 2]]
 - [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld - Deserts of Kharak]]
 

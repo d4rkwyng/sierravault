@@ -282,7 +282,6 @@ The project's significance extends beyond technical achievement to cultural pres
 
 The team's approach of receiving official licensing before distribution set an important precedent for fan projects, establishing a model of respectful collaboration with rights holders rather than adversarial piracy. This legitimacy allowed the project to thrive openly and reach a massive audience while honoring the original creators' work.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -318,8 +317,6 @@ AGD Interactive created an interconnected series of remakes that form their own 
 
 **Original Sierra Series:**
 - **Next:** [[1985 - King's Quest II - Romancing the Throne]]
-
-## See Also
 - [[2001 - Space Quest - The Lost Chapter|→ Next: Space Quest - The Lost Chapter]]
 
 ## References

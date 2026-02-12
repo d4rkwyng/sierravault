@@ -158,13 +158,11 @@ The game occupies an unusual position in gaming history: it's neither a critical
 
 The technical issues plaguing the release—from 64-bit compatibility problems to antivirus false positives—reflect the challenges of maintaining legacy software in an evolving computing environment. These issues contributed to the game's relatively quiet reception compared to the enthusiastic response the original Sierra releases generated in the early 1990s.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
-
 
 **Purchase / Digital Stores**
 - No longer available through official retail channels[^ref-4]
@@ -183,8 +181,6 @@ The 2011 edition represents one of the most complete packages in the series' his
 
 - **Previous:** [[2011 - Hoyle Puzzle and Board Games]]
 - **Next:** [[2011 - Hoyle Puzzle and Board Games]]
-
-## See Also
 - [[2008 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2011 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
 

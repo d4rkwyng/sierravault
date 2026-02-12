@@ -187,7 +187,6 @@ Hoyle Word Games 2001 occupies a modest but notable place in the history of casu
 
 The game's educational focus on reading, spelling, and logic skills[^ref-2] positioned it as both entertainment and edutainment, appealing to families and educators. While not groundbreaking in its design, the package offered solid value and accessibility that kept the Hoyle brand relevant in an increasingly competitive market for casual computer games.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -210,8 +209,6 @@ Hoyle Word Games 2001 is part of the extensive Hoyle series of game compilations
 The franchise was named after Edmond Hoyle, the 18th-century writer who codified the rules for many card games, lending an air of authority and tradition to Sierra's digital game compilations[^ref-3].
 
 - **Related:** Various Hoyle Card Games, Hoyle Casino, and Hoyle Board Games titles
-
-## See Also
 - [[2001 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2002 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 

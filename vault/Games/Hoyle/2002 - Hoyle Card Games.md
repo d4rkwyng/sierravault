@@ -191,8 +191,6 @@ The 2002 edition followed Sierra's annual release pattern, with Hoyle Card Games
 
 - **Previous:** [[1993 - Hoyle Classic Card Games]]
 - **Next:** [[2003 - Hoyle Card Games]]
-
-## See Also
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
 

@@ -224,8 +224,6 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 Dragon's Keep was part of Sierra's Hi-Res Learning line of educational games designed for children[^ref-12]. The game shares its underlying engine and design philosophy with other Sierra children's titles from the same era, including Troll's Tale, Mickey's Space Adventure, and Winnie the Pooh[^ref-8].
 
 The gameplay style—using simplified menu selection rather than text parsing—became a template for Sierra's subsequent children's adventure games. While not a numbered series with direct story continuity, these games formed a coherent product line targeting the same young audience with similar accessibility features and educational goals.
-
-## See Also
 - [[1982 - Creepy Corridors|← Previous: Creepy Corridors]]
 - [[1982 - Laf Pak|→ Next: Laf Pak]]
 

@@ -273,8 +273,6 @@ The Dr. Brain character proved influential enough to inspire Dr. Cranium, a simi
 - Dr. Brain: Action Reaction (1999)
 
 - **Next:** [[1992 - The Island of Dr. Brain]]
-
-## See Also
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
 
 ## References

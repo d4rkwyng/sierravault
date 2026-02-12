@@ -225,8 +225,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - Next: [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]]
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory III - Wages of War|← Previous: Quest for Glory III - Wages of War]]
 - [[1998 - Quest for Glory V - Dragon Fire|→ Next: Quest for Glory V - Dragon Fire]]

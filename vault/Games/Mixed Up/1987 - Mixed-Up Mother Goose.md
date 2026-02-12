@@ -265,8 +265,6 @@ The game's three remakes over a decade—more than almost any other Sierra title
 Mixed-Up Mother Goose stands as a standalone educational title within Sierra's catalog, though it spawned multiple enhanced versions over the years rather than traditional sequels. The game represents [[Roberta Williams]]' contribution to children's gaming and sits alongside her more famous adventure game series including King's Quest (1984-1998), Laura Bow (1989-1992), and Phantasmagoria (1995-1996).[^ref-18]
 
 The various versions of Mixed-Up Mother Goose—1987, 1990, 1991/1992, and 1995/1996—are better understood as progressive remakes rather than sequels, each building upon the original concept while taking advantage of improved technology.[^ref-5] The game's influence can be seen in Sierra's later educational titles in the Discovery Series, which combined adventure game mechanics with age-appropriate educational content.[^ref-25]
-
-## See Also
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
 
 ## References

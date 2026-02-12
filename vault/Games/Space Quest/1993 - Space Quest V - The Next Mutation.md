@@ -241,8 +241,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
 - Next: [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]]
-
-## See Also
 - [[Space Quest Series]] - Series overview
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|← Previous: Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|→ Next: Space Quest 6 - Roger Wilco in the Spinal Frontier]]

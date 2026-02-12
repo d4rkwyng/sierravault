@@ -227,8 +227,6 @@ The franchise demonstrated remarkable longevity, with entries appearing across m
 
 - **Previous:** [[1994 - The Incredible Machine 2]]
 - **Next:** [[1994 - The Incredible Toon Machine]]
-
-## See Also
 - [[1994 - The Incredible Toon Machine|← Previous: The Incredible Toon Machine]]
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|→ Next: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 

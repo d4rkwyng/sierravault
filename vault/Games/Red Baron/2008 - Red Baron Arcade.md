@@ -188,7 +188,6 @@ The game's troubled release during the Activision-Sierra transition exemplifies 
 
 For gaming historians, Red Baron Arcade serves as a reminder that brand recognition cannot substitute for quality execution. The game's budget pricing acknowledged its limitations but could not overcome fundamental problems with gameplay design, technical performance, and platform optimization. As one reviewer noted, "it's not the old red baron"—a simple observation that encapsulates the disappointment felt by fans who had hoped for a worthy continuation of a beloved franchise[^ref-9].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -207,8 +206,6 @@ Red Baron Arcade is part of the Red Baron franchise that originated with the cel
 
 - **Previous:** [[1990 - Red Baron]]
 - **Next:** None (final entry in series)
-
-## See Also
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
 
 ## References

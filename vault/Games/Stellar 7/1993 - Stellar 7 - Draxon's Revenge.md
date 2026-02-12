@@ -200,8 +200,6 @@ The series includes the spiritual sequel/prequel Arcticfox (1986) and the direct
 
 - **Previous:** [[1991 - Nova 9 - The Return of Gir Draxon]]
 - **Next:** [[1993 - Stellar-Fire]]
-
-## See Also
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 

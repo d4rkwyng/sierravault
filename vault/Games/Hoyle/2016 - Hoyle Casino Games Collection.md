@@ -239,7 +239,6 @@ The negative reception highlights the challenges of maintaining legacy gaming br
 
 The game's removal from digital storefronts marks an ignominious end for a series that once sold hundreds of thousands of copies[^ref-1]. Its legacy serves as a cautionary tale about brand management and the importance of maintaining quality standards when stewarding beloved gaming franchises.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -261,8 +260,6 @@ The broader Hoyle gaming franchise includes the Hoyle Card Games series and the 
 
 - **Previous:** [[2008 - Hoyle Casino]]
 - **Series Origin:** [[1996 - Hoyle Casino]]
-
-## See Also
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
 
 ## References

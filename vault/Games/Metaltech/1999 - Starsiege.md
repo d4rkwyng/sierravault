@@ -258,8 +258,6 @@ The Earthsiege universe was part of the broader Metaltech brand, which included 
 
 - **Previous:** [[1996 - Earthsiege 2]]
 - **Next:** [[1998 - Starsiege - Tribes]] (spin-off)
-
-## See Also
 - [[1998 - Starsiege - Tribes|← Previous: Starsiege - Tribes]]
 - [[2001 - Tribes 2|→ Next: Tribes 2]]
 

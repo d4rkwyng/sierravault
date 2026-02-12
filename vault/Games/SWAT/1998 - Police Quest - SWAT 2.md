@@ -305,8 +305,6 @@ The narrative and gameplay established patterns that would continue in SWAT 3: C
 
 - **Previous:** [[1995 - Police Quest - SWAT]]
 - **Next:** [[1999 - SWAT 3 - Close Quarters Battle]]
-
-## See Also
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 

@@ -222,7 +222,6 @@ The game's historical significance lies primarily in what it reveals about Sierr
 
 From a preservation standpoint, the title remains notable as one of five budget compilations in the Crazy Nick's series, representing a lesser-known corner of Sierra's extensive catalog.[^ref-2] Modern emulation through ScummVM ensures the game remains playable, though its limited gameplay depth and lack of save functionality mean it holds primarily archival rather than entertainment value for contemporary audiences.[^ref-5]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -251,8 +250,6 @@ It should be noted that this 1992 budget release is distinct from the later "Lei
 
 - **Previous:** [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - **Next:** [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-## See Also
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|← Previous: Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 

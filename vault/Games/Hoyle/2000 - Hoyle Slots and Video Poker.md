@@ -195,7 +195,6 @@ The title's focus on slots and video poker—games that require minimal strategi
 
 The Hoyle brand's transition from Sierra to Encore reflected broader industry consolidation, as major publishers divested casual gaming properties to specialized budget software distributors[^ref-9]. Today, the game stands as an artifact of pre-smartphone casual gaming, when dedicated PC software filled entertainment niches now primarily served by mobile applications and web-based games.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -222,8 +221,6 @@ The Hoyle series would continue with dedicated slots titles including Hoyle Slot
 
 - **Previous:** [[2000 - Hoyle Casino]]
 - **Next:** [[2000 - Hoyle Slots and Video Poker|Hoyle Slots]]
-
-## See Also
 - [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
 

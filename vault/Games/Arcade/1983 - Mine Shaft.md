@@ -158,7 +158,6 @@ The game's poor reception highlights the importance of ensuring that control sch
 
 Modern players approaching Mine Shaft should do so primarily as historical curiosity rather than seeking an enjoyable gaming experience[^ref-1]. The game's significance lies in its documentation of Sierra's early development philosophy and the technical constraints of its era.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -177,8 +176,6 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 ## See Also
 
 Mine Shaft is a standalone title with no direct sequels or prequels. The game exists as an independent entry in Sierra's early arcade catalog, separate from the adventure game series that would come to define the company's identity.
-
-## See Also
 - [[1983 - Aquatron|← Previous: Aquatron]]
 - [[1983 - Mr. Cool|→ Next: Mr. Cool]]
 

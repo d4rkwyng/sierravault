@@ -159,8 +159,6 @@ This game has been included in the following collections:
 - Previous: [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]]
 - Next: [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - Fan Remake: Quest for Glory II VGA Remake ([[AGD Interactive]], 2008)
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1989 - Quest for Glory I - So You Want to Be a Hero|← Previous: Quest for Glory I - So You Want to Be a Hero]]
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|→ Next: Quest for Glory I - So You Want to Be a Hero VGA]]

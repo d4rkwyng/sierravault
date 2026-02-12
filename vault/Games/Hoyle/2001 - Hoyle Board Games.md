@@ -237,8 +237,6 @@ Hoyle Board Games 2001 is the fifth entry in Sierra's Hoyle Board Games sub-seri
 
 - **Previous:** [[1997 - Hoyle Classic Board Games]]
 - **Next:** [[2005 - Hoyle Board Games]]
-
-## See Also
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|← Previous: Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Casino|→ Next: Hoyle Casino]]
 

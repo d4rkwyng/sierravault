@@ -198,7 +198,6 @@ The game also demonstrates Sierra On-Line's willingness during this period to pu
 
 From a modern perspective, the game serves as an important data point in understanding the evolution of computer RPGs during the 8-bit era. Its strengths—accessible design, substantial world size, and visual polish—reflect the priorities of developers attempting to make the RPG genre more welcoming to newcomers.[^ref-3] Its weaknesses—derivative design, clunky combat controls—illustrate the challenges of innovating within an established formula.[^ref-12]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -221,8 +220,6 @@ From a modern perspective, the game serves as an important data point in underst
 Wrath of Denethenor is a standalone title with no prequels or sequels. While the game's ending hints at potential continuation, Christopher Crim never developed a follow-up.[^ref-3] The game represents a self-contained adventure in the world of Deledain, offering complete closure to its narrative without requiring additional installments.
 
 The game exists outside Sierra's major franchise families (King's Quest, Space Quest, etc.), representing the publisher's occasional ventures into third-party RPG publication during the 1980s.
-
-## See Also
 - [[1986 - Kempelen|← Previous: Kempelen]]
 - [[1987 - 3-D Helicopter Simulator|→ Next: 3-D Helicopter Simulator]]
 

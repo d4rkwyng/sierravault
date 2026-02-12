@@ -208,7 +208,6 @@ Oil's Well occupies an interesting position in Sierra On-Line's history as one o
 
 The game's mechanics—extending a vulnerable "arm" through a maze while timing retractions to avoid enemies—created a unique tension not found in standard Pac-Man clones. As critics noted, the strategic element of route planning combined with reflexive timing requirements gave the game depth beyond simple dot-collection.[^ref-3] The 1990 remake demonstrated Sierra's willingness to revisit earlier successes with enhanced technology, though the updated version received more mixed reception than the nostalgically-remembered original.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -230,8 +229,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 Oil's Well is a standalone title without direct sequels, though the 1990 MS-DOS remake can be considered a successor to the 1983 original. The game's influence extended to inspiring several clones and similar titles throughout the late 1980s and early 1990s, including *Pipeline Run* (1990) and *Oilmania* (1991).[^ref-1]
 
 The game represents Sierra On-Line's participation in the arcade game market during the early to mid-1980s, alongside other action titles from the company. While Sierra would become predominantly known for their adventure game series like King's Quest and Space Quest, titles like Oil's Well demonstrated the company's versatility during this formative period.
-
-## See Also
 - [[1990 - Oils Well|→ Next: Oils Well]]
 
 ## References

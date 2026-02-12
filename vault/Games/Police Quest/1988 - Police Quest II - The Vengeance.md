@@ -265,8 +265,6 @@ The game transitioned the series from street police work to detective and forens
 
 - **Previous:** [[1987 - Police Quest - In Pursuit of the Death Angel]]
 - **Next:** [[1991 - Police Quest III - The Kindred]]
-
-## See Also
 - [[Police Quest Series]] - Series overview
 - [[1987 - Police Quest - In Pursuit of the Death Angel|← Previous: Police Quest - In Pursuit of the Death Angel]]
 - [[1991 - Police Quest III - The Kindred|→ Next: Police Quest III - The Kindred]]

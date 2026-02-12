@@ -165,8 +165,6 @@ Police Quest: Open Season (also known as Police Quest 4) marked a major turning 
 **See also:**
 - [[1987 - Police Quest - In Pursuit of the Death Angel]] – Series origin
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]] – VGA remake
-
-## See Also
 - [[Police Quest Series]] - Series overview
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|← Previous: Police Quest - In Pursuit of the Death Angel VGA]]
 

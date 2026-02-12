@@ -208,8 +208,6 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 **Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984) – Original AGI version
 
 **Next:** [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] (1985)
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|← Previous: King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|→ Next: King's Quest VI - Heir Today, Gone Tomorrow]]

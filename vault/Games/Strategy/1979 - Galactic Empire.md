@@ -195,8 +195,6 @@ The game's influence can be traced through the entire 4X genre—from later titl
 Galactic Empire is the first game in what became known as the Galactic Saga series [^ref-1]. The game established the core mechanics and universe that would be expanded upon in subsequent titles. As an early example of the space empire game genre, it helped define conventions that would later be refined into the 4X genre as we know it today [^ref-1].
 
 - **Next:** Galactic Trader (sequel in the Galactic Saga)
-
-## See Also
 - [[1987 - The Ancient Art of War at Sea|→ Next: The Ancient Art of War at Sea]]
 
 ## References

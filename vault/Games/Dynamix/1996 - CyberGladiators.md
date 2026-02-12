@@ -232,7 +232,6 @@ Viewed in historical context, CyberGladiators arrived during a particularly crow
 
 The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1990s gaming zeitgeist, drawing on themes popular in contemporary films and games. However, without the narrative depth that characterized Sierra's adventure titles, CyberGladiators failed to establish a lasting identity. Today, it serves primarily as a curiosity piece documenting Sierra and Dynamix's experimentation beyond their comfort zone.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -257,8 +256,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 CyberGladiators was released as part of Sierra's K.A.A. (Kicks A** Action) game line, a short-lived brand created to distinguish Sierra's action titles from their adventure game catalog[^ref-7]. The K.A.A. series represented Dynamix's contribution to Sierra's expanding portfolio during the mid-1990s diversification period. While only two games were released under the K.A.A. banner, the line demonstrated Sierra's willingness to experiment with different genres during the Windows 95 transition era[^ref-3].
 
 The game stands as a standalone title within the K.A.A. series, with no direct sequels or prequels. Its connection to the cancelled CRY.SYS project represents the closest thing to a developmental lineage, though that project was never released publicly[^ref-3].
-
-## See Also
 - [[1994 - Sierra Soccer - World Challenge Edition|← Previous: Sierra Soccer - World Challenge Edition]]
 - [[1996 - Hunter Hunted|→ Next: Hunter Hunted]]
 

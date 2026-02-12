@@ -194,7 +194,6 @@ The After Dark series demonstrated that millions of computer users were hungry f
 
 While More After Dark never received the critical attention afforded to traditional games, its Lunatic Fringe module earned a dedicated following among users who discovered that their screensaver could actually be fun to play. In an era when Ken Williams of Sierra noted that "product which does not take advantage of the latest technology will not get stocked on retail store shelves,"[^ref-14] Berkeley Systems proved that sometimes simplicity and charm could triumph over technical spectacle.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -216,8 +215,6 @@ More After Dark was released as an expansion to the After Dark 2.0 screensaver s
 
 - **Previous:** [[1989 - After Dark]]
 - **Next:** [[1998 - After Dark Games]]
-
-## See Also
 - [[1989 - After Dark|← Previous: After Dark]]
 - [[1998 - After Dark Games|→ Next: After Dark Games]]
 

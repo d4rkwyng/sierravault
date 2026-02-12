@@ -141,8 +141,6 @@ Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals c
 
 - **Previous:** [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - **Next:** [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]] (LSL4 was intentionally skipped)
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|← Previous: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|→ Next: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]

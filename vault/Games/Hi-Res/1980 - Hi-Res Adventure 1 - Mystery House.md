@@ -140,8 +140,6 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 
 - **Previous:** None (First in series)
 - **Next:** [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure #2: The Wizard and the Princess]]
-
-## See Also
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid|← Previous: Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|→ Next: Hi-Res Adventure 2 - The Wizard and the Princess]]
 

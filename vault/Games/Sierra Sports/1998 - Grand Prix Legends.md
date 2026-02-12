@@ -288,7 +288,6 @@ The simulation's influence extends far beyond its modest sales. The physics engi
 
 The game also pioneered online racing communities. VROC (Virtual Racers' Online Connection) became the hub for organized online racing leagues[^ref-48], establishing formats and communities that would influence online racing culture for decades. The fact that active leagues still run GPL events in 2023—25 years after release—speaks to the game's enduring appeal among dedicated simulation enthusiasts[^ref-44].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -319,8 +318,6 @@ After Sierra On-Line's closure of Papyrus in 2004, key team members including Da
 
 - **Previous:** [[1996 - NASCAR Racing 2]] (Papyrus racing simulation)
 - **Next:** [[2001 - NASCAR Racing 4]] (using evolved GPL physics engine)
-
-## See Also
 - [[1997 - Driver's Education '98|← Previous: Driver's Education '98]]
 - [[1998 - Sierra Sports - Bass Fishing|→ Next: Sierra Sports - Bass Fishing]]
 

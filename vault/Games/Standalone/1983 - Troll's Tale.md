@@ -140,8 +140,6 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 
 - **Previous:** None (standalone title)
 - **Next:** None (standalone title)
-
-## See Also
 - [[1981 - Softporn Adventure|← Previous: Softporn Adventure]]
 - [[1985 - Sierra Championship Boxing|→ Next: Sierra Championship Boxing]]
 

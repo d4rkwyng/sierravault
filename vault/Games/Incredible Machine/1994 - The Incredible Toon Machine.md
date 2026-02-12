@@ -218,8 +218,6 @@ The game introduced characters and cartoon physics that differentiated it from t
 
 - **Previous:** [[1993 - Sid & Al's Incredible Toons]]
 - **Next:** [[1994 - The Incredible Machine 2]]
-
-## See Also
 - [[1994 - The Incredible Machine 2|← Previous: The Incredible Machine 2]]
 - [[1995 - The Incredible Machine 3.0|→ Next: The Incredible Machine 3.0]]
 

@@ -275,8 +275,6 @@ The game's IP rights passed through several hands following Sierra's dissolution
 
 - **Previous:** [[2000 - Return of The Incredible Machine - Contraptions]]
 - **Next:** None (final entry in series; spiritual successor Contraption Maker (2014))
-
-## See Also
 - [[2000 - Return of The Incredible Machine - Contraptions|← Previous: Return of The Incredible Machine - Contraptions]]
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
 
@@ -321,7 +319,6 @@ The game's IP rights passed through several hands following Sierra's dissolution
 [^ref-19]: [GameSpot – Even More Contraptions Review](https://www.gamespot.com/games/the-incredible-machine-even-more-contraptions/reviews/) – official review score, user ratings
 
 [^ref-20]: [Absolute Games (Archived)](https://web.archive.org/web/20071215031604/http://www.ag.ru/reviews/return_of_the_incredible_machine_contraptions) – Russian review, Vyacheslav Golovanov quote
-
 
 [^ref-22]: [MyAbandonware – The Incredible Machine: Even More Contraptions](https://www.myabandonware.com/game/the-incredible-machine-even-more-contraptions-3ld) – user ratings, nostalgic comments, availability status
 

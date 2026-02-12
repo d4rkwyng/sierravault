@@ -204,8 +204,6 @@ An enhanced version called Maximum Pool was released in 2000, building upon Cool
 
 - **Previous:** Part of the ongoing 3-D Ultra series
 - **Next:** [[2000 - Maximum Pool]] – Enhanced version
-
-## See Also
 - [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Lionel TrainTown|→ Next: 3-D Ultra Lionel TrainTown]]
 

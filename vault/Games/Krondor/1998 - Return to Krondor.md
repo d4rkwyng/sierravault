@@ -273,8 +273,6 @@ Return to Krondor is the direct sequel to Betrayal at Krondor, taking place appr
 Unlike Betrayal in Antara (1997)—a spiritual successor set in a different world—Return to Krondor continues the authentic Midkemia storyline[^ref-4]. The game was intended to launch a new series of Krondor games, but Sierra's discontinuation of the franchise meant no further game sequels were produced[^ref-5].
 
 - **Previous:** [[1993 - Betrayal at Krondor]]
-
-## See Also
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
 
 ## References

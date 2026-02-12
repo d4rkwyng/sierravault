@@ -323,8 +323,6 @@ The Swingles dating show format represented a complete departure from the advent
 
 - **Previous:** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - **Next:** [[2009 - Leisure Suit Larry - Box Office Bust]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail]]
 - [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]

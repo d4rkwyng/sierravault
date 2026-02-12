@@ -330,8 +330,6 @@ Cate Archer makes a cameo appearance in Contract J.A.C.K., standing roadside in 
 
 - **Previous:** [[2000 - No One Lives Forever]]
 - **Next:** [[2003 - Contract J.A.C.K.]] (spin-off)
-
-## See Also
 - [[2000 - No One Lives Forever|← Previous: No One Lives Forever]]
 - [[2003 - Contract J.A.C.K.|→ Next: Contract J.A.C.K.]]
 

@@ -191,7 +191,6 @@ The game's focus on realism and historical accuracy proved both its strength and
 
 The game's legacy lies primarily in its engine, which Impressions refined for later, more successful titles[^ref-7]. The company's eventual acquisition by Sierra On-Line in 1995 would see their strategy expertise channeled into the city-building genre with the Caesar and Pharaoh series, leaving Air Force Commander as a curious evolutionary step in the studio's development history[^ref-8].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -214,8 +213,6 @@ Air Force Commander launched what would become a brief series exploring aerial w
 The engine technology developed for this series would go on to influence Impressions' later strategy titles, including Global Domination and When Two Worlds War, demonstrating the foundational importance of Air Force Commander to the studio's technical evolution[^ref-7].
 
 - **Next:** [[1993 - WW2 Air Force Commander]]
-
-## See Also
 - [[1992 - Air Bucks|← Previous: Air Bucks]]
 - [[1992 - Conquest of Japan|→ Next: Conquest of Japan]]
 

@@ -315,8 +315,6 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 Al Emmo and the Lost Dutchman's Mine stands as a standalone adventure, though its setting and characters were designed with potential sequels in mind. The game establishes the fictional town of Anozira and its colorful inhabitants as a distinctive world ripe for further exploration.
 
 Himalaya Studios continued developing adventure games following Al Emmo's release, including work on Mage's Initiation, a Kickstarted adventure game that was in development as of the research timeframe[^ref-19]. The studio's foundation in Sierra-style adventure gaming remained central to their identity, with Al Emmo serving as the commercial debut that allowed them to transition from fan developers to professional game creators.
-
-## See Also
 - [[2010 - Gray Matter|→ Next: Gray Matter]]
 
 ## References

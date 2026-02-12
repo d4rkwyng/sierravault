@@ -251,8 +251,6 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 Shannara represents a standalone game adaptation of Terry Brooks' fantasy novel series. While the game's story is set between *The Sword of Shannara* (1977) and *The Elfstones of Shannara* (1982) within the novels' chronology, no video game sequels were produced [^ref-2]. The Shannara franchise would later be adapted for television as *The Shannara Chronicles* (2016-2017), which aired on MTV and Spike before cancellation after two seasons [^ref-35].
 
 The game serves as a companion piece to the original Shannara trilogy rather than establishing its own series, making it a unique artifact of 1990s fantasy gaming—a time when literary adaptations were common but rarely spawned ongoing game franchises.
-
-## See Also
 - [[1995 - Fast Attack - High Tech Submarine Warfare|← Previous: Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - The Ruins of Cawdor|→ Next: The Ruins of Cawdor]]
 

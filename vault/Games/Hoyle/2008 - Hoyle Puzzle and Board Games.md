@@ -223,8 +223,6 @@ The Hoyle brand continues to be associated with "the official name in gaming," m
 
 - **Previous:** [[2005 - Hoyle Puzzle and Board Games]]
 - **Next:** [[2008 - Hoyle Puzzle and Board Games]]
-
-## See Also
 - [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

@@ -225,8 +225,6 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 Detroit is a standalone title with no direct sequels or prequels. However, it shares design philosophy with other Impressions Games business simulations, particularly Air Bucks, which applied similar management mechanics to the airline industry.[^ref-5]
 
 The game exists within a broader tradition of industry-specific business simulations that were popular during the early 1990s. Its approach to long-term strategic planning and historical simulation influenced later titles in the genre, though no official sequel was ever developed.
-
-## See Also
 - [[1993 - WW2 Air Force Commander|← Previous: WW2 Air Force Commander]]
 - [[1994 - Front Lines|→ Next: Front Lines]]
 

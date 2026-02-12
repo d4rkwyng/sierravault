@@ -120,8 +120,6 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 
 - **Previous:** [[2003 - Homeworld 2]] (chronologically later, but released earlier)
 - **Next:** [[2024 - Homeworld 3]] (in development)
-
-## See Also
 - [[2015 - Homeworld Remastered Collection|← Previous: Homeworld Remastered Collection]]
 - [[2024 - Homeworld 3|→ Next: Homeworld 3]]
 

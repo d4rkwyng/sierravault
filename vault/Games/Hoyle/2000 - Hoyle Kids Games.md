@@ -180,7 +180,6 @@ Hoyle Kids Games 2000 represents Sierra On-Line's attempt to leverage their esta
 
 The game's emphasis on character personality through opponents like Marvin the T-Rex and Roswell the alien shows Sierra's understanding that even simple games benefit from distinctive presentation. The Facemaker avatar system presaged the customization features that would become standard in children's games and later in social platforms. While not as historically significant as Sierra's adventure game titles, Hoyle Kids Games 2000 serves as an interesting artifact of the company's diversification efforts during a period of corporate transition.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -206,8 +205,6 @@ The game shares character assets with other Hoyle titles, including voice lines 
 
 - **Previous:** [[1999 - Hoyle Casino]]
 - **Next:** [[2001 - Hoyle Kids Games]]
-
-## See Also
 - [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
 - [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
 

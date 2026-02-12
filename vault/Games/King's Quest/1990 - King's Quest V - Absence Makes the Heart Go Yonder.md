@@ -283,8 +283,6 @@ The antagonist Mordack is directly connected to King's Quest III's villain Manan
 
 - **Previous:** [[1988 - King's Quest IV - The Perils of Rosella]]
 - **Next:** [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1988 - King's Quest IV - The Perils of Rosella|← Previous: King's Quest IV - The Perils of Rosella]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|→ Next: Roberta Williams' King's Quest I - Quest for the Crown]]

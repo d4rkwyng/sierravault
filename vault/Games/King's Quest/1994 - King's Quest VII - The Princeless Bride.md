@@ -262,8 +262,6 @@ King's Quest VII is the only mainline entry not to feature King Graham, focusing
 
 - **Previous:** [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
 - **Next:** [[1998 - King's Quest - Mask of Eternity]]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|← Previous: King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1998 - King's Quest - Mask of Eternity|→ Next: King's Quest - Mask of Eternity]]

@@ -287,8 +287,6 @@ Shivers spawned a single sequel, Shivers Two: Harvest of Souls, released in 1997
 Both games share designer Marcia Bales and composer Guy Whitmore, with the sequel featuring enhanced 360-degree panoramic views and three different endings[^ref-40]. The soundtrack gained additional significance as one of the Trip Cyclone band members was played by Jason Lindsey, now known for his retro gaming YouTube channel MetalJesusRocks[^ref-39].
 
 - **Next:** [[1997 - Shivers Two - Harvest of Souls]]
-
-## See Also
 - [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two - Harvest of Souls]]
 
 ## References

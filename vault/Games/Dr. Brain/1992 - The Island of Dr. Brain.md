@@ -234,8 +234,6 @@ Following this game, Sierra acquired Bright Star Technology, which developed the
 
 - **Previous:** [[1991 - Castle of Dr. Brain]]
 - **Next:** [[1995 - The Lost Mind of Dr. Brain]]
-
-## See Also
 - [[1991 - Castle of Dr. Brain|← Previous: Castle of Dr. Brain]]
 - [[1995 - The Lost Mind of Dr. Brain|→ Next: The Lost Mind of Dr. Brain]]
 

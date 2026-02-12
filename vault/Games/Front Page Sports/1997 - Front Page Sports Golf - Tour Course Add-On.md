@@ -207,7 +207,6 @@ The game's position as "Sierra's answer to Links"[^ref-4][^ref-5] placed it in d
 
 For 1997, the combination of innovative controls, online multiplayer through SIGS, and detailed course recreations represented a cutting-edge package[^ref-5]. Modern retrospectives acknowledge that while graphical fidelity has been surpassed, the fundamental gameplay feel and control responsiveness remain impressive by retro standards[^ref-5].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -237,8 +236,6 @@ Front Page Sports Golf Tour Course Add On expanded upon the base Front Page Spor
 The TrueSwing technology developed for this title was subsequently implemented in PGA Championship Golf 1999 Edition[^ref-1][^ref-12], creating a technological lineage that extended beyond the Front Page Sports brand itself. Headgate Studios continued developing golf simulations for Sierra, with their expertise in the genre becoming a valuable asset for the company's sports division[^ref-11][^ref-12].
 
 - **Base Game:** Front Page Sports: Golf (May 16, 1997)
-
-## See Also
 - [[1997 - Front Page Sports - Trophy Rivers|← Previous: Front Page Sports - Trophy Rivers]]
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
 

@@ -134,8 +134,6 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 
 - **Previous:** [[1994 - Metaltech - Earthsiege]] (1994)
 - **Next:** [[1999 - Starsiege]] (1999)
-
-## See Also
 - [[1995 - Metaltech - Earthsiege Expansion Pack|← Previous: Metaltech - Earthsiege Expansion Pack]]
 - [[1996 - MissionForce - Cyberstorm|→ Next: MissionForce - Cyberstorm]]
 

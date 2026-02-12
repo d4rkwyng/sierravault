@@ -237,8 +237,6 @@ As a fan game, The Lost Chapter is explicitly marked as non-canon by fan documen
 
 - **Previous (Official):** [[1987 - Space Quest II - Vohaul's Revenge]]
 - **Next (Official):** [[1989 - Space Quest III - The Pirates of Pestulon]]
-
-## See Also
 - [[2001 - King's Quest I VGA Remake|← Previous: King's Quest I VGA Remake]]
 - [[2002 - King's Quest II+ - Romancing the Stones|→ Next: King's Quest II+ - Romancing the Stones]]
 

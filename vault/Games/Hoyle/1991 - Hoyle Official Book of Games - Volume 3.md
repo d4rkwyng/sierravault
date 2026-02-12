@@ -199,8 +199,6 @@ Hoyle Official Book of Games Volume 3 was the third entry in Sierra's series of 
 
 - **Previous:** [[1990 - Hoyle Official Book of Games - Volume 2]]
 - **Next:** [[1993 - Hoyle Classic Card Games]]
-
-## See Also
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
 

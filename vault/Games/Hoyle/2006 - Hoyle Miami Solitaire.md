@@ -143,7 +143,6 @@ Hoyle Miami Solitaire represents an interesting inflection point in the history 
 
 The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not groundbreaking, Hoyle Miami Solitaire delivered on its promise of providing accessible, relaxing card gaming entertainment wrapped in an appealing aesthetic package. As Gamezebo noted, the game successfully captured "the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -165,8 +164,6 @@ Hoyle Miami Solitaire exists within the extensive Hoyle franchise, which has pro
 The Hoyle series has included various themed solitaire releases, with earlier Sierra entries like Hoyle Solitaire (2000) establishing the template of comprehensive solitaire compilations with customizable elements [^ref-9][^ref-8][^ref-19]. The 2006 casual gaming market saw numerous card game releases competing for consumer attention[^ref-20][^ref-21], making thematic differentiation crucial for commercial success. The game is preserved in various gaming archives and databases[^ref-18]. Hoyle Miami Solitaire distinguished itself through its specific thematic focus on 1920s Miami culture and its integration of mansion-building progression mechanics.
 
 - **Related:** Hoyle Solitaire (2000), Hoyle Casino series, Hoyle Word Games
-
-## See Also
 - [[2006 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
 

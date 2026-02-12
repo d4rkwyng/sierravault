@@ -197,7 +197,6 @@ The original "Minigolf Maniacs" project, which served as the foundation for 3D U
 
 The game is perhaps best remembered as a competent but unremarkable entry in the casual sports genre—fun with friends but lacking the depth or polish to stand out in a crowded marketplace.[^ref-3] Its legacy lives on primarily through the Steam release and as a predecessor to the more polished sequel. The original 3D Ultra Minigolf series from Dynamix (1997-1998) retains stronger nostalgic attachment among PC gaming enthusiasts, with the Collection Chamber preserving those titles for modern players.[^ref-11]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-2006)
@@ -218,8 +217,6 @@ While Adventures was developed by a different studio (Wanako Games rather than D
 
 - **Previous:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
 - **Next:** [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-
-## See Also
 - [[2000 - Maximum Pool|← Previous: Maximum Pool]]
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|→ Next: 3D Ultra Minigolf Adventures Deluxe]]
 

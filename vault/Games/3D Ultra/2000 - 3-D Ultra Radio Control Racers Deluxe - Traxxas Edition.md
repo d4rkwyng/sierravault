@@ -225,8 +225,6 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 
 - **Previous:** [[1999 - 3-D Ultra Radio Control Racers]]
 - **Next:** No further entries in the Radio Control Racers sub-series
-
-## See Also
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
 

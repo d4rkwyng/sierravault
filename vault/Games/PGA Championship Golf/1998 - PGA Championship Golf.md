@@ -239,7 +239,6 @@ The game's legacy is complicated by its timing. Released just as Sierra's owners
 
 While the graphics have not aged gracefully—contemporary reviewers already noted that spectators looked "like cardboard cutouts"[^ref-1]—the core gameplay mechanics remain respected among simulation enthusiasts. The game exemplifies the "serious simulation" approach that characterized PC gaming in the late 1990s and early 2000s, prioritizing depth and authenticity over accessibility. For players willing to invest the time to master its systems, PGA Championship Golf 2000 delivered an experience that professional golfer Larry Nelson praised as superior to traditional practice methods, though he was referring to related golf simulator technology[^ref-33].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -262,8 +261,6 @@ The series began with the original PGA Championship Golf in 1998, followed by PG
 
 - **Previous:** [[1999 - PGA Championship Golf 1999 Edition]]
 - **Next:** [[2000 - PGA Championship Golf 2000]]
-
-## See Also
 - [[1999 - PGA Championship Golf 1999 Edition|→ Next: PGA Championship Golf 1999 Edition]]
 
 ## References

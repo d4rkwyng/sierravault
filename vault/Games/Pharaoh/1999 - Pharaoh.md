@@ -127,8 +127,6 @@ The game's influence extends to the broader city-building genre, establishing co
 
 - **Previous:** [[1998 - Caesar III]]
 - **Next:** [[2000 - Zeus - Master of Olympus]]
-
-## See Also
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
 
 ## References

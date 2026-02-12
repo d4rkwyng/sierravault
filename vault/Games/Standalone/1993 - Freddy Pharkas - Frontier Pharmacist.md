@@ -167,8 +167,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 
 - **Previous:** None (standalone game)
 - **Next:** None (no sequel produced)
-
-## See Also
 - [[1990 - Zeliard|← Previous: Zeliard]]
 - [[1993 - Pepper's Adventures in Time|→ Next: Pepper's Adventures in Time]]
 

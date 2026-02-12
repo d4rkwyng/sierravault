@@ -289,8 +289,6 @@ The series concluded with Lords of the Realm III (2004), which marked a signific
 
 - **Previous:** [[1994 - Lords of the Realm]]
 - **Next:** [[2004 - Lords of the Realm III]]
-
-## See Also
 - [[1994 - Lords of the Realm|← Previous: Lords of the Realm]]
 - [[1997 - Lords of the Realm II - Siege Pack|→ Next: Lords of the Realm II - Siege Pack]]
 

@@ -216,8 +216,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]]
 - **Next:** [[2001 - Hoyle Board Games]]
 - **Related:** [[1993 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
-
-## See Also
 - [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
 

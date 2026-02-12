@@ -233,8 +233,6 @@ The SWAT series would continue on PC with SWAT 4 in 2005, developed by Irrationa
 
 - **Previous:** [[1999 - SWAT 3 - Close Quarters Battle]]
 - **Next:** [[2005 - SWAT 4]]
-
-## See Also
 - [[1999 - SWAT 3 - Close Quarters Battle|← Previous: SWAT 3 - Close Quarters Battle]]
 - [[2005 - SWAT 4|→ Next: SWAT 4]]
 

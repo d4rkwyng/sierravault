@@ -339,8 +339,6 @@ King's Quest VI: Heir Today, Gone Tomorrow is the sixth entry in the King's Ques
 - **Next:** [[1994 - King's Quest VII - The Princeless Bride]]
 
 The wedding of Alexander and Cassima establishes Alexander as King of the Green Isles, a title he holds in subsequent series lore.
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|← Previous: Roberta Williams' King's Quest I - Quest for the Crown]]
 - [[1994 - King's Quest VII - The Princeless Bride|→ Next: King's Quest VII - The Princeless Bride]]

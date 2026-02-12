@@ -278,8 +278,6 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 - **Previous:** [[1994 - Metaltech - Earthsiege]]
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]
 - **Next:** [[1996 - Earthsiege 2]]
-
-## See Also
 - [[1994 - Metaltech - Earthsiege Speech Pack|← Previous: Metaltech - Earthsiege Speech Pack]]
 - [[1996 - Earthsiege 2|→ Next: Earthsiege 2]]
 

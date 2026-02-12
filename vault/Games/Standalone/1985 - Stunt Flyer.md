@@ -167,7 +167,6 @@ Stunt Flyer occupies an interesting position in Sierra On-Line's catalog as both
 
 However, this commitment to realism came at the cost of accessibility. The steep learning curve noted in reviews suggests the game failed to find the balance between authenticity and playability that would allow it to reach a broader audience[^ref-4][^ref-8]. As a historical artifact, Stunt Flyer demonstrates Sierra's willingness to publish diverse genres beyond their signature adventure games, while also illustrating why flight simulation would remain a specialized market.[^ref-9][^ref-10] The game's parody appearance in Space Quest 4 suggests even Sierra's own developers viewed the original's technical focus—particularly its tendency to "crash"—as worthy of gentle mockery years later[^ref-5].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -190,8 +189,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 Stunt Flyer was a standalone title and was not part of any ongoing series. It represents Sierra On-Line's single foray into the aerobatic simulation genre during their 1985 publishing period. The game has no direct predecessors or sequels, though it exists alongside other Sierra flight-related titles of the era.
 
 Note: A different game titled "Stunt Flyer" was released in 1993 for DOS by Softlair Computer Productions as shareware[^ref-6]. This later title is unrelated to the 1985 Sierra-published Commodore 64 game.
-
-## See Also
 - [[1985 - Sierra Championship Boxing|← Previous: Sierra Championship Boxing]]
 - [[1985 - The Crimson Crown|→ Next: The Crimson Crown]]
 

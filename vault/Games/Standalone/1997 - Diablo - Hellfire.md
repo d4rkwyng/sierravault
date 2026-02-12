@@ -257,8 +257,6 @@ The expansion integrates seamlessly with Diablo's existing content, allowing pla
 
 - **Previous:** Diablo (1996)
 - **Next:** Diablo II (2000)
-
-## See Also
 - [[1996 - Stay Tooned!|← Previous: Stay Tooned!]]
 - [[2001 - Arcanum|→ Next: Arcanum]]
 

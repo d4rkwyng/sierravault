@@ -212,8 +212,6 @@ Other titles in the series released alongside Kid's Typing included:
 - Early Math
 
 These titles shared design philosophies with Kid's Typing, using character-driven narratives and adaptive learning technology to engage young students.[^ref-4]
-
-## See Also
 - [[1992 - Ready, Set, Read with Bananas & Jack|← Previous: Ready, Set, Read with Bananas & Jack]]
 
 ## References

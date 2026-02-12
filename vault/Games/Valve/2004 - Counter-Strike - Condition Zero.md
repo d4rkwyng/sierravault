@@ -302,7 +302,6 @@ The game represents an intriguing "what if" in Counter-Strike history. "This gam
 
 For its era, the bot AI represented a genuine technical achievement that would influence future Valve games. The AI systems developed for Condition Zero evolved into the AI Director technology powering Left 4 Dead.[^ref-29] In this sense, Condition Zero's greatest legacy may be in what it contributed to games that followed rather than in its own merits.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike-condition-zero-2004)
@@ -327,8 +326,6 @@ The Deleted Scenes campaign, despite its troubled development, provides valuable
 
 - **Previous:** [[2000 - Counter-Strike]]
 - **Next:** Counter-Strike: Source (2004)
-
-## See Also
 - [[2001 - Half-Life - Blue Shift|← Previous: Half-Life - Blue Shift]]
 - [[2004 - Half-Life 2|→ Next: Half-Life 2]]
 

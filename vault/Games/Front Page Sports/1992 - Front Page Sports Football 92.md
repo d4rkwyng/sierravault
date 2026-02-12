@@ -251,8 +251,6 @@ Front Page Sports: Football launched what would become an annual franchise spann
 The series changed primary developers from Dynamix to Synergistic Software for the '98 and '99 versions[^ref-15], which coincided with a decline in quality and the eventual discontinuation of the franchise after the problematic '99 release was recalled[^ref-1].
 
 - **Next:** [[1993 - Front Page Sports - Football Pro]]
-
-## See Also
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports - Football Pro]]
 
 ## References

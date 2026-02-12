@@ -187,7 +187,6 @@ While modern retrospectives may find the game primitive by contemporary standard
 
 The broader significance of educational software like Learning with Leeper was recognized by researchers studying computer-assisted learning for children with disabilities, who noted that "infants learn by interacting with their environment" and that computers could help "handicapped infants with limited movement or vocalization" who might otherwise be "deprived of much of this interaction"[^ref-8]. This therapeutic application extended the game's impact beyond typical educational use cases.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -207,8 +206,6 @@ Learning with Leeper served as the foundation for Sierra's "Leeper" educational 
 
 - **Previous:** Lunar Leeper (1982, arcade game featuring Leeper creatures as enemies)
 - **Next:** [[1984 - Learning with FuzzyWOMP]] (sequel educational title)[^ref-3]
-
-## See Also
 - [[1983 - Early Math|← Previous: Early Math]]
 - [[1984 - Learning with FuzzyWOMP|→ Next: Learning with FuzzyWOMP]]
 

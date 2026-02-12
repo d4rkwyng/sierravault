@@ -218,8 +218,6 @@ In retrospect, the game represents an interesting moment in edutainment history�
 The Deluxe version released in 2000 functioned as both a sequel and an enhanced edition, adding 50 new missions and an expanded track creation system while maintaining compatibility with the original game's approach[^ref-6].
 
 - **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]], [[1999 - 3-D Ultra Cool Pool]]
-
-## See Also
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]
 

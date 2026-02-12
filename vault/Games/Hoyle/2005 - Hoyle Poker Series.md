@@ -185,7 +185,6 @@ While not groundbreaking in its design, the game served its intended purpose as 
 
 The broader Hoyle series legacy, however, remains significant in gaming history. As the first major computer adaptation of traditional card games, the Hoyle brand introduced millions of players to digital gaming through familiar, accessible gameplay[^ref-2]. The series' use of Sierra adventure game characters as opponents created a unique cross-promotional opportunity that delighted fans of both card games and Sierra's flagship franchises[^ref-2].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -209,9 +208,7 @@ Hoyle Poker Series is part of the extensive Hoyle gaming franchise that began in
 The 2005 Poker Series specifically built upon the design philosophy established in Hoyle Poker (1997), which had introduced personality-driven AI opponents and a wide variety of poker variants[^ref-5]. The game also shares design DNA with Hoyle Texas Hold 'Em, focusing specifically on the poker variant that had captured public imagination during the mid-2000s[^ref-1].
 
 - **Previous:** [[1997 - Hoyle Poker]]
-- **Next:** 
-
-## See Also
+- **Next:**
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
 - [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

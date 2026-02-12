@@ -242,8 +242,6 @@ Hoyle Official Book of Games: Volume 1 launched what would become one of Sierra'
 The success of Volume 1 led directly to the development of Volume 2 (1990), which focused on additional card games and expanded the roster of playable Sierra characters. The series would eventually grow to include board games, casino games, and eventually transition to other developers following Sierra's corporate changes in the late 1990s.
 
 - **Next:** [[1990 - Hoyle Official Book of Games - Volume 2]]
-
-## See Also
 - [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Hoyle Official Book of Games - Volume 2]]
 
 ## References

@@ -196,8 +196,6 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 
 - **Previous:** More After Dark (1994)
 - **Related:** After Dark (1992) (original screensaver software)
-
-## See Also
 - [[1991 - More After Dark|← Previous: More After Dark]]
 
 ## References

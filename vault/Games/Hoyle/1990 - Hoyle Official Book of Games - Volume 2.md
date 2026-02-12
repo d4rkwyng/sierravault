@@ -194,7 +194,6 @@ Hoyle Official Book of Games Volume 2 represents an important moment in Sierra's
 
 The game's comprehensive collection of 28 solitaire variants provided substantial value for card game enthusiasts, offering digital implementations of games that would otherwise require physical decks and considerable table space. The top-down, fixed-screen presentation established conventions that would persist in computer solitaire implementations for decades, most notably in Microsoft's bundled Windows solitaire games.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/hoyle-official-book-of-games-volume-2)
@@ -216,8 +215,6 @@ Hoyle Official Book of Games Volume 2: Solitaire was the second entry in Sierra'
 
 - **Previous:** [[1989 - Hoyle Official Book of Games - Volume 1]]
 - **Next:** [[1991 - Hoyle Official Book of Games - Volume 3]]
-
-## See Also
 - [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Hoyle Official Book of Games - Volume 1]]
 - [[1991 - Hoyle Official Book of Games - Volume 3|→ Next: Hoyle Official Book of Games - Volume 3]]
 

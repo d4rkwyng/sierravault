@@ -131,8 +131,6 @@ Leisure Suit Larry: Box Office Bust is the direct sequel to Magna Cum Laude, con
 
 **See also:**
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe Larry Laffer game
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|← Previous: Leisure Suit Larry - Magna Cum Laude]]
 - [[2013 - Leisure Suit Larry - Reloaded|→ Next: Leisure Suit Larry - Reloaded]]

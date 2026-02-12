@@ -210,7 +210,6 @@ The game's historical setting and educational elements represent its strongest a
 
 The game's short length (completable in under three hours) and easy puzzles positioned it poorly against both classic adventures and modern indie titles. For dedicated fans of the original, it provided closure to the Wilson brothers' story, but newcomers found little reason to engage. The sequel's legacy ultimately serves as a cautionary tale about reviving beloved franchises—authentic involvement from original creators does not guarantee success without equally strong execution.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -233,8 +232,6 @@ The game maintains thematic consistency with its predecessor, focusing on Americ
 
 - **Previous:** [[2014 - Gold Rush Anniversary]]
 - **Related:** [[1988 - Gold Rush]]
-
-## See Also
 - [[2014 - Gold Rush Anniversary|← Previous: Gold Rush Anniversary]]
 
 ## References
@@ -242,7 +239,6 @@ The game maintains thematic consistency with its predecessor, focusing on Americ
 [^ref-1]: [Gold Rush! Game – Official Website](https://www.goldrush-game.com/) – release dates, version history, development timeline, box version details
 
 [^ref-2]: [Steam Store – Gold Rush! 2](https://store.steampowered.com/app/609100/Gold_Rush_2/) – release date, platforms, system requirements, user reviews, technical specifications
-
 
 [^ref-4]: [Google Play Store – Gold Rush! 2](https://play.google.com/store/apps/details?id=com.sunlightgames.goldrush2&hl=en_US) – mobile version details, historical setting, technical requirements, story details
 
@@ -259,7 +255,6 @@ The game maintains thematic consistency with its predecessor, focusing on Americ
 [^ref-10]: [Adventure Gamers – Gold Rush! Anniversary](https://adventuregamers.com/games/gold-rush-remake) – remake review, original game features, graphics comparison
 
 [^ref-11]: [Metacritic – Gold Rush! 2](https://www.metacritic.com/game/gold-rush-2/) – aggregated score 40/100, platforms, release date
-
 
 [^ref-13]: [MobyGames – Gold Rush! 2](https://www.mobygames.com/game/106599/gold-rush-2/) – developer information, platforms, rating
 

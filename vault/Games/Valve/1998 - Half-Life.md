@@ -310,7 +310,6 @@ Notable tracks include "Nuclear Mission Jam," "Hard Technology Rock," "Diabolica
 
 Some tracks in the game files are named "Prospero," referencing Valve's cancelled science fantasy project that was absorbed by Half-Life's development[^ref-65]. In 2020, Valve partnered with Ipecac Recordings to release Half-Life soundtracks on streaming services[^ref-64].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -334,8 +333,6 @@ Half-Life launched one of gaming's most beloved franchises, spawning direct sequ
 The expansions Opposing Force and Blue Shift tell parallel stories of the Black Mesa incident from different perspectives—a HECU marine and a security guard respectively—while Decay (PS2 exclusive) offered cooperative play as two scientists. The modding community extended this universe further through countless unofficial campaigns, ensuring the Half-Life setting remained vibrant even during the long wait for official sequels.
 
 - **Next:** [[1999 - Half-Life - Opposing Force]]
-
-## See Also
 - [[1999 - Half-Life - Opposing Force|→ Next: Half-Life - Opposing Force]]
 
 ## References

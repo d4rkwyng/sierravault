@@ -209,7 +209,6 @@ However, the game's story also illustrates the challenges facing episodic advent
 
 Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fester Mudd has to offer. This game is a well-polished amalgamation of old plots and jokes that doesn't dare venture far on its own."[^ref-16] Whether this adherence to formula was a strength or weakness remains a matter of perspective, but Fester Mudd unquestionably achieved its goal of recapturing the spirit of classic adventure gaming, even if only for a brief two-hour journey.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -232,8 +231,6 @@ Unfortunately, poor sales of the first episode led to the cancellation of the en
 
 - **Previous:** N/A (First in series)
 - **Next:** Episode 2: Injun Trouble (Cancelled)
-
-## See Also
 - [[2012 - Cognition - An Erica Reed Thriller|← Previous: Cognition - An Erica Reed Thriller]]
 - [[2014 - Moebius - Empire Rising|→ Next: Moebius - Empire Rising]]
 

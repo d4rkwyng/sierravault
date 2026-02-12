@@ -232,8 +232,6 @@ The events of King's Quest IV establish Rosella as a capable heroine, setting up
 **Original Series Placement:**
 - **Previous:** [[1986 - King's Quest III - To Heir Is Human]]
 - **Next:** [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-
-## See Also
 - [[2012 - Space Quest - Incinerations|← Previous: Space Quest - Incinerations]]
 
 ## References

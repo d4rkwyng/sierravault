@@ -223,8 +223,6 @@ Mixed-Up Fairy Tales serves as the spiritual successor to Mixed-Up Mother Goose 
 The "Mixed Up" series represents Sierra's primary foray into educational adventure gaming for young children, distinct from their other educational efforts like the Dr. Brain series targeting older players. The games share a design philosophy of using adventure game mechanics to teach reading and problem-solving skills in an engaging, non-threatening environment[^ref-11].
 
 - **Previous:** [[1987 - Mixed-Up Mother Goose]]
-
-## See Also
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|← Previous: Mixed-Up Mother Goose (SCI Remake)]]
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
 

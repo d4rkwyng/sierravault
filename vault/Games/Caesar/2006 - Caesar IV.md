@@ -277,8 +277,6 @@ The game advances the series' technology significantly while preserving familiar
 Caesar IV remains the final entry in the Caesar series to date, with no subsequent installments announced despite continued interest from fans[^ref-37].
 
 - **Previous:** [[1998 - Caesar III]]
-
-## See Also
 - [[1998 - Caesar III|← Previous: Caesar III]]
 
 ## References

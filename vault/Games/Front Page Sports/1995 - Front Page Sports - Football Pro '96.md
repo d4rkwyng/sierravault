@@ -262,8 +262,6 @@ The game is preserved through various abandonware archives and remains playable 
 
 - **Previous:** [[1994 - Front Page Sports - Football Pro '95]]
 - **Next:** [[1996 - Front Page Sports - Football Pro '97]]
-
-## See Also
 - [[1994 - Front Page Sports - Football Pro '95|← Previous: Front Page Sports - Football Pro '95]]
 - [[1996 - Front Page Sports - Baseball Pro '96|→ Next: Front Page Sports - Baseball Pro '96]]
 

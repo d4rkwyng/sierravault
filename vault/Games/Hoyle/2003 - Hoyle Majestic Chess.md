@@ -232,8 +232,6 @@ The Hoyle brand dates back to 1989 with Hoyle's Official Book of Games, and Sier
 - **Series:** Hoyle Games (Sierra Entertainment)
 - **Previous:** [[2002 - Hoyle Card Games]]
 - **Next:** [[2003 - Hoyle Card Games]]
-
-## See Also
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
 

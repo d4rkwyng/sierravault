@@ -204,8 +204,6 @@ Spelling Blizzard is the second and final game in the Spelling Jungle series, ma
 The series was part of Bright Star Technology's educational game lineup, which was brought under Sierra's umbrella following the 1992 acquisition[^ref-3]. Despite narrative elements suggesting potential continuation, no third entry in the series was ever developed[^ref-12].
 
 - **Previous:** [[1993 - Spelling Jungle]]
-
-## See Also
 - [[1993 - Turbo Learning - Mega Math|← Previous: Turbo Learning - Mega Math]]
 
 ## References

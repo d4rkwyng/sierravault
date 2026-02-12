@@ -226,8 +226,6 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 Sierra Championship Boxing was a standalone sports title and not part of any ongoing series. It was one of several third-party games published by Sierra On-Line during the company's expansion in the mid-1980s. The game has no direct sequels, though the boxing simulation genre it helped pioneer continued to evolve through titles from other developers.
 
 The game followed in the footsteps of other sports simulations like Olympic Decathalon and Micro-League Baseball, representing the growing interest in detailed sports modeling on home computers.[^ref-5]
-
-## See Also
 - [[1983 - Troll's Tale|← Previous: Troll's Tale]]
 - [[1985 - Stunt Flyer|→ Next: Stunt Flyer]]
 

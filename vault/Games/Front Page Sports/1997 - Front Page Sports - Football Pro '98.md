@@ -197,8 +197,6 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 
 - **Previous:** [[1996 - Front Page Sports - Football Pro '97]]
 - **Next:** No direct sequel (final entry in series)
-
-## See Also
 - [[1997 - Front Page Sports - Baseball Pro '98|← Previous: Front Page Sports - Baseball Pro '98]]
 - [[1997 - Front Page Sports - Golf|→ Next: Front Page Sports - Golf]]
 

@@ -135,8 +135,6 @@ While Betrayal in Antara uses the same engine as [[1993 - Betrayal at Krondor|Be
 - [Internet Archive - Betrayal in Antara USA](https://archive.org/details/BetrayalInAntaraUSA)[^ref-2]
 - [MyAbandonware - Betrayal in Antara](https://www.myabandonware.com/game/betrayal-in-antara-d7p)[^ref-22]
 - [Old Games - Betrayal in Antara](https://www.oldgames.sk/en/game/betrayal-in-antara/download/6118)[^ref-20]
-
-## See Also
 - [[1993 - Betrayal at Krondor|← Previous: Betrayal at Krondor]]
 - [[1998 - Return to Krondor|→ Next: Return to Krondor]]
 

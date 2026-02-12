@@ -105,7 +105,6 @@ Robert E. Lee: Civil War General established a successful franchise for Sierra, 
 
 The game's educational value has ensured its lasting relevance, with players continuing to praise it as "a valuable teaching tool, and full of history"[^ref-34]. Its influence can be seen in later Civil War strategy games that adopted similar approaches to balancing historical accuracy with gameplay accessibility. The game also contributed to the broader trend of incorporating multimedia elements into strategy games, setting standards that would influence the genre for years to come.
 
-
 ## See Also
 
 |  | **Civil War Generals Series** |  |
@@ -122,8 +121,6 @@ The game's educational value has ensured its lasting relevance, with players con
 - [My Abandonware](https://www.myabandonware.com/game/robert-e-lee-civil-war-general-9zr)[^ref-34]
 - [Old Games](https://www.old-games.com/download/9946/robert-e-lee-civil-war)[^ref-35]
 - [Old Games Download](https://oldgamesdownload.com/robert-e-lee-civil-war-general/)[^ref-36]
-
-## See Also
 - [[1997 - Civil War Generals 2 - Grant–Lee–Sherman|→ Next: Civil War Generals 2 - Grant–Lee–Sherman]]
 
 ## References

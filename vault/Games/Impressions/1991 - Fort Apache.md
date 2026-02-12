@@ -176,8 +176,6 @@ Fort Apache was the third game in Impressions' Micro Miniatures series of access
 
 - **Previous:** Charge of The Light Brigade
 - **Previous:** Rorke's Drift
-
-## See Also
 - [[1991 - Cohort Fighting for Rome|← Previous: Cohort Fighting for Rome]]
 - [[1991 - Merchant Colony|→ Next: Merchant Colony]]
 

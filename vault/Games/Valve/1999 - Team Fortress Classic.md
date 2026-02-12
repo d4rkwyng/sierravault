@@ -230,7 +230,6 @@ Josh Bycer of Game Developer described Team Fortress 2 as "one of the most impor
 
 However, modern assessments acknowledge the game's limitations. As one Metacritic user noted, "Team Fortress Classic is one of those titles whose legacy massively outweighs the experience of playing it today."[^ref-22] The game's technical age, combined with a dwindling player base dominated by bots, makes it more of a historical artifact than a living competitive experience.[^ref-13]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -253,8 +252,6 @@ The Team Fortress series began with the original Quake Team Fortress mod in 1996
 
 - **Previous:** Quake Team Fortress (1996) - Original mod
 - **Next:** Team Fortress 2 (2007)
-
-## See Also
 - [[1999 - Half-Life - Opposing Force|← Previous: Half-Life - Opposing Force]]
 - [[2000 - Counter-Strike|→ Next: Counter-Strike]]
 

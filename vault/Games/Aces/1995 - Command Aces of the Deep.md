@@ -119,8 +119,6 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 
 - **Previous:** Various Aces flight simulators
 - **Next:** Aces of the Deep: Expansion Disk (1995)
-
-## See Also
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
 
 ## References

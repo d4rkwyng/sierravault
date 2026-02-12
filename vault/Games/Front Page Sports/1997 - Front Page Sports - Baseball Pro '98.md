@@ -238,8 +238,6 @@ The game succeeded in establishing itself as the definitive baseball management 
 
 - **Previous:** [[1996 - Front Page Sports - Baseball Pro '96]]
 - **Next:** N/A (Final entry in series)
-
-## See Also
 - [[1996 - Front Page Sports - Football Pro '97|← Previous: Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Football Pro '98|→ Next: Front Page Sports - Football Pro '98]]
 

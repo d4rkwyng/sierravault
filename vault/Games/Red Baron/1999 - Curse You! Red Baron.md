@@ -221,8 +221,6 @@ The series continued long after this entry, with Red Baron: Arcade appearing in 
 
 - **Previous:** [[1998 - Red Baron 3D]]
 - **Next:** [[2008 - Red Baron Arcade]]
-
-## See Also
 - [[1998 - Red Baron 3D|← Previous: Red Baron 3D]]
 - [[2008 - Red Baron Arcade|→ Next: Red Baron Arcade]]
 

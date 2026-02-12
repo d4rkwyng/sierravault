@@ -214,7 +214,6 @@ Donald Duck's Playground occupies an important position in the history of educat
 
 The game's influence can be seen in the edutainment boom that followed in the late 1980s and 1990s. By proving that children would engage with educational content when wrapped in entertaining gameplay featuring beloved characters, Donald Duck's Playground helped establish conventions that would be followed by countless titles. However, as the *Data Driven Gamer* notes, the game's limited depth means it holds primarily nostalgic value for modern audiences—"who, let's face it, aren't likely to be impressed by the Commodore 64 any longer."[^ref-15] Nevertheless, its historical significance as an early Disney computer game and as a key title in Al Lowe's pre-Leisure Suit Larry career ensures its place in gaming history.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/donald-duck-s-playground-1984)
@@ -239,8 +238,6 @@ Donald Duck's Playground was one of Sierra's early Disney-licensed titles, produ
 - **DuckTales** (series)
 - **Maui Mallard in Cold Shadow** (1996)
 - **Donald Duck: Goin' Quackers** (2000)
-
-## See Also
 - [[1984 - Mickey's Space Adventure|→ Next: Mickey's Space Adventure]]
 
 ## References

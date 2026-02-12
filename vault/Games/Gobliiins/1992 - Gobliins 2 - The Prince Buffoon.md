@@ -258,8 +258,6 @@ The series continued with Goblins Quest 3 (1993), which further reduced the char
 
 - **Previous:** [[1991 - Gobliiins]]
 - **Next:** [[1993 - Goblins Quest 3]]
-
-## See Also
 - [[1991 - Gobliiins|← Previous: Gobliiins]]
 - [[1993 - Goblins Quest 3|→ Next: Goblins Quest 3]]
 

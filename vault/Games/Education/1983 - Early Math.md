@@ -210,8 +210,6 @@ Early Math was part of Bright Star Technology's "Talking Tutor" series of educat
 The educational software developed by Bright Star Technology existed alongside Sierra's more well-known entertainment franchises, contributing to the company's mission of reaching "a wide variety of consumers" with diverse interactive products.[^ref-3]
 
 The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19]
-
-## See Also
 - [[1982 - Bop-A-Bet|← Previous: Bop-A-Bet]]
 - [[1983 - Learning with Leeper|→ Next: Learning with Leeper]]
 

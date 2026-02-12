@@ -122,8 +122,6 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 
 - **Previous:** N/A
 - **Next:** N/A
-
-## See Also
 - [[1998 - Head Rush|→ Next: Head Rush]]
 
 ## References

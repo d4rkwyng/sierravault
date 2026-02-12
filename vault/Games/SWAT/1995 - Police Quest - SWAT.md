@@ -263,8 +263,6 @@ The first two SWAT games were released under the Police Quest name before the se
 
 - **Previous:** [[1993 - Police Quest - Open Season]]
 - **Next:** [[1998 - Police Quest - SWAT 2]]
-
-## See Also
 - [[CXL - SWAT - Urban Justice|← Previous: Urban Justice]]
 - [[1998 - Police Quest - SWAT 2|→ Next: Police Quest - SWAT 2]]
 

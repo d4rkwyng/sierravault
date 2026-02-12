@@ -192,7 +192,6 @@ The Crimson Crown represents an important transitional work in adventure game hi
 
 Modern assessments recognize the game's historical significance while acknowledging its limitations. The heavy reliance on item collection and backtracking can feel tedious by contemporary standards, and the parser-based interface presents a learning curve for players accustomed to point-and-click interfaces.[^ref-16] However, for adventure game historians and enthusiasts of the genre's evolution, The Crimson Crown remains a notable example of mid-1980s interactive fiction that pushed beyond the boundaries of pure text into illustrated storytelling.[^ref-4]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -214,8 +213,6 @@ Princess Sabrina, who was rescued in the first game, returns as a playable compa
 
 - **Previous:** Transylvania
 - **Next:** Transylvania III: Vanquish the Night
-
-## See Also
 - [[1985 - Stunt Flyer|← Previous: Stunt Flyer]]
 - [[1986 - Kempelen|→ Next: Kempelen]]
 

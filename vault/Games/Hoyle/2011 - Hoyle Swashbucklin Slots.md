@@ -189,7 +189,6 @@ The pirate theme reflected broader pop culture trends of the era, coinciding wit
 
 The game's limited documentation and review coverage reflects the challenge faced by casual and budget gaming titles in achieving visibility within the broader gaming discourse[^ref-5][^ref-6]. Nevertheless, for its target audience of casual slot machine enthusiasts, the game offered substantial content with over 50 slot machines and an extensive achievement system[^ref-4].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -217,8 +216,6 @@ The 2010 version of Swashbucklin' Slots is mentioned as part of compilation rele
 
 - **Previous:** [[2011 - Hoyle Swashbucklin Slots]]
 - **Related:** [[1996 - Hoyle Casino|Hoyle Casino]]
-
-## See Also
 - [[2011 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2015 - Hoyle Official Card Games Collection|→ Next: Hoyle Official Card Games Collection]]
 

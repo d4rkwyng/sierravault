@@ -202,8 +202,6 @@ Ready, Set, Read with Bananas & Jack was part of Sierra's Discovery Series and t
 The Bananas & Jack characters appeared in multiple educational titles from Bright Star Technology during this period, establishing them as recurring hosts for the company's reading and language education products[^ref-3]. Platform and design information is preserved in gaming wikis[^ref-13] and community memories continue to surface in online discussions[^ref-14].
 
 - **Previous:** [[1982 - Alphabet Blocks]]
-
-## See Also
 - [[1993 - Spelling Jungle|→ Next: Spelling Jungle]]
 
 ## References

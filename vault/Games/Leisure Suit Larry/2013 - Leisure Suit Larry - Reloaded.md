@@ -128,8 +128,6 @@ Leisure Suit Larry: Reloaded is an HD remake of the original 1987 game, created 
 
 **See also:**
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Next Larry Laffer adventure
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2009 - Leisure Suit Larry - Box Office Bust|← Previous: Leisure Suit Larry - Box Office Bust]]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|→ Next: Leisure Suit Larry - Wet Dreams Don't Dry]]

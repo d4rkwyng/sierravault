@@ -117,8 +117,6 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 
 - **Previous:** [[1996 - NASCAR Racing 2]]
 - **Next:** [[2001 - NASCAR Racing 4]]
-
-## See Also
 - [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
 - [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
 

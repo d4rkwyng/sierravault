@@ -249,8 +249,6 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 The ending of *Conquests of Camelot* left the romantic tension between Arthur, Launcelot, and Gwenhyver unresolved, with Merlin's observation that Arthur's "heart may never be healed" suggesting a cliffhanger that was never directly addressed in subsequent games.[^ref-23]
 
 - **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood]]
-
-## See Also
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Next: Conquests of the Longbow - The Legend of Robin Hood]]
 
 ## References

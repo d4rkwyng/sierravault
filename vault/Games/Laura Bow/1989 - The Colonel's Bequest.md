@@ -149,8 +149,6 @@ The Colonel's Bequest established Laura Bow as Sierra's mystery-solving heroine.
 - [MyAbandonware](https://www.myabandonware.com/game/the-colonel-s-bequest-oq)[^ref-25]
 - [Internet Archive](https://archive.org/details/msdos_Laura_Bow_1_-_The_Colonels_Bequest_1989)[^ref-12]
 - [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-the-colonels-bequest-online/)[^ref-10]
-
-## See Also
 - [[Laura Bow Series]] - Series overview
 - [[1992 - The Dagger of Amon Ra|→ Next: The Dagger of Amon Ra]]
 

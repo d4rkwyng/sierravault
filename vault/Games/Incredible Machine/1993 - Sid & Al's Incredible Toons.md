@@ -220,8 +220,6 @@ The Incredible Toon Machine expanded upon the original with a revamped user inte
 
 - **Previous:** [[1994 - The Incredible Machine 2]] (main series)
 - **Next:** [[1994 - The Incredible Toon Machine]]
-
-## See Also
 - [[1992 - The Incredible Machine|← Previous: The Incredible Machine]]
 - [[1993 - The Even More Incredible Machine|→ Next: The Even More Incredible Machine]]
 

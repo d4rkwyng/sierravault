@@ -191,8 +191,6 @@ The game also stands as a testament to the challenges of software preservation, 
 Spelling Jungle was the first entry in Bright Star Technology's spelling-focused educational game series. The game established the core mechanics of combining word-spelling with puzzle navigation that would continue in its sequel. Yobi the wizard served as the connecting character between titles, providing guidance and encouragement to young players learning to spell.
 
 - **Next:** [[1994 - Spelling Blizzard]]
-
-## See Also
 - [[1993 - Ready Set Read with Bananas Jack|← Previous: Ready Set Read with Bananas Jack]]
 - [[1993 - Turbo Learning - Mega Math|→ Next: Turbo Learning - Mega Math]]
 

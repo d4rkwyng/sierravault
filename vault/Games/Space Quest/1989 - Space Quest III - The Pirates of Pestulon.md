@@ -192,8 +192,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]]
 - Next: [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]]
-
-## See Also
 - [[Space Quest Series]] - Series overview
 - [[1987 - Space Quest II - Vohaul's Revenge|← Previous: Space Quest II - Vohaul's Revenge]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|→ Next: Space Quest I - Roger Wilco in the Sarien Encounter]]

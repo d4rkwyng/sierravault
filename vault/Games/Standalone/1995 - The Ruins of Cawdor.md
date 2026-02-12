@@ -195,7 +195,6 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
 
-
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Ruins_of_Cawdor_1995)[^ref-18]
 - [MyAbandonware](https://www.myabandonware.com/game/ruins-of-cawdor-cbm)[^ref-16]
@@ -213,8 +212,6 @@ The Ruins of Cawdor concluded Sierra's trilogy of graphical MUDs for The Sierra 
 The series competed with Neverwinter Nights on America Online during the early days of graphical online RPGs, representing Sierra's entry into the emerging market for persistent multiplayer gaming experiences. The lessons learned from developing these graphical MUDs influenced subsequent online gaming ventures, though Sierra would exit the dedicated online gaming space following the closure of The ImagiNation Network.
 
 - **Previous:** [[1993 - Fates of Twinion]]
-
-## See Also
 - [[1995 - Shannara|← Previous: Shannara]]
 - [[1995 - Torin's Passage|→ Next: Torin's Passage]]
 

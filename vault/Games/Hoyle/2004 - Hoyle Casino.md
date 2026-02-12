@@ -155,7 +155,6 @@ Hoyle Casino 2004 occupies an interesting position in the history of casino simu
 
 The game nonetheless served its core purpose well as a gambling simulator, allowing players to "risk millions of fake dollars" without real financial consequences.[^ref-9] For novice players, it provided valuable educational content about casino rules and strategies.[^ref-6] The transition of the Hoyle brand from Sierra to Encore following this period marked the end of an era for one of Sierra's longest-running game series, which had roots stretching back to the original Hoyle's Official Book of Games in 1989.[^ref-15]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -178,8 +177,6 @@ The series continued to evolve after Sierra's departure, with Encore releasing a
 
 - **Previous:** [[2002 - Hoyle Casino Empire]]
 - **Next:** [[2005 - Hoyle Poker Series]]
-
-## See Also
 - [[2003 - Hoyle Majestic Chess|← Previous: Hoyle Majestic Chess]]
 - [[2004 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 

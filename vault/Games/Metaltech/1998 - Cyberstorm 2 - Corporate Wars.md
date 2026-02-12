@@ -143,8 +143,6 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 
 - **Previous:** [[1996 - MissionForce - Cyberstorm]]
 - **Next:** No direct sequel produced
-
-## See Also
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
 

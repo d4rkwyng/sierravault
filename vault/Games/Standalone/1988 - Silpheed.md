@@ -259,9 +259,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 Silpheed launched a franchise that would span multiple console generations. The original game established the core gameplay formula of vertical shooting with 3D graphics and emphasized high-quality audio presentation. Set in the year 3032, the game introduced the conflict with Xacalite and the discovery of alien technology that enabled humanity's expansion into space.[^ref-16][^ref-17]
 
 The series continued with a reimagined version for the Sega CD in 1993, set 44 years after the original in the year 3076, featuring a new threat called the Zakalite and a new ship designated SA-77.[^ref-43] This was followed by Silpheed: The Lost Planet for PlayStation 2 in 2000, co-developed with Treasure and taking place 31 years after the Sega CD version.[^ref-50] The spiritual successor Project Sylpheed arrived on Xbox 360 in 2006-2007.[^ref-51] Most recently, Silpheed Alternative brought the series to Android in 2011.[^ref-52]
-
-
-## See Also
 - [[1987 - Laser Surgeon - The Microscopic Mission|← Previous: Laser Surgeon - The Microscopic Mission]]
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|→ Next: Tank - The M1A1 Abrams Battle Tank Simulation]]
 

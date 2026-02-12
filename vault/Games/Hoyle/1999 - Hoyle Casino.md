@@ -214,8 +214,6 @@ The game shares the Hoyle brand with Sierra's card game series (Hoyle Card Games
 
 - **Previous:** [[1996 - Hoyle Casino]]
 - **Next:** [[2000 - Hoyle Casino]]
-
-## See Also
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 

@@ -133,8 +133,6 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 
 - **Previous:** [[1999 - Homeworld]]
 - **Next:** [[2003 - Homeworld 2]] (2003)
-
-## See Also
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
 

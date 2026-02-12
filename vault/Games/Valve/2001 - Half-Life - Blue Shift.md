@@ -255,7 +255,6 @@ In retrospect, Blue Shift's greatest contributions to the Half-Life franchise we
 
 The expansion is notably the only Half-Life game without any boss fights, distinguishing it from both the original game and Opposing Force. This design choice, combined with the single jumping puzzle and streamlined progression, suggests that Gearbox consciously prioritized accessibility and narrative flow over challenge—a decision that retrospective criticism has generally vindicated even as contemporary reviews saw it as a shortcoming[^ref-5].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/half-life-blue-shift)
@@ -279,8 +278,6 @@ The expansion maintains strict continuity with established Half-Life lore, with 
 
 - **Previous:** [[1999 - Half-Life - Opposing Force]]
 - **Next:** [[2001 - Half-Life - Blue Shift]]
-
-## See Also
 - [[2001 - Deathmatch Classic|← Previous: Deathmatch Classic]]
 - [[2004 - Counter-Strike - Condition Zero|→ Next: Counter-Strike - Condition Zero]]
 

@@ -175,7 +175,6 @@ Tribes: Aerial Assault occupies a unique position in gaming history as a pioneer
 
 The game's adaptation of PC-style competitive multiplayer for console audiences represented an important bridge between gaming platforms at a time when online console gaming was still nascent. Though overshadowed by later online shooters, Tribes: Aerial Assault's dedicated community and the preservation efforts through private servers demonstrate the lasting appeal of its jetpack-enabled aerial combat formula.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -197,8 +196,6 @@ Tribes: Aerial Assault represents the third installment in the Tribes franchise,
 
 - **Previous:** [[2001 - Tribes 2]]
 - **Next:** Tribes: Vengeance (2004)
-
-## See Also
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
 
 ## References

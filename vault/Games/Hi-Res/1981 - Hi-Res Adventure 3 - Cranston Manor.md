@@ -163,7 +163,6 @@ Cranston Manor occupies an important but often overlooked position in Sierra's h
 
 The game's straightforward treasure-hunting premise and two-word parser system reflect the design conventions of early 1980s adventure gaming. While these elements may seem primitive by modern standards, they represent the state of the art for home computer entertainment at the time. The Hi-Res Adventures series as a whole helped establish conventions that would influence adventure game design for years to come, even as Sierra's own technology evolved dramatically with the introduction of AGI and later SCI engines[^ref-1][^ref-8].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -185,8 +184,6 @@ The Hi-Res Adventures laid the groundwork for Sierra's future success with the K
 
 - **Previous:** [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
 - **Next:** [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
-
-## See Also
 - [[1980 - Hi-Res Soccer|← Previous: Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|→ Next: Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 

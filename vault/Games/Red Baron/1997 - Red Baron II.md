@@ -244,8 +244,6 @@ The series would later see Red Baron Arcade in 2008, developed by Stainless Game
 
 - **Previous:** [[1992 - Red Baron - Mission Builder]]
 - **Next:** [[1998 - Red Baron 3D]]
-
-## See Also
 - [[1992 - Red Baron - Mission Builder|← Previous: Red Baron - Mission Builder]]
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
 

@@ -282,8 +282,6 @@ The series demonstrated Dynamix's ability to apply their simulation expertise be
 - **Next:** Driver's Education '99 (1998)
 
 The game is documented in gaming databases.[^ref-19][^ref-20][^ref-21]
-
-## See Also
 - [[1998 - Grand Prix Legends|→ Next: Grand Prix Legends]]
 
 ## References

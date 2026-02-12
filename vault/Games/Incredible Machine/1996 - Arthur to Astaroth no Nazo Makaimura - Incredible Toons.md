@@ -190,7 +190,6 @@ Arthur to Astaroth no Nazo Makaimura occupies a curious position in gaming histo
 
 The game demonstrates how established puzzle frameworks could be successfully adapted with new intellectual properties, predating the modern trend of franchise crossovers by decades. For collectors and enthusiasts of either parent franchise, the game represents a rare and unusual artifact worthy of preservation[^ref-5]. Its strong user ratings suggest that despite its obscurity, those who have played it found genuine entertainment value in its unique premise[^ref-14][^ref-2].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -214,8 +213,6 @@ The game features characters, music, and items from the Makaimura series while a
 
 **Ghosts 'n Goblins Series:**
 - Spinoff title; does not directly continue the main series timeline
-
-## See Also
 - [[1995 - The Incredible Machine 3.0|← Previous: The Incredible Machine 3.0]]
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]
 
@@ -235,14 +232,11 @@ The game features characters, music, and items from the Makaimura series while a
 
 [^ref-7]: [RomStation](https://www.romstation.fr/games/psx/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-r67733/) – gameplay description, mechanics, objectives
 
-
 [^ref-9]: [MobyGames – Releases Page](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/releases/) – Dynamix license, release details
 
 [^ref-10]: [romsfun.com](https://romsfun.com/roms/playstation/arthur-to-astaroth-no-nazo-maikamura-incredible-toons.html) – Sid & Al's connection, 100 puzzles, puzzle editor, Sierra On-Line 1993 release
 
-
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – 100 puzzles, achievement names, progression structure
-
 
 [^ref-14]: [Emuparadise](https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan)/53424-download) – user ratings, file size, platform confirmation
 

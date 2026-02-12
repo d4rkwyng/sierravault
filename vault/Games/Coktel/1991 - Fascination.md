@@ -250,8 +250,6 @@ While *Fascination* is a standalone title, its protagonist Doralice May returns 
 
 - **Previous (Mature Line):** *Geisha* (1990)
 - **Related:** [[1993 - Lost in Time]] (features Doralice)
-
-## See Also
 - [[1991 - E.S.S. Mega|← Previous: E.S.S. Mega]]
 - [[1992 - Bargon Attack|→ Next: Bargon Attack]]
 

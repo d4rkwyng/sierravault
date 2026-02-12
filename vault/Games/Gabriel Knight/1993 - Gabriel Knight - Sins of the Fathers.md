@@ -355,8 +355,6 @@ The gospel hymn "When the Saints Go Marching In" appears in every Gabriel Knight
 - **Previous:** None (series beginning)
 - **Next:** [[1995 - The Beast Within - A Gabriel Knight Mystery]]
 - **20th Anniversary Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-
-## See Also
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|→ Next: The Beast Within - A Gabriel Knight Mystery]]
 

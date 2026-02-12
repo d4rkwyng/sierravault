@@ -290,8 +290,6 @@ Phantasmagoria was Roberta Williams' sixteenth adventure game and represented a 
 The game spawned a sequel, *Phantasmagoria: A Puzzle of Flesh* (1996), which was developed by a different team and featured an entirely new story and protagonist unconnected to Adrienne Delaney's tale[^ref-29]. The sequel maintained the FMV adventure format but shifted to a psychological thriller setting.
 
 - **Next:** [[1996 - Phantasmagoria - A Puzzle of Flesh]]
-
-## See Also
 - [[1996 - Phantasmagoria - A Puzzle of Flesh|→ Next: Phantasmagoria - A Puzzle of Flesh]]
 
 ## References

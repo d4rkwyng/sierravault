@@ -204,8 +204,6 @@ The game's commercial failure did not end the Hi-Res Adventures line, which cont
 
 - **Previous:** [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - **Next:** [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
-
-## See Also
 - [[1982 - Adventure in Serenia|← Previous: Adventure in Serenia]]
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal|→ Next: Hi-Res Adventure 6 - The Dark Crystal]]
 

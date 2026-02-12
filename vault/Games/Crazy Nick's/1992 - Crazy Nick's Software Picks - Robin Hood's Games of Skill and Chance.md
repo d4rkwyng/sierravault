@@ -216,8 +216,6 @@ The Crazy Nick's series also includes connections to King's Quest (through King 
 
 - **Previous:** [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - **Next:** [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
-
-## See Also
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|← Previous: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|→ Next: Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 

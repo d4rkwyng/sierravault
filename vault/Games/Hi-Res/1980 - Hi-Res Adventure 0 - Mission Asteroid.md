@@ -172,8 +172,6 @@ The complete Hi-Res Adventure series from Sierra included:
 5. **Hi-Res Adventure #4: Ulysses and the Golden Fleece** (1981) - Greek mythology adventure
 6. **Hi-Res Adventure #5: Time Zone** (1982) - Epic time-travel adventure
 7. **Hi-Res Adventure #6: The Dark Crystal** (1982) - Licensed adventure based on the film
-
-## See Also
 - [[1980 - Hi-Res Adventure 1 - Mystery House|→ Next: Hi-Res Adventure 1 - Mystery House]]
 
 ## References

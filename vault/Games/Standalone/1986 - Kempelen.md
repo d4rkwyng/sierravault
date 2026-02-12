@@ -220,7 +220,6 @@ From a historical perspective, the game reflects the state of computer chess in 
 
 The software's historical connections to Wolfgang von Kempelen and the legacy of The Turk provide cultural context that elevates the program beyond mere functionality[^ref-4]. This thematic depth, combined with the involvement of Grandmaster István Bilek in development, demonstrates an attempt to create a chess program with both educational value and authentic chess credentials[^ref-1]. While not widely remembered today, Kempelen serves as documentation of both Sierra's diverse publishing catalog and the evolution of computer chess software during a formative period in gaming history.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -247,8 +246,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 Kempelen is a standalone chess program and is not part of a larger game series. It represents Sierra On-Line's occasional ventures into publishing strategy and simulation software during the 1980s, alongside their primary focus on adventure games.
 
 As a chess program, Kempelen exists within the broader context of computer chess development rather than narrative game series. It competed against other chess programs of its era at World Microcomputer Chess Championships, connecting it to the competitive history of artificial intelligence in gaming[^ref-1].
-
-## See Also
 - [[1985 - The Crimson Crown|← Previous: The Crimson Crown]]
 - [[1986 - Wrath of Denethenor|→ Next: Wrath of Denethenor]]
 

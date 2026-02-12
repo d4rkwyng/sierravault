@@ -278,7 +278,6 @@ The game's influence on competitive gaming cannot be overstated. Counter-Strike 
 
 From a design perspective, Counter-Strike's success stemmed from its elegant simplicity. The core loop of team-based objective play with persistent round-to-round economy created emergent strategic depth from relatively straightforward mechanics.[^ref-9] As one MobyGames reviewer noted, "The best Artificial Intelligence (AI) in gaming is called Human Intelligence"—Counter-Strike's genius was recognizing that human opponents provided infinite replayability that no scripted campaign could match.[^ref-25]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/counter-strike)
@@ -305,8 +304,6 @@ The game's connection to the Half-Life universe is largely technical—both game
 
 - **Previous:** [[1998 - Half-Life]]
 - **Next:** [[2004 - Counter-Strike - Condition Zero]]
-
-## See Also
 - [[1999 - Team Fortress Classic|← Previous: Team Fortress Classic]]
 - [[2000 - Gunman Chronicles|→ Next: Gunman Chronicles]]
 

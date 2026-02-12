@@ -263,8 +263,6 @@ Red Baron was the first game in Dynamix's "Great Warplanes Series," which would 
 
 - **Previous:** [[1990 - Red Baron]]
 - **Next:** [[1997 - Red Baron II]]
-
-## See Also
 - [[1990 - Red Baron|← Previous: Red Baron]]
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
 

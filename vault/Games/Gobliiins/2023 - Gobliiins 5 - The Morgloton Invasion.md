@@ -209,8 +209,6 @@ The fifth installment consciously distances itself from Gobliiins 4's approach w
 
 - **Previous:** [[2009 - Gobliiins 4]]
 - **Next:** Gobliiins 6 (TBA) (in development)
-
-## See Also
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
 
 ## References

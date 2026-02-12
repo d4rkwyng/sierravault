@@ -202,8 +202,6 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 ## See Also
 
 While Ricochet is technically part of the Half-Life family of GoldSrc games, it shares no narrative or gameplay connections with Half-Life or its expansions. The game stands alone as a unique multiplayer experience that happened to use the same engine and distribution channels as Valve's flagship shooter.
-
-## See Also
 - [[2000 - Gunman Chronicles|← Previous: Gunman Chronicles]]
 - [[2001 - Deathmatch Classic|→ Next: Deathmatch Classic]]
 

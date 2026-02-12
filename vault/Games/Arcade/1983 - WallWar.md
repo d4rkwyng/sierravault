@@ -185,7 +185,6 @@ Wallwar occupies a curious position in Sierra's history as one of the company's 
 
 The development story behind Wallwar is perhaps more significant than the game itself, illustrating the volatile nature of the early game industry. Peter Oliphant's experience—developing games as a "moonlighting" project, facing legal challenges from his employer, and ultimately creating a commercial failure despite technical innovation—reflects the precarious position of game developers in the pre-established industry era[^ref-3]. The game serves as a reminder that Sierra, while best known for adventure games, explored multiple genres during its formative years, with varying degrees of success[^ref-3].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -206,8 +205,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 Wallwar is a standalone title and not part of any game series[^ref-1][^ref-11]. It represents Peter Oliphant's first commercial game release, followed by Mr. Cool, which was also published by Sierra On-Line and similarly failed to achieve commercial success[^ref-3]. The game is documented in multiple game databases and preservation archives[^ref-10][^ref-12].
 
 The game was released during Sierra On-Line's expansion period in the early 1980s, when the company was exploring various game genres beyond their adventure game roots[^ref-3][^ref-7]. The SierraVision label under which Wallwar was released was short-lived[^ref-3][^ref-9], and Sierra would eventually focus predominantly on adventure games that became their signature products.
-
-## See Also
 - [[1983 - Sammy Lightfoot|← Previous: Sammy Lightfoot]]
 
 ## References

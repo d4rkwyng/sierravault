@@ -143,8 +143,6 @@ Caesar II is the second installment in the Caesar series, following the original
 **Caesar Series:**
 - **Previous:** Caesar (1992)
 - **Next:** [[1998 - Caesar III|Caesar III]] (1998)
-
-## See Also
 - [[1992 - Caesar|← Previous: Caesar]]
 - [[1998 - Caesar III|→ Next: Caesar III]]
 

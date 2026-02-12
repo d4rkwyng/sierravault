@@ -207,8 +207,6 @@ The broader Hoyle series extended from 1989's Hoyle's Official Book of Games: Vo
 
 - **Related:** [[1993 - Hoyle Classic Card Games]] (parent compilation)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
-
-## See Also
 - [[1991 - Hoyle Official Book of Games - Volume 4|← Previous: Hoyle Official Book of Games - Volume 4]]
 - [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
 

@@ -189,7 +189,6 @@ While never achieving the commercial impact of mainstream sports franchises, Pro
 
 The franchise's continued existence through mobile and console titles decades later demonstrates the enduring appeal of the bull riding simulation concept that Sierra Sports pioneered.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -208,8 +207,6 @@ The franchise's continued existence through mobile and console titles decades la
 Professional Bull Rider was the first game in Sierra Sports' bull riding franchise, establishing the core gameplay mechanics and authentic PBR integration that would carry forward into the sequel. The game set the template for future PBR-licensed titles, demonstrating the viability of bull riding as a video game subject.
 
 - **Next:** Professional Bull Rider 2 (2000)
-
-## See Also
 - [[1998 - Sierra Sports Skiing 1999 Edition|← Previous: Sierra Sports Skiing 1999 Edition]]
 
 ## References

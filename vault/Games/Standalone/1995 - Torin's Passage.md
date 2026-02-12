@@ -107,8 +107,6 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 
 - **Previous:** None
 - **Next:** None (planned sequels were never produced)
-
-## See Also
 - [[1995 - The Ruins of Cawdor|← Previous: The Ruins of Cawdor]]
 - [[1996 - Lighthouse - The Dark Being|→ Next: Lighthouse - The Dark Being]]
 

@@ -237,8 +237,6 @@ The ski racing entries represented an attempt to diversify the Front Page Sports
 The Front Page Sports brand itself declined following Sierra's corporate changes in the late 1990s and early 2000s, with the company eventually being absorbed into other entities and the simulation-focused approach falling out of favor in mainstream sports gaming.
 
 - **Previous:** [[1997 - Front Page Sports - Ski Racing]]
-
-## See Also
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
@@ -266,7 +264,5 @@ The Front Page Sports brand itself declined following Sierra's corporate changes
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – official patches availability, Sierra publisher confirmation
 
 [^ref-12]: [Steam Store – Search Results](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Ski+Racing+%2799) – game not available on Steam platform
-
-
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist) – Community wishlist for digital re-release

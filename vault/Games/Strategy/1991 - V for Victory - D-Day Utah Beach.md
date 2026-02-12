@@ -189,8 +189,6 @@ The series maintained a focus on Western and Eastern Front battles, with each su
 
 - **Previous:** None (First in series)
 - **Next:** V for Victory: Velikiye Luki
-
-## See Also
 - [[1991 - The Charge of the Light Brigade|← Previous: The Charge of the Light Brigade]]
 - [[1993 - Global Domination|→ Next: Global Domination]]
 

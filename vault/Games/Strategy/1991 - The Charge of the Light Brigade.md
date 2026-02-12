@@ -207,8 +207,6 @@ The Charge of the Light Brigade was part of Impressions Games' informal "Micro M
 - **Related:** Cohort (1991) – Roman warfare simulation using the same engine
 
 Impressions would later shift focus to city-building games including Caesar (1992) and the Caesar II-IV series, as well as Pharaoh (1999) and Zeus: Master of Olympus (2000) after their acquisition by Sierra On-Line in 1995[^ref-7].
-
-## See Also
 - [[1987 - The Ancient Art of War at Sea|← Previous: The Ancient Art of War at Sea]]
 - [[1991 - V for Victory - D-Day Utah Beach|→ Next: V for Victory - D-Day Utah Beach]]
 

@@ -224,8 +224,6 @@ The game was released during a transitional period for Coktel Vision, shortly be
 
 - **Spiritual Predecessor:** Legend of Djel (1989)
 - **Related Series:** Gobliiins (1991-1993)
-
-## See Also
 - [[1992 - Bargon Attack|← Previous: Bargon Attack]]
 - [[1993 - Lost in Time|→ Next: Lost in Time]]
 

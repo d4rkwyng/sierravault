@@ -284,8 +284,6 @@ Cleopatra: Queen of the Nile exists within Impressions Games' broader city-build
 6. **Zeus: Master of Olympus** (2000)
 7. **Poseidon: Master of Atlantis** (2001) - Expansion
 8. **Emperor: Rise of the Middle Kingdom** (2002)
-
-## See Also
 - [[1999 - Pharaoh|← Previous: Pharaoh]]
 
 ## References

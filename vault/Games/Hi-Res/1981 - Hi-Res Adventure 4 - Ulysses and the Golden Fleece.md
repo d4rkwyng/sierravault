@@ -221,8 +221,6 @@ The Hi-Res Adventure series established many conventions that would become stand
 
 - **Previous:** [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
 - **Next:** [[1982 - Hi-Res Adventure 5 - Time Zone]]
-
-## See Also
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|← Previous: Hi-Res Adventure 3 - Cranston Manor]]
 - [[1982 - Adventure in Serenia|→ Next: Adventure in Serenia]]
 

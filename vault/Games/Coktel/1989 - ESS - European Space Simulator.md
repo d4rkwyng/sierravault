@@ -215,7 +215,6 @@ The game's 2010 setting now provides an unintentional time capsule of 1989 expec
 
 For modern players, E.S.S. holds value primarily as a historical curiosity—"one of the rarest space simulations"[^ref-2]—rather than as a compelling gameplay experience. Its place in Coktel Vision's catalog, a company better known for quirky adventure games, makes it an unusual outlier worth examining for those interested in the French developer's diverse output.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -241,8 +240,6 @@ E.S.S. spawned one direct sequel that expanded upon the original's concepts whil
 Both games share the same core gameplay loop of managing European space shuttle operations, with E.S.S. Mega notably recreating "ESA's space vehicle concepts of the early 1990, specially the Hermes Shuttle"—the planned European crewed spaceplane that was ultimately cancelled in 1992.[^ref-16]
 
 - **Next:** [[1991 - E.S.S. Mega]]
-
-## See Also
 - [[1989 - Asterix - Operation Getafix|← Previous: Asterix - Operation Getafix]]
 - [[1989 - Emmanuelle|→ Next: Emmanuelle]]
 

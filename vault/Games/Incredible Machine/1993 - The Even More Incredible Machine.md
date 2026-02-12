@@ -241,8 +241,6 @@ The series would continue to evolve with The Incredible Machine 2 in 1994, which
 
 - **Previous:** [[1992 - The Incredible Machine]]
 - **Next:** [[1994 - The Incredible Machine 2]]
-
-## See Also
 - [[1993 - Sid & Al's Incredible Toons|← Previous: Sid & Al's Incredible Toons]]
 - [[1994 - The Incredible Machine 2|→ Next: The Incredible Machine 2]]
 

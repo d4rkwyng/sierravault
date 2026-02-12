@@ -192,7 +192,6 @@ The series' approach of featuring animation, multiple interconnected tables, and
 
 The commercial success of the series—over half a million copies by 1998[^ref-2]—demonstrated a significant market appetite for accessible, visually impressive pinball games during the multimedia gaming boom. Power! served as both a capstone collection of this successful formula and an entry point for new players discovering the series.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -214,8 +213,6 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 
 - **Previous:** [[1998 - 3-D Ultra NASCAR Pinball]]
 - **Next:** [[2000 - 3-D Ultra Pinball - Thrill Ride]]
-
-## See Also
 - [[1999 - 3-D Ultra Lionel TrainTown|← Previous: 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
 

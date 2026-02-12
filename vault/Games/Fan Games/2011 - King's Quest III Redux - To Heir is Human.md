@@ -241,7 +241,6 @@ The darker themes of King's Quest III—involving black magic, child enslavement
 
 For fans of classic adventure gaming, King's Quest III Redux represents both an excellent entry point to the series and a worthwhile revisit for those who remember the original. Its combination of faithful storytelling, modernized mechanics, and abundant fan service makes it a fitting tribute to Sierra's legacy and a worthy conclusion to AGD Interactive's remarkable run of fan remakes.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -269,8 +268,6 @@ AGD Interactive's remake also connects to their own continuity established in Ki
 - **Previous:** [[2002 - King's Quest II+ - Romancing the Stones]] (AGD Interactive remake)
 - **Related Original:** [[1986 - King's Quest III - To Heir Is Human]] (Sierra original)
 - **Story Sequel:** [[1988 - King's Quest IV - The Perils of Rosella]]
-
-## See Also
 - [[2010 - The Silver Lining|← Previous: The Silver Lining]]
 - [[2011 - Space Quest - Vohaul Strikes Back|→ Next: Space Quest - Vohaul Strikes Back]]
 

@@ -290,7 +290,6 @@ For Gearbox Software, Opposing Force launched a trajectory that would eventually
 
 The game's narrative decision to tell a familiar story from the enemy's perspective influenced later games exploring similar concepts. While Shephard's story has never been continued in the Half-Life universe—with Valve treating Race X and Shephard's fate as deliberately ambiguous—the character and expansion remain beloved by fans. As one modern reviewer noted: "When I play this game, I feel like playing a familiar game with an entirely fresh experience"[^ref-9].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/half-life-opposing-force)
@@ -318,8 +317,6 @@ The expansion introduces Race X, an alien faction that exists independently from
 
 - **Previous:** [[1998 - Half-Life]]
 - **Next:** [[2001 - Half-Life - Blue Shift]]
-
-## See Also
 - [[1998 - Half-Life|← Previous: Half-Life]]
 - [[1999 - Team Fortress Classic|→ Next: Team Fortress Classic]]
 

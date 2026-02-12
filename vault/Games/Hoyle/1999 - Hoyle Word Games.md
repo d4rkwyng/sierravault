@@ -172,7 +172,6 @@ Hoyle Word Games represented Sierra's attempt to diversify the Hoyle brand beyon
 
 The game's integration of Won.net online play was forward-thinking for 1999, though this feature has not survived the passage of time.[^ref-2] The inclusion of a complete Webster's dictionary demonstrated Sierra's commitment to providing comprehensive tools for word game enthusiasts, setting it apart from simpler word game offerings.[^ref-2] While not as celebrated as Sierra's adventure game catalog, Hoyle Word Games served as a reliable entry in the company's casual gaming lineup, offering solid word puzzle entertainment for families seeking vocabulary challenges.[^ref-4]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -200,8 +199,6 @@ The Hoyle series continued to evolve after this release, with subsequent titles 
 
 - **Previous:** [[1997 - Hoyle Classic Board Games]]
 - **Next:** [[2001 - Hoyle Word Games]]
-
-## See Also
 - [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
 

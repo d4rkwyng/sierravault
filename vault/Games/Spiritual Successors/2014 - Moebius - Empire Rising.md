@@ -137,8 +137,6 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 
 - **Previous:** None (series debut)
 - **Next:** None (planned sequels unreleased)
-
-## See Also
 - [[2013 - Fester Mudd - Curse of the Gold|← Previous: Fester Mudd - Curse of the Gold]]
 - [[2014 - Quest for Infamy|→ Next: Quest for Infamy]]
 

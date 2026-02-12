@@ -197,7 +197,6 @@ From a design perspective, the game occupied an awkward middle ground between th
 
 The game has been largely forgotten in discussions of colonial-era strategy games, overshadowed entirely by Colonization, which addressed similar themes with far greater polish and depth. Its primary historical significance lies in demonstrating the risks of tying game development to external cultural events and the importance of robust playtesting and interface design.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/discovery-in-the-steps-of-columbus-1992)
@@ -206,7 +205,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
-
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – Playable DOS version via emulation[^ref-17]
@@ -219,8 +217,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 ## See Also
 
 Discovery: In the Steps of Columbus is a standalone title and not part of an ongoing series. While Impressions would go on to develop numerous historical strategy games including the Caesar and Lords of the Realm series, Discovery did not receive any sequels or direct follow-ups.
-
-## See Also
 - [[1992 - Conquest of Japan|← Previous: Conquest of Japan]]
 - [[1993 - Cohort II - Fighting for Rome|→ Next: Cohort II - Fighting for Rome]]
 

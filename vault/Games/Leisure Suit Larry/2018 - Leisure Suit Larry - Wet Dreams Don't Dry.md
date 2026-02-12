@@ -129,8 +129,6 @@ Leisure Suit Larry: Wet Dreams Don't Dry marks Larry Laffer's triumphant return 
 
 **See also:**
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2013 - Leisure Suit Larry - Reloaded|← Previous: Leisure Suit Larry - Reloaded]]
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]

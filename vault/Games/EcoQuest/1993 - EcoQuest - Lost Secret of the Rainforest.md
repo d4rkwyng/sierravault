@@ -219,8 +219,6 @@ The game's emphasis on consequences for environmental destruction—whether thro
 The game shares thematic DNA with *EcoQuest: The Search for Cetus* in its focus on environmental protection and the impact of human greed on natural ecosystems, but the specific story and characters (aside from Adam and Noah) are entirely new. No sequel followed *Lost Secret of the Rainforest*, making it the conclusion of the EcoQuest storyline.[^ref-7]
 
 - **Previous:** [[1991 - EcoQuest - The Search for Cetus]]
-
-## See Also
 - [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
 
 ## References

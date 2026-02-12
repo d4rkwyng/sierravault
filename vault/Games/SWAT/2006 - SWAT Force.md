@@ -199,8 +199,6 @@ The game maintains thematic connections to the broader franchise[^ref-6][^ref-11
 
 - **Previous:** [[2005 - SWAT 4]]
 - **Next:** N/A (Final mobile entry in series)[^ref-11]
-
-## See Also
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|← Previous: SWAT 4 - The Stetchkov Syndicate]]
 - [[2007 - SWAT - Target Liberty|→ Next: SWAT - Target Liberty]]
 

@@ -210,8 +210,6 @@ Quest for Glory I: So You Want to Be a Hero (originally titled Hero's Quest) int
 
 **See also:**
 - [[1998 - Quest for Glory V - Dragon Fire]] – Series finale
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|→ Next: Quest for Glory II - Trial by Fire]]
 

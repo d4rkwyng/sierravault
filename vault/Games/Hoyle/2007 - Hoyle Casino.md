@@ -166,7 +166,6 @@ The game's most significant legacy may be its documentation of customer service 
 
 From a preservation standpoint, the game's Windows XP-era compatibility requirements and lack of modern platform support have made it increasingly difficult to experience, a common fate for casual games from this transitional period in PC gaming[^ref-8][^ref-10].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -185,8 +184,6 @@ Hoyle Casino 2007 continues the annual release schedule established by Sierra En
 
 - **Previous:** [[2005 - Hoyle Casino 3D]]
 - **Next:** [[2015 - Hoyle Official Card Games Collection]]
-
-## See Also
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
 - [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
 

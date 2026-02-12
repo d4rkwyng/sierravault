@@ -124,8 +124,6 @@ The game's influence on the action genre is evident in how it "paved the way for
 ## See Also
 
 - **Next:** [[1989 - Fire Hawk - Thexder - The Second Contact]]
-
-## See Also
 - [[1989 - Fire Hawk - Thexder - The Second Contact|→ Next: Fire Hawk - Thexder - The Second Contact]]
 
 ## References

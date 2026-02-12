@@ -137,8 +137,6 @@ The series' influence can be seen in modern football management games, and its e
 
 - **Previous:** [[1992 - Front Page Sports Football 92]]
 - **Next:** [[1994 - Front Page Sports - Football Pro '95]]
-
-## See Also
 - [[1992 - Front Page Sports Football 92|← Previous: Front Page Sports Football 92]]
 - [[1994 - Front Page Sports - Baseball Pro|→ Next: Front Page Sports - Baseball Pro]]
 

@@ -148,8 +148,6 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 
 - **Previous:** Mixed-Up Mother Goose Enhanced (1990)
 - **Next:** Mixed-Up Fairy Tales (1991)
-
-## See Also
 - [[1991 - Mixed-Up Fairy Tales|← Previous: Mixed-Up Fairy Tales]]
 
 ## References

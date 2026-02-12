@@ -195,8 +195,6 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 - **Next:** [[2005 - Hoyle Poker Series]] (2005)
 
 The game is documented in gaming databases.[^ref-19][^ref-20][^ref-21][^ref-22][^ref-23]
-
-## See Also
 - [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
 

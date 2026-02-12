@@ -141,8 +141,6 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 
 - **Previous:** Various Hoyle card and board game collections (1989-1999)
 - **Next:** Hoyle Crosswords & Sudoku (later release)
-
-## See Also
 - [[2000 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 

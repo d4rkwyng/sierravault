@@ -148,8 +148,6 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 
 - **Previous:** [[1993 - IndyCar Racing]]
 - **Next:** Series concluded; later renamed to CART Racing due to licensing changes
-
-## See Also
 - [[1993 - IndyCar Racing|← Previous: IndyCar Racing]]
 - [[1997 - CART Racing|→ Next: CART Racing]]
 

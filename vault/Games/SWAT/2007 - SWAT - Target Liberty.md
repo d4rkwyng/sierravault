@@ -203,7 +203,6 @@ SWAT: Target Liberty represents an interesting but flawed experiment in adapting
 
 The game's legacy is largely one of missed potential. Critics consistently acknowledged that the foundation—tactical squad management, multiple entry techniques, less-than-lethal options—was sound, but poor ally AI, repetitive mission design, and pacing issues undermined the experience.[^ref-17] As a historical artifact, Target Liberty demonstrates both the ambition of late-era Sierra Entertainment projects and the challenges of maintaining franchise identity across dramatically different platforms. It remains a curiosity for SWAT franchise completionists and PSP collectors, though its gameplay has not aged well enough to attract new players seeking hidden gems on the platform.[^ref-27]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -226,8 +225,6 @@ SWAT: Target Liberty is part of the long-running Police Quest/SWAT franchise tha
 The game was designed to stand alone while maintaining the tactical ethos of the franchise. Development was overseen with authentic SWAT consultation to preserve the series' commitment to realistic law enforcement procedures, though the final product leaned more toward action than its PC counterparts.[^ref-4] Target Liberty remains the only handheld entry in the SWAT franchise and, given its reception, represents the final original game in the series before Sierra's eventual dissolution.
 
 - **Previous:** [[2005 - SWAT 4]]
-
-## See Also
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
 
 ## References

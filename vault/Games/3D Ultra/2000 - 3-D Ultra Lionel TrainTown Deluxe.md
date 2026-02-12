@@ -211,8 +211,6 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 
 - **Previous:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
 - **Next:** [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
-
-## See Also
 - [[1999 - 3-D Ultra Radio Control Racers|← Previous: 3-D Ultra Radio Control Racers]]
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
 

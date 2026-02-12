@@ -208,7 +208,6 @@ Adiboo: Magical Playland represents a fascinating artifact of 1990s edutainment 
 
 The game occupies an interesting position within Sierra's broader catalog as a Coktel Vision production that received Sierra distribution. While Sierra is primarily remembered for adventure games targeting older audiences, their involvement with educational titles like Adiboo demonstrates the company's broader market ambitions during the 1990s. Coktel Vision's eventual closure in 2005 marked the end of an era for this style of French edutainment software[^ref-9]. Today, the game's technical compatibility issues present barriers to preservation and accessibility, requiring emulation rather than standard virtualization to run properly[^ref-5][^ref-12].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -232,8 +231,6 @@ The game shares DNA with other Coktel Vision educational products, including Pla
 
 - **Previous:** Adibou (original French release)
 - **Next:** ADIBOU présente la Magie (2000)
-
-## See Also
 - [[1992 - A.J.'s World of Discovery|← Previous: A.J.'s World of Discovery]]
 - [[2003 - Adiboo - Paziral's Secret|→ Next: Adiboo - Paziral's Secret]]
 

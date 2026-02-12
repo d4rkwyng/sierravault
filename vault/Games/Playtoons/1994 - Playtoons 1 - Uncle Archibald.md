@@ -176,7 +176,6 @@ While the game never achieved the recognition of Sierra's flagship adventure tit
 
 The series continued with at least four additional installments: Playtoons 2: The Case of the Counterfeit Collaborator, Playtoons 3: The Secret of the Castle, Playtoons 4: The Mandarine Prince, and Playtoons № 5: La Pierre de Wakan.[^ref-12] Each maintained the same dual structure of unique story content and shared construction tools.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-1-uncle-archibald)
@@ -200,8 +199,6 @@ Playtoons 1: Featuring Uncle Archibald launched the Playtoons series of interact
 The Uncle Archibald story, with its magical mishap and monster-filled adventure, established the series' approach of combining whimsical narratives with creative gameplay. Subsequent entries would feature different stories and characters—including licensed properties like Spirou and Fantasio—while maintaining the same construction game foundation.[^ref-15] The series expanded with additional entries including Playtoons 3: The Secret of the Castle[^ref-16] and Playtoons 4: The Mandarine Prince[^ref-17], all sharing the same construction tools. The game was also released for Macintosh platforms.[^ref-18]
 
 - **Next:** [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
-
-## See Also
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|→ Next: Playtoons 2 - The Case of the Counterfeit Collaborator]]
 
 ## References

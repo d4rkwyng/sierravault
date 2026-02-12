@@ -118,8 +118,6 @@ The Special Edition release in 2000 attempted to address many of the original ga
 
 - **Previous:** [[1996 - Lords of the Realm II]]
 - **Next:** None (end of series)
-
-## See Also
 - [[1998 - Lords of Magic - Special Edition|→ Next: Lords of Magic - Special Edition]]
 
 ## References

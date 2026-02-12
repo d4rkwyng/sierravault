@@ -205,7 +205,6 @@ The game's emphasis on education and instruction over pure entertainment reflect
 
 The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyle Casino 2008, Hoyle Casino 3D, and various Hoyle Card Games editions—demonstrate the extensive product family that the Hoyle brand supported[^ref-9]. This ecosystem of related titles established Hoyle as the dominant brand in PC casino simulation throughout the 1990s and 2000s.[^ref-10][^ref-11] Under Encore Software's management, the Hoyle brand continued to thrive in the casual gaming market.[^ref-12]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -230,8 +229,6 @@ The series' transition from Sierra Entertainment's direct publication to Encore 
 
 - **Previous:** [[2005 - Hoyle Casino 3D]]
 - **Next:** [[2007 - Hoyle Casino]]
-
-## See Also
 - [[2005 - Hoyle Texas Hold Em|← Previous: Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
 

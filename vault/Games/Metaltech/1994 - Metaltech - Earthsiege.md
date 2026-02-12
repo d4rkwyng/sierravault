@@ -167,8 +167,6 @@ The game has been preserved and made playable on modern systems through the effo
 
 - **Previous:** [[1994 - Metaltech - Battledrome]]
 - **Next:** [[1996 - Earthsiege 2]]
-
-## See Also
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
 

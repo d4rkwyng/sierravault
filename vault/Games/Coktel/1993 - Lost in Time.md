@@ -249,8 +249,6 @@ Lost in Time is technically a standalone title, though its protagonist Doralice 
 
 - **Previous:** Fascination (1991) – Same protagonist, adult-oriented adventure
 - **Next:** None – Lost in Time was Doralice's final appearance
-
-## See Also
 - [[1992 - Ween - The Prophecy|← Previous: Ween - The Prophecy]]
 - [[1995 - The Last Dynasty|→ Next: The Last Dynasty]]
 

@@ -163,7 +163,6 @@ King's Quest III holds a unique place in adventure gaming history as one of the 
 
 The existence of multiple fan remakes of this particular title (Infamous Adventures in 2006 and AGD Interactive in 2011) speaks to the game's lasting significance in the adventure gaming community. As one AGS community reviewer noted, this is considered by many to be the "Best KQ chapter" where "Gwydion is sort of new Graham"[^ref-5]. The remake's continued availability and positive reception nearly two decades after release demonstrates the enduring appeal of both the source material and the fan community's preservation efforts.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -191,8 +190,6 @@ The fan remake faithfully preserves these story connections while updating the p
 
 - **Previous (Original Series):** [[1985 - King's Quest II - Romancing the Throne]]
 - **Next (Original Series):** [[1988 - King's Quest IV - The Perils of Rosella]]
-
-## See Also
 - [[2003 - Space Quest 0 - Replicated|← Previous: Space Quest 0 - Replicated]]
 - [[2008 - Quest for Glory II VGA Remake|→ Next: Quest for Glory II VGA Remake]]
 

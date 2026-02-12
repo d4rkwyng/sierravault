@@ -192,7 +192,6 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 - **Hoyle Rulebook and Strategy Guide:** Included free with the game[^ref-1]
 - **In-game Tutorials:** Built-in learning resources for each card game[^ref-5]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -220,8 +219,6 @@ Following Sierra's departure from the franchise, Encore, Inc. took over developm
 
 - **Previous:** [[2002 - Hoyle Card Games]]
 - **Next:** [[2005 - Hoyle Card Games]]
-
-## See Also
 - [[2003 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino]]
 

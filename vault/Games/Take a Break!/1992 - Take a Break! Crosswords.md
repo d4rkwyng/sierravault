@@ -164,7 +164,6 @@ Take a Break! Crosswords represents an important milestone in the evolution of c
 
 The game's design philosophy—creating bite-sized entertainment experiences for Windows users—presaged the casual gaming revolution that would transform the industry decades later[^ref-7]. Dynamix and Sierra's willingness to pursue this market, despite their reputation for larger-scale adventure and action titles, showed prescient awareness of computing's expanding role in daily life beyond dedicated gaming sessions[^ref-7].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -188,8 +187,6 @@ Take a Break! Crosswords was the inaugural title in Sierra and Dynamix's Take a 
 The success of Take a Break! Crosswords led directly to the development of Take a Break! Pinball in 1993, which featured eight pinball tables based on various popular Sierra game franchises[^ref-12][^ref-7]. Both games shared the common design philosophy of providing quick, accessible entertainment that could be easily started and stopped[^ref-7].
 
 - **Next:** [[1993 - Take a Break! Pinball]]
-
-## See Also
 - [[1993 - Take a Break! Pinball|→ Next: Take a Break! Pinball]]
 
 ## References

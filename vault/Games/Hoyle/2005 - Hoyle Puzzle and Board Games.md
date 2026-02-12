@@ -263,8 +263,6 @@ The game includes content from The Incredible Machine franchise, bridging Sierra
 
 - **Previous:** [[2003 - Hoyle Board Games]]
 - **Next:** [[2005 - Hoyle Card Games]]
-
-## See Also
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
 

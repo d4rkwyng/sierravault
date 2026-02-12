@@ -230,7 +230,6 @@ The game's greatest achievement was its comprehensive feature set. The combinati
 
 The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate Studios was sold, its talent moved to Electronic Arts to develop the Tiger Woods PGA Tour series, carrying forward lessons learned from the Sierra franchise.[^ref-2] The game remains playable today through abandonware preservation efforts, though modern compatibility requires technical workarounds.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/pga-championship-golf-1999-edition-1999)
@@ -254,8 +253,6 @@ PGA Championship Golf 2000 was the culmination of Sierra's golf simulation franc
 Following Sierra's sale of Headgate Studios in 1999, the franchise effectively ended, with the development team transitioning to create golf games for Electronic Arts.[^ref-2] This made PGA Championship Golf 2000 the final entry in Sierra's golf simulation lineage.
 
 - **Previous:** [[1999 - PGA Championship Golf 1999 Edition]]
-
-## See Also
 - [[1998 - PGA Championship Golf|← Previous: PGA Championship Golf]]
 - [[2000 - PGA Championship Golf 2000|→ Next: PGA Championship Golf 2000]]
 

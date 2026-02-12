@@ -116,8 +116,6 @@ The title represents an important entry in Sierra's diverse portfolio during the
 
 - **Previous:** Merchant Colony (spiritual predecessor)
 - **Next:** No direct sequel
-
-## See Also
 - [[1994 - Alien Legacy|← Previous: Alien Legacy]]
 - [[1996 - Birthright - The Gorgon's Alliance|→ Next: Birthright - The Gorgon's Alliance]]
 

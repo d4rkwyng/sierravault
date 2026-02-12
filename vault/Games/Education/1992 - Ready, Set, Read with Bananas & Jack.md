@@ -196,8 +196,6 @@ Within the Sierra Discovery Series, the title was released alongside *Pepper's A
 
 - **Previous:** [[1982 - Alphabet Blocks]]
 - **Next:** Turbo Learning: Mega Math (1993)
-
-## See Also
 - [[1984 - Wizard of Id's WizType|← Previous: Wizard of Id's WizType]]
 - [[1993 - Kids' Typing|→ Next: Kids' Typing]]
 

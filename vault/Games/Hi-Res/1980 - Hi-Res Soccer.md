@@ -141,8 +141,6 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 
 - **Related:** Hi-Res Football (1980) - companion American football game
 - **Series:** Part of the broader Hi-Res game series including various adventure titles
-
-## See Also
 - [[1980 - Hi-Res Football|← Previous: Hi-Res Football]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|→ Next: Hi-Res Adventure 3 - Cranston Manor]]
 

@@ -182,8 +182,6 @@ King's Quest (2015) is an episodic reboot of the King's Quest series developed b
 **See also:**
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]] – SCI remake of the original
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] – Often considered the series peak
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1998 - King's Quest - Mask of Eternity|← Previous: King's Quest - Mask of Eternity]]
 

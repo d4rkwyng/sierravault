@@ -117,8 +117,6 @@ Tribes 3: Rivals represents the latest attempt to revive a franchise that has st
 The game's struggles mirror those of Tribes: Ascend (2012), which also launched to initial enthusiasm before player counts declined sharply.[^ref-4] The community remains active on Discord[^ref-11] and Reddit[^ref-10], with dedicated players hoping for future updates despite Prophecy's shift in focus.
 
 The Tribes series remains influential in game design, with its skiing mechanic inspiring movement systems in other shooters. Whether Tribes 3: Rivals can recover from its rocky launch remains to be seen, but the game stands as a testament to the enduring appeal of the Dynamix-originated formula.[^ref-14]
-
-## See Also
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
 - [[1998 - Starsiege - Tribes|Series Origin: Starsiege: Tribes]]
 - [[1999 - Starsiege|Starsiege (mech game)]]

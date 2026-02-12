@@ -237,8 +237,6 @@ The game's successful sales enabled Richard Garriott to found Origin Systems, wh
 **Note:** Ultima I and Ultima III were not published by Sierra On-Line and are therefore not included in this archive. Ultima II is the only mainline Ultima game published by Sierra, though Sierra also published the obscure spinoff Ultima: Escape from Mt. Drash.
 
 - **Related:** [[1983 - Ultima - Escape from Mt. Drash]]
-
-## See Also
 - [[1983 - Ultima - Escape from Mt. Drash|→ Next: Ultima - Escape from Mt. Drash]]
 
 ## References

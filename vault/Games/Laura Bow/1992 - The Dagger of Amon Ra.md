@@ -314,8 +314,6 @@ A third Laura Bow game, *Parlor Games with Laura Bow* (1992), was released as a 
 
 - **Previous:** [[1989 - The Colonel's Bequest]]
 - **Next:** None (series concluded)
-
-## See Also
 - [[Laura Bow Series]] - Series overview
 - [[1989 - The Colonel's Bequest|← Previous: The Colonel's Bequest]]
 

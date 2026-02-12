@@ -228,8 +228,6 @@ This game has been included in[^ref-1]:
 
 - **Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984)
 - **Next:** [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] (1986)
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest - Quest for the Crown]]
 - [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III - To Heir Is Human]]

@@ -216,8 +216,6 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 Jawbreaker spawned a sequel, Jawbreaker II, released in 1983 for multiple home computer platforms[^ref-7]. While the original game was a Pac-Man clone, the sequel departed significantly from this formula, instead adopting gameplay more similar to the unique design created for the Atari 2600 version of the first game[^ref-7]. The series represents Sierra On-Line's early efforts in action gaming before the company became primarily known for adventure games like Mystery House and the King's Quest series[^ref-15].
 
 - **Next:** [[1982 - Jawbreaker II]]
-
-## See Also
 - [[1982 - Jawbreaker II|→ Next: Jawbreaker II]]
 
 ## References

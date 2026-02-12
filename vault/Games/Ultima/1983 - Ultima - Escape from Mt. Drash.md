@@ -179,7 +179,6 @@ No official hint books, strategy guides, or novelizations were produced for the 
 
 The game's historical significance lies not in its gameplay contributions—which have been universally criticized—but in its status as a collector's item and a curious footnote in the Ultima franchise's otherwise distinguished history[^ref-1][^ref-2]. As one reviewer succinctly observed, "Without the Ultima brand on it, this game would be justly long forgotten"[^ref-2]. Instead, the combination of extreme rarity, controversial origins, and the enduring popularity of the Ultima series has ensured that *Escape from Mt. Drash* remains a subject of fascination for collectors and gaming historians alike, commanding prices that far exceed what Sierra ever hoped to earn from its original $19.95 retail release[^ref-1][^ref-2].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/ultima-escape-from-mt-drash-1983)
@@ -205,8 +204,6 @@ The only concrete connections to the broader Ultima universe are the Mt. Drash n
 **Note:** Ultima III: Exodus was not published by Sierra On-Line and is therefore not included in this archive. Ultima II and Escape from Mt. Drash are the only Ultima titles published by Sierra.
 
 - **Related:** [[1982 - Ultima II - The Revenge of the Enchantress]]
-
-## See Also
 - [[1982 - Ultima II - The Revenge of the Enchantress|← Previous: Ultima II - The Revenge of the Enchantress]]
 
 ## References

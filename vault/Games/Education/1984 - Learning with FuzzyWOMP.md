@@ -165,7 +165,6 @@ The game's approach of combining multiple educational activities into a single p
 
 In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates the company's willingness to explore markets beyond their signature adventure games during the critical growth period of the mid-1980s.[^ref-1][^ref-4] Though Sierra would become best known for their adventure game series, their educational software efforts represented an important diversification strategy during the formative years of the home computer industry.[^ref-8][^ref-9]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/learning-with-fuzzywomp-1984)
@@ -192,8 +191,6 @@ Learning With Fuzzywomp was part of Sierra On-Line's educational software line f
 The game was released alongside Wizard of Id's Touch Type and Story Maker in 1984, representing a coordinated expansion of Sierra's educational offerings.[^ref-1] While Sierra would become primarily known for their adventure game series, these educational titles demonstrated the company's versatility and willingness to serve diverse market segments.
 
 - **Previous:** [[1983 - Learning with Leeper]]
-
-## See Also
 - [[1983 - Learning with Leeper|← Previous: Learning with Leeper]]
 - [[1984 - Wizard of Id's WizMath|→ Next: Wizard of Id's WizMath]]
 

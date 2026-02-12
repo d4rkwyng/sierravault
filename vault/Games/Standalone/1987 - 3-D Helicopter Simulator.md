@@ -189,7 +189,6 @@ The implementation of modem multiplayer predated the widespread adoption of onli
 
 For modern players, 3-D Helicopter Simulator serves primarily as a historical curiosity—evidence of the flight simulation genre's early development and Sierra's brief foray beyond adventure gaming[^ref-7][^ref-9]. The game's legacy lies more in its innovative multiplayer implementation than in establishing a lasting franchise or influencing subsequent helicopter simulators.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/3-d-helicopter-simulator-1987)
@@ -210,8 +209,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 3-D Helicopter Simulator was a standalone release and was not part of any ongoing series[^ref-1]. Sierra did not produce direct sequels to this title, instead focusing their simulation efforts on other projects. The game represents a one-time experiment in the helicopter simulation genre for the company, which returned its primary focus to adventure games like the King's Quest, Space Quest, and Police Quest series.
 
 The cross-promotional mention in Police Quest 1 represents the most direct connection between 3-D Helicopter Simulator and Sierra's broader catalog[^ref-6][^ref-6]. This marketing tie-in demonstrates how Sierra attempted to create synergy between their diverse product offerings during the late 1980s.
-
-## See Also
 - [[1986 - Wrath of Denethenor|← Previous: Wrath of Denethenor]]
 - [[1987 - Laser Surgeon - The Microscopic Mission|→ Next: Laser Surgeon - The Microscopic Mission]]
 
@@ -221,7 +218,6 @@ The cross-promotional mention in Police Quest 1 represents the most direct conne
 
 [^ref-3]: [GameFAQs – 3D Helicopter Simulator](https://gamefaqs.gamespot.com/pc/223353-3d-helicopter-simulator/data) – September 1987 release date, developer/publisher confirmation
 
-
 [^ref-4]: [Metacritic – 3D Helicopter Simulator](https://www.metacritic.com/game/3d-helicopter-simulator/) – game summary, Apache helicopter details, gameplay description
 
 [^ref-5]: [Wikipedia – Sierra's 3-D Helicopter Simulator](https://en.wikipedia.org/wiki/Sierra%27s_3-D_Helicopter_Simulator) – Computer Gaming World review citation, M. Evan Brooks quote, 1987 release confirmation
@@ -229,7 +225,6 @@ The cross-promotional mention in Police Quest 1 represents the most direct conne
 [^ref-6]: [Police Quest Fandom Wiki – Helicopter Simulator](https://policequest.fandom.com/wiki/Helicopter_Simulator) – Police Quest 1 cross-promotion quote, release year, modem multiplayer mention
 
 [^ref-7]: [Let's Play Oldies! – 3D Helicopter Simulator](https://letsplayoldies.wordpress.com/2009/07/31/3d-helicopter-simulator/) – retrospective review, gameplay modes, control scheme, 6/10 rating
-
 
 [^ref-9]: [Old-Games.RU – 3D Helicopter Simulator](https://www.old-games.ru/game/3129.html) – Russian retrospective, graphics adapter support, multiple perspectives, multiplayer features, reviewer ratings
 

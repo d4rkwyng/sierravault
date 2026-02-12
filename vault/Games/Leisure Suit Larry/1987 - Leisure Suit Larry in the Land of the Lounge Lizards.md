@@ -177,8 +177,6 @@ Leisure Suit Larry in the Land of the Lounge Lizards is the first entry in the L
 **See also:**
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe entry
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Larry Laffer's return
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|→ Next: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 

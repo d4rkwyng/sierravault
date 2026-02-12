@@ -255,7 +255,6 @@ The decision not to license professional golfers proved controversial but allowe
 
 The game's legacy within Sierra's catalog is bittersweet. The PGA Championship Golf series represented the end of Sierra's long involvement with golf simulation, as the Front Page Sports Golf lineage concluded with this franchise.[^ref-3] The Collector's Edition stands as the definitive version of a highly regarded simulation that demonstrated what dedicated PC development could achieve in sports gaming before console-focused development became the industry standard.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -281,8 +280,6 @@ The progression of the series demonstrated Sierra's iterative approach to sports
 After the Collector's Edition, Sierra's involvement with golf simulation effectively ended, with the market eventually dominated by EA Sports' Tiger Woods PGA Tour franchise.[^ref-3]
 
 - **Previous:** [[2000 - PGA Championship Golf 2000]]
-
-## See Also
 - [[2000 - PGA Championship Golf 2000 - Titanium Edition|← Previous: PGA Championship Golf 2000 - Titanium Edition]]
 
 ## References

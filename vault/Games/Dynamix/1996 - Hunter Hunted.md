@@ -220,8 +220,6 @@ Hunter Hunted serves as a prequel to the Metaltech: Earthsiege series, establish
 The game was part of Sierra's K.A.A. line, which also included other action-oriented titles from the publisher during this period[^ref-17]. As a standalone narrative within the Earthsiege universe, Hunter Hunted provides context for the invasion that shapes the later games without requiring direct sequel or prequel knowledge to enjoy.
 
 - **Related:** Metaltech: Earthsiege series (shared universe)
-
-## See Also
 - [[1996 - CyberGladiators|← Previous: CyberGladiators]]
 - [[1996 - Rama|→ Next: Rama]]
 

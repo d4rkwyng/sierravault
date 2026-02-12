@@ -285,8 +285,6 @@ The game was developed by Sierra Northwest, an entirely different team from thos
 
 - **Previous:** [[1998 - Police Quest - SWAT 2]]
 - **Next:** [[2005 - SWAT 4]]
-
-## See Also
 - [[1998 - Police Quest - SWAT 2|← Previous: Police Quest - SWAT 2]]
 - [[2003 - SWAT - Global Strike Team|→ Next: SWAT - Global Strike Team]]
 

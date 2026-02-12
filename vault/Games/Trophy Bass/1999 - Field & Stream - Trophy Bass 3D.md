@@ -219,8 +219,6 @@ Community preservation efforts maintain access to the game through abandonware a
 
 - **Previous:** [[1996 - Front Page Sports - Trophy Bass 2]] (1996)
 - **Next:** [[2000 - Field & Stream - Trophy Bass 4]] (2000)
-
-## See Also
 - [[1996 - Front Page Sports - Trophy Bass 2|← Previous: Front Page Sports - Trophy Bass 2]]
 - [[2000 - Field & Stream - Trophy Bass 4|→ Next: Field & Stream - Trophy Bass 4]]
 

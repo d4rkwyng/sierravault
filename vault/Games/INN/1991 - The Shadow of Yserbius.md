@@ -178,8 +178,6 @@ Several bugs and design issues were documented during the game's lifespan:
 
 - **Previous:** None (first in series)
 - **Next:** [[1993 - Fates of Twinion]]
-
-## See Also
 - [[1993 - Fates of Twinion|→ Next: Fates of Twinion]]
 
 ## References

@@ -306,8 +306,6 @@ The Larry franchise would not return until 2004's *Leisure Suit Larry: Magna Cum
 
 - **Previous:** [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - **Next:** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|← Previous: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]

@@ -215,7 +215,6 @@ The mixed reception reflects broader challenges facing legacy gaming brands in t
 
 Historically, the Hoyle series holds significance as one of Sierra's earliest casual gaming ventures, predating the modern casual games market by decades. Computer Gaming World's 1990 review noted that while some of the included games were "really children's games and offer no great excitement," the series found an audience among card game enthusiasts[^ref-1]. The 2015 release attempted to serve this same audience but faced far greater competition in an era of ubiquitous digital card games.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -249,8 +248,6 @@ Key franchise milestones include:
 
 - **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]]
 - **Next:** Encore Card Games Collection (2019)
-
-## See Also
 - [[2011 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
 

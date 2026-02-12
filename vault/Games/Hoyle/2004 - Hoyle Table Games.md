@@ -221,8 +221,6 @@ The game exists alongside companion products like Card Games: Hoyle 2004 Edition
 
 - **Previous:** [[2004 - Hoyle Table Games]]
 - **Next:** [[2005 - Hoyle Board Games]]
-
-## See Also
 - [[2004 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 

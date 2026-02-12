@@ -164,7 +164,6 @@ Playtoons 4: The Mandarine Prince represents an interesting intersection of edut
 
 The Playtoons series as a whole represented Coktel Vision's attempt to create a platform for creative expression rather than simply passive consumption, an approach that anticipated later developments in user-generated content. However, the series remained relatively obscure outside of European markets, and the educational adventure genre would eventually decline with the rise of more action-oriented children's games in the late 1990s.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/playtoons-4-the-mandarine-prince)
@@ -188,8 +187,6 @@ The game's use of licensed Spirou characters distinguished it from other entries
 
 - **Previous:** [[1995 - Playtoons 3 - The Secret of the Castle]]
 - **Next:** Playtoons 5: The Stone of Wakan
-
-## See Also
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
 
 ## References

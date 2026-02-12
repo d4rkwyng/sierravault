@@ -132,8 +132,6 @@ The community around The Incredible Machine remains active decades after release
 
 - **Previous:** [[1995 - The Incredible Machine 3.0]]
 - **Next:** [[2001 - The Incredible Machine - Even More Contraptions]]
-
-## See Also
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|← Previous: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 - [[2001 - The Incredible Machine - Even More Contraptions|→ Next: The Incredible Machine - Even More Contraptions]]
 

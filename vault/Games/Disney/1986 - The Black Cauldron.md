@@ -114,8 +114,6 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 
 - **Previous:** None (standalone game)
 - **Next:** None (standalone game)
-
-## See Also
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|← Previous: Winnie the Pooh in the Hundred Acre Wood]]
 
 ## References

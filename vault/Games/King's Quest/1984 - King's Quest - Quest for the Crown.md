@@ -256,8 +256,6 @@ King's Quest: Quest for the Crown is the first entry in the King's Quest series.
 - **Previous:** None (series beginning)
 - **Next:** [[1985 - King's Quest II - Romancing the Throne]]
 - **SCI Remake:** [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1985 - King's Quest II - Romancing the Throne|→ Next: King's Quest II - Romancing the Throne]]
 

@@ -254,8 +254,6 @@ The game is preserved through abandonware archives, though it faces compatibilit
 - **Previous:** [[1995 - Trophy Bass]]
 - **Expansion:** Front Page Sports: Trophy Bass 2 - Northern Lakes (1997)[^ref-19]
 - **Next:** Trophy Bass 3D (1999)
-
-## See Also
 - [[1995 - Trophy Bass|← Previous: Trophy Bass]]
 - [[1999 - Field & Stream - Trophy Bass 3D|→ Next: Field & Stream - Trophy Bass 3D]]
 

@@ -198,8 +198,6 @@ Geisha was part of Coktel Vision's broader catalog of adventure games published 
 - **Lost in Time** (1993) - Muriel Tramis time-travel adventure
 - **Gobliiins** series (1991-1993) - Puzzle adventure series
 - **Ween: The Prophecy** (1992) - Fantasy adventure
-
-## See Also
 - [[1990 - Cougar Force|← Previous: Cougar Force]]
 - [[1991 - A.G.E.|→ Next: A.G.E.]]
 

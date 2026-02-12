@@ -221,8 +221,6 @@ Urban Runner was conceived as a spiritual sequel to Lost in Time (1993), origina
 The game represents Coktel Vision's final major FMV production before the studio's subsequent acquisition by Mindscape, marking the end of an era for the French developer's adventure game output.[^ref-7]
 
 - **Previous:** [[1993 - Lost in Time]] (spiritual predecessor)
-
-## See Also
 - [[1995 - The Last Dynasty|← Previous: The Last Dynasty]]
 
 ## References

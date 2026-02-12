@@ -201,8 +201,6 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [[2001 - NASCAR Racing 4|NASCAR Racing 4]] (2001)
 - [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] (2002)
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (2003)
-
-## See Also
 - [[1996 - NASCAR Racing 2|← Previous: NASCAR Racing 2]]
 - [[1999 - NASCAR Craftsman Truck Series Racing|→ Next: NASCAR Craftsman Truck Series Racing]]
 

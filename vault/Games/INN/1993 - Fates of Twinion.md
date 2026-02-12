@@ -210,8 +210,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 
 - **Previous:** [[1991 - The Shadow of Yserbius]]
 - **Next:** [[1995 - The Ruins of Cawdor]]
-
-## See Also
 - [[1991 - The Shadow of Yserbius|← Previous: The Shadow of Yserbius]]
 - [[1996 - The Realm Online|→ Next: The Realm Online]]
 

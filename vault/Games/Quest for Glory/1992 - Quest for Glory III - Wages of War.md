@@ -151,8 +151,6 @@ This game has been included in the following collections:
 ## See Also
 - Previous: [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]]
 - Next: [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory: Shadows of Darkness]]
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|← Previous: Quest for Glory I - So You Want to Be a Hero VGA]]
 - [[1993 - Quest for Glory IV - Shadows of Darkness|→ Next: Quest for Glory IV - Shadows of Darkness]]

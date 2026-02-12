@@ -201,8 +201,6 @@ The series later continued with Gobliiins 4 (2009) and Gobliiins 5: The Morgloto
 
 - **Previous:** [[1992 - Gobliins 2 - The Prince Buffoon]]
 - **Next:** [[2009 - Gobliiins 4]]
-
-## See Also
 - [[1992 - Gobliins 2 - The Prince Buffoon|← Previous: Gobliins 2 - The Prince Buffoon]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|→ Next: The Bizarre Adventures of Woodruff and the Schnibble]]
 

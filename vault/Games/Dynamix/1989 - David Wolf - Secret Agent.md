@@ -206,8 +206,6 @@ David Wolf: Secret Agent was part of Dynamix's broader experimentation with narr
 - **The Adventures of Willy Beamish** (1991) - Animated adventure game[^ref-5]
 
 These later titles refined the narrative techniques Dynamix explored in David Wolf, generally achieving greater critical and commercial success.[^ref-17]
-
-## See Also
 - [[1989 - Caveman Ugh-lympics|← Previous: Caveman Ugh-lympics]]
 - [[1989 - Deathtrack|→ Next: Deathtrack]]
 

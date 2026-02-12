@@ -134,8 +134,6 @@ Leisure Suit Larry: Wet Dreams Dry Twice is the direct sequel to Wet Dreams Don'
 **See also:**
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe entry
-
-## See Also
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|← Previous: Leisure Suit Larry - Wet Dreams Don't Dry]]
 

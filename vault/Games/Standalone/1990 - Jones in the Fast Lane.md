@@ -147,8 +147,6 @@ The game's satirical take on the American Dream resonates differently in differe
 
 - **Previous:** None
 - **Next:** None (standalone title)
-
-## See Also
 - [[1990 - Codename - Iceman|← Previous: Codename - Iceman]]
 - [[1990 - Zeliard|→ Next: Zeliard]]
 

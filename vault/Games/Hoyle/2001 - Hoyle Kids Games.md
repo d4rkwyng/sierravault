@@ -215,8 +215,6 @@ Hoyle Kids Games is part of Sierra's long-running Hoyle game series, which began
 
 - **Previous:** [[2000 - Hoyle Kids Games]] (if distinct from this release)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] series
-
-## See Also
 - [[2001 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2001 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 

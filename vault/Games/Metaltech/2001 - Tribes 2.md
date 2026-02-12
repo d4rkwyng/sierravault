@@ -106,8 +106,6 @@ The community created extensive modifications and content, including approximate
 
 - **Previous:** [[1998 - Starsiege - Tribes]]
 - **Next:** Tribes: Vengeance (2004) (2004)
-
-## See Also
 - [[1999 - Starsiege|← Previous: Starsiege]]
 - [[2002 - Tribes - Aerial Assault|→ Next: Tribes - Aerial Assault]]
 

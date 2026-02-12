@@ -278,8 +278,6 @@ The series would continue through Police Quest III: The Kindred before original 
 
 - **Previous:** N/A (First in series)
 - **Next:** [[1988 - Police Quest II - The Vengeance]]
-
-## See Also
 - [[Police Quest Series]] - Series overview
 - [[1991 - Police Quest III - The Kindred|← Previous: Police Quest III - The Kindred]]
 - [[1993 - Police Quest - Open Season|→ Next: Police Quest - Open Season]]

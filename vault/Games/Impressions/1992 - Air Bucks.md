@@ -228,7 +228,6 @@ The game's legacy is somewhat mixed. While it received positive contemporary rev
 
 Nevertheless, Air Bucks demonstrated that the airline industry could provide compelling simulation gameplay and influenced subsequent titles in the transportation management genre. Its emphasis on accessibility over complexity established a design philosophy that would characterize many of Impressions Games' subsequent titles[^ref-18].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -250,8 +249,6 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 Air Bucks was the inaugural title in Impressions Games' "Bucks" series of business simulations. The game established the core formula of accessible economic simulation that would be applied to different industries in subsequent titles. The series concept was later expanded into outer space with Space Bucks in 1996, which transplanted the trading and transportation management mechanics to an interstellar setting with alien races, though that title was considerably less well-received[^ref-9].
 
 - **Next:** [[1996 - Space Bucks]]
-
-## See Also
 - [[1991 - Merchant Colony|← Previous: Merchant Colony]]
 - [[1992 - Air Force Commander|→ Next: Air Force Commander]]
 

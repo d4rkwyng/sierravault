@@ -230,8 +230,6 @@ The 1993 sequel, Cohort II: Fighting for Rome, significantly expanded and improv
 
 - **Previous:** None (first in series)
 - **Next:** [[1993 - Cohort II - Fighting for Rome]]
-
-## See Also
 - [[1991 - Fort Apache|→ Next: Fort Apache]]
 
 ## References

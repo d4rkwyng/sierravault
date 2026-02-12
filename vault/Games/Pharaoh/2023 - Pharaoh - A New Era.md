@@ -116,8 +116,6 @@ Pharaoh: A New Era represents a successful revival of the classic Impressions Ga
 The remake includes the content from both the original Pharaoh and its expansion [[2000 - Cleopatra - Queen of the Nile|Cleopatra: Queen of the Nile]] in a single package.[^ref-3] This makes it the definitive way to experience the Egyptian city-builder today, with the original games no longer readily available on modern digital storefronts.[^ref-10]
 
 The success of Pharaoh: A New Era has sparked community interest in potential remakes of other City Building series entries, particularly [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] and [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]].[^ref-13]
-
-## See Also
 - [[1999 - Pharaoh|← Original: Pharaoh (1999)]]
 - [[2000 - Cleopatra - Queen of the Nile|→ Expansion: Cleopatra: Queen of the Nile]]
 

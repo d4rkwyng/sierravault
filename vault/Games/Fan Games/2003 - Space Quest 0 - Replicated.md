@@ -215,8 +215,6 @@ The game deliberately references multiple official Space Quest titles to establi
 As a fan production, Space Quest 0: Replicated exists outside the official Sierra canon, but its thoughtful integration of series elements has earned it recognition as a worthy addition to Roger Wilco's adventures. The game represents one of three major fan games released after the cancellation of Space Quest VII, alongside The Lost Chapter, as the community worked to continue the series' legacy.[^ref-18]
 
 - **Next (Official Series):** [[1986 - Space Quest - The Sarien Encounter]]
-
-## See Also
 - [[2002 - King's Quest II+ - Romancing the Stones|← Previous: King's Quest II+ - Romancing the Stones]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)|→ Next: King's Quest III Remake (Infamous Adventures)]]
 

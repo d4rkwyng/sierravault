@@ -257,8 +257,6 @@ The series continued with Red Baron II (1997) and its enhanced re-release Red Ba
 The franchise was acquired by Mad Otter Games in 2009, with original creator Damon Slye involved in efforts to revive the series. Though the 2013 Kickstarter campaign failed, the classic games remain available through digital distribution platforms.
 
 - **Next:** [[1992 - Red Baron - Mission Builder]]
-
-## See Also
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
 
 ## References

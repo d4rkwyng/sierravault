@@ -228,7 +228,6 @@ Jimmy Maher of The Digital Antiquarian described the game as "modestly scaled bu
 
 As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on ourselves"[^ref-4]. *Tilly's Tale* may represent a new model for veteran designers to continue creating games without the physical and financial demands of large-scale production—a "funny and charming" reminder that good storytelling doesn't require enormous budgets[^ref-6].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -250,8 +249,6 @@ The Coles have stated they originally envisioned a five-game Hero-U series[^ref-
 
 - **Previous:** [[2018 - Hero-U - Rogue to Redemption]]
 - **Next:** Ifeyo's Adventure (announced)[^ref-7]
-
-## See Also
 - [[2023 - Colossal Cave 3D Adventure|← Previous: Colossal Cave 3D Adventure]]
 
 ## References

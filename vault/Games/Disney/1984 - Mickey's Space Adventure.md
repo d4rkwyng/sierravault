@@ -216,7 +216,6 @@ Mickey's Space Adventure holds an important place in both Disney and Sierra gami
 
 The collaboration between Sierra and Disney established a template for educational adventure games that respected young players' intelligence while making learning engaging.[^ref-7] The game's design philosophy—using simplified interfaces while maintaining adventure game mechanics like inventory management and exploration—influenced subsequent children's educational titles. Its success helped pave the way for more sophisticated Disney-Sierra collaborations like The Black Cauldron, demonstrating that quality interactive entertainment could be built around beloved animated characters.[^ref-3]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/mickey-s-space-adventure-1984)
@@ -239,8 +238,6 @@ Mickey's Space Adventure was part of Sierra's early Disney educational software 
 The Disney-Sierra collaboration established a productive relationship between the two companies that would continue through multiple titles, though each game featured standalone adventures with different Disney characters rather than a continuous narrative.
 
 - **Next:** [[1984 - Donald Duck's Playground]]
-
-## See Also
 - [[1984 - Donald Duck's Playground|← Previous: Donald Duck's Playground]]
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|→ Next: Winnie the Pooh in the Hundred Acre Wood]]
 

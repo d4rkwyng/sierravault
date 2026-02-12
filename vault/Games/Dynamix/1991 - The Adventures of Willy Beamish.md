@@ -295,8 +295,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 The Adventures of Willy Beamish was conceived as a standalone title, though its success prompted plans for a sequel featuring an older Willy Beamish that was ultimately canceled when Jeff Tunnell left Dynamix.[^ref-4] The game shares the DGDS engine with Dynamix's other adventure titles Rise of the Dragon (1990) and Heart of China (1991), and contains easter egg references to Rise of the Dragon's EmWay stations.[^ref-45]
 
 The game represents the culmination of Dynamix's adventure game development under Sierra's ownership. Following Willy Beamish, the studio shifted focus to simulation games—the genre Sierra had originally acquired them for—including the highly successful The Incredible Machine series.[^ref-1]
-
-## See Also
 - [[1991 - Heart of China|← Previous: Heart of China]]
 - [[1992 - Quarky & Quaysoo's Turbo Science|→ Next: Quarky & Quaysoo's Turbo Science]]
 

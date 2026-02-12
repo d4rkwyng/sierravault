@@ -326,8 +326,6 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 Arcanum: Of Steamworks & Magick Obscura was intended as the first entry in a franchise, but remained a standalone title after Troika Games closed in 2005. The planned sequel "Journey to the Centre of Arcanum" never progressed beyond the concept phase.[^ref-25] The game exists as a singular achievement—an ambitious fusion of fantasy and steampunk that, despite its flaws, created a world rich enough to support the extensive lore found in its libraries, newspapers, and legends.
 
 The spiritual lineage connects to Fallout (1997) and Fallout 2 (1998) through shared developers and design philosophy. Troika's later titles—The Temple of Elemental Evil (2003) and Vampire: The Masquerade - Bloodlines (2004)—continued the studio's pattern of ambitious, deeply-flawed-yet-beloved role-playing games.
-
-## See Also
 - [[1997 - Diablo - Hellfire|← Previous: Diablo - Hellfire]]
 - [[2007 - World in Conflict|→ Next: World in Conflict]]
 

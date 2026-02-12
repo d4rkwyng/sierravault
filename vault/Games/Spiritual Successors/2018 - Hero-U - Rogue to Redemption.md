@@ -252,8 +252,6 @@ The next announced project in the series was Summer Daze at Hero-U, a visual nov
 - **Previous:** Not applicable (first in series)
 - **Related:** Quest for Glory series (spiritual predecessor)
 - **Next:** [[2023 - Summer Daze - Tilly's Tale]]
-
-## See Also
 - [[2015 - Order of the Thorne - The King's Challenge|← Previous: Order of the Thorne - The King's Challenge]]
 - [[2019 - Mage's Initiation - Reign of the Elements|→ Next: Mage's Initiation - Reign of the Elements]]
 

@@ -335,8 +335,6 @@ The original series was conceived as a tetralogy based on the four seasons, repr
 
 - **Original Version:** [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - **Next:** [[1990 - Quest for Glory II - Trial by Fire]]
-
-## See Also
 - [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|← Previous: Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory III - Wages of War|→ Next: Quest for Glory III - Wages of War]]

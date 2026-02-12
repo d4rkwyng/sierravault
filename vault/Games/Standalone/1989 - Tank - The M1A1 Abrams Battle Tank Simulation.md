@@ -201,7 +201,6 @@ Tank: The M1A1 Abrams Battle Tank Simulation occupies an interesting position in
 
 The simulation's lasting significance lies in its ambitious scope—offering gameplay ranging from simple arcade action to complex company-level command at a time when most games chose one approach or the other.[^ref-6] While MicroProse's M1 Tank Platoon ultimately achieved greater recognition in the tank simulation genre, Tank demonstrated that serious armored warfare simulations could find an audience on home computers. The game's emphasis on procedure and realism over pure action established design principles that would influence military simulations for years to come, even as advancing technology would eventually enable far more sophisticated implementations of its core concepts.[^ref-1]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -220,8 +219,6 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 Tank: The M1A1 Abrams Battle Tank Simulation was conceived as the inaugural title in Spectrum HoloByte's "Electronic Battlefield System," intended to be a comprehensive platform for military simulations spanning different combat domains.[^ref-2] The game shared technological DNA with Spectrum HoloByte's Falcon flight simulator series through its use of a modified Falcon AT engine, positioning it as a ground-based complement to their aerial combat offerings.[^ref-4]
 
 While the Electronic Battlefield System as originally envisioned did not fully materialize as an integrated product line, Tank represented Spectrum HoloByte's commitment to military simulation across multiple warfare domains. The game stands as a distinct entry in the company's simulation catalog rather than part of a direct sequel series.
-
-## See Also
 - [[1988 - Silpheed|← Previous: Silpheed]]
 - [[1990 - Codename - Iceman|→ Next: Codename - Iceman]]
 

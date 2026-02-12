@@ -143,8 +143,6 @@ The game is infamous for its "cat hair mustache" puzzle, cited by Old Man Murray
 **See also:**
 - [[1993 - Gabriel Knight - Sins of the Fathers]] – Series origin
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] – HD remake
-
-## See Also
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|← Previous: The Beast Within - A Gabriel Knight Mystery]]
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|→ Next: Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
