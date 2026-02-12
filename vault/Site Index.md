@@ -50,7 +50,7 @@ This archive contains **512 game pages** across 74 categories.
 | [[#King's Quest\|King's Quest]] | 10 |
 | [[#Krondor\|Krondor]] | 3 |
 | [[#Laura Bow\|Laura Bow]] | 2 |
-| [[#Leisure Suit Larry\|Leisure Suit Larry]] | 12 |
+| [[#Leisure Suit Larry\|Leisure Suit Larry]] | 13 |
 | [[#Lords of Magic\|Lords of Magic]] | 2 |
 | [[#Lords of the Realm\|Lords of the Realm]] | 4 |
 | [[#Manhunter\|Manhunter]] | 2 |
@@ -597,6 +597,7 @@ This archive contains **512 game pages** across 74 categories.
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | 2026-01-09 |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | 2026-01-10 |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry: Love for Sail!]] | 2026-01-10 |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | 2026-02-12 |
 | 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | 2026-01-10 |
 | 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | 2026-01-09 |
 | 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] | 2026-01-09 |

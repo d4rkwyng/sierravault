@@ -115,7 +115,7 @@ Lowe's preservation of Sierra's development history through his personal archive
 | 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Designer/Writer/Composer/Voice Director |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Director/Designer/Writer/Composer |
 | 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Images |
-| 1998 | Leisure Suit Larry's Casino | Director/Designer/Writer/Composer |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Director/Designer/Writer/Composer |
 
 ### Post-Sierra (2013–Present)
 

@@ -8,12 +8,12 @@ Pull up a pixelated barstool and mind the slime on the floor—this vault is the
 
 From the parser-driven adventures of the 1980s through the multimedia extravaganzas of the 1990s, this archive documents Sierra's complete legacy—flagship series, hidden gems, acquired studios like Dynamix and Impressions, fan remakes, and spiritual successors from Sierra alumni still making games today.
 
-> **512 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **15–40 citations per page**
+> **513 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **15–40 citations per page**
 
 ## Quick Links
 
 > [!tip] Jump Right In
-> - **[[Site Index]]** — Browse all 512 games by series, studio, and category
+> - **[[Site Index]]** — Browse all 513 games by series, studio, and category
 > - **[[Designer Index]]** — Roberta Williams, Al Lowe, Jane Jensen, the Coles & 53 more
 > - **[[Projects in Progress]]** — Active fan and alumni projects
 > - **[[News & Updates]]** — Latest releases, ScummVM updates, fan project news

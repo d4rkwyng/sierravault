@@ -5,9 +5,9 @@ created_by: "Al Lowe"
 developer: "Sierra On-Line"
 first_release: 1987
 last_release: 2020
-total_games: 12
+total_games: 13
 genre: "Adventure, Comedy"
-last_updated: "2026-02-02"
+last_updated: "2026-02-12"
 ---
 
 # Leisure Suit Larry Series
@@ -31,6 +31,7 @@ Distinguished by its adult-oriented humor, self-deprecating protagonist, and sha
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | SCI1 | Famously skipped "4" |
 | 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | SCI1.1 | Spa resort setting |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | SCI32 | Cruise ship finale |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom | Casino spinoff, online features |
 | 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | Custom | Larry Lovage (nephew), college setting |
 | 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | Custom | Widely panned sequel |
 | 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Unity | Kickstarter-funded HD remake |

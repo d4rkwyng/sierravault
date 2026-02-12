@@ -188,6 +188,13 @@
         "score": 91.0,
         "total": 91
       }
+    ],
+    "1998 - Leisure Suit Larry's Casino.md": [
+      {
+        "timestamp": "2026-02-12T15:03:09.110981",
+        "score": 91.0,
+        "total": 91
+      }
     ]
   },
   "runs": [
@@ -361,6 +368,12 @@
     },
     {
       "timestamp": "2026-02-12T14:01:36.068234",
+      "files_scored": 1,
+      "average": 91.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-12T15:03:09.110981",
       "files_scored": 1,
       "average": 91.0,
       "passing": 1
