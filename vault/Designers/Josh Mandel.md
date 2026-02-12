@@ -188,3 +188,10 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 [^ref-17]: [Adventure Gamers Sierra Retrospective](https://adventuregamers.com/articles/view/a_sierra_restrospective_part_1_the_pioneers_of_adventure) — Ken Williams quote at Christmas party
 [^ref-18]: [Retro Kompott Interview](https://steadyhq.com/en/retrokompott/posts/83a7753a-a4b2-4516-93cf-a738d20d0102) — Mandel's reaction to Sierra culture
 [^ref-19]: [Wikipedia - Freddy Pharkas: Frontier Pharmacist](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) — Co-designed with Al Lowe
+[^ref-23]: [Wikipedia - Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer)) — Career overview, KQ1 as first major project establishing his reputation at Sierra
+[^ref-35]: [Wikipedia - Callahan's Crosstime Saloon (video game)](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game)) — Game development details and Spider Robinson adaptation
+[^ref-36]: [Wikipedia - Callahan's Development History](https://en.wikipedia.org/wiki/Callahan%27s_Crosstime_Saloon_(video_game)#Development) — Mandel considered adapting Callahan's Place books since the 1980s
+[^ref-46]: [Wikipedia - Insecticide (video game)](https://en.wikipedia.org/wiki/Insecticide_(video_game)) — Mandel's detective game design and script writing contributions
+[^ref-47]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — Replay Games employment 2012-2013, designer/writer/producer role
+[^ref-56]: [King's Quest Omnipedia - Josh Mandel](https://kingsquest.fandom.com/wiki/Josh_Mandel) — Details on KQ1 VGA remake story, text, and puzzle redesign
+[^ref-63]: [MobyGames - Callahan's Crosstime Saloon](https://www.mobygames.com/game/3159/callahans-crosstime-saloon/) — Mandel's credits as designer, artist, and writer at Legend Entertainment
