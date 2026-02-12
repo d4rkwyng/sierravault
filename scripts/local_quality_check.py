@@ -44,6 +44,14 @@ FLAGSHIP_SERIES = [
     "leisure suit larry", "police quest", "gabriel knight", "phantasmagoria"
 ]
 
+# Well-known Sierra designers that should have wiki links
+NOTABLE_DESIGNERS = [
+    'roberta williams', 'ken williams', 'al lowe', 'scott murphy', 'mark crowe',
+    'corey cole', 'lori cole', 'jane jensen', 'josh mandel', 'jim walls',
+    'lorelei shannon', 'bill davis', 'andy hoyos', 'mark seibert', 'ken allen',
+    'christy marx', 'jeff tunnell', 'damon slye', 'david wessman'
+]
+
 
 def run_ollama(prompt: str, model: str = "llama3.2:3b", timeout: int = 60) -> Optional[str]:
     """Run a prompt through Ollama and return the response."""
@@ -299,41 +307,309 @@ def check_series_crossrefs(content: str, filepath: str) -> Dict:
     return result
 
 
+def check_year_mismatch(content: str, filepath: str) -> Dict:
+    """Check if year in filename matches year in frontmatter."""
+    path = Path(filepath)
+    filename = path.name
+    
+    # Extract year from filename (e.g., "1990 - King's Quest V.md")
+    filename_match = re.match(r'^(\d{4})\s*-', filename)
+    filename_year = filename_match.group(1) if filename_match else None
+    
+    # Extract year from frontmatter
+    frontmatter_year = None
+    if content.startswith('---'):
+        yaml_end = content.find('---', 3)
+        if yaml_end > 0:
+            yaml_content = content[3:yaml_end]
+            year_match = re.search(r'release_year:\s*["\']?(\d{4})', yaml_content)
+            if year_match:
+                frontmatter_year = year_match.group(1)
+    
+    if filename_year is None:
+        return {"pass": True, "details": "No year in filename"}
+    
+    if frontmatter_year is None:
+        return {"pass": False, "details": f"Filename has year {filename_year} but no release_year in frontmatter"}
+    
+    if filename_year != frontmatter_year:
+        return {
+            "pass": False,
+            "details": f"Year mismatch: filename has {filename_year}, frontmatter has {frontmatter_year}"
+        }
+    
+    return {"pass": True, "details": f"Years match: {filename_year}"}
+
+
+def check_orphaned_references(content: str) -> Dict:
+    """Find citations without definitions and definitions without citations."""
+    # Find all inline citations [^ref-N]
+    inline_refs = set(re.findall(r'\[\^ref-(\d+)\](?!:)', content))
+    
+    # Find all reference definitions [^ref-N]:
+    definitions = set(re.findall(r'^\[\^ref-(\d+)\]:', content, re.MULTILINE))
+    
+    # Citations without definitions
+    undefined = inline_refs - definitions
+    
+    # Definitions never cited
+    uncited = definitions - inline_refs
+    
+    issues = []
+    if undefined:
+        issues.append(f"Undefined citations: {', '.join(sorted(undefined, key=int))}")
+    if uncited:
+        issues.append(f"Uncited definitions: {', '.join(sorted(uncited, key=int))}")
+    
+    return {
+        "pass": len(undefined) == 0 and len(uncited) == 0,
+        "undefined_count": len(undefined),
+        "uncited_count": len(uncited),
+        "undefined": list(sorted(undefined, key=int))[:10],
+        "uncited": list(sorted(uncited, key=int))[:10],
+        "details": "; ".join(issues) if issues else "All references valid"
+    }
+
+
+def check_purchase_links(content: str) -> Dict:
+    """Check if page has GOG or Steam purchase links. Warning level only."""
+    # Look for Purchase or Downloads section
+    has_purchase_section = bool(re.search(r'##\s*(Purchase|Downloads|Availability|Where to Buy)', content, re.IGNORECASE))
+    
+    # Check for GOG links
+    gog_links = re.findall(r'https?://(?:www\.)?gog\.com/[^\s\)]+', content)
+    
+    # Check for Steam links
+    steam_links = re.findall(r'https?://store\.steampowered\.com/[^\s\)]+', content)
+    
+    has_gog = len(gog_links) > 0
+    has_steam = len(steam_links) > 0
+    
+    # This is a warning-level check (not critical)
+    result = {
+        "pass": has_gog or has_steam,  # Pass if any purchase link exists
+        "warning": not (has_gog or has_steam),  # Flag as warning if missing
+        "has_purchase_section": has_purchase_section,
+        "has_gog": has_gog,
+        "has_steam": has_steam,
+        "gog_count": len(gog_links),
+        "steam_count": len(steam_links),
+        "details": "GOG/Steam links present" if (has_gog or has_steam) else "No GOG or Steam purchase links found"
+    }
+    
+    return result
+
+
+def check_word_count(content: str) -> Dict:
+    """Check word count thresholds (<500 too short, >5000 review for bloat)."""
+    # Strip frontmatter
+    if content.startswith('---'):
+        yaml_end = content.find('---', 3)
+        if yaml_end > 0:
+            content = content[yaml_end + 3:]
+    
+    # Strip references section (don't count bibliography)
+    if '## References' in content:
+        content = content.split('## References')[0]
+    
+    # Count words (simple split)
+    words = re.findall(r'\b\w+\b', content)
+    word_count = len(words)
+    
+    if word_count < 500:
+        return {
+            "pass": False,
+            "word_count": word_count,
+            "issue": "too_short",
+            "details": f"Content too short: {word_count} words (minimum 500)"
+        }
+    elif word_count > 5000:
+        return {
+            "pass": True,  # Not a failure, just a review flag
+            "warning": True,
+            "word_count": word_count,
+            "issue": "review_bloat",
+            "details": f"Content may be bloated: {word_count} words (review for trimming)"
+        }
+    else:
+        return {
+            "pass": True,
+            "word_count": word_count,
+            "details": f"Word count OK: {word_count}"
+        }
+
+
+def check_timestamp_consistency(content: str) -> Dict:
+    """Check that frontmatter last_updated matches footer 'Last updated:' line."""
+    # Extract frontmatter last_updated
+    frontmatter_date = None
+    if content.startswith('---'):
+        yaml_end = content.find('---', 3)
+        if yaml_end > 0:
+            yaml_content = content[3:yaml_end]
+            date_match = re.search(r"last_updated:\s*['\"]?(\d{4}-\d{2}-\d{2})['\"]?", yaml_content)
+            if date_match:
+                frontmatter_date = date_match.group(1)
+    
+    # Extract footer "Last updated: Month Day, Year" or similar formats
+    footer_match = re.search(r'Last updated:\s*(\w+\s+\d{1,2},?\s+\d{4})', content)
+    footer_date = None
+    if footer_match:
+        # Parse the footer date
+        date_str = footer_match.group(1)
+        # Convert "February 4, 2026" to "2026-02-04"
+        try:
+            from datetime import datetime
+            # Handle both "February 4, 2026" and "February 4 2026"
+            date_str_clean = date_str.replace(',', '')
+            parsed = datetime.strptime(date_str_clean, '%B %d %Y')
+            footer_date = parsed.strftime('%Y-%m-%d')
+        except ValueError:
+            footer_date = date_str  # Keep as-is if parsing fails
+    
+    issues = []
+    if frontmatter_date is None:
+        issues.append("Missing last_updated in frontmatter")
+    if footer_date is None:
+        # Not all pages have footer dates, so this is minor
+        pass
+    
+    if frontmatter_date and footer_date and frontmatter_date != footer_date:
+        issues.append(f"Date mismatch: frontmatter={frontmatter_date}, footer={footer_date}")
+    
+    return {
+        "pass": len(issues) == 0,
+        "frontmatter_date": frontmatter_date,
+        "footer_date": footer_date,
+        "details": "; ".join(issues) if issues else "Timestamps consistent"
+    }
+
+
+def check_review_scores(content: str) -> Dict:
+    """Check if Reception section has actual numeric review scores."""
+    # Find Reception section
+    reception_match = re.search(r'##\s*Reception\s*\n(.*?)(?=\n##\s|\Z)', content, re.DOTALL)
+    
+    if not reception_match:
+        return {"pass": True, "details": "No Reception section"}
+    
+    reception_text = reception_match.group(1)
+    
+    # Look for score patterns: "85%", "8/10", "8.5/10", "4/5", "91% score", etc.
+    score_patterns = [
+        r'\d{1,3}%',           # 85%, 91%
+        r'\d+\.?\d*/\d+',      # 8/10, 8.5/10, 4/5
+        r'\d+\.?\d*\s*out of\s*\d+',  # 8 out of 10
+        r'score[d]?\s+\d+',    # scored 85
+        r'\d+\.?\d*\s*stars?', # 4 stars, 4.5 star
+    ]
+    
+    found_scores = []
+    for pattern in score_patterns:
+        matches = re.findall(pattern, reception_text, re.IGNORECASE)
+        found_scores.extend(matches)
+    
+    has_scores = len(found_scores) > 0
+    
+    # Also check for "Aggregate Scores" section
+    has_aggregate = 'Aggregate Scores' in reception_text or 'aggregate' in reception_text.lower()
+    
+    return {
+        "pass": has_scores,
+        "has_aggregate_section": has_aggregate,
+        "scores_found": len(found_scores),
+        "sample_scores": found_scores[:5],
+        "details": f"Found {len(found_scores)} review scores" if has_scores else "Reception section has no numeric scores"
+    }
+
+
+def check_designer_links(content: str) -> Dict:
+    """Check if notable Sierra designers have wiki links in Development section."""
+    # Find Development section
+    dev_match = re.search(r'##\s*Development\s*\n(.*?)(?=\n##\s|\Z)', content, re.DOTALL)
+    
+    if not dev_match:
+        return {"pass": True, "details": "No Development section"}
+    
+    dev_text = dev_match.group(1)
+    dev_text_lower = dev_text.lower()
+    
+    # Find wiki-linked names
+    wiki_linked = set()
+    for match in re.finditer(r'\[\[([^\]|]+)', dev_text):
+        wiki_linked.add(match.group(1).lower())
+    
+    # Check for notable designers mentioned without wiki links
+    unlinked_designers = []
+    for designer in NOTABLE_DESIGNERS:
+        # Check if designer name appears in text
+        if designer in dev_text_lower:
+            # Check if it's wiki-linked
+            is_linked = any(designer in linked for linked in wiki_linked)
+            if not is_linked:
+                # Format nicely
+                unlinked_designers.append(designer.title())
+    
+    return {
+        "pass": len(unlinked_designers) == 0,
+        "unlinked_count": len(unlinked_designers),
+        "unlinked_designers": unlinked_designers[:5],
+        "details": f"Unlinked designers: {', '.join(unlinked_designers)}" if unlinked_designers else "All notable designers linked"
+    }
+
+
 def calculate_score(checks: Dict, flagship: bool = False) -> int:
-    """Calculate overall quality score from checks."""
+    """Calculate overall quality score from checks.
+    
+    Scoring weights (total 100):
+    - Citations: 25 points
+    - Duplicates: 10 points
+    - Sections: 15 points
+    - Frontmatter: 10 points
+    - Promotional language: 8 points
+    - Wiki links: 5 points
+    - Series cross-refs: 5 points
+    - Year mismatch: 5 points
+    - Orphaned references: 5 points
+    - Purchase links: 2 points (warning only)
+    - Word count: 5 points
+    - Timestamp consistency: 2 points
+    - Review scores: 3 points
+    - Designer links: 2 points (warning only)
+    """
     score = 100
     
-    # Citations (30 points)
+    # Citations (25 points)
     citations = checks.get('citations', {})
     if not citations.get('pass'):
         count = citations.get('count', 0)
         target = citations.get('target', 15)
         shortfall = max(0, target - count)
-        score -= min(30, shortfall * 2)
+        score -= min(25, shortfall * 2)
     
-    # Duplicates (15 points)
+    # Duplicates (10 points)
     duplicates = checks.get('duplicates', {})
     if not duplicates.get('pass'):
         dup_count = duplicates.get('count', 0)
-        score -= min(15, dup_count * 3)
+        score -= min(10, dup_count * 2)
     
-    # Sections (20 points)
+    # Sections (15 points)
     sections = checks.get('sections', {})
     if not sections.get('pass'):
         missing = len(sections.get('missing', []))
-        score -= min(20, missing * 5)
+        score -= min(15, missing * 4)
     
-    # Frontmatter (15 points)
+    # Frontmatter (10 points)
     frontmatter = checks.get('frontmatter', {})
     if not frontmatter.get('pass'):
         missing = len(frontmatter.get('missing', []))
-        score -= min(15, missing * 3)
+        score -= min(10, missing * 2)
     
-    # Promotional language (10 points)
+    # Promotional language (8 points)
     promotional = checks.get('promotional', {})
     if not promotional.get('pass'):
         found_count = len(promotional.get('found_words', []))
-        score -= min(10, found_count * 2)
+        score -= min(8, found_count * 2)
     
     # Wiki links (5 points)
     wiki = checks.get('wiki_links', {})
@@ -345,6 +621,43 @@ def calculate_score(checks: Dict, flagship: bool = False) -> int:
     series = checks.get('series_crossrefs', {})
     if series.get('in_series') and not series.get('pass'):
         score -= 5
+    
+    # Year mismatch (5 points)
+    year = checks.get('year_mismatch', {})
+    if not year.get('pass'):
+        score -= 5
+    
+    # Orphaned references (5 points)
+    orphaned = checks.get('orphaned_references', {})
+    if not orphaned.get('pass'):
+        undefined = orphaned.get('undefined_count', 0)
+        uncited = orphaned.get('uncited_count', 0)
+        score -= min(5, undefined + uncited)
+    
+    # Purchase links (2 points - warning level)
+    purchase = checks.get('purchase_links', {})
+    if purchase.get('warning'):
+        score -= 2
+    
+    # Word count (5 points)
+    word_count = checks.get('word_count', {})
+    if not word_count.get('pass'):
+        score -= 5
+    
+    # Timestamp consistency (2 points)
+    timestamp = checks.get('timestamp_consistency', {})
+    if not timestamp.get('pass'):
+        score -= 2
+    
+    # Review scores (3 points)
+    review = checks.get('review_scores', {})
+    if not review.get('pass'):
+        score -= 3
+    
+    # Designer links (2 points - warning level)
+    designer = checks.get('designer_links', {})
+    if not designer.get('pass'):
+        score -= 2
     
     return max(0, score)
 
@@ -376,6 +689,7 @@ def determine_escalation(checks: Dict, score: int) -> bool:
 def generate_issues_list(checks: Dict) -> List[str]:
     """Generate human-readable issues list."""
     issues = []
+    warnings = []
     
     # Citations
     citations = checks.get('citations', {})
@@ -423,6 +737,46 @@ def generate_issues_list(checks: Dict) -> List[str]:
         if series.get('series_refs_count', 0) == 0:
             issues.append("No cross-references to other games in series")
     
+    # Year mismatch
+    year = checks.get('year_mismatch', {})
+    if not year.get('pass'):
+        issues.append(year.get('details', 'Year mismatch detected'))
+    
+    # Orphaned references
+    orphaned = checks.get('orphaned_references', {})
+    if not orphaned.get('pass'):
+        issues.append(orphaned.get('details', 'Orphaned references found'))
+    
+    # Purchase links (warning level)
+    purchase = checks.get('purchase_links', {})
+    if purchase.get('warning'):
+        warnings.append("⚠️ " + purchase.get('details', 'No purchase links'))
+    
+    # Word count
+    word_count = checks.get('word_count', {})
+    if not word_count.get('pass'):
+        issues.append(word_count.get('details', 'Word count issue'))
+    elif word_count.get('warning'):
+        warnings.append("⚠️ " + word_count.get('details', 'Word count warning'))
+    
+    # Timestamp consistency
+    timestamp = checks.get('timestamp_consistency', {})
+    if not timestamp.get('pass'):
+        issues.append(timestamp.get('details', 'Timestamp inconsistency'))
+    
+    # Review scores
+    review = checks.get('review_scores', {})
+    if not review.get('pass'):
+        issues.append(review.get('details', 'Missing review scores in Reception'))
+    
+    # Designer links (warning level)
+    designer = checks.get('designer_links', {})
+    if not designer.get('pass'):
+        warnings.append("⚠️ " + designer.get('details', 'Unlinked designers'))
+    
+    # Append warnings at end
+    issues.extend(warnings)
+    
     return issues
 
 
@@ -449,13 +803,22 @@ def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = Tru
     
     # Run all checks
     checks = {
+        # Original checks
         "citations": check_citations(content, flagship),
         "duplicates": check_duplicates(content),
         "sections": check_sections(content),
         "frontmatter": check_frontmatter(content),
         "promotional": check_promotional_language(content, use_llm=use_llm),
         "wiki_links": check_wiki_links(content),
-        "series_crossrefs": check_series_crossrefs(content, filepath)
+        "series_crossrefs": check_series_crossrefs(content, filepath),
+        # New Tier 1 checks
+        "year_mismatch": check_year_mismatch(content, filepath),
+        "orphaned_references": check_orphaned_references(content),
+        "purchase_links": check_purchase_links(content),
+        "word_count": check_word_count(content),
+        "timestamp_consistency": check_timestamp_consistency(content),
+        "review_scores": check_review_scores(content),
+        "designer_links": check_designer_links(content),
     }
     
     # Calculate score
