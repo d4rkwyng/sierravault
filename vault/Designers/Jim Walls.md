@@ -127,7 +127,7 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1993 | Blue Force | Tsunami Media | Designer |
+| 1993 | [[1993 - Blue Force|Blue Force]] | Tsunami Media | Designer |
 | 1997 | Blade Runner | Westwood Studios | Designer, Voice Actor |
 | 2002 | Pirates: The Legend of Black Kat | Westwood Studios / EA | Designer |
 | 2002 | Earth & Beyond | Westwood Studios / EA | Designer |
