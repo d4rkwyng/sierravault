@@ -268,6 +268,58 @@ Escape pipes in wiki links:
 
 ---
 
+## Spoilers
+
+Protect major plot reveals to preserve the player experience.
+
+### What Counts as a Spoiler
+
+**Always protect:**
+- Killer/villain identity reveals (especially mystery games)
+- Major character deaths
+- Ending twists and surprises
+- Betrayals by trusted characters
+
+**Don't protect:**
+- Marketing material (game box descriptions)
+- General premise or setup
+- Gameplay mechanics
+- Well-known historical facts about the game
+
+### Spoiler Formats
+
+**Inline spoiler** (single phrase/sentence):
+```markdown
+The killer is <span class="spoiler">Colonel Dijon</span>.
+```
+
+**Callout spoiler** (paragraph):
+```markdown
+> [!spoiler]- Ending Reveal
+> Description of the ending goes here.
+```
+
+**Details block** (major section):
+```markdown
+<details class="spoiler-block">
+<summary>Major Plot Spoiler</summary>
+
+Extended spoiler content goes here.
+
+</details>
+```
+
+### Priority by Genre
+
+| Genre | Spoiler Sensitivity |
+|-------|---------------------|
+| Mystery (Laura Bow, GK) | **Critical** - killer reveals sacred |
+| Horror (Phantasmagoria) | High - twist reveals important |
+| Adventure (KQ, SQ, QFG) | Medium - major deaths, endings |
+| Action/Sim | Low - gameplay-focused |
+
+---
+
 ## Lists
 
 ### Bullet Lists
