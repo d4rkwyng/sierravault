@@ -195,6 +195,18 @@
         "score": 91.0,
         "total": 91
       }
+    ],
+    "2008 - Ace of Aces.md": [
+      {
+        "timestamp": "2026-02-12T15:16:47.123579",
+        "score": 75.0,
+        "total": 75
+      },
+      {
+        "timestamp": "2026-02-12T15:17:35.017582",
+        "score": 82.0,
+        "total": 82
+      }
     ]
   },
   "runs": [
@@ -377,6 +389,18 @@
       "files_scored": 1,
       "average": 91.0,
       "passing": 1
+    },
+    {
+      "timestamp": "2026-02-12T15:16:47.123579",
+      "files_scored": 1,
+      "average": 75.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-12T15:17:35.017582",
+      "files_scored": 1,
+      "average": 82.0,
+      "passing": 0
     }
   ]
 }
