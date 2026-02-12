@@ -21,17 +21,17 @@ tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 
 ## Overview
 
-Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by [[Corey Cole]] and [[Lori Ann Cole]], the legendary creators of Sierra's Quest for Glory series[^ref-1]. Developed by Israeli studio Adventure Mob (later Corbomite Games) under the creative direction of Oded Sharon, the game places players in the role of Bolt Riley, a poor boy from Trenchtown, Jamaica, on his pathway to becoming a reggae legend[^ref-2]. Chapter 1 was released on February 8, 2018, following a protracted development cycle that included two Kickstarter campaigns and significant financial challenges[^ref-3].
+Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by [[Corey Cole]] and [[Lori Ann Cole]], the legendary creators of Sierra's Quest for Glory series[^ref-1]. Developed by Israeli studio Adventure Mob (later Corbomite Games) under the creative direction of Oded Sharon, the game places players in the role of Bolt Riley, a poor boy from Trenchtown, Jamaica, on his pathway to becoming a reggae legend[^ref-2]. Chapter 1 was released on February 8, 2018, following a protracted development cycle that included two Kickstarter campaigns and significant financial challenges[^ref-1].
 
 The game represents an interesting confluence of talent, emerging from connections formed when Adventure Mob was originally slated to develop Leisure Suit Larry: Reloaded for Replay Games[^ref-4]. When that partnership dissolved and development shifted to N-Fusion Interactive, Adventure Mob pivoted to their own original project, bringing aboard the Coles through industry connections[^ref-5]. As Oded Sharon explained: "I've been a fan of their work forever. I was looking for experienced designers when we began work on Bolt Riley. My friend Noah Falstien introduced me to them. They were in on the game's design from day one and they are in charge of about 1/3 of the puzzles and dialog of the full game."[^ref-6]
 
-The game features hand-drawn 2D background artwork and hand-drawn cel animation, combining all the elements of a classic point-and-click adventure with "funny dialog puzzles, exploration, wacky inventory items, and of course, a rope."[^ref-7] The adventure was funded through Kickstarter with the help of 757 backers, though the project fell short of its original $120,000 goal in the first campaign before successfully funding in a second attempt[^ref-8].
+The game features hand-drawn 2D background artwork and hand-drawn cel animation, combining all the elements of a classic point-and-click adventure with "funny dialog puzzles, exploration, wacky inventory items, and of course, a rope."[^ref-2] The adventure was funded through Kickstarter with the help of 757 backers, though the project fell short of its original $120,000 goal in the first campaign before successfully funding in a second attempt[^ref-10].
 
 > [!info]- Game Info
 > **Developer:** Adventure Mob / Corbomite Games[^ref-1]
 > **Designer:** Oded Sharon, [[Corey Cole]], [[Lori Ann Cole]][^ref-9]
 > **Publisher:** Adventure Mob / Corbomite Games[^ref-1]
-> **Engine:** Unity[^ref-10]
+> **Engine:** Unity[^ref-6]
 > **Platforms:** Windows, macOS, Linux, iOS, Android[^ref-1]
 > **Release Year:** 2018 (Chapter 1)
 > **Protagonist:** Bolt Riley
@@ -41,17 +41,17 @@ The game features hand-drawn 2D background artwork and hand-drawn cel animation,
 
 Set in 1970s Jamaica, Bolt Riley follows the titular protagonist, a good-hearted young man growing up in the impoverished Trenchtown neighborhood of Kingston[^ref-11]. Bolt is struggling to survive and must deal with a gang of thugs known as the Rude Boys who terrorize his community[^ref-2]. As Oded Sharon described the character: "He's a good boy who grew up in a bad environment. He doesn't want to be part of a world of crime and throughout the game he realises he wants to escape it and become the good person he is."[^ref-6]
 
-The story follows Bolt on a journey of self-discovery, love, friendship, and inspiration where he is introduced to reggae music and finds his calling[^ref-7]. Through classic adventure game mechanics—exploring environments, solving puzzles, engaging in dialog challenges, and collecting inventory items—players guide Bolt as he forms his band, finds inspiration, writes and produces songs, and ultimately performs them[^ref-12]. The narrative was planned across multiple chapters, each focusing on different aspects of Bolt's passage into becoming a reggae legend[^ref-2].
+The story follows Bolt on a journey of self-discovery, love, friendship, and inspiration where he is introduced to reggae music and finds his calling[^ref-7]. Through classic adventure game mechanics—exploring environments, solving puzzles, engaging in dialog challenges, and collecting inventory items—players guide Bolt as he forms his band, finds inspiration, writes and produces songs, and ultimately performs them[^ref-1]. The narrative was planned across multiple chapters, each focusing on different aspects of Bolt's passage into becoming a reggae legend[^ref-2].
 
 "This is the story of the underdog who breaks out and becomes a worldwide sensation," the developers proclaimed[^ref-7]. The tale draws inspiration from the real history of Jamaican reggae, with the Trenchtown setting serving as the birthplace of the genre and home to artists like Bob Marley[^ref-13]. The game takes place in Kingston, Jamaica, with environments based on 1970s photo references of the area[^ref-14].
 
-A unique gameplay element involves Bolt's "Inspirational powers"—special abilities he learns during his journeys that function similarly to the spell system in later Quest for Glory games, appearing in a separate inventory from regular items[^ref-15]. These powers reflect the spiritual and musical themes of reggae culture and provide alternative solutions to various puzzles.
+A unique gameplay element involves Bolt's "Inspirational powers"—special abilities he learns during his journeys that function similarly to the spell system in later Quest for Glory games, appearing in a separate inventory from regular items[^ref-2]. These powers reflect the spiritual and musical themes of reggae culture and provide alternative solutions to various puzzles.
 
 ## Development
 
 ### Origins and Adventure Mob
 
-Adventure Mob was founded as an Israeli game studio in Tel Aviv, with Oded Sharon serving as CEO[^ref-16]. Before Bolt Riley, the team had experience developing adventure games through their earlier company Corbomite Games, creating titles like Zbang, Pizza Morgana, and Star Shipping Inc[^ref-6]. The studio also created the first demo for Leisure Suit Larry: Reloaded, working with Unity to build what was intended to be a cross-platform remake[^ref-6].
+Adventure Mob was founded as an Israeli game studio in Tel Aviv, with Oded Sharon serving as CEO[^ref-6]. Before Bolt Riley, the team had experience developing adventure games through their earlier company Corbomite Games, creating titles like Zbang, Pizza Morgana, and Star Shipping Inc[^ref-6]. The studio also created the first demo for Leisure Suit Larry: Reloaded, working with Unity to build what was intended to be a cross-platform remake[^ref-6].
 
 In October 2011, Replay Games announced their HD remake of Leisure Suit Larry in the Land of the Lounge Lizards, initially partnering with Adventure Mob as the development studio[^ref-4]. However, this partnership was short-lived. As VentureBeat reported in July 2012: "The company had a setback when it changed developers from Adventure Mob, a Tel Aviv-based game studio, to N-Fusion Interactive in Manalapan, N.J."[^ref-17] The reasons for this change were not publicly detailed, but the split freed Adventure Mob to pursue their own original project.
 
@@ -154,27 +154,23 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 
 ## References
 
-[^ref-1]: [Steam Store Page](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official Steam listing with developer, publisher, and platform information
-[^ref-2]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Official developer description of the game
-[^ref-3]: [Steam Store Page](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — February 8, 2018 release date for Chapter 1
+[^ref-1]: [Steam Store Page](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official Steam listing with developer, publisher, platform information, and release date
+[^ref-2]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Official developer description, gameplay features, and Kickstarter backer information
 [^ref-4]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — Documents Adventure Mob's original involvement with LSL Reloaded
 [^ref-5]: [Rock Paper Shotgun - Bolt Riley Kickstarter](https://www.rockpapershotgun.com/bolt-riley-is-a-reggae-adventure-game-kickstartering) — Coverage of Kickstarter launch and Cole involvement (October 31, 2013)
-[^ref-6]: [Alternative Magazine Online Interview](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Extensive interview with Oded Sharon (November 20, 2013)
-[^ref-7]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Gameplay features and design description
-[^ref-8]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Kickstarter backer count (757 backers)
-[^ref-9]: [Adventure Mob - Bolt Riley Credits](https://adventuremob.com/bolt-riley-credits/) — Complete development credits
-[^ref-10]: [Alternative Magazine Online Interview](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Unity 3D engine and platform goals
-[^ref-11]: [itch.io - Bolt Riley](https://soundguy.itch.io/boltriley) — Story description and setting details
-[^ref-12]: [Steam Store Page](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Gameplay description
+[^ref-6]: [Alternative Magazine Online Interview](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Extensive interview with Oded Sharon covering background, Unity 3D engine, and design philosophy (November 20, 2013)
+[^ref-7]: [IMDB - Bolt Riley](https://www.imdb.com/title/tt8707024/) — Cast and production information
+[^ref-9]: [Adventure Mob - Bolt Riley Credits](https://adventuremob.com/bolt-riley-credits/) — Complete development credits including designers and voice cast
+[^ref-10]: [Kicktraq - Bolt Riley](http://www.kicktraq.com/projects/soundguy/bolt-riley-a-reggae-adventure-game/) — Kickstarter campaign tracking and Cole involvement summary
+[^ref-11]: [itch.io - Bolt Riley](https://soundguy.itch.io/boltriley) — Story description and game details
 [^ref-13]: [NoCamels](https://nocamels.com/2013/11/israeli-kickstarter-campaign-tries-to-bring-a-reggae-adventure-game-to-life/) — Israeli coverage of Kickstarter campaign (December 2013)
 [^ref-14]: [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1pz14b/hey_we_are_corey_and_lori_cole_creators_of_quest/) — Corey Cole, Lori Cole, and Oded Sharon AMA (November 5, 2013)
-[^ref-15]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Inspirational powers system description
-[^ref-16]: [Alternative Magazine Online Interview](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Oded Sharon background and Adventure Mob history
+[^ref-15]: [Facebook - Bolt Riley](https://www.facebook.com/BoltRiley/) — Official Facebook page with game updates
 [^ref-17]: [GamesBeat](https://gamesbeat.com/leisure-suit-larry-reloaded-has-lots-of-innuendo-without-explicit-sex-exclusive-preview/) — Reports Adventure Mob to N-Fusion developer switch
 [^ref-18]: [VentureBeat](https://venturebeat.com/2014/08/04/israeli-developer-tries-a-game-about-love-in-peace-during-wartime/) — Kickstarter funding details and investment history (August 4, 2014)
 [^ref-19]: [mxdwn Games](https://games.mxdwn.com/news/adventure-game-bolt-riley-attempts-7-day-kickstarter/) — Coverage of second Kickstarter campaign (August 5, 2014)
 [^ref-20]: [Steam - Soundtrack DLC](https://store.steampowered.com/app/510820/Bolt_Riley_A_Reggae_Adventure__Chapter_1_Soundtrack/) — Omri Lahav composer credit
-[^ref-21]: [Adventure Gamers - Bolt Riley](https://adventuregamers.com/games/view/25570) — Game database entry
+[^ref-21]: [Adventure Gamers - Bolt Riley](https://adventuregamers.com/games/view/25570) — Game database entry with release information
 [^ref-22]: [Patreon - The Future of Bolt Riley](https://www.patreon.com/posts/future-of-bolt-16877404) — Oded Sharon update on development status
-[^ref-23]: [itch.io - Bolt Riley](https://soundguy.itch.io/boltriley) — Alternative purchase option
+[^ref-23]: [ModDB - Bolt Riley](https://www.moddb.com/games/bolt-riley-a-reggae-adventure) — Game information and media
 [^ref-24]: [Humble Bundle - Bolt Riley](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free purchase option
