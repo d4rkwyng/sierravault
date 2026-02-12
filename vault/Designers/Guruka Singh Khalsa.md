@@ -126,7 +126,7 @@ The enduring popularity of the games he helped create testifies to the lasting v
 | Year | Title | Company | Role |
 |------|-------|---------|------|
 | 1999 | M.U.G.E.N | Elecbyte | Actor |
-| 2013 | Fester Mudd: Curse of the Gold - Episode 1 | Prank Ltd. | Special Thanks |
+| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold - Episode 1]] | Prank Ltd. | Special Thanks |
 
 ## References
 
