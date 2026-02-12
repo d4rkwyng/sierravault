@@ -10,7 +10,7 @@ series: Manhunter
 engine: Modified AGI (Adventure Game Interpreter)
 protagonist: Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-02-12'
 description: 'Manhunter: New York is a post-apocalyptic adventure game released in
   1988 by Sierra On-Line, developed by the husband-and-wife team Barry and Dave Murray...'
 tags: [1980s, adventure, agi, manhunter, sierra]
@@ -38,7 +38,10 @@ The game represents a significant departure from Sierra's typical family-oriente
 
 In the year 2002, Earth was invaded by the Orb Alliance, alien creatures that appear as enormous floating eyeballs[^ref-2]. Two years later, the surviving humans live under a totalitarian regime where they are forbidden to speak, must wear hooded robes to conceal their forms, and are implanted with tracking devices that monitor their every movement[^ref-9][^ref-10]. The aliens have established strict rules: "No humans must ever speak. All humans will wear concealing, hooded robes, to hide their disgusting forms"[^ref-1].
 
-The player assumes the role of a Manhunter, one of the few humans selected to work for the Orbs as a tracker and investigator[^ref-11]. Using a device called the Manhunter Assignment Device (MAD) and an authentic map of New York City, the player must track human activities and investigate suspected resistance members[^ref-12][^ref-13]. As the story progresses, the Manhunter discovers that the Orbs are actually harvesting humans as a food source[^ref-14], leading to a deeper investigation into the human underground movement and the true purpose behind the alien invasion[^ref-6].
+The player assumes the role of a Manhunter, one of the few humans selected to work for the Orbs as a tracker and investigator[^ref-11]. Using a device called the Manhunter Assignment Device (MAD) and an authentic map of New York City, the player must track human activities and investigate suspected resistance members[^ref-12][^ref-13]. As the story progresses, the Manhunter uncovers the horrifying truth behind the alien occupation, leading to a deeper investigation into the human underground movement[^ref-6].
+
+> [!warning]- Plot Spoiler
+> The Manhunter discovers that the Orbs are actually harvesting humans as a food source[^ref-14], revealing the true purpose behind the alien invasion.
 
 ## Gameplay
 

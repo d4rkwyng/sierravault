@@ -10,7 +10,7 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: William 'Blade' Hunter
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-02-12'
 description: Rise of the Dragon is a cyberpunk graphic adventure game developed by
   Dynamix and published by Sierra On-Line in 1990. Set in a dystopian Los Angeles
   in the...
@@ -45,7 +45,10 @@ The year is 2053, and Los Angeles has plunged headlong into the Age of Decay.[^r
 
 Enter William "Blade" Hunter, a former L.A. police detective whose unorthodox methods forced him into early retirement.[^ref-13] Despite his checkered past with law enforcement, Blade is approached by Mayor Vincenzi, who tells him: "Your low regard for property rights and callous disregard of accepted operation procedure which served you poorly as a police officer make you an ideal candidate for this job."[^ref-14] The investigation must remain strictly unofficial, but the stakes couldn't be higher—the mayor believes a much larger threat looms over the fourteen million residents of Los Angeles.
 
-As Blade delves deeper into the case, he uncovers a sinister conspiracy involving an oriental cult led by the mysterious Deng Hwang.[^ref-15] The MTZ drug is revealed to be part of a much more dangerous plot, with Deng Hwang planning to use the substance to transform himself into a powerful dragon creature and take over the city.[^ref-16] The investigation takes Blade through the seedy underbelly of future Los Angeles—from underground nightclubs like the Pleasure Dome to the headquarters of Deng Hwang Enterprises—as he races against time to prevent catastrophe.
+As Blade delves deeper into the case, he uncovers a sinister conspiracy involving an oriental cult led by the mysterious Deng Hwang.[^ref-15] The MTZ drug is revealed to be part of a much more dangerous plot.[^ref-16] The investigation takes Blade through the seedy underbelly of future Los Angeles—from underground nightclubs like the Pleasure Dome to the headquarters of Deng Hwang Enterprises—as he races against time to prevent catastrophe.
+
+> [!warning]- Plot Spoiler - Villain's Plan
+> Deng Hwang is planning to use the MTZ substance to transform himself into a powerful dragon creature and take over the city[^ref-16].
 
 Throughout his investigation, Blade must navigate complex relationships, including maintaining his romance with girlfriend Karyn Sommers, whose help proves crucial to completing his mission.[^ref-17] The story draws heavily from film noir and cyberpunk influences, particularly Ridley Scott's Blade Runner and the novels of William Gibson, creating a mature narrative that was unusual for adventure games of the era.[^ref-18]
 

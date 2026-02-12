@@ -10,7 +10,7 @@ series: Space Quest
 engine: SCI1
 protagonist: Roger Wilco
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-02-12'
 description: 'Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure
   game developed and published by Sierra On-Line, released in March 1991 for MS-DOS...'
 tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
@@ -42,7 +42,10 @@ Exploring the ruins of the planet's main city, Roger finds a recording revealing
 
 Taking himself back several years, he winds up on the Planet Estros during "Space Quest X: Latex Babes of Estros"—a parody of Infocom's Leather Goddesses of Phobos—where he encounters his future ex-girlfriend[^ref-5]. After rescuing her from trouble, Roger joins them on a shopping trip, acquiring items to assist in his quest[^ref-5]. Roger also visits Space Quest I, where the graphics and music become retro and he is threatened by a group of monochrome bikers who consider Roger's 256 colors pretentious[^ref-5].
 
-Infiltrating Vohaul's base, Roger finds the soldier who rescued him is actually his son from the future, and that Vohaul captured him[^ref-5]. After initiating the supercomputer's reformatting process, Roger confronts Vohaul, defeats him, rescues his son, and liberates Xenon once again[^ref-5]. His son provides only minor details about his future before Roger bids farewell and returns to the present[^ref-5].
+Infiltrating Vohaul's base, Roger discovers the true identity of the soldier who rescued him[^ref-5]. After initiating the supercomputer's reformatting process, Roger confronts Vohaul, defeats him, and liberates Xenon once again[^ref-5].
+
+> [!warning]- Plot Spoiler - Character Identity
+> The soldier who rescued Roger is actually his son from the future. Vohaul captured him, and Roger must rescue him before returning to the present. His son provides only minor details about his future before they part ways[^ref-5].
 
 ## Gameplay
 

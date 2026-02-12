@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-02-12'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As the first PC game to support
@@ -68,7 +68,10 @@ Puzzles draw heavily from fairy tale knowledge, with solutions often requiring f
 
 The game includes several notoriously difficult sequences. The whale tongue puzzle, where Rosella must escape from inside a whale by climbing its tongue and tickling its uvula with a feather, became so infamous that Al Lowe referenced it in Leisure Suit Larry III.[^ref-17][^ref-20] An invisible bridle hidden on a desert island remains imperceptible except for a brief glint mentioned only in the SCI version, leaving players permanently stuck if they leave the island without it.[^ref-19][^ref-20]
 
-A maximum score of 158 points rewards thorough exploration and optimal puzzle solutions. The game features multiple endings, including a tragic alternate ending where Rosella returns to Daventry without the magical fruit, watching her father die before her eyes.[^ref-21][^ref-22]
+A maximum score of 158 points rewards thorough exploration and optimal puzzle solutions. The game features multiple endings depending on the player's choices and thoroughness.[^ref-21][^ref-22]
+
+> [!warning]- Spoiler - Alternate Endings
+> The game includes a tragic alternate ending where Rosella returns to Daventry without the magical fruit, watching her father die before her eyes.[^ref-21][^ref-22]
 
 ## Reception
 
