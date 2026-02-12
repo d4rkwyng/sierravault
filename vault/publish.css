@@ -54,15 +54,20 @@ table th[data-sort-dir="desc"] .sort-indicator {
   color: var(--text-muted, #444);
 }
 
-/* Mark elements used as spoilers (==SPOILER: text==) */
-mark.spoiler {
-  background-color: var(--text-normal, #1a1a1a);
-  color: var(--text-normal, #1a1a1a);
+/* Spoiler callout - collapsed by default */
+.callout[data-callout="spoiler"] {
+  --callout-color: 180, 65, 65;
+  --callout-icon: lucide-eye-off;
+  background-color: var(--background-secondary);
 }
 
-mark.spoiler.revealed {
-  background-color: var(--text-highlight-bg, #fff3a3);
-  color: var(--text-normal, #dcddde);
+.callout[data-callout="spoiler"] .callout-title {
+  font-weight: 600;
+}
+
+.callout[data-callout="spoiler"]:not(.is-collapsed) .callout-content {
+  border-top: 1px solid rgba(180, 65, 65, 0.3);
+  padding-top: 10px;
 }
 
 /* Mobile tap support */

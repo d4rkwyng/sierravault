@@ -44,7 +44,12 @@ The wizard Erasmus introduces the Hero to the Greece-like kingdom of Silmaria, w
 
 The Hero competes against several competitors, including the Silmarian guard Kokeeno Pookameeso, the warlord Magnum Opus, the hulking Gort, and the warrior Elsa Von Spielburg, who played a significant role in the first game[^ref-1][^ref-4]. As the Rites commence, an unknown assassin begins systematically picking off the contestants[^ref-1]. Each contestant is murdered by a poison dagger near Dragon Pillars, the objects used to keep the Dragon of Silmaria locked up[^ref-1][^ref-4].
 
-After completing the second Rite, ==SPOILER: Rakeesh is attacked by the assassin and, depending on the player's choices, either lives or dies==[^ref-1]. The conspiracy is eventually unraveled and the Dragon, having been released due to the destruction of the Dragon Pillars, is defeated[^ref-1]. The characters Katrina and Erana make a return in this installment as assistance for defeating the Dragon[^ref-1][^ref-4]. ==SPOILER: Bruno from the first Quest for Glory game== is revealed to be the assassin terrorizing the streets of Silmaria[^ref-1][^ref-4].
+After completing the second Rite, the Hero faces increasingly dangerous challenges as the conspiracy unfolds[^ref-1]. The conspiracy is eventually unraveled and the Dragon, having been released due to the destruction of the Dragon Pillars, is defeated[^ref-1]. The characters Katrina and Erana make a return in this installment as assistance for defeating the Dragon[^ref-1][^ref-4].
+
+> [!warning]- Major Spoilers (Click to reveal)
+> **Rakeesh's Fate:** After the second Rite, Rakeesh is attacked by the assassin and, depending on the player's choices, either lives or dies[^ref-1].
+> 
+> **Assassin Identity:** Bruno from the first Quest for Glory game is revealed to be the assassin terrorizing the streets of Silmaria[^ref-1][^ref-4].
 
 ## Gameplay
 

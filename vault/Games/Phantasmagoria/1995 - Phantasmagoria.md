@@ -42,7 +42,10 @@ Phantasmagoria represented the apex of the FMV gaming trend of the mid-1990s, wi
 
 The story follows paperback writer Adrienne Delaney, who has recently moved with her photographer husband Donald Gordon into a remote, enormous mansion on the Massachusetts coastline in the fictional town of Nipawompsett[^ref-2][^ref-10]. The mansion was previously owned by Zoltan "Carno" Carnovasch, a famous magician from the late 19th century whose dark history gradually becomes central to the unfolding horror[^ref-10]. Shortly after their arrival, Adrienne begins experiencing terrifying nightmares and encounters strange characters within the old house[^ref-11].
 
-As Adrienne explores the mansion, she discovers that the house harbors a malevolent supernatural presence that begins to exert a sinister influence over her husband. Donald's personality undergoes a disturbing transformation, ==SPOILER: becoming increasingly violent and hostile==[^ref-11]. Through her investigations, Adrienne uncovers the tragic fate of Carno's five wives—Hortencia, Victoria, Regina, Leonora, and Marie—each of whom met gruesome ends at the hands of the demon-possessed magician[^ref-2].
+As Adrienne explores the mansion, she discovers that the house harbors a malevolent supernatural presence that begins to exert a sinister influence over her husband. Donald's personality undergoes a disturbing transformation[^ref-11]. Through her investigations, Adrienne uncovers the tragic fate of Carno's five wives—Hortencia, Victoria, Regina, Leonora, and Marie—each of whom met gruesome ends at the hands of the demon-possessed magician[^ref-2].
+
+> [!warning]- Content Warning / Spoiler
+> As the demon's influence grows, Donald becomes increasingly violent and hostile toward Adrienne[^ref-11].
 
 Adrienne must race against time to unravel the terrible secrets of the mansion's past before the unknown force completely consumes her husband. The narrative draws heavily from classic horror traditions, with critics noting its similarity to Stephen King's "The Shining"[^ref-12]. The game's gruesome horror story was described as being "in the spirit of Edgar Allan Poe and Stephen King," featuring content that made it "very unsuitable for children"[^ref-13].
 

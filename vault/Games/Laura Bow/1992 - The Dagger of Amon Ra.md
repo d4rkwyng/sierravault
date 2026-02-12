@@ -46,7 +46,10 @@ One year after the events of *The Colonel's Bequest*, Laura Bow has graduated fr
 
 During a gala party to celebrate the opening of the museum's new Egyptian wing, chaos ensues when someone is murdered and the priceless dagger is stolen[^ref-8]. Laura, demonstrating the investigative spirit that served her well in Louisiana, asks to be allowed to investigate and finds herself locked in the museum with the rest of the guests—socialites, miscreants, thieves, and a cold, relentless murderer[^ref-6]. As the night progresses, more bodies appear in increasingly gruesome conditions, and Laura must gather clues and interrogate suspects to unravel the mystery[^ref-11].
 
-The cast of characters includes Dr. Pippin Carter, an archaeologist who compares himself to his cousin (implied to be Howard Carter, discoverer of Tutankhamun's tomb)[^ref-1]; Detective Ryan O'Riley, who proves to be ==SPOILER: more involved in the crimes than his badge suggests==[^ref-12]; and numerous other suspects with their own secrets and motives. Laura's romantic interest Steve Dorian, a stevedore at the museum, becomes increasingly important as the plot unfolds—a reference in *Gabriel Knight: Sins of the Fathers* suggests that Laura eventually marries him and becomes Laura Dorian[^ref-4].
+The cast of characters includes Dr. Pippin Carter, an archaeologist who compares himself to his cousin (implied to be Howard Carter, discoverer of Tutankhamun's tomb)[^ref-1]; Detective Ryan O'Riley[^ref-12]; and numerous other suspects with their own secrets and motives.
+
+> [!warning]- Character Spoiler
+> Detective O'Riley proves to be more involved in the crimes than his badge suggests[^ref-12]. Laura's romantic interest Steve Dorian, a stevedore at the museum, becomes increasingly important as the plot unfolds—a reference in *Gabriel Knight: Sins of the Fathers* suggests that Laura eventually marries him and becomes Laura Dorian[^ref-4].
 
 The game features four distinct endings depending on the thoroughness of the player's investigation[^ref-13]. Only through meticulous detective work—examining every clue and questioning every character repeatedly—can players achieve the best possible ending[^ref-14].
 
