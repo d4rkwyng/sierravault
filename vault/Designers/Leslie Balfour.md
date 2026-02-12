@@ -112,8 +112,8 @@ Her successful transition from game development to project management and novel 
 | 1996 | Quest for Glory Anthology | Producer |
 | 1997 | King's Quest Collection Series | Writer (The Royal Scribe) |
 | 1997 | Space Quest Collection Series | Writer/Director ("Making of Space Quest" Video) |
-| 1997 | The Realm | Writer |
-| 1998 | Police Quest: SWAT 2 | Manual Proofreader |
+| 1997 | [[1996 - The Realm Online\|The Realm]] | Writer |
+| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Manual Proofreader |
 | — | [[CXL - Space Quest VII - Return to Roman Numerals\|Space Quest VII: Return to Roman Numerals]] | Co-Designer (Cancelled) |
 
 ## References
