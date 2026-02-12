@@ -71,7 +71,7 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 
 ### Sierra On-Line (1982–1995)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 1982 | [[1982 - Creepy Corridors\|Creepy Corridors]] | Programmer |
 | 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Programmer |
@@ -97,7 +97,7 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 
 ### Post-Sierra / Guys From Andromeda (2012–Present)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Creator |
 | 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Co-Designer |

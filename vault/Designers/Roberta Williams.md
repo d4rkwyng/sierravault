@@ -77,7 +77,7 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 
 ### On-Line Systems / Sierra On-Line (1980–1999)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | Designer |
 | 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Designer |
@@ -107,7 +107,7 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 
 ### Post-Sierra (2023)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Designer |
 

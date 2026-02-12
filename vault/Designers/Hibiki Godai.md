@@ -71,7 +71,7 @@ The enduring appeal of Godai's work is evidenced by the continued interest in hi
 
 ## Games
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 1985 | [[1985 - Thexder\|Thexder]] | Designer/Programmer/Composer |
 | 1986 | [[1988 - Silpheed\|Silpheed]] | Sub Programmer (Music/Opening) |

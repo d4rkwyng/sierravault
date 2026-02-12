@@ -59,7 +59,7 @@ His 60 credits across 22 games reflects not the limitations of his contributions
 
 ### Sierra On-Line (1988–1991)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Development System |
 | 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | Additional Design |

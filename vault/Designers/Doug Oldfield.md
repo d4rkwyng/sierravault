@@ -65,7 +65,7 @@ The Astro Chicken minigame remains his most visible creative contribution, prese
 
 ### Sierra On-Line (1988–1998)
 
-| Year | Game | Role |
+| Year | Title | Role |
 |------|------|------|
 | 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] | Programmer |
 | 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Programmer, Astro Chicken Creator |
