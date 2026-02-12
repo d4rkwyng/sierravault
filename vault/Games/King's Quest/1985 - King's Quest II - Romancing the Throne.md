@@ -225,47 +225,8 @@ This game has been included in[^ref-1]:
 - [The Cutting Room Floor – KQ2](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) – unused content[^ref-22]
 
 ## See Also
-
-- **Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984)
-- **Next:** [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] (1986)
 - [[King's Quest Series]] - Series overview
 - [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest - Quest for the Crown]]
 - [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III - To Heir Is Human]]
 
-## References
-
-[^ref-1]: [MobyGames – King's Quest II](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) – – credits, platforms, reviews, trivia
-[^ref-2]: [AGI Wiki – King's Quest II](https://agiwiki.sierrahelp.com/index.php/King%27s_Quest_II) – – release date, version info
-[^ref-3]: [DOS Days – King's Quest II](https://dosdays.co.uk/topics/Games/game_kq2.php) – – technical specs, version history, development
-[^ref-4]: [Hardcore Gaming 101 – King's Quest II](http://www.hardcoregaming101.net/kings-quest-ii-romancing-the-throne/) – – retrospective, bridge critique, AGDI assessment
-[^ref-5]: [IGN – A Year of Adventure #2](https://www.ign.com/articles/2014/02/10/a-year-of-adventure-2-kings-quest-ii-amp-iii) – – retrospective
-[^ref-6]: [The Adventure Gamer – KQ2 PISSED Rating](https://advgamer.blogspot.com/) – – review breakdown
-[^ref-7]: [Elisoftware – King's Quest II](https://elisoftware.org/) – – contemporary review quotes, system requirements
-[^ref-8]: [GameFAQs – King's Quest II Walkthrough](https://gamefaqs.gamespot.com/pc/564476-kings-quest-ii-romancing-the-throne) – – plot, easter eggs
-[^ref-9]: [King's Quest Omnipedia – Valanice](https://kingsquest.fandom.com/wiki/Valanice) – – character details
-[^ref-10]: [Adventure Gamers – King's Quest II](https://adventuregamers.com/games/kings-quest-ii-romancing-the-throne) – – review (3/5), bridge analysis, interface
-[^ref-11]: [Nerdly Pleasures – KQ2 Booters](http://nerdlypleasures.blogspot.com/2013/11/playing-kings-quest-and-kings-quest-ii.html) – – walking speeds, RAM, booter details
-[^ref-12]: [King's Quest Companion 4th Edition (1997)](https://archive.org/details/kingsquestcompan00spea) – – max score 185, point breakdown
-[^ref-13]: [Eristic – King's Quest II Easter Eggs](http://eristic.net/) – – bridge crossing limit
-[^ref-14]: [Atari Mania – King's Quest II](https://www.atarimania.com/) – – C+VG review score
-[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) – – rating, credits, Thriller trivia
-[^ref-16]: [HowLongToBeat – King's Quest II](https://howlongtobeat.com/game/5028) – – completion time, user rating
-[^ref-17]: [Choicest Games – King's Quest II Review](https://www.choicestgames.com/) – – 4/10 review
-[^ref-18]: [KQ Fandom – KQ1 Development](https://kingsquest.fandom.com/wiki/KQ1_development) – – Roberta Williams quote
-[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) – – cancelled remake, hint book
-[^ref-20]: [Giant Bomb – King's Quest II](https://giantbomb.com/wiki/Games/Kings_Quest_II_Romancing_the_Throne) – – Batmobile, Thriller easter eggs
-[^ref-21]: [Bio Break – KQ2 Batmobile](https://biobreak.wordpress.com/tag/kings-quest-ii/) – – Batmobile documentation
-[^ref-22]: [The Cutting Room Floor – KQ2](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) – – unused content, debug commands, Mac backdoor
-[^ref-23]: [AGD Interactive – King's Quest II](https://www.agdinteractive.com/games/kq2/) – – remake downloads, features
-[^ref-24]: [AGD Interactive – KQ2 Development](https://www.agdinteractive.com/) – – voice cast
-[^ref-25]: [Steam – King's Quest Chapter 3](https://store.steampowered.com/app/345390/) – – 2015 reboot chapter
-[^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – purchase, 4.1/5 user reviews
-[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – purchase, 86% Very Positive reviews
-[^ref-28]: [Internet Archive – King's Quest II](https://archive.org/details/msdos_Kings_Quest_II_-_Romancing_the_Throne_1985) – – preservation
-[^ref-29]: [DOS Zone – King's Quest II](https://dos.zone/kings-quest-ii-romancing-the-throne-1987/) – – browser playable
-[^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) – – technical support
-[^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) – – technical fixes
-[^ref-32]: [King's Quest Fandom – KQ2 Development](https://kingsquest.fandom.com/wiki/KQ2_development) – – music track count, Tchaikovsky theme
-[^ref-33]: [MIDI Music Adventures – KQ2 Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/kq2rts/) – – Tom Lewandowski composer, 70+ tracks, "When I Saw You" love theme, recording equipment
-[^ref-34]: [King's Quest Omnipedia – The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – – Roberta Williams endorsement, book history
-[^ref-35]: [King's Quest Omnipedia – Batmobile](https://kingsquest.fandom.com/wiki/Batmobile) – – in-game narrator quote
+## 

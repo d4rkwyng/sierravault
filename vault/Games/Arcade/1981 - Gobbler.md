@@ -184,28 +184,8 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 - [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2]
 
 ## See Also
-
-Gobbler is a standalone title and not part of any game series. However, it connects to On-Line Systems' broader catalog of arcade clones from the early 1980s through its developer, Olaf Lubeck, who also created Cannonball Blitz.[^ref-1]
-
-Cannonball Blitz, released in 1982 for Apple II and later ported to Commodore VIC-20 in 1983 under Sierra's SierraVision label, was a Donkey Kong clone featuring a Revolutionary War theme set at "Cannonball Castle on Nutcracker Hill."[^ref-4] The game was described as "fun but at times frustrating and difficult" and continued Lubeck's pattern of translating popular arcade experiences to home computers.[^ref-4]
-
-**Related Titles by Developer:**
 - **Cannonball Blitz (1982)** – Donkey Kong clone by Olaf Lubeck[^ref-1]
 - [[1981 - Frogger|← Previous: Frogger]]
 - [[1981 - Sabotage|→ Next: Sabotage]]
 
-## References
-
-[^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history
-[^ref-2]: [LaunchBox Games Database – On-Line Systems](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release date August 15 1981, community rating 3.50/5, maze layout differences, Pac-Man clone description
-[^ref-3]: [Retro365 Blog – Gobbler: Ken and Roberta Williams Takes on Atari](https://retro365.blog/2021/06/15/bits-from-my-personal-collection-gobbler-ken-and-roberta-williams-takes-on-atari/) – Olaf Lubeck biography, Los Alamos employment, development history, control scheme critique, sales figures, lawsuit details, five-month market presence, Ken Williams quote
-[^ref-4]: [Retro365 Blog – Cannonball Blitz: Clones, Lawsuits, Clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Olaf Lubeck development pattern, Los Alamos spare time work, Cannonball Blitz details, SierraVision label, VIC-20 port
-[^ref-5]: [Internet Archive – Wozaday Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation, download availability
-[^ref-6]: [MyAbandonware – Gobbler](https://www.myabandonware.com/game/gobbler-7nh) – game preservation, download availability
-[^ref-7]: [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/) – database entry, game documentation
-
-[^ref-8]: [VirtualApple – Gobbler](https://www.virtualapple.org/gobblerdisk.html) – Apple II emulation, playable version, technical requirements
-
-[^ref-9]: [GameSpot – Gobbler](https://www.gamespot.com/games/gobbler/) – platform coverage, genre classification, game database entry
-
-[^ref-10]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog, release chronology
+## 

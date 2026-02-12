@@ -232,36 +232,7 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 - [Starsiege Forums – Modern LAN Setup Guide](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions)[^ref-19]
 
 ## See Also
-
-Metaltech: Battledrome was released as part of Dynamix's expansion into the mech combat genre, alongside its companion title Metaltech: Earthsiege. While Earthsiege offered a more traditional single-player campaign experience, Battledrome focused exclusively on arena-based competitive combat. Both games share the same universe, HERC designs, and core mechanics, but serve different gameplay preferences[^ref-4].
-
-The Metaltech series established the foundation for what would become an extensive game universe, eventually spawning the Starsiege games and culminating in the landmark Tribes series[^ref-10]. Battledrome's emphasis on networked multiplayer combat can be seen as an early prototype for the competitive online gameplay that would define the Tribes franchise.
-
 - **Related:** [[1994 - Metaltech - Earthsiege]]
 - [[1994 - Metaltech - Earthsiege|→ Next: Metaltech - Earthsiege]]
 
-## References
-
-[^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings, media formats, credits
-[^ref-2]: [Internet Archive – Battledrome Demo](https://archive.org/details/bdrome) – game description, betting mechanics, release year
-[^ref-3]: [Collection Chamber – Metaltech: Battledrome](https://collectionchamber.blogspot.com/p/metaltech-battledrome.html) – early online battle arena designation, control criticism, NetMech comparison
-[^ref-4]: [Wikipedia – Metaltech: Battledrome](https://en.wikipedia.org/wiki/Metaltech:_Battledrome) – designers, Earthsiege companion status, Computer Gaming World review details, equipment purchase mechanics
-[^ref-5]: [OldGames.sk – Metaltech: Battledrome](https://www.oldgames.sk/en/game/metaltech-battledrome/) – rating, hardware requirements, multiplayer focus, NetMech predecessor status
-[^ref-17]: [Dynamix Fandom Wiki – Metaltech: Battledrome](https://dynamix.fandom.com/wiki/Metaltech:_Battledrome) – 3D graphics, physics, gameplay features
-[^ref-8]: [Amazon – Metaltech Battledrome](https://www.amazon.com/Metaltech-Battledrome-PC/dp/B000S8E8EI) – 3Space engine, customizable features, HERC chassis count, weapons arsenal
-[^ref-9]: [Metacritic – Metaltech: Battledrome](https://www.metacritic.com/game/metaltech-battledrome/) – marketing tagline, ranking competition
-[^ref-10]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – BattleTech similarities, series evolution to Tribes
-[^ref-11]: [Free Game Empire – Metaltech Battledrome](https://www.freegameempire.com/games/Metaltech-Battledrome) – Battledrome Robotic Combat Network description, game atmosphere, Dynamix company history
-[^ref-12]: [MyAbandonware – Metaltech: Battledrome](https://www.myabandonware.com/game/metaltech-battledrome-2wd) – first-person perspective, user rating, regional release dates
-[^ref-13]: [MobyGames – Technical Specs](https://www.mobygames.com/game/1401/metaltech-battledrome/specs/dos/) – system requirements, input devices, sound support, multiplayer options, content ratings
-[^ref-14]: [DOSGames.com – Metaltech: Battledrome](https://dosgames.com/game/metaltech-battledrome/) – rating, resolution, demo description, Instant Action mode
-[^ref-15]: [GOG Dreamlist – Metaltech: Battledrome](https://www.gog.com/dreamlist/game/metaltech-battledrome-1994) – user testimonials, negotiation mechanics, Warlord cheat
-[^ref-16]: [ClassicReload – Metaltech: Battledrome](https://classicreload.com/metaltech-battledrome.html) – energy distribution mechanic, ranking progression
-[^ref-18]: [Abandonware DOS – Metaltech: Battledrome](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Metaltech:+Battledrome&gid=3323) – rating, designers, game modes
-[^ref-19]: [Starsiege Forums – LAN Instructions](https://starsiege1.proboards.com/thread/791/metaltech-battledrome-plus-lan-instructions) – modern play instructions, DOSBox requirements, LAN player count
-[^ref-20]: [Mirsoft Game Music Base](http://www.mirsoft.info/gmb/music_info.php?id_ele=MjEzNA%3D%3D) – music track count, MIDI format, half-speed playback quirk
-[^ref-21]: [MobyGames – Release Information](https://www.mobygames.com/game/1401/metaltech-battledrome/releases/dos/) – regional release dates, CD-ROM version
-[^ref-22]: [IGN – PC Cheats](https://www.ign.com/wikis/pc-cheats/Metaltech:_Battledrome_Cheats) – asterisk name cheat
-[^ref-23]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Metaltech_Battledrome_1994) – preservation, recommended hardware
-[^ref-24]: [Internet Archive – USA CD-ROM](https://archive.org/details/metaltech-battledrome-usa) – CD-ROM media confirmation
-[^ref-25]: [DOS Games Archive – Demo Download](https://www.dosgamesarchive.com/download/metaltech-battledrome) – demo details, executable information
+## 

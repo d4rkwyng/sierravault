@@ -227,35 +227,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 - [DOSBox Staging Issue #312](https://github.com/dosbox-staging/dosbox-staging/issues/312) - Emulation compatibility documentation[^ref-6]
 
 ## See Also
-
-Hoyle Battling Ships And War is part of Sierra's long-running Hoyle's Official Book of Games series, which began in 1989 and continued through the late 1990s[^ref-2]. The series included numerous titles covering various card games, board games, and casino games, all bearing the Hoyle brand known for authoritative rules on traditional games.
-
-The 1998 release date places this title among the later entries in Sierra's Hoyle catalog, released during a period when the company was producing multiple gaming brands across various genres[^ref-1][^ref-3]. The game shares development personnel with other Sierra titles of the era, including multiple Hoyle products[^ref-3][^ref-7][^ref-8].
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1997 - Hoyle Classic Board Games|→ Next: Hoyle Classic Board Games]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Battling Ships and War](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/) – release date, developer, publisher, designer, composer, voice cast, platforms, technical specifications, multiplayer features
-
-[^ref-2]: [PCGamingWiki – Hoyle Battling Ships and War](https://www.pcgamingwiki.com/wiki/Hoyle_Battling_Ships_and_War) – system requirements, display specifications, platform compatibility, series information, trivia
-
-[^ref-3]: [MobyGames – Steven Bryan Bieler](https://www.mobygames.com/person/155948/steven-bryan-bieler/) – writer/editor credit, collaborator information, Sierra Entertainment connection
-
-[^ref-4]: [MobyGames – Allan Batchelder](https://www.mobygames.com/person/9099/allan-batchelder/) – voice actor credit
-
-[^ref-5]: [MobyGames – Rodney Sherwood Credits](https://www.mobygames.com/person/9094/rodney-sherwood/credits/) – script writer and voice actor dual credit
-
-[^ref-6]: [DOSBox Staging – GitHub Issue #312](https://github.com/dosbox-staging/dosbox-staging/issues/312) – technical compatibility issues, PE32 executable format, cputype requirements
-
-[^ref-7]: [MobyGames – Brick Baldwin](https://www.mobygames.com/person/20244/brick-baldwin/) – program manager credit
-
-[^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – senior software engineer credit
-
-[^ref-9]: [MobyGames – Beth Quintana](http://www.mobygames.com/developer/sheet/view/developerId,11307) – corporate products certification credit
-
-[^ref-10]: [MobyGames – Julie Bazuzi](https://www.mobygames.com/person/5146/julie-bazuzi/) – QA testing credit
-
-[^ref-11]: [MobyGames – Eric Tangborn](https://www.mobygames.com/person/27396/eric-tangborn/) – QA analyst credit
-
-[^ref-12]: [MobyGames – Torsten Reinl](https://www.mobygames.com/person/23208/torsten-reinl/) – QA analyst credit
+## 

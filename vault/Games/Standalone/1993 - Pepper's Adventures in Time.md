@@ -146,31 +146,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
 ## See Also
-
-- **Previous:** None (standalone game)
-- **Next:** None (sequel cancelled due to poor sales)
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|← Previous: Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Slater & Charlie Go Camping|→ Next: Slater & Charlie Go Camping]]
 
-## References
-
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release year and basic information
-[^ref-2]: [Adventure Blog](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Development background and educational focus
-[^ref-3]: [Internet Archive](https://archive.org/details/peppers-adventures-in-timepc) – Character and plot details
-[^ref-4]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/peppers-adventures-in-time-ibm-pc-1993/) – Intended franchise information
-[^ref-5]: [MobyGames](https://www.mobygames.com/game/6312/peppers-adventures-in-time/) – Developer information
-[^ref-6]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/pepper-s-adventures-in-time/) – Design team details, Josh Mandel quote
-[^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pepper's_Adventures_in_Time) – Platform details
-[^ref-8]: [Classic Reload](https://classicreload.com/peppers-adventures-in-time.html) – Plot synopsis
-[^ref-9]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/peppers-adventures-in-time) – Story details
-[^ref-10]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PeppersAdventuresInTime) – Plot description
-[^ref-11]: [Adventure Blog](https://advgamer.blogspot.com/2024/09/peppers-adventures-in-time-can-you.html) – Character switching mechanics
-[^ref-12]: [UHS Hints](https://www.uhs-hints.com/uhsweb/pepper.php) – Game structure
-[^ref-13]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564732-peppers-adventures-in-time/faqs/1965) – Quiz system details
-[^ref-14]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2025/04/24/peppers-adventures-in-time/) – Puzzle description, review
-[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pepper's+Adventures+in+Time&gid=1927) – User rating
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws) – Community rating
-[^ref-17]: [IMDb](https://www.imdb.com/find/?q=Pepper%27s+Adventures+in+Time&s=tt) – User score
-[^ref-18]: [Web Archive AdventureGamers](https://web.archive.org/web/20121012192955/http://www.adventuregamers.com/articles/view/18253) – Modern assessment
-[^ref-19]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-peppers-adventures-in-time/) – No sequel confirmation
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/peppers-adventures-in-time/_consolidated.json) – Multiple sources from research collection
+## 

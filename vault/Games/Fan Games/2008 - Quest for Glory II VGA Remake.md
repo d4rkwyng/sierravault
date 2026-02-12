@@ -183,28 +183,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - Official FAQ and feature list[^ref-6]
 
 ## See Also
-
-Quest for Glory II VGA Remake faithfully recreates the second entry in Sierra's beloved Quest for Glory series, bridging the Hero's journey from the Germanic-inspired Spielburg Valley of the first game to the Arabian Nights atmosphere of Shapeir. The game introduces players to iconic series characters including Rakeesh the Liontaur Paladin and Uhura the warrior woman, who would become recurring figures throughout the series[^ref-4]. The events in Shapeir and Raseir set the stage for the Hero's continued adventures across diverse cultural settings.
-
-- **Previous:** [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want To Be A Hero]]
-- **Next:** [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)|← Previous: King's Quest III Remake (Infamous Adventures)]]
 - [[2010 - The Silver Lining|→ Next: The Silver Lining]]
 
-## References
-
-[^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating
-[^ref-3]: [AGD Interactive Official Website](https://www.agdinteractive.com/) – version 2.0 release, Mac availability, award-winning status, developer background
-[^ref-4]: [Engadget News Article](https://www.engadget.com/2008-08-25-quest-for-glory-ii-vga-remake-released.html) – development timeline, 256-color graphics, character reveals
-[^ref-5]: [Adventure Game Studio – Quest for Glory II VGA Remake](https://www.adventuregamestudio.co.uk/play/game/1072/) – engine, awards, panel rating, user reviews, combat difficulty
-[^ref-6]: [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) – release date, interface details, alleyway options, combat system, character import/export
-[^ref-7]: [NeoGAF Forum Thread](https://www.neogaf.com/threads/official-quest-for-glory-ii-free-vga-remake.332591/) – original release date, community anticipation
-[^ref-8]: [Cheap Ass Gamer Forum](https://www.cheapassgamer.com/threads/quest-for-glory-ii-vga-remake-now-available-free.164944/) – free availability, community discussion
-[^ref-9]: [AGD Interactive – King's Quest II Page](https://www.agdinteractive.com/games/kq2/about/about.html) – download statistics, development background, team history
-[^ref-10]: [Sierra Fandom Wiki – Quest for Glory II VGA Remake](https://sierra.fandom.com/wiki/Quest_for_Glory_II_VGA_Remake) – gameplay details, character classes, series information
-[^ref-11]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II:_Trial_by_Fire#VGA_remake) – VGA remake section, historical context
-[^ref-12]: [MyAbandonware – Quest for Glory II VGA Remake](https://www.myabandonware.com/game/quest-for-glory-ii-vga-remake-bz3) – download availability, platform information
-[^ref-13]: [ClassicReload – Quest for Glory II VGA Remake](https://classicreload.com/quest-for-glory-ii-vga-remake.html) – browser playable version, preservation
-[^ref-14]: [Sierra Help Wiki – Quest for Glory II VGA Remake](https://wiki.sierrahelp.com/index.php/Quest_for_Glory_II_VGA_Remake) – technical support, compatibility guides
-[^ref-15]: [Abandonware DOS – Quest for Glory II VGA Remake](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Quest+for+Glory+II+VGA+Remake) – genre classification, user ratings, download information
-[^ref-16]: [Reddit r/QuestForGlory](https://www.reddit.com/r/QuestForGlory/) – community discussions, fan recommendations
+## 

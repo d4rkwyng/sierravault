@@ -220,42 +220,7 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 - [Sierra Chest - Manual PDF](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) - User manual and quick reference[^ref-9]
 
 ## See Also
-
-3-D Ultra Radio Control Racers Deluxe: Traxxas Edition belongs to both the broader 3-D Ultra series and the specific 3-D Ultra Radio Control Racers sub-series.[^ref-9] The 3-D Ultra line from Dynamix and Sierra encompassed a variety of casual gaming experiences including Cool Pool, TrainTown, and various other titles released during the late 1990s.[^ref-6] The Traxxas Edition represented an enhanced update to the original Radio Control Racers rather than a true sequel, adding significant content including eight additional tracks and new game modes while refining the core experience.[^ref-3]
-
-- **Previous:** [[1999 - 3-D Ultra Radio Control Racers]]
-- **Next:** No further entries in the Radio Control Racers sub-series
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
 
-## References
-
-[^ref-1]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/) – developer, publisher, designers, ESRB rating, box quotes
-
-[^ref-2]: [Neoseeker – Radio Control Racers Review](https://www.neoseeker.com/Articles/Games/Reviews/radiocontrolracers/) – Adam Byrant review, 78% score, gameplay details, powerups, track themes
-
-[^ref-3]: [GOG.COM – 3-D Ultra Radio Control Racers Dreamlist](https://www.gog.com/dreamlist/game/3-d-ultra-radio-control-racers) – game description, German localization info, user memories, track list
-
-[^ref-4]: [LaunchBox Games Database – 3D Ultra Radio Control Racers](https://gamesdb.launchbox-app.com/games/details/114238-3d-ultra-radio-control-racers) – designer Richard Tunnell, director Randy Thompson, ESRB rating, overview description
-
-[^ref-5]: [Amazon.in Product Listing](https://www.amazon.in/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – release date August 9, 2000, Vivendi Universal publisher, platform compatibility
-
-[^ref-6]: [Collection Chamber – 3D Ultra Radio Control Racers](https://collectionchamber.blogspot.com/p/3d-ultra-radio-control-racers.html) – retrospective review, technical setup, emulation requirements, box quotes
-
-[^ref-7]: [GameSpy – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](http://pc.gamespy.com/pc/3d-ultra-radio-control-racers-deluxe-traxxas-edition/) – November 2, 2000 US release, ESRB rating, features, bundle information
-
-[^ref-8]: [Steam Community Discussion](https://steamcommunity.com/app/10140/discussions/0/1489987634002186824/) – German "Funk Flitzer" name, car-soccer innovation claim, community nostalgia
-
-[^ref-9]: [Sierra Chest – Radio Control Racers Traxxas Edition](https://sierrachest.com/index.php?a=games&id=250&title=radio-control-racers-traxxas-edition&fld=general) – September 4, 2000 release, Jeff Tunnell Productions, detailed gameplay description, documentation
-
-[^ref-10]: [PCGamingWiki – 3-D Ultra Radio Control Racers](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Radio_Control_Racers) – system requirements, Patch 1.1 details, technical specifications, bugs
-
-[^ref-11]: [Old-Games.ru – Game Download Page](https://www.old-games.ru/game/download/12922.html) – user rating, disc image details, documentation files
-
-[^ref-12]: [Children's Software Directory](https://childrenssoftware.com/dir/dirmenu.html) – Sierra Attractions (Vivendi) publisher listing
-
-[^ref-13]: [Sound Effects Wiki – 3D Ultra Radio Control Racers](https://soundeffects.fandom.com/wiki/3D_Ultra_Radio_Control_Racers_Deluxe:_Traxxas_Edition) – Dynamix developer, Sierra Attractions publisher, 1999/2000 dates
-
-[^ref-14]: [Amazon.ae Product Listing](https://www.amazon.ae/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – Vivendi Universal publisher, UPC code, package specifications
-
-[^ref-15]: [Sierra Gamers – 3D Ultra Series](https://www.sierragamers.com/3d-ultra/) – 2000 release year, series chronology
+## 

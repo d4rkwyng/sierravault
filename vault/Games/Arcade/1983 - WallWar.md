@@ -201,22 +201,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 - No digital manual currently available
 
 ## See Also
-
-Wallwar is a standalone title and not part of any game series[^ref-1][^ref-11]. It represents Peter Oliphant's first commercial game release, followed by Mr. Cool, which was also published by Sierra On-Line and similarly failed to achieve commercial success[^ref-3]. The game is documented in multiple game databases and preservation archives[^ref-10][^ref-12].
-
-The game was released during Sierra On-Line's expansion period in the early 1980s, when the company was exploring various game genres beyond their adventure game roots[^ref-3][^ref-7]. The SierraVision label under which Wallwar was released was short-lived[^ref-3][^ref-9], and Sierra would eventually focus predominantly on adventure games that became their signature products.
 - [[1983 - Sammy Lightfoot|← Previous: Sammy Lightfoot]]
 
-## References
-
-[^ref-1]: [MobyGames – Wallwar](https://www.mobygames.com/game/122898/wallwar/) – publisher, platform, release date, technical specifications, player count, input devices
-[^ref-3]: [Retro365 – Bits from my Personal Collection: WallWar, Mr. Cool – Peter Oliphant, from Handhelds to the Personal Computer](https://retro365.blog/2021/11/10/bits-from-my-personal-collection-wallwar-mr-cool-peter-oliphant-from-handhelds-to-the-personal-computer/) – development history, Peter Oliphant credits, original title, SierraVision label, gameplay description, legal challenges, Ken Williams offer, commercial performance, Matt Chat interview source
-[^ref-4]: [Internet Archive – Wallwar (1982)](https://archive.org/details/a8b_WallWar_1982_Sierra_On_Line_US_k_file) – preservation entry, Atari platform, 1982 date reference, ATRUtil k-file disk format, US region
-[^ref-5]: [Atari Mania – WallWar](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_6908.html) – Atari game database entry, platform compatibility
-[^ref-6]: [GameFAQs – WallWar](https://gamefaqs.gamespot.com/atari8/930547-wallwar) – game database entry, developer/publisher confirmation
-[^ref-7]: [Giant Bomb – Sierra On-Line](https://www.giantbomb.com/sierra-entertainment/3010-104/) – company history and early game catalog
-[^ref-8]: [Atari Archives](https://www.atariarchives.org/) – Atari 8-bit software preservation and documentation
-[^ref-9]: [The Sierra Chest – WallWar](https://www.sierrachest.com/index.php?a=games&id=271) – Sierra game catalog entry
-[^ref-10]: [My Abandonware – WallWar](https://www.myabandonware.com/game/wallwar-a9o) – abandonware archive and download availability
-[^ref-11]: [IGDB – WallWar](https://www.igdb.com/games/wallwar) – Internet Games Database entry
-[^ref-12]: [UVList – WallWar](https://www.uvlist.net/game-81697-Wallwar) – Universal Videogame List database entry
+## 

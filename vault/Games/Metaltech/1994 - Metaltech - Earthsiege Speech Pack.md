@@ -211,11 +211,7 @@ The game is part of the larger Metaltech universe that evolved into the Tribes f
 The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 
 ## See Also
-
 - **Base Game:** [[1994 - Metaltech - Earthsiege]] (required)
-- **Next:** [[1995 - Metaltech - Earthsiege Expansion Pack]]
-
-### Related Metaltech Titles
 
 - [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] (1994)
 - [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] (1994)
@@ -225,25 +221,4 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - [[1994 - Metaltech - Earthsiege|← Previous: Metaltech - Earthsiege]]
 - [[1995 - Metaltech - Earthsiege Expansion Pack|→ Next: Metaltech - Earthsiege Expansion Pack]]
 
-## References
-
-[^ref-1]: [MobyGames - Metaltech: EarthSiege Speech Pack](https://www.mobygames.com/game/25267/metaltech-earthsiege-speech-pack/) - Speech Pack entry describing it as an add-on with digitized speech
-[^ref-3]: [The Collection Chamber - Metaltech: Earthsiege](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) - Creation as Battletech competitor, technical specifications, preservation
-[^ref-4]: [Remember PC DOS Games - Metaltech: Earthsiege](http://rememberpcdosgames.blogspot.com/2018/03/metaltech-earthsiege-1994.html) - Story background
-[^ref-5]: [MobyGames - Metaltech: EarthSiege](https://www.mobygames.com/game/1402/metaltech-earthsiege/) - HERC combat mechanics, ratings, mission count
-[^ref-6]: [Dynamix Wiki - Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) - Enhanced briefings and communications, voice cast, composers
-[^ref-9]: [Wikipedia - Metaltech: Earthsiege](https://en.wikipedia.org/wiki/Metaltech:_Earthsiege) - Century setting, Next Generation review
-[^ref-10]: [Tribes Depot Wiki](https://wiki.tribesdepot.com/wiki/Metaltech:_Earthsiege) - Quote about Cybrid control, ESRB rating
-[^ref-11]: [MobyGames - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) - Description of continuing story
-[^ref-12]: [Sierra Help Wiki - Metaltech: EarthSiege Technical](https://wiki.sierrahelp.com/index.php/Metaltech:_EarthSiege_Technical) - Input devices, system requirements
-[^ref-32]: [MobyGames - Metaltech: EarthSiege Credits](https://www.mobygames.com/game/1402/metaltech-earthsiege/credits/dos/) - Development credits
-[^ref-43]: [GOG Dreamlist - Metaltech: Earthsiege Speech Pack](https://www.gog.com/dreamlist/game/metaltech-earthsiege-speech-pack) - Community demand
-[^ref-14]: [Giant Bomb - Metaltech: Earthsiege](https://www.giantbomb.com/metaltech-earthsiege/3030-7197/) - Game overview and franchise context
-[^ref-15]: [IGDB - Metaltech: Earthsiege](https://www.igdb.com/games/metaltech-earthsiege) - Database entry and metadata
-[^ref-16]: [GameFAQs - Metaltech: Earthsiege](https://gamefaqs.gamespot.com/pc/198413-metaltech-earthsiege) - Platform information and guides
-[^ref-17]: [PCGamingWiki - Metaltech: Earthsiege](https://www.pcgamingwiki.com/wiki/Metaltech:_Earthsiege) - Technical specifications
-[^ref-18]: [Internet Archive - Metaltech: Earthsiege](https://archive.org/details/metaltech-earthsiege-complete-mr-abandonware) - Game preservation
-[^ref-19]: [MyAbandonware - Metaltech: Earthsiege](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) - User ratings and downloads
-[^ref-20]: [Sierra Gamers - Metaltech](https://www.sierragamers.com/metaltech-earthsiege/) - Series information
-[^ref-21]: [Starsiege Wiki - Earthsiege](https://starsiege.fandom.com/wiki/Metaltech:_Earthsiege) - Universe and lore details
-[^ref-22]: [TribesNext - Series History](https://www.tribesnext.com/) - Franchise evolution
+## 

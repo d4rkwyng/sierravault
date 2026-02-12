@@ -214,35 +214,8 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – Complete game guide
 
 ## See Also
-
-Hunter Hunted serves as a prequel to the Metaltech: Earthsiege series, establishing the backstory of the Masters' invasion of Earth[^ref-1]. The game exists within a shared universe that explores humanity's struggle against technologically superior alien invaders. While Hunter Hunted focuses on gladiatorial combat during the occupation period, the Earthsiege games deal with later stages of the conflict involving mech warfare.
-
-The game was part of Sierra's K.A.A. line, which also included other action-oriented titles from the publisher during this period[^ref-17]. As a standalone narrative within the Earthsiege universe, Hunter Hunted provides context for the invasion that shapes the later games without requiring direct sequel or prequel knowledge to enjoy.
-
 - **Related:** Metaltech: Earthsiege series (shared universe)
 - [[1996 - CyberGladiators|← Previous: CyberGladiators]]
 - [[1996 - Rama|→ Next: Rama]]
 
-## References
-
-[^ref-1]: [Wikipedia – Hunter Hunted (video game)](https://en.wikipedia.org/wiki/Hunter_Hunted_(video_game)) – release date, developer, publisher, designer, composer, ratings, missions count, Earthsiege connection
-[^ref-2]: [A Games Room – Hunter Hunted](https://www.agamesroom.com/game/hh) – gameplay description, setting details
-[^ref-3]: [Internet Archive – Hunter Hunted Win EN ISO Version](https://archive.org/details/hunter-hunted-win-en-iso-version) – "third dimension of 2D" mechanic, file size
-[^ref-4]: [Old PC Gaming – Hunter Hunted](https://oldpcgaming.net/hunter-hunted/) – character descriptions, critical assessment, system requirements
-[^ref-5]: [MobyGames – Hunter Hunted](https://www.mobygames.com/game/656/hunter-hunted/) – rating, credits, publisher details, technical specs, Tomer Gabel review
-[^ref-6]: [Amazon – Hunter Hunted](https://www.amazon.com/Hunter-Hunted/dp/B007ON5Y2A) – story setting, ESRB rating, technical specs
-[^ref-7]: [Sierra Chest – Hunter Hunted](https://www.sierrachest.com/index.php?a=games&id=183) – release date, backstory details, mission counts
-[^ref-8]: [Collection Chamber – Hunter Hunted](https://collectionchamber.blogspot.com/p/hunter-hunted.html) – marketing text, development context
-[^ref-9]: [Reddit r/retrogaming – Hunter Hunted discussion](https://www.reddit.com/r/retrogaming/comments/12gcb75/27_years_later_i_finished_hunter_hunted_pc1996/) – escape vehicle objective, player experiences
-[^ref-10]: [eBay – Hunter Hunted listing](https://www.ebay.com/p/54332441) – control options, mission count, ESRB rating
-[^ref-11]: [Sierra Chest – Hunter Hunted Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – game modes, difficulty levels, multiplayer details
-[^ref-12]: [GOG Dreamlist – Hunter Hunted](https://www.gog.com/dreamlist) – character abilities, gameplay innovation, composers
-[^ref-13]: [Internet Archive – Hunter Hunted](https://archive.org/details/hunter-hunted) – mission counts, multiplayer modes
-[^ref-14]: [IMDB – Hunter Hunted](https://www.imdb.com/title/tt11296126/) – user rating, game description
-[^ref-15]: [Sierra Gamers – Hunter Hunted](https://www.sierragamers.com/hunter-hunted/) – gameplay description
-[^ref-16]: [Digital Antiquarian](https://www.filfre.net/?s=Hunter+Hunted) – retrospective assessment
-[^ref-17]: [MyAbandonware – Hunter Hunted](https://www.myabandonware.com/game/hunter-hunted-cnp) – regional releases, K.A.A. line, user rating
-[^ref-18]: [PCGamingWiki – Hunter Hunted](https://www.pcgamingwiki.com/wiki/Hunter_Hunted) – system requirements, technical specifications
-[^ref-19]: [Internet Archive – Hunter Hunted USA Rerelease](https://archive.org/details/hunter-hunted-usa-rerelease) – bundle information
-[^ref-20]: [Retrolorean – Hunter Hunted](https://www.retrolorean.com/en/hunter-hunted-451) – Japanese title, regional variations
-[^ref-21]: [Reddit r/ifyoulikeblank – Hunter Hunted soundtrack](https://www.reddit.com/r/ifyoulikeblank/comments/1f4ck2m/iil_the_soundtrack_to_the_1996_video_game_hunter/) – soundtrack composer discussion
+## 

@@ -204,34 +204,8 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 - [Sierra Help: KQ1 SCI Manual](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – PDF manual and walkthrough[^ref-16]
 
 ## See Also
-
-**Previous:** [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] (1984) – Original AGI version
-
-**Next:** [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] (1985)
 - [[King's Quest Series]] - Series overview
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|← Previous: King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|→ Next: King's Quest VI - Heir Today, Gone Tomorrow]]
 
-## References
-
-[^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Publication date September 19, 1990
-[^ref-2]: [MobyGames – Roberta Williams' King's Quest I](https://www.mobygames.com/game/439/roberta-williams-kings-quest-i-quest-for-the-crown/) – – Credits, reviews, scores
-[^ref-3]: [SCI Wiki – King's Quest I SCI](https://sciwiki.sierrahelp.com/index.php/King's_Quest_I:_Quest_for_the_Crown_(SCI_remake) – ) – Interpreter versions, technical specs
-[^ref-4]: [King's Quest Omnipedia – KQ1 MS-DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(MS-DOS) – ) – Development, changes, reception
-[^ref-5]: [Adventure Gamers – KQ1 SCI](https://adventuregamers.com/games/view/36653) – – Plot description
-[^ref-6]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) – – Story summary
-[^ref-7]: [Adventure Gamers – King's Quest review](https://adventuregamers.com/games/kings-quest-quest-for-the-crown) – – SCI remake improvements, interface
-[^ref-8]: [King's Quest Omnipedia – KQ1SCI development](https://kingsquest.fandom.com/wiki/KQ1SCI_development) – – Josh Mandel quotes, cut content
-[^ref-9]: [Adventure Classic Gaming – KQ1 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/120) – – 5/5 review, Roberta Williams quotes
-[^ref-10]: [Sierra Wiki – KQ1 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(SCI) – ) – Puzzle changes
-[^ref-11]: [Amiga Magazine Rack – KQ1 Reviews](https://amr.abime.net/review_4342) – – Five Amiga magazine reviews
-[^ref-12]: [Lemon Amiga – KQ1 Enhanced](https://www.lemonamiga.com/games/details.php?id=1765) – – Amiga credits and review
-[^ref-13]: [AGD Interactive – KQ1 History](https://www.agdinteractive.com/games/kq1/about/about.html) – – Market failure, fan remake motivation, download stats
-[^ref-14]: [My Abandonware – KQ1 SCI](https://www.myabandonware.com/game/roberta-williams-king-s-quest-i-quest-for-the-crown-2kz) – – User ratings, availability notes
-[^ref-15]: [King's Quest Omnipedia – Cancelled Remakes](https://kingsquest.fandom.com/wiki/King%27s_Quest_II_%26_III_(1990) – ) – Josh Mandel correspondence, cancellation reasons
-[^ref-16]: [Sierra Help – KQ1 SCI Help](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – – System requirements, patches, bugs
-[^ref-17]: [Wikipedia – King's Quest I](https://en.wikipedia.org/wiki/King%27s_Quest_I) – – Technical details
-[^ref-18]: [King's Quest Omnipedia – Tierra Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra) – ) – AGDI version history
-[^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – – Fan remake details, Josh Mandel voice
-[^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer) – ) – Career, voice acting
-[^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Price, reviews
+## 

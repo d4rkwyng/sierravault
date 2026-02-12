@@ -214,37 +214,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 - Registration key for Mac printed on back cover of manual[^ref-1]
 
 ## See Also
-
-Hoyle Card Games 2008 exists within a long-running franchise that began with Sierra On-Line's Hoyle's Official Book of Games Volume 1 in 1989[^ref-11]. The series transitioned through various publishers over the decades, with Encore Software maintaining the brand through annual releases during the 2000s. The 2008 edition followed Hoyle Card Games 2007 and preceded Hoyle Card Games 2009, maintaining the established pattern of yearly updates that characterized the franchise's later years[^ref-12].
-
-The broader Hoyle universe also includes the Hoyle Casino spin-off series that began in 1996[^ref-11], creating a companion brand focused specifically on casino gaming experiences.
-
-- **Previous:** [[2007 - Hoyle Card Games 2008]]
-- **Next:** [[2007 - Hoyle Card Games 2008]]
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac release details, technical specifications, Easter eggs, user-reported issues
-[^ref-2]: [Newegg – Hoyle Card Games 2008 Product Listing](https://www.newegg.com/encore-software-hoyle-card-games-2008/p/N82E16832196441) – System requirements, game features, platform specifications
-[^ref-3]: [Blu-ray.com – Hoyle Card Games 2008 Database Entry](https://www.blu-ray.com/Hoyle-Card-Games-2008-PC/583392/) – Product description, game features, availability status
-[^ref-4]: [Metacritic – Hoyle Card Games 2008](https://www.metacritic.com/game/hoyle-card-games-2008/) – Developer, publisher, release date, ESRB rating
-[^ref-5]: [RAWG – Hoyle Card Games 2008](https://rawg.io/games/hoyle-card-games-2008) – Release date, developer confirmation
-[^ref-6]: [Amazon UK – Hoyle Card Games 2008](https://www.amazon.co.uk/Hoyle-Card-Games-2008-Version/dp/B001IYR53W) – UK release date, customer reviews, technical issues
-[^ref-7]: [GameFAQs – Hoyle Card Games 2008](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008) – Game features, release date, product description
-[^ref-8]: [GameFAQs – Hoyle Franchise Listing](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – Franchise information, product features
-[^ref-9]: [Impulse Gamer – Hoyle Card Games 2008 Review](https://www.impulsegamer.com/pchoylecardgames2008.html) – Contemporary review, scores, DVD format details
-[^ref-10]: [ESRB – Hoyle Card Games 2008 Rating](https://www.esrb.org/ratings/23475/hoyle-card-games-2008/) – Official ESRB rating, platform confirmation
-[^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
-[^ref-12]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – Version history across years, format information
-[^ref-13]: [My Abandonware – Hoyle Card Games 2008](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) – File specifications, user ratings, bug reports
-[^ref-14]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
-[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
-[^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
-[^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification
-[^ref-19]: [GameFAQs Credits](https://gamefaqs.gamespot.com/pc/943484-hoyle-card-games-2008/credit) – Development credits
-[^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
-[^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
-[^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
+## 

@@ -213,29 +213,7 @@ The game's historical significance lies primarily in documenting the evolution o
 - [Classic Reload](https://classicreload.com/ww2-air-force-commander.html) - Online play[^ref-14]
 
 ## See Also
-
-WW2 Air Force Commander is the second entry in Impressions Games' Air Force Commander series. While the original Air Force Commander (1992) focused on modern-day Middle Eastern conflict scenarios with detailed geopolitical situations[^ref-9][^ref-11], the WW2 sequel shifted the setting to the more universally recognized World War II theater[^ref-3].
-
-The game engine technology developed for Air Force Commander was subsequently improved and utilized in other Impressions strategy titles including Global Domination and When Two Worlds War[^ref-9], demonstrating how the series contributed to the studio's broader technological development.
-
-- **Previous:** [[1992 - Air Force Commander]]
 - [[1993 - Cohort II - Fighting for Rome|← Previous: Cohort II - Fighting for Rome]]
 - [[1994 - Detroit|→ Next: Detroit]]
 
-## References
-
-[^ref-1]: [MobyGames – WW2 Air Force Commander](https://www.mobygames.com/game/422/ww2-air-force-commander/) – release dates, platforms, designers, publisher, ratings, technical specs
-[^ref-2]: [Old Games – WW2 Air Force Commander](https://www.old-games.com/download/8612/ww2-air-force-commander) – game description, release information
-[^ref-3]: [LaunchBox Games Database – WW2 Air Force Commander](https://gamesdb.launchbox-app.com/games/details/100817-ww2-air-force-commander) – game description, publisher, ESRB rating
-[^ref-4]: [Play Old Games – WW2 Air Force Commander](https://playold.games/play-game/ww2-air-force-commander/) – gameplay details, historical context, developer info
-[^ref-5]: [Amazon – WW2 Air Force Commander](https://www.amazon.com/WW2-Air-Force-Commander-pc/dp/B01M3TYDOX) – system requirements, scenario count, manual details, marketing description
-[^ref-6]: [Classic Games – WW2 Air Force Commander](https://www.classicgames.me/ww2-air-force-commander.html) – gameplay description, file size, content review
-[^ref-7]: [Internet Archive – WW2 Air Force Commander](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) – platforms, release dates, file size, game description
-[^ref-8]: [Free Game Empire – WW2 Air Force Commander](https://www.freegameempire.com/games/WW2-Air-Force-Commander) – developer history, platforms, game description, ratings
-[^ref-9]: [My Abandonware – Air Force Commander](https://www.myabandonware.com/game/air-force-commander-1bw) – user reviews, technical issues, patch information, engine details
-[^ref-10]: [My Abandonware – WW2 Air Force Commander](https://www.myabandonware.com/game/ww2-air-force-commander-41b) – version info, ratings, file size, download details
-[^ref-11]: [MobyGames – Air Force Commander](https://www.mobygames.com/game/1988/air-force-commander/) – original game credits, manual details, developers
-[^ref-12]: [MobyGames Search – WW2 Air Force Commander](https://www.mobygames.com/search/?q=WW2+Air+Force+Commander) – alternate title information
-[^ref-13]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Computer Gaming World quote about flight simulators
-[^ref-14]: [Classic Reload – WW2 Air Force Commander](https://classicreload.com/ww2-air-force-commander.html) – online play availability
-[^ref-19]: [My Abandonware – WW2 Air Force Commander Play](https://www.myabandonware.com/game/ww2-air-force-commander-41b/play-49y) – version 4.1 information
+## 

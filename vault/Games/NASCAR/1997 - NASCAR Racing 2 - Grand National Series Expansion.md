@@ -185,12 +185,7 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2-c6r)
 
 ## See Also
-
-- **Previous:** [[1996 - NASCAR Racing 2]]
 - **Base Game:** [[1996 - NASCAR Racing 2]] (required)
-- **Next:** [[1999 - NASCAR Craftsman Truck Series Racing]]
-
-### Related NASCAR Racing Titles
 
 - [[1994 - NASCAR Racing|NASCAR Racing]] (1994)
 - [[1996 - NASCAR Racing 2|NASCAR Racing 2]] (1996)
@@ -204,25 +199,4 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [[1996 - NASCAR Racing 2|← Previous: NASCAR Racing 2]]
 - [[1999 - NASCAR Craftsman Truck Series Racing|→ Next: NASCAR Craftsman Truck Series Racing]]
 
-## References
-
-[^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description and credits
-[^ref-2]: [Internet Archive - NASCAR 2](https://archive.org/details/nascar_2) – Game content and expansion details
-[^ref-3]: [Internet Archive - NASCAR Racing 2 MS-DOS](https://archive.org/details/msdos_NASCAR_Racing_2_1996) – Technical improvements
-[^ref-4]: [GameSpot - NASCAR Racing 2 Review](https://www.gamespot.com/reviews/nascar-racing-2-review/1900-2543742/) – Tim Soete review
-[^ref-5]: [MobyGames - NASCAR Racing 2](https://www.mobygames.com/game/1607/nascar-racing-2/) – Development credits
-[^ref-6]: [Sierra Gamers - NASCAR Racing 2](https://www.sierragamers.com/nascar-racing-2/) – Publisher information
-[^ref-7]: [PCGamingWiki - NASCAR Racing 2](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2) – Platform compatibility
-[^ref-8]: [Internet Archive - NASCAR Racing 2 Manual](https://archive.org/stream/NASCAR_Racing_2_-_Manual/NASCAR_Racing_2_-_Manual_djvu.txt) – Control configuration
-[^ref-9]: [GameFabrique - NASCAR Racing 2](https://gamefabrique.com/games/nascar-racing-2/) – Control assessment
-[^ref-10]: [MobyGames - NASCAR Racing 2 Reviews](https://www.mobygames.com/game/1607/nascar-racing-2/reviews/) – User review by Spectre
-[^ref-11]: [IMDb - NASCAR Racing 2](https://www.imdb.com/title/tt6068798/) – Voice cast credits
-[^ref-12]: [Wikipedia - NASCAR Racing 2](https://en.wikipedia.org/wiki/NASCAR_Racing_2) – Review scores
-[^ref-13]: [PCGamingWiki - NASCAR Racing 2003 Season](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2003_Season) – Metacritic score
-[^ref-14]: [MyAbandonware - NASCAR Racing 2](https://www.myabandonware.com/game/nascar-racing-2-c6r) – User rating
-[^ref-15]: [Audiovisual Identity Database - Sierra Sports](https://www.avid.wiki/Sierra_Sports) – Company formation
-[^ref-16]: [Internet Archive - N2-3dfx_exe](https://archive.org/details/N2-3dfx_exe) – 3Dfx configuration
-[^ref-17]: [GameSpot - Papyrus Racing Games Retrospective](http://www.gamespot.com/features/6103365/) – Sales figures by Gord Goble
-[^ref-18]: [New York Times - NASCAR Racing Video Game](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Dale Earnhardt Jr. quote
-[^ref-19]: [Internet Archive - NASCAR Racing 2 Mr Abandonware](https://archive.org/details/nascar-racing-2-mr-abandonware) – Abandonware status
-[^ref-20]: [Daily Downforce - Complete History of NASCAR Gaming](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – Series evolution
+## 

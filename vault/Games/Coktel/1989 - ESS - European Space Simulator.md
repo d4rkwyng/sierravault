@@ -234,32 +234,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 - [Atari Legend](https://www.atarilegend.com/games/ess-european-space-simulator)
 
 ## See Also
-
-E.S.S. spawned one direct sequel that expanded upon the original's concepts while adding improved presentation. E.S.S. Mega (1991) featured enhanced 3D-modelled graphics, an introductory sequence, and additional music, representing a significant upgrade over the original release.[^ref-5] The Mega version also received a CDTV release in 1992, bringing the game to Commodore's multimedia platform.[^ref-5]
-
-Both games share the same core gameplay loop of managing European space shuttle operations, with E.S.S. Mega notably recreating "ESA's space vehicle concepts of the early 1990, specially the Hermes Shuttle"—the planned European crewed spaceplane that was ultimately cancelled in 1992.[^ref-16]
-
-- **Next:** [[1991 - E.S.S. Mega]]
 - [[1989 - Asterix - Operation Getafix|← Previous: Asterix - Operation Getafix]]
 - [[1989 - Emmanuelle|→ Next: Emmanuelle]]
 
-## References
-
-[^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description
-[^ref-2]: [Home of the Underdogs via MyAbandonware](https://www.myabandonware.com/game/e-s-s-mega-14z) – critical assessment, graphics comparison, historical significance
-[^ref-3]: [LaunchBox Games Database – E.S.S.](https://gamesdb.launchbox-app.com/games/details/87685-ess) – gameplay mechanics, setting, release date
-[^ref-4]: [Lemon Amiga – E.S.S.](https://www.lemonamiga.com/games/details.php?id=2375) – magazine reviews, user comments, technical specs, credits
-[^ref-5]: [Wikipedia – E.S.S. Mega](https://en.wikipedia.org/wiki/E.S.S._Mega) – sequel information, review scores, platforms, gameplay features
-[^ref-6]: [The Digital Antiquarian – Project: Space Station](https://www.filfre.net/?s=E.S.S.) – historical context, genre analysis, sub-genre games
-[^ref-7]: [Old-Games.com – European Space Simulator](https://www.old-games.com/download/334/european-space-simulator) – review quotes, gameplay details, trivia
-[^ref-8]: [Atari Legend – E.S.S.](https://www.atarilegend.com/games/ess-european-space-simulator) – designer credits, graphics credits, release year
-[^ref-9]: [WHDLoad – European Space Simulator](http://www.whdload.de/games/EuropeanSpaceSimulator.html) – technical specifications, engine information, bugs, preservation details
-[^ref-10]: [Amiga Reviews](https://amigareviews.leveluphost.com/ess.htm) – Amiga Joker review scores, gameplay descriptions, bugs, copy protection
-[^ref-11]: [Atarimania – E.S.S.](https://www.atarimania.com/game-atari-st-ess-european-space-simulator_9198.html) – technical specs, credits, languages, user rating
-[^ref-12]: [Internet Archive – E.S.S. Mega](https://archive.org/details/msdos_E.S.S_Mega_1991) – MobyGames description, preservation metadata
-[^ref-13]: [MobyGames – E.S.S. Reviews](https://www.mobygames.com/game/50218/ess/reviews/) – aggregate ratings, player scores
-[^ref-14]: [MyAbandonware – E.S.S.](https://www.myabandonware.com/game/e-s-s-795) – user ratings, file sizes, release regions
-[^ref-16]: [LaunchBox Games Database – E.S.S. Mega](https://gamesdb.launchbox-app.com/games/details/87948-ess-mega) – ESA/Hermes connection, platforms, genre
-[^ref-17]: [GameFAQs – E.S.S.](https://gamefaqs.gamespot.com/ast/218888-ess/data) – alternate titles, version information, release dates
-[^ref-18]: [MobyGames – E.S.S. Mega](https://www.mobygames.com/game/7733/ess-mega/) – credits, ratings, technical specs
-[^ref-19]: [Metacritic – European Space Simulator](https://www.metacritic.com/game/european-space-simulator/) – basic metadata, genre classification
+## 

@@ -214,30 +214,7 @@ The title's enduring appeal among nostalgic players demonstrates the value of si
 The game is documented in various gaming databases.[^ref-15][^ref-16]
 
 ## See Also
-
-Hoyle Table Games 2004 was part of Sierra's extensive Hoyle product line that began in 1989 with the original Hoyle's Book of Games[^ref-1]. The series evolved from using the Sierra Creative Interpreter (SCI) engine in early titles to more modern development frameworks[^ref-1]. The Hoyle brand continued under various publishers including Encore, Inc. through at least 2016[^ref-1].
-
-The game exists alongside companion products like Card Games: Hoyle 2004 Edition, which focused specifically on card games and shared the Hoyle Bucks feature system[^ref-11].
-
-- **Previous:** [[2004 - Hoyle Table Games]]
-- **Next:** [[2005 - Hoyle Board Games]]
 - [[2004 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## References
-
-[^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series history, development origins, SCI engine information, sales data
-[^ref-6]: [LaunchBox Games Database – Hoyle Table Games 2004](https://gamesdb.launchbox-app.com/games/details/122497-hoyle-table-games-2004) – Release date September 2, 2003
-[^ref-3]: [Amazon.ca – Hoyle Table Games 2004](https://www.amazon.ca/Vivendi-Universal-020626720151-Hoyle-Table/dp/B00008OE47) – Customer reviews, features, technical issues, system requirements
-[^ref-4]: [My Abandonware – Hoyle Table Games 2004](https://www.myabandonware.com/game/hoyle-table-games-2004-efb) – Developer info, user ratings, nostalgic comments, technical issues
-[^ref-5]: [ESRB Rating – Hoyle Table Games 2004 (Sierra)](https://www.esrb.org/ratings/8973/hoyle-table-games-2004/) – Publisher confirmation, ESRB E rating
-[^ref-7]: [MyGamer – Hoyle Table Games 2004](https://www.mygamer.com/hoyle-table-games-2004/) – Release date, critical quote about graphics and gameplay
-[^ref-9]: [ESRB Rating – Hoyle Table Games 2004 (Encore)](https://www.esrb.org/ratings/21355/hoyle-table-games-2004/) – Encore Software publisher, ESRB E rating
-[^ref-10]: [GameSpot – Hoyle Table Games 2004 User Reviews](https://www.gamespot.com/hoyle-table-games-2004/user-reviews/2200-350179/) – User ratings, game list, features, user comments
-[^ref-11]: [MobyGames – Card Games: Hoyle 2004 Edition](https://www.mobygames.com/game/79819/card-games-hoyle-2004-edition/) – Designer credits, technical specs, Hoyle Bucks feature description
-[^ref-12]: [eBay UK – Hoyle Table Games 2004](https://www.ebay.co.uk/p/129311876) – UK publisher Hip Interactive, 2017 user review
-[^ref-13]: [MobyGames – Hoyle Table Games 2004 Reviews](https://www.mobygames.com/game/13166/hoyle-table-games-2004/reviews/) – Aggregate critic and player scores
-[^ref-14]: [Software Informer – Hoyle Table Games 2004](https://hoyle-table-games-2004.software.informer.com/1.0/) – User rating 4.1/5, developer Sierra, user comment
-[^ref-15]: [Old Games Download – Hoyle Table Games 2004](https://oldgamesdownload.com/hoyle-table-games-2004/) – File size 601.6MB, ISO format, developer credits
-[^ref-16]: [RAWG – Hoyle Table Games 2004](https://rawg.io/games/hoyle-table-games-2004) – Release date August 1, 2003, Vivendi Universal Games attribution[^ref-15]: [Giant Bomb - Hoyle Table Games](https://www.giantbomb.com/hoyle-table-games/) - game wiki entry
-[^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
+## 

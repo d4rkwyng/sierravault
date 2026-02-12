@@ -180,35 +180,7 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 - No digital manual currently documented
 
 ## See Also
-
-Hoyle Solitaire And Mahjong Tiles 2000 was released as part of Sierra's extensive Hoyle Series, which began in 1989 with Hoyle: Official Book of Games Volume 1[^ref-5]. The series has included numerous compilations of card games, board games, casino games, and word games over the years[^ref-5]. This title specifically focuses on solitaire variations and Mahjong tile games, combining two popular casual gaming genres into a single package[^ref-3].
-
-The game was released during a period when Sierra was producing multiple Hoyle titles, including Hoyle Casino 4 and Hoyle Word Games 1, both of which were featured as demos on the game disc[^ref-5].
-
-- **Previous:** [[1999 - Hoyle Casino]]
-- **Next:** [[2000 - Hoyle Casino]]
 - [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## References
-
-[^ref-1]: [AG.ru – Hoyle Solitaire and Mahjong Tiles 2000](https://ag.ru/games/hoyle-solitaire-and-mahjong-tiles-2000) – developer, publisher, platform, genre information
-[^ref-2]: [Game-OST.ru – Hoyle Solitaire and Mahjong Tiles 2000](https://game-ost.ru/games/8806/hoyle_solitaire_and_mahjong_tiles_2000/) – release year, developer, publisher
-[^ref-3]: [MobyGames – Hoyle Mahjong Tiles](https://www.mobygames.com/game/49372/hoyle-mahjong-tiles/) – gameplay description, technical specifications, ratings, platforms
-[^ref-4]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – release date, developer, publisher, user ratings
-[^ref-5]: [Sierra Chest – Hoyle Solitaire & Mahjong Tiles 2](https://sierrachest.com/index.php?a=games&id=794&title=hoyle-solitaire-mahjong-tiles-2&fld=box) – release date, platforms, packaging details, included demos, UPC, series information
-[^ref-6]: [Metacritic – Hoyle Solitaire and Mahjong Tiles](https://www.metacritic.com/game/hoyle-solitaire-and-mahjong-tiles/) – release date, developer, publisher
-[^ref-7]: [Kanobu](https://www.google.com/goto?url=CAEScQFYJrphN1v_rtSMNh9FOoggZfMZwhWZnF-Dy6LJtgtNbJB6M-3HK2evF8aytDYIrLDoV3eKGQ_eW4h5aC7Rph_TI8HMiPwqtEULqRMpvxI_GHDlqMaeH__-_UCUFatHkxJEzysImCQRQ8dAAvnOsVKz) – user ratings
-[^ref-8]: [Bonanza – Product Listing](https://www.bonanza.com/listings/Hoyle-Solitare-and-Mahjong-Tiles-PC-Mac-video-game-/1583182412?goog_pla=1) – release date, publisher, platforms, media format
-[^ref-9]: [Game-Storage.ru – Sierra On-Line Developer Page](https://game-storage.ru/developer/sierra-on-line) – release date (April 2000), platform
-[^ref-10]: [RAWG – Hoyle Solitaire and Mahjong Tiles 2000](https://rawg.io/games/hoyle-solitaire-and-mahjong-tiles-2000) – developer, publisher, platform
-[^ref-11]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise overview, series context
-[^ref-12]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher history, company background
-[^ref-13]: [Wikipedia – Hoyle's Games](https://en.wikipedia.org/wiki/Hoyle%27s_Games) – historical Hoyle brand context
-[^ref-14]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
-[^ref-15]: [MyAbandonware – Hoyle Games](https://www.myabandonware.com/search/q/hoyle+solitaire) – preservation archives
-[^ref-16]: [Internet Archive – Hoyle Games](https://archive.org/search?query=hoyle+solitaire+mahjong) – digital preservation
-[^ref-17]: [IGDB – Hoyle Solitaire](https://www.igdb.com/search?type=1&q=hoyle+solitaire) – game database
-[^ref-18]: [Giant Bomb – Hoyle](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
-[^ref-19]: [Amazon – Hoyle Games](https://www.amazon.com/s?k=Hoyle+Solitaire+Mahjong) – retail availability
-[^ref-20]: [eBay – Hoyle Games](https://www.ebay.com/sch/i.html?_nkw=hoyle+solitaire+mahjong) – secondary market
+## 

@@ -256,29 +256,7 @@ The community's expressed desire for a modern re-release with online multiplayer
 The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 
 ## See Also
-
-Hoyle Puzzle & Board Games 2005 continues Sierra's long-running Hoyle series, which began in 1989 with Hoyle's Book of Games. The compilation format bundling puzzle and board games together represents the mid-2000s approach to the franchise, providing comprehensive value for casual gaming enthusiasts. The series would continue under various publishers following Sierra's restructuring, with titles like Hoyle Card Games 2007 and Hoyle Board Games 2008 carrying the brand forward[^ref-13].
-
-The game includes content from The Incredible Machine franchise, bridging Sierra's puzzle game heritage with its traditional game adaptations[^ref-5]. This cross-pollination of Sierra properties demonstrates the company's strategy of leveraging its back catalog to create value-added compilations.
-
-- **Previous:** [[2003 - Hoyle Board Games]]
-- **Next:** [[2005 - Hoyle Card Games]]
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
 
-## References
-
-[^ref-1]: [Amazon Singapore – Hoyle Puzzle Board Games 2005](https://www.amazon.sg/Hoyle-Puzzle-Board-Games-2005/dp/B0001BR9QG) – product description, platform compatibility, release date, feature list
-[^ref-3]: [Metacritic – Hoyle Puzzle and Board Games 2005 Details](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/details/) – developer, publisher, game description, game counts
-[^ref-4]: [GameSpy – Hoyle Puzzle Board Games 2005](http://pc.gamespy.com/pc/hoyle-puzzle-board-games-2005/) – ESRB rating, system requirements, included games, features, handheld bonus content
-[^ref-5]: [MobyGames – Hoyle Puzzle Games 2005](https://www.mobygames.com/game/178235/hoyle-puzzle-games-2005/) – full credits, game collection list, genre classification, interface details, special features
-[^ref-6]: [Steam Community – Shisensho Solitaire Discussion](https://steamcommunity.com/app/1161360/discussions/0/1642052612840828266/) – Edge Tiles/Shisensho connection, Slide Tiles mention, user testimonial
-[^ref-7]: [Metacritic – Hoyle Puzzle & Board Games 2005 Critic Reviews](https://www.metacritic.com/game/hoyle-puzzle-board-games-2005/critic-reviews/?platform=pc) – lack of critic reviews
-[^ref-8]: [digitalgames.ro – Hoyle Puzzle Board Games 2005](https://www.digitalgames.ro/hoyle-puzzle-board-games-2005/) – user rating, release date, developer attribution
-[^ref-9]: [IGN – Hoyle Puzzle Board Games 2005 User Reviews](https://www.ign.com/games/hoyle-puzzle-board-games-2005/user-reviews) – publisher, release date, rating status
-[^ref-10]: [My Abandonware – Hoyle Board Games 2005](https://www.myabandonware.com/game/hoyle-board-games-2005-hzk) – user ratings, community comments, file size, bug reports
-[^ref-11]: [RAWG – Hoyle Puzzle Board Games 2005](https://rawg.io/games/hoyle-puzzle-board-games-2005) – release date variant
-[^ref-12]: [Best Buy – Hoyle Puzzle Board Games 2005](https://www.bestbuy.com/site/hoyle-puzzle-board-games-2005-windows/6813601.p?skuId=6813601) – platform confirmation, product listing
-[^ref-13]: [RAWG – Hoyle Puzzle Board Games 2005 Suggestions](https://rawg.io/games/hoyle-puzzle-board-games-2005/suggestions) – related Hoyle titles, series timeline[^ref-13]: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-board-games/) - game wiki
-[^ref-14]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB entry
-[^ref-15]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - gaming database
+## 

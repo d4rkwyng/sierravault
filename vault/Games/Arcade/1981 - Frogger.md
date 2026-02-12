@@ -264,48 +264,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 - [Free Game Empire - Windows 95 Manual](https://www.freegameempire.com/games/Frogger/manual)
 
 ## See Also
-
-Frogger launched one of gaming's longest-running franchises, spawning over 20 sequels and spin-offs across four decades[^ref-7]. The original game established the core mechanics of obstacle navigation and pattern-based timing that would be expanded upon in subsequent entries. The immediate sequel, Frogger II: ThreeeDeep!, added underwater and aerial sections to the classic formula.
-
-The series saw major revivals with the 1997 3D remake and continued through numerous console generations, eventually expanding into mobile gaming with Frogger Free (2012) and receiving the ultimate cultural validation when Konami partnered with Peacock to create a live-action game show adaptation in 2021[^ref-7].
-
-- **Next:** Frogger II: ThreeeDeep! (1984)
 - [[1981 - Crossfire|← Previous: Crossfire]]
 - [[1981 - Gobbler|→ Next: Gobbler]]
 
-## References
-
-[^ref-1]: [Wikipedia – Frogger](https://en.wikipedia.org/wiki/Frogger) – release dates, sales data, awards, gameplay mechanics, cultural impact
-[^ref-2]: [Abandonware DOS – Frogger](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Frogger&gid=1149) – awards, user ratings, gameplay description
-[^ref-3]: [Bitvint – Frogger](https://bitvint.com/pages/frogger) – sales figures, designer credit, development history
-[^ref-4]: [Classic Gaming – Frogger](https://classicgaming.cc/classics/frogger/about) – licensing details, technical specifications
-[^ref-5]: [Digital Spy – 10 Things About Frogger](https://www.digitalspy.com/videogames/a796330/10-things-you-didnt-know-about-frogger/) – trivia, marketing budget, death count
-[^ref-6]: [Abandonware Forums – French Frogger Patch](https://www.abandonware-forums.org/forum/autres/les-aventuriers-de-la-traduction-perdue/799548-the-official-frogger-patch-fr) – Sierra PC port details, platform list
-[^ref-7]: [IGN – Frogger Gameshow](https://www.ign.com/articles/frogger-gameshow-series-coming-to-peacock) – cultural references, sequel count
-[^ref-8]: [Grokipedia – Frogger](https://grokipedia.com/page/Frogger) – development credits, technical specifications, hardware details
-[^ref-9]: [MobyGames – Frogger (1981)](https://www.mobygames.com/game/1540/frogger/) – platforms, ratings, credits, trivia
-[^ref-10]: [Arcade Museum – Frogger](https://www.arcade-museum.com/Videogame/frogger) – technical specs, bugs, easter eggs
-[^ref-11]: [Medium – Great Games: Frogger](https://medium.com/portraits-in-pixel/great-games-frogger-b97b15bef2c) – development origins, publishing challenges
-[^ref-12]: [Game Developer – What Makes Frogger Fun](https://www.gamedeveloper.com/business/what-makes-frogger-fun-) – gameplay analysis
-[^ref-13]: [Entertainment Weekly – 10 Best Atari Games](http://www.ew.com/article/2013/01/25/the-10-best-atari-games) – controls, cultural impact
-[^ref-14]: [C64-Wiki – Frogger (Sierra)](https://www.c64-wiki.com/wiki/Frogger_(Sierra_Online,_Inc.)) – C64 version details, user reviews
-[^ref-15]: [PrimeTime Amusements – Getting Good at Frogger](https://primetimeamusements.com/getting-good-frogger/) – gameplay mechanics, hazards
-[^ref-16]: [Atari Magazines – VG Update](http://www.atarimagazines.com/cva/v1n1/vgupdate.php) – Parker Brothers review, wraparound feature
-[^ref-17]: [Nintendo – Arcade Archives Frogger](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) – Switch release details
-[^ref-18]: [IMDB – Frogger Search Results](https://www.imdb.com/find/?q=Frogger&s=tt) – user ratings across versions
-[^ref-19]: [Lemon64 – Frogger](https://www.lemon64.com/game/frogger) – C64 community ratings, version comparisons
-[^ref-20]: [Classic Reload – Frogger](https://classicreload.com/frogger.html) – KLOV ranking, history
-[^ref-21]: [Medium – Frogger History](https://lbhuston.medium.com/frogger-the-funky-funny-history-of-an-arcade-classic-d3c88dfdfee0) – executive rejection, Elizabeth Falconer
-[^ref-22]: [Computer Archeology – Frogger Sound](https://computerarcheology.com/Arcade/Frogger/) – music analysis, hidden content, bugs
-[^ref-23]: [PCGamingWiki – Frogger (1983)](https://www.pcgamingwiki.com/wiki/Frogger) – PC specifications
-[^ref-24]: [RetroGames.cz – Frogger](https://www.retrogames.cz/play_031-DOS.php) – DOS file size, technical details
-[^ref-25]: [Saturday Mornings Forever – Frogger](https://www.saturdaymorningsforever.com/2021/06/saturday-supercade-frogger.html) – voice cast, release timeline
-[^ref-27]: [Easter Egg Archive – Star Office Frogger](https://eeggs.com/items/4041.html) – hidden game activation
-[^ref-28]: [Museum of Play – Hall of Fame Finalists](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists/) – 2025 finalist announcement
-[^ref-29]: [Wikipedia – Frogger (1997)](https://en.wikipedia.org/wiki/Frogger_(1997_video_game)) – sales data, reviews, development
-[^ref-30]: [Apple II Games – Ribbit](https://apple2games.com/wiki/Ribbit) – clone history, legal dispute
-[^ref-31]: [C64-Wiki – Frogger Arcade (Homebrew)](https://www.c64-wiki.com/wiki/Frogger_Arcade) – fan remake details
-[^ref-32]: [Retro365 – Frogger Licensing History](https://retro365.blog/2023/02/01/bits-from-my-personal-collection-frogger-finally-an-officially-licensed-game/) – John Harris development, Sierra ports
-[^ref-33]: [Konami Cross Media – Frogger](https://www.konami.com/crossmedia/us/en/products/frogger/) – official brand overview
-[^ref-34]: [Giant Bomb – Frogger](https://www.giantbomb.com/frogger/3030-11903/) – platform list, publisher details
-[^ref-35]: [KHInsider – Frogger Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/frogger-arcade-gamerip-1981) – music track identification
+## 

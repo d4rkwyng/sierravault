@@ -220,34 +220,7 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 - [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – Detailed gameplay guide and workarounds[^ref-10]
 
 ## See Also
-
-Hoyle Board Games 2005 is part of the extensive Hoyle game series that began with Sierra On-Line in 1989. The series has encompassed card games, board games, casino games, and puzzle games across numerous platforms including DOS, Windows, Macintosh, Amiga, Atari ST, Dreamcast, and Game Boy Color.[^ref-3] The 2005 edition was developed during the period when Encore, Inc. had taken over development and publishing responsibilities from Sierra Entertainment (which had handled the series from 1996-2003).[^ref-3]
-
-The Hoyle name itself carries significant historical weight, referring to Edmond Hoyle, the 18th century writer who codified the rules of various card games. For over 200 years, "According to Hoyle" has meant playing games correctly, and Sierra's series sought to continue that legacy of authoritative game implementations.[^ref-4]
-
-- **Previous:** [[2005 - Hoyle Puzzle and Board Games]]
-- **Next:** Various Hoyle titles continued through 2016 under Encore
 - [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
 - [[2005 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
-## References
-
-[^ref-2]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – developer, publisher information
-[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, developers, original sales data
-[^ref-4]: [Buzzfeed Music WordPress](https://buzzfeedmusic.wordpress.com/2015/04/22/hoyle-board-games-2005/) – game features, Hoyle legacy quotes
-[^ref-5]: [ESRB – Hoyle Board Games 2005 Rating](https://www.esrb.org/ratings/10149/hoyle-board-games-2005/) – ESRB rating, Vivendi Games publisher
-[^ref-6]: [Amazon.ca – Hoyle Board Games Product Page](https://www.amazon.ca/Encore-10027-Hoyle-Board-Games/dp/B0009YN1RQ) – features, reviews, technical specs, platforms
-[^ref-7]: [Metacritic – Hoyle Board Games 2005](https://www.metacritic.com/game/hoyle-board-games-2005/) – games list, ESRB rating
-[^ref-8]: [MobyGames – Hoyle Board Games 2005 Credits](https://www.mobygames.com/game/178238/hoyle-board-games-2005/credits/windows/) – full development credits, voice cast, engine
-[^ref-9]: [My Abandonware – Hoyle Board Games 2005](https://www.myabandonware.com/game/hoyle-board-games-2005-hzk) – user ratings, comments, file size, genre
-[^ref-10]: [Steam Community Guide – Hoyle Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – cut content, bugs, music sources, gameplay details
-[^ref-11]: [IGN – Hoyle Board Games 2005](https://www.ign.com/games/hoyle-board-games-2005) – release date, developer/publisher
-[^ref-12]: [MobyGames – Hoyle Board Games 2005 Reviews](https://www.mobygames.com/game/178238/hoyle-board-games-2005/reviews/) – reviews page (no reviews present)
-[^ref-13]: [Old Games Download – Hoyle Board Games 2005](https://oldgamesdownload.com/hoyle-board-games-2005/) – file size, format, download information
-[^ref-14]: [Metacritic – Hoyle Puzzle and Board Games 2005](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2005/) – bundle release information, game counts
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/hoyle-board-games-2005/3030-52095/) – Game database entry
-[^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-board-games-2005) – Game database entry
-[^ref-17]: [MobyGames](https://www.mobygames.com/game/178238/hoyle-board-games-2005/) – Game database entry
-[^ref-18]: [UVList](https://www.uvlist.net/game-6888-Hoyle+Board+Games+2005) – Universal Videogame List entry
-[^ref-19]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/reviews) – User reviews and ratings
-[^ref-20]: [Glitchwave](https://glitchwave.com/game/hoyle-board-games-2005/) – Modern ratings and classification
+## 

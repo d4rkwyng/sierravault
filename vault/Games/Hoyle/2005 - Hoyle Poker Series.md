@@ -202,38 +202,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 - [Amazon UK – Encore Version](https://www.amazon.co.uk/Encore-33036-Hoyle-Poker-Series/dp/B00094OT2M)[^ref-6]
 
 ## See Also
-
-Hoyle Poker Series is part of the extensive Hoyle gaming franchise that began in 1989 and continued through 2016. The series evolved from simple card game compilations to sophisticated casino simulations with 3D graphics and online multiplayer capabilities. The franchise included dedicated poker titles alongside broader casino game collections.
-
-The 2005 Poker Series specifically built upon the design philosophy established in Hoyle Poker (1997), which had introduced personality-driven AI opponents and a wide variety of poker variants[^ref-5]. The game also shares design DNA with Hoyle Texas Hold 'Em, focusing specifically on the poker variant that had captured public imagination during the mid-2000s[^ref-1].
-
-- **Previous:** [[1997 - Hoyle Poker]]
-- **Next:**
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
 - [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – developer, publisher, designers, platform, ratings, technical details, trivia
-[^ref-2]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, developer information, sales data, character cameos, Easter eggs, Edmond Hoyle background
-[^ref-3]: [Amazon UK – Hoyle Poker Series (Greenstreet)](https://www.amazon.co.uk/Hoyle-Poker-Series-PC-CD/dp/B000FSDZTA) – UK release date, publisher, customer reviews, platform compatibility, bugs, marketing claims
-[^ref-4]: [IGN – Hoyle Poker Series 2005](https://www.ign.com/games/hoyle-poker-series-2005) – release date, publisher, game description
-[^ref-5]: [MyAbandonware – Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – 1997 version details, GamesDomain review, system requirements, bugs, bundled book information
-[^ref-6]: [Amazon UK – Hoyle Poker Series (Encore)](https://www.amazon.co.uk/Encore-33036-Hoyle-Poker-Series/dp/B00094OT2M) – release date, publisher, customer reviews, platform compatibility, tutorial features
-[^ref-7]: [Metacritic – Hoyle Poker Series](https://www.metacritic.com/game/hoyle-poker-series/) – release date, developer, publisher, no reviews available
-[^ref-8]: [RAWG.io – Hoyle Poker Series](https://rawg.io/games/new-vegas-games/suggestions) – release date, developer/publisher, ranking information
-[^ref-9]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise history, developer/publisher list, game descriptions, version information
-[^ref-10]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – developer, publisher, release year
-[^ref-11]: [MobyGames – Stephen H. Van Horn](https://www.mobygames.com/person/11750/stephen-h-van-horn/credits/) – Executive Producer credit, career information
-[^ref-12]: [MobyGames – Eric Hook](https://www.mobygames.com/person/6797/eric-hook/) – Senior 3D Artist credit
-[^ref-13]: [MobyGames – Eric Tangborn](https://www.mobygames.com/person/27396/eric-tangborn/) – Software Engineer credit
-[^ref-14]: [MobyGames – Andrea Stone](https://www.mobygames.com/person/9101/andrea-stone/) – Corporate Product Certification credit
-[^ref-15]: [MobyGames – Omar Castillon](https://www.mobygames.com/person/116426/omar-castillon/) – QA team credit
-[^ref-16]: [MobyGames – Andrew Simpson](https://www.mobygames.com/person/42630/andrew-simpson/credits/) – QA team credit
-[^ref-17]: [MobyGames – Ron Lassen](https://www.mobygames.com/person/141193/ron-lassen/credits/) – QA Analyst credit
-[^ref-18]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – Voice Actor credit
-[^ref-19]: [MobyGames – Allan Batchelder](https://www.mobygames.com/person/9099/allan-batchelder/) – Voice Actor credit
-[^ref-20]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – Designer credit
-[^ref-21]: [eBay Canada – Hoyle Poker Series Bundle](https://www.ebay.ca/itm/155299243567) – publisher, platform, ESRB rating, compatibility warnings
-[^ref-22]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – developer/publisher history, sales data, version history, bugs
-[^ref-23]: [Amazon Singapore – Hoyle Products](https://www.amazon.sg/Video-Games-Hoyle/s?rh=n%3A6315182051%2Cp_4%3AHoyle) – publisher information, platform compatibility
+## 

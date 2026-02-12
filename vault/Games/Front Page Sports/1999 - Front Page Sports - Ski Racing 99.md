@@ -229,40 +229,6 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 **Note:** The game is not currently available on digital storefronts such as GOG or Steam.[^ref-12]
 
 ## See Also
-
-Front Page Sports: Ski Racing '99 was the second and final ski racing entry in the Front Page Sports series, following the original Front Page Sports: Ski Racing released in 1997. The series was primarily known for its football titles, which ran from 1993 through 1998 and established the franchise's reputation for deep sports simulation.
-
-The ski racing entries represented an attempt to diversify the Front Page Sports brand beyond American football, bringing the same simulation philosophy to winter sports. While the football series enjoyed consistent annual releases and a dedicated fanbase, the ski racing branch did not continue beyond the '99 edition, likely due to the niche appeal of alpine skiing compared to major American sports.
-
-The Front Page Sports brand itself declined following Sierra's corporate changes in the late 1990s and early 2000s, with the company eventually being absorbed into other entities and the simulation-focused approach falling out of favor in mainstream sports gaming.
-
-- **Previous:** [[1997 - Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
 
-## References
-
-[^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, release date, platform, skiing variants, World Cup slopes, ratings, technical specifications
-
-[^ref-2]: [GameSpot – Front Page Sports: Ski Racing Review](https://www.gamespot.com/reviews/front-page-sports-ski-racing-review/1900-2536110/) – review score, reviewer name, gameplay analysis, Picabo Street involvement, music credits, freestyle tricks, development notes
-
-[^ref-3]: [MobyGames – Front Page Sports: Ski Racing (1997)](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/) – designer Scott Youngblood, critics aggregate score, technical specifications, Rendition support issues, gameplay description
-
-[^ref-4]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Front+Page+Sports%3A+Ski+Racing+%2799) – alternate titles including DSF Ski '99: Extreme Edition
-
-[^ref-5]: [MyAbandonware – Front Page Sports: Ski Racing](https://www.myabandonware.com/game/front-page-sports-ski-racing-fyl) – regional release dates, download size, user ratings, user comments about modern compatibility, alternate names, gameplay perspectives
-
-[^ref-6]: [Never Die Media – Front Page Sports: Ski Racing](https://www.neverdiemedia.com/products/front-page-sports-ski-racing) – gameplay challenge description, events list, learning curve assessment
-
-[^ref-7]: [GameFAQs – Front Page Sports: Football Pro '95](https://gamefaqs.gamespot.com/pc/564575-front-page-sports-football-pro-95) – best-selling football game description, series context
-
-[^ref-8]: [Classic Game Fixes – NHL 99](https://classicgamefixes.wixsite.com/home/nhl-99) – era-appropriate compatibility information for late 1990s games, nGlide wrapper usage
-
-[^ref-9]: [MyAbandonware – Front Page Sports: Football Pro](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – series version history, Dynamix developer information
-
-[^ref-10]: [Abandonware DOS – Search Results](https://www.abandonwaredos.com/search.php?search=Front+Page+Sports%3A+Ski+Racing+%2799) – game listing, release year confirmation
-
-[^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – official patches availability, Sierra publisher confirmation
-
-[^ref-12]: [Steam Store – Search Results](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Ski+Racing+%2799) – game not available on Steam platform
-
-[^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist) – Community wishlist for digital re-release
+## 

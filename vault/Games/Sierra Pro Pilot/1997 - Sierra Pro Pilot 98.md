@@ -210,29 +210,8 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 - [Sierra Help - Patches](https://sierrahelp.com/) - Official patches 1.1, 1.2, 1.3a
 
 ## See Also
-
 - **Previous:** N/A (First in series)
-- **Next:** [[1998 - Sierra Pro Pilot USA]] (1998)
 - **See Also:** Sierra Pro Pilot 99 (1998) (1998)
 - [[1998 - Sierra Pro Pilot '99|→ Next: Sierra Pro Pilot '99]]
 
-## References
-
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Sierra_Pro_Pilot_98:_The_Complete_Flight_Simulator) - Basic game information, release details, and review scores
-[^ref-2]: [GameSpot Preview](https://www.gamespot.com/articles/pro-pilot-preview/1100-2560487/) - Developer quotes and competitive positioning
-[^ref-4]: [Dynamix Press Release (Archive)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) - Official marketing positioning
-[^ref-5]: [GameSpot Review](https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) - Marketing claims critique
-[^ref-6]: [Wikidata](https://www.wikidata.org/wiki/Q29962139) - ESRB rating and additional metadata
-[^ref-7]: [GameSpot Pro Pilot '99 Review](https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) - Comparison between versions
-[^ref-9]: [Old PC Gaming Review](https://oldpcgaming.net/pro-pilot-98-review/) - Detailed feature analysis
-[^ref-10]: [MobyGames Specifications](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/specs/) - Manual size, technical details
-[^ref-11]: [GameSpot Pro Pilot '99 Review (Archive)](https://web.archive.org/web/20190609005648/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) - Educational features assessment
-[^ref-12]: [MobyGames Aircraft Details](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) - Aircraft fleet and USGS data
-[^ref-13]: [VGChartz](https://www.vgchartz.com/) - Airport count variations
-[^ref-14]: [Research Consolidated Data](internal/research/games/sierra-pro-pilot-98/_consolidated.json) - Bug details and version history
-[^ref-15]: [IGN Review (Archive)](https://web.archive.org/web/20020611073421/http://pc.ign.com/articles/154/154019p1.html) - Contemporary review
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) - Modern preservation rating
-[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/reviews/windows/) - Aggregate scoring
-[^ref-18]: [RetroLorean](https://www.retrolorean.com/en/sierra-pro-pilot-98-the-complete-flight-simulator-24807) - System requirements
-[^ref-19]: [Pro Pilot USA Press Release (Archive)](https://web.archive.org/web/19990117015956/http://www.sierra.com/news/) - Kate Kloos quote
-[^ref-20]: [Internet Archive](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) - Digital preservation
+## 

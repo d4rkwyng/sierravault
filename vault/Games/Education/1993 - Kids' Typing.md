@@ -201,37 +201,12 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 - [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Walkthrough and game information[^ref-4]
 
 ## See Also
-
-Kid's Typing was part of Sierra On-Line's Talking Tutor educational software series, which utilized voice technology to create interactive learning experiences for children.[^ref-4] The series included multiple titles covering different educational subjects including reading, spelling, and mathematics.
-
-Other titles in the series released alongside Kid's Typing included:
 - Alphabet Blocks
 - Beginning Reading  
 - Spelling Jungle
 - Spelling Blizzard
 - Early Math
 
-These titles shared design philosophies with Kid's Typing, using character-driven narratives and adaptive learning technology to engage young students.[^ref-4]
 - [[1992 - Ready, Set, Read with Bananas & Jack|← Previous: Ready, Set, Read with Bananas & Jack]]
 
-## References
-
-[^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release dates, developer, publisher, platforms, credits
-[^ref-2]: [GOG.com – Dream Team Kid's Typing Dreamlist](https://www.gog.com/dreamlist) – game description, Spooky character, adaptive learning features
-[^ref-3]: [Classic Reload – Dream Team Kids Typing](https://classicreload.com/win3x-dream-team-kids-typing.html) – platform, publisher, character-driven design, printable reports
-[^ref-4]: [Sierra Chest – Kid's Typing Demos](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=demos) – series information, demo compilation, game rooms
-[^ref-5]: [Macintosh Repository – Dream Team Kid's Typing](https://www.macintoshrepository.org/8000-dream-team-kid-s-typing) – technical specifications, system requirements, adaptive lessons
-[^ref-6]: [Reddit r/nostalgia – Kids Typing Discussion](https://www.reddit.com/r/nostalgia/comments/13xr5ph/kids_typing_a_game_made_to_teach_typing_from_1994/) – user memories, semicolon pronunciation
-[^ref-7]: [Internet Archive – Dream Team Kids Typing](https://archive.org/details/dream-team-kids-typing-1993-sierra-mac-pc) – preservation, file size, platforms
-[^ref-9]: [Sierra Chest – Kid's Typing General](https://sierrachest.com/index.php?a=games&id=429&fld=general) – story description, haunting mechanics, library and encyclopedia modes
-[^ref-10]: [Amazon – Kids Typing Bundle](https://www.amazon.com/Kids-Typing-Bundle/dp/B07PYFLSV4) – self-paced learning description
-[^ref-11]: [Amazon – KidsSoft Kid's Typing](https://www.amazon.com/KidsSoft-Kids-Typing/dp/B000MQ8LF8) – user reviews, ratings, compatibility information
-[^ref-12]: [Tech & Learning – Typing Education](https://www.techlearning.com/tl-advisor-blog/11263) – Lisa Nielsen quotes on typing education timing
-[^ref-13]: [Today's Parent – Free Typing Games](https://www.todaysparent.com/kids/free-typing-games-for-kids/) – Brian Galvin quote on adaptive difficulty
-[^ref-14]: [MyAbandonware – Kid's Typing Search](https://www.myabandonware.com/search/q/Kid%27s+Typing) – typing game listings, preservation availability
-[^ref-15]: [Rainbow Resource – Kid's Typing](https://www.rainbowresource.com/) – homeschool software catalog, educational software resources
-[^ref-16]: [TypingGames.zone – Classic Typing Games](https://www.typinggames.zone/) – typing education history, classic software comparison
-[^ref-17]: [Individual Software – Typing Programs](https://www.individualsoftware.com/) – typing software market context, educational software publishing
-[^ref-18]: [KidzType – History of Typing Education](https://www.kidztype.com/) – evolution of typing instruction for children
-[^ref-19]: [TV Tropes – Educational Games](https://tvtropes.org/pmwiki/pmwiki.php/Main/EdutainmentGame) – genre context, character-driven educational software
-[^ref-20]: [Typing Tutor Online – Classic Programs](https://www.typingtutor.online/) – typing software history, adaptive learning evolution
+## 

@@ -242,47 +242,6 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 - [Zophar's Domain – Trophy Bass Music](https://www.zophar.net/music/windows/trophy-bass) – Game music files[^ref-30]
 
 ## See Also
-
-Trophy Bass launched what would become one of Sierra's most commercially successful sports simulation franchises, spanning multiple sequels throughout the late 1990s and into the 2000s. While the original game featured overhead perspective fishing, later entries would evolve to include full 3D graphics, expanded lake selections, and increasingly sophisticated multiplayer options.[^ref-27]
-
-The series maintained its partnership with the B.A.S.S. organization through multiple installments before later titles incorporated the Field & Stream magazine license for additional credibility in the outdoor sports market.[^ref-27] The franchise's fish AI and simulation systems served as a foundation that was refined across subsequent releases, with each new entry expanding equipment options, lake selections, and fish species.[^ref-28]
-
-- **Next:** [[1996 - Front Page Sports - Trophy Bass 2]]
 - [[1996 - Front Page Sports - Trophy Bass 2|→ Next: Front Page Sports - Trophy Bass 2]]
 
-## References
-
-[^ref-1]: [Dynamix Fandom Wiki – Trophy Bass](https://dynamix.fandom.com/wiki/Trophy_Bass) – development credits, ratings, awards, release information
-[^ref-2]: [Amazon – Trophy Bass](https://www.amazon.com/Sierra-Trophy-Bass/dp/B0007Y9DK2) – product description, platform details
-[^ref-3]: [MobyGames – Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – credits, technical specifications, game description
-[^ref-4]: [Old-Games.com – Trophy Bass](https://www.old-games.com/download/10696/trophy-bass) – gameplay description, contemporary review quotes
-[^ref-5]: [Coming Soon Magazine – Trophy Bass Review](https://www.csoon.com/issue10/trophy.htm) – review score, technical specifications, gameplay details
-[^ref-6]: [The Digital Antiquarian](https://www.filfre.net/?s=Trophy+Bass) – commercial success analysis, retail strategy
-[^ref-7]: [PC Gamer Review (Archive.org)](https://web.archive.org/web/20000309215210/http://www.pcgamer.com/reviews/1098.html) – Ned Gaskins review, 90% score
-[^ref-8]: [Computer Game Review (Archive.org)](https://web.archive.org/web/19961221191338/http://www.nuke.com/cgr/reviews/9601/tbass/tbass.htm) – tutorial system details, professional angler involvement
-[^ref-9]: [PC Games Magazine (Archive.org)](https://web.archive.org/web/19961018131916/http://www.pcgamesmag.com/games/Jan96/bass196.html) – Steve Klett review, gameplay mechanics
-[^ref-10]: [eBay – Trophy Bass Listing](https://www.ebay.com/itm/304624717029) – control elements, product details
-[^ref-11]: [GameSpy – Trophy Bass 4](http://pc.gamespy.com/pc/field-stream-trophy-bass-4/) – gameplay simulation details
-[^ref-12]: [IGN Cheats – Trophy Bass](https://www.ign.com/wikis/pc-cheats/Trophy_Bass_Cheats) – lure selection tips
-[^ref-13]: [Wikipedia – Trophy Bass](https://en.wikipedia.org/wiki/Trophy_Bass) – sales data, awards, Computer Gaming World quote
-[^ref-14]: [MyAbandonware – Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – user ratings, community comments
-[^ref-15]: [Amazon – Trophy Bass Outdoor Sportsman](https://www.amazon.com/Trophy-Bass-Outdoor-Sportsman-DOS/dp/0871771128) – technical specifications
-[^ref-16]: [Xeen Music – Trophy Bass Soundtrack](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – composer credits, recording methodology
-[^ref-17]: [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – patch details, version history
-[^ref-18]: [VOGONS Forum – Trophy Bass 2](https://www.vogons.org/viewtopic.php?t=28700) – 16-bit installer compatibility issues
-[^ref-19]: [Sierra Help Pages – New Sierra Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – modern Windows compatibility
-[^ref-20]: [VOGONS Forum – Trophy Bass Timing](https://www.vogons.org/viewtopic.php?t=66507) – game clock speed issues
-[^ref-21]: [Internet Archive – Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – compatibility mode recommendations
-[^ref-23]: [PC Gamer News (Archive.org)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – November 1997 sales figures
-[^ref-24]: [GameSpot – Trophy Bass 2 Review](https://www.gamespot.com/reviews/trophy-bass-2-review/1900-2538124/) – Tal Blevins review, sequel features
-[^ref-25]: [MyAbandonware – Trophy Bass 2](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – expansion pack information
-[^ref-26]: [Internet Archive – Trophy Bass 2 Deluxe](https://archive.org/details/TrophyBass2DeluxeUSA) – deluxe edition contents
-[^ref-27]: [Wikipedia – Field & Stream: Trophy Bass 3D](https://en.wikipedia.org/wiki/Field_&_Stream:_Trophy_Bass_3D) – 3D sequel information
-[^ref-28]: [GamePressure – Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – game features, user rating
-[^ref-29]: [GameSpy Xbox – Trophy Bass Fishing 5](http://xbox.gamespy.com/xbox/trophy-bass-fishing-5/) – cancelled Xbox release
-[^ref-30]: [Zophar's Domain – Trophy Bass Music](https://www.zophar.net/music/windows/trophy-bass) – game music archive
-[^ref-31]: [MobyGames – Trophy Bass 2](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – sequel credits and details
-[^ref-32]: [Internet Archive – Trophy Bass Demo 1996](https://archive.org/details/swizzle_demu_BASS) – demo version metadata
-[^ref-33]: [GOG.com Dreamlist – Trophy Bass 2](https://www.gog.com/dreamlist) – community interest
-[^ref-34]: [GameRevolution – Trophy Bass 2](https://www.gamerevolution.com/game/trophy-bass-2) – gameplay features
-[^ref-35]: [FilePlanet – Trophy Bass 4 Patch](https://www.fileplanet.com/archive/p-29857/Trophy-Bass-4-Patch-1-0-0-3) – patch details
+## 

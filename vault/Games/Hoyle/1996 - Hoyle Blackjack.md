@@ -188,29 +188,10 @@ The game's influence on casino game design persists in modern software, though c
 - [Internet Archive - Blackjack 2000](https://archive.org/details/blackjack_202001/) - Later version archive
 
 ## See Also
-
 - **Related Series:** Part of the larger Hoyle card and casino game franchise
 - **Companion Titles:** [[1996 - Hoyle Casino]], [[1993 - Hoyle Classic Card Games]], [[2002 - Hoyle Casino Empire]]
 - **Series Origin:** Spiritual successor to Hoyle Official Book of Games series
 - [[1996 - Hoyle Bridge|← Previous: Hoyle Bridge]]
 - [[1996 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [Amazon Product Page](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Product description and 16 game variants
-[^ref-2]: [SierraGamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Development history and Sierra legacy discussion
-[^ref-3]: [Old PC Gaming Review](https://oldpcgaming.net/hoyle-blackjack-review/) - Game customization features and rule options
-[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) - Professional review assessment and conclusion
-[^ref-5]: [Internet Archive](https://archive.org/details/Blackjack_201905) - Voice cast information and preservation
-[^ref-6]: [MobyGames](https://www.mobygames.com/game/45133/hoyle-blackjack/) - Credits, platform info, and multiplayer specifications
-[^ref-7]: [GameFAQs](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) - Tutorial and calculator features, marketing tagline
-[^ref-8]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=516&title=hoyle-blackjack&fld=walkthrough) - Game rules explanation
-[^ref-9]: [Amazon - Hoyle Casino](https://www.amazon.com/Hoyle-Casino-PC-Mac/dp/B00001KRTG) - Character descriptions and reviewer quotes
-[^ref-10]: [VGTimes](https://vgtimes.com/games/hoyle-blackjack/) - Game perspective, controls, and modern rating
-[^ref-11]: [MobyGames - Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) - Starting money and voice cast
-[^ref-12]: [MobyGames - Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) - Documentation format and critic scores
-[^ref-13]: [Amazon Review Quote](https://www.amazon.com/Hoyle-Craps-Blackjack-PC-Mac/dp/B00001JWML) - GameSpot review citation
-[^ref-15]: [GOG Community](https://www.gog.com/dreamlist) - User enthusiasm for Hoyle series
-[^ref-16]: [Company Histories](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) - Sierra business strategy and diversification
-[^ref-18]: [Grokipedia](https://grokipedia.com/page/Hoyle_Casino) - Technical innovations and series statistics
-[^ref-19]: [GameSpot News](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - 2006 corporate restructuring
+## 

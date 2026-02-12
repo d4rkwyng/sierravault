@@ -215,34 +215,7 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 - [Internet Archive – Game Reference Manual](https://archive.org/details/breach-3-game-reference)[^ref-6]
 
 ## See Also
-
-Breach 3 is the third and final entry in the Breach series, following the original Breach (1987) and Breach 2 (1990). All three games were developed by Omnitrend Software, with Impressions Games completing Breach 3 after Omnitrend ceased operations. The series exists within Omnitrend's larger Universe setting, which also includes the Rules of Engagement space combat games.[^ref-9]
-
-The games share a persistent squad leader character system, where leaders gain experience across missions and can advance through military ranks. The integration with Rules of Engagement 2 allows characters to move between games, creating a comprehensive science fiction warfare experience where players can command capital ships in space combat and then deploy ground forces through Breach 3.[^ref-5]
-
-Unlike its predecessors, Breach 3 dropped the fake isometric view of Breach 2 in favor of a pure top-down perspective, representing a controversial design decision that some viewed as a regression.[^ref-9]
-
-- **Previous:** Breach 2
 - [[1994 - Front Lines|← Previous: Front Lines]]
 - [[1995 - Casino De Luxe|→ Next: Casino De Luxe]]
 
-## References
-
-[^ref-2]: [MobyGames – Breach 3](https://www.mobygames.com/game/4263/breach-3/) – gameplay description, platform, release year, perspective details
-[^ref-3]: [Free Game Empire – Breach 3](https://www.freegameempire.com/games/Breach-3) – game lore, story background, Impressions history
-[^ref-4]: [Metacritic – Breach 3 Details](https://www.metacritic.com/game/breach-3/details/) – marketing descriptions, personality system
-[^ref-5]: [Amazon – Breach 3 PC CD](https://www.amazon.com/Breach-3-PC-CD-Boxed-DOS/dp/B0002MOJLW) – user review, ROE2 integration, release year
-[^ref-6]: [Internet Archive – Breach 3](https://archive.org/details/breach3dosbox) – platform details, integration features, technical issues
-[^ref-7]: [Golden Age of Games – Breach 3](https://goldenageofgames.com/breach-3/) – development history, HOTUD description
-[^ref-8]: [Wikipedia – Breach 3](https://en.wikipedia.org/wiki/Breach_3) – review scores, publisher, critical reception
-[^ref-9]: [Wikipedia – Breach 2](https://en.wikipedia.org/wiki/Breach_2) – series context, Universe setting, Breach 3 changes
-[^ref-10]: [Computer Game Review Archive](https://web.archive.org/web/19961221183856/http://www.nuke.com/cgr/reviews/1295/breach3/breach3.htm) – technical specs, editor comments, scenario builder
-[^ref-11]: [ClassicReload – Breach 3](https://classicreload.com/dosx-breach-3.html) – campaign descriptions, progression system, medals
-[^ref-12]: [MobyGames – Breach (1987)](https://www.mobygames.com/game/17073/breach/) – original game description, permadeath mechanic
-[^ref-13]: [PC Games Magazine Archive (January 1996)](https://web.archive.org/web/19961018134242/http://www.pcgamesmag.com/games/Jan96/brea196.html) – Christopher Lindquist review, bugs, criticism
-[^ref-14]: [MobyGames User Review – Isdaron](https://www.mobygames.com/game/4263/breach-3/user-review/2586115/) – negative user assessment
-[^ref-15]: [MyAbandonware – Breach 3](https://www.myabandonware.com/game/breach-3-2qx) – user ratings, technical issues, installation problems
-[^ref-16]: [Glitchwave – Breach 3](https://glitchwave.com/game/breach-3/) – user rating
-[^ref-17]: [GOG Community Dreamlist – ROE2/Breach 3](https://www.gog.com/dreamlist) – integration details, patch requirements, Thomas Carbone info
-[^ref-18]: [GameSpot – Breach 3 Cheats](https://www.gamespot.com/games/breach-3/cheats/) – command line parameters, level access codes
-[^ref-19]: [GameSpot – Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – Sierra consolidation context
+## 

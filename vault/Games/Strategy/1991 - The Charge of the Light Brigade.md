@@ -200,38 +200,9 @@ Impressions Games would find greater success with their subsequent city-building
 - [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
 
 ## See Also
-
-The Charge of the Light Brigade was part of Impressions Games' informal "Micro Miniatures" series of historical battle simulations, which shared a common game engine and presentation style[^ref-4]. These games applied the miniature wargaming aesthetic to various historical periods and conflicts.
-
-- **Previous:** Rorke's Drift (1990) – Zulu War battle simulation
 - **Related:** Cohort (1991) – Roman warfare simulation using the same engine
 
-Impressions would later shift focus to city-building games including Caesar (1992) and the Caesar II-IV series, as well as Pharaoh (1999) and Zeus: Master of Olympus (2000) after their acquisition by Sierra On-Line in 1995[^ref-7].
 - [[1987 - The Ancient Art of War at Sea|← Previous: The Ancient Art of War at Sea]]
 - [[1991 - V for Victory - D-Day Utah Beach|→ Next: V for Victory - D-Day Utah Beach]]
 
-## References
-
-[^ref-1]: [Internet Archive – The Charge of the Light Brigade (DOS, 1991)](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – release date, platforms, developer, publisher, historical context
-[^ref-2]: [Play Classic Games – The Charge of the Light Brigade](https://playclassic.games/games/real-time-strategy-dos-games-online/the-charge-of-the-light-brigade/) – Battle of Balaclava details, gameplay modes, formations
-[^ref-3]: [PlayOld.Games – The Charge of the Light Brigade](https://playold.games/play-game/the-charge-of-the-light-brigade/) – only Crimean War game, visual design, table commander feature
-[^ref-4]: [BoardGameGeek Wiki – The Charge of the Light Brigade](https://boardgamegeek.com/wiki/page/thing:340342) – battle sectors, engine history, development context
-[^ref-5]: [GameFAQs – The Charge of the Light Brigade (Amiga)](https://gamefaqs.gamespot.com/amiga/951749-the-charge-of-the-light-brigade) – interface description, unit control, historical quote
-[^ref-6]: [VideoGameGeek – The Charge of the Light Brigade](https://videogamegeek.com/videogame/340342/charge-light-brigade) – casualty statistics, Valley of Death reference, historical significance
-[^ref-7]: [Free Game Empire – The Charge of the Light Brigade](https://www.freegameempire.com/games/The-Charge-of-The-Light-Brigade) – Impressions history, Sierra acquisition, rating
-[^ref-8]: [Every Game Going – Amiga Power Review](https://www.everygamegoing.com/larticle/the-charge-of-the-light-brigade-000/45343/) – 68% score, Jonathan Davies review, interface criticism, praise quotes
-[^ref-9]: [MobyGames – The Charge of the Light Brigade](https://www.mobygames.com/game/32027/the-charge-of-the-light-brigade/) – development credits, technical specs, aggregate score
-[^ref-10]: [Warlord Games – The Charge of the Light Brigade Poem](https://www.warlordgames.com/the-charge-of-the-light-brigade-poem/) – Tennyson quotes, historical context
-[^ref-11]: [Metacritic – The Charge of the Light Brigade Details](https://www.metacritic.com/game/the-charge-of-the-light-brigade/details/) – troop numbers, game piece count
-[^ref-12]: [LaunchBox Games Database – The Charge of the Light Brigade](https://gamesdb.launchbox-app.com/games/details/141019-the-charge-of-the-light-brigade) – resolution, formations, two-player mode
-[^ref-13]: [Kagi FastGPT Research](kagi:fastgpt) – order modes, Lords Raglan/Lucan miscommunication
-[^ref-14]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/the-charge-of-the-light-brigade-000/49730/) – 52% score, James Leach review, pacing criticism
-[^ref-15]: [Lemon Amiga – The Charge of the Light Brigade](https://www.lemonamiga.com/game/charge-of-the-light-brigade) – Amiga Action, CU Amiga, Games-X scores
-[^ref-16]: [MyAbandonware – The Charge of the Light Brigade](https://www.myabandonware.com/game/the-charge-of-the-light-brigade-141) – file sizes, HOTUD quote, user rating
-[^ref-17]: [PlayMiniGames – The Charge of the Light Brigade](https://playminigames.net/game/the-charge-of-the-light-brigade) – user rating, browser availability
-[^ref-18]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Sierra development groups, Impressions relationship
-[^ref-19]: [VideoGameGeek – Technical Specifications](https://videogamegeek.com/videogame/340342/the-charge-of-the-light-brigade) – media type, languages, player count
-[^ref-20]: [MobyGames – Release Information](https://www.mobygames.com/game/32027/the-charge-of-the-light-brigade/releases/) – regional release dates, platform versions
-[^ref-21]: [ClassicReload – The Charge of the Light Brigade](https://classicreload.com/the-charge-of-the-light-brigade.html) – DOS platform confirmation, publisher
-[^ref-22]: [Old-Games.com – Download Page](https://www.old-games.com/download/5314/charge-of-the-light-brigade) – file sizes, Micro Miniatures series
-[^ref-23]: [Wikidata – Q29964512](https://www.wikidata.org/wiki/Q29964512) – database cross-references, country of origin
+## 

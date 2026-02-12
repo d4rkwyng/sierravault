@@ -190,26 +190,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 - No digital manual copies currently documented
 
 ## See Also
-
-Sierra Sports Skiing 1999 Edition served as the direct sequel to Front Page Sports: Ski Racing, which Dynamix had released in October 1997[^ref-2]. Both games were published under the Sierra Sports label and shared similar gameplay features, course locations, and the involvement of Picabo Street as a celebrity instructor[^ref-4].
-
-The Front Page Sports franchise had established Sierra as a significant player in sports simulation gaming, though the skiing entries never achieved the prestige of their football or baseball counterparts. The transition from the "Front Page Sports" branding to "Sierra Sports Skiing" reflected broader changes in Sierra's marketing strategy for their sports division during 1998-1999[^ref-2].
-
-No subsequent skiing titles were released in the series following the 1999 Edition. The closure of Dynamix in 2001 effectively ended Sierra's in-house skiing game development[^ref-7].
-
-- **Previous:** [[1997 - Front Page Sports - Ski Racing]]
 - [[1998 - Sierra Sports - Bass Fishing|← Previous: Sierra Sports - Bass Fishing]]
 - [[1999 - Professional Bull Rider|→ Next: Professional Bull Rider]]
 
-## References
-
-[^ref-1]: [Kagi FastGPT – Sierra Sports Skiing 1999 Edition](kagi_fastgpt_aggregate) – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme
-[^ref-2]: [Wikipedia – Front Page Sports: Ski Racing](https://en.wikipedia.org/wiki/Front_Page_Sports:_Ski_Racing) – predecessor game details, Dynamix development, October 1997 release, course locations, racing types, Picabo Street involvement, sequel confirmation
-[^ref-3]: [Metacritic – Sierra Sports Skiing 1999 Edition](https://www.metacritic.com/game/sierra-sports-skiing-1999-edition/) – ESRB rating, platform, developer attribution, lack of review scores
-[^ref-4]: [HandWiki – Front Page Sports: Ski Racing](https://handwiki.org/wiki/Software:Front%20Page%20Sports:%20Ski%20Racing) – comprehensive review scores, Picabo Street tutorial description, gameplay features
-[^ref-5]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Sierra+Sports+Skiing+1999+Edition) – absence of game listing in database
-[^ref-6]: [Higher Intellect Vintage Wiki – Dynamix](https://wiki.preterhuman.net/Dynamix) – Dynamix studio description, Eugene Oregon location, skiing sequel development reference
-[^ref-7]: [The Sierra Chest – Dynamix](https://sierrachest.com/index.php?a=devs&id=3&title=dynamix&fld=general) – Dynamix company information, Sierra acquisition, 2001 closure
-[^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports marketing philosophy, developer training practices, annual edition approach
-[^ref-9]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Sports+Skiing+1999+Edition) – game not available on Steam
-[^ref-10]: [GOG.com Search Results](https://www.gog.com/en/games?query=Sierra+Sports+Skiing+1999+Edition) – game not available on GOG
+## 

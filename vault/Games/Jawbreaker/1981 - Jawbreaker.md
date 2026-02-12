@@ -212,33 +212,6 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 - [Jawbreaker II Manual](https://archive.org/details/jawbreakeriimanual)[^ref-22]
 
 ## See Also
-
-Jawbreaker spawned a sequel, Jawbreaker II, released in 1983 for multiple home computer platforms[^ref-7]. While the original game was a Pac-Man clone, the sequel departed significantly from this formula, instead adopting gameplay more similar to the unique design created for the Atari 2600 version of the first game[^ref-7]. The series represents Sierra On-Line's early efforts in action gaming before the company became primarily known for adventure games like Mystery House and the King's Quest series[^ref-15].
-
-- **Next:** [[1982 - Jawbreaker II]]
 - [[1982 - Jawbreaker II|→ Next: Jawbreaker II]]
 
-## References
-
-[^ref-1]: [Internet Archive – Jawbreaker Apple II](https://archive.org/details/wozaday_Jawbreaker) – developer, publisher, system requirements, release date
-[^ref-2]: [Academic Encyclopedia – Jawbreaker](https://en-academic.com/dic.nsf/enwiki/4244187) – platforms, gameplay description, release dates
-[^ref-3]: [Games Database – Jawbreaker](https://www.gamesdatabase.org/game/atari-2600/jawbreaker) – development history, Hackers book reference, critical reception
-[^ref-4]: [Halcyon Days – John Harris Interview](https://dadgum.com/halcyon/BOOK/HARRIS.HTM) – Atari 800 hardware usage, 2600 development details
-[^ref-5]: [Wikipedia – Jawbreaker (video game)](https://en.wikipedia.org/wiki/Jawbreaker_(video_game)) – John Anderson review quote, Arkie Award, The Candy Man music, Softline ranking
-[^ref-6]: [Atarimania – Jawbreaker](http://www.atarimania.com/game-atari-400-800-xl-xe-jawbreaker_2650.html) – user reviews, version history, trivia, legal dispute, technical specifications
-[^ref-7]: [MobyGames – Jawbreaker II](https://www.mobygames.com/game/51491/jawbreaker-ii/) – sequel information, platform releases, C64 version reviews
-[^ref-8]: [Dial Up Games – Jawbreaker Atari 2600](https://www.dialupgames.com/products/jawbreaker-atari-2600) – Tigervision publisher, gameplay description
-[^ref-9]: [Sierra Chest – Jawbreaker Walkthrough](https://sierrachest.com/index.php?a=games&id=448&title=jawbreaker&fld=walkthrough) – controls, bonus items, gameplay mechanics
-[^ref-10]: [MobyGames – Jawbreaker](https://www.mobygames.com/game/9296/jawbreaker/) – ratings, designer credits, game description
-[^ref-11]: [GameFAQs – Jawbreaker Apple II FAQ](https://gamefaqs.gamespot.com/appleii/575828-jawbreaker/faqs/56304) – point values, gameplay mechanics, bugs, version comparison
-[^ref-12]: [Atari Magazines – VG Update](http://www.atarimagazines.com/cva/v1n1/vgupdate.php) – moving doors feature, CES listing
-[^ref-13]: [Retro365 – Jawbreaker Development History](https://retro365.blog/2021/06/17/bits-from-my-personal-collection-jawbreaker-john-harris-welcome-to-on-line-systems/) – John Harris age, development timeline, legal dispute details, version history
-[^ref-14]: [MyAbandonware – Jawbreaker](https://www.myabandonware.com/game/jawbreaker-7o3) – file sizes, user ratings, platform availability
-[^ref-15]: [Dynamix Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – company founding, On-Line Systems history
-[^ref-16]: [Lemon64 – Jaw Breaker](https://www.lemon64.com/game/jaw-breaker) – C64 version credits, Atari lawsuit information
-[^ref-17]: [RetroGames.cz – Jawbreaker](https://www.retrogames.cz/play_096-Atari2600.php) – file size, version information
-[^ref-18]: [The Digital Antiquarian – Jawbreaker](https://www.filfre.net/?s=Jawbreaker) – John Harris departure from Sierra, Ken Williams quote
-[^ref-19]: [Speedrun.com – Jawbreaker](https://www.speedrun.com/jawbreaker) – speedrunning community statistics, world records
-[^ref-20]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Jawbreaker_1980_Sierra_On_Line_US_k_file) – archival preservation
-[^ref-21]: [Internet Archive – Atari Jawbreaker Manual](https://archive.org/details/AtariJawbreakerManual) – game manual
-[^ref-22]: [Internet Archive – Jawbreaker II Manual](https://archive.org/details/jawbreakeriimanual) – sequel manual, TI-99/4A version
+## 

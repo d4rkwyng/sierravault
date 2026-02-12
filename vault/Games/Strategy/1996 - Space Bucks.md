@@ -173,33 +173,7 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [Classic Reload](https://classicreload.com/win3x-space-bucks.html) - Browser playable version
 
 ## See Also
-
-- **Previous:** None
-- **Next:** None (Standalone title)
 - [[1996 - Birthright - The Gorgon's Alliance|← Previous: Birthright - The Gorgon's Alliance]]
 - [[1996 - The Rise & Rule of Ancient Empires|→ Next: The Rise & Rule of Ancient Empires]]
 
-## References
-
-[^ref-1]: [eBay Listing](https://www.ebay.com/itm/267099826308) – Game objective description
-[^ref-2]: [Old-Games.com](https://www.old-games.com/download/5568/space-bucks) – Victory condition explanation
-[^ref-3]: [Archive.org](https://archive.org/details/space-bucks) – Basic game description and format
-[^ref-4]: [Space Game Junkie](https://www.spacegamejunkie.com/reviews/lets-play-space-bucks-entry-1-how-to-succeed/) – Game mechanics description
-[^ref-5]: [Never Die Media](https://www.neverdiemedia.com/products/space-bucks-w-manual) – Five races competition description
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/9557/space-bucks/) – Game setting, timeframe, and credits
-[^ref-8]: [MyAbandonware](https://www.myabandonware.com/game/space-bucks-dno) – Genre comparison and user review
-[^ref-9]: [MobyGames Credits](https://www.mobygames.com/game/windows/space-bucks) – Developer information and system requirements
-[^ref-10]: [Archive.org Manual](https://archive.org/stream/SpaceBucksMANUAL/Space%20Bucks%20MANUAL-edited_djvu.txt) – Publisher information
-[^ref-11]: [Cheat Book](https://www.cheatbook.de/wfiles/spacebucks.htm) – Five races listing
-[^ref-12]: [Amazon](https://www.amazon.com/Space-Bucks/dp/B0002Y2ZLQ) – Race selection gameplay
-[^ref-13]: [Metacritic](https://www.metacritic.com/game/space-bucks/) – Game premise description
-[^ref-14]: [Web Archive - CD Magazine](https://web.archive.org/web/20031103233809/http://www.cdmag.com/articles/005/087/space_bucks_review.html) – Gameplay metaphor and reviewer conclusion
-[^ref-15]: [Wikipedia](https://en.wikipedia.org/wiki/Space_Bucks) – Next Generation review
-[^ref-16]: [Web Archive - Gamer's Zone](https://web.archive.org/web/20090227043558/http://www2.worldvillage.com/wv/gamezone/html/reviews/spacebuk.htm) – Review score
-[^ref-17]: [VGTimes](https://vgtimes.com/games/space-bucks/) – Review score
-[^ref-18]: [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SpaceBucksUpdates.html) – Version history and patches
-[^ref-19]: [Reddit - Impressions Games](https://www.reddit.com/r/impressionsgames/comments/1dv3cxo/did_anyone_ever_play_spacebucks_id_love_to_chat/) – Development context and community interest
-[^ref-20]: [Archive.org German](https://archive.org/details/space-bucks-german) – German version details
-[^ref-21]: [SquakeNet](https://www.squakenet.com/game/space-bucks/) – Game assessment
-[^ref-22]: [Vintage Computing](https://www.vintagecomputing.com/index.php/archives/1072/retro-scan-of-the-week-space-bucks) – Historical context
-[^ref-25]: [ClassicReload - Space Bucks](https://classicreload.com/win3x-space-bucks.html) – Detailed game mechanics description
+## 

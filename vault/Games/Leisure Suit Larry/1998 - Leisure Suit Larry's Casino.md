@@ -176,11 +176,6 @@ Based on contemporary documentation:[^ref-6]
 The game was originally released on CD-ROM for Windows and is occasionally available through secondary market sellers. It was also included in the *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999) compilation.[^ref-7]
 
 ## See Also
-
-*Leisure Suit Larry's Casino* is a spinoff title rather than a mainline entry in the Leisure Suit Larry series. It was released between *Leisure Suit Larry 7: Love for Sail!* (1996) and the cancelled *Leisure Suit Larry 8: Lust in Space*. The game features characters and assets from the adventure games but tells no story continuing Larry's romantic misadventures.
-
-The game's connection to the main series is primarily through shared characters and setting—Larry Laffer as casino manager hosting familiar faces from *Love for Sail!* and earlier titles. It represents Sierra's attempt to extend the Larry brand into new genres during the late 1990s.
-
 - **Previous (Main Series):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[Leisure Suit Larry Series]] - Series overview
@@ -188,20 +183,4 @@ The game's connection to the main series is primarily through shared characters 
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail!]]
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
 
-## References
-
-[^ref-1]: [IMDB – Leisure Suit Larry's Casino (1998)](https://www.imdb.com/title/tt0427453/) – release date, director, voice cast, trivia, user rating
-[^ref-2]: [Wikipedia – Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – series overview, Larry's Casino listed in Other software section
-[^ref-3]: [Larry Laffer Dot Net – Larry's Casino (1998)](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – LarryLand history, Crazy Nick's version, promotional recordings
-[^ref-4]: [MobyGames – Leisure Suit Larry's Casino](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – features list, Best of Sierra compilation
-[^ref-5]: [IGN – Leisure Suit Larry's Casino Review](https://www.ign.com/articles/1998/09/02/leisure-suit-larrys-casino) – Chris Buckman review, gameplay details, poker variations, character selection
-[^ref-6]: [Old PC Gaming – Leisure Suit Larry's Casino](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Larrybucks economy, party games, social features, WON service
-[^ref-7]: [Wikipedia – Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry#Collections) – The Ultimate Pleasure Pack compilation
-[^ref-8]: [Metacritic – Leisure Suit Larry's Casino](https://www.metacritic.com/game/leisure-suit-larrys-casino/) – ESRB rating, release date, publisher
-[^ref-9]: [Sierra Chest – The Sierra Network](https://www.sierrachest.com/index.php?a=network) – TSN/ImagiNatioN history
-[^ref-10]: [Al Lowe's Official Site](https://allowe.com/games/larry/history-of-larry/is-larry-dead.html) – Al Lowe departure from Sierra
-[^ref-11]: [GOG.com Forums – Leisure Suit Larry's Casino](https://www.gog.com/forum/leisure_suit_larry_series/leisure_suit_larrys_casino) – community requests for digital release
-[^ref-12]: [Internet Archive – Leisure Suit Larry's Casino (USA)](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump preservation copy, SHA-1 verified
-[^ref-13]: [PCGamingWiki – Leisure Suit Larry's Casino (1998)](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry%27s_Casino_(1998)) – technical specifications, platform information
-[^ref-14]: [YouTube – Leisure Suit Larry's Casino Unboxing and Gameplay](https://www.youtube.com/watch?v=KSulmq38Phs) – visual documentation of gameplay
-[^ref-15]: [Sierra Help Pages – Leisure Suit Larry Series](https://sierrahelp.com/Games/Larry/LarryHome.html) – series history and technical support
+## 

@@ -134,33 +134,7 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 - [Internet Archive](https://archive.org/details/outpost2divideddestiny)
 
 ## See Also
-
-- **Previous:** [[1994 - Outpost]]
 - **Next:** No direct sequel produced
 - [[1994 - Outpost|← Previous: Outpost]]
 
-## References
-
-[^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Outpost_2:_Divided_Destiny) – - Development credits and team information
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Outpost_2:_Divided_Destiny) – - Gameplay mechanics description
-[^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Outpost2) – - Background story and setting
-[^ref-4]: [Outpost2.net Community Wiki](https://wiki.outpost2.net/doku.php?id=outpost_2:outpost_2) – - Game lore and technical details
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/outpost-2-divided-destiny-e3n) – - Game focus and narrative premise
-[^ref-6]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny/faqs/74500) – - Mission briefings and plot details
-[^ref-7]: [Abandonware Games](https://abandonwaregames.net/game/outpost-2-divided-destiny) – - Game narrative description
-[^ref-8]: [GOG.com](https://www.gog.com/en/game/outpost_2_divided_destiny) – - Platform support information
-[^ref-9]: [Tropedia Fandom](https://tropedia.fandom.com/wiki/Outpost_2) – - Plot summary and setting
-[^ref-10]: [Medium Retrospective](https://medium.com/@theorycraft/nostalgia-trip-outpost-2-divided-destiny-14f6f148f28f) – - Backstory and narrative context
-[^ref-11]: [Nerd Bacon Magazine](https://nerdbacon.com/outpost-2-divided-destiny-pc/) – - Game tagline
-[^ref-12]: [MobyGames](https://www.mobygames.com/game/1609/outpost-2-divided-destiny/) – - Technical specifications and input devices
-[^ref-13]: [IGN Cheats](https://www.ign.com/wikis/pc-cheats/Outpost_2:_Divided_Destiny_Cheats) – - Game production mechanics
-[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny) – - Game modes description
-[^ref-15]: [Archive.org Manual](https://archive.org/stream/Outpost_2_Manual/Outpost_2_Manual_djvu.txt) – - Campaign structure details
-[^ref-16]: [GameFAQs Guide](https://gamefaqs.gamespot.com/pc/198243-outpost-2-divided-destiny/faqs/10966) – - Mission map specifications
-[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Outpost_2:_Divided_Destiny) – - Multiplayer specifications
-[^ref-18]: [GameFabrique](https://gamefabrique.com/games/outpost-2-divided-destiny/) – - Combat criticism and review
-[^ref-19]: [GameSpot Review](https://www.gamespot.com/reviews/outpost-2-divided-destiny-review/1900-2543568/) – - Professional review and criticism
-[^ref-20]: [Metacritic](https://www.metacritic.com/game/outpost-2-divided-destiny/) – - User score aggregate
-[^ref-21]: [Outpost2.net](https://www.outpost2.net/) – - Community support and ongoing development
-[^ref-22]: [GOG Database](https://www.gogdb.org/product/1494370738) – - Version history and digital distribution
-[^ref-23]: [Archive.org Update](https://archive.org/details/update_20161023) – - Community content and scenario packs
+## 

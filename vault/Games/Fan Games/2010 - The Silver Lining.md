@@ -178,35 +178,9 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 - [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demonstration version[^ref-8]
 
 ## See Also
-
-The Silver Lining exists as an unofficial fan continuation of the King's Quest series, created with love by dedicated fans who wanted to see King Graham's adventures continue after Sierra ceased development on the franchise.[^ref-1] The game is set after the events of the official King's Quest series and incorporates characters, locations, and plot elements from across the franchise, particularly drawing on King's Quest III, IV, and VI.[^ref-1] While not considered canon to the official series, The Silver Lining represents an important piece of King's Quest fan culture and demonstrates the lasting impact of Roberta Williams' adventure game designs on players who grew up with the series.[^ref-3]
-
-The game should not be confused with King's Quest (2015), the official series reboot developed by The Odd Gentlemen and published by Activision, which took a different approach to continuing the franchise.[^ref-5]
-
 - **Previous (Official Series):** [[1998 - King's Quest - Mask of Eternity]]
 - **Related Fan Games:** King's Quest II: Romancing the Stones (AGD Interactive), King's Quest III Redux (AGD Interactive)[^ref-3]
 - [[2008 - Quest for Glory II VGA Remake|← Previous: Quest for Glory II VGA Remake]]
 - [[2011 - King's Quest III Redux - To Heir is Human|→ Next: King's Quest III Redux - To Heir is Human]]
 
-## References
-
-[^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details
-[^ref-2]: [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Technical specifications, download statistics, production scope, demo release date
-[^ref-3]: [Adventure Gamers – The Silver Lining Series](https://adventuregamers.com/gameseries/the_silver_lining) – Series overview, developer information, story premise
-[^ref-4]: [MobyGames – The Silver Lining Search Results](https://www.mobygames.com/search/?q=The+Silver+Lining&type=game) – Episode release dates, platform information
-[^ref-5]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – Fan wiki documentation, categorization
-[^ref-6]: [PCGamingWiki – The Silver Lining](https://www.pcgamingwiki.com/wiki/The_Silver_Lining) – Technical information, platform, genre classification
-[^ref-7]: [Wikidata – Q7764297](https://www.wikidata.org/wiki/Q7764297) – Publication date, country of origin, official website, database identifiers
-[^ref-8]: [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demo preservation
-[^ref-9]: [AGDInteractive Forums – The Silver Lining Lives!](https://www.agdinteractive.com/forum/viewtopic.php?f=19&t=14686) – Community discussion, forum history
-[^ref-10]: [Free Games Utopia – King's Quest: The Silver Lining](https://www.freegamesutopia.com/game/king-s-quest-the-silver-lining/625/) – Game description, release year, genre classification
-[^ref-11]: [Giant Bomb - The Silver Lining](https://www.giantbomb.com/the-silver-lining/3030-33687/) – wiki entry and game database
-[^ref-12]: [IGDB - The Silver Lining](https://www.igdb.com/games/the-silver-lining) – game database entry
-[^ref-13]: [GameFAQs - The Silver Lining](https://gamefaqs.gamespot.com/pc/927773-the-silver-lining-episode-1-what-is-decreed-must-be) – platform and release information
-[^ref-14]: [Steam Greenlight Archives](https://steamcommunity.com/) – historical community campaign
-[^ref-15]: [Sierra Gamers - The Silver Lining](https://www.sierragamers.com/) – fan site documentation
-[^ref-16]: [ModDB - The Silver Lining](https://www.moddb.com/) – mod community listing
-[^ref-17]: [UVLIST - The Silver Lining](https://www.uvlist.net/) – universal video game list entry
-[^ref-18]: [Metacritic - The Silver Lining](https://www.metacritic.com/) – potential review aggregation
-[^ref-19]: [Wikipedia - Phoenix Online Studios](https://en.wikipedia.org/wiki/Phoenix_Online_Studios) – developer background
-[^ref-20]: [YouTube - The Silver Lining Gameplay](https://www.youtube.com/) – video documentation and walkthroughs
+## 

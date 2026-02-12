@@ -113,38 +113,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 - [Internet Archive](https://archive.org/details/msdos_High_Seas_Trader_1995)
 
 ## See Also
-
-- **Previous:** Merchant Colony (spiritual predecessor)
-- **Next:** No direct sequel
 - [[1994 - Alien Legacy|← Previous: Alien Legacy]]
 - [[1996 - Birthright - The Gorgon's Alliance|→ Next: Birthright - The Gorgon's Alliance]]
 
-## References
-
-[^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – - Game description and premise
-[^ref-2]: [Abandonware DOS](https://www.abandonwaredos.com/docawd.php?sf=highseastmanual.txt&st=manual&sg=High+Seas+Trader&idg=2184) – - Game objective description from manual
-[^ref-3]: [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p) – - Ranking system information
-[^ref-4]: [Metacritic](https://www.metacritic.com/game/high-seas-trader/) – - Unique perspective description
-[^ref-5]: [GOG Community](https://www.gog.com/dreamlist) – - Development history and predecessor information
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/High_Seas_Trader) – - Developer information
-[^ref-7]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=High+Seas+Trader&gid=2184) – - Designer credits
-[^ref-8]: [MobyGames](https://www.mobygames.com/game/4256/high-seas-trader/) – - Publisher information
-[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/High_Seas_Trader) – - Platform availability
-[^ref-10]: [Abby Mullen](https://abbymullen.org/high-seas-trader-games-and-maritime-history/) – - Nationality selection options
-[^ref-11]: [Cheatbook](https://www.cheatbook.de/wfiles/highseastrader.htm) – - Primary game objective
-[^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/High-Seas-Trader) – - Combat elements
-[^ref-13]: [OldGames.sk](https://www.oldgames.sk/en/game/high-seas-trader/download/8239/) – - Progression system
-[^ref-14]: [Old Games Download](https://oldgamesdownload.com/high-seas-trader/) – - Gameplay activities
-[^ref-15]: [Games Nostalgia](https://gamesnostalgia.com/game/high-seas-trader) – - Business expansion objective
-[^ref-16]: [Jeuxvideo.com](https://www.jeuxvideo.com/wikis-soluce-astuces/patch-sur-sauvegarde-pour-modifier-l-equipage/202673) – - Crew management
-[^ref-17]: [Reddit High Seas Trader](https://www.reddit.com/r/highseastrader/) – - Supply management discussion
-[^ref-18]: [Squakenet](https://www.squakenet.com/game/high-seas-trader/) – - Combat system description
-[^ref-19]: [ProJared Wiki](https://projared.fandom.com/wiki/High_Seas_Trader) – - Easter egg reference
-[^ref-20]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1573) – - Amiga Action review
-[^ref-21]: [MobyGames Company Page](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – - Studio background
-[^ref-22]: [Sierra Gamers](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – - Sierra's game portfolio expansion
-[^ref-23]: [Vogons](http://www.vogons.org/viewtopic.php?t=4363) – - CD-ROM technical details
-[^ref-24]: [Vogons](https://www.vogons.org/viewtopic.php?f=33&t=55942) – - Sound card limitations
-[^ref-25]: [Cheatbook](https://www.cheatbook.de/files/highsea.htm) – - Save game modification
-[^ref-26]: [MobyGames](https://www.mobygames.com/game/3817/patrician-ii-quest-for-power/) – - Genre comparison
-[^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – - Modern gaming community discussion
+## 

@@ -242,28 +242,7 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
 
 ## See Also
-
-Kempelen is a standalone chess program and is not part of a larger game series. It represents Sierra On-Line's occasional ventures into publishing strategy and simulation software during the 1980s, alongside their primary focus on adventure games.
-
-As a chess program, Kempelen exists within the broader context of computer chess development rather than narrative game series. It competed against other chess programs of its era at World Microcomputer Chess Championships, connecting it to the competitive history of artificial intelligence in gaming[^ref-1].
 - [[1985 - The Crimson Crown|← Previous: The Crimson Crown]]
 - [[1986 - Wrath of Denethenor|→ Next: Wrath of Denethenor]]
 
-## References
-
-[^ref-1]: [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – developer credits, tournament history, platforms, naming origin, development collaboration
-
-[^ref-2]: [Lemon64 – Kempelen](https://www.lemon64.com/game/kempelen) – release date, publisher, coders, technical specifications, genre classification
-
-[^ref-3]: [My Abandonware – Kempelen](https://www.myabandonware.com/game/kempelen-ob0) – publisher, release region, file size, abandonware status
-
-[^ref-4]: [Retrogek – Kempelen Chess](https://retrogek.com/strategy/kempelen-chess/) – historical inspiration, AI description, retrospective assessment
-
-[^ref-5]: [MobyGames – Kempelen Chess](https://www.mobygames.com/game/20119/kempelen-chess/) – MSX release details, publisher, technical specs, features, ratings, credits
-[^ref-6]: [The Spacious Mind – Kempelen](https://www.spacious-mind.com/html/c64_emu_-_kempelen.html) – emulation testing, ELO rating estimates, AI analysis
-[^ref-7]: [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX2 platform information, 1988 release
-[^ref-8]: [Wikidata – Kempelen Chess](https://www.wikidata.org/wiki/Q20910541) – structured data, identifiers
-[^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
-[^ref-10]: [Wikipedia – Wolfgang von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen) – historical figure the game is named after
-[^ref-11]: [Wikipedia – The Turk](https://en.wikipedia.org/wiki/The_Turk) – chess-playing automaton historical context
-[^ref-12]: [WMCCC 1985](https://www.chessprogramming.org/WMCCC_1985) – World Microcomputer Chess Championship records
+## 

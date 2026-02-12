@@ -196,33 +196,6 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 - No digital manuals located in research
 
 ## See Also
-
-Ready, Set, Read with Bananas & Jack was part of Sierra's Discovery Series and the Bananas & Jack franchise of educational titles[^ref-1][^ref-3]. The game served as a sequel to Alphabet Blocks, building on that title's introduction of the Bananas and Jack characters[^ref-1]. Both games were part of Bright Star's broader Talking Tutor methodology for educational software[^ref-3].
-
-The Bananas & Jack characters appeared in multiple educational titles from Bright Star Technology during this period, establishing them as recurring hosts for the company's reading and language education products[^ref-3]. Platform and design information is preserved in gaming wikis[^ref-13] and community memories continue to surface in online discussions[^ref-14].
-
-- **Previous:** [[1982 - Alphabet Blocks]]
 - [[1993 - Spelling Jungle|→ Next: Spelling Jungle]]
 
-## References
-
-[^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – release dates, platforms, gameplay features, educational mechanics, series information
-[^ref-2]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – developer and publisher information, Sierra acquisition
-[^ref-3]: [Sierra Chest – Ready, Set, Read](https://www.sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos&pid=713) – demo information, series classifications, technical requirements, bundled demos
-[^ref-4]: [MobyGames – Screenshots](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/screenshots/) – playhouse setting, mini-games, visual elements, animated rewards
-[^ref-5]: [MobyGames – Credits](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/credits/) – full development credits, dedication, alternative titles
-[^ref-6]: [Reddit – Tip of My Joystick](https://www.reddit.com/r/tipofmyjoystick/comments/reimh9/pclate_90s_kids_game_w_monkey_and_other_animals/) – user memories, visual descriptions, obscurity status
-[^ref-7]: [MobyGames – Promo](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/promo/) – alternate title "Beginning Reading", Sierra Sneak Peeks inclusion
-[^ref-8]: [GameFAQs – Ready, Set, Read](https://gamefaqs.gamespot.com/pc/348854-ready-set-read-with-bananas-and-jack) – user rating, platform information
-[^ref-9]: [Metacritic – Ready, Set, Read](https://www.metacritic.com/game/ready-set-read-with-bananas-and-jack/) – developer/publisher confirmation
-[^ref-10]: [GOG Dreamlist](https://www.gog.com/dreamlist) – user wishlist entry, release year
-[^ref-11]: [GOG Dreamlist](https://www.gog.com/dreamlist) – Sierra Discovery Series reference
-[^ref-12]: [Sierra Help Wiki – Bright Star Technology](https://wiki.sierrahelp.com/index.php/Bright_Star_Technology) – company history, Sierra acquisition, release information
-[^ref-13]: [Sierra Help Wiki – Ready, Set, Read](https://wiki.sierrahelp.com/index.php/Ready,_Set,_Read_with_Bananas_%26_Jack) – platform, designer information
-[^ref-14]: [Reddit – Tip of My Tongue (Monkey Game)](https://www.reddit.com/r/tipofmytongue/comments/vwt0a/tomt_game_a_childrens_pc_game_starring_a_monkey/) – character descriptions, gameplay memories
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/bright-star-technology/3010-3859/) – Bright Star company information
-[^ref-16]: [IGDB](https://www.igdb.com/companies/bright-star-technology) – Internet Game Database entry
-[^ref-17]: [Wikidata](https://www.wikidata.org/wiki/Q52153991) – Structured metadata
-[^ref-18]: [UVList](https://www.uvlist.net/game-50389-ready-set-read-with-bananas-jack) – Universal Videogame List
-[^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Bright_Star_Technology) – Wiki information
-[^ref-20]: [Internet Archive](https://archive.org/details/sierra-sneak-peeks-2) – Demo preservation
+## 

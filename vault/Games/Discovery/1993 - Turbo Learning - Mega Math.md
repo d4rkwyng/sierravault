@@ -199,34 +199,7 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
 ## See Also
-
-Turbo Learning: Mega Math was the second and final entry in the Turbo Learning series, following Quarky & Quaysoo's Turbo Science released in 1992[^ref-13]. Both games featured the alien characters Quarky and Quaysoo, creating continuity between the science and mathematics-focused educational titles[^ref-4]. The games were published under Sierra's Discovery Series brand, which aimed to provide educational entertainment for children.
-
-The series was notable for its short lifespan—planned future titles including "Turbo Earth Science" were announced within Turbo Science but never materialized[^ref-15]. The cancellation of the series after Mega Math suggests that sales did not meet Sierra's expectations for the educational software market.
-
-- **Previous:** [[1992 - Quarky & Quaysoo's Turbo Science]]
 - [[1993 - Spelling Jungle|← Previous: Spelling Jungle]]
 - [[1994 - Spelling Blizzard|→ Next: Spelling Blizzard]]
 
-## References
-
-[^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year
-[^ref-2]: [Dynamix Fandom Wiki – Turbo Learning: Mega Math](https://dynamix.fandom.com/wiki/Turbo_Learning:_Mega_Math) – credits, voice cast, patch information, release date
-[^ref-3]: [Sierra Chest – Mega Math](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – release date, version history, Sierra Discovery Series
-[^ref-4]: [Old-Games.com – Mega Math](https://www.old-games.com/download/3317/mega-math) – gameplay description, character information, critical assessment
-[^ref-5]: [Sierra Chest – Mega Math Walkthrough](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=walkthrough) – educational philosophy, game design
-[^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central
-[^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis review, technical achievements, speech on floppy
-[^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
-[^ref-9]: [MobyGames Forums – Mega Math](https://www.mobygames.com/game/dos/turbo-learning-mega-math/forums/dga,2/dgb,8/dgm,210915/) – DOSBox configuration, mouse issues
-[^ref-10]: [Kagi FastGPT – Review Scores](kagi:fastgpt:What_were_the_review_scores_for_Turbo_Learning_Mega_Math_video_game?) – MobyGames rating, user reviews
-[^ref-11]: [MyAbandonware – Turbo Learning: Mega Math](https://www.myabandonware.com/game/turbo-learning-mega-math-1gq) – user ratings, regional release information
-[^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating, historical context
-[^ref-13]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – predecessor game, series information
-[^ref-14]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798-mega-math) – resolution, platform details
-[^ref-15]: [Sierra Chest – Mega Math Easter Eggs](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=eggs) – Turbo Science blimp announcement
-[^ref-16]: [Internet Archive – Mega Math](https://archive.org/details/msdos_Mega_Math_1992) – preservation, MobyGames description
-[^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
-[^ref-18]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
-[^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist) – community interest in preservation
-[^ref-20]: [Kagi FastGPT – Release Information](kagi:fastgpt:What_year_was_Turbo_Learning_Mega_Math_video_game_released_and_who_developed_it?) – basic factual confirmation
+## 

@@ -261,43 +261,6 @@ The game's three remakes over a decade—more than almost any other Sierra title
 - [Sierra Gamers – Manual PDF](https://www.sierragamers.com/wp-content/uploads/2019/12/Mixed_Up_Mother_Goose_Manual.pdf)[^ref-28]
 
 ## See Also
-
-Mixed-Up Mother Goose stands as a standalone educational title within Sierra's catalog, though it spawned multiple enhanced versions over the years rather than traditional sequels. The game represents [[Roberta Williams]]' contribution to children's gaming and sits alongside her more famous adventure game series including King's Quest (1984-1998), Laura Bow (1989-1992), and Phantasmagoria (1995-1996).[^ref-18]
-
-The various versions of Mixed-Up Mother Goose—1987, 1990, 1991/1992, and 1995/1996—are better understood as progressive remakes rather than sequels, each building upon the original concept while taking advantage of improved technology.[^ref-5] The game's influence can be seen in Sierra's later educational titles in the Discovery Series, which combined adventure game mechanics with age-appropriate educational content.[^ref-25]
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
 
-## References
-
-[^ref-1]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – release date, platforms, awards, sales figures, key personnel
-[^ref-2]: [MobyGames – Mixed-Up Mother Goose (VGA)](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – credits, voice cast, technical specifications, trivia about first CD-ROM title
-[^ref-3]: [MobyGames – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) – platform releases, user ratings, gameplay description
-[^ref-4]: [GameFAQs – Mixed-Up Mother Goose Deluxe](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – product description, features, user ratings
-[^ref-5]: [Alchetron – Mixed-Up Mother Goose](https://alchetron.com/Mixed-Up-Mother-Goose) – version history, awards, Space Quest V reference, Compute! review quote
-[^ref-6]: [Play Classic Games – Mixed-Up Mother Goose](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) – gameplay mechanics, randomization
-[^ref-7]: [Sierra Gamers – Mixed-Up Mother Goose](https://www.sierragamers.com/mixed-up-mother-goose/) – game description, nursery rhyme premise
-[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/screenshots/) – visual documentation, interface details
-[^ref-9]: [MobyGames – Mixed-Up Mother Goose (1991)](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) – gameplay description, rhyme completion mechanics
-[^ref-10]: [TV Tropes – Mixed-Up Mother Goose](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MixedUpMotherGoose) – version differences, design philosophy, bugs
-[^ref-11]: [MyAbandonware – Roberta Williams' Mixed-Up Mother Goose (VGA)](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) – user ratings, age appropriateness quote
-[^ref-12]: [GameFAQs – Walkthrough by ASchultz](https://gamefaqs.gamespot.com/pc/562688-roberta-williams-mixed-up-mother-goose/faqs/11350) – gameplay tips, item placement observations
-[^ref-13]: [MyAbandonware – Roberta Williams' Mixed-Up Mother Goose (1987)](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-273) – user ratings, nostalgic comments
-[^ref-14]: [MyAbandonware – Mixed-Up Mother Goose Deluxe](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7) – technical issues, compatibility information
-[^ref-15]: [GOG.com – Dreamlist Discussion](https://www.gog.com/dreamlist) – user memories, "hidden gem" quote
-[^ref-16]: [GOG.com – The Spirit and the Mouse](https://www.gog.com/en/game/the_spirit_and_the_mouse) – user comparison to Mixed-Up Mother Goose
-[^ref-17]: [IMDB – Mixed-Up Mother Goose](https://www.imdb.com/find/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose&s=tt) – user rating
-[^ref-18]: [HistoryLink.org – Sierra On-Line History](https://www.historylink.org/File/20919) – Roberta Williams career context
-[^ref-19]: [Museum of Play Archives – Sierra On-Line Collection](https://archives.museumofplay.org/repositories/3/resources/18) – company history, game development context
-[^ref-20]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – quote about Sierra's development philosophy
-[^ref-21]: [ScummVM Wiki – AGI Specifications](https://wiki.scummvm.org/index.php?mobileaction=toggle_view_desktop&title=AGI%2FSpecifications%2FOverview) – AGI engine details, debug mode information
-[^ref-22]: [MobyGames – L. Allen McPheeters Profile](https://www.mobygames.com/person/75/l-allen-mcpheeters/) – development timeline, Apple IIe port details
-[^ref-23]: [Internet Archive – Mixed-Up Mother Goose SCI v1.011](https://archive.org/details/mixed-up-mother-goose-sci-v-1.011-1990-sierra-on-line-inc.-adventure-educational) – technical specifications, version information
-[^ref-24]: [RomsFun – Mixed-Up Mother Goose](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) – file size information
-[^ref-25]: [Adventure Gamer Blog – Pepper's Adventures in Time](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Sierra Discovery Series context
-[^ref-26]: [Internet Archive – Lost Mind of Dr. Brain CD Sampler](https://archive.org/details/lost-mind-of-dr.-brain-cd-sampler) – demo inclusion
-[^ref-27]: [Internet Archive – CD-ROM Version](https://archive.org/details/cdrom_Mixed_Up_Mother_Goose) – preservation download
-[^ref-28]: [Sierra Gamers – Manual PDF](https://www.sierragamers.com/wp-content/uploads/2019/12/Mixed_Up_Mother_Goose_Manual.pdf) – game manual
-[^ref-29]: [Metacritic – Mixed-Up Mother Goose](https://www.metacritic.com/game/roberta-williams-mixed-up-mother-goose/) – game overview
-[^ref-30]: [Sierra Fandom Wiki – Mixed-Up Mother Goose](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – version history, cancelled Atari ST version
-[^ref-31]: [Sierra Gamers – Roberta Williams](https://www.sierragamers.com/roberta-williams/) – designer biography, game list
-[^ref-32]: [US Modern Culture Wiki – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – company timeline
+## 

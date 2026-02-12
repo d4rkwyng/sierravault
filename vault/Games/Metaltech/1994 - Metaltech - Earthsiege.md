@@ -164,35 +164,7 @@ The game has been preserved and made playable on modern systems through the effo
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) - Custom installer with DOSBox
 
 ## See Also
-
-- **Previous:** [[1994 - Metaltech - Battledrome]]
-- **Next:** [[1996 - Earthsiege 2]]
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
 
-## References
-
-[^ref-1]: [MobyGames - Metaltech: Earthsiege](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Developer and publisher information, critical reception
-[^ref-2]: [Remember PC DOS Games](http://rememberpcdosgames.blogspot.com/2018/03/metaltech-earthsiege-1994.html) – Game setting and narrative background
-[^ref-3]: [BoardGameGeek](https://boardgamegeek.com/videogame/82657/metaltech-earthsiege) – Game information and designer credits
-[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Metaltech:_Earthsiege) – Contemporary review quotes
-[^ref-5]: [Sierra Wiki - Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Series context and development history
-[^ref-6]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Technical assessment, AI praise, gameplay details, preservation information
-[^ref-7]: [Digital Antiquarian](https://www.filfre.net/?s=Metaltech%3A+EarthSiege) – Context about Dynamix and Sierra
-[^ref-8]: [Archive.org](https://archive.org/details/earth-siege.-1996.-sierra.-cd.-7z) – Game narrative details
-[^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564963-metaltech-earthsiege) – Official game description
-[^ref-10]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564963-metaltech-earthsiege/faqs) – Plot summary
-[^ref-11]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Metaltech:_Earthsiege) – Game setting details
-[^ref-12]: [SierraChest](https://sierrachest.com/index.php?a=games&id=217&title=earthsiege-1&fld=walkthrough) – Cybrid behavior description
-[^ref-13]: [SierraHelp Technical](https://wiki.sierrahelp.com/index.php/Metaltech:_EarthSiege_Technical) – Graphics specifications
-[^ref-14]: [SierraHelp](https://sierrahelp.com/Games/Metaltech/Earthsiege1Help.html) – System requirements and input devices
-[^ref-15]: [MyAbandonware](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) – Campaign features and rating
-[^ref-16]: [HandWiki](https://handwiki.org/wiki/Software:Metaltech:_Earthsiege) – Mech customization details
-[^ref-17]: [Dynamix Wiki](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege_-_Expansion_Pack) – PC Games review score
-[^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/metaltech-earthsiege-expansion-pack-2wb) – User rating
-[^ref-19]: [MobyGames](https://www.mobygames.com/game/6382/metaltech-earthsiege-speech-pack/) – Alternative rating
-[^ref-20]: [IMDb](https://www.imdb.com/title/tt0419962/) – Voice cast information
-[^ref-21]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/metaltech-earthsiege) – Composer credits
-[^ref-22]: [MobyGames Expansion](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Expansion pack details
-[^ref-23]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=76885) – User hardware upgrade experience
-[^ref-24]: [Collection Chamber Blog - EarthSiege II](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – Sequel reception
+## 

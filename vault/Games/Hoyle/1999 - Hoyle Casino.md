@@ -207,46 +207,7 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 - **ASIN:** B00001KRTG[^ref-2]
 
 ## See Also
-
-Hoyle Casino 1999 is the fourth installment in Sierra's casino simulation series, which began in 1996 as a spin-off of the broader Hoyle's Official Book of Games franchise[^ref-10]. The series established an annual release pattern that continued well beyond Sierra's tenure, with Encore, Inc. eventually taking over publishing duties and releasing editions through 2016[^ref-10].
-
-The game shares the Hoyle brand with Sierra's card game series (Hoyle Card Games) and other tabletop game simulations, though the casino-focused titles maintained a distinct identity with their emphasis on gambling simulation and virtual Las Vegas environments[^ref-1]. The franchise's longevity demonstrates the enduring appeal of casino gaming simulations for PC users who prefer risk-free gambling entertainment.
-
-- **Previous:** [[1996 - Hoyle Casino]]
-- **Next:** [[2000 - Hoyle Casino]]
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
-## References
-
-[^ref-1]: [Sierra Chest – Hoyle Casino 4 Demos](https://sierrachest.com/index.php?a=games&id=799&title=hoyle-casino-4&fld=demos) – release date, demo distribution, publisher information
-
-[^ref-2]: [PriceCharting – Hoyle Casino 1999](https://www.pricecharting.com/game/pc-games/hoyle-casino-1999) – technical specifications, ESRB rating, pricing data, UPC/ASIN
-
-[^ref-3]: [Classic Mac Demos – Hoyle Casino 1999](https://classicmacdemos.com/hoyle-casino-1999) – MacAddict review quotes, demo distribution, game features
-
-[^ref-4]: [GameOver – Hoyle Casino '99 Review](https://www.game-over.net/review/october/hoyle99/index.html) – review scores, gameplay critique, multiplayer issues
-
-[^ref-5]: [Macintosh Repository – Hoyle Casino 99](https://www.macintoshrepository.org/9589-hoyle-casino-99) – MacAddict review by Owen W. Linzmayer, system requirements, game features, criticism
-
-[^ref-6]: [My Abandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) – developer, publisher, user ratings, file size
-
-[^ref-7]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – game features, perspectives, controls, DRM notes, series information
-
-[^ref-8]: [All Video Classic Games – Hoyle Casino 4 1999 Edition](https://www.allvideoclassicgames.com/products/hoyle-casino-4-1999-edition-1clk-windows-10-8-7-vista-xp-install) – game content details, multiplayer issues, video poker machines
-
-[^ref-9]: [GameFAQs – Hoyle Casino 2001](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001) – release date, developer, publisher, user ratings
-
-[^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, default characters, 2007 bug information
-
-[^ref-11]: [Hidden Palace – Hoyle Casino '99 Prototype](https://hiddenpalace.org/Hoyle_Casino_'99_(July_30,_1999_prototype)) – prototype build information, dump details, release dates
-
-[^ref-12]: [Questionable Source – Hoyle Casino Easter Eggs](https://www.transparencia.cremern.org.br/mynewsnow_bm_cremern.php?id=hoyle%20casino%201999) – Break The Bank exploit (source reliability uncertain)
-
-[^ref-13]: [GameFAQs – Hoyle Casino 2008](https://gamefaqs.gamespot.com/pc/943485-hoyle-casino-2008) – later series release information, feature count
-
-[^ref-14]: [GameFAQs – Hoyle Casino 3D](https://gamefaqs.gamespot.com/pc/924222-hoyle-casino-3d) – release date, publisher
-
-[^ref-15]: [Internet Archive – Hoyle Casino Sierra On-Line](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) – game preservation
-
-[^ref-16]: [Internet Archive – Prototype Archive](https://archive.org/details/9905182137) – prototype preservation
+## 

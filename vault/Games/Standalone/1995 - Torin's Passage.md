@@ -104,44 +104,7 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 - [Internet Archive](https://archive.org/details/msdos_Torins_Passage_1995)
 
 ## See Also
-
-- **Previous:** None
-- **Next:** None (planned sequels were never produced)
 - [[1995 - The Ruins of Cawdor|← Previous: The Ruins of Cawdor]]
 - [[1996 - Lighthouse - The Dark Being|→ Next: Lighthouse - The Dark Being]]
 
-## References
-
-[^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information
-[^ref-2]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin%27s_Passage) – - Family-friendly design philosophy
-[^ref-3]: [Al Lowe's Website - About Torin](https://allowe.com/games/torin/about-torin.html) – - Mrs. Doubtfire inspiration quote
-[^ref-4]: [GamesNostalgia - Torin's Passage](https://gamesnostalgia.com/game/torins-passage) – - Plot summary with Lycentia and Boogle
-[^ref-5]: [Al Lowe's Website - Music Downloads](https://allowe.com/games/torin/music-downloads.html) – - Michel LeGrand composer credit
-[^ref-6]: [Fake Geek Boy - The Last Adventures of Sierra](https://fakegeekboy.wordpress.com/2020/08/05/gogathon-the-last-adventures-of-sierra/) – - Sierra's transition away from adventure games
-[^ref-7]: [Grokipedia - Torin's Passage](https://grokipedia.com/page/Torin%27s_Passage) – - Developer information
-[^ref-8]: [MobyGames - Credits](http://www.mobygames.com/game/dos/torins-passage/credits) – - Designer credits
-[^ref-9]: [TVTropes - Torin's Passage](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TorinsPassage) – - Publisher information
-[^ref-10]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Torin%27s_Passage) – - Platform information
-[^ref-11]: [Game Boomers Review](http://www.gameboomers.com/reviews/Tt/Torinsbysyd.htm) – - Plot summary with royalty reveal
-[^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Torins-Passage/) – - Boogle character description
-[^ref-13]: [Al Lowe's Website - Worlds of Strata](https://allowe.com/games/torin/the-worlds-of-strata.html) – - Phenocryst and world structure
-[^ref-14]: [UHS Hints](https://www.uhs-hints.com/uhsweb/torin.php) – - List of game worlds
-[^ref-15]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/torins-passage/) – - Lycentia character analysis
-[^ref-16]: [Adventure Gamers Review](https://adventuregamers.com/article/torins_passage) – - Interface description
-[^ref-17]: [Amazon Customer Reviews](https://www.amazon.com/Torins-Passage-Sierra-Online/dp/B000VP5BPI) – - Built-in hint system
-[^ref-18]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Torin%27s_Passage_Technical) – - Game structure information
-[^ref-19]: [Old-Games.com Review](https://www.old-games.com/download/8498/torin-s-passage) – - Chapter selection feature
-[^ref-20]: [GameFAQs User Review](https://gamefaqs.gamespot.com/pc/199073-torins-passage/reviews/58953) – - Puzzle design assessment
-[^ref-21]: [GameSpot Review](http://www.gamespot.com/pc/adventure/torinspassage/review.html) – - Difficulty assessment quote
-[^ref-22]: [PC Gamer Archive](https://web.archive.org/web/20000308113833/http://www.pcgamer.com/reviews/1081.html) – - Score and review notes
-[^ref-23]: [PC Magazine Archive](https://web.archive.org/web/20001215045100/http://www.zdnet.com/pcmag/issues/1505/pcm00091.htm) – - Four star rating and quote
-[^ref-24]: [Adventure Gamers Archive](https://web.archive.org/web/20041015004331/http://www.adventuregamers.com/article/id,221) – - Modern review score and quote
-[^ref-25]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2023/06/07/torins-passage/) – - 2023 review score and quote
-[^ref-26]: [GOG.com Product Page](https://www.gog.com/en/game/torins_passage) – - User review aggregates
-[^ref-27]: [Adventure Classic Gaming Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – - Mark Seibert producer credit
-[^ref-28]: [Al Lowe's Website - Graphics](http://www.allowe.com/Torin/graphics.htm) – - Bruce Sharp praise and team credits
-[^ref-29]: [Sierra Help](https://sierrahelp.com/Games/TorinsPassageHelp.html) – - System requirements
-[^ref-30]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=33749) – - Technical video format details
-[^ref-31]: [Al Lowe's Website - Torin Extras](https://allowe.com/games/torin/torin-extras.html) – - Easter eggs and special modes
-[^ref-32]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/torin-passage-used-to-be-has-a-sequel-plan/) – - Planned series information
-[^ref-33]: [VICE - Inside Story Sierra On-Line](https://www.vice.com/en/article/inside-story-sierra-online-death-cuc-cendant-fraud/) – - CUC acquisition context
+## 

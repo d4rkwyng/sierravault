@@ -207,37 +207,8 @@ The game also represents an important artifact of early 2000s fan game developme
 - [Jess Morrissette's Space Quest 0 Page](https://www.wiw.org/~jess/replicated.html) - Includes v1.04 download[^ref-15]
 
 ## See Also
-
-Space Quest 0: Replicated positions itself as a prequel to the entire official Space Quest series, with its storyline occurring before the events of Space Quest: The Sarien Encounter (1986).[^ref-21] The fan community has placed the game's events at roughly "year 0" in their timeline—described as potentially corresponding to "1 A.D." in the series' fictional chronology, occurring "long before the other games in the series."[^ref-4]
-
-The game deliberately references multiple official Space Quest titles to establish continuity. Its setting on Labion Orbital Station 10 and the planet Labion connects directly to Space Quest II: Vohaul's Revenge (1987), where Labion serves as a major location.[^ref-4] The developers also incorporated "nods to stuff in SQ2AGI and SQ3, and possibly SQ4 as well," demonstrating awareness of the broader series mythology.[^ref-4] The game was inspired specifically as a prequel to "SQ1AGI," the original 1986 version of Space Quest rather than the 1991 VGA remake.[^ref-4]
-
-As a fan production, Space Quest 0: Replicated exists outside the official Sierra canon, but its thoughtful integration of series elements has earned it recognition as a worthy addition to Roger Wilco's adventures. The game represents one of three major fan games released after the cancellation of Space Quest VII, alongside The Lost Chapter, as the community worked to continue the series' legacy.[^ref-18]
-
 - **Next (Official Series):** [[1986 - Space Quest - The Sarien Encounter]]
 - [[2002 - King's Quest II+ - Romancing the Stones|← Previous: King's Quest II+ - Romancing the Stones]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)|→ Next: King's Quest III Remake (Infamous Adventures)]]
 
-## References
-
-[^ref-1]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – developer, engine, ratings, platform, gameplay description
-[^ref-2]: [Internet Archive – AGI Space Quest Zero Replicated](https://archive.org/details/agi_space-quest-zero-replicated) – release year, developer, plot summary, technical status
-[^ref-3]: [Internet Archive – Space Quest 0 Replicated](https://archive.org/details/SpaceQuest0Replicated) – developer, graphics description, setting details, contemporary praise
-[^ref-4]: [Space Quest Omnipedia – Fan Timeline](https://spacequest.fandom.com/wiki/Fan_timeline) – release dates, timeline placement, series references, Roger's hair color
-[^ref-5]: [Hardcore Gaming 101 – Space Quest VI](http://www.hardcoregaming101.net/space-quest-vi/) – fan game comparison, professionalism assessment
-[^ref-6]: [Home of the Underdogs](https://homeoftheunderdogs.net/game.php?id=4484) – community rating, reviewer quotes, freeware status
-[^ref-7]: [Sierra Classic Gaming – Game Page](https://sierraclassicgaming.com/game/space-quest-0-replicated/) – platform support, system requirements, developer credit
-[^ref-8]: [Jeffry Houser – Space Quest 0 Review](https://www.jeffryhouser.com/index.cfm/2005/10/17/Space-Quest-0-Replicated) – AGI engine details, visual assessment, humor critique, Labion setting
-[^ref-9]: [Jess Morrissette – SQ0 Walkthrough](https://wiw.org/~jess/sq0walk.html) – location list, Easter eggs, gameplay bug workaround
-[^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy "fun death" quote, series history
-[^ref-11]: [SierraHelp.com – SQ0 Help](https://sierrahelp.com/Games/SpaceQuest/SQ0Help.html) – technical specifications, PC Speaker explanation, compatibility issues
-[^ref-12]: [GameCola – Space Quest 0 Article](https://gamecola.net/2013/02/space-quest-0-replicated/) – humor quote, Cave Bees reference
-[^ref-13]: [Space Quest Omnipedia – SQ0 Review](https://spacequest.fandom.com/wiki/Space_Quest_0_Review) – puzzle rating, overall score, development time, distribution sites, AGI details
-[^ref-14]: [Old-Games.com](https://www.old-games.com/download/1595/space-quest-0-replicated) – download size, item combining mechanic, setting description
-[^ref-15]: [Jess Morrissette – SQ0 Fan Page](https://www.wiw.org/~jess/replicated.html) – Netjak review quote, version 1.04, settings
-[^ref-16]: [OldGames.sk](https://www.oldgames.sk/en/game/space-quest-0-replicated/download/1869/) – rating, visit count, graphics description
-[^ref-17]: [IFDB – Space Quest 0](https://ifdb.org/viewgame?id=uw8ihwv01ipv9sxn) – developer name variant, rating count, release year variant
-[^ref-18]: [Citizendium – Space Quest](https://citizendium.org/wiki/Space_Quest) – fan game context, AGI engine confirmation
-[^ref-19]: [Sierra Classic Gaming – Version History](https://sierraclassicgaming.com/launcher/version-history/) – title rename date
-[^ref-20]: [SCI Programming – Fan Games Database](https://sciprogramming.com/fangames.php?action=review&id=50) – release date, download count
-[^ref-21]: [Walkthrough King – Space Quest 0](https://www.walkthroughking.com/text/spacequest0.aspx) – prequel status, plot summary
+## 

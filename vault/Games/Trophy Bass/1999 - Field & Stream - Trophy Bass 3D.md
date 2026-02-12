@@ -216,35 +216,7 @@ Community preservation efforts maintain access to the game through abandonware a
 - [Sierra Help - Patches](https://sierrahelp.com/) - Official patches for versions 1.0 and 1.2
 
 ## See Also
-
-- **Previous:** [[1996 - Front Page Sports - Trophy Bass 2]] (1996)
-- **Next:** [[2000 - Field & Stream - Trophy Bass 4]] (2000)
 - [[1996 - Front Page Sports - Trophy Bass 2|← Previous: Front Page Sports - Trophy Bass 2]]
 - [[2000 - Field & Stream - Trophy Bass 4|→ Next: Field & Stream - Trophy Bass 4]]
 
-## References
-
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Basic game information, release year, developer, publisher
-[^ref-2]: [GameFAQs](https://gamefaqs.gamespot.com/pc/199122-field-and-stream-trophy-bass-3d) - Official game tagline and user ratings
-[^ref-3]: [VideoGameGeek](https://videogamegeek.com/videogame/161752/field-and-stream-trophy-bass-3d) - Official product description
-[^ref-4]: [IGN Review](https://www.ign.com/games/field-stream-trophy-bass-4) - Gameplay mechanics and environmental factors
-[^ref-6]: [Web Archive - Strategy Plus](https://web.archive.org/web/20030709104649/http://www.cdmag.com/articles/022/116/tbass3d_review.html) - Review quote and analysis
-[^ref-7]: [Old PC Gaming](https://oldpcgaming.net/field-stream-trophy-bass-3d/) - Real-world fishing locations and retrospective
-[^ref-9]: [MobyGames - Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) - Game mode descriptions and professional endorsements
-[^ref-10]: [MobyGames Credits](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/credits/windows/) - Complete voice cast
-[^ref-12]: [Web Archive - GamePro](https://web.archive.org/web/20050409172904/http://gamepro.com/computer/pc/games/reviews/624.shtml) - Review scores and force feedback
-[^ref-14]: [Sierra Chest](https://sierrachest.com/) - LureCam and navigation features
-[^ref-15]: [Amazon Product Page](https://www.amazon.com/) - Video tips feature
-[^ref-17]: [MobyGames Technical](https://www.mobygames.com/game/14064/field-stream-trophy-bass-3d/) - Multiplayer options
-[^ref-18]: [Internet Archive Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) - Enhanced fish AI description
-[^ref-20]: [Web Archive - CD Magazine](https://web.archive.org/web/20030709120412/http://www.cdmag.com/articles/021/024/trophy_bass_3d.html) - Lake and fish species count
-[^ref-21]: [Web Archive - GameCenter](https://web.archive.org/web/20000816093054/http://www.gamecenter.com/Reviews/Item/0,6,0-3211,00.html) - Underwater 3D effects review
-[^ref-22]: [GamePressure](https://www.gamepressure.com/) - Review score
-[^ref-24]: [GameFabrique Review](https://gamefabrique.com/games/field-and-stream-trophy-bass-4/) - Modern assessment quote
-[^ref-25]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) - User rating 4.75/5
-[^ref-26]: [MyAbandonware](https://www.myabandonware.com/game/field-stream-trophy-bass-3d-e8z) - User rating 4.6/5
-[^ref-27]: [eBay Listings](https://www.ebay.com/) - User satisfaction and ESRB rating
-[^ref-31]: [Internet Archive](https://archive.org/details/trophy-bass-4-fishing-full-standalone) - 3dfx Glide support
-[^ref-32]: [Vogons Forum](https://www.vogons.org/) - Installation requirements
-[^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
-[^ref-34]: [Giant Bomb](https://www.giantbomb.com/field-stream-trophy-bass-3d/3030-26498/) - Game database entry
+## 

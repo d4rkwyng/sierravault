@@ -222,31 +222,7 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
 ## See Also
-
-Sierra Championship Boxing was a standalone sports title and not part of any ongoing series. It was one of several third-party games published by Sierra On-Line during the company's expansion in the mid-1980s. The game has no direct sequels, though the boxing simulation genre it helped pioneer continued to evolve through titles from other developers.
-
-The game followed in the footsteps of other sports simulations like Olympic Decathalon and Micro-League Baseball, representing the growing interest in detailed sports modeling on home computers.[^ref-5]
 - [[1983 - Troll's Tale|← Previous: Troll's Tale]]
 - [[1985 - Stunt Flyer|→ Next: Stunt Flyer]]
 
-## References
-
-[^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – release dates, platforms, developer, publisher, ratings
-[^ref-2]: [Wikipedia – Sierra Championship Boxing](https://en.wikipedia.org/wiki/Sierra_Championship_Boxing) – InfoWorld quotes, PC Magazine review, development history, release dates
-[^ref-3]: [Classic Games – Sierra Championship Boxing](https://www.classicgames.me/sierra-championship-boxing.html) – gameplay description, strategic approach
-[^ref-4]: [ClassicReload – Sierra Championship Boxing](https://classicreload.com/sierra-championship-boxing.html) – Microsoft publishing history, genre description
-[^ref-5]: [Macintosh Repository – Sierra Championship Boxing](https://www.macintoshrepository.org/3494-sierra-championship-boxing) – Washington Apple Pi Journal review, technical specifications
-[^ref-6]: [Retro365 Blog – Sierra Championship Boxing](https://retro365.blog/2022/11/23/q-bits-from-my-personal-collection-sierra-championship-boxing-the-most-extensive-sports-game-created-for-microcomputers/) – development history, platforms, team credits
-[^ref-7]: [MobyGames – Sierra Championship Boxing](https://www.mobygames.com/game/4172/sierra-championship-boxing/) – platforms, designers, ratings, gameplay modes, kangaroo character
-[^ref-8]: [LaunchBox Games Database – Sierra Championship Boxing](https://gamesdb.launchbox-app.com/games/details/97786-sierra-championship-boxing) – gameplay modes, character creation, genres
-[^ref-9]: [Sierra Chest – Championship Boxing](https://sierrachest.com/index.php?a=games&id=362&title=championship-boxing&fld=box) – engine, media format
-[^ref-10]: [MyAbandonware – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx) – user memories, ratings, publishers, designers
-[^ref-11]: [XTC Abandonware – Sierra Championship Boxing](https://www.xtcabandonware.com/game/1265/sierra-championship-boxing) – controls, file size, boxer count
-[^ref-12]: [Data Driven Gamer – Sierra Championship Boxing](https://datadrivengamer.blogspot.com/2023/04/game-368-sierra-championship-boxing.html) – modern retrospective, Heathkit version, technical notes
-[^ref-13]: [Vizzed.com – Sierra Championship Boxing](https://www.vizzed.com/play/sierra-championship-boxing-appleii-online-apple-ii-6280-playable) – ratings, technical specifications
-[^ref-14]: [IMDB – Sierra Championship Boxing](https://www.imdb.com/title/tt8337410/) – user rating
-[^ref-15]: [MyAbandonware Play Page – Sierra Championship Boxing](https://www.myabandonware.com/game/sierra-championship-boxing-cx/play-cx) – user comments, compatibility issues
-[^ref-16]: [GameFAQs – Sierra Championship Boxing](https://gamefaqs.gamespot.com/pc/223940-sierra-championship-boxing) – alternate title, platforms
-[^ref-17]: [MobyGames – Sierra Games Collection](https://www.mobygames.com/game/75569/sierra-games-collection/) – compilation inclusion
-[^ref-18]: [PixelatedArcade – Sierra Championship Boxing](https://pixelatedarcade.com/games/sierra-championship-boxing) – gameplay features, copy protection
-[^ref-19]: [Wikidata – Sierra Championship Boxing](https://www.wikidata.org/wiki/Q4049460) – database identifiers, basic metadata
+## 

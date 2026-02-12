@@ -256,29 +256,7 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 - Manual included with retail package
 
 ## See Also
-
-Hoyle Casino 2002 was part of Sierra's annual Hoyle Casino franchise, which released updated versions yearly throughout the late 1990s and early 2000s[^ref-5]. The series began as a spin-off from Hoyle's Official Book of Games and established Sierra as a major publisher of casino simulation software[^ref-5].
-
-The 2002 edition introduced online multiplayer and Palm OS compatibility, building upon the foundation established by Hoyle Casino 2000 and 2001[^ref-4]. Following Sierra's stewardship, the franchise would eventually transition to Encore, Inc. after 2005[^ref-5].
-
-- **Previous:** [[2001 - Hoyle Casino]]
-- **Next:** [[2003 - Hoyle Casino]]
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, publisher information
-[^ref-3]: [Macworld – Hoyle 2002](https://www.macworld.com/article/163096/hoyle.html) – game features, pricing, platform information
-[^ref-4]: [MobyGames – Hoyle Casino (2002)](https://www.mobygames.com/game/245729/hoyle-casino/) – release dates, developer information, online multiplayer feature
-[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, publisher transitions
-[^ref-6]: [GameGenie.com – Hoyle Casino Review](https://gamegenie.com/reviews/pc/hoylecasino.html) – system requirements, feature details, review quotes
-[^ref-7]: [Amazon.ca – Hoyle Casino 2002](https://www.amazon.ca/Hoyle-Casino-2002-PC-Mac/dp/B00005MJ9H) – customer reviews, ratings, product issues
-[^ref-8]: [Metacritic – Hoyle Casino 2002](https://www.metacritic.com/game/hoyle-casino-2002/) – release date, publisher
-[^ref-9]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, game features
-[^ref-10]: [IMDB – Hoyle Casino 2002](https://www.imdb.com/title/tt1017443/) – voice cast credits
-[^ref-11]: [GameFAQs – Hoyle Casino Review (FlameDrake)](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/651) – gameplay assessment, dialogue criticism, Sultan easter egg
-[^ref-12]: [GameFAQs – Hoyle Casino Review (Swiftshark)](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/76896) – rating, Sultan machine description, educational value
-[^ref-13]: [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – user ratings, technical information, debug modes, user comments
-[^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
-[^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
+## 

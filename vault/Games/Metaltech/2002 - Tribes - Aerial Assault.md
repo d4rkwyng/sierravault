@@ -191,24 +191,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 - [MobyGames Entry](https://www.mobygames.com/game/13459/tribes-aerial-assault/)[^ref-4]
 
 ## See Also
-
-Tribes: Aerial Assault represents the third installment in the Tribes franchise, following the original Starsiege: Tribes (1998) and Tribes 2 (2001).[^ref-6][^ref-9] The game serves as a console adaptation of Tribes 2, bringing the franchise's signature jetpack combat and large-scale multiplayer battles to PlayStation 2 owners.[^ref-4][^ref-12] Set within the broader Earthsiege/Starsiege universe, the game continues the series' tradition of futuristic tribal warfare in the 40th century Wilderzone.[^ref-2][^ref-8]
-
-- **Previous:** [[2001 - Tribes 2]]
 - **Next:** Tribes: Vengeance (2004)
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
 
-## References
-
-[^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status
-[^ref-2]: [GameFAQs – Tribes: Aerial Assault](https://gamefaqs.gamespot.com/ps2/516242-tribes-aerial-assault) – game description, setting details, franchise information, user ratings
-[^ref-3]: [GameSpot – Tribes: Aerial Assault](https://www.gamespot.com/games/tribes-aerial-assault/) – review score, developer information, server technology details
-[^ref-4]: [MobyGames – Tribes: Aerial Assault](https://www.mobygames.com/game/13459/tribes-aerial-assault/) – release date, publishers, designers, technical specifications, freeware trivia, critics aggregate score
-[^ref-5]: [Neoseeker – Tribes: Aerial Assault](https://www.neoseeker.com/tribes-aerial/) – release date, user reviews, server specifications, network adapter information
-[^ref-6]: [Tribes Aerial Assault Community Website](https://tribesaerialassault.com/) – designer nicknames, composer credit, community servers, expanded platform support, series history
-[^ref-7]: [Internet Archive – Tribes: Aerial Assault](https://archive.org/details/tribes-aerial-assault) – disc preservation, original media
-[^ref-8]: [Wikidata – Tribes: Aerial Assault](https://www.wikidata.org/wiki/Q652527) – structured data, identifiers
-[^ref-9]: [Wikipedia – Tribes (video game series)](https://en.wikipedia.org/wiki/Tribes_(video_game_series)) – franchise context, series chronology
-[^ref-10]: [IGN – Tribes: Aerial Assault](https://www.ign.com/games/tribes-aerial-assault) – review score, game database
-[^ref-11]: [MetaCritic – Tribes: Aerial Assault](https://www.metacritic.com/game/tribes-aerial-assault/) – aggregate review scores
-[^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+## 

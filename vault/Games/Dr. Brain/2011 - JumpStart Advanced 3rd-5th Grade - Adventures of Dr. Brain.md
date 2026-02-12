@@ -199,33 +199,8 @@ This transition mirrors broader trends in the educational software market of the
 - [MyAbandonware](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) - Related Dr. Brain titles[^ref-13]
 
 ## See Also
-
-*JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain* represents the convergence of two educational gaming lineages. Within the Dr. Brain series, it followed *Dr. Brain Thinking Games: IQ Adventure* (1999)[^ref-2] as one of Knowledge Adventure's entries in the franchise. The game also fits within the broader JumpStart Advanced line, which targeted specific grade levels with age-appropriate educational content.
-
-Dr. Brain's character made the transition from Sierra's more adult-oriented puzzle games to Knowledge Adventure's family-friendly JumpStart brand, undergoing a visual and personality update in the process[^ref-7]. The time travel premise of this game connects to themes explored in Sierra's *The Time Warp of Dr. Brain* (1996)[^ref-2], though with a more action-adventure focus suitable for younger players.
-
-**Dr. Brain Series Chronology:**
-- **Previous:** [[1998 - Dr. Brain Thinking Games - IQ Adventure]]
 - **Related JumpStart Titles:** JumpStart Adventures series
 
-The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
 
-## References
-
-[^ref-1]: [Softonic – JumpStart Advanced 3rd-5th Grade Adventures of Dr. Brain](https://jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.en.softonic.com/mac) – rating, description, system requirements
-[^ref-2]: [Wikipedia – Dr. Brain](https://en.wikipedia.org/wiki/Dr._Brain) – series history, release dates, sales data, development notes
-[^ref-3]: [GOG.com Dreamlist – Adventures of Dr. Brain](https://www.gog.com/dreamlist) – game description, platform information
-[^ref-4]: [JumpStart Fandom Wiki – Dr. Brain](https://jstart.fandom.com/wiki/Dr._Brain) – character information, trivia
-[^ref-5]: [Amazon India – JumpStart 3-5 Adventures Doctor Brain](https://www.amazon.in/Jumpstart-3-5-Adventures-Doctor-Brain/dp/B003MU9COU) – product description, customer rating
-[^ref-6]: [ESRB – Rating Information](https://www.esrb.org/ratings/29080/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain/) – content rating, gameplay description
-[^ref-7]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – series analysis, trivia, development notes
-[^ref-8]: [IGN – Adventures of Dr. Brain](https://www.ign.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – developer/publisher information
-[^ref-10]: [Kotaku – Game Listing](https://kotaku.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – game description
-[^ref-12]: [GameFAQs – JumpStart Adventures](https://gamefaqs.gamespot.com/boards/950986-jumpstart-adventures-4th-grade) – user comments, ratings
-[^ref-13]: [MyAbandonware – Dr. Brain Thinking Games](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) – user rating, comments
-[^ref-14]: [Sierra Fandom Wiki – Dr. Brain Series](https://sierra.fandom.com/wiki/Dr._Brain_(series)) – development history, designer information[^ref-13]: [Giant Bomb - Dr. Brain](https://www.giantbomb.com/) - wiki
-[^ref-14]: [IGDB - Dr. Brain](https://www.igdb.com/) - IGDB
-[^ref-15]: [MobyGames - JumpStart](https://www.mobygames.com/) - database
-[^ref-16]: [GameFAQs - JumpStart](https://gamefaqs.gamespot.com/) - database
-[^ref-17]: [UVList - Dr. Brain](https://www.uvlist.net/) - Universal List
+## 

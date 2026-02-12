@@ -220,38 +220,7 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
 ## See Also
-
-Quarky & Quaysoo's Turbo Science was developed as part of Sierra's Discovery Series, a lineup of educational games published between 1991 and 1993.[^ref-17] The game was also connected to a "Turbo Learning" series that included Turbo Learning: Mega Math, suggesting a planned franchise of educational titles using the "Turbo" branding.[^ref-16]
-
-Other titles in the Sierra Discovery Series during this period included educational adventures developed by various Sierra subsidiaries, including Bright Star Entertainment.[^ref-17] The Discovery Series represented Sierra's attempt to expand beyond their core adventure game audience to capture the educational software market that was growing rapidly as more families acquired home computers.
-
-Jeff Tunnell Productions developed the game during the studio's operation between 1992 and 2000, a period that also saw the creation of other educational and puzzle titles before Tunnell's later success with The Incredible Machine.[^ref-16]
 - [[1991 - The Adventures of Willy Beamish|← Previous: The Adventures of Willy Beamish]]
 - [[1994 - Bouncers|→ Next: Bouncers]]
 
-## References
-
-[^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating
-[^ref-2]: [Wikipedia – Quarky & Quaysoo's Turbo Science](https://en.wikipedia.org/wiki/Quarky_%26_Quaysoo%27s_Turbo_Science) – Oppenheim review, science topics, educational content, release date
-[^ref-3]: [Collection Chamber – Quarky & Quaysoo's Turbo Science](https://collectionchamber.blogspot.com/p/quarky-quaysoos-turbo-science.html) – box tagline, target age, question count, Research Guide, educator involvement
-[^ref-4]: [Internet Archive – Quarky & Quaysoo's Turbo Science (1992) Alternative](https://archive.org/details/quarky-and-quaysoos-turbo-science-1992) – character descriptions, science topics, game features, Research Guide
-[^ref-5]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Quarky_and_Quaysoos_Turbo_Science_1992) – character origins, team names, gameplay mechanics, file size
-[^ref-6]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – designer, composers, engine, technical specs, rating, gameplay description
-[^ref-7]: [Old-Games.com – Quarky & Quaysoo's Turbo Science](https://www.old-games.com/download/3346/quarky-and-quaysoo-s-turbo) – reviews, rating, file sizes, developer credits
-[^ref-8]: [GamePressure – Quarky & Quaysoo's Turbo Science](https://www.gamepressure.com/games/quarky-quaysoos-turbo-science/zd181c) – release date, system requirements, user rating, game description
-[^ref-9]: [ClassicReload – Quarky & Quaysoo's Turbo Science](https://classicreload.com/quarky-quaysoos-turbo-science.html) – gameplay mechanics, character details, transportation options
-[^ref-10]: [PlayClassic Games – Quarky & Quaysoo's Turbo Science](https://playclassic.games/games/educational-dos-games-online/play-quarky-quaysoos-turbo-science-online/) – Paco de Suave character, textbook page count, character origins
-[^ref-11]: [PCGamingWiki – Quarky & Quaysoo's Turbo Science](https://www.pcgamingwiki.com/wiki/Quarky_&_Quaysoo's_Turbo_Science) – engine, system requirements, series information
-[^ref-12]: [Speedrun.com – Turbo Science Guide](https://www.speedrun.com/turbo_science/guides/3odi4) – gameplay mechanics, race count, money system, emulation settings
-[^ref-13]: [MyAbandonware – Quarky & Quaysoo's Turbo Science](https://www.myabandonware.com/game/quarky-quaysoo-s-turbo-science-1pw) – user reviews, ratings, file size, release dates
-[^ref-14]: [GameSpot – Quarky & Quaysoo's Turbo Science](https://www.gamespot.com/quarky-and-quaysoos-turbo-science/) – user rating, genre classification
-[^ref-15]: [GOG Dreamlist – Quarky & Quaysoo's Turbo Science](https://www.gog.com/dreamlist) – community interest, wishlist votes
-[^ref-16]: [Sierra Fandom Wiki – Jeff Tunnell Productions](https://sierra.fandom.com/wiki/Jeff_Tunnell_Productions) – development studio history, release date variant
-[^ref-17]: [The Adventure Gamer – Pepper's Adventures in Time](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) – Sierra Discovery Series context, development era
-[^ref-18]: [Old Games Download – Quarky & Quaysoo's Turbo Science](https://oldgamesdownload.com/quarky-quaysoos-turbo-science/) – file size, basic information
-[^ref-19]: [Amazon – Quarky & Quaysoo's Turbo Science Research Guide](https://www.amazon.com/Quarky-Quaysoos-Turbo-Science-Research/dp/B000I1AV7S) – publication details, weight
-[^ref-20]: [Wikiwand – Quarky & Quaysoo's Turbo Science](https://www.wikiwand.com/en/articles/Quarky_&_Quaysoo's_Turbo_Science) – game features, educational content, Oppenheim review
-[^ref-21]: [IMDB – Quarky & Quaysoo's Turbo Science](https://www.imdb.com/find/?q=Quarky+%26+Quaysoo%27s+Turbo+Science&s=tt) – release year confirmation
-[^ref-22]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – development context, Turbo series information
-[^ref-23]: [Metacritic – Quarky & Quaysoo's Turbo Science](https://www.metacritic.com/game/quarky-and-quaysoos-turbo-science/) – genre classification, platform
-[^ref-24]: [Wikidata – Q7269171](https://www.wikidata.org/wiki/Q7269171) – structured data, external identifiers
+## 

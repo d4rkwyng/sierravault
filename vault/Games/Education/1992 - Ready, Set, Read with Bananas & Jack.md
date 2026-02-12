@@ -189,28 +189,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 - No digital manual currently archived in available sources
 
 ## See Also
-
-*Ready, Set, Read with Bananas & Jack* occupies a unique position within Sierra's educational software ecosystem. It serves as a direct sequel to *Alphabet Blocks*, designed for children who have progressed beyond basic letter recognition to early reading skills[^ref-1]. The game shares its animated coach characters—Bananas the monkey and Jack the jack-in-the-box—with its predecessor, providing continuity for young learners familiar with these guides.
-
-Within the Sierra Discovery Series, the title was released alongside *Pepper's Adventures in Time* (1993) and followed by *Turbo Learning: Mega Math* (1993)[^ref-1]. The broader Talking Tutor series provided a comprehensive suite of educational tools covering reading, spelling, typing, and mathematics[^ref-3].
-
-- **Previous:** [[1982 - Alphabet Blocks]]
-- **Next:** Turbo Learning: Mega Math (1993)
 - [[1984 - Wizard of Id's WizType|← Previous: Wizard of Id's WizType]]
 - [[1993 - Kids' Typing|→ Next: Kids' Typing]]
 
-## References
-
-[^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – gameplay description, developer, publisher, platforms, genre, perspective, interface, credits count, series information, educational mechanics
-[^ref-2]: [The Sierra Chest – Ready, Set, Read with Bananas and Jack](https://sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos) – first release date (1992-01-01), developer, publisher, series affiliations, platform, demo information
-[^ref-3]: [The Sierra Chest – Ready, Set, Read Demo Page](https://www.sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos&pid=713) – developer, publisher, series groups, genres, platforms
-[^ref-4]: [GameFAQs – Ready, Set, Read with Bananas & Jack](https://gamefaqs.gamespot.com/pc/348854-ready-set-read-with-bananas-and-jack) – 1993 release date, developer (Bright Star Technology), publisher (Sierra On-Line), genre classification, user rating
-[^ref-6]: [GOG.com Dreamlist – Sierra Discovery Ready Set Read with Bananas & Jack](https://www.gog.com/dreamlist) – 1993 release date, Sierra as developer/publisher, community interest in digital release
-[^ref-7]: [Sierra Help Pages – Sierra Game Demos](https://sierrahelp.com/Misc/Demos.html) – compatibility information for 16-bit Windows software, DOSBox requirements, modern system limitations
-[^ref-8]: [Sierra Wiki – Bright Star Technology](https://wiki.sierrahelp.com/index.php/Bright_Star_Technology) – company history, founding by Elon Gasper, acquisition by Sierra in 1992
-[^ref-9]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – company background and educational software catalog
-[^ref-10]: [Washington Post (1993)](https://www.washingtonpost.com/archive/lifestyle/1993/12/13/computers/) – coverage of Bright Star's educational software and development philosophy
-[^ref-11]: [Funding Universe – Sierra On-Line History](http://www.fundinguniverse.com/company-histories/Sierra-OnLine-Inc-Company-History.html) – Sierra's acquisition of educational software companies
-[^ref-12]: [VOGONS – Bright Star Games](https://www.vogons.org/) – compatibility discussion and preservation efforts
-[^ref-13]: [Sierra Wiki – Sierra Discovery Series](https://wiki.sierrahelp.com/index.php/Sierra_Discovery_Series) – series overview and catalog
-[^ref-14]: [MobyGames – Bright Star Technology](https://www.mobygames.com/company/2194/bright-star-technology-inc/) – company credits and game catalog
+## 

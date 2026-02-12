@@ -198,25 +198,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 - [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data
 
 ## See Also
-
-Hoyle Kids Games 2000 was part of Sierra's extensive Hoyle game series, which began in 1989 with Hoyle's Official Book of Games.[^ref-3] The series was known for bringing quality versions of classic card and board games to home computers. This title specifically targeted younger audiences while maintaining the series' reputation for polished presentation and multiplayer support.[^ref-1]
-
-The game shares character assets with other Hoyle titles, including voice lines recycled from Captain Barnes in Hoyle Classic Games (1995).[^ref-6] A sequel, Hoyle Kids Games 2001, was released the following year, continuing the children's sub-series.[^ref-3]
-
-- **Previous:** [[1999 - Hoyle Casino]]
-- **Next:** [[2001 - Hoyle Kids Games]]
 - [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
 - [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, features, technical specifications, description, ratings
-[^ref-2]: [GameFAQs – Hoyle Kids Games](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) – release date, developer, publisher, user ratings
-[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, context for Hoyle Kids Games titles
-[^ref-4]: [Sierra Chest – Hoyle Kids Games (Publications)](https://sierrachest.com/index.php?a=games&id=581&title=hoyle-kids-games&fld=publications) – Sierra catalog reference, publication data
-[^ref-5]: [Sierra Chest – Hoyle Kids Games](https://sierrachest.com/dodfdf/index.php?a=games&id=581&title=hoyle-kids-games&fld=screenshots) – platform information, engine, release dates, series info
-[^ref-6]: [Steam Community – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character bios, voice actor speculation, trivia
-[^ref-7]: [UVList – Hoyle Kids Games (Windows)](https://www.uvlist.net/game-225807-Hoyle+Kids+Games) – technical specifications, resolution options
-[^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
-[^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
-[^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
+## 

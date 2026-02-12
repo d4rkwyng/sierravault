@@ -264,41 +264,7 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 - [Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) - Official bug fix patch[^ref-17]
 
 ## See Also
-
-Poseidon: Master of Atlantis is part of Impressions Games' broader city-building series, which began with the Caesar games set in ancient Rome before expanding to other historical and mythological settings. The expansion builds directly upon Zeus: Master of Olympus, sharing its engine, core mechanics, and Greek mythological setting while adding the Atlantean civilization as a distinct new playable culture.
-
-The game requires Zeus: Master of Olympus to play[^ref-18], functioning as a true expansion rather than a standalone title. This dependency means that Poseidon players have access to both the original Greek adventures and the new Atlantean content, creating a comprehensive mythological city-building experience.
-
-Within the City Building Series, Zeus and Poseidon followed the Pharaoh and Cleopatra games set in ancient Egypt, and preceded Emperor: Rise of the Middle Kingdom set in China. Each entry maintained the core city-building gameplay while adapting it to different historical or mythological contexts.
-
-- **Previous:** [[2000 - Zeus - Master of Olympus]]
 - **Compilation:** Acropolis expansion
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
 
-## References
-
-[^ref-1]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – developer, publisher, designer, composer, platform, rating, technical information
-[^ref-2]: [Amazon – Zeus Expansion Poseidon](https://www.amazon.com/Zeus-Expansion-Poseidon-PC/dp/B00005B44T) – product description, release date, episode count, Adventure Editor feature
-[^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/154464147118) – developer, publisher, gameplay description, geographical scope, ESRB rating
-[^ref-4]: [GameFabrique – Poseidon: Zeus Official Expansion](https://gamefabrique.com/games/poseidon-zeus-official-expansion/) – mythological background, review score, technical specifications, episode count
-[^ref-5]: [FreeGOGPCGames](https://freegogpcgames.com/419/1-zeus-poseidon/) – gameplay features, episode count, system requirements
-[^ref-6]: [eBay Product Listing](https://www.ebay.com/p/50800073) – publisher confirmation, geographical scope
-[^ref-7]: [GOG – Zeus + Poseidon](https://www.gog.com/en/game/zeus_poseidon) – rating, system requirements, release date, description
-[^ref-8]: [Tripod Walkthrough – Birth of Atlantis](https://kheitmann-1.tripod.com/zeus/walkthru/poracle-walkthrough-print-birthofatlantis.htm) – episode details, resource availability, gameplay challenges, mythological figures
-[^ref-9]: [Wikipedia – Poseidon: Master of Atlantis](https://en.wikipedia.org/wiki/Poseidon:_Master_of_Atlantis) – review scores, awards, trivia, development notes, critic quotes, release dates
-[^ref-10]: [MobyGames – Technical Specifications](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/specs/windows/) – resolution, input devices, ESRB rating, technical requirements
-[^ref-11]: [GameVortex – Poseidon Review](https://www.gamevortex.com/gamevortex/soft_rev.php/409/poseidon-zeus-official-expansion-pc.html) – review score, new features, resources, heroes, buildings
-[^ref-12]: [GameSpot – Zeus: Master of Olympus](https://www.gamespot.com/games/zeus-master-of-olympus/news/) – review quote, publisher information
-[^ref-13]: [MobyGames – Acropolis](https://www.mobygames.com/game/5968/acropolis/) – compilation contents, publishers, rating
-[^ref-14]: [Glitchwave – Poseidon](https://glitchwave.com/game/poseidon-zeus-official-expansion/) – community rating, platform, media format
-[^ref-15]: [GamePressure – Poseidon](https://www.gamepressure.com/games/poseidon-zeus-official-expansion/z3247f) – rating, orichalc resource, episode count, system requirements
-[^ref-16]: [MobyGames – Release Information](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/releases/) – release dates by region, retail price
-[^ref-17]: [GamePressure – Patch 2.1](https://www.gamepressure.com/download/poseidon-zeus-official-expansion-v21-patch/zb4cd) – patch notes, bug fixes, release date
-[^ref-18]: [MyAbandonware – Poseidon](https://www.myabandonware.com/game/poseidon-zeus-official-expansion-dos) – release regions, patch versions, expansion requirement
-[^ref-19]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Poseidon%3A+Zeus+Official+Expansion) – alternate international titles
-[^ref-20]: [GOGDB – Zeus + Poseidon](https://www.gogdb.org/product/1207659039) – GOG release date, download size, version information
-[^ref-21]: [VGTimes](https://www.vgtimes.com/games/poseidon-zeus-official-expansion/?amp=1) – genre classification, alternate titles
-[^ref-22]: [eBay Product Listing](https://www.ebay.com/itm/154867746470) – developer, publisher, ESRB rating
-[^ref-23]: [Go64 – GameVortex Mirror](https://go64.com/gamevortex/soft_rev.php/409) – review details, technical specifications
-[^ref-24]: [PriceCharting](https://www.pricecharting.com/game/pc-games/poseidon-zeus-official-expansion) – publisher, genre, player count
-[^ref-25]: [LoneBullet – Patch Download](https://www.lonebullet.com/patches/download-poseidon-zeus-official-expansion-patch-v21-patch-free-20220.htm) – patch file size, download statistics
+## 

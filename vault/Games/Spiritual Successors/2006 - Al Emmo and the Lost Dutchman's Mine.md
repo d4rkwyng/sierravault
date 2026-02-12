@@ -311,42 +311,6 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 - Free 60-minute trial available through official channels[^ref-7]
 
 ## See Also
-
-Al Emmo and the Lost Dutchman's Mine stands as a standalone adventure, though its setting and characters were designed with potential sequels in mind. The game establishes the fictional town of Anozira and its colorful inhabitants as a distinctive world ripe for further exploration.
-
-Himalaya Studios continued developing adventure games following Al Emmo's release, including work on Mage's Initiation, a Kickstarted adventure game that was in development as of the research timeframe[^ref-19]. The studio's foundation in Sierra-style adventure gaming remained central to their identity, with Al Emmo serving as the commercial debut that allowed them to transition from fan developers to professional game creators.
 - [[2010 - Gray Matter|→ Next: Gray Matter]]
 
-## References
-
-[^ref-1]: [Wikipedia – Al Emmo and the Lost Dutchman's Mine](https://en.wikipedia.org/wiki/Al_Emmo_and_the_Lost_Dutchman%27s_Mine) – release dates, platforms, developer information, engine, version history
-[^ref-2]: [Adventure Game Studio Wiki – Al Emmo Press Release](https://www.adventuregamestudio.co.uk/wiki/Al_Emmo_and_the_Lost_Dutchman's_Mine) – development history, studio background, release announcement
-[^ref-3]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/629/) – comprehensive review, development team size, character parodies, version history, Britney Brimhall quotes
-[^ref-4]: [Just Adventure – Review](https://www.justadventure.com/2016/02/04/al-emmo-and-the-lost-dutchman-s-mine/) – gameplay mechanics, interface description, story structure, nine-act format
-[^ref-5]: [Adventure Gamers – Preview](https://adventuregamers.com/articles/view/17921) – development timeline, composers, cutscene format, screen count
-[^ref-6]: [Steam Store Page](https://store.steampowered.com/app/296850/Al_Emmo_and_the_Lost_Dutchmans_Mine/) – technical specifications, feature list, animation frames, background count
-[^ref-7]: [Himalaya Studios Forum – Enhanced Edition Announcement](http://www.himalayastudios.com/forum/index.php?topic=1002.0) – version 4.0 changelog, new voice actors, bug fixes, Easter eggs
-[^ref-8]: [MobyGames – Al Emmo Full Credits](https://www.mobygames.com/game/25432/al-emmo-and-the-lost-dutchmans-mine/) – complete voice cast, designers, publishers, platforms, ratings
-[^ref-9]: [Adventure Game Studio – Game Database Entry](https://www.adventuregamestudio.co.uk/site/games/game/786-al-emmo-and-the-lost-dutchman-s-mine/) – AGS Panel rating, award nominations, download statistics
-[^ref-10]: [Capsule Computers – Review](https://www.capsulecomputers.com.au/2013/12/al-emmo-and-the-lost-dutchmans-mine-review/) – Enhanced Edition review, story pacing criticism, technical issues
-[^ref-11]: [Amazon Product Page](https://www.amazon.com/Al-Emmo-Lost-Dutchmans-Mine-Pc/dp/B016HIPF1C) – ESRB rating, media format, genre description
-[^ref-12]: [Gamewise – Game Overview](http://gamewise.co/games/53604/Al-Emmo-and-the-Lost-Dutchmans-Mine/Walkthrough) – plot summary, Aztec curse reference
-[^ref-13]: [MobyGames – User Reviews](https://www.mobygames.com/game/25432/al-emmo-and-the-lost-dutchmans-mine/reviews/) – player ratings, voice acting criticism, interface issues
-[^ref-14]: [CheatCC – Achievement List](https://www.cheatcc.com/articles/al-emmo-and-the-lost-dutchman-s-mine-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – Steam achievements, game locations, collectibles
-[^ref-15]: [Hardcore Gamer – Review](https://hardcoregamer.com/reviews/review-al-emmo-and-the-lost-dutchmans-mine/65195/) – writing quality, Larry Laffer comparison, achievement system
-[^ref-16]: [Metzomagic – Review](https://www.metzomagic.com/showArticle.php?index=774) – system requirements, voice cast details, Easter eggs, minigames
-[^ref-17]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20121121014738/http://www.adventuregamers.com/articles/view/17815) – 3.5 star rating, detailed critique, resolution specifications
-[^ref-18]: [Metacritic – Aggregate Scores](https://www.metacritic.com/game/al-emmo-and-the-lost-dutchmans-mine/) – professional review scores, Metascore, publication ratings
-[^ref-19]: [RPGFan – Review](https://www.rpgfan.com/review/al-emmo-and-the-lost-dutchmans-mine/) – detailed scoring breakdown, humor criticism, Mage's Initiation reference
-[^ref-20]: [GameFabrique – Review](https://gamefabrique.com/games/al-emmo-and-the-lost-dutchmans-mine/) – user rating, nostalgic appeal analysis
-[^ref-21]: [IMDB – Al Emmo](https://www.imdb.com/find/?q=Al+Emmo+and+the+Lost+Dutchman%27s+Mine&s=tt) – user rating, vote count
-[^ref-22]: [Game Pressure – Database Entry](https://www.gamepressure.com/games/al-emmo-and-lost-dutchmans-mine/zdfd3) – Steam score, technical specifications
-[^ref-23]: [Software Informer – Product Page](https://al-emmo-and-the-lost-dutchman-s-mine.software.informer.com/) – user ratings, version history, file size
-[^ref-24]: [GameBoomers – Walkthrough](http://www.gameboomers.com/wtcheats/pcAa/AlEmmo.htm) – gameplay guide, media information
-[^ref-25]: [PCGamingWiki – Al Emmo](https://www.pcgamingwiki.com/wiki/Al_Emmo_and_the_Lost_Dutchman's_Mine) – system requirements, availability, localization, save locations
-[^ref-26]: [ModDB – Downloads](https://www.moddb.com/games/al-emmo-and-the-lost-dutchmans-mine/downloads) – demo release date, platform availability
-[^ref-27]: [Steam Community – User Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=300937060) – version 4.1 confirmation, developer interaction
-[^ref-28]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/932543-al-emmo-and-the-lost-dutchmans-mine/faqs/51963) – studio background, commercial release context
-[^ref-29]: [UHS Hints – Al Emmo](https://www.uhs-hints.com/uhsweb/alemmo.php) – hint system availability
-[^ref-30]: [GOG Dreamlist – Community Comments](https://www.gog.com/dreamlist) – fan testimonials, AGDI legacy references
-[^ref-31]: [Internet Archive – Al Emmo USA](https://archive.org/details/al-emmo-and-the-lost-dutchmans-mine-usa) – preservation data, file specifications
+## 

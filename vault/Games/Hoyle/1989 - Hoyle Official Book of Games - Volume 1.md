@@ -236,28 +236,6 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-11]
 
 ## See Also
-
-Hoyle Official Book of Games: Volume 1 launched what would become one of Sierra's longest-running series of casual games[^ref-14]. As the inaugural entry, it established the template of combining multiple card games with personality-driven computer opponents that would define subsequent volumes.
-
-The success of Volume 1 led directly to the development of Volume 2 (1990), which focused on additional card games and expanded the roster of playable Sierra characters. The series would eventually grow to include board games, casino games, and eventually transition to other developers following Sierra's corporate changes in the late 1990s.
-
-- **Next:** [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Hoyle Official Book of Games - Volume 2]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle: Official Book of Games - Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – release dates, platforms, credits, technical specs, trivia, user reviews
-[^ref-2]: [Retro.gg – Hoyle Official Book of Games Volume 1](https://retro.gg/game/hoyle-official-book-of-games-volume-1/240) – retrospective review, scoring, award information
-[^ref-3]: [MyAbandonware – Hoyle Official Book of Games Volume 1](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-1-o9) – user reviews, platform list, DOSBox compatibility, technical specifications
-[^ref-4]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – development history, sales figures, designer credits, contemporary reviews, licensing information
-[^ref-5]: [UVList – Hoyle Official Book of Games Volume 1](https://www.uvlist.net/game-48835-Hoyle+Official+Book+of+Games+Volume+1) – contemporary review scores, technical specifications, games included, sound card support
-[^ref-6]: [Old-Games.ru – Hoyle Official Book of Games Volume 1](https://www.old-games.ru/game/6115.html) – gameplay features, character music, ScummVM compatibility
-[^ref-7]: [PCGamingWiki – Hoyle's Official Book of Games: Volume 1](https://www.pcgamingwiki.com/wiki/Hoyle%27s_Official_Book_of_Games:_Volume_1) – system requirements, engine version, video modes
-[^ref-8]: [LastDodo – Hoyle Official Book of Games Volume 1](https://www.lastdodo.com/en/items/4241357-hoyle-official-book-of-games-volume-1) – Amiga physical edition contents, media specifications
-[^ref-9]: [PriceCharting – Hoyle Official Book of Games Volume One](https://www.pricecharting.com/game/pc-games/hoyle-official-book-of-games-volume-one) – release date, rarity status
-[^ref-10]: [Sierra Gamers – Ken Williams Biography](https://www.sierragamers.com/ken-williams/) – production credits, company philosophy
-[^ref-11]: [GOG.com Dreamlist – Hoyle Official Book of Games Volume 1](https://www.gog.com/dreamlist) – basic game information, community interest
-[^ref-12]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – engine compatibility, series overview
-[^ref-13]: [Internet Archive – Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – preservation copy, DOS version
-[^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
-[^ref-15]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – character crossover details, game connections
+## 

@@ -232,30 +232,7 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 - [Macintosh Repository](https://www.macintoshrepository.org/5852-hoyle-board-games-2001) – Mac version preservation[^ref-7]
 
 ## See Also
-
-Hoyle Board Games 2001 is the fifth entry in Sierra's Hoyle Board Games sub-series, which specialized in digital adaptations of classic tabletop games. The series evolved throughout the late 1990s and early 2000s, with each edition typically adding a few new games while maintaining the core collection of classics. This installment added Master Match and Rummy Squares to the lineup[^ref-3], distinguishing it from the 1998 edition which contained 14 games[^ref-14].
-
-- **Previous:** [[1997 - Hoyle Classic Board Games]]
-- **Next:** [[2005 - Hoyle Board Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|← Previous: Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms
-[^ref-2]: [Software Informer – Hoyle Board Games 2001](https://hoyle-board-games-2001.software.informer.com/) – game features, developer info, description
-[^ref-3]: [Children's Technology Review](http://matthewjdimatteo.com/ctr/review.php?id=5611) – game count, price, new games, educational value
-[^ref-4]: [GameFAQs – Hoyle Board Games 1998](https://gamefaqs.gamespot.com/pc/928577-hoyle-board-games-1998) – product description, multiplayer features
-[^ref-5]: [GameSpot Review by Tim Soete (December 2000)](https://www.gamespot.com/reviews/hoyle-board-games/1900-2664994/) – review score 7/10, facemaker feature, gameplay analysis
-[^ref-6]: [IGN – Hoyle Board Games 2001](https://www.ign.com/games/hoyle-board-games-2001) – release date, game list, developer, publisher
-[^ref-7]: [Macintosh Repository – Hoyle Board Games 2001](https://www.macintoshrepository.org/5852-hoyle-board-games-2001) – technical specifications, game list, localization, avatar features
-[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/windows/hoyle-board-games-2001/screenshots) – game features, opponent biographies, tile sets
-[^ref-9]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – cross-product avatar compatibility
-[^ref-10]: [GameSpot Review by Gord Goble (October 2002)](https://www.gamespot.com/reviews/hoyle-board-games-review/1900-2895435/) – review score 7.5/10, later edition analysis, PDA versions
-[^ref-11]: [MobyGames – Reviews](https://www.mobygames.com/game/31043/hoyle-board-games-2001/reviews/) – aggregate ratings
-[^ref-12]: [My Abandonware – Hoyle Board Games 2001](https://www.myabandonware.com/game/hoyle-board-games-2001-dk0) – user ratings, technical issues, compatibility notes
-[^ref-13]: [GameFAQs – Hoyle Board Games 2001](https://gamefaqs.gamespot.com/pc/451212-hoyle-board-games-2001) – release date, user ratings, game list
-[^ref-14]: [MobyGames – Hoyle Board Games 1998](https://www.mobygames.com/game/977/hoyle-board-games/) – previous edition details, series info, composer credit
-[^ref-15]: [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – file size, user-reported issues
-[^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
-[^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
+## 

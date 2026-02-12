@@ -134,38 +134,7 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2002-season-m0i) - Full game download with compatibility information
 
 ## See Also
-
-- **Previous:** [[2001 - NASCAR Racing 4]] (2001)
-- **Next:** [[2003 - NASCAR Racing 2003 Season]] (2003)
 - [[2001 - NASCAR Racing 4|← Previous: NASCAR Racing 4]]
 - [[2003 - NASCAR Racing 2003 Season|→ Next: NASCAR Racing 2003 Season]]
 
-## References
-
-[^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – - Developer, designer, and basic game information
-[^ref-2]: [IGN Review](https://www.ign.com/games/nascar-racing-2002-season/reviews) – - Technical features and engine details
-[^ref-3]: [eBay Product Description](https://www.ebay.com/itm/126139280216) – - Game design philosophy
-[^ref-4]: [Macworld Review](https://web.archive.org/web/20240319175916/https://www.macworld.com/article/160077/thegameroom.html) – - Driver roster details
-[^ref-5]: [Daily Downforce](https://dailydownforce.com/2002-nascar-racing-2002-season/) – - Track count comparison
-[^ref-6]: [PC Gamer Review](https://web.archive.org/web/20060315141337/http://www.pcgamer.com/archives/2005/07/nascar_racing_2_1.html) – - Accessibility features
-[^ref-7]: [Wikidata Entry](https://www.wikidata.org/wiki/Q6952491) – - Platform information
-[^ref-8]: [WorthPlaying Review](https://worthplaying.com/article/2002/2/19/reviews/2426-pc-review-nascar-racing-2002-season/) – - Interface improvements
-[^ref-9]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2002_Season) – - Input device specifications
-[^ref-10]: [Wikipedia](https://en.wikipedia.org/wiki/NASCAR_Racing_2002_Season) – - Digital steering assistance feature
-[^ref-11]: [Gamicus](https://gamicus.fandom.com/wiki/NASCAR_Racing_2002_Season) – - Track count
-[^ref-12]: [Metacritic User Review](https://www.metacritic.com/game/nascar-racing-2002-season/critic-reviews/?platform=pc) – - Race experience description
-[^ref-13]: [GameSurge Review](http://www.gamesurge.com/pc/reviews/nascar2002.shtml) – - Physics simulation detail
-[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/nascar-racing-2002-season-review/1900-2848234/) – - Track tours feature
-[^ref-15]: [Macworld Review](https://www.macworld.com/article/160077/thegameroom.html) – - Racing strategy elements
-[^ref-16]: [Metacritic](https://www.metacritic.com/game/nascar-racing-2002-season/) – - Aggregate score
-[^ref-17]: [IGN Review](https://www.ign.com/articles/2002/03/07/nascar-racing-2002-season-review) – - Score and assessment
-[^ref-18]: [GameZone Review](https://web.archive.org/web/20080317123952/http://pc.gamezone.com/gzreviews/r19611.htm) – - Score and content
-[^ref-19]: [GameSpy Review](http://pc.gamespy.com/pc/nascar-racing-2002-season/543772p1.html) – - Overall assessment
-[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-2002-season-m0i) – - User ratings
-[^ref-21]: [eBay Customer Review](https://www.ebay.com/itm/326568252668) – - Series ranking comment
-[^ref-22]: [Daily Downforce History](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – - Development context
-[^ref-23]: [Reddit Development Screenshot](https://www.reddit.com/r/NASCAR/comments/10ouwfq/rare_screenshot_of_an_early_build_of_papyrus/) – - Early development timeline
-[^ref-24]: [Macworld Product News](https://www.macworld.com/article/157398/unleashed-2.html) – - Mac development details
-[^ref-25]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/nascar-racing-2002-season/) – - Voice cast information
-[^ref-26]: [Web Archive - Edge Review](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – - Graphics assessment
-[^ref-27]: [Old Games Download](https://oldgamesdownload.com/nascar-racing-2002-season/) – - Sales figures
+## 

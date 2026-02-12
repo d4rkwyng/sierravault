@@ -204,33 +204,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
 ## See Also
-
-Early Math was part of Bright Star Technology's "Talking Tutor" series of educational software published by Sierra On-Line.[^ref-5] The series featured animated on-screen teachers who guided children through various learning activities, with different titles focusing on different subject areas and age groups. Bright Star Technology produced several educational titles for Sierra during the early 1990s, establishing a recognizable brand identity for the company's children's software.[^ref-8]
-
-The educational software developed by Bright Star Technology existed alongside Sierra's more well-known entertainment franchises, contributing to the company's mission of reaching "a wide variety of consumers" with diverse interactive products.[^ref-3]
-
-The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19]
 - [[1982 - Bop-A-Bet|← Previous: Bop-A-Bet]]
 - [[1983 - Learning with Leeper|→ Next: Learning with Leeper]]
 
-## References
-
-[^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games
-[^ref-2]: [Internet Archive – Early Math (2022 Upload)](https://archive.org/details/early-ma_202203) – release year, game description, educational concepts, mini-games, adaptive difficulty, target age
-[^ref-3]: [Encyclopedia.com – Sierra On-Line Inc. Company History](https://www.encyclopedia.com/books/politics-and-business-magazines/sierra-line-inc) – company philosophy, product development goals
-[^ref-4]: [Early Childhood Education and Care – Early Math and Video Games](https://www.earlychildhoodeducationandcare.com/bloggers/2018/9/11/early-math-and-video-games) – educational video game effectiveness research, digital natives concept
-[^ref-5]: [Sierra Chest – Early Math Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough) – NCTM curriculum alignment, talking tutor series, target age, educational objectives
-[^ref-6]: [Consolidated Research Data](N/A) – Loid character description from game documentation
-[^ref-7]: [Family Math – Playing with Math: Using Games to Engage Families](https://familymath.org/2025/04/playing-with-math-using-games-to-engage-families-in-young-childrens-math-learning/) – educational philosophy on math games
-[^ref-8]: [Sierra Gamers Forum – Where Does "Sierra" End?](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Bright Star Technology context, educational game lineup
-[^ref-10]: [Internet Archive – Early Math (Original Entry)](https://archive.org/details/early-ma) – Windows 3.1 platform confirmation, CD-ROM format
-[^ref-11]: [Amazon – Early Math by Sierra on Line](https://www.amazon.com/Early-Math-Line-Sierra/dp/0871770156) – ISBN, physical specifications, September 1994 listing date
-[^ref-12]: [Sierra Help Pages – Patches and Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates.html) – Early Math CD updates availability
-[^ref-13]: [Sheppard Software – Early Math Games](https://www.sheppardsoftware.com/mathgames/menus/earlymath.htm) – game conversion status note
-[^ref-14]: [Company-Histories.com – Sierra On-Line Inc.](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – company history and development philosophy
-[^ref-15]: [MobyGames – Early Math (Alternate Entry)](https://www.mobygames.com/game/129279/early-math/) – detailed credits, voice talent, additional specifications
-[^ref-16]: [Dynamix Fandom Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – Sierra company history context
-[^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company background information
-[^ref-18]: [MyAbandonware – Search Results](https://www.myabandonware.com/search/q/Early+Math) – platform listings, year confirmation
-[^ref-19]: [MDPI Technologies – Math Video Game Study](https://www.mdpi.com/2227-7080/5/2/30) – educational video game effectiveness research
-[^ref-20]: [Prodigy Game Blog – Math Video Games](https://www.prodigygame.com/main-en/blog/math-video-games) – educational gaming philosophy
+## 

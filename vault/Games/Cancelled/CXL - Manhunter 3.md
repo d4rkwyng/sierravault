@@ -190,22 +190,5 @@ The intellectual property's current ownership by Activision has led to periodic 
 
 ## See Also
 
-Manhunter 3: London was intended to conclude the story arc begun in Manhunter: New York (1988) and continued in Manhunter 2: San Francisco (1989).[^ref-1] The series follows an unnamed Manhunter who is initially pressed into service by the alien Orb Alliance, tracking down human resistance members while secretly working against the occupation. By the end of the second game, the protagonist is in pursuit of the serial killer Phil Cook, setting up the chase to London that would have formed the basis of the third game.[^ref-1]
 
-The Murrys had originally conceived the series as a trilogy, with potential for a fourth game following the London chapter.[^ref-1] The dual protagonist structure planned for Manhunter 3: London would have allowed the series to both welcome new players and provide satisfying closure for fans who had followed the story from New York through San Francisco.[^ref-3] The series' continuity remains incomplete, with the Manhunter's ultimate fate and the resolution of humanity's conflict with the Orbs forever unresolved.
-
-- **Previous:** [[1989 - Manhunter - San Francisco]]
-
-The game is documented in gaming databases.[^ref-11][^ref-12][^ref-13]
-
-## References
-
-[^ref-1]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information, Easter egg details, planned story elements
-[^ref-2]: [Larry Laffer Dot Net – Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) – development history, Murry biographies, sales figures, series innovations
-[^ref-3]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – 2008 revival information, dual protagonist structure, developer contact
-[^ref-4]: [Sierra Gamers Forums – Why was there never a third game?](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams explanation, AGI engine details, Ancient Art of War story
-[^ref-5]: [ClassicReload – Manhunter: New York](https://classicreload.com/manhunter-new-york.html) – gameplay description, interface details, AGI engine information
-[^ref-6]: [Just Games Retro – Manhunter 2: San Francisco](https://www.justgamesretro.com/dos/manhunter-2-san-francisco) – gameplay analysis, series critique, story continuation
-[^ref-7]: [Sierra Wiki – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, current IP ownership, game list[^ref-11]: [Giant Bomb - Manhunter](https://www.giantbomb.com/) - wiki
-[^ref-12]: [IGDB - Manhunter 3](https://www.igdb.com/) - IGDB
-[^ref-13]: [Sierra Wiki - Manhunter](https://wiki.sierrahelp.com/) - Sierra docs
+## 

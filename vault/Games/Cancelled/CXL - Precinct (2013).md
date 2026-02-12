@@ -220,29 +220,6 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 - [Sierra Classic Gaming Entry](https://sierraclassicgaming.com/game/precinct/) - Game database documentation
 
 ## See Also
-
-While Precinct was not officially part of the Police Quest series due to trademark issues, it was conceived as a spiritual successor that would continue the legacy Jim Walls established at Sierra On-Line[^ref-2]. The game would have represented Walls' return to the police procedural adventure genre he pioneered, updating the concept for modern gaming platforms and audiences.
-
-The Police Quest series proper concluded with Police Quest: SWAT (1995) and continued in a different direction with the SWAT tactical shooter series. Precinct was intended to return to the adventure game roots of the franchise, emphasizing investigation and procedure over tactical action[^ref-4].
-
-- **Previous:** [[1991 - Police Quest III - The Kindred]] (Last Jim Walls Police Quest game)
 - **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
----
-
-## Note on "The Precinct" (2025)
-
-Research for this article also uncovered information about an unrelated game titled "The Precinct," developed by Fallen Tree Games and published by Kwalee, scheduled for release on May 13, 2025[^ref-5][^ref-6][^ref-7]. This is a separate project from Jim Walls' Precinct and is an action sandbox police game set in the fictional city of Averno in 1983[^ref-5]. The 2025 game features Officer Nick Cordell Jr. and has been described as "a love letter to classic cop movies"[^ref-6]. Despite the similar name and police theme, these are distinct projects with no connection to each other or to Sierra's Police Quest series.
-
----
-
-## References
-
-[^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets
-[^ref-8]: [Kickstarter – Precinct (Archived Campaign)](https://www.kickstarter.com/projects/precinctgame/precinct) – Primary source: $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)
-[^ref-2]: [Kotaku – Police Quest Is Basically Back](https://kotaku.com/guys-police-quest-is-basically-back-796665191) – Jim Walls background, gameplay description, Kickstarter announcement, planned features
-[^ref-3]: [Sierra Classic Gaming – Precinct](https://sierraclassicgaming.com/game/precinct/) – Funding tiers, game description, setting details, Maxwell Jones character
-[^ref-4]: [Larry Laffer Net – Precinct Kickstarter](http://larrylaffer.net/archives/1693) – Unity3D engine, Al Lowe quote, Jim Walls biography, development team, episodic structure
-[^ref-5]: [Wikipedia – The Precinct (video game)](https://en.wikipedia.org/wiki/The_Precinct_(video_game)) – 2025 game details, developer, publisher, platforms, reviews
-[^ref-6]: [Steam – The Precinct](https://store.steampowered.com/app/490110/The_Precinct/) – 2025 game description, user reviews, release date
-[^ref-7]: [Niche Gamer – The Precinct Launches](https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher
+## 

@@ -247,45 +247,7 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 - [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html)[^ref-25]
 
 ## See Also
-
-PGA Championship Golf 2000 was the culmination of Sierra's golf simulation franchise, which evolved from the Front Page Sports Golf series developed by Dynamix. The series began with PGA Championship Golf in 1998, followed by PGA Championship Golf '99 Edition in 1999, and reached its peak with the 2000 edition.[^ref-32] The Titanium Edition (2000) and Collector's Edition (2001) served as enhanced versions of the base 2000 game rather than true sequels.
-
-Following Sierra's sale of Headgate Studios in 1999, the franchise effectively ended, with the development team transitioning to create golf games for Electronic Arts.[^ref-2] This made PGA Championship Golf 2000 the final entry in Sierra's golf simulation lineage.
-
-- **Previous:** [[1999 - PGA Championship Golf 1999 Edition]]
 - [[1998 - PGA Championship Golf|← Previous: PGA Championship Golf]]
 - [[2000 - PGA Championship Golf 2000|→ Next: PGA Championship Golf 2000]]
 
-## References
-
-[^ref-1]: [Wikipedia – PGA Championship Golf](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – release dates, ratings, developer info, features, reviews
-[^ref-2]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – development history, Headgate Studios acquisition and sale
-[^ref-3]: [Eurogamer – PGA 2000 Review](http://eurogamer.net/content/pga2k) – review score, TrueSwing description, gameplay features
-[^ref-4]: [GameSpot – PGA Championship Golf 2000 Review](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/review.html) – 8.9 score, Stephen Poole review, voice cast
-[^ref-15]: [Hartford Courant Review](https://www.courant.com/news/connecticut/hc-xpm-2000-07-09-0007172268-story.html) – TrueSwing description, review quote
-[^ref-6]: [SPOnG Press Release](https://spong.com/press_release/343/Sierra-Sports-Brings-Season-and-Career-Tour-Play-To-Award-Winning-PGA-Championship-Golf) – Vance Cook quote, features list
-[^ref-7]: [GameVortex Review](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – 95% score, options quote, bugs, trivia
-[^ref-8]: [CDMag – Sierra Golf Announcement](https://web.archive.org/web/20030530112900/http://www.cdmag.com/articles/027/040/sierra_golf.html) – first Season/Career mode claim, pricing
-[^ref-9]: [Amazon – PGA Championship Golf 2000](https://www.amazon.com/PGA-Championship-Golf-2000-PC/dp/B00004RJXQ) – platforms, courses, WON.net info
-[^ref-10]: [MobyGames – PGA Championship Golf 2000](https://www.mobygames.com/game/2991/pga-championship-golf-2000/) – credits, ratings, awards, description
-[^ref-11]: [CDMag – PGACG2K Article](https://web.archive.org/web/20030709140515/http://www.cdmag.com/articles/028/071/pgacg2k.html) – simulation description, release date
-[^ref-12]: [Eurogamer Archive Review](https://web.archive.org/web/20020811203230/http://eurogamer.net/content/pga2k) – dynamic galleries, system requirements
-[^ref-13]: [CNET Gamecenter Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – 8/10 score, Jason Ocampo review, system specs
-[^ref-14]: [IGN – PGA Championship Golf 2000 Announced](https://www.ign.com/articles/2000/03/31/pga-championship-golf-2000-announced) – TrueSwing description, features
-[^ref-16]: [Internet Archive – 3-D Ultra Minigolf](https://archive.org/details/3-d-ultra-minigolf) – ball dynamics quote (related Sierra golf product)
-[^ref-17]: [MobyGames – Titanium Edition](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/) – enhanced features, German release info
-[^ref-18]: [Game-Over.net Review](https://www.game-over.net/review/june2000/pga2000/) – 88% score, system requirements
-[^ref-19]: [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h) – user ratings, user quotes
-[^ref-20]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Front Page Sports series history
-[^ref-21]: [SportPlanet Interview](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – Mike Jacob interview, ReadyPlay, development goals
-[^ref-22]: [Filfre.net – Golf Game History](https://www.filfre.net/?s=PGA+Championship+Golf) – Michael Boone quote on early development
-[^ref-23]: [CDMag – Beta Testers Wanted](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – beta testing requirements
-[^ref-24]: [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – file size, disc count
-[^ref-25]: [Sierra Help – Patches](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – version history, patch details
-[^ref-26]: [CDMag – PGA 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – patch details, bug fixes
-[^ref-27]: [GameSpot – Collector's Edition](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/news_2775868.html) – 12 new courses, 32 total
-[^ref-28]: [GameSpot – Titanium Edition Release](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/news_2663592.html) – release date, features, free upgrades
-[^ref-29]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=63536) – compatibility issues, resolution requirements
-[^ref-30]: [IGN – Collector's Edition Announcement](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – Front Page Sports franchise mention
-[^ref-31]: [Sierra Chest – Titanium Edition](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=box) – packaging contents
-[^ref-32]: [MobyGames – PGA Championship Golf Series](https://www.mobygames.com/group/11215/pga-championship-golf-series/) – series overview, release dates
+## 

@@ -194,45 +194,7 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=walkthrough)
 
 ## See Also
-
-Goblins Quest 3 serves as the concluding chapter of the original Gobliiins trilogy developed by Coktel Vision under Sierra's distribution. The series is characterized by its unique naming convention where the number of "i"s in the title corresponds to the number of playable goblin characters[^ref-1]. The first game featured three goblins (Gobliiins), the second featured two (Gobliins 2), and this final entry features one (Goblins). A significant narrative connection exists between Gobliins 2 and Goblins Quest 3: the protagonist Blount is revealed to be the same prince who was kidnapped in the previous game, providing unexpected continuity to what initially appeared to be standalone puzzle adventures[^ref-11].
-
-The series later continued with Gobliiins 4 (2009) and Gobliiins 5: The Morgloton Invasion (2023), the latter developed independently by original designer Pierre Gilhodes[^ref-24].
-
-- **Previous:** [[1992 - Gobliins 2 - The Prince Buffoon]]
-- **Next:** [[2009 - Gobliiins 4]]
 - [[1992 - Gobliins 2 - The Prince Buffoon|← Previous: Gobliins 2 - The Prince Buffoon]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|→ Next: The Bizarre Adventures of Woodruff and the Schnibble]]
 
-## References
-
-[^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information
-[^ref-2]: [Abandonware DOS – Goblins 3](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Goblins+3&gid=2244) – Electronic Games review quotes, user ratings, developer/publisher information
-[^ref-3]: [Adventure Classic Gaming – Goblins Quest 3 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/448/) – Jess Beebe review, Sierra acquisition context, CD-ROM vs floppy differences
-[^ref-4]: [DOS Games Archive – Goblins Quest 3](https://www.dosgamesarchive.com/download/goblins-quest-3/) – Sierra marketing quote, technical specifications, ScummVM compatibility
-[^ref-5]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – full development credits, publication review scores, user ratings, trivia
-[^ref-6]: [PCGamingWiki – Goblins Quest 3](https://www.pcgamingwiki.com/wiki/Goblins_Quest_3) – Gob engine identification, release date, publisher information
-[^ref-7]: [Internet Archive – Goblins Quest 3](https://archive.org/details/goblin_dos) – plot summary, gameplay description, supporting characters
-[^ref-8]: [Sierra Chest – Goblins 3](https://sierrachest.com/index.php?a=games&id=146&title=goblins-3&fld=general) – story details, werewolf mechanics, designer credits
-[^ref-9]: [IGN – Goblins Quest 3](https://www.ign.com/games/goblins-quest-3) – game summary, story elements
-[^ref-10]: [Sierra Gamers – Goblins Quest 3](https://www.sierragamers.com/goblins-quest-3/) – plot overview, character details
-[^ref-11]: [Classic Reload – Goblins Quest 3](https://classicreload.com/goblins-quest-3.html) – level count, sidekick characters, series connection to Gobliins 2
-[^ref-12]: [GameFAQs – Goblins Quest 3 Review by Tastii](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/reviews/11232) – user review, technical specifications, gameplay mechanics
-[^ref-13]: [Jefklak's Codex – Goblins Quest 3](https://jefklakscodex.com/games/pc/goblins-quest-3/) – box quote, version comparisons, joker system
-[^ref-14]: [GameFAQs – Goblins Quest 3 Walkthrough](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/faqs/1944) – level names, potion mechanics, puzzle solutions
-[^ref-15]: [Gamer Walkthroughs – Goblins 3](https://gamerwalkthroughs.com/goblins-3/) – gameplay difficulty quote, location count
-[^ref-16]: [Play Classic Games – Goblins 3](https://playclassic.games/games/puzzle-solving-dos-games-online/play-goblins-3-online/) – transformation mechanics, Quest suffix explanation
-[^ref-17]: [MyAbandonware – Goblins Quest 3](https://www.myabandonware.com/game/goblins-quest-3-1zc) – user ratings, regional release dates
-[^ref-18]: [Amazon – Goblins Quest 3](https://www.amazon.com/Goblins-Quest-3-PC-DOS/dp/B0006ZL4YK) – customer ratings, product description
-[^ref-19]: [Encyclopedia Gamia Archive – Gobliiins](https://gamia-archive.fandom.com/wiki/Gobliiins) – Pierre Gilhodes artistic contribution, series history
-[^ref-20]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – Pierre Gilhodes biography
-[^ref-21]: [VGMPF Wiki – Goblins Quest 3](https://www.vgmpf.com/Wiki/index.php?title=Goblins_Quest_3_(DOS)) – Charles Callet composer credit, audio specifications, regional release dates
-[^ref-22]: [GOG Database – Goblins Quest 3](https://www.gogdb.org/product/1207662313) – DotEmu publisher, version info, installer sizes
-[^ref-23]: [VOGONS Forum – Goblins 3 Technical Issues](https://www.vogons.org/viewtopic.php?t=4039) – compatibility problems, troubleshooting solutions
-[^ref-24]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – developer information, modern sequel development
-[^ref-25]: [Universal Hint System – Goblins 3](https://www.uhs-hints.com/uhsweb/goblins3.php) – hint system availability
-[^ref-26]: [TV Tropes – Goblins Quest 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GoblinsQuest3) – series naming convention explanation
-[^ref-27]: [Wayback Machine – MobyGames Goblins Quest 3 (2008)](https://web.archive.org/web/20080227152555/http://www.mobygames.com/game/goblins-quest-3) – historical review scores, goblinish speech details
-[^ref-28]: [GameFAQs Walkthrough by Gameesh](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/faqs/69053) – personal retrospective, version history
-[^ref-29]: [Lutris – Goblins Quest 3](https://lutris.net/games/goblins-quest-3/) – plot summary, platform information
-[^ref-30]: [Downloads.KHInsider – Goblins 3 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/goblins-3-pc-game-rip) – soundtrack track listing, audio specifications
+## 

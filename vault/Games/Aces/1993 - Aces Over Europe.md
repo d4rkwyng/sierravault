@@ -102,49 +102,5 @@ The game's technical innovations, particularly its record and playback system, i
 
 ## See Also
 
-|  | **Aces Series** |  |
-|:---:|:---:|:---:|
-| **←** [[1992 - Aces of the Pacific\|Aces of the Pacific]] | [[1994 - Aces of the Deep\|Aces of the Deep]] **→** |  |
-## Downloads
 
-**Purchase / Digital Stores**
-- Currently not available on major digital distribution platforms, though highly requested on GOG.com wishlist[^ref-2]
-
-**Download / Preservation**
-- [Internet Archive - Demo Version](https://archive.org/details/AcesOverEurope_1020)[^ref-3]
-- [Internet Archive - Full Game v1.02](https://archive.org/details/aces-of-europe-v-1.02-dynamix-disk-1)[^ref-7]
-- [Internet Archive - Patches and Updates](https://archive.org/details/AOE_DOS_ZIP)[^ref-20]
-- [Internet Archive - Collector's Edition](https://archive.org/details/AcesTheCompleteCollectorsEditionUSA)[^ref-17]
-- [Internet Archive - Community Scenarios](https://archive.org/details/wargamer-depot_aces-over-europe)[^ref-19]
-- [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
-- [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
-
-## References
-
-[^ref-1]: [GOG.com Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Information about Aces Over Europe being a follow-up to Aces of the Pacific
-[^ref-2]: [GOG.com Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist) – - Game description, designer information, and promotional details
-[^ref-3]: [Internet Archive - Aces Over Europe Demo](https://archive.org/details/AcesOverEurope_1020) – - Game description, aircraft details, and gameplay features
-[^ref-4]: [GameSpot User Reviews](https://www.gamespot.com/aces-over-europe/user-reviews/2200-236058/) – - User review scores and retrospective assessment
-[^ref-5]: [MobyGames - Aces Over Europe MobyRank](https://www.mobygames.com/game/aces-over-europe/mobyrank) – - Aggregated critic and player review scores
-[^ref-6]: [Sierra Fandom Wiki - Aces of the Pacific](https://sierra.fandom.com/wiki/Aces_of_the_Pacific) – - Dragon magazine review score
-[^ref-7]: [Internet Archive - Aces Over Europe v1.02 Disk 1](https://archive.org/details/aces-of-europe-v-1.02-dynamix-disk-1) – - Developer information
-[^ref-8]: [MobyGames - Aces Collection Series](https://www.mobygames.com/game/11307/aces-collection-series/) – - Platform compatibility information
-[^ref-9]: [MobyGames - Aces Over Europe Specs](https://www.mobygames.com/game/519/aces-over-europe/specs/) – - Technical specifications and system requirements
-[^ref-11]: [MobyGames - Aces Over Europe User Review](https://www.mobygames.com/game/dos/aces-over-europe/reviews/reviewerId,25041/) – - Mission types and flight model details
-[^ref-12]: [ModDB - Aces Over Europe Revisited](https://www.moddb.com/games/aces-over-europe/news/aces-over-europe-revisited) – - Technical capabilities regarding aircraft numbers
-[^ref-13]: [GOG.com Dreamlist - European Air War](https://www.gog.com/dreamlist) – - Bird strike feature details
-[^ref-14]: [MobyGames - Aces of the Pacific](https://www.mobygames.com/game/1419/aces-of-the-pacific/) – - Awards and recognition information
-[^ref-16]: [Videospiele Fandom Wiki](https://videospiele.fandom.com/wiki/Aces_over_Europe) – - Technical comparison to predecessor
-[^ref-17]: [Internet Archive - Aces Complete Collector's Edition](https://archive.org/details/AcesTheCompleteCollectorsEditionUSA) – - Compilation release information
-[^ref-18]: [Internet Archive - Best of Sierra Volume 06](https://archive.org/details/best-of-sierra-volume-06-hunter-hunted-aces-over-europe-1998-de.-7z) – - 1998 compilation release details
-[^ref-19]: [Internet Archive - Wargamer Depot Aces Over Europe](https://archive.org/details/wargamer-depot_aces-over-europe) – - Community mod and scenario preservation
-[^ref-20]: [Internet Archive - AOE DOS ZIP](https://archive.org/details/AOE_DOS_ZIP) – - Game patches and updates
-[^ref-21]: [Internet Archive - AOE Tapes](https://archive.org/details/AOETAPES) – - VCR tape files preservation
-[^ref-22]: [Internet Archive - Aces Over Europe 002778](https://archive.org/details/002778-AcesOverEurope) – - Floppy disk image preservation
-[^ref-23]: [IMDb - Aces Over Europe](https://www.imdb.com/title/tt6100830/) – - Basic game metadata and release information
-[^ref-24]: [MobyGames - Aces Over Europe Cover Art](https://www.mobygames.com/game/dos/aces-over-europe/cover-art/gameCoverId,7580) – - Cover art and pricing information
-[^ref-25]: [MobyGames - Aces Over Europe Promo](https://www.mobygames.com/game/519/aces-over-europe/promo/group-111011/image-863022/) – - Promotional materials and catalog information
-[^ref-26]: [The Video Game Library - Strategy Guide](https://www.thevideogamelibrary.org/book/aces-over-europe-official-strategy-guide) – - Official strategy guide information
-[^ref-27]: [Sierra Help - Patches Updates](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern system compatibility information
-[^ref-28]: [GOG.com Forum - General Archive](https://www.gog.com/forum/general_archive/aces_over_europe_pacific) – - Community discussion about game availability
-[^ref-29]: [Sierra Help Wiki - Manual](http://wiki.sierrahelp.com/index.php/Aces_Over_Europe_Manual) – - Manual preservation resource
+## 

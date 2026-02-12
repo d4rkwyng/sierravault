@@ -194,41 +194,7 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 - Original documentation included with game
 
 ## See Also
-
-Hoyle Official Book of Games Volume 3 was the third entry in Sierra's series of traditional game compilations. While each volume stood alone as a complete product, they shared the same engine technology, character interaction systems, and design philosophy. The series established a template for quality computer implementations of classic games that Sierra would continue to refine through subsequent releases spanning over a decade of development.
-
-- **Previous:** [[1990 - Hoyle Official Book of Games - Volume 2]]
-- **Next:** [[1993 - Hoyle Classic Card Games]]
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
 
-## References
-
-[^ref-1]: [MyAbandonware – Hoyle Series Search](https://www.myabandonware.com/search/q/Hoyle+Classic+Games) – release dates, platforms
-[^ref-2]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – release year, platforms, game description
-[^ref-3]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – series volume information, release years
-[^ref-4]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – developer, designer, composer, engine, sales data, technical details, trivia
-[^ref-5]: [LaunchBox Games Database – Hoyle Classic Games](https://gamesdb.launchbox-app.com/games/details/119214-hoyle-classic-games) – skill levels, game list, overview
-[^ref-6]: [Internet Archive – HOYLECGAMES](https://archive.org/details/HOYLECGAMES) – attitude meter feature, product description
-[^ref-7]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra Attractions division, Hoyle license
-[^ref-9]: [Internet Archive – Hoyle Classic Games](https://archive.org/details/hoyle-classic-games) – character opponents, game list
-[^ref-10]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – ratings, interface details, easter eggs
-[^ref-11]: [eBay Product Page](https://www.ebay.com/p/53830419) – control elements, players, customization options
-[^ref-12]: [GOG Dreamlist – Hoyle Classic Games](https://www.gog.com/dreamlist) – series position, game content
-[^ref-13]: [MyAbandonware – Hoyle Classic Games](https://www.myabandonware.com/game/hoyle-classic-games-3l5) – ratings, file sizes, preservation status
-[^ref-14]: [eBay Listing](https://www.ebay.com/itm/334303570978) – media type, platform compatibility
-[^ref-15]: [Amazon Customer Reviews](https://www.amazon.com/Hoyle-Classic-Games-Pc/dp/B0007WJJT4) – compatibility issues
-[^ref-16]: [MobyGames Search – Hoyle Classic Games](https://www.mobygames.com/search/?q=Hoyle+Classic+Games) – series releases across platforms
-[^ref-18]: [PCGamingWiki – Hoyle Classic Games](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Games) – engine version, platform support
-[^ref-19]: [MyAbandonware – Hoyle Classic Games '98](https://www.myabandonware.com/game/hoyle-classic-games-98-hzl) – 1998 release details
-[^ref-20]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1163/hoyle-card-games/) – 1999 release, game content
-[^ref-21]: [ESRB – Hoyle Classic Games](https://www.esrb.org/ratings/21356/hoyle-classic-games/) – Encore Software publisher
-[^ref-22]: [Internet Archive – HOYLE](https://archive.org/details/HOYLE) – game preservation, file details
-[^ref-23]: [Internet Archive – Hoyle Classic Games '98](https://archive.org/details/hoyle-classic-games-98-usa) – archive preservation
-[^ref-24]: [The Digital Antiquarian](https://www.filfre.net/?s=Hoyle+Classic+Games) – Ken Williams quote on multiplayer
-[^ref-25]: [TCRF – Hoyle Classic Games Mac](https://tcrf.net/Hoyle_Classic_Games_(Mac_OS_Classic)) – version information, development details
-[^ref-26]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Sierra family of games
-[^ref-27]: [Internet Archive – HOYLEGAMES](https://archive.org/details/HOYLEGAMES) – games included list
-[^ref-28]: [GameSpot – Sierra Reorganizes](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – corporate restructuring
-[^ref-29]: [Old Games Download – Hoyle Classic Games](https://oldgamesdownload.com/hoyle-classic-games/) – developer, publisher confirmation
-[^ref-30]: [MobyGames – Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) – release dates, platform details
+## 

@@ -194,31 +194,7 @@ The remake's significance extends beyond its individual merits to represent a br
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## See Also
-
-Romancing the Stones serves as an alternate vision of the second chapter in King Graham's adventures, reimagining the events between his coronation in the original King's Quest and his later adventures with his family in subsequent games[^ref-4]. The expanded storyline creates stronger connections to the broader King's Quest mythology than the original 1985 release, adding elements that resonate with plot points from later official entries in the series[^ref-1].
-
-As a fan remake rather than an official Sierra release, the game exists parallel to the canon established by the original King's Quest II: Romancing the Throne[^ref-4]. Players familiar with the original will recognize the core premise while discovering substantial new content unique to this reimagining.
-
-- **Previous:** [[2001 - King's Quest I VGA Remake]]
-- **Next:** [[2011 - King's Quest III Redux - To Heir is Human]]
 - [[2001 - Space Quest - The Lost Chapter|← Previous: Space Quest - The Lost Chapter]]
 - [[2003 - Space Quest 0 - Replicated|→ Next: Space Quest 0 - Replicated]]
 
-## References
-
-[^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background
-[^ref-2]: [Adventure Gamers – King's Quest II: Romancing the Stones](https://adventuregamers.com/games/view/kings-quest-ii-romancing-the-stones) – game description, setting, database listing
-[^ref-3]: [AGD Interactive – King's Quest II Download Page](https://www.agdinteractive.com/games/kq2/download/download.html) – download availability, team credits, technical information
-[^ref-4]: [King's Quest Omnipedia – King's Quest II: Romancing the Stones](https://kingsquest.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Stones) – detailed game information, story details, gameplay elements
-[^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, development background
-[^ref-6]: [MobyGames – King's Quest II: Romancing the Stones](https://www.mobygames.com/game/13406/kings-quest-ii-romancing-the-stones/) – database listing, game information
-[^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
-[^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation[^ref-9]: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
-[^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry
-[^ref-11]: [Hardcore Gaming 101 - AGD Interactive](http://www.hardcoregaming101.net/agd-interactive/) - retrospective on AGD's remakes
-[^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation
-[^ref-13]: [GameFAQs - King's Quest II VGA](https://gamefaqs.gamespot.com/pc/562815-kings-quest-ii-romancing-the-stones) - game database entry
-[^ref-14]: [Just Adventure - King's Quest II VGA Review](https://www.justadventure.com/2002/12/01/kings-quest-ii-romancing-the-stones/) - contemporary review
-[^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://adventuregamers.com/forums/) - community discussion
-[^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
-[^ref-17]: [UVList - King's Quest II Romancing the Stones](https://www.uvlist.net/) - Universal Videogame List entry
+## 

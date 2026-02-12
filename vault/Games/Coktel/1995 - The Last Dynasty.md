@@ -212,28 +212,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
 ## See Also
-
-The Last Dynasty is a standalone title with no direct sequels or prequels. It represents Coktel Vision's venture into space combat simulation territory, distinct from their more well-known adventure series like Goblins and Inca. The game shares the Gob engine with other Coktel Vision titles but features no narrative connections to the studio's other works.[^ref-7]
 - [[1993 - Lost in Time|← Previous: Lost in Time]]
 - [[1996 - Urban Runner|→ Next: Urban Runner]]
 
-## References
-
-[^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores
-[^ref-2]: [MobyGames – The Last Dynasty](https://www.mobygames.com/game/1230/the-last-dynasty/) – gameplay description, credits, technical specs, ratings, version info, trivia
-[^ref-3]: [Adventure Gamers – The Last Dynasty](https://adventuregamers.com/games/the-last-dynasty) – game description, perspective, controls, genre classification
-[^ref-4]: [Coming Soon Magazine – The Last Dynasty Review](http://www.csoon.com/issue6/lastd.html) – review score, production budget, technical requirements, gameplay features
-[^ref-5]: [Internet Archive – Dynasty Demo](https://archive.org/details/dynasty_zip) – demo description, gameplay features
-[^ref-7]: [PCGamingWiki – The Last Dynasty](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty) – engine, technical specifications, compatibility info
-[^ref-8]: [MyAbandonware – The Last Dynasty](https://www.myabandonware.com/game/the-last-dynasty-dpz) – platform, release regions, user rating
-[^ref-9]: [NeverDieMedia – The Last Dynasty](https://www.neverdiemedia.com/products/the-last-dynasty-w-manual) – plot summary, gameplay description
-[^ref-10]: [The Collection Chamber – The Last Dynasty](https://collectionchamber.blogspot.com/2017/01/the-last-dynasty.html) – retrospective review, character analysis, file size
-[^ref-11]: [Behind The Voice Actors – The Last Dynasty](https://www.behindthevoiceactors.com/video-games/the-last-dynasty/) – English voice cast
-[^ref-17]: [Sega Saturn Shiro – The Last Dynasty](https://www.segasaturnshiro.com/2021/04/01/unreleased-last-dynasty-dumped-no-april-fools/) – Myst comparison, gameplay description
-[^ref-13]: [Old PC Gaming – The Last Dynasty](https://oldpcgaming.net/the-last-dynasty/) – space combat assessment, Wing Commander comparison
-[^ref-14]: [GameFAQs – The Last Dynasty](https://gamefaqs.gamespot.com/pc/918466-the-last-dynasty) – user ratings, difficulty, length, similar games
-[^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Coktel Vision acquisition, game catalog
-[^ref-16]: [IMDB – The Last Dynasty](https://www.imdb.com/title/tt5554828/) – French voice cast, designers, production country
-[^ref-18]: [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype)) – prototype details, dump release info
-[^ref-19]: [The Cutting Room Floor – The Last Dynasty](https://tcrf.net/The_Last_Dynasty) – cheat codes, debug functions, hidden content
-[^ref-20]: [Wikidata – The Last Dynasty](https://www.wikidata.org/wiki/Q18201842) – metadata, engine confirmation
+## 

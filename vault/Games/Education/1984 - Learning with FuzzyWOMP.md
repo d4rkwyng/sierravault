@@ -185,29 +185,7 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 - [CollectorVision](https://collectorvision.com/games/lwfuzzywomp.php)[^ref-9]
 
 ## See Also
-
-Learning With Fuzzywomp was part of Sierra On-Line's educational software line for preschool children, following the design principles established by Learning with Leeper in 1983.[^ref-1] Both games shared a focus on pre-reader accessibility and animated instruction, establishing Sierra's approach to early childhood educational software during the home computer boom of the early 1980s.
-
-The game was released alongside Wizard of Id's Touch Type and Story Maker in 1984, representing a coordinated expansion of Sierra's educational offerings.[^ref-1] While Sierra would become primarily known for their adventure game series, these educational titles demonstrated the company's versatility and willingness to serve diverse market segments.
-
-- **Previous:** [[1983 - Learning with Leeper]]
 - [[1983 - Learning with Leeper|← Previous: Learning with Leeper]]
 - [[1984 - Wizard of Id's WizMath|→ Next: Wizard of Id's WizMath]]
 
-## References
-
-[^ref-1]: [Wikipedia – Learning with FuzzyWOMP](https://en.wikipedia.org/wiki/Learning_with_FuzzyWOMP) – release date, platform, designers, publisher, awards, price, educational content descriptions, development notes, Creative Computing coverage, wordless design, relationship to Learning with Leeper
-[^ref-2]: [MobyGames – Learning with Fuzzywomp](https://www.mobygames.com/game/9294/learning-with-fuzzywomp/) – user rating, media format, user review quotes about educational package quality and multi-skill approach
-[^ref-3]: [MyAbandonware – Learning with FuzzyWOMP](https://www.myabandonware.com/game/learning-with-fuzzywomp-7ma) – platform information, download availability
-[^ref-4]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
-[^ref-5]: [Internet Archive – Apple II Software Preservation](https://archive.org/) – Apple II software preservation efforts
-[^ref-6]: [Giant Bomb – Learning with FuzzyWOMP](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/) – game database entry, release information
-[^ref-7]: [Internet Archive – Learning with Fuzzywomp](https://archive.org/details/a2_Learning_with_Fuzzywomp_19xx_Sierra_cr_Mr._Krac_Man) – Apple II preservation, playable version
-[^ref-8]: [Sierra Gamers – Learning with Fuzzywomp](https://www.sierragamers.com/learning-with-fuzzywomp/) – Sierra fan community entry
-[^ref-9]: [CollectorVision – Learning with FuzzyWOMP](https://collectorvision.com/games/lwfuzzywomp.php) – game information, collectibility
-[^ref-10]: [Wikidata – Learning with FuzzyWOMP](https://www.wikidata.org/wiki/Q2350175) – structured data entry, identifier references
-[^ref-11]: [Giant Bomb – International Releases](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/releases/) – release information, platform details
-[^ref-12]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – predecessor game, Sierra educational software context
-[^ref-13]: [Azygram – Learning with FuzzyWOMP](https://azygram.com/games/d/learning-with-fuzzywomp-575087) – game database entry, metadata
-[^ref-14]: [RedKingsDream – Learning with Fuzzywomp](https://redkingsdream.com/) – educational skills analysis, family testing review
-[^ref-15]: [Vintage Sierra – Learning with Fuzzy Womp](https://web.archive.org/web/vintage-sierra.net/learning-with-fuzzy-womp/) – Sierra collector community documentation
+## 

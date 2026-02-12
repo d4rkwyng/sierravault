@@ -128,30 +128,7 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 - [MyAbandonware - Lords of the Realm II: Siege Pack](https://www.myabandonware.com/game/lords-of-the-realm-ii-siege-pack-bdd)
 
 ## See Also
-
-- **Previous:** [[1996 - Lords of the Realm II]] (1996)
-- **Next:** Lords of the Realm III (2004)
 - [[1996 - Lords of the Realm II|← Previous: Lords of the Realm II]]
 - [[2004 - Lords of the Realm III|→ Next: Lords of the Realm III]]
 
-## References
-
-[^ref-1]: [MobyGames - Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – - Publisher and developer information
-[^ref-2]: [Internet Archive - Lords of the Realm II: Siege Pack](https://archive.org/details/LordsoftheRealmIISiegePack_1020) – - Marketing description
-[^ref-3]: [Internet Archive - Lords of the Realm II Royal Edition](https://archive.org/details/Lords_of_the_Realm_II_Royal_Edition_Europe) – - Game premise
-[^ref-4]: [Sierra Chest - Lords of the Realm II: Siege Pack Maps](https://sierrachest.com/index.php?a=games&id=163&title=lords-of-the-realm-2-siege-pack&fld=maps) – - Map expansion details
-[^ref-5]: [Amazon - Lords of the Realm II: Siege Pack](https://www.amazon.com/Lords-Realm-II-Siege-Pack-Pc/dp/B00062QYYS) – - Feature list
-[^ref-6]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – - Developer quote about real-time combat
-[^ref-7]: [MobyGames - Lords of the Realm II](https://www.mobygames.com/game/998/lords-of-the-realm-ii/) – - Design team credits
-[^ref-8]: [MobyGames - Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/lords-of-the-realm-ii-siege-pack_) – - Technical specifications and engine
-[^ref-9]: [GameFAQs - Lords of the Realm II: Siege Pack](https://gamefaqs.gamespot.com/pc/961708-lords-of-the-realm-ii-siege-pack) – - Game description opening
-[^ref-10]: [MyAbandonware - Lords of the Realm II: Siege Pack](https://www.myabandonware.com/game/lords-of-the-realm-ii-siege-pack-bdd) – - Castle design and siege features
-[^ref-11]: [GameSpot - Lords of the Realm II Review](https://www.gamespot.com/reviews/lords-of-the-realm-ii-review/1900-2535763/) – - Peasant management mechanics
-[^ref-12]: [GameFAQs - Lords of the Realm II: Siege Pack Cheats](https://gamefaqs.gamespot.com/pc/961708-lords-of-the-realm-ii-siege-pack/cheats) – - Integer rollover glitch
-[^ref-13]: [Home of the Underdogs - Lords of the Realm II: Siege Pack](https://www.homeoftheunderdogs.net/game.php?id=4600) – - Review score and summary
-[^ref-14]: [Metacritic - Lords of the Realm II](https://www.metacritic.com/game/lords-of-the-realm-ii/) – - Review quotes
-[^ref-15]: [Sierra Gamers - Sierra Studio Acquisitions](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – - Impressions Games acquisition context
-[^ref-16]: [KH Insider - Lords of the Realm II: Siege Pack Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/lords-of-the-realm-ii-siege-pack-1997-pc) – - Audio specifications and composer credits
-[^ref-17]: [Sierra Chest - Technical Information](https://www.sierrachest.com/pages/category/garden-center/index.php?a=games&id=163&fld=tech) – - Compatibility modifications
-[^ref-18]: [Old PC Gaming - Lords of the Realm II: Siege Pack](https://oldpcgaming.net/lords-of-the-realm-ii-siege-pack/) – - Critical assessment
-[^ref-19]: [Web Archive - GameCenter Sales Rankings](https://web.archive.org/web/19970331224133/http://www.gamecenter.com/News/Item/0,3,661,00.html) – - Commercial performance data
+## 

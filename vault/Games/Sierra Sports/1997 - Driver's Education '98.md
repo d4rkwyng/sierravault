@@ -274,35 +274,6 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 **Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
 
 ## See Also
-
-Driver's Education '98 was the first entry in Sierra's Driver's Education series, establishing the template of combining theoretical test preparation with practical 3D driving simulation. The game introduced the virtual instructor character "Ed" and the comprehensive state-by-state approach to driver education content that would continue in subsequent releases.[^ref-5]
-
-The series demonstrated Dynamix's ability to apply their simulation expertise beyond their traditional focus on flight and combat simulations, creating a driving simulation specifically designed for educational purposes rather than entertainment racing experiences.
-
-- **Next:** Driver's Education '99 (1998)
-
-The game is documented in gaming databases.[^ref-19][^ref-20][^ref-21]
 - [[1998 - Grand Prix Legends|→ Next: Grand Prix Legends]]
 
-## References
-
-[^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – development credits, technical specifications, genre classification
-[^ref-3]: [Amazon – Driver's Education '98 Product Listing](https://www.amazon.com/Drivers-Education-98/dp/B001R5QCBS) – product description, two-products-in-one feature
-[^ref-4]: [Free Game Downloads Archive](https://free-game-downloads.mosw.com/abandonware/pc/educational_games/games_d/driver_s_education_98.html) – Discovery Series brand, state law customization, technical details
-[^ref-5]: [MobyGames – Driver's Education '99](https://www.mobygames.com/game/227472/drivers-education-99/) – virtual instructor "Ed" description, gameplay features
-[^ref-7]: [Old-Games.com – Driver's Education '98](https://www.old-games.com/download/3272/driver-s-education-98) – money-back guarantee information
-[^ref-8]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/105453-drivers-education-98) – lesson content, game features, gameplay description
-[^ref-9]: [CrossOver Compatibility Database](https://www.codeweavers.com/compatibility/crossover/drivers-education-99) – lesson count, state coverage, hardware support, force feedback
-[^ref-10]: [SquakeNet Game Database](https://www.squakenet.com/game/driver-s-education-98/) – street symbol recognition, instructor character
-[^ref-11]: [GameFAQs – Driver's Education '98](https://gamefaqs.gamespot.com/pc/932640-drivers-education-98) – user ratings, developer/publisher information
-[^ref-12]: [Giant Bomb – Driver's Education '98](https://www.giantbomb.com/drivers-education-98/3030-3254/) – user review score, release date
-[^ref-13]: [Driver's Ed Guru – Product Reviews](https://driversedguru.com/product-reviews/driving-games/drivers-education-98/) – first-person perspective notation
-[^ref-14]: [PC Review Forums – XP Compatibility](https://www.pcreview.co.uk/threads/cant-run-drivers-education-98-on-xp.514496/) – compatibility issues, resolution requirements
-[^ref-15]: [Steam Community – Technical Discussion](https://steamcommunity.com/app/1675200/discussions/0/4629233576852855820/) – emulation recommendations, file format issues
-[^ref-16]: [Internet Archive – DRIVERED](https://archive.org/details/DRIVERED) – preservation upload, Windows 10 compatibility note
-[^ref-17]: [IGCD – Vehicle Database](https://www.igcd.net/game.php?id=100003078) – complete vehicle list, no damage modeling
-[^ref-18]: [Reddit r/retrogaming](https://www.reddit.com/r/retrogaming/comments/1286hjr/anyone_ever_play_the_pc_game_drivers_education/) – middle school library installations, user memories
-[^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=Driver%27s+Education+%2798) – game not available on Steam
-[^ref-20]: [OldGamesDownload.com](https://oldgamesdownload.com/drivers-education-98/) – download availability, file size information
-[^ref-21]: [Giant Bomb - Driver's Ed](https://www.giantbomb.com/) - wiki entry
-[^ref-22]: [MobyGames - Sierra Sports](https://www.mobygames.com/) - database entry
+## 

@@ -245,31 +245,7 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 - [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge)
 
 ## See Also
-
-- **Previous:** None (First in series)
-- **Next:** Order of the Thorne: Fortress of Fire (In Development)
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|← Previous: Cluck Yegger in Escape From The Planet of The Poultroid]]
 - [[2018 - Hero-U - Rogue to Redemption|→ Next: Hero-U - Rogue to Redemption]]
 
-## References
-
-[^ref-1]: [MobyGames](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/) – Basic game information and critic aggregate
-[^ref-2]: [GamePressure](https://www.gamepressure.com/games/order-of-the-thorne-the-kings-challenge/zd5008) – Game description and King's Quest inspiration
-[^ref-3]: [Cliqist](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – Development background and series plans
-[^ref-4]: [GOG.com](https://www.gog.com/en/game/order_of_the_thorne_the_kings_challenge) – Story premise, user reviews
-[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Order_of_the_Thorne:_The_King's_Challenge) – Technical specifications and development context
-[^ref-6]: [Adventure Gamers](https://adventuregamers.com/articles/view/order-of-the-thorne-the-kings-challenge) – Review quotes and technical details
-[^ref-7]: [MobyGames Credits](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/credits/windows/) – Full development team credits
-[^ref-8]: [HowLongToBeat](https://howlongtobeat.com/game/34445) – Playtime statistics and user satisfaction
-[^ref-9]: [Cubed3](https://www.cubed3.com/games/reviews/pc/order-of-the-thorne-the-kings-challenge) – Critical review
-[^ref-10]: [Hardcore Gamer](https://hardcoregamer.com/reviews/review-order-of-the-thorne-the-kings-challenge/194762/) – Character motivation details
-[^ref-11]: [itch.io](https://infamousquests.itch.io/oott-the-kings-challenge) – User reviews and prize description
-[^ref-12]: [itch.io Sale Page](https://itch.io/s/29971/the-order-of-the-thorne-try-it) – Story premise hint
-[^ref-13]: [FreeGOGPCGames](https://freegogpcgames.com/224/1-the-order-of-the-thorne-the-kings-challenge/) – Game length estimate
-[^ref-14]: [Indie Retro News](https://www.indieretronews.com/2016/01/order-of-throne-kings-challenge-sierra.html) – Musical gameplay mechanics
-[^ref-15]: [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge) – Lute gameplay description
-[^ref-16]: [GuiaZone](https://guiazone.blogspot.com/2016/02/order-of-thorne-kings-challenge.html) – Loom comparison
-[^ref-17]: [IMDb](https://www.imdb.com/title/tt5424998/) – User ratings and voice cast
-[^ref-18]: [N4G](https://n4g.com/news/1848717/oldschool-adventure-order-of-the-thorne-the-kings-challenge-gets-release-date) – User recommendation quote
-[^ref-19]: [ModDB](https://www.moddb.com/games/the-order-of-the-thorne-the-kings-challenge) – Series information
-[^ref-20]: [Adventure Game Database](https://adventuregamedb.com/g/order_of_the_thorne_the_kings_challenge) – Easter eggs documentation
+## 

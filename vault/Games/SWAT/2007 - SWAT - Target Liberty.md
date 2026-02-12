@@ -219,45 +219,6 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 - Original instruction manual included with physical release
 
 ## See Also
-
-SWAT: Target Liberty is part of the long-running Police Quest/SWAT franchise that began with Sierra's Police Quest series in 1987.[^ref-8] While the PC SWAT games featured first-person tactical gameplay emphasizing procedure and realism, Target Liberty adapted the formula for portable play with its isometric perspective and streamlined controls.[^ref-12] The game's protagonist, Kurt Wolfe, previously appeared as "Boss" in SWAT 4, establishing narrative continuity with the PC predecessor.[^ref-12]
-
-The game was designed to stand alone while maintaining the tactical ethos of the franchise. Development was overseen with authentic SWAT consultation to preserve the series' commitment to realistic law enforcement procedures, though the final product leaned more toward action than its PC counterparts.[^ref-4] Target Liberty remains the only handheld entry in the SWAT franchise and, given its reception, represents the final original game in the series before Sierra's eventual dissolution.
-
-- **Previous:** [[2005 - SWAT 4]]
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
 
-## References
-
-[^ref-1]: [Wikipedia – SWAT: Target Liberty](https://en.wikipedia.org/wiki/SWAT:_Target_Liberty) – release dates, developer, publisher, Metacritic score, platforms
-[^ref-2]: [GamesRadar – Hands-On Preview](https://www.gamesradar.com/swat-target-liberty-hands-on/) – perspective comparison to Killzone Liberation, gameplay mechanics, sniper view issues
-[^ref-3]: [GamePressure – Game Overview](https://www.gamepressure.com/games/swat-target-liberty/z42774) – plot synopsis, user ratings, terrorist plot details
-[^ref-4]: [Gaming Nexus – Developer Interview](https://www.gamingnexus.com/Article/1531/SWAT-Target-Liberty-Interview) – Paul Pawlicki quotes, core SWAT values, skill system
-[^ref-5]: [Amazon – Product Page](https://www.amazon.com/SWAT-Target-Liberty-Sony-PSP/dp/B000SMM44A) – marketing description, customer reviews, physical specifications
-[^ref-6]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/swat-target-liberty/) – Ken Thatcher consultation, Pocket Gamer quote, aggregate score
-[^ref-7]: [GameSpot – Review](https://www.gamespot.com/reviews/swat-target-liberty-review/1900-6181666/) – Kevin VanOrd review, 5.5/10 score, multiplayer modes
-[^ref-8]: [GameFAQs – Game Page](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty) – Scott Rosenbaum credit, user ratings, game description
-[^ref-9]: [MobyGames – SWAT: Target Liberty](https://www.mobygames.com/game/34642/swat-target-liberty/) – development credits, technical specifications, composers, Korean Triad description
-[^ref-10]: [GameZone – Review (Archive)](https://web.archive.org/web/20081005201058/http://psp.gamezone.com/gzreviews/r32353.htm) – Natalie Romano review, gang conflict details, multiplayer specs
-[^ref-11]: [Defunct Games – Review](http://www.defunctgames.com/courant/155/swat-target-liberty) – Cyril Lachel review, 57% score, gameplay length, pacing criticism
-[^ref-12]: [TV Tropes – SWAT: Target Liberty](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SWATTargetLiberty) – Kurt Wolfe/Boss connection, Hammer of God terrorists, team composition
-[^ref-13]: [VGChartz – Game Summary](https://www.vgchartz.com/game/12293/swat-target-liberty/) – New York locations, script writer, skill upgrade system
-[^ref-25]: [VideoGamer – Review](https://www.videogamer.com/reviews/swat-target-liberty-review) – isometric perspective, first PSP SWAT game, Will Freeman review
-[^ref-15]: [Amazon – UK Import](https://www.amazon.com/SWAT-Target-Liberty-PSP-Activision-Blizzard/dp/B000WGZDY0) – VonShrender user review on simplified controls
-[^ref-16]: [Cheat Code Central](https://www.cheatcc.com/articles/swat-target-liberty-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-psp-psp/) – cheat code access, available cheats, remixed credits easter egg
-[^ref-17]: [IGN – Review](https://www.ign.com/articles/2007/10/18/swat-target-liberty) – Sam Bishop review, 4.5 score, squad member nicknames, AI criticism
-[^ref-18]: [ROMsPure – Game Info](https://romspure.cc/roms/sony-psp/swat-target-liberty/) – file size, stat upgrades, download statistics
-[^ref-19]: [IGN – Game Page](https://www.ign.com/games/swat-target-liberty) – game length estimates, top-down view description
-[^ref-20]: [Games Asylum – Review](https://www.gamesasylum.com/2007/11/24/swat-target-liberty/) – door entry techniques, SWAT training videos, tactical options
-[^ref-21]: [MobyGames – SWAT Elite Troops](https://www.mobygames.com/game/32960/swat-elite-troops/) – mission types, gameplay description
-[^ref-22]: [Eurogamer – Review](https://www.eurogamer.net/swat-target-liberty-review) – 4/10 score, AI stupidity criticism, dated design
-[^ref-23]: [GamePro – Review (Archive)](https://web.archive.org/web/20071208051221/http://www.gamepro.com/sony/psp/games/reviews/143768.shtml) – Spenser Hall review, AI issues, experience system
-[^ref-24]: [Game Informer – Review (Archive)](https://web.archive.org/web/20080125122554/http://www.gameinformer.com/NR/exeres/4E90D9F9-22AD-44D3-B0B6-380BE1144C7C.htm) – Matt Bertz/Ben Reeves review, 5/10 score, franchise criticism
-[^ref-26]: [GameSpy – Review (Archive)](http://psp.gamespy.com/playstation-portable/swat-target-liberty/831611p1.html) – Cameron Lewis review, "dungeon crawl" criticism
-[^ref-27]: [Reddit – PSP Community](https://www.reddit.com/r/PSP/comments/uhlii8/swat_target_liberty_is_a_hidden_gem_of_a_tactical/) – "hidden gem" user opinion
-[^ref-28]: [IMDB – SWAT: Target Liberty](https://www.imdb.com/title/tt2103242/) – voice cast, 6.3/10 rating, character names
-[^ref-29]: [Game Companies Database](https://gamecompanies.com/games/swat-target-liberty) – 3G Studios developer info, Police Quest universe connection
-[^ref-30]: [Wikidata – SWAT: Target Liberty](https://www.wikidata.org/wiki/Q3944006) – PEGI rating, platform listings
-[^ref-31]: [VGChartz – Sales Data](https://www.vgchartz.com/game/12293/swat-target-liberty/cheats) – worldwide sales figures, regional breakdown, PSN release
-[^ref-32]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty/cheats) – hard mode unlock condition
-[^ref-33]: [AVID Wiki – Sierra Logo Variations](https://www.avid.wiki/Sierra_Entertainment/Logo_Variations) – unique logo intro description
+## 

@@ -182,35 +182,7 @@ The game's influence extended beyond its immediate series. The similar World at 
 - [PlayClassicGames](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) - Browser playable
 
 ## See Also
-
-V for Victory: Battleset 1 - D-Day Utah Beach - 1944 was the inaugural title in the V for Victory series, establishing the gameplay systems and design philosophy that would carry through the subsequent releases[^ref-5]. The game's success demonstrated market viability for accessible wargames and directly enabled the development of three follow-up titles covering other significant World War II engagements.
-
-The series maintained a focus on Western and Eastern Front battles, with each subsequent title refining the mechanics established in Utah Beach. The games share common interface conventions and gameplay systems, allowing players familiar with one title to easily transition to others in the series.
-
-- **Previous:** None (First in series)
-- **Next:** V for Victory: Velikiye Luki
 - [[1991 - The Charge of the Light Brigade|← Previous: The Charge of the Light Brigade]]
 - [[1993 - Global Domination|→ Next: Global Domination]]
 
-## References
-
-[^ref-1]: [MobyGames – V for Victory: Battleset 1 - D-Day Utah Beach - 1944](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/) – developer, publisher, designers, platforms, release dates, ratings, technical specs, version history
-[^ref-2]: [PlayClassicGames – V for Victory](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) – gameplay description, historical context, technical details
-[^ref-3]: [PlayOldGames – V for Victory](https://playold.games/play-game/v-for-victory-battleset-1-d-day-utah-beach-1944/) – gameplay mechanics, supply system, ratings, platform info
-[^ref-4]: [MobyGames – User Review by Maury Markowitz](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/user-review/2604845/) – design innovation, supply simulation, interface design
-[^ref-5]: [GOG Dreamlist – V for Victory](https://www.gog.com/dreamlist/game/v-for-victory-d-day-utah-beach) – series information, scenarios, legacy influence
-[^ref-6]: [PriceCharting – V for Victory](https://www.pricecharting.com/game/pc-games/v-for-victory-battleset-1-d-day-utah-beach-1944) – release date, pricing data, UPC, gameplay description
-[^ref-7]: [MyAbandonware – V for Victory](https://www.myabandonware.com/game/v-for-victory-battleset-1-d-day-utah-beach-1944-1xr) – release date, ratings, basic game info
-[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/screenshots/) – weather conditions, mission planning
-[^ref-9]: [MobyGames – Commemorative Collection](https://www.mobygames.com/game/59702/v-for-victory-commemorative-collection/) – compilation details, publisher, included games
-[^ref-10]: [GameFAQs – V for Victory](https://gamefaqs.gamespot.com/pc/934125-v-for-victory-d-day-utah-beach/videos/1257239) – platform confirmation, developer/publisher
-[^ref-11]: [Metacritic – V for Victory](https://www.metacritic.com/game/v-for-victory-d-day-utah-beach/) – developer, publisher, genre classification
-[^ref-12]: [IMDB – V for Victory](https://www.imdb.com/find/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944&s=tt) – release year confirmation
-[^ref-13]: [MyAbandonware – Browse V](https://www.myabandonware.com/browse/name/V/) – series identification, release date
-[^ref-14]: [MyAbandonware – Search Results](https://www.myabandonware.com/search/q/V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – platform confirmation
-[^ref-15]: [GamesNostalgia – Search](https://gamesnostalgia.com/search?query=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – Amiga platform reference
-[^ref-16]: [GOG – Game Search](https://www.gog.com/en/games?query=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – series confirmation, historical setting
-[^ref-17]: [Steam Store – Search](https://store.steampowered.com/search/?term=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – genre classification
-[^ref-18]: [AbandonwareDOS – Search](https://www.abandonwaredos.com/search.php?search=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – historical context
-[^ref-19]: [AdventureGamers – Search](https://adventuregamers.com/search/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – series identification
-[^ref-20]: [HowLongToBeat – Search](https://howlongtobeat.com/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – game title confirmation
+## 

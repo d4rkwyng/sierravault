@@ -160,37 +160,7 @@ The game's significance lies primarily in its position within the Hoyle franchis
 - [GameArchives – Hoyle Poker Series](https://gamearchives.net/hoyle-poker-series/) – Game information and archive[^ref-8]
 
 ## See Also
-
-Hoyle Texas Hold 'Em 2005 exists within the extensive Hoyle gaming franchise, which encompasses card games, casino simulations, and board game collections dating back to 1996[^ref-4]. The game drew upon Sierra's earlier 'Hoyle Poker' from 1997 while establishing mechanics that would influence the later Hoyle Poker Series[^ref-2]. The franchise continued under Encore's publication through 2016 with the Hoyle Official Casino Games Collection[^ref-4].
-
-- **Previous:** [[1997 - Hoyle Poker]]
-- **Next:** [[2005 - Hoyle Texas Hold Em]]
 - [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Texas Hold 'Em](https://gamefaqs.gamespot.com/pc/927495-hoyle-texas-hold-em) – release date, publisher, user ratings
-[^ref-2]: [MobyGames – Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – developers, designers, technical specs, ratings, development notes
-[^ref-3]: [Encore Software Official Site](https://www.encore.com/) – Publisher information
-[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, franchise transition, sales data, technical bugs
-[^ref-5]: [TikGames – Hoyle Texas Hold 'Em](https://www.tikgames.com/games/view/20/hoyle-texas-hold-em/) – game features, Xbox version details, marketing quotes
-[^ref-6]: [Metacritic – Hoyle Card Games 2005](https://www.metacritic.com/game/hoyle-card-games-2005/) – related product information, publisher details
-
-[^ref-7]: [GameSpot – Hoyle Poker Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – Contemporary review of 1997 Hoyle Poker foundation
-
-[^ref-8]: [GameArchives – Hoyle Poker Series](https://gamearchives.net/hoyle-poker-series/) – Game features, poker variants, multiplayer modes
-
-[^ref-9]: [Metacritic – Hoyle Poker](https://www.metacritic.com/game/hoyle-poker/) – User scores for Texas Hold 'Em
-
-[^ref-10]: [Internet Archive – Hoyle Card Games 2005](https://archive.org/details/hoyle-card-games-2005) – Related 2005 Hoyle compilation preservation
-
-[^ref-11]: [My Abandonware – Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – 1997 predecessor, GamesDomain review
-
-[^ref-12]: [MobyGames – Hoyle Poker Series Credits](https://www.mobygames.com/game/56707/hoyle-poker-series/credits/windows/) – Full development credits, 68 people credited
-
-[^ref-13]: [Grouvee – Hoyle Texas Hold 'Em](https://www.grouvee.com/games/205131-hoyle-texas-hold-em/) – Game database entry
-
-[^ref-14]: [PCGamingWiki – Hoyle Texas Hold 'Em](https://www.pcgamingwiki.com/wiki/Hoyle_Texas_Hold%27Em) – Technical specifications, compatibility info
-
-[^ref-15]: [Backloggd – Hoyle Texas Hold 'Em](https://www.backloggd.com/games/hoyle-texas-holdem/) – Game tracking database entry
+## 

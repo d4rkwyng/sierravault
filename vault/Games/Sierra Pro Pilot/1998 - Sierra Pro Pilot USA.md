@@ -203,34 +203,6 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 - [Internet Archive – Pro Pilot USA](https://archive.org/details/pro-pilot-usa)[^ref-1]
 
 ## See Also
-
-Pro Pilot USA is the second entry in Sierra's Pro Pilot civilian flight simulation series, positioned between Pro Pilot '98 and Pro Pilot '99[^ref-1][^ref-3]. The series was developed by Dynamix with support from subLOGIC's geographical databases acquired by Sierra in 1993[^ref-2][^ref-4].
-
-All three Pro Pilot titles shared similar core gameplay focused on civilian aviation training with VFR and IFR operations, AI air traffic controllers, and realistic aircraft models[^ref-5]. The series competed in the same market space as Microsoft Flight Simulator, targeting serious flight simulation enthusiasts and student pilots[^ref-2][^ref-3].
-
-- **Previous:** [[1997 - Sierra Pro Pilot 98]]
-- **Next:** [[1998 - Sierra Pro Pilot '99]]
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
-## References
-
-[^ref-1]: [Internet Archive – Pro Pilot USA](https://archive.org/details/pro-pilot-usa) – series position, preservation status, publisher information
-[^ref-2]: [Grokipedia – Sierra Pro Pilot](https://grokipedia.com/page/sierra_pro_pilot) – development history, technical specifications, Sub-Logic acquisition, Dynamix background, critical reception, 3Space technology
-[^ref-3]: [Wikipedia – Sierra Pro Pilot](https://en.wikipedia.org/wiki/Sierra_Pro_Pilot) – release dates, gameplay features, review scores, sales data, series information
-[^ref-4]: [MobyGames – Sierra Pro Pilot '98](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) – developer credits, technical specifications, critic scores, installation issues
-[^ref-5]: [GOG.COM – Dreamlist Entry](https://www.gog.com/dreamlist) – aircraft list, gameplay features, community interest
-[^ref-6]: [Airliners.net Forum Discussion](https://www.airliners.net/forum/viewtopic.php?t=793785) – user experiences, technical issues, legacy compatibility, pricing history
-[^ref-7]: [Redump Wiki – Sierra/Vivendi Publisher List](http://wiki.redump.org/index.php?title=Sierra_/_Vivendi_USA_-_Publisher_List) – catalog information, preservation status
-[^ref-8]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Pro+Pilot+USA) – digital availability status
-[^ref-9]: [GOG.com Search](https://www.gog.com/en/games?query=Sierra+Pro+Pilot+USA) – digital availability status
-[^ref-10]: [Dynamix Press Release (Archived)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – December 5, 1997 announcement, official feature list
-[^ref-11]: [GameSpot – Pro Pilot Review](https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – Denny Atkin review, February 9, 1998, detailed gameplay critique
-[^ref-12]: [GameSpot – Pro Pilot '99 Review](https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – Denny Atkin, series comparison and evolution
-[^ref-13]: [IGN – News Briefs](https://www.ign.com/articles/1998/10/03/news-briefs-301) – October 3, 1998 coverage of Pro Pilot series
-[^ref-14]: [IGN – PC Games: Pro Pilot '99](https://web.archive.org/web/20020611073421/http://pc.ign.com/articles/154/154019p1.html) – Luke Shannon, October 23, 1998, series coverage
-[^ref-15]: [Computer Gaming World – Pro Pilot Review (PDF)](http://www.cgwmuseum.org/galleries/issues/cgw_165.pdf) – April 1998, page 170, professional review
-[^ref-16]: [PC Joker – Pro Pilot](https://archive.org/details/PCJoker199809/page/n89/mode/2up) – September 1998 German review, 58% score
-[^ref-17]: [Sierra Press Release (Archived)](https://web.archive.org/web/19991005024949/http://www.sierra.com:80/corp/mr/release/0,2760,91,00.html) – official sales figures, marketing information
-[^ref-18]: [Official Pro Pilot Website (Archived)](https://web.archive.org/web/19980213164703/http://sierra.com/titles/pilot/bot.html) – original marketing materials, system requirements
-[^ref-19]: [Amazon – Pro Pilot 99](https://www.amazon.com/Pro-Pilot-99-pc/dp/B00001LDCF) – retail availability, user reviews, product information
-[^ref-20]: [eBay France – Pro Pilot Listings](https://www.ebay.fr/b/Jeux-video-flight-simulator-PC/139973/bn_7117218481) – collector market availability, physical media preservation
+## 

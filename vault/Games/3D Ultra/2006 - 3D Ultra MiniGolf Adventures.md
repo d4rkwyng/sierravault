@@ -210,30 +210,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 - [Steam Community Hub](https://steamcommunity.com/app/10140) - Discussions, screenshots, and user content
 
 ## See Also
-
-3D Ultra Minigolf Adventures is the third entry in Sierra's 3D Ultra Minigolf series, following nearly a decade after the original games developed by Dynamix.[^ref-2] The original 3D Ultra Minigolf was released in May 1997 with 18 holes, followed by 3D Ultra Minigolf Deluxe in July 1998 which added nine new holes to the original eighteen and introduced online multiplayer.[^ref-2] 
-
-While Adventures was developed by a different studio (Wanako Games rather than Dynamix), it maintained the series' focus on fantastical themed courses and arcade-style gameplay.[^ref-11] Many design elements and mechanics from the cancelled "Minigolf Maniacs" project were incorporated into Adventures, creating continuity with Dynamix's original vision.[^ref-2] The series would continue with 3D Ultra Minigolf Adventures 2 in 2010, expanding to PlayStation 3 while maintaining the whimsical approach established by its predecessors.[^ref-2]
-
-- **Previous:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
-- **Next:** [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 - [[2000 - Maximum Pool|← Previous: Maximum Pool]]
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|→ Next: 3D Ultra Minigolf Adventures Deluxe]]
 
-## References
-
-[^ref-1]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – release dates, developer, publisher, gameplay mechanics, course editor features
-[^ref-2]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, Minigolf Maniacs origins, sequel information
-[^ref-3]: [GameSpot – 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) – Aaron Thomas review, gameplay criticism, course editor praise
-[^ref-4]: [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release information, user review scores, publisher
-[^ref-5]: [Gamicus – 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – power-ups list, player count, Lost Island expansion
-[^ref-6]: [Andy Merrill's Blog – 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) – control scheme descriptions, multiplayer features
-[^ref-7]: [Metacritic – 3D Ultra MiniGolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – aggregate scores, X-ONE Magazine and NY Times reviews
-[^ref-8]: [ZTGD – 3D Ultra Minigolf Adventures](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) – course descriptions, visuals, sound criticism
-[^ref-9]: [IGN – 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) – Jonathan Miller review, hole descriptions, tournament modes
-[^ref-10]: [GamesRadar – 3D Ultra Mini Golf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) – control options, physics criticism
-[^ref-11]: [Collection Chamber – 3D Ultra Minigolf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) – original series description, gameplay features
-[^ref-12]: [Eurogamer – 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) – critical assessment, character options
-[^ref-13]: [TrueAchievements – 3D Ultra Minigolf Adventures Reviews](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures/reviews) – achievement guidance, save system exploit
-[^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – HowLongToBeat data, Dolby Digital support, Vivendi acquisition news
-[^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=3D+Ultra+MiniGolf+Adventures) – Steam release date July 23, 2009
+## 

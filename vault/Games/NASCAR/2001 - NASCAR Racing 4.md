@@ -134,31 +134,7 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 - [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos)[^ref-20]
 
 ## See Also
-
-- **Previous:** [[1999 - NASCAR Racing 3]]
-- **Next:** NASCAR Racing 2002 Season
 - [[1999 - NASCAR Racing 3|← Previous: NASCAR Racing 3]]
 - [[2002 - NASCAR Racing 2002 Season|→ Next: NASCAR Racing 2002 Season]]
 
-## References
-
-[^ref-1]: [Internet Archive](https://archive.org/details/n4demo) – - Product description
-[^ref-2]: [GameSpot Review](https://www.gamespot.com/reviews/nascar-racing-4-review/1900-2687981/) – - Review opening assessment
-[^ref-3]: [Daily Downforce](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – - Historical context
-[^ref-4]: [MobyGames](https://www.mobygames.com/game/3378/nascar-racing-4/) – - Technical specifications
-[^ref-5]: [GameRant](https://gamerant.com/best-nascar-games/) – - Technical innovation description
-[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/NASCAR_Racing_4) – - Developer information
-[^ref-7]: [Computer Hope](https://www.computerhope.com/games/games/nascar4.htm) – - Designer credits
-[^ref-8]: [Sierra Sports Wiki](https://www.avid.wiki/Sierra_Sports) – - Publisher information
-[^ref-9]: [Jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00001365_test.htm) – - Controls and wheel support praise
-[^ref-10]: [Old Games](https://www.old-games.com/download/6726/nascar-racing-4) – - Manufacturer details
-[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_4) – - Game features
-[^ref-12]: [MobyGames Reviews](https://www.mobygames.com/game/3378/nascar-racing-4/reviews/) – - Physics engine praise
-[^ref-13]: [IGN Review](https://www.ign.com/articles/2001/03/10/nascar-racing-4-2) – - AI system description and issues
-[^ref-14]: [Metacritic](https://www.metacritic.com/game/pc/nascar-racing-4/critic-reviews) – - PC Gamer review quote
-[^ref-15]: [Gaming Age](https://www.everygamegoing.com/larticle/nascar-racing-4-pc/72075/) – - Visual praise
-[^ref-16]: [Metacritic](https://www.metacritic.com/game/nascar-racing-4/) – - GMR Magazine score and notes
-[^ref-17]: [Gamekult](https://www.gamekult.com/jeux/nascar-racing-4-4875/test.html) – - Negative review score
-[^ref-18]: [Amazon Customer Reviews](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – - Customer review quote
-[^ref-19]: [Racing Soundtracks](https://racingsoundtracks.com/game/nascar-racing-1-4) – - Music composer credits
-[^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos) – - Game preservation site
+## 

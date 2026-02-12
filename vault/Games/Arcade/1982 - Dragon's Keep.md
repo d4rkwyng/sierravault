@@ -220,26 +220,7 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 - [Internet Archive – Manual](https://archive.org/stream/vgmuseum_sierra_dragonskeep-manual/dragonskeep-manual_djvu.txt) – Sierra On-Line manual text
 
 ## See Also
-
-Dragon's Keep was part of Sierra's Hi-Res Learning line of educational games designed for children[^ref-12]. The game shares its underlying engine and design philosophy with other Sierra children's titles from the same era, including Troll's Tale, Mickey's Space Adventure, and Winnie the Pooh[^ref-8].
-
-The gameplay style—using simplified menu selection rather than text parsing—became a template for Sierra's subsequent children's adventure games. While not a numbered series with direct story continuity, these games formed a coherent product line targeting the same young audience with similar accessibility features and educational goals.
 - [[1982 - Creepy Corridors|← Previous: Creepy Corridors]]
 - [[1982 - Laf Pak|→ Next: Laf Pak]]
 
-## References
-
-[^ref-1]: [MobyGames – Dragon's Keep](https://www.mobygames.com/game/20644/dragons-keep/) – ratings, credits, release dates, gameplay description
-[^ref-2]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Dragons_Keep_1984_Sierra_On_Line_US_cr_Bit_Cruncher_BASIC) – platform information, gameplay mechanics, MobyGames description
-[^ref-3]: [Wikipedia Talk – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/Talk:List_of_Sierra_Entertainment_video_games) – Al Lowe origin story, development timeline, sierrachest.com reference
-[^ref-4]: [Sierra Chest – Dragon's Keep](https://www.sierrachest.com/index.php?a=games&id=357) – development history, discovery at Applefest, designer credits
-[^ref-5]: [Metacritic – Dragon's Keep](https://www.metacritic.com/game/dragons-keep/) – Hi-Res Learning description, educational focus
-[^ref-6]: [Internet Archive – Apple II 4am Crack](https://archive.org/details/DragonsKeep4amCrack) – credits, Apple II release date, preservation details
-[^ref-7]: [Pixelated Arcade – Dragon's Keep](https://www.pixelatedarcade.com/games/dragons-keep) – complete credits by platform, control information, packaging details
-[^ref-8]: [Gaming After 40 – Dragon's Keep Playthrough](http://gamingafter40.blogspot.com/2013/11/adventure-of-week-dragons-keep-1984.html) – detailed gameplay analysis, technical notes, related games
-[^ref-9]: [MyAbandonware – Dragon's Keep](https://www.myabandonware.com/game/dragon-s-keep-gs) – user comments and engine observations
-[^ref-10]: [My Abandonware – Dragon's Keep](https://www.myabandonware.com/game/dragon-s-keep-4v3) – user rating, personal testimonials
-[^ref-11]: [Glitchwave – Dragon's Keep](https://glitchwave.com/game/dragons-keep-a-hi-res-learning-game/) – version history, ratings, technical specifications
-[^ref-12]: [Giant Bomb – Dragon's Keep](https://www.giantbomb.com/dragons-keep/3030-10510/) – user ratings, series classification
-[^ref-13]: [MobyGames Forums – Dragon's Keep PC Version Discussion](https://www.mobygames.com/game/dragons-keep/forums/dga,2/dgm,230279) – PC version debate, preservation research
-[^ref-14]: [Internet Archive – Dragon's Keep Manual](https://archive.org/stream/vgmuseum_sierra_dragonskeep-manual/dragonskeep-manual_djvu.txt) – manual preservation
+## 

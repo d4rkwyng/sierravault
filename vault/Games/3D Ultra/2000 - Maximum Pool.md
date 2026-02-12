@@ -208,33 +208,7 @@ Modern players can run the Windows version through compatibility modes, though s
 - [Community Server Patch](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Restores online play
 
 ## See Also
-
-- **Previous:** [[1999 - 3-D Ultra Cool Pool]] (1999)
-- **Next:** No direct sequel
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|← Previous: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 - [[2006 - 3D Ultra MiniGolf Adventures|→ Next: 3D Ultra MiniGolf Adventures]]
 
-## References
-
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details
-[^ref-2]: [MobyGames](https://www.mobygames.com/game/3046/maximum-pool/) - Series information, credits, and gameplay details
-[^ref-3]: [Web Archive - GameZone PC Review](https://web.archive.org/web/20081003070203/http://pc.gamezone.com/gzreviews/r15135.htm) - Development goals and design philosophy
-[^ref-4]: [Internet Archive](https://archive.org/details/MaximumPool_201903) - Game overview and content description
-[^ref-5]: [Web Archive - Sierra Press Release](https://web.archive.org/web/20010305031724/http://www.sierra.com/corp/mr/release/0,2760,505,00.html) - Cross-platform online capabilities announcement
-[^ref-6]: [Metacritic](https://www.metacritic.com/game/maximum-pool/) - Aggregate review scores and user reviews
-[^ref-7]: [IGN PC Review](https://www.ign.com/articles/2000/09/29/maximum-pool-2) - Detailed review with physics and graphics praise
-[^ref-8]: [MobyGames Releases](https://www.mobygames.com/game/3046/maximum-pool/releases/) - Platform release information
-[^ref-9]: [SierraChest Walkthrough](https://sierrachest.com/index.php?a=games&id=573&title=maximum-pool&fld=walkthrough&pid=11) - Interface details and compatibility notes
-[^ref-10]: [Old PC Gaming Review](https://oldpcgaming.net/maximum-pool-review/) - Physics engine assessment and interface options
-[^ref-13]: [Metacritic User Reviews](https://www.metacritic.com/game/maximum-pool/critic-reviews/?platform=dreamcast) - Cool games mode descriptions
-[^ref-16]: [GameSpot PC Review](https://www.gamespot.com/reviews/maximum-pool-review/1900-2618913/) - Interface criticism and unique mode praise
-[^ref-17]: [GameZone Dreamcast Review](https://web.archive.org/web/20080927165451/http://dreamcast.gamezone.com/gzreviews/r15135.htm) - AI opponent descriptions
-[^ref-19]: [Macintosh Repository](https://www.macintoshrepository.org/) - Mac version compatibility information
-[^ref-21]: [MyAbandonware](https://www.myabandonware.com/game/maximum-pool-ea5) - Installation size and options
-[^ref-22]: [IGN Dreamcast Review](https://www.ign.com/articles/2000/12/16/maximum-pool) - Dreamcast version assessment
-[^ref-24]: [GameSpot Dreamcast Review](https://www.gamespot.com/reviews/maximum-pool-review/1900-2664039/) - Critical assessment of controls
-[^ref-25]: [Amazon Customer Reviews](https://www.amazon.com/Sierra-Sports-Maximum-Pool-PC/dp/B00004TJCJ) - User ratings and enthusiasm
-[^ref-26]: [DreamcastLive.net](https://dreamcastlive.net/maximum-pool/) - Modern retrospective and community ratings
-[^ref-27]: [Glitchwave](https://glitchwave.com/) - Modern critical assessment
-[^ref-28]: [Cool Pool Test Site](https://coolpooltest.tripod.com/id6.html) - Player preference comparisons
-[^ref-29]: [LoneBullet Patch Archive](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch
+## 

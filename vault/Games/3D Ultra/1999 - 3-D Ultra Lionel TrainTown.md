@@ -212,30 +212,8 @@ In retrospect, the game represents an interesting moment in edutainment history�
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
 
 ## See Also
-
-3D Ultra Lionel Traintown is part of Sierra's 3D Ultra series of casual games, which included titles across various genres including pinball, pool, and minigolf[^ref-3]. As a puzzle-focused entry, it represented a departure from the more arcade-oriented gameplay of other titles in the series, demonstrating Sierra Attractions' willingness to experiment with the formula.
-
-The Deluxe version released in 2000 functioned as both a sequel and an enhanced edition, adding 50 new missions and an expanded track creation system while maintaining compatibility with the original game's approach[^ref-6].
-
 - **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]], [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]
 
-## References
-
-[^ref-1]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – release dates, developer, publisher, awards, game features, locomotives
-[^ref-2]: [Mex's Articles and Reviews](https://dvellum.wordpress.com/tag/review/) – Lionel inspiration, gameplay description
-[^ref-3]: [Collection Chamber – 3D Ultra Lionel Traintown](https://collectionchamber.blogspot.com/p/3d-ultra-lionel-traintown.html) – technical specs, gameplay analysis, installation issues, review
-[^ref-4]: [ModDB – 3D Ultra Lionel Train Town Deluxe](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe/reviews) – game locations, objectives
-[^ref-14]: [MyAbandonware – 3D Ultra Lionel Train Town Deluxe](https://www.myabandonware.com/game/3-d-ultra-lionel-train-town-deluxe-hut) – publisher description, educational content
-[^ref-6]: [D.I.C.E. Awards Database](https://www.interactive.org/games/video_game_details.asp?idGame=535) – award information, Deluxe version details
-[^ref-7]: [Metacritic – 3D Ultra Lionel Traintown](https://www.metacritic.com/game/3d-ultra-lionel-traintown/) – game description, release date
-[^ref-8]: [IGN – 3D Ultra Lionel Traintown Walkthrough](https://www.ign.com/articles/2013/01/07/3-d-ultra-lionel-traintown-walkthrough-guide-1227095) – game areas, cheat codes, version info
-[^ref-9]: [TV Tropes – 3D Ultra Lionel Traintown](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraLionelTraintown) – mission types, gameplay mechanics
-[^ref-10]: [MMO Central Forums Review](https://www.mmocentralforums.com/forums/showthread.php?t=255665) – collector value, gameplay style, user review
-[^ref-11]: [GameFAQs User Review](https://gamefaqs.gamespot.com/pc/354570-3d-ultra-traintown-deluxe/reviews/175614) – user score, gameplay criticism, sequels
-[^ref-12]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-lionel-traintown-1999) – user memories, educational content, cancelled Dreamcast port
-[^ref-15]: [TM Books and Video Fandom Wiki](https://tm-books-and-video.fandom.com/wiki/3D_Ultra_Lionel_Traintown) – opening sequence video sources
-[^ref-16]: [Sound Effects Fandom Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – sound effects used, European release name
-[^ref-17]: [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility/crossover/3d-ultra-lionel-traintown-deluxe) – CrossOver compatibility ratings
-[^ref-18]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – retail availability, difficulty progression
+## 

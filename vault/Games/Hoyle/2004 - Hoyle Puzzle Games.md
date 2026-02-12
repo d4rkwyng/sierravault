@@ -215,30 +215,7 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 - http://www.hoylegames.com (historical)[^ref-10]
 
 ## See Also
-
-Hoyle Puzzle Games 2004 continues the long-running Hoyle game series, which Sierra had been publishing since the late 1980s with titles covering cards, board games, casino games, and puzzles[^ref-6]. The 2004 edition built upon Hoyle Puzzle Games 2003 with new games and refinements[^ref-4].
-
-- **Previous:** [[2002 - Hoyle Puzzle Games]]
-- **Next:** [[2005 - Hoyle Puzzle and Board Games]]
-
-The game is documented in gaming databases.[^ref-15][^ref-16][^ref-17][^ref-18][^ref-19]
 - [[2004 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Table Games|→ Next: Hoyle Table Games]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Puzzle Games 2004](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004) – release date, developer, publisher, user ratings, game description
-[^ref-6]: [Metacritic – Hoyle Puzzle Games 2004](https://www.metacritic.com/game/hoyle-puzzle-games-2004/details/) – release date, developer, publisher, official description
-[^ref-3]: [LaunchBox Games Database – Sierra Entertainment](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – release date, developer, publisher, community rating
-[^ref-4]: [Amazon.in – Hoyle Puzzle Games 2004](https://www.amazon.in/Hoyle-Puzzle-Games-2004-PC/dp/B000083JY1) – release date, publisher, platforms, features, customer reviews, compatibility issues
-[^ref-7]: [GameSpot – Hoyle Puzzle Games 2004 User Review](https://www.gamespot.com/hoyle-puzzle-games-2004/user-reviews/2200-350201/) – user review, game list, 2005 version comparison
-[^ref-8]: [GameSpy – Hoyle Puzzle Games 2004](http://pc.gamespy.com/pc/hoyle-puzzle-games-2004/) – publisher, ESRB rating, full game list, features
-[^ref-9]: [KHInsider – Hoyle Puzzle Games 2004 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/hoyle-puzzle-games-2004-gamerip-2003) – soundtrack information, developer, publisher
-[^ref-10]: [RAWG.io – Hoyle Puzzle Games 2004](https://rawg.io/games/hoyle-puzzle-games-2004) – release date, developer, publisher, rankings, website
-[^ref-11]: [HAT.net – Hoyle Puzzle Games 2004](http://www.hat.net/gadgets////computer_and_video_games.pc_games.classic_games_and_retro_arcade.board_games/hoyle_puzzle_games_2004/) – release date, sales rank, CD requirement
-[^ref-12]: [PCReview Forums – Hoyle Puzzle Games 2004](https://www.pcreview.co.uk/threads/hoyle-puzzle-games-2004.510229/) – technical issues, compatibility problems, troubleshooting
-[^ref-13]: [Best Buy – Hoyle Puzzle Games 2004](https://www.bestbuy.com/site/hoyle-puzzle-games-2004-windows/5884457.p?skuId=5884457) – retail availability, platform[^ref-15]: [Giant Bomb - Hoyle Puzzle](https://www.giantbomb.com/) - wiki
-[^ref-16]: [IGDB - Hoyle Puzzle](https://www.igdb.com/) - IGDB
-[^ref-17]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
-[^ref-18]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
-[^ref-19]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List
+## 

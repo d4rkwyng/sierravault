@@ -195,29 +195,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 - [Lemon Amiga Manual Documentation](https://www.lemonamiga.com/games/docs.php?id=114)
 
 ## See Also
-
-Asterix: Operation Getafix was part of Coktel Vision's series of Asterix game adaptations, though it stands as a relatively standalone title within the broader franchise of Asterix video games. The game's plot draws from elements of the 1989 animated film "Astérix et le coup du menhir," which combined story elements from two comic albums[^ref-13]. While numerous Asterix games have been produced by various developers over the years, Operation Getafix represents Coktel Vision's particular approach to the license, emphasizing adventure game mechanics alongside action platforming[^ref-3].
-
-The game shares thematic connections with other Coktel Vision adaptations of French comic properties, including their Blueberry and Lucky Luke games[^ref-3]. For Asterix specifically, the game features familiar characters including Obelix, Chief Vitalstatistix, the bard Cacofonix, and the soothsayer Prolix, all drawn from the established comic universe[^ref-5].
 - [[1988 - African Raiders-01|← Previous: African Raiders-01]]
 - [[1989 - ESS - European Space Simulator|→ Next: ESS - European Space Simulator]]
 
-## References
-
-[^ref-1]: [MobyGames – Asterix: Operation Getafix](https://www.mobygames.com/game/4926/asterix-operation-getafix/) – credits, platforms, ratings, alternate titles
-[^ref-2]: [GameFAQs – Asterix: Operation Getafix](https://gamefaqs.gamespot.com/pc/937410-asterix-operation-getafix) – plot description, user ratings, film inspiration
-[^ref-3]: [Adventure Gamer – Missed Classic 29: Asterix Operation Getafix](https://advgamer.blogspot.com/2016/09/missed-classic-29-asterix-operation.html) – development context, gameplay mechanics, controls
-[^ref-4]: [Abandonware DOS – Asterix: Operation Getafix](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Asterix:+Operation+Getafix&gid=2639) – review quotes, user ratings, genre tags
-[^ref-5]: [Lemon Amiga – Game Manual Documentation](https://www.lemonamiga.com/games/docs.php?id=114) – story details, gameplay mechanics, character descriptions
-[^ref-6]: [Games Nostalgia – Asterix: Operation Getafix](https://gamesnostalgia.com/game/asterix-operation-getafix) – review, technical specs, platform releases
-[^ref-7]: [MyAbandonware – Asterix: Operation Getafix](https://www.myabandonware.com/game/asterix-operation-getafix-ld) – HOTUD review, technical specifications, alternate names
-[^ref-8]: [Lemon Amiga – Asterix: Operation Getafix](https://www.lemonamiga.com/games/details.php?id=1377) – credits, magazine reviews, user comments
-[^ref-9]: [GameFAQs – Asterix SMS Walkthrough](https://gamefaqs.gamespot.com/sms/588034-asterix/faqs/72623) – story background, game intro text
-[^ref-10]: [Metacritic – Asterix: Operation Getafix](https://www.metacritic.com/game/asterix-operation-getafix/) – game summary description
-[^ref-11]: [Play Classic Games – Asterix: Operation Getafix](https://playclassic.games/games/action-adventure-dos-games-online/play-asterix-operation-getafix-online/) – gameplay description
-[^ref-12]: [Amiga Magazine Rack – Review Archive](https://amr.abime.net/review_8960) – contemporary magazine scores, reviewers, publication dates
-[^ref-13]: [TV Tropes – Asterix and the Big Fight (1989)](https://tvtropes.org/pmwiki/pmwiki.php/WesternAnimation/AsterixAndTheBigFight1989) – film adaptation details, alternate titles
-[^ref-14]: [Hardcore Gaming 101 – Asterix and the Great Rescue](http://www.hardcoregaming101.net/asterix-and-the-great-rescue/) – comparative analysis, music commentary
-[^ref-15]: [Internet Archive – Asterix Operation Getafix](https://archive.org/details/001520-AsterixOperationGetafix) – preservation record, media specifications
-[^ref-16]: [MyAbandonware – Online Play](https://www.myabandonware.com/game/asterix-operation-getafix-ld/play-ld) – emulation warnings, version availability
-[^ref-17]: [GameSpot – Asterix: Operation Getafix](https://www.gamespot.com/games/asterix-operation-getafix/cheats/) – publisher information
+## 

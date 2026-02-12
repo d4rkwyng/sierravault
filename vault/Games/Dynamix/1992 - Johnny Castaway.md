@@ -155,29 +155,9 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 *Last updated: 2026-02-12*
 
 ## See Also
-
 - [[1992 - The Incredible Machine]] – Developed concurrently at JTP
 - [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
 - [[Jeff Tunnell]] – Producer and concept creator
 - [[Dynamix]] – Development studio
 
-## References
-
-[^ref-1]: ["Johnny Castaway."](https://en.wikipedia.org/wiki/Johnny_Castaway) Wikipedia.
-[^ref-2]: Trivette, Donald B. ["After Hours: Screen Savers: DYNAMIX Johnny Castaway."](https://books.google.com/books?id=SZtn0ArSohkC&pg=PA450) *PC Mag*, March 30, 1993, p. 450.
-[^ref-3]: ["Johnny Castaway Common Questions."](https://jefftunnell.com/johnny-castaway-common-questions/) Jeff Tunnell, Game Maker.
-[^ref-4]: Emrich, Alan; Wilson, Johnny L. ["The Misadventures of Johnny Castaway."](http://www.cgwmuseum.org/galleries/index.php?year=1993&pub=2&id=102) *Computer Gaming World*, January 1993, p. 16.
-[^ref-5]: ["Johnny Castaway Screensaver for Windows."](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) Screensavers Planet.
-[^ref-6]: Ishai, Miki. ["The tale of Johnny Castaway: the legendary screensaver from the 90s."](https://uxdesign.cc/the-tale-of-johnny-castaway-the-legendary-screensaver-from-the-90s-a75f6081f990) *UX Collective*, June 14, 2020.
-[^ref-7]: ["Johnny Castaway – no Johnny is an island (1992)."](https://genesistemple.com/johnny-castaway-no-johnny-is-an-island) The Genesis Temple.
-[^ref-8]: ["Johnny Castaway (screensaver)."](https://dynamix.fandom.com/wiki/Johnny_Castaway_%28screensaver%29) Dynamix Wiki.
-[^ref-9]: ["Sierra FTP – Demos."](https://web.archive.org/web/19991005070519/http://www.sierra.com/demos/preview/0%2C1690%2C103%2C00.html) Sierra On-Line (archived October 5, 1999).
-[^ref-10]: Jong, Philip. ["Ken Williams (Interview)."](http://www.adventureclassicgaming.com/index.php/site/interviews/197/) Adventure Classic Gaming.
-[^ref-11]: ["Missed Classic: Johnny Castaway (1992)."](https://advgamer.blogspot.com/2024/04/missed-classic-johnny-castaway-1992.html) The Adventurers' Guild.
-[^ref-12]: ["Johnny Castaway!!"](https://www.sierragamers.com/forums/topic/johnny-castaway/) Sierra Gamers Forum.
-[^ref-13]: ["Family Fun Pack (1992)."](https://www.mobygames.com/game/21229/family-fun-pack/) MobyGames.
-[^ref-14]: ["Shawn Bird."](https://dynamix.fandom.com/wiki/Shawn_Bird) Dynamix Wiki.
-[^ref-15]: ["Johnny Castaway – Sierra's Biggest Hidden Gem?"](https://www.reddit.com/r/Sierra/comments/1mc4ahl/johnny_castaway_sierras_biggest_hidden_gem/) Reddit r/Sierra.
-[^ref-16]: xesf. ["Castaway – Johnny Castaway Screensaver Reimplementation."](https://github.com/xesf/castaway) GitHub.
-[^ref-17]: ["The Adventures of Johnny Castaway."](https://archive.org/details/johnny-castaway-screensaver) Internet Archive.
-[^ref-18]: ["Johnny Castaway: Classic Windows Screensaver: 1992: How It Ends!"](https://www.youtube.com/watch?v=YkWx4kRcZsA) YouTube.
+## 

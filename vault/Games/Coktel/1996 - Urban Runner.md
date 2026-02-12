@@ -215,35 +215,6 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 - [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough and technical support[^ref-15]
 
 ## See Also
-
-Urban Runner was conceived as a spiritual sequel to Lost in Time (1993), originally titled "Lost in Town" to maintain the naming convention of an intended "Lost in..." series.[^ref-4] While not a direct narrative sequel, the game shared Coktel Vision's approach to FMV adventure gaming and was marketed as part of the same creative lineage. Sierra's acquisition of Coktel Vision during development led to the name change and the abandonment of the planned series branding.[^ref-20]
-
-The game represents Coktel Vision's final major FMV production before the studio's subsequent acquisition by Mindscape, marking the end of an era for the French developer's adventure game output.[^ref-7]
-
-- **Previous:** [[1993 - Lost in Time]] (spiritual predecessor)
 - [[1995 - The Last Dynasty|← Previous: The Last Dynasty]]
 
-## References
-
-[^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details
-[^ref-3]: [GameFAQs – Urban Runner](https://gamefaqs.gamespot.com/pc/565291-urban-runner) – game description, interactive movie details
-[^ref-4]: [GameSpot User Review](https://www.gamespot.com/urban-runner/user-reviews/2200-91441/) – original title, spiritual sequel info, tagline
-[^ref-5]: [Collection Chamber – Urban Runner](https://collectionchamber.blogspot.com/2020/08/urban-runner.html) – technical presentation, ScummVM support, critical assessment
-[^ref-6]: [Les Echos (Archive.today)](https://archive.today/20180717184424/https://www.lesechos.fr/20/12/1995/LesEchos/17048-126-ECH_course-au-realisme-chez-les-editeurs.htm) – budget, development time, team size
-[^ref-7]: [The Cutting Room Floor – Urban Runner](https://tcrf.net/Urban_Runner) – cut content, sales performance, version differences
-[^ref-8]: [MyAbandonware – Urban Runner](https://www.myabandonware.com/game/urban-runner-f09) – language versions, user rating, retrogaming popularity
-[^ref-9]: [IMDB – Urban Runner](https://www.imdb.com/title/tt0207181/) – cast, designers, technical specs, rating
-[^ref-10]: [PCGamingWiki – Urban Runner](https://www.pcgamingwiki.com/wiki/Urban_Runner) – engine, system requirements, technical specifications
-[^ref-11]: [Alex Bevilacqua Blog – Urban Runner](https://alexbevi.com/blog/2023/02/15/urban-runner/) – plot summary, acting critique, actor background
-[^ref-12]: [Sierra Chest – Urban Runner Walkthrough](https://www.sierrachest.com/index.php?a=games&id=181&title=urban-runner-lost-in-town&fld=walkthrough&pid=130) – storyline details, character names, puzzle information
-[^ref-13]: [The Spoiler – Urban Runner Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/urban.runner.1.html) – hint system, multiple endings, difficulty assessment
-[^ref-14]: [OldGames.sk – Urban Runner](https://www.oldgames.sk/en/game/urban-runner/download/4796/) – game structure, Clue/Action turns, rating
-[^ref-15]: [Sierra Help – Urban Runner Walkthrough](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – gameplay guidance, save advice
-[^ref-16]: [Adventure Gamers – Urban Runner](https://adventuregamers.com/games/view/16680) – review score, system requirements, gameplay assessment
-[^ref-17]: [APKPure – Urban Runner](https://m.apkpure.com/urban-runner/com.puregames.urbanrunner) – gameplay mechanics description (unrelated Android game)
-[^ref-18]: [TV Tropes – Urban Runner](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/UrbanRunner) – hardware requirements, B-movie aesthetic, graphics specifications
-[^ref-19]: [VGTimes – Urban Runner](https://vgtimes.com/games/urban-runner/) – alternative titles, rating, genre classification
-[^ref-20]: [MobyGames Archive (Web Archive)](https://web.archive.org/web/20160303203136/http://www.mobygames.com/game/dos/urban-runner/) – Sierra acquisition, development history
-[^ref-21]: [Internet Archive – Urban Runner Europe](https://archive.org/details/urbanrunnereurope) – game description, file size, preservation
-[^ref-22]: [GameFAQs – Urban Runner FAQ](https://gamefaqs.gamespot.com/pc/565291-urban-runner/faqs/2293) – save game bug, walkthrough notes
-[^ref-23]: [GOG Dreamlist – Urban Runner](https://www.gog.com/dreamlist) – cuddly toy trivia, user commentary
+## 

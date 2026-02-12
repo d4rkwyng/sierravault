@@ -193,34 +193,7 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 - [GOG.com Dreamlist](https://www.gog.com/dreamlist) – Currently requested by community[^ref-7]
 
 ## See Also
-
-Sierra Pro Pilot 98 launched the Pro Pilot civilian flight simulation series for Sierra On-Line. The game established the franchise's focus on realistic flight training and accurate instrumentation, themes that would continue through subsequent releases. The commercial success of the initial title, despite mixed reviews, justified rapid expansion of the series with two follow-up products released within the same year.
-
-- **Next:** [[1998 - Sierra Pro Pilot '99]]
 - [[1997 - Sierra Pro Pilot 98|← Previous: Sierra Pro Pilot 98]]
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
 
-## References
-
-[^ref-1]: [Internet Archive – Sierra Pro Pilot 98](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) – release date, developer, publisher, archive metadata
-[^ref-2]: [Wikipedia – Sierra Pro Pilot 98](https://en.wikipedia.org/wiki/Sierra_Pro_Pilot_98%3A_The_Complete_Flight_Simulator) – sales data, review scores, version information
-[^ref-3]: [Dynamix Press Release (Wayback Machine)](https://web.archive.org/web/19980627112336/http://www.dynamix.com/pr/pp-pr.html) – marketing claims, technical specifications, aircraft list
-[^ref-5]: [GameSpot – Pro Pilot Preview](https://www.gamespot.com/articles/pro-pilot-preview/1100-2560487/) – development background, competitive positioning
-[^ref-6]: [GameSpot – Pro Pilot '99 Review](https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – review scores, technical analysis, flight model issues
-[^ref-7]: [GOG.com – Pro Pilot 98 Wishlist](https://www.gog.com/dreamlist) – game description, features
-[^ref-8]: [GameSpot – Pro Pilot Review (Wayback Machine)](https://web.archive.org/web/20161108022053/https://www.gamespot.com/reviews/pro-pilot-review/1900-2545909/) – initial release review, bug count, GPS feature
-[^ref-9]: [IGN – Pro Pilot '99 Review (Wayback Machine)](https://web.archive.org/web/20020611073421/http://pc.ign.com/articles/154/154019p1.html) – Pro Pilot '99 review, technical requirements
-[^ref-10]: [Sierra Press Release (Wayback Machine)](https://web.archive.org/web/19991005024949/http://www.sierra.com:80/corp/mr/release/0,2760,91,00.html) – Pro Pilot USA details, Kate Kloos quote
-[^ref-11]: [MobyGames – Sierra Pro Pilot 98](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/) – development credits, technical specifications, trivia
-[^ref-12]: [MobyGames – Pro Pilot 98 Specs](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/specs/) – system requirements, ratings
-[^ref-13]: [Backloggd – Sierra Pro Pilot 98](https://www.backloggd.com/games/sierra-pro-pilot-98-the-complete-flight-simulator/) – aircraft list, features
-[^ref-14]: [Old PC Gaming – Pro Pilot 98 Review](https://oldpcgaming.net/pro-pilot-98-review/) – manual criticism, system requirements
-[^ref-15]: [GameSpot – Pro Pilot '99 Review (Wayback Archive)](https://web.archive.org/web/20190609005648/https://www.gamespot.com/reviews/pro-pilot-99-review/1900-2545908/) – NAFI cooperation, tutorial features
-[^ref-16]: [PC Joker Magazine (Archive.org)](https://archive.org/details/PCJoker199809/page/n89/mode/2up) – German review coverage
-[^ref-17]: [MyAbandonware – Sierra Pro Pilot 98](https://www.myabandonware.com/game/sierra-pro-pilot-98-the-complete-flight-simulator-gxy) – user ratings, patch versions
-[^ref-18]: [MobyGames – Pro Pilot 98 Reviews](https://www.mobygames.com/game/58186/sierra-pro-pilot-98-the-complete-flight-simulator/reviews/) – aggregate scores
-[^ref-19]: [IGN News Brief (Wayback Archive)](https://web.archive.org/web/20220723203447/https://www.ign.com/articles/1998/10/03/news-briefs-301) – Pro Pilot USA pricing
-[^ref-20]: [VGChartz – Sierra Pro Pilot 98](https://www.vgchartz.com/game/231766/sierra-pro-pilot-98-the-complete-flight-simulator/) – sales data
-[^ref-21]: [Wikidata – Q29962139](https://www.wikidata.org/wiki/Q29962139) – sales figures, ESRB rating
-[^ref-22]: [Retrolorean – Sierra Pro Pilot 98](https://www.retrolorean.com/en/sierra-pro-pilot-98-the-complete-flight-simulator-24807) – aircraft specifications, regional releases
-[^ref-23]: [Kotaku – Sierra Pro Pilot 98](https://kotaku.com/games/sierra-pro-pilot-98-the-complete-flight-simulator/gallery) – game overview
+## 

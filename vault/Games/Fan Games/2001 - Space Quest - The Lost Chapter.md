@@ -228,47 +228,9 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Walkthrough King](https://www.walkthroughking.com/text/spacequestlostchapter.aspx)
 
 ## See Also
-
-Space Quest: The Lost Chapter serves as an unofficial bridge between two official Sierra releases. The game opens with a seamless transition from the ending of Space Quest II, where Roger Wilco escapes Vohaul's asteroid in a cryogenic sleep pod[^ref-8]. The narrative concludes by positioning Roger exactly where he needs to be for the opening of Space Quest III, where he is discovered floating in space by a garbage freighter[^ref-8].
-
-The game also addresses several continuity questions that the official series left unanswered, including the mystery of Roger's changing hair color between games[^ref-3]. While the official Space Quest timeline simply ignores these inconsistencies, The Lost Chapter attempts to provide in-universe explanations that tie the series together more coherently.
-
-As a fan game, The Lost Chapter is explicitly marked as non-canon by fan documentation: "The information from this article is from a fan game or fan fiction and is therefore not canon"[^ref-3]. Nevertheless, it represents an earnest attempt to fill a gap in the beloved series' narrative.
-
 - **Previous (Official):** [[1987 - Space Quest II - Vohaul's Revenge]]
 - **Next (Official):** [[1989 - Space Quest III - The Pirates of Pestulon]]
 - [[2001 - King's Quest I VGA Remake|← Previous: King's Quest I VGA Remake]]
 - [[2002 - King's Quest II+ - Romancing the Stones|→ Next: King's Quest II+ - Romancing the Stones]]
 
-## References
-
-[^ref-1]: [Internet Archive – Space Quest: The Lost Chapter (AGI)](https://archive.org/details/agi_space-quest-x-the-lost-chapter) – release date, engine, graphics style, death system, game description
-[^ref-2]: [MobyGames – Space Quest: The Lost Chapter](https://www.mobygames.com/game/54958/space-quest-the-lost-chapter/) – developer name, release date, ratings, technical specifications, trivia
-[^ref-3]: [Space Quest Omnipedia – Space Quest: The Lost Chapter](https://spacequest.fandom.com/wiki/Space_Quest:_The_Lost_Chapter) – release date, developer, engine, system requirements, fan community impact, hair color explanation, canon status
-[^ref-4]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quote on "fun death" design philosophy
-[^ref-5]: [DOS Games Archive – Space Quest: The Lost Chapter](https://www.dosgamesarchive.com/download/space-quest-the-lost-chapter) – developer, engine, platform, file sizes, game description
-[^ref-6]: [MyAbandonware – Space Quest: The Lost Chapter](https://www.myabandonware.com/game/space-quest-the-lost-chapter-c96) – HOTUD review quotes, ratings, version info, Roger appearance
-[^ref-7]: [OldGames.sk – Space Quest: The Lost Chapter](https://www.oldgames.sk/en/game/space-quest-the-lost-chapter/download/6920/) – DJ OldGames review quote, rating, publisher info
-[^ref-8]: [Walkthrough King – Space Quest: The Lost Chapter](https://www.walkthroughking.com/text/spacequestlostchapter.aspx) – game description, story continuity with SQ2 and SQ3
-[^ref-9]: [Internet Archive – Space Quest: The Lost Chapter (Windows)](https://archive.org/details/SpaceQuestTheLostChapter) – plot description, crash landing, view count
-[^ref-10]: [Free Game Empire – Space Quest: The Lost Chapter](https://www.freegameempire.com/games/Space-Quest-The-Lost-Chapter) – plot description, designer credit, release year
-[^ref-11]: [Reddit r/Sierra – Tentacle Maze Discussion](https://www.reddit.com/r/Sierra/comments/okc5tk/space_quest_the_lost_chapter_tentacle_maze_video/) – maze difficulty, fan creation praise
-[^ref-12]: [RomsFun – Space Quest: The Lost Chapter](https://romsfun.com/roms/ms-dos/space-quest-the-lost-chapter.html) – gameplay description, graphics info, ratings, file size
-[^ref-13]: [GameFAQs – Flashman85 Review](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter/reviews/125655) – negative review quotes, parser issues, inventory count, text errors, death message quote
-[^ref-14]: [MobyGames – Space Quest: The Lost Chapter Screenshots](https://www.mobygames.com/game/54958/space-quest-the-lost-chapter/screenshots/dos/735339/) – resolution, screenshot caption
-[^ref-15]: [Mokalus of Borg Walkthrough](https://www.wiw.org/~jess/tlchint.html) – maze difficulty quote
-[^ref-16]: [MobyGames – Space Quest III](https://www.mobygames.com/game/142/space-quest-iii-the-pirates-of-pestulon/) – LucasArts philosophy quote on player death
-[^ref-17]: [GameFAQs – ASchultz Walkthrough](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter/faqs/23519) – game analysis, AGI engine details, bugs, easter eggs, Graham Nelson reference
-[^ref-18]: [GameFAQs – Space Quest: The Lost Chapter](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter) – user ratings
-[^ref-19]: [Citizendium – Space Quest](https://citizendium.org/wiki/Space_Quest) – fan game creation after SQ7 cancellation, engine info
-[^ref-20]: [The Digital Antiquarian](https://www.filfre.net/?s=Space+Quest%3A+The+Lost+Chapter) – Scott Murphy layoff reference
-[^ref-21]: [Download.it – Stack Blown Patch](https://fileplanet.download.it/p-17313/Space-Quest-The-Lost-Chapter) – patch details, Windows compatibility fix
-[^ref-22]: [Space Quest Omnipedia – Fan Timeline](https://spacequest.fandom.com/wiki/Fan_timeline) – fan timeline documentation, alternate universe theories
-[^ref-23]: [UHS Hints – Space Quest: The Lost Chapter](https://www.uhs-hints.com/uhsweb/sqtlc.php) – hint system availability
-[^ref-24]: [IMDB – Space Quest: The Lost Chapter](https://www.imdb.com/title/tt15478816/) – release date, country of origin, genre classification
-[^ref-25]: [Reddit r/adventuregames – Tentacle Maze](https://www.reddit.com/r/adventuregames/comments/okc3oy/space_quest_the_lost_chapter_tentacle_maze/) – fan creation confirmation
-[^ref-26]: [Space Quest Omnipedia – History](https://spacequest.fandom.com/wiki/The_Space_Quest_History) – Scott Murphy quotes, Mark Crowe quotes, series design philosophy
-[^ref-27]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Space+Quest%3A+The+Lost+Chapter) – release date confirmation
-[^ref-28]: [OldGames.sk – Space Quest I](https://www.oldgames.sk/en/game/space-quest-the-sarien-encounter/download/784/) – AGI engine context, Roger Wilco character description
-[^ref-29]: [PCGamingWiki – Space Quest I](https://www.pcgamingwiki.com/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter) – AGI engine technical details
-[^ref-30]: [Old Games Download](https://oldgamesdownload.com/space-quest-the-lost-chapter/) – file size, platform confirmation
+## 

@@ -201,36 +201,5 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 
 ## See Also
 
-Into the Fire was intended as Sierra's sole Babylon 5 gaming venture, though the franchise had seen previous gaming adaptations from other publishers. The game was designed to be accessible to newcomers while providing authentic content for series devotees[^ref-3]. Its timeline placement between the main series and Crusade would have expanded the canonical story of the Babylon 5 universe.
 
-The cancellation left the Babylon 5 franchise without an official space combat game, a gap that fan projects like The Babylon Project mod for FreeSpace have attempted to fill[^ref-7].
-
-## References
-
-[^ref-1]: [Abandonware France – Babylon 5: Into the Fire](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2287) – development history, technical specifications, cancellation details, trivia
-
-[^ref-2]: [Babylon 5 Fandom Wiki – Into the Fire](https://babylon5.fandom.com/wiki/Babylon_5:_Into_the_Fire_(Game)) – voice cast, composers, FMV production details, JMS quotes, storyline
-
-[^ref-3]: [IGN – Babylon 5: Into the Fire Preview (May 15, 1999)](https://www.ign.com/articles/1999/05/15/babylon-5-into-the-fire) – hands-on impressions, technical specifications, release date information
-
-[^ref-4]: [Unseen64 – Babylon 5: Into the Fire (Cancelled)](https://www.unseen64.net/2010/11/12/babylon-5-into-the-fire-pc-cancelled/) – cancellation details, E3/GenCon demonstrations, multiplayer information
-
-[^ref-5]: [Springbringer – Babylon 5: Into the Fire Blog](https://www.springbringer.com/web/fantasya/blog1.html) – promotional materials, alpha release information, Christopher Franke music details
-
-[^ref-6]: [Frontier Forums – Babylon 5: Into the Fire Discussion](https://forums.frontier.co.uk/threads/babylon-5-into-the-fire-abandoned-1999-space-game.61329/) – fan recollections, voice recording details, cast information
-
-[^ref-7]: [My Abandonware – Babylon 5: Into the Fire](https://www.myabandonware.com/game/babylon-5-into-the-fire-cky) – download information, user ratings, version details
-
-[^ref-8]: [X-Bomber – Babylon 5: Into the Fire Archive](https://www.xbomber.co.uk/?dir=Other/Games%20-%20Babylon%205%20Into%20the%20Fire) – soundtrack information, alpha downloads
-
-[^ref-9]: [The Digital Antiquarian – Space Sims Comments](https://www.filfre.net/2025/11/the-space-sims-last-hurrah/) – technical requirements for running demo
-
-[^ref-10]: [B5TV Forums – Into the Fire Discussion](https://www.b5tv.com/threads/into-the-fire-aborted-video-game.42560/) – Suanne Brown voice acting details, completion status
-
-[^ref-11]: [Abandonware DOS – Babylon 5 Games Search](https://www.abandonwaredos.com/search.php?search=Babylon+5%3A+Into+the+Fire) – reference to fan-made alternative
-
-[^ref-12]: [GOG Dreamlist – Babylon 5: Into the Fire](https://www.gog.com/dreamlist) – user descriptions, development summary
-
-[^ref-13]: [IGN – Babylon 5: Into the Fire Database](https://www.ign.com/games/babylon-5-into-the-fire) – cancellation news reference
-
-[^ref-14]: [SpaceBattles Forums – Source Code Discussion](https://forums.spacebattles.com/threads/babylon-5-into-the-fire-source-code-engine-released.53794/) – community discussion of alleged source code release
+## 

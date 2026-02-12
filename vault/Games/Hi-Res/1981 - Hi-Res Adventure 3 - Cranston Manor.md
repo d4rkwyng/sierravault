@@ -177,45 +177,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
 ## See Also
-
-Cranston Manor is the third numbered entry in Sierra's Hi-Res Adventure series, a collection of early graphical adventure games that helped establish the company as a leader in the genre[^ref-8]. The series would eventually encompass seven titles, released between 1980 and 1982[^ref-1]. While most games in the series were designed by Roberta Williams, Cranston Manor stands out as the first to feature different designers, demonstrating the company's expanding development capacity[^ref-2].
-
-The Hi-Res Adventures laid the groundwork for Sierra's future success with the King's Quest series and other adventure game franchises. The lessons learned in developing these early titles—from parser design to graphics integration—informed the company's approach to adventure game development for decades to come[^ref-4][^ref-8].
-
-- **Previous:** [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
-- **Next:** [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 - [[1980 - Hi-Res Soccer|← Previous: Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|→ Next: Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 
-## References
-
-[^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information
-[^ref-2]: [Sierra Chest – Cranston Manor](https://sierrachest.com/index.php?a=games&id=196&fld=general) – development details, designers, engine, packaging versions, story background
-[^ref-3]: [MobyGames – Hi-Res Adventure #3: Cranston Manor](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/) – release dates, platforms, publishers, ratings, game description
-[^ref-4]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/reviews/) – technical specifications, gameplay analysis, historical context
-[^ref-5]: [Sierra Gamers – Cranston Manor](https://www.sierragamers.com/cranston-manor/) – gameplay mechanics, mode switching, treasure hunt objective
-[^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – DOS compatibility, physical media information, development location
-[^ref-7]: [Sierra Chest – Cranston Manor Walkthrough](https://sierrachest.com/index.php?a=games&id=196&fld=walkthrough) – parser system, save slots, text display specifications
-[^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, series context
-[^ref-9]: [MyAbandonware – Hi-Res Adventure #3: Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1) – file sizes, platform versions, release regions
-[^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival preservation, media format
-[^ref-11]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – original catalog documentation
-[^ref-12]: [Internet Archive – ScummVM 2.0.0 Release](https://archive.org/details/scummvm-2.0.0) – modern compatibility support, release date
-[^ref-13]: [Hi-Res Adventure Fandom Wiki](https://hiresadventure.fandom.com/wiki/Hi-Res_Adventure) – series overview, Roberta Williams involvement
-[^ref-14]: [Sierra Fandom Wiki – Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – series history, designer information
-[^ref-15]: [Sierra Fandom Wiki – Cranston Manor](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor) – game overview, series positioning
-[^ref-16]: [Old Games Download – Cranston Manor](https://oldgamesdownload.com/hi-res-adventure-3-cranston-manor/) – file sizes, platform availability
-[^ref-17]: [Sierra Fandom Wiki – Cranston Manor Development](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Development) – development context
-[^ref-18]: [Sierra Fandom Wiki – Cranston Manor Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Trivia) – series numbering
-[^ref-19]: [Sierra Fandom Wiki – Cranston Manor Characters](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Characters) – character information
-[^ref-20]: [Sierra Fandom Wiki – Cranston Manor Items](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Items) – gameplay elements
-[^ref-21]: [Sierra Fandom Wiki – Cranston Manor Locations](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Locations) – game setting
-[^ref-22]: [Sierra Gamers Updates](https://www.sierragamers.com/updates/) – archive documentation
-[^ref-23]: [MobyGames User Review #2564970](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/user-review/2564970/) – detailed user perspective
-[^ref-24]: [Sierra Chest – Walkthrough Detail](https://www.sierrachest.com/index.php?a=games&id=196&title=cranston-manor&fld=walkthrough&pid=100) – version information
-[^ref-25]: [Sierra Fandom Wiki – Cranston Manor Walkthrough](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Walkthrough) – gameplay guidance
-[^ref-26]: [Sierra Fandom Wiki – Cranston Manor Behind the Scenes](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Behind_the_scenes) – production context
-[^ref-27]: [Sierra Fandom Wiki – Cranston Manor Music](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Music) – audio information
-[^ref-28]: [Sierra Fandom Wiki – Cranston Manor Unused Content](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Unused_content) – cut content research
-[^ref-29]: [Sierra Chest – Screenshots](https://www.sierrachest.com/index.php?a=g&id=196&fld=s&gconf=1) – visual documentation, development details
-[^ref-30]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Hi-Res+Adventure+%233%3A+Cranston+Manor) – alternative title confirmation
+## 

@@ -242,45 +242,7 @@ The game's legacy is preserved through digital distribution on platforms like GO
 - [Ground Control Fandom Wiki](https://groundcontrol.fandom.com/wiki/Ground_Control:_Dark_Conspiracy)
 
 ## See Also
-
-Ground Control: Dark Conspiracy serves as a direct narrative sequel to the original Ground Control, picking up immediately after the conclusion of Major Sarah Parker's campaign. The expansion introduces the Phoenix Mercenaries faction, which would not appear in subsequent games. The story ends on a cliffhanger, leaving several plot threads unresolved.
-
-The franchise would continue with Ground Control II: Operation Exodus in 2004, though that game jumps forward to the year 2741 and features a new protagonist, Captain Jacob Angelus of the Northern Star Alliance (NSA), fighting against the Terran Empire and an alien race called the Virons[^ref-28]. The significant timeline gap means Dark Conspiracy's narrative connections to the sequel are primarily thematic rather than directly continuous.
-
-- **Previous:** [[2000 - Ground Control]]
-- **Next:** [[2004 - Ground Control II - Operation Exodus]]
 - [[2000 - Ground Control|← Previous: Ground Control]]
 - [[2004 - Ground Control II - Operation Exodus|→ Next: Ground Control II - Operation Exodus]]
 
-## References
-
-[^ref-1]: [Wikipedia – Ground Control: Dark Conspiracy](https://en.wikipedia.org/wiki/Ground_Control%3A_Dark_Conspiracy) – release dates, developers, publishers, overview
-[^ref-2]: [Metacritic – Ground Control: Dark Conspiracy](https://www.metacritic.com/game/ground-control-dark-conspiracy/) – game summary, ratings
-[^ref-3]: [GOG.com – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – game description, technical requirements, PEGI rating
-[^ref-4]: [GameSpot – Ground Control: Dark Conspiracy For Free](https://web.archive.org/web/20170809000409/https://www.gamespot.com/articles/ground-control-dark-conspiracy-for-free/1100-2642129/) – distribution strategy, pricing
-[^ref-5]: [GameSpot News Article](https://web.archive.org/web/20020221114621/http://gamespot.com/gamespot/stories/news/0,10870,2660313,00.html) – expansion bundling announcement
-[^ref-6]: [IGN – Ground Control: Dark Conspiracy Review](https://www.ign.com/articles/2001/01/18/ground-control-dark-conspiracy) – review scores, gameplay analysis, technical issues
-[^ref-7]: [GameSpot – Dark Conspiracy Announced](https://web.archive.org/web/20170809000446/https://www.gamespot.com/articles/ground-control-dark-conspiracy-announced/1100-2622680/) – expansion features, mission count
-[^ref-8]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – gameplay mechanics description
-[^ref-9]: [MobyGames – Ground Control: Dark Conspiracy Credits](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/credits/windows/) – development credits, composer, trivia
-[^ref-10]: [UVList – Ground Control: Dark Conspiracy](https://www.uvlist.net/game-171043-Ground+Control+Dark+Conspiracy) – technical specs, international reviews
-[^ref-11]: [Old-Games.com – Ground Control: Dark Conspiracy](https://www.old-games.com/download/6548/ground-control-dark-conspiracy) – development details, story context
-[^ref-12]: [GameFAQs – Ground Control: Dark Conspiracy FAQs](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy/faqs/18551) – faction information, version history
-[^ref-13]: [GameFAQs – Ground Control: Dark Conspiracy](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy) – user ratings, game length
-[^ref-14]: [Neoseeker – Ground Control: Dark Conspiracy](https://www.neoseeker.com/groundcontroldc/) – Phoenix Mercenaries faction details
-[^ref-15]: [Gamepressure – Ground Control: Dark Conspiracy](https://www.gamepressure.com/games/ground-control-dark-conspiracy/zcccf) – faction information
-[^ref-24]: [Gamicus Fandom – Ground Control: Dark Conspiracy](https://gamicus.fandom.com/wiki/Ground_Control:_Dark_Conspiracy) – plot synopsis
-[^ref-17]: [Ground Control Fandom Wiki](https://groundcontrol.fandom.com/wiki/Ground_Control:_Dark_Conspiracy) – Blur Studio cutscenes, plot details
-[^ref-18]: [GameSpot Review (Archived)](https://web.archive.org/web/20180426075817/https://www.gamespot.com/reviews/ground-control-dark-conspiracy-review/1900-2671583/) – Greg Kasavin review, gameplay mechanics
-[^ref-20]: [GameZone Review (Archived)](https://web.archive.org/web/20090723093439/http://pc.gamezone.com/gzreviews/r16008.htm) – Michael Lafferty review, technical requirements
-[^ref-21]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/ground-control-dark-conspiracy/critic-reviews/?platform=pc) – aggregated review scores
-[^ref-22]: [MobyGames – Ground Control: Anthology](https://www.mobygames.com/game/13395/ground-control-anthology/) – anthology details, multiplayer info
-[^ref-23]: [Gamepressure – Ground Control](https://www.gamepressure.com/games/ground-control/zbcce) – system requirements
-[^ref-25]: [Steam Search Results](https://store.steampowered.com/search/?term=Ground+Control%3A+Dark+Conspiracy) – GOG release date
-[^ref-26]: [Behind The Voice Actors – Ground Control: Dark Conspiracy](https://www.behindthevoiceactors.com/video-games/ground-control-dark-conspiracy/) – voice cast, voice director
-[^ref-27]: [Wikidata – Ground Control: Dark Conspiracy](https://www.wikidata.org/wiki/Q3777147) – distribution information
-[^ref-28]: [ModDB – Ground Control II](https://www.moddb.com/games/ground-control-ii/downloads/ground-control-1-resolution-changer) – sequel information, modding community
-[^ref-29]: [MobyGames – Ground Control: Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – game overview, multiplayer details
-[^ref-30]: [RAWG.io – Ground Control: Dark Conspiracy](https://rawg.io/games/ground-control-dark-conspiracy) – basic game metadata
-[^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
-[^ref-32]: [FreeGOGPCGames – Ground Control Anthology](https://freegogpcgames.com/475/ground-control-anthology/) – narrative context, platform compatibility
+## 

@@ -253,25 +253,7 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 - [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/)[^ref-12]
 
 ## See Also
-
-Hoyle Official Casino Games Collection represents the final entry in the Hoyle Casino video game series, which spanned two decades from 1996 to 2016. The series transitioned from Sierra Entertainment's development (1996-2003) to Encore's stewardship (2005-2016), with the brand eventually being retired following the poor reception of this final release[^ref-1].
-
-The broader Hoyle gaming franchise includes the Hoyle Card Games series and the one-off business simulation Hoyle Casino Empire (2002)[^ref-1]. All share the Hoyle branding but offer distinct gameplay experiences ranging from card game collections to casino management.
-
-- **Previous:** [[2008 - Hoyle Casino]]
 - **Series Origin:** [[1996 - Hoyle Casino]]
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
 
-## References
-
-[^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer timeline, sales data, technical issues, spin-offs
-[^ref-2]: [MacGameStore – Hoyle Official Casino Games Collection](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – Mac release date, system requirements, publisher, features, compatibility
-[^ref-3]: [IGN – Hoyle Official Casino Games Collection 2016](https://www.ign.com/games/hoyle-official-casino-games-collection-2016) – publisher, game description, release date
-[^ref-4]: [Raijin.gg – Hoyle Official Casino Games Reviews](https://raijin.gg/app/532950/Hoyle_Official_Casino_Games/reviews) – Steam review statistics, sales data, platforms
-[^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – technical specifications, Steam App ID, availability status, system requirements
-[^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – developer, release date, user ratings
-[^ref-7]: [Steam Community Reviews – Hoyle Official Casino Games](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – user reviews, technical issues, cut content, AI complaints, update history
-[^ref-8]: [Steam Community – Hoyle Official Casino Games](https://steamcommunity.com/app/532950) – user discussions, interface complaints
-[^ref-9]: [Encore Forums – Hoyle Card Games Discussion](http://forums.encoreusa.com/tm.asp?m=43851) – Hoyle Bucks system, save file locations
-[^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
-[^ref-12]: [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/) – download statistics, languages, security status, developer credit
+## 

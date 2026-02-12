@@ -135,29 +135,7 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 - [Internet Archive](https://archive.org/details/BB98DML)
 
 ## See Also
-
-- **Previous:** Front Page Sports Baseball '94
-- **Next:** Series concluded with '98 edition
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
 
-## References
-
-[^ref-1]: [MobyGames](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – - Basic game information and development details
-[^ref-2]: [Wikipedia - Front Page Sports Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – - Release information and platform details
-[^ref-3]: [Web Archive - PC Gamer Review](https://web.archive.org/web/20000301165056/http://www.pcgamer.com/reviews/454.html) – - Game positioning comparison
-[^ref-4]: [Baseball is My Life](https://baseballismy.life/baseball-video-games/front-page-sports-baseball-pro/) – - Game description and features
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-baseball-pro-98-fz3) – - Platform information
-[^ref-6]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – - Career progression features
-[^ref-7]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-98-review/1900-2536100/) – - Management gameplay description
-[^ref-8]: [GM Games](https://gmgames.org/front-page-sports-football-fb-pro-98/) – - Interface improvements
-[^ref-9]: [Wikipedia - Front Page Sports Baseball](https://en.wikipedia.org/wiki/Front_Page_Sports_Baseball) – - Management features quote
-[^ref-10]: [Web Archive - GameCenter Review](https://web.archive.org/web/20000823115824/http://gamecenter.com/Reviews/Item/0,6,0-1033,00.html) – - Lance Elko review
-[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197399-front-page-sports-baseball-pro-98) – - User ratings
-[^ref-12]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-baseball-pro-98) – - User memories and assessment
-[^ref-13]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – - Development refinement details
-[^ref-14]: [The Junkyard Forums](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – - Loudmouth Studios background
-[^ref-15]: [Retro Replay](https://retro-replay.com/db/windows/front-page-sports-football-pro-98/) – - Voice cast information
-[^ref-16]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Community modifications
-[^ref-17]: [Web Archive - OGR News](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – - '98 version improvements
-[^ref-18]: [Old Games](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – - Historical significance assessment
+## 

@@ -222,35 +222,7 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 - Official rulebook included with game[^ref-1]
 
 ## See Also
-
-Hoyle Casino 2006 occupies a middle position in the long-running Hoyle Casino series, which began in 1996 and continued through at least 2016[^ref-4]. The series established an annual release pattern, with each new edition adding features and updating game content to reflect contemporary casino gaming trends[^ref-4]. The 2006 edition notably emphasized Texas Hold'em, capitalizing on the poker boom that was sweeping American popular culture during this period[^ref-1].
-
-The series' transition from Sierra Entertainment's direct publication to Encore Software's stewardship around 2005 marked a significant shift in the franchise's management[^ref-4]. Despite this change, the core Hoyle brand identity—emphasizing authentic rules and comprehensive instruction—remained consistent throughout[^ref-1][^ref-7]. The series would continue under Encore's management through multiple additional releases, demonstrating the enduring market appeal of the Hoyle casino gaming brand[^ref-4].
-
-- **Previous:** [[2005 - Hoyle Casino 3D]]
-- **Next:** [[2007 - Hoyle Casino]]
 - [[2005 - Hoyle Texas Hold Em|← Previous: Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006) – release date, developer, publisher, game content description, user rating
-
-[^ref-2]: [GameFAQs – Hoyle Casino 2006 Box Art](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006/boxes/69174) – US release date, developer, publisher confirmation
-
-[^ref-3]: [Metacritic – Hoyle Casino 2006](https://www.metacritic.com/game/hoyle-casino-2006/) – release date, developer, publisher, game content list, ESRB rating
-
-[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, version timeline, sales data, developer/publisher history, technical issues, trivia
-
-[^ref-5]: [Metacritic – Hoyle Casino 2006 Details](https://www.metacritic.com/game/hoyle-casino-2006/details/) – game variants count, casino game categories list
-
-[^ref-6]: [ESRB – Hoyle Casino 2006](https://www.esrb.org/ratings/20170/hoyle-casino-2006/) – official rating, content descriptors, publisher, platform
-
-[^ref-7]: [GameSpot – Hoyle Casino 2006 User Reviews](https://www.gamespot.com/hoyle-casino-2006/user-reviews/2200-2629/) – user review score, educational value assessment, pricing information
-
-[^ref-8]: [IGN – Hoyle Casino 2006](https://www.ign.com/games/hoyle-casino-2006/user-reviews) – alternate release date, publisher, rating status
-
-[^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related games in Hoyle series, similar casino games
-[^ref-10]: [MobyGames – Hoyle Casino 2006](https://www.mobygames.com/game/22695/hoyle-casino-2006/) – game database entry with technical details
-[^ref-11]: [Giant Bomb – Hoyle Casino 2006](https://www.giantbomb.com/hoyle-casino-2006/3030-39604/) – game wiki and community content
-[^ref-12]: [Encore Software – Official Site](https://www.encoreusa.com/) – publisher information and game catalog
+## 

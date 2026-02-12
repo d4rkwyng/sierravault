@@ -168,33 +168,7 @@ The series represented Sierra's most successful foray into sports gaming, with [
 - [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/)[^ref-10]
 
 ## See Also
-
-- **Previous:** [[1995 - Front Page Sports - Football Pro '96]]
-- **Next:** [[1997 - Front Page Sports - Football Pro '98]]
 - [[1996 - Front Page Sports - Baseball Pro '96|← Previous: Front Page Sports - Baseball Pro '96]]
 - [[1997 - Front Page Sports - Baseball Pro '98|→ Next: Front Page Sports - Baseball Pro '98]]
 
-## References
-
-[^ref-1]: [MobyGames - Front Page Sports Football Pro 97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) - Basic game information and release details
-[^ref-2]: [En-Academic Dictionary](https://en-academic.com/dic.nsf/enwiki/4856623) - Series history, Computer Gaming World ranking, awards
-[^ref-3]: [Wikipedia - Front Page Sports Football Pro '97](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2797) - GameSpot review score, Next Generation criticism
-[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-97-review/1900-2536082/) - Game description and features
-[^ref-5]: [KHInsider Soundtrack Archive](https://downloads.khinsider.com/game-soundtracks/album/front-page-sports-football-pro-97-msdos-windows-gamerip-1996) - Marketing description, music credits
-[^ref-6]: [GameSurge Strategy Guide](https://www.gamesurge.com/pc/strategy/pc_wt/Front.shtml) - Technical specifications and statistical tracking
-[^ref-7]: [TheComputerShow.com Preview](http://www.thecomputershow.com/computershow/previews/fpsfootballpro97.htm) - Motion capture and AI features, PC Gamer criticism
-[^ref-8]: [MobyGames - Front Page Sports Football Pro 96](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) - Engine and graphics information
-[^ref-9]: [ESRB Rating Page](https://www.esrb.org/ratings/2336/front-page-sports-football-pro-97/) - Platform information
-[^ref-10]: [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/) - Game description, review assessment
-[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564581-front-page-sports-football-pro-97) - Marketing description
-[^ref-12]: [NeverDieMedia Product Page](https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
-[^ref-13]: [MobyGames - Front Page Sports Football Pro 98](https://www.mobygames.com/game/41377/front-page-sports-football-pro-98/) - Game modes description
-[^ref-14]: [TheComputerShow.com Review](http://www.thecomputershow.com/computershow/reviews/fpsfootballpro97.htm) - Career mode features, multiple review scores
-[^ref-15]: [PC Gamer Review Archives] - Jason Bates review score
-[^ref-16]: [MyAbandonware Game Page](https://www.myabandonware.com/game/front-page-sports-football-pro-97-fz4) - User ratings
-[^ref-17]: [Download.cnet.com](https://download.cnet.com/) - User review quote
-[^ref-18]: [Steam Community Page](https://steamcommunity.com/app/316700) - Management gameplay description, user quote
-[^ref-19]: [Digital Antiquarian](https://www.filfre.net/) - Sierra development context
-[^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/) - Voice cast information
-[^ref-21]: [Archive.org Patch Notes](https://archive.org/details/FBP9711) - Technical issues and patches
-[^ref-22]: [IGN Game Page](https://www.ign.com/games/front-page-sports-football-pro-97) - Remake discussion reference
+## 

@@ -134,33 +134,7 @@ The series' influence can be seen in modern football management games, and its e
 - [Internet Archive Patches](https://archive.org/details/FBP9611)
 
 ## See Also
-
-- **Previous:** [[1992 - Front Page Sports Football 92]]
-- **Next:** [[1994 - Front Page Sports - Football Pro '95]]
 - [[1992 - Front Page Sports Football 92|← Previous: Front Page Sports Football 92]]
 - [[1994 - Front Page Sports - Baseball Pro|→ Next: Front Page Sports - Baseball Pro]]
 
-## References
-
-[^ref-1]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – - Release year and platform information
-[^ref-2]: [ClassicReload.com](https://classicreload.com/front-page-sports-football-pro.html) – - Game description and historical context
-[^ref-3]: [MobyGames](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – - Series positioning and improvements description
-[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports_Football_Pro) – - Online league functionality and features
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-3db) – - HOTUD review quote
-[^ref-6]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Front_Page_Sports:_Football_Pro) – - Computer Gaming World review quote
-[^ref-7]: [DOS Zone](https://dos.zone/front-page-sports-football-pro-1993/) – - Platform information
-[^ref-8]: [Downloads KHInsider](https://downloads.khinsider.com/game-soundtracks/album/front-page-sports-football-pro-98-windows-gamerip-1997) – - Game modes description
-[^ref-9]: [ESPN/GameSpot](https://www.espn.com/vgr/pc_fpsfbp98.html) – - Physics and AI description
-[^ref-10]: [GM Games](https://gmgames.org/front-page-sports-football-fb-pro-98/) – - Interface improvements
-[^ref-11]: [MobyGames](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) – - Career play marketing
-[^ref-12]: [GameSpot](https://www.gamespot.com/reviews/front-page-sports-football-pro-97-review/1900-2536082/) – - AI evaluation quirks
-[^ref-13]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – - Computer Gaming World award
-[^ref-14]: [GameSpot](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – - GameSpot review score
-[^ref-15]: [Home of the Underdogs](https://homeoftheunderdogs.net/game.php?id=3937) – - Retrospective review score
-[^ref-16]: [Digital Antiquarian](https://www.filfre.net/?s=Front+Page+Sports%3A+Football+Pro) – - Dynamix consistency quote
-[^ref-17]: [GameSurge](https://www.gamesurge.com/pc/strategy/pc_wt/Front.shtml) – - Performance issues
-[^ref-18]: [Old-Games.com](https://www.old-games.com/download/6103/front-page-sports-football-pro) – - Development rush assessment
-[^ref-19]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – - Technical bug description
-[^ref-20]: [MyAbandonware](https://www.myabandonware.com/search/q/Front+Page+Sports%3A+Football+Pro) – - Series release timeline
-[^ref-21]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Essential mod recommendation
-[^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – - Modern platform availability
+## 

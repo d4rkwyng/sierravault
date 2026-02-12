@@ -218,33 +218,6 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 - [Wiw.org – Space Quest 7 Archive](http://www.wiw.org/~jess/sq7.html) – Concept art and timeline[^ref-6]
 
 ## See Also
-
-Space Quest VII was intended to continue the adventures of Roger Wilco following the events of Space Quest 6: Roger Wilco in the Spinal Frontier. The game would have returned to planet Polysorbate LX, a location from the previous entry[^ref-2]. The planned revelation that Sludge Vohaul was Roger's brother or failed clone would have significantly recontextualized the series' ongoing conflict between protagonist and antagonist[^ref-6].
-
-With the cancellation of Space Quest VII, Space Quest 6 remains the final canonical entry in the series[^ref-3]. Various fan projects and the spiritual successor SpaceVenture have attempted to continue Roger Wilco's story, but none have achieved official status or commercial success comparable to the original Sierra games.
-
-- **Previous:** [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 - **Next:** None (series cancelled)
 
-## References
-
-[^ref-1]: [Sierra Chest – Space Quest 7](https://sierrachest.com/index.php?a=games&id=369&title=space-quest-7&fld=reviews) – developer, platform, unreleased status
-[^ref-2]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – development timeline, working titles, team quotes, cancellation details, technical specifications
-[^ref-3]: [GameCola – The Ten Reasons: Space Quest Collection](https://gamecola.net/2011/02/the-ten-reasons-space-quest-collection/) – SQ6 as unintended finale, fan project cancellation, Gary Owens voice work
-[^ref-4]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – 1997 development start, Scott Murphy as director, late 1998 announcement, formal 1999 cancellation
-[^ref-5]: [Citizendium – Space Quest](https://en.citizendium.org/wiki/Space_Quest) – 1996 planning, trailer release, Vivendi acquisition impact, Escape Factory instruction not to play existing games
-[^ref-6]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Escape Factory version, Unreal Engine, console platforms, Vohaul revelation, multiple Rogers concept, December 2002 cancellation
-[^ref-7]: [Wiw.org – Old SQ7 Archive](http://www.wiw.org/~jess/old_sq7.html) – Christmas Eve cancellation quote, multiplayer pressure, Murphy layoff date, Balfour departure, 3D graphics plans
-[^ref-8]: [Kotaku – SpaceVenture Disaster](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) – SpaceVenture Kickstarter, Two Guys reunion, Gary Owens death, critical reception
-[^ref-9]: [GameFAQs – Space Quest: The Lost Chapter Review](https://gamefaqs.gamespot.com/pc/917556-space-quest-the-lost-chapter/reviews/125655) – fan game quality issues, 2/10 rating, technical problems
-[^ref-10]: [Steam – Space Quest Collection](https://store.steampowered.com/app/10110/Space_Quest_Collection/) – collection availability, promotional materials
-[^ref-11]: [Steam Community Guide – Space Quest 7 History](https://steamcommunity.com/sharedfiles/filedetails/?id=1809699545) – development credits, corporate communications, Chainsaw Monday details
-[^ref-12]: [Space Quest Fandom Wiki – Space Quest 7](https://spacequest.fandom.com/wiki/Space_Quest_7) – multiple cancelled projects timeline, fan development attempts
-[^ref-13]: [MobyGames – Space Quest Series](https://www.mobygames.com/group/4/space-quest-series/) – 1996 announcement, unofficial SQ7 development 2001-2009, copyright holder intervention
-[^ref-14]: [Wikipedia – List of Sierra Entertainment Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – unreleased games listing, "Return to Roman Numerals" subtitle
-[^ref-15]: [Only Solitaire – Space Quest 6 Review](https://onlysolitaire.substack.com/p/game-review-space-quest-6-roger-wilco) – SQ7 production and early 1999 cancellation, Josh Mandel involvement with SQ6
-[^ref-16]: [Wiw.org – Space Quest FAQ](https://www.wiw.org/~jess/SQFAQ20.txt) – Scott Murphy collaboration with Leslie Balfour and Jay Lee
-[^ref-17]: [MyAbandonware – Space Quest Search](https://www.myabandonware.com/search/q/Space+Quest+VII) – series ending at Space Quest 6, no official SQ7 release
-[^ref-18]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Space+Quest+VII&type=game) – confirmation no official SQ7 in database
-[^ref-19]: [Nintendo Life Forums](https://www.nintendolife.com/forums/wii/wiiware_ideas1) – fan requests for SQ7 continuation, "true to its roots" sentiment
-[^ref-20]: [Space Quest Fandom – This Time It's Personal](https://spacequest.fandom.com/wiki/Space_Quest_7:_This_Time_It%27s_Personal) – working title documentation
+## 

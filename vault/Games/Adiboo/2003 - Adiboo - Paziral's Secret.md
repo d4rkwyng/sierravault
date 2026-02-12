@@ -223,35 +223,7 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 - [GEX.co.uk](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – Trade-in marketplace[^ref-13]
 
 ## See Also
-
-Adiboo & Paziral's Secret exists within the broader Adibou multimedia franchise, which originated as educational software for children in France during the 1990s[^ref-8]. The series primarily focused on learning activities covering subjects like reading, mathematics, and science, making this action-adventure title a notable departure from the franchise's educational roots. The game represents Coktel Vision's attempt to expand the beloved Adibou character into entertainment gaming, targeting the same young demographic through different means.
-
-The Adibou franchise enjoyed significant popularity in European markets, particularly in France where the character originated. While Adiboo & Paziral's Secret did not spawn direct sequels in the action-adventure genre, the educational Adibou software line continued to see releases across various platforms throughout the 2000s.
-
-- **Previous:** Various Adibou educational titles
-- **Next:** Continued educational software releases under the Adibou brand
 - [[1996 - Adiboo - Magical Playland|← Previous: Adiboo - Magical Playland]]
 - [[2004 - Adiboo and the Energy Thieves|→ Next: Adiboo and the Energy Thieves]]
 
-## References
-
-[^ref-1]: [Backloggd – Adiboo and Paziral's Secret](https://backloggd.com/games/adiboo-and-pazirals-secret/) – release dates, platforms, gameplay description, user ratings
-[^ref-2]: [MobyGames – Adiboo Paziral's Secret Releases](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/releases/) – regional release dates, developers, publishers, localization information
-[^ref-3]: [MobyGames – Adiboo Paziral's Secret](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/) – technical specs, credits, alternate titles, aggregate ratings
-[^ref-4]: [Metacritic – Adiboo and Paziral's Secret](https://www.metacritic.com/game/adiboo-and-pazirals-secret/details/) – plot description, developer information
-[^ref-5]: [PSX Data Center – SLES-04108](https://psxdatacenter.com/games/P/A/SLES-04108.html) – technical specifications, gameplay comparison, critical assessment
-[^ref-6]: [Old Games Download – Adiboo Paziral's Secret](https://oldgamesdownload.com/adiboo-pazirals-secret/) – file information, platform versions, language support
-[^ref-7]: [MobyGames – PlayStation Credits](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/credits/playstation/) – complete development credits, voice cast, production acknowledgments
-[^ref-8]: [PCGamingWiki – Adiboo & Paziral's Secret](https://www.pcgamingwiki.com/wiki/Adiboo_%26_Paziral%27s_Secret) – engine information, system requirements, compatibility issues, series information
-[^ref-9]: [MobyGames – Reviews](https://www.mobygames.com/game/60768/adiboo-pazirals-secret/reviews/) – aggregate critic and player ratings
-[^ref-10]: [eBay UK Listing](https://www.ebay.co.uk/itm/276838934105) – PEGI rating, barcode, product identification
-[^ref-11]: [UVList – Adiboo Pazirals Secret](https://www.uvlist.net/game-212982-Adiboo+Pazirals+Secret) – technical display information
-[^ref-12]: [RomsFun – Adiboo Paziral's Secret](https://romsfun.com/roms/playstation/adiboo-pazirals-secret.html) – file size, developer credits
-[^ref-13]: [GEX.co.uk – PS1 Games](https://gex.co.uk/sell-ps1-games-for-cash/14740-11014-adiboo-paziral-s-secret.html) – product identifier, platform confirmation
-[^ref-14]: [Honest Gamers – Adiboo Paziral's Secret](https://www.honestgamers.com/46661/playstation/adiboo-pazirals-secret/game.html) – release date, developer, publisher confirmation
-[^ref-15]: [Giant Bomb - Adiboo](https://www.giantbomb.com/) – wiki entry and game database
-[^ref-16]: [IGDB - Adiboo Paziral's Secret](https://www.igdb.com/) – game database entry
-[^ref-17]: [GameFAQs - Adiboo](https://gamefaqs.gamespot.com/) – platform and release information
-[^ref-18]: [PlayStation Store Archives](https://store.playstation.com/) – historical product listing
-[^ref-19]: [Coktel Vision Wiki](https://en.wikipedia.org/wiki/Coktel_Vision) – developer background
-[^ref-20]: [Vivendi Games Archives](https://en.wikipedia.org/wiki/Vivendi_Games) – publisher information
+## 

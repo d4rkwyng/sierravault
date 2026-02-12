@@ -97,10 +97,6 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - [SteamDB Charts](https://steamdb.info/app/2687970/charts/)
 
 ## See Also
-
-Tribes 3: Rivals continues the legacy of the Tribes series, which originated with Starsiege: Tribes developed by Dynamix under Sierra Entertainment.
-
-**Tribes Series Timeline:**
 - [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (1998) – Dynamix/Sierra
 - [[2001 - Tribes 2|Tribes 2]] (2001) – Dynamix/Sierra
 - [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]] (2002) – Inevitable Entertainment/Sierra
@@ -108,41 +104,4 @@ Tribes 3: Rivals continues the legacy of the Tribes series, which originated wit
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
 
-The series transitioned away from Sierra ownership when Vivendi Universal Games acquired Sierra Entertainment. The IP has since passed through multiple hands, with Prophecy Games licensing or acquiring rights to develop this latest entry.
-
-## Legacy
-
-Tribes 3: Rivals represents the latest attempt to revive a franchise that has struggled to find mainstream success despite its devoted fanbase.[^ref-4] The original [[1998 - Starsiege - Tribes|Starsiege: Tribes]] was groundbreaking for its large-scale multiplayer combat and movement mechanics, but subsequent entries have failed to recapture that lightning in a bottle.[^ref-14]
-
-The game's struggles mirror those of Tribes: Ascend (2012), which also launched to initial enthusiasm before player counts declined sharply.[^ref-4] The community remains active on Discord[^ref-11] and Reddit[^ref-10], with dedicated players hoping for future updates despite Prophecy's shift in focus.
-
-The Tribes series remains influential in game design, with its skiing mechanic inspiring movement systems in other shooters. Whether Tribes 3: Rivals can recover from its rocky launch remains to be seen, but the game stands as a testament to the enduring appeal of the Dynamix-originated formula.[^ref-14]
-- [[2001 - Tribes 2|← Previous: Tribes 2]]
-- [[1998 - Starsiege - Tribes|Series Origin: Starsiege: Tribes]]
-- [[1999 - Starsiege|Starsiege (mech game)]]
-- [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]
-- [[1996 - Earthsiege 2|Earthsiege 2]]
-- [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]]
-
-## References
-
-[^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info
-[^ref-2]: [Rock Paper Shotgun – Tribes 3 Early Access Launch](https://www.rockpapershotgun.com/tribes-3-rivals-is-out-in-early-access-now-for-another-shot-at-making-tribes-popular) – launch announcement
-[^ref-3]: [SteamDB – Tribes 3: Rivals Charts](https://steamdb.info/app/2687970/charts/) – player counts
-[^ref-4]: [PC Gamer – Tribes Revival Struggles](https://www.pcgamer.com/games/fps/the-latest-attempt-to-revive-tribes-looks-cooked-after-three-months/) – development pause announcement
-[^ref-5]: [Steam Store Page](https://store.steampowered.com/app/2687970/TRIBES_3_Rivals/) – game description, classes, maps
-[^ref-6]: [Official Website](https://www.tribes3rivals.com/) – how to play, FAQ
-[^ref-7]: [SteamCharts](https://steamcharts.com/app/2687970) – concurrent players
-[^ref-8]: [IGN – Tribes 3 Review](https://www.ign.com/games/tribes-3-rivals) – coverage
-[^ref-9]: [PCGamingWiki – Tribes 3: Rivals](https://www.pcgamingwiki.com/wiki/Tribes_3:_Rivals) – technical info
-[^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
-[^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
-[^ref-12]: [Developer Interview – Mick Larkins](https://www.youtube.com/results?search_query=tribes+3+rivals+developer+interview) – development insights
-[^ref-13]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
-[^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
-[^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics
-[^ref-16]: [Prophecy Games Official](https://www.prophecygames.com/) – developer info
-[^ref-17]: [IGN Coverage](https://www.ign.com/articles/tribes-3-rivals-preview) – preview coverage
-[^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
-[^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
-[^ref-20]: [Steam Community Hub](https://steamcommunity.com/app/2687970/) – player discussions
+## 

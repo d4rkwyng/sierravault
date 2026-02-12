@@ -206,41 +206,7 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 - [UHS Hint Guide](https://www.uhs-hints.com/uhsweb/drbrain3.php)
 
 ## See Also
-
-The Lost Mind of Dr. Brain is the third game in the Dr. Brain educational puzzle series, following Castle of Dr. Brain (1991) and The Island of Dr. Brain (1992). This installment marked a significant shift in both development and design philosophy—while the first two games were developed internally at Sierra using the SCI1 engine, The Lost Mind was the first entry developed by Bright Star Technology using the upgraded SCI2 engine.[^ref-3][^ref-21]
-
-The game departs from the exploration-based puzzle design of its predecessors, instead presenting puzzles through a hub-and-spoke structure centered on Dr. Brain's laboratory.[^ref-2] Dr. Brain's full name—Dr. Thaddeus Puzzle Brain the Third—is revealed in this installment, adding depth to the character.[^ref-5] The game's success led to a sequel, The Time Warp of Dr. Brain (1996), which returned to a time-travel theme and was considered by fans to be "a much harder game."[^ref-26]
-
-- **Previous:** [[1992 - The Island of Dr. Brain]]
-- **Next:** [[1996 - The Time Warp of Dr. Brain]]
 - [[1992 - The Island of Dr. Brain|← Previous: The Island of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain|→ Next: The Time Warp of Dr. Brain]]
 
-## References
-
-[^ref-1]: [Wikipedia – The Lost Mind of Dr. Brain](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain) – release dates, developers, designers, composers, platforms, awards, Next Generation review
-[^ref-2]: [Internet Archive – The Lost Mind of Dr. Brain](https://archive.org/details/the-lost-mind-of-dr.-brain-coverart) – game description, Elaina voice actor, puzzle focus, gameplay structure
-[^ref-3]: [The Collection Chamber – The Lost Mind of Dr. Brain](https://collectionchamber.blogspot.com/p/the-lost-mind-of-dr-brain.html) – puzzle count, engine info, difficulty levels, box description
-[^ref-4]: [Crick.com – Dr. Brain Review](https://crick.com/drbrain.html) – Consumer Reports quote, SPA Award, Evan Rigterink review
-[^ref-5]: [IMDB – The Lost Mind of Dr. Brain](https://www.imdb.com/title/tt0455148/) – character quotes, designer credits, IBM bundling, rating
-[^ref-6]: [Classic DOS Games – The Lost Mind of Dr. Brain](https://www.classicdosgames.com/game/The_Lost_Mind_of_Dr._Brain.html) – game description, shareware details, puzzle information
-[^ref-7]: [Amazon – The Lost Mind of Dr. Brain](https://www.amazon.com/Lost-Mind-Dr-Brain/dp/B00002S81G) – product description, release dates, customer reviews, specifications
-[^ref-8]: [A Games Room – The Lost Mind of Dr. Brain](https://www.agamesroom.com/game/lmdb) – Rathbone character details, puzzle descriptions
-[^ref-9]: [Wikidata – The Lost Mind of Dr. Brain](https://www.wikidata.org/wiki/Q7748676) – input device, distribution format
-[^ref-10]: [Giant Bomb – The Lost Mind of Dr. Brain](https://www.giantbomb.com/the-lost-mind-of-dr-brain/3030-6644/) – development history, gameplay format change, version information
-[^ref-11]: [GameFAQs – The Lost Mind of Dr. Brain Guide](https://gamefaqs.gamespot.com/pc/575683-the-lost-mind-of-dr-brain/faqs/44688) – technical requirements, auto-save feature, puzzle count
-[^ref-12]: [UHS Hints – The Lost Mind of Dr. Brain](https://www.uhs-hints.com/uhsweb/drbrain3.php) – puzzle region names and descriptions
-[^ref-13]: [MobyGames – The Lost Mind of Dr. Brain](https://www.mobygames.com/game/2605/the-lost-mind-of-dr-brain/) – critic score, Adam Baratz review, lip-sync technology, Easter egg
-[^ref-14]: [ClassicReload – The Lost Mind of Dr. Brain](https://classicreload.com/win3x-the-lost-mind-of-dr-brain.html) – cognitive skills focus, educational design
-[^ref-15]: [NeverDieMedia – The Lost Mind of Dr. Brain](https://www.neverdiemedia.com/products/the-lost-mind-of-dr-brain) – difficulty levels, platform details
-[^ref-16]: [Classic Games – The Lost Mind of Dr. Brain](https://www.classicgames.me/the-lost-mind-of-dr-brain.html) – puzzle types, gameplay description
-[^ref-17]: [The Obscuritory – Lost Mind of Dr. Brain](https://obscuritory.com/puzzle/lost-mind-of-dr-brain/) – Phil Salvador review quotes, original title
-[^ref-18]: [GOG Dreamlist – The Lost Mind of Dr. Brain](https://www.gog.com/dreamlist/game/the-lost-mind-of-dr-brain) – user nostalgia quotes
-[^ref-19]: [MyAbandonware – The Lost Mind of Dr. Brain](https://www.myabandonware.com/game/the-lost-mind-of-dr-brain-3ma) – user rating, download information, alternate titles
-[^ref-20]: [Amazon – The Lost Mind of Dr. Brain (alternate listing)](https://www.amazon.com/Lost-Mind-Dr-Brain/dp/B000F9J3HC) – Howard Gardner reference, customer rating, specifications
-[^ref-21]: [Wikipedia – Dr. Brain Series](https://en.wikipedia.org/wiki/Dr._Brain) – series history, Corey Cole credit, sales data
-[^ref-22]: [The Cutting Room Floor – The Lost Mind of Dr. Brain](https://tcrf.net/The_Lost_Mind_of_Dr._Brain) – cut content, hidden message, original title, designer interview
-[^ref-23]: [Sierra Gamers Forum – Dr. Brain 3](https://www.sierragamers.com/forums/topic/dr-brain-3/) – compatibility information, user experiences
-[^ref-24]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – 2001 Easter egg, technical requirements, color depth
-[^ref-25]: [Behind The Voice Actors – The Lost Mind of Dr. Brain](https://www.behindthevoiceactors.com/video-games/the-lost-mind-of-dr-brain/) – voice cast information
-[^ref-26]: [Reddit r/Sierra – Lost Mind of Dr. Brain Discussion](https://www.reddit.com/r/Sierra/comments/j0m1mc/anyone_remember_playing_lost_mind_of_dr_brain/) – Time Warp difficulty comparison
+## 

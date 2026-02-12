@@ -142,31 +142,6 @@ One preservation issue affects the digital versions: "The original release of th
 - [Internet Archive](https://archive.org/details/TheIncredibleMachine_1020)
 
 ## See Also
-
-- **Previous:** None
-- **Next:** [[1993 - The Even More Incredible Machine]]
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
 
-## References
-
-[^ref-1]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – Description of Rube Goldberg device gameplay and physics engine
-[^ref-2]: [Abandonware DOS - The Incredible Machine](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020) – Gameplay description
-[^ref-3]: [Internet Archive - The Incredible Machine](https://archive.org/details/TheIncredibleMachine_1020) – Game mechanics description
-[^ref-4]: [Games Nostalgia - The Incredible Machine](https://gamesnostalgia.com/game/incredible-machine) – Game mechanics description
-[^ref-5]: [ClassicReload - The Incredible Machine](https://classicreload.com/dosx-the-incredible-machine.html) – Game mechanics explanation
-[^ref-8]: [MobyGames - The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – Platform information
-[^ref-9]: [Internet Archive - The Incredible Machine Manual](https://archive.org/details/the-incredible-machine-dos-manual) – Interface elements
-[^ref-11]: [Pixelated Arcade](https://pixelatedarcade.com/games/the-incredible-machine) – Technical specifications
-[^ref-13]: [Sierra Chest - The Incredible Machine](https://www.sierrachest.com/index.php?a=games&id=290&title=incredible-machine) – Tutorial puzzle information
-[^ref-14]: [GameFAQs - The Incredible Machine](https://gamefaqs.gamespot.com/pc/564728-the-incredible-machine/faqs) – Game mode description
-[^ref-16]: [TV Tropes - The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) – Gameplay mechanics description
-[^ref-17]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) – Gameplay analysis
-[^ref-20]: [IGN - Return of The Incredible Machine](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) – Professional review score
-[^ref-21]: [GOG.com - The Incredible Machine Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) – User ratings
-[^ref-22]: [MyAbandonware - The Incredible Machine](https://www.myabandonware.com/game/the-incredible-machine-1mg) – User ratings
-[^ref-23]: [Steam](https://store.steampowered.com/) – Steam user ratings
-[^ref-30]: [PCGamingWiki - The Incredible Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Machine) – Hardware limitations
-[^ref-32]: [MobyGames - Credits](https://www.mobygames.com/game/2473/the-incredible-machine/credits/dos/) – Music composers
-[^ref-35]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – Jeff Tunnell quote
-[^ref-37]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – Spiritual successor information
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/the-incredible-machine/_consolidated.json) – Multiple sources from research collection
+## 

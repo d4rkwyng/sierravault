@@ -268,36 +268,6 @@ The game also exemplifies the rapid multi-platform development practices of the 
 - [ColecoVision Manual](https://cvaddict.com/profile.php?gameid=50)[^ref-7]
 
 ## See Also
-
-B.C.'s Quest for Tires was followed by a sequel, *B.C. II: Grog's Revenge*, released in 1984 by Coleco.[^ref-27] The sequel shifted focus to a different character and gameplay style while maintaining the prehistoric comic strip setting. The original game's success made a sequel a natural commercial decision.
-
-The *B.C.* comic strip license was unique among Sierra On-Line's catalog, as the company was primarily known for adventure games rather than action titles. This licensed game represented an attempt to diversify into the arcade-style action market that dominated early 1980s home gaming.
-
-- **Next:** [[1984 - BC II - Grog's Revenge]]
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
 
-## References
-
-[^ref-1]: [MobyGames – B.C.'s Quest for Tires](https://www.mobygames.com/game/7196/bcs-quest-for-tires/) – platform releases, ratings, technical specifications, developer credits
-[^ref-2]: [Internet Archive – ColecoVision Version](https://archive.org/details/BCs_Quest_for_Tires_1983_Sierra_On_Line) – release date, gameplay description, historical significance as early runner
-[^ref-3]: [Wikipedia – B.C.'s Quest for Tires](https://en.wikipedia.org/wiki/B.C.'s_Quest_for_Tires) – sales figures, awards, designer credits, title origin, contemporary reviews
-[^ref-4]: [Data Driven Gamer – B.C.'s Quest for Tires Review](https://datadrivengamer.blogspot.com/2021/06/games-267-268-evolution-bcs-quest-for.html) – Sydney Development background, gameplay criticism, platform development history
-[^ref-5]: [ANTIC Magazine Vol. 2 No. 12 (March 1984)](http://www.atarimagazines.com/v2n12/productreviews.html) – Harvey Bernstein review, technical requirements, animation praise
-[^ref-6]: [ColecoVision Box Art Archive](https://colecoboxart.com/coleco_bcquest.htm) – game description, copyright information, box documentation
-[^ref-7]: [CVAddict – ColecoVision Database](https://cvaddict.com/profile.php?gameid=50) – ROM specifications, gameplay description, manual availability
-[^ref-8]: [Lemon64 – Game Details](https://www.lemon64.com/games/details.php?ID=245) – "JUMP SUCKER" in-game text, trivia, magazine reviews
-[^ref-11]: [C64-Wiki – B.C.'s Quest for Tires](https://www.c64-wiki.com/wiki/B.C.'s_Quest_for_Tires) – Rombachs review quote, gameplay description
-[^ref-10]: [ZX Spectrum Games Archive](https://zxspectrumgames.com/games/bcs-quest-for-tires/) – plot description, dinosaur encounter
-[^ref-12]: [FRGCB Blog – B.C.'s Quest for Tires Comparison](http://frgcb.blogspot.com/2014/11/bcs-quest-for-tires-sierra-on-line-1983.html) – platform comparison, programmer credits, genre significance, technical issues
-[^ref-16]: [Atarimania – B.C.'s Quest for Tires](https://www.atarimania.com/game-atari-400-800-xl-xe-bc-s-quest-for-tires_565.html) – user ratings, Electronic Fun review, Electronic Games review, cheat codes
-[^ref-17]: [Lemon64 – B.C.'s Quest for Tires](https://www.lemon64.com/game/bcs-quest-for-tires) – Zzap!64 review, C&VG review, user comments, Chuck Benton trivia, cartridge bug
-[^ref-18]: [Lemon64 – User Review by Roger Frames](https://www.lemon64.com/review/bcs-quest-for-tires/602) – retrospective assessment, graphics praise
-[^ref-19]: [MyAbandonware – B.C.'s Quest for Tires](https://www.myabandonware.com/game/bc-s-quest-for-tires-1x) – user rating, HOTUD review, technical issues, alternate names
-[^ref-20]: [IMDB – B.C.'s Quest for Tires](https://www.imdb.com/title/tt0379177/) – user rating, filming location, directors, connections
-[^ref-21]: [The New Yorker – Don't Stop: The Game That Conquered Smartphones](https://www.newyorker.com/tech/annals-of-technology/dont-stop-the-game-that-conquered-smartphones) – Chuck Benton interview, development timeline, sales figures
-[^ref-22]: [World of Spectrum – B.C.'s Quest for Tires](https://worldofspectrum.org/archive/software/games/bcs-quest-for-tires-software-projects-ltd) – ZX Spectrum specifications, protection scheme, Mike Davies credit
-[^ref-23]: [Games Database – MSX Version](https://www.gamesdatabase.org/game/msx/bcs-quest-for-tires) – MSX release date, Toshiba-EMI publisher
-[^ref-24]: [CollectorVision Games – B.C.'s Quest for Tires](https://www.collectorvision.com/games/bcquest.php) – Intellivision homebrew release, designer credits
-[^ref-25]: [RarityGuide – B.C.'s Quest for Tires Review](http://www.rarityguide.com/articles/articles/49/1/JUMP-SUCKER-A-review-of-B-Cs-Quest-for-Tires-for-the-Commodore-64/Page1.html) – awards list, reviewer assessment
-[^ref-26]: [Speedrun.com – B.C.'s Quest for Tires](https://www.speedrun.com/bcs_quest_for_tires) – speedrun records, community statistics
-[^ref-27]: [Internet Archive – B.C.'s Quest for Tires II: Grog's Revenge Manual](https://archive.org/details/BCs_Quest_for_Tires_II_Grogs_Revenge_1984_Coleco) – sequel confirmation, Coleco publisher
+## 

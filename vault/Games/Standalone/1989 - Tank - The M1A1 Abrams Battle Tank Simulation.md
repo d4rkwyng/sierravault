@@ -215,29 +215,7 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
 ## See Also
-
-Tank: The M1A1 Abrams Battle Tank Simulation was conceived as the inaugural title in Spectrum HoloByte's "Electronic Battlefield System," intended to be a comprehensive platform for military simulations spanning different combat domains.[^ref-2] The game shared technological DNA with Spectrum HoloByte's Falcon flight simulator series through its use of a modified Falcon AT engine, positioning it as a ground-based complement to their aerial combat offerings.[^ref-4]
-
-While the Electronic Battlefield System as originally envisioned did not fully materialize as an integrated product line, Tank represented Spectrum HoloByte's commitment to military simulation across multiple warfare domains. The game stands as a distinct entry in the company's simulation catalog rather than part of a direct sequel series.
 - [[1988 - Silpheed|← Previous: Silpheed]]
 - [[1990 - Codename - Iceman|→ Next: Codename - Iceman]]
 
-## References
-
-[^ref-1]: [Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.classicgames.me/tank-the-m1a1-abrams-battle-tank-simulation.html) – game overview, realism focus, gameplay description
-[^ref-2]: [Wikipedia – Tank: The M1A1 Abrams Battle Tank Simulation](https://en.wikipedia.org/wiki/Tank%3A_The_M1A1_Abrams_Battle_Tank_Simulation) – developer, publisher, reviews, Electronic Battlefield System, M. Evan Brooks quote, Paul Rigby quote, scenarios
-[^ref-3]: [Metacritic – Tank M1A1 Abrams Battle Simulation](https://www.metacritic.com/game/tank-m1a1-abrams-battle-simulation/) – vehicle counts, gameplay modes
-[^ref-4]: [MobyGames – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.mobygames.com/game/1626/tank-the-m1a1-abrams-battle-tank-simulation/) – developer, engine, release dates, critics score, SIMNET, mission count, features
-[^ref-5]: [My Abandonware – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) – HOTUD rating, strategy emphasis, training mission
-[^ref-6]: [Steam Store – Tank M1A1 Abrams Battle Simulation](https://store.steampowered.com/app/410550/Tank_M1A1_Abrams_Battle_Simulation/) – release date, system requirements, user reviews, scalable complexity quote
-[^ref-7]: [XTC Abandonware – Abrams Battle Tank](https://www.xtcabandonware.com/game/132/abrams-battle-tank) – difficulty quote, controls, mission description
-[^ref-8]: [MobyGames – Tank Credits](https://www.mobygames.com/game/1626/tank-the-m1a1-abrams-battle-tank-simulation/credits/dos/) – designers, programmers, development team
-[^ref-9]: [PCGamingWiki – Tank: M1A1 Abrams Battle Simulation](https://www.pcgamingwiki.com/wiki/Tank%3A_M1A1_Abrams_Battle_Simulation) – technical specs, platforms, publishers, multiplayer options
-[^ref-10]: [Squakenet – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.squakenet.com/game/tank-the-m1a1-abrams-battle-tank-simulation/) – gameplay description, Falcon series comparison
-[^ref-11]: [Giant Bomb – Abrams Battle Tank](https://www.giantbomb.com/abrams-battle-tank/3030-18337/) – crew positions, ammunition types
-[^ref-12]: [Reddit – r/tipofmyjoystick Tank Discussion](https://www.reddit.com/r/tipofmyjoystick/comments/12afau0/msdoswin_19902000_1st_person_tank_simulator/) – player recollections, interface challenges
-[^ref-13]: [UVList – Abrams Battle Tank](https://www.uvlist.net/game-164665-Abrams+Battle+Tank) – review scores, technical specs, graphics hardware, M1 service date
-[^ref-14]: [My Abandonware – Abrams Battle Tank](https://www.myabandonware.com/game/abrams-battle-tank-ee) – user ratings, veteran review quote
-[^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/410550/discussions/0/490125737466050582/) – M1 Tank Platoon comparison, AI praise
-[^ref-16]: [Grokipedia – Abrams Battle Tank](https://grokipedia.com/page/Abrams_Battle_Tank) – development challenges, multi-crew coordination
-[^ref-17]: [Steam Community Guides](https://steamcommunity.com/app/410550/guides/) – user-created keyboard control guide
+## 

@@ -247,46 +247,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 - [Game Manual](https://www.freegameempire.com/games/Shannara/manual)
 
 ## See Also
-
-Shannara represents a standalone game adaptation of Terry Brooks' fantasy novel series. While the game's story is set between *The Sword of Shannara* (1977) and *The Elfstones of Shannara* (1982) within the novels' chronology, no video game sequels were produced [^ref-2]. The Shannara franchise would later be adapted for television as *The Shannara Chronicles* (2016-2017), which aired on MTV and Spike before cancellation after two seasons [^ref-35].
-
-The game serves as a companion piece to the original Shannara trilogy rather than establishing its own series, making it a unique artifact of 1990s fantasy gaming—a time when literary adaptations were common but rarely spawned ongoing game franchises.
 - [[1995 - Fast Attack - High Tech Submarine Warfare|← Previous: Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - The Ruins of Cawdor|→ Next: The Ruins of Cawdor]]
 
-## References
-
-[^ref-1]: [Wikipedia – Shannara (video game)](https://en.wikipedia.org/wiki/Shannara_(video_game)) – release date, designers, review scores, gameplay notes
-[^ref-2]: [Hardcore Gaming 101 – Shannara](http://www.hardcoregaming101.net/shannara/) – development context, graphics assessment, story placement, critical analysis
-[^ref-3]: [Filfre.net – Shannara Development](https://www.filfre.net/?s=Shannara) – bookware era context, Cole quotes, development troubles
-[^ref-4]: [eBay Product Listing](https://www.ebay.com/p/56237470) – game description, plot summary, technical features
-[^ref-5]: [BestDosGames – Shannara](https://bestdosgames.com/games/shannara) – developer info, play time, interface description
-[^ref-6]: [Lightspeed Magazine – Terry Brooks Interview](https://www.lightspeedmagazine.com/nonfiction/interview-terry-brooks/) – Brooks' lack of game involvement
-[^ref-7]: [MobyGames – Shannara](https://www.mobygames.com/game/3208/shannara/) – developers, composer, engine, cover artist, rating
-[^ref-8]: [Free Game Empire – Shannara Manual](https://www.freegameempire.com/games/Shannara/manual) – system requirements, combat advice, technical specs
-[^ref-9]: [Free Game Empire – Shannara](https://www.freegameempire.com/games/Shannara) – Legend Entertainment history, game description, RPG elements
-[^ref-10]: [PlayClassic Games – Shannara](https://playclassic.games/games/point-n-click-adventure-dos-games-online/shannara/) – gameplay mechanics, story overview
-[^ref-11]: [Goodreads – First King of Shannara](https://www.goodreads.com/book/show/92855.First_King_of_Shannara) – novel themes
-[^ref-12]: [LGBTQ Video Game Archive – Shannara](https://lgbtqgamearchive.com/games/games-by-decade/1990s/shannara/) – game description, plot summary
-[^ref-13]: [Behind The Voice Actors – Shannara](https://www.behindthevoiceactors.com/video-games/shannara/) – complete voice cast, voice director
-[^ref-14]: [CSoon Walkthrough](https://csoon.com/hint/shanwalk.htm) – game modes, party members, progression
-[^ref-15]: [GameBoomers Walkthrough](http://www.gameboomers.com/wtcheats/pcSs/Shannara.htm) – puzzle descriptions, runestone collection
-[^ref-16]: [Abandonware DOS – Shannara](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shannara&gid=2464) – Quandary review quote, rating
-[^ref-17]: [GameSpot User Review](https://www.gamespot.com/shannara/user-reviews/2200-12797139/) – user score, Cole designers, bundled book
-[^ref-18]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/10256-shannara/reviews/101741) – user score, release date, Legend style
-[^ref-19]: [MobyGames – Shannara Reviews](https://www.mobygames.com/game/3208/shannara/reviews/) – Claire White review, first-person perspective
-[^ref-20]: [RPG Codex – Let's Play Shannara](https://rpgcodex.net/forums/threads/lets-play-shannara.34336/) – interface description
-[^ref-21]: [Old-Games.com – Shannara](https://www.old-games.com/download/1578/shannara) – Death Gate comparison, character sources, graphics
-[^ref-22]: [GameSpot Review](https://www.gamespot.com/reviews/shannara-review/1900-2559707/) – official score, puzzle praise, combat criticism, atmosphere
-[^ref-23]: [The Spoiler – Shannara Walkthrough](https://the-spoiler.com/RPG/Legend/shannara.1.html) – walkthrough advice
-[^ref-24]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/10256-shannara/faqs/1675) – combat avoidance advice
-[^ref-25]: [Metzomagic – Shannara Review](https://www.metzomagic.com/showArticle.php?index=126) – Gordon Aplin review, bundled book regional differences, combat criticism, restore bug
-[^ref-27]: [MyAbandonware – Shannara](https://www.myabandonware.com/game/shannara-2t8) – release regions, version differences, rating
-[^ref-28]: [Emuparadise – Shannara](https://www.emuparadise.me/Abandonware_Games/Shannara_(1995)(Legend_Entertainment)/94839) – user rating
-[^ref-29]: [Free Game Downloads – Shannara](https://free-game-downloads.mosw.com/abandonware/pc/adventure/games_sa_so/shannara.html) – Quest for Glory creators, game description
-[^ref-30]: [GOG Dreamlist – Shannara](https://www.gog.com/dreamlist) – fan comments, re-release requests
-[^ref-31]: [GameCopyWorld – Shannara](https://gamecopyworld.com/games/pc_shannara.shtml) – copy protection status
-[^ref-32]: [MoneyInc – Best Selling Fantasy Books](https://moneyinc.com/best-selling-fantasy-books-of-all-time/) – Shannara series sales figures
-[^ref-33]: [ClassicReload – Shannara](https://classicreload.com/shannara.html) – browser playable version, developer info
-[^ref-34]: [Internet Archive – Shannara](https://archive.org/details/shannara-0mhz) – preservation, eXoDOS source
-[^ref-35]: [Deadline – Shannara Chronicles Cancelled](https://deadline.com/2018/01/the-shannara-chronicles-canceled-after-two-seasons-spike-mtv-paramount-network-1202244383/) – TV series cancellation
+## 

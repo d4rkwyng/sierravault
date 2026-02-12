@@ -192,24 +192,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 - Original packaging and materials are held in private collections[^ref-6]
 
 ## See Also
-
-Hi-Res Cribbage was part of On-Line Systems' "Hi-Res Series" of games that utilized the Apple II's high-resolution graphics capabilities.[^ref-7][^ref-8] This series helped establish the company's technical reputation in the early personal computer market.
-
-The game was developed by Warren Schwader after his previous title Smash-Up, representing his second commercial software release.[^ref-6] Schwader's work on Hi-Res Cribbage led directly to his hiring at On-Line Systems, where he would contribute to the company's growing catalog of games.
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|← Previous: Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Football|→ Next: Hi-Res Football]]
 
-## References
-
-[^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications
-[^ref-2]: [LaunchBox Games Database – On-Line Systems Games](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release date, platform, publisher, animated cards feature
-[^ref-3]: [MyAbandonware – Hi-Res Cribbage](https://www.myabandonware.com/game/hi-res-cribbage-1mu) – gameplay features, preservation, platform information
-[^ref-4]: [UVList – Hi-Res Cribbage](https://www.uvlist.net/game-253479-Hi+Res+Cribbage) – official description, animated dealing, AI challenge, display specifications, game features
-[^ref-5]: [Halcyon Days – Warren Schwader Interview](https://dadgum.com/halcyon/BOOK/SCHWADER.HTM) – developer quotes, sales figures, development circumstances, cassette marketing, hi-res graphics significance
-[^ref-6]: [Retro365 – Bits From My Personal Collection: Hi-Res Cribbage](https://retro365.blog/2021/02/19/bits-from-my-personal-collection-hi-res-cribbage-by-warren-schwader-on-line-systems-first-hire/) – development history, Schwader biography, Ken Williams assessment, cassette/disk versions, AI algorithm, On-Line Letter feature, cribbage origins
-[^ref-7]: [Sierra Chest – Hi-Res Cribbage](https://sierrachest.com/index.php?a=games&id=447&title=hi-res-cribbage&fld=general) – engine (Machine Language), series classification, genre
-[^ref-8]: [SierraGamers – Hi-Res Cribbage](https://www.sierragamers.com/hi-res-cribbage/) – release number confirmation, 1980 date
-
-[^ref-9]: [VirtualApple – Hi-Res Cribbage](https://www.virtualapple.org/cribbagedisk.html) – playable emulation, Apple II preservation
-
-[^ref-10]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+## 

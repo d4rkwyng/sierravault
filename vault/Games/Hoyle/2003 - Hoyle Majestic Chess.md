@@ -224,36 +224,8 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 - [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) - Ongoing requests for digital re-release
 
 ## See Also
-
-Hoyle Majestic Chess represents a unique entry in the long-running Hoyle brand of card and board game compilations published by Sierra Entertainment.[^ref-16] Unlike the numbered Hoyle compilations that collected multiple traditional games, Majestic Chess focused exclusively on chess while introducing innovative adventure-based gameplay elements not seen in other Hoyle titles.
-
-The Hoyle brand dates back to 1989 with Hoyle's Official Book of Games, and Sierra continued releasing titles under this brand throughout the 1990s and 2000s.[^ref-11] Majestic Chess stands out as perhaps the most ambitious single-game release under the Hoyle banner, combining the educational focus of traditional chess software with the production values and narrative elements typically associated with adventure games.
-
 - **Series:** Hoyle Games (Sierra Entertainment)
-- **Previous:** [[2002 - Hoyle Card Games]]
-- **Next:** [[2003 - Hoyle Card Games]]
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Majestic Chess](https://www.mobygames.com/game/10294/hoyle-majestic-chess/) – developer, publisher, release date, credits, technical specs, critic scores, user reviews
-[^ref-2]: [Wikipedia – Hoyle Majestic Chess](https://en.wikipedia.org/wiki/Hoyle_Majestic_Chess) – release dates, publishers, review scores, technical specifications, cut content, critical quotes
-[^ref-3]: [Metacritic – Hoyle Majestic Chess Details](https://www.metacritic.com/game/hoyle-majestic-chess/details/) – developer heritage, publisher description, Xbox version listing
-[^ref-4]: [IGN – Hoyle Majestic Chess](https://www.ign.com/games/hoyle-majestic-chess) – release date, review score, game description
-[^ref-5]: [MyAbandonware – Hoyle Majestic Chess](https://www.myabandonware.com/game/hoyle-majestic-chess-dk5) – user rating, technical specs, version information, compatibility issues, user quotes
-[^ref-6]: [Chess Programming Wiki – Majestic Chess](https://www.chessprogramming.org/Majestic_Chess) – chess engine, developer background, technical features
-[^ref-7]: [Old PC Gaming – Hoyle Majestic Chess](https://oldpcgaming.net/hoyle-majestic-chess/) – adventure mode details, chapter structure, artifact system
-[^ref-8]: [Game Classification – Hoyle Majestic Chess](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/index.html) – gameplay description, Chess Adventure mode details
-[^ref-9]: [GOG.com Dreamlist – Hoyle Majestic Chess](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) – publishers, user quotes, compatibility issues
-[^ref-10]: [Old Games Download – Hoyle Majestic Chess](https://oldgamesdownload.com/hoyle-majestic-chess/) – file size, installation issues, user comments
-[^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, promotional quote
-[^ref-12]: [MobyGames – Bill Forster Credits](https://www.mobygames.com/person/101460/bill-forster/credits/) – online design and programming credits
-[^ref-13]: [IMDB – Hoyle Majestic Chess](https://www.imdb.com/title/tt9782314/) – director, writers, production company, release date
-[^ref-14]: [KHInsider – Hoyle Majestic Chess Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/hoyle-majestic-chess-2003) – soundtrack track listing, durations
-[^ref-15]: [BelongPlay.ru – Strange Chess Games](https://belongplay.ru/the-strangest-chess-games/) – inclusion in chess games compilation
-[^ref-16]: [AcademicKids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Hoyle series listing
-[^ref-17]: [Metacritic – Chessaria](https://www.metacritic.com/game/chessaria-the-tactical-adventure/) – comparison to Hoyle Majestic Chess as spiritual successor
-[^ref-18]: [King's Quest Fandom – Sierra](https://kingsquest.fandom.com/wiki/Sierra) – Sierra company overview
-[^ref-19]: [IMDB Mobile – Company Credits](https://m.imdb.com/title/tt9782314/companycredits/?ref_=tt_dt_cmpy) – developer and distributor confirmation
-[^ref-20]: [Game Classification – Analysis Page](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/analyses/index.html) – game classification details
+## 

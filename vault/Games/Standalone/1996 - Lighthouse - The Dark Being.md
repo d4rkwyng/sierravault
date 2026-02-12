@@ -135,38 +135,7 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
 ## See Also
-
-- **Previous:** None (standalone title)
-- **Next:** None (standalone title)
 - [[1995 - Torin's Passage|← Previous: Torin's Passage]]
 - [[1996 - Stay Tooned!|→ Next: Stay Tooned!]]
 
-## References
-
-[^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Lighthouse:_The_Dark_Being) – Development origin story with Ken Williams
-[^ref-3]: [Archive.org Game Description](https://archive.org/details/lighthouse-cd-1) – Game tagline "Outwit Evil in a Supernatural Mechanical World"
-[^ref-4]: [The Obscuritory Review](https://obscuritory.com/adventure/lighthouse-the-dark-being/) – Analysis of game's position in the genre
-[^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Lighthouse:_The_Dark_Being) – Platform compatibility information
-[^ref-6]: [MobyGames Review](https://www.mobygames.com/game/266/lighthouse-the-dark-being/reviews/) – Plot description by Katakis
-[^ref-7]: [Archive.org Manual](https://archive.org/details/lighthouse-the-dark-being-manual) – Official game manual plot description
-[^ref-8]: [Classic Reload](https://classicreload.com/lighthouse-the-dark-being.html) – Game plot summary
-[^ref-9]: [Sierra Gamers](https://www.sierragamers.com/lighthouse/) – Game overview with character count
-[^ref-10]: [Old-Games.com](https://www.old-games.com/download/7839/lighthouse-the-dark-being) – Visual description of parallel world
-[^ref-11]: [VideoGameGeek](https://videogamegeek.com/videogame/91618/lighthouse-the-dark-being) – Scientific reference in plot
-[^ref-12]: [Retrolorean](https://retrolorean.com/en/lighthouse-the-dark-being-6873) – Gameplay mechanics description
-[^ref-13]: [Archive.org Patch Notes](https://archive.org/details/LITE2PAT) – Cursor highlighting feature description
-[^ref-14]: [MobyGames User Review](https://www.mobygames.com/game/266/lighthouse-the-dark-being/user-review/2593203/) – Multiple paths and endings description
-[^ref-15]: [SierraChest Walkthrough](https://sierrachest.com/index.php?a=games&id=148&title=lighthouse&fld=walkthrough&pid=100) – No point system confirmation
-[^ref-16]: [Adventure Gamers Review](https://adventuregamers.com/walkthrough/lighthouse-the-dark-being) – Maze section proportion
-[^ref-17]: [Web Archive PC Gamer Review](https://web.archive.org/web/20000310123648/http://www.pcgamer.com/reviews/628.html) – PC Gamer score and assessment
-[^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/lighthouse-review/1900-2535697/) – Rebecca Anderson's review and graphics description
-[^ref-19]: [Web Archive GameRankings](https://web.archive.org/web/20191209001525/https://www.gamerankings.com/pc/197785-lighthouse-the-dark-being/index.html) – Historical review compilation
-[^ref-20]: [GOG.com](https://www.gog.com/en/game/lighthouse_the_dark_being) – User review aggregate
-[^ref-21]: [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3) – User rating
-[^ref-22]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2015/11/lighthouse-the-dark-being.html) – Jon Bock as first-time game designer
-[^ref-23]: [Behind the Voice Actors](https://www.behindthevoiceactors.com/video-games/lighthouse-the-dark-being/) – Voice cast information
-[^ref-24]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Lighthouse:_The_Dark_Being) – Installation difficulty notes
-[^ref-25]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LighthouseTheDarkBeing) – Myst clone comparison
-[^ref-26]: [MobyGames Patches](https://www.mobygames.com/game/266/lighthouse-the-dark-being/patches/) – Patch information
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/lighthouse-the-dark-being/_consolidated.json) – Multiple sources from research collection
+## 

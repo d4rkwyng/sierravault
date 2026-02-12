@@ -137,33 +137,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 - [IF Archive](https://ifarchive.org/if-archive/games/appleII/mystery.dsk)
 
 ## See Also
-
-- **Previous:** None (First in series)
-- **Next:** [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure #2: The Wizard and the Princess]]
 - [[1980 - Hi-Res Adventure 0 - Mission Asteroid|← Previous: Hi-Res Adventure 0 - Mission Asteroid]]
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|→ Next: Hi-Res Adventure 2 - The Wizard and the Princess]]
 
-## References
-
-[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House
-[^ref-2]: [Sierra Help Pages](http://www.sierrahelp.com/Misc/IntroductionToRWAnth.html) – Ken Williams' introduction to The Roberta Williams Anthology
-[^ref-3]: [Chicago Sun-Times](https://web.archive.org/web/20150402104248/http://www.highbeam.com/doc/1P2-3915183.html) – 1988 interview: "Mom goes on-line with adventurous computer games"
-[^ref-4]: [Google Books – Horror in Video Games](https://books.google.com/books?id=VnAoDwAAQBAJ) – Rouse III, Richard (2009). "Match Made in Hell: The Inevitable Success of the Horror Genre in Video Games" in Horror in Video Games: Essays on the Fusion of Fear and Play. McFarland. ISBN 978-0-7864547-9-2
-[^ref-5]: [Computer Gaming World](http://www.cgwmuseum.org/) – Mark Marlow's 1982 review, Vol. 1, No. 2
-[^ref-6]: [American Journal of Play](https://www.journalofplay.org/) – Nooney, Laine (2017). "Let's Begin Again: Sierra On-Line and the Origins of the Graphical Adventure Game"
-[^ref-7]: [Amazon – Once Upon a Point and Click](https://www.amazon.com/dp/B01N6Y5XKJ) – Craddock, David L. (2017). Once Upon a Point and Click. Chapter 1: Interactive Page-Turners
-[^ref-8]: [Amazon – High Score!](https://www.amazon.com/dp/0072231726) – DeMaria, Rusel; Wilson, Johnny L. (2003). High Score!: The Illustrated History of Electronic Games. McGraw-Hill/Osborne. ISBN 0-07-223172-6
-[^ref-9]: [The Digital Antiquarian](https://www.filfre.net/2011/10/mystery-house-part-1/) – Jimmy Maher's "Mystery House, Part 1"
-[^ref-10]: [Chicago Tribune](https://www.newspapers.com/clip/90910838/chicago-tribune/) – Dennis Lynch (1989). "Sierra disks offer epic adventures"
-[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-1-mystery-house-7nl) – Game information and user ratings
-[^ref-13]: [MobyGames](https://www.mobygames.com/game/9312/hi-res-adventure-1-mystery-house/) – Technical details and community score
-[^ref-14]: [Baf's Guide / IFDB](https://ifdb.org/viewgame?id=clc9a8hnvx79pabw) – Carl Muckenhoupt's review via Interactive Fiction Database
-[^ref-15]: [IMDb](https://www.imdb.com/title/tt0251524/) – User rating information
-[^ref-16]: [Computer Gaming World](http://www.cgwmuseum.org/galleries/index.php?year=1996&pub=2&id=148) – "The 15 Most Innovative Computer Games" (November 1996)
-[^ref-17]: [GamePro](https://web.archive.org/web/20070520142756/http://www.gamepro.com/gamepro/international/games/features/110028.shtml) – "The 52 Most Important Video Games of All Time" (April 2007)
-[^ref-18]: [The New York Times](https://www.nytimes.com/2025/04/10/arts/blue-prince.html) – Romig, Rollo (2025). "With Secrets in Every Room, This Manor Mystery Enthralls"
-[^ref-19]: [Hardcore Gaming 101](http://blog.hardcoregaming101.net/2010/05/mystery-of-japanese-mystery-house.html) – Kurt Kalata. "The Mystery of the Japanese Mystery House"
-[^ref-20]: [Wayback Machine – Japanese sales data](https://web.archive.org/web/20040215000000*/homepage2.nifty.com) – Japanese sales data archived at Homepage2.nifty.com
-[^ref-21]: [TouchArcade](http://toucharcade.com/2009/03/12/1980-adventure-mystery-house-comes-to-the-iphone/) – "1980 Adventure 'Mystery House' Comes to the iPhone"
-[^ref-22]: [Adventure Gamers](https://web.archive.org/web/20130822113137/http://www.adventuregamers.com/articles/view/17880) – Mystery House review
-[^ref-23]: [IF Archive](https://ifarchive.org/if-archive/art/mhto/) – Mystery House Taken Over project materials
+## 

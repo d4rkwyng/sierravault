@@ -119,53 +119,5 @@ The title's impact on flight simulation gaming remains significant, with modern 
 
 ## See Also
 
-|  | **Aces Series** |  |
-|:---:|:---:|:---:|
-| **←** First game in series | [[1993 - Aces Over Europe\|Aces Over Europe]] **→** |  |
-## Downloads
 
-**Purchase / Digital Stores**
-- Currently available on GOG.com[^ref-20]
-
-**Download / Preservation**
-- [Internet Archive - Demo Version](https://archive.org/details/AcesOfThePacificDemo)[^ref-2]
-- [Internet Archive - Full Version v1.0](https://archive.org/details/aces-of-the-pacific-v-1.0-1992)[^ref-15]
-- [Internet Archive - 1994 Sierra Release](https://archive.org/details/Aces_of_the_Pacific_1994_Sierra)[^ref-21]
-- [Internet Archive - WWII 1946 Expansion](https://archive.org/details/001054-AcesOfThePacificWwii1946)[^ref-22]
-- [Internet Archive - Community Mods](https://archive.org/details/wargamer-depot_aces-of-the-pacific)[^ref-18]
-- [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
-
-## References
-
-[^ref-1]: [GameFAQs - Aces of the Pacific](https://gamefaqs.gamespot.com/pc/915693-aces-of-the-pacific) – - Release year and developer information
-[^ref-2]: [Internet Archive - Aces of the Pacific Demo](https://archive.org/details/AcesOfThePacificDemo) – - Game description and timeline
-[^ref-3]: [GOG Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Sequel information
-[^ref-4]: [GOG Dreamlist - Aces Over Europe](https://www.gog.com/dreamlist) – - Developer credit
-[^ref-5]: [MobyGames - Aces of the Pacific Credits](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/credits/dos/) – - Design team information
-[^ref-6]: [Computing History - Aces of the Pacific](https://www.computinghistory.org.uk/det/30713/Aces-Of-The-Pacific/) – - Publisher information
-[^ref-7]: [MobyGames - Aces of the Pacific Specs](https://www.mobygames.com/game/1419/aces-of-the-pacific/specs/) – - Platform compatibility
-[^ref-8]: [AbandonwareDOS Manual](https://www.abandonwaredos.com/docawd.php?sf=acespacificmanual.txt&st=manual&sg=Aces+of+the+Pacific&idg=1739) – - Control specifications
-[^ref-9]: [Gamicus Wiki - Aces of the Pacific](https://gamicus.fandom.com/wiki/Aces_of_the_Pacific) – - Expansion pack details
-[^ref-10]: [MobyGames - WWII 1946 Expansion](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/) – - Alternate history premise
-[^ref-12]: [Wikipedia - Aces of the Pacific](https://en.wikipedia.org/wiki/Aces_of_the_Pacific) – - Computer Gaming World reviews
-[^ref-13]: [MobyGames - Aces of the Pacific](https://www.mobygames.com/game/1419/) – - Database rating
-[^ref-14]: [Dynamix Fandom - Aces Series](https://dynamix.fandom.com/wiki/Aces_(series) – ) - Series planning information
-[^ref-15]: [Internet Archive - Version 1.0](https://archive.org/details/aces-of-the-pacific-v-1.0-1992) – - Media format information
-[^ref-16]: [Metacritic - WWII 1946 Expansion](https://www.metacritic.com/game/aces-of-the-pacific-expansion-disk-wwii-1946/) – - Version 1.2 features
-[^ref-17]: [Sierra Help - Manuals](http://sierrahelp.com/Documents/Manuals.html) – - Technical documentation availability
-[^ref-18]: [Internet Archive - Community Files](https://archive.org/details/wargamer-depot_aces-of-the-pacific) – - Community content preservation
-[^ref-19]: [GOG Forum - Red Baron Input Issues](https://www.gog.com/forum/red_baron_pack/rb1_no_input) – - DOSBox compatibility challenges
-[^ref-20]: [GOG Dreamlist - European Air War](https://www.gog.com/dreamlist) – - Current availability reference
-[^ref-21]: [Internet Archive - 1994 Release](https://archive.org/details/Aces_of_the_Pacific_1994_Sierra) – - CD-ROM version
-[^ref-22]: [Internet Archive - WWII 1946](https://archive.org/details/001054-AcesOfThePacificWwii1946) – - Expansion preservation
-[^ref-23]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=211&title=aces-of-the-pacific&fld=general) – - Archive metadata
-[^ref-24]: [Sierra Chest - Trailers](https://www.sierrachest.com/adrdd/index.php?a=games&id=211&title=aces-of-the-pacific&fld=trailers) – - Promotional materials
-[^ref-25]: [Sierra Chest - Memorabilia](https://www.sierrachest.com/index.php?a=games&id=211&fld=memorabilia&pid=45) – - Collectibles archive
-[^ref-26]: [Sierra Help - DOSBox Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern compatibility support
-[^ref-27]: [MobyGames - Cover Gallery](https://www.mobygames.com/game/1419/aces-of-the-pacific/cover/group-61497/cover-355625/) – - Packaging materials
-[^ref-28]: [MobyGames - Patch Information](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/patches/) – - Update status
-[^ref-29]: [MobyGames - Series Information](https://www.mobygames.com/game-group/aces-of-the-pacific-series) – - Franchise details
-[^ref-30]: [GOG Forum - Pacific Strike Discussion](https://www.gog.com/forum/strike_commander/does_anyone_remember_pacific_strike) – - Related game comparison
-[^ref-31]: [Internet Archive - Floppy Collection](https://archive.org/details/001352-AcesOfThePacific) – - Physical media preservation
-[^ref-32]: [Internet Archive - DOS Collection](https://archive.org/details/RBAOEAOP) – - DOS version archive
-[^ref-33]: [AeroScale Review](https://archive.aeroscale.net/review/2525/index.htm) – - Aviation publication coverage
+## 

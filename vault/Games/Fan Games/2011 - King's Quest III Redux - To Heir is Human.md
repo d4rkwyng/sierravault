@@ -260,37 +260,9 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
 ## See Also
-
-King's Quest III Redux is a fan remake of the third entry in Sierra's flagship King's Quest series. The original 1986 game marked the first time players did not control King Graham, instead following his kidnapped son Alexander (known as Gwydion during his captivity)[^ref-20]. The story directly connects to the overarching series narrative, with Alexander's return to Daventry setting up events that would continue in King's Quest IV: The Perils of Rosella.
-
-AGD Interactive's remake also connects to their own continuity established in King's Quest II: Romancing the Stones, with certain story elements and the mysterious "Father" character tying into the "Myth Arc" they developed[^ref-13]. This creates a unique fan continuity that enriches the Sierra original while paying homage to the broader franchise.
-
-- **Previous:** [[2002 - King's Quest II+ - Romancing the Stones]] (AGD Interactive remake)
 - **Related Original:** [[1986 - King's Quest III - To Heir Is Human]] (Sierra original)
 - **Story Sequel:** [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[2010 - The Silver Lining|← Previous: The Silver Lining]]
 - [[2011 - Space Quest - Vohaul Strikes Back|→ Next: Space Quest - Vohaul Strikes Back]]
 
-## References
-
-[^ref-1]: [Gamewise – King's Quest III Redux](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human) – release date, developer, platform information
-[^ref-2]: [Free Games Utopia – King's Quest III Redux](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) – features description, ratings, platform details
-[^ref-3]: [IGN – Relive the Magic of King's Quest Today](https://www.ign.com/articles/2011/02/25/relive-the-magic-of-kings-quest-today-with-kings-quest-iii-redux) – developer quotes, development history, voice cast, release announcement
-[^ref-4]: [Adventure Game Studio – King's Quest III Redux](https://www.adventuregamestudio.co.uk/play/game/1413/) – game description, user reviews, AGS Awards nominations, technical specs
-[^ref-5]: [CDRomance – King's Quest III Redux](https://cdromance.org/windows/kings-quest-iii-redux-to-heir-is-human-remake/) – version info, description of new content, download statistics
-[^ref-7]: [AGD Interactive Forums – User Review](http://www.agdinteractive.com/forum/viewtopic.php?t=15085) – detailed user review, ratings breakdown, music praise
-[^ref-8]: [MobyGames – King's Quest III Redux](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – credits, ratings, technical specifications, developer info
-[^ref-9]: [MobyGames – Infamous Adventures King's Quest III](https://www.mobygames.com/game/23393/kings-quest-iii-to-heir-is-human/) – alternative remake information, description, ratings
-[^ref-10]: [GameSpot – User Review](https://www.gamespot.com/kings-quest-iii-redux/user-reviews/2200-481450/) – user review, gameplay details, villain analysis
-[^ref-11]: [IMDB – King's Quest III Redux](https://www.imdb.com/title/tt1847623/) – full voice cast, release date, ratings
-[^ref-20]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – original game story details, background
-[^ref-13]: [TV Tropes – King's Quest III Redux](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIIRedux) – Easter eggs, story connections, gameplay changes, references
-[^ref-14]: [MobyGames – Original King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – original game reviews, technical context
-[^ref-15]: [Adventure Game Studio Forums – Dead End Discussion](https://www.adventuregamestudio.co.uk/forums/hints-tips/king-s-quest-iii-redux-to-heir-is-human-dead-end/) – dead end elimination details, porridge puzzle
-[^ref-16]: [NoobFeed – King's Quest III Redux Review](https://www.noobfeed.com/reviews/kings-quest-iii-redux-to-heir-is-human) – professional review, score, gameplay analysis
-[^ref-17]: [Knoji – King's Quest III Redux Review](https://videogames.knoji.com/kings-quest-iii-redux-to-heir-is-human-review/) – system requirements, review, quality praise
-[^ref-18]: [Gamewise – Ratings](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human/Walkthrough) – user ratings, genre classification
-[^ref-19]: [Abandonware DOS – King's Quest III Redux](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King's+Quest+III+Redux:+To+Heir+is+Human&gid=3491) – ratings, compatibility notes, platform info
-[^ref-21]: [Old-Games.com – King's Quest III Redux Download](https://www.old-games.com/download/11892/king-s-quest-iii-redux) – download size, file information
-[^ref-22]: [AGD Interactive Forums – Bug Reports](http://www.agdinteractive.com/forum/viewforum.php?f=32&start=200) – version history, bug fixes, patch information
-[^ref-23]: [PCGamingWiki – King's Quest III](https://www.pcgamingwiki.com/wiki/King's_Quest_III:_To_Heir_Is_Human) – remakes listing, technical compatibility information
+## 

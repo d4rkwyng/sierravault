@@ -216,30 +216,7 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182)
 
 ## See Also
-
-- **Previous:** [[1990 - Stellar 7]]
-- **Next:** Stellar 7: Draxon's Revenge (1993) (3DO console)
 - [[1990 - Stellar 7|← Previous: Stellar 7]]
 - [[1993 - Stellar 7 - Draxon's Revenge|→ Next: Stellar 7 - Draxon's Revenge]]
 
-## References
-
-[^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Release year and story information
-[^ref-2]: [Archive.org](https://archive.org/details/msdos_Nova_9_-_Return_of_Gir_Draxon_1991) – Game story and Raven II details
-[^ref-3]: [Archive.org Demo](https://archive.org/details/Nova9ReturnOfGirDraxonDemo) – Marketing tagline
-[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Engine information, reviews, and technical details
-[^ref-5]: [Sierra Fandom](https://sierra.fandom.com/wiki/Dynamix) – Context of Sierra's diversification strategy
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/) – Developer information and user reviews
-[^ref-8]: [Archive.org](https://archive.org/details/mrdos_nova9) – Designer credits and composer information
-[^ref-9]: [Wikidata](https://www.wikidata.org/wiki/Q7064010) – Publisher information
-[^ref-10]: [OpenRetro](https://openretro.org/game/663475f7-23c3-5f32-912b-ef40cb6f554e) – Platform and technical information
-[^ref-11]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=373&title=nova-9&fld=walkthrough) – Sarah's death and background story
-[^ref-12]: [Metacritic](https://www.metacritic.com/game/nova-9-the-return-of-gir-draxon/) – Game setting description
-[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/nova-9-the-return-of-gir-draxon-1xh) – Perspective and gameplay information
-[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Nova+9:+The+Return+of+Gir+Draxon&gid=3182) – Planet exploration details and user rating
-[^ref-16]: [MobyGames Review](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/user-review/2681078/) – Design criticism regarding puzzles
-[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2731/nova-9-the-return-of-gir-draxon/reviews/dos/) – Difficulty assessment
-[^ref-18]: [AMR Reviews](http://amr.abime.net/review_25631) – Amiga magazine review scores
-[^ref-20]: [Glitchwave](https://glitchwave.com/game/nova-9-the-return-of-gir-draxon/) – Modern rating
-[^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist) – Sequel relationship to Stellar 7
-[^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Planned sequel information
+## 

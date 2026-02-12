@@ -200,33 +200,10 @@ The continued support for the project, with updates still being released as rece
 The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
 ## See Also
-
-The Space Quest II VGA Remake is a faithful recreation of the second game in Sierra's Space Quest series. The original Space Quest II: Vohaul's Revenge was released in 1987, following the success of the original Space Quest: The Sarien Encounter (1986). The story continues Roger Wilco's adventures and introduces the villain Sludge Vohaul, who would remain an important antagonist throughout the series.[^ref-1]
-
-The game serves as a bridge between Roger's first heroic act of saving Xenon from the Sariens and his later adventures in Space Quest III: The Pirates of Pestulon (1989). The VGA Remake includes easter eggs referencing Space Quest III, acknowledging the continuing storyline.[^ref-12]
-
 - **Original Game:** Space Quest II: Vohaul's Revenge (1987)
 - **Previous in Series:** Space Quest: The Sarien Encounter (1986)
 - **Next in Series:** Space Quest III: The Pirates of Pestulon (1989)
 - [[2011 - Space Quest - Vohaul Strikes Back|← Previous: Space Quest - Vohaul Strikes Back]]
 - [[2012 - Space Quest - Incinerations|→ Next: Space Quest - Incinerations]]
 
-## References
-
-[^ref-1]: [Game Essence – Space Quest II VGA Remake](https://www.gamessence.net/space-quest-ii-vga-remake-by-infamous-adventures/) – Developer identification, original creators, game description
-[^ref-2]: [AGD Interactive Forums – Release Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=15596) – Release date, development time, features, voice pack details, manual information
-[^ref-3]: [Infamous Adventures itch.io – Purchase Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake/purchase) – Platform availability, file sizes, pricing model
-[^ref-4]: [Infamous Adventures itch.io – Main Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – Version 2.0 release date, ratings, Universal Binary release, update notes
-[^ref-5]: [KBH Games – Space Quest II VGA Remake](https://kbhgames.com/game/space-quest-ii-vga-remake) – Game description, VGA graphics
-[^ref-6]: [Indie Retro News – Space Quest II VGA Remake](https://www.indieretronews.com/2020/01/space-quest-ii-vga-remake-by-infamous.html) – Version 2.0 announcement
-[^ref-7]: [VOGONS Forums – Space Quest II Discussion](https://www.vogons.org/viewtopic.php?t=22863) – Development status updates, community comparisons to AGDI
-[^ref-8]: [Sierra Gamers Forums – Space Quest II VGA Remake Topic](https://www.sierragamers.com/forums/topic/space-quest-ii-vga-remake/) – Discussion of AGD cancellation
-[^ref-9]: [PCGamingWiki – Space Quest II VGA Remake](https://www.pcgamingwiki.com/wiki/Space_Quest_II_VGA_Remake) – System requirements, platform compatibility
-[^ref-10]: [MobyGames – Space Quest II Search Results](https://www.mobygames.com/search/?q=Space+Quest+II+VGA+Remake&type=game) – Release dates, platform list
-[^ref-11]: [Infamous Adventures itch.io – Comments](https://infamousadventures.itch.io/space-quest-ii-vga-remake/comments) – Technical issues, Linux libpng problem, macOS fullscreen workarounds
-[^ref-12]: [Infamous Adventures itch.io – Devlog V2.0](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog/117383/space-quest-ii-v20) – Easter egg information, bug fixes, secret bar changes
-[^ref-13]: [Infamous Adventures itch.io – Devlog Index](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog) – Original release date confirmation
-[^ref-14]: [RAWG.io – Space Quest II VGA Remake](https://rawg.io/games/space-quest-ii-vga-remake) – Platform information, game description[^ref-15]: [Giant Bomb - Space Quest II VGA Remake](https://www.giantbomb.com/space-quest-ii-vga-remake/) - game wiki entry
-[^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
-[^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
-[^ref-18]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information
+## 

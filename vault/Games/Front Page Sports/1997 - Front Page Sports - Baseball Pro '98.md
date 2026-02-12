@@ -231,43 +231,7 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 - CNET Download page (historical)[^ref-12]
 
 ## See Also
-
-Front Page Sports: Baseball Pro '98 serves as the third and final entry in the Front Page Sports Baseball series. It built upon the foundation established by the original 1994 release and addressed criticisms leveled at the 1996 edition[^ref-10]. The series was part of the broader Front Page Sports brand, which also included the popular football simulation line[^ref-18].
-
-The game succeeded in establishing itself as the definitive baseball management simulation of its era, even as it failed to capture the arcade gaming audience. Its sophisticated statistical modeling and career mode created a template that would influence later sports management games. The series' cancellation following this release left hardcore simulation fans without a clear successor, though the game's online league community kept its spirit alive for years afterward[^ref-9].
-
-- **Previous:** [[1996 - Front Page Sports - Baseball Pro '96]]
-- **Next:** N/A (Final entry in series)
 - [[1996 - Front Page Sports - Football Pro '97|← Previous: Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Football Pro '98|→ Next: Front Page Sports - Football Pro '98]]
 
-## References
-
-[^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – release date, developer, publisher, platform, GameRankings score
-[^ref-2]: [Baseball Is My Life – Front Page Sports Series](https://baseballismy.life/baseball-video-games/front-page-sports-baseball-pro/) – series history, Randy Johnson cover appearances, game modes
-[^ref-3]: [MobyGames – Front Page Sports: Baseball Pro '98](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – credits, MobyScore, technical specifications, official description
-[^ref-4]: [All Video Classic Games – Product Listing](https://www.allvideoclassicgames.com/products/front-page-sports-baseball-98-1clk-windows-10-8-7-vista-xp-install) – review quotes, CAMS system, feature description
-[^ref-5]: [PC Gamer Online Review (Archive.org)](https://web.archive.org/web/20000301165056/http://www.pcgamer.com/reviews/454.html) – Gary Whitta review, 60% score, system requirements, critical assessment
-[^ref-6]: [Old-Games.com – Front Page Sports Baseball Pro](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – retrospective review, series origins
-[^ref-7]: [Old-Games.com – Baseball Pro '98](https://www.old-games.com/download/6102/front-page-sports-baseball-pro) – technical features, game modes, physics engine details
-[^ref-8]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-baseball-pro-98) – user testimonials, sabermetrics comparison
-[^ref-9]: [Wikipedia – Front Page Sports Baseball Series](https://en.wikipedia.org/wiki/Front_Page_Sports_Baseball) – series overview, roster structure, Next Generation review, ongoing legacy
-[^ref-10]: [CD Magazine Review (Archive.org)](https://web.archive.org/web/20030906102803/http://www.cdmag.com/articles/002/121/fps_baseball_98_review.html) – Steve Bauman review, development focus, interleague play
-[^ref-11]: [GM Games – Front Page Sports Football '98](https://gmgames.org/front-page-sports-football-fb-pro-98/) – interface improvements, feature additions
-[^ref-12]: [Internet Archive – Demo Version](https://archive.org/details/BB98DML) – release year, developer confirmation, technical features, download stats
-[^ref-13]: [GameCenter Review (Archive.org)](https://web.archive.org/web/20000823115824/http://gamecenter.com/Reviews/Item/0,6,0-1033,00.html) – Lance Elko review, 8/10 score, gameplay modes
-[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-98-review/1900-2536100/) – Stephen Poole review, 8/10 score, management praise
-[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197399-front-page-sports-baseball-pro-98) – user ratings, playtime data
-[^ref-16]: [AllGame Review (Archive.org)](https://web.archive.org/web/20141117080016/http://www.allgame.com/game.php?id=16092&tab=review) – Brad Cook review, control options
-[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-baseball-pro-98-fz3) – release regions, alternate titles, download information
-[^ref-18]: [Filfre.net](https://www.filfre.net/?s=Front+Page+Sports%3A+Baseball+Pro+%2798) – Front Page Sports Football series context
-[^ref-19]: [The Junkyard Forums](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth Studios information, Dynamix connection
-[^ref-20]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=308&title=baseball-pro-98&fld=demos) – version information, demo availability
-[^ref-21]: [GameRankings (Archive.org)](https://web.archive.org/web/20190609005715/https://www.gamerankings.com/pc/197399-front-page-sports-baseball-pro-98/index.html) – patch dates, release confirmation
-[^ref-22]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242&start=10) – DOSBox compatibility, series comparison
-[^ref-23]: [Online Gaming Review News (Archive.org)](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – pricing, rebate offer, feature list
-[^ref-24]: [ESRB Rating](https://www.esrb.org/ratings/2601/front-page-sports-baseball-pro-98/) – E for Everyone rating
-[^ref-25]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-98/) – developer credits, file information
-[^ref-26]: [Wikidata](https://www.wikidata.org/wiki/Q102163615) – structured metadata, series information
-[^ref-27]: [eBay Product Page](https://www.ebay.com/p/170313558) – ESRB rating, stadium features, media format
-[^ref-28]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – release date, user reviews, download statistics
+## 

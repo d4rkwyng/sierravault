@@ -233,43 +233,9 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
 
 ## See Also
-
-Heart of China is part of an informal trilogy of adventure games created by Jeff Tunnell's team at Dynamix using the Dynamix Game Development System. While not a direct narrative sequel to any game, it shares engine technology, design philosophy, and development staff with Rise of the Dragon (1990) and The Adventures of Willy Beamish (1991)[^ref-7].
-
-The three games together represent Dynamix's complete output in the adventure genre before the studio shifted focus to simulations and strategy games[^ref-6]. Each game showcased different applications of the DGDS engine: Rise of the Dragon offered a cyberpunk noir experience, Heart of China provided pulp adventure thrills, and Willy Beamish delivered family-friendly comedy.
-
 - **Related:** [[1990 - Rise of the Dragon]]
 - **Related:** [[1991 - The Adventures of Willy Beamish]]
 - [[1990 - Rise of the Dragon|← Previous: Rise of the Dragon]]
 - [[1991 - The Adventures of Willy Beamish|→ Next: The Adventures of Willy Beamish]]
 
-## References
-
-[^ref-3]: [Wikipedia – Heart of China](https://en.wikipedia.org/wiki/Heart_of_China) – developer, publisher, release information, design credits
-[^ref-2]: [GOG.com – Heart of China](https://www.gog.com/en/game/heart_of_china) – user reviews, version history, system requirements
-[^ref-4]: [Collection Chamber – Heart of China](https://collectionchamber.blogspot.com/2016/11/heart-of-china.html) – visual analysis, High Road to China comparison, gameplay critique
-[^ref-5]: [Adventure Classic Gaming – Heart of China Review](http://www.adventureclassicgaming.com/index.php/site/reviews/283/) – film inspirations, multiple solutions, graphics modes
-[^ref-6]: [MobyGames – Heart of China User Review](https://www.mobygames.com/game/164/heart-of-china/user-review/2585095/) – production details, Damon Slye appearance, Dynamix adventure exit
-[^ref-7]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – DGDS engine, related games
-[^ref-8]: [MobyGames – Heart of China](https://www.mobygames.com/game/164/heart-of-china/) – platforms, ratings, cast size, version information
-[^ref-9]: [Reddit – r/Sierra](https://www.reddit.com/r/Sierra/comments/1oex8xn/heart_of_china_full_game/) – story synopsis
-[^ref-10]: [GameFAQs – Heart of China Walkthrough](https://gamefaqs.gamespot.com/pc/564612-heart-of-china/faqs/1503) – story locations, Jake Masters background
-[^ref-11]: [Adventure Gamers – Heart of China Walkthrough](https://adventuregamers.com/walkthroughs/heart-of-china) – playable characters, multiple endings
-[^ref-12]: [Sierra Chest – Heart of China Walkthrough](https://sierrachest.com/index.php?a=games&id=375&title=heart-of-china&fld=walkthrough) – locations, character switching
-[^ref-13]: [Lemon Amiga – Heart of China Review](https://www.lemonamiga.com/games/reviews/view.php?id=399) – Romance Meter, Amiga technical specs, Red Baron demo
-[^ref-14]: [Advgamer Blog – Heart of China Won](https://advgamer.blogspot.com/2016/08/heart-of-china-won.html) – ending description
-[^ref-15]: [Walkthrough King – Heart of China](https://www.walkthroughking.com/text/heartofchina.aspx) – interface description, Rise of the Dragon comparison
-[^ref-16]: [Adventure Classic Gaming – Archived Review](https://web.archive.org/web/20080509092504/http://www.adventureclassicgaming.com/index.php/site/reviews/283/) – technical requirements, review score
-[^ref-18]: [MyAbandonware – Heart of China](https://www.myabandonware.com/game/heart-of-china-167) – HOTUD quotes, user reviews
-[^ref-19]: [Hardcore Gaming 101 – Heart of China](http://www.hardcoregaming101.net/heart-of-china/) – Indiana Jones comparison, arcade sequences
-[^ref-20]: [Abandonware DOS – Heart of China](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Heart+of+China&gid=2105) – PC Review score and quote
-[^ref-21]: [Thimbleweed Park Forums – Heart of China GOG Release](https://forums.thimbleweedpark.com/t/heart-of-china-just-released-on-gog-how-frustrating-is-this-game/1992) – GOG release date, player opinions
-[^ref-22]: [IMDB – Heart of China](https://www.imdb.com/find/?q=Heart+of+China&s=tt) – IMDB rating
-[^ref-23]: [OldGames.sk – Heart of China](https://www.oldgames.sk/en/game/heart-of-china/download/1778/) – rating, DGDS engine confirmation
-[^ref-24]: [Amiga Reviews – Heart of China](https://www.amigareviews.leveluphost.com/heartofc.htm) – 93% review score
-[^ref-25]: [Macintosh Repository – Heart of China](https://www.macintoshrepository.org/3983-heart-of-china) – Mac system requirements
-[^ref-26]: [PCGamingWiki – Heart of China](https://www.pcgamingwiki.com/wiki/Heart_of_China) – Windows version specs, DOSBox bundling
-[^ref-27]: [The Cutting Room Floor – Heart of China](https://tcrf.net/Heart_of_China) – debug menu documentation
-[^ref-28]: [Internet Archive – Heart of China](https://archive.org/details/msdos_Heart_of_China_1991) – platform information, game description
-[^ref-29]: [Quest Studios – Heart of China Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/hoc/) – composer credits, audio specifications
-[^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – detailed retrospective, design analysis[^ref-50]: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for Heart of China added
+## 

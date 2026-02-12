@@ -245,37 +245,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 - [Scribd – Game Manual](https://www.scribd.com/document/120481106/Air-Bucks)[^ref-25]
 
 ## See Also
-
-Air Bucks was the inaugural title in Impressions Games' "Bucks" series of business simulations. The game established the core formula of accessible economic simulation that would be applied to different industries in subsequent titles. The series concept was later expanded into outer space with Space Bucks in 1996, which transplanted the trading and transportation management mechanics to an interstellar setting with alien races, though that title was considerably less well-received[^ref-9].
-
-- **Next:** [[1996 - Space Bucks]]
 - [[1991 - Merchant Colony|← Previous: Merchant Colony]]
 - [[1992 - Air Force Commander|→ Next: Air Force Commander]]
 
-## References
-
-[^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year
-[^ref-2]: [Free Game Empire – Air Bucks](https://www.freegameempire.com/games/Air-Bucks) – game description, starting conditions
-[^ref-3]: [Sierra Help – Air Bucks Manual](http://sierrahelp.com/Documents/Manuals/Air_Bucks_-_Manual.txt) – gameplay mechanics, manual quotes, game duration
-[^ref-4]: [MobyGames – Air Bucks](https://www.mobygames.com/game/2693/air-bucks/) – critic scores, technical specs, developer credits
-[^ref-5]: [Internet Archive – Air Bucks MS-DOS](https://archive.org/details/msdos_Air_Bucks_1992) – gameplay features, world generation, Mobygames description
-[^ref-6]: [NeverDieMedia – Air Bucks](https://www.neverdiemedia.com/products/air-bucks-w-manual) – special events, industry details
-[^ref-8]: [COMPUTE! Magazine #156 (September 1993)](http://www.atarimagazines.com/compute/issue156/100_Air_Bucks_version_1.php) – Peter Olafson review, version 1.2 improvements
-[^ref-9]: [Wikipedia – Space Bucks](https://en.wikipedia.org/wiki/Space_Bucks) – sequel information, comparative reviews
-[^ref-11]: [Sierra Chest – Air Bucks](https://sierrachest.com/index.php?a=games&id=405&title=213air-bucks&fld=box&pid=30) – publisher variants, version information
-[^ref-12]: [Gamepressure.com – Air Bucks](https://www.gamepressure.com/games/air-bucks/z418c8) – release date, gameplay details, user rating
-[^ref-13]: [MobyGames – Air Bucks MobyRank](https://www.mobygames.com/game/air-bucks/mobyrank) – player ratings, bug reports
-[^ref-14]: [ClassicReload – Air Bucks](https://classicreload.com/air-bucks.html) – alternate titles, gameplay features
-[^ref-15]: [PlayClassic Games – Air Bucks](https://playclassic.games/games/business-simulation-dos-games-online/play-air-bucks-online/) – gameplay challenges, world events
-[^ref-16]: [Lemon Amiga – Air Bucks](https://www.lemonamiga.com/games/details.php?id=50) – Amiga magazine reviews, user comments
-[^ref-17]: [MobyGames – Air Bucks Tech Info](https://www.mobygames.com/game/air-bucks/techinfo) – system requirements, platform specifications
-[^ref-18]: [MyAbandonware – Air Bucks](https://www.myabandonware.com/game/air-bucks-1bv) – user ratings, known issues, development notes
-[^ref-19]: [Lemon Amiga – Air Bucks v1.2](https://www.lemonamiga.com/games/details.php?id=221) – AGA version, stock market mechanics
-[^ref-20]: [Giant Bomb – Air Bucks](https://www.giantbomb.com/air-bucks/3030-5198/) – release history, version information
-[^ref-21]: [AbandonwareGames.net – Air Bucks](https://abandonwaregames.net/game/air-bucks) – user rating, platforms
-[^ref-22]: [Emuparadise – Air Bucks](https://www.emuparadise.me/Abandonware_Games/Air_Bucks_(1992)(Sierra_Online)/92298) – user rating, SimAir comparison
-[^ref-23]: [Abandonware DOS – Air Bucks](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Air+Bucks&gid=3275) – user rating, platforms
-[^ref-24]: [Atari Legend – Air Bucks](https://www.atarilegend.com/games/air-bucks) – composer credits, music tracks
-[^ref-25]: [Scribd – Air Bucks Manual](https://www.scribd.com/document/120481106/Air-Bucks) – manual metadata
-[^ref-26]: [MyAbandonware – User Comments](https://www.myabandonware.com/game/air-bucks-1bv/play-1bv) – nostalgic user comment
-[^ref-27]: [Internet Archive – Manual and Strategy Guide](https://archive.org/details/air-bucks-manual-and-strategy-guide) – manual availability
+## 

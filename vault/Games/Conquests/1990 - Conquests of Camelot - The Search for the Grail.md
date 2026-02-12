@@ -243,44 +243,6 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 - [Liber Ex Doctrina Manual](https://archive.org/stream/vgmuseum_sierra_camelot-manual/camelot-manual_djvu.txt)
 
 ## See Also
-
-*Conquests of Camelot* was the first and only Arthur-focused entry in Sierra's Conquests series. The series continued with a shift in setting to medieval England with Robin Hood as the protagonist. While the two games share design philosophies—deep research, moral scoring systems, and blending historical elements with legend—they do not share narrative continuity or returning characters.
-
-The ending of *Conquests of Camelot* left the romantic tension between Arthur, Launcelot, and Gwenhyver unresolved, with Merlin's observation that Arthur's "heart may never be healed" suggesting a cliffhanger that was never directly addressed in subsequent games.[^ref-23]
-
-- **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood]]
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Next: Conquests of the Longbow - The Legend of Robin Hood]]
 
-## References
-
-[^ref-1]: [Wikipedia – Conquests of Camelot: The Search for the Grail](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – release dates, reviews, credits, series information
-[^ref-2]: [The Adventure Gamer Blog](https://advgamer.blogspot.com/2013/11/game-38-conquests-of-camelot.html) – development credits, Marx background, design philosophy quotes
-[^ref-3]: [PlayClassic.games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-conquests-camelot-search-grail-online/) – gameplay mechanics, scoring system, interface details
-[^ref-4]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – Merlin narration, historical research, version info
-[^ref-5]: [GOG.com – Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) – user reviews, ratings, system requirements
-[^ref-6]: [PCGamingWiki – Conquests of Camelot](https://www.pcgamingwiki.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – engine info, technical specifications, video modes
-[^ref-7]: [King Arthur Fandom Wiki](https://kingarthur.fandom.com/wiki/Conquests_of_Camelot) – plot summary, gameplay description
-[^ref-8]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=140&fld=music) – location-based music, Glastonbury references
-[^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=140&title=conquests-of-camelot&fld=walkthrough&pid=100) – game locations, scoring details
-[^ref-10]: [Abandonware DOS Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=conquestsofcamelotwalkthrough.txt&st=walkthrough&sg=Conquests+of+Camelot:+The+Search+for+the+Grail&idg=2398) – puzzle details, riddle difficulty, currency systems
-[^ref-11]: [MobyGames – Conquests of Camelot](https://www.mobygames.com/game/1408/conquests-of-camelot-the-search-for-the-grail/) – user reviews, trivia, Easter eggs, ratings
-[^ref-12]: [TV Tropes – Conquests of Camelot](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ConquestsOfCamelot) – endings, Merlin quotes, narrative analysis
-[^ref-13]: [GameFAQs – LachieD Walkthrough](https://gamefaqs.gamespot.com/pc/564770-conquests-of-camelot-the-search-for-the-grail/faqs/44699) – parser instructions
-[^ref-14]: [Reddit r/Sierra](https://www.reddit.com/r/Sierra/comments/1nmnn1w/conquests_of_camelot_the_search_for_the_grail/) – spelling variations, parser compatibility
-[^ref-16]: [Lemon Amiga – Review](https://www.lemonamiga.com/games/reviews/view.php?id=481) – Amiga performance issues, difficulty settings, review score
-[^ref-17]: [AmigaLove](https://www.amigalove.com/games.php?game_id=41) – Amiga port quality, graphics analysis, historical accuracy
-[^ref-18]: [Metzomagic.com – Gordon Aplin Review](https://www.metzomagic.com/showArticle.php?index=698) – retrospective analysis, legacy assessment
-[^ref-19]: [My Abandonware](https://www.myabandonware.com/game/conquests-of-camelot-the-search-for-the-grail-1vl) – HOTUD review quotes, user ratings
-[^ref-20]: [IMDB – Conquests of Camelot](https://www.imdb.com/title/tt0455402/) – user rating, Latin graffiti trivia
-[^ref-21]: [Lemon Amiga – Game Page](https://www.lemonamiga.com/games/docs.php?id=367) – aggregate user rating
-[^ref-22]: [OldGames.sk](https://www.oldgames.sk/en/game/conquests-of-camelot-the-search-for-the-grail/download/1528/) – user rating
-[^ref-23]: [Conquests Fandom – Development](https://conquests.fandom.com/wiki/Conquests_of_Camelot_development) – title changes, cut content, version differences
-[^ref-24]: [Sierra Help – Soundtrack Collection](https://sierrahelp.com/Music/SierraSoundtrackCollection.html) – Mark Seibert composer notes
-[^ref-25]: [Sierra Chest – Easter Eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) – Monty Python references, designer references
-[^ref-26]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – compilation track listing
-[^ref-27]: [Quest Studios – Digital Soundtracks](https://www.midimusicadventures.com/queststudios/digital-soundtracks/camelot/) – fan soundtrack project
-[^ref-28]: [Sierra Music Central](http://www.sierramusiccentral.com/camelot.html) – music preservation
-[^ref-29]: [Speedrun.com](https://www.speedrun.com/conquests_of_camelot_the_search_for_the_grail) – speedrun records
-[^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – EGA graphics, Monty Python references
-[^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, bug documentation
-[^ref-32]: [Speedrun Wiki](https://www.speedrunwiki.com/w/index.php?title=Conquests_of_Camelot:_The_Search_For_The_Grail&mobileaction=toggle_view_desktop) – speedrun categories, statistics
+## 

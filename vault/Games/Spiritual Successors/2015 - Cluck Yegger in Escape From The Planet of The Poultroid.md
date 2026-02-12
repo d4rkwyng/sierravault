@@ -224,35 +224,8 @@ As a standalone product, *Cluck Yegger* succeeded in what it set out to do: prov
 The macOS version is not compatible with macOS 10.15 Catalina or later versions[^ref-3]. Linux users may experience technical issues with camera displays and movement controls[^ref-19].
 
 ## See Also
-
-*Cluck Yegger* exists as part of the broader *SpaceVenture* universe created by the Two Guys from Andromeda. The character of Cluck Yegger appears in the main *SpaceVenture* game, where Mike Schiff reprises his voice role[^ref-23]. The game shares thematic DNA with the *Space Quest* series, featuring the same brand of science fiction parody and absurdist humor that characterized those classic Sierra adventures.
-
-While not a direct sequel or prequel to any specific game, *Cluck Yegger* serves as a standalone side story within the *SpaceVenture* continuity. The characters and settings were developed as part of the larger project, making this mini-game an extended preview of the universe that would eventually be fully realized in *SpaceVenture* (2022)[^ref-23].
-
 - **Related:** [[2022 - SpaceVenture]]
 - [[2014 - Quest for Infamy|← Previous: Quest for Infamy]]
 - [[2015 - Order of the Thorne - The King's Challenge|→ Next: Order of the Thorne - The King's Challenge]]
 
-## References
-
-[^ref-1]: [Wikipedia – Cluck Yegger in Escape from the Planet of the Poultroid](https://en.wikipedia.org/wiki/Cluck_Yegger_in_Escape_from_the_Planet_of_the_Poultroid) – release dates, developer info, Tame Mode, development context
-[^ref-2]: [Alchetron – Cluck Yegger in Escape from the Planet of the Poultroid](https://alchetron.com/Cluck-Yegger-in-Escape-from-the-Planet-of-the-Poultroid) – gameplay mechanics, development timeline, credits, FNAF comparison
-[^ref-3]: [Steam Store – Official Page](https://store.steampowered.com/app/416800/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid/) – release date, platforms, system requirements, user ratings, game description
-[^ref-4]: [Kickstarter – Two Guys SpaceVenture Campaign](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/1367531) – funding information, developer background
-[^ref-6]: [Rock Paper Shotgun – SpaceVenture Cluck Yegger Minigame Article](https://www.rockpapershotgun.com/2015/10/29/much-delayed-two-guys-spaceventure-project-offers-cluck-yegger-minigame-to-backers/) – backer release date, game description, Halloween timing
-[^ref-7]: [Steam Community – User Reviews](https://steamcommunity.com/app/416800/reviews/?browsefilter=toprated) – player quotes, Linux issues, FNAF comparison, pricing
-[^ref-8]: [PCGamingWiki – Technical Information](https://www.pcgamingwiki.com/wiki/Cluck_Yegger_in_Escape_From_The_Planet_of_The_Poultroid) – Unity version, storage requirements
-[^ref-10]: [Hero Fandom Wiki – Cluck Yegger Character](https://hero.fandom.com/wiki/Cluck_Yegger) – character details, occupation, objective
-[^ref-11]: [Villains Fandom Wiki – Colonel Zanderz](https://villains.fandom.com/wiki/Colonel_Zanderz) – antagonist details, KFC parody, villain dialogue
-[^ref-12]: [Steam Community – Discussions](https://steamcommunity.com/app/416800) – gameplay mechanics, German availability, pricing, bug reports
-[^ref-13]: [Universe of Smash Bros. Lawl Fandom Wiki](https://universe-of-smash-bros-lawl.fandom.com/wiki/Cluck_Yegger) – character quotes, easter eggs, transformation
-[^ref-14]: [N4G – News Coverage](http://n4g.com/channel/cluck-yegger-in-escape-from-the-planet-of-the-poultroid) – Cliqist headline
-[^ref-15]: [itch.io – Official Game Page](https://guysfromandromeda.itch.io/cluckyegger) – user rating, voice acting praise, platforms
-[^ref-16]: [WorldsApps – Mobile Listing](https://worldsapps.com/download-cluck-yegger-in-escape-from-the-planet-of-the-poultroid) – mobile release date, app ratings, download count, file size
-[^ref-17]: [Metacritic – Game Page](https://www.metacritic.com/game/cluck-yegger-in-escape-from-the-planet-of-the/) – release date confirmation, no reviews status
-[^ref-18]: [MobyGames – Cluck Yegger Credits](https://www.mobygames.com/game/92413/cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – voice cast, composers, platforms
-[^ref-19]: [Guys From Andromeda Forums – Bug Reports](https://forum.guysfromandromeda.com/forum/40-cluck-yegger-in-escape-from-the-planet-of-the-poultroid/) – Linux issues, VO button, camera problems
-[^ref-20]: [IMDB – Game Entry](https://www.imdb.com/title/tt5248286/) – release date, voice cast confirmation
-[^ref-21]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Cluck+Yegger+in+Escape+from+the+Planet+of+the+Poultroid) – platform release dates
-[^ref-22]: [Foxlo Weebly – Game Description](https://foxlo.weebly.com/cluck-yegger-in-escape-from-the-planet-of-the-poultroid-download-free.html) – Wikipedia classification, genre description
-[^ref-23]: [MobyGames – SpaceVenture Credits](https://www.mobygames.com/game/192353/spaceventure/credits/windows/) – Mike Schiff as Cluck Yegger, connection to SpaceVenture
+## 

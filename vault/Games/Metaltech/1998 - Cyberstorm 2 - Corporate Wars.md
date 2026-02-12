@@ -140,36 +140,7 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 - [Internet Archive](https://archive.org/search?query=cyberstorm+2+corporate+wars) – Preservation archives
 
 ## See Also
-
-- **Previous:** [[1996 - MissionForce - Cyberstorm]]
-- **Next:** No direct sequel produced
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
 
-## References
-
-[^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - Gold master date
-[^ref-2]: [ModDB Game Page](https://www.moddb.com/games/cyberstorm-2-corporate-wars) – - Story background and series context
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/CyberStorm_2:_Corporate_Wars) – - Plot summary
-[^ref-4]: [GamePressure](https://www.gamepressure.com/games/cyberstorm-2-corporate-wars/z5186f) – - Gameplay description
-[^ref-5]: [AbeBooks Strategy Guide](https://www.abebooks.com/9780761515746/Cyberstorm-Corporate-Wars-Primas-Official-0761515747/plp) – - Game premise
-[^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/cyberstorm-2-corporate-wars-review/1900-2538492/) – - Professional review assessment
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/) – - Developer information
-[^ref-8]: [Archive.org Manual](https://archive.org/stream/CyberStorm_2-_Corporate_Wars_-_Manual/CyberStorm_2-_Corporate_Wars_-_Manual_djvu.txt) – - Publisher information
-[^ref-9]: [Old Games Download](https://oldgamesdownload.com/cyberstorm-2-corporate-wars/) – - Historical context
-[^ref-10]: [KHInsider Downloads](https://downloads.khinsider.com/game-soundtracks/album/cyberstorm-2-corporate-wars-1998-windows) – - Visual perspective description
-[^ref-11]: [MobyGames Reviews](https://www.mobygames.com/game/2648/cyberstorm-2-corporate-wars/reviews/) – - Battlefield system changes
-[^ref-12]: [GameRevolution](https://www.gamerevolution.com/review/33208-cyberstorm-2-corporate-wars-review) – - Gameplay mode description
-[^ref-13]: [GamesDB LaunchBox](https://gamesdb.launchbox-app.com/games/details/129606-cyberstorm-2-corporate-wars) – - Corporation mechanics
-[^ref-14]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/cyberstorm-2-corporate-wars) – - Content expansion details
-[^ref-15]: [MyAbandonware](https://www.myabandonware.com/game/cyberstorm-2-corporate-wars-a2r) – - Customization focus
-[^ref-16]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197023-cyberstorm-2-corporate-wars) – - Core gameplay
-[^ref-17]: [GameSpot](https://www.gamespot.com/games/cyberstorm-2-corporate-wars/cheats/) – - Review score
-[^ref-18]: [Old Games](https://www.old-games.com/download/6222/cyberstorm-2-corporate-wars) – - Detailed rating breakdown
-[^ref-19]: [Sierra Gamers](https://www.sierragamers.com/cyberstorm-2/) – - Development context
-[^ref-20]: [Thomas Van Velkinburgh Portfolio](http://www.tvanv.com/cyberstorm-2-corporate-wars/) – - Individual developer contributions
-[^ref-21]: [ModDB Patch](https://www.moddb.com/downloads/cyberstorm2-corporate-wars-patch-v101) – - Patch details
-[^ref-22]: [GitHub Wiki](https://github.com/juanitogan/rbxit/wiki/CyberStorm-2) – - Installation requirements
-[^ref-23]: [NameThatTech Blog](https://namethattech.wordpress.com/2016/01/18/fixing-up-old-computer-games/) – - Compatibility considerations
-[^ref-24]: [MyAbandonware Original Review](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q) – - Series comparison
-[^ref-25]: [GitHub Repository](https://github.com/juanitogan/rbxit) – - Preservation efforts
+## 

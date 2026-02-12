@@ -218,45 +218,7 @@ From a design perspective, the game's innovation of eliminating typing requireme
 - [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
 
 ## See Also
-
-*Winnie the Pooh in the Hundred Acre Wood* was the second title in Sierra's short-lived Disney edutainment partnership, following *Mickey's Space Adventure* (1984).[^ref-2] The games shared a design philosophy of making licensed characters accessible to young children through simplified interfaces while maintaining educational value. Sierra would continue to produce Disney-licensed titles through the mid-1980s, though the partnership was ultimately described as an "unproductive side trip" by Sierra developers.[^ref-19]
-
-The game stands alone within its franchise—while numerous other Winnie the Pooh video games have been produced over the decades by various developers, Sierra's version remains the only one from the company and is unconnected to later Pooh games like *Disney's Winnie the Pooh's Adventures in the 100 Acre Wood* (2000, Game Boy Color).[^ref-26]
-
-- **Previous:** [[1984 - Mickey's Space Adventure]]
-- **Next:** [[1984 - Donald Duck's Playground]]
 - [[1984 - Mickey's Space Adventure|← Previous: Mickey's Space Adventure]]
 - [[1986 - The Black Cauldron|→ Next: The Black Cauldron]]
 
-## References
-
-[^ref-1]: [MobyGames – Winnie the Pooh in the Hundred Acre Wood](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/) – release dates, developers, publishers, platforms, ratings
-[^ref-2]: [My Abandonware – Winnie the Pooh in the Hundred Acre Wood](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75) – series context, educational focus, ratings
-[^ref-3]: [Al Lowe's Official Website – Games](https://allowe.com/downloads/games.html) – developer quotes, engine information, Disney collaboration
-[^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1985) – game description, platform information
-[^ref-5]: [Adventure Game Database](https://www.adventuregamedb.com/g/winnie_the_pooh_in_the_hundred_acre_wood) – interface description, gameplay mechanics
-[^ref-6]: [Every Game Going – The Micro User Review (August 1985)](https://www.everygamegoing.com/larticle/Winnie-The-Pooh-In-The-Hundred-Acre-Wood-Mickeys-Space-Adventure-000/40756) – contemporary review, 84% score, interface details
-[^ref-7]: [DOS Games Archive](https://www.dosgamesarchive.com/download/winnie-the-pooh-in-the-hundred-acre-wood) – freeware release, file information
-[^ref-8]: [DOSGames.com](https://www.dosgames.com/game/winnie-the-pooh-in-the-hundred-acre-wood) – game description, technical specs, review
-[^ref-9]: [Wikipedia – Winnie the Pooh in the Hundred Acre Wood](https://en.wikipedia.org/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – gameplay mechanics, artists, release information
-[^ref-10]: [Lemon Amiga – Game Manual](https://www.lemonamiga.com/games/docs.php?id=1785) – manual quotes, educational goals, age recommendation
-[^ref-11]: [Justapedia – Winnie the Pooh in the Hundred Acre Wood](https://justapedia.org/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – character information, gameplay details
-[^ref-12]: [Lemon64 – Game Details](https://www.lemon64.com/game/winnie-the-pooh) – C64 ratings, user reviews, technical specs
-[^ref-13]: [The Adventurers' Guild – Missed Classic Review (February 2016)](https://advgamer.blogspot.com/2016/02/missed-classic-18-winnie-pooh-in.html) – detailed retrospective, ratings breakdown, game world size
-[^ref-14]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=264&title=winnie-the-pooh&fld=walkthrough&pid=100) – gameplay mechanics, randomization, Owl hints
-[^ref-15]: [Lemon64 – User Review](https://www.lemon64.com/review/winnie-the-pooh/1106) – retrospective assessment, technical notes
-[^ref-16]: [Lemon Amiga – Game Details](https://www.lemonamiga.com/games/details.php?id=2595) – Amiga version details, user reviews
-[^ref-17]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Winnie+the+Pooh+in+the+Hundred+Acre+Wood&gid=2477) – ratings, emulation requirements
-[^ref-18]: [IMDB – Winnie the Pooh in the Hundred Acre Wood](https://www.imdb.com/title/tt3708144/) – ratings, release date, description
-[^ref-19]: [The Digital Antiquarian](https://www.filfre.net/?s=Winnie+the+Pooh+in+the+Hundred+Acre+Wood) – Disney partnership context, developer quotes
-[^ref-20]: [Space Quest Fandom Wiki – Mark Crowe](https://spacequest.fandom.com/wiki/Mark_Crowe_(developer)) – artist credits, development history
-[^ref-21]: [VGMPF Wiki – Commodore 64 Version](https://vgmpf.com/Wiki/index.php?title=Winnie_the_Pooh_in_the_Hundred_Acre_Wood_(C64)) – sound driver details, composer credits
-[^ref-22]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Winnie_the_Pooh_in_the_Hundred_Acre_Wood) – technical specifications, engine information
-[^ref-23]: [MobyGames – Releases](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/releases/) – detailed release dates by platform
-[^ref-24]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood-1986) – community interest, user comments
-[^ref-25]: [ClassicReload](https://classicreload.com/winnie-the-pooh-in-the-hundred-acre-wood.html) – browser playability, preservation
-[^ref-26]: [MobyGames – Adventures in the 100 Acre Wood (GBC)](https://www.mobygames.com/game/173535/disneys-winnie-the-pooh-adventures-in-the-100-acre-wood/) – later unrelated Pooh game
-[^ref-27]: [MoegamerNet – Atari ST A to Z](https://moegamer.net/2019/02/28/atari-st-a-to-z-winnie-the-pooh-in-the-hundred-acre-wood/) – retrospective perspective, Sierra context
-[^ref-28]: [Play DOS Games](https://www.playdosgames.com/online/winnie-the-pooh-in-the-hundred-acre-wood/) – publisher information, freeware status
-[^ref-29]: [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1984_Sierra_Online) – C64 release information
-[^ref-30]: [Wikipedia – Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – artist background, Sierra career
+## 

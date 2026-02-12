@@ -146,31 +146,9 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 - [Humble Bundle](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free option[^ref-24]
 
 ## See Also
-
 - [[Corey Cole]] — Quest for Glory co-creator, co-designer on Bolt Riley
 - [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and writer on Bolt Riley
 - [[2018 - Hero-U - Rogue to Redemption]] — The Coles' own crowdfunded project developed concurrently
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]] — The Coles' breakthrough game at Sierra
 
-## References
-
-[^ref-1]: [Steam Store Page](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official Steam listing with developer, publisher, platform information, and release date
-[^ref-2]: [Adventure Mob - Bolt Riley](https://adventuremob.com/games/bolt-riley/) — Official developer description, gameplay features, and Kickstarter backer information
-[^ref-4]: [Wikipedia - Leisure Suit Larry: Reloaded](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Reloaded) — Documents Adventure Mob's original involvement with LSL Reloaded
-[^ref-5]: [Rock Paper Shotgun - Bolt Riley Kickstarter](https://www.rockpapershotgun.com/bolt-riley-is-a-reggae-adventure-game-kickstartering) — Coverage of Kickstarter launch and Cole involvement (October 31, 2013)
-[^ref-6]: [Alternative Magazine Online Interview](https://alternativemagazineonline.co.uk/2013/11/20/interview-in-conversation-with-oded-sharon-bolt-riley-a-reggae-adventure-game-kickstarter/) — Extensive interview with Oded Sharon covering background, Unity 3D engine, and design philosophy (November 20, 2013)
-[^ref-7]: [IMDB - Bolt Riley](https://www.imdb.com/title/tt8707024/) — Cast and production information
-[^ref-9]: [Adventure Mob - Bolt Riley Credits](https://adventuremob.com/bolt-riley-credits/) — Complete development credits including designers and voice cast
-[^ref-10]: [Kicktraq - Bolt Riley](http://www.kicktraq.com/projects/soundguy/bolt-riley-a-reggae-adventure-game/) — Kickstarter campaign tracking and Cole involvement summary
-[^ref-11]: [itch.io - Bolt Riley](https://soundguy.itch.io/boltriley) — Story description and game details
-[^ref-13]: [NoCamels](https://nocamels.com/2013/11/israeli-kickstarter-campaign-tries-to-bring-a-reggae-adventure-game-to-life/) — Israeli coverage of Kickstarter campaign (December 2013)
-[^ref-14]: [Reddit AMA](https://www.reddit.com/r/IAmA/comments/1pz14b/hey_we_are_corey_and_lori_cole_creators_of_quest/) — Corey Cole, Lori Cole, and Oded Sharon AMA (November 5, 2013)
-[^ref-15]: [Facebook - Bolt Riley](https://www.facebook.com/BoltRiley/) — Official Facebook page with game updates
-[^ref-17]: [GamesBeat](https://gamesbeat.com/leisure-suit-larry-reloaded-has-lots-of-innuendo-without-explicit-sex-exclusive-preview/) — Reports Adventure Mob to N-Fusion developer switch
-[^ref-18]: [VentureBeat](https://venturebeat.com/2014/08/04/israeli-developer-tries-a-game-about-love-in-peace-during-wartime/) — Kickstarter funding details and investment history (August 4, 2014)
-[^ref-19]: [mxdwn Games](https://games.mxdwn.com/news/adventure-game-bolt-riley-attempts-7-day-kickstarter/) — Coverage of second Kickstarter campaign (August 5, 2014)
-[^ref-20]: [Steam - Soundtrack DLC](https://store.steampowered.com/app/510820/Bolt_Riley_A_Reggae_Adventure__Chapter_1_Soundtrack/) — Omri Lahav composer credit
-[^ref-21]: [Adventure Gamers - Bolt Riley](https://adventuregamers.com/games/view/25570) — Game database entry with release information
-[^ref-22]: [Patreon - The Future of Bolt Riley](https://www.patreon.com/posts/future-of-bolt-16877404) — Oded Sharon update on development status
-[^ref-23]: [ModDB - Bolt Riley](https://www.moddb.com/games/bolt-riley-a-reggae-adventure) — Game information and media
-[^ref-24]: [Humble Bundle - Bolt Riley](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free purchase option
+## 

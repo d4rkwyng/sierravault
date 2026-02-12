@@ -249,43 +249,6 @@ Red Baron also represented an important step in the maturation of flight simulat
 - [Internet Archive – Red Baron Manual](https://archive.org/stream/Red_Baron_-_Manual/Red_Baron_-_Manual_djvu.txt)
 
 ## See Also
-
-Red Baron launched one of the most respected flight simulation franchises of the 1990s. The original game established the core formula—historically accurate WWI aerial combat with an engaging career system—that would be refined in subsequent releases. The Mission Builder expansion (1992) added user-created content capabilities, extending the game's replay value significantly.
-
-The series continued with Red Baron II (1997) and its enhanced re-release Red Baron 3D (1998), which updated the formula with improved graphics and multiplayer capabilities, though these later entries had troubled development cycles. A spin-off, Red Baron Arcade (2008), took the franchise in an action-oriented direction that received mixed reviews.
-
-The franchise was acquired by Mad Otter Games in 2009, with original creator Damon Slye involved in efforts to revive the series. Though the 2013 Kickstarter campaign failed, the classic games remain available through digital distribution platforms.
-
-- **Next:** [[1992 - Red Baron - Mission Builder]]
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
 
-## References
-
-[^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards
-[^ref-2]: [Grokipedia – Red Baron (1990)](https://grokipedia.com/page/Red_Baron_(1990_video_game)) – technical details, Damon Slye quotes, engine information
-[^ref-3]: [Games Nostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – release versions, ratings, aircraft count
-[^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – sales data, awards, development history, Warren Spector quote
-[^ref-5]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – aircraft count, game description
-[^ref-6]: [MyAbandonware – Red Baron](https://www.myabandonware.com/game/red-baron-zs) – user ratings, freeware release, reviews
-[^ref-7]: [GameSpot – Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – Denny Atkin review, gameplay mechanics, flight physics
-[^ref-8]: [Eurogamer – Retrospective: Red Baron](https://www.eurogamer.net/retrospective-red-baron-article) – gameplay details, career mode, historical features
-[^ref-9]: [Retrogames.cz – Red Baron](https://www.retrogames.cz/play_1289-DOS.php) – credits, mission types, aircraft list
-[^ref-10]: [Steam Store – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – WWI pilot quote, ratings
-[^ref-11]: [Sierra Help – Red Baron Help](https://sierrahelp.com/Games/RedBaron/RedBaronHelp.html) – system requirements, technical specifications, sound support
-[^ref-12]: [IGN – Red Baron Walkthrough](https://www.ign.com/articles/2003/10/07/red-baron-809195-walkthrough-453349) – vector graphics, arcade version history
-[^ref-13]: [MobyGames – Red Baron](https://www.mobygames.com/game/1766/red-baron/) – aggregate scores, reviews, credits, awards
-[^ref-14]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – pizza coupon trivia, Next Generation quote
-[^ref-15]: [IMDB – Red Baron](https://m.imdb.com/title/tt0455187/) – user ratings
-[^ref-16]: [Sierra Help – Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch history, technical fixes
-[^ref-17]: [VOGONS Forum – Red Baron](https://www.vogons.org/viewtopic.php?t=75255) – XBaron patch, performance issues
-[^ref-18]: [IMDB – Red Baron Connections](https://m.imdb.com/title/tt0455187/movieconnections/) – Leisure Suit Larry reference
-[^ref-19]: [Amazon – Red Baron PC](https://www.amazon.com/Red-Baron-Pc/dp/B000GXZG5U) – Hall of Fame award, A-10 bonus
-[^ref-20]: [Filfre.net – Digital Antiquarian](https://www.filfre.net/?s=Red+Baron) – Trophy Bass profitability comparison
-[^ref-21]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – version history, Great Warplanes series
-[^ref-22]: [MobyGames – Red Baron Pack](https://www.mobygames.com/game/42865/red-baron-pack/) – compilation contents, release date
-[^ref-23]: [Mad Otter Games](https://www.madottergames.com/games/) – Steam release details, manual scans
-[^ref-24]: [Wallenborg.se – Downloads](http://wallenborg.se/swordfish/downloads.htm) – Western Front Patch, community mods
-[^ref-25]: [Steam Community – Red Baron Discussion](https://steamcommunity.com/app/263940/discussions/0/451852118778380220/) – Hell's Angels patch compatibility
-[^ref-26]: [Kicktraq – Red Baron](https://www.kicktraq.com/projects/madottergames/red-baron/) – Kickstarter campaign details, Damon Slye quote
-[^ref-27]: [Game Developer – Mad Otter Acquires Red Baron](https://www.gamedeveloper.com/game-platforms/mad-otter-acquires-i-red-baron-i-franchise-calls-for-source-code) – source code bounty
-[^ref-28]: [Amazon – Red Baron II Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – guide description, page count
+## 

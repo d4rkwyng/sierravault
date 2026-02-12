@@ -274,26 +274,8 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Pre-configured DOSBox package[^ref-3]
 
 ## See Also
-
-- **Previous:** [[1994 - Metaltech - Earthsiege]]
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]
-- **Next:** [[1996 - Earthsiege 2]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|← Previous: Metaltech - Earthsiege Speech Pack]]
 - [[1996 - Earthsiege 2|→ Next: Earthsiege 2]]
 
-## References
-
-[^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Development information, release date, plot summary
-[^ref-3]: [The Collection Chamber – Metaltech: Earthsiege](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Comprehensive retrospective, gameplay analysis, preservation notes
-[^ref-6]: [MobyGames – Metaltech: EarthSiege (base game)](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – User reviews, gameplay description
-[^ref-7]: [Dynamix Wiki – Metaltech: Earthsiege](https://dynamix.fandom.com/wiki/Metaltech:_Earthsiege) – Developer information, production credits, review quotes
-[^ref-9]: [Internet Archive – Metaltech Earthsiege Complete](https://archive.org/details/metaltech-earthsiege-complete-mr-abandonware) – Archive description
-[^ref-10]: [Starsiege Wiki – Earthsiege](https://starsiege.fandom.com/wiki/Metaltech:_Earthsiege) – Lore and setting details
-[^ref-11]: [Remember PC DOS Games – Metaltech: Earthsiege](http://rememberpcdosgames.blogspot.com/2018/03/metaltech-earthsiege-1994.html) – Opening narrative setting
-[^ref-12]: [TribesNext](https://www.tribesnext.com/) – Series evolution to Tribes franchise
-[^ref-15]: [Sierra Help Wiki – Metaltech: EarthSiege Technical](https://wiki.sierrahelp.com/index.php/Metaltech:_EarthSiege_Technical) – System requirements, input devices
-[^ref-17]: [Dynamix Wiki – Expansion Pack](https://dynamix.fandom.com/wiki/Metaltech:_EarthSiege_-_Expansion_Pack) – New content details, campaigns
-[^ref-24]: [MyAbandonware – Metaltech: Earthsiege - Expansion Pack](https://www.myabandonware.com/game/metaltech-earthsiege-expansion-pack-2wb) – Original game requirement, user rating
-[^ref-27]: [Wikipedia – Metaltech: Earthsiege](https://en.wikipedia.org/wiki/Metaltech:_Earthsiege) – Next Generation and CGW review quotes
-[^ref-29]: [Giant Bomb – Metaltech: Earthsiege - Expansion Pack](https://www.giantbomb.com/metaltech-earthsiege-expansion-pack/3030-16608/) – User rating
-[^ref-46]: [MyAbandonware – Metaltech: Earthsiege](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) – Genre influence assessment
+## 

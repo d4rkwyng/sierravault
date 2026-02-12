@@ -242,33 +242,7 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 **Price:** $20.00 USD[^ref-10]
 
 ## See Also
-
-*Summer Daze: Tilly's Tale* serves as both a prequel and spiritual successor to *Hero-U: Rogue to Redemption* (2018), taking place in the same universe at Hero University[^ref-5][^ref-6]. The game connects to the broader Quest for Glory universe through Tilly's background as the adopted daughter of the Healer of Spielburg[^ref-3].
-
-The Coles have stated they originally envisioned a five-game Hero-U series[^ref-17], with *Summer Daze* representing a more accessible entry point into their world. Characters from *Hero-U: Rogue to Redemption* appear in *Tilly's Tale*, providing continuity for fans while remaining accessible to newcomers[^ref-6].
-
-- **Previous:** [[2018 - Hero-U - Rogue to Redemption]]
 - **Next:** Ifeyo's Adventure (announced)[^ref-7]
 - [[2023 - Colossal Cave 3D Adventure|← Previous: Colossal Cave 3D Adventure]]
 
-## References
-
-[^ref-1]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) – release date, developer, publisher, platforms, technical specifications, game description
-[^ref-2]: [Nintendo eShop – Summer Daze: Tilly's Tale](https://www.nintendo.com/us/store/products/summer-daze-tillys-tale-switch/) – Nintendo Switch release date, file size, publisher (Silesia Games), technical specifications
-[^ref-3]: [Adventure Game Hotspot – Summer Daze: Tilly's Tale Review](https://adventuregamehotspot.com/review/415/summer-daze-tillys-tale) – review score, developer quotes, gameplay analysis, technical issues, Tilly's backstory
-[^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Summer+Daze+Tilly%27s+Tale) – historical context, Corey Cole quote about age
-[^ref-5]: [MobyGames – Summer Daze: Tilly's Tale](https://www.mobygames.com/game/201072/summer-daze-tillys-tale/) – engine, composers, voice cast, aggregate rating, technical specifications
-[^ref-6]: [Adventure Gamer Blog – Review](https://advgamer.blogspot.com/2023/03/summer-daze-tillys-tale-review.html) – release platforms, composer, Kickstarter details, hidden card minigame, developer quotes
-[^ref-7]: [Choicest Games – Release Announcement](https://www.choicestgames.com/2022/01/summer-daze-at-hero-u-tillys-tale-to.html) – Kickstarter funding amount, original release date, character count, project split details
-[^ref-8]: [Choicest Games – Review](https://www.choicestgames.com/2023/05/summer-daze-tillys-tale-review.html) – review score, development time, Dave Gilbert voice direction, technical bugs, COVID delays
-[^ref-9]: [IMDB – Summer Daze: Tilly's Tale](https://www.imdb.com/title/tt27479407/) – voice cast, US release date, director, writer, plot summary
-[^ref-10]: [itch.io – Tilly's Tale](https://transolar-games.itch.io/tillys-tale) – file sizes, price, Linux bug report, setting details
-[^ref-11]: [Silesia Games – Summer Daze: Tilly's Tale](https://silesiagames.com/gry/summer-daze-tillys-tale/) – character descriptions, publisher information
-[^ref-12]: [Roundtable Co-op – Launch Announcement](https://roundtablecoop.com/news/summer-daze-tillys-tale-set-for-launch/) – Corey Cole quote comparing to Sierra games, Kickstarter history
-[^ref-13]: [Steam Community – Summer Daze: Tilly's Tale](https://steamcommunity.com/app/1139490) – user bug reports, crash issues
-[^ref-14]: [Steam Repacks](https://steam-repacks.net/summer-daze-tillys-tale-free-download/) – version number, playtime estimate, technical specifications
-[^ref-15]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/summer-daze-tillys-tale/critic-reviews/) – Adventure Gamers review quote, Adventure Game Hotspot score
-[^ref-16]: [Steambase – Summer Daze: Tilly's Tale](https://steambase.io/games/summer-daze-tillys-tale/reviews) – player score, platform support including Steam Deck
-[^ref-17]: [RPGFan – Cole Interview](https://www.rpgfan.com/feature/lori-and-corey-cole-interview-on-hero-u-and-summer-daze-part-1/) – five-game Hero-U series plan, development approach quote
-[^ref-18]: [PCGamesTorrents](https://pcgamestorrents.com/summer-daze-tillys-tale-tenoke.html) – Zehra Fazal credits, technical requirements
-[^ref-19]: [IsThereAnyDeal – Summer Daze: Tilly's Tale](https://isthereanydeal.com/game/summer-daze-tillys-tale/info/) – last update date, genre tags, Steam review count
+## 

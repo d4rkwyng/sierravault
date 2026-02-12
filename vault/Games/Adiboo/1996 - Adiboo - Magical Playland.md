@@ -224,27 +224,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 **Note:** Due to compatibility issues, the game requires emulation (not virtualization) to run properly on modern systems[^ref-5][^ref-12].
 
 ## See Also
-
-Adiboo: Magical Playland, originally released as Adibou 2 in France, represents the second major entry in the Adibou/Adiboo franchise[^ref-4]. The series continued with expansion content, with five expansion disks released for the base game between 1996 and 1999[^ref-5]. Related Adiboo products include "ADIBOU présente la Magie" (2000) for Windows and Macintosh platforms[^ref-13]. The franchise featured Adiboo as an educational guide character across multiple titles targeting young children with age-appropriate learning content.
-
-The game shares DNA with other Coktel Vision educational products, including Play Toons 1: Uncle Archibald, which contributed puzzle scenes to Magical Playland[^ref-10]. This cross-pollination of content was typical of Coktel Vision's development approach during this era.
-
-- **Previous:** Adibou (original French release)
-- **Next:** ADIBOU présente la Magie (2000)
 - [[1992 - A.J.'s World of Discovery|← Previous: A.J.'s World of Discovery]]
 - [[2003 - Adiboo - Paziral's Secret|→ Next: Adiboo - Paziral's Secret]]
 
-## References
-
-[^ref-1]: [Glitchwave – Adiboo Magical Playland](https://glitchwave.com/game/adiboo-magical-playland/) – platforms, developer, release date, user ratings and reviews
-[^ref-3]: [The Cutting Room Floor – Adiboo: Magical Playland](https://tcrf.net/Adiboo:_Magical_Playland) – technical specs, developer credits, easter eggs, VMD format, publisher info
-[^ref-4]: [TV Tropes – Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/AdibooMagicalPlayland) – French origins, Tintin reference, Christmas decorations, swing easter egg
-[^ref-5]: [MyAbandonware – Adiboo Magical Playland](https://www.myabandonware.com/game/adiboo-magical-playland-dys) – versions, curriculum support, file size, technical issues, expansion info, ratings
-[^ref-6]: [Backloggd – Adiboo Magical Playland](https://backloggd.com/games/adiboo-magical-playland/) – user statistics, gameplay description, publisher info
-[^ref-7]: [Recover Your Life Forum](http://www.recoveryourlife.com/forum/showthread.php?t=205487) – detailed gameplay descriptions, visual style, room layouts
-[^ref-8]: [LaunchBox Games Database – Adiboo Magical Playland](https://gamesdb.launchbox-app.com/games/details/112116-adiboo-magical-playland) – mini-games, ESRB rating, French developers note
-[^ref-9]: [The Casual Gamer Blog – Adiboo](https://thecasualgamernet.wordpress.com/tag/adiboo/) – character descriptions, Giant Bomb quote, Coktel Vision closure
-[^ref-10]: [TV Tropes – YMMV/Adiboo Magical Playland](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/AdibooMagicalPlayland) – disturbing content, Play Toons crossover, cooking mini-game, face design
-[^ref-11]: [IGN – Adiboo Magical Playland User Reviews](https://www.ign.com/games/adiboo-magical-playland/user-reviews) – user ratings, release date
-[^ref-12]: [Old Games Download – Adiboo Magical Playland](https://oldgamesdownload.com/adiboo-magical-playland/) – file size, compatibility issues, user technical support
-[^ref-13]: [MobyGames Search Results](https://www.mobygames.com/search/?q=adiboo-magical-playland) – related Adiboo titles listing
+## 

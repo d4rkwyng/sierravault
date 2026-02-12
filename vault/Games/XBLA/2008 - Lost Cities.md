@@ -120,29 +120,7 @@ Reiner Knizia's Lost Cities has seen multiple digital adaptations across platfor
 The original Xbox 360 XBLA version has been delisted and is no longer available for purchase. This highlights the preservation challenges facing digital-only releases from this era.
 
 ## See Also
-
-Lost Cities was part of Sierra Online's XBLA initiative (2006-2009), which brought classic card and board games to Xbox 360.
-
-| Previous | Next |
-|----------|------|
-| [[2007 - Carcassonne]] | — |
-
-**Related Sierra XBLA Titles:**
 - [[2006 - Gin Rummy]] (Sierra Online Shanghai)
 - [[2007 - Carcassonne]] (Sierra Online Seattle)
 
-## References
-
-[^ref-1]: [Lost Cities (video game) - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities_(video_game)) - Primary game information
-[^ref-2]: [Lost Cities card game - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities) - Original card game reference
-[^ref-3]: [Reiner Knizia - Wikipedia](https://en.wikipedia.org/wiki/Reiner_Knizia) - Designer biography and game credits
-[^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information
-[^ref-5]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA platform history
-[^ref-6]: [Lost Cities BoardGameGeek](https://boardgamegeek.com/boardgame/50/lost-cities) - Original board game information
-[^ref-7]: [XBLA Finds Lost Cities - IGN](https://www.ign.com/articles/2008/03/24/xbla-finds-lost-cities) - IGN announcement article
-[^ref-8]: [Lost Cities Reviews - Metacritic](https://www.metacritic.com/game/xbox-360/lost-cities) - Metacritic page
-[^ref-9]: [Lost Cities for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/945550-lost-cities) - GameFAQs game page
-[^ref-10]: [Lost Cities for XBLA - BoardGameGeek](https://boardgamegeek.com/thread/302494/lost-cities-for-xbla) - BGG discussion thread
-[^ref-11]: [Lost Cities - GamePressure](https://www.gamepressure.com/games/lost-cities/zf27ea) - Game database entry
-[^ref-12]: [Lost Cities - TrueAchievements](https://www.trueachievements.com/game/Lost-Cities) - Publisher: Sierra Entertainment, Developer: Sierra Entertainment, Release: April 23, 2008
-[^ref-13]: [Lost Cities Reviews - GameFAQs](https://gamefaqs.gamespot.com/xbox360/945550-lost-cities/reviews) - User reviews and ratings
+## 

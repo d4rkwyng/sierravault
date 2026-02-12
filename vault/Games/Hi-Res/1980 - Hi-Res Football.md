@@ -202,28 +202,8 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 - [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
 
 ## See Also
-
-Hi-Res Football was released as part of On-Line Systems' "Hi-Res" branded product line, which also included Hi-Res Soccer[^ref-5]. These sports titles represented the company's attempt to diversify beyond their adventure game offerings. The Hi-Res branding would become more famously associated with the Hi-Res Adventure series, beginning with Mystery House in 1980, which established the graphical adventure game genre[^ref-8].
-
-The sports titles existed separately from the adventure game line and did not spawn sequels or ongoing franchises. On-Line Systems' success with adventure games would lead the company away from sports gaming, though Sierra would later publish football games through subsidiary Dynamix's Front Page Sports series in the 1990s[^ref-12].
-
-- **Previous:** N/A (First in Hi-Res Sports series)
-- **Next:** N/A (Series discontinued)
 - **Related:** [[1980 - Hi-Res Soccer]] (Companion sports title)
 - [[1980 - Hi-Res Cribbage|← Previous: Hi-Res Cribbage]]
 - [[1980 - Hi-Res Soccer|→ Next: Hi-Res Soccer]]
 
-## References
-
-[^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information
-[^ref-2]: [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – original manual text including pricing, technical requirements, gameplay description, marketing quotes
-[^ref-3]: [Retro365 Blog – Q-Bits: Hi-Res Football and Soccer](https://retro365.blog/2022/03/17/q-bits-from-my-personal-collection-hi-res-football-and-soccer-some-of-on-line-systems-earliest-titles/) – development history, Jay Sullivan's background, commercial performance context
-[^ref-4]: [Hacker News Discussion](https://news.ycombinator.com/item?id=9255133) – historical context, vintage advertisement discovery, community reactions
-[^ref-5]: [Retromags Gallery – Hi-Res Soccer/Football](https://www.retromags.com/gallery/image/21318-hi-res-soccer-hi-res-football/) – vintage magazine advertisement scan, publication context
-[^ref-6]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/) – comprehensive technical specifications, designer credits, gameplay details, ratings
-[^ref-7]: [Sierra Chest – Hi-Res Football](https://sierrachest.com/index.php?a=games&id=436&title=hi-res-football&fld=general) – engine information, basic metadata
-[^ref-8]: [Ars Technica Forums – Gaming Archeology](https://arstechnica.com/civis/threads/gaming-archeology-with-dia-exhibit-01-ultima-1981-1986.1505052/) – Softline review reference, technical specifications, visual design details
-[^ref-9]: [VG Print Ads – Hi-Res Soccer/Football Advertisement](https://vgprintads.tumblr.com/post/175902936100/hi-res-soccer-hi-res-football-app2-dos/amp) – vintage print advertisement archive
-[^ref-10]: [Glitchwave – Sierra Entertainment Games](https://glitchwave.com/game-company/sierra-entertainment/) – modern rating, genre classification
-[^ref-11]: [Sierra Gamers – Hi-Res Football](https://www.sierragamers.com/hi-res-football/) – alternate release date listing
-[^ref-12]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – later Sierra football games context, Front Page Sports series information
+## 

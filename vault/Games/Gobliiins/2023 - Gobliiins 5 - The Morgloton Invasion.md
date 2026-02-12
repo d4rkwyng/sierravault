@@ -202,36 +202,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 - [ScummVM](https://www.scummvm.org/) - For cross-platform compatibility
 
 ## See Also
-
-Gobliiins 5: The Morgloton Invasion represents a direct return to the roots of the franchise, deliberately invoking the first game by reuniting the original trio of Oups, Asgard, and Ignatius[^ref-1]. The Gobliiins series began in 1991 with the original Gobliiins, developed by Coktel Vision and published by Sierra, followed by Gobliins 2: The Prince Buffoon (1992) and Goblins Quest 3 (1993)[^ref-3]. After a 16-year hiatus, Gobliiins 4 arrived in 2009 with mixed reception due to its shift to 3D graphics[^ref-13].
-
-The fifth installment consciously distances itself from Gobliiins 4's approach while honoring the original trilogy's legacy. By returning to 2D visuals and the three-goblin team structure, Gilhodes positioned Gobliiins 5 as a spiritual successor to the first game more than a direct continuation of the fourth[^ref-5]. The confirmed development of Gobliiins 6, described as a sequel to Gobliins 2 featuring characters Fingus and Winkle, suggests the series will continue exploring different configurations of the goblin cast[^ref-23].
-
-- **Previous:** [[2009 - Gobliiins 4]]
 - **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
 
-## References
-
-[^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history
-[^ref-2]: [Wikipedia France – Gobliiins 5](https://fr.wikipedia.org/wiki/Gobliiins_5) – release dates, crowdfunding details, developer quotes, technical specifications
-[^ref-3]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – naming convention, series timeline
-[^ref-4]: [Jefklak's Codex – Goblins Quest 3](https://jefklakscodex.com/games/pc/goblins-quest-3/) – series gameplay characteristics, puzzle design philosophy
-[^ref-5]: [Jefklak's Codex – Gobliiins 5](https://jefklakscodex.com/games/pc/gobliiins-5/) – engine details, review score, development context
-[^ref-6]: [RPG Codex Forums – Development Thread](https://rpgcodex.net/forums/threads/gobliiins-5-by-pierre-gilhodes-released-11-demo-available.111621/) – development process, AGS usage, composer credits
-[^ref-7]: [itch.io – Gobliiins 5 Comments](https://pierre-gilhodes.itch.io/gobliiins5/comments?before=59) – player feedback, technical issues, Mac version plans
-[^ref-8]: [MobyGames – Gobliiins 5](https://www.mobygames.com/game/202606/gobliiins-5/) – publisher, ratings, technical specifications, composer credits
-[^ref-9]: [PCGamingWiki – Gobliiins 5](https://www.pcgamingwiki.com/wiki/Gobliiins_5) – platform support, technical features, display options
-[^ref-10]: [itch.io – Gobliiins 5 Official Page](https://pierre-gilhodes.itch.io/gobliiins5) – pricing, language support, ratings, Gobliiins 6 development
-[^ref-11]: [Virtual Moose – Intro Guide to Gobliiins](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, puzzle vs. plot focus
-[^ref-14]: [Walkthrough King – Gobliiins 5](https://www.walkthroughking.com/text/gobliiins5.aspx) – gameplay mechanics, story elements
-[^ref-13]: [MobyGames – Gobliiins 4](https://www.mobygames.com/game/40608/gobliiins-4/) – series context, gameplay description
-[^ref-15]: [Indie Retro News – Gobliiins 5 Announcement](https://www.indieretronews.com/2023/05/gobliiins-5-retro-classic-gobliiins-is.html) – level count, return to 2D
-[^ref-16]: [RPG Codex Forums – Player Reviews](https://rpgcodex.net/forums/threads/gobliiins-5-by-pierre-gilhodes-woodruff-soon%E2%84%A2.111621/page-3) – gameplay length, quality assessment, technical observations
-[^ref-17]: [Steam Community – Gobliiins 5](https://steamcommunity.com/app/2475980) – user reviews, technical issues, community feedback
-[^ref-18]: [GOG.com – Gobliiins 5 Wishlist](https://www.gog.com/dreamlist) – community reception, animation praise
-[^ref-19]: [IMDB – Gobliiins 5](https://www.imdb.com/find/?q=Gobliiins+5&s=tt) – Woodruff creator connection
-[^ref-20]: [Steam Store – Gobliiins 5](https://store.steampowered.com/search/?term=Gobliiins+5) – Steam release date, demo availability
-[^ref-21]: [Reddit – Mac Port Discussion](https://www.reddit.com/r/adventuregames/comments/13f043h/gobliiins_5_demo_mac_port/) – fan porting efforts, ScummVM compatibility
-[^ref-22]: [Steam Community Guide – Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=3007680547) – community walkthrough
-[^ref-23]: [SteamGifts – Gobliiins 6 Discussion](https://www.steamgifts.com/discussion/fyhDo/kickstarter-for-gobliins-6-a-quirky-comeback-adventure-sequel-to-gobliins-2) – Gobliiins 6 details, Fingus and Winkle characters
+## 

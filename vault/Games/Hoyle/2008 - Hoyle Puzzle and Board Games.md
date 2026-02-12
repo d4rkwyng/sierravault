@@ -216,30 +216,7 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 The game is documented in various gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
 
 ## See Also
-
-Hoyle Puzzle and Board Games 2008 is part of the extensive Hoyle series of game compilations that began with [[Sierra On-Line]] in 1989. The series split into multiple sub-lines including card games, casino games, and puzzle/board games, with various publishers continuing the brand after Sierra's dissolution. This particular entry focuses on the puzzle and board game segment, distinguishing it from the concurrent Hoyle Card Games releases.
-
-The Hoyle brand continues to be associated with "the official name in gaming," maintaining its historical connection to authoritative game rules dating back to Edmond Hoyle's original publications[^ref-2][^ref-3].
-
-- **Previous:** [[2005 - Hoyle Puzzle and Board Games]]
-- **Next:** [[2008 - Hoyle Puzzle and Board Games]]
 - [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## References
-
-[^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status
-[^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes bug
-[^ref-3]: [FileCR – Hoyle Puzzle and Board Games 2008](https://filecr.com/pc-games/hoyle-puzzle-and-board-games-2008) – system requirements, download stats, Hoyle brand history, game description
-[^ref-4]: [MobyGames – Hoyle Puzzle & Board Games](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – developers, release dates, technical specs, multiplayer features, included games, Hoyle Bucks system, ESRB rating
-[^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – game description, user vote count
-[^ref-6]: [Kotaku – Hoyle Puzzle and Board Games 2008](https://kotaku.com/games/hoyle-puzzle-and-board-games-2008) – game features, Hoyle Bucks system, computer opponents
-[^ref-7]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – game content details, cut content, bugs, trivia, music sources
-[^ref-8]: [MyAbandonware – Hoyle Puzzle and Board Games 2008](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) – user rating, file sizes, SecuROM protection, platform support
-[^ref-9]: [Encore Forums – Windows 10 Compatibility](http://forums.encoreusa.com/tm.asp?m=50366) – Windows 10 testing confirmation, official support statement
-[^ref-10]: [PMC/NIH – Multiple Sclerosis Cognitive Rehabilitation Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012426/) – scientific use as control condition
-[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – related Hoyle product documentation, manual sizes[^ref-12]: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-and-board-games/) - game wiki entry
-[^ref-13]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - Internet Games Database entry
-[^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
-[^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
-[^ref-16]: [Amazon - Hoyle Puzzle and Board Games](https://www.amazon.com/Hoyle-Puzzle-Board-Games/dp/B0015YKVTQ) - retail listing
+## 

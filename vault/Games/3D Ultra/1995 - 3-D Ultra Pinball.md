@@ -204,30 +204,6 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 - Manual included with ISO versions at Internet Archive[^ref-7]
 
 ## See Also
-
-3-D Ultra Pinball launched what would become one of Sierra's most successful pinball franchises. The original game established the template of fantasy pinball with interconnected tables and impossible physics that subsequent entries would follow and refine. The Outpost-themed space setting gave way to horror themes in Creep Night, adventure themes in The Lost Continent, and eventually licensed NASCAR content and amusement park settings.
-
-Each sequel addressed criticisms of its predecessor—most notably the addition of save game functionality in later entries after players complained about its absence in the original[^ref-2]. The series demonstrated Sierra's commitment to iterative improvement while maintaining the core fantasy pinball identity.
-
-- **Next:** [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
 
-## References
-
-[^ref-1]: [MobyGames – 3-D Ultra Pinball](https://www.mobygames.com/game/935/3-d-ultra-pinball/) – credits, technical specifications, user reviews, voice cast
-[^ref-2]: [NewTechReview – 3D Ultra Pinball](https://www.newtechreview.com/newtechreview/review.asp?ID=1) – development details, pinball pro consultation, series context
-[^ref-3]: [PriceCharting – 3-D Ultra Pinball](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball) – gameplay features, ESRB rating, release date
-[^ref-4]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series sales data, release dates, development info
-[^ref-5]: [Internet Archive – The Lost Continent](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) – series description, controller support, story premise
-[^ref-6]: [MyAbandonware – 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) – user ratings, compatibility reports, version information
-[^ref-7]: [Internet Archive – 3-D Ultra Pinball (1995)](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) – archive preservation, release year
-[^ref-8]: [Bunny Gamer – ThrillRide First Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – series comparison, gameplay details
-[^ref-9]: [Fun With Bonus – Throwback Thursday](https://funwithbonus.com/throwback-thursday-3d-ultra-pinball/) – physics criticism, marketing tagline, quest mode
-[^ref-10]: [MobyGames – 3-D Ultra Pinball Reviews](https://www.mobygames.com/game/935/3-d-ultra-pinball/reviews/) – aggregate scores, alternate titles
-[^ref-11]: [GameSpot – 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) – user ratings, platform information
-[^ref-12]: [Wikipedia – Creep Night](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Creep_Night) – review scores, critical reception
-[^ref-13]: [Ink19 – The Lost Continent Review](https://ink19.com/1997/12/magazine/screen-reviews/yyo8fi-3d-ultra-pinball-the-lost) – critical analysis, series philosophy
-[^ref-14]: [IGN – 3D Ultra Pinball Thrill Ride (GBC)](https://www.ign.com/articles/2001/02/03/3d-ultra-pinball-thrill-ride-2) – handheld version review, technical issues
-[^ref-15]: [GameSpot – ThrillRide Review](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2617851/) – series comparison, difficulty criticism
-[^ref-16]: [Internet Archive – Creep Night (1996)](https://archive.org/details/3-D_Ultra_Pinball_Creep_Night_Sierra_1996) – archive preservation, release year
-[^ref-17]: [Internet Archive – Creep Night PT-PT](https://archive.org/details/3-d-ultra-pinball-creep-night-pt-pt) – Portuguese localization, multi-language support
+## 

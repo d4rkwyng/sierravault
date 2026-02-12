@@ -201,30 +201,7 @@ The broader significance of educational software like Learning with Leeper was r
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
 
 ## See Also
-
-Learning with Leeper served as the foundation for Sierra's "Leeper" educational game line. The character's origin in the arcade game Lunar Leeper provided brand recognition, while the educational reimagining proved successful enough to warrant expansion of the franchise[^ref-2][^ref-3].
-
-- **Previous:** Lunar Leeper (1982, arcade game featuring Leeper creatures as enemies)
-- **Next:** [[1984 - Learning with FuzzyWOMP]] (sequel educational title)[^ref-3]
 - [[1983 - Early Math|← Previous: Early Math]]
 - [[1984 - Learning with FuzzyWOMP|→ Next: Learning with FuzzyWOMP]]
 
-## References
-
-[^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – platforms, developer, publisher, release dates, awards
-[^ref-2]: [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=103) – Lunar Leeper connection, release year, developer information
-[^ref-3]: [Sierra Chest – Learning with Leeper](https://sierrachest.com/index.php?a=games&id=360&fld=general) – target age, sequel information, engine, awards
-[^ref-5]: [MobyGames – Learning with Leeper](https://www.mobygames.com/game/56058/learning-with-leeper/) – designer credits, publisher information, release dates, ratings, game description
-[^ref-6]: [Internet Archive – ColecoVision ROM](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On_Line) – mini-game descriptions, gameplay details
-[^ref-7]: [Lemon64 – Learning with Leeper](https://www.lemon64.com/game/learning-with-leeper) – control method, target age, platform releases, user description
-[^ref-8]: [Journal of Special Education (DOI)](https://doi.org/10.1080%2F05544246.1984.9943002) – educational philosophy quote about infant learning
-[^ref-9]: [UVList – Learning with Leeper](https://www.uvlist.net/game-11680-Learning+with+Leeper) – Tilt magazine rating, technical specifications, platform versions
-[^ref-10]: [Lazy Game Reviews retrospective](https://zakruti.com/fanjoy/lazygamereviews/video-7746) – modern critical assessment, copy protection details
-[^ref-11]: [Giant Bomb – Learning with Leeper](https://www.giantbomb.com/learning-with-leeper/3030-31221/) – user rating, game description
-[^ref-12]: [GameFAQs – Learning with Leeper](https://gamefaqs.gamespot.com/colecovision/585516-learning-with-leeper) – difficulty rating, playtime estimate, release dates
-[^ref-13]: [Pixelated Arcade – Learning with Leeper](https://www.pixelatedarcade.com/games/learning-with-leeper) – programmer credits by platform, designer credits
-[^ref-14]: [World of Spectrum Archive](https://worldofspectrum.org/archive/software/educational/learning-with-leeper-software-projects-ltd) – ZX Spectrum technical specs, UK publisher, price, copy protection
-[^ref-15]: [MyAbandonware – Learning with Leeper](https://www.myabandonware.com/game/learning-with-leeper-60x) – download information, release dates
-[^ref-16]: [SellMyRetro Listing](https://www.sellmyretro.com/offer/details/learning-with-leeper-57712) – rarity assessment, ZX Spectrum format details
-[^ref-17]: [Game Value Now – Learning with Leeper](https://gamevaluenow.com/colecovision/learning-with-leeper?gameid=58) – last recorded sale date
-[^ref-18]: [Internet Archive – Commodore 64 Manual](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line) – manual page count, platform confirmation
+## 

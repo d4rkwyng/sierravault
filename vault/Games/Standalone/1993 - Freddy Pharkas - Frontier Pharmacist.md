@@ -164,38 +164,7 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
 ## See Also
-
-- **Previous:** None (standalone game)
-- **Next:** None (no sequel produced)
 - [[1990 - Zeliard|← Previous: Zeliard]]
 - [[1993 - Pepper's Adventures in Time|→ Next: Pepper's Adventures in Time]]
 
-## References
-
-[^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Development and publisher information
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Freddy_Pharkas%3A_Frontier_Pharmacist) – Al Lowe quote about Western game market, sales data
-[^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FreddyPharkasFrontierPharmacist) – Setting information
-[^ref-4]: [Wikipedia](https://en.wikipedia.org/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Computer Gaming World review quote, sequel explanation
-[^ref-5]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Engine and version information
-[^ref-6]: [MobyGames](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/) – Platform information, awards
-[^ref-7]: [Archive.org](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993) – Release year confirmation
-[^ref-8]: [Archive.org](https://archive.org/details/freddy_pharkas) – Character backstory
-[^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/mac/658252-freddy-pharkas-frontier-pharmacist/reviews/157467) – Character background description, review score
-[^ref-10]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-freddy-pharkas-frontier-pharmacist-online/) – Game premise
-[^ref-11]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2020/07/freddy-pharkas-frontier-pharmacist_14.html) – Specific gameplay challenges
-[^ref-12]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=837981641) – Gameplay mechanics description
-[^ref-13]: [Sierra Music Central](http://www.sierramusiccentral.com/fpfpcd.html) – Audio specifications
-[^ref-14]: [Freddy Pharkas Website](https://www.freddypharkas.com/walkthrough.html) – Point system information
-[^ref-15]: [UHS Hints](https://www.uhs-hints.com/uhsweb/fpfp.php) – Game structure
-[^ref-16]: [MobyGames User Review](https://www.mobygames.com/game/1785/freddy-pharkas-frontier-pharmacist/user-review/2284818/) – Manual and gameplay mechanics
-[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/freddy-pharkas-frontier-pharmacist-1zb) – Core gameplay description, rating
-[^ref-18]: [GOG](https://www.gog.com/en/game/freddy_pharkas_frontier_pharmacist) – User review average
-[^ref-19]: [Larry Laffer Net](http://larrylaffer.net/non-lsl-games/al-lowe-games/freddy-pharkas) – Al Lowe quote about game concept origin
-[^ref-20]: [Adventure Gamer Blog](https://advgamer.blogspot.com/2020/06/game-121-freddy-pharkas-frontier.html) – Al Lowe quote about Western games
-[^ref-21]: [Al Lowe Website](https://allowe.com/games/fpfp/music-freddy.html) – Music composition and performance details
-[^ref-22]: [Behind the Voice Actors](https://www.behindthevoiceactors.com/video-games/freddy-pharkas-frontier-pharmacist/) – Voice cast information
-[^ref-23]: [Al Lowe Website](https://allowe.com/games/fpfp/the-ballad.html) – Al Lowe singing details
-[^ref-24]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/124/) – Al Lowe quote about sequel
-[^ref-25]: [Al Lowe Website](https://allowe.com/games/fpfp/about-freddy.html) – Al Lowe assessment
-[^ref-26]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/freddy-pharkas-frontier-pharmacist/) – Game's influence assessment
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/freddy-pharkas-frontier-pharmacist/_consolidated.json) – Multiple sources from research collection
+## 

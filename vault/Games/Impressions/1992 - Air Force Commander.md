@@ -207,29 +207,7 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 - [Internet Archive – WW2 Air Force Commander](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) – 1993 sequel[^ref-10]
 
 ## See Also
-
-Air Force Commander launched what would become a brief series exploring aerial warfare strategy. The original 1992 release focused exclusively on modern Middle Eastern conflicts, establishing the gameplay framework of real-time aerial combat management. The 1993 sequel, WW2 Air Force Commander, transported the concept to World War II scenarios, allowing players to command Allied or Axis air forces across historical battles[^ref-10].
-
-The engine technology developed for this series would go on to influence Impressions' later strategy titles, including Global Domination and When Two Worlds War, demonstrating the foundational importance of Air Force Commander to the studio's technical evolution[^ref-7].
-
-- **Next:** [[1993 - WW2 Air Force Commander]]
 - [[1992 - Air Bucks|← Previous: Air Bucks]]
 - [[1992 - Conquest of Japan|→ Next: Conquest of Japan]]
 
-## References
-
-[^ref-1]: [MobyGames – Air Force Commander](https://www.mobygames.com/game/1988/air-force-commander/) – credits, ratings, technical specs, manual information, scenario details
-[^ref-2]: [Wikidata – Air Force Commander](https://www.wikidata.org/wiki/Q29840394) – platform and release year confirmation
-[^ref-3]: [Amiga Reviews – Air Force Commander](https://amigareviews.leveluphost.com/airforce.htm) – multiple review scores, technical specifications, developer credits, gameplay criticism
-[^ref-4]: [Internet Archive – Air Force Commander](https://archive.org/details/msdos_Air_Force_Commander_1992) – preservation metadata, file specifications
-[^ref-5]: [Let's Play Oldies – Air Force Commander Review](https://letsplayoldies.wordpress.com/2009/09/10/air-force-commander/) – 2009 retrospective review, Dune 2 comparison
-[^ref-6]: [UVList – Air Force Commander](https://www.uvlist.net/game-18313-Air+Force+Commander) – contemporary magazine review scores, feature list, Simon Bradbury credit
-[^ref-7]: [My Abandonware – Air Force Commander](https://www.myabandonware.com/game/air-force-commander-1bw) – M. Evan Brooks expert review, engine reuse, patch information, user ratings
-[^ref-8]: [Free Game Empire – Air Force Commander](https://www.freegameempire.com/games/Air-Force-Commander) – Impressions company history, user rating, gameplay description
-[^ref-9]: [MobyGames User Review – Shadowcaster](https://www.mobygames.com/game/1988/air-force-commander/user-review/2612959/) – 2001 retrospective review, C&C comparison, unit variety praise
-[^ref-10]: [Internet Archive – WW2 Air Force Commander](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) – sequel information, genre classification, gameplay description
-[^ref-11]: [VOGONS Forum – Air Force Commander Discussion](http://www.vogons.org/viewtopic.php?t=16942) – detailed gameplay analysis, interface issues, manual criticism
-[^ref-12]: [Play Classic Games – Air Force Commander](https://playclassic.games/games/real-time-tactics-dos-games-online/play-air-force-commander-online/) – gameplay description, speed patch information
-[^ref-13]: [DOS.Zone – Air Force Commander](https://dos.zone/air-force-commander-1992/) – user rating, browser emulation
-[^ref-14]: [Sierra Chest – Air Force Commander](https://sierrachest.com/opinion-d/index.php?a=games&id=473&title=air-force-commander&fld=box) – platform listing, media format
-[^ref-15]: [Free Game Empire – WW2 Air Force Commander](https://www.freegameempire.com/games/WW2-Air-Force-Commander) – sequel details, gameplay description
+## 

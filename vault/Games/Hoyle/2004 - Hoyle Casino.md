@@ -170,33 +170,7 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 - [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
 
 ## See Also
-
-Hoyle Casino 2004 was part of the long-running Hoyle's Official Book of Games series, which began with card and board game compilations in 1989 and expanded to include casino simulations starting in 1996.[^ref-15] The game represented one of Sierra Entertainment's final contributions to the franchise before development transitioned to Encore, Inc.[^ref-5]
-
-The series continued to evolve after Sierra's departure, with Encore releasing annual versions through 2016, culminating in Hoyle Official Casino Games.[^ref-5][^ref-15] The franchise's longevity demonstrated the enduring appeal of casino simulation games and the strength of the Hoyle brand name in the gaming market.
-
-- **Previous:** [[2002 - Hoyle Casino Empire]]
-- **Next:** [[2005 - Hoyle Poker Series]]
 - [[2003 - Hoyle Majestic Chess|← Previous: Hoyle Majestic Chess]]
 - [[2004 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Casino 2004](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004) – release date, developer, publisher, features, user rating
-[^ref-2]: [Metacritic – Hoyle Casino 2004](https://www.metacritic.com/game/hoyle-casino-2004/) – release date, developer, publisher, platform
-[^ref-3]: [Amazon Canada – Hoyle Casino 2004](https://www.amazon.ca/Vivendi-Universal-97462-Hoyle-Casino/dp/B000083JXU) – release date, publisher, customer reviews, technical specs, bugs
-[^ref-4]: [Metacritic – Hoyle Casino 2004 Details](https://www.metacritic.com/game/hoyle-casino-2004/details/) – game description, platforms
-[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developers, sales data, technical issues
-[^ref-6]: [LaunchBox Games Database – Hoyle Casino 2004](https://gamesdb.launchbox-app.com/games/details/122499-hoyle-casino-2004) – release date, features, starting money, game description
-[^ref-7]: [ESRB – Hoyle Casino 2004](https://www.esrb.org/ratings/8960/hoyle-casino-2004/) – platforms, rating, content descriptors, publisher
-[^ref-8]: [Amazon Spain – Hoyle Casino 2004](https://www.amazon.es/-/en/020626720090-Hoyle-Casino-2004/dp/B000083JXU) – platforms, games included, customer ratings, features
-[^ref-9]: [GameFAQs – Hoyle Casino 2004 User Review](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004/reviews/72620) – detailed user review, scores, gameplay commentary
-[^ref-10]: [GameSpy – Hoyle Casino 2004](http://pc.gamespy.com/pc/hoyle-casino-2004/) – games list, release date, ESRB rating
-[^ref-11]: [MobyGames – Hoyle Casino 2004 Reviews](https://www.mobygames.com/game/11804/hoyle-casino-2004/reviews/) – aggregate scores
-[^ref-12]: [LaunchBox – Hoyle Casino 2004 Images](https://gamesdb.launchbox-app.com/games/images/122499-hoyle-casino-2004) – release date confirmation
-[^ref-13]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch version 1.1
-[^ref-14]: [GameFAQs – Hoyle Casino (Dreamcast) Review](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/reviews/21475) – series character information, technical issues
-[^ref-15]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – series chronology, related releases
-[^ref-16]: [Amazon India – Hoyle Casino 2004](https://www.amazon.in/Sierra-97462-Hoyle-Casino-2004/dp/B000083JXU) – brand, platform confirmation, customer rating
-[^ref-17]: [Best Buy – Hoyle Casino 2004](https://www.bestbuy.com/site/hoyle-casino-2004-windows/5884402.p?skuId=5884402) – model number, SKU, platform
-[^ref-18]: [RAWG – Hoyle Casino 2004](https://rawg.io/games/hoyle-casino-2004) – alternate release date listing, developer attribution
+## 

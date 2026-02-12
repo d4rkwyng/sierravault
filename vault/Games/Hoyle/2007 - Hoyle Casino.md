@@ -179,27 +179,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 - [Walmart Canada](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – Limited availability[^ref-13]
 
 ## See Also
-
-Hoyle Casino 2007 continues the annual release schedule established by Sierra Entertainment and maintained by Encore Software. The Hoyle Casino series sits alongside related Hoyle product lines including Hoyle Card Games and Hoyle Board Games, all sharing the trusted Hoyle brand name derived from Edmond Hoyle's authoritative gaming rule books[^ref-6]. The franchise spans multiple platforms beyond PC, with earlier releases appearing on Mac OS X, Dreamcast, and Game Boy Color[^ref-6].
-
-- **Previous:** [[2005 - Hoyle Casino 3D]]
-- **Next:** [[2015 - Hoyle Official Card Games Collection]]
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
 - [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Casino 2007 Data](https://gamefaqs.gamespot.com/pc/935110-hoyle-casino-2007/data) – release date, developer, publisher, ESRB rating, related games
-[^ref-2]: [Grouvee – Hoyle Casino 2007](https://www.grouvee.com/games/20633-hoyle-casino-2007/) – release date, developer, publisher, genres, user statistics
-[^ref-3]: [Metacritic – Hoyle Casino 2007](https://www.metacritic.com/game/hoyle-casino-2007/) – release date, developer, publisher, game description
-[^ref-4]: [Metacritic – Hoyle Casino 2007 Details](https://www.metacritic.com/game/hoyle-casino-2007/details/) – game variations count, publisher information
-[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, publisher transitions, bug documentation, sales data, franchise information
-[^ref-6]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise listing, developer confirmation
-[^ref-7]: [Amazon Canada – Hoyle Casino 2007](https://www.amazon.ca/Encore-10675-Hoyle-Casino-2007/dp/B000H24200) – release date, publisher, platforms, ESRB rating, user reviews, technical issues
-[^ref-8]: [Encore USA Forums](http://forums.encoreusa.com/tm.asp?m=24039) – manual version discrepancy, distribution information, bug reports
-[^ref-9]: [PC Review Forum – Hoyle](https://www.pcreview.co.uk/threads/hoyle.3256644/) – Vista compatibility issues
-[^ref-10]: [JustAnswer – Technical Support](https://www.justanswer.com/computer/g8zx9-recently-received-new-sierra-three-card-games.html) – Windows 7 compatibility, Face Creator errors, installation issues
-[^ref-11]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – sales tracking data, media format
-[^ref-12]: [Walmart Canada – Hoyle Casino 2007](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – retail availability
-[^ref-13]: [Shopozz – Hoyle Casino Compilation](https://shopozz.ru/items/387433917074-hoyle-casino-600-classic-games-encore-compilation-win-xp-pc-dvd-rom-game) – compilation product, media format
-[^ref-14]: [Stash Games – Hoyle Casino 3D](https://stash.games/games/hoyle-casino-3d) – related franchise entry
+## 

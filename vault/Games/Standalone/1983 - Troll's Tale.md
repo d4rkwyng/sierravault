@@ -137,33 +137,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Complete download package[^ref-10]
 
 ## See Also
-
-- **Previous:** None (standalone title)
-- **Next:** None (standalone title)
 - [[1981 - Softporn Adventure|← Previous: Softporn Adventure]]
 - [[1985 - Sierra Championship Boxing|→ Next: Sierra Championship Boxing]]
 
-## References
-
-[^ref-1]: [Sierra Gamers](https://www.sierragamers.com/trolls-tale/) – - Basic game information and publisher details
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Troll%27s_Tale) – - Historical overview and release information
-[^ref-3]: [Al Lowe's Official Website](https://allowe.com/downloads/games.html) – - Developer's personal reflections and game history
-[^ref-4]: [Pixelated Arcade](https://pixelatedarcade.com/games/troll-s-tale) – - Target audience and packaging details
-[^ref-5]: [Game Pressure](https://www.gamepressure.com/games/trolls-tale/zf2526) – - Development history and technical details
-[^ref-6]: [Play DOS Games](https://www.playdosgames.com/online/trolls-tale/) – - Distribution and availability information
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/7271/trolls-tale/) – - Comprehensive development credits
-[^ref-8]: [Old Games SK](https://www.oldgames.sk/en/game/trolls-tale/) – - Platform release information
-[^ref-9]: [DOS Games](https://dosgames.com/game/trolls-tale/) – - Game description and quest objectives
-[^ref-10]: [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) – - Plot summary and character details
-[^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/Troll's_Tale) – - Treasure count details
-[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Troll's_Tale) – - Technical specifications including treasure count
-[^ref-13]: [Emuparadise](https://www.emuparadise.me/ScummVM_Games/Troll's_Tale_(Floppy_DOS) – /96030) - Game premise overview
-[^ref-14]: [Gaming After 40 Blog](http://gamingafter40.blogspot.com/2015/03/adventure-of-week-trolls-tale-1983.html) – - Detailed playthrough with story conclusion
-[^ref-15]: [The Digital Antiquarian](https://www.filfre.net/?s=Troll%27s+Tale) – - Interface design details
-[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) – - Parser system review by HOTUD
-[^ref-17]: [GameFAQs](https://gamefaqs.gamespot.com/pc/582558-trolls-tale/faqs/51970) – - Game completion time assessment by Tom Hayes
-[^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/113864-trolls-tale) – - Gameplay elements description
-[^ref-19]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Troll's+Tale&gid=2483) – - User rating aggregate
-[^ref-20]: [itch.io](https://outgrabe.itch.io/trolls-tale-2023) – - Modern recreation rating
-[^ref-21]: [AVID Wiki](https://www.avid.wiki/Sierra_Entertainment) – - PC port visual characteristics
-[^ref-22]: [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32/play-32) – - Browser playability and preservation access
+## 

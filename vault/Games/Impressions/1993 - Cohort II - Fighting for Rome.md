@@ -196,37 +196,7 @@ The game's most significant contribution to gaming history may be its innovative
 - [MyAbandonware](https://www.myabandonware.com/game/cohort-ii-1ll) - DOS and Amiga versions[^ref-3]
 
 ## See Also
-
-Cohort II is the second and final entry in the Cohort series, following the original Cohort: Fighting for Rome released in 1991[^ref-10]. Both games share the "Fighting for Rome" subtitle and focus on tactical Roman-era combat[^ref-1]. The sequel represented a significant technical upgrade over its predecessor, particularly in graphics quality, while maintaining the same fundamental gameplay structure[^ref-15].
-
-The game's integration with the Caesar city-building series positioned it as part of a larger interconnected game system, though this cross-title functionality was considered its primary value proposition rather than its standalone merits[^ref-3]. No further sequels were produced in the Cohort series, with Impressions Games subsequently focusing on their more successful city-builder franchises.
-
-- **Previous:** [[1993 - Cohort II - Fighting for Rome]]
 - [[1992 - Discovery - In the Steps of Columbus|← Previous: Discovery - In the Steps of Columbus]]
 - [[1993 - WW2 Air Force Commander|→ Next: WW2 Air Force Commander]]
 
-## References
-
-[^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, series information, trivia
-[^ref-2]: [Internet Archive – Cohort II (1993)](https://archive.org/details/msdos_Cohort_2_1993) – release dates, platforms, game description, gameplay features
-[^ref-3]: [MyAbandonware – Cohort II](https://www.myabandonware.com/game/cohort-ii-1ll) – developer, publisher, user rating, file sizes, critical quotes
-[^ref-4]: [Amiga Reviews Archive](https://amigareviews.leveluphost.com/cohort2.htm) – designers, review scores, technical specs, trivia, bug reports, critical quotes
-[^ref-5]: [Every Game Going – ST Format Review](https://www.everygamegoing.com/larticle/cohort-2--000/48820) – ST Format 68% review, gameplay details, critical quotes
-[^ref-7]: [Old-Games.com – Cohort II](https://www.old-games.com/download/5154/cohort-ii-a-k-a) – control issues, bug reports, critical analysis
-[^ref-8]: [Wikidata – Cohort II](https://www.wikidata.org/wiki/Q29867340) – genre classification as real-time tactics
-[^ref-9]: [Squakenet – Cohort 2: Fighting for Rome](https://www.squakenet.com/game/cohort-2-fighting-for-rome/) – retrospective analysis, technical notes
-[^ref-10]: [Lemon Amiga – Cohort II](https://www.lemonamiga.com/games/details.php?id=272) – comprehensive review scores, reviewer names, publication dates, average rating
-[^ref-11]: [Amiga Magazine Rack Archive](http://amr.abime.net/review_25092) – Amiga Joker review, German pricing
-[^ref-12]: [MobyGames – Cohort II Reviews](https://www.mobygames.com/game/2914/cohort-ii/reviews/) – aggregate critic and player scores
-[^ref-13]: [GameFAQs – Cohort II (PC)](https://gamefaqs.gamespot.com/pc/980540-cohort-ii) – user ratings
-[^ref-14]: [Playold.games – Cohort II](https://playold.games/play-game/cohort-ii/) – user rating, gameplay description
-[^ref-15]: [Online Classic Games – Cohort II](https://onlineclassicgames.com/game/cohort-ii/) – retrospective assessment quote
-[^ref-16]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – absence from Sierra catalog noted
-[^ref-17]: [GameFAQs – Cohort II: Fighting for Rome (Atari ST)](https://gamefaqs.gamespot.com/ast/227088-cohort-ii-fighting-for-rome/data) – Atari ST release information
-[^ref-18]: [GameFAQs – Cohort II (Amiga)](https://gamefaqs.gamespot.com/amiga/980530-cohort-ii/data) – Amiga release information
-[^ref-19]: [Kagi FastGPT Research](kagi:fastgpt) – release year confirmation, platform information
-[^ref-20]: [Amazon Product Listing](https://www.amazon.com/Cohort-II/dp/B000E5F86W) – publisher, platform, media format
-[^ref-21]: [Play Classic Games](https://playclassic.games/games/strategy-dos-games-online/play-cohort-ii-online/) – gameplay features description
-[^ref-22]: [Metacritic – Cohort II](https://www.metacritic.com/game/cohort-ii/) – developer and publisher confirmation
-[^ref-23]: [MyAbandonware Search Results](https://www.myabandonware.com/search/q/Cohort+II) – platform and release year confirmation
-[^ref-24]: [Playonline-games – Cohort 2](https://playonline-games.com/cohort-2/) – modern platform compatibility
+## 

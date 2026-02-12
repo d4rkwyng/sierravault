@@ -203,29 +203,8 @@ The game's educational focus on reading, spelling, and logic skills[^ref-2] posi
 The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
 
 ## See Also
-
-Hoyle Word Games 2001 is part of the extensive Hoyle series of game compilations published by Sierra. The Hoyle brand encompassed various card game, board game, casino game, and word game collections throughout the 1990s and 2000s. The word games sub-series focused specifically on vocabulary and spelling challenges, distinguishing itself from the card and casino-focused Hoyle titles.
-
-The franchise was named after Edmond Hoyle, the 18th-century writer who codified the rules for many card games, lending an air of authority and tradition to Sierra's digital game compilations[^ref-3].
-
 - **Related:** Various Hoyle Card Games, Hoyle Casino, and Hoyle Board Games titles
 - [[2001 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2002 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
-## References
-
-[^ref-1]: [GameFAQs – Hoyle Word Games 2001 Reviews](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/reviews) – release date, developer, publisher, GameSpot score
-[^ref-2]: [Children's Technology Review](http://matthewjdimatteo.com/ctr/review.php?id=5613) – educational review, price, games included, Wordox addition, platform info
-[^ref-3]: [GameFAQs – Hoyle Word Games 2001 Data](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/data) – release date, features list, game description, bonus content, ESRB rating
-[^ref-4]: [AllVideoClassicGames](https://www.allvideoclassicgames.com/products/hoyle-word-games-2001-edition-1clk-windows-10-8-7-vista-xp-install) – games list, review quotes, trivia, compatibility info, technical issues
-[^ref-5]: [Michigan State University Library](https://lib.msu.edu/rovi_game/8378) – hybrid PC/Mac platform, ESRB rating, publisher confirmation
-[^ref-6]: [Amazon India – Hoyle Word Games 2001](https://www.amazon.in/Hoyle-Word-Games-2001-PC/dp/B00004Y7TV) – alternate release date, system requirements, user reviews, compatibility issues
-[^ref-7]: [GameFAQs – Hoyle Word Games 2001 Main](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001) – user ratings, product description, media format
-[^ref-8]: [GameFAQs – User FAQ by KeyBlade999](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/faqs/62838) – user assessment, FAQ completion date
-[^ref-9]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/hoyle-word-games-2001/critic-reviews/) – lack of critic review coverage
-[^ref-10]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-word-games-2001/user-reviews/) – lack of user review coverage
-[^ref-11]: [Metacritic – Hoyle Word Games 2001](https://www.metacritic.com/game/hoyle-word-games-2001/) – retrospective quote, release date, developer/publisher
-[^ref-12]: [GameFAQs – Screenshots](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/images?pid=450752&img=8) – release date confirmation, platform info[^ref-13]: [Giant Bomb - Hoyle Word Games](https://www.giantbomb.com/hoyle-word-games/) - game wiki entry
-[^ref-14]: [IGDB - Hoyle Word Games](https://www.igdb.com/games/hoyle-word-games) - Internet Games Database entry
-[^ref-15]: [MobyGames - Hoyle Word Games](https://www.mobygames.com/game/hoyle-word-games/) - game database entry
-[^ref-16]: [GameSpot - Hoyle Word Games](https://www.gamespot.com/hoyle-word-games/) - game database entry
+## 

@@ -180,30 +180,7 @@ The game's significance lies primarily in its role as a bridge product—connect
 The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
 ## See Also
-
-Hoyle Casino 2008 is part of the long-running Hoyle casino game franchise that began with Sierra Entertainment in the 1990s. The series transitioned from Sierra to Encore in 2005, with Encore continuing development through 2016.[^ref-5] The game includes the traditional Hoyle features such as the face creator, multiple player profiles, and the official rulebook that had become series staples.[^ref-6] The franchise expanded beyond casino games to include Hoyle Card Games, Hoyle Board Games, and the related Hoyle Casino Empire business simulation.[^ref-5]
-
-- **Previous:** Hoyle Casino 2007 (2006)
-- **Next:** Hoyle Casino Games 2009 (2008)
 - [[2007 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2008 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## References
-
-[^ref-1]: [Amazon UK – Hoyle Casino 2008](https://www.amazon.co.uk/Hoyle-Casino-2008-OLD-VERSION/dp/B000TKB28K) – customer reviews, product description, publisher info, platform compatibility
-[^ref-2]: [Newegg – Hoyle Casino Games 2008](https://www.newegg.com/encore-software-hoyle-casino-games-2008/p/N82E16832196442) – technical specifications, system requirements, product features
-[^ref-3]: [GameFAQs – Hoyle Franchise Page](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – game variations, rulebook inclusion, release platforms
-[^ref-4]: [Inside Mac Games Forum](https://www.insidemacgames.com/forum/thread-16374.html) – Mac porting details, technical issues, system requirements, easter eggs, developer comments
-[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer transitions, sales data, bug documentation
-[^ref-6]: [MobyGames – Hoyle Casino Games](https://www.mobygames.com/game/230559/hoyle-casino-games/) – developer credits, ESRB rating, gameplay classification
-[^ref-7]: [Metacritic – Hoyle Casino 2008](https://www.metacritic.com/game/hoyle-casino-2008/) – release date, developer/publisher info, ESRB rating
-[^ref-8]: [Macworld – Hoyle Casino 2008](https://www.macworld.com/article/190285/casino-4.html) – digital distribution, pricing, Mac system requirements, game content list
-[^ref-9]: [IGN – Hoyle Casino 2008](https://www.ign.com/games/hoyle-casino-2008/user-reviews) – release date, publisher info
-[^ref-10]: [RAWG – Hoyle Casino 2008](https://rawg.io/games/hoyle-casino-2008) – release date, developer/publisher info
-[^ref-11]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – Steam App ID, later version system requirements, platform compatibility[^ref-12]: [Giant Bomb - Hoyle Casino 2008](https://www.giantbomb.com/hoyle-casino-2008/) - wiki
-[^ref-13]: [IGDB - Hoyle Casino 2008](https://www.igdb.com/games/hoyle-casino-2008) - IGDB
-[^ref-14]: [MobyGames - Hoyle Casino](https://www.mobygames.com/game/hoyle-casino/) - database
-[^ref-15]: [GameFAQs - Hoyle Casino](https://gamefaqs.gamespot.com/) - database
-[^ref-16]: [Amazon - Hoyle Casino 2008](https://www.amazon.com/) - retail listing
-[^ref-17]: [UVList - Hoyle Casino](https://www.uvlist.net/) - Universal Videogame List
-[^ref-18]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
+## 

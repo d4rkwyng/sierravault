@@ -189,25 +189,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - Physical copies occasionally available through secondary markets[^ref-4]
 
 ## See Also
-
-Hoyle Puzzle Games 2002 is part of the extensive Hoyle Series that began in 1989 and continued through 2016[^ref-5][^ref-6][^ref-11]. The game specifically belongs to the "Hoyle Word Games / Puzzle Games" sub-series within the broader Hoyle brand[^ref-7]. The collection marked Sierra's effort to expand the traditionally card and board game-focused Hoyle line into dedicated puzzle game territory, with the format proving successful enough to warrant a follow-up release the following year.
-
-The series maintained its tradition of including social features like character creation through the Facemaker tool, connecting the puzzle-focused gameplay to the broader Hoyle gaming experience[^ref-1][^ref-8]. The inclusion of The Incredible Machine: Even More Contraptions as a bonus game represented cross-pollination between Sierra's casual gaming brands[^ref-4][^ref-9].
-
-- **Previous:** Various Hoyle Card Games and Board Games releases (2001)
-- **Next:** Hoyle Puzzle Games 2003[^ref-5][^ref-6]
 - [[2002 - Hoyle Casino Empire|← Previous: Hoyle Casino Empire]]
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## References
-
-[^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status
-[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Box Information](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – release dates, publisher, platforms, packaging details, UPC
-[^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – game count, publisher information
-[^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, release timeline
-[^ref-6]: [Alchetron – Hoyle's Official Book of Games](https://alchetron.com/Hoyle's-Official-Book-of-Games) – series overview, chronological listing
-[^ref-7]: [Sierra Chest – Hoyle Puzzle Games Music](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=music) – music track listing, audio asset origins, series grouping
-[^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
-[^ref-9]: [Sierra Chest – The Incredible Machine: Even More Contraptions](https://sierrachest.com/index.php?a=games&id=321&title=incredible-machine-even-more-contraptions&fld=general) – developer, release year, platforms
-[^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
-[^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
+## 

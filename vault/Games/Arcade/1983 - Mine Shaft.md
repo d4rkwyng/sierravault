@@ -174,21 +174,7 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
 
 ## See Also
-
-Mine Shaft is a standalone title with no direct sequels or prequels. The game exists as an independent entry in Sierra's early arcade catalog, separate from the adventure game series that would come to define the company's identity.
 - [[1983 - Aquatron|← Previous: Aquatron]]
 - [[1983 - Mr. Cool|→ Next: Mr. Cool]]
 
-## References
-
-[^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits
-[^ref-2]: [MyAbandonware – Mine Shaft](https://www.myabandonware.com/game/mine-shaft-5n) – platform information, screenshots, download availability
-[^ref-3]: [Sierra Chest – Mine Shaft](https://www.sierrachest.com/index.php?a=games&id=459&title=mine-shaft) – Sierra game database entry
-[^ref-4]: [GameFAQs – Mine Shaft](https://gamefaqs.gamespot.com/apple2/577478-mine-shaft) – Apple II platform entry, game database
-[^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – playable version, game description
-[^ref-6]: [Internet Archive – Mine Shaft IBM PC Floppy](https://archive.org/details/000308-MineShaft) – IBM PC floppy image preservation
-[^ref-7]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
-[^ref-8]: [UVList – Mine Shaft](https://www.uvlist.net/game-170916-Mine+Shaft) – game database entry, platform information
-[^ref-9]: [Giant Bomb – Mine Shaft](https://www.giantbomb.com/mine-shaft/3030-1311/) – game database entry, community content
-[^ref-10]: [Sierra Gamers – Mine Shaft](https://www.sierragamers.com/mine-shaft/) – Sierra fan community game entry
-[^ref-11]: [Abandonware DOS – Mine Shaft](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mine+Shaft&gid=2471) – DOS game preservation
+## 

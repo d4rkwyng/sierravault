@@ -245,37 +245,6 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 - [Patch 1.01 for FPS Football Pro '95](https://archive.org/details/FBP9611)[^ref-16]
 
 ## See Also
-
-Front Page Sports: Football launched what would become an annual franchise spanning from 1992 to 1999. The original game used fictional teams before the 1993 Pro version secured NFLPA licensing[^ref-1]. Each subsequent release added features, with Pro '95 introducing full NFL licensing, Pro '96 adding SVGA graphics and expansion teams, and Pro '97 incorporating motion capture animation[^ref-11][^ref-5].
-
-The series changed primary developers from Dynamix to Synergistic Software for the '98 and '99 versions[^ref-15], which coincided with a decline in quality and the eventual discontinuation of the franchise after the problematic '99 release was recalled[^ref-1].
-
-- **Next:** [[1993 - Front Page Sports - Football Pro]]
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports - Football Pro]]
 
-## References
-
-[^ref-1]: [En-Academic – Front Page Sports](https://en-academic.com/dic.nsf/enwiki/4856623) – series history, career mode details, CGW ranking, version history
-[^ref-2]: [Digital Antiquarian](https://www.filfre.net/?s=Front+Page+Sports%3A+Football+Pro+%2796+Season) – Dynamix as Sierra subsidiary, development context
-[^ref-3]: [MobyGames – Front Page Sports: Football Pro](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – credits, technical specs, awards, features
-[^ref-4]: [Retro Replay – FPS Football Pro '98](https://retro-replay.com/db/windows/front-page-sports-football-pro-98/) – gameplay description, modes
-[^ref-5]: [MobyGames – Front Page Sports: Football Pro '97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) – PC Gamer quote, ratings, features
-[^ref-6]: [MobyGames – Front Page Sports: Football Pro '95](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/) – technical details, features, credits
-[^ref-7]: [GameSpot – FPS Football Pro '98 Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) – review, bugs, cut content
-[^ref-8]: [eBay Listing](https://www.ebay.com/itm/175002541661) – user review quote about graphics
-[^ref-9]: [VOGONS Forum](http://www.vogons.org/viewtopic.php?t=870) – compatibility issues, user praise
-[^ref-10]: [MyAbandonware – FPS Football Pro '96](https://www.myabandonware.com/game/front-page-sports-football-pro-96-season-bqh) – user reviews, downloads
-[^ref-11]: [MobyGames – FPS Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – technical specs, features
-[^ref-12]: [Emuparadise – FPS Football Pro '96](https://www.emuparadise.me/Abandonware_Games/Front_Page_Sport_Football_Pro_96_Season_(1995)(Sierra_Online)/93409) – ratings, metadata
-[^ref-13]: [MyAbandonware – FPS Football Pro](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – user memories, downloads
-[^ref-14]: [GameFAQs – FPS Football Pro '95](https://gamefaqs.gamespot.com/pc/564575-front-page-sports-football-pro-95) – ratings, marketing quote
-[^ref-15]: [Wikipedia – FPS Football Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports:_Football_Pro_%2798) – release details, sales, developer change
-[^ref-16]: [Internet Archive – FPS Football Pro '95 Patch](https://archive.org/details/FBP9611) – patch notes, bug fixes
-[^ref-17]: [Internet Archive – FPS Football Pro '96 Demo](https://archive.org/details/FBPRO96) – preservation, demo version
-[^ref-18]: [Internet Archive – FPS Football Pro '96 Full](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – full game preservation
-[^ref-19]: [GM Games Forum – VPNFL99 Mod](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – mod details, contributors
-[^ref-20]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – tablet compatibility, user experiences
-[^ref-21]: [GameSpot – FPS Baseball Pro '96 Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-96-season-review/1900-2536091/) – management gameplay quote
-[^ref-22]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/90537-front-page-sports-football-pro-96-season) – metadata, ESRB rating
-[^ref-23]: [IGN – FPS Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – release date, features
-[^ref-24]: [GOG Dreamlist](https://www.gog.com/dreamlist) – game description
+## 

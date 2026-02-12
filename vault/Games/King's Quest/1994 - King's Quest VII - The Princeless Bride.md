@@ -257,42 +257,8 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 - [Official King's Quest VII Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – For versions 1.4 and 1.51[^ref-22]
 
 ## See Also
-
-King's Quest VII is the only mainline entry not to feature King Graham, focusing instead entirely on the female members of the royal family. The game continues Rosella's story from King's Quest IV and features the return of Prince Edgar, now revealed as a prince of Etheria who was kidnapped as an infant by Malicia. The simplified tone and [[Disney]]-inspired aesthetics marked a significant departure from the darker fantasy of King's Quest VI, though the series would return to a more mature approach with the 3D Mask of Eternity.
-
-- **Previous:** [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-- **Next:** [[1998 - King's Quest - Mask of Eternity]]
 - [[King's Quest Series]] - Series overview
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|← Previous: King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1998 - King's Quest - Mask of Eternity|→ Next: King's Quest - Mask of Eternity]]
 
-## References
-
-[^ref-1]: [MobyGames – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/) – – ratings, credits, trivia, platforms, reviews
-[^ref-2]: [Sierra Fandom Wiki – King's Quest VII](https://sierra.fandom.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – version differences, credits, reception, Roberta Williams interview
-[^ref-3]: [LaunchBox Games Database – King's Quest VII](https://gamesdb.launchbox-app.com/games/details/80774-kings-quest-vii-the-princeless-bride) – – title pun on The Princess Bride
-[^ref-4]: [King's Quest Omnipedia – KQ7 Development](https://kingsquest.fandom.com/wiki/KQ7_development) – – Pixar attempt, animation studios, kitchen table design, cut content
-[^ref-5]: [Only Solitaire – King's Quest VII Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vii-the-princeless) – – 2021 retrospective, Lorelei Shannon's role, detailed analysis
-[^ref-6]: [King's Quest Omnipedia – Enhanced Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride_(Enhanced_Version) – ) – 100+ compositions, version 2.0 marketing
-[^ref-7]: [PCGamingWiki – King's Quest VII](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – interface, platform details
-[^ref-8]: [Computer Gaming World #127 (February 1995)](https://archive.org/download/Computer_Gaming_World_Issue_127/Computer_Gaming_World_Issue_127_djvu.txt) – – Charles Ardai review, 80%, "middle-quality Disney" quote
-[^ref-9]: [SCI Wiki – King's Quest VII](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VII:_The_Princeless_Bride) – – interpreter versions 2.100.002, technical specifications
-[^ref-10]: [All The Tropes – King's Quest VII](https://allthetropes.org/wiki/King%27s_Quest_VII) – – impossible to lose, firecracker CPU bug, tropes analysis
-[^ref-11]: [Wikipedia – King's Quest VII](https://en.wikipedia.org/wiki/King%27s_Quest_VII) – – plot summary, sales figures
-[^ref-12]: [Villains Wiki – Malicia](https://villains.fandom.com/wiki/Malicia) – – antagonist details, plot summary
-[^ref-13]: [StrategyWiki – King's Quest VII](https://strategywiki.org/wiki/King%27s_Quest_VII:_The_Princeless_Bride) – – chapter breakdown
-[^ref-14]: [IGN – King's Quest VII](https://www.ign.com/games/kings-quest-vii-the-princeless-bride) – – HowLongToBeat 8 hours main story
-[^ref-15]: [GameSpot – King's Quest VII](https://www.gamespot.com/games/kings-quest-vii-the-princeless-bride/) – – user rating 7.7
-[^ref-16]: [Glitchwave – King's Quest VII](https://glitchwave.com/game/kings-quest-vii-the-princeless-bride/) – – 3.21/5.0 rating, #98 for 1994
-[^ref-17]: [GOG.com – King's Quest 7+8](https://www.gog.com/en/game/kings_quest_7_8) – – 4/5 rating (78 reviews), $9.99
-[^ref-18]: [IMDB – King's Quest VII Credits](https://www.imdb.com/title/tt0293808/fullcredits/) – – 129 animators, full production credits
-[^ref-19]: [ScummVM Wiki – King's Quest VII](https://wiki.scummvm.org/index.php?title=King%27s_Quest_VII) – – 640×480 resolution, 256 colors
-[^ref-20]: [MobyGames Trivia – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/trivia/) – – Disney-style 3 fingers, Graham cut, alternate titles
-[^ref-21]: [The Cutting Room Floor – King's Quest VII](https://tcrf.net/King%27s_Quest_VII:_The_Princeless_Bride) – – version differences, debug mode, cut content, unused content
-[^ref-22]: [Sierra Help – King's Quest Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – – official patches, bug fixes list
-[^ref-23]: [Sierra Help – Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – – hidden references, secrets
-[^ref-24]: [King's Quest Omnipedia – Easter Eggs](https://kingsquest.fandom.com/wiki/Easter_egg) – – Two Guys Glasses, Gregor Samsa, Moose, Silence of the Lambs, Monty Python
-[^ref-25]: [Behind The Voice Actors – King's Quest VII](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VII-The-Princeless-Bride/) – – 22 actors, 63 characters, voice cast
-[^ref-26]: [Speedrun.com – King's Quest VII](https://www.speedrun.com/kings_quest_vii_the_princeless_bride) – – world record 48m 27s by AdmiralJay, 70 runs, 15 players
-[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – 2006 collection release
-[^ref-28]: [InterAction Magazine Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994) – – pre-release coverage, "most eagerly awaited sequel"
+## 

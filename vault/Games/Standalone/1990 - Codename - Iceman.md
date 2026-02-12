@@ -204,32 +204,7 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
 
 ## See Also
-
-Codename: ICEMAN was designed as the first entry in a planned franchise of espionage-themed adventure games. Sierra promotional materials referenced "Codename: PHOENIX" as a planned sequel, but disappointing sales of ICEMAN resulted in the cancellation of any follow-up titles.[^ref-1] The game thus remains a standalone entry, representing Jim Walls' only non-Police Quest work for Sierra.
-
-While not a sequel, the game shares thematic DNA with the Police Quest series through its emphasis on realistic procedures and protocols. Walls would return to that franchise for Police Quest 3, applying lessons learned from ICEMAN's mixed reception to create a more balanced adventure experience.
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|← Previous: Tank - The M1A1 Abrams Battle Tank Simulation]]
 - [[1990 - Jones in the Fast Lane|→ Next: Jones in the Fast Lane]]
 
-## References
-
-[^ref-1]: [Wikipedia – Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) – plot, development credits, platforms, sequel cancellation
-[^ref-2]: [Only Solitaire – Game Review: Codename ICEMAN (1990)](https://onlysolitaire.substack.com/p/game-review-codename-iceman-1990) – critical analysis, gameplay description, historical context
-[^ref-3]: [GameFAQs – Code-name: ICEMAN Review](https://gamefaqs.gamespot.com/pc/564617-code-name-iceman/reviews/90559) – gameplay scores, control evaluation, manual requirements
-[^ref-4]: [GOG.com – Codename: ICEMAN](https://www.gog.com/en/game/codename_iceman) – product description, user ratings, marketing text
-[^ref-5]: [Time Extension – Codename: Iceman Fanmade Prequel](https://www.timeextension.com/news/2024/11/sierras-brutally-difficult-adventure-codename-iceman-just-got-a-hilarious-fanmade-prequel) – difficulty reputation, fan project details
-[^ref-6]: [Police Quest Omnipedia – Codename: Iceman](https://policequest.fandom.com/wiki/Codename:_Iceman) – development credits, engine info, release date
-[^ref-7]: [PlayClassic.games – Codename: ICEMAN](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-code-name-iceman-online/) – gameplay description, interface details
-[^ref-8]: [The Adventurers' Guild – Codename: ICEMAN Final Rating](https://advgamer.blogspot.com/2012/11/game-25-codename-iceman-final-rating.html) – detailed gameplay critique, parser issues, puzzle analysis
-[^ref-9]: [ST Format – Codename: Iceman Review](https://www.everygamegoing.com/larticle/codename-iceman-000/49056/) – contemporary review, technical issues, Atari ST performance
-[^ref-10]: [Sierra Gamers – Codename Iceman](https://www.sierragamers.com/codename-iceman/) – download resources, manual availability
-[^ref-11]: [AGDInteractive Forum – Codename: ICEMAN Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=14656) – community discussion, Jim Walls career context
-[^ref-12]: [Internet Archive – Codename Iceman Manual](https://archive.org/stream/Codename_Iceman_Manual/Codename_Iceman_Manual_djvu.txt) – manual preservation
-[^ref-13]: [MobyGames](https://www.mobygames.com/game/1012/codename-iceman/) – comprehensive game database entry with credits and specs
-[^ref-14]: [Giant Bomb](https://www.giantbomb.com/codename-iceman/3030-13887/) – game database with community information
-[^ref-15]: [IGDB](https://www.igdb.com/games/codename-iceman) – Internet Game Database entry
-[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q2591925) – structured metadata
-[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Codename:_ICEMAN) – technical compatibility information
-[^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/codename-iceman-1au) – preservation and download site
-[^ref-19]: [UVList](https://www.uvlist.net/game-155604-codename-iceman) – Universal Videogame List entry
-[^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Codename:_ICEMAN) – wiki with detailed information
+## 

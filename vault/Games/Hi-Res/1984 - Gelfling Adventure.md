@@ -165,33 +165,8 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 The game is documented in gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
 ## See Also
-
-Gelfling Adventure is a companion title to Hi-Res Adventure #6: The Dark Crystal, sharing graphics and story but featuring simplified gameplay for younger audiences.[^ref-2] The game was based on Jim Henson's 1982 fantasy film, which Sierra had previously adapted as Hi-Res Adventure #6.[^ref-9] Jim Henson himself had collaborated with Ken Williams on the original Dark Crystal game project.[^ref-10]
-
 - **Related:** [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal|← Previous: Hi-Res Adventure 6 - The Dark Crystal]]
 - [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
 
-## References
-
-[^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information
-[^ref-2]: [Wikipedia - The Dark Crystal (video game)](https://en.wikipedia.org/wiki/The_Dark_Crystal_(video_game)) - release year, designer, simplified version for younger players
-[^ref-3]: [Al Lowe interviews and articles](https://www.metaljesusrocks.com/tag/al-lowe/) - developer quotes, interpreter development, Sierra career history
-[^ref-4]: [IFWizz - Gelfling Adventure](https://ifwizz.de/gelfling-adventure-(1984-en).html) - 1984 release, multiple choice interface, historical significance
-[^ref-5]: [eBay - Gelfling Adventure listing](https://www.ebay.com/itm/266779426749) - rarity information, collector market
-[^ref-6]: [Sierra Wiki - The Dark Crystal](https://sierra.fandom.com/wiki/The_Dark_Crystal) - story details, original game information, awards
-[^ref-7]: [MobyGames - Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) - credits, related games, platform information
-[^ref-8]: [Sierra Gamers - Gelfling Adventure](https://www.sierragamers.com/gelfling-adventure/) - Sierra catalog listing
-[^ref-9]: [Dark Crystal Fandom Wiki](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal_(computer_game)) - film tie-in information
-[^ref-10]: [Muppet Wiki - The Dark Crystal (computer game)](https://muppet.fandom.com/wiki/The_Dark_Crystal_(computer_game)) - Jim Henson connection
-[^ref-11]: [Internet Archive - Gelfling Adventure](https://archive.org/details/GelflingAdventure4amCrack) - preserved Apple II disk image, playable via emulator
-[^ref-12]: [Giant Bomb - Gelfling Adventure](https://www.giantbomb.com/the-dark-crystal/) - Dark Crystal games
-[^ref-13]: [IGDB - Gelfling Adventure](https://www.igdb.com/games/gelfling-adventure) - IGDB entry
-[^ref-14]: [MobyGames - Sierra 1984](https://www.mobygames.com/company/sierra-on-line/) - Sierra catalog
-[^ref-15]: [My Abandonware - Gelfling](https://www.myabandonware.com/game/gelfling-adventure-49) - preservation
-[^ref-16]: [GameFAQs - Gelfling](https://gamefaqs.gamespot.com/) - database
-[^ref-17]: [UVList - Gelfling](https://www.uvlist.net/) - Universal Videogame List
-[^ref-18]: [Internet Archive - Gelfling](https://archive.org/) - preservation
-[^ref-19]: [Apple II History](https://www.apple2history.org/) - historical context
-[^ref-20]: [Dark Crystal Wiki](https://darkcrystal.fandom.com/) - franchise information
-[^ref-21]: [Retro Games Archive](https://archive.org/details/software?query=gelfling) - preservation
+## 

@@ -244,40 +244,7 @@ The game also holds historical significance as one of the earlier adventure game
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
 ## See Also
-
-Lost in Time is technically a standalone title, though its protagonist Doralice Prunelier previously appeared in Coktel Vision's adult-oriented adventure game Fascination[^ref-18]. The connection between the two games was not indicated in Lost in Time's packaging or documentation, leaving many players unaware of the shared continuity[^ref-18]. The games share the same protagonist but feature very different tones and subject matter.
-
-- **Previous:** Fascination (1991) – Same protagonist, adult-oriented adventure
-- **Next:** None – Lost in Time was Doralice's final appearance
 - [[1992 - Ween - The Prophecy|← Previous: Ween - The Prophecy]]
 - [[1995 - The Last Dynasty|→ Next: The Last Dynasty]]
 
-## References
-
-[^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information
-[^ref-2]: [ClassicReload – Lost in Time](https://classicreload.com/lost-in-time.html) – FMV technology claims, graphical elements description
-[^ref-3]: [Internet Archive – Lost in Time (DOS)](https://archive.org/details/msdos_Lost_in_Time_1993) – game description, story summary, preservation status
-[^ref-4]: [Best DOS Games – Lost in Time](https://bestdosgames.com/games/lost-in-time) – analysis of game's historical significance
-[^ref-5]: [Hardcore Gaming 101 – Lost in Time](http://www.hardcoregaming101.net/lost-in-time/) – Back to the Future comparison, visual style analysis, development context
-[^ref-6]: [Wikipedia – Lost in Time (video game)](https://en.wikipedia.org/wiki/Lost_in_Time_(video_game)) – release dates, publisher information, review scores, version details
-[^ref-7]: [Alex Bevilacqua Blog – Lost in Time](https://alexbevi.com/blog/2023/10/26/lost-in-time/) – Gob engine, Joker hint system, voice acting criticism, contemporary context
-[^ref-8]: [eBay – Lost in Time Product Page](https://www.ebay.com/p/54828537) – Space Time Patrol details, Americium 1492 plot element, character backstory
-[^ref-9]: [ScummVM Wiki – Lost in Time](https://wiki.scummvm.org/index.php?title=Lost_in_Time) – ScummVM support, resolution, plot summary, Hebrew title
-[^ref-10]: [Sierra Help – Lost in Time Walkthrough](https://sierrahelp.com/Walkthroughs/LostInTimeWalkthrough.html) – game locations, puzzle structure
-[^ref-11]: [Sierra Chest – Lost in Time](https://www.sierrachest.com/index.php?a=games&id=150&title=lost-in-time) – complete voice cast listing
-[^ref-12]: [GameBoomers – Lost in Time Walkthrough](https://www.gameboomers.com/wtcheats/pcLl/LostinTime/lostintime.htm) – interface description, gameplay mechanics, timed puzzles
-[^ref-13]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/6098/lost-in-time/user-review/2590056/) – MacGyver comparisons, engine details, lip-synch issues, Fascination connection
-[^ref-14]: [MyAbandonware – Lost in Time](https://www.myabandonware.com/game/lost-in-time-1zq) – HOTUD review quotes, difficulty description, ratings
-[^ref-15]: [Adventure Gamer Blog – Lost in Time Introduction](https://advgamer.blogspot.com/2023/06/game-135-lost-in-time-introduction-1993.html) – Sierra acquisition timing, manual quote, release details
-[^ref-16]: [GameFAQs – Lost in Time FAQ](https://gamefaqs.gamespot.com/pc/564643-lost-in-time/faqs/55450) – fan testimonials, storyline praise
-[^ref-17]: [MobyGames Reviews – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/reviews/) – MAT user review quotes, critic aggregate score
-[^ref-18]: [GOG Dreamlist – Lost in Time](https://www.gog.com/dreamlist) – user testimonials, Fascination sequel revelation, compatibility issues
-[^ref-19]: [Abandonware DOS – Lost in Time](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Lost+in+Time&gid=1998) – rating, floppy version details
-[^ref-20]: [Amazon – Lost in Time](https://www.amazon.com/Sierra-On-Line-Inc-Lost-Time/dp/B0002T87RM) – customer rating
-[^ref-21]: [Sierra Help – Lost in Time Technical Help](https://sierrahelp.com/Games/LostInTimeHelp.html) – system requirements, compatibility issues, technical specifications
-[^ref-22]: [VGMPF – Lost in Time (DOS)](https://www.vgmpf.com/Wiki/index.php?title=Lost_in_Time_(DOS)) – audio specifications, unused tracks, composer credit
-[^ref-23]: [PCGamingWiki – Lost in Time](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – minimum and recommended requirements, Gob engine
-[^ref-24]: [VOGONS Forum – Lost in Time](http://www.vogons.org/viewtopic.php?t=9728) – DOSBox compatibility issues, CVS fix information
-[^ref-25]: [The Spoiler – Lost in Time Walkthrough](https://the-spoiler.com/ADVENTURE/Coktel/lost.in.time.3.html) – difficulty testimonial
-[^ref-26]: [Internet Archive – Lost in Time (Alternative)](https://archive.org/details/lost-in-time) – ESRB rating, language support
-[^ref-27]: [Internet Archive – Lost in Time Manual](https://archive.org/details/lost-time-manual) – original manual preservation
+## 

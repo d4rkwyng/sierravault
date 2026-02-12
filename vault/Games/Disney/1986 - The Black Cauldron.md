@@ -111,35 +111,7 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
 ## See Also
-
-- **Previous:** None (standalone game)
 - **Next:** None (standalone game)
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|← Previous: Winnie the Pooh in the Hundred Acre Wood]]
 
-## References
-
-[^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – - Developer and publisher information
-[^ref-2]: [DOSGames.com - The Black Cauldron](https://dosgames.com/game/black-cauldron-the/) – - Designer attribution and development context
-[^ref-3]: [Wikipedia - The Black Cauldron (video game)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(video_game) – ) - Interface innovation details
-[^ref-4]: [Al Lowe's Website](https://allowe.com/downloads/games.html) – - First-hand development account
-[^ref-5]: [Archive.org - Black Cauldron MS-DOS](https://archive.org/details/msdos_Black_Cauldron_The_1986) – - Platform information
-[^ref-6]: [Color Computer Archive - Walkthrough](https://colorcomputerarchive.com/repo/Documents/Walkthroughs/Sierra%20Games/The%20Black%20Cauldron%20Walkthrough%20(Sierra) – .txt) - Plot summary
-[^ref-7]: [DOS Games Archive - The Black Cauldron](https://www.dosgamesarchive.com/download/the-black-cauldron/) – - Al Lowe quote and freeware status
-[^ref-8]: [PCGamingWiki - The Black Cauldron](https://www.pcgamingwiki.com/wiki/The_Black_Cauldron) – - Technical specifications
-[^ref-9]: [HonestGamers - The Black Cauldron Review](http://www.honestgamers.com/13367/pc/the-black-cauldron/review.html) – - Gameplay mechanics and critical review
-[^ref-10]: [GOG.com - The Black Cauldron Wishlist](https://www.gog.com/dreamlist/game/the-black-cauldron-1986) – - Product description
-[^ref-11]: [Grokipedia - The Black Cauldron](https://grokipedia.com/page/The_Black_Cauldron_(video_game) – ) - Engine and graphics details
-[^ref-12]: [Gamer Walkthroughs - The Black Cauldron](https://gamerwalkthroughs.com/the-black-cauldron/) – - Design philosophy
-[^ref-13]: [Hardcore Gaming 101 - The Black Cauldron](http://www.hardcoregaming101.net/the-black-cauldron/) – - Modern assessment
-[^ref-14]: [MobyGames - The Black Cauldron Trivia](https://www.mobygames.com/game/194/the-black-cauldron/trivia/) – - Easter eggs and commands
-[^ref-15]: [Atarimania - The Black Cauldron](https://www.atarimania.com/game-atari-st-black-cauldron-_35670.html) – - Review score
-[^ref-16]: [Every Game Going - The Black Cauldron](https://www.everygamegoing.com/larticle/The-Black-Cauldron-000/41649) – - Contemporary review
-[^ref-17]: [Lemon Amiga - The Black Cauldron](https://www.lemonamiga.com/games/details.php?id=164) – - Magazine review scores
-[^ref-18]: [Adventure Classic Gaming - The Black Cauldron](http://www.adventureclassicgaming.com/index.php/site/reviews/311/) – - Modern review score
-[^ref-19]: [Alex Bevilacqua Blog - The Black Cauldron](https://alexbevi.com/blog/2023/11/14/the-black-cauldron/) – - Modern review score
-[^ref-20]: [MyAbandonware - The Black Cauldron](https://www.myabandonware.com/game/the-black-cauldron-7l) – - User rating
-[^ref-21]: [MobyGames - The Black Cauldron Reviews](https://www.mobygames.com/game/194/the-black-cauldron/reviews/) – - Aggregate scores
-[^ref-22]: [Game Developer - Al Lowe Interview](https://www.gamedeveloper.com/game-platforms/in-depth-al-lowe-talks-early-days-adventure-genre-challenges-in-new-book) – - Disney development context
-[^ref-23]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – - Development team context
-[^ref-24]: [Sierra Fandom - The Black Cauldron](https://sierra.fandom.com/wiki/The_Black_Cauldron) – - Technical details
-[^ref-25]: [VGMRips - The Black Cauldron Apple IIgs](https://vgmrips.net/packs/pack/the-black-cauldron-apple-iigs) – - Audio specifications
+## 

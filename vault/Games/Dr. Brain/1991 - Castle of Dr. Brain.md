@@ -258,12 +258,6 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos)
 
 ## See Also
-
-Castle of Dr. Brain launched Sierra's Dr. Brain franchise, which would span seven titles across nearly a decade. The series became the cornerstone of Sierra's educational gaming efforts under the Discovery Series banner. The game's success led directly to the sequel The Island of Dr. Brain (1992), though creator Corey Cole was not involved in its development.[^ref-2]
-
-The Dr. Brain character proved influential enough to inspire Dr. Cranium, a similar eccentric scientist character who appears in Quest for Glory IV: Shadows of Darkness, demonstrating the cross-pollination between Sierra's entertainment and educational divisions.[^ref-2]
-
-**Dr. Brain Series:**[^ref-22]
 - Castle of Dr. Brain (1991)
 - The Island of Dr. Brain (1992)
 - The Lost Mind of Dr. Brain (1995)
@@ -272,40 +266,6 @@ The Dr. Brain character proved influential enough to inspire Dr. Cranium, a simi
 - Dr. Brain Thinking Games: IQ Adventure (1998)
 - Dr. Brain: Action Reaction (1999)
 
-- **Next:** [[1992 - The Island of Dr. Brain]]
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
 
-## References
-
-[^ref-1]: [MobyGames – Castle of Dr. Brain](https://www.mobygames.com/game/1523/castle-of-dr-brain/) – developer, publisher, platforms, release dates, composer credits, ratings
-[^ref-2]: [The Adventurers' Guild – Castle of Dr. Brain Introduction](https://advgamer.blogspot.com/2015/12/castle-of-dr-brain-introduction.html) – Corey Cole development commentary, design history, Easter eggs
-[^ref-3]: [Collection Chamber – Castle of Dr. Brain](https://collectionchamber.blogspot.com/p/castle-of-dr-brain.html) – game tagline, box description, VGA version details
-[^ref-4]: [The Digital Antiquarian – Dr. Brain](https://www.filfre.net/2018/02/dr-brain/) – sales figures, development history, Ken Williams concept, Discovery Series context
-[^ref-5]: [Wikipedia – Castle of Dr. Brain](https://en.wikipedia.org/wiki/Castle_of_Dr._Brain) – engine, composers, Dragon magazine review, Charles Ardai quote
-[^ref-6]: [ClassicReload – Castle of Dr. Brain](https://classicreload.com/castle-of-dr-brain.html) – gameplay description, plot summary
-[^ref-7]: [StrategyWiki – Front Hall](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Front_hall) – puzzle progression, gameplay structure
-[^ref-8]: [MobyGames – Castle of Dr. Brain Reviews](https://www.mobygames.com/game/1523/castle-of-dr-brain/reviews/) – user reviews, trivia, educational context
-[^ref-9]: [StrategyWiki – Castle of Dr. Brain](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain) – basic game information, age recommendation
-[^ref-10]: [Quest Studios – Castle of Dr. Brain Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/castle-of-dr-brain/) – track listing, room names
-[^ref-11]: [StrategyWiki – Job Skills](https://strategywiki.org/wiki/The_Castle_of_Dr._Brain/Job_skills) – final puzzle description
-[^ref-12]: [Sierra Fandom Wiki – Castle of Dr. Brain](https://sierra.fandom.com/wiki/Castle_of_Dr._Brain) – interface comparison, Bach music reference
-[^ref-13]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2016/01/castle-of-dr-brain-final-rating.html) – review score, graphics assessment, interface praise
-[^ref-14]: [Amiga Reviews – Castle of Dr. Brain](https://amigareviews.leveluphost.com/castledr.htm) – multiple magazine reviews, technical specifications, puzzle count
-[^ref-15]: [GameFAQs – Walkthrough by Samcan](https://gamefaqs.gamespot.com/pc/564673-castle-of-dr-brain/faqs/78305) – Easter eggs, scoring system, Sierra game references
-[^ref-16]: [MyAbandonware – Castle of Dr. Brain](https://www.myabandonware.com/game/castle-of-dr-brain-1b8) – user rating, HOTUD quotes, alternative titles
-[^ref-17]: [GameFAQs – Walkthrough by Tricrokra](https://gamefaqs.gamespot.com/pc/564673-castle-of-dr-brain/faqs/54099) – robot puzzle details, constellation puzzles
-[^ref-18]: [Amiga Magazine Reviews Database](https://amr.abime.net/review_3626) – comprehensive review scores, reviewer names, publication dates
-[^ref-19]: [IMDB – Castle of Dr. Brain](https://www.imdb.com/title/tt11673352/) – user rating, release country
-[^ref-20]: [Lemon Amiga – Castle of Dr. Brain](https://www.lemonamiga.com/games/details.php?id=1380) – Amiga version rating, technical specs
-[^ref-21]: [Xeen Music – MT-32 Original Soundtrack](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-original-soundtrack-mt-32) – composer credits, cut content, recording details
-[^ref-22]: [PCGamingWiki – Castle of Dr. Brain](https://www.pcgamingwiki.com/wiki/Castle_of_Dr._Brain) – technical specs, video modes, series listing
-[^ref-23]: [Xeen Music – Soundtrack Album](https://xeenmusic.bandcamp.com/album/castle-of-dr-brain-soundtrack-mt-32) – unused tracks, hardware polyphony notes
-[^ref-24]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=173&fld=eggs) – book references, TSN reference, Metallica reference, release date
-[^ref-25]: [Internet Archive – 1996 CD-ROM](https://archive.org/details/castle-of-dr.-brain-1996-sierra) – CD-ROM release details
-[^ref-26]: [VOGONS Forum – Technical Issues](https://www.vogons.org/viewtopic.php?t=1020) – audio driver issues, VDMSound compatibility
-[^ref-27]: [Easter Egg Database – eeggs.com](https://eeggs.com/items/69.html) – crossbar names Easter egg
-[^ref-28]: [The Adventurers' Guild – Mazes and Codes](https://advgamer.blogspot.com/2015/12/castle-of-dr-brain-mazes-and-codes.html) – cryptogram solution, developer names in word search
-[^ref-29]: [Scribd – Castle of Dr. Brain Manual](https://www.scribd.com/document/522383897/Castle-of-Dr-Brain-Manual) – manual documentation
-[^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – system requirements, audio troubleshooting
-[^ref-31]: [GameFAQs – Castle of Dr. Brain](https://gamefaqs.gamespot.com/pc/564673-castle-of-dr-brain) – user rating, genre classification
-[^ref-32]: [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos) – soundtrack runtime, file specifications
+## 

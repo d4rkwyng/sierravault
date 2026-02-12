@@ -184,36 +184,7 @@ The game's technical conservatism, criticized at release, ironically contributed
 - [PriceCharting](https://www.pricecharting.com/game/pc-games/hoyle-card-games) - market pricing
 
 ## See Also
-
-Hoyle Card Games 2002 occupies a central position in Sierra's long-running card game franchise, which began in the late 1980s and continued through 2016 under subsequent publishers. The series maintained remarkable consistency in its core formula: comprehensive card game selections, animated AI opponents, and the Facemaker character creation system. Player profiles created in Card Games were designed to work across the broader Hoyle product line, including Board Games and Casino editions, creating an interconnected ecosystem of casual gaming products.[^ref-1]
-
-The 2002 edition followed Sierra's annual release pattern, with Hoyle Card Games 2001 preceding it[^ref-10] and subsequent editions continuing the tradition. Following Sierra's departure from the franchise, Encore Software took over development and publishing, releasing entries like Hoyle Card Games 2005[^ref-11] and later partnering with Freeverse for Hoyle Card Games 2009.[^ref-15]
-
-- **Previous:** [[1993 - Hoyle Classic Card Games]]
-- **Next:** [[2003 - Hoyle Card Games]]
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
 
-## References
-
-[^ref-1]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – technical specifications, games included, platform information, Facemaker feature, international games
-[^ref-2]: [GameSpot – Hoyle Card Games Review](https://www.gamespot.com/reviews/hoyle-card-games-review/1900-2895243/) – review score, Gord Goble review, technical issues, Edmond Hoyle history
-[^ref-3]: [Macworld – Hoyle 2002 Overview](https://www.macworld.com/article/163096/hoyle.html) – hybrid PC/Mac release, Palm OS support, CD-ROM format
-[^ref-4]: [Amazon India – Hoyle Card Games 2002](https://www.amazon.in/Hoyle-Card-Games-2002-Mac/dp/B00005MJ9G) – release date, user ratings, compatibility issues, manufacturer description, Internet play limitation
-[^ref-5]: [GameGenie.com – Hoyle Card Games Review](https://gamegenie.com/reviews/pc/hoylecard.html) – James Allen review, system requirements, game count, Palm OS feature
-[^ref-6]: [ESRB – Hoyle Card Games 2002](https://www.esrb.org/ratings/6797/hoyle-card-games-2002/) – rating information, publisher, platform confirmation
-[^ref-7]: [GameFAQs – Hoyle Card Games 2002](https://gamefaqs.gamespot.com/pc/565475-hoyle-card-games-2002) – release date, user ratings, platform information
-[^ref-8]: [Steam Community – Hoyle Card Games](https://steamcommunity.com/app/397420) – graphics comparison to 2002, Steam release notes, technical issues, Hoyle Bucks removal
-[^ref-9]: [GameFAQs – Hoyle Poker](https://gamefaqs.gamespot.com/pc/197584-hoyle-poker) – Attitude Meter feature, animated opponents
-[^ref-10]: [GameFAQs – Hoyle Card Games 2001](https://gamefaqs.gamespot.com/pc/449351-hoyle-card-games-2001) – previous version features, local multiplayer, Internet play
-[^ref-11]: [GameFAQs – Hoyle Card Games 2005 Review](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/reviews/82908) – Divona review, Encore Software development
-[^ref-12]: [Wikipedia – Hoyle Card Games](https://en.wikipedia.org/wiki/Hoyle_Card_Games) – Game Boy Color version, Sandbox Studios, allgame and IGN quotes
-[^ref-13]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – Sierra/Encore publisher history, platform list
-[^ref-14]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Hoyle Casino 2000 sales data, series origins
-[^ref-15]: [GameFAQs – Hoyle Card Games 2009](https://gamefaqs.gamespot.com/pc/952489-hoyle-card-games-2009) – Freeverse development, rebuilt features
-[^ref-16]: [Metacritic – Hoyle Card Games 2002](https://www.metacritic.com/game/hoyle-card-games-2002/) – release date confirmation
-[^ref-17]: [MSU Libraries – Hoyle Card Games](https://lib.msu.edu/rovi_game/5731) – publisher information, hybrid format
-[^ref-18]: [Igromania – Hoyle Card Games 2002](https://www.igromania.ru/game/reviews/16673/Hoyle_Card_Games_(2002).html) – Russian publication listing
-[^ref-19]: [GameFAQs – Hoyle Card Games 2005 Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – VU Games publishing
-[^ref-20]: [GameFAQs – Hoyle Card Games 2011](https://gamefaqs.gamespot.com/pc/624651-hoyle-card-games-2011) – Encore Software continuation
-[^ref-21]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – market pricing, platform formats
+## 

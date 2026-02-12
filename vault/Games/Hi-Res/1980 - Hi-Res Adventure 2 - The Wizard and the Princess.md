@@ -155,35 +155,7 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/)[^ref-23]
 
 ## See Also
-
-- **Previous:** [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure #1: Mystery House]]
-- **Next:** [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure #3: Cranston Manor]]
 - [[1980 - Hi-Res Adventure 1 - Mystery House|← Previous: Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Cribbage|→ Next: Hi-Res Cribbage]]
 
-## References
-
-[^ref-1]: [Wikipedia - Wizard and the Princess](https://en.wikipedia.org/wiki/Wizard_and_the_Princess) – Comprehensive article on development and release
-[^ref-2]: [Amazon – Inside Electronic Game Design](https://www.amazon.com/dp/1559586699) – Katz, Arnie (March 1, 1995). Inside Electronic Game Design. Prima Pub. p. 23. ISBN 978-1-55958-669-6
-[^ref-3]: [Amazon – Hackers](https://www.amazon.com/dp/1449388396) – Levy, Steven (1984). Hackers: Heroes of the Computer Revolution. p. 301 – Sales figures and first color graphics claim
-[^ref-4]: [Computer Gaming World](http://www.cgwmuseum.org/galleries/index.php?year=1982&pub=2&id=6) – "Inside the Industry" (September–October 1982) – Sales rankings
-[^ref-5]: [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-2-the-wizard-and-the-princess-2) – Development details and user ratings
-[^ref-6]: [Internet Archive – Interaction Magazine](https://archive.org/details/interactionmagazine) – Sierra's Interaction Magazine – King's Quest series connection and Serenia lore
-[^ref-7]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/127/) – Roberta Williams interview on fairy tale inspiration
-[^ref-8]: [Hi-Res Adventure Wiki](https://hiresadventure.fandom.com/wiki/Hi-Res_Adventure) – Platform history, expanded backstory, and series details
-[^ref-9]: [MobyGames](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/) – Technical specifications and community ratings
-[^ref-10]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#2:_The_Wizard_and_the_Princess) – Game setting and King George IV details
-[^ref-11]: [PixelatedArcade](https://pixelatedarcade.com/games/hi-res-adventure-2-the-wizard-and-the-princess) – Interface mechanics and graphics creation
-[^ref-12]: [SierraGamers](https://www.sierragamers.com/mystery-house/) – Command parser examples
-[^ref-13]: [MobyGames Technical Specs](https://www.mobygames.com/game/1761/hi-res-adventure-2-the-wizard-and-the-princess/specs/pc-booter/) – Parser and technical specifications
-[^ref-14]: [Lysator Archive](https://www.lysator.liu.se/adventure/Sierra_On-Line,_Inc.html) – Split-screen display information
-[^ref-15]: [GamePressure](https://www.gamepressure.com/games/adventure-in-serenia/ze3fa4) – Gameplay progression and challenges
-[^ref-16]: [Internet Archive – CGW Vol.1 No.2](https://archive.org/details/Computer_Gaming_World_Issue_002) – Computer Gaming World, Vol. 1, No. 2 (January–February 1982), pp. 31–32 – Mark Marlow's review
-[^ref-17]: [Internet Archive – Creative Computing Aug 1982](https://archive.org/details/creativecomputing-1982-08) – Small, David and Sandy (August 1982). "The Wizard, the Princess, and the Atari". Creative Computing. p. 64 – Atari version review
-[^ref-18]: [Amazon – Addison-Wesley Book of Atari Software](https://www.amazon.com/dp/0201164671) – Stanton, Jeffrey et al., eds. (1984). The Addison-Wesley Book of Atari Software – B rating and standards quote
-[^ref-19]: [Internet Archive – Ares Magazine](https://archive.org/details/aresmagazine) – Chadwick, Ian. Ares Magazine #11 – Review calling it "most amazing, intriguing, fascinating"
-[^ref-20]: [King's Quest Wiki](https://kingsquest.fandom.com/wiki/Wizard_and_the_Princess) – Industry influence and King's Quest connections
-[^ref-21]: [Internet Archive – PC Magazine](https://archive.org/details/PC-Mag-1984-01-24) – Wiswell, Phil (January 24, 1984). "Coming Soon: Games For The PCjr". pp. 142–145
-[^ref-22]: [Amazon – The King's Quest Companion](https://www.amazon.com/dp/0078817617) – 2nd Edition – Expanded lore and wanderer's fate
-[^ref-23]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/) – Game preservation and description
-[^ref-24]: [VGTimes](https://vgtimes.com/games/hi-res-adventure-2-the-wizard-and-the-princess/) – Modern retrospective rating
+## 

@@ -193,38 +193,6 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 - [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) - Browser playable
 
 ## See Also
-
-- **Previous:** None (first in series)
 - **Next:** No direct sequels produced
 
-## Related Dynamix Productions
-
-David Wolf: Secret Agent was part of Dynamix's broader experimentation with narrative gaming during the late 1980s.[^ref-17] Other Dynamix titles from this era include:
-
-- **Rise of the Dragon** (1990) - Cyberpunk adventure game[^ref-17]
-- **Heart of China** (1991) - Period adventure game[^ref-17]
-- **The Adventures of Willy Beamish** (1991) - Animated adventure game[^ref-5]
-
-These later titles refined the narrative techniques Dynamix explored in David Wolf, generally achieving greater critical and commercial success.[^ref-17]
-- [[1989 - Caveman Ugh-lympics|← Previous: Caveman Ugh-lympics]]
-- [[1989 - Deathtrack|→ Next: Deathtrack]]
-
-## References
-
-[^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information
-[^ref-2]: [Atari Magazines](https://www.atarimagazines.com/compute/issue117/pp106_reviews1_DAVID_WOLF_SECRET_AGENT.php) – Contemporary review describing game concept
-[^ref-3]: [MobyGames](https://www.mobygames.com/game/1610/david-wolf-secret-agent/) – Development background information and technical specifications
-[^ref-4]: [Dynamix Fandom](https://dynamix.fandom.com/wiki/David_Wolf:_Secret_Agent) – VCR Interface description and review scores
-[^ref-5]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/2017/05/david-wolf-secret-agent.html) – Technical development details
-[^ref-6]: [MobyGames Trivia](https://www.mobygames.com/game/1610/david-wolf-secret-agent/trivia/) – Development scope quote and "Worst Games" listing
-[^ref-7]: [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) – Gameplay limitations and completion time
-[^ref-8]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/download/9457/) – Character and agency details
-[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf:_Secret_Agent) – Story progression details and CGW criticism
-[^ref-10]: [MobyGames Screenshots](https://www.mobygames.com/game/1610/david-wolf-secret-agent/screenshots/) – Villain dialogue examples
-[^ref-11]: [Wikipedia](https://en.wikipedia.org/wiki/David_Wolf%3A_Secret_Agent) – Dragon magazine review and CGW quote
-[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/david-wolf-secret-agent-mp) – HOTUD rating
-[^ref-13]: [Glitchwave](https://glitchwave.com/game/david-wolf-secret-agent/) – Modern rating
-[^ref-14]: [PixelatedArcade](https://pixelatedarcade.com/games/david-wolf-secret-agent) – Grade assessment
-[^ref-15]: [OldGames.sk](https://www.oldgames.sk/en/game/david-wolf-secret-agent/) – User rating
-[^ref-16]: [James Paddock Bandcamp](https://jamespaddock.bandcamp.com/album/secret-agent-hd-soundtrack) – Soundtrack appreciation and HD remaster
-[^ref-17]: [The Digital Antiquarian](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) – Critical modern assessment
+## 

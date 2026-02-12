@@ -298,43 +298,7 @@ The game's transition from the Police Quest adventure game format to real-time t
 - [Sierra Chest – Music Files](https://sierrachest.com/index.php?a=games&id=70&fld=music)
 
 ## See Also
-
-Police Quest: SWAT 2 represents the final game in the Police Quest lineage to bear that name, transitioning the franchise from its adventure game origins to tactical action. The game maintains connections to earlier entries through the inclusion of Sonny Bonds as a playable SWAT officer—the protagonist of Police Quest I-III who had been absent from the series since 1991.[^ref-9] The involvement of Daryl Gates continued the controversial association that began with Police Quest: Open Season (1993).
-
-The narrative and gameplay established patterns that would continue in SWAT 3: Close Quarters Battle (1999), including the focus on realistic LAPD procedures, emphasis on minimizing casualties, and authentic tactical equipment. SWAT 3 would return to first-person perspective while maintaining the series' commitment to procedural authenticity.[^ref-13]
-
-- **Previous:** [[1995 - Police Quest - SWAT]]
-- **Next:** [[1999 - SWAT 3 - Close Quarters Battle]]
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 
-## References
-
-[^ref-1]: [Wikipedia – Police Quest: SWAT 2](https://en.wikipedia.org/wiki/Police_Quest:_SWAT_2) – release dates, developers, review scores, sales data, plot summary, version info
-[^ref-2]: [TV Tropes – Police Quest SWAT 2](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuestSWAT2) – gameplay description, easter eggs, trivia, cut content
-[^ref-3]: [Giant Bomb – Police Quest: SWAT 2](https://www.giantbomb.com/police-quest-swat-2/3030-5951/) – voice cast, manual details, development trivia, reception summary
-[^ref-4]: [GOG.com – Police Quest: SWAT 1+2](https://www.gog.com/en/game/police_quest_swat_1_2) – user reviews, actor account, development location, training details
-[^ref-5]: [Steam Store – Police Quest: SWAT 2](https://store.steampowered.com/app/607120/Police_Quest_SWAT_2/) – system requirements, user ratings, game description
-[^ref-6]: [Internet Archive – AllGame Review](https://web.archive.org/web/20141116181925/http://www.allgame.com/game.php?id=13475&tab=review) – reviewer quotes, Gates involvement, realism claims
-[^ref-7]: [IMDb – Police Quest: SWAT 2](https://www.imdb.com/title/tt1855309/) – voice cast, plot summary, user ratings
-[^ref-8]: [CheatCC – Strategy Guide](https://www.cheatcc.com/articles/police-quest-swat-2-strategy-guide-pc-sg/) – AI description, mission structure, real-life basis
-[^ref-9]: [MobyGames – Police Quest: SWAT 2](https://www.mobygames.com/game/153/police-quest-swat-2/) – credits, technical specs, player reviews, trivia
-[^ref-10]: [IGN – SWAT 2 Review](https://www.ign.com/articles/1998/08/12/swat-2) – Jason Bates review, score, gameplay critique
-[^ref-11]: [GameSpot – Police Quest: SWAT 2 Review](https://www.gamespot.com/reviews/police-quest-swat-2-review/1900-2533216/) – Scott Krol review, score, gameplay criticism, bug reports
-[^ref-12]: [Internet Archive – PC Gamer Review](https://web.archive.org/web/20000311204758/http://www.pcgamer.com/reviews/64.html) – Stephen Poole review, score, system requirements, multiplayer specs
-[^ref-13]: [Internet Archive – IGN SWAT 3 Interview](https://web.archive.org/web/20020602003754/http://pc.ign.com/articles/071/071768p1.html) – Rod Fung quotes, sales data, development philosophy
-[^ref-14]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Police_Quest:_SWAT_2) – gameplay details, weapon differences, character lists
-[^ref-15]: [GameRevolution – Police Quest: SWAT 2 Review](https://www.gamerevolution.com/review/33122-police-quest-swat-2-review) – Nebojsa Radakovic review, manual details, game features
-[^ref-16]: [Metacritic – Police Quest: SWAT 2](https://www.metacritic.com/game/police-quest-swat-2/) – user score, rating breakdown
-[^ref-17]: [VGChartz – Police Quest: SWAT 2](https://www.vgchartz.com/game/45538/police-quest-swat-2/cheats) – sales data, multiple release dates, community score
-[^ref-18]: [Glitchwave – Police Quest: SWAT 2](https://glitchwave.com/game/police-quest-swat-2/) – user ratings, genre tags, collection info
-[^ref-19]: [Internet Archive – Official SWAT 2 News Page (1998)](https://web.archive.org/web/19981207065423/http://www.swat2.com/news/news.html) – sales data, development dates, composer trivia, theme song details
-[^ref-20]: [The Digital Antiquarian](https://www.filfre.net/?s=Police+Quest%3A+SWAT+2) – Gates controversy, Sierra history, critical context
-[^ref-21]: [MobyGames – Police Quest: SWAT 2 Credits](https://www.mobygames.com/game/police-quest-swat-2/credits) – full development credits, voice cast, police consultation
-[^ref-22]: [PCGamingWiki – Police Quest: SWAT 2](https://www.pcgamingwiki.com/wiki/Police_Quest:_SWAT_2) – technical specs, compatibility issues, system requirements
-[^ref-23]: [Amazon – Police Quest SWAT 2 XP](https://www.amazon.com/Police-Quest-Swat-2-XP-pc/dp/B000NM1176) – XP compatible version info
-[^ref-24]: [Steam Search Results](https://store.steampowered.com/search/?term=Police+Quest%3A+SWAT+2) – Steam release date
-[^ref-25]: [GameFAQs – Police Quest: SWAT Generation](https://gamefaqs.gamespot.com/pc/958951-police-quest-swat-generation/faqs) – compilation release info
-[^ref-26]: [Steam Workshop – SWAT 2 Music Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2819088076) – fan project, user comments
-[^ref-27]: [Neoseeker – SWAT 2 FAQs](https://www.neoseeker.com/swat2/faqs/) – walkthrough info, series listing
-[^ref-28]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra FX brand, corporate restructuring
+## 

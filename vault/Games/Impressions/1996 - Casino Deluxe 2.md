@@ -199,30 +199,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 - [Sierra Help Pages - Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html)[^ref-13]
 
 ## See Also
-
-Casino Deluxe 2 is the direct sequel to Casino De Luxe, released in 1995 by Impressions Games[^ref-7]. The sequel expanded the game library from the original while introducing enhanced 3D SVGA graphics and additional features like internet play[^ref-2]. Following Impressions' acquisition by Sierra On-Line, both games were distributed under the Sierra brand[^ref-7].
-
-The series established itself as a competent gambling simulation franchise, though no further sequels appear to have been released following Casino Deluxe 2.
-
-- **Previous:** [[1995 - Casino De Luxe]]
 - [[1995 - Powerhouse|← Previous: Powerhouse]]
 - [[2002 - Emperor - Rise of the Middle Kingdom|→ Next: Emperor - Rise of the Middle Kingdom]]
 
-## References
-
-[^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform
-[^ref-2]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – marketing materials, features, game list, 3D SVGA graphics, developer Impressions, publisher Sierra On-Line
-[^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/255059364612) – 3D environment, 18 games, dealer advice feature, gambling simulation description
-[^ref-4]: [eBay Product Page](https://www.ebay.com/p/53914700) – dealer communication, advice system, Gambling Academy feature
-[^ref-5]: [Amazon – Casino Deluxe 2](https://www.amazon.com/Casino-Deluxe-Cd-rom-Version-Internet/dp/B00ENQAV8I) – Windows 3.1/95 platforms, internet play, laptop version, UPC 020626837347
-[^ref-6]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
-[^ref-7]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – David Lester designer, Impressions development, Sierra acquisition, review scores from multiple publications
-[^ref-8]: [Internet Archive – Casino Deluxe 2 (Sierra 1996)](https://archive.org/details/Casino_deluxe_2_Sierra_1996) – file size 158.4M, preservation metadata, CD-ROM Preservation Project upload
-[^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – user review, 256 colors, elevator muzak, Gambling Academy description, floor layout
-[^ref-10]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography, Impressions Games founding, Casino series development
-[^ref-11]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/sierra-casino-deluxe-de-luxe-2-ii-1clk-windows-10-8-7-vista-xp-install) – complete 18-game list, internet play not supported note
-[^ref-12]: [Internet Archive – Casino Deluxe 2](https://archive.org/details/casino-deluxe-2) – 1996 release, game features including Keno and Texas Hold'em, family entertainment description
-[^ref-13]: [Sierra Help Pages – Casino Deluxe Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CasinoDeluxeUpdates.html) – version 1.01 patch notes, bug fixes, save game incompatibility warning
-[^ref-14]: [Metacritic – Casino Deluxe 2](https://www.metacritic.com/game/pc/casino-deluxe-2) – Sierra Entertainment publisher, no reviews available
-[^ref-15]: [UVList – Casino Deluxe 2](https://www.uvlist.net/game-252495-Casino+Deluxe+2) – Win3.1 platform, VESA/Mouse hardware, EAN 0020626837347, game types
-[^ref-16]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
+## 

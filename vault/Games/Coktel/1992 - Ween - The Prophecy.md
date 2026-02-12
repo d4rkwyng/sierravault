@@ -217,42 +217,9 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 - Playable through ScummVM using the Gob engine[^ref-20]
 
 ## See Also
-
-*The Prophecy* exists as a spiritual successor to *Legend of Djel*, an earlier Coktel Vision title from the late 1980s, though it tells a completely standalone story.[^ref-7] The game shares its engine and design philosophy with Coktel Vision's famous *Gobliiins* series, using similar simplified interfaces and puzzle-focused gameplay mechanics.[^ref-5] While not an official entry in the *Gobliiins* franchise, it was marketed and developed alongside that series and appeals to the same audience.
-
-The game was released during a transitional period for Coktel Vision, shortly before the studio was fully absorbed as a subsidiary of Sierra On-Line.[^ref-8] This association allowed the game to benefit from Sierra's North American distribution network while maintaining its distinctly European sensibilities in design and storytelling.
-
 - **Spiritual Predecessor:** Legend of Djel (1989)
 - **Related Series:** Gobliiins (1991-1993)
 - [[1992 - Bargon Attack|← Previous: Bargon Attack]]
 - [[1993 - Lost in Time|→ Next: Lost in Time]]
 
-## References
-
-[^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications
-[^ref-2]: [Best DOS Games – The Prophecy](https://bestdosgames.com/games/the-prophecy) – artistic comparisons, CD edition details, visual style analysis
-[^ref-3]: [Adventure Gamers – Ween: The Prophecy](https://adventuregamers.com/games/ween-the-prophecy) – review score, system requirements, critical assessment
-[^ref-4]: [Internet Archive – Ween: The Prophecy Full Game](https://archive.org/details/msdos_Ween_-_The_Prophecy_1993) – plot description, branching paths, gameplay structure
-[^ref-5]: [Internet Archive – The Prophecy Demo](https://archive.org/details/TheProphecy_1020) – graphic style, interface description
-[^ref-6]: [Wikipedia – The Prophecy (video game)](https://en.wikipedia.org/wiki/The_Prophecy_(video_game)) – review scores, gameplay mechanics, trivia
-[^ref-7]: [MobyGames – The Prophecy Reviews](https://www.mobygames.com/game/6218/the-prophecy/reviews/) – user reviews, aggregate scores, gameplay details
-[^ref-8]: [TV Tropes – Ween: The Prophecy](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/WeenTheProphecy) – Sierra relationship, live-action cutscenes, interface description
-[^ref-9]: [Abandonware DOS – Ween: The Prophecy](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Ween:+The+Prophecy&gid=2758) – platforms, user rating, genre
-[^ref-10]: [Lemon Amiga – Ween: The Prophecy](https://www.lemonamiga.com/game/ween-the-prophecy) – Amiga review, engine, technical specs, development credits, retail price
-[^ref-11]: [My Abandonware – The Prophecy](https://www.myabandonware.com/game/the-prophecy-225) – regional releases, alternative names, HOTUD rating
-[^ref-12]: [Sierra Gamers – The Prophecy](https://www.sierragamers.com/the-prophecy/) – gameplay description, puzzle structure
-[^ref-13]: [GOG.com Dreamlist – Ween: The Prophecy](https://www.gog.com/dreamlist) – user testimonials, platform memories
-[^ref-14]: [Lemon Amiga – Reviews](https://www.lemonamiga.com/games/reviews/view.php?id=332) – user reviews, version comparison, cut content
-[^ref-15]: [GameFAQs – The Prophecy Walkthrough](https://gamefaqs.gamespot.com/pc/567180-the-prophecy/faqs/15201) – playtime estimate, character quotes
-[^ref-16]: [UV List – Ween: The Prophecy](https://www.uvlist.net/game-43148-Ween+The+Prophecy) – magazine review scores, platform details, language support
-[^ref-17]: [OldGames – The Prophecy](https://www.oldgames.sk/en/game/robocop/download/10874/) – rating, regional information
-[^ref-18]: [VGMPF Wiki – Ween: The Prophecy](https://www.vgmpf.com/Wiki/index.php?title=Ween:_The_Prophecy_(DOS)) – audio technical details, music file information
-[^ref-19]: [DOS Nostalgia – Ween: The Prophecy Soundtrack](https://www.dosnostalgia.com/2014/07/ween-the-prophecy-full-adlib-soundtrack/) – composer credit, regional title variations
-[^ref-20]: [PCGamingWiki – The Prophecy](https://www.pcgamingwiki.com/wiki/The_Prophecy) – engine, minimum requirements, ScummVM compatibility
-[^ref-21]: [Walkthrough King – Ween: The Prophecy](https://www.walkthroughking.com/text/ween.aspx) – Gobliiins series connection, gameplay description
-[^ref-22]: [Sierra Gamers Updates](https://www.sierragamers.com/updates/) – hint book documentation
-[^ref-23]: [Wikidata – The Prophecy](https://www.wikidata.org/wiki/Q18201850) – platforms, engine, publisher
-[^ref-24]: [VideoGameGeek – The Prophecy](https://videogamegeek.com/videogame/217004/the-prophecy) – North American release details, media format
-[^ref-25]: [Games Nostalgia – Coktel Vision](https://gamesnostalgia.com/games/publisher/coktel+vision) – publisher information, genre, perspective
-[^ref-26]: [Play Classic Games – Ween: The Prophecy](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ween-the-prophecy-online/) – interface description, puzzle mechanics
-[^ref-27]: [Tropedia – Ween the Prophecy](https://tropedia.fandom.com/wiki/Ween_the_Prophecy) – gameplay overview, visual style description
+## 

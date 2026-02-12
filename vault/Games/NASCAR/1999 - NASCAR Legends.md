@@ -229,26 +229,7 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 - **New/Sealed Value:** ~$50.00
 
 ## See Also
-
-NASCAR Legends sits within Papyrus Design Group's broader NASCAR Racing franchise, serving as a historical spin-off from the main simulation series.[^ref-11] While the mainline NASCAR Racing games focused on contemporary seasons with current drivers and regulations, NASCAR Legends carved out its own niche by looking backward to the sport's formative years.[^ref-3][^ref-5]
-
-The game shares its technological foundation with NASCAR Racing 3, using the same engine and renderers while adapting the physics model to reflect 1970-era vehicle performance.[^ref-1][^ref-5][^ref-8] This connection led some reviewers to characterize NASCAR Legends as essentially "NASCAR Racing 3 with different cars and tracks," though supporters argue the historical setting provides a meaningfully different experience.[^ref-5]
-
-- **Previous:** [[1999 - NASCAR Racing 3]]
-- **Next:** [[2001 - NASCAR Racing 4]]
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
 
-## References
-
-[^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date, engine, car configurations, track count
-[^ref-2]: [ESPN/GameSpot – NASCAR Legends Review](https://www.espn.com/vgr/pc_nascarle.html) – system requirements, score breakdown, difficulty rating
-[^ref-3]: [GameSpot – NASCAR Legends Review](https://www.gamespot.com/reviews/nascar-legends-review/1900-2543745/) – review score, driver count, car list, missing content, critical analysis
-[^ref-4]: [IGN – NASCAR Legends](https://www.ign.com/articles/2000/01/19/nascar-legends) – release date, review score, multiplayer features, Daytona licensing issues
-[^ref-5]: [GameGenie.com – NASCAR Legends Review](https://gamegenie.com/reviews/pc/nasleg.html) – retail price, system requirements, track list, rule differences, critical perspective
-[^ref-6]: [MobyGames – NASCAR Legends](https://www.mobygames.com/game/1668/nascar-legends/) – designer credit, engine details, aggregate score, track trivia
-[^ref-7]: [PriceCharting – NASCAR Legends](https://www.pricecharting.com/game/pc-games/nascar-legends) – release date, pricing data, ESRB rating, car features, identifiers
-[^ref-8]: [My Abandonware – NASCAR Legends](https://www.myabandonware.com/game/nascar-legends-dtr) – user ratings, patch version, resolution info, compatibility issues, frame rate cap
-[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – patch version, engine confirmation, publisher details
-[^ref-10]: [Steam Workshop – NASCAR Legends Mod for Wreckfest](https://steamcommunity.com/sharedfiles/filedetails/?id=1462061824) – mod statistics, features, creator credits
-[^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization, developer attribution
+## 

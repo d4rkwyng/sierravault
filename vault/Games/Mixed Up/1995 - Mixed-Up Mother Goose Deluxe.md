@@ -145,31 +145,7 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 - [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-mixed-mother-goose-deluxe-online/)
 
 ## See Also
-
-- **Previous:** Mixed-Up Mother Goose Enhanced (1990)
 - **Next:** Mixed-Up Fairy Tales (1991)
 - [[1991 - Mixed-Up Fairy Tales|← Previous: Mixed-Up Fairy Tales]]
 
-## References
-
-[^ref-1]: [MobyGames - Mixed-Up Mother Goose Deluxe](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/) – - Basic game information and credits
-[^ref-2]: [MobyGames - Mixed-Up Mother Goose](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) – - Official game description
-[^ref-3]: [MyAbandonware - Deluxe](https://www.myabandonware.com/game/mixed-up-mother-goose-deluxe-3n7) – - Game description and technical details
-[^ref-4]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=236) – - Game history information
-[^ref-5]: [MyAbandonware - Original](https://www.myabandonware.com/game/mixed-up-mother-goose-yh) – - Game premise description
-[^ref-6]: [Glitchwave](https://glitchwave.com/game/mixed-up-mother-goose/) – - Gameplay mechanics description
-[^ref-7]: [Never Die Media](https://www.neverdiemedia.com/products/mixed-up-mothergoose-deluxe-soundtrack-w-no-artwork) – - Game description
-[^ref-8]: [Sierra Chest - General](https://sierrachest.com/index.php?a=games&id=236&fld=general) – - Story premise
-[^ref-9]: [Archive.org](https://archive.org/details/mother_go) – - Technical specifications
-[^ref-10]: [GameFAQs](https://gamefaqs.gamespot.com/pc/955308-mixed-up-mother-goose-deluxe) – - Accessibility features
-[^ref-11]: [Metzo Magic](https://www.metzomagic.com/showArticle.php?index=118) – - Puzzle mechanics review
-[^ref-12]: [Wikipedia](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – - Educational value
-[^ref-13]: [OldGames](https://www.oldgames.sk/en/game/mixed-up-mother-goose-deluxe/reviews/) – - Retrospective score
-[^ref-14]: [OldGames.sk](https://www.oldgames.sk/en/game/mixed-up-mother-goose-enhanced/download/7422/) – - Alternative score
-[^ref-15]: [IMDb](https://www.imdb.com/find/?q=Mixed-Up+Mother+Goose+Deluxe&s=tt) – - User score
-[^ref-16]: [MobyGames - Credits](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/credits/windows/) – - Additional voice talent
-[^ref-17]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/mixed-up-mother-goose-deluxe-bonus-soundtrack-cd-1995) – - Composer credits
-[^ref-18]: [Vogons](https://www.vogons.org/viewtopic.php?t=49581) – - Technical requirements
-[^ref-19]: [Amazon](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – - Awards information
-[^ref-20]: [Sierra Wiki](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – - Space Quest reference
-[^ref-21]: [MobyGames - Cover](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/cover/group-41428/cover-111460/) – - International versions
+## 

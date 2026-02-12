@@ -202,24 +202,7 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 - [Never Die Media](https://www.neverdiemedia.com/products/hoyle-casino-2000)[^ref-5]
 
 ## See Also
-
-Hoyle Casino 2000 (also designated Hoyle Casino 5) represents the fifth major entry in Sierra's Hoyle Casino sub-series, which itself spun off from the broader Hoyle's Official Book of Games franchise[^ref-4]. The game built upon the foundation of previous casino titles while expanding the game selection to over 350 variations and introducing enhanced 3D graphics[^ref-8]. The series would continue with annual releases, eventually transitioning from Sierra's development to Encore, Inc. after 2003[^ref-4].
-
-- **Previous:** [[1999 - Hoyle Casino]]
-- **Next:** [[2001 - Hoyle Casino]]
 - [[1999 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2000 - Hoyle Crosswords|→ Next: Hoyle Crosswords]]
 
-## References
-
-[^ref-1]: [Internet Archive – Hoyle Casino 2000](https://archive.org/details/Hoyle_Casino_2000_U) – basic catalog information, upload date
-[^ref-2]: [IGN – Hoyle Casino Reviews](https://www.ign.com/games/hoyle-casino/reviews) – review summary, gameplay description
-[^ref-3]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) – development credits, technical specifications, voice cast, ratings
-[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – sales data, platforms, series history, bug information
-[^ref-5]: [Never Die Media – Hoyle Casino 2000](https://www.neverdiemedia.com/products/hoyle-casino-2000) – product description, platform information
-[^ref-6]: [MobyGames – Hoyle Casino (Game Boy Color)](https://www.mobygames.com/game/43644/hoyle-casino/) – GBC version details, developer, ratings
-[^ref-7]: [IGN – Hoyle Casino Dreamcast Review](https://www.ign.com/articles/2000/10/10/hoyle-casino-3) – detailed review, score, gameplay critique
-[^ref-8]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/sega-dreamcast/hoyle-casino) – game description, technical specs
-[^ref-9]: [IGN – Hoyle Casino Game Page](https://www.ign.com/games/hoyle-casino) – game summary, review score
-[^ref-10]: [Sierra Chest – Hoyle Casino 5](https://sierrachest.com/index.php?a=games&id=809&title=hoyle-casino-5&fld=publications) – release dates, catalog reference
-[^ref-11]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – technical specifications, DRM information, version history
+## 

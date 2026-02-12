@@ -214,43 +214,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-23].
 
 ## See Also
-
-Hi-Res Adventure #4: Ulysses and the Golden Fleece is the fourth installment in Sierra's Hi-Res Adventure series, a pioneering collection of graphical adventure games from the early 1980s[^ref-2][^ref-19]. The series was designed by [[Roberta Williams]] and represented Sierra's first major venture into graphical adventure gaming, preceding the influential AGI-based games that would follow.
-
-The Hi-Res Adventure series established many conventions that would become standard in Sierra's later adventure games, including the combination of graphics with parser-based text input[^ref-10][^ref-25]. While subsequent Sierra adventures would move to animated graphics and eventually point-and-click interfaces, the Hi-Res Adventures remain important historical artifacts documenting the origins of the graphical adventure genre.
-
-- **Previous:** [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
-- **Next:** [[1982 - Hi-Res Adventure 5 - Time Zone]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|← Previous: Hi-Res Adventure 3 - Cranston Manor]]
 - [[1982 - Adventure in Serenia|→ Next: Adventure in Serenia]]
 
-## References
-
-[^ref-1]: [MobyGames – Hi-Res Adventure #4: Ulysses and the Golden Fleece](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – release dates, platforms, publishers, designers, ratings, version information
-[^ref-2]: [Sierra Fandom Wiki – Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – series information, Roberta Williams design credit
-[^ref-4]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, Hi-Res Adventure series context
-[^ref-5]: [Player None Blog – Hi-Res Adventures #4 Review](https://playernone.blogspot.com/2017/12/hi-res-adventures-4-ulysses-and-golden.html) – gameplay analysis, fairness compared to earlier entries
-[^ref-6]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/user-review/2536897/) – parser system, technical specs, Hercules reference, C64 version notes
-[^ref-7]: [Internet Archive – ScummVM 2.0.0 Release Notes](https://archive.org/details/scummvm-2.0.0) – ScummVM support, modern platform compatibility
-[^ref-10]: [Sierra Gamers – Ulysses and the Golden Fleece](https://www.sierragamers.com/ulysses-and-the-golden-fleece/) – engine details, interface description, package versions
-[^ref-9]: [Consolidated Research Sources](https://sierragamersarchive.com) – game description, quest objectives
-[^ref-11]: [PixelatedArcade – Hi-Res Adventure #4](https://pixelatedarcade.com/games/hi-res-adventure-4-ulysses-and-the-golden-fleece) – gameplay mechanics, save system, IBM implementers, copy protection
-[^ref-12]: [MyAbandonware – Hi-Res Adventure #4](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6) – user rating, file size, technical perspectives
-[^ref-13]: [Internet Archive – Sierra On-Line Hi-Res Adventures Catalog](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Apple platform, catalog documentation
-[^ref-14]: [Vintage Computing – Retro Scan of the Week](https://www.vintagecomputing.com/index.php/archives/1118/retro-scan-of-the-week-ulysses-and-the-golden-fleece) – static-screen adventure commentary, release dates
-[^ref-15]: [MobyGames – Atari 8-bit Specs](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/specs/atari-8-bit/) – Atari technical specifications, RAM requirements
-[^ref-16]: [EveryGameGoing – Atari Version](https://www.everygamegoing.com/litem/Hi-res-Adventure-4-Ulysses-And-The-Golden-Fleece/150435/) – Green Valley Publishing release, pricing
-[^ref-17]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/hi-res-adventure-4-ulysses-and-the-golden-fleece-1s6/play-1s6) – ScrollLock workaround, executable information
-[^ref-18]: [Wikipedia – Hi-Res Adventure #4](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%234%3A_Ulysses_and_the_Golden_Fleece) – 1981 release date, series position
-[^ref-19]: [Hi-Res Adventure Fandom Wiki](https://hiresadventure.fandom.com/wiki/Hi-Res_Adventure) – series overview, Roberta Williams credit
-[^ref-20]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platform release timeline, designer credits
-[^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series documentation, publisher list
-[^ref-22]: [Sierra Fandom Wiki – Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Trivia) – series position confirmation
-[^ref-23]: [Sierra Fandom Wiki – Development](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Development) – mythological theme context
-[^ref-24]: [Sierra Fandom Wiki – Items](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Items) – series placement
-[^ref-25]: [Sierra Fandom Wiki – Easter Eggs](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Easter_eggs) – series context
-[^ref-26]: [Sierra Gamers – Updates](https://www.sierragamers.com/Updates/) – Black Box release documentation
-[^ref-27]: [MobyGames – PC Booter Version](https://www.mobygames.com/game/pc-booter/hi-res-adventure-4-ulysses-and-the-golden-fleece) – alternative rating, package variations
-[^ref-28]: [Sierra Fandom Wiki – Walkthrough](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Walkthrough) – Roberta Williams credit, series context
-[^ref-29]: [Giant Bomb - Ulysses and the Golden Fleece](https://www.giantbomb.com/ulysses-and-the-golden-fleece/) - game wiki, platform info
-[^ref-30]: [IGDB - Ulysses and the Golden Fleece](https://www.igdb.com/games/ulysses-and-the-golden-fleece) - IGDB database entry
+## 

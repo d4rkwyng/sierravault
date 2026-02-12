@@ -263,39 +263,7 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 - Instruction manual included with game installation[^ref-4]
 
 ## See Also
-
-Front Page Sports: Golf was Sierra and Headgate Studios' first entry into golf simulation, building on the established Front Page Sports brand that had previously covered football and baseball.[^ref-4] The game shared the Front Page Sports name recognition while introducing completely new gameplay systems designed specifically for golf simulation.
-
-The title competed directly with Access Software's Links series, which was considered the genre champion at the time.[^ref-3] While Front Page Sports: Golf did not spawn direct sequels under the same name, Headgate Studios continued developing golf simulations for Sierra, contributing to the publisher's sports gaming portfolio.
-
-- **Previous:** N/A (First golf entry in series)
-- **Next:** N/A (No direct sequel)
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
 
-## References
-
-[^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) – development history, release date, designer, composer, critical reception, TrueSwing details
-[^ref-2]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – credits, ratings, technical specifications, user reviews
-[^ref-3]: [GameSpot – Front Page Sports: Golf Preview](https://web.archive.org/web/20050408120428/http://www.gamespot.com/pc/sports/frontpagesportsgolf/preview_2563196.html) – development background, Vance Cook history, course information
-[^ref-4]: [eBay – Product Listing](https://www.ebay.com/p/56237186) – 1998 Edition, control elements, player count, TrueSwing description
-[^ref-5]: [Computer Games Strategy Plus – Jeff Lackey Review](https://web.archive.org/web/20030704203910/http://www.cdmag.com/articles/002/066/fps_golf_review.html) – TrueSwing praise, system requirements
-[^ref-6]: [GameSpot – Front Page Sports: Golf Review](https://www.gamespot.com/reviews/front-page-sports-golf-review/1900-2536105/) – 8.1/10 score, Tasos Kaiafas review, technical issues, gameplay details
-[^ref-7]: [Game Revolution – Review](https://web.archive.org/web/20041025144336/http://www.game-revolution.com/games/pc/sports/fpsgolf.htm) – A- rating, Dr. Moo review, polygon graphics, system requirements
-[^ref-8]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=306&title=golf&fld=walkthrough) – Quick Start, default players, save file information
-[^ref-9]: [CNET Gamecenter – Review](https://web.archive.org/web/20010105172400/http://www.gamecenter.com/Reviews/Item/0,6,0-964,00.html) – 8/10 score, Gordon Goble review, TrueSwing description
-[^ref-11]: [Internet Archive – Demo](https://archive.org/details/FPSGOLF) – demo version, TrueSwing description, advanced ball dynamics
-[^ref-12]: [GOG.com – Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-golf-1997) – user comments, lasting appeal, available courses
-[^ref-13]: [MyAbandonware – Front Page Sports: Golf](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – alternate names, regional releases, user reviews
-[^ref-14]: [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – release date, user ratings, game length
-[^ref-15]: [HandWiki – Front Page Sports: Golf](https://handwiki.org/wiki/Software:Front_Page_Sports:_Golf) – development timeline, course creation process, version history
-[^ref-16]: [GameSpot – Archived Review](https://web.archive.org/web/20050211072412/http://www.gamespot.com/pc/sports/frontpagesportsgolf/review.html) – system requirements, version 1.0.0.5 details
-[^ref-17]: [Sierra Help – Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – version 1.5 patch details
-[^ref-18]: [ESRB – Front Page Sports: Golf Rating](https://www.esrb.org/ratings/2418/front-page-sports-golf/) – E for Everyone rating
-[^ref-19]: [MyAbandonware – Football Pro Comments](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – user testimonial about Front Page Sports series
-[^ref-20]: [AllGame Archive](https://web.archive.org/web/20141114185413/http://www.allgame.com/game.php?id=6474) – game overview, controls, graphics features, game types
-[^ref-21]: [Steam Store Search](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Golf) – game not available on Steam
-[^ref-22]: [Sierra Official Site Archive](https://web.archive.org/web/19970216055215/http://www.sierra.com/entertainment/golf/) – marketing description, MSRP, course information
-[^ref-23]: [Metacritic – Front Page Sports: Golf](https://www.metacritic.com/game/front-page-sports-golf/) – release date, developer, publisher information
-[^ref-24]: [Amazon – Product Page](https://www.amazon.com/Front-Page-Sports-GOLF/dp/B0009H75IE) – customer ratings, package specifications
-[^ref-25]: [Wikidata – Front Page Sports: Golf](https://www.wikidata.org/wiki/Q3753640) – platform, ESRB rating, series information
+## 

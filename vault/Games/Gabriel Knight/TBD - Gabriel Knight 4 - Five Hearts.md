@@ -196,25 +196,6 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 - [Steam – Gabriel Knight Series](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) – Anniversary edition
 
 ## See Also
-
-Gabriel Knight 4: Five Hearts would continue the supernatural mystery saga that began with Gabriel Knight: Sins of the Fathers in 1993.[^ref-1] The series follows Gabriel Knight, a struggling New Orleans novelist who discovers he is the last in a line of Schattenjäger—Shadow Hunters who combat supernatural evil.[^ref-6] Across three games, Gabriel and his research assistant Grace Nakimura have investigated voodoo cults in Louisiana, werewolves in Bavaria, and the mysteries of Rennes-le-Château in France.[^ref-1]
-
-The Five Hearts concept picks up with Gabriel established at Schloss Ritter, his ancestral German castle, where he continues his work as Schattenjäger.[^ref-2] Grace's disappearance creates immediate dramatic tension while the Salzburg serial killings provide the supernatural mystery framework fans expect.[^ref-4] Jensen has indicated she has material prepared for both Gabriel Knight 4 and Gabriel Knight 5, suggesting an ambitious vision for concluding the series.[^ref-1]
-
-The franchise's intellectual property journey mirrors the broader fate of Sierra's adventure game legacy.[^ref-8][^ref-9][^ref-10] Originally developed by Sierra On-Line, the rights passed through various corporate hands before landing with Activision, which was subsequently acquired by Microsoft in 2024.[^ref-1] Jensen has been attempting to reach Microsoft to negotiate licensing rights but has been unsuccessful in gaining the company's attention.[^ref-4]
-
-- **Previous:** [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 - **Next:** Not yet released
 
-## References
-
-[^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation
-[^ref-2]: [Adventure Game Hotspot – Jane Jensen Releases Gabriel Knight Short Story Five Hearts](https://adventuregamehotspot.com/announcement/3108/jane-jensen-releases-gabriel-knight-short-story-five-hearts) – Short story announcement, plot details about Grace's disappearance, cursed dagger, appeal to Microsoft
-[^ref-3]: [GK Pages – Jane Jensen Love Letter](https://gkpages.altervista.org/Interviews/JaneLoveLetter.html) – Jensen's 1999 departure from Sierra, adventure game industry decline, historical context
-[^ref-4]: [ResetEra – Jane Jensen Shares Details on New Gabriel Knight 4 Pitch](https://www.resetera.com/threads/jane-jensen-shares-details-on-new-gabriel-knight-4-pitch.1375390/) – Matt Chat interview details, Salzburg setting, dual paths, Israeli indie team collaboration, Microsoft licensing difficulties, community reactions
-[^ref-5]: [Grokipedia – Jane Jensen Video Game Designer](https://grokipedia.com/page/jane_jensen_video_game_designer) – Jensen biography, dream inspiration quote, Five Hearts as potential GK4 opening
-[^ref-6]: [PekoeBlaze – Gabriel Knight: Sins of the Fathers Review](https://pekoeblaze.wordpress.com/2016/03/09/review-gabriel-knight-sins-of-the-fathers-retro-computer-game/) – Voice acting praise, New Orleans setting, Tim Curry performance, game structure
-[^ref-7]: [Game Developer – Remaking Gabriel Knight: A 20th Anniversary Postmortem](https://www.gamedeveloper.com/audio/remaking-i-gabriel-knight-i-a-20th-anniversary-postmortem) – Anniversary edition development details, budget, team size, Unity engine
-[^ref-8]: [Sierra Fandom Wiki – Gabriel Knight](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series wiki information
-[^ref-9]: [MobyGames – Gabriel Knight Series](https://www.mobygames.com/group/1267/gabriel-knight/) – Series database entry
-[^ref-10]: [Giant Bomb – Gabriel Knight](https://www.giantbomb.com/gabriel-knight/3025-2174/) – Series information
+## 

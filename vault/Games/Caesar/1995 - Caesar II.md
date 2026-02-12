@@ -137,46 +137,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 - [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html)[^ref-28]
 
 ## See Also
-
-Caesar II is the second installment in the Caesar series, following the original Caesar (1992) and preceding [[1998 - Caesar III|Caesar III]] (1998).
-
-**Caesar Series:**
-- **Previous:** Caesar (1992)
-- **Next:** [[1998 - Caesar III|Caesar III]] (1998)
 - [[1992 - Caesar|← Previous: Caesar]]
 - [[1998 - Caesar III|→ Next: Caesar III]]
 
-## References
-
-[^ref-1]: [Wikipedia - Caesar II](https://en.wikipedia.org/wiki/Caesar_II) – Review scores, awards, sales figures, development history
-[^ref-2]: [Amazon - Caesar II PC](https://www.amazon.com/Caesar-II-PC/dp/B0006BKIZU) – Customer review comparing to SimCity and Civilization
-[^ref-3]: [Arcade Attack - Chris Beatrice Interview](https://www.arcadeattack.co.uk/chris-beatrice-sierra/) – Developer insights on graphics and Age of Empires influence
-[^ref-4]: [Ars Technica - History of City Building Games](https://arstechnica.com/gaming/2015/10/from-simcity-to-well-simcity-the-history-of-city-building-games/) – Caesar II features and improvements over original
-[^ref-5]: [MobyGames - Caesar II](https://www.mobygames.com/game/1588/caesar-ii/) – Technical specifications, platforms, credits, genres
-[^ref-6]: [Flash of Steel - Caesar Series Analysis](https://flashofsteel.com/index.php/2008/04/04/caesar-series-1993-2006/) – Simon Bradbury email interview on origins and development challenges
-[^ref-7]: [ClassicReload - Caesar II](https://classicreload.com/caesar-ii.html) – Game setting and victory conditions
-[^ref-8]: [ATPM - Caesar II Review](http://www.atpm.com/3.02/page11.shtml) – February 1997 Macintosh review
-[^ref-10]: [GameFAQs - Caesar II Data](https://gamefaqs.gamespot.com/pc/63635-caesar-iii/data) – Official game description
-[^ref-11]: [Reddit - Caesar II Discussion](https://www.reddit.com/r/impressionsgames/comments/1bty0i7/i_feel_caesar_ii_is_the_best_of_the_caesar_series/) – Player perspective on three-map system
-[^ref-12]: [Web Archive - CD Magazine Review](https://web.archive.org/web/19970101033832/http://www.cdmag.com/strategy_vault/caesar_2/page1.html) – Contemporary review praising interface and visuals
-[^ref-14]: [Web Archive - PC Games Magazine Review](https://web.archive.org/web/19961018134320/http://www.pcgamesmag.com/games/Jan96/caesar196.html) – January 1996 review with graphics praise
-[^ref-15]: [Caesar2.com - FAQ](https://www.caesar2.com/caesar-ii-faq/) – Game structure and progression overview
-[^ref-16]: [TV Tropes - Caesar Video Game](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar) – Housing class system mechanics
-[^ref-17]: [GameSpot - Caesar II User Reviews](https://www.gamespot.com/caesar-ii/user-reviews/2200-474414/) – Historical significance as first city builder with military
-[^ref-19]: [Grokipedia - Caesar II](https://grokipedia.com/page/Caesar_II) – Average critic score compilation
-[^ref-20]: [GOG.com - Caesar II](https://www.gog.com/en/game/caesar_ii) – Current digital availability and user ratings
-[^ref-21]: [Companies Made Simple - David Lester Interview](https://www.companiesmadesimple.com/blogs/inspiration-start-up-stories/real-business-case-study-david-lester) – Sales figures and development focus
-[^ref-22]: [MobyGames - Great Empires Collection II](https://www.mobygames.com/game/7527/the-great-empires-collection-ii/) – Sierra acquisition of Impressions
-[^ref-24]: [MobyGames - Caesar II Credits DOS](https://www.mobygames.com/game/1588/caesar-ii/credits/dos/) – Voice recording and localization credits
-[^ref-25]: [VOGONS - Caesar II Audio Discussion](https://www.vogons.org/viewtopic.php?t=56801) – Confirmation of MIDI-only audio
-[^ref-26]: [GameFAQs - Caesar II Data](https://gamefaqs.gamespot.com/pc/564620-caesar-ii/data) – Release date information
-[^ref-27]: [ModDB - Caesar II v1.01 Windows Patch](https://www.moddb.com/games/caesar-ii/downloads/caesar-ii-v101-windows-patch) – Patch documentation and bug fixes
-[^ref-28]: [Sierra Help - Caesar Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/CaesarSeriesUpdates.html) – Official patch availability
-[^ref-29]: [VGChartz - Caesar II Sales](https://www.vgchartz.com/game/228497/caesar-ii/sales) – Sales tracking data
-[^ref-30]: [SEC.gov - Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – Official corporate sales documentation
-[^ref-31]: [Internet Archive - City Building Series](https://archive.org/details/CaesarIIUSA) – Series information and influence
-[^ref-32]: [IGN - Caesar IV Review](https://www.ign.com/articles/2006/10/17/caesar-iv-review) – Later series development by Tilted Mill
-[^ref-33]: [Caesar2.com - City Walkthrough](https://www.caesar2.com/caesar-ii-city-walkthrough-tutorial/) – Active fan community and strategies
-[^ref-34]: [Internet Archive - Caesar 2 DOS](https://archive.org/details/msdos_Caesar_2_1995) – Game preservation
-[^ref-35]: [Internet Archive - Caesar II Demo](https://archive.org/details/CaesarII_1020) – Demo version archive
-[^ref-36]: [MyAbandonware - Caesar II](https://www.myabandonware.com/game/caesar-ii-2at) – User reviews and compatibility information
+## 

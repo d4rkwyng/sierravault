@@ -192,27 +192,6 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 - [Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
 
 ## See Also
-
-Stellar-Fire is part of the Stellar 7 series, a franchise of 3D sci-fi tank/vehicle simulators developed primarily by Dynamix in which players defend the human race from the evil Draxon empire[^ref-12]. The series began with Stellar 7 in 1983, evolving through multiple entries with various style and gameplay changes[^ref-4]. Stellar-Fire maintains the core conflict against the Draxon but introduces new elements like the hovermorph vehicle transformation mechanic[^ref-2].
-
-The game was developed externally by Infinite Laser Dog, making it unique among series entries as the only one not created by Dynamix directly[^ref-1]. It was released the same year as Stellar 7: Draxon's Revenge for 3DO, representing the franchise's attempt to expand onto multiple platforms during the early 1990s console generation[^ref-8].
-
-- **Previous:** [[1991 - Nova 9 - The Return of Gir Draxon]]
-- **Next:** [[1993 - Stellar 7 - Draxon's Revenge]]
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
 
-## References
-
-[^ref-1]: [Dynamix Wiki – Stellar-Fire](https://dynamix.fandom.com/wiki/Stellar-Fire) – developer, publisher, release date, story, gameplay mechanics
-[^ref-2]: [MobyGames – Stellar-Fire](https://www.mobygames.com/game/27337/stellar-fire/) – credits, description, ratings, series information
-[^ref-3]: [Sega-16 – Stellar Fire Review](https://www.sega-16.com/2009/05/stellar-fire/) – gameplay analysis, FMV quality, Michael Dorn narration, critical assessment
-[^ref-4]: [Retro Game Wiki – Stellar-Fire](https://retro-game.fandom.com/wiki/Stellar-Fire) – series history, stage list, gameplay description
-[^ref-5]: [MobyGames User Review – SegaReplay](https://www.mobygames.com/game/27337/stellar-fire/user-review/2766313/) – modern assessment, technical achievements, soundtrack praise
-[^ref-6]: [IMDB – Stellar-Fire](https://www.imdb.com/title/tt0402509/) – writer credit (John Garvin), Michael Dorn as narrator, release year
-[^ref-7]: [Sierra Chest – Stellar Fire](https://sierrachest.com/index.php?a=games&id=558&title=stellar-fire&fld=general) – platform, genre, developer confirmation
-[^ref-8]: [Blaqthourne Neocities – Stellar-Fire Review](https://blaqthourne.neocities.org/Stellar-Fire_SCD_review) – control limitations, difficulty assessment, power-up system, stage-specific strategies
-[^ref-9]: [GameFAQs User Review – vgp_roadkill](https://gamefaqs.gamespot.com/segacd/588003-stellar-fire/reviews/29914) – graphics rating, sound rating, story rating, gameplay impressions
-[^ref-10]: [Every Game Going – Stellar-Fire Review Summary](https://www.everygamegoing.com/larticle/stellar-fire/103026) – Video Game Critic score, marketing claims
-[^ref-11]: [Lukie Games – Stellar-Fire](https://www.lukiegames.com/stellar-fire-sega-cd-game) – customer review, soundtrack praise, current availability
-[^ref-12]: [Dynamix Wiki – Stellar 7 Series](https://dynamix.fandom.com/wiki/Stellar_7_(series)) – series overview, game list, developer information
-[^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
+## 

@@ -148,30 +148,7 @@ The team has continued supporting the game post-release, with v2 updates in late
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
 ## See Also
-
-- **Previous:** Space Quest 6: Roger Wilco in the Spinal Frontier (spiritual predecessor)
-- **Next:** None announced
 - [[2019 - Mage's Initiation - Reign of the Elements|← Previous: Mage's Initiation - Reign of the Elements]]
 - [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
 
-## References
-
-[^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information
-[^ref-2]: [Guys from Andromeda](https://guysfromandromeda.com/uncategorized/new-game/) – - Official announcement post
-[^ref-3]: [Steam Store](https://store.steampowered.com/app/1374960/SpaceVenture/) – - Official game description and protagonist details
-[^ref-4]: [EverybodyWiki](https://en.everybodywiki.com/Two_Guys_from_Andromeda) – - Kickstarter funding information
-[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Space_Quest) – - Development challenges overview
-[^ref-6]: [Time Extension](https://www.timeextension.com/news/2022/08/spaceventure-releasing-to-backers-next-month-after-a-decade-in-development) – - Release timeline information
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/192353/spaceventure/) – - Developer and publisher information
-[^ref-8]: [Game Developer](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda#close-modal) – - Designer credits and reunion story
-[^ref-9]: [Guys from Andromeda](https://guysfromandromeda.com/) – - Game features description
-[^ref-10]: [Impulse Gamer](https://www.impulsegamer.com/space-venture-pc-review/) – - Interface description
-[^ref-11]: [Chordian.net](https://blog.chordian.net/2023/04/23/spaceventure/) – - Interface criticism
-[^ref-12]: [Larry Laffer](http://larrylaffer.net/archives/5199) – - Development team description
-[^ref-13]: [Guys from Andromeda Hint Guide](https://guysfromandromeda.com/spaceventure-hint-guide/) – - Design philosophy quote
-[^ref-14]: [Kotaku](https://kotaku.com/spaceventure-space-quest-kickstarter-steam-disaster-1851774747) – - Critical assessment
-[^ref-15]: [SierraChest](https://www.sierrachest.com/index.php?a=news&pid=464) – - Development delays explanation
-[^ref-16]: [Time Extension](https://www.timeextension.com/news/2022/09/10-years-later-space-quest-successor-spaceventure-emerges-from-development-hell) – - Development challenges commentary
-[^ref-17]: [IGN](https://www.ign.com/articles/2014/09/15/spaceventure-the-new-game-from-the-creators-of-space-quest) – - Activision contact attempt details
-[^ref-18]: [Kickstarter Update – SpaceVenture v2](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que/posts/4278390) – v2 announcement and development phases
-[^ref-19]: [PCGamingWiki – SpaceVenture](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical documentation and fixes
+## 

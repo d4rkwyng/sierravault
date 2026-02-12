@@ -125,32 +125,7 @@ The series' legacy lies in its contribution to the football management genre dur
 - [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
 
 ## See Also
-
-- **Previous:** [[1995 - Ultimate Soccer Manager]] (1995)
-- **Next:** [[1998 - Ultimate Soccer Manager 98]] (1997)
 - [[1995 - Ultimate Soccer Manager|← Previous: Ultimate Soccer Manager]]
 - [[1998 - Ultimate Soccer Manager 98|→ Next: Ultimate Soccer Manager 98]]
 
-## References
-
-[^ref-1]: [MobyGames - Ultimate Soccer Manager 2](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/) – - Basic game information, developers, publishers, and designers
-[^ref-2]: [My Abandonware - Ultimate Soccer Manager 2](https://www.myabandonware.com/game/ultimate-soccer-manager-2-2e0) – - Marketing taglines and game description
-[^ref-3]: [Internet Archive - Ultimate Soccer Manager 2](https://archive.org/details/msdos_Ultimate_Soccer_Manager_2_1996) – - Technical improvements and gameplay mechanics
-[^ref-4]: [GOG Dreamlist - Ultimate Soccer Manager 2](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-2-1996) – - Reception information and competitive comparison
-[^ref-5]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/582072-ultimate-soccer-manager-2/faqs/16243) – - Game timeline and mechanics
-[^ref-6]: [Fuller FM Review](https://fullerfm.com/2022/10/19/retro-review-ultimate-soccer-manager-98/) – - Match-fixing mechanics and disclaimer
-[^ref-7]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/94245-ultimate-soccer-manager-2) – - Technical specifications and UI improvements
-[^ref-8]: [Free Game Empire Manual](https://www.freegameempire.com/games/Ultimate-Soccer-Manager-2/manual) – - Technical requirements
-[^ref-9]: [Chapter Cheats](https://www.chaptercheats.com/cheats/pc/1959/ultimate-soccer-manager-2-cheat-codes) – - League coverage
-[^ref-10]: [Old-Games.com](https://www.old-games.com/download/4980/ultimate-soccer-manager-2) – - Technical specifications and multiplayer features
-[^ref-11]: [Dynamic Mess Gaming Archaeology](https://www.dynamic-mess.com/jeux/gaming-archeology-retro-engineering-on-ultimate-soccer-manager-98/) – - Management aspects
-[^ref-12]: [MobyGames Screenshot](https://www.mobygames.com/game/dos/ultimate-soccer-manager-2/screenshots/gameShotId,175421) – - Player positioning mechanics
-[^ref-13]: [Wikipedia - Ultimate Soccer Manager 2](https://en.wikipedia.org/wiki/Ultimate_Soccer_Manager_2) – - Contemporary review scores
-[^ref-14]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Ultimate+Soccer+Manager+2&gid=2915) – - User rating
-[^ref-15]: [Play Mini Games](https://playminigames.net/game/ultimate-soccer-manager-2) – - User rating
-[^ref-16]: [Play Old Games](https://playold.games/play-game/ultimate-soccer-manager-2/) – - User rating
-[^ref-17]: [SierraChest - Making of Ultimate Soccer Manager 2](https://www.sierrachest.com/index.php?a=games&id=403&title=ultimate-soccer-manager-2&fld=making) – - Developer history
-[^ref-18]: [Games That Weren't](https://www.gamesthatwerent.com/2020/12/ultimate-soccer-manager-2000/) – - Cancelled sequel information
-[^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/582072-ultimate-soccer-manager-2/faqs) – - Series timeline
-[^ref-20]: [Reddit](https://www.reddit.com/r/footballmanagergames/comments/z3b66o/im_in_the_process_of_moving_house_and_found_these/) – - Fan nostalgia
-[^ref-21]: [DOS Zone](https://dos.zone/ultimate-soccer-manager-2-1996/) – - Current availability
+## 

@@ -187,45 +187,13 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 - ScummVM provides modern compatibility through Gob engine emulation[^ref-7]
 
 ## See Also
-
-Playtoons 2: The Case of the Counterfeit Collaborator is the second entry in Coktel Vision's Playtoons series, which began in 1994 and continued through at least five numbered entries[^ref-9]. The series was designed with interconnectivity in mind, with each title adding to the collective library of creative assets available in the construction kit mode[^ref-4].
-
-The series includes:
 - Playtoons 1: Uncle Archibald (1994)[^ref-15]
 - Playtoons 2: The Case of the Counterfeit Collaborator (1995)[^ref-1]
 - Playtoons 3: The Secret of the Castle (1995)[^ref-16]
 - Playtoons 4: The Mandarin Prince (1995)[^ref-17]
 - Playtoons 5: The Stone of Wakan (1995)[^ref-9]
 
-Each game features a unique interactive story while sharing the common construction kit functionality, and installing multiple titles expands the creative possibilities for users[^ref-4].
-
-- **Previous:** [[1994 - Playtoons 1 - Uncle Archibald]]
-- **Next:** [[1995 - Playtoons 3 - The Secret of the Castle]]
 - [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3 - The Secret of the Castle]]
 
-## References
-
-[^ref-1]: [MobyGames – Playtoons 2: The Case of the Counterfeit Collaborator](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – developer, publisher, credits, ratings, platforms
-[^ref-2]: [MobyGames – Playtoons 2 Screenshots](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/screenshots/win3x/1159965/) – resolution, alternate titles, narration style
-[^ref-3]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, developer information
-[^ref-4]: [MobyGames – Playtoons 1 Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – cross-title integration, series description, construction kit details
-[^ref-5]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
-[^ref-6]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
-[^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
-[^ref-8]: [Kagi FastGPT Query](kagi:fastgpt:What year was Playtoons 2: Hiccups the Ghost video game released and who developed it?) – release year, developer, alternate titles
-[^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept
-[^ref-10]: [Goodreads – The Ghost with the Halloween Hiccups](https://www.goodreads.com/book/show/1507587.The_Ghost_with_the_Halloween_Hiccups) – age appropriateness reference for early readers
-[^ref-11]: [SierraChest – Playtoons 3](https://sierrachest.com/index.php?a=games&id=326&fld=general) – construction kit integration, Monsters add-on, scene creation limits
-[^ref-12]: [Avid Wiki – Coktel Studio](https://www.avid.wiki/Coktel_Studio) – developer history
-[^ref-13]: [MobyGames – Playtoons 2 Releases](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/releases/) – regional release dates, publishers by territory
-[^ref-15]: [Internet Archive – Playtoons 1](https://archive.org/details/playtoons-1) – first game in series, 1994 release
-[^ref-16]: [MobyGames – Playtoons 3: The Secret of the Castle](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – third game details, release year
-[^ref-17]: [Internet Archive – Playtoons 4](https://archive.org/details/playtoons-4) – fourth game in series
-[^ref-18]: [GameFAQs – Playtoons 2](https://gamefaqs.gamespot.com/pc/591381-playtoons-2-the-case-of-the-counterfeit-collaborator) – platform availability, publisher
-[^ref-19]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – developer, publisher confirmation
-[^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – company game listings, platform information
-[^ref-21]: [Ultimate Pop Culture Wiki – Coktel Vision](https://ultimatepopculture.fandom.com/wiki/Coktel_Vision) – company history, game chronology
-[^ref-22]: [Internet Archive – Playtoons: The Secret of the Castle](https://archive.org/details/playtoons-the-secret-of-the-castle) – Sierra as publisher, CD-ROM format
-[^ref-23]: [Internet Archive – Playtoons: Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – series format, preservation status
-[^ref-24]: [Wikipedia – Category: Coktel Vision Games](https://en.wikipedia.org/wiki/Category:Coktel_Vision_games) – game categorization
+## 

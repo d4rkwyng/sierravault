@@ -188,34 +188,7 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 - [Old Games Download](https://oldgamesdownload.com/hoyle-card-games-2005/)
 
 ## See Also
-
-Hoyle Card Games 2005 is part of the long-running Hoyle Card Games series that began in 1989 with the original Hoyle's Official Book of Games[^ref-3]. The series was known for its comprehensive card game collections and, in earlier entries, for featuring Sierra adventure game characters as opponents[^ref-3]. By 2005, the series had evolved to focus more on customizable player avatars and achievement-based progression rather than character crossovers from other Sierra properties.
-
-The Hoyle series continued after the 2005 edition, with later versions released under the Encore banner, including Hoyle Card Games 2012 which featured over 20 classic card games[^ref-13].
-
-- **Previous:** [[2003 - Hoyle Card Games]]
-- **Next:** [[2015 - Hoyle Official Card Games Collection]]
 - [[2005 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2005 - Hoyle Casino 3D|→ Next: Hoyle Casino 3D]]
 
-## References
-
-[^ref-2]: [IGN – Hoyle Card Games 2005](https://www.ign.com/games/hoyle-card-games-2005) – mobile platforms, publishers, content ratings, game features
-[^ref-3]: [Backloggd – Hoyle Card Games 2005 Review](https://backloggd.com/u/Camwoodstock/review/1645958) – retrospective analysis, achievement system, series history
-[^ref-4]: [Metacritic – Hoyle Card Games 2005](https://www.metacritic.com/game/hoyle-card-games-2005/) – release date, developer, publisher, game description
-[^ref-6]: [Amazon Singapore – Hoyle Card Games 2005](https://www.amazon.sg/Hoyle-Card-Games-2005-PC/dp/B0001BR9Q6) – customer reviews, features, platforms, bugs, pricing
-[^ref-7]: [MobyGames – Hoyle Card Games 2005](https://www.mobygames.com/game/178234/hoyle-card-games-2005/) – developer, publisher, designer, composer, technical specs
-[^ref-8]: [GameSpot User Review – cykosis27](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-232693/) – user score, gameplay details, family assessment
-[^ref-9]: [GameSpot – Hoyle Card Games 2005](https://www.gamespot.com/hoyle-card-games-2005/user-reviews/2200-3671554/) – release date, user reviews
-[^ref-10]: [Wikipedia – Hoyle Card Games](https://en.wikipedia.org/wiki/Hoyle_Card_Games) – allgame review, IGN review quotes
-[^ref-11]: [My Abandonware – Hoyle Card Games 2005](https://www.myabandonware.com/game/hoyle-card-games-2005-hzi) – user rating, file size, installation issues
-[^ref-12]: [Old Games Download – Hoyle Card Games 2005](https://oldgamesdownload.com/hoyle-card-games-2005/) – technical issues, user comments
-[^ref-13]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – version history, market data
-[^ref-14]: [Sierra Chest – Hoyle Games](https://sierrachest.com/index.php?a=games&id=794) – Hoyle series documentation, Sierra history
-[^ref-15]: [GameFAQs – Hoyle Card Games 2005](https://gamefaqs.gamespot.com/pc/931077-hoyle-card-games-2005) – game database entry, platform info
-[^ref-16]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise overview
-[^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher background, company history
-[^ref-18]: [Internet Archive – Hoyle Games](https://archive.org/search?query=hoyle+card+games+2005) – preservation archives
-[^ref-19]: [ESRB – Rating Information](https://www.esrb.org) – content rating context
-[^ref-20]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
-[^ref-21]: [Squakenet – Hoyle Card Games](https://www.squakenet.com/game/hoyle-card-games-2005/) – release data, platform info
+## 

@@ -212,34 +212,8 @@ Abandonware archives and retro gaming communities continue maintaining access to
 - [Internet Archive](https://archive.org/details/hoyle-classic-board-games_202209)
 
 ## See Also
-
-- **Previous:** [[1991 - Hoyle Official Book of Games - Volume 3]]
-- **Next:** [[2001 - Hoyle Board Games]]
 - **Related:** [[1993 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 - [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
 
-## References
-
-[^ref-1]: [Trieagle664 Archive](https://trieagle664.weebly.com/sierra-hoyle-classic-board-games.html) - Game origin story and designer information
-[^ref-2]: [Old PC Gaming](https://oldpcgaming.net/hoyle-classic-board-games-review/) - Development inspiration and retrospective review
-[^ref-3]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-classic-board-games-review/1900-2537738/) - Professional review and design philosophy assessment
-[^ref-4]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197582-hoyle-classic-board-games) - Game features, marketing tagline, and multiplayer capabilities
-[^ref-5]: [Never Die Media](https://www.neverdiemedia.com/products/hoyle-classic-board-games-1997) - Interface description and game philosophy
-[^ref-6]: [Internet Archive](https://archive.org/details/hoyle-classic-board-games_202209) - Game content overview
-[^ref-7]: [MobyGames](https://www.mobygames.com/game/45136/hoyle-classic-board-games/) - Developer, publisher, and technical information
-[^ref-8]: [eBay Listings](https://www.ebay.com/) - Platform and media information
-[^ref-9]: [MobyGames Technical](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) - ESRB rating and gameplay perspective
-[^ref-10]: [MobyGames Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) - Character opponents and card game list
-[^ref-11]: [Amazon Customer Reviews](https://www.amazon.com/Hoyle-Classic-Board-Games-Windows/dp/087177402X) - User experiences and compatibility issues
-[^ref-12]: [The Gamers Guides](https://www.thegamersguides.com/hoyle-classic-board-games-play-on-windows-10/) - Interface design and legacy description
-[^ref-14]: [Filfre.net](https://www.filfre.net/) - Ken Williams quote about multiplayer vision
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/) - Community ratings
-[^ref-16]: [RAWG](https://rawg.io/games/hoyle-classic-board-games) - Rating classification
-[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-board-games-hzm) - Community rating
-[^ref-18]: [Goodreads](https://www.goodreads.com/) - Nostalgic community rating
-[^ref-19]: [VGTimes](https://vgtimes.com/) - Modern critical assessment
-[^ref-20]: [GOG Community](https://www.gog.com/) - Fan appreciation
-[^ref-21]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1&fld=music) - Composer credit
-[^ref-22]: [The Gamers Guides Technical](https://www.thegamersguides.com/how-to-play-hoyle-classic-board-games-on-windows-10/) - Technical specifications
-[^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Fan perspective on series significance
+## 

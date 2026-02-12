@@ -238,29 +238,6 @@ The game also represents an important cautionary tale about the challenges of de
 - [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) - Comprehensive article[^ref-1]
 
 ## See Also
-
-The Realm Online stands as a standalone title rather than part of a continuing franchise. While Sierra had considered branding it as "World of Quest for Glory" to connect it with their popular adventure game series, this plan was abandoned when the development team admitted they lacked the tools to create proper quests.[^ref-13] The game therefore launched and has continued as an independent property.
-
-The game's development occurred during Sierra's peak era of adventure game production, with artist Richard Powell bringing experience from Space Quest and Gabriel Knight to the project.[^ref-1] While not narratively connected to those series, The Realm Online shares their visual DNA and interface philosophy, representing Sierra's attempt to extend their design sensibilities into the emerging online space.
-
-The game has no direct sequels, but its technological innovations—particularly the instancing system—influenced virtually every MMORPG that followed. In this sense, games like World of Warcraft, Final Fantasy XIV, and countless others can trace part of their design lineage back to experiments conducted in The Realm Online nearly three decades ago.[^ref-2]
 - [[1993 - Fates of Twinion|← Previous: Fates of Twinion]]
 
-## References
-
-[^ref-1]: [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) – Comprehensive development history, ownership changes, technical specifications, sales data, designer credits
-[^ref-2]: [TV Tropes – The Realm Online](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheRealmOnline) – Historical significance, longevity records, instance pioneering, player population data
-[^ref-3]: [Sierra Gamers Forum – Quest for Glory/The Realm Online](https://www.sierragamers.com/forums/topic/quest-for-glory-the-realm-online/) – Ken Williams quotes on development, funding details, technical challenges
-[^ref-4]: [MobyGames – The Realm](https://www.mobygames.com/game/4363/the-realm/) – Release date, developer credits, engine information, user ratings
-[^ref-5]: [Almar's Guides – The Realm](https://www.almarsguides.com/retro/walkthroughs/snes/games/Realm/) – Character classes, gameplay mechanics, release information
-[^ref-6]: [Massively Overpowered – The Realm Online Community Patch](https://massivelyop.com/2019/10/04/the-realm-onlines-latest-community-patch-adds-dungeon-open-world-zone-and-more/) – Avalon Awoken update details, private server information
-[^ref-7]: [The Realm Server – Past Updates](https://www.realmserver.com/post/past-updates) – Patch notes, bug fixes, seasonal events, content updates
-[^ref-8]: [Reddit r/MMORPG – The Realm Online Discussion](https://www.reddit.com/r/MMORPG/comments/18su2qo/the_realm_online/) – Player recommendations, Sierra adventure game comparisons
-[^ref-9]: [The Realm Server – Official Website](https://www.realmserver.com/) – Current server information, level cap, game description
-[^ref-10]: [Reddit r/Sierra – The Realm Memories](https://www.reddit.com/r/Sierra/comments/l6m47k/anyone_remember_sierras_the_realm/) – Player reminiscences, EverQuest comparison
-[^ref-11]: [MMORPG.com Forums – Original Realm CD Discussion](https://forums.mmorpg.com/discussion/398167/looking-for-the-original-realm-cd) – Player population data, ownership history, distribution details
-[^ref-12]: [Sierra Gamers Forum – The Realm](https://www.sierragamers.com/forums/topic/the-realm/) – David Slaybeck information, Ken Williams quotes, TSN history
-[^ref-13]: [Quest for Glory Fandom Wiki – The Realm](https://questforglory.fandom.com/wiki/The_Realm) – Corey and Lori Cole quotes, World of Quest for Glory plans
-[^ref-14]: [Internet Archive – Sierra The Realm v3.0](https://archive.org/details/realm3) – Version information, publisher confirmation
-[^ref-15]: [AbeBooks – The Realm Official Player's Guide](https://www.abebooks.com/9780871775146/Realm-Official-Players-Guide-Sierra-087177514X/plp) – Guide publication details, ISBN, page count
-[^ref-16]: [Internet Archive – The Realm Advertising Flyer](https://archive.org/details/realm-flyer) – Original marketing materials, platform confirmation
+## 

@@ -213,41 +213,6 @@ The game's emphasis on consequences for environmental destruction—whether thro
 - [Abandonware DOS – Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=ecoquest2solution.txt&st=walkthrough&sg=EcoQuest+2:+Lost+Secret+of+the+Rainforest&idg=2594)[^ref-8]
 
 ## See Also
-
-*Lost Secret of the Rainforest* is the second and final game in the EcoQuest series, and also part of the broader Sierra Discovery Series of educational titles.[^ref-7] While maintaining the protagonist Adam Greene and his father Noah from the original game, the sequel shifts the setting entirely from underwater environments to the South American rainforest. Adam retains his ability to communicate with animals—a power established in the first game—but now applies it to rainforest creatures rather than marine life.[^ref-6]
-
-The game shares thematic DNA with *EcoQuest: The Search for Cetus* in its focus on environmental protection and the impact of human greed on natural ecosystems, but the specific story and characters (aside from Adam and Noah) are entirely new. No sequel followed *Lost Secret of the Rainforest*, making it the conclusion of the EcoQuest storyline.[^ref-7]
-
-- **Previous:** [[1991 - EcoQuest - The Search for Cetus]]
 - [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
 
-## References
-
-[^ref-1]: [Wikipedia – Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest) – release date, credits, designer info, reception, Pelit quote, Compute! review
-[^ref-2]: [The Adventurers' Guild – Game 124 Introduction](https://advgamer.blogspot.com/2020/06/game-124-ecoquest-2-lost-secret-of.html) – plot summary, Sierra Discovery Series, title variations
-[^ref-3]: [GameFAQs – Lost Secret of the Rainforest](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest) – game description, user ratings
-[^ref-4]: [Abandonware DOS – EcoQuest 2](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest+2:+Lost+Secret+of+the+Rainforest&gid=2594) – user ratings, genre tags, DOSBox requirements
-[^ref-5]: [PCGamingWiki – Lost Secret of the Rainforest](https://www.pcgamingwiki.com/wiki/Lost_Secret_of_the_Rainforest) – engine info, Windows compatibility, ScummVM support
-[^ref-6]: [MobyGames – Lost Secret of the Rainforest](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/) – platforms, release dates, credits, Moby Score, alternative titles
-[^ref-7]: [Wikidata – Lost Secret of the Rainforest](https://www.wikidata.org/wiki/Q930283) – series info, publication data
-[^ref-8]: [Abandonware DOS – Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=ecoquest2solution.txt&st=walkthrough&sg=EcoQuest+2:+Lost+Secret+of+the+Rainforest&idg=2594) – customs puzzle, immunization card, Nicanor, Slaughter's men
-[^ref-9]: [GameFAQs – Guide and Walkthrough by T_Hayes](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest/faqs/32249) – game areas, plot summary, river otters
-[^ref-10]: [The Adventurers' Guild – Concerned](https://advgamer.blogspot.com/2020/09/lost-secret-of-rainforest-concerned.html) – Forest Heart, village inhabitants, sprout quest
-[^ref-11]: [The Adventurers' Guild – Determined](https://advgamer.blogspot.com/2020/10/lost-secret-of-rainforest-determined.html) – village puzzles, poultice, butterfly catching
-[^ref-12]: [The Adventurers' Guild – Escape](https://advgamer.blogspot.com/2020/11/lost-secret-of-rainforest-escape.html) – Slaughter's camp, trophy room, MAS initials
-[^ref-13]: [Wikipedia – EcoQuest: The Search for Cetus](https://en.wikipedia.org/wiki/EcoQuest) – series info, unwinnable states, SCI engine
-[^ref-14]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2561573/) – graphics, music, interface, EcoNews booklet
-[^ref-15]: [Classic Gamer Hub – EcoQuest 2 Review](https://classicgamerhub.com/ecoquest-2-lost-secret-of-the-rainforest-pc-1993-review-the-quest-that-runs-on-eco-points/) – Discovery Series history, Paquita description, critical analysis
-[^ref-16]: [Let's Play Archive – EcoQuest 2 Update 12](https://lparchive.org/EcoQuest-2-Lost-Secret-of-the-Rainforest/Update%2012/) – face paint puzzle, ceremony sequence
-[^ref-17]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2021/03/lost-secrets-of-rainforest-final-rating.html) – puzzle criticism, timed sequences, overall assessment
-[^ref-18]: [Adventure Gamers – EcoQuest 2](https://adventuregamers.com/games/view/16661) – review score, pros and cons, verdict
-[^ref-19]: [MobyGames – User Review by Tomer Gabel](https://www.mobygames.com/game/619/lost-secret-of-the-rainforest/user-review/2333725/) – gameplay praise, General MIDI
-[^ref-20]: [MyAbandonware – Lost Secret of the Rainforest](https://www.myabandonware.com/game/lost-secret-of-the-rainforest-1rb) – user rating, copy protection note
-[^ref-21]: [The Digital Antiquarian – Chief Gates Comes to Oakhurst](https://www.filfre.net/?s=Lost+Secret+of+the+Rainforest) – Gano Haine reference, Sierra development context
-[^ref-22]: [TV Tropes – Dan Kehler](https://tvtropes.org/pmwiki/pmwiki.php/Music/DanKehler) – composer credits
-[^ref-23]: [Sierra Wiki – EcoQuest 2 Technical](http://wiki.sierrahelp.com/index.php/EcoQuest_2:_Lost_Secret_of_the_Rainforest_Technical) – system requirements, audio hardware
-[^ref-24]: [GOG.com – Community Dreamlist](https://www.gog.com/dreamlist/game/ecoquest-ii-lost-secret-of-the-rainforest-1993) – wishlist votes
-[^ref-25]: [GameFAQs – Guide and Walkthrough by odino](https://gamefaqs.gamespot.com/pc/564688-lost-secret-of-the-rainforest/faqs/64006) – walkthrough data
-[^ref-26]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993) – game preservation
-[^ref-27]: [Internet Archive – Alternative Upload](https://archive.org/details/ecoquest-2) – game preservation
-[^ref-28]: [MobyGames – Orpheus Hanley](https://www.mobygames.com/person/6020/orpheus-hanley/) – sound design credits
+## 

@@ -119,29 +119,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
 ## See Also
-
 - **Previous:** N/A
-- **Next:** N/A
 - [[1998 - Head Rush|→ Next: Head Rush]]
 
-## References
-
-[^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/search/?q=Eat+My+Dust) – - Basic game information and release details
-[^ref-2]: [Internet Archive - Eat My Dust](https://archive.org/details/eat-my-dust) – - Game description and mechanics
-[^ref-3]: [Home of the Underdogs - Eat My Dust](http://www.homeoftheunderdogs.net/game.php?id=4579) – - Critical assessment and comparison to Mario Kart
-[^ref-4]: [Sierra Chest - Eat My Dust](https://sierrachest.com/index.php?a=games&id=509&title=eat-my-dust&fld=walkthrough) – - Sierra company context
-[^ref-5]: [Sierra Gamers - Funnybone Interactive](https://www.sierragamers.com/) – Family entertainment label context
-[^ref-6]: [PCGamingWiki - Eat My Dust](https://www.pcgamingwiki.com/wiki/Eat_My_Dust) – - Platform and technical specifications
-[^ref-7]: [Eat My Dust Racing Blog](https://eatmydustracing.wordpress.com/about-eat-my-dust/) – - Official game description
-[^ref-8]: [NeverDie Media Product Listing](https://www.neverdiemedia.com/products/eat-my-dust) – - Vehicle specifications
-[^ref-9]: [Wikipedia - Eat My Dust](https://en.wikipedia.org/wiki/Eat_My_Dust) – - Course details and game features
-[^ref-10]: [Internet Archive Manual](https://archive.org/details/eat-my-dust-manual) – - Vehicle selection details
-[^ref-11]: [Gamer's Zone Review](https://web.archive.org/web/20060822002930/http://www.worldvillage.com/wv/gamezone/html/reviews/eatdust.htm) – - Multiplayer features
-[^ref-13]: [Electric Playground Archive](https://web.archive.org/web/19970804201644/http://www.elecplay.com/pc/eatmydust.html) – - Contemporary negative review
-[^ref-14]: [MyAbandonware - Eat My Dust](https://www.myabandonware.com/game/eat-my-dust-dl6) – - Modern preservation site rating
-[^ref-15]: [Games Domain Archive](https://web.archive.org/web/20040203121028/http://www.gamesdomain.com/gdreview/zones/reviews/pc/feb97/eatdust.html) – Market positioning
-[^ref-16]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Developer credits (Davidson & Associates, Funnybone Interactive, Van Duyne Engineering), 1997 release date
-[^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Funnybone Interactive brand history, game catalog
-[^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game)) – Game overview, developer information
-[^ref-19]: [Retrolorean - Eat My Dust](https://www.retrolorean.com/en/eat-my-dust-6107) – Track listing, game features
-[^ref-20]: [eBay Listing Archive](https://www.ebay.com/itm/395217486746) – Original retail packaging, 1996/1997 release context
+## 

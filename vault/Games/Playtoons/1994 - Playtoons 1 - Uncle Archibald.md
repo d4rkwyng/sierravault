@@ -193,34 +193,6 @@ The series continued with at least four additional installments: Playtoons 2: Th
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66MB demo playable in DOSBox[^ref-14]
 
 ## See Also
-
-Playtoons 1: Featuring Uncle Archibald launched the Playtoons series of interactive comic books and creative tools for children. The series was developed by Coktel Vision and published by Sierra On-Line throughout 1995, with all games sharing the same construction tool system that allowed assets to be combined across titles.[^ref-4]
-
-The Uncle Archibald story, with its magical mishap and monster-filled adventure, established the series' approach of combining whimsical narratives with creative gameplay. Subsequent entries would feature different stories and characters—including licensed properties like Spirou and Fantasio—while maintaining the same construction game foundation.[^ref-15] The series expanded with additional entries including Playtoons 3: The Secret of the Castle[^ref-16] and Playtoons 4: The Mandarine Prince[^ref-17], all sharing the same construction tools. The game was also released for Macintosh platforms.[^ref-18]
-
-- **Next:** [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|→ Next: Playtoons 2 - The Case of the Counterfeit Collaborator]]
 
-## References
-
-[^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description
-[^ref-2]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, plot summary, educational focus, interactivity features
-[^ref-3]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
-[^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – platforms, publisher, CD-ROM format, preservation
-[^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
-[^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
-[^ref-7]: [Kagi FastGPT Research](kagi:fastgpt) – game mechanics description, MobyGames credits count
-[^ref-8]: [Kagi FastGPT – Review Scores Query](kagi:fastgpt:What+were+the+review+scores+for+Playtoons+1+Featuring+Uncle+Archibald+video+game?) – lack of available review scores confirmed
-[^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
-[^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available
-[^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available
-[^ref-12]: [MobyGames – Credits](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/credits/win3x/) – full development credits, voice cast, alternate titles
-[^ref-13]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Playtoons+1%3A+Featuring+Uncle+Archibald) – alternate titles for German and French versions
-[^ref-14]: [Sierra Chest – Trailers/Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – demo download, DOSBox instructions
-[^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
-[^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
-[^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
-[^ref-18]: [GameFAQs – Mac Version](https://gamefaqs.gamespot.com/mac/232207-playtoons-1-featuring-uncle-archibald) – Macintosh platform confirmation
-[^ref-19]: [GameFAQs – PC Data](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald/data) – US release year, ESRB K-A rating
-[^ref-20]: [MobyGames – 1995 Mac Releases](https://www.mobygames.com/platform/macintosh/year:1995/page:3/) – Macintosh 1995 release confirmation
-[^ref-21]: [Metacritic – Details Page](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/details/) – basic metadata confirmation
+## 

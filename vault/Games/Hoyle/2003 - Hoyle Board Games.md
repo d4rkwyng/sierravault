@@ -249,26 +249,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - Original Hoyle rulebook and strategy guide included with game[^ref-6]
 
 ## See Also
-
-Hoyle Board Games 2003 was part of Sierra's extensive Hoyle series, which produced annual editions of both card game and board game compilations throughout the 1990s and 2000s. The series established Sierra's presence in the casual gaming market and provided a reliable revenue stream alongside their more prominent adventure game titles.
-
-The 2003 edition continued refinements from previous years while expanding platform support to include Palm Pilot and Pocket PC devices.[^ref-4] Content from this and other Hoyle titles would later be incorporated into compilation releases under the Encore label after Sierra's corporate restructuring.[^ref-12]
-
-- **Previous:** [[2001 - Hoyle Board Games]]
-- **Next:** [[2003 - Hoyle Board Games]]
 - [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
-## References
-
-[^ref-1]: [IGN – Hoyle Board Games 2003](https://www.ign.com/games/hoyle-board-games-2003) – release date, developer, publisher, game description
-[^ref-2]: [Amazon UK – Hoyle Board Games 2003 Edition](https://www.amazon.co.uk/Hoyle-Board-Games-2003-Edition/dp/B00008IM79) – UK release date, customer reviews, included extras, marketing description
-[^ref-9]: [Metacritic – Hoyle Board Games 2003](https://www.metacritic.com/game/hoyle-board-games-2003/) – complete game list
-[^ref-4]: [ESRB – Hoyle Board Games 2003](https://www.esrb.org/ratings/7889/hoyle-board-games-2003/) – ESRB rating, publisher, platform list including handhelds
-[^ref-5]: [Best Buy – Hoyle Board Games 2003](https://www.bestbuy.com/site/hoyle-board-games-2003-mac-windows-handheld/4752556.p?skuId=4752556) – retail availability, platform compatibility
-[^ref-6]: [GameFAQs – Hoyle Board Games 2003](https://gamefaqs.gamespot.com/pc/929726-hoyle-board-games-2003) – complete game list, features, multiplayer options, included extras
-[^ref-7]: [LaunchBox Games Database – Sierra Entertainment](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – developer/publisher, release date
-[^ref-8]: [IMDB – Hoyle Board Games 2003](https://www.imdb.com/title/tt0824346/) – voice cast, writers, user rating
-[^ref-10]: [GameFAQs User Review – Hoyle Board Games](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – detailed gameplay review, scores, control scheme, customization features
-[^ref-11]: [Macintosh Repository – Hoyle Board Games 2003](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) – Mac system requirements, hybrid disc information
-[^ref-12]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – technical issues, cut content, music sources, collection history
+## 

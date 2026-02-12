@@ -223,34 +223,7 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 - [CNET Download](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html)
 
 ## See Also
-
-Front Page Sports: Trophy Rivers was part of Sierra's Front Page Sports franchise, which encompassed multiple sports simulation titles. The fishing simulation branch of the franchise began with Front Page Sports: Trophy Bass in 1995, followed by Trophy Bass 2 in 1996[^ref-7]. Trophy Rivers represented an expansion of the fishing concept from bass fishing to fly-fishing for salmon, steelhead, and trout species[^ref-4].
-
-The broader Front Page Sports line included football management simulations that would later inspire revival attempts, with fans expressing nostalgia for "Original Front Page Sports Football Sierra" and requesting updated versions with modern graphics and expanded features[^ref-15]. Dynamix's closure effectively ended active development of the franchise, though the titles remain available through abandonware preservation efforts.
-
-- **Previous:** [[1996 - Front Page Sports - Trophy Bass 2]]
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 
-## References
-
-[^ref-1]: [MobyGames – Front Page Sports: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) – developer, publisher, designers, credits, platforms, ratings, game modes, features, technical specs, multiplayer support, educational topics
-[^ref-2]: [FilePlanet Archive – Front Page Sports: Trophy Rivers](https://www.fileplanet.com/archive/p-71316/Front-Page-Sports-Trophy-Rivers) – marketing description, system requirements, release information
-[^ref-3]: [MyAbandonware – Front Page Sports: Trophy Rivers](https://www.myabandonware.com/game/front-page-sports-trophy-rivers-f3t) – user rating, download size, platform versions, educational classification
-[^ref-4]: [GameSpot – Front Page Sports: Trophy Rivers Review](https://www.gamespot.com/reviews/front-page-sports-trophy-rivers-review/1900-2535350/) – Hugo Foster review, 6.7/10 score, game analysis, target audience assessment
-[^ref-5]: [CNET Download – Front Page Sports: Trophy Rivers](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html) – download statistics, user ratings, version history, system requirements
-[^ref-6]: [SoftPaz – Front Page Sports: Trophy Rivers](https://www.softpaz.com/games/download-front-page-sports-trophy-rivers-game-8729.htm) – gameplay description, user ratings, file information
-[^ref-7]: [Old-Games.com – Front Page Sports: Trophy Bass](https://www.old-games.com/download/8786/front-page-sports-trophy-bass) – series context, user review quote, franchise information
-[^ref-8]: [GameFAQs – Front Page Sports: Trophy Rivers](https://gamefaqs.gamespot.com/pc/55425-front-page-sports-trophy-rivers) – release date, user rating, game length estimate
-[^ref-9]: [Internet Archive – Trophy Rivers Demo](https://archive.org/details/trdemo10_exe) – demo description, Dynamix developer credit
-[^ref-10]: [The Junkyard Forums – Soundtrack Discussion](https://forums.the-junkyard.net/forum/general/general-discussion/9701-ss-soundtrack#post144548) – Loudmouth audio studio information, composer credits, Dynamix closure
-[^ref-11]: [Old Games Download – Front Page Sports: Trophy Rivers](https://oldgamesdownload.com/front-page-sports-trophy-rivers/) – file sizes, version information, educational classification
-[^ref-12]: [WowROMs – Front Page Sports: Trophy Rivers](https://wowroms.com/en/roms/windows-3.x/front-page-sports-trophy-rivers/153180.html) – Windows 3.x platform, file size
-[^ref-13]: [Old-Games.com – Front Page Sports: Trophy Rivers](https://www.old-games.com/download/10231/front-page-sports-trophy-rivers) – download size, Windows compatibility, game modes
-[^ref-14]: [GameSpy – Front Page Sports: Trophy Rivers](http://pc.gamespy.com/pc/front-page-sports-trophy-rivers/) – regional release dates, ESRB rating
-[^ref-15]: [Steam Community – Front Page Sports Football](https://steamcommunity.com/app/316700) – franchise context, user nostalgia quotes
-[^ref-16]: [eBay Listing #265405754067](https://www.ebay.com/itm/265405754067) – physical media condition, manual inclusion, ESRB rating
-[^ref-17]: [eBay Product Page](https://www.ebay.com/p/54066195) – product description, publisher confirmation
-[^ref-18]: [Metacritic – Front Page Sports: Trophy Rivers](https://www.metacritic.com/game/front-page-sports-trophy-rivers/) – release date, developer/publisher confirmation
-[^ref-19]: [The Video Game Database Fandom](https://thevideogamedatabase.fandom.com/wiki/Front_Page_Sports:_Trophy_Rivers) – release date, GameSpot score reference
-[^ref-20]: [GOG Dreamlist – Front Page Sports: Trophy Bass 2](https://www.gog.com/dreamlist) – series predecessor information, gameplay mechanics
+## 

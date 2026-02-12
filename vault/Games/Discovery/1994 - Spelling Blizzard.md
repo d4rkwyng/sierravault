@@ -198,41 +198,6 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 - PDF manual included on original game disc[^ref-4]
 
 ## See Also
-
-Spelling Blizzard is the second and final game in the Spelling Jungle series, maintaining the core gameplay mechanics of its predecessor while transporting the setting from a jungle environment to an arctic landscape[^ref-3][^ref-10]. Both games feature the character Yobi as a guide and mentor, with the sequel introducing Wali as the player character[^ref-5].
-
-The series was part of Bright Star Technology's educational game lineup, which was brought under Sierra's umbrella following the 1992 acquisition[^ref-3]. Despite narrative elements suggesting potential continuation, no third entry in the series was ever developed[^ref-12].
-
-- **Previous:** [[1993 - Spelling Jungle]]
 - [[1993 - Turbo Learning - Mega Math|← Previous: Turbo Learning - Mega Math]]
 
-## References
-
-[^ref-1]: [GameFAQs – Spelling Blizzard](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard) – release date, developer, publisher, platforms, user ratings
-[^ref-2]: [MobyGames – Spelling Blizzard](https://www.mobygames.com/game/97671/spelling-blizzard/) – credits, gameplay description, voice cast, technical specs
-[^ref-3]: [Alchetron – Spelling Jungle](https://alchetron.com/Spelling-Jungle) – version history, trivia, level count, acquisition details
-[^ref-4]: [Internet Archive – Spelling Blizzard (1996)](https://archive.org/details/spelling-blizzard-1996-sierra-mac-pc) – platform releases, file size, PDF manual
-[^ref-5]: [Sierra Chest – Spelling Blizzard General](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=general) – story description, target age, gameplay objectives
-[^ref-6]: [Sierra Chest – Spelling Blizzard Walkthrough](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=walkthrough) – narrative details, gameplay context
-[^ref-7]: [Sierra Chest – Spelling Blizzard Demos](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=demos) – Talking Tutor series, demo collection
-[^ref-8]: [GameFAQs – Spelling Blizzard FAQ](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard/faqs/43897) – alternate names, technical requirements, version history
-[^ref-9]: [TV Tropes – Bright Star Technology Inc](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternate title "Advanced Spelling"
-[^ref-10]: [Hardcore Gaming 101 – Spelling Blizzard](http://www.hardcoregaming101.net/spelling-blizzard/) – difficulty analysis, Yobi quotes, Sierra acquisition
-[^ref-11]: [IGN – Spelling Jungle](http://mac.ign.com/objects/849/849101.html) – Yobi character description
-[^ref-12]: [TV Tropes – Spelling Jungle](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpellingJungle) – Yobi quotes, series information, no sequel
-[^ref-13]: [GameFAQs – Spelling Jungle FAQ](https://gamefaqs.gamespot.com/pc/934972-spelling-jungle/faqs/44591) – controls, gameplay mechanics
-[^ref-14]: [GameFAQs – Spelling Blizzard FAQ Extended](http://www.gamefaqs.com/pc/928889-spelling-blizzard/faqs/43897) – color requirements, control methods
-[^ref-15]: [Wikipedia – Spelling Blizzard](https://en.wikipedia.org/wiki/Spelling_Blizzard) – Computer Gaming World quote, level count, target age
-[^ref-16]: [MobyGames – Spelling Jungle](http://www.mobygames.com/game/spelling-jungle) – gameplay objective, reviewer quote, rating
-[^ref-17]: [Macintosh Repository – Spelling Blizzard](https://www.macintoshrepository.org/3839-spelling-blizzard) – Mac platforms, technical specs
-[^ref-18]: [GameGas – Spelling Blizzard](http://www.gamegas.com/Game-58250.html) – target age, commonly misspelled words
-[^ref-19]: [Justapedia – Spelling Jungle](https://justapedia.org/wiki/Spelling_Jungle) – AllGame rating, Computer Gaming World quote
-[^ref-20]: [Los Angeles Times – Spelling Software Review (December 1993)](https://www.latimes.com/archives/la-xpm-1993-12-03-va-63439-story.html) – Joyce Sunila quotes on spelling education
-[^ref-21]: [Reddit – Sierra Subreddit Discussion](https://www.reddit.com/r/Sierra/comments/1gcne9s/spelling_blizzard_or_spelling_jungle/) – player testimonial on educational impact
-[^ref-22]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – Elon Gasper background, company origins
-[^ref-23]: [MobyGames – Spelling Jungle Trivia](http://www.mobygames.com/game/spelling-jungle/trivia) – original name "Spelling Demons," rename reason
-[^ref-24]: [Classic Reload – Bright Star Technology](https://classicreload.com/developer/Bright%20Star%20Technology) – developer game listings
-[^ref-25]: [Dynamix Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – Sierra company history
-[^ref-26]: [GOG Dreamlist – Spelling Blizzard](https://www.gog.com/dreamlist/game/spelling-blizzard-1994) – educational game classification
-[^ref-27]: [GameSpot – Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – Sierra restructuring
-[^ref-28]: [Reddit – Legacy of Sierra On-Line](https://www.reddit.com/r/Games/comments/a3mtec/legacy_of_sierra_online/) – Sierra corporate history, ownership changes
+## 

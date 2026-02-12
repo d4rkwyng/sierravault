@@ -201,34 +201,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 - [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/)[^ref-8]
 
 ## See Also
-
-3D Ultra Minigolf launched what would become a multi-game franchise spanning from 1997 to 2010. As the first entry in the series, it established the core formula of combining traditional miniature golf elements with fantasy-themed courses and hidden secrets. The game's multiplayer focus and variety of play modes became hallmarks that carried through to subsequent releases.
-
-The series experienced a significant gap when Dynamix closed in 2001, leaving the planned sequel Minigolf Maniacs unfinished. When development resumed in 2006 with Chilean developer Wanako Games, many level designs and mechanics from the cancelled project were incorporated into 3D Ultra Minigolf Adventures.[^ref-5] This connection between the original 1997 game and the 2006 revival demonstrates how franchise continuity can persist even through studio closures and development interruptions.
-
-- **Next:** [[1998 - 3-D Ultra MiniGolf Deluxe]]
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
 
-## References
-
-[^ref-1]: [Sierra Chest – 3D Ultra Minigolf](https://sierrachest.com/index.php?a=g&id=108&fld=s) – developer credits, release date, gameplay features, version history
-[^ref-2]: [GamesFirst – 3D Ultra Minigolf Review](http://gamesfirst.com/reviews/craig/3DMini/3dmini.htm) – gameplay analysis, easter eggs, graphics criticism
-[^ref-3]: [Collection Chamber – 3D Ultra Mini-Golf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) – retrospective review, platform compatibility, series history
-[^ref-4]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – series continuation, reception data
-[^ref-5]: [Wikipedia – 3D Ultra Minigolf Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – franchise history, Minigolf Maniacs cancellation, version details
-[^ref-6]: [MyAbandonware – 3D Ultra Minigolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) – user ratings, technical compatibility, file sizes
-[^ref-7]: [GameSpot – 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) – series history, physics criticism
-[^ref-8]: [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – sequel availability, system requirements
-[^ref-9]: [Internet Archive – 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures) – preservation download
-[^ref-10]: [Andy Merrill Blog – 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) – control mechanics, value assessment
-[^ref-11]: [Eurogamer – 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) – developer information, critical assessment
-[^ref-12]: [GameFAQs – 3D Ultra Minigolf Adventures Review](https://gamefaqs.gamespot.com/pc/939807-3d-ultra-minigolf-adventures/reviews/118653) – control options, technical issues
-[^ref-13]: [GamesRadar+ – 3D Ultra Minigolf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) – physics criticism
-[^ref-14]: [IGN – 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) – scoring, gameplay analysis
-[^ref-15]: [Metacritic – 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – aggregate scores, user reviews
-[^ref-16]: [ZTGD – 3D Ultra Minigolf Adventures Review](https://ztgd.com/reviews/3d-ultra-minigolf-adventures/) – gameplay features
-[^ref-17]: [MobyGames](https://www.mobygames.com/game/4813/3-d-ultra-minigolf/) – Game database entry
-[^ref-18]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-minigolf/3030-15474/) – Game database entry
-[^ref-19]: [IGDB](https://www.igdb.com/games/3-d-ultra-minigolf) – Game database entry
-[^ref-20]: [UVList](https://www.uvlist.net/game-4651-3-D+Ultra+Minigolf) – Universal Videogame List entry
+## 

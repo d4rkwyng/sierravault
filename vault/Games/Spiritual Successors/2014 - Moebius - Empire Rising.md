@@ -134,34 +134,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
 ## See Also
-
-- **Previous:** None (series debut)
-- **Next:** None (planned sequels unreleased)
 - [[2013 - Fester Mudd - Curse of the Gold|← Previous: Fester Mudd - Curse of the Gold]]
 - [[2014 - Quest for Infamy|→ Next: Quest for Infamy]]
 
-## References
-
-[^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information
-[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius:_Empire_Rising) – - Kickstarter funding details
-[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Moebius%3A_Empire_Rising) – - Character description
-[^ref-4]: [FreeGOGPCGames](https://freegogpcgames.com/27163/moebius-empire-rising/) – - Game description
-[^ref-5]: [MobyGames](https://www.mobygames.com/game/67586/moebius-empire-rising/) – - Gameplay mechanics
-[^ref-6]: [Game Critics](https://gamecritics.com/tayo-stalnaker/moebius-empire-rising-review/) – - Genre description
-[^ref-7]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Moebius:_Empire_Rising) – - Platform information
-[^ref-8]: [Game Informer](https://gameinformer.com/games/moebius_empire_rising/b/pc/archive/2014/04/14/moebius-empire-rising-review.aspx) – - Character description
-[^ref-9]: [Gamezebo](https://www.gamezebo.com/walkthroughs/moebius-empire-rising-walkthrough/) – - Moebius Theory explanation
-[^ref-10]: [Cult of Mac](https://www.cultofmac.com/274545/get-bromance-jane-jensens-moebius-empire-rising/) – - Plot description
-[^ref-11]: [Game Boomers](https://www.gameboomers.com/wtcheats/pcMm/Moebius/Moebius.htm) – - Thematic quote
-[^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MoebiusEmpireRising) – - Interface details
-[^ref-13]: [Eurogamer.de](http://www.eurogamer.de/articles/2014-04-25-moebius-empire-rising) – - Gameplay duration
-[^ref-14]: [JayIsGames](https://jayisgames.com/review/moebius-empire-rising.php) – - Story structure
-[^ref-15]: [GOG](https://www.gog.com/en/game/moebius) – - Character abilities description
-[^ref-16]: [Choicest Games](https://www.choicestgames.com/2014/04/moebius-empire-rising-review.html) – - Profiling mechanic
-[^ref-17]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=686312239) – - Easter eggs
-[^ref-18]: [GameSpot](http://www.gamespot.com/reviews/moebius-empire-rising-review/1900-6415730/) – - Review quote
-[^ref-19]: [PCGamesN](https://www.pcgamesn.com/moebius-empire-rising-review) – - Review criticism
-[^ref-20]: [Metacritic](https://www.metacritic.com/game/moebius-empire-rising/critic-reviews/?platform=pc) – - USgamer score
-[^ref-21]: [Steam](https://store.steampowered.com/app/264520/Moebius_Empire_Rising/) – - User review aggregate
-[^ref-22]: [Choicest Games](https://www.choicestgames.com/2014/05/moebius-empire-rising-soundtrack-review_26.html) – - Composer information
-[^ref-23]: [IMDb Cast](https://www.imdb.com/title/tt4054536/fullcredits/) – - Additional voice cast details
+## 

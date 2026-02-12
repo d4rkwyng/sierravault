@@ -261,48 +261,7 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 - [Manual Machine - Official Manual](https://manualmachine.com/gamespc/empireearththeartofconquest/1118660-user-manual/)
 
 ## See Also
-
-Empire Earth: The Art of Conquest serves as the bridge between the original 2001 Empire Earth and its sequel Empire Earth II (2005). While the expansion didn't dramatically alter the series' formula, it established the precedent for the franchise's continued focus on spanning all of human history and beyond. The civilization powers system introduced in The Art of Conquest would influence later entries, though Empire Earth II would be developed by Mad Doc Software—the same team behind this expansion—rather than original creator Stainless Steel Studios.
-
-- **Previous:** [[2001 - Empire Earth]]
 - **Next:** Empire Earth II (2005)
 - [[2001 - Empire Earth|← Previous: Empire Earth]]
 
-## References
-
-[^ref-1]: [Wikipedia – Empire Earth: The Art of Conquest](https://en.wikipedia.org/wiki/Empire_Earth%3A_The_Art_of_Conquest) – development history, release dates, sales data, reception, developer transfer information
-[^ref-2]: [Strategy Informer – Preview (Wayback Machine)](https://web.archive.org/web/20070212145024/http://www.strategyinformer.com/pc/empireearththeartofconquest/preview.html) – awards, sales data, Space Age epoch details
-[^ref-3]: [GameSpy – Empire Earth: The Art of Conquest](http://pc.gamespy.com/pc/empire-earth-the-art-of-conquest/) – game features, civilization examples, ESRB rating
-[^ref-4]: [GameSpot – Empire Earth Expansion Ships](https://www.gamespot.com/articles/empire-earth-expansion-ships/1100-2880491/) – release announcement, pricing, sales figures
-[^ref-5]: [IGN – Preview Article](https://www.ign.com/articles/2002/06/21/empire-earth-the-art-of-conquest-3) – development insights, studio visit, design philosophy
-[^ref-6]: [IGN – Review (Wayback Machine)](https://web.archive.org/web/20021002080953/http://pc.ign.com/articles/372/372262p2.html) – detailed review scores, technical issues, gameplay critique
-[^ref-7]: [Empire Earth Fandom Wiki](https://empireearth.fandom.com/wiki/Empire_Earth:_The_Art_of_Conquest) – campaign descriptions, robot mechanics, multiplayer shutdown date
-[^ref-8]: [Rotten Tomatoes – Overview (Wayback Machine)](https://web.archive.org/web/20060702194811/http://www.rottentomatoes.com/g/pc_games/empire_earth_art_of_conquest/overview.php) – features list, ESRB rating, military heroes
-[^ref-9]: [Manual Machine – Official Manual](https://manualmachine.com/gamespc/empireearththeartofconquest/1118660-user-manual/) – lore details, publisher information, system requirements
-[^ref-10]: [eBay – Product Listing](https://www.ebay.com/p/9990) – user reviews, product specifications, customer perspectives
-[^ref-11]: [Neoseeker – Cheats](https://www.neoseeker.com/empireearth-aoc/cheats/pc/) – cheat codes, gameplay tips
-[^ref-12]: [eBay – Listing Details](https://www.ebay.com/itm/325370247754) – technical specifications, player count
-[^ref-13]: [Vipansoft – Download Page](https://empire-earth-the-art-of-conquest.vipansoft.com/download) – variable difficulty information
-[^ref-14]: [SuperCheats – Powers Walkthrough](https://www.supercheats.com/pc/walkthroughs/empireearth-walkthrough04.txt) – civilization powers system, costs, epoch restrictions
-[^ref-15]: [Metacritic – Reviews](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/) – GameZone review quote, aggregate data
-[^ref-16]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/empire-earth-the-art-of-conquest/critic-reviews/) – multiple review scores, ActionTrip critique
-[^ref-17]: [GameSpot – Review (Wayback Machine)](https://web.archive.org/web/20070930065525/http://www.gamespot.com/pc/strategy/empireearththeartofc/review.html?sid=2881249) – Tom Chick review, Space Age criticism
-[^ref-18]: [GameRankings (Archive.today)](https://archive.today/20121206005046/http://www.gamerankings.com/htmlpages2/561395.asp?q=Empire%20Earth) – aggregate score, individual review scores, rankings
-[^ref-19]: [IMDb – Empire Earth: The Art of Conquest](https://www.imdb.com/title/tt9769662/) – director credit, user rating, release date
-[^ref-20]: [Scribd – Document Summary](https://www.scribd.com/doc/158008462/fdffgghghgg) – Space Age buildings and features
-[^ref-21]: [PCGamingWiki – Empire Earth](https://www.pcgamingwiki.com/wiki/Empire_Earth) – technical specifications, known bugs, patch information
-[^ref-22]: [GameSpy (Wayback Machine)](https://web.archive.org/web/20070205214950/http://pc.gamespy.com/pc/empire-earth-the-art-of-conquest/) – multiplayer specifications
-[^ref-23]: [GameCopyWorld](https://gamecopyworld.com/games/pc_empire_earth_aoc.shtml) – copy protection information
-[^ref-24]: [Empire Earth Community – Help](https://empireearth.eu/help/) – technical issues, networking ports, DirectX information
-[^ref-25]: [GameFAQs – Review](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/reviews/48407) – cut content, audio issues
-[^ref-26]: [GameFAQs – FAQs Page](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/faqs) – alternate titles, planned features
-[^ref-27]: [GPstore Australia (Wayback Machine)](https://web.archive.org/web/20030523232854/http://www.gpstore.com.au/product.x?1456542) – Australian release date, pricing
-[^ref-28]: [GameSpot – Version Information (Wayback Machine)](https://web.archive.org/web/20070929161557/http://www.gamespot.com/pc/strategy/empireearththeartofc/similar.html?mode=versions) – regional release dates, Capcom publishing
-[^ref-29]: [Reddit – Ed Lima Composer Thread](https://www.reddit.com/r/empireearth/comments/6ctzyx/ed_lima_the_composer_of_the_first_empire_earth/) – main theme lyrics
-[^ref-30]: [VU Games Forums (Wayback Machine)](https://web.archive.org/web/20070404214955/http://forums.vugames.com/category.jspa?categoryID=30) – anti-cheating warning, forum activity
-[^ref-31]: [Empire Earth Community – Download](https://empireearth.eu/download/) – digital availability, community versions
-[^ref-32]: [Shacknews – Server Shutdown (Wayback Machine)](https://web.archive.org/web/20090531141202/http://www.shacknews.com/onearticle.x/55173) – server shutdown details, date
-[^ref-33]: [ModDB – EPO Mod](https://www.moddb.com/mods/empire-earth-aoc-by-epomod/downloads/empire-earth-the-art-of-conquest-by-epo) – mod features, download statistics
-[^ref-34]: [GitHub – EE Tweaks Mod](https://github.com/firebirdblue23/ee-tweaks-mod) – performance fixes, 4GB patch
-[^ref-35]: [AbeBooks – Strategy Guide](https://www.abebooks.com/9780761539810/Empire-Earth-Art-Conquest-Primas-0761539816/plp) – guide details, ISBN, page count
-[^ref-36]: [Wildfire Games Forum – Review Discussion](https://wildfiregames.com/forum/topic/349-game-review-empire-earth-art-of-conquest/) – community reception, criticism
+## 

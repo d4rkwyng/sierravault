@@ -214,26 +214,7 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 
 ## See Also
-
-Hoyle Slots and Video Poker 2000 was released as part of a substantial Hoyle game lineup in 2000, which also included Hoyle Board Games 2001, Hoyle Crosswords, Hoyle Kids Games, and Hoyle Mahjong Tiles[^ref-8]. The title focused specifically on slot machine and video poker gameplay, differentiating it from the broader Hoyle Casino products that included table games and other casino offerings.
-
-The Hoyle series would continue with dedicated slots titles including Hoyle Slots in 2001, demonstrating the commercial viability of machine-focused casino simulations[^ref-8]. The series maintained continuous publication through multiple publishers over the following decades, adapting to changing operating systems and consumer preferences.
-
-- **Previous:** [[2000 - Hoyle Casino]]
-- **Next:** [[2000 - Hoyle Slots and Video Poker|Hoyle Slots]]
 - [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
 
-## References
-
-[^ref-7]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – release date, developer, publisher, UPC
-[^ref-2]: [Medium – The History of Hoyle Slots Video and Poker](https://medium.com/@mpmgcllc/the-history-of-hoyle-slots-video-and-poker-game-creation-development-0bff30277a87) – series history, naming origin, market pricing, compatibility
-[^ref-3]: [Amazon Canada – Hoyle Slots Video Poker Racing](https://www.amazon.ca/Hoyle-Slots-Video-Poker-Racing/dp/B00094DZ8Q) – publisher, platforms, game features, customer rating
-[^ref-4]: [MobyGames – Hoyle Slots & Video Poker](https://www.mobygames.com/game/79577/hoyle-slots-video-poker/) – release date, machine list, denominations, payout rates, ELSPA rating, technical specs
-[^ref-5]: [GameFAQs – Hoyle Slots and Video Poker](https://gamefaqs.gamespot.com/pc/578908-hoyle-slots-and-video-poker) – release dates, developer, publisher, user ratings
-[^ref-6]: [Newegg – Hoyle Slots and Video Poker](https://www.newegg.com/encore-software-hoyle-slots-and-video-poker/p/N82E16832196123) – system requirements, ESRB rating, features, listing date
-[^ref-8]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – series listing, perspectives, controls, genre classification
-[^ref-9]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – sales data, publisher transition, bug issues, platform releases[^ref-9]: [Giant Bomb - Hoyle Slots](https://www.giantbomb.com/hoyle-slots-and-video-poker/) - wiki
-[^ref-10]: [IGDB - Hoyle Slots](https://www.igdb.com/games/hoyle-slots-and-video-poker) - IGDB
-[^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
-[^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
+## 
