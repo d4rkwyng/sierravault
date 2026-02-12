@@ -130,7 +130,7 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 |------|-------|------|
 | 1992 | Ringworld: Revenge of the Patriarch | Game Designer, TsAGE Engine |
 | 1992 | Wacky Funsters: The Geekwad's Guide to Gaming | TsAGE Engine |
-| 1993 | [[1993 - Blue Force|Blue Force]] | TsAGE System Development |
+| 1993 | [[1993 - Blue Force\|Blue Force]] | TsAGE System Development |
 | 1993 | The Geekwad: Games of the Galaxy | TsAGE Engine |
 | 1993 | Protostar: War on the Frontier | TsAGE Engine |
 

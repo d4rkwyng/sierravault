@@ -80,7 +80,7 @@ Beyond his direct contributions to specific games, Ledger's career represents an
 | Year | Title | Company | Role |
 |------|-------|---------|------|
 | 1992 | Ringworld: Revenge of the Patriarch | Tsunami Games | Background Artist |
-| 1993 | [[1993 - Blue Force|Blue Force]] | Tsunami Games | Background Artist |
+| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Games | Background Artist |
 | 1996 | Blood & Magic | TSR, Inc. | Background Illustrator (posthumous) |
 
 ### Posthumous Tributes (2021–2023)
