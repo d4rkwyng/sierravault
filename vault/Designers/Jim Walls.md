@@ -55,7 +55,7 @@ After Blue Force, Walls contracted with two other companies—Tachyon Studios an
 
 In 1996, Walls was contracted by Louis Castle to work for Las Vegas-based Westwood Studios, beginning a seven-year tenure that would take him into the era of 3D gaming.[^ref-4][^ref-1] His first project was the critically acclaimed Blade Runner (1997), where he served as co-designer alongside David Leary, bringing his police expertise to make the game's investigative segments as authentic as possible.[^ref-4][^ref-17]
 
-Blade Runner was a point-and-click adventure game based on the iconic 1982 film, featuring Westwood's innovative "Real Time" system and following a rookie blade runner named Ray McCoy investigating a case of replicant activity in 2019 Los Angeles.[^ref-44] Walls received credits for design and additional voices on the project.[^ref-18] The game was praised for its atmosphere and storytelling, and Walls' contribution to the police procedural elements helped ground the sci-fi narrative in authentic investigative work.
+Blade Runner was a point-and-click adventure game based on the iconic 1982 film, featuring Westwood's innovative "Real Time" system and following a rookie blade runner named Ray McCoy investigating a case of replicant activity in 2019 Los Angeles.[^ref-28] Walls received credits for design and additional voices on the project.[^ref-18] The game was praised for its atmosphere and storytelling, and Walls' contribution to the police procedural elements helped ground the sci-fi narrative in authentic investigative work.
 
 Following Blade Runner's success, Walls was offered a full-time design position at Westwood Studios.[^ref-1] He went on to contribute to two major projects in 2002: Pirates: The Legend of Black Kat, an action-adventure game featuring both ship-to-ship combat and third-person exploration, and Earth & Beyond, an ambitious science fiction MMORPG.[^ref-1][^ref-1]
 
@@ -167,3 +167,4 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 [^ref-25]: [YouTube Interview](https://www.youtube.com/watch?v=gSLWzPvgpuk) — Educational mission success
 [^ref-26]: [PC Gamer - Police Quest Training Tool](https://www.pcgamer.com/crapshoot-police-quest-which-was-horrifyingly-used-as-a-training-tool-by-real-cops/) — Real-world training use
 [^ref-27]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — Criminal justice career influence
+[^ref-28]: [Wikipedia - Blade Runner (1997 video game)](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)) — Game details, Ray McCoy protagonist, 2019 Los Angeles setting
