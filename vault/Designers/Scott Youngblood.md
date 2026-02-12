@@ -101,12 +101,12 @@ The technical innovations required to support Tribes' large-scale battles and co
 | 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | Lead Designer |
 | 1999 | [[1999 - Front Page Sports - Ski Racing 99\|Front Page Sports: Ski Racing 99]] | Designer |
 | 2001 | [[2001 - Tribes 2\|Tribes 2]] | Lead Designer |
-| 2001 | Majestic: Special Edition | Content Team |
 
-### Post-Sierra (2004–2022)
+### Post-Sierra (2001–2022)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
+| 2001 | Majestic: Special Edition | Electronic Arts | Content Team |
 | 2004 | Syphon Filter: The Omega Strain | Sony Computer Entertainment | Lead Multiplayer Designer |
 | 2006 | Syphon Filter: Dark Mirror | Sony Computer Entertainment | Lead Multiplayer Designer |
 | 2007 | Syphon Filter: Logan's Shadow | Sony Computer Entertainment | Special Thanks |
