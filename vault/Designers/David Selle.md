@@ -115,3 +115,25 @@ Selle's influence continues through his educational work and business developmen
 [^ref-15]: [Steam Community Discussion](https://steamcommunity.com/app/10110/discussions/0/487870763297898809/) — Community discussion about Sierra games
 [^ref-16]: [Shadow Covenant Blog](http://shadowcovenant.com/blog/tag/kings-quest-space-quest-quest-for-glory-police-quest-leisure-suit-larry-laura-bow-colonels-bequest-dagger-of-amon-ra-gabriel-knight-graphical-adventures-games-of-my-life/) — Sierra adventure game retrospective
 [^ref-17]: [Retro Gamer](https://www.retrogamer.net/?s=David+Selle) — Retro gaming coverage and interviews
+[^ref-18]: [DigiPen Institute of Technology - Wikipedia](https://en.wikipedia.org/wiki/DigiPen_Institute_of_Technology) — Information about DigiPen's game development programs and history
+[^ref-19]: [Harvard Graduate School of Design - Wikipedia](https://en.wikipedia.org/wiki/Harvard_Graduate_School_of_Design) — Information about Harvard GSD teaching positions and programs
+[^ref-20]: [Nyriad Company Profile](https://www.nyriad.com/) — Enterprise technology solutions company information
+[^ref-21]: [Metaltech: EarthSiege - Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Metaltech:+Earthsiege&gid=2958) — Game information and credits listing David Selle as designer
+[^ref-22]: [EarthSiege 2 - Wikipedia](https://en.wikipedia.org/wiki/Earthsiege_2) — Game design information including tactical combat mechanics
+[^ref-23]: [Starsiege - Wikipedia](https://en.wikipedia.org/wiki/Starsiege) — Universe background and Cybrid/GAIA storyline information
+[^ref-24]: [EarthSiege 2 - Wikipedia](https://en.wikipedia.org/wiki/Earthsiege_2) — Sequel development and improvements over original EarthSiege
+[^ref-25]: [Starsiege Review - IGN](https://www.ign.com/articles/1999/04/07/starsiege) — Critical analysis of EarthSiege series gameplay improvements
+[^ref-26]: [EarthSiege 2 - Wikipedia](https://en.wikipedia.org/wiki/Earthsiege_2) — Critical reception from GameSpot, Computer Gaming World, and Next Generation
+[^ref-27]: [Starsiege - Wikipedia](https://en.wikipedia.org/wiki/Starsiege) — Game positioning as continuation of EarthSiege universe
+[^ref-28]: [Starsiege - Wikipedia](https://en.wikipedia.org/wiki/Starsiege) — Human, Cybrid, and Imperial faction gameplay details
+[^ref-29]: [Starsiege: Tribes - Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) — Spin-off relationship and development at Dynamix
+[^ref-30]: [LinkedIn Profile - David Selles](https://www.linkedin.com/in/davidselles/) — Personal philosophy statement and professional summary
+[^ref-31]: [Starsiege Review - IGN](https://www.ign.com/articles/1999/04/07/starsiege) — Vehicle customization and loadout systems in EarthSiege series
+[^ref-32]: [LinkedIn Profile - David B. Selle](https://www.linkedin.com/in/davidbselle/) — Professional recommendations and endorsements
+[^ref-33]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Adventure game development history and team collaborations
+[^ref-34]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Metaltech series development and genre influence
+[^ref-35]: [Dynamix - Wikipedia](https://en.wikipedia.org/wiki/Dynamix) — Studio reputation for simulators and adventure games in the 1990s
+[^ref-36]: [Citizen Schools - Wikipedia](https://en.wikipedia.org/wiki/Citizen_Schools) — Presidential Volunteer Service Award program information
+[^ref-37]: [Harvard Graduate School of Design - Wikipedia](https://en.wikipedia.org/wiki/Harvard_Graduate_School_of_Design) — GSD teaching and educational mission
+[^ref-38]: [Scrum (project management) - Wikipedia](https://en.wikipedia.org/wiki/Scrum_(software_development)) — SCRUM certification and agile methodology background
+[^ref-39]: [Hi-Rez Studios - Wikipedia](https://en.wikipedia.org/wiki/Hi-Rez_Studios) — Current ownership of Metaltech/EarthSiege franchise and legacy
