@@ -74,7 +74,7 @@ However, Gates' gaming legacy remains inseparable from his reputation as a polar
 | Year | Title | Role |
 |------|-------|------|
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer/Consultant |
-| 1995 | Police Quest: SWAT | Consultant |
+| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Consultant |
 | 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Consultant |
 ## References
 
