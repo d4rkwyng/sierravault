@@ -30,23 +30,39 @@ table th[data-sort-dir="desc"] .sort-indicator {
 
 /* ===== SPOILER STYLES ===== */
 
-/* Inline spoiler - blacked out until hover/tap */
+/* Inline spoiler - blacked out until click */
 .spoiler {
-  background-color: var(--text-normal);
-  color: var(--text-normal);
-  padding: 1px 4px;
-  border-radius: 3px;
+  background-color: var(--text-normal, #1a1a1a);
+  color: var(--text-normal, #1a1a1a);
+  padding: 2px 6px;
+  border-radius: 4px;
   cursor: pointer;
   transition: all 0.2s ease;
   user-select: none;
+  display: inline;
 }
 
-.spoiler:hover,
-.spoiler:focus,
 .spoiler.revealed {
-  background-color: var(--background-modifier-hover);
-  color: var(--text-normal);
+  background-color: var(--background-modifier-hover, #333);
+  color: var(--text-normal, #dcddde);
   user-select: auto;
+}
+
+/* Don't reveal on hover - require click */
+.spoiler:not(.revealed):hover {
+  background-color: var(--text-muted, #444);
+  color: var(--text-muted, #444);
+}
+
+/* Mark elements used as spoilers (==SPOILER: text==) */
+mark.spoiler {
+  background-color: var(--text-normal, #1a1a1a);
+  color: var(--text-normal, #1a1a1a);
+}
+
+mark.spoiler.revealed {
+  background-color: var(--text-highlight-bg, #fff3a3);
+  color: var(--text-normal, #dcddde);
 }
 
 /* Mobile tap support */

@@ -192,3 +192,77 @@
 
   observer.observe(document.body, { childList: true, subtree: true });
 })();
+
+// Spoiler Text Support
+// Click to reveal hidden spoiler content
+(function() {
+  function initSpoilers() {
+    // Handle span.spoiler elements (if raw HTML is preserved)
+    document.querySelectorAll('.spoiler').forEach(el => {
+      if (el.dataset.spoilerInit) return;
+      el.dataset.spoilerInit = 'true';
+      
+      el.addEventListener('click', function() {
+        this.classList.toggle('revealed');
+      });
+      
+      // Also handle touch for mobile
+      el.addEventListener('touchend', function(e) {
+        e.preventDefault();
+        this.classList.toggle('revealed');
+      });
+    });
+    
+    // Alternative: Convert ==highlighted text== to spoilers
+    // Obsidian uses <mark> for ==text==
+    document.querySelectorAll('mark').forEach(el => {
+      // Check if it starts with SPOILER: marker
+      if (el.textContent.startsWith('SPOILER:')) {
+        if (el.dataset.spoilerInit) return;
+        el.dataset.spoilerInit = 'true';
+        
+        // Convert to spoiler
+        el.textContent = el.textContent.replace('SPOILER:', '').trim();
+        el.classList.add('spoiler');
+        el.classList.remove('mark');
+        
+        el.addEventListener('click', function() {
+          this.classList.toggle('revealed');
+        });
+      }
+    });
+    
+    // Alternative: Convert inline code with spoiler prefix
+    // `SPOILER: hidden text` 
+    document.querySelectorAll('code').forEach(el => {
+      if (el.textContent.startsWith('SPOILER:')) {
+        if (el.dataset.spoilerInit) return;
+        el.dataset.spoilerInit = 'true';
+        
+        const wrapper = document.createElement('span');
+        wrapper.className = 'spoiler';
+        wrapper.textContent = el.textContent.replace('SPOILER:', '').trim();
+        
+        wrapper.addEventListener('click', function() {
+          this.classList.toggle('revealed');
+        });
+        
+        el.replaceWith(wrapper);
+      }
+    });
+  }
+  
+  // Run on page load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initSpoilers);
+  } else {
+    setTimeout(initSpoilers, 100);
+  }
+  
+  // Re-run when Obsidian Publish navigates
+  const observer = new MutationObserver(() => {
+    setTimeout(initSpoilers, 100);
+  });
+  
+  observer.observe(document.body, { childList: true, subtree: true });
+})();
