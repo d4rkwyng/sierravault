@@ -4,12 +4,12 @@ type: designer
 birth_year: null
 death_year: null
 notable_games: ["Gabriel Knight: Sins of the Fathers", "The Beast Within: A Gabriel Knight Mystery", "Gray Matter"]
-companies: ["Sierra On-Line", "Pinkerton Road Studio", "Acclaim Entertainment"]
-last_updated: "2026-01-14"
+companies: ["Sierra On-Line", "Pinkerton Road Studio", "Oberon Media"]
+last_updated: "2026-02-12"
 ---
 # Robert Holmes
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Holmes began his musical journey as a teenager, recalling his first paid gig wit
 
 Holmes's entry into the video game industry came through his collaboration with Jane Jensen, whom he would later marry.[^ref-12] This partnership would become one of the most successful creative collaborations in adventure gaming history, with Holmes providing the musical foundation for Jensen's narrative visions.[^ref-13]
 
-### Sierra Years
+### Sierra Years (1991–1999)
 
 Holmes's most significant contributions to gaming occurred during the golden age of Sierra On-Line, where he worked extensively with Jane Jensen on the Gabriel Knight series and other adventure titles.[^ref-14] His first major success came with [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] in 1993, where his atmospheric compositions helped establish the dark, supernatural tone of New Orleans that would become synonymous with the series.[^ref-15]
 
@@ -35,9 +35,13 @@ The success of the first Gabriel Knight game led to [[1995 - The Beast Within - 
 
 The Gabriel Knight trilogy was completed with [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] in 1999, which maintained the series' musical cohesion while exploring new thematic territory.[^ref-18] As critic Ingrid Heyn noted, "The sense of series cohesion between the games was due at least partly to the consistent musical treatment as well as the strong narrative connection."[^ref-19]
 
-### Later Career
+### Post-Sierra Career (2003–Present)
 
 Following his Sierra years, Holmes expanded his role in the industry, serving as President of Acclaim Entertainment in 1996 during a period of significant industry consolidation.[^ref-20] In this role, he provided strategic leadership and commentary on the evolving video game market, predicting that "There will be a Gestalt emerging from all this sound and fury that the market is alive and well" regarding industry health during the 1996 Electronic Entertainment Exposition.[^ref-5]
+
+Holmes continued composing for games outside the Sierra sphere, including work on the Inspector Parker puzzle game series developed by Oberon Media. He composed the music for [[Inspector Parker]] (2003) and [[Inspector Parker in Betrapped!]] (2004), the latter in collaboration with Ashif Hakik.[^ref-47] These casual games, while different in tone from his adventure game work, demonstrated his versatility as a composer.
+
+Holmes also contributed the song "Young Goodman Brown" to [[Charlaine Harris: Dying for Daylight]] (2011), a hidden object adventure game based on the Sookie Stackhouse novels, working alongside Raleigh Holmes, Buck Wilcox, and Tom Chan.[^ref-48]
 
 Holmes continued his creative partnership with Jane Jensen through their independent studio work, contributing to [[2010 - Gray Matter\|Gray Matter]] in 2010 and later [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] in 2014.[^ref-21] He also worked on the [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] in 2014, bringing his classic compositions to a new generation of players.[^ref-22]
 
@@ -75,20 +79,30 @@ Holmes's influence on the adventure game genre has been recognized through vario
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Sierra On-Line (1991–1999)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1991 | [[1991 - Hoyle Official Book of Games - Volume 4\|Hoyle Official Book of Games: Volume 4]] | Composer |
 | 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Composer |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Composer/Co-Designer |
-| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Composer/Co-Designer |
 | 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Composer |
-| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | Composer/Co-Designer |
-| 2010 | [[2010 - Gray Matter\|Gray Matter]] | Composer/Co-Designer |
-| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Composer |
-| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Composer/Co-Designer |
-| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Composer/Co-Designer |
-| TBD | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Composer/Co-Designer |
-| | Lola and Lucy's Big Adventure | Composer |
+| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Composer, Co-Designer |
+| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Composer, Co-Designer |
+| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | Composer, Co-Designer |
+
+### Post-Sierra (2003–Present)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2003 | Inspector Parker | Oberon Media | Composer |
+| 2004 | Inspector Parker in Betrapped! | Oberon Media | Composer |
+| 2010 | [[2010 - Gray Matter\|Gray Matter]] | WizarBox | Composer, Co-Designer |
+| 2011 | Charlaine Harris: Dying for Daylight | Big Fish Games | Song ("Young Goodman Brown") |
+| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Phoenix Online Studios | Composer |
+| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Pinkerton Road Studio | Composer, Co-Designer |
+| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Pinkerton Road Studio | Composer, Co-Designer |
+| TBD | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Pinkerton Road Studio | Composer, Co-Designer |
+| — | Lola and Lucy's Big Adventure | Pinkerton Road Studio | Composer |
 
 ## References
 
@@ -138,3 +152,5 @@ Holmes's influence on the adventure game genre has been recognized through vario
 [^ref-44]: [Bandcamp Album](https://robertholmessoundtracks.bandcamp.com/album/a-simple-refrain-the-game-themes-of-robert-holmes) — Fan testimonial about lasting impact
 [^ref-45]: [Dr Who Interviews](https://drwhointerviews.wordpress.com/tag/robert-holmes/) — Industry recognition and influence
 [^ref-46]: [Indiegogo Campaign](https://www.indiegogo.com/projects/sequel-new-game-themes-by-robert-holmes) — Award recognition and influence on other composers
+[^ref-47]: [VGMPF Wiki](https://www.vgmpf.com/Wiki/index.php?title=Robert_Holmes) — Inspector Parker series credits
+[^ref-48]: [VGMPF Wiki](https://www.vgmpf.com/Wiki/index.php?title=Robert_Holmes) — Charlaine Harris: Dying for Daylight credits
