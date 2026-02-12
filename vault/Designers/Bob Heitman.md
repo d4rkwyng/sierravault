@@ -41,7 +41,7 @@ Rising through Sierra's ranks, Heitman eventually served as VP of Engineering an
 
 After leaving Sierra in late 1991, Heitman contracted with Tsunami Media, a company founded by former Sierra employees including CFO Edmond Heinbockel.[^ref-4] At Tsunami, he created the TsAGE (Tsunami Adventure Game Engine), which was essentially a refurnished SCI engine rebuilt independently so Sierra's legal team couldn't challenge it.[^ref-4] The engine powered all of Tsunami's adventure and strategy titles.
 
-His most significant Tsunami project was [[1992 - Ringworld - Revenge of the Patriarch\|Ringworld: Revenge of the Patriarch]] (1992), based on Larry Niven's Known Space novels, for which he served as Game Designer.[^ref-11] He also developed the TsAGE engine that powered [[1993 - Blue Force\|Blue Force]], Jim Walls's spiritual successor to the Police Quest series,[^ref-4] as well as Wacky Funsters: The Geekwad's Guide to Gaming (1992), The Geekwad: Games of the Galaxy (1993), and Protostar: War on the Frontier (1993).[^ref-12]
+His most significant Tsunami project was Ringworld: Revenge of the Patriarch (1992), based on Larry Niven's Known Space novels, for which he served as Game Designer.[^ref-11] He also developed the TsAGE engine that powered Blue Force, Jim Walls's spiritual successor to the Police Quest series,[^ref-4] as well as Wacky Funsters: The Geekwad's Guide to Gaming (1992), The Geekwad: Games of the Galaxy (1993), and Protostar: War on the Frontier (1993).[^ref-12]
 
 During this period, Heitman also created the Passport2 online gaming network for Tsunami, continuing his work in the emerging online multiplayer space.[^ref-2]
 
@@ -49,7 +49,7 @@ During this period, Heitman also created the Passport2 online gaming network for
 
 In 1993, Heitman founded Triton Interactive, his own consulting and programming company based in Oakhurst, California.[^ref-3] This allowed him to work with multiple clients across the gaming industry while maintaining independence.
 
-His post-Sierra work included significant projects across multiple genres. For Interplay, he contributed as Additional System Programmer on [[1993 - Star Trek - Judgment Rites\|Star Trek: Judgment Rites]].[^ref-13] He programmed Man Enough (1994) and Dinonauts (1995), both games that emerged from the Tsunami/Triton circle.[^ref-1]
+His post-Sierra work included significant projects across multiple genres. For Interplay, he contributed as Additional System Programmer on Star Trek: Judgment Rites.[^ref-13] He programmed Man Enough (1994) and Dinonauts (1995), both games that emerged from the Tsunami/Triton circle.[^ref-1]
 
 Heitman's most acclaimed freelance project was [[1995 - Shannara\|Shannara]] for Legend Entertainment, based on Terry Brooks's fantasy novels. Working with Corey Cole—whom he had supervised at Sierra—Heitman programmed the map and combat systems ("RPG lite") for what became Legend's last and best-selling game.[^ref-9] The Coles hired several ex-Sierra people to work on Shannara, and Heitman's experience with both adventure game engines and RPG mechanics made him ideal for the project.
 
@@ -73,7 +73,7 @@ After leaving Sierra, Heitman created TsAGE for Tsunami Media, rebuilding Sierra
 
 ### Ringworld: Revenge of the Patriarch (1992)
 
-As Game Designer on [[1992 - Ringworld - Revenge of the Patriarch\|Ringworld: Revenge of the Patriarch]], Heitman applied his Sierra experience to adapting Larry Niven's Hugo Award-winning science fiction novels for interactive entertainment.[^ref-11] The game demonstrated that Tsunami could produce adventure games competitive with Sierra's output, featuring the same style of point-and-click interface and puzzle-driven gameplay.
+As Game Designer on Ringworld: Revenge of the Patriarch, Heitman applied his Sierra experience to adapting Larry Niven's Hugo Award-winning science fiction novels for interactive entertainment.[^ref-11] The game demonstrated that Tsunami could produce adventure games competitive with Sierra's output, featuring the same style of point-and-click interface and puzzle-driven gameplay.
 
 ### King's Quest IV: The Perils of Rosella (1988)
 
@@ -117,9 +117,9 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 | 1988 | [[1988 - Gold Rush\|Gold Rush!]] | Programmer |
 | 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | System Programmer |
 | 1989 | [[1989 - Manhunter - San Francisco\|Manhunter 2: San Francisco]] | Programmer |
-| 1989 | [[1989 - Hoyle - Official Book of Games - Volume 1\|Hoyle: Official Book of Games Vol. 1]] | Development System |
-| 1990 | [[1990 - Hoyle - Official Book of Games - Volume 2\|Hoyle: Official Book of Games Vol. 2]] | Development System |
-| 1990 | [[1990 - Hoyle - Official Book of Games - Volume 3\|Hoyle: Official Book of Games Vol. 3]] | Development System |
+| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games Vol. 1]] | Development System |
+| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle: Official Book of Games Vol. 2]] | Development System |
+| 1990 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle: Official Book of Games Vol. 3]] | Development System |
 | 1990 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Development System |
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Development System |
 | 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Development System |
@@ -128,9 +128,9 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 
 | Year | Title | Role |
 |------|-------|------|
-| 1992 | [[1992 - Ringworld - Revenge of the Patriarch\|Ringworld: Revenge of the Patriarch]] | Game Designer, TsAGE Engine |
+| 1992 | Ringworld: Revenge of the Patriarch | Game Designer, TsAGE Engine |
 | 1992 | Wacky Funsters: The Geekwad's Guide to Gaming | TsAGE Engine |
-| 1993 | [[1993 - Blue Force\|Blue Force]] | TsAGE System Development |
+| 1993 | Blue Force | TsAGE System Development |
 | 1993 | The Geekwad: Games of the Galaxy | TsAGE Engine |
 | 1993 | Protostar: War on the Frontier | TsAGE Engine |
 
@@ -138,7 +138,7 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1993 | [[1993 - Star Trek - Judgment Rites\|Star Trek: Judgment Rites]] | Interplay | Additional System Programmer |
+| 1993 | Star Trek: Judgment Rites | Interplay | Additional System Programmer |
 | 1994 | Man Enough | Tsunami Media | Programming |
 | 1995 | Dinonauts | Legacy Software | Programming |
 | 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment | Programmer (Map/Combat) |
