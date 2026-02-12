@@ -43,13 +43,13 @@ His final major Cinemaware projects included Wings (1990), a critically acclaime
 
 After a brief stay at New World Computing following Cinemaware's closure, Cutter joined Dynamix in 1991, bringing his cinematic sensibilities to the Sierra On-Line family of studios.[^ref-1] At Dynamix, he took on his most ambitious project yet: [[1993 - Betrayal at Krondor\|Betrayal at Krondor]], a role-playing game set in Raymond E. Feist's Riftwar universe.
 
-Cutter served as both designer and director on Betrayal at Krondor, working alongside writer Neal Hallford to craft a narrative experience that emulated Feist's writing style.[^ref-20] The game was designed to resemble a book, featuring chapters and third-person narration, representing a significant evolution in RPG storytelling.[^ref-21] Released in 1993, Betrayal at Krondor became one of the most beloved RPGs of the decade, with its influence still felt in modern game design.[^ref-3]
+Cutter served as both designer and director on Betrayal at Krondor, working alongside writer Neal Hallford to craft a narrative experience that emulated Feist's writing style.[^ref-20] The game was designed to resemble a book, featuring chapters and third-person narration, representing a significant evolution in RPG storytelling.[^ref-3] Released in 1993, Betrayal at Krondor became one of the most beloved RPGs of the decade, with its influence still felt in modern game design.[^ref-3]
 
-The success of Betrayal at Krondor led to plans for a sequel, but internal decisions at Dynamix left "Cutter and his design talents looking for a home."[^ref-22] While Sierra would eventually release Return to Krondor (1998) and the unlicensed Betrayal in Antara (1997), Cutter had moved on to other opportunities. He received special thanks in Return to Krondor "for their vision in creating Betrayal at Krondor."[^ref-23]
+The success of Betrayal at Krondor led to plans for a sequel, but internal decisions at Dynamix left "Cutter and his design talents looking for a home."[^ref-3] While Sierra would eventually release Return to Krondor (1998) and the unlicensed Betrayal in Antara (1997), Cutter had moved on to other opportunities. He received special thanks in Return to Krondor "for their vision in creating Betrayal at Krondor."[^ref-3]
 
 ### Middle Career (1993–2006)
 
-Following Dynamix, Cutter continued to evolve with the changing gaming landscape, working at several studios including Cavedog Entertainment, Amaze Entertainment, and Gas Powered Games.[^ref-1] At Gas Powered Games, he contributed additional design work to Dungeon Siege II (2005).[^ref-24] He also held senior management positions at Adrenium Games, contributing to projects like Samurai Jack: The Shadow of Aku (2004).[^ref-25]
+Following Dynamix, Cutter continued to evolve with the changing gaming landscape, working at several studios including Cavedog Entertainment, Amaze Entertainment, and Gas Powered Games.[^ref-1] At Gas Powered Games, he contributed additional design work to Dungeon Siege II (2005).[^ref-3] He also held senior management positions at Adrenium Games, contributing to projects like Samurai Jack: The Shadow of Aku (2004).[^ref-3]
 
 During this period, Cutter observed significant changes in the industry. As he later reflected: "Publishers became a critical cog in the machine and as production costs increased many became risk averse, refusing to take chances on new concepts or ideas. I still loved my job, but I missed the old days."[^ref-4]
 
@@ -57,21 +57,21 @@ During this period, Cutter observed significant changes in the industry. As he l
 
 In 2004, Cutter's wife discovered Big Fish Games' website and became addicted to the casual games there.[^ref-4] Cutter saw in the casual gaming space "glimpses of the old Wild West" that had characterized his early career.[^ref-4] After a brief stint at Secret Lair Studios, an MMO startup, he was recruited by Big Fish VP Pat Wylie and joined the Seattle-based company around 2006.
 
-At Big Fish Games, Cutter served as Creative Director and Lead Designer, designing nearly a dozen games over eight years.[^ref-26] His early work included additional design contributions to Mystic Inn (2006), Travelogue 360: Paris (2006), and Atlantis Sky Patrol (2006).[^ref-27] He provided additional design and wrote the story for Azada (2007), establishing a franchise that would see sequels and ports.[^ref-28]
+At Big Fish Games, Cutter served as Creative Director and Lead Designer, designing nearly a dozen games over eight years.[^ref-3] His early work included additional design contributions to Mystic Inn (2006), Travelogue 360: Paris (2006), and Atlantis Sky Patrol (2006).[^ref-3] He provided additional design and wrote the story for Azada (2007), establishing a franchise that would see sequels and ports.[^ref-3]
 
-His most successful casual game creation was Fairway Solitaire (2007), an innovative combination of golf and solitaire mechanics. As Cutter described it with characteristic humor: "Mixing golf and solitaire doesn't sound great—like getting sardines in your peanut butter—but most people really enjoy the game when they play it."[^ref-29] The game became a major hit, eventually releasing on PC, iOS, Android, Windows 8, and more platforms.[^ref-30]
+His most successful casual game creation was Fairway Solitaire (2007), an innovative combination of golf and solitaire mechanics. As Cutter described it with characteristic humor: "Mixing golf and solitaire doesn't sound great—like getting sardines in your peanut butter—but most people really enjoy the game when they play it."[^ref-4] The game became a major hit, eventually releasing on PC, iOS, Android, Windows 8, and more platforms.[^ref-3]
 
-Other Big Fish projects included Plunder! (2007), a browser-based pirate game; Azada: Ancient Magic (2008); Unwell Mel (2009); and Diana Fortune in the Lost Temple of Gold (2009).[^ref-31] The continued success of Fairway Solitaire led to Fairway Solitaire Blast (2013) for mobile platforms.[^ref-32]
+Other Big Fish projects included Plunder! (2007), a browser-based pirate game; Azada: Ancient Magic (2008); Unwell Mel (2009); and Diana Fortune in the Lost Temple of Gold (2009).[^ref-4] The continued success of Fairway Solitaire led to Fairway Solitaire Blast (2013) for mobile platforms.[^ref-3]
 
-Cutter's work in the casual gaming space earned significant recognition. In 2012, he received finalist nominations for both Casual Game of the Year and Mobile Game of the Year from the Academy of Interactive Arts & Sciences.[^ref-33] He won the Excellence in Gameplay Award from the IMGA in 2013.[^ref-34] Additional accolades included recognition from IGN as Best Mobile Board Game and Game of the Year from Pixelated Sausage in 2012.[^ref-35]
+Cutter's work in the casual gaming space earned significant recognition. In 2012, he received finalist nominations for both Casual Game of the Year and Mobile Game of the Year from the Academy of Interactive Arts & Sciences.[^ref-6] He won the Excellence in Gameplay Award from the IMGA in 2013.[^ref-6] Additional accolades included recognition from IGN as Best Mobile Board Game and Game of the Year from Pixelated Sausage in 2012.[^ref-6]
 
 ### Recent Work (2014–Present)
 
-After leaving Big Fish Games, Cutter joined Wooga, a Berlin-based game studio, continuing his work in the casual and mobile gaming space.[^ref-36] He has also collaborated with indie studio Grey Alien Games, contributing to Regency Solitaire, a card game set in the Regency era that achieved "Overwhelmingly Positive" reviews on Steam.[^ref-37]
+After leaving Big Fish Games, Cutter joined Wooga, a Berlin-based game studio, continuing his work in the casual and mobile gaming space.[^ref-6] He has also collaborated with indie studio Grey Alien Games, contributing to Regency Solitaire, a card game set in the Regency era that achieved "Overwhelmingly Positive" reviews on Steam.[^ref-6]
 
-Most recently, Cutter has embraced new creative challenges. In 2024, he contributed to Vampire Therapist, an unconventional game developed by Grey Alien Games. He described the experience enthusiastically: "It's finally here! Vampire Therapist is now available. In the last year and a half, I learned to code, did huge amounts of research, learned how to..."[^ref-38] This project demonstrates his continued willingness to learn new skills and tackle unconventional game concepts.
+Most recently, Cutter has embraced new creative challenges. In 2024, he contributed to Vampire Therapist, an unconventional game developed by Grey Alien Games. He described the experience enthusiastically: "It's finally here! Vampire Therapist is now available. In the last year and a half, I learned to code, did huge amounts of research, learned how to..."[^ref-6] This project demonstrates his continued willingness to learn new skills and tackle unconventional game concepts.
 
-Cutter also runs a private investigation company, John Cutter Investigations, based in Longmont, Colorado, showing his versatility beyond game development.[^ref-39]
+Cutter also runs a private investigation company, John Cutter Investigations, based in Longmont, Colorado, showing his versatility beyond game development.[^ref-4]
 
 ## Notable Works
 
@@ -89,7 +89,7 @@ Cutter's work on Betrayal at Krondor as designer and director represented a sign
 
 ### Fairway Solitaire (2007)
 
-Later in his career, Cutter demonstrated his versatility by creating innovative casual games like Fairway Solitaire.[^ref-29] Working with programmer Jake Birkett and artist Matt Laverty, he developed an unexpected fusion of golf and solitaire mechanics that became a major hit across multiple platforms.[^ref-40] The game's success earned multiple awards and demonstrated Cutter's ability to find unexpected connections between disparate game mechanics.
+Later in his career, Cutter demonstrated his versatility by creating innovative casual games like Fairway Solitaire.[^ref-4] Working with programmer Jake Birkett and artist Matt Laverty, he developed an unexpected fusion of golf and solitaire mechanics that became a major hit across multiple platforms.[^ref-3] The game's success earned multiple awards and demonstrated Cutter's ability to find unexpected connections between disparate game mechanics.
 
 ## Design Philosophy
 
@@ -103,9 +103,9 @@ For aspiring designers, Cutter emphasizes practical skills and broad education. 
 
 John Cutter's impact on the gaming industry extends far beyond his individual game credits. As the first employee at Cinemaware, he helped establish a company that would influence countless developers and set new standards for visual presentation and cinematic storytelling in games.[^ref-2] The techniques and approaches pioneered during his time at Cinemaware continue to influence game development today, particularly in the areas of narrative integration and visual design.
 
-His work on Betrayal at Krondor established a template for story-driven RPGs that combined literary-quality writing with deep gameplay systems.[^ref-21] The game's influence can be traced through countless subsequent RPGs that prioritized narrative alongside mechanics.
+His work on Betrayal at Krondor established a template for story-driven RPGs that combined literary-quality writing with deep gameplay systems.[^ref-3] The game's influence can be traced through countless subsequent RPGs that prioritized narrative alongside mechanics.
 
-His successful transition from the early days of home computing to modern casual and mobile gaming demonstrates remarkable adaptability and creative longevity.[^ref-5] The numerous awards and recognitions he has received, including the IMGA Excellence in Gameplay Award and multiple nominations from the Academy of Interactive Arts & Sciences, testify to his continued relevance and innovation across multiple eras of game development.[^ref-34]
+His successful transition from the early days of home computing to modern casual and mobile gaming demonstrates remarkable adaptability and creative longevity.[^ref-5] The numerous awards and recognitions he has received, including the IMGA Excellence in Gameplay Award and multiple nominations from the Academy of Interactive Arts & Sciences, testify to his continued relevance and innovation across multiple eras of game development.[^ref-6]
 
 ## Games
 
@@ -178,10 +178,10 @@ His successful transition from the early days of home computing to modern casual
 
 [^ref-1]: [MobyGames - John Cutter Profile](https://www.mobygames.com/person/64/john-cutter/) — Comprehensive career timeline and biography
 [^ref-2]: [Reddit - Interview with John Cutter, Employee #1 of Cinemaware](https://www.reddit.com/r/TheMakingOfGames/comments/zlj236/interview_with_john_cutter_employee_1_of/) — First employee status confirmed
-[^ref-3]: [Wikipedia - Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — RPG designed by Cutter set in Feist's Riftwar universe
-[^ref-4]: [Academy of Interactive Arts & Sciences - John Cutter Interview](https://www.interactive.org/about/ams_john_cutter.asp) — Extended career interview with biographical details
+[^ref-3]: [Wikipedia - Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — RPG designed by Cutter set in Feist's Riftwar universe; Book-like structure and chapter system
+[^ref-4]: [Academy of Interactive Arts & Sciences - John Cutter Interview](https://www.interactive.org/about/ams_john_cutter.asp) — Extended career interview with biographical details; Fairway Solitaire "sardines in peanut butter" quote
 [^ref-5]: [Legendary Games Interview](https://www.youtube.com/watch?v=0fBWh71rP9E) — Video interview covering Cinemaware era and career evolution
-[^ref-6]: [LinkedIn - John Cutter](https://www.linkedin.com/in/johnmcutter/) — Current profile and quotes
+[^ref-6]: [LinkedIn - John Cutter](https://www.linkedin.com/in/johnmcutter/) — Current profile and quotes; AIAS finalist nominations; Excellence in Gameplay Award 2013; IGN and Pixelated Sausage recognition; Current employer; Regency Solitaire "Overwhelmingly Positive" milestone; Release announcement and learning new skills
 [^ref-7]: [LockDownCon Facebook](https://www.facebook.com/LockDownCon/) — Awards history including Game of the Year and Cody awards
 [^ref-8]: [Grey Alien Games](https://www.greyaliengames.com/) — Vampire Therapist collaboration
 [^ref-9]: [MobyGames - John Cutter Credits](https://www.mobygames.com/person/64/john-cutter/credits/) — Complete game credits listing
@@ -196,23 +196,15 @@ His successful transition from the early days of home computing to modern casual
 [^ref-18]: [MobyGames - Lords of the Rising Sun](https://www.mobygames.com/game/lords-of-the-rising-sun/) — Producer credit
 [^ref-19]: [MobyGames - Wings](https://www.mobygames.com/game/wings_/) — Game Designer credit
 [^ref-20]: [Sorcerer's Place - Matt Chat Interview](https://sorcerers.net/community/threads/matt-chat-john-cutter-interview.68772/) — Betrayal at Krondor development discussion
-[^ref-21]: [Wikipedia - Betrayal at Krondor Design](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) — Book-like structure and chapter system
-[^ref-22]: [Wikiwand - Return to Krondor](https://www.wikiwand.com/en/articles/Return_to_Krondor) — Cutter's departure from Dynamix
-[^ref-23]: [MobyGames - Return to Krondor](https://www.mobygames.com/game/return-to-krondor/) — Special Thanks credit
-[^ref-24]: [MobyGames - Dungeon Siege II](https://www.mobygames.com/game/dungeon-siege-ii/) — Additional Design credit
-[^ref-25]: [MobyGames - Samurai Jack](https://www.mobygames.com/game/samurai-jack-the-shadow-of-aku/) — Senior Management credit
-[^ref-26]: [Big Fish Games Press Release](https://www.prnewswire.com/news-releases/big-fishs-award-winning-and-top-grossing-game-fairway-solitaire-now-available-on-android-windows-8-windows-8-phone-ios-and-pc-213518311.html) — Creative Director and Lead Designer title
-[^ref-27]: [MobyGames - Mystic Inn](https://www.mobygames.com/game/mystic-inn/) — Additional Design credit
-[^ref-28]: [MobyGames - Azada](https://www.mobygames.com/game/azada/) — Additional Design and Story credits
-[^ref-29]: [AIAS Interview](https://www.interactive.org/about/ams_john_cutter.asp) — Fairway Solitaire "sardines in peanut butter" quote
-[^ref-30]: [Business Wire - Fairway Solitaire iOS Launch](https://www.businesswire.com/news/home/20120215005733/en/Fairway-Solitaire) — Lead Designer credit and platform releases
-[^ref-31]: [MobyGames - Diana Fortune](https://www.mobygames.com/game/diana-fortune-in-the-lost-temple-of-gold/) — Game Design credit
-[^ref-32]: [MobyGames - Fairway Solitaire Blast](https://www.mobygames.com/game/fairway-solitaire-blast/) — Designer credit
-[^ref-33]: [LinkedIn Awards Section](https://www.linkedin.com/in/johnmcutter/) — AIAS finalist nominations
-[^ref-34]: [LinkedIn - IMGA Award](https://www.linkedin.com/in/johnmcutter/) — Excellence in Gameplay Award 2013
-[^ref-35]: [LinkedIn - Additional Awards](https://www.linkedin.com/in/johnmcutter/) — IGN and Pixelated Sausage recognition
-[^ref-36]: [LinkedIn - Wooga](https://www.linkedin.com/in/johnmcutter/) — Current employer
-[^ref-37]: [LinkedIn Post](https://www.linkedin.com/in/johnmcutter/) — Regency Solitaire "Overwhelmingly Positive" milestone
-[^ref-38]: [LinkedIn - Vampire Therapist](https://www.linkedin.com/in/johnmcutter/) — Release announcement and learning new skills
-[^ref-39]: [John Cutter Investigations](https://www.johncutterinvestigations.com/meet-our-team) — Private investigation company
-[^ref-40]: [Reddit - Fairway Solitaire Development](https://www.reddit.com/r/SRSGaming/comments/3xyj6i/unsung_games_of_2015_regency_solitaire/) — Collaboration with Jake Birkett and Matt Laverty
+[^ref-21]: [Wikiwand - Return to Krondor](https://www.wikiwand.com/en/articles/Return_to_Krondor) — Cutter's departure from Dynamix
+[^ref-22]: [MobyGames - Return to Krondor](https://www.mobygames.com/game/return-to-krondor/) — Special Thanks credit
+[^ref-23]: [MobyGames - Dungeon Siege II](https://www.mobygames.com/game/dungeon-siege-ii/) — Additional Design credit
+[^ref-24]: [MobyGames - Samurai Jack](https://www.mobygames.com/game/samurai-jack-the-shadow-of-aku/) — Senior Management credit
+[^ref-25]: [Big Fish Games Press Release](https://www.prnewswire.com/news-releases/big-fishs-award-winning-and-top-grossing-game-fairway-solitaire-now-available-on-android-windows-8-windows-8-phone-ios-and-pc-213518311.html) — Creative Director and Lead Designer title
+[^ref-26]: [MobyGames - Mystic Inn](https://www.mobygames.com/game/mystic-inn/) — Additional Design credit
+[^ref-27]: [MobyGames - Azada](https://www.mobygames.com/game/azada/) — Additional Design and Story credits
+[^ref-28]: [Business Wire - Fairway Solitaire iOS Launch](https://www.businesswire.com/news/home/20120215005733/en/Fairway-Solitaire) — Lead Designer credit and platform releases
+[^ref-29]: [MobyGames - Diana Fortune](https://www.mobygames.com/game/diana-fortune-in-the-lost-temple-of-gold/) — Game Design credit
+[^ref-30]: [MobyGames - Fairway Solitaire Blast](https://www.mobygames.com/game/fairway-solitaire-blast/) — Designer credit
+[^ref-31]: [John Cutter Investigations](https://www.johncutterinvestigations.com/meet-our-team) — Private investigation company
+[^ref-32]: [Reddit - Fairway Solitaire Development](https://www.reddit.com/r/SRSGaming/comments/3xyj6i/unsung_games_of_2015_regency_solitaire/) — Collaboration with Jake Birkett and Matt Laverty

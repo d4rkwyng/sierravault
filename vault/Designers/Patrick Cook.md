@@ -47,7 +47,7 @@ Cook's most significant Microsoft contribution came with the flight simulation f
 
 ### Turn 10 Studios (2012–2013)
 
-Cook's final documented game credits came at Turn 10 Studios, Microsoft's racing game division.[^ref-4] He contributed to Forza Horizon (2012), the open-world spinoff developed in collaboration with Playground Games.[^ref-16] His last credited role was as Web Design Director on Forza Motorsport 5 (2013), the Xbox One launch title.[^ref-17]
+Cook's final documented game credits came at Turn 10 Studios, Microsoft's racing game division.[^ref-4] He contributed to Forza Horizon (2012), the open-world spinoff developed in collaboration with Playground Games.[^ref-4] His last credited role was as Web Design Director on Forza Motorsport 5 (2013), the Xbox One launch title.[^ref-4]
 
 ## Notable Works
 
@@ -125,11 +125,11 @@ His work on the Front Page Sports franchise helped establish Sierra/Dynamix as a
 [^ref-1]: [MobyGames - Patrick Cook Profile](https://www.mobygames.com/person/74/patrick-cook/) — Complete game credits and career information
 [^ref-2]: [MobyGames - Patrick Cook Credits](https://www.mobygames.com/person/74/patrick-cook/credits/) — Detailed role breakdown for 44 credits across 28 games
 [^ref-3]: [RAWG - Patrick Cook](https://rawg.io/creators/patrick-cook) — Career overview noting work with Cinemaware, Microsoft Game Studios, and Microsoft Aces Studio
-[^ref-4]: [MobyGames - Forza Horizon Credits](https://www.mobygames.com/game/forza-horizon/) — Turn 10 Studios contribution
+[^ref-4]: [MobyGames - Forza Horizon Credits](https://www.mobygames.com/game/forza-horizon/) — Turn 10 Studios contribution; Turn 10 Studios team listing
 [^ref-5]: [The Digital Antiquarian - Cinemaware](https://www.filfre.net/2016/01/silicon-hollywood-cinemawares-transitional-period/) — History of Cinemaware development
 [^ref-6]: [Wikipedia - Rocket Ranger](https://en.wikipedia.org/wiki/Rocket_Ranger) — Golden Joystick Awards recognition for Best 16-bit Graphics
 [^ref-7]: [MobyGames - It Came from the Desert](https://www.mobygames.com/game/it-came-from-the-desert/) — Production credits
-[^ref-8]: [VGMPF Wiki - Rocket Ranger (NES)](https://www.vgmpf.com/Wiki/index.php/Rocket_Ranger_(NES)) — Patrick Cook credited as Director on NES version
+[^ref-8]: [VGMPF Wiki - Rocket Ranger (NES)](https://www.vgmpf.com/Wiki/index.php/Rocket_Ranger_(NES) — Patrick Cook credited as Director on NES version
 [^ref-9]: [MobyGames - Front Page Sports: Football Pro](https://www.mobygames.com/game/front-page-sports-football-pro/) — Designer and Director credit
 [^ref-10]: [Sierra Chest - Patrick Cook Biography](https://sierrachest.com/cssdf/index.php?a=person&id=2989&fld=general) — Sierra-era credits
 [^ref-11]: [MobyGames - Outpost 2: Divided Destiny](https://www.mobygames.com/game/outpost-2-divided-destiny/) — Director and Designer credits
@@ -137,5 +137,4 @@ His work on the Front Page Sports franchise helped establish Sierra/Dynamix as a
 [^ref-13]: [MobyGames - NFL Fever 2003](https://www.mobygames.com/game/nfl-fever-2003/) — Studio Manager credit
 [^ref-14]: [MobyGames - Microsoft Flight Simulator X](https://www.mobygames.com/game/microsoft-flight-simulator-x/) — ACES Group Design Manager credit
 [^ref-15]: [MobyGames - Microsoft Flight](https://www.mobygames.com/game/microsoft-flight/) — Studio Manager and Design Director credits
-[^ref-16]: [MobyGames - Forza Horizon](https://www.mobygames.com/game/forza-horizon/) — Turn 10 Studios team listing
-[^ref-17]: [MobyGames - Forza Motorsport 5](https://www.mobygames.com/game/forza-motorsport-5/) — Web Design Director credit
+[^ref-16]: [MobyGames - Forza Motorsport 5](https://www.mobygames.com/game/forza-motorsport-5/) — Web Design Director credit
