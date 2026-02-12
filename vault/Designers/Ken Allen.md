@@ -140,7 +140,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | 1992 | Wacky Funsters! The Geekwad's Guide to Gaming | Tsunami Media | Music |
 | 1992 | WarpSpeed (SNES) | Accolade | Music |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Sierra On-Line | Music |
-| 1993 | Blue Force | Tsunami Media | Music |
+| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media | Music |
 | 1993 | Protostar: War on the Frontier | Tsunami Media | Music, Level Design |
 | 1993 | The Geekwad: Games of the Galaxy | Tsunami Media | Sound Effects |
 | 1993 | [[1993 - Take a Break! Pinball\|Take a Break! Pinball]] | Sierra On-Line | Music |
