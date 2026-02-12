@@ -1,3 +1,8 @@
+---
+title: "Easter Eggs and Secrets"
+type: guide
+last_updated: 2026-02-12
+---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 
 > "If you guys don't mind paying lawyers' fees, you can put whatever you want in your game."
@@ -246,7 +251,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-14]: [GameFAQs – King's Quest IV](https://gamefaqs.gamespot.com/pc/564166-kings-quest-iv-the-perils-of-rosella/) – "beam me" easter egg with developer cameos
 
-[^ref-15]: [Sierra Deaths Guide](https://sierravault.local/Guides/Sierra%20Deaths) – King's Quest II Williams message
+[^ref-15]: [[Sierra Deaths]] – King's Quest II Williams message
 
 [^ref-16]: [ClassicReload – Leisure Suit Larry 7](https://classicreload.com/leisure-suit-larry-love-for-sail.html) – Where's Dildo? system details
 
@@ -282,7 +287,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-32]: [MobyGames – Mixed-Up Mother Goose](https://www.mobygames.com/game/4713/mixed-up-mother-goose/) – Box art featuring Roberta Williams and children
 
-[^ref-33]: [Freddy Pharkas Vault Page](/Games/Standalone/1993%20-%20Freddy%20Pharkas%20-%20Frontier%20Pharmacist) – Al Lowe wanted poster
+[^ref-33]: [[1993 - Freddy Pharkas|Freddy Pharkas]] – Al Lowe wanted poster
 
 [^ref-34]: [TV Tropes – Shivers Two](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Al Lowe photograph cameo as sheriff
 
@@ -300,7 +305,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-41]: [Sierra Chest – Inca Walkthrough](https://sierrachest.com/index.php?a=games&id=191&title=inca-1&fld=walkthrough) – Cheat codes
 
-[^ref-42]: [Heart of China Vault Page](/Games/Dynamix/1991%20-%20Heart%20of%20China) – Hidden debug menu details
+[^ref-42]: [[1991 - Heart of China|Heart of China]] – Hidden debug menu details
 
 [^ref-43]: [Walkthrough King – Leisure Suit Larry Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – Cheat attempt response
 

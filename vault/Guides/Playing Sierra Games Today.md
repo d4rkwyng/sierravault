@@ -414,7 +414,7 @@ See [[Buying Guide]] for detailed purchasing recommendations.
 
 If you want enhanced versions of classic games:
 - **[AGD Interactive](https://www.agdinteractive.com/)** — King's Quest I, KQ2+, Quest for Glory II VGA
-- **[Infamous Adventures](https://www.infamous-adventures.com/)** — King's Quest III, Space Quest II VGA
+- **[Infamous Adventures](https://infamousadventures.itch.io/)** — King's Quest III, Space Quest II VGA (Note: infamous-adventures.com now redirects to Itch.io)
 
 ---
 

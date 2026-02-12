@@ -1,7 +1,7 @@
 ---
 title: "Patch & Compatibility Guide"
 type: guide
-updated: 2025-01-30
+last_updated: 2025-01-30
 ---
 # Patch & Compatibility Guide
 

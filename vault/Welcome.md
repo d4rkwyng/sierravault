@@ -162,7 +162,7 @@ Every page follows a consistent structure—overview, story, gameplay, developme
 
 > [!hint] Navigation
 > - Use **Series Continuity** links at the bottom of each page to follow franchises chronologically
-> - Check the [[Site Index|Cancelled Games]] section for lost legends like [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest 7]], [[CXL - King's Quest IX|King's Quest IX]], [[CXL - Leisure Suit Larry 8|LSL8]], and [[CXL - Precinct (2013)|Precinct]]
+> - Check the [[Cancelled Games]] section for lost legends like [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest 7]], [[CXL - King's Quest IX|King's Quest IX]], [[CXL - Leisure Suit Larry 8|LSL8]], and [[CXL - Precinct (2013)|Precinct]]
 > - Designer pages link to every game they worked on with their specific role
 > - Save often, look behind waterfalls, and don't forget to check the trash can
 

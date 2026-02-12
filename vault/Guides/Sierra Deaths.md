@@ -1,3 +1,8 @@
+---
+title: "Sierra Deaths"
+type: guide
+last_updated: 2026-02-12
+---
 # The Art of Dying: A Celebration of Sierra's Creative Deaths
 
 > "If the player is gonna die or fail, they should at least get a laugh out of it."

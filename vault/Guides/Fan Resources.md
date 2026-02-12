@@ -1,6 +1,7 @@
 ---
 title: "Fan & Community Resources"
 type: guide
+last_updated: 2026-02-12
 ---
 # Fan & Community Resources
 
@@ -41,7 +42,7 @@ Want to dig deeper than these Markdown notes? These sites preserve interviews, d
 - [Reddit r/Sierra](https://www.reddit.com/r/Sierra/) - General Sierra discussion, tech support, and nostalgia.
 - [Reddit r/leisuresuitlarry](https://www.reddit.com/r/leisuresuitlarry/) - Active fan community for classic LSL discussion.
 - [SierraHelp Forums](https://forums.sierrahelp.com/) - Tech support and fan game discussions.
-- [AGDI](https://www.agdinteractive.com/) & [Infamous Adventures](https://www.infamous-adventures.com/) - Fan hubs hosting remakes, voice packs, and developer diaries.
+- [AGDI](https://www.agdinteractive.com/) & [Infamous Adventures](https://infamousadventures.itch.io/) - Fan hubs hosting remakes, voice packs, and developer diaries. (Note: infamous-adventures.com now redirects to their Itch.io page.)
 
 ## Interviews & Podcasts
 - [Space Quest Historian Podcast](https://spacequesthistorian.com/podcast/) - Bi-weekly interviews with Scott Murphy, Mark Crowe, Josh Mandel, and fan designers. ([Apple Podcasts](https://podcasts.apple.com/us/podcast/space-quest-historian-podcast-by-troels-pleimert-tech/id739423439))

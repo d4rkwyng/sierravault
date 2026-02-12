@@ -1,3 +1,8 @@
+---
+title: "Cancelled Games"
+type: guide
+last_updated: 2026-02-12
+---
 # Sierra's Cancelled Games: The Ones That Got Away
 
 Sierra Entertainment developed some of the most beloved video game franchises in history, but for every game that shipped, others died on the vine. This guide documents Sierra's most significant cancelled projects—ambitious games that never saw release, leaving fans to wonder what might have been.
