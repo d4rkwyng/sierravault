@@ -1,0 +1,19 @@
+{
+  "scores": {
+    "Douglas Herring.md": [
+      {
+        "timestamp": "2026-02-12T11:24:34.003389",
+        "score": 56.0,
+        "total": 56
+      }
+    ]
+  },
+  "runs": [
+    {
+      "timestamp": "2026-02-12T11:24:34.003389",
+      "files_scored": 1,
+      "average": 56.0,
+      "passing": 0
+    }
+  ]
+}
