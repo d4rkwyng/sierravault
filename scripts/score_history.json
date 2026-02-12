@@ -206,6 +206,16 @@
         "timestamp": "2026-02-12T15:17:35.017582",
         "score": 82.0,
         "total": 82
+      },
+      {
+        "timestamp": "2026-02-12T15:18:09.934538",
+        "score": 89.0,
+        "total": 89
+      },
+      {
+        "timestamp": "2026-02-12T15:18:36.984376",
+        "score": 94.0,
+        "total": 94
       }
     ]
   },
@@ -401,6 +411,18 @@
       "files_scored": 1,
       "average": 82.0,
       "passing": 0
+    },
+    {
+      "timestamp": "2026-02-12T15:18:09.934538",
+      "files_scored": 1,
+      "average": 89.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-12T15:18:36.984376",
+      "files_scored": 1,
+      "average": 94.0,
+      "passing": 1
     }
   ]
 }

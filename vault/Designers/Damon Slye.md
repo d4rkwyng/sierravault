@@ -109,7 +109,7 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 2008 | Ace of Aces | Instant Action | Designer |
+| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Instant Action | Designer |
 | 2011 | Villagers and Heroes | Mad Otter Games | Lead Designer, Director |
 ## References
 

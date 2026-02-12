@@ -4,7 +4,7 @@ release_year: 2008
 developer: Mad Otter Games
 designer: [Damon Slye]
 publisher: InstantAction
-genre: Flight Combat
+genre: Flight Simulation, Multiplayer Shooter
 platforms: [Browser]
 series: None
 engine: Torque
@@ -162,12 +162,14 @@ The connections run deep:
 - **Multiplayer:** Yes, team-based and free-for-all modes[^ref-2]
 - **Current Status:** Unavailable (platform defunct since November 2010)[^ref-11]
 
-## Purchase
+## Downloads
 
 > [!warning] Unavailable
-> Ace of Aces is no longer available to play. The game was exclusive to the InstantAction browser platform, which shut down on November 11, 2010[^ref-11]. Despite plans to re-release the game through a dedicated website, the game has never been made available again[^ref-12].
+> Ace of Aces is no longer available to play. The game was exclusive to the InstantAction browser platform, which shut down on November 11, 2010[^ref-11]. No digital storefronts carry the game, and no physical releases exist. The game's browser-based architecture means it cannot be preserved through traditional means like emulation or abandonware distribution.
 
-No digital storefronts carry Ace of Aces, and no physical releases exist. The game's browser-based architecture means it cannot be preserved through traditional means like emulation or abandonware distribution.
+**Purchase / Digital Stores**
+
+- Not currently available — The game existed solely on the InstantAction platform, which ceased operations in November 2010[^ref-11]. Despite announced plans to re-release the game through AceofAcesthegame.com, no playable version has ever been made available since the platform's closure[^ref-12].
 
 ## See Also
 
