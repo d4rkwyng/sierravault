@@ -1,14 +1,14 @@
 ---
 title: "Site Index"
-last_updated: "2026-01-30"
+last_updated: "2026-02-12"
 ---
 # Site Index
 
-<small style="color: gray">Last generated: January 30, 2026</small>
+<small style="color: gray">Last generated: February 12, 2026</small>
 
 ## Overview
 
-This archive contains **511 game pages** across 74 categories.
+This archive contains **512 game pages** across 74 categories.
 
 | Category | Pages |
 |----------|-------|
@@ -74,7 +74,7 @@ This archive contains **511 game pages** across 74 categories.
 | [[#Sierra Pro Pilot\|Sierra Pro Pilot]] | 3 |
 | [[#Sierra Sports\|Sierra Sports]] | 5 |
 | [[#Space Quest\|Space Quest]] | 7 |
-| [[#Spiritual Successors\|Spiritual Successors]] | 15 |
+| [[#Spiritual Successors\|Spiritual Successors]] | 16 |
 | [[#Standalone\|Standalone]] | 29 |
 | [[#Stellar 7\|Stellar 7]] | 4 |
 | [[#Strategy\|Strategy]] | 10 |
@@ -823,6 +823,7 @@ This archive contains **511 game pages** across 74 categories.
 
 | Year | Game | Last Updated |
 |------|------|--------------|
+| 1993 | [[1993 - Blue Force\|Blue Force]] | 2026-02-12 |
 | 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | 2026-01-16 |
 | 2010 | [[2010 - Gray Matter\|Gray Matter]] | 2026-01-09 |
 | 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | 2026-01-09 |

@@ -8,13 +8,13 @@ Pull up a pixelated barstool and mind the slime on the floor—this vault is the
 
 From the parser-driven adventures of the 1980s through the multimedia extravaganzas of the 1990s, this archive documents Sierra's complete legacy—flagship series, hidden gems, acquired studios like Dynamix and Impressions, fan remakes, and spiritual successors from Sierra alumni still making games today.
 
-> **511 games** · **56 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **15–40 citations per page**
+> **512 games** · **57 designers** · **46 years of history (1980–2026)** · **24,000+ research sources** · **15–40 citations per page**
 
 ## Quick Links
 
 > [!tip] Jump Right In
-> - **[[Site Index]]** — Browse all 511 games by series, studio, and category
-> - **[[Designer Index]]** — Roberta Williams, Al Lowe, Jane Jensen, the Coles & 46 more
+> - **[[Site Index]]** — Browse all 512 games by series, studio, and category
+> - **[[Designer Index]]** — Roberta Williams, Al Lowe, Jane Jensen, the Coles & 53 more
 > - **[[Projects in Progress]]** — Active fan and alumni projects
 > - **[[News & Updates]]** — Latest releases, ScummVM updates, fan project news
 > - **[[Buying Guide]]** — Where to legally purchase these classics today
@@ -110,7 +110,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 | [[Platform Guide]] | DOS, Windows, Mac, Amiga, consoles, and how to play today |
 | [[Buying Guide]] | GOG, Steam, Game Pass Retro Classics, collectors |
 | [[Compatibility Guide]] | ScummVM, DOSBox, patches, and known issues |
-| [[Designer Index]] | 50 designers, programmers, composers, and artists |
+| [[Designer Index]] | 57 designers, programmers, composers, and artists |
 | [[Sierra History]] | The rise and fall of Sierra On-Line |
 
 ---

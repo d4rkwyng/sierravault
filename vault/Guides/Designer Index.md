@@ -1,13 +1,13 @@
 ---
 title: "Designer Index"
 type: index
-last_updated: "2026-02-02"
+last_updated: "2026-02-12"
 ---
 # Designer Index
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
-This index profiles **50 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers.
+This index profiles **57 key figures** who shaped Sierra On-Line and its affiliated studios. Organized by primary role, many individuals contributed across multiple disciplines throughout their careers.
 
 ---
 
@@ -117,6 +117,12 @@ Architects of Sierra's expansion beyond adventure games.
 | [[Doug Johnson]] | Sierra | Various |
 | [[Chuck Benton]] | Dynamix | Various |
 
+### Casual & Card Games
+
+| Name | Notable Work |
+|------|--------------|
+| [[Rabih AbouJaoudé]] | Hoyle series (1995–2009), Art Director |
+
 ---
 
 ## Coktel Vision
@@ -150,6 +156,10 @@ Visual artists who defined Sierra's aesthetic identity.
 | Name | Notable Work |
 |------|--------------|
 | [[Andy Hoyos]] | King's Quest V, VII, Phantasmagoria series |
+| [[Carlos Escobar]] | King's Quest V, VI, Phantasmagoria |
+| [[Doug Oldfield]] | King's Quest V, VI, Space Quest III |
+| [[Douglas Herring]] | Colonel's Bequest, King's Quest V, Space Quest I VGA |
+| [[Jerry Moore]] | King's Quest IV-V, Quest for Glory I VGA, Space Quest IV |
 | [[Peter Ledger]] | Conquests of Camelot (Christy Marx's husband) |
 
 ---
@@ -162,6 +172,8 @@ The technical pioneers who built the foundations of Sierra's games.
 |------|-------------|
 | [[Jeff Stephenson]] | Created SCI engine, "99% Jeff Stephenson's invention" |
 | [[Bob Heitman]] | Co-developed AGI and SCI engines |
+| [[Chris Braymen]] | King's Quest VI, Quest for Glory II, EcoQuest |
+| [[Pablo Ghenis]] | King's Quest V, Quest for Glory II, Space Quest IV |
 
 ---
 
@@ -180,17 +192,18 @@ The project leaders who brought games from concept to completion.
 
 | Category | Count |
 |----------|-------|
-| Total Profiles | 50 |
+| Total Profiles | 57 |
 | Adventure Designers | 16 |
 | RPG Designers | 2 |
-| Strategy/Simulation | 15 |
+| Strategy/Simulation | 16 |
 | Composers | 3 |
-| Engine Developers | 2 |
-| Art Directors | 2 |
+| Engine Developers | 4 |
+| Art Directors | 6 |
 | Producers | 2 |
 | Founders | 2 |
 | Executive Leadership | 1 |
 | Coktel Vision | 3 |
+| Casual Games | 1 |
 
 ---
 
