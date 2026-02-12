@@ -140,7 +140,7 @@ Herring's work continues to resonate with fans of classic adventure games. The a
 | 2002 | Blinx: The Time Sweeper | Microsoft | Art Director (External) |
 | 2003 | Rise of Nations | Microsoft/Big Huge Games | Art Director (External) |
 | 2004 | Fable | Microsoft/Lionhead Studios | Art Director (External) |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] | Transolar Games | Contributor |
+| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Contributor |
 
 ## References
 
