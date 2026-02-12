@@ -17,7 +17,7 @@ Josh Mandel, born on October 9, 1958, in Queens, New York, is a distinguished vi
 
 Mandel is perhaps best known for his work on the 1990 VGA remake of [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown]], where he also provided the voice of King Graham—becoming the first person to voice the character—and for designing [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]].[^ref-5][^ref-6] His design philosophy centered around what he termed "rewarding exploration," creating games that responded to player curiosity with amusing and entertaining feedback. Adventure game historians have described him as "one of the most underrated designers in genre history," recognizing his contributions to some of Sierra's most beloved titles.[^ref-7][^ref-8]
 
-With credits on over 60 games spanning more than three decades, Mandel's career extended far beyond Sierra to include work at Legend Entertainment on [[1997 - Callahan's Crosstime Saloon\|Callahan's Crosstime Saloon]], writing for the Jagged Alliance 2 series at Sir-Tech, serving as Director of Game Design at Sega for the Dreamcast launch, and contributing to numerous indie adventure game revivals.[^ref-9][^ref-10]
+With credits on over 60 games spanning more than three decades, Mandel's career extended far beyond Sierra to include work at Legend Entertainment on Callahan's Crosstime Saloon (1997), writing for the Jagged Alliance 2 series at Sir-Tech, serving as Director of Game Design at Sega for the Dreamcast launch, and contributing to numerous indie adventure game revivals.[^ref-9][^ref-10]
 
 ## Career
 
@@ -47,9 +47,9 @@ Mandel left Sierra during Space Quest 6's production, with the design essentiall
 
 ### Post-Sierra Career (1995–Present)
 
-After leaving Sierra, Mandel joined Legend Entertainment, where he found a more congenial working environment.[^ref-34] He contributed to [[1995 - Shannara\|Shannara]] (designed by Corey and Lori Ann Cole) before designing and writing [[1997 - Callahan's Crosstime Saloon\|Callahan's Crosstime Saloon]], based on Spider Robinson's beloved science fiction stories.[^ref-35] Mandel had considered adapting the Callahan's Place books since the 1980s, and the project at Legend allowed him to fully implement his design philosophy without corporate restrictions.[^ref-36] He later described his time at Legend as "easily my most enjoyable experience as a freelancer."[^ref-37]
+After leaving Sierra, Mandel joined Legend Entertainment, where he found a more congenial working environment.[^ref-34] He contributed to [[1995 - Shannara\|Shannara]] (designed by Corey and Lori Ann Cole) before designing and writing Callahan's Crosstime Saloon (1997), based on Spider Robinson's beloved science fiction stories.[^ref-35] Mandel had considered adapting the Callahan's Place books since the 1980s, and the project at Legend allowed him to fully implement his design philosophy without corporate restrictions.[^ref-36] He later described his time at Legend as "easily my most enjoyable experience as a freelancer."[^ref-37]
 
-Mandel's post-Sierra career demonstrated remarkable versatility. He worked with Broderbund on the Carmen Sandiego series, contributing additional case designs to [[1997 - Where in Time is Carmen Sandiego\|Where in Time is Carmen Sandiego?]].[^ref-38] He joined Sir-Tech as a writer for the [[1999 - Jagged Alliance 2\|Jagged Alliance 2]] series, contributing to the main game (1999) and its expansions including Unfinished Business (2000) and Wildfire (2004).[^ref-39]
+Mandel's post-Sierra career demonstrated remarkable versatility. He worked with Broderbund on the Carmen Sandiego series, contributing additional case designs to Where in Time is Carmen Sandiego? (1997).[^ref-38] He joined Sir-Tech as a writer for the Jagged Alliance 2 (1999) series, contributing to the main game (1999) and its expansions including Unfinished Business (2000) and Wildfire (2004).[^ref-39]
 
 In the late 1990s, Mandel served as Director of Game Design at Sega for the launch of the Dreamcast console, working alongside Kurt Busch (editor of Sierra's InterAction Magazine).[^ref-40] During this period, he also served as script editor for Sonic Adventure (1998).[^ref-41] After his Sega tenure, he moved to New York to work with Vicarious Visions on various Game Boy and PlayStation products, including children's titles like Blue's Clues: Blue's Alphabet Book (2001) and The Wild Thornberrys: Rambler (2000).[^ref-42]
 
@@ -79,11 +79,11 @@ Co-designed with Al Lowe, [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy 
 
 ### Callahan's Crosstime Saloon (1997)
 
-Working at Legend Entertainment, Mandel designed and wrote [[1997 - Callahan's Crosstime Saloon\|Callahan's Crosstime Saloon]] based on Spider Robinson's beloved science fiction stories.[^ref-63] Mandel identified this as his personal favorite among his games, stating it was "closest to my sense of humor."[^ref-64] The project allowed him to fully implement his design philosophy without corporate restrictions, featuring extensive dialogue trees, multiple puzzle solutions, and countless optional interactions that rewarded thorough exploration.[^ref-65] His background in improvisational theater proved invaluable in creating the game's conversational mechanics and the feeling of spontaneous interaction with the colorful bar patrons. Notably, Mandel appreciated that "the jokes don't all depend on the three overused topics of most computer games: blood, shit, and various reproductive fluids."[^ref-66]
+Working at Legend Entertainment, Mandel designed and wrote Callahan's Crosstime Saloon (1997) based on Spider Robinson's beloved science fiction stories.[^ref-63] Mandel identified this as his personal favorite among his games, stating it was "closest to my sense of humor."[^ref-64] The project allowed him to fully implement his design philosophy without corporate restrictions, featuring extensive dialogue trees, multiple puzzle solutions, and countless optional interactions that rewarded thorough exploration.[^ref-65] His background in improvisational theater proved invaluable in creating the game's conversational mechanics and the feeling of spontaneous interaction with the colorful bar patrons. Notably, Mandel appreciated that "the jokes don't all depend on the three overused topics of most computer games: blood, shit, and various reproductive fluids."[^ref-66]
 
 ### Jagged Alliance 2 (1999)
 
-Mandel's work as a writer on [[1999 - Jagged Alliance 2\|Jagged Alliance 2]] demonstrated his versatility beyond adventure games.[^ref-67] The tactical strategy game required a different approach to writing than his adventure game work, focusing on character dialogue for mercenaries and creating memorable personalities within a more action-oriented framework. His contributions to the series continued through Unfinished Business (2000) and Wildfire (2004).[^ref-68]
+Mandel's work as a writer on Jagged Alliance 2 (1999) demonstrated his versatility beyond adventure games.[^ref-67] The tactical strategy game required a different approach to writing than his adventure game work, focusing on character dialogue for mercenaries and creating memorable personalities within a more action-oriented framework. His contributions to the series continued through Unfinished Business (2000) and Wildfire (2004).[^ref-68]
 
 ## Design Philosophy
 
@@ -132,7 +132,7 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Co-Designer, Producer, Writer |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Designer |
 | 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Contributing Writer |
-| 1995 | [[1995 - Mission Critical\|Mission Critical]] | Additional Testing |
+| 1995 | Mission Critical (1995) | Additional Testing |
 | 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Designer, Writer |
 | 1995 | [[1995 - Shannara\|Shannara]] | Additional Writing |
 
@@ -140,11 +140,11 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1997 | [[1997 - Callahan's Crosstime Saloon\|Callahan's Crosstime Saloon]] | Legend Entertainment | Designer, Writer, Art Director |
+| 1997 | Callahan's Crosstime Saloon (1997) | Legend Entertainment | Designer, Writer, Art Director |
 | 1997 | Where in Time is Carmen Sandiego? | Broderbund | Additional Case Designs |
 | 1998 | John Saul's Blackstone Chronicles | Red Orb Entertainment | Stereoscope |
 | 1998 | Sonic Adventure | Sega | Script Editor |
-| 1999 | [[1999 - Jagged Alliance 2\|Jagged Alliance 2]] | Sir-Tech | Writer |
+| 1999 | Jagged Alliance 2 (1999) | Sir-Tech | Writer |
 | 2000 | Terminus | Vicarious Visions | Cast (Voice and Video) |
 | 2000 | The Wild Thornberrys: Rambler | THQ | Design |
 | 2000 | Jagged Alliance 2: Unfinished Business | Sir-Tech | Writer |

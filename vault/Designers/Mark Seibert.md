@@ -121,13 +121,13 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 | 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Music Arrangement, Performance |
 | 1991 | Hoyle's Official Book of Games: Volume 3 | Music/Sound Programming |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Music Director, Composer ("Girl in the Tower") |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Music Director |
-| 1992 | [[1992 - Police Quest I - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Music Director |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Music Director |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Music Director |
 | 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Music Director |
 | 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow: The Dagger of Amon Ra]] | Music Director |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Music Director |
-| 1992 | [[1992 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | Director |
-| 1992 | [[1992 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose (Enhanced CD-ROM)]] | Composer |
+| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | Director |
+| 1992 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (Enhanced CD-ROM)]] | Composer |
 | 1992 | Crazy Nick's Software Picks: King Graham's Board Game Challenge | Music Director |
 | 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Sound |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Producer, Musician |

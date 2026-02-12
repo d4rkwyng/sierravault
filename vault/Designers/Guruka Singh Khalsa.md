@@ -33,7 +33,7 @@ Khalsa joined Sierra On-Line during one of the most creative and productive peri
 
 His first major credits in 1989 demonstrated Sierra's confidence in his abilities, as he served as producer on three significant releases: [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] (later renamed Quest for Glory I), [[1990 - Codename - Iceman\|Code-Name: Iceman]], and [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games - Volume 1]].[^ref-16] Hero's Quest in particular marked the beginning of Sierra's acclaimed RPG-adventure hybrid series created by Corey and Lori Ann Cole.
 
-The year 1990 marked a significant expansion of his contributions. He produced [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], helping to establish Sierra's Conquests series as a serious historical adventure gaming franchise.[^ref-17] That same year saw him produce [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]], the acclaimed sequel that would become the last Sierra game released in 16-color EGA and the last with a parser.[^ref-18] Additional producer credits included [[1990 - Oils Well\|Oil's Well]] and the English version of [[1990 - Sorcerian\|Sorcerian]], a Nihon Falcom RPG localized by Sierra.[^ref-19]
+The year 1990 marked a significant expansion of his contributions. He produced [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], helping to establish Sierra's Conquests series as a serious historical adventure gaming franchise.[^ref-17] That same year saw him produce [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]], the acclaimed sequel that would become the last Sierra game released in 16-color EGA and the last with a parser.[^ref-18] Additional producer credits included [[1990 - Oils Well\|Oil's Well]] and the English version of Sorcerian (1990), a Nihon Falcom RPG localized by Sierra.[^ref-19]
 
 King's Quest V marked his debut as a voice actor when he provided memorable performances as The Cat and the Irate Customer in the Tailor's Shop in [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]].[^ref-20] This dual role as both behind-the-scenes producer and on-screen talent showcased the collaborative, multi-talented nature of Sierra's development teams during this era.
 
@@ -112,7 +112,7 @@ The enduring popularity of the games he helped create testifies to the lasting v
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Voice Actor (The Cat, Irate Customer) |
 | 1990 | [[1990 - Oils Well\|Oil's Well]] | Producer |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Producer |
-| 1990 | [[1990 - Sorcerian\|Sorcerian]] | Producer (English Version) |
+| 1990 | Sorcerian (1990) | Producer (English Version) |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Producer |
 | 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Producer |
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Producer |

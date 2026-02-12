@@ -39,7 +39,7 @@ Transitioning from art management to game design, Dersham designed, produced, or
 
 Following his departure from Sierra, Dersham continued his gaming career with several major companies, demonstrating his ability to adapt to industry changes while maintaining leadership roles.
 
-**Electronic Arts (1998–2002):** Dersham joined Electronic Arts as Executive Producer and Vice President/General Manager for their new line of outdoor games. He became Executive Producer and General Manager of the EA-Seattle office, overseeing titles including [[2000 - Championship Bass\|Championship Bass]] (2000), continuing his expertise in fishing and sports gaming.[^ref-10]
+**Electronic Arts (1998–2002):** Dersham joined Electronic Arts as Executive Producer and Vice President/General Manager for their new line of outdoor games. He became Executive Producer and General Manager of the EA-Seattle office, overseeing titles including Championship Bass (2000) (2000), continuing his expertise in fishing and sports gaming.[^ref-10]
 
 **Acclaim Entertainment (2003–2004):** As VP/GM and Executive Producer, Dersham continued working on outdoor and sports gaming titles during Acclaim's final years before the company's bankruptcy.[^ref-3]
 
@@ -105,9 +105,9 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 | 1993 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] | Studio Head |
 | 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Studio Head |
 | 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Windows & Macintosh Producer |
-| 1994 | [[1994 - Lode Runner - The Legend Returns\|Lode Runner: The Legend Returns]] | Producer |
+| 1994 | Lode Runner: The Legend Returns (1994) | Producer |
 | 1995 | [[1995 - Trophy Bass\|Trophy Bass]] | Designer/Producer |
-| 1995 | [[1995 - The Incredible Machine 3\|The Incredible Machine 3]] | Executive Producer |
+| 1995 | [[1995 - The Incredible Machine 3.0\|The Incredible Machine 3]] | Executive Producer |
 | 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Front Page Sports: Trophy Bass 2]] | Designer/Producer |
 | 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail]] | Studio Head |
 | 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Front Page Sports: Trophy Rivers]] | Designer/Producer |
@@ -119,7 +119,7 @@ In 2024, Dersham directed "Oregon's Boat," a documentary film about the McKenzie
 |------|-------|---------|------|
 | 1999 | [[1999 - Field & Stream - Trophy Bass 3D\|Field & Stream: Trophy Bass 3D]] | Sierra/EA | Executive Producer |
 | 2000 | [[2000 - Field & Stream - Trophy Bass 4\|Field & Stream: Trophy Bass 4]] | Electronic Arts | Executive Producer |
-| 2000 | [[2000 - Championship Bass\|Championship Bass]] | Electronic Arts | Producer |
+| 2000 | Championship Bass (2000) | Electronic Arts | Producer |
 | 2010 | Social City | Playdom/Disney | Executive Producer |
 | 2011 | FrontierVille | Zynga | Studio General Manager |
 

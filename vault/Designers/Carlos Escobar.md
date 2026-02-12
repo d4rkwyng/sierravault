@@ -25,11 +25,11 @@ Escobar passed away on July 4, 2011.[^ref-5]
 
 Escobar joined Sierra On-Line during a period of significant technological transition, as the company moved from its AGI engine to the more powerful SCI platform.[^ref-1] His early work included porting [[1984 - King's Quest - Quest for the Crown\|King's Quest I: Quest for the Crown]] to the Apple IIGS in 1987, where Al Lowe composed the enhanced soundtrack while Escobar handled the programming.[^ref-6]
 
-One of Escobar's most significant partnerships was with Al Lowe on the Leisure Suit Larry series. Beginning with [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] (1987), Escobar worked on nearly every Larry game through [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out\|Leisure Suit Larry 6]] (1993).[^ref-3] Steve Conrad, a fellow Sierra programmer, recalled that "Carlos was Al Lowe's right hand man" and described him as "such a funny guy and character" who "was one of the good guys."[^ref-5]
+One of Escobar's most significant partnerships was with Al Lowe on the Leisure Suit Larry series. Beginning with [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] (1987), Escobar worked on nearly every Larry game through [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] (1993).[^ref-3] Steve Conrad, a fellow Sierra programmer, recalled that "Carlos was Al Lowe's right hand man" and described him as "such a funny guy and character" who "was one of the good guys."[^ref-5]
 
 As Sierra expanded its development capabilities, Escobar became part of the core programming teams for major productions. His work on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) placed him among the programmers—including Oliver Brelsford, Doug Oldfield, Chris Hoyt, Raoul Said, and Robert Lindsley—who implemented Sierra's first fully VGA adventure game.[^ref-7] On [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] (1992), Escobar continued his programming work under lead programmer Robert Lindsley.[^ref-8]
 
-Escobar's versatility was evident in the range of projects he contributed to: from serious drama like [[1990 - Codename - Iceman\|Code-Name: Iceman]] (1989) to educational titles like [[1991 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (1991), from fantasy adventures like [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] (1991) to sci-fi comedy in [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] (1991).[^ref-2]
+Escobar's versatility was evident in the range of projects he contributed to: from serious drama like [[1990 - Codename - Iceman\|Code-Name: Iceman]] (1989) to educational titles like [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]] (1991), from fantasy adventures like [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] (1991) to sci-fi comedy in [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] (1991).[^ref-2]
 
 His final major credits at Sierra included [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]] (1994) and [[1995 - Phantasmagoria\|Phantasmagoria]] (1995), Roberta Williams' ambitious horror adventure.[^ref-2]
 
@@ -53,7 +53,7 @@ Escobar's Apple IIGS port of [[1984 - King's Quest - Quest for the Crown\|King's
 
 ### Leisure Suit Larry Series (1987–1993)
 
-As Al Lowe's primary programming collaborator, Escobar worked on [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|LSL1]], [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|LSL2]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|LSL3]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|LSL5]], and [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out\|LSL6]].[^ref-3] The "Carlos" death scene in LSL2, where Maria's brother shoots Larry, remains one of Sierra's most memorable programmer Easter eggs.[^ref-4]
+As Al Lowe's primary programming collaborator, Escobar worked on [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|LSL1]], [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|LSL2]], [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|LSL3]], [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|LSL5]], and [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|LSL6]].[^ref-3] The "Carlos" death scene in LSL2, where Maria's brother shoots Larry, remains one of Sierra's most memorable programmer Easter eggs.[^ref-4]
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
@@ -87,13 +87,13 @@ Bridget McKenna recalled: "He was such a character, and so much a part of our ev
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmer |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Programmer |
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Programmer |
-| 1991 | [[1991 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] | Programmer |
+| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]] | Programmer |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Programmer |
 | 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Programmer |
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel]] (VGA) | Programmer |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want To Be A Hero]] (VGA) | Programmer |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero]] (VGA) | Programmer |
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Programmer |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Programmer |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Programmer |
 | 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Programmer |
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Programmer |
 | 1993 | [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]] | Programmer |

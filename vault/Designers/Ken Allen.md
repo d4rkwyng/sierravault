@@ -120,7 +120,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Music, Sound |
 | 1990 | [[Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Music, Sound Programming |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Composer |
-| 1990 | [[1990 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose VGA]] | Music, Sound |
+| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose VGA]] | Music, Sound |
 | 1990 | [[1990 - Oils Well\|Oil's Well]] | Music |
 | 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown VGA]] | Music |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music |
@@ -134,7 +134,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | Year | Title | Company | Role |
 |------|-------|---------|------|
 | 1992 | [[Ringworld - Revenge of the Patriarch\|Ringworld: Revenge of the Patriarch]] | Tsunami Media | Music |
-| 1992 | [[1992 - Jones in the Fast Lane\|Jones in the Fast Lane]] (CD-ROM) | Sierra On-Line | Music |
+| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] (CD-ROM) | Sierra On-Line | Music |
 | 1992 | [[Les Manley in Lost in L.A.\|Les Manley in: Lost in L.A.]] | Accolade | Music |
 | 1992 | [[Road & Track Presents Grand Prix Unlimited\|Road & Track Presents Grand Prix Unlimited]] | Accolade | Music |
 | 1992 | [[Wacky Funsters! The Geekwad's Guide to Gaming\|Wacky Funsters! The Geekwad's Guide to Gaming]] | Tsunami Media | Music |

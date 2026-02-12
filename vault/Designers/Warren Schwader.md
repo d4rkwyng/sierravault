@@ -33,7 +33,7 @@ In 1980, while Ken and Roberta Williams were working on *The Wizard and the Prin
 
 The decision to accept meant leaving Wisconsin, his disabled brother, and everything familiar for a small software company in the foothills of California's Sierra Nevada mountains. With his brother's blessing, Schwader made the bold move, becoming On-Line Systems' first hired programmer (the second programmer after Ken himself).[^ref-levy] He moved into one of Williams' small two-bedroom houses, rent-free.[^ref-retro365]
 
-His cribbage game was re-released on floppy disk as [[1981 - Hi-Res Cribbage\|Hi-Res Cribbage]] in early 1981, selling around 2,000 copies—ten times what his cassette version had managed.[^ref-retro365] That same year, On-Line released [[1981 - Thrilogy of Games\|Thrilogy of Games]], a compilation of Schwader's early creations: Smash-Up, Bustout, and William Tell.[^ref-halcyon]
+His cribbage game was re-released on floppy disk as Hi-Res Cribbage (1981) in early 1981, selling around 2,000 copies—ten times what his cassette version had managed.[^ref-retro365] That same year, On-Line released Thrilogy of Games (1981), a compilation of Schwader's early creations: Smash-Up, Bustout, and William Tell.[^ref-halcyon]
 
 Ken Williams then approached Schwader about creating a game inspired by *Astro Blaster*, an arcade game at the local Ahwahnee Tack and Feed store.[^ref-halcyon] Rather than duplicate it exactly, Schwader took the concept and ran with it. Over four months, including a crucial two-week collaboration with Ken on the animation engine, he created [[1981 - Threshold\|Threshold]].[^ref-halcyon] The game sold approximately 25,000 copies and established Schwader as one of the premier Apple II programmers.[^ref-halcyon]
 
@@ -65,7 +65,7 @@ When Sierra sold its interest in INN, Schwader stayed with the network. In his 1
 
 After working at AOL Games and BigPrizes.com, Schwader joined iWin.com, where he became the designer and primary engineer for one of casual gaming's biggest franchises: Jewel Quest.[^ref-solitaire-network]
 
-The original [[2004 - Jewel Quest\|Jewel Quest]] (2004) was an instant hit, spawning numerous sequels that Schwader designed and engineered: Jewel Quest II (2007), Jewel Quest Solitaire (2007), Jewel Quest Solitaire II (2007), Jewel Quest III (2008), Jewel Quest IV: Heritage (2009), Jewel Quest Solitaire III (2009), and Jewel Quest: Seven Seas (2016).[^ref-mobygames] He also designed Deal or No Deal (2011) and Family Feud adaptations for iWin.[^ref-solitaire-network]
+The original Jewel Quest (2004) (2004) was an instant hit, spawning numerous sequels that Schwader designed and engineered: Jewel Quest II (2007), Jewel Quest Solitaire (2007), Jewel Quest Solitaire II (2007), Jewel Quest III (2008), Jewel Quest IV: Heritage (2009), Jewel Quest Solitaire III (2009), and Jewel Quest: Seven Seas (2016).[^ref-mobygames] He also designed Deal or No Deal (2011) and Family Feud adaptations for iWin.[^ref-solitaire-network]
 
 As colleague Dwain Theobald wrote: "Warren is the designer and primary engineer for the very successful Jewel Quest games. He has a great eye for detail and he knows how to polish a product to give it AAA quality and to take it to the next level."[^ref-linkedin]
 
@@ -115,11 +115,11 @@ Perhaps most remarkably, Schwader never strayed far from games. Even during his 
 
 | Year | Title | Role |
 |------|-------|------|
-| 1981 | [[1981 - Hi-Res Cribbage\|Hi-Res Cribbage]] | Designer, Programmer |
-| 1981 | [[1981 - Thrilogy of Games\|Thrilogy of Games]] | Designer, Programmer |
+| 1981 | Hi-Res Cribbage (1981) | Designer, Programmer |
+| 1981 | Thrilogy of Games (1981) | Designer, Programmer |
 | 1981 | [[1981 - Threshold\|Threshold]] | Designer, Programmer |
 | 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Special Features Development |
-| 1982 | [[1982 - Threshold (Atari 2600)\|Threshold (Atari 2600)]] | Designer |
+| 1982 | Threshold (1982) | Designer |
 | 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] | Creator |
 
 ### Sierra On-Line (1988–1993)

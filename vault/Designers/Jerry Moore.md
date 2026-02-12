@@ -39,11 +39,11 @@ The VGA era brought Moore's most prolific period. On [[1990 - King's Quest V - A
 
 Moore continued his prolific output into 1991, contributing graphics and artwork to [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], background art and animation to [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]], and art design work for the VGA remake [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose]].[^ref-2]
 
-His final Sierra credits included "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I VGA]] (1992), additional animation on [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] (1993).[^ref-2]
+His final Sierra credits included "Incredible Artwork" on [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] (1992), additional animation on [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] (1993), and graphics work on [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] (1993).[^ref-2]
 
 ### Westwood Studios and Later Career
 
-Beyond Sierra, Moore contributed to Westwood Studios' Legend of Kyrandia series, providing graphics and artwork for [[1993 - The Legend of Kyrandia - Hand of Fate\|Fables & Fiends: Hand of Fate]] (1993) and artist work on [[1994 - The Legend of Kyrandia - Malcolm's Revenge\|The Legend of Kyrandia: Book 3 - Malcolm's Revenge]] (1994).[^ref-2] He also contributed to [[1994 - SimCity 2000 CD Collection\|SimCity 2000: CD Collection]] (1994), creating the "Spiralopolis" scenario.[^ref-2]
+Beyond Sierra, Moore contributed to Westwood Studios' Legend of Kyrandia series, providing graphics and artwork for The Legend of Kyrandia: Hand of Fate (1993) (1993) and artist work on The Legend of Kyrandia: Malcolm's Revenge (1994) (1994).[^ref-2] He also contributed to SimCity 2000 CD Collection (1994) (1994), creating the "Spiralopolis" scenario.[^ref-2]
 
 Moore later received a "Special Thanks" credit on Happy Wars (2015), indicating continued involvement in the gaming industry.[^ref-2]
 
@@ -59,7 +59,7 @@ Moore's animation work on [[1988 - King's Quest IV - The Perils of Rosella\|King
 
 ### Hero's Quest / Quest for Glory I (1989/1992)
 
-Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest]] (1989), helping establish the visual identity of Corey and Lori Cole's innovative RPG-adventure hybrid.[^ref-5] He later contributed "Incredible Artwork" to the [[1992 - Quest for Glory I - So You Want to Be a Hero\|VGA remake]] (1992), updating the game's visuals for the 256-color era.[^ref-2]
+Moore provided animation and background scenes for the original [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest]] (1989), helping establish the visual identity of Corey and Lori Cole's innovative RPG-adventure hybrid.[^ref-5] He later contributed "Incredible Artwork" to the [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|VGA remake]] (1992), updating the game's visuals for the 256-color era.[^ref-2]
 
 ### The Colonel's Bequest (1989)
 
@@ -101,7 +101,7 @@ Through Dimensions Vertical and his ongoing work on Progress 21, Moore continues
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Graphics / Artwork |
 | 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Background Art & Animation |
 | 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (VGA)]] | Art Designer |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Incredible Artwork |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Incredible Artwork |
 | 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Additional Animation |
 | 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] | Graphics / Artwork |
 
@@ -109,9 +109,9 @@ Through Dimensions Vertical and his ongoing work on Progress 21, Moore continues
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1993 | [[1993 - The Legend of Kyrandia - Hand of Fate\|Fables & Fiends: Hand of Fate]] | Westwood Studios | Graphics / Artwork |
-| 1994 | [[1994 - The Legend of Kyrandia - Malcolm's Revenge\|The Legend of Kyrandia: Book 3 - Malcolm's Revenge]] | Westwood Studios | Artist |
-| 1994 | [[1994 - SimCity 2000 CD Collection\|SimCity 2000: CD Collection]] | Maxis | Spiralopolis |
+| 1993 | The Legend of Kyrandia: Hand of Fate (1993) | Westwood Studios | Graphics / Artwork |
+| 1994 | The Legend of Kyrandia: Malcolm's Revenge (1994) | Westwood Studios | Artist |
+| 1994 | SimCity 2000 CD Collection (1994) | Maxis | Spiralopolis |
 | 2015 | Happy Wars | Toylogic | Special Thanks |
 
 ## References
