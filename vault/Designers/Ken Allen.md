@@ -118,7 +118,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | Year | Title | Role |
 |------|-------|------|
 | 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Music, Sound |
-| 1990 | [[Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Music, Sound Programming |
+| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Music, Sound Programming |
 | 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Composer |
 | 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose VGA]] | Music, Sound |
 | 1990 | [[1990 - Oils Well\|Oil's Well]] | Music |
@@ -133,29 +133,29 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1992 | [[Ringworld - Revenge of the Patriarch\|Ringworld: Revenge of the Patriarch]] | Tsunami Media | Music |
+| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media | Music |
 | 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] (CD-ROM) | Sierra On-Line | Music |
-| 1992 | [[Les Manley in Lost in L.A.\|Les Manley in: Lost in L.A.]] | Accolade | Music |
-| 1992 | [[Road & Track Presents Grand Prix Unlimited\|Road & Track Presents Grand Prix Unlimited]] | Accolade | Music |
-| 1992 | [[Wacky Funsters! The Geekwad's Guide to Gaming\|Wacky Funsters! The Geekwad's Guide to Gaming]] | Tsunami Media | Music |
-| 1992 | [[WarpSpeed\|WarpSpeed]] (SNES) | Accolade | Music |
+| 1992 | Les Manley in: Lost in L.A. | Accolade | Music |
+| 1992 | Road & Track Presents Grand Prix Unlimited | Accolade | Music |
+| 1992 | Wacky Funsters! The Geekwad's Guide to Gaming | Tsunami Media | Music |
+| 1992 | WarpSpeed (SNES) | Accolade | Music |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Sierra On-Line | Music |
-| 1993 | [[Blue Force\|Blue Force]] | Tsunami Media | Music |
-| 1993 | [[Protostar - War on the Frontier\|Protostar: War on the Frontier]] | Tsunami Media | Music, Level Design |
-| 1993 | [[The Geekwad - Games of the Galaxy\|The Geekwad: Games of the Galaxy]] | Tsunami Media | Sound Effects |
+| 1993 | Blue Force | Tsunami Media | Music |
+| 1993 | Protostar: War on the Frontier | Tsunami Media | Music, Level Design |
+| 1993 | The Geekwad: Games of the Galaxy | Tsunami Media | Sound Effects |
 | 1993 | [[1993 - Take a Break! Pinball\|Take a Break! Pinball]] | Sierra On-Line | Music |
-| 1993 | [[WarpSpeed\|WarpSpeed]] (Genesis) | Accolade | Music |
-| 1994 | [[Return to Ringworld\|Return to Ringworld]] | Tsunami Media | Lead Designer, Producer, Music |
-| 1994 | [[Man Enough\|Man Enough]] | Tsunami Media | Music |
+| 1993 | WarpSpeed (Genesis) | Accolade | Music |
+| 1994 | Return to Ringworld | Tsunami Media | Lead Designer, Producer, Music |
+| 1994 | Man Enough | Tsunami Media | Music |
 
 ### Interplay, Parallax & Later Work (1994–2022)
 
 | Year | Title | Company | Role |
 |------|-------|---------|------|
-| 1994 | [[Descent\|Descent]] | Parallax Software | Music |
-| 1994 | [[Star Trek - Starfleet Academy\|Star Trek: Starfleet Academy]] (SNES) | Interplay | Music |
-| 1995 | [[C2 - Clay Fighter 2 - Judgment Clay\|C2: Clay Fighter 2 - Judgment Clay]] | Interplay | Music |
-| 1995 | [[Star Trek - Starfleet Academy\|Star Trek: Starfleet Academy]] (32X) | Interplay | Music |
+| 1994 | Descent | Parallax Software | Music |
+| 1994 | Star Trek: Starfleet Academy (SNES) | Interplay | Music |
+| 1995 | C2: Clay Fighter 2 - Judgment Clay | Interplay | Music |
+| 1995 | Star Trek: Starfleet Academy (32X) | Interplay | Music |
 | 1995 | [[1995 - Mixed-Up Mother Goose Deluxe\|Mixed-Up Mother Goose Deluxe]] | Sierra On-Line | Music |
 | 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Front Page Sports: Trophy Bass 2]] | Sierra On-Line | Music |
 | 1997 | Star Trek: Secret of Vulcan Fury | Interplay | Producer (unreleased) |
@@ -165,7 +165,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | 2008 | Destroy All Humans! Big Willy Unleashed | THQ | Producer |
 | 2011 | Rift | Trion Worlds | Producer |
 | 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Guys From Andromeda | Music |
-| 2022 | [[SpaceVenture\|SpaceVenture]] | Guys From Andromeda | Music |
+| 2022 | SpaceVenture | Guys From Andromeda | Music |
 
 ## References
 

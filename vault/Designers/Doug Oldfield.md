@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "King's Quest VI", "Space Quest III"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-01-30"
+last_updated: "2026-02-12"
 ---
 # Doug Oldfield
 
-<small style="color: gray">Last updated: January 30, 2026 | Pipeline research: January 31, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026 | Pipeline research: January 31, 2026</small>
 
 ## Overview
 
@@ -19,7 +19,7 @@ Beyond his programming work, Oldfield made a unique creative contribution to gam
 
 ## Career
 
-### Sierra On-Line
+### Sierra On-Line (1988–1998)
 
 Oldfield joined Sierra On-Line during the transition from AGI to SCI engine games, contributing to titles that helped define the adventure game genre.[^ref-1] His earliest credits include work on Manhunter: New York (1988) and Space Quest III (1989), where he helped program the Amiga and Atari ST conversions.[^ref-4]
 
@@ -62,6 +62,8 @@ Doug Oldfield's career at Sierra represents the unsung work of the programmers w
 The Astro Chicken minigame remains his most visible creative contribution, preserved in gaming history as one of the era's most memorable hidden games.[^ref-3] Players continue to discover and appreciate this artifact of Sierra's playful development culture, where a programmer's side project could become an integral part of a beloved franchise.
 
 ## Games
+
+### Sierra On-Line (1988–1998)
 
 | Year | Game | Role |
 |------|------|------|

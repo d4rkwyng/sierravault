@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Quest for Glory II", "Space Quest IV"]
 companies: ["Sierra On-Line"]
-last_updated: "2026-01-30"
+last_updated: "2026-02-12"
 ---
 # Pablo Ghenis
 
-<small style="color: gray">Last updated: January 30, 2026 | Pipeline research: January 31, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026 | Pipeline research: January 31, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,11 @@ Ghenis's contributions extended beyond pure systems work to include lead program
 
 ## Career
 
-### Development Systems Engineering
+### Sierra On-Line (1988–1991)
 
 At Sierra, Ghenis specialized in development systems engineering, working on the tools and interpreter systems that Sierra's designers and programmers used to create games.[^ref-1] He collaborated with [[Jeff Stephenson]], [[Corey Cole]], and other Sierra engineers on the SCI (Sierra Creative Interpreter) engine, which powered all of Sierra's major adventure games from 1988 onward.[^ref-3]
 
 His development system credits appear across virtually every major Sierra title of the era, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.[^ref-1] This systems-level work required deep understanding of Sierra's scripting language, graphic and sound features, character animation systems, and cross-platform considerations.[^ref-4]
-
-### Game Programming and Design
 
 Beyond systems work, Ghenis took on programming and design roles on several titles. He served as lead programmer on Codename: ICEMAN (1990) alongside J. Mark Hood and Doug Oldfield, helping implement Jim Walls's submarine simulation adventure.[^ref-5] His additional design credit on Leisure Suit Larry Goes Looking for Love (1988), shared with Stuart Goldstein, indicates contributions to game content beyond technical implementation.[^ref-6]
 
@@ -58,6 +56,8 @@ Pablo Ghenis represents the essential but often overlooked role of development s
 His 60 credits across 22 games reflects not the limitations of his contributions but their breadth—development systems work touched every game Sierra produced using the SCI engine.[^ref-1] The tools and interpreter systems Ghenis helped create enabled Sierra's designers to realize their visions without needing to work at the assembly language level, democratizing game development within the company.
 
 ## Games
+
+### Sierra On-Line (1988–1991)
 
 | Year | Game | Role |
 |------|------|------|

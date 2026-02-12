@@ -5,11 +5,11 @@ birth_year: 1961
 death_year: null
 notable_games: ["The Incredible Machine", "Arcticfox", "Puzzle Poker"]
 companies: ["Dynamix", "Sierra", "Top Meadow"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Kevin Ryan
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,13 @@ Ryan's journey into game development began in the early 1980s as one of the earl
 
 ## Career
 
-### Early Career
+### Early Career (1983–1984)
 
 Kevin Ryan's entry into the game industry came during the golden age of personal computing in the early 1980s.[^ref-7] Working as one of the earlier developers for the Apple II computer, he quickly demonstrated his programming prowess with the release of Zoo Master and Black Belt in 1983.[^ref-8] These early works established Ryan's reputation as a skilled programmer capable of creating engaging gameplay experiences on the limited hardware of the time.
 
 In 1984, Ryan made a pivotal career move by joining Dynamix as an owner/partner, where he immediately began contributing to the company's growing portfolio of innovative games.[^ref-9] His first major project at Dynamix was creating the Commodore 64 version of Sword of Kadash, showcasing his ability to adapt games across different platforms while maintaining their core gameplay elements.[^ref-10] This technical versatility would become a hallmark of Ryan's career, as he consistently demonstrated mastery of emerging computer platforms and technologies.
 
-### Dynamix and Sierra Years
+### Dynamix Era (1984–1998)
 
 Ryan's most significant contributions to gaming came during his tenure at Dynamix, where he served as both programmer and designer on several groundbreaking titles.[^ref-11] His work on Arcticfox in 1986 marked a particularly important milestone, as it was the first original game developed for the Amiga computer.[^ref-12] Damon Slye, who worked closely with Ryan on the project, praised his comprehensive contributions: "He handled all the graphics, sounds, and Amiga specific interfaces."[^ref-13]
 
@@ -33,7 +33,7 @@ The acquisition of Dynamix by Sierra On-Line brought Ryan into the larger Sierra
 
 Ryan's most famous creation, The Incredible Machine, emerged from this productive period and represented the culmination of his design philosophy.[^ref-16] The game's unique physics-based puzzle mechanics and intuitive interface demonstrated Ryan's ability to translate complex programming concepts into accessible and entertaining gameplay experiences.[^ref-17] Despite its eventual success and cultural impact, Ryan has remained modest about the achievement, often expressing surprise at the game's lasting popularity and recognition.[^ref-18]
 
-### Later Career and Top Meadow
+### Post-Sierra/Top Meadow (1998–present)
 
 In 1998, Ryan embarked on a new chapter in his career by co-founding Top Meadow with Brian Supple, taking on the roles of both co-founder and lead coder.[^ref-19] This venture represented Ryan's transition from working within larger corporate structures to the emerging independent game development scene. At Top Meadow, Ryan continued to innovate, creating games like Puzzle Poker and Minigolf Mania that showcased his ability to adapt to changing market conditions and player preferences.[^ref-20]
 
@@ -77,10 +77,17 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 
 ## Games
 
+### Early Career (1983)
+
 | Year | Game | Role |
 |------|------|------|
 | 1983 | Zoo Master | Designer/Programmer |
 | 1983 | Black Belt | Designer/Programmer |
+
+### Dynamix Era (1984–2001)
+
+| Year | Game | Role |
+|------|------|------|
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Programmer (C64 version) |
 | 1986 | [[1986 - Arcticfox\|Arcticfox]] | Programmer/Graphics/Sound |
 | 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Designer/Programmer |
@@ -95,6 +102,11 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 | 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Designer |
 | 2000 | [[2000 - Return of The Incredible Machine - Contraptions\|Return of The Incredible Machine: Contraptions]] | Designer |
 | 2001 | [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] | Designer |
+
+### Top Meadow (2002–present)
+
+| Year | Game | Role |
+|------|------|------|
 | 2002 | Puzzle Poker | Designer/Lead Coder |
 | 2004 | Minigolf Mania | Designer/Lead Coder |
 | 2011 | [[2011 - The Incredible Machine (2011)\|The Incredible Machine (2011)]] | Original Designer |

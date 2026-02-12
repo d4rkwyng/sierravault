@@ -17,7 +17,7 @@ William Robert Davis (born May 1949) is an Emmy Award-winning American illustrat
 
 Before entering the game industry, Davis had established himself in broadcast television as lead graphic designer at NBC, where he won an Emmy Award for Outstanding Achievement in Graphic Design and Title Sequences for his work on NBC's "The First 50 Years: A Closer Look" in 1978.[^ref-3] He also created over 200 "More to Come" slides for The Tonight Show Starring Johnny Carson and designed the logo for The Gong Show.[^ref-4] This background in professional animation and broadcast design uniquely positioned him to elevate Sierra's visual standards during the company's transition to CD-ROM and VGA technology.
 
-After departing Sierra, Davis served as Vice President of Development and Creative Director at Rocket Science Games from 1996, where he oversaw ambitious multimedia projects including [[The Space Bar]], [[Rocket Jockey]], and [[Obsidian (1997 video game)\|Obsidian]].[^ref-5] He later founded Mother Productions and continued contributing to the gaming industry as an art director on the Jewel Quest series in the late 2000s.[^ref-6]
+After departing Sierra, Davis served as Vice President of Development and Creative Director at Rocket Science Games from 1996, where he oversaw ambitious multimedia projects including The Space Bar, Rocket Jockey, and Obsidian (1997).[^ref-5] He later founded Mother Productions and continued contributing to the gaming industry as an art director on the Jewel Quest series in the late 2000s.[^ref-6]
 
 ## Career
 

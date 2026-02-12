@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Indianapolis 500", "NASCAR Racing", "Grand Prix Legends"]
 companies: ["Papyrus Design Group", "Sierra On-Line", "iRacing"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Dave Kaemmer
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,7 +19,7 @@ As Tim Wheatley, creator of Race Sim Central, noted: "In my opinion, he founded 
 
 ## Career
 
-### Early Career
+### Early Career (Pre-1987)
 
 Kaemmer's journey into game development began with his early exposure to personal computing in Indiana, where he was "probably one of the first people in west central Indiana to buy a Radio Shack TRS-80 Model I computer."[^ref-6] His fascination with 3D graphics was sparked by subLogic's Flight Simulator on the TRS-80, as he recalled: "My favorite program for the TRS-80 was 'Flight Simulator' from subLogic. I always wanted to figure out how to make a program that could draw a 3D image like that."[^ref-7]
 
@@ -27,7 +27,7 @@ In 1987, Kaemmer co-founded Papyrus Design Group with his partner Omar, though O
 
 The early days at Papyrus were marked by a dedication to authenticity over entertainment value: "We never spent a lot of time thinking about what would make a fun game--only what would make the experience more like driving a real racecar."[^ref-10] This uncompromising approach to realism would become Kaemmer's trademark and set Papyrus apart from other racing game developers of the era.[^ref-11]
 
-### Sierra Years
+### Papyrus/Sierra Years (1987–2002)
 
 The relationship between Papyrus and Sierra On-Line began to flourish in the early 1990s, culminating in Sierra's acquisition of Papyrus in 1995.[^ref-12] During this period, Kaemmer and his team at Papyrus developed some of the most influential racing simulations in gaming history, establishing new standards for physics modeling and track authenticity.[^ref-13]
 
@@ -35,7 +35,7 @@ The Indianapolis 500 simulation, one of Kaemmer's earliest major successes, demo
 
 However, it was Grand Prix Legends in 1998 that perhaps best exemplified Kaemmer's uncompromising approach to realism. The game simulated 1967 Formula One cars with such accuracy that Kaemmer himself acknowledged: "Driving a 1967 GP car is more difficult than driving just about anything else, and the simulation is more difficult than driving a real car...many people think that it feels like driving on ice."[^ref-16] Despite its challenging nature, Grand Prix Legends became a cult classic and is still considered one of the greatest racing simulations ever created. Kaemmer remained with Papyrus through the development of NASCAR Racing 4 (2001) and NASCAR Racing 2002 Season, finally leaving the company in 2002.[^ref-17]
 
-### Later Career
+### iRacing Era (2002–Present)
 
 After leaving Papyrus in 2002, Kaemmer embarked on his most ambitious project yet: founding iRacing, an online racing simulation service that would revolutionize competitive sim racing.[^ref-18] Now a 57-year-old resident of suburban Boston, Massachusetts, Kaemmer continued to push the boundaries of what was possible in racing simulation technology.[^ref-19] At iRacing, he has continued to refine his approach to tire modeling and physics simulation, with industry experts noting: "He's a genius at developing the tyre model. He's doing things with the tyre model that even tyre manufacturers don't attempt to do."[^ref-20]
 
@@ -71,8 +71,10 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Papyrus Design Group / Sierra On-Line (1989–2003)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Designer/Programmer |
 | 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Designer/Programmer |
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Designer/Programmer |
@@ -83,6 +85,11 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 | 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Designer/Programmer |
 | 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Designer/Programmer |
 | 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Designer/Programmer |
+
+### iRacing (2008–Present)
+
+| Year | Title | Role |
+|------|-------|------|
 | 2008 | iRacing | Founder/Lead Developer |
 
 ## References

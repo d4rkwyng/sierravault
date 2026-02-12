@@ -85,7 +85,7 @@ Moulder's work on the Close Combat series showcased his range beyond fantasy and
 
 ### Nancy Drew: Tomb of the Lost Queen (2012)
 
-As CEO and Executive Producer on [[Nancy Drew: Tomb of the Lost Queen]], Moulder led Her Interactive's 26th Nancy Drew title, which featured an Egyptian archaeological mystery.[^ref-3] The game demonstrated the franchise's continued commercial viability under digital distribution and showcased the company's ability to maintain production values during a significant business model transition.
+As CEO and Executive Producer on Nancy Drew: Tomb of the Lost Queen, Moulder led Her Interactive's 26th Nancy Drew title, which featured an Egyptian archaeological mystery.[^ref-3] The game demonstrated the franchise's continued commercial viability under digital distribution and showcased the company's ability to maintain production values during a significant business model transition.
 
 ## Design Philosophy
 

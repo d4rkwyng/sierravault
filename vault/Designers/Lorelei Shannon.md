@@ -5,11 +5,11 @@ birth_year: 1965
 death_year: null
 notable_games: ["Phantasmagoria: A Puzzle of Flesh", "King's Quest VII: The Princeless Bride", "Laura Bow 2: The Dagger of Amon Ra"]
 companies: ["Sierra On-Line", "Seagull Scientific", "FreeWave Technologies"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Lorelei Shannon
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Shannon's entry into the gaming industry began through technical writing and doc
 
 Her early work demonstrated a natural aptitude for understanding complex game systems and translating them into accessible written material. This skill was further evidenced in her technical documentation work for Quest for Glory III: Wages of War, also in 1992.[^ref-12] These projects established her reputation within Sierra as someone who could bridge the gap between technical implementation and player comprehension, a skill that would prove invaluable as she transitioned into creative roles.[^ref-13]
 
-### Sierra Years
+### Sierra Years (1991–1996)
 
 Shannon's most productive and influential period came during her tenure at Sierra On-Line, where she evolved from technical writer to game designer and narrative specialist.[^ref-14] Her first major creative contribution came in 1991 with additional written material for [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], where she also provided voice acting, demonstrating her versatility across multiple aspects of game development.[^ref-15]
 
@@ -35,7 +35,7 @@ The pivotal moment in Shannon's career came with her work on [[1994 - King's Que
 
 Shannon's magnum opus came with [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] in 1996, where she served as both writer and game designer.[^ref-19] This psychological horror adventure game represented the culmination of her design philosophy and creative vision. The game's mature themes, complex psychological narrative, and unflinching exploration of mental illness and sexuality generated significant controversy, leading to bans in multiple countries and retail chains.[^ref-20]
 
-### Later Career
+### Post-Sierra Career (1996–Present)
 
 Following her departure from Sierra, Shannon transitioned into technical writing and editing roles across various industries, accumulating what her LinkedIn profile describes as "over 15 years of experience" as a technical content specialist.[^ref-21] She worked at companies including FreeWave Technologies and Seagull Scientific, where colleagues praised her expertise and collaborative approach.[^ref-22] Olivia McCormack noted, "It was a joy to work alongside Lorelei on the Architecture Content team. She is an impressive technical editor, a strong team player, and an inspiration to work alongside, setting the bar very high for productivity and quality alike."[^ref-23]
 
@@ -79,8 +79,10 @@ Today, Shannon is remembered as part of a generation of pioneering female game d
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Sierra On-Line (1991–1996)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Additional Writer, Voice Actor (Stinky) |
 | 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Additional Writer |
 | 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Technical Documentation |
@@ -89,7 +91,12 @@ Today, Shannon is remembered as part of a generation of pioneering female game d
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Hintbook Writer |
 | 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Designer, Director, Writer, Voice Director |
 | 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Designer, Screenwriter, Documentation |
-| 2004 | Luvrgrl[^ref-52] | Writer |
+
+### Post-Sierra (2004)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2004 | Luvrgrl[^ref-52] | — | Writer |
 
 ## References
 

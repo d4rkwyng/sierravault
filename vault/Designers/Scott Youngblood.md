@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Starsiege: Tribes", "Tribes 2", "Firefall"]
 companies: ["Dynamix", "Sony Computer Entertainment America", "Red 5 Studios"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Scott Youngblood
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,13 @@ Born and raised with a passion for gaming, Youngblood's career trajectory took h
 
 ## Career
 
-### Early Career
+### Early Career (1992–1997)
 
 Youngblood began his journey in the video game industry at Dynamix in 1992, starting in quality assurance before gradually working his way up through various roles.[^ref-1] His early work included testing on titles like Aces of the Pacific (1992) and The Adventures of Willy Beamish (1992), where he gained valuable experience understanding game mechanics and player interaction.[^ref-17] During his time at Dynamix from 1992 to 1997, he contributed to the Front Page Sports series, working on multiple iterations of their football and baseball simulations in various capacities from QA to design roles.[^ref-1]
 
 The Front Page Sports series provided Youngblood with crucial experience in game development pipelines and player-focused design.[^ref-1] His work on Front Page Sports: Ski Racing (1997) marked one of his first significant design contributions, helping establish his reputation within Dynamix as a creative problem-solver.[^ref-17] This period of his career was characterized by learning the fundamentals of game development while contributing to commercially successful sports titles that required deep understanding of gameplay mechanics and user interface design.[^ref-1]
 
-### Dynamix and Sierra Years
+### Dynamix and Sierra Years (1998–2001)
 
 The pivotal moment in Youngblood's career came in 1998 when he was promoted to lead designer on Starsiege: Tribes, a project that would define his legacy in the gaming industry.[^ref-1] Working closely with physics programmer Dave Moore, Youngblood helped create the revolutionary movement system that became Tribes' signature feature.[^ref-14] The famous "skiing" mechanic was actually discovered by accident when players learned to exploit the physics engine, a development that Youngblood embraced rather than corrected, demonstrating his willingness to let player creativity drive design decisions.[^ref-15]
 
@@ -33,13 +33,13 @@ Youngblood's inspiration for the jetpack system came from observing skilled Quak
 
 Following the success of Starsiege: Tribes, Youngblood continued as lead designer on Tribes 2 in 2001, refining and expanding upon the mechanics that made the original game revolutionary.[^ref-1] The sequel allowed him to address many of the technical limitations of the first game while introducing new vehicles, weapons, and larger-scale battles that could support up to 64 players.[^ref-12] His work on Tribes 2 solidified the franchise's reputation as the premier team-based multiplayer shooter of its era, influencing countless subsequent games in the genre.[^ref-15]
 
-### Sony Computer Entertainment America
+### Sony Computer Entertainment America (2004–2007)
 
 In 2004, Youngblood transitioned to Sony Computer Entertainment America (SCEA), where he took on the role of lead multiplayer designer.[^ref-1] His work at Sony focused primarily on the Syphon Filter franchise, where he applied his multiplayer expertise to the action-stealth series.[^ref-1] He served as lead multiplayer designer on Syphon Filter: The Omega Strain (2004) and Syphon Filter: Dark Mirror (2006), bringing his understanding of competitive gameplay to a different genre.[^ref-17]
 
 During his time at Sony from 2004 to 2007, Youngblood expanded his design skills beyond the FPS genre, learning to adapt his multiplayer design philosophy to third-person action games.[^ref-1] He also received special thanks credits on Syphon Filter: Logan's Shadow (2007), indicating his ongoing influence on the franchise even as his role evolved.[^ref-17] This period allowed him to explore different aspects of game design while maintaining his focus on creating engaging multiplayer experiences.[^ref-1]
 
-### Red 5 Studios
+### Red 5 Studios (2007–2014)
 
 In April 2007, Youngblood joined Red 5 Studios after being recruited through their innovative "Golden Ticket" campaign.[^ref-6] The recruitment process itself left a lasting impression on him: "I'll just describe what it was like getting one of these 'golden tickets,' as they're referred to around here. This overnight package shows up to my office at Sony--I had no idea what it is."[^ref-19] The elaborate recruitment effort convinced him that Red 5 was working on something special, leading to his decision to leave Sony.[^ref-19]
 
@@ -85,8 +85,10 @@ The technical innovations required to support Tribes' large-scale battles and co
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Dynamix Era (1992–2001)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Quality Assurance |
 | 1992 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Tester |
 | 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Various |
@@ -100,12 +102,17 @@ The technical innovations required to support Tribes' large-scale battles and co
 | 1999 | [[1999 - Front Page Sports - Ski Racing 99\|Front Page Sports: Ski Racing 99]] | Designer |
 | 2001 | [[2001 - Tribes 2\|Tribes 2]] | Lead Designer |
 | 2001 | Majestic: Special Edition | Content Team |
-| 2004 | Syphon Filter: The Omega Strain | Lead Multiplayer Designer |
-| 2006 | Syphon Filter: Dark Mirror | Lead Multiplayer Designer |
-| 2007 | Syphon Filter: Logan's Shadow | Special Thanks |
-| 2014 | Firefall | Designer |
-| 2022 | Call of Duty: Modern Warfare II | QA |
-| 2022 | The Walking Dead: Last Mile | Designer |
+
+### Post-Sierra (2004–2022)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2004 | Syphon Filter: The Omega Strain | Sony Computer Entertainment | Lead Multiplayer Designer |
+| 2006 | Syphon Filter: Dark Mirror | Sony Computer Entertainment | Lead Multiplayer Designer |
+| 2007 | Syphon Filter: Logan's Shadow | Sony Computer Entertainment | Special Thanks |
+| 2014 | Firefall | Red 5 Studios | Designer |
+| 2022 | Call of Duty: Modern Warfare II | Activision | QA |
+| 2022 | The Walking Dead: Last Mile | Genvid Entertainment | Designer |
 
 ## References
 

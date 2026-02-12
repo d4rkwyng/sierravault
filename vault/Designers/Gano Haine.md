@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["EcoQuest: The Search for Cetus", "EcoQuest: Lost Secret of the Rainforest", "Pepper's Adventures in Time"]
 companies: ["Sierra Online"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Gano Haine
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Haine's path to game design was unconventional, beginning with a fifteen-year ca
 
 The transition from education to gaming began in the late 1980s when Haine discovered adventure games and, by her own admission, became addicted to them.[^ref-13] As she recalled, "I don't think it's something you do to yourself on purpose. I soon realized that I needed to find a way to make it a profession or I'd starve."[^ref-14] Her expertise in analyzing and critiquing games led her to become a prominent voice in CompuServe's Gamers Forum, where her thoughtful reviews and design insights gained recognition within the gaming community.[^ref-15]
 
-### Sierra Years
+### Sierra Years (1991–1993)
 
 In 1991, Sierra Online hired Haine initially as an informal consultant, recognizing the value of her educational background and gaming expertise.[^ref-16][^ref-17] The opportunity was significant enough that she made the life-changing decision to move to Oakhurst, California, to become a full-time game designer at Sierra's headquarters.[^ref-18] This marked the beginning of her most productive and influential period in game development.
 
@@ -37,7 +37,7 @@ The EcoQuest project was initially uncertain: "We didn't really expect to get gr
 
 During her time at Sierra, Haine also became inadvertently involved in one of the company's most controversial projects when Ken Williams introduced her to Daryl Gates, the former Los Angeles Police Chief who would go on to create Police Quest: Open Season.[^ref-23] Williams told her, "Show this man everything about how we do this!" and asked her to demonstrate Sierra's development tools to Gates.[^ref-24] Only after the meeting did one of her artists inform her who the visitor was, recounting: "The artist looks at me, and he goes, 'Gano! Daryl Gates. LA. KA-BOOM!'"[^ref-25]
 
-### Later Career
+### Later Career (1993–Present)
 
 After her groundbreaking work at Sierra in the early 1990s, Haine's later career details are less well-documented in public sources, though professional profiles indicate she continued to work in technology and entertainment industries.[^ref-26] Her influence on educational gaming and environmental themes in interactive entertainment continued to be felt long after her direct involvement in game development.[^ref-27]
 
@@ -77,11 +77,13 @@ Haine's work also stands as a testament to the unique creative environment that 
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
-| 1992 | EcoQuest: The Search for Cetus | Designer/Writer |
+### Sierra On-Line (1991–1993)
+
+| Year | Title | Role |
+|------|-------|------|
+| 1992 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Designer/Writer |
 | 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest: Lost Secret of the Rainforest]] | Designer/Writer |
-| 1993 | Pepper's Adventures in Time | Contributor |
+| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Contributor |
 
 ## References
 

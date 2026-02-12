@@ -5,11 +5,11 @@ birth_year: 1953
 death_year: null
 notable_games: ["Mystery House", "King's Quest", "Phantasmagoria"]
 companies: ["On-Line Systems", "Sierra On-Line"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Roberta Williams
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -27,7 +27,7 @@ Roberta Williams' entry into game development was serendipitous and unexpected. 
 
 Drawing inspiration from Agatha Christie's "And Then There Were None," Williams designed her first game, Mystery House, in 1980.[^ref-11] The game featured the memorable opening line: "You are in the front yard of a large abandoned Victorian house. Stone steps lead up to a wide porch."[^ref-12] What made Mystery House revolutionary was not just its narrative, but its inclusion of simple line-drawn graphics—making it the first home computer game to combine graphics with adventure gameplay.[^ref-13] The game was programmed by Ken Williams and became an unexpected commercial success, selling over 10,000 copies and generating $167,000 in revenue.[^ref-14]
 
-### Sierra Years
+### Sierra Years (1980–1999)
 
 Following the success of Mystery House, the Williams founded On-Line Systems in 1980, which later became Sierra On-Line.[^ref-15] Roberta quickly established herself as the company's primary adventure game designer, creating the Hi-Res Adventures series between 1980 and 1982.[^ref-16] Her early games included [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|The Wizard and the Princess]] (1980), which was notable for being one of the first adventure games to feature color graphics.[^ref-17]
 
@@ -35,7 +35,7 @@ Williams' masterpiece came in 1984 with the release of [[1984 - King's Quest - Q
 
 The King's Quest series became Sierra's flagship franchise, with Williams designing seven main entries through 1998. Each game pushed technological boundaries while maintaining her commitment to storytelling rooted in fairy tale traditions.[^ref-20] Her approach was deeply personal: "As a young girl, I always had enjoyed the old fairy tales of yore. I read them and re-read them. Therefore, when thinking about designing a game, I naturally gravitated to what I liked and felt comfortable with."[^ref-21]
 
-### Later Career
+### Post-Sierra (2023–Present)
 
 After leaving the video game industry in 1998, Williams spent nearly two decades away from game development, focusing on personal interests including extensive world travel.[^ref-22] She remained largely absent from the gaming world until 2023, when she surprised the industry by returning to create a modern 3D remake of the classic Colossal Cave Adventure—the very game that had inspired her career decades earlier.[^ref-23]
 
@@ -75,6 +75,8 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 
 ## Games
 
+### On-Line Systems / Sierra On-Line (1980–1999)
+
 | Year | Game | Role |
 |------|------|------|
 | 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | Designer |
@@ -102,6 +104,11 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 | 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Designer, Director, Producer, Writer |
 | 1995 | [[1995 - Shivers\|Shivers]] | Script Writer, Creative Consultant |
 | 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Designer |
+
+### Post-Sierra (2023)
+
+| Year | Game | Role |
+|------|------|------|
 | 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Designer |
 
 ## References

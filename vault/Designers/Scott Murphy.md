@@ -5,11 +5,11 @@ birth_year: 1954
 death_year: null
 notable_games: ["Space Quest: The Sarien Encounter", "Space Quest II: Vohaul's Revenge", "King's Quest: Quest for the Crown"]
 companies: ["Sierra On-Line", "Guys from Andromeda"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Scott Murphy
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,13 @@ Murphy's career spans over four decades in the video game industry, beginning in
 
 ## Career
 
-### Early Career
+### Early Career (1982–1985)
 
 Scott Murphy entered the video game industry during its formative years, joining Sierra On-Line in the early 1980s when the company was still establishing itself as a major force in computer gaming.[^ref-7] His background in programming and his natural aptitude for problem-solving made him a valuable addition to Sierra's growing development team.[^ref-8] Murphy's early work involved contributing to various projects as both a programmer and designer, learning the craft of game development during an era when small teams created entire games from concept to completion.[^ref-9]
 
 His first notable contribution was work on early Sierra titles including [[1982 - Creepy Corridors\|Creepy Corridors]] in 1982, which helped him develop his skills in game programming and design.[^ref-10] Murphy also contributed programming work to the groundbreaking [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] in 1984, which introduced Sierra's revolutionary AGI (Adventure Game Interpreter) engine and established many conventions that would define adventure gaming.[^ref-11] This early experience working on Roberta Williams' pioneering adventure game provided Murphy with crucial insights into interactive storytelling and game design philosophy.[^ref-12]
 
-### Sierra Years
+### Sierra Years (1986–1995)
 
 Murphy's career truly flourished when he partnered with artist Mark Crowe to create the Space Quest series, beginning with [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] in 1986.[^ref-13] The duo, who dubbed themselves the "Two Guys from Andromeda," created a unique brand of science fiction comedy that distinguished Space Quest from other adventure games of the era.[^ref-14] Murphy's programming expertise and writing skills complemented Crowe's artistic vision, resulting in a creative partnership that would span nearly a decade.[^ref-15]
 
@@ -33,7 +33,7 @@ The success of the first Space Quest game led to immediate sequels, with Murphy 
 
 The early 1990s marked the peak of Murphy's career at Sierra, as he and Crowe created [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], widely considered the series' masterpiece.[^ref-19] This game showcased Murphy's growing sophistication as both a programmer and storyteller, featuring time travel elements that allowed players to visit locations from previous games while experiencing cutting-edge VGA graphics and Sound Blaster audio.[^ref-20] Murphy also oversaw the VGA remake of the original Space Quest game, [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter]], demonstrating his commitment to preserving the series' legacy while embracing new technology.
 
-### Later Career
+### Post-Sierra / Guys From Andromeda (1996–Present)
 
 Following the completion of [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] in 1995, Murphy's relationship with Sierra began to evolve as the company shifted its focus toward different types of games.[^ref-21] The adventure game market was experiencing significant changes, and the creative freedom that Murphy and Crowe had enjoyed during the series' peak years was becoming increasingly constrained by corporate decisions and market pressures.[^ref-22] Despite plans for Space Quest VII, the project was ultimately cancelled, marking the end of an era for both Murphy and the adventure gaming genre at Sierra.[^ref-23]
 
@@ -69,6 +69,8 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 
 ## Games
 
+### Sierra On-Line (1982–1995)
+
 | Year | Game | Role |
 |------|------|------|
 | 1982 | [[1982 - Creepy Corridors\|Creepy Corridors]] | Programmer |
@@ -92,6 +94,11 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 | 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Co-Designer, Programmer |
 | 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Audio Editor, Foley |
 | 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Co-Designer, Writer, Voice Director |
+
+### Post-Sierra / Guys From Andromeda (2012–Present)
+
+| Year | Game | Role |
+|------|------|------|
 | 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Creator |
 | 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Co-Designer |
 

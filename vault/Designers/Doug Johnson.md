@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Front Page Sports: Football Pro '97", "Red Baron 3D", "Front Page Sports: Baseball Pro '98"]
 companies: ["Burnsville-Eagan-Savage Schools", "Spartz"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Doug Johnson
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -101,8 +101,10 @@ Johnson's recognition through various awards, including the IBM Excellence in Ma
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Dynamix (1993–1998)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Special Thanks |
 | 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Additional Design, Testing |
 | 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design, Testing |

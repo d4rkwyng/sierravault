@@ -5,11 +5,11 @@ birth_year: 1945
 death_year: 1994
 notable_games: ["Conquests of Camelot: The Search for the Grail", "Ringworld: Revenge of the Patriarch", "Blue Force"]
 companies: ["Sierra Entertainment, Inc.", "Interplay Entertainment Corp.", "TSR, Inc."]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Peter Ledger
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,7 +19,7 @@ Ledger's approach to life was encapsulated by his personal philosophy: "I need t
 
 ## Career
 
-### Early Career and Artistic Foundation
+### Early Career and Artistic Foundation (1970s–1989)
 
 Before entering the video game industry, Peter Ledger established himself as a premier illustrator in Australia during the 1970s and 1980s.[^ref-8] His artistic training included learning from a master painter who taught him advanced techniques, including how to "isolate work from background and place opposing colors on either side of brush for pure to blend control."[^ref-2] This technical foundation would later prove invaluable in his video game artwork.
 
@@ -27,13 +27,13 @@ Ledger's early career achievements included winning the Art Directors Silver Awa
 
 His artistic influences included Carl Barks' duck art, of which he described himself as "a big fan," demonstrating his appreciation for both commercial and fine art traditions.[^ref-2] This diverse artistic background prepared him well for the creative challenges he would face in video game development.
 
-### Sierra Years and Video Game Breakthrough
+### Sierra Years (1990)
 
 Ledger's entry into video game development began in 1990 when he joined Sierra Entertainment, Inc. as Art Designer for [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]].[^ref-1] This role marked a significant transition from traditional illustration to interactive media, where his skills in creating immersive fantasy environments proved invaluable.[^ref-11] The game, set in Arthurian legend, allowed Ledger to utilize his expertise in fantasy illustration while adapting to the technical constraints and possibilities of early 1990s computer graphics.[^ref-11]
 
 His work on Conquests of Camelot established him as a valuable asset in the video game industry, leading to subsequent opportunities with other major game development companies.[^ref-12] The transition from traditional media to digital game art required Ledger to master new tools and techniques while maintaining the artistic quality that had made him successful in other fields.[^ref-16]
 
-### Later Career and Industry Expansion
+### Post-Sierra Career (1992–1994)
 
 Following his success at Sierra, Ledger expanded his video game portfolio by working with Interplay Entertainment Corp. in 1992, where he created backgrounds for Ringworld: Revenge of the Patriarch.[^ref-1] This science fiction-themed project demonstrated his versatility, showing he could adapt his artistic style from medieval fantasy to futuristic environments.[^ref-12] The same year, he contributed background renderings to Blue Force, further cementing his reputation as a skilled environmental artist.[^ref-1]
 
@@ -69,12 +69,24 @@ Beyond his direct contributions to specific games, Ledger's career represents an
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Sierra On-Line (1990)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Art Designer |
-| 1992 | Ringworld: Revenge of the Patriarch | Background Artist |
-| 1993 | Blue Force | Background Artist |
-| 1996 | Blood & Magic | Background Illustrator |
+
+### Post-Sierra (1992–1996)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Games | Background Artist |
+| 1993 | Blue Force | Tsunami Games | Background Artist |
+| 1996 | Blood & Magic | TSR, Inc. | Background Illustrator (posthumous) |
+
+### Posthumous Tributes (2021–2023)
+
+| Year | Title | Role |
+|------|-------|------|
 | 2021 | The Telwynium: Book One - Winter's Dawn | Special Thanks and Inspiration |
 | 2022 | The Telwynium: Book Two - The Summer King | Special Thanks and Inspiration |
 | 2023 | The Telwynium: Book Three - The Shadow of Spring | Special Thanks and Inspiration |

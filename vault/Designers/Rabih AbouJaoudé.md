@@ -84,32 +84,32 @@ The visual standards AbouJaoudé established for the Hoyle series continued to i
 | Year | Title | Role |
 |------|-------|------|
 | 1995 | Hoyle Classic Games | Lead Artist |
-| 1996 | [[Games/Hoyle/1996 - Hoyle Blackjack.md\|Hoyle Blackjack]] | Character Animator |
-| 1996 | [[Games/Hoyle/1996 - Hoyle Bridge.md\|Hoyle Bridge]] | Lead Artist |
+| 1996 | [[1996 - Hoyle Blackjack\|Hoyle Blackjack]] | Character Animator |
+| 1996 | [[1996 - Hoyle Bridge\|Hoyle Bridge]] | Lead Artist |
 | 1996 | Hoyle Children's Collection | Lead Artist |
-| 1996 | [[Games/Hoyle/1996 - Hoyle Solitaire.md\|Hoyle Solitaire]] | Artist |
-| 1997 | [[Games/Hoyle/1997 - Hoyle Poker.md\|Hoyle Poker]] | Artist, Animator |
+| 1996 | [[1996 - Hoyle Solitaire\|Hoyle Solitaire]] | Artist |
+| 1997 | [[1997 - Hoyle Poker\|Hoyle Poker]] | Artist, Animator |
 | 1997 | Hoyle Classic Card Games | Senior Artist, 3D Illustrator |
-| 1998 | [[Games/Hoyle/1998 - Hoyle Battling Ships and War.md\|Hoyle Battling Ships and War]] | Senior Artist, 3D Illustrator |
+| 1998 | [[1998 - Hoyle Battling Ships and War\|Hoyle Battling Ships and War]] | Senior Artist, 3D Illustrator |
 | 1998 | Hoyle Board Games | Design, Graphics/Artwork |
 | 1998 | Hoyle Solitaire | Artist, Cheer Sound |
-| 1999 | [[Games/Hoyle/1999 - Hoyle Backgammon and Cribbage.md\|Hoyle Backgammon & Cribbage]] | Designer, Lead Artist, 3D Illustrator |
-| 1999 | [[Games/Hoyle/1999 - Hoyle Card Games.md\|Hoyle Card Games]] | Design, Graphics/Artwork |
-| 1999 | [[Games/Hoyle/1999 - Hoyle Word Games.md\|Hoyle Word Games]] | Sr. Artist, Project Lead |
-| 2000 | [[Games/Hoyle/2000 - Hoyle Casino.md\|Hoyle Casino (2000)]] | Sr. Artist, 3D Illustrator |
-| 2000 | [[Games/Hoyle/2000 - Hoyle Kids Games.md\|Hoyle Kids Games]] | Designer, Lead Artist |
-| 2000 | [[Games/Hoyle/2001 - Hoyle Board Games.md\|Hoyle Board Games 2001]] | Designer, Lead Artist |
+| 1999 | [[1999 - Hoyle Backgammon and Cribbage\|Hoyle Backgammon & Cribbage]] | Designer, Lead Artist, 3D Illustrator |
+| 1999 | Hoyle Card Games | Design, Graphics/Artwork |
+| 1999 | [[1999 - Hoyle Word Games\|Hoyle Word Games]] | Sr. Artist, Project Lead |
+| 2000 | [[2000 - Hoyle Casino\|Hoyle Casino (2000)]] | Sr. Artist, 3D Illustrator |
+| 2000 | [[2000 - Hoyle Kids Games\|Hoyle Kids Games]] | Designer, Lead Artist |
+| 2000 | [[2001 - Hoyle Board Games\|Hoyle Board Games 2001]] | Designer, Lead Artist |
 | 2000 | PGA Championship Golf 2000 | Gallery Models |
-| 2001 | [[Games/Hoyle/2001 - Hoyle Casino.md\|Hoyle Casino (2001)]] | Art Director |
-| 2002 | [[Games/Hoyle/2002 - Hoyle Casino Empire.md\|Hoyle Casino Empire]] | Additional Art |
+| 2001 | [[2001 - Hoyle Casino\|Hoyle Casino (2001)]] | Art Director |
+| 2002 | [[2002 - Hoyle Casino Empire\|Hoyle Casino Empire]] | Additional Art |
 | 2002 | Dell Magazines Crosswords | Art Director |
-| 2003 | [[Games/Hoyle/2004 - Hoyle Table Games.md\|Hoyle Table Games 2004]] | Designer, Art Director |
+| 2003 | [[2004 - Hoyle Table Games\|Hoyle Table Games 2004]] | Designer, Art Director |
 | 2004 | Card Games: Hoyle 2004 Edition | Designer, Art Director |
-| 2005 | [[Games/Hoyle/2005 - Hoyle Board Games.md\|Hoyle Board Games 2005]] | Additional Design, Art Director |
-| 2005 | [[Games/Hoyle/2005 - Hoyle Card Games.md\|Hoyle Card Games 2005]] | Additional Design, Art Director |
-| 2005 | [[Games/Hoyle/2005 - Hoyle Poker Series.md\|Hoyle Poker Series]] | Designer, Lead Artist, 3D Illustrator |
-| 2005 | [[Games/Hoyle/2004 - Hoyle Puzzle Games.md\|Hoyle Puzzle Games 2005]] | Additional Design, Art Director |
-| 2009 | [[Games/Hoyle/2008 - Hoyle Puzzle and Board Games.md\|Hoyle Puzzle & Board Games]] | Designer, Art Director |
+| 2005 | [[2005 - Hoyle Board Games\|Hoyle Board Games 2005]] | Additional Design, Art Director |
+| 2005 | [[2005 - Hoyle Card Games\|Hoyle Card Games 2005]] | Additional Design, Art Director |
+| 2005 | [[2005 - Hoyle Poker Series\|Hoyle Poker Series]] | Designer, Lead Artist, 3D Illustrator |
+| 2005 | [[2004 - Hoyle Puzzle Games\|Hoyle Puzzle Games 2005]] | Additional Design, Art Director |
+| 2009 | [[2008 - Hoyle Puzzle and Board Games\|Hoyle Puzzle & Board Games]] | Designer, Art Director |
 
 ### GameHouse / Post-Sierra (2008–2010)
 

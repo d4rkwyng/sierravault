@@ -5,11 +5,11 @@ birth_year: 1926
 death_year: 2010
 notable_games: ["Police Quest: Open Season", "Police Quest: SWAT", "Police Quest: SWAT 2"]
 companies: ["Los Angeles Police Department", "Sierra Online"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # Daryl Gates
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,19 +19,19 @@ After resigning from the LAPD on June 28, 1992, Gates embarked on an unexpected 
 
 ## Career
 
-### Early Law Enforcement Career
+### Early Law Enforcement Career (1949–1992)
 
 Gates began his career with the LAPD in 1949 after completing his undergraduate degree at the University of Southern California[^ref-9]. He served under the mentorship of Chief William Parker, who shaped his early understanding of police work and militaristic approaches to law enforcement[^ref-10]. The formative experience that would later influence his game design philosophy came during the 1965 Watts Riots, where Gates witnessed what he described as urban warfare. "We had no idea how to deal with this," Gates reflected. "We were constantly ducking bottles, rocks, knives, and Molotov cocktails. It was random chaos. We did not know how to handle guerrilla warfare"[^ref-11].
 
 This experience led Gates to develop the Special Weapons and Tactics (SWAT) concept, which would become both his most significant contribution to law enforcement and a central theme in his later video game work[^ref-12]. By 1975, SWAT teams had proliferated to over 500 cities across the United States, fundamentally changing American policing[^ref-13]. Gates also founded the Drug Abuse Resistance Education (DARE) program in 1983, which became one of the most widely implemented anti-drug education programs in schools nationwide[^ref-14].
 
-### Transition to Game Development
+### Transition to Game Development (1992)
 
 Following his controversial departure from the LAPD in 1992, Gates was approached by Sierra Online founder Ken Williams[^ref-15]. Williams had previously worked with retired police sergeant Jim Walls on the successful Police Quest series but was looking for a more prominent law enforcement figure to revitalize the franchise[^ref-16]. As Williams later explained his preference for Gates over crime novelist Joseph Wambaugh: "Our players don't read the New York Times," suggesting he believed Sierra's audience would embrace rather than reject Gates' controversial reputation[^ref-17].
 
 Gates visited Sierra's Oakhurst offices in 1992, where he was introduced to the world of adventure game development[^ref-18]. Despite having no prior experience in game design or computer technology, Gates was enthusiastic about the opportunity to present law enforcement from his perspective. His stated goal was to "maybe say something important about law enforcement... [and to] try and give people a better appreciation for what officers face on the job and encourage a willingness to support them"[^ref-19].
 
-### Sierra Years
+### Sierra Years (1992–1998)
 
 Gates' primary contribution to Sierra came through his work on Police Quest: Open Season, released in 1993[^ref-20]. This game marked a significant departure from the previous Police Quest titles, featuring full-motion video technology and a darker, more violent tone that reflected Gates' hardline law enforcement philosophy[^ref-21]. The game cast players as detective John Carey investigating a series of brutal murders, with Gates providing both the overall narrative vision and technical consultation on police procedures[^ref-22].
 
@@ -69,8 +69,10 @@ However, Gates' gaming legacy remains inseparable from his reputation as a polar
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Sierra On-Line (1992–1998)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer/Consultant |
 | 1995 | Police Quest: SWAT | Consultant |
 | 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Consultant |

@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Metaltech: EarthSiege", "EarthSiege 2", "Starsiege"]
 companies: ["Dynamix", "Sony Computer Entertainment America", "WildStudios"]
-last_updated: "2026-01-14"
+last_updated: "2026-02-12"
 ---
 # David Selle
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -19,13 +19,13 @@ Beyond his game design accomplishments, Selle has established himself as an educ
 
 ## Career
 
-### Early Career
+### Early Career (Pre-1989)
 
 David Selle's entry into the video game industry began in 1989 when he was hired by Dynamix, the Eugene, Oregon-based game development studio known for its innovative simulation and adventure games.[^ref-1] His educational background includes studies at the University of Washington, where he later obtained a Software Product Manager certification, and training at Nintendo's DigiPen Institute's game projects division.[^ref-6] This technical foundation would prove invaluable throughout his career in game development and later business ventures.
 
 Selle's first projects at Dynamix involved contributing to existing franchises and learning the craft of game design through hands-on experience.[^ref-7] His early work included track designs and documentation for Motocross in 1989, followed by mission design and documentation work on [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer]], also in 1989.[^ref-8] These initial assignments allowed him to understand the technical and creative challenges of game development while working alongside experienced designers and programmers.
 
-### Dynamix Years
+### Dynamix Years (1989–1999)
 
 During his ten years and three months at Dynamix, Selle worked on some of the most memorable games of the 1990s, contributing to both the company's adventure game legacy and pioneering work in mech simulation.[^ref-1] His writing talents became evident early in his tenure, contributing dialogue and text to [[1990 - Rise of the Dragon\|Rise of the Dragon]] in 1990, a cyberpunk adventure that showcased Dynamix's storytelling capabilities.[^ref-9] He continued developing his narrative skills with writer and world design credits on [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] in 1991.[^ref-10]
 
@@ -33,7 +33,7 @@ One of Selle's most significant contributions during this period was his work on
 
 The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege\|Metaltech: EarthSiege]] in 1994.[^ref-13] This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
 
-### Later Career
+### Post-Dynamix Career (1999–Present)
 
 After leaving Dynamix in November 1999, Selle transitioned into broader technology and business roles while maintaining connections to the gaming industry.[^ref-15] In 2007, he worked on video content for Uncharted: Drake's Fortune at Sony Computer Entertainment America, contributing to what would become one of PlayStation's flagship franchises.[^ref-16] This role demonstrated his ability to adapt his storytelling and design skills to new gaming platforms and technologies.
 
@@ -71,8 +71,10 @@ Selle's influence continues through his educational work and business developmen
 
 ## Games
 
-| Year | Game | Role |
-|------|------|------|
+### Dynamix (1989–1999)
+
+| Year | Title | Role |
+|------|-------|------|
 | 1989 | Motocross | Track designs, documentation |
 | 1989 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer]] | Mission design, documentation |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Additional design, playtester |
@@ -87,7 +89,12 @@ Selle's influence continues through his educational work and business developmen
 | 1995 | [[1995 - Metaltech - Earthsiege Expansion Pack\|Metaltech: EarthSiege Expansion Pack]] | Mission programmer |
 | 1996 | [[1996 - Earthsiege 2\|EarthSiege 2]] | Designer |
 | 1999 | [[1999 - Starsiege\|Starsiege]] | Designer |
-| 2007 | Uncharted: Drake's Fortune | Video |
+
+### Post-Sierra (2007)
+
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| 2007 | Uncharted: Drake's Fortune | Sony Computer Entertainment America | Video |
 
 ## References
 
