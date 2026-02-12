@@ -21,9 +21,6 @@ tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-ga
 
 ## Overview
 
-> [!warning] Not to Be Confused
-> This page covers the 2008 browser-based flight game by Mad Otter Games. This is **not** the 1986 Accolade game "Ace of Aces" developed by Artech, which was a completely different World War I flight game for 8-bit computers.[^ref-1]
-
 Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and published through the InstantAction platform[^ref-2][^ref-3]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of Sierra On-Line's legendary flight simulation series including [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-4][^ref-5].
 
 Ace of Aces represented Slye's return to flight combat games after a 12-year hiatus from the gaming industry[^ref-6]. Having left Dynamix in 1994 to pursue other interests—including obtaining his pilot's license and flying his own Bonanza A36 aircraft—Slye founded Mad Otter Games in 2007 with fellow ex-Dynamix employees in Eugene, Oregon[^ref-7][^ref-8]. The game served as a spiritual successor to his earlier WWI flight sim Red Baron, bringing his signature approach to accessible flight combat to the then-emerging browser gaming market[^ref-9][^ref-10].
@@ -180,8 +177,6 @@ The connections run deep:
 - [[Dynamix]] — Sierra subsidiary where Slye created his classic flight sims
 
 ## References
-
-[^ref-1]: [Ace of Aces (1986) - Wikipedia](https://en.wikipedia.org/wiki/Ace_of_Aces_(video_game)) — The 1986 Accolade game is a completely different title from this 2008 Mad Otter Games release
 
 [^ref-2]: [InstantAction - Wikipedia](https://en.wikipedia.org/wiki/InstantAction) — Detailed information about Ace of Aces game modes and InstantAction platform history
 
