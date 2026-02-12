@@ -2,8 +2,8 @@
 
 **The definitive documentation archive for Sierra On-Line's gaming legacy.**
 
-[![Games](https://img.shields.io/badge/Games-511-blue)](vault/Games/)
-[![Designers](https://img.shields.io/badge/Designers-56-green)](vault/Designers/)
+[![Games](https://img.shields.io/badge/Games-512-blue)](vault/Games/)
+[![Designers](https://img.shields.io/badge/Designers-57-green)](vault/Designers/)
 [![License](https://img.shields.io/badge/License-CC%20BY--NC-lightgrey)](LICENSE)
 
 ---
@@ -49,7 +49,7 @@ sierravault/
 ├── templates/                # Page templates
 ├── vault/                    # Obsidian vault (published content)
 │   ├── .obsidian/            # Obsidian settings
-│   ├── Games/                # 511 game pages across 73+ folders
+│   ├── Games/                # 512 game pages across 73+ folders
 │   │   ├── King's Quest/     # 10 games (1984-2015)
 │   │   ├── Space Quest/      # 7 games (1986-1995)
 │   │   ├── Quest for Glory/  # 6 games (1989-1998)
@@ -61,7 +61,7 @@ sierravault/
 │   │   ├── Impressions/      # City builders
 │   │   ├── Fan Games/        # VGA remakes & fan sequels
 │   │   └── ...               # 60+ more folders
-│   ├── Designers/            # 56 designer biographies
+│   ├── Designers/            # 57 designer biographies
 │   ├── Developers/           # 28 studio profiles
 │   ├── Publishers/           # 23 publisher histories
 │   ├── Series/               # 7 series overview pages
@@ -238,8 +238,8 @@ python scripts/validate_links.py
 
 | Metric | Count |
 |--------|-------|
-| Total Games | 511 |
-| Designer Bios | 56 |
+| Total Games | 512 |
+| Designer Bios | 57 |
 | Developer Profiles | 28 |
 | Publisher Histories | 23 |
 | Series Overviews | 7 |
