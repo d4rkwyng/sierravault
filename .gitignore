@@ -55,3 +55,7 @@ __pycache__/
 vault/.obsidian/workspace.json
 vault/.obsidian/workspace-mobile.json
 .git-backup/
+
+# Quality daemon state files
+scripts/quality_results.jsonl
+scripts/quality_state.json
