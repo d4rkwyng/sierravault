@@ -286,28 +286,30 @@ Protect major plot reveals to preserve the player experience.
 - Gameplay mechanics
 - Well-known historical facts about the game
 
-### Spoiler Formats
+### Spoiler Format
 
-**Inline spoiler** (single phrase/sentence):
+Use collapsible warning callouts (native Obsidian, works on Publish):
+
 ```markdown
-The killer is <span class="spoiler">Colonel Dijon</span>.
+> [!warning]- Spoiler Title
+> The spoiler content goes here.
 ```
 
-**Callout spoiler** (paragraph):
+**Examples:**
+
 ```markdown
-> [!spoiler]- Ending Reveal
-> Description of the ending goes here.
+> [!warning]- Major Spoilers
+> **Killer Identity:** Bruno from QFG1 is the assassin.
+> 
+> **Character Fate:** Rakeesh can die depending on choices.
 ```
 
-**Details block** (major section):
 ```markdown
-<details class="spoiler-block">
-<summary>Major Plot Spoiler</summary>
-
-Extended spoiler content goes here.
-
-</details>
+> [!warning]- Ending Spoiler
+> The detective was corrupt all along.
 ```
+
+**Note:** Inline spoilers (`<span class="spoiler">`) don't work on Obsidian Publish — always use callouts.
 
 ### Priority by Genre
 
