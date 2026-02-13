@@ -5,17 +5,17 @@ birth_year: null
 death_year: null
 notable_games: ["King's Quest V", "Space Quest I VGA", "Space Quest IV", "The Colonel's Bequest", "Descent", "Ringworld: Revenge of the Patriarch"]
 companies: ["Sierra On-Line", "Tsunami Media", "Interplay Productions", "Parallax Software", "Westwood Studios", "Atari", "THQ", "Midway Games", "Trion Worlds"]
-last_updated: "2026-02-12"
+last_updated: "2026-02-13"
 ---
 # Ken Allen
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
 Kenneth Allen is an American video game composer, sound designer, and producer who became a pivotal figure in the golden age of adventure gaming through his work at Sierra On-Line from 1989 to 1991.[^ref-1] Allen's journey into video game music began in an unconventional way—he became a musician at age 10, learning to play the French Horn because his school was "all out of trumpets," and later pursued a college education in film composition at UCLA.[^ref-1] His entry into the gaming industry came through a humble classified ad in the Fresno Bee that sought musicians and composers for adventure games at Sierra On-Line.[^ref-5]
 
-Allen's 30-year career in the video game industry has seen him compose soundtracks for some of the most iconic games in PC gaming history, including King's Quest, Space Quest, Ringworld, Star Trek, and Descent, with his music appearing in approximately 40 games total.[^ref-1][^ref-7] His work at Sierra coincided with what many consider the true golden age of adventure gaming in the late 1980s and early 1990s, where composers like Allen managed to "imprint the fond memories of these games into our psyche" through their music.[^ref-3] After leaving Sierra in October 1991, Allen joined Tsunami Media where he expanded his role to include game design and production, creating soundtracks for games like Blue Force, Ringworld, and Protostar while serving as lead designer on Return to Ringworld.[^ref-5][^ref-7]
+Allen's 30-year career in the video game industry has seen him compose soundtracks for some of the most iconic games in PC gaming history, including King's Quest, Space Quest, Ringworld, Star Trek, and Descent. By his own count, Allen composed "more than 300 pieces for over two dozen games" totaling "over 900 minutes of music for games, or roughly 15 hours of scoring."[^ref-2][^ref-7] His work at Sierra coincided with what many consider the true golden age of adventure gaming in the late 1980s and early 1990s, where composers like Allen managed to "imprint the fond memories of these games into our psyche" through their music.[^ref-3] After leaving Sierra in October 1991, Allen joined Tsunami Media where he expanded his role to include game design and production, creating soundtracks for games like Blue Force, Ringworld, and Protostar while serving as lead designer on Return to Ringworld.[^ref-5][^ref-7]
 
 Allen continued his career working for major companies including Interplay Productions, Parallax Software, Westwood Studios, Electronic Arts, Midway Games, Atari, THQ, and Trion Worlds, eventually transitioning from composer to producer roles on titles including Descent, Nox, RollerCoaster Tycoon 3, and the MMO Rift.[^ref-5][^ref-7][^ref-14] In 2022, he returned to his musical roots by composing for SpaceVenture, the spiritual successor to Space Quest created by his former collaborators Mark Crowe and Scott Murphy.[^ref-7][^ref-10]
 
@@ -77,7 +77,7 @@ In 2013, Allen launched a Kickstarter campaign for "Under the Half Dome," an alb
 
 Allen's work on Space Quest IV represents his most celebrated achievement at Sierra and his personal favorite project.[^ref-5] The memorable opening sequence music came together under pressure—Mark Crowe and Scott Murphy approached Allen in a panic when the music director was on vacation, needing music for an upcoming board meeting in just days.[^ref-5]
 
-Working over a single sleepless weekend, Allen composed six and a half minutes of orchestral music plus sound design and custom patches—an unprecedented feat of composition speed. Mark Crowe wanted the music to be "John Williams BIG" with very specific sound effects, while Scott Murphy simply told Allen to "knock our socks off."[^ref-10] When the opening sequence was demonstrated, Crowe's "normal smiling grin turned into a fully teethed happy face," and employees from adjacent cubicles gathered to watch.[^ref-10] After the demonstration, Allen was officially assigned as the game's composer, thinking to himself, "looks like I passed the audition."[^ref-5]
+Working over a single sleepless weekend, Allen composed six and a half minutes of orchestral music plus sound design and custom patches—an unprecedented feat of composition speed. Mark Crowe wanted the music to be "John Williams BIG" with very specific sound effects, while Scott Murphy simply told Allen to "knock our socks off."[^ref-10] The result was so impressive that PC Magazine's review became "the very first to comment on a game's music," noting that the opening theme was "reminiscent of John Williams, err Gustov Holtz"—acknowledging Allen's intentional homage to Holst's *The Planets*.[^ref-2] When the opening sequence was demonstrated, Crowe's "normal smiling grin turned into a fully teethed happy face," and employees from adjacent cubicles gathered to watch.[^ref-10] After the demonstration, Allen was officially assigned as the game's composer, thinking to himself, "looks like I passed the audition."[^ref-5]
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
@@ -170,10 +170,18 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 ## References
 
 [^ref-1]: [Adventure Game Fan Fair - Ken Allen](https://adventuregamefanfair.com/guests/ken-allen-2/) — biographical details, career overview, and game credits
+[^ref-2]: [Ken Allen - about.me](https://about.me/kenallen) — personal biography including composition statistics (300+ pieces, 900+ minutes of music)
 [^ref-3]: [Choicest Games - Ex-Sierra Composer Ken Allen commences Kickstarter](https://www.choicestgames.com/2013/01/ex-sierra-composer-ken-allen-commences.html) — Kickstarter project details and game music catalog
+[^ref-4]: [MobyGames - Ken Allen](https://www.mobygames.com/person/273/ken-allen/) — comprehensive game credits and collaborator information
 [^ref-5]: [Guys from Andromeda Podcast Episode 3](https://guysfromandromeda.com/blog/podcast-episode-3-guest-host-ken-allen/) — detailed Sierra career timeline, Tsunami Media work, and personal interview
+[^ref-6]: [LinkedIn - Ken Allen](https://www.linkedin.com/in/mrkenallen/) — professional career history and current employment
 [^ref-7]: [Video Game Music Preservation Foundation - Ken Allen](https://vgmpf.com/Wiki/index.php?title=Ken_Allen) — comprehensive game credits and career timeline
+[^ref-8]: [Sierra Gamers - Ken Allen](https://www.sierragamers.com/ken-allen/) — Sierra On-Line career details
 [^ref-9]: [Kickstarter - Under the Half Dome](https://www.kickstarter.com/projects/mrkenallen/under-the-half-dome-an-album-by-sierra-composer-ke) — album project details and fan engagement
 [^ref-10]: [The Grig Post Interview with Ken Allen](https://thegrigpost.blogspot.com/2013/02/interview-with-ken-allen.html) — Space Quest IV composition details, SpaceVenture reunion, and compositional process
+[^ref-11]: [Space Quest Historian - Ken Allen Interview](https://spacequesthistorian.com/) — Space Quest series music composition insights
+[^ref-12]: [Quest Studios - Sierra Composers](https://queststudios.com/sierracomposers/) — Sierra music department history and credits
+[^ref-13]: [Guys From Andromeda - SpaceVenture](https://guysfromandromeda.com/) — SpaceVenture development and Allen's return to Space Quest music
 [^ref-14]: [Fanbolt Interview - Destroy All Humans! Big Willy Unleashed](https://www.fanbolt.com/23151/interview-ken-allen-from-destroy-all-humans-big-willy-unleashed/) — later career work and game development insights
 [^ref-15]: [Choicest Games - Where Are They Now: Ken Allen](https://www.choicestgames.com/2015/02/where-are-they-now-ken-allen.html) — career updates, Tsunami Media period, and Under the Half Dome progress
+[^ref-16]: [SpaceVenture Kickstarter](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Two Guys from Andromeda reunion project featuring Ken Allen as composer

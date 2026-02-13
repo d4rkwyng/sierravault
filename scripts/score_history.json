@@ -43,6 +43,11 @@
         "timestamp": "2026-02-12T13:11:46.323352",
         "score": 56.0,
         "total": 56
+      },
+      {
+        "timestamp": "2026-02-13T15:46:54.689810",
+        "score": 62.0,
+        "total": 62
       }
     ],
     "Jeff Tunnell.md": [
@@ -327,12 +332,6 @@
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-12T13:10:21.038716",
-      "files_scored": 1,
-      "average": 46.0,
-      "passing": 0
-    },
     {
       "timestamp": "2026-02-12T13:11:03.064020",
       "files_scored": 1,
@@ -626,6 +625,12 @@
       "files_scored": 1,
       "average": 93.0,
       "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:46:54.689810",
+      "files_scored": 1,
+      "average": 62.0,
+      "passing": 0
     }
   ]
 }
