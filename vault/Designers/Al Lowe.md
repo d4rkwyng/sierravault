@@ -149,5 +149,5 @@ Lowe's preservation of Sierra's development history through his personal archive
 [^ref-19]: [MobyGames Credits](https://www.mobygames.com/person/3320/al-lowe/credits/) — Complete game credits and timeline
 [^ref-20]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/al-lowe-interview/) — Reaction to Magna Cum Laude
 [^ref-21]: [Wikipedia - Torin's Passage](https://en.wikipedia.org/wiki/Torin's_Passage) — Torin's Passage as a family-friendly adventure game designed by Al Lowe
-[^ref-22]: [Al Lowe's Official Site - Torin's Passage](https://allowe.com/games/torin/torin.html) — Background on the game's creation and design
+[^ref-22]: [Al Lowe's Official Site - Torin's Passage](https://allowe.com/games/torin/about-torin.html) — Background on the game's creation and design
 [^ref-23]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) — Critical reception and design credits

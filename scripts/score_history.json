@@ -261,15 +261,72 @@
         "score": 91.0,
         "total": 91
       }
+    ],
+    "1993 - Quest for Glory IV - Shadows of Darkness.md": [
+      {
+        "timestamp": "2026-02-13T15:03:39.696947",
+        "score": 100.0,
+        "total": 100
+      }
+    ],
+    "1999 - Hoyle Casino.md": [
+      {
+        "timestamp": "2026-02-13T15:03:45.975162",
+        "score": 83.0,
+        "total": 83
+      }
+    ],
+    "1993 - Space Quest V - The Next Mutation.md": [
+      {
+        "timestamp": "2026-02-13T15:03:46.017228",
+        "score": 100.0,
+        "total": 100
+      }
+    ],
+    "1985 - King's Quest II - Romancing the Throne.md": [
+      {
+        "timestamp": "2026-02-13T15:03:46.054628",
+        "score": 89.0,
+        "total": 89
+      }
+    ],
+    "1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!.md": [
+      {
+        "timestamp": "2026-02-13T15:03:46.092054",
+        "score": 90.0,
+        "total": 90
+      }
+    ],
+    "1989 - Asterix - Operation Getafix.md": [
+      {
+        "timestamp": "2026-02-13T15:03:56.322721",
+        "score": 81.0,
+        "total": 81
+      }
+    ],
+    "1990 - Rise of the Dragon.md": [
+      {
+        "timestamp": "2026-02-13T15:03:56.365714",
+        "score": 85.0,
+        "total": 85
+      }
+    ],
+    "1982 - Mouskattack.md": [
+      {
+        "timestamp": "2026-02-13T15:03:56.406666",
+        "score": 90.0,
+        "total": 90
+      }
+    ],
+    "2006 - Caesar IV.md": [
+      {
+        "timestamp": "2026-02-13T15:03:56.446321",
+        "score": 93.0,
+        "total": 93
+      }
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-12T11:24:34.003389",
-      "files_scored": 1,
-      "average": 56.0,
-      "passing": 0
-    },
     {
       "timestamp": "2026-02-12T13:10:21.038716",
       "files_scored": 1,
@@ -514,6 +571,60 @@
       "timestamp": "2026-02-12T16:20:22.044886",
       "files_scored": 1,
       "average": 91.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:03:39.696947",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:03:45.975162",
+      "files_scored": 1,
+      "average": 83.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T15:03:46.017228",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:03:46.054628",
+      "files_scored": 1,
+      "average": 89.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T15:03:46.092054",
+      "files_scored": 1,
+      "average": 90.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:03:56.322721",
+      "files_scored": 1,
+      "average": 81.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T15:03:56.365714",
+      "files_scored": 1,
+      "average": 85.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T15:03:56.406666",
+      "files_scored": 1,
+      "average": 90.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T15:03:56.446321",
+      "files_scored": 1,
+      "average": 93.0,
       "passing": 1
     }
   ]

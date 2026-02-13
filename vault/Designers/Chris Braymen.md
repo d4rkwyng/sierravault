@@ -87,7 +87,7 @@ The Space Quest Historian podcast has featured Braymen verifying composer credit
 
 | Year | Title | Role |
 |------|-------|------|
-| 1990 | Oil's Well | Sound Effects (with Mark Seibert) |
+| 1990 | [[1990 - Oils Well\|Oil's Well]] | Sound Effects (with Mark Seibert) |
 | 1990 | [[1988 - Police Quest II - The Vengeance\|Police Quest 2: The Vengeance]] (Amiga) | Music (with Mark Seibert) |
 | 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Composer (with Mark Seibert) |
 | 1991 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1 VGA]] | Sound Effects |
