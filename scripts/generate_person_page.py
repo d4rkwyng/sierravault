@@ -22,7 +22,7 @@ try:
 except ImportError:
     HAS_ANTHROPIC = False
 
-INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", Path(__file__).parent.parent.parent / "sierravault-internal"))
+INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", Path(__file__).parent.parent.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"))
 RESEARCH_DIR = INTERNAL_ROOT / "research"
 VAULT_DIR = Path(__file__).parent.parent  # sierravault repo root
 

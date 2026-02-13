@@ -27,7 +27,7 @@ Claude Code configuration and instructions for SierraVault.
    - Generating or editing pages → `page-format.md`
    - Citation work or scoring issues → `citations.md`
 
-> **Note:** Research data, scoring history, and project state are maintained in a separate private repository (`sierravault-internal`). Set `SIERRAVAULT_INTERNAL` env var to point to it, or place it alongside this repo.
+> **Note:** Research data, scoring history, and project state are maintained in a separate private repository (`Proton Drive/Assets/sierravault`). Set `SIERRAVAULT_INTERNAL` env var to point to it, or place it alongside this repo.
 
 ## Key Locations
 

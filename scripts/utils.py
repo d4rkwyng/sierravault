@@ -21,7 +21,7 @@ from urllib.parse import urlparse
 
 SCRIPTS_DIR = Path(__file__).parent
 VAULT_DIR = SCRIPTS_DIR.parent / "vault"
-INTERNAL_DIR = SCRIPTS_DIR.parent.parent / "sierravault-internal"
+INTERNAL_DIR = SCRIPTS_DIR.parent.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"
 RESEARCH_DIR = INTERNAL_DIR / "research"
 GAMES_RESEARCH_DIR = RESEARCH_DIR / "games"
 GAMES_DIR = VAULT_DIR / "Games"

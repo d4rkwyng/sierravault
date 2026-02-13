@@ -203,7 +203,7 @@ def main():
     args = parser.parse_args()
     
     repo_root = Path(__file__).parent.parent
-    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "sierravault-internal"))
+    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"))
     research_dir = internal_root / 'research' / 'games'
     games_dir = repo_root / 'vault' / 'Games'
     

@@ -41,7 +41,7 @@ RATE_LIMIT_DELAY = 1.0  # Seconds between requests
 # Paths
 SCRIPTS_DIR = Path(__file__).parent
 PROJECT_DIR = SCRIPTS_DIR.parent
-INTERNAL_DIR = PROJECT_DIR.parent / "sierravault-internal"
+INTERNAL_DIR = PROJECT_DIR.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"
 RESEARCH_DIR = INTERNAL_DIR / "research" / "games"
 
 # MobyGames URL patterns

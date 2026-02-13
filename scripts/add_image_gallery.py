@@ -16,7 +16,7 @@ from typing import Optional, List, Tuple
 # Paths
 SCRIPT_DIR = Path(__file__).parent
 REPO_ROOT = SCRIPT_DIR.parent
-INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", REPO_ROOT.parent / "sierravault-internal"))
+INTERNAL_ROOT = Path(os.environ.get("SIERRAVAULT_INTERNAL", REPO_ROOT.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"))
 IMAGES_DIR = INTERNAL_ROOT / "images" / "mobygames"
 GAMES_DIR = REPO_ROOT / "vault" / "Games"
 

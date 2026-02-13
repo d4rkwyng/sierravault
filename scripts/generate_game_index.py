@@ -27,7 +27,7 @@ def main():
     # Paths
     script_dir = Path(__file__).parent
     repo_root = script_dir.parent
-    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "sierravault-internal"))
+    internal_root = Path(os.environ.get("SIERRAVAULT_INTERNAL", repo_root.parent / "../Library/CloudStorage/ProtonDrive-woodd@mindtricks.io-folder/Assets/sierravault"))
     
     games_dir = repo_root / "vault" / "Games"
     research_dir = internal_root / "research" / "games"
