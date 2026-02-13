@@ -404,15 +404,15 @@ This archive contains **507 game pages** across 74 categories.
 | Year | Game | Last Updated |
 |------|------|--------------|
 | 1980 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | 2026-01-09 |
-| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi Res Adventure #0: Mission Asteroid]] | 2026-01-09 |
+| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | 2026-01-09 |
 | 1980 | [[1980 - Hi-Res Soccer\|Hi Res Soccer]] | 2026-01-09 |
-| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure #1: Mystery House]] | 2026-01-09 |
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure #2: The Wizard and the Princess]] | 2026-01-09 |
+| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | 2026-01-09 |
+| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | 2026-01-09 |
 | 1980 | [[1980 - Hi-Res Cribbage\|Hi-Res Cribbage]] | 2026-01-17 |
 | 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | 2026-01-11 |
-| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure #3: Cranston Manor]] | 2026-01-16 |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure #4: Ulysses and the Golden Fleece]] | 2026-01-16 |
-| 1982 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure #6: The Dark Crystal]] | 2026-01-09 |
+| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure 3: Cranston Manor]] | 2026-01-16 |
+| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | 2026-01-16 |
+| 1982 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | 2026-01-09 |
 | 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | 2026-01-10 |
 | 1984 | [[1984 - Gelfling Adventure\|Gelfling Adventure]] | 2026-01-18 |
 | 2023 | [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] | 2026-01-16 |

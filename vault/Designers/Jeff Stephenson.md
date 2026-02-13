@@ -107,9 +107,9 @@ His influence on game engine design, particularly his early adoption of object-o
 
 | Year | Title | Role |
 |------|-------|------|
-| 1982 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure #2: The Wizard and the Princess]] | Programming (IBM port) |
-| 1982 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure #4: Ulysses and the Golden Fleece]] | Programming |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure #5: Time Zone]] | Production |
+| 1982 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Programming (IBM port) |
+| 1982 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Programming |
+| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Production |
 
 ### AGI Era (1984–1989)
 

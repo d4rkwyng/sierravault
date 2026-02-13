@@ -89,7 +89,7 @@ Lowe's preservation of Sierra's development history through his personal archive
 |------|-------|------|
 | 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Designer/Programmer |
 | 1982 | [[1982 - Dragon's Keep\|Dragon's Keep]] | Designer/Programmer |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure #6: The Dark Crystal]] | Programmer |
+| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Programmer |
 | 1983 | [[1983 - Troll's Tale\|Troll's Tale]] | Designer/Programmer |
 | 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Designer/Programmer/Composer |
 | 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Composer |
