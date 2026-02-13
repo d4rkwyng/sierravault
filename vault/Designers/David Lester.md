@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["Caesar", "Caesar III", "Lords of the Realm II", "Stronghold"]
 companies: ["Impressions Games", "Sierra Entertainment", "Firefly Studios", "Crimson Publishing"]
-last_updated: "2026-02-12"
+last_updated: "2026-02-13"
 ---
 # David Lester
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
@@ -33,7 +33,7 @@ While Kenny Dalglish Football Manager was a business success, Lester's first cre
 
 Lester's design career truly began in earnest with Caesar in 1992, a historical city-building strategy game that established the template for the entire genre.[^ref-1] The game's success led to Caesar II in 1995, which sold approximately 2.5 million copies worldwide.[^ref-2] During this period, Impressions expanded significantly, with Lester establishing a successful US office in Boston that grew to 50 employees.[^ref-2]
 
-In 1994, Lester designed Lords of the Realm with Christopher J. Foster, creating a medieval strategy game that combined turn-based strategic planning with real-time tactical combat.[^ref-1] The sequel, Lords of the Realm II, released in 1996 after Sierra's acquisition, also achieved 2.5 million copies in sales.[^ref-2]
+In 1994, Lester designed Lords of the Realm with Christopher J. Foster, creating a medieval strategy game that combined turn-based strategic planning with real-time tactical combat.[^ref-1] The sequel, Lords of the Realm II, released in 1996 after Sierra's acquisition, also achieved 2.5 million copies in sales.[^ref-2][^ref-10][^ref-12]
 
 Lester's business philosophy emphasized customer relationships and sustainable growth. He advised: "The best advice I can give is to get close and stay close to your customers. It's very easy to be close when you first start and very hard to stay close once you've started."[^ref-2]
 
@@ -41,11 +41,11 @@ Lester's business philosophy emphasized customer relationships and sustainable g
 
 In 1995, Lester sold Impressions Games to Sierra On-Line for what he described as a "life-changing sum."[^ref-2] The acquisition provided Impressions with the resources and distribution network of a major publisher while allowing Lester to continue overseeing development of the studio's titles.[^ref-3]
 
-Under Sierra's ownership, Impressions continued to produce successful games. Caesar III, released in 1998, represented the culmination of Lester's work on the franchise and became one of his most commercially successful and critically acclaimed designs, selling approximately 2.5 million copies worldwide.[^ref-2] After the acquisition, Lester returned to the United Kingdom in 1996 but remained involved with Sierra and Impressions on a part-time basis until around 1998.[^ref-1]
+Under Sierra's ownership, Impressions continued to produce successful games. Caesar III, released in 1998, represented the culmination of Lester's work on the franchise and became one of his most commercially successful and critically acclaimed designs, selling approximately 2.5 million copies worldwide.[^ref-2][^ref-9][^ref-11] After the acquisition, Lester returned to the United Kingdom in 1996 but remained involved with Sierra and Impressions on a part-time basis until around 1998.[^ref-1]
 
 ### Post-Sierra Career
 
-After leaving Impressions in 1998, Lester pursued multiple entrepreneurial ventures. Most significantly for gaming, he co-founded Firefly Studios in August 1999 with Simon Bradbury (his longtime collaborator from Impressions) and Eric Ouellette.[^ref-5] The three had met while working together at Impressions Games.[^ref-5] Firefly Studios focused on historic real-time strategy games and is best known for the Stronghold series, which debuted in 2001 to critical and commercial success.[^ref-5] The studio has since sold over seven million copies of its games.[^ref-5]
+After leaving Impressions in 1998, Lester pursued multiple entrepreneurial ventures. Most significantly for gaming, he co-founded Firefly Studios in August 1999 with Simon Bradbury (his longtime collaborator from Impressions) and Eric Ouellette.[^ref-5] The three had met while working together at Impressions Games.[^ref-5] Firefly Studios focused on historic real-time strategy games and is best known for the Stronghold series, which debuted in 2001 to critical and commercial success.[^ref-5] The studio has since sold over seven million copies of its games.[^ref-5][^ref-15]
 
 Concurrent with his gaming ventures, Lester founded Crimson Publishing in 1999, a magazine and website publishing business.[^ref-2] The company launched Startups.co.uk, which became "the UK's leading small business website by quite a long way," receiving over 200,000 visitors monthly.[^ref-2] Lester also co-founded Business Community Connections, an organization helping charities find business support, and served as a Director of Watford Football Club.[^ref-6]
 
@@ -123,3 +123,10 @@ Lester's post-Impressions work at Firefly Studios continued his legacy in strate
 [^ref-6]: [MobyGames - David Lester](https://www.mobygames.com/person/4430/david-lester/) — Game credits, Crimson Business founding, Watford FC directorship
 [^ref-7]: [Abandonware DOS - David Lester Designer Profile](https://www.abandonwaredos.com/retro-game-designer.php?des=David+Lester) — Chronological game credits from 1992–1998
 [^ref-8]: [Amazon - Caesar III](https://www.amazon.com/Caesar-III-Build-Better-Rome/dp/B000H0E81U) — Product information demonstrating continued availability and player reception
+[^ref-9]: [Wikipedia - Caesar III](https://en.wikipedia.org/wiki/Caesar_III) — Lists David Lester as Designer, 2.5M sales, development history
+[^ref-10]: [Wikipedia - Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) — Lists David Lester as Designer, 2.5M worldwide sales, development quotes
+[^ref-11]: [MobyGames - Caesar III Credits](https://www.mobygames.com/game/440/caesar-iii/credits/) — Designer credit for David Lester
+[^ref-12]: [MobyGames - Lords of the Realm II Credits](https://www.mobygames.com/game/973/lords-of-the-realm-ii/credits/) — Designer credit alongside Chris Beatrice and Simon Bradbury
+[^ref-13]: [GOG - Caesar III](https://www.gog.com/en/game/caesar_3) — Game availability and continued commercial presence
+[^ref-14]: [GOG - Lords of the Realm II](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) — Game availability in Royal Edition
+[^ref-15]: [Wikipedia - Stronghold Series](https://en.wikipedia.org/wiki/Stronghold_(video_game_series)) — Firefly Studios franchise and 7M+ sales
