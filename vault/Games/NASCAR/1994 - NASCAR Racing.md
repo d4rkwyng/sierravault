@@ -260,7 +260,7 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 - [NASCAR Racing Manual (Internet Archive)](https://archive.org/details/NASCAR_RACING_PCDOS)
 
 ## See Also
-- [[1989 - Indianapolis 500 - The Simulation|← Previous: Indianapolis 500 - The Simulation]]
+- ← Previous: Indianapolis 500 - The Simulation
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
 
 ## 

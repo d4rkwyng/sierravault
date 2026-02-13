@@ -162,11 +162,11 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 |------|------|-------|
 | 1985 | [[1985 - The Crimson Crown\|The Crimson Crown]] | Polarware acquisition |
 | 1985 | [[1985 - Thexder\|Thexder]] | Game Arts (Japan) |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Dynamix (pre-acquisition) |
+| 1986 | Arcticfox | Dynamix (pre-acquisition) |
 | 1986 | [[1986 - Kempelen\|Kempelen]] | Chess |
 | 1986 | [[1986 - Wrath of Denethenor\|Wrath of Denethenor]] | RPG |
 | 1987 | [[1987 - 3-D Helicopter Simulator\|3-D Helicopter Simulator]] | Sierra |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II]] | EA port |
+| 1987 | Skyfox II | EA port |
 
 #### Sports & Simulation
 | Year | Game | Notes |
@@ -220,7 +220,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 | Year | Game | Notes |
 |------|------|-------|
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | FMV action |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Combat racing |
+| 1989 | Deathtrack | Combat racing |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Cyberpunk adventure |
 | 1991 | [[1991 - Heart of China\|Heart of China]] | 1930s adventure |
 | 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Comedy adventure |

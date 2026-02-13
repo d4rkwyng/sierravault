@@ -26,11 +26,11 @@ Electronic Arts published several games developed by studios that would later be
 
 | Year | Game | Developer |
 |------|------|-----------|
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Dynamix |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Dynamix |
-| 1989 | [[1989 - Caveman Ugh-lympics\|Caveman Ugh-lympics]] | Dynamix |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Dynamix |
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Papyrus Design Group |
+| 1986 | Arcticfox | Dynamix |
+| 1987 | Skyfox II: The Cygnus Conflict | Dynamix |
+| 1989 | Caveman Ugh-lympics | Dynamix |
+| 1989 | Project Firestart | Dynamix |
+| 1989 | Indianapolis 500: The Simulation | Papyrus Design Group |
 
 ## Related
 

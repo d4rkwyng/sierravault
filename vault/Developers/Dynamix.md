@@ -67,14 +67,14 @@ The studio's commitment to technical excellence and willingness to experiment wi
 | Year | Game | Genre |
 |------|------|-------|
 | 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Action/Adventure |
-| 1986 | [[1986 - Arcticfox\|Arcticfox]] | Vehicle Simulation |
-| 1987 | [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II: The Cygnus Conflict]] | Space Combat |
+| 1986 | Arcticfox | Vehicle Simulation |
+| 1987 | Skyfox II: The Cygnus Conflict | Space Combat |
 | 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight Simulation |
-| 1989 | [[1989 - Caveman Ugh-lympics\|Caveman Ugh-lympics]] | Sports/Comedy |
+| 1989 | Caveman Ugh-lympics | Sports/Comedy |
 | 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Action/Adventure |
-| 1989 | [[1989 - Deathtrack\|Deathtrack]] | Racing/Combat |
-| 1989 | [[1989 - Project Firestart\|Project Firestart]] | Action/Horror |
-| 1990 | [[1990 - F-14 Tomcat\|F-14 Tomcat]] | Flight Simulation |
+| 1989 | Deathtrack | Racing/Combat |
+| 1989 | Project Firestart | Action/Horror |
+| 1990 | F-14 Tomcat | Flight Simulation |
 | 1990 | [[1990 - Red Baron\|Red Baron]] | Flight Simulation |
 | 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Adventure |
 | 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank Combat |

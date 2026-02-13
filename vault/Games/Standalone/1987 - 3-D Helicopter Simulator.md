@@ -206,6 +206,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 
 ## See Also
 - [[1986 - Wrath of Denethenor|← Previous: Wrath of Denethenor]]
-- [[1987 - Laser Surgeon - The Microscopic Mission|→ Next: Laser Surgeon - The Microscopic Mission]]
+- → Next: Laser Surgeon - The Microscopic Mission
 
 ## 

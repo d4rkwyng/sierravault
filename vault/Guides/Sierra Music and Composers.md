@@ -25,7 +25,7 @@ The [[2003 - Space Quest 0 - Replicated\|Space Quest 0]] developers noted that P
 
 ### FM Synthesis: AdLib and Sound Blaster (1987–1989)
 
-The AdLib Music Synthesizer Card ($245) brought FM synthesis to PC gaming in 1987, enabling more complex compositions.[^ref-2] Games like [[1989 - Deathtrack\|Deathtrack]] notably used "AdLib music only, not Sound Blaster."
+The AdLib Music Synthesizer Card ($245) brought FM synthesis to PC gaming in 1987, enabling more complex compositions.[^ref-2] Games like Deathtrack notably used "AdLib music only, not Sound Blaster."
 
 ### The Roland MT-32 Revolution (1988–1993)
 

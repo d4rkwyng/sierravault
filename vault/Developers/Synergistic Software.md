@@ -68,7 +68,7 @@ Following Synergistic Software's closure, many of their team members went on to 
 
 | Year | Game | Genre |
 |------|------|-------|
-| 1993 | [[1993 - The Beverly Hillbillies\|The Beverly Hillbillies]] | Adventure |
+| 1993 | The Beverly Hillbillies | Adventure |
 | 1995 | [[1995 - Air Cavalry\|Air Cavalry]] | Flight Simulation |
 | 1995 | [[1995 - Thexder 95\|Thexder 95]] | Action |
 | 1996 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Strategy/RPG |

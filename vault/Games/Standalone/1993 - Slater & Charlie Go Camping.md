@@ -99,7 +99,7 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 
 ## See Also
 - [[1993 - Pepper's Adventures in Time|← Previous: Pepper's Adventures in Time]]
-- [[1993 - The Beverly Hillbillies|→ Next: The Beverly Hillbillies]]
+- → Next: The Beverly Hillbillies
 
 ## References
 

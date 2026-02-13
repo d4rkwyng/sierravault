@@ -293,7 +293,7 @@ Point-and-click adventures. **Play with:** ScummVM
 
 | Game | Year | Engine |
 |------|------|--------|
-| [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500]] | 1989 | Custom 3D |
+| Indianapolis 500 | 1989 | Custom 3D |
 | [[1993 - IndyCar Racing\|IndyCar Racing]] | 1993 | Racing 1.0 |
 | [[1994 - NASCAR Racing\|NASCAR Racing]] | 1994 | Racing 1.0 |
 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | 1995 | Racing 2.0 |

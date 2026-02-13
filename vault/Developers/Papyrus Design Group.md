@@ -70,7 +70,7 @@ The modding communities that formed around Papyrus games, particularly NASCAR Ra
 
 | Year | Game | Genre |
 |------|------|-------|
-| 1989 | [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500: The Simulation]] | Racing Simulation |
+| 1989 | Indianapolis 500: The Simulation | Racing Simulation |
 | 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Racing Simulation |
 | 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Racing Simulation |
 | 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Racing Simulation |

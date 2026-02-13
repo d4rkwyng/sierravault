@@ -101,7 +101,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 ### 1986
 | Title | Series | Type |
 |-------|--------|------|
-| [[1986 - Arcticfox\|Arcticfox]] | Stellar 7 Series | Tank Simulation / First-Person Shooter |
+| Arcticfox | Stellar 7 Series | Tank Simulation / First-Person Shooter |
 | [[1986 - Kempelen\|Kempelen]] |  | Strategy |
 | **[[1986 - King's Quest III - To Heir Is Human\|King's Quest III - To Heir Is Human]]** | King's Quest | Adventure |
 | **[[1986 - Space Quest - The Sarien Encounter\|Space Quest - The Sarien Encounter]]** | Space Quest | Adventure |
@@ -115,7 +115,7 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 | **[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]]** | Leisure Suit Larry | Adventure |
 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] | Mixed-Up Mother Goose | Educational Adventure |
 | **[[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest - In Pursuit of the Death Angel]]** | Police Quest | Adventure |
-| [[1987 - Skyfox II - The Cygnus Conflict\|Skyfox II - The Cygnus Conflict]] | Skyfox | Space Combat Simulation |
+| Skyfox II - The Cygnus Conflict | Skyfox | Space Combat Simulation |
 | **[[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II - Vohaul's Revenge]]** | Space Quest | Adventure |
 | [[1987 - The Ancient Art of War at Sea\|The Ancient Art of War at Sea]] | The Ancient Art of War | Real-Time Strategy |
 
@@ -137,19 +137,19 @@ Sierra (renamed from On-Line Systems in 1982) created the graphic adventure genr
 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | A-10 Tank Killer | Flight Simulation |
 | [[1989 - After Dark\|After Dark]] | After Dark | Screensaver/Puzzle Collection |
 | [[1989 - Asterix - Operation Getafix\|Asterix - Operation Getafix]] | Asterix | Action-Adventure |
-| [[1989 - Caveman Ugh-lympics\|Caveman Ugh-lympics]] |  | Sports |
+| Caveman Ugh-lympics |  | Sports |
 | [[1990 - Codename - Iceman\|Codename - Iceman]] | Codename (standalone) | Adventure |
 | [[1989 - David Wolf - Secret Agent\|David Wolf - Secret Agent]] | David Wolf | Action |
-| [[1989 - Deathtrack\|Deathtrack]] | Death Track | Racing / Combat |
+| Deathtrack | Death Track | Racing / Combat |
 | [[1989 - ESS - European Space Simulator\|ESS - European Space Simulator]] | E.S.S. | Simulation |
 | [[1989 - Emmanuelle\|Emmanuelle]] | Emmanuelle (loosely) | Adventure |
 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk - Thexder - The Second Contact]] | Thexder | Run and Gun / Shooter |
 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games - Volume 1]] | Hoyle | Card Games |
-| [[1989 - Indianapolis 500 - The Simulation\|Indianapolis 500 - The Simulation]] | Indianapolis 500 | Racing Simulation |
+| Indianapolis 500 - The Simulation | Indianapolis 500 | Racing Simulation |
 | [[1989 - Legend of Djel\|Legend of Djel]] | Ween | Adventure |
 | **[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]** | Leisure Suit Larry | Adventure |
 | [[1989 - Manhunter - San Francisco\|Manhunter - San Francisco]] | Manhunter | Adventure |
-| [[1989 - Project Firestart\|Project Firestart]] |  | Survival Horror |
+| Project Firestart |  | Survival Horror |
 | **[[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I - So You Want to Be a Hero]]** | Quest for Glory | Adventure |
 | **[[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III - The Pirates of Pestulon]]** | Space Quest | Adventure |
 | [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation\|Tank - The M1A1 Abrams Battle Tank Simulation]] | Electronic Battlefield System | Vehicle Simulation |
@@ -167,7 +167,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 |-------|--------|------|
 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot - The Search for the Grail]] | Conquests | Adventure |
 | [[1990 - Cougar Force\|Cougar Force]] |  | Action |
-| [[1990 - F-14 Tomcat\|F-14 Tomcat]] |  | Flight Simulation |
+| F-14 Tomcat |  | Flight Simulation |
 | [[1979 - Galactic Empire\|Galactic Empire]] | Galactic Saga | Strategy |
 | [[1990 - Geisha\|Geisha]] |  | Adventure |
 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games - Volume 2]] | Hoyle Official Book of Games | Card/Tile |
@@ -274,7 +274,7 @@ Sierra's peak decade. SCI engine games reached artistic heights, Dynamix and Imp
 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7 - Draxon's Revenge]] | Stellar 7 | Action |
 | [[1993 - Stellar-Fire\|Stellar-Fire]] | Stellar 7 | Action/Simulation |
 | [[1993 - Take a Break! Pinball\|Take a Break! Pinball]] | Take a Break! | Pinball |
-| [[1993 - The Beverly Hillbillies\|The Beverly Hillbillies]] |  | Adventure |
+| The Beverly Hillbillies |  | Adventure |
 | [[1993 - The Even More Incredible Machine\|The Even More Incredible Machine]] | The Incredible Machine | Puzzle |
 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning - Mega Math]] | Turbo Learning | Educational |
 | [[1993 - WW2 Air Force Commander\|WW2 Air Force Commander]] | Air Force Commander | Strategy / War Simulation |
