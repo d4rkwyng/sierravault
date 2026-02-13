@@ -5,11 +5,11 @@ birth_year: 1959
 death_year: null
 notable_games: ["The Incredible Machine", "Sid & Al's Incredible Toons", "The Adventures of Willy Beamish", "Johnny Castaway"]
 companies: ["Dynamix", "Sierra On-Line", "GarageGames", "ZeniMax Online Studios"]
-last_updated: "2026-02-12"
+last_updated: "2026-02-13"
 ---
 # Brian Hahn
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
@@ -198,3 +198,13 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 [^ref-3]: [MobyGames - Brian Hahn Profile](https://www.mobygames.com/person/422/brian-hahn/) — Biography, design philosophy, and frequent collaborators
 [^ref-4]: [IMDb - Brian Hahn](https://www.imdb.com/name/nm1697568/) — Film and video game credits including voice acting roles
 [^ref-5]: [LinkedIn - Brian Hahn (Iconographic Design)](https://www.linkedin.com/in/iconographicdesign/) — Current professional activities and design business
+[^ref-6]: [Jeff Tunnell - Johnny Castaway Common Questions](https://jefftunnell.com/johnny-castaway-common-questions/) — Development history of Johnny Castaway from Jeff Tunnell's perspective
+[^ref-7]: [LinkedIn - Brian Hahn (ZeniMax)](https://www.linkedin.com/in/brian-hahn-a51b54a5/) — Current role as VFX Artist at ZeniMax Online Studios
+[^ref-8]: [Retro365 - Dynamix's Adventures](https://retro365.blog/2024/08/23/dynamixs-adventures/) — Brian Hahn's collaboration with Jeff Tunnell on Willy Beamish character design
+[^ref-9]: [Sega Wiki - The Adventures of Willy Beamish](https://sega.fandom.com/wiki/The_Adventures_of_Willy_Beamish) — Hahn's collaboration with Sheri Wheeler on character design
+[^ref-10]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(series)) — Overview of the franchise Hahn helped create
+[^ref-11]: [The Elder Scrolls Online Credits](https://www.mobygames.com/game/elder-scrolls-online/) — Hahn's FX Artist contributions to ESO expansions
+[^ref-12]: [VGMPF - Brian Hahn](https://vgmpf.com/Wiki/index.php?title=Brian_Hahn) — Music and sound design credits
+[^ref-13]: [GarageGames Archive](https://www.garagegames.com/) — Post-Dynamix work on Marble Blast
+[^ref-14]: [Sierra Gamers - Dynamix Staff](https://www.sierragamers.com/dynamix/) — Dynamix company history and key personnel
+[^ref-15]: [Giant Bomb - Brian Hahn](https://www.giantbomb.com/brian-hahn/3040-35996/) — Game credits database
