@@ -287,7 +287,7 @@ Some easter eggs only appear on return visits:
 
 [^ref-32]: [MobyGames – Mixed-Up Mother Goose](https://www.mobygames.com/game/4713/mixed-up-mother-goose/) – Box art featuring Roberta Williams and children
 
-[^ref-33]: [[1993 - Freddy Pharkas|Freddy Pharkas]] – Al Lowe wanted poster
+[^ref-33]: [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] – Al Lowe wanted poster
 
 [^ref-34]: [TV Tropes – Shivers Two](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ShiversTwoHarvestOfSouls) – Al Lowe photograph cameo as sheriff
 
