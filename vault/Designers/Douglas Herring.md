@@ -5,11 +5,11 @@ birth_year: null
 death_year: null
 notable_games: ["The Colonel's Bequest", "King's Quest V", "Space Quest I VGA", "Conquests of Camelot"]
 companies: ["Sierra On-Line", "Microsoft Game Studios", "Legend Entertainment", "Tsunami Games"]
-last_updated: "2026-02-12"
+last_updated: "2026-02-13"
 ---
 # Douglas Herring
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
@@ -31,13 +31,13 @@ Herring's transition to video games came through his first computer, an Atari ST
 
 Herring joined Sierra On-Line in June 1988, just as the company had moved into its large new metal building that consolidated all aspects of their operations.[^ref-1] The timing was fortuitous—Sierra was growing rapidly along with the computer game market, and there was tremendous pressure to remain the industry leader.[^ref-1] His first major assignment was leading the art team on a murder mystery game designed by Roberta Williams, which would become [[1989 - The Colonel's Bequest\|The Colonel's Bequest]].[^ref-3]
 
-On The Colonel's Bequest, Herring served as Art Designer, lead artist, and sole animator—an enormous undertaking that required him to bring the entire visual world of the Dijon plantation to life.[^ref-2] Working alongside fellow artist Gerald Moore, Herring helped create one of Sierra's most atmospheric and character-driven adventure games.[^ref-4] The game's emphasis on character observation and investigation over traditional puzzle-solving required detailed character animations that could convey personality and suspicion, a challenge Herring met with his background in illustration and storytelling.[^ref-5]
+On The Colonel's Bequest, Herring served as Art Designer, lead artist, and sole animator—an enormous undertaking that required him to bring the entire visual world of the Dijon plantation to life.[^ref-2][^ref-11] Working alongside fellow artist Gerald Moore, Herring helped create one of Sierra's most atmospheric and character-driven adventure games.[^ref-4] The game's emphasis on character observation and investigation over traditional puzzle-solving required detailed character animations that could convey personality and suspicion, a challenge Herring met with his background in illustration and storytelling.[^ref-5]
 
-Following The Colonel's Bequest, Herring continued as animation lead on [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], where he also served as in-house Art Designer and designed the endgame combat system.[^ref-2] His work on [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] saw him designing the art for the desert sections and creating the game's combat system—demonstrating his versatility beyond pure artistic work.[^ref-2]
+Following The Colonel's Bequest, Herring continued as animation lead on [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], where he also served as in-house Art Designer and designed the endgame combat system.[^ref-2][^ref-10][^ref-15] His work on [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] saw him designing the art for the desert sections and creating the game's combat system—demonstrating his versatility beyond pure artistic work.[^ref-2]
 
-The pinnacle of Herring's Sierra career came with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season. Herring served as Team Leader and final Art Director on what would become the best-selling adventure game of all time and Sierra's first major VGA game.[^ref-2] The transition to VGA's 256-color palette represented a massive leap in visual fidelity, and Herring's leadership helped ensure the game set new standards for adventure game graphics.[^ref-2]
+The pinnacle of Herring's Sierra career came with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season. Herring served as Team Leader and final Art Director on what would become the best-selling adventure game of all time and Sierra's first major VGA game.[^ref-2][^ref-8][^ref-12] The transition to VGA's 256-color palette represented a massive leap in visual fidelity, and Herring's leadership helped ensure the game set new standards for adventure game graphics.[^ref-2][^ref-8]
 
-His final major project at Sierra was as Director on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]], a remake of the original 1986 game. Herring has described this as his favorite Sierra project, calling it "a great honor to be allowed to re-draw and add to" the work of original designers Mark Crowe and Scott Murphy.[^ref-1] In addition to directing, he served as Art Designer, painter, and animator on the remake.[^ref-2] He also contributed to [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain\|The Castle of Dr. Brain]] as Art Designer and animator, and provided preliminary storyboards for [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] and [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] before leaving the company in October 1991.[^ref-2]
+His final major project at Sierra was as Director on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]], a remake of the original 1986 game.[^ref-9][^ref-13] Herring has described this as his favorite Sierra project, calling it "a great honor to be allowed to re-draw and add to" the work of original designers Mark Crowe and Scott Murphy.[^ref-1] In addition to directing, he served as Art Designer, painter, and animator on the remake.[^ref-2][^ref-13] He also contributed to [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain\|The Castle of Dr. Brain]] as Art Designer and animator, and provided preliminary storyboards for [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] and [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] before leaving the company in October 1991.[^ref-2]
 
 ### Freelance Period (1991–1995)
 
@@ -65,7 +65,7 @@ Herring has been candid about the challenges of game development at large corpor
 
 ### Post-Microsoft Career
 
-After leaving Microsoft in October 2004, Herring continued his artistic pursuits, including his passion for fantasy helmet creation, photography, and other creative projects.[^ref-1] In 2018, he contributed to [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]], developed by Corey and Lori Cole—his former colleagues from the Quest for Glory series at Sierra.[^ref-6]
+After leaving Microsoft in October 2004, Herring continued his artistic pursuits, including his passion for fantasy helmet creation, photography, and other creative projects.[^ref-1] In 2018, he contributed to [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]], developed by Corey and Lori Cole—his former colleagues from the Quest for Glory series at Sierra.[^ref-6][^ref-14]
 
 ## Notable Works
 
@@ -144,10 +144,18 @@ Herring's work continues to resonate with fans of classic adventure games. The a
 
 ## References
 
-[^ref-1]: [Adventure Classic Gaming - Douglas Herring Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/599/)
-[^ref-2]: [Douglas Herring Official Resume](http://www.douglasherring.com/09_resumemst.html)
-[^ref-3]: [Adventure Game Fan Fair - Douglas Herring Bio](https://adventuregamefanfair.com/guests/douglas-herring/)
-[^ref-4]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel%27s_Bequest)
-[^ref-5]: [InterAction Magazine Issue 6 - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6)
-[^ref-6]: [MobyGames - Douglas Herring](https://www.mobygames.com/person/3318/douglas-herring/)
-[^ref-7]: [St. George's Games - The Colonel's Bequest Analysis](https://starlingdb.org/games/Colonel's_Bequest.pdf)
+[^ref-1]: [Adventure Classic Gaming - Douglas Herring Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/599/) — Extensive career interview covering Sierra years, Microsoft, and design philosophy
+[^ref-2]: [Douglas Herring Official Resume](http://www.douglasherring.com/09_resumemst.html) — Complete professional history with detailed credits
+[^ref-3]: [Adventure Game Fan Fair - Douglas Herring Bio](https://adventuregamefanfair.com/guests/douglas-herring/) — Biography for convention appearance
+[^ref-4]: [Wikipedia - The Colonel's Bequest](https://en.wikipedia.org/wiki/The_Colonel%27s_Bequest) — Lists Douglas Herring as one of the game's artists alongside Gerald Moore
+[^ref-5]: [InterAction Magazine Issue 6 - The Colonel's Bequest](http://sierrainteraction.wikidot.com/the-colonel-s-bequest-issue-6) — Original Sierra magazine coverage
+[^ref-6]: [MobyGames - Douglas Herring Credits](https://www.mobygames.com/person/3318/douglas-herring/credits/) — Complete game credits listing
+[^ref-7]: [St. George's Games - The Colonel's Bequest Analysis](https://starlingdb.org/games/Colonel's_Bequest.pdf) — Critical analysis praising artists' character work
+[^ref-8]: [Wikipedia - King's Quest V](https://en.wikipedia.org/wiki/King%27s_Quest_V) — Development and reception of Sierra's first major VGA game
+[^ref-9]: [Wikipedia - Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) — Coverage of VGA remake directed by Herring
+[^ref-10]: [Wikipedia - Conquests of Camelot](https://en.wikipedia.org/wiki/Conquests_of_Camelot) — Game where Herring served as lead animator and combat system designer
+[^ref-11]: [MobyGames - The Colonel's Bequest Credits](https://www.mobygames.com/game/194/the-colonels-bequest/credits/dos/) — Art Designer and Sole Animator credits
+[^ref-12]: [MobyGames - King's Quest V Credits](https://www.mobygames.com/game/139/kings-quest-v-absence-makes-the-heart-go-yonder/credits/dos/) — Art Director credit
+[^ref-13]: [MobyGames - Space Quest I VGA Credits](https://www.mobygames.com/game/279/space-quest-i-roger-wilco-in-the-sarien-encounter/credits/dos/) — Director credit on VGA remake
+[^ref-14]: [MobyGames - Hero-U: Rogue to Redemption Credits](https://www.mobygames.com/game/116432/hero-u-rogue-to-redemption/credits/) — 2018 contribution to Cole's project
+[^ref-15]: [MobyGames - Conquests of Camelot Credits](https://www.mobygames.com/game/248/conquests-of-camelot-the-search-for-the-grail/credits/dos/) — Animation Lead credit
