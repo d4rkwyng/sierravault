@@ -233,6 +233,16 @@
         "timestamp": "2026-02-12T15:21:44.535523",
         "score": 72.0,
         "total": 72
+      },
+      {
+        "timestamp": "2026-02-13T16:18:00.250907",
+        "score": 75.0,
+        "total": 75
+      },
+      {
+        "timestamp": "2026-02-13T16:24:50.270617",
+        "score": 89.0,
+        "total": 89
       }
     ],
     "1992 - Johnny Castaway.md": [
@@ -279,6 +289,16 @@
         "timestamp": "2026-02-13T15:03:45.975162",
         "score": 83.0,
         "total": 83
+      },
+      {
+        "timestamp": "2026-02-13T16:17:50.569659",
+        "score": 83.0,
+        "total": 83
+      },
+      {
+        "timestamp": "2026-02-13T16:23:49.761928",
+        "score": 92.0,
+        "total": 92
       }
     ],
     "1993 - Space Quest V - The Next Mutation.md": [
@@ -293,6 +313,16 @@
         "timestamp": "2026-02-13T15:03:46.054628",
         "score": 89.0,
         "total": 89
+      },
+      {
+        "timestamp": "2026-02-13T16:18:00.199715",
+        "score": 89.0,
+        "total": 89
+      },
+      {
+        "timestamp": "2026-02-13T16:21:42.828801",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!.md": [
@@ -307,6 +337,16 @@
         "timestamp": "2026-02-13T15:03:56.322721",
         "score": 81.0,
         "total": 81
+      },
+      {
+        "timestamp": "2026-02-13T16:18:00.298748",
+        "score": 81.0,
+        "total": 81
+      },
+      {
+        "timestamp": "2026-02-13T16:24:19.062928",
+        "score": 91.0,
+        "total": 91
       }
     ],
     "1990 - Rise of the Dragon.md": [
@@ -314,6 +354,16 @@
         "timestamp": "2026-02-13T15:03:56.365714",
         "score": 85.0,
         "total": 85
+      },
+      {
+        "timestamp": "2026-02-13T16:18:00.344087",
+        "score": 85.0,
+        "total": 85
+      },
+      {
+        "timestamp": "2026-02-13T16:23:21.960512",
+        "score": 88.0,
+        "total": 88
       }
     ],
     "1982 - Mouskattack.md": [
@@ -329,87 +379,30 @@
         "score": 93.0,
         "total": 93
       }
+    ],
+    "Jerry Moore.md": [
+      {
+        "timestamp": "2026-02-13T15:55:25.042369",
+        "score": 58.0,
+        "total": 58
+      }
+    ],
+    "1995 - 3-D Ultra Pinball.md": [
+      {
+        "timestamp": "2026-02-13T16:16:24.685188",
+        "score": 91.0,
+        "total": 91
+      }
+    ],
+    "1997 - 3-D Ultra MiniGolf.md": [
+      {
+        "timestamp": "2026-02-13T16:16:29.300602",
+        "score": 96.0,
+        "total": 96
+      }
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-12T13:11:03.064020",
-      "files_scored": 1,
-      "average": 60.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:11:26.531149",
-      "files_scored": 1,
-      "average": 54.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:11:46.323352",
-      "files_scored": 1,
-      "average": 56.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:12:08.203652",
-      "files_scored": 1,
-      "average": 53.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:12:20.794672",
-      "files_scored": 1,
-      "average": 56.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:12:51.947614",
-      "files_scored": 1,
-      "average": 53.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:14:18.066159",
-      "files_scored": 1,
-      "average": 51.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:14:42.399257",
-      "files_scored": 1,
-      "average": 54.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:15:29.930298",
-      "files_scored": 1,
-      "average": 59.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:15:50.519266",
-      "files_scored": 1,
-      "average": 59.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:18:52.460846",
-      "files_scored": 1,
-      "average": 53.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:20:22.372687",
-      "files_scored": 1,
-      "average": 51.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:21:18.949776",
-      "files_scored": 1,
-      "average": 57.0,
-      "passing": 0
-    },
     {
       "timestamp": "2026-02-12T13:22:11.553354",
       "files_scored": 1,
@@ -630,6 +623,84 @@
       "timestamp": "2026-02-13T15:46:54.689810",
       "files_scored": 1,
       "average": 62.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T15:55:25.042369",
+      "files_scored": 1,
+      "average": 58.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:16:24.685188",
+      "files_scored": 1,
+      "average": 91.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:16:29.300602",
+      "files_scored": 1,
+      "average": 96.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:17:50.569659",
+      "files_scored": 1,
+      "average": 83.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:18:00.199715",
+      "files_scored": 1,
+      "average": 89.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:18:00.250907",
+      "files_scored": 1,
+      "average": 75.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:18:00.298748",
+      "files_scored": 1,
+      "average": 81.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:18:00.344087",
+      "files_scored": 1,
+      "average": 85.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:21:42.828801",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:23:21.960512",
+      "files_scored": 1,
+      "average": 88.0,
+      "passing": 0
+    },
+    {
+      "timestamp": "2026-02-13T16:23:49.761928",
+      "files_scored": 1,
+      "average": 92.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:24:19.062928",
+      "files_scored": 1,
+      "average": 91.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:24:50.270617",
+      "files_scored": 1,
+      "average": 89.0,
       "passing": 0
     }
   ]

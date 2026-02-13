@@ -151,4 +151,26 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 - [[2018 - Hero-U - Rogue to Redemption]] — The Coles' own crowdfunded project developed concurrently
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]] — The Coles' breakthrough game at Sierra
 
-## 
+## References
+
+[^ref-1]: [Steam – Bolt Riley: A Reggae Adventure](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — Official store page, release date, platform info
+[^ref-2]: [Kickstarter – Bolt Riley: A Reggae Adventure](https://www.kickstarter.com/projects/adventuremob/bolt-riley-a-reggae-adventure) — 757 backers, gameplay description, story outline
+[^ref-3]: [Adventure Gamers – Bolt Riley](https://adventuregamers.com/games/view/31147) — Chapter 1 release confirmation, episodic structure
+[^ref-4]: [MobyGames – Leisure Suit Larry: Reloaded](https://www.mobygames.com/game/54983/leisure-suit-larry-reloaded/) — Adventure Mob original involvement
+[^ref-5]: [Rock Paper Shotgun – Bolt Riley Kickstarter](https://www.rockpapershotgun.com/reggae-adventure-game-bolt-riley-has-a-kickstarter) — Cole involvement details, "Coles designed Chapter 2"
+[^ref-6]: [Adventure Gamers Interview – Oded Sharon](https://adventuregamers.com/articles/view/26878) — Unity engine, Noah Falstein introduction, development history
+[^ref-7]: [Adventure Mob Official Site](https://web.archive.org/web/20170101000000*/adventuremob.com) — Hand-drawn art, "wacky inventory items, and of course, a rope"
+[^ref-9]: [MobyGames – Bolt Riley Credits](https://www.mobygames.com/game/83611/bolt-riley-a-reggae-adventure/credits/) — Full development team, voice cast, plugins used
+[^ref-10]: [Gamasutra – Bolt Riley Development](https://www.gamasutra.com/view/news/202143/) — Unity 3D choice, cross-platform goals, first Kickstarter results
+[^ref-11]: [Polygon – Bolt Riley Preview](https://www.polygon.com/2013/10/10/4822476/bolt-riley-adventure-game) — Trenchtown setting, 1970s Jamaica context
+[^ref-13]: [Wikipedia – Trenchtown](https://en.wikipedia.org/wiki/Trenchtown) — Bob Marley birthplace, reggae history
+[^ref-14]: [Reddit AMA – Oded Sharon and Coles](https://www.reddit.com/r/adventuregames/comments/1o7wfp/) — 1970s photo references, collaboration timeline
+[^ref-15]: [Quest for Glory Fandom](https://questforglory.fandom.com/wiki/Magic) — Spell system comparison for Inspirational powers
+[^ref-17]: [VentureBeat – Replay Games Developer Change](https://venturebeat.com/2012/07/17/replay-games-leisure-suit-larry/) — Adventure Mob to N-Fusion switch
+[^ref-18]: [Kicktraq – Bolt Riley Campaign Data](https://www.kicktraq.com/projects/adventuremob/bolt-riley-a-reggae-adventure/) — First campaign $51K, second campaign $31,668 goal
+[^ref-19]: [OUYA – FreeTheGames Fund](https://web.archive.org/web/20140801000000*/ouya.tv/free-the-games-fund) — 7-day campaign strategy
+[^ref-20]: [Omri Lahav – Composer Portfolio](https://omrilahav.com/) — Original soundtrack credits
+[^ref-21]: [Adventure Gamers Database](https://adventuregamers.com/games/view/31147) — "Stylized" art style, 2016 Early Access reference
+[^ref-22]: [Patreon – Adventure Mob](https://www.patreon.com/adventuremob) — Development status, team availability concerns
+[^ref-23]: [itch.io – Bolt Riley](https://soundguy.itch.io/boltriley) — Alternative purchase option with Steam key
+[^ref-24]: [Humble Bundle – Bolt Riley](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free purchase option 

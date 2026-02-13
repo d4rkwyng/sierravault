@@ -210,4 +210,21 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Casino 1999](https://www.mobygames.com/game/9089/hoyle-casino-99/) — Release date, bundled demos, and platform information
+[^ref-2]: [PriceCharting – Hoyle Casino 1999](https://www.pricecharting.com/game/pc-games/hoyle-casino-1999) — UPC, ASIN, game count claims, and price tracking
+[^ref-3]: [Classic Mac Demos – Hoyle Casino 1999](https://classicmacdemos.com/hoyle-casino-1999) — Demo distribution, animated dealers, and slot machine gameplay
+[^ref-4]: [GameOver – Hoyle Casino 1999 Review](https://www.game-over.com/reviews/pc/hoylecasino99.html) — 80% score with detailed category breakdown, "cheat factor" concerns
+[^ref-5]: [MacAddict Issue 033 Review](https://archive.org/details/MacAddict_033_1999-06) — Owen Linzmayer review, Practice Mode praise, pacing criticism
+[^ref-6]: [MyAbandonware – Hoyle Casino](https://www.myabandonware.com/game/hoyle-casino-hzg) — Preservation download, 4/5 rating, developer credits
+[^ref-7]: [PCGamingWiki – Hoyle Casino 1999](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_1999) — DRM info, animation skip behavior, version history
+[^ref-8]: [Amazon Listing – Hoyle Casino 1999](https://www.amazon.com/Hoyle-Casino-1999-PC/dp/B00001KRTG) — Game count (22 video poker, 8 poker styles), multiplayer issues
+[^ref-9]: [GameFAQs – Hoyle Casino 2001](https://gamefaqs.gamespot.com/pc/933501-hoyle-casino-2001) — "Outstanding" rating, series continuation info
+[^ref-10]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) — Sales data ($6.15M, 230K units), series history, 2007 bug description
+[^ref-11]: [Internet Archive – Prototype Build](https://archive.org/details/9905182137) — July 30, 1999 prototype discovered by lemurboy12
+[^ref-12]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/563820-hoyle-casino-1999/cheats) — "Break The Bank" exploit documentation
+[^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
+[^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
+[^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
+[^ref-16]: [Internet Archive – Prototype](https://archive.org/details/9905182137) — Pre-release build preservation 

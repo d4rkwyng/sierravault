@@ -198,4 +198,22 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 - [[1988 - African Raiders-01|← Previous: African Raiders-01]]
 - [[1989 - ESS - European Space Simulator|→ Next: ESS - European Space Simulator]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames – Asterix: Operation Getafix](https://www.mobygames.com/game/12987/asterix-operation-getafix/) — Platform info, Moby Score 6.3, localized titles
+[^ref-2]: [GameFAQs – Asterix: Operation Getafix](https://gamefaqs.gamespot.com/pc/927133-asterix-operation-getafix) — "Playable" rating, film adaptation details
+[^ref-3]: [Hardcore Gaming 101 – Asterix Games](https://www.hardcoregaming101.net/asterix/) — Coktel Vision comic adaptations, flying fish gag, controls
+[^ref-4]: [Abandonware DOS – Asterix: Operation Getafix](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Asterix+Operation+Getafix&gid=866) — 3.96/5 user rating, "wild boar wearing gloves" review
+[^ref-5]: [Lemon Amiga – Asterix: Operation Getafix](https://www.lemonamiga.com/games/details.php?id=114) — Plot details, 5.19/10 rating, potion combinations
+[^ref-6]: [Games Nostalgia – Asterix: Operation Getafix](https://gamesnostalgia.com/game/asterix-operation-getafix) — 56/100 aggregate, graphics praise, action criticism
+[^ref-7]: [MyAbandonware – Asterix: Operation Getafix](https://www.myabandonware.com/game/asterix-operation-getafix-ld) — 4.26/5 rating, "most obscure Coktel Vision game"
+[^ref-8]: [Lemon Amiga Reviews](https://www.lemonamiga.com/games/reviews.php?id=114) — Muriel Tramis concept credit, control criticism, 70% magazine average
+[^ref-9]: [Wikipedia – Asterix](https://en.wikipedia.org/wiki/Asterix) — 50 BC setting, village lore, Les Éditions Albert René
+[^ref-10]: [Classic Reload – Asterix: Operation Getafix](https://classicreload.com/dosx-asterix-operation-getafix.html) — Ingredient collection gameplay description
+[^ref-11]: [Internet Archive – Asterix: Operation Getafix](https://archive.org/details/001520-AsterixOperationGetafix) — Game preservation and location screenshots
+[^ref-12]: [Hall of Light – Asterix: Operation Getafix](https://hol.abime.net/114) — Magazine scores: Joystick 92%, Amiga Joker 45%, CU Amiga 72%
+[^ref-13]: [Wikipedia – Asterix and the Big Fight (film)](https://en.wikipedia.org/wiki/Asterix_and_the_Big_Fight_(film)) — 1989 animated film source material
+[^ref-14]: [Hardcore Gaming 101 – Asterix Series Analysis](https://www.hardcoregaming101.net/asterix/) — Music comparison, later Sega games assessment
+[^ref-15]: [Lemon Amiga – Downloads](https://www.lemonamiga.com/games/download.php?id=114) — Disk format: 1 × 3.5" DD (720KB)
+[^ref-16]: [MyAbandonware – Browser Play](https://www.myabandonware.com/game/asterix-operation-getafix-ld/play-ld) — Browser emulation warning
+[^ref-17]: [MobyGames – Publishers](https://www.mobygames.com/game/12987/asterix-operation-getafix/releases/) — Pactronics and Tenstar distribution 

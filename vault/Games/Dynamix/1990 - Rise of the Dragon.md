@@ -271,4 +271,43 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 - ← Previous: F-14 Tomcat
 - [[1991 - Heart of China|→ Next: Heart of China]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/648/rise-of-the-dragon/) — Comprehensive database entry with credits, ratings, and Dragon magazine 5/5 review
+[^ref-2]: [Wikipedia – Rise of the Dragon](https://en.wikipedia.org/wiki/Rise_of_the_Dragon) — Plot summary and development history
+[^ref-3]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Rise_of_the_Dragon) — DGDS engine details, technical specifications, and ScummVM compatibility
+[^ref-4]: [Adventure Games Podcast – Rise of the Dragon Retrospective](https://adventuregamespodcast.com/podcast/2024/6/18/rise-of-the-dragon-retrospective-review-with-david-lambert) — Modern retrospective discussing Blade Runner influences
+[^ref-5]: [GameFAQs – Rise of the Dragon](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon) — Gameplay mechanics and multiple-choice dialogue system
+[^ref-7]: [Alex Bevi – Rise of the Dragon Retrospective](https://alexbevi.com/blog/2023/02/13/rise-of-the-dragon/) — "Heavy Metal magazine" comparison and detailed analysis
+[^ref-8]: [Computer Gaming World Issue 147 (1996)](https://archive.org/details/Computer_Gaming_World_Issue_147) — Ranked 83rd best game of all time
+[^ref-9]: [IMDB – Rise of the Dragon](https://www.imdb.com/title/tt0243010/) — User rating 8.3/10, credits including David Platshon
+[^ref-10]: [Lemon Amiga – Rise of the Dragon](https://www.lemonamiga.com/games/details.php?id=939) — Platform release information and version history
+[^ref-11]: [Sega Retro – Rise of the Dragon](https://segaretro.org/Rise_of_the_Dragon) — "Age of Decay" setting description
+[^ref-12]: [Computer Gaming World Issue 79](https://archive.org/details/Computer_Gaming_World_Issue_79/page/n39/mode/2up) — 1991 Special Award for Artistic Achievement
+[^ref-13]: [David Barr Kirtley – Rise of the Dragon Retrospective](http://davidbarrkirtley.com/2011/01/10/retrospective-rise-of-the-dragon/) — Development details, 11,000 man-hours, Cam Clarke voice credits
+[^ref-14]: [ClassicReload – Rise of the Dragon](https://classicreload.com/rise-of-the-dragon.html) — Mayor Vincenzi dialogue and browser-playable version
+[^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details and Deng Hwang conspiracy
+[^ref-16]: [The Digital Antiquarian – Dynamix Adventures](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — Dragon transformation, Blade Runner character design homage
+[^ref-17]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Karyn relationship mechanics
+[^ref-18]: [OldGames.sk – Rise of the Dragon](https://www.oldgames.sk/game/rise-of-the-dragon/) — Cyberpunk influences, 74% rating
+[^ref-20]: [Lemon Amiga Review](https://www.lemonamiga.com/games/details.php?id=939) — 8.08/10 rating, interface description
+[^ref-21]: [Amiga Magazine Rack – Amiga Power Review](https://amr.abime.net/review_9052) — Jonathan Davies 79% review, "cinemathingumy" quote
+[^ref-22]: [GameFAQs – Sega CD Version](https://gamefaqs.gamespot.com/segacd/587987-rise-of-the-dragon/faqs) — Time mechanics and internal clock details
+[^ref-23]: [Hardcore Gaming 101 – Rise of the Dragon](http://www.hardcoregaming101.net/rise-of-the-dragon/) — "Disposable pulp detective novel" assessment, arcade sequence criticism
+[^ref-24]: [GameFAQs Hints](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Fortune cookie puzzle and location guide
+[^ref-25]: [Adventure Gamers – Rise of the Dragon](https://adventuregamers.com/games/rise-of-the-dragon) — "INSANELY frustrating" player comments
+[^ref-26]: [PC Gaming Wiki – Rise of the Dragon](https://www.pcgamingwiki.com/wiki/Rise_of_the_Dragon) — Arcade sequence skip option after five deaths
+[^ref-29]: [MobyGames Trivia](https://www.mobygames.com/game/648/rise-of-the-dragon/trivia/) — The Games Machine Italy 99/100 score, technical specifications
+[^ref-30]: [Hall of Light – Rise of the Dragon](https://hol.abime.net/3949) — European magazine scores: Datormagazin 96%, Joystick 94%, The One 92%
+[^ref-31]: [Computer Games Strategy Plus Archive](https://archive.org/details/computergamesmagazine) — "Underrated classic" retrospective assessment
+[^ref-32]: [The Digital Antiquarian – Willy Beamish](https://www.filfre.net/2018/08/the-adventures-of-willy-beamish/) — "Smart design sensibilities with dodgy writing" observation
+[^ref-33]: [GOG.com – Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — Digital release, 3.9/5 user rating
+[^ref-34]: [MyAbandonware – Rise of the Dragon](https://www.myabandonware.com/game/rise-of-the-dragon-zz) — Preservation download, 4.46/5 rating, death scene appreciation
+[^ref-35]: [Adventure Gamers Review](https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 star modern rating
+[^ref-36]: [Abandonware DOS – Rise of the Dragon](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Rise+of+the+Dragon&gid=1482) — 4.06/5 rating (106 votes)
+[^ref-38]: [Sierra Archives](https://archive.org/details/sierra-newsletters) — Dynamix acquisition and Sierra On-Line publishing context
+[^ref-39]: [DOS Games Archive – Rise of the Dragon](https://www.dosgamesarchive.com/download/rise-of-the-dragon/) — Technical specifications: VGA 320x200, EGA support
+[^ref-40]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Death scenarios: card key, public indecency, electrocution
+[^ref-41]: [Sega CD Review Archive](https://segaretro.org/Rise_of_the_Dragon) — Voice acting praise, "favorite version overall" assessment
+[^ref-42]: [ScummVM Compatibility Page](https://www.scummvm.org/compatibility/) — Testing pipeline addition October 2024
+[^ref-43]: [ScummVM 2026.1.0 Release Notes](https://www.scummvm.org/news/20260131/) — Full DGDS support in "Like a Version" release 

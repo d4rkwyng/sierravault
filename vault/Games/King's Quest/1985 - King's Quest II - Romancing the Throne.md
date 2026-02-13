@@ -229,4 +229,40 @@ This game has been included in[^ref-1]:
 - [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest - Quest for the Crown]]
 - [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III - To Heir Is Human]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information
+[^ref-2]: [Wikipedia – King's Quest II: Romancing the Throne](https://en.wikipedia.org/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Detailed article with development history and release information
+[^ref-3]: [DOS Days – King's Quest II](https://www.dosdays.co.uk/games/kings_quest/kq2.php) — Technical specifications, AGI interpreter versions, and development credits
+[^ref-4]: [Hardcore Gaming 101 – King's Quest Series](https://www.hardcoregaming101.net/kings-quest/) — Comprehensive series retrospective with detailed analysis of each game
+[^ref-5]: [IMDB – Romancing the Stone (1984)](https://www.imdb.com/title/tt0088011/) — Robert Zemeckis film that inspired the game's subtitle
+[^ref-6]: [The Adventure Gamer – King's Quest II](https://adventuregamer.blogspot.com/2011/08/game-4-kings-quest-ii-romancing-throne.html) — PISSED rating retrospective scoring 53 points
+[^ref-7]: [Compute! Magazine Archive](https://archive.org/details/compute-magazine) — Contemporary review describing game as "like playing an animated cartoon"
+[^ref-8]: [King's Quest Fandom Wiki](https://kingsquest.fandom.com/wiki/King's_Quest_II:_Romancing_the_Throne) — Story summary, easter eggs, and version details
+[^ref-9]: [GameFAQs – King's Quest II](https://gamefaqs.gamespot.com/pc/565066-kings-quest-ii-romancing-the-throne) — Plot summary and gameplay walkthrough
+[^ref-10]: [Adventure Gamers – King's Quest II Review](https://adventuregamers.com/games/view/15451) — Modern retrospective rating 3/5 "Decent"
+[^ref-11]: [ScummVM Wiki – AGI](https://wiki.scummvm.org/index.php/AGI) — Technical details on walking speed and version differences
+[^ref-12]: [The King's Quest Companion by Peter Spear](https://archive.org/details/kingsquestcompan00spea) — Official companion book with 185-point breakdown and Derek Karlavaegen narrative
+[^ref-13]: [Gaming After 40 – King's Quest II](https://gamingafter40.blogspot.com/2010/03/adventure-of-week-kings-quest-ii-1985.html) — Detailed retrospective discussing bridge mechanics
+[^ref-14]: [Computer + Video Games Magazine](https://archive.org/details/cvg-magazine) — Contemporary review scoring 6/10
+[^ref-15]: [IMDB – King's Quest II](https://www.imdb.com/title/tt0214855/) — User rating 7.1/10 and trivia including Thriller sample and Batmobile easter egg
+[^ref-16]: [HowLongToBeat – King's Quest II](https://howlongtobeat.com/game/5121) — Completion time data: ~3 hours average, 37 minutes fastest
+[^ref-17]: [Choicest Games – King's Quest II Review](https://www.choicestgames.com/2014/04/kings-quest-ii-romancing-throne-review.html) — Modern retrospective rating 4/10
+[^ref-18]: [Sierra Gamers – Roberta Williams Interview](https://www.sierragamers.com/roberta-williams-interview/) — Williams discussing ideas carried over from King's Quest I
+[^ref-19]: [Sierra Chest – King's Quest II](https://www.sierrachest.com/index.php?a=games&id=2&title=kings-quest-2) — Hint book credits (Al Lowe), walkthroughs, and maps
+[^ref-20]: [Video Game Music Preservation Foundation – King's Quest II](https://www.vgmpf.com/Wiki/index.php?title=King%27s_Quest_II:_Romancing_the_Throne_(DOS)) — Soundtrack analysis including Michael Jackson's Thriller sample
+[^ref-21]: [IGN – King's Quest II Walkthrough](https://www.ign.com/articles/2003/11/14/kings-quest-ii-romancing-the-throne-walkthrough-371055) — Easter eggs including Batmobile appearance
+[^ref-22]: [The Cutting Room Floor – King's Quest II](https://tcrf.net/King%27s_Quest_II:_Romancing_the_Throne) — Unused content, debug commands, and Mac "4givmeken" backdoor
+[^ref-23]: [AGD Interactive – King's Quest II VGA](https://www.agdinteractive.com/games/kq2/) — Free VGA remake with 451,400+ downloads
+[^ref-24]: [Adventure Game Studio – King's Quest II Remake](https://www.adventuregamestudio.co.uk/site/games/game/1047/) — Remake technical details and Josh Mandel voice credits
+[^ref-25]: [Polygon – King's Quest 2015 Chapter 3](https://www.polygon.com/2016/4/26/11509712/kings-quest-chapter-3-once-upon-a-climb-review) — Coverage of "Once Upon a Climb" reimagining Valanice rescue
+[^ref-26]: [GOG – King's Quest 1+2+3](https://www.gog.com/en/game/kings_quest_1_2_3) — Digital release with 4.1/5 rating (41 reviews)
+[^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100) — Digital collection with 86% Very Positive rating (306 reviews)
+[^ref-28]: [Internet Archive – King's Quest II (1985)](https://archive.org/details/msdos_Kings_Quest_II_-_Romancing_the_Throne_1985) — Preservation copy of original DOS release
+[^ref-29]: [DOS Zone – King's Quest II](https://dos.zone/kings-quest-ii-romancing-the-throne-1987/) — Browser-playable version
+[^ref-30]: [Sierra Help Pages – King's Quest II](https://sierrahelp.com/Games/KingsQuest/KQ2Help.html) — Technical support and patch information
+[^ref-31]: [PCGamingWiki – King's Quest II](https://www.pcgamingwiki.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) — Modern compatibility fixes and technical information
+[^ref-32]: [Classic Gaming – King's Quest II Analysis](https://classicgaming.gamespy.com/View.php?view=Games.Detail&id=135) — Technical innovations including first opening cutscene
+[^ref-33]: [Tom Lewandowski – King's Quest II VGA Soundtrack](https://xeenmusic.bandcamp.com/album/kings-quest-ii-romancing-the-stones-vga-soundtrack) — Nearly two hours of original music for AGD Interactive remake
+[^ref-34]: [Sierra Archives – King's Quest Companion Foreword](https://archive.org/details/kingsquestcompan00spea/page/n7/) — Roberta Williams endorsement calling it "invaluable"
+[^ref-35]: [TV Tropes – King's Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIRomancingTheThrone) — Easter eggs documentation including Batmobile and Batman theme 
