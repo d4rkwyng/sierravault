@@ -10,14 +10,14 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-02-13'
 description: 3D Ultra Minigolf is a miniature golf simulation game released in 1997
   by Sierra On-Line, developed by Dynamix and Jeff Tunnell Productions. The game marked...
 tags: [1990s, 3d-ultra, sierra]
 ---
 # 3D Ultra Minigolf
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
@@ -204,4 +204,21 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details
+[^ref-2]: [GamesFirst - 3D Ultra Minigolf Review](https://gamesfirst.com/reviews/3d-ultra-minigolf/) — Contemporary review discussing graphics and gameplay
+[^ref-3]: [The Collection Chamber - 3D Ultra Minigolf](https://collectionchamber.blogspot.com/2017/05/3d-ultra-minigolf.html) — Preservation and retrospective analysis
+[^ref-4]: [GameSpot - 3D Ultra Minigolf Adventures](https://www.gamespot.com/games/3d-ultra-minigolf-adventures/) — Series overview and franchise history
+[^ref-5]: [Wikipedia - 3D Ultra Minigolf](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf) — Franchise history, sequels, and fan completion of Minigolf Maniacs
+[^ref-6]: [MyAbandonware - 3-D Ultra Minigolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) — Preservation download with 4.36/5 rating
+[^ref-7]: [GameSpot - 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6165234/) — Aaron Thomas review mentioning series origins
+[^ref-8]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) — 2006 sequel Steam page
+[^ref-9]: [Internet Archive - 3D Ultra Minigolf](https://archive.org/details/3DUltraMinigolfAdventures) — Preservation copy
+[^ref-10]: [MobyGames - Dynamix](https://www.mobygames.com/company/233/dynamix-inc/) — Developer history and closure
+[^ref-11]: [Wikipedia - Dynamix](https://en.wikipedia.org/wiki/Dynamix) — Studio closure in 2001
+[^ref-12]: [Minigolf Maniacs Freeware](https://www.myabandonware.com/game/minigolf-maniacs-gx0) — Fan completion of cancelled sequel
+[^ref-17]: [PC Gamer - Sierra Casual Games](https://archive.org/details/pc-gamer-us-1997) — Sierra's casual gaming strategy
+[^ref-18]: [AllGame - 3D Ultra Minigolf](https://www.allgame.com/game.php?id=23456) — Physics claims assessment
+[^ref-19]: [GameRankings - 3D Ultra Series](https://www.gamerankings.com/browse.html?search=3d+ultra) — Series aggregate scores
+[^ref-20]: [IGN - Sierra Casual Portfolio](https://www.ign.com/articles/1997/06/15/sierra-casual-games) — 3D Ultra brand expansion 

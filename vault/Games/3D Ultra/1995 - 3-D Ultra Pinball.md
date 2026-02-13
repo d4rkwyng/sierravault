@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: Custom Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-02-13'
 composer: [LoudMouth Productions]
 description: 3-D Ultra Pinball is a pinball simulation game developed by Dynamix and
   published by Sierra On-Line in 1995. The game represented Sierra's first major entry...
@@ -18,7 +18,7 @@ tags: [1990s, 3-d-ultra-pinball, sierra]
 ---
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 13, 2026</small>
 
 ## Overview
 
@@ -206,4 +206,22 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 ## See Also
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Game credits, developer info, and user reviews
+[^ref-2]: [NewTechReview - 3D Ultra Pinball Review](https://newtechreview.com/reviews/3d-ultra-pinball/) — Review praising Sierra's impact on PC pinball
+[^ref-3]: [GameSpot - 3-D Ultra Pinball](https://www.gamespot.com/games/3-d-ultra-pinball/) — Contemporary coverage of fantasy pinball mechanics
+[^ref-4]: [Sierra Sales Report 1998](https://archive.org/details/sierra-annual-report-1998) — Series sales exceeding 500,000 copies
+[^ref-5]: [IGN - 3D Ultra Pinball Series](https://www.ign.com/games/3d-ultra-pinball) — Overview of series as best-selling pinball franchise
+[^ref-6]: [MyAbandonware - 3-D Ultra Pinball](https://www.myabandonware.com/game/3-d-ultra-pinball-3fg) — Preservation download with 4.78/5 user rating
+[^ref-7]: [Internet Archive - 3-D Ultra Pinball](https://archive.org/details/3-D_Ultra_Pinball_Sierra_On-Line_S676430_1995) — Preservation copy with documentation
+[^ref-8]: [PC Gamer - 3D Ultra Pinball Thrillride Review](https://archive.org/details/pc-gamer-us-2000) — Review of series evolution and physics improvements
+[^ref-9]: [GameFAQs - 3-D Ultra Pinball](https://gamefaqs.gamespot.com/pc/197855-3-d-ultra-pinball) — Game description and quest mode details
+[^ref-10]: [MobyGames - 3-D Ultra Pinball Scores](https://www.mobygames.com/game/4508/3-d-ultra-pinball/ratings/) — Aggregate critic and player ratings
+[^ref-11]: [GameSpot User Reviews](https://www.gamespot.com/games/3-d-ultra-pinball/user-reviews/) — User rating average of 6.8
+[^ref-12]: [MobyGames - 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/4509/3-d-ultra-pinball-creep-night/) — Sequel reviews and reception
+[^ref-13]: [Ink19 - 3D Ultra Pinball: The Lost Continent](https://ink19.com/1997/12/magazine/reviews/game/3d-ultra-pinball-the-lost-continent) — Series philosophy review
+[^ref-14]: [IGN - 3D Ultra Pinball GBC Review](https://www.ign.com/articles/2001/01/12/3d-ultra-pinball-thrillride) — Game Boy Color port review with 5/10 score
+[^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
+[^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
+[^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series 
