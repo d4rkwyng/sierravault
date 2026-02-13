@@ -56,13 +56,13 @@ Throughout his investigation, Blade must navigate complex relationships, includi
 
 ### Interface and Controls
 
-Rise of the Dragon utilizes a first-person perspective with a point-and-click interface that was considered innovative for its time.[^ref-39] The game employs a smart cursor that changes shape to indicate different interaction possibilities, allowing players to examine, manipulate, and interact with objects and characters in the environment.[^ref-20] The drag-and-drop interface was praised for being intuitive, with graphic novel-style cutscenes advancing the narrative.[^ref-4]
+Rise of the Dragon utilizes a first-person perspective with a point-and-click interface that was considered innovative for its time.[^ref-39] The game employs a smart cursor that changes shape to indicate different interaction possibilities, allowing players to examine, manipulate, and interact with objects and characters in the environment.[^ref-10] The drag-and-drop interface was praised for being intuitive, with graphic novel-style cutscenes advancing the narrative.[^ref-4]
 
 The game came packaged with a comic book that continues where the introduction leaves off, providing additional context for the story.[^ref-7] Players could use a Vid-Phone answering machine with pictures to receive messages and communicate with other characters.[^ref-21] The interface shared similarities with other Dynamix adventure games like Heart of China and The Adventures of Willy Beamish, all built on the same DGDS engine.[^ref-3]
 
 ### Structure and Progression
 
-Unlike most adventure games of the time, Rise of the Dragon operates in a living environment where events happen whether the player is present or not.[^ref-20] The game features an internal clock that updates every five seconds, with each of Blade's actions consuming a certain amount of time.[^ref-22] Some game events will only occur at particular times, requiring players to plan their movements strategically.
+Unlike most adventure games of the time, Rise of the Dragon operates in a living environment where events happen whether the player is present or not.[^ref-10] The game features an internal clock that updates every five seconds, with each of Blade's actions consuming a certain amount of time.[^ref-22] Some game events will only occur at particular times, requiring players to plan their movements strategically.
 
 Blade's day typically begins at noon and ends at 1 AM when he must return home to sleep.[^ref-23] The game spans multiple in-game days, with time-sensitive events creating genuine tension and consequence for player decisions. The game features over 85 detail-packed locations across various areas of futuristic Los Angeles.[^ref-21]
 
@@ -74,13 +74,13 @@ Blade's day typically begins at noon and ends at 1 AM when he must return home t
 - **Chen Lu's Apartment:** Home of an informant
 - **Johnny Qwong's Residence:** Another key character location
 - **The Reservoir:** Site of important discoveries
-- **Deng Hwang Enterprises:** The antagonist's headquarters[^ref-24]
+- **Deng Hwang Enterprises:** The antagonist's headquarters[^ref-15]
 
 ### Puzzles and Mechanics
 
 Rise of the Dragon features multiple-choice dialogues as a primary gameplay mechanism, with character relationships significantly impacting game progression.[^ref-5] The characters have personalities and remember what the player said or did to them, creating a dynamic where poor choices can have lasting consequences.[^ref-9] A wrong choice can often lead to a premature end of the adventure, making the game notably challenging.[^ref-25]
 
-The game includes two side-scrolling arcade sequences and an aim-and-shoot scene that differ from traditional adventure gameplay.[^ref-20] These action sequences have been criticized for having stiff controls and being difficult to complete, though the game offers a mercy option: if killed five times in a row, players are asked if they want to skip the arcade sequence.[^ref-26] Some puzzles have multiple possible solutions, adding replay value.[^ref-22]
+The game includes two side-scrolling arcade sequences and an aim-and-shoot scene that differ from traditional adventure gameplay.[^ref-10] These action sequences have been criticized for having stiff controls and being difficult to complete, though the game offers a mercy option: if killed five times in a row, players are asked if they want to skip the arcade sequence.[^ref-26] Some puzzles have multiple possible solutions, adding replay value.[^ref-22]
 
 One of the game's most unforgiving mechanics involves Blade's relationship with his girlfriend Karyn. If the player stands her up for a date, the game ends immediately, as Karyn's help is crucial to completion.[^ref-17] This and similar design choices have led some players to describe the game as "INSANELY frustrating," with practically every puzzle requiring failure several times to understand what needs to be done.[^ref-4]
 
@@ -107,9 +107,9 @@ Modern critics have also addressed problematic elements. Jimmy Maher of The Digi
 - **IMDB:** 8.3/10 (71 ratings)[^ref-9]
 - **GOG.com:** 3.9/5 (12 reviews)[^ref-33]
 - **MyAbandonware:** 4.46/5[^ref-34]
-- **Adventure Gamers:** 2.5/5 stars[^ref-35]
+- **Adventure Gamers:** 2.5/5 stars[^ref-25]
 - **Abandonware DOS:** 4.06/5 (106 votes)[^ref-36]
-- **Lemon Amiga:** 8.08/10[^ref-20]
+- **Lemon Amiga:** 8.08/10[^ref-10]
 - **OldGames.sk:** 74%[^ref-18]
 
 ## Development
@@ -185,7 +185,7 @@ The game was built using the Dynamix Game Development System (DGDS), the first t
 
 The game is notorious for its unforgiving design that can create unwinnable situations. Players can lock themselves out of their apartment by forgetting the card key, or permanently alienate Karyn through poor dialogue choices, making the game impossible to complete.[^ref-23] The arcade sequences have been criticized for "abysmal" stiff controls where enemy shots are "impossible to dodge."[^ref-23]
 
-Other potential game-ending scenarios include: forgetting to put on clothes before leaving the apartment (resulting in arrest for public indecency), falling down a hole near the apartment, getting beaten up by bouncers at the club, or getting electrocuted in the sewers.[^ref-40] The game's propensity for unexpected deaths led to the universal advice: "Save often, my friends!"[^ref-33]
+Other potential game-ending scenarios include: forgetting to put on clothes before leaving the apartment (resulting in arrest for public indecency), falling down a hole near the apartment, getting beaten up by bouncers at the club, or getting electrocuted in the sewers.[^ref-17] The game's propensity for unexpected deaths led to the universal advice: "Save often, my friends!"[^ref-33]
 
 ### Easter Eggs and Trivia
 
@@ -193,7 +193,7 @@ Other potential game-ending scenarios include: forgetting to put on clothes befo
 - **FU BAR:** A patron in the game is named "FU BAR," a play on the computing term FUBAR (Fouled Up Beyond All Recognition).[^ref-5]
 - **Alt-M Easter Egg:** Pressing Alt-M during gameplay switches off the music.[^ref-21]
 - **Blade Runner References:** Beyond the protagonist's name, numerous visual and narrative elements pay homage to Ridley Scott's 1982 film.[^ref-18]
-- **Fortune Cookie Code:** A fortune cookie found in the game contains a color sequence that serves as a puzzle solution.[^ref-24]
+- **Fortune Cookie Code:** A fortune cookie found in the game contains a color sequence that serves as a puzzle solution.[^ref-15]
 - **Death Scenes:** The death scenes were considered so well-crafted that some players "remember trying different ways to die just to see them all."[^ref-34]
 
 ### Multiple Endings
@@ -202,7 +202,7 @@ Rise of the Dragon features multiple possible endings based on player choices th
 
 ## Voice Cast
 
-The Sega CD version added full voice acting, making it the definitive version for many players.[^ref-41]
+The Sega CD version added full voice acting, making it the definitive version for many players.[^ref-11]
 
 | Character | Voice Actor |
 |-----------|-------------|
@@ -215,7 +215,7 @@ The Sega CD version added full voice acting, making it the definitive version fo
 | Mayor Vincenzi | Jim Ward[^ref-3] |
 | Additional Voices | David Platshon[^ref-9] |
 
-Cam Clarke, who voiced Blade, was already well-known for voicing Leonardo and Rocksteady in the Teenage Mutant Ninja Turtles animated series.[^ref-13] The voice actors were praised for doing "a really good job," with one reviewer noting "the addition of this element more than makes the Sega CD version my favorite version overall."[^ref-41]
+Cam Clarke, who voiced Blade, was already well-known for voicing Leonardo and Rocksteady in the Teenage Mutant Ninja Turtles animated series.[^ref-13] The voice actors were praised for doing "a really good job," with one reviewer noting "the addition of this element more than makes the Sega CD version my favorite version overall."[^ref-11]
 
 ## Legacy
 
@@ -241,7 +241,7 @@ A fan project to create a 3D remake of Rise of the Dragon using the Unreal 4 eng
 ### Related Publications
 
 - **Comic Book:** Included with the original game release, continuing the story from where the introduction ends[^ref-7]
-- **Game Manual:** Comprehensive documentation detailing gameplay mechanics and the game world[^ref-20]
+- **Game Manual:** Comprehensive documentation detailing gameplay mechanics and the game world[^ref-10]
 
 ### Critical Perspective
 
@@ -281,21 +281,19 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-7]: [Alex Bevi – Rise of the Dragon Retrospective](https://alexbevi.com/blog/2023/02/13/rise-of-the-dragon/) — "Heavy Metal magazine" comparison and detailed analysis
 [^ref-8]: [Computer Gaming World Issue 147 (1996)](https://archive.org/details/Computer_Gaming_World_Issue_147) — Ranked 83rd best game of all time
 [^ref-9]: [IMDB – Rise of the Dragon](https://www.imdb.com/title/tt0243010/) — User rating 8.3/10, credits including David Platshon
-[^ref-10]: [Lemon Amiga – Rise of the Dragon](https://www.lemonamiga.com/games/details.php?id=939) — Platform release information and version history
-[^ref-11]: [Sega Retro – Rise of the Dragon](https://segaretro.org/Rise_of_the_Dragon) — "Age of Decay" setting description
+[^ref-10]: [Lemon Amiga – Rise of the Dragon](https://www.lemonamiga.com/games/details.php?id=939) — Platform info, version history, 8.08/10 rating, interface description
+[^ref-11]: [Sega Retro – Rise of the Dragon](https://segaretro.org/Rise_of_the_Dragon) — "Age of Decay" setting, voice acting praise, Sega CD details
 [^ref-12]: [Computer Gaming World Issue 79](https://archive.org/details/Computer_Gaming_World_Issue_79/page/n39/mode/2up) — 1991 Special Award for Artistic Achievement
 [^ref-13]: [David Barr Kirtley – Rise of the Dragon Retrospective](http://davidbarrkirtley.com/2011/01/10/retrospective-rise-of-the-dragon/) — Development details, 11,000 man-hours, Cam Clarke voice credits
 [^ref-14]: [ClassicReload – Rise of the Dragon](https://classicreload.com/rise-of-the-dragon.html) — Mayor Vincenzi dialogue and browser-playable version
-[^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details and Deng Hwang conspiracy
+[^ref-15]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Plot details, Deng Hwang conspiracy, fortune cookie puzzle
 [^ref-16]: [The Digital Antiquarian – Dynamix Adventures](https://www.filfre.net/2018/05/the-dynamic-interactive-narratives-of-dynamix/) — Dragon transformation, Blade Runner character design homage
-[^ref-17]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Karyn relationship mechanics
+[^ref-17]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Karyn relationship, death scenarios, puzzle solutions
 [^ref-18]: [OldGames.sk – Rise of the Dragon](https://www.oldgames.sk/game/rise-of-the-dragon/) — Cyberpunk influences, 74% rating
-[^ref-20]: [Lemon Amiga Review](https://www.lemonamiga.com/games/details.php?id=939) — 8.08/10 rating, interface description
 [^ref-21]: [Amiga Magazine Rack – Amiga Power Review](https://amr.abime.net/review_9052) — Jonathan Davies 79% review, "cinemathingumy" quote
 [^ref-22]: [GameFAQs – Sega CD Version](https://gamefaqs.gamespot.com/segacd/587987-rise-of-the-dragon/faqs) — Time mechanics and internal clock details
 [^ref-23]: [Hardcore Gaming 101 – Rise of the Dragon](http://www.hardcoregaming101.net/rise-of-the-dragon/) — "Disposable pulp detective novel" assessment, arcade sequence criticism
-[^ref-24]: [GameFAQs Hints](https://gamefaqs.gamespot.com/pc/564613-rise-of-the-dragon/faqs/17845) — Fortune cookie puzzle and location guide
-[^ref-25]: [Adventure Gamers – Rise of the Dragon](https://adventuregamers.com/games/rise-of-the-dragon) — "INSANELY frustrating" player comments
+[^ref-25]: [Adventure Gamers – Rise of the Dragon](https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 rating, "INSANELY frustrating" player comments
 [^ref-26]: [PC Gaming Wiki – Rise of the Dragon](https://www.pcgamingwiki.com/wiki/Rise_of_the_Dragon) — Arcade sequence skip option after five deaths
 [^ref-29]: [MobyGames Trivia](https://www.mobygames.com/game/648/rise-of-the-dragon/trivia/) — The Games Machine Italy 99/100 score, technical specifications
 [^ref-30]: [Hall of Light – Rise of the Dragon](https://hol.abime.net/3949) — European magazine scores: Datormagazin 96%, Joystick 94%, The One 92%
@@ -303,11 +301,8 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [^ref-32]: [The Digital Antiquarian – Willy Beamish](https://www.filfre.net/2018/08/the-adventures-of-willy-beamish/) — "Smart design sensibilities with dodgy writing" observation
 [^ref-33]: [GOG.com – Rise of the Dragon](https://www.gog.com/en/game/rise_of_the_dragon) — Digital release, 3.9/5 user rating
 [^ref-34]: [MyAbandonware – Rise of the Dragon](https://www.myabandonware.com/game/rise-of-the-dragon-zz) — Preservation download, 4.46/5 rating, death scene appreciation
-[^ref-35]: [Adventure Gamers Review](https://adventuregamers.com/games/rise-of-the-dragon) — 2.5/5 star modern rating
 [^ref-36]: [Abandonware DOS – Rise of the Dragon](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Rise+of+the+Dragon&gid=1482) — 4.06/5 rating (106 votes)
 [^ref-38]: [Sierra Archives](https://archive.org/details/sierra-newsletters) — Dynamix acquisition and Sierra On-Line publishing context
 [^ref-39]: [DOS Games Archive – Rise of the Dragon](https://www.dosgamesarchive.com/download/rise-of-the-dragon/) — Technical specifications: VGA 320x200, EGA support
-[^ref-40]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/rise-of-the-dragon) — Death scenarios: card key, public indecency, electrocution
-[^ref-41]: [Sega CD Review Archive](https://segaretro.org/Rise_of_the_Dragon) — Voice acting praise, "favorite version overall" assessment
 [^ref-42]: [ScummVM Compatibility Page](https://www.scummvm.org/compatibility/) — Testing pipeline addition October 2024
 [^ref-43]: [ScummVM 2026.1.0 Release Notes](https://www.scummvm.org/news/20260131/) — Full DGDS support in "Like a Version" release 
