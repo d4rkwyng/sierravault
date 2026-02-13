@@ -35,14 +35,15 @@ Franchise entries released after Sierra's acquisition, maintaining series contin
 - **Coktel Vision** (acquired 1993): Gobliiins series, Inca, Lost in Time
 - **Bright Star Technology** (acquired 1992): Alphabet Blocks, educational titles
 - **Synergistic Software** (acquired 1996): Conan, War in Middle Earth, Spirit of Excalibur
-- **Relic Entertainment** (acquired 2004 as part of THQ deal): Homeworld series
+- **Sierra Attractions** (internal division): Mystery House, Hi-Res Adventure series
 
 ### 4. Funded Partner Studios
 Games where Sierra provided funding with meaningful creative partnership:
 - **Valve**: Half-Life, Counter-Strike (Sierra funded development)
 - **Monolith**: No One Lives Forever, Blood (Sierra published with creative involvement)
-- **Relic (pre-acquisition)**: Homeworld (Sierra funded and published)
+- **Relic Entertainment**: Homeworld, Homeworld: Cataclysm (Sierra funded and published; Relic remained independent until THQ acquired them in 2004)
 - **Troika Games**: Arcanum (Sierra alumni, Sierra published)
+- **Game Arts** (Japan): Silpheed, Zeliard (Sierra localized/published for Western markets)
 
 ### 5. Fan Continuations
 Community-created games continuing Sierra traditions:
@@ -57,6 +58,14 @@ Original games created by former Sierra designers:
 - **Ken & Roberta Williams**: Colossal Cave 3D
 - **Jane Jensen**: Gray Matter, Moebius
 - **Pierre Gilhodes**: Gobliiins 5, Gobliins 6
+
+### 7. Cancelled Games
+Unreleased games that reached significant development:
+- Games with substantial documentation, screenshots, or playable builds
+- Projects officially announced by Sierra
+- Stored in `/Games/Cancelled/` with `CXL - YYYY - Title.md` naming
+- Lower reference threshold (5+ instead of 15+)
+- Examples: King's Quest IX, Space Quest 7, Leisure Suit Larry 4
 
 ## What's NOT Included
 
@@ -76,14 +85,20 @@ Each game page includes a `sierra_lineage` YAML field indicating its relationshi
 | Value | Meaning |
 |-------|---------|
 | `Core Sierra` | Direct Sierra On-Line development/publication (1980–1999) |
-| `Dynamix` | Dynamix studio games (pre- and post-acquisition) |
-| `Impressions Games` | Impressions studio games |
-| `Coktel Vision` | Coktel Vision studio games |
+| `Sierra Label (Dynamix)` | Dynamix studio games |
+| `Sierra Label (Impressions)` | Impressions Games studio |
+| `Sierra Label (Coktel)` | Coktel Vision studio games |
+| `Sierra Label (Papyrus)` | Papyrus Design Group games |
+| `Sierra Label (Bright Star)` | Bright Star Technology games |
+| `Sierra Label (Synergistic)` | Synergistic Software games |
+| `Sierra Label (Sierra Attractions)` | Sierra Attractions division |
+| `Sierra Label (Discovery)` | Discovery games |
 | `Sierra Published` | Third-party developed, Sierra published with involvement |
-| `Sierra Subsidiary` | Games from Sierra-owned studios |
-| `Fan Remake` | Community VGA remakes of Sierra classics |
-| `Fan Game` | Original fan-created games in Sierra style |
-| `Spiritual Successor` | Alumni projects continuing Sierra traditions |
+| `Third-Party Published` | Games Sierra localized/distributed (Silpheed, Zeliard) |
+| `Fan Project` | Community VGA remakes and fan games |
+| `Alumni Project` | Original games by Sierra alumni (Hero-U, SpaceVenture) |
+| `Spiritual Successor` | Games inspired by Sierra traditions |
+| `Spinoff` | Derivative products (LSL Casino, etc.) |
 | `Post-Sierra` | Franchise entries after Sierra's acquisition |
 
 ## Edge Cases

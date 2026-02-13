@@ -1,11 +1,10 @@
 ---
-name: "{{NAME}}"
-born: "{{BIRTH_YEAR}}"
-died: null
-nationality: "{{NATIONALITY}}"
-known_for: ["{{KNOWN_FOR}}"]
-sierra_years: "{{SIERRA_YEARS}}"
-current_status: "{{STATUS}}"
+title: "{{NAME}}"
+type: designer
+birth_year: {{BIRTH_YEAR}}
+death_year: null
+notable_games: ["{{GAME_1}}", "{{GAME_2}}", "{{GAME_3}}"]
+companies: ["{{COMPANY_1}}", "{{COMPANY_2}}"]
 last_updated: "{{DATE}}"
 ---
 
@@ -15,53 +14,56 @@ last_updated: "{{DATE}}"
 
 ## Overview
 
-{{OVERVIEW}}
+{{OVERVIEW - 2-3 paragraphs introducing the designer, their significance, and major contributions}}
 
-> [!info]- Profile
-> **Born:** {{BIRTH_YEAR}}
-> **Nationality:** {{NATIONALITY}}
-> **Known For:** {{KNOWN_FOR}}
-> **Sierra Years:** {{SIERRA_YEARS}}
-> **Current Status:** {{STATUS}}
+## Career
 
-## Early Life
+### Early Career
 
-{{EARLY_LIFE}}
+{{EARLY_CAREER - Education, pre-Sierra work, how they entered gaming}}
 
-## Sierra Years
+### Sierra Years
 
-{{SIERRA_CAREER}}
+{{SIERRA_YEARS - Their time at Sierra, major projects, evolution of their role}}
 
-### Notable Works
+### Post-Sierra Career
 
-{{NOTABLE_WORKS}}
+{{POST_SIERRA - Work after leaving Sierra, if applicable}}
 
-## Post-Sierra Career
+## Notable Works
 
-{{POST_SIERRA}}
+### {{NOTABLE_GAME_1}} ({{YEAR}})
+
+{{DESCRIPTION - 1-2 paragraphs on their contribution to this game}}
+
+### {{NOTABLE_GAME_2}} ({{YEAR}})
+
+{{DESCRIPTION}}
 
 ## Design Philosophy
 
-{{DESIGN_PHILOSOPHY}}
+{{DESIGN_PHILOSOPHY - Their approach to game design, influences, recurring themes}}
 
 ## Legacy
 
-{{LEGACY}}
+{{LEGACY - Impact on the industry, influence on other designers, lasting contributions}}
 
-## Games in This Archive
+## Games
+
+### Sierra On-Line ({{START_YEAR}}–{{END_YEAR}})
 
 | Year | Title | Role |
 |------|-------|------|
-| {{YEAR}} | [[{{GAME_TITLE}}]] | {{ROLE}} |
+| {{YEAR}} | [[{{GAME_FILENAME}}\|{{GAME_TITLE}}]] | {{ROLE}} |
 
-## Other Notable Games
+### Other Credits ({{START_YEAR}}–{{END_YEAR}})
 
-| Year | Title | Role | Publisher |
-|------|-------|------|-----------|
-| {{YEAR}} | {{GAME_TITLE}} | {{ROLE}} | {{PUBLISHER}} |
+| Year | Title | Company | Role |
+|------|-------|---------|------|
+| {{YEAR}} | {{GAME_TITLE}} | {{COMPANY}} | {{ROLE}} |
 
 ## References
 
-[^ref-1]: [Source Title](URL) - Description
-[^ref-2]: [Source Title](URL) - Description
-[^ref-3]: [Source Title](URL) - Description
+[^ref-1]: [Source Title](URL) — Description
+[^ref-2]: [Source Title](URL) — Description
+[^ref-3]: [Source Title](URL) — Description

@@ -1,11 +1,12 @@
 ---
 title: "{{SERIES_NAME}} Series"
-first_game: {{FIRST_YEAR}}
-latest_game: {{LATEST_YEAR}}
+type: series_overview
+created_by: "{{CREATOR}}"
+developer: "{{DEVELOPER}}"
+first_release: {{FIRST_YEAR}}
+last_release: {{LAST_YEAR}}
 total_games: {{TOTAL_GAMES}}
-developers: ["{{DEVELOPERS}}"]
-genres: ["{{GENRES}}"]
-key_designers: ["{{DESIGNERS}}"]
+genre: "{{GENRE}}"
 last_updated: "{{DATE}}"
 ---
 
@@ -15,63 +16,47 @@ last_updated: "{{DATE}}"
 
 ## Overview
 
-{{OVERVIEW}}
-
-> [!info]- Series Info
-> **First Game:** {{FIRST_YEAR}}
-> **Latest Game:** {{LATEST_YEAR}}
-> **Total Games:** {{TOTAL_GAMES}}
-> **Primary Developer:** {{DEVELOPERS}}
-> **Key Designers:** {{DESIGNERS}}
-> **Genre:** {{GENRES}}
+{{OVERVIEW - 2-3 paragraphs introducing the series, its significance, and major contributions to gaming}}
 
 ## Series Timeline
 
-| Year | Title | Developer | Notes |
-|------|-------|-----------|-------|
-| {{YEAR}} | [[{{GAME_FILENAME}}\|{{GAME_TITLE}}]] | {{DEVELOPER}} | {{NOTES}} |
+| Year | Title | Engine | Protagonist |
+|------|-------|--------|-------------|
+| {{YEAR}} | [[{{GAME_FILENAME}}\|{{GAME_TITLE}}]] | {{ENGINE}} | {{PROTAGONIST}} |
 
-## Gameplay Evolution
+## Themes and Setting
 
-### Original Era ({{EARLY_YEARS}})
+### {{SETTING_NAME}}
 
-{{EARLY_ERA_DESCRIPTION}}
+{{SETTING_DESCRIPTION - The main world/setting of the series}}
 
-### Later Era ({{LATER_YEARS}})
+### Key Characters
 
-{{LATER_ERA_DESCRIPTION}}
+{{KEY_CHARACTERS - Recurring protagonists, antagonists, supporting characters}}
 
-## Key Characters
+## Technical Evolution
 
-### Protagonists
+{{TECHNICAL_EVOLUTION - How the series evolved across different engines and eras}}
 
-{{PROTAGONISTS}}
+### {{ERA_1}} ({{YEARS}})
 
-### Recurring Characters
+{{ERA_1_DESCRIPTION}}
 
-{{RECURRING_CHARACTERS}}
+### {{ERA_2}} ({{YEARS}})
 
-## Technology
+{{ERA_2_DESCRIPTION}}
 
-The series has used the following game engines:
+## Critical Reception
 
-| Engine | Years | Games |
-|--------|-------|-------|
-| {{ENGINE}} | {{YEARS}} | {{GAMES}} |
+{{CRITICAL_RECEPTION - Overview of how the series was received}}
 
-## Reception
-
-### Critical Reception
-
-{{CRITICAL_RECEPTION}}
-
-### Commercial Performance
-
-{{COMMERCIAL_PERFORMANCE}}
+| Game | Notable Reception |
+|------|-------------------|
+| {{GAME_TITLE}} | {{RECEPTION_NOTES}} |
 
 ## Legacy
 
-{{LEGACY}}
+{{LEGACY - Impact on the industry, influence on other games, cultural significance}}
 
 ### Influence
 
@@ -81,23 +66,33 @@ The series has used the following game engines:
 
 {{FAN_COMMUNITY}}
 
-## Related Pages
+## Playing Today
 
-- **Designers:** [[{{DESIGNER_LINK}}]]
-- **Developers:** [[{{DEVELOPER_LINK}}]]
-- **Technology:** [[{{ENGINE_LINK}}]]
+### Purchase Links
 
-## Where to Play
+- [GOG Collection]({{GOG_URL}}) — DRM-free downloads
+- [Steam Collection]({{STEAM_URL}}) — Steam versions
 
-**Digital Stores**
-- [GOG Collection]({{GOG_URL}})
-- [Steam Collection]({{STEAM_URL}})
+### Compatibility
 
-**Preservation**
-- [Internet Archive]({{ARCHIVE_URL}})
+{{COMPATIBILITY_NOTES}}
+
+### Fan Remakes
+
+{{FAN_REMAKES - If applicable}}
+
+### Fan Sequels
+
+{{FAN_SEQUELS - If applicable}}
+
+## See Also
+
+- [[{{CREATOR}}]] — Series creator
+- [[{{DEVELOPER}}]] — Primary developer
+- [[{{RELATED_SERIES}}]] — Related series
 
 ## References
 
-[^ref-1]: [Source Title](URL) - Description
-[^ref-2]: [Source Title](URL) - Description
-[^ref-3]: [Source Title](URL) - Description
+[^ref-1]: [Source Title](URL) — Description
+[^ref-2]: [Source Title](URL) — Description
+[^ref-3]: [Source Title](URL) — Description

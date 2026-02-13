@@ -1,12 +1,11 @@
 ---
-name: "{{NAME}}"
+title: "{{NAME}}"
+type: developer
 founded: {{FOUNDED_YEAR}}
 defunct: {{DEFUNCT_YEAR}}
 headquarters: "{{HEADQUARTERS}}"
+notable_games: ["{{GAME_1}}", "{{GAME_2}}", "{{GAME_3}}"]
 parent_company: "{{PARENT_COMPANY}}"
-sierra_relationship: "{{SIERRA_RELATIONSHIP}}"
-notable_series: ["{{NOTABLE_SERIES}}"]
-key_people: ["{{KEY_PEOPLE}}"]
 last_updated: "{{DATE}}"
 ---
 
@@ -16,63 +15,48 @@ last_updated: "{{DATE}}"
 
 ## Overview
 
-{{OVERVIEW}}
-
-> [!info]- Company Info
-> **Founded:** {{FOUNDED_YEAR}}
-> **Defunct:** {{DEFUNCT_YEAR}}
-> **Headquarters:** {{HEADQUARTERS}}
-> **Parent Company:** {{PARENT_COMPANY}}
-> **Sierra Relationship:** {{SIERRA_RELATIONSHIP}}
+{{OVERVIEW - 2-3 paragraphs introducing the developer, their significance, and major contributions}}
 
 ## History
 
-### Founding
+### Founding and Early Years
 
-{{FOUNDING}}
+{{FOUNDING - How the company was founded, key founders, early projects}}
 
 ### Sierra Era
 
-{{SIERRA_ERA}}
+{{SIERRA_ERA - Acquisition/partnership with Sierra, major projects during this period}}
 
-### Later Years
+### Later Years and Closure
 
-{{LATER_YEARS}}
+{{LATER_YEARS - Post-Sierra history, closure details if applicable}}
 
-## Notable Projects
+## Notable Games
 
-### Flagship Series
+### {{NOTABLE_GAME_1}} ({{YEAR}})
 
-{{FLAGSHIP_SERIES}}
+{{DESCRIPTION - 1-2 paragraphs on this game's significance}}
 
-### Technology
+### {{NOTABLE_GAME_2}} ({{YEAR}})
 
-{{TECHNOLOGY}}
+{{DESCRIPTION}}
 
 ## Key People
 
-| Name | Role | Years |
-|------|------|-------|
-| {{PERSON_NAME}} | {{ROLE}} | {{YEARS}} |
-
-## Games in This Archive
-
-| Year | Title | Publisher |
-|------|-------|-----------|
-| {{YEAR}} | [[{{GAME_TITLE}}]] | {{PUBLISHER}} |
-
-## Other Notable Games
-
-| Year | Title | Publisher |
-|------|-------|-----------|
-| {{YEAR}} | {{GAME_TITLE}} | {{PUBLISHER}} |
+{{KEY_PEOPLE - Notable founders, designers, programmers and their contributions}}
 
 ## Legacy
 
-{{LEGACY}}
+{{LEGACY - Impact on the industry, influence on other studios, lasting contributions}}
+
+## Games
+
+| Year | Game | Genre |
+|------|------|-------|
+| {{YEAR}} | [[{{GAME_FILENAME}}\|{{GAME_TITLE}}]] | {{GENRE}} |
 
 ## References
 
-[^ref-1]: [Source Title](URL) - Description
-[^ref-2]: [Source Title](URL) - Description
-[^ref-3]: [Source Title](URL) - Description
+[^ref-1]: [Source Title](URL) — Description
+[^ref-2]: [Source Title](URL) — Description
+[^ref-3]: [Source Title](URL) — Description

@@ -38,8 +38,14 @@ Examples:
     - `**Purchase / Digital Stores**`
     - `**Download / Preservation**`
     - `**Manuals & Extras**`
-12. `## Series Continuity` (if applicable)
+12. `## See Also` (series navigation, related pages)
 13. `## References`
+
+**Optional sections** (add when relevant):
+- `### Technical Specifications` - Under Development
+- `### Cut Content` - Under Development  
+- `### Technical Issues` - Under Development
+- `### Easter Eggs and Trivia` - Under Development or Legacy
 
 ---
 
@@ -60,6 +66,9 @@ engine: "SCI0"
 protagonist: "Character Name"
 sierra_lineage: "Core Sierra"
 last_updated: "2025-12-10"
+description: "Brief 1-2 sentence summary for metadata/SEO"
+tags: [1980s, adventure, series-name, designer-name]
+composer: ["Composer Name"]  # optional
 ---
 ```
 
@@ -67,6 +76,8 @@ last_updated: "2025-12-10"
 - Plain text only (NO wiki links)
 - Use `null` for unknown fields
 - `last_updated` is auto-generated
+- `description` and `tags` are optional but recommended
+- `composer` is optional array field
 
 ### Engine by Year
 - Pre-1988: AGI
@@ -84,8 +95,8 @@ Appears after Overview paragraph. **Fields in this exact order:**
 
 ```markdown
 > [!info]- Game Info
-> **Developer:** Studio Name[^ref-1]
-> **Designer:** Designer Name[^ref-1]
+> **Developer:** [[Studio Name]][^ref-1]
+> **Designer:** [[Designer Name]][^ref-1]
 > **Publisher:** Publisher Name[^ref-1]
 > **Engine:** Engine Name[^ref-2]
 > **Platforms:** Platform list[^ref-3]
@@ -96,10 +107,16 @@ Appears after Overview paragraph. **Fields in this exact order:**
 ```
 
 **Rules:**
-- **Plain text only** - NO wiki links
-- **Standard fields only** - No Director, Producer, Programmer, Artist, Composer, Writer
+- Wiki links ARE allowed for Developer, Designer, Publisher
 - **Field order matters**
-- Minimal citations (heavy citation in prose)
+- Add citations to factual fields
+
+**Additional fields** (use when relevant):
+- `**Producer:**` - Executive/line producer
+- `**Programmer:**` - Lead programmer  
+- `**Artist:**` - Lead artist/art director
+- `**Composer:**` - Music composer
+- `**Design/Writing:**` - Alternative to Designer when same person wrote story
 
 ---
 

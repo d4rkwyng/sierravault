@@ -1,69 +1,40 @@
 ---
-title: "{{GUIDE_TITLE}}"
-category: "{{CATEGORY}}"
-last_updated: "{{DATE}}"
+title: "{{GUIDE_NAME}}"
+type: guide
+last_updated: {{DATE}}
 ---
 
-# {{GUIDE_TITLE}}
+# {{GUIDE_NAME}}
 
-<small style="color: gray">Last updated: {{READABLE_DATE}}</small>
+{{INTRODUCTION - Brief overview of what this guide covers and why it's useful}}
 
-## Overview
-
-{{OVERVIEW}}
-
-## Contents
-
-1. [Section 1](#section-1)
-2. [Section 2](#section-2)
-3. [Section 3](#section-3)
-4. [Related Resources](#related-resources)
-
-## Section 1
+## {{SECTION_1}}
 
 {{SECTION_1_CONTENT}}
 
-### Subsection
+### {{SUBSECTION}}
 
 {{SUBSECTION_CONTENT}}
 
-## Section 2
+## {{SECTION_2}}
 
 {{SECTION_2_CONTENT}}
 
-### Key Points
-
-- Point 1
-- Point 2
-- Point 3
-
-## Section 3
+## {{SECTION_3}}
 
 {{SECTION_3_CONTENT}}
 
-### Table Example
+## See Also
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Data | Data | Data |
+- [[{{RELATED_GUIDE_1}}]] — Related guide
+- [[{{RELATED_GUIDE_2}}]] — Related guide
 
-## Tips
+---
 
-> [!tip] Pro Tip
-> {{TIP_CONTENT}}
+**Note:** Guide templates are intentionally flexible. Adapt sections to fit the specific topic being covered. Common guide types include:
 
-## Related Pages
-
-- [[{{RELATED_PAGE_1}}]]
-- [[{{RELATED_PAGE_2}}]]
-- [[{{RELATED_PAGE_3}}]]
-
-## External Resources
-
-- [Resource 1](URL) - Description
-- [Resource 2](URL) - Description
-
-## References
-
-[^ref-1]: [Source Title](URL) - Description
-[^ref-2]: [Source Title](URL) - Description
+- **Buying Guides** — Where to purchase games, comparisons
+- **Compatibility Guides** — Technical fixes, emulator setup
+- **Index Pages** — Lists of designers, engines, protagonists
+- **History Guides** — Sierra corporate history, timeline
+- **Feature Guides** — Easter eggs, deaths, voice acting
