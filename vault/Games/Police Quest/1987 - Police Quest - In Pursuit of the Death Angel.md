@@ -153,4 +153,48 @@ The game's commitment to procedural accuracy created a template for serious game
 - [[Police Quest Series]] - Series overview
 - [[1988 - Police Quest II - The Vengeance|→ Next: Police Quest II - The Vengeance]]
 
-## 
+## References
+
+[^ref-1]: [The Games Machine UK Review](https://archive.org/details/the-games-machine) — 4.22/5 stars, "large adventure with more than one solution"
+[^ref-2]: [ScummVM Wiki – Police Quest AGI](https://wiki.scummvm.org/index.php/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Version 1.00G release June 1987
+[^ref-3]: [Sierra Gamers – Tammy Dargan Interview](https://www.sierragamers.com/tammy-dargan/) — "Real life simulation" development philosophy
+[^ref-4]: [DOSBox Compatibility – Police Quest](https://www.dosbox.com/wiki/GAMES:Police_Quest) — Version 2.0A release info
+[^ref-5]: [Hall of Light – Police Quest Amiga](https://hol.abime.net/3254) — 1988 Amiga port details
+[^ref-6]: [The Digital Antiquarian – Police Quest Series](https://www.filfre.net/tag/police-quest/) — Walls departure and series direction change
+[^ref-7]: [Alex Bevi – Police Quest Review](https://alexbevi.com/blog/2022/03/15/police-quest-1/) — 67% retrospective rating, training tool discussion
+[^ref-8]: [Internet Archive – Police Quest Collection Manual](https://archive.org/details/Police_Quest_Collection_-_Manual) — Original manual documentation
+[^ref-9]: [ANTIC Magazine Review](https://www.atarimagazines.com/v7n3/stgamesgallery.html) — Manual memorization requirement critique
+[^ref-10]: [Choicest Games – Police Quest Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) — 6/10 score, procedural focus critique
+[^ref-11]: [ClassicReload – Police Quest](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) — Browser playable version, jail weapon procedure
+[^ref-12]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — First Sierra DOS release without copy protection
+[^ref-13]: [Easter Egg Archive – Police Quest](https://eeggs.com/items/46877.html) — Hidden secrets documentation
+[^ref-14]: [Easter Eggs – Police Quest Tree](https://eeggs.com/tree/9317.html) — Additional easter eggs
+[^ref-15]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — Ken Williams meeting Walls, development history, CGW recommendation
+[^ref-16]: [Sierra History – Police Quest Development](https://www.sierragamers.com/police-quest/) — Dargan "real life simulation" quote
+[^ref-17]: [Adventure Gamer Blog – Police Quest Open Season](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) — Series direction after Walls
+[^ref-18]: [GameFAQs – Police Quest Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) — Procedural accuracy requirements
+[^ref-19]: [GameFAQs – Police Quest FAQs](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs) — Allegan Police Department training use
+[^ref-20]: [Adventure Classic Gaming – Police Quest](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) — Failure consequences for incorrect procedures
+[^ref-21]: [MobyGames – Police Quest](https://www.mobygames.com/game/174/police-quest-in-pursuit-of-the-death-angel/) — Death Angel antagonist, core plot
+[^ref-22]: [Sierra Chest – Police Quest](https://www.sierrachest.com/index.php?a=games&id=22) — Real police procedures emphasis
+[^ref-23]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel) — Community wishlist
+[^ref-24]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) — Digital collection availability
+[^ref-25]: [Internet Archive – Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt) — Original hint book
+[^ref-26]: [IMDB – Police Quest (1987)](https://www.imdb.com/title/tt0236084/) — 8.2/10 user rating
+[^ref-27]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Sonny_Bonds) — Sonny Bonds character, Larry Laffer cameo in PQ2
+[^ref-28]: [IMDB – Police Quest VGA (1992)](https://www.imdb.com/title/tt0236085/) — 7.4/10 rating, Walls wanted poster easter egg
+[^ref-29]: [Leisure Suit Larry Wiki – Police Quest Crossover](https://larrywiki.com/wiki/Police_Quest) — Pimp character in VGA remake
+[^ref-30]: [Adventure Gamers – Police Quest](https://adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
+[^ref-40]: [MobyGames – Police Quest VGA Remake](https://www.mobygames.com/game/987/police-quest-in-pursuit-of-the-death-angel/) — 1992 SCI 1.1 remake details
+[^ref-41]: [MobyGames – Police Quest Ratings](https://www.mobygames.com/game/174/police-quest-in-pursuit-of-the-death-angel/moby-score/) — 75% critics average
+[^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
+[^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — SCI 1.1 engine, technical specs
+[^ref-44]: [MyAbandonware – Police Quest](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) — 4.14/5 rating, "done by the book" quote
+[^ref-46]: [Hardcore Gaming 101 – Police Quest](https://www.hardcoregaming101.net/police-quest/) — Driving difficulty, instant game over crashes
+[^ref-47]: [DOS Days – Technical Specs](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — System requirements, graphics modes
+[^ref-52]: [Sierra Help – Police Quest](https://sierrahelp.com/Games/PoliceQuest/PQ1Help.html) — Manual as "indoctrination guide"
+[^ref-56]: [MobyGames – Police Quest 1992](https://www.mobygames.com/game/987/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface
+[^ref-57]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — "First attempts at authentic realism"
+[^ref-58]: [ScummVM – AGI Engine](https://wiki.scummvm.org/index.php/AGI) — Sound card and graphics support
+[^ref-62]: [Steam – Police Quest](https://store.steampowered.com/search/?term=police+quest) — Digital availability
+[^ref-66]: [GameFAQs – Police Quest Plot](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel) — Death Angel investigation storyline 

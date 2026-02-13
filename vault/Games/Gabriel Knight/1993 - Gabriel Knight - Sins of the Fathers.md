@@ -351,4 +351,38 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|→ Next: The Beast Within - A Gabriel Knight Mystery]]
 
-## 
+## References
+
+[^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/) — Comprehensive database with credits, ratings, and release info
+[^ref-2]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Development history, plot summary, critical reception
+[^ref-3]: [Adventure Classic Gaming – Gabriel Knight Review](http://www.adventureclassicgaming.com/index.php/site/reviews/9/) — Classic retrospective analysis
+[^ref-4]: [Adventure Classic Gaming – Jane Jensen Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/179/) — Designer insights on game creation
+[^ref-5]: [The Digital Antiquarian – Gabriel Knight](https://www.filfre.net/tag/gabriel-knight/) — In-depth historical analysis of the series
+[^ref-6]: [Adventure Gamers – Gabriel Knight Walkthrough](https://adventuregamers.com/walkthroughs/gabriel-knight-sins-of-the-fathers) — Complete game guide
+[^ref-7]: [Behind The Voice Actors – Gabriel Knight](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) — Full voice cast credits
+[^ref-8]: [Internet Archive – Gabriel Knight](https://archive.org/details/gk-1_20220905) — Preservation copy and documentation
+[^ref-9]: [DOSBox Wiki – Gabriel Knight](https://www.dosbox.com/wiki/GAMES:Gabriel_Knight:_Sins_of_the_Fathers) — Technical compatibility info
+[^ref-10]: [Sierra Chest – Gabriel Knight](https://www.sierrachest.com/index.php?a=games&id=73) — Sierra history and game details
+[^ref-11]: [ClassicReload – Gabriel Knight](https://classicreload.com/gabriel-knight-sins-of-the-fathers.html) — Browser playable version
+[^ref-12]: [Discogs – Gabriel Knight Soundtrack](https://www.discogs.com/release/10668870-Robert-Holmes-Gabriel-Knight-Sins-of-the-Fathers-20th-Anniversary-Edition-Original-Soundtrack) — Robert Holmes music credits
+[^ref-13]: [PCGamingWiki – Gabriel Knight](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Technical specs and fixes
+[^ref-14]: [Hardcore Gaming 101 – Gabriel Knight](https://www.hardcoregaming101.net/gabriel-knight/) — Series retrospective
+[^ref-15]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — Contemporary reviews
+[^ref-16]: [IMDB – Gabriel Knight (1993)](https://www.imdb.com/title/tt0250473/) — User ratings and cast info
+[^ref-17]: [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — Digital release, user reviews
+[^ref-18]: [Steam – Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers/) — Steam availability and reviews
+[^ref-19]: [Gabriel Knight Patches](https://erolfi.wordpress.com/gabriel-knight-installers-and-patches/) — Fan patches and fixes
+[^ref-20]: [GOG Manual Documentation](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — 36-page manual PDF
+[^ref-21]: [Eurogamer – Gabriel Knight Mobile](https://www.eurogamer.net/articles/2015-07-23-gabriel-knight-sins-of-the-fathers-remake-now-on-ios-and-android) — iOS/Android release coverage
+[^ref-22]: [Gabriel Knight 20th Official Site](https://gabrielknight20th.com/) — Anniversary edition official page
+[^ref-23]: [MyAbandonware – Gabriel Knight](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m) — Preservation download
+[^ref-24]: [Episodic Content Magazine – Gabriel Knight](https://episodiccontentmag.com/2015/10/13/gabrielknight_ch2/) — Detailed chapter analysis
+[^ref-25]: [KHInsider – Gabriel Knight Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/gabriel-knight-pc-rip) — Original soundtrack preservation
+[^ref-26]: [GameFAQs – Gabriel Knight](https://gamefaqs.gamespot.com/pc/564253-gabriel-knight-sins-of-the-fathers) — User guides and ratings
+[^ref-27]: [Sierra Help – Gabriel Knight](https://sierrahelp.com/Games/GabrielKnight/GK1Help.html) — Technical support and patches
+[^ref-28]: [Abandonware DOS – Gabriel Knight](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Gabriel+Knight&gid=3321) — User ratings and downloads
+[^ref-29]: [Gabriel Knight Fandom Wiki](https://gabrielknight.fandom.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers) — Detailed plot and character info
+[^ref-30]: [Adventure Gamers – Gabriel Knight](https://adventuregamers.com/games/view/17109) — Modern ratings and reviews
+[^ref-31]: [Jane Jensen Official Site](https://www.janejensen.com/) — Designer biography and works
+[^ref-32]: [Computer Gaming World 1994 Awards](https://archive.org/details/Computer_Gaming_World_Issue_116) — Adventure Game of the Year
+[^ref-33]: [Sierra Gamers – Gabriel Knight](https://www.sierragamers.com/gabriel-knight/) — Development history and legacy 

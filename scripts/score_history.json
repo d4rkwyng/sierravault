@@ -405,63 +405,64 @@
         "score": 96.0,
         "total": 96
       }
+    ],
+    "1989 - Space Quest III - The Pirates of Pestulon.md": [
+      {
+        "timestamp": "2026-02-13T16:32:39.514544",
+        "score": 100.0,
+        "total": 100
+      }
+    ],
+    "1991 - Space Quest IV - Roger Wilco and the Time Rippers.md": [
+      {
+        "timestamp": "2026-02-13T16:32:39.561110",
+        "score": 100.0,
+        "total": 100
+      }
+    ],
+    "1989 - Quest for Glory I - So You Want to Be a Hero.md": [
+      {
+        "timestamp": "2026-02-13T16:32:39.606351",
+        "score": 95.0,
+        "total": 95
+      }
+    ],
+    "1987 - Police Quest - In Pursuit of the Death Angel.md": [
+      {
+        "timestamp": "2026-02-13T16:32:39.652671",
+        "score": 90.0,
+        "total": 90
+      },
+      {
+        "timestamp": "2026-02-13T16:32:47.466748",
+        "score": 90.0,
+        "total": 90
+      },
+      {
+        "timestamp": "2026-02-13T16:34:33.278035",
+        "score": 100.0,
+        "total": 100
+      }
+    ],
+    "1993 - Gabriel Knight - Sins of the Fathers.md": [
+      {
+        "timestamp": "2026-02-13T16:32:39.701834",
+        "score": 93.0,
+        "total": 93
+      },
+      {
+        "timestamp": "2026-02-13T16:32:47.511442",
+        "score": 93.0,
+        "total": 93
+      },
+      {
+        "timestamp": "2026-02-13T16:35:36.757751",
+        "score": 100.0,
+        "total": 100
+      }
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-12T13:22:39.311739",
-      "files_scored": 1,
-      "average": 54.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:23:41.372455",
-      "files_scored": 1,
-      "average": 39.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:23:59.188916",
-      "files_scored": 1,
-      "average": 58.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:24:04.582570",
-      "files_scored": 1,
-      "average": 50.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:24:15.660317",
-      "files_scored": 1,
-      "average": 52.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:25:41.899597",
-      "files_scored": 1,
-      "average": 52.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:25:48.630654",
-      "files_scored": 1,
-      "average": 49.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:25:55.840747",
-      "files_scored": 1,
-      "average": 50.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-12T13:26:42.414625",
-      "files_scored": 1,
-      "average": 51.0,
-      "passing": 0
-    },
     {
       "timestamp": "2026-02-12T13:26:47.167680",
       "files_scored": 1,
@@ -706,6 +707,60 @@
       "timestamp": "2026-02-13T16:32:12.533589",
       "files_scored": 1,
       "average": 98.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:39.514544",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:39.561110",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:39.606351",
+      "files_scored": 1,
+      "average": 95.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:39.652671",
+      "files_scored": 1,
+      "average": 90.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:39.701834",
+      "files_scored": 1,
+      "average": 93.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:47.466748",
+      "files_scored": 1,
+      "average": 90.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:32:47.511442",
+      "files_scored": 1,
+      "average": 93.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:34:33.278035",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-13T16:35:36.757751",
+      "files_scored": 1,
+      "average": 100.0,
       "passing": 1
     }
   ]
