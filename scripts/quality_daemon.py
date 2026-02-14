@@ -117,24 +117,32 @@ def run_daemon(
     resume: bool = True,
     verbose: bool = False,
     no_llm: bool = False,
-    escalate: bool = False
+    escalate: bool = False,
+    quiet: bool = False,
+    results_callback = None
 ):
     """Run the quality daemon.
     
     Args:
         escalate: Use Mac Studio 70B for deep analysis on flagged pages
+        quiet: Suppress progress output (for Discord mode)
+        results_callback: Function to call with each result (for Discord mode)
     """
+    
+    def log(msg):
+        if not quiet:
+            print(msg)
     
     # Calculate end time if hours specified
     end_time = None
     if hours:
         end_time = datetime.now() + timedelta(hours=hours)
-        print(f"Running for {hours} hours (until {end_time.strftime('%H:%M:%S')})")
+        log(f"Running for {hours} hours (until {end_time.strftime('%H:%M:%S')})")
     
     # Load or initialize state
     if resume:
         state = load_state()
-        print(f"Resuming from state: {state.get('total_checked', 0)} pages checked previously")
+        log(f"Resuming from state: {state.get('total_checked', 0)} pages checked previously")
     else:
         state = {
             "last_checked": None,
@@ -152,48 +160,48 @@ def run_daemon(
     # Get all game pages
     all_pages = get_all_game_pages()
     total_pages = len(all_pages)
-    print(f"Found {total_pages} game pages in {VAULT_PATH}")
+    log(f"Found {total_pages} game pages in {VAULT_PATH}")
     
     if not all_pages:
-        print("No pages found to check!")
+        log("No pages found to check!")
         return
     
     # Check Ollama availability
     ollama_ok = check_ollama_available()
     if not ollama_ok:
-        print("Warning: Ollama not available - running without LLM analysis")
+        log("Warning: Ollama not available - running without LLM analysis")
         no_llm = True
     
     # Check Mac Studio availability if escalating
     if escalate:
         from local_quality_check import check_studio_available
         if check_studio_available():
-            print("✓ Mac Studio available for deep analysis (llama3.3:70b)")
+            log("✓ Mac Studio available for deep analysis (llama3.3:70b)")
         else:
-            print("Warning: Mac Studio not reachable - disabling escalation")
+            log("Warning: Mac Studio not reachable - disabling escalation")
             escalate = False
     
     checked_this_run = 0
     start_time = time.time()
     
-    print(f"\nStarting quality patrol (rate limit: {rate_limit}s between pages)")
-    print("-" * 60)
+    log(f"\nStarting quality patrol (rate limit: {rate_limit}s between pages)")
+    log("-" * 60)
     
     try:
         while True:
             # Check termination conditions
             if batch and checked_this_run >= batch:
-                print(f"\n✓ Batch complete: checked {checked_this_run} pages")
+                log(f"\n✓ Batch complete: checked {checked_this_run} pages")
                 break
             
             if end_time and datetime.now() >= end_time:
-                print(f"\n✓ Time limit reached: ran for {hours} hours")
+                log(f"\n✓ Time limit reached: ran for {hours} hours")
                 break
             
             # Get next page
             page = get_next_page(state, all_pages)
             if not page:
-                print("\n✓ All pages checked!")
+                log("\n✓ All pages checked!")
                 break
             
             # Run quality check
@@ -235,11 +243,21 @@ def run_daemon(
                 deep_tag = " 🔬" if result.get('deep_analysis', {}).get('analysis') else ""
                 escalate_tag = " ⚠️" if result.get('needs_escalation') and not deep_tag else ""
                 
-                print(f"{status} [{score:3d}]{flagship_tag}{deep_tag}{escalate_tag} {page.stem[:50]}")
+                log(f"{status} [{score:3d}]{flagship_tag}{deep_tag}{escalate_tag} {page.stem[:50]}")
                 
                 if verbose and result.get('issues'):
                     for issue in result['issues'][:3]:
-                        print(f"     └─ {issue}")
+                        log(f"     └─ {issue}")
+                
+                # Callback for Discord mode
+                if results_callback:
+                    results_callback({
+                        'game': page.stem,
+                        'score': score,
+                        'status': status,
+                        'issues': result.get('issues', []),
+                        'flagship': result.get('flagship', False)
+                    })
                 
                 # Save state periodically
                 if checked_this_run % 5 == 0:
@@ -255,7 +273,7 @@ def run_daemon(
                 time.sleep(rate_limit)
     
     except KeyboardInterrupt:
-        print("\n\n⚠️  Interrupted by user")
+        log("\n\n⚠️  Interrupted by user")
     
     finally:
         # Final state save
@@ -263,21 +281,65 @@ def run_daemon(
         
         # Summary
         elapsed = time.time() - start_time
-        print("\n" + "=" * 60)
-        print("QUALITY PATROL SUMMARY")
-        print("=" * 60)
-        print(f"Pages checked this run: {checked_this_run}")
-        print(f"Total pages checked:    {state.get('total_checked', 0)}")
-        print(f"Time elapsed:           {format_duration(elapsed)}")
+        log("\n" + "=" * 60)
+        log("QUALITY PATROL SUMMARY")
+        log("=" * 60)
+        log(f"Pages checked this run: {checked_this_run}")
+        log(f"Total pages checked:    {state.get('total_checked', 0)}")
+        log(f"Time elapsed:           {format_duration(elapsed)}")
         if elapsed > 0:
-            print(f"Rate:                   {checked_this_run / (elapsed / 60):.1f} pages/min")
-        print()
-        print(f"PASS (90%+):   {state.get('pass_count', 0)}")
-        print(f"REVIEW (70-89): {state.get('review_count', 0)}")
-        print(f"FAIL (<70):    {state.get('fail_count', 0)}")
-        print()
-        print(f"Results saved to: {RESULTS_FILE}")
-        print(f"State saved to:   {STATE_FILE}")
+            log(f"Rate:                   {checked_this_run / (elapsed / 60):.1f} pages/min")
+        log("")
+        log(f"PASS (90%+):   {state.get('pass_count', 0)}")
+        log(f"REVIEW (70-89): {state.get('review_count', 0)}")
+        log(f"FAIL (<70):    {state.get('fail_count', 0)}")
+        log("")
+        log(f"Results saved to: {RESULTS_FILE}")
+        log(f"State saved to:   {STATE_FILE}")
+
+
+def generate_discord_message(results: List[Dict], state: Dict, elapsed_seconds: float) -> str:
+    """Generate a ready-to-post Discord message summarizing the patrol run."""
+    checked = len(results)
+    if checked == 0:
+        return "🎮 **Quality Patrol** — No pages checked this run."
+    
+    # Count results
+    passed = sum(1 for r in results if r.get('score', 0) >= 90)
+    review = sum(1 for r in results if 70 <= r.get('score', 0) < 90)
+    failed = sum(1 for r in results if r.get('score', 0) < 70)
+    
+    # Find pages below threshold (80%)
+    below_threshold = [r for r in results if r.get('score', 0) < 80]
+    
+    # Calculate average
+    scores = [r.get('score', 0) for r in results if r.get('score')]
+    avg_score = sum(scores) / len(scores) if scores else 0
+    
+    # Build message
+    lines = []
+    
+    if below_threshold:
+        # Alert mode - found issues
+        lines.append(f"🎮 **Quality Patrol** — found {len(below_threshold)} page(s) below threshold:")
+        lines.append("")
+        for r in below_threshold[:3]:  # Max 3 to avoid spam
+            game = r.get('game', 'Unknown')
+            score = r.get('score', 0)
+            issues = r.get('issues', [])[:2]  # Max 2 issues per game
+            lines.append(f"**{game}** — {score}%")
+            for issue in issues:
+                lines.append(f"- {issue}")
+        if len(below_threshold) > 3:
+            lines.append(f"*...and {len(below_threshold) - 3} more*")
+        lines.append("")
+        lines.append(f"Otherwise: {passed} PASS, {review} REVIEW. Avg score {avg_score:.1f}%.")
+    else:
+        # All clear mode
+        lines.append(f"🎮 **Quality Patrol** — {checked} pages checked, all clear!")
+        lines.append(f"Results: {passed} PASS, {review} REVIEW. Avg score {avg_score:.1f}%.")
+    
+    return "\n".join(lines)
 
 
 def main():
@@ -291,18 +353,38 @@ def main():
     parser.add_argument("--escalate", action="store_true", 
                         help="Use Mac Studio 70B for deep analysis on flagged pages")
     parser.add_argument("-v", "--verbose", action="store_true", help="Verbose output")
+    parser.add_argument("--discord", action="store_true",
+                        help="Output a ready-to-post Discord message at the end")
+    parser.add_argument("--quiet", "-q", action="store_true",
+                        help="Suppress progress output (use with --discord)")
     
     args = parser.parse_args()
+    
+    # Capture results for discord output
+    run_results = []
+    start_time = time.time()
     
     run_daemon(
         hours=args.hours,
         batch=args.batch,
         rate_limit=args.rate,
         resume=not args.fresh,
-        verbose=args.verbose,
+        verbose=args.verbose and not args.quiet,
         no_llm=args.no_llm,
-        escalate=args.escalate
+        escalate=args.escalate,
+        quiet=args.quiet,
+        results_callback=run_results.append if args.discord else None
     )
+    
+    # Output Discord message if requested
+    if args.discord:
+        elapsed = time.time() - start_time
+        state = load_state()
+        msg = generate_discord_message(run_results, state, elapsed)
+        print("\n" + "=" * 50)
+        print("DISCORD MESSAGE:")
+        print("=" * 50)
+        print(msg)
 
 
 if __name__ == "__main__":
