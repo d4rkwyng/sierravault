@@ -9,14 +9,21 @@ Usage:
     python3 score_page_llm.py page.md
     python3 score_page_llm.py page.md --model claude  # Claude only
     python3 score_page_llm.py page.md --model gpt     # ChatGPT only
+    python3 score_page_llm.py page.md --model local   # Local Ollama only (FREE)
+    python3 score_page_llm.py page.md --model both    # Claude + GPT (default)
+    python3 score_page_llm.py page.md --model all     # Claude + GPT + Local
     python3 score_page_llm.py /tmp/*.md               # Multiple files
     python3 score_page_llm.py page.md --sections      # Show section-by-section scoring
     python3 score_page_llm.py page.md --feedback "Reception section IS present at line 60"
     python3 score_page_llm.py page.md --claude-code    # Use Claude Code CLI (Max subscription)
+    python3 score_page_llm.py page.md --local-model qwen2.5:72b  # Specify Ollama model
 
 Environment variables required:
     ANTHROPIC_API_KEY - for Claude
     OPENAI_API_KEY    - for ChatGPT
+
+Optional:
+    OLLAMA_HOST - Ollama server URL (default: http://100.90.195.80:11434)
 
 Optional: If you have Claude Code CLI installed and a Max subscription,
 use --claude-code to route Claude scoring through it (no per-token charges).
@@ -37,6 +44,8 @@ import glob
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY")
 OPENAI_KEY = os.environ.get("OPENAI_API_KEY")
 CLAUDE_CODE_PATH = shutil.which("claude")
+OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://100.90.195.80:11434")
+DEFAULT_LOCAL_MODEL = "llama3.3:70b"  # Best general model on Mac Studio
 
 SCORING_PROMPT = """You are a quality assurance reviewer for a Sierra Games wiki archive.
 Score the following wiki page on a scale of 0-100 based on these criteria:
@@ -471,6 +480,78 @@ def score_with_gpt(content: str, model: str = "gpt-4.1", feedback: Optional[str]
         return None
 
 
+def score_with_ollama(content: str, model: str = None, feedback: Optional[str] = None, research_summary: Optional[str] = None) -> Optional[Dict]:
+    """Score using local Ollama server (FREE - no API costs).
+    
+    Recommended models (on Mac Studio with 128GB):
+    - llama3.3:70b     - Best general reasoning (default)
+    - qwen2.5:72b      - Strong alternative, good for structured output
+    - deepseek-r1:70b  - Reasoning model, thinks step-by-step
+    
+    Uses subprocess curl for reliable Tailscale connectivity.
+    """
+    model = model or DEFAULT_LOCAL_MODEL
+    
+    prompt = SCORING_PROMPT
+    if research_summary:
+        prompt += RESEARCH_DATA_PROMPT.format(research_summary=research_summary)
+    if feedback:
+        prompt += FEEDBACK_PROMPT.format(feedback=feedback)
+    prompt += "PAGE TO REVIEW (with line numbers):\n\n" + add_line_numbers(content)
+    
+    # Add explicit JSON instruction for Ollama models
+    prompt += "\n\nIMPORTANT: Respond with ONLY a valid JSON object, no other text."
+    
+    try:
+        url = f"{OLLAMA_HOST}/api/generate"
+        payload = json.dumps({
+            "model": model,
+            "prompt": prompt,
+            "stream": False,
+            "options": {
+                "num_predict": 4000,
+                "temperature": 0.3
+            }
+        })
+        
+        # Use subprocess curl for reliable Tailscale connectivity
+        # (Python's urllib has issues with some network configs)
+        result = subprocess.run(
+            ['curl', '-s', '--max-time', '300', '-X', 'POST',
+             '-H', 'Content-Type: application/json',
+             '-d', payload, url],
+            capture_output=True,
+            text=True,
+            timeout=310
+        )
+        
+        if result.returncode != 0:
+            print(f"Ollama curl error: {result.stderr}", file=sys.stderr)
+            return None
+        
+        response_data = json.loads(result.stdout)
+        response_text = response_data.get('response', '')
+        
+        # Extract JSON from response (models sometimes add commentary)
+        json_match = re.search(r'\{[\s\S]*\}', response_text)
+        if json_match:
+            return json.loads(json_match.group())
+        else:
+            print(f"Ollama ({model}): Could not parse JSON from response", file=sys.stderr)
+            print(f"Response preview: {response_text[:500]}...", file=sys.stderr)
+            return None
+            
+    except subprocess.TimeoutExpired:
+        print(f"Ollama timeout (300s) - model may be loading or overloaded", file=sys.stderr)
+        return None
+    except json.JSONDecodeError as e:
+        print(f"Ollama JSON parse error: {e}", file=sys.stderr)
+        return None
+    except Exception as e:
+        print(f"Ollama error: {e}", file=sys.stderr)
+        return None
+
+
 def print_section_results(sections: Dict):
     """Print section validity results."""
     print("\n  Section Validity:")
@@ -509,7 +590,8 @@ def print_section_results(sections: Dict):
 
 
 def print_results(filename: str, claude_result: Optional[Dict], gpt_result: Optional[Dict],
-                  verbose: bool = False, show_sections: bool = False):
+                  verbose: bool = False, show_sections: bool = False,
+                  local_result: Optional[Dict] = None, local_model: str = None):
     """Print formatted scoring results."""
     name = Path(filename).stem
 
@@ -563,11 +645,34 @@ def print_results(filename: str, claude_result: Optional[Dict], gpt_result: Opti
                 for sug in gpt_result['suggestions'][:3]:
                     print(f"    - {sug}")
 
-    if len(scores) == 2:
-        avg = sum(scores) / 2
-        diff = abs(scores[0] - scores[1])
-        print(f"\n[COMBINED] Average: {avg:.1f}/100, Difference: {diff} points")
-        if diff > 10:
+    if local_result:
+        scores.append(local_result['score'])
+        status = "PASS" if local_result['score'] >= 90 else "REVIEW" if local_result['score'] >= 80 else "FAIL"
+        model_name = (local_model or DEFAULT_LOCAL_MODEL).upper().replace(':', ' ')
+        print(f"\n[LOCAL/{model_name}] Score: {local_result['score']}/100 - {status} (FREE)")
+        print(f"  Breakdown: refs={local_result['breakdown']['references']}/25, "
+              f"accuracy={local_result['breakdown']['accuracy']}/25, "
+              f"completeness={local_result['breakdown']['completeness']}/25, "
+              f"formatting={local_result['breakdown']['formatting']}/25")
+
+        if show_sections and local_result.get('sections'):
+            print_section_results(local_result['sections'])
+
+        if verbose or local_result['score'] < 90:
+            if local_result.get('issues'):
+                print(f"  Issues:")
+                for issue in local_result['issues'][:5]:
+                    print(f"    - {issue}")
+            if local_result.get('suggestions'):
+                print(f"  Suggestions:")
+                for sug in local_result['suggestions'][:3]:
+                    print(f"    - {sug}")
+
+    if len(scores) >= 2:
+        avg = sum(scores) / len(scores)
+        max_diff = max(scores) - min(scores)
+        print(f"\n[COMBINED] Average: {avg:.1f}/100, Max difference: {max_diff} points")
+        if max_diff > 10:
             print("  WARNING: Large score discrepancy between models")
 
     return scores
@@ -605,7 +710,7 @@ def save_feedback(filepath: str, feedback: str):
 
 def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
                feedback: Optional[str] = None, research_path: Optional[str] = None,
-               claude_use_api: bool = False) -> Dict:
+               claude_use_api: bool = False, local_model: str = None) -> Dict:
     """Score a single page with specified models."""
     with open(filepath) as f:
         content = f.read()
@@ -630,6 +735,8 @@ def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
         'file': filepath,
         'claude': None,
         'gpt': None,
+        'local': None,
+        'local_model': local_model or DEFAULT_LOCAL_MODEL,
         'feedback_used': combined_feedback is not None,
         'research_used': research_summary is not None
     }
@@ -640,14 +747,19 @@ def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
     if 'gpt' in models:
         results['gpt'] = score_with_gpt(content, feedback=combined_feedback, research_summary=research_summary)
 
+    if 'local' in models:
+        results['local'] = score_with_ollama(content, model=local_model, feedback=combined_feedback, research_summary=research_summary)
+
     return results
 
 
 def main():
     parser = argparse.ArgumentParser(description="LLM-based wiki page quality scorer")
     parser.add_argument("files", nargs='+', help="Markdown files to score")
-    parser.add_argument("--model", choices=['claude', 'gpt', 'both'], default='both',
-                        help="Which model(s) to use for scoring")
+    parser.add_argument("--model", choices=['claude', 'gpt', 'local', 'both', 'all'], default='both',
+                        help="Which model(s) to use: claude, gpt, local (Ollama), both (claude+gpt), all (claude+gpt+local)")
+    parser.add_argument("--local-model", type=str, default=None,
+                        help=f"Ollama model to use (default: {DEFAULT_LOCAL_MODEL}). Options: llama3.3:70b, qwen2.5:72b, deepseek-r1:70b")
     parser.add_argument("-v", "--verbose", action="store_true",
                         help="Show detailed feedback even for passing scores")
     parser.add_argument("--json", action="store_true", help="Output as JSON")
@@ -666,7 +778,40 @@ def main():
 
     args = parser.parse_args()
 
-    models = ['claude', 'gpt'] if args.model == 'both' else [args.model]
+    # Determine which models to use
+    if args.model == 'both':
+        models = ['claude', 'gpt']
+    elif args.model == 'all':
+        models = ['claude', 'gpt', 'local']
+    else:
+        models = [args.model]
+
+    # Check Local/Ollama availability
+    if 'local' in models:
+        try:
+            # Use subprocess curl for reliable connectivity
+            result = subprocess.run(
+                ['curl', '-s', '--max-time', '10', f"{OLLAMA_HOST}/api/tags"],
+                capture_output=True, text=True, timeout=15
+            )
+            if result.returncode != 0:
+                raise Exception(f"curl failed: {result.stderr}")
+            ollama_models = json.loads(result.stdout)
+            available = [m['name'] for m in ollama_models.get('models', [])]
+            target_model = args.local_model or DEFAULT_LOCAL_MODEL
+            if target_model not in available:
+                print(f"Warning: Model '{target_model}' not found on Ollama server", file=sys.stderr)
+                print(f"Available models: {', '.join(available)}", file=sys.stderr)
+                if args.model == 'local':
+                    sys.exit(1)
+                models.remove('local')
+            else:
+                print(f"Using local Ollama model: {target_model} (FREE)", file=sys.stderr)
+        except Exception as e:
+            print(f"Warning: Could not connect to Ollama at {OLLAMA_HOST}: {e}", file=sys.stderr)
+            if args.model == 'local':
+                sys.exit(1)
+            models.remove('local')
 
     # Check Claude availability
     if 'claude' in models:
@@ -709,7 +854,7 @@ def main():
 
         print(f"\nScoring {filepath}...", file=sys.stderr)
         results = score_page(filepath, models, args.feedback, args.research,
-                             claude_use_api=not args.claude_code)
+                             claude_use_api=not args.claude_code, local_model=args.local_model)
         all_results.append(results)
 
         if results.get('feedback_used'):
@@ -719,7 +864,9 @@ def main():
 
         if not args.json:
             scores = print_results(filepath, results['claude'], results['gpt'],
-                                   args.verbose, args.sections)
+                                   args.verbose, args.sections,
+                                   local_result=results.get('local'),
+                                   local_model=results.get('local_model'))
             all_scores.extend(scores)
 
     if args.json:
