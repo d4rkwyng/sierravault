@@ -107,7 +107,6 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 - Not available on preservation sites (commercial release)
 
 ## See Also
-- [[Infamous Quests]] - Developer
 
 ## References
 

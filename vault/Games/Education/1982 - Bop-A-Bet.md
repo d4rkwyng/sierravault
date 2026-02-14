@@ -184,7 +184,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 - Original documentation included with Sunnyside Soft zip-lock packaging
 
 ## See Also
-- [[Sunnyside Soft]] - Developer
 
 ## References
 

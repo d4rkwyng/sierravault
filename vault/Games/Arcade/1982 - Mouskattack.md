@@ -174,7 +174,6 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 - [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist)[^ref-6]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

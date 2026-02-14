@@ -223,7 +223,6 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 - [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – Savegame editor and patcher[^ref-18]
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

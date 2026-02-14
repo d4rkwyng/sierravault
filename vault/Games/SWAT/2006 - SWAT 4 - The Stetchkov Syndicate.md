@@ -273,7 +273,6 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 - [[2005 - SWAT 4|← Previous: SWAT 4]]
 - [[2006 - SWAT Force|→ Next: SWAT Force]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

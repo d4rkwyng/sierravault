@@ -179,7 +179,6 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 ## See Also
 - [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
 - [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

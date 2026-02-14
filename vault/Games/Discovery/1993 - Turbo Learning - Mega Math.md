@@ -199,7 +199,6 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
 ## See Also
-- [[Jeff Tunnell Productions]] - Developer
 
 ## References
 

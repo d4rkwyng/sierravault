@@ -216,7 +216,6 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 ## See Also
 - [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -212,7 +212,6 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 ## See Also
 - [[2003 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2003 - Hoyle Majestic Chess|→ Next: Hoyle Majestic Chess]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -177,7 +177,6 @@ From a development perspective, the game is notable as an example of Impressions
 - [Patch 1.01](https://archive.org/details/RISE101) – Official patch with multiplayer fixes[^ref-9]
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

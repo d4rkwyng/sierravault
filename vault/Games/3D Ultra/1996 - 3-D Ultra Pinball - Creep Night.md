@@ -112,7 +112,6 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 ## See Also
 - [[1995 - 3-D Ultra Pinball|← Previous: 3-D Ultra Pinball]]
 - [[1997 - 3-D Ultra MiniGolf|→ Next: 3-D Ultra MiniGolf]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

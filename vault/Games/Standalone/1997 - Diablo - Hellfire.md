@@ -250,7 +250,6 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - **All Playstyles Average:** 16.5 hours
 
 ## See Also
-- [[Synergistic Software]] - Developer
 
 ## References
 

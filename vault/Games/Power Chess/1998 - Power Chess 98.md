@@ -221,7 +221,6 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 - [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html)[^ref-18]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -224,7 +224,6 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - Google Play (Android)
 
 ## See Also
-- [[Prank Ltd.]] - Developer
 
 ## References
 

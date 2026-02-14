@@ -201,7 +201,6 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 - [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Walkthrough and game information[^ref-4]
 
 ## See Also
-- [[Bright Star Technology]] - Developer
 
 ## References
 

@@ -283,7 +283,6 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 - **Next:** Space Quest: Incinerations (2012)
 
 ## See Also
-- [[Team VSB]] - Developer
 
 ## References
 

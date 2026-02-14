@@ -186,8 +186,6 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 ## See Also
 - [[1995 - Front Page Sports - Football Pro '96|← Previous: Front Page Sports - Football Pro '96]]
 - [[1996 - Front Page Sports - Football Pro '97|→ Next: Front Page Sports - Football Pro '97]]
-- [[Dynamix]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

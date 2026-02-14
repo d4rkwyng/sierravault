@@ -212,7 +212,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

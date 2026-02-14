@@ -246,8 +246,6 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 ## See Also
 - [[1994 - Front Page Sports - Baseball Pro|← Previous: Front Page Sports - Baseball Pro]]
 - [[1995 - Front Page Sports - Football Pro '96|→ Next: Front Page Sports - Football Pro '96]]
-- [[Dynamix]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

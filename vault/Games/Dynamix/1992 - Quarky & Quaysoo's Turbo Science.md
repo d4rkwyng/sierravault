@@ -220,7 +220,6 @@ The game's cultural detailsâ€”featuring Indian-American space elf protagonistsâ€
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
 ## See Also
-- [[Jeff Tunnell Productions]] - Developer
 
 ## References
 

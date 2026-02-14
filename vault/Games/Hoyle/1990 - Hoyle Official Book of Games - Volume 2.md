@@ -212,7 +212,6 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 ## See Also
 - [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Hoyle Official Book of Games - Volume 1]]
 - [[1991 - Hoyle Official Book of Games - Volume 3|→ Next: Hoyle Official Book of Games - Volume 3]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

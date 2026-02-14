@@ -222,7 +222,6 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 ## See Also
 - [[2004 - Hoyle Table Games|← Previous: Hoyle Table Games]]
 - [[2005 - Hoyle Card Games|→ Next: Hoyle Card Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

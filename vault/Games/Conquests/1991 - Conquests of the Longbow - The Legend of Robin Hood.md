@@ -279,7 +279,6 @@ The game's focus on historical accuracy and cultural research also distinguishes
 
 ## See Also
 - [[1990 - Conquests of Camelot - The Search for the Grail|← Previous: Conquests of Camelot - The Search for the Grail]]
-- [[Sierra On-Line]] - Developer
 - [[Christy Marx]] - Designer
 
 ## References

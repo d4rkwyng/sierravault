@@ -143,7 +143,6 @@ One preservation issue affects the digital versions: "The original release of th
 
 ## See Also
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

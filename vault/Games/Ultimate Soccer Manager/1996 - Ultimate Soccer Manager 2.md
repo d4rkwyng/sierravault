@@ -125,7 +125,6 @@ The series' legacy lies in its contribution to the football management genre dur
 - [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
 
 ## See Also
-- [[Impression Games]] - Developer
 
 ## References
 

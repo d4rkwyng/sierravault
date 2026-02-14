@@ -227,7 +227,6 @@ The game demonstrates both the creative ambition and technical limitations of mi
 - [Sega Retro - Manual Scan](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf)[^ref-13]
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

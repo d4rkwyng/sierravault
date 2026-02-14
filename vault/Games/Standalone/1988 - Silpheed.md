@@ -255,7 +255,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
 
 ## See Also
-- [[Game Arts]] - Developer
 
 ## References
 

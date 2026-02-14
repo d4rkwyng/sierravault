@@ -224,7 +224,6 @@ As a standalone product, *Cluck Yegger* succeeded in what it set out to do: prov
 The macOS version is not compatible with macOS 10.15 Catalina or later versions[^ref-3]. Linux users may experience technical issues with camera displays and movement controls[^ref-19].
 
 ## See Also
-- [[Guys From Andromeda LLC]] - Developer
 
 ## References
 

@@ -216,7 +216,6 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 ## See Also
 - [[2004 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

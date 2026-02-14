@@ -116,7 +116,6 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 - Various abandonware sites (compatibility issues noted)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -195,7 +195,6 @@ The game's design choices, including the significantly higher difficulty with on
 ## See Also
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
-- [[Dynamix]] - Developer
 
 ## References
 

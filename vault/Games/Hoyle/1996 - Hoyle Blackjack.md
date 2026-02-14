@@ -193,7 +193,6 @@ The game's influence on casino game design persists in modern software, though c
 - **Series Origin:** Spiritual successor to Hoyle Official Book of Games series
 - [[1996 - Hoyle Bridge|← Previous: Hoyle Bridge]]
 - [[1996 - Hoyle Casino|→ Next: Hoyle Casino]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

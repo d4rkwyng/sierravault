@@ -247,7 +247,6 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 - **Next:** N/A
 
 ## See Also
-- [[Box of Mystery]] - Developer
 
 ## References
 

@@ -215,7 +215,6 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 - Amazon third-party sellers[^ref-13]
 
 ## See Also
-- [[Synergistic Software]] - Developer
 
 ## References
 

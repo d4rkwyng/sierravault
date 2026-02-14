@@ -311,7 +311,6 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 - Free 60-minute trial available through official channels[^ref-7]
 
 ## See Also
-- [[Himalaya Studios]] - Developer
 
 ## References
 

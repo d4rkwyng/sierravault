@@ -262,7 +262,6 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 ## See Also
 - [[1996 - Hoyle Official Book of Games - Volume 5|← Previous: Hoyle Official Book of Games - Volume 5]]
 - [[1993 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

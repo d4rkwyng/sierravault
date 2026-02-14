@@ -231,7 +231,6 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 - [Atari Compendium Manual Archive](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – Original manual PDF[^ref-14]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

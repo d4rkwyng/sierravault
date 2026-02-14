@@ -322,7 +322,6 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 - [Map PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (253 KB)
 
 ## See Also
-- [[Troika Games]] - Developer
 
 ## References
 

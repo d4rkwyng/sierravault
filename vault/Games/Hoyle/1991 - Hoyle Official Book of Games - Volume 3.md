@@ -196,7 +196,6 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 ## See Also
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

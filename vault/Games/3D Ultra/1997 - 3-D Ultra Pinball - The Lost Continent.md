@@ -126,7 +126,6 @@ The title remains available through preservation efforts, with multiple archive 
 ## See Also
 - [[1997 - 3-D Ultra MiniGolf|← Previous: 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra MiniGolf Deluxe|→ Next: 3-D Ultra MiniGolf Deluxe]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

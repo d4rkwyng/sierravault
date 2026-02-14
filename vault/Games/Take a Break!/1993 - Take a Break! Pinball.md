@@ -210,7 +210,6 @@ The performance issues that plagued the game highlighted the challenges develope
 - [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – Official patches including KQUEST.DLL and DIB.DRV fixes[^ref-8]
 
 ## See Also
-- [[Dynamix, Inc.]] - Developer
 
 ## References
 

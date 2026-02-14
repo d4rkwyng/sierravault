@@ -207,7 +207,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941)[^ref-7]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

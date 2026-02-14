@@ -311,7 +311,6 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 - [Grand Prix Legends Manual](https://archive.org/details/Grand_Prix_Legends)[^ref-3]
 
 ## See Also
-- [[Papyrus Design Group]] - Developer
 
 ## References
 

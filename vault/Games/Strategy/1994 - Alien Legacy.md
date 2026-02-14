@@ -263,7 +263,6 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 **Note:** The game is not currently available on GOG, Steam, or other modern digital storefronts. A community wishlist campaign on GOG.com continues to advocate for an official release[^ref-23].
 
 ## See Also
-- [[Ybarra Productions, Inc.]] - Developer
 
 ## References
 

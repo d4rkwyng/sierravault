@@ -122,7 +122,6 @@ The technical influence of After Dark proved substantial, with the software appe
 
 ## See Also
 - [[1991 - More After Dark|→ Next: More After Dark]]
-- [[Berkeley Systems]] - Developer
 
 ## References
 

@@ -249,7 +249,6 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 ## See Also
 - [[1998 - PGA Championship Golf|← Previous: PGA Championship Golf]]
 - [[2000 - PGA Championship Golf 2000|→ Next: PGA Championship Golf 2000]]
-- [[Headgate Studios]] - Developer
 
 ## References
 

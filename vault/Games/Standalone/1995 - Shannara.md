@@ -247,7 +247,6 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 - [Game Manual](https://www.freegameempire.com/games/Shannara/manual)
 
 ## See Also
-- [[Legend Entertainment]] - Developer
 
 ## References
 

@@ -212,7 +212,6 @@ The game's limited documentation and review coverage reflects the challenge face
 - **Related:** [[1996 - Hoyle Casino|Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2015 - Hoyle Official Card Games Collection|→ Next: Hoyle Official Card Games Collection]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

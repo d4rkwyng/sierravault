@@ -173,7 +173,6 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [Classic Reload](https://classicreload.com/win3x-space-bucks.html) - Browser playable version
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

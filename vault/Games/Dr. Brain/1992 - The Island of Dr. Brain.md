@@ -227,7 +227,6 @@ The series would continue under different developers, with Knowledge Adventure e
 ## See Also
 - [[1991 - Castle of Dr. Brain|← Previous: Castle of Dr. Brain]]
 - [[1995 - The Lost Mind of Dr. Brain|→ Next: The Lost Mind of Dr. Brain]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

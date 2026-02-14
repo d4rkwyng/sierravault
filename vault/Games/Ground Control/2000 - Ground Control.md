@@ -251,8 +251,6 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 
 ## See Also
 - [[2000 - Ground Control - Dark Conspiracy|→ Next: Ground Control - Dark Conspiracy]]
-- [[Massive Entertainment]] - Developer
-- [[Sierra Entertainment]] - Publisher
 
 ## References
 

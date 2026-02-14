@@ -191,7 +191,6 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 ## See Also
 - [[2002 - Hoyle Casino Empire|← Previous: Hoyle Casino Empire]]
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

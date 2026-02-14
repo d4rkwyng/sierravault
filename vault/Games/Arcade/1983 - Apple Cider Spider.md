@@ -194,7 +194,6 @@ The game's creative premise—controlling a spider through cider factory machine
 - [Commodore Games Network](https://www.commodoregames.net/Commodore64/Apple-Cider-Spider-340.html)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

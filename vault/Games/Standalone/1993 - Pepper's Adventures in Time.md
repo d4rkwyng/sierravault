@@ -146,7 +146,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
 ## See Also
-- [[Brightstar]] - Developer
 
 ## References
 

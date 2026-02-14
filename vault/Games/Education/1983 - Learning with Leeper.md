@@ -201,7 +201,6 @@ The broader significance of educational software like Learning with Leeper was r
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

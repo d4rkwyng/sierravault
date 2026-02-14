@@ -187,7 +187,6 @@ The game has been preserved by various abandonware sites and is considered no lo
 
 ## See Also
 - [[1989 - Emmanuelle]] - Previous Coktel adult adventure
-- [[Coktel Vision]] - Developer
 - [[Muriel Tramis]] - Designer
 
 ## References

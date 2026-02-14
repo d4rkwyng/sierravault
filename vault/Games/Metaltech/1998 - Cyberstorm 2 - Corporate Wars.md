@@ -142,7 +142,6 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 ## See Also
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
-- [[Dynamix]] - Developer
 
 ## References
 

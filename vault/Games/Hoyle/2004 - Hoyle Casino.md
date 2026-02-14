@@ -172,7 +172,6 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 ## See Also
 - [[2003 - Hoyle Majestic Chess|← Previous: Hoyle Majestic Chess]]
 - [[2004 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

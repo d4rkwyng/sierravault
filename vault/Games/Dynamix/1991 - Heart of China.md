@@ -233,7 +233,6 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

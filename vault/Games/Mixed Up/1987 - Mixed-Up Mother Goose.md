@@ -262,7 +262,6 @@ The game's three remakes over a decade—more than almost any other Sierra title
 
 ## See Also
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
-- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -205,7 +205,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 - Documentation available through Sierra Gamers archive[^ref-10]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

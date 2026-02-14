@@ -266,7 +266,6 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [Free Game Empire - Manual](https://www.freegameempire.com/games/Battle-Bugs/manual)[^ref-27]
 
 ## See Also
-- [[Epyx, Inc.]] - Developer
 
 ## References
 

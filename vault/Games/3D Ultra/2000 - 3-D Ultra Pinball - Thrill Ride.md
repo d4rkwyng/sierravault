@@ -232,7 +232,6 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 ## See Also
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|← Previous: 3-D Ultra Lionel TrainTown Deluxe]]
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|→ Next: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

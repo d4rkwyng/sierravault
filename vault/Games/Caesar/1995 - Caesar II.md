@@ -139,7 +139,6 @@ An active fan community has maintained interest in Caesar II through dedicated w
 ## See Also
 - [[1992 - Caesar|← Previous: Caesar]]
 - [[1998 - Caesar III|→ Next: Caesar III]]
-- [[Impressions Games]] - Developer
 
 ## References
 

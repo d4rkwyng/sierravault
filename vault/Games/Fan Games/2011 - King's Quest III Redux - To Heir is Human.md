@@ -260,7 +260,6 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
 ## See Also
-- [[AGD Interactive]] - Developer
 
 ## References
 

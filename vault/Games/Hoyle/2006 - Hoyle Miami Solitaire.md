@@ -161,7 +161,6 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 - **Related:** Hoyle Solitaire (2000), Hoyle Casino series, Hoyle Word Games
 - [[2006 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

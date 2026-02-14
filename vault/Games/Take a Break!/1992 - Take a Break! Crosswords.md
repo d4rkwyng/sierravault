@@ -181,7 +181,6 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 - Built-in 65-page crossword dictionary included with software[^ref-6]
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

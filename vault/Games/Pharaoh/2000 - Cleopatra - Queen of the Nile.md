@@ -270,7 +270,6 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 ## See Also
 - [[1999 - Pharaoh|← Base Game: Pharaoh]] - Required base game
 - [[2023 - Pharaoh - A New Era|→ Remake: Pharaoh - A New Era]] - 2023 remaster including Cleopatra content
-- [[Impressions Games]] - Developer
 
 ## References
 

@@ -198,8 +198,6 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (2003)
 - [[1996 - NASCAR Racing 2|← Previous: NASCAR Racing 2]]
 - [[1999 - NASCAR Craftsman Truck Series Racing|→ Next: NASCAR Craftsman Truck Series Racing]]
-- [[Papyrus Design Group]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

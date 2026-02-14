@@ -185,7 +185,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
 
 ## See Also
-- [[Nice Ideas]] - Developer
 
 ## References
 

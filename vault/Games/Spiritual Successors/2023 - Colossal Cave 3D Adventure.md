@@ -247,7 +247,6 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 - [Official Press Kit](https://colossalcave3d.com/press/)
 
 ## See Also
-- [[Cygnus Entertainment]] - Developer
 
 ## References
 

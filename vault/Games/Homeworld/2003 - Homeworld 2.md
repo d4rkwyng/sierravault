@@ -276,8 +276,6 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 ## See Also
 - [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
-- [[Relic Entertainment]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

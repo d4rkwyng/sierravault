@@ -242,7 +242,6 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 **Price:** $20.00 USD[^ref-10]
 
 ## See Also
-- [[Transolar Games]] - Developer
 
 ## References
 

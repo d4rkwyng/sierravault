@@ -230,7 +230,6 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - [Lemon64](https://www.lemon64.com/game/donald-ducks-playground)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

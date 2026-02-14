@@ -108,6 +108,11 @@ The enhanced Command: Aces of the Deep version introduced IBM VoiceType speech r
 
 Game documentation including manuals[^ref-25] and video content[^ref-26] has been preserved in archives.
 
+## See Also
+- [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]
+- [[1995 - Command Aces of the Deep|→ Next: Command Aces of the Deep]]
+- [[Red Baron]] - Related Dynamix flight sim
+
 ## Legacy
 
 Aces of the Deep's influence on the submarine simulation genre cannot be overstated. As noted in the SUBSIM interview, "In the area of submarine simulations, it was Aces of the Deep. Aces was a huge leap forward in every facet of the submarine sim; graphics, music, gameplay, and most importantly, realism and historical accuracy"[^ref-11]. The review continues: "No other subsim before or after Aces of the Deep has captured the ambiance and tension quite so well"[^ref-11].

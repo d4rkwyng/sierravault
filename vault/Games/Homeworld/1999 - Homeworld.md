@@ -296,8 +296,6 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 
 ## See Also
 - [[2000 - Homeworld - Cataclysm|→ Next: Homeworld - Cataclysm]]
-- [[Relic Entertainment]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

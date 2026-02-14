@@ -268,7 +268,6 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 
 ## See Also
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
-- [[Dynamix]] - Developer
 
 ## References
 

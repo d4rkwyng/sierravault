@@ -218,7 +218,6 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 ## See Also
 - [[1990 - Stellar 7|← Previous: Stellar 7]]
 - [[1993 - Stellar 7 - Draxon's Revenge|→ Next: Stellar 7 - Draxon's Revenge]]
-- [[Dynamix]] - Developer
 
 ## References
 

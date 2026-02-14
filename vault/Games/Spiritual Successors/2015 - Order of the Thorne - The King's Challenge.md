@@ -245,7 +245,6 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 - [Phoenix Online Studios](https://store.postudios.com/products/order-of-the-thorne-the-kings-challenge)
 
 ## See Also
-- [[Infamous Quests]] - Developer
 
 ## References
 

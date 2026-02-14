@@ -266,7 +266,6 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 ## See Also
 - **Compilation:** Acropolis expansion
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
-- [[Impressions Games]] - Developer
 
 ## References
 

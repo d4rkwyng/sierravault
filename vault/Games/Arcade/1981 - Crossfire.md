@@ -217,7 +217,6 @@ The game's influence can be seen in its innovative control scheme and its achiev
 - [Atari Game Manual](https://archive.org/details/agm_crossfire)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

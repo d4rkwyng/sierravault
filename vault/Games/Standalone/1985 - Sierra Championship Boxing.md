@@ -222,7 +222,6 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
 ## See Also
-- [[Evryware]] - Developer
 
 ## References
 

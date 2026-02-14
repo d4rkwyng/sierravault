@@ -126,7 +126,6 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 - [SierraHelp Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html)[^ref-33]
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

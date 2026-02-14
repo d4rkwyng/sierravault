@@ -228,7 +228,6 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 - [Atari Legend – Cougar Force](https://www.atarilegend.com/games/cougar-force)
 
 ## See Also
-- [[MDO / Coktel Vision]] - Developer
 
 ## References
 

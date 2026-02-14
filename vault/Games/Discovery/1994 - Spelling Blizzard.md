@@ -198,7 +198,6 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 - PDF manual included on original game disc[^ref-4]
 
 ## See Also
-- [[Bright Star Technology]] - Developer
 
 ## References
 

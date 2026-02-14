@@ -323,7 +323,6 @@ However, the game's legacy has been complicated by its commercial unavailability
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – Technical fixes and compatibility information
 
 ## See Also
-- [[Monolith Productions]] - Developer
 
 ## References
 

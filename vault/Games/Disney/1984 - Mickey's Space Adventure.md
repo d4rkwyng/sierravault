@@ -232,7 +232,6 @@ The collaboration between Sierra and Disney established a template for education
 - [Manual Scans - Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

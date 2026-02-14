@@ -235,7 +235,6 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Bargon_Attack)
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

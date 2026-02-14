@@ -174,7 +174,6 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 ## See Also
 - [[1998 - 3-D Ultra MiniGolf Deluxe|← Previous: 3-D Ultra MiniGolf Deluxe]]
 - [[1999 - 3-D Ultra Cool Pool|→ Next: 3-D Ultra Cool Pool]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -147,7 +147,6 @@ The series continued with multiple sequels and iterations, eventually transition
 ## See Also
 - [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
 - [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

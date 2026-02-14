@@ -189,7 +189,6 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 - No digital manual currently archived in available sources
 
 ## See Also
-- [[Bright Star Technology]] - Developer
 
 ## References
 

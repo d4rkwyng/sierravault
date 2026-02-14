@@ -301,7 +301,6 @@ The game's transition from the Police Quest adventure game format to real-time t
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

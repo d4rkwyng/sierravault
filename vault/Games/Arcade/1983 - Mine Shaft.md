@@ -174,7 +174,6 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
 
 ## See Also
-- [[Sierra On-Line, Inc.]] - Developer
 
 ## References
 

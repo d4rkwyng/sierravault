@@ -183,7 +183,6 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 - Refer to original Sierra documentation for gameplay reference
 
 ## See Also
-- [[Infamous Adventures]] - Developer
 
 ## References
 

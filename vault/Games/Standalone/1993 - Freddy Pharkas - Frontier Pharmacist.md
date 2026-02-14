@@ -164,7 +164,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

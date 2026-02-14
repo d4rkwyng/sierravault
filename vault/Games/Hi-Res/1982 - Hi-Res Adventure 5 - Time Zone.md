@@ -197,7 +197,6 @@ For Sierra specifically, Time Zone represented an important learning experience.
 - [Manual (Archive.org)](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt)[^ref-14]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

@@ -218,7 +218,6 @@ From a design perspective, the game's innovation of eliminating typing requireme
 - [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

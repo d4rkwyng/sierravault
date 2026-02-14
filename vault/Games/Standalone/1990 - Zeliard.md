@@ -248,7 +248,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
 
 ## See Also
-- [[Game Arts Co., Ltd.]] - Developer
 
 ## References
 

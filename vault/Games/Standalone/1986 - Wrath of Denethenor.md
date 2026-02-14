@@ -216,7 +216,6 @@ From a modern perspective, the game serves as an important data point in underst
 - [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
 
 ## See Also
-- [[Christopher Crim]] - Developer
 
 ## References
 

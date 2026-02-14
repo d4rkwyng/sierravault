@@ -116,8 +116,6 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 ## See Also
 - [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
 - [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
-- [[Papyrus Design Group]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

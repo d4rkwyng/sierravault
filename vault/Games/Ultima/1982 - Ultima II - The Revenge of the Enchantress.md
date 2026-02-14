@@ -229,7 +229,6 @@ The game's historical significance lies in several areas: it demonstrated that R
 - Cloth map included with original retail release[^ref-1]
 
 ## See Also
-- [[Richard Garriott]] - Developer
 
 ## References
 

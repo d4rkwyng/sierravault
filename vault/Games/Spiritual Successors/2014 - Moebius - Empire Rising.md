@@ -134,7 +134,6 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
 ## See Also
-- [[Pinkerton Road Studios]] - Developer
 
 ## References
 

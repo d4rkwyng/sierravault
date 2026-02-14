@@ -202,7 +202,6 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 - [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

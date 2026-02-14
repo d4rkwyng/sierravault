@@ -289,7 +289,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 
 ## See Also
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
-- [[Dynamix]] - Developer
 
 ## References
 

@@ -253,7 +253,6 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 ## See Also
 - [[1991 - Gobliiins|← Previous: Gobliiins]]
 - [[1993 - Goblins Quest 3|→ Next: Goblins Quest 3]]
-- [[Coktel Vision]] - Developer
 
 ## References
 

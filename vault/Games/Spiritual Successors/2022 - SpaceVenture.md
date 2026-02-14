@@ -148,7 +148,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
 ## See Also
-- [[Guys from Andromeda]] - Developer
 
 ## References
 

@@ -111,7 +111,6 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

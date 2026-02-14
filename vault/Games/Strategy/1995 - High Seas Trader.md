@@ -113,7 +113,6 @@ The title represents an important entry in Sierra's diverse portfolio during the
 - [Internet Archive](https://archive.org/details/msdos_High_Seas_Trader_1995)
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

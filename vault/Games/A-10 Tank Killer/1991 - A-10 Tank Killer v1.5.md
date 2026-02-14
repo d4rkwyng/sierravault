@@ -124,7 +124,6 @@ Despite being banned in Germany due to its violence level and placement on the '
 ## See Also
 - [[1989 - A-10 Tank Killer|← Previous: A-10 Tank Killer]]
 - [[1996 - Silent Thunder - A-10 Tank Killer II|→ Next: Silent Thunder - A-10 Tank Killer II]]
-- [[Dynamix]] - Developer
 
 ## References
 

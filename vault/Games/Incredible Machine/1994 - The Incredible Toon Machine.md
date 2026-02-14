@@ -213,7 +213,6 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 ## See Also
 - [[1994 - The Incredible Machine 2|← Previous: The Incredible Machine 2]]
 - [[1995 - The Incredible Machine 3.0|→ Next: The Incredible Machine 3.0]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

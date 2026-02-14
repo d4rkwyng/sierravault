@@ -276,7 +276,6 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 
 ## See Also
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
-- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -251,7 +251,6 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 ## See Also
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)
-- [[Coktel Vision]] - Developer
 
 ## References
 

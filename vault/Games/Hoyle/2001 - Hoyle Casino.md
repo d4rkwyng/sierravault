@@ -215,7 +215,6 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 ## See Also
 - [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

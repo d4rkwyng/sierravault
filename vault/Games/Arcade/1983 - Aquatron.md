@@ -215,7 +215,6 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 - No manuals currently available for this program[^ref-10]
 
 ## See Also
-- [[Justin Gray]] - Developer
 
 ## References
 

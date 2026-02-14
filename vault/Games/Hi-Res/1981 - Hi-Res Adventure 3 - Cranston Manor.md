@@ -177,7 +177,6 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

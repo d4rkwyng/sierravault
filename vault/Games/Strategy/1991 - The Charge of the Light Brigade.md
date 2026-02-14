@@ -200,7 +200,6 @@ Impressions Games would find greater success with their subsequent city-building
 - [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

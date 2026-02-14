@@ -241,7 +241,6 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 ## See Also
 - **Next:** None (series concluded with rebrand)
 - [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
-- [[Papyrus Design Group]] - Developer
 
 ## References
 

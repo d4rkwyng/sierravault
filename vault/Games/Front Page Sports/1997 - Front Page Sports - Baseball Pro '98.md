@@ -233,8 +233,6 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 ## See Also
 - [[1996 - Front Page Sports - Football Pro '97|← Previous: Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Football Pro '98|→ Next: Front Page Sports - Football Pro '98]]
-- [[Dynamix]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

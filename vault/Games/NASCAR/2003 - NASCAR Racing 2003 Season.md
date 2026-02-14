@@ -301,8 +301,6 @@ The game's influence extends beyond nostalgia. Its netcode and replay systems be
 
 ## See Also
 - [[2002 - NASCAR Racing 2002 Season|← Previous: NASCAR Racing 2002 Season]]
-- [[Papyrus Design Group]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

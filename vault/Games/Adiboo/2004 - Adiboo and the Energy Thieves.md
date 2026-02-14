@@ -179,7 +179,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 
 ## See Also
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
-- [[Coktel Vision]] - Developer
 
 ## References
 

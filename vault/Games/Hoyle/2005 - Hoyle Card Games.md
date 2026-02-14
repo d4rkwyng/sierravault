@@ -190,7 +190,6 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 ## See Also
 - [[2005 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2005 - Hoyle Casino 3D|→ Next: Hoyle Casino 3D]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

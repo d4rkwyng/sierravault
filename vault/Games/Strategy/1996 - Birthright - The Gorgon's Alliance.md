@@ -120,7 +120,6 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 - [Internet Archive](https://archive.org/details/msdos_Birthright_-_The_Gorgons_Alliance_1996)[^ref-75]
 
 ## See Also
-- [[Synergistic Software]] - Developer
 
 ## References
 

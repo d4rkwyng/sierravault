@@ -227,7 +227,6 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 - Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/)[^ref-15]
 
 ## See Also
-- [[Banana Development, Inc.]] - Developer
 
 ## References
 

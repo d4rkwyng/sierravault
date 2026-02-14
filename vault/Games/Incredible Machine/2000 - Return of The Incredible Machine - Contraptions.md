@@ -131,7 +131,6 @@ The community around The Incredible Machine remains active decades after release
 ## See Also
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|← Previous: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 - [[2001 - The Incredible Machine - Even More Contraptions|→ Next: The Incredible Machine - Even More Contraptions]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

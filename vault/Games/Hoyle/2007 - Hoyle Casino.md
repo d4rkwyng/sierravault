@@ -181,7 +181,6 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 ## See Also
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
 - [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

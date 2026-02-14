@@ -178,7 +178,6 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 - [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demonstration version[^ref-8]
 
 ## See Also
-- [[Phoenix Online Studios]] - Developer
 
 ## References
 

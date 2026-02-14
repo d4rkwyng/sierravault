@@ -139,7 +139,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

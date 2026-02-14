@@ -203,7 +203,6 @@ The franchise's continued existence through mobile and console titles decades la
 - [Amazon – Professional Bull Rider PC](https://www.amazon.com/Professional-Bull-Rider-PC/dp/B00001LCDC)[^ref-7]
 
 ## See Also
-- [[Sierra On-Line, Inc.]] - Developer
 
 ## References
 

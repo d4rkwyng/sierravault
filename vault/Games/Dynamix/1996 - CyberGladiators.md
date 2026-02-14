@@ -252,7 +252,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/CyberGladiators) – Technical troubleshooting[^ref-6]
 
 ## See Also
-- [[Dynamix, Inc.]] - Developer
 
 ## References
 

@@ -222,7 +222,6 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 ## See Also
 - [[1994 - The Incredible Toon Machine|← Previous: The Incredible Toon Machine]]
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|→ Next: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

@@ -268,7 +268,6 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 ## See Also
 - [[2000 - Return of The Incredible Machine - Contraptions|← Previous: Return of The Incredible Machine - Contraptions]]
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

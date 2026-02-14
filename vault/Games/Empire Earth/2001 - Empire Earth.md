@@ -280,8 +280,6 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 
 ## See Also
 - [[2002 - Empire Earth - The Art of Conquest|→ Next: Empire Earth - The Art of Conquest]]
-- [[Stainless Steel Studios]] - Developer
-- [[Sierra Entertainment]] - Publisher
 
 ## References
 

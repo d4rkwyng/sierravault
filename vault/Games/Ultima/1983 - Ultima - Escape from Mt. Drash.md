@@ -196,7 +196,6 @@ The game's historical significance lies not in its gameplay contributions—whic
 - Original documentation is extremely rare due to limited production run
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

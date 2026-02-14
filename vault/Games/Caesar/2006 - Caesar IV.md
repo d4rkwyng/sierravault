@@ -270,7 +270,6 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 
 ## See Also
 - [[1998 - Caesar III|← Previous: Caesar III]]
-- [[Impressions Games]] - Developer
 
 ## References
 

@@ -206,7 +206,6 @@ The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^
 - **Related:** Various Hoyle Card Games, Hoyle Casino, and Hoyle Board Games titles
 - [[2001 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2002 - Hoyle Card Games|→ Next: Hoyle Card Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

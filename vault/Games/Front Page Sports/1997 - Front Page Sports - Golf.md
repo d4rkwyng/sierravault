@@ -265,8 +265,6 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 ## See Also
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
-- [[Dynamix]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

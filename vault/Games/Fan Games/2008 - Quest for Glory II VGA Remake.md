@@ -183,7 +183,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - Official FAQ and feature list[^ref-6]
 
 ## See Also
-- [[AGD Interactive]] - Developer
 
 ## References
 

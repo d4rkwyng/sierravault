@@ -199,7 +199,6 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 - [Game Solution/Walkthrough](https://www.atarimax.com/freenet/freenet_material/12.AtariLibrary/2.MiscellaneousTextFiles/showarticle.php?67)
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

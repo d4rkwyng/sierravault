@@ -244,7 +244,6 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 - [Official Hint Guide (itch.io)](https://transolar-games.itch.io/hero-u-rogue-to-redemption-hint-guide)
 
 ## See Also
-- [[Transolar Games]] - Developer
 
 ## References
 

@@ -200,7 +200,6 @@ The game's emphasis on character personality through opponents like Marvin the T
 ## See Also
 - [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
 - [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

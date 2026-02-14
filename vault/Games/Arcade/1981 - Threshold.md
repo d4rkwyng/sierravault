@@ -204,7 +204,6 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 - [Atari Game Manual](https://archive.org/details/agm_Threshold)
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

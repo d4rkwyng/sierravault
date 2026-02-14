@@ -201,7 +201,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 - No digital manual currently available
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

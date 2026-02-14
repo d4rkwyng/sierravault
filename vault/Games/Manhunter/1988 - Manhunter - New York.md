@@ -113,8 +113,6 @@ Fan-created unofficial patches have been developed to address minor technical is
 
 ## See Also
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
-- [[Evryware]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

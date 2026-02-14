@@ -231,8 +231,6 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 ## See Also
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
-- [[Papyrus Design Group]] - Developer
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

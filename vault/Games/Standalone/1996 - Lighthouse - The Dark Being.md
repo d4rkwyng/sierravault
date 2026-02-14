@@ -135,7 +135,6 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

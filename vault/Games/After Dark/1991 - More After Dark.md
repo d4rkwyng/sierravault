@@ -212,7 +212,6 @@ While More After Dark never received the critical attention afforded to traditio
 ## See Also
 - [[1989 - After Dark|← Previous: After Dark]]
 - [[1998 - After Dark Games|→ Next: After Dark Games]]
-- [[Berkeley Systems]] - Developer
 
 ## References
 

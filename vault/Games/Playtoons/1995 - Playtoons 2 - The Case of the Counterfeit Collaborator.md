@@ -195,7 +195,6 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 
 - [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3 - The Secret of the Castle]]
-- [[Coktel Vision]] - Developer
 
 ## References
 

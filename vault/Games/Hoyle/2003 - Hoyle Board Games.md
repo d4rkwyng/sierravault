@@ -251,7 +251,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 ## See Also
 - [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

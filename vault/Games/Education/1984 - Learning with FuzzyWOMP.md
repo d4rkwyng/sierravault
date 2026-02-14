@@ -185,7 +185,6 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 - [CollectorVision](https://collectorvision.com/games/lwfuzzywomp.php)[^ref-9]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

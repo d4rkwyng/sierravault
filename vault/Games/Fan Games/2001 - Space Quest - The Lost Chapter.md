@@ -228,7 +228,6 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Walkthrough King](https://www.walkthroughking.com/text/spacequestlostchapter.aspx)
 
 ## See Also
-- [[Vonster Vision]] - Developer
 
 ## References
 

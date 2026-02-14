@@ -206,7 +206,6 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [DOSGames.com – The Crimson Crown](https://dosgames.com/game/crimson-crown-the/)
 
 ## See Also
-- [[Polarware]] - Developer
 
 ## References
 

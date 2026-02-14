@@ -118,7 +118,6 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 - [RetroGames.cz](https://www.retrogames.cz/play_1146-DOS.php)[^ref-20]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

@@ -182,7 +182,6 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 ## See Also
 - **Next:** Playtoons 5: The Stone of Wakan
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
-- [[Coktel Vision]] - Developer
 
 ## References
 

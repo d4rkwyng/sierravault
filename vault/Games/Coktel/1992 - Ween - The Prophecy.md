@@ -217,7 +217,6 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 - Playable through ScummVM using the Gob engine[^ref-20]
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

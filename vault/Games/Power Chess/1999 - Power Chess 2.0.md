@@ -172,7 +172,6 @@ The series is perhaps best remembered for its educational features rather than i
 - Compatibility requires Windows 98 virtual machine setup[^ref-4][^ref-12]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

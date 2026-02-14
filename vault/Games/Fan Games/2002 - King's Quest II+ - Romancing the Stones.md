@@ -194,7 +194,6 @@ The remake's significance extends beyond its individual merits to represent a br
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## See Also
-- [[AGD Interactive]] - Developer
 
 ## References
 

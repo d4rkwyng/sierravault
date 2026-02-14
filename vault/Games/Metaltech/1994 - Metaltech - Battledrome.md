@@ -234,7 +234,6 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 ## See Also
 - **Related:** [[1994 - Metaltech - Earthsiege]]
 - [[1994 - Metaltech - Earthsiege|→ Next: Metaltech - Earthsiege]]
-- [[Dynamix]] - Developer
 
 ## References
 

@@ -217,7 +217,6 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 - [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
 
 ## See Also
-- [[Software Sorcery]] - Developer
 
 ## References
 

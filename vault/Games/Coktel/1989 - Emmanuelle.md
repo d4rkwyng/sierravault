@@ -240,7 +240,6 @@ Modern players typically approach the game "more out of historical interest than
 - GOG.com (not listed)
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

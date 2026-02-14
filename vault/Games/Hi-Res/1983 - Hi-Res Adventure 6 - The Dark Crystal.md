@@ -147,7 +147,6 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 - [RetroAchievements Support](https://retroachievements.org/game/18957)[^ref-27]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

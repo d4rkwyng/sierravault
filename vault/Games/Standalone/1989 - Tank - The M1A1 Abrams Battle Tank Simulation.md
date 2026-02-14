@@ -215,7 +215,6 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
 ## See Also
-- [[Sphere, Inc.]] - Developer
 
 ## References
 

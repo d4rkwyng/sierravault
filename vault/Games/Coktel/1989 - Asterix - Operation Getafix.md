@@ -195,7 +195,6 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 - [Lemon Amiga Manual Documentation](https://www.lemonamiga.com/games/docs.php?id=114)
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

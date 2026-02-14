@@ -175,7 +175,6 @@ Several bugs and design issues were documented during the game's lifespan:
 - [MedievaLands](https://www.medievalands.com/) - Fan remake with multiplayer support
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

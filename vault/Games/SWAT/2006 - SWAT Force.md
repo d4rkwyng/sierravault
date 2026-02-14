@@ -195,7 +195,6 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|← Previous: SWAT 4 - The Stetchkov Syndicate]]
 - [[2007 - SWAT - Target Liberty|→ Next: SWAT - Target Liberty]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

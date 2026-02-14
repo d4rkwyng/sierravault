@@ -224,7 +224,6 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 ## See Also
 - [[2005 - Hoyle Texas Hold Em|← Previous: Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

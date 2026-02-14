@@ -237,7 +237,6 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 
 ## See Also
 - [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Hoyle Official Book of Games - Volume 2]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

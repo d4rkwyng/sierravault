@@ -213,7 +213,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 
 ## See Also
 - **Related:** [[1997 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

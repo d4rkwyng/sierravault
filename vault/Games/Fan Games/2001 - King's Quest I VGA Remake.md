@@ -307,7 +307,6 @@ The team's approach of receiving official licensing before distribution set an i
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796)[^ref-13]
 
 ## See Also
-- [[AGD Interactive (Tierra Entertainment)]] - Developer
 
 ## References
 

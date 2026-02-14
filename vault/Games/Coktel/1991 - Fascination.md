@@ -243,7 +243,6 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [PCGamingWiki – Fascination](https://www.pcgamingwiki.com/wiki/Fascination)[^ref-28]
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

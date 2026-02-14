@@ -119,7 +119,6 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 ## See Also
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|← Previous: 3-D Ultra Pinball - The Lost Continent]]
 - [[1998 - 3-D Ultra NASCAR Pinball|→ Next: 3-D Ultra NASCAR Pinball]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

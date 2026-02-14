@@ -111,6 +111,10 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 
+## See Also
+- [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
+- [[Red Baron]] - Related Dynamix flight sim
+
 ## Legacy
 
 Aces of the Pacific established Dynamix as a premier developer of military flight simulations and directly led to the creation of Aces Over Europe in 1993[^ref-3]. The game's influence extended beyond its immediate sequel, with the series noted for having "the absolute best record/playback mission deck and video edit interface" that allowed players to create sophisticated mission recordings[^ref-4].

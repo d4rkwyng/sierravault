@@ -201,7 +201,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1517) – Amiga version details and reviews
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

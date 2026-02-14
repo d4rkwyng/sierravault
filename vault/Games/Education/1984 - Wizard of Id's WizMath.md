@@ -190,7 +190,6 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
 ## See Also
-- [[Sydney Development Corp.]] - Developer
 
 ## References
 

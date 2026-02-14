@@ -221,7 +221,6 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 ## See Also
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

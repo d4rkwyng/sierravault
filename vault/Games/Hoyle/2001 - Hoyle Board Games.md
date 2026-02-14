@@ -234,7 +234,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 ## See Also
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|← Previous: Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Casino|→ Next: Hoyle Casino]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

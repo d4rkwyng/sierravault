@@ -190,7 +190,6 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 - No digital manual copies currently documented
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

@@ -200,7 +200,6 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 - [Wikipedia](https://en.wikipedia.org/wiki/Laf_Pak) - Encyclopedia entry
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

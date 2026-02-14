@@ -192,7 +192,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 - Original packaging and materials are held in private collections[^ref-6]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

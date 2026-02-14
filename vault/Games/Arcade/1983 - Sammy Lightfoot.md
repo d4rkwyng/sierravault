@@ -224,7 +224,6 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

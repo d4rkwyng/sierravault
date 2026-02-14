@@ -104,7 +104,6 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 - [Internet Archive](https://archive.org/details/msdos_Torins_Passage_1995)
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

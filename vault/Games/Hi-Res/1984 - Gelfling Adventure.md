@@ -165,7 +165,6 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 The game is documented in gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 

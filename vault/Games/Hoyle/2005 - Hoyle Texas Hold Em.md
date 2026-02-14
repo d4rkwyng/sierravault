@@ -162,7 +162,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 ## See Also
 - [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

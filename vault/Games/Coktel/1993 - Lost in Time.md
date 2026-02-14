@@ -244,7 +244,6 @@ The game also holds historical significance as one of the earlier adventure game
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
 ## See Also
-- [[Coktel Vision]] - Developer
 
 ## References
 

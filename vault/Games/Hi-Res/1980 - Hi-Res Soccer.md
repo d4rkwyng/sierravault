@@ -138,7 +138,6 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 - [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199)
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

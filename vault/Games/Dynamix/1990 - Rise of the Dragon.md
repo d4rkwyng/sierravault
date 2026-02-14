@@ -268,7 +268,6 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 - [Lemon Amiga – Manual](https://www.lemonamiga.com/doc/rise-of-the-dragon/1350)
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

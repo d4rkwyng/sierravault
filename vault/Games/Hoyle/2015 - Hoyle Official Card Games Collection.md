@@ -242,7 +242,6 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 
 - [[2011 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

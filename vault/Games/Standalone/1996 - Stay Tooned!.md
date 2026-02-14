@@ -185,7 +185,6 @@ The title has developed a cult following among players who experienced it during
 - Physical copies included two pairs of 3D glasses for stereoscopic mini-games[^ref-4]
 
 ## See Also
-- [[Funnybone Interactive]] - Developer
 
 ## References
 

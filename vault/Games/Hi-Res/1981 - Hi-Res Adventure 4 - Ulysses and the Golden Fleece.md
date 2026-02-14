@@ -214,7 +214,6 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-23].
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

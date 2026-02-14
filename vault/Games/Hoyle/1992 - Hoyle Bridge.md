@@ -202,7 +202,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 ## See Also
 - **Related:** [[1997 - Hoyle Classic Card Games]] (parent compilation)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

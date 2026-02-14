@@ -207,7 +207,6 @@ The game also represents an important artifact of early 2000s fan game developme
 - [Jess Morrissette's Space Quest 0 Page](https://www.wiw.org/~jess/replicated.html) - Includes v1.04 download[^ref-15]
 
 ## See Also
-- [[Jeff Stewart]] - Developer
 
 ## References
 

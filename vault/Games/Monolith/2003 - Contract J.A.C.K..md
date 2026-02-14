@@ -303,7 +303,6 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
 ## See Also
-- [[Monolith Productions]] - Developer
 
 ## References
 

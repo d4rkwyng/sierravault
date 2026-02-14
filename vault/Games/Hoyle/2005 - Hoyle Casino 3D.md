@@ -227,7 +227,6 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 ## See Also
 - [[2005 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2005 - Hoyle Poker Series|→ Next: Hoyle Poker Series]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

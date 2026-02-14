@@ -137,7 +137,6 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 - [IF Archive](https://ifarchive.org/if-archive/games/appleII/mystery.dsk)
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

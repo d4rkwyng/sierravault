@@ -183,7 +183,6 @@ This article focuses specifically on the 1993 Impressions Games title.
 - [Game Manual – Games Database](https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga//Manual/formated/Global_Domination_-_1993_-_Impressions_Games.htm)
 
 ## See Also
-- [[Impressions Games]] - Developer
 
 ## References
 

@@ -195,7 +195,6 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 ## See Also
 - [[1997 - Sierra Pro Pilot 98|← Previous: Sierra Pro Pilot 98]]
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
-- [[Sierra On-Line]] - Developer
 
 ## References
 

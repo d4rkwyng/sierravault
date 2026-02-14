@@ -247,7 +247,6 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 - [Game Manual (Apple Version)](https://archive.org/details/The_Ancient_Art_Of_War_At_Sea_Manual) – 126-page manual PDF
 
 ## See Also
-- [[Evryware, Inc.]] - Developer
 
 ## References
 

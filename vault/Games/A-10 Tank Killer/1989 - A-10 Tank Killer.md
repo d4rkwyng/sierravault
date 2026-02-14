@@ -211,7 +211,6 @@ While the Amiga version disappointed some critics who found it technically infer
 
 ## See Also
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
-- [[Dynamix]] - Developer
 
 ## References
 

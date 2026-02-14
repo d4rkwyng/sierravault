@@ -187,7 +187,6 @@ The game also stands as a testament to the challenges of software preservation, 
 - [ClassicReload – Windows 3.x Version](https://classicreload.com/win3x-spelling-jungle-yobis-basic-spelling-tricks.html)[^ref-11]
 
 ## See Also
-- [[Bright Star Technology]] - Developer
 
 ## References
 

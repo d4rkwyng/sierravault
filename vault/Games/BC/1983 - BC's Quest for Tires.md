@@ -269,7 +269,6 @@ The game also exemplifies the rapid multi-platform development practices of the 
 
 ## See Also
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

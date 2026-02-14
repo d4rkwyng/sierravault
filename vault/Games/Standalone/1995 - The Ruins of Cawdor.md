@@ -206,7 +206,6 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
 
 ## See Also
-- [[Ybarra Productions]] - Developer
 
 ## References
 

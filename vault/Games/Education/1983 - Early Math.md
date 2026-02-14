@@ -204,7 +204,6 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
 ## See Also
-- [[Bright Star Technology, Inc.]] - Developer
 
 ## References
 

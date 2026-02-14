@@ -214,7 +214,6 @@ From a historical perspective, WizType demonstrates how early educational softwa
 - Documentation may be available through Sierra Gamers fan site[^ref-7]
 
 ## See Also
-- [[Sydney Development Corp.]] - Developer
 
 ## References
 

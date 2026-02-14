@@ -253,7 +253,6 @@ The game is preserved through abandonware archives, though it faces compatibilit
 - **Expansion:** Front Page Sports: Trophy Bass 2 - Northern Lakes (1997)[^ref-19]
 - [[1995 - Trophy Bass|← Previous: Trophy Bass]]
 - [[1999 - Field & Stream - Trophy Bass 3D|→ Next: Field & Stream - Trophy Bass 3D]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

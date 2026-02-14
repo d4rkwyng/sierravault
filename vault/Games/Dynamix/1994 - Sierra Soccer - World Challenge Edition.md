@@ -313,7 +313,6 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 - [ExoticA](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation[^ref-6]
 
 ## See Also
-- [[Dynamix]] - Developer
 
 ## References
 

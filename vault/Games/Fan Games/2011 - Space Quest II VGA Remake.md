@@ -200,7 +200,6 @@ The continued support for the project, with updates still being released as rece
 The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
 ## See Also
-- [[Infamous Adventures]] - Developer
 
 ## References
 

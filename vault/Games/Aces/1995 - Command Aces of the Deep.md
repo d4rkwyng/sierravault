@@ -116,9 +116,8 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 - [Internet Archive](https://archive.org/details/msdos_Aces_of_the_Deep_1994)
 
 ## See Also
-- **Next:** Aces of the Deep: Expansion Disk (1995)
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
-- [[Dynamix]] - Developer
+- [[Red Baron]] - Related Dynamix flight sim
 
 ## References
 

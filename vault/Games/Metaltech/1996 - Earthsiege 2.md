@@ -133,7 +133,6 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 ## See Also
 - [[1995 - Metaltech - Earthsiege Expansion Pack|← Previous: Metaltech - Earthsiege Expansion Pack]]
 - [[1996 - MissionForce - Cyberstorm|→ Next: MissionForce - Cyberstorm]]
-- [[Dynamix]] - Developer
 
 ## References
 

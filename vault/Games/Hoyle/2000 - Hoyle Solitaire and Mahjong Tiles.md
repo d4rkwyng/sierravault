@@ -182,7 +182,6 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 ## See Also
 - [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

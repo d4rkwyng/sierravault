@@ -222,7 +222,6 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 ## See Also
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
-- [[Sierra On-Line]] - Publisher
 
 ## References
 

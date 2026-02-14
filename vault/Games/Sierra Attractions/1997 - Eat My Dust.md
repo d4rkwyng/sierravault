@@ -119,7 +119,6 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
 ## See Also
-- [[Funnybone Interactive]] - Developer
 
 ## References
 

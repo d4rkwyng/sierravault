@@ -276,7 +276,6 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 
 ## See Also
 - [[2001 - The Incredible Machine - Even More Contraptions|← Previous: The Incredible Machine - Even More Contraptions]]
-- [[Dynamix]] - Developer
 - [[Jeff Tunnell]] - Creator
 
 ## References

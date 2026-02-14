@@ -155,7 +155,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/)[^ref-23]
 
 ## See Also
-- [[On-Line Systems]] - Developer
 
 ## References
 

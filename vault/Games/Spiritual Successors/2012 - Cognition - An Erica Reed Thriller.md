@@ -201,7 +201,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - Official Soundtrack available via Phoenix Online Store[^ref-25]
 
 ## See Also
-- [[Phoenix Online Studios]] - Developer
 
 ## References
 

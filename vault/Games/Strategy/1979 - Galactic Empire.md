@@ -191,7 +191,6 @@ The game's influence can be traced through the entire 4X genre—from later titl
 - [JoeStrout's Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – HTML5 browser playable
 
 ## See Also
-- [[Brøderbund Software]] - Developer
 
 ## References
 

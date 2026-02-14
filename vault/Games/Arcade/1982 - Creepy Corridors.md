@@ -219,7 +219,6 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 - Box scans available at [The Sierra Chest](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box)[^ref-9]
 
 ## See Also
-- [[Sierra On-Line]] - Developer
 
 ## References
 
