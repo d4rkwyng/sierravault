@@ -3,18 +3,24 @@
 Local Quality Checker - Ollama-powered page validation
 
 Uses local LLM models for fast quality checks:
-- llama3.2:3b for fast screening (citations, patterns)
-- qwen2.5-coder:7b for deeper analysis (structure, promotional language)
+- Mac Mini (localhost): llama3.2:3b for fast screening
+- Mac Studio (remote): llama3.3:70b for deep analysis on escalation
+
+Hybrid approach:
+1. Fast screening on Mac Mini's small models
+2. Escalate to Mac Studio's 70B models for pages needing deeper review
 
 Output: JSON with score, individual checks, issues, and escalation flag.
 
 Usage:
     python3 local_quality_check.py "vault/Games/Some Game/page.md"
     python3 local_quality_check.py --flagship "vault/Games/Kings Quest/1990 - Kings Quest V.md"
+    python3 local_quality_check.py --escalate "vault/Games/page.md"  # Use Mac Studio
 """
 
 import argparse
 import json
+import os
 import re
 import subprocess
 import sys
@@ -22,6 +28,10 @@ from pathlib import Path
 from collections import Counter
 from typing import Dict, List, Tuple, Optional
 
+
+# Mac Studio Ollama server (via Tailscale)
+MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", "http://100.90.195.80:11434")
+MAC_STUDIO_MODEL = "llama3.3:70b"  # Best general model on Studio
 
 # Promotional language patterns to detect
 PROMOTIONAL_WORDS = [
@@ -54,7 +64,7 @@ NOTABLE_DESIGNERS = [
 
 
 def run_ollama(prompt: str, model: str = "llama3.2:3b", timeout: int = 60) -> Optional[str]:
-    """Run a prompt through Ollama and return the response."""
+    """Run a prompt through local Ollama (Mac Mini) and return the response."""
     try:
         result = subprocess.run(
             ["ollama", "run", model],
@@ -73,8 +83,49 @@ def run_ollama(prompt: str, model: str = "llama3.2:3b", timeout: int = 60) -> Op
         return None
 
 
+def run_ollama_studio(prompt: str, model: str = None, timeout: int = 300) -> Optional[str]:
+    """Run a prompt through Mac Studio's Ollama (70B models) via HTTP API.
+    
+    Uses subprocess curl for reliable Tailscale connectivity.
+    """
+    model = model or MAC_STUDIO_MODEL
+    
+    try:
+        payload = json.dumps({
+            "model": model,
+            "prompt": prompt,
+            "stream": False,
+            "options": {
+                "num_predict": 2000,
+                "temperature": 0.3
+            }
+        })
+        
+        result = subprocess.run(
+            ['curl', '-s', '--max-time', str(timeout), '-X', 'POST',
+             '-H', 'Content-Type: application/json',
+             '-d', payload, f"{MAC_STUDIO_HOST}/api/generate"],
+            capture_output=True,
+            text=True,
+            timeout=timeout + 10
+        )
+        
+        if result.returncode != 0:
+            return None
+        
+        response_data = json.loads(result.stdout)
+        return response_data.get('response', '').strip()
+        
+    except subprocess.TimeoutExpired:
+        return None
+    except json.JSONDecodeError:
+        return None
+    except Exception:
+        return None
+
+
 def check_ollama_available() -> bool:
-    """Check if Ollama is running and available."""
+    """Check if local Ollama (Mac Mini) is running and available."""
     try:
         result = subprocess.run(
             ["ollama", "list"],
@@ -83,6 +134,23 @@ def check_ollama_available() -> bool:
             timeout=10
         )
         return result.returncode == 0
+    except:
+        return False
+
+
+def check_studio_available() -> bool:
+    """Check if Mac Studio Ollama is reachable."""
+    try:
+        result = subprocess.run(
+            ['curl', '-s', '--max-time', '5', f"{MAC_STUDIO_HOST}/api/tags"],
+            capture_output=True,
+            text=True,
+            timeout=10
+        )
+        if result.returncode == 0:
+            data = json.loads(result.stdout)
+            return len(data.get('models', [])) > 0
+        return False
     except:
         return False
 
@@ -780,8 +848,66 @@ def generate_issues_list(checks: Dict) -> List[str]:
     return issues
 
 
-def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = True, verbose: bool = False) -> Dict:
-    """Run full quality check on a page."""
+def run_deep_analysis(content: str, filepath: str, basic_result: Dict) -> Dict:
+    """Run deep analysis on Mac Studio's 70B model for escalated pages.
+    
+    This provides more nuanced analysis than the fast Mini checks:
+    - Better promotional language detection (understands context)
+    - Accuracy assessment (can reason about claims)
+    - Structure quality (not just presence of sections)
+    """
+    if not check_studio_available():
+        return {"available": False, "error": "Mac Studio not reachable"}
+    
+    # Build a focused prompt for the 70B model
+    issues_summary = "\n".join(f"- {i}" for i in basic_result.get('issues', [])[:10])
+    
+    prompt = f"""Analyze this Sierra games wiki page for quality issues.
+
+Current automated findings:
+{issues_summary}
+
+Focus on:
+1. Are there any factual claims that seem questionable or unsourced?
+2. Is the promotional language contextually appropriate (e.g., quoting a review) or genuinely promotional?
+3. Are there structural issues beyond missing sections?
+4. Any other quality concerns?
+
+Be brief. List only real issues, not false positives from automated checks.
+
+PAGE CONTENT:
+{content[:8000]}
+
+Respond with a JSON object:
+{{"issues": ["list of real issues"], "false_positives": ["automated flags that are actually OK"], "score_adjustment": 0}}
+"""
+    
+    response = run_ollama_studio(prompt)
+    if not response:
+        return {"available": True, "error": "No response from model"}
+    
+    # Try to parse JSON from response
+    try:
+        json_match = re.search(r'\{[\s\S]*\}', response)
+        if json_match:
+            return {"available": True, "analysis": json.loads(json_match.group())}
+        else:
+            return {"available": True, "raw_response": response[:500]}
+    except json.JSONDecodeError:
+        return {"available": True, "raw_response": response[:500]}
+
+
+def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = True, 
+                      verbose: bool = False, escalate: bool = False) -> Dict:
+    """Run full quality check on a page.
+    
+    Args:
+        filepath: Path to markdown file
+        flagship: Apply flagship standards (20+ citations)
+        use_llm: Use local LLM for promotional language check
+        verbose: Verbose output
+        escalate: Use Mac Studio 70B for deep analysis on flagged pages
+    """
     path = Path(filepath)
     
     if not path.exists():
@@ -801,7 +927,7 @@ def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = Tru
     if not flagship:
         flagship = is_flagship(content, filepath)
     
-    # Run all checks
+    # Run all checks (fast, on Mac Mini)
     checks = {
         # Original checks
         "citations": check_citations(content, flagship),
@@ -839,6 +965,16 @@ def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = Tru
         "needs_escalation": needs_escalation
     }
     
+    # Run deep analysis on Mac Studio if escalate is enabled and needed
+    if escalate and needs_escalation:
+        deep = run_deep_analysis(content, filepath, result)
+        result["deep_analysis"] = deep
+        
+        # Adjust score if deep analysis found false positives
+        if deep.get("analysis", {}).get("score_adjustment"):
+            result["score"] += deep["analysis"]["score_adjustment"]
+            result["score"] = max(0, min(100, result["score"]))  # Clamp 0-100
+    
     return result
 
 
@@ -847,6 +983,8 @@ def main():
     parser.add_argument("file", help="Markdown file to check")
     parser.add_argument("--flagship", action="store_true", help="Apply flagship standards (20+ citations)")
     parser.add_argument("--no-llm", action="store_true", help="Skip LLM analysis (faster)")
+    parser.add_argument("--escalate", action="store_true", 
+                        help="Use Mac Studio 70B for deep analysis on flagged pages")
     parser.add_argument("-v", "--verbose", action="store_true", help="Verbose output")
     parser.add_argument("--json", action="store_true", help="Output only JSON")
     
@@ -858,11 +996,20 @@ def main():
             print("Warning: Ollama not available, skipping LLM analysis", file=sys.stderr)
             args.no_llm = True
     
+    # Check Mac Studio availability if escalating
+    if args.escalate:
+        if not check_studio_available():
+            print("Warning: Mac Studio not reachable, escalation disabled", file=sys.stderr)
+            args.escalate = False
+        else:
+            print("Mac Studio available for deep analysis", file=sys.stderr)
+    
     result = run_quality_check(
         args.file,
         flagship=args.flagship,
         use_llm=not args.no_llm,
-        verbose=args.verbose
+        verbose=args.verbose,
+        escalate=args.escalate
     )
     
     if args.json:
@@ -880,8 +1027,27 @@ def main():
             for issue in result['issues']:
                 print(f"  - {issue}")
         
-        if result.get('needs_escalation'):
-            print("\n⚠️  Needs escalation to Claude for deeper review")
+        if result.get('needs_escalation') and not result.get('deep_analysis'):
+            print("\n⚠️  Needs escalation for deeper review (use --escalate)")
+        
+        # Show deep analysis results if available
+        if result.get('deep_analysis'):
+            deep = result['deep_analysis']
+            if deep.get('analysis'):
+                analysis = deep['analysis']
+                print("\n🔬 Deep Analysis (Mac Studio 70B):")
+                if analysis.get('false_positives'):
+                    print("  False positives (OK to ignore):")
+                    for fp in analysis['false_positives']:
+                        print(f"    ✓ {fp}")
+                if analysis.get('issues'):
+                    print("  Additional issues found:")
+                    for issue in analysis['issues']:
+                        print(f"    - {issue}")
+                if analysis.get('score_adjustment'):
+                    print(f"  Score adjusted by {analysis['score_adjustment']:+d}")
+            elif deep.get('error'):
+                print(f"\n⚠️  Deep analysis error: {deep['error']}")
         
         if args.verbose:
             print("\nDetailed checks:")
