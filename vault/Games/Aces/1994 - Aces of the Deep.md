@@ -125,3 +125,36 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 
 
 ## 
+## References
+
+[^ref-1]: [MobyGames Game Credits](https://www.mobygames.com/game/aces-of-the-deep/credits) – - Developer and platform information
+[^ref-2]: [Internet Archive Demo Version](https://archive.org/details/AcesoftheDeep_1020) – - Historical context quote
+[^ref-3]: [German Gaming Wiki](https://videospiele.fandom.com/wiki/Aces_of_the_Deep) – - Technical engine description
+[^ref-4]: [GOG Dreamlist Page](https://www.gog.com/dreamlist/game/aces-of-the-deep-1994) – - Game synopsis
+[^ref-5]: [Command Manual Archive](https://archive.org/stream/Command_Aces_Of_The_Deep_-_Manual/Command_Aces_Of_The_Deep_-_Manual_djvu.txt) – - Platform compatibility
+[^ref-6]: [SierraChest Game Database](https://www.sierrachest.com/index.php?a=games&id=212&title=aces-of-the-deep&fld=trailers) – - Series information
+[^ref-7]: [MobyGames User Review](https://www.mobygames.com/game/1171/aces-of-the-deep/user-review/2432761/) – - Strategic map description
+[^ref-8]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Aces_of_the_Deep) – - Video mode support
+[^ref-9]: [Internet Archive Manual](https://archive.org/details/Aces_of_the_Deep_-_Manual) – - Interface compartments from topic keywords
+[^ref-10]: [MobyGames Expansion](https://www.mobygames.com/game/10053/aces-of-the-deep-expansion-disk/) – - Expansion content
+[^ref-11]: [SUBSIM Interview](https://www.subsim.com/ssr/mikejone.html) – - Expansion Pack development timeline
+[^ref-12]: [GameSpot User Review](https://www.gamespot.com/aces-of-the-deep/user-reviews/2200-574412/) – - Ship and aircraft count
+[^ref-13]: [MobyGames Reviews](https://www.mobygames.com/game/1171/aces-of-the-deep/reviews/) – - Audio design praise
+[^ref-14]: [Wikipedia Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – - Computer Gaming World ranking
+[^ref-15]: [Internet Archive French Version](https://archive.org/details/Command_Aces_Of_The_Deep_-_French_Version_SierraFR) – - Game preservation
+[^ref-16]: [Internet Archive DOS CD](https://archive.org/details/aotd_20210102) – - DOS version preservation
+[^ref-17]: [Internet Archive Windows CD](https://archive.org/details/AODCD) – - Windows version preservation
+[^ref-18]: [Sierra Help Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - DOSBox compatibility installer
+[^ref-19]: [GOG Forum Discussion](https://www.gog.com/forum/general_archive/aces_of_the_deep) – - User preference discussion
+[^ref-20]: [Military History Wiki](https://military-history.fandom.com/wiki/Heinrich_Liebe) – - Historical reference to "Aces of the Deep list"
+[^ref-21]: [SierraChest Expansion Database](https://sierrachest.com/index.php?a=games&id=251&fld=publications) – - Expansion disk metadata
+[^ref-22]: [Sierra Help Maps](https://sierrahelp.com/Documents/Maps.html) – - Game map resources
+[^ref-23]: [MobyGames Cover Art](https://www.mobygames.com/game/aces-of-the-deep/cover-art/gameCoverId,518450/) – - Packaging information
+[^ref-24]: [SierraChest Engine Database](https://www.sierrachest.com/site/index.php?a=engines&id=15) – - Engine categorization
+[^ref-25]: [Internet Archive Manual](https://archive.org/details/Command_Aces_Of_The_Deep_-_Manual) – - Manual documentation
+[^ref-26]: [Internet Archive Video](https://archive.org/details/012385) – - Video content preservation
+[^ref-27]: [Encyclopaedia Disambiguation](https://encyclopaedia.fandom.com/de/wiki/AOD) – - Basic game identification
+[^ref-28]: [Forums Sierra Help](http://forums.sierrahelp.com/viewtopic.php?t=2183) – - Community support forum
+[^ref-29]: [GOG Command Wishlist](https://www.gog.com/dreamlist/game/command-aces-of-the-deep) – - Community voting for re-release
+[^ref-30]: [Magazines From Past](https://magazinesfromthepast.fandom.com/wiki/PC_Player_Issue_1) – - Historical magazine reference
+[^ref-31]: [MobyGames Main Page](https://www.mobygames.com/game/1171/) – - Primary database entry

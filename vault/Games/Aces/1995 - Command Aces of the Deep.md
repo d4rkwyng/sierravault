@@ -120,3 +120,35 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
 
 ## 
+## References
+
+[^ref-1]: [Old-Games.com](https://www.old-games.com/download/4200/command-aces-of-the-deep) – - Windows version details and release information
+[^ref-2]: [Amazon Customer Review](https://www.amazon.com/Aces-Deep-DOS/dp/0871770261) – - Steven Hildebrand review describing game atmosphere
+[^ref-3]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Aces_of_the_Deep) – - Series context and departure from flight simulation
+[^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=2967244194) – - Voice recognition feature description
+[^ref-5]: [Web Archive PC Gamer Review](https://web.archive.org/web/19990820035627/http://www.pcgamer.com:80/reviews/1340.html) – - William R. Trotter review
+[^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – - Computer Gaming World award and ranking information
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/4576/command-aces-of-the-deep/) – - Publisher information for Windows version
+[^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Aces_of_the_Deep) – - Platform compatibility information
+[^ref-9]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=967) – - Career progression and submarine types
+[^ref-10]: [GGMania Strategy Guide](https://www.ggmania.com/gimmecheat.php?cheat=292) – - Historical accuracy description
+[^ref-11]: [Internet Archive](https://archive.org/details/msdos_Aces_of_the_Deep_1994) – - Scenario periods and war timeline coverage
+[^ref-12]: [Free Game Empire](https://www.freegameempire.com/games/Aces-of-the-Deep) – - Adaptive AI and progression systems
+[^ref-13]: [Classic Reload](https://classicreload.com/aces-of-the-deep.html) – - Submarine compartment simulation details
+[^ref-14]: [Sierra Gamers](https://www.sierragamers.com/aces-of-the-deep/) – - Configurable difficulty options
+[^ref-15]: [MyAbandonware](https://www.myabandonware.com/game/aces-of-the-deep-2ed) – - Kriegsmarine War Grid map system
+[^ref-16]: [MobyGames Player Review](https://www.mobygames.com/game/1171/aces-of-the-deep/) – - Submarine systems management
+[^ref-17]: [Old Games SK](https://www.oldgames.sk/en/game/aces-of-the-deep/download/3801/) – - Game modes description
+[^ref-18]: [SUBSIM Review](https://www.subsim.com/ssr/commandaces.html) – - Career mode randomization features
+[^ref-19]: [Dynamix Fandom Wiki Expansion](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – - Type XXI submarine content
+[^ref-20]: [Tally Ho Corner](https://tallyhocorner.com/2024/11/review-reprise-aces-of-the-deep/) – - Operational challenges simulation approach
+[^ref-21]: [Play Classic Games](https://playclassic.games/games/simulation-dos-games-online/play-aces-of-the-deep-online/) – - Environmental factors affecting gameplay
+[^ref-22]: [Dynamix Fandom Wiki Command Version](https://dynamix.fandom.com/wiki/Command:_Aces_of_the_Deep) – - Computer Gaming World 5/5 score and award
+[^ref-23]: [HandWiki](https://handwiki.org/wiki/Software:Aces_of_the_Deep) – - Series transition from flight to submarine simulation
+[^ref-24]: [Wikidata](https://www.wikidata.org/wiki/Q1467531) – - Complete designer credits
+[^ref-25]: [Old-Games.com](https://www.old-games.com/download/4140/aces-of-the-deep) – - CD-ROM multimedia content description
+[^ref-26]: [MyAbandonware Command Version](https://www.myabandonware.com/game/command-aces-of-the-deep-mhh) – - Windows version enhancements
+[^ref-27]: [Sierra Help Wiki](http://wiki.sierrahelp.com/index.php/Aces_of_the_Deep_Technical) – - Graphics and audio hardware support
+[^ref-28]: [Metacritic](https://www.metacritic.com/game/aces-of-the-deep/) – - Voice control technology description
+[^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – - Stability issues and compatibility problems
+[^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/aces-of-the-deep) – - Continuing player preference and legacy status
