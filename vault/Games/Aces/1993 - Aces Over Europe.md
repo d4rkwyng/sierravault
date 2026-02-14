@@ -97,7 +97,7 @@ The game has been discussed in community forums[^ref-28] and manual preservation
 ## See Also
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
 - [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
-- [[Red Baron]] - Related Dynamix flight sim
+- [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 
 ## Legacy
 

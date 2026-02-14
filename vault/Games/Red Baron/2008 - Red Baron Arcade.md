@@ -203,7 +203,7 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 ## See Also
 - **Next:** None (final entry in series)
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
-- [[Aces]] - Related flight sim series
+- [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 
 ## References
 

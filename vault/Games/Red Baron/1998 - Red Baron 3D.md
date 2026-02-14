@@ -114,7 +114,7 @@ An amusing piece of trivia emerged years after release when someone successfully
 - **Original:** [[1990 - Red Baron]]
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
-- [[Aces]] - Related flight sim series
+- [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 
 ## References
 

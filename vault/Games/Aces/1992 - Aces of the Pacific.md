@@ -113,7 +113,7 @@ The Sierra Chest archives provide extensive documentation of the game's various 
 
 ## See Also
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
-- [[Red Baron]] - Related Dynamix flight sim
+- [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 
 ## Legacy
 

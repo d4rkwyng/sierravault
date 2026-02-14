@@ -256,7 +256,7 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 ## See Also
 - [[1990 - Red Baron|← Previous: Red Baron]]
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
-- [[Aces]] - Related flight sim series
+- [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 
 ## References
 

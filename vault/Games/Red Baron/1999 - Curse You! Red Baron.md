@@ -216,7 +216,7 @@ The game also illustrates the challenges faced by flight simulation developers i
 ## See Also
 - [[1998 - Red Baron 3D|← Previous: Red Baron 3D]]
 - [[2008 - Red Baron Arcade|→ Next: Red Baron Arcade]]
-- [[Aces]] - Related flight sim series
+- [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 
 ## References
 

@@ -117,7 +117,7 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 
 ## See Also
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
-- [[Red Baron]] - Related Dynamix flight sim
+- [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 
 ## References
 
