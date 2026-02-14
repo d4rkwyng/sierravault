@@ -279,3 +279,52 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 - [[2000 - Ricochet|→ Next: Ricochet]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores
+[^ref-2]: [MobyGames – Gunman Chronicles](https://www.mobygames.com/game/2612/gunman-chronicles/) – technical specs, ratings, trivia about development and German censorship
+[^ref-3]: [Grokipedia – Gunman Chronicles](https://grokipedia.com/page/Gunman_Chronicles) – team age, ICQ coordination, Valve investment
+[^ref-36]: [PC Gamer – What happened to the creator of Gunman Chronicles](https://www.pcgamer.com/games/fps/what-happened-to-the-creator-of-gunman-chronicles-valves-forgotten-fps-my-relationship-with-gabe-didnt-really-go-that-great/) – Flower interview, Valve funding, development conditions
+[^ref-5]: [Amazon US – Gunman Chronicles](https://www.amazon.com/Gunman-Chronicles-PC/dp/B00004ZBO4) – customer reviews, physics innovation quote
+[^ref-6]: [Internet Archive – Zomb's Lair](https://archive.org/details/GunmanChronicles-ZombsLair) – Xash3D engine, preservation project
+[^ref-7]: [Gunman Chronicles Official Website](https://www.gunmanchronicles.com/) – game description, Xenome backstory
+[^ref-8]: [Internet Archive – Game Manual](https://archive.org/stream/Gunman_Chronicles_Manual/Gunman_Chronicles_Manual_djvu.txt) – backstory, system requirements
+[^ref-11]: [ModDB – Gunman Chronicles](https://www.moddb.com/games/gunman-chronicles) – Banzure Prime backstory, General's sacrifice
+[^ref-10]: [IMDB – Gunman Chronicles](https://www.imdb.com/title/tt0280718/) – voice cast, plot summary, user reviews
+[^ref-12]: [Half-Life Fandom Wiki](https://half-life.fandom.com/wiki/Gunman_Chronicles) – Starship Troopers comparison, opening scene
+[^ref-13]: [TV Tropes – Gunman Chronicles](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GunmanChronicles) – weapon configurations, Xenome bioweapon revelation
+[^ref-14]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=126&title=gunman-chronicles&fld=walkthrough&pid=113) – Mainframe AI quote
+[^ref-15]: [Eurogamer Review](https://www.eurogamer.net/r-gunchron) – review score, storyline praise
+[^ref-16]: [Just Games Retro](https://www.justgamesretro.com/win/gunman-chronicles) – "B action movie" assessment
+[^ref-27]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/370639-gunman-chronicles/faqs/46230) – engine description, gameplay notes
+[^ref-18]: [MyAbandonware – Gunman Chronicles](https://www.myabandonware.com/game/gunman-chronicles-bgo) – level count, first GoldSrc license, uniform description
+[^ref-19]: [Collection Chamber](https://collectionchamber.blogspot.com/p/gunman-chronicles.html) – Mod Expo presentation, four worlds
+[^ref-20]: [Rock Paper Shotgun – Have You Played](https://www.rockpapershotgun.com/have-you-played-gunman-chronicles) – dinosaur memory, nostalgia quote, rights uncertainty
+[^ref-21]: [Web Archive – CD Mag Review](https://web.archive.org/web/20030704120239/http://www.cdmag.com/articles/031/062/gunmanchro-r.html) – 8 hour completion time
+[^ref-22]: [GameSpot Review](https://www.gamespot.com/reviews/gunman-chronicles-review/1900-2660189/) – 15 hour estimate, grassroots encouragement quote, remote development
+[^ref-30]: [Game Over Online Review](https://www.game-over.net/reviews/pc/Gunman_Chronicles.html) – configurable weapons description
+[^ref-26]: [IGN Review](https://www.ign.com/articles/2000/12/05/gunman-chronicles) – 32 weapon variations
+[^ref-25]: [Web Archive – Electric Playground](https://web.archive.org/web/20030516190817/http://www.elecplay.com/review.html?article=5070&full=1) – weapon system quote, Civil War aesthetic
+[^ref-28]: [GameSpot Announcement](https://www.gamespot.com/articles/sierra-unveils-gunman-chronicles/1100-2623257/) – multiplayer support, AI features
+[^ref-29]: [Metacritic – Gunman Chronicles](https://www.metacritic.com/game/gunman-chronicles/) – aggregate scores, individual publication scores
+[^ref-31]: [Web Archive – CNET Gamecenter](https://web.archive.org/web/20010129044500/http://www.gamecenter.com/Reviews/Item/0,6,0-5089,00.html) – review score and critique
+[^ref-32]: [GameRevolution Review](https://www.gamerevolution.com/review/32727-gunman-chronicles-review) – low score, Half-Life comparison
+[^ref-33]: [Web Archive – AllGame Review](https://web.archive.org/web/20141115070206/http://www.allgame.com/game.php?id=28610&tab=review) – predictability criticism
+[^ref-34]: [Amazon UK](https://www.amazon.co.uk/Sierra-UK-Gunman-Chronicles-PC/dp/B0000507NX) – UK release date, UK ratings
+[^ref-35]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/gunman-chronicles) – Sierra negotiations
+[^ref-37]: [PCGamesN Interview](https://www.pcgamesn.com/gunman-chronicles/valve-fps-interview) – 11% earnings, Jeff Lane value, team dissolution quotes
+[^ref-38]: [IMDB Full Credits](https://www.imdb.com/title/tt0280718/fullcredits/) – complete development credits, voice cast
+[^ref-39]: [PCGamingWiki – Gunman Chronicles](https://www.pcgamingwiki.com/wiki/Gunman_Chronicles) – technical issues, DRM, Steam key activation
+[^ref-40]: [Steam Community Discussion](https://steamcommunity.com/app/70/discussions/0/1746720717348696940/) – crash bug, demo levels
+[^ref-41]: [Web Archive – IGN Database](https://web.archive.org/web/20160322023425/http://www.ign.com/games/gunman-chronicles/gcn-855781) – cancelled GameCube version
+[^ref-42]: [GameCopyWorld](https://gamecopyworld.com/games/pc_gunman_chronicles.shtml) – regional release dates, version numbers
+[^ref-43]: [Next Dimension – Steam Patch](http://www.nextdimension.org/gunmantosteam/) – patch details, version dates
+[^ref-44]: [The Cutting Room Floor](https://tcrf.net/Gunman_Chronicles) – Impulse 99 easter egg, development history
+[^ref-45]: [Sounds Resource](https://www.sounds-resource.com/pc_computer/gunmanchronicles/) – alternative game names
+[^ref-46]: [GitHub – Xash3D Issue](https://github.com/FWGS/xash3d/issues/296) – Linux compatibility discussion
+[^ref-47]: [ModDB – Sandbot](https://www.moddb.com/games/gunman-chronicles/downloads/sandbot-v042) – bot mod, accuracy complaints
+[^ref-48]: [Speedrun.com Resources](https://www.speedrun.com/gmc/resources) – speedrun tools
+[^ref-49]: [Reddit – Abandonware Discussion](https://www.reddit.com/r/HalfLife/comments/30gh8r/since_gunman_chronicles_is_clearly_abandonware/) – server status, rights situation
+[^ref-50]: [eBay Manual Listing](https://www.ebay.com/itm/145032850799) – manual page count
+[^ref-51]: [Obscuritory](https://obscuritory.com/shooter/gunman-chronicles/) – "break the mold" analysis, escalating scale quote
+[^ref-52]: [Steam Community – OBM Discussion](https://steamcommunity.com/app/311810/discussions/0/3764482382516180372/) – no remake plans

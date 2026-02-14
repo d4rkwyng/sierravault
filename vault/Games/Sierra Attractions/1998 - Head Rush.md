@@ -209,3 +209,25 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 - [[1997 - Eat My Dust|← Previous: Eat My Dust]]
 
 ## 
+## References
+
+[^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia
+[^ref-2]: [Sierra Chest – Head Rush](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=box) – publisher, platform, bundling information, demo details, UPC
+[^ref-3]: [Metacritic – Head Rush](https://www.metacritic.com/game/head-rush/) – tagline, release date, developer
+[^ref-4]: [MobyGames – Head Rush](https://www.mobygames.com/game/3639/head-rush/) – gameplay details, technical specs, ratings, sticker trivia, multiplayer info
+[^ref-5]: [MobyGames User Review – Adam Baratz](https://www.mobygames.com/game/3639/head-rush/reviews/) – critical analysis of humor shift, comparison to YDKJ
+[^ref-6]: [Never Die Media – Head Rush](https://www.neverdiemedia.com/products/head-rush) – question format, scoring system, player setup
+[^ref-7]: [Washington Apple Pi Journal – Head Rush Review](https://www.wap.org/journal/headrush/headrush.html) – technical requirements, music credits, content warning, rating
+[^ref-8]: [Amazon – Head Rush Card Game](https://www.amazon.com/Head-Rush-Mindfulness-Awareness-Communication/dp/B088KL8JRD) – gameplay description (different product, same name)
+[^ref-9]: [My Abandonware – Head Rush](https://www.myabandonware.com/game/head-rush-d94) – alternate title, availability status, user ratings
+[^ref-10]: [Steam Store Search](https://store.steampowered.com/search/?term=Head+Rush) – Steam release date, digital availability
+[^ref-11]: [PCGamingWiki – You Don't Know Jack: Head Rush](https://www.pcgamingwiki.com/wiki/You_Don't_Know_Jack:_Head_Rush) – system requirements, regional restrictions, release date
+[^ref-12]: [Macintosh Repository – Head Rush](https://www.macintoshrepository.org/5804-head-rush) – Mac platform support, file sizes, OS compatibility
+[^ref-13]: [Dynamix Fandom Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – Sierra publishing history, company structure
+[^ref-14]: [Wikipedia – You Don't Know Jack (franchise)](https://en.wikipedia.org/wiki/You_Don%27t_Know_Jack_(franchise)) – series history, release dates, franchise overview
+[^ref-15]: [GameFAQs – You Don't Know Jack: Head Rush](https://gamefaqs.gamespot.com/pc/195879-you-dont-know-jack-head-rush) – release information, platform data
+[^ref-16]: [Internet Archive – YDKJ Series](https://archive.org/search?query=you+don%27t+know+jack+headrush) – preservation, historical downloads
+[^ref-17]: Steam Store – You Don't Know Jack HeadRush (removed from store) – formerly available at app/252880, no longer listed
+[^ref-18]: [Jellyvision/Jackbox Games](https://www.jackboxgames.com/) – developer history, company information
+[^ref-19]: [Berkeley Systems History](https://en.wikipedia.org/wiki/Berkeley_Systems) – developer background, Flying Toasters legacy
+[^ref-20]: [Sierra Attractions Label](https://sierrachest.com/index.php?a=games&f=Sierra%20Attractions) – Sierra's casual games publishing division

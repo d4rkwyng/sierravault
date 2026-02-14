@@ -220,3 +220,16 @@ From a historical perspective, WizType demonstrates how early educational softwa
 - [[1992 - Ready, Set, Read with Bananas & Jack|→ Next: Ready, Set, Read with Bananas & Jack]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release date, platforms, gameplay description, genre classification
+[^ref-2]: [MobyGames – Wizard of Id's WizType](https://www.mobygames.com/game/9299/wizard-of-ids-wiztype/) – developer credits, technical specifications, user ratings, cancelled ColecoVision version, comic strip creators
+[^ref-4]: [MyAbandonware – Wizard of Id's WizType](https://www.myabandonware.com/game/wizard-of-id-s-wiztype-3u6) – file sizes, platform versions, user ratings, abandonware status
+[^ref-5]: [Steemit – The Wizard of Id's WizType](https://steemit.com/retrocomputing/@darth-azrael/the-wizard-of-id-s-wiztype) – historical context, game features, gameplay description
+[^ref-6]: [Apple II Bits – Wizard of Id](https://www.apl2bits.net/2014/02/03/wizard-of-id/) – gameplay details, Evil Spirit and Bung sections, WizMath companion game, comic strip history
+[^ref-7]: [Sierra Gamers – Wizard of Id WizType](https://www.sierragamers.com/wizard-of-id-wiztype/) – designer credits, educational market context
+[^ref-8]: [Apple II History – 1984](https://www.apple2history.org/appendix/aha/aha84/) – Apple II software catalog, educational software context
+[^ref-9]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Wizard_of_Ids_Wiztype_1984_Sierra_On_Line_US) – Atari version preservation
+[^ref-10]: [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line) – Commodore 64 documentation
+[^ref-11]: [Wikidata – Wizard of Id's WizType](https://www.wikidata.org/wiki/Q56335067) – structured data, identifiers
+[^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog

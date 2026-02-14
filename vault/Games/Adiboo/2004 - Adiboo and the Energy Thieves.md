@@ -181,3 +181,24 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Energy Thieves](https://www.mobygames.com/game/138556/the-energy-thieves/) – developer, publisher, engine, credits, game description, designer credits
+[^ref-2]: [GameFAQs – Adiboo and the Energy Thieves](https://gamefaqs.gamespot.com/ps2/919615-adiboo-and-the-energy-thieves) – release date, platforms, user ratings, playtime
+[^ref-3]: [HowLongToBeat – User Review](https://howlongtobeat.com/game/31529/reviews/latest/1) – user review, gameplay description, score
+[^ref-4]: [IGN – Adiboo and the Energy Thieves](https://www.ign.com/games/adiboo-and-the-energy-thieves) – developer, publisher, game summary
+[^ref-5]: [TheGamer – Terrible Bad Games I Played](https://www.thegamer.com/terrible-bad-games-i-played-weirdly-nostalgic-for/) – retrospective review, edutainment context
+[^ref-6]: [The Casual Gamer Blog – Adiboo](https://thecasualgamernet.wordpress.com/tag/adiboo/) – retrospective criticism, development context, competition analysis
+[^ref-7]: [Every Game Going – OPS2M Review](https://www.everygamegoing.com/larticle/adiboo-and-the-energy-thieves/58125) – Official UK PlayStation 2 Magazine review quote
+[^ref-8]: [PSX DataCenter – SLES-52521](https://psxdatacenter.com/psx2/games2/SLES-52521.html) – technical specifications, release date, gameplay features, manufacturer description
+[^ref-9]: [Amazon UK Product Listing](https://www.amazon.co.uk/Sierra-UK-Energy-Thieves-PC/dp/B00009QI52) – UK release date, platforms, customer review, game features
+[^ref-10]: [MobyGames – Reviews](https://www.mobygames.com/game/138556/the-energy-thieves/reviews/) – critic score aggregate
+[^ref-11]: [Backloggd – Adiboo and the Energy Thieves](https://backloggd.com/games/adiboo-and-the-energy-thieves/) – user ratings, platforms, publishers, user statistics
+[^ref-12]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer information, release year
+[^ref-13]: [Old Games Download](https://oldgamesdownload.com/adiboo-and-the-energy-thieves/) – German title, technical issues, file size, publishers
+[^ref-14]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/images/58713-adiboo-and-the-energy-thieves) – regional releases, release date
+[^ref-15]: [Metacritic – Adiboo and the Energy Thieves](https://www.metacritic.com/game/adiboo-and-the-energy-thieves/) – platforms, release date, developer, publisher
+[^ref-16]: [Video Games Museum](https://www.video-games-museum.com/en/game/Adiboo-and-the-Energy-Thieves/80/2/49356/reviews) – platform confirmation, developer
+[^ref-17]: [Backloggd – Coktel Vision](https://backloggd.com/company/coktel-vision/trending/) – developer confirmation
+[^ref-18]: [TV Tropes – Coktel Vision](https://tvtropes.org/pmwiki/pmwiki.php/Creator/CoktelVision) – developer catalog listing
+[^ref-19]: [GameFAQs – Video Page](https://gamefaqs.gamespot.com/ps2/919615-adiboo-and-the-energy-thieves/videos/1212206) – release date confirmation

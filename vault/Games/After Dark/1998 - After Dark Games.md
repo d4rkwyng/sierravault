@@ -197,3 +197,32 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 - [[1991 - More After Dark|← Previous: More After Dark]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) - General overview, New York Times quote, game descriptions
+[^ref-2]: [Internet Archive - After Dark Games 1998](https://archive.org/details/after-dark-games-1998-berkeley-systems-mac-pc) - Release information and developer credits
+[^ref-3]: [Internet Archive - After Dark Games](https://archive.org/details/after-dark-games) - Platform and release data, product description
+[^ref-4]: [Encyclopedia.pub - After Dark](https://encyclopedia.pub/entry/history/show/75652) - Development history
+[^ref-5]: [NeverDieMedia - After Dark Games](https://www.neverdiemedia.com/products/after-dark-games) - Graphics and music quality assessment
+[^ref-7]: [Low End Mac - "Aggressively Stupid" Interview](https://lowendmac.com/2007/aggressively-stupid-the-story-behind-after-dark/) - Jack Eastman interview, Flying Toasters origin, Berkeley Systems history
+[^ref-8]: [GameFAQs - After Dark Games](https://gamefaqs.gamespot.com/pc/189342-after-dark-games) - Developer information, game descriptions, user ratings
+[^ref-9]: [Amazon - After Dark Games](https://www.amazon.com/After-Dark-Games-mac-pc/dp/B00001N2OU) - Publisher information, user reviews
+[^ref-10]: [PC Gaming Wiki - After Dark Games](https://www.pcgamingwiki.com/wiki/After_Dark_Games) - Platform compatibility, controls
+[^ref-11]: [Games Database LaunchBox](https://gamesdb.launchbox-app.com/games/details/129638-after-dark-games) - Individual game descriptions
+[^ref-12]: [Old-Games.com - After Dark Games](https://www.old-games.com/download/8862/after-dark-games) - Gameplay overview
+[^ref-13]: [MobyGames Credits](https://www.mobygames.com/game/4821/after-dark-games/credits/) - Full development credits
+[^ref-14]: [MyAbandonware - After Dark Games](https://www.myabandonware.com/game/after-dark-games-3fu) - Interface description, marketing quotes
+[^ref-15]: [RAWG Database](https://rawg.io/games/after-dark-games) - Modern user ratings
+[^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/after-dark-games-review/1900-2537844/) - Contemporary critical assessment, Nicole Freeman review
+[^ref-18]: [MobyGames Player Reviews](https://www.mobygames.com/game/4821/after-dark-games/) - Aggregate critics rating, player reviews
+[^ref-19]: [Speedrun.com Leaderboards](https://www.speedrun.com/adg) - Competitive community activity
+[^ref-20]: [Apple Discussions - Compatibility](https://discussions.apple.com/thread/966505) - Intel Mac issues, Mushu Tiles unavailability
+[^ref-21]: [Macintosh Repository](https://www.macintoshrepository.org/3569-after-dark-games) - System requirements, file specifications
+[^ref-22]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Modern system compatibility
+[^ref-23]: [HandWiki - After Dark History](https://handwiki.org/wiki/Software:After_Dark) - Cultural impact context
+[^ref-24]: [Old Games Download](https://oldgamesdownload.com/after-dark-games/) - Community preservation efforts, user comments
+[^ref-25]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/after-dark-games) - User preservation requests, nostalgia quotes
+[^ref-26]: [Speedrun.com - Toaster Run](https://www.speedrun.com/adg/runs/z0p9ee4y) - Specific speedrun submission
+[^ref-27]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/189342-after-dark-games/cheats) - Easter eggs and hidden features
+[^ref-28]: [Steam Search](https://store.steampowered.com/search/?term=After+Dark+Games) - Digital availability status
+[^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo information, bundling details

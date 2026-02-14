@@ -252,3 +252,39 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|→ Next: Freddy Pharkas - Frontier Pharmacist]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, The Games Machine review score, Planetstation Magazine quote
+[^ref-2]: [MobyGames – Zeliard](https://www.mobygames.com/game/189/zeliard/) – developer, publisher, platforms, composers, technical specs, user reviews, cut content
+[^ref-3]: [Hardcore Gaming 101 – Zeliard](http://www.hardcoregaming101.net/zeliard/) – release timeline, difficulty changes in DOS version, graphics modes, box art tagline
+[^ref-4]: [Comma Eight Comma One – Zeliard Review](https://commaeightcommaone.wordpress.com/2015/06/11/zeliard-review/) – review score, technical compatibility, soundtrack praise
+[^ref-5]: [Internet Archive – MS-DOS Zeliard](https://archive.org/details/msdos_Zeliard_1990) – game description, plot summary
+[^ref-6]: [MyAbandonware – Zeliard](https://www.myabandonware.com/game/zeliard-21d) – user rating, Zelda II comparison quote, Sierra/Game Arts partnership context
+[^ref-7]: [The Cutting Room Floor – Zeliard (DOS)](https://tcrf.net/Zeliard_(DOS)) – version differences, SCI0 engine, save file size, hidden strings, difficulty comparison
+[^ref-8]: [TV Tropes – Zeliard](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Zeliard) – Josh Mandel credit, plot summary
+[^ref-9]: [Internet Archive – ZELIARD](https://archive.org/details/ZELIARD) – MobyGames description, platform information
+[^ref-10]: [ClassicReload – Zeliard](https://classicreload.com/zeliard.html) – plot details, Nine Tears of Esmesanti
+[^ref-11]: [Abandonware DOS – Zeliard FAQ](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849) – gameplay description, secret locations, items, banking system
+[^ref-12]: [GameFAQs – Zeliard Walkthrough](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs/9990) – town/cavern listings, boss names, item listings, fan club reference
+[^ref-13]: [Cheatbook – Zeliard Boss Guide](https://www.cheatbook.de/wfiles/zeliardboss.htm) – boss strategies, El Pollo Diablo quote, inventory limit
+[^ref-14]: [GameFAQs – Zeliard FAQs](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs) – Jashiin quote, community maps
+[^ref-15]: [Zeliard Game Tripod – About](https://zeliardgame.tripod.com/about/index.html) – controls, gameplay quote
+[^ref-16]: [VOGONS Forum – Zeliard Discussion](https://www.vogons.org/viewtopic.php?p=1383593) – joystick issues, version 2.0 fix
+[^ref-17]: [MobyGames – Zeliard Trivia](https://www.mobygames.com/game/189/zeliard/trivia/) – F1 key functionality, screen redrawing technique, PC Speaker channels
+[^ref-18]: [CRPG Addict – Zeliard: Not Enough Dexterity](http://crpgaddict.blogspot.com/2011/01/zeliard-not-enough-dexterity.html) – death penalty, color-coded doors, boss descriptions
+[^ref-19]: [Sierra Help – Zeliard Walkthrough](https://sierrahelp.com/Walkthroughs/ZeliardWalkthrough.html) – Sage system, controls, banking
+[^ref-20]: [Neoseeker – Zeliard Boss FAQ](https://www.neoseeker.com/zeliard/faqs/99033-boss.html) – Vista boss strategy, difficulty quotes
+[^ref-21]: [CRPG Addict – Game 46: Zeliard](http://crpgaddict.blogspot.com/2011/01/game-46-zeliard-1987.html) – Spanish naming, graphics/sound assessment, score
+[^ref-22]: [Free Game Empire – Zeliard](https://www.freegameempire.com/games/Zeliard) – Game Arts founding date, user rating
+[^ref-23]: [PixelatedArcade – Zeliard](https://pixelatedarcade.com/news/zeliard) – review score, audio hardware options
+[^ref-24]: [Game Arts Official Site (Archived)](https://web.archive.org/web/20150924020557/http://www.gamearts.co.jp/products/pc-zeliard.html) – original price, sprite counts, Japanese marketing quotes
+[^ref-25]: [VGMRips – Zeliard Tandy 1000](https://vgmrips.net/packs/pack/zeliard-tandy-1000) – additional composer credits, sound chip specifications
+[^ref-26]: [KHInsider – Zeliard PC-8801](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801) – soundtrack track count, duration, OPNA version
+[^ref-27]: [PCGamingWiki – Zeliard](https://www.pcgamingwiki.com/wiki/Zeliard) – RAM requirements, video modes, DOSBox issues
+[^ref-28]: [Speedrun.com – Zeliard Guide](https://www.speedrun.com/zeliard/guides/zwjuc) – DOSBox cycles recommendation, speed settings
+[^ref-29]: [PC Gamer – Worst PC Game Box Art](https://www.pcgamer.com/the-worst-pc-game-box-art-ever/) – box art criticism quote
+[^ref-30]: [VJ Army – Zeliard](https://vjarmy.com/archives/2013/06/zeliard.php) – Japanese gaming exposure, Game Arts legacy
+[^ref-31]: [GOG Dreamlist – Zeliard](https://www.gog.com/dreamlist/game/zeliard) – digital availability status
+[^ref-32]: [Zeliard Game Tripod – Projects](https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
+[^ref-33]: [Abandonware DOS – Zeliard Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849) – manual content, installation instructions
+[^ref-34]: [KHInsider – Zeliard MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987) – MT-32 recording details, track listing

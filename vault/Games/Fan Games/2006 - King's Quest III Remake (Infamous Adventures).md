@@ -189,3 +189,25 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 - [[2008 - Quest for Glory II VGA Remake|→ Next: Quest for Glory II VGA Remake]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – developer information, game list, platform details
+[^ref-2]: [Old-Games.com – King's Quest III Download Page](https://www.old-games.com/download/9808/king-s-quest-iii-to-heir-is-human) – remake features, developer quote, difficulty description, technical specifications
+[^ref-3]: [Wayback Machine – Infamous Adventures Website Archive](https://web.archive.org/web/2023/https://www.infamous-adventures.com/) – company description, game portfolio
+[^ref-4]: [Infamous Adventures itch.io – King's Quest III VGA Remake](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) – distribution platform, user ratings, technical issues, pricing model
+[^ref-5]: [Adventure Game Studio – King's Quest III Redux Database Entry](https://www.adventuregamestudio.co.uk/play/game/1413-king-s-quest-iii-redux-to-heir-is-human/) – engine information, AGS Awards, community ratings, user reviews
+[^ref-6]: [GameFAQs – King's Quest III Redux](https://gamefaqs.gamespot.com/pc/620222-kings-quest-iii-redux) – release date, developer/publisher, user ratings, game description
+[^ref-7]: [Internet Archive – King's Quest III Fan Remake](https://archive.org/details/kings-quest-iii-fan-remake) – preservation copy, developer attribution
+[^ref-8]: [MobyGames – King's Quest III Redux: To Heir Is Human](https://www.mobygames.com/game/50631/kings-quest-iii-redux-to-heir-is-human/) – AGD Interactive version release date, platform information
+[^ref-9]: [Metacritic – King's Quest III Redux](https://www.metacritic.com/game/kings-quest-iii-redux/) – AGD Interactive version metadata
+[^ref-10]: [Neoseeker – King's Quest III Redux Review](https://www.neoseeker.com/Articles/Games/Reviews/kingsquest3_redux/) – gameplay improvements reference
+[^ref-11]: [Infamous Adventures itch.io Profile](https://infamousadventures.itch.io/) – company description, available games
+[^ref-12]: [Giant Bomb](https://www.giantbomb.com/kings-quest-iii-to-heir-is-human/3030-16093/) – game database with wiki info
+[^ref-13]: [IGDB](https://www.igdb.com/games/kings-quest-iii-to-heir-is-human) – Internet Game Database entry
+[^ref-14]: [King's Quest Omnipedia](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – wiki documentation
+[^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – Sierra wiki entry
+[^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – technical compatibility info
+[^ref-17]: [AGD Interactive](https://www.agdinteractive.com/games/kq3/) – related remake information
+[^ref-18]: [Wikidata](https://www.wikidata.org/wiki/Q849887) – structured metadata
+[^ref-19]: [Wikipedia - King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III:_To_Heir_Is_Human) – original game encyclopedia entry
+[^ref-20]: [UVList](https://www.uvlist.net/game-108419-kings-quest-iii-to-heir-is-human) – Universal Videogame List

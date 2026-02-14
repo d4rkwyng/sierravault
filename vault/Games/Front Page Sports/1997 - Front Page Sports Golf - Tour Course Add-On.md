@@ -235,3 +235,26 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – release dates, developers, publishers, designers, composers, critical reception, development history, technical details, known issues
+
+[^ref-2]: [GameSpot – Front Page Sports Golf Preview](https://www.gamespot.com/articles/front-page-sports-golf-preview/1100-2563196/) – developer background, TrueSwing interface, design philosophy, in-game audio quotes
+
+[^ref-3]: [VCF Forum – Front Page Sports Golf Add-On Courses Discussion](https://forum.vcfed.org/index.php?threads/front-page-sports-golf-add-on-courses-vol-1-no-2-specifically.1227038/) – add-on course volume identification, user testimonials, rarity of information
+
+[^ref-4]: [MobyGames – Front Page Sports: Golf](https://www.mobygames.com/game/3147/front-page-sports-golf/) – credits, voice cast, publishers, user reviews, aggregate ratings
+
+[^ref-5]: [Retro Replay – Front Page Sports: Golf](https://retro-replay.com/db/windows/front-page-sports-golf/) – retrospective review, SIGS connectivity, control systems, modern rating
+
+[^ref-6]: [GameSpot – Front Page Sports: Golf Review](https://www.gamespot.com/reviews/front-page-sports-golf-review/1900-2536105/) – technical specifications, resolution details, gameplay features, known issues, reviewer quotes
+
+[^ref-7]: [MyAbandonware – Front Page Sports: Golf](https://www.myabandonware.com/game/front-page-sports-golf-fyk) – regional releases, alternate titles, user comments, download availability, compatibility issues
+[^ref-8]: [Internet Archive – Front Page Sports: Golf](https://archive.org/details/FPSGOLF) – game preservation, original media
+[^ref-9]: [GameFAQs – Front Page Sports: Golf](https://gamefaqs.gamespot.com/pc/197402-front-page-sports-golf) – game information, user FAQs, platform details
+[^ref-10]: [Sierra Help Wiki – Front Page Sports: Golf](http://www.sierrahelp.com/Games/Golf/FPSGolf.html) – technical support, compatibility guides
+[^ref-11]: [Wikipedia – Headgate Studios](https://en.wikipedia.org/wiki/Headgate_Studios) – studio history, Sierra acquisition, game development
+[^ref-12]: [MobyGames – Headgate Studios](https://www.mobygames.com/company/4009/headgate-studios-inc/) – company credits, game portfolio, developer history
+[^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability
+[^ref-14]: [ESRB – Front Page Sports: Golf](https://www.esrb.org/ratings/36162/front-page-sports-golf/) – ESRB rating, content descriptors
+[^ref-15]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series information, Sierra publishing history

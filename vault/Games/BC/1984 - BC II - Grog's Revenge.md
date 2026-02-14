@@ -265,3 +265,49 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 - [[1983 - BC's Quest for Tires|← Previous: BC's Quest for Tires]]
 
 ## 
+## References
+
+[^ref-1]: [DBpedia – B.C. II: Grog's Revenge](https://dbpedia.org/page/B.C._II:_Grog's_Revenge) – publishers, developers, platforms, Canadian development origin
+
+[^ref-2]: [MobyGames – B.C. II: Grog's Revenge](https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/) – release dates, credits, ratings, awards for predecessor, Dougie Burns quote
+
+[^ref-3]: [C64-Wiki – B.C. II: Grog's Revenge](https://www.c64-wiki.com/wiki/B.C._II_-_Grog's_Revenge) – ratings, color scheme, warp tunnels, community quotes, comic origins
+
+[^ref-4]: [ClassicReload – B.C. II: Grog's Revenge](https://classicreload.com/c64-bc-ii-grogs-revenge.html) – story summary, clam collection mechanics, platforms
+
+[^ref-5]: [Steemit – C64 Game Memories](https://steemit.com/retro/@metallica73/c64-game-memories-revisited-30-years-later-b-c-ii-grogs-revenge) – gameplay comparison with predecessor, headlight observation, ending description
+
+[^ref-6]: [Wikipedia – B.C. II: Grog's Revenge](https://en.wikipedia.org/wiki/B.C._II%3A_Grog%27s_Revenge) – ratings, bugs, cancelled ports, Félix Espina fix, designers
+
+[^ref-7]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/129782-bc-ii-grogs-revenge) – story overview, Coleco Adam platform
+
+
+[^ref-9]: [Kotaku Games Database](https://kotaku.com/games/bc-ii-grogs-revenge) – story description, clam mechanics
+
+[^ref-10]: [MobyGames User Reviews](https://www.mobygames.com/game/10328/bc-ii-grogs-revenge/reviews/) – gameplay critique, difficulty assessment, ending description
+
+[^ref-11]: [Lemon64 – B.C. II: Grog's Revenge](https://www.lemon64.com/game/bc-2-grogs-revenge) – magazine reviews, technical specs, development credits, version history
+
+[^ref-12]: [Lemon64 User Review](https://www.lemon64.com/review/bc-2-grogs-revenge/1053) – control assessment, accessibility comments
+
+[^ref-13]: [Ghost Archive – MSX Longplay](https://ghostarchive.org/varchive/youtube/20211222/A_rwr9sHHKs) – level codes, easter egg, bug documentation, publishers
+
+[^ref-14]: [Every Game Going – Commodore User Review](https://www.everygamegoing.com/larticle/bc-ii-grogs-revenge-000/53412) – June 1985 review quotes, animation praise
+
+[^ref-15]: [My Abandonware](https://www.myabandonware.com/game/b-c-ii-grog-s-revenge-4jn) – file sizes, user ratings, regional releases, death animation quote
+
+[^ref-16]: [Internet Archive – Compute! Gazette September 1985](https://archive.org/details/1985-09-computegazette) – review mention in table of contents
+
+[^ref-17]: [Spectrum Computing](https://spectrumcomputing.co.uk/entry/13921/ZX-Spectrum/BC_II_Grogs_Revenge) – cancelled ZX Spectrum version, Doug Burns credit, advertised price
+
+[^ref-18]: [World of Spectrum](https://worldofspectrum.org/archive/software/games/bc-ii-grogs-revenge-us-gold-ltd) – unreleased status, Doug Burns involvement
+
+[^ref-19]: [MSX FX Blog](https://msxfx.blogspot.com/2019/02/nuevo-parcheo-bc-ii-grogs-revenge.html) – technical bug analysis, patch details, MSX1 capabilities quote
+
+[^ref-20]: [eStarland](https://www.estarland.com/product-description/colecovision/BC-II-Grogs-Revenge/32130) – ColecoVision release date, NTSC format
+
+[^ref-21]: [The Cutting Room Floor](https://tcrf.net/B.C.'s_Quest_for_Tires_II:_Grog's_Revenge_(ColecoVision)) – regional differences, removed credits screen
+
+[^ref-22]: [MSX.org Forum](https://www.msx.org/forum/msx-talk/development/grogs-revenge-for-the-msx-is-broken-impossible-to-fix) – bug reproduction details, community discussion
+
+[^ref-23]: [Generation MSX](https://www.generation-msx.nl/software/sierra-on-line-sydney/bc-ii---grogs-revenge/cheats/2601/) – Level F bug documentation

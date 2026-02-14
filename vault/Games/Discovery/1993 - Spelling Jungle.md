@@ -191,3 +191,37 @@ The game also stands as a testament to the challenges of software preservation, 
 - [[1993 - Turbo Learning - Mega Math|→ Next: Turbo Learning - Mega Math]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings
+[^ref-2]: [Wikipedia – Spelling Jungle](https://en.wikipedia.org/wiki/Spelling_Jungle) – target age, Computer Gaming World review quote, alternative titles
+[^ref-3]: [Retrolorean – Spelling Jungle](https://www.retrolorean.com/en/spelling-jungle-9654) – educational gaming impact, release information
+[^ref-4]: [Alchetron – Spelling Jungle](https://alchetron.com/Spelling-Jungle) – MobyGames rating, Allgame rating, version history, level count
+[^ref-5]: [Sierra Chest – Spelling Jungle](https://sierrachest.com/index.php?a=news&pid=444) – story summary, naming history, acquisition details, sequel information
+[^ref-6]: [MobyGames – Spelling Jungle Trivia](http://www.mobygames.com/game/spelling-jungle/trivia) – hidden development message about name change
+[^ref-7]: [Internet Archive – Basic Spell](https://archive.org/details/BASICSPELL) – product description, educational focus, features, target words
+[^ref-8]: [IGN Mac – Spelling Jungle](http://mac.ign.com/objects/849/849101.html) – Yobi character description
+[^ref-9]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/662/spelling-jungle/user-review/2534632/) – difficulty assessment, level count
+[^ref-10]: [Gamegas – Spelling Jungle](http://www.gamegas.com/Game-58250.html) – Yobi guidance description
+[^ref-11]: [ClassicReload – Spelling Jungle](https://classicreload.com/win3x-spelling-jungle-yobis-basic-spelling-tricks.html) – game description, publisher, level complexity
+[^ref-12]: [Reddit – r/tipofmyjoystick](https://www.reddit.com/r/tipofmyjoystick/comments/cee8oa/90s_pc_spelling_game_in_jungle/) – ending description, visual details
+[^ref-13]: [GameFAQs Walkthrough – Lord_Seth](https://gamefaqs.gamespot.com/pc/934972-spelling-jungle/faqs/44591) – controls, puzzle design philosophy
+[^ref-14]: [PlayClassic Games – Spelling Jungle](https://playclassic.games/games/educational-windows-games-online/spelling-jungle/) – gameplay mechanics, enemies, level structure
+[^ref-15]: [Justapedia – Spelling Jungle](https://justapedia.org/wiki/Spelling_Jungle) – Computer Gaming World review quotes
+[^ref-16]: [Los Angeles Times – December 3, 1993](https://www.latimes.com/archives/la-xpm-1993-12-03-va-63439-story.html) – spelling software review, pricing, age ranges
+[^ref-17]: [Reddit – r/Sierra](https://www.reddit.com/r/Sierra/comments/1gcne9s/spelling_blizzard_or_spelling_jungle/) – player testimony on spelling improvement
+[^ref-18]: [GOG Dreamlist – Spelling Blizzard](https://www.gog.com/dreamlist/game/spelling-blizzard-aka-yobis-advanced-spelling-tricks) – user assessment of lasting appeal
+[^ref-19]: [MyAbandonware – Spelling Jungle](https://www.myabandonware.com/game/spelling-jungle-fac) – user rating, alternative titles, download
+[^ref-20]: [GameFAQs – Spelling Jungle](https://gamefaqs.gamespot.com/pc/934972-spelling-jungle) – user ratings, release date, game length
+[^ref-21]: [Wikipedia – Bright Star Technology](https://en.wikipedia.org/wiki/Bright_Star_Technology) – company founders, Elon Gasper background
+[^ref-22]: [Steam Community – Artwork](https://steamcommunity.com/sharedfiles/filedetails/?id=1502731396) – image resolution, original title
+[^ref-23]: [UVList – Spelling Jungle](https://www.uvlist.net/game-211571-Spelling+Jungle+Yobis+Basic+Spelling+Tricks) – Mac technical specifications
+[^ref-24]: [Reddit – r/Sierra Emulation Discussion](https://www.reddit.com/r/Sierra/comments/udku98/how_is_it_so_hard_to_play_classic_sierra_games/) – emulation difficulties
+[^ref-25]: [LP Archive – Spelling Jungle](https://lparchive.org/Spelling-Jungle/) – Let's Play thread, nostalgic memories, emulation notes
+[^ref-26]: [Internet Archive – Spelling Blizzard](https://archive.org/details/spelling-blizzard-1996-sierra-mac-pc) – sequel information
+[^ref-27]: [Internet Archive – Basic Spell Alternative](https://archive.org/details/basic-spell) – archival record
+[^ref-28]: [Wikidata – Spelling Jungle](https://www.wikidata.org/wiki/Q7575894) – platform verification, publisher confirmation
+[^ref-29]: [TV Tropes – Spelling Jungle](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpellingJungle) – Yobi quote, version timeline
+[^ref-30]: [HandWiki – Spelling Jungle](https://handwiki.org/wiki/Software:Spelling_Jungle) – development history, acquisition details
+[^ref-31]: [GameSpot – Spelling Jungle](https://www.gamespot.com/games/spelling-jungle/cheats/) – release date confirmation
+[^ref-32]: [TV Tropes – Bright Star Technology](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternative titles, sequel reference

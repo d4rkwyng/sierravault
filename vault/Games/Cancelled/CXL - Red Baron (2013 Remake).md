@@ -226,3 +226,19 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 - **Next:** None (cancelled)
 
 ## 
+## References
+
+[^ref-1]: [Polygon – The Red Baron is Ready to Fly Again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) – Damon Slye interview, Kickstarter failure analysis, development plans
+[^ref-2]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – IP acquisition date, Kickstarter launch date, series history
+[^ref-3]: [MobyGames – Red Baron Reviews](https://www.mobygames.com/game/1766/red-baron/reviews/) – User reviews, critic scores, platform information
+[^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – Release dates, awards, sales figures, review scores
+[^ref-5]: [GamesNostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – Kickstarter amount raised, freeware release, editorial score
+[^ref-6]: [Sierra Classic Gaming – Red Baron Remake](https://sierraclassicgaming.com/game/red-baron-remake/) – System requirements, planned release date, Steam Greenlight
+[^ref-7]: [Red Baron Game Official Site](https://www.redbarongame.com/) – Development philosophy, team credits, business model
+[^ref-8]: [DOS Games Archive – Red Baron](https://www.dosgamesarchive.com/download/red-baron) – Official game description, mission types
+[^ref-9]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – Aircraft count, mission variety, release date
+[^ref-10]: [CD Projekt Red Forums – Red Baron Kickstarter Thread](https://forums.cdprojektred.com/index.php?threads/remake-of-the-red-baron-is-on-kickstarter.17147/) – Linux support, DRM-free plans
+[^ref-11]: [Steam Community – Red Baron Reviews](https://steamcommunity.com/app/263940/reviews/?browsefilter=toprated) – User testimonials, joystick compatibility, technical issues
+[^ref-12]: [IGN – Red Baron Arcade Review](https://www.ign.com/articles/2009/03/18/red-baron-arcade-review) – Review score, technical criticisms
+[^ref-13]: [GamesRadar – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – Review criticisms, technical issues
+[^ref-14]: [The Aerodrome Forums – Red Baron Discussion](https://theaerodrome.com/forum/showthread.php?t=48774) – Community patches, compatibility, retrospective opinions

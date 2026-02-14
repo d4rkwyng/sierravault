@@ -259,3 +259,48 @@ The game's influence extended beyond its immediate commercial success. The tilte
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|→ Next: Tank - The M1A1 Abrams Battle Tank Simulation]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Silpheed](https://en.wikipedia.org/wiki/Silpheed) – release dates, platform history, review scores, awards, development credits
+[^ref-2]: [Abandonware DOS – Silpheed](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Silpheed&gid=1055) – release information, rating, genre classification
+[^ref-3]: [ClassicReload – Silpheed](https://classicreload.com/silpheed.html) – technical specifications, 3D graphics description
+[^ref-4]: [Grokipedia – Silpheed](https://grokipedia.com/page/Silpheed) – hardware specifications, development context, platform history
+[^ref-5]: [Internet Archive – MS-DOS Silpheed](https://archive.org/details/msdos_Silpheed_1988) – gameplay description, music as selling point
+[^ref-6]: [Arksquare – Silpheed Soundtrack](https://arksquare.net/detail.php?cdno=SCDC-00521) – soundtrack release information
+[^ref-7]: [GameFAQs – Silpheed FAQ by Billy Lee](https://gamefaqs.gamespot.com/pc/579259-silpheed/faqs/11899) – gameplay mechanics, power-ups, development history, bundling information
+[^ref-8]: [AllGame Review (Archived)](https://web.archive.org/web/20141101093634/http://www.allgame.com/game.php?id=29109&tab=review) – sectional damage innovation, control methods
+[^ref-9]: [My Abandonware – Silpheed](https://www.myabandonware.com/game/silpheed-ik) – user ratings, critical quotes, version information
+[^ref-10]: [COMPUTE! Magazine Issue 112 (September 1989)](https://www.atarimagazines.com/compute/issue112/Silpheed.php) – contemporary review, gameplay description, technical specifications, price
+[^ref-11]: [Al Lowe's Sierra History](https://allowe.com/games/larry/inside-stories/sierra-history.html) – Sierra's international publishing strategy
+[^ref-12]: [Nintendo Life – EGGCONSOLE Guide](https://www.nintendolife.com/guides/what-is-eggconsole-full-game-list-pc-88-msx2-on-nintendo-switch-best-games-to-start) – Game Arts history
+[^ref-13]: [Pixelated Arcade – Silpheed](https://www.pixelatedarcade.com/games/silpheed) – development details, sound card bundling
+[^ref-14]: [MobyGames – Silpheed](https://www.mobygames.com/game/167/silpheed/) – comprehensive credits, ratings, technical specifications, version history
+[^ref-15]: [Nintendo UK – EGGCONSOLE Silpheed](https://www.nintendo.com/en-gb/Games/Nintendo-Switch-download-software/EGGCONSOLE-SILPHEED-PC-8801mkIISR-2502979.html) – modern re-release information
+[^ref-16]: [Hardcore Gaming 101 – Silpheed](http://www.hardcoregaming101.net/silpheed/) – comprehensive development history, port comparisons, technical analysis
+[^ref-17]: [HandWiki – Silpheed](https://handwiki.org/wiki/Software:Silpheed) – story summary, platform releases, review scores
+[^ref-18]: [Nintendo US Store – EGGCONSOLE Silpheed](https://www.nintendo.com/us/store/products/eggconsole-silpheed-pc-8801mkiisr-switch/) – game description, story summary
+[^ref-20]: [TV Tropes – Silpheed](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Silpheed) – series history, Xacalite quotes, Star Fox influence
+[^ref-21]: [GameFAQs Review by Kuro-chan_101](https://gamefaqs.gamespot.com/pc/579259-silpheed/reviews/157232) – level count, gameplay description
+[^ref-23]: [MobyGames Ad Blurbs](https://www.mobygames.com/game/167/silpheed/adblurbs/) – marketing descriptions, enemy types
+[^ref-25]: [MobyGames Credits](https://www.mobygames.com/game/167/silpheed/credits/pc88/) – voice cast information
+[^ref-27]: [The Spoiler – Silpheed FAQ](https://the-spoiler.com/ACTION/Sierra/silpheed.1.html) – Easter Egg power-up description
+[^ref-29]: [Amiga Magazine Rack – ACE Review](https://amr.abime.net/review_6922) – ACE magazine score and date
+[^ref-30]: [IGN – Silpheed Review (2008)](https://www.ign.com/articles/2008/07/24/silpheed-review) – retrospective analysis and score
+[^ref-31]: [IMDB – Silpheed](https://www.imdb.com/find/?q=Silpheed&s=tt) – user rating
+[^ref-32]: [Game Developer – History of Japanese Computer Games](https://www.gamedeveloper.com/business/history-of-japanese-computer-games) – developer interviews, Game Arts origins, Major Havoc influence
+[^ref-33]: [PC Gamer – Game Preservation Society Interview](https://www.pcgamer.com/game-preservation-society-japanese-pc-games-square-enix-game-arts/) – Joseph Redon quotes, development context
+[^ref-35]: [Sierra Chest – Silpheed](https://www.sierrachest.com/index.php?a=games&id=45&title=silpheed&fld=box&pid=4) – version history, media formats
+[^ref-37]: [KHInsider – Silpheed PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/silpheed-pc-8801) – soundtrack technical details
+[^ref-38]: [Archived Silpheed.org](https://web.archive.org/web/20141101093634/http://www.silpheed.org/silpheedPC.htm) – hidden minigames, cut content, technical specifications
+[^ref-39]: [MobyGames – TRS-80 CoCo Release](https://www.mobygames.com/game/167/silpheed/releases/trs-80-coco) – Synergistic Software port credit
+[^ref-40]: [Internet Archive – Sierra Software Distribution](https://archive.org/details/20220303_20220303_0527) – version 2.3 date
+[^ref-41]: [MobyGames – Apple IIgs Release](https://www.mobygames.com/game/167/silpheed/releases/apple2gs) – release date and region
+[^ref-42]: [VideoGameGeek – Silpheed Series](https://videogamegeek.com/videogameseries/5379/silpheed) – pronunciation guide
+[^ref-43]: [Hardcore Gaming 101 – Silpheed Sega CD](http://www.hardcoregaming101.net/silpheed-sega-cd/) – Star Fox comparisons, sequel story details
+[^ref-44]: [TV Tropes – Silpheed Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/Silpheed) – abandonware status, English voice acting
+[^ref-46]: [GOG Dreamlist – Silpheed](https://www.gog.com/dreamlist/game/silpheed) – DOSBox compatibility
+[^ref-47]: [VGMdb – Silpheed Official Game Music Sound](https://vgmdb.net/album/2097) – soundtrack album details
+[^ref-48]: [KHInsider – QY Sound of Game Arts](https://downloads.khinsider.com/game-soundtracks/album/silpheed-qy-sound-of-game-arts-2006) – arranged soundtrack information
+[^ref-50]: [Hardcore Gaming 101 – Silpheed PS2](http://www.hardcoregaming101.net/silpheed-ps2/) – The Lost Planet development, Treasure involvement
+[^ref-51]: [Wikipedia – Project Sylpheed](https://en.wikipedia.org/wiki/Project_Sylpheed) – spiritual successor information
+[^ref-52]: [Engadget – Silpheed Alternative](https://www.engadget.com/2011-08-08-silpheed-alternative-menace-from-beyond-the-stars-hits-android.html) – Android release

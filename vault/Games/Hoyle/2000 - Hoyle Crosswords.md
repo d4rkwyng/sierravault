@@ -142,3 +142,40 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 - [[2000 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – Related Hoyle series information, development team credits
+
+[^ref-2]: [Academic Kids – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Company division description, Sierra Attractions label
+
+[^ref-3]: [Amazon Product Page](https://www.amazon.com/Hoyle-Crosswords-PC-Mac/dp/B00004RJXL) – Game description and features, user reviews
+
+[^ref-4]: [GameSpot – Sierra Plans for Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Corporate context, strategic reorganization
+
+[^ref-5]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/200548/hoyle-casino/) – Platform information, series context
+
+[^ref-6]: [MobyGames – Hoyle Official Book Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Interface style reference, series origins
+
+[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – User sentiment, community interest
+
+[^ref-8]: [GameSpot – Sierra Shifts Course](https://www.gamespot.com/articles/sierra-shifts-course/1100-2804424/) – Corporate restructuring, Michael Ryder quotes
+
+[^ref-9]: [Windows Bulletin](https://windowsbulletin.com/files/exe/gamehouse-inc/hoyle-crosswords-amp-sudoku/gh-hoylecrosswords-exe) – Technical specifications, file size
+
+[^ref-10]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Historical perspective on classic status
+
+[^ref-11]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – Complete Hoyle series listing, release dates
+
+[^ref-12]: [PCGamingWiki – Hoyle Classic Games](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Games) – Technical specifications, series timeline, SCI2.1 engine
+
+[^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Series history, franchise information
+
+[^ref-14]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series origins, Edmond Hoyle namesake
+
+[^ref-15]: [My Abandonware – Hoyle Word Games](https://www.myabandonware.com/game/hoyle-word-games-hzn) – Related title preservation, Sierra On-Line developer confirmation
+
+[^ref-16]: [Wikipedia – List of Sierra Entertainment video games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – Comprehensive Sierra catalog, release year verification
+
+[^ref-17]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Founding history, Ken and Roberta Williams, company timeline
+
+[^ref-18]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Historical product catalog, comprehensive Sierra game listings

@@ -204,3 +204,32 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – credits, ratings, game description, character details
+[^ref-2]: [Amazon – Hoyle Bridge PC](https://www.amazon.com/Hoyle-Bridge-PC/dp/B001036J06) – product description, features, ratings
+[^ref-3]: [ScummVM Wiki – Hoyle Children's Collection](https://wiki.scummvm.org/index.php/Hoyle_Children's_Collection) – derivation from Hoyle Classic Games, Attitude Meter feature
+[^ref-4]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – development philosophy quote
+[^ref-5]: [PCGamingWiki – Hoyle Bridge](https://www.pcgamingwiki.com/wiki/Hoyle_Bridge) – engine, system requirements, ScummVM compatibility
+[^ref-6]: [Amazon – Encore Hoyle Bridge](https://www.amazon.com/Encore-9445-Hoyle-Bridge/dp/B000FOVSEI) – Explain Hand feature, customer reviews
+[^ref-7]: [Old Games Download – Hoyle Bridge](https://www.old-games.com/download/10282/hoyle-bridge) – character options, bidding conventions, save features
+[^ref-8]: [Retrolorean – Hoyle Bridge](https://www.retrolorean.com/en/hoyle-bridge-6922) – game modes, AI description
+[^ref-9]: [Amazon – Hoyle Bridge Club](https://www.amazon.com/Hoyle-Bridge-Club-pc/dp/B000HLP5WA) – game variations, tutorials, package contents
+[^ref-10]: [MyAbandonware – Hoyle Bridge](https://www.myabandonware.com/game/hoyle-bridge-dk1) – file sizes, user ratings
+[^ref-11]: [GOG Dreamlist – Hoyle Classic Card Games](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – user praise for Hoyle series
+[^ref-12]: [eBay – Hoyle Bridge](https://www.ebay.com/p/128176800) – compatibility issues, vintage listing
+[^ref-13]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community perspective on Hoyle series
+[^ref-14]: [MobyGames – Hoyle's Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – series origins, character easter eggs
+[^ref-15]: [Filfre.net](https://www.filfre.net/?s=Hoyle+Bridge) – Ken Williams quotes, Sierra Network, bridge-playing mother
+[^ref-16]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – corporate philosophy, product lineup
+[^ref-17]: [Funding Universe – Sierra On-Line](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) – Hoyle Casino sales success
+[^ref-18]: [Metacritic – Hoyle Bridge](https://www.metacritic.com/game/hoyle-bridge/) – 2000 release date, basic info
+[^ref-19]: [Sierra Chest – Hoyle 2000 Bridge](https://sierrachest.com/index.php?a=games&id=577&title=hoyle-2000-bridge&fld=publications) – publisher details
+[^ref-20]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – 2000 reorganization
+[^ref-21]: [GameSpot – Sierra Reorganizes](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – 2006 reorganization, Bellevue Studio
+[^ref-22]: [Computing History UK – Hoyle Bridge](https://www.computinghistory.org.uk/det/46588/Hoyle-Bridge/) – museum archive record
+[^ref-23]: [Steam Search](https://store.steampowered.com/search/?term=Hoyle+Bridge) – no results for Hoyle Bridge
+[^ref-24]: [LaunchBox Games Database – Hoyle Bridge](https://gamesdb.launchbox-app.com/games/details/105629-hoyle-bridge) – ESRB rating, character details
+[^ref-25]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise catalog
+[^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – vintage product confirmation
+[^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Hoyle+Bridge) – DOS version reference

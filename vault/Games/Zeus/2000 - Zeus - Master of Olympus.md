@@ -326,3 +326,45 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 - [[2001 - Poseidon - Master of Atlantis|→ Next: Poseidon - Master of Atlantis]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Zeus: Master of Olympus](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus) – release dates, awards, critical scores, reception, Polish localization
+[^ref-2]: [Amazon – Zeus: Master of Olympus](https://www.amazon.com/Zeus-Master-Olympus-PC/dp/B00004TJ2N) – sales data, series information, interface description
+[^ref-20]: [GameSpot – Zeus Review](https://www.gamespot.com/reviews/zeus-master-of-olympus-review/1900-2646722/) – gameplay description, mythological elements
+[^ref-4]: [4Players.de Review](https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/288/184/0/Zeus_Herrscher_des_Olymp.html) – SimCity comparison, god mechanics, resource requirements
+[^ref-5]: [IGN – Zeus: Master of Olympus Review](https://www.ign.com/articles/2000/11/04/zeus-master-of-olympus) – review score, campaign structure, visual design, reviewer quotes
+[^ref-6]: [Metacritic – Zeus: Master of Olympus](https://www.metacritic.com/game/zeus-master-of-olympus/) – aggregate scores, critical and user ratings
+[^ref-7]: [Rock Paper Shotgun – Have You Played Zeus](https://www.rockpapershotgun.com/have-you-played-zeus-master-of-olympus) – retrospective, Acropolis bundle, hero requirements
+[^ref-8]: [IGN – Poseidon Expansion Review](https://www.ign.com/articles/2001/07/03/zeus-official-expansion-poseidon) – expansion release date, campaign depth
+[^ref-9]: [MobyGames – Zeus: Master of Olympus](https://www.mobygames.com/game/2640/zeus-master-of-olympus/) – designer credits, walker name easter eggs, difficulty preview
+[^ref-10]: [Internet Archive – Zeus](https://archive.org/details/ZeusMasterOfOlympusUSA) – engine information, housing system, walker mechanics
+[^ref-11]: [CD Magazine Review (archived)](https://web.archive.org/web/20030525183115/http://www.cdmag.com/articles/030/146/zues_review.html) – Heroic Age setting, reviewer quotes, historical accuracy commentary
+[^ref-12]: [Nerd Bacon – Zeus Review](https://nerdbacon.com/zeus-master-olympus-pc/) – mythology integration, campaign objectives, military system
+[^ref-13]: [GamePro Review (archived)](https://web.archive.org/web/20051220020954/http://gamepro.com/computer/pc/games/reviews/7184.shtml) – accessibility, review score, newcomer suitability
+[^ref-14]: [Eurogamer Review](https://www.eurogamer.net/r-zeus) – 2D isometric engine, camera rotation
+[^ref-15]: [The Digital Antiquarian (Filfre.net)](https://www.filfre.net/?s=Zeus%3A+Master+of+Olympus) – improvements over Pharaoh
+[^ref-16]: [GameFAQs Strategy Guide](https://gamefaqs.gamespot.com/pc/291596-zeus-master-of-olympus/faqs/9573) – adventure/episode structure, Enhancement Pack, adventure editor
+[^ref-17]: [Abandonware DOS – Zeus](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Zeus:+Master+of+Olympus&gid=2372) – user ratings, expansion info, GameSpy quote
+[^ref-18]: [GameRevolution Review](https://www.gamerevolution.com/review/33315-zeus-master-of-olympus-review) – citizen simulation, walker purpose
+[^ref-19]: [Eurogamer Review (archived)](https://web.archive.org/web/20010413124523/http://www.eurogamer.net/content/r_zeus) – combat assessment, city management focus
+[^ref-21]: [Computer Gaming World (archived)](https://web.archive.org/web/20010406003947/http://www.zdnet.com/cgw/stories/main/0,11529,2669153,00.html) – review score, technical specifications, identity critique
+[^ref-22]: [PC Gamer UK (archived)](https://web.archive.org/web/20020601190422/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=6202) – review score, challenge assessment
+[^ref-23]: [Rock Paper Shotgun – Best Management Games](https://www.rockpapershotgun.com/best-management-games) – modern ranking, lasting appeal assessment
+[^ref-24]: [Metacritic User Reviews](https://www.metacritic.com/game/zeus-master-of-olympus/user-reviews/) – user score, combat criticism, modern compatibility issues
+[^ref-25]: [IMDB – Zeus: Master of Olympus](https://www.imdb.com/title/tt0414704/) – user rating, narrator credit
+[^ref-26]: [MyAbandonware – Zeus](https://www.myabandonware.com/game/zeus-master-of-olympus-dor) – user rating, regional releases, version info
+[^ref-27]: [GameZone Press Release (archived)](https://web.archive.org/web/20010306090116/http://www.gamezone.com/news/10_16_00_06_10PM.htm) – Chris Beatrice quote, design philosophy
+[^ref-28]: [TV Tropes – Zeus: Master of Olympus](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ZeusMasterOfOlympus) – Xena influence, character quotes, cheat codes
+[^ref-29]: [IMDB Credits Page](https://m.imdb.com/title/tt0414704/fullcredits/composer?ref_=m_ttfc_4) – full development credits, voice cast
+[^ref-30]: [PCGamingWiki – Zeus](https://www.pcgamingwiki.com/wiki/Zeus:_Master_of_Olympus) – system requirements, publishers
+[^ref-31]: [Nexus Mods – Resolution Customizer](https://www.nexusmods.com/zeusmasterofolympus/mods/1) – default resolutions, technical limitations, known issues
+[^ref-32]: [GameCopyWorld – Zeus](https://gamecopyworld.com/games/pc_zeus.shtml) – version numbers, copy protection
+[^ref-33]: [Sierra Help – Zeus Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/ZeusUpdates.html) – patch notes, bug fixes
+[^ref-34]: [Neoseeker Forums](https://www.neoseeker.com/forums/483/t634197-zeus-master-of-olympus-enhancement-patch-problem/) – regional patch compatibility issues
+[^ref-35]: [EEggs.com – Hidden Music](https://eeggs.com/items/19737.html) – Ekplixi.mp3 easter egg, Greek translation
+[^ref-36]: [EEggs.com – Cheat Codes](https://eeggs.com/items/28220.html) – cheat code list and effects
+[^ref-37]: [ChapterCheats.com](https://www.chaptercheats.com/cheat/pc/2104/zeus-master-of-olympus/hint/21175) – save/load combat exploit
+[^ref-38]: [Sierra Chest – Music](https://sierrachest.com/index.php?a=games&id=81&title=master-of-olympus&fld=music) – complete track listing
+[^ref-39]: [VGMdb – Zeus Soundtrack](https://vgmdb.net/album/16067) – soundtrack rarity, mysterious origins
+[^ref-40]: [ModDB – HD Mod](https://www.moddb.com/mods/zeus-and-poseidon-full-hd-enfr/downloads/zeus-and-poseidon-full-hd-many-resolution) – JackFuste HD patch
+[^ref-41]: [Amazon – Prima Strategy Guide](https://www.amazon.com/Zeus-Master-Olympus-Official-Strategy/dp/0761531246) – guide description and quotes

@@ -132,3 +132,25 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 
 
 ## 
+## References
+
+[^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information
+[^ref-2]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - General adventure gaming website search page
+[^ref-3]: [Internet Archive - Inca 2](https://archive.org/details/inca-2-mr-abandonware) – - Downloadable version with DOSBox compatibility for modern systems
+[^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Blog search results showing no posts found
+[^ref-5]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/inca-ii) – - User community wishlist with player comments and experiences
+[^ref-6]: [IMDb Game Entry](https://www.imdb.com/find/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29&s=tt) – - Basic release information and user rating
+[^ref-7]: [MobyGames Game Entry](https://www.mobygames.com/game/58618/) – - Comprehensive game database with metadata
+[^ref-8]: [MobyGames Collector's Edition](https://www.mobygames.com/game/4755/inca-i-ii-collectors-edition/) – - Information about the 1995 compilation release
+[^ref-9]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results showing limited edition version details
+[^ref-10]: [MobyGames Technical Specs](https://www.mobygames.com/game/58618/inca-ii-wiracocha-serie-limitee/specs/) – - Detailed technical specifications and system requirements
+[^ref-11]: [MobyGames Cover Art](https://www.mobygames.com/game/dos/inca-ii-wiracocha-srie-limite/cover-art/gameCoverId,252966) – - Game cover art and visual materials
+[^ref-12]: [MobyGames Nations of Immortality](https://www.mobygames.com/game/4553/inca-ii-nations-of-immortality/) – - Comprehensive game entry with credits, awards, and detailed information
+[^ref-13]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Abandonware site with game availability information
+[^ref-14]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Dynamix) – - Information about Dynamix developer (no Inca II content found)
+[^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Steam platform search showing no available results
+[^ref-16]: [Wikidata Entry](https://www.wikidata.org/wiki/Q20875674) – - Structured metadata about the game including engine and platform information
+[^ref-17]: [Wikipedia - Inca II: Wiracocha](https://en.wikipedia.org/wiki/Inca_II:_Wiracocha) – - Comprehensive encyclopedia entry with reception details and critical assessments
+[^ref-18]: [Giant Bomb](https://www.giantbomb.com/inca-ii-nations-of-immortality/3030-29188/) – - Game database entry with community wiki information
+[^ref-19]: [IGDB](https://www.igdb.com/games/inca-ii-nations-of-immortality) – - Internet Game Database entry with metadata
+[^ref-20]: [GameFAQs](https://gamefaqs.gamespot.com/pc/564813-inca-ii-nations-of-immortality) – - Game database with user information

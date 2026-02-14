@@ -163,3 +163,25 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 - [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
 
 ## 
+## References
+
+[^ref-1]: [GameFAQs – Hoyle Miami Solitaire](https://gamefaqs.gamespot.com/pc/961448-hoyle-miami-solitaire) – release date, developer, publisher, alternate title, platform, franchise info
+[^ref-2]: [GameFAQs – Hoyle Franchise Page](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – developer, publisher, release year, genre
+[^ref-3]: [The Gamesmen – PC Hoyle Miami Solitaire](https://www.gamesmen.com.au/pc-hoyle-miami-solitaire) – system requirements, features, pricing, product details, publisher (Mindscape), game description
+[^ref-5]: [Gamezebo – Hoyle Miami Solitaire Review](https://www.gamezebo.com/reviews/hoyle-miami-solitaire-review/) – Art Deco setting, character name, game features, publisher
+[^ref-6]: [Download.it – Hoyle Miami Solitaire](https://hoyle-miami-solitaire.en.download.it/) – compatible platforms, Big Fish Games distribution, game description
+[^ref-7]: [Game Over Online – Hoyle Solitaire Review](https://www.game-over.com/reviews/hand/Hoyle_Solitaire.html) – Hoyle brand heritage with Sierra
+[^ref-8]: [MobyGames – Hoyle Solitaire Reviews](https://www.mobygames.com/game/1232/hoyle-solitaire/reviews/) – gameplay features, technical specs, user reviews
+[^ref-9]: [Sierra Chest – Hoyle Solitaire & Mahjong Tiles 2](https://sierrachest.com/index.php?a=games&id=794&title=hoyle-solitaire-mahjong-tiles-2&fld=box) – publisher (Sierra Attractions), platforms, included demos, packaging
+[^ref-10]: [Squakenet – Hoyle Miami Solitaire](https://www.squakenet.com/game/hoyle-miami-solitaire/) – release year, platform, publisher
+[^ref-11]: [IGN – Encore Publisher Page](https://www.ign.com/games/producer/encore) – publisher confirmation
+[^ref-12]: [MobyGames – Hoyle Miami Solitaire](https://www.mobygames.com/game/25832/hoyle-miami-solitaire/) – game entry, platform details, release information
+[^ref-13]: [Wikipedia – Hoyle's Games](https://en.wikipedia.org/wiki/Hoyle%27s_Games) – historical context for Hoyle brand name
+[^ref-14]: [Big Fish Games – Solitaire Catalog](https://www.bigfishgames.com/us/en/games/genres/40/solitaire.html) – digital distribution platform information
+[^ref-15]: [Amazon – Hoyle Miami Solitaire](https://www.amazon.com/s?k=Hoyle+Miami+Solitaire) – retail availability, customer reviews
+[^ref-16]: [Wikipedia – Encore Software](https://en.wikipedia.org/wiki/Encore_Software) – developer/publisher background
+[^ref-17]: [Sierra Entertainment History](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Hoyle franchise origins with Sierra
+[^ref-18]: [Internet Archive – Casual Gaming 2006](https://archive.org/search?query=hoyle+solitaire+2006) – preservation context
+[^ref-19]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1233/hoyle-card-games/) – related franchise entries
+[^ref-20]: [Metacritic – Casual Games 2006](https://www.metacritic.com/browse/games/release-date/available/pc/date?page=0) – release context
+[^ref-21]: [GameSpot – Card Game Genre](https://www.gamespot.com/games/?genre=card-games) – genre classification context

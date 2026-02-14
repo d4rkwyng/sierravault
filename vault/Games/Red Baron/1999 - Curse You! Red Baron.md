@@ -218,3 +218,21 @@ The game also illustrates the challenges faced by flight simulation developers i
 - [[2008 - Red Baron Arcade|→ Next: Red Baron Arcade]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Curse You! Red Baron](https://www.mobygames.com/game/9020/curse-you-red-baron/) – developer, publisher, ratings, series information, release year
+[^ref-2]: [Metacritic – Curse You! Red Baron](https://www.metacritic.com/game/curse-you-red-baron/) – developer, publisher, ESRB rating
+[^ref-3]: [IGN – Curse You! Red Baron Game Page](https://www.ign.com/games/curse-you-red-baron) – aircraft list, game modes, release date, review score
+[^ref-4]: [My Abandonware – Curse You! Red Baron](https://www.myabandonware.com/game/curse-you-red-baron-mhi) – genre, themes, platform, download information
+[^ref-5]: [Internet Archive – Curse You! Red Baron](https://archive.org/details/curse-you-red-baron) – engine, platforms, game features, technical specifications
+[^ref-6]: [IGN Review – Curse You! Red Baron](https://www.ign.com/articles/1999/08/06/curse-you-red-baron) – review score, criticism, technical issues
+[^ref-7]: [VOGONS Forum – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=98123) – 3Space engine, joystick issues, compatibility
+[^ref-8]: [Amazon – Curse You! Red Baron](https://www.amazon.com/Curse-You-Red-Baron-PC/dp/B00001LCDN) – product description, customer reviews, platforms
+[^ref-9]: [Sierra Classic Gaming – Curse You! Red Baron](https://sierraclassicgaming.com/game/curse-you-red-baron/) – system requirements, release date, related games
+[^ref-10]: [Giant Bomb – Curse You! Red Baron](https://www.giantbomb.com/curse-you-red-baron/3030-12973/) – developer, publisher, user ratings, features
+[^ref-11]: [Amazon Spain – Curse You! Red Baron](https://www.amazon.com/-/es/Curse-You-Red-Baron-PC/dp/B00001LCDN) – customer reviews, Children's Software Revue quote
+[^ref-12]: [GameFAQs – Curse You! Red Baron](https://gamefaqs.gamespot.com/pc/915885-curse-you-red-baron) – user ratings, release year
+[^ref-13]: [Steam Community – Red Baron Pack Discussions](https://steamcommunity.com/app/263940/discussions/0/451852118778380220/?l=schinese) – nglide wrapper, 4GB patch, mod compatibility
+[^ref-14]: [Genius – Curse You Red Baron (Song)](https://genius.com/Christophe-beck-curse-you-red-baron-lyrics) – Peanuts Movie soundtrack reference
+[^ref-15]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch information, technical support
+[^ref-16]: [JioSaavn – Curse You Red Baron](https://www.jiosaavn.com/song/curse-you-red-baron/JAYJAgZafl8) – Peanuts Movie soundtrack information

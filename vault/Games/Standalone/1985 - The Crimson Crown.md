@@ -210,3 +210,27 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [[1986 - Kempelen|→ Next: Kempelen]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Crimson Crown](https://www.mobygames.com/game/86/the-crimson-crown/) – developer, publisher, designer, engine, platforms, release dates, ratings, technical specifications
+[^ref-2]: [Internet Archive – Crimson Crown 1985](https://archive.org/details/Crimson_Crown_1985_Penguin_Software) – release dates, platforms, story description
+[^ref-3]: [GameFAQs – The Crimson Crown](https://gamefaqs.gamespot.com/pc/976714-the-crimson-crown) – vocabulary size, command system, user ratings, marketing description
+[^ref-4]: [Giant Bomb – The Crimson Crown](https://www.giantbomb.com/the-crimson-crown/3030-5131/) – graphics description, gameplay mechanics, user ratings
+[^ref-5]: [Wikipedia – Transylvania (series)](https://en.wikipedia.org/wiki/Transylvania_(series)) – series overview, character abilities, sequel information
+[^ref-6]: [Dynamix Fandom Wiki – The Crimson Crown](https://dynamix.fandom.com/wiki/The_Crimson_Crown) – detailed release dates, story description, gameplay mechanics
+[^ref-7]: [Free Game Empire – The Crimson Crown](https://www.freegameempire.com/games/The-Crimson-Crown) – Polarware history, Smithsonian archive, company name change
+[^ref-8]: [Gamepressure – The Crimson Crown](https://www.gamepressure.com/games/the-crimson-crown/zd2a6d) – freeware release date, rating
+[^ref-14]: [UV List – The Crimson Crown](https://www.uvlist.net/game-36136-The+Crimson+Crown) – story description, platform list
+[^ref-10]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/976646-the-crimson-crown/faqs/59450) – version differences, frog transformation, story quotes
+[^ref-11]: [Gaming After 40 – Adventure of the Week](http://gamingafter40.blogspot.com/2014/01/adventure-of-week-crimson-crown-1985.html) – copy protection, graphics technique, character quotes
+[^ref-12]: [MyAbandonware – The Crimson Crown](https://www.myabandonware.com/game/the-crimson-crown-9b) – HOTUD rating, plot description
+[^ref-13]: [DOSGames.com – The Crimson Crown](https://dosgames.com/game/crimson-crown-the/) – rating, game description, technical specs
+[^ref-15]: [Daemon Master – Retro PC Review](https://daemonmaster.wordpress.com/2022/11/01/retro-pc-review-transylvania-the-crimson-crown/) – copy protection, screen count, company history
+[^ref-16]: [Alex Bevilacqua – The Crimson Crown Review](https://alexbevi.com/blog/2023/02/15/the-crimson-crown-further-adventures-in-transylvania/) – rating, gameplay criticism, save slots, platform list
+[^ref-17]: [MobyGames Screenshots – PC-88](https://www.mobygames.com/game/86/the-crimson-crown/screenshots/pc88/507354/) – Gryphon riddle reference
+[^ref-18]: [GameSpot – The Crimson Crown](https://www.gamespot.com/games/the-crimson-crown/cheats/) – rating, platform list
+[^ref-19]: [PCGamingWiki – The Crimson Crown](https://www.pcgamingwiki.com/wiki/The_Crimson_Crown) – technical specifications, RAM requirements
+[^ref-20]: [Retro365 Blog – Dynamix Before Dynamix](https://retro365.blog/2019/07/27/bits-from-my-personal-collection-dynamix-before-dynamix/) – Dynamix porting work
+[^ref-21]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Dynamix company history
+[^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/the-crimson-crown-9b/play-9b) – DOSBox compatibility, file information
+[^ref-23]: [Wikidata – Q57164149](https://www.wikidata.org/wiki/Q57164149) – alternate titles, platform list

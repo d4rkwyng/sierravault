@@ -215,3 +215,38 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 - [[1995 - The Incredible Machine 3.0|→ Next: The Incredible Machine 3.0]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score
+[^ref-2]: [Presage Software Archive (1997)](https://web.archive.org/web/19970614015227/http://www.presage.com/pTITM.html) – Presage development of Mac and Windows versions
+[^ref-3]: [Dynamix Fandom Wiki – Sid & Al's Incredible Toons](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – developer credits, composer credits, Electronic Entertainment review, CGW praise, trading cards
+[^ref-4]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_&_Al's_Incredible_Toons) – review scores, awards, platform information
+[^ref-5]: [Abandonware DOS – The Incredible Toon Machine](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124) – release date, technical specs, puzzle count
+[^ref-6]: [Sierra Gamers – The Incredible Toon Machine](https://www.sierragamers.com/ti-toon-machine/) – 130 puzzles, player versus player mode, Hometoons feature
+[^ref-7]: [Alchetron – The Incredible Machine Series](https://alchetron.com/The-Incredible-Machine-(series)) – spin-off status, Chris Cole creation
+[^ref-8]: [MyAbandonware – The Incredible Toon Machine](https://www.myabandonware.com/game/the-incredible-toon-machine-3le) – release dates, 130 puzzles, 71 gadgets, CGW review quote
+[^ref-10]: [GamePressure – The Incredible Toon Machine](https://www.gamepressure.com/games/the-incredible-toon-machine/z03bfe) – user rating, target audience, technical requirements
+[^ref-11]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Incredible+Toon+Machine) – physics simulator, Tunnell development philosophy, multiple solutions
+[^ref-12]: [Wikipedia – The Incredible Toon Machine](https://en.wikipedia.org/wiki/The_Incredible_Toon_Machine) – Mac 1996 release, Boston Globe review, classical composers
+[^ref-13]: [Internet Archive – The Incredible Toon Machine](https://archive.org/details/incredible-toon-machine) – character details, item flipping, CD features
+[^ref-14]: [ClassicReload – The Incredible Toon Machine](https://classicreload.com/win3x-incredible-toon-machine.html) – Rube Goldberg objective, character behaviors
+[^ref-15]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/the-incredible-toon-machine-1994) – "Tom and Jerry cartoon simulator" quote
+[^ref-16]: [Neoseeker Forums – Lost Manual](https://www.neoseeker.com/forums/4273/t888172-lost-manual-incredible-toon-machine/) – character names, puzzle mechanics
+[^ref-17]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – critic score, awards, trading cards, composer credits
+[^ref-18]: [Metacritic – The Incredible Toon Machine](https://www.metacritic.com/game/the-incredible-toon-machine/) – marketing tagline
+[^ref-19]: [Hardcore Gaming 101 – The Incredible Machine Series](http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) – Rube Goldberg origins, PushButton Labs rights
+[^ref-20]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=20874) – Windows platform confirmation
+[^ref-21]: [GameFAQs – The Incredible Toon Machine FAQ](https://gamefaqs.gamespot.com/pc/564729-the-incredible-toon-machine/faqs/33007) – difficulty levels, copy protection, tutorial, mystery message
+[^ref-22]: [GameFAQs – Even More Contraptions FAQ](https://gamefaqs.gamespot.com/pc/536228-the-incredible-machine-even-more-contraptions/faqs/36199) – difficulty comparison
+[^ref-23]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – CGW awards, 1001 Video Games book
+[^ref-24]: [IGN Cheats – The Incredible Toon Machine](https://www.ign.com/wikis/pc-cheats/The_Incredible_Toon_Machine_Cheats) – "WIND" password for secret puzzles
+[^ref-25]: [Games Nostalgia – The Incredible Machine](https://gamesnostalgia.com/game/incredible-machine) – "most original puzzle games" quote, physics teaching
+[^ref-26]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – HOTUD rating, "catapulted the already addictive concept" quote
+[^ref-27]: [I ❤ Old Games Review](https://iheartoldgames.wordpress.com/2016/10/21/review-the-incredible-machine/) – review score, Tom & Jerry comparison
+[^ref-28]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions founding, Sierra Discovery Series
+[^ref-29]: [KHInsider – The Incredible Toon Machine Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/the-incredible-toon-machine) – 21 tracks, 45:55 duration, 70MB size
+[^ref-30]: [Internet Archive – Original Documentation](https://archive.org/details/incredibletoonma00sier) – system requirements, technical specifications
+[^ref-31]: [PCGamingWiki – The Incredible Toon Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Toon_Machine) – system requirements, platform versions
+[^ref-32]: [Sierra Help Pages – New Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – 16-bit compatibility issues, installer information
+[^ref-34]: [IMDB – The Incredible Toon Machine](https://www.imdb.com/title/tt0297967/) – Rob Paulsen voice credit
+[^ref-35]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, Contraption Maker spiritual successor

@@ -163,3 +163,51 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]] – VGA remake
 
 ## 
+## References
+
+[^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments
+[^ref-2]: [ClassicReload - Police Quest: Open Season](https://classicreload.com/dosx-daryl-f-gates-police-quest-open-season.html) – - Game description and basic information
+[^ref-3]: [Best DOS Games - Police Quest: Open Season](https://bestdosgames.com/games/daryl-f-gates-police-quest-open-season) – - Gameplay descriptions and historical context
+[^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Historical analysis of Ken Williams' vision and development philosophy
+[^ref-6]: [Police Quest Fandom - Transcript](https://policequest.fandom.com/wiki/PQ4CD_transcript) – - Game script and crime scene descriptions
+[^ref-7]: [The Toybox Blog](http://thetoybox1138.blogspot.com/2013/02/sierra-adventure-games-sierra.html) – - Plot summary and content descriptions
+[^ref-8]: [IMDb - Police Quest: Open Season Trivia](https://www.imdb.com/title/tt0289401/trivia) – - Development details and cast information
+[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Police_Quest:_Open_Season) – - Technical specifications and compatibility information
+[^ref-10]: [Retro Freak Reviews](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – - Gameplay mechanics and police procedure requirements
+[^ref-11]: [Sierra Chest - General Info](https://www.sierrachest.com/index.php?a=games&id=23&fld=general) – - Development history and gameplay details
+[^ref-12]: [PC Gamer - Police Quest: Open Season](https://www.pcgamer.com/police-quest-open-season/) – - Contemporary retrospective review and Gates quotes
+[^ref-13]: [MobyGames User Review - ETJB](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2556724/) – - User review on realism and gameplay
+[^ref-14]: [Only Solitaire Substack](https://onlysolitaire.substack.com/p/game-review-police-quest-open-season) – - Detailed technical and design analysis
+[^ref-15]: [MobyGames - Main Entry](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – - Development trivia and location details
+[^ref-16]: [Adventure Gamers Blog](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – - Development background and team information
+[^ref-17]: [GameSpot User Review](https://www.gamespot.com/police-quest-collection/user-reviews/2200-260780/) – - User review on gameplay mechanics and issues
+[^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – - Development notes and writing process
+[^ref-19]: [Kagi FastGPT Review Data](kagi:fastgpt:What were the review scores for Police Quest Open Season video game?) – - Aggregated review scores
+[^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings
+[^ref-21]: [My Abandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-open-season-22w) – - User ratings and community comments
+[^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review and gameplay analysis
+[^ref-23]: [Adventure Gamers Review](https://adventuregamers.com/article/police_quest_open_season) – - Modern retrospective assessment
+[^ref-24]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2024/04/25/police-quest-open-season/) – - Personal retrospective review
+[^ref-25]: [Adventure Game Hotspot](https://adventuregamehotspot.com/feature/4691/police-quest-iv-open-season-a-fair-balanced-retrospective) – - Critical retrospective analysis
+[^ref-26]: [MobyGames User Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Multiple user review compilation
+[^ref-27]: [Adventure Gamers Search Results](https://adventuregamers.com/search/?q=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Jim Walls departure information
+[^ref-28]: [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=23&title=police-quest-4&fld=walkthrough&pid=101) – - Game development background
+[^ref-29]: [Kagi FastGPT Development Data](kagi:fastgpt:What year was Police Quest Open Season video game released and who developed it?) – - Basic development facts
+[^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - Technical innovation details
+[^ref-31]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical specifications
+[^ref-32]: [Sierra Gamers - Police Quest 4](https://www.sierragamers.com/police-quest-4/) – - Technology and development resources
+[^ref-33]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Platform and release information
+[^ref-34]: [MobyGames User Review - jTrippy](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2302018/) – - Voice acting and dialogue information
+[^ref-35]: [HowLongToBeat Search](https://howlongtobeat.com/?q=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical engine information
+[^ref-36]: [MobyGames User Review Analysis](https://www.mobygames.com/game/149/) – - Technical achievement comparisons
+[^ref-37]: [IMDb Search Results](https://www.imdb.com/find/?q=Daryl+F.+Gates+Police+Quest%3A+Open+Season&s=tt) – - Production technology details
+[^ref-38]: [TV Tropes Forum Discussion](https://tvtropes.org/pmwiki/posts.php?discussion=16929285950A87421600&page=3) – - Manual and documentation details
+[^ref-39]: [Steam Search](https://store.steampowered.com/search/?term=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Current digital availability
+[^ref-40]: [GOG Forum Discussion](https://www.gog.com/forum/police_quest_series/page2) – - Digital distribution platform availability
+[^ref-41]: [Internet Archive Manual](https://archive.org/details/Police_Quest_4_-_Manual) – - Game manual preservation
+[^ref-42]: [Internet Archive Video Review](https://archive.org/details/live-wire-police-quest-open-season) – - Video playthrough preservation
+[^ref-43]: [GOG Forum Technical Discussion](https://www.gog.com/forum/police_quest_series/police_quest_open_season/post1) – - Technical implementation details
+[^ref-44]: [Sierra Gamers - Ken Williams](https://www.sierragamers.com/ken-williams/) – - Development team credits
+[^ref-45]: [ScummVM Wiki](https://wiki.scummvm.org/index.php/Police_Quest_Open_Season) – - Technical compatibility information
+[^ref-46]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Police_Quest:_Open_Season) – - Complete voice cast listing and character credits
+[^ref-47]: [Retro365 Blog - Police Quest History](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) – ESRB rating, sales data, and historical context

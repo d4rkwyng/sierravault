@@ -127,3 +127,29 @@ The game's influence extends to the broader city-building genre, establishing co
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game) – ) - Basic game information, developer, publisher, release year
+[^ref-2]: [Internet Archive - Pharaoh](https://archive.org/details/pharaohcleopatrausarereleasealt) – - Game description and series information
+[^ref-3]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Pharaoh) – - Engine and technical details
+[^ref-4]: [Common Sense Media Review](https://www.commonsensemedia.org/game-reviews/pharaoh-a-new-era) – - Development consultation with Egyptologists
+[^ref-5]: [Caesar3 Heaven Games Forum](https://caesar3.heavengames.com/cgi-bin/forums/display.cgi?action=ct&f=1,4992,575,all) – - Composer quotes about game scope
+[^ref-6]: [IMDb - Pharaoh](https://www.imdb.com/title/tt6168932/) – - Designer credits
+[^ref-7]: [GOG.com - Pharaoh + Cleopatra](https://www.gog.com/en/game/pharaoh_cleopatra) – - Platform availability
+[^ref-8]: [Pharaoh Heaven Games](https://pharaoh.heavengames.com/walkthroughs/) – - Campaign structure and mission count
+[^ref-9]: [TV Tropes - Pharaoh](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Pharaoh) – - Easter eggs including Moses appearance
+[^ref-10]: [The Spoiler - Pharaoh Guide](https://the-spoiler.com/STRATEGY/Impressions.games/pharaoh.1.html) – - Religious system mechanics
+[^ref-11]: [MobyGames - Pharaoh](https://www.mobygames.com/game/538/pharaoh/) – - Technical specifications and graphics details
+[^ref-12]: [Eurogamer Review](https://www.eurogamer.net/pharaoh) – - Walker system criticism
+[^ref-13]: [Strategy Wiki - Pharaoh](https://strategywiki.org/wiki/Pharaoh) – - Control scheme and interface
+[^ref-14]: [GameSpot Review](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – - Egyptian-specific gameplay mechanics
+[^ref-15]: [Caesar3 Heaven Games Mechanics Forum](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=ct&f=25,7976,0,365) – - Walker movement and bazaar range data
+[^ref-16]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Pharaoh&gid=1871) – - User comment about monument construction times
+[^ref-17]: [IGN Review](https://www.ign.com/articles/1999/11/13/pharaoh) – - Contemporary review score and assessment
+[^ref-18]: [Archived GameRankings](https://web.archive.org/web/20190525131840/https://www.gamerankings.com/pc/198289-pharaoh/index.html) – - Aggregate review score
+[^ref-19]: [Jeuxvideo.com Review](https://www.jeuxvideo.com/articles/0000/00000335_test.htm) – - French review score
+[^ref-20]: [The Digital Antiquarian](https://www.filfre.net/?s=Pharaoh) – - Modern critical assessment
+[^ref-21]: [Reddit - Impressions Games](https://www.reddit.com/r/impressionsgames/comments/156yo8h/the_making_of_pharaoh/) – - Development origins
+[^ref-22]: [KH Insider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/pharaoh) – - Soundtrack technical details
+[^ref-23]: [GameSpot - Cleopatra Review](https://www.gamespot.com/reviews/cleopatra-review/1900-2610569/) – - Expansion development by BreakAway Games
+[^ref-24]: [Steam - Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – - 2023 remake information

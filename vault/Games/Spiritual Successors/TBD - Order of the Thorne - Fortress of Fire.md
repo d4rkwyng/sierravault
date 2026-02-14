@@ -188,3 +188,25 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 
 
 ## 
+## References
+
+[^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire](https://adventuregamers.com/games/order-of-the-thorne-fortress-of-fire) – game description, genre, platform, series info
+[^ref-2]: [Web Search Aggregate](web_search_aggregate) – Kickstarter funding details, development plans, story overview
+[^ref-3]: [itch.io – Fortress of Fire](https://infamousquests.itch.io/ootf-fortress-of-fire) – game description, gameplay features, development status updates
+[^ref-4]: [King's Quest Omnipedia – Fortress of Fire](https://kingsquest.fandom.com/wiki/The_Order_of_the_Thorne:_The_Fortress_of_Fire) – protagonist Patrick, Sir Caradoc, plot summary
+[^ref-5]: [Infamous Quests Patreon – October 2025 Update](https://www.patreon.com/posts/updates-on-rtr-141274312) – development limbo, design compromises, cut content
+[^ref-6]: [Adventure-Treff – Infamous Quests Announcement](https://www.adventure-treff.de/news/10259-infamous-quests-gibt-auf-legid-7742) – studio stepping back, financial challenges
+[^ref-7]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – company history, founding, key personnel, game catalog
+[^ref-8]: [HandWiki – Infamous Quests](https://handwiki.org/wiki/Company:Infamous_Quests) – company background, Quest for Infamy, game announcements
+[^ref-9]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
+[^ref-10]: [Metacritic – The King's Challenge](https://www.metacritic.com/game/the-order-of-the-thorne-the-kings-challenge/) – review scores, critic aggregates, user ratings
+[^ref-11]: [Steam – The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) – release date, user reviews, publisher info
+[^ref-12]: [Adventure Gamers – The King's Challenge Review](https://adventuregamers.com/games/order-of-the-thorne-the-kings-challenge) – anthology series description, Golden Age comparison
+[^ref-13]: [Cliqist – The King's Challenge Review](http://cliqist.com/2016/02/02/order-of-the-thorne-the-kings-challenge-plays-a-wonderful-melody/) – series background, Kickstarter history, gameplay praise
+[^ref-14]: [RPG Codex – Order of the Thorne Discussion](https://mail.rpgcodex.net/forums/goto/post?id=4646798) – developer interaction, fan reception
+[^ref-15]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – series categorization among Sierra-inspired games
+[^ref-16]: [Steam Community – The King's Challenge Hub](https://steamcommunity.com/app/425600) – community discussion, bug reports
+[^ref-17]: [Kickstarter – Quest for Infamy Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – company history, campaign success
+[^ref-18]: [Adventure Gamers – 2D/2.5D Games Archive](https://adventuregamers.com/presentation/2d-or-2-5d/page/82) – presentation style categorization
+[^ref-19]: [Adventure Gamers – Stylized Art Archive](https://adventuregamers.com/graphic-style/stylized-art/page/97) – graphic style categorization
+[^ref-20]: [OGDB – Fire Game Search Results](https://ogdb.eu/index.php?section=simplesearchresults&searchstring=Fire&how=AND) – database listing

@@ -272,3 +272,48 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 - [[1998 - Caesar III|← Previous: Caesar III]]
 
 ## 
+## References
+
+[^ref-2]: [Wikipedia – Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) – release dates, developer, publisher, platforms, engine
+[^ref-3]: [Internet Archive – Caesar IV Demo](https://archive.org/details/Caesar4_201403) – official game description, player role
+[^ref-4]: [MobyGames – Caesar IV](https://www.mobygames.com/game/24324/caesar-iv/) – development credits, publisher list, bundled content, server shutdown date, user reviews
+[^ref-5]: [GamesIndustry.biz – Vivendi Announces Caesar IV](https://www.gamesindustry.biz/vivendi-universal-games-announces-development-of-sierra-entertainments-caesartm-iv) – announcement, Bret Berry quotes, sales figures
+[^ref-28]: [Steam Store – Caesar IV](https://store.steampowered.com/app/517810/Caesar_IV/) – marketing description, Metacritic score
+[^ref-29]: [GOG.com – Caesar IV](https://www.gog.com/en/game/caesar_iv) – graphics features, technical specifications
+[^ref-8]: [FreeGOGPCGames – Caesar IV](https://freegogpcgames.com/963/caesar-iv/) – gameplay hours, feature list
+[^ref-9]: [Metacritic – Caesar IV Critic Reviews](https://www.metacritic.com/game/caesar-iv/critic-reviews/?platform=pc) – aggregate score, review distribution, publication quotes
+[^ref-10]: [Grokipedia – Caesar IV](https://grokipedia.com/page/Caesar_IV) – historical eras, development timeline
+[^ref-11]: [Caesar IV Heaven – Walkthroughs](https://caesar4.heavengames.com/gameinfo/walkthroughs/) – campaign structure, scenario lists, Roma availability
+[^ref-12]: [Caesar IV Heaven – Game Overview](https://caesar4.heavengames.com/gameinfo/overview/) – progression system, composer credit
+[^ref-14]: [Prima Official eGuide](https://archive.org/stream/Caesar_IV_Prima_Official_eGuide/Caesar_IV_Prima_Official_eGuide_djvu.txt) – victory conditions, game mechanics
+[^ref-15]: [GameSpy – Caesar IV Developer Interview](http://pc.gamespy.com/pc/caesar-iv/725654p1.html) – social classes, citizen behaviors
+[^ref-16]: [Sierra Chest – Caesar IV Demo Preview](https://sierrachest.com/ad/index.php?a=news&pid=339) – camera system, demo details
+[^ref-17]: [GameFAQs – Caesar IV FAQ by AAChaoshand](https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/45573) – resource types, tax rates, gods, currency
+[^ref-18]: [PCGamingWiki – Caesar IV](https://www.pcgamingwiki.com/wiki/Caesar_IV) – input devices, API
+[^ref-19]: [WorthPlaying – Caesar IV Review](https://worthplaying.com/article/2006/12/11/reviews/38350-pc-review-caesar-iv/) – interface bugs, building placement issues
+[^ref-20]: [Caesar IV Heaven – Patch 1.2 Notes](https://caesar4.heavengames.com/downloads/showfile.php?fileid=233) – comprehensive bug fixes, cut content
+[^ref-21]: [ABC Good Game – Caesar IV Review](http://www.abc.net.au/tv/goodgame/stories/s1757298.htm) – complexity comparison, reviewer quotes and scores
+[^ref-22]: [Neoseeker – Caesar IV](https://www.neoseeker.com/caesar-iv/) – game description, trade mechanics
+[^ref-23]: [GameSpot – Caesar IV Review](https://www.gamespot.com/reviews/caesar-iv-review/1900-6159378/) – review score, Jason Ocampo quotes, ESRB rating
+[^ref-24]: [Computer Games Magazine #193](https://web.archive.org/web/20111129081824/http://www.cgonline.com/computer-games-magazine/article/rome_if_you_want_to_again/) – 4-star review, walker elimination, housing changes
+[^ref-25]: [ComputerAndVideoGames.com Review](https://web.archive.org/web/20061125075736/http://www.computerandvideogames.com/article.php?id=149406&skip=yes) – 7.3 score, development team history
+[^ref-26]: [Eurogamer – Caesar IV Review](https://www.eurogamer.net/r-caesariv-pc) – 6/10 score, interface criticism
+[^ref-27]: [bit-tech.net – Caesar IV Review](https://bit-tech.net/reviews/gaming/Caesar_IV_Review/3/) – technical issues, competitor comparison, pricing
+[^ref-30]: [IMDB – Caesar IV](https://www.imdb.com/find/?q=Caesar+IV&s=tt) – user rating
+[^ref-31]: [VGChartz – Caesar IV](https://www.vgchartz.com/game/19902/caesar-iv/cheats) – sales data, community rating
+[^ref-32]: [Glitchwave – Tilted Mill Entertainment](https://glitchwave.com/game-company/tilted-mill-entertainment/) – user score, genre classification
+[^ref-33]: [Gamewise – Caesar IV](http://gamewise.co/games/5936/Caesar-IV) – user rating, cheat codes
+[^ref-35]: [GameSpot – Caesar IV Hands-On](https://www.gamespot.com/articles/caesar-iv-updated-hands-on-city-building-in-the-ancient-world/1100-6157155/) – developer background, engine details
+[^ref-37]: [Arcade Attack – Chris Beatrice Interview](https://www.arcadeattack.co.uk/chris-beatrice-sierra/) – SimCity opportunity, 2D graphics preference
+[^ref-38]: [Sierra Chest – IGN Review](https://sierrachest.com/index.php?a=games&id=92&title=caesar-4&fld=news&pid=342) – Dan Adams review, performance issues, worker mechanics
+[^ref-39]: [MetroWest Daily News – Tilted Mill Profile](https://www.metrowestdailynews.com/story/business/2007/03/04/framingham-video-game-maker-recreates/41323910007/) – sales figures, budget, audience demographics
+[^ref-40]: [Keith Zizza Portfolio – Caesar IV](https://www.keithzizza.net/caesar-iv) – audio development, soundtrack details, Universal Music licensing
+[^ref-41]: [KHInsider – Caesar IV Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/caesar-iv-windows-gamerip-2006) – track listing, audio specifications
+[^ref-42]: [GameCopyWorld – Caesar IV](https://gamecopyworld.com/games/pc_caesar_4.shtml) – copy protection, version dates
+[^ref-43]: [GameWatcher – Patch 1.1](https://www.gamewatcher.com/downloads/caesar-iv-download/patch-1-1--78) – patch date, online fix
+[^ref-44]: [GOGDB – Caesar IV](https://www.gogdb.org/product/1460037487) – GOG release date, version, pricing
+[^ref-45]: [Caesar III Heaven Forums – Server Shutdown](https://caesar3.heavengames.com/cgi-bin/caeforumscgi/display.cgi?action=st&fn=46&tn=6803) – Keith Heitmann announcement, Activision merger
+[^ref-46]: [Metacritic – Caesar IV Details](https://www.metacritic.com/game/caesar-iv/details/) – voice cast credits
+[^ref-47]: [IGN – Caesar IV Now Shipping](https://www.ign.com/articles/2006/09/27/now-shipping) – MSRP, Cindy Cook quote
+[^ref-48]: [Engadget – Tilted Mill Interview](https://www.engadget.com/2008-05-29-tilted-mill-updating-children-of-the-nile-self-publishing-next.html) – distribution opportunities
+[^ref-49]: [PCGamesN – Pompeii: The Legacy Interview](https://www.pcgamesn.com/pompeii-the-legacy/city-builder-interview) – Caesar IV as inspiration

@@ -106,3 +106,24 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (2002)
 
 ## 
+## References
+
+[^ref-1]: [Rock Paper Shotgun – Pharaoh A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – gameplay changes, graphics, verdict
+[^ref-2]: [Wikipedia – Pharaoh: A New Era](https://en.wikipedia.org/wiki/Pharaoh:_A_New_Era) – release date, developer, publisher
+[^ref-3]: [Steam Store Page](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – game description, features, 50+ missions
+[^ref-4]: [IGN – Reviving the Past Interview](https://sea.ign.com/pharaoh-pc/164100/news/reviving-the-past-with-the-folks-behind-the-upcoming-pharaoh-a-new-era-remake) – development history, licensing
+[^ref-5]: [Metacritic – Pharaoh: A New Era](https://www.metacritic.com/game/pharaoh-a-new-era/critic-reviews/?platform=pc) – aggregate scores
+[^ref-6]: [Shacknews – Review](https://www.shacknews.com/article/134182/pharaoh-a-new-era-review-score) – review verdict
+[^ref-7]: [Gamepressure – Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – review verdict
+[^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – mixed review
+[^ref-9]: [MobyGames – Pharaoh: A New Era](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – credits, releases
+[^ref-10]: [GOG.com – Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) – DRM-free purchase
+[^ref-11]: [Dotemu – Official Page](https://www.dotemu.com/games/pharaoh-a-new-era/) – publisher info
+[^ref-12]: [PCGamingWiki – Pharaoh: A New Era](https://www.pcgamingwiki.com/wiki/Pharaoh:_A_New_Era) – technical details
+[^ref-13]: [Reddit r/impressionsgames](https://www.reddit.com/r/impressionsgames/) – community discussion
+[^ref-14]: [Triskell Interactive](https://www.triskell-interactive.com/) – developer website
+[^ref-15]: [HowLongToBeat](https://howlongtobeat.com/game/108973) – completion times
+[^ref-16]: [OpenCritic – Pharaoh: A New Era](https://opencritic.com/game/14558/pharaoh-a-new-era) – review aggregation
+[^ref-17]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – game coverage
+[^ref-18]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – game info
+[^ref-19]: [Steam Community Discussions](https://steamcommunity.com/app/1351080/discussions/) – player feedback

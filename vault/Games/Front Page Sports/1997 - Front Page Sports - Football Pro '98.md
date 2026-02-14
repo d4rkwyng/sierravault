@@ -198,3 +198,29 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 - [[1997 - Front Page Sports - Golf|→ Next: Front Page Sports - Golf]]
 
 ## 
+## References
+
+[^ref-1]: [Retro Replay](https://retro-replay.com/db/windows/front-page-sports-football-pro-98/) - Game description
+[^ref-2]: [MobyGames](https://www.mobygames.com/game/41377/front-page-sports-football-pro-98/) - Credits, ratings, developer information
+[^ref-3]: [Web Archive - GameSpot News](https://web.archive.org/web/19990220003852/http://headline.gamespot.com/news/97_08/15_football/index.html) - Dan Marino cover announcement
+[^ref-5]: [ESPN Archive](https://www.espn.com/) - Sierra marketing claims
+[^ref-6]: [VideoGameGeek](https://videogamegeek.com/videogame/137326/front-page-sports-football-pro-98) - Technical specifications
+[^ref-7]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-football-pro-98-review/1900-2536101/) - Marino comparison quote
+[^ref-8]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Football_Pro_%2798) - Review scores compilation
+[^ref-9]: [Web Archive - Press Release](https://web.archive.org/web/19990901152908/http://www.idle.com/~mpogpr/viewpr.cgi?item=68) - Publisher information
+[^ref-10]: [ClassicReload](https://classicreload.com/front-page-sports-football-pro.html) - Game overview
+[^ref-11]: [NeverDieMedia](https://www.neverdiemedia.com/products/front-page-sports-football-pro-98) - Interface improvements
+[^ref-12]: [AllVideoClassicGames](https://www.allvideoclassicgames.com/) - Game modes description
+[^ref-13]: [Web Archive - CDMag Review](https://web.archive.org/web/20030704202248/http://www.cdmag.com/articles/010/104/fps_football_98_review.html) - Career mode praise
+[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/198181-front-page-sports-football-pro-98) - Network play features
+[^ref-15]: [GMGames](https://gmgames.org/front-page-sports-football-fb-pro-98/) - Enthusiast community rating
+[^ref-16]: [Old-Games.com](https://old-games.com/) - Dan Marino box art commentary
+[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) - User ratings
+[^ref-18]: [GOG Community](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) - Series finale memories
+[^ref-19]: [Reddit Discussion](https://www.reddit.com/) - Modern retrospective
+[^ref-20]: [Digital Antiquarian](https://www.filfre.net/) - Sierra business strategy context
+[^ref-21]: [KHInsider](https://downloads.khinsider.com/) - Music composition credits
+[^ref-22]: [GMGames Archives](https://gmgames.org/) - Development issues
+[^ref-23]: [GMGames Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) - VPNFL99 mod description
+[^ref-24]: [MyAbandonware Technical](https://www.myabandonware.com/game/front-page-sports-football-pro-95-season-2ru) - DOSBox compatibility
+[^ref-26]: [Steam Community](https://steamcommunity.com/) - Modern nostalgia assessment

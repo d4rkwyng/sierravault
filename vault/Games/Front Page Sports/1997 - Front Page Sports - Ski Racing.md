@@ -135,3 +135,25 @@ A community-created patch has been developed to address compatibility issues, sp
 - [[1997 - Front Page Sports - Trophy Rivers|→ Next: Front Page Sports - Trophy Rivers]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Ski_Racing) – - Basic game information and publication details
+[^ref-2]: [Internet Archive](https://archive.org/details/front-page-sports-ski-racing) – - Game description and mechanics
+[^ref-3]: [CNET Download](https://download.cnet.com/front-page-sports-ski-racing/3000-2117_4-10016817.html) – - Picabo Street's role in the game
+[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/front-page-sports-ski-racing-review/1900-2536110/) – - Game design philosophy
+[^ref-5]: [MobyGames](https://www.mobygames.com/game/41426/front-page-sports-ski-racing/) – - Technical specifications and engine details
+[^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=311&fld=walkthrough) – - Game structure and play modes
+[^ref-7]: [Web Archive Gamezilla](https://web.archive.org/web/20020213014636/gamezilla.com/reviews/s/skiracing.asp) – - Opening review commentary on skiing
+[^ref-8]: [LA Times Archive](https://www.latimes.com/archives/la-xpm-1998-feb-02-fi-14657-story.html) – - Game events description
+[^ref-9]: [Ski Racing Point System](https://skiracing.com/ski-racing-pointranking-system/) – - Point calculation methodology
+[^ref-10]: [GameSpot](https://www.gamespot.com/games/front-page-sports-ski-racing/reviews/) – - Review score and assessment
+[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197403-front-page-sports-ski-racing) – - User ratings
+[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-ski-racing-fyl) – - User rating of 5/5
+[^ref-13]: [Web Archive CDMag](https://web.archive.org/web/20030705052422/http://www.cdmag.com/articles/010/055/fps_skiing_review.html) – - Rarity of PC skiing games
+[^ref-14]: [PC Gaming Wiki Community](https://community.pcgamingwiki.com/files/file/3170-ski-doo-x-team-racing-time-limit-fix/) – - Community compatibility patch
+[^ref-15]: [PCGamingWiki – Front Page Sports: Ski Racing](https://www.pcgamingwiki.com/wiki/Front_Page_Sports:_Ski_Racing) – technical compatibility information
+[^ref-16]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – developer background, company history
+[^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher information
+[^ref-18]: [IGDB – Front Page Sports: Ski Racing](https://www.igdb.com/games/front-page-sports-ski-racing) – game database entry
+[^ref-19]: [Giant Bomb – Front Page Sports](https://www.giantbomb.com/front-page-sports/3025-1447/) – franchise information
+[^ref-20]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-ski-racing/) – preservation archives

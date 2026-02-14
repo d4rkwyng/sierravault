@@ -188,3 +188,23 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 - [[1983 - Early Math|→ Next: Early Math]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics
+[^ref-2]: [Sierra Chest – Bop-A-Bet News](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=news) – Al Lowe quotes about development, auction details, production numbers
+[^ref-3]: [Retro365 Blog – Bits from My Personal Collection](https://retro365.blog/2021/05/23/bits-from-my-personal-collection-bop-a-bet-al-lowes-second-game-kansasfest-san-francisco-november-1982/) – development history, Sierra acquisition, sales data, platform details
+[^ref-5]: [MobyGames – Bop-A-Bet](https://www.mobygames.com/game/25115/bop-a-bet/) – gameplay mechanics
+[^ref-6]: [King's Quest Omnipedia – Sierra](https://kingsquest.fandom.com/wiki/Sierra) – "cult classic" designation, release year
+[^ref-7]: [Wikiwand – Bop-A-Bet](https://www.wikiwand.com/en/articles/Bop-A-Bet) – programming and art credits, educational gameplay description
+[^ref-8]: [Kagi FastGPT Research](kagi:fastgpt:What_were_the_review_scores_for_Bop_A_Bet_video_game?) – Computer Gaming World review summary, gameplay description
+[^ref-9]: [Kiddle Encyclopedia – Bop-A-Bet](https://kids.kiddle.co/Bop-A-Bet) – adaptive difficulty, educational focus
+[^ref-10]: [MobyGames – Bop-A-Bet](https://www.mobygames.com/game/122928/bop-a-bet/) – credits, technical specifications, platform details
+[^ref-11]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – internal Sierra product documentation
+[^ref-12]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – publisher confirmation, platform listing
+[^ref-13]: [FindWords.info – Bop-A-Bet](https://findwords.info/term/bop-a-bet) – development year, publisher information
+[^ref-14]: [Encyclo.co.uk – Bop-A-Bet](https://www.encyclo.co.uk/meaning-of-Bop_A_Bet) – educational gameplay description
+[^ref-15]: [Wikidata – Q4944148](https://www.wikidata.org/wiki/Q4944148) – platform confirmation, developer attribution
+[^ref-16]: [Sierra Chest – Box Documentation](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=box) – packaging scans, Sunnyside Soft origin
+[^ref-17]: [Kagi FastGPT Research](kagi:fastgpt:What_year_was_Bop_A_Bet_video_game_released_and_who_developed_it?) – release year confirmation, developer information
+[^ref-18]: [Wikiwand – Bop-A-Bet (alternate)](https://www.wikiwand.com/en/Bop-A-Bet) – pricing information, review quotes
+[^ref-19]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Bop-A-Bet) – platform and release year verification

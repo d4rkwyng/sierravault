@@ -228,3 +228,26 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) – developer, publisher, platforms, ratings, awards, expansion packs, technical details, voice cast
+[^ref-2]: [Wikipedia – IndyCar Racing](https://en.wikipedia.org/wiki/IndyCar_Racing) – reviews, sales data, awards, multiplayer specs, missing drivers
+[^ref-3]: [ClassicReload – IndyCar Racing](https://classicreload.com/indycar-racing.html) – game description, historical context
+[^ref-4]: [Never Die Media – IndyCar Racing](https://www.neverdiemedia.com/products/indycar-racing-w-manual) – track list, product details
+[^ref-5]: [DOS Days – IndyCar Racing](https://www.dosdays.co.uk/topics/Games/game_indycar.php) – version history, technical specs, development team, audio support
+[^ref-6]: [The Cutting Room Floor – IndyCar Racing](https://tcrf.net/IndyCar_Racing) – version differences, Paul Page announcement, trivia
+[^ref-7]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, sales figures, development budget
+[^ref-8]: [Lilura1 Blog – Papyrus Racing Games](https://lilura1.blogspot.com/2022/06/Papyrus-Design-Group-Racing-Computer-Games.html) – technical achievements, graphics comparison
+[^ref-9]: [Internet Archive – IndyCar Racing II Manual](https://archive.org/details/indycar-racing-2-manual) – game features, physics description
+[^ref-10]: [Internet Archive – MS-DOS IndyCar Racing 1993](https://archive.org/details/msdos_IndyCar_Racing_1993) – historical context, game features
+[^ref-11]: [Free Game Empire – IndyCar Racing Manual](https://www.freegameempire.com/games/IndyCar-Racing/manual) – technical requirements, known issues, Paul Page voice
+[^ref-12]: [Wayback Machine – SIIA CODiE Awards 1994](https://web.archive.org/web/20050215091406/http://spa.org:80/codies/2005/history_1994.asp) – Best Sports Program award
+[^ref-13]: [GOG.com Dreamlist – IndyCar Racing](https://www.gog.com/dreamlist/game/indycar-racing-1993) – user reviews, physics model praise
+[^ref-14]: [MobyGames – IndyCar Racing Reviews](https://www.mobygames.com/game/983/indycar-racing/reviews/) – aggregate scores
+[^ref-15]: [Race Sim Central – Papyrus Returns Interview](https://racesimcentral.net/papyrus-returns-to-winners-circle/) – David Kaemmer interview, physics model details
+[^ref-17]: [Wayback Machine – RPG Vault](https://web.archive.org/web/20000815222841/http://rpgvault.ign.com/features/den/den1.shtml) – Adam Levesque quote, 400,000 units shipped
+[^ref-18]: [PCGamingWiki – IndyCar Racing](https://www.pcgamingwiki.com/wiki/IndyCar_Racing) – system requirements
+[^ref-19]: [Kazart – ICR2 FAQ](http://www.kazart.com/autosim/icr2faq.htm) – Paul Page voice cast
+[^ref-20]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Papyrus acquisition details
+[^ref-21]: [Wayback Machine – GameSpot Papyrus History](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – Grand Prix Legends quote, industry impact
+[^ref-22]: [Internet Archive – IndyCar Racing Mr Abandonware](https://archive.org/details/indy-car-racing-mr-abandonware) – preservation, DOSBox compatibility, expansion packs

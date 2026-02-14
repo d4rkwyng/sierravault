@@ -221,3 +221,31 @@ From a preservation standpoint, the game's absence from modern digital storefron
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
 
 ## 
+## References
+
+[^ref-1]: [AbandonwareGames.net – Mixed-Up Fairy Tales](https://abandonwaregames.net/game/mixed-up-fairy-tales) – developer, publisher, release date, platform, fairy tales included, user rating
+[^ref-2]: [Wikipedia – Mixed-Up Fairy Tales](https://en.wikipedia.org/wiki/Mixed-Up_Fairy_Tales) – designers, composer, PC Zone review score, PC Games review, coloring book inclusion, follow-up status
+[^ref-3]: [MyAbandonware – Mixed-Up Fairy Tales](https://www.myabandonware.com/game/mixed-up-fairy-tales-1qe) – release dates, designer, file size, target age, HOTUD review quotes, rating
+[^ref-4]: [MobyGames – Mixed-Up Fairy Tales](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/) – precise release date, engine, composers, interface description, media formats, aggregate score, version information, bugs
+[^ref-5]: [ClassicReload – Mixed-Up Fairy Tales](https://classicreload.com/mixed-up-fairy-tales.html) – Bookwyrm guidance feature, cannot die design, automatic saving, off-screen events
+[^ref-6]: [Adventure Gamer Blog – Introduction](https://advgamer.blogspot.com/2016/10/game-74-mixed-up-fairy-tales.html) – classroom play design, randomization, coloring book inclusion, avatar diversity, fairy tales list, Lori Ann Cole designer credit
+[^ref-7]: [Adventure Gamer Blog – Review](https://advgamer.blogspot.com/2016/10/mixed-up-fairy-tales-book-em-wyrm-o.html) – "First Steps to Adventure" assessment, no voice acting comment, Lincoln easter egg
+[^ref-8]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/user-review/2572820/) – King's Quest V graphics comparison, game randomization, simplified interface description, different designer note
+[^ref-9]: [MobyGames User Review – jossiejojo](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/user-review/2682508/) – classical music MIDI soundtrack, Mother Goose comparison
+[^ref-10]: [Old-Games.com – Mixed-Up Fairy Tales](https://www.old-games.com/download/1458/mixed-up-fairy-tales) – Bookwyrm keeper description, game description quote
+[^ref-11]: [Free Game Empire – Mixed-Up Fairy Tales](https://www.freegameempire.com/games/Mixed-Up-Fairy-Tales) – Bookend antagonist, fairy tale book mechanic, educational focus
+[^ref-12]: [Sierra Gamers – Mixed-Up Fairy Tales](https://www.sierragamers.com/mixed-up-fairy-tales/) – object acquisition and delivery gameplay
+[^ref-13]: [PlayClassic.Games – Mixed-Up Fairy Tales](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-mixed-up-fairy-tales-online/) – simplified interface, younger gamer design
+[^ref-14]: [The Digital Antiquarian](https://www.filfre.net/?s=Mixed+Up+Fairy+Tales) – Disney comparison quote, Sierra revenue figures
+[^ref-15]: [Sierra Gamers Forum – Product List](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Oakhurst offices development location
+[^ref-16]: [Sierra Gamers – Ken Williams](https://www.sierragamers.com/ken-williams/) – Ken Williams production credit, "club" philosophy quote
+[^ref-17]: [GOG.com Dreamlist – Mixed-Up Fairy Tales](https://www.gog.com/dreamlist/game/mixedup-fairy-tales) – user requests for release, classical music appreciation, nostalgia comments
+[^ref-18]: [Sierra Help Pages – Sound Drivers](https://sierrahelp.com/Patches-Updates/Patches-Updates-Misc/UpdatedSoundCardDrivers.html) – General MIDI patch information, driver installation instructions
+[^ref-19]: [Reddit – Tip of My Joystick](https://www.reddit.com/r/tipofmyjoystick/comments/18p87fn/pc1990s_a_mixedup_fairy_tale_game/) – endless forest description, 2D pixel graphics note
+[^ref-20]: [Steam Store Search](https://store.steampowered.com/search/?term=Mixed+Up+Fairy+Tales) – game not available on Steam
+[^ref-21]: [Speedrun.com – Mixed-Up Fairy Tales Guide](https://www.speedrun.com/mixed_up/guides/k9g12) – speedrun strategies, donkey rescue routing
+[^ref-22]: [Internet Archive – Mixed-Up Fairy Tales](https://archive.org/details/mixedupfairytalespc) – Kryoflux preservation, 3.5" floppy disk format
+[^ref-23]: [A Games Room – Mixed-Up Fairy Tales](https://www.agamesroom.com/game/muft) – file size, replayability design, educational skills
+[^ref-24]: [HandWiki – Mixed-Up Fairy Tales](https://handwiki.org/wiki/Software:Mixed-Up_Fairy_Tales) – designers, composer, review scores confirmation
+[^ref-25]: [Wikidata – Mixed-Up Fairy Tales](https://www.wikidata.org/wiki/Q13649739) – single-player mode, mouse input, platform confirmation
+[^ref-26]: [MobyGames Reviews Page](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/reviews/) – Bremen Town Musicians inclusion, Mozart and Bach composers, randomization confirmation

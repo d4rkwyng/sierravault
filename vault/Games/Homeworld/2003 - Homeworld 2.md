@@ -278,3 +278,49 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – release dates, story details, technical specifications, awards nomination
+[^ref-2]: [Homeworld Wiki – Homeworld 2](https://homeworld.fandom.com/wiki/Homeworld_2) – development history, bugs, voice cast, reception
+[^ref-3]: [Internet Archive – Homeworld 2 USA](https://archive.org/details/Homeworld2USA) – story description, engine details
+[^ref-4]: [WSGF](https://www.wsgf.org/) – 3D gameplay uniqueness
+[^ref-5]: [Giant Bomb – Homeworld 2](https://www.giantbomb.com/homeworld-2/3030-9473/) – gameplay mechanics, release info
+[^ref-6]: [Interactive.org – Homeworld 2](https://www.interactive.org/games/video_game_details.asp?idGame=317) – technical features, game description, multiplayer specs
+[^ref-7]: [Homeworld Wiki – Homeworld Series](https://homeworld.fandom.com/wiki/Homeworld_%28series%29) – commercial performance, franchise history
+[^ref-8]: [Interactive.org – D.I.C.E. Awards 2004](https://www.interactive.org/awards/award_category_details.asp?idAward=2004&idGameAwardType=34) – award nomination
+[^ref-9]: [MobyGames – Homeworld 2](https://www.mobygames.com/game/10403/homeworld-2/) – credits, ratings, development info
+[^ref-32]: [Macworld – Homeworld 2](https://www.macworld.com/article/1031525/homeworld2.html) – story continuation
+[^ref-12]: [Grokipedia – Homeworld 2](https://grokipedia.com/page/Homeworld_2) – mission count, sales data, IP acquisition price
+[^ref-13]: [Glitchwave – Homeworld 2](https://glitchwave.com/game/homeworld-2/) – critical analysis, art direction, ratings
+[^ref-14]: [IGN – Homeworld 2 Review](https://www.ign.com/articles/2003/09/17/homeworld2-review) – review, system requirements
+[^ref-15]: [Homeworld Wiki – Homeworld 2 Manual](https://homeworld.fandom.com/wiki/Homeworld_2_Manual) – manual contents, technical specs
+[^ref-16]: [GameFAQs – Homeworld 2 FAQ by Marc Novakouski](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/26295) – gameplay tips, capture mechanics, dynamic difficulty
+[^ref-17]: [GameFAQs – Homeworld 2 Guide by Orgulo](https://gamefaqs.gamespot.com/pc/533091-homeworld-2/faqs/43499) – campaign structure, Mothership comparison
+[^ref-18]: [Neoseeker – Homeworld 2 FAQ](https://www.neoseeker.com/homeworld2/faqs/67973-homeworld-2-b.html) – dynamic difficulty explanation
+[^ref-19]: [IGN – Homeworld 2 Preview](https://www.ign.com/articles/2003/08/25/homeworld-2-goes-gold) – subsystem mechanics
+[^ref-20]: [Personal Review – Joel Ng](https://joelngwt.github.io/posts/game-reviews/homeworld-2/2007-02-01-homeworld-2.html) – gameplay analysis
+[^ref-21]: [Metacritic – Homeworld 2 Critic Reviews](https://www.metacritic.com/game/homeworld-2/critic-reviews/?platform=pc) – aggregate scores, individual review quotes
+[^ref-22]: [Impulse Gamer – Homeworld 2 Review](https://www.impulsegamer.com/igversion01/pc/pchomeworld2.htm) – review score, development time
+[^ref-23]: [Metacritic – Homeworld Remastered Collection](https://www.metacritic.com/game/homeworld-remastered-collection/) – remastered aggregate score
+[^ref-24]: [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection) – review scores, technical specs, user reviews
+[^ref-25]: [Gearbox Software – Homeworld Remastered Collection](https://www.gearboxsoftware.com/game/homeworld-remastered-collection/) – review quotes
+[^ref-26]: [Geeks Under Grace – Homeworld Remastered Review](https://www.geeksundergrace.com/gaming/pc/review-homeworld-remastered/) – engine differences, bugs, critical analysis
+[^ref-27]: [IMDB – Homeworld 2](https://www.imdb.com/find/?q=Homeworld+2&s=tt) – user rating
+[^ref-28]: [The Digital Antiquarian](https://www.filfre.net/?s=Homeworld+2) – Alex Garden quote, development history
+[^ref-29]: [Sierra Development History](https://www.ign.com/) – E3 2002 absence, development delays
+[^ref-31]: [Laced Records – Homeworld 2 Remastered Vinyl](https://www.lacedrecords.com/products/homeworld-2-remastered-deluxe-triple-vinyl) – composer influences, musical style
+[^ref-33]: [PCGamingWiki – Homeworld 2 Patch v1.1](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/) – patch changelog
+[^ref-34]: [PCGamingWiki – Homeworld 2 Unofficial Patch](https://community.pcgamingwiki.com/files/file/478-homeworld-2-unofficial-patch/) – unofficial patch version
+[^ref-35]: [Gearbox Software – Homeworld Remastered Launch Announcement](https://www.gearboxsoftware.com/2015/01/homeworld-remastered-collection-launches-february-25/) – release date, features, pricing, Rob Cunningham quote
+[^ref-36]: [Fists of Heaven – Homeworld Retrospective](http://www.fistsofheaven.com/ships-and-trucks-a-retrospective-of-homeworld/) – art direction, ship design philosophy
+[^ref-37]: [Kotaku – How We Overhauled the Homeworld Soundtrack](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – audio production, voice recording history
+[^ref-38]: [Steam Community Forums](https://store.steampowered.com/) – voice actress change, modding tools
+[^ref-39]: [Ars Technica – Gearbox Acquires Homeworld](https://arstechnica.com/gaming/2013/04/going-once-going-twice-gearbox-picks-up-homeworld-in-thq-auction/) – THQ acquisition history
+[^ref-40]: [Gearbox Software – Homeworld Acquisition Announcement](http://www.gearboxsoftware.com/community/articles/1029/homeworld-acquisition-and-plans/) – Brian Martel quote, acquisition details
+[^ref-41]: [Free GOG PC Games – Homeworld Remastered Collection](https://freegogpcgames.com/1016/homeworld-remastered-collection/) – technical specs, multiplayer details
+[^ref-42]: [Standard of Entertainment – Homeworld 2 Strategy Guide](http://hw2.standardof.net/p/homeworld-2-remastered-strategy-guide.html) – patch info, modding tools
+[^ref-43]: [ModDB – Dynamic Deathmatch Mod](https://www.moddb.com/mods/dynamic-deathmatch-mod) – mod details, features
+[^ref-44]: [Homeworld Archives – Prima Official eGuide](https://homeworldarchives.com/media/Homeworld_2_Prima_Official_eGuide.pdf) – strategy guide existence
+[^ref-45]: [Eurogamer – Relic Looking at Homeworld 3](http://www.eurogamer.net/articles/relic-definitely-looking-at-homeworld-3) – Jonny Ebbert quote
+[^ref-46]: [Gearbox Publishing – Homeworld 3](https://www.gearboxpublishing.com/game/homeworld-3/) – sequel details, timeline
+[^ref-47]: [Homeworld Universe – Deserts of Kharak](https://www.homeworlduniverse.com/games/homeworld-deserts-of-kharak/) – prequel information

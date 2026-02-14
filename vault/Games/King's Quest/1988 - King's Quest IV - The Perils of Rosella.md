@@ -263,3 +263,49 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|→ Next: King's Quest V - Absence Makes the Heart Go Yonder]]
 
 ## 
+## References
+
+[^ref-1]: [Adventure Gamers - King's Quest IV](https://adventuregamers.com/games/kings-quest-iv-the-perils-of-rosella) – - Review score (3.5/5), groundbreaking firsts, editorial verdict
+[^ref-2]: [Strong Museum of Play - The Perils of Rosella and the Genius of Roberta](https://www.museumofplay.org/blog/the-perils-of-rosella-and-the-genius-of-roberta/) – - First female protagonist claim, Williams collection donation
+[^ref-3]: [SCI Wiki - King's Quest IV](https://sciwiki.sierrahelp.com/index.php/King's_Quest_IV:_The_Perils_of_Rosella) – - Version history, interpreter numbers, graphics differences between releases
+[^ref-4]: [MobyGames - King's Quest IV](https://www.mobygames.com/game/129/kings-quest-iv-the-perils-of-rosella/) – - Moby Score 7.7, credits, platform releases, trivia
+[^ref-5]: [Sierra Newsletter Winter 1988](https://www.mocagh.org/sierra/sierranews-winter88.pdf) – - IPO details, 5.5MB size, 11 man-years development, music details, female protagonist design
+[^ref-6]: [Digital Antiquarian - Sierra Gets Creative](https://www.filfre.net/2016/08/sierra-gets-creative/) – - Al Lowe crisis quote, CES preview, 100K sales, IPO, sound card history
+[^ref-7]: [Sierra Fandom - KQ4 SCI](https://sierra.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_(SCI) – ) - Story details, credits, continuity notes
+[^ref-8]: [Sierra Chest - King's Quest IV](https://www.sierrachest.com/index.php?a=g&id=4&fld=s&gconf=1) – - Story summary, technical significance, collections list
+[^ref-9]: [Computer & Video Games #91](https://www.everygamegoing.com/larticle/Kings-Quest-IV-000/43679/) – - Keith Campbell review, gameplay descriptions, animation examples
+[^ref-10]: [Sierra Help - Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/KQEasterEggs.html) – - ~30 fairy tale characters, cross-game references
+[^ref-11]: [Hardcore Gaming 101 - King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – - Story elements, marketing quotes, infamous puzzles
+[^ref-12]: [IGN - Revisiting King's Quest IV](https://www.ign.com/articles/2014/05/26/revisiting-kings-quest-iv-the-perils-of-rosella) – - Corporate concern about female protagonist, fan letters about Graham death
+[^ref-13]: [Internet Archive - King's Quest IV Manual](https://archive.org/details/Kings_Quest_4_-_Manual) – - Full credits, supported verbs, gameplay instructions
+[^ref-14]: [King's Quest Omnipedia - KQ4 AGI DOS](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_(AGI_DOS) – ) - AGI version differences, easter eggs, developer room credits
+[^ref-15]: [StrategyWiki - King's Quest IV](https://strategywiki.org/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – - Real-time gameplay, 24-hour span, alternate ending
+[^ref-16]: [Sierra Fandom - KQ4 AGI](https://sierra.fandom.com/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella_(AGI) – ) - Time mechanic (8 AM to 8 AM over 6 hours), AGI differences
+[^ref-17]: [Only Solitaire - King's Quest IV Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-iv-the-perils) – - World design analysis, whale tongue legacy, Roberta Williams at peak
+[^ref-18]: [Official Book of King's Quest - Making of KQ4](https://kingsquest.fandom.com/wiki/The_Making_of_King%27s_Quest_IV) – - 140+ rooms, 1000+ animation drawings, 75+ music pieces, SCI engine details
+[^ref-19]: [Choicest Games - King's Quest IV Review](https://www.choicestgames.com/2019/06/kings-quest-iv-review.html) – - Modern retrospective (5/10), specific puzzle frustrations
+[^ref-20]: [DOS Days - King's Quest IV SCI](https://www.dosdays.co.uk/topics/Games/game_kq4_sci.php) – - Technical reference, version differences, disk exchange program
+[^ref-21]: [HowLongToBeat - King's Quest IV](https://howlongtobeat.com/game/5031) – - Completion times, release date (Aug 16, 1988), user stats
+[^ref-22]: [VGU - A History of King's Quest](https://videogamesuncovered.com/features/a-history-of-kings-quest/) – - First bad ending in series, sound card innovation
+[^ref-23]: [QuestBusters Vol. VI #4](https://mocagh.org/questbusters/qbustersVI4.pdf) – - Gold status (100,000 copies) in first two weeks
+[^ref-24]: [Lemon Amiga - King's Quest IV](https://www.lemonamiga.com/game/kings-quest-4-the-perils-of-rosella) – - Amiga reviews averaging 82%, WHDLoad info
+[^ref-25]: [Sierra Gamers - King's Quest 4](https://www.sierragamers.com/kings-quest-4/) – - Roberta Williams Anthology quotes, SPA award, exact release date
+[^ref-26]: [CGW December 1988 Interview](https://archive.org/details/Computer_Gaming_World_Issue_54/page/n19/mode/2up) – - Roberta Williams on female protagonist strategy, Rosella characterization
+[^ref-27]: [AGI Wiki - King's Quest IV AGI](https://agiwiki.sierrahelp.com/index.php/King%27s_Quest_IV:_The_Perils_of_Rosella_(AGI) – ) - Version dates, disk exchange program
+[^ref-28]: [Xeen Music - KQ4 Soundtrack](https://xeenmusic.bandcamp.com/album/kings-quest-iv-the-perils-of-rosella-soundtrack-mt-32-archival-edition) – - Official licensed MT-32 recording, 96 tracks
+[^ref-29]: [TV Tropes - King's Quest IV Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/KingsQuestIVThePerilsOfRosella) – - Only version 1.006.004 officially re-released, sound card impact
+[^ref-30]: [AGS - King's Quest IV Retold VGA + Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – - November 2025 release, mixed reception
+[^ref-31]: [Unicorn Tales Development](https://unicorntales.org/kq4-perilsofrosella-remake/forum/) – - 3D remake in development, December 2025 status
+[^ref-32]: [GOG - King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – - Digital availability, ScummVM, DRM-free
+[^ref-33]: [Steam - King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – - 7-game collection availability
+[^ref-34]: [Internet Archive - DOS SCI Version](https://archive.org/details/KingsQuestIVPerilsRosella) – - Preservation download
+[^ref-35]: [ScummVM Wiki - King's Quest IV](https://wiki.scummvm.org/index.php?title=King%27s_Quest_IV) – - Compatibility since ScummVM 0.10.0 (AGI) and 1.2.0 (SCI)
+[^ref-36]: [Sierra Help Pages - King's Quest IV](https://sierrahelp.com/Games/KQ/KQ4.html) – - Patches and technical support
+[^ref-37]: [VGFacts - King's Quest IV Trivia](https://www.vgfacts.com/game/kingsquestivtheperilsofrosella/) – - "beam me" and "rap kq" easter egg details
+[^ref-38]: [Time Extension - Roberta and Ken Williams Interview](https://www.timeextension.com/features/interview-roberta-and-ken-williams-on-how-colossal-cave-led-to-a-life-of-adventure) – - KQ4 sold 2x prior three games, internal opposition to female protagonist, Roberta's personal connection
+[^ref-39]: [GameSpot - 15 Most Influential Games](https://web.archive.org/web/20050525130158/http://gamespot.com/gamespot/features/pc/most_influential/p13.html) – - 300K-400K copies per game (PC Data), Ron Gilbert quote on KQ influence
+[^ref-40]: [King's Quest Omnipedia - The King's Quest Companion](https://kingsquest.fandom.com/wiki/The_King%27s_Quest_Companion) – - Official novelization, Chapter 8 KQ4 from Valanice perspective, Roberta Williams endorsement
+[^ref-41]: [King's Quest Omnipedia - King's Quest 4 Novel](https://kingsquest.fandom.com/wiki/King%27s_Quest_4_(novel) – ) - Cancelled novel approved by Roberta, cancelled by publisher Berkeley Boulevard
+[^ref-42]: [King's Quest Omnipedia - King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – - DrSlash release May 5 2021, EGA preservation, combined audio sources, troll caves improvements, optional dead-end removal
+[^ref-43]: [The Cutting Room Floor - King's Quest IV](https://tcrf.net/King%27s_Quest_IV:_The_Perils_of_Rosella) – - Unused scarab sprite, test animations, Genesta night screens, unseen mummy death, BOBALU backdoor, Dennis Jonathan synonym
+[^ref-44]: [Sierra Planet - King's Quest 4 Curiosities](https://www.sierraplanet.net/kqgames/kings-quest-iv/kq4-game-goodies/kq4-curiosities/) – - Box art discrepancy, zombie count, Edgar transformation ambiguity, time limit bug

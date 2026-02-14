@@ -270,3 +270,37 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 - [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) – release dates, reviews, platform information, Tom Clancy quote, plot details
+[^ref-2]: [Internet Archive – Stellar 7 MS-DOS CD](https://archive.org/details/stellar-7-msdos-cd) – game description, technical details, remake information
+[^ref-3]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – company history, pre-founding release
+[^ref-4]: [Softline Magazine (1983)](https://archive.org/stream/Softline_1983_11_12) – William Harrington review quote
+[^ref-5]: [TV Tropes – Stellar 7](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Stellar7) – VGA graphics first, double-cannon tank, title meaning
+[^ref-6]: [The Digital Antiquarian](https://www.filfre.net/?s=Stellar+7) – Tom Clancy quote, development history
+[^ref-7]: [Abandonware DOS – Stellar 7](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Stellar+7&gid=1071) – release dates, platforms, ratings
+[^ref-8]: [MobyGames – Stellar 7 (1983)](https://www.mobygames.com/game/39286/stellar-7/) – publishers, sales data, Zzap review, Penguin humor
+[^ref-9]: [C64-Wiki – Stellar 7](https://www.c64-wiki.com/wiki/Stellar_7) – 3Space engine, development time, ratings
+[^ref-10]: [Lemon Amiga – Game Documentation](https://www.lemonamiga.com/games/docs.php?id=1552) – year 3000 setting, power modules, Raven specifications
+[^ref-11]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description
+[^ref-12]: [eBay – Stellar 7](https://www.ebay.com/p/1800452947) – gameplay loop description, UPC
+[^ref-13]: [Lemon64 – Stellar 7](https://www.lemon64.com/game/stellar-7) – C64 reviews, control scheme, user quotes
+[^ref-14]: [Dynamix Fandom – Stellar 7: Draxon's Revenge](https://dynamix.fandom.com/wiki/Stellar_7:_Draxon's_Revenge) – 3DO reviews, voice cast, EGM/Entertainment Weekly quotes
+[^ref-15]: [MobyGames – Stellar 7 (1990)](https://www.mobygames.com/game/938/stellar-7/) – composers, critics aggregate, technical specs, CD version details
+[^ref-16]: [Sierra Chest – Stellar 7 General](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=general) – 3Space engine, release date, difficulty modes
+[^ref-17]: [My Abandonware – Stellar 7](https://www.myabandonware.com/game/stellar-7-10s) – user ratings, reviews, DOSBox compatibility
+[^ref-18]: [Lemon Amiga – Stellar 7](https://www.lemonamiga.com/games/details.php?id=1813) – Amiga version, composers, ACE review
+[^ref-19]: [Every Game Going – Amiga Power Review](https://www.everygamegoing.com/larticle/stellar-7-000/45315/) – Mark Ramshaw review, 67% score, 1 MB requirement
+[^ref-20]: [GameFAQs – Stellar 7](https://gamefaqs.gamespot.com/pc/565146-stellar-7) – user ratings, box art screenshot trivia
+[^ref-21]: [MobyGames – Stellar 7: Draxon's Revenge](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/) – 3DO details, voice cast, composer
+[^ref-23]: [Dynamix Fandom – Stellar 7 (1983)](https://dynamix.fandom.com/wiki/Stellar_7_(1983_game)) – notebook coding, technical specs, living situation
+[^ref-24]: [Dynamix Fandom – David Selle](https://dynamix.fandom.com/wiki/David_Selle) – additional designer credit
+[^ref-25]: [VGMPF Wiki – Stellar 7 DOS](https://www.vgmpf.com/Wiki/index.php?title=Stellar_7_(DOS)) – audio devices, music analysis
+[^ref-26]: [MobyGames – Dynamix Sample Pack](https://www.mobygames.com/game/203474/dynamix-sample-pack/) – compilation contents
+[^ref-27]: [Internet Archive – Stellar 7 DOS CD-ROM Dynamix](https://archive.org/details/stellar7doscdromdynamixforwindows10) – packaging notes
+[^ref-28]: [Sierra Gamers – Stellar 7](https://www.sierragamers.com/stellar-7/) – manual availability
+[^ref-29]: [Hardcore Gaming 101 – Stellar 7](http://hg101.kontek.net/stellar7/stellar7.htm) – series overview, platform history
+[^ref-30]: [ClassicReload – Stellar 7](https://classicreload.com/stellar-7.html) – Battlezone inspiration, sequel information
+[^ref-31]: [Retroinvaders – Dynamix History](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) – company founding, game description
+[^ref-32]: [Space Quest Omnipedia – Dynamix](https://spacequest.fandom.com/wiki/Dynamix) – company founding details
+[^ref-33]: [Sierra Fandom – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – pre-founding release history

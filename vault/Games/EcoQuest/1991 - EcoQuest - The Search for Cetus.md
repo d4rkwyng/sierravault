@@ -159,3 +159,31 @@ The game's environmental message has proven timeless, with its themes of marine 
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus
+[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest:_The_Search_for_Cetus) – Marine conservation introduction
+[^ref-3]: [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=42&fld=general) – Release date information
+[^ref-4]: [Adventure Gamers](https://adventuregamers.com/article/ecoquest_the_search_for_cetus) – Character description and development details
+[^ref-5]: [MobyGames](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/reviews/) – SAGA_ review on game design approach
+[^ref-6]: [Archive.org](https://archive.org/details/eco-quest-1-the-search-for-cetus) – Developer information
+[^ref-7]: [Filfre.net](https://www.filfre.net/?s=EcoQuest%3A+The+Search+for+Cetus) – Jane Jensen's early work context
+[^ref-8]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/EcoQuest:_The_Search_for_Cetus) – Platform details
+[^ref-9]: [The Cutting Room Floor](https://tcrf.net/EcoQuest:_The_Search_for_Cetus) – Protagonist age and Easter eggs
+[^ref-10]: [EcoQuest Fandom](https://ecoquest.fandom.com/wiki/EcoQuest:_The_Search_for_Cetus) – Plot setup description
+[^ref-11]: [IGN](https://www.ign.com/articles/2002/09/03/ecoquest-the-search-for-cetus-walkthroughfaq-369792) – Main plot premise
+[^ref-12]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-ecoquest-search-cetus-online/) – Plot synopsis
+[^ref-13]: [MyAbandonware](https://www.myabandonware.com/game/ecoquest-the-search-for-cetus-1ra) – Plot summary and HOTUD review
+[^ref-14]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/ecoquest.1.html) – Interface information
+[^ref-15]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:EcoQuest:_The_Search_for_Cetus) – Engine information
+[^ref-16]: [GitHub - Doomlazer/EQ1-CDR](https://github.com/Doomlazer/EQ1-CDR) – Version history and restoration details
+[^ref-17]: [Alex Bevi](https://alexbevi.com/blog/2024/02/28/ecoquest/) – Difficulty design and modern review
+[^ref-18]: [IGN Walkthrough](https://www.ign.com/articles/2003/11/14/ecoquest-the-search-for-cetus-walkthrough-435827) – No death/unwinnable states
+[^ref-19]: [The Spoiler](https://the-spoiler.com/ADVENTURE/Sierra/eco.quest.2.html) – Scoring system details
+[^ref-20]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=EcoQuest:+The+Search+for+Cetus&gid=2593) – Community rating
+[^ref-21]: [IMDb](https://www.imdb.com/find/?q=EcoQuest%3A+The+Search+for+Cetus&s=tt) – IMDb rating
+[^ref-22]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/ecoquest-the-search-for-cetus) – Modern assessment
+[^ref-23]: [MobyGames Reviews](https://www.mobygames.com/game/584/ecoquest-the-search-for-cetus/) – Tomer Gabel and Mickey Gabel reviews
+[^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – Composer credits
+[^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Series legacy assessment
+[^ref-26]: [Consolidated Research Sources](internal/research/games/ecoquest-the-search-for-cetus/_consolidated.json) – Multiple sources from research collection

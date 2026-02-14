@@ -259,3 +259,49 @@ The Gobliiins series spans five main entries across three decades, each with a d
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards
+[^ref-2]: [Abandonware France – Coktel Vision History](https://www.abandonware-france.org/ltf_abandon/ltf_infos_fic.php?id=103372) – designer credits, development history
+[^ref-3]: [Neoseeker – Gobliiins Walkthrough](https://www.neoseeker.com/gobliiins/faqs/85009-a.html) – gameplay mechanics, genre description
+[^ref-4]: [DOS.Zone – Gobliiins](https://dos.zone/gobliiins/) – game description
+[^ref-5]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – release dates, ratings, awards, series information
+[^ref-6]: [Reddit r/Sierra – Gobliiins Discussion](https://www.reddit.com/r/Sierra/comments/1nv3ob0/gobliiins_1991_full_game/) – plot summary, level structure
+[^ref-7]: [Lemon Amiga – Gobliiins](https://www.lemonamiga.com/games/details.php?id=458) – review scores, credits, engine information
+[^ref-8]: [GOG.com – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) – user reviews, technical requirements, game description
+[^ref-9]: [PCGamingWiki – Gobliiins](https://www.pcgamingwiki.com/wiki/Gobliiins) – engine, technical specifications, compatibility
+[^ref-10]: [DOS Games Archive – Gobliiins](https://www.dosgamesarchive.com/download/gobliiins) – plot summary
+[^ref-11]: [Classic DOS Games – Gobliiins](https://www.classicdosgames.com/game/Gobliiins.html) – gameplay mechanics, version information
+[^ref-12]: [Retrogames.cz – Gobliiins](https://www.retrogames.cz/play_515-DOS.php) – character name differences, credits
+[^ref-13]: [Gamer Walkthroughs – Gobliiins](https://gamerwalkthroughs.com/gobliiins-1-walkthrough/) – character descriptions, gameplay
+[^ref-14]: [MobyGames – Goblins Quest 3](http://www.mobygames.com/game/goblins-quest-3) – series information, copy protection, language
+[^ref-15]: [Family Friendly Gaming – Gobliiins Review](https://www.familyfriendlygaming.com/Reviews/2012/Gobliiins.html) – iOS review, rating
+[^ref-16]: [Games Nostalgia – Gobliiins](https://gamesnostalgia.com/game/gobliiins) – gameplay mechanics
+[^ref-17]: [GameFAQs – Gobliiins Walkthrough](https://gamefaqs.gamespot.com/pc/564707-gobliiins/faqs/1942) – level structure
+[^ref-18]: [The Adventurers' Guild – Gobliins 2 Review](https://advgamer.blogspot.com/2020/02/gobliins-2-final-rating.html) – puzzle design analysis
+[^ref-19]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – IT Reviews quote
+[^ref-20]: [Jumbled Thoughts of a Fake Geek Boy](https://fakegeekboy.wordpress.com/category/videogames/genre/adventure-games/point-and-click-adventures/sierra/) – puzzle criticism
+[^ref-21]: [Web Archive – MobyGames Historical Entry](https://web.archive.org/web/20080228044614/http://www.mobygames.com/game/atari-st/gobliiins) – Power Play rating
+[^ref-22]: [Adventure Classic Gaming – Gobliins 2 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/436/) – character descriptions, technical specs
+[^ref-23]: [IMDB – Gobliiins](https://www.imdb.com/title/tt0473302/) – rating, credits
+[^ref-24]: [Web Archive – Pierre Gilhodes Website](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – developer biography
+[^ref-25]: [Rarewaves – Gobliiins 4 Product Page](https://www.rarewaves.com/products/4260089411920-gobliiins-4) – Pierre Gilhodes quotes, development history
+[^ref-26]: [Grokipedia – Gobliiins](https://grokipedia.com/page/Gobliiins) – technical specifications, design philosophy
+[^ref-27]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – character descriptions, easter eggs, trivia
+[^ref-28]: [Video Game Music Preservation Foundation – Gobliiins](https://www.vgmpf.com/Wiki/index.php?title=Gobliiins_(DOS)) – audio specifications, composer credits
+[^ref-29]: [Discogs – Charles Callet Gobliiins 1 & 2](https://www.discogs.com/release/3694705-Charles-Callet-Gobliins-1-2) – soundtrack release, languages
+[^ref-30]: [The Cutting Room Floor – Gobliiins](https://tcrf.net/Gobliiins) – unused content
+[^ref-31]: [Web Archive – iTunes App Store](https://web.archive.org/web/20101111024319/http://itunes.apple.com/us/app/gobliiins/id394372440) – iOS release details
+[^ref-32]: [Sierra Help – Gobliiins Patches](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – patch information
+[^ref-33]: [ScummVM – Gobliiins Compatibility](https://scummvm.org/compatibility/1.5.0/gob:gob1/) – technical issues
+[^ref-34]: [ScummVM – Snowberry Press Release](https://www.scummvm.org/press/snowberry) – ScummVM support quotes
+[^ref-35]: [Sierra Chest – Goblins Quest 3](https://sierrachest.com/index.php?a=games&id=146&fld=general) – series history, Sierra publishing
+[^ref-36]: [Internet Archive – German DOS Release](https://archive.org/details/gobliiins-1991-3.5-de) – manual, copy protection documentation
+[^ref-37]: [Rock Paper Shotgun – Have You Played Gobliiins](https://www.rockpapershotgun.com/have-you-played-the-gobliiins-series) – retrospective quotes
+[^ref-38]: [Kickstarter – GOBLiiiNS5](https://www.kickstarter.com/projects/pierregilhodes/gobliiins5-pc) – crowdfunding details
+[^ref-39]: [Gamer Walkthroughs – Gobliins 2](https://gamerwalkthroughs.com/gobliins-2/) – plot summary
+[^ref-40]: [Digital Spy – Gobliiins 4 Review](https://www.digitalspy.com/videogames/a152852/gobliiins-4-pc/) – development history
+[^ref-41]: [Adventure Gamers – Gobliiins 4](https://adventuregamers.com/article/gobliiins_4) – review quote
+[^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – game description, technical specs
+[^ref-43]: [Speedrun.com – Gobliiins](https://www.speedrun.com/gobliiins) – speedrunning community
+[^ref-44]: [Virtual Moose – Gobliiins Guide](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, recommendations

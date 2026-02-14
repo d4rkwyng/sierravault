@@ -197,3 +197,25 @@ The game's design choices, including the significantly higher difficulty with on
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Stellar 7: Draxon's Revenge](https://en.wikipedia.org/wiki/Stellar_7:_Draxon%27s_Revenge) – release dates, plot, gameplay details, Michael Dorn narration, review scores
+[^ref-2]: [Dynamix Fandom Wiki – Stellar 7: Draxon's Revenge](https://dynamix.fandom.com/wiki/Stellar_7:_Draxon%27s_Revenge) – development credits, story details, gameplay features, remake/sequel status
+[^ref-3]: [Wikipedia – Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) – series history, original game details, Battlezone inspiration, sequels list
+[^ref-4]: [Giant Bomb – Stellar 7: Draxon's Revenge](https://giantbomb.com/wiki/Games/Stellar_7_Draxons_Revenge) – difficulty details, features, CD audio information
+[^ref-5]: [MobyGames – Stellar 7: Draxon's Revenge](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/) – credits, ratings, technical details, publisher information
+[^ref-6]: [Sierra Chest – Stellar 7: Draxon's Revenge](https://sierrachest.com/index.php?a=games&id=557&title=stellar-7-draxons-revenge&fld=box) – packaging, platform information
+[^ref-7]: [GameFAQs – Stellar 7: Draxon's Revenge](https://gamefaqs.gamespot.com/3do/584506-stellar-7-draxons-revenge) – game description, user ratings, difficulty assessment
+[^ref-8]: [TV-Games.ru – Stellar 7: Draxon's Revenge](http://tv-games.ru/game/3do/stellar-7-draxons-revenge.html) – gameplay critique, technical assessment, Battlezone comparison
+[^ref-9]: [Entertainment Weekly – Stellar 7: Draxon's Revenge Review (January 14, 1994)](https://ew.com/article/1994/01/14/stellar-7-draxons-revenge/) – C- rating, 3DO launch context
+[^ref-10]: [MobyGames – Stellar 7: Draxon's Revenge Reviews](https://www.mobygames.com/game/28465/stellar-7-draxons-revenge/reviews/) – aggregate scores, review count
+[^ref-11]: [VGChartz – Stellar 7: Draxon's Revenge](https://www.vgchartz.com/game/22773/stellar-7-draxons-revenge/) – community rating, release information
+[^ref-12]: [IMDB – Stellar 7: Draxon's Revenge](https://www.imdb.com/title/tt19120902/) – cast information, voice actors
+[^ref-13]: [LaunchBox Games Database – Stellar 7: Draxon's Revenge](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge) – images, release date, Japanese title
+[^ref-14]: [Retro North Games – Stellar 7: Draxon's Revenge](https://retronorthgames.com/products/stellar-7-draxons-revenge) – retail pricing, availability
+[^ref-15]: [GOG Dreamlist – Stellar 7: Draxon's Revenge](https://www.gog.com/dreamlist/game/stellar-7-draxon-s-revenge-1993) – community votes, genre classification
+[^ref-16]: [Old Games Download – Stellar 7: Draxon's Revenge](https://oldgamesdownload.com/stellar-7-draxons-revenge/) – ROM availability
+[^ref-17]: [MoviePosterDB – Stellar 7: Draxon's Revenge](https://es-np.movieposterdb.com/stellar-7-draxons-revenge-i19120902) – release date, director credits
+[^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
+[^ref-19]: [PriceCharting – Stellar 7: Draxon's Revenge](https://www.pricecharting.com/game/3do/stellar-7-draxon%27s-revenge) – market availability
+[^ref-20]: [HonestGamers – Stellar 7: Draxon's Revenge](http://www.honestgamers.com/9895/3do/stellar-7-draxons-revenge/game.html) – Japanese title, publisher information

@@ -112,3 +112,85 @@ The game's commercial failure and negative critical reception contributed to Sie
 
 
 ## 
+## References
+
+[^ref-1]: https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria:+A+Puzzle+of+Flesh&gid=3475 - Basic metadata and user rating
+[^ref-2]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Plot summary and relationship to predecessor
+[^ref-3]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Plot synopsis and character information
+[^ref-4]: https://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production budget and cast size details
+[^ref-5]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Production location and filming details
+[^ref-6]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Commercial performance and censorship information
+[^ref-7]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Developer and publisher information
+[^ref-8]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Designer interview and development details
+[^ref-9]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/specs/ - Platform and technical specifications
+[^ref-10]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Character background information
+[^ref-11]: https://web.archive.org/web/19961219235404/http://www.sierra.com/entertainment/phantas2/ - Official promotional description of supernatural events
+[^ref-12]: https://freegogpcgames.com/1927/phantasmagoria-2-a-puzzle-of-flesh/ - Basic plot progression description
+[^ref-13]: https://www.sierrachest.com/index.php?a=games&id=41&fld=general - Detailed plot summary
+[^ref-14]: https://web.archive.org/web/20080224014444/http://la-aventura.net/entrevistas/lorelei-en - Title meaning explanation from creator
+[^ref-15]: https://alchetron.com/Phantasmagoria:-A-Puzzle-of-Flesh - Character details and cast information
+[^ref-16]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Thematic analysis and character information
+[^ref-17]: https://steamcommunity.com/sharedfiles/filedetails/?id=755591421 - Interface description from walkthrough
+[^ref-18]: https://steamcommunity.com/sharedfiles/filedetails/?id=755591421 - Control system explanation
+[^ref-19]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Technical analysis of gameplay modes
+[^ref-20]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/reviews/75559 - Chapter structure and completion time
+[^ref-21]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Location and exploration details
+[^ref-22]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Gameplay criticism and movie comparison
+[^ref-23]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/faqs/2194 - Chapter structure from complete walkthrough
+[^ref-24]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Puzzle design criticism
+[^ref-25]: https://the-spoiler.com/ADVENTURE/Sierra/phantasmagoria2.1.html - Therapy session mechanics description
+[^ref-26]: https://adventuregamers.com/article/phantasmagoria_a_puzzle_of_flesh - Inventory management analysis
+[^ref-27]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PhantasmagoriaAPuzzleOfFlesh - Multiple endings information
+[^ref-28]: https://sierrachest.com/index.php?a=games&id=41&title=phantasmagoria-2&fld=eggs - Easter egg documentation and point system
+[^ref-29]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - Puzzle design criticism
+[^ref-30]: https://web.archive.org/web/19970711131644/http://www.pcgames.com/reviews/adventure/phant.html - Specific puzzle criticism example
+[^ref-31]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Movie vs game experience criticism
+[^ref-32]: https://adventuregamers.com/article/phantasmagoria_a_puzzle_of_flesh - Inventory system analysis
+[^ref-33]: https://www.pcgamingwiki.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Interface and interaction details
+[^ref-34]: https://gamefaqs.gamespot.com/pc/198286-phantasmagoria-a-puzzle-of-flesh/reviews/75559 - Challenge level criticism
+[^ref-35]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - GameSpot review score and negative assessment
+[^ref-36]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - Story quality criticism
+[^ref-37]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Aggregate review scores
+[^ref-38]: https://web.archive.org/web/19970711131644/http://www.pcgames.com/reviews/adventure/phant.html - PC Games review score
+[^ref-39]: https://web.archive.org/web/19971022230858/http://www.game-revolution.com/games/pc/p2.htm - Game Revolution review criticism
+[^ref-40]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Adventure Classic Gaming negative review
+[^ref-41]: https://web.archive.org/web/20061128002940/http://www.justadventure.com:80/reviews/Phantasmagoria_2/Phantasmagoria_2_Review.shtm - Just Adventure review score
+[^ref-42]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - GLAAD analysis of LGBTQ representation
+[^ref-43]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - Progressive representation assessment
+[^ref-44]: https://adventuregamers.com/article/phantasmagoria_a_puzzle_of_flesh - Modern retrospective review
+[^ref-45]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - 20-year retrospective analysis
+[^ref-46]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/reviews/ - User review compilation
+[^ref-47]: https://absolutehorror.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Anthology series concept
+[^ref-48]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Designer transition information
+[^ref-49]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Creative influences documentation
+[^ref-50]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Additional creative influences
+[^ref-51]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Interactive movie context
+[^ref-52]: https://www.resetera.com/threads/controversial-point-and-click-horror-classic-phantasmagoria-is-30-years-old-today.1279260/ - Stephen King involvement consideration
+[^ref-53]: https://sierra.fandom.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Mature content design intent
+[^ref-54]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Development location and filming timeline
+[^ref-55]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Director and crew information
+[^ref-56]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Technical filming details
+[^ref-57]: https://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - Set construction vs blue screen
+[^ref-58]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Casting process details
+[^ref-59]: https://web.archive.org/web/20200724154851/http://www.latimes.com/archives/la-xpm-1996-11-30-ca-4190-story.html - SAG talent payment information
+[^ref-60]: https://alchetron.com/Phantasmagoria:-A-Puzzle-of-Flesh - Cast details and character assignments
+[^ref-61]: https://www.gamespot.com/reviews/phantasmagoria-2-a-puzzle-of-flesh-review/1900-2545835/ - Composer credit and score assessment
+[^ref-62]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/ - Engine information
+[^ref-63]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Video compression technology
+[^ref-64]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Censorship implementation approach
+[^ref-65]: https://www.pcgamingwiki.com/wiki/Phantasmagoria:_A_Puzzle_of_Flesh - Video file format information
+[^ref-66]: https://web.archive.org/web/20000817201336/http://www.gamecenter.com/News/Item/0,3,0-338,00.html - CD-ROM count
+[^ref-67]: https://www.mobygames.com/game/1216/phantasmagoria-a-puzzle-of-flesh/specs/ - System requirements
+[^ref-68]: https://www.gog.com/forum/phantasmagoria_series/please_add_the_windows_enhanced_version_of_phantasmagoria_a_puzzle_of_flesh - Windows version compatibility issues
+[^ref-69]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Editing platform information
+[^ref-70]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - LGBTQ protagonist significance
+[^ref-71]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Mature themes analysis
+[^ref-72]: https://glaad.org/commemorating-piece-lgbtq-gaming-history-phantasmagoria-puzzle-flesh/ - Historical impact assessment
+[^ref-73]: http://www.adventureclassicgaming.com/index.php/site/reviews/11/ - Impact on Sierra's future development
+[^ref-74]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Phantasmagoria 3 cancellation
+[^ref-75]: https://www.reddit.com/r/HorrorGames/comments/18g14j6/phantasmagoria_a_puzzle_of_flesh/ - Cult following discussion
+[^ref-76]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Influence on later horror games
+[^ref-77]: https://www.gogdb.org/product/1207658841 - GOG availability information
+[^ref-78]: https://www.myabandonware.com/search/q/Phantasmagoria%3A+A+Puzzle+of+Flesh - Abandonware availability
+[^ref-79]: https://archive.org/details/msdos_Phantasmagoria_2_-_A_Puzzle_of_the_Flesh_1996 - Internet Archive DOS version
+[^ref-80]: https://archive.org/details/P2DOSPAT - Compatibility patch archive

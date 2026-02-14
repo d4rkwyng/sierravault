@@ -231,3 +231,25 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 - [[1983 - Oils Well|← Previous: Oils Well]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Oil's Well (1990)](https://archive.org/details/msdos_Oils_Well_1990) – preservation entry, basic metadata, description
+[^ref-2]: [GameFAQs – Oil's Well (1990)](https://gamefaqs.gamespot.com/pc/605484-oils-well-1990/videos/1206971) – developer, publisher confirmation
+[^ref-3]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – comprehensive history, reviews, awards, platform releases
+[^ref-4]: [Wikipedia – Oil's Well (alternate)](https://en.wikipedia.org/wiki/Oil's_Well) – development credits, contemporary reviews
+[^ref-5]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – full credits, ratings, trivia, description
+[^ref-6]: [Retro365 – Bits from My Personal Collection: Oil's Well](https://retro365.blog/2021/08/01/bits-from-my-personal-collection-oils-well-what-you-get-when-you-mix-dig-dug-snake-and-pac-man/) – development history, version comparisons, retrospective analysis
+[^ref-7]: [ClassicReload – Oil's Well](https://classicreload.com/oils-well.html) – gameplay description, platform information
+[^ref-8]: [MobyGames – Oil's Well (1983)](https://www.mobygames.com/game/1427/oils-well/) – original version info, review scores, technical specs
+[^ref-9]: [MyAbandonware – Oil's Well (1990)](https://www.myabandonware.com/game/oil-s-well-z1) – user reviews, technical issues, ratings
+[^ref-10]: [SquakeNet – Oil's Well Remake](https://www.squakenet.com/game/oil-s-well-remake/) – gameplay description, genre classification
+[^ref-11]: [MyAbandonware – Oil's Well (1984)](https://www.myabandonware.com/game/oil-s-well-2jg) – version comparisons, user reviews
+[^ref-12]: [Pixelated Arcade – Oil's Well (1990)](https://www.pixelatedarcade.com/games/oil-s-well-1990) – version numbers, technical specs, credits
+[^ref-13]: [VOGONS Forum – Compatibility Testing](https://www.vogons.org/viewtopic.php?t=93423) – vintage hardware compatibility issues
+[^ref-14]: [The Cutting Room Floor – Oil's Well (DOS, 1990)](https://tcrf.net/Oil's_Well_(DOS,_1990)) – debug mode documentation
+[^ref-15]: [Sierra Gamers – Oil's Well (1990)](https://www.sierragamers.com/oils-well-1990/) – available downloads, manual
+[^ref-16]: [PlayClassic.Games – Oil's Well](https://playclassic.games/games/arcade-dos-games-online/play-oils-well-online/) – gameplay description
+[^ref-17]: [Metacritic – Oil's Well (1990)](https://www.metacritic.com/game/oils-well-1990) – basic metadata
+[^ref-18]: [VGTimes.ru – System Requirements](https://vgtimes.ru/games/oils-well-1990/system-requirements/) – developer/publisher confirmation
+[^ref-19]: [YouTube – Oil's Well Gameplay (VGA)](https://www.youtube.com/watch?v=JYj-5wQVbYc) – gameplay footage reference
+[^ref-20]: [YouTube – Oil's Well (1990) Video](https://www.youtube.com/watch?v=70upF0dgABQ) – gameplay documentation

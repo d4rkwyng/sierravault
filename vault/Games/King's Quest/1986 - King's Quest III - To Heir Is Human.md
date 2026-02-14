@@ -239,3 +239,22 @@ However, the game also exemplifies the design philosophy that would eventually f
 - [[1988 - King's Quest IV - The Perils of Rosella|→ Next: King's Quest IV - The Perils of Rosella]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history
+[^ref-2]: [ClassicReload – King's Quest III](https://classicreload.com/kings-quest-iii-to-heir-is-human.html) – plot summary, developer/publisher information, story connections
+[^ref-3]: [ClassicReload – Mac King's Quest III](https://classicreload.com/mac-kings-quest-iii-to-heir-is-human.html) – AGI V3 engine details, title pun origin, technical firsts
+[^ref-4]: [Just Games Retro – King's Quest III](https://www.justgamesretro.com/dos/kings-quest-iii-to-heir-is-human) – gameplay analysis, version differences, parser criticism
+[^ref-5]: [Diary of a Part Time Writer – King's Quest III](https://diaryofapartimewriter.wordpress.com/tag/kings-quest-iii-to-heir-is-human/) – retrospective review, rating, magic map mechanic, fan reception
+[^ref-6]: [MobyGames – King's Quest III](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/) – release dates, credits, technical specifications, trivia, aggregate ratings
+[^ref-7]: [Hardcore Gaming 101 – King's Quest III](http://www.hardcoregaming101.net/kings-quest-iii-to-heir-is-human/) – gameplay analysis, Easter eggs, fan remake comparison
+[^ref-8]: [NAG – Retro Review: King's Quest III](https://www.nag.co.za/2012/02/08/retro-review-kings-quest-iii-to-heir-is-human/) – retrospective analysis, fan reception, auto-mapping controversy
+[^ref-9]: [Play Classic Games – King's Quest III](https://playclassic.games/games/adventure-dos-games-online/play-kings-quest-iii-heir-human-online/) – plot description, difficulty comparison
+[^ref-10]: [Pixelated Arcade – King's Quest III](https://www.pixelatedarcade.com/games/kings-quest-iii-to-heir-is-human) – technical improvements, character revelation
+[^ref-11]: [Rock Paper Shotgun – Have You Played King's Quest III](https://www.rockpapershotgun.com/have-you-played-kings-quest-iii-to-heir-is-human) – parser mechanics, cat obstacle, EGA graphics
+[^ref-12]: [Atarimania – King's Quest III](https://www.atarimania.com/game-atari-st-king-s-quest-iii-to-heir-is-human_20948.html) – Atari ST specifications, credits, budget release, community rating
+[^ref-13]: [GameFAQs – King's Quest III (Apple II) User Review](https://gamefaqs.gamespot.com/appleii/938229-kings-quest-iii-to-heir-is-human/reviews/74441) – gameplay analysis, sprite comparison, spell mechanic criticism
+[^ref-14]: [King's Quest Omnipedia – King's Quest III (1987)](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human_(1987)) – copy protection details, Easter eggs, point distribution, initial fan reaction
+[^ref-15]: [MobyGames – King's Quest III Reviews](https://www.mobygames.com/game/126/kings-quest-iii-to-heir-is-human/reviews/) – user reviews, difficulty criticism, premise praise
+[^ref-16]: [GameFAQs – King's Quest III (PC) User Review](https://gamefaqs.gamespot.com/pc/562687-kings-quest-iii-to-heir-is-human/reviews/28183) – graphics/sound commentary, user rating
+[^ref-17]: [Robert Gomez – King's Quest III](https://robertgomez.org/fun-stuff/games/kings-quest-iii-to-heir-is-human/) – narrative analysis, gameplay criticism, manual dependency

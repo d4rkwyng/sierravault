@@ -192,3 +192,14 @@ The intellectual property's current ownership by Activision has led to periodic 
 
 
 ## 
+## References
+
+[^ref-1]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information, Easter egg details, planned story elements
+[^ref-2]: [Larry Laffer Dot Net – Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) – development history, Murry biographies, sales figures, series innovations
+[^ref-3]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – 2008 revival information, dual protagonist structure, developer contact
+[^ref-4]: [Sierra Gamers Forums – Why was there never a third game?](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams explanation, AGI engine details, Ancient Art of War story
+[^ref-5]: [ClassicReload – Manhunter: New York](https://classicreload.com/manhunter-new-york.html) – gameplay description, interface details, AGI engine information
+[^ref-6]: [Just Games Retro – Manhunter 2: San Francisco](https://www.justgamesretro.com/dos/manhunter-2-san-francisco) – gameplay analysis, series critique, story continuation
+[^ref-7]: [Sierra Wiki – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, current IP ownership, game list[^ref-11]: [Giant Bomb - Manhunter](https://www.giantbomb.com/) - wiki
+[^ref-12]: [IGDB - Manhunter 3](https://www.igdb.com/) - IGDB
+[^ref-13]: [Sierra Wiki - Manhunter](https://wiki.sierrahelp.com/) - Sierra docs

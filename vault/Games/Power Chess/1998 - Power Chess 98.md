@@ -225,3 +225,31 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 - [[1999 - Power Chess 2.0|→ Next: Power Chess 2.0]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – developer, publisher, release date, credits, ratings
+[^ref-2]: [Wikipedia – Power Chess 98](https://en.wikipedia.org/wiki/Power_Chess_98) – release dates, engine, voice cast, awards, technical details
+[^ref-3]: [Elisoftware – Power Chess 98 Product Information](http://elisoftware.org/w/index.php/Power_Chess_98_(PC,_CD-ROM)_Sierra_-_1997_USA,_Canada_Release) – marketing quotes, system requirements
+[^ref-4]: [Amazon – Power Chess 98 Customer Reviews](https://www.amazon.com/Power-Chess-98-PC/dp/B0008ELX5O) – user ratings, adaptive AI description, development team note
+[^ref-5]: [Chess.com Forum – Does Anyone Remember This Chess Software](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – dual engine architecture, machine code implementation
+[^ref-6]: [GOG Forum – Request Power Chess 98](https://www.gog.com/forum/general_archive/request_power_chess_98_sierra) – human-like gameplay, compatibility issues
+[^ref-7]: [Abandonware France – Power Chess](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832) – version history, ratings, trivia, PGN support
+[^ref-8]: [Chess Programming Wiki – Power Chess](https://www.chessprogramming.org/Power_Chess) – WChess engine, David Kittinger
+[^ref-9]: [Chess.com Forum – A Search for Older Chess Software](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882) – court hierarchy, difficulty progression
+[^ref-10]: [Internet Archive – Power Chess 98 USA](https://archive.org/details/powerchess98usa) – release date, features, interface description
+[^ref-11]: [GameSpot – Power Chess 98 Review](https://www.gamespot.com/reviews/power-chess-98-review/1900-2545810/) – review score, Commoner opponents, AI goals
+[^ref-12]: [Nychold LiveJournal – Power Chess Retrospective](https://nychold.livejournal.com/206758.html) – Crack the King mode, learning features, commendation system
+[^ref-13]: [GameSpot – Power Chess Review](http://www.gamespot.com/reviews/power-chess-review/1900-2545814/) – review score, Chess Lab feature
+[^ref-14]: [MobyGames – Power Chess](https://www.mobygames.com/game/1922/power-chess/) – original designers, famous games database
+[^ref-15]: [Web Archive – CD-MAG 1996 Awards](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – Strategy Plus Traditional Game award
+[^ref-16]: [GameFAQs – Power Chess 98](https://gamefaqs.gamespot.com/pc/89745-power-chess-98) – user ratings, game classification
+[^ref-17]: [MobyGames – Power Chess 98 Tech Specs](https://www.mobygames.com/game/38740/power-chess-98/specs/windows/) – system requirements, multiplayer options
+[^ref-18]: [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html) – patch versions, file sizes
+[^ref-19]: [SourceForge – DXWnd Power Chess Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/98dd46dfc6/) – technical architecture, compatibility issues
+[^ref-20]: [TalkChess Forum – Power Chess Compatibility](https://talkchess.com/viewtopic.php?t=80784) – PCem emulation, modern patches
+[^ref-21]: [Steam Store Search](https://store.steampowered.com/search/?term=Power+Chess+98) – game not available on platform
+[^ref-22]: [Sierra Chest – Power Chess 98](https://sierrachest.com/index.php?a=games&id=411&title=power-chess-98&fld=general) – release date confirmation
+[^ref-23]: [IMDB – Power Chess 98](https://www.imdb.com/title/tt0292197/) – release date, publisher
+[^ref-24]: [Metacritic – Power Chess 98](https://www.metacritic.com/game/power-chess-98/) – developer, publisher confirmation
+[^ref-25]: [IGDB – Power Chess 98](https://www.igdb.com/games/power-chess-98/similar) – platform, similar games
+[^ref-26]: [PC Powerplay Magazine #33 (February 1999)](https://archive.org/details/PCPowerplay-033-1999-02/page/n112) – period publication reference

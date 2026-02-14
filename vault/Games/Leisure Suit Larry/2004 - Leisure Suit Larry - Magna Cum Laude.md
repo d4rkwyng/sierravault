@@ -319,3 +319,46 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 - [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information
+[^ref-2]: [MobyGames – Leisure Suit Larry: Magna Cum Laude](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/) – developer credits, awards, trivia, user reviews
+[^ref-3]: [Internet Archive – Game Preservation](https://archive.org/details/LeisureSuitLarryMagnaCumLaude_922) – release date, developer, story description
+[^ref-4]: [Hardcore Gaming 101 – Leisure Suit Larry: Magna Cum Laude](http://www.hardcoregaming101.net/leisure-suit-larry-magna-cum-laude/) – development history, gameplay analysis
+[^ref-5]: [Al Lowe's Website – Magna Cum Laude](https://web.archive.org/web/20180504234238/http://allowe.com/games/larry/history-of-larry/magna-cum-laude.html) – creator's perspective, development exclusion, critical assessment
+[^ref-6]: [eBay Product Listings](https://www.ebay.com/p/30580734) – developer info, inspiration, platform details
+[^ref-7]: [GameSpot Review – PC Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109830/) – Alex Navarro review, score 7.2/10
+[^ref-8]: [Gamicus Wiki – Leisure Suit Larry: Magna Cum Laude](https://gamicus.fandom.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – version information, ESRB ratings, release dates
+[^ref-9]: [GOG.com Store Page](https://www.gog.com/en/game/leisure_suit_larry_magna_cum_laude_uncut_and_uncensored) – game description
+[^ref-10]: [Walkthrough King – LSL8](https://www.walkthroughking.com/text/leisuresuitlarry8.aspx) – gameplay structure, collectibles
+[^ref-11]: [Trade Post Entertainment](https://tradepostentertainment.com/games/02062672215) – dialogue word count, location count
+[^ref-12]: [TV Tropes – YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryMagnaCumLaude) – ending details, modern analysis
+[^ref-28]: [HandWiki – Software Entry](https://handwiki.org/wiki/Software:Leisure_Suit_Larry:_Magna_Cum_Laude) – gameplay description, review compilation
+[^ref-14]: [Amazon Product Listing](https://www.amazon.com/Leisure-Suit-Larry-Magna-Cum-Laude/dp/B0001ZDLEQ) – product features
+[^ref-15]: [IMDB – Movie Connections](https://www.imdb.com/title/tt0421136/movieconnections/) – references, parodies, character quotes
+[^ref-16]: [GameFAQs – PS2 FAQs](https://gamefaqs.gamespot.com/ps2/919126-leisure-suit-larry-magna-cum-laude/faqs) – gameplay information
+[^ref-17]: [Neoseeker Cheats](https://www.neoseeker.com/leisuresuitlarry-magna/cheats/pc/) – token collection, photography system
+[^ref-18]: [GameSpot Review – Xbox Version](https://www.gamespot.com/reviews/leisure-suit-larry-magna-cum-laude-review/1900-6109836/) – locations, easter eggs
+[^ref-19]: [Medium – Jeffrey McGee Analysis](https://kalamarikoncepts.medium.com/leisure-suit-larry-magna-cum-laude-the-funniest-game-ever-and-nobody-knows-it-bc660ea45b17) – conversation mechanic description
+[^ref-20]: [Game Informer Review (Archived)](https://web.archive.org/web/20081203205839/http://www.gameinformer.com/NR/exeres/ED20FE12-E630-4842-A734-0287DE150FC8.htm) – gameplay mechanics, voice acting praise
+[^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism
+[^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system
+[^ref-23]: [GameCritics Review](https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
+[^ref-24]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry, Next Level Gaming scores
+[^ref-25]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score
+[^ref-26]: [Eurogamer Review](https://www.eurogamer.net/articles/r_leisuresuitlarry_ps2) – Kristan Reed review, 7/10, technical issues
+[^ref-27]: [IGN Review](https://www.ign.com/articles/2004/10/04/leisure-suit-larry-magna-cum-laude-3) – Steve Butts review, 7.2/10, easter eggs
+[^ref-29]: [GameSpy Review](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/554735p1.html) – Sal Accardo review, loading time complaints
+[^ref-30]: [IMDB – Game Entry](https://www.imdb.com/title/tt0421136/) – voice cast, cancelled sequel info, user rating
+[^ref-36]: [GOG Database](https://www.gogdb.org/product/1207659225) – user rating, pricing history
+[^ref-32]: [HowLongToBeat Reviews](https://howlongtobeat.com/game/5275/reviews/latest/1) – user rating, playtime data
+[^ref-33]: [GameFAQs User Review](https://gamefaqs.gamespot.com/ps2/919126-leisure-suit-larry-magna-cum-laude/reviews/172987) – Al Lowe quotes, technical issues
+[^ref-34]: [MobyGames User Review – Tony Denis](https://www.mobygames.com/game/15118/leisure-suit-larry-magna-cum-laude/user-review/2673954/) – voice acting praise, gameplay criticism
+[^ref-35]: [PCGamingWiki – Technical Info](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – system requirements, known issues
+[^ref-37]: [GameCopyWorld](https://gamecopyworld.com/games/pc_leisure_suit_larry_mcl.shtml) – copy protection information
+[^ref-38]: [Easter Egg Database](https://eeggs.com/items/47033.html) – Interocitor easter egg details
+[^ref-40]: [CheatCC Guide](https://www.cheatcc.com/articles/leisure-suit-larry-magna-cum-laude-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – character name references
+[^ref-41]: [Ringostrack Soundtrack Database](https://ringostrack.com/movie/leisure-suit-larry-magna-cum-laude/58071) – complete soundtrack listing
+[^ref-42]: [Reddit – Steam Delisting](https://www.reddit.com/r/pcgaming/comments/1kbs8sa/a_number_of_leisure_suit_larry_games_will_be/) – Steam availability
+[^ref-43]: [GamePressure – Nude Patch](https://www.gamepressure.com/download/leisure-suit-larry-magna-cum-laude-nude-patch/z01870) – patch information, download statistics
+[^ref-44]: [Scribd – Prima Guide](https://www.scribd.com/document/392902090/Leisure-Suit-Larry-Magna-Cum-Laude-Prima-Official-EGuide) – official strategy guide

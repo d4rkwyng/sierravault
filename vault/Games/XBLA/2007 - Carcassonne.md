@@ -119,3 +119,21 @@ The original Xbox 360 XBLA version may no longer be available due to marketplace
 - [[2008 - Lost Cities]] (Sierra Online Shanghai)
 
 ## 
+## References
+
+[^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) - Primary game information
+[^ref-2]: [Carcassonne board game - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)) - Original board game reference
+[^ref-3]: [Carcassonne - IGN](https://www.ign.com/games/carcassonne) - IGN game page, 8/10 score
+[^ref-4]: [Carcassonne Review - IGN](https://www.ign.com/articles/2007/06/29/carcassonne-review) - Daemon Hatfield's full review
+[^ref-5]: [Carcassonne Reviews - Metacritic](https://www.metacritic.com/game/carcassonne/) - Aggregate review scores
+[^ref-6]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information
+[^ref-7]: [Klaus-Jürgen Wrede - Wikipedia](https://en.wikipedia.org/wiki/Klaus-J%C3%BCrgen_Wrede) - Board game designer biography
+[^ref-8]: [Carcassonne review - Eurogamer](https://www.eurogamer.net/carcassonne-review) - Eurogamer review
+[^ref-9]: [Carcassonne for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/935186-carcassonne) - GameFAQs game page
+[^ref-10]: [Carcassonne Review - GameSpot](https://www.gamespot.com/reviews/carcassonne-review/1900-6173330/) - GameSpot review
+[^ref-11]: [Carcassonne builds out XBLA - GameSpot](https://www.gamespot.com/articles/carcassonne-builds-out-xbla/1100-6173055/) - Announcement article
+[^ref-12]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA platform history
+[^ref-13]: [Carcassonne FAQ - GameFAQs](https://gamefaqs.gamespot.com/xbox360/935186-carcassonne/faqs/50178) - Game guide and information
+[^ref-14]: [Carcassonne - TrueAchievements](https://www.trueachievements.com/game/Carcassonne) - Publisher: Sierra Entertainment, Xbox Game Studios
+[^ref-16]: [Xbox 360 Preview - Carcassonne - WorthPlaying](https://www.worthplaying.com/article/2007/5/15/previews/42023-xbox-360-preview-carcassonne/) - Preview article, confirms Sierra Online publisher/developer
+[^ref-17]: [Carcassonne - BoardGameGeek](https://boardgamegeek.com/boardgame/822/carcassonne) - Original board game reference, designer Klaus-Jürgen Wrede

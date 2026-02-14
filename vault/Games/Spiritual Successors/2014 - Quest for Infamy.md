@@ -113,3 +113,27 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|→ Next: Cluck Yegger in Escape From The Planet of The Poultroid]]
 
 ## 
+## References
+
+[^ref-1]: [Adventure Game Database](https://www.adventuregamedb.com/g/quest_for_infamy) – - Game description and premise
+[^ref-2]: [Wikipedia - Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – - Developer information and basic game details
+[^ref-3]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Quest_for_Infamy) – - Technical specifications and engine information
+[^ref-4]: [GOG.com](https://www.gog.com/en/game/quest_for_infamy) – - Official game description
+[^ref-5]: [Wikipedia - Infamous Adventures](https://en.wikipedia.org/wiki/Infamous_Adventures) – - Original concept vs. final release details
+[^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=news&pid=170) – - Kickstarter campaign announcement
+[^ref-7]: [HardcoreGaming101](http://www.hardcoregaming101.net/quest-for-infamy/) – - Developer interview with design credits
+[^ref-8]: [Quest for Infamy Official Website](https://questforinfamy.com/) – - Platform availability information
+[^ref-9]: [HubPages Walkthrough - Act One](https://discover.hubpages.com/games-hobbies/Quest-for-Infamy-Walkthrough-Act-One-Part-One-Gorth) – - Game opening and setting description
+[^ref-10]: [HubPages Walkthrough - Act Two](https://discover.hubpages.com/games-hobbies/Quest-for-Infamy-Walkthrough-Act-Two-Part-Two-The-Morroi) – - Main quest objectives and game mechanics
+[^ref-11]: [itch.io - Infamous Quests](https://infamousquests.itch.io/quest-for-infamy) – - Official game features description
+[^ref-12]: [RPGFan Review](https://www.rpgfan.com/review/quest-for-infamy/) – - Interface and gameplay analysis
+[^ref-13]: [Quest for Infamy About Page](https://questforinfamy.com/about-qfi) – - Technical requirements and control information
+[^ref-14]: [FreeGOGPCGames](https://freegogpcgames.com/8622/quest-for-infamy/) – - Character class options
+[^ref-15]: [OpenCritic](https://opencritic.com/game/642/quest-for-infamy/reviews) – - Combat system criticism
+[^ref-16]: [Metacritic](https://www.metacritic.com/game/quest-for-infamy/) – - Professional review scores and quotes
+[^ref-17]: [OpenCritic](https://opencritic.com/game/642/quest-for-infamy) – - GamingTrend review
+[^ref-18]: [Steam Store Page](https://store.steampowered.com/app/264560/Quest_for_Infamy/) – - Metacritic score reference
+[^ref-19]: [PopMatters Review](https://www.popmatters.com/184088-quest-for-infamy-a-second-opinion-2495635478.html) – - Sierra legacy assessment
+[^ref-20]: [TheXboxHub Review](https://www.thexboxhub.com/quest-for-infamy-review/) – - Console port review and voice acting criticism
+[^ref-21]: [VGMdb](https://vgmdb.net/album/71371) – - Soundtrack details and composer information
+[^ref-22]: [Quest for Glory Fandom](https://questforglory.fandom.com/wiki/Quest_for_Infamy) – - Voice cast information

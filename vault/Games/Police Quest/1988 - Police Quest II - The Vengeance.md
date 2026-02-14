@@ -263,3 +263,32 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 - [[1991 - Police Quest III - The Kindred|→ Next: Police Quest III - The Kindred]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details
+[^ref-2]: [Abandonware DOS – Police Quest 2](https://www.abandonwaredos.com/abandonware-game.php?gid=1298) – Computer Gaming World review quotes, Jim Walls background, trivia about real-life basis
+[^ref-3]: [Adventure Gamers – Police Quest 2: The Vengeance](https://adventuregamers.com/article/police_quest_2_the_vengeance) – retrospective review, SCI engine details, Easter eggs, Jim Walls typing ability
+[^ref-4]: [ClassicReload – Police Quest 2](https://classicreload.com/police-quest-2-the-vengeance.html) – interface description, police procedures requirement
+[^ref-5]: [Best DOS Games – Police Quest 2](https://bestdosgames.com/games/police-quest-2-the-vengeance) – realism quotes, gameplay description
+[^ref-6]: [MobyGames – Police Quest 2: The Vengeance](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/) – credits, ratings, platforms, Easter eggs, official description
+[^ref-7]: [Amazon – Police Quest 2 Atari ST](https://www.amazon.com/Police-Quest-2-Vengeance-Atari-ST/dp/B000AD9MNI) – customer reviews, product description
+[^ref-8]: [IGN – Police Quest 2: The Vengeance](https://www.ign.com/games/police-quest-2-the-vengeance) – user rating, game description
+[^ref-9]: [TV Tropes – Police Quest 2: The Vengeance](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/PoliceQuest2TheVengeance) – Easter eggs, Japanese version details, in-game quotes
+[^ref-10]: [PlayClassic Games – Police Quest 2](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-police-quest-2-vengeance-online/) – forensics focus, SCI engine improvements
+[^ref-11]: [My Abandonware – Police Quest 2](https://www.myabandonware.com/game/police-quest-2-the-vengeance-kn) – user reviews, technical details, release versions
+[^ref-12]: [WalkthroughKing – Police Quest 2](https://www.walkthroughking.com/text/policequest2.aspx) – plot summary, game description
+[^ref-13]: [MobyGames Reviews – Police Quest 2 DOS](https://www.mobygames.com/game/147/police-quest-2-the-vengeance/reviews/dos/) – player reviews, technical issues, gameplay features
+[^ref-14]: [GameFAQs – Police Quest 2 Walkthrough](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/37121) – gameplay mechanics, Easter eggs, "Let's Roll" trivia
+[^ref-15]: [GameFAQs – Police Quest 2 Minimum Points Guide](https://gamefaqs.gamespot.com/pc/564773-police-quest-2-the-vengeance/faqs/72547) – minimum completion details, bullet requirements, bugs
+[^ref-16]: [Reddit – Police Quest II Discussion](https://www.reddit.com/r/Sierra/comments/1gzb1u1/police_quest_ii_is_a_very_grounded_game/) – player experience, Al Lowe note, puzzle design philosophy
+[^ref-17]: [A Force For Good – Police Quest 2 Review](https://forceforgood.co.uk/adventure/police-quest-2-the-vengeance/) – retrospective review, VGA remake comparison
+[^ref-18]: [Retro Freak Reviews – Police Quest 2](https://retrofreakreviews.com/2025/05/19/police-quest-2-dos-review/) – technical achievements, soft-lock issues, PC-98 details
+[^ref-19]: [IMDB – Police Quest 2](https://www.imdb.com/find/?q=Police+Quest+2%3A+The+Vengeance&s=tt) – user rating
+[^ref-20]: [GOG.com – Police Quest Collection](https://www.gog.com/en/game/police_quest_1_2_3_4) – user reviews, product details, training tool mentions
+[^ref-21]: [Sierra Chest – Police Quest 2](https://www.sierrachest.com/index.php?a=games&id=21&fld=general) – development credits, collections, Mark Seibert soundtrack note
+[^ref-22]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – soundtrack information
+[^ref-23]: [PCGamingWiki – Police Quest II](https://www.pcgamingwiki.com/wiki/Police_Quest_II:_The_Vengeance) – technical specifications, system requirements, DOSBox/ScummVM support
+[^ref-24]: [VGMdb – Police Quest 2 PC-98](https://vgmdb.net/release/29214) – Japanese release date
+[^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales figures
+[^ref-26]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook/page/140/) – strategy guide publication details
+[^ref-27]: [Internet Archive – Police Quest 2 Hint Book](https://archive.org/stream/Police_Quest_2_Hint_Book/Police_Quest_2_Hint_Book_djvu.txt) – official hint book

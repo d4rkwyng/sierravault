@@ -190,3 +190,30 @@ The game has been preserved by various abandonware sites and is considered no lo
 - **Next:** N/A
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/3844/geisha/) – Basic game information and developer/publisher details
+[^ref-2]: [Adventure Gamers Blog](https://advgamer.blogspot.com/2016/12/missed-classic-33-geisha-1990.html) – Context about Sierra's adult content experiment
+[^ref-3]: [MobyGames - Muriel Tramis](https://www.mobygames.com/person/10719/muriel-tramis/) – Designer biography and career themes
+[^ref-4]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/introduction) – Game description and designer information
+[^ref-5]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Geisha&gid=1910) – Review commentary on game content
+[^ref-6]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3277) – Amiga Power review quote
+[^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Geisha) – Platform and engine information
+[^ref-8]: [GameFAQs](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/plot) – Opening quote from game manual
+[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/Geisha_(video_game)) – Basic plot description
+[^ref-10]: [Adventure Gamers](https://adventuregamers.com/games/view/24171) – Game plot description
+[^ref-11]: [OldGames](https://www.oldgames.sk/en/game/geisha/download/1754/) – Plot summary and setting description
+[^ref-12]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2023/03/23/geisha/) – Modern review and plot confusion
+[^ref-13]: [Internet Archive](https://archive.org/details/msdos_Geisha_1990) – Plot summary from Mobygames source
+[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/geisha-wj) – User criticism about visual clarity
+[^ref-15]: [Games Database](https://www.gamesdatabase.org/game/commodore-amiga/geisha) – Game structure description
+[^ref-16]: [UVList](https://www.uvlist.net/game-208788-Geisha) – Game completion time and content
+[^ref-17]: [UVList](https://www.uvlist.net/game-43209-Geisha) – Review scores compilation
+[^ref-19]: [OldGames.sk](https://www.oldgames.sk/en/game/geisha/) – User rating
+[^ref-20]: [Emuparadise](https://www.emuparadise.me/games/geisha) – User rating
+[^ref-21]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/amiga/935242-geisha/faqs/78791/introduction) – Development context
+[^ref-22]: [Elmobo Bandcamp](https://elmobo.bandcamp.com/album/early-years-coktel-vision) – Composer information and quote
+[^ref-23]: [MobyGames](https://mobygames.com/game/dos/geisha/techinfo) – System requirements
+[^ref-24]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=89472) – Sound device compatibility
+[^ref-25]: [Internet Archive](https://archive.org/details/geisha-mr-abandonware) – Availability status
+[^ref-26]: [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Geisha&mobileaction=toggle_view_desktop) – Modern compatibility

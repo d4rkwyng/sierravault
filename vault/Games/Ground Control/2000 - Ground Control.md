@@ -253,3 +253,52 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 - [[2000 - Ground Control - Dark Conspiracy|→ Next: Ground Control - Dark Conspiracy]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Ground Control](https://en.wikipedia.org/wiki/Ground_Control_(video_game)) – release dates, developer, publisher, Metacritic score, designers, composer
+[^ref-2]: [Wikipedia – Ground Control](https://en.m.wikipedia.org/wiki/Ground_Control_(video_game)) – gameplay mechanics, plot summary, setting
+[^ref-3]: [GameSpot – Ground Control Review](https://www.gamespot.com/reviews/ground-control-review/1900-2588769/) – review score, gameplay analysis, technical details
+[^ref-4]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=2187) – GameSpy quote, genre classification
+[^ref-5]: [Cision Press Release](https://news.cision.com/massive-entertainment/) – development team size, Sierra partnership, Walfisz quote
+[^ref-6]: [Massive Entertainment – 20 Years of Ground Control](https://www.massive.se/blog/games-technology/20-years-of-ground-control/) – development history, Walfisz and Strandh quotes, innovation context
+[^ref-7]: [CNN/IDG Review](https://www.cnn.com/2000/TECH/computing/06/21/ground.control.idg/index.html) – Brian Wright review quotes, interface praise, graphics assessment
+[^ref-8]: [Ground Control Wiki](https://groundcontrol.fandom.com/wiki/Ground_Control_Wiki) – series overview, game versions
+[^ref-9]: [PCGamingWiki – Ground Control](https://www.pcgamingwiki.com/wiki/Ground_Control) – technical specifications, engine, system requirements
+[^ref-10]: [Steam – Ground Control Anthology](https://store.steampowered.com/app/254820/Ground_Control_Anthology/) – user reviews, game description, technical requirements
+[^ref-11]: [Amazon – Ground Control](https://www.amazon.com/Ground-Control-pc/dp/B00004KD64) – product description, story elements, platform info
+[^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Ground-Control/) – release date, character/actor information
+[^ref-13]: [IMDB – Ground Control Full Credits](https://www.imdb.com/title/tt0416787/fullcredits/) – voice cast, production credits
+[^ref-14]: [Grokipedia – Ground Control](https://grokipedia.com/page/Ground_Control_(video_game)) – camera controls, 3D rendering, review scores
+[^ref-15]: [CNET Download](https://download.cnet.com/ground-control-1-0-0-7-to-1-0-0-8-patch/3000-2121_4-10236478.html) – patch notes, version information
+[^ref-16]: [Rock Paper Shotgun – Massive Interview](https://www.rockpapershotgun.com/massive-on-ground-control-and-world-in-conflict) – Walfisz interview, development insights, commercial performance
+[^ref-17]: [Bjoreman Review](https://www.bjoreman.com/old/games/gc.htm) – dropship mechanics, squad system, gameplay details
+[^ref-18]: [MyAbandonware – Ground Control](https://www.myabandonware.com/game/ground-control-3eo) – unit types, resolution, features, user rating
+[^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/914166-ground-control/faqs/16750) – gameplay mechanics, terrain importance
+[^ref-20]: [Internet Archive – Ground Control Manual](https://archive.org/details/manual_Ground_Control) – game manual, faction info, mechanics
+[^ref-21]: [IGN – Ground Control Review](https://www.ign.com/articles/2000/06/13/ground-control) – review score, Editors' Choice, save criticism
+[^ref-22]: [Eurogamer – Ground Control](https://www.eurogamer.net/groundcontrol) – review score, graphics modes, multiplayer features
+[^ref-23]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/ground-control/critic-reviews/?platform=pc) – individual review scores, publication quotes
+[^ref-24]: [Metacritic – Ground Control](https://www.metacritic.com/game/ground-control/) – aggregate score, Computer Games Magazine quote
+[^ref-25]: [BAFTA Awards](https://www.bafta.org/awards/interactive/games-pc/) – BAFTA nomination
+[^ref-26]: [Old PC Gaming](https://oldpcgaming.net/ground-control/) – tactical analysis, AI critique, technical specs
+[^ref-27]: [MobyGames – Ground Control](https://www.mobygames.com/game/1714/ground-control/) – ratings, trivia, publishers, free release info
+[^ref-28]: [IMDB Search Results](https://www.imdb.com/find/?q=Ground+Control&s=tt) – user rating
+[^ref-29]: [GOG – Ground Control Anthology](https://www.gog.com/en/game/ground_control_expansion) – user rating, game description
+[^ref-31]: [Massive Entertainment – Project Page](https://www.massive.se/project/ground-control/) – studio culture quote
+[^ref-33]: [Internet Archive – Sierra Ground Control](https://archive.org/details/Sierra_Ground_Control_Win95_2000_Eng) – file size
+[^ref-34]: [GameCopyWorld](https://gamecopyworld.com/games/pc_ground_control_2.shtml) – version numbers, copy protection
+[^ref-35]: [GameSpot – Dark Conspiracy Q&A](https://www.gamespot.com/articles/ground-control-dark-conspiracy-qanda/1100-2628134/) – expansion development, Tom Smith interview
+[^ref-36]: [GOG Database](https://www.gogdb.org/product/1207658776) – GOG version info, pricing
+[^ref-37]: [ModDB – Windows 10 Crash Fix](https://www.moddb.com/mods/ground-control-windows-10-crash-fix/downloads/patch25) – compatibility patch
+[^ref-38]: [PCGamingWiki – Ground Control II](https://www.pcgamingwiki.com/wiki/Ground_Control_II:_Operation_Exodus) – macOS compatibility, GameSpy shutdown
+[^ref-40]: [MobyGames – Anthology](https://www.mobygames.com/game/13395/ground-control-anthology/) – bundle contents
+[^ref-41]: [GameFAQs – Dark Conspiracy](https://gamefaqs.gamespot.com/pc/371478-ground-control-dark-conspiracy) – release date, developer
+[^ref-42]: [MobyGames – Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – expansion description, Phoenix Mercenaries
+[^ref-43]: [Metacritic – Dark Conspiracy](https://www.metacritic.com/game/ground-control-dark-conspiracy/) – review quotes, pricing
+[^ref-44]: [IGN – Ground Control II Review](https://www.ign.com/articles/2004/06/16/ground-control-ii-operation-exodus-review) – sequel details, timeline
+[^ref-45]: [Wikipedia – Ground Control II](https://en.wikipedia.org/wiki/Ground_Control_II:_Operation_Exodus) – Metacritic score, release dates
+[^ref-46]: [ModDB – Ground Control Mods](https://www.moddb.com/games/ground-control/mods) – mod listings, community projects
+[^ref-47]: [ModDB – The Aftermath](https://www.moddb.com/mods/ground-control-the-aftermath) – mod description, campaign details
+[^ref-48]: [Sierra Chest – Dark Conspiracy Manual](https://sierrachest.com/gfx/games/GC_DC/box/DarkConspiracyManual.pdf) – expansion documentation
+[^ref-49]: [Ubisoft News](https://news.ubisoft.com/en-us/article/4jSe6ey6u1ebgY94kVk7Az/the-division-massive-turns-20-the-permanent-quest-for-new-heights) – Massive Entertainment history, Ubisoft acquisition
+[^ref-50]: [Game Developer – Rebellion Acquires Vivendi Licenses](https://www.gamedeveloper.com/game-platforms/rebellion-acquires-vivendi-licenses-considers-new-franchise-titles) – IP acquisition, Kingsley quote

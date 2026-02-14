@@ -206,3 +206,27 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - [[2013 - Fester Mudd - Curse of the Gold|→ Next: Fester Mudd - Curse of the Gold]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) - Basic game information, second season speculation
+[^ref-2]: [MobyGames - Cognition Episode 1](https://www.mobygames.com/game/59439/cognition-an-erica-reed-thriller-episode-1-the-hangman/) - Gameplay mechanics description
+[^ref-3]: [Alternative Magazine Online](https://alternativemagazineonline.co.uk/tag/cognition-an-erica-reed-thriller/) - Episode reviews and Raleigh Holmes praise
+[^ref-4]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/reviews/769) - Jane Jensen involvement, Unity engine, development details
+[^ref-5]: [Hardcore Gaming 101](http://www.hardcoregaming101.net/cognition-an-erica-reed-thriller/) - Development background, Kickstarter funding, GOTY edition
+[^ref-7]: [Arcade Sushi](https://arcadesushi.com/cognition-episode-1-review/) - Episode structure description
+[^ref-8]: [Metacritic](https://www.metacritic.com/game/cognition-an-erica-reed-thriller-episode-1-the/) - User review quotes, aggregate scores
+[^ref-9]: [IMDb Credits](https://www.imdb.com/title/tt2481284/fullcredits) - Full development credits, art director
+[^ref-10]: [MobyGames Publisher Info](https://www.mobygames.com/game/59439/) - Reverb Publishing involvement
+[^ref-11]: [RAWG Technical Specs](https://rawg.io/games/cognition-episode-1) - Platform information, system requirements
+[^ref-12]: [Skich](https://skich.app/games/cognition-an-erica-reed-thriller-episode-1-the-hangman) - Psychic powers description
+[^ref-13]: [IMDb Plot](https://www.imdb.com/title/tt2481284/) - Story summary
+[^ref-14]: [God is a Geek](https://www.godisageek.com/2013/01/cognition-erica-reed-thriller-episode-1-hangman-review/) - Narrative description, dark themes
+[^ref-15]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=252409615) - Episode release dates, César Bittar roles
+[^ref-17]: [Softonic Review](https://cognition-an-erica-reed-thriller-episode-1-the-hangman.en.softonic.com/) - Softonic rating and description
+[^ref-18]: [1000 Guías Blogspot](https://1000guias.blogspot.com/) - Spanish walkthrough with ability description
+[^ref-19]: [Adventure Gamers](https://adventuregamers.com/games/view/15706) - Review score and series potential quote
+[^ref-20]: [IMDb Episode Ratings](https://m.imdb.com/name/nm4817490/?ref_=m_tt_mv) - Episode ratings breakdown
+[^ref-21]: [MobyGames GOTY Edition](https://www.mobygames.com/game/68533/cognition-game-of-the-year-edition/) - Critics rating, bonus content
+[^ref-22]: [Steam Community Discussions](https://steamcommunity.com/app/242780/discussions/) - Technical issues reported
+[^ref-25]: [Phoenix Online Store - Soundtrack](https://store.postudios.com/) - Music credits, Austin Haynes description
+[^ref-26]: [Old-Games.com](https://www.old-games.com/download/12027/cognition-an-erica-reed-thriller) - System compatibility

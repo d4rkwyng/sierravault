@@ -278,3 +278,27 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
 
 ## 
+## References
+
+[^ref-1]: [Grokipedia – Outpost (1994 video game)](https://grokipedia.com/page/Outpost_(1994_video_game)) – comprehensive development history, reception, sales data, patch information
+[^ref-2]: [TV Tropes – Outpost](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Outpost) – plot summary, game setting, Vulcan's Hammer background
+[^ref-3]: [Rock Paper Shotgun – DOS Boot: Outpost](https://www.rockpapershotgun.com/dos-boot-outpost-was-the-best-hard-sci-fi-sim-it-also-wasnt-finished) – retrospective analysis, journalism controversy, development history
+[^ref-4]: [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt) – official game manual, designer credits, gameplay instructions
+[^ref-5]: [ClassicReload – Outpost](https://classicreload.com/outpost.html) – hard science fiction approach, NASA involvement
+[^ref-6]: [MobyGames – Outpost](https://www.mobygames.com/game/1613/outpost/) – credits, technical specs, awards, user reviews
+[^ref-7]: [Sierra Gamers – Outpost](https://www.sierragamers.com/outpost/) – story background, setting details
+[^ref-8]: [Outpost Universe Wiki](https://wiki.outpost2.net/doku.php?id=start) – series information, community projects
+[^ref-9]: [MyAbandonware – Outpost](https://www.myabandonware.com/game/outpost-2vv) – user reviews, release history, patch information
+[^ref-10]: [Grokipedia – Outpost](https://grokipedia.com/page/Outpost) – gameplay mechanics, scientific approach
+[^ref-11]: [Sierra Help – Outpost Walkthrough](https://sierrahelp.com/Walkthroughs/OutpostWalkthrough.html) – detailed gameplay strategies, mechanics
+[^ref-12]: [Amazon – Sierra Outpost](https://www.amazon.com/Sierra-Outpost/dp/B0002TYABE) – product description, user reviews, compatibility issues
+[^ref-13]: [Amazon – Outpost Official Strategy Guide](https://www.amazon.com/Outpost-Official-Strategy-Guide-Secrets/dp/1559585080) – strategy guide details, user reviews
+[^ref-14]: [Game Bytes Magazine – Outpost Review](http://www.ibiblio.org/GameBytes/issue20/greviews/outpost1.html) – contemporary critical review, technical issues, cut content
+[^ref-15]: [GameFAQs – Outpost](https://gamefaqs.gamespot.com/pc/564701-outpost) – CGW rating, genre classification
+[^ref-16]: [Reddit – Outpost Discussion](https://www.reddit.com/r/gamesuggestions/comments/1jnn8gf/outpost_sierra_1994/) – player testimony
+[^ref-17]: [PCGamingWiki – Outpost](https://www.pcgamingwiki.com/wiki/Outpost) – technical specifications, system requirements
+[^ref-18]: [Sierra Help – Outpost Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/OutpostUpdates.html) – version history, patch details
+[^ref-19]: [Outpost Universe](https://www.outpost2.net/) – fan community, ongoing support
+[^ref-20]: [Xeen Music – Outpost Soundtrack](https://xeenmusic.bandcamp.com/album/outpost-1-official-soundtrack-sc-55) – composer credits, audio specifications
+[^ref-21]: [Wikipedia – Outpost (1994 video game)](https://en.wikipedia.org/wiki/Outpost_(1994_video_game)) – general overview, review scores
+[^ref-22]: [AbandonwareDOS – Outpost](https://www.abandonwaredos.com/search.php?search=Outpost) – platform confirmation, release year

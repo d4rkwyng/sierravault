@@ -244,3 +244,38 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 - [[1995 - Conqueror - A.D. 1086|→ Next: Conqueror - A.D. 1086]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Casino De Luxe](https://archive.org/details/casino-de-luxe) – CD-ROM preservation, technical specifications, game features, MobyGames-sourced metadata
+
+[^ref-2]: [MobyGames – Casino De Luxe](https://www.mobygames.com/game/1145/casino-de-luxe/) – Full development credits, ratings, technical specifications, series information, compilation appearances
+
+[^ref-3]: [Wikipedia – Casino Deluxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – Review scores, development notes, designer credits, Sierra acquisition information
+
+[^ref-4]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_De_Luxe) – International review scores, publication details, trivia about game features and corporate history
+
+[^ref-5]: [GameFAQs – Casino De Luxe](https://gamefaqs.gamespot.com/pc/227504-casino-de-luxe) – Game description, marketing copy, user ratings
+
+[^ref-6]: [Metacritic – Casino De Luxe](https://www.metacritic.com/game/casino-de-luxe/) – Promotional description, publisher/developer information
+
+[^ref-7]: [Sierra Chest – Casino Deluxe](https://www.sierrachest.com/index.php?a=games&id=488&title=casino-deluxe) – Release date (July 1995), basic metadata
+
+[^ref-8]: [MobyGames – Casino Deluxe 2](https://www.mobygames.com/game/157317/casino-deluxe-2/) – Sequel information, Sierra On-Line publishing, marketing taglines
+
+[^ref-9]: [LaunchBox Games Database – Casino De Luxe](https://gamesdb.launchbox-app.com/games/details/102688-casino-de-luxe) – Game description, genre classification
+
+[^ref-10]: [Next Generation Magazine – November 1995 (Issue 11)](https://archive.org/details/NEXT_Generation_11/mode/1up) – Original review, 3/5 stars rating, "best one around" quote (p. 179)
+
+[^ref-11]: [My Abandonware – Casino De Luxe](https://www.myabandonware.com/game/casino-de-luxe-fny) – User rating (4.92/5), download availability, release information
+
+[^ref-12]: [Giant Bomb – Casino De Luxe](https://giantbomb.com/wiki/Games/Casino_De_Luxe) – Release date, platform information, genre classification, cover art notes
+
+[^ref-13]: [Kotaku – Best of Sierra Nr. 7](https://kotaku.com/games/best-of-sierra-nr-7) – Compilation inclusion confirmation (July/August 1998)
+
+[^ref-14]: [Computer Game Review – September 1995](https://archive.org/details/computer-game-review-september-1995/page/n55/mode/1up) – Frank Snyder, Ted Chapman, Tasos Kaiafas review (85/100), p. 56
+
+[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – Designer biography, Casino De Luxe conceived by Lester
+
+[^ref-16]: [Sierra Buyer's Guide Spring 1996](https://archive.org/details/RetroGamingProductCatalogs/Sierra%20Buyer%27s%20Guide%20%28Spring%201996%29/page/n27/mode/1up) – Official Sierra catalog listing (p. 28)
+
+[^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex (100/200), p. 90

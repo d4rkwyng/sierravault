@@ -224,3 +224,25 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|→ Next: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Incredible Machine Search Results](https://www.mobygames.com/search/?q=The+Incredible+Machine+3.0) – release dates, platforms, version information
+[^ref-2]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – development history, sales figures, critical reception, technical details, version history
+[^ref-3]: [My Abandonware – The Incredible Machine](https://www.myabandonware.com/game/the-incredible-machine-1mg) – user reviews, technical compatibility, ratings, trivia
+[^ref-4]: [GOG.com – The Incredible Machine Mega Pack](https://www.gog.com/en/game/the_incredible_machine_mega_pack) – product description, user reviews, technical specifications, features
+[^ref-5]: [MobyGames – The Incredible Machine (3DO)](https://www.mobygames.com/game/64455/the-incredible-machine/) – credits, ratings, platform information
+[^ref-6]: [IMDB – The Incredible Machine Search Results](https://www.imdb.com/find/?q=The+Incredible+Machine+3.0&s=tt) – user ratings, series entries
+[^ref-7]: [Internet Archive – The Incredible Machine 3.0](https://archive.org/details/the-incredible-machine-3.0) – digital preservation, playable version
+[^ref-8]: [AbandonwareDOS – The Incredible Machine](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Machine&gid=1020) – DOS version information, screenshots
+[^ref-9]: [Classic Reload – The Incredible Machine](https://classicreload.com/the-incredible-machine.html) – browser playable, series context
+[^ref-10]: [Internet Archive – The Incredible Machine 2 Manual](https://archive.org/details/Incredible_Machine_2_-_Manual) – documentation, gameplay instructions
+[^ref-11]: [Amazon – The Incredible Machine Even More Contraptions](https://www.amazon.com/Incredible-Machine-Even-Contraptions-mac-pc/dp/B00005KB3J) – retail availability, series continuation
+[^ref-12]: [PCGamingWiki – TIM 3 CD Audio Patch](https://community.pcgamingwiki.com/files/file/924-the-incredible-machine-3-cd-audio-soundtrack-patched-for-digital-re-release/) – technical patches, soundtrack restoration
+[^ref-13]: [Choicest Games – Jeff Tunnell Interview](https://www.choicestgames.com/2015/04/where-are-they-now-jeff-tunnell.html) – developer history, series retrospective
+[^ref-14]: [Best Old Games – Jeff Tunnell Productions](https://www.bestoldgames.net/company/jeff-tunnell-productions) – studio background, game catalog
+[^ref-15]: [Disney Support – TIM Mega Pack](https://appsupport.disney.com/hc/en-us/articles/360001041463-About-The-Incredible-Machine-Mega-Pack) – modern re-release support, bundle information
+[^ref-16]: [Academic Kids – The Incredible Machine](https://academickids.com/encyclopedia/index.php/The_Incredible_Machine) – educational perspective, gameplay description
+[^ref-17]: [Internet Archive – DOS Manual](https://archive.org/details/the-incredible-machine-dos-manual) – original documentation preservation
+[^ref-18]: [Internet Archive – Original 1992 Release](https://archive.org/details/the_incredible_machine_1992) – series origins, historical preservation
+[^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=The+Incredible+Machine+3.0) – digital availability status
+[^ref-20]: [Adventure Gamers – TIM Search](https://adventuregamers.com/search/?q=The+Incredible+Machine+3.0) – genre classification, community coverage

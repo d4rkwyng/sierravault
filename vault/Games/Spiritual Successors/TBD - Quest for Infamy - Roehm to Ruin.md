@@ -179,3 +179,25 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 
 
 ## 
+## References
+
+[^ref-1]: [Adventure Gamers – Quest for Infamy Series](https://adventuregamers.com/gameseries/quest_for_infamy) – series overview, prequel description, plot summary
+[^ref-2]: [Adventure Gamers – Quest for Infamy: Roehm to Ruin](https://adventuregamers.com/games/quest-for-infamy-roehm-to-ruin) – game details, Gamescom coverage, developer info
+[^ref-3]: [Infamous Quests Patreon – Development Updates](https://www.patreon.com/posts/updates-on-rtr-141274312) – development status, voice acting progress, team changes
+[^ref-4]: [Kickstarter – Order of the Thorne & Roehm to Ruin Campaign](https://www.kickstarter.com/projects/infamousquests/order-of-the-thorne-and-roehm-to-ruin-by-infamous) – funding totals, backer count, campaign dates
+[^ref-5]: [Hardcore Gaming 101 – Quest for Infamy](http://www.hardcoregaming101.net/quest-for-infamy/) – developer history, design philosophy, anti-hero concept
+[^ref-6]: [itch.io – Quest for Infamy: Roehm to Ruin](https://infamousquests.itch.io/qfi-rtr) – price, platform, features, multiple endings
+[^ref-7]: [Wikipedia – Infamous Quests](https://en.wikipedia.org/wiki/Infamous_Quests) – company founding, Quest for Infamy Kickstarter, Time Magazine mention
+[^ref-8]: [Steam News – Quest for Infamy Prequel Announcement](https://store.steampowered.com/news/app/264560/view/2870438037408794565) – April 2015 announcement, story premise
+[^ref-9]: [King's Quest Omnipedia – King's Quest Style Games](https://kingsquest.fandom.com/wiki/King%27s_Quest_Style_Games) – genre classification, Sierra inspiration
+[^ref-10]: [Adventure Gamers – Quest for Infamy (2014)](https://adventuregamers.com/games/quest-for-infamy) – review score, pros and cons, release info
+[^ref-11]: [Cliqist – Infamous Quests Kickstarter Coverage](http://cliqist.com/2015/04/04/two-new-games-infamous-quests/) – demo availability, funding progress, dual project concept
+[^ref-12]: [Steam Community – Quest for Infamy](https://steamcommunity.com/app/264560/allnews/) – news announcements, version updates
+[^ref-13]: [Infamous Quests Patreon – January 2026 Update](https://www.patreon.com/posts/small-update-147963671) – Steve Patrick recording session, near-completion status
+[^ref-14]: [HandWiki – Infamous Quests](https://handwiki.org/wiki/Company:Infamous_Quests) – company information, game catalog
+[^ref-15]: [RPG Codex – Roehm to Ruin Kickstarter News](https://rpgcodex.net/article.php?id=9849) – campaign announcement coverage
+[^ref-16]: [CD Projekt Red Forums – Adventure Games Discussion](https://forums.cdprojektred.com/index.php?goto/post&id=1686104) – Quest for Infamy v1.1 update mention
+[^ref-17]: [GameBanshee – Quest for Infamy: Roehm to Ruin](https://www.gamebanshee.com/games/quest-for-infamy-roehm-to-ruin.html) – game database listing
+[^ref-18]: [itch.io – Sierra Style Adventures Collection](https://itch.io/c/1738056/sierra-style-adventures) – genre categorization
+[^ref-19]: [Kickstarter – Quest for Infamy Original Campaign](https://www.kickstarter.com/projects/infamousquests/quest-for-infamy-an-adventure-game-by-infamous-que/posts) – original funding, backer comments
+[^ref-20]: [Steam Community – Quest for Infamy Discussion](https://steamcommunity.com/app/264560/discussions/0/1735463620082204491/) – sequel interest, community engagement

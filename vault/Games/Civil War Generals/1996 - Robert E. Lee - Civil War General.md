@@ -109,3 +109,61 @@ The game's educational value has ensured its lasting relevance, with players con
 
 
 ## 
+## References
+
+[^ref-1]: [Abandonware DOS Search Results](https://www.abandonwaredos.com/search.php?search=Robert+E.+Lee%3A+Civil+War+General) - General reference listing
+[^ref-2]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Robert+E.+Lee%3A+Civil+War+General) - Website homepage reference
+[^ref-3]: [All Video Classic Games Product Page](https://www.allvideoclassicgames.com/products/robert-e-lee-civil-war-general-1clk-windows-10-8-7-vista-xp-install) - Comprehensive game details and historical context
+[^ref-4]: [Archive Today - CUC Acquisition](https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/) - Sierra On-Line acquisition details
+[^ref-5]: [Chapter Cheats](https://www.chaptercheats.com/cheats/pc/369088/robert-e-lee-civil-war-general-cheat-codes) - Basic game information and release date
+[^ref-6]: [eBay Listing 1](https://www.ebay.com/itm/187217309106) - Product details and ESRB rating
+[^ref-7]: [eBay Product Listing](https://www.ebay.com/p/54344346) - Detailed game features and historical accuracy notes
+[^ref-8]: [eBay Listing 2](https://www.ebay.com/itm/126379205736) - Game mechanics and multiplayer features
+[^ref-9]: [Wikipedia Main Article](https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General) - Comprehensive development and design details
+[^ref-10]: [Wikipedia Alternate](https://en.wikipedia.org/wiki/Robert_E._Lee%3A_Civil_War_General) - Technical specifications and multimedia features
+[^ref-11]: [The Digital Antiquarian Search](https://www.filfre.net/?s=Robert+E.+Lee%3A+Civil+War+General) - Search results page with no content
+[^ref-12]: [Matrix Games Forum](https://forums.matrixgames.com/viewtopic.php?t=106572) - Player experiences and technical issues
+[^ref-13]: [GameFAQs Main Page](https://gamefaqs.gamespot.com/pc/198498-robert-e-lee-civil-war-general) - Game description and multiplayer features
+[^ref-14]: [GameFAQs Technical Support](https://gamefaqs.gamespot.com/pc/198498-robert-e-lee-civil-war-general/answers/145614-im-having-a-problem-getting-this-game-to-work-on-an-xp-op-system-is-there-a) - Compatibility workarounds
+[^ref-15]: [Games Nostalgia Search](https://gamesnostalgia.com/search?query=Robert+E.+Lee%3A+Civil+War+General) - Search error message
+[^ref-16]: [GameSpot Civil War Generals 2 Review](https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/) - Sequel review with series context
+[^ref-17]: [GameSpot Review](https://www.gamespot.com/reviews/robert-e-lee-civil-war-general-review/1900-2532844/) - Comprehensive game review
+[^ref-18]: [GOG Community Dreamlist](https://www.gog.com/dreamlist/game/robert-e-lee-civil-war-general-1996) - Player memories and experiences
+[^ref-19]: [GOG Games Search](https://www.gog.com/en/games?query=Robert+E.+Lee%3A+Civil+War+General) - No results found
+[^ref-20]: [How Long to Beat Search](https://howlongtobeat.com/?q=Robert+E.+Lee%3A+Civil+War+General) - Search results page
+[^ref-21]: [IGN Wiki Stub](https://www.ign.com/wikis/robert-e-lee-civil-war-general) - Minimal wiki information
+[^ref-22]: [IMDB Historical Discussions](https://www.imdb.com/find/?q=Robert+E.+Lee%3A+Civil+War+General&s=tt) - Podcast and historical episodes
+[^ref-26]: [Metacritic Game Details](https://www.metacritic.com/game/robert-e-lee-civil-war-general/details/) - Official game description
+[^ref-27]: [MobyGames ID Page](https://www.mobygames.com/game/4773/) - Database entry
+[^ref-28]: [MobyGames Technical Specs](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/specs/) - Technical specifications
+[^ref-29]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Robert+E.+Lee%3A+Civil+War+General) - Search results
+[^ref-30]: [MobyGames Windows Entry](https://www.mobygames.com/game/windows/robert-e-lee-civil-war-general) - Detailed game information
+[^ref-31]: [MobyGames Main Entry](https://www.mobygames.com/game/4773/robert-e-lee-civil-war-general/) - Comprehensive game database
+[^ref-32]: [MobyGames Civil War Generals 2](https://www.mobygames.com/game/3197/grant-lee-sherman-civil-war-2-generals/) - Sequel information
+[^ref-33]: [My Abandonware Search](https://www.myabandonware.com/search/q/Robert+E.+Lee%3A+Civil+War+General) - Basic search results
+[^ref-34]: [My Abandonware Game Page](https://www.myabandonware.com/game/robert-e-lee-civil-war-general-9zr) - User reviews and ratings
+[^ref-35]: [Old Games Download Page](https://www.old-games.com/download/9946/robert-e-lee-civil-war) - Game review and download
+[^ref-36]: [Old Games Download](https://oldgamesdownload.com/robert-e-lee-civil-war-general/) - Historical context and technical details
+[^ref-37]: [PC IGN Article](http://pc.ign.com:80/articles/066/066418p1.html) - IGN coverage
+[^ref-38]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Robert_E._Lee:_Civil_War_General) - Technical specifications
+[^ref-39]: [Polygon Battlefront Article](https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission) - Development insights
+[^ref-40]: [Sierra Gamers Civil War Generals 2](https://www.sierragamers.com/civil-war-generals-2/) - Series overview
+[^ref-41]: [Sierra Gamers Civil War Generals 1](https://www.sierragamers.com/civil-war-generals-1/) - Game overview
+[^ref-42]: [Spokesman CUC Acquisition](http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/) - Business acquisition coverage
+[^ref-43]: [Steam Search Results](https://store.steampowered.com/search/?term=Robert+E.+Lee%3A+Civil+War+General) - No matching games found
+[^ref-44]: [VGChartz Cheats Page](https://www.vgchartz.com/game/24591/robert-e-lee-civil-war-general/cheats) - Basic metadata
+[^ref-45]: [VGTimes Main Page](https://vgtimes.com/games/robert-e-lee-civil-war-general/) - Game information
+[^ref-46]: [VGTimes User Reviews](https://vgtimes.com/games/robert-e-lee-civil-war-general/usersreviews/) - Rating information
+[^ref-47]: [VideoGameGeek Entry](https://videogamegeek.com/videogame/96953/robert-e-lee-civil-war-general) - Detailed database entry
+[^ref-48]: [Web Archive CD Magazine Preview](https://web.archive.org/web/19970101040007/http://www.cdmag.com:80/war_vault/robert_e_lee_general/page1.html) - Early game preview
+[^ref-49]: [Web Archive OGR News](https://web.archive.org/web/19970227065609/http://www.ogr.com:80/news/news0197.html) - Gaming news from 1997
+[^ref-50]: [Web Archive Next Generation News](https://web.archive.org/web/19970606062133/http://www.next-generation.com:80/news/041096e.html) - 1996 release schedule
+[^ref-51]: [Web Archive CD Magazine E3](https://web.archive.org/web/19971007211944/http://www.cdmag.com:80/war_vault/e3_war/page1.html) - E3 preview coverage
+[^ref-52]: [Web Archive OGR August 1996](https://web.archive.org/web/19961019035640/http://www.ogr.com:80/news/news0896.html) - Contemporary release coverage
+[^ref-53]: [Web Archive Sierra Marketing](https://web.archive.org/web/19961219235448/http://www.sierra.com:80/entertainment/civilwar/) - Official marketing materials
+[^ref-54]: [Web Archive PC Gamer Review](https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html) - Contemporary review
+[^ref-55]: [Web Archive Polygon Battlefront](https://web.archive.org/web/20130430034430/https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission) - Industry development history
+[^ref-56]: [Web Archive NPD Sales Data](https://web.archive.org/web/19990225105904/http://www.npd.com:80/corp/products/product_indsoft9609.htm) - Sales rankings from 1996
+[^ref-57]: [Web Archive CD Magazine Review](https://web.archive.org/web/19970101004614/http://www.cdmag.com:80/war_vault/robert_e_lee_general_review/page1.html) - Contemporary game review
+[^ref-58]: [Wikidata Entry](https://www.wikidata.org/wiki/Q7343830) - Structured metadata
+[^ref-59]: [Zophar Music Archive](https://www.zophar.net/music/windows/robert-e-lee-civil-war-general) - Game soundtrack details

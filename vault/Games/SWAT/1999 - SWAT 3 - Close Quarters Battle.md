@@ -282,3 +282,44 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 - [[2003 - SWAT - Global Strike Team|→ Next: SWAT - Global Strike Team]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – SWAT 3: Close Quarters Battle](https://en.wikipedia.org/wiki/SWAT_3:_Close_Quarters_Battle) – release dates, developer, designer, composer, engine, sales data, awards, development timeline, motion capture, aggregate scores
+[^ref-2]: [Internet Archive – SWAT 3: Close Quarters Battle Demo](https://archive.org/details/Swat3CloseQuartersBattleDemo) – game description, mission count, game modes, character count, LAPD consultation, Daryl F. Gates involvement
+[^ref-3]: [Game Developer – Postmortem: Sierra's SWAT3 Close Quarters Battle](https://www.gamedeveloper.com/design/postmortem-sierra-s-i-swat3-close-quarters-battle-i-) – development timeline, engine details, technical specifications, cut content, Jim Napier quotes
+[^ref-4]: [GOG – SWAT 3: Tactical Game of the Year Edition](https://www.gog.com/en/game/swat_3_tactical_game_of_the_year_edition) – system requirements, user reviews, compatibility issues, locations
+[^ref-5]: [GameSpot – SWAT 3: Close Quarters Battle Review](https://www.gamespot.com/reviews/swat-3-close-quarters-battle-review/1900-2533326/) – review score, AI praise, gameplay mechanics
+[^ref-6]: [CNN – SWAT 3 Preview (Archived)](https://web.archive.org/web/20000116090643/http://www.cnn.com/TECH/computing/9909/07/swat3/index.html) – Ken Thatcher quotes, LAPD consultation, non-violent emphasis
+[^ref-7]: [ModDB – SWAT 3](https://www.moddb.com/games/swat-3) – series installment number, community rating, easter eggs, patch information
+[^ref-10]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT_3:_Close_Quarters_Battle) – game opening text, setting, development notes
+[^ref-9]: [Felicitrio Product Page](https://felicitrio.com/oscom2/product_info.php?products_id=21) – equipment list, game setting, mission description
+[^ref-11]: [IMDB – SWAT 3](https://www.imdb.com/title/tt0487963/) – user rating, terrorist groups, trivia about anachronism
+[^ref-12]: [Prima Games Strategy Guide (Internet Archive)](https://archive.org/stream/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide/SWAT_3_Close_Quarter_Battle_Prima_Official_eGuide_djvu.txt) – mission briefings, objectives
+[^ref-13]: [Internet Archive – Tactical Game of the Year Edition](https://archive.org/details/SWAT3CloseQuartersBattleUSATacticalGameOfTheYearEdition) – mission types, version details, Advanced Tactics CD
+[^ref-14]: [GameFAQs Guide by kschang77](https://gamefaqs.gamespot.com/pc/198868-swat-3-close-quarters-battle/faqs/34285) – gameplay philosophy, system requirements, in-game briefing text
+[^ref-15]: [IGN – Holiday Buying Guide 1999](https://www.ign.com/articles/1999/11/15/ignpcs-1999-holiday-buying-guide-action-games) – game description, genre shift from previous titles
+[^ref-16]: [GameRevolution Review](https://www.gamerevolution.com/review/32839-swat-3-close-quarters-battle-review) – review score, gameplay mechanics, randomization system
+[^ref-17]: [CheatCodes.com](http://www.cheatcodes.com/swat-3-close-quarters-battle-pc/) – easter eggs, Matrix reference, hidden content
+[^ref-18]: [MobyGames – SWAT 3: Close Quarters Battle](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/) – German version changes, Police Quest reference, multiplayer specs
+[^ref-19]: [MobyGames – Tactical GOTY Edition](https://www.mobygames.com/game/8998/swat-3-tactical-game-of-the-year-edition/) – user reviews, Knight Rider quotes
+[^ref-20]: [IGN Review (Archived)](https://web.archive.org/web/20230405102917/https://www.ign.com/articles/1999/12/01/swat-3-close-quarters-battle) – review score, ballistics praise, weapons list
+[^ref-21]: [IMFDB – SWAT 3](https://www.imfdb.org/wiki/SWAT_3:_Close_Quarters_Battle) – weapons details, less-than-lethal rounds
+[^ref-22]: [GameRankings (Archived)](https://web.archive.org/web/20190529190417/https://www.gamerankings.com/pc/198868-swat-3-close-quarters-battle/index.html) – PC Gamer UK, PC Zone UK, Electric Playground scores
+[^ref-23]: [Eurogamer Review](https://www.eurogamer.net/r-swat3ee) – Elite Edition review score, SDK mention, multiplayer modes
+[^ref-24]: [CNN Review (Archived)](https://web.archive.org/web/20020602122359/http://www.cnn.com/TECH/computing/9911/22/swat3/) – D. Ian Hopper review, system requirements
+[^ref-25]: [MobyGames – Elite Edition](https://www.mobygames.com/game/2651/swat-3-close-quarters-battle-elite-edition/) – composer credits, GameSpy award, user reviews, server shutdown, Elite Edition scenarios
+[^ref-26]: [Metacritic – SWAT 3: Elite Edition](https://www.metacritic.com/game/swat-3-elite-edition/) – aggregate score, multiplayer addition
+[^ref-27]: [IGN Interview (Archived)](https://web.archive.org/web/20230405054837/https://www.ign.com/articles/1999/06/16/swat-3-close-quarters-battle-interview) – Rod Fung quote, Yosemite Entertainment, motion capture count, Macintosh version
+[^ref-28]: [Gamasutra Postmortem (Archived)](https://web.archive.org/web/20190526053934/https://www.gamasutra.com/view/feature/131843/postmortem_sierras_swat3_close_.php) – multiplayer cut, code development, LAPD consultation
+[^ref-29]: [PCGamingWiki – SWAT 3](https://www.pcgamingwiki.com/wiki/SWAT_3:_Close_Quarters_Battle) – technical specifications, compatibility issues, API details
+[^ref-30]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/swat-3-close-quarters-battle-windows-gamerip-1999) – soundtrack specifications
+[^ref-31]: [IGN – Elite Edition Upgrade](https://www.ign.com/articles/2000/10/13/swat-3-elite-edition-upgrade) – multiplayer addition, development tools, patch sizes
+[^ref-32]: [Sierra Help – SWAT Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/SWATUpdates.html) – version history, bugs, patch notes
+[^ref-33]: [ModDB – Version 1.7](https://www.moddb.com/games/swat-3/downloads/swat-3-close-quarters-battle-v17) – international network play
+[^ref-34]: [MobyGames – Patches](https://www.mobygames.com/game/845/swat-3-close-quarters-battle/patches/windows/) – patch dates, version details
+[^ref-35]: [ModDB – Version 2.0 Patch](https://www.moddb.com/games/swat-3/downloads/swat-3-us-retail-v20-patch-tactical-goty) – v2.0 features
+[^ref-36]: [Speedrun.com – SWAT 3](https://www.speedrun.com/swat_3) – Last Resort compatibility fix
+[^ref-37]: [TV Tropes – SWAT 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SWAT3) – hidden spider area, last Sierra-developed SWAT
+[^ref-38]: [Amazon – Prima Strategy Guide](https://www.amazon.com/SWAT-Quarters-Battle-Official-Strategy/dp/076152147X) – guide details, author, page count
+[^ref-39]: [Wikidata – SWAT 3](https://www.wikidata.org/wiki/Q2010540) – Steam ID, distribution platforms
+[^ref-40]: [NeverDieMedia Product Page](https://www.neverdiemedia.com/products/swat-3-w-manual) – Police Quest lineage, title change

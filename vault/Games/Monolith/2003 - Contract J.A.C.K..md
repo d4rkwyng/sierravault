@@ -307,3 +307,50 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [[2002 - No One Lives Forever 2|← Previous: No One Lives Forever 2]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Contract J.A.C.K.](https://en.wikipedia.org/wiki/Contract_J.A.C.K.) – developer, publisher, designer, engine, release dates, review scores
+[^ref-2]: [GameFAQs – Contract J.A.C.K. Data](https://gamefaqs.gamespot.com/pc/917875-contract-jack/data) – game description, release information, publisher
+[^ref-3]: [IGN – Contract Jack Review](https://www.ign.com/articles/2003/11/20/contract-jack-review) – review score 6.1/10, gameplay criticism, removal of series elements
+[^ref-4]: [GameSpot – Contract Jack Review](https://www.gamespot.com/reviews/contract-jack-review/1900-6083661/) – review score 5.9/10, game length, budget price, detailed criticism
+[^ref-5]: [Gamicus – Contract J.A.C.K.](https://gamicus.fandom.com/wiki/Contract_J.A.C.K.) – plot details, Volkov connection, Metacritic score, engine info
+[^ref-6]: [Hardcore Gaming 101 – Contract J.A.C.K.](http://www.hardcoregaming101.net/contract-j-a-c-k/) – stealth removal, game length, critical reception, soundtrack recycling
+[^ref-7]: [PCGamingWiki – Contract J.A.C.K](https://www.pcgamingwiki.com/wiki/Contract_J.A.C.K) – technical specifications, bugs, licensing issues, community fixes
+[^ref-8]: [Wayback Machine – GameZone Review](https://web.archive.org/web/20081005085944/http://pc.gamezone.com/gzreviews/r22631.htm) – review score 6.3/10, Bacalov Corrector availability, criticism
+[^ref-9]: [Internet Archive – Contract J.A.C.K. Europe](https://archive.org/details/Contract_J.A.C.K._Europe) – story description, game features
+[^ref-10]: [GameSpot – Contract Jack Q&A](https://www.gamespot.com/articles/contract-jack-qanda/1100-6071209/) – designer interview, character name origin, tone comparison, development timeline
+[^ref-11]: [ChapterCheats – Contract J.A.C.K. Walkthrough](https://www.chaptercheats.com/cheat/pc/10232/contract-jack/video-walkthrough/36456) – release date, developer, publisher
+[^ref-12]: [IMDB – Contract J.A.C.K.](https://www.imdb.com/title/tt0388852/) – voice cast, user rating, dialogue trivia
+[^ref-13]: [Wayback Machine – PC Gamer Review](https://web.archive.org/web/20060315140726/http://www.pcgamer.com/archives/2005/06/contract_jack.html) – review score 63%, Vespa sequence, game length, budget price
+[^ref-14]: [MobyGames – Contract J.A.C.K. Specs](https://www.mobygames.com/game/11245/contract-jack/specs/) – system requirements, content ratings, multiplayer info
+[^ref-15]: [Sierra Chest – Contract J.A.C.K. Walkthrough](https://sierrachest.com/index.php?a=games&id=124&fld=walkthrough) – save system, difficulty settings, multiplayer modes
+[^ref-16]: [Neoseeker – Contract J.A.C.K. Cheats](https://www.neoseeker.com/nolf-contractjack/cheats/pc/) – cheat codes and activation method
+[^ref-17]: [NOLF Wiki – Contract J.A.C.K.](https://nolf.fandom.com/wiki/Contract_J.A.C.K.) – gameplay differences, location details, Man-Handler weapon
+[^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – release information, censorship, trivia, awards
+[^ref-19]: [Cheatbook – Contract J.A.C.K. Walkthrough](https://www.cheatbook.de/wfiles/contractjack.htm) – gameplay description
+[^ref-20]: [4Players.de – Contract JACK Review](https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – enemy quantity comparison to Serious Sam
+[^ref-21]: [IMFDB – Contract J.A.C.K.](https://www.imfdb.org/wiki/Contract_J.A.C.K.) – weapon specifications, anachronism notes, technical errors
+[^ref-22]: [GameSpy – Contract J.A.C.K. Review](http://pc.gamespy.com/pc/contract-jack/6344p1.html) – review score, vehicle criticism, asset recycling
+[^ref-23]: [Wayback Machine – Game Informer Review](https://web.archive.org/web/20081004104847/http://www.gameinformer.com/NR/exeres/2F76D890-A6B2-4627-BA3F-943098A2F7DE.htm) – review score 5.5/10, multiplayer availability criticism
+[^ref-24]: [Metacritic – Contract J.A.C.K. Critic Reviews](https://www.metacritic.com/game/contract-j-a-c-k/critic-reviews/) – aggregate scores, individual publication reviews
+[^ref-25]: [Jeuxvideo.com – Contract J.A.C.K. Test](https://www.jeuxvideo.com/articles/0000/00003703_test.htm) – French review score 13/20
+[^ref-26]: [Gaming Pastime – Contract Jack Review](https://gamingpastime.com/contract-jack-review/) – retrospective analysis, story criticism
+[^ref-27]: [Sierra Chest – Contract J.A.C.K. Overview](https://www.sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=general) – series context, critical assessment
+[^ref-28]: [MobyGames – LithTech Jupiter Engine Group](https://www.mobygames.com/group/4132/3d-engine-lithtech-jupiter/) – engine listing, MobyGames score
+[^ref-29]: [Amazon.com – Contract J.A.C.K.](https://www.amazon.com/Contract-J-C-K-PC/dp/B0000A4F0R) – customer reviews, product features
+[^ref-30]: [MyAbandonware – Contract J.A.C.K.](https://www.myabandonware.com/game/contract-j-a-c-k-dvt) – user rating, compatibility issues
+[^ref-31]: [Grokipedia – Contract J.A.C.K.](https://grokipedia.com/page/Contract_J.A.C.K.) – development timeline, international releases, sales performance
+[^ref-32]: [Wayback Machine – 4Players.de Review](https://web.archive.org/web/20210711230151/https://www.4players.de/4players.php/dispbericht/PC-CDROM/Test/3681/2472/0/Contract_JACK.html) – German bundle, commercial failure context
+[^ref-33]: [GameSpy – Contract J.A.C.K. Review Page 2](http://pc.gamespy.com/pc/contract-jack/6344p2.html) – cut content, original narrative concept
+[^ref-34]: [IGN – Contract Jack Gold](https://www.ign.com/articles/2003/10/31/contract-jack-gold) – gold status announcement, demo date
+[^ref-35]: [Eurogamer – Contract Jack Demo News](https://www.eurogamer.net/news271003contractjack) – demo availability, FilePlanet protection
+[^ref-36]: [Internet Archive – Contract J.A.C.K. USA](https://archive.org/details/ContractJACKUSA) – release date, preservation stats
+[^ref-37]: [GamePressure – Contract J.A.C.K. Patch](https://www.gamepressure.com/download.asp?ID=3989) – patch details, language support
+[^ref-38]: [Sierra Chest – Contract J.A.C.K. Easter Eggs](https://sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=eggs) – easter eggs and references
+[^ref-39]: [The Gamer – No One Lives Forever Legal Issues](https://www.thegamer.com/no-one-lives-forever-the-operative-legal-issues-explained/) – Night Dive interest, Monolith history
+[^ref-40]: [ModDB – Contract J.A.C.K.](https://www.moddb.com/games/contract-jack) – modding information, patch availability
+[^ref-41]: [Video Games Chronicle – Nightdive NOLF Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – rights negotiation challenges
+[^ref-42]: [Kotaku – Dead PC Game Story](https://kotaku.com/the-sad-story-behind-a-dead-pc-game-that-cant-come-back-1688358811) – Night Dive exclusion of Contract J.A.C.K.
+[^ref-43]: [Techdirt – No One Lives Forever 25th Anniversary](https://techdirt.com/2025/11/13/no-one-lives-forever-turns-25-you-still-cant-buy-it-legitimately/) – modern compatibility, rights disputes
+[^ref-44]: [GameFAQs – Contract J.A.C.K. User Review](https://gamefaqs.gamespot.com/pc/917875-contract-jack/reviews/177463) – detailed user criticism, contractual obligation speculation
+[^ref-46]: [PCGamingWiki Community – Contract Jack Patch](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – community patch download stats

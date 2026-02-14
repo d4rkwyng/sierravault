@@ -215,3 +215,25 @@ The title also reflects the industry's growing interest in online multiplayer ga
 - [[2001 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, ratings, technical specs, multiplayer info, features
+[^ref-2]: [ELI Software Encyclopedia – Hoyle Kids' Games](https://elisoftware.org/w/index.php/Hoyle_Kids%27_Games_(PC,_CD-ROM)_Sierra_-_2001_USA,_Canada_Release) – 2001 release info, system requirements, games list, characters, features, packaging details
+[^ref-3]: [Macintosh Repository – Hoyle Kids Games 2](https://www.macintoshrepository.org/77510-hoyle-kids-games-2) – Mac version specifications, file size, system requirements
+[^ref-4]: [MyAbandonware – Hoyle Kids Games](https://www.myabandonware.com/game/hoyle-kids-games-dpu) – user ratings, compatibility issues, version differences, Easter eggs, alternative names, genres
+[^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, Hoyle Kids Games mention in series list
+[^ref-6]: [Internet Archive – Hoyle Kids' Games](https://archive.org/details/HoyleKidsGames) – preservation copy, digital archive
+[^ref-7]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise overview, platform listings
+[^ref-8]: [Gamepressure – Hoyle Kids Games](https://www.gamepressure.com/games/hoyle-kids-games/zcf2d) – game database entry, features, rating
+[^ref-9]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – series documentation, Sierra historical context
+[^ref-10]: [UVList – Hoyle Kids Games](https://www.uvlist.net/game-166961-Hoyle+Kids+Games) – platform data, release information
+[^ref-11]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical information, compatibility
+[^ref-12]: [Hoyle Casino Wikipedia](https://en.wikipedia.org/wiki/Hoyle_Casino) – Hoyle series commercial context
+[^ref-13]: [GameSpot – Sierra Games](https://www.gamespot.com/profile/sierra/games/) – Sierra publisher information
+[^ref-14]: [Steam Community – Hoyle Discussion](https://steamcommunity.com/app/245780/discussions/) – community interest in Hoyle series
+[^ref-15]: [Old-Games.com – Hoyle Board Games](https://www.old-games.com/download/9974/hoyle-board-games-2001) – related Hoyle series context
+[^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher history, company background
+[^ref-17]: [IGDB – Hoyle Kids Games](https://www.igdb.com/games/hoyle-kids-games) – game database entry
+[^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
+[^ref-19]: [Squakenet – Hoyle Kids Games](https://www.squakenet.com/game/hoyle-kids-games/) – release information
+[^ref-20]: [Amazon – Hoyle Kids Games](https://www.amazon.com/s?k=Hoyle+Kids+Games) – retail availability, customer reviews

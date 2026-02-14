@@ -212,3 +212,15 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 - [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
 
 ## 
+## References
+
+[^ref-1]: [Gamepressure – 3D Ultra Pinball Power](https://www.gamepressure.com/games/3d-ultra-pinball-power/z81052) – release date, developers, system requirements, included games, thematic descriptions
+[^ref-2]: [Wikipedia – 3-D Ultra Pinball](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball) – series overview, sales data, temporary targets description, MacUser rating
+[^ref-3]: [IGN – 3-D Ultra Pinball Power](https://www.ign.com/games/3-d-ultra-pinball-power) – release date, four-CD set details, table counts per game, bonus content
+[^ref-4]: [PriceCharting – 3-D Ultra Pinball](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball) – "Impossible Pinball" description, fantasy pinball elements, ESRB rating
+[^ref-5]: [MobyGames – 3-D Ultra Pinball Power](https://www.mobygames.com/game/12606/3-d-ultra-pinball-power/) – platforms, credits, technical specifications, animation production credits, memorial dedication
+[^ref-6]: [Sierra Chest – 3-D Ultra Pinball: Collector's Edition](https://sierrachest.com/index.php?a=games&id=107&title=pinball-collectors-edition&fld=general) – relationship to Power!, VHS bonus content, included titles
+[^ref-7]: [TV Tropes – 3-D Ultra Pinball](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinball) – original game description, Outpost connection, physics engine limitations, technical specifications
+[^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
+[^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
+[^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball

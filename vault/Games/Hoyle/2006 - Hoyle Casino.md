@@ -226,3 +226,25 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
 
 ## 
+## References
+
+[^ref-1]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006) – release date, developer, publisher, game content description, user rating
+
+[^ref-2]: [GameFAQs – Hoyle Casino 2006 Box Art](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006/boxes/69174) – US release date, developer, publisher confirmation
+
+[^ref-3]: [Metacritic – Hoyle Casino 2006](https://www.metacritic.com/game/hoyle-casino-2006/) – release date, developer, publisher, game content list, ESRB rating
+
+[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, version timeline, sales data, developer/publisher history, technical issues, trivia
+
+[^ref-5]: [Metacritic – Hoyle Casino 2006 Details](https://www.metacritic.com/game/hoyle-casino-2006/details/) – game variants count, casino game categories list
+
+[^ref-6]: [ESRB – Hoyle Casino 2006](https://www.esrb.org/ratings/20170/hoyle-casino-2006/) – official rating, content descriptors, publisher, platform
+
+[^ref-7]: [GameSpot – Hoyle Casino 2006 User Reviews](https://www.gamespot.com/hoyle-casino-2006/user-reviews/2200-2629/) – user review score, educational value assessment, pricing information
+
+[^ref-8]: [IGN – Hoyle Casino 2006](https://www.ign.com/games/hoyle-casino-2006/user-reviews) – alternate release date, publisher, rating status
+
+[^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related games in Hoyle series, similar casino games
+[^ref-10]: [MobyGames – Hoyle Casino 2006](https://www.mobygames.com/game/22695/hoyle-casino-2006/) – game database entry with technical details
+[^ref-11]: [Giant Bomb – Hoyle Casino 2006](https://www.giantbomb.com/hoyle-casino-2006/3030-39604/) – game wiki and community content
+[^ref-12]: [Encore Software – Official Site](https://www.encoreusa.com/) – publisher information and game catalog

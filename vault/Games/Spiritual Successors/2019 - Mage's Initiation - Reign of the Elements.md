@@ -264,3 +264,38 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 - [[2022 - SpaceVenture|→ Next: SpaceVenture]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) – release dates, developer/publisher credits, engine, platforms, critics average
+[^ref-2]: [Adventure Gamers – Hands-on Preview](https://adventuregamers.com/articles/view/36793) – release date, development timeline, combat system, violence optional feature
+[^ref-3]: [Adventure Gamers – Review (Archived)](https://web.archive.org/web/20190603085211/https://adventuregamers.com/articles/view/37028) – development length comparison, awards, walking pace criticism
+[^ref-4]: [Kicktraq – Campaign Data](http://www.kicktraq.com/projects/2112639455/mages-initiation-a-classic-sierra-style-adventure/) – funding amount, backer count, campaign dates
+[^ref-5]: [Arcade Attack – Developer Interview](https://www.arcadeattack.co.uk/mages-initiation/) – development timeline, Harry Potter inspiration, fan poll, developer quotes, legal history
+[^ref-6]: [Metacritic – Mage's Initiation](https://www.metacritic.com/game/mages-initiation-reign-of-the-elements/) – aggregate scores, individual review scores, user score
+[^ref-7]: [Himalaya Studios Official Website](http://www.himalayastudios.com/games/mages/) – story details, quest items, collector's edition contents
+[^ref-8]: [Steam Store Page](https://store.steampowered.com/app/270610/Mages_Initiation_Reign_of_the_Elements/) – platforms, user reviews, speech lines count, gemstone count, macOS compatibility
+[^ref-9]: [Wikipedia – Mage's Initiation](https://en.wikipedia.org/wiki/Mage's_Initiation:_Reign_of_the_Elements) – designer credits, development start date, Kickstarter goal
+[^ref-10]: [PCGamingWiki – Mage's Initiation](https://www.pcgamingwiki.com/wiki/Mage's_Initiation:_Reign_of_the_Elements) – engine version, resolution, framerate caps, technical specs
+[^ref-11]: [Brandon Blume Official Website](http://brandonblume.com/mages.htm) – setting name, location list, soundtrack details
+[^ref-12]: [MobyGames – User Review by Nowhere Girl](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/user-review/2631839/) – story takes place in one day, post-technology world, sequel plans
+[^ref-13]: [GameCritics Review](https://gamecritics.com/jeff-ortloff/mages-initiation-reign-of-the-elements-review/) – Jedi comparison, character analysis, self-damage bug, playtime
+[^ref-14]: [Reddit – Quest for Glory Community](https://www.reddit.com/r/questforglory/comments/1mjdnxo/mages-initiation-reign-of-the-elementslfire_mage/) – location descriptions, journey details
+[^ref-15]: [RPG Codex Forum – Page 7](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-7) – voice line counts, interface options, development timeline, cover art changes
+[^ref-16]: [Sprites and Dice Review](https://spritesanddice.com/reviews/review-mages-initiation-reign-elements/) – voice acting criticism, combat description, fast travel, death mechanics
+[^ref-17]: [Steam Community – Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1701542384) – playthrough requirements, class differences, stat system, enemy kill count
+[^ref-18]: [Walkthrough King](https://www.walkthroughking.com/text/magesinitiation.aspx) – game structure, three item quest
+[^ref-19]: [AGDI Forum – Development Discussion](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – combat system description, pricing plans, development challenges
+[^ref-20]: [RPG Codex Forum – Page 9](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-9) – review compilation, pixel art praise, voice acting criticism
+[^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/mages-initiation-reign-of-the-elements-review-vga-/1900-6417078/) – score, reviewer name, RPG diversity criticism
+[^ref-22]: [Linux Journal Review](https://www.linuxjournal.com/content/game-review-mages-initiation-reign-elements) – post-technology world hints, nostalgia appeal, recommendation
+[^ref-23]: [The Gaming Outsider Review](https://thegamingoutsider.com/2019/04/16/mages-initiation-reign-elements-pc-review/tbecks/) – playtime, XP total, character export, post-credits sting
+[^ref-24]: [GOG.com Store Page](https://www.gog.com/en/game/mages_initiation_reign_of_the_elements) – system requirements, OpenCritic score, user reviews
+[^ref-25]: [IMDB](https://www.imdb.com/find/?q=Mage%27s+Initiation&s=tt) – user rating
+[^ref-26]: [Reddit – Kickstarter Backer Review](https://www.reddit.com/r/questforglory/comments/tkgqpd/anyone_else_played_mages_initiation/) – user experience, combat feedback, pixel hunting issue
+[^ref-27]: [AGDI Forum – Early Development](http://www.agdinteractive.com/forum/viewtopic.php?f=18&t=15317&view=next) – 2012 release target, animator loss, pre-order success
+[^ref-28]: [AGDI Forum – Development Timeline](https://www.agdinteractive.com/forum/viewtopic.php?t=14906&start=100) – Steam release, backer count, voice acting scope, completion percentage
+[^ref-29]: [Bandcamp – Soundtrack Release](https://brandonblume.bandcamp.com/album/mages-initiation-original-game-soundtrack) – track count, runtime, bonus content, release date
+[^ref-30]: [Bandcamp – Composer Bio](https://brandonblume.bandcamp.com/track/fire-mage-sidequest-untethered-spirit) – composer location, production credits
+[^ref-31]: [RPG Codex Forum – Page 11](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-11) – sales data, patch notes, development cycle criticism
+[^ref-32]: [VOGONS Forum](https://www.vogons.org/viewtopic.php?t=65041) – launch platforms, development time, composer identity
+[^ref-33]: [Speedrun.com](https://www.speedrun.com/mages_initiation_reign_of_the_elements/run/z05ow5om) – speedrun records, runner quotes

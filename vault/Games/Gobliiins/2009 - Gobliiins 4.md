@@ -221,3 +221,42 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|→ Next: Gobliiins 5 - The Morgloton Invasion]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Gobliiins 4](https://en.wikipedia.org/wiki/Gobliiins_4) – release date, developer, platform information
+[^ref-2]: [Wikipedia – Gobliiins Series](https://en.wikipedia.org/wiki/Gobliiins) – designers, 3D graphics, GameRankings score
+[^ref-3]: [TV Tropes – Gobliiins](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins) – naming convention, series history, easter eggs
+[^ref-4]: [TV Tropes – Gobliiins 4](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Gobliiins4) – story summary, character names
+[^ref-5]: [Adventure Classic Gaming – Gobliiins 4 Review](http://www.adventureclassicgaming.com/index.php/site/reviews/499/) – review score, criticism, technical specifications
+[^ref-6]: [Metacritic – Gobliiins 4](https://www.metacritic.com/game/gobliiins-4/) – aggregated review scores, critic quotes
+[^ref-7]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – sequel information, user reviews
+[^ref-8]: [GamesIndustry.biz – Perluis Character Introduction](https://www.gamesindustry.biz/gobliiins-4-your-introduction-to-perluis-the-magic-gobliiin) – publisher, composer, character descriptions, UK price
+[^ref-9]: [IGN – Gobliiins 4](https://www.ign.com/games/gobliiins-4) – story summary, release date
+[^ref-10]: [IGN – Gobliiins 4 Walkthroughs](https://www.ign.com/games/gobliiins-4/walkthroughs) – plot details
+[^ref-11]: [GameFAQs – Gobliiins 4 Walkthrough](https://gamefaqs.gamespot.com/pc/958639-gobliiins-4/faqs/56390) – gameplay details, story, puzzle philosophy
+[^ref-12]: [Software Informer – Gobliiins 4](https://gobliiins-4.software.informer.com/) – character abilities, technical specs, review score
+[^ref-13]: [Rarewaves – Gobliiins 4 Product Page](https://www.rarewaves.com/products/4260089411920-gobliiins-4) – development background, level count, Snowberry Connection
+[^ref-14]: [GameBoomers – Gobliiins 4 Review](https://www.gameboomers.com/reviews/Gg/Gobliiins4/Gobliiins4byBecky.htm) – gameplay mechanics, save system, golden teeth, grade
+[^ref-15]: [GameGrin – Gobliiins 4 Review](https://www.gamegrin.com/reviews/gobliiins-4/) – criticism of save system, demographic mismatch
+[^ref-16]: [HonestGamers – Gobliiins 4 Review](http://www.honestgamers.com/7981/pc/gobliiins-4/review.html) – technical issues, Lost Vikings comparison
+[^ref-17]: [SuperCheats – Gobliiins 4 Walkthrough](https://www.supercheats.com/pc/walkthroughs/gobliiins4-walkthrough01.txt) – gameplay tips, level codes
+[^ref-18]: [Alternative Magazine Online – Gobliiins 4 Review](https://alternativemagazineonline.co.uk/2009/08/08/gobliiins-4-review-acg/) – pricing criticism, puzzle design
+[^ref-19]: [Wayback Machine – MobyGames Gobliins 2](https://web.archive.org/web/20080227191053/http://www.mobygames.com/game/gobliins-2-the-prince-buffoon) – immortality mechanic
+[^ref-20]: [IMDB – Gobliiins 4](https://www.imdb.com/title/tt1537775/) – user rating, release date
+[^ref-21]: [MobyGames – Gobliiins Series](http://www.mobygames.com/game-group/gobliiins-series) – MobyScore, Platinum Edition
+[^ref-22]: [GOG Dreamlist – Gobliiins 4](https://www.gog.com/dreamlist/game/gobliiins-4) – availability concerns, community comments
+[^ref-23]: [Neoseeker – Gobliiins 4](https://www.neoseeker.com/gobliiins-4/) – Gilhodes return, development background
+[^ref-24]: [MobyGames – Gobliiins (Original)](http://www.mobygames.com/game/atari-st/gobliiins) – original game credits, series history
+[^ref-25]: [Wayback Machine – Gobliiins.com Author Page](https://web.archive.org/web/20210129133754/http://www.gobliiins.com/Auteur_ru.htm) – development credits, Gilhodes biography
+[^ref-26]: [GameCopyWorld – Gobliiins 4](https://gamecopyworld.com/games/pc_gobliiins_4.shtml) – protection, languages, version info
+[^ref-27]: [Games4PCDownload – Gobliiins 4](http://games4pcdownload.blogspot.com/2017/04/download-pc-games-gobliiins-4.html) – recommended system requirements
+[^ref-28]: [Reddit – Gobliiins 4 Technical Issues](https://www.reddit.com/r/adventuregames/comments/1dpg254/gobliiins_4_wont_work/) – compatibility problems
+[^ref-29]: [Sierra Help – Gobliiins Series Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/GobliiinsSeriesUpdates.html) – available patches
+[^ref-30]: [Wayback Machine – MobyGames Gobliiins](https://web.archive.org/web/20080228044614/http://www.mobygames.com/game/atari-st/gobliiins) – US character names
+[^ref-31]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – sequel pricing, engine
+[^ref-32]: [Internet Archive – Gobliiins 4 CD-ROM](https://archive.org/details/gobliiins4cdrom) – preservation copy
+[^ref-33]: [Internet Archive – Gobliiins 4 Spanish](https://archive.org/details/Gobliiins4Spanish) – Spanish version
+[^ref-34]: [Internet Archive – Gobliiins 4 Multi-language](https://archive.org/details/gobliiins-4) – language options
+[^ref-35]: [GamesIndustry.biz – GamersGate Release](https://www.gamesindustry.biz/gobliiins-4-puzzle-adventure-available-for-download-from-gamersgate) – digital distribution, magazine quotes
+[^ref-36]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – release date, developer, GameRankings score
+[^ref-37]: [Gamepressure – Gobliiins 4](https://www.gamepressure.com/games/gobliiins-4/ze1e7a) – user score, system requirements

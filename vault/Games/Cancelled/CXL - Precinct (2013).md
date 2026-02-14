@@ -223,3 +223,13 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 - **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
 ## 
+## References
+
+[^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets
+[^ref-8]: [Kickstarter – Precinct (Archived Campaign)](https://www.kickstarter.com/projects/precinctgame/precinct) – Primary source: $85,756 pledged of $500,000 goal, 1,870 backers, cancelled Aug 6 2013, team details (Robert Lindsley, Scott Butler, Jason Crawford)
+[^ref-2]: [Kotaku – Police Quest Is Basically Back](https://kotaku.com/guys-police-quest-is-basically-back-796665191) – Jim Walls background, gameplay description, Kickstarter announcement, planned features
+[^ref-3]: [Sierra Classic Gaming – Precinct](https://sierraclassicgaming.com/game/precinct/) – Funding tiers, game description, setting details, Maxwell Jones character
+[^ref-4]: [Larry Laffer Net – Precinct Kickstarter](http://larrylaffer.net/archives/1693) – Unity3D engine, Al Lowe quote, Jim Walls biography, development team, episodic structure
+[^ref-5]: [Wikipedia – The Precinct (video game)](https://en.wikipedia.org/wiki/The_Precinct_(video_game)) – 2025 game details, developer, publisher, platforms, reviews
+[^ref-6]: [Steam – The Precinct](https://store.steampowered.com/app/490110/The_Precinct/) – 2025 game description, user reviews, release date
+[^ref-7]: [Niche Gamer – The Precinct Launches](https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher

@@ -229,3 +229,20 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 - [[2005 - Hoyle Poker Series|→ Next: Hoyle Poker Series]]
 
 ## 
+## References
+
+[^ref-1]: [Amazon UK – Hoyle Casino 3D](https://www.amazon.co.uk/Encore-33038-Hoyle-Casino-%E8%BC%B8%E5%85%A5%E7%89%88/dp/B0007ZF3H8) – RenderWare engine, customer reviews, installation issues, product specifications
+[^ref-2]: [GameFAQs – Hoyle Casino 3D](https://gamefaqs.gamespot.com/pc/924222-hoyle-casino-3d) – Release date, publisher, user rating
+[^ref-3]: [Amazon India – Hoyle Casino 3D](https://www.amazon.in/Sierra-72199-Hoyle-Casino-3D/dp/B0001BR9QQ) – System requirements, release date, platform support
+[^ref-4]: [Metacritic – Hoyle Casino 3D](https://www.metacritic.com/game/hoyle-casino-3d/) – Game description, release date, ESRB rating
+[^ref-6]: [Software Informer – Hoyle Casino 3D](https://hoyle-casino-3d.informer.com/) – Version history, features, user rating, file size
+[^ref-7]: [Steam Community – Hoyle Discussion](https://steamcommunity.com/app/397420/discussions/0/492378265874336581/) – Developer comments on acquisition, licensing issues, 3D development
+[^ref-8]: [GameSpot User Reviews – Hoyle Casino 3D](https://www.gamespot.com/hoyle-casino-3d/user-reviews/2200-423697/) – INSIDEMAN65 review, interface bugs, difficulty complaints
+[^ref-9]: [ESRB – Hoyle Casino 3D (Vivendi)](https://www.esrb.org/ratings/10146/hoyle-casino-3d/) – Platform information, publisher, rating
+[^ref-10]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/hoyle-casino/) – Series credits, voice cast, development team
+[^ref-11]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Series history, sales data, known bugs, developer information
+[^ref-12]: [GameSpy – Hoyle Casino 3D](http://pc.gamespy.com/pc/hoyle-casino-3d/) – System requirements, ESRB rating
+[^ref-13]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006/data) – Release date, developer
+[^ref-14]: [MSU Libraries – Video Game Holdings](https://lib.msu.edu/collections/rovi/games/browse/H?page=23) – Library catalog entry, ESRB rating
+[^ref-15]: [ESRB – Hoyle Casino 3D (Encore)](https://www.esrb.org/ratings/10932/hoyle-casino-3d/) – Content descriptors, Teen rating
+[^ref-16]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – Series marketplace data

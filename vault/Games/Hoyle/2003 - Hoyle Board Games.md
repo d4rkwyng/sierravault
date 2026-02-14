@@ -253,3 +253,16 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
 ## 
+## References
+
+[^ref-1]: [IGN – Hoyle Board Games 2003](https://www.ign.com/games/hoyle-board-games-2003) – release date, developer, publisher, game description
+[^ref-2]: [Amazon UK – Hoyle Board Games 2003 Edition](https://www.amazon.co.uk/Hoyle-Board-Games-2003-Edition/dp/B00008IM79) – UK release date, customer reviews, included extras, marketing description
+[^ref-9]: [Metacritic – Hoyle Board Games 2003](https://www.metacritic.com/game/hoyle-board-games-2003/) – complete game list
+[^ref-4]: [ESRB – Hoyle Board Games 2003](https://www.esrb.org/ratings/7889/hoyle-board-games-2003/) – ESRB rating, publisher, platform list including handhelds
+[^ref-5]: [Best Buy – Hoyle Board Games 2003](https://www.bestbuy.com/site/hoyle-board-games-2003-mac-windows-handheld/4752556.p?skuId=4752556) – retail availability, platform compatibility
+[^ref-6]: [GameFAQs – Hoyle Board Games 2003](https://gamefaqs.gamespot.com/pc/929726-hoyle-board-games-2003) – complete game list, features, multiplayer options, included extras
+[^ref-7]: [LaunchBox Games Database – Sierra Entertainment](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – developer/publisher, release date
+[^ref-8]: [IMDB – Hoyle Board Games 2003](https://www.imdb.com/title/tt0824346/) – voice cast, writers, user rating
+[^ref-10]: [GameFAQs User Review – Hoyle Board Games](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – detailed gameplay review, scores, control scheme, customization features
+[^ref-11]: [Macintosh Repository – Hoyle Board Games 2003](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) – Mac system requirements, hybrid disc information
+[^ref-12]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – technical issues, cut content, music sources, collection history

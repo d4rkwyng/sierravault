@@ -228,3 +228,23 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - [[2014 - Moebius - Empire Rising|→ Next: Moebius - Empire Rising]]
 
 ## 
+## References
+
+[^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information
+[^ref-3]: [Adventure Gamers – Fester Mudd](https://adventuregamers.com/games/fester-mudd-curse-of-the-gold) – interface description, review score, Easter eggs
+[^ref-4]: [Cult of Mac – Fester Mudd Review](https://www.cultofmac.com/news/got-a-dollar-then-check-out-this-hilarious-game-fester-mudd-curse-of-the-gold-on-the-app-store) – iOS details, plot summary, pricing
+[^ref-5]: [Destructoid – Fester Mudd Review](https://www.destructoid.com/reviews/review-fester-mudd-curse-of-the-gold-episode-one/) – release date, Mandel collaboration, review score, technical details
+[^ref-6]: [PR Newswire – Fester Mudd Press Release](https://enmobile.prnasia.com/releases/global/-75982.shtml) – official announcement, Trowe quote, features list
+[^ref-7]: [GameFAQs – Fester Mudd Data](https://gamefaqs.gamespot.com/iphone/710128-fester-mudd-curse-of-the-gold-episode-1/data) – release dates, review scores, cancellation information, sales data
+[^ref-8]: [Steam Community – Fester Mudd](https://steamcommunity.com/app/253310?l=spanish) – cancellation notice, trilogy plans
+[^ref-9]: [Polygon – Fester Mudd Release](https://www.polygon.com/2013/3/11/4088460/fester-mudd-curse-of-the-gold-is-available-now-for-pc-mac-and-linux/) – designer credits, development collaboration
+[^ref-10]: [Wikipedia – Fester Mudd: Curse of the Gold](https://en.wikipedia.org/wiki/Fester_Mudd:_Curse_of_the_Gold) – engine, platforms, Metacritic scores, awards
+[^ref-11]: [GamersGate – Fester Mudd](https://www.gamersgate.com/es/product/fester-mudd-curse-of-the-gold/) – technical specifications, game description, pricing
+[^ref-12]: [Jay Is Games – Fester Mudd Review](https://jayisgames.com/review/fester-mudd-curse-of-the-gold-episode-one.php) – character names, humor description, inventory issues
+[^ref-13]: [Pocket Gamer – Fester Mudd Review](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/review/) – interface description, graphics and audio details
+[^ref-14]: [TV Tropes – Fester Mudd](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/FesterMuddCurseOfTheGold) – developer background, episode subtitle, cancellation
+[^ref-15]: [EGM – Fester Mudd Review](https://egmnow.com/egm-review-fester-mudd-curse-of-the-gold-episode-1/) – review score, technical issues, homage description
+[^ref-16]: [Metacritic – Fester Mudd Reviews](https://www.metacritic.com/game/fester-mudd-curse-of-the-gold-episode-1/critic-reviews/) – aggregate scores, individual review scores, sales quote
+[^ref-17]: [IGN España – Fester Mudd News](https://es.ign.com/fester-mudd-the-curse-of-the-gold/62236/news/fester-mudd-nueva-aventura-grafica-a-la-vista) – Steam Greenlight mention, Mandel quote
+[^ref-18]: [Steam Store – Fester Mudd](https://store.steampowered.com/app/253310/Fester_Mudd_Curse_of_the_Gold__Episode_1/) – cancellation notice, technical specs, compatibility issues
+[^ref-19]: [Pocket Gamer – Fester Mudd Hub](https://www.pocketgamer.com/fester-mudd-curse-of-the-gold/) – Sierra comparison quote

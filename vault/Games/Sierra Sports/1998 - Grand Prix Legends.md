@@ -315,3 +315,54 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 - [[1998 - Sierra Sports - Bass Fishing|→ Next: Sierra Sports - Bass Fishing]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Grand Prix Legends](https://en.wikipedia.org/wiki/Grand_Prix_Legends) – sales data, awards, development team size, review aggregation
+[^ref-2]: [Giant Bomb – Grand Prix Legends](https://www.giantbomb.com/grand-prix-legends/3030-6347/) – historical context, track listing, setup issues
+[^ref-3]: [Internet Archive – Grand Prix Legends Manual](https://archive.org/stream/Grand_Prix_Legends/Grand_Prix_Legends_djvu.txt) – designer quotes, system requirements, gameplay philosophy
+[^ref-4]: [Gamicus Wiki – Grand Prix Legends](https://gamicus.fandom.com/wiki/Grand_Prix_Legends) – modding community, patches, ongoing development
+[^ref-5]: [Race Sim Central – Grand Prix Legends](https://racesimcentral.net/grand-prix-legends/) – iRacing connection, car characteristics
+[^ref-6]: [CNET/Roadshow – iRacing NASCAR Made in America](https://www.cnet.com/roadshow/news/features/iracing-nascar-made-in-america/) – Kaemmer quotes, physics development, PC Gamer description
+[^ref-7]: [RacingGames.gg – Grand Prix Legends Best F1 Game](https://racinggames.gg/article/grand-prix-legends-best-formula-1-game-ever-f1-pc-retro-gaming-racing-classic-cars-60s-1960s-ferrari-brm-lotus-stewart-hill-brabham) – modern critical assessment
+[^ref-8]: [MobyGames – Grand Prix Legends](https://www.mobygames.com/game/2561/grand-prix-legends/) – credits, technical specs, awards, sales figure
+[^ref-9]: [PCGamingWiki – Grand Prix Legends](https://www.pcgamingwiki.com/wiki/Grand_Prix_Legends) – engine name, technical specifications, compatibility
+[^ref-10]: [Sierra On-Line Readme.txt](http://alison.hine.net/gpl/readme.txt) – official technical requirements, known issues, release date
+[^ref-11]: [GameSpot – Grand Prix Legends Review](https://www.gamespot.com/reviews/grand-prix-legends-review/1900-2536263/) – gameplay description, historical context
+[^ref-12]: [GameCenter Archive](https://web.archive.org/web/20000816095206/http://www.gamecenter.com/Reviews/Item/0,6,0-2220,00.html) – 1967 season significance, track details
+[^ref-13]: [JamesOnline – GPL Story](http://www.jamesonline.net/gpl/gplstory03.php) – car specifications, version history, Jackie Stewart rumor
+[^ref-14]: [Internet Archive – GPL Demo](https://archive.org/details/GPLDEMO) – track and car counts
+[^ref-15]: [Amazon UK – Grand Prix Legends](https://www.amazon.co.uk/Sierra-UK-Grand-Prix-Legends/dp/B00004U1Y7) – danger statistics, missing content, customer reviews
+[^ref-16]: [GameCenter News Archive](https://web.archive.org/web/20000817182437/http://www.gamecenter.com/News/Item/0,3,0-2154,00.html) – release context quote
+[^ref-17]: [1965 F1 Mod GPLWorld](http://65f1.gplworld.de/) – Graham Hill quote, modding history
+[^ref-18]: [PC Gamer – Why I Loved Grand Prix Legends](https://www.pcgamer.com/why-i-loved-hardcore-racing-sim-grand-prix-legends/) – input requirements, difficulty
+[^ref-19]: [GPLWorld Keyboard Assignment](http://www.gplworld.de/gplworld/en/grand-prix-legends/gpl-keyboard-assignment) – control documentation
+[^ref-20]: [GPL FAQ](http://alison.hine.net/gpl/faq.htm) – difficulty levels, gameplay mechanics
+[^ref-21]: [SIRA Simracing – GPL Guide](https://www.sira-simracing.com/post/grand-prix-legends-game-guide) – game modes, driver aids, iRacing history
+[^ref-22]: [GameSpot – History of Papyrus](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – Kaemmer quotes on design philosophy, European sales
+[^ref-23]: [GPL Wiki – Main Page](http://wiki.grandprixlegends.info/index.php?title=Main_Page) – licensing name changes, track accuracy
+[^ref-24]: [Race Sim Central – Ferrari Licensed](https://racesimcentral.net/ferrari-licensed-for-grand-prix-legends/) – Ferrari licensing, car specifications, retail price
+[^ref-25]: [Old PC Gaming – GPL Review](https://oldpcgaming.net/grand-prix-legends-review/) – physics description, difficulty analysis
+[^ref-26]: [RavSim – GPL 20th Anniversary](https://ravsim.com/2018/12/08/grand-prix-legends-is-20-a-legacy-that-created-a-genre/) – physics engine details
+[^ref-27]: [Ringlord Technologies – Racing Page](https://ringlord.com/people/walrus/racing/) – version history, physics features, resolution support
+[^ref-28]: [GamePro Archive](https://web.archive.org/web/20040623005537/http://www.gamepro.com/computer/pc/games/reviews/865.shtml) – clutch mechanics, review scores, requirements
+[^ref-30]: [GameRankings Archive](https://web.archive.org/web/20190602020115/https://www.gamerankings.com/pc/52156-grand-prix-legends/index.html) – aggregate score, individual review scores
+[^ref-31]: [Game Revolution Review](https://www.gamerevolution.com/review/32992-grand-prix-legends-review) – perfect score, revolutionary claim
+[^ref-32]: [JeuxVideo.com Review](https://www.jeuxvideo.com/articles/0000/00000200_test.htm) – French review, 17/20 score
+[^ref-33]: [CD Magazine Archive](https://web.archive.org/web/20030523211749/http://www.cdmag.com/articles/015/048/grandprixl_review.html) – Steve Bauman quotes, Papyrus history, technical specs
+[^ref-34]: [MyAbandonware – Grand Prix Legends](https://www.myabandonware.com/game/grand-prix-legends-9zz) – user ratings, community activity
+[^ref-35]: [Sports Gaming Interview Archive](https://web.archive.org/web/20220523235634/http://www.sports-gaming.com/racing/gpl/interview1.shtml) – Matt Sentell interview, development timeline
+[^ref-36]: [Grokipedia – Grand Prix Legends](https://grokipedia.com/page/Grand_Prix_Legends) – FIA endorsement, Kaemmer quote, development period
+[^ref-37]: [Sierra Sports Press Release Archive](https://web.archive.org/web/19990824162145/http://www.sierrasports.com/sierrasports/pr/grandprix.html) – official launch details, marketing quotes
+[^ref-38]: [DOS Days – Grand Prix Legends](http://www.dosdays.co.uk/topics/Games/game_gpl.php) – version history, engine details, technical specifications
+[^ref-39]: [GPL Wiki – FAQ and Troubleshooting](http://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide) – frame rate limitation, compatibility issues
+[^ref-40]: [ZDNet – CGW Awards](https://www.zdnet.com/article/computer-gaming-world-awards/) – Premier Awards, runner-up status
+[^ref-41]: [MobyGames – GPL Releases](https://www.mobygames.com/game/2561/grand-prix-legends/releases/windows/) – international release dates, publishers
+[^ref-42]: [Sierra Chest – Grand Prix Legends](https://sierrachest.com/index.php?a=games&id=304&title=grand-prix-legends&fld=demos) – demo bundling information
+[^ref-43]: [GPLWorld](http://www.gplworld.de/en/gplracer/gplracer-rules/general) – community tracks, mods, demo versions
+[^ref-44]: [UKGPL](https://www.ukgpl.com/) – available seasons, car types, league information
+[^ref-45]: [1968 F1 Mod GPLWorld](http://68f1.gplworld.de/) – mod development time
+[^ref-46]: [OnlineRaceDriver – 2020 Demo](https://www.onlineracedriver.com/2020/01/07/new-grand-prix-legends-2020-demo-released/) – demo contents, community statistics
+[^ref-47]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/52156-grand-prix-legends/reviews/177967) – sales vs quality discussion
+[^ref-48]: [VROC League Page](http://www.vroc.net/html/common/leagues.htm) – online community history, league listings
+[^ref-49]: [Internet Archive – Grand Prix Legends](https://archive.org/details/grand-prix-legends) – preservation, download availability
+[^ref-50]: [GPL Addons – The Fastlane](https://gpladdons.the-fastlane.co.uk/utilities_list.php?goto=9) – utility tools, mod repository

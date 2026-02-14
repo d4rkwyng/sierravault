@@ -196,3 +196,17 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 - [[2007 - SWAT - Target Liberty|→ Next: SWAT - Target Liberty]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) – release date, developer, publisher, aggregate scores, first mobile Police Quest game
+[^ref-2]: [Sierra Chest – SWAT Force (Mobile)](https://sierrachest.com/index.php?a=games&id=840&title=swat-force-mobile&fld=general) – release date, developer, French studio origin
+[^ref-3]: [GameSpot – SWAT Force Review](https://www.gamespot.com/reviews/swat-force-review/1900-6146233/) – review score, gameplay details, mission count, graphics assessment, audio issues
+[^ref-4]: [Police Quest Fandom – SWAT Force Transcript](https://policequest.fandom.com/wiki/SWAT_Force_transcript) – controls, character types, LAPD licensing, copyright dates
+[^ref-5]: [Pocket Gamer – SWAT Force Review](https://www.pocketgamer.com/swat-force/review/) – technical issues, character switching criticism, audio problems, graphics description
+[^ref-6]: [IGN – SWAT Force Review](https://www.ign.com/articles/2006/04/01/swat-force) – review score, PC-to-mobile adaptation assessment, game length criticism
+[^ref-7]: [IGN – SWAT Force Game Page](https://www.ign.com/games/swat-force/reviews) – developer spelling (KAOLink), publisher, release date, review score
+[^ref-8]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – sales data, review scores, development details for PC predecessor
+[^ref-9]: [GOG.com – SWAT 4 Gold Edition](https://www.gog.com/en/game/swat_4_gold_edition) – SWAT 4 developer, release date
+[^ref-10]: [GOG.com – SWAT: Elite Force](https://www.gog.com/en/game/swat_elite_force) – games inspired by SWAT series
+[^ref-11]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – Police Quest/SWAT series history, SWAT Force as 2006 mobile title, franchise evolution
+[^ref-12]: [Police Quest Fandom – SWAT (series)](https://policequest.fandom.com/wiki/SWAT_(series)) – SWAT series chronology, mobile games list, 2006 release confirmation

@@ -337,3 +337,42 @@ This game has been included in[^ref-20][^ref-21]:
 - [[1994 - King's Quest VII - The Princeless Bride|→ Next: King's Quest VII - The Princeless Bride]]
 
 ## 
+## References
+
+[^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict
+[^ref-2]: [TV Tropes – King's Quest VI](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestVIHeirTodayGoneTomorrow) – – Jane Jensen credit for quality, darker tone, character name origins, Robin Hood costume reference
+[^ref-3]: [InterAction Magazine Fall 1992 – The Quest for King's Quest VI](https://mocagh.org/sierra/interaction-fall92.pdf) – – 14 months development, video-captured actors, Jane Jensen first adventure was KQ4, Lindsley "100% medal" quote
+[^ref-4]: [Wikipedia – King's Quest VI](https://en.wikipedia.org/wiki/King%27s_Quest_VI) – – $700K budget, 400K first week sales, GameRankings 88.75%, 6,000 messages, Cornell nightingale sounds, hintbook credits
+[^ref-5]: [Dragon Magazine #192 – King's Quest VI Review](https://archive.org/stream/DragonMagazine192) – – "Best KQ game yet," 15MB hard drive, "astounding" intro, Monkey Island comparisons
+[^ref-6]: [InterAction Magazine Winter 1992](https://mocagh.org/sierra/interaction-winter92.pdf) – – Peter Spear "landmark game" and "era of CD gaming" quotes, 130K first shipment
+[^ref-7]: [The Digital Antiquarian – The Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Jimmy Maher article: $1M+ budget, Girl in the Tower radio fiasco, Bright Star acquisition, opening movie specs, Ken Williams quotes
+[^ref-8]: [SCI Wiki – King's Quest VI](https://sciwiki.sierrahelp.com/index.php/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – SCI1.1 engine, version numbers, interpreter details
+[^ref-9]: [Hardcore Gaming 101 – King's Quest VI](http://www.hardcoregaming101.net/kings-quest-vi-heir-today-gone-tomorrow/) – – Plot summary, Cassima backstory as Mordack's slave
+[^ref-10]: [KQ Omnipedia – Land of the Green Isles](https://kingsquest.fandom.com/wiki/Land_of_the_Green_Isles) – – Three months voyage, Edge of World location, star navigation
+[^ref-11]: [Sierra Chest – King's Quest VI](https://www.sierrachest.com/index.php?a=games&id=6) – – Plot summary, Alhazred's marriage plot
+[^ref-12]: [George Starostin – KQ6 Review](https://onlysolitaire.substack.com/p/game-review-kings-quest-vi-heir-today) – – Island theme descriptions: Arabian Nights, Beauty and the Beast
+[^ref-13]: [KQ Omnipedia – Guidebook to the Land of the Green Isles](https://kingsquest.fandom.com/wiki/Guidebook_to_the_Land_of_the_Green_Isles) – – Isle of Wonder comma shape, rival queens, Isle of Sacred Mountain Winged Ones
+[^ref-14]: [Sierra Help – KQ6 Endings](https://sierrahelp.com/Misc/Trivia/KQ6Endings.html) – – Land of the Dead quest to rescue Cassima's parents
+[^ref-15]: [Amiga Magazine Reviews](https://amigareviews.leveluphost.com/kingsqu6.htm) – – CU Amiga: "walk, talk, touch, look" four commands, right-click scrolls
+[^ref-16]: [KQ Omnipedia – Point System](https://kingsquest.fandom.com/wiki/KQ6_points) – – 231 total, 116 minimum, short/long path ranges
+[^ref-17]: [The Inventory – Jane Jensen Interview 2003](https://gkpages.altervista.org/Interviews/JJ_2003_TheInventory_2.html) – – Cliffs of Logic credit, "huge pad of paper" design method, collaboration dynamics, Roberta as mentor, career impact
+[^ref-18]: [StrategyWiki – KQ6 Walkthrough](https://strategywiki.org/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Three spells: Make Rain, Charm Creature, Magic Paint
+[^ref-19]: [PC Gamer – Every Sierra Adventure Ranked (2020)](https://www.pcgamer.com/) – – KQ6 ranked #3 of 63 Sierra adventures, highest KQ game
+[^ref-20]: [MobyGames – King's Quest VI](https://www.mobygames.com/game/455/kings-quest-vi-heir-today-gone-tomorrow/) – – 8.1 MobyScore, 83% critics, 27 reviews, credits, platforms
+[^ref-21]: [GOG.com – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6) – – 4.6/5 rating, ScummVM-powered, user reviews
+[^ref-22]: [IMDB – King's Quest VI](https://www.imdb.com/title/tt0296259/) – – 8.5/10 rating
+[^ref-23]: [My Abandonware – King's Quest VI](https://www.myabandonware.com/game/king-s-quest-vi-heir-today-gone-tomorrow-1fy) – – 4.44/5 (125 votes), preservation downloads
+[^ref-24]: [HowLongToBeat – King's Quest VI](https://howlongtobeat.com/) – – 78% rating, 6.5h main story, 8.5h completionist
+[^ref-25]: [Strong Museum – Jane Jensen](https://www.museumofplay.org/games/gabriel-knight-sins-of-the-fathers/) – – Jensen joined Sierra 1990, "computer nerds who can write" ad
+[^ref-26]: [PCGamingWiki – King's Quest VI](https://www.pcgamingwiki.com/wiki/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Technical specs, Windows high-res portraits, system requirements
+[^ref-27]: [Behind the Voice Actors – King's Quest VI](https://www.behindthevoiceactors.com/video-games/Kings-Quest-VI-Heir-Today-Gone-Tomorrow/) – – Stuart Rosen voice director, complete cast list
+[^ref-28]: [IMDB – King's Quest VI Full Cast](https://www.imdb.com/title/tt0296259/fullcredits/) – – Voice actor credits
+[^ref-29]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) – – Jane Jensen lyrics, Mark Seibert composer, Jeff Hill co-producer
+[^ref-30]: [Discogs – An Ode to the Isles Vinyl](https://www.discogs.com/release/31112489) – – 2024 Two Guys Records release, Troels Pleimert drums, Error 47 cover, promo CD market values
+[^ref-31]: [Space Quest Historian – KQ6 EP](https://spacequesthistorian.bandcamp.com/album/kings-quest-vi-a-fair-and-balanced-ep) – – Chris Braymen verified composer credits, Mark Seibert "Alex Pining" theme
+[^ref-32]: [ScummVM Wiki – King's Quest VI](https://wiki.scummvm.org/index.php/King%27s_Quest_VI) – – SCI support since v1.2.0, Amiga Virtual Theatre not supported, Revolution conversion
+[^ref-33]: [KQ6 AGI Demake](https://kq6agi.com/) – – Brandon Kouri, 18 years development (2006-2024), August 2024 release, "largest AGI game," hand-traced backgrounds
+[^ref-34]: [KQ Omnipedia – Various Articles](https://kingsquest.fandom.com/) – – Hintbook details, novelization, Royal Family supplement by Lorelei Shannon
+[^ref-35]: [The Cutting Room Floor – King's Quest VI](https://tcrf.net/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Debug Script 911, unused Shamir portrait, Ferryman dialogue, early Cassima voice
+[^ref-36]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Digital distribution
+[^ref-37]: [Internet Archive – King's Quest VI](https://archive.org/details/msdos_Kings_Quest_VI_-_Heir_Today_Gone_Tomorrow_1992) – – Browser-playable preservation

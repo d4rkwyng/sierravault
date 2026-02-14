@@ -201,3 +201,19 @@ For Sierra specifically, Time Zone represented an important learning experience.
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal|→ Next: Hi-Res Adventure 6 - The Dark Crystal]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – development history, BYTE review, awards, sales information, team size
+[^ref-2]: [MobyGames – Time Zone](https://www.mobygames.com/game/15283/time-zone/) – platforms, release dates, publisher information, ratings, development details, easter eggs
+[^ref-3]: [Sierra Fandom Wiki – Time Zone](https://sierra.fandom.com/wiki/Time_Zone) – pricing, commercial failure, technical specifications, development timeline
+[^ref-4]: [Adventure Gamers – Time Zone](https://adventuregamers.com/walkthrough/time-zone) – plot summary, historical figures, gameplay description
+[^ref-5]: [The Digital Antiquarian – Time Zone](https://www.filfre.net/2012/06/time-zone/) – development history, Roberta Williams quotes, team information, manual excerpts
+[^ref-6]: [Blue Renga – Time Zone Ultimate](https://bluerenga.blog/2022/02/27/time-zone-ultimate/) – Roberta Williams quotes, gameplay mechanics, platform information
+[^ref-7]: [Sierra Help – Time Zone Walkthrough](https://sierrahelp.com/Walkthroughs/TimeZoneWalkthrough.html) – time periods, locations, gameplay structure
+[^ref-8]: [Sierra Gamers – Time Zone](https://www.sierragamers.com/time-zone/) – interface details, save system, series information
+[^ref-9]: [Adventure Gamers – Time Zone Walkthrough](https://adventuregamers.com/walkthroughs/time-zone) – gameplay assessment, technical specifications, pricing
+[^ref-10]: [MyAbandonware – Time Zone](https://www.myabandonware.com/game/time-zone-7mv) – user reviews, file information, platform details
+[^ref-11]: [Internet Archive – Time Zone v1.1 (WOZ-a-Day)](https://archive.org/details/wozaday_Time_Zone_v11) – development credits, technical specifications
+[^ref-12]: [Internet Archive – Time Zone Complete Package](https://archive.org/details/on-line-time-zone-a2-1.1-ph) – version information, disk format, preservation notes
+[^ref-13]: [Sierra Gamers Forum – Time Zone Installation](https://www.sierragamers.com/forums/topic/how-to-install-play-time-zone-on-dosbox/) – emulation issues, platform compatibility
+[^ref-14]: [Internet Archive – Time Zone Manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – game documentation

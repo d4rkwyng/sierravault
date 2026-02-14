@@ -147,3 +147,22 @@ The series continued with multiple sequels and iterations, eventually transition
 
 
 ## 
+## References
+
+[^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information
+[^ref-2]: [MobyGames](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) – - Game description and Sierra character integration
+[^ref-3]: [Wikipedia](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – - Series sales figures and Edmond Hoyle background
+[^ref-4]: [EcoQuest Fandom](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) – - Complete game list
+[^ref-5]: [MobyGames](https://www.mobygames.com/game/203390/hoyle-classic-card-games/) – - Designer credit
+[^ref-6]: [MobyGames](https://www.mobygames.com/search/?q=Hoyle+Classic+Card+Games) – - Platform availability
+[^ref-7]: [Vogons.org](https://www.vogons.org/viewtopic.php?t=14793) – - Technical issues with character speech
+[^ref-8]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) – - Input device information
+[^ref-9]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) – - Graphics specifications
+[^ref-10]: [GameFAQs](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – - Marketing description
+[^ref-11]: [GameSpot](https://www.gamespot.com/reviews/hoyle-classic-card-games-review/1900-2537742/) – - Review score and quote
+[^ref-12]: [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av) – - Modern user rating
+[^ref-13]: [Amazon](https://www.amazon.com/Hoyle-Classic-Card-Games-Pc/dp/B000DZLXR6) – - Customer compatibility feedback
+[^ref-14]: [Filfre.net](https://www.filfre.net/?s=Hoyle+Classic+Card+Games) – - Ken Williams quote on multiplayer strategy
+[^ref-15]: [Brainbaking.com](https://brainbaking.com/post/2026/09/a-tribute-to-hoyles-official-book-of-games/) – - Edmond Hoyle historical background
+[^ref-16]: [Archive.org](https://archive.org/details/HoyleCCG) – - Technical features description
+[^ref-17]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – - Bridge internet play patch details

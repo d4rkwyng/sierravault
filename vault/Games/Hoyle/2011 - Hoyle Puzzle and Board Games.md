@@ -178,3 +178,26 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 - [[2011 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
 
 ## 
+## References
+
+[^ref-1]: [My Abandonware – Hoyle Puzzle & Board Games](https://www.myabandonware.com/game/hoyle-puzzle-board-games-hzo) – user ratings, developer credits, download information, user testimonials
+[^ref-2]: [Macintosh Repository – Hoyle Puzzle & Board Games 2011](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac compatibility, release year, file size, platform information
+[^ref-3]: [Metacritic – Hoyle Puzzle and Board Games 2011](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/) – release date, publisher, ESRB rating, game summary
+[^ref-4]: [Gamesmen Australia – PC Hoyle Puzzle & Board Games 2011](https://www.gamesmen.com.au/pc-hoyle-puzzle-board-games-2011) – PAL release date, system requirements, publisher, pricing, product specifications
+[^ref-5]: [Desertcart – Encore Hoyle Puzzle & Board Games 2011](https://gambia.desertcart.com/products/13211446-encore-hoyle-puzzle-board-games-2011) – game features, user reviews, technical issues, version comparisons
+[^ref-6]: [Office Depot – Hoyle Puzzle and Board Games 2011](https://www.officedepot.com/a/products/350023/Hoyle-Puzzle-and-Board-Games-2011/) – technical specifications, game categories, download version details, product description
+[^ref-7]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, original developers, designers, composers, sales data, re-release information, series trivia
+[^ref-8]: [JustAnswer – Hoyle Puzzle Board Games Zilch Issue](https://www.justanswer.com/computer/4i597-hoyle-puzzle-board-games-zilch-when-go-second.html) – gameplay bugs, audio issues, Sierra comparison, user testimonials
+[^ref-9]: [PicClick – Hoyle Puzzle & Board Games](https://picclick.com/Hoyle-Puzzle-Board-Games-NEW-30-BONUS-297923452528.html) – included games list, game features, system requirements, manual information
+[^ref-10]: [Blu-ray.com – Hoyle Puzzle and Board Games 2011](https://www.blu-ray.com/Hoyle-Puzzle-and-Board-Games-2011-PC/480598/) – publisher (Zoo Games), ESRB rating
+[^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/user-reviews/) – absence of user reviews noted
+[^ref-12]: [JustAnswer – Windows 7 64-bit Compatibility](https://www.justanswer.com/computer/59hvr-downloaded-installed-hoyle-puzzle-board-games-2011.html) – compatibility issues, system freezing, technical troubleshooting[^ref-13]: [Giant Bomb - Hoyle Puzzle Games](https://www.giantbomb.com/hoyle-puzzle-games/) - wiki
+[^ref-14]: [IGDB - Hoyle Puzzle Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB
+[^ref-15]: [MobyGames - Hoyle Puzzle](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - database
+[^ref-16]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - database
+[^ref-17]: [UVList - Hoyle Puzzle](https://www.uvlist.net/) - Universal Videogame List
+[^ref-18]: [My Abandonware - Hoyle](https://www.myabandonware.com/) - preservation
+[^ref-19]: [Amazon - Hoyle Puzzle](https://www.amazon.com/) - retail listing
+[^ref-20]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
+[^ref-21]: [Encore Software Official](https://www.encoreusa.com/) - publisher info
+[^ref-22]: [Steam - Hoyle Games](https://store.steampowered.com/) - platform info

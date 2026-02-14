@@ -193,3 +193,15 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
 ## 
+## References
+
+[^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status
+[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Box Information](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – release dates, publisher, platforms, packaging details, UPC
+[^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – game count, publisher information
+[^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, release timeline
+[^ref-6]: [Alchetron – Hoyle's Official Book of Games](https://alchetron.com/Hoyle's-Official-Book-of-Games) – series overview, chronological listing
+[^ref-7]: [Sierra Chest – Hoyle Puzzle Games Music](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=music) – music track listing, audio asset origins, series grouping
+[^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
+[^ref-9]: [Sierra Chest – The Incredible Machine: Even More Contraptions](https://sierrachest.com/index.php?a=games&id=321&title=incredible-machine-even-more-contraptions&fld=general) – developer, release year, platforms
+[^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
+[^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation

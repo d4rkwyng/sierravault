@@ -258,3 +258,24 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
 
 ## 
+## References
+
+[^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits
+[^ref-3]: [MyAbandonware – Red Baron: Mission Builder](https://www.myabandonware.com/game/red-baron-mission-builder-3e0) – expansion requirement, rating, regions
+[^ref-4]: [MyAbandonware – Red Baron](https://www.myabandonware.com/game/red-baron-zs) – reviews, campaign system, freeware release
+[^ref-5]: [Internet Archive – Red Baron Manual Collection](https://archive.org/details/red_baron1_manual/rb3d_manual) – developer, documentation
+[^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – release dates, awards, platforms, historical coverage
+[^ref-7]: [Wikipedia – Red Baron: Mission Builder](https://en.wikipedia.org/wiki/Red_Baron%3A_Mission_Builder) – sales data, Damon Slye quote, Warren Spector quote
+[^ref-8]: [SEC.gov – Sierra On-Line Form 10-K (1996)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales data, flight simulation series details
+[^ref-9]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information
+[^ref-10]: [MobyGames – Red Baron with Mission Builder](https://www.mobygames.com/game/18467/red-baron-with-mission-builder/) – 1997 release, installation notes, package contents
+[^ref-12]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – gameplay features, aircraft count
+[^ref-13]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – user reviews, technical specs, gameplay description
+[^ref-14]: [MobyGames – Red Baron (1990)](https://www.mobygames.com/game/1766/red-baron/) – awards, credits, ratings, version history
+[^ref-15]: [Rock Paper Shotgun – The Flare Path: Slye and the Familiar Stone](https://www.rockpapershotgun.com/2013/10/25/the-flare-path-slye-and-the-familiar-stone/) – Damon Slye interview, development history
+[^ref-16]: [Internet Archive – Sierra Press Release (Red Baron II)](https://web.archive.org/web/20010110043600/http://www.sierra.com/corp/pr/press/3c1a4/1,1891,3c1a4,00.html?brandid=6&prid=60&productid=288) – sales data, technical features, configuration options
+[^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
+[^ref-18]: [Internet Archive – Red Baron Mission Builder (German)](https://archive.org/details/002245-RedBaronMissionBuilder) – media type, platform, genre
+[^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder](https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
+[^ref-20]: [Sierra Chest – Red Baron: Mission Builder (Easter Eggs)](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=eggs) – Easter egg documentation
+[^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer

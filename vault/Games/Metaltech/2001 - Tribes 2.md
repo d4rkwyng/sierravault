@@ -107,3 +107,34 @@ The community created extensive modifications and content, including approximate
 - [[2002 - Tribes - Aerial Assault|→ Next: Tribes - Aerial Assault]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship
+[^ref-2]: [Internet Archive - Tribes 2 Manual](https://archive.org/stream/Tribes_2_Manual/Tribes_2_Manual_djvu.txt) - Game setting and story background
+[^ref-3]: [GameFAQs - Tribes 2](https://gamefaqs.gamespot.com/pc/914210-tribes-2/data) - Official marketing copy and story setup
+[^ref-4]: [Amazon UK - Sierra Best Sellers Tribes 2](https://www.amazon.co.uk/) - Customer review emphasizing innovation
+[^ref-5]: [PCGamingWiki - Tribes 2](https://www.pcgamingwiki.com/wiki/Tribes_2) - Technical specifications and gameplay mechanics
+[^ref-7]: [Wikipedia - Tribes 2](https://en.wikipedia.org/wiki/Tribes_2) - Developer and publisher information
+[^ref-8]: [MobyGames - Tribes 2 Credits](https://www.mobygames.com/game/3566/tribes-2/credits/windows/) - Designer credits
+[^ref-11]: [GameFAQs - Tribes 2 Beginner's Guide](https://gamefaqs.gamespot.com/pc/914210-tribes-2/faqs/14072) - Guide author's perspective and gameplay description
+[^ref-14]: [StrategyWiki - Tribes 2](https://strategywiki.org/wiki/Tribes_2) - Mission types list
+[^ref-15]: [GameRevolution - Tribes 2 Review](https://www.gamerevolution.com/review/32854-tribes-2-review) - Gameplay analysis and scoring
+[^ref-16]: [GameSpot - Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) - Comprehensive review and analysis
+[^ref-19]: [Eurogamer - Tribes 2 Review](https://www.eurogamer.net/r-tribes2) - Contemporary review and vehicle combat assessment
+[^ref-20]: [Metacritic - Tribes 2](https://www.metacritic.com/game/tribes-2/) - Aggregated scores
+[^ref-21]: [IGN - Tribes 2](https://www.ign.com/games/tribes-2) - Professional review score
+[^ref-22]: [PC Gamer - Tribes 2 Review](https://www.pcgamer.com/tribes-2-review/) - Magazine review score
+[^ref-23]: [MyAbandonware - Tribes 2](https://www.myabandonware.com/game/tribes-2-bhu) - Modern user rating
+[^ref-24]: [IGN - Tribes 2 Lives On](https://www.ign.com/articles/2009/01/06/tribes-2-lives-on) - Community revival project coverage
+[^ref-25]: [GameSurge - Tribes 2 Review](https://web.archive.org/web/20010411153458/http://www.gamesurge.com/review/tribes2.shtml) - Team-based gameplay assessment
+[^ref-27]: [BetaNews - Beta Test Tribes 2](https://betanews.com/2000/08/30/beta-test-tribes-2/) - Beta testing announcement details
+[^ref-28]: [Reddit - Tribes 2 turns 20 today](https://www.reddit.com/r/Tribes/comments/mf50zp/tribes_2_turns_20_today_released_march_28_2001/) - Community commemoration of release date
+[^ref-29]: [Dynamix Wiki - Starsiege: Tribes](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) - Voice cast credits and PC Gamer quote
+[^ref-30]: [Rate Your Music - Tribes 2 Soundtrack](https://rateyourmusic.com/release/album/timothy-steven-clarke/tribes-2-original-soundtrack/) - Composer information
+[^ref-32]: [Medium - Tribes: The Most Influential First-Person Shooter](https://medium.com/@ryanbruce/tribes-the-most-influential-first-person-shooter-caa4b98f665c) - Development closure details
+[^ref-34]: [TV Tropes - Dynamix](https://tvtropes.org/pmwiki/pmwiki.php/Creator/Dynamix) - Engine evolution details
+[^ref-38]: [Web Archive - GarageGames blog](https://web.archive.org/web/20121225214405/http://www.garagegames.com/community/blogs/view/21876) - Torque 3D open source release
+[^ref-39]: [TribesNext](https://www.tribesnext.com/) - Server count
+[^ref-40]: [TribesNext - Tribes 2 Ultimate Pack](https://www.tribesnext.com/forum/discussion/2364/tribes-2-ultimate-pack) - Community content statistics
+[^ref-41]: [Shacknews - Sierra shutting down 21 old games](https://www.shacknews.com/article/55173/sierra-shutting-down-21-old) - Server shutdown coverage
+[^ref-42]: [GameSpot - Get every Tribes game for free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) - Freeware announcement coverage

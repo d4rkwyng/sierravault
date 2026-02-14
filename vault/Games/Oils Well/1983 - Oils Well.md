@@ -228,3 +228,35 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 - [[1990 - Oils Well|→ Next: Oils Well]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – historical overview, awards, development history, critical reception
+[^ref-2]: [MobyGames – Oil's Well (1983)](https://www.mobygames.com/game/1427/oils-well/) – release dates, platforms, credits, ratings
+[^ref-3]: [Atarimania – Oil's Well](https://www.atarimania.com/game-atari-400-800-xl-xe-oil-s-well_3772.html) – reviews, ratings, technical specifications
+[^ref-4]: [FRGCB Blog – Anteater/Oil's Well Origins](http://frgcb.blogspot.com/2021/09/anteater-oils-well-origins-and.html) – development history, platform versions, design origins
+[^ref-5]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Oils_Well_1990) – 1990 remake details, Slater the Petrosaur
+[^ref-6]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – production credits, technical specs, pricing
+[^ref-7]: [ClassicReload – Oil's Well](https://classicreload.com/oils-well.html) – developer trivia, gameplay description
+[^ref-8]: [Sierra Chest – Oil's Well Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – gameplay mechanics, difficulty levels, scoring
+[^ref-9]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – backstory elements (fictional oil crisis context)
+[^ref-10]: [PixelatedArcade – Oil's Well](https://pixelatedarcade.com/games/oil-s-well) – gameplay description, technical improvements
+[^ref-11]: [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line) – control scheme, level structure
+[^ref-12]: [Lemon64 – Oil's Well](https://www.lemon64.com/game/oils-well) – user reviews, gameplay details, bugs
+[^ref-13]: [Classic-Retro-Games – Oil's Well](https://www.classic-retro-games.com/games/action/oils-well-288) – download statistics, modern remake info
+[^ref-14]: [Internet Archive – ColecoVision Manual](https://archive.org/details/Oils_Well_1984_Sierra_On-Line) – land mines gameplay element
+[^ref-15]: [Every Game Going – Apple User Review](https://www.everygamegoing.com/larticle/Oils-Well-000/40739/) – Cliff McKnight review, October 1984
+[^ref-16]: [UVList – Oil's Well](https://www.uvlist.net/game-36324-Oils+Well) – French publication review scores
+[^ref-17]: [MyAbandonware – Oil's Well](https://www.myabandonware.com/game/oil-s-well-2jg) – modern retrospective, user rating
+[^ref-18]: [IMDB – Oil's Well](https://www.imdb.com/find/?q=Oil%27s+Well&s=tt) – user rating
+[^ref-19]: [Xeen Music – Oil's Well Soundtrack](https://xeenmusic.bandcamp.com/album/oils-well-soundtrack-mt-32) – composer credit, audio preservation
+[^ref-20]: [ColecoVision Addict – Oil's Well](https://cvaddict.com/profile.php?gameid=111) – ROM specifications
+[^ref-21]: [Atarimania – Oilmania](http://www.atarimania.com/game-atari-st-oilmania_10119.html) – clone information, credits
+[^ref-22]: [Wikidata – Oil's Well](https://www.wikidata.org/wiki/Q2072141) – structured metadata, platform list
+[^ref-23]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file) – platform release information
+[^ref-24]: [Sierra Chest – Oil's Well](https://sierrachest.com/index.php?a=games&id=367&fld=music) – release date, publisher
+[^ref-25]: [GameFAQs – Oil's Well](https://gamefaqs.gamespot.com/pc/955730-oils-well/faqs) – platform information
+[^ref-26]: [Sierra Gamers – Oil's Well 1990](https://www.sierragamers.com/oils-well-1990/) – remake details
+[^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Oil%27s+Well) – DOS release year
+[^ref-28]: [NeverDieMedia – Oil's Well](https://www.neverdiemedia.com/products/oils-well) – media format, description
+[^ref-29]: [PlayClassic Games – Oil's Well](https://playclassic.games/games/arcade-dos-games-online/play-oils-well-online/) – gameplay description
+[^ref-30]: [Reddit – r/chiptunes](https://www.reddit.com/r/chiptunes/comments/172w3dd/oils_well_ms_dos_some_music_on_creative_music/) – audio hardware support

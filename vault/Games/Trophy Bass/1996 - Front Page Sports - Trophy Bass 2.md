@@ -255,3 +255,26 @@ The game is preserved through abandonware archives, though it faces compatibilit
 - [[1999 - Field & Stream - Trophy Bass 3D|→ Next: Field & Stream - Trophy Bass 3D]]
 
 ## 
+## References
+
+[^ref-1]: [SierraChest](https://sierrachest.com/index.php?a=games&id=309&title=trophy-bass-2&fld=general) – Basic release and development information
+[^ref-2]: [FilFre.net](https://www.filfre.net/?s=Front+Page+Sports%3A+Trophy+Bass+2) – Sierra business strategy and development context
+[^ref-3]: [Internet Archive – Demo](https://archive.org/details/swizzle_demu_BASS) – Product marketing description
+[^ref-4]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-trophy-bass-2-dbs) – Game archive with historical information, user reviews
+[^ref-5]: [GameFabrique](https://gamefabrique.com/games/front-page-sports-trophy-bass-2/) – Review with Trophy Boss engine details
+[^ref-6]: [eBay Listing](https://www.ebay.com/itm/403449583476) – Original product description and features
+[^ref-7]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – User-submitted game description
+[^ref-8]: [MobyGames – Specs](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/specs/) – Technical specifications and platform details
+[^ref-9]: [Old-Games.com](https://www.old-games.com/download/8786/front-page-sports-trophy-bass) – Comprehensive game review
+[^ref-10]: [eBay Listing](https://www.ebay.com/itm/226030508343) – Marketing description from product listing
+[^ref-11]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Front_Page_Sports:_Trophy_Bass_2:_Northern_Lakes_Cheats) – Detailed gameplay instructions
+[^ref-12]: [MobyGames](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/) – Player count and multiplayer information
+[^ref-13]: [FileCR](https://filecr.com/pc-games/front-page-sports-trophy-bass-2-northern-lakes/) – Game features description
+[^ref-14]: [Kotaku](https://kotaku.com/games/front-page-sports-trophy-bass-2) – Game overview and features
+[^ref-15]: [MobyGames – Reviews](https://www.mobygames.com/game/20265/front-page-sports-trophy-bass-2/reviews/windows/) – Aggregate review score
+[^ref-16]: [Old-Games.com](https://www.old-games.com/download/10696/trophy-bass) – Critical review assessment
+[^ref-17]: [IGN](https://www.ign.com/games/front-page-sports-trophy-bass-2) – Release information and context
+[^ref-18]: [XeenMusic Bandcamp](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – Musical composition and recording details
+[^ref-19]: [OldGamesDownload](https://oldgamesdownload.com/front-page-sports-trophy-bass-2-northern-lakes/) – Northern Lakes expansion details
+[^ref-20]: [Vogons.org](https://www.vogons.org/viewtopic.php?t=50808) – Technical discussion and compatibility issues
+[^ref-21]: [Internet Archive – Demo](https://archive.org/details/tbass2) – Demo preservation

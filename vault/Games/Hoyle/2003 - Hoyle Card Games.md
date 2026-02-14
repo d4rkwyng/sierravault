@@ -216,3 +216,25 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 ## 
+## References
+
+[^ref-1]: [GameFAQs – Hoyle Card Games](https://gamefaqs.gamespot.com/pc/562385-hoyle-card-games) – developer, release date, user ratings, game features
+[^ref-2]: [Amazon Canada – Hoyle Card Games 2003](https://www.amazon.ca/Vivendi-Universal-Hoyle-Card-Games/dp/B00005V9R6) – publisher, release date, platform compatibility, features, Facemaker, characters, compatibility issues
+[^ref-4]: [Worth Playing – Sierra Launches Official Hoyle Games 2003 Website](https://worthplaying.com/article/2002/9/20/news/5846-sierra-launches-official-hoyle-games-2003-website/) – publisher announcement, marketing claims
+[^ref-5]: [Open Library – Hoyle Card Games](https://openlibrary.org/books/OL25584872M/Hoyle_card_games) – technical specifications, game list, ISBN, bonus content
+[^ref-6]: [IMDb – Hoyle Card Games 2003](https://www.imdb.com/title/tt0824346/) – voice cast, IMDb rating, release year
+[^ref-7]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – Sierra/Encore franchise history
+[^ref-8]: [ESRB – Hoyle Card Games 2003](https://www.esrb.org/ratings/7946/hoyle-card-games-2003/) – rating, platforms including Palm Pilot and Pocket PC
+[^ref-9]: [Best Buy – Hoyle Card Games 2003](https://www.bestbuy.com/site/hoyle-card-games-2003-mac-windows/4752574.p?skuId=4752574) – platform availability
+[^ref-10]: [LaunchBox Games Database – Sierra Entertainment](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – community rating, release year
+[^ref-11]: [Steam Community – Hoyle Card Games](https://steamcommunity.com/app/397420) – retrospective comparisons, Steam release features
+[^ref-12]: [JustAnswer – Hoyle Card Games Technical Support](https://www.justanswer.com/computer/4vc4f-just-bought-hoyle-card-games-2011-replace-hoyle-card.html) – version comparisons, technical issues
+[^ref-13]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003/data) – VU Games developer, product ID
+[^ref-14]: [Macintosh Repository – Hoyle Card Games 2003](https://www.macintoshrepository.org/5917-hoyle-card-games-2003) – Mac version specifications, compatibility
+[^ref-15]: [Wikipedia – Hoyle Card Games (GBC)](https://en.wikipedia.org/wiki/Hoyle_Card_Games) – Game Boy Color version information
+[^ref-16]: [GameFAQs – Hoyle Official Card Games Collection](https://gamefaqs.gamespot.com/pc/203237-hoyle-official-card-games-collection) – Encore Software continuation
+[^ref-17]: [NeverDieMedia – Hoyle Card Games 2003](https://www.neverdiemedia.com/products/hoyle-card-games-2003-w-manual) – publisher, media format
+[^ref-18]: [We Still Love This Stuff – Hoyle Card Games 2003](https://westilllovethisstuff.com/products/pc-cd-rom-hoyle-card-games-2003-sierra-computer-game-disc) – publisher confirmation
+[^ref-19]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – PC Games platform, media format
+[^ref-20]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003) – related 2003 Hoyle release
+[^ref-21]: [GameFAQs – Hoyle Board Games 2003 FAQ](https://gamefaqs.gamespot.com/pc/929726-hoyle-board-games-2003/faqs/62836) – 2003 Hoyle product line documentation

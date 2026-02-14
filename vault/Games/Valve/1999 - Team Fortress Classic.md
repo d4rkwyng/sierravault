@@ -249,3 +249,45 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 - [[2000 - Counter-Strike|→ Next: Counter-Strike]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history
+[^ref-2]: [Engadget – Valve's Strange History of Talent Acquisitions](https://www.engadget.com/valves-strange-history-of-talent-acquisitions--this-weeks gaming-news-153020318.html) – Valve acquisition of Team Fortress developers
+[^ref-3]: [IMDB – Team Fortress Classic](https://www.imdb.com/title/tt5044604/) – ratings, alternate titles, user reviews
+[^ref-4]: [GameSpot – Team Fortress Full Speed Ahead](http://www.gamespot.com/articles/team-fortress-full-speed-ahead/1100-2463316/) – Robin Walker and Scott Lynch quotes, development decisions
+[^ref-5]: [Grokipedia – Team Fortress Classic](https://grokipedia.com/page/Team_Fortress_Classic) – designers, engine, game modes, technical details
+[^ref-6]: [Steam Store – Team Fortress Classic](https://store.steampowered.com/app/20/Team_Fortress_Classic/) – system requirements, pricing, user reviews
+[^ref-7]: [MobyGames – Team Fortress Classic](https://www.mobygames.com/game/1793/team-fortress-classic/) – awards, ratings, technical specs, trivia
+[^ref-8]: [TV Tropes – Team Fortress Classic](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TeamFortressClassic) – visual style, backstory context
+[^ref-9]: [The Cutting Room Floor – Team Fortress Classic](https://tcrf.net/Team_Fortress_Classic) – unused content, version differences, trivia
+[^ref-10]: [IGN – Team Fortress Classic Preview (February 1999)](http://www.ign.com/articles/1999/02/25/team-fortress-classic) – gameplay analysis, free add-on status
+[^ref-11]: [Planet Fortress – HUD Tutorial (Archived)](https://www.quaddicted.com/webarchive/www.planetfortress.com/tfc/mod/hud.shtml) – HUD customization, sprite editing
+[^ref-12]: [StrategyWiki – Team Fortress Classic Gameplay](https://strategywiki.org/wiki/Team_Fortress_Classic/Gameplay) – game modes, team mechanics
+[^ref-13]: [Team Fortress Wiki – Team Fortress Classic](https://wiki.teamfortress.com/wiki/Team_Fortress_Classic) – release dates, version history, current status
+[^ref-14]: [Planet Half-Life – TFC Class Guide (Archived)](https://web.archive.org/web/20130918070203/http://planethalflife.gamespy.com/View.php?view=TFCGameInfo.Detail&id=3&game=6) – comprehensive class descriptions
+[^ref-15]: [GameSpot – Sniper Class Guide (Archived)](https://web.archive.org/web/20130108152741/http://www.gamespot.com/features/teamfort_gg/p3_06.html) – sniper statistics and tactics
+[^ref-16]: [GameSpot – Demoman Class Guide (Archived)](https://web.archive.org/web/20130107105034/http://www.gamespot.com/features/teamfort_gg/p3_03.html) – demoman statistics and abilities
+[^ref-17]: [GameSpot – Medic Class Guide (Archived)](https://web.archive.org/web/20130108153100/http://www.gamespot.com/features/teamfort_gg/p3_08.html) – medic abilities and role
+[^ref-18]: [GameSpot – Pyro Class Guide (Archived)](https://web.archive.org/web/20130108153050/http://www.gamespot.com/features/teamfort_gg/p3_05.html) – pyro statistics and special abilities
+[^ref-19]: [Rock, Paper, Shotgun – Team Fortress Classic Was Rubbish](https://www.rockpapershotgun.com/team-fortress-classic-was-rubbish) – retrospective criticism, gameplay mechanics
+[^ref-20]: [Game Critics Awards – 1999 Winners](http://www.gamecriticsawards.com/1999winners.html) – E3 awards for Team Fortress
+[^ref-21]: [IGN – Team Fortress Classic Arrives Tomorrow](http://www.ign.com/articles/1999/04/07/team-fortress-classic-arrivestomorrow) – release announcement, gameplay philosophy
+[^ref-22]: [Metacritic – Team Fortress Classic User Reviews](https://www.metacritic.com/game/team-fortress-classic/user-reviews/) – user scores, modern assessments
+[^ref-23]: [Shacknews – Threading the Needle: The Making of Quake Team Fortress](https://www.shacknews.com/article/103827/threading-the-needle-the-making-of-quake-team-fortress) – developer interviews, origins
+[^ref-24]: [Team Fortress Wiki – Team Fortress (Original)](https://wiki.teamfortress.com/wiki/Team_Fortress) – mod origins, version history, John Cook quote
+[^ref-25]: [Blue's News – Team Fortress Classic Release Date Changes](https://www.bluesnews.com/s/947/team-fortress-classic-release-date-changes) – delay announcement
+[^ref-26]: [PCGamingWiki – Team Fortress Classic](https://www.pcgamingwiki.com/wiki/Team_Fortress_Classic) – technical specifications, version info
+[^ref-27]: [Steam Community Guide – TFC History](https://steamcommunity.com/sharedfiles/filedetails/?id=511395589) – original Quake TF version history
+[^ref-28]: [AlliedMods Forums – Steam Update Issues](https://forums.alliedmods.net/archive/index.php/t-79403.html) – technical issues, compatibility problems
+[^ref-29]: [Steam Community – Magazine Cover Disc Documentation](https://steamcommunity.com/sharedfiles/filedetails/?id=2463040363) – distribution history
+[^ref-30]: [Steam Charts – Team Fortress Classic](https://steamcharts.com/app/20) – player statistics over time
+[^ref-31]: [MobyGames – Half-Life Platinum](https://www.mobygames.com/game/2727/half-life-platinum/) – compilation contents
+[^ref-32]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – expanded compilation
+[^ref-33]: [Steam Store – Fortress Forever](https://store.steampowered.com/app/253530/Fortress_Forever/) – Source mod details
+[^ref-34]: [Fortress Forever Official Website](http://www.fortress-forever.com/) – development statistics, community info
+[^ref-35]: [PC Gamer – Team Fortress 2 Classic Open Beta](https://www.pcgamer.com/games/fps/team-fortress-2-classic-the-throwback-version-of-valves-famed-team-based-shooter-is-having-an-open-beta-on-steam-in-october/) – modern community project
+[^ref-36]: [Speedrun.com – Team Fortress Classic](https://www.speedrun.com/tfc) – speedrunning categories and records
+[^ref-37]: [Planet Half-Life – 2Fort Strategy Guide (Archived)](https://web.archive.org/web/20130731000055/http://planethalflife.gamespy.com/View.php?view=tfcguides.detail&id=3&game=7) – tactical advice
+[^ref-38]: [Neoseeker – TFC Sniper FAQ](https://www.neoseeker.com/tfc/faqs/53446-team-fortress-classic-sniper-darkreaper.html) – Dark Reaper sniper guide
+[^ref-39]: [Game Developer – The Impact of Team Fortress 2 on Game Design](https://www.gamedeveloper.com/game-platforms/the-impact-of-team-fortress-2-on-game-design) – Josh Bycer analysis
+[^ref-40]: [MobyGames – Team Fortress 2](https://www.mobygames.com/game/30655/team-fortress-2/) – sequel development timeline

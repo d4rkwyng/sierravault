@@ -220,3 +220,22 @@ From a modern perspective, the game serves as an important data point in underst
 - [[1987 - 3-D Helicopter Simulator|→ Next: 3-D Helicopter Simulator]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Wrath of Denethenor](https://en.wikipedia.org/wiki/Wrath_of_Denethenor) – development history, reviews, technical specifications, credits
+[^ref-2]: [Internet Archive – C64 Disk Images](https://archive.org/details/d64_Wrath_of_Denethenor_The_1986_Sierra_Online_Disk_1_of_2_Side_A) – game description, release information, setting details
+[^ref-3]: [Sierra InterAction Wiki – Review](http://sierrainteraction.wikidot.com/wrath-of-denethenor:a-review) – pricing details, InterAction Magazine review, developer quotes
+[^ref-4]: [CRPG Addict – Game 246](http://crpgaddict.blogspot.com/2017/03/game-246-wrath-of-denethenor-1986.html) – modern review, GIMLET rating, gameplay analysis, trivia
+[^ref-5]: [Crimdom.net – Developer Website](https://crimdom.net/wrath-of-denethenor/) – first-hand development account, design philosophy, sales estimates
+[^ref-6]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Wrath_of_Denethenor) – technical details, engine information, features
+[^ref-7]: [VideoGameGeek](https://videogamegeek.com/videogame/217058/wrath-of-denethenor) – game description, setting background
+[^ref-8]: [Eli Software Encyclopedia](https://www.elisoftware.org/w/index.php?title=Wrath_Of_Denethenor_(Apple_II,_5_1/4%22_Disk)_Sierra_-_1986_USA,_Canada_Release) – package description, features, enemy types, technical specs
+[^ref-9]: [Internet Archive – Manual Text](https://archive.org/stream/vgmuseum_sierra_denethenor-manual/denethenor-manual_djvu.txt) – storyline, credits, world details
+[^ref-10]: [Crimdom.net – Walkthrough](https://crimdom.net/wrath-of-denethenor/the-wrath-of-denethenor-walkthrough/) – protagonist quotes, gameplay details
+[^ref-11]: [Lemon64 – Game Page](https://www.lemon64.com/game/wrath-of-denethenor) – user comments, technical specs, ratings
+[^ref-12]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/appleii/941616-wrath-of-denethenor/faqs/49071) – gameplay analysis, criticism, combat details
+[^ref-13]: [Lemon64 – Forum Discussion](https://www.lemon64.com/forum/viewtopic.php?t=27106&sid=d81fd86ca9a0d76b90245ba38c49deb9) – user experiences, technical issues, source code status
+[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/wrath-of-denethenor-56w) – user ratings, file sizes, platform details
+[^ref-15]: [MobyGames – Wrath of Denethenor](https://www.mobygames.com/game/29990/wrath-of-denethenor/) – critic ratings, release dates, credits
+[^ref-16]: [Giant Bomb](https://www.giantbomb.com/wrath-of-denethenor/3030-11966/) – user ratings, game description
+[^ref-17]: [Internet Archive – Manual Scan](https://archive.org/details/wrathofdenethenormanual) – platform confirmation, publisher details

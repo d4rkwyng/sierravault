@@ -251,3 +251,35 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 - [[1991 - The Charge of the Light Brigade|→ Next: The Charge of the Light Brigade]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Ancient Art of War at Sea](https://www.mobygames.com/game/188/the-ancient-art-of-war-at-sea/) – developer, publisher, platforms, release dates, ratings, ship types, technical details
+[^ref-2]: [Internet Archive – Ancient Art of War at Sea](https://archive.org/details/msdos_Ancient_Art_of_War_at_Sea_1987) – gameplay description, objective, ship types, platforms
+[^ref-3]: [Games Domain Interview (Archived)](https://web.archive.org/web/20020213224051/http://www.gamesdomain.com/gdreview/depart/jun97/evryware.html) – developer quotes, design philosophy, real-time mechanics, sales data
+[^ref-4]: [Apple Rescue of Denver – Apple II Version](https://applerescueofdenver.com/products-page/apple-ii-software/games-apple-ii/the-ancient-art-of-war-at-sea/) – included materials, game features, scenarios
+[^ref-5]: [Atari Magazines – COMPUTE! Review](https://www.atarimagazines.com/compute/issue92/256_1_Reviews_The_Ancient_Art_Of_War_At_Sea.php) – Keith Ferrell review, scenarios, historical context, compatibility issues
+[^ref-6]: [Computer Hope – Game Information](https://www.computerhope.com/games/games/aaowints.htm) – technical specifications, educational value
+[^ref-7]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-ancient-art-of-war-at-sea-1987) – game editor features, scenario creation
+[^ref-8]: [Lutris – Game Overview](https://lutris.net/games/the-ancient-art-of-war-at-sea/) – marketing quotes, historical context
+[^ref-9]: [Wikipedia – The Ancient Art of War at Sea](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War_at_Sea) – reviews, sales, box art, ratings
+[^ref-10]: [VideoGameGeek](https://videogamegeek.com/videogame/77662/the-ancient-art-of-war-at-sea) – ratings, release information, description
+[^ref-11]: [MyAbandonware](https://www.myabandonware.com/game/the-ancient-art-of-war-at-sea-9v) – opponents, locations, engine comparison, ratings, DOSBox support
+[^ref-12]: [GameFAQs Forum Post](https://gamefaqs.gamespot.com/boards/935953-the-ancient-art-of-war-at-sea/68903134) – gameplay mechanics, squadron system, grappling issues
+[^ref-13]: [Computer Gaming World Museum](http://www.cgwmuseum.org/galleries/index.php?year=1987&pub=2&id=41) – November 1987 coverage
+[^ref-14]: [Wikipedia – The Ancient Art of War](https://en.wikipedia.org/wiki/The_Ancient_Art_of_War) – series information, developer background, BYTE review
+[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Ancient+Art+of+War+at+Sea&gid=2240) – CODiE Awards, ratings
+[^ref-16]: [GameSpot](https://www.gamespot.com/the-ancient-art-of-war-at-sea/) – user rating, release dates
+[^ref-17]: [Glitchwave](https://glitchwave.com/game/the-ancient-art-of-war-at-sea/) – user ratings, genre classification
+[^ref-18]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams quotes, packaging recall, business history
+[^ref-19]: [Apple Rescue of Denver – Mac Version](https://applerescueofdenver.com/products-page/books-and-software-mac/macintosh-software/software-by-memory/512k-ram/the-ancient-art-of-war-at-sea-mac/) – Mac technical specifications
+[^ref-20]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/the-ancient-art-of-war-at-sea-9v/play-9v) – Japanese title, DOSBox configuration
+[^ref-21]: [IMDB](https://www.imdb.com/title/tt2341104/) – sequel information, country of origin
+[^ref-22]: [MobyGames – The Ancient Art of War 2](https://www.mobygames.com/game/105406/the-ancient-art-of-war-2/) – 2014 remake details
+[^ref-23]: [Internet Archive – Game Manual](https://archive.org/details/The_Ancient_Art_Of_War_At_Sea_Manual) – manual page count, technical specifications
+[^ref-24]: [Kotaku](https://kotaku.com/games/the-ancient-art-of-war-at-sea) – game generator features
+[^ref-25]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheAncientArtOfWar) – series overview, developer information
+[^ref-26]: [Wikidata](https://www.wikidata.org/wiki/Q3519781) – structured metadata
+[^ref-27]: [RAWG](https://rawg.io/games/the-ancient-art-of-war-at-sea) – genre classification, release date
+[^ref-28]: [MobyGames – The Ancient Art of War](https://www.mobygames.com/game/23/the-ancient-art-of-war/) – original game background, developer quotes
+[^ref-29]: [MobyGames – The Ancient Art of War in the Skies](https://www.mobygames.com/game/1595/the-ancient-art-of-war-in-the-skies/) – series sequel information
+[^ref-30]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Sierra/Dynamix relationship context

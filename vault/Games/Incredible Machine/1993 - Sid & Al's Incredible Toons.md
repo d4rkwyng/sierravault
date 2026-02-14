@@ -217,3 +217,35 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 - [[1993 - The Even More Incredible Machine|→ Next: The Even More Incredible Machine]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – credits, ratings, awards, technical specifications, packaging contents
+[^ref-2]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_%26_Al%27s_Incredible_Toons) – release dates, platforms, review scores, awards
+[^ref-3]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_&_Al's_Incredible_Toons) – Computer Gaming World quote, international review scores
+[^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Sid__Als_Incredible_Toons_1993) – gameplay description, character details, objectives
+[^ref-5]: [MyAbandonware – Sid & Al's Incredible Toons](https://www.myabandonware.com/game/sid-al-s-incredible-toons-1md) – user ratings, HOTUD review quote, DOSBox compatibility
+[^ref-6]: [Classic Gaming Network – Review](https://www.classic-gaming.net/game/64/) – Bokkie review, score, critical assessment
+[^ref-7]: [GamePressure – Sid & Al's Incredible Toons](https://www.gamepressure.com/games/sid-als-incredible-toons/zbdbe) – technical requirements, features, rating
+[^ref-8]: [PCGamingWiki – The Incredible Toon Machine](https://www.pcgamingwiki.com/wiki/The_Incredible_Toon_Machine) – sequel information, platform details
+[^ref-9]: [The Digital Antiquarian](https://www.filfre.net/?s=Sid+%26+Al%27s+Incredible+Toons) – development history, design influences, technical details
+[^ref-10]: [Play Classic Games](https://playclassic.games/games/puzzle-solving-dos-games-online/play-sid-als-incredible-toons-online/) – gameplay description, character comparisons, puzzle elements
+[^ref-11]: [TV Tropes – Sid and Al's Incredible Toons](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SidAndAlsIncredibleToons) – game mechanics, sequel information, Japanese versions
+[^ref-12]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sid+&gid=2512) – user rating, graphics description, series info
+[^ref-13]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – puzzle count, technical specifications, password system
+[^ref-14]: [SuperCheats – Bonus Levels](https://www.supercheats.com/pc/sidalsincredibletoons.htm) – WIND password cheat
+[^ref-15]: [Kultboy – Power Play Coverage](http://www.kultboy.com/index.php?site=t&id=3347) – German review, user commentary
+[^ref-16]: [MobyGames – MobyRank](http://www.mobygames.com/game/dos/sid-als-incredible-toons/mobyrank) – aggregate critic and player scores
+[^ref-17]: [Music Stack Exchange – Game Music Discussion](https://music.stackexchange.com/questions/77245/how-do-video-game-music-composers-make-so-many-songs-for-one-game-are-all-of-th) – public domain music usage
+[^ref-18]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=music) – soundtrack track listing
+[^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_&_Al's_Incredible_Toons) – save file locations, system requirements
+[^ref-20]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=eggs) – Quarky reference, Johnny Castaway sounds
+[^ref-21]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – sequel features, puzzle count
+[^ref-22]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – development credits, Electronic Entertainment review
+[^ref-23]: [Alchetron – Sid and Al's Incredible Toons](https://alchetron.com/Sid-and-Al's-Incredible-Toons) – designer credits, platform information
+[^ref-24]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – series relationship, developer information
+[^ref-25]: [Metacritic](https://www.metacritic.com/game/sid-and-als-incredible-toons/) – platform and genre classification
+[^ref-26]: [IMDB – Sid & Al's Incredible Toons](https://www.imdb.com/title/tt0471034/) – release year, designer credits
+[^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – user commentary on gameplay
+[^ref-28]: [Internet Archive – Incredible Toon Machine](https://archive.org/details/incredible-toon-machine) – sequel details, character information
+[^ref-29]: [Internet Archive – Masque Version](https://archive.org/details/masque_202208) – Windows port information
+[^ref-30]: [Consolidated Research Data](_consolidated) – multiple source aggregation

@@ -243,3 +243,44 @@ From a preservation standpoint, the title remains notable as one of five budget 
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – release date, developer, publisher, credits, gameplay description, ratings, collection appearances
+
+[^ref-2]: [Sierra Chest – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.sierrachest.com/index.php?a=games&id=718&title=crazy-nick-larry&fld=general) – series context, music sourcing, media format, development background
+
+[^ref-3]: [MyAbandonware – Crazy Nick's Software Picks: Leisure Suit Larry Casino](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-casino-36x) – user review quotes, alternate ratings
+
+[^ref-4]: [Universal Videogame List – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.uvlist.net/game-188149-Crazy+Nicks+Software+Picks+Leisure+Suit+Larrys+Casino) – collector edition inclusion, game origins commentary, technical details
+
+[^ref-5]: [PCGamingWiki – Leisure Suit Larry's Casino](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry's_Casino) – engine version, video modes, save feature absence, ScummVM compatibility
+
+[^ref-6]: [MyAbandonware – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-s-casino-bo0) – abandonware status, file size, user ratings
+
+[^ref-7]: [GameFAQs – Leisure Suit Larry 1 VGA Walkthrough](https://gamefaqs.gamespot.com/pc/917513-leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/faqs/37398) – character description, casino door bug documentation
+
+[^ref-8]: [MobyGames – Leisure Suit Larry 1: In the Land of the Lounge Lizards](https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – user review criticizing casino spin-off, VGA remake information
+
+[^ref-9]: [Wikipedia – Leisure Suit Larry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – series overview, Crazy Nick's series mention
+
+[^ref-10]: [GameFAQs – Leisure Suit Larry 1 Slots Guide](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/faqs/36583/slots) – slot machine controls, payout table, strategy commentary
+
+[^ref-11]: [Larry Laffer.net – Larry's Casino 1998](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – distinction between 1992 and 1998 casino releases, LarryLand origins, money carryover feature
+
+[^ref-12]: [Al Lowe's Website – Larry Music History](https://allowe.com/games/larry/35-larry-music.html) – theme song creation story, composition date, Irving Berlin inspiration
+
+[^ref-13]: [Al Lowe's Website – Music Downloads](https://allowe.com/downloads/music-larry.html) – music evolution commentary, composer credits for series
+
+[^ref-14]: [GameFAQs – Leisure Suit Larry: Reloaded](https://gamefaqs.gamespot.com/mac/714534-leisure-suit-larry-reloaded/faqs/67271) – 2013 remake information
+
+[^ref-15]: [LaunchBox Games Database – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://gamesdb.launchbox-app.com/games/details/82768) – release date, genre classification, player count
+
+[^ref-16]: [MobyGames – Leisure Suit Larry's Casino (1998)](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – distinct 1998 Windows release information
+
+[^ref-17]: [Adventure Gamers – Leisure Suit Larry VGA Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards-vga) – VGA remake background information
+
+[^ref-18]: [MobyGames – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – subsequent series entry information
+
+[^ref-19]: [LaunchBox Games Database – ScummVM Entry](https://gamesdb.launchbox-app.com/games/details/86019) – ScummVM platform listing, alternate naming
+
+[^ref-20]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Crazy+Nick%27s+Software+Picks%3A+Leisure+Suit+Larry%27s+Casino) – release date confirmation

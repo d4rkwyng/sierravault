@@ -256,3 +256,30 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 - [[1996 - Hunter Hunted|→ Next: Hunter Hunted]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – CyberGladiators](https://archive.org/details/cybergladiators) – Game description, developer/publisher, platform, release year, ESRB rating
+[^ref-2]: [Giant Bomb – CyberGladiators](https://www.giantbomb.com/cybergladiators/3030-12671/) – Gameplay description, user rating, release date
+[^ref-3]: [MobyGames – CyberGladiators](https://www.mobygames.com/game/2858/cybergladiators/) – Development origins, K.A.A. series info, critics average score
+[^ref-4]: [Wikipedia – CyberGladiators](https://en.wikipedia.org/wiki/CyberGladiators) – Director, producer, release date, PC Zone review score, plot summary
+[^ref-5]: [Classic Gaming Network – CyberGladiators](https://www.classic-gaming.net/game/1081/) – User reviews, aggregate rating
+[^ref-6]: [PCGamingWiki – CyberGladiators](https://www.pcgamingwiki.com/wiki/CyberGladiators) – System requirements, game modes, multiplayer types, availability status
+[^ref-7]: [Sierra Chest – CyberGladiators Demo](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=demos) – K.A.A. series info, demo distribution, hex edit fix details
+[^ref-8]: [GameFAQs – CyberGladiators FAQ](https://gamefaqs.gamespot.com/pc/197019-cybergladiators/faqs/17775) – Controls, gameplay mechanics, unlock conditions, boss abilities
+[^ref-9]: [Cheatbook.de – CyberGladiators Walkthrough](https://www.cheatbook.de/wfiles/cybergladiators.htm) – Story background, narrative quotes
+[^ref-10]: [Lutris – Cyber Gladiators](https://lutris.net/games/cyber-gladiators/) – Story summary, installation notes
+[^ref-11]: [NeverDieMedia – Cyber Gladiators](https://www.neverdiemedia.com/products/cyber-gladiators) – Plot summary
+[^ref-12]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Graphics mode requirements, unlock conditions, boss code restrictions
+[^ref-13]: [Neoseeker – CyberGladiators](https://www.neoseeker.com/cybergladiators/) – System requirements, roster size, review quotes
+[^ref-14]: [Sierra Chest – CyberGladiators Music](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=music) – Character roster, arena listing, music track listing
+[^ref-15]: [MyAbandonware – CyberGladiators](https://www.myabandonware.com/game/cybergladiators-gwm) – User rating, download size, compatibility issues, user comments
+[^ref-16]: [MobyGames Search – CyberGladiators](https://www.mobygames.com/search/?q=CyberGladiators) – Content rating notation
+[^ref-17]: [OGDB – K.A.A. Publisher Entry](https://ogdb.eu/index.php?section=company&companyid=24902) – K.A.A. as Dynamix label
+[^ref-18]: [MobyGames – CyberGladiators Release Info](https://www.mobygames.com/game/windows/cybergladiators/release-info) – Music credits, voice recording studio, regional releases
+[^ref-19]: [Reddit – CyberGladiators on Sierra Screamin' 3D](https://www.reddit.com/r/Sierra/comments/11swgjp/cybergladiators_1996_on_a_sierra_screamin_3d/) – Graphics card compatibility
+[^ref-20]: [Bitpatch.com – CyberGladiators Fix](http://bitpatch.com/cybergladiators.html) – Timing bug analysis, hex edit solution, technical explanation
+[^ref-22]: [Internet Archive – Cyber Gladiators USA](https://archive.org/details/cyber-gladiators-usa) – Manual and reference card documentation
+[^ref-23]: [HandWiki – CyberGladiators](https://handwiki.org/wiki/Software:CyberGladiators) – Faction information, cosmic storm transformation
+[^ref-24]: [Sierra Gamers – CyberGladiators](https://www.sierragamers.com/cybergladiators/) – Faction names, genre classification
+[^ref-25]: [Wikidata – CyberGladiators](https://www.wikidata.org/wiki/Q5197683) – External database identifiers, country of origin
+[^ref-26]: [IMDB – CyberGladiators](https://www.imdb.com/title/tt11296152/) – Production company, language, country of origin

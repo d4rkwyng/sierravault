@@ -200,3 +200,15 @@ The game's historical significance lies not in its gameplay contributions—whic
 - [[1982 - Ultima II - The Revenge of the Enchantress|← Previous: Ultima II - The Revenge of the Enchantress]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Ultima: Escape from Mt. Drash](https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) – release date, developer, publisher, technical specifications, sales data, trivia, development history, advertising information
+[^ref-2]: [MobyGames – Ultima: Escape from Mt. Drash](https://www.mobygames.com/game/15218/ultima-escape-from-mt-drash/) – platforms, publisher, technical specs, player ratings, user reviews, trivia, gameplay issues, 2003 conversion
+[^ref-3]: [Ultima Codex Wiki – Ultima: Escape from Mt. Drash](https://wiki.ultimacodex.com/wiki/Ultima:_Escape_from_Mt._Drash) – development history, designer credits, Computer Gaming World review, sales figures, trivia about garrintrots and cover art, copy protection details
+[^ref-4]: [MyAbandonware – Ultima: Escape from Mt. Drash](https://www.myabandonware.com/game/ultima-escape-from-mt-drash-7a) – platform information, screenshots, download availability
+[^ref-5]: [GameFAQs – Ultima: Escape from Mt. Drash](https://gamefaqs.gamespot.com/vic20/575958-ultima-escape-from-mt-drash) – game database entry, VIC-20 platform listing
+[^ref-6]: [The Digital Antiquarian – The Legend of Escape from Mt. Drash](https://www.filfre.net/2013/05/the-legend-of-escape-from-mt-drash/) – detailed history, collector information, auction records
+[^ref-7]: [Ultima Fandom Wiki – Ultima: Escape from Mt. Drash](https://ultima.fandom.com/wiki/Ultima:_Escape_from_Mt._Drash) – series context, gameplay description
+[^ref-8]: [The Oasis BBS – Ultima: Escape from Mt. Drash](https://theoasisbbs.com/ultima-escape-from-mt-drash-the-forgotten-ultima-game-comes-to-c64/) – C64 conversion, preservation efforts
+[^ref-9]: [Giant Bomb – Ultima: Escape from Mt. Drash](https://www.giantbomb.com/ultima-escape-from-mt-drash/3030-5115/) – game database entry, collector information, development background
+[^ref-10]: [IGDB – Ultima: Escape from Mt. Drash](https://www.igdb.com/games/ultima-escape-from-mt-drash) – game database entry, platform information

@@ -244,3 +244,24 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, original Sierra development, franchise origins, trivia about Edmond Hoyle, Computer Gaming World review quotes, sales data, 2019 re-release information
+
+[^ref-2]: [MobyGames – Hoyle Official Card Games Collection](https://www.mobygames.com/game/102088/hoyle-official-card-games-collection/) – developer (Webfoot Technologies), publisher (Viva Media), platforms, release date, game features, genre classification, collection statistics
+
+[^ref-3]: [SteamDB – Hoyle Official Card Games (App 397420)](https://steamdb.info/app/397420/) – Steam release date, marketing description ("The #1 card game collection"), user review percentage
+
+[^ref-4]: [Amazon UK – Hoyle Official Card Games](https://www.amazon.co.uk/Encore-Hoyle-Official-Card-Games/dp/B015UA1SLE) – UK release date, publisher (Encore), platforms (Windows 7/8/10, Mac OS X), customer reviews, technical issues, new games (Fan Tan, Oh Hell, Whist), Face Creator feature, CD-ROM media
+
+[^ref-5]: [PCGamingWiki – Hoyle Official Card Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Card_Games) – system requirements (Windows and macOS), windowed display modes, language support, Steam Cloud support, Steam availability status, retail availability
+
+[^ref-6]: [MobyGames – Webfoot Technologies Company Profile](https://www.mobygames.com/company/189/webfoot-technologies-inc/) – developer confirmation, platforms, release year
+
+[^ref-7]: [SteamDB – Hoyle Official Card Games Charts](https://steamdb.info/app/397420/charts/) – Steam release date, user review score (52.12%), review count (68), file sizes, last build update date (June 23, 2017)
+
+[^ref-8]: [Steam Community – Hoyle Official Card Games](https://steamcommunity.com/app/397420) – user feedback, criticism of reused assets from 2002/2003, Windows 10 compatibility issues, Hoyle Bucks removal, first Hoyle game on Steam
+
+[^ref-9]: [MobyGames – Viva Media Company Profile](https://www.mobygames.com/company/3867/viva-media-llc/) – publisher information, company description, publishing awards
+
+[^ref-10]: [SteamDB – Hoyle Official Card Games Subscriptions](https://steamdb.info/app/397420/subs/) – estimated owners (3.2k VG Insights, 16.7k PlayTracker), file sizes (Windows/macOS), peak concurrent players (35), Germany restriction, download/disk sizes

@@ -223,3 +223,29 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
 
 ## 
+## References
+
+[^ref-15]: [Wikipedia – Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) – developer, publisher, designers, platforms, release dates
+[^ref-2]: [MobyGames – Manhunter 2: San Francisco](https://www.mobygames.com/game/25/manhunter-2-san-francisco/) – release dates, technical details, gameplay description, aggregate scores
+[^ref-3]: [Banjo's Mods – Manhunter](https://banjosmods.wordpress.com/category/manhunter/) – development history, bugs, engine details, industry influence
+[^ref-4]: [PC Gamer – Saturday Crapshoot: Manhunter](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – retrospective analysis, critical assessment
+[^ref-5]: [Computer and Video Games Issue 100](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Manhunter+2:+San+Francisco&gid=1885) – interface description, setting details
+[^ref-6]: [MyAbandonware – Manhunter 2: San Francisco](https://www.myabandonware.com/game/manhunter-2-san-francisco-p5) – platform versions, file sizes, user ratings
+[^ref-7]: [Classic Reload – Manhunter: New York](https://classicreload.com/manhunter-new-york.html) – Myst comparison, planned sequels, engine history
+[^ref-8]: [MobyGames – Manhunter: New York](https://www.mobygames.com/game/24/manhunter-new-york/) – interface innovation, awards, platform details
+[^ref-9]: [Retro Freak Reviews – Manhunter: New York](https://retrofreakreviews.com/2018/11/09/manhunter-new-york-review/) – setting description, historical context
+[^ref-10]: [OldGames.sk – Manhunter: New York](https://www.oldgames.sk/en/game/manhunter-new-york/download/9719/) – game description, Orb mechanics
+[^ref-11]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/24/manhunter-new-york/user-review/2520942/) – gameplay description, MAD mechanics
+[^ref-12]: [Adventure Gamer Blog – Manhunter 1 Introduction](https://advgamer.blogspot.com/2012/06/game-20-manhunter-1-introduction.html) – development notes, Blade Runner influence, location photography
+[^ref-13]: [Sierra Gamers – Manhunter 1](https://www.sierragamers.com/manhunter-1/) – gameplay description
+[^ref-14]: [Sierra Fandom – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, planned third game
+[^ref-16]: [Banjo's Mods – DOS Games/Manhunter](https://banjosmods.wordpress.com/category/dos-games/manhunter/) – first-person perspective, no dialogue, unique features
+[^ref-17]: [Alex Bevilacqua Blog – Manhunter: New York](https://alexbevi.com/blog/2023/02/18/manhunter-new-york/) – MAD tracking mechanic, artwork quality, gore content, AGI history
+[^ref-19]: [Computer Gaming World](https://manhunter.fandom.com/wiki/Manhunter:_New_York) – visual attention requirements
+[^ref-20]: [Lemon Amiga – Manhunter Documentation](https://www.lemonamiga.com/games/docs.php?id=1045) – OOPS feature, gameplay mechanics
+[^ref-21]: [GOG Dreamlist – Manhunter: New York](https://www.gog.com/dreamlist/game/manhunter-new-york) – fan requests, copyright holder, community appreciation
+[^ref-23]: [TV Tropes – Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – developer history, easter eggs, Manhunter's Field Guide quote
+[^ref-24]: [Manhunter Fandom – Evryware](https://manhunter.fandom.com/wiki/Evryware) – sales data, Game of the Year, real-world settings
+[^ref-25]: [Sierra Gamers Forum – Why Was There Never a Third Game](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Manhunter 3 prototype, business reasons for cancellation
+[^ref-26]: [Steam Community – Manhunter Guides](https://steamcommunity.com/app/302250/guides/) – Windows 10 compatibility issues
+[^ref-27]: [Larry Laffer.net – Manhunter Shrine](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – fan patches, preservation efforts

@@ -243,3 +243,30 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 - [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom) – release date, developer, re-release information
+[^ref-2]: [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – game description, platform information, fan community
+[^ref-3]: [MobyGames – CART Racing](https://www.mobygames.com/game/4534/cart-racing/) – awards, publisher, licensing history, technical specs
+[^ref-4]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, company history, development philosophy
+[^ref-5]: [Wikipedia – IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) – review scores, sales data, awards, designers, technical specifications
+[^ref-6]: [Amazon – CART Racing Manual](https://www.amazon.com/Cart-Racing-Papyrus-Design-Group/dp/B000I8BR6A) – release date, platforms, publisher
+[^ref-7]: [Squakenet – CART Racing](https://www.squakenet.com/game/cart-racing/) – gameplay description, car speeds
+[^ref-8]: [IGN – Flag to Flag Review](https://www.ign.com/articles/1999/09/09/flag-to-flag) – cockpit view description
+[^ref-9]: [Race Sim Central – IndyCar Racing II](https://racesimcentral.net/indycar-racing-ii/) – track count, chassis and engines
+[^ref-10]: [Amazon Mexico – Sierra Cart Racing](https://www.amazon.com.mx/Sierra-Cart-Racing/dp/B0007LVUBK) – AI features, compatibility issues
+[^ref-11]: [MobyGames – IndyCar Racing II](https://www.mobygames.com/game/4082/indycar-racing-ii/) – critic scores, sales data, version history, user reviews
+[^ref-12]: [MyAbandonware – IndyCar Racing II](https://www.myabandonware.com/game/indycar-racing-ii-29x) – user comments, technical issues, fan modifications
+[^ref-13]: [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q) – user rating, download information
+[^ref-14]: [Amazon – Sierra Sports CART Racing](https://www.amazon.com/Cart-Racing/dp/B000MQJE7C) – customer rating
+[^ref-15]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – company history, Indianapolis 500 significance
+[^ref-16]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) – sales data, awards, development trivia, composers
+[^ref-17]: [Race Sim Central – NASCAR Racing 1999 Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – development methodology
+[^ref-18]: [Alison Hine – CART/GPL Track Conversion](http://alison.hine.net/gpl/cart/cart.htm) – version history, Rendition support, licensing dispute
+[^ref-19]: [Internet Archive – Sierra IndyCar](https://archive.org/details/sierra-indycar) – DirectX requirements, compatibility notes
+[^ref-20]: [ICR2.net Forum](https://www.icr2.net/forum/showthread.php?tid=813) – patch compatibility, AllAmerican Sports version
+[^ref-21]: [GameRevolution – CART Flag to Flag Review](https://www.gamerevolution.com/review/32278-cart-flag-to-flag-review) – user achievements quote
+[^ref-22]: [Sierra Chest – IndyCar Racing 2](https://sierrachest.com/index.php?a=games&id=227&title=indycar-racing-2&fld=general) – collections, release information
+[^ref-23]: [GOG Forums – Sports and Racing Games](https://www.gog.com/forum/general/sports_and_racing_game_sections) – licensing challenges for retro sports games
+[^ref-24]: [Wikipedia – CART Racing (Dreamcast)](https://en.wikipedia.org/wiki/CART_Racing) – Dreamcast version details, different developer
+[^ref-25]: [BD Jogos – Papyrus Design Group](https://en.bdjogos.com.br/developer.php?id=612) – game listing, company information

@@ -175,3 +175,22 @@ The series is perhaps best remembered for its educational features rather than i
 - [[1998 - Power Chess 98|← Previous: Power Chess 98]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Power Chess 2.0](https://mobygames.com/game/power-chess-20) – release date, developer, publisher, ratings, AI personalities, technical specs, multiplayer options
+[^ref-2]: [GameFabrique – Sierra Developer Page](https://gamefabrique.com/developers/sierra/) – historical context quote
+[^ref-3]: [Abandonware France – Power Chess](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2832) – release date, voice cast, awards, technical specs, WChess engine history, PGN support, series discontinuation
+[^ref-4]: [Chess.com Forum – Older Chess Software Discussion](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882?page=2) – voice cast, compatibility issues, virtualization workarounds, user quotes
+[^ref-5]: [Wikipedia – Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – release dates, developer, publisher, voice cast, engine, awards, adaptive difficulty, Queen analysis feature, Deep Blue competition
+[^ref-6]: [TalkChess Forum – Power Chess 2.0 Discussion](https://www.talkchess.com/forum3/viewtopic.php?t=36315) – developers, compatibility issues, My System inclusion, Sierra reorganization, version history, critical quotes
+[^ref-7]: [Chess Programming Wiki – Power Chess](https://www.chessprogramming.org/Power_Chess) – WChess engine, David Kittinger credit, version history
+[^ref-8]: [MobyGames – Power Chess (1996)](https://www.mobygames.com/game/1922/power-chess/) – game features, AI learning, historical matches, voice cast
+[^ref-9]: [UVList – Power Chess 2.0](https://www.uvlist.net/game-45045-Power+Chess+2.0) – review scores, language support, technical display info
+[^ref-10]: [TalkChess Forum](https://talkchess.com/viewtopic.php?t=36315) – Sean Evans bug criticism quote
+[^ref-11]: [VGTimes – Power Chess 2.0](https://vgtimes.com/games/power-chess-20/) – user ratings
+[^ref-12]: [Comment Ça Marche Forum](https://forums.commentcamarche.net/forum/affich-3544293-probleme-power-chess-2-0-sous-xindows-xp) – error messages, Windows XP compatibility, virtualization solution
+[^ref-13]: [HandWiki – Power Chess](https://handwiki.org/wiki/Software:Power_Chess) – release dates, voice cast, awards, adaptive difficulty
+[^ref-14]: [Open Chess Forum](https://open-chess.org/viewtopic.php?t=693) – version history, compatibility notes, VirtualPC workaround
+[^ref-15]: [Sierra Chest – Power Chess 2](https://sierrachest.com/index.php?a=games&id=541&title=power-chess-2&fld=general) – release date, developer
+[^ref-16]: [Glitchwave – Power Chess](https://glitchwave.com/game/power-chess/) – platform, release year, ESRB rating
+[^ref-17]: [IMDB Search Results](https://www.imdb.com/find/?q=Power+Chess+2.0&s=tt) – release years for series entries

@@ -226,3 +226,42 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Lords of the Realm (DOS)](https://archive.org/details/msdos_Lords_of_the_Realm_1994) – release date, game description, gameplay mechanics
+[^ref-2]: [Games Nostalgia – Lords of the Realm](https://gamesnostalgia.com/game/lords-of-the-realm) – ratings, version history, historical significance, Total War comparison
+[^ref-3]: [The Escapist – Lords of the Realm: Worthy of the Throne](https://www.escapistmagazine.com/lords-of-the-realm-worthy-of-the-throne/) – gameplay description, retrospective analysis
+[^ref-4]: [Wikipedia – Lords of the Realm](https://en.wikipedia.org/wiki/Lords_of_the_Realm) – release dates, designers, composers, awards, ratings, historical background PDF
+[^ref-5]: [MyAbandonware – Lords of the Realm](https://www.myabandonware.com/game/lords-of-the-realm-2wu) – user ratings, development history, designer information, M. Evan Brooks quote
+[^ref-6]: [MobyGames – Lords of the Realm](https://www.mobygames.com/game/4303/lords-of-the-realm/) – ratings, technical specs, awards, engine, credits
+[^ref-7]: [PCGamingWiki – Lords of the Realm](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm) – platform releases, technical specifications, version history
+[^ref-8]: [Sierra Chest – Lords of the Realm II Walkthrough](https://sierrachest.com/index.php?a=games&id=162&fld=walkthrough) – story overview, game opening
+[^ref-9]: [Filfre.net – Mike Singleton Interview](https://www.filfre.net/?s=Lords+of+the+Realm) – designer philosophy quote
+[^ref-10]: [Impressions Games Fandom Wiki – Lords of the Realm](https://impressionsgames.fandom.com/wiki/Lords_of_the_Realm) – seasonal mechanics, player count
+[^ref-11]: [GOG.com – Lords of the Realm Royal Edition](https://www.gog.com/en/game/lords_of_the_realm_royal_edition) – user ratings, game description, bundle contents
+[^ref-12]: [Web Archive – Allgame Review](https://web.archive.org/web/20110203081251/http://www.allgame.com/game.php?id=13350&tab=review) – controls, interface description, review
+[^ref-13]: [Grokipedia – Lords of the Realm](https://grokipedia.com/page/Lords_of_the_Realm) – technical specifications, publishers, county count
+[^ref-14]: [Internet Archive – Lords of the Realm II](https://archive.org/details/lords-of-the-realm-2) – gameplay mechanics
+[^ref-15]: [Sierra Gamers – Lords of the Realm 3](https://www.sierragamers.com/lords-of-the-realm-3/) – battle description
+[^ref-16]: [Amiga Magazine Rack – Lords of the Realm Reviews](https://amr.abime.net/review_28219) – contemporary magazine reviews and scores
+[^ref-18]: [Steam Store – Lords of the Realm](https://store.steampowered.com/app/254920/Lords_of_the_Realm/) – user reviews, awards
+[^ref-19]: [Rock Paper Shotgun – Have You Played Lords of the Realm](https://www.rockpapershotgun.com/have-you-played-lords-of-the-realm) – gameplay analysis, message easter egg
+[^ref-20]: [Lilura1 Blog – Lords of the Realm Review](https://lilura1.blogspot.com/2022/04/Lords-of-the-Realm-IBM-PC-MS-DOS-1994-Impressions-Games-Original-Version.html) – technical specifications, development credits
+[^ref-21]: [OpenRetro.org – Lords of the Realm (Amiga)](https://openretro.org/amiga/lords-of-the-realm) – Amiga Format rating
+[^ref-22]: [SquakNet – Lords of the Realm](https://www.squakenet.com/game/lords-of-the-realm/) – gameplay description
+[^ref-23]: [Lemon Amiga – Lords of the Realm](https://www.lemonamiga.com/game/lords-of-the-realm) – development credits, art direction, documentation
+[^ref-24]: [Sierra Help – Lords of the Realm Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – patch versions
+[^ref-25]: [VOGONS Forums – Lords of the Realm CD Version](https://www.vogons.org/viewtopic.php?t=65888) – CD version differences, technical issues
+[^ref-26]: [Microsoft Learn – 16-bit Application Support](https://learn.microsoft.com/en-us/answers/questions/2410263/unsupported-16-bit-application-lords-of-the-realm) – compatibility information
+[^ref-27]: [VOGONS Forums – Lords of the Realm Version Differences](https://www.vogons.org/viewtopic.php?t=104795) – Holy Roman Empire scenario
+[^ref-28]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – sequel information, sales data, design philosophy
+[^ref-29]: [The Easter Egg Archive – Lords of the Realm 2](https://eeggs.com/items/182.html) – hidden song easter egg
+[^ref-30]: [Metacritic – Lords of the Realm II](https://www.metacritic.com/game/lords-of-the-realm-ii/) – TotalGames.net quote about sales
+[^ref-31]: [Steam Community – Similar Games Discussion](https://steamcommunity.com/app/397350/discussions/0/364040961452409018/) – Total War comparison quotes
+[^ref-32]: [Reddit – Impressions Games History](https://www.reddit.com/r/impressionsgames/comments/3s14pq/what_happened_to_impressions_games/) – Sierra acquisition
+[^ref-33]: [MobyGames – Lords of the Realm Series](https://www.mobygames.com/group/262/lords-of-the-realm-series/) – series compilations
+[^ref-34]: [PCGamingWiki – Lords of the Realm II](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm_II) – Royal Edition contents
+[^ref-35]: [Squirt the Cat – Lords of the Realm 2 Compatibility](https://www.squirtthecat.com/games/lords_of_the_realm_2/index.html) – fan compatibility patches
+[^ref-36]: [Steam Community – Multiplayer Fix Discussion](https://steamcommunity.com/app/397350/discussions/0/3094509155610363972/?l=finnish) – IPXWrapper solution
+[^ref-37]: [Internet Archive – Lords of the Realm Manual](https://archive.org/details/Lords_of_the_Realm_-_Manual) – manual archive
+[^ref-38]: [GameSpot – Lords of the Realm III Review](https://www.gamespot.com/reviews/lords-of-the-realm-iii-review/1900-6092410/) – sequel design changes

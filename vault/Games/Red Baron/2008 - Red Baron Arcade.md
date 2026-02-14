@@ -205,3 +205,20 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description
+[^ref-2]: [IGN – Red Baron Arcade Review (PC)](https://www.ign.com/articles/2008/07/25/red-baron-arcade-review-2) – PC review score 5.8, gameplay criticism, release date
+[^ref-3]: [Gas Bandit Gaming – Red Baron Arcade Review](http://gasbandit.blogspot.com/2008/04/review-red-baron-arcade.html?m=0) – B+ score, control modes, aircraft count, pricing, joystick recommendation
+[^ref-4]: [GameFAQs – Red Baron Arcade](https://gamefaqs.gamespot.com/ps3/952621-red-baron-arcade/data) – release dates, ESRB rating, multiplayer specs, official description
+[^ref-5]: [Internet Archive – Red Baron Arcade](https://archive.org/details/red-baron_202304) – publisher, multiplayer capabilities, availability
+[^ref-6]: [GamesRadar+ – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – Activision acquisition context, technical issues, critical quotes
+[^ref-7]: [IGN – Red Baron Arcade Review (PS3)](https://www.ign.com/articles/2009/03/18/red-baron-arcade-review) – PS3 review score 2/10, technical criticisms, Xbox 360 cancellation
+[^ref-8]: [Sierra Chest – Red Baron Arcade Walkthrough](https://sierrachest.com/index.php?a=games&id=333&title=red-baron-arcade&fld=walkthrough&pid=100) – mission count, gameplay mechanics, aircraft descriptions
+[^ref-9]: [Amazon India – Red Baron Arcade](https://www.amazon.in/Sierra-72739-Red-Baron-Arcade/dp/B000VIHARM) – system requirements, customer reviews, technical issues, trivia
+[^ref-10]: [GameSpot – Red Baron Arcade User Review](https://www.gamespot.com/red-baron-arcade/user-reviews/2200-394740/) – user score 8/10, resolution support, Vista compatibility
+[^ref-11]: [MyAbandonware – Red Baron: Arcade](https://www.myabandonware.com/game/red-baron-arcade-n5a) – abandonware status, basic metadata
+[^ref-12]: [Arcade Museum – Red Baron](https://www.arcade-museum.com/Videogame/red-baron) – original arcade game info, user ratings, technical specifications, trivia
+[^ref-13]: [Honest Gamers – Red Baron Arcade](http://www.honestgamers.com/61889/playstation-3/red-baron-arcade/game.html) – PS3 release date, developer confirmation
+[^ref-14]: [GameFAQs – Red Baron (1990) Review](https://gamefaqs.gamespot.com/pc/916558-red-baron-1990/reviews/68909) – original game context, retail pricing
+[^ref-15]: [Metacritic – Red Baron Arcade](https://www.metacritic.com/game/red-baron-arcade/) – release dates, ESRB rating, aggregated scores

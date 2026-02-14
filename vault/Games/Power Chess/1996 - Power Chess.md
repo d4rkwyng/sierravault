@@ -119,3 +119,24 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 - [[1998 - Power Chess 98|→ Next: Power Chess 98]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – - Game overview and adaptive AI description
+[^ref-2]: [Ask MetaFilter](https://ask.metafilter.com/298024/Chess-Game-with-Built-in-Tutor) – - Royal court metaphor and Queen tutor role
+[^ref-3]: [Chess.com Forum](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – - Twin engine description
+[^ref-4]: [ElISoftware.org](http://elisoftware.org/w/index.php/Power_Chess_98_(PC,_CD-ROM) – _Sierra_-_1997_USA,_Canada_Release) - Larry Christiansen quote on innovation
+[^ref-5]: [MobyGames - Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – - Developer information
+[^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=410&title=power-chess&fld=box) – - Publisher information
+[^ref-7]: [UVList.net](https://www.uvlist.net/game-45045-Power+Chess+2.0) – - Platform compatibility information
+[^ref-8]: [Chess.com Forum](https://www.chess.com/forum/view/chess-books-equipment/a-search-for-older-chess-software-16790882) – - Royal court instructional design
+[^ref-9]: [Archive.org](https://archive.org/details/powerchess98usa) – - Court members and difficulty levels
+[^ref-10]: [Amazon Product Page](https://www.amazon.com/Power-Chess-98-PC/dp/B0008ELX5O) – - Adaptive chess engine description
+[^ref-11]: [MobyGames - Power Chess](https://www.mobygames.com/game/1922/power-chess/) – - Internet multiplayer support
+[^ref-12]: [GameSpot Review](https://www.gamespot.com/reviews/power-chess-98-review/1900-2545810/) – - Human-like AI design goal
+[^ref-13]: [GameSpot Review](http://www.gamespot.com/reviews/power-chess-review/1900-2545814/) – - Ron Dulin review score
+[^ref-14]: [Reddit Chess Discussion](https://www.reddit.com/r/chess/comments/2rj2av/the_chess_game_that_time_forgot_power_chess/) – - Modern assessment quote
+[^ref-15]: [GitHub Issue](https://github.com/otya128/winevdm/issues/1207) – - Modern compatibility issues
+[^ref-16]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/power-chess/) – - Ken Williams business strategy
+[^ref-17]: [Web Archive](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – - 1996 Traditional Game of the Year award
+[^ref-18]: [GOG Forum](https://www.gog.com/forum/general_archive/request_power_chess_98_sierra) – - Series discontinuation and support status
+[^ref-19]: [Chess Programming Wiki](https://www.chessprogramming.org/Power_Chess) – - Historical significance in chess programming

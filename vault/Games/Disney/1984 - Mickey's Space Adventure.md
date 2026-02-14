@@ -236,3 +236,36 @@ The collaboration between Sierra and Disney established a template for education
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|→ Next: Winnie the Pooh in the Hundred Acre Wood]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Mickey's Space Adventure](https://en.wikipedia.org/wiki/Mickey's_Space_Adventure) – release date, platforms, development history, plot summary
+[^ref-2]: [Disney Fandom Wiki – Mickey's Space Adventure](https://disney.fandom.com/wiki/Mickey's_Space_Adventure) – first Mickey computer game, XL30 dialogue, technical specifications
+[^ref-3]: [My Abandonware – Mickey's Space Adventure](https://www.myabandonware.com/game/mickey-s-space-adventure-8k) – HOTUD review, Sierra-Disney contract history
+[^ref-4]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Mickeys_Space_Adventure_1986) – game description, release dates, developers
+[^ref-5]: [GameFAQs – PC Version](https://gamefaqs.gamespot.com/pc/582546-mickeys-space-adventure) – scene count, educational focus, user ratings
+[^ref-6]: [DOSGames.com – Mickey's Space Adventure](https://dosgames.com/game/mickeys-space-adventure/) – review, interface description, Al Lowe connection
+[^ref-7]: [Every Game Going – The Micro User Review](https://www.everygamegoing.com/larticle/Winnie-The-Pooh-In-The-Hundred-Acre-Wood-Mickeys-Space-Adventure-000/40756) – 83% score, McKnight review, gameplay mechanics
+[^ref-8]: [Al Lowe's Personal Website](http://allowe.com/downloads/games.html) – composer credit, Roberta Williams design credit, freeware availability
+[^ref-9]: [MobyGames – Mickey's Space Adventure](https://www.mobygames.com/game/7273/mickeys-space-adventure/) – comprehensive credits, publishers, ratings, platforms
+[^ref-10]: [UVList – Mickey's Space Adventure](https://www.uvlist.net/game-33884-Mickeys+Space+Adventure) – engine information, technical specifications
+[^ref-11]: [Free Game Empire – Mickey's Space Adventure](https://www.freegameempire.com/games/Mickey-s-Space-Adventure) – 75 Earth-years plot detail, alternate ending, air supply mechanic
+[^ref-12]: [MobyGames User Review](https://www.mobygames.com/game/7273/mickeys-space-adventure/user-review/2282656/) – educational value, space teaching
+[^ref-13]: [Internet Archive – Commodore 64 Version](https://archive.org/details/mickey_c64) – XL30 quest, cursor interface description
+[^ref-14]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/582546-mickeys-space-adventure/faqs/18363) – gameplay guide, planet progression, endings
+[^ref-20]: [Grouvee User Review – giopep](https://www.grouvee.com/games/13157-mickeys-space-adventure/) – complexity assessment, inventory management
+[^ref-16]: [Sierra Chest Walkthrough](https://www.sierrachest.com/index.php?a=games&id=263&title=mickeys-space-adventure&fld=walkthrough&pid=100) – nine crystals, randomized order, letter mechanic
+[^ref-17]: [Lemon64 – Mickey's Space Adventure](https://www.lemon64.com/game/mickeys-space-adventure) – C64 details, user review, Peter Oliphant credit, joystick support
+[^ref-18]: [Consolidated Research Data](source_1) – nine planets, crystal pieces
+[^ref-19]: [Pixelated Arcade – Mickey's Space Adventure](https://pixelatedarcade.com/games/mickey-s-space-adventure) – age recommendation, manual contents, designers
+[^ref-21]: [Abandonware DOS – Mickey's Space Adventure](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Mickey's+Space+Adventure&gid=3163) – rating, platform list
+[^ref-22]: [GameFAQs – Commodore 64 Version](https://gamefaqs.gamespot.com/c64/938386-mickeys-space-adventure) – user ratings, difficulty assessment
+[^ref-23]: [Glitchwave – Mickey's Space Adventure](https://glitchwave.com/game/mickeys-space-adventure/) – user rating, genre classification
+[^ref-24]: [Video Game Music Preservation Foundation Wiki](https://www.vgmpf.com/Wiki/index.php?title=Mickey%27s_Space_Adventure_(C64)) – Al Lowe sound driver, assembly transcription
+[^ref-25]: [PCGamingWiki – Mickey's Space Adventure](https://www.pcgamingwiki.com/wiki/Mickey's_Space_Adventure) – technical specifications, RAM issues, video modes
+[^ref-26]: [Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual) – school version details
+[^ref-27]: [DOS Games Archive](https://www.dosgamesarchive.com/download/mickeys-space-adventure) – ScummVM compatibility, freeware status
+[^ref-28]: [Games Database – Commodore 64](https://www.gamesdatabase.org/game/commodore-64/mickeys-space-adventure) – publisher credit, regional releases
+[^ref-29]: [VideoGameGeek](https://videogamegeek.com/videogame/122848/mickeys-space-adventure) – media format, designers
+[^ref-30]: [IMDB – Mickey's Space Adventure](https://www.imdb.com/title/tt3708320/) – release year, creator credit
+[^ref-31]: [StrategyWiki – Mickey's Space Adventure](https://strategywiki.org/wiki/Mickey's_Space_Adventure) – platform list, basic overview
+[^ref-32]: [Wikidata – Q3311840](https://www.wikidata.org/wiki/Q3311840) – structured metadata, platform releases

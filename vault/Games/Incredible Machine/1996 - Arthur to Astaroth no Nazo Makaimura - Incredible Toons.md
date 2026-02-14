@@ -208,3 +208,47 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Arthur to Astaroth no Nazo Makaimura: Incredible Toons](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/) – developer, publisher, release dates, technical specs, ratings, trivia
+
+[^ref-2]: [GameFAQs – Saturn Version](https://gamefaqs.gamespot.com/saturn/574045-arthur-to-astaroth-no-nazo-makai-mura-incredible-toons) – release date, developer, publisher, user ratings
+
+[^ref-3]: [LaunchBox Games Database – Saturn Version](https://gamesdb.launchbox-app.com/games/details/31291-arthur-to-astaroth-no-nazomakaimura-incredible-toons) – series information, unique features, remixed music, missing modes
+
+[^ref-4]: [IGN – Game Database Entry](https://www.ign.com/games/arthur-to-astaroth-no-nazomakaimura-incredible-toons) – developer credits, Japan-only release, Ghosts 'n Goblins connection
+
+[^ref-5]: [Tumblr – mendelpalace](https://mendelpalace.tumblr.com/post/167596522294/arthur-to-astaroth-no-nazo-makaimura-incredible) – discovery of obscure spinoff, chibi character descriptions
+
+[^ref-6]: [LaunchBox Games Database – PlayStation Version](https://gamesdb.launchbox-app.com/games/details/91608-arthur-to-astaroth-no-nazo-maikamura-incredible-toons) – plot uniqueness, gameplay features, puzzle editor
+
+[^ref-7]: [RomStation](https://www.romstation.fr/games/psx/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-r67733/) – gameplay description, mechanics, objectives
+
+
+[^ref-9]: [MobyGames – Releases Page](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/releases/) – Dynamix license, release details
+
+[^ref-10]: [romsfun.com](https://romsfun.com/roms/playstation/arthur-to-astaroth-no-nazo-maikamura-incredible-toons.html) – Sid & Al's connection, 100 puzzles, puzzle editor, Sierra On-Line 1993 release
+
+
+[^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – 100 puzzles, achievement names, progression structure
+
+
+[^ref-14]: [Emuparadise](https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan)/53424-download) – user ratings, file size, platform confirmation
+
+[^ref-15]: [Retro Gaming Daily Show – July 2019](https://retrogamingdailyshow.libsyn.com/2019/07) – recommended Japanese Saturn games coverage
+
+[^ref-16]: [MyAbandonware](https://www.myabandonware.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-ne2) – user ratings, file size, download availability
+
+[^ref-17]: [MobyGames – Screenshots](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/screenshots/playstation/432796/) – resolution data
+
+[^ref-18]: [GameFAQs – Saturn Game List](https://gamefaqs.gamespot.com/saturn/916393-sega-saturn/faqs/81877/game-list) – Saturn file size
+
+[^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=Arthur+to+Astaroth+no+Nazo+Makaimura%3A+Incredible+Toons) – no digital release available
+
+[^ref-20]: [Vizzed](http://www.vizzed.com/play/arthur-to-astaroth-no-nazo-makaimuraincredible-toons-ss-sega-saturn-75961-game) – browser emulation availability
+
+[^ref-21]: [GameFAQs – FAQs Page](https://gamefaqs.gamespot.com/ps/573263-arthur-to-astaroth-no-nazo-makai-mura-incredible-toons/faqs) – available guides, franchise connections
+
+[^ref-22]: [IMDB Search Results](https://www.imdb.com/find/?q=Arthur+to+Astaroth+no+Nazo+Makaimura%3A+Incredible+Toons&s=tt) – 1996 release confirmation
+
+[^ref-23]: [romspure.cc](https://romspure.cc/roms/sega-saturn/arthur-to-astaroth-no-nazomakaimura-incredible-toons/) – Saturn version file size, publisher confirmation

@@ -219,3 +219,21 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 - [[1993 - Cohort II - Fighting for Rome|→ Next: Cohort II - Fighting for Rome]]
 
 ## 
+## References
+
+[^ref-4]: [Consolidated Research Data](N/A) – Game description, thematic details, gameplay overview
+[^ref-2]: [MobyGames – Discovery: In the Steps of Columbus](https://www.mobygames.com/game/27734/discovery-in-the-steps-of-columbus/) – Developer, publisher, platform information, critic ratings, full credits
+[^ref-3]: [Lemon Amiga – User Review](https://www.lemonamiga.com/games/details.php?id=4730) – Gameplay description comparing to Civilization
+[^ref-6]: [MyAbandonware – Discovery](https://www.myabandonware.com/game/discovery-in-the-steps-of-columbus-1dx) – User ratings, bug reports, engine derivation from Merchant Colony
+[^ref-7]: [Wikipedia – Discovery: In the Steps of Columbus](https://en.wikipedia.org/wiki/Discovery:_In_the_Steps_of_Columbus) – Platform information, Dragon magazine review citation
+[^ref-8]: [Metacritic – Discovery](https://www.metacritic.com/game/discovery-in-the-steps-of-columbus/) – Game summary description
+[^ref-9]: [Obligement – Tilt Review](http://obligement.free.fr/articles/discovery_steps_of_columbus.php) – French review, 6.5/10 score, fictional worlds trivia
+[^ref-10]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/discover.htm) – Multiple contemporary Amiga magazine reviews, technical issues, controls criticism
+[^ref-11]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/64947-discovery-in-the-steps-of-columbus) – Gameplay mechanics, fog of war, scenarios
+[^ref-12]: [Amiga Magazine Review Aggregation](http://amr.abime.net/review_24039) – Datormagazin, ACAR, Amiga Mania, Amiga Power, Amiga Format, CU Amiga scores
+[^ref-13]: [Kultboy.com](https://www.kultboy.com/testbericht-uebersicht/3816/) – German magazine reviews including Power Play 23%, Amiga Joker breakdown, user comments
+[^ref-14]: [Amiga Reviews – Amiga Action](http://amr.abime.net/review_37247) – Nick Merritt 65% review
+[^ref-15]: [Emuparadise](https://www.emuparadise.me/Amiga_ROMs/Discovery_-_In_the_Steps_of_Columbus/5977) – User rating 4.4/5
+[^ref-16]: [WHDLoad](https://www.whdload.de/games/Discovery.html) – Technical requirements for Amiga installation, version history
+[^ref-17]: [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – DOS version preservation, file specifications
+[^ref-18]: [Classic Reload](https://classicreload.com/discovery-in-the-steps-of-columbus.html) – Platform confirmation, release year

@@ -304,3 +304,57 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 - [[2001 - Arcanum|← Previous: Arcanum]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info
+[^ref-2]: [Amazon – World in Conflict](https://www.amazon.com/World-Conflict-PC/dp/B000Q8XK30) – product description, release date, customer reviews
+[^ref-3]: [GOG.com – World in Conflict Complete Edition](https://www.gog.com/en/game/world_in_conflict_complete_edition) – game description, storyline
+[^ref-4]: [GameSpot – World in Conflict Review](https://www.gamespot.com/reviews/world-in-conflict-review/1900-6179012/) – 9.5/10 review score, Jason Ocampo quotes, gameplay mechanics
+[^ref-5]: [Eurogamer – World in Conflict Review](http://www.eurogamer.net/article.php?article_id=83539) – 9/10 score, Dan Whitehead quotes
+[^ref-6]: [D.I.C.E. Awards Database](https://www.interactive.org/games/video_game_details.asp?idAward=2008&idGame=937) – Larry Bond credit, MassTech engine, camera features
+[^ref-7]: [GamesIndustry.biz – World in Conflict Goes Gold](https://www.gamesindustry.biz/sierra-entertainments-world-in-conflict-goes-gold) – Martin Tremblay quote, editions, pricing
+[^ref-17]: [Grokipedia – World in Conflict](https://grokipedia.com/page/World_in_Conflict) – alternate history premise, gameplay mechanics
+[^ref-9]: [The Daily Omnivore – World in Conflict Analysis](https://thedailyomnivore.net) – campaign structure, plot summary
+[^ref-10]: [CNET – World in Conflict Review](https://www.cnet.com/reviews/world-in-conflict-review/) – David Power review, storyline details
+[^ref-26]: [PC Gamer – World in Conflict Retrospective](https://www.pcgamer.com) – character names, campaign description
+[^ref-12]: [IMDB – World in Conflict](https://www.imdb.com/title/tt0997283/) – Alec Baldwin narration quote, 8.5/10 rating, voice cast
+[^ref-13]: [Strategy Core Review](https://strategycore.co.uk) – Tom Clancy comparison
+[^ref-14]: [Metacritic – World in Conflict Soviet Assault](https://www.metacritic.com/game/world-in-conflict-soviet-assault/) – expansion review scores, 72/100
+[^ref-15]: [StrategyWiki – World in Conflict](https://strategywiki.org) – sequel hints, internal RTT classification
+[^ref-16]: [Eurogamer – World in Conflict Preview](https://www.eurogamer.net/news050406worldinconflict) – Magnus Jansén quotes on design philosophy
+[^ref-18]: [MobyGames – World in Conflict](https://www.mobygames.com/game/30129/world-in-conflict/) – awards, credits, 90% rating, technical specs
+[^ref-19]: [Massive Entertainment Official](https://www.massive.se/project/world-in-conflict/) – 20 campaign missions total
+[^ref-20]: [Nerds That Geek Retrospective](https://nerdsthatgeek.com/gaming/reflections-of-a-third-world-war-a-world-in-conflict-retrospective) – combined arms gameplay
+[^ref-36]: [Giant Bomb – World in Conflict Soviet Assault](https://www.giantbomb.com/world-in-conflict-soviet-assault/3030-20952/) – unit classes, game modes
+[^ref-22]: [IGN – World in Conflict Review](https://www.ign.com/articles/2007/09/08/world-in-conflict-review) – 9.3/10 score, Dan Adams quotes
+[^ref-23]: [PC Zone Magazine Review](https://archive.org) – 92/100 score, Suzy Wallace review
+[^ref-24]: [Kikizo – World in Conflict Review](https://games.kikizo.com/reviews/pc/worldinconflict.asp) – 9/10 score, Ian Dransfield quotes
+[^ref-25]: [The Guardian – World in Conflict Review](https://www.theguardian.com) – Greg Howson quotes
+[^ref-27]: [Kagi FastGPT – Review Scores](kagi:fastgpt) – Metacritic 89/100, Steam percentages
+[^ref-29]: [Eurogamer – Complete Edition Review](https://www.eurogamer.net/world-in-conflict-complete-edition-review) – Ground Control lineage
+[^ref-30]: [Martin Walfisz Interview](https://www.gamedeveloper.com) – Ground Control sales, WiC playerbase statistics
+[^ref-31]: [Nicklas Cederström Interview](https://www.gamesindustry.biz) – "Counter-Strike of RTS" quote
+[^ref-35]: [HEXUS – MassTech Engine Q&A](https://hexus.net/gaming/features/industry/9221-world-in-conflict-q-a/) – engine development, scalability
+[^ref-33]: [GamesIndustry.biz – Pre-Order Announcement](https://www.gamesindustry.biz/sierra-entertainment-unveils-special-pre-order-bonus-program-for-world-in-conflict) – Cindy Cook quote
+[^ref-34]: [MobyGames – World in Conflict Credits](https://www.mobygames.com/game/30129/world-in-conflict/credits/windows/) – full development team, motion capture studios
+[^ref-37]: [WorthPlaying – Ubisoft Statement](https://worthplaying.com) – console version cancellation
+[^ref-38]: [Patches-Scrolls – World in Conflict](https://www.patches-scrolls.com/world_in_conflict.php) – version history
+[^ref-39]: [GameCopyWorld – World in Conflict](https://gamecopyworld.com/games/pc_world_in_conflict.shtml) – patch versions, DRM info
+[^ref-40]: [FilePlanet – Patch 1.010](https://www.fileplanet.com/archive/p-40766/World-in-Conflict-Patch-v1-000-v1-010) – DRM removal, patch details
+[^ref-41]: [GamePressure – Patch 1.011](https://www.gamepressure.com/download.asp?ID=24042) – new maps, balance changes
+[^ref-42]: [ModDB – WIC Modern Warfare Mod](https://www.moddb.com/mods/wicmw) – framerate requirements, mod details
+[^ref-43]: [Steam User Reviews](https://store.steampowered.com) – Windows 10 compatibility issues
+[^ref-44]: [PCGamingWiki Community – Custom Patch](https://community.pcgamingwiki.com/files/file/2997-world-in-conflict-custom-patch/) – LAA flag, startup fixes
+[^ref-45]: [Easter Egg Database](https://eeggs.com/tree/11641.html) – A-10 logo, billboard, cargo container easter eggs
+[^ref-46]: [Easter Eggs – Massive T-Shirt](https://eeggs.com/items/53330.html) – cutscene easter egg
+[^ref-47]: [GamesIndustry.biz – Sales Charts](https://www.gamesindustry.biz/sierra-entertainments-world-in-conflicttm-conquers-worldwide-pc-sales-charts-in-debut-week) – debut week performance
+[^ref-48]: [Wired Review](https://www.wired.com) – GameStop quote, critical assessment
+[^ref-49]: [MobyGames – Massive Entertainment](https://www.mobygames.com/company/1340/ubisoft-entertainment-sweden-ab-massive-entertainment/) – Ubisoft acquisition
+[^ref-50]: [Massgate.org](https://www.massgate.org/) – community server history, multiplayer restoration
+[^ref-51]: [GitHub – Ubisoft Massgate](https://github.com/ubisoft/massgate) – source code release, development history quote
+[^ref-52]: [Reddit – World in Conflict Discussion](https://www.reddit.com) – community reaction, Broken Arrow inspiration
+[^ref-53]: [Delisted Games – World in Conflict](https://delistedgames.com/world-in-conflict/) – Steam delisting, GOG release dates
+[^ref-54]: [ModDB – The Great War 1918](https://www.moddb.com/mods/world-in-conflict-the-great-war-1918) – abandoned WWI mod
+[^ref-55]: [IMDB Awards](https://www.imdb.com/title/tt0997283/awards/) – BAFTA, Satellite Award nominations
+[^ref-56]: [Internet Archive – Strategy Guide](https://archive.org/details/World_in_Conflict_Strategy_Guide) – 210 pages
+[^ref-57]: [Wayward Strategy Analysis](https://waywardstrategy.com) – resource removal design philosophy

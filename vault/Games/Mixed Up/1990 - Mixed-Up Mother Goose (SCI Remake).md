@@ -105,3 +105,46 @@ The preservation community's continued interest, evidenced by active wishlist ca
 
 
 ## 
+## References
+
+[^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing
+[^ref-2]: [Adventure Gamers - SCI Remake Entry](https://adventuregamers.com/games/roberta-williams-mixed-up-mother-goose-sci-remake) - Game database information and description
+[^ref-3]: [Adventure Gamers - Database Entry](https://adventuregamers.com/games/view/36614) - Additional game metadata and description
+[^ref-4]: [AdvGamer Blog - Pepper's Adventures Analysis](https://advgamer.blogspot.com/2024/05/game-136-peppers-adventures-in-time.html) - Sierra Discovery Series context and development information
+[^ref-5]: [Internet Archive - MS-DOS 1991 Version](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - Game preservation with metadata and gameplay description
+[^ref-6]: [Museum of Play Archives - Sierra On-Line Collection](https://archives.museumofplay.org/repositories/3/resources/18) - Historical documentation of Sierra's game catalog
+[^ref-7]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) - Comprehensive development history, sales figures, and version details
+[^ref-8]: [Digital Entertainment History Blog](https://www.filfre.net/?s=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Historical context and limited game details
+[^ref-9]: [GOG Dreamlist - Mixed-Up Mother Goose](https://www.gog.com/dreamlist/game/mixed-up-mother-goose) - Community preservation interest and user comments
+[^ref-10]: [HistoryLink - Sierra On-Line Corporate History](https://www.historylink.org/File/20919) - Company relocation and business context
+[^ref-11]: [IMDb - Game Entry](https://www.imdb.com/title/tt1683900/) - Cast information and historical significance
+[^ref-12]: [IMDb Search Results](https://www.imdb.com/find/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose&s=tt) - Version ratings and release information
+[^ref-13]: [Kagi FastGPT - Release Information](kagi:fastgpt:What year was Mixed Up Mother Goose Sci Remake video game released and who developed it?) - Basic development timeline
+[^ref-14]: [Kagi FastGPT - Review Information](kagi:fastgpt:What were the review scores for Mixed Up Mother Goose Sci Remake video game?) - Limited review source references
+[^ref-15]: [Metacritic - Game Page](https://www.metacritic.com/game/roberta-williams-mixed-up-mother-goose/) - Game metadata and marketing description
+[^ref-16]: [MobyGames - Original Entry](https://www.mobygames.com/game/758/) - Comprehensive game documentation
+[^ref-17]: [MobyGames - 1985 Version](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) - Version-specific information
+[^ref-18]: [MobyGames - Alternate Entry](https://www.mobygames.com/game/1085/roberta-williams-mixed-up-mother-goose/) - Additional development details
+[^ref-19]: [MobyGames - Enhanced Version](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) - Player reviews and technical specifications
+[^ref-20]: [MobyGames - SCI Version](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) - Historical context and player reviews
+[^ref-21]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Platform and release information
+[^ref-22]: [MobyGames Reviews Section](https://www.mobygames.com/game/1085/mixed-up-mother-goose/reviews/) - Detailed player reviews and analysis
+[^ref-23]: [MobyGames User Review](https://www.mobygames.com/game/1085/mixed-up-mother-goose/user-review/2537323/) - Version comparison review
+[^ref-24]: [MobyGames Screenshots](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/screenshots/) - Visual documentation
+[^ref-25]: [MyAbandonware - Main Entry](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) - Game archive with historical information
+[^ref-26]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Platform and release data
+[^ref-27]: [MyAbandonware - Alternative Entry](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-273) - Additional version information
+[^ref-28]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Game overview and mechanics
+[^ref-29]: [Play Old Games](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Technical details and gameplay information
+[^ref-30]: [ROMs Fun - Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information
+[^ref-31]: [SCI Wiki - VGA Version](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Mother_Goose_VGA) - Technical documentation (inaccessible)
+[^ref-32]: [Sierra Fan Wiki](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) - Fan documentation (inaccessible)
+[^ref-33]: [Sierra Chest Database](https://sierrachest.com/index.php?a=games&id=544&title=mother-goose-vga&fld=general) - Version history and technical details
+[^ref-34]: [Sierra Gamers - Roberta Williams Profile](https://www.sierragamers.com/roberta-williams/) - Designer biography and career context
+[^ref-35]: [Sierra Gamers - Ken Williams Profile](https://www.sierragamers.com/ken-williams/) - Company founder perspective and development context
+[^ref-36]: [Steam Search Results](https://store.steampowered.com/search/?term=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Digital availability status
+[^ref-37]: [TV Tropes - Game Analysis](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MixedUpMotherGoose) - Comprehensive game mechanics and development overview
+[^ref-38]: [US Modern Culture Wiki - Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) - Company history context
+[^ref-39]: [Sierra Help Wiki - SCI Version](http://wiki.sierrahelp.com/index.php/Mixed-Up_Mother_Goose_SCI) - Technical documentation (inaccessible)
+[^ref-40]: [MyAbandonware - Alternative Version Entry](https://www.myabandonware.com/game/mixed-up-mother-goose-cd-rom-273) – CD-ROM version archive
+[^ref-42]: [Sierra Chest Database - Version History](https://sierrachest.com/index.php?a=games&id=544&title=mother-goose-vga) – Platform releases

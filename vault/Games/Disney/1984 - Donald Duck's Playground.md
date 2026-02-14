@@ -237,3 +237,32 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - [[1984 - Mickey's Space Adventure|→ Next: Mickey's Space Adventure]]
 
 ## 
+## References
+
+[^ref-1]: [Al Lowe's Personal Website – Games Download Page](https://allowe.com/downloads/games.html) – development history, Disney commission, interface details, awards, freeware availability
+[^ref-2]: [C64-Wiki – Donald Duck's Playground](https://www.c64-wiki.com/wiki/Donald_Duck%27s_Playground) – engine details, publishers, AGI porting challenges, freeware story, educational design elements, AGI version information
+[^ref-3]: [ClassicReload.com – Donald Duck's Playground](https://classicreload.com/donald-ducks-playground.html) – awards, gameplay description, money management focus
+[^ref-4]: [Internet Archive – Donald Duck's Playground](https://archive.org/details/msdos_donald_ducks_playground_1984_sierra) – game description, platform list, awards
+[^ref-5]: [Wikipedia – Donald Duck's Playground](https://en.wikipedia.org/wiki/Donald_Duck%27s_Playground) – release dates, publishers, The Rainbow review, AGI engine details, difficulty scaling
+[^ref-6]: [FRGCB Blog – Donald Duck's Playground Multi-Platform Comparison](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) – platform ratings, development credits, AGI porting issues, trivia, version comparisons
+[^ref-7]: [GameFAQs – C64 Walkthrough by Frankomatic](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground/faqs/38109) – story premise, controls, job descriptions
+[^ref-8]: [GameFAQs – Commodore 64 Database Entry](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground) – official game description, Disney marketing text, user ratings
+[^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=walkthrough) – job mechanics, money conversion, platform differences, playground equipment
+[^ref-10]: [Lemon64 – User Review by Northlander](https://www.lemon64.com/review/donald-ducks-playground/1412) – detailed review, ratings, soft-lock bug, parental perspective
+[^ref-11]: [PDXtra Blog – Donald Duck's Playground Retrospective](http://pdxtra.blogspot.com/2016/06/donald-ducks-playground.html) – mini-game descriptions, personal memories
+[^ref-12]: [StrategyWiki – Donald Duck's Playground](https://strategywiki.org/wiki/Donald_Duck%27s_Playground) – job shift mechanics, gameplay structure
+[^ref-14]: [Lemon64 – Game Database Entry](https://www.lemon64.com/game/donald-ducks-playground) – magazine reviews, technical specifications, soft-lock bug, publishers, user ratings
+[^ref-15]: [Data Driven Gamer – Donald Duck's Playground Analysis](https://datadrivengamer.blogspot.com/2023/08/game-382-donald-ducks-playground.html) – modern review, AGI technical details, historical context, rating
+[^ref-16]: [MyAbandonware – Donald Duck's Playground](https://www.myabandonware.com/game/donald-duck-s-playground-fk) – user ratings, version file sizes, technical issues, user comments
+[^ref-17]: [GameFAQs – PC Database Entry](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground) – user ratings, platform list
+[^ref-18]: [Atarimania – Donald Duck's Playground Atari ST](https://www.atarimania.com/game-atari-st-donald-duck-s-playground_9147.html) – technical specifications, user rating, version number
+[^ref-19]: [IMDB – Donald Duck's Playground](https://www.imdb.com/find/?q=Donald+Duck%27s+Playground&s=tt) – user rating
+[^ref-20]: [VGMPF Wiki – Donald Duck's Playground (C64)](https://vgmpf.com/Wiki/index.php?title=Donald_Duck's_Playground_(C64)) – audio technical details, SID chip, Al Lowe's sound driver
+[^ref-21]: [Steemit – 80s Kid Video Game: Donald Duck's Playground](https://steemit.com/gaming/@zulman/80s-kid-video-game-donald-duck-s-playground) – AGI engine background, porting challenges
+[^ref-22]: [PCGamingWiki – Donald Duck's Playground](https://www.pcgamingwiki.com/wiki/Donald_Duck's_Playground) – technical specifications, video modes, related games, availability
+[^ref-23]: [Lemon Amiga – Donald Duck's Playground](https://www.lemonamiga.com/games/details.php?id=1423) – Amiga specifications, user ratings, AGI engine
+[^ref-24]: [Speedrun.com – Donald Duck's Playground](https://www.speedrun.com/donald_ducks_playground) – speedrun records, community statistics, leaderboard
+[^ref-25]: [Sierra Chest – Making Of](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=making) – development credits, genre classification
+[^ref-26]: [MobyGames – Donald Duck's Playground](https://www.mobygames.com/game/3491/donald-ducks-playground/) – critic aggregate score, release dates, awards, AGI version details
+[^ref-27]: [GameFAQs – PC FAQ by Forteblast](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground/faqs/70976) – AGI interpreter details, gameplay mechanics, freeware availability
+[^ref-28]: [Wikidata – Donald Duck's Playground](https://www.wikidata.org/wiki/Q1239831) – structured metadata, engine, distributor information

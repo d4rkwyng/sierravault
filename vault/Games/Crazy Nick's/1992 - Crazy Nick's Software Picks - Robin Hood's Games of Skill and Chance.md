@@ -213,3 +213,24 @@ No official digital distribution is currently available. The game may be found t
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|→ Next: Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://www.mobygames.com/game/95474/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance/) – release date, developer, publisher, credits, gameplay description, technical specs
+[^ref-2]: [Sierra Chest – Crazy Nick's Software Picks: Robin Hood](https://sierrachest.com/index.php?a=games&id=719&title=crazy-nick-robin&fld=general) – release date, development context, series information, Nine Men's Morris history, publication info
+[^ref-4]: [MyAbandonware – Robin Hood's Games of Skill and Chance (1992)](https://www.myabandonware.com/game/crazy-nick-s-software-picks-robin-hood-s-games-of-skill-and-chance-bo2) – release date, file size, user ratings, genre tags
+[^ref-5]: [MyAbandonware – Robin Hood's Game of Skill and Chance (1993)](https://www.myabandonware.com/game/crazy-nick-s-software-picks-robin-hood-s-game-of-skill-and-chance-36w) – alternate version listing, user comments, ratings
+[^ref-6]: [PCGamingWiki – Robin Hood's Games of Skill and Chance](https://www.pcgamingwiki.com/wiki/Robin_Hood's_Games_of_Skill_and_Chance) – SCI1.1 engine, ScummVM compatibility, genre classification
+[^ref-7]: [PCGamingWiki – Series: Crazy Nick's Software Picks](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick's_Software_Picks) – series information, developer, publisher
+[^ref-8]: [Super Adventures in Gaming – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](http://superadventuresingaming.blogspot.com/2011/03/crazy-nicks-software-picks-robin-hoods.html) – gameplay review, music quality, game descriptions, technical issues
+[^ref-9]: [MobyGames – Crazy Nick's Software Picks: King Graham's Board Game Challenge](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – series context, similar interface, development team
+[^ref-10]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – series context, release date, developer
+[^ref-11]: [MobyGames – Crazy Nick's Software Picks: Parlor Games with Laura Bow](https://www.mobygames.com/game/95473/crazy-nicks-software-picks-parlor-games-with-laura-bow/) – series context, SCI engine, developer
+[^ref-12]: [RAWG – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://rawg.io/games/crazy-nicks-software-picks-robin-hoods-games-of-sk) – release date, developer, publisher, platform
+[^ref-13]: [Giant Bomb](https://www.giantbomb.com/crazy-nicks-software-picks/3025-5267/) – Game database with series information
+[^ref-14]: [IGDB](https://www.igdb.com/games/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Internet Game Database entry
+[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/563827-crazy-nicks-software-picks) – Game database entry
+[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q28687789) – Structured metadata
+[^ref-17]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_-_Robin_Hoods_Games_of_Skill_and_Chance_1992) – Playable preservation copy
+[^ref-18]: [UVList](https://www.uvlist.net/game-217098-crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Universal Videogame List
+[^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Wiki information
+[^ref-20]: [LaunchBox Games DB](https://gamesdb.launchbox-app.com/games/details/85635) – Game database with metadata

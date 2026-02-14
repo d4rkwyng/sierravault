@@ -249,3 +249,34 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [[1992 - Bargon Attack|→ Next: Bargon Attack]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game
+[^ref-2]: [Hardcore Gaming 101 – Fascination](http://www.hardcoregaming101.net/fascination/) – gameplay description, critical assessment, version differences
+[^ref-3]: [Abandonware France – Fascination](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=83) – release date, technical specifications, save system
+[^ref-4]: [MobyGames – Muriel Tramis Biography](https://www.mobygames.com/person/10719/muriel-tramis/) – designer biography, design philosophy
+[^ref-5]: [The Adventurers' Guild – Fascination Final Rating](https://advgamer.blogspot.com/2017/06/fascination-final-rating.html) – review score, puzzle design analysis, Leisure Suit Larry comparison
+[^ref-6]: [French Wikipedia – Fascination (jeu vidéo)](https://fr.wikipedia.org/wiki/Fascination_(jeu_vid%C3%A9o)) – plot details, Miami locations, Lost in Time connection, visual presentation
+[^ref-7]: [Amiga Magazine Rack – Fascination Reviews](http://amr.abime.net/amr_search.php?search=Fascination) – comprehensive magazine review scores across platforms
+[^ref-8]: [I Heart Old Games – Forbidden Games: Fascination](https://iheartoldgames.wordpress.com/2018/01/04/forbidden-games-fascination/) – Leisure Suit Larry comparison, critical assessment
+[^ref-9]: [Lemon Amiga – Fascination](https://www.lemonamiga.com/games/details.php?id=1398) – development credits, user reviews, technical specs
+[^ref-10]: [ScummVM Wiki – Fascination](https://wiki.scummvm.org/index.php?title=Fascination) – engine information, CD version details, file locations
+[^ref-11]: [The Adventurers' Guild – Fascination Introduction](https://advgamer.blogspot.com/2017/05/game-84-fascination-introduction.html) – plot synopsis, Miller's research
+[^ref-13]: [Internet Archive – Fascination CD](https://archive.org/details/fascination-cd) – plot summary, archive statistics
+[^ref-14]: [StrategyWiki – Fascination Walkthrough](https://strategywiki.org/wiki/Fascination/Walkthrough) – gameplay locations, Miller's message
+[^ref-15]: [StrategyWiki – Fascination](https://strategywiki.org/wiki/Fascination) – character information, platform differences
+[^ref-16]: [MobyGames – Fascination User Review](https://www.mobygames.com/game/9399/fascination/user-review/2649803/) – interface description, game length
+[^ref-17]: [Retrogames.cz – Fascination](https://www.retrogames.cz/play_1816-DOS.php?language=EN) – gameplay mechanics, inventory system
+[^ref-18]: [MyAbandonware – Fascination](https://www.myabandonware.com/game/fascination-15h) – version information, regional releases, user ratings, bugs
+[^ref-19]: [GameFAQs – Fascination Walkthrough](https://gamefaqs.gamespot.com/pc/961783-fascination/faqs/64512) – random codes, walkthrough version info
+[^ref-20]: [Sierra Chest – Fascination Walkthrough](https://sierrachest.com/index.php?a=games&id=384&fld=walkthrough) – easter eggs, puzzle solutions, death traps
+[^ref-21]: [Amiga Reviews – Fascination](https://www.amigareviews.leveluphost.com/fascinat.htm) – review quotes, German publisher
+[^ref-22]: [Atari Legend – Fascination Game Page](https://www.atarilegend.com/games/fascination) – nostalgic assessment, initial reaction
+[^ref-23]: [Atari Legend – Fascination Review](https://www.atarilegend.com/reviews/134) – detailed scores, composer information, graphics analysis
+[^ref-24]: [MobyGames – Fascination](https://www.mobygames.com/game/9399/fascination/) – credits, technical notes, voice cast, reviewer quotes
+[^ref-25]: [Abandonware DOS – Fascination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fascination&gid=1317) – user rating, platform information
+[^ref-27]: [Elmobo Bandcamp – Early Years: Coktel Vision](https://elmobo.bandcamp.com/album/early-years-coktel-vision) – composer retrospective
+[^ref-28]: [PCGamingWiki – Fascination](https://www.pcgamingwiki.com/wiki/Fascination) – technical specifications, system requirements
+[^ref-29]: [PC Gamer – Saturday Crapshoot: Fascination](https://www.pcgamer.com/saturday-crapshoot-fascination/) – version differences, CD censorship
+[^ref-30]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – Doralice connection, voice actress
+[^ref-31]: [Internet Archive – MS-DOS Fascination 1991](https://archive.org/details/msdos_Fascination_1991) – DOS version preservation

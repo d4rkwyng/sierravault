@@ -227,3 +227,20 @@ The remake bridges generational gaps in gaming accessibility. While the original
 - [[2012 - Space Quest - Incinerations|← Previous: Space Quest - Incinerations]]
 
 ## 
+## References
+
+[^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, version details, technical specs, user reviews, download statistics, bugs
+[^ref-2]: [Adventure Game Studio – King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – release date, awards, download statistics, user reviews, technical specifications
+[^ref-3]: [CodeWeavers Compatibility Database](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, plot summary, compatibility testing
+[^ref-4]: [Reddit r/Sierra – VGA Talkie Discussion](https://www.reddit.com/r/Sierra/comments/1pckube/kings_quest_iv_retold_vga_talkie_full_game/) – Magic Quest Entertainment credits, development notes, tribute information
+[^ref-5]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold?srsltid=AfmBOorEEm4xS6Bu3E-MnnzED5JpX6vfnLOTcyhKU5uuoS39jagHo7Ns) – game description, Mac compatibility rating
+[^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game development, sales data, review scores, awards, technical details, Roberta Williams quotes
+[^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – interface changes, community reception
+[^ref-8]: [King's Quest Omnipedia – King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – development motivation, EGA graphics decision, DrSlash's design philosophy
+[^ref-9]: [IMDB – King's Quest IV](https://www.imdb.com/find/?q=King%27s+Quest+IV+Retold&s=tt) – user rating for original 1988 game
+[^ref-10]: [GamePressure – King's Quest IV Retold Download](https://www.gamepressure.com/download/kings-quest-iv-the-perils-of-rosella-kings-quest-iv-the-perils-o/z114a29) – file size, version number
+[^ref-11]: [GOG Forums – KQ4 Copy Protection Discussion](https://www.gog.com/forum/kings_quest_series/copyright_protection_in_kq4) – copy protection details, AGI/SCI version differences, cut content
+[^ref-12]: [PCGamingWiki – King's Quest IV](https://www.pcgamingwiki.com/wiki/King's_Quest_IV:_The_Perils_of_Rosella) – technical specifications, version history, system requirements
+[^ref-13]: [Speedrun.com – King's Quest IV Retold](https://www.speedrun.com/kings_quest_iv_retold) – speedrun records, player statistics
+[^ref-14]: [Reddit r/Sierra – Full Game Post](https://www.reddit.com/r/Sierra/comments/1k22b30/kings_quest_iv_the_perils_of_rosella_retold_full/) – community discussion, game description
+[^ref-15]: [MyAbandonware – King's Quest IV Search](https://www.myabandonware.com/search/q/King%27s+Quest+IV+Retold) – platform listings for original game

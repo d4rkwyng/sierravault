@@ -210,3 +210,23 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
 
 ## 
+## References
+
+[^ref-9]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – developer, publisher, release dates, platforms, composer, awards, locomotives
+[^ref-2]: [Mex's Articles and Reviews](https://dvellum.wordpress.com/tag/review/) – Lionel inspiration, gameplay description, narrated scenarios
+[^ref-3]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/3d-ultra-lionel-traintown-1999) – educational content, difficulty levels, user memories, Dreamcast cancellation
+[^ref-4]: [Collection Chamber](https://collectionchamber.blogspot.com/p/3d-ultra-lionel-traintown.html) – 3D Ultra series context, Lionel partnership, review quotes, technical specs, bugs
+[^ref-13]: [MyAbandonware – Publisher Description](https://www.myabandonware.com/game/3-d-ultra-lionel-train-town-deluxe-hut) – educational value, publisher quotes
+[^ref-8]: [D.I.C.E. Awards Database](https://www.interactive.org/games/video_game_details.asp?idGame=535) – Family Game of the Year award, Deluxe features
+[^ref-10]: [GameFAQs – 3D Ultra Lionel Traintown](https://gamefaqs.gamespot.com/pc/196509-3d-ultra-lionel-traintown) – box description, user ratings, release date
+[^ref-11]: [IGN Walkthrough Guide](https://www.ign.com/articles/2013/01/07/3-d-ultra-lionel-traintown-walkthrough-guide-1227095) – environments, cheat codes, version info
+[^ref-12]: [TV Tropes – 3D Ultra Lionel Traintown](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraLionelTraintown) – School Daze, Little Sister, Tourist Project details
+[^ref-14]: [MMO Central Forums – sb1254 Review](https://www.mmocentralforums.com/forums/showthread.php?t=255665) – rarity, pricing, 2D sidescroller description, review score
+[^ref-15]: [GameFAQs – spiceworm Review](https://gamefaqs.gamespot.com/pc/354570-3d-ultra-traintown-deluxe/reviews/175614) – review score, gameplay impressions, checkpoint criticism
+[^ref-16]: [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility/crossover/3d-ultra-lionel-traintown-deluxe) – job roster structure, game mechanics, CrossOver ratings
+[^ref-17]: [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe/reviews) – job types, locations, objectives
+[^ref-18]: [Metacritic](https://www.metacritic.com/game/3d-ultra-lionel-traintown/) – user score, rating count, release date
+[^ref-19]: [TM Books and Video Fandom Wiki](https://tm-books-and-video.fandom.com/wiki/3D_Ultra_Lionel_Traintown) – Lionel video clips, release dates
+[^ref-20]: [Sound Effects Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – sound libraries, ESRB rating, European title
+[^ref-21]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – Best Buy availability, difficulty discussion
+[^ref-22]: [Old Games Download](https://oldgamesdownload.com/3d-ultra-lionel-traintown/) – ReadMe file, download sizes

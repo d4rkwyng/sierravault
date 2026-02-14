@@ -148,3 +148,40 @@ The game's satirical take on the American Dream resonates differently in differe
 - [[1990 - Zeliard|→ Next: Zeliard]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Basic game information and release details
+[^ref-2]: [Wikipedia](https://en.wikipedia.org/wiki/Jones_in_the_Fast_Lane) – Designer quote about game's intended audience
+[^ref-3]: [DOS Days](https://www.dosdays.co.uk/topics/Games/game_jones.php) – Technical engine information
+[^ref-4]: [Grokipedia](https://grokipedia.com/page/Jones_in_the_Fast_Lane) – Game description as satirical take on American Dream
+[^ref-5]: [Giant Bomb](https://www.giantbomb.com/jones-in-the-fast-lane/3030-12766/) – Gameplay mechanics and objectives
+[^ref-6]: [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos) – Game genre classification
+[^ref-7]: [Games Database](https://www.gamesdatabase.org/game/microsoft-dos/jones-in-the-fast-lane) – Board game interface description
+[^ref-8]: [MobyGames Credits](https://www.mobygames.com/person/9371/warren-schwader/) – Development team credits
+[^ref-9]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Jones_in_the_Fast_Lane) – Platform compatibility information
+[^ref-10]: [Internet Archive Manual](https://archive.org/stream/Jones_in_the_Fast_Lane_-_Manual/Jones_in_the_Fast_Lane_-_Manual_djvu.txt) – Game opening narrative
+[^ref-11]: [EOX Studios Bandcamp](https://eoxstudios.bandcamp.com/track/jones-in-the-fast-lane-on-oberheim-matrix-1000) – Game premise description
+[^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/JonesintheFastLane) – Competition mechanics
+[^ref-13]: [Best DOS Games](https://bestdosgames.com/games/jones-in-the-fast-lane) – Gameplay philosophy
+[^ref-14]: [Classic Reload](https://classicreload.com/dosx-jones-in-the-fast-lane-cd-rom.html) – Weekend event example
+[^ref-15]: [Wizwords](http://www.wizwords.net/jones-in-the-fast-lane) – Basic gameplay activities
+[^ref-16]: [MobyGames CD-ROM](https://www.mobygames.com/game/1004/jones-in-the-fast-lane-cd-rom/) – Starting career progression
+[^ref-17]: [Medium](https://medium.com/@Fryeness/driving-down-jones-in-the-fast-lane-67365863b944) – Developer strategy advice
+[^ref-18]: [The Cutting Room Floor](https://tcrf.net/Jones_in_the_Fast_Lane) – Easter egg references
+[^ref-19]: [AMR Archive](https://amr.abime.net/review_38646) – The One magazine review
+[^ref-20]: [Los Angeles Times](https://www.latimes.com/archives/la-xpm-1991-02-16-ca-813-story.html) – Contemporary newspaper review
+[^ref-21]: [The Digital Antiquarian](https://www.filfre.net/?s=Jones+in+the+Fast+Lane) – Computer Gaming World award
+[^ref-22]: [The Digital Antiquarian](https://www.filfre.net/2018/01/sierra-at-the-cusp-of-the-multimedia-age/) – Software Publishers Association award
+[^ref-23]: [MyAbandonware](https://www.myabandonware.com/game/jones-in-the-fast-lane-1xb) – User ratings
+[^ref-24]: [IMDb Search](https://www.imdb.com/find/?q=Jones+in+the+Fast+Lane&s=tt) – IMDb ratings
+[^ref-25]: [Steam Community](https://steamcommunity.com/app/829660/reviews/?browsefilter=toprated) – Modern Steam reviews
+[^ref-26]: [Sierra Fandom](https://sierra.fandom.com/wiki/Jones_in_the_Fast_Lane) – Original board game development
+[^ref-27]: [Space Quest Fandom](https://spacequest.fandom.com/wiki/SCI) – SCI engine information
+[^ref-28]: [MobyGames Credits](https://www.mobygames.com/game/1004/jones-in-the-fast-lane-cd-rom/credits/dos/) – Voice cast information
+[^ref-29]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/jones-in-the-fast-lane-ms-dos-windows-gamerip-1991) – Composer credits
+[^ref-30]: [MIDI Music Adventures](https://www.midimusicadventures.com/queststudios/digital-soundtracks/jones/) – MT-32 soundtrack information
+[^ref-31]: [MobyGames Specs](https://www.mobygames.com/game/370/jones-in-the-fast-lane/specs/) – Memory requirements
+[^ref-32]: [Play Classic Games](https://playclassic.games/games/simulation-dos-games-online/play-jones-fast-lane-online/) – Game design innovation
+[^ref-33]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Jones_in_the_Fast_Lane) – Modern compatibility
+[^ref-34]: [AGD Interactive Forum](https://www.agdinteractive.com/forum/viewtopic.php?t=11672) – Fan remake information
+[^ref-collection]: [Consolidated Research Sources](internal/research/games/jones-in-the-fast-lane/_consolidated.json) – Multiple sources from research collection

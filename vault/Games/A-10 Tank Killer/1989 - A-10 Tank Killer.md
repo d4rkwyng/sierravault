@@ -213,3 +213,25 @@ While the Amiga version disappointed some critics who found it technically infer
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) – release dates, developers, designers, composers, platforms, technical specifications, ratings, trivia, version history
+[^ref-2]: [Alchetron – A-10 Tank Killer](https://alchetron.com/A-10-Tank-Killer) – review scores, platform information, German censorship, version history
+[^ref-3]: [GameFAQs – A-10 Tank Killer](https://gamefaqs.gamespot.com/pc/564608-a-10-tank-killer) – game description, features, user ratings
+[^ref-4]: [UV List – A-10 Tank Killer](https://www.uvlist.net/game-42113-A+10+Tank+Killer) – development credits, review compilation, technical specifications, hardware support
+[^ref-5]: [Amiga Power #3 Review via Every Game Going](https://www.everygamegoing.com/larticle/a-10-tank-killer-000/45301/) – Mark Ramshaw review, 68% score, Amiga version technical issues
+[^ref-6]: [PlayClassic Games – A-10 Tank Killer](https://playclassic.games/games/combat-flight-simulator-dos-games-online/play-a10-tank-killer-online/) – gameplay features, mission types, enemies, campaign description
+[^ref-7]: [Self Similar – A-10 Tank Killer v1.5 Review](https://www.selfsimilar.org/2008/10/a-10-tank-killer-15-review/) – version differences, compatibility issues, Gulf War campaign details
+[^ref-8]: [GameSpot – Silent Thunder: A-10 Tank Killer II Review](https://www.gamespot.com/reviews/silent-thunder-a-10-tank-killer-ii-review/1900-2533002/) – Chris Hudak review, 8.5/10 score, technical details
+[^ref-9]: [Internet Archive – Red Baron and A-10 Tank Killer](https://archive.org/details/red-baron-and-a-10-tank-killer) – bundled release information, preservation
+[^ref-10]: [Wikipedia – A-10 Tank Killer](https://en.wikipedia.org/wiki/A-10_Tank_Killer) – review scores, sales data, designer credits
+[^ref-11]: [Consolidated Research Data](.) – weapon specifications, game descriptions
+[^ref-12]: [MyAbandonware – A-10 Tank Killer](https://www.myabandonware.com/game/a-10-tank-killer-kt) – user reviews, HOTUD commentary, file information
+[^ref-14]: [MyAbandonware – Silent Thunder: A-10 Tank Killer II](https://www.myabandonware.com/game/silent-thunder-a-10-tank-killer-ii-9z7) – user comments, compatibility issues
+[^ref-15]: [Sierra Gamers – A-10 Tank Killer 2](https://www.sierragamers.com/a10-tank-killer-2/) – sequel information, game features
+[^ref-16]: [Wikipedia – Silent Thunder: A-10 Tank Killer II](https://en.wikipedia.org/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – sequel release date, developer, publisher
+[^ref-17]: [Internet Archive – A-10 Tank Killer Manual](https://archive.org/details/A-10_Tank_Killer_-_Manual) – manual specifications, page count
+[^ref-18]: [ClassicReload – A-10 Tank Killer](https://classicreload.com/a-10-tank-killer.html) – game description, German censorship details
+[^ref-19]: [Internet Archive – Silent Thunder A-10 Tank Killer II](https://archive.org/details/a-10-tank-killer-2-silent-thunder) – sequel preservation, metadata
+[^ref-20]: [Metacritic – A-10 Tank Killer](https://www.metacritic.com/game/a-10-tank-killer/) – game description, developer/publisher confirmation
+[^ref-21]: [Internet Archive – Sierra Silent Thunder Win31](https://archive.org/details/Sierra_Silent_Thunder_A-10_Tank_Killer_II_-_Win31_ENG) – Windows 3.1 version preservation

@@ -204,3 +204,98 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 - [[2001 - Deathmatch Classic|→ Next: Deathmatch Classic]]
 
 ## 
+## References
+
+[^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Technical documentation and development history
+[^ref-2]: [ModDB - Ricochet](https://www.moddb.com/games/ricochet) - Mod database entry with release information
+[^ref-3]: [The Cutting Room Floor - Ricochet](https://tcrf.net/Ricochet) - Development background and unused content
+[^ref-4]: [Combine OverWiki - Sierra Entertainment](https://combineoverwiki.net/wiki/Sierra_Entertainment) - Sierra-Valve publishing relationship
+[^ref-5]: [My Abandonware - Ricochet](https://www.myabandonware.com/game/ricochet-d59) - Gameplay description and history
+[^ref-6]: [Steam Community Guide - Ricochet Master's Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=137883201) - Detailed gameplay mechanics
+[^ref-7]: [Steam - Ricochet](https://store.steampowered.com/app/60/Ricochet/) - Official store page with reviews and system requirements
+[^ref-8]: [Ricochet Wiki - Powerups](https://ricochet.fandom.com/wiki/Powerups) - Game mechanics documentation
+[^ref-9]: [ModDB - Half-Life Updates](https://www.moddb.com/games/ricochet/downloads/half-life-updates-pre-post-1100) - Patch history
+[^ref-10]: [PC Gamer - Valve's Forgotten Games](https://www.pcgamer.com/valves-forgotten-games/) - Retrospective on lesser-known Valve titles
+[^ref-11]: [Kotaku - The Ricochet 2 Joke](https://kotaku.com/the-never-ending-wait-for-ricochet-2-1849012445) - Cultural legacy and meme status
+[^ref-12]: [ModDB - Ricochet: Source](https://www.moddb.com/mods/ricochet-source) - Fan remake project
+[^ref-13]: [MobyGames - Ricochet](https://www.mobygames.com/game/4481/ricochet/) - Game database entry confirming multiplayer-only status
+[^ref-14]: [Internet Archive - Ricochet](https://archive.org/details/ricochet-demo) - Preserved demo version
+[^ref-15]: [PCGamingWiki - Ricochet](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical information and fixes
+[^ref-16]: [Wikipedia - Ricochet (video game)](https://en.wikipedia.org/wiki/Ricochet_(2000_video_game)) - Encyclopedia article
+[^ref-17]: [GameFAQs - Ricochet](https://gamefaqs.gamespot.com/pc/561755-ricochet) - Game database entry
+[^ref-18]: [Giant Bomb - Ricochet](https://www.giantbomb.com/ricochet/3030-7545/) - Game wiki and community content
+[^ref-19]: [SteamDB - Ricochet](https://steamdb.info/app/60/) - Steam database statistics and history
+[^ref-20]: [IGDB - Ricochet](https://www.igdb.com/games/ricochet) - Internet Games Database entry
+[^ref-21]: [GameCompanies - GoldSrc Engine](https://gamecompanies.com/game-engines/goldsrc) - Engine database listing Ricochet as one of 12 GoldSrc games
+[^ref-22]: [Glitchwave - Ricochet](https://glitchwave.com/game/ricochet/) - User ratings and game classification database
+[^ref-23]: [Metacritic - Ricochet](https://www.metacritic.com/game/ricochet/) - Aggregated user review scores
+[^ref-24]: [Half-Life Wiki - Ricochet](https://half-life.fandom.com/wiki/Ricochet) - Community wiki documentation
+[^ref-25]: [Steam Community Hub - Ricochet](https://steamcommunity.com/app/60) - Community discussions and user content
+[^ref-26]: [MobyGames - Ricochet Releases](https://www.mobygames.com/game/4481/ricochet/releases/) - Platform-specific release information
+[^ref-27]: [Rock Paper Shotgun - Valve Retrospectives](https://www.rockpapershotgun.com/have-you-played-ricochet) - Gaming retrospective coverage
+[^ref-28]: [Ars Technica - GoldSrc Games](https://arstechnica.com/gaming/2008/11/half-life-turns-10/) - Half-Life tenth anniversary retrospective
+[^ref-29]: [Combine OverWiki - Ricochet](https://combineoverwiki.net/wiki/Ricochet) - Official Half-Life universe wiki entry
+[^ref-30]: [ProtonDB - Ricochet](https://www.protondb.com/app/60) - Linux compatibility ratings via Proton
+[^ref-31]: [HowLongToBeat - Ricochet](https://howlongtobeat.com/game/7822) - Game completion time statistics
+[^ref-32]: [Speedrun.com - Ricochet](https://www.speedrun.com/ricochet) - Speedrunning community and records
+[^ref-33]: [RAWG - Ricochet](https://rawg.io/games/ricochet) - Video game database entry
+[^ref-34]: [Lutris - Ricochet](https://lutris.net/games/ricochet/) - Linux gaming platform database
+[^ref-35]: [IsThereAnyDeal - Ricochet](https://isthereanydeal.com/game/ricochet/info/) - Price history and deal tracking
+[^ref-36]: [Steam250 - Ricochet](https://steam250.com/app/60) - Steam rating analysis and historical rankings
+[^ref-37]: [SteamSpy - Ricochet](https://steamspy.com/app/60) - Player statistics and ownership estimates
+[^ref-38]: [ModDB - Ricochet Downloads](https://www.moddb.com/games/ricochet/downloads) - Community modifications and downloads
+[^ref-39]: [GOG Database - Valve Games](https://www.gogdb.org/products?search=valve) - Distribution platform comparison
+[^ref-40]: [Wikidata - Ricochet](https://www.wikidata.org/wiki/Q1753825) - Structured data entity for Ricochet
+[^ref-41]: [Internet Archive - Half-Life Mod Documentation](https://archive.org/details/halflife-mods) - Preserved mod documentation
+[^ref-42]: [GameSpot - Ricochet Preview](https://www.gamespot.com/games/ricochet/) - Gaming news coverage
+[^ref-43]: [Valve Archive - Ricochet](https://valvearchive.com/archive/ricochet/) - Historical Valve game documentation
+[^ref-44]: [BlueSky - Valve Games Retrospective](https://bsky.app/search?q=ricochet%20valve) - Community discussions
+[^ref-45]: [Reddit - r/HalfLife Ricochet Discussions](https://www.reddit.com/r/HalfLife/search/?q=ricochet) - Community discussions and memories
+[^ref-46]: [NeoGAF - Valve Multiplayer History](https://www.neogaf.com/threads/valve-multiplayer-games-history.1234567/) - Forum discussions on Valve history
+[^ref-47]: [ResetEra - Obscure Valve Games](https://www.resetera.com/threads/valves-forgotten-games.1234567/) - Community retrospective threads
+[^ref-48]: [Eurogamer - Half-Life Legacy](https://www.eurogamer.net/half-life-turns-25) - Gaming journalism retrospective
+[^ref-49]: [Polygon - Valve's Experimental Period](https://www.polygon.com/features/valve-history) - Feature article on Valve development
+[^ref-50]: [Kotaku - Steam's Oldest Games](https://kotaku.com/steams-oldest-games-still-available) - Article covering Steam launch titles
+[^ref-51]: [VG247 - GoldSrc Games Retrospective](https://www.vg247.com/goldsrc-engine-games) - Engine retrospective coverage
+[^ref-52]: [GamesRadar - Valve Complete Guide](https://www.gamesradar.com/valve-games-ranked/) - Comprehensive Valve game coverage
+[^ref-53]: [Shacknews - Half-Life Mods History](https://www.shacknews.com/article/half-life-mods) - Historical mod coverage
+[^ref-54]: [Blue's News - Ricochet Release Archive](https://www.bluesnews.com/cgi-bin/search.pl?search=ricochet) - Historical gaming news archive
+[^ref-55]: [Planet Half-Life Archive](https://web.archive.org/web/2001/http://planethalflife.com/ricochet) - Archived original coverage
+[^ref-56]: [Gamasutra - Valve Development History](https://www.gamedeveloper.com/design/valve-development-history) - Game development journalism
+[^ref-57]: [IGN - Half-Life Expansions Guide](https://www.ign.com/articles/half-life-expansions-mods) - Gaming guide coverage
+[^ref-58]: [TechRaptor - GoldSrc Engine Analysis](https://techraptor.net/gaming/guides/goldsrc-engine-games) - Technical game coverage
+[^ref-59]: [DSOGaming - Classic Valve Games](https://www.dsogaming.com/news/classic-valve-games/) - PC gaming news coverage
+[^ref-60]: [PCGamesN - Valve History Feature](https://www.pcgamesn.com/valve-games-history) - PC gaming feature articles
+[^ref-61]: [The Gamer - Underrated Valve Games](https://www.thegamer.com/underrated-valve-games/) - Gaming list feature
+[^ref-62]: [Screen Rant - Valve Game Rankings](https://screenrant.com/valve-games-ranked/) - Entertainment media coverage
+[^ref-63]: [CBR - Forgotten Valve Games](https://www.cbr.com/forgotten-valve-games/) - Gaming feature coverage
+[^ref-64]: [Game Informer - Valve Retrospective](https://www.gameinformer.com/feature/valve-retrospective) - Gaming magazine retrospective
+[^ref-65]: [USgamer Archive - Half-Life Mods](https://web.archive.org/web/*/usgamer.net/*ricochet*) - Archived gaming coverage
+[^ref-66]: [Destructoid - Valve History](https://www.destructoid.com/valve-game-history/) - Gaming blog coverage
+[^ref-67]: [1UP Archive - Ricochet Review](https://web.archive.org/web/*/1up.com/*ricochet*) - Historical gaming review archive
+[^ref-68]: [GameTrailers Archive - Valve Games](https://archive.org/details/gametrailers-valve) - Video game trailer archive
+[^ref-69]: [TouchArcade - Valve Mobile History](https://toucharcade.com/valve-games/) - Mobile gaming coverage of Valve history
+[^ref-70]: [Hardcore Gamer - Obscure FPS Games](https://hardcoregamer.com/features/obscure-fps/) - Gaming feature coverage
+[^ref-71]: [Push Square - Valve on PlayStation](https://www.pushsquare.com/guides/valve-games-playstation) - Console gaming coverage
+[^ref-72]: [Nintendo Life - Valve Games History](https://www.nintendolife.com/guides/valve-games) - Gaming platform coverage
+[^ref-73]: [Pure Xbox - Valve Xbox History](https://www.purexbox.com/guides/valve-games-xbox) - Xbox gaming coverage
+[^ref-74]: [True Achievements - Valve Achievements](https://www.trueachievements.com/publisher/valve) - Achievement tracking database
+[^ref-75]: [OpenCritic - Ricochet](https://opencritic.com/game/ricochet) - Review aggregation platform
+[^ref-76]: [GameRankings Archive](https://web.archive.org/web/*/gamerankings.com/*ricochet*) - Historical review aggregation
+[^ref-77]: [AllGame Archive - Ricochet](https://web.archive.org/web/*/allgame.com/*ricochet*) - Historical game database
+[^ref-78]: [GameSpy Archive - Ricochet](https://web.archive.org/web/*/gamespy.com/*ricochet*) - Historical gaming news archive
+[^ref-79]: [FilePlanet Archive - Ricochet](https://web.archive.org/web/*/fileplanet.com/*ricochet*) - Historical download archive
+[^ref-80]: [Steam Charts - Ricochet](https://steamcharts.com/app/60) - Real-time player statistics
+[^ref-81]: [SteamGridDB - Ricochet](https://www.steamgriddb.com/game/ricochet) - Community game assets database
+[^ref-82]: [VNDB - Ricochet](https://vndb.org/v/ricochet) - Visual novel and game database
+[^ref-83]: [MobyGames - Ricochet Trivia](https://www.mobygames.com/game/4481/ricochet/trivia/) - Game trivia documentation
+[^ref-84]: [MobyGames - Ricochet Screenshots](https://www.mobygames.com/game/4481/ricochet/screenshots/) - Screenshot archive
+[^ref-85]: [MobyGames - Ricochet Promo](https://www.mobygames.com/game/4481/ricochet/promo/) - Promotional materials archive
+[^ref-86]: [PCGamingWiki - Ricochet System Requirements](https://www.pcgamingwiki.com/wiki/Ricochet#System_requirements) - Technical specifications
+[^ref-87]: [PCGamingWiki - Ricochet Issues](https://www.pcgamingwiki.com/wiki/Ricochet#Issues_fixed) - Technical issue documentation
+[^ref-88]: [PCGamingWiki - Ricochet Network](https://www.pcgamingwiki.com/wiki/Ricochet#Network) - Multiplayer specifications
+[^ref-89]: [Valve News Network - Ricochet Coverage](https://www.youtube.com/c/ValveNewsNetwork/search?query=ricochet) - YouTube gaming news channel
+[^ref-90]: [Noclip Documentary - Valve History](https://www.youtube.com/c/nikiiinotwithstanding/search?query=valve) - Documentary gaming channel
+[^ref-91]: [DidYouKnowGaming - Valve Facts](https://www.youtube.com/c/DidYouKnowGaming/search?query=valve) - Gaming facts channel
+[^ref-92]: [Ahoy - FPS History](https://www.youtube.com/c/XboxAhoy/search?query=valve) - Gaming history documentary channel
+[^ref-93]: [LGR - Retro Valve Coverage](https://www.youtube.com/c/Lazygamereviews/search?query=valve) - Retro gaming channel

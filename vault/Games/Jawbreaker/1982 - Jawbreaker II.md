@@ -175,3 +175,22 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 - [[1981 - Jawbreaker|← Previous: Jawbreaker]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/51491/jawbreaker-ii/) - Developer credits, platform information, file sizes
+[^ref-2]: [Lemon64](https://www.lemon64.com/game/jaw-breaker) - Death animation description, legal context
+[^ref-3]: [Atarimania](https://www.atarimania.com/game-atari-400-800-xl-xe-jawbreaker-ii_2652.html) - Difficulty levels, gameplay comparison
+[^ref-4]: [4APedia](https://4apedia.com/index.php?title=Jawbreaker_II) - Platform conversions, manual description
+[^ref-5]: [Computer Gaming World via Wikipedia](https://en.wikipedia.org/wiki/Jawbreaker_(video_game)) - John Anderson review, Arkie Awards, Ken Williams quote
+[^ref-6]: [MobyGames Search](https://www.mobygames.com/search/?q=Jawbreaker+II) - Complete platform availability
+[^ref-7]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=449&title=jawbreaker-2&fld=walkthrough) - Marketing description
+[^ref-9]: [Retro365 Blog](https://retro365.blog/2021/06/17/bits-from-my-personal-collection-jawbreaker-john-harris-welcome-to-on-line-systems/) - Softline poll, Hackers book mention, music information
+[^ref-10]: [MyAbandonware](https://www.myabandonware.com/game/jawbreaker-ii-68l) - User rating and modern assessment
+[^ref-11]: [MobyGames/Lemon64](https://www.mobygames.com/game/9296/jawbreaker/) - Critic scores, user reviews
+[^ref-12]: [GameSpot User Reviews](https://www.gamespot.com/app.php/jawbreaker/user-reviews/2200-12600266/) - Sensei_Pong and Azghouls reviews
+[^ref-13]: [Filfre.net](https://www.filfre.net/) - Ten-foot rule legal precedent
+[^ref-14]: [Dadgum.com - John Harris Interview](https://dadgum.com/halcyon/BOOK/HARRIS.HTM) - Development account, Ken Williams sketch
+[^ref-15]: [eBay Listings](https://www.ebay.com/) - TI-99/4A cartridge specifications
+[^ref-17]: [MSX.org](https://www.msx.org/news/en/msxdev14-2-jawbreaker-ii) - MSXdev'14 recognition
+[^ref-18]: [Giant Bomb](https://www.giantbomb.com/jawbreaker-ii/3030-13693/) - Game database entry
+[^ref-19]: [Internet Archive](https://archive.org/details/JawbreakerIISierraOnline) - Preservation archive

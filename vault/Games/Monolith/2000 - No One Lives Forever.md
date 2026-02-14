@@ -326,3 +326,55 @@ However, the game's legacy has been complicated by its commercial unavailability
 - [[2002 - No One Lives Forever 2|→ Next: No One Lives Forever 2]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) – release dates, credits, sales data, awards, development history
+[^ref-2]: [Giant Bomb – The Operative: No One Lives Forever](https://www.giantbomb.com/the-operative-no-one-lives-forever/3030-18911/) – plot summary, platform information
+[^ref-3]: [GOG Dreamlist – No One Lives Forever](https://www.gog.com/dreamlist/game/the-operative-no-one-lives-forever) – game description
+[^ref-4]: [GameSpot Review](http://www.gamespot.com/the-operative-no-one-lives-forever/reviews/the-operative-no-one-lives-forever-review-2652466/) – Erik Wolpaw review, 9.3/10 score
+[^ref-5]: [Hardcore Gaming 101 – No One Lives Forever](http://www.hardcoregaming101.net/the-operative-no-one-lives-forever/) – historical analysis, development context
+[^ref-6]: [Eurogamer Review](http://www.eurogamer.net/articles/r_nolf) – 8/10 score, Bond film comparisons
+[^ref-7]: [PCGamingWiki – The Operative: No One Lives Forever](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – licensing issues, technical information
+[^ref-8]: [MobyGames – Game of the Year Edition](https://www.mobygames.com/game/5110/the-operative-no-one-lives-forever-game-of-the-year-edition/) – publisher information, technical specs
+[^ref-9]: [OldGames.sk – No One Lives Forever](https://www.oldgames.sk/en/game/no-one-lives-forever/download/9706/) – engine details, rating
+[^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/913839-the-operative-no-one-lives-forever/faqs/26950) – gameplay details
+[^ref-11]: [Idle Thumbs Interview](http://old.idlethumbs.net/display.php?id=208) – Craig Hubbard on character background
+[^ref-32]: [LA Times Interview](https://www.latimes.com/archives/la-xpm-2000-dec-28-tt-5564-story.html) – Craig Hubbard on protagonist design
+[^ref-13]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Operative:+No+One+Lives+Forever&gid=3318) – story summary
+[^ref-14]: [MyAbandonware – No One Lives Forever](https://www.myabandonware.com/game/the-operative-no-one-lives-forever-7q4) – user reviews, known issues
+[^ref-15]: [IMDB – The Operative: No One Lives Forever](https://www.imdb.com/title/tt0267786/) – voice cast, trivia, rating
+[^ref-16]: [GameSpot NOLF2 Preview Q&A](http://www.gamespot.com/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/previews/no-one-lives-forever-2-a-spy-in-harms-way-qanda-2866853/) – Craig Hubbard quotes
+[^ref-17]: [IMDB Crazy Credits](https://www.imdb.com/title/tt0267786/crazycredits/) – easter eggs, post-credits scene
+[^ref-18]: [IGN – Vivendi/Fox Publishing Deal](https://www.ign.com/articles/2001/05/02/vivendi-universal-and-fox-sign-four-game-deal) – game description
+[^ref-19]: [Kakuchopurei Retrospective](https://www.kakuchopurei.com/2025/03/the-operative-no-one-lives-forever-retrospective/) – gadget analysis
+[^ref-20]: [Abandonware DOS Readme](https://www.abandonwaredos.com/docawd.php?sf=nlf1readme.txt&st=other&sg=The+Operative:+No+One+Lives+Forever&idg=3318) – technical specifications
+[^ref-21]: [PC Gamer Review](https://www.pcgamer.com/no-one-lives-forever-review/) – Daniel Morris review, 84/100
+[^ref-22]: [MobyGames – PS2 Version](https://www.mobygames.com/game/101095/the-operative-no-one-lives-forever/) – PS2 exclusive content
+[^ref-23]: [The Spoiler Walkthrough](https://the-spoiler.com/ACTION/Monolith/no.one.lives.forever.1.html) – randomized items
+[^ref-24]: [Blue's News .plan Files](http://www.bluesnews.com/cgi-bin/finger.pl?id=388&time=20010620190651) – patch notes, bug fixes
+[^ref-25]: [Glitchwave Review](https://glitchwave.com/game/the-operative-no-one-lives-forever/) – feminist analysis
+[^ref-26]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
+[^ref-27]: [IGN PS2 Review](http://ps2.ign.com/articles/357/357880p1.html) – Douglass C. Perry review
+[^ref-28]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
+[^ref-29]: [PC Gamer Retrospective (2010)](http://www.pcgamer.com/2010/07/10/why-you-must-replay-no-one-lives-forever/) – Tim Stone retrospective
+[^ref-30]: [Kotaku – Night Dive Trademark Filing](https://kotaku.com/looks-like-no-one-lives-forever-is-coming-back-1570565974) – modern assessment
+[^ref-31]: [Eurogamer Retrospective](https://www.eurogamer.net/no-one-lives-forever-retrospective) – historical analysis
+[^ref-33]: [GA-Source Interview (Archived)](https://web.archive.org/web/20001109140500/http://www.ga-source.com/all/news/bits/09+25+2000/6:28:59.shtml) – design philosophy
+[^ref-34]: [Gamasutra Postmortem (Archived)](https://web.archive.org/web/20100509144400/http://www.gamasutra.com/view/feature/3069/postmortem_monoliths_no_one_.php) – development philosophy
+[^ref-35]: [Flickr – David Longo Comment](https://www.flickr.com/photos/greyisthecolor/1927166789/) – character design origins
+[^ref-36]: [MobyGames Credits](http://www.mobygames.com/game/ps2/operative-no-one-lives-forever/credits) – full development credits
+[^ref-37]: [VGMdb – Soundtrack Album](https://vgmdb.net/album/2291) – music credits, recording details
+[^ref-38]: [Klardendum Retrospective](https://klardendum.com/review/o-tempora-no-one-lives-forever-1-and-2/) – engine history
+[^ref-39]: [TCRF – The Operative: No One Lives Forever](https://tcrf.net/The_Operative:_No_One_Lives_Forever) – version history, release dates
+[^ref-40]: [3D Action Planet Interview (Archived)](https://web.archive.org/web/20000831053552/http://www.3dactionplanet.com/features/interviews/hubbard/) – Craig Hubbard quotes
+[^ref-41]: [Blue's News – Music CD Press Release](http://www.bluesnews.com/a/88) – soundtrack details
+[^ref-42]: [Rock Paper Shotgun](https://www.rockpapershotgun.com/no-one-will-sell-no-one-lives-forever-so-lets-download-it) – technical issues
+[^ref-43]: [Easter Egg Database](https://eeggs.com/items/19762.html) – submarine easter egg
+[^ref-44]: [Interactive Achievement Awards 2001](http://www.interactive.org/awards/2001_4th_awards.asp) – award nominations
+[^ref-45]: [Unity HQ Forums](https://nolfgirl.net/Unityhq/forums/files/category/13-mods/) – modding community
+[^ref-46]: [GamePressure – Widescreen Patch](https://www.gamepressure.com/download/the-operative-no-one-lives-forever-widescreen-patch-v20-mod/z3e545) – mod information
+[^ref-47]: [Kotaku – Rights Investigation](https://kotaku.com/the-sad-story-behind-a-dead-pc-game-that-cant-come-back-1688358811) – Night Dive attempts, ownership issues
+[^ref-48]: [Video Games Chronicle – Night Dive Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – Stephen Kick quote
+[^ref-49]: [NOLF Fandom Wiki – Strategy Guide](https://nolf.fandom.com/wiki/No_One_Lives_Forever_Prima's_Official_Strategy_Guide) – guide details
+[^ref-50]: [Discogs – Soundtrack](https://www.discogs.com/release/3173191-Various-The-Operative-No-One-Lives-Forever) – album information
+[^ref-51]: [GameSpot – NOLF2 Review](https://www.gamespot.com/reviews/no-one-lives-forever-2-a-spy-in-harms-way/1900-2881851/) – sequel reception

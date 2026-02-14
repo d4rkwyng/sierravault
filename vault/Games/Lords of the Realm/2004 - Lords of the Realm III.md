@@ -122,3 +122,32 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 - [[1997 - Lords of the Realm II - Siege Pack|← Previous: Lords of the Realm II - Siege Pack]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive](https://archive.org/details/lords-of-the-realm-3_202204) – - Game overview and release date
+[^ref-2]: [Wikipedia - Lords of the Realm III](https://en.wikipedia.org/wiki/Lords_of_the_Realm_III) – - Development and publisher information
+[^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfTheRealm3) – - Series position and gameplay overview
+[^ref-4]: [MobyGames](https://www.mobygames.com/game/24614/lords-of-the-realm-iii/) – - Historical setting and time period
+[^ref-5]: [Amazon.com Product Description](https://www.amazon.com/Lords-Realm-3-PC/dp/B000083JXT) – - Game scope and geographic coverage
+[^ref-6]: [MobyGames Credits](https://www.mobygames.com/game/24614/lords-of-the-realm-iii/credits/windows/) – - Developer information
+[^ref-7]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lords_of_the_Realm_III) – - Platform information
+[^ref-8]: [GOG.com](https://www.gog.com/en/game/lords_of_the_realm_3) – - Game narrative description
+[^ref-9]: [MobyGames - Lords of the Realm](https://www.mobygames.com/game/4303/lords-of-the-realm/) – - Historical scenario description
+[^ref-10]: [IGN Preview](https://www.ign.com/articles/2004/02/05/lords-of-the-realm-iii-gets-bargain-price) – - 3D graphics transition
+[^ref-11]: [GameSpot Review](https://www.gamespot.com/reviews/lords-of-the-realm-iii-review/1900-6092410/) – - Interface design philosophy
+[^ref-12]: [GameFAQs](https://gamefaqs.gamespot.com/pc/537419-lords-of-the-realm-iii/data) – - Gameplay layer information
+[^ref-13]: [eBay Product Description](https://www.ebay.com/itm/184459491585) – - Progression mechanics
+[^ref-14]: [Prima Games Strategy Guide](https://archive.org/stream/Lords_of_the_Realm_III_Prima_Official_eGuide/Lords_of_the_Realm_III_Prima_Official_eGuide_djvu.txt) – - Core gameplay systems
+[^ref-15]: [Metacritic](https://www.metacritic.com/game/lords-of-the-realm-iii/) – - Gameplay style description
+[^ref-16]: [Amazon.com Strategy Guide](https://www.amazon.com/Lords-Realm-Primas-Official-Strategy/dp/0761542809) – - Castle building and warfare mechanics
+[^ref-17]: [Community PC Gaming Wiki](https://community.pcgamingwiki.com/files/file/310-lords-of-the-realm-iii-patch-english/) – - AI improvements in patches
+[^ref-18]: [IGN Review](http://www.ign.com/articles/2004/03/30/lords-of-the-realm-3-review) – - Review score and criticism
+[^ref-19]: [MobyGames - Impressions Games](https://www.mobygames.com/company/102/impressions-games/) – - Development team background
+[^ref-20]: [Grokipedia](https://grokipedia.com/page/Lords_of_the_Realm_III) – - Development positioning
+[^ref-21]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/537419-lords-of-the-realm-iii/faqs/31565) – - Design philosophy
+[^ref-22]: [ModDB Patch Notes](https://www.moddb.com/games/lords-of-the-realm-iii/downloads/patch-1-1-125) – - Graphics card compatibility
+[^ref-23]: [WorthPlaying](https://worthplaying.com/article/2004/2/20/news/15389-lords-of-the-realm-iii-update-patch-available-now/) – - Patch improvements
+[^ref-24]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – - Studio significance and closure context
+[^ref-25]: [GameSpot Preview](https://www.gamespot.com/articles/lords-of-the-realm-iii-updated-impressions/1100-6073963/) – - Genre innovation analysis
+[^ref-26]: [Steam Store](https://store.steampowered.com/app/254860/Lords_of_the_Realm_III/) – - Digital availability
+[^ref-27]: [GameSpot News](https://www.gamespot.com/articles/no-kings-ransom-for-lords-of-the-realm-iii/1100-6087481/) – - Launch pricing strategy

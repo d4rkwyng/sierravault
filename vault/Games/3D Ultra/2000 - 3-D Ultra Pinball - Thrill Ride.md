@@ -234,3 +234,25 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|→ Next: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – 3-D Ultra Pinball: Thrillride](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Thrillride) – release dates, developers, critical scores, gameplay features, easter eggs
+[^ref-2]: [Collection Chamber – 3-D Ultra Pinball: Thrillride](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-thrillride.html) – development history, Hersheypark partnership, retrospective review, technical compatibility
+[^ref-3]: [IGN – 3D Ultra Pinball: Thrill Ride (PC Review)](https://www.ign.com/articles/2000/09/02/3d-ultra-pinball-thrill-ride) – review score 7.9, gameplay analysis, simulation quality
+[^ref-4]: [Amazon UK – 3D Ultra Pinball Thrillride](https://www.amazon.co.uk/Empire-Xplosiv-Ultra-3D-Pinball/dp/B00008V5Q1) – UK release date, publisher, features, customer reviews
+[^ref-5]: [Software Informer – 3D Ultra Pinball Thrillride](https://3d-ultra-pinball-thrillride.software.informer.com/) – version history, file size, user ratings, gameplay features
+[^ref-6]: [Game Over Online – 3D Ultra Pinball: Thrill Ride](https://www.game-over.net/reviews/pc/3D_Ultra_Pinball:_Thrill_Ride.html) – review score 68%, system requirements, difficulty criticism
+[^ref-7]: [IGN – 3D Ultra Pinball: Thrill Ride (GBC Review)](https://www.ign.com/articles/2001/02/03/3d-ultra-pinball-thrill-ride-2) – GBC review score 5/10, engine details, technical issues
+[^ref-8]: [Bunny Gamer – First Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – gameplay mechanics, controls, modern compatibility
+[^ref-9]: [Retrospekt – Game Boy Color Version](https://retrospekt.com/products/3-d-ultra-pinball-thrillride-game-boy-color-game) – product specifications, table count, features
+[^ref-10]: [MyAbandonware – 3-D Ultra Pinball: Thrillride](https://www.myabandonware.com/game/3-d-ultra-pinball-thrillride-3fj) – download information, file sizes, user comments, known bugs
+[^ref-11]: [MobyGames – 3-D Ultra Pinball: Thrillride](https://www.mobygames.com/game/2706/3-d-ultra-pinball-thrillride/reviews/) – aggregate scores, alternate titles, pricing
+[^ref-12]: [Honest Gamers – Game Boy Color Version](https://www.honestgamers.com/1761/game-boy-color/3d-ultra-pinball-thrill-ride/game.html) – GBC publisher information, release date
+[^ref-13]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-pinball-thrillride/3030-18093/) – game database with wiki info
+[^ref-14]: [IGDB](https://www.igdb.com/games/3-d-ultra-pinball-thrillride) – Internet Game Database entry
+[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/196472-3-d-ultra-pinball-thrillride) – game database entry
+[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q4636093) – structured metadata
+[^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Pinball:_Thrillride) – technical compatibility
+[^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
+[^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/3-D_Ultra_Pinball) – series information
+[^ref-20]: [UVList](https://www.uvlist.net/game-91741-3-d-ultra-pinball-thrillride) – Universal Videogame List

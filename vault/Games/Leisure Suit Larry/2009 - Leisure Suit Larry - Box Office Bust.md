@@ -129,3 +129,84 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 - [[2013 - Leisure Suit Larry - Reloaded|→ Next: Leisure Suit Larry - Reloaded]]
 
 ## 
+## References
+
+[^ref-1]: https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Box+Office+Bust - Search results page, no specific game information found
+[^ref-2]: https://adventuregamers.com/search/?q=Leisure+Suit+Larry%3A+Box+Office+Bust - Adventure Gamers search results
+[^ref-3]: https://allowe.com/games/larry/history-of-larry/box-office-bust.html - Al Lowe's comprehensive review compilation showing critical failure
+[^ref-4]: http://www.allowe.com/Larry/BOB.htm - Al Lowe's personal commentary on the game he was not involved with
+[^ref-5]: https://www.amazon.com/Leisure-Suit-Larry-Box-Office-Bust/dp/B001T0HH4W - Amazon customer reviews showing negative reception
+[^ref-6]: https://www.amazon.com/Leisure-Suit-Larry-Office-Bust-Xbox/dp/B00149MEQE - Xbox 360 Amazon product page with customer criticism
+[^ref-7]: https://archive.org/details/leisure-suit-larry-box-office-bust-2009.w - Internet Archive preservation entry
+[^ref-8]: https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Box_Office_Bust - Wikipedia article with comprehensive review scores and development history
+[^ref-9]: https://en.wikipedia.org/wiki/Leisure_Suit_Larry%3A_Box_Office_Bust - Alternative Wikipedia URL with same content
+[^ref-10]: http://www.eurogamer.net/articles/leisure-suit-larry-box-office-bust-review - Eurogamer negative review focusing on technical issues
+[^ref-11]: https://www.eurogamer.net/games/leisure-suit-larry-box-office-bust - Eurogamer game page listing
+[^ref-12]: https://www.filfre.net/?s=Leisure+Suit+Larry%3A+Box+Office+Bust - Digital Antiquarian search with no results
+[^ref-13]: https://gamefaqs.gamespot.com/pc/944566-leisure-suit-larry-box-office-bust/faqs/57040 - GameFAQs walkthrough documenting technical issues
+[^ref-14]: https://gamefaqs.gamespot.com/xbox360/944568-leisure-suit-larry-box-office-bust - Xbox 360 GameFAQs page
+[^ref-15]: https://gamefaqs.gamespot.com/xbox360/944568-leisure-suit-larry-box-office-bust/faqs - GameFAQs guides page
+[^ref-16]: https://gamefaqs.gamespot.com/ps3/944567-leisure-suit-larry-box-office-bust/videos/26207368 - PS3 GameFAQs video page
+[^ref-17]: https://www.gamerankings.com/pc/944566-leisure-suit-larry-box-office-bust/index.html - GameRankings PC scores (content mismatch)
+[^ref-18]: https://www.gamerankings.com/xbox360/944568-leisure-suit-larry-box-office-bust/index.html - GameRankings Xbox 360 scores (content mismatch)
+[^ref-19]: https://www.gamerankings.com/ps3/944567-leisure-suit-larry-box-office-bust/index.html - GameRankings PS3 scores (content mismatch)
+[^ref-20]: https://gamesaplunder.com/collections/xbox-360-games/products/leisure-suit-larry-box-office-bust-x-360 - Commercial retailer product description
+[^ref-21]: https://www.gamesindustry.biz/leisure-suit-larry-box-office-bust-in-the-shops-today - Official UK launch press release with publisher information
+[^ref-22]: http://www.gamespot.com/reviews/leisure-suit-larry-box-office-bust-review/1900-6207462/ - GameSpot professional review with scathing criticism
+[^ref-23]: https://www.gamespot.com/articles/leisure-suit-larry-loungin-with-codemasters/1100-6205151/ - GameSpot news about publisher change
+[^ref-24]: http://www.gamespot.com/reviews/leisure-suit-larry-box-office-bust-review/1900-6209358/ - GameSpot PS3 review highlighting technical problems
+[^ref-25]: http://www.gamesradar.com/leisure-suit-larry-box-office-bust-review/ - GamesRadar+ contemporary review
+[^ref-26]: https://www.gamesradar.com/leisure-suit-larry-box-office-bust/ - GamesRadar+ game page
+[^ref-27]: https://www.gamewatcher.com/reviews/leisure-suit-larry-box-office-bust-review/9742 - GameWatcher negative review
+[^ref-28]: https://www.gog.com/dreamlist/game/leisure-suit-larry-box-office-bust-2009 - GOG wishlist with user reviews about technical issues
+[^ref-29]: https://howlongtobeat.com/?q=Leisure+Suit+Larry%3A+Box+Office+Bust - HowLongToBeat search (no specific results)
+[^ref-30]: http://www.ign.com/articles/2009/05/13/leisure-suit-larry-box-office-bust-review - IGN extremely negative review
+[^ref-31]: https://www.ign.com/articles/2008/01/17/leisure-suit-larry-box-office-bust-interview?page=2 - IGN developer interview with design philosophy
+[^ref-32]: https://www.imdb.com/title/tt1174039/reviews/ - IMDb user review criticizing departure from series
+[^ref-33]: https://www.imdb.com/find/?q=Leisure+Suit+Larry%3A+Box+Office+Bust&s=tt - IMDb search results with user rating
+[^ref-34]: https://www.imdb.com/title/tt1174039/ - IMDb page with cast information and user ratings
+[^ref-35]: http://www.joystiq.com/2009/02/21/codemasters-publishing-leisure-suit-larry-box-office-bust-comi/ - Joystiq article (content mismatch)
+[^ref-36]: https://m.imdb.com/title/tt1174039/parentalguide - IMDb parental guide with content warnings
+[^ref-37]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=xbox-360 - Metacritic Xbox 360 review aggregation
+[^ref-38]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=playstation-3 - Metacritic PS3 review aggregation showing 17/100 score
+[^ref-39]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=pc - Metacritic PC review aggregation with 20/100 score
+[^ref-40]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=xbox-360 - Xbox 360 Metacritic scores
+[^ref-41]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=playstation-3 - PS3 Metacritic scores
+[^ref-42]: https://www.metacritic.com/game/leisure-suit-larry-box-office-bust/critic-reviews/?platform=pc - PC Metacritic scores
+[^ref-43]: https://www.mobygames.com/game/39933/ - MobyGames database entry
+[^ref-44]: https://www.mobygames.com/game/5958/leisure-suit-larry-triple-pack/ - MobyGames Triple Pack entry (different game)
+[^ref-45]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/releases/ - MobyGames release information across platforms
+[^ref-46]: https://www.mobygames.com/search/?q=Leisure+Suit+Larry%3A+Box+Office+Bust - MobyGames search results
+[^ref-47]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/specs/ - MobyGames technical specifications
+[^ref-48]: https://www.mobygames.com/game/39933/leisure-suit-larry-box-office-bust/ - MobyGames comprehensive database entry with credits
+[^ref-49]: https://www.myabandonware.com/search/q/Leisure+Suit+Larry%3A+Box+Office+Bust - MyAbandonware search results
+[^ref-50]: https://www.myabandonware.com/game/leisure-suit-larry-box-office-bust-iv8 - MyAbandonware download page with user ratings
+[^ref-51]: https://www.neverdiemedia.com/products/leisure-suit-larry-box-office-bust-w-manual - Commercial retailer listing
+[^ref-52]: https://newqualitipedia.telepedia.net/wiki/Leisure_Suit_Larry:_Box_Office_Bust - Quality wiki focusing on negative aspects
+[^ref-53]: https://oldgamesdownload.com/leisure-suit-larry-box-office-bust/ - Game download site with basic information
+[^ref-54]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Box_Office_Bust - PC Gaming Wiki technical reference
+[^ref-55]: https://www.reddit.com/r/gog/comments/1kg2yo4/i_spent_the_last_2_weeks_playing_every_leisure/ - Reddit comprehensive franchise review
+[^ref-56]: https://www.reddit.com/r/Trophies/comments/1kop8mz/leisure_suit_larry_box_office_bust_platinum_69/ - Reddit trophy hunting post
+[^ref-57]: https://sierra.fandom.com/wiki/Leisure_Suit_Larry - Sierra wiki with series overview
+[^ref-58]: https://store.steampowered.com/search/?term=Leisure+Suit+Larry%3A+Box+Office+Bust - Steam search showing no results
+[^ref-59]: https://www.trueachievements.com/game/Leisure-Suit-Larry/walkthrough/1 - TrueAchievements achievement guide
+[^ref-60]: https://www.trueachievements.com/game/Leisure-Suit-Larry/walkthrough/3 - TrueAchievements detailed walkthrough with completion data
+[^ref-61]: https://www.trueachievements.com/game/Leisure-Suit-Larry/walkthrough - TrueAchievements walkthrough overview
+[^ref-62]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryBoxOfficeBust - TV Tropes analysis of gameplay and story
+[^ref-63]: https://upcomingdiscs.com/2009/04/20/leisure-suit-larry-box-office-bust-xbox-360/ - UpcomingDiscs comprehensive negative review
+[^ref-64]: https://www.walkthroughking.com/text/leisuresuitlarry9.aspx - Walkthrough guide with mission details
+[^ref-65]: https://www.walkthroughking.com/text/leisuresuitlarry8.aspx - Alternative walkthrough guide
+[^ref-66]: https://web.archive.org/web/20121011094547/http://uk.gamespot.com/news/brutal-legend-ghostbusters-more-dropped-by-activision-6195113 - Archived article about Activision dropping games
+[^ref-67]: https://web.archive.org/web/20080124175229/http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=%2Fwww%2Fstory%2F01-17-2008%2F0004738101&EDATE=%2F - Original Sierra press release announcement
+[^ref-68]: https://web.archive.org/web/20220529211603/https://www.gamespot.com/articles/leisure-suit-larry-loungin-with-codemasters/1100-6205151/ - Archived GameSpot article about publisher change
+[^ref-69]: https://web.archive.org/web/20121004220126/http://www2.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=%2Fwww%2Fstory%2F01-17-2008%2F0004738101&EDATE=%2F - Duplicate Sierra press release
+[^ref-70]: https://web.archive.org/web/20121028122856/http://www.joystiq.com/2009/02/21/codemasters-publishing-leisure-suit-larry-box-office-bust-comi/ - Archived Joystiq article with community concerns
+[^ref-71]: https://web.archive.org/web/20130511112739/http://www.gamerankings.com/pc/944566-leisure-suit-larry-box-office-bust/index.html - Archived GameRankings PC scores
+[^ref-72]: https://web.archive.org/web/20080220231158/http://www.sierra.com/uk/home/news/product_news/011708_-_lsl_bob_announcement.html - Official Sierra UK announcement
+[^ref-73]: https://web.archive.org/web/20130601083511/http://www.gamerankings.com/xbox360/944568-leisure-suit-larry-box-office-bust/index.html - Archived GameRankings Xbox 360 scores
+[^ref-74]: https://web.archive.org/web/20081204002640/http://www.gamepro.com/games/xbox360/139441/leisure-suit-larry-box-office-bust/ - Archived GamePro pre-release listing
+[^ref-75]: https://web.archive.org/web/20160418234439/http://www.ign.com/articles/2008/01/17/leisure-suit-larry-box-office-bust-interview?page=2 - Archived IGN developer interview
+[^ref-76]: https://wiki.scummvm.org/index.php/Leisure_Suit_Larry_Box_Office_Bust - ScummVM wiki (blocked content)
+[^ref-77]: https://xbox.fandom.com/wiki/Leisure_Suit_Larry:_Box_Office_Bust - Xbox wiki with review compilation
+[^ref-78]: https://www.xboxachievements.com/game/leisure-suit-larry-box-office-bust/guide/ - Xbox achievement guide with critical commentary
+[^ref-79]: https://www.xboxachievements.com/game/leisure-suit-larry-box-office-bust/review/ - XboxAchievements comprehensive negative review

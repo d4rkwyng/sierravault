@@ -258,3 +258,39 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 - [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – release dates, review scores, voice cast, development details
+[^ref-2]: [Best DOS Games – Woodruff and the Schnibble](https://bestdosgames.com/games/the-bizarre-adventures-of-woodruff-and-the-schnibble) – overview, creative significance
+[^ref-3]: [Adventure Classic Gaming – Review](https://www.adventureclassicgaming.com/index.php/site/reviews/382/) – ratings, plot analysis, technical specifications, bugs
+[^ref-4]: [GOG.com Dreamlist](https://www.gog.com/dreamlist/game/the-bizarre-adventures-of-woodruff-and-the-schnibble) – regional titles, Gobliiins relationship, development context
+[^ref-5]: [Grokipedia – Woodruff and the Schnibble](https://grokipedia.com/page/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – aggregate reviews, technical specs, trivia, Easter eggs
+[^ref-6]: [OldGames.sk](https://www.oldgames.sk/en/game/woodruff-and-the-schnibble-of-azimuth/download/9784/) – ratings, voice acting details, commercial performance
+[^ref-7]: [MobyGames – Woodruff and the Schnibble](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/) – credits, ratings, technical details, version history
+[^ref-8]: [PCGamingWiki – Woodruff and the Schnibble](https://www.pcgamingwiki.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – engine info, system requirements
+[^ref-9]: [Internet Archive – Woodruff and the Schnibble](https://archive.org/details/woodruff-and-the-schnibble) – release date, plot summary
+[^ref-10]: [Metacritic – Woodruff and the Schnibble](https://www.metacritic.com/game/the-bizarre-adventures-of-woodruff-and-the-schnibb/) – plot details
+[^ref-11]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=147&title=woodruff&fld=walkthrough) – game mechanics, currency system, story elements
+[^ref-12]: [Abandonware France – Woodruff](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=641) – French retrospective, themes, Easter eggs, locations
+[^ref-13]: [Gamia Archive Fandom](https://gamia-archive.fandom.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – plot summary, Schnibble lore
+[^ref-14]: [Abandonware Games](https://abandonwaregames.net/game/woodruff) – plot summary, user rating
+[^ref-15]: [Hardcore Gaming 101 – Woodruff Review](http://www.hardcoregaming101.net/the-bizarre-adventures-of-woodruff-and-the-schnibble-woodruff-and-the-schnibble-of-azimuth-windows-1995/) – locations, inventory system, Easter eggs
+[^ref-16]: [TV Tropes – Woodruff and the Schnibble](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheBizarreAdventuresOfWoodruffAndTheSchnibble) – gameplay quotes, syllable mechanics, Easter eggs
+[^ref-17]: [Tropedia – Woodruff and the Schnibble](https://tropedia.fandom.com/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – narrative themes, puzzle difficulty, fourth wall breaks
+[^ref-18]: [Freebie Games – Woodruff](https://freebie.games/games/woodruff-and-the-schnibble-of-azimuth/) – interface description, humor elements
+[^ref-19]: [MyAbandonware – Woodruff](https://www.myabandonware.com/game/the-bizarre-adventures-of-woodruff-and-the-schnibble-djf) – ratings, release dates, puzzle difficulty quotes
+[^ref-20]: [StrategyWiki – Walkthrough](https://strategywiki.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble/Walkthrough) – item lists, locations
+[^ref-21]: [GameFAQs – User Review](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/reviews/26053) – gameplay mechanics, rating
+[^ref-22]: [MobyGames – Trivia](https://www.mobygames.com/game/2871/the-bizarre-adventures-of-woodruff-and-the-schnibble/trivia/) – awards, German bug, Gobliiins 4 reference
+[^ref-23]: [Web Archive – PCGamesMag Review (1995)](https://web.archive.org/web/19961018112511/http://www.pcgamesmag.com/games/Aug95/wood895.html) – contemporary review quote
+[^ref-24]: [The Collection Chamber – Woodruff](https://collectionchamber.blogspot.com/2015/09/woodruff-and-the-schnibble.html) – modern playthrough, trivia, ScummVM compatibility
+[^ref-25]: [IMDB – Woodruff and the Schnibble](https://www.imdb.com/title/tt0831844/) – voice cast, rating
+[^ref-26]: [Glitchwave – Woodruff](https://glitchwave.com/game/woodruff-and-the-schnibble-of-azimuth/) – user rating
+[^ref-27]: [Abandonware France – Coktel Vision History](https://www.abandonware-france.org/ltf_abandon/ltf_infos_fic.php?id=103372) – company background
+[^ref-28]: [Retro Games Online – Review](https://www.retrogames.onl/2021/01/woodruff-and-schnibble-win31.html) – development context, final Coktel game
+[^ref-29]: [Histoire du Jeu Vidéo – Woodruff Retrospective](https://www.histoiredujeuvideo.fr/woodruff-schnibble-azimuth-voyage-au-coeur-dun-chef-doeuvre-de-lhistoire-du-jeu-video/) – legacy analysis
+[^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/WoodruffandtheSchnibbleHelp.html) – technical requirements, ScummVM support
+[^ref-31]: [TV Tropes – Trivia](https://tvtropes.org/pmwiki/pmwiki.php/Trivia/TheBizarreAdventuresOfWoodruffAndTheSchnibble) – cut content reference
+[^ref-32]: [Internet Archive – Woodruff Update](https://archive.org/details/swizzle_demu_WOOD) – April 1995 patch information
+[^ref-33]: [PriceCharting – Woodruff](https://www.pricecharting.com/game/pc-games/woodruff-and-the-schnibble) – market pricing data
+[^ref-35]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/faqs/2170) – walkthrough attribution

@@ -209,3 +209,31 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 - → Next: Laser Surgeon - The Microscopic Mission
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Sierra's 3-D Helicopter Simulator](https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/) – development credits, release date, technical specifications, multiplayer features, MobyGames rating
+
+[^ref-3]: [GameFAQs – 3D Helicopter Simulator](https://gamefaqs.gamespot.com/pc/223353-3d-helicopter-simulator/data) – September 1987 release date, developer/publisher confirmation
+
+
+[^ref-4]: [Metacritic – 3D Helicopter Simulator](https://www.metacritic.com/game/3d-helicopter-simulator/) – game summary, Apache helicopter details, gameplay description
+
+[^ref-5]: [Wikipedia – Sierra's 3-D Helicopter Simulator](https://en.wikipedia.org/wiki/Sierra%27s_3-D_Helicopter_Simulator) – Computer Gaming World review citation, M. Evan Brooks quote, 1987 release confirmation
+
+[^ref-6]: [Police Quest Fandom Wiki – Helicopter Simulator](https://policequest.fandom.com/wiki/Helicopter_Simulator) – Police Quest 1 cross-promotion quote, release year, modem multiplayer mention
+
+[^ref-7]: [Let's Play Oldies! – 3D Helicopter Simulator](https://letsplayoldies.wordpress.com/2009/07/31/3d-helicopter-simulator/) – retrospective review, gameplay modes, control scheme, 6/10 rating
+
+
+[^ref-9]: [Old-Games.RU – 3D Helicopter Simulator](https://www.old-games.ru/game/3129.html) – Russian retrospective, graphics adapter support, multiple perspectives, multiplayer features, reviewer ratings
+
+[^ref-10]: [Sierra Gamers – 3D Helicopter Sim](https://www.sierragamers.com/3d-helicopter-sim/) – designer credit (Joe Wofford), version information, Mobygames description citation
+[^ref-11]: [Internet Archive – 3-D Helicopter Simulator](https://archive.org/details/msdos_Sierras_3-D_Helicopter_Simulator_1987) – preservation copy and download
+[^ref-12]: [MyAbandonware – 3-D Helicopter Simulator](https://www.myabandonware.com/game/sierra-s-3-d-helicopter-simulator-50z) – user ratings and preservation
+[^ref-13]: [Hall of Light – 3-D Helicopter Simulator](https://hol.abime.net/5270) – Amiga database entry with technical specs
+[^ref-14]: [Lemon64 Database](https://www.lemon64.com/) – C64 gaming database reference
+[^ref-15]: [IGDB – 3-D Helicopter Simulator](https://www.igdb.com/games/sierras-3-d-helicopter-simulator) – game database entry
+[^ref-16]: [Giant Bomb – 3-D Helicopter Simulator](https://www.giantbomb.com/sierras-3-d-helicopter-simulator/3030-40097/) – game database and wiki entry
+[^ref-17]: [UVLIST – 3-D Helicopter Simulator](https://www.uvlist.net/game-55555-3D+Helicopter+Simulator) – universal video game list entry
+[^ref-18]: [Computer Gaming World Museum](http://www.cgwmuseum.org/) – magazine archive reference
+[^ref-20]: [Retro Games Database](https://www.retrogames.cz/) – Eastern European gaming archive

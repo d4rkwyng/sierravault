@@ -121,3 +121,19 @@ As an early XBLA title from 2006, availability may be affected by marketplace ch
 - [[2008 - Lost Cities]] (Sierra Online Shanghai)
 
 ## 
+## References
+
+[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Primary game information
+[^ref-2]: [Gin Rummy - Xbox Achievements](https://www.xboxachievements.com/game/gin-rummy/guide/) - Achievement guide with game details
+[^ref-3]: [Game Review: Gin Rummy (XBLA) - DCEmu](https://www.dcemu.co.uk/content/16810-Game-Review-Gin-Rummy-(XBLA)) - Contemporary review
+[^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information
+[^ref-5]: [Gin Rummy - Microsoft Store](https://microsoft.com/en-us/p/gin-rummy/bpzm88d5vkbs) - Xbox marketplace listing
+[^ref-6]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA platform history
+[^ref-7]: [Gin Rummy card game - Wikipedia](https://en.wikipedia.org/wiki/Gin_rummy) - Original card game rules and history
+[^ref-8]: [Gin Rummy Review - IGN](https://www.ign.com/articles/2008/09/04/gin-rummy-review) - IGN review
+[^ref-9]: [Gin Rummy Reviews - Metacritic](https://www.metacritic.com/game/xbox-360/gin-rummy) - Metacritic page (developer/publisher confirmed)
+[^ref-10]: [Gin Rummy - HonestGamers](https://www.honestgamers.com/62592/xbox-360/gin-rummy/game.html) - Game database entry, 6.7 average score
+[^ref-11]: [Gin Rummy for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/946012-gin-rummy) - GameFAQs game page
+[^ref-12]: [XBLA Review: Gin Rummy - VG-Reloaded](https://www.vg-reloaded.com/xbla-review-gin-rummy/) - "400 Microsoft Points" - review details game modes
+[^ref-13]: [Gin Rummy - TrueAchievements](https://www.trueachievements.com/game/Gin-Rummy) - Achievement tracking and game info
+[^ref-14]: [Gin Rummy - en-academic](https://en-academic.com/dic.nsf/enwiki/10905184) - Encyclopedia entry with developer/publisher info

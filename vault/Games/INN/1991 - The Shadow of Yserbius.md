@@ -178,3 +178,28 @@ Several bugs and design issues were documented during the game's lifespan:
 - [[1993 - Fates of Twinion|→ Next: Fates of Twinion]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) – Release date, platform information, and historical details
+[^ref-2]: [CRPG Addict](https://crpgaddict.blogspot.com/2024/02/game-503-shadow-of-yserbius-1992.html) – Historical context about early online gaming
+[^ref-3]: [Dungeon Crawlers](https://www.dungeoncrawlers.org/game/the-shadow-of-yserbius/) – Industry critical reception
+[^ref-4]: [En-Academic](https://en-academic.com/dic.nsf/enwiki/505817) – Comprehensive historical account
+[^ref-5]: [CRPG Addict](http://crpgaddict.blogspot.com/2024/03/shadow-of-yserbius-summary-and-rating.html) – Computer Gaming World review quotes
+[^ref-6]: [MobyGames](https://www.mobygames.com/game/1653/shadow-of-yserbius/) – Developer and credits information
+[^ref-7]: [Archive.org](https://archive.org/details/msdos_Shadow_of_Yserbius_1993) – Publisher information
+[^ref-8]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Shadow+of+Yserbius&gid=2142) – Platform and technical details
+[^ref-9]: [Archive.org Manual](https://archive.org/stream/Shadow_of_Yserbius_-_Manual/Shadow_of_Yserbius_-_Manual_djvu.txt) – Game description
+[^ref-10]: [MobyGames](https://www.mobygames.com/game/1846/fates-of-twinion/) – Game premise
+[^ref-11]: [MedievaLands](https://www.medievalands.com/) – Game setting description and remake information
+[^ref-14]: [GameSpot](https://www.gamespot.com/the-shadow-of-yserbius/user-reviews/2200-246384/) – Multiplayer mechanics and user review
+[^ref-17]: [IPFS Archive](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/The_Shadow_of_Yserbius.html) – Computer Gaming World review
+[^ref-18]: [MyAbandonware](https://www.myabandonware.com/game/shadow-of-yserbius-2aw) – User rating and HOTUD review
+[^ref-20]: [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Shadow_of_Yserbius,_The_(1993)(Sierra)/94830) – User rating
+[^ref-21]: [Abandonware France](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=4857) – French review
+[^ref-22]: [Reddit](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) – Speedrunning information
+[^ref-23]: [Filfre.net](https://www.filfre.net/?s=Shadow+of+Yserbius) – Ken Williams press release
+[^ref-24]: [MassivelyOP](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – Brian Thomson and Richard Aronson quotes
+[^ref-25]: [MobyGames](https://www.mobygames.com/game-group/shadow-of-yserbius-series) – Series information
+[^ref-26]: [MobyGames](https://www.mobygames.com/game/67088/ruins-of-cawdor/) – Ruins of Cawdor details
+[^ref-28]: [Archive.org](https://archive.org/details/20220303_20220303_0527) – Technical specifications
+[^ref-29]: [MedievaLands News](https://medievalands.com/news/) – Bug documentation from various updates

@@ -282,3 +282,48 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 - [[2002 - Empire Earth - The Art of Conquest|→ Next: Empire Earth - The Art of Conquest]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Empire Earth](https://www.mobygames.com/game/5374/empire-earth/) – release date, developer, publisher information
+[^ref-2]: [Wikipedia – Empire Earth (video game)](https://en.wikipedia.org/wiki/Empire_Earth_(video_game)) – release dates, sales figures, development history, awards
+[^ref-3]: [Internet Archive – Empire Earth Manual](https://archive.org/stream/Empire_Earth_-_Manual_-_PC/Empire_Earth_-_Manual_-_PC_djvu.txt) – epoch details, unit counts, game features
+[^ref-4]: [GameSpot – Empire Earth Review](https://www.gamespot.com/reviews/empire-earth-review/1900-2824314/) – Greg Kasavin review, gameplay analysis, score
+[^ref-5]: [Artho.com – Rick Goodman Press Release](http://artho.com/age/rick2.html) – May 1998 announcement, developer quotes, early design concepts
+[^ref-6]: [IGN – Empire Earth Review](https://www.ign.com/articles/2001/11/30/empire-earth) – Steve Butts review, score, interface analysis
+[^ref-7]: [Grokipedia – Empire Earth](https://grokipedia.com/page/Empire_Earth) – sales figures, Metacritic score, version history
+[^ref-9]: [Hardcore Gaming 101 – Empire Earth](http://www.hardcoregaming101.net/empire-earth/) – engine details, developer history, technical analysis
+[^ref-10]: [Empire Earth Fandom Wiki – Empire Earth](https://empireearth.fandom.com/wiki/Empire_Earth) – campaigns, release dates, gameplay features
+[^ref-11]: [Empire Earth Heaven – Gameinfo](https://ee.heavengames.com/eeh/gameinfo/civilizations/) – Greek campaign details, civilizations
+[^ref-12]: [Speed Demos Archive – Empire Earth](https://www.speeddemosarchive.com/) – Russian campaign description
+[^ref-13]: [Empire Earth Heaven – Epochs](https://ee.heavengames.com/eeh/gameinfo/epochs/) – epoch documentation, future scenario details
+[^ref-14]: [GameDev.net Forum Discussion](https://www.gamedev.net/forums/topic/712329-how-was-empire-earth-able-to-render-hundreds-of-3d-models-on-the-screen-when-it-had-no-access-to-shaders/) – DirectX 7 technical details
+[^ref-15]: [Empire Earth Fandom Wiki – Civilization](https://empireearth.fandom.com/wiki/Civilization) – civilization mechanics, bonuses
+[^ref-16]: [GameFAQs – Empire Earth Strategy Guide](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/faqs/57107) – resource management, gameplay mechanics
+[^ref-17]: [GameFAQs – Empire Earth Unit Guide](https://gamefaqs.gamespot.com/pc/376328-empire-earth/faqs/20608) – combat system, unit relationships
+[^ref-18]: [IMDb – Empire Earth User Reviews](https://www.imdb.com/title/tt0275324/reviews/) – hero system details, gameplay impressions
+[^ref-19]: [Empire Earth Fandom Wiki – Prophet](https://empireearth.fandom.com/wiki/Prophet_(Empire_Earth)) – Prophet unit, calamity abilities, trivia
+[^ref-20]: [Metacritic – Empire Earth](https://www.metacritic.com/game/empire-earth/) – aggregate scores, critic reviews
+[^ref-21]: [Amazon UK – Empire Earth](https://www.amazon.co.uk/Sierra-Best-Sellers-Empire-Earth/dp/B0000DG3RC) – GameSpy quote, customer reviews
+[^ref-22]: [Giant Bomb – Game Informer #105 Review](https://www.giantbomb.com/profile/claude/blog/game-informer-105-jan-2002-reviews-look-back/78579/) – Game Informer scores, Kristian review
+[^ref-23]: [IMDb – Empire Earth](https://www.imdb.com/find/?q=Empire+Earth&s=tt) – user ratings, series ratings
+[^ref-24]: [GOG.com – Empire Earth Gold Edition](https://www.gog.com/en/game/empire_earth_gold_edition) – user reviews, modern system requirements
+[^ref-25]: [Empire Earth Community – Overview](https://empireearth.eu/overview/) – development history, technical specifications
+[^ref-26]: [IGN – Empire Earth Preview](https://www.ign.com/articles/2001/08/23/empire-earth-3) – Jon Alenson quotes, beta information
+[^ref-27]: [MobyGames – Empire Earth Credits](https://www.mobygames.com/game/5374/empire-earth/credits/windows/) – full development credits
+[^ref-28]: [Internet Archive – Empire Earth](https://archive.org/details/empireearth00sier) – original system requirements
+[^ref-29]: [GameFAQs – Empire Earth Data](https://gamefaqs.gamespot.com/pc/561395-empire-earth-the-art-of-conquest/data) – regional release dates, version information
+[^ref-30]: [GOGdb – Empire Earth Gold Edition](https://www.gogdb.org/product/1207658777) – GOG release date, pricing history
+[^ref-31]: [GOGdb – Empire Earth Release Notes](https://www.gogdb.org/product/1207658777/releasenotes) – patch notes, compatibility fixes
+[^ref-32]: [Eeggs.com – Empire Earth Cheats](https://eeggs.com/items/31645.html) – cheat codes, user ratings
+[^ref-33]: [The Cutting Room Floor](https://tcrf.net/) – unused content references
+[^ref-34]: [MobyGames – Empire Earth Search](https://www.mobygames.com/search/?q=Empire+Earth) – series chronology, Rebellion acquisition
+[^ref-36]: [GameSpot – Art of Conquest Review](http://www.gamespot.com/pc/strategy/empireearth/review.html) – Tom Chick review, score
+[^ref-37]: [Empire Earth Fandom Wiki – Series](https://empireearth.fandom.com/wiki/Empire_Earth_(Series)) – sequel development, studio history
+[^ref-38]: [Hardcore Gaming 101 – Empire Earth II](http://www.hardcoregaming101.net/empire-earth-2/) – EE2 details, Metacritic score
+[^ref-39]: [Metacritic – Empire Earth III Reviews](https://www.metacritic.com/game/empire-earth-iii/critic-reviews/?platform=pc) – critic scores, review quotes
+[^ref-40]: [Hardcore Gaming 101 – Empire Earth III](http://www.hardcoregaming101.net/empire-earth-3/) – EE3 criticism, lead designer quote
+[^ref-41]: [NeoEE.net](https://neoee.net/) – multiplayer revival project
+[^ref-42]: [ModDB – Empire Earth Refinement Patch](https://www.moddb.com/games/empire-earth/downloads/empire-earth-refinement-patch) – community mod details
+[^ref-43]: [EE2.eu – Unofficial Patch](https://ee2.eu/patch/) – patch documentation, features
+[^ref-44]: [Internet Archive – Empire Earth Manual Metadata](https://archive.org/details/Empire_Earth_-_Manual_-_PC) – manual page count
+[^ref-45]: [Amazon – Empire Earth Gold](https://www.amazon.com/Empire-Earth-Gold-PC/dp/B000083JX6) – Gold Edition contents

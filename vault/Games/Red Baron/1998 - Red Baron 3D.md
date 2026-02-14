@@ -116,3 +116,30 @@ An amusing piece of trivia emerged years after release when someone successfully
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
 
 ## 
+## References
+
+[^ref-1]: [Dynamix Fandom Wiki - Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – - Development credits and technical details
+[^ref-2]: [MobyGames - Red Baron 3-D](https://www.mobygames.com/game/5123/red-baron-3-d/) – - Game description
+[^ref-3]: [Wallenborg.se](http://wallenborg.se/swordfish/) – - Historical flavor description
+[^ref-4]: [MobyGames - Red Baron](https://www.mobygames.com/game/1766/red-baron/) – - Game premise description
+[^ref-5]: [Wikipedia - Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – - Development history
+[^ref-6]: [Gaming Stack Exchange](https://gaming.stackexchange.com/questions/395983/who-composed-the-music-for-red-baron-ii-red-baron-3d-what-are-the-names-of-th) – - Development timeline
+[^ref-7]: [Amazon Product Page](https://www.amazon.com/Red-Baron-3-D-PC/dp/B00001LCDF) – - GameSpot review quotes
+[^ref-8]: [Dynamix Fandom Wiki - Red Baron II](https://dynamix.fandom.com/wiki/Red_Baron_II) – - Development research details
+[^ref-9]: [Sierra Classic Gaming](https://sierraclassicgaming.com/game/red-baron-3d/) – - Game features
+[^ref-10]: [Archive.org Manual](https://archive.org/stream/Red_Baron_3D_-_Manual/Red_Baron_3D_-_Manual_djvu.txt) – - Game design philosophy
+[^ref-11]: [GameRevolution Review](https://www.gamerevolution.com/review/32974-red-baron-ii-review) – - Control requirements
+[^ref-12]: [Never Die Media](https://www.neverdiemedia.com/products/red-baron-3-d) – - Multiplayer capacity
+[^ref-13]: [My Abandonware](https://www.myabandonware.com/game/red-baron-3-d-d7m) – - Game modes
+[^ref-14]: [Wings of Honour](https://www.wingsofhonour.com/redbaron3d/html_woh_redbaron3d_about.en.html) – - Flight simulation complexity
+[^ref-15]: [jeuxvideo.com](https://www.jeuxvideo.com/articles/0000/00000257_test.htm) – - Historical accuracy description
+[^ref-16]: [GameSpot Review](https://www.gamespot.com/reviews/red-baron-3d-review/1900-2532771/) – - Review score and assessment
+[^ref-17]: [Wikipedia - Red Baron 3-D](https://en.wikipedia.org/wiki/Red_Baron_3-D) – - GameRevolution score
+[^ref-18]: [Classic Gaming Network](http://www.classic-gaming.net/game/445/) – - Historical assessment
+[^ref-19]: [GameSpot Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – - Launch criticism
+[^ref-20]: [Web Archive - Allgame Review](https://web.archive.org/web/20141116011345/http://www.allgame.com/game.php?id=17656&tab=review) – - Development philosophy
+[^ref-21]: [IGN News](https://www.ign.com/articles/1998/08/25/sierra-fixes-plane-game) – - Patch improvements
+[^ref-22]: [Archive.org Preservation](https://archive.org/details/SierraRedBaron3D) – - Graphics requirements
+[^ref-23]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Red_Baron_3D) – - Graphics improvements
+[^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – - Critical reception history
+[^ref-25]: [Kotaku](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – - Pizza coupon story

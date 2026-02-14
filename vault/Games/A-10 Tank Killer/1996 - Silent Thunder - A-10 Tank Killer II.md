@@ -239,3 +239,27 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 - **Next:** No direct sequel produced
 
 ## 
+## References
+
+[^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – Development credits and team information
+[^ref-2]: [MobyGames](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/) – Publisher and release information
+[^ref-3]: [Sierra Gamers](https://www.sierragamers.com/a10-tank-killer-2/) – Series background and sequel information
+[^ref-4]: [Internet Archive](https://archive.org/details/SilentThunderA10TankKillerII_1020) – Game description and story overview
+[^ref-6]: [GameSpot Review](https://www.gamespot.com/reviews/silent-thunder-a-10-tank-killer-ii-review/1900-2533002/) – Chris Hudak's professional review
+[^ref-7]: [MobyGames Specs](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/specs/) – Platform compatibility information
+[^ref-8]: [Glitchwave](https://glitchwave.com/game/silent-thunder-a-10-tank-killer-ii/) – Campaign details
+[^ref-9]: [Old-Games.com](https://www.old-games.com/download/10600/silent-thunder-a-10-tank) – Mission and weapon count specifications
+[^ref-10]: [Internet Archive Patch](https://archive.org/details/SILENT_201604) – Version 1.01 patch notes and improvements
+[^ref-11]: [GamePressure](https://www.gamepressure.com/games/silent-thunder-a-10-tank-killer-ii/zd15c4) – Technical specifications
+[^ref-12]: [Neoseeker](https://www.neoseeker.com/silent-thunder-a10-tank-killer-ii/) – Engine and technology information
+[^ref-13]: [Web Archive GameSpot](https://web.archive.org/web/19970605052718/http://www.gamespot.com/simulation/silentth/index.html) – Target audience assessment
+[^ref-14]: [Wikipedia](https://en.wikipedia.org/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – Review score compilation
+[^ref-15]: [MobyGames Reviews](https://www.mobygames.com/game/632/silent-thunder-a-10-tank-killer-ii/reviews/) – User aggregate rating
+[^ref-16]: [eBay](https://www.ebay.com/itm/265648127555) – ESRB rating information
+[^ref-17]: [MyAbandonware](https://www.myabandonware.com/game/silent-thunder-a-10-tank-killer-ii-9z7) – Modern user ratings
+[^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/silent-thunder-a-10-tank-killer-ii-1996) – User testimonial
+[^ref-20]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/silent-thunder) – Soundtrack details
+[^ref-21]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=32633) – Graphics card compatibility information
+[^ref-22]: [Reddit Discussion](https://www.reddit.com/r/gamemusic/comments/1nrvlf/does_anyone_remember_this_amazing_original/) – Specific track appreciation
+[^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/silent-thunder-a-10-tank-killer-ii-where-to-get-the-sheet-music/) – Fan interest in soundtrack
+[^ref-24]: [MobyGames Action Pack](https://www.mobygames.com/game/41881/action-pack-earthsiege-2-silent-thunder/) – Compilation release details

@@ -275,3 +275,52 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 - [[2004 - Counter-Strike - Condition Zero|→ Next: Counter-Strike - Condition Zero]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) – release dates, developer, publisher, credits
+[^ref-2]: [Combine OverWiki – Half-Life: Blue Shift](https://combineoverwiki.net/wiki/Half-Life:_Blue_Shift) – development history, platforms, engine, sales data
+[^ref-3]: [Steam Community – Half-Life: Blue Shift](https://steamcommunity.com/app/130) – game description, story summary
+[^ref-4]: [Eurogamer – Blue Shift Review](https://www.eurogamer.net/r-blueshift) – review score, completion time
+[^ref-5]: [Metrocop – Blue Shift Review](https://metrocop.net/articles/half-life-blue-shift-review/) – modern retrospective, gameplay analysis
+[^ref-6]: [GameRevolution – Blue Shift Review](https://www.gamerevolution.com/review/32729-half-life-blue-shift-review) – HD Pack details, review score
+[^ref-7]: [Game Developer – Valve Sales Analysis](https://www.gamedeveloper.com/game-platforms/analysis-valve-s-lifetime-retail-sales-for-i-half-life-counter-strike-i-franchises) – sales figures
+[^ref-8]: [IMDb – Half-Life: Blue Shift](https://www.imdb.com/title/tt0363259/) – credits, designers, voice cast
+[^ref-9]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=167384989) – story details, gameplay guide
+[^ref-10]: [IGN – Half-Life Week: Blue Shift](https://www.ign.com/articles/2001/05/08/half-life-week-day-2-the-half-life-blues-shift) – Barney character quotes
+[^ref-11]: [Sierra Chest – Blue Shift Easter Eggs](https://sierrachest.com/index.php?a=games&id=59&title=half-life-blue-shift&fld=eggs) – Gordon sightings, easter eggs
+[^ref-12]: [Half-Life Fandom Wiki](https://half-life.fandom.com/wiki/Half-Life:_Blue_Shift) – story summary, gameplay details
+[^ref-13]: [Behind The Voice Actors – Blue Shift](https://www.behindthevoiceactors.com/video-games/half-life-blue-shift/) – voice cast
+[^ref-14]: [StrategyWiki – Blue Shift Walkthrough](https://strategywiki.org/wiki/Half-Life:_Blue_Shift/Walkthrough) – chapter breakdown, gameplay mechanics
+[^ref-15]: [TV Tropes – Half-Life: Blue Shift](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/HalfLifeBlueShift) – narrative analysis, trivia
+[^ref-16]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/475304-half-life-blue-shift/faqs/27164) – gameplay guide
+[^ref-17]: [SourceRuns Wiki – HLBS 2811](https://wiki.sourceruns.org/wiki/HLBS_2811) – technical specifications, FPS differences
+[^ref-19]: [UHS Hints – Blue Shift](https://www.uhs-hints.com/uhsweb/hlbshift.php) – chapter list
+[^ref-20]: [MobyGames – Blue Shift Reviews](https://www.mobygames.com/game/144822/half-life-blue-shift/reviews/) – player reviews, ratings
+[^ref-21]: [MobyGames – Blue Shift](https://www.mobygames.com/game/144822/half-life-blue-shift/) – game details
+[^ref-23]: [The Cutting Room Floor – Blue Shift](https://tcrf.net/Half-Life:_Blue_Shift_(Windows)) – cut content, version history, technical details
+[^ref-24]: [Reddit – Patient Gamers Blue Shift Discussion](https://www.reddit.com/r/patientgamers/comments/ch4vbm/halflife_blue_shift/) – fan perspectives, easter eggs
+[^ref-25]: [Metacritic – Blue Shift](https://www.metacritic.com/game/half-life-blue-shift/) – aggregate scores, review excerpts
+[^ref-26]: [IGN – Blue Shift Review](https://www.ign.com/articles/2001/06/12/half-life-blue-shift) – review score, price criticism
+[^ref-27]: [GameSpot Reviews](https://www.gamespot.com/articles/dc-half-life-includes-blue-shift/1100-2621501/) – contemporary criticism
+[^ref-28]: [GameSpy – Blue Shift Review (Archive)](https://web.archive.org/web/20020418221457/http://www.gamespy.com/reviews/June01/blueshift/index.shtm) – detailed review
+[^ref-29]: [Computer and Video Games Review (Archive)](https://web.archive.org/web/20090315015941/http://www.computerandvideogames.com/article.php?id=3790) – review score, analysis
+[^ref-30]: [Neoseeker – Blue Shift Review](https://www.neoseeker.com/Articles/Games/Reviews/halflifeblueshift/) – critical review
+[^ref-31]: [IMDb – Blue Shift User Reviews](https://www.imdb.com/title/tt0363259/reviews/) – user ratings
+[^ref-32]: [My Abandonware – Blue Shift](https://www.myabandonware.com/game/half-life-blue-shift-d52) – availability status, ratings
+[^ref-33]: [ModDB – Blue Shift Dreamcast Soundtrack](https://www.moddb.com/games/half-life-blue-shift/addons/dreamcast-soundtrack) – mod information, community rating
+[^ref-34]: [Speed Demos Archive – Blue Shift](https://speeddemosarchive.com/HalfLifeBlueShift.html) – development background
+[^ref-35]: [IGN – ECTS 2000 Hands-On (Archive)](https://web.archive.org/web/20221029231631/https://www.ign.com/articles/2000/09/02/ects-2000-hands-on-with-half-life) – Marc Laidlaw involvement, development details
+[^ref-36]: [GameSpot – DC Half-Life News (Archive)](https://web.archive.org/web/20041215033127/http://www.gamespot.com/dreamcast/action/halflife/news_2621501.html) – Sierra promotional quotes
+[^ref-37]: [Eurogamer – Half-Life DC Preview](https://www.eurogamer.net/p-halflife-dc) – development status, brighter textures
+[^ref-38]: [GameSpot – ECTS Half-Life Hands-On](https://www.gamespot.com/articles/ectshalf-life-dreamcast-hands-on/1100-2624258/) – graphics comparison
+[^ref-39]: [Next Dimension – Beta Half-Life DC](http://www.nextdimension.org/betahalflife/dc.htm) – cancellation details, leaked build
+[^ref-40]: [Twisted Voxel – Blue Shift Prototype Leak](https://twistedvoxel.com/half-life-blue-shift-prototype-leak/) – HD Pack details
+[^ref-41]: [PCGamingWiki – Blue Shift](https://www.pcgamingwiki.com/wiki/Half-Life:_Blue_Shift) – technical specifications, renderer support
+[^ref-42]: [Manual Machine – Blue Shift Manual](https://manualmachine.com/gamespc/halflifeblueshift/1118396-user-manual/) – system requirements, credits
+[^ref-44]: [Combine OverWiki – Blue Shift Soundtrack](https://combineoverwiki.net/wiki/Half-Life:_Blue_Shift_soundtrack) – soundtrack history
+[^ref-46]: [Kotaku – Half-Life Easter Eggs](https://kotaku.com/an-easter-egg-in-half-life-decay-can-only-be-found-aft-1836085499) – Chumtoad details
+[^ref-47]: [Steam Store](https://store.steampowered.com/search/?term=Half-Life%3A+Blue+Shift) – release date
+[^ref-48]: [ModDB – Blue Shift HL1 OST Mod](https://www.moddb.com/mods/half-life-blue-shift-hl1-ost) – soundtrack mod
+[^ref-49]: [Run Think Shoot Live – The Infinite Shift](https://www.runthinkshootlive.com/posts/the-infinite-shift-blue-shift/) – fan mod
+[^ref-50]: [Speedrun.com – Blue Shift](https://www.speedrun.com/bshift) – speedrun statistics
+[^ref-51]: [Scribd – Blue Shift Manual](https://www.scribd.com/document/635504301/Blue-Shift-Manual) – official manual

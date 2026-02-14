@@ -254,3 +254,18 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - [[2001 - Arcanum|→ Next: Arcanum]]
 
 ## 
+## References
+
+[^ref-1]: [Computer Hope – Hellfire](https://www.computerhope.com/games/games/hellfire.htm) – Release date, developer, publisher, system requirements, expansion features, Na-Krul description
+[^ref-2]: [Diablo Wiki – Diablo: Hellfire](https://diablo.fandom.com/wiki/Diablo:_Hellfire) – Development history, system requirements, patch notes, hidden content, commercial success, Battle.net release date
+[^ref-3]: [Diablo Archive Wiki – Diablo: Hellfire](https://diablo-archive.fandom.com/wiki/Diablo:_Hellfire) – Canon status, technical issues, hidden content, pathfinding bugs, bundle information
+[^ref-4]: [GameSpot – Hellfire Review](https://www.gamespot.com/reviews/hellfire-review/1900-2537524/) – Review score, multiplayer criticism, Na-Krul background, Game of the Year reference
+[^ref-5]: [RPGWatch – Diablo: Hellfire](https://rpgwatch.com/games/diablo--hellfire-238.html) – Release date, gameplay features, story details, Battle.net limitations, dungeon design
+[^ref-6]: [Wikipedia – Diablo: Hellfire](https://en.wikipedia.org/wiki/Diablo:_Hellfire) – Designer credits, composer, awards, development conflicts, hidden classes, GOG release, review scores
+[^ref-7]: [HowLongToBeat – Diablo: Hellfire Reviews](https://howlongtobeat.com/game/2515/reviews/latest/1) – User ratings, town running feature, modern assessment quotes
+[^ref-8]: [Phenixx Gaming – Diablo Hellfire PC Review](https://web.phenixxgaming.com/2020/06/02/diablo-hellfire-pc-review/) – Review score, interface observations, title removal, Search spell importance
+[^ref-9]: [GOG.com – Diablo](https://www.gog.com/en/game/diablo) – User ratings, system requirements, patch history, gameplay duration, wishlist status
+[^ref-10]: [Klardendum – O Tempora: Diablo Hellfire](https://klardendum.com/review/o-tempora-diablo-hellfire/) – DevilutionX mod, gameplay issues, retrospective assessment
+[^ref-11]: [Cynical Gaming Blog – Diablo Hellfire Review](https://cynicalgamingblog.wordpress.com/2024/06/27/old-review-archive-diablo-hellfire-review/) – Retrospective assessment, StarCraft dungeon controversy, multiplayer patch, hidden classes
+[^ref-12]: [Metacritic – Diablo Hellfire Bundle](https://www.metacritic.com/game/diablo-hellfire-bundle/user-reviews/) – User score aggregate, review breakdown percentages
+[^ref-13]: [GameFAQs – Diablo Hellfire Bundle Review](https://gamefaqs.gamespot.com/pc/935320-diablo-hellfire-bundle/reviews/87644) – User review score, Butcher quote, gameplay longevity assessment

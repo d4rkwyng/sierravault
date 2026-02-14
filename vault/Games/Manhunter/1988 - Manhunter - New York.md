@@ -115,3 +115,28 @@ Fan-created unofficial patches have been developed to address minor technical is
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/24/manhunter-new-york/) – - Developer and designer credits
+[^ref-2]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/reviews/162/) – - Game setting and year
+[^ref-3]: [Old Games](https://www.oldgames.sk/en/game/manhunter-new-york/download/9720/) – - Orb description and occupation details
+[^ref-4]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Manhunter:_New_York) – - Basic game premise
+[^ref-5]: [Classic Reload](https://classicreload.com/manhunter-new-york.html) – - Visual style and thematic differences
+[^ref-6]: [Archive.org Manual](https://archive.org/stream/Manhunter_-_New_York_-_Manual/Manhunter_-_New_York_-_Manual_djvu.txt) – - Official game description
+[^ref-7]: [Abandonware DOS Manual](https://www.abandonwaredos.com/docawd.php?sf=man_hunter_1-manual.txt&st=manual&sg=Manhunter:+New+York&idg=1867) – - Game objective and role
+[^ref-8]: [MobyGames Specs](https://www.mobygames.com/game/24/manhunter-new-york/specs/) – - Platform information
+[^ref-9]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=715) – - Game plot description
+[^ref-10]: [MyAbandonware](https://www.myabandonware.com/game/manhunter-new-york-ha) – - Alien occupation rules
+[^ref-11]: [Retro Freak Reviews](https://retrofreakreviews.com/2018/11/09/manhunter-new-york-review/) – - Manhunter role description
+[^ref-12]: [IGN](https://www.ign.com/games/manhunter-new-york/walkthroughs) – - Game summary with MAD device
+[^ref-13]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – - Gameplay mechanics
+[^ref-14]: [Wikipedia](https://en.wikipedia.org/wiki/Manhunter:_New_York) – - Plot twist revelation
+[^ref-15]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Manhunter:+New+York&gid=1867) – - Control scheme description
+[^ref-16]: [Banjo's Mods](https://banjosmods.wordpress.com/category/manhunter/) – - Interface and theme description
+[^ref-17]: [Lemon Amiga Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1045) – - MAD device mechanics
+[^ref-18]: [Sierra Fandom](https://sierra.fandom.com/wiki/Manhunter:_New_York) – - Computer Gaming World review quote
+[^ref-19]: [Sierra Interaction](http://sierrainteraction.wikidot.com/manhunter:new-york-a-review) – - Computer Entertainer review
+[^ref-20]: [IMDb](https://www.imdb.com/title/tt0422715/) – - User rating
+[^ref-21]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – - Retrospective assessment
+[^ref-22]: [Larry Laffer](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – - Development origin
+[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) – - Fan comments and praise

@@ -304,3 +304,47 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards
+[^ref-2]: [Encyclopedia Gamia Archive Wiki](https://gamia-archive.fandom.com/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – ESRB rating, numbering explanation, features
+[^ref-3]: [Adventure Classic Gaming – Review](http://adventureclassicgaming.com/index.php/site/reviews/98) – review score, technical specs, CyberSniff details, artistic assessment
+[^ref-4]: [DOSBox Wiki – Leisure Suit Larry: Love for Sail!](https://www.dosbox.com/wiki/GAMES:Leisure_Suit_Larry:_Love_for_Sail!) – plot summary, ScummVM compatibility, engine information
+[^ref-5]: [PC Games Magazine Review (Archived)](https://web.archive.org/web/19970525122526/http://www.pcgames.com/reviews/adventure/larry.html) – review score, system requirements, CyberStar feature, character names
+[^ref-6]: [GameCenter.com – Al Lowe Interview (Archived)](https://web.archive.org/web/20000817175057/http://www.gamecenter.com/News/Item/0,3,0-2559,00.html) – sales figures, series cancellation, Al Lowe departure
+[^ref-7]: [The Sierra Chest – Leisure Suit Larry 7](https://www.sierrachest.com/index.php?a=games&id=29&fld=general) – designers, voice cast, features
+[^ref-8]: [PCGamingWiki – Leisure Suit Larry: Love for Sail!](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – platform releases, technical issues, resolution specs
+[^ref-9]: [Steam Store Page](https://steamcommunity.com/app/765890) – plot summary, opening scenario
+[^ref-10]: [ClassicReload](https://classicreload.com/leisure-suit-larry-love-for-sail.html) – series continuity, hidden content, pop culture references
+[^ref-11]: [DOS Games Archive](https://www.dosgamesarchive.com/download/leisure-suit-larry-love-for-sail) – gameplay description, Al Lowe attribution
+[^ref-12]: [GameCenter.com – Review (Archived)](https://web.archive.org/web/19970205031454/http://gamecenter.com/Reviews/Item/0,6,403,00.html) – Barry Brenesal review quotes, ship description
+[^ref-13]: [Al Lowe's Official Easter Eggs Page](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html) – Easter egg triggers, secret ending requirements, point system
+[^ref-14]: [A Force For Good – Retrospective Review](https://forceforgood.co.uk/adventure/leisure-suit-larry-love-for-sail/) – interface critique, humor assessment
+[^ref-15]: [Adventure Classic Gaming – Al Lowe Interview (Archived)](https://web.archive.org/web/20060615171433/http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – live musicians, dialogue system, production details
+[^ref-16]: [GameFAQs Walkthrough by odino](https://gamefaqs.gamespot.com/pc/29100-leisure-suit-larry-love-for-sail/faqs/61451) – no-death design, point maximum
+[^ref-17]: [IGN Cheats Guide](https://www.ign.com/wikis/pc-cheats/Leisure_Suit_Larry:_Love_for_Sail!_Cheats) – cheat codes, psychedelic mode
+[^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/leisure-suit-larry-7-love-for-sail-review/1900-2535682/) – review score, scratch-and-sniff reference
+[^ref-19]: [MacUser Review (Archived)](https://web.archive.org/web/20001026232725/http://macuser.zdnet.com/mu_0997/maxuser/game_room.html) – Roman Loyola review, criticism
+[^ref-20]: [GOG.com News Release (Archived)](https://web.archive.org/web/20130219125923/http://www.gog.com/news/release_leisure_suit_larry_love_for_sail) – modern assessment, release announcement
+[^ref-21]: [MobyGames – Leisure Suit Larry: Love for Sail!](https://www.mobygames.com/game/381/leisure-suit-larry-love-for-sail/) – aggregate score, credits, trivia, novelization
+[^ref-22]: [IMDB – Leisure Suit Larry: Love for Sail!](https://www.imdb.com/title/tt0221340/) – user rating, voice cast, Bond reference trivia
+[^ref-23]: [Metacritic](https://www.metacritic.com/game/leisure-suit-larry-love-for-sail/) – user score, Polish voice cast
+[^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-love-for-sail-3m1) – user rating, alternate titles, availability status
+[^ref-25]: [BestDOSGames](https://bestdosgames.com/games/leisure-suit-larry-love-for-sail) – rating percentage
+[^ref-26]: [Rock Paper Shotgun – Gaming Made Me: Leisure Suit Larry 1](https://www.rockpapershotgun.com/2011/02/26/gaming-made-me-leisure-suit-larry-1/) – series origins, Richard Cobbett assessment
+[^ref-27]: [Al Lowe's Official Hints Page](https://allowe.com/games/larry/tips-manuals/lsl7-hints.html) – Easter egg descriptions, developer commentary
+[^ref-28]: [IMDB – Full Credits](https://www.imdb.com/title/tt0221340/fullcredits/) – complete voice cast, crew credits, LA West animation
+[^ref-29]: [The Cutting Room Floor](https://tcrf.net/Leisure_Suit_Larry:_Love_for_Sail!) – unused content documentation
+[^ref-30]: [Internet Archive – LSL7 Patch](https://archive.org/details/LSL7PAT_EXE) – Version 1.2 patch notes, bug fixes
+[^ref-31]: [GOG Database](https://www.gogdb.org/product/1207659174) – version history, platform builds
+[^ref-32]: [GameSpot Mobile (Archived)](https://web.archive.org/web/20110903105512/http://www.gamespot.com/mobile/action/leisuresuitlarry7loveforsail/index.html) – mobile version details
+[^ref-34]: [GameFAQs – Game Data](https://gamefaqs.gamespot.com/pc/29100-leisure-suit-larry-love-for-sail/data) – portrait Easter egg identifications
+[^ref-35]: [LarryLaffer.net Easter Eggs Guide](http://larrylaffer.net/lslgames/lsl7-general/lsl7-easter-eggs) – Freddy Pharkas music reference
+[^ref-36]: [GameCenter.com Release News (Archived)](https://web.archive.org/web/20000817201336/http://www.gamecenter.com/News/Item/0,3,0-338,00.html) – launch price, release platforms
+[^ref-37]: [Wikidata](https://www.wikidata.org/wiki/Q691462) – international ratings
+[^ref-38]: [MobyGames – Leisure Suit Larry Collection Series](https://www.mobygames.com/game/718/leisure-suit-larry-collection-series/) – 1997 compilation
+[^ref-39]: [MobyGames – Leisure Suit Larry Collection](https://www.mobygames.com/game/27943/leisure-suit-larry-collection/) – 2006 compilation
+[^ref-40]: [Speedrun.com – Larry 7](https://www.speedrun.com/larry7) – speedrun records, community data
+[^ref-41]: [Amazon – Official Strategy Guide](https://www.amazon.com/Leisure-Suit-Larry-Official-Strategy/dp/0761508767) – guide details, publication info
+[^ref-42]: [Internet Archive – Game ISO](https://archive.org/details/mi-lsl-7) – preservation copy
+[^ref-43]: [Internet Archive – Manual](https://archive.org/details/Leisure_Suit_Larry_7_-_Manual) – manual preservation

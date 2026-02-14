@@ -145,3 +145,26 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 - [[2014 - Gold Rush Anniversary|→ Next: Gold Rush Anniversary]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) – Release year, plot details, difficulty warnings
+[^ref-2]: [MobyGames](https://www.mobygames.com/game/440/gold-rush/) – Character and plot information, replay value
+[^ref-3]: [DOSdays](https://dosdays.co.uk/topics/Games/game_goldrush.php) – AGI engine and technical details
+[^ref-4]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-gold-rush/) – Three-route structure description
+[^ref-5]: [Only Solitaire Substack](https://onlysolitaire.substack.com/p/review-gold-rush-1988) – Marketing slogan and gameplay details
+[^ref-6]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=223&fld=general) – Developer credits and letter content
+[^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Gold_Rush!) – Platform and technical specifications
+[^ref-8]: [MobyGames](https://mobygames.com/game/gold-rush) – Route dangers description
+[^ref-9]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/GoldRush) – Historical setting details
+[^ref-10]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564731-gold-rush/faqs/37856) – Points system information
+[^ref-11]: [GOG Community](https://www.gog.com/dreamlist/game/gold-rush) – Death mechanics and community comments
+[^ref-12]: [Choicest Games](https://www.choicestgames.com/2019/10/gold-rush-classic-review.html) – Review and Dragon magazine score
+[^ref-13]: [MyAbandonware](https://www.myabandonware.com/game/gold-rush-g8) – HOTUD review and score
+[^ref-14]: [Steam Store](https://store.steampowered.com/app/308000/Gold_Rush_Classic/) – User review percentage
+[^ref-15]: [Filfre.net](https://www.filfre.net/?s=Gold+Rush) – Development context
+[^ref-16]: [3rd-Strike Review](https://3rd-strike.com/gold-rush-2-review/) – Creative liberty information
+[^ref-17]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/gold-rush-problem/) – Copy protection details
+[^ref-18]: [Sunlight Games](https://www.goldrush-game.com/) – Anniversary edition details
+[^ref-19]: [Giant Bomb](https://www.giantbomb.com/gold-rush/3030-15261/) – Game database entry
+[^ref-20]: [IGDB](https://www.igdb.com/games/gold-rush) – Game database entry
+[^ref-collection]: [Consolidated Research Sources](internal/research/games/gold-rush/_consolidated.json) – Multiple sources from research collection

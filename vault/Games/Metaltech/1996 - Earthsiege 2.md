@@ -135,3 +135,31 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 - [[1996 - MissionForce - Cyberstorm|→ Next: MissionForce - Cyberstorm]]
 
 ## 
+## References
+
+[^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details
+[^ref-2]: [Wikipedia - EarthSiege 2](https://en.wikipedia.org/wiki/EarthSiege_2) – - Game overview and genre classification
+[^ref-3]: [MyAbandonware - Earthsiege 2](https://www.myabandonware.com/game/earthsiege-2-a7b) – - Technical specifications and engine details
+[^ref-4]: [Internet Archive - ES2 Demo](https://archive.org/details/es2demo) – - Story background and universe context
+[^ref-5]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Earthsiege_2) – - Platform compatibility information
+[^ref-6]: [Internet Archive - Earth Siege 1996](https://archive.org/details/earth-siege.-1996.-sierra.-cd.-7z) – - Game narrative opening
+[^ref-7]: [GameFAQs - Earthsiege 2](https://gamefaqs.gamespot.com/pc/197196-earthsiege-2/faqs) – - Plot summary
+[^ref-8]: [ModDB - Earthsiege 2](https://www.moddb.com/games/earthsiege-2/downloads/earthsiege-2-music-files) – - Cybrid motivation description
+[^ref-9]: [MobyGames - Earthsiege 2](https://www.mobygames.com/game/327/earthsiege-2/) – - Gameplay perspective
+[^ref-10]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/) – - Control system critique
+[^ref-11]: [IGN - EarthSiege 2 Cheats](https://www.ign.com/wikis/pc-cheats/EarthSiege_2_Cheats) – - HERC specifications
+[^ref-12]: [Steam Games - Earthsiege 2](https://steam-games.org/game/11229/earthsiege-2) – - Terrain variety description
+[^ref-13]: [Grokipedia - Earthsiege 2](https://grokipedia.com/page/Earthsiege_2) – - Campaign structure details
+[^ref-14]: [Collection Chamber Blog](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – - Mission structure analysis
+[^ref-15]: [Old PC Gaming - Earthsiege 2 Review](https://oldpcgaming.net/earthsiege-2-review/) – - Gameplay balance assessment
+[^ref-16]: [MobyGames - Earthsiege 2 Reviews](https://www.mobygames.com/game/327/earthsiege-2/reviews/windows/) – - Graphics quality comparison
+[^ref-17]: [HandWiki - Metaltech Earthsiege](https://handwiki.org/wiki/Software:Metaltech:_Earthsiege) – - Computer Gaming World review details
+[^ref-18]: [GameSpot - Earthsiege 2 Review](https://www.gamespot.com/reviews/earthsiege-2-review/1900-2535791/) – - GameSpot review score and recommendation
+[^ref-19]: [Web Archive - Computer Games Review](https://web.archive.org/web/19961221184619/http://www.nuke.com/cgr/reviews/9607/earths/earths.htm) – - 1996 review score
+[^ref-20]: [GameFAQs - Earthsiege 2 Review](https://gamefaqs.gamespot.com/pc/197196-earthsiege-2/reviews/98526) – - Technical stability critique
+[^ref-21]: [Sierra Fandom - Dynamix](https://sierra.fandom.com/wiki/Dynamix) – - Development company history
+[^ref-22]: [The Digital Antiquarian](https://www.filfre.net/?s=EarthSiege+2) – - Sierra's strategic context
+[^ref-23]: [KH Insider - Earthsiege 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/earthsiege-2-windows) – - Music composer credits
+[^ref-24]: [GitHub - RBX IT Wiki](https://github.com/juanitogan/rbxit/wiki/Metaltech-Series) – - Video codec details
+[^ref-25]: [Tribes Fandom - EarthSiege 2](https://tribes.fandom.com/wiki/EarthSiege_2) – - Universe continuity
+[^ref-26]: [PC Gamer](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – - Freeware release announcement

@@ -189,3 +189,33 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 
 
 ## 
+## References
+
+[^ref-1]: [Unseen64 – Leisure Suit Larry 8 PC Cancelled](https://www.unseen64.net/2009/10/25/leisure-suit-larry-8-pc-cancelled/) – Development timeline, cancellation details, technical plans, Al Lowe departure date
+
+[^ref-2]: [TV Tropes – Leisure Suit Larry 8 Lust in Space](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry8LustInSpace) – Alternate title, cancelled status, 3D development plans
+
+[^ref-3]: [Larry Laffer Dot Net – Plot of Leisure Suit Larry VIII from Al Lowe](http://larrylaffer.net/exxxtras/larry-game-materials/plot-of-leisure-suit-larry-viii-from-al-lowe) – Al Lowe quote about Sierra management turmoil, CUC acquisition impact
+
+[^ref-4]: [AGDI Forum – About Leisure Suit Larry 8](https://www.agdinteractive.com/forum/viewtopic.php?t=9106) – Fan discussion about Larry's appearance in new games, Al Lowe's thoughts
+
+[^ref-5]: [Metacritic – Leisure Suit Larry: Wet Dreams Don't Dry](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/) – Review score (72 Metascore), quote about being "the Leisure Suit Larry 8 you've dreamed of"
+
+[^ref-6]: [Larry Laffer Dot Net – Larry Promo & Demo Videos](http://larrylaffer.net/exxxtras/larry-game-materials/the-promo-demo-videos) – Preserved test video from Larry 8 development
+
+[^ref-7]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – First game without Al Lowe, Larry Lovage character, High Voltage Software development
+
+[^ref-8]: [Sierra Gamers Forum – Leisure Suit Larry Box Office Bust](https://www.sierragamers.com/forums/topic/leisure-suit-larry-box-office-bust/) – Voice cast information, game announcement
+
+[^ref-9]: [Steam – Leisure Suit Larry: Wet Dreams Don't Dry](https://store.steampowered.com/app/765870/Leisure_Suit_Larry__Wet_Dreams_Dont_Dry/) – User review statistics, CrazyBunch developer credit
+
+[^ref-10]: [Gao Li Reviews – Leisure Suit Larry: Wet Dreams Dry Twice](https://gaolioccasionallyreviews.wordpress.com/2020/10/28/leisure-suit-larry-wet-dreams-dry-twice/) – 2020 sequel information
+
+[^ref-11]: [Hardcore Gaming 101 – Leisure Suit Larry Assorted](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Larry's Casino as last Al Lowe Larry product, The Laffer Utilities
+
+[^ref-12]: [Wikipedia – Leisure Suit Larry Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Series history, Softporn Adventure origins, 10 million sales figure, Ken Williams quote
+
+
+[^ref-14]: [IMDB – Leisure Suit Larry: Magna Cum Laude](https://www.imdb.com/title/tt0421136/) – Cast and crew information, voice actors
+
+[^ref-15]: [Screen Rant – Why You Should Play Leisure Suit Larry Games](https://screenrant.com/leisure-suit-larry-worth-steam-removal-op-ed/) – Series historical significance, delisting concerns

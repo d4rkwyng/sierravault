@@ -219,3 +219,24 @@ Much of what is known about these cancelled projects comes from fan community ef
 
 
 ## 
+## References
+
+[^ref-1]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – comprehensive history of all KQ9 attempts, Roberta Williams concepts, marketing decisions, 2015 reboot context
+[^ref-2]: [King's Quest Omnipedia – King's Quest: Twins of Change](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Twins_of_Change) – Mark Seibert as director, Cindy Vanous quotes, gameplay details, transformation mechanics, character designs
+[^ref-3]: [Wikipedia – Silicon Knights](https://en.wikipedia.org/wiki/Silicon_Knights) – company history, Epic Games lawsuit, destruction of Unreal Engine 3 prototypes, bankruptcy
+[^ref-4]: [Wikipedia – Telltale Games](https://en.wikipedia.org/wiki/Telltale_Games) – company history, episodic adventure game format, The Walking Dead pivot
+[^ref-5]: [The Digital Antiquarian – King's Quest](https://www.filfre.net/tag/kings-quest/) – Sierra corporate history, Chainsaw Monday, adventure game industry decline
+[^ref-6]: [IGN – King's Quest: A Knight to Remember Release Date Announced](https://www.ign.com/articles/2015/06/30/kings-quest-a-knight-to-remember-release-date-announced) – 2015 reboot announcement
+[^ref-7]: [King's Quest Omnipedia – Roberta Williams](https://kingsquest.fandom.com/wiki/Roberta_Williams) – career history, departure from Sierra, non-compete agreement
+[^ref-8]: [Wikipedia – King's Quest (2015 video game)](https://en.wikipedia.org/wiki/King%27s_Quest_(2015_video_game)) – 2015 reboot, not considered KQ9
+[^ref-9]: [Adventure Gamers – King's Quest Coverage](https://adventuregamers.com/search/?q=King%27s+Quest+IX) – King's Quest franchise history
+[^ref-10]: [Game Informer – Sierra's New King's Quest Won't Be Point-and-Click](https://www.gameinformer.com/b/news/archive/2014/08/16/sierra-s-new-king-s-quest-won-t-be-a-point-and-click-adventure.aspx) – 2015 reboot genre shift
+[^ref-11]: [Polygon – King's Quest Review](https://www.polygon.com/2015/7/28/9035975/kings-quest-review-chapter-1-xbox-one-ps4-pc) – 2015 reboot reception
+[^ref-12]: [MobyGames – King's Quest Series](https://www.mobygames.com/game/group:58/king-s-quest-series/) – series catalog, release history
+[^ref-13]: [GameSpot – King's Quest Chapter 1 Review](https://www.gamespot.com/reviews/kings-quest-chapter-1-a-knight-to-remember-review/1900-6416206/) – 2015 reboot critical reception
+[^ref-14]: [Shacknews – King's Quest Chapter 5 Announcement](https://www.shacknews.com/article/97229/kings-quest-tells-the-final-chapter-of-grahams-story-on-october-25) – final episode of 2015 series
+[^ref-15]: [Metacritic – King's Quest Chapter 1](https://www.metacritic.com/game/kings-quest-chapter-1-a-knight-to-remember/) – aggregate scores for 2015 reboot
+[^ref-16]: [King's Quest Omnipedia – King's Quest (Telltale Games)](https://kingsquest.fandom.com/wiki/King%27s_Quest_(Telltale_Games)) – February 2011 announcement, Roberta Williams approached, Dave Grossman involvement, Steve Allison cancellation quote April 2013
+[^ref-17]: [GameSpot – King's Quest Rights Go From Telltale to Activision](https://www.gamespot.com/articles/kings-quest-rights-go-from-telltale-to-activision/1100-6406390/) – license reversion to Activision in 2013
+[^ref-18]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – original "King's Quest IX" title, Phoenix Online Studios, Vivendi negotiations, episode releases
+[^ref-19]: [Wikipedia – The Silver Lining (video game)](https://en.wikipedia.org/wiki/The_Silver_Lining_(video_game)) – development history, name change from KQ9, four episodes released

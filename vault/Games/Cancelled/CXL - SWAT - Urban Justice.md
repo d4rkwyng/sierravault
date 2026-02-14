@@ -202,3 +202,19 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 - **Cancelled, replaced by:** [[2005 - SWAT 4]]
 
 ## 
+## References
+
+[^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline
+[^ref-2]: [IGN – SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) – game setting, designer credits, feature descriptions
+[^ref-3]: [GameSpy – SWAT: Urban Justice](http://pc.gamespy.com/pc/swat-urban-justice/) – mission count, game modes, ESRB rating, gang warfare setting
+[^ref-4]: [Gamekult – S.W.A.T. Urban Justice](https://www.gamekult.com/jeux/s-w-a-t-urban-justice-17850.html) – development delays, "most offbeat episode" description
+[^ref-5]: [GameSpot – SWAT: Urban Justice](https://www.gamespot.com/games/swat-urban-justice/) – publisher info, promotional quotes, project lead
+[^ref-6]: [Unseen64 – SWAT: Urban Justice](https://www.unseen64.net/2010/09/13/swat-urban-justice-pc-cancelled/) – Vivendi spokesperson quote, cancellation confirmation, user rating
+[^ref-7]: [UOL Start – SWAT: Urban Justice Preview](https://www.uol.com.br/start/previas/2002/02/22/swat-urban-justice.htm) – Takedown 3D engine, technical specifications, weapons list, gang names, equipment details
+[^ref-8]: [Gamatomic – SWAT: Urban Justice](https://www.gamatomic.com/games/201/swat-urban-justice) – planned September 2002 release date
+[^ref-9]: [IGN – SWAT: Urban Justice Developer Diary #5](https://www.ign.com/articles/2002/05/01/swat-urban-justice-developer-diary-5) – Evan Buehler sound design details, weapon recording methodology
+[^ref-10]: [Wikipedia – SWAT: Global Strike Team](https://en.wikipedia.org/wiki/SWAT:_Global_Strike_Team) – console SWAT development, IGN review quote, genre context
+[^ref-11]: [HardForum – SWAT 4 Discussion](https://hardforum.com/threads/swat-4.890377/post-1027509257) – SWAT 4 GameSpot score, Urban Justice replacement
+[^ref-12]: [GameFAQs – SWAT 3 GOTY Edition Review](https://gamefaqs.gamespot.com/pc/920447-swat-3-tactical-game-of-the-year-edition/reviews/45452) – SWAT 3 version history
+[^ref-13]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – series overview, Urban Justice cancellation confirmation
+[^ref-14]: [Gamehope – S.W.A.T. Urban Justice](https://gamehope.com/pc/3209-s-w-a-t-urban-justice/) – developer and publisher confirmation

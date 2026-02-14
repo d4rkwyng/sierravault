@@ -129,3 +129,54 @@ The title sparked discussions about updating classic gaming franchises for moder
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Release year and series information
+[^ref-2]: [MobyGames Database Entry](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/) – - Developer and publisher information
+[^ref-3]: [TV Tropes Game Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarryWetDreamsDontDry) – - Time travel concept and setting
+[^ref-4]: [God is a Geek Review](https://godisageek.com/reviews/leisure-suit-larry-wet-dreams-dry-review/) – - Fish-out-of-water concept analysis
+[^ref-5]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry%3A_Wet_Dreams_Don%27t_Dry) – - Metacritic scores and platform information
+[^ref-6]: [Destructoid Review](https://www.destructoid.com/review-leisure-suit-larry-wet-dreams-don-t-dry-529872.phtml) – - Contemporary review analysis
+[^ref-7]: [IMDb Trivia](https://www.imdb.com/title/tt9175418/trivia/) – - Al Lowe involvement details
+[^ref-8]: [MobyGames Credits](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/credits/windows/) – - Design team credits
+[^ref-9]: [PC Gamer Article](https://www.pcgamer.com/watch-a-gameplay-trailer-for-leisure-suit-larry-wet-dreams-dont-dry/) – - Timber app mechanics
+[^ref-10]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-wet-dreams-dont-dry) – - Game structure overview
+[^ref-11]: [PlayStation Trophies Guide](https://www.playstationtrophies.org/game/leisure-suit-larry-wet-dreams-dont-dry-na/guide/) – - Point-and-click gameplay confirmation
+[^ref-12]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/239556-leisure-suit-larry-wet-dreams-dont-dry/reviews/169633) – - Interface and mechanics description
+[^ref-13]: [Screen Rant Review](https://screenrant.com/leisure-suit-larry-wet-dreams-dont-die-review/) – - Social media parody elements
+[^ref-14]: [Operation Rainfall PAX Coverage](https://operationrainfall.com/2018/09/03/pax-west-2018-leisure-suit-larry-wet-dreams-dont-dry/) – - Item collection mechanics
+[^ref-15]: [Gaming Respawn Review](https://gamingrespawn.com/reviews/43940/leisure-suit-larry-wet-dreams-dont-dry-review/) – - Visual presentation praise
+[^ref-16]: [Marooners' Rock Review](https://maroonersrock.com/leisure-suit-larry-wet-dreams-dont-dry-review-pc/) – - Location structure
+[^ref-17]: [Old School Gamer Review](https://www.oldschoolgamermagazine.com/leisure-suit-larry-wet-dreams-dont-dry-review-by-brad-feingold/) – - Gameplay duration estimate
+[^ref-18]: [Walkthrough King Guide](https://www.walkthroughking.com/text/leisuresuitlarry10.aspx) – - Achievement listings
+[^ref-19]: [Reddit Trophy Discussion](https://www.reddit.com/r/Trophies/comments/1nrynif/leisure_suit_larry_wet_dreams_dont_dry_one_of_the/) – - Technical limitations noted
+[^ref-20]: [Common Sense Media Review](https://www.commonsensemedia.org/game-reviews/leisure-suit-larry-wet-dreams-dont-dry) – - Puzzle difficulty criticism
+[^ref-21]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/ps4/261667-leisure-suit-larry-wet-dreams-dont-dry/faqs/79679/intro) – - Puzzle mechanics overview
+[^ref-22]: [The Cutting Room Floor](https://tcrf.net/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Eight-bit sequence documentation
+[^ref-23]: [Metacritic PC Reviews](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/critic-reviews/?platform=pc) – - Professional review scores compilation
+[^ref-24]: [Jump Dash Roll Review](https://www.jumpdashroll.com/article/leisure-suit-larry-wet-dreams-dont-dry-review) – - Development rights acquisition
+[^ref-25]: [PC Gamer Al Lowe Quote](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-wont-dry-appears-briefly-on-steam/) – - Creator's response to title
+[^ref-26]: [PCGamingWiki Technical Info](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Unity engine version
+[^ref-27]: [Gematsu Console Announcement](https://www.gematsu.com/2020/11/leisure-suit-larry-wet-dreams-dry-twice-coming-to-ps4-xbox-one-and-switch-in-spring-2021) – - Location count confirmation
+[^ref-28]: [MusicBrainz Database](https://musicbrainz.org/release/5ccc54cc-ac57-420e-8bdd-7f8daeecd8c3) – - Composer credits
+[^ref-29]: [KHInsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-wet-dreams-don-t-dry-soundtrack-2018) – - Soundtrack availability
+[^ref-30]: [GOG Database](https://www.gogdb.org/product/1859396546) – - Platform compatibility information
+[^ref-31]: [MobyGames Patches](https://www.mobygames.com/game/116522/leisure-suit-larry-wet-dreams-dont-dry/patches/) – - Post-release support documentation
+[^ref-32]: [Nintendo Everything Update News](https://nintendoeverything.com/leisure-suit-larry-wet-dreams-dont-dry-receives-happy-ending-update/) – - Happy Ending Update announcement
+[^ref-33]: [Hardcore Gamer Archive](https://web.archive.org/web/20181108121445/https://www.hardcoregamer.com/2018/11/07/leisure-suit-larry-wet-dreams-dont-dry-now-available/317396/) – - Franchise revival assessment
+[^ref-34]: [PC Gamer Sequel News](https://www.pcgamer.com/leisure-suit-larry-wet-dreams-dry-twice-delayed-to-october-23/) – - Sequel development
+[^ref-35]: [TV Tropes YMMV Page](https://tvtropes.org/pmwiki/pmwiki.php/YMMV/LeisureSuitLarryWetDreamsDontDry) – - Fan and critical consensus
+[^ref-36]: [GOG Store Page](https://www.gog.com/en/game/leisure_suit_larry_wet_dreams_dont_dry) – - Digital distribution availability
+[^ref-37]: [Steam Store Search](https://store.steampowered.com/search/?term=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Steam availability
+[^ref-38]: [TheXboxHub Console News](https://www.thexboxhub.com/wet-dreams-dont-dry-as-leisure-suit-larry-comes-to-xbox-one/) – - Console platform availability
+[^ref-39]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Abandonware availability check
+[^ref-40]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Adventure gaming coverage
+[^ref-41]: [The Digital Antiquarian Search](https://www.filfre.net/?s=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Gaming history coverage
+[^ref-42]: [GameFAQs Lance Guide](https://gamefaqs.gamespot.com/ps4/261667-leisure-suit-larry-wet-dreams-dont-dry/faqs/79679/lance) – - Character-specific walkthrough
+[^ref-43]: [GameFAQs Xbox Review](https://gamefaqs.gamespot.com/xboxone/300734-leisure-suit-larry-wet-dreams-dont-dry/reviews/173859) – - Xbox One version assessment
+[^ref-44]: [GOG Search Results](https://www.gog.com/en/games?query=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - GOG platform search
+[^ref-45]: [IMDb Main Page](https://www.imdb.com/title/tt9175418/) – - Basic production information
+[^ref-46]: [IMDb Search Results](https://www.imdb.com/find/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry&s=tt) – - Database search metadata
+[^ref-47]: [Indie Game Reviewer](https://indiegamereviewer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) – - Independent review perspective
+[^ref-48]: [Metacritic Main Page](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/) – - Aggregate review data
+[^ref-49]: [MobyGames Search](https://www.mobygames.com/search/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Database search results

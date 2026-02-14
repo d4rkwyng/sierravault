@@ -323,3 +323,47 @@ For its era, the bot AI represented a genuine technical achievement that would i
 - [[2004 - Half-Life 2|→ Next: Half-Life 2]]
 
 ## 
+## References
+
+[^ref-1]: [Counter-Strike Wiki – Counter-Strike: Condition Zero](https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero) – release dates, developers, sales data, technical features, version history
+[^ref-2]: [Wikipedia – Counter-Strike: Condition Zero](https://en.wikipedia.org/wiki/Counter-Strike%3A_Condition_Zero) – release dates, review scores, development history, critical reception
+[^ref-3]: [Liquipedia – Counter-Strike: Condition Zero](https://liquipedia.net/counterstrike/Counter-Strike:_Condition_Zero) – game components, development overview
+[^ref-4]: [ModDB – Counter-Strike: Condition Zero](https://www.moddb.com/games/counter-strike-condition-zero/downloads) – official game description
+[^ref-5]: [Counter-Strike Wiki – Development of Counter-Strike: Condition Zero](https://counterstrike.fandom.com/wiki/Development_of_Counter-Strike:_Condition_Zero) – complete development timeline, Gabe Newell quotes, Rogue Entertainment details
+[^ref-6]: [Counter-Strike Wiki – Gearbox Software Design](https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero_(Gearbox_Software_design)) – Gearbox development details, Randy Pitchford quotes, technical specifications, cut content
+[^ref-7]: [IGN – Counter-Strike: Condition Zero Interview](https://www.ign.com/articles/2002/07/03/counter-strike-condition-zero-interview) – Randy Pitchford interview, character development, gameplay details
+[^ref-8]: [GameSpot – Counter-Strike: Condition Zero Walkthrough](https://www.gamespot.com/articles/counter-strike-condition-zero-walkthrough/1100-6092053/) – Deleted Scenes description, mission details
+[^ref-9]: [GameFAQs – Deleted Scenes Walkthrough](https://gamefaqs.gamespot.com/pc/533806-counter-strike-condition-zero/faqs/32039) – mission walkthrough, Easter eggs
+[^ref-10]: [IMDB – User Reviews](https://www.imdb.com/title/tt0466736/reviews/) – Aum Shinrikyo mission reference
+[^ref-11]: [StrategyWiki – Controls](https://strategywiki.org/wiki/Counter-Strike:_Condition_Zero/Controls) – controls, shooting techniques, gameplay tips
+[^ref-27]: [Planet Half-Life Preview (Wayback Machine)](https://web.archive.org/web/20041204141858/http://www.planethalflife.com/features/articles/csczhandson/) – map count, development history, hands-on preview
+[^ref-13]: [HowLongToBeat – User Reviews](https://howlongtobeat.com/game/1955/reviews/latest/1) – difficulty descriptions, user experiences
+[^ref-14]: [StrategyWiki – Walkthrough](https://strategywiki.org/wiki/Counter-Strike:_Condition_Zero/Walkthrough) – map types, VIP mechanics, game modes
+[^ref-15]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/counter-strike-condition-zero/critic-reviews/?platform=pc) – publication scores, review excerpts
+[^ref-16]: [IGN – Counter-Strike: Condition Zero Review](https://www.ign.com/articles/2004/03/24/counter-strike-condition-zero-review) – Steve Butts review, AI issues, price criticism
+[^ref-17]: [GameFAQs – Reviews](https://gamefaqs.gamespot.com/pc/533806-counter-strike-condition-zero/reviews) – Game Informer and PC Gamer review scores and quotes
+[^ref-18]: [Eurogamer – Review](https://www.eurogamer.net/r-conditionzero-pc) – Tom Bramwell review, development criticism, Deleted Scenes issues
+[^ref-19]: [Game Watch (Japan)](https://game.watch.impress.co.jp/docs/20040326/cscz.htm) – Japanese release details, BRZRK review, Turtle Rock CEO quote, system requirements
+[^ref-20]: [Reddit – Patient Gamers Review](https://www.reddit.com/r/patientgamers/comments/erxwpz/a_review_of_a_forgotten_game_counterstrike/) – modern retrospective, development history analysis
+[^ref-21]: [Steam Store – Counter-Strike: Condition Zero](http://www.cs-conditionzero.com/item.php?id=33) – Steam reviews, system requirements, user scores
+[^ref-22]: [Consolidated Research Data](source_1) – user reviews, community feedback
+[^ref-23]: [IMDB – Counter-Strike: Condition Zero](https://www.imdb.com/title/tt0466736/) – user ratings, trivia, bugs
+[^ref-24]: [Metacritic – Counter-Strike: Condition Zero](https://www.metacritic.com/game/counter-strike-condition-zero/) – Metascore, user score, review breakdown
+[^ref-25]: [VoodooExtreme Archive (Wayback Machine)](https://web.archive.org/web/20010527020610/http://www.voodooextreme.com/comments.taf?postID=15167&_start=156) – Gabe Newell quotes on single-player vision
+[^ref-26]: [VoodooExtreme Archive – Rogue Cancellation](https://web.archive.org/web/20010527020715/http://www.voodooextreme.com/comments.taf?postid=15160) – Barrett Alexander quotes, developer commentary
+[^ref-28]: [GameSpot – Condition Zero Details](http://www.gamespot.com/articles/counter-strike-condition-zero-details/1100-2907463/) – Ritual Entertainment development, polygon increases
+[^ref-29]: [Liquipedia – Development History](https://liquipedia.net/counterstrike/Development_of_Counter-Strike:_Condition_Zero) – review scores, Deleted Scenes criticism, AI Director legacy, lawsuit timeline
+[^ref-30]: [PCGamingWiki – Counter-Strike: Condition Zero](https://www.pcgamingwiki.com/wiki/Counter-Strike:_Condition_Zero) – technical specifications, compatibility issues, version history
+[^ref-31]: [The Cutting Room Floor – Counter-Strike: Condition Zero](https://tcrf.net/Counter-Strike:_Condition_Zero) – cut content, unused assets, development artifacts
+[^ref-32]: [MobyGames – Patches](https://www.mobygames.com/game/13487/counter-strike-condition-zero/patches/) – patch version history
+[^ref-33]: [Steam News – Linux Release](http://store.steampowered.com/news/10086) – Linux port announcement, Steam platform milestone
+[^ref-34]: [Easter Egg Database](https://eeggs.com/items/49024.html) – "The castle was here" Easter egg locations and methods
+[^ref-36]: [Easter Egg Database – Deleted Scenes](https://eeggs.com/tree/9941.html) – Homer Simpson reference, Ritual's Ritual Easter egg
+[^ref-37]: [Easter Egg Database – Map Eggs](https://eeggs.com/items/49511.html) – Oil Rig lambda textures, Havana hidden room, 1.6 map Easter eggs
+[^ref-38]: [Counter-Strike Online Wiki](https://cso.fandom.com/wiki/Counter-Strike:_Condition_Zero) – bundling details, franchise context
+[^ref-39]: [GitHub – Condition Zero Coop](https://github.com/MuxaJlbl4/Condition-Zero-Coop) – cooperative mod features and limitations
+[^ref-40]: [ModDB – NEOTOKYO Music Mod](https://www.moddb.com/games/counter-strike-condition-zero/addons/neotokyo-music-mod-for-cscz) – community mod details
+[^ref-41]: [Speedrun.com – Counter-Strike: Condition Zero](https://www.speedrun.com/cscz) – current world records, speedrun statistics
+[^ref-42]: [Speedrun Wiki Archive](https://archive.speedrunwiki.com/Counter_Strike:_Condition_Zero) – historical speedrun records
+[^ref-43]: [Internet Archive – Prima Official eGuide](https://archive.org/details/Counter_Strike_Condition_Zero_Prima_Official_eGuide) – strategy guide metadata
+[^ref-44]: [Steam Community](https://steamcommunity.com/app/80/) – custom mission system documentation reference

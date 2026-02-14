@@ -264,3 +264,33 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster
+[^ref-2]: [Daily Downforce – 1994 NASCAR Racing: First Papyrus Game](https://dailydownforce.com/1994-nascar-racing-first-papyrus-game/) – historical significance, technical firsts
+[^ref-3]: [MobyGames – NASCAR Racing](https://www.mobygames.com/game/1571/nascar-racing/) – credits, sales data, awards, technical specs, user reviews
+[^ref-4]: [Wikipedia – NASCAR Racing (series)](https://en.wikipedia.org/wiki/NASCAR_Racing) – licensing details, game features, easter eggs
+[^ref-5]: [GameSpot – History of Papyrus Racing Games](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – David Kaemmer quotes, development history
+[^ref-6]: [PCGamingWiki – NASCAR Racing](https://www.pcgamingwiki.com/wiki/NASCAR_Racing) – technical specifications, system requirements, engine info
+[^ref-7]: [IGN – NASCAR Racing 4 Review](https://www.ign.com/articles/2001/03/10/nascar-racing-4-2) – camera views, interface details
+[^ref-8]: [Internet Archive – NASCAR Racing (MobyGames metadata)](https://archive.org/details/msdos_NASCAR_Racing_1994) – drafting mechanics, gameplay features
+[^ref-9]: [KHInsider – NASCAR Racing PS1 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/nascar-racing-ps1-gamerip-1996) – game modes, customization options
+[^ref-10]: [Internet Archive – NASCAR Racing PC/DOS Documentation](https://archive.org/details/NASCAR_RACING_PCDOS) – version history, technical issues, music credits
+[^ref-11]: [Abandonware DOS – NASCAR Racing](https://www.abandonwaredos.com/abandonware-game.php?abandonware=NASCAR+Racing&gid=979) – awards, user ratings
+[^ref-12]: [My Abandonware – NASCAR Racing](https://www.myabandonware.com/game/nascar-racing-28z) – user reviews, version info, technical notes
+[^ref-13]: [Top Gear – Remembering Classic Games: NASCAR Racing](https://www.topgear.com/car-news/gaming/remembering-classic-games-nascar-racing-1994) – historical retrospective
+[^ref-14]: [IMDB – NASCAR Racing](https://www.imdb.com/find/?q=NASCAR+Racing&s=tt) – user ratings
+[^ref-15]: [Lilura1 – Papyrus Design Group Racing Games](https://lilura1.blogspot.com/2022/06/Papyrus-Design-Group-Racing-Computer-Games.html) – development history, technical details
+[^ref-16]: [Grokipedia – NASCAR Racing](https://grokipedia.com/page/NASCAR_Racing) – development process, driver collaboration
+[^ref-17]: [The Cutting Room Floor – NASCAR Racing](https://tcrf.net/NASCAR_Racing) – regional differences, version variations
+[^ref-18]: [Sierra Help – NASCAR Racing Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html) – patch history
+[^ref-19]: [VOGONS Forums – NASCAR Racing](Reference from research data) – joystick calibration issues
+[^ref-20]: [MobyGames – Papyrus Design Group Company Profile](https://www.mobygames.com/company/6/papyrus-design-group-inc/) – sales figures
+[^ref-21]: [BoardGameGeek – NASCAR Racing 2 Press Release](https://boardgamegeek.com/wiki/page/thing:110379) – sales rankings
+[^ref-22]: [Traxion.gg – The Papyrus Design Group Story](https://traxion.gg/how-iracing-came-to-be-the-papyrus-design-group-story/) – Sierra acquisition, Ken Williams quote
+[^ref-23]: [PCGamingWiki – NASCAR Racing 2003 Season](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_2003_Season) – modding community
+[^ref-24]: [Reddit r/NR2003 – Getting Started Guide](https://www.reddit.com/r/Nr2003/comments/16y3ygr/read_this_first_the_rnr2003_getting_started_guide/) – community dedication
+[^ref-25]: [American Sim Racing – Hall of Fame](https://americansimracing.com/hall-of-fame/) – online league history
+[^ref-26]: [Reddit r/NASCAR – Game Manual Discovery](https://www.reddit.com/r/NASCAR/comments/3uncve/they_dont_make_them_likes_this_anymore_1994/) – manual page count
+[^ref-27]: [iRacing FAQ from 2006](Research data reference) – NR2003 code as foundation
+[^ref-28]: [NASCAR.com – NASCAR 25 Launch Article](https://www.nascar.com/news-media/2026/10/14/nascar-25s-launch-provides-full-circle-moment-for-creators-from-a-golden-age/) – Matt Lewis quote on series legacy

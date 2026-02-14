@@ -201,3 +201,19 @@ The game's combination of realistic physics with fantastical game modes anticipa
 - [[1999 - 3-D Ultra Lionel TrainTown|→ Next: 3-D Ultra Lionel TrainTown]]
 
 ## 
+## References
+
+[^ref-3]: [Wikipedia – Cool Pool](https://en.wikipedia.org/wiki/Cool_Pool) – developer, publisher, series information, server shutdown details
+[^ref-2]: [Sierra Chest – Cool Pool](https://sierrachest.com/index.php?a=games&id=112&fld=walkthrough) – developer credits, release date, technical specifications, server patch information
+[^ref-4]: [Old-Games.RU – 3D Ultra Cool Pool](https://www.old-games.ru/game/8288.html) – Russian review, development philosophy, sound effects trivia
+[^ref-5]: [PriceCharting – 3D Ultra Cool Pool](https://www.pricecharting.com/game/pc-games/3d-ultra-cool-pool) – release date, platform specifications, sales data, game description
+[^ref-6]: [Internet Archive – 3D Ultra Cool Pool 1.01](https://archive.org/details/3-d-ultra-cool-pool-1.01) – box description, game modes, system requirements, special features
+[^ref-7]: [IGN – Maximum Pool Review](https://www.ign.com/articles/2000/09/29/maximum-pool-2) – review score, gameplay analysis, comparison to Cool Pool
+[^ref-8]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/3d-ultra-cool-pool-sierra-1999-1clk-windows-10-8-7-vista-xp-install) – game description, 3D environment features
+[^ref-9]: [GOG.com – Cool Pool Wishlist](https://www.gog.com/dreamlist/game/3d-ultra-cool-pool-1999) – game description, game modes, user testimonial
+[^ref-10]: [Sierra Chest – Cool Pool Demos](https://sierrachest.com/index.php?a=games&id=112&title=cool-pool&fld=demos) – demo specifications, bundled products
+[^ref-11]: [Collection Chamber – 3D Ultra Cool Pool](https://collectionchamber.blogspot.com/p/3d-ultra-cool-pool.html) – game mode descriptions, technical details, emulation information
+[^ref-12]: [My Abandonware – 3D Ultra Cool Pool](https://www.myabandonware.com/game/3-d-ultra-cool-pool-hur) – user ratings, user review, version information, file sizes
+[^ref-13]: [GameSpot – 3D Ultra Cool Pool User Reviews](https://www.gamespot.com/3d-ultra-cool-pool/user-reviews/2200-37820/) – user review scores, gameplay impressions
+[^ref-14]: [Old-Games.RU Downloads](https://www.old-games.ru/game/download/8288.html) – patch version information
+[^ref-15]: [1UP Retrogaming](https://www.1upretrogaming.com/products/3d-ultra-cool-pool-pc-games) – retail pricing information

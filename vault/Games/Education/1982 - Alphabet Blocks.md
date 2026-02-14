@@ -239,3 +239,20 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 - [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] (1992) - Sequel featuring the same coach characters
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – credits, release dates, platform information, voice cast, player ratings
+[^ref-2]: [FundingUniverse – Sierra On-Line Company History](https://www.fundinguniverse.com/company-histories/sierra-on-line-inc-history/) – Bright Star Technology acquisition details
+[^ref-3]: [Metacritic – Alphabet Blocks](https://www.metacritic.com/game/alphabet-blocks/) – game description, developer attribution, release date
+[^ref-4]: [EliSoftware.org – Alphabet Blocks Technical Specifications](http://elisoftware.org/w/index.php/Alphabet_Blocks_(PC,_1.44MB_3_1/2%22_Disk)_Sierra_-_1992_USA,_Canada_Release) – system requirements, packaging details, MacUser Magazine quote, educational features
+[^ref-5]: [Sierra Chest – Alphabet Blocks](https://sierrachest.com/index.php?a=g&id=432) – detailed game description, series information, sequel details, animated surprises count
+[^ref-6]: [Giant Bomb – Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/3030-31583/) – user rating, basic game information
+[^ref-7]: [Sierra Gamers Forums – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – community discussion of Bright Star Technology contributions
+[^ref-8]: [MobyGames – Sierra Entertainment Company Profile](https://www.mobygames.com/company/17/sierra-entertainment-inc/) – Elon Gasper as principal author
+[^ref-9]: [Sierra Help – Patches & Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates.html) – reference to Alphabet Blocks updates
+[^ref-10]: [GOG.com Community Dreamlist – Sierra Discovery Alphabet Blocks](https://www.gog.com/dreamlist/game/sierra-discovery-alphabet-blocks) – preservation interest
+[^ref-11]: [Sierra Gamers – Alphabet Blocks Downloads](https://www.sierragamers.com/alphabet-blocks/) – fan preservation resources, manual, scans
+[^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers, packaging weight, publication date
+[^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context and related titles[^ref-14]: [Giant Bomb - Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/) - game wiki
+[^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - IGDB entry
+[^ref-16]: [MobyGames - Bright Star](https://www.mobygames.com/company/bright-star-technology/) - developer info

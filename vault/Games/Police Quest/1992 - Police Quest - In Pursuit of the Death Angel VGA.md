@@ -276,3 +276,46 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 - [[1993 - Police Quest - Open Season|→ Next: Police Quest - Open Season]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Police Quest: In Pursuit of the Death Angel (VGA)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – release info, credits, ratings, Gazette trivia
+[^ref-2]: [IMDB – Police Quest (1992)](https://www.imdb.com/title/tt0289400/) – ratings, SCI technology details, character replacement trivia
+[^ref-3]: [ClassicReload – Police Quest](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) – procedural gameplay description, penalty system
+[^ref-4]: [Gamer Walkthroughs – Police Quest](https://gamerwalkthroughs.com/police-quest-pursuit-of-the-death-angel/) – plot summary, real-world procedures
+[^ref-5]: [Alex Bevilacqua Blog – Police Quest 1](https://alexbevi.com/blog/2022/03/15/police-quest-1/) – training tool use, procedural requirements
+[^ref-6]: [Adventure Classic Gaming – Review](http://www.adventureclassicgaming.com/index.php/site/reviews/67/) – Dargan quote, technical comparison, system specs
+[^ref-7]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – remake assessment, cut content, non-canonical status
+[^ref-8]: [My Abandonware – Police Quest VGA](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) – designer credits
+[^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
+[^ref-10]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1) – career progression, platform availability
+[^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
+[^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
+[^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements
+[^ref-14]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/police-quest-in-pursuit-of-the-death-angel) – Death Angel investigation
+[^ref-15]: [GameFAQs – Walkthrough](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel/faqs/19345) – climax details
+[^ref-16]: [GOG – Police Quest Collection](https://www.gog.com/game/police_quest_1_2_3_4) – commercial availability, collection info
+[^ref-17]: [MobyGames – Original Game Entry](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – easter eggs, driving view, original credits
+[^ref-18]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1243) – driving difficulty quotes, parsing problems
+[^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – manual detail, driving controls, poker requirement
+[^ref-20]: [IMDB – Original Game Description](https://www.imdb.com/title/tt0289399/) – patrol duties, procedural requirements
+[^ref-21]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1:+In+Pursuit+of+the+Death+Angel&gid=1253) – Games Machine UK review quote, multiple solutions
+[^ref-22]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – development history, sales data, contemporary reviews, source code preservation
+[^ref-23]: [Antic Magazine Vol. 7 No. 3](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Teverbaugh review quotes
+[^ref-24]: [Police Quest Fandom – PQ2](https://policequest.fandom.com/wiki/Police_Quest_II:_The_Vengeance_(MS-DOS)) – Atari ST User review quote
+[^ref-25]: [Choicest Games – Review](https://www.choicestgames.com/2019/08/police-quest-in-pursuit-of-death-angel.html) – contemporary review criticism, Allegan PD training use
+[^ref-26]: [Just Games Retro – Police Quest 1](https://www.justgamesretro.com/dos/police-quest-1) – 67% score, retrospective analysis
+[^ref-27]: [Nostalgia Trigger – Retrospective](https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – difficulty quote, Ken Williams recruitment
+[^ref-28]: [Games Nostalgia – Police Quest](https://gamesnostalgia.com/game/police-quest-in-pursuit-of-the-death-angel) – aggregate score, version info
+[^ref-29]: [DOS Days – Police Quest](https://www.dosdays.co.uk/topics/Games/game_pq1.php) – driving deaths, Oregon Trail comparison, historical significance
+[^ref-30]: [Sierra Chest – Police Quest](https://www.sierrachest.com/index.php?a=games&id=20) – no copy protection, profanity, shortcuts
+[^ref-31]: [Adventure Gamer Blog – PQ4 Analysis](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – Jim Walls departure quote
+[^ref-32]: [ScummVM Wiki – Police Quest 1](https://wiki.scummvm.org/index.php/Police_Quest:_In_Pursuit_of_the_Death_Angel) – AGI version history, technical specs
+[^ref-33]: [GOG Database – Police Quest](https://www.gogdb.org/product/1207661263) – GOG version info
+[^ref-34]: [Easter Egg Database – Police Quest](https://eeggs.com/items/46877.html) – Get Naked easter egg, traffic stop easter egg
+[^ref-35]: [Police Quest Fandom – PQ3](https://policequest.fandom.com/wiki/Police_Quest_III:_The_Kindred_VGA) – voice cast credits
+[^ref-36]: [The Digital Antiquarian – Police Quest](https://www.filfre.net/2018/11/police-quest/) – Rich DeBaun training tool quote
+[^ref-37]: [MobyGames – User Review by Andy Roark](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/user-review/2470100/) – career influence quote, accuracy assessment
+[^ref-38]: [GOG Dreamlist – Police Quest](https://www.gog.com/dreamlist/game/police-quest-in-pursuit-of-the-death-angel-original-1987-version) – GOG release confirmation
+[^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning
+[^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
+[^ref-41]: [Hardcore Gaming 101 – Police Quest](http://www.hardcoregaming101.net/police-quest/) – stepping behind badge quote

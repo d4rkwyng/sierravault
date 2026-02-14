@@ -214,3 +214,20 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 - [[1991 - Hoyle Official Book of Games - Volume 3|→ Next: Hoyle Official Book of Games - Volume 3]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, platforms, ratings, game content, development team
+[^ref-2]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – game count, solitaire focus, platform releases, differences from Volume 1
+[^ref-3]: [Medium – The History of Hoyle Slots Video and Poker Game Creation & Development](https://medium.com/@mpmgcllc/the-history-of-hoyle-slots-video-and-poker-game-creation-development-0bff30277a87) – Hoyle brand history, Edmond Hoyle origin, series continuation
+[^ref-4]: [PCGamingWiki – Hoyle's Official Book of Games: Volume 2](https://www.pcgamingwiki.com/wiki/Hoyle%27s_Official_Book_of_Games:_Volume_2) – SCI0 engine, system requirements, video modes, ScummVM support, release dates
+[^ref-5]: [Old Games Download – Hoyle Official Book of Games Volume 2: Solitaire](https://oldgamesdownload.com/hoyle-official-book-of-games-volume-2-solitaire/) – file sizes, platform availability
+[^ref-6]: [ClassicReload – Hoyle Official Book of Games Volume 2](https://classicreload.com/hoyle-official-book-of-games-volume-2.html) – DOS platform, 1990 release
+[^ref-7]: [AbeBooks – Hoyle's Rules of Games](https://www.abebooks.com/9780451157386/Hoyles-Rules-Games-Play-Hoyle-0451157389/plp) – Hoyle brand publishing history, 28 solitaire varieties mention
+[^ref-8]: [ScummVM Wiki – Hoyle's Official Book of Games series](https://wiki.scummvm.org/index.php/Hoyle%27s_Official_Book_of_Games_series) – engine compatibility, series overview
+[^ref-9]: [Internet Archive – Hoyle Official Book of Games Volume 2](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_2_1990) – preservation copy, DOS version
+[^ref-10]: [MyAbandonware – Hoyle Official Book of Games Volume 2](https://www.myabandonware.com/game/hoyle-official-book-of-games-volume-2-16v) – download, platform list, user ratings
+[^ref-11]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
+[^ref-12]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – series connections
+[^ref-13]: [UVList – Hoyle Official Book of Games Volume 2](https://www.uvlist.net/game-48836-Hoyle+Official+Book+of+Games+Volume+2) – release information, technical data
+[^ref-14]: [GameFAQs – Hoyle Official Book of Games Volume 2](https://gamefaqs.gamespot.com/pc/575047-hoyle-official-book-of-games-volume-2-solitaire) – platform data, user interest
+[^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – series documentation, packaging

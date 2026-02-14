@@ -207,3 +207,15 @@ The game's approach—offering both consumption and creation modes—anticipated
 - [[1995 - Playtoons 4 - The Mandarine Prince|→ Next: Playtoons 4 - The Mandarine Prince]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Playtoons 3: The Secret of the Castle](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – developer, publisher, composers, voice cast, platforms, rating
+[^ref-2]: [GameFAQs – Playtoons 3: The Secret of the Castle](https://gamefaqs.gamespot.com/pc/591380-playtoons-3-the-secret-of-the-castle) – developer, publisher, release year, platforms
+[^ref-3]: [ELI Software Encyclopedia – Playtoons 3](https://elisoftware.org/w/index.php?title=Playtoons_3_Secret_Of_The_Castle_(PC_and_Mac,_CD-ROM)_Sierra_-_1996_USA,_Canada_Release) – technical specifications, features, system requirements, product info
+[^ref-4]: [ScummVM Wiki – Playtoons 3](https://wiki.scummvm.org/index.php/Playtoons_3:_The_Secret_of_the_Castle) – engine compatibility, technical details
+[^ref-5]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, developer, artist, genres, educational focus
+[^ref-6]: [Macintosh Repository – Playtoons 3](https://www.macintoshrepository.org/4813-playtoons-3-the-secret-of-the-castle) – file sizes, compatibility, version information, story details
+[^ref-7]: [The Sierra Chest – Playtoons 3](https://www.sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=general) – engine, trivia, construction kit features, add-ons
+[^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release dates, user ratings, download information
+[^ref-9]: [UVList – Playtoons 3](https://www.uvlist.net/game-37959-Playtoons+3%3A+The+Secret+of+the+Castle) – game database entry, platform information
+[^ref-10]: [The Sierra Chest – Box Information](https://sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=box) – packaging details, included content

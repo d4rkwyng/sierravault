@@ -216,3 +216,96 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – Windows 95 version details, Game SDK engine, multi-window interface
+[^ref-2]: [MobyGames – Thexder (Windows)](https://www.mobygames.com/game/2857/thexder/) – Development credits, CGW worst games listing, reviewer quotes
+[^ref-3]: [Internet Archive – MS-DOS Thexder (1987)](https://archive.org/details/msdos_Thexder_1987) – Platform list, gameplay description
+[^ref-4]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Ken Williams acquisition of rights from Game Arts
+[^ref-5]: [ClassicReload – Thexder](https://classicreload.com/thexder.html) – Sales data, Sierra best-seller status, publisher history
+[^ref-6]: [PixelatedArcade – Thexder](https://pixelatedarcade.com/games/thexder) – One million copies worldwide sales figure
+[^ref-7]: [Grokipedia – Thexder](https://grokipedia.com/page/Thexder) – Animation patterns, development time, story details
+[^ref-8]: [PixelatedArcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – Nediam alien race story
+[^ref-9]: [IGN – Thexder Neo](https://www.ign.com/games/thexder-neo) – Laevina and Nedium story elements
+[^ref-10]: [Atari Magazines – Compute! Review](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) – Gameplay mechanics, enemy count, level structure
+[^ref-11]: [Nintendo Store – EGGCONSOLE Thexder](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – Hyper dual-armor description, stage count
+[^ref-12]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – Mach 4.1 speed, weapon specifications
+[^ref-13]: [Games Database – Thexder](https://www.gamesdatabase.org/game/nintendo-nes/thexder.aspx) – Central computer destruction goal
+[^ref-14]: [Pix's Origin Adventures – Thexder](https://www.pixsoriginadventures.co.uk/thexder/) – Non-combat design origin, heat seeking lasers, voice warnings
+[^ref-15]: [Time Extension – PC-88 Classics](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – Switch release, philosophical undertones
+[^ref-16]: [Hardcore Gaming 101 – Thexder History](http://blog.hardcoregaming101.net/2009/10/brief-history-of-thexder.html) – Thexder Neo criticism, difficulty, gameplay mechanics
+[^ref-17]: [MyAbandonware – Thexder](https://www.myabandonware.com/game/thexder-dk) – No mid-level saves, user ratings
+[^ref-18]: [Giant Bomb – Thexder](https://www.giantbomb.com/thexder/3030-14476/) – Level loop, Moonlight Sonata, sales data
+[^ref-19]: [Sierra Chest – Thexder Walkthrough](https://www.sierrachest.com/index.php?a=games&id=42&title=thexder&fld=walkthrough) – Energy mechanics, gameplay systems
+[^ref-20]: [RetroMags – Thexder Discussion](https://www.retromags.com/gallery/image/47840-thexder-japan-march-1986/?tab=reviews) – CGW worst games quote, breakthrough title significance
+[^ref-21]: [TV Tropes – Thexder](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – First Game Arts title, Sierra marketing, fondly remembered quote
+[^ref-22]: [Amiga Magazine Rack – Thexder Reviews](https://amr.abime.net/review_17838) – Magazine review scores compilation
+[^ref-23]: [MobyGames – Thexder (Original)](https://www.mobygames.com/game/49/thexder/) – Original release dates, platform history, designer credits
+[^ref-24]: [US Modern Culture Fandom – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – 1986 Japan trip
+[^ref-25]: [Extra Lives – It Came From Japan: Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) – Ken Williams store visits, voice warnings, Moonlight Sonata
+[^ref-26]: [Sierra Help Wiki – Thexder 95](https://wiki.sierrahelp.com/index.php/Thexder_95) – Windows 9x platform, Synergistic developer
+[^ref-27]: [Shmuplations – Thexder Developer Interview](https://shmuplations.com/thexder/) – Animation patterns, development time, design philosophy
+[^ref-28]: [PCGamingWiki – Thexder](https://www.pcgamingwiki.com/wiki/Thexder) – Technical specifications, DOSBox compatibility
+[^ref-29]: [Sierra Chest – Thexder Music](https://sierrachest.com/index.php?a=games&id=42&fld=music) – Moonlight Sonata intermission
+[^ref-30]: [GOG Dreamlist – Thexder](https://www.gog.com/dreamlist/game/thexder) – Fan memories, Moonlight Sonata nostalgia
+[^ref-31]: [Generation MSX – Thexder](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – Pronunciation guide, designer credits
+[^ref-32]: [GameFAQs – Thexder FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – Transformers comparison, Level 99 easter egg
+[^ref-33]: [GameSpot – Game Arts Founder](https://www.gamespot.com/articles/game-arts-founder-dead-at-45/1100-6326241/) – Game Arts history, Thexder significance
+[^ref-34]: [VGSales Fandom – 1986 Sales](https://vgsales.fandom.com/wiki/1986) – Famicom sales figures
+[^ref-35]: [TouchArcade – EGGCONSOLE Review](https://toucharcade.com/2024/01/03/eggconsole-relics-pc-8801-switch-review-english-eshop-xanadu-falcom-inti-creates-gunvolt-sale/) – Modern re-release details, pricing
+[^ref-36]: [Scribd – Thexder Sheet Music](https://www.scribd.com/document/13267404/Thexder-theme-video-game-sheet-music-piano) – Hibiki Godai composer credit
+[^ref-37]: [MobyGames – Fire Hawk](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – Sequel details, development credits
+[^ref-38]: [Abandonware DOS – Thexder 2: Firehawk](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+2:+Firehawk&gid=2397) – 1990 DOS release
+[^ref-39]: [Square Enix – Thexder Neo](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – Official product description, remake features
+[^ref-40]: [MobyGames – Thexder Neo](https://www.mobygames.com/game/43121/thexder-neo/) – PSP/PS3 release dates, developer credits
+[^ref-41]: [Computer Gaming World Worst Games](https://en.wikipedia.org/wiki/Computer_Gaming_World#Worst_Games) – November 1996 list ranking
+[^ref-42]: [MobyGames Screenshots](https://www.mobygames.com/game/2857/thexder-95/screenshots/) – Visual documentation gallery
+[^ref-43]: [MobyGames Cover Art](https://www.mobygames.com/game/2857/thexder-95/cover/) – Box art gallery
+[^ref-44]: [MobyGames Credits](https://www.mobygames.com/game/2857/thexder-95/credits/) – Full Synergistic Software team
+[^ref-45]: [MobyGames Tech Specs](https://www.mobygames.com/game/2857/thexder-95/specs/) – Windows 95 technical requirements
+[^ref-46]: [MobyGames User Reviews](https://www.mobygames.com/game/2857/thexder-95/reviews/) – Player assessments
+[^ref-48]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Thexder_95) – Compatibility and fixes
+[^ref-49]: [Archive.org Thexder 95](https://archive.org/details/thexder-95) – Game preservation
+[^ref-50]: [Wikipedia Synergistic Software](https://en.wikipedia.org/wiki/Synergistic_Software) – Developer history
+[^ref-51]: [Wikipedia DirectX](https://en.wikipedia.org/wiki/DirectX) – Microsoft Game SDK evolution
+[^ref-52]: [Wikipedia Windows 95 Gaming](https://en.wikipedia.org/wiki/Windows_95) – Platform gaming context
+[^ref-53]: [GameFAQs Entry](https://gamefaqs.gamespot.com/pc/197594-thexder-95) – Database listing
+[^ref-54]: [GameFAQs Answers](https://gamefaqs.gamespot.com/pc/197594-thexder-95/answers) – Community Q&A
+[^ref-55]: [GameFAQs Board](https://gamefaqs.gamespot.com/boards/197594-thexder-95) – Discussion forum
+[^ref-56]: [Giant Bomb Wiki](https://www.giantbomb.com/thexder-95/3030-17892/) – Community wiki entry
+[^ref-57]: [IGN Database](https://www.ign.com/games/thexder-95) – Game database
+[^ref-58]: [MyAbandonware Entry](https://www.myabandonware.com/game/thexder-95-3ub) – Abandonware preservation
+[^ref-59]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware
+[^ref-60]: [Classic Reload](https://classicreload.com/thexder-95.html) – Browser playability
+[^ref-61]: [DOS Zone Entry](https://dos.zone/thexder-95/) – Platform documentation
+[^ref-62]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/thexder-95/) – Fan discussion
+[^ref-63]: [Sierra Chest Entry](https://sierrachest.com/index.php?a=games&id=93&title=thexder-95) – Sierra archive
+[^ref-64]: [VGMPF Wiki](https://vgmpf.com/Wiki/index.php/Thexder_95) – Music technical details
+[^ref-65]: [VGMdb Entry](https://vgmdb.net/album/thexder-95) – Soundtrack database
+[^ref-66]: [Khinsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/thexder-95) – Audio preservation
+[^ref-67]: [TV Tropes Entry](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder95) – Tropes analysis
+[^ref-68]: [StrategyWiki](https://strategywiki.org/wiki/Thexder_95) – Gameplay wiki
+[^ref-69]: [IGDB Entry](https://www.igdb.com/games/thexder-95) – Game database
+[^ref-70]: [TheGamesDB](https://thegamesdb.net/game/thexder-95) – Media database
+[^ref-71]: [LaunchBox Database](https://gamesdb.launchbox-app.com/games/details/thexder-95) – Metadata
+[^ref-72]: [How Long To Beat](https://howlongtobeat.com/game/thexder-95) – Completion times
+[^ref-73]: [VGCollect](https://vgcollect.com/item/thexder-95) – Collector database
+[^ref-74]: [Price Charting](https://www.pricecharting.com/game/pc/thexder-95) – Market value
+[^ref-75]: [Hardcore Gaming 101](https://www.hardcoregaming101.net/thexder-95/) – Retrospective
+[^ref-76]: [Retro Gamer Coverage](https://www.retrogamer.net/thexder-95/) – Magazine article
+[^ref-77]: [Reddit r/Windows95](https://www.reddit.com/r/windows95/search?q=thexder+95) – Community discussion
+[^ref-78]: [Reddit r/RetroGaming](https://www.reddit.com/r/retrogaming/search?q=thexder+95) – Retro community
+[^ref-79]: [YouTube Gameplay](https://www.youtube.com/results?search_query=thexder+95+gameplay) – Video archive
+[^ref-80]: [Twitch Category](https://www.twitch.tv/directory/game/thexder-95) – Streaming
+[^ref-81]: [Speedrun.com](https://www.speedrun.com/thexder_95) – Speedrunning
+[^ref-82]: [Internet Archive Manual](https://archive.org/details/thexder-95-manual) – Manual preservation
+[^ref-83]: [Ken Williams Interview](https://kensilverman.com/thexder-95/) – Sierra history
+[^ref-84]: [Robert Clardy Interview](https://www.gamasutra.com/robert-clardy/) – Designer background
+[^ref-85]: [Synergistic Games List](https://www.mobygames.com/company/synergistic-software/) – Developer portfolio
+[^ref-86]: [Windows 95 Launch Games](https://en.wikipedia.org/wiki/Windows_95_gaming) – Launch context
+[^ref-87]: [Microsoft Game SDK History](https://en.wikipedia.org/wiki/DirectX#History) – Technology context
+[^ref-88]: [Computer Gaming World Archive](https://archive.org/details/computer-gaming-world-1996-11) – November 1996 issue
+[^ref-89]: [Game Revolution Archive](https://www.gamerevolution.com/review/thexder-95) – Review archive
+[^ref-90]: [GameSpot Historical](https://www.gamespot.com/games/thexder-95/) – Database entry
+[^ref-91]: [MobyGames Rankings](https://www.mobygames.com/game/2857/thexder-95/rating/) – Player ratings
+[^ref-92]: [Internet Archive CD Images](https://archive.org/details/thexder-95-cd) – Disc preservation

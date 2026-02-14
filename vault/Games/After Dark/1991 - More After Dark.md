@@ -214,3 +214,25 @@ While More After Dark never received the critical attention afforded to traditio
 - [[1998 - After Dark Games|→ Next: After Dark Games]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – After Dark 2](https://archive.org/details/AfterDark2) – description of After Dark as software that kicked off screensaver craze, version 2.0 information
+[^ref-2]: [Internet Archive – After Dark: More After Dark](https://archive.org/details/AfterDark_-_MoreAfterDark) – installation requirements, 26 modules, Windows 3.x compatibility
+[^ref-3]: [Macintosh Repository – After Dark & More After Dark](https://www.macintoshrepository.org/67-after-dark-more-after-dark) – Lunatic Fringe description, David Tointon review, technical specifications
+[^ref-4]: [Internet Archive – After Dark 4.0 Deluxe](https://archive.org/details/after-dark-4.0-deluxe) – third-party modules, licensed editions, Windows compatibility
+[^ref-5]: [MobyGames – More After Dark: Volume 1](https://mobygames.com/game/more-after-dark-volume-1) – release date, developer, genre, technical specs, no Volume 2 released
+[^ref-6]: [HandWiki – Software: After Dark](https://handwiki.org/wiki/Software:After_Dark) – designers, programming languages, version history, Bad Dog TV series
+[^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, file sizes, user rating
+[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – J.C. Herz quote, Computer Gaming World review, release dates
+[^ref-9]: [Internet Archive – After Dark (Windows)](https://archive.org/details/AFTERDARK_WIN) – intertextual references between modules, licensed editions
+[^ref-10]: [Low End Mac – On Mighty Toaster Wings: More After Dark History](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) – Patrick Beard quotes on development and creative vision
+[^ref-11]: [MobyGames – After Dark Games](https://mobygames.com/game/after-dark-games) – Sierra publication, critics score, composer credit
+[^ref-12]: [AbandonwareDOS](https://www.abandonwaredos.com/search.php?search=More+After+Dark%3A+Volume+1) – 1993 release reference
+[^ref-13]: [MobyGames – After Dark Series](https://www.mobygames.com/game/77708/after-dark-series/) – 2003 Sierra compilation information
+[^ref-14]: [Sierra-Dynamix News Magazine (Summer 1991)](https://archive.org/stream/Sierra-Dynamix_News_Magazine_Volume_4_Number_2_Summer_1991_1991_Sierra_On-Line_US/Sierra-Dynamix_News_Magazine_Volume_4_Number_2_Summer_1991_1991_Sierra_On-Line_US_djvu.txt) – Ken Williams quote on technology and retail
+[^ref-15]: [Giant Bomb - After Dark](https://www.giantbomb.com/after-dark/3030-39067/) – wiki entry and game database
+[^ref-16]: [IGDB - More After Dark](https://www.igdb.com/games/more-after-dark) – game database entry
+[^ref-17]: [GameFAQs - After Dark](https://gamefaqs.gamespot.com/mac/570046-after-dark) – platform and release information
+[^ref-18]: [UVLIST - More After Dark](https://www.uvlist.net/game-156831-More+After+Dark) – universal video game list entry
+[^ref-19]: [Old-Games.RU - After Dark](https://www.old-games.ru/) – Eastern European gaming archive
+[^ref-20]: [PCGamingWiki - After Dark](https://www.pcgamingwiki.com/wiki/After_Dark) – technical compatibility information

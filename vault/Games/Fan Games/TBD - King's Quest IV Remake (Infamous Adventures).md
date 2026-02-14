@@ -161,3 +161,19 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 - **Previous IA Remake:** [[2006 - King's Quest III Remake (Infamous Adventures)]]
 
 ## 
+## References
+
+[^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments
+[^ref-2]: [Infamous Quests Patreon – Working on Stuff](https://www.patreon.com/infamousquests) – September 2025 post mentioning "infamous adventures discord has been going crazy crazy lately" with renewed team activity
+[^ref-3]: [Infamous Adventures itch.io](https://infamousadventures.itch.io/) – Previous remakes including King's Quest III (2006, 4.9/5) and Space Quest II (2011, 4.8/5), download pages, user ratings
+[^ref-4]: [Hardcore Gaming 101 – King's Quest IV](http://www.hardcoregaming101.net/kings-quest-iv-the-perils-of-rosella/) – Original game analysis, whale tongue section, hidden bridle, fan remake status, designer Roberta Williams, SCI/AGI versions
+[^ref-5]: [Adventure Game Studio – King's Quest IV Retold](https://www.adventuregamestudio.co.uk/play/game/2533/) – DrSlash's 2021 remake, AGS Awards 2021 nomination for Best Game Created with AGS, 9,051 downloads, community reviews
+[^ref-6]: [Adventure Game Studio – King's Quest IV Retold VGA + Talkie](https://www.adventuregamestudio.co.uk/play/game/2907/) – Magic Quest Entertainment's 2025 patch combining VGA graphics and voice acting, multiple version options, credits citing multiple fan remake projects
+[^ref-7]: [VOGONS Forums – Space Quest II Discussion](https://www.vogons.org/viewtopic.php?t=22863) – Community comparisons noting IA remakes "stayed quite close to the original" versus AGDI's approach
+[^ref-8]: [MobyGames – King's Quest IV: The Perils of Rosella](https://www.mobygames.com/game/133/kings-quest-iv-the-perils-of-rosella/) – Original 1988 game details, user ratings (3.4/5), platform information, credits
+[^ref-10]: [GOG – King's Quest 4+5+6](https://www.gog.com/game/kings_quest_4_5_6) – Original game available for purchase, user reviews praising day/night cycle and puzzles, first female protagonist context
+[^ref-11]: [Infamous Adventures Official Site](http://www.infamous-adventures.com/) – Redirects to itch.io, team description as "Makers of Sierra Remakes including King's Quest III and Space Quest II"
+[^ref-12]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV:_The_Perils_of_Rosella) – Original 1988 game history, SCI engine debut, Roberta Williams designer, day/night cycle innovation
+[^ref-13]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Original KQ4 available in collection format
+[^ref-14]: [Sierra Wiki – King's Quest IV](https://sierrawiki.fandom.com/wiki/King%27s_Quest_IV) – Fan wiki documentation of original game, plot details, technical information
+[^ref-15]: [Infamous Quests Twitter](https://twitter.com/IQ_Adventures) – Official social media presence, development updates

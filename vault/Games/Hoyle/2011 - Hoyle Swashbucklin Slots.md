@@ -214,3 +214,28 @@ The game's limited documentation and review coverage reflects the challenge face
 - [[2015 - Hoyle Official Card Games Collection|→ Next: Hoyle Official Card Games Collection]]
 
 ## 
+## References
+
+[^ref-1]: [GameFAQs – Hoyle Swashbucklin' Slots](https://gamefaqs.gamespot.com/pc/625642-hoyle-swashbucklin-slots) – release date, developer, publisher, slot game list, user ratings, genre, franchise information
+[^ref-2]: [Metacritic – Hoyle Swashbucklin' Slots Details](https://www.metacritic.com/game/hoyle-swashbucklin-slots/details/) – release dates, platforms, slot game list, promotional descriptions
+[^ref-3]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer identification, 2010 spin-off version reference
+[^ref-4]: [Newegg – Hoyle Swashbucklin' Slots Product Listing](https://www.newegg.com/encore-software-hoyle-swashbucklin-slots/p/N82E16832196704) – game features, slot machine counts, ESRB rating, themes, product specifications
+[^ref-5]: [Metacritic – Hoyle Swashbucklin' Slots iOS](https://www.metacritic.com/game/hoyle-swashbucklin-slots/) – iOS release date, platforms, promotional text, sale pricing
+[^ref-6]: [MobyGames – Hoyle Swashbucklin' Slots](https://www.mobygames.com/game/85611/hoyle-swashbucklin-slots/) – Game database entry, technical specifications
+[^ref-7]: [JustAnswer – Hoyle Swashbucklin' Slots Technical Support](https://www.justanswer.com/computer/5v04z-need-install-hoyle-swashbucklin-slot-game-please-advise.html) – CD-ROM media format, installation issues, technical problems
+
+[^ref-8]: [Giant Bomb – Hoyle Swashbucklin' Slots](https://www.giantbomb.com/hoyle-swashbucklin-slots/3030-35456/) – Game database entry
+
+[^ref-9]: [IGDB – Hoyle Swashbucklin' Slots](https://www.igdb.com/games/hoyle-swashbucklin-slots) – Game database listing
+
+[^ref-10]: [GamePressure – Hoyle Swashbucklin' Slots](https://www.gamepressure.com/games/hoyle-swashbucklin-slots/zba66f) – Game information
+
+[^ref-11]: [Mac Game Store – Hoyle Products](https://www.macgamestore.com/search/?q=hoyle) – Mac distribution information
+
+[^ref-12]: [Bonanza – Hoyle Swashbucklin' Slots](https://www.bonanza.com/items/search?q%5Bfilter_string%5D=hoyle+swashbucklin) – Retail availability
+
+[^ref-13]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Hoyle_Casino) – Technical compatibility, series information
+
+[^ref-14]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Hoyle franchise history
+
+[^ref-15]: [Encore Software Official](https://www.encore.com/) – Publisher information

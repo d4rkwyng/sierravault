@@ -198,3 +198,37 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Backgammon & Cribbage](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/) – credits, technical specifications, ratings, game description, platform information
+
+[^ref-2]: [GameFAQs – Hoyle Backgammon and Cribbage Data](https://gamefaqs.gamespot.com/pc/565378-hoyle-backgammon-and-cribbage/data) – release dates, platforms, regional releases, developer/publisher information
+
+[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, developers, publishers, Edmond Hoyle connection, Brown & Bigelow license
+
+[^ref-4]: [AGDB – Sierra Entertainment](https://agdb.net.ru/company/sierra.php) – corporate history, Black Monday layoffs, CUC International acquisition, Cendant scandal
+
+[^ref-5]: [GameFAQs – Hoyle Backgammon and Cribbage](https://gamefaqs.gamespot.com/pc/565378-hoyle-backgammon-and-cribbage) – user ratings, platform information
+
+[^ref-6]: [Sierra Chest – Hoyle Backgammon & Cribbage](https://sierrachest.com/index.php?a=games&id=819&title=hoyle-backgammon-cribbage&fld=general) – release date, platform information
+
+[^ref-7]: [German Wikipedia – Sierra Entertainment](https://de.wikipedia.org/wiki/Sierra_Entertainment) – corporate history, transitions, Vivendi ownership
+
+[^ref-8]: [Squakenet – Hoyle's Backgammon & Cribbage](https://www.squakenet.com/game/hoyle-s-backgammon-cribbage/) – genre classification, related games
+
+[^ref-9]: [Giant Bomb – Hoyle's Backgammon & Cribbage](https://giantbomb.com/wiki/Games/Hoyles_Backgammon_And_Cribbage) – release date, platforms, developer, publisher, genre
+
+[^ref-10]: [Academic Kids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Sierra company information, Hoyle series mention
+
+[^ref-11]: [Amantes Retro – Sierra Entertainment Catalog](https://amantes-retro.webnode.page/l/sierra-entertainment-1979-2008/) – game listing, publication year
+
+[^ref-12]: [Croatian Wikipedia – Sierra Entertainment](https://hr.wikipedia.org/wiki/Sierra_Entertainment) – Hoyle series games list
+
+[^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
+
+[^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams[^ref-12]: [Giant Bomb - Hoyle](https://www.giantbomb.com/) - wiki
+[^ref-13]: [IGDB - Hoyle](https://www.igdb.com/) - IGDB
+[^ref-14]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
+[^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
+[^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
+[^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing

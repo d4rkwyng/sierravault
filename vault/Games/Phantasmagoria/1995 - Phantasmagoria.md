@@ -287,3 +287,34 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 - [[1996 - Phantasmagoria - A Puzzle of Flesh|→ Next: Phantasmagoria - A Puzzle of Flesh]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – comprehensive development history, sales figures, critical reception, awards, cast, technical specs
+[^ref-2]: [IMDB – Phantasmagoria](https://www.imdb.com/title/tt0131537/) – cast information, user reviews, filming trivia
+[^ref-3]: [Giant Bomb – Phantasmagoria](https://www.giantbomb.com/roberta-williams-phantasmagoria/3030-4327/) – technical specifications, GOG release date, sales data
+[^ref-4]: [The Digital Antiquarian – Phantasmagoria](https://www.filfre.net/tag/phantasmagoria/) – historical analysis, development context, commercial success
+[^ref-5]: [Reference for Business – Sierra On-Line History](https://www.referenceforbusiness.com/history2/98/Sierra-On-Line-Inc.html) – corporate context, retailer controversy
+[^ref-6]: [GameSpot User Review – coolermaster123](https://www.gamespot.com/roberta-williams-phantasmagoria/user-reviews/2200-12796730/) – historical significance, cast details, Entertainment Weekly quote
+[^ref-7]: [Delarroz – Replay Phantasmagoria](https://delarroz.com/2024/04/19/replay-phantasmagoria/) – retrospective analysis, budget details, critical commentary
+[^ref-8]: [Sierra Help Wiki – Phantasmagoria](https://wiki.sierrahelp.com/index.php/Phantasmagoria) – engine information, version numbers, technical details
+[^ref-9]: [MobyGames – Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/) – credits, trivia, easter eggs, awards, regional versions
+[^ref-10]: [OldGames.sk – Phantasmagoria](https://www.oldgames.sk/en/game/phantasmagoria/download/4704/) – plot summary, platform information, ratings
+[^ref-11]: [AbandonwareGames – Phantasmagoria](https://abandonwaregames.net/game/phantasmagoria) – plot description, user ratings
+[^ref-12]: [Amazon – Phantasmagoria](https://www.amazon.com/Roberta-Williams-Phantasmagoria-Pray-Nightmare-DOS/dp/B000W8JFS8) – customer reviews, technical issues, controversy details
+[^ref-13]: [US Modern Culture Wiki – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – development costs, studio construction, reception
+[^ref-14]: [GameSpot Reviews – Phantasmagoria](https://www.gamespot.com/games/roberta-williams-phantasmagoria/reviews/) – official score, user average, critical quotes
+[^ref-15]: [GOG.com – Phantasmagoria](https://www.gog.com/en/game/phantasmagoria) – user reviews, technical issues, chapter structure
+[^ref-16]: [GameFAQs Walkthrough – Comix122](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2110) – gameplay tips
+[^ref-17]: [MobyGames Reviews – Phantasmagoria](https://www.mobygames.com/game/1164/roberta-williams-phantasmagoria/reviews/) – critical analysis, gameplay criticism
+[^ref-18]: [GameFAQs Review – RNGGaming](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/reviews/173339) – development details, budget information, atmosphere praise
+[^ref-19]: [GameCompanies – Sierra](https://gamecompanies.com/companies/sierra) – cult status, collectibility
+[^ref-20]: [Steam – Phantasmagoria](https://store.steampowered.com/app/501990/Phantasmagoria/) – current availability, user ratings, system requirements
+[^ref-21]: [Metacritic – Phantasmagoria](https://www.metacritic.com/game/roberta-williams-phantasmagoria/) – user score
+[^ref-22]: [MyAbandonware – Phantasmagoria](https://www.myabandonware.com/game/roberta-williams-phantasmagoria-32t) – user reviews, ratings
+[^ref-23]: [Sierra Chest – Phantasmagoria](https://www.sierrachest.com/index.php?a=games&id=40&fld=general) – development timeline, production details
+[^ref-24]: [PCGamingWiki – Phantasmagoria](https://www.pcgamingwiki.com/wiki/Phantasmagoria) – technical specifications, compatibility issues
+[^ref-25]: [ScummVM Wiki – SCI Japanese Games](https://wiki.scummvm.org/index.php?title=SCI/Japanese_Games&mobileaction=toggle_view_desktop) – Japanese release details
+[^ref-26]: [MobyGames – Deluxe Limited Edition](https://www.mobygames.com/game/27838/roberta-williams-phantasmagoria-deluxe-limited-edition/) – special edition packaging details
+[^ref-27]: [GameFAQs FAQ – RedDemon/ParanoidXE](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – easter eggs, technical requirements, censorship context
+[^ref-28]: [The Digital Antiquarian – Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) – industry impact analysis
+[^ref-29]: [AbandonwareDOS – Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%27+Phantasmagoria) – sequel listing

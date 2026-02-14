@@ -184,3 +184,39 @@ Middle Earth Online was never released and is not available for purchase.
 - **Successor:** The Lord of the Rings Online (2007)
 
 ## 
+## References
+
+[^ref-1]: [LOTR Fandom Wiki – Middle-earth Online](https://lotr.fandom.com/wiki/Middle-earth_Online) – licensing history, developers, timeline
+
+[^ref-2]: [Wikipedia – The Lord of the Rings Online](https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_Online) – release history, expansions, development transfer
+
+[^ref-3]: [Engadget – The Game Archaeologist: Middle-earth Online](https://www.engadget.com/2011-06-21-the-game-archaeologist-and-the-what-ifs-middle-earth-online.html) – Sierra development history, design philosophy
+
+[^ref-4]: [The One Ring – Gaming Havens: Middle-Earth Online](http://haven.theonering.net/gaming/middleearth.html) – development status, innovative features, team dissolution
+
+[^ref-5]: [The One Ring – Game Reviews: Middle-Earth Online](http://haven.theonering.net/reviews/games/middleearth.html) – permanent death analysis, magic restrictions, Elf population limits
+
+[^ref-6]: [Sierra Gamers Forum – Middle-earth online game](https://www.sierragamers.com/forums/topic/middle-earth-online-game/) – fan inquiry about cancellation
+
+[^ref-7]: [GameSpot – Visit Sierra's Middle Earth Online (April 2000)](https://www.gamespot.com/articles/visit-sierras-middle-earth-online/1100-2464907/) – website launch, Daniel James quote, development philosophy
+
+[^ref-8]: [GameSpot – VU Announces Middle-Earth Online (May 2003)](https://www.gamespot.com/articles/vu-announces-middle-earth-online/1100-6026587/) – VU Games announcement, platforms, release date
+
+[^ref-9]: [IGN – Middle-Earth Online (December 2003)](https://www.ign.com/articles/2003/12/18/middle-earth-online) – Third Age setting, engine details, gameplay preview
+
+[^ref-10]: [MUME – Multi-Users in Middle-earth](https://mume.org/) – Middle-earth conflict setting, Third Age timeline
+
+[^ref-11]: [RPGWatch – Lord of the Rings Online Review @ Eurogamer](https://rpgwatch.com/news/lord-of-the-rings-online--review-eurogamer-4732.html) – Eurogamer review, permadeath controversy
+
+[^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – user reviews, current availability
+
+
+[^ref-14]: [The Tolkien Forum – Middle Earth Online Thread](https://thetolkien.forum/threads/middle-earth-online.14921/) – fan discussion, development tracking
+
+[^ref-15]: [The Lord of the Rings Online Official Site](https://www.lotro.com/) – current game status
+
+[^ref-16]: [Wikipedia – List of Middle-earth video games](https://en.wikipedia.org/wiki/List_of_Middle-earth_video_games) – gaming history, 1982 origins
+
+[^ref-17]: [Middle-earth Enterprises – Video Games](https://www.middleearth.com/video-games) – official licensing, game ecosystem
+
+[^ref-18]: [MMORPG.com – Middle-Earth Online Impressions](https://www.mmorpg.com/news/middle-earth-online-impressions-2000055532) – E3 preview, Turbine development

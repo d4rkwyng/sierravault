@@ -251,3 +251,22 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 - [[2023 - Summer Daze - Tilly's Tale|→ Next: Summer Daze - Tilly's Tale]]
 
 ## 
+## References
+
+[^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes
+[^ref-2]: [Adventure Gamers – Colossal Cave 3D Review](https://adventuregamers.com/games/colossal-cave-3d) – review score, gameplay analysis, platforms
+[^ref-3]: [80 Level – Sierra Founders Remaking Colossal Cave](https://80.lv/articles/sierra-founders-are-remaking-colossal-cave-adventure-for-pc-and-vr) – development origins, Unity engine, Ken Williams quotes
+[^ref-4]: [Wikipedia – Colossal Cave Adventure](https://en.wikipedia.org/wiki/Colossal_Cave_Adventure) – original game history, technical specifications, cultural impact
+[^ref-5]: [Colossal Cave 3D – Official Website](http://colossalcave3d.com/) – user testimonials, gameplay features, language support
+[^ref-6]: [Colossal Cave 3D – Official Press Page](https://colossalcave3d.com/press/) – release dates, platform list, ratings
+[^ref-7]: [Epic Games Store – Colossal Cave](https://store.epicgames.com/en-US/p/colossal-cave-6f902f) – system requirements, historical background
+[^ref-8]: [Colossal Cave 3D – Play Now Page](https://www.colossalcave3d.com/play-now/) – platform availability, pricing, user ratings
+[^ref-9]: [Mega Visions – Colossal Cave Review](https://www.megavisions.net/review-colossal-cave-pc-meta-quest-2/) – gameplay analysis, VR issues, review score
+[^ref-10]: [Interactive Fiction Forum – Remake Announcement](https://intfiction.org/t/ken-and-roberta-williams-are-remaking-colossal-cave-adventure/55097) – development origins, Ken Williams quotes
+[^ref-11]: [Eurogamer – Colossal Cave Preview](https://www.eurogamer.net/i-dont-know-whether-to-be-turned-off-by-the-new-colossal-cave-or-charmed-by-it) – gameplay impressions, Williams background
+[^ref-12]: [Metacritic – Colossal Cave](https://www.metacritic.com/game/colossal-cave/) – aggregate scores, professional reviews
+[^ref-13]: [Steam – Colossal Cave](https://store.steampowered.com/app/2215540/Colossal_Cave/) – user reviews, system requirements, awards
+[^ref-14]: [Meta Quest Store – Colossal Cave](https://www.meta.com/experiences/colossal-cave/4277263562355260/) – VR ratings, pricing
+[^ref-15]: [Engadget – Williams Interview](https://www.engadget.com/roberta-ken-williams-colossal-cave-3d-remake-vr-163034673.html) – development details, team size, Don Woods request
+[^ref-16]: [Colossal Cave 3D – Development Blog](https://colossalcave3d.com/2022/09/19/colossal-cave-3d-adventure-reinventing-a-cult-game-in-vr/) – artist interviews, technical details, team quotes
+[^ref-17]: [Interactive Fiction Forum – Review Discussion](https://intfiction.org/t/review-of-graphical-colossal-caves/61252) – sales commentary, community reception

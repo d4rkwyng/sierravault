@@ -189,3 +189,17 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [[1985 - The Crimson Crown|→ Next: The Crimson Crown]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Stunt Flyer](https://www.mobygames.com/game/122956/stunt-flyer/) – release date, developer, publisher, platforms, technical specifications, game description
+[^ref-2]: [Lemon64 – Stunt Flyer](https://www.lemon64.com/game/stunt-flyer) – release year, platforms, media format, user rating
+[^ref-3]: [Retro365 – Stunt Flyer: The First Game from Europe](https://retro365.blog/2023/05/24/stunt-flyer-the-first-game-from-europe/) – development history, designer credit, Pitts Special aircraft basis, flight curve analysis, competition details, manual information, transatlantic development collaboration
+[^ref-4]: [Sierra Gamers Forum – Stunt Flyer Discussion](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Sierra product catalog context
+[^ref-5]: [Space Quest Fandom Wiki – Stunt Flyer](https://spacequest.fandom.com/wiki/Stunt_Flyer) – Space Quest 4 parody reference, cut content, restoration by NewRisingSun
+[^ref-6]: [MyAbandonware – Stunt Flyer](https://www.myabandonware.com/game/stunt-flyer-c94) – 1993 DOS version by Softlair Computer Productions (unrelated title)
+[^ref-7]: [Sierra Gamers – Stunt Flyer](https://www.sierragamers.com/stunt-flyer/) – Sierra fan community entry, publisher information
+[^ref-8]: [Wikidata – Stunt Flyer](https://www.wikidata.org/wiki/Q81154917) – structured data, identifiers
+[^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+[^ref-10]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/index.php?a=games&id=359&fld=general) – Sierra game database entry
+[^ref-11]: [C64-Wiki – Stunt Flyer](https://www.c64-wiki.com/wiki/Stunt_Flyer) – Commodore 64 game database
+[^ref-12]: [Wikipedia – Pitts Special](https://en.wikipedia.org/wiki/Pitts_Special) – aircraft featured in the game

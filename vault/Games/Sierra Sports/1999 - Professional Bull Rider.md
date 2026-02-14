@@ -207,3 +207,22 @@ The franchise's continued existence through mobile and console titles decades la
 - [[1998 - Sierra Sports Skiing 1999 Edition|← Previous: Sierra Sports Skiing 1999 Edition]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Professional Bull Rider](https://www.mobygames.com/game/58224/professional-bull-rider/) – developer, publisher, credits, ratings, platform information
+[^ref-2]: [GameFAQs – Professional Bull Rider](https://gamefaqs.gamespot.com/pc/198358-professional-bull-rider) – release date, developer, publisher, user ratings
+[^ref-3]: [Blues News – Professional Bull Rider Press Release](https://www.bluesnews.com/pressreleases/bull.shtml) – marketing details, retail price, sponsorship information, rider count
+[^ref-4]: [GameSpot – Professional Bull Rider Review](https://www.gamespot.com/reviews/professional-bull-rider-review/1900-2545808/) – detailed review, scores, technical analysis, voice cast
+[^ref-5]: [ESPN/GameSpot – Professional Bull Rider Review](https://www.espn.com/vgr/pc_pbr.html) – detailed scoring breakdown, system requirements, tagline
+[^ref-6]: [IGN – Professional Bull Rider Review](https://www.ign.com/articles/2000/01/14/professional-bull-rider) – review, gameplay details, quotes
+[^ref-7]: [Amazon – Professional Bull Rider PC](https://www.amazon.com/Professional-Bull-Rider-PC/dp/B00001LCDC) – release date, voice cast, technical specs, customer reviews
+[^ref-8]: [Metacritic – Professional Bull Rider](https://www.metacritic.com/game/professional-bull-rider) – release date, developer, publisher
+[^ref-9]: [PCMag UK – Professional Bull Rider](https://uk.pcmag.com/first-looks/31483/professional-bull-rider) – review, score, two-player mode description
+[^ref-10]: [My Abandonware – Professional Bull Rider](https://www.myabandonware.com/game/professional-bull-rider-ixq) – preservation, compatibility comments
+[^ref-11]: [GameSpot – Professional Bull Rider 2 Review](https://www.gamespot.com/reviews/professional-bull-rider-2-review/1900-2638202/) – sequel review, comparison to original
+[^ref-12]: [Internet Archive – Professional Bull Rider 2](https://archive.org/details/pbr-2) – sequel preservation, release date
+[^ref-13]: [IGN – Professional Bull Rider 2](https://www.ign.com/games/professional-bull-rider-2) – sequel release date, rating
+[^ref-14]: [App Store – PBR: Raging Bulls](https://apps.apple.com/sg/app/pbr-raging-bulls/id917715692) – mobile game details, developer, ratings
+[^ref-15]: [PlayStation Store US – 8 To Glory](https://store.playstation.com/en-us/product/UP4276-CUSA13280_00-EIGHTTOGLORYUS00) – modern PBR game details, pricing, ratings
+[^ref-16]: [PlayStation Store Canada – 8 To Glory](https://store.playstation.com/en-ca/product/UP4276-CUSA13280_00-EIGHTTOGLORYUS00) – release date, developer, publisher
+[^ref-17]: [8 To Glory Official Website](https://8toglory.com/) – platform availability

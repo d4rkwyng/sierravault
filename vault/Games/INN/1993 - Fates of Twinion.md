@@ -211,3 +211,28 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [[1996 - The Realm Online|→ Next: The Realm Online]]
 
 ## 
+## References
+
+[^ref-1]: [Abandonware DOS - Fates of Twinion](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fates+of+Twinion&gid=1252) - Basic game information and release details
+[^ref-2]: [Wikipedia - Shadow of Yserbius](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) - Awards, CGW review quote, series information
+[^ref-3]: [Dungeon Crawlers](https://www.dungeoncrawlers.org/game/fates-of-twinion/) - Technical specifications and multiplayer details
+[^ref-4]: [CRPG Addict - Game 562](http://crpgaddict.blogspot.com/2025/11/game-562-fates-of-twinion-1993.html) - Analysis of game design philosophy, Wizardry comparison
+[^ref-5]: [ClassicReload](https://classicreload.com/fates-of-twinion.html) - Multiplayer functionality loss, RPG assessment
+[^ref-6]: [MassivelyOP - Game Archaeologist](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) - Richard Aronson buggy quote, bandwidth issues
+[^ref-7]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941) - Game structure details, castle floors
+[^ref-8]: [MobyGames Credits](https://www.mobygames.com/game/1846/fates-of-twinion/credits/dos/) - Development team credits, playtesters
+[^ref-9]: [Sierra Help - Walkthrough Part 2](http://sierrahelp.com/Walkthroughs/FatesOfTwinion/FatesOfTwinionWalkthroughPt2.html) - Narrative description, immortality quest
+[^ref-10]: [Multiple Sources] - Character creation, dungeon levels, quest information compiled from FAQ and walkthroughs
+[^ref-11]: [CRPG Addict - Filler](http://crpgaddict.blogspot.com/2025/12/the-fates-of-twinion-bunch-of-filler.html) - In-game quest guidance, NPC hints
+[^ref-12]: [MobyGames Screenshots](https://www.mobygames.com/game/1846/fates-of-twinion/screenshots/dos/) - Graphics reuse information
+[^ref-13]: [MedievaLands](https://www.medievalands.com/) - Modern remake developer motivation
+[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/fates-of-twinion-22j) - Character races and classes, HOTUD review
+[^ref-15]: [RPG Codex Forum](https://rpgcodex.net/forums/threads/the-shadow-of-yserbius-fates-of-twinion-ruins-of-cawdor.107795/) - Gameplay mechanics, protection spell timing
+[^ref-16]: [Multiple Sources] - Network history, dungeon locations, anti-cheat policies
+[^ref-17]: [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html) - Forcing mechanic explanation, legendary items
+[^ref-18]: [MobyGames](https://www.mobygames.com/game/1846/fates-of-twinion/) - User ratings
+[^ref-19]: [MobyGames - Ruins of Cawdor](https://www.mobygames.com/game/67088/ruins-of-cawdor/) - Series relationship, engine information
+[^ref-20]: [Emuparadise](https://www.emuparadise.me/Abandonware_Games/Fates_Of_Twinion_V1.0_(1993)(Sierra_Online)/93341) - User rating
+[^ref-21]: [CRPG Addict - Final Rating](http://crpgaddict.blogspot.com/) - Detailed critique, breadth vs depth analysis
+[^ref-22]: [Reddit - Sierra](https://www.reddit.com/r/Sierra/comments/weq5zl/speedruns_of_shadows_of_yserbius/) - Speedrun community insights
+[^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-fates-of-twinion-1993) - Player memories

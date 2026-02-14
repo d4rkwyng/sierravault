@@ -196,3 +196,34 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series information, developer, publisher, release year
+
+[^ref-2]: [MobyGames – Hoyle Word Games](https://www.mobygames.com/game/45137/hoyle-word-games/) – Development credits, gameplay features, ratings, technical specifications, online features
+
+[^ref-3]: [SierraChest – Hoyle Word Games](https://sierrachest.com/index.php?a=games&id=802&title=hoyle-word-games&fld=box) – Release date, publisher, packaging details, included demos, series information
+
+[^ref-4]: [Neverdie Media – Hoyle Word Games 1999](https://www.neverdiemedia.com/products/hoyle-word-games-1999) – Game variations, product description
+
+[^ref-5]: [Mercari – Hoyle Word Games 1999 Listing](https://www.mercari.com/us/item/m95999459426/) – ESRB rating, platform, promotional description
+
+[^ref-6]: [MobyGames – Eric Hook Credits](https://www.mobygames.com/person/6797/eric-hook/) – Sr. 3D Artist credit for Macintosh version
+
+[^ref-7]: [GameSpot – Hoyle Word Games Review](https://www.gamespot.com/reviews/hoyle-word-games-review/1900-2664509/) – Contemporary review with gameplay impressions
+
+[^ref-8]: [Old PC Gaming – Hoyle Word Games Review](https://oldpcgaming.net/hoyle-word-games-review/) – Retro gaming site review, gameplay analysis
+
+[^ref-9]: [GameSpot – Sierra Adds Words to Lineup](https://www.gamespot.com/articles/sierra-adds-words-to-lineup/1100-2448581/) – Release announcement, retail price
+
+[^ref-10]: [Wikipedia – List of WON-Enabled games](https://en.wikipedia.org/wiki/List_of_WON-Enabled_games) – Online gaming service support
+
+[^ref-11]: [Macintosh Repository – Hoyle Word Games](https://www.macintoshrepository.org/4509-hoyle-word-games) – Mac version specifications, system requirements
+
+[^ref-12]: [GameFAQs – Hoyle Word Games](https://gamefaqs.gamespot.com/pc/197586-hoyle-word-games) – Game database entry, genre classification
+
+[^ref-13]: [Internet Archive – Hoyle Word Games (2001)](https://archive.org/details/HoyleWordGamesSierra2001) – Preserved 2001 re-release
+
+[^ref-14]: [My Abandonware – Hoyle Word Games](https://www.myabandonware.com/game/hoyle-word-games-hzn) – Abandonware preservation
+
+[^ref-15]: [Metacritic – Hoyle Word Games](https://www.metacritic.com/game/hoyle-word-games/) – Game database entry, official description

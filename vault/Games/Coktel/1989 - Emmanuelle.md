@@ -244,3 +244,28 @@ Modern players typically approach the game "more out of historical interest than
 - [[1989 - Legend of Djel|→ Next: Legend of Djel]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs
+[^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game)) – source material info, contemporary reviews, technical details
+[^ref-3]: [Abandonware DOS – Emmanuelle](https://www.abandonwaredos.com/abandonware-game.php?gid=1086) – retrospective analysis, user ratings, cultural artifact assessment
+[^ref-4]: [StrategyWiki – Emmanuelle](https://strategywiki.org/wiki/Emmanuelle) – gameplay overview, puzzle design criticism, plot summary
+[^ref-6]: [RomStation – Emmanuelle](https://www.romstation.fr/games/dos/emmanuelle-a-game-of-eroticism-r57609/) – gameplay mechanics, dialogue system description
+[^ref-7]: [The Digital Antiquarian – Coktel Vision](https://www.filfre.net/?s=Emmanuelle%3A+A+Game+of+Eroticism) – French developer context, Sierra acquisition history
+[^ref-8]: [The Adventure Gamer Blog – Emmanuelle Introduction](https://advgamer.blogspot.com/2012/12/game-27-emmanuelle-introduction.html) – source material history, Tramis biography, manual quotes, DOS technical issues
+[^ref-9]: [GameFAQs – Emmanuelle Walkthrough Introduction](https://gamefaqs.gamespot.com/amiga/947993-emmanuelle/faqs/78863/introduction) – development context, designer quotes, trilogy info, cut content
+[^ref-10]: [Walkthrough King – Emmanuelle](https://www.walkthroughking.com/text/emmanuelle.aspx) – gameplay objectives, statuette collection
+[^ref-11]: [GameFAQs – Emmanuelle Walkthrough](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/walkthrough) – completion requirements, gameplay flexibility
+[^ref-12]: [Lemon Amiga – Emmanuelle Docs](https://www.lemonamiga.com/games/docs.php?id=558) – gameplay guide, ending description, user rating
+[^ref-13]: [MyAbandonware – Emmanuelle](https://www.myabandonware.com/game/emmanuelle-a-game-of-eroticism-n2) – file sizes, platform versions, technical specs
+[^ref-14]: [Home of the Underdogs via DanTeam](https://danteam.weebly.com/emmanuelle-pdf-english.html) – critical assessment, recommendation
+[^ref-15]: [OldGames.sk – Emmanuelle](https://www.oldgames.sk/en/game/emmanuelle-a-game-of-eroticism/download/8558/) – user rating, basic metadata
+[^ref-16]: [GamesNostalgia – Emmanuelle](https://gamesnostalgia.com/game/emmanuelle) – color palette details, licensing info, graphics assessment
+[^ref-17]: [Emuparadise – Emmanuelle Amiga](https://www.emuparadise.me/Amiga_ROMs/Emmanuelle/6056) – Amiga version user rating
+[^ref-18]: [RetroGames.cz – Emmanuelle](https://www.retrogames.cz/play_1194-DOS.php) – additional designer credit, file sizes, content rating
+[^ref-19]: [PCGamingWiki – Emmanuelle](https://www.pcgamingwiki.com/wiki/Emmanuelle:_A_Game_of_Eroticism) – system requirements, video modes
+[^ref-20]: [MobyGames – Emmanuelle Screenshots](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/screenshots/dos/14567/) – title screen resolution
+[^ref-21]: [Internet Archive – Emmanuelle DOS](https://archive.org/details/002696-EmmanuelleAGameOfEroticism) – media format, publisher
+[^ref-22]: [GameFAQs – Laws of Eroticism Guide](https://gamefaqs.gamespot.com/ast/948170-emmanuelle/faqs/78863/the-laws-of-eroticism) – manual quotes, bug documentation
+[^ref-23]: [Steam Store Search](https://store.steampowered.com/search/?term=Emmanuelle%3A+A+Game+of+Eroticism) – availability check (not found)
+[^ref-27]: [PlayOld.Games – Emmanuelle](https://playold.games/play-game/emmanuelle-a-game-of-eroticism/) – game structure description, user rating

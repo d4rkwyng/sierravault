@@ -312,3 +312,40 @@ The team's approach of receiving official licensing before distribution set an i
 - [[2001 - Space Quest - The Lost Chapter|→ Next: Space Quest - The Lost Chapter]]
 
 ## 
+## References
+
+[^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications
+[^ref-2]: [AGD Interactive – About KQ1](https://www.agdinteractive.com/games/kq1/about/about.html) – development history, download statistics, Sierra remake failure
+[^ref-3]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-i-quest-for-the-crown-vga) – interface description, review quotes
+[^ref-4]: [AGD Interactive – Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html) – game guide, interface details, version information
+[^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive)) – voice cast, licensing, GamesRadar ranking
+[^ref-6]: [AGD Interactive Forum – v4.1 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – Enhanced Edition details, artwork credits, development notes
+[^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – company history, designer credits, commercial impact
+[^ref-8]: [AGD Interactive – Download Page](https://www.agdinteractive.com/games/kq1/download/download.html) – system requirements, platform support
+[^ref-9]: [Internet Archive – KQ1 SCI Remake](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – plot summary, original version history
+[^ref-10]: [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-i-quest-for-the-crown) – Spanish plot description
+[^ref-11]: [Self Similar – KQ1 Review](https://www.selfsimilar.org/2017/07/kings-quest-review/) – gameplay analysis, fairy tale connections, version comparison
+[^ref-12]: [Adventure Gamer Blog – Final Rating](https://advgamer.blogspot.com/2014/04/game-42-kings-quest-remake-final-rating.html) – puzzle analysis, gnome riddle, scoring system
+[^ref-13]: [GameFAQs – Walkthrough/FAQ](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796) – Easter eggs, maximum score, development background
+[^ref-14]: [Abandonsocios Forum](http://www.abandonsocios.org/index.php?topic=11896.0) – version comparison, translation history
+[^ref-15]: [GameFAQs – User Review](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/reviews/88473) – 8/10 score, gameplay critique
+[^ref-16]: [Retro Freak Reviews – KQ1](https://retrofreakreviews.com/2017/02/01/kings-quest-i-review/) – non-linear structure, screen count, version history
+[^ref-17]: [King's Quest Fandom – Enhanced Edition](https://kingsquest.fandom.com/wiki/King's_Quest_I:_Quest_for_the_Crown_Enhanced_Edition) – No Dead-Ends mode description
+[^ref-18]: [MobyGames – KQ1 VGA](https://www.mobygames.com/game/6418/kings-quest-quest-for-the-crown/) – ratings, credits, Royal Quest parody origin
+[^ref-19]: [Adventure Game Studio Database](https://www.adventuregamestudio.co.uk/site/games/game/36/) – AGS Awards, user reviews, technical specs
+[^ref-20]: [GamesNostalgia – KQ1 VGA Remake](https://gamesnostalgia.com/game/kings-quest-i-vga-remake) – editorial score, download information
+[^ref-21]: [MyAbandonware – KQ1 VGA](https://www.myabandonware.com/game/king-s-quest-quest-for-the-crown-c1e) – user ratings, HOTUD quotes
+[^ref-22]: [Metacritic – KQ1 VGA](https://www.metacritic.com/game/kings-quest-i-quest-for-the-crown-vga/) – user score, user reviews
+[^ref-23]: [IMDB – Britney Brimhall](https://www.imdb.com/name/nm1881735/) – voice credit, IMDB rating
+[^ref-24]: [Adventure Gamers – Interview](https://adventuregamers.com/articles/view/17533) – developer backgrounds, Tierra name origin
+[^ref-25]: [Sierra Chest – KQ1 VGA](https://sierrachest.com/index.php?a=games&id=533&fld=general) – founder identification, version history
+[^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
+[^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original
+[^ref-28]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
+[^ref-29]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
+[^ref-30]: [AGD Interactive Forum – Name Change Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=8395) – Tierra to AGDI name change
+[^ref-31]: [Reddit – KQ1 Enhanced Edition Post](https://www.reddit.com/r/Sierra/comments/1jspknm/kings_quest_i_the_quest_for_the_crown_enhanced/) – download statistics
+[^ref-32]: [Reddit – KQ2 Romancing the Stones Review](https://www.reddit.com/r/adventuregames/comments/plfy46/just_finished_kings_quest_ii_romancing_the_stones/) – user impressions, comparison to original
+[^ref-33]: [Destructoid – KQ3 Redux Review](https://www.destructoid.com/reviews/review-kings-quest-iii-redux/) – 8/10 score, AGDI quality assessment
+[^ref-34]: [Reddit AMA – AGD Interactive/Himalaya Studios](https://www.reddit.com/r/IAmA/comments/1aeyg7/we_are_the_development_team_behind_the_kings/) – company evolution, Mage's Initiation
+[^ref-35]: [Wikipedia – King's Quest Fan Games](https://en.wikipedia.org/wiki/King's_Quest_fan_games) – fan game overview, voice cast mentions

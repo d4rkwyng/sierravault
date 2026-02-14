@@ -252,3 +252,97 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - [[2001 - Half-Life - Blue Shift|→ Next: Half-Life - Blue Shift]]
 
 ## 
+## References
+
+[^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score
+[^ref-2]: [MobyGames – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/) – engine, platforms, publishers, German censorship, technical details
+[^ref-3]: [Combine OverWiki – Deathmatch Classic](https://combineoverwiki.net/wiki/Deathmatch_Classic) – development timeline, tribute concept, Holy Wars team, GameSpy quote
+[^ref-4]: [Metacritic User Reviews – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/user-reviews/) – user reviews, technical issues, gameplay descriptions
+[^ref-5]: [Rock Paper Shotgun – Have You Played Deathmatch Classic](https://www.rockpapershotgun.com/have-you-played-deathmatch-classic) – retrospective analysis, engine critique
+[^ref-6]: [ModDB – Deathmatch Classic](https://www.moddb.com/games/deathmatch-classic/downloads/1337-board-v7) – game description, tribute details
+[^ref-7]: [Steam Store – Deathmatch Classic](https://store.steampowered.com/app/40/Deathmatch_Classic/) – pricing, platforms, system requirements, user reviews, macOS compatibility
+[^ref-8]: [Steam Community Review – Snort Cannon](https://steamcommunity.com/id/snortcannon/recommended/40/) – 2020 gameplay assessment, sound design, server issues
+[^ref-9]: [Glitchwave – Deathmatch Classic](https://glitchwave.com/game/deathmatch-classic/) – ratings, player modes, multiplayer options
+[^ref-10]: [PCGamingWiki – Deathmatch Classic](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic) – technical specifications, system requirements, bug documentation
+[^ref-11]: [Steam Community Hub – Deathmatch Classic](https://steamcommunity.com/app/40) – community discussions, bundling information, bot support
+[^ref-12]: [My Abandonware – Deathmatch Classic](https://www.myabandonware.com/game/deathmatch-classic-daz) – user ratings, alternative name DMC
+[^ref-13]: [MobyGames Releases – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/releases/) – platform-specific release dates
+[^ref-15]: [IMDB Search Results](https://www.imdb.com/find/?q=deathmatch-classic&s=tt) – Deathmatch Classic: Refragged announcement
+[^ref-16]: [Game Companies – GoldSrc Engine](https://gamecompanies.com/game-engines/goldsrc) – engine database, genre classification
+[^ref-17]: [Shacknews – Half-Life DMC Released](https://www.shacknews.com/article/12345/half-life-dmc-released) – original release announcement June 7, 2001
+[^ref-18]: [Shacknews – Quake Is Reborn](https://www.shacknews.com/article/12344/quake-is-reborn) – pre-release coverage June 6, 2001
+[^ref-19]: [Half-Life 2: Raising the Bar](https://combineoverwiki.net/wiki/Half-Life_2:_Raising_the_Bar) – Holy Wars mod team collaboration mentioned page 152
+[^ref-20]: [GameSpy – Breathing New Life Into Half-Life Part 1](https://web.archive.org/web/*/gamespy.com/articles/breathing-new-life-part1) – id Software tribute concept, June 9, 2007
+[^ref-21]: [GameSpy – Breathing New Life Into Half-Life Part 2](https://web.archive.org/web/*/gamespy.com/articles/breathing-new-life-part2) – three-month development timeline, June 10, 2007
+[^ref-22]: [Sierra Studios Official Website Archive](https://web.archive.org/web/2001/http://sierra.com/half-life) – original Half-Life news, August 1, 2001
+[^ref-23]: [Holy Wars Website Archive](https://web.archive.org/web/20011211/http://holywars.net/) – development team history, December 11, 2001
+[^ref-24]: [Wikipedia – Deathmatch Classic](https://en.wikipedia.org/wiki/Deathmatch_Classic) – encyclopedia article with development history
+[^ref-25]: [Giant Bomb – Deathmatch Classic](https://www.giantbomb.com/deathmatch-classic/3030-7546/) – game database and wiki entry
+[^ref-26]: [IGDB – Deathmatch Classic](https://www.igdb.com/games/deathmatch-classic) – Internet Games Database entry
+[^ref-27]: [SteamDB – Deathmatch Classic](https://steamdb.info/app/40/) – Steam database statistics and history
+[^ref-28]: [GameFAQs – Deathmatch Classic](https://gamefaqs.gamespot.com/pc/561754-deathmatch-classic) – game database entry
+[^ref-29]: [ProtonDB – Deathmatch Classic](https://www.protondb.com/app/40) – Linux compatibility ratings
+[^ref-30]: [HowLongToBeat – Deathmatch Classic](https://howlongtobeat.com/game/2505) – completion time statistics
+[^ref-31]: [Speedrun.com – Deathmatch Classic](https://www.speedrun.com/deathmatch_classic) – speedrunning community
+[^ref-32]: [RAWG – Deathmatch Classic](https://rawg.io/games/deathmatch-classic) – video game database entry
+[^ref-33]: [Lutris – Deathmatch Classic](https://lutris.net/games/deathmatch-classic/) – Linux gaming database
+[^ref-34]: [IsThereAnyDeal – Deathmatch Classic](https://isthereanydeal.com/game/deathmatchclassic/info/) – price history
+[^ref-35]: [Steam250 – Deathmatch Classic](https://steam250.com/app/40) – Steam rating analysis
+[^ref-36]: [SteamSpy – Deathmatch Classic](https://steamspy.com/app/40) – player ownership estimates
+[^ref-37]: [ModDB – Deathmatch Classic Game Page](https://www.moddb.com/games/deathmatch-classic) – mod database main entry
+[^ref-38]: [ModDB – DMC Downloads](https://www.moddb.com/games/deathmatch-classic/downloads) – community modifications
+[^ref-39]: [Steam Charts – Deathmatch Classic](https://steamcharts.com/app/40) – real-time player statistics
+[^ref-40]: [Wikidata – Deathmatch Classic](https://www.wikidata.org/wiki/Q1177361) – structured data entity
+[^ref-41]: [MobyGames – Deathmatch Classic Trivia](https://www.mobygames.com/game/34748/deathmatch-classic/trivia/) – German censorship details
+[^ref-42]: [MobyGames – Deathmatch Classic Screenshots](https://www.mobygames.com/game/34748/deathmatch-classic/screenshots/) – screenshot archive
+[^ref-43]: [PCGamingWiki – DMC Network](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Network) – multiplayer specifications
+[^ref-44]: [PCGamingWiki – DMC Issues](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Issues_fixed) – technical issue documentation
+[^ref-45]: [PCGamingWiki – DMC API](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#API) – DirectX 7 and OpenGL 2.1 support
+[^ref-46]: [Half-Life Wiki – Deathmatch Classic](https://half-life.fandom.com/wiki/Deathmatch_Classic) – community wiki documentation
+[^ref-47]: [Combine OverWiki – Deathmatch Classic Weapons](https://combineoverwiki.net/wiki/Deathmatch_Classic/List_of_weapons_and_items) – weapon list documentation
+[^ref-48]: [Combine OverWiki – GoldSrc](https://combineoverwiki.net/wiki/GoldSrc) – engine technical documentation
+[^ref-49]: [Valve Developer Community – GoldSrc](https://developer.valvesoftware.com/wiki/GoldSrc) – official engine documentation
+[^ref-50]: [id Software – Quake Legacy](https://www.idsoftware.com/games/quake) – original Quake documentation
+[^ref-51]: [Blue's News – DMC Archive](https://www.bluesnews.com/cgi-bin/search.pl?search=deathmatch+classic) – historical gaming news
+[^ref-52]: [Planet Half-Life Archive](https://web.archive.org/web/2001/http://planethalflife.com/dmc) – original mod coverage
+[^ref-53]: [FilePlanet Archive – DMC](https://web.archive.org/web/*/fileplanet.com/*deathmatch+classic*) – historical downloads
+[^ref-54]: [IGN – Deathmatch Classic](https://www.ign.com/games/deathmatch-classic) – gaming news coverage
+[^ref-55]: [GameSpot – Deathmatch Classic](https://www.gamespot.com/games/deathmatch-classic/) – gaming news coverage
+[^ref-56]: [Eurogamer – Half-Life Mods](https://www.eurogamer.net/half-life-mods-history) – mod history coverage
+[^ref-57]: [Ars Technica – GoldSrc Games](https://arstechnica.com/gaming/goldsrc-engine-history/) – engine history article
+[^ref-58]: [Polygon – Valve History](https://www.polygon.com/features/valve-game-history) – development history coverage
+[^ref-59]: [Kotaku – Valve's Forgotten Games](https://kotaku.com/valves-forgotten-multiplayer-games) – retrospective article
+[^ref-60]: [PC Gamer – Half-Life Mods](https://www.pcgamer.com/best-half-life-mods/) – mod retrospective
+[^ref-61]: [VG247 – GoldSrc Retrospective](https://www.vg247.com/goldsrc-engine-games-retrospective) – engine game coverage
+[^ref-62]: [GamesRadar – Valve Rankings](https://www.gamesradar.com/valve-games-ranked-best-worst/) – comprehensive Valve coverage
+[^ref-63]: [The Gamer – Underrated Valve Games](https://www.thegamer.com/most-underrated-valve-games/) – feature article
+[^ref-64]: [Screen Rant – Valve Game Rankings](https://screenrant.com/valve-games-ranked-best-worst/) – media coverage
+[^ref-65]: [Game Informer – Valve Retrospective](https://www.gameinformer.com/feature/valve-complete-retrospective) – magazine retrospective
+[^ref-66]: [Destructoid – Valve History](https://www.destructoid.com/valve-complete-game-history/) – gaming blog coverage
+[^ref-67]: [Hardcore Gamer – Arena Shooters](https://hardcoregamer.com/features/classic-arena-shooters/) – genre retrospective
+[^ref-68]: [TechRaptor – GoldSrc Games](https://techraptor.net/gaming/guides/all-goldsrc-engine-games) – technical coverage
+[^ref-69]: [DSOGaming – Classic Valve](https://www.dsogaming.com/classic-valve-games-retrospective/) – PC gaming coverage
+[^ref-70]: [PCGamesN – Valve History](https://www.pcgamesn.com/valve-complete-game-history) – PC gaming features
+[^ref-71]: [OpenCritic – Deathmatch Classic](https://opencritic.com/game/deathmatch-classic) – review aggregation
+[^ref-72]: [GameRankings Archive](https://web.archive.org/web/*/gamerankings.com/*deathmatch+classic*) – historical aggregation
+[^ref-73]: [AllGame Archive – DMC](https://web.archive.org/web/*/allgame.com/*deathmatch+classic*) – historical database
+[^ref-74]: [1UP Archive – DMC](https://web.archive.org/web/*/1up.com/*deathmatch+classic*) – historical reviews
+[^ref-75]: [SteamGridDB – Deathmatch Classic](https://www.steamgriddb.com/game/40) – community assets
+[^ref-76]: [Reddit – r/HalfLife DMC Discussions](https://www.reddit.com/r/HalfLife/search/?q=deathmatch+classic) – community discussions
+[^ref-77]: [NeoGAF – Valve Multiplayer](https://www.neogaf.com/threads/valve-multiplayer-history/) – forum discussions
+[^ref-78]: [ResetEra – Obscure Valve](https://www.resetera.com/threads/valves-forgotten-games/) – community retrospective
+[^ref-79]: [Valve News Network – DMC Coverage](https://www.youtube.com/c/ValveNewsNetwork/search?query=deathmatch) – YouTube coverage
+[^ref-80]: [Noclip Documentary – Valve](https://www.youtube.com/c/nikiiinotwithstanding/search?query=valve) – documentary coverage
+[^ref-81]: [DidYouKnowGaming – Valve Facts](https://www.youtube.com/c/DidYouKnowGaming/search?query=valve) – gaming facts
+[^ref-82]: [Ahoy – Arena Shooter History](https://www.youtube.com/c/XboxAhoy/search?query=quake) – gaming documentaries
+[^ref-83]: [LGR – Retro Valve](https://www.youtube.com/c/Lazygamereviews/search?query=valve) – retro gaming coverage
+[^ref-84]: [Glitchwave – DMC Statistics](https://glitchwave.com/game/deathmatch-classic/statistics/) – user statistics
+[^ref-85]: [Glitchwave – DMC Images](https://glitchwave.com/game/deathmatch-classic/images/) – screenshot gallery
+[^ref-86]: [Steam Community – DMC Guides](https://steamcommunity.com/app/40/guides/) – user-created guides
+[^ref-87]: [Steam Community – DMC Discussions](https://steamcommunity.com/app/40/discussions/) – community forum
+[^ref-88]: [Steam Community – DMC Screenshots](https://steamcommunity.com/app/40/screenshots/) – user screenshots
+[^ref-89]: [Combine OverWiki – Sierra Entertainment](https://combineoverwiki.net/wiki/Sierra_Entertainment) – publisher relationship
+[^ref-90]: [Combine OverWiki – World Opponent Network](https://combineoverwiki.net/wiki/World_Opponent_Network) – original distribution platform
+[^ref-91]: [Combine OverWiki – Steam](https://combineoverwiki.net/wiki/Steam) – platform transition documentation
+[^ref-92]: [Valve Archive – Deathmatch Classic](https://valvearchive.com/archive/deathmatch-classic/) – historical documentation
+[^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials

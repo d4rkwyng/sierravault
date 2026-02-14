@@ -284,3 +284,44 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 - [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two - Harvest of Souls]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) – development history, review scores, accessibility features, release dates
+[^ref-2]: [Adventure Gamers – Shivers](https://adventuregamers.com/article/shivers) – gameplay description, review score, plot summary
+[^ref-3]: [Adventure Classic Gaming – Shivers Review](http://www.adventureclassicgaming.com/index.php/site/reviews/26/) – technical specifications, production details, development history
+[^ref-4]: [Steam Community – Shivers Review](https://steamcommunity.com/sharedfiles/filedetails/?id=1287341472) – artwork details, composer credits, trivia
+[^ref-5]: [Balmoral Software – Shivers](http://www.balmoralsoftware.com/shivers/shivers.htm) – randomization system, gameplay mechanics
+[^ref-6]: [MobyGames – Shivers](https://www.mobygames.com/game/663/shivers/) – aggregate score, credits, platform information
+[^ref-7]: [Old School Gamer Magazine – Shivers](https://www.oldschoolgamermagazine.com/shivers-exploring-dr-windlenots-mysterious-museum/) – Willie Eide interview, accessibility features, development history
+[^ref-8]: [IGN – Shivers Walkthrough/FAQ](https://www.ign.com/articles/2002/11/22/shivers-walkthroughfaq-378428) – plot details, gameplay analysis
+[^ref-9]: [Amazon – Shivers](https://www.amazon.com/Sierra-Shivers/dp/0871771160) – product description, compatibility issues
+[^ref-10]: [Web Archive – Adventure Gamers Review](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) – game quotes, review analysis
+[^ref-11]: [Sierra Help Pages – Shivers Walkthrough](https://sierrahelp.com/Walkthroughs/Shivers1Walkthrough.html) – Ixupi types, location list, gameplay mechanics
+[^ref-12]: [Web Archive – MacUser Review](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) – negative review, gameplay description
+[^ref-13]: [Grokipedia – Shivers](https://grokipedia.com/page/Shivers_(video_game)) – team size, room count, technical specifications
+[^ref-25]: [GOG.com – Shivers User Reviews](https://www.gog.com/en/game/shivers) – gameplay mechanics, user testimonials
+[^ref-15]: [Walkthrough King – Shivers](https://www.walkthroughking.com/text/shivers.aspx) – inventory system, gameplay tips
+[^ref-16]: [The Spoiler – Shivers Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/shivers.1.html) – point system, Easter eggs, version differences
+[^ref-17]: [Web Archive – PC Gamer Review](https://web.archive.org/web/20000226082838/http://www.pcgamer.com/reviews/940.html) – 84% score, Steve Poole review
+[^ref-18]: [Web Archive – PC Games Magazine Review](https://web.archive.org/web/19961018113737/http://www.pcgamesmag.com/games/Feb96/shivers296.html) – Hermann Peterscheck review, sound design praise
+[^ref-19]: [GameSpot – Shivers Review](http://www.gamespot.com/pc/adventure/shivers/review.html) – 6.6/10 score, Ron Dulin review
+[^ref-20]: [Jeuxvideo.com – Shivers Test](http://www.jeuxvideo.com/articles/0001/00011964-shivers-test.htm) – 17/20 score, French review
+[^ref-21]: [Web Archive – Quandary Review](https://web.archive.org/web/20080611181726/http://www.quandaryland.com/jsp/dispArticle.jsp?index=127) – Rosemary Young review, system requirements
+[^ref-22]: [Coming Soon Magazine – Shivers Review](http://www.csoon.com/issue12/shivers.htm) – 89% score, graphics praise
+[^ref-23]: [Web Archive – Just Adventure Review](https://web.archive.org/web/20111031132518/http://www.justadventure.com/reviews/Shivers/Shivers_Review2.shtm) – C grade, Ray Ivey review, cut content
+[^ref-24]: [IMDB – Shivers](https://www.imdb.com/title/tt0192604/) – 8.4/10 rating, cast information
+[^ref-26]: [My Abandonware – Shivers](https://www.myabandonware.com/game/shivers-3ej) – user rating, ScummVM compatibility
+[^ref-27]: [MobyGames – Shivers Credits](https://www.mobygames.com/game/663/shivers/credits) – full development credits, voice cast
+[^ref-28]: [PCGamingWiki – Shivers](https://www.pcgamingwiki.com/wiki/Shivers) – engine version, technical specifications, compatibility
+[^ref-29]: [The Cutting Room Floor – Shivers](https://tcrf.net/Shivers) – cut content, unused assets, regional releases
+[^ref-30]: [GOGDB – Shivers](https://www.gogdb.org/product/2007520286) – version history, pricing data, release dates
+[^ref-31]: [Reddit – PC Gaming Tech Support](https://www.reddit.com/r/pcgamingtechsupport/comments/6jq8u3/sierra_shivers_1995_how_to_install_and_play_very/) – compatibility issues
+[^ref-32]: [ScummVM Wiki – Shivers](https://wiki.scummvm.org/index.php?title=Shivers) – emulation support, technical details
+[^ref-33]: [Easter Egg Archive – Shivers](https://eeggs.com/items/9510.html) – Easter egg documentation
+[^ref-34]: [TV Tropes – Shivers](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Shivers) – cross-references, Easter eggs
+[^ref-35]: [GOG.com Blog – Sierra History](https://www.gog.com/blog/where-adventures-grew-discover-the-history-of-sierra-on-line-games/) – historical context
+[^ref-36]: [GameSpot – Shivers User Reviews](https://www.gamespot.com/games/shivers/reviews/) – user testimonials
+[^ref-37]: [CompiWare Forum – Shivers German Patch](https://www.compiware-forum.de/downloads/file/551-shivers-german-patch/) – localization information
+[^ref-38]: [Speedrun.com – Shivers](https://www.speedrun.com/shivers) – speedrun categories, records
+[^ref-39]: [MobyGames – Shivers Two](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – sequel information, trivia
+[^ref-40]: [Web Archive – PC Gamer Shivers II Preview](https://web.archive.org/web/19980218070943/http://www.pcgamer.com/news/news-1996-11-04.html) – sequel features

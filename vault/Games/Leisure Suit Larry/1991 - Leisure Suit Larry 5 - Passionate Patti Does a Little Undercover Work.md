@@ -130,3 +130,48 @@ The game achieved commercial success despite mixed critical reception, with the 
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|→ Next: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 
 ## 
+## References
+
+[^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2025/09/18/ill-review-anything-leisure-suit-larry-5/) – - Release year and series information
+[^ref-2]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work) – - Numbering explanation and game background
+[^ref-3]: [IGN Al Lowe Interview](https://www.ign.com/articles/talking-leisure-suit-larry-with-al-lowe) – - Interface system change details
+[^ref-4]: [Wikipedia Article](https://en.wikipedia.org/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Character control mechanics
+[^ref-5]: [SuperCheats Walkthrough](https://www.supercheats.com/pc/walkthroughs/leisuresuitlarry5passionatepattidoesalittleundercoverwork-walkthrough01.txt) – - Plot summary for both characters
+[^ref-6]: [IMDb Trivia Page](https://m.imdb.com/title/tt0273735/trivia/) – - Al Lowe's interactive cartoon concept
+[^ref-7]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/123/) – - Developer information
+[^ref-8]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2026/11/28/leisure-suit-larry-5/) – - Designer credits
+[^ref-9]: [MobyGames Database](https://www.mobygames.com/game/408/) – - Publisher information
+[^ref-10]: [LemonAmiga Database](https://www.lemonamiga.com/games/details.php?id=1425) – - Platform availability
+[^ref-11]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry+5%3A+Passionate+Patti+Does+a+Little+Undercover+Work) – - Release year confirmation
+[^ref-12]: [TV Tropes Page](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LeisureSuitLarry5PassionatePattiDoesALittleUndercoverWork) – - SCI1 engine information
+[^ref-13]: [Walkthrough King Guide](https://www.walkthroughking.com/text/leisuresuitlarry5.aspx) – - Opening narrative description
+[^ref-14]: [Archived Hardcore Gaming 101](https://web.archive.org/web/20140613063251/http://www.hardcoregaming101.net/lsl/lsl3.htm) – - Plot premise explanation
+[^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Patti's FBI storyline
+[^ref-16]: [Sierra Chest Information](https://www.sierrachest.com/index.php?a=games&id=27&fld=general) – - Larry 4 mystery incorporation
+[^ref-17]: [The Cutting Room Floor Wiki](https://tcrf.net/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Missing floppies reference
+[^ref-18]: [CheatCC Article](https://www.cheatcc.com/articles/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-cheats-cheat-codes-for-pc/) – - Interface system change
+[^ref-19]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/38088) – - Zipper icon and interface elements
+[^ref-20]: [IGN Walkthrough/FAQ](https://www.ign.com/articles/2003/05/27/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-walkthroughfaq-410383) – - Linear structure description
+[^ref-21]: [Classic Reload Page](https://classicreload.com/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work.html) – - Character switching mechanics
+[^ref-22]: [GamePressure Database](https://www.gamepressure.com/games/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-wo/za13a5) – - Episode structure information
+[^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/36676) – - Death and failure state removal
+[^ref-24]: [Gamer Walkthroughs](https://gamerwalkthroughs.com/leisure-suit-larry-5/) – - Difficulty assessment
+[^ref-25]: [GameFAQs Complete Walkthrough](https://gamefaqs.gamespot.com/pc/564421-leisure-suit-larry-5-passionate-patti-does-a-little/faqs/1591) – - Point system and optional content
+[^ref-26]: [MobyGames User Reviews](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/reviews/) – - Gameplay criticism quote
+[^ref-27]: [LemonAmiga User Comments](https://www.lemonamiga.com/game/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work) – - User criticism of Amiga version
+[^ref-28]: [Just Games Retro Review](https://www.justgamesretro.com/dos/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work) – - Modern review score
+[^ref-29]: [Metacritic User Score](https://www.metacritic.com/game/leisure-suit-larry-5-passionate-patti-does-a-litt/) – - User review aggregation
+[^ref-30]: [MobyGames DOS Reviews](https://www.mobygames.com/game/408/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-w/reviews/dos/) – - User review criticism
+[^ref-31]: [MIDI Music Adventures](https://www.midimusicadventures.com/queststudios/digital-soundtracks/lsl5/) – - Craig Safan composer information
+[^ref-32]: [Al Lowe's Clues and Cheats](https://allowe.com/games/larry/tips-manuals/clues-cheats.html) – - Copy protection information
+[^ref-33]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-online/) – - Age verification system
+[^ref-34]: [SEC Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – - Sierra series sales figures
+[^ref-35]: [Newspaper Archive](https://newspaperarchive.com/nashua-telegraph-nov-15-1991-p-15/) – - 1991 sales data
+[^ref-36]: [GOG Database](https://www.gogdb.org/product/1207662073) – - GOG availability information
+[^ref-37]: [Steam Community](https://steamcommunity.com/app/765860) – - Steam release information
+[^ref-38]: [MyAbandonware](https://www.myabandonware.com/game/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-16w) – - Abandonware preservation and ratings
+[^ref-39]: [Internet Archive Manual](https://archive.org/details/Leisure_Suit_Larry_5_-_Manual) – - Manual preservation project
+[^ref-40]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_5:_Passionate_Patti_Does_a_Little_Undercover_Work) – - Technical compatibility information
+[^ref-41]: [VGM Rips](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – - Audio preservation and technical specs
+[^ref-42]: [Speedrun.com](https://www.speedrun.com/larry5) – - Speedrunning community data
+[^ref-43]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1kru3xu/leisure_suit_larry_5_passionate_patti_does_a/) – - Community discussion and plot summary

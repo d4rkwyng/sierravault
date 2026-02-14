@@ -270,3 +270,77 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Incredible Machine: Even More Contraptions](https://www.mobygames.com/game/5256/the-incredible-machine-even-more-contraptions/) – release dates, developers, designers, platforms, ratings, awards
+
+[^ref-2]: [Amazon – Product Listing](https://www.amazon.com/Incredible-Machine-Even-Contraptions-mac-pc/dp/B00005KB3J) – release date, publisher, product description, Children's Software Revue quote
+
+[^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – series history, sales data, awards, WonSwap feature, physics engine details
+
+[^ref-4]: [Gamepressure – The Incredible Machine: Even More Contraptions](https://www.gamepressure.com/games/the-incredible-machine-even-more-contraptions/zf3bee) – release date, developers, game description
+
+[^ref-5]: [Metacritic – The Incredible Machine: Even More Contraptions](https://www.metacritic.com/game/the-incredible-machine-even-more-contraptions/) – All Game Guide review, GameZone review
+
+[^ref-6]: [IGN – Return of the Incredible Machine: Contraptions Review](https://www.ign.com/articles/2000/09/15/return-of-the-incredible-machine-contraptions) – Martin Reyes review, score
+
+[^ref-7]: [Grokipedia – The Incredible Machine](https://grokipedia.com/page/The_Incredible_Machine) – series overview, mixed reviews analysis, engine info
+
+[^ref-8]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, developers, IP rights
+
+[^ref-9]: [TV Tropes – The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) – trivia, puzzle references, bugs, difficulty comparison
+
+[^ref-10]: [GOG.com – The Incredible Machine Mega Pack](https://www.gog.com/en/game/the_incredible_machine_mega_pack) – game description, user reviews
+
+[^ref-11]: [Hardcore Gaming 101 – The Incredible Machine](http://www.hardcoregaming101.net/incrediblemachine/incrediblemachine.htm) – retrospective review, 3D rendering, expansion pack details
+
+[^ref-12]: [GameSpot – Return of the Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/incredible-machine-contraptions-review/1900-2616799/) – Trey Walker review, parts count, puzzle count
+
+[^ref-13]: [GameFAQs – Even More Contraptions FAQ](https://gamefaqs.gamespot.com/pc/536228-the-incredible-machine-even-more-contraptions/faqs/36199) – Lord_Seth walkthrough, difficulty comparison
+
+[^ref-14]: [Speedrun.com – The Incredible Machine: Even More Contraptions](https://www.speedrun.com/timemc) – speedrun records, categories
+
+[^ref-15]: [ClassicReload – The Incredible Machine](https://classicreload.com/dosx-the-incredible-machine.html) – development budget, Kevin Ryan, Dynamix collaboration
+
+[^ref-16]: [Old-Games.com – The Incredible Machine: Even More Contraptions](https://www.old-games.com/download/6699/incredible-machine-the-even-more) – multiple solutions, parts description
+
+[^ref-17]: [GameFAQs – Return of the Incredible Machine: Contraptions FAQs](https://gamefaqs.gamespot.com/pc/367120-return-of-the-incredible-machine-contraptions/faqs) – puzzle goals description
+
+[^ref-18]: [Neoseeker Forums – Even More Contraptions Walkthrough](https://www.neoseeker.com/forums/2352/t375719-even-more-contraptions-complete-walkthrough/) – player discussion, precision requirements
+
+[^ref-19]: [GameSpot – Even More Contraptions Review](https://www.gamespot.com/games/the-incredible-machine-even-more-contraptions/reviews/) – official review score, user ratings
+
+[^ref-20]: [Absolute Games (Archived)](https://web.archive.org/web/20071215031604/http://www.ag.ru/reviews/return_of_the_incredible_machine_contraptions) – Russian review, Vyacheslav Golovanov quote
+
+
+[^ref-22]: [MyAbandonware – The Incredible Machine: Even More Contraptions](https://www.myabandonware.com/game/the-incredible-machine-even-more-contraptions-3ld) – user ratings, nostalgic comments, availability status
+
+[^ref-23]: [Glitchwave – The Incredible Machine: Even More Contraptions](https://glitchwave.com/game/the-incredible-machine-even-more-contraptions/) – user ratings, platform info
+
+[^ref-24]: [RAWG – The Incredible Machine: Even More Contraptions](https://rawg.io/games/the-incredible-machine-even-more-contraptions) – rating, release date
+
+[^ref-25]: [Reddit – Contraption Maker Discussion](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) – Kevin Ryan comments, Contraption Maker details
+
+[^ref-26]: [FFShrine Forums – Soundtrack Discussion](https://ffshrine.org/archive/t-50364.html) – audio quality, soundtrack origins
+
+[^ref-27]: [PCGamingWiki – The Incredible Machine: Even More Contraptions](https://www.pcgamingwiki.com/wiki/The_Incredible_Machine:_Even_More_Contraptions) – technical specifications, API, resolution
+
+[^ref-28]: [VGRequirements (Archived)](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) – system requirements
+
+[^ref-29]: [Macintosh Repository](https://www.macintoshrepository.org/5205-the-incredible-machine-even-more-contraptions) – Mac specifications
+
+[^ref-30]: [GameFAQs – Even More Contraptions FAQs](https://gamefaqs.gamespot.com/pc/536228-the-incredible-machine-even-more-contraptions/faqs) – release date, FAQ of the Month
+
+[^ref-31]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents, publishers
+
+[^ref-32]: [GOGDB – Product Entry](https://www.gogdb.org/product/1207664043) – digital release info, bonus content
+
+[^ref-33]: [GameFAQs – Return of the Incredible Machine FAQ](https://gamefaqs.gamespot.com/pc/367120-return-of-the-incredible-machine-contraptions/faqs/33101) – Mac fullscreen issue
+
+[^ref-34]: [AbsolutCheats – Easter Eggs](https://m.absolutcheats.com/pc/the-incredible-machine-even-more-contraptions-cheats) – holiday special items
+
+[^ref-35]: [SuperCheats – Cheats](https://www.supercheats.com/pc/theincrediblemachineevenmorecontraptions.htm) – cheat codes, passwords
+
+[^ref-36]: [MobyGames – The Incredible Machine (Original)](https://www.mobygames.com/game/2473/the-incredible-machine/) – awards, hall of fame, 1001 Games list
+
+[^ref-37]: [Wired – Contraption Maker Article](https://www.wired.com/2013/05/contraption-maker/) – Jeff Tunnell quote, iOS version history

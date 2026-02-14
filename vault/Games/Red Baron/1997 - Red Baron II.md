@@ -239,3 +239,40 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – release dates, development credits, ratings, awards, pizza coupon trivia
+[^ref-2]: [MobyGames – Red Baron (1990)](https://www.mobygames.com/game/1766/red-baron/) – original game awards, historical context
+[^ref-3]: [eBay Product Listing](https://www.ebay.com/p/54071746) – aircraft count, medal systems, control methods
+[^ref-4]: [Games Nostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – game modes, Kickstarter information
+[^ref-5]: [Sierra Gamers – Red Baron 2](https://www.sierragamers.com/red-baron-2/) – campaign features, squadron dynamics
+[^ref-6]: [GameSpot – Red Baron II Review](https://www.gamespot.com/reviews/red-baron-ii-review/1900-2532770/) – review score, technical criticism
+[^ref-7]: [IGN – Sierra Fixes Plane Game](https://www.ign.com/articles/1998/08/25/sierra-fixes-plane-game) – patch details, release criticism
+[^ref-8]: [GameSpot – Red Baron 3D Review](https://www.gamespot.com/reviews/red-baron-3d-review/1900-2532771/) – 3D version review, technical specs
+[^ref-9]: [Sierra Chest – Red Baron 2](https://sierrachest.com/index.php?a=games&id=302&title=red-baron-2&fld=demos) – engine information
+[^ref-10]: [Gamecenter 1997 Awards (Archive.org)](https://web.archive.org/web/20000928231623/http://gamecenter.com/Features/Exclusives/Awards97/Off/ss09a.html) – award nomination, feature description
+[^ref-11]: [GameRevolution – Red Baron II Review](https://www.gamerevolution.com/review/32974-red-baron-ii-review) – gameplay details, bugs, controls
+[^ref-12]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – user reviews, injury mechanics
+[^ref-13]: [AllGame Review (Archive.org)](https://web.archive.org/web/20141116011345/http://www.allgame.com/game.php?id=17656&tab=review) – user feedback, accessibility
+[^ref-14]: [Dynamix Press Release (Archive.org)](https://web.archive.org/web/19980627112357/http://www.dynamix.com/pr/rb2-pr.html) – official release details, features
+[^ref-15]: [PC Gamer US Review (Archive.org)](https://web.archive.org/web/20000118080800/http://www.pcgamer.com/reviews/864.html) – review score, system requirements
+[^ref-16]: [GameCenter Review (Archive.org)](https://web.archive.org/web/20000816103340/http://www.gamecenter.com/Reviews/Item/0,6,0-1447,00.html) – contemporary review, multiplayer history
+[^ref-17]: [GameRankings (Archive.org)](https://web.archive.org/web/20190603195412/https://www.gamerankings.com/pc/12228-red-baron-ii/index.html) – aggregate scores, multiple review sources
+[^ref-18]: [jeuxvideo.com Review](https://www.jeuxvideo.com/articles/0000/00000257_test.htm) – French review, score
+[^ref-19]: [PC Gamer UK Review (Archive.org)](https://web.archive.org/web/20001027231003/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=964) – UK review, game world size
+[^ref-20]: [MyAbandonware – Red Baron II](https://www.myabandonware.com/game/red-baron-ii-n4k) – international releases, modding history
+[^ref-21]: [MobyGames – Red Baron II](https://www.mobygames.com/game/1022/red-baron-ii/) – credits, publisher info
+[^ref-22]: [IMDB – Red Baron II](https://www.imdb.com/title/tt2691988/) – user rating
+[^ref-23]: [Sierra Fandom – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company history, series context
+[^ref-24]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – expansion details
+[^ref-25]: [Reddit – Red Baron 2 Manual](https://www.reddit.com/r/gaming/comments/18vn251/the_manual_for_red_baron_2_1997_includes_over_100/) – manual content description
+[^ref-26]: [Gaming Stack Exchange – Red Baron II Music](https://gaming.stackexchange.com/questions/395983/who-composed-the-music-for-red-baron-ii-red-baron-3d-what-are-the-names-of-th) – composer credit
+[^ref-27]: [CD Mag – Red Baron 3D Announcement (Archive.org)](https://web.archive.org/web/20030710225317/http://www.cdmag.com/articles/015/054/rb2.html) – pricing, multiplayer capacity
+[^ref-28]: [CD Mag – Red Baron 2 Review (Archive.org)](https://web.archive.org/web/20040121065923/http://www.cdmag.com/articles/009/158/red_baron_2_review.html) – system requirements, technical issues
+[^ref-29]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch version history
+[^ref-30]: [Old PC Gaming – Red Baron 2 Review](https://oldpcgaming.net/red-baron-2-review/) – technical criticism, cockpit issues
+[^ref-31]: [Kotaku – Pizza Coupon Story](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – pizza coupon trivia
+[^ref-32]: [Amazon – Red Baron Game Manual](https://www.amazon.com/Baron-great-planes-Game-Manual/dp/B004LD7EME) – manual specifications
+[^ref-33]: [VOGONS – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=75255) – XBaron patch, fan support
+[^ref-34]: [Amazon – Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – strategy guide details
+[^ref-35]: [MobyGames – Red Baron Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – later series entry

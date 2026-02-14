@@ -118,3 +118,43 @@ The Special Edition release in 2000 attempted to address many of the original ga
 - [[1998 - Lords of Magic - Special Edition|→ Next: Lords of Magic - Special Edition]]
 
 ## 
+## References
+
+[^ref-1]: [Grokipedia](https://grokipedia.com/page/Lords_of_Magic) – - Game description as turn-based strategy with real-time combat elements
+[^ref-2]: [ModDB](https://www.moddb.com/games/lords-of-magic-special-edition/downloads/lords-of-magic-ost) – - Game backstory and setting description
+[^ref-3]: [Internet Archive](https://archive.org/details/LordsofMagic_1020) – - Official game marketing description
+[^ref-4]: [Steam Community](https://steamcommunity.com/sharedfiles/filedetails/?id=573789702) – - Faith system details
+[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Lords_of_Magic) – - Game objective description
+[^ref-6]: [GOG Database](https://www.gogdb.org/product/1207658778) – - Special Edition release information
+[^ref-7]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/) – - Developer information
+[^ref-8]: [Internet Archive Manual](https://archive.org/stream/Lords_of_Magic_Special_Edition_Manual/Lords_of_Magic_Special_Edition_Manual_djvu.txt) – - Game credits
+[^ref-9]: [GameFAQs](https://gamefaqs.gamespot.com/pc/46090-lords-of-magic/data) – - Publisher information
+[^ref-10]: [Steam Store](https://store.steampowered.com/app/404040/Lords_of_Magic_Special_Edition/) – - Platform information
+[^ref-11]: [iTechPost](https://www.itechpost.com/articles/113591/20220905/revisiting-lords-magic-special-edition-worth-playing-2020s.htm) – - Game objective description
+[^ref-12]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfMagic) – - Easter egg and storyline information
+[^ref-13]: [VGMPF](https://vgmpf.com/Wiki/index.php/Lords_of_Magic_(W32) – ) - Technical perspective details
+[^ref-14]: [Game Revolution](https://www.gamerevolution.com/review/33244-its-like-a-warcraft-and-ultima-fruit-roll-up-review) – - Gameplay mechanics description
+[^ref-15]: [Reddit](https://www.reddit.com/r/gog/comments/1ipmeh0/lords_of_magic_gog_patch_302_reuploaded/) – - 4X strategy classification
+[^ref-16]: [Sierra Help](https://sierrahelp.com/Documents/Misc/Lords_of_Magic_Artifact_List.html) – - Character progression details
+[^ref-17]: [Metacritic](https://www.metacritic.com/game/lords-of-magic-special-edition/) – - Gameplay focus description
+[^ref-18]: [GameFAQs](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/22504) – - Life faith characteristics
+[^ref-19]: [GameFAQs](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Water faith economic advantages
+[^ref-20]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – - Multiplayer specifications
+[^ref-21]: [Web Archive](https://web.archive.org/web/19991210163929/http://www.pcgamer.com/reviews/638.html) – - PC Gamer review score
+[^ref-22]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-review/1900-2535765/) – - GameSpot review score and critique
+[^ref-23]: [Web Archive](https://web.archive.org/web/20040220205438/http://www.game-revolution.com/games/pc/strategy/lords.htm) – - Game Revolution review score
+[^ref-24]: [Web Archive](https://web.archive.org/web/20010527000453/http://www.pcgamer.co.uk/games/gamefile_review_page.asp?item_id=675) – - PC Gamer UK review score
+[^ref-25]: [Web Archive](https://web.archive.org/web/20000816095951/http://www.gamecenter.com/Reviews/Item/0,6,0-1502,00.html) – - GameCenter review score
+[^ref-26]: [Web Archive](https://web.archive.org/web/20190525174157/https://www.gamerankings.com/pc/70167-lords-of-magic-special-edition/index.html) – - Computer Games Magazine score
+[^ref-27]: [Web Archive](https://web.archive.org/web/20190609005743/https://www.gamerankings.com/pc/46090-lords-of-magic/index.html) – - PC Zone UK score
+[^ref-28]: [Medium](https://medium.com/@billiondollarcompany1/lords-of-magic-the-heroes-of-might-magic-killer-647a6e24c6c7) – - Steam user review data
+[^ref-29]: [GOG.com](https://www.gog.com/en/game/lords_of_magic_special_eddition) – - GOG user rating
+[^ref-30]: [Reddit](https://www.reddit.com/r/impressionsgames/comments/1hhm2a5/spiritual_successorgames_similar_to_lords_of_magic/) – - Impressions Games background
+[^ref-31]: [GameSpot](https://www.gamespot.com/articles/lords-of-magic-special-edition-announced/1100-2464414/) – - Chris Beatrice quote
+[^ref-32]: [MobyGames](https://www.mobygames.com/game/2082/lords-of-magic/credits/windows/) – - Development team size and key personnel
+[^ref-33]: [Game Music Blog](https://gamemusic.wordpress.com/2008/11/23/lords-of-magic/) – - Soundtrack composer and quality assessment
+[^ref-34]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Lords_of_Magic) – - Engine and platform information
+[^ref-35]: [ModDB](https://www.moddb.com/mods/gszero) – - Community mod description
+[^ref-36]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-special-edition-review/1900-2535719/) – - Competitive comparison
+[^ref-37]: [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – - Modern assessment quote
+[^ref-38]: [Amazon](https://www.amazon.com/Lords-Magic-Special-Jewel-Case-pc/dp/B00001NFS5) – - Special Edition assessment

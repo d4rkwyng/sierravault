@@ -225,3 +225,21 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 - [[1994 - Front Lines|→ Next: Front Lines]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Detroit](https://www.mobygames.com/game/2694/detroit/) – credits, ratings, technical specifications, awards, trivia
+[^ref-2]: [DOS Games Archive – Detroit](https://www.dosgamesarchive.com/download/detroit) – publisher, description, demo information, German title "Rüsselsheim"
+[^ref-3]: [ClassicReload – Detroit](https://classicreload.com/detroit.html) – gameplay description, historical events, failure state
+[^ref-4]: [AbandonwareGames.net – Detroit](https://abandonwaregames.net/game/detroit) – user rating, game description, platforms
+[^ref-5]: [Home of the Underdogs – Detroit](https://web.archive.org/web/*/homeoftheunderdogs.net) – Air Bucks comparison, design philosophy
+[^ref-6]: [GOG.com – Detroit Wishlist](https://www.gog.com/dreamlist/game/detroit) – user comments, fan reception, sequel project
+[^ref-7]: [Lemon Amiga – Detroit Manual](https://www.lemonamiga.com/games/docs.php?id=467) – game manual text, starting conditions, objectives
+[^ref-8]: [FreeGameEmpire – Detroit](https://www.freegameempire.com/games/Detroit) – interface description, Impressions history, rating
+[^ref-9]: [Game Bytes Issue 20 – Detroit Review](http://www.ibiblio.org/GameBytes/issue20/greviews/detroit.html) – Philip Chiu review, technical requirements, patch information
+[^ref-10]: [Emuparadise – Detroit](https://www.emuparadise.me/Abandonware_Games/Detroit_(1993)(Sierra_Online)/93082) – user rating, file information
+[^ref-11]: [Classic DOS Games – Detroit](https://www.classicdosgames.com/game/Detroit.html) – shareware demo information, genre assessment
+[^ref-12]: [Wikipedia – Detroit (video game)](https://en.wikipedia.org/wiki/Detroit_(video_game)) – comprehensive game information, Computer Gaming World review citation, gameplay mechanics, developer credits (Dale Campbell programmer)
+[^ref-13]: [Computer Gaming World Museum – August 1994 (Issue 121)](https://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121) – original review by Alan Emrich and Petra Schlunk, 2/5 star rating
+[^ref-14]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
+[^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography, Impressions Games founding, game design philosophy
+[^ref-16]: [Internet Archive – Sierra Official Website (1997)](https://web.archive.org/web/19970204075308/http://www.sierra-online.co.uk:80/uk/so_uk/detroit_uk/detroit_uk.html) – official Sierra product page, marketing materials

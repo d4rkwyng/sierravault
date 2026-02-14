@@ -263,3 +263,23 @@ The game is preserved through various abandonware archives and remains playable 
 - [[1996 - Front Page Sports - Baseball Pro '96|→ Next: Front Page Sports - Baseball Pro '96]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – Development credits, platform information
+[^ref-2]: [IGN – Front Page Sports: Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – Release information, SVGA graphics description
+[^ref-3]: [En-Academic – Front Page Sports Football Pro](https://en-academic.com/dic.nsf/enwiki/4856623) – Series history, awards, franchise decline
+[^ref-5]: [The Digital Antiquarian](https://www.filfre.net/) – Sierra/Dynamix development context
+[^ref-6]: [Retro Replay – Front Page Sports: Football Pro '98 Review](https://retro-replay.com/db/windows/front-page-sports-football-pro-98/) – Dual-mode approach, control limitations
+[^ref-8]: [MyAbandonware – Game specifications](https://www.myabandonware.com/game/front-page-sports-football-pro-96-season-bqh) – Roster details, play counts, statistics
+[^ref-9]: [Old-Games.com – Technical details](https://www.old-games.com/download/6103/front-page-sports-football-pro) – Camera angles
+[^ref-10]: [GameFAQs – Multiplayer features](https://gamefaqs.gamespot.com/pc/564575-front-page-sports-football-pro-95) – Network and modem play
+[^ref-11]: [Internet Archive – Team roster information](https://archive.org/details/FBP9611) – Expansion teams included
+[^ref-12]: [Football Idiot Forum – Game features discussion](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – Coaching profiles, play design
+[^ref-13]: [GOG Dreamlist – Game description](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – AI difficulty, stat tracking
+[^ref-15]: [MobyGames – Critical reception](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/) – 78% critics rating
+[^ref-17]: [EmuParadise – User score](https://www.emuparadise.me/Abandonware_Games/Front_Page_Sport_Football_Pro_96_Season_(1995)(Sierra_Online)/93409) – 4.86/5 rating
+[^ref-18]: [eBay user review](https://www.ebay.com/itm/175002541661) – Modern retrospective assessment
+[^ref-19]: [Vogons Forum – User testimonial](http://www.vogons.org/viewtopic.php?t=870) – "Best American Football Sim ever"
+[^ref-23]: [MobyGames – Voice cast credits](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – Voice actors listed
+[^ref-26]: [Sierra Help – System requirements](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – VESA modes, memory requirements
+[^ref-29]: [Internet Archive – Software preservation](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – DOS version archive

@@ -111,3 +111,66 @@ NPD retail tracking data from September 1996 showed strong commercial performanc
 
 
 ## 
+## References
+
+[^ref-1]: http://ageod-forum.com/viewtopic.php?t=50764 - AGEOD forum discussion providing detailed insights into game mechanics and modding for Civil War Generals 2
+[^ref-2]: https://archive.org/details/r-e-lee-movies - Archival preservation of historical game cinematics from a Civil War strategy game
+[^ref-3]: https://discover.hubpages.com/games-hobbies/civilwargenerals2 - Comprehensive fan guide providing technical details, installation instructions, and gameplay overview
+[^ref-4]: https://discover.hubpages.com/games-hobbies/civilwargenerals2 - User review by N. Ramius praising Civil War Generals 2
+[^ref-5]: https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/ - Historical context about Sierra On-Line's corporate acquisition
+[^ref-6]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Comprehensive historical game design documentation with detailed gameplay mechanics and development insights
+[^ref-7]: https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html - PC Gamer review providing comprehensive details about Civil War strategy game
+[^ref-8]: https://www.pcgamingwiki.com/wiki/Robert_E._Lee:_Civil_War_General - Technical wiki page providing detailed game information and system requirements
+[^ref-9]: https://gamefaqs.gamespot.com/pc/198498-robert-e-lee-civil-war-general - Game description and user community insights
+[^ref-10]: https://en.wikipedia.org/wiki/Robert_E._Lee%3A_Civil_War_General - Detailed historical source with development insights
+[^ref-11]: https://www.ebay.com/itm/ROBERT-E-LEE-CIVIL-WAR-GENERAL-Game-Manual-SIERRA-1996-Vintage-PC-Gaming-Book-/122753863918 - Original product manual listing
+[^ref-12]: https://www.ebay.com/p/54344346 - Detailed eBay listing providing comprehensive game description
+[^ref-13]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - GameSpot review detailing gameplay features
+[^ref-14]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - Technical specifications from GameSpot review
+[^ref-15]: https://www.ebay.com/p/54344346 - Battle scenarios from product description
+[^ref-16]: https://www.ebay.com/itm/126379205736 - Designer choice explanation from product description
+[^ref-17]: https://web.archive.org/web/19970101040007/http://www.cdmag.com:80/war_vault/robert_e_lee_general/page1.html - Early archival preview describing game features
+[^ref-18]: https://www.pcgamingwiki.com/wiki/Robert_E._Lee:_Civil_War_General - Technical specifications for interface
+[^ref-19]: https://www.ebay.com/p/54344346 - Gameplay description from product listing
+[^ref-20]: https://www.ebay.com/p/54344346 - Technical specifications for terrain and controls
+[^ref-21]: https://www.pcgamingwiki.com/wiki/Robert_E._Lee:_Civil_War_General - WeGo system description
+[^ref-22]: https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html - Unit scale and turn system details
+[^ref-23]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - Multiplayer options listing
+[^ref-24]: https://www.gamespot.com/reviews/robert-e-lee-civil-war-general-review/1900-2532844/ - Difficulty description by Kevin Mical
+[^ref-25]: http://ageod-forum.com/viewtopic.php?t=50764 - Lee unlock mechanics from forum discussion
+[^ref-26]: http://ageod-forum.com/viewtopic.php?t=50764 - Detailed unlock conditions for Robert E. Lee
+[^ref-27]: https://www.ebay.com/p/54344346 - Unit types from game description
+[^ref-28]: http://ageod-forum.com/viewtopic.php?t=50764 - Modding capabilities discussion
+[^ref-29]: http://ageod-forum.com/viewtopic.php?t=50764 - Modding instructions from Cardinal Ape
+[^ref-30]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - Michael E. review conclusion
+[^ref-31]: https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html - PC Gamer review by William R. Trotter
+[^ref-32]: https://www.myabandonware.com/game/robert-e-lee-civil-war-general-9zr - Community rating from abandonware archive
+[^ref-33]: https://www.ebay.com/p/54344346 - ESRB rating from product listing
+[^ref-34]: https://www.gamespot.com/reviews/civil-war-generals-2-grant-lee-sherman-review/1900-2538423/ - Review conclusion by Michael E.
+[^ref-35]: https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - PC Gamer ranking reference
+[^ref-36]: https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq - User comments from John B Gordon
+[^ref-37]: https://www.old-games.com/download/9946/robert-e-lee-civil-war - User review emphasizing educational value
+[^ref-38]: https://www.myabandonware.com/game/robert-e-lee-civil-war-general-9zr - User defense of game content
+[^ref-39]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Sales performance data
+[^ref-40]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Development background
+[^ref-41]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Jeffrey Fiske design philosophy
+[^ref-42]: https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/ - CUC acquisition details
+[^ref-43]: https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/ - Ken Williams quote about acquisition
+[^ref-44]: https://archive.today/20180514174700/http://www.spokesman.com/stories/1996/feb/21/cuc-to-acquire-sierra-on-line-in-deal-worth-at/ - Mike Brochu reassurance about operations
+[^ref-45]: https://web.archive.org/web/20130430034430/https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - Development team background
+[^ref-46]: https://web.archive.org/web/20130430034430/https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - Steve Grammont quote about partnership
+[^ref-47]: https://en.wikipedia.org/wiki/Robert_E._Lee:_Civil_War_General - Panzer General influence
+[^ref-48]: https://www.zophar.net/music/windows/robert-e-lee-civil-war-general - Composer credits from music archive
+[^ref-49]: https://www.loc.gov/classroom-materials/civil-war-music/ - Historical quote about music importance
+[^ref-50]: https://web.archive.org/web/19971007211944/http://www.cdmag.com:80/war_vault/e3_war/page1.html - Mort Künstler artwork reference
+[^ref-51]: https://www.pcgamingwiki.com/wiki/Robert_E._Lee:_Civil_War_General - Technical engine specifications
+[^ref-52]: https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html - Minimum system requirements
+[^ref-53]: https://web.archive.org/web/20000118125455/http://www.pcgamer.com/reviews/895.html - Recommended specifications
+[^ref-54]: https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - Development process quote
+[^ref-55]: https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - PC Gamer ranking reference
+[^ref-56]: https://www.polygon.com/features/2013/1/29/3916154/turn-by-turn-battlefront-combat-mission - Steve Grammont success reflection
+[^ref-57]: https://archive.org/details/r-e-lee-movies - Internet Archive preservation
+[^ref-58]: https://web.archive.org/web/19990225105904/http://www.npd.com:80/corp/products/product_indsoft9609.htm - NPD sales tracking data
+[^ref-59]: https://store.steampowered.com/search/?term=Robert+E.+Lee%3A+Civil+War+General - Steam availability search
+[^ref-60]: https://www.gog.com/en/games?query=Robert+E.+Lee%3A+Civil+War+General - GOG availability search
+[^ref-61]: https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq - MyAbandonware preservation archive

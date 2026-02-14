@@ -131,3 +131,30 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - [[1999 - Starsiege|→ Next: Starsiege]]
 
 ## 
+## References
+
+[^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – - Developer, designer, and basic game information
+[^ref-2]: [GameSpot Tribes 2 Review](https://www.gamespot.com/reviews/tribes-2-review/1900-2705268/) – - Description of original Starsiege: Tribes as first multiplayer-focused retail FPS
+[^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/285280305214) – - Game's multiplayer focus and training missions only for single-player
+[^ref-4]: [MobyGames Entry](https://www.mobygames.com/game/2661/starsiege-tribes/) – - 40th century setting and tribal conflict background
+[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Starsiege:_Tribes) – - Innovative jetpack movement and large-scale team combat
+[^ref-6]: [Super Jump Magazine](https://www.superjumpmagazine.com/tribes-the-great-fps-underdog-part-1/) – - Historical significance as birth of team-based objective shooters
+[^ref-7]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Starsiege:_Tribes) – - Skiing movement technique as unintended exploit turned feature
+[^ref-8]: [Strategy Wiki](https://strategywiki.org/wiki/Starsiege:_Tribes) – - Platform information
+[^ref-9]: [eBay Product Description](https://www.ebay.com/p/6488472) – - Game setting description
+[^ref-10]: [ModDB](https://www.moddb.com/games/tribes) – - Connection to EarthSiege universe
+[^ref-11]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Starsiege:_Tribes) – - Control scheme support
+[^ref-12]: [Archived Computer and Video Games Guide](https://web.archive.org/web/20070121083557/http://www.computerandvideogames.com/article.php?id=69365) – - Armor types and characteristics
+[^ref-13]: [Laberinto Gris](https://laberintogris.com/en/luis-royo-80s-90s/321-luis-royo-laberinto-gris-videogame-manual-illustration-starsiege-tribes.html) – - Equipment and pack systems
+[^ref-14]: [MyAbandonware](https://www.myabandonware.com/game/starsiege-tribes-bhx) – - Player count and map numbers
+[^ref-15]: [Metacritic User Review](https://www.metacritic.com/game/starsiege-tribes/) – - daydull user review describing skill curve and skiing mechanics
+[^ref-16]: [GameSpot Review](https://www.gamespot.com/reviews/starsiege-tribes-review/1900-2533218/) – - Michael E. review score and quote
+[^ref-17]: [Archived GameRankings](https://web.archive.org/web/20190530133845/https://www.gamerankings.com/pc/132861-starsiege-tribes/index.html) – - Professional review scores from multiple publications
+[^ref-18]: [Archived CNET Gamecenter Review](https://web.archive.org/web/20001009113809/http://gamecenter.com/Reviews/Item/0,6,0-2408,00.html) – - Paul Schuytema review score
+[^ref-19]: [IMDb](https://www.imdb.com/find/?q=Starsiege%3A+Tribes&s=tt) – - User rating
+[^ref-20]: [Archived Dynamix Press Release](https://web.archive.org/web/19980627112625/http://www.dynamix.com/pr/tribes-pr.html) – - Original announcement in May 1998
+[^ref-21]: [IGN Tribes Extreme Interview](https://www.ign.com/articles/1999/10/15/tribes-extreme-interview) – - Scott Rudi quote about AI limitations
+[^ref-22]: [Archived CD Mag Review](https://web.archive.org/web/20030518211037/http://www.cdmag.com/articles/016/119/tribes_review.html) – - Technical specifications and networking capabilities
+[^ref-23]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Tribes_(series) – ) - Series continuity and sequel information
+[^ref-24]: [Spokesman.com](https://www.spokesman.com/blogs/tech-deck/2015/aug/31/weeks-free-game-starsiege-tribes/) – - Freeware release in 2004
+[^ref-25]: [TribesNext](https://www.tribesnext.com/) – - Community service for continued online play

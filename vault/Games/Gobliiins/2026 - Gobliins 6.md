@@ -253,3 +253,18 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)
 
 ## 
+## References
+
+[^ref-1]: [Kickstarter – Gobliins 6 by Pierre Gilhodes](https://www.kickstarter.com/projects/pierregilhodes/gobliins6) – Campaign details, funding information, development status
+[^ref-2]: [Adventure Gamers – Gobliins 6: A Quirky Comeback Adventure](https://adventuregamers.com/news/view/gobliins6-a-quirky-comeback-adventure) – Game announcement and story details
+[^ref-3]: [Adventure Gamers Forums – Gobliiins 5 and Gobliins 6 Kickstarter](https://adventuregamers.com/forums/viewthread/15732) – Community discussion, AGS engine details
+[^ref-4]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – Series history, naming convention
+[^ref-5]: [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page
+[^ref-6]: [MobyGames – Pierre Gilhodes](https://www.mobygames.com/person/10718/pierre-gilhodes/) – Developer credits and career history
+[^ref-7]: [GOG Forums – Gobliins 6 Kickstarter discussion](https://www.gog.com/forum/general/gobliins_6_gobliins_2_sequel_to_kickstart) – Community reaction
+[^ref-8]: [Steam Gifts – Gobliins 6 Kickstarter discussion](https://www.steamgifts.com/discussion/fyhDo/kickstarter-for-gobliins-6-a-quirky-comeback-adventure-sequel-to-gobliins-2) – Community discussion
+[^ref-9]: [RPG Codex – Gobliins 6 discussion](https://rpgcodex.net/forums/threads/gobliins6-by-pierre-gilhodes.151592/) – Detailed community analysis
+[^ref-10]: [Adventure-Treff – Gobliins 6](https://www.adventure-treff.de/forum/topic/26046) – German community coverage
+[^ref-11]: [Facebook – Pierre Gilhodes status update](https://www.facebook.com/groups/144759398597) – December 15, 2025 development status
+[^ref-12]: [Adventure Gamers – Gobliiins 6 Game Details](https://adventuregamers.com/games/gobliiins-6) – Game database entry with plot details
+[^ref-13]: [Kickstarter – Gobliins 6 Update #8: Imminent game release](https://www.kickstarter.com/projects/pierregilhodes/gobliins6/posts/4600616) – February 2, 2026 release announcement

@@ -210,3 +210,26 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [[1995 - Torin's Passage|→ Next: Torin's Passage]]
 
 ## 
+## References
+
+[^ref-1]: [ClassicReload – Ruins of Cawdor](https://classicreload.com/ruins-of-cawdor.html) – historical context, series information, offline patch
+[^ref-2]: [GameFAQs – Ruins of Cawdor](https://gamefaqs.gamespot.com/pc/580470-ruins-of-cawdor/data) – developer, publisher, release year
+[^ref-3]: [MobyGames – Ruins of Cawdor](https://www.mobygames.com/game/67088/ruins-of-cawdor/) – engine, plot, ratings, technical details
+[^ref-4]: [Massively OP – The Game Archaeologist](https://massivelyop.com/2019/06/22/the-game-archaeologist-sierras-fates-of-twinion-and-ruins-of-cawdor/) – historical context, multiplayer features, Richard Aronson
+[^ref-5]: [DungeonCrawlers.org – Ruins of Cawdor](https://dungeoncrawlers.org/game/ruins-of-cawdor/) – gameplay mechanics, character classes, dungeon structure
+[^ref-6]: [Abandonware France – Ruins of Cawdor](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=4868) – French review quote, trivia, offline patch
+[^ref-7]: [Wikipedia – The Ruins of Cawdor](https://en.wikipedia.org/wiki/The_Ruins_of_Cawdor) – player capacity, technical specs
+[^ref-8]: [XTC Abandonware – The Ruins of Cawdor](https://www.xtcabandonware.com/game/2184/the-ruins-of-cawdor) – solo difficulty, multiplayer design
+[^ref-10]: [Wikipedia Talk – ImagiNation Network](https://en.wikipedia.org/wiki/Talk:ImagiNation_Network) – Richard Aronson quotes, development history
+[^ref-11]: [HandWiki – The Ruins of Cawdor](https://handwiki.org/wiki/Software:The_Ruins_of_Cawdor) – platform information
+[^ref-12]: [RPG Codex Forums](https://rpgcodex.net/forums/threads/the-shadow-of-yserbius-fates-of-twinion-ruins-of-cawdor.107795/) – narrative style, gameplay details, map mechanics
+[^ref-14]: [PlayClassic.games – Ruins of Cawdor](https://playclassic.games/games/role-playing-dos-games-online/play-ruins-of-cawdor-online/) – interface description, gameplay style
+[^ref-15]: [Wikidata – Q7761800](https://www.wikidata.org/wiki/Q7761800) – input device, distribution format
+[^ref-16]: [MyAbandonware – Ruins of Cawdor](https://www.myabandonware.com/game/ruins-of-cawdor-cbm) – user rating, file size, preservation
+[^ref-17]: [LaunchBox Games Database – Ruins of Cawdor](https://gamesdb.launchbox-app.com/games/details/97448-ruins-of-cawdor) – resolution, technical specs
+[^ref-18]: [Internet Archive – Ruins of Cawdor](https://archive.org/details/msdos_Ruins_of_Cawdor_1995) – file size, preservation
+[^ref-19]: [Games Nostalgia – Ruins of Cawdor](https://gamesnostalgia.com/game/ruins-of-cawdor) – version info, download details
+[^ref-20]: [Alchetron – Eric and the Dread Gazebo](https://alchetron.com/Eric-and-the-Dread-Gazebo) – Richard Aronson background, anecdote history
+[^ref-21]: [Old-Games.com – Ruins of Cawdor](https://www.old-games.com/download/7344/ruins-of-cawdor) – download, file size
+[^ref-22]: [GOG Dreamlist – The Ruins of Cawdor](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995) – wishlist entry
+[^ref-24]: [Squakenet – The Ruins of Cawdor](https://www.squakenet.com/game/the-ruins-of-cawdor/) – character classes, dungeon structure

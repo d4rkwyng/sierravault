@@ -188,3 +188,23 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 - [[1996 - Front Page Sports - Football Pro '97|→ Next: Front Page Sports - Football Pro '97]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Front Page Sports: Baseball Pro '96 Season](https://www.mobygames.com/game/25681/front-page-sports-baseball-pro-96-season/) – developer, publisher, designers, ratings, game description
+[^ref-2]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series history, sales data, awards, industry impact
+[^ref-3]: [Wikipedia – Front Page Sports: Baseball Pro '96 Season](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2796_Season) – technical details, graphics modes, roster size, trivia
+[^ref-4]: [MobyGames – Front Page Sports: Baseball Pro '98](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – physics-based gameplay description, career mode features
+[^ref-5]: [Old-Games.com – Front Page Sports Baseball Pro](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – review quotes, game description
+[^ref-6]: [GameSpot – Front Page Sports: Baseball Pro '96 Season](https://www.gamespot.com/front-page-sports-baseball-pro-96-season/) – review score, reviewer quotes
+[^ref-7]: [eBay – Product Listing](https://www.ebay.com/p/54347343) – ESRB rating, platform information
+[^ref-8]: [Internet Archive – Computer Game Review (July 1996)](https://web.archive.org/web/19961221184939/http://www.nuke.com/cgr/reviews/9607/fpsbball/fpsbball.htm) – review score, system requirements, control levels, DOS support info
+[^ref-9]: [Internet Archive – Next Generation Magazine](https://archive.org/details/nextgeneration) – Next Generation magazine review quote
+[^ref-10]: [Old-Games.com – Front Page Sports: Baseball Pro '98](https://www.old-games.com/download/6102/front-page-sports-baseball-pro) – technical features, CAMS system, stadium count
+[^ref-11]: [GameSpot – Front Page Sports: Baseball Pro '96 Season Review](https://www.gamespot.com/reviews/front-page-sports-baseball-pro-96-season-review/1900-2536091/) – Hugo Foster retrospective review
+[^ref-12]: [MyAbandonware – Front Page Sports: Baseball Pro '96 Season](https://www.myabandonware.com/game/front-page-sports-baseball-pro-96-season-dr4) – user ratings, download size, user review quote
+[^ref-13]: [Metacritic – Front Page Sports: Baseball Pro '96 Season](https://www.metacritic.com/game/pc/front-page-sports-baseball-pro-96-season) – user score
+[^ref-14]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-baseball-pro-96-season/) – alternate download sizes
+[^ref-15]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch version information
+[^ref-16]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – emulation compatibility, tablet gaming
+[^ref-17]: [MVP Mods Forum](https://www.mvpmods.com/forums/topic/8719-front-page-sports-96-music-mod/) – music track information, nostalgic user comments
+[^ref-18]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – SVGA graphics description, companion game information

@@ -105,3 +105,25 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - **Tribes 3: Rivals** (2024) – Prophecy Games
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info
+[^ref-2]: [Rock Paper Shotgun – Tribes 3 Early Access Launch](https://www.rockpapershotgun.com/tribes-3-rivals-is-out-in-early-access-now-for-another-shot-at-making-tribes-popular) – launch announcement
+[^ref-3]: [SteamDB – Tribes 3: Rivals Charts](https://steamdb.info/app/2687970/charts/) – player counts
+[^ref-4]: [PC Gamer – Tribes Revival Struggles](https://www.pcgamer.com/games/fps/the-latest-attempt-to-revive-tribes-looks-cooked-after-three-months/) – development pause announcement
+[^ref-5]: [Steam Store Page](https://store.steampowered.com/app/2687970/TRIBES_3_Rivals/) – game description, classes, maps
+[^ref-6]: [Official Website](https://www.tribes3rivals.com/) – how to play, FAQ
+[^ref-7]: [SteamCharts](https://steamcharts.com/app/2687970) – concurrent players
+[^ref-8]: [IGN – Tribes 3 Review](https://www.ign.com/games/tribes-3-rivals) – coverage
+[^ref-9]: [PCGamingWiki – Tribes 3: Rivals](https://www.pcgamingwiki.com/wiki/Tribes_3:_Rivals) – technical info
+[^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
+[^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
+[^ref-12]: [Developer Interview – Mick Larkins](https://www.youtube.com/results?search_query=tribes+3+rivals+developer+interview) – development insights
+[^ref-13]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
+[^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
+[^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics
+[^ref-16]: [Prophecy Games Official](https://www.prophecygames.com/) – developer info
+[^ref-17]: [IGN Coverage](https://www.ign.com/articles/tribes-3-rivals-preview) – preview coverage
+[^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
+[^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
+[^ref-20]: [Steam Community Hub](https://steamcommunity.com/app/2687970/) – player discussions

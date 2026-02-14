@@ -226,3 +226,24 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 - [[1998 - Ultimate Soccer Manager 98|← Previous: Ultimate Soccer Manager 98]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Ultimate Soccer Manager 98-99](https://archive.org/details/ultimate-soccer-manager-98-99) – game metadata, features, archive information
+[^ref-2]: [Wikipedia – Ultimate Soccer Manager](https://en.wikipedia.org/wiki/Ultimate_Soccer_Manager) – series history, versions, reception scores, development details
+[^ref-3]: [MobyGames – Ultimate Soccer Manager 98](https://www.mobygames.com/game/568/ultimate-soccer-manager-98/) – developer, designer, composer credits, ratings, technical specs
+[^ref-4]: [MobyGames – Ultimate Soccer Manager 98-99](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/) – release information, platform, ratings
+[^ref-5]: [MyAbandonware – Ultimate Soccer Manager 98-99](https://www.myabandonware.com/game/ultimate-soccer-manager-98-99-bjq) – review quotes, ratings, game features, download information
+[^ref-6]: [Software Informer – Ultimate Soccer Manager 98-99](https://ultimate-soccer-manager-98-99.software.informer.com/) – engine details, version info, ratings
+[^ref-7]: [VGTimes – Ultimate Soccer Manager 98-99](https://www.vgtimes.com/games/ultimate-soccer-manager-98-99/) – genre description, ratings, alternate titles
+[^ref-8]: [Netlify Archive – Ultimate Soccer Manager 98-99](https://nowboteternal.netlify.app/ultimate-soccer-manager-98-99.html) – Amiga Computing review, technical issues, cut content, version history
+[^ref-9]: [Old-Games.com – Ultimate Soccer Manager 98-99](https://www.old-games.com/download/4981/ultimate-soccer-manager-98-99) – review quotes, technical specs, download sizes
+[^ref-10]: [SoccerGaming Forums – USM 98 Help](https://soccergaming.com/forums/threads/ultimate-soccer-manager-98-help.91648/) – community updates, compatibility issues, player testimonials
+[^ref-11]: [Kotaku – Ultimate Soccer Manager 98-99](https://kotaku.com/games/ultimate-soccer-manager-98-99) – series overview, expansion features
+[^ref-12]: [GOG.com Dreamlist – Ultimate Soccer Manager 98-99](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – developer, publisher, version information
+[^ref-13]: [MobyGames – USM 98-99 Specs](https://www.mobygames.com/game/20806/ultimate-soccer-manager-98-99/specs/) – technical specifications, system requirements
+[^ref-14]: [Retrolorean – Ultimate Soccer Manager 98-99](https://www.retrolorean.com/en/ultimate-soccer-manager-98-99-13208) – retrospective review, legacy analysis
+[^ref-15]: [MyAbandonware – Ultimate Soccer Manager (1995)](https://www.myabandonware.com/game/ultimate-soccer-manager-2c4) – series origins, designer credit, HOTUD review
+[^ref-16]: [IMDB – Ultimate Soccer Manager 98](https://www.imdb.com/find/?q=Ultimate+Soccer+Manager+98-99&s=tt) – user ratings
+[^ref-17]: [Sierra Help – USM Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – patch information, version history
+[^ref-18]: [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – community tool, version compatibility
+[^ref-19]: [Neoseeker Forums – USM 98-99](https://www.neoseeker.com/forums/3877/t721679-ultimate-soccer-manager-98-99/) – community discussion, download availability

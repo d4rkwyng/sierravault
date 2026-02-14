@@ -208,3 +208,32 @@ This game has been included in the following collections:
 - [[1990 - Quest for Glory II - Trial by Fire|→ Next: Quest for Glory II - Trial by Fire]]
 
 ## 
+## References
+[^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception
+[^ref-2]: [My Abandonware – Hero's Quest](https://www.myabandonware.com/game/hero-s-quest-so-you-want-to-be-a-hero-25k) – platforms, availability
+[^ref-3]: [Sierra Fandom Wiki – Quest for Glory I VGA](https://sierra.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero_%28VGA%29) – VGA remake details, SCI1.1 engine
+[^ref-4]: [Sierra Fandom Wiki – Quest for Glory I EGA](https://sierra.fandom.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero_%28EGA%29) – original release details, plot, gameplay
+[^ref-5]: [Grokipedia – Quest for Glory](https://grokipedia.com/page/Quest_for_Glory) – series development history, creators, gameplay mechanics
+[^ref-6]: [PCGamingWiki – Quest for Glory: So You Want to Be a Hero](https://www.pcgamingwiki.com/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – technical specs, availability
+[^ref-7]: [Computer Gaming World – 1990 Awards](http://www.cgwmuseum.org/galleries/index.php?year=1990&pub=2&id=74) – Adventure Game of the Year, 150 Best Games list
+[^ref-8]: [Adventure Gamers – Quest for Glory I](https://adventuregamers.com/games/quest-for-glory-i-so-you-want-to-be-a-hero) – modern review
+[^ref-9]: [GOG – Quest for Glory 1-5](https://www.gog.com/en/game/quest_for_glory) – purchase, user reviews
+[^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – purchase, user reviews
+[^ref-11]: [Internet Archive – Quest for Glory Manual](https://archive.org/details/Quest_for_Glory_Manual) – preservation, documentation
+[^ref-12]: [MobyGames – Hero's Quest](https://www.mobygames.com/game/168/heros-quest-so-you-want-to-be-a-hero/) – original release credits
+[^ref-13]: [MobyGames – Quest for Glory I VGA](https://www.mobygames.com/game/16075/quest-for-glory-i-so-you-want-to-be-a-hero/) – VGA remake credits
+[^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_I%3A_So_You_Want_to_Be_a_Hero) – series information
+[^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – series retrospective
+[^ref-16]: [Digital Antiquarian – So You Want to Be a Hero?](https://www.filfre.net/2016/09/so-you-want-to-be-a-hero/) – historical analysis
+[^ref-17]: [StrategyWiki – Quest for Glory](https://strategywiki.org/wiki/Quest_for_Glory) – walkthrough, game guide
+[^ref-18]: [Amiga Reviews Archive](https://amigareviews.leveluphost.com/qfg.htm) – Amiga version reviews
+[^ref-19]: [Adventure Classic Gaming – Quest for Glory I Review](https://adventureclassicgaming.com/index.php/site/reviews/174/) – 4/5 review by Don Rayner
+[^ref-20]: [RPGamer – Quest for Glory Reviews](https://rpgamer.com/games/qfg/qfg1/) – modern retrospective reviews
+[^ref-21]: [HowLongToBeat – Quest for Glory I](https://howlongtobeat.com/game/7479) – completion times
+[^ref-22]: [Speedrun.com – Quest for Glory I](https://www.speedrun.com/qfg1) – speedrun leaderboards
+[^ref-23]: [Abandonware DOS – Quest for Glory](https://www.abandonwaredos.com/abandonware-game.php?abandonession=quest-for-glory-i-so-you-want-to-be-a-hero) – user ratings
+[^ref-24]: [GameFAQs – Hero's Quest](https://gamefaqs.gamespot.com/pc/562667-heros-quest-so-you-want-to-be-a-hero) – user reviews, guides
+[^ref-25]: [TV Tropes – Quest for Glory I](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryI) – trope analysis, design details
+[^ref-26]: [IMDB – Quest for Glory (VGA)](https://www.imdb.com/title/tt0420843/) – VGA remake credits
+[^ref-27]: [ScummVM Wiki – Quest for Glory I](https://wiki.scummvm.org/index.php?title=Quest_for_Glory:_So_You_Want_To_Be_A_Hero) – technical compatibility
+[^ref-28]: [The Cutting Room Floor – Quest for Glory I](https://tcrf.net/Quest_for_Glory:_So_You_Want_to_Be_a_Hero) – unused content

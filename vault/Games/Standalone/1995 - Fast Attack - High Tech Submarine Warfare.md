@@ -221,3 +221,25 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 - [[1995 - Shannara|→ Next: Shannara]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, credits, ratings
+[^ref-2]: [GameFAQs – Fast Attack: High Tech Submarine Warfare](https://gamefaqs.gamespot.com/pc/930373-fast-attack-high-tech-submarine-warfare) – game description, platform, ratings
+[^ref-3]: [Video Game Database Wiki – Fast Attack](https://thevideogamedatabase.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – synopsis, gameplay description
+[^ref-4]: [SUBSIM Review – Fast Attack](https://www.subsim.com/subsim-review-fast-attack/) – detailed review, technical analysis, patch information, scores
+[^ref-5]: [Everything Allowed Wiki – Fast Attack](https://everything-allowed.fandom.com/wiki/Fast_Attack:_High_Tech_Submarine_Warfare) – credits, military consultation, technical specs
+[^ref-6]: [Old PC Gaming – Fast Attack Review](https://oldpcgaming.net/fast-attack-high-tech-submarine-warfare/) – gameplay analysis, technical requirements, critique
+[^ref-7]: [MyAbandonware – Fast Attack](https://www.myabandonware.com/game/fast-attack-high-tech-submarine-warfare-br4) – release dates, download information, ratings
+[^ref-8]: [MobyGames – Screenshots](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/screenshots/dos/192694/) – technical resolution details
+[^ref-9]: [Reddit – Submarine Warfare Discussion](https://www.reddit.com/r/WorldOfWarships/comments/1aqeaci/the_best_way_to_fix_submarines_would_be_to_simply/) – submarine detection mechanics
+[^ref-10]: [Wikipedia – Los Angeles-class submarine](https://en.wikipedia.org/wiki/Los_Angeles-class_submarine) – technical specifications, submarine history, Admiral Rickover quote
+[^ref-11]: [MobyGames – Releases](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/releases/) – international release dates, distributors
+[^ref-12]: [Internet Archive – Spanish Re-release Scans](https://archive.org/details/fast_attack_spanish_rerelease_scans) – 2000 Spanish edition documentation
+[^ref-13]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Fast_Attack_High_Tech_Submarine_Warfare_1996) – preservation copy, file specifications
+[^ref-14]: [Manuals Plus – Fast Attack Documentation](https://manuals.plus/asin/B000EX1YDU) – installation guide, system requirements
+[^ref-15]: [eBay Product Listing](https://www.ebay.com/p/56677913) – ESRB rating, media format
+[^ref-16]: [Kotaku – Fast Attack](https://kotaku.com/games/fast-attack-high-tech-submarine-warfare) – game description
+[^ref-17]: [Metacritic – Fast Attack](https://www.metacritic.com/game/fast-attack-high-tech-submarine-warfare/) – genre classification
+[^ref-18]: [Never Die Media – Product Page](https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) – game description, compatibility
+[^ref-19]: [Kagi FastGPT Query](kagi:fastgpt:What year was Fast Attack High Tech Submarine Warfare video game released and who developed it?) – developer confirmation
+[^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate review scores

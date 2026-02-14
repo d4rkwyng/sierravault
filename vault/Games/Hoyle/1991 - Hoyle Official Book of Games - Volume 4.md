@@ -181,3 +181,27 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 - [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive](https://archive.org/details/CLASSIC_201803) - Release year and series information
+[^ref-2]: [Internet Archive](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) - Game contents description
+[^ref-3]: [Brain Baking](https://brainbaking.com/post/2025/09/a-tribute-to-hoyles-official-book-of-games/) - Version history and character feature details
+[^ref-4]: [MobyGames](https://www.mobygames.com/game/30264/hoyle-classic-card-games/) - Developer credits, critical reception
+[^ref-6]: [GameFAQs](https://gamefaqs.gamespot.com/pc/197583-hoyle-classic-card-games) - Hoyle reputation and authority
+[^ref-8]: [Old Games Download](https://oldgamesdownload.com/hoyle-classic-card-games/) - Developer information
+[^ref-9]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Hoyle_Classic_Card_Games) - Platform and technical details
+[^ref-10]: [Wikipedia](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) - Development challenges and production methods
+[^ref-11]: [Old PC Gaming](https://oldpcgaming.net/hoyle-classic-card-games-review/) - Review and game descriptions
+[^ref-13]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) - Patch and update information
+[^ref-14]: [Giant Bomb](https://www.giantbomb.com/hoyle-classic-card-games/3030-16932/) - Character roster and ratings
+[^ref-15]: [EcoQuest Fandom](https://ecoquest.fandom.com/wiki/Hoyle_Classic_Card_Games) - Character expression details
+[^ref-16]: [MobyGames Credits](https://www.mobygames.com/game/203390/hoyle-classic-card-games/) - Production team credits
+[^ref-18]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=521&title=hoyle-classic-card-games-1&fld=music) - Music and audio notes
+[^ref-19]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=14793) - Audio performance notes
+[^ref-20]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-classic-card-games-review/1900-2537742/) - Professional review
+[^ref-21]: [Amazon](https://www.amazon.com/Hoyle-Classic-Card-Games-Pc/dp/B000DZLXR6) - Customer reviews
+[^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Hoyle+Classic+Card+Games&gid=1924) - User rating
+[^ref-23]: [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-fxx) - User rating
+[^ref-24]: [DOSBox Compatibility](http://www.dosbox.com/comp_list.php?letter=H&showID=485) - Emulator support status
+[^ref-25]: [Internet Archive - Windows](https://archive.org/details/hoyle-classic-card-games-1997) - Windows version archive
+[^ref-26]: [Windows Bulletin](https://windowsbulletin.com/files/exe/sierra-on-line-inc/hoyle-classic-card-games/card-exe) - Technical file specifications

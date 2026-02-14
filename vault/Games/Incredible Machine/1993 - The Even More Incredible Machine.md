@@ -238,3 +238,25 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 - [[1994 - The Incredible Machine 2|→ Next: The Incredible Machine 2]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, critic ratings, media formats
+[^ref-2]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, inspiration, version list, developer information
+[^ref-3]: [Wikipedia – The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine) – sales data, awards, development budget, naval yard anecdote, IGN quote
+[^ref-4]: [GameFAQs – The Even More Incredible Machine](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine) – user ratings, puzzle count, freeform mode information
+[^ref-5]: [Internet Archive – The Even More Incredible Machine](https://archive.org/details/the_even_more_incredible_machine_1993) – platforms, release year, new content details
+[^ref-6]: [ClassicReload – The Incredible Machine](https://classicreload.com/dosx-the-incredible-machine.html) – gameplay description, educational use
+[^ref-7]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – credits, Hall of Fame status, player reviews
+[^ref-8]: [MyAbandonware – The Even More Incredible Machine](https://www.myabandonware.com/game/the-even-more-incredible-machine-2dh) – user ratings, user comments, regional releases
+[^ref-9]: [PCGamingWiki – The Even More Incredible Machine](https://www.pcgamingwiki.com/wiki/The_Even_More_Incredible_Machine) – technical specifications, bugs, version information, GOG release
+[^ref-10]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Even+More%21+Incredible+Machine) – design influences, part count, puzzle features
+[^ref-11]: [PlayMiniGames – The Even More Incredible Machine](https://playminigames.net/game/the-even-more!-incredible-machine) – user ratings, browser playability
+[^ref-12]: [Dynamix Fandom Wiki – Kevin Ryan](https://dynamix.fandom.com/wiki/Kevin_Ryan) – development origin story
+[^ref-13]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – company history, game development
+[^ref-14]: [GOG Database](https://www.gogdb.org/product/1207664023) – digital release details, installer size
+[^ref-15]: [ClassicReload – The Even More Incredible Machine](https://classicreload.com/the-even-more-incredible-machine.html) – Japanese title, platform information
+[^ref-16]: [GamePressure – GOG2CD Patch](https://www.gamepressure.com/download/the-even-more-incredible-machine-gog2cd-patch-v13062023-mod/za148f7) – audio quality mod information
+[^ref-17]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/cheats) – holiday Easter eggs
+[^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents
+[^ref-19]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/faqs) – community guide information
+[^ref-20]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – spin-off information

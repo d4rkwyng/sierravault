@@ -229,3 +229,36 @@ The game's short length (completable in under three hours) and easy puzzles posi
 - [[2014 - Gold Rush Anniversary|← Previous: Gold Rush Anniversary]]
 
 ## 
+## References
+
+[^ref-1]: [Gold Rush! Game – Official Website](https://www.goldrush-game.com/) – release dates, version history, development timeline, box version details
+
+[^ref-2]: [Steam Store – Gold Rush! 2](https://store.steampowered.com/app/609100/Gold_Rush_2/) – release date, platforms, system requirements, user reviews, technical specifications
+
+
+[^ref-4]: [Google Play Store – Gold Rush! 2](https://play.google.com/store/apps/details?id=com.sunlightgames.goldrush2&hl=en_US) – mobile version details, historical setting, technical requirements, story details
+
+[^ref-5]: [3rd-strike.com – Gold Rush 2 Review](https://3rd-strike.com/gold-rush-2-review/) – review score 6.1/10, voice acting criticism, developer analysis, reviewer quotes
+
+[^ref-6]: [Just Adventure – Gold Rush! 2 Review](https://www.justadventure.com/2018/04/12/gold-rush-review/) – C grade review, gameplay length, bug reports, voice acting criticism, system requirements
+
+[^ref-7]: [Adventure Gamers – Gold Rush! 2](https://adventuregamers.com/games/gold-rush-2) – 2 star review, release date, publisher information, critical quotes
+
+[^ref-8]: [Raijin.gg – Game Description](https://raijin.gg/app/609100/Gold_Rush_2/reviews) – story summary, Steam review aggregation
+
+[^ref-9]: [Steam Community – User Reviews](https://steamcommunity.com/app/609100/reviews/?browsefilter=toprated) – player feedback, technical issues, gameplay length, trading cards
+
+[^ref-10]: [Adventure Gamers – Gold Rush! Anniversary](https://adventuregamers.com/games/gold-rush-remake) – remake review, original game features, graphics comparison
+
+[^ref-11]: [Metacritic – Gold Rush! 2](https://www.metacritic.com/game/gold-rush-2/) – aggregated score 40/100, platforms, release date
+
+
+[^ref-13]: [MobyGames – Gold Rush! 2](https://www.mobygames.com/game/106599/gold-rush-2/) – developer information, platforms, rating
+
+[^ref-14]: [Apple App Store – Gold Rush! Companion App](https://apps.apple.com/ve/app/gold-rush-companion-app/id1070534962) – companion app details, version history, development timeline
+
+[^ref-15]: [Steam Community – Technical Discussions](https://steamcommunity.com/app/609100) – technical issues, launch problems
+
+[^ref-16]: [IGN – California Gold Rush 2 Review](https://www.ign.com/articles/2010/02/17/california-gold-rush-2-review) – different game by Digital Chocolate, context for franchise confusion
+
+[^ref-17]: [Wikipedia – Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) – original game history, copy protection, Adventure Gamers ranking, series context

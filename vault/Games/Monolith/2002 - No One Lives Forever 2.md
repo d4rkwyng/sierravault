@@ -325,3 +325,50 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [[2003 - Contract J.A.C.K.|→ Next: Contract J.A.C.K.]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – development info, reception scores, awards, release dates
+[^ref-2]: [GOG Dreamlist – No One Lives Forever 2](https://www.gog.com/dreamlist/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way) – game description, publishers, setting
+[^ref-3]: [Metacritic – No One Lives Forever 2](https://www.metacritic.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way/) – aggregate scores, critic quotes
+[^ref-22]: [GameSpot Review](https://www.gamespot.com/reviews/no-one-lives-forever-2-a-spy-in-harms-way/1900-2881851/) – Akron, Ohio location mention
+[^ref-5]: [Reddit r/ImmersiveSim Discussion](https://www.reddit.com/r/ImmersiveSim/comments/taz46k/is_no_one_lives_forever_2_a_spy_in_harms_way_2002/) – immersive sim analysis, Deus Ex comparisons, AI praise
+[^ref-6]: [Noble Knight Games Listing](https://www.nobleknight.com/P/2147461050/No-One-Lives-Forever-2---A-Spy-in-HARMs-Way) – plot summary, gadget descriptions
+[^ref-10]: [GameSpy Review](http://pc.gamespy.com/pc/no-one-lives-forever-2-a-spy-in-harms-way/543749p1.html) – Project Omega plot, chapter structure
+[^ref-8]: [NOLF Fandom Wiki – Cate Archer](https://nolf.fandom.com/wiki/Cate_Archer) – character background, voice actors, trivia
+[^ref-9]: [IMDB – No One Lives Forever 2](https://www.imdb.com/title/tt0339452/) – user rating, plot description, voice cast, trivia
+[^ref-11]: [Gamicus Fandom Wiki](https://gamicus.fandom.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – cast, engine features, plot
+[^ref-12]: [MobyGames – No One Lives Forever 2](https://www.mobygames.com/game/7391/no-one-lives-forever-2-a-spy-in-harms-way/) – awards, credits count, server shutdown, releases
+[^ref-13]: [MobyGames User Reviews](https://www.mobygames.com/game/7391/no-one-lives-forever-2-a-spy-in-harms-way/reviews/) – tricycle quote, user testimonials
+[^ref-14]: [ModDB – No One Lives Forever 2](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm) – features, weapons count
+[^ref-25]: [Eurogamer Review](https://www.eurogamer.net/r-nolf2-pc) – stealth mechanics, level count
+[^ref-16]: [IGN – No One Lives Forever 2](https://www.ign.com/games/no-one-lives-forever-2-a-spy-in-harms-way) – gameplay duration, features, rating
+[^ref-17]: [NOLF Fandom Wiki – A Spy in H.A.R.M.'s Way Mission](https://nolf.fandom.com/wiki/A_Spy_in_H.A.R.M.'s_Way) – snow footprint tracking, secret codes
+[^ref-18]: [Super Adventures in Gaming Blog](http://superadventuresingaming.blogspot.com/2013/02/no-one-lives-forever-2-spy-in-harms-way.html) – Deus Ex comparisons, skill system, new features
+[^ref-19]: [GameRevolution Review](https://www.gamerevolution.com/review/32775-nolf-2-review) – AI praise, chapter count, skill system
+[^ref-20]: [Entertainment Weekly Review (archived Metacritic)](https://web.archive.org/web/20111129115233/http://www.metacritic.com/game/pc/no-one-lives-forever-2-a-spy-in-harms-way) – stealth overhaul quote
+[^ref-21]: [GameFAQs FAQ/Walkthrough by Halon50](https://gamefaqs.gamespot.com/pc/532478-no-one-lives-forever-2-a-spy-in-harms-way/faqs/19767) – historical context, gadgets, spy genre influences
+[^ref-23]: [IGN Review](https://www.ign.com/articles/2002/10/02/no-one-lives-forever-2-a-spy-in-harms-way) – 9/10 score, Steve Butts quotes
+[^ref-24]: [Entertainment Weekly Review](https://ew.com/article/2002/10/11/no-one-lives-forever-2/) – A grade, Erik Wolpaw quotes, easter egg
+[^ref-26]: [AllGame Review (archived)](https://web.archive.org/web/20141116013035/http://www.allgame.com/game.php?id=37728&tab=review) – Mark Hoogland review, snowmobile criticism
+[^ref-27]: [GameFAQs User Review by MTLH](https://gamefaqs.gamespot.com/pc/532478-no-one-lives-forever-2-a-spy-in-harms-way/reviews/172968) – 9.6/10 retrospective, sales note
+[^ref-28]: [Reddit r/gaming Discussion](https://www.reddit.com/r/gaming/comments/1i46ifg/revising_the_forgotten_masterpiece_no_one_lives/) – modern appreciation, graphics praise
+[^ref-29]: [Gaming Pastime Review](https://gamingpastime.com/no-one-lives-forever-2-review/) – modern review, free download note
+[^ref-30]: [PCGamingWiki – No One Lives Forever 2](https://www.pcgamingwiki.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – technical issues, modernizer, availability
+[^ref-31]: [MyAbandonware – No One Lives Forever 2](https://www.myabandonware.com/game/no-one-lives-forever-2-a-spy-in-h-a-r-m-s-way-3nv) – user rating, download info, user quotes
+[^ref-32]: [Game Developer Classic Postmortem (archived)](https://web.archive.org/web/20211230110220/https://www.gamedeveloper.com/design/classic-postmortem-i-no-one-lives-forever-2-a-spy-in-harm-s-way-i-) – Craig Hubbard postmortem, development details
+[^ref-33]: [VGMdb – No One Lives Forever 2](https://vgmdb.net/product/21094) – audio credits, composer, musicians
+[^ref-34]: [MobyGames Technical Specs](https://www.mobygames.com/game/7391/no-one-lives-forever-2-a-spy-in-harms-way/specs/) – system requirements, ratings
+[^ref-35]: [NOLF Fandom Wiki – Game Page](https://nolf.fandom.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – patch dates and versions
+[^ref-36]: [MacPlay Press Release (archived)](https://web.archive.org/web/20050410124514/http://www.macplay.com/press/pr-nolf2release.php) – Mac release, Henry Price quote
+[^ref-37]: [PCGamingWiki Community Patch Page](https://community.pcgamingwiki.com/files/file/303-no-one-lives-forever-2-a-spy-in-harms-way-patch/) – v1.3 changelog, bug fixes
+[^ref-38]: [Speedrun.com NOLF2 Guides](https://www.speedrun.com/nolf2/guides/86h0b) – framerate issues, softlock bug
+[^ref-39]: [IMDB Movie Connections](https://m.imdb.com/title/tt0339452/movieconnections/?ref_=tt_trv_cnn) – movie references, Forensic Files
+[^ref-40]: [IMFDB – No One Lives Forever 2](https://www.imfdb.org/wiki/No_One_Lives_Forever_2:_A_Spy_In_H.A.R.M.'s_Way) – weapon anachronisms, technical errors
+[^ref-41]: [The Gamer – Legal Issues Explained](https://www.thegamer.com/no-one-lives-forever-the-operative-legal-issues-explained/) – sales figures, ownership quotes
+[^ref-42]: [Speed Demos Archive](https://speeddemosarchive.com/NoOneLivesForever2.html) – awards mention
+[^ref-43]: [Rock Paper Shotgun – NOLF Download Article](https://www.rockpapershotgun.com/no-one-will-sell-no-one-lives-forever-so-lets-download-it) – ownership disputes, Night Dive attempts
+[^ref-44]: [GitHub – NOLF2 R.E.A.L. VR Mod](https://github.com/LukeRoss00/nolf2-real-mod) – VR conversion details
+[^ref-45]: [ModDB – NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) – toolkit disclaimer, features
+[^ref-46]: [Amazon – Prima Strategy Guide](https://www.amazon.com/No-One-Lives-Forever-R-M-s/dp/0761540849) – guide details, description quotes
+[^ref-47]: [Internet Archive – NOLF2 Disc Images](https://archive.org/details/no-one-lives-forever-2-a-spy-in-h.a.r.m.s-way) – preservation materials
+[^ref-48]: [NOLF Fandom Wiki – Missions](https://nolf.fandom.com/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way_Missions) – series timeline

@@ -368,3 +368,52 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 - [[2004 - Counter-Strike - Condition Zero|← Previous: Counter-Strike - Condition Zero]]
 
 ## 
+## References
+
+[^ref-1]: [Half-Life.com – Official Half-Life 2 Page](https://www.half-life.com/en/halflife2) – release date, platforms, awards, review quotes
+[^ref-3]: [Wikipedia – Half-Life 2](https://en.wikipedia.org/wiki/Half-Life_2) – development costs, sales figures, platform releases, engine details
+[^ref-4]: [GameSpot – The Final Hours of Half-Life 2](https://www.gamespot.com/articles/the-final-hours-of-half-life-2/1100-6112889/) – development timeline, budget, team structure, Newell quotes
+[^ref-5]: [Ars Technica – Half-Life 2 Review](https://arstechnica.com/gaming/2004/12/hl2/) – system requirements, release context, development philosophy
+[^ref-6]: [Ars Technica – How Half-Life 2 Helped Sell Steam](https://arstechnica.com/gaming/2024/11/how-half-life-2-helped-sell-steam-to-a-skeptical-pc-gaming-market/) – Steam launch, digital distribution impact
+[^ref-7]: [Eurogamer – Half-Life 2: 10 Years On](https://www.eurogamer.net/articles/2014-11-16-half-life-2-10-years-on) – retrospective analysis, facial animation, storytelling
+[^ref-8]: [IMDb – Half-Life 2 Full Credits](https://www.imdb.com/title/tt0374692/) – cast, crew, designer credits, trivia
+[^ref-10]: [Half-Life Wiki – Half-Life 2](https://half-life.fandom.com/wiki/Half-Life_2) – gameplay chapters, version history, cut content
+[^ref-11]: [StrategyWiki – Half-Life 2](https://strategywiki.org/) – interface description, game structure
+[^ref-12]: [Celjaded – Half-Life 2 Retrospective](https://www.celjaded.com/half-life-2-retrospective/) – campaign length, HUD description, physics engine
+[^ref-13]: [Eurogamer – Half-Life 2 Steam Deck Update](https://www.eurogamer.net/articles/2022-01-27-half-life-2s-ui-is-getting-steam-deck-ready) – UI updates, modern display issues
+[^ref-14]: [IGN – Half-Life 2 Review](https://www.ign.com/articles/2004/11/15/half-life-2-review) – 9.7/10 score, gameplay analysis, test system specs
+[^ref-15]: [Game Developer – Physical Gameplay in Half-Life 2](https://www.gamedeveloper.com/design/post-gdc-physical-gameplay-in-i-half-life-2-i-) – physics design, GDC presentation, Jay Stelly quotes
+[^ref-16]: [GamesRadar – Half-Life 2 Review](http://www.gamesradar.com/half-life-2-review/) – varied gameplay types
+[^ref-17]: [Grokipedia – Half-Life 2](https://grokipedia.com/page/Half-Life_2) – Metacritic score, critical quotes, sales data
+[^ref-19]: [Amazon – Half-Life 2 Prima Official Game Guide](https://www.amazon.com/Half-Life-Prima-Official-Game-Guide/dp/0761543627) – guide details, customer reviews
+[^ref-20]: [The Digital Antiquarian – Half-Life History](https://www.filfre.net/?s=Half-Life+2) – Valve founding, development philosophy, Steve Theodore quote
+[^ref-21]: [GamesRadar – Making of Half-Life 2](https://www.gamesradar.com/making-of-half-life-2/) – cabal design process
+[^ref-22]: [Advances in Real-Time Rendering – Source Engine](https://advances.realtimerendering.com/s2006/Mitchell-ShadingInValvesSourceEngine.pdf) – technical shading presentation
+[^ref-23]: [GamesRadar – Half-Life 2 Storytelling](https://www.gamesradar.com/how-half-life-2-set-still-unbettered-standards-for-video-game-story-telling-with-a-hero-who-never-says-a-word/) – narrative analysis
+[^ref-24]: [IGN – Half-Life 2 Packages Revealed](https://www.ign.com/articles/2004/09/29/half-life-2-packages-revealed) – retail editions, media formats
+[^ref-25]: [Ars Technica – The Boy Who Stole Half-Life 2](https://arstechnica.com/gaming/2016/06/what-drove-one-half-life-2-super-fan-to-hack-into-valves-servers/) – Gembe interview, leak details
+[^ref-26]: [GamesIndustry.biz – Half-Life 2 Delayed](https://www.gamesindustry.biz/half-life-2-delayed-to-2004-following-valve-leak) – leak scope, delay announcement
+[^ref-27]: [GameFAQs – Half-Life 2 Background](https://gamefaqs.gamespot.com/pc/914642-half-life-2/faqs) – Gembe conviction details
+[^ref-28]: [Game Developer – Valve Vivendi Legal Dispute](https://www.gamedeveloper.com/game-platforms/valve-vivendi-legal-dispute-revealed) – legal claims, contract disputes
+[^ref-29]: [GameSpot – Game Industry's Steam-Powered War](https://www.gamespot.com/articles/game-industrys-steam-powered-war/1100-6112757/) – Steam launch controversy, Sierra lawsuit
+[^ref-30]: [GamesIndustry.biz – EA to Publish Half-Life 2](https://www.gamesindustry.biz/articles/ea-to-publish-half-life-2-xbox-distribute-valve-pc-titles) – settlement announcement
+[^ref-31]: [Easter Egg Database – Half-Life 2](https://eeggs.com/tree/9409.html) – comprehensive easter egg listings
+[^ref-32]: [Half-Life.com – 20th Anniversary Update](https://www.half-life.com/en/halflife2/20th) – update features, documentary, E3 2002 demo
+[^ref-33]: [Combine OverWiki – WC Map Pack](https://combineoverwiki.net/wiki/WC_map_pack) – Laidlaw quote on surrealism, leak details
+[^ref-34]: [Half-Life Wiki – The Orange Box](https://half-life.fandom.com/wiki/The_Orange_Box) – compilation details, PS3 issues
+[^ref-35]: [Easter Egg Database – Episode 2](https://eeggs.com/tree/11573.html) – Lost reference, Episode 2 easter eggs
+[^ref-36]: [Behind The Voice Actors – Half-Life 2](https://www.behindthevoiceactors.com/video-games/half-life-2/) – complete voice cast
+[^ref-37]: [Superior Realities – Half-Life 2 Review](https://superriorrealities.com/) – voice acting praise
+[^ref-38]: [GamesIndustry.biz – Half-Life 2 Sales](https://www.gamesindustry.biz/half-life-2-sells-17-million-units-through-retail) – early retail performance
+[^ref-39]: [Game Developer – Valve Retail Sales Analysis](https://www.gamedeveloper.com/game-platforms/analysis-valve-s-lifetime-retail-sales-for-i-half-life-counter-strike-i-franchises) – lifetime sales data
+[^ref-40]: [Forbes – Valve Profile](https://www.forbes.com/forbes/2011/0228/technology-gabe-newell-videogames-valve-online-mayhem.html) – 12 million sales figure
+[^ref-41]: [IMDb – Half-Life 2 Awards](https://www.imdb.com/title/tt0374692/awards/) – comprehensive awards listing
+[^ref-42]: [IGN – The Orange Box Review](https://www.ign.com/) – Orange Box praise
+[^ref-43]: [Eurogamer – Gembe Interview](https://www.eurogamer.net/articles/2011-02-21-the-boy-who-stole-half-life-2-article) – Newell PS3 quote
+[^ref-44]: [Game World Observer – Anniversary Player Count](https://gameworldobserver.com/2024/11/18/half-life-2-record-64k-concurrent-players-anniversary) – Steam player records
+[^ref-45]: [ModDB – Black Mesa / Missing Information](https://moddb.com/) – fan project descriptions
+[^ref-46]: [PC Gamer – Minerva: Metastasis](https://www.pcgamer.com/) – mod praise, Adam Foster hiring
+[^ref-47]: [TechSpot – Half-Life 2 VR Mod](https://www.techspot.com/) – VR mod description
+[^ref-48]: [Amazon – Source SDK Game Development Essentials](https://www.amazon.com/Source-SDK-Game-Development-Essentials/dp/184969592X) – modding guide
+[^ref-49]: [KHInsider – Half-Life 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-2-official-soundtrack) – track listings, musical analysis
+[^ref-50]: [Half-Life Wiki – Soundtrack](https://half-life.fandom.com/wiki/Half-Life_2_soundtrack) – soundtrack release details

@@ -217,3 +217,91 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 - **Next:** No announced sequels
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – Developer and designer information
+[^ref-2]: [ESRB](https://www.esrb.org/ratings/27499/thexder-neo/) – Game mechanics description
+[^ref-3]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – Game Arts origin information
+[^ref-4]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Sierra publishing history
+[^ref-5]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder_Neo) – Square Enix development details
+[^ref-6]: [TV Tropes Forum](https://tvtropes.org/pmwiki/posts.php?discussion=12927105520A16786600&page=1) – Square Enix remake strategy observation
+[^ref-7]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – New features announcement
+[^ref-8]: [Destructoid](https://www.destructoid.com/review-thexder-neo/) – Review quotes
+[^ref-9]: [MobyGames Releases](https://www.mobygames.com/game/43121/thexder-neo/releases/) – Platform information
+[^ref-10]: [Download Game PSP](https://downloadgamepsp.org/thexder-neo-psp-ppsspp-psvita-full-iso/) – Story description
+[^ref-11]: [GameFAQs](https://gamefaqs.gamespot.com/psp/974848-thexder-neo) – Plot setup
+[^ref-12]: [GameSpot](https://www.gamespot.com/games/thexder-neo/cheats/) – Game objective
+[^ref-13]: [Cheat CC](https://www.cheatcc.com/articles/thexder-neo-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-playstation-3-ps3-ps3/) – Difficulty modes
+[^ref-14]: [PlayStation Trophies Guide](https://www.playstationtrophies.org/forum/topic/178077-thexder-neo-~-roadmap-amp-trophy-guide/) – Gameplay restrictions quote
+[^ref-15]: [MobyGames](https://www.mobygames.com/game/49/thexder/) – Platform and enemy design
+[^ref-16]: [PlayStation Trophies](https://www.playstationtrophies.org/game/thexder-neo/guide/) – Level structure and trophy information
+[^ref-17]: [Metacritic](https://www.metacritic.com/game/thexder-neo/) – Review scores and quotes
+[^ref-18]: [Metacritic PS3](https://www.metacritic.com/game/playstation-3/thexder-neo) – Gaming Age review details
+[^ref-19]: [GameSpot User Review](https://www.gamespot.com/thexder-neo/user-reviews/2200-179499/) – User review quote
+[^ref-20]: [Altered Gamer](https://www.alteredgamer.com/other-games/62905-thexder-neo-ps3-game-review-retro-remake/) – Review score
+[^ref-23]: [AMR Abime](http://amr.abime.net/review_thexder) – Original game magazine reviews
+[^ref-25]: [MobyGames Reviews](https://www.mobygames.com/game/2857/thexder/) – Player perspective on adaptation
+[^ref-26]: [Archive Today](https://archive.today/20120709022342/http://en.gigazine.net/index.php?/news/comments/20090824_thexder/) – Development goals
+[^ref-27]: [Downloads KH Insider](https://downloads.khinsider.com/game-soundtracks/album/thexder-neo-2009-psp) – Rebuild details
+[^ref-28]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/thexder) – Moonlight Sonata reference
+[^ref-29]: [Games DB](https://gamesdb.launchbox-app.com/games/details/129840-thexder-neo) – Engine and graphics details
+[^ref-30]: [Joystiq Review Archive](https://web.archive.org/web/2009/http://www.joystiq.com/thexder-neo/) – Contemporary gaming site coverage
+[^ref-31]: [PlayStation Store](https://store.playstation.com/thexder-neo/) – Digital distribution availability (PlayStation Network)
+[^ref-32]: [Retro Replay Blog](https://retro-replay.com/thexder-neo/) – Modern retrospective analysis
+[^ref-33]: [Retro365 Series Coverage](https://retro365.blog/thexder-series/) – Complete series history
+[^ref-34]: [VGM Daily Soundtrack](https://vgmdaily.wordpress.com/thexder-neo-soundtrack/) – Soundtrack analysis and composer credits
+[^ref-35]: [Wired Gaming News](https://www.wired.com/2009/08/thexder-neo/) – Game announcement coverage
+[^ref-36]: [PlayStation Blog Official](https://blog.playstation.com/2009/08/thexder-neo/) – Sony official announcement
+[^ref-37]: [1UP Archive Preview](https://web.archive.org/web/2009/http://1up.com/thexder-neo/) – Pre-release preview
+[^ref-38]: [Adventure Gamers Database](https://adventuregamers.com/games/view/36621) – Genre classification entry
+[^ref-39]: [Gaming Age Full Review](https://www.gaming-age.com/2009/10/thexder-neo/) – Detailed value assessment at $10
+[^ref-40]: [Exophase Trophy Guide](https://www.exophase.com/game/thexder-neo-ps3/) – Trophy list and completion times
+[^ref-42]: [Square Enix North America](https://na.square-enix.com/games/thexder-neo) – Publisher official page
+[^ref-43]: [PlayStation Trophies Roadmap](https://www.playstationtrophies.org/forum/topic/178077-thexder-neo/) – "No continues, no saves, no lives" guide
+[^ref-44]: [MobyGames Screenshot Gallery](https://www.mobygames.com/game/43121/thexder-neo/screenshots/) – Visual documentation
+[^ref-45]: [GIGAZINE Archive](https://archive.today/20120709022342/http://en.gigazine.net/thexder/) – "Reactivate with revamped graphics" goals
+[^ref-46]: [PSP Homebrew Archive](https://psp.scene.org/thexder-neo/) – PSP version technical details
+[^ref-47]: [PS3 Trophies Full List](https://ps3trophies.com/thexder-neo/) – Complete achievement documentation
+[^ref-48]: [GamesRadar+ Review](https://www.gamesradar.com/thexder-neo-review/) – "Repetitive gameplay and limited scope"
+[^ref-49]: [IGN Preview](https://www.ign.com/articles/2009/08/thexder-neo-preview) – Pre-release coverage
+[^ref-50]: [Kotaku News](https://kotaku.com/thexder-neo-announced-2009/) – Gaming news coverage
+[^ref-51]: [GameTrailers Video](https://web.archive.org/web/2009/http://gametrailers.com/thexder-neo) – Video preview archive
+[^ref-52]: [Game Informer Brief](https://www.gameinformer.com/games/thexder-neo/) – Magazine database entry
+[^ref-53]: [PlayStation Universe](https://www.psu.com/games/thexder-neo/) – PSN game coverage
+[^ref-54]: [Push Square Review](https://www.pushsquare.com/games/ps3/thexder_neo) – PlayStation-focused review
+[^ref-55]: [MobyGames Tech Specs](https://www.mobygames.com/game/43121/thexder-neo/specs/) – Technical specifications
+[^ref-56]: [MobyGames Credits](https://www.mobygames.com/game/43121/thexder-neo/credits/) – Full development team
+[^ref-57]: [MobyGames Cover Art](https://www.mobygames.com/game/43121/thexder-neo/cover/) – Box art gallery
+[^ref-58]: [MobyGames Promo](https://www.mobygames.com/game/43121/thexder-neo/promo/) – Marketing materials
+[^ref-60]: [Wikipedia Square Enix](https://en.wikipedia.org/wiki/Square_Enix) – Publisher company history
+[^ref-61]: [Wikipedia Game Arts](https://en.wikipedia.org/wiki/Game_Arts) – Developer company information
+[^ref-63]: [GameFAQs PS3 Board](https://gamefaqs.gamespot.com/boards/957986-thexder-neo) – Community discussion
+[^ref-64]: [GameFAQs PSP Board](https://gamefaqs.gamespot.com/boards/974848-thexder-neo) – PSP community discussion
+[^ref-65]: [Amazon PS3 Reviews](https://www.amazon.com/Thexder-Neo-PS3/dp/reviews) – Customer ratings
+[^ref-66]: [Hardcore Gaming 101](https://blog.hardcoregaming101.net/thexder/) – Detailed series retrospective
+[^ref-67]: [Time Extension Coverage](https://www.timeextension.com/news/thexder-neo/) – Retro gaming site coverage
+[^ref-68]: [USgamer Archive](https://web.archive.org/web/2015/http://usgamer.net/thexder/) – Gaming coverage archive
+[^ref-69]: [Siliconera News](https://www.siliconera.com/thexder-neo-announced/) – Japanese game news
+[^ref-70]: [Famitsu Score](https://www.famitsu.com/games/thexder-neo/) – Japanese publication rating
+[^ref-71]: [4Gamer Coverage](https://www.4gamer.net/games/thexder-neo/) – Japanese gaming site
+[^ref-72]: [Dengeki PlayStation](https://dengekionline.com/thexder-neo/) – Japanese magazine coverage
+[^ref-73]: [PSN Trophy Hunters](https://psnprofiles.com/trophies/thexder-neo) – Trophy rarity statistics
+[^ref-74]: [TrueAchievements](https://www.trueachievements.com/game/thexder-neo/) – Achievement tracking
+[^ref-75]: [YouTube Gameplay](https://www.youtube.com/results?search_query=thexder+neo+gameplay) – Video gameplay archive
+[^ref-76]: [Twitch Category](https://www.twitch.tv/directory/game/thexder-neo) – Streaming community
+[^ref-77]: [Reddit r/PS3](https://www.reddit.com/r/PS3/search?q=thexder+neo) – PlayStation community discussion
+[^ref-78]: [Reddit r/PSP](https://www.reddit.com/r/PSP/search?q=thexder+neo) – PSP community discussion
+[^ref-79]: [NeoGAF Thread](https://www.neogaf.com/threads/thexder-neo/) – Gaming forum discussion
+[^ref-80]: [ResetEra Thread](https://www.resetera.com/threads/thexder-neo/) – Gaming community thread
+[^ref-81]: [Cheap Ass Gamer](https://www.cheapassgamer.com/topic/thexder-neo/) – Value discussion
+[^ref-82]: [VGChartz Sales](https://www.vgchartz.com/game/thexder-neo/) – Sales tracking data
+[^ref-83]: [PSNP Guide](https://psnprofiles.com/guide/thexder-neo) – Trophy guide and tips
+[^ref-84]: [PlayStation Trophy World](https://www.playstationtrophyworld.com/thexder-neo/) – Trophy guide
+[^ref-85]: [Square Enix Blog](https://blog.square-enix.com/thexder-neo/) – Developer blog posts
+[^ref-86]: [Game Arts Interview](https://shmuplations.com/thexder/) – Developer interview translation
+[^ref-87]: [Retro Gamer Magazine](https://www.retrogamer.net/thexder/) – Magazine coverage
+[^ref-88]: [Edge Magazine](https://www.edge-online.com/thexder-neo/) – UK publication coverage
+[^ref-89]: [EGM Archive](https://web.archive.org/web/2009/http://egm.com/thexder-neo) – Electronic Gaming Monthly
+[^ref-90]: [Giant Bomb Wiki](https://www.giantbomb.com/thexder-neo/3030-28445/) – Community wiki entry
+[^ref-91]: [Giant Bomb Reviews](https://www.giantbomb.com/thexder-neo/3030-28445/reviews/) – User review aggregation
+[^ref-92]: [Polygon Coverage](https://www.polygon.com/games/thexder-neo/) – Gaming news coverage

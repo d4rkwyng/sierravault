@@ -220,3 +220,15 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series history, version information, reception, sales data, awards, development notes, trivia, bugs
+[^ref-2]: [IGN – Name Change for Sierra Games](https://www.ign.com/articles/1998/09/17/name-change-for-sierra-games) – rebranding information, Ken Schramm quotes, release date
+[^ref-3]: [Wikipedia – NFL Football Pro '99](https://en.wikipedia.org/wiki/NFL_Football_Pro_%2799) – release date, developer, publisher, engine, recall information, David Grenewetzki statement, PC Accelerator review
+[^ref-4]: [GameOver – NFL Football Pro 99 Review](https://www.game-over.net/review/jan99/nfl99/) – gameplay details, technical specifications, Howard Davis voice acting, extensive bug documentation, review score
+[^ref-5]: [MobyGames – Front Page Sports Football Pro 98](https://www.mobygames.com/game/41377/front-page-sports-football-pro-98/) – development credits, technical specifications, multiplayer options, aggregate scores, genre classification
+[^ref-6]: [Sports Business Journal – July 1999](https://www.sportsbusinessjournal.com/Journal/Issues/1999/07/19/No-Topic-Name/Shoe-Market-Gives-Sudden-Cold-Shoulder-To-New-Grizzly-Steve-Francis/) – Jerry Maguire League usage
+[^ref-7]: [Sports Business Journal – July 1999](https://www.sportsbusinessjournal.com/Journal/Issues/1999/07/26/No-Topic-Name/Joel-Bell-Sues-Ex-Employer-Advantage-Pre-Draft-Training-Facility-Loses-Chief/) – Jerry Maguire League details
+[^ref-8]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series chronology, release year
+[^ref-9]: [Noble Knight Games – Front Page Sports Football Pro 99](https://www.nobleknight.com/P/2148206199/Front-Page-Sports-Football-Pro-99) – retail availability, release year
+[^ref-10]: [Steam – Front Page Sports Football (2014)](https://store.steampowered.com/app/316700/Front_Page_Sports_Football/) – unrelated 2014 revival by Cyanide Studio

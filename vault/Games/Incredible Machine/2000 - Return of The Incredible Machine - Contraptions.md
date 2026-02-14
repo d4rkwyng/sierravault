@@ -133,3 +133,29 @@ The community around The Incredible Machine remains active decades after release
 - [[2001 - The Incredible Machine - Even More Contraptions|→ Next: The Incredible Machine - Even More Contraptions]]
 
 ## 
+## References
+
+[^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap
+[^ref-2]: [Archive.org - Return of the Incredible Machine](https://archive.org/details/return-of-the-incredible-machine-contraptions) - Official game marketing copy
+[^ref-5]: [Old-Games.com - Return of the Incredible Machine: Contraptions](https://www.old-games.com/download/4685/return-of-incredible-machine-contraptions) - Game features summary
+[^ref-6]: [GameSpot - Return of the Incredible Machine: Contraptions Review](https://www.gamespot.com/reviews/return-of-the-incredible-machine-contraptions-revi/1900-2616799/) - Gameplay overview and objectives
+[^ref-8]: [MobyGames - Return of the Incredible Machine: Contraptions](https://www.mobygames.com/game/4087/return-of-the-incredible-machine-contraptions/) - Developer information
+[^ref-9]: [Reddit - Contraption Maker AMA with Kevin Ryan](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) - Designer information
+[^ref-11]: [GOG.com - The Incredible Machine Mega Pack](https://www.gog.com/game/the_incredible_machine_mega_pack) - Platform listings
+[^ref-13]: [TV Tropes - The Incredible Machine](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/TheIncredibleMachine) - Example game objective
+[^ref-14]: [IMDb - Return of the Incredible Machine: Contraptions](https://www.imdb.com/title/tt0394543/) - Voice cast information
+[^ref-15]: [Game Over Online - Return of TIM Review](https://web.archive.org/web/20001109201500/http://www.game-over.net/reviews.php?id=389) - Interface and parts count
+[^ref-16]: [PCGamingWiki - Return of the Incredible Machine: Contraptions](https://www.pcgamingwiki.com/wiki/Return_of_the_Incredible_Machine:_Contraptions) - Technical interface features
+[^ref-17]: [IGN - Return of the Incredible Machine: Contraptions](https://www.ign.com/games/return-of-the-incredible-machine-contraptions) - Control scheme description
+[^ref-18]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) - Physics engine details
+[^ref-19]: [GameFAQs - Return of the Incredible Machine: Contraptions](https://gamefaqs.gamespot.com/pc/197037-return-of-the-incredible-machine-contraptions/faqs) - Level structure information
+[^ref-24]: [The Digital Antiquarian - The Incredible Machine](https://www.filfre.net/2018/06/the-incredible-machine/) - Game philosophy
+[^ref-27]: [IGN Review](https://web.archive.org/web/20001017145808/http://pc.ign.com/reviews/6754.html) - September 15, 2000 - Score and quote
+[^ref-30]: [Wikipedia - Return of the Incredible Machine: Contraptions](https://en.wikipedia.org/wiki/Return_of_the_Incredible_Machine%3A_Contraptions) - Review compilation
+[^ref-32]: [MyAbandonware - Return of the Incredible Machine: Contraptions](https://www.myabandonware.com/game/return-of-the-incredible-machine-contraptions-3ph) - Modern player perspective
+[^ref-34]: [Interactive.org - Academy of Interactive Arts & Sciences](https://www.interactive.org/) - Award information
+[^ref-36]: [GamePressure - Return of the Incredible Machine: Contraptions](https://www.gamepressure.com/games/return-of-the-incredible-machine-contraptions/z42a3f) - Development context
+[^ref-38]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) - Development information
+[^ref-42]: [Web Archive - System Requirements](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) - System requirements
+[^ref-44]: [KHInsider - The Incredible Machine Soundtracks](https://downloads.khinsider.com/game-soundtracks/album/incredible-machine-the-incredible-machine-2) - Composer credits
+[^ref-45]: [Hardcore Gaming 101 - The Incredible Machine](https://www.hardcoregaming101.net/the-incredible-machine-the-even-more-incredible-machine/) - Expansion pack information

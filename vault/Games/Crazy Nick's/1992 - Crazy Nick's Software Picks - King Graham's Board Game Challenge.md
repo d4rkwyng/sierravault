@@ -181,3 +181,25 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|→ Next: Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames Game Database](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Basic game information and metadata
+[^ref-2]: [IGN Game Database](https://www.ign.com/games/king-grahams-board-game-challenge-checkers-backgammon) – Game summary and description
+[^ref-3]: [CDRomance ScummVM Archive](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – Series overview and compilation details
+[^ref-4]: [PC Gaming Wiki - Crazy Nick's Series](https://www.pcgamingwiki.com/wiki/Series:Crazy_Nick's_Software_Picks) – Technical specifications and engine information
+[^ref-5]: [Gamesdb LaunchBox](https://gamesdb.launchbox-app.com/games/details/85634-crazy-nicks-software-picks-king-grahams-board-game-challenge-checkers-backgammon) – Development credits and metadata
+[^ref-6]: [Sierra Chest Archive](https://www.sierrachest.com/index.php?a=games&id=716&title=crazy-nick-graham&fld=general) – Historical context about series development, game rules
+[^ref-7]: [PC Gaming Wiki Game Page](https://www.pcgamingwiki.com/wiki/King_Graham's_Board_Game_Challenge) – Platform compatibility information
+[^ref-8]: [MobyGames Screenshot](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/screenshots/dos/213860/) – Screenshot caption
+[^ref-9]: [Super Adventures in Gaming Blog](http://superadventuresingaming.blogspot.com/2011/03/crazy-nicks-software-picks-king-grahams.html) – Contemporary blog review assessment
+[^ref-10]: [Retro Replay Database](https://retro-replay.com/db/dos/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Modern retrospective description
+[^ref-11]: [MyAbandonware Game Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-king-graham-s-board-game-challenge-1yz) – Preservation site description and user comments
+[^ref-12]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Crazy+Nick%27s+Software+Picks%3A+King+Graham%27s+Board+Game+Challenge) – Series context and background
+[^ref-13]: [KH Insider Soundtracks](https://downloads.khinsider.com/game-soundtracks/publisher/nick-games) – Composer credit
+[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/580627-crazy-nicks-software-picks-king-grahams-board-game) – Game database entry
+[^ref-15]: [Giant Bomb](https://www.giantbomb.com/crazy-nicks-software-picks/3025-5267/) – Game wiki with series information
+[^ref-16]: [IGDB](https://www.igdb.com/games/crazy-nicks-software-picks-king-grahams-board-game-challenge) – Internet Game Database entry
+[^ref-17]: [Wikidata](https://www.wikidata.org/wiki/Q61741887) – Structured data about the game
+[^ref-18]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_-_King_Grahams_Board_Game_Challenge_1992) – Playable preservation copy
+[^ref-19]: [UVList](https://www.uvlist.net/game-217097-crazy-nicks-software-picks-king-grahams-board-game-challenge) – Universal Videogame List entry
+[^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Series information

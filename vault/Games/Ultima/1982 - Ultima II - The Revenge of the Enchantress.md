@@ -233,3 +233,20 @@ The game's historical significance lies in several areas: it demonstrated that R
 - [[1983 - Ultima - Escape from Mt. Drash|→ Next: Ultima - Escape from Mt. Drash]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Ultima II: The Revenge of the Enchantress](https://en.wikipedia.org/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – release dates, developers, publishers, platforms, reviews, sales data, awards, development notes, trivia, bugs
+[^ref-2]: [MobyGames – Ultima II: The Revenge of the Enchantress](https://www.mobygames.com/game/880/ultima-ii-the-revenge-of-the-enchantress/) – release dates across platforms, publishers, technical specs, trivia, user reviews, bugs
+[^ref-3]: [Ultima Codex Wiki – Ultima II](https://wiki.ultimacodex.com/wiki/Ultima_II) – release dates, technical specifications by platform, publishing conflicts, trivia, bugs, development history
+[^ref-4]: [GOG.com – Ultima 1+2+3](https://www.gog.com/en/game/ultima_1_2_3) – user reviews, version updates, technical information, modern reception
+[^ref-5]: [PCGamingWiki – Ultima II: The Revenge of the Enchantress](https://www.pcgamingwiki.com/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – technical specifications, system requirements, compatibility issues, digital release dates
+[^ref-6]: [MyAbandonware – Ultima II: The Revenge of the Enchantress](https://www.myabandonware.com/game/ultima-ii-the-revenge-of-the-enchantress-64) – platform information, screenshots, download availability
+[^ref-7]: [GameFAQs – Ultima II: Revenge of the Enchantress](https://gamefaqs.gamespot.com/pc/564795-ultima-ii-revenge-of-the-enchantress) – game database entry, platform coverage
+[^ref-8]: [RPGWatch – Ultima 2](https://www.rpgwatch.com/games/ultima-2.html) – RPG database entry, genre classification
+[^ref-9]: [Giant Bomb – Ultima II: The Revenge of the Enchantress](https://www.giantbomb.com/ultima-ii-revenge-of-the-enchantress/3030-12824/) – game database entry, user reviews, platform information
+[^ref-10]: [IGDB – Ultima II: The Revenge of the Enchantress](https://www.igdb.com/games/ultima-ii-the-revenge-of-the-enchantress) – game database entry, release information
+[^ref-11]: [Scribd – The Official Book of Ultima](https://www.scribd.com/doc/48188850/The-Official-Book-of-Ultima) – official strategy guide, historical documentation
+[^ref-12]: [Hardcore Gaming 101 – Ultima II: Revenge of the Enchantress](http://www.hardcoregaming101.net/ultima-ii-revenge-of-the-enchantress/) – detailed retrospective, publishing history, technical analysis
+[^ref-13]: [Internet Archive – Ultima II Manual (Atari 1982)](https://archive.org/details/UltimaIiRevengeOfTheEnchantressManualAtari1982BigBox) – original game manual, documentation credits
+[^ref-14]: [Internet Archive – Ultima II Galactic Map](https://archive.org/details/UltimaIiRevengeOfTheEnchantressGalacticMapAndKeyBindingsAtari1982) – packaging materials, keyboard bindings
+[^ref-15]: [UVList – Ultima II](https://www.uvlist.net/game-40876-Ultima) – game database entry, platform information

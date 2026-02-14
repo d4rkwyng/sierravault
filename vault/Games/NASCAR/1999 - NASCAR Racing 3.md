@@ -118,3 +118,31 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 - [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – - Developer, designer, and basic game information
+[^ref-2]: [Wikipedia List of NASCAR Video Games](https://en.wikipedia.org/wiki/List_of_NASCAR_video_games) – - Series context and Papyrus reputation
+[^ref-3]: [Avid Wiki Sierra Sports](https://www.avid.wiki/Sierra_Sports) – - Sierra Sports formation date and context
+[^ref-4]: [MobyGames Specs](https://www.mobygames.com/game/3222/nascar-racing-3/specs/) – - Technical specifications and system requirements
+[^ref-5]: [Old Games Download](https://oldgamesdownload.com/nascar-racing-3/) – - Track count and multiplayer details
+[^ref-6]: [Sierra Gamers](https://www.sierragamers.com/nascar-racing-3/) – - Customization features
+[^ref-7]: [Web Archive GameCenter](https://web.archive.org/web/20000816100324/http://www.gamecenter.com/Reviews/Item/0,6,0-3184,00.html) – - Game modes description
+[^ref-8]: [IGN Review](https://www.ign.com/articles/1999/10/27/nascar-racing-3) – - Car setup and customization details
+[^ref-9]: [Christian Spotlight Review](https://christiananswers.net/spotlight/games/2001/nascarracing3.html) – - Racing strategy and damage model
+[^ref-10]: [IGN Game Page](https://www.ign.com/games/nascar-racing-3) – - Championship mode and season structure
+[^ref-11]: [GameSpot Review](https://www.gamespot.com/reviews/nascar-racing-3-review/1900-2543744/) – - Practice and qualifying sessions
+[^ref-12]: [Web Archive GameSpot](https://web.archive.org/web/20041204204652/http://www.gamespot.com/pc/driving/nascarracing3/review.html) – - Strategic racing elements
+[^ref-13]: [Web Archive GameZone](https://web.archive.org/web/20071008095344/http://pc.gamezone.com/gzreviews/r13604.htm) – - GameZone review and personal impact
+[^ref-14]: [Web Archive CDMag](https://web.archive.org/web/20030228114527/http://www.cdmag.com/articles/023/116/nascar3_review.html) – - CDMag review score and assessment
+[^ref-15]: [Web Archive PC Gamer](https://web.archive.org/web/20060315141455/http://www.pcgamer.com/archives/2005/07/nascar_racing_3.html) – - PC Gamer score and conclusion
+[^ref-16]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-racing-2003-season-2003) – - Modern user testimonials
+[^ref-17]: [Web Archive GameSpot Awards](https://web.archive.org/web/20000823200831/http://www.gamespot.com/features/1999/p3_03a.html) – - GameSpot 1999 Driving Game of the Year award
+[^ref-18]: [Amazon Reviews](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – - Amazon customer ratings
+[^ref-19]: [Amazon Manual Page](https://amazon.com/NASCAR-Racing-3-Game-Manual/dp/B000KBCEVM) – - Amazon customer ratings
+[^ref-20]: [Daily Downforce](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – - Development focus and philosophy
+[^ref-21]: [Amazon NASCAR Racing 3](https://www.amazon.com/NASCAR-Racing-3-PC/dp/B00001SHNN) – - Licensing limitations
+[^ref-22]: [Wikipedia NASCAR Racing 3](https://en.wikipedia.org/wiki/NASCAR_Racing_3) – - Engine information
+[^ref-23]: [Web Archive Edge](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – - Multiplayer capabilities and ambition
+[^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-3-cow) – - Long-term impact and community assessment
+[^ref-25]: [MyAbandonware Expansion](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) – - Expansion pack information
+[^ref-26]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – - Patch version information

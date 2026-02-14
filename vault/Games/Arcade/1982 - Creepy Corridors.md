@@ -224,3 +224,18 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 - [[1982 - Dragon's Keep|→ Next: Dragon's Keep]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price
+[^ref-2]: [Consolidated Research Notes](internal) – gameplay description, protagonist name, game mechanics
+[^ref-3]: [Pix's Origin Adventures – Creepy Corridors](https://www.pixsoriginadventures.co.uk/creepy-corridors/) – sampled speech claim, technical analysis, collision detection issues
+[^ref-4]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/creepy-corridors/) – VIC-20 release, developer credits, user review, gameplay comparison
+[^ref-5]: [MobyGames – Creepy Corridors User Review](https://www.mobygames.com/game/55566/creepy-corridors/user-review/2421826/) – color scheme, dual objectives, restart function, reviewer quotes
+[^ref-6]: [Retro365 – Bits from My Personal Collection: Creepy Corridors](https://retro365.blog/2022/09/19/bits-from-my-personal-collection-creepy-corridors/) – sampled scream details, Mark Crowe artwork, sales data, IBM PCjr port
+[^ref-7]: [Sierra Help Wiki – Creepy Corridors](http://wiki.sierrahelp.com/index.php/Creepy_Corridors) – designer credits, engine information
+[^ref-8]: [Minesweeper Game Database – Mine Sweep](https://minesweepergame.com/database/games.php?id=117) – Chuck Bueche quote on assembly language, technical specifications, development period
+[^ref-9]: [The Sierra Chest – Creepy Corridors](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box) – platform list, media format, preservation status
+[^ref-11]: [Eurogamer – The Creepy Corridors of Video Games](https://www.eurogamer.net/the-creepy-corridors-of-video-games) – Roger Luckhurst quote, corridor design analysis
+[^ref-12]: [My Abandonware – Creepy Corridors](https://www.myabandonware.com/game/creepy-corridors-74p) – user ratings, file size, release information
+[^ref-13]: [Internet Archive – Apple II Compilation Disk](https://archive.org/details/a2_cple_Apple_Zap_Bcs_Quest_For_Tires_Creepy_Corridors_Laf_Pak_Mine_Sweep_Space_Rac) – disk specifications, cheat codes, preservation data
+[^ref-14]: [Games That Weren't – Creepy Corridors](https://www.gamesthatwerent.com/gtw64/creepy-corridors/) – missing C64 version, advertisement details, mockup screenshot

@@ -253,3 +253,26 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms
+[^ref-2]: [GOG.com – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) – ratings, technical specs, awards, user reviews
+[^ref-3]: [MobyGames – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.mobygames.com/game/68982/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/) – developer credits, engine, platforms, technical details
+[^ref-5]: [The Sierra Chest – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.sierrachest.com/index.php?a=games&id=532&fld=general) – development history, Pinkerton Road founding, Kickstarter origins
+[^ref-6]: [Cheat Code Central – Gabriel Knight Achievement Guide](https://www.cheatcc.com/articles/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition-cheats-codes-cheat-codes-walkthrough-guide-faq-unlockables-for-pc-pc/) – achievements, point system, gameplay structure
+[^ref-8]: [IGN – Gabriel Knight 20th Anniversary Review](https://www.ign.com/articles/2014/10/24/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – Chuck Osborn review, 7/10 score
+[^ref-9]: [Adventure Gamers – Gabriel Knight 20th Anniversary Edition](https://adventuregamers.com/article/gabriel_knight_sins_of_the_fathers_20th_anniversary_edition) – 4.5 star review, technical issues noted
+[^ref-34]: [Wikipedia – Gabriel Knight: Sins of the Fathers](https://en.wikipedia.org/wiki/Gabriel_Knight:_Sins_of_the_Fathers) – original game development, Johnny L. Wilson quotes, Charles Ardai review, awards
+[^ref-14]: [PCGamingWiki – Gabriel Knight 20th Anniversary Edition](https://www.pcgamingwiki.com/wiki/Gabriel_Knight:_Sins_of_the_Fathers_-_20th_Anniversary_Edition) – Unity 5 engine, technical specifications, Mac compatibility issues
+[^ref-15]: [God is a Geek – Gabriel Knight 20th Anniversary Review](https://www.godisageek.com/reviews/gabriel-knight-sins-fathers-20th-anniversary-edition-review/) – interface changes, setting description, critical analysis
+[^ref-24]: [The Digital Antiquarian (Filfre.net)](https://www.filfre.net/?s=Gabriel+Knight%3A+Sins+of+the+Fathers+-+20th+Anniversary+Edition) – Angel Heart inspiration, Ken Williams quote, name symbolism, development history
+[^ref-25]: [Draco Torre Review](https://www.dracotorre.com/blog/gk1-20-review/) – low-budget analysis, hint system, Schattenjäger Archives, completion time
+[^ref-26]: [HowLongToBeat – Gabriel Knight 20th Anniversary Edition](https://howlongtobeat.com/game/21859) – completion times, player statistics
+[^ref-27]: [Rock Paper Shotgun – Gabriel Knight 20th Anniversary Preview](https://www.rockpapershotgun.com/gabriel-knight-20th-anniversary) – cut content, voice recording issues, Grace quote, police music inspiration
+[^ref-29]: [IGN – Gabriel Knight Game Page](https://www.ign.com/games/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – Tim Curry casting comments, Jane Jensen interview
+[^ref-31]: [OpenCritic – Gabriel Knight 20th Anniversary Edition](https://opencritic.com/game/626/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition) – aggregate scores, multiple critic quotes
+[^ref-32]: [IMDB – Gabriel Knight: Sins of the Fathers 20th Anniversary Edition](https://www.imdb.com/find/?q=Gabriel+Knight%3A+Sins+of+the+Fathers+-+20th+Anniversary+Edition&s=tt) – user rating, vote count
+[^ref-33]: [Gamepressure – Gabriel Knight 20th Anniversary Edition](https://www.gamepressure.com/games/gabriel-knight-sins-of-the-fathers-20th-anniversary-edition/z239f0) – user score, release dates, platform information
+[^ref-35]: [GOG Database](https://www.gogdb.org/product/1207666433) – version history, patch dates
+[^ref-36]: [MobyGames – Gabriel Knight 3](https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) – series continuity, easter eggs
+[^ref-37]: [Speedrun.com – Gabriel Knight Remake](https://www.speedrun.com/gk1_remake/guides) – speedrunning community

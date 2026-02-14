@@ -189,3 +189,17 @@ The title has developed a cult following among players who experienced it during
 - [[1997 - Diablo - Hellfire|→ Next: Diablo - Hellfire]]
 
 ## 
+## References
+
+[^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – release date, developer, publisher, gameplay description, locations, mini-game count, randomization, trivia
+[^ref-2]: [Wikipedia – Stay Tooned! (video game)](https://en.wikipedia.org/wiki/Stay_Tooned!_(video_game)) – release date, platforms, designers, engine, Electric Playground review, subtitle, parodies, technical issues, Ben Howard cameo
+[^ref-3]: [MobyGames – Stay Tooned!](https://www.mobygames.com/game/12362/stay-tooned/) – designer credits, Director engine, 3D glasses, Macintosh development, company name change, audio bug, critic score, user reviews
+[^ref-4]: [TV Tropes – Stay Tooned!](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/StayTooned) – voice cast, Joel Fried roles, 3D glasses, Ben Howard appearances, character dialogue, Funnybone mascot
+[^ref-5]: [MyAbandonware – Stay Tooned!](https://www.myabandonware.com/game/stay-tooned-3qw) – user rating, file sizes, user comments, genre classification, perspective
+[^ref-6]: [Old Games Download – Stay Tooned!](https://oldgamesdownload.com/stay-tooned/) – platform availability, download information
+[^ref-7]: [Internet Archive – Stay Tooned! (USA)](https://archive.org/details/staytoonedusa) – disc preservation, original media
+[^ref-8]: [Wikidata – Stay Tooned!](https://www.wikidata.org/wiki/Q7604889) – structured data, identifiers
+[^ref-9]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+[^ref-10]: [Sierra Gamers – Sierra Games](https://www.sierragamers.com/sierra-games/) – Sierra fan community game list
+[^ref-11]: [GameFAQs – Stay Tooned!](https://gamefaqs.gamespot.com/pc/199175-stay-tooned) – game database entry
+[^ref-12]: [Giant Bomb – Stay Tooned!](https://www.giantbomb.com/stay-tooned/3030-21877/) – game database, screenshots

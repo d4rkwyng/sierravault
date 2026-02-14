@@ -175,3 +175,25 @@ The game's mixed reception reflects the tensions between promising premises and 
 - [[1991 - Merchant Colony|→ Next: Merchant Colony]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Fort Apache](https://www.mobygames.com/game/71689/fort-apache/) – release dates, platforms, technical specifications, gameplay description, aggregate ratings
+[^ref-2]: [MyAbandonware – Fort Apache](https://www.myabandonware.com/game/fort-apache-7ak) – series information, premise details, HOTUD review quotes, trivia
+[^ref-3]: [Atari Legend – Fort Apache](https://www.atarilegend.com/games/fort-apache) – designer credit (Erik Casey), composer credit (Chris Denman), ST Format review score, Atari ST release date
+[^ref-4]: [Lemon Amiga – Fort Apache](https://www.lemonamiga.com/games/details.php?id=424) – Amiga technical specifications, multiple magazine review scores and details, composer credit, language support
+[^ref-5]: [Old-Games.com – Fort Apache](https://www.old-games.com/download/5253/fort-apache) – series information, development notes on AI, review quotes, trivia
+[^ref-6]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – developer confirmation, 1991 release date
+[^ref-7]: [Giant Bomb – Fort Apache](https://www.giantbomb.com/fort-apache/3030-24145/) – game wiki with platform information
+[^ref-8]: [IGDB – Fort Apache](https://www.igdb.com/games/fort-apache) – Internet Games Database entry with release info
+[^ref-9]: [GameFAQs – Fort Apache](https://gamefaqs.gamespot.com/pc/564432-fort-apache) – game database entry
+[^ref-10]: [Hall of Light – Fort Apache](https://hol.abime.net/1653) – Amiga database with technical details
+[^ref-11]: [Retro Games CC – Fort Apache](https://www.retrogames.cz/play_064-DOS.php) – browser playable version
+[^ref-12]: [DOS Zone – Fort Apache](https://dos.zone/fort-apache-1992/) – DOS emulation and game information
+[^ref-13]: [Archive.org – Fort Apache Manual](https://archive.org/details/fort-apache-manual) – original game documentation
+[^ref-14]: [World of Spectrum – Micro Miniatures](https://worldofspectrum.org/) – series context and wargame history
+[^ref-15]: [Abandonia – Fort Apache](https://www.abandonia.com/en/games/30785/Fort+Apache.html) – abandonware preservation
+[^ref-16]: [ClassicReload – Fort Apache](https://classicreload.com/fort-apache.html) – browser emulation
+[^ref-17]: [Abandonware France – Fort Apache](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2315) – French preservation site
+[^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
+[^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
+[^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information

@@ -226,3 +226,21 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 - [[1991 - Fort Apache|→ Next: Fort Apache]]
 
 ## 
+## References
+
+[^ref-1]: [Internet Archive – Cohort: Fighting for Rome (MS-DOS)](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Release date, platforms, gameplay description, technical specifications, file size
+[^ref-2]: [MobyGames – Fighting for Rome](https://www.mobygames.com/game/11756/fighting-for-rome/) – Developer, publisher, platforms, release dates, credits (Edward Grabowski, Jeffrey von Brakenton, Christopher J. Denman), ratings, technical specs, alternate titles, series information
+[^ref-3]: [MyAbandonware – Fighting for Rome](https://www.myabandonware.com/game/fighting-for-rome-147) – User ratings, DOSBox compatibility, M. Evan Brooks review quote, Micro Miniatures series information, trivia about first Roman tactics game, sequel comparison
+[^ref-4]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – Publisher confirmation, 1991 release year, Cohort II sequel (1993), David Lester founder, company history
+[^ref-5]: [Atari Legend – Cohort: Fighting for Rome](https://www.atarilegend.com/games/cohort-fighting-for-rome) – Atari ST platform confirmation, Christopher Denman composer credit
+[^ref-6]: [Old-Games.com – Cohort (Fighting for Rome)](https://www.old-games.com/download/5153/cohort-a-k-a-fighting) – DOS release confirmation, Micro Miniatures series context, historical significance as Roman tactics game, sequel information
+[^ref-7]: [Giant Bomb – Cohort: Fighting for Rome](https://www.giantbomb.com/cohort-fighting-for-rome/) – game wiki entry with community information
+[^ref-8]: [IGDB – Cohort: Fighting for Rome](https://www.igdb.com/games/cohort-fighting-for-rome) – Internet Games Database entry
+[^ref-9]: [GameFAQs – Cohort: Fighting for Rome](https://gamefaqs.gamespot.com/pc/563614-cohort-fighting-for-rome) – game database entry with user information
+[^ref-10]: [UVList – Cohort: Fighting for Rome](https://www.uvlist.net/game-6539-Cohort+Fighting+for+Rome) – Universal Videogame List entry
+[^ref-11]: [My Abandonware – Cohort](https://www.myabandonware.com/game/cohort-fighting-for-rome-1jl) – abandonware archive, screenshots, download
+[^ref-12]: [MobyGames – Cohort](https://www.mobygames.com/game/cohort-fighting-for-rome/) – game database entry
+[^ref-13]: [Hall of Light – Cohort: Fighting for Rome (Amiga)](https://hol.abime.net/2051) – Amiga version details, platform-specific information, HOL database entry
+[^ref-14]: [Lemon Amiga – Cohort: Fighting for Rome](https://www.lemonamiga.com/games/details.php?id=347) – Amiga platform review, user ratings, screenshots
+[^ref-15]: [DOS Games Archive – Cohort: Fighting for Rome](https://www.dosgamesarchive.com/download/cohort-fighting-for-rome) – developer/publisher confirmation, category listing, download availability
+[^ref-16]: [World of Spectrum – Micro Miniatures Series](https://worldofspectrum.org/archive/software?company=impressions) – Impressions Games catalog, series context, contemporary release information

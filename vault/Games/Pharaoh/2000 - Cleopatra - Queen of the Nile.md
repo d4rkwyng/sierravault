@@ -271,3 +271,31 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 - **Next:** Pharaoh: A New Era (2023 remake)
 
 ## 
+## References
+
+[^ref-1]: [MobyGames](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Developer and publisher information
+[^ref-2]: [ModDB](https://www.moddb.com/games/cleopatra-queen-of-the-nile) – Historical setting and architecture details
+[^ref-3]: [GameFAQs](https://gamefaqs.gamespot.com/pc/354592-cleopatra-queen-of-the-nile/faqs/6081) – Game tagline
+[^ref-4]: [StrategyWiki](https://strategywiki.org/wiki/Cleopatra:_Queen_of_the_Nile/Walkthrough) – Mission structure information
+[^ref-5]: [GameFAQs](https://gamefaqs.gamespot.com/pc/354592-cleopatra-queen-of-the-nile) – Gameplay description
+[^ref-6]: [Impressions Games Fandom](https://impressionsgames.fandom.com/wiki/Cleopatra:_Queen_of_the_Nile) – Expansion requirements and mission count
+[^ref-7]: [Wikipedia](https://en.wikipedia.org/wiki/Cleopatra%3A_Queen_of_the_Nile) – Designer credits, development team, awards
+[^ref-8]: [City Lights Bookstore](https://citylightsnc.com/book/9798227572424) – Historical character description
+[^ref-9]: [Amazon](https://www.amazon.com/Cleopatra-Queen-Nile-Picture-Book/dp/2733820966) – Character overview
+[^ref-10]: [Bookshop.org](https://bookshop.org/p/books/cleopatra-queen-of-the-nile-leo-lexicon/21607994) – Historical dates
+[^ref-11]: [OCALI Koha Catalog](https://ocali.kohacatalog.com/bib/2942) – Political alliances description
+[^ref-12]: [FlipHTML5](https://fliphtml5.com/wiwhh/jwtw/Cleopatra:_Queen_of_the_Nile/) – Character dialogue
+[^ref-13]: [Amazon](https://www.amazon.com/Cleopatra-Queen-Start-Finish-Audiobook/dp/1587028190) – Nile River management
+[^ref-14]: [Web Archive - GameSpot Review](https://web.archive.org/web/20010210200825/http://www.zdnet.com/gamespot/stories/reviews/0,10867,2545838,00.html) – Engine adaptation details
+[^ref-15]: [GameSpot](https://www.gamespot.com/pharaoh/user-reviews/2200-149182/) – Gameplay mechanics and review quote
+[^ref-16]: [GameFAQs](https://gamefaqs.gamespot.com/pc/354592-cleopatra-queen-of-the-nile/reviews/4939) – Citizen behavior comparison and review quote
+[^ref-17]: [eeggs.com](https://eeggs.com/items/19722.html) – Cheat codes and easter eggs
+[^ref-18]: [Metacritic](https://www.metacritic.com/game/cleopatra-queen-of-the-nile/) – Aggregate score
+[^ref-19]: [Web Archive - Strategy Plus](https://web.archive.org/web/20050401235947/http://cdmag.com/articles/025/039/pharaoh_review.html) – Review quote
+[^ref-20]: [TheGamer](https://www.thegamer.com/pharaoh-a-new-era-review/) – Modern review quote
+[^ref-21]: [Metacritic](https://www.metacritic.com/game/cleopatra-queen-of-the-nile/details/) – Voice cast information
+[^ref-22]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Cleopatra:_Queen_of_the_Nile) – System requirements
+[^ref-23]: [PC Gaming Wiki Community](https://community.pcgamingwiki.com/files/file/1762-cleopatra-widescreen-fix/) – Widescreen patch availability
+[^ref-24]: [GameSpot](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – Game comparison quote
+[^ref-25]: [GamePressure](https://www.gamepressure.com/download.asp?ID=58848) – Community patches
+[^ref-27]: [Amazon](https://www.amazon.com/Cleopatra-Queen-of-the-Nile/dp/B00004W4QK) – Customer reviews

@@ -133,3 +133,43 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 
 
 ## 
+## References
+
+[^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Release date and developer information
+[^ref-2]: [Wikipedia - The Time Warp of Dr. Brain](https://en.wikipedia.org/wiki/The_Time_Warp_of_Dr._Brain) – - Series information and installment number
+[^ref-3]: [Macintosh Repository](https://www.macintoshrepository.org/3249-the-time-warp-of-dr-brain) – - Puzzle count and world information
+[^ref-4]: [Metacritic - The Time Warp of Dr. Brain](https://www.metacritic.com/game/the-time-warp-of-dr-brain/) – - Official game description
+[^ref-5]: [MyAbandonware - The Time Warp of Dr. Brain](https://www.myabandonware.com/search/q/The+Time+Warp+of+Dr.+Brain) – - Platform information
+[^ref-6]: [A Games Room](https://www.agamesroom.com/game/twdb) – - Plot synopsis
+[^ref-8]: [Obscuritory](https://obscuritory.com/puzzle/time-warp-of-dr-brain/) – - Evolutionary timeline context
+[^ref-10]: [MobyGames - Dr. Brain Thinking Games](https://www.mobygames.com/game/38942/dr-brain-thinking-games-iq-adventure/) – - Game plot description
+[^ref-12]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/The_Time_Warp_of_Dr._Brain) – - Input device information
+[^ref-15]: [MyAbandonware - The Time Warp of Dr. Brain](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf) – - Player review of specific puzzles
+[^ref-16]: [Pixel Pacas](https://pixelpacas.com/the-time-warp-of-dr-brain-review/) – - Critical modern assessment
+[^ref-18]: [MobyGames Forum](https://www.mobygames.com/forum/game/6885/thread/215308/looking-for-someone-who-worked-on-the-dr-brain-series/) – - Educational use context
+[^ref-19]: [Steam Search Results](https://store.steampowered.com/search/?term=The+Time+Warp+of+Dr.+Brain) – - Not available on Steam
+[^ref-20]: [GOG Search Results](https://www.gog.com/en/games?query=The+Time+Warp+of+Dr.+Brain) – - Not available on GOG
+[^ref-21]: [Internet Archive](https://archive.org/details/the-time-warp-of-dr-brain_mac) – - Mac version preservation
+[^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=The+Time+Warp+of+Dr.+Brain) – - Search results page
+[^ref-23]: [Adventure Gamers](https://adventuregamers.com/search/?q=The+Time+Warp+of+Dr.+Brain) – - Search results page
+[^ref-24]: [Games Nostalgia](https://gamesnostalgia.com/search?query=The+Time+Warp+of+Dr.+Brain) – - Basic platform information
+[^ref-25]: [Gamewise - Main Page](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain) – - Basic release information
+[^ref-26]: [Gamewise - Walkthrough](http://gamewise.co/games/38741/The-Time-Warp-of-Dr-Brain/Walkthrough) – - Game classification
+[^ref-27]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Time+Warp+of+Dr.+Brain) – - Search results (no content found)
+[^ref-28]: [HowLongToBeat](https://howlongtobeat.com/?q=The+Time+Warp+of+Dr.+Brain) – - Website homepage
+[^ref-29]: [IMDb](https://www.imdb.com/find/?q=The+Time+Warp+of+Dr.+Brain&s=tt) – - Search results page
+[^ref-30]: [VGChartz](https://www.vgchartz.com/game/16942/the-time-warp-of-dr-brain/) – - Basic game metadata
+[^ref-31]: [Old Games Download](https://oldgamesdownload.com/the-time-warp-of-dr-brain/) – - Game classification as educational
+[^ref-32]: [Never Die Media](https://www.neverdiemedia.com/products/the-time-warp-of-dr-brain) – - Product description
+[^ref-33]: [Wayback Machine - Sierra Product Page](https://web.archive.org/web/19961219233717/http://www.sierra.com/cgi-bin/store/product-description?9311810300) – - Original marketing materials
+[^ref-34]: [Wikidata](https://www.wikidata.org/wiki/Q7769345) – - Official metadata entry
+[^ref-35]: [WikiMili](https://wikimili.com/en/The_Time_Warp_of_Dr._Brain) – - Comprehensive game details
+[^ref-36]: [Reddit - Sierra Community](https://www.reddit.com/r/Sierra/comments/qwdzzq/ripping_sprites_from_the_time_warp_of_dr_brain/) – - Technical discussion forum
+[^ref-37]: [MobyGames Search](https://www.mobygames.com/search/?q=The+Time+Warp+of+Dr.+Brain) – - Database search results
+[^ref-38]: [MobyGames Main Entry](https://www.mobygames.com/game/6885/) – - Primary database entry
+[^ref-39]: [Giant Bomb - The Time Warp of Dr. Brain](https://www.giantbomb.com/the-time-warp-of-dr-brain/3030-7329/) – - Comprehensive puzzle descriptions and gameplay details
+[^ref-40]: [Dr. Brain Omnipedia Wiki](https://drbrain.fandom.com/wiki/The_Time_Warp_of_Dr._Brain) – - Point system and puzzle mechanics
+[^ref-41]: [GOG Dreamlist - Player Stories](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – - Player memories and experiences
+[^ref-43]: [Collection Chamber - Time Warp of Dr. Brain](https://collectionchamber.blogspot.com/p/time-warp-of-dr-brain.html) – - Modern retrospective review
+[^ref-45]: [Wayback Machine - Electric Playground](https://web.archive.org/web/19970804202249/http://www.elecplay.com/pc/drbrain.html) – - Contemporary review details
+[^ref-46]: [Metzomagic Review](https://metzomagic.com/showArticle.php?index=169) – - Target audience and game overview

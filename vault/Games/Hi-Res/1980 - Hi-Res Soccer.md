@@ -144,3 +144,25 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|→ Next: Hi-Res Adventure 3 - Cranston Manor]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information
+[^ref-2]: [BoardGameGeek - Hi-Res Soccer](https://boardgamegeek.com/videogame/258043/hi-res-soccer) – - Platform and publisher details
+[^ref-3]: [LemonAmiga - Sierra Soccer](https://www.lemonamiga.com/games/details.php?id=2761) – - 1994 Amiga version development details
+[^ref-4]: [Dynamix Wiki - Sierra Soccer: World Challenge Edition](https://dynamix.fandom.com/wiki/Sierra_Soccer:_World_Challenge_Edition) – - World Cup gameplay details
+[^ref-5]: [ESPN Gaming Review](https://www.espn.com/gaming/story/_/id/45545318/rematch-review-sloclap-soccer-simulation) – - Gameplay mechanics details
+[^ref-6]: [Apple2Games Wiki](https://apple2games.com/wiki/Hi-Res_Soccer) – - AI behavior description
+[^ref-7]: [MyAbandonware - Sierra Soccer](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Modern rating and user reviews
+[^ref-8]: [WHDLoad - Sierra Soccer](http://www.whdload.de/games/SierraSoccer.html) – Technical assessment and Amiga compatibility
+[^ref-9]: [GOG Dreamlist Discussion](https://www.gog.com/dreamlist/game/sierra-online-hires-adventure-set) – Hi-Res series information
+[^ref-10]: [Retro-Treasures Blog](https://retro-treasures.blogspot.com/2013/10/on-line-systems-hi-res-soccer-apple-ii.html) – Historical perspective
+[^ref-11]: [Giant Bomb – Hi-Res Soccer](https://www.giantbomb.com/hi-res-soccer/3030-61989/) – game wiki entry
+[^ref-12]: [IGDB – Hi-Res Soccer](https://www.igdb.com/games/hi-res-soccer) – Internet Games Database entry
+[^ref-13]: [Internet Archive – Hi-Res Soccer](https://archive.org/details/HiResSoccer) – digital preservation and disk images
+[^ref-14]: [Apple II History](https://www.apple2history.org/history/ah12.html) – Apple II gaming context
+[^ref-15]: [Virtual Apple – Hi-Res Soccer](https://virtualapple.org/) – Apple II emulation archive
+[^ref-16]: [Asimov Archive – On-Line Systems](https://ftp.apple.asimov.net/images/games/collections/on-line_systems/) – early Sierra game collection
+[^ref-17]: [Hardcore Gaming 101 – Sierra Sports](https://www.hardcoregaming101.net/) – Sierra sports gaming history
+[^ref-18]: [MobyGames – Sierra Soccer World Challenge](https://www.mobygames.com/game/15096/sierra-soccer-world-challenge-edition/) – 1994 version database
+[^ref-19]: [Hall of Light – Sierra Soccer](https://hol.abime.net/2932) – Amiga database entry
+[^ref-20]: [Wikidata – Hi-Res Soccer](https://www.wikidata.org/wiki/Q56301544) – structured game data

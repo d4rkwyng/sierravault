@@ -184,3 +184,22 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 - [[1993 - Take a Break! Pinball|→ Next: Take a Break! Pinball]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details
+[^ref-2]: [Dynamix Fandom Wiki – Take a Break! Crosswords](https://dynamix.fandom.com/wiki/Take_a_Break!_Crosswords) – Dell Magazine license, 375 puzzles, puzzle sizes, difficulty levels, gameplay features, Wanda character
+[^ref-7]: [Retro365 Blog – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – Take a Break! series context, Dynamix development
+[^ref-4]: [Web Archive – Presage Software](https://web.archive.org/web/19970614015203/http://www.presage.com/pTABXWords.html) – Macintosh version development by Presage
+[^ref-5]: [Wikipedia – Take a Break! Crosswords](https://en.wikipedia.org/wiki/Take_a_Break%21_Crosswords) – Presage Software Macintosh development, release dates
+[^ref-6]: [Wikipedia – Take a Break! Crosswords (alternate)](https://en.wikipedia.org/wiki/Take_a_Break!_Crosswords) – Compute! Magazine quote, The Oregonian quote, 750 puzzles, themed puzzles, 65-page dictionary, Computer Game Review score
+[^ref-8]: [MyAbandonware – Take a Break! Crosswords](https://www.myabandonware.com/game/take-a-break-crosswords-1iz) – "above-average real-time title" quote, 4/5 rating, download availability
+[^ref-9]: [GameFAQs – Take a Break! Crosswords](https://gamefaqs.gamespot.com/pc/348963-take-a-break-crosswords) – genre classification, platform listing
+[^ref-10]: [Internet Archive – Take a Break! Crosswords](https://archive.org/details/RESOURCE_201808) – Volume 1 and 2 editions, 1995 date, CD-ROM format, "infinitely challenging" description
+[^ref-11]: [eBay Listing](https://www.ebay.com/itm/305679018307) – 1995 CD-ROM version, Sierra publisher
+[^ref-12]: [MobyGames – Take a Break! Pinball](https://www.mobygames.com/game/441/take-a-break-pinball/) – sequel information, 8 pinball tables based on Sierra games
+[^ref-13]: [Wikidata – Take a Break! Crosswords](https://www.wikidata.org/wiki/Q131915414) – verified developer Dynamix, publisher Sierra On-Line, 1992 release
+[^ref-14]: [IGDB – Take a Break! Crosswords](https://www.igdb.com/games/take-a-break-crosswords/similar) – 1992 release date confirmation
+[^ref-15]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Take+a+Break%21+Crosswords) – Windows 16-bit 1992, Macintosh 1993 release dates
+[^ref-16]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Take+a+Break%21+Crosswords) – Windows 3.x platform confirmation
+[^ref-17]: [Consolidated Research Data](about:blank) – Dell Magazine licensing, N8 Productions co-development
+[^ref-18]: [Reddit r/abandonware](https://www.reddit.com/r/abandonware/comments/1ld4ifp/i_have_about_450_fullversion_shareware_games_from/) – preservation community context for early 2000s shareware games

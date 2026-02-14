@@ -281,3 +281,61 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 - [[2016 - Homeworld - Deserts of Kharak|← Previous: Homeworld - Deserts of Kharak]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Homeworld 3](https://en.wikipedia.org/wiki/Homeworld_3) – release dates, platforms, ratings, development history, crowdfunding details
+[^ref-17]: [PC Gamer – Homeworld 3 Director Interview](https://www.gamesradar.com/homeworld-3-director-says-hes-been-waiting-20-years-to-make-his-dream-strategy-game/) – development timeline, original vision
+[^ref-3]: [Gearbox Publishing – Fleet Command Online Press Release](https://www.gearboxpublishing.com/press_release/fleet-command-online-homeworld-3-to-launch-worldwide-in-q4-2022/) – gameplay features, development philosophy
+[^ref-4]: [Gaming Bolt – Homeworld 3 Interview](https://gamingbolt.com/homeworld-3-interview-megaliths-story-war-games-and-more) – story premise, design philosophy
+[^ref-5]: [GameSpot – Units and Ships Guide](https://www.gamespot.com/gallery/homeworld-3-units-ships-campaign-guide/2900-5370/) – story context, gameplay mechanics
+[^ref-6]: [Blackbird Interactive – Projects Page](https://blackbirdinteractive.com/projects/) – official game description
+[^ref-7]: [CGMagazine – Homeworld 3 Review](https://www.cgmagonline.com/review/game/homeworld-3-pc-review/) – gameplay assessment, story summary
+[^ref-8]: [MobyGames – Homeworld 3 Credits](https://www.mobygames.com/game/223801/homeworld-3/) – full credits, technical details
+[^ref-9]: [Grokipedia – Homeworld 3](https://grokipedia.com/page/Homeworld_3) – engine, sales data, version history, awards, technical issues
+[^ref-10]: [Hardcore Gamer – Homeworld 3 Preview](https://hardcoregamer.com/blackbird-interactive-looks-to-revive-a-strategy-classic-with-homeworld-3/) – franchise history, setting
+[^ref-11]: [Gamers Heroes – Launch Announcement](https://www.gamersheroes.com/gaming-news/sci-fi-epic-homeworld-3-now-available/) – story details, features
+[^ref-12]: [Gearbox Publishing – Story Trailer Press Release](https://www.gearboxpublishing.com/press_release/homeworld-3-reveals-the-next-chapter-in-the-award-winning-homeworld-franchise-with-new-story-trailer/) – character details, enemy faction
+[^ref-13]: [Charlie INTEL – Campaign Length](https://www.charlieintel.com/games/how-long-to-beat-homeworld-3-full-mission-list-324226/) – mission count, completion time
+[^ref-14]: [TV Tropes – Homeworld 3](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Homeworld3) – writer quotes, critical reception
+[^ref-15]: [Gearbox Publishing – Official Game Page](https://www.gearboxpublishing.com/game/homeworld-3/) – story summary, gameplay features
+[^ref-16]: [PCGamesN – Big Update](https://www.pcgamesn.com/homeworld-3/big-update) – reception, patch notes, story criticism
+[^ref-18]: [Game Rant – Difficulty and Cover System Interview](https://gamerant.com/homeworld-3-difficulty-changes-cover-system-good/) – terrain mechanics, control improvements
+[^ref-21]: [Gamepressure – Beginner's Guide](https://www.gamepressure.com/newsroom/homeworld-3-guide-tips-for-beginners/z56d6e) – gameplay tips, mechanics
+[^ref-20]: [Eurogamer – Homeworld 3 Review](https://www.eurogamer.net/homeworld-3-review) – controls criticism, overall assessment
+[^ref-22]: [ChapterCheats – Video Walkthrough](https://www.chaptercheats.com/cheat/pc/456427/homeworld-3/video-walkthrough/414576) – mission list
+[^ref-23]: [IGN Italia – Review](https://it.ign.com/homeworld-3/211011/review/homeworld-3-la-recensione) – War Games mode description
+[^ref-24]: [Homeworld Universe – Mod Integration](https://www.homeworlduniverse.com/learn-about-mod-integration-and-custom-unreal-editor-launch-timing/) – launch details, multiplayer info
+[^ref-25]: [PC Gamer – Space Terrain Preview](https://www.pcgamer.com/homeworld-3-is-a-space-rts-about-the-terrain-of-space/) – terrain system
+[^ref-26]: [Gaming Cypher – Gamescom Coverage](https://gamingcypher.com/homeworld-3-brings-iconic-sci-fi-storytelling-and-3d-strategic-experience-to-the-modern-era/) – cover mechanics
+[^ref-27]: [Game Rant – Fleet Comparison Guide](https://gamerant.com/homeworld-3-hiigaran-fleet-or-incarnate-fleet/) – faction details
+[^ref-29]: [OpenCritic – Homeworld 3](https://opencritic.com/game/16052/homeworld-3) – aggregated reviews
+[^ref-31]: [PC Gamer – DLC Update](https://www.pcgamer.com/games/strategy/homeworld-3-will-get-two-of-its-dlc-packs-this-november-rather-than-in-2026/) – Steam ratings, PC Gamer score
+[^ref-32]: [GamesRadar – Homeworld 3 Review](https://www.gamesradar.com/games/real-time-strategy/homeworld-3-review/) – review score and quotes
+[^ref-33]: [Digital Trends – Review](https://www.digitaltrends.com/gaming/homeworld-3-review-pc/) – critical assessment
+[^ref-34]: [Inverse – Homeworld 3 Review](https://www.inverse.com/gaming/homeworld-3-review) – positive review
+[^ref-36]: [Metacritic – Homeworld 3](https://www.metacritic.com/game/homeworld-3/) – critic and user scores
+[^ref-37]: [IMDb – Homeworld 3](https://www.imdb.com/find/?q=Homeworld+3&s=tt) – user rating
+[^ref-38]: [PCGamesN – Final Update](https://www.pcgamesn.com/homeworld-3/final-update/) – player count, development ending
+[^ref-39]: [Homeworld Fandom – Blackbird Interactive](https://homeworld.fandom.com/wiki/Blackbird_Interactive) – studio founding
+[^ref-40]: [Gearbox Software – Acquisition Announcement](https://www.gearboxsoftware.com/2013/04/homeworld-acquisition-and-plans/) – franchise acquisition
+[^ref-41]: [MobyGames – Blackbird Interactive](https://www.mobygames.com/company/24674/blackbird-interactive-inc/) – Hardware to Homeworld transition
+[^ref-42]: [Eurogamer – Preview Interview](https://www.eurogamer.net/the-scale-in-homeworld-3-is-tremendous-its-a-space-rts-for-the-james-webb-era) – development timeline, team size
+[^ref-43]: [Jeuxvideo.com – Announcement](http://www.jeuxvideo.com/news/1100408/homeworld-3-officiellement-annonce-par-gearbox.htm) – initial announcement
+[^ref-44]: [Game Developer – Crowdfunding Campaign](https://www.gamedeveloper.com/production/gearbox-launches-i-homeworld-3-i-crowdfunding-campaign-with-1-goal) – funding strategy
+[^ref-45]: [GamesIndustry.biz – Embracer Acquisition Impact](https://www.gamesindustry.biz/articles/2021-06-08-embracers-gearbox-acquisition-appears-to-have-blocked-homeworld-3s-fig-investment-scheme) – investment cancellation
+[^ref-54]: [Inverse – Developer Interview](https://www.inverse.com/gaming/homeworld-3-interview-rts-future-campaign-work-week) – four-day work week
+[^ref-47]: [Engadget – Delay Announcement](https://www.engadget.com/homeworld-3-delay-gearbox-interactive-blackbird-rts-165808680.html) – quality priorities
+[^ref-48]: [Gematsu – May 2024 Delay](https://www.gematsu.com/2024/02/homeworld-3-delayed-to-may-13) – final release date
+[^ref-49]: [Polygon – Preview](https://www.polygon.com/24143797/homeworld-3-preview-impressions-blackbird-interactive) – terrain mechanics, mothership orientation
+[^ref-50]: [Aftermath – Concept Art Interview](https://aftermath.site/homeworld-3-concept-art-making-of) – art direction quotes
+[^ref-51]: [PCGamingWiki – Homeworld 3](https://www.pcgamingwiki.com/wiki/Homeworld_3) – system requirements
+[^ref-52]: [New Game Network – Review](https://www.newgamenetwork.com/article/2778/homeworld-3-review/) – War Games criticism
+[^ref-53]: [Gaming Bolt – Final Update](https://gamingbolt.com/homeworld-3s-final-update-and-dlc-are-now-available) – Update 1.3 details
+[^ref-55]: [Forbes – Paul Ruskay Interview](https://www.forbes.com/sites/olliebarder/2022/01/18/paul-ruskay-on-how-he-composed-the-unique-soundscape-for-the-homeworld-games/) – music composition
+[^ref-56]: [IMPRESS Games – Revenue Calculator](https://impress.games/steam-revenue-calculator/2689700/homeworld-3---year-one-pass) – DLC sales estimates
+[^ref-57]: [Escapist Magazine – Pre-order Editions](https://www.escapistmagazine.com/all-pre-order-bonuses-and-editions-for-homeworld-3/) – edition details and pricing
+[^ref-58]: [Games Press – Behind the Scenes](https://www.gamespress.com/Go-Behind-The-Scenes-of-Homeworld-3-with-Blackbird-Interactive) – PC Gaming Show ranking
+[^ref-59]: [Deku Deals – Historical Manual](https://www.dekudeals.com/items/homeworld-3-historical-and-technical-manual) – DLC description
+[^ref-60]: [MobyGames – Kalan Raiders Pack](https://www.mobygames.com/game/229172/homeworld-3-kalan-raiders-fleet-pack/) – DLC release date
+[^ref-61]: [Homeworld Universe – Update 1.3](https://www.homeworlduniverse.com/update-1-3-available-now-somtaaw-and-taiidan-faction-dlcs-available-now/) – faction DLC
+[^ref-63]: [Geek Sleep Rinse Repeat – Review](https://geeksleeprinserepeat.com/2024/05/31/homeworld-3-review/) – visual assessment

@@ -217,3 +217,22 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 - [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, game description, new features
+[^ref-2]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – sales data, platform releases, series history, bug documentation
+[^ref-3]: [GameSpot – Sales Charts Article](https://www.gamespot.com/articles/sims-still-dominating-sales-charts/1100-2691294/) – PC Data sales ranking, publisher information
+[^ref-4]: [GameFAQs – Hoyle Casino 2001](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001) – release date, developer, user ratings
+[^ref-5]: [NeverDieMedia – Product Listing](https://www.neverdiemedia.com/products/hoyle-casino-2001) – game features, player count, multiplayer support
+[^ref-6]: [Amazon India – Hoyle Casino 2001](https://www.amazon.in/Hoyle-Casino-2001-PC-Mac/dp/B00004Y7TU) – release date, customer reviews, technical specifications, bug reports
+[^ref-7]: [Sierra Chest – Hoyle Casino 6](https://sierrachest.com/index.php?a=games&id=810&title=hoyle-casino-6&fld=box) – UPC, version info, included demos, packaging details
+[^ref-8]: [GameFAQs – Hoyle Casino 2001 Reviews](https://gamefaqs.gamespot.com/pc/448849-hoyle-casino-2001/reviews) – GameSpot score
+[^ref-9]: [GameFAQs – Hoyle Casino User Review](https://gamefaqs.gamespot.com/pc/52155-hoyle-casino/reviews/651) – reviewer quotes, Sultan Easter egg
+[^ref-10]: [Metacritic – Hoyle Casino 2001](https://www.metacritic.com/game/hoyle-casino-2001/) – release date, developer/publisher confirmation
+[^ref-11]: [Michigan State University Library – Game Catalog](https://lib.msu.edu/rovi_game/8552) – ESRB rating, platform, publisher
+[^ref-12]: [Metacritic – Hoyle Casino 2001 Details](https://www.metacritic.com/game/hoyle-casino-2001/details/) – release date confirmation
+[^ref-13]: [Giant Bomb – Hoyle Casino 2001](https://giantbomb.com/wiki/Games/Hoyle_Casino_2001) – release date, developer confirmation
+[^ref-14]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise information
+[^ref-15]: [GameFAQs – Message Boards](https://gamefaqs.gamespot.com/boards/448849-hoyle-casino-2001) – genre classification
+[^ref-16]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, release date
+[^ref-17]: [PriceCharting ES – Hoyle Casino](https://www.pricecharting.com/es/game/pc-games/hoyle-casino) – platform confirmation, disc count

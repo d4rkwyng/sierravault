@@ -194,3 +194,28 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
 
 ## 
+## References
+
+[^ref-1]: [MobyGames - Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Game details, credits, and technical specifications
+[^ref-2]: [Wikipedia - Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Virtual Las Vegas casino setting and player profiles
+[^ref-3]: [Company Histories - Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Hoyle brand licensing and Sierra business context
+[^ref-4]: [GameSpot Review](https://www.gamespot.com/reviews/hoyle-poker-review/1900-2537745/) – Contemporary review score and critical assessment
+[^ref-5]: [MyAbandonware - Hoyle Poker](https://www.myabandonware.com/game/hoyle-poker-dk4) – Character descriptions, gameplay details, GamesDomain review
+[^ref-6]: [MobyGames - Hoyle Casino (Game Boy Color)](https://www.mobygames.com/game/43644/hoyle-casino/) – Platform availability
+[^ref-7]: [MobyGames - Hoyle Casino](https://mobygames.com/game/hoyle-casino) – Starting money and game premise details
+[^ref-8]: [MobyGames - Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – Technical specifications and multiplayer details
+[^ref-9]: [Amazon - Hoyle Poker Series](https://www.amazon.com/Encore-705381103158-Hoyle-Poker-Series/dp/B0007ZF3GY) – Product features and user ratings
+[^ref-10]: [GameCopyWorld](https://gamecopyworld.com/games/pc_hoyle_poker_series.shtml) – Game variants and series information
+[^ref-11]: [MobyGames - Hoyle Poker Series](https://mobygames.com/game/hoyle-poker-series) – Single player mode description
+[^ref-12]: [Internet Archive - Hoyle Poker USA](https://archive.org/details/hoyle-poker-usa) – Multiple poker variations and annual releases
+[^ref-13]: [MobyGames - Various Hoyle entries](https://www.mobygames.com/search/?q=Hoyle+Poker) – User score ranges
+[^ref-14]: [Old PC Gaming Review](https://oldpcgaming.net/hoyle-friday-night-poker-review/) – Modern retrospective assessment
+[^ref-15]: [GameSpot - Sierra Plans](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra's product lineup strategy
+[^ref-16]: [GameSpot - Sierra Reorganization](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – Corporate restructuring and franchise management
+[^ref-17]: [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209) – Online functionality and related games
+[^ref-18]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Community discussion on Sierra classics
+[^ref-19]: [Giant Bomb - Hoyle Poker](https://www.giantbomb.com/) - wiki
+[^ref-20]: [IGDB - Hoyle Poker](https://www.igdb.com/) - IGDB
+[^ref-21]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
+[^ref-22]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
+[^ref-23]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List

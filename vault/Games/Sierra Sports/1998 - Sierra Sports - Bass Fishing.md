@@ -143,3 +143,29 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [[1998 - Sierra Sports Skiing 1999 Edition|→ Next: Sierra Sports Skiing 1999 Edition]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia - Field & Stream: Trophy Bass 4](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_4) – - Game overview and series information
+[^ref-2]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Trophy_Bass) – - Developer and designer credits
+[^ref-3]: [Eurogamer Review](https://www.eurogamer.net/articles/tbass4) – - Game description and review
+[^ref-4]: [GameFAQs Trophy Bass Franchise](https://gamefaqs.gamespot.com/games/franchise/419-trophy-bass) – - Series history and franchise details
+[^ref-5]: [Old Games Download](https://oldgamesdownload.com/field-stream-trophy-bass-4/) – - Release information
+[^ref-6]: [Internet Archive - Field & Stream Trophy Bass 4](https://archive.org/details/FieldStreamTrophyBass4) – - Official game description
+[^ref-7]: [MobyGames Technical Specs](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/specs/windows/) – - Platform information
+[^ref-8]: [Web Archive - CD Magazine](https://web.archive.org/web/20030525154506/http://www.cdmag.com/articles/028/038/tb4.html) – - Official feature announcement
+[^ref-9]: [Game Pressure](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – - Technical specifications
+[^ref-10]: [Internet Archive - Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – - Technical details
+[^ref-11]: [MobyGames - Trophy Bass](https://www.mobygames.com/game/4831/trophy-bass/) – - Gameplay modes
+[^ref-12]: [MobyGames - Field & Stream Trophy Bass 4](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/) – - Multiplayer specifications
+[^ref-13]: [Web Archive - Field & Stream Review](https://web.archive.org/web/20030709174113/http://www.cdmag.com/articles/029/177/trophy_bass_review.html) – - Game design philosophy
+[^ref-14]: [MyAbandonware - Field & Stream Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c) – - Game features
+[^ref-15]: [IGN Game Page](https://www.ign.com/games/field-stream-trophy-bass-4) – - Gameplay description
+[^ref-16]: [Internet Archive - Field Stream Trophy Bass 3D Demo](https://archive.org/details/FieldStreamTrophyBass3dDemo) – - AI improvements
+[^ref-17]: [MobyGames Reviews](https://www.mobygames.com/game/2990/field-stream-trophy-bass-4/reviews/) – - User review
+[^ref-18]: [GameSpot Review](https://www.gamespot.com/reviews/trophy-bass-4-review/1900-2589993/) – - Professional review
+[^ref-19]: [Amazon Product Page](https://www.amazon.com/-/es/Field-Stream-Trophy-Bass-4-PC/dp/B00001LDC5) – - Customer reviews
+[^ref-20]: [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw) – - Awards information
+[^ref-21]: [Game Fabrique](https://gamefabrique.com/games/field-and-stream-trophy-bass-4/) – - Modern review
+[^ref-22]: [RAWG.io](https://rawg.io/games/field-stream-trophy-bass-4) – - User compatibility notes
+[^ref-23]: [Wikidata](https://www.wikidata.org/wiki/Q105975048) – - Engine information
+[^ref-24]: [Web Archive - GameZone Review](https://web.archive.org/web/20050216130239/http://pc.gamezone.com/gzreviews/r14108.htm) – - Installation options

@@ -184,3 +184,19 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
 
 ## 
+## References
+
+[^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, animation creation features
+[^ref-2]: [Sierra Chest – Playtoons 4](https://sierrachest.com/index.php?a=games&id=324&title=playtoons-4&fld=box) – developer, publisher, engine, release date, platform
+[^ref-3]: [MobyGames – Playtoons 4: The Mandarine Prince](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – credits, gameplay description, technical details, platforms, publishers, alternate titles, bundled contents
+[^ref-4]: [MyAbandonware – Playtoons 4: The Mandarine Prince](https://www.myabandonware.com/game/playtoons-4-the-mandarine-prince-yr9) – release dates by region, file size, genre, themes, alternate names, user ratings
+[^ref-5]: [ScummVM Wiki – Playtoons 4](https://wiki.scummvm.org/index.php/Playtoons_4:_The_Mandarine_Prince) – engine compatibility, Gob engine technical details
+[^ref-6]: [UVList – Mac OS Classic Games](https://www.uvlist.net/platforms/games-list/48-Mac%20OS%20Classic/p) – 1996 Mac OS Classic release, developer confirmation
+
+[^ref-7]: [GameFAQs – Playtoons 4](https://gamefaqs.gamespot.com/pc/591381-playtoons-4-the-mandarine-prince) – developer, publisher, platform information
+
+[^ref-8]: [Macintosh Repository – Playtoons 4](https://www.macintoshrepository.org/4814-playtoons-4-the-mandarine-prince) – Mac version details, file information
+
+[^ref-9]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+
+[^ref-10]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer history, game catalog, educational focus
