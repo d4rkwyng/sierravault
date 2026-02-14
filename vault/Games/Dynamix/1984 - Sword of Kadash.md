@@ -199,7 +199,8 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 - [Game Solution/Walkthrough](https://www.atarimax.com/freenet/freenet_material/12.AtariLibrary/2.MiscellaneousTextFiles/showarticle.php?67)
 
 ## See Also
-- → Next: Arcticfox
+- [[1986 - Arcticfox|→ Next: Arcticfox]] - Jeff Tunnell's follow-up title
+- [[Dynamix]] - Developer founded after this game's success
 
 ## References
 

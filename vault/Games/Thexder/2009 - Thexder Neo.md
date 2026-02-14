@@ -214,7 +214,9 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 - Physical copies rare for PSP version
 
 ## See Also
-- **Next:** No announced sequels
+- [[1985 - Thexder|← Original: Thexder]] - First game in the series
+- [[1989 - Fire Hawk - Thexder - The Second Contact]] - Direct sequel
+- [[1995 - Thexder 95]] - Windows remake of the original
 
 ## References
 

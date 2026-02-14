@@ -193,7 +193,9 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 - [ClassicReload](https://classicreload.com/david-wolf-secret-agent.html) - Browser playable
 
 ## See Also
-- **Next:** No direct sequels produced
+- [[1990 - Rise of the Dragon]] - Similar Dynamix action-adventure
+- [[1991 - Heart of China]] - Another Dynamix cinematic adventure
+- [[Dynamix]] - Developer
 
 ## References
 

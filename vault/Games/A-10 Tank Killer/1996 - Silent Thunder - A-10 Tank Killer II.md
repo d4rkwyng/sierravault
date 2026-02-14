@@ -236,7 +236,9 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 - Version 1.01 patch available through preservation sites[^ref-10]
 
 ## See Also
-- **Next:** No direct sequel produced
+- [[1989 - A-10 Tank Killer|← Previous: A-10 Tank Killer]] - Original in the series
+- [[1991 - A-10 Tank Killer v1.5]] - Enhanced version of the original
+- [[Dynamix]] - Developer
 
 ## References
 

@@ -218,7 +218,10 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 - [Wiw.org – Space Quest 7 Archive](http://www.wiw.org/~jess/sq7.html) – Concept art and timeline[^ref-6]
 
 ## See Also
-- **Next:** None (series cancelled)
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|← Previous: Space Quest 6]] - Final released game in the series
+- [[Space Quest Series]] - Series overview
+- [[Scott Murphy]] - Series co-creator and SQ7 director
+- [[Mark Crowe]] - Series co-creator
 
 ## References
 

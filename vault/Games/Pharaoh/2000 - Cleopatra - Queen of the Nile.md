@@ -268,7 +268,9 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Cleopatra:_Queen_of_the_Nile) - Technical fixes and compatibility
 
 ## See Also
-- **Next:** Pharaoh: A New Era (2023 remake)
+- [[1999 - Pharaoh|← Base Game: Pharaoh]] - Required base game
+- [[2023 - Pharaoh - A New Era|→ Remake: Pharaoh - A New Era]] - 2023 remaster including Cleopatra content
+- [[Impressions Games]] - Developer
 
 ## References
 

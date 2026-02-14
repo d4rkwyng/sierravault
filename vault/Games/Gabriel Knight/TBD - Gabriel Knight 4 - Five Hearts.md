@@ -196,7 +196,9 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 - [Steam – Gabriel Knight Series](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) – Anniversary edition
 
 ## See Also
-- **Next:** Not yet released
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3]] - Most recent released game
+- [[Gabriel Knight Series]] - Series overview
+- [[Jane Jensen]] - Series creator
 
 ## References
 

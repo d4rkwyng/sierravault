@@ -186,8 +186,9 @@ The game has been preserved by various abandonware sites and is considered no lo
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Geisha&gid=1910)
 
 ## See Also
-- **Previous:** N/A (Standalone title)
-- **Next:** N/A
+- [[1989 - Emmanuelle]] - Previous Coktel adult adventure
+- [[Coktel Vision]] - Developer
+- [[Muriel Tramis]] - Designer
 
 ## References
 
