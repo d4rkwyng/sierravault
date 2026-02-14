@@ -237,6 +237,8 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 ## See Also
 - [[1992 - Red Baron - Mission Builder|← Previous: Red Baron - Mission Builder]]
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
+- [[Dynamix]] - Developer
+- [[Aces]] - Related flight sim series
 
 ## References
 

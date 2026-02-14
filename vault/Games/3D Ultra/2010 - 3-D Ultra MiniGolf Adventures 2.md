@@ -130,6 +130,7 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 
 ## See Also
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|← Previous: 3D Ultra Minigolf Adventures Deluxe]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

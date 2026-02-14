@@ -218,6 +218,7 @@ The game is documented in various gaming databases and preservation archives.[^r
 ## See Also
 - [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

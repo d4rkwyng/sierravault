@@ -301,6 +301,7 @@ The game's ongoing availability on modern digital platforms and the active moddi
 ## See Also
 - **Next:** None (final entry in series)
 - [[1997 - Lords of Magic|← Previous: Lords of Magic]]
+- [[Impressions Games]] - Developer
 
 ## References
 

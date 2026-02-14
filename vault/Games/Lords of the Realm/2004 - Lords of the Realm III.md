@@ -120,6 +120,7 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 ## See Also
 - **Next:** None (series concluded)
 - [[1997 - Lords of the Realm II - Siege Pack|← Previous: Lords of the Realm II - Siege Pack]]
+- [[Impressions Games]] - Developer
 
 ## References
 

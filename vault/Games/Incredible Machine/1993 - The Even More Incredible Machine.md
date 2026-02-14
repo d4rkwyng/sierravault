@@ -236,6 +236,8 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 ## See Also
 - [[1993 - Sid & Al's Incredible Toons|← Previous: Sid & Al's Incredible Toons]]
 - [[1994 - The Incredible Machine 2|→ Next: The Incredible Machine 2]]
+- [[Dynamix]] - Developer
+- [[Jeff Tunnell]] - Creator
 
 ## References
 

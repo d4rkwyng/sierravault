@@ -210,6 +210,7 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 ## See Also
 - [[1999 - 3-D Ultra Lionel TrainTown|← Previous: 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

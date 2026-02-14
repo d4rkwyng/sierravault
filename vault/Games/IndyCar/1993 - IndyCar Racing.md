@@ -226,6 +226,7 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 ## See Also
 - **Previous:** Indianapolis 500: The Simulation (1989)
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
+- [[Papyrus Design Group]] - Developer
 
 ## References
 

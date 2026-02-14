@@ -218,6 +218,7 @@ Community preservation efforts maintain access to the game through abandonware a
 ## See Also
 - [[1996 - Front Page Sports - Trophy Bass 2|← Previous: Front Page Sports - Trophy Bass 2]]
 - [[2000 - Field & Stream - Trophy Bass 4|→ Next: Field & Stream - Trophy Bass 4]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

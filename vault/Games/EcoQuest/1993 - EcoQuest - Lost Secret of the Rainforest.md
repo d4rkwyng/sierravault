@@ -214,6 +214,7 @@ The game's emphasis on consequences for environmental destruction—whether thro
 
 ## See Also
 - [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

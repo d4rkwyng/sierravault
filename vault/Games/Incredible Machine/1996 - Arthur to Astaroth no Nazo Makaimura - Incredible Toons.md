@@ -206,6 +206,8 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 - Spinoff title; does not directly continue the main series timeline
 - [[1995 - The Incredible Machine 3.0|← Previous: The Incredible Machine 3.0]]
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]
+- [[Dynamix]] - Developer
+- [[Jeff Tunnell]] - Creator
 
 ## References
 

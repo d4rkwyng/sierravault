@@ -285,6 +285,8 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 
 ## See Also
 - [[1996 - Phantasmagoria - A Puzzle of Flesh|→ Next: Phantasmagoria - A Puzzle of Flesh]]
+- [[Sierra On-Line]] - Developer
+- [[Roberta Williams]] - Creator
 
 ## References
 

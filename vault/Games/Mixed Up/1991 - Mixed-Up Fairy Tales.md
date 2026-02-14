@@ -219,6 +219,7 @@ From a preservation standpoint, the game's absence from modern digital storefron
 ## See Also
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|← Previous: Mixed-Up Mother Goose (SCI Remake)]]
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

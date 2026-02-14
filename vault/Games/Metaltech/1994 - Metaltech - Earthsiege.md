@@ -166,6 +166,7 @@ The game has been preserved and made playable on modern systems through the effo
 ## See Also
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
+- [[Dynamix]] - Developer
 
 ## References
 

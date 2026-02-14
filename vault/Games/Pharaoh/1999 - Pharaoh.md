@@ -125,6 +125,7 @@ The game's influence extends to the broader city-building genre, establishing co
 
 ## See Also
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
+- [[Impressions Games]] - Developer
 
 ## References
 

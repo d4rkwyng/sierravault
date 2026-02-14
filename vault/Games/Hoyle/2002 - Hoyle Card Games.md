@@ -186,6 +186,7 @@ The game's technical conservatism, criticized at release, ironically contributed
 ## See Also
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

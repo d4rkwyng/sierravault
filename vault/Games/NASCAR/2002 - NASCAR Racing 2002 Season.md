@@ -136,6 +136,8 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 ## See Also
 - [[2001 - NASCAR Racing 4|← Previous: NASCAR Racing 4]]
 - [[2003 - NASCAR Racing 2003 Season|→ Next: NASCAR Racing 2003 Season]]
+- [[Papyrus Design Group]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

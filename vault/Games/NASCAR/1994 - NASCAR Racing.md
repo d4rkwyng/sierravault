@@ -262,6 +262,8 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 ## See Also
 - ← Previous: Indianapolis 500 - The Simulation
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
+- [[Papyrus Design Group]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

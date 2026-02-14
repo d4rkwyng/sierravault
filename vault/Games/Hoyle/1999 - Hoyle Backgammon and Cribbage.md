@@ -196,6 +196,7 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 ## See Also
 - [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

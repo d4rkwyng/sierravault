@@ -114,6 +114,8 @@ An amusing piece of trivia emerged years after release when someone successfully
 - **Original:** [[1990 - Red Baron]]
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
+- [[Dynamix]] - Developer
+- [[Aces]] - Related flight sim series
 
 ## References
 

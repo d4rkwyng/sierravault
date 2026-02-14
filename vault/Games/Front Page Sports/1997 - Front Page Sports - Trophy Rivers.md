@@ -225,6 +225,8 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 ## See Also
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

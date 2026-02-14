@@ -192,6 +192,7 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 ## See Also
 - [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

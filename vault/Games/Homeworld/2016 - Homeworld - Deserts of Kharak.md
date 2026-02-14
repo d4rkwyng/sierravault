@@ -119,6 +119,8 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 ## See Also
 - [[2015 - Homeworld Remastered Collection|← Previous: Homeworld Remastered Collection]]
 - [[2024 - Homeworld 3|→ Next: Homeworld 3]]
+- [[Relic Entertainment]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -205,6 +205,7 @@ The game's approach—offering both consumption and creation modes—anticipated
 ## See Also
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|← Previous: Playtoons 2 - The Case of the Counterfeit Collaborator]]
 - [[1995 - Playtoons 4 - The Mandarine Prince|→ Next: Playtoons 4 - The Mandarine Prince]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

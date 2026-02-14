@@ -251,6 +251,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 - **Related:** [[2002 - Hoyle Casino Empire]]
 - [[1996 - Hoyle Blackjack|← Previous: Hoyle Blackjack]]
 - [[1996 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

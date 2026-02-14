@@ -233,6 +233,8 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 - **Base Game:** Front Page Sports: Golf (May 16, 1997)
 - [[1997 - Front Page Sports - Trophy Rivers|← Previous: Front Page Sports - Trophy Rivers]]
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

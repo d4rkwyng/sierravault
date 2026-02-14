@@ -228,6 +228,8 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 ## See Also
 - [[1999 - SWAT 3 - Close Quarters Battle|← Previous: SWAT 3 - Close Quarters Battle]]
 - [[2005 - SWAT 4|→ Next: SWAT 4]]
+- [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

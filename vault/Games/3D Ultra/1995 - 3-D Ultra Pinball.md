@@ -205,6 +205,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 
 ## See Also
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

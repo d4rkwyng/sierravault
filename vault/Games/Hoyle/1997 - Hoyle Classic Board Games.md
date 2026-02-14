@@ -215,6 +215,7 @@ Abandonware archives and retro gaming communities continue maintaining access to
 - **Related:** [[1993 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 - [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

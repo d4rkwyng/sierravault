@@ -250,6 +250,8 @@ Red Baron also represented an important step in the maturation of flight simulat
 
 ## See Also
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
+- [[Dynamix]] - Developer
+- [[Aces]] - Related flight sim series
 
 ## References
 

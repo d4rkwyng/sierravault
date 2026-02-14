@@ -230,6 +230,8 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 ## See Also
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

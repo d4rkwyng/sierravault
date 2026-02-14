@@ -217,6 +217,7 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 - [[1985 - Thexder|← Original: Thexder]] - First game in the series
 - [[1989 - Fire Hawk - Thexder - The Second Contact]] - Direct sequel
 - [[1995 - Thexder 95]] - Windows remake of the original
+- [[Game Arts]] - Developer
 
 ## References
 

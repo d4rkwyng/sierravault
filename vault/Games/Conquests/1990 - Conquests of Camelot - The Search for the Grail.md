@@ -244,6 +244,8 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 - [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Next: Conquests of the Longbow - The Legend of Robin Hood]]
+- [[Sierra On-Line]] - Developer
+- [[Christy Marx]] - Designer
 
 ## References
 

@@ -104,6 +104,7 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 - [[1999 - Pharaoh|Pharaoh]] (1999) → **Pharaoh: A New Era** (2023 remake)
 - [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000)
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (2002)
+- [[Impressions Games]] - Developer
 
 ## References
 

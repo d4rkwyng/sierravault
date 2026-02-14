@@ -147,6 +147,7 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 ## See Also
 - **Next:** Mixed-Up Fairy Tales (1991)
 - [[1991 - Mixed-Up Fairy Tales|← Previous: Mixed-Up Fairy Tales]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

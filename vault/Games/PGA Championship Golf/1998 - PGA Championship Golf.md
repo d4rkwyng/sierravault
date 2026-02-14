@@ -255,6 +255,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 
 ## See Also
 - [[1999 - PGA Championship Golf 1999 Edition|→ Next: PGA Championship Golf 1999 Edition]]
+- [[Headgate Studios]] - Developer
 
 ## References
 

@@ -208,6 +208,7 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 ## See Also
 - [[1999 - 3-D Ultra Radio Control Racers|← Previous: 3-D Ultra Radio Control Racers]]
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

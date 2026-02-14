@@ -227,6 +227,7 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 - **Series:** Hoyle Games (Sierra Entertainment)
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -105,6 +105,7 @@ The community created extensive modifications and content, including approximate
 ## See Also
 - [[1999 - Starsiege|← Previous: Starsiege]]
 - [[2002 - Tribes - Aerial Assault|→ Next: Tribes - Aerial Assault]]
+- [[Dynamix]] - Developer
 
 ## References
 

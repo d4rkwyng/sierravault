@@ -170,6 +170,8 @@ The series represented Sierra's most successful foray into sports gaming, with [
 ## See Also
 - [[1996 - Front Page Sports - Baseball Pro '96|← Previous: Front Page Sports - Baseball Pro '96]]
 - [[1997 - Front Page Sports - Baseball Pro '98|→ Next: Front Page Sports - Baseball Pro '98]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

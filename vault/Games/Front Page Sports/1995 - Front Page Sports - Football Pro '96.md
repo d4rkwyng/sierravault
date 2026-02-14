@@ -261,6 +261,8 @@ The game is preserved through various abandonware archives and remains playable 
 ## See Also
 - [[1994 - Front Page Sports - Football Pro '95|← Previous: Front Page Sports - Football Pro '95]]
 - [[1996 - Front Page Sports - Baseball Pro '96|→ Next: Front Page Sports - Baseball Pro '96]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

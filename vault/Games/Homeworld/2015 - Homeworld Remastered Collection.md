@@ -341,6 +341,8 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 ## See Also
 - [[2003 - Homeworld 2|← Previous: Homeworld 2]]
 - [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld - Deserts of Kharak]]
+- [[Relic Entertainment]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

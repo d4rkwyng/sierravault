@@ -229,6 +229,7 @@ The collaboration between experienced Sierra personnel on this title, including 
 ## See Also
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1997 - Hoyle Classic Board Games|→ Next: Hoyle Classic Board Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -217,6 +217,7 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 ## See Also
 - [[2004 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Table Games|→ Next: Hoyle Table Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

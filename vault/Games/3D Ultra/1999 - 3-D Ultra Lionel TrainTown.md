@@ -215,6 +215,7 @@ In retrospect, the game represents an interesting moment in edutainment history�
 - **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]], [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

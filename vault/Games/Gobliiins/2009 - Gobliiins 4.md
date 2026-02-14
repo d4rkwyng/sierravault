@@ -219,6 +219,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 ## See Also
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|← Previous: The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|→ Next: Gobliiins 5 - The Morgloton Invasion]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

@@ -257,6 +257,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 
 ## See Also
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

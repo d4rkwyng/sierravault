@@ -136,6 +136,8 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 ## See Also
 - [[1999 - NASCAR Racing 3|← Previous: NASCAR Racing 3]]
 - [[2002 - NASCAR Racing 2002 Season|→ Next: NASCAR Racing 2002 Season]]
+- [[Papyrus Design Group]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

@@ -258,6 +258,7 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 ## See Also
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

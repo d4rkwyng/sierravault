@@ -216,6 +216,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 ## See Also
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

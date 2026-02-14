@@ -206,6 +206,7 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 - Leisure Suit Larry Casino (1992)
 - Roger Wilco's Spaced Out Game Pack (1992)
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|← Previous: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

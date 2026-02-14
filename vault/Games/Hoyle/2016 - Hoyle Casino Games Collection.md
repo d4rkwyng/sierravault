@@ -255,6 +255,7 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 ## See Also
 - **Series Origin:** [[1996 - Hoyle Casino]]
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

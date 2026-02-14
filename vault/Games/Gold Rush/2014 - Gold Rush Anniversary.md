@@ -269,6 +269,7 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 ## See Also
 - [[1988 - Gold Rush|← Previous: Gold Rush]]
 - [[2017 - Gold Rush 2|→ Next: Gold Rush 2]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -140,6 +140,7 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 ## See Also
 - [[2000 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

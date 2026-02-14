@@ -143,6 +143,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 
 ## See Also
 - [[2014 - Gold Rush Anniversary|→ Next: Gold Rush Anniversary]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

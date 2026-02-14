@@ -212,6 +212,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 ## See Also
 - [[2000 - Maximum Pool|← Previous: Maximum Pool]]
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|→ Next: 3D Ultra Minigolf Adventures Deluxe]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

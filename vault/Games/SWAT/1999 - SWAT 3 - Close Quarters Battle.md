@@ -280,6 +280,8 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 ## See Also
 - [[1998 - Police Quest - SWAT 2|← Previous: Police Quest - SWAT 2]]
 - [[2003 - SWAT - Global Strike Team|→ Next: SWAT - Global Strike Team]]
+- [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

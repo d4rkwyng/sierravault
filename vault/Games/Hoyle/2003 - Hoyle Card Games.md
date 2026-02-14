@@ -214,6 +214,7 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 ## See Also
 - [[2003 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

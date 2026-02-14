@@ -193,6 +193,7 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 
 ## See Also
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
+- [[Dynamix]] - Developer
 
 ## References
 

@@ -209,6 +209,7 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 ## See Also
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

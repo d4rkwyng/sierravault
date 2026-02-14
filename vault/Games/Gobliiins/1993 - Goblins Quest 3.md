@@ -196,6 +196,7 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 ## See Also
 - [[1992 - Gobliins 2 - The Prince Buffoon|← Previous: Gobliins 2 - The Prince Buffoon]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|→ Next: The Bizarre Adventures of Woodruff and the Schnibble]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

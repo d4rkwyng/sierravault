@@ -194,6 +194,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 
 ## See Also
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|→ Next: Playtoons 2 - The Case of the Counterfeit Collaborator]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

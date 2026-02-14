@@ -204,6 +204,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 ## See Also
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
 - [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

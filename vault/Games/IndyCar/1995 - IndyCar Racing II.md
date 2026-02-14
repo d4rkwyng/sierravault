@@ -147,6 +147,7 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 ## See Also
 - [[1993 - IndyCar Racing|← Previous: IndyCar Racing]]
 - [[1997 - CART Racing|→ Next: CART Racing]]
+- [[Papyrus Design Group]] - Developer
 
 ## References
 

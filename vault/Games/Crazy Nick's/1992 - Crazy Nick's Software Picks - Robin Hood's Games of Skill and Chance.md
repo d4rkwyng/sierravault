@@ -211,6 +211,7 @@ No official digital distribution is currently available. The game may be found t
 ## See Also
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|← Previous: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|→ Next: Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

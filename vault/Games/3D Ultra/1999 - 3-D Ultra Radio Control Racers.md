@@ -129,6 +129,7 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 ## See Also
 - [[1999 - 3-D Ultra Pinball - Power|← Previous: 3-D Ultra Pinball - Power]]
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|→ Next: 3-D Ultra Lionel TrainTown Deluxe]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

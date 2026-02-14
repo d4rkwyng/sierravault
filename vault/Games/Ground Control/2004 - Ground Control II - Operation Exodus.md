@@ -281,6 +281,8 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 ## See Also
 - **Related:** [[2000 - Ground Control - Dark Conspiracy]]
 - [[2000 - Ground Control - Dark Conspiracy|← Previous: Ground Control - Dark Conspiracy]]
+- [[Massive Entertainment]] - Developer
+- [[Sierra Entertainment]] - Publisher
 
 ## References
 

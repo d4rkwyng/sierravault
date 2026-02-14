@@ -204,6 +204,7 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
 - [[1991 - Hoyle Official Book of Games - Volume 4|← Previous: Hoyle Official Book of Games - Volume 4]]
 - [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

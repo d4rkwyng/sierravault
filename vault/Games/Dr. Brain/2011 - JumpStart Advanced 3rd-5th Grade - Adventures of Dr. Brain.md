@@ -202,6 +202,7 @@ This transition mirrors broader trends in the educational software market of the
 - **Related JumpStart Titles:** JumpStart Adventures series
 
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

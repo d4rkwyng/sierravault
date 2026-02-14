@@ -137,6 +137,8 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 ## See Also
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

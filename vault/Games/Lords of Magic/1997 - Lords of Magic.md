@@ -116,6 +116,7 @@ The Special Edition release in 2000 attempted to address many of the original ga
 
 ## See Also
 - [[1998 - Lords of Magic - Special Edition|→ Next: Lords of Magic - Special Edition]]
+- [[Impressions Games]] - Developer
 
 ## References
 

@@ -103,6 +103,7 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - Tribes: Vengeance (2004) – Irrational Games/Vivendi
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
+- [[Dynamix]] - Developer
 
 ## References
 

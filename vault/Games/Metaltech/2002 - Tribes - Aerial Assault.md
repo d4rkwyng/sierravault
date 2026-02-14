@@ -193,6 +193,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 ## See Also
 - **Next:** Tribes: Vengeance (2004)
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
+- [[Dynamix]] - Developer
 
 ## References
 

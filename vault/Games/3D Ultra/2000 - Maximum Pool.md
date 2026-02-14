@@ -210,6 +210,7 @@ Modern players can run the Windows version through compatibility modes, though s
 ## See Also
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|← Previous: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 - [[2006 - 3D Ultra MiniGolf Adventures|→ Next: 3D Ultra MiniGolf Adventures]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

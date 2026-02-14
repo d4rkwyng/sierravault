@@ -157,6 +157,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 ## See Also
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

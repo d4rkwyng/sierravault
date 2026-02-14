@@ -215,6 +215,8 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 ## See Also
 - [[1992 - The Incredible Machine|← Previous: The Incredible Machine]]
 - [[1993 - The Even More Incredible Machine|→ Next: The Even More Incredible Machine]]
+- [[Dynamix]] - Developer
+- [[Jeff Tunnell]] - Creator
 
 ## References
 

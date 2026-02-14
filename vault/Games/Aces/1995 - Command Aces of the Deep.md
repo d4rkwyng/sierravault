@@ -118,6 +118,7 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 ## See Also
 - **Next:** Aces of the Deep: Expansion Disk (1995)
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
+- [[Dynamix]] - Developer
 
 ## References
 

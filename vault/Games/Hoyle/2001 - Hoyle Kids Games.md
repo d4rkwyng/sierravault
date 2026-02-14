@@ -213,6 +213,7 @@ The title also reflects the industry's growing interest in online multiplayer ga
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] series
 - [[2001 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2001 - Hoyle Word Games|→ Next: Hoyle Word Games]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

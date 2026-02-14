@@ -216,6 +216,8 @@ The game also illustrates the challenges faced by flight simulation developers i
 ## See Also
 - [[1998 - Red Baron 3D|← Previous: Red Baron 3D]]
 - [[2008 - Red Baron Arcade|→ Next: Red Baron Arcade]]
+- [[Dynamix]] - Developer
+- [[Aces]] - Related flight sim series
 
 ## References
 

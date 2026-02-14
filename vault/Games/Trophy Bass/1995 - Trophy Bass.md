@@ -243,6 +243,7 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 
 ## See Also
 - [[1996 - Front Page Sports - Trophy Bass 2|→ Next: Front Page Sports - Trophy Bass 2]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

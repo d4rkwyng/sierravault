@@ -258,6 +258,8 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 ## See Also
 - [[CXL - SWAT - Urban Justice|← Previous: Urban Justice]]
 - [[1998 - Police Quest - SWAT 2|→ Next: Police Quest - SWAT 2]]
+- [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

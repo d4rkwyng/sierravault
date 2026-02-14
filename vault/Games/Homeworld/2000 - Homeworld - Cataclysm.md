@@ -132,6 +132,8 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 ## See Also
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
+- [[Relic Entertainment]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

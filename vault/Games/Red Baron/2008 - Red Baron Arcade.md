@@ -203,6 +203,8 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 ## See Also
 - **Next:** None (final entry in series)
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
+- [[Dynamix]] - Developer
+- [[Aces]] - Related flight sim series
 
 ## References
 

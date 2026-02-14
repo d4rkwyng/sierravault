@@ -258,6 +258,7 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 ## See Also
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

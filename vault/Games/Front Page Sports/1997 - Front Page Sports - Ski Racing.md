@@ -133,6 +133,8 @@ A community-created patch has been developed to address compatibility issues, sp
 ## See Also
 - [[1997 - Front Page Sports - Golf|← Previous: Front Page Sports - Golf]]
 - [[1997 - Front Page Sports - Trophy Rivers|→ Next: Front Page Sports - Trophy Rivers]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

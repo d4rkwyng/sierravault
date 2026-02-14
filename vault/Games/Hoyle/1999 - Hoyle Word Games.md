@@ -194,6 +194,7 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 ## See Also
 - [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

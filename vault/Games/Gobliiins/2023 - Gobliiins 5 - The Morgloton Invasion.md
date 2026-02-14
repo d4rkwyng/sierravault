@@ -204,6 +204,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 ## See Also
 - **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

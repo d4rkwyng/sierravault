@@ -227,6 +227,7 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 ## See Also
 - [[1996 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[1996 - Hoyle Solitaire|→ Next: Hoyle Solitaire]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

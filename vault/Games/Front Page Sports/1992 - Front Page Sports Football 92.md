@@ -246,6 +246,8 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 
 ## See Also
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports - Football Pro]]
+- [[Dynamix]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

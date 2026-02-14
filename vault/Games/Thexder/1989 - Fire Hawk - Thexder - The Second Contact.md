@@ -218,6 +218,7 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 ## See Also
 - [[1985 - Thexder|← Previous: Thexder]]
 - [[1995 - Thexder 95|→ Next: Thexder 95]]
+- [[Game Arts]] - Developer
 
 ## References
 

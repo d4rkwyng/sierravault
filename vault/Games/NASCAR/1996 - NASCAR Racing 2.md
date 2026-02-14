@@ -251,6 +251,8 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 ## See Also
 - [[1994 - NASCAR Racing|← Previous: NASCAR Racing]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 - Grand National Series Expansion]]
+- [[Papyrus Design Group]] - Developer
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

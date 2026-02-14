@@ -267,6 +267,7 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - Dr. Brain: Action Reaction (1999)
 
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

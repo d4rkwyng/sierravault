@@ -204,6 +204,7 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 ## See Also
 - [[1999 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2000 - Hoyle Crosswords|→ Next: Hoyle Crosswords]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 

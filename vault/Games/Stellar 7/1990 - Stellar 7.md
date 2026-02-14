@@ -268,6 +268,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 - **Stellar 7: Draxon's Revenge** (1993): 3DO remake/sequel with enhanced graphics and voice acting
 
 - [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
+- [[Dynamix]] - Developer
 
 ## References
 

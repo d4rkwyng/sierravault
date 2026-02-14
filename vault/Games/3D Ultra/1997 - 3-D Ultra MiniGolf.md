@@ -203,6 +203,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 ## See Also
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
+- [[Sierra On-Line]] - Publisher
 
 ## References
 
