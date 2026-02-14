@@ -200,8 +200,7 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 - [Wikipedia](https://en.wikipedia.org/wiki/Laf_Pak) - Encyclopedia entry
 
 ## See Also
-- [[1982 - Dragon's Keep|← Previous: Dragon's Keep]]
-- [[1982 - Lunar Leeper|→ Next: Lunar Leeper]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

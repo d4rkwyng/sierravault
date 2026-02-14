@@ -206,8 +206,7 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [DOSGames.com – The Crimson Crown](https://dosgames.com/game/crimson-crown-the/)
 
 ## See Also
-- [[1985 - Stunt Flyer|← Previous: Stunt Flyer]]
-- [[1986 - Kempelen|→ Next: Kempelen]]
+- [[Polarware]] - Developer
 
 ## References
 

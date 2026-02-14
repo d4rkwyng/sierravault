@@ -216,8 +216,7 @@ From a modern perspective, the game serves as an important data point in underst
 - [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
 
 ## See Also
-- [[1986 - Kempelen|← Previous: Kempelen]]
-- [[1987 - 3-D Helicopter Simulator|→ Next: 3-D Helicopter Simulator]]
+- [[Christopher Crim]] - Developer
 
 ## References
 

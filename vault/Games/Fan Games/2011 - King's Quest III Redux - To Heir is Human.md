@@ -260,10 +260,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
 ## See Also
-- **Related Original:** [[1986 - King's Quest III - To Heir Is Human]] (Sierra original)
-- **Story Sequel:** [[1988 - King's Quest IV - The Perils of Rosella]]
-- [[2010 - The Silver Lining|← Previous: The Silver Lining]]
-- [[2011 - Space Quest - Vohaul Strikes Back|→ Next: Space Quest - Vohaul Strikes Back]]
+- [[AGD Interactive]] - Developer
 
 ## References
 

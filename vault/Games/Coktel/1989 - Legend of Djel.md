@@ -126,8 +126,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 - [SierraHelp Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html)[^ref-33]
 
 ## See Also
-- [[1989 - Emmanuelle|← Previous: Emmanuelle]]
-- [[1990 - Cougar Force|→ Next: Cougar Force]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

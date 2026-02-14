@@ -204,8 +204,7 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
 
 ## See Also
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|← Previous: Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Jones in the Fast Lane|→ Next: Jones in the Fast Lane]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

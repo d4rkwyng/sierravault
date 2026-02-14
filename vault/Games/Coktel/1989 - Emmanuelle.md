@@ -240,8 +240,7 @@ Modern players typically approach the game "more out of historical interest than
 - GOG.com (not listed)
 
 ## See Also
-- [[1989 - ESS - European Space Simulator|← Previous: ESS - European Space Simulator]]
-- [[1989 - Legend of Djel|→ Next: Legend of Djel]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

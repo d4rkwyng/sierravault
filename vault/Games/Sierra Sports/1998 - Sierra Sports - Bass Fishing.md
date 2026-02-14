@@ -139,8 +139,7 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)
 
 ## See Also
-- [[1998 - Grand Prix Legends|← Previous: Grand Prix Legends]]
-- [[1998 - Sierra Sports Skiing 1999 Edition|→ Next: Sierra Sports Skiing 1999 Edition]]
+- [[Dynamix]] - Developer
 
 ## References
 

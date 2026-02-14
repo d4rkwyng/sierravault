@@ -232,8 +232,7 @@ The collaboration between Sierra and Disney established a template for education
 - [Manual Scans - Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual)
 
 ## See Also
-- [[1984 - Donald Duck's Playground|← Previous: Donald Duck's Playground]]
-- [[1984 - Winnie the Pooh in the Hundred Acre Wood|→ Next: Winnie the Pooh in the Hundred Acre Wood]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

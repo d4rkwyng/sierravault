@@ -214,10 +214,7 @@ From a historical perspective, WizType demonstrates how early educational softwa
 - Documentation may be available through Sierra Gamers fan site[^ref-7]
 
 ## See Also
-- **Related Title:** WizMath (1984, Commodore 64 and ColecoVision only)[^ref-6]
-
-- [[1984 - Wizard of Id's WizMath|← Previous: Wizard of Id's WizMath]]
-- [[1992 - Ready, Set, Read with Bananas & Jack|→ Next: Ready, Set, Read with Bananas & Jack]]
+- [[Sydney Development Corp.]] - Developer
 
 ## References
 

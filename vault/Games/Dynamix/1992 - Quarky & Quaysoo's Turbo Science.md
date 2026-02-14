@@ -220,8 +220,7 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
 ## See Also
-- [[1991 - The Adventures of Willy Beamish|← Previous: The Adventures of Willy Beamish]]
-- [[1994 - Bouncers|→ Next: Bouncers]]
+- [[Jeff Tunnell Productions]] - Developer
 
 ## References
 

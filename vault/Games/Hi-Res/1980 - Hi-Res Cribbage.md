@@ -192,8 +192,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 - Original packaging and materials are held in private collections[^ref-6]
 
 ## See Also
-- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|← Previous: Hi-Res Adventure 2 - The Wizard and the Princess]]
-- [[1980 - Hi-Res Football|→ Next: Hi-Res Football]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

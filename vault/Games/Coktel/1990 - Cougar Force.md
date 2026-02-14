@@ -228,8 +228,7 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 - [Atari Legend – Cougar Force](https://www.atarilegend.com/games/cougar-force)
 
 ## See Also
-- [[1989 - Legend of Djel|← Previous: Legend of Djel]]
-- [[1990 - Geisha|→ Next: Geisha]]
+- [[MDO / Coktel Vision]] - Developer
 
 ## References
 

@@ -224,9 +224,7 @@ As a standalone product, *Cluck Yegger* succeeded in what it set out to do: prov
 The macOS version is not compatible with macOS 10.15 Catalina or later versions[^ref-3]. Linux users may experience technical issues with camera displays and movement controls[^ref-19].
 
 ## See Also
-- **Related:** [[2022 - SpaceVenture]]
-- [[2014 - Quest for Infamy|← Previous: Quest for Infamy]]
-- [[2015 - Order of the Thorne - The King's Challenge|→ Next: Order of the Thorne - The King's Challenge]]
+- [[Guys From Andromeda LLC]] - Developer
 
 ## References
 

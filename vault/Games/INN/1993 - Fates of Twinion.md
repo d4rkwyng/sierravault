@@ -207,8 +207,7 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941)[^ref-7]
 
 ## See Also
-- [[1991 - The Shadow of Yserbius|← Previous: The Shadow of Yserbius]]
-- [[1996 - The Realm Online|→ Next: The Realm Online]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

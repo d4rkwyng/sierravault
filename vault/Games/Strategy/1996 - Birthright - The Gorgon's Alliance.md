@@ -120,8 +120,7 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 - [Internet Archive](https://archive.org/details/msdos_Birthright_-_The_Gorgons_Alliance_1996)[^ref-75]
 
 ## See Also
-- [[1995 - High Seas Trader|← Previous: High Seas Trader]]
-- [[1996 - Space Bucks|→ Next: Space Bucks]]
+- [[Synergistic Software]] - Developer
 
 ## References
 

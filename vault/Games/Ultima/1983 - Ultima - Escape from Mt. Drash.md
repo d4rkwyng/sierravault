@@ -196,8 +196,7 @@ The game's historical significance lies not in its gameplay contributions—whic
 - Original documentation is extremely rare due to limited production run
 
 ## See Also
-- **Related:** [[1982 - Ultima II - The Revenge of the Enchantress]]
-- [[1982 - Ultima II - The Revenge of the Enchantress|← Previous: Ultima II - The Revenge of the Enchantress]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

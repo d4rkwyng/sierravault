@@ -311,8 +311,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 - [Grand Prix Legends Manual](https://archive.org/details/Grand_Prix_Legends)[^ref-3]
 
 ## See Also
-- [[1997 - Driver's Education '98|← Previous: Driver's Education '98]]
-- [[1998 - Sierra Sports - Bass Fishing|→ Next: Sierra Sports - Bass Fishing]]
+- [[Papyrus Design Group]] - Developer
 
 ## References
 

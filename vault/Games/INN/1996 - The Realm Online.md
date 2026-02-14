@@ -238,7 +238,7 @@ The game also represents an important cautionary tale about the challenges of de
 - [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) - Comprehensive article[^ref-1]
 
 ## See Also
-- [[1993 - Fates of Twinion|← Previous: Fates of Twinion]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

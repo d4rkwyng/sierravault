@@ -196,7 +196,7 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 - No digital manuals located in research
 
 ## See Also
-- [[1993 - Spelling Jungle|→ Next: Spelling Jungle]]
+- [[Bright Star Technology]] - Developer
 
 ## References
 

@@ -164,8 +164,7 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
 ## See Also
-- [[1990 - Zeliard|← Previous: Zeliard]]
-- [[1993 - Pepper's Adventures in Time|→ Next: Pepper's Adventures in Time]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

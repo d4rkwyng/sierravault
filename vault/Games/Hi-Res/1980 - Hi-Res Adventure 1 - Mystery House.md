@@ -137,8 +137,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 - [IF Archive](https://ifarchive.org/if-archive/games/appleII/mystery.dsk)
 
 ## See Also
-- [[1980 - Hi-Res Adventure 0 - Mission Asteroid|← Previous: Hi-Res Adventure 0 - Mission Asteroid]]
-- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|→ Next: Hi-Res Adventure 2 - The Wizard and the Princess]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

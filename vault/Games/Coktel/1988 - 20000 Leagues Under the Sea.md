@@ -216,7 +216,7 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 - [Steam – 20,000 Leagues Under The Sea: Captain Nemo](https://store.steampowered.com/app/821720/20000_Leagues_Under_The_Sea__Captain_Nemo/) – 2018 hidden object game
 
 ## See Also
-- [[1988 - African Raiders-01|→ Next: African Raiders-01]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

@@ -185,8 +185,7 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
 
 ## See Also
-- [[1985 - Sierra Championship Boxing|← Previous: Sierra Championship Boxing]]
-- [[1985 - The Crimson Crown|→ Next: The Crimson Crown]]
+- [[Nice Ideas]] - Developer
 
 ## References
 

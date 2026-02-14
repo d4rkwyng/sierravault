@@ -224,8 +224,7 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
 
 ## See Also
-- [[1983 - Mr. Cool|← Previous: Mr. Cool]]
-- [[1983 - WallWar|→ Next: WallWar]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

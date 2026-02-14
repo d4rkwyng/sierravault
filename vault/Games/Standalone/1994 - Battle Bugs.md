@@ -266,8 +266,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [Free Game Empire - Manual](https://www.freegameempire.com/games/Battle-Bugs/manual)[^ref-27]
 
 ## See Also
-- ← Previous: The Beverly Hillbillies
-- [[1995 - Air Cavalry|→ Next: Air Cavalry]]
+- [[Epyx, Inc.]] - Developer
 
 ## References
 

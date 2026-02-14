@@ -212,8 +212,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
 ## See Also
-- [[1993 - Lost in Time|← Previous: Lost in Time]]
-- [[1996 - Urban Runner|→ Next: Urban Runner]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

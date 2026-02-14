@@ -194,8 +194,7 @@ The game's creative premise—controlling a spider through cider factory machine
 - [Commodore Games Network](https://www.commodoregames.net/Commodore64/Apple-Cider-Spider-340.html)
 
 ## See Also
-- [[1982 - Pest Patrol|← Previous: Pest Patrol]]
-- [[1983 - Aquatron|→ Next: Aquatron]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

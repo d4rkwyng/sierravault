@@ -204,8 +204,7 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 - [Atari Game Manual](https://archive.org/details/agm_Threshold)
 
 ## See Also
-- [[1981 - Sabotage|← Previous: Sabotage]]
-- [[1982 - Cannonball Blitz|→ Next: Cannonball Blitz]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

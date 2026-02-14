@@ -218,8 +218,7 @@ From a design perspective, the game's innovation of eliminating typing requireme
 - [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
 
 ## See Also
-- [[1984 - Mickey's Space Adventure|← Previous: Mickey's Space Adventure]]
-- [[1986 - The Black Cauldron|→ Next: The Black Cauldron]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

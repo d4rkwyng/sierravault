@@ -229,8 +229,7 @@ The game's historical significance lies in several areas: it demonstrated that R
 - Cloth map included with original retail release[^ref-1]
 
 ## See Also
-- **Related:** [[1983 - Ultima - Escape from Mt. Drash]]
-- [[1983 - Ultima - Escape from Mt. Drash|→ Next: Ultima - Escape from Mt. Drash]]
+- [[Richard Garriott]] - Developer
 
 ## References
 

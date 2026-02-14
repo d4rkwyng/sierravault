@@ -268,8 +268,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 - [Lemon Amiga – Manual](https://www.lemonamiga.com/doc/rise-of-the-dragon/1350)
 
 ## See Also
-- ← Previous: F-14 Tomcat
-- [[1991 - Heart of China|→ Next: Heart of China]]
+- [[Dynamix]] - Developer
 
 ## References
 

@@ -172,7 +172,7 @@ The series is perhaps best remembered for its educational features rather than i
 - Compatibility requires Windows 98 virtual machine setup[^ref-4][^ref-12]
 
 ## See Also
-- [[1998 - Power Chess 98|← Previous: Power Chess 98]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

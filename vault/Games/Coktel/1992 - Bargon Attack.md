@@ -235,8 +235,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Bargon_Attack)
 
 ## See Also
-- [[1991 - Fascination|← Previous: Fascination]]
-- [[1992 - Ween - The Prophecy|→ Next: Ween - The Prophecy]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

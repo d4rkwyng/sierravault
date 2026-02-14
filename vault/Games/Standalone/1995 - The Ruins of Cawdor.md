@@ -206,8 +206,7 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
 
 ## See Also
-- [[1995 - Shannara|← Previous: Shannara]]
-- [[1995 - Torin's Passage|→ Next: Torin's Passage]]
+- [[Ybarra Productions]] - Developer
 
 ## References
 

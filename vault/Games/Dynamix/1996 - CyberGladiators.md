@@ -252,8 +252,7 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/CyberGladiators) – Technical troubleshooting[^ref-6]
 
 ## See Also
-- [[1994 - Sierra Soccer - World Challenge Edition|← Previous: Sierra Soccer - World Challenge Edition]]
-- [[1996 - Hunter Hunted|→ Next: Hunter Hunted]]
+- [[Dynamix, Inc.]] - Developer
 
 ## References
 

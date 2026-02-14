@@ -174,8 +174,7 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 - [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist)[^ref-6]
 
 ## See Also
-- [[1982 - Marauder|← Previous: Marauder]]
-- [[1982 - Pest Patrol|→ Next: Pest Patrol]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

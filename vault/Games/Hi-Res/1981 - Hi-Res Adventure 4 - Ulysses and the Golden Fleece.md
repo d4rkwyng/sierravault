@@ -214,8 +214,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-23].
 
 ## See Also
-- [[1981 - Hi-Res Adventure 3 - Cranston Manor|← Previous: Hi-Res Adventure 3 - Cranston Manor]]
-- [[1982 - Adventure in Serenia|→ Next: Adventure in Serenia]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

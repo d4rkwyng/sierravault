@@ -190,8 +190,7 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
 ## See Also
-- [[1984 - Learning with FuzzyWOMP|← Previous: Learning with FuzzyWOMP]]
-- [[1984 - Wizard of Id's WizType|→ Next: Wizard of Id's WizType]]
+- [[Sydney Development Corp.]] - Developer
 
 ## References
 

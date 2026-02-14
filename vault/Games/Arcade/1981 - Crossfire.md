@@ -217,7 +217,7 @@ The game's influence can be seen in its innovative control scheme and its achiev
 - [Atari Game Manual](https://archive.org/details/agm_crossfire)
 
 ## See Also
-- [[1981 - Frogger|→ Next: Frogger]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

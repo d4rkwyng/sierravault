@@ -184,9 +184,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 - [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2]
 
 ## See Also
-- **Cannonball Blitz (1982)** – Donkey Kong clone by Olaf Lubeck[^ref-1]
-- [[1981 - Frogger|← Previous: Frogger]]
-- [[1981 - Sabotage|→ Next: Sabotage]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

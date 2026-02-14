@@ -231,8 +231,7 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 - [Atari Compendium Manual Archive](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – Original manual PDF[^ref-14]
 
 ## See Also
-- [[1982 - Lunar Leeper|← Previous: Lunar Leeper]]
-- [[1982 - Mouskattack|→ Next: Mouskattack]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

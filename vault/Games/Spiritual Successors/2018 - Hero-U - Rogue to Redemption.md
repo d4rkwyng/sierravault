@@ -244,9 +244,7 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 - [Official Hint Guide (itch.io)](https://transolar-games.itch.io/hero-u-rogue-to-redemption-hint-guide)
 
 ## See Also
-- **Related:** Quest for Glory series (spiritual predecessor)
-- [[2015 - Order of the Thorne - The King's Challenge|← Previous: Order of the Thorne - The King's Challenge]]
-- [[2019 - Mage's Initiation - Reign of the Elements|→ Next: Mage's Initiation - Reign of the Elements]]
+- [[Transolar Games]] - Developer
 
 ## References
 

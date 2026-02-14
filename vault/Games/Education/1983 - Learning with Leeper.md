@@ -201,8 +201,7 @@ The broader significance of educational software like Learning with Leeper was r
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
 
 ## See Also
-- [[1983 - Early Math|← Previous: Early Math]]
-- [[1984 - Learning with FuzzyWOMP|→ Next: Learning with FuzzyWOMP]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

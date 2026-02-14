@@ -233,10 +233,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
 
 ## See Also
-- **Related:** [[1990 - Rise of the Dragon]]
-- **Related:** [[1991 - The Adventures of Willy Beamish]]
-- [[1990 - Rise of the Dragon|← Previous: Rise of the Dragon]]
-- [[1991 - The Adventures of Willy Beamish|→ Next: The Adventures of Willy Beamish]]
+- [[Dynamix]] - Developer
 
 ## References
 

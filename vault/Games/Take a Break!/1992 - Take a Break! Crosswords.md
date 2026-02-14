@@ -181,7 +181,7 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 - Built-in 65-page crossword dictionary included with software[^ref-6]
 
 ## See Also
-- [[1993 - Take a Break! Pinball|→ Next: Take a Break! Pinball]]
+- [[Dynamix]] - Developer
 
 ## References
 

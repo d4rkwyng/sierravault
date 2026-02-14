@@ -220,8 +220,7 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 - [Internet Archive – Manual](https://archive.org/stream/vgmuseum_sierra_dragonskeep-manual/dragonskeep-manual_djvu.txt) – Sierra On-Line manual text
 
 ## See Also
-- [[1982 - Creepy Corridors|← Previous: Creepy Corridors]]
-- [[1982 - Laf Pak|→ Next: Laf Pak]]
+- [[SunnySide Soft]] - Developer
 
 ## References
 

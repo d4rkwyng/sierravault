@@ -242,8 +242,7 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 **Price:** $20.00 USD[^ref-10]
 
 ## See Also
-- **Next:** Ifeyo's Adventure (announced)[^ref-7]
-- [[2023 - Colossal Cave 3D Adventure|← Previous: Colossal Cave 3D Adventure]]
+- [[Transolar Games]] - Developer
 
 ## References
 

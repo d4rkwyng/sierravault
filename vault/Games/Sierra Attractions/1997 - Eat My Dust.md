@@ -119,8 +119,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
 ## See Also
-- **Previous:** N/A
-- [[1998 - Head Rush|→ Next: Head Rush]]
+- [[Funnybone Interactive]] - Developer
 
 ## References
 

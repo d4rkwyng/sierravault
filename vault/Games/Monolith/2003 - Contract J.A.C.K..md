@@ -303,8 +303,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
 ## See Also
-- **Next:** None (final entry in series)
-- [[2002 - No One Lives Forever 2|← Previous: No One Lives Forever 2]]
+- [[Monolith Productions]] - Developer
 
 ## References
 

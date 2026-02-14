@@ -183,8 +183,7 @@ This article focuses specifically on the 1993 Impressions Games title.
 - [Game Manual – Games Database](https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga//Manual/formated/Global_Domination_-_1993_-_Impressions_Games.htm)
 
 ## See Also
-- [[1991 - V for Victory - D-Day Utah Beach|← Previous: V for Victory - D-Day Utah Beach]]
-- [[1994 - Alien Legacy|→ Next: Alien Legacy]]
+- [[Impressions Games]] - Developer
 
 ## References
 

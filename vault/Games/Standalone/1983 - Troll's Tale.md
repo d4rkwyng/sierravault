@@ -137,8 +137,7 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Complete download package[^ref-10]
 
 ## See Also
-- [[1981 - Softporn Adventure|← Previous: Softporn Adventure]]
-- [[1985 - Sierra Championship Boxing|→ Next: Sierra Championship Boxing]]
+- [[Al Lowe]] - Developer
 
 ## References
 

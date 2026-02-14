@@ -98,8 +98,7 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 - [Play Classic Games - Browser Version](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/)[^ref-14]
 
 ## See Also
-- [[1993 - Pepper's Adventures in Time|← Previous: Pepper's Adventures in Time]]
-- → Next: The Beverly Hillbillies
+- [[Sierra On-Line, Inc.]] - Developer
 
 ## References
 

@@ -230,11 +230,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - [Lemon64](https://www.lemon64.com/game/donald-ducks-playground)
 
 ## See Also
-- **Donald's Alphabet Chase** (1988)
-- **DuckTales** (series)
-- **Maui Mallard in Cold Shadow** (1996)
-- **Donald Duck: Goin' Quackers** (2000)
-- [[1984 - Mickey's Space Adventure|→ Next: Mickey's Space Adventure]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

@@ -227,8 +227,7 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 - Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/)[^ref-15]
 
 ## See Also
-- **Related:** North-Sea Action (1988) (Clone/variant)
-- [[1983 - Oils Well|← Previous: Oils Well]]
+- [[Banana Development, Inc.]] - Developer
 
 ## References
 

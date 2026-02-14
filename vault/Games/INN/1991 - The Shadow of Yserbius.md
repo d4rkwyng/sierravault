@@ -175,7 +175,7 @@ Several bugs and design issues were documented during the game's lifespan:
 - [MedievaLands](https://www.medievalands.com/) - Fan remake with multiplayer support
 
 ## See Also
-- [[1993 - Fates of Twinion|→ Next: Fates of Twinion]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

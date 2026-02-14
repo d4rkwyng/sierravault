@@ -242,8 +242,7 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
 
 ## See Also
-- [[1985 - The Crimson Crown|← Previous: The Crimson Crown]]
-- [[1986 - Wrath of Denethenor|→ Next: Wrath of Denethenor]]
+- [[Andromeda Software]] - Developer
 
 ## References
 

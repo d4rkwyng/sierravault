@@ -215,7 +215,7 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 - [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough and technical support[^ref-15]
 
 ## See Also
-- [[1995 - The Last Dynasty|← Previous: The Last Dynasty]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

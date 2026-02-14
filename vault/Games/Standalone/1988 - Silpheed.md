@@ -255,8 +255,7 @@ The game's influence extended beyond its immediate commercial success. The tilte
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
 
 ## See Also
-- ← Previous: Laser Surgeon - The Microscopic Mission
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|→ Next: Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[Game Arts]] - Developer
 
 ## References
 

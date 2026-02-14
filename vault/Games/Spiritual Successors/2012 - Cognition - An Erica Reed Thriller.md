@@ -201,9 +201,7 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - Official Soundtrack available via Phoenix Online Store[^ref-25]
 
 ## See Also
-- **Spiritual Predecessor:** [[1993 - Gabriel Knight - Sins of the Fathers]] (Jane Jensen connection)
-- [[2010 - Gray Matter|← Previous: Gray Matter]]
-- [[2013 - Fester Mudd - Curse of the Gold|→ Next: Fester Mudd - Curse of the Gold]]
+- [[Phoenix Online Studios]] - Developer
 
 ## References
 

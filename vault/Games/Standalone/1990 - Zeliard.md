@@ -248,8 +248,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
 
 ## See Also
-- [[1990 - Jones in the Fast Lane|← Previous: Jones in the Fast Lane]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist|→ Next: Freddy Pharkas - Frontier Pharmacist]]
+- [[Game Arts Co., Ltd.]] - Developer
 
 ## References
 

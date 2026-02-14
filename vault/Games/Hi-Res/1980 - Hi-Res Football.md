@@ -202,9 +202,7 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 - [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
 
 ## See Also
-- **Related:** [[1980 - Hi-Res Soccer]] (Companion sports title)
-- [[1980 - Hi-Res Cribbage|← Previous: Hi-Res Cribbage]]
-- [[1980 - Hi-Res Soccer|→ Next: Hi-Res Soccer]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

@@ -201,8 +201,7 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1517) – Amiga version details and reviews
 
 ## See Also
-- [[1988 - 20000 Leagues Under the Sea|← Previous: 20000 Leagues Under the Sea]]
-- [[1989 - Asterix - Operation Getafix|→ Next: Asterix - Operation Getafix]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

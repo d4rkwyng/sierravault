@@ -260,8 +260,7 @@ Critically, the game's insistence on maintaining combat mechanics that many foun
 The game has a small but dedicated speedrunning community. The current Any% world record for Water Mage is 41 minutes 17 seconds, held by davidtki[^ref-33]. Earth Mage Any% record stands at 54 minutes 49 seconds by legostevey[^ref-33]. The runner notes that "sub-40 might be possible but it's going to be a heck of a lot of effort away"[^ref-33].
 
 ## See Also
-- [[2018 - Hero-U - Rogue to Redemption|← Previous: Hero-U - Rogue to Redemption]]
-- [[2022 - SpaceVenture|→ Next: SpaceVenture]]
+- [[Himalaya Studios]] - Developer
 
 ## References
 

@@ -178,10 +178,7 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 - [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demonstration version[^ref-8]
 
 ## See Also
-- **Previous (Official Series):** [[1998 - King's Quest - Mask of Eternity]]
-- **Related Fan Games:** King's Quest II: Romancing the Stones (AGD Interactive), King's Quest III Redux (AGD Interactive)[^ref-3]
-- [[2008 - Quest for Glory II VGA Remake|← Previous: Quest for Glory II VGA Remake]]
-- [[2011 - King's Quest III Redux - To Heir is Human|→ Next: King's Quest III Redux - To Heir is Human]]
+- [[Phoenix Online Studios]] - Developer
 
 ## References
 

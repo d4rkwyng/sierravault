@@ -113,8 +113,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 - [Internet Archive](https://archive.org/details/msdos_High_Seas_Trader_1995)
 
 ## See Also
-- [[1994 - Alien Legacy|← Previous: Alien Legacy]]
-- [[1996 - Birthright - The Gorgon's Alliance|→ Next: Birthright - The Gorgon's Alliance]]
+- [[Impressions Games]] - Developer
 
 ## References
 

@@ -118,8 +118,7 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 - [RetroGames.cz](https://www.retrogames.cz/play_1146-DOS.php)[^ref-20]
 
 ## See Also
-- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|← Previous: Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
-- [[1982 - Hi-Res Adventure 5 - Time Zone|→ Next: Hi-Res Adventure 5 - Time Zone]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

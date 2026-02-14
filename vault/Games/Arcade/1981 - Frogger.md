@@ -264,8 +264,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 - [Free Game Empire - Windows 95 Manual](https://www.freegameempire.com/games/Frogger/manual)
 
 ## See Also
-- [[1981 - Crossfire|← Previous: Crossfire]]
-- [[1981 - Gobbler|→ Next: Gobbler]]
+- [[Konami]] - Developer
 
 ## References
 

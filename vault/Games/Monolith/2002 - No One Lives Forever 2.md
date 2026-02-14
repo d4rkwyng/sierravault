@@ -321,8 +321,7 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) - Level editor and source code[^ref-45]
 
 ## See Also
-- [[2000 - No One Lives Forever|← Previous: No One Lives Forever]]
-- [[2003 - Contract J.A.C.K.|→ Next: Contract J.A.C.K.]]
+- [[Monolith Productions]] - Developer
 
 ## References
 

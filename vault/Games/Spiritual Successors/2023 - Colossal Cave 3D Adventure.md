@@ -247,8 +247,7 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 - [Official Press Kit](https://colossalcave3d.com/press/)
 
 ## See Also
-- [[2022 - SpaceVenture|← Previous: SpaceVenture]]
-- [[2023 - Summer Daze - Tilly's Tale|→ Next: Summer Daze - Tilly's Tale]]
+- [[Cygnus Entertainment]] - Developer
 
 ## References
 

@@ -221,7 +221,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 - [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-34]
 
 ## See Also
-- [[1983 - Troll's Tale|→ Next: Troll's Tale]]
+- [[Blue Sky Software]] - Developer
 
 ## References
 

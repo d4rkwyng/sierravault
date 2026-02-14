@@ -217,10 +217,7 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 - Playable through ScummVM using the Gob engine[^ref-20]
 
 ## See Also
-- **Spiritual Predecessor:** Legend of Djel (1989)
-- **Related Series:** Gobliiins (1991-1993)
-- [[1992 - Bargon Attack|← Previous: Bargon Attack]]
-- [[1993 - Lost in Time|→ Next: Lost in Time]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

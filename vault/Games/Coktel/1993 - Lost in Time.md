@@ -244,8 +244,7 @@ The game also holds historical significance as one of the earlier adventure game
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
 ## See Also
-- [[1992 - Ween - The Prophecy|← Previous: Ween - The Prophecy]]
-- [[1995 - The Last Dynasty|→ Next: The Last Dynasty]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

@@ -227,8 +227,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 - [Sega Retro - Manual Scan](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf)[^ref-13]
 
 ## See Also
-- [[1992 - Quarky & Quaysoo's Turbo Science|← Previous: Quarky & Quaysoo's Turbo Science]]
-- [[1994 - Sierra Soccer - World Challenge Edition|→ Next: Sierra Soccer - World Challenge Edition]]
+- [[Dynamix]] - Developer
 
 ## References
 

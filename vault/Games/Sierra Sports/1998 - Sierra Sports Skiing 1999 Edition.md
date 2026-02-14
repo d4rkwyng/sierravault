@@ -190,8 +190,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 - No digital manual copies currently documented
 
 ## See Also
-- [[1998 - Sierra Sports - Bass Fishing|← Previous: Sierra Sports - Bass Fishing]]
-- [[1999 - Professional Bull Rider|→ Next: Professional Bull Rider]]
+- [[Dynamix]] - Developer
 
 ## References
 

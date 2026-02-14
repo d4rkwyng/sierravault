@@ -201,8 +201,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 - [The Cutting Room Floor](https://tcrf.net/Cannonball_Blitz) - Hidden content documentation
 
 ## See Also
-- [[1981 - Threshold|← Previous: Threshold]]
-- [[1982 - Creepy Corridors|→ Next: Creepy Corridors]]
+- [[On-Line Systems (Sierra On-Line)]] - Developer
 
 ## References
 

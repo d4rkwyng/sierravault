@@ -210,7 +210,7 @@ The performance issues that plagued the game highlighted the challenges develope
 - [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – Official patches including KQUEST.DLL and DIB.DRV fixes[^ref-8]
 
 ## See Also
-- [[1992 - Take a Break! Crosswords|← Previous: Take a Break! Crosswords]]
+- [[Dynamix, Inc.]] - Developer
 
 ## References
 

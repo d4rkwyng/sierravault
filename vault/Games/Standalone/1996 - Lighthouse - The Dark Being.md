@@ -135,8 +135,7 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
 ## See Also
-- [[1995 - Torin's Passage|← Previous: Torin's Passage]]
-- [[1996 - Stay Tooned!|→ Next: Stay Tooned!]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

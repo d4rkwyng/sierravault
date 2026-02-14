@@ -125,8 +125,7 @@ The series' legacy lies in its contribution to the football management genre dur
 - [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
 
 ## See Also
-- [[1995 - Ultimate Soccer Manager|← Previous: Ultimate Soccer Manager]]
-- [[1998 - Ultimate Soccer Manager 98|→ Next: Ultimate Soccer Manager 98]]
+- [[Impression Games]] - Developer
 
 ## References
 

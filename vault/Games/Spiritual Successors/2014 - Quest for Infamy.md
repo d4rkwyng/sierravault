@@ -107,10 +107,7 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 - Not available on preservation sites (commercial release)
 
 ## See Also
-- **Prequel:** [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] (In Development)
-- **Sequel:** None announced
-- [[2014 - Moebius - Empire Rising|← Previous: Moebius - Empire Rising]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|→ Next: Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[Infamous Quests]] - Developer
 
 ## References
 

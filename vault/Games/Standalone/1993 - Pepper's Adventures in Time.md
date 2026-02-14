@@ -146,8 +146,7 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
 ## See Also
-- [[1993 - Freddy Pharkas - Frontier Pharmacist|← Previous: Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Slater & Charlie Go Camping|→ Next: Slater & Charlie Go Camping]]
+- [[Brightstar]] - Developer
 
 ## References
 

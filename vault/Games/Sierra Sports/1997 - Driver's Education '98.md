@@ -274,7 +274,7 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 **Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
 
 ## See Also
-- [[1998 - Grand Prix Legends|→ Next: Grand Prix Legends]]
+- [[Dynamix, Inc.]] - Developer
 
 ## References
 

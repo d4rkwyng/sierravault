@@ -224,7 +224,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 - Original game manual required for copy protection[^ref-11]
 
 ## See Also
-- [[2012 - Space Quest - Incinerations|← Previous: Space Quest - Incinerations]]
+- [[DrSlash]] - Developer
 
 ## References
 

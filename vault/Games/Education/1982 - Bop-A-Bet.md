@@ -184,8 +184,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 - Original documentation included with Sunnyside Soft zip-lock packaging
 
 ## See Also
-- [[1982 - Alphabet Blocks|← Previous: Alphabet Blocks]]
-- [[1983 - Early Math|→ Next: Early Math]]
+- [[Sunnyside Soft]] - Developer
 
 ## References
 

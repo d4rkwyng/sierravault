@@ -195,8 +195,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 - [Lemon Amiga Manual Documentation](https://www.lemonamiga.com/games/docs.php?id=114)
 
 ## See Also
-- [[1988 - African Raiders-01|← Previous: African Raiders-01]]
-- [[1989 - ESS - European Space Simulator|→ Next: ESS - European Space Simulator]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

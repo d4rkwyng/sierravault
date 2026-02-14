@@ -215,8 +215,7 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 - Amazon third-party sellers[^ref-13]
 
 ## See Also
-- [[1994 - Battle Bugs|← Previous: Battle Bugs]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare|→ Next: Fast Attack - High Tech Submarine Warfare]]
+- [[Synergistic Software]] - Developer
 
 ## References
 

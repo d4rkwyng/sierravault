@@ -200,11 +200,7 @@ The continued support for the project, with updates still being released as rece
 The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
 ## See Also
-- **Original Game:** Space Quest II: Vohaul's Revenge (1987)
-- **Previous in Series:** Space Quest: The Sarien Encounter (1986)
-- **Next in Series:** Space Quest III: The Pirates of Pestulon (1989)
-- [[2011 - Space Quest - Vohaul Strikes Back|← Previous: Space Quest - Vohaul Strikes Back]]
-- [[2012 - Space Quest - Incinerations|→ Next: Space Quest - Incinerations]]
+- [[Infamous Adventures]] - Developer
 
 ## References
 

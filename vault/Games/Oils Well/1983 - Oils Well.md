@@ -225,7 +225,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 - [Oil's Well MT-32 Soundtrack – Bandcamp](https://xeenmusic.bandcamp.com/album/oils-well-soundtrack-mt-32)
 
 ## See Also
-- [[1990 - Oils Well|→ Next: Oils Well]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

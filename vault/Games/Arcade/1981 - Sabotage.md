@@ -211,8 +211,7 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 - [6502 Disassembly – Sabotage](https://6502disassembly.com/a2-sabotage/) – Full technical disassembly by Andy McFadden[^ref-1]
 
 ## See Also
-- [[1981 - Gobbler|← Previous: Gobbler]]
-- [[1981 - Threshold|→ Next: Threshold]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

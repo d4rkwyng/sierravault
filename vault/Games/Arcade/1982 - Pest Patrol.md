@@ -224,8 +224,7 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 - [4cade Apple II Launcher](https://github.com/a2-4am/4cade) - Preservation project including Pest Patrol[^ref-12]
 
 ## See Also
-- [[1982 - Mouskattack|← Previous: Mouskattack]]
-- [[1983 - Apple Cider Spider|→ Next: Apple Cider Spider]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

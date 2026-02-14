@@ -322,8 +322,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 - [Map PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (253 KB)
 
 ## See Also
-- [[1997 - Diablo - Hellfire|← Previous: Diablo - Hellfire]]
-- [[2007 - World in Conflict|→ Next: World in Conflict]]
+- [[Troika Games]] - Developer
 
 ## References
 

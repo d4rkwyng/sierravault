@@ -215,8 +215,7 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
 ## See Also
-- [[1988 - Silpheed|← Previous: Silpheed]]
-- [[1990 - Codename - Iceman|→ Next: Codename - Iceman]]
+- [[Sphere, Inc.]] - Developer
 
 ## References
 

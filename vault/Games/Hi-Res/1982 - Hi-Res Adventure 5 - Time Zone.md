@@ -197,8 +197,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 - [Manual (Archive.org)](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt)[^ref-14]
 
 ## See Also
-- [[1982 - Adventure in Serenia|← Previous: Adventure in Serenia]]
-- [[1983 - Hi-Res Adventure 6 - The Dark Crystal|→ Next: Hi-Res Adventure 6 - The Dark Crystal]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

@@ -182,8 +182,7 @@ The game's influence extended beyond its immediate series. The similar World at 
 - [PlayClassicGames](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) - Browser playable
 
 ## See Also
-- [[1991 - The Charge of the Light Brigade|← Previous: The Charge of the Light Brigade]]
-- [[1993 - Global Domination|→ Next: Global Domination]]
+- [[Atomic Games, Inc.]] - Developer
 
 ## References
 

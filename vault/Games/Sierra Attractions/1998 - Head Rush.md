@@ -205,8 +205,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=demos) - 10.4 MB demo download
 
 ## See Also
-- **Next:** You Don't Know Jack: Volume 5 (1999)
-- [[1997 - Eat My Dust|← Previous: Eat My Dust]]
+- [[Berkeley Systems, Jellyvision]] - Developer
 
 ## References
 

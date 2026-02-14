@@ -243,10 +243,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [PCGamingWiki – Fascination](https://www.pcgamingwiki.com/wiki/Fascination)[^ref-28]
 
 ## See Also
-- **Previous (Mature Line):** *Geisha* (1990)
-- **Related:** [[1993 - Lost in Time]] (features Doralice)
-- [[1991 - E.S.S. Mega|← Previous: E.S.S. Mega]]
-- [[1992 - Bargon Attack|→ Next: Bargon Attack]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

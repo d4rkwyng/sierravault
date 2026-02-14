@@ -189,8 +189,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 - No digital manual currently archived in available sources
 
 ## See Also
-- [[1984 - Wizard of Id's WizType|← Previous: Wizard of Id's WizType]]
-- [[1993 - Kids' Typing|→ Next: Kids' Typing]]
+- [[Bright Star Technology]] - Developer
 
 ## References
 

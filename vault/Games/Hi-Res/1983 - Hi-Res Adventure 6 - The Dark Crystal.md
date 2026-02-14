@@ -147,8 +147,7 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 - [RetroAchievements Support](https://retroachievements.org/game/18957)[^ref-27]
 
 ## See Also
-- [[1982 - Hi-Res Adventure 5 - Time Zone|← Previous: Hi-Res Adventure 5 - Time Zone]]
-- [[1984 - Gelfling Adventure|→ Next: Gelfling Adventure]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

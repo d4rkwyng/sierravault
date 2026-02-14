@@ -217,8 +217,7 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 - [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
 
 ## See Also
-- [[1995 - Air Cavalry|← Previous: Air Cavalry]]
-- [[1995 - Shannara|→ Next: Shannara]]
+- [[Software Sorcery]] - Developer
 
 ## References
 

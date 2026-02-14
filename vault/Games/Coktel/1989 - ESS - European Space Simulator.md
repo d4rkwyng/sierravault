@@ -234,8 +234,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 - [Atari Legend](https://www.atarilegend.com/games/ess-european-space-simulator)
 
 ## See Also
-- [[1989 - Asterix - Operation Getafix|← Previous: Asterix - Operation Getafix]]
-- [[1989 - Emmanuelle|→ Next: Emmanuelle]]
+- [[Coktel Vision]] - Developer
 
 ## References
 

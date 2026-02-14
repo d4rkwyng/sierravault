@@ -204,8 +204,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
 ## See Also
-- [[1982 - Bop-A-Bet|← Previous: Bop-A-Bet]]
-- [[1983 - Learning with Leeper|→ Next: Learning with Leeper]]
+- [[Bright Star Technology, Inc.]] - Developer
 
 ## References
 

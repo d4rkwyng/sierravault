@@ -222,8 +222,7 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
 ## See Also
-- [[1983 - Troll's Tale|← Previous: Troll's Tale]]
-- [[1985 - Stunt Flyer|→ Next: Stunt Flyer]]
+- [[Evryware]] - Developer
 
 ## References
 

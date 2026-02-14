@@ -148,8 +148,7 @@ The team has continued supporting the game post-release, with v2 updates in late
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
 ## See Also
-- [[2019 - Mage's Initiation - Reign of the Elements|← Previous: Mage's Initiation - Reign of the Elements]]
-- [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
+- [[Guys from Andromeda]] - Developer
 
 ## References
 

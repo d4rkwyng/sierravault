@@ -215,8 +215,7 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 - No manuals currently available for this program[^ref-10]
 
 ## See Also
-- [[1983 - Apple Cider Spider|← Previous: Apple Cider Spider]]
-- [[1983 - Mine Shaft|→ Next: Mine Shaft]]
+- [[Justin Gray]] - Developer
 
 ## References
 

@@ -183,10 +183,7 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 - Refer to original Sierra documentation for gameplay reference
 
 ## See Also
-- **Previous (Original Series):** [[1985 - King's Quest II - Romancing the Throne]]
-- **Next (Original Series):** [[1988 - King's Quest IV - The Perils of Rosella]]
-- [[2003 - Space Quest 0 - Replicated|← Previous: Space Quest 0 - Replicated]]
-- [[2008 - Quest for Glory II VGA Remake|→ Next: Quest for Glory II VGA Remake]]
+- [[Infamous Adventures]] - Developer
 
 ## References
 

@@ -224,8 +224,7 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - Google Play (Android)
 
 ## See Also
-- [[2012 - Cognition - An Erica Reed Thriller|← Previous: Cognition - An Erica Reed Thriller]]
-- [[2014 - Moebius - Empire Rising|→ Next: Moebius - Empire Rising]]
+- [[Prank Ltd.]] - Developer
 
 ## References
 

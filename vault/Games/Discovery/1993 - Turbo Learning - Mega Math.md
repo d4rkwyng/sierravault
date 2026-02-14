@@ -199,8 +199,7 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
 ## See Also
-- [[1993 - Spelling Jungle|← Previous: Spelling Jungle]]
-- [[1994 - Spelling Blizzard|→ Next: Spelling Blizzard]]
+- [[Jeff Tunnell Productions]] - Developer
 
 ## References
 

@@ -222,8 +222,7 @@ However, the Leeper character's transition to educational gaming through *Learni
 - [C64Online - Browser Playable](https://c64online.com/c64-games/lunar-leeper/)[^ref-14]
 
 ## See Also
-- [[1982 - Laf Pak|← Previous: Laf Pak]]
-- [[1982 - Marauder|→ Next: Marauder]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

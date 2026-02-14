@@ -207,9 +207,7 @@ The game also represents an important artifact of early 2000s fan game developme
 - [Jess Morrissette's Space Quest 0 Page](https://www.wiw.org/~jess/replicated.html) - Includes v1.04 download[^ref-15]
 
 ## See Also
-- **Next (Official Series):** [[1986 - Space Quest - The Sarien Encounter]]
-- [[2002 - King's Quest II+ - Romancing the Stones|← Previous: King's Quest II+ - Romancing the Stones]]
-- [[2006 - King's Quest III Remake (Infamous Adventures)|→ Next: King's Quest III Remake (Infamous Adventures)]]
+- [[Jeff Stewart]] - Developer
 
 ## References
 

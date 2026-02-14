@@ -144,8 +144,7 @@ The game's satirical take on the American Dream resonates differently in differe
 - [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos)
 
 ## See Also
-- [[1990 - Codename - Iceman|← Previous: Codename - Iceman]]
-- [[1990 - Zeliard|→ Next: Zeliard]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

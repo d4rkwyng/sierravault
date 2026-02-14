@@ -177,8 +177,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
 ## See Also
-- [[1980 - Hi-Res Soccer|← Previous: Hi-Res Soccer]]
-- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|→ Next: Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+- [[On-Line Systems]] - Developer
 
 ## References
 

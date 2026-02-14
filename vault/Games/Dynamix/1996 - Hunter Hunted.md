@@ -214,9 +214,7 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – Complete game guide
 
 ## See Also
-- **Related:** Metaltech: Earthsiege series (shared universe)
-- [[1996 - CyberGladiators|← Previous: CyberGladiators]]
-- [[1996 - Rama|→ Next: Rama]]
+- [[Dynamix]] - Developer
 
 ## References
 

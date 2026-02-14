@@ -250,8 +250,7 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - **All Playstyles Average:** 16.5 hours
 
 ## See Also
-- [[1996 - Stay Tooned!|← Previous: Stay Tooned!]]
-- [[2001 - Arcanum|→ Next: Arcanum]]
+- [[Synergistic Software]] - Developer
 
 ## References
 

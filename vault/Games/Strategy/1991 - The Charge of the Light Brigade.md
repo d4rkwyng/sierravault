@@ -200,10 +200,7 @@ Impressions Games would find greater success with their subsequent city-building
 - [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
 
 ## See Also
-- **Related:** Cohort (1991) – Roman warfare simulation using the same engine
-
-- [[1987 - The Ancient Art of War at Sea|← Previous: The Ancient Art of War at Sea]]
-- [[1991 - V for Victory - D-Day Utah Beach|→ Next: V for Victory - D-Day Utah Beach]]
+- [[Impressions Games]] - Developer
 
 ## References
 

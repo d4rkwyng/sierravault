@@ -291,8 +291,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [Hint Book – Internet Archive](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991)
 
 ## See Also
-- [[1991 - Heart of China|← Previous: Heart of China]]
-- [[1992 - Quarky & Quaysoo's Turbo Science|→ Next: Quarky & Quaysoo's Turbo Science]]
+- [[Dynamix]] - Developer
 
 ## References
 

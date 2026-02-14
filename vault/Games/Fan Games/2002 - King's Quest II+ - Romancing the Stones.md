@@ -194,8 +194,7 @@ The remake's significance extends beyond its individual merits to represent a br
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## See Also
-- [[2001 - Space Quest - The Lost Chapter|← Previous: Space Quest - The Lost Chapter]]
-- [[2003 - Space Quest 0 - Replicated|→ Next: Space Quest 0 - Replicated]]
+- [[AGD Interactive]] - Developer
 
 ## References
 

@@ -173,8 +173,7 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [Classic Reload](https://classicreload.com/win3x-space-bucks.html) - Browser playable version
 
 ## See Also
-- [[1996 - Birthright - The Gorgon's Alliance|← Previous: Birthright - The Gorgon's Alliance]]
-- [[1996 - The Rise & Rule of Ancient Empires|→ Next: The Rise & Rule of Ancient Empires]]
+- [[Impressions Games]] - Developer
 
 ## References
 

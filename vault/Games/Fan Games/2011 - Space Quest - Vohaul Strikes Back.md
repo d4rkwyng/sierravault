@@ -283,8 +283,7 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 - **Next:** Space Quest: Incinerations (2012)
 
 ## See Also
-- [[2011 - King's Quest III Redux - To Heir is Human|← Previous: King's Quest III Redux - To Heir is Human]]
-- [[2011 - Space Quest II VGA Remake|→ Next: Space Quest II VGA Remake]]
+- [[Team VSB]] - Developer
 
 ## References
 

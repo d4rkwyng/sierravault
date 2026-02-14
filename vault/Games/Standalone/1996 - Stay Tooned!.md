@@ -185,8 +185,7 @@ The title has developed a cult following among players who experienced it during
 - Physical copies included two pairs of 3D glasses for stereoscopic mini-games[^ref-4]
 
 ## See Also
-- [[1996 - Lighthouse - The Dark Being|← Previous: Lighthouse - The Dark Being]]
-- [[1997 - Diablo - Hellfire|→ Next: Diablo - Hellfire]]
+- [[Funnybone Interactive]] - Developer
 
 ## References
 

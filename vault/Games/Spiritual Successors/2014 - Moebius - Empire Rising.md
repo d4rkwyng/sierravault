@@ -134,8 +134,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
 ## See Also
-- [[2013 - Fester Mudd - Curse of the Gold|← Previous: Fester Mudd - Curse of the Gold]]
-- [[2014 - Quest for Infamy|→ Next: Quest for Infamy]]
+- [[Pinkerton Road Studios]] - Developer
 
 ## References
 

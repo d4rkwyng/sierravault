@@ -228,10 +228,7 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Walkthrough King](https://www.walkthroughking.com/text/spacequestlostchapter.aspx)
 
 ## See Also
-- **Previous (Official):** [[1987 - Space Quest II - Vohaul's Revenge]]
-- **Next (Official):** [[1989 - Space Quest III - The Pirates of Pestulon]]
-- [[2001 - King's Quest I VGA Remake|← Previous: King's Quest I VGA Remake]]
-- [[2002 - King's Quest II+ - Romancing the Stones|→ Next: King's Quest II+ - Romancing the Stones]]
+- [[Vonster Vision]] - Developer
 
 ## References
 

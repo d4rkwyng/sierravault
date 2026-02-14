@@ -116,7 +116,7 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 - Various abandonware sites (compatibility issues noted)
 
 ## See Also
-- [[1998 - Power Chess 98|→ Next: Power Chess 98]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

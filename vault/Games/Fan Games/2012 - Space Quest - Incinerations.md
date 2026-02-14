@@ -247,8 +247,7 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 - **Next:** N/A
 
 ## See Also
-- [[2011 - Space Quest II VGA Remake|← Previous: Space Quest II VGA Remake]]
-- [[2021 - King's Quest IV Retold|→ Next: King's Quest IV Retold]]
+- [[Box of Mystery]] - Developer
 
 ## References
 

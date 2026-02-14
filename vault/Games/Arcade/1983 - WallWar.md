@@ -201,7 +201,7 @@ The development story behind Wallwar is perhaps more significant than the game i
 - No digital manual currently available
 
 ## See Also
-- [[1983 - Sammy Lightfoot|← Previous: Sammy Lightfoot]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

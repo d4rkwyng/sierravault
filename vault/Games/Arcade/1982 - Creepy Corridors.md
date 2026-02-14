@@ -219,9 +219,7 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 - Box scans available at [The Sierra Chest](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box)[^ref-9]
 
 ## See Also
-- **Related:** [[1982 - Laf Pak]] (compilation including Creepy Corridors)
-- [[1982 - Cannonball Blitz|← Previous: Cannonball Blitz]]
-- [[1982 - Dragon's Keep|→ Next: Dragon's Keep]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 

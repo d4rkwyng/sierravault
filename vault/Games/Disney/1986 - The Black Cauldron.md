@@ -111,8 +111,7 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
 ## See Also
-- **Next:** None (standalone game)
-- [[1984 - Winnie the Pooh in the Hundred Acre Wood|← Previous: Winnie the Pooh in the Hundred Acre Wood]]
+- [[Sierra On-Line]] - Developer
 
 ## References
 
