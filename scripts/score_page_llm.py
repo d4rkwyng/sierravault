@@ -6,12 +6,18 @@ Uses both Claude and ChatGPT to score and provide feedback on generated wiki pag
 Provides dual-model validation for higher confidence scoring.
 
 Usage:
-    python3 score_page_llm.py page.md
+    python3 score_page_llm.py page.md                 # Smart mode (default): local-first, cloud if borderline
+    python3 score_page_llm.py page.md --model local   # Local Ollama only (FREE)
     python3 score_page_llm.py page.md --model claude  # Claude only
     python3 score_page_llm.py page.md --model gpt     # ChatGPT only
-    python3 score_page_llm.py page.md --model local   # Local Ollama only (FREE)
-    python3 score_page_llm.py page.md --model both    # Claude + GPT (default)
+    python3 score_page_llm.py page.md --model both    # Claude + GPT
     python3 score_page_llm.py page.md --model all     # Claude + GPT + Local
+
+Smart Mode (default):
+    - Runs local model first (llama3.3:70b on Mac Studio - FREE)
+    - If score >= 90: PASS, skip cloud validation (saves ~$0.01/page)
+    - If score 75-89: Validates with GPT-4o-mini (cheap cloud backup)
+    - If score < 75: Reports as FAIL (no cloud needed)
     python3 score_page_llm.py /tmp/*.md               # Multiple files
     python3 score_page_llm.py page.md --sections      # Show section-by-section scoring
     python3 score_page_llm.py page.md --feedback "Reception section IS present at line 60"
@@ -756,8 +762,8 @@ def score_page(filepath: str, models: List[str] = ['claude', 'gpt'],
 def main():
     parser = argparse.ArgumentParser(description="LLM-based wiki page quality scorer")
     parser.add_argument("files", nargs='+', help="Markdown files to score")
-    parser.add_argument("--model", choices=['claude', 'gpt', 'local', 'both', 'all'], default='both',
-                        help="Which model(s) to use: claude, gpt, local (Ollama), both (claude+gpt), all (claude+gpt+local)")
+    parser.add_argument("--model", choices=['claude', 'gpt', 'local', 'both', 'all', 'smart'], default='smart',
+                        help="Which model(s) to use: smart (local-first, cloud if borderline - DEFAULT), local (Ollama only), claude, gpt, both (claude+gpt), all (claude+gpt+local)")
     parser.add_argument("--local-model", type=str, default=None,
                         help=f"Ollama model to use (default: {DEFAULT_LOCAL_MODEL}). Options: llama3.3:70b, qwen2.5:72b, deepseek-r1:70b")
     parser.add_argument("-v", "--verbose", action="store_true",
@@ -779,10 +785,13 @@ def main():
     args = parser.parse_args()
 
     # Determine which models to use
+    smart_mode = args.model == 'smart'
     if args.model == 'both':
         models = ['claude', 'gpt']
     elif args.model == 'all':
         models = ['claude', 'gpt', 'local']
+    elif args.model == 'smart':
+        models = ['local']  # Start with local, may add cloud later
     else:
         models = [args.model]
 
@@ -855,6 +864,30 @@ def main():
         print(f"\nScoring {filepath}...", file=sys.stderr)
         results = score_page(filepath, models, args.feedback, args.research,
                              claude_use_api=not args.claude_code, local_model=args.local_model)
+        
+        # Smart mode: escalate to cloud if local score is borderline (75-90)
+        if smart_mode and results.get('local'):
+            local_score = results['local'].get('score', 0)
+            if 75 <= local_score < 90:
+                print(f"  Smart mode: Local score {local_score} is borderline, validating with cloud...", file=sys.stderr)
+                # Run cloud validation
+                with open(filepath) as f:
+                    content = f.read()
+                research_summary = load_research_facts(args.research) if args.research else None
+                stored_feedback = load_feedback(filepath)
+                combined_feedback = args.feedback
+                if stored_feedback:
+                    combined_feedback = stored_feedback + '\n\n' + args.feedback if args.feedback else stored_feedback
+                
+                # Use GPT-4o-mini for cost-effective cloud validation
+                results['gpt'] = score_with_gpt(content, model="gpt-4o-mini", feedback=combined_feedback, research_summary=research_summary)
+                if results['gpt']:
+                    print(f"  Cloud validation: GPT-4o-mini scored {results['gpt'].get('score', '?')}", file=sys.stderr)
+            elif local_score >= 90:
+                print(f"  Smart mode: Local score {local_score} is PASS, skipping cloud (saved ~$0.01)", file=sys.stderr)
+            else:
+                print(f"  Smart mode: Local score {local_score} is below threshold", file=sys.stderr)
+        
         all_results.append(results)
 
         if results.get('feedback_used'):

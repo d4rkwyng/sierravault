@@ -31,7 +31,8 @@ from typing import Dict, List, Tuple, Optional
 
 # Mac Studio Ollama server (via Tailscale)
 MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", "http://100.90.195.80:11434")
-MAC_STUDIO_MODEL = "llama3.3:70b"  # Best general model on Studio
+MAC_STUDIO_MODEL = "llama3.3:70b"  # Best general model on Studio (93.5 avg score)
+MAC_STUDIO_FLAGSHIP_MODEL = "deepseek-r1:70b"  # Reasoning model for flagships (94.5 avg score)
 
 # Promotional language patterns to detect
 PROMOTIONAL_WORDS = [
@@ -848,16 +849,21 @@ def generate_issues_list(checks: Dict) -> List[str]:
     return issues
 
 
-def run_deep_analysis(content: str, filepath: str, basic_result: Dict) -> Dict:
+def run_deep_analysis(content: str, filepath: str, basic_result: Dict, flagship: bool = False) -> Dict:
     """Run deep analysis on Mac Studio's 70B model for escalated pages.
     
     This provides more nuanced analysis than the fast Mini checks:
     - Better promotional language detection (understands context)
     - Accuracy assessment (can reason about claims)
     - Structure quality (not just presence of sections)
+    
+    For flagship games, uses deepseek-r1:70b (reasoning model) for highest accuracy.
     """
     if not check_studio_available():
         return {"available": False, "error": "Mac Studio not reachable"}
+    
+    # Use reasoning model for flagships
+    model = MAC_STUDIO_FLAGSHIP_MODEL if flagship else MAC_STUDIO_MODEL
     
     # Build a focused prompt for the 70B model
     issues_summary = "\n".join(f"- {i}" for i in basic_result.get('issues', [])[:10])
@@ -882,7 +888,7 @@ Respond with a JSON object:
 {{"issues": ["list of real issues"], "false_positives": ["automated flags that are actually OK"], "score_adjustment": 0}}
 """
     
-    response = run_ollama_studio(prompt)
+    response = run_ollama_studio(prompt, model=model)
     if not response:
         return {"available": True, "error": "No response from model"}
     
@@ -966,8 +972,9 @@ def run_quality_check(filepath: str, flagship: bool = False, use_llm: bool = Tru
     }
     
     # Run deep analysis on Mac Studio if escalate is enabled and needed
+    # Uses deepseek-r1:70b (reasoning model) for flagship games
     if escalate and needs_escalation:
-        deep = run_deep_analysis(content, filepath, result)
+        deep = run_deep_analysis(content, filepath, result, flagship=flagship)
         result["deep_analysis"] = deep
         
         # Adjust score if deep analysis found false positives
