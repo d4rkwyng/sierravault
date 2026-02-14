@@ -116,9 +116,14 @@ def run_daemon(
     rate_limit: float = 30.0,
     resume: bool = True,
     verbose: bool = False,
-    no_llm: bool = False
+    no_llm: bool = False,
+    escalate: bool = False
 ):
-    """Run the quality daemon."""
+    """Run the quality daemon.
+    
+    Args:
+        escalate: Use Mac Studio 70B for deep analysis on flagged pages
+    """
     
     # Calculate end time if hours specified
     end_time = None
@@ -159,6 +164,15 @@ def run_daemon(
         print("Warning: Ollama not available - running without LLM analysis")
         no_llm = True
     
+    # Check Mac Studio availability if escalating
+    if escalate:
+        from local_quality_check import check_studio_available
+        if check_studio_available():
+            print("✓ Mac Studio available for deep analysis (llama3.3:70b)")
+        else:
+            print("Warning: Mac Studio not reachable - disabling escalation")
+            escalate = False
+    
     checked_this_run = 0
     start_time = time.time()
     
@@ -187,7 +201,8 @@ def run_daemon(
                 result = run_quality_check(
                     str(page),
                     use_llm=not no_llm,
-                    verbose=verbose
+                    verbose=verbose,
+                    escalate=escalate
                 )
                 
                 # Update counters
@@ -217,9 +232,10 @@ def run_daemon(
                 pages_per_hour = checked_this_run / (elapsed / 3600) if elapsed > 0 else 0
                 
                 flagship_tag = " [F]" if result.get('flagship') else ""
-                escalate_tag = " ⚠️" if result.get('needs_escalation') else ""
+                deep_tag = " 🔬" if result.get('deep_analysis', {}).get('analysis') else ""
+                escalate_tag = " ⚠️" if result.get('needs_escalation') and not deep_tag else ""
                 
-                print(f"{status} [{score:3d}]{flagship_tag}{escalate_tag} {page.stem[:50]}")
+                print(f"{status} [{score:3d}]{flagship_tag}{deep_tag}{escalate_tag} {page.stem[:50]}")
                 
                 if verbose and result.get('issues'):
                     for issue in result['issues'][:3]:
@@ -272,6 +288,8 @@ def main():
     parser.add_argument("--resume", action="store_true", default=True, help="Resume from last state (default)")
     parser.add_argument("--fresh", action="store_true", help="Start fresh, ignore previous state")
     parser.add_argument("--no-llm", action="store_true", help="Skip LLM analysis")
+    parser.add_argument("--escalate", action="store_true", 
+                        help="Use Mac Studio 70B for deep analysis on flagged pages")
     parser.add_argument("-v", "--verbose", action="store_true", help="Verbose output")
     
     args = parser.parse_args()
@@ -282,7 +300,8 @@ def main():
         rate_limit=args.rate,
         resume=not args.fresh,
         verbose=args.verbose,
-        no_llm=args.no_llm
+        no_llm=args.no_llm,
+        escalate=args.escalate
     )
 
 
