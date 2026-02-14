@@ -216,7 +216,6 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 - [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, game description, new features

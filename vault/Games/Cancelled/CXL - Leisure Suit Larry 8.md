@@ -185,10 +185,6 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 **Historical Materials**
 - [Larry Laffer Dot Net – Test Video](http://larrylaffer.net/exxxtras/larry-game-materials/the-promo-demo-videos) – Preserved development video
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Unseen64 – Leisure Suit Larry 8 PC Cancelled](https://www.unseen64.net/2009/10/25/leisure-suit-larry-8-pc-cancelled/) – Development timeline, cancellation details, technical plans, Al Lowe departure date

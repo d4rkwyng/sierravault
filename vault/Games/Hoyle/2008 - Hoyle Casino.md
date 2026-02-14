@@ -183,7 +183,6 @@ The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][
 - [[2007 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2008 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [Amazon UK – Hoyle Casino 2008](https://www.amazon.co.uk/Hoyle-Casino-2008-OLD-VERSION/dp/B000TKB28K) – customer reviews, product description, publisher info, platform compatibility

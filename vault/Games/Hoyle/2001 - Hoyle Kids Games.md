@@ -214,7 +214,6 @@ The title also reflects the industry's growing interest in online multiplayer ga
 - [[2001 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2001 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, ratings, technical specs, multiplayer info, features

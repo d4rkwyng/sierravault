@@ -114,7 +114,6 @@ Fan-created unofficial patches have been developed to address minor technical is
 ## See Also
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/24/manhunter-new-york/) – - Developer and designer credits

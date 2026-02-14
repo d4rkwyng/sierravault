@@ -188,10 +188,6 @@ The intellectual property's current ownership by Activision has led to periodic 
 - [Manhunter Wiki](https://manhunter.fandom.com/wiki/Manhunter_3:_London)[^ref-1]
 - [Sierra Wiki](https://sierra.fandom.com/wiki/Manhunter)[^ref-7]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information, Easter egg details, planned story elements

@@ -207,7 +207,6 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [[1982 - Bop-A-Bet|← Previous: Bop-A-Bet]]
 - [[1983 - Learning with Leeper|→ Next: Learning with Leeper]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games

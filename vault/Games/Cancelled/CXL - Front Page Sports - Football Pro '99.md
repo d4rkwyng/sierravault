@@ -216,10 +216,6 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 **Download / Preservation**
 - [Noble Knight Games](https://www.nobleknight.com/P/2148206199/Front-Page-Sports-Football-Pro-99) - Physical copies occasionally available[^ref-9]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports Football](https://en.wikipedia.org/wiki/Front_Page_Sports_Football) – series history, version information, reception, sales data, awards, development notes, trivia, bugs

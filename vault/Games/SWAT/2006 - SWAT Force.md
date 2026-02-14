@@ -195,7 +195,6 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|← Previous: SWAT 4 - The Stetchkov Syndicate]]
 - [[2007 - SWAT - Target Liberty|→ Next: SWAT - Target Liberty]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) – release date, developer, publisher, aggregate scores, first mobile Police Quest game

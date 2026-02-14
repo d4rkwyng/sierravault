@@ -250,7 +250,6 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 - [[1979 - Galactic Empire|← Previous: Galactic Empire]]
 - [[1991 - The Charge of the Light Brigade|→ Next: The Charge of the Light Brigade]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Ancient Art of War at Sea](https://www.mobygames.com/game/188/the-ancient-art-of-war-at-sea/) – developer, publisher, platforms, release dates, ratings, ship types, technical details

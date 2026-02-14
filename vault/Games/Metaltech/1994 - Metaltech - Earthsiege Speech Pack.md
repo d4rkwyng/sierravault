@@ -221,7 +221,6 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - [[1994 - Metaltech - Earthsiege|← Previous: Metaltech - Earthsiege]]
 - [[1995 - Metaltech - Earthsiege Expansion Pack|→ Next: Metaltech - Earthsiege Expansion Pack]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Metaltech: EarthSiege Speech Pack](https://www.mobygames.com/game/25267/metaltech-earthsiege-speech-pack/) - Speech Pack entry describing it as an add-on with digitized speech

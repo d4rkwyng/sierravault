@@ -236,7 +236,6 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - **Donald Duck: Goin' Quackers** (2000)
 - [[1984 - Mickey's Space Adventure|→ Next: Mickey's Space Adventure]]
 
-## 
 ## References
 
 [^ref-1]: [Al Lowe's Personal Website – Games Download Page](https://allowe.com/downloads/games.html) – development history, Disney commission, interface details, awards, freeware availability

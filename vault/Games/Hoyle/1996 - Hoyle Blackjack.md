@@ -194,7 +194,6 @@ The game's influence on casino game design persists in modern software, though c
 - [[1996 - Hoyle Bridge|← Previous: Hoyle Bridge]]
 - [[1996 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [Amazon Product Page](https://www.amazon.com/Encore-Hoyle-Blackjack-Series-Download/dp/B00H8AGJ2S) - Product description and 16 game variants

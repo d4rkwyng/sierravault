@@ -251,7 +251,6 @@ The game also holds significance as the final 2D entry in the series and the las
 ## See Also
 - [[1996 - Casino Deluxe 2|← Previous: Casino Deluxe 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – release dates, developers, designers, composer, series information, Metacritic score

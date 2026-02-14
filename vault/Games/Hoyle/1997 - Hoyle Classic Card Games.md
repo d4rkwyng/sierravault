@@ -143,10 +143,6 @@ The series continued with multiple sequels and iterations, eventually transition
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av)
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993)
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information

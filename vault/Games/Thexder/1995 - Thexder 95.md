@@ -215,7 +215,6 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 - [[1989 - Fire Hawk - Thexder - The Second Contact|← Previous: Fire Hawk - Thexder - The Second Contact]]
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – Windows 95 version details, Game SDK engine, multi-window interface

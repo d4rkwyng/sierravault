@@ -208,7 +208,6 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|← Previous: King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|→ Next: King's Quest VI - Heir Today, Gone Tomorrow]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Publication date September 19, 1990

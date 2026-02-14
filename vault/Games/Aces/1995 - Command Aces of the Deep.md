@@ -119,7 +119,6 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 - **Next:** Aces of the Deep: Expansion Disk (1995)
 - [[1994 - Aces of the Deep|← Previous: Aces of the Deep]]
 
-## 
 ## References
 
 [^ref-1]: [Old-Games.com](https://www.old-games.com/download/4200/command-aces-of-the-deep) – - Windows version details and release information

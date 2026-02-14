@@ -270,7 +270,6 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 - [[1988 - Gold Rush|← Previous: Gold Rush]]
 - [[2017 - Gold Rush 2|→ Next: Gold Rush 2]]
 
-## 
 ## References
 
 [^ref-1]: [3rd-strike.com – Gold Rush Anniversary Review](https://3rd-strike.com/gold-rush-anniversary-review/) – review score, gameplay analysis, dual control system details

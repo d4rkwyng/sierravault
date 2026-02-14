@@ -209,7 +209,6 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 - [[1995 - Shannara|← Previous: Shannara]]
 - [[1995 - Torin's Passage|→ Next: Torin's Passage]]
 
-## 
 ## References
 
 [^ref-1]: [ClassicReload – Ruins of Cawdor](https://classicreload.com/ruins-of-cawdor.html) – historical context, series information, offline patch

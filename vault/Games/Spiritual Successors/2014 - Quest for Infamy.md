@@ -112,7 +112,6 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 - [[2014 - Moebius - Empire Rising|← Previous: Moebius - Empire Rising]]
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|→ Next: Cluck Yegger in Escape From The Planet of The Poultroid]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Game Database](https://www.adventuregamedb.com/g/quest_for_infamy) – - Game description and premise

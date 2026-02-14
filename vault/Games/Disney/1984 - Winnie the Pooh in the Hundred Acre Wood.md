@@ -221,7 +221,6 @@ From a design perspective, the game's innovation of eliminating typing requireme
 - [[1984 - Mickey's Space Adventure|← Previous: Mickey's Space Adventure]]
 - [[1986 - The Black Cauldron|→ Next: The Black Cauldron]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Winnie the Pooh in the Hundred Acre Wood](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/) – release dates, developers, publishers, platforms, ratings

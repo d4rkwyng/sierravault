@@ -163,7 +163,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 - [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Texas Hold 'Em](https://gamefaqs.gamespot.com/pc/927495-hoyle-texas-hold-em) – release date, publisher, user ratings

@@ -248,7 +248,6 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 - [[2015 - Order of the Thorne - The King's Challenge|← Previous: Order of the Thorne - The King's Challenge]]
 - [[2019 - Mage's Initiation - Reign of the Elements|→ Next: Mage's Initiation - Reign of the Elements]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U%3A_Rogue_to_Redemption) – release dates, developers, engine, Metacritic score, development history

@@ -227,7 +227,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 ## See Also
 - [[1990 - Oils Well|→ Next: Oils Well]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – historical overview, awards, development history, critical reception

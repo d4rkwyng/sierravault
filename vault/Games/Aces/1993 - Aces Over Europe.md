@@ -100,10 +100,6 @@ Aces Over Europe became part of several compilation releases, including the "Ace
 
 The game's technical innovations, particularly its record and playback system, influenced later flight simulators. As one user noted, "The Aces Over series had the absolute best record/playback mission deck and video edit interface"[^ref-2] among its contemporaries. The simulation's attention to environmental detail, such as the unique bird strike feature[^ref-13], demonstrated Dynamix's commitment to realistic flight modeling that would influence future aviation games.
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [GOG.com Dreamlist - Aces of the Pacific](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – - Information about Aces Over Europe being a follow-up to Aces of the Pacific

@@ -126,10 +126,6 @@ The game's influence extends beyond its immediate commercial success through its
 
 Caesar III inspired numerous spiritual successors and influenced the development of later city-building games. Recent titles like Seabed Settlers have been explicitly described as "Caesar 3-inspired" games that translate the core mechanics to new settings[^ref-63]. The game's reputation as potentially "the BEST city-building game"[^ref-83] according to many fans has ensured its continued relevance in gaming discussions and retrospectives decades after its original release.
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Abandonware DOS - Caesar III Search](https://www.abandonwaredos.com/search.php?search=Caesar+III) – - Basic game listing information

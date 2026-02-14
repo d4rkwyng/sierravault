@@ -195,7 +195,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 - [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|← Previous: Hi-Res Adventure 2 - The Wizard and the Princess]]
 - [[1980 - Hi-Res Football|→ Next: Hi-Res Football]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications

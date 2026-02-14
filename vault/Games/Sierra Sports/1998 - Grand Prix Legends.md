@@ -314,7 +314,6 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 - [[1997 - Driver's Education '98|← Previous: Driver's Education '98]]
 - [[1998 - Sierra Sports - Bass Fishing|→ Next: Sierra Sports - Bass Fishing]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Grand Prix Legends](https://en.wikipedia.org/wiki/Grand_Prix_Legends) – sales data, awards, development team size, review aggregation

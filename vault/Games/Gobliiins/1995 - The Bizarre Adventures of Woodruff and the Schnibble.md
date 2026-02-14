@@ -257,7 +257,6 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 - [[1993 - Goblins Quest 3|← Previous: Goblins Quest 3]]
 - [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – release dates, review scores, voice cast, development details

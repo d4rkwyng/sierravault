@@ -160,7 +160,6 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 - **Original Game:** [[1988 - King's Quest IV - The Perils of Rosella]]
 - **Previous IA Remake:** [[2006 - King's Quest III Remake (Infamous Adventures)]]
 
-## 
 ## References
 
 [^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments

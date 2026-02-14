@@ -104,7 +104,6 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info

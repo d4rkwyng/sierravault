@@ -204,7 +204,6 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 - **Next:** None (final entry in series)
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description

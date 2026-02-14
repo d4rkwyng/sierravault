@@ -227,7 +227,6 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - [[2012 - Cognition - An Erica Reed Thriller|← Previous: Cognition - An Erica Reed Thriller]]
 - [[2014 - Moebius - Empire Rising|→ Next: Moebius - Empire Rising]]
 
-## 
 ## References
 
 [^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information

@@ -217,7 +217,6 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 - [[2004 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series history, development origins, SCI engine information, sales data

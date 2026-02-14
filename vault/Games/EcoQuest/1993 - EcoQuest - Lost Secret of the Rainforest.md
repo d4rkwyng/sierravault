@@ -215,7 +215,6 @@ The game's emphasis on consequences for environmental destruction—whether thro
 ## See Also
 - [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest) – release date, credits, designer info, reception, Pelit quote, Compute! review

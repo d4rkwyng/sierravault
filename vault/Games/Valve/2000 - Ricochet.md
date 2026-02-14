@@ -203,7 +203,6 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 - [[2000 - Gunman Chronicles|← Previous: Gunman Chronicles]]
 - [[2001 - Deathmatch Classic|→ Next: Deathmatch Classic]]
 
-## 
 ## References
 
 [^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Technical documentation and development history

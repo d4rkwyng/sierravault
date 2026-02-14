@@ -248,7 +248,6 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 - [[1991 - E.S.S. Mega|← Previous: E.S.S. Mega]]
 - [[1992 - Bargon Attack|→ Next: Bargon Attack]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game

@@ -294,7 +294,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [[1991 - Heart of China|← Previous: Heart of China]]
 - [[1992 - Quarky & Quaysoo's Turbo Science|→ Next: Quarky & Quaysoo's Turbo Science]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – ratings, credits, releases, platform information, trivia

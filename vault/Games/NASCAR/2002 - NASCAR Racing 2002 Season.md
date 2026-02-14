@@ -137,7 +137,6 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 - [[2001 - NASCAR Racing 4|← Previous: NASCAR Racing 4]]
 - [[2003 - NASCAR Racing 2003 Season|→ Next: NASCAR Racing 2003 Season]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – - Developer, designer, and basic game information

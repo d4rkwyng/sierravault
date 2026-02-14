@@ -138,7 +138,6 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|← Previous: The Beast Within - A Gabriel Knight Mystery]]
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|→ Next: Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
-## 
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Abandonware DOS search results page

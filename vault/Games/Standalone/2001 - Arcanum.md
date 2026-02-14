@@ -325,7 +325,6 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 - [[1997 - Diablo - Hellfire|← Previous: Diablo - Hellfire]]
 - [[2007 - World in Conflict|→ Next: World in Conflict]]
 
-## 
 ## References
 
 [^ref-1]: [Amazon – Arcanum: Of Steamworks & Magick Obscura](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00004TTHT) – product description, customer reviews, publication date

@@ -211,7 +211,6 @@ The game also represents an important artifact of early 2000s fan game developme
 - [[2002 - King's Quest II+ - Romancing the Stones|← Previous: King's Quest II+ - Romancing the Stones]]
 - [[2006 - King's Quest III Remake (Infamous Adventures)|→ Next: King's Quest III Remake (Infamous Adventures)]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – developer, engine, ratings, platform, gameplay description

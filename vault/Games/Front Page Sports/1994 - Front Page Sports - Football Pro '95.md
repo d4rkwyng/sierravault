@@ -247,7 +247,6 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 - [[1994 - Front Page Sports - Baseball Pro|← Previous: Front Page Sports - Baseball Pro]]
 - [[1995 - Front Page Sports - Football Pro '96|→ Next: Front Page Sports - Football Pro '96]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Football Pro '95](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/) – credits, technical specifications, features, ratings, awards

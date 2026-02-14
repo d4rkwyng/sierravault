@@ -228,7 +228,6 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 - [[1996 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[1996 - Hoyle Solitaire|→ Next: Hoyle Solitaire]]
 
-## 
 ## References
 
 [^ref-5]: [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol) – release dates, developer, publisher, platforms, technical specifications, trivia

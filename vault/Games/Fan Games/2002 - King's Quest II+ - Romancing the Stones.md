@@ -197,7 +197,6 @@ The remake's significance extends beyond its individual merits to represent a br
 - [[2001 - Space Quest - The Lost Chapter|← Previous: Space Quest - The Lost Chapter]]
 - [[2003 - Space Quest 0 - Replicated|→ Next: Space Quest 0 - Replicated]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background

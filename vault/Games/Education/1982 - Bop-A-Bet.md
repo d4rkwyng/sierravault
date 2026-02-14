@@ -187,7 +187,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 - [[1982 - Alphabet Blocks|← Previous: Alphabet Blocks]]
 - [[1983 - Early Math|→ Next: Early Math]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics

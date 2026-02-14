@@ -198,7 +198,6 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 ## See Also
 - **Next:** Not yet released
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation

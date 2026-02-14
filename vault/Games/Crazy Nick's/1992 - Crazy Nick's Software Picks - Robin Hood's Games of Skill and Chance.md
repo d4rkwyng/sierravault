@@ -212,7 +212,6 @@ No official digital distribution is currently available. The game may be found t
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|← Previous: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|→ Next: Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance](https://www.mobygames.com/game/95474/crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance/) – release date, developer, publisher, credits, gameplay description, technical specs

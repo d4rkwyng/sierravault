@@ -209,7 +209,6 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 - [[1992 - The Island of Dr. Brain|← Previous: The Island of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain|→ Next: The Time Warp of Dr. Brain]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – The Lost Mind of Dr. Brain](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain) – release dates, developers, designers, composers, platforms, awards, Next Generation review

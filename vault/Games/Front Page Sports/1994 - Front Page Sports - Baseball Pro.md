@@ -138,7 +138,6 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – - Basic game information and development details

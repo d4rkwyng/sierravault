@@ -183,7 +183,6 @@ Middle Earth Online was never released and is not available for purchase.
 - **Previous:** N/A (first Sierra Middle-earth project)
 - **Successor:** The Lord of the Rings Online (2007)
 
-## 
 ## References
 
 [^ref-1]: [LOTR Fandom Wiki – Middle-earth Online](https://lotr.fandom.com/wiki/Middle-earth_Online) – licensing history, developers, timeline

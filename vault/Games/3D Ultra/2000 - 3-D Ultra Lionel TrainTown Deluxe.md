@@ -209,7 +209,6 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 - [[1999 - 3-D Ultra Radio Control Racers|← Previous: 3-D Ultra Radio Control Racers]]
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
 
-## 
 ## References
 
 [^ref-9]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – developer, publisher, release dates, platforms, composer, awards, locomotives

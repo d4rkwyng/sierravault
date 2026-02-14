@@ -255,7 +255,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 - [[1994 - Sierra Soccer - World Challenge Edition|← Previous: Sierra Soccer - World Challenge Edition]]
 - [[1996 - Hunter Hunted|→ Next: Hunter Hunted]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – CyberGladiators](https://archive.org/details/cybergladiators) – Game description, developer/publisher, platform, release year, ESRB rating

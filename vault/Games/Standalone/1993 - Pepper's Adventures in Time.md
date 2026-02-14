@@ -149,7 +149,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|← Previous: Freddy Pharkas - Frontier Pharmacist]]
 - [[1993 - Slater & Charlie Go Camping|→ Next: Slater & Charlie Go Camping]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release year and basic information

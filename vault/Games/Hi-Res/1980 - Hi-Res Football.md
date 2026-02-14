@@ -206,7 +206,6 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 - [[1980 - Hi-Res Cribbage|← Previous: Hi-Res Cribbage]]
 - [[1980 - Hi-Res Soccer|→ Next: Hi-Res Soccer]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information

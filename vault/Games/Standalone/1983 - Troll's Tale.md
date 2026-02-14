@@ -140,7 +140,6 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 - [[1981 - Softporn Adventure|← Previous: Softporn Adventure]]
 - [[1985 - Sierra Championship Boxing|→ Next: Sierra Championship Boxing]]
 
-## 
 ## References
 
 [^ref-1]: [Sierra Gamers](https://www.sierragamers.com/trolls-tale/) – - Basic game information and publisher details

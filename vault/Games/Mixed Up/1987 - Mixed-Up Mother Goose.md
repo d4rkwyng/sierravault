@@ -263,7 +263,6 @@ The game's three remakes over a decade—more than almost any other Sierra title
 ## See Also
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) – release date, platforms, awards, sales figures, key personnel

@@ -217,7 +217,6 @@ The game is preserved in multiple archives and databases, with documentation ava
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|← Previous: Hi-Res Adventure 3 - Cranston Manor]]
 - [[1982 - Adventure in Serenia|→ Next: Adventure in Serenia]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hi-Res Adventure #4: Ulysses and the Golden Fleece](https://www.mobygames.com/game/10343/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – release dates, platforms, publishers, designers, ratings, version information

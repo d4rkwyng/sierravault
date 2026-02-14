@@ -265,7 +265,6 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [[2010 - The Silver Lining|← Previous: The Silver Lining]]
 - [[2011 - Space Quest - Vohaul Strikes Back|→ Next: Space Quest - Vohaul Strikes Back]]
 
-## 
 ## References
 
 [^ref-1]: [Gamewise – King's Quest III Redux](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human) – release date, developer, platform information

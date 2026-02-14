@@ -223,7 +223,6 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/) – developer, publisher, designers, ESRB rating, box quotes

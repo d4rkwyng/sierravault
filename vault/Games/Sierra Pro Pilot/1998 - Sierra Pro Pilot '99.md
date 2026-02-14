@@ -196,7 +196,6 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 - [[1997 - Sierra Pro Pilot 98|← Previous: Sierra Pro Pilot 98]]
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Sierra Pro Pilot 98](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) – release date, developer, publisher, archive metadata

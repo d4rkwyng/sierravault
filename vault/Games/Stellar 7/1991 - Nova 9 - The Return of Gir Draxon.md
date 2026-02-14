@@ -219,7 +219,6 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 - [[1990 - Stellar 7|← Previous: Stellar 7]]
 - [[1993 - Stellar 7 - Draxon's Revenge|→ Next: Stellar 7 - Draxon's Revenge]]
 
-## 
 ## References
 
 [^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Release year and story information

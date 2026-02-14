@@ -262,7 +262,6 @@ The game is preserved through various abandonware archives and remains playable 
 - [[1994 - Front Page Sports - Football Pro '95|← Previous: Front Page Sports - Football Pro '95]]
 - [[1996 - Front Page Sports - Baseball Pro '96|→ Next: Front Page Sports - Baseball Pro '96]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – Development credits, platform information

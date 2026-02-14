@@ -162,7 +162,6 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 - [[2006 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Miami Solitaire](https://gamefaqs.gamespot.com/pc/961448-hoyle-miami-solitaire) – release date, developer, publisher, alternate title, platform, franchise info

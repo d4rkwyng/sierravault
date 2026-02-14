@@ -194,7 +194,6 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 - **Next:** Tribes: Vengeance (2004)
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status

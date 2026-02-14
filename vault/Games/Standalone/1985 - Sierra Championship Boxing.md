@@ -225,7 +225,6 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [[1983 - Troll's Tale|← Previous: Troll's Tale]]
 - [[1985 - Stunt Flyer|→ Next: Stunt Flyer]]
 
-## 
 ## References
 
 [^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – release dates, platforms, developer, publisher, ratings

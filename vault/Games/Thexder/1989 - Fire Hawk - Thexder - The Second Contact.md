@@ -219,7 +219,6 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 - [[1985 - Thexder|← Previous: Thexder]]
 - [[1995 - Thexder 95|→ Next: Thexder 95]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Fire Hawk: Thexder - The Second Contact](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – credits, ratings, technical specifications, trivia

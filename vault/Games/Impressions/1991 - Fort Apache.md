@@ -174,7 +174,6 @@ The game's mixed reception reflects the tensions between promising premises and 
 - [[1991 - Cohort Fighting for Rome|← Previous: Cohort Fighting for Rome]]
 - [[1991 - Merchant Colony|→ Next: Merchant Colony]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Fort Apache](https://www.mobygames.com/game/71689/fort-apache/) – release dates, platforms, technical specifications, gameplay description, aggregate ratings

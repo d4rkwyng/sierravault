@@ -143,7 +143,6 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 - [[1980 - Hi-Res Football|← Previous: Hi-Res Football]]
 - [[1981 - Hi-Res Adventure 3 - Cranston Manor|→ Next: Hi-Res Adventure 3 - Cranston Manor]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information

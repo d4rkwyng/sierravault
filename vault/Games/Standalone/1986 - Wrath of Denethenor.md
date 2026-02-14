@@ -219,7 +219,6 @@ From a modern perspective, the game serves as an important data point in underst
 - [[1986 - Kempelen|← Previous: Kempelen]]
 - [[1987 - 3-D Helicopter Simulator|→ Next: 3-D Helicopter Simulator]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Wrath of Denethenor](https://en.wikipedia.org/wiki/Wrath_of_Denethenor) – development history, reviews, technical specifications, credits

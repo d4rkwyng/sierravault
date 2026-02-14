@@ -248,7 +248,6 @@ The game's emphasis on linear storytelling and elaborate plot over the original'
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|← Previous: Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|→ Next: Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – ratings, credits, releases, trivia, awards

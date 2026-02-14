@@ -173,7 +173,6 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 - [[2003 - Hoyle Majestic Chess|← Previous: Hoyle Majestic Chess]]
 - [[2004 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2004](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004) – release date, developer, publisher, features, user rating

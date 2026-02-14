@@ -194,7 +194,6 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 ## See Also
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Wiki – Stellar-Fire](https://dynamix.fandom.com/wiki/Stellar-Fire) – developer, publisher, release date, story, gameplay mechanics

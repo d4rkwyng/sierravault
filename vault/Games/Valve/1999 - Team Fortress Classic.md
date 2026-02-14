@@ -248,7 +248,6 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 - [[1999 - Half-Life - Opposing Force|← Previous: Half-Life - Opposing Force]]
 - [[2000 - Counter-Strike|→ Next: Counter-Strike]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history

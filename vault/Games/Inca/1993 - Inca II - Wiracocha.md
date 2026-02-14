@@ -128,10 +128,6 @@ The Inca series as a whole represents an interesting footnote in Coktel Vision's
 
 Inca II stands as a fascinating example of 1990s multimedia gaming ambition, representing both the possibilities and pitfalls of early CD-ROM adventure games. Its blend of serious mythological themes with unintentionally comedic execution has secured its place in gaming history, even if not for the reasons its developers originally intended. For many players who encountered the game during the CD-ROM boom, it remains a nostalgic curiosity—a reminder of an era when developers were still discovering what the new medium could achieve, sometimes with spectacularly bizarre results.
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information

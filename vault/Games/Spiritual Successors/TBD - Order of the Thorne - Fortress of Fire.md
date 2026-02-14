@@ -184,10 +184,6 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 **Developer Support**
 - [Patreon](https://www.patreon.com/posts/updates-on-rtr-141274312) - Early access for supporters[^ref-5]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers – Order of the Thorne: Fortress of Fire](https://adventuregamers.com/games/order-of-the-thorne-fortress-of-fire) – game description, genre, platform, series info

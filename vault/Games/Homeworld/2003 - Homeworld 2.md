@@ -277,7 +277,6 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 - [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – release dates, story details, technical specifications, awards nomination

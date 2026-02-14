@@ -248,7 +248,6 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 - [[1991 - Merchant Colony|← Previous: Merchant Colony]]
 - [[1992 - Air Force Commander|→ Next: Air Force Commander]]
 
-## 
 ## References
 
 [^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year

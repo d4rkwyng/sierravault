@@ -188,7 +188,6 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 - [[2003 - Space Quest 0 - Replicated|← Previous: Space Quest 0 - Replicated]]
 - [[2008 - Quest for Glory II VGA Remake|→ Next: Quest for Glory II VGA Remake]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – developer information, game list, platform details

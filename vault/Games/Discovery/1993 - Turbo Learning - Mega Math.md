@@ -202,7 +202,6 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 - [[1993 - Spelling Jungle|← Previous: Spelling Jungle]]
 - [[1994 - Spelling Blizzard|→ Next: Spelling Blizzard]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year

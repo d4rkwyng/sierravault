@@ -137,7 +137,6 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 - **Next:** No direct sequel produced
 - [[1994 - Outpost|← Previous: Outpost]]
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Outpost_2:_Divided_Destiny) – - Development credits and team information

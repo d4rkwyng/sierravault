@@ -233,7 +233,6 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [[2001 - King's Quest I VGA Remake|← Previous: King's Quest I VGA Remake]]
 - [[2002 - King's Quest II+ - Romancing the Stones|→ Next: King's Quest II+ - Romancing the Stones]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Space Quest: The Lost Chapter (AGI)](https://archive.org/details/agi_space-quest-x-the-lost-chapter) – release date, engine, graphics style, death system, game description

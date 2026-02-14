@@ -204,7 +204,6 @@ The broader significance of educational software like Learning with Leeper was r
 - [[1983 - Early Math|← Previous: Early Math]]
 - [[1984 - Learning with FuzzyWOMP|→ Next: Learning with FuzzyWOMP]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – platforms, developer, publisher, release dates, awards

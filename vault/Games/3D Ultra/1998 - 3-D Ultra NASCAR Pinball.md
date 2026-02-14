@@ -175,7 +175,6 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 - [[1998 - 3-D Ultra MiniGolf Deluxe|← Previous: 3-D Ultra MiniGolf Deluxe]]
 - [[1999 - 3-D Ultra Cool Pool|→ Next: 3-D Ultra Cool Pool]]
 
-## 
 ## References
 
 [^ref-1]: [Never Die Media – 3D Ultra Pinball NASCAR](https://www.neverdiemedia.com/products/3d-ultra-pinball-nascar) – product description, developer information

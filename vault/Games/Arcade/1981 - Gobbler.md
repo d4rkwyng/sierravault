@@ -188,7 +188,6 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 - [[1981 - Frogger|← Previous: Frogger]]
 - [[1981 - Sabotage|→ Next: Sabotage]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history

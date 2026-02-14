@@ -167,7 +167,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [[1990 - Zeliard|← Previous: Zeliard]]
 - [[1993 - Pepper's Adventures in Time|→ Next: Pepper's Adventures in Time]]
 
-## 
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Development and publisher information

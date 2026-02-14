@@ -180,7 +180,6 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]]
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|→ Next: Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames Game Database](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Basic game information and metadata

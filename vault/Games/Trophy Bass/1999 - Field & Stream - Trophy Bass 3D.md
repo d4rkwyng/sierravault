@@ -219,7 +219,6 @@ Community preservation efforts maintain access to the game through abandonware a
 - [[1996 - Front Page Sports - Trophy Bass 2|← Previous: Front Page Sports - Trophy Bass 2]]
 - [[2000 - Field & Stream - Trophy Bass 4|→ Next: Field & Stream - Trophy Bass 4]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Basic game information, release year, developer, publisher

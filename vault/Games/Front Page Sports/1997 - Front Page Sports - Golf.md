@@ -266,7 +266,6 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Golf) – development history, release date, designer, composer, critical reception, TrueSwing details

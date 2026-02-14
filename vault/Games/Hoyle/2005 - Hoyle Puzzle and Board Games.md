@@ -259,7 +259,6 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
 
-## 
 ## References
 
 [^ref-1]: [Amazon Singapore – Hoyle Puzzle Board Games 2005](https://www.amazon.sg/Hoyle-Puzzle-Board-Games-2005/dp/B0001BR9QG) – product description, platform compatibility, release date, feature list

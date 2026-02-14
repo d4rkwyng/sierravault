@@ -188,7 +188,6 @@ The title has developed a cult following among players who experienced it during
 - [[1996 - Lighthouse - The Dark Being|← Previous: Lighthouse - The Dark Being]]
 - [[1997 - Diablo - Hellfire|→ Next: Diablo - Hellfire]]
 
-## 
 ## References
 
 [^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – release date, developer, publisher, gameplay description, locations, mini-game count, randomization, trivia

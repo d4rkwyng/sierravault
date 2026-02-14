@@ -252,7 +252,6 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 - [[Gabriel Knight Series]] - Series overview
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms

@@ -218,7 +218,6 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [[1988 - Silpheed|← Previous: Silpheed]]
 - [[1990 - Codename - Iceman|→ Next: Codename - Iceman]]
 
-## 
 ## References
 
 [^ref-1]: [Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.classicgames.me/tank-the-m1a1-abrams-battle-tank-simulation.html) – game overview, realism focus, gameplay description

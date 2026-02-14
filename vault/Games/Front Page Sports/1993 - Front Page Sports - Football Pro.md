@@ -137,7 +137,6 @@ The series' influence can be seen in modern football management games, and its e
 - [[1992 - Front Page Sports Football 92|← Previous: Front Page Sports Football 92]]
 - [[1994 - Front Page Sports - Baseball Pro|→ Next: Front Page Sports - Baseball Pro]]
 
-## 
 ## References
 
 [^ref-1]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – - Release year and platform information

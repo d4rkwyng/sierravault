@@ -254,7 +254,6 @@ The game's legacy is complicated by its commercial failure, which contributed to
 - [[1998 - Starsiege - Tribes|← Previous: Starsiege - Tribes]]
 - [[2001 - Tribes 2|→ Next: Tribes 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – release dates, developer, publisher, sales data, aggregate scores, critical reception

@@ -128,7 +128,6 @@ The title sparked discussions about updating classic gaming franchises for moder
 - [[2013 - Leisure Suit Larry - Reloaded|← Previous: Leisure Suit Larry - Reloaded]]
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Release year and series information

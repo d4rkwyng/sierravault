@@ -283,7 +283,6 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 ## See Also
 - [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two - Harvest of Souls]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Shivers (video game)](https://en.wikipedia.org/wiki/Shivers_(video_game)) – development history, review scores, accessibility features, release dates

@@ -171,7 +171,6 @@ The series represented Sierra's most successful foray into sports gaming, with [
 - [[1996 - Front Page Sports - Baseball Pro '96|← Previous: Front Page Sports - Baseball Pro '96]]
 - [[1997 - Front Page Sports - Baseball Pro '98|→ Next: Front Page Sports - Baseball Pro '98]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Front Page Sports Football Pro 97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) - Basic game information and release details

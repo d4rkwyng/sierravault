@@ -263,7 +263,6 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 - ← Previous: Indianapolis 500 - The Simulation
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster

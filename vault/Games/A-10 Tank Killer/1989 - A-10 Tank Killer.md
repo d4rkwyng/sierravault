@@ -212,7 +212,6 @@ While the Amiga version disappointed some critics who found it technically infer
 ## See Also
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) – release dates, developers, designers, composers, platforms, technical specifications, ratings, trivia, version history

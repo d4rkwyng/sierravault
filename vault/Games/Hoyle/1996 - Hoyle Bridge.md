@@ -205,7 +205,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - [[1991 - Hoyle Official Book of Games - Volume 4|← Previous: Hoyle Official Book of Games - Volume 4]]
 - [[1996 - Hoyle Blackjack|→ Next: Hoyle Blackjack]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – credits, ratings, game description, character details

@@ -200,7 +200,6 @@ The game's combination of realistic physics with fantastical game modes anticipa
 - [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Lionel TrainTown|→ Next: 3-D Ultra Lionel TrainTown]]
 
-## 
 ## References
 
 [^ref-3]: [Wikipedia – Cool Pool](https://en.wikipedia.org/wiki/Cool_Pool) – developer, publisher, series information, server shutdown details

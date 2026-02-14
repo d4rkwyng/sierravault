@@ -309,7 +309,6 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - [[Laura Bow Series]] - Series overview
 - [[1989 - The Colonel's Bequest|← Previous: The Colonel's Bequest]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) – release dates, composers, trivia, contemporary reviews

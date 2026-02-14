@@ -205,7 +205,6 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
 - [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – developer, publisher, designers, platform, ratings, technical details, trivia

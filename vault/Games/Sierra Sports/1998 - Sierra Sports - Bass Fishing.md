@@ -142,7 +142,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [[1998 - Grand Prix Legends|← Previous: Grand Prix Legends]]
 - [[1998 - Sierra Sports Skiing 1999 Edition|→ Next: Sierra Sports Skiing 1999 Edition]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Field & Stream: Trophy Bass 4](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_4) – - Game overview and series information

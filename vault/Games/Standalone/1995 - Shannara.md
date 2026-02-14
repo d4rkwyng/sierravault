@@ -250,7 +250,6 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 - [[1995 - Fast Attack - High Tech Submarine Warfare|← Previous: Fast Attack - High Tech Submarine Warfare]]
 - [[1995 - The Ruins of Cawdor|→ Next: The Ruins of Cawdor]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Shannara (video game)](https://en.wikipedia.org/wiki/Shannara_(video_game)) – release date, designers, review scores, gameplay notes

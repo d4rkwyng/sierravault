@@ -199,10 +199,6 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 **Related Fan Games**
 - Babylon Project (FreeSpace mod/standalone) - Free alternative[^ref-7]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Abandonware France – Babylon 5: Into the Fire](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2287) – development history, technical specifications, cancellation details, trivia

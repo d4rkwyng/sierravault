@@ -210,7 +210,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [[1991 - The Shadow of Yserbius|← Previous: The Shadow of Yserbius]]
 - [[1996 - The Realm Online|→ Next: The Realm Online]]
 
-## 
 ## References
 
 [^ref-1]: [Abandonware DOS - Fates of Twinion](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fates+of+Twinion&gid=1252) - Basic game information and release details

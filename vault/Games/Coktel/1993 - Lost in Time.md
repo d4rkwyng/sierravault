@@ -247,7 +247,6 @@ The game also holds historical significance as one of the earlier adventure game
 - [[1992 - Ween - The Prophecy|← Previous: Ween - The Prophecy]]
 - [[1995 - The Last Dynasty|→ Next: The Last Dynasty]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information

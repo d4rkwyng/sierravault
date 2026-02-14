@@ -235,7 +235,6 @@ Despite its critical reception as a game where presentation exceeded substance, 
 - [[1995 - Casino De Luxe|← Previous: Casino De Luxe]]
 - [[1995 - Powerhouse|→ Next: Powerhouse]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Conqueror: A.D. 1086](https://www.mobygames.com/game/4658/conqueror-ad-1086/) – developer, publisher, composer, ratings, platform information, trivia

@@ -192,7 +192,6 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - [[2002 - Hoyle Casino Empire|← Previous: Hoyle Casino Empire]]
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status

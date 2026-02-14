@@ -259,7 +259,6 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, publisher information

@@ -114,7 +114,6 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - **Next:** None (standalone game)
 - [[1984 - Winnie the Pooh in the Hundred Acre Wood|← Previous: Winnie the Pooh in the Hundred Acre Wood]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – - Developer and publisher information

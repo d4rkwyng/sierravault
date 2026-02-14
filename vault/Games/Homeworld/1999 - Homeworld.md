@@ -297,7 +297,6 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 ## See Also
 - [[2000 - Homeworld - Cataclysm|→ Next: Homeworld - Cataclysm]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld](https://en.wikipedia.org/wiki/Homeworld) – release date, developer, platforms, Alex Garden quote about genre

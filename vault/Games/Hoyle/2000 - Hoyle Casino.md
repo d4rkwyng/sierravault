@@ -205,7 +205,6 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 - [[1999 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2000 - Hoyle Crosswords|→ Next: Hoyle Crosswords]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Hoyle Casino 2000](https://archive.org/details/Hoyle_Casino_2000_U) – basic catalog information, upload date

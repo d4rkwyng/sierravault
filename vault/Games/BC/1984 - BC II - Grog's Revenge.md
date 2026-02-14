@@ -264,7 +264,6 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 ## See Also
 - [[1983 - BC's Quest for Tires|← Previous: BC's Quest for Tires]]
 
-## 
 ## References
 
 [^ref-1]: [DBpedia – B.C. II: Grog's Revenge](https://dbpedia.org/page/B.C._II:_Grog's_Revenge) – publishers, developers, platforms, Canadian development origin

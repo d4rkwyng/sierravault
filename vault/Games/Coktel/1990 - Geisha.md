@@ -189,7 +189,6 @@ The game has been preserved by various abandonware sites and is considered no lo
 - **Previous:** N/A (Standalone title)
 - **Next:** N/A
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3844/geisha/) – Basic game information and developer/publisher details

@@ -294,7 +294,6 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|← Previous: Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|→ Next: Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Leisure Suit Larry 1 VGA](https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – release dates, credits, trivia, ratings, technical specifications

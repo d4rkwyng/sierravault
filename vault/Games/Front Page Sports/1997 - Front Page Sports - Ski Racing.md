@@ -134,7 +134,6 @@ A community-created patch has been developed to address compatibility issues, sp
 - [[1997 - Front Page Sports - Golf|← Previous: Front Page Sports - Golf]]
 - [[1997 - Front Page Sports - Trophy Rivers|→ Next: Front Page Sports - Trophy Rivers]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Ski_Racing) – - Basic game information and publication details

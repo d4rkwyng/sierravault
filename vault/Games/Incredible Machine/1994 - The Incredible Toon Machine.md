@@ -214,7 +214,6 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 - [[1994 - The Incredible Machine 2|← Previous: The Incredible Machine 2]]
 - [[1995 - The Incredible Machine 3.0|→ Next: The Incredible Machine 3.0]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score

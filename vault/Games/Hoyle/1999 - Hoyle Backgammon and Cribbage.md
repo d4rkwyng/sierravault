@@ -197,7 +197,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 - [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Backgammon & Cribbage](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/) – credits, technical specifications, ratings, game description, platform information

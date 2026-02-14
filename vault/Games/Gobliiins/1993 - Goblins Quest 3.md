@@ -197,7 +197,6 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 - [[1992 - Gobliins 2 - The Prince Buffoon|← Previous: Gobliins 2 - The Prince Buffoon]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|→ Next: The Bizarre Adventures of Woodruff and the Schnibble]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information

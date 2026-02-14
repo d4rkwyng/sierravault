@@ -105,7 +105,6 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 - [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000)
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (2002)
 
-## 
 ## References
 
 [^ref-1]: [Rock Paper Shotgun – Pharaoh A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – gameplay changes, graphics, verdict

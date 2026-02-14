@@ -215,7 +215,6 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 - [[2003 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Card Games](https://gamefaqs.gamespot.com/pc/562385-hoyle-card-games) – developer, release date, user ratings, game features

@@ -230,7 +230,6 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 - **Related:** North-Sea Action (1988) (Clone/variant)
 - [[1983 - Oils Well|← Previous: Oils Well]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Oil's Well (1990)](https://archive.org/details/msdos_Oils_Well_1990) – preservation entry, basic metadata, description

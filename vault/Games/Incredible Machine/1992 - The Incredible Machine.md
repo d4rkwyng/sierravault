@@ -144,7 +144,6 @@ One preservation issue affects the digital versions: "The original release of th
 ## See Also
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – Description of Rube Goldberg device gameplay and physics engine

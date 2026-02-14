@@ -251,7 +251,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [[1990 - Jones in the Fast Lane|← Previous: Jones in the Fast Lane]]
 - [[1993 - Freddy Pharkas - Frontier Pharmacist|→ Next: Freddy Pharkas - Frontier Pharmacist]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, The Games Machine review score, Planetstation Magazine quote

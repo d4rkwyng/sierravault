@@ -217,7 +217,6 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 - [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
 
-## 
 ## References
 
 [^ref-7]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – release date, developer, publisher, UPC

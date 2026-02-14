@@ -106,7 +106,6 @@ The community created extensive modifications and content, including approximate
 - [[1999 - Starsiege|← Previous: Starsiege]]
 - [[2002 - Tribes - Aerial Assault|→ Next: Tribes - Aerial Assault]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship

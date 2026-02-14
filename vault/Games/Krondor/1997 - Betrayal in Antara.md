@@ -118,10 +118,6 @@ The game has found preservation through various digital distribution platforms a
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – - Basic game information and development details

@@ -167,7 +167,6 @@ The game has been preserved and made playable on modern systems through the effo
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Metaltech: Earthsiege](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Developer and publisher information, critical reception

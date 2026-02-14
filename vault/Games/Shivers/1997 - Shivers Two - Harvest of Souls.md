@@ -132,10 +132,6 @@ The soundtrack has maintained a cult following, with fans particularly appreciat
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/12/&lang=en) – - Developer, publisher, platform, and release date information

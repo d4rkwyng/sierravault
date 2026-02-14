@@ -219,7 +219,6 @@ The game is documented in various gaming databases and preservation archives.[^r
 - [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status

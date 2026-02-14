@@ -280,7 +280,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 - [[1988 - King's Quest IV - The Perils of Rosella|← Previous: King's Quest IV - The Perils of Rosella]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|→ Next: Roberta Williams' King's Quest I - Quest for the Crown]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones

@@ -201,7 +201,6 @@ The game's emphasis on character personality through opponents like Marvin the T
 - [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
 - [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, features, technical specifications, description, ratings

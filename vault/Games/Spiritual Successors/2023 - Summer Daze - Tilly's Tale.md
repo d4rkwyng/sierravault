@@ -245,7 +245,6 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 - **Next:** Ifeyo's Adventure (announced)[^ref-7]
 - [[2023 - Colossal Cave 3D Adventure|← Previous: Colossal Cave 3D Adventure]]
 
-## 
 ## References
 
 [^ref-1]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) – release date, developer, publisher, platforms, technical specifications, game description

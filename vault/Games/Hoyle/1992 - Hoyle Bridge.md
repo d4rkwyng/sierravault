@@ -203,7 +203,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 - **Related:** [[1997 - Hoyle Classic Card Games]] (parent compilation)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – credits, ratings, game description, character details

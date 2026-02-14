@@ -118,7 +118,6 @@ The original Xbox 360 XBLA version may no longer be available due to marketplace
 - [[2006 - Gin Rummy]] (Sierra Online Shanghai)
 - [[2008 - Lost Cities]] (Sierra Online Shanghai)
 
-## 
 ## References
 
 [^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) - Primary game information

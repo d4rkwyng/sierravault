@@ -235,7 +235,6 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 - **Related:** [[1994 - Metaltech - Earthsiege]]
 - [[1994 - Metaltech - Earthsiege|→ Next: Metaltech - Earthsiege]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings, media formats, credits

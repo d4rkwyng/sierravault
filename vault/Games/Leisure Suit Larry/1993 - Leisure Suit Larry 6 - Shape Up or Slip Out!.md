@@ -173,7 +173,6 @@ The game remains available through digital distribution platforms, included in t
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|← Previous: Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|→ Next: Leisure Suit Larry 7 - Love for Sail]]
 
-## 
 ## References
 
 [^ref-1]: https://gamesnostalgia.com/game/leisure-suit-larry-6-shape-up-or-slip-out - Gaming nostalgia website noting this is the fifth entry despite being numbered 6

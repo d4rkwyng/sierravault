@@ -232,7 +232,6 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date, engine, car configurations, track count

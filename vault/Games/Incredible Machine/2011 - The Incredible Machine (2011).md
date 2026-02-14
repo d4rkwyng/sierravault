@@ -277,7 +277,6 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 ## See Also
 - [[2001 - The Incredible Machine - Even More Contraptions|← Previous: The Incredible Machine - Even More Contraptions]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – developer, publisher, platforms, awards, ratings, release dates, Easter eggs

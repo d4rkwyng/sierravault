@@ -324,7 +324,6 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [[2000 - No One Lives Forever|← Previous: No One Lives Forever]]
 - [[2003 - Contract J.A.C.K.|→ Next: Contract J.A.C.K.]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – development info, reception scores, awards, release dates

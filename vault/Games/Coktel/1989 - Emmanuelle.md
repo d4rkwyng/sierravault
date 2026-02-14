@@ -243,7 +243,6 @@ Modern players typically approach the game "more out of historical interest than
 - [[1989 - ESS - European Space Simulator|← Previous: ESS - European Space Simulator]]
 - [[1989 - Legend of Djel|→ Next: Legend of Djel]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs

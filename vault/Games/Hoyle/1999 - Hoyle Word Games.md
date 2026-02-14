@@ -195,7 +195,6 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 - [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series information, developer, publisher, release year

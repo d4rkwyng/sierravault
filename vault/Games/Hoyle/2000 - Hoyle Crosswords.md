@@ -141,7 +141,6 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 - [[2000 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – Related Hoyle series information, development team credits

@@ -342,7 +342,6 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 - [[2003 - Homeworld 2|← Previous: Homeworld 2]]
 - [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld - Deserts of Kharak]]
 
-## 
 ## References
 
 [^ref-1]: [2K Games – Homeworld Remastered Collection](https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs

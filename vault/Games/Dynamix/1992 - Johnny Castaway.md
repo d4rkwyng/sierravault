@@ -160,4 +160,3 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 - [[Jeff Tunnell]] – Producer and concept creator
 - [[Dynamix]] – Development studio
 
-## 

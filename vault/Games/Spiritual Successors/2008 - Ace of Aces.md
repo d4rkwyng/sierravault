@@ -175,4 +175,3 @@ The connections run deep:
 - [[1993 - Aces Over Europe|Aces Over Europe]] — WWII European theater flight sim
 - [[Dynamix]] — Sierra subsidiary where Slye created his classic flight sims
 
-## 

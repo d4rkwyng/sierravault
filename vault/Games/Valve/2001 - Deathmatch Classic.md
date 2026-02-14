@@ -251,7 +251,6 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - [[2000 - Ricochet|← Previous: Ricochet]]
 - [[2001 - Half-Life - Blue Shift|→ Next: Half-Life - Blue Shift]]
 
-## 
 ## References
 
 [^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score

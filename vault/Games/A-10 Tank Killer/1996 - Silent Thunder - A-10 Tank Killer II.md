@@ -238,7 +238,6 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 ## See Also
 - **Next:** No direct sequel produced
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Silent_Thunder:_A-10_Tank_Killer_II) – Development credits and team information

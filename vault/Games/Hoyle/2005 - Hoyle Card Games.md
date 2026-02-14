@@ -191,7 +191,6 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 - [[2005 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2005 - Hoyle Casino 3D|→ Next: Hoyle Casino 3D]]
 
-## 
 ## References
 
 [^ref-2]: [IGN – Hoyle Card Games 2005](https://www.ign.com/games/hoyle-card-games-2005) – mobile platforms, publishers, content ratings, game features

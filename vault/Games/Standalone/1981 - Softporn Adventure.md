@@ -223,7 +223,6 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 ## See Also
 - [[1983 - Troll's Tale|→ Next: Troll's Tale]]
 
-## 
 ## References
 
 [^ref-1]: [Al Lowe's Official Website – Downloads](http://www.allowe.com/downloads/games.html) – confirmation as only non-graphic Sierra game, download availability

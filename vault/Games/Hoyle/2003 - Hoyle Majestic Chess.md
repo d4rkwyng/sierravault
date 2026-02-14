@@ -228,7 +228,6 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Majestic Chess](https://www.mobygames.com/game/10294/hoyle-majestic-chess/) – developer, publisher, release date, credits, technical specs, critic scores, user reviews

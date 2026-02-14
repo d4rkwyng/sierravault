@@ -140,7 +140,6 @@ An active fan community has maintained interest in Caesar II through dedicated w
 - [[1992 - Caesar|← Previous: Caesar]]
 - [[1998 - Caesar III|→ Next: Caesar III]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Caesar II](https://en.wikipedia.org/wiki/Caesar_II) – Review scores, awards, sales figures, development history

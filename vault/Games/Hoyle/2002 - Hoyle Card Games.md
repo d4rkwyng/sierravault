@@ -187,7 +187,6 @@ The game's technical conservatism, criticized at release, ironically contributed
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – technical specifications, games included, platform information, Facemaker feature, international games

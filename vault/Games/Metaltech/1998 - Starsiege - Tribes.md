@@ -130,7 +130,6 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - [[1998 - Cyberstorm 2 - Corporate Wars|← Previous: Cyberstorm 2 - Corporate Wars]]
 - [[1999 - Starsiege|→ Next: Starsiege]]
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – - Developer, designer, and basic game information

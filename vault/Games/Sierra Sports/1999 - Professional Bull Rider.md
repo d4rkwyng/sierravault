@@ -206,7 +206,6 @@ The franchise's continued existence through mobile and console titles decades la
 - **Next:** Professional Bull Rider 2 (2000)
 - [[1998 - Sierra Sports Skiing 1999 Edition|← Previous: Sierra Sports Skiing 1999 Edition]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Professional Bull Rider](https://www.mobygames.com/game/58224/professional-bull-rider/) – developer, publisher, credits, ratings, platform information

@@ -107,7 +107,6 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 - [[1995 - The Ruins of Cawdor|← Previous: The Ruins of Cawdor]]
 - [[1996 - Lighthouse - The Dark Being|→ Next: Lighthouse - The Dark Being]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information

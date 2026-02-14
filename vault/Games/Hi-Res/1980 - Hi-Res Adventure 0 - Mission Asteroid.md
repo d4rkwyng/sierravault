@@ -156,10 +156,6 @@ Historical records indicate the game was released in multiple versions, includin
 - [Lutris](https://lutris.net/games/hi-res-adventure-0-mission-asteroid/)
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) - Sierra On-Line Hi-Res Adventures Catalog
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – Hi-Res Adventure series information

@@ -243,7 +243,6 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 - [[2011 - Hoyle Swashbucklin Slots|← Previous: Hoyle Swashbucklin Slots]]
 - [[2016 - Hoyle Casino Games Collection|→ Next: Hoyle Casino Games Collection]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, original Sierra development, franchise origins, trivia about Edmond Hoyle, Computer Gaming World review quotes, sales data, 2019 re-release information

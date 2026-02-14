@@ -252,7 +252,6 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 - [[1996 - Hoyle Blackjack|← Previous: Hoyle Blackjack]]
 - [[1996 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]
 
-## 
 ## References
 
 [^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, initial release

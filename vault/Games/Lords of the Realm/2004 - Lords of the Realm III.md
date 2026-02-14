@@ -121,7 +121,6 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 - **Next:** None (series concluded)
 - [[1997 - Lords of the Realm II - Siege Pack|← Previous: Lords of the Realm II - Siege Pack]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/lords-of-the-realm-3_202204) – - Game overview and release date

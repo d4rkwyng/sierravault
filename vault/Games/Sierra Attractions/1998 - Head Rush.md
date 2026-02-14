@@ -208,7 +208,6 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 - **Next:** You Don't Know Jack: Volume 5 (1999)
 - [[1997 - Eat My Dust|← Previous: Eat My Dust]]
 
-## 
 ## References
 
 [^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia

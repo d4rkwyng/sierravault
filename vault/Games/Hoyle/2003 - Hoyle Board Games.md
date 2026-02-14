@@ -252,7 +252,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
-## 
 ## References
 
 [^ref-1]: [IGN – Hoyle Board Games 2003](https://www.ign.com/games/hoyle-board-games-2003) – release date, developer, publisher, game description

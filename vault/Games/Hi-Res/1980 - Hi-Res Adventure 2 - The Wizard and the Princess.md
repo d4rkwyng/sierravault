@@ -158,7 +158,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - [[1980 - Hi-Res Adventure 1 - Mystery House|← Previous: Hi-Res Adventure 1 - Mystery House]]
 - [[1980 - Hi-Res Cribbage|→ Next: Hi-Res Cribbage]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Wizard and the Princess](https://en.wikipedia.org/wiki/Wizard_and_the_Princess) – Comprehensive article on development and release

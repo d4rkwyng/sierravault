@@ -226,7 +226,6 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) – developer, publisher, designers, credits, platforms, ratings, game modes, features, technical specs, multiplayer support, educational topics

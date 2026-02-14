@@ -267,7 +267,6 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 - [[1981 - Crossfire|← Previous: Crossfire]]
 - [[1981 - Gobbler|→ Next: Gobbler]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Frogger](https://en.wikipedia.org/wiki/Frogger) – release dates, sales data, awards, gameplay mechanics, cultural impact

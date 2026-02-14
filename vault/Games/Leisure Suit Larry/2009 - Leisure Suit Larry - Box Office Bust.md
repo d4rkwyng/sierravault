@@ -128,7 +128,6 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|← Previous: Leisure Suit Larry - Magna Cum Laude]]
 - [[2013 - Leisure Suit Larry - Reloaded|→ Next: Leisure Suit Larry - Reloaded]]
 
-## 
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Box+Office+Bust - Search results page, no specific game information found

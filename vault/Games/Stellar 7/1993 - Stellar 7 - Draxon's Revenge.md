@@ -196,7 +196,6 @@ The game's design choices, including the significantly higher difficulty with on
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Stellar 7: Draxon's Revenge](https://en.wikipedia.org/wiki/Stellar_7:_Draxon%27s_Revenge) – release dates, plot, gameplay details, Michael Dorn narration, review scores

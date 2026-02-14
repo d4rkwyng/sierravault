@@ -129,7 +129,6 @@ The game achieved commercial success despite mixed critical reception, with the 
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|← Previous: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|→ Next: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 
-## 
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2025/09/18/ill-review-anything-leisure-suit-larry-5/) – - Release year and series information

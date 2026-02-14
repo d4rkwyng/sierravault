@@ -213,7 +213,6 @@ While More After Dark never received the critical attention afforded to traditio
 - [[1989 - After Dark|← Previous: After Dark]]
 - [[1998 - After Dark Games|→ Next: After Dark Games]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – After Dark 2](https://archive.org/details/AfterDark2) – description of After Dark as software that kicked off screensaver craze, version 2.0 information

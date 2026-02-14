@@ -237,7 +237,6 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 - [[1989 - Asterix - Operation Getafix|← Previous: Asterix - Operation Getafix]]
 - [[1989 - Emmanuelle|→ Next: Emmanuelle]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description

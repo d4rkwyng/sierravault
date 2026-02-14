@@ -210,7 +210,6 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 - [[1992 - Air Bucks|← Previous: Air Bucks]]
 - [[1992 - Conquest of Japan|→ Next: Conquest of Japan]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Air Force Commander](https://www.mobygames.com/game/1988/air-force-commander/) – credits, ratings, technical specs, manual information, scenario details

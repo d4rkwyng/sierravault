@@ -231,7 +231,6 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 ## See Also
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, release date, platform, skiing variants, World Cup slopes, ratings, technical specifications

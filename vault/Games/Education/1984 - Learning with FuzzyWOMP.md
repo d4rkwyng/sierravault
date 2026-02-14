@@ -188,7 +188,6 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 - [[1983 - Learning with Leeper|← Previous: Learning with Leeper]]
 - [[1984 - Wizard of Id's WizMath|→ Next: Wizard of Id's WizMath]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Learning with FuzzyWOMP](https://en.wikipedia.org/wiki/Learning_with_FuzzyWOMP) – release date, platform, designers, publisher, awards, price, educational content descriptions, development notes, Creative Computing coverage, wordless design, relationship to Learning with Leeper

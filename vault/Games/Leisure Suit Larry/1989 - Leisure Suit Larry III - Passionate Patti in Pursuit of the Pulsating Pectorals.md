@@ -140,7 +140,6 @@ Modern digital preservation efforts have made the game available through various
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|← Previous: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|→ Next: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Release date and basic information

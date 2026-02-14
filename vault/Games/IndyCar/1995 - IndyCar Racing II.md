@@ -148,7 +148,6 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 - [[1993 - IndyCar Racing|← Previous: IndyCar Racing]]
 - [[1997 - CART Racing|→ Next: CART Racing]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - IndyCar Racing II](https://en.wikipedia.org/wiki/IndyCar_Racing_II) – - Basic game information, developer, publisher

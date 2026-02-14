@@ -187,7 +187,6 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 - [[1995 - Front Page Sports - Football Pro '96|← Previous: Front Page Sports - Football Pro '96]]
 - [[1996 - Front Page Sports - Football Pro '97|→ Next: Front Page Sports - Football Pro '97]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Baseball Pro '96 Season](https://www.mobygames.com/game/25681/front-page-sports-baseball-pro-96-season/) – developer, publisher, designers, ratings, game description

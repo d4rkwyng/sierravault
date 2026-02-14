@@ -158,7 +158,6 @@ The game's environmental message has proven timeless, with its themes of marine 
 ## See Also
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus

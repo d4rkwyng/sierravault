@@ -250,7 +250,6 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 - [[2022 - SpaceVenture|← Previous: SpaceVenture]]
 - [[2023 - Summer Daze - Tilly's Tale|→ Next: Summer Daze - Tilly's Tale]]
 
-## 
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes

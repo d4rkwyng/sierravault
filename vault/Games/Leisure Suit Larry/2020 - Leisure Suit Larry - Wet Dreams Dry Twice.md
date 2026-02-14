@@ -132,7 +132,6 @@ The game also holds historical significance as Jan Rabson's final portrayal of L
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|← Previous: Leisure Suit Larry - Wet Dreams Don't Dry]]
 
-## 
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Dry+Twice) – - Search results page

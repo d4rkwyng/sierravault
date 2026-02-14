@@ -218,7 +218,6 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 - [[1994 - Front Lines|← Previous: Front Lines]]
 - [[1995 - Casino De Luxe|→ Next: Casino De Luxe]]
 
-## 
 ## References
 
 [^ref-2]: [MobyGames – Breach 3](https://www.mobygames.com/game/4263/breach-3/) – gameplay description, platform, release year, perspective details

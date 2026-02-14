@@ -129,10 +129,6 @@ The game's educational approach, incorporating "Gardner's theory of multiple int
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Release date and developer information

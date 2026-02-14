@@ -262,7 +262,6 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [[1986 - King's Quest III - To Heir Is Human|← Previous: King's Quest III - To Heir Is Human]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|→ Next: King's Quest V - Absence Makes the Heart Go Yonder]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers - King's Quest IV](https://adventuregamers.com/games/kings-quest-iv-the-perils-of-rosella) – - Review score (3.5/5), groundbreaking firsts, editorial verdict

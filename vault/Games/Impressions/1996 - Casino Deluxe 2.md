@@ -202,7 +202,6 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 - [[1995 - Powerhouse|← Previous: Powerhouse]]
 - [[2002 - Emperor - Rise of the Middle Kingdom|→ Next: Emperor - Rise of the Middle Kingdom]]
 
-## 
 ## References
 
 [^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform

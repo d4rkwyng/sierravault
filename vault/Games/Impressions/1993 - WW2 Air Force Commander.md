@@ -216,7 +216,6 @@ The game's historical significance lies primarily in documenting the evolution o
 - [[1993 - Cohort II - Fighting for Rome|← Previous: Cohort II - Fighting for Rome]]
 - [[1994 - Detroit|→ Next: Detroit]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – WW2 Air Force Commander](https://www.mobygames.com/game/422/ww2-air-force-commander/) – release dates, platforms, designers, publisher, ratings, technical specs

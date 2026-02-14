@@ -207,7 +207,6 @@ The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^
 - [[2001 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2002 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Word Games 2001 Reviews](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/reviews) – release date, developer, publisher, GameSpot score

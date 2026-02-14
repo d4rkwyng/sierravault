@@ -213,7 +213,6 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 - [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Hoyle Official Book of Games - Volume 1]]
 - [[1991 - Hoyle Official Book of Games - Volume 3|→ Next: Hoyle Official Book of Games - Volume 3]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, platforms, ratings, game content, development team

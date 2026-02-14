@@ -264,7 +264,6 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 - **Next:** Empire Earth II (2005)
 - [[2001 - Empire Earth|← Previous: Empire Earth]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Empire Earth: The Art of Conquest](https://en.wikipedia.org/wiki/Empire_Earth%3A_The_Art_of_Conquest) – development history, release dates, sales data, reception, developer transfer information

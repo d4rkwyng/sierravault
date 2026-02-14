@@ -216,7 +216,6 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 ## See Also
 - **Next:** No announced sequels
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/43121/thexder-neo/) – Developer and designer information

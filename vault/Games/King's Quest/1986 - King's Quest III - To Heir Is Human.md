@@ -238,7 +238,6 @@ However, the game also exemplifies the design philosophy that would eventually f
 - [[1985 - King's Quest II - Romancing the Throne|← Previous: King's Quest II - Romancing the Throne]]
 - [[1988 - King's Quest IV - The Perils of Rosella|→ Next: King's Quest IV - The Perils of Rosella]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history

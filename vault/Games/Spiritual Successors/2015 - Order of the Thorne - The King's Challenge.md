@@ -248,7 +248,6 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 - [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|← Previous: Cluck Yegger in Escape From The Planet of The Poultroid]]
 - [[2018 - Hero-U - Rogue to Redemption|→ Next: Hero-U - Rogue to Redemption]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/88993/order-of-the-thorne-the-kings-challenge/) – Basic game information and critic aggregate

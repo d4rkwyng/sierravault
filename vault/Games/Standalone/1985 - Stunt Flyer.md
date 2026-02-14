@@ -188,7 +188,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [[1985 - Sierra Championship Boxing|← Previous: Sierra Championship Boxing]]
 - [[1985 - The Crimson Crown|→ Next: The Crimson Crown]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Stunt Flyer](https://www.mobygames.com/game/122956/stunt-flyer/) – release date, developer, publisher, platforms, technical specifications, game description

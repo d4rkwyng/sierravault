@@ -117,7 +117,6 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 - [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
 - [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – - Developer, designer, and basic game information

@@ -223,7 +223,6 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 - [[1982 - Cannonball Blitz|← Previous: Cannonball Blitz]]
 - [[1982 - Dragon's Keep|→ Next: Dragon's Keep]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price

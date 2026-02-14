@@ -234,7 +234,6 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 - [[1996 - Front Page Sports - Football Pro '97|← Previous: Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Football Pro '98|→ Next: Front Page Sports - Football Pro '98]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – release date, developer, publisher, platform, GameRankings score

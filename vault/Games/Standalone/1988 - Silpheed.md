@@ -258,7 +258,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 - ← Previous: Laser Surgeon - The Microscopic Mission
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|→ Next: Tank - The M1A1 Abrams Battle Tank Simulation]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Silpheed](https://en.wikipedia.org/wiki/Silpheed) – release dates, platform history, review scores, awards, development credits

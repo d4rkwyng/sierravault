@@ -254,7 +254,6 @@ The game is preserved through abandonware archives, though it faces compatibilit
 - [[1995 - Trophy Bass|← Previous: Trophy Bass]]
 - [[1999 - Field & Stream - Trophy Bass 3D|→ Next: Field & Stream - Trophy Bass 3D]]
 
-## 
 ## References
 
 [^ref-1]: [SierraChest](https://sierrachest.com/index.php?a=games&id=309&title=trophy-bass-2&fld=general) – Basic release and development information

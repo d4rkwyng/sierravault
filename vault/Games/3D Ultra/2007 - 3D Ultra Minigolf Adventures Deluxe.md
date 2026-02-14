@@ -207,7 +207,6 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 - [[2006 - 3D Ultra MiniGolf Adventures|← Previous: 3D Ultra MiniGolf Adventures]]
 - [[2010 - 3-D Ultra MiniGolf Adventures 2|→ Next: 3-D Ultra MiniGolf Adventures 2]]
 
-## 
 ## References
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details

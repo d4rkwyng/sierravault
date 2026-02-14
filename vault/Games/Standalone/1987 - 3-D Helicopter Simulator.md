@@ -208,7 +208,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 - [[1986 - Wrath of Denethenor|← Previous: Wrath of Denethenor]]
 - → Next: Laser Surgeon - The Microscopic Mission
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Sierra's 3-D Helicopter Simulator](https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/) – development credits, release date, technical specifications, multiplayer features, MobyGames rating

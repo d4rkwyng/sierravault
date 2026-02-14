@@ -214,7 +214,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 ## See Also
 - **Related:** [[1997 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [Trieagle664 Archive](https://trieagle664.weebly.com/sierra-hoyle-classic-board-games.html) - Game origin story and designer information

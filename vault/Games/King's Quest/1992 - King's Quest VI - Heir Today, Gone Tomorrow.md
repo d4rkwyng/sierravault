@@ -336,7 +336,6 @@ This game has been included in[^ref-20][^ref-21]:
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|← Previous: Roberta Williams' King's Quest I - Quest for the Crown]]
 - [[1994 - King's Quest VII - The Princeless Bride|→ Next: King's Quest VII - The Princeless Bride]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict

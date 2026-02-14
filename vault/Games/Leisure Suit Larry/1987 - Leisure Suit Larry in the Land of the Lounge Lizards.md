@@ -174,7 +174,6 @@ Academic analysis has also examined the series' cultural significance, with the 
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|→ Next: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 
-## 
 ## References
 
 [^ref-1]: [Al Lowe Website - Softporn History](http://www.allowe.com/Larry/softporn.htm) – - Development history and behind-the-scenes information

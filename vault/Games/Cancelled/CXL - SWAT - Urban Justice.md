@@ -201,7 +201,6 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 ## See Also
 - **Cancelled, replaced by:** [[2005 - SWAT 4]]
 
-## 
 ## References
 
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline

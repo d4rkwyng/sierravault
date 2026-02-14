@@ -207,7 +207,6 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 - [[1995 - The Incredible Machine 3.0|← Previous: The Incredible Machine 3.0]]
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Arthur to Astaroth no Nazo Makaimura: Incredible Toons](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/) – developer, publisher, release dates, technical specs, ratings, trivia

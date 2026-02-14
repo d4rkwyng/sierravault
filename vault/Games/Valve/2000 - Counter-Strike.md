@@ -300,7 +300,6 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 - [[1999 - Team Fortress Classic|← Previous: Team Fortress Classic]]
 - [[2000 - Gunman Chronicles|→ Next: Gunman Chronicles]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) – development history, version info, gameplay mechanics

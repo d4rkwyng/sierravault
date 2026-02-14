@@ -211,7 +211,6 @@ Modern players can run the Windows version through compatibility modes, though s
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|← Previous: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 - [[2006 - 3D Ultra MiniGolf Adventures|→ Next: 3D Ultra MiniGolf Adventures]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details

@@ -222,10 +222,6 @@ The emphasis on economic management and population welfare set Lords of the Real
 
 Today, Lords of the Realm is recognized as a foundational title that helped define the medieval strategy genre. Its influence can be seen in numerous subsequent games, from Stronghold to Medieval: Total War, all of which built upon the template established by David Lester and his team at Impressions Games.[^ref-31]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Lords of the Realm (DOS)](https://archive.org/details/msdos_Lords_of_the_Realm_1994) – release date, game description, gameplay mechanics

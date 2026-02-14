@@ -277,7 +277,6 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 ## See Also
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
 
-## 
 ## References
 
 [^ref-1]: [Grokipedia – Outpost (1994 video game)](https://grokipedia.com/page/Outpost_(1994_video_game)) – comprehensive development history, reception, sales data, patch information

@@ -123,7 +123,6 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 - [[2006 - Gin Rummy]] (Sierra Online Shanghai)
 - [[2007 - Carcassonne]] (Sierra Online Seattle)
 
-## 
 ## References
 
 [^ref-1]: [Lost Cities (video game) - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities_(video_game)) - Primary game information

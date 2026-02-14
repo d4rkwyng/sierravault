@@ -209,7 +209,6 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [[1985 - Stunt Flyer|← Previous: Stunt Flyer]]
 - [[1986 - Kempelen|→ Next: Kempelen]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Crimson Crown](https://www.mobygames.com/game/86/the-crimson-crown/) – developer, publisher, designer, engine, platforms, release dates, ratings, technical specifications

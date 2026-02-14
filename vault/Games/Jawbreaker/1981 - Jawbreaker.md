@@ -214,7 +214,6 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 ## See Also
 - [[1982 - Jawbreaker II|→ Next: Jawbreaker II]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Jawbreaker Apple II](https://archive.org/details/wozaday_Jawbreaker) – developer, publisher, system requirements, release date

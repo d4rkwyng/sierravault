@@ -263,7 +263,6 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 - [[2018 - Hero-U - Rogue to Redemption|← Previous: Hero-U - Rogue to Redemption]]
 - [[2022 - SpaceVenture|→ Next: SpaceVenture]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) – release dates, developer/publisher credits, engine, platforms, critics average

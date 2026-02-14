@@ -226,10 +226,6 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 - [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh)
 - [Classic Reload – Browser Version](https://classicreload.com/hoyle-solitaire.html)
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-5]: [Internet Archive – Hoyle Solitaire (Windows 3.x)](https://archive.org/details/win3_HoyleSol) – release dates, developer, publisher, platforms, technical specifications, trivia

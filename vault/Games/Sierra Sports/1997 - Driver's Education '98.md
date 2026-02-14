@@ -276,7 +276,6 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 ## See Also
 - [[1998 - Grand Prix Legends|→ Next: Grand Prix Legends]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – development credits, technical specifications, genre classification

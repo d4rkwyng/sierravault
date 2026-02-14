@@ -176,7 +176,6 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [[1996 - Birthright - The Gorgon's Alliance|← Previous: Birthright - The Gorgon's Alliance]]
 - [[1996 - The Rise & Rule of Ancient Empires|→ Next: The Rise & Rule of Ancient Empires]]
 
-## 
 ## References
 
 [^ref-1]: [eBay Listing](https://www.ebay.com/itm/267099826308) – Game objective description

@@ -195,7 +195,6 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 ## See Also
 - **Next:** No direct sequels produced
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information

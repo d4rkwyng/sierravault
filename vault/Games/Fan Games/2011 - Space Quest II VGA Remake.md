@@ -206,7 +206,6 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 - [[2011 - Space Quest - Vohaul Strikes Back|← Previous: Space Quest - Vohaul Strikes Back]]
 - [[2012 - Space Quest - Incinerations|→ Next: Space Quest - Incinerations]]
 
-## 
 ## References
 
 [^ref-1]: [Game Essence – Space Quest II VGA Remake](https://www.gamessence.net/space-quest-ii-vga-remake-by-infamous-adventures/) – Developer identification, original creators, game description

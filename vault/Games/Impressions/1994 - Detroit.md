@@ -224,7 +224,6 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 - [[1993 - WW2 Air Force Commander|← Previous: WW2 Air Force Commander]]
 - [[1994 - Front Lines|→ Next: Front Lines]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Detroit](https://www.mobygames.com/game/2694/detroit/) – credits, ratings, technical specifications, awards, trivia

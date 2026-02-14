@@ -180,7 +180,6 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 - [[1980 - Hi-Res Soccer|← Previous: Hi-Res Soccer]]
 - [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|→ Next: Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information

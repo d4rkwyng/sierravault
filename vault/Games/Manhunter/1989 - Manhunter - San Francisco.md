@@ -222,7 +222,6 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 - **Next:** Manhunter 3: London (Cancelled)
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
 
-## 
 ## References
 
 [^ref-15]: [Wikipedia – Manhunter 2: San Francisco](https://en.wikipedia.org/wiki/Manhunter_2:_San_Francisco) – developer, publisher, designers, platforms, release dates

@@ -223,7 +223,6 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 - [[1994 - The Incredible Toon Machine|← Previous: The Incredible Toon Machine]]
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|→ Next: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine Search Results](https://www.mobygames.com/search/?q=The+Incredible+Machine+3.0) – release dates, platforms, version information

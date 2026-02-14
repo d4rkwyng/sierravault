@@ -115,7 +115,6 @@ An amusing piece of trivia emerged years after release when someone successfully
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – - Development credits and technical details

@@ -273,7 +273,6 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 - [[2005 - SWAT 4|← Previous: SWAT 4]]
 - [[2006 - SWAT Force|→ Next: SWAT Force]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – release dates, developer, publisher, engine information

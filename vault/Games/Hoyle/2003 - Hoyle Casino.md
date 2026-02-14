@@ -213,7 +213,6 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 - [[2003 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2003 - Hoyle Majestic Chess|→ Next: Hoyle Majestic Chess]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/245729/hoyle-casino/) – release date, developer, publisher, platforms, media format

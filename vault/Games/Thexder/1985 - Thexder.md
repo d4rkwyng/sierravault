@@ -124,7 +124,6 @@ The game's influence on the action genre is evident in how it "paved the way for
 ## See Also
 - [[1989 - Fire Hawk - Thexder - The Second Contact|→ Next: Fire Hawk - Thexder - The Second Contact]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) – - Developer and publisher information

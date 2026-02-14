@@ -147,7 +147,6 @@ The game's satirical take on the American Dream resonates differently in differe
 - [[1990 - Codename - Iceman|← Previous: Codename - Iceman]]
 - [[1990 - Zeliard|→ Next: Zeliard]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Basic game information and release details

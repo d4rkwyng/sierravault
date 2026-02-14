@@ -205,7 +205,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - [[2010 - Gray Matter|← Previous: Gray Matter]]
 - [[2013 - Fester Mudd - Curse of the Gold|→ Next: Fester Mudd - Curse of the Gold]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) - Basic game information, second season speculation

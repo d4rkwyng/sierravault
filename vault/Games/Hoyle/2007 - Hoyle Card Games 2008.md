@@ -217,7 +217,6 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac release details, technical specifications, Easter eggs, user-reported issues

@@ -270,7 +270,6 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 ## See Also
 - **Next:** Pharaoh: A New Era (2023 remake)
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Developer and publisher information

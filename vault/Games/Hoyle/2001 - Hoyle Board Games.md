@@ -235,7 +235,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|← Previous: Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms

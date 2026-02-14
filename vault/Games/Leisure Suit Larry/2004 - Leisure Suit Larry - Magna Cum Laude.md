@@ -318,7 +318,6 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail]]
 - [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information

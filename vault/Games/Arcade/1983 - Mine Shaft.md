@@ -177,7 +177,6 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [[1983 - Aquatron|← Previous: Aquatron]]
 - [[1983 - Mr. Cool|→ Next: Mr. Cool]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits

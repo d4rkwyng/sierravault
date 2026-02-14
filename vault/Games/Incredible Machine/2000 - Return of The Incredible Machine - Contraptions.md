@@ -132,7 +132,6 @@ The community around The Incredible Machine remains active decades after release
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|← Previous: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 - [[2001 - The Incredible Machine - Even More Contraptions|→ Next: The Incredible Machine - Even More Contraptions]]
 
-## 
 ## References
 
 [^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap

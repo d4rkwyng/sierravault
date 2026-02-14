@@ -138,7 +138,6 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [[1995 - Torin's Passage|← Previous: Torin's Passage]]
 - [[1996 - Stay Tooned!|→ Next: Stay Tooned!]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits

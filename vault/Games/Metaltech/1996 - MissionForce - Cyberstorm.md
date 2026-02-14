@@ -134,7 +134,6 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 - [[1996 - Earthsiege 2|← Previous: Earthsiege 2]]
 - [[1998 - Cyberstorm 2 - Corporate Wars|→ Next: Cyberstorm 2 - Corporate Wars]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - MissionForce: CyberStorm](https://en.wikipedia.org/wiki/MissionForce:_CyberStorm) – - Release date and developer information

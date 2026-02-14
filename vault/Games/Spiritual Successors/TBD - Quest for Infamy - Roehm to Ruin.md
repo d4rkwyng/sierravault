@@ -175,10 +175,6 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 - [Quest for Infamy on GOG](https://www.gog.com/game/quest_for_infamy)[^ref-10]
 - [Quest for Infamy on Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)[^ref-12]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers – Quest for Infamy Series](https://adventuregamers.com/gameseries/quest_for_infamy) – series overview, prequel description, plot summary

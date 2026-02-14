@@ -183,7 +183,6 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 ## See Also
 - [[1993 - Take a Break! Pinball|→ Next: Take a Break! Pinball]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details

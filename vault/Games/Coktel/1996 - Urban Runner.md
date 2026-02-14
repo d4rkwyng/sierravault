@@ -217,7 +217,6 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 ## See Also
 - [[1995 - The Last Dynasty|← Previous: The Last Dynasty]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details

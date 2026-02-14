@@ -192,7 +192,6 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 - [[1984 - Wizard of Id's WizType|← Previous: Wizard of Id's WizType]]
 - [[1993 - Kids' Typing|→ Next: Kids' Typing]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – gameplay description, developer, publisher, platforms, genre, perspective, interface, credits count, series information, educational mechanics

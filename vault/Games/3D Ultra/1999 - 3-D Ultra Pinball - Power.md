@@ -211,7 +211,6 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 - [[1999 - 3-D Ultra Lionel TrainTown|← Previous: 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
 
-## 
 ## References
 
 [^ref-1]: [Gamepressure – 3D Ultra Pinball Power](https://www.gamepressure.com/games/3d-ultra-pinball-power/z81052) – release date, developers, system requirements, included games, thematic descriptions

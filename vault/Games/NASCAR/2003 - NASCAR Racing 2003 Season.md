@@ -302,7 +302,6 @@ The game's influence extends beyond nostalgia. Its netcode and replay systems be
 ## See Also
 - [[2002 - NASCAR Racing 2002 Season|← Previous: NASCAR Racing 2002 Season]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season) – release dates, reviews, sales data, awards, development history

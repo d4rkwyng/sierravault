@@ -189,7 +189,6 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 - [[1993 - Gabriel Knight - Sins of the Fathers|← Previous: Gabriel Knight - Sins of the Fathers]]
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|→ Next: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
-## 
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results

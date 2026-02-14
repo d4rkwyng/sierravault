@@ -186,7 +186,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [[2006 - King's Quest III Remake (Infamous Adventures)|← Previous: King's Quest III Remake (Infamous Adventures)]]
 - [[2010 - The Silver Lining|→ Next: The Silver Lining]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating

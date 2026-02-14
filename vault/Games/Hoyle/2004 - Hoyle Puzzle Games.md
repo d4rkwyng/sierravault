@@ -218,7 +218,6 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 - [[2004 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Table Games|→ Next: Hoyle Table Games]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Puzzle Games 2004](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004) – release date, developer, publisher, user ratings, game description

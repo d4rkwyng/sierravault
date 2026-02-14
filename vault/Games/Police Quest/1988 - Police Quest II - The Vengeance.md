@@ -262,7 +262,6 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 - [[1987 - Police Quest - In Pursuit of the Death Angel|← Previous: Police Quest - In Pursuit of the Death Angel]]
 - [[1991 - Police Quest III - The Kindred|→ Next: Police Quest III - The Kindred]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details

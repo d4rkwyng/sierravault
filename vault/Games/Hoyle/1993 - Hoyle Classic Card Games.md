@@ -148,7 +148,6 @@ The series continued with multiple sequels and iterations, eventually transition
 - [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
 - [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
 
-## 
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information

@@ -181,7 +181,6 @@ This game is not available on GOG[^ref-7].
 - [[King's Quest Series]] - Series overview
 - [[1998 - King's Quest - Mask of Eternity|← Previous: King's Quest - Mask of Eternity]]
 
-## 
 ## References
 [^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception
 [^ref-2]: [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical specs, engine information

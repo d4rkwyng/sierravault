@@ -250,7 +250,6 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 - [[1998 - PGA Championship Golf|← Previous: PGA Championship Golf]]
 - [[2000 - PGA Championship Golf 2000|→ Next: PGA Championship Golf 2000]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – PGA Championship Golf](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – release dates, ratings, developer info, features, reviews

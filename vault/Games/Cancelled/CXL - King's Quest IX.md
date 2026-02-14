@@ -215,10 +215,6 @@ Much of what is known about these cancelled projects comes from fan community ef
 - [King's Quest Omnipedia – KQ9 History](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) - Comprehensive documentation of cancelled projects[^ref-1]
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Complete classic series (KQ1-8)[^ref-11]
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – comprehensive history of all KQ9 attempts, Roberta Williams concepts, marketing decisions, 2015 reboot context

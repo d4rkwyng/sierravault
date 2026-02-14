@@ -303,7 +303,6 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 - **Next:** World in Conflict: Soviet Assault (2009) - Expansion pack
 - [[2001 - Arcanum|← Previous: Arcanum]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info

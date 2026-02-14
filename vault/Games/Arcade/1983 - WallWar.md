@@ -203,7 +203,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 ## See Also
 - [[1983 - Sammy Lightfoot|← Previous: Sammy Lightfoot]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Wallwar](https://www.mobygames.com/game/122898/wallwar/) – publisher, platform, release date, technical specifications, player count, input devices

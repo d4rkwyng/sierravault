@@ -222,7 +222,6 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 - [[1992 - Bargon Attack|← Previous: Bargon Attack]]
 - [[1993 - Lost in Time|→ Next: Lost in Time]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications

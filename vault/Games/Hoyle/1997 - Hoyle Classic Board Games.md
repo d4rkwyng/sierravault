@@ -216,7 +216,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 - [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
 
-## 
 ## References
 
 [^ref-1]: [Trieagle664 Archive](https://trieagle664.weebly.com/sierra-hoyle-classic-board-games.html) - Game origin story and designer information

@@ -137,7 +137,6 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 - [[2013 - Fester Mudd - Curse of the Gold|← Previous: Fester Mudd - Curse of the Gold]]
 - [[2014 - Quest for Infamy|→ Next: Quest for Infamy]]
 
-## 
 ## References
 
 [^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information

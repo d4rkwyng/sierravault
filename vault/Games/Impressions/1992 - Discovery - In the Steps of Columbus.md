@@ -218,7 +218,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 - [[1992 - Conquest of Japan|← Previous: Conquest of Japan]]
 - [[1993 - Cohort II - Fighting for Rome|→ Next: Cohort II - Fighting for Rome]]
 
-## 
 ## References
 
 [^ref-4]: [Consolidated Research Data](N/A) – Game description, thematic details, gameplay overview

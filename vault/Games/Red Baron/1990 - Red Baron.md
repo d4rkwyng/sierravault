@@ -251,7 +251,6 @@ Red Baron also represented an important step in the maturation of flight simulat
 ## See Also
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
 
-## 
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards

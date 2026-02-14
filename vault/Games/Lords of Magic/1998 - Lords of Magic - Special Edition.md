@@ -302,7 +302,6 @@ The game's ongoing availability on modern digital platforms and the active moddi
 - **Next:** None (final entry in series)
 - [[1997 - Lords of Magic|← Previous: Lords of Magic]]
 
-## 
 ## References
 
 [^ref-1]: [Amazon – Lords of Magic Special Edition](https://www.amazon.com/Lords-Magic-Special-Jewel-Case-pc/dp/B00001NFS5) – product description, developer, publisher, game features

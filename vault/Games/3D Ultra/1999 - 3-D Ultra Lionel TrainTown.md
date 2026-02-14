@@ -216,7 +216,6 @@ In retrospect, the game represents an interesting moment in edutainment history�
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – release dates, developer, publisher, awards, game features, locomotives

@@ -266,7 +266,6 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 - [[1988 - Police Quest II - The Vengeance|← Previous: Police Quest II - The Vengeance]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|→ Next: Police Quest - In Pursuit of the Death Angel VGA]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation

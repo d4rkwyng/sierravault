@@ -228,7 +228,6 @@ The series would continue under different developers, with Knowledge Adventure e
 - [[1991 - Castle of Dr. Brain|← Previous: Castle of Dr. Brain]]
 - [[1995 - The Lost Mind of Dr. Brain|→ Next: The Lost Mind of Dr. Brain]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – The Island of Dr. Brain](https://en.wikipedia.org/wiki/The_Island_of_Dr._Brain) – release date, developer, publisher, reception, series history

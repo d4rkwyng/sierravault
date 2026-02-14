@@ -256,7 +256,6 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 - **Series Origin:** [[1996 - Hoyle Casino]]
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer timeline, sales data, technical issues, spin-offs

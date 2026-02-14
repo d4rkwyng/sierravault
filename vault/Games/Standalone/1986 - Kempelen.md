@@ -245,7 +245,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [[1985 - The Crimson Crown|← Previous: The Crimson Crown]]
 - [[1986 - Wrath of Denethenor|→ Next: Wrath of Denethenor]]
 
-## 
 ## References
 
 [^ref-1]: [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – developer credits, tournament history, platforms, naming origin, development collaboration

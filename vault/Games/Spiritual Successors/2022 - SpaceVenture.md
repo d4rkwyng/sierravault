@@ -151,7 +151,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 - [[2019 - Mage's Initiation - Reign of the Elements|← Previous: Mage's Initiation - Reign of the Elements]]
 - [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information

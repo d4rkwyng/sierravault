@@ -225,7 +225,6 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 ## See Also
 - [[1998 - Ultimate Soccer Manager 98|← Previous: Ultimate Soccer Manager 98]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Ultimate Soccer Manager 98-99](https://archive.org/details/ultimate-soccer-manager-98-99) – game metadata, features, archive information

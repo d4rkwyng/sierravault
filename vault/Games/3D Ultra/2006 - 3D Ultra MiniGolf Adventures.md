@@ -213,7 +213,6 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 - [[2000 - Maximum Pool|← Previous: Maximum Pool]]
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|→ Next: 3D Ultra Minigolf Adventures Deluxe]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – release dates, developer, publisher, gameplay mechanics, course editor features

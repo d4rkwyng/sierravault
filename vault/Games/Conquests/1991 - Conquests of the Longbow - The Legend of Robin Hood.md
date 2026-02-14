@@ -280,7 +280,6 @@ The game's focus on historical accuracy and cultural research also distinguishes
 ## See Also
 - [[1990 - Conquests of Camelot - The Search for the Grail|← Previous: Conquests of Camelot - The Search for the Grail]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) – release dates, platforms, awards, design details, bibliography, British English usage

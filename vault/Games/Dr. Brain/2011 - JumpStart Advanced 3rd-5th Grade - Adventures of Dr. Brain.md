@@ -203,7 +203,6 @@ This transition mirrors broader trends in the educational software market of the
 
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
 
-## 
 ## References
 
 [^ref-1]: [Softonic – JumpStart Advanced 3rd-5th Grade Adventures of Dr. Brain](https://jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.en.softonic.com/mac) – rating, description, system requirements

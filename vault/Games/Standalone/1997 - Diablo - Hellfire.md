@@ -253,7 +253,6 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - [[1996 - Stay Tooned!|← Previous: Stay Tooned!]]
 - [[2001 - Arcanum|→ Next: Arcanum]]
 
-## 
 ## References
 
 [^ref-1]: [Computer Hope – Hellfire](https://www.computerhope.com/games/games/hellfire.htm) – Release date, developer, publisher, system requirements, expansion features, Na-Krul description

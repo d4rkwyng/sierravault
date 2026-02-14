@@ -257,7 +257,6 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 - [[1990 - Red Baron|← Previous: Red Baron]]
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
 
-## 
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits

@@ -243,7 +243,6 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 - [[1995 - Breach 3|← Previous: Breach 3]]
 - [[1995 - Conqueror - A.D. 1086|→ Next: Conqueror - A.D. 1086]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Casino De Luxe](https://archive.org/details/casino-de-luxe) – CD-ROM preservation, technical specifications, game features, MobyGames-sourced metadata

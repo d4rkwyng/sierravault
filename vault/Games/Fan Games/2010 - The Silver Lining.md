@@ -183,7 +183,6 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 - [[2008 - Quest for Glory II VGA Remake|← Previous: Quest for Glory II VGA Remake]]
 - [[2011 - King's Quest III Redux - To Heir is Human|→ Next: King's Quest III Redux - To Heir is Human]]
 
-## 
 ## References
 
 [^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details

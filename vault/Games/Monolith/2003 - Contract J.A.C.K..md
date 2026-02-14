@@ -306,7 +306,6 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - **Next:** None (final entry in series)
 - [[2002 - No One Lives Forever 2|← Previous: No One Lives Forever 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Contract J.A.C.K.](https://en.wikipedia.org/wiki/Contract_J.A.C.K.) – developer, publisher, designer, engine, release dates, review scores

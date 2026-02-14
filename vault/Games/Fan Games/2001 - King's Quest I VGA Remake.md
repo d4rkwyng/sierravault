@@ -311,7 +311,6 @@ The team's approach of receiving official licensing before distribution set an i
 
 - [[2001 - Space Quest - The Lost Chapter|→ Next: Space Quest - The Lost Chapter]]
 
-## 
 ## References
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications

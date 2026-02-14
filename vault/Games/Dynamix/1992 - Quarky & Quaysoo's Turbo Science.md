@@ -223,7 +223,6 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [[1991 - The Adventures of Willy Beamish|← Previous: The Adventures of Willy Beamish]]
 - [[1994 - Bouncers|→ Next: Bouncers]]
 
-## 
 ## References
 
 [^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating

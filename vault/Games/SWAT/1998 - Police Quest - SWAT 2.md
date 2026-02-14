@@ -301,7 +301,6 @@ The game's transition from the Police Quest adventure game format to real-time t
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT 2](https://en.wikipedia.org/wiki/Police_Quest:_SWAT_2) – release dates, developers, review scores, sales data, plot summary, version info

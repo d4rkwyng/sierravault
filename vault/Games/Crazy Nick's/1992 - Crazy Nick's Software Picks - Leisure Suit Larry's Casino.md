@@ -242,7 +242,6 @@ From a preservation standpoint, the title remains notable as one of five budget 
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|← Previous: Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – release date, developer, publisher, credits, gameplay description, ratings, collection appearances

@@ -117,10 +117,6 @@ Aces of the Pacific established Dynamix as a premier developer of military fligh
 
 The title's impact on flight simulation gaming remains significant, with modern players still praising its atmospheric presentation and historical authenticity[^ref-4]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19].
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [GameFAQs - Aces of the Pacific](https://gamefaqs.gamespot.com/pc/915693-aces-of-the-pacific) – - Release year and developer information

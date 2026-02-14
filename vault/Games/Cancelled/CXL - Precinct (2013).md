@@ -222,7 +222,6 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 ## See Also
 - **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
-## 
 ## References
 
 [^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets

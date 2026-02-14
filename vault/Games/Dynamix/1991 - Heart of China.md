@@ -238,7 +238,6 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [[1990 - Rise of the Dragon|← Previous: Rise of the Dragon]]
 - [[1991 - The Adventures of Willy Beamish|→ Next: The Adventures of Willy Beamish]]
 
-## 
 ## References
 
 [^ref-3]: [Wikipedia – Heart of China](https://en.wikipedia.org/wiki/Heart_of_China) – developer, publisher, release information, design credits

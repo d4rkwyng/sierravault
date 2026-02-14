@@ -290,7 +290,6 @@ Betrayal at Krondor spawned both official and unofficial successors:
 ## See Also
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) – release date, developers, publishers, awards, version history, technical specifications, trivia

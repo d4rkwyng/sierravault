@@ -213,7 +213,6 @@ The game's limited documentation and review coverage reflects the challenge face
 - [[2011 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2015 - Hoyle Official Card Games Collection|→ Next: Hoyle Official Card Games Collection]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Swashbucklin' Slots](https://gamefaqs.gamespot.com/pc/625642-hoyle-swashbucklin-slots) – release date, developer, publisher, slot game list, user ratings, genre, franchise information

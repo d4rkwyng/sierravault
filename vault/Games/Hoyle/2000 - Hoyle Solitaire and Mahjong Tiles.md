@@ -183,7 +183,6 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 - [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [AG.ru – Hoyle Solitaire and Mahjong Tiles 2000](https://ag.ru/games/hoyle-solitaire-and-mahjong-tiles-2000) – developer, publisher, platform, genre information

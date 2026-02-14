@@ -247,7 +247,6 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 ## See Also
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports - Football Pro]]
 
-## 
 ## References
 
 [^ref-1]: [En-Academic – Front Page Sports](https://en-academic.com/dic.nsf/enwiki/4856623) – series history, career mode details, CGW ranking, version history

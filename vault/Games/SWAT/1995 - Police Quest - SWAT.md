@@ -259,7 +259,6 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 - [[CXL - SWAT - Urban Justice|← Previous: Urban Justice]]
 - [[1998 - Police Quest - SWAT 2|→ Next: Police Quest - SWAT 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – release dates, platforms, review scores, sales data, technical details

@@ -199,7 +199,6 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 - [[1996 - NASCAR Racing 2|← Previous: NASCAR Racing 2]]
 - [[1999 - NASCAR Craftsman Truck Series Racing|→ Next: NASCAR Craftsman Truck Series Racing]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description and credits

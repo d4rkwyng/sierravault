@@ -128,7 +128,6 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 - [[2009 - Leisure Suit Larry - Box Office Bust|← Previous: Leisure Suit Larry - Box Office Bust]]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|→ Next: Leisure Suit Larry - Wet Dreams Don't Dry]]
 
-## 
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2013/11/20/ill-review-anything-leisure-suit-larry-reloaded/) – - Gameplay length and overall assessment

@@ -230,7 +230,6 @@ The collaboration between experienced Sierra personnel on this title, including 
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1997 - Hoyle Classic Board Games|→ Next: Hoyle Classic Board Games]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Battling Ships and War](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/) – release date, developer, publisher, designer, composer, voice cast, platforms, technical specifications, multiplayer features

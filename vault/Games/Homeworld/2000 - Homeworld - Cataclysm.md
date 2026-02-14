@@ -133,7 +133,6 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia - Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) – - Basic game information and development details

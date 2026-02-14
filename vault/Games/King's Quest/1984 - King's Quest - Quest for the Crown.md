@@ -254,7 +254,6 @@ This game has been included in[^ref-8][^ref-9]:
 - [[King's Quest Series]] - Series overview
 - [[1985 - King's Quest II - Romancing the Throne|→ Next: King's Quest II - Romancing the Throne]]
 
-## 
 ## References
 
 [^ref-1]: [The Strong Museum – King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) – – 2020 World Video Game Hall of Fame induction, genre influence quote

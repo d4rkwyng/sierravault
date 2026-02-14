@@ -174,7 +174,6 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 - **Next:** Jawbreaker IV
 - [[1981 - Jawbreaker|← Previous: Jawbreaker]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/51491/jawbreaker-ii/) - Developer credits, platform information, file sizes

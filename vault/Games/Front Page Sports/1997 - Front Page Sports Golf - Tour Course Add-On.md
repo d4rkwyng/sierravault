@@ -234,7 +234,6 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 - [[1997 - Front Page Sports - Trophy Rivers|← Previous: Front Page Sports - Trophy Rivers]]
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – release dates, developers, publishers, designers, composers, critical reception, development history, technical details, known issues

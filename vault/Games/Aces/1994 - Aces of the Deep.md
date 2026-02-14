@@ -121,10 +121,6 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: [MobyGames Game Credits](https://www.mobygames.com/game/aces-of-the-deep/credits) – - Developer and platform information

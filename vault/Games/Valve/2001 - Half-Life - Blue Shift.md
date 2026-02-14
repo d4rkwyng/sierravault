@@ -274,7 +274,6 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 - [[2001 - Deathmatch Classic|← Previous: Deathmatch Classic]]
 - [[2004 - Counter-Strike - Condition Zero|→ Next: Counter-Strike - Condition Zero]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) – release dates, developer, publisher, credits

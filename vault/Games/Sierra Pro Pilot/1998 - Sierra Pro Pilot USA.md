@@ -205,7 +205,6 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 ## See Also
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – Pro Pilot USA](https://archive.org/details/pro-pilot-usa) – series position, preservation status, publisher information

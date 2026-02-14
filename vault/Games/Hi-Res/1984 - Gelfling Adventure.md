@@ -169,7 +169,6 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 - [[1983 - Hi-Res Adventure 6 - The Dark Crystal|← Previous: Hi-Res Adventure 6 - The Dark Crystal]]
 - [[2023 - Colossal Cave 3D Adventure|→ Next: Colossal Cave 3D Adventure]]
 
-## 
 ## References
 
 [^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information

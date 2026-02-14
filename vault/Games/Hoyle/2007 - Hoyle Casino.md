@@ -182,7 +182,6 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
 - [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
 
-## 
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2007 Data](https://gamefaqs.gamespot.com/pc/935110-hoyle-casino-2007/data) – release date, developer, publisher, ESRB rating, related games

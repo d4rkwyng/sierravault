@@ -120,7 +120,6 @@ As an early XBLA title from 2006, availability may be affected by marketplace ch
 - [[2007 - Carcassonne]] (Sierra Online Seattle)
 - [[2008 - Lost Cities]] (Sierra Online Shanghai)
 
-## 
 ## References
 
 [^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Primary game information

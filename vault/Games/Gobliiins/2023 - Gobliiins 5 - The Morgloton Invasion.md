@@ -205,7 +205,6 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 - **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history

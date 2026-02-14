@@ -117,10 +117,6 @@ Modern analysis recognizes Caesar as foundational to the city-building genre's e
 
 Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases[^ref-57][^ref-58] and Sierra's corporate history[^ref-59].
 
-## See Also
-
-
-## 
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Caesar - Search results showing Caesar (1992) in alphabetical listing

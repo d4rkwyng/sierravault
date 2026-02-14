@@ -278,7 +278,6 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 - [[2000 - Counter-Strike|← Previous: Counter-Strike]]
 - [[2000 - Ricochet|→ Next: Ricochet]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores

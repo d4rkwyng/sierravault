@@ -303,7 +303,6 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|← Previous: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards

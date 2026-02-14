@@ -205,7 +205,6 @@ Impressions Games would find greater success with their subsequent city-building
 - [[1987 - The Ancient Art of War at Sea|← Previous: The Ancient Art of War at Sea]]
 - [[1991 - V for Victory - D-Day Utah Beach|→ Next: V for Victory - D-Day Utah Beach]]
 
-## 
 ## References
 
 [^ref-1]: [Internet Archive – The Charge of the Light Brigade (DOS, 1991)](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – release date, platforms, developer, publisher, historical context

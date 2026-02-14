@@ -269,7 +269,6 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 - [[2000 - Return of The Incredible Machine - Contraptions|← Previous: Return of The Incredible Machine - Contraptions]]
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine: Even More Contraptions](https://www.mobygames.com/game/5256/the-incredible-machine-even-more-contraptions/) – release dates, developers, designers, platforms, ratings, awards

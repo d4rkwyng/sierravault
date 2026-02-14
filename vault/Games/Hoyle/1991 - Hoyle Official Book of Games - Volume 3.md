@@ -197,7 +197,6 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
 
-## 
 ## References
 
 [^ref-1]: [MyAbandonware – Hoyle Series Search](https://www.myabandonware.com/search/q/Hoyle+Classic+Games) – release dates, platforms

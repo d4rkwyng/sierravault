@@ -215,7 +215,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [[1993 - Lost in Time|← Previous: Lost in Time]]
 - [[1996 - Urban Runner|→ Next: Urban Runner]]
 
-## 
 ## References
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores

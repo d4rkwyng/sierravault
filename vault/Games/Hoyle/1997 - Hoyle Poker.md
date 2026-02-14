@@ -193,7 +193,6 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 - [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames - Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Game details, credits, and technical specifications

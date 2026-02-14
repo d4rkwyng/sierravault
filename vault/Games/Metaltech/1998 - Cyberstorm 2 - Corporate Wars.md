@@ -143,7 +143,6 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
 
-## 
 ## References
 
 [^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - Gold master date

@@ -180,7 +180,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 ## See Also
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
-## 
 ## References
 
 [^ref-1]: [MobyGames – The Energy Thieves](https://www.mobygames.com/game/138556/the-energy-thieves/) – developer, publisher, engine, credits, game description, designer credits

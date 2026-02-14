@@ -162,7 +162,6 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [[1987 - Police Quest - In Pursuit of the Death Angel]] – Series origin
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA]] – VGA remake
 
-## 
 ## References
 
 [^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments

@@ -238,7 +238,6 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 - [[1992 - Red Baron - Mission Builder|← Previous: Red Baron - Mission Builder]]
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – release dates, development credits, ratings, awards, pizza coupon trivia

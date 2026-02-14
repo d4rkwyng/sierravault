@@ -220,7 +220,6 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 ## See Also
 - **Next:** None (series cancelled)
 
-## 
 ## References
 
 [^ref-1]: [Sierra Chest – Space Quest 7](https://sierrachest.com/index.php?a=games&id=369&title=space-quest-7&fld=reviews) – developer, platform, unreleased status

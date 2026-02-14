@@ -269,7 +269,6 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 
 - [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
 
-## 
 ## References
 
 [^ref-1]: [Wikipedia – Stellar 7](https://en.wikipedia.org/wiki/Stellar_7) – release dates, reviews, platform information, Tom Clancy quote, plot details
