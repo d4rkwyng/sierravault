@@ -115,8 +115,6 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 - [Archive.org - Power Chess 98](https://archive.org/details/powerchess98usa)
 - Various abandonware sites (compatibility issues noted)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia - Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – - Game overview and adaptive AI description

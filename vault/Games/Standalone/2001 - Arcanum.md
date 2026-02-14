@@ -321,8 +321,6 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 - [Quick Reference Card PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (277 KB)
 - [Map PDF](https://sierrahelp.com/Games/ArcanumHelp.html) (253 KB)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Amazon – Arcanum: Of Steamworks & Magick Obscura](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00004TTHT) – product description, customer reviews, publication date

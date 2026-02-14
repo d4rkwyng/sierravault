@@ -134,8 +134,6 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3)
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits

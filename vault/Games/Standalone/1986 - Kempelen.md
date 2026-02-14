@@ -241,8 +241,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – Technical development history[^ref-1]
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – developer credits, tournament history, platforms, naming origin, development collaboration

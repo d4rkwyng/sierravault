@@ -195,8 +195,6 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 **Manuals & Extras**
 - No digital manuals located in research
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – release dates, platforms, gameplay features, educational mechanics, series information

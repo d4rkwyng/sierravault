@@ -110,8 +110,6 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [MyAbandonware](https://www.myabandonware.com/game/the-black-cauldron-7l)
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – - Developer and publisher information

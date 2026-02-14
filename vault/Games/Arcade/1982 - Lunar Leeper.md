@@ -221,8 +221,6 @@ However, the Leeper character's transition to educational gaming through *Learni
 **Emulation**
 - [C64Online - Browser Playable](https://c64online.com/c64-games/lunar-leeper/)[^ref-14]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Lunar Leeper (Commodore 64)](https://archive.org/details/d64_Lunar_Leeper_1982_Sierra_Online) – release dates, platforms, gameplay description

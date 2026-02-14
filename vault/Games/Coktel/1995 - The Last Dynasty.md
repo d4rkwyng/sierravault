@@ -211,8 +211,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty)[^ref-7]
 - [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
-## See Also
-
 ## References
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores

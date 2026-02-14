@@ -209,8 +209,6 @@ The performance issues that plagued the game highlighted the challenges develope
 **Patches and Updates**
 - [Sierra Help](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – Official patches including KQUEST.DLL and DIB.DRV fixes[^ref-8]
 
-## See Also
-
 ## References
 
 [^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/take-a-break-pinball.html) – release date, developer, publisher, franchise themes, platform information

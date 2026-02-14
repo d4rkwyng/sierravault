@@ -200,8 +200,6 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 **Technical Documentation**
 - [The Cutting Room Floor](https://tcrf.net/Cannonball_Blitz) - Hidden content documentation
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Wozaday Cannonball Blitz](https://archive.org/details/wozaday_Cannonball_Blitz) – developer, publisher, release date, system requirements

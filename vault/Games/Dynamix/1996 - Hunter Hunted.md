@@ -213,8 +213,6 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 **Manuals & Extras**
 - [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=183&fld=walkthrough) – Complete game guide
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Hunter Hunted (video game)](https://en.wikipedia.org/wiki/Hunter_Hunted_(video_game)) – release date, developer, publisher, designer, composer, ratings, missions count, Earthsiege connection

@@ -254,8 +254,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 **Manuals & Extras**
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Silpheed](https://en.wikipedia.org/wiki/Silpheed) – release dates, platform history, review scores, awards, development credits

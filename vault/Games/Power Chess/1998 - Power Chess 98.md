@@ -220,8 +220,6 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 **Patches & Compatibility**
 - [Sierra Help – Power Chess Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PowerChessUpdates.html)[^ref-18]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – developer, publisher, release date, credits, ratings

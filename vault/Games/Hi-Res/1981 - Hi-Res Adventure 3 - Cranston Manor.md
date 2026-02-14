@@ -176,8 +176,6 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 **Modern Compatibility**
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information

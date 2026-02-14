@@ -193,8 +193,6 @@ The remake's significance extends beyond its individual merits to represent a br
 - [AGD Interactive Game Information](https://www.agdinteractive.com/games/kq2/about/about.html)[^ref-5]
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background

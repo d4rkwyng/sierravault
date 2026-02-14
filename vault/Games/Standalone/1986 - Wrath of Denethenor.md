@@ -215,8 +215,6 @@ From a modern perspective, the game serves as an important data point in underst
 **Developer Resources**
 - [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Wrath of Denethenor](https://en.wikipedia.org/wiki/Wrath_of_Denethenor) – development history, reviews, technical specifications, credits

@@ -206,8 +206,6 @@ The game also represents an important artifact of early 2000s fan game developme
 **Fan Sites**
 - [Jess Morrissette's Space Quest 0 Page](https://www.wiw.org/~jess/replicated.html) - Includes v1.04 download[^ref-15]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – developer, engine, ratings, platform, gameplay description

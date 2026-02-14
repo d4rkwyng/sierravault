@@ -224,8 +224,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 **Soundtracks**
 - [Oil's Well MT-32 Soundtrack – Bandcamp](https://xeenmusic.bandcamp.com/album/oils-well-soundtrack-mt-32)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – historical overview, awards, development history, critical reception

@@ -174,8 +174,6 @@ Several bugs and design issues were documented during the game's lifespan:
 **Modern Recreation**
 - [MedievaLands](https://www.medievalands.com/) - Fan remake with multiplayer support
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) – Release date, platform information, and historical details

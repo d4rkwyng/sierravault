@@ -184,8 +184,6 @@ The title has developed a cult following among players who experienced it during
 **Manuals & Extras**
 - Physical copies included two pairs of 3D glasses for stereoscopic mini-games[^ref-4]
 
-## See Also
-
 ## References
 
 [^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – release date, developer, publisher, gameplay description, locations, mini-game count, randomization, trivia

@@ -227,8 +227,6 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 - [Lemon Amiga – Cougar Force](https://www.lemonamiga.com/games/details.php?id=1896)
 - [Atari Legend – Cougar Force](https://www.atarilegend.com/games/cougar-force)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Cougar Force](https://www.mobygames.com/game/25302/cougar-force/) – developer, publisher, release dates, platforms, credits, ratings

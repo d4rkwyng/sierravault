@@ -213,8 +213,6 @@ From a historical perspective, WizType demonstrates how early educational softwa
 **Manuals & Extras**
 - Documentation may be available through Sierra Gamers fan site[^ref-7]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release date, platforms, gameplay description, genre classification

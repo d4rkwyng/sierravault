@@ -182,8 +182,6 @@ This article focuses specifically on the 1993 Impressions Games title.
 **Manuals & Extras**
 - [Game Manual – Games Database](https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga//Manual/formated/Global_Domination_-_1993_-_Impressions_Games.htm)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings

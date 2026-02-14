@@ -189,8 +189,6 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 - [ColecoVision Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – Original instruction manual[^ref-1]
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – publication metadata, release date, publisher information

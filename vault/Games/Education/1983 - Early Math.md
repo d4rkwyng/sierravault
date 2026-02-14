@@ -203,8 +203,6 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Help Pages - Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates.html)[^ref-12]
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games

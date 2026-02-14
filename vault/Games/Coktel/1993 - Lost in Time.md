@@ -243,8 +243,6 @@ The game also holds historical significance as one of the earlier adventure game
 - [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Lost_in_Time) – Supported since version 0.12.0[^ref-9]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information

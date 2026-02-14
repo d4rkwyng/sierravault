@@ -186,8 +186,6 @@ The game also stands as a testament to the challenges of software preservation, 
 - [MyAbandonware – Spelling Jungle](https://www.myabandonware.com/game/spelling-jungle-fac)[^ref-19]
 - [ClassicReload – Windows 3.x Version](https://classicreload.com/win3x-spelling-jungle-yobis-basic-spelling-tricks.html)[^ref-11]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings

@@ -226,8 +226,6 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 **Manuals & Extras**
 - Manual available at [Sierra Gamers](https://www.sierragamers.com/oils-well-1990/)[^ref-15]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Oil's Well (1990)](https://archive.org/details/msdos_Oils_Well_1990) – preservation entry, basic metadata, description

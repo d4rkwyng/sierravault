@@ -223,8 +223,6 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 - [Internet Archive - Pest Patrol (DOS 3.3)](https://archive.org/details/a2_Pest_Patrol_1982_Sierra_cr_Nibbler) - DOS 3.3 disk image[^ref-10]
 - [4cade Apple II Launcher](https://github.com/a2-4am/4cade) - Preservation project including Pest Patrol[^ref-12]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MyAbandonware - Pest Patrol](https://www.myabandonware.com/game/pest-patrol-7nt) - release year 1982, publisher Sierra On-Line, Apple II platform, download size

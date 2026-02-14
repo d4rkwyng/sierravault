@@ -233,8 +233,6 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=2375)
 - [Atari Legend](https://www.atarilegend.com/games/ess-european-space-simulator)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description

@@ -196,8 +196,6 @@ For Sierra specifically, Time Zone represented an important learning experience.
 **Manuals & Extras**
 - [Manual (Archive.org)](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt)[^ref-14]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – development history, BYTE review, awards, sales information, team size

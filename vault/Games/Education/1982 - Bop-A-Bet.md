@@ -183,8 +183,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 **Manuals & Extras**
 - Original documentation included with Sunnyside Soft zip-lock packaging
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics

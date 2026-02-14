@@ -312,8 +312,6 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 - [GamesNostalgia](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – Download with Windows compatibility[^ref-7]
 - [ExoticA](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation[^ref-6]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MyAbandonware – Sierra Soccer: World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Publisher Sierra On-Line, 1994 release, Amiga platform, user rating 3.33/5

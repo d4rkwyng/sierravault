@@ -201,8 +201,6 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 **Manuals & Extras**
 - [Original Manual (Text)](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – Digitized game manual with play cards and instructions[^ref-2]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information

@@ -246,8 +246,6 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 **Manuals & Extras**
 - [Game Manual (Apple Version)](https://archive.org/details/The_Ancient_Art_Of_War_At_Sea_Manual) – 126-page manual PDF
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – The Ancient Art of War at Sea](https://www.mobygames.com/game/188/the-ancient-art-of-war-at-sea/) – developer, publisher, platforms, release dates, ratings, ship types, technical details

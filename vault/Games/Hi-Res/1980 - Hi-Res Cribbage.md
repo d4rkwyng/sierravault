@@ -191,8 +191,6 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 **Manuals & Extras**
 - Original packaging and materials are held in private collections[^ref-6]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications

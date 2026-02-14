@@ -173,8 +173,6 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 **Wishlists / Community Interest**
 - [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist)[^ref-6]
 
-## See Also
-
 ## References
 
 [^ref-1]: [LaunchBox Games Database – On-Line Systems Publishers](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release dates, platforms, community ratings

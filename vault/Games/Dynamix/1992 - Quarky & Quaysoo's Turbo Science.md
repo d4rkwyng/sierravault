@@ -219,8 +219,6 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [GOG Dreamlist](https://www.gog.com/dreamlist) – Community request for re-release (264 votes)
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating

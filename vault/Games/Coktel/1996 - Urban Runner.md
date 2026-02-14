@@ -214,8 +214,6 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Urban_Runner) – Compatibility fixes and ScummVM setup[^ref-10]
 - [Sierra Help](https://sierrahelp.com/Walkthroughs/UrbanRunnerWalkthrough.html) – Walkthrough and technical support[^ref-15]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details

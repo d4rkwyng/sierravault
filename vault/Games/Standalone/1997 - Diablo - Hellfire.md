@@ -249,8 +249,6 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - **Completionist:** 28 hours
 - **All Playstyles Average:** 16.5 hours
 
-## See Also
-
 ## References
 
 [^ref-1]: [Computer Hope – Hellfire](https://www.computerhope.com/games/games/hellfire.htm) – Release date, developer, publisher, system requirements, expansion features, Na-Krul description

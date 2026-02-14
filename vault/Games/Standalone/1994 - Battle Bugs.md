@@ -265,8 +265,6 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [DOS Games Archive - Manual](https://www.dosgamesarchive.com/docawd.php?sf=battle_bugs_manual.txt) - Text version[^ref-10]
 - [Free Game Empire - Manual](https://www.freegameempire.com/games/Battle-Bugs/manual)[^ref-27]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Battle Bugs](https://www.mobygames.com/game/308/battle-bugs/) – credits, ratings, development details, trivia

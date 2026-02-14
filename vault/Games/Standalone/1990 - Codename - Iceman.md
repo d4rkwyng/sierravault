@@ -203,8 +203,6 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 **Manuals & Extras**
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) – plot, development credits, platforms, sequel cancellation

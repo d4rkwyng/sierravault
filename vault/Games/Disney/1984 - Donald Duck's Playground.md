@@ -229,8 +229,6 @@ The game's influence can be seen in the edutainment boom that followed in the la
 - [MobyGames](https://www.mobygames.com/game/3491/donald-ducks-playground/)
 - [Lemon64](https://www.lemon64.com/game/donald-ducks-playground)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Al Lowe's Personal Website – Games Download Page](https://allowe.com/downloads/games.html) – development history, Disney commission, interface details, awards, freeware availability

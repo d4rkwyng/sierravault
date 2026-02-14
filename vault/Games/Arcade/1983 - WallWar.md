@@ -200,8 +200,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 **Manuals & Extras**
 - No digital manual currently available
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Wallwar](https://www.mobygames.com/game/122898/wallwar/) – publisher, platform, release date, technical specifications, player count, input devices

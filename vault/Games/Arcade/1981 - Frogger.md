@@ -263,8 +263,6 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 **Manuals & Extras**
 - [Free Game Empire - Windows 95 Manual](https://www.freegameempire.com/games/Frogger/manual)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Frogger](https://en.wikipedia.org/wiki/Frogger) – release dates, sales data, awards, gameplay mechanics, cultural impact

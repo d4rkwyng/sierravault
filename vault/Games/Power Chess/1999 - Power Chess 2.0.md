@@ -171,8 +171,6 @@ The series is perhaps best remembered for its educational features rather than i
 **Download / Preservation**
 - Compatibility requires Windows 98 virtual machine setup[^ref-4][^ref-12]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 2.0](https://mobygames.com/game/power-chess-20) – release date, developer, publisher, ratings, AI personalities, technical specs, multiplayer options

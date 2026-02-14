@@ -299,8 +299,6 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 **Manuals & Extras**
 - [Internet Archive - Strategy Guide](https://archive.org/details/World_in_Conflict_Strategy_Guide)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info

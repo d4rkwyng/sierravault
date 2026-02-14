@@ -216,8 +216,6 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 **ScummVM Compatibility**
 - Playable through ScummVM using the Gob engine[^ref-20]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications

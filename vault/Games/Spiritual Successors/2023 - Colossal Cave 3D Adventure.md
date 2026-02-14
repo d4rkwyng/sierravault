@@ -246,8 +246,6 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 **Manuals & Extras**
 - [Official Press Kit](https://colossalcave3d.com/press/)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes

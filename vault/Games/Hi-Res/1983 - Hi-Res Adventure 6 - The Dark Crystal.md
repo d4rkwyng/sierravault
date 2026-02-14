@@ -146,8 +146,6 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/appleii/564085-the-dark-crystal/faqs/1542)[^ref-10]
 - [RetroAchievements Support](https://retroachievements.org/game/18957)[^ref-27]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Adventure Gamers - The Dark Crystal](https://adventuregamers.com/games/view/34905) – - Game title, developer, designer, publisher information and story description

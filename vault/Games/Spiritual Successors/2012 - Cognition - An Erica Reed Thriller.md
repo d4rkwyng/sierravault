@@ -200,8 +200,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 - Game of the Year Edition includes making-of videos, concept art, and storyboards[^ref-21]
 - Official Soundtrack available via Phoenix Online Store[^ref-25]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia - Cognition: An Erica Reed Thriller](https://en.wikipedia.org/wiki/Cognition:_An_Erica_Reed_Thriller) - Basic game information, second season speculation

@@ -231,8 +231,6 @@ The collaboration between Sierra and Disney established a template for education
 **Manuals & Extras**
 - [Manual Scans - Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Mickey's Space Adventure](https://en.wikipedia.org/wiki/Mickey's_Space_Adventure) – release date, platforms, development history, plot summary

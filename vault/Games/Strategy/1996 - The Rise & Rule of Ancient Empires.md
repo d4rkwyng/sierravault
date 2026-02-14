@@ -176,8 +176,6 @@ From a development perspective, the game is notable as an example of Impressions
 **Manuals & Extras**
 - [Patch 1.01](https://archive.org/details/RISE101) – Official patch with multiplayer fixes[^ref-9]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – The Rise & Rule of Ancient Empires](https://en.wikipedia.org/wiki/The_Rise_%26_Rule_of_Ancient_Empires) – release date, developer, publisher, designer, composer, ratings, sales data, trivia

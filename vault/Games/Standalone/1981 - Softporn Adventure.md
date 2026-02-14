@@ -220,8 +220,6 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 **Manuals & Extras**
 - [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-34]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Al Lowe's Official Website – Downloads](http://www.allowe.com/downloads/games.html) – confirmation as only non-graphic Sierra game, download availability

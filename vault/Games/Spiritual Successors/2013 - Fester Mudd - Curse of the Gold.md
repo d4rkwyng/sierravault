@@ -223,8 +223,6 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 - App Store (iOS) - $0.99[^ref-4]
 - Google Play (Android)
 
-## See Also
-
 ## References
 
 [^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information

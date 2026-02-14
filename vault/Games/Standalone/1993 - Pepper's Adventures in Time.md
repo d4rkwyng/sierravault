@@ -145,8 +145,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws)
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release year and basic information

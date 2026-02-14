@@ -221,8 +221,6 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [Macintosh Repository – Mac Version](https://www.macintoshrepository.org/3494-sierra-championship-boxing)
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – release dates, platforms, developer, publisher, ratings

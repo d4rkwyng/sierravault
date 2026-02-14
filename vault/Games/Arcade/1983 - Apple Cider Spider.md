@@ -193,8 +193,6 @@ The game's creative premise—controlling a spider through cider factory machine
 **Play Online**
 - [Commodore Games Network](https://www.commodoregames.net/Commodore64/Apple-Cider-Spider-340.html)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Apple Cider Spider (woz-a-day)](https://archive.org/details/wozaday_Apple_Cider_Spider) – release date, developer, publisher, system requirements, preservation information

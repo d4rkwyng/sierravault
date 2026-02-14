@@ -172,8 +172,6 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [Old-Games.com](https://www.old-games.com/download/5568/space-bucks) - Download link available
 - [Classic Reload](https://classicreload.com/win3x-space-bucks.html) - Browser playable version
 
-## See Also
-
 ## References
 
 [^ref-1]: [eBay Listing](https://www.ebay.com/itm/267099826308) – Game objective description

@@ -290,8 +290,6 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [Game Manual – Internet Archive](https://archive.org/details/AdventuresOfWillyBeamishManual)
 - [Hint Book – Internet Archive](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – ratings, credits, releases, platform information, trivia

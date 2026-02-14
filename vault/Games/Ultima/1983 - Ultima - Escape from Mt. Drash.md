@@ -195,8 +195,6 @@ The game's historical significance lies not in its gameplay contributions—whic
 **Manuals & Extras**
 - Original documentation is extremely rare due to limited production run
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Ultima: Escape from Mt. Drash](https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) – release date, developer, publisher, technical specifications, sales data, trivia, development history, advertising information

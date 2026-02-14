@@ -214,8 +214,6 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [My Abandonware](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) - DOS version
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
-## See Also
-
 ## References
 
 [^ref-1]: [Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.classicgames.me/tank-the-m1a1-abrams-battle-tank-simulation.html) – game overview, realism focus, gameplay description

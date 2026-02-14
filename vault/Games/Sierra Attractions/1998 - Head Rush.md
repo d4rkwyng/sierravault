@@ -204,8 +204,6 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 **Manuals & Extras**
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=demos) - 10.4 MB demo download
 
-## See Also
-
 ## References
 
 [^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia

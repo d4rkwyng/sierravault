@@ -181,8 +181,6 @@ The game's influence extended beyond its immediate series. The similar World at 
 - [PlayOldGames](https://playold.games/play-game/v-for-victory-battleset-1-d-day-utah-beach-1944/) - Browser playable
 - [PlayClassicGames](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) - Browser playable
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – V for Victory: Battleset 1 - D-Day Utah Beach - 1944](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/) – developer, publisher, designers, platforms, release dates, ratings, technical specs, version history

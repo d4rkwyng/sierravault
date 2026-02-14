@@ -200,8 +200,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [Abandonware France](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1289) – French documentation and download
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1517) – Amiga version details and reviews
 
-## See Also
-
 ## References
 
 [^ref-1]: [Journal Étudiant – African Raiders-01: Une Immersion Rétro](https://www.journaletudiant.com/african-raiders-01-une-immersion-retro-dans-les-sables-du-dakar/) – cultural retrospective, gameplay description, release year 1988

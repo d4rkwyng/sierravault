@@ -136,8 +136,6 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 - [MyAbandonware](https://www.myabandonware.com/game/hi-res-adventure-1-mystery-house-7nl)
 - [IF Archive](https://ifarchive.org/if-archive/games/appleII/mystery.dsk)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House

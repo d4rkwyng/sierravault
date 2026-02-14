@@ -282,8 +282,6 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 - **Previous:** N/A (first in fan timeline)
 - **Next:** Space Quest: Incinerations (2012)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – technical specifications, development timeline, content statistics

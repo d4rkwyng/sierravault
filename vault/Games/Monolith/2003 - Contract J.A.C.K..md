@@ -302,8 +302,6 @@ The game is currently unavailable through legitimate digital storefronts due to 
 - [PCGamingWiki Community Patch v1.1](https://community.pcgamingwiki.com/files/file/315-contract-jack-patch/) – 1,132 downloads[^ref-46]
 - [ModDB – Patch v1.1 US English](https://www.moddb.com/games/contract-jack/downloads/contract-jack-v11-us-english-patch)[^ref-40]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Contract J.A.C.K.](https://en.wikipedia.org/wiki/Contract_J.A.C.K.) – developer, publisher, designer, engine, release dates, review scores

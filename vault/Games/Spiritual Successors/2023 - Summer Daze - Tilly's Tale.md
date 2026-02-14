@@ -241,8 +241,6 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 
 **Price:** $20.00 USD[^ref-10]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) – release date, developer, publisher, platforms, technical specifications, game description

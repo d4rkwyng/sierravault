@@ -227,8 +227,6 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 - [Mokalus of Borg Walkthrough](https://www.wiw.org/~jess/tlchint.html)
 - [Walkthrough King](https://www.walkthroughking.com/text/spacequestlostchapter.aspx)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Space Quest: The Lost Chapter (AGI)](https://archive.org/details/agi_space-quest-x-the-lost-chapter) – release date, engine, graphics style, death system, game description

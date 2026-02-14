@@ -189,8 +189,6 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 **Manuals & Extras**
 - No digital manual copies currently documented
 
-## See Also
-
 ## References
 
 [^ref-1]: [Kagi FastGPT – Sierra Sports Skiing 1999 Edition](kagi_fastgpt_aggregate) – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme

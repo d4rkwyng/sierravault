@@ -197,8 +197,6 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 **Manuals & Extras**
 - PDF manual included on original game disc[^ref-4]
 
-## See Also
-
 ## References
 
 [^ref-1]: [GameFAQs – Spelling Blizzard](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard) – release date, developer, publisher, platforms, user ratings

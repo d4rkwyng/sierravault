@@ -237,8 +237,6 @@ The game also represents an important cautionary tale about the challenges of de
 - [MobyGames – The Realm](https://www.mobygames.com/game/4363/the-realm/) - Game database entry[^ref-4]
 - [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) - Comprehensive article[^ref-1]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) – Comprehensive development history, ownership changes, technical specifications, sales data, designer credits

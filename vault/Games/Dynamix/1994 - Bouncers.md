@@ -226,8 +226,6 @@ The game demonstrates both the creative ambition and technical limitations of mi
 - [Sega-16 Review](https://www.sega-16.com/2013/05/bouncers/)[^ref-3]
 - [Sega Retro - Manual Scan](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf)[^ref-13]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating

@@ -180,8 +180,6 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 **Manuals & Extras**
 - Built-in 65-page crossword dictionary included with software[^ref-6]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details

@@ -184,8 +184,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [MobyGames](https://www.mobygames.com/game/122956/stunt-flyer/)[^ref-1]
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Stunt Flyer](https://www.mobygames.com/game/122956/stunt-flyer/) – release date, developer, publisher, platforms, technical specifications, game description

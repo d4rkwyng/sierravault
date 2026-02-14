@@ -204,8 +204,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 **Manuals & Extras**
 - Documentation available through Sierra Gamers archive[^ref-10]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Sierra's 3-D Helicopter Simulator](https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/) – development credits, release date, technical specifications, multiplayer features, MobyGames rating

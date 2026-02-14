@@ -199,8 +199,6 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 - [GameFAQs](https://gamefaqs.gamespot.com/appleii/216570-laf-pak/) - Game information and statistics
 - [Wikipedia](https://en.wikipedia.org/wiki/Laf_Pak) - Encyclopedia entry
 
-## See Also
-
 ## References
 
 [^ref-1]: [TOSEC Archive – Laf Pak DSK](https://data.spludlow.co.uk/tosec/tosec/Apple%20II%20-%20Compilations%20-%20Games%20-%20Homemade/Laf%20Pak%20%281982%29%28On-Line%20Systems%29%5B48K%5D) – release year, publisher, technical specifications, file size

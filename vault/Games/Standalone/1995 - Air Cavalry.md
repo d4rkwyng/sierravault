@@ -214,8 +214,6 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 - eBay listings available (approximately $140 used)[^ref-1]
 - Amazon third-party sellers[^ref-13]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – credits, ratings, technical specifications, release information

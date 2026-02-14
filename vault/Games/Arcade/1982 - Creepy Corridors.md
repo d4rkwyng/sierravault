@@ -218,8 +218,6 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 **Manuals & Extras**
 - Box scans available at [The Sierra Chest](https://sierrachest.com/index.php?a=games&id=531&title=creepy-corridors&fld=box)[^ref-9]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price

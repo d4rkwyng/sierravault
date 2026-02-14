@@ -214,8 +214,6 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 **Manuals & Extras**
 - No manuals currently available for this program[^ref-10]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game)) – release dates, developer, publisher, contemporary reviews, naming history

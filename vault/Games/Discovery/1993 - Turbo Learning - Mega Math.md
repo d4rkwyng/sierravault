@@ -198,8 +198,6 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 **Manuals & Extras**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
-## See Also
-
 ## References
 
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year

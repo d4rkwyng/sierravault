@@ -147,8 +147,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 **Preservation**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information

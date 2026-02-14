@@ -103,8 +103,6 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 - [MyAbandonware](https://www.myabandonware.com/game/torin-s-passage-33b)
 - [Internet Archive](https://archive.org/details/msdos_Torins_Passage_1995)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information

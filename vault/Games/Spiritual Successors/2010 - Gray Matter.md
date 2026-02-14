@@ -180,8 +180,6 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/gray-matter)[^ref-43]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Adventure Gamers](https://adventuregamers.com/articles/view/21053) – Jane Jensen's reputation and return to adventure gaming

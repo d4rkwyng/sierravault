@@ -210,8 +210,6 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 **Technical Documentation**
 - [6502 Disassembly – Sabotage](https://6502disassembly.com/a2-sabotage/) – Full technical disassembly by Andy McFadden[^ref-1]
 
-## See Also
-
 ## References
 
 [^ref-1]: [6502 Disassembly – Sabotage Technical Analysis](https://6502disassembly.com/a2-sabotage/) – Technical specifications, collision detection details, gameplay mechanics, entity limits, graphics implementation, bug documentation

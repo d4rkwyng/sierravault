@@ -125,8 +125,6 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 **Walkthroughs and Guides**
 - [SierraHelp Walkthrough](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html)[^ref-33]
 
-## See Also
-
 ## References
 
 [^ref-1]: [AbandonwareDOS - Legend of Djel](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Legend+of+Djel&gid=1574) - Game listing and download

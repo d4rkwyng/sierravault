@@ -203,8 +203,6 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 **Manuals & Extras**
 - [Atari Game Manual](https://archive.org/details/agm_Threshold)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Threshold](https://www.mobygames.com/game/15744/threshold/) – release dates, platforms, publishers, ratings, technical specifications

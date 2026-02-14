@@ -322,8 +322,6 @@ However, the game's legacy has been complicated by its commercial unavailability
 - [Internet Archive – Soundtrack](https://archive.org/details/VariousTheOperativeNoOneLivesForever)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Operative:_No_One_Lives_Forever) – Technical fixes and compatibility information
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) – release dates, credits, sales data, awards, development history

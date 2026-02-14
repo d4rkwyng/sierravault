@@ -200,8 +200,6 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 **Manuals & Extras**
 - [Sierra Chest](https://www.sierrachest.com/index.php?a=games&id=429&title=kids-typing&fld=walkthrough&pid=20) - Walkthrough and game information[^ref-4]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release dates, developer, publisher, platforms, credits

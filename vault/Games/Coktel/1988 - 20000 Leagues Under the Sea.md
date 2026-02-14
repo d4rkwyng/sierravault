@@ -215,8 +215,6 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 **Digital Stores (Later Adaptations)**
 - [Steam – 20,000 Leagues Under The Sea: Captain Nemo](https://store.steampowered.com/app/821720/20000_Leagues_Under_The_Sea__Captain_Nemo/) – 2018 hidden object game
 
-## See Also
-
 ## References
 
 [^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes

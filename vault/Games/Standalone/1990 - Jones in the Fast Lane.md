@@ -143,8 +143,6 @@ The game's satirical take on the American Dream resonates differently in differe
 - [MyAbandonware](https://www.myabandonware.com/game/jones-in-the-fast-lane-1xb)
 - [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Basic game information and release details

@@ -239,8 +239,6 @@ Modern players typically approach the game "more out of historical interest than
 - Steam (not listed)[^ref-23]
 - GOG.com (not listed)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs

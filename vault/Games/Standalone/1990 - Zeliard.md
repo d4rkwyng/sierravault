@@ -247,8 +247,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [KHInsider – MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987)[^ref-34]
 - [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, The Games Machine review score, Planetstation Magazine quote

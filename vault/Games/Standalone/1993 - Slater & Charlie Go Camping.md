@@ -97,8 +97,6 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 - [DOS Zone - Browser Playable](https://dos.zone/slater-charlie-go-camping-may-19-1993/)[^ref-12]
 - [Play Classic Games - Browser Version](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/)[^ref-14]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Release dates, developer, and basic game information

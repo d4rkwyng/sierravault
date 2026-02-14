@@ -306,8 +306,6 @@ The team's approach of receiving official licensing before distribution set an i
 - [AGDI Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html)[^ref-4]
 - [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/581149-kings-quest-i-quest-for-the-crown-vga/faqs/33796)[^ref-13]
 
-## See Also
-
 ## References
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications

@@ -199,8 +199,6 @@ Impressions Games would find greater success with their subsequent city-building
 - [ClassicReload](https://classicreload.com/the-charge-of-the-light-brigade.html) – Browser-based DOS version
 - [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – The Charge of the Light Brigade (DOS, 1991)](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – release date, platforms, developer, publisher, historical context

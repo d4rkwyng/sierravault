@@ -182,8 +182,6 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 **Manuals & Extras**
 - Refer to original Sierra documentation for gameplay reference
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – developer information, game list, platform details

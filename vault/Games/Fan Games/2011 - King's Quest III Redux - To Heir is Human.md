@@ -259,8 +259,6 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 - [Windows (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.exe) – 233 MB
 - [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
 
-## See Also
-
 ## References
 
 [^ref-1]: [Gamewise – King's Quest III Redux](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human) – release date, developer, platform information

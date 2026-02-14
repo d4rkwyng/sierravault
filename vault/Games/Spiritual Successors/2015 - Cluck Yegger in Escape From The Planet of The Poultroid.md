@@ -223,8 +223,6 @@ As a standalone product, *Cluck Yegger* succeeded in what it set out to do: prov
 **Platform Compatibility Notes:**
 The macOS version is not compatible with macOS 10.15 Catalina or later versions[^ref-3]. Linux users may experience technical issues with camera displays and movement controls[^ref-19].
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Cluck Yegger in Escape from the Planet of the Poultroid](https://en.wikipedia.org/wiki/Cluck_Yegger_in_Escape_from_the_Planet_of_the_Poultroid) – release dates, developer info, Tame Mode, development context

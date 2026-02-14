@@ -119,8 +119,6 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 - [MyAbandonware](https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov)[^ref-74]
 - [Internet Archive](https://archive.org/details/msdos_Birthright_-_The_Gorgons_Alliance_1996)[^ref-75]
 
-## See Also
-
 ## References
 
 [^ref-1]: Collection Chamber. "Birthright: Gorgon Alliance." Accessed January 9, 2026. https://collectionchamber.blogspot.com/p/birthright-gorgon-alliance.html

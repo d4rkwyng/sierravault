@@ -133,8 +133,6 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 **Soundtrack**
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
-## See Also
-
 ## References
 
 [^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information

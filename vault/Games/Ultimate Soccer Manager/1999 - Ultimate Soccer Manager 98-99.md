@@ -222,8 +222,6 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 - [Sierra Help – USM98 Patch 1.0.1.1](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/UltimateSoccerManagerUpdates.html) – Fixes 8th season crash[^ref-17]
 - [GitHub – USM 98-99 Tweaker](https://github.com/enrico69/usm9899tweaker) – Savegame editor and patcher[^ref-18]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Ultimate Soccer Manager 98-99](https://archive.org/details/ultimate-soccer-manager-98-99) – game metadata, features, archive information

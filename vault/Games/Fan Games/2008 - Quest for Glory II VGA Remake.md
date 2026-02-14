@@ -182,8 +182,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 - [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Quest_for_Glory_II_VGA_Remake) - Detailed game information[^ref-10]
 - [AGD Interactive FAQ](https://www.agdinteractive.com/games/qfg2/about/faq/about_faq.html) - Official FAQ and feature list[^ref-6]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating

@@ -230,8 +230,6 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 **Manuals & Extras**
 - [Atari Compendium Manual Archive](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – Original manual PDF[^ref-14]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Glitchwave – Marauder](https://glitchwave.com/game/marauder.f2/) – release dates, platforms, publishers, ratings

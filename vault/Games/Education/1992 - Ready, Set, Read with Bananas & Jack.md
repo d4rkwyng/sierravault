@@ -188,8 +188,6 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 **Manuals & Extras**
 - No digital manual currently archived in available sources
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – gameplay description, developer, publisher, platforms, genre, perspective, interface, credits count, series information, educational mechanics

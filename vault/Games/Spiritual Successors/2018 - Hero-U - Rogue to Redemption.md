@@ -243,8 +243,6 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 **Manuals & Extras**
 - [Official Hint Guide (itch.io)](https://transolar-games.itch.io/hero-u-rogue-to-redemption-hint-guide)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U%3A_Rogue_to_Redemption) – release dates, developers, engine, Metacritic score, development history

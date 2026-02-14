@@ -223,8 +223,6 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 **Manuals & Extras**
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Internet Archive – Sammy Lightfoot (1983)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line) – game description, release date, platforms, genre classification

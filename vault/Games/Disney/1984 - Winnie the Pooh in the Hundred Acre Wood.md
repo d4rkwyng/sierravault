@@ -217,8 +217,6 @@ From a design perspective, the game's innovation of eliminating typing requireme
 **Manuals & Extras**
 - [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Winnie the Pooh in the Hundred Acre Wood](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/) – release dates, developers, publishers, platforms, ratings

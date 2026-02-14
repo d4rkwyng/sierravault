@@ -118,8 +118,6 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [MyAbandonware](https://www.myabandonware.com/game/eat-my-dust-dl6)
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/search/?q=Eat+My+Dust) – - Basic game information and release details

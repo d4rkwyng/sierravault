@@ -216,8 +216,6 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 **Manuals & Extras**
 - [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, credits, ratings

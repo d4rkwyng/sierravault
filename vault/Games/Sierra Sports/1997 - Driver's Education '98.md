@@ -273,8 +273,6 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 **Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – development credits, technical specifications, genre classification

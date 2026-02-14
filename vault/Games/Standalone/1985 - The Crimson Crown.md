@@ -205,8 +205,6 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [Free Game Empire – The Crimson Crown](https://www.freegameempire.com/games/The-Crimson-Crown)
 - [DOSGames.com – The Crimson Crown](https://dosgames.com/game/crimson-crown-the/)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – The Crimson Crown](https://www.mobygames.com/game/86/the-crimson-crown/) – developer, publisher, designer, engine, platforms, release dates, ratings, technical specifications

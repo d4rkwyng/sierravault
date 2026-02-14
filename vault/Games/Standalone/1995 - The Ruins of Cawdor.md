@@ -205,8 +205,6 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 **Digital Wishlist**
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-22]
 
-## See Also
-
 ## References
 
 [^ref-1]: [ClassicReload – Ruins of Cawdor](https://classicreload.com/ruins-of-cawdor.html) – historical context, series information, offline patch

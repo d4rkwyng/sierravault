@@ -124,8 +124,6 @@ The series' legacy lies in its contribution to the football management genre dur
 - [Internet Archive](https://archive.org/details/msdos_Ultimate_Soccer_Manager_2_1996)
 - [Classic Reload](https://classicreload.com/ultimate-soccer-manager-2.html)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames - Ultimate Soccer Manager 2](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/) – - Basic game information, developers, publishers, and designers

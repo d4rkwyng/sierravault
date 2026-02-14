@@ -117,8 +117,6 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 - [Classic Reload](https://classicreload.com/adventure-in-serenia.html)[^ref-5]
 - [RetroGames.cz](https://www.retrogames.cz/play_1146-DOS.php)[^ref-20]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Abandonware DOS - Adventure in Serenia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Adventure+in+Serenia&gid=2484) – - User ratings, historical context, and game description

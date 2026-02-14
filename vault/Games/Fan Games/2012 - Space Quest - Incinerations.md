@@ -246,8 +246,6 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 - **Previous:** Space Quest: Vohaul Strikes Back (2011)
 - **Next:** N/A
 
-## See Also
-
 ## References
 
 [^ref-1]: [Metacritic – Space Quest: Incinerations](https://www.metacritic.com/game/space-quest-incinerations/) – developer, publisher information

@@ -184,8 +184,6 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 - [Giant Bomb](https://www.giantbomb.com/learning-with-fuzzywomp/3030-6933/)[^ref-6]
 - [CollectorVision](https://collectorvision.com/games/lwfuzzywomp.php)[^ref-9]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – Learning with FuzzyWOMP](https://en.wikipedia.org/wiki/Learning_with_FuzzyWOMP) – release date, platform, designers, publisher, awards, price, educational content descriptions, development notes, Creative Computing coverage, wordless design, relationship to Learning with Leeper

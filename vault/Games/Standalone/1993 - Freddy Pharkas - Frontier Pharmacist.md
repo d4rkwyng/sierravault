@@ -163,8 +163,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [MyAbandonware](https://www.myabandonware.com/game/freddy-pharkas-frontier-pharmacist-1zb)
 - [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Development and publisher information

@@ -202,8 +202,6 @@ The franchise's continued existence through mobile and console titles decades la
 **Purchase (Original)**
 - [Amazon – Professional Bull Rider PC](https://www.amazon.com/Professional-Bull-Rider-PC/dp/B00001LCDC)[^ref-7]
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Professional Bull Rider](https://www.mobygames.com/game/58224/professional-bull-rider/) – developer, publisher, credits, ratings, platform information

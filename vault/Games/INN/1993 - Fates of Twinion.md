@@ -206,8 +206,6 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html)[^ref-17]
 - [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941)[^ref-7]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Abandonware DOS - Fates of Twinion](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fates+of+Twinion&gid=1252) - Basic game information and release details

@@ -320,8 +320,6 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [v1.3 Patch](https://community.pcgamingwiki.com/files/file/303-no-one-lives-forever-2-a-spy-in-harms-way-patch/) - Multiple language versions available[^ref-37]
 - [NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) - Level editor and source code[^ref-45]
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia – No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – development info, reception scores, awards, release dates

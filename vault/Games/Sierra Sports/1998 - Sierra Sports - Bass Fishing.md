@@ -138,8 +138,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 - [MyAbandonware - Field & Stream Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-g4c)
 - [MyAbandonware - Trophy Bass](https://www.myabandonware.com/game/trophy-bass-3rw)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Wikipedia - Field & Stream: Trophy Bass 4](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_4) – - Game overview and series information

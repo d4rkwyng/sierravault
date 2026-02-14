@@ -198,8 +198,6 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 **Manuals & Extras**
 - [Game Solution/Walkthrough](https://www.atarimax.com/freenet/freenet_material/12.AtariLibrary/2.MiscellaneousTextFiles/showarticle.php?67)
 
-## See Also
-
 ## References
 
 [^ref-1]: [Commodore Fandom Wiki – Sword of Kadash](https://commodore.fandom.com/wiki/Sword_of_Kadash) – development history, Chris Cole quotes, design influences, personnel credits

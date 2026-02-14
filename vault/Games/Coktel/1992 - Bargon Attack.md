@@ -234,8 +234,6 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 - [ScummVM Wiki – Bargon Attack](https://wiki.scummvm.org/index.php?title=Bargon_Attack)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Bargon_Attack)
 
-## See Also
-
 ## References
 
 [^ref-1]: [MobyGames – Bargon Attack](https://www.mobygames.com/game/13178/bargon-attack/) – developer info, platform details, interface innovations, FMV technology
