@@ -12,7 +12,7 @@ protagonist: Sonny Bonds
 sierra_lineage: Core Sierra
 last_updated: '2026-01-27'
 description: 'Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced
-  remake of Sierra On-Line''s groundbreaking 1987 police procedural adventure game....'
+  remake of Sierra On-Line''s 1987 police procedural adventure game....'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
@@ -21,7 +21,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 
 ## Overview
 
-Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced remake of Sierra On-Line's groundbreaking 1987 police procedural adventure game.[^ref-1] The remake utilized Sierra's SCI 1.1 engine to deliver 256-color VGA graphics, digitized sound effects, and an interactive point-and-click interface, replacing the original's text parser and EGA graphics.[^ref-2] This technological overhaul brought the realistic police simulation to a new generation of players while maintaining the core gameplay philosophy of strict adherence to authentic law enforcement procedures.[^ref-3]
+Police Quest: In Pursuit of the Death Angel VGA Remake is a 1992 enhanced remake of Sierra On-Line's 1987 police procedural adventure game.[^ref-1] The remake utilized Sierra's SCI 1.1 engine to deliver 256-color VGA graphics, digitized sound effects, and an interactive point-and-click interface, replacing the original's text parser and EGA graphics.[^ref-2] This technological overhaul brought the realistic police simulation to a new generation of players while maintaining the core gameplay philosophy of strict adherence to authentic law enforcement procedures.[^ref-3]
 
 The game places players in the role of Sonny Bonds, a patrol officer in the fictional city of Lytton, California, who must work his way up from routine traffic stops to take down a notorious drug lord known as the Death Angel.[^ref-4] What distinguished Police Quest from Sierra's other adventure franchises was its unflinching commitment to realism—designed by former California Highway Patrol officer [[Jim Walls]], the game required players to follow actual police protocols or face severe consequences.[^ref-5] Producer Tammy Dargan stated that "it was our intention to create a real life simulation, to explore the feelings that are part of the police experience."[^ref-6]
 

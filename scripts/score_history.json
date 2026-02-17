@@ -428,6 +428,11 @@
         "timestamp": "2026-02-17T08:56:08.954769",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:19:16.855390",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1989 - Quest for Glory I - So You Want to Be a Hero.md": [
@@ -559,6 +564,16 @@
         "timestamp": "2026-02-17T08:54:59.937139",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:19:21.589346",
+        "score": 100.0,
+        "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:20:20.044567",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "2000 - Field & Stream - Trophy Bass 4.md": [
@@ -571,6 +586,11 @@
     "1994 - King's Quest VII - The Princeless Bride.md": [
       {
         "timestamp": "2026-02-17T08:56:08.881471",
+        "score": 100.0,
+        "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:19:29.557403",
         "score": 100.0,
         "total": 100
       }
@@ -611,6 +631,11 @@
         "timestamp": "2026-02-17T08:56:16.143262",
         "score": 98.0,
         "total": 98
+      },
+      {
+        "timestamp": "2026-02-17T09:19:24.066926",
+        "score": 98.0,
+        "total": 98
       }
     ],
     "1990 - Roberta Williams' King's Quest I - Quest for the Crown.md": [
@@ -639,6 +664,16 @@
         "timestamp": "2026-02-17T08:56:27.470709",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:19:21.628087",
+        "score": 100.0,
+        "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:20:20.081320",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1993 - Police Quest - Open Season.md": [
@@ -647,63 +682,21 @@
         "score": 100.0,
         "total": 100
       }
+    ],
+    "1992 - Police Quest - In Pursuit of the Death Angel VGA.md": [
+      {
+        "timestamp": "2026-02-17T09:19:21.663880",
+        "score": 100.0,
+        "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:20:20.115022",
+        "score": 100.0,
+        "total": 100
+      }
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-13T16:16:29.300602",
-      "files_scored": 1,
-      "average": 96.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-02-13T16:17:50.569659",
-      "files_scored": 1,
-      "average": 83.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:18:00.199715",
-      "files_scored": 1,
-      "average": 89.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:18:00.250907",
-      "files_scored": 1,
-      "average": 75.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:18:00.298748",
-      "files_scored": 1,
-      "average": 81.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:18:00.344087",
-      "files_scored": 1,
-      "average": 85.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:21:42.828801",
-      "files_scored": 1,
-      "average": 100.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-02-13T16:23:21.960512",
-      "files_scored": 1,
-      "average": 88.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:23:49.761928",
-      "files_scored": 1,
-      "average": 92.0,
-      "passing": 1
-    },
     {
       "timestamp": "2026-02-13T16:24:19.062928",
       "files_scored": 1,
@@ -946,6 +939,60 @@
     },
     {
       "timestamp": "2026-02-17T08:56:32.066278",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:16.855390",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:21.589346",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:21.628087",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:21.663880",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:24.066926",
+      "files_scored": 1,
+      "average": 98.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:19:29.557403",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:20:20.044567",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:20:20.081320",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:20:20.115022",
       "files_scored": 1,
       "average": 100.0,
       "passing": 1

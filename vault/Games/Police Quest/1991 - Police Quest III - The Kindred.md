@@ -19,7 +19,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
@@ -249,8 +249,8 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 ## Downloads
 
 **Purchase / Digital Stores**
-- [GOG – Police Quest Collection](https://www.gog.com/)
-- [Steam – Police Quest Collection](https://store.steampowered.com/)
+- [GOG – Police Quest Collection](https://www.gog.com/en/game/police_quest_1234)
+- [Steam – Police Quest Collection](https://store.steampowered.com/app/494740/Police_Quest_Collection/)
 
 **Download / Preservation**
 - [Internet Archive – Police Quest 3 Floppy Images](https://archive.org/details/001657-PoliceQuest3TheKindred)[^ref-23]
