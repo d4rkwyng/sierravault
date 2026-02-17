@@ -25,8 +25,8 @@ RESEARCH_BASE = os.path.expanduser(
 )
 
 OLLAMA_HOSTS = [
-    "http://100.90.195.80:11434",
-    "http://192.168.10.228:11434",
+    os.environ.get("OLLAMA_STUDIO_TAILSCALE", "http://localhost:11434"),
+    os.environ.get("OLLAMA_STUDIO_LOCAL", "http://localhost:11434"),
     "http://localhost:11434",
 ]
 

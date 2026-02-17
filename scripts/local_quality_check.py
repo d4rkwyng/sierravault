@@ -30,8 +30,8 @@ from typing import Dict, List, Tuple, Optional
 
 
 # Mac Studio Ollama server (try Tailscale first, then local IP)
-MAC_STUDIO_TAILSCALE = "http://100.90.195.80:11434"
-MAC_STUDIO_LOCAL = "http://192.168.10.228:11434"
+MAC_STUDIO_TAILSCALE = os.environ.get("OLLAMA_STUDIO_TAILSCALE", "http://localhost:11434")
+MAC_STUDIO_LOCAL = os.environ.get("OLLAMA_STUDIO_LOCAL", "http://localhost:11434")
 MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", MAC_STUDIO_TAILSCALE)
 MAC_STUDIO_MODEL = "llama3.3:70b"  # Best general model on Studio (93.5 avg score)
 MAC_STUDIO_FLAGSHIP_MODEL = "deepseek-r1:70b"  # Reasoning model for flagships (94.5 avg score)

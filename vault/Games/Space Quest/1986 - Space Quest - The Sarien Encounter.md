@@ -199,6 +199,13 @@ This game has been included in the following collections:
 - [SpaceQuest.net – SQ1 Easter Eggs](https://spacequest.net/sq1/eastereggs/) – hidden content, secrets[^ref-26]
 
 ## See Also
+
+As the first installment in the Space Quest series, The Sarien Encounter sets the stage for Roger Wilco's adventures, introducing players to the lovable but hapless janitor who finds himself at the center of an intergalactic conflict. The game's narrative follows Roger as he navigates through various locations, including the Arcada spaceship, the desert planet Kerona, and the Sarien ship Deltaur, in his quest to stop the sinister Sariens from misusing the powerful Star Generator. This initial outing establishes many of the series' hallmarks, such as its blend of science fiction and humor, which would be refined and expanded upon in subsequent entries like Space Quest II - Vohaul's Revenge.
+
+Mechanically, The Sarien Encounter utilizes Sierra's AGI engine, offering a pseudo-3D environment and a text parser for input, with later versions introducing basic mouse support. The game's structure, which involves collecting items and solving puzzles across multiple locations, would also serve as a foundation for future Space Quest games. As players progress through the series, they will notice how these elements evolve, such as the introduction of new gameplay mechanics and improvements to the user interface in Space Quest II - Vohaul's Revenge.
+
+The Sarien Encounter's success paved the way for its sequel, Space Quest II - Vohaul's Revenge, where Roger Wilco faces off against the villainous Sludge Vohaul. The second game builds upon the foundation laid by The Sarien Encounter, offering enhanced graphics and new challenges for players to overcome. By understanding the events and gameplay of The Sarien Encounter, fans can better appreciate how the series progresses and how Roger's character evolves over time, from his humble beginnings as a janitor to his status as a hero of the galaxy.
+
 - VGA Remake: [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]]
 - [[Space Quest Series]] - Series overview
 - [[1987 - Space Quest II - Vohaul's Revenge|→ Next: Space Quest II - Vohaul's Revenge]]

@@ -29,7 +29,7 @@ Environment variables required:
     OPENAI_API_KEY    - for ChatGPT
 
 Optional:
-    OLLAMA_HOST - Ollama server URL (default: http://100.90.195.80:11434)
+    OLLAMA_HOST - Ollama server URL (default: OLLAMA_STUDIO_TAILSCALE or localhost)
 
 Optional: If you have Claude Code CLI installed and a Max subscription,
 use --claude-code to route Claude scoring through it (no per-token charges).
@@ -50,7 +50,7 @@ import glob
 ANTHROPIC_KEY = os.environ.get("ANTHROPIC_API_KEY")
 OPENAI_KEY = os.environ.get("OPENAI_API_KEY")
 CLAUDE_CODE_PATH = shutil.which("claude")
-OLLAMA_HOST = os.environ.get("OLLAMA_HOST", "http://100.90.195.80:11434")
+OLLAMA_HOST = os.environ.get("OLLAMA_HOST", os.environ.get("OLLAMA_STUDIO_TAILSCALE", "http://localhost:11434"))
 DEFAULT_LOCAL_MODEL = "llama3.3:70b"  # Best general model on Mac Studio
 
 SCORING_PROMPT = """You are a quality assurance reviewer for a Sierra Games wiki archive.

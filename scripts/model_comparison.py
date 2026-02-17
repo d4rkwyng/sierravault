@@ -28,7 +28,7 @@ VAULT_PATH = Path(__file__).parent.parent / "vault" / "Games"
 RESULTS_DIR = Path(__file__).parent / "comparison_results"
 
 # Mac Studio Ollama
-MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", "http://100.90.195.80:11434")
+MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", os.environ.get("OLLAMA_STUDIO_TAILSCALE", "http://localhost:11434"))
 
 # Models to compare
 OLLAMA_MODELS = [
