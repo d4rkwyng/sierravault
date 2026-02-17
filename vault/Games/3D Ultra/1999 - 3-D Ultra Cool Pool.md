@@ -198,12 +198,6 @@ The game's combination of realistic physics with fantastical game modes anticipa
 
 ## See Also
 
-3-D Ultra Cool Pool builds upon the foundation established by its predecessor, 3-D Ultra NASCAR Pinball, by continuing the series' tradition of combining realistic physics with fantastical gameplay elements. While NASCAR Pinball focused on the fast-paced world of pinball, Cool Pool brings a fresh perspective to the series by applying this blend of realism and fantasy to the sport of billiards. This shift in focus allows for new and creative gameplay mechanics, such as exploding balls and specially shaped tables, which differentiate Cool Pool from other sports simulations.
-
-The game's lack of narrative storyline is consistent with the overall tone of the 3-D Ultra series, which prioritizes fun and accessibility over complex storytelling. As a result, players can jump into the game and start competing in various billiards modes without needing to follow a specific plot or character development. This approach will likely continue in future entries, such as 3-D Ultra Lionel TrainTown, where the focus will shift to train simulation and management. The series' emphasis on casual, arcade-style gameplay ensures that each new installment will offer a unique and engaging experience.
-
-In terms of mechanical evolution, 3-D Ultra Cool Pool refines the 3D Ultra Engine used in previous games, allowing for more detailed graphics and realistic physics simulations. The game's use of pre-rendered tables and support for Direct3D contribute to its visual fidelity and smooth gameplay. These technical advancements will likely be built upon in subsequent games, such as 3-D Ultra Lionel TrainTown, which may incorporate new features like dynamic environments or more complex simulation mechanics. By iterating on the successes of Cool Pool, the series can continue to provide innovative and entertaining experiences for players.
-
 - [[1998 - 3-D Ultra NASCAR Pinball|← Previous: 3-D Ultra NASCAR Pinball]]
 - [[1999 - 3-D Ultra Lionel TrainTown|→ Next: 3-D Ultra Lionel TrainTown]]
 

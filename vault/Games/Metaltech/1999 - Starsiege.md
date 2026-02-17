@@ -252,12 +252,6 @@ The game's legacy is complicated by its commercial failure, which contributed to
 
 ## See Also
 
-Starsiege builds upon the narrative foundation established in Starsiege: Tribes, expanding the Metaltech universe with a deeper exploration of the conflict between humanity and the Cybrid forces. The game's storyline follows Harabec Weathers, a key character who emerges as a leader in the human campaign, while also allowing players to experience the war from the perspective of Prometheus, the artificial intelligence leading the Cybrid rebellion. This dual-perspective approach offers a richer understanding of the series' lore and sets the stage for the events that will unfold in Tribes 2.
-
-Mechanically, Starsiege refines the gameplay introduced in earlier Metaltech titles, incorporating improved 3D graphics powered by the Darkstar engine and a more intuitive control system. The game's focus on piloting HERCULANs, massive bipedal war machines, provides a unique blend of simulation and action elements that distinguishes it from other mech combat games of the time. As the series progresses towards Tribes 2, these gameplay elements will continue to evolve, incorporating new features and multiplayer capabilities that will redefine the Metaltech experience.
-
-The narrative threads introduced in Starsiege will be further explored in Tribes 2, which builds upon the conflict between humanity and the Cybrid forces. The game's events will have a lasting impact on the Metaltech universe, shaping the world and its characters in meaningful ways as the series continues to unfold. Through its engaging storyline, immersive gameplay, and richly detailed universe, Starsiege plays a pivotal role in the Metaltech series, connecting the earlier Earthsiege games with the events of Tribes 2 and beyond.
-
 - [[1998 - Starsiege - Tribes|← Previous: Starsiege - Tribes]]
 - [[2001 - Tribes 2|→ Next: Tribes 2]]
 

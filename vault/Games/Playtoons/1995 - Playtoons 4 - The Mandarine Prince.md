@@ -181,12 +181,6 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 
 ## See Also
 
-Playtoons 4: The Mandarine Prince builds upon the foundation established by its predecessor, Playtoons 3 - The Secret of the Castle, by continuing to refine the interactive comic book storytelling and creative animation tools that have become a hallmark of the series. The game's narrative follows Spirou and Fantasio as they embark on a new adventure in the country of Mandarine, facing off against the crime boss Don Vito Cortizone in a story that teaches children about various school topics through engaging gameplay. This approach to edutainment was a key aspect of the Playtoons series, setting it apart from other games of its time.
-
-Mechanically, The Mandarine Prince introduces new features and improvements over its predecessor, including an expanded set of animation tools and the ability to combine assets from multiple installed Playtoons games, enhancing the creative possibilities for players. The game's use of the Gob engine allows for a more polished and interactive experience, with clickable elements and animations that bring the story to life. As the series progresses, these mechanical advancements lay the groundwork for future innovations in the Playtoons franchise.
-
-The Mandarine Prince serves as a bridge between the earlier entries in the series and the eventual conclusion of the Playtoons saga, with its unique blend of education and entertainment paving the way for later games to build upon this successful formula. Although the next entry in the series is not directly referenced, it is clear that The Mandarine Prince plays a crucial role in the overall narrative arc of the franchise, introducing new characters and storylines while maintaining the core spirit of adventure and creativity that defines the Playtoons experience. By combining engaging storytelling with interactive tools, the game sets the stage for the continued evolution of the series, ultimately contributing to the legacy of the Playtoons franchise as a whole.
-
 - **Next:** Playtoons 5: The Stone of Wakan
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
 

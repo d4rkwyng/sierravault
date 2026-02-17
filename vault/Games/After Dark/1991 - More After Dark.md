@@ -211,12 +211,6 @@ While More After Dark never received the critical attention afforded to traditio
 
 ## See Also
 
-More After Dark builds upon the foundation established by its predecessor, After Dark, by introducing new modules that expand the screensaver's capabilities beyond mere screen protection. The inclusion of Lunatic Fringe, a fully playable arcade-style space shooter, marks a significant departure from the passive entertainment of traditional screensavers and sets the stage for future interactive content in the series. This evolution in gameplay is a testament to Berkeley Systems' innovative approach to software development, which would continue to influence the direction of the After Dark series.
-
-The gameplay mechanics introduced in More After Dark, particularly in Lunatic Fringe, lay the groundwork for the more complex and engaging experiences found in subsequent titles, such as After Dark Games. The top-down shooter design and wave-based difficulty progression become a staple of the series, with future games building upon these foundations to create even more immersive and challenging experiences. As the series progresses, the distinction between screensaver and game becomes increasingly blurred, reflecting the changing expectations of users and the evolving capabilities of computer hardware.
-
-The narrative threads introduced in More After Dark, although subtle, contribute to the broader universe of the After Dark series, where characters and themes from various modules intersect and influence one another. The spacecraft pilot protagonist of Lunatic Fringe embodies the sense of adventure and exploration that defines the series, while the game's sci-fi setting and enemies foreshadow the more elaborate storylines and worlds found in later games. As the series continues with After Dark Games, these narrative elements will become more pronounced, weaving together to create a rich and engaging universe that transcends the boundaries of traditional screensaver software.
-
 - [[1989 - After Dark|← Previous: After Dark]]
 - [[1998 - After Dark Games|→ Next: After Dark Games]]
 

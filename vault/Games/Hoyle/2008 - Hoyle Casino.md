@@ -181,12 +181,6 @@ The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][
 
 ## See Also
 
-Hoyle Casino 2008 builds upon the foundation established by its predecessor, also titled Hoyle Casino, by offering over 600 variations of 16 popular casino games and introducing Mac OS X compatibility. This expansion not only increased the game's accessibility but also enhanced its replay value, making it a significant step forward in the series. The inclusion of a realistic Las Vegas environment and attention to official rules continued the tradition set by Sierra Entertainment's original Hoyle's Official Book of Games series from the 1990s.
-
-The gameplay mechanics in Hoyle Casino 2008 were refined from the previous installment, addressing issues such as the freezing bug that occurred after placing bets in card games. This refinement, along with the introduction of online play capabilities and achievements, marked a notable evolution in the series' mechanical depth. The game's point-and-select interface and fixed flip-screen visuals remained consistent with the casino simulation genre, providing an accessible experience for players.
-
-As the series progressed to Hoyle Puzzle and Board Games, it shifted focus towards a broader range of non-casino games, indicating a strategic decision by the developers to diversify the Hoyle brand's offerings. This shift likely aimed to attract a wider audience beyond those interested solely in casino simulations, leveraging the recognizable Hoyle name to explore other genres within the gaming spectrum. The evolution from Hoyle Casino 2008 to Hoyle Puzzle and Board Games reflects the franchise's adaptability and its effort to cater to changing player preferences and market trends.
-
 - [[2007 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2008 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

@@ -233,12 +233,6 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 
 ## See Also
 
-Alphabet Blocks builds upon the foundational elements established in earlier Sierra educational titles, refining the company's approach to interactive learning with its engaging and accessible design. The game's use of colorful animation, digitized sound, and positive reinforcement sets the stage for later entries in the series, such as Bop-A-Bet, which would further evolve the educational software landscape with new gameplay mechanics and features. By introducing young learners to the basics of alphabet recognition and phonics through its four distinct learning activities, Alphabet Blocks paves the way for more advanced reading skills to be developed in subsequent titles.
-
-The character of Bananas, the cheerful chimp, serves as a friendly guide throughout Alphabet Blocks, making the learning experience enjoyable and non-intimidating for young children. This approachable design philosophy is carried forward in Bop-A-Bet, where similar characters and interactive elements are used to teach new skills, demonstrating a clear narrative and mechanical continuity between the two games. As the series progresses, the gameplay evolves to incorporate more complex challenges and activities, reflecting the growing abilities of its young audience.
-
-The release of Alphabet Blocks in 1992 marked an important milestone for Sierra's educational software division, showcasing the company's commitment to creating high-quality, engaging learning experiences for children. The game's success laid the groundwork for future titles like Bop-A-Bet, which would build upon the foundations established by Alphabet Blocks and continue to innovate in the field of educational software. By combining entertaining gameplay with effective teaching methods, Sierra solidified its position as a leader in the educational technology market, with Alphabet Blocks serving as a key stepping stone in the development of the company's signature style and approach to learning.
-
 - [[1982 - Bop-A-Bet|Bop-A-Bet]] (1982) - Letter matching educational game
 - [[1983 - Early Math|Early Math]] (1983) - Mathematics fundamentals for young learners
 - [[1983 - Learning with Leeper|Learning with Leeper]] (1983) - Multi-subject educational activities

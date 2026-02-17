@@ -220,6 +220,14 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 **Manuals & Extras**
 - [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-34]
 
+## See Also
+
+Softporn Adventure stands as a foundational title in the history of adult-oriented games, laying groundwork for future series like Leisure Suit Larry. Its release in 1981 and subsequent success paved the way for more mature themes in gaming, even if its own narrative and mechanics were somewhat crude by later standards. The game's influence can be seen in how it tackled adult humor and interactive storytelling, elements that would evolve significantly in later titles.
+
+The connection between Softporn Adventure and its spiritual successor, Leisure Suit Larry in the Land of the Lounge Lizards, is particularly noteworthy. Al Lowe's 1987 remake took the core concepts and settings of Softporn Adventure and adapted them into a graphical adventure game, retaining much of the original's humor and objectives while refining the gameplay experience. This evolution from text-based to graphical interface marked a significant step in the series' development, appealing to a broader audience and cementing the Leisure Suit Larry series as a staple of comedic adventure games.
+
+While Softporn Adventure does not directly lead into Troll's Tale in terms of narrative continuity, both games represent early explorations by Sierra (then On-Line Systems) into different genres and themes. Softporn Adventure's adult-oriented text adventure genre and Troll's Tale's fantasy setting demonstrate the company's willingness to experiment with various styles and subjects, contributing to the diverse portfolio that would come to define Sierra's output in the following decades. The mechanical simplicity of Softporn Adventure, particularly its two-word parser system, would also give way to more complex and user-friendly interfaces in later games, including Troll's Tale, reflecting the rapid evolution of game design and technology during this period.
+
 ## References
 
 [^ref-1]: [Al Lowe's Official Website – Downloads](http://www.allowe.com/downloads/games.html) – confirmation as only non-graphic Sierra game, download availability

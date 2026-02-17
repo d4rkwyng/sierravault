@@ -146,6 +146,7 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 - [Humble Bundle](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free option[^ref-24]
 
 ## See Also
+
 - [[Corey Cole]] — Quest for Glory co-creator, co-designer on Bolt Riley
 - [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and writer on Bolt Riley
 - [[2018 - Hero-U - Rogue to Redemption]] — The Coles' own crowdfunded project developed concurrently

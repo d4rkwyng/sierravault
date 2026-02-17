@@ -126,12 +126,6 @@ The game achieved commercial success despite mixed critical reception, with the 
 
 ## See Also
 
-Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work connects to its predecessor, Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA), through its continued use of humor and satire in its storytelling. Although the gameplay mechanics have evolved significantly, with the introduction of an icon-based point-and-click system replacing the text parser interface, the series' lighthearted and comedic tone remains a constant element. This evolution in gameplay mechanics sets the stage for further innovations in subsequent entries.
-
-The narrative of Leisure Suit Larry 5 also references the missing fourth installment in the series, cleverly incorporating this gap into its storyline with Larry suffering from amnesia due to villainous actions. This plot point not only adds depth to the series' mythology but also paves the way for future storylines. In terms of gameplay, the removal of death and failure states, as well as the introduction of a more linear structure, marks a significant departure from earlier games in the series, influencing the design of later titles like Leisure Suit Larry 6 - Shape Up or Slip Out!.
-
-Leisure Suit Larry 5's impact on the series can be seen in its influence on Leisure Suit Larry 6 - Shape Up or Slip Out!, which continues to refine the point-and-click interface and builds upon the narrative foundations laid by its predecessor. The character development of Larry Laffer and Passionate Patti, as well as the introduction of new characters like Mr. Big, contributes to a richer series universe that subsequent games can draw upon. Mechanically, the success of the icon-based system in Leisure Suit Larry 5 solidified its use in future Sierra adventure games, including the next installment in the Leisure Suit Larry series.
-
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|← Previous: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|→ Next: Leisure Suit Larry 6 - Shape Up or Slip Out!]]

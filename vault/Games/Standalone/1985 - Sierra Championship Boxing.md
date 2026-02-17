@@ -221,6 +221,14 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [Macintosh Repository – Mac Version](https://www.macintoshrepository.org/3494-sierra-championship-boxing)
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
 
+## See Also
+
+Sierra Championship Boxing stands alone in the Sierra lineup, without direct narrative connections to preceding or succeeding titles like Troll's Tale and Stunt Flyer. However, its innovative approach to sports simulation paved the way for future games that would blend action, strategy, and management elements. The game's focus on realistic boxing mechanics and deep statistical modeling set a new standard for sports games, potentially influencing the development of later Sierra titles.
+
+Mechanically, Sierra Championship Boxing represents a significant departure from the adventure game genres that dominated Sierra's catalog, including Troll's Tale. While Troll's Tale featured puzzle-solving and exploration, Sierra Championship Boxing introduced players to a methodical, strategic approach to boxing, with three distinct play modes that catered to different player preferences. This shift towards simulation and strategy would not be directly built upon in Stunt Flyer, which likely returned to more action-oriented gameplay.
+
+The lack of direct continuity between Sierra Championship Boxing and its neighboring titles in the Sierra catalog is evident in their vastly different settings and gameplay mechanics. Unlike Troll's Tale, with its fantasy world and puzzle-solving, or Stunt Flyer, which probably featured fast-paced action, Sierra Championship Boxing grounded itself in the real-world sport of boxing, offering players a unique blend of management, strategy, and interactive competition. Despite these differences, Sierra Championship Boxing remains an important part of Sierra's history, showcasing the company's willingness to experiment with diverse genres and gameplay styles.
+
 ## References
 
 [^ref-1]: [Abandonware DOS – Sierra Championship Boxing](https://www.abandonwaredos.com/abandonware-game.php?gid=196) – release dates, platforms, developer, publisher, ratings

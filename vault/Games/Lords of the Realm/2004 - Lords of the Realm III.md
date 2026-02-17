@@ -119,12 +119,6 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 
 ## See Also
 
-Lords of the Realm III builds upon the foundation established by its predecessor, Lords of the Realm II - Siege Pack, by introducing real-time strategy gameplay and full 3D graphics to the series. This shift in gameplay style allows for a more immersive and dynamic experience, with players able to engage in simultaneous conflicts and coordinate actions across different theaters of operation. The game's narrative also expands on the series' historical context, setting players in medieval Europe between 850 AD and 1350 AD as minor nobles seeking to unite their country under supreme rule.
-
-The gameplay mechanics in Lords of the Realm III represent a significant evolution from the turn-based predecessors, with a focus on balancing multiple interconnected systems including resource management, military strategy, and diplomatic relations. The game's AI presents various challenges, and players must manage 18 different unit types across various military engagements while simultaneously overseeing economic development and territorial expansion. This complexity is a departure from the more straightforward gameplay of Lords of the Realm II - Siege Pack, and sets the stage for future games in the series to build upon.
-
-As the final installment in the Lords of the Realm series, Lords of the Realm III provides a sense of closure and completion to the narrative arc established by its predecessors. The game's story centers on the struggle for power among warring factions in England and Germany, with players competing with five other lords in a struggle for the crown. While there is no direct sequel to Lords of the Realm III, the game's influence can be seen in other real-time strategy games that have followed in its footsteps, and its legacy continues to be felt in the gaming community.
-
 - **Next:** None (series concluded)
 - [[1997 - Lords of the Realm II - Siege Pack|← Previous: Lords of the Realm II - Siege Pack]]
 

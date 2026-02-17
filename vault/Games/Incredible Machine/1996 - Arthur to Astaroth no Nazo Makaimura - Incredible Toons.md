@@ -204,12 +204,6 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 
 ## See Also
 
-Arthur to Astaroth no Nazo Makaimura: Incredible Toons builds upon the mechanical puzzle foundations established in The Incredible Machine 3.0, introducing a unique narrative element and crossover characters from the Ghosts 'n Goblins series. This blend of physics-based puzzles with the gothic fantasy setting creates a distinctive experience that diverges from the purely mechanical focus of its predecessors. By incorporating characters like Arthur and Astaroth, the game expands the franchise's scope, offering a fresh take on the traditional Incredible Machine formula.
-
-The gameplay mechanics in Arthur to Astaroth no Nazo Makaimura: Incredible Toons laid the groundwork for future innovations in the series, particularly in Return of The Incredible Machine - Contraptions. The latter title would refine and expand upon the puzzle mechanics introduced in Incredible Toons, offering an even wider array of contraptions and challenges. Although Incredible Toons features a more narrative-driven approach than its successors, its influence on the evolution of the series' mechanical puzzles is evident. The game's editor for creating custom puzzle designs also set a precedent for future titles, which would place greater emphasis on community engagement and user-generated content.
-
-As a bridge between The Incredible Machine 3.0 and Return of The Incredible Machine - Contraptions, Arthur to Astaroth no Nazo Makaimura: Incredible Toons occupies a unique position in the series' history. Its experimental approach to narrative integration and character crossover paved the way for future creative risks in the franchise. While it may not have directly influenced the core mechanics of subsequent games, its impact on the series' willingness to innovate and explore new ideas is undeniable. The game's cult status among retro gaming enthusiasts serves as a testament to its enduring appeal and the fascination with this unusual chapter in the Incredible Machine saga.
-
 - Spinoff title; does not directly continue the main series timeline
 - [[1995 - The Incredible Machine 3.0|← Previous: The Incredible Machine 3.0]]
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]

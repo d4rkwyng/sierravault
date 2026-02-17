@@ -135,12 +135,6 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 
 ## See Also
 
-NASCAR Racing 4 builds upon the foundation established by its predecessor, NASCAR Racing 3, by introducing significant technical innovations such as the ability for cars to flip over, adding a new layer of realism to the game. This feature, along with the use of a modified Grand Prix Legends physics engine, marked a substantial improvement in gameplay mechanics and simulation fidelity compared to NASCAR Racing 3. The game's development was influenced by feedback from players of the previous title, indicating a clear narrative and mechanical progression within the series.
-
-The connection between NASCAR Racing 4 and its successor, NASCAR Racing 2002 Season, is evident in the continued refinement of the physics engine and simulation mechanics. NASCAR Racing 2002 Season would go on to further enhance the realism and authenticity of the NASCAR experience, building upon the groundwork laid by NASCAR Racing 4. The evolution from NASCAR Racing 4 to NASCAR Racing 2002 Season demonstrates a clear trajectory of improving game mechanics, graphics, and overall player immersion, with each title addressing community feedback and pushing the boundaries of what a NASCAR simulation could offer.
-
-NASCAR Racing 4's impact on the series is also reflected in its influence on subsequent titles, including NASCAR Racing 2002 Season, which continued to refine the physics engine and introduce new features that enhanced gameplay. The game's success and the lessons learned from its development played a crucial role in shaping the direction of future NASCAR games, ensuring that each new entry would offer a more realistic, engaging, and authentic racing experience. By understanding the advancements made in NASCAR Racing 4, it becomes clear how the series progressed over time, with each title contributing to the overall narrative and mechanical evolution of the NASCAR Racing series.
-
 - [[1999 - NASCAR Racing 3|← Previous: NASCAR Racing 3]]
 - [[2002 - NASCAR Racing 2002 Season|→ Next: NASCAR Racing 2002 Season]]
 

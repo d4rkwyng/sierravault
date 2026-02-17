@@ -195,12 +195,6 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 
 ## See Also
 
-Hoyle Official Book of Games - Volume 3 builds upon the foundation established by its predecessor, Hoyle Official Book of Games - Volume 2, by expanding the series into the realm of board games. This shift in focus introduces players to a new set of classic tabletop experiences, including Backgammon, Checkers, and Chess, while maintaining the social aspect that defined the earlier volumes through the inclusion of Sierra's adventure game characters as opponents. The game's designer, Warren Schwader, ensured that the transition to board games was seamless, incorporating the same level of authenticity and attention to detail that made the card games in Volume 2 so enjoyable.
-
-The gameplay mechanics in Volume 3 also laid the groundwork for future improvements seen in Hoyle Official Book of Games - Volume 4. The introduction of adjustable difficulty levels and the "attitude meter" allowed players to customize their experience, catering to a wide range of skill levels and preferences. This flexibility would become a hallmark of the series, with subsequent volumes refining these features to create an even more engaging and accessible experience for players. By offering a diverse collection of board games and incorporating beloved characters from Sierra's adventure game catalog, Volume 3 set the stage for the continued evolution of the Hoyle series.
-
-As the series progressed to Hoyle Official Book of Games - Volume 4, the foundation established by Volume 3 in terms of gameplay variety and social interaction was built upon. The later volume would introduce new games and further refine the player experience, solidifying the Hoyle series as a staple of family-friendly entertainment. The success of Volume 3 in blending traditional board games with interactive elements and charming characters paved the way for the innovations seen in Volume 4, demonstrating Sierra's commitment to enhancing gameplay while retaining the essence of what made the series appealing to a broad audience.
-
 - [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
 

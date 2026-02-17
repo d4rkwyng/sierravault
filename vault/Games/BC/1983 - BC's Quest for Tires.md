@@ -269,12 +269,6 @@ The game also exemplifies the rapid multi-platform development practices of the 
 
 ## See Also
 
-B.C.'s Quest for Tires is a pivotal installment in the B.C. series, laying the groundwork for the events of BC II - Grog's Revenge. Although the game does not directly feature the character B.C., it introduces key elements that would become integral to the series, such as the prehistoric setting and the cast of characters from Johnny Hart's comic strip. The gameplay mechanics, particularly the side-scrolling action and obstacle avoidance, set a precedent for the evolution of the series.
-
-The narrative of B.C.'s Quest for Tires revolves around Thor's quest to rescue Cute Chick from a dinosaur, establishing a pattern of rescue missions and perilous adventures that would continue in subsequent games. The introduction of Grog, the club-wielding Neanderthal, foreshadows the more prominent role he would play in BC II - Grog's Revenge. Mechanically, the game's focus on timing and precision jumping laid the foundation for the more complex challenges and level designs that would appear in later entries.
-
-As the series progresses to BC II - Grog's Revenge, players can expect to see the return of familiar characters and environments, as well as the introduction of new gameplay mechanics and challenges. The success of B.C.'s Quest for Tires, with its faithful recreation of the comic strip aesthetic and addictive gameplay, paved the way for the development of more sophisticated and engaging games in the series. With its unique blend of action, humor, and prehistoric adventure, B.C.'s Quest for Tires remains an important part of the B.C. series' heritage, influencing the direction of future games like BC II - Grog's Revenge.
-
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
 
 ## References

@@ -204,12 +204,6 @@ The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^
 
 ## See Also
 
-Hoyle Word Games 2001 builds upon the foundation established by its predecessor, Hoyle Kids Games, by expanding the series' scope to include a wide array of word-based puzzles and games. This shift in focus allows for a more nuanced exploration of language and logic skills, catering to a broader audience while maintaining the accessibility that defined the previous entry. The inclusion of nine ingenious word games with hundreds of variations demonstrates a clear evolution in gameplay depth and variety.
-
-The mechanical advancements in Hoyle Word Games 2001, such as the enhanced graphics and sound effects, personalized avatars through the Facemaker feature, and internet multiplayer capabilities, set the stage for future innovations in the series. The next installment, Hoyle Card Games, would likely benefit from these developments, potentially incorporating similar features while shifting the focus back to card games. This continuity in innovation suggests that the series is committed to providing engaging and socially interactive experiences across different genres of classic games.
-
-As the series progresses towards Hoyle Card Games, it is anticipated that the lessons learned from Hoyle Word Games 2001 regarding game variety, educational value, and multiplayer functionality will be applied to enhance the card game experience. The success of Hoyle Word Games 2001 in balancing entertainment with educational content, as noted by reviewers who praised its value proposition and accessibility, will likely influence the design of subsequent titles. By understanding the narrative and mechanical connections between these games, players can appreciate the evolving nature of the Hoyle series and how each entry contributes to the overall legacy of Sierra's classic game compilations.
-
 - **Related:** Various Hoyle Card Games, Hoyle Casino, and Hoyle Board Games titles
 - [[2001 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2002 - Hoyle Card Games|→ Next: Hoyle Card Games]]

@@ -164,12 +164,6 @@ This game has been included in the following collections:
 
 ## See Also
 
-Space Quest II - Vohaul's Revenge builds upon the narrative foundation established in Space Quest - The Sarien Encounter, as Roger Wilco once again finds himself entangled in a battle against the villainous Sludge Vohaul. This sequel delves deeper into the backstory of Vohaul, revealing his motivations for revenge against Xenon and his role in creating the Star Generator, which was central to the plot of the first game. The gameplay mechanics also see refinement, with the continued use of the AGI engine and text parser interface, although the puzzles and challenges introduced in Space Quest II are more complex and require careful navigation and item management.
-
-The transition from Space Quest - The Sarien Encounter to Space Quest II - Vohaul's Revenge is marked by an increase in the stakes for Roger Wilco, as he faces off against a more personal enemy in Sludge Vohaul. The story expands the Space Quest universe, introducing new locations such as the jungle planet of Labion and Vohaul's Asteroid Fortress, which add to the richness and diversity of the series' setting. Mechanically, the game retains the core elements that defined the first entry, including inventory-based puzzles and a variety of death scenes, but with an increased emphasis on exploration and survival in hostile environments.
-
-Looking ahead to Space Quest III - The Pirates of Pestulon, it is clear that the events of Space Quest II - Vohaul's Revenge set the stage for Roger Wilco's future adventures. Although specific narrative connections between the two games are not immediately apparent from the context of Space Quest II alone, the evolution of gameplay mechanics and the expansion of the series' universe in Space Quest II undoubtedly pave the way for the new challenges and storylines introduced in Space Quest III. The transition to the SCI engine in future titles also promises significant advancements in graphics and gameplay capabilities, potentially altering the way players interact with the world of Space Quest.
-
 - [[Space Quest Series]] - Series overview
 - [[1986 - Space Quest - The Sarien Encounter|← Previous: Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon|→ Next: Space Quest III - The Pirates of Pestulon]]

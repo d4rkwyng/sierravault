@@ -205,12 +205,6 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 
 ## See Also
 
-Front Lines builds upon the foundations laid by its predecessor, Detroit, by introducing a futuristic setting and advanced military technologies to the Impressions series. The game's alternate history theme and accessible approach to wargaming serve as a natural progression from the more traditional strategy elements found in Detroit. As players navigate the hypothetical conflict of Front Lines, they will encounter a mix of familiar strategic gameplay and innovative mechanics that set the stage for future entries in the series.
-
-The narrative of Front Lines, with its focus on a near-future European theater of war, establishes a groundwork for the more intense and dramatic scenarios that will unfold in Breach 3. The technological advancements depicted in Front Lines, including heavy laser weapons and powered armor systems, will likely play a significant role in shaping the conflict and gameplay of Breach 3. By exploring the implications of these advancements on modern warfare, players can gain a deeper understanding of the series' evolving narrative and mechanical themes.
-
-Mechanically, Front Lines refines the turn-based strategy formula established by earlier Impressions titles, incorporating new units and technologies that will continue to evolve in Breach 3. The game's scenario-based structure and level editor also provide a framework for the more complex and dynamic campaigns that will be introduced in subsequent games. As the series progresses, players can expect to see further innovations in gameplay and narrative, building upon the foundations laid by Front Lines and its predecessors to create a rich and immersive strategic experience.
-
 - [[1994 - Detroit|← Previous: Detroit]]
 - [[1995 - Breach 3|→ Next: Breach 3]]
 

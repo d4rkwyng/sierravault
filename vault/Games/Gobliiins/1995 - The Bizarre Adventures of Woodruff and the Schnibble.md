@@ -252,12 +252,6 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 
 ## See Also
 
-The Bizarre Adventures of Woodruff and the Schnibble connects narratively to Goblins Quest 3 through its shared visual style, gameplay, and offbeat humor, which are all reminiscent of Coktel Vision's beloved Gobliiins series. Although not officially part of the franchise, the game's spiritual successor status is evident in its unique blend of comedy, puzzle-solving, and surreal storyline. The game's protagonist, Woodruff, must navigate a bizarre post-apocalyptic world populated by mutant creatures called Boozooks, which shares some similarities with the fantastical worlds found in Goblins Quest 3.
-
-Mechanically, The Bizarre Adventures of Woodruff and the Schnibble builds upon the point-and-click adventure gameplay of its predecessors, including Goblins Quest 3, with a context-sensitive cursor system that allows players to interact with the game world. The game's use of hand-painted backgrounds and animation also evolves from the visual style established in earlier Coktel Vision titles. As the series continues with Gobliiins 4, it is likely that the gameplay mechanics and narrative themes introduced in Woodruff and the Schnibble will be further developed and refined.
-
-The Bizarre Adventures of Woodruff and the Schnibble sets the stage for Gobliiins 4 by introducing a new cast of characters, including Woodruff and the Boozooks, and exploring themes of xenophobia, racism, and cultural interaction. The game's narrative gradually shifts from comedy to a more serious study of these themes, which may be continued or expanded upon in Gobliiins 4. Additionally, the gameplay mechanics, such as the use of ancient Boozook syllables and the ability to levitate, may be built upon or modified in the next installment of the series.
-
 - **Related:** [[1991 - Gobliiins]] (spiritual predecessor)
 - **Related:** [[1992 - Gobliins 2 - The Prince Buffoon]]
 - **Related:** [[1993 - Goblins Quest 3]]

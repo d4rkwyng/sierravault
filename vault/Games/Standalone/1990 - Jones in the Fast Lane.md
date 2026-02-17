@@ -143,6 +143,14 @@ The game's satirical take on the American Dream resonates differently in differe
 - [MyAbandonware](https://www.myabandonware.com/game/jones-in-the-fast-lane-1xb)
 - [Internet Archive](https://archive.org/details/jones-in-the-fast-lane-dos)
 
+## See Also
+
+Jones in the Fast Lane stands as a unique title within Sierra's catalog, departing from their traditional adventure game formula to offer a life simulation experience. Unlike Codename - Iceman, which focused on espionage and puzzle-solving, Jones in the Fast Lane brings players into the mundane yet challenging world of everyday life, where managing finances, education, career, and happiness are the keys to success. This shift towards simulation gameplay sets it apart from its predecessors and successors, offering a fresh perspective that would influence future simulation games.
+
+The game's satirical take on achieving the American Dream, with its blend of board game elements and life simulation, presents a distinct narrative voice compared to other Sierra titles. While Zeliard, with its action-adventure gameplay and fantasy setting, seems like a stark contrast, both games share a common thread in their innovative approach to gameplay mechanics. Jones in the Fast Lane's use of the SCI engine allowed for a detailed and interactive world, similar to how Zeliard would later utilize technology to create immersive environments.
+
+In terms of mechanical evolution, Jones in the Fast Lane's turn-based strategy simulation laid groundwork for future life simulation games. The game's focus on time management, resource allocation, and balancing different aspects of life (such as money, education, career, and happiness) introduced players to a complex yet engaging gameplay experience. This complexity, combined with its competitive multiplayer aspect, made Jones in the Fast Lane a compelling diversion that appealed to a wide range of players, much like how Zeliard would later attract fans with its challenging platforming and exploration elements.
+
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/370/jones-in-the-fast-lane/) – Basic game information and release details

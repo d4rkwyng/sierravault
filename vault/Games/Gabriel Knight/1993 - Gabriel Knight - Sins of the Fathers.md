@@ -348,12 +348,6 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 
 ## See Also
 
-Gabriel Knight: Sins of the Fathers lays the groundwork for the series' narrative arc, introducing players to the charismatic but troubled protagonist Gabriel Knight, a horror novelist with a mysterious past. The game's story is largely self-contained, but it sets the stage for the events of The Beast Within - A Gabriel Knight Mystery, which explores Gabriel's further struggles with his destiny as a Schattenjäger, or shadow hunter. As the first installment in the series, Sins of the Fathers establishes the blend of supernatural mystery, historical research, and personal drama that would become a hallmark of the Gabriel Knight games.
-
-The gameplay mechanics introduced in Sins of the Fathers, such as the icon-based interface and separate ASK and TALK icons, were refined and expanded upon in The Beast Within, which featured a more streamlined interface and greater emphasis on character interactions. The success of Sins of the Fathers also influenced the development of other Sierra games, as the company began to focus more on creating mature, story-driven adventures with complex characters and morally ambiguous themes. The game's use of a "dumb" cursor, which required players to actively engage with the environment, added to the sense of immersion and interactivity that would become a key aspect of the series.
-
-The narrative threads introduced in Sins of the Fathers, including Gabriel's family history and his role as a Schattenjäger, are woven throughout the series, with The Beast Within exploring the consequences of Gabriel's actions in the first game. The character of Gabriel Knight, voiced by Tim Curry, becomes a central figure in the series, and his relationships with other characters, such as Detective Mosely and Grace Nakimura, are developed further in subsequent games. As the series progresses, the gameplay mechanics and narrative themes introduced in Sins of the Fathers continue to evolve, but the core elements that made the first game so compelling remain at the heart of the Gabriel Knight experience.
-
 - **20th Anniversary Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|→ Next: The Beast Within - A Gabriel Knight Mystery]]

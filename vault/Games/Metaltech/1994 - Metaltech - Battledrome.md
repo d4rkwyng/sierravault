@@ -233,12 +233,6 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 
 ## See Also
 
-Metaltech: Battledrome serves as a pivotal title in the Metaltech series, bridging the narrative and mechanical gap between its predecessors and successors. The game's focus on arena-based combat and competitive multiplayer laid the groundwork for future entries, such as Metaltech: Earthsiege Speech Pack, which would build upon these concepts by integrating new storytelling elements and gameplay mechanics. By offering a unique blend of mech customization, tactical combat, and online competition, Battledrome established a foundation for the series' exploration of futuristic warfare and robotic sports.
-
-In terms of narrative continuity, Metaltech: Battledrome expands on the universe introduced in earlier Metaltech titles, delving deeper into the world of giant robotic fighting machines known as Herculeans. The game's storyline, though less prominent than its gameplay, sets the stage for subsequent series entries by introducing key characters and plot points that would be further developed in games like Earthsiege. For example, the concept of the "Battledrome Robotic Combat Network" provides a rich backdrop for exploring the intersection of sports and warfare in the Metaltech universe.
-
-Mechanically, Battledrome represents an evolutionary step forward from earlier series entries, with its 3Space animation engine and customizable HERC chassis offering players a high degree of control over their in-game experience. The game's design emphasis on multiplayer competition and online connectivity also anticipated future developments in the series, such as the expansion of online features in Metaltech: Earthsiege Speech Pack. By building upon these innovations, later games in the series were able to offer more complex and engaging gameplay experiences, further solidifying the Metaltech franchise's reputation for innovative mech combat simulations.
-
 - **Related:** [[1994 - Metaltech - Earthsiege]]
 - [[1994 - Metaltech - Earthsiege|→ Next: Metaltech - Earthsiege]]
 

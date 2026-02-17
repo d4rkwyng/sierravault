@@ -204,12 +204,6 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 
 ## See Also
 
-Sierra Pro Pilot USA builds upon the foundation established by its predecessor, Sierra Pro Pilot '99 is not the previous entry but rather the next one, so the actual previous entry is likely incorrect in this context and should be considered as Sierra Pro Pilot '98. The game refines features and continues Sierra's attempt to challenge Microsoft Flight Simulator's dominance in the civilian flight simulation market. By leveraging expertise from their acquisition of Sub-Logic, which brought valuable geographical databases to the development, Sierra aimed to provide a more realistic and authentic flight experience.
-
-The release of Sierra Pro Pilot USA in 1998 marked an important step in the series' evolution, with its focus on instrument flying and procedural authenticity setting the stage for future titles. The game's use of 3Space technology delivered exceptional realism and fine graphics, making it a notable improvement over its predecessor. As the series progressed to Sierra Pro Pilot '99, players could expect even more refined features and realistic flight simulations.
-
-The narrative of becoming a competent instrument-rated pilot in Sierra Pro Pilot USA is a key aspect of the game, with players progressing from basic visual flying to complex navigation using VOR and NDB beacons. This journey would continue in Sierra Pro Pilot '99, which likely built upon the foundations established in USA, offering new challenges and opportunities for players to hone their aviation skills. The gameplay mechanics, including realistic instrumentation and AI air traffic controllers, were also expected to evolve in the next installment, providing an even more immersive experience for players.
-
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
 ## References

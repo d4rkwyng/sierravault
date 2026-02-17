@@ -216,12 +216,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 ## See Also
 
-Discovery: In the Steps of Columbus builds upon the foundations established in Conquest of Japan, refining the Impressions game engine to deliver a more immersive real-time strategy experience. The shift from feudal Japan to the Age of Discovery introduces new gameplay mechanics, such as exploration and colonization, which add depth to the series. By allowing players to choose their starting nation and compete against other European powers, the game expands on the competitive elements seen in Conquest of Japan.
-
-The narrative context of Discovery: In the Steps of Columbus sets the stage for the next entry in the series, Cohort II - Fighting for Rome, by introducing players to the concept of empire-building and resource management. Although the historical setting differs, the core gameplay principles of exploration, economic development, and military defense are refined in Discovery, laying the groundwork for the more focused, tactical experience offered in Cohort II. The evolution of the Impressions engine also enables more complex scenarios and challenging AI opponents, features that would become hallmark characteristics of the series.
-
-As the series progresses from Conquest of Japan to Discovery: In the Steps of Columbus and eventually to Cohort II - Fighting for Rome, there is a noticeable shift towards more nuanced gameplay mechanics and richer historical contexts. The introduction of new worlds and the challenges of colonization in Discovery serve as a midpoint between the feudal warfare of Conquest of Japan and the ancient Roman setting of Cohort II, demonstrating the series' ability to adapt and evolve while maintaining its strategic core. This continuity ensures that players can appreciate the growth and refinement of the Impressions series across its various titles.
-
 - [[1992 - Conquest of Japan|← Previous: Conquest of Japan]]
 - [[1993 - Cohort II - Fighting for Rome|→ Next: Cohort II - Fighting for Rome]]
 

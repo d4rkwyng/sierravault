@@ -296,12 +296,6 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 
 ## See Also
 
-The original Homeworld game sets the stage for the series, introducing players to the Kushan fleet's desperate journey to reclaim their ancient homeworld of Hiigara. As the first installment in the series, it establishes key characters like Karan S'jet, who plays a central role in the fleet's operations as Fleet Command. The game's narrative and mechanics lay the groundwork for the events of Homeworld: Cataclysm, which explores the aftermath of the Kushan's arrival in Hiigara and the new challenges they face.
-
-Homeworld: Cataclysm builds upon the foundation established by the original game, expanding on the series' lore and introducing new gameplay elements. The next entry in the series sees the Kushan fleet dealing with the consequences of their actions in Homeworld, as they navigate the complexities of their newfound home and confront emerging threats. Mechanically, Cataclysm refines the 3D interface and controls pioneered by Homeworld, offering a more polished and immersive experience for players.
-
-The success of Homeworld and its impact on the real-time strategy genre can be seen in the evolution of the series, with each subsequent installment pushing the boundaries of what is possible in terms of storytelling, gameplay, and technology. As the series progresses, characters like Karan S'jet continue to play important roles, and the Kushan fleet's journey becomes increasingly complex and epic in scope. The connections between Homeworld and its sequels are evident in the way each game builds upon the narrative and mechanical foundations established by the previous entry, creating a cohesive and engaging series that explores the depths of space and the human condition.
-
 - [[2000 - Homeworld - Cataclysm|→ Next: Homeworld - Cataclysm]]
 
 ## References

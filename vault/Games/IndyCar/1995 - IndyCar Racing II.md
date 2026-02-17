@@ -146,12 +146,6 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 
 ## See Also
 
-IndyCar Racing II builds upon the foundation established by its predecessor, IndyCar Racing, with significant improvements in realism and authenticity. The game's focus on realistic simulation and authentic handling characteristics was a direct response to feedback from players of the first game, who craved a more immersive experience. By incorporating advancements from NASCAR Racing, such as improved physics and graphics, IndyCar Racing II set a new standard for racing simulations.
-
-The game's narrative is closely tied to the 1995 CART season, with players taking on the role of an IndyCar driver competing across 15 real tracks. This attention to detail and commitment to realism helped establish IndyCar Racing II as a benchmark for future games in the series, including CART Racing. The latter title would go on to build upon the foundations laid by IndyCar Racing II, introducing new features and improvements while maintaining the high level of authenticity that fans had come to expect.
-
-In terms of gameplay evolution, IndyCar Racing II marked a significant step forward from its predecessor, with enhanced graphics, improved physics, and more realistic handling characteristics. The game's success paved the way for future innovations in the series, including the introduction of new game modes and features in CART Racing. By refining the core mechanics and focusing on realism, Papyrus Design Group created a game that would remain a classic in the racing simulation genre for years to come.
-
 - [[1993 - IndyCar Racing|← Previous: IndyCar Racing]]
 - [[1997 - CART Racing|→ Next: CART Racing]]
 

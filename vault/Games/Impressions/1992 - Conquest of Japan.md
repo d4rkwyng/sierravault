@@ -202,12 +202,6 @@ The game represents Impressions Games' continued experimentation with historical
 
 ## See Also
 
-Conquest of Japan builds upon the strategic foundations laid by its predecessor, Air Force Commander, by introducing a new historical setting and refining the tactical combat mechanics. The game's focus on feudal Japanese warfare and its use of the Micro Miniatures combat system create a unique blend of strategy and history, setting the stage for future Impressions titles to explore diverse historical periods and settings. Although Air Force Commander dealt with modern military conflicts, Conquest of Japan's shift to medieval Japan showcases the developer's willingness to experiment with different eras and themes.
-
-The narrative of Conquest of Japan is relatively self-contained, with players taking on the role of a Daimyo seeking to unify Japan through conquest. However, the game's historical context and themes of exploration and discovery create a narrative thread that can be seen as a precursor to the events of Discovery - In the Steps of Columbus, which explores the Age of Exploration in a similar blend of strategy and history. While the two games differ significantly in setting and gameplay, they share a common spirit of adventure and discovery that defines the Impressions series.
-
-Mechanically, Conquest of Japan lays the groundwork for the more complex strategic systems found in later Impressions games, including Discovery - In the Steps of Columbus. The game's use of seasonal turns, resource management, and tactical combat creates a challenging and immersive experience that would be refined and expanded upon in future titles. The introduction of new unit types and historical settings also adds depth to the series, demonstrating Impressions' commitment to innovation and historical accuracy. As the series evolves, these elements will continue to shape the gameplay and narrative of subsequent titles, including Discovery - In the Steps of Columbus.
-
 - [[1992 - Air Force Commander|← Previous: Air Force Commander]]
 - [[1992 - Discovery - In the Steps of Columbus|→ Next: Discovery - In the Steps of Columbus]]
 

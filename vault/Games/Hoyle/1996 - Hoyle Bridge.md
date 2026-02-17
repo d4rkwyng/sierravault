@@ -201,12 +201,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 
 ## See Also
 
-Hoyle Bridge connects to the previous entry in the series, Hoyle Blackjack, through its shared lineage under the Hoyle brand, which has consistently delivered card and board game experiences to players. While Hoyle Blackjack focused on the popular casino banking game, Hoyle Bridge expands the series' scope by delving into the complex world of contract bridge, offering a unique blend of strategy and social interaction. This shift in focus reflects Sierra's strategy to create specialized game products that cater to specific audiences, as seen in the extraction of Hoyle Bridge from the broader Hoyle Classic Games compilation.
-
-Mechanically, Hoyle Bridge builds upon the foundations established by earlier Hoyle titles, including Hoyle Blackjack, by incorporating intuitive mouse-driven controls and comprehensive tutorials designed to appeal to both novice and experienced players. The game's innovative "Explain Hand" feature and adjustable skill levels further enhance the player experience, providing a sense of progression and challenge that is reminiscent of the engaging gameplay found in Hoyle Blackjack. As the series continues to evolve, these mechanical advancements will likely influence the development of subsequent titles, such as Hoyle Casino.
-
-In terms of narrative connection, Hoyle Bridge sets the stage for the next entry in the series, Hoyle Casino, by introducing players to a variety of card games and social atmospheres that will be further expanded upon in the casino setting. The game's lighthearted and humorous approach, as embodied by its animated opponents and whimsical characters, also lays the groundwork for the more fast-paced and entertaining experience that awaits players in Hoyle Casino. By building upon the strengths of its predecessors and introducing new gameplay elements, Hoyle Bridge plays a crucial role in the ongoing evolution of the Hoyle series, ultimately contributing to the rich and diverse gaming landscape that fans have come to expect from Sierra.
-
 - **Related:** [[1993 - Hoyle Classic Card Games]] (parent compilation)
 - **Related:** [[1989 - Hoyle Official Book of Games - Volume 1]] (series origin)
 - [[1991 - Hoyle Official Book of Games - Volume 4|← Previous: Hoyle Official Book of Games - Volume 4]]

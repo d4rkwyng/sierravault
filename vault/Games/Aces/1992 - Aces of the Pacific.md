@@ -113,12 +113,6 @@ The Sierra Chest archives provide extensive documentation of the game's various 
 
 ## See Also
 
-Aces of the Pacific builds upon the foundations laid by its predecessors in the Aces series, refining the flight simulation experience with meticulous attention to historical detail and authentic gameplay mechanics. The game's narrative, set against the backdrop of World War II's Pacific Theater, introduces players to legendary aces such as Greg "Pappy" Boyington and Hiroshi Nishizawa, while allowing them to create their own pilot character and navigate the brutal skies from 1941 to 1945. This setup lays the groundwork for the next installment in the series, Aces Over Europe, which would expand the franchise's scope to include the European Theater of Operations.
-
-Mechanically, Aces of the Pacific introduces a range of features that would become staples of the series, including comprehensive control options, a viewpoint system with multiple cockpit and external views, and realistic flight models that simulate the unique characteristics of over 25 vintage aircraft. The game's success in balancing accessibility with realism helped establish the Aces series as a benchmark for flight simulation games, paving the way for future entries like Aces Over Europe to build upon this foundation. By incorporating historical reenactments, career mode progression, and innovative features like the record/playback mission system, Aces of the Pacific set a high standard for immersive and engaging gameplay.
-
-The transition from Aces of the Pacific to Aces Over Europe is marked by a shift in geographical focus, with the series expanding its scope to encompass the European Theater of Operations. However, the core gameplay mechanics and attention to historical detail that defined Aces of the Pacific remain intact, ensuring a seamless continuity between the two games. Players who experienced the thrill of aerial combat in the Pacific can look forward to new challenges and opportunities in the European Theater, with iconic aircraft, legendary aces, and pivotal battles waiting to be discovered. As the series continues to evolve, the legacy of Aces of the Pacific remains an essential part of the Aces series' identity, influencing the development of future games and solidifying its place as a classic of the genre.
-
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 

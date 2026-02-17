@@ -202,12 +202,6 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 
 ## See Also
 
-Red Baron Arcade connects narratively to its predecessor, Curse You! Red Baron, through its shared World War I setting and focus on aerial combat. However, unlike Curse You! Red Baron, which likely had a stronger emphasis on storytelling and character development, Red Baron Arcade prioritizes action over narrative depth, presenting missions as a series of escalating combat challenges. This shift in focus reflects the game's arcade-style gameplay, which is designed to be more accessible and fast-paced than its simulation-focused counterpart.
-
-Mechanically, Red Baron Arcade builds upon the foundations established by earlier games in the series, introducing streamlined controls and arcade sensibilities that differentiate it from the original Red Baron's realistic flight dynamics. The game's inclusion of 20 historic WWI aircraft and varied mission objectives, such as balloon strafing and escort duties, also expands on the gameplay elements found in previous entries. As the series continues to evolve, it will be interesting to see how future games balance accessibility with realism, potentially incorporating elements from Red Baron Arcade into a more comprehensive simulation experience.
-
-In terms of its connection to future entries in the series, Red Baron Arcade's emphasis on arcade-style gameplay and multiplayer functionality may pave the way for subsequent games that further explore these aspects. The game's release on PlayStation 3, in particular, demonstrates the potential for console-based iterations of the series, which could appeal to a broader audience and introduce new players to the world of World War I flight combat. As the Red Baron series continues to grow and evolve, fans can expect to see a blend of traditional simulation elements with more accessible, action-oriented gameplay, potentially leading to innovative new titles that build upon the foundations established by Red Baron Arcade.
-
 - **Next:** None (final entry in series)
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim

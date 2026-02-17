@@ -221,12 +221,6 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 
 ## See Also
 
-The 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition is a unique installment in the 3-D Ultra series, diverging from the pinball-focused gameplay of its predecessor, 3-D Ultra Pinball - Thrill Ride, to offer an arcade-style racing experience. While there isn't a direct narrative connection between the two games, they share the series' signature blend of whimsy and challenge, with Radio Control Racers introducing players to fast-paced RC car racing across imaginative tracks. This shift in gameplay genre sets the stage for future innovations within the series.
-
-Mechanically, 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition builds upon the accessible, family-friendly approach that defines the 3-D Ultra series, laying groundwork for subsequent titles like Maximum Pool to refine and expand their respective genres. The introduction of RC car racing and its associated gameplay mechanics, such as track navigation and vehicle customization, showcases Dynamix's ability to evolve and diversify within the series. This evolution is evident in how Radio Control Racers' focus on racing and competition differs from the more casual, creative experiences offered by earlier titles.
-
-The connection to Maximum Pool, the next entry in the series, can be seen in the continued emphasis on accessible, entertaining gameplay that appeals to a broad audience. While Maximum Pool shifts the focus towards cue sports, it retains the 3-D Ultra series' commitment to delivering engaging, easy-to-learn experiences. The absence of a direct narrative thread between these games is consistent with the series' approach, instead highlighting the variety and innovation that each new title brings to the table. This variety is a hallmark of the 3-D Ultra series, allowing it to cater to different tastes and preferences within its broad audience.
-
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
 

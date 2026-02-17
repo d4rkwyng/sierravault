@@ -209,12 +209,6 @@ Modern players can run the Windows version through compatibility modes, though s
 
 ## See Also
 
-Maximum Pool builds upon the foundation established by its predecessor, 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition, by transitioning from a racing theme to a sports simulation focus, showcasing the versatility of the 3D Ultra series. This shift is evident in the game's emphasis on realistic pool physics and varied gameplay modes, including both traditional pool variants and innovative "maximum" games. The development team, led by Senior Producer Randy Thompson, aimed to create an accessible yet deep pool simulation that would appeal to a broad audience.
-
-The game's success in blending accessibility with depth paved the way for future entries in the series, such as 3D Ultra MiniGolf Adventures, which would further explore the potential of sports simulations within the 3D Ultra franchise. Maximum Pool's pioneering support for online play across different platforms also set a precedent for future games to prioritize cross-platform compatibility and community features. The game's engine and design principles were likely influential in the development of subsequent titles, ensuring a continuity of quality and innovation throughout the series.
-
-Maximum Pool's impact on the series is further underscored by its refinement of gameplay mechanics, such as the cue control system and target ball indicator, which contributed to a more immersive and realistic pool experience. These advancements would be built upon in later games, allowing the 3D Ultra series to maintain its reputation for delivering engaging and sophisticated sports simulations. As the series continued to evolve with titles like 3D Ultra MiniGolf Adventures, the core principles established by Maximum Pool remained essential to the franchise's identity and appeal.
-
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|← Previous: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 - [[2006 - 3D Ultra MiniGolf Adventures|→ Next: 3D Ultra MiniGolf Adventures]]
 

@@ -277,12 +277,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 
 ## See Also
 
-King's Quest V: Absence Makes the Heart Go Yonder builds upon the narrative foundation established in King's Quest IV - The Perils of Rosella, where Princess Rosella's adventures concluded with her returning to Daventry. However, King's Quest V takes a dramatic turn as King Graham discovers his castle and family have vanished, setting him on a quest that intersects with characters and plot elements from previous games, including the evil wizard Mordack, brother of Manannan from King's Quest III. This connection highlights the evolving storyline and character relationships within the series.
-
-Mechanically, King's Quest V represents a significant leap forward from its predecessors, introducing a point-and-click interface that replaced the text parser, making the game more accessible to a wider audience. This innovation would influence subsequent games in the series, including Roberta Williams' King's Quest I - Quest for the Crown, which would further refine this interface and gameplay style. The introduction of 256-color VGA graphics and full voice acting also set a new standard for adventure games, impacting the development of future titles in the series.
-
-The story of King's Quest V directly influences the next game in the series, as Princess Cassima, whom Graham rescues from Mordack's castle, becomes a central character in the subsequent adventure. The gameplay evolution in King's Quest V, with its emphasis on point-and-click interaction and puzzle-solving, also lays the groundwork for the challenges and adventures that players would face in Roberta Williams' King's Quest I - Quest for the Crown, ensuring continuity and progression within the series.
-
 - [[King's Quest Series]] - Series overview
 - [[1988 - King's Quest IV - The Perils of Rosella|← Previous: King's Quest IV - The Perils of Rosella]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|→ Next: Roberta Williams' King's Quest I - Quest for the Crown]]

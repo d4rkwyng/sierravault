@@ -96,12 +96,6 @@ The game has been discussed in community forums[^ref-28] and manual preservation
 
 ## See Also
 
-Aces Over Europe builds upon the foundations laid by its predecessor, Aces of the Pacific, by introducing a new theater of conflict and expanding the scope of gameplay with more detailed aircraft models and historically-based scenarios. The game's narrative focuses on the European Theater of World War II, allowing players to experience pivotal moments in history from the perspective of pilots from the U.S. Army Air Force, R.A.F., and German Luftwaffe. This shift in setting and the addition of new flyable aircraft, such as the Messerschmitt 262 and Supermarine Spitfire IX, mark significant advancements over Aces of the Pacific.
-
-Mechanically, Aces Over Europe refined the flight simulation experience with improved graphics and a more complex flight model compared to its predecessor. The game supported various input methods, including analog joysticks for more realistic control, catering to both casual players and hardcore simulation enthusiasts. The inclusion of features like a realistic navigation system, recognizable landmarks, and unique environmental details such as bird strikes at low altitudes added depth to the gameplay, setting a new standard for flight simulators in the early 1990s.
-
-The series' progression towards more complex and realistic simulations is further evident in its successor, Aces of the Deep, which shifts the focus from aerial combat to submarine warfare. While Aces Over Europe concludes the aerial combat saga of the series with its detailed World War II European Theater scenarios, Aces of the Deep explores a different aspect of wartime strategy, showcasing the versatility and ambition of the Aces series in exploring various facets of military conflict. This transition underscores the series' commitment to historical accuracy, immersive gameplay, and technological innovation, cementing its place as a landmark franchise in the simulation genre.
-
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
 - [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim

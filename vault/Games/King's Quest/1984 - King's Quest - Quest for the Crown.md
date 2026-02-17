@@ -251,12 +251,6 @@ This game has been included in[^ref-8][^ref-9]:
 
 ## See Also
 
-King's Quest: Quest for the Crown sets the stage for the series, introducing players to the kingdom of Daventry and its brave knight, Sir Graham. As the first game in the series, it establishes the foundation for the narrative and gameplay elements that will be built upon in subsequent entries, including King's Quest II - Romancing the Throne. The story follows Sir Graham's quest to recover three stolen magical treasures, which will ultimately determine his worthiness to inherit the throne from the dying King Edward.
-
-The game's innovative use of animated graphics, text parser input, and explorable environments raises the bar for interactive entertainment, influencing the development of future games in the series. The introduction of characters like Rumplestiltskin, leprechauns, and a fairy godmother adds a touch of classic fairy tale charm to the game, which will continue to be a hallmark of the series. As players guide Sir Graham through the diverse landscape of Daventry, they will encounter challenges and puzzles that require creative problem-solving, a key aspect of the King's Quest series that will evolve in future games.
-
-The success of King's Quest: Quest for the Crown paves the way for King's Quest II - Romancing the Throne, which will continue the story of Sir Graham as he faces new challenges and adventures. The gameplay mechanics introduced in the first game, such as the hybrid interface and scoring system, will be refined and expanded upon in the sequel, offering players an even more immersive and engaging experience. As the series progresses, the kingdom of Daventry and its characters will become increasingly fleshed out, with each new game building on the narrative and gameplay elements established in King's Quest: Quest for the Crown.
-
 - **SCI Remake:** [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
 - [[King's Quest Series]] - Series overview
 - [[1985 - King's Quest II - Romancing the Throne|→ Next: King's Quest II - Romancing the Throne]]

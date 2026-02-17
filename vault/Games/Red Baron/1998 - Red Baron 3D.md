@@ -112,12 +112,6 @@ An amusing piece of trivia emerged years after release when someone successfully
 
 ## See Also
 
-Red Baron 3D builds upon the foundations laid by its predecessor, Red Baron II, by addressing the technical issues that plagued the earlier game and incorporating comprehensive 3D support. The result is a simulation that offers improved gameplay mechanics, including enhanced flight models and multiplayer capabilities, which sets the stage for the next entry in the series, Curse You! Red Baron. By refining the core elements of the Red Baron II experience, Dynamix created a worthy successor that would influence the development of future games in the series.
-
-The narrative of Red Baron 3D remains deeply rooted in the historical context of World War I, with players taking on the role of fighter pilots and engaging in aerial combat scenarios that draw from authentic plane specifications and pilot testimonies. This attention to detail and commitment to realism would become a hallmark of the series, with subsequent games like Curse You! Red Baron building upon this foundation to create even more immersive experiences. As the series evolves, the core focus on historical accuracy and realistic flight physics remains a constant, with each new entry introducing refinements and innovations that enhance the overall gameplay experience.
-
-In terms of mechanical evolution, Red Baron 3D represents a significant step forward from Red Baron II, with the introduction of improved 3D acceleration support and refined flight models that allow for more realistic and challenging gameplay. These advancements would pave the way for the development of Curse You! Red Baron, which would further push the boundaries of what is possible in a World War I combat flight simulation. By iterating upon the successes of Red Baron 3D, the series continues to grow and mature, offering players an increasingly authentic and engaging experience that simulates the thrill and danger of aerial combat during the Great War.
-
 - **Original:** [[1990 - Red Baron]]
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]

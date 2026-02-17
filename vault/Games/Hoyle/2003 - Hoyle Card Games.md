@@ -213,12 +213,6 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 
 ## See Also
 
-Hoyle Card Games builds upon the foundation established by its predecessor, Hoyle Board Games, by expanding the series' scope to include a wide variety of card games. This shift in focus allows players to experience new challenges and gameplay mechanics, such as the Facemaker feature, which enables customization of player avatars. The inclusion of 18 classic card games also sets the stage for future entries in the series, like Hoyle Casino, which would further diversify the types of games offered under the Hoyle brand.
-
-The transition from board games to card games in Hoyle Card Games marks a significant evolution in the series' gameplay and appeal. By incorporating features like computer-controlled opponents with distinct personalities and playing styles, the game enhances replayability and provides a more engaging experience for players. This approach would be refined and expanded upon in subsequent titles, including Hoyle Casino, which would introduce new genres of games and further solidify the Hoyle franchise's position as a leading provider of digital entertainment.
-
-As the series progresses to Hoyle Casino, players can expect an even broader range of gaming options, including casino-style games that build upon the card game foundations established in Hoyle Card Games. The mechanical and narrative connections between these titles are evident in their shared emphasis on accessibility, customization, and variety, ensuring a cohesive and engaging experience for fans of the Hoyle series. By exploring different genres and gameplay styles, the series continues to evolve and cater to a diverse audience, making each new entry a compelling addition to the Hoyle lineup.
-
 - [[2003 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2003 - Hoyle Casino|→ Next: Hoyle Casino]]
 

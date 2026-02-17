@@ -188,12 +188,6 @@ This game has been included in the following collections:
 
 ## See Also
 
-Although Space Quest I - Roger Wilco in the Sarien Encounter is a remake of the original 1986 Space Quest: The Sarien Encounter, it lays the groundwork for the series' future narrative and gameplay developments. The events of this game precede those of Space Quest III - The Pirates of Pestulon, where Roger Wilco's adventures continue in a new setting, building upon his experiences with the Sariens and the Star Generator. The VGA remake's introduction of point-and-click icons and enhanced graphics also sets the stage for the mechanical evolution seen in later titles.
-
-The story of Space Quest I follows Roger Wilco as he navigates through various locations, including the Arcada spaceship, the desert planet Kerona, and the Sarien ship Deltaur, ultimately leading to his confrontation with the Sariens and their sinister plans. This narrative thread is continued in subsequent games, such as Space Quest IV - Roger Wilco and the Time Rippers, where Roger faces new challenges and adversaries. The character development and world-building established in Space Quest I provide a foundation for the series' signature blend of humor, science fiction elements, and adventure gameplay.
-
-Mechanically, Space Quest I's use of the SCI game engine and point-and-click interface marks a significant departure from the text parser-based gameplay of the original. This shift towards more intuitive controls and interactive icons is refined in later Space Quest titles, including Space Quest IV, which builds upon the foundation established by the VGA remake. The introduction of new features, such as the "Smell" and "Taste" icons, adds to the game's comedic charm and sets the tone for the series' lighthearted approach to science fiction storytelling.
-
 - Original Version: [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter (AGI)]]
 - [[Space Quest Series]] - Series overview
 - [[1989 - Space Quest III - The Pirates of Pestulon|← Previous: Space Quest III - The Pirates of Pestulon]]

@@ -205,12 +205,6 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 
 ## See Also
 
-3-D Ultra Pinball marked a significant departure from earlier pinball games in terms of its immersive 3D graphics and realistic physics. While it did not directly continue the narrative of any preceding Sierra game, its innovative approach to gameplay set the stage for subsequent titles in the series, such as 3-D Ultra Pinball - Creep Night. The success of 3-D Ultra Pinball can be attributed to its engaging multiplayer modes and the inclusion of multiple interconnected tables, which became a hallmark of the series.
-
-The release of 3-D Ultra Pinball in 1995 established Sierra as a major player in the PC pinball market, and its influence can be seen in later games that built upon its innovative mechanics. For instance, the use of fantasy elements like tanks attacking the ball and comets creating craters on the playfield added a unique twist to traditional pinball gameplay. These features would continue to evolve in subsequent titles, such as 3-D Ultra Pinball - Creep Night, which introduced new themes and challenges while maintaining the series' signature blend of realism and fantasy.
-
-As the series progressed, Sierra continued to refine its pinball engine, incorporating feedback from players and critics alike. The next entry in the series, 3-D Ultra Pinball - Creep Night, would build upon the foundation established by 3-D Ultra Pinball, offering new tables, characters, and gameplay mechanics that further enhanced the player experience. By combining the best elements of traditional pinball with innovative video game design, Sierra created a beloved franchise that remains popular among retrogamers and pinball enthusiasts to this day.
-
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
 
 ## References

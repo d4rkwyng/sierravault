@@ -195,12 +195,6 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 
 ## See Also
 
-Front Page Sports - Football Pro '98 builds upon the foundation established by its predecessor, Front Page Sports - Baseball Pro '98, by introducing new features such as physics-based ball dynamics and motion-captured movement. These advancements set the stage for future innovations in the series, including the next entry, Front Page Sports - Golf, which would leverage similar technologies to create immersive golfing experiences. The game's focus on realistic gameplay simulation and detailed team management also laid the groundwork for more complex sports simulations.
-
-The career mode in Football Pro '98, where players manage teams over multiple seasons, is a significant departure from the more casual gameplay of Baseball Pro '98, showcasing the series' shift towards deeper, more strategic play. This trend would continue with Front Page Sports - Golf, which would likely incorporate similar long-term management elements, such as course design and golfer development. The game's emphasis on realistic player performance, contract negotiations, and roster construction also highlights the series' growing focus on authenticity.
-
-Mechanically, Football Pro '98's use of a 3D football engine and individual player AI marked a significant leap forward for the series, paving the way for future games like Front Page Sports - Golf to incorporate advanced graphics and realistic simulations. The game's accessibility improvements, including an easier-to-use interface and support for various input devices, also made it more appealing to a wider range of players, a trend that would likely continue with subsequent entries in the series. As the series progresses, it will be interesting to see how these mechanical advancements are adapted and refined to suit different sports and gameplay styles.
-
 - [[1997 - Front Page Sports - Baseball Pro '98|← Previous: Front Page Sports - Baseball Pro '98]]
 - [[1997 - Front Page Sports - Golf|→ Next: Front Page Sports - Golf]]
 

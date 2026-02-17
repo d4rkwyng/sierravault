@@ -195,12 +195,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 
 ## See Also
 
-Building on the foundation established by Hoyle Classic Board Games, Hoyle Backgammon and Cribbage expanded the series' repertoire with two new titles that showcased the company's dedication to recreating timeless gaming experiences for the digital age. This installment maintained the accessible and faithful approach to game design that defined the Hoyle series, while introducing players to the strategic depths of backgammon and cribbage through intuitive interfaces and varied computer-controlled opponents. The inclusion of internet play further enhanced the gaming experience, allowing for a sense of community among players.
-
-Mechanically, Hoyle Backgammon and Cribbage refined the point-and-click interface that had become a staple of the series, ensuring that players could easily navigate the intricacies of both games without becoming overwhelmed by complex controls. The game's structure, offering both backgammon and cribbage with their unique rules and strategies, provided a rich and varied experience that catered to different tastes within the casual gaming audience. This diversity in gameplay would later influence the development of Hoyle Casino, which built upon the success of Backgammon and Cribbage by introducing a broader range of casino games to the series.
-
-The narrative thread between Hoyle Classic Board Games and Hoyle Backgammon and Cribbage is more about continuity of quality and game design philosophy rather than a direct storyline, as these games are based on traditional board and card games. However, the release of Hoyle Backgammon and Cribbage set the stage for the series' future evolution, including the eventual transition to more complex and varied gaming experiences like those found in Hoyle Casino. By maintaining its focus on classic games while innovating in terms of accessibility and multiplayer capabilities, the Hoyle series continued to attract both new and veteran players, ensuring its place as a beloved part of gaming culture.
-
 - [[1997 - Hoyle Classic Board Games|← Previous: Hoyle Classic Board Games]]
 - [[1999 - Hoyle Casino|→ Next: Hoyle Casino]]
 

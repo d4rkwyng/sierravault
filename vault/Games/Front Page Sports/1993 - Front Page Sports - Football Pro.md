@@ -135,12 +135,6 @@ The series' influence can be seen in modern football management games, and its e
 
 ## See Also
 
-Front Page Sports - Football Pro built upon the foundations laid by its predecessor, Front Page Sports Football 92, by introducing more advanced team management options and enhanced on-field gameplay. The game's designers, Patrick Cook and Scott Youngblood, focused on creating a more immersive experience for players, with features like deep statistical tracking and franchise management that would become hallmarks of the series. This evolution in gameplay and mechanics set the stage for future entries in the series, including Front Page Sports - Baseball Pro, which would apply similar principles to a different sport.
-
-The transition from Front Page Sports Football 92 to Front Page Sports - Football Pro was marked by significant improvements in graphics, sound, and overall realism, with the game featuring physics-based ball dynamics and motion-captured movement. These advancements helped to establish the series as a leader in sports simulation gaming, with critics praising the game's attention to detail and depth of gameplay. As the series continued to evolve, these elements would remain core to the Front Page Sports experience, influencing the development of subsequent titles like Front Page Sports - Baseball Pro.
-
-Front Page Sports - Football Pro also laid the groundwork for future innovations in the series, including the introduction of online league functionality and more complex player statistics. The game's success paved the way for the development of Front Page Sports - Baseball Pro, which would apply similar principles to the sport of baseball, offering players a new level of depth and realism in their gaming experience. By building upon the foundations established by Front Page Sports - Football Pro, the series would continue to push the boundaries of sports simulation gaming, offering fans an increasingly authentic and engaging experience with each new release.
-
 - [[1992 - Front Page Sports Football 92|← Previous: Front Page Sports Football 92]]
 - [[1994 - Front Page Sports - Baseball Pro|→ Next: Front Page Sports - Baseball Pro]]
 

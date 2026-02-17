@@ -267,12 +267,6 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 
 ## See Also
 
-The Incredible Machine: Even More Contraptions builds upon the foundation established by its predecessor, Return of The Incredible Machine - Contraptions, offering an expanded set of puzzles and refined gameplay mechanics. This installment maintains the series' signature style of challenging players to construct elaborate Rube Goldberg-style contraptions, with a focus on creative problem-solving and intuitive physics-based interactions. By providing 250 new puzzles, the game ensures a fresh experience while retaining the core elements that made its predecessor enjoyable.
-
-The transition from Return of The Incredible Machine - Contraptions to The Incredible Machine: Even More Contraptions is seamless in terms of gameplay, with the latter offering more complex and challenging scenarios that require players to think creatively about how to use the available parts. The inclusion of a comprehensive construction set allows for extensive replayability, enabling players to create their own puzzles or share them with others through the WonSwap service. This feature enhances the game's longevity and community engagement, setting the stage for future innovations in the series.
-
-As the series progresses towards its next installment, The Incredible Machine (2011), it is likely that the gameplay mechanics and physics engine will continue to evolve, incorporating new features and possibly 3D elements to further enhance the puzzle-solving experience. The legacy of The Incredible Machine: Even More Contraptions, with its engaging blend of education and entertainment, will undoubtedly influence the design of subsequent games in the series, ensuring that the tradition of challenging and delightful gameplay continues.
-
 - [[2000 - Return of The Incredible Machine - Contraptions|← Previous: Return of The Incredible Machine - Contraptions]]
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
 - [[Jeff Tunnell]] - Creator

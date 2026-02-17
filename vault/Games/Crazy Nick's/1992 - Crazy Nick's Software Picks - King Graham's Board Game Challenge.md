@@ -172,12 +172,6 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 
 ## See Also
 
-Crazy Nick's Software Picks - King Graham's Board Game Challenge builds upon the foundation established by its predecessors in the Crazy Nick's series, refining the formula of budget-friendly compilations that combine classic games with familiar characters from Sierra's adventure game universe. By featuring King Graham as the primary opponent, the game creates a narrative connection to the King's Quest series, allowing players to engage with the beloved character in a more casual context. This approach sets the stage for future entries in the Crazy Nick's series, which would continue to experiment with different characters and gameplay styles.
-
-The gameplay mechanics in King Graham's Board Game Challenge, such as the improved interface and controls, also lay the groundwork for the next entry in the series, Crazy Nick's Software Picks - Leisure Suit Larry's Casino. The success of King Graham's Board Game Challenge in combining traditional board games with a touch of fantasy flair would likely influence the development of Leisure Suit Larry's Casino, which would incorporate more casino-style games and humor. By refining the formula and expanding the scope of gameplay options, Sierra On-Line aimed to create a compelling experience that would appeal to both fans of adventure games and casual players.
-
-As the series continues with Crazy Nick's Software Picks - Leisure Suit Larry's Casino, players can expect to see further evolution in gameplay mechanics and narrative connections to other Sierra franchises. The introduction of new characters, such as Leisure Suit Larry, would bring a fresh dynamic to the series, while the casino-style games would offer a distinct change of pace from the board games featured in King Graham's Board Game Challenge. By building upon the successes of its predecessors and incorporating new elements, the Crazy Nick's series would continue to provide an engaging and affordable gaming experience for players.
-
 - **Series:** Part of the 5-game Crazy Nick's Software Picks compilation series released in 1992[^ref-12]
 - **Related:** Based on board games from Sierra's Hoyle series (specifically [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]])[^ref-1][^ref-6]
 

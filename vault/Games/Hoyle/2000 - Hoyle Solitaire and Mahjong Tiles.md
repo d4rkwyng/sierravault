@@ -181,12 +181,6 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 
 ## See Also
 
-Hoyle Solitaire and Mahjong Tiles 2000 builds upon the foundation established by its predecessor, Hoyle Slots and Video Poker, by expanding the series' scope to include traditional card games and tile-matching puzzles. This evolution reflects Sierra's commitment to catering to a broad audience within the casual gaming market, offering a diverse range of entertainment options under the Hoyle brand. By incorporating solitaire and Mahjong, the game appeals to fans of strategic thinking and pattern recognition, setting the stage for future titles in the series.
-
-The gameplay mechanics introduced in Hoyle Solitaire and Mahjong Tiles 2000, such as the variety of Mahjong modes including Memory Tiles and Gravity Tiles, laid the groundwork for the series' continued exploration of classic board and card games. The success of this title in providing engaging, accessible entertainment to players paved the way for subsequent entries like Hoyle Board Games, which would further diversify the series by incorporating additional genres and gameplay styles. This progression demonstrates Sierra's strategy of gradually expanding the Hoyle series to encompass a wide spectrum of casual gaming experiences.
-
-Hoyle Solitaire and Mahjong Tiles 2000 serves as a pivotal entry in the Hoyle series, bridging the gap between earlier titles focused on slots and video poker, and later games that would delve into board games. The game's emphasis on solitaire and Mahjong tile matching not only enhanced the series' appeal to fans of puzzle games but also contributed to the overall richness and diversity of the Hoyle brand. As the series continued with Hoyle Board Games, it built upon the foundation established by titles like Hoyle Solitaire and Mahjong Tiles 2000, ensuring that the Hoyle name remained synonymous with quality casual gaming experiences.
-
 - [[2000 - Hoyle Slots and Video Poker|← Previous: Hoyle Slots and Video Poker]]
 - [[2001 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 

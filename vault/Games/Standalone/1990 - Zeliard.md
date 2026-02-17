@@ -247,6 +247,14 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [KHInsider – MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987)[^ref-34]
 - [KHInsider – PC-88 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-pc-8801)[^ref-26]
 
+## See Also
+
+Zeliard stands as a distinct entry in the broader context of Sierra's published titles, lacking direct narrative connections to its bookending games, Jones in the Fast Lane and Freddy Pharkas - Frontier Pharmacist. However, it shares a common thread with these titles through Sierra's commitment to diverse gaming experiences. While Jones in the Fast Lane focused on life simulation and strategy, Zeliard brought action RPG elements to the table, showcasing Sierra's willingness to explore different genres. This diversity would continue with Freddy Pharkas - Frontier Pharmacist, which introduced a unique blend of adventure and puzzle-solving.
+
+Mechanically, Zeliard represents an evolution in game design, particularly in its incorporation of platforming mechanics within an RPG framework. This blend of genres was innovative for its time and reflects the experimental spirit that defined many games of the late 1980s. In contrast to Jones in the Fast Lane's more sedate pace, Zeliard offered fast-paced action, demonstrating Sierra's ability to cater to a wide range of player preferences. The gameplay elements in Zeliard, such as its Metroidvania-style structure and emphasis on exploration, would influence later titles, including those outside the Sierra catalog.
+
+The narrative of Zeliard, with its focus on Duke Garland's quest to save Princess Felicia and defeat the demon Jashiin, is a self-contained story that does not directly influence or draw from the narratives of Jones in the Fast Lane or Freddy Pharkas - Frontier Pharmacist. However, all three games contribute to Sierra's legacy as a publisher willing to support unique and varied gaming projects. Through Zeliard, Sierra continued its tradition of bringing Japanese-developed games to Western audiences, a practice that helped shape the global gaming landscape. This approach would be seen in later titles, including Freddy Pharkas - Frontier Pharmacist, which, while differing significantly in genre and tone, benefited from Sierra's established reputation for quality and innovation.
+
 ## References
 
 [^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, The Games Machine review score, Planetstation Magazine quote

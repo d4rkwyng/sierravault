@@ -214,6 +214,14 @@ The simulation's lasting significance lies in its ambitious scope—offering gam
 - [My Abandonware](https://www.myabandonware.com/game/tank-the-m1a1-abrams-battle-tank-simulation-1a3) - DOS version
 - [Classic Reload](https://classicreload.com/tank-the-m1a1-abrams-battle-tank-simulation.html) - Browser playable
 
+## See Also
+
+Tank: The M1A1 Abrams Battle Tank Simulation is a standalone title that does not directly narratively connect to its predecessor Silpheed, as the two games belong to different genres and series. However, both games showcase the developer's attention to detail and commitment to realistic gameplay mechanics, with Silpheed focusing on space combat simulation and Tank on modern armored warfare. The gameplay evolution from Silpheed to Tank demonstrates a shift towards more complex and realistic simulations, with Tank's focus on procedure and realism rather than arcade action.
+
+In terms of mechanical connections, Tank's use of a modified Falcon AT engine suggests a technological link to other simulations of the era, including flight simulators like those found in the Falcon series. This engine choice allowed for detailed and realistic gameplay, which would become a hallmark of the Electronic Battlefield System platform that Tank was intended to launch. The game's scalable complexity and emphasis on strategy over spectacle also set it apart from contemporaries and paved the way for future simulations.
+
+The connection to the next entry in the series, Codename - Iceman, is not directly narrative, as the two games belong to different genres and storylines. However, both games demonstrate a commitment to realistic gameplay mechanics and complex simulation, with Codename - Iceman focusing on espionage and adventure elements. The evolution of gameplay from Tank to Codename - Iceman suggests a continued emphasis on realistic and immersive simulations, with a shift towards more varied and dynamic gameplay experiences.
+
 ## References
 
 [^ref-1]: [Classic Games – Tank: The M1A1 Abrams Battle Tank Simulation](https://www.classicgames.me/tank-the-m1a1-abrams-battle-tank-simulation.html) – game overview, realism focus, gameplay description

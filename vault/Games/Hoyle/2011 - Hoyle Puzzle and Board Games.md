@@ -175,12 +175,6 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 
 ## See Also
 
-As the latest installment in the Hoyle series, Hoyle Puzzle and Board Games 2011 builds upon the foundation established by its predecessors, offering a comprehensive collection of classic board games, card games, and puzzle games. The game's emphasis on customization, through features like the HOYLE Face Creator, allows players to personalize their experience, a trend that will continue in future entries like Hoyle Swashbucklin Slots. Mechanically, the game refines the series' formula, introducing new gameplay elements such as the Boonka match-3 bonus game, which adds significant replay value.
-
-Narratively, Hoyle Puzzle and Board Games 2011 does not significantly deviate from the series' traditional approach, focusing instead on providing a wide range of games designed according to HOYLE's official rules. The absence of a central narrative or character progression is consistent with earlier titles in the series, which prioritized gameplay variety over storytelling. However, the game's inclusion of witty and personable HOYLE characters as AI opponents maintains a lighthearted tone reminiscent of older Sierra games.
-
-In terms of gameplay evolution, Hoyle Puzzle and Board Games 2011 lays the groundwork for future innovations seen in Hoyle Swashbucklin Slots, such as more complex rewards systems and expanded multiplayer options. The game's use of HOYLE Bucks as an in-game currency to unlock customization options and bonuses also sets a precedent for later titles, which will continue to refine this system. Overall, Hoyle Puzzle and Board Games 2011 serves as a bridge between the series' past and future, blending classic gameplay with modern features that will become hallmarks of the franchise.
-
 - [[2008 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2011 - Hoyle Swashbucklin Slots|→ Next: Hoyle Swashbucklin Slots]]
 

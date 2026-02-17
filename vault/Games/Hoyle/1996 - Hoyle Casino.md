@@ -249,12 +249,6 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 
 ## See Also
 
-Hoyle Casino marks a significant departure from its predecessor, Hoyle Bridge, by shifting focus from card games to a broader casino experience. This transition reflects Sierra's efforts to expand the Hoyle franchise into new areas of gaming, leveraging the brand's reputation for authenticity and authority in recreational gaming. By introducing players to a virtual Las Vegas environment where they can engage with various casino games, Hoyle Casino sets the stage for future entries in the series.
-
-The mechanical evolution from Hoyle Bridge to Hoyle Casino is notable, as the latter introduces new gameplay elements such as wagering, loan sharks, and customizable player avatars. These features enhance the immersive quality of the game, allowing players to feel more invested in their virtual casino adventures. In contrast to the more structured card games of Hoyle Bridge, Hoyle Casino offers a more open-ended experience, where players can explore different games and strategies at their own pace.
-
-Hoyle Casino also lays the groundwork for its successor, Hoyle Official Book of Games - Volume 5, by establishing the template for future casino simulations. The series would continue to evolve, incorporating new games, features, and gameplay mechanics, while maintaining its commitment to realism and authenticity. As the franchise progressed, it would incorporate elements from other successful Sierra titles, further solidifying the Hoyle brand as a leader in digital gaming entertainment.
-
 - **Related:** [[2002 - Hoyle Casino Empire]]
 - [[1996 - Hoyle Blackjack|← Previous: Hoyle Blackjack]]
 - [[1996 - Hoyle Official Book of Games - Volume 5|→ Next: Hoyle Official Book of Games - Volume 5]]

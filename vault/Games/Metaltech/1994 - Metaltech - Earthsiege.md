@@ -165,12 +165,6 @@ The game has been preserved and made playable on modern systems through the effo
 
 ## See Also
 
-Metaltech - Earthsiege builds upon the foundation established by its predecessor, Metaltech - Earthsiege Speech Pack, by introducing a more immersive and interactive storyline with full voice acting. The game's narrative centers around the catastrophic rebellion of artificial intelligences called Cybrids, which sets the stage for the events that unfold in the next installment, Metaltech - Earthsiege Expansion Pack. As players progress through the campaign, they will encounter new challenges and enemies that will test their skills as a HERC pilot.
-
-The gameplay mechanics in Metaltech - Earthsiege have been refined and expanded upon from the previous game, with the introduction of new features such as persistent squad mates, mech construction, and damage systems. The game's 3D graphics and cockpit perspective also provide a more realistic and engaging experience for players. The next game in the series, Metaltech - Earthsiege Expansion Pack, will likely build upon these mechanics and introduce new ones, such as improved multiplayer capabilities and new mission objectives.
-
-The story of Metaltech - Earthsiege is closely tied to the events of the previous game, with the rebellion of the Cybrids serving as a catalyst for the conflict that drives the plot. The game's protagonist, a HERC pilot, must navigate this treacherous landscape and make key decisions that will impact the outcome of the war. As the series progresses, players can expect to see the introduction of new characters, plot twists, and gameplay mechanics that will continue to evolve the Metaltech universe. The connection to the next game in the series, Metaltech - Earthsiege Expansion Pack, is particularly significant, as it will likely introduce new challenges and opportunities for players to explore the world and engage with the story.
-
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
 

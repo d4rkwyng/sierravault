@@ -184,6 +184,14 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [MobyGames](https://www.mobygames.com/game/122956/stunt-flyer/)[^ref-1]
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
 
+## See Also
+
+Stunt Flyer, as a standalone title, does not directly narratively connect to its neighboring games in Sierra's lineup, such as Sierra Championship Boxing and The Crimson Crown. However, it mechanically stands out with its authentic flight physics, which was a significant innovation at the time of its release in 1985. This focus on realistic simulation set it apart from other games and paved the way for future flight simulations.
+
+The game's developer, Nice Ideas, brought a level of realism to Stunt Flyer by thoroughly studying actual flight dynamics, making it more about technical skill than narrative progression. While Sierra Championship Boxing focused on boxing matches, and The Crimson Crown would later introduce its own unique blend of adventure and strategy, Stunt Flyer carved out its niche with precise control mechanics and the challenge of mastering fifteen distinct acrobatic maneuvers. This differentiation in gameplay mechanics highlights the diversity within Sierra's published titles during the 1980s.
+
+In terms of gameplay evolution, Stunt Flyer's custom engine and attention to aerodynamic authenticity raised the bar for future flight simulations. Although it does not directly influence The Crimson Crown, which follows a completely different genre and narrative path, its impact on the expectations for realism in simulation games cannot be understated. Players who mastered Stunt Flyer would likely approach subsequent simulation games with an appreciation for realistic physics and challenging gameplay, reflecting the game's lasting influence despite being part of a standalone series.
+
 ## References
 
 [^ref-1]: [MobyGames – Stunt Flyer](https://www.mobygames.com/game/122956/stunt-flyer/) – release date, developer, publisher, platforms, technical specifications, game description

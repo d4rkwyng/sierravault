@@ -210,12 +210,6 @@ No official digital distribution is currently available. The game may be found t
 
 ## See Also
 
-Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance is a pivotal release in the series, building upon the foundation established by its predecessor, Crazy Nick's Software Picks: Parlor Games with Laura Bow. The shift from parlor games to skill-based challenges featuring Robin Hood reflects Sierra's experimental approach during this period, as seen in their effort to offer diverse gaming experiences beyond traditional adventure titles. This compilation's focus on standalone mini-games also laid the groundwork for future releases, such as Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack, which would further explore the concept of skill-based challenges with a different protagonist.
-
-The mechanical evolution from Parlor Games with Laura Bow to Robin Hood's Games of Skill and Chance is notable, particularly in the incorporation of characters like Robin Hood from other Sierra titles, such as Conquests of the Longbow: The Legend of Robin Hood. This crossover highlights Sierra's strategy of leveraging popular characters and gameplay elements across different series, enhancing the overall diversity of their catalog. The use of the SCI1.1 engine also demonstrates the company's commitment to refining their technology to support a wide range of gaming experiences.
-
-In terms of narrative connection, while each Crazy Nick's Software Picks title may not contribute directly to an overarching storyline due to their nature as mini-game compilations, they collectively showcase Sierra's willingness to experiment and cater to different tastes within their fan base. The transition to Roger Wilco's Spaced Out Game Pack would introduce new themes and gameplay mechanics, further enriching the series' diversity and appeal to a broader audience. Through these releases, Sierra demonstrated an ability to evolve and adapt their gaming offerings, ensuring that the Crazy Nick's Software Picks series remained engaging and fresh for players.
-
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|← Previous: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|→ Next: Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 

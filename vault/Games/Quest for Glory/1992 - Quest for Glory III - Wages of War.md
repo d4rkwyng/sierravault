@@ -150,12 +150,6 @@ This game has been included in the following collections:
 
 ## See Also
 
-Quest for Glory III - Wages of War builds upon the narrative and mechanical foundations established in Quest for Glory I - So You Want to Be a Hero VGA, with the Hero's journey continuing as they travel to the land of Fricana alongside Rakeesh the Paladin. The game's story explores themes of tribal conflict and introduces new characters such as Uhura and her son Simba, while also expanding on the series' signature blend of adventure and role-playing elements. The introduction of VGA graphics and a point-and-click interface in Wages of War marks a significant departure from the text parser used in previous entries, streamlining gameplay and interaction.
-
-Mechanically, Quest for Glory III refines the character class system, with the Fighter class being favored in this installment, while Magic Users and Thieves have more limited class-specific content. The game also introduces an "overworld" screen for navigation, random encounters during travel, and a day-night cycle that affects gameplay. These innovations lay the groundwork for further evolution in Quest for Glory IV - Shadows of Darkness, where the series would continue to explore darker themes and more complex storytelling. The cliffhanger ending of Wages of War, with the Hero disappearing into darkness, sets the stage for the events of Shadows of Darkness, promising a deeper dive into the mysteries and challenges faced by the protagonist.
-
-The narrative threads and character developments in Quest for Glory III are designed to bridge the gap between the earlier games and the forthcoming Shadows of Darkness, which would delve into even darker territories and introduce new villains, such as Ad Avis. Although the Coles initially considered incorporating Ad Avis into Wages of War, they ultimately decided to reserve this plotline for the next installment, allowing Shadows of Darkness to explore more mature themes and expand the series' narrative scope. This decision reflects the ongoing evolution of the Quest for Glory series, balancing continuity with innovation to keep the gameplay and story fresh and engaging for players.
-
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|← Previous: Quest for Glory I - So You Want to Be a Hero VGA]]
 - [[1993 - Quest for Glory IV - Shadows of Darkness|→ Next: Quest for Glory IV - Shadows of Darkness]]

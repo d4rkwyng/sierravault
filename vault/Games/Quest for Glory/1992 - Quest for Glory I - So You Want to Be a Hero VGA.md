@@ -327,12 +327,6 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 
 ## See Also
 
-The events of Quest for Glory I - So You Want to Be a Hero VGA set the stage for the hero's future adventures, including the journey to Shapeir in Quest for Glory II - Trial by Fire. Although the narrative of Trial by Fire takes place after the events of So You Want to Be a Hero, there is no direct continuation of the story, as the hero travels to a new land with its own unique challenges and characters. However, the skills and attributes gained during the quest in Spielburg are carried over into the sequel, allowing players to continue developing their character.
-
-Mechanically, Quest for Glory I - So You Want to Be a Hero VGA laid the groundwork for the series' blend of adventure game puzzles and RPG elements, which would be further refined in subsequent entries. The introduction of character classes and skill progression systems in So You Want to Be a Hero allowed players to approach challenges from different angles, a design philosophy that would influence the development of Quest for Glory III - Wages of War. In Wages of War, the hero faces new challenges in the land of Tarna, where they must navigate the complexities of war and diplomacy, building on the foundation established in So You Want to Be a Hero.
-
-The story of Quest for Glory I - So You Want to Be a Hero VGA also establishes key themes and characters that would be revisited throughout the series. The hero's victory over Baba Yaga and the lifting of the curse from Spielburg serve as a catalyst for their future adventures, including those in Quest for Glory III - Wages of War. As the series progresses, the hero faces new challenges and adversaries, but the core elements of exploration, puzzle-solving, and character development introduced in So You Want to Be a Hero remain central to the gameplay experience.
-
 - **Original Version:** [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 - [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|← Previous: Quest for Glory II - Trial by Fire]]

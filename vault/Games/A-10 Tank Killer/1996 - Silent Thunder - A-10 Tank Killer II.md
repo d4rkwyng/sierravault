@@ -237,12 +237,6 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 
 ## See Also
 
-Silent Thunder: A-10 Tank Killer II builds upon the foundation established by its predecessor, A-10 Tank Killer v1.5, by introducing enhanced gameplay mechanics and more realistic flight simulations. The game's narrative expands on the global military campaigns featured in the original, with players taking on the role of an A-10 Warthog pilot in various theaters of operation, including Desert Storm and the Colombian Drug Wars. This expansion allows for a broader range of missions and scenarios, catering to both new and veteran players of the series.
-
-Mechanically, Silent Thunder improves upon the original with the inclusion of more advanced graphics and sound technologies, such as Dynamix' Terrain and 3DSpace technologies, which provide "astoundingly smooth, photo-realistic, texture-mapped terrain and structures." The game also supports a variety of input methods, including keyboard, mouse, gamepad, joystick, and analog joystick, ensuring that players can choose the control scheme that best suits their preferences. Additionally, the introduction of Direct3D support and enhanced DirectSound and DirectDraw capabilities in version 1.01 further enriches the gaming experience.
-
-As the series progresses to its next installment, the groundwork laid by Silent Thunder: A-10 Tank Killer II in terms of gameplay evolution and narrative expansion will likely influence the development of future titles. The balance between accessibility for new players and complexity for serious flight simulation enthusiasts achieved in Silent Thunder will be an important factor in shaping the direction of the series. Moreover, the technological advancements and the detailed simulation of the A-10 Warthog's capabilities, including its unique flight model and weapons systems, set a high standard for subsequent games to follow and improve upon, ensuring that the A-10 Tank Killer series continues to deliver engaging and realistic flight combat experiences.
-
 - [[1989 - A-10 Tank Killer|← Previous: A-10 Tank Killer]] - Original in the series
 - [[1991 - A-10 Tank Killer v1.5]] - Enhanced version of the original
 

@@ -262,12 +262,6 @@ The game's three remakes over a decade—more than almost any other Sierra title
 
 ## See Also
 
-Mixed-Up Mother Goose stands as a pioneering title in Sierra's educational gaming endeavors, laying the groundwork for future entries in the series. While it does not directly follow a previous game in the Mixed-Up series, its success paved the way for subsequent versions and remakes, including the Mixed-Up Mother Goose (SCI Remake), which would introduce improved graphics and gameplay mechanics. The original game's narrative, focused on restoring order to Mother Goose Land by fixing mixed-up rhymes, establishes a charming and educational premise that would be refined in later iterations.
-
-The gameplay of Mixed-Up Mother Goose, with its simplified interface and focus on exploration and item matching, represents a significant departure from Sierra's more complex adventure titles. This accessibility was a deliberate design choice, reflecting Roberta Williams' goal of creating a game that "even young children can play" without needing to read or type complex commands. As the series evolves, particularly with the Mixed-Up Mother Goose (SCI Remake), we see the introduction of point-and-click interfaces and potentially more challenging puzzles, building upon the foundational gameplay established in the original.
-
-The connection between Mixed-Up Mother Goose and its remake is not just mechanical but also narrative, as both games take place in Mother Goose Land and involve the player in restoring order to the mixed-up rhymes. The remake, with its updated SCI engine, offers enhanced visuals and potentially new characters or story elements, while maintaining the core educational value and charm of the original. This continuity ensures that the spirit of the first game is preserved, even as the series adapts to new technologies and design principles, making the Mixed-Up Mother Goose series a cohesive and engaging educational experience across its different entries.
-
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
 
 ## References

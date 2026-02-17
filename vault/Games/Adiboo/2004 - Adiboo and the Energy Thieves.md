@@ -179,12 +179,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 
 ## See Also
 
-Adiboo and the Energy Thieves builds upon the foundation established in Adiboo - Paziral's Secret, evolving the series from its 2D educational roots into a 3D action-adventure experience. The game's protagonist, Adiboo, faces a new challenge as he works to stop a mysterious robot from stealing Celesta's vital natural resources, introducing players to a more expansive and interactive world. This transition sets the stage for future entries in the series, which would continue to explore the potential of 3D gameplay in educational settings.
-
-The narrative of Adiboo and the Energy Thieves serves as a gentle introduction to environmental themes, suitable for its young audience, and lays groundwork for potential sequels to expand upon these ideas. Mechanically, the game's adaptive difficulty system and variety of challenges, including platforming, puzzle-solving, and non-violent duels, provide a solid foundation for subsequent games in the series to build upon. As the series progresses, it will be interesting to see how these elements are refined and expanded, potentially leading to more complex storylines and gameplay mechanics in future titles like Adiboo - The Hazardous Waste.
-
-In terms of direct connections to the next game in the series, Adiboo and the Energy Thieves establishes a pattern of environmental awareness and adaptive learning that could be further developed. While specific details about the next entry are not available, it is likely that the series will continue to balance education with engaging gameplay, potentially introducing new characters and plot points that expand on the universe introduced in Adiboo and the Energy Thieves. The success of this title in finding an audience among younger players suggests that the franchise is on a path to continued growth and innovation, with each new entry building upon the lessons learned from its predecessors.
-
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
 ## References

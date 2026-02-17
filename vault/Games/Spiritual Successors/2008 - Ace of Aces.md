@@ -170,12 +170,6 @@ The connections run deep:
 
 ## See Also
 
-Ace of Aces serves as a spiritual successor to Damon Slye's earlier work on Red Baron, bringing his signature approach to accessible flight combat to the browser gaming market. The game's focus on competitive multiplayer action and intuitive controls marked a departure from the more simulation-heavy approach of Al Emmo and the Lost Dutchman's Mine, instead emphasizing fast-paced dogfighting and accessibility. This shift in design philosophy reflected Slye's goal of bringing flight combat games to a broader audience, making Ace of Aces an important step in the evolution of the series.
-
-The gameplay mechanics and setting of Ace of Aces laid the groundwork for future entries in the Spiritual Successors series, including Gray Matter, which would build upon the multiplayer and competitive elements introduced in Ace of Aces. The use of the Torque Game Engine and InstantAction platform also demonstrated the potential for delivering high-quality gaming experiences through browser-based technology, a trend that would continue to influence the development of subsequent games in the series. By streamlining controls and emphasizing accessibility, Ace of Aces helped pave the way for more inclusive and engaging flight combat games.
-
-In terms of narrative connections, while Ace of Aces does not have a direct storyline, its World War I setting and focus on aerial combat provide a historical context that is distinct from the more fantastical or adventure-oriented settings of other series entries, such as Al Emmo and the Lost Dutchman's Mine. The game's competitive multiplayer modes, such as Team Dogfight and Furball, also introduced a new level of social interaction and community engagement that would become a key aspect of the Spiritual Successors series, influencing the design of future games like Gray Matter.
-
 - [[Damon Slye]] — Designer and Mad Otter Games founder
 - [[1990 - Red Baron|Red Baron]] — Slye's legendary WWI flight sim for Dynamix/Sierra
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] — WWII Pacific theater flight sim

@@ -125,12 +125,6 @@ The game's influence extends to the broader city-building genre, establishing co
 
 ## See Also
 
-Pharaoh connects narratively to its predecessor, Caesar III, through its shared city-building simulation gameplay, while introducing new mechanics specific to ancient Egyptian civilization, such as pyramid construction and flood management. The game's story follows a family through Egypt's dynasties, with the ultimate goal of becoming pharaoh, providing a sense of progression and dynasty-building that elevates the experience beyond individual city management. As players progress through the campaign, they will encounter various historical figures, including Moses, who appears as a mysterious leader of slave labor during certain plague events.
-
-Mechanically, Pharaoh builds upon the foundations established in Caesar III, using the same engine but introducing new features such as seasonal Nile flooding and a complex religious system requiring regular festivals to appease gods. The game's interface and controls remain similar, with a 2D isometric perspective and point-and-click controls, allowing players to manage various aspects of civilization from a top-down strategic view. The introduction of new mechanics, such as monument construction and trade routes, adds depth and complexity to the gameplay, setting Pharaoh apart from its predecessor.
-
-Pharaoh lays the groundwork for its successor, Cleopatra - Queen of the Nile, by introducing many of the core mechanics and themes that would be expanded upon in the next game. The game's focus on ancient Egyptian civilization and its unique challenges, such as managing the annual flooding of the Nile, provides a solid foundation for the more detailed and nuanced gameplay found in Cleopatra. As players become familiar with the intricacies of Egyptian city-building in Pharaoh, they will be well-prepared to tackle the more complex scenarios and challenges presented in Cleopatra, including the management of trade routes, diplomacy, and military conquest.
-
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
 
 ## References

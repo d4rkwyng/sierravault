@@ -250,12 +250,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 
 ## See Also
 
-Hoyle Board Games 2003 builds upon the foundation established by its predecessor, Hoyle Puzzle Games, by expanding the series' scope to include a wide range of classic board games. This shift in focus introduces players to new gameplay mechanics and AI opponents, while maintaining the accessibility and user-friendly interface that defined the previous entry. The inclusion of 18 different board games, such as Checkers, Chess, and Backgammon, demonstrates Sierra's commitment to providing a comprehensive gaming experience.
-
-The game's design and features also lay the groundwork for its successor, Hoyle Card Games, which would further diversify the series by introducing a new set of card-based games. The use of interactive AI opponents and support for multiplayer sessions in Hoyle Board Games 2003 sets a precedent for the social and competitive aspects that would be emphasized in later titles. Furthermore, the game's cross-platform release across Windows PC, Macintosh, Palm Pilot, and Pocket PC showcases Sierra's efforts to make the series accessible to a broad audience.
-
-The evolution of gameplay mechanics in Hoyle Board Games 2003 is notable, as it introduces players to a variety of board game rulesets and strategies. The game's intuitive interface and customization options, such as the Facemaker tool, allow players to personalize their experience and engage with the games on a deeper level. As the series continues with Hoyle Card Games, players can expect to see further innovations in gameplay and features, building upon the solid foundation established by Hoyle Board Games 2003.
-
 - [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
 - [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
 

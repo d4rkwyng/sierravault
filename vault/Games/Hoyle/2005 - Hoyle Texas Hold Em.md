@@ -161,12 +161,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 
 ## See Also
 
-Hoyle Texas Hold 'Em 2005 builds upon the foundation established by its predecessor, Hoyle Puzzle and Board Games, by focusing on a specific card game genre, in this case, Texas Hold 'Em poker. While Hoyle Puzzle and Board Games offered a variety of games, including card games, Hoyle Texas Hold 'Em 2005 delves deeper into the intricacies of poker, providing a more immersive experience for players. The game's attention to detail in replicating the rules and betting structures of Texas Hold 'Em sets the stage for future Hoyle titles.
-
-The release of Hoyle Texas Hold 'Em 2005 marked a pivotal point in the series, as it was one of the last poker titles developed by Sierra Entertainment before publication shifted entirely to Encore, Inc. after 2005. This transition is evident in the game's design and mechanics, which laid the groundwork for subsequent Hoyle poker products, including the Hoyle Poker Series. The game's success can be seen in its influence on later titles, such as Hoyle Casino, which built upon the poker simulation foundation established by Hoyle Texas Hold 'Em 2005.
-
-Hoyle Texas Hold 'Em 2005 also laid the groundwork for the gameplay evolution seen in Hoyle Casino, with its user-friendly interface and accessible control scheme making it easy for players of all skill levels to engage in virtual poker sessions. The game's comprehensive stat tracking and authentic Texas Hold 'Em rules provided a solid foundation for the series' future growth, allowing players to develop improved strategies and compete against AI opponents or other players in multiplayer sessions. As the series continued to evolve, Hoyle Casino would expand on these mechanics, offering an even wider range of casino games and experiences.
-
 - [[2005 - Hoyle Puzzle and Board Games|← Previous: Hoyle Puzzle and Board Games]]
 - [[2006 - Hoyle Casino|→ Next: Hoyle Casino]]
 

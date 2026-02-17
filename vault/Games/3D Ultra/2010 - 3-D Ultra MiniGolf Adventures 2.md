@@ -130,12 +130,6 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 
 ## See Also
 
-3-D Ultra MiniGolf Adventures 2 builds upon the foundation established by its predecessor, 3D Ultra Minigolf Adventures Deluxe, with new themed courses, improved visuals, and expanded multiplayer options. The game's narrative focus on immersive themed environments continues the series' tradition of creative course design and physics-based gameplay. By expanding the course count and adding new themed environments, Adventures 2 maintained the accessible gameplay that characterized the series.
-
-The evolution of the series from the original 3-D Ultra MiniGolf in 1997 to Adventures 2 is evident in the game's mechanics, with the introduction of new control schemes and physics-based puzzle solving. The game's emphasis on accessible fun over realistic golf simulation made it suitable for players of all ages and skill levels. While there is no direct narrative connection to the next entry in the series, as this is the final installment, the gameplay refinements and creative course design set a high standard for future miniature golf games.
-
-The series' influence can be seen in later golf games that incorporated similar control schemes and physics-based puzzle solving, and Adventures 2 remains a popular party game choice due to its multiplayer support for up to four players locally and eight players online. The game's accessibility and creative course design have made it a beloved entry in the 3D Ultra series, and its impact can still be felt in the world of golf games today.
-
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|← Previous: 3D Ultra Minigolf Adventures Deluxe]]
 
 ## References

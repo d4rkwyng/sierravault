@@ -286,9 +286,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 ## See Also
 
-Space Quest IV occupies a unique position in the series through its time-travel narrative, directly visiting both past and future installments. The game continues Roger Wilco's story after [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]], where he rescued the Two Guys from Andromeda from ScumSoft[^ref-5].
-
-**Connections to Previous Games:**
 - Roger's ship, the Aluminum Mallard, was acquired in Space Quest III[^ref-5]
 - Sludge Vohaul, the villain, first appeared in [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]][^ref-4]
 - The time-travel sequence to [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]] recreates the original game's EGA graphics and Ulence Flats location[^ref-50]

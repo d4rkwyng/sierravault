@@ -226,12 +226,6 @@ This game has been included in[^ref-1]:
 
 ## See Also
 
-King's Quest II: Romancing the Throne builds upon the foundation established by its predecessor, King's Quest - Quest for the Crown, with King Graham now seeking a wife after becoming the ruler of Daventry. The story takes a more linear approach compared to the first game, where tasks could be completed in any order, and introduces new gameplay mechanics such as adjustable walking speed. This evolution sets the stage for the series' future entries, including King's Quest III - To Heir Is Human, which continues the narrative thread with Graham's son, Alexander, as the protagonist.
-
-The connection between King's Quest II and its predecessor is evident in the character development of King Graham, who has matured from a brave adventurer to a king seeking companionship. The game's story also expands on the magical world introduced in the first installment, incorporating elements from folklore, mythology, and classic literature. In contrast, King's Quest III - To Heir Is Human takes a different narrative path, focusing on Alexander's journey and introducing new characters and challenges that further enrich the series' lore.
-
-Mechanically, King's Quest II refines the AGI engine used in the first game, offering improved graphics and more complex puzzles that require careful observation and creative problem-solving. The introduction of goal-sensitive events and a more structured progression system also contributes to a more engaging gameplay experience. These advancements lay the groundwork for the subsequent games in the series, including King's Quest III - To Heir Is Human, which is expected to continue pushing the boundaries of storytelling and gameplay innovation in the adventure game genre.
-
 - [[King's Quest Series]] - Series overview
 - [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest - Quest for the Crown]]
 - [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III - To Heir Is Human]]

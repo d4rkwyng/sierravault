@@ -226,12 +226,6 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 
 ## See Also
 
-Hoyle Official Book of Games - Volume 5 builds upon the foundations established by its predecessor, Hoyle Casino, by refining the series' focus on casual, accessible gameplay. While Hoyle Casino introduced players to a variety of casino games, Hoyle Solitaire narrows its scope to provide a comprehensive collection of solitaire games, featuring modernized graphics and enhanced sound. This shift in focus demonstrates Sierra's commitment to catering to a broad audience, including those who enjoy more relaxed, solo gaming experiences.
-
-The game's evolution is also evident in its mechanics, as the intuitive drag-and-drop interface and option to right-click cards for automatic placement streamline gameplay. These improvements set the stage for future entries in the series, such as Hoyle Solitaire, which would continue to refine and expand upon the solitaire experience. By building on the success of earlier titles, Sierra solidified the Hoyle brand as a staple of casual gaming, offering a range of engaging, easy-to-play experiences.
-
-In terms of narrative continuity, Hoyle Official Book of Games - Volume 5 does not feature a traditional storyline, instead presenting players with a collection of solitaire variations. However, the game's attention to detail and commitment to authenticity reflect the series' ongoing dedication to providing high-quality, engaging gameplay experiences. As the series progresses, this focus on quality and accessibility would remain a core aspect of the Hoyle brand, with future titles continuing to innovate and refine the gameplay formula established by earlier entries like Hoyle Casino and Hoyle Official Book of Games - Volume 5.
-
 - [[1996 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[1996 - Hoyle Solitaire|→ Next: Hoyle Solitaire]]
 

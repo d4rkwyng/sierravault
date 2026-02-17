@@ -220,12 +220,6 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 ## See Also
 
-SWAT: Target Liberty builds upon the foundations established in SWAT Force, introducing a new protagonist, Kurt Wolfe, and shifting the series' perspective to a third-person, isometric view to accommodate the PlayStation Portable's controls. This change allowed for more tactical depth, including the ability to command a squad and utilize cover mechanics effectively, while maintaining the series' focus on less-than-lethal tactics and suspect restraint. The game's storyline, which involves Wolfe leading his team against gang violence and uncovering a terrorist plot, expands the series' scope beyond traditional law enforcement scenarios.
-
-Mechanically, SWAT: Target Liberty evolved from its predecessors by incorporating randomized AI placement and ad-hoc multiplayer functionality, aiming to provide a more dynamic and realistic tactical experience. The game's development was influenced by consultation with Ken Thatcher, a 29-year Los Angeles SWAT veteran, ensuring that the tactics and procedures depicted in the game remained authentic. However, the transition to a handheld platform and the adoption of an isometric view also introduced new challenges, such as navigating the limitations of the PSP's screen size and control scheme.
-
-The narrative and gameplay elements introduced in SWAT: Target Liberty set the stage for potential future entries in the series, potentially exploring more complex counter-terrorism scenarios and further evolving the tactical shooter mechanics. While the game received a mixed reception, its ambitions and attempts to innovate within the constraints of the PSP platform laid groundwork for how tactical shooters could be adapted for handheld devices. The series' next installment would need to address criticisms of repetitive gameplay and poor ally AI while building on the successes of Target Liberty's more personal and story-driven approach to the SWAT franchise.
-
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
 

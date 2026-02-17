@@ -271,12 +271,6 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 
 ## See Also
 
-SWAT 4: The Stetchkov Syndicate builds upon the foundations laid by its predecessor, SWAT 4, by introducing new gameplay mechanics and a fresh narrative centered around the Eastern European crime family, the Stetchkov Syndicate. The expansion's focus on dismantling this organization adds a layer of depth to the series' exploration of police tactical operations, allowing players to experience larger-scale crimes and more complex scenarios than those found in the original game. This expansion sets the stage for future entries in the series, such as SWAT Force, which would continue to evolve the gameplay and narrative elements introduced here.
-
-The Stetchkov Syndicate's storyline presents a significant escalation of the criminal activity seen in SWAT 4, with the player's SWAT team facing off against the ruthless Stetchkov brothers, Kiril and Todor. This narrative thread is distinct from the more discrete mission structure of SWAT 3, instead offering a series of connected missions that build toward a final confrontation with the syndicate's leaders. As the series progresses, this focus on organized crime and tactical police work would become a hallmark of the SWAT franchise, influencing the development of subsequent games like SWAT Force.
-
-Mechanically, The Stetchkov Syndicate refines the tactical first-person shooter gameplay of SWAT 4, introducing new features such as held commands for team members and expanded cooperative play options. These improvements enhance the player's ability to execute complex tactics and strategies, setting a high standard for future games in the series to follow. As the franchise continues with SWAT Force, these mechanical advancements would be built upon, further solidifying the SWAT series' reputation for realistic and challenging police tactical simulations.
-
 - [[2005 - SWAT 4|← Previous: SWAT 4]]
 - [[2006 - SWAT Force|→ Next: SWAT Force]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)

@@ -280,12 +280,6 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 
 ## See Also
 
-Ground Control II: Operation Exodus connects narratively to the original Ground Control through its setting, approximately 300 years after the events of the first game. The story follows Captain Jacob Angelus as he fights against the Terran Empire on Morningstar Prime, a conflict that echoes the struggles of the past. Mechanically, Ground Control II evolves from its predecessor by eliminating base construction and resource gathering, focusing instead on tactical combat and unit management.
-
-The gameplay innovations in Ground Control II set the stage for potential future entries in the series, such as a hypothetical Ground Control III, which could further refine the tactical combat and cooperative campaign play introduced in Operation Exodus. The success of Ground Control II's formula, praised by critics for its engaging narrative and fast-paced gameplay, would likely influence the development of subsequent games in the franchise. By building on the foundations established in Ground Control and expanded upon in Ground Control II, a future installment could delve deeper into the universe's lore and conflicts.
-
-Ground Control II: Operation Exodus also expands on the character and faction introductions from the original game, with the Northern Star Alliance and the Virons playing central roles in the story. The introduction of key characters like Captain Jacob Angelus, Sergeant Rho, and Imperator Vlaana Azleea adds depth to the narrative, which could be further explored in subsequent games or spin-offs. The complex three-sided conflict between the NSA, Terran Empire, and Virons provides a rich backdrop for future storytelling and gameplay developments within the Ground Control series.
-
 - **Related:** [[2000 - Ground Control - Dark Conspiracy]]
 - [[2000 - Ground Control - Dark Conspiracy|← Previous: Ground Control - Dark Conspiracy]]
 

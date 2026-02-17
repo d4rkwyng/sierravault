@@ -218,12 +218,6 @@ From a preservation standpoint, the game's absence from modern digital storefron
 
 ## See Also
 
-Mixed-Up Fairy Tales builds upon the educational adventure foundations laid by its predecessor, Mixed-Up Mother Goose, by introducing a new cast of characters and fairy tale settings while maintaining the accessibility and simplicity that defined the earlier title. The game's narrative follows the player's efforts to assist Bookwyrm in restoring order to five classic fairy tales, with gameplay mechanics designed to educate and engage young players in reading, logic, and problem-solving skills. This approach sets the stage for further evolution in the series, particularly in the subsequent Mixed-Up Mother Goose Deluxe, which would refine and expand upon these educational concepts.
-
-The connection between Mixed-Up Fairy Tales and its predecessor is evident in the shared goal of creating an adventure game experience suitable for younger audiences, with both titles leveraging point-and-click gameplay and educational content to achieve this objective. In contrast, the next entry in the series, Mixed-Up Mother Goose Deluxe, would likely build upon the successes of Mixed-Up Fairy Tales by incorporating new stories, characters, and possibly even more advanced educational elements, further solidifying the series' reputation for delivering engaging and instructive experiences for children.
-
-Mechanically, Mixed-Up Fairy Tales simplifies the traditional Sierra adventure game formula, reducing the complexity of interactions to a two-button system ("Do" and "See") that facilitates ease of play for its young target audience. This design choice not only differentiates it from more challenging titles like King's Quest or Space Quest but also paves the way for future innovations in accessibility and educational focus within the Mixed-Up series, potentially influencing the development of Mixed-Up Mother Goose Deluxe and other subsequent entries.
-
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|← Previous: Mixed-Up Mother Goose (SCI Remake)]]
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
 

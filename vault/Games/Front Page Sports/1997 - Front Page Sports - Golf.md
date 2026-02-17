@@ -264,12 +264,6 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 
 ## See Also
 
-Front Page Sports: Golf builds upon the foundation established by its predecessor, Front Page Sports - Football Pro '98, by introducing a new genre to the series while maintaining the high standards of simulation and gameplay that fans had come to expect. The game's focus on realistic golf physics and innovative control systems, such as the TrueSwing mechanism, sets it apart from other sports simulations in the series. This evolution in gameplay mechanics would later influence the development of subsequent titles, including Front Page Sports - Ski Racing, which would also prioritize realism and immersive player control.
-
-The connection between Front Page Sports: Golf and Front Page Sports - Football Pro '98 is more thematic than narrative, as both games aim to provide an authentic sports experience with deep customization options and varied gameplay modes. However, the technological advancements and design philosophies pioneered in Front Page Sports: Golf, such as the use of fully rendered 3D polygon characters and interactive environments, would become hallmarks of the series' future entries. The success of these innovations in golf simulation would encourage similar experimentation in other sports titles within the franchise.
-
-As the series progresses to Front Page Sports - Ski Racing, players can expect a continuation of this trend towards more realistic and engaging gameplay experiences. The lessons learned from the development of Front Page Sports: Golf, particularly in terms of player control and environmental interaction, will likely be applied to create a skiing simulation that is both challenging and enjoyable. By building upon the foundations laid by its predecessors, including Front Page Sports: Golf, the series aims to deliver sports simulations that are as entertaining as they are realistic, catering to fans of various sports and gameplay styles.
-
 - [[1997 - Front Page Sports - Football Pro '98|← Previous: Front Page Sports - Football Pro '98]]
 - [[1997 - Front Page Sports - Ski Racing|→ Next: Front Page Sports - Ski Racing]]
 

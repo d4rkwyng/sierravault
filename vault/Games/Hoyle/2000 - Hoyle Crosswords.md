@@ -139,12 +139,6 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 
 ## See Also
 
-Hoyle Crosswords builds upon the foundation established by its predecessor, Hoyle Casino, by continuing the tradition of providing high-quality, entertaining games that cater to a broad audience. While Hoyle Casino focused on casino-style games, Hoyle Crosswords shifts the attention to puzzle-solving, offering over 500 crossword puzzles across five difficulty levels. This transition demonstrates Sierra's effort to diversify its portfolio and appeal to different segments of the gaming market.
-
-The release of Hoyle Crosswords in 2000 marked a significant point in Sierra's history, as the company was undergoing strategic reorganization under Vivendi Universal. The game's development and success were part of Sierra's brand restructuring efforts, aiming to meet the growing demand for casual gaming experiences. In terms of gameplay evolution, Hoyle Crosswords introduced a point-and-click interface and integrated Webster's New World College Dictionary to assist players, setting the stage for future innovations in the series.
-
-Hoyle Crosswords serves as a bridge between the more traditional gaming experiences offered by earlier titles like Hoyle Casino and the family-friendly entertainment provided by its successor, Hoyle Kids Games. The latter title would go on to offer a variety of games suitable for younger audiences, further expanding the Hoyle series' appeal. Mechanically, Hoyle Crosswords laid the groundwork for future puzzle games in the series, with its emphasis on educational value and entertaining gameplay. The game's use of increasingly challenging crossword puzzles and helpful features like the integrated dictionary would influence the design of subsequent Hoyle titles, ensuring a consistent level of quality and engagement across the series.
-
 - [[2000 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 

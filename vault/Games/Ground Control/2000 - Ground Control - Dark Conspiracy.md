@@ -243,12 +243,6 @@ The game's legacy is preserved through digital distribution on platforms like GO
 
 ## See Also
 
-Ground Control: Dark Conspiracy expands on the story of Major Sarah Parker, introduced in the original Ground Control, as she navigates the aftermath of the battle for Krig-7B and uncovers the truth about the alien technology. The expansion's narrative directly follows the events of Ground Control, with Parker forming an alliance with the Phoenix Mercenaries to escape the planet and confront the remnants of the Crayven Corporation and the Order of the New Dawn. This continuation of the story sets the stage for the next installment in the series, Ground Control, which would further explore the consequences of Parker's actions and the escalating conflict.
-
-The gameplay mechanics in Dark Conspiracy build upon those introduced in Ground Control, maintaining the focus on tactical deployment and maneuvering of pre-selected forces without base-building or resource management. The addition of the Phoenix Mercenaries as a new playable faction brings fresh units and combat capabilities to the game, enhancing the tactical experience for players. This evolution in gameplay would be carried forward into Ground Control, where the series' signature blend of real-time tactics and 3D graphics would continue to shape the player's experience.
-
-As the narrative of Dark Conspiracy concludes on a cliffhanger, it lays the groundwork for the events of Ground Control, which promises to resolve the unresolved plot threads and further explore the implications of the alien artifacts. The introduction of new factions and the expansion of existing ones in Dark Conspiracy also hints at the broader conflict that would unfold in Ground Control, where players would face new challenges and strategic opportunities. By building on the foundation established in Ground Control and expanded upon in Dark Conspiracy, the next installment in the series would offer a richer and more complex gaming experience.
-
 - [[2000 - Ground Control|← Previous: Ground Control]]
 - [[2004 - Ground Control II - Operation Exodus|→ Next: Ground Control II - Operation Exodus]]
 

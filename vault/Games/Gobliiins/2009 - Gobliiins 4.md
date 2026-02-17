@@ -218,12 +218,6 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 
 ## See Also
 
-Gobliiins 4 marks a return to form for the beloved puzzle-adventure series, building upon the foundations established in The Bizarre Adventures of Woodruff and the Schnibble. The game's narrative follows Detective Tchoup and his companions Stucco and Perluis as they search for King Balderon VIII's missing pet aardvark, Riri, introducing new characters and environments that expand the Gobliiins universe. Mechanically, Gobliiins 4 refines the series' classic gameplay formula, with players controlling three goblins with unique abilities to overcome obstacles and progress through the adventure.
-
-The game's connection to The Bizarre Adventures of Woodruff and the Schnibble is evident in its continued emphasis on puzzle-solving and character interaction, with Gobliiins 4 introducing new challenges and environments that test players' skills. The series' signature humor and charm are also preserved, with the three goblin protagonists providing plenty of comedic moments throughout their journey. As the fourth installment in the series, Gobliiins 4 lays the groundwork for the events of Gobliiins 5 - The Morgloton Invasion, which promises to introduce new characters and plot twists to the franchise.
-
-Gobliiins 4's gameplay mechanics also pave the way for the improvements and changes introduced in Gobliiins 5 - The Morgloton Invasion, with the series' continued evolution evident in its adoption of new technologies and design philosophies. The game's custom 3D engine and point-and-click interface provide a solid foundation for the series' future installments, and the introduction of new characters and environments helps to expand the Gobliiins universe in meaningful ways. As a result, Gobliiins 4 serves as an important bridge between the classic games and the modern era of the franchise, setting the stage for the events of Gobliiins 5 - The Morgloton Invasion and beyond.
-
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|← Previous: The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|→ Next: Gobliiins 5 - The Morgloton Invasion]]
 

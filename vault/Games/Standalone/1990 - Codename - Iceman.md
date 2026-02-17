@@ -203,6 +203,14 @@ Jim Walls would continue at Sierra with Police Quest 3 before departing the comp
 **Manuals & Extras**
 - [Sierra Gamers – Manual Download](https://www.sierragamers.com/codename-iceman/) - Manual PDF, maps, and hint book[^ref-10]
 
+## See Also
+
+Codename: Iceman marks a significant departure from Sierra's previous release, Tank - The M1A1 Abrams Battle Tank Simulation, in terms of its narrative focus and gameplay mechanics. While Tank focused on the simulation aspects of tank warfare, Codename: Iceman blends adventure game elements with submarine simulation, creating a unique hybrid experience. This shift towards more story-driven gameplay sets the stage for future Sierra titles, including Jones in the Fast Lane, which would further explore the intersection of narrative and interactive gameplay.
+
+The game's protagonist, Johnny Westland, is a naval officer tasked with a dangerous rescue mission in Tunisia, and his story is heavily influenced by the global oil crisis and international politics of the time. In contrast to the more straightforward simulation of Tank, Codename: Iceman requires players to navigate complex military procedures, consult manuals, and make strategic decisions to succeed. This increased emphasis on realism and strategy would become a hallmark of Sierra's Core Sierra lineage, with games like Jones in the Fast Lane building upon these foundations.
+
+Despite being a standalone title, Codename: Iceman's innovative blend of adventure and simulation elements has had a lasting impact on the series, with its influence visible in later games like Jones in the Fast Lane. The game's use of a text parser interface and emphasis on realistic procedures also laid the groundwork for future Sierra titles, which would continue to push the boundaries of interactive storytelling and gameplay mechanics. As a result, Codename: Iceman remains an important part of Sierra's legacy, offering a unique and challenging experience that continues to fascinate players today.
+
 ## References
 
 [^ref-1]: [Wikipedia – Codename: ICEMAN](https://en.wikipedia.org/wiki/Codename:_ICEMAN) – plot, development credits, platforms, sequel cancellation
