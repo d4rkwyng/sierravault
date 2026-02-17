@@ -215,12 +215,9 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - **Base Game:** [[1994 - Metaltech - Earthsiege]] (required)
 
 - [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] (1994)
-- [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] (1994)
 - Metaltech: Earthsiege Speech Pack (1994)
 - [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: Earthsiege Expansion Pack]] (1995)
 - [[1996 - Earthsiege 2|Earthsiege 2]] (1996)
-- [[1994 - Metaltech - Earthsiege|← Previous: Metaltech - Earthsiege]]
-- [[1995 - Metaltech - Earthsiege Expansion Pack|→ Next: Metaltech - Earthsiege Expansion Pack]]
 
 ## References
 

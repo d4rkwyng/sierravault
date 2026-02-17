@@ -279,7 +279,6 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 ## See Also
 
 - **Related:** [[2016 - Homeworld - Deserts of Kharak]]
-- [[2016 - Homeworld - Deserts of Kharak|← Previous: Homeworld - Deserts of Kharak]]
 
 ## References
 

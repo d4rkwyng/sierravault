@@ -299,7 +299,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 **Development Impact:**
 The game's meta-humor about traveling through "Space Quest XII" and "Space Quest X" was prescient—the series would only reach Space Quest 6 before Sierra's adventure game era ended[^ref-51]. Mark Crowe later reflected that his departure after this game contributed to a noticeable difference in subsequent entries: "We knew there was no way we were going to be able to make a Space Quest-style game that was successful unless we were together"[^ref-51].
 - [[Space Quest Series]] - Series overview
-- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|← Previous: Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]
 
 ## References

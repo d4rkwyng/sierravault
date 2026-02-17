@@ -249,7 +249,6 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - **Related:** [[2000 - Counter-Strike]]
 - **Related:** [[2001 - Half-Life - Blue Shift]]
 - [[2000 - Ricochet|← Previous: Ricochet]]
-- [[2001 - Half-Life - Blue Shift|→ Next: Half-Life - Blue Shift]]
 
 ## References
 

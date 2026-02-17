@@ -163,7 +163,6 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|← Previous: Police Quest - In Pursuit of the Death Angel VGA]]
 - [[1995 - Police Quest - SWAT|→ Next: Police Quest - SWAT]] (series evolved into tactical action)
 - [[1987 - Police Quest - In Pursuit of the Death Angel]] – Series origin
-- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]] – VGA remake
 
 ## References
 

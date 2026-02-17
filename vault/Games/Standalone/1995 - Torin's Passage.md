@@ -103,6 +103,14 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 - [MyAbandonware](https://www.myabandonware.com/game/torin-s-passage-33b)
 - [Internet Archive](https://archive.org/details/msdos_Torins_Passage_1995)
 
+## See Also
+
+Torin's Passage is a standalone adventure game that does not directly connect to any previous or subsequent games in terms of narrative, as it is part of no established series. However, its development and release can be seen within the context of Sierra On-Line's broader portfolio and the evolution of adventure games during the 1990s. The game follows Torin and his companion Boogle on a quest through the nested planets of Strata to rescue Torin's adoptive parents from the sorceress Lycentia, showcasing a unique blend of fantasy elements and family-friendly appeal.
+
+Mechanically, Torin's Passage builds upon the point-and-click adventure genre traditions established by earlier Sierra titles, such as those in the King's Quest series. The game's use of a streamlined interface, dual inventory system for managing items for both Torin and Boogle, and a built-in hint system reflects the ongoing refinement of adventure game mechanics during this period. While it does not directly precede or follow any specific game in terms of storyline, its release in 1995 places it amidst a vibrant era for adventure gaming, with titles like The Ruins of Cawdor and later games such as Lighthouse - The Dark Being contributing to the genre's diversity.
+
+The narrative and gameplay elements of Torin's Passage, including its focus on character interactions, inventory-based puzzles, and the innovative use of Boogle's shape-shifting abilities, demonstrate a distinct approach to adventure game design. This approach, while not directly influencing a subsequent game like Lighthouse - The Dark Being in terms of storyline, contributes to the broader evolution of adventure game mechanics and themes during the 1990s. As such, Torin's Passage stands as a unique entry within the adventure game genre, offering insights into the creative and technical advancements of its time, even if it does not form part of a larger series narrative.
+
 ## References
 
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information

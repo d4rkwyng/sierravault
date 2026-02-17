@@ -137,7 +137,6 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] – HD remake
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|← Previous: The Beast Within - A Gabriel Knight Mystery]]
-- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|→ Next: Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 ## References
 

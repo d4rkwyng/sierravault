@@ -265,6 +265,14 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 - [DOS Games Archive - Manual](https://www.dosgamesarchive.com/docawd.php?sf=battle_bugs_manual.txt) - Text version[^ref-10]
 - [Free Game Empire - Manual](https://www.freegameempire.com/games/Battle-Bugs/manual)[^ref-27]
 
+## See Also
+
+Battle Bugs does not have a direct narrative connection to its neighboring series entries, Slater & Charlie Go Camping and Air Cavalry, due to its standalone nature. However, it shares a common thread with these games through its publication by Sierra On-Line, reflecting the company's diverse portfolio of titles across different genres. Mechanically, Battle Bugs' real-time tactics gameplay and use of semi-real-time systems allowing for pause-at-any-moment strategy set it apart from the more adventure-focused Slater & Charlie Go Camping, while its focus on ground-level insect warfare contrasts with the aerial combat emphasized in Air Cavalry.
+
+The gameplay evolution from Slater & Charlie Go Camping to Battle Bugs shows a significant shift towards strategic and tactical depth, with Battle Bugs introducing complex rock-paper-scissors relationships between different bug types and requiring players to adapt their strategies based on the mission objectives and available units. This depth is not directly continued in Air Cavalry, which instead focuses on helicopter combat simulations, indicating a divergence in gameplay styles within Sierra's published titles.
+
+Despite these differences, all three games contribute to the broader landscape of Sierra On-Line's publishing history, showcasing the company's willingness to support a wide range of genres and gameplay mechanics. The success of Battle Bugs as a real-time tactics game, with its unique blend of humor and strategic challenge, demonstrates Sierra's ability to cater to diverse player interests and preferences, from the adventurous storytelling of Slater & Charlie Go Camping to the military simulations of Air Cavalry.
+
 ## References
 
 [^ref-1]: [MobyGames – Battle Bugs](https://www.mobygames.com/game/308/battle-bugs/) – credits, ratings, development details, trivia

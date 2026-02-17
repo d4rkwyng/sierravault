@@ -193,7 +193,6 @@ The game's influence on casino game design persists in modern software, though c
 - **Companion Titles:** [[1996 - Hoyle Casino]], [[1993 - Hoyle Classic Card Games]], [[2002 - Hoyle Casino Empire]]
 - **Series Origin:** Spiritual successor to Hoyle Official Book of Games series
 - [[1996 - Hoyle Bridge|← Previous: Hoyle Bridge]]
-- [[1996 - Hoyle Casino|→ Next: Hoyle Casino]]
 
 ## References
 

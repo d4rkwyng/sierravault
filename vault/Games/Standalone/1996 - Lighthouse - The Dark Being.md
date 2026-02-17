@@ -134,6 +134,14 @@ The game's influence extends to the community of adventure game enthusiasts who 
 - [MyAbandonware](https://www.myabandonware.com/game/lighthouse-the-dark-being-3m3)
 - [Internet Archive](https://archive.org/details/lighthouse-cd-1)
 
+## See Also
+
+Lighthouse: The Dark Being follows the narrative thread of Torin's Passage, where players were introduced to a world of fantasy and adventure, by presenting a new supernatural mechanical world that challenges the protagonist in unique ways. Although not directly connected through storyline or characters, both games showcase Sierra's ability to craft immersive worlds with intricate puzzles, reflecting the company's commitment to evolving gameplay mechanics and storytelling. The shift from Torin's Passage to Lighthouse: The Dark Being demonstrates Sierra's exploration of different genres and themes within their adventure game series.
+
+Mechanically, Lighthouse: The Dark Being builds upon the foundations laid by earlier Sierra games like Torin's Passage by adopting a first-person perspective and pre-rendered environments, similar to Myst. This evolution in gameplay design allows for a more immersive experience, with players navigating through detailed, static screens that represent different locations within the game's world. The absence of a point system in Lighthouse: The Dark Being, compared to traditional Sierra adventures, marks a significant departure and aligns with the game's focus on exploration and puzzle-solving.
+
+The narrative and mechanical innovations introduced in Lighthouse: The Dark Being pave the way for future games like Stay Tooned!, which would continue to push the boundaries of adventure gaming with new technologies and gameplay mechanics. While Stay Tooned! introduces cartoon-style graphics and humor, it retains the core elements of puzzle-solving and exploration that made Lighthouse: The Dark Being compelling, showcasing Sierra's ongoing effort to diversify their game designs while maintaining a high level of engagement and challenge for players. Through this series of games, Sierra demonstrates its capacity to innovate and adapt, ensuring that each new title offers a unique experience built upon the lessons learned from its predecessors.
+
 ## References
 
 [^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits

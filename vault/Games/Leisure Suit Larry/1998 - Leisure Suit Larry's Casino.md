@@ -181,6 +181,4 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 - **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[Leisure Suit Larry Series]] - Series overview
 - [[Al Lowe]] - Creator and designer
-- [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail!]]
-- [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
 

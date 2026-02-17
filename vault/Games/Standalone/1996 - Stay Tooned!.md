@@ -184,6 +184,14 @@ The title has developed a cult following among players who experienced it during
 **Manuals & Extras**
 - Physical copies included two pairs of 3D glasses for stereoscopic mini-games[^ref-4]
 
+## See Also
+
+Stay Tooned! stands as a unique entry in the adventure game genre, lacking direct narrative connections to other games due to its standalone status. However, its release in 1996 places it between Lighthouse - The Dark Being and Diablo - Hellfire in terms of timeline within Sierra's broader catalog. Mechanically, Stay Tooned! offers an innovative blend of point-and-click exploration, randomized puzzle elements, and mini-games that distinguish it from both the more serious, story-driven approach of Lighthouse - The Dark Being and the action-RPG elements of Diablo - Hellfire.
+
+The gameplay of Stay Tooned! represents a significant departure from the darker themes and more linear progression found in games like Lighthouse - The Dark Being. Instead, Stay Tooned! focuses on light-hearted humor, cartoon chaos, and replayability through its randomized puzzles and item placements. This approach is distinct from the horror elements and puzzle-solving of Lighthouse - The Dark Being, showcasing the diversity in game design during this period.
+
+In terms of mechanical evolution, Stay Tooned!'s use of Macromedia Director for development allowed for a rich, animated world that was ahead of its time. While Diablo - Hellfire would go on to refine action-RPG mechanics, Stay Tooned! contributed to the advancement of point-and-click adventure games with its emphasis on randomized content and interactive humor. Despite not being part of a direct series, Stay Tooned! demonstrates Sierra's willingness to experiment with different genres and gameplay styles, a trait that is evident when comparing it to both Lighthouse - The Dark Being and Diablo - Hellfire.
+
 ## References
 
 [^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – release date, developer, publisher, gameplay description, locations, mini-game count, randomization, trivia

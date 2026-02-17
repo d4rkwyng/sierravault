@@ -249,6 +249,14 @@ From a historical perspective, Hellfire represents an interesting case study in 
 - **Completionist:** 28 hours
 - **All Playstyles Average:** 16.5 hours
 
+## See Also
+
+Diablo: Hellfire connects to its surrounding games in the Sierra lineup through a complex web of narrative and mechanical evolution. Although it is an expansion pack for Blizzard Entertainment's Diablo, Hellfire was developed by Synergistic Software, a division of Sierra On-Line, which adds a unique layer to its connection with other Sierra games like Stay Tooned! and Arcanum. The introduction of the Monk class and new dungeon tilesets in Hellfire reflects a broader trend in action RPG design during the late 1990s.
+
+The narrative of Hellfire, while not considered canonical by Blizzard Entertainment, explores themes of demonic power and corruption that are central to the Diablo series. This focus on dark fantasy elements and character customization also foreshadows the direction taken by later games like Arcanum, which similarly emphasizes player choice and complex storytelling. Despite the lack of direct narrative connection between Hellfire and its neighboring games in the Sierra lineup, the expansion's emphasis on procedural generation and loot-driven gameplay helped establish a model for future action RPGs.
+
+In terms of mechanical evolution, Hellfire builds upon the foundations laid by Diablo, incorporating new interface improvements like the jog toggle feature and spells designed for convenience. These additions reflect a broader trend towards streamlining gameplay and enhancing player quality of life in late 1990s action RPGs. The expansion's influence can be seen in later games like Arcanum, which also prioritizes character customization and exploration, demonstrating how Hellfire contributed to the ongoing development of the action RPG genre within the Sierra lineup.
+
 ## References
 
 [^ref-1]: [Computer Hope – Hellfire](https://www.computerhope.com/games/games/hellfire.htm) – Release date, developer, publisher, system requirements, expansion features, Na-Krul description

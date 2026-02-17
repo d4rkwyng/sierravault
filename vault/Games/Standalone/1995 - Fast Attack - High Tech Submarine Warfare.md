@@ -216,6 +216,14 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 **Manuals & Extras**
 - [Manuals Plus Documentation](https://manuals.plus/asin/B000EX1YDU) – Installation and technical guide[^ref-14]
 
+## See Also
+
+Fast Attack: High Tech Submarine Warfare stands as a unique entry in Sierra's catalog, with its predecessor Air Cavalry offering a distinctly different take on military simulation, focusing on helicopter combat rather than submarine warfare. While Air Cavalry introduced players to the intensity of aerial battles, Fast Attack plunges them into the depths of underwater strategy and stealth. The shift from airborne to underwater combat marks a significant departure in gameplay mechanics, as players must adapt to the unique challenges of sonar navigation, torpedo guidance, and the psychological pressure of operating in a hostile, alien environment.
+
+The narrative of Fast Attack is more self-contained compared to other Sierra titles, lacking direct connections to games like Air Cavalry or its successor Shannara, which belongs to a fantasy genre altogether. However, the game's emphasis on realistic military scenarios and its Cold War-era setting aligns with the broader thematic interests of Sierra in exploring complex, real-world conflicts through interactive storytelling. The absence of character-driven narratives, typical in many Sierra adventure games, is notable, as Fast Attack focuses more on the impersonal, technological aspects of warfare.
+
+Fast Attack's mechanical evolution does not directly influence Shannara, given the latter's fantasy setting and distinct gameplay elements. Instead, Fast Attack represents a culmination of Sierra's interests in military simulations during the 1990s, offering a sophisticated and realistic portrayal of submarine combat that stands on its own within the company's diverse portfolio. The game's attention to detail and commitment to realism set a high standard for future simulation games, even if they do not directly build upon Fast Attack's specific mechanics or narrative framework.
+
 ## References
 
 [^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, credits, ratings

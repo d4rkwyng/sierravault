@@ -126,7 +126,6 @@ The title sparked discussions about updating classic gaming franchises for moder
 
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin
 - [[Leisure Suit Larry Series]] - Series overview
-- [[2013 - Leisure Suit Larry - Reloaded|← Previous: Leisure Suit Larry - Reloaded]]
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]
 
 ## References

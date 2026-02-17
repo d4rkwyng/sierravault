@@ -127,7 +127,6 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Next Larry Laffer adventure
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2009 - Leisure Suit Larry - Box Office Bust|← Previous: Leisure Suit Larry - Box Office Bust]]
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|→ Next: Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 ## References
 

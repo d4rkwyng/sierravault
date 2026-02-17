@@ -246,6 +246,14 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 **Manuals & Extras**
 - [Game Manual](https://www.freegameempire.com/games/Shannara/manual)
 
+## See Also
+
+Shannara stands alone in its series, but narratively it connects to the broader fantasy universe created by Terry Brooks. While there isn't a direct mechanical connection to Fast Attack - High Tech Submarine Warfare, Shannara's development by Legend Entertainment and design by Corey Cole and Lori Ann Cole reflect the studio's expertise in crafting engaging stories and puzzles seen in other adventure games of the era. The game's first-person point-and-click interface and emphasis on text-based interaction represent a continuation of Legend's approach to adventure game design.
+
+In terms of narrative connections, Shannara is set between the first and second books of Brooks' original trilogy, presenting an original story that expands on the world and characters introduced in The Sword of Shannara. The game follows Jak Ohmsford as he navigates the complexities of uniting the races of the Four Lands against the resurrected evil of the Warlock Lord Brona, a storyline that reflects the novels' themes of cooperation and unity in the face of adversity. While there isn't a direct sequel to Shannara, the game's story sets the stage for the events of The Elfstones of Shannara, providing a unique perspective on the Shannara universe.
+
+The gameplay mechanics in Shannara, including its point-and-click interface and text-heavy interaction, laid the groundwork for future adventure games. Although The Ruins of Cawdor does not directly follow Shannara in terms of narrative, it represents a continuation of the evolution of adventure game design, with developers incorporating lessons learned from earlier titles like Shannara into new projects. The emphasis on storytelling, character development, and puzzle-solving in Shannara contributed to the growth of the adventure game genre, influencing the creation of subsequent games that balanced action, exploration, and interactive narrative.
+
 ## References
 
 [^ref-1]: [Wikipedia – Shannara (video game)](https://en.wikipedia.org/wiki/Shannara_(video_game)) – release date, designers, review scores, gameplay notes

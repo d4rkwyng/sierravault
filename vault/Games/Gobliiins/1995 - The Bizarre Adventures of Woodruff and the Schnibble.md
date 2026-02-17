@@ -255,7 +255,6 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 - **Related:** [[1991 - Gobliiins]] (spiritual predecessor)
 - **Related:** [[1992 - Gobliins 2 - The Prince Buffoon]]
 - **Related:** [[1993 - Goblins Quest 3]]
-- [[1993 - Goblins Quest 3|← Previous: Goblins Quest 3]]
 - [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
 
 ## References
