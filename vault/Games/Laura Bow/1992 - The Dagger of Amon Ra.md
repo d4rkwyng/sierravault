@@ -19,7 +19,7 @@ tags: [1990s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Dagger of Amon Ra
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: Shadows of Darkness
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 Quest for Glory: Shadows of Darkness is a 1993 adventure game/role-playing video game hybrid, the fourth installment in the Quest for Glory series by [[Sierra On-Line]][^ref-1][^ref-2]. Designed by [[Lori Ann Cole]] and [[Corey Cole]], it was the first and only game in the series to drop the roman numerals from the title[^ref-1]. Set in Mordavia, a world described as "a mix of Slavic folklore and Lovecraftian horror," the game features darker themes while maintaining the series' trademark humor[^ref-1][^ref-3]. Released in December 1993 on floppy discs and re-released on CD-ROM in September 1994, the CD version featured full voice acting including John Rhys-Davies as the Narrator[^ref-1][^ref-4]. According to Corey Cole, the game was developed with a budget of $750,000[^ref-1]. The floppy disc version was released with inadequate testing and is considered "almost unplayable," though the CD re-release addressed many issues[^ref-1].

@@ -13,6 +13,8 @@ last_updated: 2026-02-14
 
 # Johnny Castaway
 
+<small style="color: gray">Last updated: February 14, 2026</small>
+
 > [!info]- Game Info
 > - **Developer:** [[Dynamix]]
 > - **Publisher:** [[Sierra On-Line]]

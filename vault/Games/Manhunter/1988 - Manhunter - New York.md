@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter: New York
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: February 12, 2026</small>
 
 ## Overview
 
