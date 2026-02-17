@@ -8,7 +8,7 @@ platforms:
 genre: Screensaver
 sierra_lineage: Sierra Label (Dynamix)
 created: 2026-02-12
-last_updated: 2026-02-12
+last_updated: 2026-02-14
 ---
 
 # Johnny Castaway
