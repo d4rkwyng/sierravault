@@ -1,7 +1,12 @@
 #!/usr/bin/env python3
 """
-Add Series Continuity sections to game pages that need them.
+DEPRECATED: Use batch_series_continuity.py instead.
 
+This script created separate ## Series Continuity sections. The project now
+standardizes on adding series continuity prose directly inside ## See Also.
+See batch_series_continuity.py for the current approach.
+
+Original description: Add Series Continuity sections to game pages that need them.
 Analyzes games in series folders and adds Previous/Next navigation links.
 """
 

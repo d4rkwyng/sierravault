@@ -259,8 +259,6 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 ## See Also
 
-### Series Continuity
-
 *The Vengeance* serves as the direct continuation of Sonny Bonds' story, picking up shortly after his successful takedown of the Death Angel in the first game. Now promoted to homicide detective, Sonny must confront his past when Jesse Bains escapes from prison seeking revenge. The game deepens the personal stakes by involving Marie Wilkans—Sonny's love interest from the first game—whose kidnapping drives much of the plot. Sonny's ultimate confrontation with Bains concludes this chapter definitively, setting up Police Quest III's exploration of the consequences when Bains' brother seeks his own vengeance.
 
 - [[Police Quest Series]] - Series overview

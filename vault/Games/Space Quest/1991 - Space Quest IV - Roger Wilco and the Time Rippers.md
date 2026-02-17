@@ -284,7 +284,7 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 - [IMDB – Space Quest IV](https://www.imdb.com/title/tt0448772/) – ratings, trivia, goofs
 - [IMDB – SQ4 Full Credits](https://www.imdb.com/title/tt0448772/fullcredits/) – complete voice cast, crew
 
-## Series Continuity
+## See Also
 
 Space Quest IV occupies a unique position in the series through its time-travel narrative, directly visiting both past and future installments. The game continues Roger Wilco's story after [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]], where he rescued the Two Guys from Andromeda from ScumSoft[^ref-5].
 
@@ -301,8 +301,6 @@ Space Quest IV occupies a unique position in the series through its time-travel 
 
 **Development Impact:**
 The game's meta-humor about traveling through "Space Quest XII" and "Space Quest X" was prescient—the series would only reach Space Quest 6 before Sierra's adventure game era ended[^ref-51]. Mark Crowe later reflected that his departure after this game contributed to a noticeable difference in subsequent entries: "We knew there was no way we were going to be able to make a Space Quest-style game that was successful unless we were together"[^ref-51].
-
-## See Also
 - [[Space Quest Series]] - Series overview
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|← Previous: Space Quest I - Roger Wilco in the Sarien Encounter]]
 - [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]

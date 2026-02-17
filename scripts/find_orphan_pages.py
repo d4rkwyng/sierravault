@@ -197,7 +197,7 @@ def main():
     print()
     print("Suggestions:")
     print("  - Add links to these pages from Site Index or relevant guides")
-    print("  - Add Series Continuity links between related games")
+    print("  - Add series continuity prose and navigation links in See Also sections")
     print("  - Link designers/developers from their games' Development sections")
     print("=" * 80)
     

@@ -234,7 +234,7 @@ def score_series_continuity(content: str, filepath: str) -> tuple:
     """Score series continuity and cross-references (max 10 bonus points).
     
     Checks:
-    - See Also (or Series Continuity) section exists for series games
+    - See Also section exists for series games (with continuity prose)
     - Previous/Next links are present where applicable
     - At least one cross-reference to another game in series
     
@@ -249,34 +249,35 @@ def score_series_continuity(content: str, filepath: str) -> tuple:
     if not is_in_series:
         return (0, [])  # Not in a series, no bonus/penalty
     
-    # Check for Series Continuity or See Also section
-    has_continuity = '## Series Continuity' in content or '### Series Continuity' in content or '## See Also' in content or '### See Also' in content
+    # Check for See Also section with continuity prose
+    has_see_also = '## See Also' in content
     
-    if has_continuity:
+    if has_see_also:
         score += 3
         
-        # Check for Previous/Next links
-        # Extract See Also or Series Continuity section
-        if 'ee Also' in content:
-            continuity_section = content.split('ee Also')[1]
-        elif 'eries Continuity' in content:
-            continuity_section = content.split('eries Continuity')[1]
-        else:
-            continuity_section = ''
-        continuity_section = continuity_section.split('\n## ')[0] if '\n## ' in continuity_section else continuity_section[:500]
+        # Extract See Also section content
+        continuity_section = content.split('## See Also')[1]
+        continuity_section = continuity_section.split('\n## ')[0] if '\n## ' in continuity_section else continuity_section[:2000]
         
-        has_previous = 'Previous' in continuity_section or '**←**' in continuity_section
-        has_next = 'Next' in continuity_section or '**→**' in continuity_section
+        # Check for prose paragraph (not just navigation links)
+        # Prose lines are non-empty, non-link lines (don't start with -)
+        prose_lines = [l.strip() for l in continuity_section.split('\n')
+                       if l.strip() and not l.strip().startswith('-') and not l.strip().startswith('[')]
+        has_prose = any(len(l) > 50 for l in prose_lines)
         
-        # First game won't have Previous, last game won't have Next - that's OK
-        # But check if they have at least one
+        if not has_prose:
+            issues.append("See Also section missing series continuity prose")
+        
+        has_previous = 'Previous' in continuity_section or '**←**' in continuity_section or '← ' in continuity_section
+        has_next = 'Next' in continuity_section or '**→**' in continuity_section or '→ ' in continuity_section
+        
         if has_previous or has_next:
             score += 2
         elif 'First game' not in continuity_section and 'final game' not in continuity_section.lower():
             issues.append("See Also section missing Previous/Next navigation")
     else:
         issues.append(f"Missing See Also section (game is in {series_name} folder)")
-        score -= 5  # Penalty for missing continuity in series game
+        score -= 5  # Penalty for missing See Also in series game
     
     # Check for wiki links to other games in the same series
     wiki_links = re.findall(r'\[\[([^\]|]+)', content)

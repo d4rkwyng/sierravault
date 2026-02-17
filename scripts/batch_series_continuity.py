@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Batch Series Continuity Generator for SierraVault.
 
-Scans game pages, identifies those missing a Series Continuity section,
-and uses Ollama to generate proposed continuity paragraphs.
+Scans game pages, identifies those missing series continuity prose in their
+See Also section, and uses Ollama to generate proposed continuity paragraphs
+that get inserted at the top of See Also (before navigation links).
 """
 
 import argparse
@@ -86,9 +87,9 @@ def get_series_context(games: list[dict], idx: int) -> dict:
 
 
 def build_prompt(page_content: str, series_ctx: dict) -> str:
-    """Build the Ollama prompt for generating a Series Continuity section."""
+    """Build the Ollama prompt for generating series continuity prose for the See Also section."""
     parts = [
-        "You are writing a Series Continuity section for a Sierra game wiki page.",
+        "You are writing series continuity prose for a Sierra game wiki page's See Also section.",
         "Write 2-3 paragraphs (each 2-3 sentences) describing how this game connects "
         "to the previous and next entries in the series, both narratively and mechanically.",
         "Use specific plot points, character names, and gameplay evolution details from the page content.",
@@ -129,7 +130,7 @@ def insert_continuity(content: str, continuity_text: str) -> str:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Batch Series Continuity Generator")
+    parser = argparse.ArgumentParser(description="Batch generator for series continuity prose in See Also sections")
     parser.add_argument("--dry-run", action="store_true", default=True,
                         help="Report what needs fixing (default)")
     parser.add_argument("--apply", action="store_true",
@@ -230,7 +231,7 @@ def main():
 
         new_content = insert_continuity(content, continuity)
         path.write_text(new_content, encoding="utf-8")
-        print(f"  ✓ Inserted Series Continuity section")
+        print(f"  ✓ Inserted series continuity prose in See Also")
         results.append({**entry, "status": "applied", "generated": continuity})
 
     output_path = args.output or "series_continuity_results.json"

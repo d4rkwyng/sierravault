@@ -274,15 +274,13 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 **Patches**
 - [Official King's Quest VII Patch](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/KingsQuestUpdates.html) – For versions 1.4 and 1.51[^ref-22]
 
-## Series Continuity
+## See Also
 
 King's Quest VII occupies a unique position in the franchise as the only entry to feature Queen Valanice as a playable protagonist, and notably the only game where King Graham does not appear or receive any mention.[^ref-33] The game brings back Princess Rosella, last playable in [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]], while also reintroducing Edgar from that game—here revealed to be the kidnapped son of Oberon and Titania, rulers of Etheria.[^ref-2]
 
 The story takes place entirely in the magical realm of Eldritch rather than the familiar kingdom of Daventry. This departure allowed the designers to create entirely new locations—the Troll Kingdom, the desert wastes, the cartoon village of Falderal, the Halloween-themed Ooga Booga Land, and the cloud realm of Etheria—while maintaining thematic connections to the fairy tale tradition of earlier entries.[^ref-34]
 
 The ending potentially sets up romantic possibilities between Rosella and Edgar, though the subsequent [[1998 - King's Quest - Mask of Eternity|King's Quest VIII: Mask of Eternity]] would shift focus to an entirely new protagonist, Connor, leaving these threads unresolved.[^ref-5]
-
-## See Also
 - [[King's Quest Series]] - Series overview
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|← Previous: King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1998 - King's Quest - Mask of Eternity|→ Next: King's Quest - Mask of Eternity]]

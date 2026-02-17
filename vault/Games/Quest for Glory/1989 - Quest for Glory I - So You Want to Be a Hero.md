@@ -202,8 +202,6 @@ This game has been included in the following collections:
 
 ## See Also
 
-### Series Continuity
-
 *So You Want to Be a Hero* establishes the foundational elements that would define the entire Quest for Glory saga. As the Hero's first adventure, the game introduces the innovative class system, the character import feature that carries progress across all five games, and recurring characters like Erasmus, Fenrus, and the Kattas. The liberation of Spielburg Valley earns the protagonist the title of Hero and connects directly to the sequel—the grateful Kattas invite the Hero to their homeland, and the magic carpet journey to Shapeir at the game's conclusion leads directly into Trial by Fire. This entry's blend of adventure and RPG elements created the template that would make Quest for Glory one of Sierra's most beloved series.
 
 - **VGA Remake:** [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]

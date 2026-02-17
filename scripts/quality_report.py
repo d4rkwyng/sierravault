@@ -111,8 +111,8 @@ def analyze_common_issues(results: List[Dict]) -> List[tuple]:
                 issue_counter['Promotional language'] += 1
             elif 'wiki link' in issue_normalized:
                 issue_counter['Wiki link format issues'] += 1
-            elif 'series' in issue_normalized or 'continuity' in issue_normalized:
-                issue_counter['Missing series continuity'] += 1
+            elif 'series' in issue_normalized or 'continuity' in issue_normalized or 'see also' in issue_normalized:
+                issue_counter['Missing series continuity prose in See Also'] += 1
             else:
                 issue_counter[issue[:50]] += 1
     
