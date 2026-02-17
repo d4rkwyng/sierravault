@@ -133,6 +133,14 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 **Soundtrack**
 - [Phoenix Online Store](https://store.postudios.com/products/moebius-empire-rising-soundtrack)
 
+## See Also
+
+Moebius: Empire Rising connects narratively to its predecessor, Fester Mudd - Curse of the Gold, through its exploration of themes related to history, mystery, and the supernatural. Although Fester Mudd is more focused on comedy and adventure, both games share a sense of uncovering hidden secrets and patterns, which in Moebius: Empire Rising is embodied by the Moebius Theory. This theory, suggesting that history repeats itself in cyclical patterns, is central to Malachi Rector's investigations and serves as a narrative bridge between the past and present.
+
+Mechanically, Moebius: Empire Rising evolves from traditional point-and-click adventure games like Fester Mudd by incorporating a unique profiling mechanic. This system allows players to analyze characters and objects deeply, uncovering connections between historical figures and contemporary events. The game's blend of 2D and 3D graphics, built using the Unity engine, also represents a step forward in visual storytelling for the series. These elements set the stage for the next entry in the Spiritual Successors series, Quest for Infamy, which would further refine the balance between puzzle-solving, narrative depth, and character development.
+
+The transition to Quest for Infamy sees a continuation of the adventure genre's evolution, with a greater emphasis on player choice and consequence. While Moebius: Empire Rising focuses on Malachi Rector's analytical mind and historical mysteries, Quest for Infamy promises to expand on these themes by introducing new characters and settings. The series' narrative arc, from Fester Mudd through Moebius: Empire Rising and into Quest for Infamy, demonstrates a growing complexity in storytelling and gameplay mechanics, appealing to fans of classic Sierra games while attracting newcomers with its contemporary take on the adventure genre.
+
 ## References
 
 [^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information

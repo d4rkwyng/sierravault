@@ -180,6 +180,14 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/gray-matter)[^ref-43]
 
+## See Also
+
+Gray Matter builds upon the narrative foundations laid by its spiritual predecessor, Ace of Aces, by exploring deeper themes of reality and the human mind, albeit in a completely different setting and with new characters. The game's supernatural elements and philosophical questions about the nature of reality serve as a bridge to the more psychologically complex narratives found in later series entries. Although Gray Matter does not directly continue the story of Ace of Aces, it shares a common lineage in its pursuit of storytelling depth and player engagement.
+
+Mechanically, Gray Matter refines the point-and-click adventure genre with streamlined controls and intuitive interface design, laying the groundwork for future innovations in Cognition - An Erica Reed Thriller. The game's use of a single-button approach and features like the spacebar highlight function reduces frustration and makes the gameplay experience more accessible, elements that would be further polished in subsequent series entries. By focusing on character-driven narratives and evolving gameplay mechanics, Gray Matter sets the stage for the complex, thriller-like storytelling found in Cognition.
+
+The narrative structure of Gray Matter, which alternates between two protagonists, Samantha Everett and Dr. David Styles, also previews the multi-perspective storytelling approach that would be central to Cognition - An Erica Reed Thriller. This technique allows for a deeper exploration of characters' motivations and the mysteries they uncover, a hallmark of Jane Jensen's design philosophy that continues to influence the series. Through its blend of supernatural mystery, character development, and refined adventure gameplay, Gray Matter solidifies its place in the Spiritual Successors series, connecting the dots between the pioneering work of Ace of Aces and the psychologically gripping narratives of Cognition.
+
 ## References
 
 [^ref-1]: [Adventure Gamers](https://adventuregamers.com/articles/view/21053) – Jane Jensen's reputation and return to adventure gaming
