@@ -29,8 +29,10 @@ from collections import Counter
 from typing import Dict, List, Tuple, Optional
 
 
-# Mac Studio Ollama server (via Tailscale)
-MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", "http://100.90.195.80:11434")
+# Mac Studio Ollama server (try Tailscale first, then local IP)
+MAC_STUDIO_TAILSCALE = "http://100.90.195.80:11434"
+MAC_STUDIO_LOCAL = "http://192.168.10.228:11434"
+MAC_STUDIO_HOST = os.environ.get("OLLAMA_STUDIO_HOST", MAC_STUDIO_TAILSCALE)
 MAC_STUDIO_MODEL = "llama3.3:70b"  # Best general model on Studio (93.5 avg score)
 MAC_STUDIO_FLAGSHIP_MODEL = "deepseek-r1:70b"  # Reasoning model for flagships (94.5 avg score)
 
@@ -142,21 +144,26 @@ def check_ollama_available() -> bool:
         return False
 
 
-def check_studio_available() -> bool:
-    """Check if Mac Studio Ollama is reachable."""
-    try:
-        result = subprocess.run(
-            ['curl', '-s', '--max-time', '5', f"{MAC_STUDIO_HOST}/api/tags"],
-            capture_output=True,
-            text=True,
-            timeout=10
-        )
-        if result.returncode == 0:
-            data = json.loads(result.stdout)
-            return len(data.get('models', [])) > 0
-        return False
-    except:
-        return False
+def check_studio_available() -> Optional[str]:
+    """Check if Mac Studio Ollama is reachable. Returns working host URL or None."""
+    global MAC_STUDIO_HOST
+    
+    for host in [MAC_STUDIO_TAILSCALE, MAC_STUDIO_LOCAL]:
+        try:
+            result = subprocess.run(
+                ['curl', '-s', '--max-time', '5', f"{host}/api/tags"],
+                capture_output=True,
+                text=True,
+                timeout=10
+            )
+            if result.returncode == 0:
+                data = json.loads(result.stdout)
+                if len(data.get('models', [])) > 0:
+                    MAC_STUDIO_HOST = host  # Update global for subsequent calls
+                    return host
+        except:
+            continue
+    return None
 
 
 def is_flagship(content: str, filepath: str) -> bool:
