@@ -20,7 +20,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest III: To Heir Is Human
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: February 17, 2026</small>
 
 ## Overview
 

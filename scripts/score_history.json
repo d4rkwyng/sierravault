@@ -433,6 +433,11 @@
         "timestamp": "2026-02-17T09:19:16.855390",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:22:07.166731",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1989 - Quest for Glory I - So You Want to Be a Hero.md": [
@@ -593,6 +598,16 @@
         "timestamp": "2026-02-17T09:19:29.557403",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:23:26.604398",
+        "score": 100.0,
+        "total": 100
+      },
+      {
+        "timestamp": "2026-02-17T09:23:59.240330",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1990 - King's Quest V - Absence Makes the Heart Go Yonder.md": [
@@ -636,6 +651,11 @@
         "timestamp": "2026-02-17T09:19:24.066926",
         "score": 98.0,
         "total": 98
+      },
+      {
+        "timestamp": "2026-02-17T09:22:14.843722",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1990 - Roberta Williams' King's Quest I - Quest for the Crown.md": [
@@ -697,30 +717,6 @@
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-02-13T16:24:19.062928",
-      "files_scored": 1,
-      "average": 91.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-02-13T16:24:50.270617",
-      "files_scored": 1,
-      "average": 89.0,
-      "passing": 0
-    },
-    {
-      "timestamp": "2026-02-13T16:32:12.533589",
-      "files_scored": 1,
-      "average": 98.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-02-13T16:32:39.514544",
-      "files_scored": 1,
-      "average": 100.0,
-      "passing": 1
-    },
     {
       "timestamp": "2026-02-13T16:32:39.561110",
       "files_scored": 1,
@@ -993,6 +989,30 @@
     },
     {
       "timestamp": "2026-02-17T09:20:20.115022",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:22:07.166731",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:22:14.843722",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:23:26.604398",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-02-17T09:23:59.240330",
       "files_scored": 1,
       "average": 100.0,
       "passing": 1
