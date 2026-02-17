@@ -117,6 +117,14 @@ Modern analysis recognizes Caesar as foundational to the city-building genre's e
 
 Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases[^ref-57][^ref-58] and Sierra's corporate history[^ref-59].
 
+## See Also
+
+Caesar, the inaugural title in the series, laid the groundwork for its successor, Caesar II, by introducing a historical setting and mission-based progression to the city-building genre. The game's narrative framework, which revolves around political advancement through successful governance, sets the stage for the player's journey from a provincial governor to potentially becoming the Emperor of Rome. This structured approach, where players must meet specific objectives such as population, prosperity, and security thresholds to advance, differentiated Caesar from other city builders like SimCity.
+
+The mechanical depth of Caesar, including its complex interaction of city systems like residential development, commercial activity, military preparedness, and religious satisfaction, provided a solid foundation for the evolution of gameplay mechanics in Caesar II. The introduction of combat elements and the need to balance various aspects of city management added layers of complexity that would be built upon in future titles. As players progressed through the game, they had to demonstrate their administrative capabilities by transforming frontier settlements into thriving Roman cities, a challenge that would become more nuanced and demanding in Caesar II.
+
+Caesar II would go on to refine and expand upon the foundational elements established in Caesar, offering enhanced graphics, new features, and more intricate gameplay mechanics. The success of Caesar paved the way for this sequel, which would further explore the historical city-building genre and provide players with even more challenging and immersive experiences. By building upon the structured campaign and complex city systems introduced in Caesar, Caesar II would cement the series' reputation as a leader in the genre, offering a unique blend of history, strategy, and urban planning that continues to captivate players to this day.
+
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Caesar - Search results showing Caesar (1992) in alphabetical listing

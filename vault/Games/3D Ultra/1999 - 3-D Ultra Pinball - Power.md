@@ -208,6 +208,13 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 - Original manuals included with physical CD-ROM releases
 
 ## See Also
+
+The release of 3-D Ultra Pinball Power! marked a significant milestone in the 3D Ultra series, building upon the foundations laid by its predecessor, 3-D Ultra Lionel TrainTown. While TrainTown focused on immersive train simulation, 3-D Ultra Pinball Power! brought together four acclaimed pinball titles, showcasing the series' ability to diversify and innovate within different genres. This compilation not only celebrated the pinball series but also demonstrated Sierra's commitment to providing comprehensive gaming experiences.
+
+Mechanically, 3-D Ultra Pinball Power! pushed the boundaries of digital pinball with its inclusion of over 25 tables across four games, each featuring unique thematic elements and gameplay mechanics. The series' embrace of impossible pinball scenarios, such as spaceships and dinosaurs interacting with the ball, set it apart from traditional arcade simulations. This evolution in gameplay would later influence other titles in the 3D Ultra series, including 3-D Ultra Radio Control Racers, which would introduce new challenges and excitement in the realm of radio control racing.
+
+The narrative thread throughout the 3D Ultra series is less about character development and more about exploring different themes and genres. From the train simulation of Lionel TrainTown to the pinball extravaganzas in 3-D Ultra Pinball Power!, and looking ahead to the racing thrills of 3-D Ultra Radio Control Racers, each game contributes to a diverse portfolio that showcases Sierra's creativity and willingness to experiment. The inclusion of The Incredible Machine 3.0 as a bonus in 3-D Ultra Pinball Power! further highlights this approach, offering players a departure from pinball into the world of puzzle-solving and creative machine-building.
+
 - [[1999 - 3-D Ultra Lionel TrainTown|← Previous: 3-D Ultra Lionel TrainTown]]
 - [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
 

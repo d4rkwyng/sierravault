@@ -268,6 +268,13 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 - [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Cleopatra:_Queen_of_the_Nile) - Technical fixes and compatibility
 
 ## See Also
+
+Cleopatra: Queen of the Nile expands on the city-building strategy of its predecessor, Pharaoh, by focusing on the era of Cleopatra VII and introducing new monuments and architecture associated with her legendary reign. The game's narrative follows the reign of Cleopatra from her rise to the throne to her tragic death, encompassing the twilight of ancient Egyptian civilization as an independent power. By building upon the foundation established in Pharaoh, Cleopatra: Queen of the Nile offers a more refined and detailed gameplay experience, with improved mechanics for managing the complex economics and religious systems of ancient Egypt.
+
+The expansion's 15 new campaign missions provide a unique set of challenges and objectives, each set within the historical context of Cleopatra's era, from the construction of elaborate burial monuments to the commemoration of Ramesses II's exploits. The game's free-build mode also allows players to construct Egyptian cities without mission constraints, providing a sandbox experience that builds upon the creative freedom offered in Pharaoh. As the series continues with Pharaoh - A New Era, players can expect further evolution of the city-building mechanics and narrative depth introduced in Cleopatra: Queen of the Nile.
+
+In terms of gameplay evolution, Cleopatra: Queen of the Nile refines the economic systems and religion mechanics introduced in Pharaoh, allowing for more nuanced management of the annual Nile flood cycle and the appeasement of the five Egyptian gods. The game's two-dimensional isometric perspective and 16-bit color graphics also provide a clear and detailed view of city layout, building upon the established Caesar III engine adapted for the Ancient Egyptian setting. As the series progresses to Pharaoh - A New Era, these gameplay elements will likely continue to evolve, offering an even more immersive and challenging experience for players.
+
 - [[1999 - Pharaoh|← Base Game: Pharaoh]] - Required base game
 - [[2023 - Pharaoh - A New Era|→ Remake: Pharaoh - A New Era]] - 2023 remaster including Cleopatra content
 

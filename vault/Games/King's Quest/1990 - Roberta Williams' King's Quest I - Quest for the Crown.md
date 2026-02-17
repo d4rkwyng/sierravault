@@ -204,6 +204,13 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 - [Sierra Help: KQ1 SCI Manual](https://sierrahelp.com/Games/KingsQuest/KQ1SCIHelp.html) – PDF manual and walkthrough[^ref-16]
 
 ## See Also
+
+Roberta Williams' King's Quest I - Quest for the Crown serves as a narrative precursor to the events of King's Quest V - Absence Makes the Heart Go Yonder, although it was released later due to being a remake. The game's story follows Sir Graham as he attempts to retrieve three legendary treasures stolen from the Kingdom of Daventry, setting the stage for the future adventures of the royal family. This remake builds upon the original 1984 game, incorporating new elements such as expanded storytelling and character development.
+
+In terms of gameplay mechanics, King's Quest I - Quest for the Crown lays the groundwork for the improvements seen in King's Quest VI - Heir Today, Gone Tomorrow. The introduction of limited mouse support and a more user-friendly interface in the remake paved the way for the more advanced point-and-click systems used in later games. Additionally, the modifications made to puzzles and item locations in the remake demonstrate an evolution in game design that would continue in subsequent entries.
+
+The connections between Roberta Williams' King's Quest I - Quest for the Crown and its neighboring series entries are also evident in their shared themes and characters. The fairy tale premise and emphasis on exploration and puzzle-solving established in this game become hallmarks of the King's Quest series, influencing the development of later titles like King's Quest VI - Heir Today, Gone Tomorrow. By examining these narrative and mechanical connections, players can gain a deeper understanding of the series' progression and the ways in which each game builds upon its predecessors.
+
 - [[King's Quest Series]] - Series overview
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|← Previous: King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|→ Next: King's Quest VI - Heir Today, Gone Tomorrow]]

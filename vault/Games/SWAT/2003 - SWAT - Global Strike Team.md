@@ -226,6 +226,13 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 - [Insignia](https://insignia-online.com/) - Xbox Live 1.0 replacement service supporting this title[^ref-35]
 
 ## See Also
+
+SWAT - Global Strike Team builds upon the foundations established in SWAT 3 - Close Quarters Battle, introducing a new protagonist, Mathias Kincaid, and shifting the focus to a more global, tactical approach. The game's storyline, set in 2008, explores the formation of an international specialized squad tasked with protecting civilians from terrorist threats, marking a significant expansion of the series' scope. This narrative evolution is complemented by mechanical advancements, including the integration of voice recognition technology and a more accessible control scheme designed for console players.
+
+The game's mechanics, such as the voice command system and the emphasis on tactical squad-based gameplay, lay the groundwork for future innovations in the series, particularly in SWAT 4. The latter would build upon the foundations set by Global Strike Team, refining the tactical elements and introducing new features that further enhanced the player's experience. By introducing a more console-friendly interface and controls, SWAT - Global Strike Team also paved the way for subsequent titles to cater to a broader audience, balancing accessibility with depth.
+
+In terms of narrative continuity, SWAT 4 would continue to explore the themes of global terrorism and specialized law enforcement response, delving deeper into the complexities of modern policing and counter-terrorism. The character development and team dynamics introduced in Global Strike Team, particularly through the protagonist Mathias Kincaid and his squad, would influence the way characters are portrayed and utilized in SWAT 4, focusing on teamwork and strategic decision-making. This progression from SWAT 3 to SWAT - Global Strike Team and then to SWAT 4 demonstrates a clear evolution in both narrative scope and gameplay mechanics, solidifying the series' position as a leader in tactical first-person shooters.
+
 - [[1999 - SWAT 3 - Close Quarters Battle|← Previous: SWAT 3 - Close Quarters Battle]]
 - [[2005 - SWAT 4|→ Next: SWAT 4]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)

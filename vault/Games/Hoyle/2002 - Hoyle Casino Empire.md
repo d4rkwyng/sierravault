@@ -256,6 +256,13 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 - Manual included with retail package
 
 ## See Also
+
+Hoyle Casino Empire builds upon the foundation laid by its predecessor, Hoyle Card Games, by expanding the series' casino simulation offerings and introducing new gameplay mechanics. The addition of interactive computer opponents and the ability to play against other players over the internet marked a significant evolution in the series, setting the stage for future innovations. As the series progressed, these features would become integral to the player experience, influencing the direction of subsequent titles like Hoyle Puzzle Games.
+
+The narrative structure of Hoyle Casino Empire, while not traditional, allowed players to create their own story through interactions with computer-controlled opponents and the outcomes of various gambling activities. This approach was a departure from earlier games in the series, which focused more on card games and less on immersive casino environments. The inclusion of character creation and customization options further enhanced the sense of immersion, allowing players to personalize their experience and invest in their virtual avatar's successes and failures.
+
+As the series continued with Hoyle Puzzle Games, the foundation established by Hoyle Casino Empire would serve as a starting point for exploring new genres and gameplay styles. While Hoyle Puzzle Games would shift the focus towards puzzle-solving challenges, the core principles of interactive gameplay and immersive environments would remain, reflecting the series' commitment to innovation and player engagement. The connections between these titles demonstrate the Hoyle series' ability to adapt and evolve, ensuring a fresh experience for players while maintaining the essence of what makes the series appealing.
+
 - [[2002 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2002 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
 

@@ -305,6 +305,13 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - [Game Manual (Archive.org)](https://archive.org/stream/Laura_Bow_Dagger_Of_Amon_Ra_Manual/Laura_Bow_Dagger_Of_Amon_Ra_Manual_djvu.txt)
 
 ## See Also
+
+The Dagger of Amon Ra builds upon the foundations established in The Colonel's Bequest, with Laura Bow now a cub reporter in 1926 New York City, investigating a series of murders at the Leyendecker Museum. This sequel introduces new gameplay mechanics, such as the icon-based graphic interface and the "Ask" icon functionality, which allows for more interactive conversations with characters. The game's story also explores new themes, including the Egyptology craze following the discovery of King Tutankhamun's tomb, and features a new cast of characters, including Dr. Pippin Carter and Detective Ryan O'Riley.
+
+The Dagger of Amon Ra's narrative is distinct from its predecessor, with a greater emphasis on international intrigue and high-society settings, but it retains the same spirit of investigative mystery and adventure that defined The Colonel's Bequest. Laura Bow's character development continues, showcasing her intelligence, charm, and determination as she navigates the complex web of suspects and motives. The game's multiple endings, which depend on the player's thoroughness in investigating the crimes, add a layer of replayability and depth to the story.
+
+As the final installment in the Laura Bow Mysteries series, The Dagger of Amon Ra concludes Laura's adventures on a high note, with its engaging storyline, memorable characters, and innovative gameplay mechanics. Although there is no direct sequel, the game's influence can be seen in later adventure games, and its legacy continues to be celebrated by fans of the genre. The character of Laura Bow also makes appearances in other Sierra games, such as Gabriel Knight: Sins of the Fathers, where her future life and marriage to Steve Dorian are referenced, providing a sense of continuity and closure for the series.
+
 - **Next:** None (series concluded)
 - [[Laura Bow Series]] - Series overview
 - [[1989 - The Colonel's Bequest|← Previous: The Colonel's Bequest]]

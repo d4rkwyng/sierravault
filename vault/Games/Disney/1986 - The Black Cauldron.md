@@ -110,6 +110,14 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 - [MyAbandonware](https://www.myabandonware.com/game/the-black-cauldron-7l)
 - [Internet Archive](https://archive.org/details/msdos_Black_Cauldron_The_1986)
 
+## See Also
+
+The Black Cauldron follows the earlier Sierra game Winnie the Pooh in the Hundred Acre Wood, which also featured a simplified interface designed for younger players. While Winnie the Pooh focused on exploration and basic puzzle-solving, The Black Cauldron introduced more complex gameplay mechanics, including inventory management and arcade-style sequences. This evolution in design reflected Sierra's growing experience in creating adventure games for a wider audience.
+
+The Black Cauldron's narrative is based on the Disney animated film of the same name, which was itself adapted from Lloyd Alexander's Chronicles of Prydain novel series. The game's story follows Taran, the assistant pig-keeper at Caer Dallben, as he attempts to prevent the evil Horned King from obtaining the magical Black Cauldron. This fantasy setting and storyline would influence later Sierra games, including those in the King's Quest series, which also featured magical worlds and heroic protagonists.
+
+The next game in the Disney series, which is not directly connected to The Black Cauldron, would likely feature new characters and storylines while potentially building on the gameplay innovations introduced in The Black Cauldron. As Sierra continued to develop adventure games based on popular franchises, they refined their design approach, incorporating more complex puzzles, engaging narratives, and improved graphics. The legacy of The Black Cauldron can be seen in these later games, which often featured similar themes of exploration, puzzle-solving, and heroic adventure.
+
 ## References
 
 [^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – - Developer and publisher information

@@ -124,6 +124,13 @@ The title remains available through preservation efforts, with multiple archive 
 - [Collection Chamber](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-lost-continent.html) - Modified version for modern compatibility[^ref-7]
 
 ## See Also
+
+The Lost Continent builds upon the foundation established by its predecessor, 3-D Ultra MiniGolf, by introducing a narrative-driven experience to the traditional pinball genre. Although the gameplay mechanics differ significantly between the two titles, with The Lost Continent focusing on action-adventure pinball and 3-D Ultra MiniGolf centered around mini golf, both games share a common thread in their emphasis on immersive and engaging experiences. The success of The Lost Continent's innovative approach would later influence the development of subsequent titles in the series.
+
+The Lost Continent's dinosaur theme and narrative-driven design laid the groundwork for future games in the 3-D Ultra series, including 3-D Ultra MiniGolf Deluxe, which would build upon the franchise's reputation for delivering unique and captivating experiences. While 3-D Ultra MiniGolf Deluxe would return to the mini golf genre, it would likely incorporate elements of storytelling and immersive gameplay that were pioneered in The Lost Continent. The evolution of gameplay mechanics, such as the physics-based engine and interactive table elements, would also continue to shape the series' direction.
+
+As the series progressed, the developers at Dynamix and Sierra Entertainment refined their approach to game design, incorporating feedback from players and critics to create more polished and engaging experiences. The Lost Continent's blend of action-adventure elements and traditional pinball gameplay helped to establish the 3-D Ultra series as a leader in the genre, paving the way for future innovations and experimentation in subsequent titles, including 3-D Ultra MiniGolf Deluxe. By building upon the foundations established in earlier games, the series would continue to evolve and thrive, offering players new and exciting experiences with each successive release.
+
 - [[1997 - 3-D Ultra MiniGolf|← Previous: 3-D Ultra MiniGolf]]
 - [[1998 - 3-D Ultra MiniGolf Deluxe|→ Next: 3-D Ultra MiniGolf Deluxe]]
 

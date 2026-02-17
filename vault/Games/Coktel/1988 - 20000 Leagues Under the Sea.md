@@ -215,6 +215,14 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 **Digital Stores (Later Adaptations)**
 - [Steam – 20,000 Leagues Under The Sea: Captain Nemo](https://store.steampowered.com/app/821720/20000_Leagues_Under_The_Sea__Captain_Nemo/) – 2018 hidden object game
 
+## See Also
+
+The narrative of 20,000 Leagues Under the Sea sets the stage for the subsequent entry in the Coktel series, African Raiders-01, by introducing players to the sense of adventure and exploration that defines the franchise. Although there is no direct narrative connection between the two games, the spirit of discovery and the blend of science fiction elements with real-world historical contexts create a thematic link between them. The gameplay mechanics in 20,000 Leagues Under the Sea, such as its real-time elements and point-and-click interface, also lay the groundwork for the evolution of adventure game design seen in African Raiders-01.
+
+In terms of mechanical evolution, 20,000 Leagues Under the Sea builds upon the foundation established by earlier adventure games, incorporating a unique blend of exploration, puzzle-solving, and interactive storytelling. The game's use of real-time gameplay and its emphasis on player timing contribute to a tense and immersive experience, elements that would be refined and expanded upon in later titles like African Raiders-01. The character of Professor Arronax serves as a compelling protagonist, navigating the mysteries of the Nautilus and the enigmatic Captain Nemo, setting a precedent for well-developed characters in future Coktel games.
+
+The connection to the previous game in the series is less direct, given that 20,000 Leagues Under the Sea is based on a standalone literary work by Jules Verne. However, the game's success and the reception of its innovative gameplay mechanics likely influenced the development of subsequent adventure games, including those within the Coktel series. The legacy of 20,000 Leagues Under the Sea can be seen in how it paved the way for more complex, story-driven adventures that balanced puzzle-solving with exploration and character interaction, elements that would become hallmark features of the series leading up to African Raiders-01.
+
 ## References
 
 [^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes

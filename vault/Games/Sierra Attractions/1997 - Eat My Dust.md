@@ -118,6 +118,14 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 - [MyAbandonware](https://www.myabandonware.com/game/eat-my-dust-dl6)
 - [Internet Archive](https://archive.org/details/eat-my-dust)
 
+## See Also
+
+Eat My Dust connects to the broader Sierra Attractions series through its lighthearted and family-friendly approach to gameplay, which was a hallmark of the series. While there isn't a direct narrative link to previous games in the series, the game's focus on accessible and entertaining gameplay mechanics aligns with the overall tone of the series. Mechanically, Eat My Dust builds upon earlier racing games by incorporating 3D graphics and unique combat elements, such as the use of golf balls, chickens, and bee nests as weapons.
+
+The game lays groundwork for the next entry in the series, Head Rush, by introducing players to the Sierra Attractions brand of fast-paced and action-packed gameplay. Although specific plot points or characters from Eat My Dust may not be directly referenced in Head Rush, the overall design philosophy and emphasis on family-friendly entertainment are likely to carry over. In terms of gameplay evolution, Eat My Dust's experiments with 3D racing and combat mechanics may have influenced the development of subsequent games in the series, including Head Rush.
+
+Eat My Dust also reflects the broader trends in gaming during the late 1990s, particularly in the racing genre, where games like Mario Kart were incredibly popular. The game's attempt to bring this style of gameplay to PC users, despite its technical limitations and mixed reception, demonstrates Sierra's effort to stay competitive in a rapidly changing market. As the series continues with Head Rush, it will be interesting to see how the developers build upon the lessons learned from Eat My Dust and adapt to the evolving gaming landscape.
+
 ## References
 
 [^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/search/?q=Eat+My+Dust) – - Basic game information and release details

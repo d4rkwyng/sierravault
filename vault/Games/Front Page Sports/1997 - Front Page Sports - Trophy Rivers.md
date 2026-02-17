@@ -223,6 +223,13 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 - [CNET Download](https://download.cnet.com/front-page-sports-trophy-rivers/3000-2115_4-10019041.html)
 
 ## See Also
+
+The release of Front Page Sports: Trophy Rivers in 1997 marked a significant departure from the skiing-themed gameplay of its predecessor, Front Page Sports - Ski Racing. While Ski Racing focused on the fast-paced action of downhill skiing, Trophy Rivers delved into the more serene and challenging world of fly-fishing, offering players a unique blend of realistic fishing mechanics and educational content. This shift in focus allowed the series to explore new themes and appeal to a different segment of the gaming audience.
+
+As the series continued to evolve, Front Page Sports: Trophy Rivers laid the groundwork for future installments like Front Page Sports Golf - Tour Course Add-On, which would build upon the franchise's reputation for realistic sports simulations. Although Golf - Tour Course Add-On would introduce a new sport and gameplay mechanics, it shared a common thread with Trophy Rivers in its attention to detail and commitment to realism. The success of Trophy Rivers in simulating the intricacies of fly-fishing likely influenced the development of subsequent games in the series, including the golf title, which also aimed to provide an authentic sports experience.
+
+The connection between Front Page Sports: Trophy Rivers and its predecessors is also evident in the game's design philosophy, which emphasized realistic gameplay and educational value. This approach was consistent with the overall direction of the Front Page Sports series, which sought to create immersive and informative simulations that would appeal to both casual players and enthusiasts of the featured sports. By building on this foundation, Trophy Rivers helped establish the series as a leader in the sports simulation genre, paving the way for future innovations and expansions into new areas, such as golf.
+
 - [[1997 - Front Page Sports - Ski Racing|← Previous: Front Page Sports - Ski Racing]]
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|→ Next: Front Page Sports Golf - Tour Course Add-On]]
 

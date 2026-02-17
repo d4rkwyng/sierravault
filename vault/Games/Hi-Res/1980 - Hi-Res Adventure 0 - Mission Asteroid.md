@@ -156,6 +156,14 @@ Historical records indicate the game was released in multiple versions, includin
 - [Lutris](https://lutris.net/games/hi-res-adventure-0-mission-asteroid/)
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) - Sierra On-Line Hi-Res Adventures Catalog
 
+## See Also
+
+Hi Res Adventure #0: Mission Asteroid connects narratively to its predecessor, Mystery House, through the shared theme of puzzle-solving adventure, although it does not share a direct storyline. Mechanically, Mission Asteroid builds upon the foundation established by earlier text-based adventures, incorporating static graphics to enhance gameplay and pave the way for future graphical advancements seen in later series entries like Hi-Res Adventure 1: Mystery House. The introduction of Sierra's early text parser system in Mission Asteroid also lays groundwork for more complex interactions in subsequent games.
+
+In terms of narrative continuity, while Mission Asteroid does not directly lead into the story of Hi-Res Adventure 1: Mystery House, it establishes the Hi-Res Adventure series' penchant for diverse settings and challenges. The game's science fiction premise and focus on space exploration offer a distinct contrast to the mystery-solving theme of Mystery House, demonstrating the series' versatility from its early stages. This diversity in settings and themes would become a hallmark of Sierra's adventure games, appealing to a wide range of players.
+
+The mechanical evolution from Mission Asteroid to Hi-Res Adventure 1: Mystery House is notable for its refinement of the text parser system and the incorporation of more complex puzzles. Mystery House builds upon the accessibility introduced by Mission Asteroid, offering a more intricate narrative and challenging puzzles that require careful observation and deduction. This progression signifies Sierra's commitment to evolving the adventure game genre, balancing accessibility with depth to cater to both new and experienced players.
+
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – Hi-Res Adventure series information

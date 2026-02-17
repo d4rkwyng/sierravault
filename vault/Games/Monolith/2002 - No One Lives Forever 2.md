@@ -320,6 +320,14 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 - [v1.3 Patch](https://community.pcgamingwiki.com/files/file/303-no-one-lives-forever-2-a-spy-in-harms-way-patch/) - Multiple language versions available[^ref-37]
 - [NOLF 2 Toolkit](https://www.moddb.com/games/no-one-lives-forever-2-a-spy-in-harm/downloads/no-one-lives-forever-2-toolkit) - Level editor and source code[^ref-45]
 
+## See Also
+
+No One Lives Forever 2: A Spy in H.A.R.M.'s Way builds upon the narrative foundation established by its predecessor, The Operative: No One Lives Forever, as Cate Archer once again finds herself entangled in a complex web of espionage and intrigue. The game's story takes place a year after the events of the first title, with Cate investigating a new threat posed by H.A.R.M.'s involvement in the top-secret Soviet project codenamed "Project Omega". This sequel refines the gameplay mechanics introduced in the original, incorporating immersive sim elements reminiscent of Deus Ex while maintaining the series' signature comedic tone.
+
+Mechanically, No One Lives Forever 2 represents a significant evolution from its predecessor, with improved stealth elements and a greater emphasis on player choice and strategy. The game's LithTech Jupiter engine allows for more detailed environments and characters, creating a richer and more immersive experience for players. As the series progresses, these advancements lay the groundwork for the next entry, Contract J.A.C.K., which would further expand upon the Monolith universe and its cast of characters.
+
+The narrative threads introduced in No One Lives Forever 2 are continued in Contract J.A.C.K., which explores the consequences of Cate's actions and delves deeper into the world of espionage and counter-terrorism. While Contract J.A.C.K. maintains the series' lighthearted tone, it also introduces new characters and plot twists that add depth and complexity to the Monolith universe. Through its engaging gameplay and rich narrative, No One Lives Forever 2 solidifies the foundation for the series' future installments, ensuring a compelling and entertaining experience for players.
+
 ## References
 
 [^ref-1]: [Wikipedia – No One Lives Forever 2: A Spy in H.A.R.M.'s Way](https://en.wikipedia.org/wiki/No_One_Lives_Forever_2:_A_Spy_in_H.A.R.M.'s_Way) – development info, reception scores, awards, release dates

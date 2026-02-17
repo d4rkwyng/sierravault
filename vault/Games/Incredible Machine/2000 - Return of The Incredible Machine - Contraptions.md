@@ -129,6 +129,13 @@ The community around The Incredible Machine remains active decades after release
 - [Internet Archive](https://archive.org/details/return-of-the-incredible-machine-contraptions)
 
 ## See Also
+
+Return of The Incredible Machine - Contraptions builds upon the foundation established by its predecessor, Arthur to Astaroth no Nazo Makaimura - Incredible Toons, by refining the series' signature blend of puzzle-solving and creative contraption-building. While the narrative connection between the two games is minimal, the gameplay evolution is notable, with Return of The Incredible Machine - Contraptions introducing new mechanical components and a more refined physics simulation engine. This refinement allows for even more complex and realistic interactions between objects, further enhancing the series' trademark Rube Goldberg-style challenges.
+
+The game's success in revitalizing the series paved the way for its sequel, The Incredible Machine - Even More Contraptions, which would continue to expand on the contraption-building formula. The next installment in the series would introduce new features and improvements, such as enhanced graphics and additional gameplay modes, while maintaining the core gameplay that made Return of The Incredible Machine - Contraptions so engaging. Professor Tim's charming guidance and the game's whimsical tone also set the stage for the lighthearted and humorous approach taken in subsequent games.
+
+Through its 250 puzzles and freeform invention mode, Return of The Incredible Machine - Contraptions provides a comprehensive and entertaining experience that showcases the series' unique blend of creativity and problem-solving. As players progress through the game's challenges, they will encounter an array of colorful characters, including cats, mice, and Professor Tim himself, each contributing to the game's offbeat charm. The game's influence can be seen in its sequel, The Incredible Machine - Even More Contraptions, which builds upon the foundations established by Return of The Incredible Machine - Contraptions, offering an even more refined and engaging contraption-building experience.
+
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|← Previous: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 - [[2001 - The Incredible Machine - Even More Contraptions|→ Next: The Incredible Machine - Even More Contraptions]]
 - [[Jeff Tunnell]] - Creator

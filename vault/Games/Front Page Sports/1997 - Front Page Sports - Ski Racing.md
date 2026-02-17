@@ -131,6 +131,13 @@ A community-created patch has been developed to address compatibility issues, sp
 - [Internet Archive](https://archive.org/details/front-page-sports-ski-racing)
 
 ## See Also
+
+Front Page Sports: Ski Racing builds upon the foundation established by its predecessor, Front Page Sports - Golf, by introducing a new sport to the series while maintaining the focus on realistic gameplay and simulation. The game's use of Dynamix's new 3-D engine allows for immersive and detailed environments, setting the stage for future entries in the series like Front Page Sports - Trophy Rivers. By incorporating real-world locations and athletes, such as Olympic medalist Picabo Street, the game enhances its authenticity and appeal to fans of competitive skiing.
+
+The gameplay mechanics in Front Page Sports: Ski Racing, including the emphasis on precise control and realistic physics, lay the groundwork for the evolution of sports simulation in the series. The introduction of force feedback support and adjustable view distance settings also showcases the developer's commitment to innovation and player immersion. As the series progresses, these features will continue to be refined and expanded upon, ultimately contributing to the overall growth and diversity of the Front Page Sports franchise. The success of Ski Racing's simulation-focused approach will likely influence the development of subsequent titles, including Front Page Sports - Trophy Rivers.
+
+The connection between Front Page Sports: Ski Racing and its successor, Front Page Sports - Trophy Rivers, can be seen in the continued emphasis on realistic sports simulation and the expansion of gameplay features. While Ski Racing focuses on the thrill and challenge of competitive skiing, Trophy Rivers will likely build upon this foundation by introducing new sports or modes that further showcase the series' commitment to authenticity and immersion. The experience gained from developing Ski Racing's 3D engine and force feedback mechanics will undoubtedly be applied to future titles, ensuring a consistent level of quality and innovation throughout the Front Page Sports series.
+
 - [[1997 - Front Page Sports - Golf|← Previous: Front Page Sports - Golf]]
 - [[1997 - Front Page Sports - Trophy Rivers|→ Next: Front Page Sports - Trophy Rivers]]
 

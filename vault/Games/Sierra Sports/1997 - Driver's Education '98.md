@@ -273,6 +273,14 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 **Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
 
+## See Also
+
+Driver's Education '98 builds upon the foundational elements established in previous Sierra Sports titles, refining the educational driving simulator concept with its comprehensive approach to teaching safe driving practices. The game's structured lessons and virtual driving environment, guided by the instructor Ed, lay the groundwork for the more advanced simulation features that would be introduced in subsequent series entries, such as Grand Prix Legends. By focusing on real-world physics and state-specific traffic laws, Driver's Education '98 sets a high standard for realism and educational value that future games in the series would strive to match.
+
+The transition from Driver's Education '98 to Grand Prix Legends marks a significant shift in focus from practical driving instruction to competitive racing simulation, showcasing the versatility of the Sierra Sports series. While Driver's Education '98 emphasizes safety and compliance with traffic regulations, Grand Prix Legends will push the boundaries of speed and competition, appealing to a different aspect of the player's experience. This evolution reflects the broader ambitions of the series, which aims to cater to diverse interests within the realm of automotive simulation.
+
+Mechanically, Driver's Education '98 paves the way for the more sophisticated racing dynamics and immersive environments found in Grand Prix Legends, with its support for various input devices and attention to realistic physics. The inclusion of features like different camera views and customizable hardware support in Driver's Education '98 demonstrates a commitment to accessibility and realism that will be further refined in later titles. As the series progresses, players can expect to see continued innovation in simulation technology, building upon the educational foundations laid by Driver's Education '98 to create increasingly authentic and engaging driving experiences.
+
 ## References
 
 [^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – development credits, technical specifications, genre classification

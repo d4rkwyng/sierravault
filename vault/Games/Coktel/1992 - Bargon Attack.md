@@ -234,6 +234,14 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 - [ScummVM Wiki – Bargon Attack](https://wiki.scummvm.org/index.php?title=Bargon_Attack)
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Bargon_Attack)
 
+## See Also
+
+Bargon Attack builds upon the foundations laid by its predecessor, Fascination, in terms of gameplay mechanics and interface design. The unique point-and-click system introduced in Bargon Attack would go on to influence subsequent titles from Coktel Vision, including Ween - The Prophecy, which further refined this interface to create a more streamlined experience for players. By comparing the two games, it becomes clear that the developers at Coktel Vision were continually iterating and improving their design philosophy.
+
+The narrative of Bargon Attack also sets the stage for the events of Ween - The Prophecy, as both games share a common thread of exploring the consequences of advanced technology and otherworldly forces on human society. Although the connection between the two stories is not immediately apparent, players who have experienced Bargon Attack will notice subtle references and thematic echoes in Ween - The Prophecy that add depth to the overall Coktel Vision universe. Protagonist Bob's journey in Bargon Attack, as he navigates a world invaded by alien forces, serves as a precursor to the more fantastical and mystical elements present in Ween - The Prophecy.
+
+As the series progresses from Fascination to Bargon Attack and eventually to Ween - The Prophecy, it is evident that Coktel Vision was experimenting with different genres and gameplay styles while maintaining a consistent level of innovation and creativity. The incorporation of full-motion video (FMV) technology in Bargon Attack, for instance, marked a significant technical milestone for the developer, paving the way for more ambitious projects like Ween - The Prophecy. By examining the evolution of Coktel Vision's games, fans can appreciate the studio's dedication to pushing the boundaries of interactive storytelling and gameplay design.
+
 ## References
 
 [^ref-1]: [MobyGames – Bargon Attack](https://www.mobygames.com/game/13178/bargon-attack/) – developer info, platform details, interface innovations, FMV technology

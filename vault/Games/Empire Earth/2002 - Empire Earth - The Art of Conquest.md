@@ -261,6 +261,13 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 - [Manual Machine - Official Manual](https://manualmachine.com/gamespc/empireearththeartofconquest/1118660-user-manual/)
 
 ## See Also
+
+Empire Earth: The Art of Conquest expands on the narrative and gameplay of its predecessor, Empire Earth, by introducing new campaigns, civilizations, and epochs that seamlessly integrate into the series' timeline. The addition of the Space Age epoch allows for a futuristic storyline that explores interplanetary colonization and conflict, setting the stage for potential future sequels like Empire Earth II to build upon these advancements. By enhancing the multiplayer experience and adding unique powers to each civilization, The Art of Conquest deepens the strategic depth of the series.
+
+The Roman, Pacific, and Asian campaigns in The Art of Conquest provide a diverse range of historical and futuristic settings that enrich the Empire Earth universe, from the political intrigues of Ancient Rome under Gaius Marius and Julius Caesar to the World War II battles in the Pacific Theater involving General Douglas MacArthur and Admiral Isoroku Yamamoto. These storylines not only stand on their own but also contribute to the overarching narrative arc of the series, which will continue to evolve in subsequent titles like Empire Earth II with its own set of campaigns and gameplay mechanics.
+
+Mechanically, The Art of Conquest refines the real-time strategy formula established by Empire Earth, incorporating new features such as civilization powers and an enhanced multiplayer mode that utilizes Sierra's redesigned online matchmaking service. These improvements lay the groundwork for future innovations in Empire Earth II, where players can expect even more complex gameplay mechanics and perhaps a deeper exploration of the Space Age epoch introduced in The Art of Conquest. By building upon the foundations laid by Empire Earth and expanding its scope, The Art of Conquest ensures a smooth transition into the next chapter of the series, offering fans a cohesive and engaging experience across multiple titles.
+
 - **Next:** Empire Earth II (2005)
 - [[2001 - Empire Earth|← Previous: Empire Earth]]
 

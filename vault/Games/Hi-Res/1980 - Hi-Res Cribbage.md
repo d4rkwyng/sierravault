@@ -191,6 +191,14 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 **Manuals & Extras**
 - Original packaging and materials are held in private collections[^ref-6]
 
+## See Also
+
+Hi-Res Cribbage connects to the previous entry in the series, Hi-Res Adventure 2 - The Wizard and the Princess, through its shared development roots at On-Line Systems. Although vastly different in genre, both games showcased the company's commitment to pushing the technical boundaries of what was possible on early personal computers, with Hi-Res Cribbage utilizing high-resolution graphics for an immersive card game experience. This focus on innovation would become a hallmark of the Hi-Res series and later Sierra On-Line titles.
+
+The transition from Hi-Res Cribbage to the next entry in the series, Hi-Res Football, marks a significant shift towards sports simulations, leveraging similar technical capabilities to recreate the excitement of American football. Both games shared an emphasis on realism and challenge, with Hi-Res Cribbage's complex cribbage rules and competitive AI opponent mirroring the strategic depth found in Hi-Res Football's sports gameplay. This evolution from card games to sports simulations demonstrates the versatility and ambition of On-Line Systems as it expanded its catalog.
+
+Mechanically, Hi-Res Cribbage laid groundwork for future Sierra titles by showcasing the potential of high-resolution graphics in game design, a feature that would become more pronounced in subsequent Hi-Res series entries like Hi-Res Football. The inclusion of save game functionality and animated visuals set a precedent for user experience enhancements in later games. While narrative continuity is not a factor between these titles due to their differing genres, the technical innovations and commitment to quality established by Hi-Res Cribbage contributed significantly to the foundation upon which later Sierra On-Line successes were built.
+
 ## References
 
 [^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications

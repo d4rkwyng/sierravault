@@ -234,6 +234,13 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 - No digital manual distributions documented
 
 ## See Also
+
+Hoyle Official Card Games Collection 2015 builds upon the foundation established by its predecessor, Hoyle Swashbucklin Slots, by offering a more diverse and expansive collection of card games. Although Swashbucklin Slots focused on slot machine games with a pirate theme, the 2015 collection returns to the series' roots by featuring over 70 classic and new card games, including titles such as Fan Tan, Oh Hell, and Whist. This shift back towards traditional card games is a nod to the original Sierra-developed Hoyle games that started the franchise.
+
+The gameplay mechanics in Hoyle Official Card Games Collection 2015 have evolved to include improved artificial intelligence for computer-controlled opponents, making the game more challenging and realistic. The addition of a Face Creator feature allows players to customize their in-game avatar, providing a personal touch to the game. These enhancements pave the way for the next entry in the series, Hoyle Casino Games Collection, which is expected to continue the tradition of offering a wide range of games with updated features and gameplay mechanics.
+
+In terms of narrative continuity, Hoyle Official Card Games Collection 2015 does not have a traditional storyline, instead focusing on providing a virtual environment for players to engage with various card games. Unlike earlier games in the series that featured famous Sierra characters as opponents, the 2015 edition offers a variety of generic characters and customization options. This approach is likely to be continued in Hoyle Casino Games Collection, which will build upon the foundations established by the 2015 collection and potentially introduce new features and gameplay elements to the series.
+
 - **1989:** Hoyle Official Book of Games Volume 1 (Sierra On-Line)[^ref-1]
 - **1990:** Hoyle Official Book of Games Volume 2 - 28 solitaire games (Sierra On-Line)[^ref-1]
 - **1991:** Hoyle Official Book of Games Volume 3 - VGA engine, board games (Sierra On-Line)[^ref-1]

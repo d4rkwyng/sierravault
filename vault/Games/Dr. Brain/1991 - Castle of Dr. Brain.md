@@ -258,6 +258,13 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos)
 
 ## See Also
+
+Castle of Dr. Brain serves as the foundational entry in the Dr. Brain series, introducing players to the eccentric world of Dr. Brain's puzzle-filled castle. The game's narrative sets the stage for the series, where an unnamed protagonist navigates through increasingly complex challenges to prove their intellectual worth and earn a position as Dr. Brain's laboratory assistant. This initial installment establishes key elements that would be built upon in subsequent titles, including the mix of logic, mathematics, and spatial reasoning puzzles that define the series.
+
+The success of Castle of Dr. Brain paved the way for its sequel, The Island of Dr. Brain, which continued to evolve the series' gameplay mechanics and narrative depth. In The Island of Dr. Brain, players are once again challenged by Dr. Brain, but this time on a mysterious island where they must solve puzzles related to science, history, and the arts. The transition from castle to island expands the scope of environments and puzzle types, offering a fresh set of challenges while maintaining the core spirit of intellectual exploration established in Castle of Dr. Brain.
+
+Mechanically, Castle of Dr. Brain laid the groundwork for future innovations in the series, such as adjustable difficulty levels and a hint system, which were designed to make the game accessible to a wide range of players. These features were refined in The Island of Dr. Brain, incorporating new puzzle mechanics and a broader range of subjects, further enhancing the educational value and entertainment of the series. By building on the principles introduced in Castle of Dr. Brain, Sierra On-Line was able to create a cohesive and engaging series that appealed to both fans of puzzles and those interested in learning through interactive gameplay.
+
 - Castle of Dr. Brain (1991)
 - The Island of Dr. Brain (1992)
 - The Lost Mind of Dr. Brain (1995)

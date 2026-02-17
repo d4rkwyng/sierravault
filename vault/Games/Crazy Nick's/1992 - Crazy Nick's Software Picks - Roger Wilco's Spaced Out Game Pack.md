@@ -200,6 +200,13 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 - [Free Game Empire](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack)
 
 ## See Also
+
+Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack builds upon the foundation established by its predecessor, Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance, by offering a new set of arcade-style games based on the popular Space Quest series. The compilation features three mini-games starring Roger Wilco, including Ms. Astro Chicken, Monolith Burger, and Sand Skimmer, which draw from the gameplay mechanics and settings of earlier Space Quest titles. This approach allows players to experience the humor and charm of the Space Quest universe in a more condensed and accessible format.
+
+The game's narrative connections to the broader Space Quest series are evident in its use of recurring locations and characters, such as the Monolith Burger fast-food establishment and Planet Kerona. These elements help to reinforce the compilation's ties to the main adventure games, while also providing a unique and self-contained experience for players. In terms of gameplay evolution, Roger Wilco's Spaced Out Game Pack refines the control scheme and interface introduced in earlier Crazy Nick's titles, offering a more streamlined and intuitive experience for players.
+
+As the series progresses, the next entry in the Crazy Nick's Software Picks line would likely continue to build upon the successes of Roger Wilco's Spaced Out Game Pack, potentially incorporating new gameplay mechanics and features while maintaining the core charm and humor of the franchise. The use of existing game assets and settings would allow for further experimentation and innovation, potentially leading to even more engaging and entertaining experiences for players. By drawing from the rich history and lore of the Space Quest series, future titles in the Crazy Nick's line could offer a fresh perspective on beloved characters and worlds, while also introducing new elements to keep the franchise feeling dynamic and exciting.
+
 - King Graham's Board Game Challenge (1992)
 - Parlor Games with Laura Bow (1992)
 - Robin Hood's Game of Skill and Chance (1992)

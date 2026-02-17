@@ -206,6 +206,14 @@ GOG wishlist requests demonstrate ongoing interest, with users sharing memories 
 - [Sierra Help - Tips](https://sierrahelp.com/Hints/FatesOfTwinionTips.html)[^ref-17]
 - [GameFAQs FAQ](https://gamefaqs.gamespot.com/pc/564706-fates-of-twinion/faqs/1941)[^ref-7]
 
+## See Also
+
+Fates of Twinion builds upon the foundation established by its predecessor, The Shadow of Yserbius, by introducing a wider range of puzzles, traps, and gameplay mechanics. The game's narrative centers around the realm of Twinion, where players must prove themselves worthy of being heroes who will solve numerous quests and step through to immortality. This setup allows for a more complex game world, with regenerating maps and fixed encounters that offer a unique experience.
+
+The gameplay in Fates of Twinion evolves from its predecessor by incorporating new features such as an auto-map feature, character portrait editor, and extensive character customization options. The game's use of the same engine as The Shadow of Yserbius also means that many graphics are reused, creating a sense of continuity between the two games. As players progress through the six castle floors, they will encounter battles, puzzles, secret doors, and magic items, all of which contribute to the game's depth and replay value.
+
+Fates of Twinion serves as a bridge to the next entry in the series, The Realm Online, by laying the groundwork for more advanced online multiplayer features and gameplay mechanics. Although Fates of Twinion lost its multiplayer functionality when The Sierra Network closed, its design as an online game helped pave the way for future innovations in the series. The game's emphasis on exploration, puzzle-solving, and character progression also sets the stage for the more complex and immersive experiences that would follow in The Realm Online.
+
 ## References
 
 [^ref-1]: [Abandonware DOS - Fates of Twinion](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Fates+of+Twinion&gid=1252) - Basic game information and release details

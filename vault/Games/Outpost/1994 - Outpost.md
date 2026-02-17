@@ -275,6 +275,13 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 - [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt)
 
 ## See Also
+
+The original Outpost game sets the stage for the series, introducing players to the harsh realities of establishing a human colony on an alien world after Earth's destruction by the asteroid known as Vulcan's Hammer. As the Colony Commander, players must navigate the challenges of resource scarcity, hazardous conditions, and maintaining life support systems, all while making decisions that determine the survival of humanity. The game's narrative and gameplay mechanics lay the foundation for the series, which would continue to explore the complexities of space colonization in subsequent entries, including Outpost 2 - Divided Destiny.
+
+Outpost 2 - Divided Destiny builds upon the foundation established by the original game, offering an expanded and improved colony management experience. While specific details about the narrative connections between the two games are not provided, it is clear that the series aims to continue exploring the challenges and complexities of establishing a human presence in space. The gameplay mechanics introduced in Outpost, such as resource management and infrastructure development, are likely to evolve and become more sophisticated in Outpost 2 - Divided Destiny, providing players with new challenges and opportunities for growth.
+
+The evolution of the series from Outpost to Outpost 2 - Divided Destiny is marked by a continued focus on realistic and scientifically grounded gameplay mechanics, reflecting the influence of designer Bruce Balfour's background in NASA research. As the series progresses, players can expect to encounter new and complex challenges related to space colonization, including the management of multiple colonies, the development of new technologies, and the balancing of resources and priorities. The narrative thread established in Outpost, which emphasizes the struggle for human survival in a hostile alien environment, is likely to continue and expand in Outpost 2 - Divided Destiny, offering players a deeper and more immersive experience.
+
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
 
 ## References

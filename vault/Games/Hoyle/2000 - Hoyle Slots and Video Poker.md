@@ -214,6 +214,13 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 
 ## See Also
+
+Hoyle Slots and Video Poker 2000 connects to the previous entry in the series, Hoyle Kids Games, through its shared lineage under the Hoyle brand, which has been a staple of Sierra's portfolio since the late 1980s. Although Hoyle Kids Games focused on family-friendly entertainment, the transition to Hoyle Slots and Video Poker 2000 marks a shift towards more mature themes, reflecting the diversity of the Hoyle series in catering to different audiences. This shift is also evident in the gameplay mechanics, as Hoyle Slots and Video Poker 2000 introduces players to realistic casino simulations, including slots and video poker.
+
+The narrative connection between Hoyle Slots and Video Poker 2000 and its successor, Hoyle Solitaire and Mahjong Tiles, lies in their shared goal of providing engaging, skill-based entertainment. While Hoyle Slots and Video Poker 2000 focuses on the fast-paced world of casino games, Hoyle Solitaire and Mahjong Tiles offers a more relaxed experience with classic card and tile games. Mechanically, both games contribute to the evolution of the Hoyle series by expanding its repertoire of games and appealing to a broad range of player preferences. The inclusion of a wide variety of slots and video poker machines in Hoyle Slots and Video Poker 2000 sets the stage for the diverse game offerings seen in later titles like Hoyle Solitaire and Mahjong Tiles.
+
+In terms of gameplay evolution, Hoyle Slots and Video Poker 2000 builds upon earlier casino simulation titles by offering an unprecedented number of slot and video poker variations, enhancing the realism and replay value of the game. This approach is continued in Hoyle Solitaire and Mahjong Tiles, which similarly offers a rich assortment of solitaire and mahjong games, each with its unique rules and challenges. Through these successive releases, the Hoyle series demonstrates its commitment to innovation and player satisfaction, ensuring that each new title offers something fresh and exciting for both veteran players and newcomers to the series.
+
 - [[2000 - Hoyle Kids Games|← Previous: Hoyle Kids Games]]
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|→ Next: Hoyle Solitaire and Mahjong Tiles]]
 

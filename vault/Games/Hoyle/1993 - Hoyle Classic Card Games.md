@@ -145,6 +145,13 @@ The series continued with multiple sequels and iterations, eventually transition
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993)
 
 ## See Also
+
+Hoyle Classic Card Games builds upon the foundation established by its predecessor, Hoyle Bridge, by expanding the scope of card games offered to players. While Hoyle Bridge focused primarily on the intricacies of bridge, Hoyle Classic Card Games broadens the repertoire to include seven additional classic card games, thereby catering to a wider range of player interests and preferences. This expansion not only reflects the evolving nature of the series but also underscores Sierra's commitment to delivering comprehensive gaming experiences that appeal to diverse audiences.
+
+The narrative thread, though not traditional, is woven through the interactions with Sierra's animated characters, each imbued with unique personalities and expressions that add a layer of humor and engagement to the gameplay. This approach continues in the subsequent entry, Hoyle Official Book of Games - Volume 5, where the tradition of incorporating beloved characters and their antics is further refined, suggesting a continuous effort by Sierra to blend entertainment with strategy. Mechanically, Hoyle Classic Card Games lays the groundwork for future iterations by introducing a point-and-click interface and VGA graphics, features that would be built upon in later titles to enhance player experience.
+
+The progression from Hoyle Bridge to Hoyle Classic Card Games and onward to Hoyle Official Book of Games - Volume 5 is marked by an increasing complexity in game offerings and technological advancements. Each title refines the formula established by its predecessors, incorporating feedback and evolving player preferences into its design. The inclusion of network multiplayer capabilities in later versions, for instance, reflects a growing trend towards social interaction within the series, a feature that would become more pronounced in subsequent releases. Through this evolution, Sierra demonstrates a keen awareness of both the market's demands and the technical possibilities available at the time, ensuring the Hoyle series remains vibrant and engaging across its various installments.
+
 - [[1996 - Hoyle Solitaire|← Previous: Hoyle Solitaire]]
 - [[1997 - Hoyle Poker|→ Next: Hoyle Poker]]
 

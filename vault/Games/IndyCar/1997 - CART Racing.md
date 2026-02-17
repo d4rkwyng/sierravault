@@ -239,6 +239,13 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 - [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – Fan community with patches, mods, and support[^ref-2]
 
 ## See Also
+
+CART Racing builds upon the foundation established by its predecessor, IndyCar Racing II, by refining the gameplay mechanics and enhancing the overall simulation experience. The re-release brought about significant technical improvements, including Windows 95 compatibility and Rendition 3D acceleration support, making the game more accessible to a wider audience. This evolution in technology allowed for smoother gameplay and more realistic graphics, setting the stage for future entries in the series.
+
+The game's connection to the next entry in the series is evident in its continued focus on realistic car handling and competitive racing, which would become a hallmark of the IndyCar series. The experience gained from developing CART Racing likely influenced the design of subsequent games, such as IndyCar Racing II's eventual successor, which would further refine the simulation aspects and possibly introduce new features to enhance gameplay. By perfecting the balance between accessibility and realism, Papyrus Design Group laid the groundwork for a successful series that would appeal to both casual players and hardcore racing enthusiasts.
+
+As the series progressed, the lessons learned from CART Racing's development and reception would be applied to create even more immersive and challenging racing simulations. The attention to detail and commitment to authenticity that defined CART Racing would become a staple of the IndyCar series, with future games building upon this foundation to deliver increasingly realistic and engaging experiences for players. By understanding the evolution of the series from IndyCar Racing II to CART Racing and beyond, fans can appreciate the careful craftsmanship and dedication that went into creating these iconic racing simulations.
+
 - **Next:** None (series concluded with rebrand)
 - [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
 

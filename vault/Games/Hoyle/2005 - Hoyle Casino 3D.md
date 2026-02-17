@@ -225,6 +225,13 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 - MSU Libraries holds a copy in their Rovi Corporation video game collection[^ref-14]
 
 ## See Also
+
+Hoyle Casino 3D builds upon the foundation established by its predecessor, Hoyle Card Games, by introducing a fully realized 3D environment that significantly enhances the player's experience. The addition of character customization and a wider variety of casino games, including Texas Hold'em and video slots, demonstrates a clear evolution in gameplay mechanics aimed at appealing to a broader audience. This expansion of content and features sets the stage for future iterations in the series, such as Hoyle Poker Series, which would further refine and specialize the poker experience.
+
+The narrative continuity between Hoyle Casino 3D and its predecessors is maintained through the consistent setting of a virtual Las Vegas-style casino, where players engage in various gambling activities to build their fortunes. Although the game lacks a traditional story-driven campaign, the immersive atmosphere and interactive elements ensure that players feel engaged within the casino world. The character customization feature allows for a personal touch, making the experience more relatable and enjoyable for players as they navigate through different game modes, from tutorials to competitive tournaments.
+
+Mechanically, Hoyle Casino 3D lays the groundwork for subsequent games like Hoyle Poker Series by perfecting the blend of traditional casino games with modern 3D graphics and interactive player avatars. The game's use of the RenderWare engine to power its 3D environments marked a significant technological advancement in the series, paving the way for more sophisticated and immersive gaming experiences in future titles. As the series progresses towards Hoyle Poker Series, it's expected that the poker mechanics and multiplayer aspects will become even more refined, offering players an even more realistic and competitive poker experience.
+
 - [[2005 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2005 - Hoyle Poker Series|→ Next: Hoyle Poker Series]]
 

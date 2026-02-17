@@ -127,6 +127,13 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - Community servers still active through TribesNext and similar services[^ref-25]
 
 ## See Also
+
+Starsiege: Tribes builds upon the foundations laid by its predecessor, Cyberstorm 2 - Corporate Wars, by expanding the multiplayer aspects of the game and introducing a new level of complexity to the series. The game's focus on team-based objectives and large-scale outdoor combat sets the stage for the next entry in the series, Starsiege, which would further explore the universe and its mechanics. The introduction of the jetpack movement system and the emphasis on teamwork in Tribes also laid the groundwork for the evolution of gameplay mechanics in the subsequent game.
+
+The narrative of Starsiege: Tribes is deeply connected to the broader Starsiege universe, previously established in Cyberstorm 2 - Corporate Wars, and continues to explore the themes of tribal conflict and territorial control. The game's backstory and setting provide a rich context for the multiplayer combat scenarios, and the four primary tribes - Blood Eagle, Diamond Sword, Starwolf, and Children of Phoenix - each possess distinct philosophies and combat styles that add depth to the game's world. The next game in the series, Starsiege, would likely continue to build upon this narrative foundation, further exploring the universe and its many factions.
+
+In terms of gameplay evolution, Starsiege: Tribes represents a significant leap forward from Cyberstorm 2 - Corporate Wars, with the introduction of innovative features such as the jetpack movement system and large-scale outdoor team combat. The game's emphasis on teamwork and strategy also sets it apart from its predecessor, and would likely influence the design of the next game in the series, Starsiege. The sophisticated player customization system and variety of game modes, including Capture the Flag and Defend and Destroy, also add to the game's replay value and depth, making it a landmark title in the Metaltech series.
+
 - [[1998 - Cyberstorm 2 - Corporate Wars|← Previous: Cyberstorm 2 - Corporate Wars]]
 - [[1999 - Starsiege|→ Next: Starsiege]]
 

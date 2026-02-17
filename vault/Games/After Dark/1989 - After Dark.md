@@ -121,6 +121,13 @@ The technical influence of After Dark proved substantial, with the software appe
 - [Internet Archive](https://archive.org/details/after-dark-games) - Additional preservation copy[^ref-6]
 
 ## See Also
+
+The original After Dark game lays the groundwork for the series' future entries, particularly More After Dark, by introducing the iconic "Flying Toasters" screensaver that would become a cultural phenomenon. The game's emphasis on charm, creativity, and simplicity, as embodied by Jack Eastman's "aggressively stupid" development philosophy, sets the tone for the series' lighthearted and humorous approach to gameplay. As the series progresses, this foundation is built upon with new characters, narratives, and gameplay mechanics.
+
+The narrative threads introduced in After Dark are expanded upon in subsequent entries, such as More After Dark, which incorporates "objects and characters from the screen savers" into playable mini-games with their own simple premises. The 1998 After Dark Games collection, for example, features eleven distinct mini-games, including "Hula Girl" and "Mowin' Maniac," that showcase the series' ability to craft engaging and varied gameplay experiences. This evolution of narrative and gameplay elements continues in later entries, with independent interpretations taking darker turns, such as the 2004 J2ME mobile game "After Dark: Under the Moonlight," which centers on a haunted Portland mansion.
+
+Mechanically, After Dark's modular system and customizable activation timers are refined in later entries, such as More After Dark, which offers a more streamlined interface and new gameplay mechanics. The series' emphasis on simplicity and accessibility is maintained throughout, with modern iterations incorporating cooperative play and meta-gaming elements that add depth and complexity to the gameplay experience. For example, the itch.io versions of After Dark require players to work together as a father and daughter, utilizing distinct character abilities to overcome supernatural threats, demonstrating the series' ability to evolve and adapt while remaining true to its core principles.
+
 - [[1991 - More After Dark|→ Next: More After Dark]]
 
 ## References

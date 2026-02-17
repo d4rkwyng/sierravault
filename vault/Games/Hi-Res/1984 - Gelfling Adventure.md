@@ -164,6 +164,14 @@ While overshadowed by its parent game and Al Lowe's later work, Gelfling Adventu
 
 The game is documented in gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
+## See Also
+
+Gelfling Adventure connects narratively to its predecessor, Hi-Res Adventure 6 - The Dark Crystal, by sharing the same storyline and characters, including Jen, the last Gelfling, and his quest to heal the Dark Crystal. Mechanically, it simplifies the gameplay of The Dark Crystal, replacing the text parser with a menu-driven interface that makes the game more accessible to younger players. This innovation was a significant step towards making adventure games more user-friendly and paved the way for future developments in the genre.
+
+The game's storyline follows Jen as he navigates the world of Thra, encountering various characters from The Dark Crystal, including Aughra and Kira, and working to restore balance to the land by healing the Dark Crystal. In terms of gameplay evolution, Gelfling Adventure's use of a custom interpreter and menu-driven interface was an important experiment that influenced later adventure games, including those developed by Lucasfilm Games. This approach allowed for a more streamlined and intuitive experience, making it easier for players to progress through the game without becoming frustrated.
+
+As the series progressed, the lessons learned from Gelfling Adventure's innovative interface and simplified gameplay would influence subsequent titles, potentially laying the groundwork for future Hi-Res Adventures games that could build upon this foundation. Although there is no direct successor mentioned, the impact of Gelfling Adventure on the adventure game genre as a whole is notable, particularly in its contribution to the development of point-and-click interfaces that would become a staple of later games.
+
 ## References
 
 [^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information

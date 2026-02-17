@@ -171,6 +171,14 @@ The series is perhaps best remembered for its educational features rather than i
 **Download / Preservation**
 - Compatibility requires Windows 98 virtual machine setup[^ref-4][^ref-12]
 
+## See Also
+
+Power Chess 2.0 builds upon the foundation established by its predecessor, Power Chess 98, by refining the game's artificial intelligence and incorporating new features such as adaptive difficulty technology and a voice tutorial system performed by Natacha LaFerriere. The game's continued focus on making computer chess more accessible and engaging for players of all skill levels is evident in its improved interface and controls, including multiple viewpoint options and customizable boards. This evolution in design and functionality sets the stage for future entries in the Power Chess series.
+
+The narrative thread between Power Chess 98 and Power Chess 2.0 is largely one of technical advancement, with the latter game leveraging the WChess engine to provide more realistic and challenging gameplay experiences. The inclusion of famous chess matches, such as those between Gary Kasparov and Deep Blue, adds a historical and educational dimension to the game that was not as pronounced in Power Chess 98. As the series progresses, it is likely that subsequent games will continue to refine this blend of competition, education, and accessibility.
+
+In terms of mechanical evolution, Power Chess 2.0 lays the groundwork for potential future innovations in the series, such as enhanced online multiplayer capabilities or more sophisticated AI personalities modeled after famous chess grandmasters. The game's success in "humanizing" computer chess, as praised by French reviewers, suggests that future entries may further explore ways to make the game more engaging and interactive for players. While Power Chess 2.0 has been seen by some critics as merely an update of its predecessor, it nonetheless represents a significant step forward in the series' ongoing mission to bring high-quality chess simulation to a wide audience.
+
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 2.0](https://mobygames.com/game/power-chess-20) – release date, developer, publisher, ratings, AI personalities, technical specs, multiplayer options

@@ -299,6 +299,13 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [Al Lowe's Easter Eggs Guide](https://allowe.com/games/larry/tips-manuals/lsl7-eggs.html)[^ref-13]
 
 ## See Also
+
+Leisure Suit Larry 7 - Love for Sail connects narratively to its predecessor, Leisure Suit Larry 6 - Shape Up or Slip Out!, by picking up immediately where the previous game left off, with Larry Laffer escaping from being tied up by Shamara Payne. This direct continuation is a departure from the usual formula of featuring Larry getting dumped by his latest conquest, and instead sets the stage for Larry's new adventure aboard the cruise ship PMS Bouncy. The game's story also builds upon the character development and humor established in Shape Up or Slip Out!, with Larry's signature blend of charm and clumsiness guiding him through various shipboard competitions.
+
+Mechanically, Love for Sail introduces several innovative features that build upon the foundation established in previous Leisure Suit Larry games, including the use of a hybrid interface that combines point-and-click mechanics with an optional text parser. This design choice allows players to interact with the game world in a more nuanced way, and is a notable evolution from the purely point-and-click interfaces used in earlier games in the series. The game also features improved graphics and sound, with hand-drawn 2D cartoon-style visuals that were considered among the most impressive of their time.
+
+In terms of its connection to the next entry in the series, Leisure Suit Larry's Casino, Love for Sail marks a significant turning point in the franchise's narrative and gameplay evolution. The game's conclusion, which features the ship being abducted by an alien spaceship, sets up a cliffhanger that was never resolved due to the series' cancellation, but also leaves room for future games to explore new themes and storylines. While Leisure Suit Larry's Casino would ultimately take the series in a different direction, Love for Sail remains a beloved entry in the franchise, and its influence can still be seen in later games. The character of Larry Laffer, in particular, would continue to evolve and appear in various forms throughout the series, with his signature humor and charm remaining a constant presence.
+
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|← Previous: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]

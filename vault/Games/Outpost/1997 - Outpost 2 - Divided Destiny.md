@@ -134,6 +134,13 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 - [Internet Archive](https://archive.org/details/outpost2divideddestiny)
 
 ## See Also
+
+Outpost 2: Divided Destiny builds upon the foundation established by its predecessor, Outpost, by introducing a new planet, New Terra, where humanity's last survivors must rebuild and face the consequences of their actions. The game's narrative explores the aftermath of Earth's destruction by the asteroid impact known as Vulcan's Hammer, which was a pivotal event in the first game. As players navigate the challenges of colony management and survival on New Terra, they must confront the threat of the Blight, a deadly side effect of terraforming experiments that adds a new layer of complexity to the series.
+
+The gameplay mechanics in Outpost 2: Divided Destiny evolve from those in the original Outpost by placing greater emphasis on resource management, technological research, and careful planning. The introduction of the dual campaign structure, allowing players to experience the conflict from both Plymouth and Eden perspectives, adds depth to the narrative and highlights the ideological differences driving the factions apart. This setup lays the groundwork for potential future entries in the series to explore the consequences of the player's choices and the ultimate fate of humanity on New Terra.
+
+While there is no direct sequel to Outpost 2: Divided Destiny, the game's conclusion sets the stage for a hypothetical next installment by leaving players wondering about the long-term survival of the colonies and the potential for escape from the devastated planet. The game's themes of human survival, scientific experimentation, and the struggle against environmental disasters could be further developed in a future entry, potentially introducing new factions, technologies, or challenges to overcome. Ultimately, Outpost 2: Divided Destiny stands as a unique blend of real-time strategy and colony management that expands upon the Outpost series' core concepts and leaves room for potential expansion or continuation in the future.
+
 - **Next:** No direct sequel produced
 - [[1994 - Outpost|← Previous: Outpost]]
 

@@ -176,6 +176,14 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 **Modern Compatibility**
 - ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
 
+## See Also
+
+Hi-Res Adventure 3: Cranston Manor marks a significant point in the Hi-Res Adventures series, diverging from its predecessors like Hi-Res Soccer by focusing on adventure and puzzle-solving elements. The narrative of Cranston Manor introduces players to a mysterious mansion filled with hidden treasures and supernatural dangers, laying the groundwork for future games in the series that would explore similar themes of exploration and mystery. This shift towards more complex storytelling and gameplay mechanics sets the stage for subsequent titles, including Hi-Res Adventure 4: Ulysses and the Golden Fleece.
+
+The gameplay mechanics in Cranston Manor, such as its text parser interface and non-linear exploration structure, build upon the foundational elements established in earlier Hi-Res Adventures, offering players a more immersive experience. The ability to switch between graphic and text modes during gameplay adds a layer of flexibility that enhances player engagement. These evolutionary steps in game design would continue to influence the development of later series entries, including Ulysses and the Golden Fleece, which would further refine the balance between storytelling, puzzle-solving, and exploration.
+
+In terms of narrative continuity, while Cranston Manor does not directly tie into the storyline of Hi-Res Soccer, it contributes to the broader thematic landscape of the Hi-Res Adventures series by exploring themes of mystery, wealth, and the supernatural. The game's setting and characters, such as Lord Cranston, add depth to the series' universe, preparing the ground for more fantastical adventures like Ulysses and the Golden Fleece. This progression from one game to the next showcases Sierra's growing expertise in crafting engaging narratives and challenging gameplay experiences that would become hallmarks of their future successes.
+
 ## References
 
 [^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information

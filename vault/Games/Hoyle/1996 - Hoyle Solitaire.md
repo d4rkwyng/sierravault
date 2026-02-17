@@ -260,6 +260,13 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 - [Classic Reload](https://classicreload.com/hoyle-solitaire.html) – Browser playable[^ref-23]
 
 ## See Also
+
+Hoyle Solitaire builds upon the foundation established by its predecessor, Hoyle Official Book of Games - Volume 5, by refining the card game experience for Windows platforms. The 1996 release introduced significant graphical and sound improvements, along with intuitive mouse control that enhanced the overall gameplay. This evolution in presentation and usability helped to further establish the Hoyle brand as a leader in digital card games, setting the stage for future entries in the series.
+
+The narrative thread between Hoyle Solitaire and its predecessors is largely centered around the franchise's commitment to authentic, engaging card game experiences. While characters like Leisure Suit Larry and Princess Rosella were featured in earlier multiplayer-focused titles, Hoyle Solitaire focuses solely on the solitary experience of playing solitaire. This shift in focus allowed the game to provide a more personalized and relaxing atmosphere for players, with extensive customization options for card backs, wallpaper, and music. The game's success paved the way for future Hoyle titles, including Hoyle Classic Board Games, which would expand the franchise into new areas of tabletop gaming.
+
+Mechanically, Hoyle Solitaire laid important groundwork for subsequent games in the series by perfecting the drag-and-drop interface and incorporating features like right-click functionality to streamline gameplay. The inclusion of 28 distinct solitaire variants, along with tutorials and a glossary of terms, ensured that players of all skill levels could find enjoyment and challenge within the game. As the series progressed towards Hoyle Classic Board Games, these mechanical advancements would be built upon, incorporating new types of games and multiplayer capabilities while maintaining the high standards of presentation and user experience that Hoyle Solitaire had established.
+
 - [[1996 - Hoyle Official Book of Games - Volume 5|← Previous: Hoyle Official Book of Games - Volume 5]]
 - [[1993 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
 

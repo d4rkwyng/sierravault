@@ -129,6 +129,14 @@ The game's educational approach, incorporating "Gardner's theory of multiple int
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
+## See Also
+
+The Time Warp of Dr. Brain builds upon the narrative foundation established in The Lost Mind of Dr. Brain, where players were introduced to the hapless scientist's antics and puzzle-solving adventures. In this installment, Dr. Brain's attempt to retrieve his car keys by teleporting himself back in time goes awry, landing him in the space-time discontinuum. This predicament sets the stage for a thrilling adventure through various time periods, where players must help Dr. Brain navigate and solve over 600 brain-building puzzles to return home.
+
+Mechanically, The Time Warp of Dr. Brain refines the puzzle-adventure formula introduced in its predecessors, offering an expanded array of challenges that cater to different cognitive skills. The game's incorporation of Gardner's theory of multiple intelligences ensures a diverse range of puzzles, from logic and spelling to music arrangement and traffic control. This evolution in gameplay mechanics lays the groundwork for the next installment in the series, Dr. Brain Thinking Games - IQ Adventure, which would further refine the puzzle-solving experience with new challenges and brain-teasers.
+
+The narrative thread of The Time Warp of Dr. Brain is also noteworthy, as it explores the consequences of Dr. Brain's time-traveling mishap and his subsequent journey through the ages. Players are treated to a unique blend of humor, wit, and educational content, as Dr. Brain provides guidance and commentary throughout the adventure. As the series progresses with Dr. Brain Thinking Games - IQ Adventure, players can expect an even more polished and engaging experience, with new puzzles, characters, and storylines that build upon the foundations established in The Time Warp of Dr. Brain.
+
 ## References
 
 [^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Release date and developer information

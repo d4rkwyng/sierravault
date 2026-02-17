@@ -232,6 +232,13 @@ Despite its critical reception as a game where presentation exceeded substance, 
 - German manual and booklet available through Internet Archive preservation[^ref-17]
 
 ## See Also
+
+Conqueror: A.D. 1086 marks a significant departure from its predecessor, Casino De Luxe, in terms of gameplay and narrative focus. While Casino De Luxe was centered around casino-style games, Conqueror: A.D. 1086 introduces a complex blend of strategy, role-playing, and action elements set in medieval England. This shift towards a more immersive and historically grounded experience sets the stage for the series' future evolution.
+
+The game's innovative approach to combining first-person combat with strategic territory management lays the groundwork for later titles like Powerhouse, which would further refine these mechanics. In Conqueror: A.D. 1086, players must navigate the challenges of building a domain, managing resources, and making key decisions that impact their character's development and ultimate victory conditions. This depth of gameplay and player agency would become a hallmark of the series, influencing the design of subsequent games.
+
+As the series progresses towards Powerhouse, the lessons learned from Conqueror: A.D. 1086's ambitious scope and multi-genre approach are likely to inform the development of more refined and specialized gameplay mechanics. The introduction of RPG character development elements, such as the player's age and moral choices, adds a layer of depth to the game that would be built upon in future titles. By understanding the narrative and mechanical connections between Conqueror: A.D. 1086 and its predecessors and successors, players can appreciate the evolution of the series and the innovative spirit that drives it.
+
 - [[1995 - Casino De Luxe|← Previous: Casino De Luxe]]
 - [[1995 - Powerhouse|→ Next: Powerhouse]]
 

@@ -299,6 +299,13 @@ The game's ongoing availability on modern digital platforms and the active moddi
 - [ModDB – Update Mod](https://www.moddb.com/mods/lords-of-magic-special-edition-update-mod)
 
 ## See Also
+
+Lords of Magic: Special Edition builds upon the foundation established by its predecessor, Lords of Magic, by introducing significant enhancements and new content that expands the game's narrative and mechanical depth. The addition of the Legends of Urak Quest Pack, a lord editor, and map editor in the Special Edition allows for greater creativity and replayability, while the inclusion of new buildings, monsters, and storylines enriches the world of Urak and provides players with fresh challenges and opportunities. By addressing the bugs and shortcomings of the original game, the Special Edition offers a more polished and engaging experience that sets the stage for future entries in the series.
+
+The gameplay mechanics introduced in Lords of Magic: Special Edition, such as the combination of turn-based exploration and real-time combat, lay the groundwork for the evolution of the series. The addition of new faiths, spells, and artifacts in the Special Edition increases the complexity and depth of the game's strategic layer, allowing players to experiment with different playstyles and approaches. As the series progresses, these mechanics will continue to evolve, incorporating new features and refinements that build upon the foundation established by Lords of Magic: Special Edition.
+
+The narrative of Lords of Magic: Special Edition, which revolves around the struggle against Balkoth, Lord of Death, and the quest to restore peace to the war-torn world of Urak, provides a compelling backdrop for the game's events. The introduction of legendary characters like Merlin, Beowulf, and Siegfried in the Legends of Urak Quest Pack adds a new layer of depth to the story, exploring different facets of the world and its history. As the series continues, the narrative will likely expand and evolve, incorporating new characters, plot twists, and themes that build upon the foundations established by Lords of Magic: Special Edition, potentially setting the stage for a future game that explores the aftermath of Balkoth's defeat or delves into the lore of Urak in greater detail.
+
 - **Next:** None (final entry in series)
 - [[1997 - Lords of Magic|← Previous: Lords of Magic]]
 

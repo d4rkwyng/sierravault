@@ -278,6 +278,13 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 - [ModDB – Version 2.0 Patch](https://www.moddb.com/games/swat-3/downloads/swat-3-us-retail-v20-patch-tactical-goty)
 
 ## See Also
+
+SWAT 3: Close Quarters Battle builds upon the foundation established by its predecessor, Police Quest - SWAT 2, by transforming the series into a fully realized first-person tactical simulation. This shift in gameplay style and genre allowed for more immersive and realistic experiences, focusing on police procedure over military tactics. The game's success can be attributed to its emphasis on non-violent conflict resolution, which was a departure from other games in the tactical shooter genre at the time.
+
+The narrative of SWAT 3 takes place in a fictional crisis scenario in Los Angeles, where players must navigate complex missions and make difficult decisions as the leader of a five-man LAPD SWAT element. The game's story and gameplay mechanics laid the groundwork for future entries in the series, including SWAT - Global Strike Team, which would build upon the tactical squad-based first-person shooter formula established by SWAT 3. The evolution of gameplay from Police Quest - SWAT 2 to SWAT 3 and eventually to SWAT - Global Strike Team demonstrates a clear progression towards more realistic and immersive law enforcement simulations.
+
+The connection between SWAT 3 and SWAT - Global Strike Team is evident in the continued emphasis on tactical squad-based gameplay and the use of advanced artificial intelligence, which was first introduced in SWAT 3. The series' focus on police procedure and non-violent conflict resolution also remains a core aspect of the gameplay experience in SWAT - Global Strike Team. By refining the formula established by SWAT 3, SWAT - Global Strike Team offers an even more realistic and challenging experience for players, further solidifying the series' reputation as a leader in the tactical shooter genre.
+
 - [[1998 - Police Quest - SWAT 2|← Previous: Police Quest - SWAT 2]]
 - [[2003 - SWAT - Global Strike Team|→ Next: SWAT - Global Strike Team]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)

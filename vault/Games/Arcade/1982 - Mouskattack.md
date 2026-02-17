@@ -173,6 +173,14 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 **Wishlists / Community Interest**
 - [GOG Dreamlist – Mouskattack](https://www.gog.com/dreamlist)[^ref-6]
 
+## See Also
+
+Mouskattack builds upon the foundation established by its predecessor, Marauder, by refining the arcade action genre that On-Line Systems had begun to explore. The game's focus on quick thinking and strategic gameplay, as embodied by Larry Bain's mission to clear Rat Alley of oversized rats, sets the stage for further innovation in subsequent titles. Although Mouskattack was not a major commercial success, its development and release contributed to the company's growing expertise in creating engaging action games.
+
+The gameplay mechanics introduced in Mouskattack, such as the use of mouse traps as a defensive strategy, laid groundwork for future Sierra titles to experiment with unique twists on classic arcade formulas. The evolution from Marauder to Mouskattack is evident in the latter's more polished gameplay and thematic coherence, which would continue to evolve in the next entry in the series, Pest Patrol. Pest Patrol would go on to refine the action genre further, potentially incorporating elements from Mouskattack while introducing new challenges and gameplay mechanics.
+
+In terms of narrative continuity, the character of Larry Bain and the setting of Rat Alley serve as a singular, self-contained story within the broader context of On-Line Systems' early game development. While there may not be direct narrative connections between Mouskattack and its surrounding titles, the game's thematic focus on pest control and arcade action contributes to the series' overall diversity and experimentation during this period. The transition from Mouskattack to Pest Patrol would likely involve an expansion of gameplay features and possibly a new protagonist, further solidifying On-Line Systems' position as a developer of varied and engaging arcade experiences.
+
 ## References
 
 [^ref-1]: [LaunchBox Games Database – On-Line Systems Publishers](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release dates, platforms, community ratings

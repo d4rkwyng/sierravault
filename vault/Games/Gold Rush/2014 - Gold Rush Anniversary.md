@@ -267,6 +267,13 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 - [GoldRush-Game.com](https://www.goldrush-game.com/)
 
 ## See Also
+
+Gold Rush! Anniversary serves as a bridge between the original Gold Rush! and its eventual sequel, Gold Rush 2, by refining gameplay mechanics and narrative elements that would be further expanded upon in the next installment. The remake's dual control scheme, allowing players to switch between text parser and point-and-click interfaces, sets the stage for the evolution of controls in Gold Rush 2, which would likely build upon this hybrid approach to offer an even more streamlined experience. By revisiting Jerrod Wilson's journey with modern graphics and a more forgiving game design, the Anniversary edition prepares players for the next chapter in the series.
+
+The story of Gold Rush! Anniversary directly follows the events of the original Gold Rush!, where Jerrod Wilson embarks on a perilous journey from New York to California in search of his brother Jake. This narrative thread will continue into Gold Rush 2, potentially exploring the aftermath of Jerrod's reunion with his brother and the further adventures they might undertake in the goldfields of California. The educational elements about 19th century California history woven throughout the game also lay groundwork for more detailed historical explorations in future series entries.
+
+Mechanically, Gold Rush! Anniversary's use of pre-rendered 3D graphics and its experimental approach to combining classic and modern interfaces will influence the development of Gold Rush 2. The sequel may adopt more advanced graphics capabilities and refine the control scheme based on player feedback from the Anniversary edition. Additionally, the success of the three historically accurate routes to California in Gold Rush! Anniversary could lead to even more diverse and detailed pathways in Gold Rush 2, offering players an expanded range of choices and challenges as they navigate the American frontier.
+
 - [[1988 - Gold Rush|← Previous: Gold Rush]]
 - [[2017 - Gold Rush 2|→ Next: Gold Rush 2]]
 

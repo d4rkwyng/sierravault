@@ -198,6 +198,14 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 **Manuals & Extras**
 - [Sierra Chest](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – Box art and packaging information
 
+## See Also
+
+Turbo Learning: Mega Math builds upon the educational foundations established by its predecessor, Spelling Jungle, by shifting the focus from language arts to mathematics. The game's use of interactive mini-games and a personalized learning experience, guided by Dr. Krista, creates a narrative continuity with Spelling Jungle's engaging approach to education. Mechanically, Mega Math evolves the series by incorporating full speech synthesis, a notable technical achievement that enhances the learning experience.
+
+The connection to the next entry in the series, Spelling Blizzard, is evident in the continued emphasis on interactive educational content and the use of colorful characters to facilitate learning. While Spelling Blizzard returns the focus to language arts, the mathematical skills developed in Mega Math provide a foundational understanding that can complement the linguistic knowledge acquired in the subsequent game. The Turbo Learning series, including Mega Math, contributes to the broader Discovery Series by Sierra, aiming to provide a comprehensive educational experience that encompasses various subjects.
+
+The gameplay mechanics in Mega Math, such as the mouse-driven interface and the structure of progressing through levels by passing tests, lay the groundwork for future educational games in the series. The inclusion of Quarky and Quaysoo, characters from the previous Turbo Science game, adds a layer of continuity to the series, suggesting that the educational adventures are part of a larger, interconnected universe. As the series progresses to Spelling Blizzard, players can expect to see further evolution in gameplay mechanics and narrative engagement, building upon the foundations established by Mega Math and its predecessors.
+
 ## References
 
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year

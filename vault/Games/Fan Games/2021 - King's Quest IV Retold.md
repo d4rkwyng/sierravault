@@ -223,6 +223,14 @@ The remake bridges generational gaps in gaming accessibility. While the original
 **Manuals & Extras**
 - Original game manual required for copy protection[^ref-11]
 
+## See Also
+
+King's Quest IV Retold builds upon the narrative foundations laid by its spiritual predecessors, such as Space Quest - Incinerations, although it does not share a direct storyline connection. Mechanically, King's Quest IV Retold introduces point-and-click controls, diverging from the text-based interfaces of earlier games and setting a new standard for accessibility in fan-made remakes. This evolution in gameplay would later influence other projects within the Sierra fan community.
+
+The story of King's Quest IV Retold directly follows the events of King's Quest III: To Heir Is Human, with Princess Rosella embarking on a perilous journey to save her father, King Graham. As Rosella navigates the land of Tamir, she must overcome challenges that are both reminiscent of her family's past adventures and uniquely tied to her own destiny. The game's real-time element and day-night cycle add a layer of complexity and urgency to Rosella's quest, distinguishing it from other entries in the series.
+
+In terms of its place within the broader fan-made Sierra landscape, King's Quest IV Retold serves as a bridge between earlier community projects like Space Quest - Incinerations and more recent endeavors such as the SCP Sierra Conversion Project. The latter, with its focus on converting classic Sierra titles into new formats, owes a debt to the pioneering work done by DrSlash in modernizing King's Quest IV while retaining its original charm. Through its blend of traditional storytelling and modern gameplay mechanics, King's Quest IV Retold contributes to the vibrant tapestry of fan-created content that celebrates and reimagines the legacy of Sierra On-Line's beloved franchises.
+
 ## References
 
 [^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, version details, technical specs, user reviews, download statistics, bugs

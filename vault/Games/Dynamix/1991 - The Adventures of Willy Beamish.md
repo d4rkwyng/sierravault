@@ -290,6 +290,14 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [Game Manual – Internet Archive](https://archive.org/details/AdventuresOfWillyBeamishManual)
 - [Hint Book – Internet Archive](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991)
 
+## See Also
+
+The Adventures of Willy Beamish connects to the previous Dynamix title, Heart of China, through its shared use of the Dynamix Game Development System (DGDS) engine, which allowed for similar point-and-click interfaces and puzzle-solving mechanics. Although the games differ significantly in tone and narrative, with Heart of China focusing on action-adventure elements and Willy Beamish emphasizing humor and satire, both titles showcase Dynamix's ability to craft engaging stories and characters. The success of Willy Beamish's cartoon-like visuals and adult-oriented humor also laid the groundwork for future Dynamix projects.
+
+In terms of gameplay evolution, The Adventures of Willy Beamish built upon the foundation established by earlier adventure games, introducing a unique blend of exploration, puzzle-solving, and conversation-driven storytelling. This approach would influence subsequent titles, including Johnny Castaway, which would further refine the point-and-click interface and incorporate new features such as more complex character interactions and branching storylines. The development team's experience with Willy Beamish's extensive dialogue trees and character relationships also likely informed their design decisions for future games.
+
+The Adventures of Willy Beamish serves as a pivotal title in the Dynamix catalog, marking a shift towards more story-driven and character-focused gameplay. As the last adventure game developed by Dynamix before their transition to simulation titles, it represents a culmination of the studio's expertise in crafting engaging narratives and memorable characters. The game's legacy can be seen in later titles like Johnny Castaway, which would continue to push the boundaries of interactive storytelling and character development, while also maintaining the sense of humor and satire that defined Willy Beamish.
+
 ## References
 
 [^ref-1]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – ratings, credits, releases, platform information, trivia

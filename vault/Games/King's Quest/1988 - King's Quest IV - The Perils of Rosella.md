@@ -258,6 +258,13 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 - [Sierra Help Pages](https://sierrahelp.com/Games/KQ/KQ4.html) (Patches and technical support)[^ref-36]
 
 ## See Also
+
+King's Quest IV - The Perils of Rosella directly follows the events of King's Quest III - To Heir Is Human, where King Graham's family is reunited in Castle Daventry. However, Graham's sudden heart attack sets off a chain of events that leads to Princess Rosella's journey to the land of Tamir, where she must navigate treacherous landscapes and complete impossible tasks for the evil fairy Lolotte. This narrative thread continues the series' tradition of epic storytelling and fantastical world-building.
+
+The gameplay in King's Quest IV also builds upon the foundations established in King's Quest III, with the introduction of the SCI engine allowing for improved graphics and sound design. The game's real-time clock and day-night cycle add a new layer of complexity to the puzzles and exploration, requiring players to adapt to changing environments and circumstances. These mechanical advancements paved the way for future innovations in the series, including the point-and-click interface that would debut in King's Quest V - Absence Makes the Heart Go Yonder.
+
+As the series progresses to King's Quest V, the narrative and gameplay elements introduced in King's Quest IV continue to evolve and expand. The character of Princess Rosella, who takes center stage in King's Quest IV, plays a significant role in shaping the story and gameplay of future entries, including King's Quest V. The technical advancements and design principles established in King's Quest IV also influence the development of King's Quest V, which would go on to feature even more sophisticated graphics, sound design, and gameplay mechanics.
+
 - [[King's Quest Series]] - Series overview
 - [[1986 - King's Quest III - To Heir Is Human|← Previous: King's Quest III - To Heir Is Human]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|→ Next: King's Quest V - Absence Makes the Heart Go Yonder]]

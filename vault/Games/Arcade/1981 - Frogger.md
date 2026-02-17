@@ -263,6 +263,14 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 **Manuals & Extras**
 - [Free Game Empire - Windows 95 Manual](https://www.freegameempire.com/games/Frogger/manual)
 
+## See Also
+
+Frogger builds upon the foundation established by its predecessor, Crossfire, by introducing a new level of complexity and challenge in its gameplay mechanics. While Crossfire focused on simple, fast-paced action, Frogger requires players to think strategically and time their movements carefully to navigate the busy roads and treacherous rivers. This evolution in gameplay is evident in the way Frogger's levels are structured, with a greater emphasis on precision and planning than was present in Crossfire.
+
+In terms of narrative, Frogger does not have a direct connection to Crossfire, as it lacks a traditional story and instead focuses on pure arcade gameplay. However, the game's protagonist, Frogger, can be seen as a symbol of perseverance and determination, traits that are also embodied by the players of Crossfire. As the series progresses, these themes will continue to be explored in subsequent games, including Gobbler, which will introduce new characters and plot points while maintaining the core gameplay elements that made Frogger so successful.
+
+Gobbler, the next entry in the series, will expand upon the gameplay mechanics introduced in Frogger, adding new challenges and features that will test players' skills in innovative ways. While the exact nature of these changes is not yet clear, it is evident that Gobbler will build upon the foundation established by Frogger, pushing the boundaries of what is possible in an arcade game and providing players with a fresh and exciting experience. As the series continues to evolve, fans can expect to see new and interesting developments that will keep them engaged and entertained.
+
 ## References
 
 [^ref-1]: [Wikipedia – Frogger](https://en.wikipedia.org/wiki/Frogger) – release dates, sales data, awards, gameplay mechanics, cultural impact

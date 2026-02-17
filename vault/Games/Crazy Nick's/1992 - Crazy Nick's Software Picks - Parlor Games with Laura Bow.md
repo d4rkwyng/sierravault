@@ -223,6 +223,13 @@ As a historical artifact, the game documents the budget software market of the e
 - ScummVM provides full compatibility for running on modern systems[^ref-9][^ref-5]
 
 ## See Also
+
+Crazy Nick's Software Picks: Parlor Games with Laura Bow builds upon the foundation established by its predecessor, Crazy Nick's Software Picks - Leisure Suit Larry's Casino, by continuing to offer a variety of casual games under the Crazy Nick's banner. While the previous entry focused on casino-style games featuring Leisure Suit Larry, Parlor Games with Laura Bow shifts the focus to classic parlor games like Yacht and Dominoes, leveraging the popularity of Sierra's adventure game heroine Laura Bow as the player's opponent. This change in direction reflects Sierra's experimentation with different genres and characters within the Crazy Nick's series.
+
+The inclusion of Laura Bow as the opponent in Parlor Games with Laura Bow serves as a narrative bridge to her appearances in other Sierra games, such as The Dagger of Amon Ra, which was released around the same time. Although the game does not feature a traditional story, the use of Laura Bow's character adds a touch of personality and charm to the gameplay experience. Mechanically, the game's point-and-select interface and turn-based pacing are similar to those found in other Sierra titles, including the Hoyle series, which Parlor Games with Laura Bow draws inspiration from.
+
+In terms of its place within the series, Crazy Nick's Software Picks: Parlor Games with Laura Bow sets the stage for the next entry, Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance. The continued use of recognizable characters from Sierra's adventure game catalog, such as Laura Bow in this title and presumably Robin Hood in the next, suggests a strategy to appeal to fans of these characters and introduce them to more casual gaming experiences. Additionally, the evolution of gameplay mechanics, such as the incorporation of different difficulty levels and strategic decision-making, contributes to the series' overall growth and diversity.
+
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]

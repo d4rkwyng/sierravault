@@ -244,6 +244,13 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 - [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) - Official patches 1.02 and 1.3
 
 ## See Also
+
+Front Page Sports - Football Pro '95 builds upon the foundation established by its predecessors, including Front Page Sports - Baseball Pro, to deliver a comprehensive football simulation experience. Although the series shifts between different sports, the core management and simulation principles remain consistent, allowing players to apply their strategic thinking across different titles. The game's introduction of NFL licensing and modem/network play marked significant advancements in the series, setting a new standard for sports games.
+
+The release of Front Page Sports - Football Pro '95 was followed by Front Page Sports - Football Pro '96, which further refined the football simulation formula with updated rosters, enhanced gameplay mechanics, and improved graphics. The continuity between these titles is evident in their shared focus on realistic team management, player development, and competitive multiplayer options. Players who enjoyed the depth and complexity of Football Pro '95 would find a natural progression of features and challenges in Football Pro '96, including new strategic elements and refined AI.
+
+Mechanically, Front Page Sports - Football Pro '95 laid the groundwork for subsequent games in the series by introducing innovations such as the Camera Angle Management System (CAMS) and comprehensive career modes. These advancements not only enhanced the player experience but also influenced the broader sports game genre, with competitors adopting similar management options and simulation depths. As the series evolved, so did the expectations of players, who came to anticipate each new installment would offer richer, more immersive experiences that combined realistic sports action with deep strategic planning.
+
 - [[1994 - Front Page Sports - Baseball Pro|← Previous: Front Page Sports - Baseball Pro]]
 - [[1995 - Front Page Sports - Football Pro '96|→ Next: Front Page Sports - Football Pro '96]]
 

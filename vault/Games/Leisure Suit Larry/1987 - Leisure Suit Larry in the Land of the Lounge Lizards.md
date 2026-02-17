@@ -166,6 +166,13 @@ Academic analysis has also examined the series' cultural significance, with the 
 - Abandonware DOS with 4.25/5 rating[^ref-39]
 
 ## See Also
+
+Leisure Suit Larry in the Land of the Lounge Lizards connects to the broader series through its introduction of protagonist Larry Laffer, a character whose misadventures would become synonymous with the franchise. The game's narrative sets the stage for future entries, particularly Leisure Suit Larry Goes Looking for Love (in Several Wrong Places), which continues Larry's quest for love and acceptance. Mechanically, the game's use of the AGI engine and text-based command system laid the groundwork for the series' early gameplay style.
+
+The events of Leisure Suit Larry in the Land of the Lounge Lizards directly influence the plot of Leisure Suit Larry Goes Looking for Love (in Several Wrong Places), as Larry's experiences in Lost Wages, Nevada, inform his subsequent attempts to find romance. Characters and locations introduced in the first game also make appearances in later entries, creating a sense of continuity throughout the series. Al Lowe's design philosophy, which emphasized humor and satire, is also evident in the series' progression, with each game building upon the comedic foundation established in Leisure Suit Larry in the Land of the Lounge Lizards.
+
+As the series evolves, gameplay mechanics are refined and expanded, with the introduction of new engines and interfaces, such as the SCI1 engine used in the 1991 VGA remake of Leisure Suit Larry in the Land of the Lounge Lizards. This transition to point-and-click controls, marketed with the tagline "point and grope," sets the stage for the series' future gameplay developments, including the introduction of more complex puzzle designs and character interactions in subsequent games like Leisure Suit Larry Goes Looking for Love (in Several Wrong Places).
+
 - **VGA Remake:** [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 - **HD Remake:** [[2013 - Leisure Suit Larry - Reloaded]]
 

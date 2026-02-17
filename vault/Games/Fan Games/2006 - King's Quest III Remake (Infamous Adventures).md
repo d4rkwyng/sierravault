@@ -182,6 +182,14 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 **Manuals & Extras**
 - Refer to original Sierra documentation for gameplay reference
 
+## See Also
+
+King's Quest III Remake by Infamous Adventures connects narratively to Space Quest 0 - Replicated, as both games are part of the broader Sierra fan game series, sharing a common thread of reimagining classic adventure games for modern audiences. Mechanically, King's Quest III Remake evolves from its predecessor with the introduction of point-and-click interface and VGA graphics, setting the stage for future remakes like Quest for Glory II VGA Remake. The remake's focus on preserving challenging gameplay while making it more accessible through modern interface conventions also reflects a design philosophy that would influence subsequent fan-made projects.
+
+The story of King's Quest III Remake follows Gwydion, a young slave who must escape the tyrannical wizard Manannan and discover his true identity as Prince Alexander, which serves as a narrative bridge between the earlier games in the series and the later quests. The game's mechanics, such as the spell casting system and timed puzzles, build upon the foundations established in previous Sierra titles, including those reimagined in Space Quest 0 - Replicated. By refining these elements, Infamous Adventures laid the groundwork for future remakes, including Quest for Glory II VGA Remake, which would further evolve the series' gameplay and narrative depth.
+
+Quest for Glory II VGA Remake, as the next entry in the series, benefits from the mechanical and narrative advancements introduced in King's Quest III Remake. The point-and-click interface, full VGA graphics, and emphasis on accessibility while maintaining challenge are design choices that would be carried forward and potentially expanded upon in Quest for Glory II VGA Remake. Moreover, the success of King's Quest III Remake in blending nostalgia with modern gaming sensibilities likely influenced the approach taken by developers of subsequent remakes, ensuring a cohesive evolution of the series that appeals to both veteran players and new fans.
+
 ## References
 
 [^ref-1]: [MobyGames – Infamous Adventures Company Profile](https://www.mobygames.com/company/8321/infamous-adventures/) – developer information, game list, platform details

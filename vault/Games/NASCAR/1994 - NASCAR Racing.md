@@ -260,6 +260,13 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 - [NASCAR Racing Manual (Internet Archive)](https://archive.org/details/NASCAR_RACING_PCDOS)
 
 ## See Also
+
+NASCAR Racing built upon the foundations laid by its predecessors, such as Indianapolis 500: The Simulation and IndyCar Racing, by shifting the focus from open-wheeled cars to closed-cockpit NASCAR stock cars. This transition marked a significant evolution in the series, introducing players to the world of stock car racing with unprecedented realism. The game's success can be attributed to its authentic tracks, licensed drivers, and physics modeling, which set new standards for the racing genre.
+
+As the first true simulation-style 3D NASCAR video game, NASCAR Racing paved the way for future entries in the series, including NASCAR Racing 2. The latter would build upon the advancements made in NASCAR Racing, further refining the gameplay mechanics and increasing the level of realism. The introduction of new features, such as improved graphics and enhanced multiplayer capabilities, would become a hallmark of the series' progression. By establishing a strong foundation, NASCAR Racing ensured that subsequent games could focus on iterating and expanding upon existing concepts.
+
+The influence of NASCAR Racing can be seen in its impact on the racing genre as a whole, with many considering it a pioneering title that raised the bar for simulation-style games. The game's attention to detail, from real sponsors on cars to authentic track reproductions, created an immersive experience that appealed to both hardcore racing enthusiasts and casual fans. As the series continued to evolve, NASCAR Racing 2 would take the next step, incorporating new technologies and gameplay mechanics to further cement the franchise's position as a leader in the world of motorsport simulations.
+
 - ← Previous: Indianapolis 500 - The Simulation
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
 

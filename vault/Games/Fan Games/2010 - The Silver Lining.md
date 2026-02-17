@@ -177,6 +177,14 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 **Preservation**
 - [Internet Archive – King's Quest IX VGA Demo](https://archive.org/details/kings-quest-ix-vga-demo) – Early demonstration version[^ref-8]
 
+## See Also
+
+The Silver Lining connects narratively to its predecessor, Quest for Glory II VGA Remake, through its shared adventure game roots and the influence of classic Sierra gameplay mechanics. Although not a direct sequel, The Silver Lining's focus on exploration, puzzle-solving, and character interaction echoes the design principles of earlier games in the series, including Quest for Glory II VGA Remake. This continuity in gameplay style helps to establish a sense of familiarity and cohesion within the broader context of fan-made adventure games.
+
+In terms of narrative connections to the next entry in the series, King's Quest III Redux - To Heir is Human, The Silver Lining lays groundwork through its revisitation of characters and plot threads from earlier King's Quest titles, including the return of Mannanan. This attention to series lore and continuity helps to bridge the gap between different fan-made projects, creating a richer and more immersive experience for players familiar with the King's Quest universe. By exploring themes and characters introduced in previous games, The Silver Lining sets the stage for further narrative development and character evolution in subsequent titles.
+
+Mechanically, The Silver Lining evolves the series' gameplay through its adoption of 3D graphics and a point-and-click interface, while still maintaining the classic adventure game feel that defined earlier entries like Quest for Glory II VGA Remake. This blend of traditional gameplay elements with modern presentation helps to appeal to both nostalgic fans of the original series and new players drawn to the updated visuals and intuitive controls. As the series continues with King's Quest III Redux - To Heir is Human, it is likely that this balance between innovation and nostalgia will remain a key factor in shaping the gameplay experience.
+
 ## References
 
 [^ref-1]: [HandWiki – The Silver Lining (video game)](https://handwiki.org/wiki/Software:The_Silver_Lining_(video_game)) – Development history, legal issues, release information, episode details

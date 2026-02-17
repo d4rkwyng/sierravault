@@ -267,6 +267,14 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 **Manuals & Extras**
 - [Lemon Amiga – Manual](https://www.lemonamiga.com/doc/rise-of-the-dragon/1350)
 
+## See Also
+
+Rise of the Dragon builds upon the foundations established in David Wolf - Secret Agent, with Dynamix refining their adventure game formula to create a more immersive experience. The game's focus on player choice and internal clock mechanic adds a new layer of depth to the series, allowing players to feel more invested in the story and its outcomes. This evolution in gameplay would later influence the development of Heart of China, which also featured a strong narrative drive and interactive elements.
+
+The storyline of Rise of the Dragon explores mature themes and a dystopian future, setting it apart from other adventure games of the era. The game's protagonist, William "Blade" Hunter, is a complex character with a rich backstory, and his investigation into the mysterious death of Chandra Vincenzi drives the plot forward. As the series progresses, it will be interesting to see how the characters and storylines introduced in Rise of the Dragon are developed further, particularly in Heart of China, which promises to deliver another exciting adventure.
+
+In terms of gameplay mechanics, Rise of the Dragon's point-and-click interface and smart cursor system were innovative for its time, and these features would become a staple of the Dynamix Adventures series. The game's use of graphic novel-style cutscenes and interactive elements, such as the Vid-Phone answering machine, added to the overall sense of immersion and engagement. As the series continues with Heart of China, players can expect to see further refinements to these mechanics, as well as new features that build upon the foundations established in Rise of the Dragon.
+
 ## References
 
 [^ref-1]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/648/rise-of-the-dragon/) — Comprehensive database entry with credits, ratings, and Dragon magazine 5/5 review

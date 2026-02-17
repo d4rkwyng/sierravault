@@ -199,6 +199,14 @@ The continued support for the project, with updates still being released as rece
 
 The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
+## See Also
+
+The Space Quest II VGA Remake builds upon the narrative foundation established in Space Quest - Vohaul Strikes Back, where Roger Wilco first thwarted Sludge Vohaul's plans. This installment continues the story of Roger Wilco as he faces new challenges and dangers posed by Vohaul's latest scheme, showcasing the evolution of the series' signature blend of humor and science fiction adventure. The game's storyline directly follows the events of the original Space Quest II: Vohaul's Revenge, maintaining continuity with the classic Sierra On-Line title.
+
+Mechanically, the Space Quest II VGA Remake adopts a point-and-click interface reminiscent of Sierra's later titles, such as those in the King's Quest and Quest for Glory series, making it more accessible to modern players while retaining the challenging puzzle design characteristic of the original. This transition from parser-based input to a more intuitive click-and-interact system reflects the natural progression of adventure game design during the 1990s, aligning with the release timing and technological advancements seen in games like Space Quest IV: Roger Wilco and the Time Rippers. The remake's updated graphics and full voice pack further enhance the gameplay experience, setting a high standard for fan-made remakes.
+
+In terms of narrative continuity, the events of Space Quest II VGA Remake pave the way for the subsequent adventures of Roger Wilco, potentially influencing the plot developments in future games like Space Quest - Incinerations. The character development and universe expansion introduced in this remake contribute to the richness and depth of the Space Quest series, ensuring that fans have a cohesive and engaging story arc to follow across multiple titles. By combining faithful adherence to the original storyline with modernized gameplay mechanics, the Space Quest II VGA Remake serves as a pivotal link between the classic Sierra era and contemporary fan-driven projects within the series.
+
 ## References
 
 [^ref-1]: [Game Essence – Space Quest II VGA Remake](https://www.gamessence.net/space-quest-ii-vga-remake-by-infamous-adventures/) – Developer identification, original creators, game description

@@ -243,6 +243,14 @@ The game also holds historical significance as one of the earlier adventure game
 - [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Lost_in_Time) – Supported since version 0.12.0[^ref-9]
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Lost_in_Time) – Technical fixes and compatibility information[^ref-23]
 
+## See Also
+
+Lost in Time connects narratively to its predecessors through its use of complex, time-travel driven storylines, a trait also seen in Ween - The Prophecy, where players navigated through intricate puzzles and plot twists. Mechanically, Lost in Time builds upon the point-and-click adventure gameplay established by earlier Coktel Vision titles, incorporating full motion video technology to enhance player immersion. This evolution in gameplay would later influence the development of The Last Dynasty, which further refined the use of multimedia elements in adventure games.
+
+The protagonist, Doralice Prunelier, is a unique character whose "historical-temporal ties" to the antagonist, Jarlath Equs, drive the plot of Lost in Time, exploring themes of personal discovery and historical adventure. In contrast to Ween - The Prophecy, which focused on fantasy elements, Lost in Time delves into science fiction, setting the stage for The Last Dynasty's own blend of genres. Through its narrative and mechanical innovations, Lost in Time serves as a bridge between the earlier, more fantastical titles in the series and the later, more scientifically oriented games.
+
+Lost in Time's influence can be seen in The Last Dynasty's more refined use of 3D computer rendering and digitized actors, as well as its complex, interconnected storyline. While Ween - The Prophecy laid the groundwork for Coktel Vision's signature blend of puzzle-solving and narrative exploration, Lost in Time expanded upon this foundation, incorporating new technologies and themes that would become characteristic of the series. As such, Lost in Time occupies a crucial position in the Coktel series, connecting the earlier games' focus on fantasy and adventure to the later titles' emphasis on science fiction and technological innovation.
+
 ## References
 
 [^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information

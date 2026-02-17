@@ -142,6 +142,13 @@ One preservation issue affects the digital versions: "The original release of th
 - [Internet Archive](https://archive.org/details/TheIncredibleMachine_1020)
 
 ## See Also
+
+The Incredible Machine builds upon the foundations laid by its predecessors, introducing a unique blend of physics-based puzzle-solving and creative freedom that would become a hallmark of the series. Although there are no direct narrative connections to previous games, the core concept of constructing intricate contraptions using everyday objects has been refined and expanded upon. The game's custom physics engine and deterministic approach to simulation ensure that players can experiment with confidence, knowing that their machines will behave consistently.
+
+As the series progresses, the gameplay mechanics and creative possibilities introduced in The Incredible Machine are further developed and expanded upon in Sid & Al's Incredible Toons. This next entry in the series retains the core puzzle-solving elements while introducing new characters, objects, and challenges that enhance the overall experience. The level creation capabilities and emphasis on creative problem-solving also pave the way for future innovations in the series, solidifying The Incredible Machine as a pivotal installment in the franchise.
+
+The connection between The Incredible Machine and Sid & Al's Incredible Toons is not only mechanical but also thematic, as both games share a lighthearted and humorous approach to puzzle-solving. The introduction of new characters and objects in Sid & Al's Incredible Toons adds a fresh layer of depth to the series, while the core gameplay mechanics remain true to the spirit of The Incredible Machine. By building upon the foundations established in The Incredible Machine, the series is able to evolve and grow, offering players an increasingly rich and engaging experience with each new installment.
+
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
 - [[Jeff Tunnell]] - Creator
 

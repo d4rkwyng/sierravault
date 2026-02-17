@@ -214,6 +214,13 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 - Registration key for Mac printed on back cover of manual[^ref-1]
 
 ## See Also
+
+Hoyle Card Games 2008 builds upon the foundation established by its predecessor, Hoyle Miami Solitaire, by expanding the scope of card games offered and introducing Mac OS X compatibility. This transition marked a significant milestone in the series, as it catered to a broader audience and ensured the franchise's continued relevance in the gaming market. The inclusion of over 150 classic card games, along with 55 solitaire games, demonstrated Encore Software's commitment to providing a comprehensive digital card gaming experience.
+
+Mechanically, Hoyle Card Games 2008 laid the groundwork for its successor, Hoyle Casino, by refining the interface and controls, making it more accessible to players. The game's tutorials, official Hoyle rulebook, and strategy guide also set a high standard for educational content in subsequent entries. While Hoyle Casino would go on to focus more on casino-style games, the foundations established in Hoyle Card Games 2008, such as the variety of card games and customizable opponents, provided a solid base for future innovation.
+
+The narrative elements, or lack thereof, in Hoyle Card Games 2008 are consistent with the series' tradition of focusing on gameplay over storytelling. However, the Easter egg scenario where kidnappers take ransom after accumulating one billion dollars in winnings adds a touch of humor and personality to the game. This lighthearted approach would be built upon in future entries, such as Hoyle Casino, which likely incorporated more engaging narrative elements or scenarios to enhance player immersion.
+
 - [[2006 - Hoyle Miami Solitaire|← Previous: Hoyle Miami Solitaire]]
 - [[2007 - Hoyle Casino|→ Next: Hoyle Casino]]
 

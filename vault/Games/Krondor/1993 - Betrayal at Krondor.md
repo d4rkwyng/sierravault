@@ -288,6 +288,13 @@ Betrayal at Krondor spawned both official and unofficial successors:
 - [Scribd – Official Manual](https://www.scribd.com/doc/92544684/Betrayal-at-Krondor-Manual)
 
 ## See Also
+
+Betrayal at Krondor builds upon the foundations laid by its predecessors in the Krondor series, though it is the first game in the series, it sets the stage for the events that will unfold in subsequent entries. The game's narrative is deeply intertwined with Raymond E. Feist's Riftwar Saga novels, and its story would later become canonical to Feist's universe, establishing a rich backdrop for future games like Betrayal in Antara. By introducing characters such as Gorath, Locklear, and Owyn, the game establishes a complex web of relationships and plot threads that will continue to evolve throughout the series.
+
+Mechanically, Betrayal at Krondor revolutionized the RPG genre with its use of 3D environments and digitized images, setting a new standard for immersion and interaction. The game's 3Space engine, adapted from Dynamix's flight simulators, allowed for vast explorable terrains and detailed character models, paving the way for future innovations in the series. As the series progresses, particularly with Betrayal in Antara, players can expect to see further refinements in gameplay mechanics, such as enhanced combat systems and deeper character customization, building upon the foundations established in Betrayal at Krondor.
+
+The narrative of Betrayal at Krondor also lays the groundwork for the events of Betrayal in Antara, introducing key characters and plot elements that will continue to shape the series. The game's exploration of themes such as redemption, loyalty, and the possibility of peace between ancient enemies sets the stage for the complex moral dilemmas and character-driven storylines that will become a hallmark of the Krondor series. As players progress through the series, they can expect to encounter new challenges and characters, while also seeing the continued evolution of familiar faces and storylines, all of which are expertly woven together by the game's engaging narrative and immersive gameplay.
+
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
 ## References

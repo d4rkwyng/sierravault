@@ -219,6 +219,14 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 - [GOG Dreamlist](https://www.gog.com/dreamlist) – Community request for re-release (264 votes)
 - [Speedrun.com Guide](https://www.speedrun.com/turbo_science/guides/3odi4)
 
+## See Also
+
+Quarky & Quaysoo's Turbo Science builds upon the educational foundations laid by its predecessor, Johnny Castaway, by incorporating a unique blend of scientific knowledge and competitive racing. While Johnny Castaway focused on survival skills and problem-solving, Quarky & Quaysoo's Turbo Science delves into specific scientific disciplines such as energy, chemistry, and optics, making it a distinct yet complementary entry in the Dynamix series. The game's use of colorful characters and quiz-race format also sets the stage for future innovations in educational gaming.
+
+The gameplay mechanics in Quarky & Quaysoo's Turbo Science, including its point-and-click interface and multiple-choice question format, laid the groundwork for subsequent titles like Bouncers to refine and expand upon interactive learning experiences. Bouncers, with its emphasis on physics and puzzle-solving, can be seen as a natural progression from the scientific concepts introduced in Quarky & Quaysoo's Turbo Science, demonstrating how the series evolved to tackle more complex subjects and challenge players in new ways. The Dynamix Game Development System (DGDS) engine, utilized in Quarky & Quaysoo's Turbo Science, also played a crucial role in enabling this evolution by providing a versatile platform for developing engaging and educational content.
+
+The narrative framework of Quarky & Quaysoo's Turbo Science, featuring the cosmic siblings Quarky and Quaysoo as they compete in the Turbo Science Championship, adds a lighthearted and competitive element to the game that was likely influential in the development of future series entries. The game's setting and characters, including Paco de Suave and Sheik Oil Slick, contribute to an entertaining atmosphere that makes learning science enjoyable, a design philosophy that would continue to shape the Dynamix series as it explored new themes and gameplay mechanics in titles like Bouncers. By balancing education with entertainment, Quarky & Quaysoo's Turbo Science established a model for future games to follow, ensuring that learning could be both fun and effective.
+
 ## References
 
 [^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating

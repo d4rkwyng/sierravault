@@ -107,6 +107,14 @@ The game's educational value extended beyond entertainment, serving as a bridge 
 
 NPD retail tracking data from September 1996 showed strong commercial performance, with the original Robert E. Lee: Civil War General ranking #8 in the reference software category at a $51 price point across 8,823 stores[^ref-58]. This commercial success validated the market demand for sophisticated historical gaming experiences and paved the way for future educational strategy titles.
 
+## See Also
+
+Civil War Generals 2: Grant, Lee, Sherman builds upon the foundation established by its predecessor, Robert E. Lee: Civil War General, by expanding the scope to encompass the full breadth of Civil War leadership. The game allows players to command forces under legendary generals from both sides of the conflict, including Union generals such as Ulysses S. Grant and William Tecumseh Sherman, in addition to Confederate General Robert E. Lee. This expansion introduces new gameplay mechanics, including the ability to play as either the Union or Confederacy, and features over 200 predesigned scenarios and 17 total campaigns that recreate the strategic challenges faced by history's greatest military minds.
+
+The game's narrative connects to its predecessor through the continued story of Robert E. Lee, while also introducing new characters and plot points, such as the battles of Antietam and Gettysburg. The game's mechanics also evolve from the previous entry, with the introduction of a custom 3D engine and WeGo turn-based system, which allows for simultaneous order issuance and a 60-second battle simulation. This new system provides a more immersive and realistic gameplay experience, while maintaining the strategic depth that fans of the series have come to expect.
+
+In terms of its connection to future entries in the series, Civil War Generals 2: Grant, Lee, Sherman sets the stage for further exploration of the American Civil War and its key figures. The game's success paved the way for subsequent titles, which would continue to build upon the foundation established by this game, introducing new gameplay mechanics and features while maintaining the historical accuracy and strategic depth that define the series. As the series continues to evolve, players can expect to see new characters, plot points, and gameplay mechanics introduced, while the core focus on historical strategy and realism remains a constant thread throughout.
+
 ## References
 
 [^ref-1]: http://ageod-forum.com/viewtopic.php?t=50764 - AGEOD forum discussion providing detailed insights into game mechanics and modding for Civil War Generals 2

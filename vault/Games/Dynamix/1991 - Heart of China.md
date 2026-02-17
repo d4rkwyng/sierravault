@@ -232,6 +232,14 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 **Manuals & Extras**
 - [Heart of China Hint Book](https://archive.org/stream/Heart_of_China_Hint_Book/Heart_of_China_Hint_Book_djvu.txt) - Internet Archive
 
+## See Also
+
+Heart of China builds upon the foundation established by its predecessor, Rise of the Dragon, by refining the point-and-click interface and incorporating more cinematic elements into its narrative. The game's designer, Jeff Tunnell, drew inspiration from adventure films to create an immersive experience that would appeal to a wide audience, much like the blend of action and mystery found in Rise of the Dragon. By introducing a "VCR-style" menu interface, Heart of China streamlines player interaction, making it more accessible and engaging for players who enjoyed the earlier game.
+
+The narrative of Heart of China also explores themes of adventure and danger, as Jake "Lucky" Masters navigates the complexities of 1930s Asia to rescue Kate Lomax from the clutches of the ruthless Chinese warlord Li Deng. This setup allows for a rich tapestry of characters and locations, including the enigmatic ninja Chi, who becomes a key ally in the mission. As players progress through the game, they will encounter various challenges and puzzles that require creative problem-solving, often involving character switching between Masters, Chi, and Kate to overcome obstacles.
+
+In terms of mechanical evolution, Heart of China lays the groundwork for future Dynamix titles, such as The Adventures of Willy Beamish, by experimenting with innovative visual presentation techniques, including digitized photos of live actors superimposed on hand-painted backgrounds. This approach not only enhances the game's graphical quality but also influences the development of subsequent adventure games in the series. Furthermore, Heart of China's emphasis on player choice and multiple solution paths paves the way for more complex narrative structures in later games, including The Adventures of Willy Beamish, which would build upon these foundations to create an even more engaging and interactive experience.
+
 ## References
 
 [^ref-3]: [Wikipedia – Heart of China](https://en.wikipedia.org/wiki/Heart_of_China) – developer, publisher, release information, design credits

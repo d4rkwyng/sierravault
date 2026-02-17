@@ -212,6 +212,13 @@ In retrospect, the game represents an interesting moment in edutainment history�
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
 
 ## See Also
+
+The release of 3-D Ultra Lionel Traintown marked a significant shift in the 3D Ultra series, departing from the quick arcade action seen in its predecessor, 3-D Ultra Cool Pool, and embracing puzzle-oriented gameplay. This change in direction allowed for a more relaxed and educational experience, setting it apart from other titles in the series. The game's focus on railroad-themed puzzles and challenges also laid groundwork for future games that would explore similar themes of strategy and planning.
+
+In terms of narrative continuity, 3-D Ultra Lionel Traintown does not directly follow the storyline of 3-D Ultra Cool Pool, instead introducing a new setting and cast of characters. However, the game's emphasis on family-friendly entertainment and educational value is consistent with the overall tone of the series. As the series progresses to 3-D Ultra Pinball - Power, players can expect a return to more fast-paced action, but with gameplay mechanics that have been refined through the puzzle-solving elements introduced in Traintown.
+
+The evolution of gameplay from 3-D Ultra Cool Pool to 3-D Ultra Lionel Traintown and eventually to 3-D Ultra Pinball - Power demonstrates Sierra's willingness to experiment with different genres and styles within the 3D Ultra brand. While Traintown's puzzle-focused gameplay may seem like a departure from the series' roots, it actually represents an important step in the development of the franchise, allowing for the incorporation of new ideas and mechanics that would enhance future titles. The success of Traintown's educational and relaxing approach also influenced the design of subsequent games, ensuring that the series would continue to offer a diverse range of experiences for players.
+
 - **Related:** [[1995 - 3-D Ultra Pinball]], [[1998 - 3-D Ultra MiniGolf Deluxe]], [[1999 - 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Cool Pool|← Previous: 3-D Ultra Cool Pool]]
 - [[1999 - 3-D Ultra Pinball - Power|→ Next: 3-D Ultra Pinball - Power]]

@@ -135,6 +135,13 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 - [Internet Archive](https://archive.org/details/BB98DML)
 
 ## See Also
+
+Front Page Sports Baseball Pro builds upon the foundation established by its predecessor, Front Page Sports - Football Pro, by introducing a new sport to the series while maintaining the core principles of deep statistical simulation and realistic gameplay. The game's physics-based engine and motion capture technology set a new standard for sports simulations, and its attention to detail in player development and team management created a sense of immersion and realism that was unparalleled at the time. As the series continued to evolve, these innovations would lay the groundwork for future entries, including Front Page Sports - Football Pro '95.
+
+The connection between Front Page Sports Baseball Pro and Front Page Sports - Football Pro '95 is evident in the shared commitment to statistical accuracy and realistic gameplay. While the sports themselves differ, the underlying principles of team management, player development, and strategic decision-making remain consistent across the series. The experience and expertise gained from managing a baseball franchise in Front Page Sports Baseball Pro would serve as a solid foundation for players transitioning to the football equivalent in Front Page Sports - Football Pro '95, where they would encounter similar challenges and opportunities in building a successful team.
+
+The mechanical evolution of the series is also apparent in the transition from Front Page Sports Baseball Pro to Front Page Sports - Football Pro '95. The latter game would build upon the physics-based engine and motion capture technology introduced in Front Page Sports Baseball Pro, incorporating new features and refinements to create an even more immersive and realistic experience. As the series continued to push the boundaries of sports simulation, players could expect a seamless transition between games, with each new entry offering fresh challenges and opportunities to test their skills and strategic thinking.
+
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
 

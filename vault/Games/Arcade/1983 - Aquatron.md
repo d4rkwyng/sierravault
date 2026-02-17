@@ -214,6 +214,14 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 **Manuals & Extras**
 - No manuals currently available for this program[^ref-10]
 
+## See Also
+
+Aquatron's narrative is loosely connected to its predecessor, Apple Cider Spider, through the theme of defending against an alien invasion, although the setting and gameplay mechanics differ significantly. While Apple Cider Spider focused on a more terrestrial defense scenario, Aquatron takes the action to an aquatic planet, introducing the unique element of dual-environment combat. This evolution in gameplay would later influence the development of Mine Shaft, which built upon the fast-paced action elements of Aquatron but shifted the focus to underground mining operations.
+
+Mechanically, Aquatron refined the shooter genre's conventions with its seamless transitions between aerial and underwater combat, a feature that was not commonly seen in games of its time. The game's emphasis on resource management, such as protecting the supply zeppelin and managing ammunition and shield energy, added a layer of complexity to the traditional shooter formula. These innovations would pave the way for future Sierra titles, including Mine Shaft, which incorporated similar resource management elements into its mining-themed gameplay.
+
+The release of Aquatron marked a pivotal moment in the series' evolution, as it showcased Sierra's ability to produce high-quality, technically impressive games that could compete with arcade titles. Although Apple Cider Spider laid the groundwork for the series' defensive gameplay theme, Aquatron's success demonstrated the potential for expansion into new environments and gameplay mechanics. As the series progressed towards Mine Shaft, these lessons would be applied to create a more diverse and challenging gaming experience, further solidifying Sierra's position in the burgeoning home computer market.
+
 ## References
 
 [^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game)) – release dates, developer, publisher, contemporary reviews, naming history

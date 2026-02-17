@@ -282,6 +282,14 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 - **Previous:** N/A (first in fan timeline)
 - **Next:** Space Quest: Incinerations (2012)
 
+## See Also
+
+While Space Quest: Vohaul Strikes Back does not directly narratively connect to King's Quest III Redux - To Heir is Human, it shares a common spirit with the earlier game as a fan-made project honoring the legacy of Sierra On-Line's adventure games. Mechanically, both games demonstrate a commitment to traditional point-and-click adventure gameplay, with Vohaul Strikes Back specifically drawing inspiration from the later titles in the Space Quest series. The attention to detail and faithfulness to the original series' tone and style are evident in both projects.
+
+In terms of narrative connections within the Space Quest series itself, Vohaul Strikes Back directly follows the events of Space Quest IV, with Roger Wilco once again facing off against his arch-nemesis Sludge Vohaul. The game's story explores new themes and introduces new characters, such as the indigenous Furkunz people, while maintaining the series' trademark blend of humor and science fiction elements. This setup provides a rich foundation for the next installment in the series.
+
+The release of Space Quest: Vohaul Strikes Back was followed by the development of Space Quest II VGA Remake, another fan-made project that updates a classic Space Quest title with modern graphics and gameplay mechanics. While not directly connected to Vohaul Strikes Back in terms of storyline, the Space Quest II VGA Remake continues the tradition of reimagining and reinvigorating the Space Quest series for new audiences. Both games showcase the dedication and creativity of the fan community in preserving and evolving the Sierra adventure game legacy.
+
 ## References
 
 [^ref-1]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – technical specifications, development timeline, content statistics

@@ -204,6 +204,14 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 **Manuals & Extras**
 - [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=demos) - 10.4 MB demo download
 
+## See Also
+
+Head Rush builds upon the foundation established by its predecessor, Eat My Dust, by refining the trivia game format to appeal specifically to a teenage audience. The shift in demographic focus led to changes in humor style, replacing mature themes with toilet humor and references to contemporary pop culture. This evolution is evident in the game's marketing, which proudly declares it as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"
+
+Mechanically, Head Rush retains the core gameplay of the series while introducing new question types and gameplay variations, such as DisOrDat, Jack Attack, and Fiber Optic Field Trip. The game's support for one to three players competing on the same screen enhances its party game appeal, making it an ideal choice for households seeking entertainment suitable for teens. The inclusion of physical stickers for the Q, P, and B keys adds a unique touch, symbolizing the game's effort to engage players in a fun and competitive environment.
+
+The narrative structure of Head Rush, while not traditional, is hosted by Bob, who brings the game to life with his comedic commentary and irreverent attitude. This approach sets the stage for the next entry in the series, which would further refine the formula established by Head Rush. By targeting a younger demographic and introducing new gameplay mechanics, Head Rush successfully bridges the gap between Eat My Dust and future titles in the Sierra Attractions series, ensuring a continued legacy of entertaining trivia games that cater to diverse audiences.
+
 ## References
 
 [^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia

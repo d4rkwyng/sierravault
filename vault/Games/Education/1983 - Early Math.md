@@ -203,6 +203,14 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 - [Sierra Help Pages - Patches](https://sierrahelp.com/Patches-Updates/Patches-Updates.html)[^ref-12]
 - [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=562&title=early-math&fld=walkthrough)[^ref-5]
 
+## See Also
+
+Early Math builds upon the foundation established by its predecessor, Bop-A-Bet, by introducing more complex mathematical concepts in an engaging and interactive manner. The game's talking tutor approach, featuring the friendly alien guide Loid, provides a welcoming environment for young learners to explore counting, geometric shapes, and pattern recognition. As players progress through Early Math, they develop essential skills that will be further refined in the subsequent entry, Learning with Leeper.
+
+The gameplay mechanics in Early Math, such as point-and-click interfaces and drag-and-drop interactions, lay the groundwork for more advanced educational tools in Learning with Leeper. The adaptive difficulty system, which adjusts the challenge level based on the player's performance, also becomes a staple feature in later series entries. By introducing these mechanics, Early Math plays a crucial role in shaping the overall direction of the Talking Tutor series, ensuring a seamless learning experience for children as they advance through the curriculum.
+
+As the series progresses to Learning with Leeper, players can expect to encounter more sophisticated mathematical concepts and challenging activities, all while maintaining the accessibility and charm that define Early Math. The asteroid setting and Loid's character, which provide a whimsical backdrop for learning in Early Math, give way to new environments and guides in subsequent entries, offering a fresh perspective on educational content. By connecting the narrative and mechanical threads between these games, the Talking Tutor series creates a comprehensive and engaging learning experience that supports children's mathematical development from an early age.
+
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games

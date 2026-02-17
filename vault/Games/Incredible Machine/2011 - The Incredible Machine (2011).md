@@ -275,6 +275,13 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 - [Sierra Help – Walkthrough](https://sierrahelp.com/Walkthroughs/TheIncredibleMachineWalkthrough.html)
 
 ## See Also
+
+The Incredible Machine builds upon the foundation established by its predecessor, The Incredible Machine - Even More Contraptions, by refining the physics-based puzzle gameplay and introducing new challenges that require creative problem-solving. The game's deterministic physics engine, which ensures reproducible results, allows players to experiment and refine their solutions, a key aspect carried over from the previous installment. This evolution in gameplay mechanics sets the stage for further innovation in subsequent titles, including the next entry in the series.
+
+The narrative, or lack thereof, in The Incredible Machine is consistent with its predecessor, focusing purely on mechanical problem-solving without a traditional story or plot. However, later versions introduce Professor Tim, a quirky scientist who guides players through the puzzles, adding a touch of personality to the game. This lighthearted presentation maintains the focus on puzzle-solving while providing a unique and engaging experience that differs from The Incredible Machine - Even More Contraptions.
+
+As the series progresses, the gameplay evolves to include new features and challenges, such as additional parts and more complex puzzles, which are introduced in later titles like The Incredible Machine 2. The point-and-click interface and physics engine are refined, allowing for even more intricate and realistic simulations. The structure and progression of the game, including the password system and increasing difficulty, provide a framework for players to test their skills and creativity, paving the way for the next installment in the series to build upon these foundations and offer an even more immersive experience.
+
 - [[2001 - The Incredible Machine - Even More Contraptions|← Previous: The Incredible Machine - Even More Contraptions]]
 - [[Jeff Tunnell]] - Creator
 

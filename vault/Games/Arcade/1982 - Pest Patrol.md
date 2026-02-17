@@ -223,6 +223,14 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 - [Internet Archive - Pest Patrol (DOS 3.3)](https://archive.org/details/a2_Pest_Patrol_1982_Sierra_cr_Nibbler) - DOS 3.3 disk image[^ref-10]
 - [4cade Apple II Launcher](https://github.com/a2-4am/4cade) - Preservation project including Pest Patrol[^ref-12]
 
+## See Also
+
+Pest Patrol builds upon the foundation established by its predecessor, Mouskattack, by refining the shooter genre formula and introducing a unique insect-themed twist. The game's protagonist, an Exterminator, must defend against waves of invading insects, showcasing Sierra's ability to create engaging arcade-style experiences. This narrative thread is continued in the next entry, Apple Cider Spider, where players face new challenges and enemies.
+
+Mechanically, Pest Patrol evolves the shooter genre by introducing 39 increasingly difficult levels, each with unique attack patterns from the insect enemies. The game's use of Hi-Res graphics and responsive controls sets a high standard for future games in the series, including Apple Cider Spider. The inclusion of a practice mode and level structure encourages players to master the game, laying the groundwork for more complex gameplay mechanics in subsequent titles.
+
+The connection between Pest Patrol and Apple Cider Spider is further reinforced by the shared theme of battling invasive creatures. While Mouskattack focused on mice, Pest Patrol introduces insects as the primary enemy, and Apple Cider Spider likely continues this trend with its own brand of challenging enemies. By analyzing the gameplay evolution and narrative connections between these titles, it becomes clear that Sierra aimed to create a cohesive series that built upon the successes of its predecessors while introducing new challenges and themes to engage players.
+
 ## References
 
 [^ref-1]: [MyAbandonware - Pest Patrol](https://www.myabandonware.com/game/pest-patrol-7nt) - release year 1982, publisher Sierra On-Line, Apple II platform, download size

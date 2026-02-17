@@ -239,6 +239,14 @@ Modern players typically approach the game "more out of historical interest than
 - Steam (not listed)[^ref-23]
 - GOG.com (not listed)
 
+## See Also
+
+Emmanuelle: A Game of Eroticism marks a significant departure from its predecessor, ESS - European Space Simulator, in terms of narrative focus and gameplay mechanics. While ESS focused on space exploration and simulation, Emmanuelle delves into the realm of adult adventure games, exploring themes of eroticism and romance. The game's protagonist, Marc, must navigate exotic locales and engage in dialogue-driven interactions to win the heart of the titular Emmanuelle, a far cry from the space-faring exploits of ESS.
+
+In terms of gameplay evolution, Emmanuelle lays the groundwork for future Coktel Vision titles, such as Legend of Djel, which would build upon the point-and-click adventure elements and multiple-choice dialogue sequences introduced in Emmanuelle. The game's use of randomized elements, such as Mario's changing location, also adds a layer of replayability that would become a hallmark of the series. Furthermore, the emphasis on character interaction and relationship-building in Emmanuelle foreshadows the more complex character dynamics and storytelling found in later Coktel Vision games.
+
+The connection between Emmanuelle and Legend of Djel is also evident in their shared themes of exploration and discovery. While Emmanuelle focuses on the protagonist's pursuit of love and eroticism, Legend of Djel expands on this concept, introducing a richer narrative and more complex gameplay mechanics. The series' signature blend of adventure, exploration, and character-driven storytelling is already apparent in Emmanuelle, making it a fascinating precursor to the more refined and ambitious titles that would follow, including Legend of Djel.
+
 ## References
 
 [^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs

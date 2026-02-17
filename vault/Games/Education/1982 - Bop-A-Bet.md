@@ -183,6 +183,14 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 **Manuals & Extras**
 - Original documentation included with Sunnyside Soft zip-lock packaging
 
+## See Also
+
+Bop-A-Bet builds upon the foundational learning principles established in Alphabet Blocks, expanding the educational scope to include typing and letter-recognition skills. The game's maze format and adaptive difficulty mechanic introduce a new level of interactivity, making learning feel like play for its young target audience. By leveraging the success of Alphabet Blocks, Bop-A-Bet solidifies its position as a key title in the Education series, paving the way for future installments.
+
+The gameplay mechanics in Bop-A-Bet, such as the use of a boxing glove character and the emphasis on alphabetical sequencing, lay the groundwork for the mathematical concepts explored in Early Math. The adaptive difficulty system, which increases the game's speed as the player becomes more proficient, also foreshadows the progressive challenge structure found in later series entries. By introducing these elements, Bop-A-Bet creates a cohesive learning experience that seamlessly transitions players to more advanced educational topics.
+
+As the series continues with Early Math, players can expect to see a natural progression of skills, with the typing and letter-recognition abilities honed in Bop-A-Bet serving as a foundation for more complex mathematical concepts. The Education series' commitment to interactive learning and adaptive difficulty ensures that each title, including Bop-A-Bet, plays a vital role in the overall educational journey, providing a comprehensive and engaging experience for young learners.
+
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics

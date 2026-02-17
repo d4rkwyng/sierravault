@@ -206,6 +206,13 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 - [ModDB](https://www.moddb.com/games/3d-ultra-lionel-train-town-deluxe)
 
 ## See Also
+
+The 3-D Ultra Lionel TrainTown Deluxe game builds upon the foundation established by its predecessor, 3-D Ultra Radio Control Racers, by introducing a new level of complexity and depth to the series. While Radio Control Racers focused on high-speed racing, TrainTown Deluxe shifts gears to a more methodical and strategic gameplay experience, challenging players to manage and navigate intricate railroad systems. This departure from the arcade-style gameplay of previous entries marks a significant evolution in the series, one that would later influence the development of subsequent titles.
+
+As players progress through the game's 72 levels, they will encounter a variety of themed environments, each with its own unique challenges and objectives. The game's narrative thread, which involves the Tourist Project series and the construction of a Roman Colosseum in Oak Valley, adds a sense of context and purpose to the gameplay. The educational aspects of the game, particularly in the School Daze missions, also demonstrate a commitment to learning and problem-solving that would become a hallmark of the series. The success of TrainTown Deluxe would ultimately pave the way for future entries in the series, including 3-D Ultra Pinball - Thrill Ride, which would combine elements of pinball and puzzle gameplay to create a unique and thrilling experience.
+
+The connection between TrainTown Deluxe and 3-D Ultra Pinball - Thrill Ride is evident in the shared emphasis on challenging gameplay and intricate level design. While TrainTown Deluxe focuses on railroad management and puzzle-solving, Pinball - Thrill Ride would apply similar principles to the world of pinball, creating a fast-paced and addictive experience that challenges players to navigate complex tables and achieve high scores. The evolution of gameplay mechanics and level design between these two titles demonstrates a clear trajectory for the series, one that prioritizes innovation, challenge, and fun. By building upon the foundations established in TrainTown Deluxe, Pinball - Thrill Ride would offer a fresh and exciting take on the puzzle genre, one that would appeal to both fans of the series and newcomers alike.
+
 - [[1999 - 3-D Ultra Radio Control Racers|← Previous: 3-D Ultra Radio Control Racers]]
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
 

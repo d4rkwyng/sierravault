@@ -222,6 +222,14 @@ The emphasis on economic management and population welfare set Lords of the Real
 
 Today, Lords of the Realm is recognized as a foundational title that helped define the medieval strategy genre. Its influence can be seen in numerous subsequent games, from Stronghold to Medieval: Total War, all of which built upon the template established by David Lester and his team at Impressions Games.[^ref-31]
 
+## See Also
+
+Lords of the Realm sets the stage for a medieval strategy series that would evolve significantly in its next installment, Lords of the Realm II. The original game's focus on economic management, military strategy, and castle warfare laid the groundwork for more complex gameplay mechanics to come. In Lords of the Realm, players controlled one of six lords vying for the English throne in 1268 A.D., managing their serfs, balancing food production, and developing their territories while pursuing military conquest.
+
+The narrative of Lords of the Realm unfolds through player actions rather than scripted events, allowing each lord to control different counties across medieval England and Wales. This dynamic would continue in Lords of the Realm II, which built upon the foundation established by its predecessor. The original game's seasonal structure, where each turn represents a single season, profoundly affected gameplay and presented unique challenges and opportunities for players to manage their resources and military campaigns effectively.
+
+As the series progressed with Lords of the Realm II, new features such as improved graphics, enhanced diplomacy options, and more complex military tactics were introduced. The core elements of managing counties, expanding domains, and navigating the harsh realities of medieval governance remained central to the gameplay experience. While there was no direct predecessor to draw from, the impact of Lords of the Realm can be seen in its influence on future strategy games, including its own sequel, which refined and expanded upon the original's concepts to deliver a more immersive and challenging experience for players.
+
 ## References
 
 [^ref-1]: [Internet Archive – Lords of the Realm (DOS)](https://archive.org/details/msdos_Lords_of_the_Realm_1994) – release date, game description, gameplay mechanics

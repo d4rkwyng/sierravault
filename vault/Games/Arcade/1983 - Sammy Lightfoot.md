@@ -223,6 +223,14 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 **Manuals & Extras**
 - [Apple II Manual (Archive.org)](https://archive.org/details/A2_Sammy_Lightfoot_manual)
 
+## See Also
+
+Sammy Lightfoot builds upon the foundation laid by its predecessor, Mr. Cool, by introducing more complex platforming mechanics and challenging level designs. While Mr. Cool focused on simple, yet addictive gameplay, Sammy Lightfoot expands on this concept with the addition of trampolines, swings, and various hazards that require precise timing and skill to overcome. This evolution in gameplay sets the stage for future titles in the series, such as WallWar, which would further refine the platforming genre.
+
+The narrative of Sammy Lightfoot, though minimal, establishes a lighthearted and comedic tone that would become a hallmark of the series. The game's protagonist, with his distinctive pompadour hairdo, adds a touch of personality to the gameplay experience, making it more engaging and memorable for players. As the series progresses, this attention to character design and narrative would continue to play a significant role in shaping the identity of the games.
+
+In terms of mechanical evolution, Sammy Lightfoot's use of fixed, flip-screen presentation and side-view perspective would influence the development of subsequent titles, including WallWar. The game's emphasis on precise controls and challenging level designs also raises the bar for future platformers, paving the way for more complex and rewarding gameplay experiences. By building upon the successes of Mr. Cool and introducing new innovations, Sammy Lightfoot solidifies its place as a key entry in the series, laying the groundwork for the advancements that would follow in WallWar.
+
 ## References
 
 [^ref-1]: [Internet Archive – Sammy Lightfoot (1983)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line) – game description, release date, platforms, genre classification

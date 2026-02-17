@@ -274,6 +274,13 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 - [The Collection Chamber](https://collectionchamber.blogspot.com/p/metaltech-earthsiege.html) – Pre-configured DOSBox package[^ref-3]
 
 ## See Also
+
+The Metaltech - Earthsiege Expansion Pack builds upon the narrative and gameplay of its predecessor, Metaltech: Earthsiege, by continuing the story three months after the events of the base game. The expansion introduces a second wave of Cybrid attacks, forcing humanity to once again defend against these relentless machines. This new threat expands the game's universe, providing additional campaigns, missions, environments, mechs, and weapons that significantly extend the content available to players.
+
+Mechanically, the expansion pack refines the first-person mech simulation gameplay established in Metaltech: Earthsiege, with players piloting HERCs against automated Cybrid enemies across new environments. The game requires the original Metaltech: Earthsiege to play, building upon its established mechanics and control systems. The expansion supports a range of input devices, including keyboards, mice, analog joysticks, and specialized flight control systems, allowing for immersive and complex mech operation. This complexity reflects the simulation's commitment to realistic gameplay, setting the stage for the evolution of the series in Earthsiege 2.
+
+The Metaltech - Earthsiege Expansion Pack serves as a crucial link between Metaltech: Earthsiege and Earthsiege 2, narratively and mechanically. The expansion's introduction of new environments, mechs, and weapons lays the groundwork for the advancements seen in Earthsiege 2, while its continued focus on realistic mech simulation and complex control systems establishes a foundation for the series' future gameplay developments. As the Metaltech universe expands, the events and gameplay mechanics introduced in the expansion pack play a significant role in shaping the direction of the series, ultimately influencing the creation of the popular Tribes series of multiplayer shooters.
+
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|← Previous: Metaltech - Earthsiege Speech Pack]]
 - [[1996 - Earthsiege 2|→ Next: Earthsiege 2]]

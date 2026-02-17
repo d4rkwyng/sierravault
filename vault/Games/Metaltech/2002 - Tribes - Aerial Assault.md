@@ -191,6 +191,13 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 - [MobyGames Entry](https://www.mobygames.com/game/13459/tribes-aerial-assault/)[^ref-4]
 
 ## See Also
+
+Tribes: Aerial Assault builds upon the foundation established by its predecessor, Tribes 2, by adapting the signature jetpack mechanics and large-scale multiplayer battles to the PlayStation 2 console. This transition allowed for a new audience to experience the fast-paced, vertically oriented gameplay that defines the series, while also introducing online multiplayer capabilities to the console market. The game's narrative, set in the Wilderzone against the backdrop of human tribes clashing with genetically modified Bioderm hordes, continues the Earthsiege/Starsiege franchise storyline.
+
+Mechanically, Tribes: Aerial Assault simplified some aspects of Tribes 2 to better suit the console format, streamlining controls and focusing on core gameplay elements such as jetpack-equipped armor and vehicle combat. This approach paved the way for future iterations in the series, including Tribes 3 - Rivals, which would further evolve the multiplayer and gameplay mechanics introduced in Aerial Assault. The emphasis on online play and community interaction in Tribes: Aerial Assault also set a precedent for later games in the series, highlighting the importance of multiplayer engagement.
+
+The release of Tribes: Aerial Assault marked an important step in the evolution of the Metaltech series, bridging the gap between PC-centric titles like Tribes 2 and future console releases. By leveraging the PlayStation 2's online capabilities, the game helped establish a new standard for console-based multiplayer shooters, influencing not only the development of Tribes 3 - Rivals but also other games within the broader Metaltech universe. The game's impact on the series' narrative and gameplay mechanics continues to be felt, with its innovations in aerial combat and large-scale battles remaining central to the franchise's identity.
+
 - **Next:** Tribes: Vengeance (2004)
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
 

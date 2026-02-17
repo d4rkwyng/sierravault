@@ -312,6 +312,14 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 - [GamesNostalgia](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – Download with Windows compatibility[^ref-7]
 - [ExoticA](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation[^ref-6]
 
+## See Also
+
+Sierra Soccer: World Challenge Edition connects to the previous entry in the Dynamix series, Bouncers, through its emphasis on accessible yet addictive gameplay. While Bouncers focused on a unique blend of action and puzzle elements, Sierra Soccer applied a similar approach to the sports genre, simplifying controls without sacrificing depth or entertainment value. This evolution in design philosophy reflects Dynamix's growing expertise in crafting engaging, user-friendly experiences across different genres.
+
+In terms of narrative connections, Sierra Soccer: World Challenge Edition does not have a direct story link to Bouncers, as it is a sports simulation focused on competition rather than storytelling. However, both games share a common thread in their commitment to delivering enjoyable, easy-to-pick-up gameplay that appeals to a broad audience. Mechanically, the game's use of simplified controls and emphasis on multiplayer capabilities foreshadows the more complex, competitive elements that would be introduced in the next entry in the series, CyberGladiators.
+
+The release of Sierra Soccer: World Challenge Edition marks an important milestone in the Dynamix series, as it signifies a shift towards more specialized, genre-specific titles. The game's success laid the groundwork for the development of CyberGladiators, which would build upon the competitive multiplayer aspects and accessible gameplay introduced in Sierra Soccer. By refining these elements, Dynamix was able to create an even more immersive experience in CyberGladiators, one that would further establish the series as a major player in the gaming industry.
+
 ## References
 
 [^ref-1]: [MyAbandonware – Sierra Soccer: World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Publisher Sierra On-Line, 1994 release, Amiga platform, user rating 3.33/5

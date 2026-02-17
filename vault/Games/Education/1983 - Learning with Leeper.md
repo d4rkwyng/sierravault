@@ -200,6 +200,14 @@ The broader significance of educational software like Learning with Leeper was r
 **Manuals & Extras**
 - [Commodore 64 Manual – Internet Archive](https://archive.org/details/Learning_with_Leeper_1983_Sierra_On-Line)
 
+## See Also
+
+Learning with Leeper builds upon the foundational concepts introduced in Early Math, expanding the scope of educational content to include shape recognition, color matching, and creative activities. This progression is evident in the game's design, which targets a slightly older demographic than its predecessor, with activities tailored for children aged three to six years old. By introducing a friendly guide character like Leeper, the game creates a welcoming environment that encourages young learners to explore and engage with the material.
+
+The mechanical evolution from Early Math to Learning with Leeper is also noteworthy, as the latter incorporates more interactive elements, such as maze navigation and creative painting, to keep children engaged. This approach would later influence the development of Learning with FuzzyWOMP, which further refined the formula by introducing new characters and activities that built upon the foundations established in Learning with Leeper. The use of joystick controls and simple visual cues in Learning with Leeper also laid the groundwork for the intuitive interfaces found in subsequent educational titles.
+
+As the series continues with Learning with FuzzyWOMP, players can expect to see further refinements in gameplay mechanics and educational content, with a continued emphasis on interactive learning and creative expression. The character of Leeper, now a familiar guide for young learners, will give way to new mascots and characters, each designed to engage and educate children in innovative ways. By examining the narrative and mechanical connections between these games, it becomes clear that Learning with Leeper plays a pivotal role in the evolution of Sierra's educational series, bridging the gap between earlier titles like Early Math and later releases like Learning with FuzzyWOMP.
+
 ## References
 
 [^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – platforms, developer, publisher, release dates, awards

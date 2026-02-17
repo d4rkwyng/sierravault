@@ -200,6 +200,14 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [Abandonware France](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1289) – French documentation and download
 - [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1517) – Amiga version details and reviews
 
+## See Also
+
+African Raiders-01 builds upon the foundation established by its predecessor, 20000 Leagues Under the Sea, in terms of its immersive and challenging gameplay experience. Although the two games differ significantly in genre, with African Raiders-01 focusing on racing and 20000 Leagues Under the Sea being an adventure game, they share a common thread in their emphasis on exploration and overcoming obstacles. The skills and perseverance required to navigate the treacherous underwater world of 20000 Leagues Under the Sea are similarly needed to conquer the harsh desert landscapes of African Raiders-01.
+
+Mechanically, African Raiders-01 lays the groundwork for future Coktel Vision titles, such as Asterix - Operation Getafix, by introducing innovative uses of pseudo-3D graphics and a behind-the-car perspective that would become staples of subsequent racing games. The game's focus on realism and authenticity, as seen in its recreation of the Paris-Dakar rally route, also sets a precedent for future games in the series to prioritize immersive and realistic gameplay experiences. Furthermore, the introduction of environmental challenges and obstacles in African Raiders-01, such as quicksand and sand dunes, would be expanded upon in Asterix - Operation Getafix, which features its own set of unique challenges and puzzles.
+
+The narrative connection between African Raiders-01 and Asterix - Operation Getafix is less direct, given the difference in genres and settings. However, both games share a common spirit of adventure and competition, whether it be racing across the desert or navigating ancient landscapes. The protagonist of African Raiders-01, a skilled rally driver, must use their wits and reflexes to overcome the challenges of the desert, much like Asterix and his companions must use their cunning and bravery to succeed in their missions. This emphasis on cleverness and determination creates a sense of continuity between the two games, despite their differences in tone and style.
+
 ## References
 
 [^ref-1]: [Journal Étudiant – African Raiders-01: Une Immersion Rétro](https://www.journaletudiant.com/african-raiders-01-une-immersion-retro-dans-les-sables-du-dakar/) – cultural retrospective, gameplay description, release year 1988

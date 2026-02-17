@@ -143,6 +143,14 @@ The series continued with multiple sequels and iterations, eventually transition
 - [MyAbandonware](https://www.myabandonware.com/game/hoyle-classic-card-games-2av)
 - [Internet Archive](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993)
 
+## See Also
+
+Hoyle Classic Card Games builds upon the foundation established by its predecessor, Hoyle Classic Board Games, by expanding the series' reach into the realm of card games. This transition not only broadens the types of games available under the Hoyle brand but also refines the formula that made the board game compilation successful, incorporating Sierra's signature blend of humor and challenge. The game's focus on traditional card games like Bridge, Euchre, and Poker lays the groundwork for future titles in the series, such as Hoyle Poker, which would delve deeper into the specifics of poker gameplay.
+
+The narrative approach in Hoyle Classic Card Games, while not traditional, utilizes Sierra's beloved characters to create an engaging experience. These characters, with their unique expressions and voices, add a layer of personality to the game that was reminiscent of earlier Sierra titles but tailored for a card game setting. This character-driven design would continue to evolve in subsequent Hoyle games, including Hoyle Poker, where the focus on poker as a central theme would likely introduce new characters or further develop existing ones in the context of casino-style gaming.
+
+Mechanically, Hoyle Classic Card Games represents a significant step forward for the series, introducing a point-and-click interface and VGA graphics that enhanced the player's experience. The inclusion of multiple card games, each with its own rules and challenges, showcased the versatility of the SCI engine and set the stage for more complex game implementations in future titles. The addition of network multiplayer capabilities in later versions, particularly for games like Hearts and Poker, anticipated the direction that Hoyle Poker would take, focusing on competitive and social aspects of card gaming. This evolution in gameplay features and technology would be crucial in shaping the series' next installment, ensuring that it remained engaging and relevant to players.
+
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information

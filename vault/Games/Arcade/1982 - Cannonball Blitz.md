@@ -200,6 +200,14 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 **Technical Documentation**
 - [The Cutting Room Floor](https://tcrf.net/Cannonball_Blitz) - Hidden content documentation
 
+## See Also
+
+Cannonball Blitz builds upon the foundation established by its predecessor, Threshold, by introducing more complex platforming mechanics and a unique theme set during the American Revolutionary War. The game's narrative follows a rebel soldier attempting to scale Nutcracker Hill to destroy Cannonball Castle, facing numerous challenges along the way. This setup lays the groundwork for future games in the series, such as Creepy Corridors, which would further refine the action-platformer formula.
+
+The gameplay in Cannonball Blitz evolves from Threshold by incorporating innovative mechanics like balloon rides to reach higher platforms, adding a new layer of depth to the traditional platforming experience. The game's three distinct screens, each with its own set of challenges and obstacles, also pave the way for the more varied and complex level designs found in Creepy Corridors. By introducing these new elements, Cannonball Blitz bridges the gap between Threshold and Creepy Corridors, creating a cohesive narrative and mechanical arc throughout the series.
+
+As the series progresses to Creepy Corridors, players can expect even more refined gameplay mechanics and challenging level designs, building upon the foundations established in Cannonball Blitz. The experience gained from navigating the treacherous terrain of Nutcracker Hill and avoiding the constant barrage of cannonballs will serve as a precursor to the eerie and daunting environments of Creepy Corridors. With its robust copy protection and acclaim within the Apple II software community, Cannonball Blitz solidifies its place in the series, connecting the dots between Threshold and the forthcoming challenges of Creepy Corridors.
+
 ## References
 
 [^ref-1]: [Internet Archive – Wozaday Cannonball Blitz](https://archive.org/details/wozaday_Cannonball_Blitz) – developer, publisher, release date, system requirements

@@ -230,6 +230,14 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 **Manuals & Extras**
 - [Atari Compendium Manual Archive](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – Original manual PDF[^ref-14]
 
+## See Also
+
+Marauder builds upon the action-oriented gameplay of its spiritual predecessor, Lunar Leeper, by introducing a more complex maze structure and varied enemy behaviors. The game's top-down shooter mechanics and emphasis on navigation through hostile environments lay the groundwork for future Sierra titles that would blend action and adventure elements. Although Marauder does not share a direct narrative connection with Lunar Leeper, both games showcase Sierra's early experiments with fast-paced gameplay and challenging level design.
+
+In terms of gameplay evolution, Marauder refines the core concepts presented in Lunar Leeper, featuring more sophisticated enemy AI and a greater emphasis on exploration. The game's use of a digital joystick for control and its fixed flip-screen visual presentation also represent significant technical advancements over its predecessor. As the series progresses, these innovations would continue to influence the development of subsequent titles, including Mouskattack, which would further refine the action-oriented gameplay and introduce new challenges and mechanics.
+
+Mouskattack, the next entry in the series, would expand upon the foundation established by Marauder, introducing new characters, levels, and gameplay mechanics. The game's narrative would also become more complex, featuring a clearer storyline and character development. Although Marauder lacks a direct narrative connection to Mouskattack, the two games share a common thread in their emphasis on fast-paced action and challenging level design, demonstrating Sierra's commitment to refining and evolving its gameplay formulas over time.
+
 ## References
 
 [^ref-1]: [Glitchwave – Marauder](https://glitchwave.com/game/marauder.f2/) – release dates, platforms, publishers, ratings

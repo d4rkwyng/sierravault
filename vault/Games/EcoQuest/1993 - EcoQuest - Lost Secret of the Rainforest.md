@@ -213,6 +213,13 @@ The game's emphasis on consequences for environmental destruction—whether thro
 - [Abandonware DOS – Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=ecoquest2solution.txt&st=walkthrough&sg=EcoQuest+2:+Lost+Secret+of+the+Rainforest&idg=2594)[^ref-8]
 
 ## See Also
+
+EcoQuest - Lost Secret of the Rainforest builds upon the narrative foundation established in EcoQuest - The Search for Cetus, with Adam Greene now older and more capable of communicating with animals. The shift from oceanic environments to the rainforests of South America introduces new challenges and educational content, exploring real-life dangers threatening these ecosystems. This sequel maintains the series' focus on environmentalism while evolving gameplay mechanics, such as the introduction of the innovative "Ecorder" device.
+
+The game's storyline progresses with Adam facing new adversaries, including Maxim Slaughter, whose actions embody the dangers of greed and exploitation of natural resources. The involvement of characters like Paquita, a talking bat, adds depth to the narrative, emphasizing themes of cooperation and harmony with nature. As the series continues, it is likely that future entries will expand on these themes, potentially introducing new protagonists or revisiting familiar characters in different environmental contexts.
+
+In terms of mechanical evolution, EcoQuest - Lost Secret of the Rainforest refines the point-and-click interface introduced in earlier Sierra games, incorporating features like the Ecorder to enhance player engagement and learning. The next entry in the series will likely continue this trend, possibly introducing new tools or gameplay elements that further integrate educational content with adventure gameplay. By building on the foundations laid in EcoQuest - The Search for Cetus and Lost Secret of the Rainforest, the series can explore a wide range of environmental issues and promote ecological awareness through immersive storytelling and interactive learning experiences.
+
 - [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
 
 ## References

@@ -267,6 +267,13 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 - [Official Patch 1.0.0.6](https://archive.org/details/RTK106)
 
 ## See Also
+
+Return to Krondor serves as a direct sequel to Betrayal at Krondor, continuing the story of Squire James, formerly known as Jimmy the Hand, as he navigates the complexities of Midkemia. The game's narrative picks up where its predecessor left off, with James now leading a party of heroes on a quest to recover the Tear of the Gods, a sacred artifact lost to the depths of the Bitter Sea. This storyline expansion introduces new characters, such as Jazhara, a Keshian sorceress, and explores the darker aspects of Midkemia, setting the stage for potential future installments.
+
+Mechanically, Return to Krondor builds upon the foundations established by Betrayal at Krondor, incorporating pre-rendered backgrounds with changing camera angles and 3D character models. The turn-based tactical combat system has been refined, offering "some of the juiciest turn-based battles ever to grace a role-playing game." Although the series was intended to continue with additional games, Sierra ultimately discontinued the franchise, leaving the storyline uncontinued in game form. As a result, Return to Krondor stands as a unique entry in the Krondor series, bridging the gap between Betrayal at Krondor and the planned but unreleased sequels.
+
+The gameplay evolution from Betrayal at Krondor to Return to Krondor is notable, with a shift towards more linear structure and confined areas. The game's division into eleven chapters provides a sense of progression and narrative flow, while the introduction of new characters and plot twists keeps the story engaging. Although there is no direct sequel to Return to Krondor, the game's conclusion sets the stage for potential future explorations of Midkemia, leaving fans to wonder what could have been if the series had continued. The legacy of Return to Krondor can be seen in its influence on subsequent RPGs, with its engaging combat system and immersive storyline continuing to inspire gamers and developers alike.
+
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
 
 ## References

@@ -186,6 +186,14 @@ The game also stands as a testament to the challenges of software preservation, 
 - [MyAbandonware – Spelling Jungle](https://www.myabandonware.com/game/spelling-jungle-fac)[^ref-19]
 - [ClassicReload – Windows 3.x Version](https://classicreload.com/win3x-spelling-jungle-yobis-basic-spelling-tricks.html)[^ref-11]
 
+## See Also
+
+Spelling Jungle builds upon the foundation established by its predecessor, Ready Set Read with Bananas Jack, by introducing a more immersive storyline and enhanced gameplay mechanics. The game's narrative follows the player as they navigate the Spelling Jungle, guided by Yobi, to stop the flooding of the Mighty Spelling River, which serves as a clever metaphor for overcoming spelling challenges. This approach allows for a more engaging experience, making it easier for children to develop their reading and spelling skills.
+
+The gameplay in Spelling Jungle evolves significantly from its predecessor, incorporating puzzle maps and spelling tests that require players to apply their knowledge of words in a practical context. The introduction of obstacles, enemies, and environmental challenges adds a layer of complexity, ensuring that the game remains engaging as players progress through its 101 levels. As the series progresses, these elements will continue to evolve, laying the groundwork for the next installment, Turbo Learning - Mega Math, which will likely build upon the puzzle-solving mechanics and introduce new mathematical concepts.
+
+In terms of narrative continuity, Yobi's character plays a pivotal role in Spelling Jungle, serving as a guide and mentor to the player. His presence helps to create a sense of cohesion within the Discovery series, and it is likely that his character or similar guides will appear in future installments, including Turbo Learning - Mega Math. The success of Spelling Jungle's approach to educational gaming will also influence the development of subsequent games, ensuring that the series continues to provide an engaging and effective learning experience for children.
+
 ## References
 
 [^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings

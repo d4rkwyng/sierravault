@@ -105,6 +105,14 @@ Robert E. Lee: Civil War General established a successful franchise for Sierra, 
 
 The game's educational value has ensured its lasting relevance, with players continuing to praise it as "a valuable teaching tool, and full of history"[^ref-34]. Its influence can be seen in later Civil War strategy games that adopted similar approaches to balancing historical accuracy with gameplay accessibility. The game also contributed to the broader trend of incorporating multimedia elements into strategy games, setting standards that would influence the genre for years to come.
 
+## See Also
+
+Robert E. Lee: Civil War General builds upon the foundations laid by its predecessors in the series, refining the turn-based strategy gameplay that would become a hallmark of the Civil War Generals franchise. The game's focus on Robert E. Lee's campaigns during the American Civil War sets the stage for the next entry in the series, Civil War Generals 2 - Grant–Lee–Sherman, which expands upon the cast of playable generals and introduces new gameplay mechanics. By offering a detailed and historically accurate portrayal of the Civil War, Robert E. Lee: Civil War General establishes a high standard for its successors to follow.
+
+The narrative of Robert E. Lee: Civil War General is deeply intertwined with the historical events of the American Civil War, allowing players to relive pivotal battles such as Antietam and Gettysburg from the perspective of the Confederate Army of Northern Virginia. This attention to historical detail would become a defining characteristic of the series, with subsequent games like Civil War Generals 2 - Grant–Lee–Sherman delving even deeper into the complexities of the conflict. By exploring the strategic brilliance of Robert E. Lee, the game provides a unique perspective on the war that would be expanded upon in later entries.
+
+Mechanically, Robert E. Lee: Civil War General introduces a number of innovations that would influence the development of subsequent games in the series, including the use of hex-based tactical maps and a robust campaign system. These features would be refined and expanded upon in Civil War Generals 2 - Grant–Lee–Sherman, which adds new playable generals and gameplay mechanics to the mix. By building upon the foundations established by Robert E. Lee: Civil War General, the series is able to offer an increasingly nuanced and detailed portrayal of the American Civil War, drawing players into a richly immersive and historically accurate game world.
+
 ## References
 
 [^ref-1]: [Abandonware DOS Search Results](https://www.abandonwaredos.com/search.php?search=Robert+E.+Lee%3A+Civil+War+General) - General reference listing

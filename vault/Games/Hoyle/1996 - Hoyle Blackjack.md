@@ -188,6 +188,13 @@ The game's influence on casino game design persists in modern software, though c
 - [Internet Archive - Blackjack 2000](https://archive.org/details/blackjack_202001/) - Later version archive
 
 ## See Also
+
+Hoyle Blackjack builds upon the foundation established by its predecessor, Hoyle Official Book of Games - Volume 5, by focusing on a specific card game and enhancing the gameplay experience with more detailed rules and variations. The game's design reflects the series' goal of providing a less violent alternative to action games, offering players a chance to engage in strategic and social interactions within a virtual casino environment. By including multiple variants of blackjack and customizable casino rules, Hoyle Blackjack sets the stage for future entries in the series to explore other card games in depth.
+
+The release of Hoyle Blackjack in 1996 paved the way for subsequent titles, such as Hoyle Bridge, which would further expand the series' portfolio of card and board games. The experience gained from developing a comprehensive blackjack simulation influenced the design of later games, incorporating features like animated characters, full voice acting, and multiplayer options to create immersive and engaging experiences. As the series progressed, it continued to emphasize authenticity and depth in its simulations, appealing to both casual players and serious enthusiasts of various card games.
+
+The mechanical evolution from Hoyle Official Book of Games - Volume 5 to Hoyle Blackjack is evident in the latter's more refined gameplay mechanics and enhanced user interface, designed to simulate the real casino experience as closely as possible. This trend continues with Hoyle Bridge, which likely benefits from the lessons learned during the development of Hoyle Blackjack, such as the importance of detailed game rules, strategic depth, and social interaction in creating an engaging card game simulation. By refining these elements, the series aims to provide players with a comprehensive and enjoyable gaming experience that captures the essence of traditional card games.
+
 - **Related Series:** Part of the larger Hoyle card and casino game franchise
 - **Companion Titles:** [[1996 - Hoyle Casino]], [[1993 - Hoyle Classic Card Games]], [[2002 - Hoyle Casino Empire]]
 - **Series Origin:** Spiritual successor to Hoyle Official Book of Games series

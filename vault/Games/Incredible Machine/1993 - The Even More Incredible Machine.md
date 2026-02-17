@@ -234,6 +234,13 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 - [Manual PDF](http://wiki.sierrahelp.com/index.php/File:The_Even_More_Incredible_Machine_-_Manual.pdf) - Sierra Help Wiki
 
 ## See Also
+
+The Even More Incredible Machine builds upon the foundation established by its predecessor, Sid & Al's Incredible Toons, by retaining the core Rube Goldberg-inspired gameplay while introducing new content and challenges. This game serves as a bridge between the initial concept introduced in Sid & Al's Incredible Toons and the further evolution seen in The Incredible Machine 2, with its deterministic physics engine and creative sandbox elements setting the stage for future innovations. The inclusion of 87 puzzles from the original Incredible Machine alongside 73 new ones demonstrates a commitment to expanding the series' offerings while maintaining continuity.
+
+Mechanically, The Even More Incredible Machine refines the point-and-click interface and physics-based puzzle solving that defined Sid & Al's Incredible Toons, laying the groundwork for The Incredible Machine 2 to introduce even more sophisticated mechanics and parts. The game's focus on creative problem-solving and the satisfaction of seeing complex contraptions come to life also previews the deeper complexity and challenge that players would face in subsequent titles. By offering both structured puzzles and a "Freeform Mode," the game caters to a wide range of player preferences, from those seeking guided challenges to those interested in open-ended creativity.
+
+The narrative absence in The Even More Incredible Machine is consistent with the series' focus on gameplay over storytelling, a trend that continues through The Incredible Machine 2. Instead, the game's appeal lies in its ability to challenge and entertain players through physics-based puzzles and creative freedom, elements that are central to the identity of the Incredible Machine series. As such, The Even More Incredible Machine plays a crucial role in the series' evolution, balancing familiarity with innovation to set the stage for future developments in puzzle design and gameplay mechanics seen in The Incredible Machine 2.
+
 - [[1993 - Sid & Al's Incredible Toons|← Previous: Sid & Al's Incredible Toons]]
 - [[1994 - The Incredible Machine 2|→ Next: The Incredible Machine 2]]
 - [[Jeff Tunnell]] - Creator

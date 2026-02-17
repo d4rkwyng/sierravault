@@ -137,6 +137,14 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 - [MyAbandonware - Sierra Soccer World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix)
 - [GamesNostalgia - Sierra Soccer World Challenge Edition](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199)
 
+## See Also
+
+Hi Res Soccer builds upon the foundational elements established in Hi-Res Football, with both games sharing a focus on real-time action and simple, yet engaging gameplay mechanics. While Hi-Res Football laid the groundwork for sports simulations, Hi Res Soccer refined this concept by introducing more complex team management and player characteristics, such as six different performance attributes for each athlete. This evolution in design would later influence the development of more sophisticated sports games within the Sierra catalog.
+
+The release of Hi Res Soccer also marked a significant point in the Hi-Res series, as it showcased the potential for real-time sports simulations on personal computers. The game's success and the lessons learned from its development would pave the way for future titles, including Hi-Res Adventure 3 - Cranston Manor, which although belonging to a different genre, benefited from the technological advancements and design principles explored in earlier Hi-Res games. Despite the shift in genre, the experience gained from creating engaging real-time experiences in Hi Res Soccer contributed to the overall growth of Sierra's capabilities in game development.
+
+In terms of gameplay evolution, Hi Res Soccer introduced several innovations that would become standard in later sports games, including the use of paddles for control and the incorporation of basic team strategies. These elements, while primitive by today's standards, represented significant steps forward in the genre. The later version, Sierra Soccer: World Challenge Edition, further expanded on these concepts with improved controls, tournament modes, and authentic team rosters, demonstrating how the series continued to adapt and improve over time, ultimately influencing the broader landscape of sports gaming.
+
 ## References
 
 [^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information

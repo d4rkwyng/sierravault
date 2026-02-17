@@ -210,6 +210,13 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-casino-hzg) – Windows version
 
 ## See Also
+
+Hoyle Casino builds upon the foundation established by its predecessor, Hoyle Card Games, by expanding the series' scope to include a wider variety of casino games. This shift towards casino simulations marked a significant departure from the more traditional card games found in earlier titles, setting the stage for future installments like Hoyle Majestic Chess to explore other facets of recreational gaming. The introduction of a virtual Las Vegas environment and interactive 3D characters in Hoyle Casino added a new layer of immersion to the series.
+
+Mechanically, Hoyle Casino refined the user interface and controls introduced in earlier games, making it easier for players to navigate and engage with the various casino games on offer. This refinement process continued into subsequent titles, with Hoyle Majestic Chess likely benefiting from the lessons learned during the development of Hoyle Casino. The game's focus on realistic rules and odds for each casino game also raised the bar for authenticity in the series, a standard that would be maintained or exceeded in later entries.
+
+The success of Hoyle Casino paved the way for the series to explore other genres and themes, such as the strategic depth of chess in Hoyle Majestic Chess. While Hoyle Card Games laid the groundwork for the series' emphasis on traditional games, Hoyle Casino's casino simulations expanded the franchise's appeal, attracting a broader audience interested in the thrill of casino gaming without the financial risk. This expansion of the series' scope would continue with Hoyle Majestic Chess, which would offer players a unique blend of strategy and competition.
+
 - [[2003 - Hoyle Card Games|← Previous: Hoyle Card Games]]
 - [[2003 - Hoyle Majestic Chess|→ Next: Hoyle Majestic Chess]]
 

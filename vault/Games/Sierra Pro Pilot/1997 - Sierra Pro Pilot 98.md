@@ -210,6 +210,13 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 - [Sierra Help - Patches](https://sierrahelp.com/) - Official patches 1.1, 1.2, 1.3a
 
 ## See Also
+
+Sierra Pro Pilot 98 builds upon the foundation established by its predecessors in the Pro Pilot series, although it is the first edition in the civilian flight simulation series. The game's narrative structure, or lack thereof, focuses on realistic flight training scenarios and aviation education, which sets the stage for the improvements seen in Sierra Pro Pilot '99. Mechanically, the game introduces detailed aircraft instrument panels and comprehensive flight training features, including interactive tutorials and thorough system simulations, which would become a hallmark of the series.
+
+The gameplay evolution from earlier iterations to Sierra Pro Pilot 98 is notable, with significant attention paid to cockpit authenticity and realistic ATC interactions. However, the initial release was criticized for technical issues and missing features, which were addressed in subsequent releases. The partnership with the National Association of Flight Instruction (NAFI) lent credibility to the simulation's educational content, ensuring accuracy in training procedures that would carry over into future games like Sierra Pro Pilot '99.
+
+As the series progresses to Sierra Pro Pilot '99, players can expect further refinement of the flight training features and improvements to the game's overall performance. The emphasis on realistic flight procedures, comprehensive tutorials, and detailed system simulations will continue to be a focus, building upon the foundation established in Sierra Pro Pilot 98. With each iteration, the series aims to provide an increasingly authentic and immersive aviation experience, making it an excellent choice for both aspiring pilots and seasoned virtual aviators alike.
+
 - **Previous:** N/A (First in series)
 - **See Also:** Sierra Pro Pilot 99 (1998) (1998)
 - [[1998 - Sierra Pro Pilot '99|→ Next: Sierra Pro Pilot '99]]

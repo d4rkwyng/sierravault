@@ -216,6 +216,14 @@ The game's influence can be seen in its innovative control scheme and its achiev
 **Manuals & Extras**
 - [Atari Game Manual](https://archive.org/details/agm_crossfire)
 
+## See Also
+
+Crossfire builds upon the foundation established by earlier arcade shooters, refining the genre's formula with its innovative two-handed keyboard control scheme and exceptionally smooth gameplay. The game's narrative, although straightforward, captures the essence of desperate last-stand scenarios popular in early 1980s science fiction gaming, setting the stage for future titles like Frogger to expand upon this theme. As a core Sierra title, Crossfire's influence can be seen in the evolution of action games throughout the decade.
+
+The gameplay mechanics introduced in Crossfire, such as the grid-based playing field and limited ammunition, would become staples of the shooter genre, influencing subsequent games including Frogger. The game's emphasis on strategic elements, like balancing aggressive pursuit with defensive positioning, added depth to the traditional arcade shooter formula, paving the way for more complex game designs in later series entries. By refining the controls and gameplay, Crossfire helped establish Sierra as a major player in the burgeoning home computer gaming market.
+
+As the series progressed, Frogger would introduce new challenges and gameplay mechanics, such as navigating treacherous terrain and avoiding obstacles, while maintaining the core action elements that made Crossfire a success. The transition from Crossfire to Frogger represents a significant shift in focus, from pure shooter gameplay to a more diverse set of challenges, demonstrating Sierra's willingness to innovate and expand upon established formulas. Through this evolution, the Arcade series would continue to captivate audiences, with each entry building upon the foundations laid by its predecessors, including the influential Crossfire.
+
 ## References
 
 [^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)) – release dates, platforms, awards, contemporary reviews, technical details

@@ -183,6 +183,14 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 - [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/)[^ref-7]
 - [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2]
 
+## See Also
+
+Gobbler's release in 1981 marked a significant point in the evolution of arcade games on home computers, building upon the foundation established by earlier titles like Frogger. Although Gobbler itself was a clone of Pac-Man, its impact on the market and the subsequent legal actions it faced paved the way for future game development, including the creation of original IPs that would follow in later Sierra Entertainment titles. The gameplay mechanics introduced in Gobbler, such as maze navigation and power pellet usage, laid groundwork for innovations seen in subsequent arcade-style games.
+
+The narrative and mechanical connections between Gobbler and its predecessors like Frogger are largely thematic, with both games focusing on challenging, timed environments where players must avoid obstacles to achieve their goals. However, the lack of a direct narrative connection means that Gobbler stands somewhat alone in terms of storytelling, instead contributing to the broader arc of arcade game development through its influence on gameplay mechanics. As the series progresses towards titles like Sabotage, the emphasis on quick reflexes and strategic thinking, first highlighted in Gobbler, becomes even more pronounced.
+
+Gobbler's influence can be seen in later games such as Sabotage, where the fast-paced action and strategic elements introduced in earlier arcade titles are refined and expanded upon. The experience gained from developing and publishing Gobbler likely informed Sierra Entertainment's approach to creating engaging, challenging gameplay experiences in their future releases. While Gobbler may not have introduced groundbreaking new mechanics, its place in the lineage of arcade games on home computers is significant, bridging the gap between the simple yet addictive gameplay of Frogger and the more complex challenges presented in later titles like Sabotage.
+
 ## References
 
 [^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history

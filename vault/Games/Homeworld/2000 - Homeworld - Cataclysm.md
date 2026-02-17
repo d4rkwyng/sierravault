@@ -130,6 +130,13 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 - [MyAbandonware - Homeworld: Cataclysm](https://www.myabandonware.com/game/homeworld-cataclysm-cyy)
 
 ## See Also
+
+Homeworld: Cataclysm builds upon the foundation established by its predecessor, Homeworld, by introducing a new narrative that takes place fifteen years after the events of the original game. The story follows Kiith Somtaaw, a minor mining clan, as they encounter an ancient alien threat known as The Beast, which serves as a biomechanical parasite that converts biological and technological systems to its purpose. This new storyline allows for a fresh perspective on the Homeworld universe while maintaining the series' themes of survival and homecoming.
+
+The gameplay in Cataclysm also evolves from the original Homeworld, with significant improvements to the interface and controls, including enhanced user interface elements, new mission scenarios, and the ability to move the mothership. The game's focus on a smaller, more personal story centered around a mining clan provides a unique contrast to the epic journey of the entire Kushan civilization in the original Homeworld. These changes pave the way for the next entry in the series, Homeworld 2, which would further expand on the gameplay and narrative elements introduced in Cataclysm.
+
+In terms of narrative continuity, Homeworld: Cataclysm sets the stage for the events of Homeworld 2, which takes place several years after the defeat of The Beast. The game's story and characters, including the protagonist Kiith Somtaaw Fleet Commander, contribute to the rich lore of the Homeworld series, and the gameplay mechanics, such as the introduction of The Beast race, add depth to the series' signature three-dimensional space combat. Overall, Cataclysm serves as a crucial link between the original Homeworld and its sequel, Homeworld 2, both narratively and mechanically.
+
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
 

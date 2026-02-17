@@ -227,6 +227,13 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 - [Sierra Chest – PowerHouse](https://www.sierrachest.com/index.php?a=games)[^ref-13]
 
 ## See Also
+
+PowerHouse connects narratively to the previous Impressions game, Conqueror - A.D. 1086, through its shared theme of strategic competition and management, albeit in vastly different historical and futuristic settings. While Conqueror focused on medieval conquest, PowerHouse plunges players into a dystopian future where corporate power reigns supreme, echoing similar themes of strategy and domination. Mechanically, PowerHouse builds upon the business simulation aspects found in earlier Impressions titles, refining the genre with its use of the WinG interface and detailed economic modeling.
+
+In terms of gameplay evolution, PowerHouse lays the groundwork for the more refined and expansive business simulations that would follow, including Casino Deluxe 2, which would further explore the nuances of management and strategy in a different context. The emphasis on research, development, and corporate espionage in PowerHouse introduces a layer of complexity that would be built upon in subsequent games, offering players a deeper and more immersive experience. By focusing on the energy sector, PowerHouse also explores themes of sustainability and resource management, which would become increasingly important in later business simulation titles.
+
+The narrative of PowerHouse, with its dystopian setting and focus on corporate power struggles, sets the stage for the thematic explorations found in Casino Deluxe 2, where players must navigate the intricacies of casino management and the moral ambiguities that come with it. While the settings and specific challenges differ, both games share a common thread of strategic decision-making and competitive drive, highlighting the Impressions series' commitment to exploring the human side of business and strategy. Through its engaging gameplay and thought-provoking themes, PowerHouse solidifies its place within the Impressions series as a pivotal title that showcases the developer's ability to craft compelling and challenging simulations.
+
 - [[1995 - Conqueror - A.D. 1086|← Previous: Conqueror - A.D. 1086]]
 - [[1996 - Casino Deluxe 2|→ Next: Casino Deluxe 2]]
 

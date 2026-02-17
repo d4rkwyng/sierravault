@@ -173,6 +173,14 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
 - [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
 
+## See Also
+
+Mine Shaft serves as a bridge between Sierra's earlier experiments with arcade-style games, such as Aquatron, and their later ventures into more refined action titles like Mr. Cool. While Aquatron laid the groundwork for Sierra's exploration of the arcade genre, Mine Shaft built upon this foundation by introducing procedurally generated environments, a feature that would influence the design of subsequent games. The game's emphasis on navigation and survival also foreshadowed elements that would be refined in Mr. Cool, where tighter controls and more focused level design would become key components.
+
+Mechanically, Mine Shaft represents a step towards the more complex gameplay mechanics seen in later Sierra titles. The introduction of procedurally generated levels, although sometimes problematic due to control limitations, showcased the company's willingness to innovate and push the boundaries of what was possible on early home computers. This approach to game design would evolve over time, with Mr. Cool potentially benefiting from the lessons learned during Mine Shaft's development, such as the importance of precise control schemes and balanced level difficulty.
+
+Narratively, Mine Shaft maintains a minimalist approach common in arcade games of its era, similar to Aquatron. The focus on an unnamed miner navigating through dangerous environments sets a precedent for future Sierra games that would also feature protagonists facing challenging situations. As the series progresses towards Mr. Cool, we can expect to see more defined characters and possibly more intricate storylines, building upon the foundational elements established by Mine Shaft's straightforward yet engaging premise.
+
 ## References
 
 [^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits

@@ -118,6 +118,14 @@ The game has found preservation through various digital distribution platforms a
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
 
+## See Also
+
+Betrayal in Antara builds upon the foundations laid by its spiritual predecessor, Betrayal at Krondor, while introducing a new fantasy world and narrative. The game's story follows Aren and his companions as they navigate the complexities of the Empire of Antara, exploring themes of political intrigue and betrayal that are reminiscent of the earlier game's focus on character-driven storytelling. Although the setting and characters are new, the gameplay mechanics and interface will feel familiar to fans of Betrayal at Krondor, with designer Peter Sarrett aiming to maintain a sense of continuity while still innovating within the series.
+
+As the series evolves, Betrayal in Antara lays the groundwork for the next installment, Return to Krondor, by refining the game engine and introducing new features such as a skill-based progression system and optional full-screen view. The game's narrative, while distinct from Betrayal at Krondor, shares a similar tone and focus on character development, which would become a hallmark of the series. By establishing a new fantasy world and characters, Betrayal in Antara expands the scope of the Krondor series, allowing for further exploration and innovation in subsequent games.
+
+The connection between Betrayal in Antara and Return to Krondor is not only mechanical but also narrative, as both games contribute to the broader tapestry of the Krondor series. While Betrayal at Krondor introduced players to the world of Midkemia, Betrayal in Antara explores a new setting, and Return to Krondor would eventually bring the series full circle, revisiting familiar themes and characters. Throughout the series, Sierra On-Line refined their approach to role-playing games, incorporating feedback and innovations from each title to create a cohesive and engaging narrative arc that spans multiple games and worlds.
+
 ## References
 
 [^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – - Basic game information and development details

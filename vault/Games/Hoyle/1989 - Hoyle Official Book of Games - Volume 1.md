@@ -236,6 +236,13 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 - [GOG Dreamlist](https://www.gog.com/dreamlist)[^ref-11]
 
 ## See Also
+
+Hoyle Official Book of Games: Volume 1 serves as a foundational entry in the Hoyle series, laying the groundwork for subsequent titles like Hoyle Official Book of Games - Volume 2. The game's narrative is largely character-driven, with interactions between the player and a cast of beloved Sierra characters, including Larry Laffer from Leisure Suit Larry and King Graham from King's Quest. These characters would go on to appear in future Hoyle games, maintaining a sense of continuity across the series.
+
+Mechanically, Volume 1 established the template for later Hoyle titles, featuring a mix of classic card games presented with excellent graphics and an intuitive interface. The game's use of Sierra's Creative Interpreter (SCI) engine allowed for a level of production quality that was unprecedented in the card game genre at the time. As the series progressed, particularly with the release of Hoyle Official Book of Games - Volume 2, players could expect to see further refinements in gameplay and graphics, as well as the introduction of new characters and game modes.
+
+The success of Hoyle Official Book of Games: Volume 1 can be seen as a spiritual successor to earlier Sierra titles like Hi-Res Cribbage, but it also paved the way for more complex and engaging card game experiences in later entries. The integration of humor and personality, courtesy of the game's cast of characters, set a high standard for future games in the series, including Hoyle Official Book of Games - Volume 2, which would build upon this foundation by introducing new games, characters, and gameplay mechanics. By evolving the formula established in Volume 1, Sierra was able to create a long-running series that remained popular with fans of card games and adventure games alike.
+
 - [[1990 - Hoyle Official Book of Games - Volume 2|→ Next: Hoyle Official Book of Games - Volume 2]]
 
 ## References

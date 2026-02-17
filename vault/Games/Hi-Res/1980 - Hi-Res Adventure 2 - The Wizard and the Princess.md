@@ -154,6 +154,14 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - [Internet Archive](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog)
 - [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-2-the-wizard-and-the-princess/)[^ref-23]
 
+## See Also
+
+Hi-Res Adventure 2 - The Wizard and the Princess connects narratively to its predecessor, Hi-Res Adventure 1 - Mystery House, through the establishment of the Hi-Res Adventure series, with Roberta Williams building upon her experience in crafting engaging adventure games. Mechanically, The Wizard and the Princess introduces color graphics, a significant improvement over the monochrome drawings in Mystery House, setting a new standard for the series. This evolution in graphics capabilities would continue to influence the development of subsequent games in the series.
+
+The Wizard and the Princess also lays groundwork for future Sierra titles, particularly the King's Quest series, by introducing the land of Serenia, which would later appear in King's Quest V. The game's fairy tale-inspired storyline, based on Roberta Williams' childhood readings, establishes a formula that would define many of Sierra's successes, including the beloved King's Quest games. Furthermore, the game's engine, ADL, and its two-word parser for text input would be refined and built upon in subsequent Sierra adventures.
+
+In terms of mechanical evolution, The Wizard and the Princess paves the way for more complex gameplay and storytelling in future series entries, such as Hi-Res Cribbage, which would likely build upon the graphical and interactive foundations established by The Wizard and the Princess. Although Hi-Res Cribbage may seem like a departure from the adventure genre, it is likely that the experience gained from developing The Wizard and the Princess influenced the design and implementation of this subsequent title, potentially incorporating similar graphical or user interface elements. The success of The Wizard and the Princess, with its sales of over 60,000 copies, provided crucial funding for Sierra to explore new projects and genres, ultimately contributing to the diversity of their game lineup.
+
 ## References
 
 [^ref-1]: [Wikipedia - Wizard and the Princess](https://en.wikipedia.org/wiki/Wizard_and_the_Princess) – Comprehensive article on development and release

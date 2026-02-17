@@ -223,6 +223,13 @@ From a modern perspective, Cohort: Fighting for Rome serves as a historical arti
 The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10][^ref-11][^ref-12]
 
 ## See Also
+
+Cohort: Fighting for Rome builds upon the foundation established by its predecessors in the Impressions series, refining the tactical war game formula with its real-time combat and customizable army compositions. The game's narrative, while not directly connected to a specific historical campaign, draws inspiration from the classical antiquity period, setting the stage for future titles like Fort Apache, which would explore different historical settings and military conflicts. By introducing sharper graphics and improved AI, Cohort: Fighting for Rome marked a significant step forward in the series' evolution, addressing some of the criticisms leveled against earlier games.
+
+The gameplay mechanics in Cohort: Fighting for Rome, such as the hybrid real-time/turn-based approach and the emphasis on unit management, laid the groundwork for subsequent Impressions titles. The ability to pause gameplay and issue orders added a layer of depth to the combat, allowing players to balance action and strategy. This mechanic would be refined in later games, including Fort Apache, which built upon the successes of Cohort: Fighting for Rome while introducing new challenges and historical contexts. The Roman Legion Commander protagonist's role in directing troops during classical antiquity also set a precedent for future games' protagonists, who would face similar challenges in different historical settings.
+
+As the series progressed towards Fort Apache, the Impressions team continued to refine their approach to tactical warfare simulations, incorporating feedback from players and critics alike. The mixed reception of Cohort: Fighting for Rome, particularly regarding its interface design and graphical presentation, served as a catalyst for improvement in these areas. By the time Fort Apache was released, the series had evolved significantly, offering more polished gameplay experiences that retained the core strategic elements while expanding into new historical and geographical contexts. Edward Grabowski's programming and design contributions to Cohort: Fighting for Rome played a crucial role in this evolution, laying the foundation for future innovations in the Impressions series.
+
 - [[1991 - Fort Apache|→ Next: Fort Apache]]
 
 ## References

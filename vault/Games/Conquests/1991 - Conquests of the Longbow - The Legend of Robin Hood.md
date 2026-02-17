@@ -278,6 +278,13 @@ The game's focus on historical accuracy and cultural research also distinguishes
 - [Manual PDF (MOCAGH)](https://www.mocagh.org/sierra/longbow-manual.pdf)
 
 ## See Also
+
+Conquests of the Longbow: The Legend of Robin Hood builds upon the narrative and mechanical foundations established in Conquests of Camelot: The Search for the Grail, with designer Christy Marx introducing a new level of complexity and depth to the series. While the previous game followed King Arthur's quest for the Holy Grail, Conquests of the Longbow shifts the focus to Robin Hood's efforts to restore King Richard I to the throne of England, incorporating historical and cultural research into its setting and puzzles. This change in protagonist and setting allows for a fresh exploration of themes and gameplay mechanics, such as the use of charm and brains over brute force.
+
+The game's engine, SCI1, provides significant upgrades over its predecessor, including 256-color VGA graphics and an icon-driven point-and-click interface, which enhances the overall gaming experience. The day-based structure of the game, divided into thirteen days, creates a sense of urgency and progression, while the multiple winning and losing paths offer a high level of replayability. As the series concludes with Conquests of the Longbow, it sets a new standard for narrative-driven adventure games, influencing future titles in the genre.
+
+Although there is no direct sequel to Conquests of the Longbow, the game's impact can be seen in later Sierra titles, such as the EcoQuest series, which also features a strong focus on storytelling and environmental puzzles. The Conquests series as a whole, comprising Conquests of Camelot and Conquests of the Longbow, remains a notable example of Sierra's commitment to creating immersive and challenging adventure games, with Conquests of the Longbow being particularly praised for its engaging narrative and innovative gameplay mechanics.
+
 - [[1990 - Conquests of Camelot - The Search for the Grail|← Previous: Conquests of Camelot - The Search for the Grail]]
 - [[Christy Marx]] - Designer
 

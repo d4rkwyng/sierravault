@@ -168,6 +168,13 @@ The series represented Sierra's most successful foray into sports gaming, with [
 - [GameFabrique](https://gamefabrique.com/games/front-page-sports-football-pro-97/)[^ref-10]
 
 ## See Also
+
+Front Page Sports Football Pro '97 builds upon the foundation established by its predecessor, Front Page Sports - Baseball Pro '96, by introducing a new sport to the series while maintaining the high level of simulation and management depth that fans had come to expect. The game's updated Red Baron engine and comprehensive football management capabilities allowed for a more immersive experience, with features such as detailed statistical tracking, motion-captured movements, and individual-player artificial intelligence. This evolution in gameplay mechanics set the stage for future entries in the series, including Front Page Sports - Baseball Pro '98, which would likely incorporate similar advancements in its own sport-specific simulation.
+
+The connection between Front Page Sports Football Pro '97 and Front Page Sports - Baseball Pro '96 is also evident in their shared focus on realistic sports simulation and deep management options. Both games cater to fans who enjoy the strategic aspects of sports, from drafting players to designing plays, and offer a high level of replayability through their various modes and multiplayer capabilities. As the series progressed, these core elements were refined and expanded upon, ensuring that each new installment, such as Front Page Sports - Baseball Pro '98, would meet the expectations of both veteran players and newcomers to the franchise.
+
+In terms of narrative continuity, while Front Page Sports Football Pro '97 does not have a traditional story, its career mode allows players to experience a form of storyline through the progression of their team and players over seasons. This aspect of the game adds a layer of personal investment for the player, as they guide their team through victories and setbacks, much like a real coach or manager would. The absence of a direct narrative link between Front Page Sports Football Pro '97 and its bookend titles in the series is mitigated by the overarching theme of sports management and simulation that ties all Front Page Sports games together, including Front Page Sports - Baseball Pro '98, which will undoubtedly continue this tradition with its own unique blend of baseball-specific gameplay and managerial depth.
+
 - [[1996 - Front Page Sports - Baseball Pro '96|← Previous: Front Page Sports - Baseball Pro '96]]
 - [[1997 - Front Page Sports - Baseball Pro '98|→ Next: Front Page Sports - Baseball Pro '98]]
 

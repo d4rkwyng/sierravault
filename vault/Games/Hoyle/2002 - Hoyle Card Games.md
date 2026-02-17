@@ -184,6 +184,13 @@ The game's technical conservatism, criticized at release, ironically contributed
 - [PriceCharting](https://www.pricecharting.com/game/pc-games/hoyle-card-games) - market pricing
 
 ## See Also
+
+Hoyle Card Games 2002 builds upon the foundation established by its predecessor, Hoyle Word Games, by expanding the series' focus on traditional games with a new collection of card games and solitaire variations. The introduction of international games such as Skat from Germany and Tarot from France in Hoyle Card Games 2002 sets the stage for future releases like Hoyle Casino Empire, which would further diversify the series' offerings with casino-style games. By incorporating features like the Facemaker function, allowing players to create custom characters, the game enhances the overall gaming experience and provides a sense of continuity across different titles in the series.
+
+The gameplay mechanics in Hoyle Card Games 2002, including its point-and-select interface and top-down perspective, lay the groundwork for subsequent games in the series. The inclusion of multiplayer options, such as local play for up to four players and online competition through FREE Internet Play, adds a social dimension that would be refined in later titles. Although Hoyle Word Games focused on word-based puzzles, the shift towards card games in Hoyle Card Games 2002 demonstrates the series' ability to evolve while maintaining its core appeal. This evolution is crucial as the series progresses towards Hoyle Casino Empire, which would introduce new gameplay elements and themes.
+
+Hoyle Card Games 2002 serves as a pivotal release in the series, bridging the gap between earlier word game-focused titles like Hoyle Word Games and future releases with broader gaming scopes, such as Hoyle Casino Empire. The game's success can be attributed to its comprehensive collection of card games and solitaire variations, as well as features like customizable AI opponents and the ability to create personalized player characters using the Facemaker function. As the series continues to grow, these elements will play a significant role in shaping the direction of future Hoyle games, including the transition into more complex gaming environments seen in Hoyle Casino Empire.
+
 - [[2001 - Hoyle Word Games|← Previous: Hoyle Word Games]]
 - [[2002 - Hoyle Casino Empire|→ Next: Hoyle Casino Empire]]
 

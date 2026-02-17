@@ -225,6 +225,13 @@ The series would continue under different developers, with Knowledge Adventure e
 - [Xeen Music – SC-55 Soundtrack](https://xeenmusic.bandcamp.com/album/island-of-dr-brain-soundtrack-sc-55)[^ref-28]
 
 ## See Also
+
+The Island of Dr. Brain builds upon the foundation established by its predecessor, Castle of Dr. Brain, by introducing new locations and characters that expand the series' narrative scope. Dr. Brain's private island, filled with visual puns and peculiar puzzles, serves as the primary setting for this installment, where players must assist the eccentric scientist in retrieving a stolen battery. This mission is a direct continuation of the events initiated in Castle of Dr. Brain, where Dr. Brain's experiments and inventions first took center stage.
+
+Mechanically, The Island of Dr. Brain refines the point-and-click adventure interface introduced in Castle of Dr. Brain, incorporating more varied and complex puzzles that span multiple academic subjects. The game's use of randomized puzzle solutions ensures a high level of replayability, making it an engaging experience for players of different skill levels. As the series progresses towards The Lost Mind of Dr. Brain, these mechanical advancements lay the groundwork for even more intricate and challenging puzzles.
+
+The narrative thread established in The Island of Dr. Brain continues into The Lost Mind of Dr. Brain, where Dr. Brain's character development and interactions with the player become increasingly important. The success of retrieving the battery and the experiences on the island likely influence the events that unfold in the next installment, as Dr. Brain's adventures become more personal and intellectually demanding. Through its unique blend of education and entertainment, The Island of Dr. Brain solidifies the Dr. Brain series as a staple of Sierra's edutainment offerings during the early 1990s, setting the stage for further innovations in the genre.
+
 - [[1991 - Castle of Dr. Brain|← Previous: Castle of Dr. Brain]]
 - [[1995 - The Lost Mind of Dr. Brain|→ Next: The Lost Mind of Dr. Brain]]
 

@@ -189,6 +189,14 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 - [ColecoVision Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – Original instruction manual[^ref-1]
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
+## See Also
+
+Wizard of Id's WizMath builds upon the educational foundation established by its predecessor, Learning with FuzzyWOMP, by introducing a new set of mathematical challenges and puzzle-solving mechanics. The game's narrative, centered around Spook's escape from the King of Id's dungeons, adds an engaging storyline to the learning experience, making it more immersive for young players. This approach differs from Learning with FuzzyWOMP, which focused on basic reading and cognitive skills, as WizMath delves deeper into mathematical problem-solving.
+
+The gameplay mechanics in Wizard of Id's WizMath, such as the block-pushing puzzles and adaptive difficulty system based on the player's age, represent a significant evolution in educational game design. These features not only make the game more accessible to a wider range of players but also provide a structured learning environment that adapts to the individual's skill level. In contrast to Learning with FuzzyWOMP, which had a more linear progression, WizMath offers a more dynamic and responsive learning experience.
+
+As the series progresses to Wizard of Id's WizType, the educational focus shifts from mathematics to typing skills, leveraging the same beloved characters and dungeon setting to teach players how to type efficiently. The WizType game builds upon the puzzle-solving foundation established in WizMath, incorporating typing challenges and exercises to improve dexterity and accuracy. This continuity in theme and gameplay style demonstrates Sierra's commitment to creating a cohesive educational series that caters to different aspects of learning and development. By evolving the gameplay mechanics and focusing on specific skills, such as mathematics in WizMath and typing in WizType, the series provides a comprehensive learning experience for young players.
+
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – publication metadata, release date, publisher information

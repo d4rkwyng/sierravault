@@ -128,6 +128,14 @@ The Inca series as a whole represents an interesting footnote in Coktel Vision's
 
 Inca II stands as a fascinating example of 1990s multimedia gaming ambition, representing both the possibilities and pitfalls of early CD-ROM adventure games. Its blend of serious mythological themes with unintentionally comedic execution has secured its place in gaming history, even if not for the reasons its developers originally intended. For many players who encountered the game during the CD-ROM boom, it remains a nostalgic curiosity—a reminder of an era when developers were still discovering what the new medium could achieve, sometimes with spectacularly bizarre results.
 
+## See Also
+
+Inca II: Nations of Immortality builds upon the narrative foundation established by its predecessor, Inca, as it follows Atahualpa, son of El Dorado, in his quest against the antagonist Aguirre. The game's storyline expands on the blend of Incan mythology and science fiction elements introduced in the first game, delving deeper into themes of immortality and the clash between ancient cultures and modern technology. This progression sets the stage for further exploration of these motifs in potential future installments.
+
+Mechanically, Inca II: Nations of Immortality evolves the series by incorporating more sophisticated graphics and sound design, leveraging the capabilities of CD-ROM technology to include full-motion video sequences and enhanced audio. The introduction of action-oriented gameplay elements, such as space combat, alongside traditional adventure puzzles, marks a significant departure from the more straightforward approach of the first Inca game. This evolution in gameplay would likely influence the direction of subsequent titles in the series, potentially leading to even more complex and varied interactive experiences.
+
+The narrative and mechanical advancements in Inca II: Nations of Immortality position it as a pivotal entry in the Inca series, bridging the gap between the foundational elements established by the first game and the potential directions that future sequels could take. As the series continues, it is likely that characters like Atahualpa and themes of cultural clash and technological advancement will remain central, possibly evolving to incorporate new mythologies or historical references while maintaining the unique blend of adventure and action that defines Inca II.
+
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information
