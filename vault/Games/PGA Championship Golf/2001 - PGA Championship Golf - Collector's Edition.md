@@ -10,14 +10,14 @@ series: PGA Championship Golf
 engine: TrueSwing 3
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-02-17'
 description: PGA Championship Golf Collectors Edition represents the definitive compilation
   of Sierra Sports' acclaimed golf simulation franchise, released in late...
 tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collectors Edition
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: February 17, 2026</small>
 
 ## Overview
 
@@ -285,23 +285,23 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 [^ref-7]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – developer, ratings, version history, user-created courses
 [^ref-8]: [SPOnG – Sierra Sports Press Release](https://spong.com/press_release/343/Sierra-Sports-Brings-Season-and-Career-Tour-Play-To-Award-Winning-PGA-Championship-Golf) – Vance Cook quote, features list, Father's Day release
 [^ref-9]: [Amazon – PGA Championship Golf 2000](https://www.amazon.com/PGA-Championship-Golf-2000-PC/dp/B00004RJXQ) – platforms, game modes, course count; mouse swing learning feature
-[^ref-10]: [CDMag (Archived) – PGA Championship Golf 2000](https://web.archive.org/web/20030709140515/http://www.cdmag.com/articles/028/071/pgacg2k.html) – PGA Championship Golf 2000](https://web.archive.org/web/20030709140515/http://www.cdmag.com/articles/028/071/pgacg2k.html) – professional golf simulation concept
+[^ref-10]: [CDMag (Archived) – PGA Championship Golf 2000](https://web.archive.org/web/20030709140515/http://www.cdmag.com/articles/028/071/pgacg2k.html) – professional golf simulation concept
 [^ref-11]: [MobyGames – PGA Championship Golf 2000](https://www.mobygames.com/game/2991/pga-championship-golf-2000/) – official description, quick start feature; 86% critics average, GameSpy award
-[^ref-12]: [CDMag (Archived) – Sierra Golf Announcement](https://web.archive.org/web/20030530112900/http://www.cdmag.com/articles/027/040/sierra_golf.html) – Sierra Golf Announcement](https://web.archive.org/web/20030530112900/http://www.cdmag.com/articles/027/040/sierra_golf.html) – season/career modes, pricing, release dates
+[^ref-12]: [CDMag (Archived) – Sierra Golf Announcement](https://web.archive.org/web/20030530112900/http://www.cdmag.com/articles/027/040/sierra_golf.html) – season/career modes, pricing, release dates
 [^ref-13]: [Eurogamer – PGA Championship Golf 2000 Review](https://web.archive.org/web/20020811203230/http://eurogamer.net/content/pga2k) – 9/10 score, technical specs, player names workaround
-[^ref-14]: [CNET Gamecenter (Archived) – Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – TrueSwing praise, system requirements
+[^ref-14]: [CNET Gamecenter (Archived) – Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – TrueSwing praise, system requirements
 [^ref-15]: [IGN – PGA Championship Golf 2000 Announced](https://www.ign.com/articles/2000/03/31/pga-championship-golf-2000-announced) – physical engagement comparison
 [^ref-16]: [VOGONS Forum – PGA 2000 Compatibility](https://www.vogons.org/viewtopic.php?t=63536) – resolution requirements, Windows 10 issues
 [^ref-17]: [Game Over Online – PGA Championship Golf 2000 Review](https://www.game-over.net/review/june2000/pga2000/) – 88% score, technical issues, maximum resolution
 [^ref-18]: [GameSpot – PGA Championship Golf 2000 Review](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/review.html) – 8.9/10 score, voice cast, retail price
-[^ref-19]: [SportPlanet (Archived) – Mike Jacob Interview](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – Mike Jacob Interview](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – development goals, cut features, ReadyPlay
+[^ref-19]: [SportPlanet (Archived) – Mike Jacob Interview](https://web.archive.org/web/20010501103026/http://www.sportplanet.com/features/interviews/pgac2000/) – development goals, cut features, ReadyPlay
 [^ref-20]: [GameVortex – PGA Championship Golf 2000 Review](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – 95% score, Course Architect crashes, feature praise
 [^ref-21]: [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h) – user reviews, modern ratings, compatibility
 [^ref-22]: [The Digital Antiquarian](https://www.filfre.net/?s=PGA+Championship+Golf) – early PC golf game development history
-[^ref-23]: [CDMag (Archived) – Beta Test Announcement](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – Beta Test Announcement](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – beta tester recruitment
-[^ref-24]: [CDMag (Archived) – Beta Test Selection](https://web.archive.org/web/20030525184833/http://www.cdmag.com/articles/027/103/pga2000_beta.html) – Beta Test Selection](https://web.archive.org/web/20030525184833/http://www.cdmag.com/articles/027/103/pga2000_beta.html) – testing process, NDA requirements
+[^ref-23]: [CDMag (Archived) – Beta Test Announcement](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – beta tester recruitment
+[^ref-24]: [CDMag (Archived) – Beta Test Selection](https://web.archive.org/web/20030525184833/http://www.cdmag.com/articles/027/103/pga2000_beta.html) – testing process, NDA requirements
 [^ref-25]: [MobyGames – PGA Championship Golf Series](https://www.mobygames.com/group/11215/pga-championship-golf-series/) – series release history
-[^ref-26]: [CDMag (Archived) – PGA 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – PGA 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – patch details, bug fixes
+[^ref-26]: [CDMag (Archived) – PGA 2000 Patch](https://web.archive.org/web/20030525180922/http://www.cdmag.com/articles/029/066/pga2000.html) – patch details, bug fixes
 [^ref-27]: [GameSpot – Titanium Edition Release](http://www.gamespot.com/pc/sports/pgachampionshipgolf2000/news_2663592.html) – December release, pricing, new courses
 [^ref-28]: [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – patch version history, system requirements
 [^ref-29]: [Dynamix Golf Blog](https://dynamixgolf.wordpress.com/about/) – Larry Nelson quote on golf simulators

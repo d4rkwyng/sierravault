@@ -262,6 +262,11 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 - [Hint Book at Internet Archive](https://archive.org/stream/Police_Quest_3_Hint_Book/Police_Quest_3_Hint_Book_djvu.txt)[^ref-27]
 
 ## See Also
+
+### Series Continuity
+
+*The Kindred* represents the final chapter of Sonny Bonds' story arc, bringing his journey full circle with deeply personal stakes. Now married to Marie Wilkans and promoted to Sergeant, Sonny's world shatters when Marie is brutally attacked—an act connected to Michael Bains, brother of the Death Angel whom Sonny killed in Police Quest II. This entry concludes the Bonds trilogy, and designer Jim Walls' departure during development marked the end of an era for the series. Police Quest: Open Season would follow with an entirely new protagonist and setting, effectively rebooting the franchise under Daryl F. Gates' direction.
+
 - [[Police Quest Series]] - Series overview
 - [[1988 - Police Quest II - The Vengeance|← Previous: Police Quest II - The Vengeance]]
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|→ Next: Police Quest - In Pursuit of the Death Angel VGA]]

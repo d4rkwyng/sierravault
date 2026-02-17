@@ -146,6 +146,11 @@ The game's commitment to procedural accuracy created a template for serious game
 - [Internet Archive - Police Quest Hint Book](https://archive.org/stream/Police_Quest_1_Hint_Book/Police_Quest_1_Hint_Book_djvu.txt)[^ref-25]
 
 ## See Also
+
+### Series Continuity
+
+As the inaugural entry in the Police Quest series, *In Pursuit of the Death Angel* establishes the foundation for all subsequent games in the franchise. The game introduces protagonist Sonny Bonds, the fictional city of Lytton, and the series' hallmark emphasis on authentic police procedures. The arrest of drug lord Jesse Bains—the Death Angel—at the game's conclusion sets up the direct sequel, as Bains' escape from prison drives the plot of Police Quest II. The realistic procedural approach pioneered here would influence the entire series and eventually lead to the tactical SWAT spin-offs.
+
 - **VGA Remake:** [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 
 - [[1991 - Police Quest III - The Kindred]] – Final chapter of Sonny Bonds' story

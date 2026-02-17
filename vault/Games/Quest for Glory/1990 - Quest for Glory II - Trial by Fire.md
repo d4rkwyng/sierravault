@@ -156,6 +156,11 @@ This game has been included in the following collections:
 - [StrategyWiki – Quest for Glory II](https://strategywiki.org/wiki/Quest_for_Glory_II) – game guide[^ref-17]
 
 ## See Also
+
+### Series Continuity
+
+*Trial by Fire* deepens the Quest for Glory mythology while continuing the Hero's journey from Spielburg to the desert lands of Shapeir. The game introduces the Paladin class—earned through honorable actions—which becomes available in subsequent entries. The defeat of the wizard Ad Avis sets up a major plot thread; his dying plea to his "Dark Master" foreshadows his return as the vampire antagonist in Shadows of Darkness. The Hero's adoption by Sultan Harun al-Rashid elevates the protagonist from wandering adventurer to Prince of Shapeir, a status that carries through the rest of the series. As the only mainline entry never officially remade by Sierra, AGD Interactive's 2008 fan remake has become the definitive way to experience this pivotal chapter.
+
 - Fan Remake: Quest for Glory II VGA Remake ([[AGD Interactive]], 2008)
 - [[Quest for Glory Series]] - Series overview
 - [[1989 - Quest for Glory I - So You Want to Be a Hero|← Previous: Quest for Glory I - So You Want to Be a Hero]]

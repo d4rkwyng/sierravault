@@ -156,6 +156,11 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [Internet Archive - Video Review](https://archive.org/details/live-wire-police-quest-open-season)[^ref-42]
 
 ## See Also
+
+### Series Continuity
+
+*Open Season* marks a dramatic departure from the original Police Quest trilogy, abandoning Sonny Bonds and Lytton for an entirely new protagonist and setting. Under the guidance of former LAPD Chief Daryl F. Gates, the series shifted focus to Detective John Carey investigating brutal homicides in Los Angeles. This reboot embraced Sierra's photo-realistic technology and darker subject matter, reflecting Gates' vision of authentic police work rather than Jim Walls' procedural simulation approach. The game serves as a transitional entry, bridging the adventure game format of the original trilogy with the tactical action that would define the subsequent SWAT series.
+
 - [[Police Quest Series]] - Series overview
 - [[1992 - Police Quest - In Pursuit of the Death Angel VGA|← Previous: Police Quest - In Pursuit of the Death Angel VGA]]
 - [[1995 - Police Quest - SWAT|→ Next: Police Quest - SWAT]] (series evolved into tactical action)
