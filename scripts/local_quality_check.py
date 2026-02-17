@@ -88,9 +88,11 @@ def run_ollama_studio(prompt: str, model: str = None, timeout: int = 300) -> Opt
     """Run a prompt through Mac Studio's Ollama (70B models) via HTTP API.
     
     Uses subprocess curl for reliable Tailscale connectivity.
+    Falls back to local Ollama if Mac Studio is unavailable.
     """
     model = model or MAC_STUDIO_MODEL
     
+    # Try Mac Studio first
     try:
         payload = json.dumps({
             "model": model,
@@ -111,18 +113,19 @@ def run_ollama_studio(prompt: str, model: str = None, timeout: int = 300) -> Opt
             timeout=timeout + 10
         )
         
-        if result.returncode != 0:
-            return None
+        if result.returncode == 0:
+            response_data = json.loads(result.stdout)
+            response = response_data.get('response', '').strip()
+            if response:
+                return response
         
-        response_data = json.loads(result.stdout)
-        return response_data.get('response', '').strip()
-        
-    except subprocess.TimeoutExpired:
-        return None
-    except json.JSONDecodeError:
-        return None
-    except Exception:
-        return None
+    except (subprocess.TimeoutExpired, json.JSONDecodeError, Exception):
+        pass
+    
+    # Fallback to local Ollama
+    print(f"Mac Studio unavailable, falling back to local Ollama...")
+    local_model = "qwen2.5-coder:32b" if "70b" in model.lower() else "llama3.2:3b"
+    return run_ollama(prompt, model=local_model, timeout=timeout)
 
 
 def check_ollama_available() -> bool:
