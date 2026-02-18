@@ -216,6 +216,13 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 - [VGMRips – MSX2 OPLL Music Pack](https://vgmrips.net/packs/pack/fire-hawk-thexder-the-second-contact-msx2-opll)
 
 ## See Also
+
+Fire Hawk: Thexder - The Second Contact builds upon the foundations laid by its predecessor, Thexder, with significant improvements in gameplay mechanics and narrative depth. The game's protagonist, Fire Hawk, represents an evolution of the transforming robot technology first introduced in Thexder, with enhanced speed and firepower that allows for more dynamic combat experiences. As a direct sequel, Fire Hawk: Thexder - The Second Contact continues the story where Thexder left off, introducing new challenges and enemies as the player navigates through increasingly difficult missions to prevent an alien threat from destroying Earth.
+
+The gameplay in Fire Hawk: Thexder - The Second Contact refines the core concepts of its predecessor, incorporating new features such as upgradable weapons, in-game dialogue, and an expanded soundtrack. These enhancements contribute to a more engaging and immersive experience, setting the stage for further innovations in the series. In contrast to Thexder, Fire Hawk: Thexder - The Second Contact offers a more polished and refined gameplay experience, with smoother controls and more varied level design that challenges players in different ways.
+
+As the series progresses to Thexder 95, the groundwork laid by Fire Hawk: Thexder - The Second Contact becomes apparent, with continued emphasis on fast-paced action, strategic combat, and narrative progression. Thexder 95 would go on to introduce even more significant changes and improvements, building upon the successes of Fire Hawk: Thexder - The Second Contact and further solidifying the Thexder series as a benchmark for action games of its era. Through its enhancements and refinements, Fire Hawk: Thexder - The Second Contact plays a crucial role in the evolution of the series, bridging the gap between the original Thexder and the advancements seen in Thexder 95.
+
 - [[1985 - Thexder|← Previous: Thexder]]
 - [[1995 - Thexder 95|→ Next: Thexder 95]]
 

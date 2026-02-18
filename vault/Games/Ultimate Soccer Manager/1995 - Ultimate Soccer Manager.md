@@ -133,6 +133,14 @@ Despite plans for Ultimate Soccer Manager 2000 with an advanced 3D match engine,
 
 The series maintains an active community of enthusiasts who continue to create tools, patches, and updates for modern systems[^ref-47]. Projects like the USM 9899 Tweaker demonstrate ongoing interest in preserving and extending the games' functionality[^ref-32]. The games' availability on preservation sites like MyAbandonware and Internet Archive ensures continued access for new players and nostalgic fans[^ref-48].
 
+## See Also
+
+The original Ultimate Soccer Manager set the stage for the series, introducing players to the immersive world of football management simulation. As the first entry in the series, it laid the groundwork for the narrative and mechanical elements that would be expanded upon in subsequent games, including Ultimate Soccer Manager 2. The game's focus on the English leagues and its innovative approach to sports management simulation, including the incorporation of controversial elements like match-fixing and player bribing, established a unique tone for the series.
+
+The gameplay mechanics introduced in Ultimate Soccer Manager, such as the icon-driven interface and the ability to manage various aspects of the club, including team selection, tactical setup, and commercial operations, would undergo significant evolution in Ultimate Soccer Manager 2. The next game in the series built upon the foundation established by its predecessor, introducing new features and refining existing ones to create a more immersive and realistic football management experience. As players progressed through the series, they would notice improvements in the game's engine, including enhanced graphics and sound, as well as expanded coverage of European football leagues.
+
+The narrative thread that runs throughout the Ultimate Soccer Manager series is largely driven by the player's decisions and their consequences, with each game building upon the story and characters introduced in the previous entry. While there is no direct narrative connection between the games, the series as a whole tells the story of a football manager's journey from humble beginnings to ultimate success. The protagonist, the football club manager, faces various challenges and opportunities throughout the series, including navigating the complex world of football management, dealing with player transfers, contract negotiations, media interviews, and stadium development. As the series progresses, the manager must adapt to new circumstances and make tough decisions to achieve both financial success and sporting glory.
+
 ## References
 
 [^ref-1]: [Abandonware DOS - Ultimate Soccer Manager Game Page](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Ultimate+Soccer+Manager&gid=1730) – - Game description and overview

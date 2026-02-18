@@ -193,6 +193,13 @@ The game's design choices, including the significantly higher difficulty with on
 - [LaunchBox Games Database – Images](https://gamesdb.launchbox-app.com/games/images/4622-stellar-7-draxons-revenge)[^ref-13]
 
 ## See Also
+
+Stellar 7: Draxon's Revenge builds upon the narrative foundation established in Nova 9: The Return of Gir Draxon, where the tyrannical overlord Gir Draxon's return to power sets the stage for a desperate struggle between humanity and the Arcturan Empire. This game introduces new gameplay mechanics, such as improved graphics and fully narrated cutscenes, which enhance the overall experience while maintaining the core tank simulation elements that define the series. The story follows the player's character, a courageous pilot of the Raven super-tank, as they battle across seven alien worlds to ultimately confront Draxon on Arcturas.
+
+The gameplay in Stellar 7: Draxon's Revenge evolves from its predecessors by incorporating polygon models, CD audio, and higher difficulty levels, making it a more challenging and immersive experience. The introduction of texture-mapped graphics and full CD sound contributes to a richer gaming environment, drawing players deeper into the conflict against the Arcturan Empire. As the series progresses towards Stellar-Fire, these advancements lay the groundwork for future innovations in gameplay and storytelling.
+
+In terms of narrative continuity, Stellar 7: Draxon's Revenge bridges the gap between Nova 9: The Return of Gir Draxon and the forthcoming Stellar-Fire by concluding the story arc involving Gir Draxon's resurgence and humanity's fight for survival. The game's conclusion sets the stage for new challenges and adventures in the Stellar 7 universe, potentially introducing new characters, plot twists, and gameplay mechanics that will further expand the series' lore and gameplay scope in Stellar-Fire.
+
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 

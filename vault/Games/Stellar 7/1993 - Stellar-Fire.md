@@ -192,6 +192,13 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 - [Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf)[^ref-13]
 
 ## See Also
+
+Stellar-Fire builds upon the narrative foundation established in Stellar 7 - Draxon's Revenge, where the evil Draxon empire was first introduced as a formidable threat to humanity. In Stellar-Fire, the player takes on the role of the Raven Pilot, tasked with defeating the Draxon forces that have conquered over ten thousand worlds and are now threatening Earth. The game's storyline directly follows the events of Draxon's Revenge, with the player's mission to attack the heart of Draxon territory and disable their defenses by conquering five fortified moons orbiting the homeworld of Arctura.
+
+Mechanically, Stellar-Fire evolves the simulation gameplay of its predecessor by introducing polygon-based 3D graphics and a run-and-gun strategy that challenges players to navigate hostile environments while battling enemy forces. The game's control scheme, although limited by the Sega CD's three-button controller configuration, adds a new layer of complexity to the series' traditional gameplay formula. As the series progresses, these mechanical advancements will likely influence the development of subsequent entries, such as the next game in the Stellar 7 series.
+
+The events and gameplay mechanics of Stellar-Fire will likely have a significant impact on the narrative and design of future Stellar 7 games, potentially introducing new characters, plot twists, and gameplay innovations that build upon the foundations established in Stellar-Fire. As the player's actions in Stellar-Fire determine the fate of humanity, the consequences of their success or failure will undoubtedly shape the direction of the series, setting the stage for new challenges and adventures in the next installment of the Stellar 7 series.
+
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
 
 ## References

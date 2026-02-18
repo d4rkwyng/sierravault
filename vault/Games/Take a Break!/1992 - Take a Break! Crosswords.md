@@ -180,6 +180,14 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 **Manuals & Extras**
 - Built-in 65-page crossword dictionary included with software[^ref-6]
 
+## See Also
+
+Take a Break! Crosswords connects to the broader Take a Break! series by introducing players to a variety of puzzle challenges that would become a hallmark of the franchise. As the first entry in the series, it sets the stage for subsequent games like Take a Break! Pinball, which would build upon the casual gaming concept with different types of puzzles and gameplay mechanics. The success of Take a Break! Crosswords, with its 375 crossword puzzles licensed from Dell Magazine, laid the groundwork for the series' expansion into other puzzle genres.
+
+The narrative thread between Take a Break! Crosswords and future entries in the series is relatively loose, given the focus on puzzle-solving over storytelling. However, the presence of animated characters like Wanda, who hosts the game and provides commentary, adds a touch of personality that would be continued in later games with their own unique hosts and themes. Mechanically, Take a Break! Crosswords innovates with its use of digitized speech, sound effects, and animated graphics, features that would evolve and improve in subsequent Take a Break! titles.
+
+In terms of gameplay evolution, Take a Break! Crosswords establishes the foundation for future puzzle games in the series by offering multiple difficulty settings, various puzzle sizes, and interactive features such as auto-checking and hints. These elements would be refined and expanded upon in later games, including Take a Break! Pinball, which introduces fast-paced pinball action to the series' repertoire of casual gaming experiences. By building on the success of Take a Break! Crosswords, Sierra On-Line was able to create a diverse portfolio of puzzle games that catered to different tastes and preferences within the burgeoning casual gaming market.
+
 ## References
 
 [^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details

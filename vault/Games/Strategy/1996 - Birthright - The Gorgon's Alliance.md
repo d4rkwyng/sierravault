@@ -119,6 +119,14 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 - [MyAbandonware](https://www.myabandonware.com/game/birthright-the-gorgon-s-alliance-cov)[^ref-74]
 - [Internet Archive](https://archive.org/details/msdos_Birthright_-_The_Gorgons_Alliance_1996)[^ref-75]
 
+## See Also
+
+Birthright: The Gorgon's Alliance builds upon the foundation laid by its predecessor, High Seas Trader, by introducing a new level of complexity and depth to the series. While High Seas Trader focused on trading and exploration, Birthright expands the scope to include turn-based strategy, real-time tactical combat, and first-person dungeon exploration, setting a new standard for the series. This evolution in gameplay mechanics would later influence the development of Space Bucks, which incorporated similar strategic elements into its own unique blend of space exploration and trading.
+
+The narrative of Birthright: The Gorgon's Alliance also lays the groundwork for the events of Space Bucks, as the player's actions as the Regent of Anuire have far-reaching consequences that shape the world of Cerilia. Although Space Bucks takes place in a vastly different setting, the themes of exploration, strategic management, and conquest are carried forward, demonstrating a clear continuity in design philosophy between the two games. The success of Birthright's hybrid design, which combined elements of strategy, RPGs, and adventure games, likely informed the development of Space Bucks' own innovative blend of gameplay mechanics.
+
+In terms of mechanical evolution, Birthright: The Gorgon's Alliance represents a significant leap forward from High Seas Trader, with its introduction of real-time 3D graphics and tactical combat. This focus on immersive gameplay and strategic depth would become a hallmark of the series, with Space Bucks pushing the boundaries even further by incorporating new technologies and design principles. By examining the connections between these games, it becomes clear that each entry in the series built upon the successes and lessons learned from its predecessors, ultimately contributing to a rich and diverse gaming legacy.
+
 ## References
 
 [^ref-1]: Collection Chamber. "Birthright: Gorgon Alliance." Accessed January 9, 2026. https://collectionchamber.blogspot.com/p/birthright-gorgon-alliance.html

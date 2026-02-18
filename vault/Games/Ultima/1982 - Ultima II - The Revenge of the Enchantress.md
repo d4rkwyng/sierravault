@@ -228,6 +228,14 @@ The game's historical significance lies in several areas: it demonstrated that R
 **Manuals & Extras**
 - Cloth map included with original retail release[^ref-1]
 
+## See Also
+
+Ultima II: The Revenge of the Enchantress connects narratively to its predecessor, Ultima I, as it follows the aftermath of the hero's defeat of the evil wizard Mondain and introduces Minax, Mondain's apprentice and lover, who seeks revenge for her master's death. Mechanically, Ultima II builds upon the foundation established in Ultima I by introducing new features such as time travel and exploration across multiple time periods on Earth. The game's use of a cloth map, a first for the series, also sets it apart from its predecessor.
+
+In terms of gameplay evolution, Ultima II lays the groundwork for future entries in the series, including the next game, Ultima - Escape from Mt. Drash, by experimenting with new mechanics such as time doors and space travel. Although Ultima - Escape from Mt. Drash is not a direct sequel to Ultima II, it continues the tradition of innovation and risk-taking that defines the Ultima series. The success of Ultima II, despite its mixed reception, allowed Richard Garriott to found Origin Systems, which would go on to develop many more iconic games in the series.
+
+The narrative of Ultima II is self-contained, with the player's quest to defeat Minax concluding within the game itself, but its themes and mechanics have a lasting impact on the series. The introduction of time travel and the idea of exploring multiple worlds or dimensions would become a staple of the Ultima series, influencing games to come. As such, Ultima II serves as a crucial link between the early days of the series and its future developments, showcasing the creativity and ambition that would come to define the Ultima franchise.
+
 ## References
 
 [^ref-1]: [Wikipedia – Ultima II: The Revenge of the Enchantress](https://en.wikipedia.org/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – release dates, developers, publishers, platforms, reviews, sales data, awards, development notes, trivia, bugs

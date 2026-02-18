@@ -327,6 +327,13 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 - [Half-Life PS2 Manual](https://archive.org/details/hl_ps2_pdf) – PlayStation 2 version manual
 
 ## See Also
+
+Half-Life connects narratively to its predecessors through its immersive storytelling approach, which set a new standard for first-person shooters. Although there are no direct narrative connections to previous games in the series, Half-Life's focus on storytelling and character development paved the way for future entries. The game's protagonist, Gordon Freeman, is introduced as a theoretical physicist working at the Black Mesa Research Facility, and his actions drive the plot forward.
+
+Mechanically, Half-Life built upon the foundations laid by earlier first-person shooters, introducing advanced artificial intelligence and environmental puzzle-solving to the genre. The game's success can be seen as a culmination of the evolution of FPS gameplay up to that point, and it in turn influenced the development of future games, including its own sequel, Half-Life 2, and expansion packs like Half-Life - Opposing Force. Half-Life - Opposing Force, in particular, continues the story of Half-Life from a different perspective, following the character of Adrian Shephard as he navigates the aftermath of the Resonance Cascade.
+
+The connection between Half-Life and Half-Life - Opposing Force is also evident in their shared game engine, GoldSrc, which allowed for the creation of immersive and interactive environments. The events of Half-Life set the stage for the story of Half-Life - Opposing Force, which explores the experiences of other characters during the same time period. By playing both games, players can gain a deeper understanding of the Half-Life universe and its complex narrative, which spans multiple games and storylines.
+
 - [[1999 - Half-Life - Opposing Force|→ Next: Half-Life - Opposing Force]]
 
 ## References

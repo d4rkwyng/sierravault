@@ -245,6 +245,13 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - [ModDB](https://www.moddb.com/games/deathmatch-classic) - Community modifications and downloads
 
 ## See Also
+
+Deathmatch Classic serves as a unique entry in the Half-Life series, bridging the gap between Ricochet and Half-Life - Blue Shift by showcasing Valve's ability to craft engaging multiplayer experiences. While Ricochet introduced players to a physics-based multiplayer game, Deathmatch Classic builds upon this concept by recreating the classic Quake deathmatch experience using the GoldSrc engine. This mechanical evolution sets the stage for the more narrative-driven expansions like Half-Life - Blue Shift, which would later focus on single-player storytelling and character development.
+
+In terms of gameplay, Deathmatch Classic's use of the GoldSrc engine allowed for enhanced graphics capabilities compared to its predecessors, including shinier textures and improved lighting. However, this also introduced some differences in character movement and lighting that have been noted by players as making the game "not feel quite right" compared to the original Quake. Despite these differences, Deathmatch Classic's multiplayer component laid groundwork for future Valve titles, including the next entry in the series, Half-Life - Blue Shift, which would go on to refine the single-player experience.
+
+The connection between Deathmatch Classic and Half-Life - Blue Shift is also evident in their shared use of character models, such as Gordon Freeman, Gina Cross, and Scientist characters, which were drawn from the Half-Life universe. These characters, although lacking unique abilities or story significance in Deathmatch Classic, would play a more central role in the narrative-driven gameplay of Half-Life - Blue Shift. Overall, Deathmatch Classic's blend of classic arena shooter gameplay with modern graphics capabilities helped pave the way for the series' continued evolution and experimentation with different genres and gameplay styles.
+
 - **Related:** [[1998 - Half-Life]]
 - **Related:** [[2000 - Counter-Strike]]
 - **Related:** [[2001 - Half-Life - Blue Shift]]

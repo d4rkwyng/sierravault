@@ -181,6 +181,14 @@ The game's influence extended beyond its immediate series. The similar World at 
 - [PlayOldGames](https://playold.games/play-game/v-for-victory-battleset-1-d-day-utah-beach-1944/) - Browser playable
 - [PlayClassicGames](https://playclassic.games/games/turn-based-strategy-dos-games-online/play-v-victory-battleset-1-d-day-utah-beach-1944-online/) - Browser playable
 
+## See Also
+
+V for Victory - D-Day Utah Beach builds upon the foundations established by its predecessor, The Charge of the Light Brigade, by refining the turn-based strategy formula and introducing more complex and realistic military simulations. While The Charge of the Light Brigade focused on a specific historical event, V for Victory expands the scope to include a broader range of scenarios and gameplay mechanics, such as the sophisticated supply simulation and hex-based terrain system. This evolution in design and gameplay sets the stage for the series' future entries.
+
+The game's narrative and setting, focusing on the D-Day invasion of Utah Beach and the subsequent battle for the Cotentin Peninsula, provide a unique and immersive experience that draws players into the world of World War II military strategy. As the Allied Commander, players must navigate the challenges of overcoming strong German resistance to achieve strategic objectives, such as capturing the vital port facilities at Cherbourg. This scenario-driven approach allows players to engage with historical events in a deeper and more meaningful way, laying the groundwork for the more expansive and complex scenarios that would be introduced in later series entries, including Global Domination.
+
+In terms of mechanical evolution, V for Victory - D-Day Utah Beach introduces significant innovations, such as the two-phase turn system and the detailed supply line management, which become a hallmark of the series. These advancements in gameplay design and simulation fidelity are further refined and expanded upon in subsequent titles, including Global Domination, which builds upon the foundations established by V for Victory to create an even more comprehensive and engaging strategy experience. The success of V for Victory - D-Day Utah Beach in balancing accessibility with depth and complexity also influences the development of future series entries, ensuring that the games remain appealing to both casual and hardcore strategy fans.
+
 ## References
 
 [^ref-1]: [MobyGames – V for Victory: Battleset 1 - D-Day Utah Beach - 1944](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/) – developer, publisher, designers, platforms, release dates, ratings, technical specs, version history

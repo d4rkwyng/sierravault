@@ -112,6 +112,14 @@ The title represents an important entry in Sierra's diverse portfolio during the
 - [MyAbandonware](https://www.myabandonware.com/game/high-seas-trader-24p)
 - [Internet Archive](https://archive.org/details/msdos_High_Seas_Trader_1995)
 
+## See Also
+
+High Seas Trader breaks away from the sci-fi setting of its spiritual predecessor, Alien Legacy, and instead plunges players into the 17th century world of maritime trade and adventure. While Alien Legacy focused on intergalactic exploration and colonization, High Seas Trader narrows its scope to the high seas, challenging players to rise through the ranks of the merchant's guild by mastering trade routes, combat, and economic management. This shift in setting and gameplay mechanics allows for a fresh start, with new opportunities for strategic depth and historical immersion.
+
+As players navigate the complexities of naval trade and combat in High Seas Trader, they will develop skills that will serve them well in the next installment of the series, Birthright - The Gorgon's Alliance. Although Birthright - The Gorgon's Alliance moves away from the maritime focus of High Seas Trader, it retains the strategic depth and complexity that defines the series, with players taking on the role of a ruler seeking to expand their kingdom through diplomacy, trade, and conquest. The gameplay evolution from High Seas Trader to Birthright - The Gorgon's Alliance is marked by a shift from a primarily economic focus to a more comprehensive approach that incorporates political and military strategy.
+
+The connection between High Seas Trader and Birthright - The Gorgon's Alliance is also evident in their shared emphasis on strategic decision-making and resource management. In High Seas Trader, players must carefully manage their ship's crew, supplies, and cargo to succeed in the competitive world of maritime trade, while in Birthright - The Gorgon's Alliance, players must balance the needs of their kingdom, managing resources, diplomacy, and military strength to achieve victory. This continuity in gameplay mechanics and themes creates a sense of cohesion between the two games, despite their differences in setting and focus.
+
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – - Game description and premise

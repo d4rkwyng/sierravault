@@ -195,6 +195,14 @@ The game's historical significance lies not in its gameplay contributions—whic
 **Manuals & Extras**
 - Original documentation is extremely rare due to limited production run
 
+## See Also
+
+Ultima: Escape from Mt. Drash follows the narrative thread of Ultima II - The Revenge of the Enchantress, albeit loosely, as it shares a common universe but lacks direct storyline connections. The game's setting, Mt. Drash, is named after a dungeon in Ultima I, and the creatures known as "garrintrots" may be a nod to series creator Richard Garriott, suggesting a tenuous link to the mainline series. However, the gameplay mechanics and narrative elements diverge significantly from the traditional Ultima experience.
+
+In terms of gameplay evolution, Ultima: Escape from Mt. Drash introduces real-time exploration and combat, which would later become a staple of the action RPG genre, but its implementation is rudimentary compared to future entries in the series. The game's use of first-person dungeon crawling and top-down combat views also predates similar mechanics found in later Ultima titles, such as Ultima III - Exodus, which would refine these concepts and integrate them more seamlessly into the series' narrative framework.
+
+The next entry in the series, Ultima III - Exodus, would build upon the foundations laid by its predecessors, offering a more cohesive narrative and refined gameplay mechanics that would come to define the Ultima series. While Ultima: Escape from Mt. Drash may seem like an outlier in terms of its connection to the mainline series, it represents an experimental phase in the evolution of the Ultima franchise, one that would ultimately contribute to the development of more sophisticated and engaging gameplay experiences in subsequent titles.
+
 ## References
 
 [^ref-1]: [Wikipedia – Ultima: Escape from Mt. Drash](https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) – release date, developer, publisher, technical specifications, sales data, trivia, development history, advertising information

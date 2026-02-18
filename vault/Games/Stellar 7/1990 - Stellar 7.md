@@ -263,6 +263,13 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 - [Internet Archive – Draxon's Revenge Manual](https://archive.org/details/Stellar_7_Draxons_Revenge_1993_Dynamix_US)
 
 ## See Also
+
+Stellar 7 serves as the foundational title in the series, introducing key elements such as the protagonist Raven Pilot and the overarching conflict against the Arcturan Empire led by Gir Draxon. This initial installment sets the stage for the events of Nova 9 - The Return of Gir Draxon, where the narrative of Gir Draxon's escape and eventual return is explored in greater depth. Mechanically, Stellar 7 pioneers the use of vector graphics and first-person tank combat, laying the groundwork for future innovations in the series.
+
+The success of Stellar 7, both critically and commercially, paved the way for its inclusion in the broader Sierra lineup, influencing the development of subsequent titles. The game's challenging gameplay and linear structure, while straightforward, provided a solid base upon which later games could expand and evolve. As the series progresses towards Nova 9 - The Return of Gir Draxon, players can expect to see refinements in gameplay mechanics, possibly including more complex level designs and enemy AI, as well as a deeper exploration of the Stellar 7 universe.
+
+The narrative thread begun in Stellar 7, particularly the escape of Gir Draxon, is directly picked up in Nova 9 - The Return of Gir Draxon, indicating a strong continuity between the games. This sequel likely builds upon the foundational story elements introduced in Stellar 7, such as the conflict with the Arcturan Empire and the role of the Raven Pilot, potentially introducing new characters and plot twists while maintaining the core identity of the series. Through this progression, the Stellar 7 series demonstrates a commitment to evolving its gameplay and narrative, offering fans a rich and expansive universe to explore.
+
 - **Arctic Fox** (1986): A spiritual successor using similar mechanics in an Arctic setting
 - **Nova 9: The Return of Gir Draxon** (1991): Direct sequel continuing the conflict with Draxon
 - **Stellar 7: Draxon's Revenge** (1993): 3DO remake/sequel with enhanced graphics and voice acting

@@ -275,6 +275,13 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 - [Steam Conversion Patch](http://www.nextdimension.org/gunmantosteam/) – Community patch for Steam compatibility[^ref-43]
 
 ## See Also
+
+Gunman Chronicles stands as a unique entry in the broader context of first-person shooters developed around the turn of the millennium, particularly those leveraging the GoldSrc engine. While it follows the competitive multiplayer focus of Counter-Strike, Gunman Chronicles diverges by offering a rich single-player campaign with a blend of science fiction and Wild West elements. The game's narrative, centered around Major Archer's quest to uncover the truth behind the Xenomes and the betrayal of his commanding officer, offers a distinct storyline that, while not directly connected to Counter-Strike, showcases the versatility of the GoldSrc engine in supporting diverse gameplay experiences.
+
+Mechanically, Gunman Chronicles builds upon the foundation established by earlier GoldSrc titles, incorporating innovative features such as an extensive weapon customization system. This evolution in gameplay mechanics sets the stage for future titles that would further experiment with player choice and customization. However, unlike Ricochet, which would later introduce a unique blend of action and sports elements, Gunman Chronicles remains firmly rooted in traditional first-person shooter territory, albeit with its distinctive thematic twist.
+
+The connection between Gunman Chronicles and Ricochet is more about the shared heritage of innovation and risk-taking that defined Sierra's publishing efforts during this period. While Ricochet would go on to offer a radically different gameplay experience, focusing on high-speed action and competitive multiplayer, Gunman Chronicles' blend of narrative depth and shooter mechanics represents an important step in the evolution of first-person shooters. Both games, in their own ways, contributed to the diversity and richness of the gaming landscape at the turn of the century, with Gunman Chronicles standing out for its ambitious storytelling and immersive gameplay environments.
+
 - [[2000 - Counter-Strike|← Previous: Counter-Strike]]
 - [[2000 - Ricochet|→ Next: Ricochet]]
 

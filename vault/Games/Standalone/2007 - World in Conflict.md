@@ -299,6 +299,14 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 **Manuals & Extras**
 - [Internet Archive - Strategy Guide](https://archive.org/details/World_in_Conflict_Strategy_Guide)
 
+## See Also
+
+World in Conflict diverges significantly from its spiritual predecessor, Arcanum, in both narrative and gameplay. While Arcanum was a role-playing game set in a fantasy world with deep character customization and exploration, World in Conflict is a real-time tactics game focused on strategic combat and unit deployment in a Cold War-era setting. The two games share little in common beyond their publisher, Sierra Entertainment, which had shifted its focus toward more action-oriented and tactical experiences by the time World in Conflict was released.
+
+In terms of narrative continuity, there isn't a direct connection between Arcanum and World in Conflict, as they belong to different genres and settings. However, both games reflect Sierra's commitment to delivering high-quality, engaging stories, whether through the detailed world-building of Arcanum or the authentic military thriller quality of World in Conflict, crafted by best-selling author Larry Bond. The success of World in Conflict in blending strategy and action elements influenced the direction of future tactical games, even if it didn't directly spawn a sequel within the same universe.
+
+The gameplay evolution from Arcanum to World in Conflict represents a significant shift toward more streamlined, action-packed experiences. While Arcanum delved deep into character development and party management, World in Conflict eliminates base-building and resource gathering, focusing entirely on tactical combat decisions. This shift reflects broader trends in game design at the time, with many developers seeking to create more accessible, fast-paced experiences that appealed to a wide audience. Despite the lack of a direct sequel, the innovative approach of World in Conflict to real-time tactics has left a lasting impact on the genre, influencing later games in the strategic and tactical spaces.
+
 ## References
 
 [^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info

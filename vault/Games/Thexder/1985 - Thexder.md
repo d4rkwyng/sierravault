@@ -122,6 +122,13 @@ The game's influence on the action genre is evident in how it "paved the way for
 - [Internet Archive](https://archive.org/details/msdos_Thexder_1987)
 
 ## See Also
+
+Thexder connects to the broader series narrative through its introduction of a transforming robot protagonist, which would become a hallmark of the franchise. The gameplay mechanics of switching between robot and jet modes to navigate levels and combat enemies laid the groundwork for future titles, including Fire Hawk - Thexder - The Second Contact. In this next entry, players can expect evolved transformations and possibly new forms, building upon the foundational dual-armor concept presented in Thexder.
+
+The narrative of Thexder, focusing on a mission to destroy a central computer to save the planet, sets a precedent for futuristic, sci-fi oriented storylines that would be explored in subsequent series entries. The success of Thexder, particularly its smooth animation and fast scrolling, influenced not only the development of Fire Hawk - Thexder - The Second Contact but also other action games of the era, such as Contra and Metal Slug. This impact underscores Thexder's significance as a pioneering title in the run-and-gun genre.
+
+Mechanically, Thexder's auto-targeting laser beams, rechargeable energy system, and transformative abilities established a baseline for innovation in the series. Fire Hawk - Thexder - The Second Contact is likely to build upon these mechanics, possibly introducing new weapons, more complex level designs, or enhanced transformation capabilities. By understanding the core gameplay and narrative elements of Thexder, fans can anticipate how the series might evolve while maintaining its unique identity and appeal.
+
 - [[1989 - Fire Hawk - Thexder - The Second Contact|→ Next: Fire Hawk - Thexder - The Second Contact]]
 
 ## References

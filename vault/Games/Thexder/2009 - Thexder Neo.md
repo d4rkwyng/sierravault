@@ -214,6 +214,13 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 - Physical copies rare for PSP version
 
 ## See Also
+
+Thexder Neo builds upon the foundation established by its predecessor, Thexder 95, by refining the transforming robot mechanic and introducing new gameplay modes. The remake's narrative follows the same basic premise as the original, with the player controlling the Hyper Dual Armor prototype Thexder as it navigates through maze-like levels to destroy the ultramagnetic field generator that has trapped the starship Laevina. This continuity in storytelling allows for a seamless transition from Thexder 95, while the updated graphics and new features provide a fresh experience for both old and new fans of the series.
+
+In terms of gameplay evolution, Thexder Neo expands on the core mechanics introduced in Thexder 95 by adding a novice mode, six-player online races, and revamped graphics. The game's auto-targeting laser system and transforming mechanic have been retained from the original, but with tweaks to make them more accessible to modern players. However, the punishing difficulty that defined the original game remains, with no continues, no saves, and no lives, making it a challenging experience for even the most seasoned gamers.
+
+Thexder Neo's connections to future entries in the series are less clear, as the game's release marked a turning point in the franchise's history. However, its influence can be seen in later games that have attempted to revive the classic shooter genre, incorporating elements such as transforming robots and challenging difficulty levels. The Thexder series has continued to evolve over time, with each new entry building upon the foundations established by its predecessors, including Thexder 95 and Thexder Neo, to create a unique and engaging gaming experience.
+
 - [[1985 - Thexder|← Original: Thexder]] - First game in the series
 - [[1989 - Fire Hawk - Thexder - The Second Contact]] - Direct sequel
 - [[1995 - Thexder 95]] - Windows remake of the original

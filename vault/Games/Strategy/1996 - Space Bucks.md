@@ -172,6 +172,14 @@ Impressions Games would go on to achieve greater success with their city-buildin
 - [Old-Games.com](https://www.old-games.com/download/5568/space-bucks) - Download link available
 - [Classic Reload](https://classicreload.com/win3x-space-bucks.html) - Browser playable version
 
+## See Also
+
+Space Bucks marks a significant departure from the previous game in the series, Birthright - The Gorgon's Alliance, which focused on strategic conquest and diplomacy in a fantasy setting. In contrast, Space Bucks is a business simulation game set in space, where players must navigate the complexities of intergalactic trade and commerce to build a successful empire. This shift in focus reflects the evolving interests of gamers in the 1990s, who were increasingly drawn to games that offered complex economic systems and strategic depth.
+
+As the series continues with The Rise & Rule of Ancient Empires, it becomes clear that Space Bucks was an experimental title that allowed Sierra to explore new gameplay mechanics and genres. While The Rise & Rule of Ancient Empires returns to a more traditional strategy game format, it builds upon some of the economic and management systems introduced in Space Bucks. For example, the game's emphasis on resource management and infrastructure development owes a debt to the planetary development and trade route planning mechanics in Space Bucks. Additionally, the character of Damon Slye, who designed Space Bucks, likely influenced the design of The Rise & Rule of Ancient Empires, which features similar attention to detail and complexity in its gameplay systems.
+
+The connections between Space Bucks and The Rise & Rule of Ancient Empires are also evident in their shared focus on strategic planning and long-term thinking. In Space Bucks, players must balance short-term needs with long-term goals, such as expanding their fleet and developing new trade routes. Similarly, in The Rise & Rule of Ancient Empires, players must manage the growth and development of their civilization over time, making decisions about resource allocation, infrastructure development, and military conquest. By building on the foundations established in Space Bucks, The Rise & Rule of Ancient Empires offers a more refined and polished gameplay experience that reflects the evolution of strategy games in the late 1990s. Furthermore, the game's designer, David Lester, who also worked on Space Bucks, brought his expertise in designing complex economic systems to The Rise & Rule of Ancient Empires, resulting in a game that features a deep and engaging gameplay mechanic.
+
 ## References
 
 [^ref-1]: [eBay Listing](https://www.ebay.com/itm/267099826308) – Game objective description

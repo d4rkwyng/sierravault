@@ -262,6 +262,14 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 
 **Note:** The game is not currently available on GOG, Steam, or other modern digital storefronts. A community wishlist campaign on GOG.com continues to advocate for an official release[^ref-23].
 
+## See Also
+
+Alien Legacy builds upon the foundation established by its predecessor, Global Domination, by introducing a new layer of complexity to the real-time strategy genre. The game's focus on colonizing a distant star system and uncovering the mysteries of an alien threat creates a narrative thread that can be seen as a spiritual successor to the themes of global conquest and resource management found in Global Domination. Although Alien Legacy does not directly continue the story of Global Domination, its gameplay mechanics and setting mark a significant evolution in the series.
+
+The game's real-time strategy elements, such as city construction, research, and resource management, lay the groundwork for the next entry in the series, High Seas Trader. While High Seas Trader would shift its focus towards naval trade and exploration, the core principles of managing resources and balancing competing priorities remain a common thread throughout the series. Alien Legacy's introduction of a sci-fi setting and the need to manage colonies across a star system also sets the stage for more complex and expansive game worlds in future entries.
+
+In terms of narrative continuity, Alien Legacy's story of humanity's struggle against an alien threat and the quest to colonize a new star system creates a rich and immersive universe that, while not directly connected to Global Domination or High Seas Trader, explores similar themes of exploration, management, and survival. The game's protagonist, the captain of the UNS Calypso, must navigate the challenges of establishing a human presence in a hostile alien environment, a storyline that can be seen as a precursor to the types of strategic decision-making and resource management that would become hallmarks of the series.
+
 ## References
 
 [^ref-1]: [MobyGames – Alien Legacy](https://www.mobygames.com/game/1234/alien-legacy/) – ratings, credits, technical specs, user reviews, version information

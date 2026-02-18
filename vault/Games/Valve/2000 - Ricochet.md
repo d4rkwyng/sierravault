@@ -200,6 +200,13 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Ricochet) - Technical fixes and compatibility information[^ref-15]
 
 ## See Also
+
+Ricochet's development as a free modification for Half-Life showcases Valve's experimentation with the GoldSrc engine, which was also used in the previous game Gunman Chronicles. The gameplay mechanics of Ricochet, such as its focus on disc combat and platforming, represent a significant departure from the more traditional first-person shooter elements found in Gunman Chronicles. This shift in gameplay style demonstrates Valve's willingness to explore new ideas and push the boundaries of what was possible with the GoldSrc engine.
+
+The release of Ricochet in 2000 marked an important milestone for Valve, as it laid the groundwork for future multiplayer-focused titles like Deathmatch Classic. Although Ricochet's abstract aesthetic and simple premise may seem unusual compared to other games in the series, its influence can be seen in the development of later Valve titles that emphasized competitive multiplayer gameplay. The game's use of powerups and unique disc combat mechanics also foreshadowed the innovative gameplay elements that would become a hallmark of Valve's future releases.
+
+Ricochet's connection to Deathmatch Classic is particularly notable, as both games share a focus on fast-paced multiplayer action and competitive gameplay. While Ricochet's emphasis on platforming and disc combat sets it apart from Deathmatch Classic's more traditional deathmatch format, both games demonstrate Valve's commitment to creating engaging and challenging multiplayer experiences. The evolution of gameplay mechanics and design principles from Ricochet to Deathmatch Classic highlights Valve's ongoing efforts to refine and improve their approach to multiplayer game development.
+
 - [[2000 - Gunman Chronicles|← Previous: Gunman Chronicles]]
 - [[2001 - Deathmatch Classic|→ Next: Deathmatch Classic]]
 

@@ -190,6 +190,14 @@ The game's influence can be traced through the entire 4X genre—from later titl
 **Fan Recreations**
 - [JoeStrout's Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – HTML5 browser playable
 
+## See Also
+
+Galactic Empire serves as a foundational title in the Galactic Saga series, laying down key elements that would be built upon in subsequent games. The game's innovative approach to space strategy, including its realistic travel times and lack of faster-than-light communication, set it apart from other titles of the era and influenced the development of later 4X games. As the first entry in the series, Galactic Empire introduces players to the role of Emperor Tawala, who must navigate the challenges of interstellar conquest within a strict time limit.
+
+The game's mechanics, such as its text-based interface and real-time gameplay, were pioneering for its time and provided a unique experience that challenged players to manage resources, fleets, and planetary development simultaneously. While Galactic Empire was groundbreaking in many ways, its technical limitations on the 16KB TRS-80 platform meant that future titles would need to address these constraints to offer more complex and engaging gameplay. The next entry in the series, The Ancient Art of War at Sea, would likely build upon the strategic depth introduced in Galactic Empire, potentially incorporating new mechanics or settings to further enrich the player's experience.
+
+As the series progresses towards The Ancient Art of War at Sea, it is likely that the gameplay will evolve to include more nuanced naval warfare elements, possibly introducing new ship types, tactical considerations, and even different environments such as coastal or open ocean battles. The transition from a purely space-based strategy in Galactic Empire to a potentially more terrestrial focus in The Ancient Art of War at Sea suggests a significant shift in gameplay mechanics, one that could introduce entirely new challenges and strategic possibilities for players to explore. Emperor Tawala's legacy may continue in some form, or the series may introduce new protagonists, but the core theme of strategic conquest and empire-building is likely to remain a central element throughout.
+
 ## References
 
 [^ref-1]: [MobyGames – Galactic Empire (1979)](https://www.mobygames.com/game/53448/galactic-empire/) – release dates, platforms, developer credits, technical specifications, ratings

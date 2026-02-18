@@ -115,6 +115,13 @@ The original Xbox 360 version may no longer be available for purchase on the Xbo
 The original Xbox 360 XBLA version may no longer be available due to marketplace changes. Digital-only releases from this era face preservation challenges.
 
 ## See Also
+
+The release of Carcassonne marked a significant step in Sierra's strategy to bring established board games to digital platforms, following the success of earlier titles like Gin Rummy. This game built upon the foundation laid by its predecessors, introducing players to a new style of turn-based strategy gameplay that emphasized tile placement and landscape building. The inclusion of "The River" expansion from launch also showcased Sierra's commitment to enhancing the core game experience with additional content.
+
+In terms of narrative connection, Carcassonne does not have a direct storyline, but its medieval setting and gameplay mechanics laid the groundwork for future titles in the XBLA series, such as Lost Cities. The game's focus on strategic decision-making and multiplayer competition also set the stage for the more complex gameplay mechanics that would be introduced in subsequent games. By adapting a popular board game to the Xbox 360, Sierra demonstrated its ability to balance faithfulness to the original material with the needs of a console audience.
+
+The evolution of gameplay from Gin Rummy to Carcassonne and eventually to Lost Cities reflects Sierra's experimentation with different genres and mechanics within the XBLA series. While Gin Rummy represented a more straightforward adaptation of a classic card game, Carcassonne introduced players to a new type of strategic gameplay that required planning and adaptability. Lost Cities would further build upon this foundation, incorporating new themes and challenges that appealed to fans of both board games and video games. Through these releases, Sierra established itself as a key player in the digital board game market, paving the way for future adaptations and innovations.
+
 - [[2006 - Gin Rummy]] (Sierra Online Shanghai)
 - [[2008 - Lost Cities]] (Sierra Online Shanghai)
 
