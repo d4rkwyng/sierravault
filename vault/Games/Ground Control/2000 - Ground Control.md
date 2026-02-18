@@ -251,6 +251,12 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 
 ## See Also
 
+The original Ground Control game sets the stage for the series, introducing players to a gritty, realistic world of real-time tactics where resource gathering and base building are eschewed in favor of intense, squad-based combat. This departure from traditional RTS mechanics was further explored in its expansion pack, Dark Conspiracy, which expanded on the story and gameplay introduced in Ground Control. The success of Ground Control paved the way for its sequel, Ground Control II: Operation Exodus, which built upon the foundations laid by the first game, refining the tactical combat and storytelling that defined the series.
+
+Ground Control's narrative, which follows Major Sarah Parker and Deacon Jarrod Stone as they navigate a complex conflict between the Crayven Corporation and the Order of the New Dawn, lays the groundwork for the events of Ground Control II: Operation Exodus. The mysterious alien artifacts and the secrets they hold are central to the plot of both games, with Ground Control providing the initial spark that ignites the larger conflict explored in the sequel. Mechanically, Ground Control's focus on tactical combat and squad management was a significant innovation at the time of its release, influencing the development of subsequent games in the series.
+
+The evolution from Ground Control to Ground Control II: Operation Exodus is marked by refinements to the gameplay mechanics introduced in the first game, as well as an expansion of the series' narrative scope. While Dark Conspiracy expanded on the story and gameplay of Ground Control, Ground Control II: Operation Exodus represents a more significant leap forward, building on the foundations established by the original game to create a more complex and engaging real-time tactics experience. The connections between these games are evident in their shared universe, characters, and the ongoing struggle for power and survival that defines the Ground Control series.
+
 - [[2000 - Ground Control - Dark Conspiracy|→ Next: Ground Control - Dark Conspiracy]]
 
 ## References

@@ -214,6 +214,12 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 
 ## See Also
 
+Sid & Al's Incredible Toons builds upon the foundations laid by its predecessor, The Incredible Machine, by introducing a new layer of whimsy and cartoon chaos to the series' signature puzzle-solving gameplay. The game's protagonist duo, Sid E. Mouse and Al E. Cat, serve as both central characters and integral components in the elaborate Rube Goldberg-style contraptions that players must construct to progress through the game. By replacing the pseudo-realistic contraptions of The Incredible Machine with cartoon elements, Sid & Al's Incredible Toons offers a fresh spin on the series' formula.
+
+The gameplay mechanics in Sid & Al's Incredible Toons also lay the groundwork for future innovations in the series, particularly in The Even More Incredible Machine. The introduction of programmable "Pro-Parts" and the robust puzzle editor allow for greater complexity and customization in puzzle design, setting the stage for even more intricate and challenging contraptions in subsequent games. Furthermore, the game's use of a physics simulator engine adds a new layer of realism to the cartoon world, making the interactions between characters and objects feel more dynamic and engaging.
+
+As the series continues with The Even More Incredible Machine, players can expect an even greater emphasis on creative puzzle-solving and intricate contraption design. The success of Sid & Al's Incredible Toons in perfecting the concept introduced by The Incredible Machine means that future games will likely build upon this foundation, incorporating new characters, parts, and gameplay mechanics to further evolve the series. With its unique blend of cartoon humor and challenging puzzles, Sid & Al's Incredible Toons serves as a pivotal entry in the Incredible Machine series, offering a fun and engaging experience that sets the stage for the innovations to come in The Even More Incredible Machine.
+
 - [[1992 - The Incredible Machine|← Previous: The Incredible Machine]]
 - [[1993 - The Even More Incredible Machine|→ Next: The Even More Incredible Machine]]
 - [[Jeff Tunnell]] - Creator

@@ -243,14 +243,6 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 **Manuals & Extras**
 - [Official Hint Guide (itch.io)](https://transolar-games.itch.io/hero-u-rogue-to-redemption-hint-guide)
 
-## See Also
-
-Hero-U: Rogue to Redemption connects narratively to its spiritual predecessors through its blend of adventure gaming, role-playing elements, and immersive storytelling, echoing the distinctive style of Lori Ann Cole and Corey Cole's earlier work on the Quest for Glory series. Mechanically, it evolves from the point-and-click interface of classic Sierra games, incorporating RPG elements such as character statistics and skill progression, which sets the stage for further evolution in subsequent titles like Mage's Initiation - Reign of the Elements. The game's focus on player choice and branching narratives also lays groundwork for a deeper exploration of character development and consequences in future series entries.
-
-In terms of specific connections to other games in the Spiritual Successors series, Hero-U: Rogue to Redemption follows the thematic lead of Bolt Riley - A Reggae Adventure in exploring unique protagonist backgrounds and motivations, albeit with a shift from music-driven narratives to fantasy adventure. Shawn O'Conner's journey as a rogue-turned-hero offers a fresh perspective on the hero's quest archetype, one that will likely influence the magical coming-of-age story told in Mage's Initiation - Reign of the Elements. The emphasis on character relationships, romantic options, and moral dilemmas in Hero-U also suggests a richer, more personal approach to storytelling that could be built upon in future series installments.
-
-The gameplay mechanics of Hero-U: Rogue to Redemption, including its isometric perspective, point-and-click controls, and turn-based combat, represent a modern interpretation of classic adventure RPG elements. As the series progresses towards Mage's Initiation - Reign of the Elements, it will be interesting to see how these mechanics evolve, potentially incorporating more dynamic combat systems, expanded character customization options, or innovative uses of magic and elemental interactions. The foundation laid by Hero-U in terms of narrative depth and player choice will likely play a significant role in shaping the overall direction and appeal of the Spiritual Successors series moving forward.
-
 ## References
 
 [^ref-1]: [Wikipedia – Hero-U: Rogue to Redemption](https://en.wikipedia.org/wiki/Hero-U%3A_Rogue_to_Redemption) – release dates, developers, engine, Metacritic score, development history

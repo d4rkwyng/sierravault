@@ -231,6 +231,12 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 
 ## See Also
 
+The release of 3-D Ultra Pinball - Thrill Ride marked a significant departure from the previous series entry, 3-D Ultra Lionel TrainTown Deluxe, which focused on train simulation rather than pinball. While the two games differ greatly in terms of gameplay mechanics, they share a common thread in their emphasis on immersive and interactive environments, with 3-D Ultra Pinball - Thrill Ride offering a vibrant amusement park setting. This shift towards more fast-paced and action-oriented gameplay laid the groundwork for future series entries, such as 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.
+
+In terms of narrative connections, 3-D Ultra Pinball - Thrill Ride does not feature a direct storyline or character progression, instead relying on its thematic setting to drive player engagement. However, the game's partnership with Hersheypark and incorporation of real-life attractions adds a layer of realism and authenticity that could potentially be built upon in future series entries. The lack of a traditional narrative also allowed the game to focus more on gameplay innovation, such as the introduction of Night-time Fantasy mode and the use of multiple tables.
+
+The evolution of gameplay mechanics in 3-D Ultra Pinball - Thrill Ride, including the use of flippers and tilt controls, paved the way for future innovations in the series. The Game Boy Color version's incorporation of rumble features and portable gameplay also demonstrated the potential for 3D Ultra games to be enjoyed on a variety of platforms. As the series continued with 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition, players could expect even more exciting developments in terms of gameplay and interactive environments, building on the foundations established by 3-D Ultra Pinball - Thrill Ride.
+
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|← Previous: 3-D Ultra Lionel TrainTown Deluxe]]
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|→ Next: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 

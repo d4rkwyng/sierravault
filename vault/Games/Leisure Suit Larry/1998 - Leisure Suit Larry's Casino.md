@@ -177,6 +177,12 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 
 ## See Also
 
+Leisure Suit Larry's Casino connects narratively to its predecessor, Leisure Suit Larry 7 - Love for Sail, through the inclusion of characters from the earlier game as selectable player avatars and non-player characters throughout the casino. This continuity allows players familiar with the series to interact with beloved characters in a new context, while also introducing these personalities to new players. The game's focus on casino management and social interaction marks a significant departure from the adventure gameplay of Love for Sail, indicating a shift in Larry Laffer's priorities.
+
+Mechanically, Leisure Suit Larry's Casino builds upon the foundation laid by Sierra's earlier casino software, such as the Hoyle card game series, to create a unique gaming experience. The inclusion of online multiplayer functionality through Sierra's World Opponent Network (WON) adds a new layer of interactivity, allowing players to compete against each other in various casino games. This innovation sets the stage for future games in the series to incorporate similar features, potentially influencing the development of Leisure Suit Larry - Magna Cum Laude.
+
+Leisure Suit Larry's Casino also lays groundwork for the next entry in the series, Leisure Suit Larry - Magna Cum Laude, by exploring new gameplay mechanics and themes that may be revisited or expanded upon in subsequent games. Although Magna Cum Laude returns to the adventure genre, the social and interactive elements introduced in Casino may have influenced the design of its predecessor's multiplayer and character interaction features. The evolution of Larry Laffer's character, from a hapless romantic protagonist to a casino manager, also suggests that the series is open to experimenting with new roles and settings for its beloved hero.
+
 - **Previous (Main Series):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[Leisure Suit Larry Series]] - Series overview

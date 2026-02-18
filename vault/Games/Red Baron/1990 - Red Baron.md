@@ -250,6 +250,12 @@ Red Baron also represented an important step in the maturation of flight simulat
 
 ## See Also
 
+Red Baron connects narratively to its predecessors through its historical accuracy and attention to detail, setting the stage for a franchise that would explore various aspects of World War I aviation. Mechanically, it laid the groundwork for future flight simulators by introducing a custom flight physics engine and innovative career mode, where pilots could rise through the ranks and encounter legendary aces like Manfred von Richthofen. This foundation would be built upon in subsequent games, including Red Baron - Mission Builder, which expanded on the core gameplay by allowing players to create their own missions.
+
+The success of Red Baron was a significant factor in the development of Red Baron - Mission Builder, as it demonstrated the demand for more complex and customizable flight simulation experiences. By building on the career mode and historical accuracy of the original, Red Baron - Mission Builder offered players even greater control over their World War I aerial combat experience, allowing them to design and fly their own missions. This evolution in gameplay mechanics reflects the growing sophistication of the series and its commitment to providing immersive and realistic flight simulation.
+
+In terms of narrative continuity, Red Baron's focus on the Western Front and the experiences of Allied and German pilots during World War I creates a cohesive backdrop for the events and missions that unfold in Red Baron - Mission Builder. Players who progressed through the ranks in the original game would find themselves immersed in an even richer and more detailed world of aerial combat, with the ability to craft their own stories and challenges within the context of the Great War. The introduction of new aircraft types, missions, and gameplay features in Red Baron - Mission Builder further expands on the foundation established by Red Baron, solidifying the series' reputation for historical accuracy and engaging gameplay.
+
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
 

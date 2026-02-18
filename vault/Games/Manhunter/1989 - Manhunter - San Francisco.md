@@ -220,6 +220,12 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 
 ## See Also
 
+Manhunter - San Francisco continues the story of the unnamed Manhunter from the previous game, Manhunter - New York, with the protagonist crash-landing their stolen Orb ship in San Francisco and pursuing the serial killer Phil Cook. This narrative thread weaves together the events of the two games, as the player must navigate the alien-occupied city while maintaining their cover as a Manhunter working for the Orbs. The game's dystopian horror theme and first-person interface also build upon the foundations established in Manhunter - New York, offering a unique blend of puzzle-solving and exploration.
+
+The gameplay mechanics in Manhunter - San Francisco also demonstrate a clear evolution from the previous entry, with the introduction of a groundbreaking first-person perspective and a cursor-key or mouse-based control system. This departure from Sierra's traditional parser-based adventures allowed for a more immersive experience, with players able to explore the game world in a more intuitive and interactive way. The inclusion of minigames and puzzles also added a new layer of depth to the gameplay, setting the stage for future innovations in the adventure game genre.
+
+Although Manhunter - San Francisco was intended to be followed by a third game, which would have concluded the story of the unnamed Manhunter and their pursuit of Phil Cook, the series ultimately remained a duology. Despite this, the influence of the Manhunter series can be seen in later games, such as Ripper and Black Dahlia, which incorporated similar puzzle-solving and detective-based gameplay elements. The series' innovative approach to storytelling and gameplay also foreshadowed the success of later titles like Myst, which built upon the foundations established by the Manhunter series.
+
 - **Next:** Manhunter 3: London (Cancelled)
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
 

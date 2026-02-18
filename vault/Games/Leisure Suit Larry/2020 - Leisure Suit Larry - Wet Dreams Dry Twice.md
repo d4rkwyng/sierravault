@@ -126,6 +126,12 @@ The game also holds historical significance as Jan Rabson's final portrayal of L
 
 ## See Also
 
+Leisure Suit Larry - Wet Dreams Dry Twice continues the narrative thread established in its predecessor, Leisure Suit Larry - Wet Dreams Don't Dry, as Larry Laffer searches for his true love Faith across the Kalau'a archipelago. This installment builds upon the foundation laid by the previous game, with Larry's adventures becoming more complex and humorous as he navigates the challenges of modern relationships and island life. The story maintains the series' trademark blend of romantic comedy and sexual innuendo while updating the humor for contemporary audiences.
+
+The gameplay in Wet Dreams Dry Twice evolves from its predecessor, featuring a modern point-and-click control scheme with streamlined inventory management through Larry's PiPhone. This mechanic allows for easier navigation and interaction with the game's numerous locations and characters, making it more accessible to new players while still providing a challenging experience for fans of the series. The inclusion of mini-games and puzzles that follow logical patterns also enhances the gameplay, offering a fresh take on classic adventure game elements.
+
+As the conclusion to the "Wet Dreams" saga, Leisure Suit Larry - Wet Dreams Dry Twice sets the stage for potential future installments in the series, potentially introducing new characters and locations while maintaining the core spirit of the franchise. Although there is no direct sequel announced at this time, the game's narrative and mechanical developments provide a solid foundation for further adventures with Larry Laffer, ensuring that the Leisure Suit Larry series will continue to entertain audiences with its unique blend of humor and romance.
+
 - **Next:** None (most recent entry)
 
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin

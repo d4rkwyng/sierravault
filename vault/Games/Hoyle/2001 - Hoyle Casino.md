@@ -214,6 +214,12 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 
 ## See Also
 
+Hoyle Casino 2001 builds upon the foundation established by its predecessor, Hoyle Board Games, by transitioning from traditional board games to a comprehensive casino simulation experience. This shift is evident in the game's focus on authentic casino games, such as Baccarat and Video Blackjack, which were introduced in this edition. The improved tournament mode and character customization options also demonstrate a mechanical evolution from the previous entry.
+
+In terms of narrative connections, Hoyle Casino 2001 does not feature a traditional story, instead opting for a simulation-based experience where players create their own characters and interact with the virtual casino environment. This approach allows for a more immersive and dynamic experience, as players can explore the casino floor and participate in various games of chance and skill. The game's setting and atmosphere are designed to replicate the experience of an authentic casino, providing a unique and engaging experience for players.
+
+The gameplay mechanics and features introduced in Hoyle Casino 2001 laid the groundwork for future entries in the series, including Hoyle Kids Games. The emphasis on character customization, tournament modes, and authentic casino simulations would continue to evolve in subsequent games, with Hoyle Kids Games likely incorporating more family-friendly and accessible versions of these features. By building upon the successes of Hoyle Casino 2001, the series could cater to a broader audience and provide a range of engaging experiences for players of all ages and skill levels.
+
 - [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
 

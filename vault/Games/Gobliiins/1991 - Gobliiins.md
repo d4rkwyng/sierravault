@@ -257,6 +257,12 @@ The Gobliiins series spans five main entries across three decades, each with a d
 
 ## See Also
 
+Gobliiins sets the stage for the series, introducing players to the quirky world of point-and-click adventure and puzzle-solving with its unique blend of genres. The game's narrative follows the story of King Angoulafre's descent into madness, caused by a sinister villain using a voodoo doll, and the three goblins - Asgard, Ignatius, and Oups - who embark on a quest to save him. This initial installment establishes the series' tradition of featuring multiple playable characters with distinct abilities, a mechanic that would be refined in subsequent games.
+
+The gameplay mechanics introduced in Gobliiins, such as the simplified point-and-click interface and the requirement to coordinate the three goblins' abilities, laid the groundwork for the evolution of puzzle-solving in the series. The linear structure of 22 single-screen levels, where players must solve all puzzles before progressing, would also be built upon in future games. Gobliiins' influence can be seen in its sequel, Gobliins 2 - The Prince Buffoon, which expands on the multi-character mechanic and introduces new challenges and gameplay elements.
+
+Gobliins 2 - The Prince Buffoon continues the series' narrative thread, with the goblins facing new challenges and adversaries as they navigate the whimsical world. The game builds upon the foundations established in Gobliiins, introducing new characters and refining the puzzle-solving mechanics. As the series progresses, players can expect to see further evolution of the gameplay elements introduced in Gobliiins, including the use of multiple playable characters with unique abilities and the emphasis on creative problem-solving. The connection between Gobliiins and its sequel is evident in the continued use of the multi-character mechanic and the expansion of the series' quirky and humorous world.
+
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
 
 ## References

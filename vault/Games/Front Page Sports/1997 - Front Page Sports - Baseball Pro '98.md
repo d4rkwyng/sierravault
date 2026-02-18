@@ -232,6 +232,12 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 
 ## See Also
 
+Front Page Sports: Baseball Pro '98 builds upon the foundation established by its predecessor, Front Page Sports - Football Pro '97, by introducing a physics-based simulation engine that enhances the overall gameplay experience. Although the two games belong to different sports categories within the Front Page Sports series, they share a common thread in their focus on realistic simulations and deep management options. The success of Baseball Pro '98's approach would later influence the development of subsequent titles, including Front Page Sports - Football Pro '98, which incorporated similar physics-based elements and managerial depth.
+
+The narrative continuity between Baseball Pro '98 and Football Pro '97 is less direct, given the differences in sport and setting, but both games contribute to the broader Front Page Sports universe by emphasizing player control, strategy, and realistic simulations. Baseball Pro '98's Career Mode, where players can manage athletes from their rookie season to retirement, sets a precedent for long-term franchise management that would be explored further in Football Pro '98. The evolution of gameplay mechanics, such as the use of physics-based simulations and detailed statistics, also reflects a series-wide commitment to realism and depth.
+
+Mechanically, Baseball Pro '98 paved the way for future Front Page Sports titles by perfecting the blend of simulation and management. Its successor, Football Pro '98, would build upon these advancements, incorporating similar physics-based gameplay and enhancing the managerial aspects with new features and improved AI. The legacy of Baseball Pro '98 can be seen in how it influenced not just the immediate sequel but the broader direction of the series, emphasizing realism, depth, and player choice as core elements of the Front Page Sports experience.
+
 - [[1996 - Front Page Sports - Football Pro '97|← Previous: Front Page Sports - Football Pro '97]]
 - [[1997 - Front Page Sports - Football Pro '98|→ Next: Front Page Sports - Football Pro '98]]
 

@@ -111,6 +111,12 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 
 ## See Also
 
+3-D Ultra Pinball: Creep Night builds upon the foundations established by its predecessor, 3-D Ultra Pinball, by introducing a unique gothic horror theme and innovative gameplay mechanics that take advantage of being a video pinball game. The incorporation of animated skeletons, ghosts, and creepy crawlies across its haunted castle setting adds a new layer of depth to the series, while the mission-based objectives and hidden fourth table provide additional replay value. This evolution in gameplay and theme sets the stage for future entries in the series, including 3-D Ultra MiniGolf, which would further expand on the concept of immersive and interactive environments.
+
+The game's deliberate departure from traditional pinball simulations is a key factor in its connection to both previous and future titles in the series. By embracing the possibilities of video game design, Creep Night creates an experience that is distinct from physical pinball tables, with features such as animated creatures and special events that trigger based on ball placement and timing. This approach would influence subsequent games in the 3D Ultra series, including 3-D Ultra MiniGolf, which would incorporate similar innovative mechanics and immersive environments.
+
+As the series continues to evolve, 3-D Ultra Pinball: Creep Night serves as a pivotal entry, bridging the gap between the original 3-D Ultra Pinball and future titles like 3-D Ultra MiniGolf. The game's emphasis on atmosphere and interactive elements would become a hallmark of the series, with each subsequent entry building upon these foundations to create increasingly immersive and engaging experiences. By examining the connections between Creep Night and its predecessors and successors, it becomes clear that this game plays a crucial role in shaping the direction and tone of the 3D Ultra series as a whole.
+
 - [[1995 - 3-D Ultra Pinball|← Previous: 3-D Ultra Pinball]]
 - [[1997 - 3-D Ultra MiniGolf|→ Next: 3-D Ultra MiniGolf]]
 

@@ -197,6 +197,12 @@ The game's most significant contribution to gaming history may be its innovative
 
 ## See Also
 
+Cohort II: Fighting for Rome builds upon the foundation established by its predecessor, Discovery - In the Steps of Columbus, by shifting the focus from exploration to tactical warfare in ancient times. Although Discovery and Cohort II differ significantly in terms of gameplay mechanics, they share a common thread in their historical settings and emphasis on strategic decision-making. The skills and knowledge gained from navigating the challenges of discovery and exploration in the previous game can be applied to the battlefield tactics and strategies employed in Cohort II.
+
+The release of Cohort II: Fighting for Rome marked an important step in the evolution of Impressions' game design, particularly with its integration with other titles such as Caesar. This cross-game functionality allowed players to experience a more comprehensive and immersive gaming experience, resolving city battles from Caesar within the tactical framework of Cohort II. However, this approach also highlighted the limitations and frustrations of the game's control mechanics, which would be addressed in subsequent titles. The next entry in the series, WW2 Air Force Commander, would take a dramatically different approach, focusing on aerial combat and strategic command during World War II.
+
+In terms of narrative continuity, Cohort II: Fighting for Rome establishes a distinct historical context that explores the conflicts and expansion of the Roman Empire. While there is no direct narrative connection to Discovery - In the Steps of Columbus or WW2 Air Force Commander, the game's focus on military strategy and tactical decision-making sets the stage for the more modern and mechanically complex scenarios presented in WW2 Air Force Commander. The skills and strategic thinking developed through playing Cohort II can be applied to the fast-paced and dynamic environments of WW2 Air Force Commander, demonstrating a clear progression in gameplay complexity and historical setting across the series.
+
 - [[1992 - Discovery - In the Steps of Columbus|← Previous: Discovery - In the Steps of Columbus]]
 - [[1993 - WW2 Air Force Commander|→ Next: WW2 Air Force Commander]]
 

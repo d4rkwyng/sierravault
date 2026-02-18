@@ -215,14 +215,6 @@ From a modern perspective, the game serves as an important data point in underst
 **Developer Resources**
 - [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
 
-## See Also
-
-Wrath of Denethenor stands as a unique entry in the realm of fantasy role-playing games, drawing inspiration from titles like Ultima II and III while introducing its own set of complexities. The game's narrative, which follows an unnamed adventurer/scoundrel on their quest to defeat Lord Denethenor, is not directly connected to any preceding or succeeding games due to its standalone nature. However, the gameplay mechanics and design philosophy show a clear evolution from earlier RPGs, with innovations like a classless character system and dimension doors for inter-continental travel.
-
-In terms of mechanical evolution, Wrath of Denethenor builds upon the foundations laid by earlier RPGs, enhancing the top-down graphic tile perspective with its own brand of complexity. Although there is no direct narrative connection to the previous game, Kempelen, Wrath of Denethenor's gameplay innovations can be seen as part of a broader trend in RPG development during the mid-1980s. The game's influence can also be seen in later titles, albeit not directly in 3-D Helicopter Simulator, which marks a significant departure from the fantasy RPG genre.
-
-The absence of direct narrative connections between Wrath of Denethenor and its neighboring titles means that the game exists as a singular entity within Sierra's catalog. Despite this, the game's design and mechanics contribute to the broader landscape of RPG development during the 1980s, reflecting the era's experimentation with different genres and gameplay styles. As such, Wrath of Denethenor remains an interesting footnote in the history of fantasy role-playing games, offering insights into the evolutionary process of game design during a pivotal period in the industry's growth.
-
 ## References
 
 [^ref-1]: [Wikipedia – Wrath of Denethenor](https://en.wikipedia.org/wiki/Wrath_of_Denethenor) – development history, reviews, technical specifications, credits

@@ -241,14 +241,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – Technical development history[^ref-1]
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
 
-## See Also
-
-Kempelen, as a standalone title, does not directly connect to The Crimson Crown or Wrath of Denethenor in terms of narrative continuity, given its nature as a chess simulation program without a traditional story. However, it represents an interesting deviation in Sierra's publication lineup, showcasing the company's willingness to explore different genres and intellectual properties during the 1980s. This strategy title, focused on chess, demonstrates Sierra's attempt to cater to a broader audience interested in strategic gameplay.
-
-Mechanically, Kempelen stands out due to its use of custom 6502 Assembly, providing it with a unique technical footprint compared to other titles released around the same time. The game's top-down perspective and pseudo-3D feel, combined with animated piece movements and multiple difficulty settings, were innovative for its era, offering players an engaging chess experience. While The Crimson Crown and Wrath of Denethenor may boast their own advancements in gameplay mechanics, Kempelen's contribution lies in its specialized approach to strategy, emphasizing intellectual challenge over narrative progression.
-
-The absence of a direct sequel or prequel means that Kempelen does not evolve from or into the worlds of The Crimson Crown or Wrath of Denethenor. Instead, it exists as a singular entry in Sierra's catalog, notable for its historical reference to Wolfgang von Kempelen and his famous automaton, "The Turk." This nod to history adds a layer of depth to the game, making it more than just a chess simulator but also a tribute to the enduring fascination with mechanical intelligence and strategic competition. As such, Kempelen remains a fascinating footnote in the broader context of Sierra's publishing history, highlighting the company's diversity in game development and publication choices during its formative years.
-
 ## References
 
 [^ref-1]: [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – developer credits, tournament history, platforms, naming origin, development collaboration

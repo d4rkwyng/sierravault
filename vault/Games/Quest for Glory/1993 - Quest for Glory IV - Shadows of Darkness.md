@@ -224,6 +224,12 @@ This game has been included in the following collections:
 
 ## See Also
 
+Quest for Glory IV: Shadows of Darkness directly follows the events of Quest for Glory III: Wages of War, with the Hero being drawn from victory in Fricana to the hazardous Dark One Caves in Mordavia. This transition marks a significant shift in tone and setting, as the series moves from the brighter, more comedic world of Fricana to the darker, horror-inspired land of Mordavia. The game's story is heavily influenced by Slavic folklore and Lovecraftian horror, introducing players to a new cast of characters, including the mysterious Katrina and the villainous Ad Avis.
+
+Mechanically, Shadows of Darkness builds upon the graphical, point-and-click interface introduced in Quest for Glory III, with the addition of a new combat system featuring a sideways perspective and optional automatic computer-controlled battles. The game also introduces a day-night cycle with time-sensitive events, allowing players to explore the world of Mordavia in greater depth. These mechanical advancements lay the groundwork for the next entry in the series, Quest for Glory V: Dragon Fire, which would further refine the gameplay mechanics and introduce new features.
+
+The story of Shadows of Darkness sets the stage for the events of Quest for Glory V: Dragon Fire, as the Hero is summoned by the wizard Erasmus to the land of Silmaria, marking a new chapter in the series. The conclusion of Shadows of Darkness, which sees the defeat of Ad Avis and the Dark Master, also has significant implications for the larger narrative of the series, as the Hero's actions have a lasting impact on the world of Gloriana. As the series continues to evolve, players can expect to see new characters, locations, and gameplay mechanics, while still maintaining the core spirit of adventure and exploration that defines the Quest for Glory series.
+
 - [[Quest for Glory Series]] - Series overview
 - [[1992 - Quest for Glory III - Wages of War|← Previous: Quest for Glory III - Wages of War]]
 - [[1998 - Quest for Glory V - Dragon Fire|→ Next: Quest for Glory V - Dragon Fire]]

@@ -273,6 +273,12 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 
 ## See Also
 
+PGA Championship Golf - Collector's Edition builds upon the foundation established by its predecessor, PGA Championship Golf 2000, by introducing twelve new 18-hole courses and refining the gameplay mechanics. The TrueSwing technology, which had evolved to become a hallmark of the series, continued to innovate with its real-time mouse-based swing control system, allowing for a more immersive experience. This enhancement solidified the game's position as a leader in the golf simulation market, further distinguishing it from competitors like the Links LS series.
+
+The Collector's Edition also expanded on the legacy of the Front Page Sports Golf series, which had been rebranded under the PGA Championship banner after Sierra secured the prestigious PGA endorsement. By offering a comprehensive package with an expanded art library for the Course Architect and enhanced multiplayer linking technology, Sierra Sports catered to both new and veteran players, setting the stage for future entries in the series. The game's Career mode, which allowed players to guide their custom golfer through multiple seasons, was a notable feature that added depth to the gameplay experience.
+
+As the series progressed, it would eventually lead to the development of new titles that built upon the advancements made in PGA Championship Golf - Collector's Edition. Although the next game in the series is not directly mentioned, it is clear that the innovations and refinements introduced in the Collector's Edition would have a lasting impact on the evolution of the PGA Championship Golf series. The TrueSwing technology, in particular, would continue to be a key factor in the series' success, with future games likely building upon its foundations to create even more realistic and engaging golf simulation experiences.
+
 - [[2000 - PGA Championship Golf 2000 - Titanium Edition|← Previous: PGA Championship Golf 2000 - Titanium Edition]]
 
 ## References

@@ -203,6 +203,12 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 
 ## See Also
 
+The Hoyle Poker Series builds upon the foundation established by its predecessor, Hoyle Casino 3D, by refining the personality-driven AI opponents that were first introduced in earlier Hoyle titles. This evolution in AI design allows for more realistic and challenging gameplay experiences, as players must adapt their strategies to counter the unique playing styles of each opponent. The game's focus on poker simulation also sets the stage for future entries in the series, such as Hoyle Puzzle and Board Games, which would expand the brand's reach into new genres while maintaining the high standard of quality and authenticity that the Hoyle name represents.
+
+The transition from Hoyle Casino 3D to Hoyle Poker Series marks a significant shift in focus towards poker-specific gameplay, with the latter offering over 14 different playable poker variants. This increased variety and depth would later influence the development of Hoyle Puzzle and Board Games, which incorporated a wide range of puzzle and board game challenges under the Hoyle brand umbrella. By specializing in poker, the Hoyle Poker Series was able to capitalize on the popularity of the game during the mid-2000s, while also contributing to the overall growth and diversification of the Hoyle series as a whole.
+
+In terms of gameplay mechanics, the Hoyle Poker Series introduced several innovations that would become standard features in future Hoyle titles, including the dual-mode installation structure and online multiplayer capabilities. These advancements allowed players to engage in both solo practice sessions and competitive tournaments, further enhancing the game's replay value and social aspects. As the series continued to evolve with Hoyle Puzzle and Board Games, these mechanical foundations would be built upon, incorporating new genres and gameplay styles while retaining the core principles of accessibility, variety, and community that defined the Hoyle experience.
+
 - [[2005 - Hoyle Casino 3D|← Previous: Hoyle Casino 3D]]
 - [[2005 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

@@ -251,6 +251,12 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 ## See Also
 
+Gobliins 6: The Madmen of the Year 1000 serves as a direct sequel to Gobliins 2: The Prince Buffoon, reuniting the beloved duo Fingus and Winkle more than thirty years after their original adventure. This game builds upon the narrative foundation established in Gobliiins 5 - The Morgloton Invasion, although it directly follows the events of Gobliins 2, indicating a narrative leap within the series. The return to the two-goblin format was a deliberate creative choice to revisit the gameplay dynamic that made Gobliins 2 particularly popular among fans.
+
+Mechanically, Gobliins 6 evolves from its predecessors by utilizing the Adventure Game Studio engine, similar to Gobliiins 5, while maintaining the series' distinctive humor and charm. The game promises to deliver classic point-and-click gameplay with modern quality-of-life improvements, ensuring that players experience the best of both worlds. By revisiting the two-goblin cooperative puzzle format, Gobliins 6 aims to capture the spirit of classic adventure gaming that defined earlier entries in the series.
+
+As the series continues beyond Gobliins 6, it will be interesting to see how the narrative and gameplay elements introduced in this installment influence future games. Given the successful crowdfunding campaign and the positive response to the game's announcement, there is potential for further exploration of the Gobliiins universe, possibly delving deeper into the characters and worlds introduced in Gobliins 6. The next entry in the series may build upon the story of Fingus and Winkle as they face new challenges or perhaps introduce new protagonists, continuing the tradition of innovative puzzle design and engaging storytelling that defines the Gobliiins series.
+
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)
 
 ## References

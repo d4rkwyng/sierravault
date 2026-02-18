@@ -170,6 +170,12 @@ The game remains available through digital distribution platforms, included in t
 
 ## See Also
 
+Leisure Suit Larry 6: Shape Up or Slip Out! marks a significant return to form for the series, distancing itself from the narrative of Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work by not referencing its events and character of Passionate Patti. This fresh start allows players to dive into the game's world without prior knowledge, focusing on Larry Laffer's attempts to romance eight women at the La Costa Lotta health spa resort. The game's improved production values, including full voice acting and SVGA graphics in its enhanced CD-ROM version, set a new standard for the series.
+
+Mechanically, Larry 6 builds upon the foundations laid by its predecessors, refining the point-and-click interface and introducing separate "Use" and "Pick Up" functions for greater precision. The game's non-linear design, allowing players to complete most tasks in any order, was praised for creating a fun and dynamic adventure experience. This approach would influence subsequent entries, including Leisure Suit Larry 7 - Love for Sail, which continued the series' tradition of comedic storytelling and puzzle-solving. The reintroduction of death scenarios, albeit for comedic effect, added a layer of challenge and humor to the game.
+
+The success of Larry 6 paved the way for Leisure Suit Larry 7 - Love for Sail, which would further evolve the series' mechanics and narrative. Love for Sail built upon the non-linear design and puzzle complexity introduced in Larry 6, offering players an even more immersive and challenging experience. By understanding the connections between these games, fans can appreciate the series' evolution and the intentional design choices made by Al Lowe to create engaging and humorous adventures. The Leisure Suit Larry series continues to be celebrated for its light-hearted and comedic take on adventure gaming, with Larry 6 serving as a pivotal entry in the franchise's history.
+
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|← Previous: Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|→ Next: Leisure Suit Larry 7 - Love for Sail]]

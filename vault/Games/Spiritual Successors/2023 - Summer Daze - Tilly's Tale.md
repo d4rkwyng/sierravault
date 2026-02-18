@@ -241,14 +241,6 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 
 **Price:** $20.00 USD[^ref-10]
 
-## See Also
-
-Summer Daze: Tilly's Tale serves as a spiritual successor to the classic adventure games, connecting narratively to its predecessor Colossal Cave 3D Adventure through its immersive storytelling and character development. The game's focus on player choice and relationship building is reminiscent of the interactive elements found in earlier adventure games, while its visual novel format offers a fresh and accessible take on the genre. As a prequel and spiritual sequel to Hero-U: Rogue to Redemption, Tilly's Tale expands on the Hero University universe, introducing players to new characters like Tilly Appleberry and Sitari, and exploring themes of friendship and personal growth.
-
-The gameplay in Summer Daze: Tilly's Tale evolves from the traditional adventure game mechanics found in Colossal Cave 3D Adventure, adopting a more relaxed and story-driven approach. The visual novel format allows for a greater emphasis on character development and dialogue choices, creating a unique and engaging experience that differs from the puzzle-solving and exploration of earlier games. As the series continues to evolve, it will be interesting to see how future entries build upon the foundations established in Tilly's Tale, potentially incorporating new mechanics or features while maintaining the core focus on storytelling and player choice.
-
-In terms of narrative connections, Summer Daze: Tilly's Tale lays the groundwork for potential future games set within the Hero University universe, introducing characters and storylines that could be explored in greater depth. The game's ending, which is shaped by the player's choices throughout the story, may also have implications for subsequent entries in the series, potentially influencing the direction of future narratives or character arcs. As the Spiritual Successors series continues to grow, fans can expect to see further developments and expansions on the world and characters introduced in Tilly's Tale, with the next game in the series likely to build upon the foundations established in this charming and engaging visual novel adventure.
-
 ## References
 
 [^ref-1]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) – release date, developer, publisher, platforms, technical specifications, game description

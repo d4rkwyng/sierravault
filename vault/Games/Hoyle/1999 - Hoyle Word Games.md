@@ -193,6 +193,12 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 
 ## See Also
 
+Hoyle Word Games marks a departure from the traditional card and board games found in its predecessor, Hoyle Casino, by focusing on word-based puzzles and challenges. This shift in gameplay style allows players to engage with a variety of vocabulary and spelling tests, designed for family entertainment, while still maintaining the casual gaming format that the Hoyle series is known for. The game's inclusion of eight distinct word games, each with its own rules and objectives, provides a unique experience compared to the more straightforward casino games found in Hoyle Casino.
+
+The gameplay mechanics in Hoyle Word Games, such as the point-and-click interface and the variety of word puzzles, lay the groundwork for future innovations in the series. For example, the use of computer opponents with commentary and online multiplayer support through Won.net servers would later influence the design of subsequent Hoyle titles, including the next installment, Hoyle Casino. This sequel would build upon the foundation established by Hoyle Word Games, incorporating new features and gameplay elements while maintaining the core spirit of the series.
+
+In terms of narrative connections, Hoyle Word Games does not feature a traditional story structure, instead focusing on presenting players with various word-based challenges. However, the game's use of custom avatars created through the Facemaker tool and the interaction with computer opponents provide a sense of personality and character to the gameplay experience. This approach would be refined in later titles, such as Hoyle Casino, which would likely incorporate more developed characters and storylines while still maintaining the series' emphasis on casual, accessible gaming.
+
 - [[1999 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2000 - Hoyle Casino|→ Next: Hoyle Casino]]
 

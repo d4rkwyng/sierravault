@@ -157,6 +157,12 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 ## See Also
 
+EcoQuest: The Search for Cetus builds upon the foundation laid by its predecessor, introducing players to the importance of environmental ethics and marine conservation through the eyes of young Adam Greene. As the first game in the EcoQuest series, it establishes the narrative thread that will be continued in subsequent entries, including the next game, EcoQuest: Lost Secret of the Rainforest, where Adam's adventures will take him to new and exciting environments. The gameplay mechanics introduced in The Search for Cetus, such as the point-and-click interface and recycling icon, set the stage for the series' unique blend of education and adventure.
+
+The story of EcoQuest: The Search for Cetus revolves around Adam's quest to help his new dolphin friend, Delphineus, find the missing king of Eluria, Cetus, and save the underwater kingdom from pollution and destruction. This narrative arc not only teaches players about marine biology and conservation but also lays the groundwork for the character development and plot twists that will unfold in EcoQuest: Lost Secret of the Rainforest. As Adam navigates the challenges of Eluria, he begins to understand the interconnectedness of human actions and environmental consequences, a theme that will be further explored in the next game.
+
+The gameplay evolution from EcoQuest: The Search for Cetus to EcoQuest: Lost Secret of the Rainforest is marked by an increased emphasis on exploration and puzzle-solving, as Adam ventures into new and diverse ecosystems. The series' signature blend of education and adventure continues to evolve, incorporating new characters, plotlines, and environmental themes that build upon the foundation established in The Search for Cetus. As players progress through the series, they will encounter new and innovative gameplay mechanics, such as the expanded use of the recycling icon and the introduction of new cursor actions, which will further reinforce the importance of environmental awareness and conservation.
+
 - [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
 
 ## References

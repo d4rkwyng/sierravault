@@ -213,6 +213,12 @@ Abandonware archives and retro gaming communities continue maintaining access to
 
 ## See Also
 
+Hoyle Classic Board Games builds upon the foundation established by its predecessor, Hoyle Battling Ships and War, by expanding the series' focus on traditional games and introducing a new set of interactive opponents with distinct personalities. This shift towards more casual, family-friendly entertainment paved the way for future entries in the series, such as Hoyle Backgammon and Cribbage, which would further refine the formula and cater to a specific subset of players. The game's design philosophy, centered on faithful recreation rather than innovation, ensured that the time-honored gameplay of classic board games remained intact.
+
+The inclusion of familiar Sierra characters, such as Roger Wilco from Space Quest and King Graham from King's Quest, as computer opponents added a unique twist to the game and created delightful crossover appearances. This approach not only enhanced the entertainment value but also helped to establish the Hoyle series as a staple of Sierra's portfolio, alongside other iconic franchises. As the series progressed, this blending of characters and gameplay elements would become a hallmark of the Hoyle brand, setting it apart from other board game collections.
+
+Mechanically, Hoyle Classic Board Games laid the groundwork for future improvements in the series, particularly in terms of interface and multiplayer features. The game's user-friendly point-and-click interface and support for Internet multiplayer set a high standard for subsequent entries, such as Hoyle Backgammon and Cribbage, which would build upon these foundations and offer even more sophisticated gameplay experiences. By refining the formula and introducing new features, the Hoyle series continued to evolve and cater to the changing needs of its audience, ensuring its place as a beloved and enduring part of Sierra's legacy.
+
 - **Related:** [[1997 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 
 ## References

@@ -172,6 +172,12 @@ The game's mixed reception reflects the tensions between promising premises and 
 
 ## See Also
 
+Fort Apache connects narratively to its predecessor, Cohort: Fighting for Rome, through the shared theme of military conflict and strategic decision-making, although the settings and historical contexts differ significantly. The game's focus on turn-based strategy and tactical combat also builds upon the mechanical foundations established in earlier Impressions titles, such as Rorke's Drift and Charge of The Light Brigade. As the third entry in the Micro Miniatures series, Fort Apache refines the top-down perspective and unit command systems introduced in its predecessors.
+
+In terms of gameplay evolution, Fort Apache introduces expanded formation options and attack commands compared to earlier entries in the series, allowing for more varied and complex tactical scenarios. However, critics noted that these improvements were somewhat offset by persistent issues with the user interface and AI, which carried over from previous Micro Miniatures games. The game's historical premise and setting, centered on the American Gold Rush era, also provide a unique context for the strategic gameplay, distinguishing it from its predecessors.
+
+The narrative and mechanical developments in Fort Apache lay the groundwork for the next entry in the series, Merchant Colony, which shifts the focus towards economic strategy and colony management. Although the settings and core gameplay mechanics differ between the two titles, the emphasis on strategic decision-making and resource management provides a thread of continuity throughout the Impressions series. As players progress from the tactical combat of Fort Apache to the economic challenges of Merchant Colony, they will encounter new gameplay systems and themes that build upon the foundations established in earlier titles.
+
 - [[1991 - Cohort Fighting for Rome|← Previous: Cohort Fighting for Rome]]
 - [[1991 - Merchant Colony|→ Next: Merchant Colony]]
 

@@ -101,6 +101,12 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 
 ## See Also
 
+Pharaoh: A New Era builds upon the foundations laid by its predecessor, Cleopatra - Queen of the Nile, by refining the city-building mechanics and introducing updated graphics that allow for a more immersive experience. The remake stays true to the original Pharaoh's design while incorporating modern quality-of-life improvements, such as an optional global worker pool system similar to Zeus: Master of Olympus, which simplifies resource management. This evolution in gameplay mechanics sets the stage for potential future entries in the series to further expand upon these innovations.
+
+The connection between Pharaoh: A New Era and Cleopatra - Queen of the Nile is evident in their shared setting of ancient Egypt and the challenges that come with building and managing cities along the Nile River. The enhanced visualization of the river's flood cycles in Pharaoh: A New Era is a direct response to the complexities introduced in Cleopatra, demonstrating how the series has learned from its past iterations. Furthermore, the inclusion of new features like the zoom function and detailed artwork underscores the developer's commitment to enhancing the player's experience based on feedback from previous games.
+
+As the series continues, it will be interesting to see how future games build upon the advancements made in Pharaoh: A New Era, potentially incorporating even more complex city management systems or exploring different historical settings. The success of this remake could pave the way for remakes or sequels to other classic city-building games, such as Zeus: Master of Olympus, further enriching the genre with updated mechanics and graphics. By understanding the narrative and mechanical connections between Pharaoh: A New Era and its predecessors like Cleopatra - Queen of the Nile, fans can appreciate the series' evolution and look forward to what innovations future titles may bring.
+
 - [[1998 - Caesar III|Caesar III]] (1998)
 - [[1999 - Pharaoh|Pharaoh]] (1999) → **Pharaoh: A New Era** (2023 remake)
 - [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] (2000)

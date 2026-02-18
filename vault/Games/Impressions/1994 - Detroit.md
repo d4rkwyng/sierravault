@@ -222,6 +222,12 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 
 ## See Also
 
+Detroit builds upon the foundation established by its predecessor, WW2 Air Force Commander, by transitioning from a wartime-focused simulation to a civilian industry setting, where players must navigate the complexities of building an automotive empire. This shift from military to commercial applications marks a significant departure in gameplay tone and objectives, as players now focus on managing resources, research, and production to succeed in the competitive automobile market. The game's historical context and sandbox-style gameplay also lay the groundwork for future Impressions titles, including Front Lines, which would further explore the intersection of business management and historical events.
+
+In terms of narrative continuity, Detroit's storyline is more focused on the player's company history and the evolution of the automobile industry, rather than direct character or plot connections to previous games. However, the game's themes of strategic management, adaptability, and innovation are consistent with the Impressions series' overall approach to simulation gameplay. As players progress through the game's 100-year timeline, they must respond to major historical events and shifts in consumer demand, mirroring the kind of dynamic challenges presented in other Impressions titles.
+
+The gameplay mechanics in Detroit, such as its intuitive interface and turn-based structure, also serve as a bridge between earlier Impressions games and future releases like Front Lines. The game's emphasis on research and development, marketing, and production management would become hallmark features of the series, allowing players to engage with complex systems and make strategic decisions that impact their company's success. By refining these mechanics and incorporating historical context, Detroit helps establish the Impressions series as a leader in business simulation gameplay, paving the way for future innovations and challenges in titles like Front Lines.
+
 - [[1993 - WW2 Air Force Commander|← Previous: WW2 Air Force Commander]]
 - [[1994 - Front Lines|→ Next: Front Lines]]
 

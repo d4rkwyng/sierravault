@@ -252,6 +252,12 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 
 ## See Also
 
+Gobliins 2: The Prince Buffoon builds upon the foundations laid by its predecessor, Gobliiins, by introducing new mechanics that enhance cooperative puzzle-solving. The reduction of playable characters from three to two allows for more focused gameplay, with Fingus and Winkle's distinct personalities and abilities creating a fresh dynamic. This shift in character control also reflects the series' willingness to evolve and refine its formula, setting the stage for further innovations in subsequent titles like Goblins Quest 3.
+
+The narrative of Gobliins 2: The Prince Buffoon expands the Gobliiins universe, introducing new characters such as Modemus, who provides guidance to the protagonists, and Amoniak, the demon lord antagonist. The story's climax, where Fingus and Winkle confront Amoniak, showcases the series' ability to craft engaging, humorous narratives that balance lighthearted moments with challenging puzzles. This approach to storytelling would continue to be refined in Goblins Quest 3, which built upon the successes of its predecessors.
+
+Mechanically, Gobliins 2: The Prince Buffoon lays the groundwork for the advancements seen in Goblins Quest 3, particularly in terms of puzzle complexity and character interaction. The introduction of simultaneous character control and the ability to travel between rooms within each area added depth to the gameplay, features that would be further developed in the next installment. By refining these mechanics and narrative elements, the series maintained its unique identity while continuing to challenge and entertain players, a tradition that Goblins Quest 3 would uphold and expand upon.
+
 - [[1991 - Gobliiins|← Previous: Gobliiins]]
 - [[1993 - Goblins Quest 3|→ Next: Goblins Quest 3]]
 

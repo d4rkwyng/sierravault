@@ -190,6 +190,12 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 
 ## See Also
 
+Hoyle Puzzle Games connects narratively to its predecessor, Hoyle Casino Empire, through the continued commitment of Sierra Entertainment to producing high-quality casual gaming experiences under the Hoyle brand. Mechanically, the shift from casino-focused games to a diverse puzzle collection represents an evolution in gameplay style, offering players a broader range of challenges and activities. The inclusion of adjustable skill levels and high-score lists in Hoyle Puzzle Games also reflects a focus on accessibility and competitiveness that was present in earlier titles.
+
+In terms of narrative continuity, there is little direct connection between Hoyle Puzzle Games and its successor, Hoyle Board Games, as the series tends to focus more on the variety of games offered rather than overarching storylines. However, mechanically, the progression from puzzle games to board games indicates Sierra's ongoing effort to cater to a wide audience by exploring different genres within the casual gaming spectrum. The experience gained from developing and refining puzzle mechanics in Hoyle Puzzle Games likely influenced the design and implementation of board game adaptations in subsequent titles.
+
+The gameplay evolution from Hoyle Casino Empire to Hoyle Puzzle Games, and then to Hoyle Board Games, showcases Sierra's strategy of diversifying their offerings within the Hoyle series. By moving from casino games to puzzles and then to board games, the series demonstrates an ability to adapt and expand its appeal to different segments of the casual gaming market. This approach allowed the Hoyle brand to maintain relevance and attract new players with each iteration, ensuring the series remained a staple in the world of casual gaming.
+
 - [[2002 - Hoyle Casino Empire|← Previous: Hoyle Casino Empire]]
 - [[2003 - Hoyle Board Games|→ Next: Hoyle Board Games]]
 

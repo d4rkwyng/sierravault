@@ -163,14 +163,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [MyAbandonware](https://www.myabandonware.com/game/freddy-pharkas-frontier-pharmacist-1zb)
 - [Internet Archive](https://archive.org/details/msdos_Freddy_Pharkas_Frontier_Pharmacist_1993)
 
-## See Also
-
-Freddy Pharkas: Frontier Pharmacist stands alone in the Sierra lineup, but its release marked a significant shift in the company's approach to adventure games. Unlike Zeliard, which was an action-oriented title with RPG elements, Freddy Pharkas focused on point-and-click adventure gameplay and comedic storytelling, setting it apart from other series like King's Quest or Space Quest. This departure allowed Sierra to explore new themes and genres, as seen in the subsequent release of Pepper's Adventures in Time.
-
-The gameplay mechanics in Freddy Pharkas, such as the use of a command bar for interacting with environments and characters, built upon the foundation established by earlier Sierra titles like Zeliard. However, the incorporation of pharmaceutical puzzle-solving and historical context added a unique layer of depth to the game, distinguishing it from other adventure games of the time. In contrast, Pepper's Adventures in Time would introduce new gameplay elements, such as time travel and interactive historical events, further expanding the possibilities of the adventure genre.
-
-While Freddy Pharkas does not share direct narrative connections with Zeliard or Pepper's Adventures in Time, its impact on Sierra's design philosophy is evident in later titles. The success of Freddy Pharkas demonstrated that adventure games could thrive outside traditional fantasy or science fiction settings, paving the way for more diverse and innovative releases like Pepper's Adventures in Time. By exploring different genres and themes, Sierra continued to push the boundaries of interactive storytelling, ensuring a rich and varied legacy for their adventure game series.
-
 ## References
 
 [^ref-1]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Freddy_Pharkas:_Frontier_Pharmacist) – Development and publisher information

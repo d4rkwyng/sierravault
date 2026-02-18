@@ -188,6 +188,12 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 
 ## See Also
 
+Playtoons 2: The Case of the Counterfeit Collaborator builds upon the foundation established by its predecessor, Playtoons 1 - Uncle Archibald, by continuing to evolve the interactive storybook and creativity game formula. The game's narrative, based on the Spirou and Fantasio comic series, introduces new characters and plot points that expand the Playtoons universe, setting the stage for future entries in the series. Mechanically, Playtoons 2 refines the construction kit feature, allowing for more complex and engaging user-generated content.
+
+The connection to the next game in the series, Playtoons 3 - The Secret of the Castle, is evident in the continued refinement of the gameplay mechanics and the expansion of the creative tools. Playtoons 2 lays the groundwork for the more advanced features and storylines that will be introduced in Playtoons 3, creating a sense of continuity and progression throughout the series. By building upon the successes of Playtoons 1 and introducing new elements, Playtoons 2 helps to establish the series as a leader in interactive educational software.
+
+The Gob engine, used to power Playtoons 2, allows for smooth animation and interactive elements, enhancing the overall gameplay experience. The game's use of existing animated content from the Spirou and Fantasio cartoon series also helps to create a sense of familiarity and coherence within the Playtoons universe. As the series continues to evolve, the foundation established by Playtoons 2 will play a crucial role in shaping the direction of future entries, including Playtoons 3 - The Secret of the Castle.
+
 - Playtoons 1: Uncle Archibald (1994)[^ref-15]
 - Playtoons 2: The Case of the Counterfeit Collaborator (1995)[^ref-1]
 - Playtoons 3: The Secret of the Castle (1995)[^ref-16]

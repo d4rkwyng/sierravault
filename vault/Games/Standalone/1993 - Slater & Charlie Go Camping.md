@@ -97,14 +97,6 @@ The game continues to appear on GOG.com's community wishlist with over 102 votes
 - [DOS Zone - Browser Playable](https://dos.zone/slater-charlie-go-camping-may-19-1993/)[^ref-12]
 - [Play Classic Games - Browser Version](https://playclassic.games/games/educational-dos-games-online/play-slater-charlie-go-camping-online/)[^ref-14]
 
-## See Also
-
-While Slater & Charlie Go Camping does not directly continue the narrative of Pepper's Adventures in Time, it shares a common thread with other Sierra titles by incorporating educational elements and interactive storytelling. The game's focus on outdoor safety and nature appreciation is distinct from the time-traveling adventure of Pepper's Adventures in Time, but both games demonstrate Sierra's commitment to creating engaging and informative experiences for players. Mechanically, Slater & Charlie Go Camping builds upon the interactive storybook format, offering a more streamlined and accessible experience for young players.
-
-In terms of gameplay evolution, Slater & Charlie Go Camping lays the groundwork for future educational titles, including Battle Bugs, which would incorporate more complex puzzle mechanics and competitive elements. Although Battle Bugs differs significantly from Slater & Charlie Go Camping in terms of genre and tone, both games showcase Sierra's ability to adapt and innovate within the educational software market. The success of Slater & Charlie Go Camping as an interactive storybook likely influenced the development of subsequent titles, including Battle Bugs, which would go on to become a unique blend of strategy and education.
-
-The narrative and mechanical connections between Slater & Charlie Go Camping and other Sierra titles are largely thematic, with a focus on interactive storytelling and educational content. While the game does not directly influence the plot of Battle Bugs, it contributes to the broader evolution of Sierra's educational offerings, paving the way for more diverse and engaging experiences like Battle Bugs. By exploring different genres and formats, Sierra was able to establish itself as a leader in the educational software market, with titles like Slater & Charlie Go Camping and Battle Bugs representing key milestones in this effort.
-
 ## References
 
 [^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Release dates, developer, and basic game information

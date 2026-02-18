@@ -278,6 +278,12 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 
 ## See Also
 
+Homeworld 3 serves as a direct continuation of the events that unfolded in Homeworld - Deserts of Kharak, bridging the gap between the prequel's story and the original Homeworld series. The game's narrative picks up approximately 100 years after the events of Homeworld 2, with protagonist Imogen S'Jet searching for her missing mentor, Karan S'Jet, amidst a new existential threat known as "The Anomaly". This catastrophic event has begun to shut down the hyperspace gates connecting galactic civilizations, forcing players to navigate uncharted space environments and confront new enemies.
+
+Mechanically, Homeworld 3 builds upon the foundation established in Deserts of Kharak, introducing groundbreaking terrain-based gameplay that fundamentally changes how players approach strategic encounters. The game's fully 3D combat and massive megalithic structures offer a unique and tactical experience, while streamlined mechanics make it accessible to newcomers and challenging for veterans. As the series progresses towards its next installment, these innovations will likely continue to evolve, incorporating new features and gameplay elements that expand on the Homeworld universe.
+
+The events of Homeworld 3 will likely have significant implications for the next entry in the series, potentially setting the stage for further exploration of The Anomaly and its connection to the Incarnate faction. As Imogen S'Jet delves deeper into the mysteries of the galaxy, her journey may uncover new secrets about the S'Jet legacy and the true nature of the threats facing the galaxy. With its engaging narrative and improved gameplay mechanics, Homeworld 3 provides a compelling foundation for the series to continue growing and evolving in exciting ways.
+
 - **Related:** [[2016 - Homeworld - Deserts of Kharak]]
 
 ## References

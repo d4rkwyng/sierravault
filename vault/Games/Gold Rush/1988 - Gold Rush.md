@@ -143,6 +143,12 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 
 ## See Also
 
+Gold Rush! stands as a pioneering title in the adventure genre, notable for its innovative approach to storytelling and gameplay. Although it does not directly follow a previous game in the series, its release in 1988 marked a significant point in Sierra's development of graphic adventure games, showcasing the capabilities of their AGI engine. The game's narrative, focusing on Jerrod Wilson's journey during the California Gold Rush, is self-contained, offering players a unique experience that explores historical events and personal quests for fortune.
+
+The gameplay mechanics and narrative structure of Gold Rush! laid groundwork for future adventure games, including its successor, Gold Rush Anniversary. This next entry in the series would build upon the foundations established by Gold Rush!, potentially incorporating new technologies and design philosophies that emerged after the release of the original. The transition from AGI to SCI engine, mentioned in the context of Gold Rush!'s development, signifies a broader evolution in game design and technology at Sierra, which would influence the creation of subsequent games, including Gold Rush Anniversary.
+
+In terms of narrative continuity, while Gold Rush! is designed as a standalone experience with multiple endings depending on the player's choices, any direct connections to Gold Rush Anniversary would likely involve thematic or gameplay elements rather than a direct continuation of Jerrod Wilson's story. The success of Gold Rush! in blending education and entertainment, set against the backdrop of one of America's most pivotal historical events, could inspire similar approaches in Gold Rush Anniversary, potentially exploring different aspects of the Gold Rush era or its aftermath.
+
 - [[2014 - Gold Rush Anniversary|→ Next: Gold Rush Anniversary]]
 
 ## References

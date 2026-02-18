@@ -272,6 +272,12 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 
 ## See Also
 
+Police Quest: In Pursuit of the Death Angel VGA Remake builds upon the foundations laid by its predecessor, Police Quest III - The Kindred, by maintaining the series' commitment to realistic police procedures and protocols. The game's narrative follows Sonny Bonds as he tackles the growing narcotics problem in Lytton, California, which was a significant issue in the previous installment. This continuity is reflected in the gameplay, where players must still adhere to authentic law enforcement techniques, such as properly conducting traffic stops and handling evidence.
+
+The technological overhaul brought by the SCI 1.1 engine and the introduction of VGA graphics and point-and-click interface enhanced the player's experience, making it more immersive and interactive. This evolution in gameplay mechanics would later influence the development of Police Quest - Open Season, which further refined the series' blend of realism and adventure. The character of Sonny Bonds, who has become a staple of the series, continues to be the protagonist, allowing players to see his growth from a patrol officer to a detective working on more complex cases.
+
+The story of Police Quest: In Pursuit of the Death Angel VGA Remake concludes with Sonny's successful apprehension of the Death Angel, marking a significant victory for the Lytton Police Department. This storyline sets the stage for Police Quest - Open Season, where new challenges and cases await Sonny Bonds, further testing his skills as a law enforcement officer. The series' focus on realism and police procedures continues to evolve, reflecting changes in law enforcement practices and technologies, while maintaining its core identity as a pioneering law enforcement simulation series.
+
 - [[Police Quest Series]] - Series overview
 - [[1991 - Police Quest III - The Kindred|← Previous: Police Quest III - The Kindred]]
 - [[1993 - Police Quest - Open Season|→ Next: Police Quest - Open Season]]

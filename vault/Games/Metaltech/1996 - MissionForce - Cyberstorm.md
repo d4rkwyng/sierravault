@@ -132,6 +132,12 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 
 ## See Also
 
+MissionForce: CyberStorm builds upon the narrative foundation established in Earthsiege 2, where the Prometheus incident has led to a lingering Cybrid menace that threatens humanity's interests across the galaxy. The game's focus on corporate warfare and tactical turn-based combat introduces a new layer of complexity to the series, as players must navigate not only the battlefield but also the cutthroat world of intercorporate politics. This shift towards strategy and resource management sets the stage for the next installment in the series, Cyberstorm 2 - Corporate Wars, where the stakes will be higher and the battle for dominance even more intense.
+
+The gameplay mechanics in MissionForce: CyberStorm represent a significant evolution from the real-time action of Earthsiege 2, with the introduction of turn-based combat and a deeper emphasis on unit customization and resource management. The use of HERCs (Humaniform-Emulation Roboticized Combat units) as the primary combat vehicles allows for a wide range of strategic options, from lightweight scouting units to heavily armored behemoths, each with its own strengths and weaknesses. This level of customization and tactical depth will continue to be refined in Cyberstorm 2 - Corporate Wars, where players can expect even more complex battles and corporate intrigues.
+
+As the series progresses towards Cyberstorm 2 - Corporate Wars, the narrative threads introduced in MissionForce: CyberStorm will continue to unfold, exploring the darker aspects of corporate exploitation and the dehumanization of warfare. The game's themes of moral ambiguity and the expendable treatment of life will likely become even more pronounced, as players are forced to make difficult choices that balance their corporate interests with the human cost of war. With its engaging gameplay and thought-provoking narrative, MissionForce: CyberStorm has set a high standard for the series, and fans can expect an even more immersive and challenging experience in the next installment.
+
 - [[1996 - Earthsiege 2|← Previous: Earthsiege 2]]
 - [[1998 - Cyberstorm 2 - Corporate Wars|→ Next: Cyberstorm 2 - Corporate Wars]]
 

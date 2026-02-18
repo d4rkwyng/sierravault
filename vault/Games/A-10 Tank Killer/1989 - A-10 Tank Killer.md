@@ -211,6 +211,12 @@ While the Amiga version disappointed some critics who found it technically infer
 
 ## See Also
 
+The original A-10 Tank Killer game laid the groundwork for the series, introducing players to the intense world of close air support and the Fairchild-Republic A-10 Thunderbolt II aircraft. As the first entry in the series, it established a narrative focused on fictional Cold War conflicts in Eastern Europe, where players took on the role of an unnamed A-10 pilot providing crucial ground support for NATO forces. This setup would later be expanded upon in subsequent releases, including the addition of historical scenarios like Operation Desert Storm in version 1.5.
+
+Mechanically, A-10 Tank Killer innovated with its use of 256-color VGA graphics and a persistent battlefield where player actions had direct consequences on future missions. The game's success and the technological advancements it introduced paved the way for improvements seen in later versions, such as enhanced sound support and refined flight models borrowed from other Dynamix titles like Red Baron. These enhancements would become hallmark features of the A-10 Tank Killer series, offering players a more immersive and realistic combat flight simulation experience.
+
+The release of A-10 Tank Killer v1.5 marked a significant evolution in the series, building upon the original's foundation by adding new scenarios set during Operation Desert Storm. This expansion not only broadened the game's narrative scope but also showcased Dynamix's commitment to incorporating real-world conflicts and improving gameplay mechanics based on player feedback and technological advancements. As such, A-10 Tank Killer v1.5 stands as a bridge between the original game's introduction of close air support simulations and future entries in the series that would further refine this concept.
+
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
 
 ## References

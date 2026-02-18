@@ -281,6 +281,12 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 
 ## See Also
 
+Lords of the Realm II builds upon the foundations established in the original Lords of the Realm, introducing significant enhancements to both its narrative depth and gameplay mechanics. The shift towards a more historically authentic setting, devoid of magical elements, sets it apart from other strategy games of its time, offering players a realistic medieval experience where managing resources and populations is crucial to success. This approach laid the groundwork for future titles in the series, including Lords of the Realm II - Siege Pack, which would further refine these mechanics.
+
+The game's storyline, set in 13th-century England following the death of the king, provides a compelling backdrop for players to compete against rival lords for the throne. Characters like the Bishop, the Baron, the Knight, and the Countess add depth to the narrative, each with their own strategies and personalities that influence gameplay. The absence of fantasy elements means that victories are achieved through careful resource management, military strategy, and economic prowess, rather than magical interventions, making the path to becoming king all the more challenging and satisfying.
+
+Lords of the Realm II - Siege Pack, the next entry in the series, expands on the gameplay introduced in Lords of the Realm II, likely incorporating new siege engines, scenarios, and possibly even multiplayer modes to enhance the real-time combat aspect of the game. This expansion would build on the game's already praised blend of turn-based resource management and real-time combat, potentially introducing new challenges and strategies for players to master. By evolving the series' core mechanics while maintaining its historical authenticity, Lords of the Realm II sets a high standard for medieval strategy games, both in terms of narrative engagement and gameplay depth.
+
 - [[1994 - Lords of the Realm|← Previous: Lords of the Realm]]
 - [[1997 - Lords of the Realm II - Siege Pack|→ Next: Lords of the Realm II - Siege Pack]]
 

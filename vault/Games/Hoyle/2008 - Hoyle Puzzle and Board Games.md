@@ -217,6 +217,12 @@ The game is documented in various gaming databases and preservation archives.[^r
 
 ## See Also
 
+Hoyle Puzzle and Board Games builds upon the foundation laid by its predecessor, Hoyle Casino, by expanding the series' scope to include a wide range of puzzle and board games. This shift in focus allows players to engage with classic titles like Chess, Hangman, and Mahjongg, while also exploring new challenges such as Sudoku and Crosswords. The introduction of the Hoyle Bucks earning system adds a new layer of depth to the gameplay experience, enabling players to customize their environment and unlock additional content.
+
+In terms of narrative continuity, Hoyle Puzzle and Board Games does not follow a direct storyline, instead opting for a compilation approach that showcases various games and activities. However, the game's emphasis on casual-friendly gameplay and accessibility ensures that it remains true to the spirit of the Hoyle series, which has long been associated with authoritative gaming rules and family-friendly entertainment. The inclusion of interactive computer opponents with adjustable skill levels also provides players with a sense of progression and challenge.
+
+As the series continues to evolve, it will be interesting to see how future entries build upon the foundation established by Hoyle Puzzle and Board Games. The next game in the series is expected to further refine the gameplay mechanics and possibly introduce new features, such as enhanced multiplayer capabilities or additional game modes. With its engaging gameplay and broad appeal, Hoyle Puzzle and Board Games has set a high standard for future installments to follow, and fans of the series can look forward to enjoying more exciting puzzle and board game experiences in the years to come.
+
 - [[2008 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2011 - Hoyle Puzzle and Board Games|→ Next: Hoyle Puzzle and Board Games]]
 

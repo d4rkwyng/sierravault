@@ -210,6 +210,12 @@ This game has been included in the following collections:
 
 ## See Also
 
+Space Quest 6: Roger Wilco in the Spinal Frontier continues the story of Roger Wilco, who, after defeating the pukoid mutants in Space Quest V: The Next Mutation, is court-martialed and demoted to a second-class janitor aboard the SCS DeepShip 86. This narrative shift marks a significant change from the previous game, where Roger was hailed as a hero for saving the galaxy, and sets the stage for his new adventures in Space Quest 6. The gameplay mechanics also evolve, with the introduction of a "verb bar" window along the bottom of the screen, similar to LucasArts' SCUMM engine, which replaces the traditional pull-down bar interface used in earlier Space Quest games.
+
+The story of Space Quest 6 builds upon the events of its predecessor, with Roger facing new challenges and meeting new characters, such as Stellar Santiago, who becomes a friend and love interest. The game's plot is full of humorous references and parodies, including a spoof of the 1987 film Innerspace, where Roger must undergo miniaturization and enter Stellar's body to thwart Sharpei's evil plans. This lighthearted tone is consistent with the series' tradition of comedic science fiction, which was established in earlier games like Space Quest V: The Next Mutation.
+
+As the final game in the series, Space Quest 6: Roger Wilco in the Spinal Frontier concludes Roger Wilco's story arc, with Stellar hinting at his "next assignment" at the end of the game. Although there is no direct narrative continuation, the game's ending provides a sense of closure for the series, and its gameplay mechanics and graphics capabilities represent the pinnacle of the Space Quest series' evolution. The game's use of Super VGA graphics and 3D-rendered images sets a new standard for visual quality in the series, and its point-and-click interface and puzzle design provide a challenging and engaging experience for players.
+
 - Fan Sequel: [[2011 - Space Quest - Vohaul Strikes Back|Space Quest: Vohaul Strikes Back]]
 - [[Space Quest Series]] - Series overview
 - [[1993 - Space Quest V - The Next Mutation|← Previous: Space Quest V - The Next Mutation]]

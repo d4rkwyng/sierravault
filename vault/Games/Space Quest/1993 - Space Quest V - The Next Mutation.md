@@ -240,6 +240,12 @@ This game has been included in the following collections:
 
 ## See Also
 
+Space Quest V: The Next Mutation builds upon the narrative of its predecessor, Space Quest IV - Roger Wilco and the Time Rippers, as Roger Wilco's journey takes a new turn with his enrollment at Starcon Academy. This marks a significant shift in Roger's career aspirations, from being a lowly janitor to aiming for a captain's position, showcasing growth and character development. The game's storyline also intersects with events from Space Quest IV through the character of Ambassador Beatrice Wankmeister, highlighting a personal connection that spans across the series.
+
+Mechanically, Space Quest V continues the point-and-click interface introduced in Space Quest IV, ensuring continuity in gameplay style while enhancing the experience with new features such as commanding a crew and interacting with them on the SCS Eureka's command bridge. The game's use of SCI1.1 allows for 256-color VGA graphics, offering a visually improved experience compared to its predecessors. This evolution in mechanics and technology sets the stage for further advancements in subsequent games, including Space Quest 6 - Roger Wilco in the Spinal Frontier.
+
+The narrative of Space Quest V lays groundwork for the events that will unfold in Space Quest 6, particularly through Roger's relationships and the consequences of his actions in saving the galaxy from the deadly virus. While specific plot points may not directly connect, the character development and universe expansion contribute to a richer series context. The gameplay mechanics, such as inventory-based puzzle solving and crew management, are refined and expanded upon, providing a solid foundation for the next installment's innovations and challenges.
+
 - [[Space Quest Series]] - Series overview
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|← Previous: Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|→ Next: Space Quest 6 - Roger Wilco in the Spinal Frontier]]

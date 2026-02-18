@@ -216,6 +216,12 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 
 ## See Also
 
+Breach 3 builds upon the foundations laid by its predecessor, Front Lines, by introducing new gameplay mechanics such as the top-down perspective and real-time combat with automatic pausing. This evolution allows players to experience a more immersive and strategic gameplay experience, while still maintaining the core elements that defined the series. The game's narrative also expands on the Universe setting, exploring the conflict between the Federated Worlds and the United Democratic Planets in greater depth.
+
+The character of the Federated Worlds Special Forces Squad Leader is a key element in Breach 3, as their unique personality and abilities influence the gameplay experience. This focus on character development and individuality sets the stage for future games in the series, such as Casino De Luxe, which may incorporate similar elements or even feature returning characters. The game's engine, AIL, also plays a crucial role in enabling the seamless integration of gameplay mechanics and narrative elements.
+
+In terms of mechanical evolution, Breach 3's real-time combat system and automatic pausing mechanic represent a significant departure from earlier games in the series. These innovations would likely influence the development of subsequent games, including Casino De Luxe, which may build upon or refine these features to create an even more engaging gameplay experience. The Interlocking Game System, which allows Breach 3 to link up with Rules of Engagement 2, also demonstrates a commitment to creating a comprehensive and interconnected science fiction universe that spans multiple games and genres.
+
 - [[1994 - Front Lines|← Previous: Front Lines]]
 - [[1995 - Casino De Luxe|→ Next: Casino De Luxe]]
 

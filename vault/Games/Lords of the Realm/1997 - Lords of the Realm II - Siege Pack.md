@@ -129,6 +129,12 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 
 ## See Also
 
+Lords of the Realm II - Siege Pack builds upon the foundations laid by its predecessor, Lords of the Realm II, by introducing new maps, castles, and gameplay modes that enhance the overall combat experience. The expansion's focus on siege warfare and real-time battles expands the series' mechanical depth, setting the stage for future installments like Lords of the Realm III to further refine these elements. By concentrating on pure combat, the Siege Pack offers a distinct gameplay experience that diverges from the more economically focused aspects of the base game.
+
+The narrative context of the Siege Pack remains closely tied to that of Lords of the Realm II, with players vying for control of medieval England in 1268 A.D. The expansion does not alter the core story but instead provides new scenarios and challenges for players to overcome, utilizing the same turn-based management and real-time combat mechanics. This continuity ensures a seamless transition for players moving from the base game to the expansion, while also laying groundwork for the narrative developments that will unfold in Lords of the Realm III.
+
+Mechanically, the Siege Pack's enhancements, such as the all-battle mode and improved AI, represent significant steps forward in the series' evolution. These advancements not only enhance player engagement but also contribute to the series' overall trajectory, influencing the design and gameplay of subsequent titles like Lords of the Realm III. By incorporating features like castle design and siege warfare into the core gameplay, the Siege Pack plays a crucial role in shaping the strategic depth and complexity that will become hallmarks of the Lords of the Realm series.
+
 - [[1996 - Lords of the Realm II|← Previous: Lords of the Realm II]]
 - [[2004 - Lords of the Realm III|→ Next: Lords of the Realm III]]
 

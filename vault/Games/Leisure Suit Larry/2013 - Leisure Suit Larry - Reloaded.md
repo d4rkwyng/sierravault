@@ -121,6 +121,12 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 
 ## See Also
 
+Leisure Suit Larry - Reloaded serves as a revitalized entry in the series, distancing itself from the narrative missteps of its predecessor, Leisure Suit Larry - Box Office Bust. By returning to the roots of the original 1987 game, Reloaded successfully recaptures the spirit of Larry Laffer's hilarious and often disastrous attempts to navigate the dating world. This remake's focus on updated graphics, full voice acting, and expanded content sets the stage for a renewed interest in the series, which would eventually lead to the development of Leisure Suit Larry - Wet Dreams Don't Dry.
+
+The connections between Reloaded and its successor, Wet Dreams Don't Dry, are evident in their shared commitment to revitalizing the series while maintaining its trademark humor and charm. While Reloaded focuses on reimagining the classic adventure gameplay of the original, Wet Dreams Don't Dry builds upon this foundation by introducing new characters, locations, and puzzles that expand the Larry Laffer universe. The evolution of gameplay mechanics, such as the point-and-click interface and comprehensive interaction system, also lays the groundwork for the more refined and modern adventure game experience found in Wet Dreams Don't Dry.
+
+In terms of narrative continuity, Reloaded's story serves as a nostalgic reintroduction to the series, allowing both new and veteran players to become reacquainted with Larry's misadventures. The addition of new characters, like Jasmine, and the expansion of existing locations and puzzles, demonstrate the potential for growth and innovation within the series. As the series progresses towards Wet Dreams Don't Dry, these narrative and mechanical developments contribute to a refreshed and reinvigorated take on the Leisure Suit Larry franchise, one that honors its heritage while embracing modern gaming sensibilities.
+
 - **Remake of:** [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - **Previous Remake:** [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
 

@@ -241,6 +241,12 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 
 ## See Also
 
+Casino De Luxe builds upon the foundation laid by its predecessor, Breach 3, in terms of graphical and sound quality, offering players a more immersive experience with its detailed casino environment and authentic recreation of classic casino games. Although Breach 3 was primarily focused on action and strategy, Impressions Games leveraged their expertise in game development to create a unique gaming experience with Casino De Luxe, which would later influence the direction of their subsequent titles, including Conqueror - A.D. 1086. The shift towards more casual and accessible gameplay in Casino De Luxe laid the groundwork for future games that balanced strategy with entertainment.
+
+In terms of narrative connection, while there isn't a direct storyline linking Breach 3 to Casino De Luxe or Conqueror - A.D. 1086, the evolution of Impressions Games' design philosophy is evident across these titles. The company's ability to adapt and create engaging experiences across different genres, from action and strategy to simulation and gambling, showcases their versatility as developers. This adaptability would be crucial in the development of Conqueror - A.D. 1086, which required a blend of historical accuracy, strategic depth, and engaging gameplay mechanics.
+
+The mechanical evolution from Casino De Luxe to Conqueror - A.D. 1086 is more pronounced, with Impressions Games refining their engine to support more complex game worlds and deeper strategic layers. Conqueror - A.D. 1086 would go on to utilize these advancements, offering a rich historical setting combined with intricate gameplay mechanics that allowed players to explore, conquer, and manage territories. The success of Casino De Luxe in providing an immersive and accessible gaming experience likely influenced the design decisions made for Conqueror - A.D. 1086, particularly in terms of user interface, game pacing, and overall player engagement.
+
 - [[1995 - Breach 3|← Previous: Breach 3]]
 - [[1995 - Conqueror - A.D. 1086|→ Next: Conqueror - A.D. 1086]]
 

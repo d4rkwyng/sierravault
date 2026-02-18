@@ -207,6 +207,12 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 
 ## See Also
 
+The Lost Mind of Dr. Brain builds upon the foundation established by its predecessor, The Island of Dr. Brain, by introducing a new narrative twist where Dr. Brain's mind is mixed up with his lab rat's, requiring players to navigate through his brain to restore his intellect. This shift in storyline allows for a fresh set of puzzles and challenges that focus on cognitive abilities such as spatial orientation, memorization, and symbolic association. The game's central map screen, from which players access various puzzle types, marks a significant change in gameplay mechanics compared to the more exploratory nature of The Island of Dr. Brain.
+
+Mechanically, The Lost Mind of Dr. Brain evolves the series by incorporating a wider variety of puzzle types, including music reconstruction, file sorting, and neural maze navigation, each designed to engage different cognitive skills. This diversity in puzzles and the adaptive difficulty system, offering Novice, Expert, and Genius levels, ensure that the game caters to a broad range of players, from those new to the series to veteran puzzle solvers. The inclusion of Elaina as a guide and the comedic relief provided by Rathbone add new layers to the game's narrative and character interaction, distinguishing it from its predecessors.
+
+The Lost Mind of Dr. Brain sets the stage for its successor, The Time Warp of Dr. Brain, by refining the series' focus on educational content and puzzle diversity. While The Lost Mind of Dr. Brain concentrates on the human brain and cognitive functions, The Time Warp of Dr. Brain is likely to build upon this foundation by introducing new themes, possibly incorporating time travel elements as suggested by its title, and further evolving the puzzle mechanics to include historical and scientific knowledge. The success of The Lost Mind of Dr. Brain in balancing education with entertainment will be a crucial factor in shaping the direction and innovations of The Time Warp of Dr. Brain.
+
 - [[1992 - The Island of Dr. Brain|← Previous: The Island of Dr. Brain]]
 - [[1996 - The Time Warp of Dr. Brain|→ Next: The Time Warp of Dr. Brain]]
 

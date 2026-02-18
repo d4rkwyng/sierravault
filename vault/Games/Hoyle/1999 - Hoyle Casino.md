@@ -208,6 +208,12 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 
 ## See Also
 
+Hoyle Casino 1999 builds upon the foundation established by its predecessors, including Hoyle Backgammon and Cribbage, by expanding the series' focus on traditional games to encompass a wide range of casino activities. This evolution is reflected in the game's immersive virtual Las Vegas environment, where players can engage with over 350 variations of poker, blackjack, slots, roulette, craps, and more. The addition of Practice Mode, which offers guidance on optimal betting strategies, further enhances the gameplay experience and sets the stage for future innovations in the series.
+
+The transition from Hoyle Backgammon and Cribbage to Hoyle Casino 1999 marks a significant shift in the series' scope, as it moves from focusing on specific board and card games to simulating an entire casino experience. This expansion is evident in the game's 3D casinos, where players can explore and choose from various gaming tables and machines, creating a more dynamic and engaging experience. The success of Hoyle Casino 1999 would later influence the development of Hoyle Word Games, which would introduce new gameplay mechanics while maintaining the series' commitment to providing entertaining and educational experiences.
+
+As the series continues with Hoyle Word Games, players can expect further innovations in gameplay and presentation, building upon the foundation laid by Hoyle Casino 1999. The experience gained from navigating the virtual casino environment and mastering various games will serve as a precursor to the new challenges and activities introduced in Hoyle Word Games. By evolving the series' focus and incorporating new features, such as Practice Mode and immersive environments, the Hoyle series solidifies its position as a leader in casual gaming and simulation entertainment.
+
 - [[1999 - Hoyle Backgammon and Cribbage|← Previous: Hoyle Backgammon and Cribbage]]
 - [[1999 - Hoyle Word Games|→ Next: Hoyle Word Games]]
 

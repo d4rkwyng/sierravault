@@ -208,6 +208,12 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 
 ## See Also
 
+Air Force Commander builds upon the business simulation roots of its predecessor, Air Bucks, by introducing real-time strategy elements and a focus on military conflict. Although Air Bucks was primarily concerned with managing an airline, Impressions Games' experience in developing complex simulations is evident in Air Force Commander's detailed and realistic portrayal of air warfare. The game's engine, which would later be used in titles like Global Domination and When Two Worlds War, demonstrates the company's growing expertise in crafting immersive and challenging strategy games.
+
+The narrative of Air Force Commander is distinct from its predecessors, delving into the complexities of Middle Eastern conflicts and providing players with a range of scenarios to navigate. The game's attention to historical detail and geopolitical realism sets it apart from other strategy titles of the time, and its focus on air combat adds a unique layer of depth to the gameplay. As the series progresses, it is likely that future installments will continue to build upon this foundation, potentially incorporating new features and mechanics to enhance the player's experience.
+
+In terms of mechanical evolution, Air Force Commander lays the groundwork for future Impressions Games titles, including Conquest of Japan. The game's real-time strategy elements and emphasis on resource management will likely influence the development of subsequent games in the series, which may incorporate similar features and build upon the successes of Air Force Commander. As the series continues to grow and evolve, it will be interesting to see how Impressions Games incorporates new ideas and innovations into their titles, while maintaining the level of complexity and realism that defines Air Force Commander.
+
 - [[1992 - Air Bucks|← Previous: Air Bucks]]
 - [[1992 - Conquest of Japan|→ Next: Conquest of Japan]]
 

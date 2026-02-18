@@ -340,6 +340,12 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 
 ## See Also
 
+The Homeworld Remastered Collection serves as a bridge between the original Homeworld games and the prequel Homeworld - Deserts of Kharak, narratively connecting the dots between the Kushan people's exile on Kharak and their eventual journey to reclaim their homeworld of Hiigara. Mechanically, the remastered collection preserves the innovative 3D space combat that defined the series, while also laying the groundwork for the more terrestrial, tactical gameplay found in Deserts of Kharak. The collection's focus on storytelling and character development, particularly through the protagonist Karan S'jet, sets the stage for the more personal, character-driven narrative of Deserts of Kharak.
+
+In terms of gameplay evolution, the Homeworld Remastered Collection builds upon the foundations established in Homeworld 2, with improved graphics and sound design that enhance the overall gaming experience. The remastered collection's use of the Homeworld 2 engine also allows for a more seamless transition between the different games in the series, creating a sense of continuity and cohesion that is essential to the franchise's narrative and mechanical progression. As the series moves forward with Deserts of Kharak, the gameplay shifts from a focus on epic space battles to more tactical, ground-based combat, while still maintaining the core elements that define the Homeworld experience.
+
+The connection between the Homeworld Remastered Collection and Homeworld 2 is particularly significant, as the latter game's story and characters are deeply intertwined with those of the original Homeworld. The remastered collection's inclusion of both games allows players to experience the full arc of the Kushan people's journey, from their exile on Kharak to their ultimate victory against the Taiidan Empire. This narrative thread is continued in Deserts of Kharak, which explores the events leading up to the construction of the Mothership and the Kushan's departure from Kharak, providing a rich and detailed backstory that enhances the overall Homeworld saga.
+
 - [[2003 - Homeworld 2|← Previous: Homeworld 2]]
 - [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld - Deserts of Kharak]]
 

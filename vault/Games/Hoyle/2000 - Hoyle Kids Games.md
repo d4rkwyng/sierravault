@@ -199,6 +199,12 @@ The game's emphasis on character personality through opponents like Marvin the T
 
 ## See Also
 
+Hoyle Kids Games 2000 builds upon the foundation established by its predecessor, Hoyle Crosswords, by expanding the series' reach to a younger audience with a collection of classic children's games. This shift in focus is evident in the game's colorful graphics and internet play features, which were designed to be appealing and accessible to families and younger players. The inclusion of a Facemaker utility, allowing players to customize their own character avatars, adds a personal touch to the gaming experience and sets the stage for future innovations in the series.
+
+The gameplay mechanics in Hoyle Kids Games 2000, such as the point-and-click interface and adjustable difficulty levels, lay the groundwork for the more complex and varied gameplay that would be seen in later entries like Hoyle Slots and Video Poker. The game's multiplayer capabilities, supporting both local and online play, also foreshadow the emphasis on social interaction and competition that would become a hallmark of the series. Additionally, the appearance of characters like Marvin and Captain Scurvy, with their distinct personalities and backstories, contributes to the series' narrative continuity and charm.
+
+As the series continues with Hoyle Slots and Video Poker, players can expect to see further evolution in gameplay mechanics, such as the introduction of more complex casino games and potentially new multiplayer features. The success of Hoyle Kids Games 2000 in appealing to a broader audience also likely influenced the development of subsequent titles, which may incorporate more family-friendly elements while still maintaining the series' traditional appeal to adult players. By building on the strengths of its predecessors and introducing new innovations, the Hoyle series continues to grow and adapt to the changing tastes and preferences of its player base.
+
 - [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
 - [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
 

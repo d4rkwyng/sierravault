@@ -246,14 +246,6 @@ The 3D remake's divisive reception reflects the challenge of translating a purel
 **Manuals & Extras**
 - [Official Press Kit](https://colossalcave3d.com/press/)
 
-## See Also
-
-Colossal Cave 3D Adventure builds upon the foundations laid by its spiritual predecessor, SpaceVenture, by incorporating immersive 3D environments and virtual reality capabilities that enhance the adventure game experience. Although not directly narratively connected, both games share a common thread in their pursuit of innovation and player engagement, with Colossal Cave 3D Adventure's return to classic puzzle-solving and exploration echoing the adventurous spirit of SpaceVenture. The involvement of Roberta and Ken Williams in Colossal Cave 3D Adventure also serves as a bridge between the old and the new, bringing their legendary game design expertise to the table.
-
-Mechanically, Colossal Cave 3D Adventure sets the stage for future games like Summer Daze - Tilly's Tale by pushing the boundaries of interactive storytelling and immersive gameplay. The use of point-and-click controls and the integration of virtual reality technology in Colossal Cave 3D Adventure pave the way for more sophisticated and engaging gameplay mechanics in subsequent titles. While Summer Daze - Tilly's Tale may introduce new characters and settings, it is likely to build upon the narrative and mechanical foundations established by its predecessors, including the emphasis on exploration, puzzle-solving, and immersive storytelling found in Colossal Cave 3D Adventure.
-
-The narrative of Colossal Cave 3D Adventure, with its focus on exploration and treasure hunting, also lays groundwork for the character-driven stories that might be found in games like Summer Daze - Tilly's Tale. Although the protagonist of Colossal Cave 3D Adventure is unnamed, the game's design and the return of classic characters like dwarves and a pirate suggest a deep respect for the history of adventure games, which could influence the development of more personalized narratives in future series entries. By blending nostalgia with innovation, Colossal Cave 3D Adventure acts as a pivotal title that connects the past with the future of adventure gaming.
-
 ## References
 
 [^ref-1]: [Colossal Cave 3D – Official News Archive](https://colossalcave3d.com/news/) – development background, release dates, Williams quotes

@@ -212,6 +212,12 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 
 ## See Also
 
+The Metaltech - Earthsiege Speech Pack builds upon the foundation established by Metaltech - Battledrome, enhancing the overall experience with digitized voice acting that brings a new level of immersion to the game's narrative and characters. The speech pack's focus on spoken dialogue and briefings adds depth to the player's interactions with their commander and fellow pilots, creating a more engaging and personal connection to the story. This expansion pack sets the stage for the events of Metaltech - Earthsiege, where players must navigate the desperate struggle against the Cybrid menace in a world ravaged by war.
+
+The addition of digitized speech in the Metaltech - Earthsiege Speech Pack represents a significant step forward in gameplay evolution, as it enhances the player's experience and draws them deeper into the game's world. The pack's story takes place after the initial attack on Earth by the Cybrids has been repelled, and humanity is starting to rebuild, but warns that a second wave is already incoming, setting the stage for the conflicts that will unfold in Metaltech - Earthsiege. By introducing voice-acted characters and briefings, the speech pack lays the groundwork for the more immersive and interactive storytelling that will be featured in the next game in the series.
+
+The Metaltech - Earthsiege Speech Pack's enhancements to the gameplay experience, including the addition of digitized voice acting and spoken dialogue, pave the way for the more advanced features and mechanics that will be introduced in Metaltech - Earthsiege. The speech pack's focus on immersive storytelling and interactive characters creates a sense of continuity with the previous game, Metaltech - Battledrome, while also setting the stage for the next installment in the series. By building upon the foundations established by the previous game, the Metaltech - Earthsiege Speech Pack helps to create a cohesive and engaging narrative arc that spans the entire Metaltech series.
+
 - **Base Game:** [[1994 - Metaltech - Earthsiege]] (required)
 
 - [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] (1994)

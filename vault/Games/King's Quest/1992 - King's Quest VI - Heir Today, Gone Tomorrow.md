@@ -333,6 +333,12 @@ This game has been included in[^ref-20][^ref-21]:
 
 ## See Also
 
+King's Quest VI: Heir Today, Gone Tomorrow builds upon the narrative foundation established in Roberta Williams' King's Quest I - Quest for the Crown, as Prince Alexander's journey is a direct continuation of his adventures in the preceding games. The character development and world-building introduced in earlier entries are expanded upon, with Alexander's experiences in King's Quest V directly influencing his motivations in this game. As he navigates the Land of the Green Isles to rescue Princess Cassima, players encounter a richly detailed world that draws from fairy tale and mythological traditions.
+
+Mechanically, King's Quest VI represents a significant evolution from its predecessors, with a refined point-and-click interface and improved puzzle design that eliminates arcade sequences altogether. This shift towards more cerebral challenges allows players to focus on exploration, character interactions, and problem-solving, setting the stage for the series' continued growth and innovation in subsequent entries like King's Quest VII - The Princeless Bride. The game's structure, which features a magic map for navigating between islands, also introduces a new level of complexity and interconnectedness to the series.
+
+The narrative threads introduced in King's Quest VI are expertly woven throughout the story, with Alexander's quest to rescue Cassima and uncover the truth about her parents' deaths driving the plot forward. As players progress through the game, they will encounter a range of characters and locations that expand upon the series' lore, from the enigmatic Vizier Abdul Alhazred to the mystical Isle of the Mists. The game's conclusion, which ultimately leads Alexander to the Realm of the Dead, sets the stage for the events of King's Quest VII - The Princeless Bride, ensuring a seamless narrative continuity between the two games.
+
 - [[King's Quest Series]] - Series overview
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|← Previous: Roberta Williams' King's Quest I - Quest for the Crown]]
 - [[1994 - King's Quest VII - The Princeless Bride|→ Next: King's Quest VII - The Princeless Bride]]

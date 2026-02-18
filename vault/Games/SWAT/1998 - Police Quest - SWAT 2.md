@@ -299,6 +299,12 @@ The game's transition from the Police Quest adventure game format to real-time t
 
 ## See Also
 
+Police Quest: SWAT 2 builds upon the foundation laid by its predecessor, Police Quest: SWAT, by introducing a new isometric view and squad-level tactical gameplay, allowing for more complex and realistic scenarios. The game's dual campaigns, where players can lead either an LAPD SWAT team or the terrorist organization Five Eyes, offer a unique perspective on the conflict, with missions often mirroring each other from opposing viewpoints. This narrative approach sets the stage for the next installment in the series, SWAT 3: Close Quarters Battle, which would further refine the tactical gameplay and introduce new features.
+
+The game's storyline, set in 1999, explores the escalating urban crisis in Los Angeles as the LAPD's SWAT division faces off against the left-wing domestic terrorist group Five Eyes, led by Basho and Dante. The campaign follows a progression of increasingly dangerous call-ups, from training exercises to major incidents involving armed suspects and hostage situations. This narrative thread is continued in SWAT 3: Close Quarters Battle, which would introduce new characters and scenarios while maintaining the series' focus on realistic police procedures and tactical situations.
+
+Mechanically, Police Quest: SWAT 2 laid the groundwork for the advancements seen in SWAT 3: Close Quarters Battle, with its introduction of a diagonal-down isometric perspective and tile-based world. Although the game's interface and controls received criticism for being clunky and poorly explained, they paved the way for the more refined command system and unit management features that would be introduced in the next installment. The game's emphasis on authentic police procedures and realistic tactical situations, courtesy of the involvement of former Los Angeles Police Chief Daryl F. Gates, also set a high standard for the series' future entries.
+
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)

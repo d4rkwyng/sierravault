@@ -158,6 +158,12 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 ## See Also
 
+The narrative of Johnny Castaway can be seen as a standalone story, but its development and release are closely tied to the broader Dynamix series. Following the success of The Adventures of Willy Beamish, which showcased the studio's ability to craft engaging characters and stories, Jeff Tunnell Productions began exploring new ideas that would eventually lead to Johnny Castaway. This screensaver's unique blend of humor, relatable protagonist, and passive entertainment paved the way for future Dynamix titles that would experiment with innovative gameplay mechanics.
+
+Mechanically, Johnny Castaway represents a significant departure from traditional interactive games, instead offering a dynamic, observational experience that unfolds over time. This approach laid groundwork for subsequent Dynamix releases, such as Quarky & Quaysoo's Turbo Science, which would incorporate elements of interactivity and education into its design. Although Turbo Science would introduce more direct player engagement, the foundation established by Johnny Castaway's storytelling and character development played a crucial role in shaping the direction of this next title.
+
+The connection between Johnny Castaway and Quarky & Quaysoo's Turbo Science is also evident in their shared emphasis on creativity and humor. Both titles demonstrate Dynamix's commitment to pushing boundaries within the gaming industry, whether through the introduction of new gameplay mechanics or the use of engaging narratives to draw players into immersive worlds. As such, Johnny Castaway serves as a pivotal entry in the Dynamix series, bridging the gap between earlier releases like The Adventures of Willy Beamish and later innovations found in Quarky & Quaysoo's Turbo Science.
+
 - [[1992 - The Incredible Machine]] – Developed concurrently at JTP
 - [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
 - [[Jeff Tunnell]] – Producer and concept creator

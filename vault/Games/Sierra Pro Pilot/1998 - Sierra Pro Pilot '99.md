@@ -194,6 +194,12 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 
 ## See Also
 
+Sierra Pro Pilot '99 builds upon the foundation laid by its predecessor, Sierra Pro Pilot 98, by refining the gameplay mechanics and expanding the simulation's scope. The new release addresses some of the criticisms of the previous game, such as the lack of support for 3D graphics acceleration, and introduces improved aircraft models and terrain rendering. As a result, players can expect a more immersive and realistic flight experience, with detailed instrument panels, realistic weather effects, and enhanced Air Traffic Control interactions.
+
+In terms of narrative continuity, Sierra Pro Pilot '99 continues to focus on providing a comprehensive and educational flight simulation experience, with a strong emphasis on realistic instrument flight rules (IFR) training. The game's protagonist, the player pilot, can progress through various training missions and scenarios, honing their skills and knowledge of aviation protocols. The simulation also features a range of aircraft, including single-engine propeller planes and business jets, each with its own unique characteristics and handling.
+
+The next entry in the series, Sierra Pro Pilot USA, further expands on the gameplay and features introduced in Sierra Pro Pilot '99, with new aircraft, scenery regions, and gameplay modes. Players can expect an even more realistic and engaging flight experience, with improved graphics, sound effects, and physics modeling. The series' focus on providing a comprehensive and educational flight simulation experience continues to evolve, with each new release building upon the successes of its predecessors and addressing player feedback and criticisms.
+
 - [[1997 - Sierra Pro Pilot 98|← Previous: Sierra Pro Pilot 98]]
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
 

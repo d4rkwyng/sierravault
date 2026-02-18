@@ -136,14 +136,6 @@ For Al Lowe personally, Troll's Tale represented a significant learning experien
 - [MyAbandonware](https://www.myabandonware.com/game/troll-s-tale-32) - Historical preservation with browser play option[^ref-22]
 - [DOS Games Archive](https://www.dosgamesarchive.com/download/trolls-tale) - Complete download package[^ref-10]
 
-## See Also
-
-Troll's Tale connects narratively to its predecessor, Softporn Adventure, through the shared theme of adventure and exploration, although it differs significantly in tone and target audience. Mechanically, Troll's Tale evolves from Softporn Adventure by introducing a simplified interface designed for children, making it more accessible to a younger demographic. This shift towards simplicity and ease of use reflects Al Lowe's intention to create a game that could be enjoyed by kids as young as those in 2nd and 3rd grades.
-
-The gameplay mechanics of Troll's Tale, such as its use of a simplified command system and focus on exploration, laid the groundwork for future Sierra titles. However, the next entry in the broader Sierra lineup, Sierra Championship Boxing, marks a significant departure from Troll's Tale in terms of genre and gameplay style. While Troll's Tale is an adventure game focused on puzzle-solving and exploration, Sierra Championship Boxing is a sports game that emphasizes competitive boxing matches. Despite these differences, both games contribute to the diversity of Sierra's portfolio, showcasing the company's ability to develop a wide range of titles.
-
-Troll's Tale's influence can also be seen in later Sierra games, particularly in the design of user interfaces and the approach to making adventure games more accessible to new players. The success of Troll's Tale's simplified interface likely informed the development of future Sierra titles, including those that would follow in the adventure game genre. Although Sierra Championship Boxing does not directly build upon the narrative or mechanical foundations established by Troll's Tale, it represents a continuation of Sierra's efforts to innovate and expand into different genres, reflecting the company's commitment to creating engaging experiences for various types of players.
-
 ## References
 
 [^ref-1]: [Sierra Gamers](https://www.sierragamers.com/trolls-tale/) – - Basic game information and publisher details

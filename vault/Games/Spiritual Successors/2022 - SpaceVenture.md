@@ -147,14 +147,6 @@ The team has continued supporting the game post-release, with v2 updates in late
 **Preservation**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
 
-## See Also
-
-SpaceVenture builds upon the narrative foundation established in Mage's Initiation - Reign of the Elements, although it does not share a direct storyline connection. Mechanically, SpaceVenture refines the point-and-click adventure gameplay that has been a staple of the series, with improvements to the interface and puzzle-solving mechanics. The game's development was heavily influenced by the creators' experiences working on previous titles, including the original Space Quest series.
-
-In terms of narrative connections, SpaceVenture sets the stage for the events of Colossal Cave 3D Adventure, which promises to further evolve the adventure gameplay genre. While the storylines are not directly connected, the games share a common spirit of exploration and puzzle-solving. The Two Guys from Andromeda's signature blend of humor and sci-fi elements is also present in both titles, ensuring a consistent tone across the series. SpaceVenture's protagonist, Ace Hardway, embodies the same plucky determination as the heroes of previous games, including those found in Mage's Initiation - Reign of the Elements.
-
-The gameplay evolution from Mage's Initiation - Reign of the Elements to SpaceVenture is marked by significant improvements to the user interface and controls. The point-and-click system has been refined, allowing for more intuitive navigation and interaction with the game world. Additionally, the puzzle mechanics have become more complex and challenging, requiring players to think creatively and use their wits to overcome obstacles. These advancements will likely continue in Colossal Cave 3D Adventure, which promises to push the boundaries of adventure gameplay even further. As the series continues to grow and evolve, fans can expect a consistent level of quality and entertainment from the Two Guys from Andromeda.
-
 ## References
 
 [^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information

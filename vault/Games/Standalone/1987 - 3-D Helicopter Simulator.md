@@ -204,14 +204,6 @@ For modern players, 3-D Helicopter Simulator serves primarily as a historical cu
 **Manuals & Extras**
 - Documentation available through Sierra Gamers archive[^ref-10]
 
-## See Also
-
-3-D Helicopter Simulator stands as a unique entry in Sierra's catalog, diverging from their typical adventure game fare to delve into the realm of combat flight simulation. Unlike its predecessor, Wrath of Denethenor, which likely focused on fantasy elements and narrative-driven gameplay, 3-D Helicopter Simulator emphasizes realism and technical accuracy in its depiction of helicopter flight and combat. This shift towards simulation reflects Sierra's experimental approach during the late 1980s, exploring different genres and gameplay mechanics.
-
-The game's focus on realistic helicopter operation and multiplayer capabilities via modem connection sets it apart from other titles of its era. While Wrath of Denethenor may have offered a rich narrative experience, 3-D Helicopter Simulator prioritizes the simulation aspect, challenging players to master the intricacies of flying an Apache attack helicopter. This approach would later influence the development of Silpheed, which, although distinct in its sci-fi setting and gameplay, might have benefited from the technological innovations and design principles established in 3-D Helicopter Simulator.
-
-In terms of mechanical evolution, 3-D Helicopter Simulator's introduction of head-to-head flight simulation competition and its custom 3D polygon engine marked significant advancements for Sierra. These innovations would likely pave the way for future simulations and games, including Silpheed, which could build upon these foundations to offer even more complex and engaging gameplay experiences. The absence of a direct narrative connection between these titles underscores Sierra's willingness to explore diverse genres and themes, making each game a standalone experience with its own unique contributions to the world of gaming.
-
 ## References
 
 [^ref-1]: [MobyGames – Sierra's 3-D Helicopter Simulator](https://www.mobygames.com/game/5830/sierras-3-d-helicopter-simulator/) – development credits, release date, technical specifications, multiplayer features, MobyGames rating

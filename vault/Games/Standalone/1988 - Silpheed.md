@@ -254,14 +254,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 **Manuals & Extras**
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
 
-## See Also
-
-Silpheed does not directly connect to its preceding title, 3-D Helicopter Simulator, in terms of narrative or gameplay mechanics, as it is a standalone release. However, both games showcase the evolving capabilities of game development in the late 1980s, with Silpheed pushing the boundaries of 3D polygon graphics and vertical scrolling shooter genres. The technological advancements seen in Silpheed, such as its custom 3D polygon engine, signify a leap forward in gaming technology from earlier titles like 3-D Helicopter Simulator.
-
-Mechanically, Silpheed's introduction of sectional damage to the shooter genre and its use of real-time 3D polygonal graphics set it apart from both its predecessors and contemporaries. This innovation would influence future shooter games, including potentially those published by Sierra On-Line, such as Tank - The M1A1 Abrams Battle Tank Simulation, which, while differing significantly in gameplay focus, might benefit from similar technological advancements in terms of graphical fidelity and realism.
-
-The narrative of Silpheed, focusing on a lone pilot's mission to defeat the outlaw Xacalite and his battleship Gloire, stands alone within Sierra's catalog. It does not share direct connections with Tank - The M1A1 Abrams Battle Tank Simulation or 3-D Helicopter Simulator in terms of story or setting. Instead, Silpheed represents a unique blend of action-oriented gameplay and groundbreaking graphical capabilities that defined its place in the history of shooter games and early 3D gaming technology.
-
 ## References
 
 [^ref-1]: [Wikipedia – Silpheed](https://en.wikipedia.org/wiki/Silpheed) – release dates, platform history, review scores, awards, development credits

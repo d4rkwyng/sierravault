@@ -225,6 +225,12 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 
 ## See Also
 
+IndyCar Racing builds upon the foundation laid by its predecessor, Indianapolis 500: The Simulation, by offering a more comprehensive and realistic IndyCar racing experience. The game's advanced physics model and texture-mapped 3D graphics set a new standard for sim racing, and its inclusion of contemporary drivers, chassis, and engines from the 1993 racing season added to the game's authenticity. This level of detail and realism would become a hallmark of the series, influencing the development of future games.
+
+The success of IndyCar Racing paved the way for its sequel, IndyCar Racing II, which would further refine the gameplay mechanics and physics engine introduced in the first game. IndyCar Racing II would build upon the strong foundation established by its predecessor, offering improved graphics, new tracks, and enhanced multiplayer capabilities. The evolution of the series can be seen in the incremental improvements made to the game's engine, with each subsequent release pushing the boundaries of what was possible in sim racing.
+
+The connection between IndyCar Racing and IndyCar Racing II is not only narrative but also mechanical, as the latter game refined and expanded upon the gameplay mechanics introduced in the first game. The series' attention to detail and commitment to realism would continue to evolve, with each new release incorporating feedback from players and advances in technology to create a more immersive and realistic racing experience. As the series progressed, it would maintain its focus on delivering an authentic IndyCar racing experience, with later games incorporating new features and gameplay modes while remaining true to the spirit of the original.
+
 - **Previous:** Indianapolis 500: The Simulation (1989)
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
 

@@ -289,6 +289,12 @@ Al Lowe himself perhaps best captured the series' enduring appeal: "We never tri
 
 ## See Also
 
+Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA) serves as a narrative precursor to the events of Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals, where players are introduced to Passionate Patti, a character who becomes central to the series. Although the direct connection between the two games is not overly complex, they share a common theme of comedic misadventures and the pursuit of love. The VGA remake of Leisure Suit Larry 1 lays the groundwork for the character development and plot progression seen in later titles, including the introduction of recurring characters and locations.
+
+Mechanically, the game builds upon the foundation established by its predecessors, incorporating Sierra's point-and-click interface that would become a staple of the series. This evolution in gameplay is evident when comparing Leisure Suit Larry 1 to its successors, such as Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work, which further refines the point-and-click system and introduces new characters and storylines. The connection between these games is not only seen in their shared protagonist, Larry Laffer, but also in the way each title expands upon the comedic and romantic themes introduced in Leisure Suit Larry 1.
+
+The narrative of Leisure Suit Larry 1 sets the stage for the series' trademark blend of humor and romance, with Larry's misadventures in Lost Wages serving as a catalyst for the events of subsequent games. As the series progresses, characters like Passionate Patti become integral to the storyline, and the gameplay mechanics continue to evolve, reflecting the advancements in technology and game design. The Leisure Suit Larry series, including Leisure Suit Larry 1, remains a beloved and iconic part of gaming history, known for its lighthearted humor and satirical take on adult themes.
+
 - **Original Version:** [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - **HD Remake:** [[2013 - Leisure Suit Larry - Reloaded]]
 - [[Leisure Suit Larry Series]] - Series overview

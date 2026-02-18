@@ -257,6 +257,12 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 
 ## See Also
 
+Police Quest: SWAT marks a significant departure from the adventure game format of its predecessors in the Police Quest series, shifting instead to a full-motion video tactical simulation. This change in direction laid the groundwork for the future of the series, as seen in Police Quest - SWAT 2, which built upon the foundations established in this game. The introduction of procedural simulation and a focus on realistic tactical procedures set the stage for the evolution of the series.
+
+The game's narrative structure, or lack thereof, also distinguishes it from earlier entries in the series. Unlike the story-driven approach of previous Police Quest games, Police Quest: SWAT emphasizes training exercises and tactical scenarios, mirroring real SWAT operations. This format would continue to influence the development of subsequent games, including Police Quest - SWAT 2, which refined the simulation aspects and expanded on the game's core concepts.
+
+In terms of gameplay evolution, Police Quest: SWAT introduced a number of innovations that would become standard in the series, such as the use of full-motion video and an emphasis on strict adherence to real-world tactical procedures. While the game's interface was criticized for being cumbersome, it paved the way for future improvements in Police Quest - SWAT 2, which addressed many of the issues present in this game. The shift towards a more simulation-focused approach also set the stage for the development of later games in the series, which continued to refine and expand on the concepts introduced in Police Quest: SWAT.
+
 - [[CXL - SWAT - Urban Justice|← Previous: Urban Justice]]
 - [[1998 - Police Quest - SWAT 2|→ Next: Police Quest - SWAT 2]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)

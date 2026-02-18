@@ -275,6 +275,12 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 
 ## See Also
 
+Homeworld 2 builds upon the narrative foundation established in Homeworld - Cataclysm, where the Kushan people's struggle for survival and reclaiming of their homeworld sets the stage for the events of Homeworld 2. The game takes place one hundred years after the conclusion of the original Homeworld, with Karan S'jet once again leading the Hiigarans against a new threat in the form of the Vaygr. This continuity is reflected in the gameplay as well, with Homeworld 2 refining and expanding upon the three-dimensional real-time strategy mechanics introduced in the first game.
+
+Mechanically, Homeworld 2 represents a significant evolution over its predecessor, with improved graphics, innovative interface elements, and enhanced fleet control mechanisms that allow for more complex and immersive battles. The game's 3D engine enables truly spatial combat, where units can maneuver through 360 degrees of rotation and engage enemies from any direction, setting a new standard for the real-time strategy genre. This gameplay evolution would later influence the development of Homeworld Remastered Collection, which would go on to combine the best elements of the series into a single, cohesive package.
+
+The story of Homeworld 2 also lays the groundwork for future entries in the series, introducing key plot points and characters that would be revisited and expanded upon in subsequent games. The quest for the mythical first Hyperspace Core and the awakening of Sajuuk drive the narrative forward, setting the stage for further exploration of the Homeworld universe and its mysteries. As the series continues with Homeworld Remastered Collection, players can expect to see these story threads woven together into a rich and compelling tapestry that explores the depths of space and the destiny of the Hiigaran people.
+
 - [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 

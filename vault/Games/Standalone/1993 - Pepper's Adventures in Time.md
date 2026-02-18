@@ -145,14 +145,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [MyAbandonware](https://www.myabandonware.com/game/pepper-s-adventures-in-time-1ws)
 - [Internet Archive](https://archive.org/details/msdos_Peppers_Adventures_in_Time_1993)
 
-## See Also
-
-Pepper's Adventures in Time does not directly connect to the previous game in the series, Freddy Pharkas - Frontier Pharmacist, as it is a standalone title with its own unique storyline and characters. However, both games share a common thread of being developed by Sierra On-Line and featuring a blend of humor and adventure elements. The gameplay mechanics in Pepper's Adventures in Time also show an evolution from previous Sierra titles, with the introduction of a point-and-click interface and VGA graphics.
-
-In terms of narrative connections, Pepper's Adventures in Time does not have a direct sequel or prequel, but its educational focus and historical setting set it apart from other Sierra games. The game's satirical premise and portrayal of historical figures as hippies in colonial America provide a unique twist on traditional adventure games. While there is no direct connection to the next game in the series, Slater & Charlie Go Camping, Pepper's Adventures in Time showcases the diversity of Sierra's game development during the 1990s.
-
-The gameplay mechanics in Pepper's Adventures in Time, such as the use of the "TRUTH" icon to verify historical accuracy, demonstrate an innovation in educational game design. This feature allows players to learn about colonial American history while progressing through the game, making it a standout title in Sierra's catalog. Overall, Pepper's Adventures in Time remains a unique and creative game in the Sierra lineup, with its blend of education and adventure elements setting it apart from other titles in the series.
-
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Pepper's_Adventures_in_Time) – Release year and basic information
