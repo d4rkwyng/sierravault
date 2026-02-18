@@ -66,6 +66,7 @@ Other puzzle changes included alterations to point values and alternate solution
 The remake received mixed reviews upon release, with critical opinion sharply divided between those who appreciated the modernization and those who viewed it as tampering with a classic.
 
 **DOS Reviews:**
+
 | Publication | Score | Reviewer |
 |-------------|-------|----------|
 | Adventure Classic Gaming | 5/5 (100%) | Joppe Bos[^ref-9] |
@@ -74,6 +75,7 @@ The remake received mixed reviews upon release, with critical opinion sharply di
 | PC Soluces | 20% | —[^ref-2] |
 
 **Amiga Reviews:**
+
 | Publication | Issue | Score | Reviewer |
 |-------------|-------|-------|----------|
 | Amiga Force | Dec 1993 | 81% | Mark Smith[^ref-11] |

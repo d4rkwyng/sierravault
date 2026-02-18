@@ -157,6 +157,7 @@ The Kickstarter backers received various rewards and their involvement is commem
 The development team drew inspiration from "classic adventure games from Sierra and LucasArts"[^ref-5]. The comprehensive credits list includes "146 people (41 professional roles, 105 thanks) with 167 credits"[^ref-7], reflecting both the core development team and the community supporters who helped bring the project to life.
 
 **Key Team Members:**
+
 | Name | Role |
 |------|------|
 | James Broom | Designer |

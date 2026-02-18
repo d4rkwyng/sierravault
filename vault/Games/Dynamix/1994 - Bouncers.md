@@ -111,6 +111,7 @@ Next Generation stated in their March 1995 review: "It's goofy as hell, and a co
 ### Modern Assessment
 
 **Aggregate Scores:**
+
 | Platform | Score | Notes |
 |----------|-------|-------|
 | MobyGames Critics | 54% | 6 ratings[^ref-1] |

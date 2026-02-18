@@ -131,6 +131,7 @@ The game utilized an updated Red Baron game engine and featured new high-resolut
 The graphics were described as "better than any other sports game to date"[^ref-6], though it suffered from various technical issues that required multiple patches to address.[^ref-21]
 
 **System Requirements:**
+
 | Component | Minimum |
 |-----------|---------|
 | Processor | 486 DX2 66 MHz |

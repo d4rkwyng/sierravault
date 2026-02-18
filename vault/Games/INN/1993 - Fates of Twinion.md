@@ -63,6 +63,7 @@ The game offers extensive character customization:[^ref-10][^ref-14]
 - Human, Orc, Elf, Troll, Dwarf, Gnome, Halfling, Gremlin
 
 **Classes (6 total):**
+
 | Class | Role |
 |-------|------|
 | Barbarian | Melee combat specialist |
