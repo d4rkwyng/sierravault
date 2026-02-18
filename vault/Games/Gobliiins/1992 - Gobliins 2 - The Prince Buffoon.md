@@ -96,12 +96,12 @@ Modern retrospectives continue to view Gobliins 2 favorably, with appreciation f
 User reviews on preservation sites demonstrate enduring affection for the game. One enthusiastic reviewer on Downloads Khinsider proclaimed it "One Of the BEST old school adventure games ever!! Awesome GFX and play! I mean it! Totally undernoted, but really kicks major a$$."[^ref-18] Games Nostalgia compiled editorial reviews showing an aggregate score of 81/100 based on 8 reviews.[^ref-24]
 
 **Aggregate Scores:**
-- **MobyGames:** 7.5/10[^ref-3]
-- **IMDB:** 8.0/10[^ref-25]
-- **MyAbandonware:** 4.57/5 (user rating)[^ref-23]
-- **Lemon Amiga:** 8.26/10 (user rating)[^ref-26]
-- **DOSGames.com:** 4.5/5[^ref-15]
-- **Games Nostalgia:** 81/100 (editorial aggregate)[^ref-24]
+- **MobyGames:** 7.5/10
+- **IMDB:** 8.0/10
+- **MyAbandonware:** 4.57/5 (user rating)
+- **Lemon Amiga:** 8.26/10 (user rating)
+- **DOSGames.com:** 4.5/5
+- **Games Nostalgia:** 81/100 (editorial aggregate)
 
 ## Development
 

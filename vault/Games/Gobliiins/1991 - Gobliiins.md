@@ -245,8 +245,6 @@ The Gobliiins series spans five main entries across three decades, each with a d
 
 **Purchase / Digital Stores**
 - [GOG – Gobliiins Pack](https://www.gog.com/en/game/gobliiins_pack) - Includes first three games
-- [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) - Latest entry
-- [itch.io – GOBLiiiNS5](https://pierre-gilhodes.itch.io/gobliiins5) - Direct from creator
 
 **Download / Preservation**
 - [Internet Archive – German DOS Release](https://archive.org/details/gobliiins-1991-3.5-de) - Complete with manual
