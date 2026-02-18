@@ -3,8 +3,9 @@
   display: none;
 }
 
-/* Hide site name in left column */
-.site-body-left-column-site-name {
+/* Hide site name text (logo already shows it) */
+.site-body-left-column-site-name,
+.site-header-text {
   display: none !important;
 }
 
