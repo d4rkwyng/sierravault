@@ -1,5 +1,5 @@
 ---
-title: A-10 Tank Killer
+title: "A-10 Tank Killer v1.5"
 release_year: 1991
 developer: Dynamix
 designer: [Alan McKean, Bryce Morcello, Christopher Reese, Cyrus Kanga, Damon Slye,
