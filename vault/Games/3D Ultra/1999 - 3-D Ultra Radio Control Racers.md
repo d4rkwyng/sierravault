@@ -128,15 +128,8 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 
 ## See Also
 
-3-D Ultra Radio Control Racers builds upon the foundation established by its predecessor, 3-D Ultra Pinball - Power, by continuing to showcase Sierra's commitment to accessible and budget-friendly gaming experiences. While not directly narratively connected, both games share a common thread in their focus on arcade-style gameplay and simplicity, with Radio Control Racers introducing players to fast-paced racing action across diverse environments. This shift towards racing genres sets the stage for future innovations within the 3-D Ultra series.
-
-Mechanically, 3-D Ultra Radio Control Racers lays groundwork for the evolution of gameplay mechanics seen in later titles, such as 3-D Ultra Lionel TrainTown Deluxe. The introduction of customization options, special weapons, and varied track designs in Radio Control Racers foreshadows the detailed and interactive environments that would become a hallmark of TrainTown Deluxe. Furthermore, the emphasis on player accessibility and simplicity in Radio Control Racers aligns with the user-friendly approach adopted by TrainTown Deluxe, suggesting a deliberate design philosophy within the series to cater to a broad audience.
-
-The connection between 3-D Ultra Radio Control Racers and its successor, 3-D Ultra Lionel TrainTown Deluxe, is also evident in their shared emphasis on immersive and whimsical game worlds. While Radio Control Racers features radio-controlled cars racing through fantastical tracks filled with obstacles like blobs of ectoplasm and angry Rottweilers, TrainTown Deluxe would go on to offer a similarly engaging experience with its detailed model train sets and interactive scenarios. This thematic continuity underscores the series' commitment to providing unique and captivating gaming experiences that appeal to a wide range of players.
-
 - [[1999 - 3-D Ultra Pinball - Power|← Previous: 3-D Ultra Pinball - Power]]
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|→ Next: 3-D Ultra Lionel TrainTown Deluxe]]
-
 ## References
 
 [^ref-1]: [MobyGames - 3-D Ultra Radio Control Racers](https://www.mobygames.com/game/3044/3-d-ultra-radio-control-racers/) – - Game details, credits, technical specifications, and ratings data

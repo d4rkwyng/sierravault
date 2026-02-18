@@ -113,14 +113,7 @@ Fan-created unofficial patches have been developed to address minor technical is
 
 ## See Also
 
-Manhunter - New York connects to the previous entry in the series through its overarching narrative of alien invasion and human resistance, although there is no direct predecessor to build upon. The game's storyline sets the stage for the events that will unfold in Manhunter - San Francisco, where the player must continue their investigation into the Orb Alliance's sinister plans. Mechanically, Manhunter - New York introduces an innovative object-oriented interface that would later influence the development of its sequel.
-
-The events of Manhunter - New York have a direct impact on the plot of Manhunter - San Francisco, as the player's character delves deeper into the mysteries of the Orb Alliance and their intentions for humanity. The gameplay mechanics, such as the use of the MAD device and the exploration of a post-apocalyptic city, are also refined and expanded upon in the sequel. By playing through Manhunter - New York, players gain a deeper understanding of the series' universe and the motivations of its characters, including the protagonist Manhunter.
-
-As the series progresses to Manhunter - San Francisco, players can expect to encounter new challenges and puzzles that build upon the foundation established in Manhunter - New York. The game's engine and interface are also likely to be improved, offering a more streamlined and immersive experience. Through its narrative and gameplay, Manhunter - New York serves as a crucial link between the introduction of the series' core concepts and the further exploration of these ideas in the next installment.
-
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
-
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/24/manhunter-new-york/) – - Developer and designer credits

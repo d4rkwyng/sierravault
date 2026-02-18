@@ -104,15 +104,8 @@ The community created extensive modifications and content, including approximate
 
 ## See Also
 
-Tribes 2 builds upon the foundation established by its predecessor, Starsiege, by introducing improved gameplay mechanics and a more expansive multiplayer experience. The game's narrative continues the story of the Tribes of Man as they face a new threat from the BioDerm Horde, a genetically engineered slave race that has broken free and now seeks to destroy humanity. This setup allows for large-scale team-based combat, with players able to choose from various factions, including the Blood Eagle, Diamond Sword, and Starwolf.
-
-The gameplay in Tribes 2 evolves significantly from Starsiege, with the introduction of jetpack-powered flight and a greater emphasis on vertical movement. The game's multiplayer mode supports up to 64 players online or LAN, making it one of the most expansive multiplayer experiences available at the time of its release. The addition of new game modes, such as Capture the Flag and Hunters, also adds variety to the gameplay experience. These improvements laid the groundwork for the next entry in the series, Tribes - Aerial Assault, which would further refine the formula established by Tribes 2.
-
-Tribes 2 serves as a bridge between Starsiege and Tribes - Aerial Assault, refining the gameplay mechanics and narrative elements that would be carried forward into the next game. The success of Tribes 2's multiplayer mode and its innovative use of jetpack-powered movement also influenced the development of Tribes - Aerial Assault, which built upon these foundations to create an even more immersive and engaging experience. By expanding on the core concepts introduced in Starsiege and refining them in Tribes 2, the series was able to establish a strong identity and loyal player base that would continue to support it through future installments.
-
 - [[1999 - Starsiege|← Previous: Starsiege]]
 - [[2002 - Tribes - Aerial Assault|→ Next: Tribes - Aerial Assault]]
-
 ## References
 
 [^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship

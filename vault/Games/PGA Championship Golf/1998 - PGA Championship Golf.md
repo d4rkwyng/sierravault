@@ -255,14 +255,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 
 ## See Also
 
-PGA Championship Golf 2000 builds upon the foundations established by its predecessors in the Front Page Sports Golf series, particularly in its use of the revolutionary TrueSwing 3 control system. This mechanic, which allows players to control their golf club in real-time using mouse movements, was a significant improvement over traditional three-click swing meters and set a new standard for golf simulations. The game's focus on realism and authenticity also laid the groundwork for future entries in the series, including PGA Championship Golf 1999 Edition, which would continue to refine and expand upon the TrueSwing system.
-
-The absence of licensed professional PGA golfers in PGA Championship Golf 2000 was a deliberate design decision that allowed the development team to focus on gameplay features and innovation. This approach paid off, as the game's emphasis on customization and realism helped to establish it as a leader in the golf simulation genre. The next entry in the series, PGA Championship Golf 1999 Edition, would likely build upon this foundation, potentially incorporating new features and improvements while maintaining the core gameplay that made PGA Championship Golf 2000 so successful.
-
-As the series continues to evolve, it is likely that future entries will retain the core elements that made PGA Championship Golf 2000 a success, including the TrueSwing system and emphasis on customization and realism. The game's use of the Course Architect tool, which enabled players to design their own courses, also added a new layer of depth and replayability to the series, and it is likely that this feature will be expanded upon in future entries. Overall, PGA Championship Golf 2000 represents an important milestone in the evolution of the PGA Championship Golf series, and its influence can still be seen in modern golf simulations.
-
 - [[1999 - PGA Championship Golf 1999 Edition|→ Next: PGA Championship Golf 1999 Edition]]
-
 ## References
 
 [^ref-1]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – release dates, developer info, ratings, technical details, reception

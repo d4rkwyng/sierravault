@@ -324,11 +324,6 @@ However, the game's legacy has been complicated by its commercial unavailability
 
 ## See Also
 
-The Operative: No One Lives Forever sets the stage for the events of its sequel, No One Lives Forever 2, by introducing players to the world of UNITY and H.A.R.M., as well as the protagonist Cate Archer, who becomes a central figure in the series. The game's narrative concludes with Cate proving herself as a capable agent, but also leaves room for the next installment by revealing that the villain Dmitrij Volkov survived, setting up a potential rematch between the two characters. This cliffhanger ending creates a sense of continuity and anticipation for the next game in the series.
-
-Mechanically, No One Lives Forever builds upon the foundations established by earlier first-person shooters, such as GoldenEye 007 and Half-Life, and refines them with its own unique blend of stealth gameplay, intelligent storytelling, and sharp comedic writing. The game's use of interactive music, clever AI, and diverse international locales also raises the bar for future games in the series, including No One Lives Forever 2, which would go on to expand upon these features and introduce new ones. By establishing a high level of polish and quality, No One Lives Forever creates a benchmark for its sequel to strive for.
-
-The connection between No One Lives Forever and its sequel is also evident in the character development of Cate Archer, who undergoes significant growth throughout the game as she navigates the challenges of being a female operative in a male-dominated field. Her experiences and relationships with other characters, such as Magnus Armstrong and Baron Archibald Dumas, lay the groundwork for her continued adventures in No One Lives Forever 2, where she will face new challenges and villains. By investing players in Cate's story and character, the game creates a sense of investment and curiosity about what the future holds for her, making the transition to the next game in the series feel natural and exciting.
 
 ## References
 

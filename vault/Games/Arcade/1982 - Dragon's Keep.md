@@ -221,11 +221,6 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 
 ## See Also
 
-Dragon's Keep builds upon the foundations established in Creepy Corridors, with its simplified interface and focus on exploration and puzzle-solving laying the groundwork for future Arcade series titles. The game's design, led by Al Lowe, introduces a unique menu-driven system that allows young players to interact with the game world using just two keys, a mechanic that would evolve in subsequent games like Laf Pak. By streamlining controls and emphasizing reading comprehension, Dragon's Keep sets the stage for more complex adventures while maintaining an accessible tone.
-
-As the series progresses towards Laf Pak, the gameplay mechanics introduced in Dragon's Keep become more refined, with an increased emphasis on strategic thinking and problem-solving. The random appearances of the dragon in Dragon's Keep teach players patience and adaptability, skills that will be essential in navigating the challenges of later games. Furthermore, the deliberate design choice to create a compact game world ensures that young players can experience success without becoming overwhelmed, a philosophy that would continue to guide the development of future Arcade series entries.
-
-The connection between Dragon's Keep and Laf Pak is also evident in their shared focus on educational goals, with both games aiming to develop critical thinking and reading skills in young players. While Creepy Corridors laid the groundwork for the series' blend of adventure and education, Dragon's Keep refines this formula, and Laf Pak will further expand upon it, introducing new challenges and gameplay elements that build upon the foundations established in Dragon's Keep. By examining the narrative and mechanical connections between these games, it becomes clear that the Arcade series is characterized by a consistent commitment to innovative game design and educational value.
 
 ## References
 

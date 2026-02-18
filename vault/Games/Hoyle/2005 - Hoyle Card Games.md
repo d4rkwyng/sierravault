@@ -189,15 +189,8 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 
 ## See Also
 
-Hoyle Card Games 2005 builds upon the foundation established by its predecessor, Hoyle Board Games, by expanding the series' focus to include a wide variety of card games. This shift in focus allowed Sierra to cater to a broader audience, including both fans of board games and those specifically interested in card games like Bridge, Hearts, and Solitaire. The introduction of the Facemaker character customization system and the Hoyle Bucks virtual currency added new layers of depth and replayability to the series.
-
-The gameplay mechanics and features introduced in Hoyle Card Games 2005 laid the groundwork for future innovations in the series, including the eventual release of Hoyle Casino 3D. This next installment would take the series in a new direction, incorporating immersive 3D environments and a wider range of casino-style games. The achievement system, which was a highlight of Hoyle Card Games 2005, likely influenced the design of future games in the series, including Hoyle Casino 3D, by providing a framework for tracking player progress and accomplishments.
-
-The narrative structure of Hoyle Card Games 2005, while not traditional, sets the stage for the social simulation aspects that would become more pronounced in later entries like Hoyle Casino 3D. The use of customizable avatars and interactive computer opponents created a sense of community and competition, elements that are essential to the casino experience offered by the next game in the series. By evolving the series' focus towards card games and introducing new features like achievements and virtual currency, Hoyle Card Games 2005 played a crucial role in shaping the direction of the Hoyle series and its eventual transition into 3D gaming with Hoyle Casino 3D.
-
 - [[2005 - Hoyle Board Games|← Previous: Hoyle Board Games]]
 - [[2005 - Hoyle Casino 3D|→ Next: Hoyle Casino 3D]]
-
 ## References
 
 [^ref-2]: [IGN – Hoyle Card Games 2005](https://www.ign.com/games/hoyle-card-games-2005) – mobile platforms, publishers, content ratings, game features

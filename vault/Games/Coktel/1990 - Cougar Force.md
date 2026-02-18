@@ -229,11 +229,6 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 
 ## See Also
 
-Cougar Force builds upon the foundations laid by its predecessor, Legend of Djel, by introducing a new protagonist, Agent Cougar, and expanding on the action genre with a multi-genre approach. The game's narrative follows Agent Cougar as he infiltrates a criminal fortress to retrieve intelligence on a new drug trafficking operation, showcasing a more fast-paced and action-oriented storyline compared to Legend of Djel. Mechanically, Cougar Force evolves from its predecessor by incorporating side-scrolling beat 'em up sequences, flight simulation, and motorcycle racing segments, providing a diverse gaming experience.
-
-The game's ambitious approach to combining multiple gameplay styles sets the stage for future entries in the series, such as Geisha, which would likely build upon this multi-genre concept. Geisha may potentially feature more refined and polished gameplay mechanics, learning from the successes and challenges of Cougar Force's experimental design. Furthermore, the character development and narrative twists introduced in Cougar Force could be expanded upon in Geisha, possibly exploring new themes and plotlines while maintaining the series' signature action-packed style.
-
-As the series progresses, it is likely that future games will continue to evolve and refine the gameplay mechanics introduced in Cougar Force, potentially incorporating new genres or hybridizing existing ones. The connections between Legend of Djel, Cougar Force, and Geisha are rooted in their shared emphasis on action, exploration, and innovative gameplay design, with each entry pushing the boundaries of what is possible within the series. By examining these narrative and mechanical connections, fans can gain a deeper understanding of the Coktel series' development and growth over time.
 
 ## References
 

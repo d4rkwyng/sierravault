@@ -239,11 +239,6 @@ The game also represents an important cautionary tale about the challenges of de
 
 ## See Also
 
-The Realm Online builds upon the foundations laid by its spiritual predecessor, Fates of Twinion, by expanding the scope of online multiplayer interaction and introducing a vast, persistent game world. While Fates of Twinion focused on localized multiplayer experiences, The Realm Online leaps forward by creating a massively multiplayer environment where players can engage in a wide range of activities, from cooperative quests to player-versus-player combat. This shift towards a more expansive and dynamic online community sets the stage for future innovations in the genre.
-
-Mechanically, The Realm Online refines many of the concepts introduced in earlier games, such as the use of point-and-click interfaces and character progression systems. The game's turn-based combat and emphasis on strategic planning also draw from the traditions of earlier RPGs, while its introduction of instances and a player-driven economy mark significant steps forward in MMORPG design. These advancements would go on to influence later titles, including those that followed in the footsteps of The Realm Online's pioneering work in the MMORPG genre.
-
-As the series evolves beyond The Realm Online, we see the continuation of many themes and mechanics introduced in this game, with future titles building upon its foundations to create even more complex and engaging online worlds. The next entry in the series would further refine the concepts of community interaction, character customization, and dynamic gameplay, pushing the boundaries of what is possible in a massively multiplayer environment and cementing The Realm Online's place as a crucial stepping stone in the evolution of MMORPGs.
 
 ## References
 

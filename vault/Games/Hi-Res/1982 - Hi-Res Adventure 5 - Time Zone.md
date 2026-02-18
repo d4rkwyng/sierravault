@@ -198,11 +198,6 @@ For Sierra specifically, Time Zone represented an important learning experience.
 
 ## See Also
 
-Time Zone builds upon the foundations established by its predecessor, Adventure in Serenia, by introducing a more complex and expansive gameplay world. The game's use of a two-word parser adventure game system and its graphic and text modes were likely influenced by the earlier title's mechanics. Additionally, Roberta Williams' experience in designing Adventure in Serenia may have informed her approach to creating the vast, 1,500-screen world of Time Zone.
-
-The narrative of Time Zone, which involves traveling through time to prevent an alien threat, sets the stage for the more fantastical elements that would be explored in the next game in the series, Hi-Res Adventure 6 - The Dark Crystal. The idea of exploring different worlds and encountering various characters, as seen in Time Zone's 39 time zones, may have laid the groundwork for the more focused, fantasy-world approach of The Dark Crystal. Furthermore, the gameplay mechanics of Time Zone, such as its puzzle-solving and item collection, were likely refined and built upon in the subsequent title.
-
-In terms of mechanical evolution, Time Zone represents a significant step forward from Adventure in Serenia, with its increased scope, complex puzzles, and expansive world. This trend would continue with Hi-Res Adventure 6 - The Dark Crystal, which would likely build upon the lessons learned from Time Zone's development and reception. The use of the ADL engine in Time Zone also demonstrates a commitment to advancing the technical capabilities of the series, paving the way for future innovations in the Hi-Res Adventures line.
 
 ## References
 

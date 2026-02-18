@@ -228,11 +228,6 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 
 ## See Also
 
-As the first enhanced remake in the series, Oil's Well builds upon the foundation established by its 1983 predecessor, also titled Oil's Well. The game introduces improved 256-color VGA graphics and a full soundtrack, enhancing the overall gaming experience. By retaining the core gameplay concept of navigating a drilling bit through underground tunnels to collect oil while avoiding subterranean creatures, the 1990 version ensures continuity with its original counterpart.
-
-The narrative elements, though minimal, are expanded upon with the introduction of Slater the Petrosaur, a character who would later star in his own game, demonstrating the potential for character development within the series. Mechanically, the game refines the control scheme and level design, offering a more challenging and engaging experience compared to its predecessor. The inclusion of animated cartoon sequences between levels adds a new layer of depth to the series, setting the stage for potential future narrative developments.
-
-In terms of series progression, Oil's Well (1990) does not have a direct sequel within the same franchise, but its influence can be seen in other arcade-style games developed by Sierra. The character of Slater the Petrosaur, in particular, goes on to appear in Slater & Charlie Go Camping, showcasing Sierra's willingness to explore spin-off titles and expand on popular characters from their franchises. While Oil's Well (1990) may not directly lead into another game in the series, it solidifies the franchise's place within Sierra's catalog of classic arcade games.
 
 ## References
 

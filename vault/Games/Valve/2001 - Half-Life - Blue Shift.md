@@ -272,15 +272,8 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 
 ## See Also
 
-Half-Life: Blue Shift connects to its predecessor, Deathmatch Classic, through its expansion of the Half-Life universe, introducing new characters like Barney Calhoun and refining gameplay mechanics that were first explored in the earlier title. Although Deathmatch Classic was primarily a multiplayer-focused release, it laid groundwork for the expanded storytelling seen in Blue Shift, which offers a unique perspective on the events of the original Half-Life through the eyes of a Black Mesa security guard. This narrative approach sets the stage for further character development and plot exploration in subsequent games.
-
-In terms of gameplay evolution, Blue Shift builds upon the foundations established by its predecessors, including Deathmatch Classic, with improved graphics courtesy of the High Definition Pack and refined level design that minimizes frustration while maximizing engagement. The next entry in the series, Counter-Strike - Condition Zero, would further evolve these mechanics, introducing a more competitive multiplayer component and expanding on the tactical gameplay that players experienced in Blue Shift. By focusing on a different protagonist and storyline, Blue Shift helps to enrich the Half-Life universe, preparing players for the diverse range of experiences offered by later titles.
-
-The transition from Half-Life: Blue Shift to Counter-Strike - Condition Zero also marks a significant shift in focus within the Valve series, moving from single-player driven narratives to multiplayer-centric gameplay. While Blue Shift concludes with Barney Calhoun's escape from Black Mesa, setting the stage for his future appearances in the series, Counter-Strike - Condition Zero dives into the world of competitive counter-terrorism operations, leveraging the GoldSrc engine's capabilities to deliver fast-paced, team-based action. This change in direction underscores the versatility of the Valve series, capable of delivering both deep, story-driven experiences like Blue Shift and intense, multiplayer-focused games like Counter-Strike - Condition Zero.
-
 - [[2001 - Deathmatch Classic|← Previous: Deathmatch Classic]]
 - [[2004 - Counter-Strike - Condition Zero|→ Next: Counter-Strike - Condition Zero]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) – release dates, developer, publisher, credits

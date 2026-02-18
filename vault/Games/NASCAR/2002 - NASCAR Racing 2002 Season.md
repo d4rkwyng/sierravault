@@ -135,15 +135,8 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 
 ## See Also
 
-NASCAR Racing 2002 Season builds upon the foundation established by its predecessor, NASCAR Racing 4, by enhancing the critically acclaimed 3D physics engine and introducing new features such as digital steering assistance for keyboard control. This evolution in gameplay mechanics allows for a more accessible and realistic racing experience, catering to both simulation enthusiasts and newcomers to the series. The game's developer, Papyrus Design Group, successfully bridged the gap between arcade-style play and realistic simulation, making it an essential installment in the NASCAR Racing series.
-
-The narrative of NASCAR Racing 2002 Season is deeply rooted in the real-life 2002 NASCAR Winston Cup Series season, featuring authentic cars, teams, and drivers like Jeff Gordon and Dale Earnhardt Jr. This attention to detail and commitment to realism sets the stage for the next entry in the series, NASCAR Racing 2003 Season, which would further refine the gameplay mechanics and simulation aspects introduced in NASCAR Racing 2002 Season. The inclusion of complete track tours narrated by Darrell Waltrip and a comprehensive driving tutorial also underscores the game's focus on educating players about the intricacies of NASCAR racing.
-
-In terms of mechanical evolution, NASCAR Racing 2002 Season laid the groundwork for future innovations in the series, particularly in its enhanced physics engine and improved AI system. These advancements would be built upon in NASCAR Racing 2003 Season, which would introduce new features and refinements to the simulation aspects of the game. The success of NASCAR Racing 2002 Season can be seen as a pivotal moment in the series, marking a shift towards more realistic and immersive gameplay that would become a hallmark of subsequent entries, including NASCAR Racing 2003 Season.
-
 - [[2001 - NASCAR Racing 4|← Previous: NASCAR Racing 4]]
 - [[2003 - NASCAR Racing 2003 Season|→ Next: NASCAR Racing 2003 Season]]
-
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – - Developer, designer, and basic game information

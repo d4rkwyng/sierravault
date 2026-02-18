@@ -233,15 +233,8 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 
 ## See Also
 
-Hoyle Board Games 2001 builds upon the foundation established by its predecessor, Hoyle Solitaire and Mahjong Tiles, by expanding the scope of classic games offered in the series. The inclusion of 16 board games, plus three bonus card games, demonstrates a significant increase in content diversity compared to earlier titles, which focused more narrowly on solitaire and mahjong variations. This expansion sets the stage for future entries in the series to continue broadening their appeal.
-
-The mechanical evolution from Hoyle Solitaire and Mahjong Tiles to Hoyle Board Games 2001 is marked by enhanced graphics, sound, and the introduction of Sierra's patented "facemaker" character creation system, allowing for personalized avatars that add a new layer of engagement to gameplay. These advancements pave the way for subsequent titles, such as Hoyle Casino, to further refine and expand upon these features, potentially incorporating more complex game mechanics and social interactions.
-
-As the series progresses towards Hoyle Casino, it's clear that the groundwork laid by Hoyle Board Games 2001 in terms of game variety, customizable player experiences, and multiplayer capabilities will be crucial. The introduction of new games like Master Match and Rummy Squares in Hoyle Board Games 2001 showcases the series' commitment to innovation and listener feedback, a trend likely to continue with the release of Hoyle Casino, which may integrate casino-style games and possibly even more sophisticated online play features, further enriching the Hoyle gaming universe.
-
 - [[2000 - Hoyle Solitaire and Mahjong Tiles|← Previous: Hoyle Solitaire and Mahjong Tiles]]
 - [[2001 - Hoyle Casino|→ Next: Hoyle Casino]]
-
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms

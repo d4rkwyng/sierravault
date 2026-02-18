@@ -181,11 +181,6 @@ The game has been preserved through abandonware archives and the Internet Archiv
 
 ## See Also
 
-NASCAR Craftsman Truck Series Racing builds upon the foundation established by its predecessor, NASCAR Racing 2 - Grand National Series Expansion, by offering a specialized and authentic truck-racing experience. The game's focus on the NASCAR Craftsman Truck Series allows for unique gameplay mechanics, such as the handling of 700-horsepower trucks, which distinguishes it from other titles in the series. This evolution in gameplay is a testament to Papyrus Design Group's commitment to creating realistic racing simulations that cater to different segments of the NASCAR fanbase.
-
-The game's modular design also reflects Sierra's strategy of offering flexible content options, as evidenced by its compatibility with other Papyrus NASCAR products, including NASCAR Racing 2 and NASCAR Racing 1999 Edition. This approach enables players to customize their racing experience according to their preferences, whether by adding truck-racing content to an existing game or purchasing a standalone title. By doing so, Sierra aims to provide a tailored experience for fans of different NASCAR series, setting the stage for future titles like NASCAR Legends.
-
-NASCAR Craftsman Truck Series Racing lays the groundwork for NASCAR Legends, which would go on to introduce new features and gameplay mechanics while maintaining the series' commitment to realism and authenticity. The attention to detail in truck handling, track selection, and vehicle customization in NASCAR Craftsman Truck Series Racing establishes a high standard for subsequent games in the series, including NASCAR Legends. By building upon the successes of its predecessors and refining its gameplay mechanics, the NASCAR series continues to evolve and improve, offering an increasingly immersive experience for racing enthusiasts.
 
 ## References
 

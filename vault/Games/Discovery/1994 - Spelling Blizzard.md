@@ -199,11 +199,6 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 
 ## See Also
 
-Spelling Blizzard builds upon the foundation established by its predecessor in the Discovery series, Turbo Learning - Mega Math, by introducing a new setting and refining the educational gameplay mechanics. While Mega Math focused on mathematical concepts, Spelling Blizzard shifts the attention to spelling and vocabulary skills, maintaining the engaging puzzle-solving approach that made the previous game successful. The transition from a math-centric title to one focused on language arts demonstrates the series' commitment to providing a well-rounded educational experience.
-
-The narrative of Spelling Blizzard, where players guide Wali through an arctic environment to solve a crisis, serves as a compelling backdrop for the spelling challenges. This storyline approach was likely influenced by the success of narrative-driven games in the Sierra lineup and sets the stage for future titles in the series to incorporate more immersive storytelling elements. As the series progresses, it will be interesting to see how the gameplay mechanics evolve, potentially incorporating more complex puzzles or new subjects, such as science or history.
-
-In terms of mechanical evolution, Spelling Blizzard's grid-based puzzle design and emphasis on spatial reasoning alongside spelling skills mark a significant step forward from the previous title. The game's 101 levels of increasing difficulty ensure that players are continually challenged, preparing them for even more complex educational adventures in subsequent games, such as the eventual sequel that may build upon the foundations laid by Spelling Blizzard. By refining the puzzle mechanics and introducing new challenges, the Discovery series continues to push the boundaries of what educational games can achieve.
 
 ## References
 

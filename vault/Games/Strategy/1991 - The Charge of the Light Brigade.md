@@ -201,11 +201,6 @@ Impressions Games would find greater success with their subsequent city-building
 
 ## See Also
 
-The Charge of the Light Brigade builds upon the foundations laid by its predecessor, The Ancient Art of War at Sea, by refining the miniature-style battle simulation system and applying it to a historically significant land-based conflict. This enhancement allows for more intricate and realistic battle scenarios, such as the recreation of the Battle of Balaclava, where players must navigate the complexities of commanding the Allied forces or the Russian army. The game's focus on historical accuracy and its innovative visual presentation set the stage for future strategy games in the series.
-
-Mechanically, The Charge of the Light Brigade lays the groundwork for the more complex and large-scale battles that would be featured in subsequent titles, such as V for Victory - D-Day Utah Beach. The introduction of real-time gameplay and variable battle speed settings in The Charge of the Light Brigade adds a new layer of depth to the strategy genre, allowing players to experience the urgency and chaos of historical battles like never before. This evolution in gameplay mechanics would continue to influence the development of future games in the series.
-
-The narrative thread that connects The Charge of the Light Brigade to other games in the series is one of historical conflict and strategic decision-making. While The Ancient Art of War at Sea explored naval warfare, The Charge of the Light Brigade delves into land-based battles, and V for Victory - D-Day Utah Beach would later focus on a pivotal moment in World War II. Through these different titles, players are offered a variety of historical contexts in which to test their strategic skills, from the Crimean War to World War II, each with its unique challenges and gameplay mechanics.
 
 ## References
 

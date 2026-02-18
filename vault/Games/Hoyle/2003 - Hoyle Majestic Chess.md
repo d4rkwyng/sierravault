@@ -225,16 +225,9 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 
 ## See Also
 
-Hoyle Majestic Chess marks a departure from the traditional casino games that preceded it in the Hoyle series, such as Hoyle Casino, by focusing on the strategic board game of chess. This shift in genre allows for a unique blend of educational content and engaging gameplay, setting it apart from its predecessors. The introduction of the "Chess Adventure" mode, where players guide a lone king through a fantasy narrative to defeat the evil force Sargon, adds a compelling story-driven element that was not present in previous Hoyle titles.
-
-The gameplay mechanics in Hoyle Majestic Chess, including its various viewing perspectives and control methods, represent an evolution in user interface design compared to earlier games in the series. The ability to choose from different chess piece sets and board styles also enhances the game's replay value and personalization options. However, the return to casino-themed games with the next entry, Hoyle Casino, suggests that the series would revert to its roots after this chess-focused interlude. Despite this, the innovations introduced in Hoyle Majestic Chess, particularly in its approach to teaching complex strategies through an adventure narrative, leave a lasting impact on the series.
-
-The narrative and mechanical elements of Hoyle Majestic Chess do not directly influence the plot or gameplay of Hoyle Casino, given the significant difference in genres. Nonetheless, the experimentation with new game modes and educational approaches in Hoyle Majestic Chess demonstrates Sierra's willingness to innovate within the Hoyle brand, potentially influencing future titles in terms of accessibility and player engagement. The success of Hoyle Majestic Chess in making chess more approachable and enjoyable for a wide range of players could inform the design of subsequent games, even if they return to more traditional casino formats.
-
 - **Series:** Hoyle Games (Sierra Entertainment)
 - [[2003 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2004 - Hoyle Casino|→ Next: Hoyle Casino]]
-
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Majestic Chess](https://www.mobygames.com/game/10294/hoyle-majestic-chess/) – developer, publisher, release date, credits, technical specs, critic scores, user reviews

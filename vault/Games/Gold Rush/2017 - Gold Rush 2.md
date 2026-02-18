@@ -226,15 +226,8 @@ The game's short length (completable in under three hours) and easy puzzles posi
 
 ## See Also
 
-Gold Rush! 2 builds upon the narrative foundation established by Gold Rush! Anniversary, continuing the story of Jake and Jerrod Wilson twenty years after their original adventure to California's Mother Lode. The sequel introduces new historical elements, such as the Transcontinental Railroad and the character of William "Boss" Tweed, while maintaining the point-and-click gameplay mechanics that defined its predecessor. By expanding on the Wilson brothers' story, Gold Rush! 2 creates a sense of continuity with the previous game, exploring the consequences of their successful mining ventures and the challenges they face in their personal lives.
-
-The gameplay in Gold Rush! 2 evolves from the systems introduced in Gold Rush! Anniversary, featuring improved graphics and a more streamlined interface. However, the sequel's puzzles and challenges have been criticized for being overly simplistic, lacking the depth and complexity of its predecessor. Despite this, the game remains faithful to the spirit of the original Gold Rush!, offering a unique blend of adventure gameplay and historical education. As the series continues to evolve, it will be interesting to see how future installments build upon the foundation established by Gold Rush! 2.
-
-In terms of narrative continuity, Gold Rush! 2 sets the stage for potential future sequels, introducing new characters and plot threads that could be explored in subsequent games. The story's conclusion, while providing a sense of closure for the Wilson brothers, leaves room for further adventures and challenges, potentially paving the way for a new installment in the series. As the Gold Rush! series continues to grow and evolve, fans of the franchise can look forward to seeing how the story of Jake and Jerrod Wilson unfolds, and how the gameplay mechanics continue to adapt and improve with each new entry.
-
 - **Related:** [[1988 - Gold Rush]]
 - [[2014 - Gold Rush Anniversary|← Previous: Gold Rush Anniversary]]
-
 ## References
 
 [^ref-1]: [Gold Rush! Game – Official Website](https://www.goldrush-game.com/) – release dates, version history, development timeline, box version details

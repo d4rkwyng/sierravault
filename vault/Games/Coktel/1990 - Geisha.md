@@ -187,15 +187,8 @@ The game has been preserved by various abandonware sites and is considered no lo
 
 ## See Also
 
-Geisha marks a significant departure from the preceding Cougar Force in terms of its narrative and gameplay mechanics, as it delves into mature themes and surreal imagery. While Cougar Force laid the groundwork for Coktel Vision's experimentation with adventure games, Geisha takes a bold step into the realm of erotic content and cyberpunk aesthetics, setting the stage for future innovations in the series. The game's use of point-and-click interface and slideshow-style graphics also establishes a foundation for later titles to build upon.
-
-In terms of narrative continuity, Geisha's story is relatively standalone, with its focus on the protagonist's quest to rescue his girlfriend Eva from the clutches of the mad scientist known as the Lustful Dragon. However, the game's themes of technology and human desire may be seen as a precursor to the more sci-fi oriented elements found in the subsequent title, A.G.E. The character of Sensei Isuzu, with her cryptic advice, also adds a layer of depth to the story that could potentially be explored further in future games.
-
-The evolution of gameplay mechanics from Geisha to A.G.E. is notable, as the latter game is expected to build upon the foundations established by Geisha's puzzle design and interface. A.G.E. may incorporate more refined and intuitive controls, as well as a greater emphasis on storytelling and character development, while maintaining the sense of surrealism and challenge that defines Geisha. As the series progresses, it will be interesting to see how Coktel Vision continues to push the boundaries of adventure game design and narrative exploration.
-
 - [[1989 - Emmanuelle]] - Previous Coktel adult adventure
 - [[Muriel Tramis]] - Designer
-
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3844/geisha/) – Basic game information and developer/publisher details

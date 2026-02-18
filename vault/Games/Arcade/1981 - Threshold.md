@@ -205,11 +205,6 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 
 ## See Also
 
-Threshold builds upon the foundation established by its predecessor, Sabotage, by introducing more complex enemy patterns and resource management mechanics, setting the stage for further evolution in the series. The game's narrative of a desperate fight for humanity's survival against alien invaders also lays groundwork for the themes of resilience and determination that would be explored in subsequent titles, including Cannonball Blitz. By refining the shooter genre with its unique blend of action and strategy, Threshold solidifies its place within the Arcade series.
-
-The gameplay mechanics introduced in Threshold, such as the temperature gauge for the laser weapon and the fuel management system, represent a significant step forward from Sabotage, offering players a more nuanced and challenging experience. These innovations would go on to influence the design of Cannonball Blitz, which would further expand upon the shooter formula with new features and gameplay elements. The success of Threshold in balancing simplicity with depth also informed the development of future series entries, ensuring that each game would offer a compelling and engaging experience for players.
-
-As the series progresses towards Cannonball Blitz, the core principles established in Threshold - including fast-paced action, strategic resource management, and escalating difficulty - continue to evolve. The narrative thread of humanity's struggle against alien forces also remains a constant theme, with each game building upon the foundation laid by its predecessors to create a cohesive and engaging storyline. By understanding the connections between Threshold and its neighboring titles in the Arcade series, players can appreciate the thoughtful design and deliberate progression that defines this iconic series of games.
 
 ## References
 

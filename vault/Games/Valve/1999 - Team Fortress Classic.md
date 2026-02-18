@@ -246,15 +246,8 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 
 ## See Also
 
-Team Fortress Classic builds upon the foundation laid by Half-Life - Opposing Force, leveraging the same GoldSrc engine to deliver a unique multiplayer experience. Although it doesn't directly continue the narrative of its predecessor, Team Fortress Classic's gameplay mechanics and class-based system paved the way for future Valve titles, including Counter-Strike, which would further refine the concept of team-oriented gameplay. The success of Team Fortress Classic also demonstrated the potential of modding communities in driving innovation, a lesson that would influence the development of subsequent games.
-
-In terms of narrative connections, Team Fortress Classic is retroactively linked to the Team Fortress universe, with later canonical materials establishing it as part of an alternate 1930s timeline. This connection is reinforced by the appearance of characters from Team Fortress Classic in Team Fortress 2 comics, highlighting the shared heritage between the two games. While Counter-Strike would take a different approach to multiplayer gameplay, focusing on more realistic military simulations, it's clear that Valve drew upon the lessons learned from Team Fortress Classic in crafting its own brand of competitive multiplayer.
-
-The evolution of gameplay mechanics from Half-Life - Opposing Force to Team Fortress Classic and eventually Counter-Strike is also noteworthy. Team Fortress Classic's emphasis on class-based teamwork and objective completion raised the bar for multiplayer games, and its influence can be seen in the more refined team dynamics and game modes found in Counter-Strike. As the series progressed, Valve continued to refine its approach to multiplayer gameplay, incorporating new features and mechanics that would become hallmarks of the genre.
-
 - [[1999 - Half-Life - Opposing Force|← Previous: Half-Life - Opposing Force]]
 - [[2000 - Counter-Strike|→ Next: Counter-Strike]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history

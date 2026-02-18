@@ -365,15 +365,8 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 ## See Also
 
-While Half-Life 2 marks a significant departure from the multiplayer-focused Counter-Strike series, particularly Counter-Strike - Condition Zero, it builds upon the narrative foundation established by its immediate predecessor, Half-Life. The game's protagonist, Gordon Freeman, awakens to find Earth under the control of the Combine, an interdimensional empire that invaded the planet through dimensional portals created during the Black Mesa Incident from the first game. This sets the stage for a story that explores themes of resistance and rebellion against an oppressive alien force.
-
-In terms of gameplay mechanics, Half-Life 2 introduces significant innovations, including the Gravity Gun, which allows players to manipulate objects in the environment, and advanced physics simulation through the integrated Havok physics engine. These features, built on Valve's proprietary Source engine, raise the bar for first-person shooter games and pave the way for future titles in the series, such as Half-Life 2: Episode One. The game's emphasis on environmental storytelling and facial animation technology also sets a new standard for narrative-driven games.
-
-The narrative of Half-Life 2 is continued in its episodic sequels, starting with Half-Life 2: Episode One, which follows Gordon Freeman and Alyx Vance as they attempt to escape City 17 after the destruction of the Citadel. The story expands on the characters and settings introduced in Half-Life 2, delving deeper into the consequences of the Combine's occupation of Earth and the human resistance's fight for freedom. Through its engaging storyline and immersive gameplay, Half-Life 2 solidifies its position as a landmark title in the Half-Life series, influencing countless games that follow in its footsteps.
-
 - **Next:** Half-Life 2: Episode One (2006)
 - [[2004 - Counter-Strike - Condition Zero|← Previous: Counter-Strike - Condition Zero]]
-
 ## References
 
 [^ref-1]: [Half-Life.com – Official Half-Life 2 Page](https://www.half-life.com/en/halflife2) – release date, platforms, awards, review quotes

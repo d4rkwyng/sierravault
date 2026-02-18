@@ -257,15 +257,8 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 
 ## See Also
 
-Hoyle Puzzle and Board Games 2005 builds upon the foundation established by its predecessor, Hoyle Poker Series, by expanding the series' scope to include a wide range of puzzle and board games. This shift in focus allows players to engage with a broader spectrum of gameplay experiences, from classic puzzles like Mahjong Tiles and Word Searches to traditional board games such as Backgammon and Chess. The inclusion of the Facemaker feature, which enables players to customize their avatars, adds a personal touch to the game, setting the stage for future iterations in the series.
-
-The gameplay mechanics in Hoyle Puzzle and Board Games 2005, including its point-and-select interface and varied puzzle and board game offerings, lay the groundwork for the more specialized focus of its successor, Hoyle Texas Hold Em. While Hoyle Texas Hold Em would delve deeper into the specifics of poker, Hoyle Puzzle and Board Games 2005 provides a diverse gaming experience that appeals to a wide audience, with its ESRB "E for Everyone" rating and broad range of content. The Bucks Achievement system, which rewards players for their progress across different games, introduces an element of progression and replay value that would be further developed in subsequent titles.
-
-The evolution from Hoyle Poker Series to Hoyle Puzzle and Board Games 2005 and then to Hoyle Texas Hold Em demonstrates Sierra's effort to cater to different gaming preferences within the series. By offering a compilation of puzzle and board games, Hoyle Puzzle and Board Games 2005 serves as a bridge between the more focused poker experience of its predecessor and the specialized poker gameplay of its successor. This approach allows the series to maintain its appeal to both casual players and seasoned gamers, ensuring a continuous thread of engaging gameplay and character customization throughout the Hoyle series.
-
 - [[2005 - Hoyle Poker Series|← Previous: Hoyle Poker Series]]
 - [[2005 - Hoyle Texas Hold Em|→ Next: Hoyle Texas Hold Em]]
-
 ## References
 
 [^ref-1]: [Amazon Singapore – Hoyle Puzzle Board Games 2005](https://www.amazon.sg/Hoyle-Puzzle-Board-Games-2005/dp/B0001BR9QG) – product description, platform compatibility, release date, feature list

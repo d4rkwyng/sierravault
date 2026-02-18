@@ -184,11 +184,6 @@ This article focuses specifically on the 1993 Impressions Games title.
 
 ## See Also
 
-Global Domination builds upon the strategic foundations laid by its predecessor, V for Victory - D-Day Utah Beach, by expanding the scope of conflict to a global scale and introducing new mechanics such as intelligence operations and unit obsolescence. This shift towards a more complex and dynamic world reflects the evolving nature of strategy games in the early 1990s, with Global Domination offering players a chance to engage in diplomatic warfare and manage multiple unit types across various territories. The game's science fiction conceit, which involves cloned historical leaders, adds a unique twist to the traditional strategy formula.
-
-In terms of narrative continuity, Global Domination's focus on global conquest and the struggle for power among five superpowers sets the stage for the more futuristic and otherworldly conflicts that would be explored in the next entry in the series, Alien Legacy. The game's emphasis on strategic decision-making and resource management also lays the groundwork for the more complex and nuanced gameplay mechanics that would be introduced in Alien Legacy. Furthermore, the inclusion of historical scenarios and figures in Global Domination provides a sense of depth and context that would be built upon in subsequent games.
-
-The mechanical evolution from V for Victory - D-Day Utah Beach to Global Domination is also noteworthy, as the latter game introduces new features such as mini-game combat sequences and revolution mechanics. These additions enhance the gameplay experience and provide players with more options for strategic expression, setting a precedent for the innovative and engaging gameplay that would be found in Alien Legacy. Overall, Global Domination serves as a key transitional point in the series, bridging the gap between the more focused and historical conflicts of V for Victory - D-Day Utah Beach and the more expansive and futuristic struggles of Alien Legacy.
 
 ## References
 

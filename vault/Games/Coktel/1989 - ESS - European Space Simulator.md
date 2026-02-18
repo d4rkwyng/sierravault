@@ -235,11 +235,6 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 
 ## See Also
 
-The narrative of ESS - European Space Simulator diverges significantly from its predecessor, Asterix - Operation Getafix, as it shifts focus towards a futuristic and realistic depiction of space exploration in contrast to the comic book-inspired adventures of Asterix. Mechanically, ESS also marks a departure with its emphasis on simulation and resource management, setting the stage for future Coktel titles that would explore complex systems and strategic decision-making. This shift towards realism and complexity in gameplay would influence subsequent games, including Emmanuelle, which would further refine the balance between narrative engagement and mechanical depth.
-
-In terms of gameplay evolution, ESS - European Space Simulator introduces a level of detail and realism in space shuttle operations that was uncommon at the time of its release, laying groundwork for more sophisticated simulations to come. The game's focus on financial management, crew assignments, and orbital operations establishes a framework for complex decision-making that would be expanded upon in later titles. Emmanuelle, building on this foundation, would incorporate even more nuanced mechanics, potentially including character development and interpersonal relationships, further enriching the gameplay experience.
-
-The connection between ESS - European Space Simulator and Emmanuelle is also evident in their shared themes of exploration and discovery, albeit in different contexts. While ESS delves into the technical and logistical challenges of space travel, Emmanuelle may explore more personal or philosophical aspects of adventure and exploration. This thematic continuity underscores Coktel's commitment to creating immersive experiences that challenge players on multiple levels, whether through intricate gameplay mechanics or thought-provoking narratives. As such, both games contribute to a broader tapestry of interactive storytelling and simulation that defines the Coktel series.
 
 ## References
 

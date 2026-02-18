@@ -215,11 +215,6 @@ From a historical perspective, WizType demonstrates how early educational softwa
 
 ## See Also
 
-Wizard of Id's WizType builds upon the educational foundation established by its predecessor, Wizard of Id's WizMath, by shifting focus from mathematical skills to typing proficiency. The game's narrative, featuring the diminutive Wizard character and other beloved figures from the comic strip, provides a cohesive thread between the two titles, with WizType leveraging the same medieval fantasy setting to engage players in keyboard lessons. By introducing typing challenges wrapped in the comic strip's whimsical tone, WizType expands the Wizard of Id series' scope within the edutainment market.
-
-Mechanically, WizType represents a significant departure from WizMath, as it is designed specifically to improve typing accuracy and speed through interactive lessons and challenges. The game's use of licensed characters and its focus on keyboard skills helped differentiate it in the market, competing with other software products aimed at teaching typing. This evolution in gameplay mechanics sets the stage for future titles in the series, such as Ready, Set, Read with Bananas & Jack, which would continue to explore innovative ways to teach essential skills through engaging narratives and interactive challenges.
-
-The release of Wizard of Id's WizType also laid groundwork for Sierra On-Line's continued exploration of the edutainment market, demonstrating the company's commitment to developing software that was both educational and entertaining. As the series progresses with Ready, Set, Read with Bananas & Jack, players can expect to see further refinement in gameplay mechanics and narrative engagement, building upon the foundations established by WizType and its predecessor, WizMath. This progression underscores Sierra's dedication to creating high-quality educational content that appeals to a wide range of learners, from those seeking to improve their typing skills with WizType to those looking to develop reading proficiency with future titles.
 
 ## References
 

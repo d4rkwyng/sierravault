@@ -130,11 +130,6 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 
 ## See Also
 
-Inca II: Nations of Immortality builds upon the narrative foundation established by its predecessor, Inca, as it follows Atahualpa, son of El Dorado, in his quest against the antagonist Aguirre. The game's storyline expands on the blend of Incan mythology and science fiction elements introduced in the first game, delving deeper into themes of immortality and the clash between ancient cultures and modern technology. This progression sets the stage for further exploration of these motifs in potential future installments.
-
-Mechanically, Inca II: Nations of Immortality evolves the series by incorporating more sophisticated graphics and sound design, leveraging the capabilities of CD-ROM technology to include full-motion video sequences and enhanced audio. The introduction of action-oriented gameplay elements, such as space combat, alongside traditional adventure puzzles, marks a significant departure from the more straightforward approach of the first Inca game. This evolution in gameplay would likely influence the direction of subsequent titles in the series, potentially leading to even more complex and varied interactive experiences.
-
-The narrative and mechanical advancements in Inca II: Nations of Immortality position it as a pivotal entry in the Inca series, bridging the gap between the foundational elements established by the first game and the potential directions that future sequels could take. As the series continues, it is likely that characters like Atahualpa and themes of cultural clash and technological advancement will remain central, possibly evolving to incorporate new mythologies or historical references while maintaining the unique blend of adventure and action that defines Inca II.
 
 ## References
 

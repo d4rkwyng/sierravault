@@ -248,11 +248,6 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 
 ## See Also
 
-The Ancient Art of War at Sea builds upon the foundations laid by its predecessor, Galactic Empire, by transitioning the strategic combat into a real-time naval warfare setting. This shift allows players to experience the challenges of commanding fleets during the age of sail, with historical scenarios that draw from actual conflicts such as the Spanish Armada and the Battle of Trafalgar. The game's real-time mechanics, a departure from the turn-based systems of Galactic Empire, provide a more immersive and dynamic experience.
-
-Mechanically, The Ancient Art of War at Sea sets the stage for its successor, The Charge of the Light Brigade, by introducing a powerful game editor that enables players to create custom scenarios, design new maps, and determine fleet compositions. This feature significantly enhances replayability and allows players to explore different tactical approaches, a concept that would be further developed in subsequent titles. The game's focus on historical accuracy and strategic depth also lays the groundwork for the more complex and nuanced gameplay found in The Charge of the Light Brigade.
-
-The narrative thread between The Ancient Art of War at Sea and The Charge of the Light Brigade is less direct, given the former's historical and fictional scenarios versus the latter's potentially more focused narrative. However, both games share a common heritage in their emphasis on strategic decision-making and the application of historical military principles to gameplay. As players progress from commanding naval fleets to potentially leading land-based charges, they will draw upon the tactical skills and understanding of combat dynamics developed in The Ancient Art of War at Sea, applying these lessons in new and challenging contexts presented by The Charge of the Light Brigade.
 
 ## References
 

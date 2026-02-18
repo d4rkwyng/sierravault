@@ -263,14 +263,7 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 
 ## See Also
 
-B.C. II: Grog's Revenge builds upon the narrative foundation established in B.C.'s Quest for Tires, where Thor completed his quest and now seeks the Meaning of Life. This sequel introduces new gameplay mechanics, such as greater freedom of movement across interconnected mountain paths, which distinguishes it from its predecessor's more linear design. The character of Grog is also introduced as a menacing figure stalking Thor throughout his journey, adding an element of tension and challenge to the game.
-
-The story of B.C. II: Grog's Revenge sees Thor navigating treacherous paths on his stone unicycle while collecting clams, the currency of the prehistoric world, to pay tolls and advance through each mountain. The ultimate goal is to reach Peter and the toll bridge that leads to enlightenment, but Grog's relentless pursuit forces Thor into a series of challenges and obstacles. This narrative thread will continue to evolve in future entries in the B.C. series, with new characters and plot points being introduced to expand upon the world and its inhabitants.
-
-As the series progresses, it is likely that the gameplay mechanics introduced in B.C. II: Grog's Revenge, such as the 4-directional movement and the need to collect clams to progress, will be built upon and refined. The next entry in the series may see Thor facing new challenges and adversaries as he continues his quest for knowledge and understanding, potentially introducing new characters from Johnny Hart's comic strip and further exploring the prehistoric world. The evolution of the series will likely be marked by increasing complexity and depth, both in terms of narrative and gameplay, as the developers continue to push the boundaries of what is possible within the B.C. universe.
-
 - [[1983 - BC's Quest for Tires|← Previous: BC's Quest for Tires]]
-
 ## References
 
 [^ref-1]: [DBpedia – B.C. II: Grog's Revenge](https://dbpedia.org/page/B.C._II:_Grog's_Revenge) – publishers, developers, platforms, Canadian development origin

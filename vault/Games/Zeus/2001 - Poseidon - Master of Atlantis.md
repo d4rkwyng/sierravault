@@ -265,15 +265,8 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 
 ## See Also
 
-Poseidon - Master of Atlantis expands upon the foundation laid by Zeus - Master of Olympus, introducing players to the legendary civilization of Atlantis as described by Plato. This expansion pack invites players to return to ancient Greece and rule Atlantis, adding a fresh setting to the mythological world established in the base game. By building on the city-building formula that made Zeus successful, Poseidon offers a new layer of depth to the series, with unique gods, monuments, heroes, monsters, industries, and more.
-
-The narrative of Poseidon draws directly from Greek mythology, with players taking on the role of an Atlantean leader tasked with developing the civilization from its mythological beginnings. As the game progresses, players interact with Greek mythological figures including Poseidon, Artemis, Theseus, and Atalanta, managing divine interventions while building their city-state. The expansion's adventures span far beyond the Mediterranean, reflecting the legendary power and reach of Atlantis as described in classical sources.
-
-In terms of gameplay evolution, Poseidon builds upon the solid mechanics inherited from Zeus, with a focus on aesthetic improvements and new features such as the addition of the Atlantis civilization. While the next entry in the series, Emperor: Rise of the Middle Kingdom, would introduce significant changes to the city-building formula, Poseidon remains an important part of the series' continuity, offering a unique blend of city-building, business simulation, and sandbox gameplay that sets the stage for future innovations. The game's isometric view perspective, point-and-click interface, and adventure-based structure also lay the groundwork for the series' continued exploration of historical and mythological settings.
-
 - **Compilation:** Acropolis expansion
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
-
 ## References
 
 [^ref-1]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – developer, publisher, designer, composer, platform, rating, technical information

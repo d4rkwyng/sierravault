@@ -132,15 +132,8 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 
 ## See Also
 
-Earthsiege 2 builds upon the narrative foundation established in Metaltech - Earthsiege Expansion Pack, continuing the intense struggle between humanity and the Cybrid uprising that began with the activation of Project: Prometheus. The game's story evolves to explore the desperate guerrilla battle for control of Earth and its colonies, setting the stage for the events that will unfold in MissionForce - Cyberstorm. Mechanically, Earthsiege 2 refines the mech simulation gameplay introduced in its predecessors, offering improved graphics and more complex combat scenarios.
-
-The gameplay in Earthsiege 2 also lays the groundwork for the advancements seen in MissionForce - Cyberstorm, with features like customizable HERC configurations and a variety of mission environments that will become hallmarks of the series. The introduction of air-capable mechs, such as the "Razor," expands the tactical possibilities and adds a new layer of depth to the gameplay, foreshadowing the increased complexity of future titles. By building upon the successes of Metaltech - Earthsiege Expansion Pack and introducing new elements, Earthsiege 2 solidifies its place in the Metaltech series as a pivotal entry.
-
-As the series progresses towards MissionForce - Cyberstorm, players can expect to see further refinements in gameplay mechanics, such as enhanced multiplayer features and more sophisticated AI behaviors. The narrative will continue to explore the consequences of humanity's conflict with the Cybrids, potentially introducing new characters like General Gierling and expanding on the roles of key figures in the resistance movement. With its engaging storyline, challenging missions, and immersive mech simulation gameplay, Earthsiege 2 serves as a compelling bridge between the early entries in the Metaltech series and the more advanced titles that follow.
-
 - [[1995 - Metaltech - Earthsiege Expansion Pack|← Previous: Metaltech - Earthsiege Expansion Pack]]
 - [[1996 - MissionForce - Cyberstorm|→ Next: MissionForce - Cyberstorm]]
-
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details

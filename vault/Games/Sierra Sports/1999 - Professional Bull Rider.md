@@ -204,11 +204,6 @@ The franchise's continued existence through mobile and console titles decades la
 
 ## See Also
 
-Professional Bull Rider builds upon the foundation established by Sierra Sports Skiing 1999 Edition, marking a significant shift in the series towards more unconventional sports simulations. While Skiing 1999 Edition focused on the thrill of downhill racing, Professional Bull Rider introduces a new level of intensity and technique with its bull riding mechanics, where players must carefully manage their rider's balance and position to succeed. This evolution in gameplay reflects the series' commitment to exploring diverse sporting experiences.
-
-The success of Professional Bull Rider paved the way for future innovations in the Sierra Sports series, including the development of more complex player controls and immersive commentary systems. As the series progressed, games like Front Page Sports: Football Pro '98 and Field & Stream: Trophy Bass 3D would further refine these elements, offering deeper strategic gameplay and enhanced realism. Professional Bull Rider's impact on the series can be seen in its influence on subsequent titles, which often incorporated similar balance and timing mechanics to create engaging and challenging experiences.
-
-In terms of narrative continuity, Professional Bull Rider's focus on individual player-created characters and real-world PBR circuits creates a unique blend of fictional competition and authentic sports simulation. This approach would be refined in later series entries, such as the Front Page Sports series, where players could manage teams and athletes over multiple seasons, adding a new layer of depth to the gameplay experience. By exploring different sports and gameplay mechanics, the Sierra Sports series continued to evolve, offering fans a wide range of exciting and immersive experiences.
 
 ## References
 

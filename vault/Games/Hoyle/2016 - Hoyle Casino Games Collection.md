@@ -254,15 +254,8 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 
 ## See Also
 
-Hoyle Official Casino Games Collection builds upon the foundation established by its predecessor, Hoyle Official Card Games Collection, by expanding the scope of available games to include a wider variety of casino favorites. This progression is evident in the increased number of games offered, with over 20 casino games available for players to enjoy, including Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker. The game's focus on providing a comprehensive casino experience serves as a natural evolution of the series, catering to fans of casino simulations.
-
-The gameplay mechanics in Hoyle Official Casino Games Collection also show a continuation of trends seen in earlier titles, with an emphasis on realistic gambling experiences and interactive elements such as the Face Creator tool for customizing player avatars. However, the negative reception from users indicates that certain aspects, like the interface and AI opponent interactions, may have regressed compared to previous entries. Despite this, the series' legacy as a premier destination for digital casino games remains intact, with Hoyle Official Casino Games Collection representing the culmination of Encore Software's efforts to carry on the Sierra Entertainment tradition.
-
-As the final entry in the Hoyle Casino series under Encore Software, Hoyle Official Casino Games Collection concludes a narrative thread that began with the series' inception in 1996 under Sierra Entertainment. While it does not directly set the stage for a new game, its release marks an important milestone in the evolution of casino simulations and the Hoyle brand's enduring presence in the gaming landscape. The series' influence can be seen in other casino games that have followed, and its impact on the genre as a whole remains significant.
-
 - **Series Origin:** [[1996 - Hoyle Casino]]
 - [[2015 - Hoyle Official Card Games Collection|← Previous: Hoyle Official Card Games Collection]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer timeline, sales data, technical issues, spin-offs

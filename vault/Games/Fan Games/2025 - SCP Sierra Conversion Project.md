@@ -136,11 +136,6 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 ## See Also
 
-The SCP Sierra Conversion Project builds upon the foundation laid by its predecessors, such as King's Quest IV Retold, by leveraging the knowledge and techniques gained from enhancing earlier titles in the series. Specifically, the project's lead members, DaRaSCo and kikems, applied their expertise in extracting, modifying, and re-injecting improved graphics into Sierra's SCI engine games, which was first developed during the King's Quest IV Retold project. This expertise allowed them to tackle more complex titles like Police Quest III, King's Quest V, and Space Quest IV, resulting in significant visual improvements that bring these Amiga versions closer to their DOS counterparts.
-
-The SCP's work on Police Quest III, King's Quest V, and Space Quest IV demonstrates a clear narrative connection to the previous entry, King's Quest IV Retold, as the team refined their techniques for enhancing graphics and addressing technical limitations. For instance, the single palette limitation in Sierra's Amiga ports was overcome by DaRaSCo, who spent considerable time finding a more consistent palette that works across all game screens while maintaining the spirit of the original DOS VGA graphics in Space Quest IV. This attention to detail and commitment to quality is a hallmark of the SCP's approach, which will likely influence future projects in the series.
-
-As the series progresses, it is expected that the next entry will build upon the mechanical and narrative foundations established by the SCP Sierra Conversion Project. The project's focus on enhancing graphics, palettes, and presentation will likely be expanded upon, with potential new features and gameplay elements being introduced to further improve the player experience. With projects like Conquests of the Longbow and a full remaster of Space Quest IV already in development, fans can expect continued innovation and dedication to preserving and enhancing Sierra's classic adventure games on the Amiga platform. The SCP's use of period-appropriate Amiga software, such as ImageFX, PPaint, and Adpro, will likely remain a key aspect of their approach, allowing them to create authentic and engaging experiences that stay true to the spirit of the original games.
 
 ## References
 

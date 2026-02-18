@@ -315,16 +315,9 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 
 ## See Also
 
-Leisure Suit Larry: Magna Cum Laude marks a significant departure from the series' traditional point-and-click adventure format, instead opting for a 3D exploration and mini-game driven approach. This shift in gameplay style is reflective of the changing gaming landscape at the time, with the game's developer, High Voltage Software, attempting to appeal to a newer audience. The introduction of Larry Lovage, nephew of series protagonist Larry Laffer, also signals a new direction for the series, one that focuses on a younger demographic and more explicit adult humor.
-
-In terms of narrative connections, Magna Cum Laude builds upon the foundation established in Leisure Suit Larry's Casino, with Larry Lovage seeking to live up to his uncle's legendary reputation as a ladies' man. The game's story is more focused on character interactions and relationships, with Larry pursuing various romantic interests across the college campus. This sets the stage for the next entry in the series, Leisure Suit Larry: Box Office Bust, which continues to explore the misadventures of Larry Lovage in a similarly comedic and lighthearted vein.
-
-The gameplay evolution in Magna Cum Laude is also notable, as it lays the groundwork for the more action-oriented approach taken in Box Office Bust. The use of mini-games and 3D exploration in Magna Cum Laude provides a foundation for the more fast-paced and varied gameplay found in the next installment. Furthermore, the game's focus on character customization and development, through the collection of confidence points and tokens, adds a new layer of depth to the series, one that is built upon in subsequent entries.
-
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail]]
 - [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information

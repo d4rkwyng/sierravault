@@ -255,16 +255,9 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 
 ## See Also
 
-Red Baron: Mission Builder serves as a pivotal expansion in the Red Baron series, building upon the critically acclaimed foundation laid by its predecessor, Red Baron. By introducing a comprehensive mission creation tool, additional aircraft, and new historical aces, Mission Builder extended the gameplay experience of the original, allowing players to delve deeper into World War I aerial combat with unprecedented control over their scenarios. This expansion was designed to satisfy the dedicated community that had formed around Red Baron, which had already become a landmark title in the flight simulation genre.
-
-The narrative framework of Red Baron: Mission Builder remains closely tied to that of the original game, covering the same historical period of World War I on the Western Front from December 1915 to October 1918. Players continue to experience the life of a WWI fighter pilot, with the option to fly for either the Allied or German forces, and engage with legendary pilots of the Great War in custom-created missions. The expansion's ability to recreate historical encounters or imagine alternate scenarios involving famous aces further enriches the player's immersion into the world of early aerial combat.
-
-Mechanically, Red Baron: Mission Builder laid the groundwork for future innovations in the series, particularly evident in its successor, Red Baron II. The introduction of the Mission Builder tool and additional gameplay elements set a high standard for customization and replayability, influencing the direction of subsequent titles in the Red Baron series. As the series progressed, these foundational elements were built upon, leading to more complex and immersive flight simulation experiences that continued to push the boundaries of what was possible in the genre.
-
 - [[1990 - Red Baron|← Previous: Red Baron]]
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
-
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits

@@ -172,15 +172,8 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 
 ## See Also
 
-Jawbreaker II builds upon the foundation established by its predecessor, Jawbreaker, by introducing original maze designs and gameplay mechanics that differentiate it from other arcade-style games of the era. The sequel's success can be attributed to Sierra's ability to navigate the complex legal landscape surrounding video game clones, setting a precedent for future games in the series. By evolving the dental theme and incorporating dynamic maze elements, Jawbreaker II offers a unique gaming experience that sets it apart from its predecessor.
-
-The gameplay mechanics in Jawbreaker II, such as the shifting walls and escape routes, lay the groundwork for future innovations in the series. The game's design and engine, developed by Chuck Bueche, also influenced the creation of subsequent games, including the next entry in the Jawbreaker series. As the series progresses, players can expect to see further refinements to the gameplay mechanics and maze designs, building upon the foundation established in Jawbreaker II.
-
-The next game in the series will likely continue to evolve the core mechanics introduced in Jawbreaker II, potentially incorporating new features and challenges that expand on the dental theme. The success of Jawbreaker II demonstrates Sierra's commitment to creating engaging and original games, and fans of the series can expect the next installment to raise the bar even higher. With its addictive gameplay and dynamic maze designs, Jawbreaker II has set a high standard for the series, and the next game will need to innovate and improve upon these elements to continue the series' momentum.
-
 - **Next:** Jawbreaker IV
 - [[1981 - Jawbreaker|← Previous: Jawbreaker]]
-
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/51491/jawbreaker-ii/) - Developer credits, platform information, file sizes

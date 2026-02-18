@@ -124,17 +124,10 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 
 ## See Also
 
-Leisure Suit Larry: Box Office Bust marks a significant departure from the series' traditional point-and-click adventure roots, instead embracing a 3D open-world format that sets it apart from its predecessor, Leisure Suit Larry: Magna Cum Laude. The game's narrative follows Larry Lovage as he navigates a Hollywood studio lot, interacting with various characters and completing missions that parody film industry tropes, a notable shift from the more focused university setting of Magna Cum Laude. This change in setting and gameplay style was likely intended to revitalize the series, but ultimately received widespread criticism for its poor execution.
-
-The game's story centers around Larry's attempts to help his uncle Larry Laffer, who has been framed for a crime, a plot point that attempts to tie the game back to the series' roots. However, the writing and gameplay mechanics were widely panned by critics, who felt that the game lacked the wit and cleverness of earlier entries in the franchise. The series would eventually return to its adventure game roots with Leisure Suit Larry: Reloaded, a remake of the original game that restored the point-and-click interface and focus on puzzle-solving that fans had come to expect from the series.
-
-Leisure Suit Larry: Box Office Bust's gameplay evolution, or rather devolution, was seen as a misstep by many, with the third-person 3D action-adventure format and open-world sandbox gameplay failing to capture the essence of the series. The game's poor controls, frustrating platforming challenges, and simplistic puzzle design were particularly criticized, and the series would ultimately move away from this style of gameplay in favor of a return to its adventure game roots with Reloaded. Despite its attempts to innovate and appeal to a new audience, Box Office Bust remains a low point in the series, and its reception likely influenced the decision to revisit the franchise's earlier successes with Reloaded.
-
 - [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe Larry Laffer game
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|← Previous: Leisure Suit Larry - Magna Cum Laude]]
 - [[2013 - Leisure Suit Larry - Reloaded|→ Next: Leisure Suit Larry - Reloaded]]
-
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Box+Office+Bust - Search results page, no specific game information found

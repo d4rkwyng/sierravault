@@ -304,11 +304,6 @@ The game is currently unavailable through legitimate digital storefronts due to 
 
 ## See Also
 
-Contract J.A.C.K. serves as a prequel to No One Lives Forever 2: A Spy in H.A.R.M.'s Way, offering a unique perspective on the series by shifting focus from Cate Archer to John Jack, a ruthless contract killer working for H.A.R.M. This change in protagonist allows for a different narrative approach, one that explores the villainous side of the No One Lives Forever universe. By stripping away espionage elements and focusing on action, Contract J.A.C.K. diverges from its predecessors, creating a distinct experience within the series.
-
-The game's story is set between the events of the original No One Lives Forever and its sequel, with Jack battling against the rival Italian organization Danger Danger, led by Il Pazzo. This storyline provides insight into the events leading up to No One Lives Forever 2, particularly regarding Director Dmitrij Volkov's character development. The gameplay in Contract J.A.C.K. is more straightforward compared to previous entries, with a greater emphasis on run-and-gun shooting and less on stealth and gadgetry, reflecting the design choice to create a pure action experience within the series.
-
-Contract J.A.C.K.'s mechanical evolution from No One Lives Forever 2 is notable for its simplification of gameplay elements, such as the removal of body searching and map systems. This streamlined approach contrasts with the more complex and varied gameplay of its successor, F.E.A.R., which would introduce new mechanics like slow-motion combat and a greater emphasis on horror elements. The shift in focus from Cate Archer's spy adventures to John Jack's contract killing also highlights the series' ability to experiment with different narratives and characters, setting the stage for further exploration within the Monolith universe.
 
 ## References
 

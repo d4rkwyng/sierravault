@@ -280,14 +280,7 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 
 ## See Also
 
-Empire Earth lays the groundwork for its sequel, Empire Earth - The Art of Conquest, by introducing a vast historical scope and a complex gameplay system that spans fourteen distinct epochs. The game's narrative, which explores pivotal moments in human history from the prehistoric age to a speculative nano age, sets the stage for the expanded campaigns and scenarios found in The Art of Conquest. By building upon the foundation established in Empire Earth, the sequel is able to delve deeper into specific historical periods and introduce new gameplay mechanics that enhance the overall experience.
-
-The connection between Empire Earth and its predecessor, Age of Empires, is evident in the game's design and mechanics, with Rick Goodman drawing upon his experience as lead designer on Age of Empires to create a more expansive and ambitious title. This evolution of gameplay ideas and historical scope is continued in The Art of Conquest, which refines the Empire Earth formula and adds new features such as enhanced multiplayer capabilities and additional single-player campaigns. The success of Empire Earth, with over one million copies sold worldwide by 2002, demonstrates the appetite for large-scale historical strategy games and paves the way for the further development of the series.
-
-The gameplay in Empire Earth, including its resource management, unit production, and technological advancements, establishes a framework that is built upon in The Art of Conquest. The introduction of new epochs, units, and civilizations in the sequel expands the possibilities for players and adds depth to the game's historical narrative, which explores themes such as the rise and fall of empires and the impact of technological progress on human society. By examining the connections between Empire Earth and The Art of Conquest, it is possible to see how the series evolves over time and how each installment contributes to the overall vision of a comprehensive and engaging historical strategy experience.
-
 - [[2002 - Empire Earth - The Art of Conquest|→ Next: Empire Earth - The Art of Conquest]]
-
 ## References
 
 [^ref-1]: [MobyGames – Empire Earth](https://www.mobygames.com/game/5374/empire-earth/) – release date, developer, publisher information

@@ -126,11 +126,6 @@ The series' legacy lies in its contribution to the football management genre dur
 
 ## See Also
 
-Ultimate Soccer Manager 2 builds upon the foundation established by its predecessor, Ultimate Soccer Manager, by introducing significant graphical improvements and enhanced gameplay mechanics. The game's ability to create new players and allow for indefinite seasons ensures a high level of replayability, setting the stage for the series' continued success with the release of Ultimate Soccer Manager 98. This sequel would further refine the management simulation experience, incorporating fan feedback and advancing the series' reputation for depth and realism.
-
-The introduction of innovative mechanics such as player personality systems and comprehensive training options in Ultimate Soccer Manager 2 marked a substantial evolution in the series' gameplay. These features added layers of complexity to team management, making the game more engaging and challenging for players. As the series progressed towards Ultimate Soccer Manager 98, these advancements laid the groundwork for even more sophisticated management simulations, including potentially more detailed financial models, enhanced multiplayer capabilities, and deeper storylines that explore the intricacies of professional football.
-
-The narrative of Ultimate Soccer Manager 2, with its focus on building a football club from the ground up and navigating the ethical dilemmas of match-fixing, sets a compelling stage for the career mode in Ultimate Soccer Manager 98. The latter would likely expand upon these themes, offering players even more nuanced control over their teams and deeper insights into the world of professional football management. By refining the gameplay mechanics introduced in Ultimate Soccer Manager 2, such as the player personality systems and training options, Ultimate Soccer Manager 98 would aim to provide an even more immersive experience for fans of the series and newcomers alike.
 
 ## References
 

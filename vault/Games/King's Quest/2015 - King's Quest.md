@@ -173,12 +173,6 @@ This game is not available on GOG[^ref-7].
 
 ## See Also
 
-The 2015 King's Quest game serves as a reimagining of the classic franchise, featuring an elderly King Graham narrating his youthful adventures to his granddaughter Gwendolyn. This approach diverges from the direct narrative continuation seen in previous games like King's Quest - Mask of Eternity, instead opting for a flashback structure that explores Graham's past exploits in a non-linear fashion. By doing so, the game creates a sense of nostalgia and depth, drawing upon the rich history of the series while introducing new characters and storylines.
-
-In terms of gameplay mechanics, the 2015 King's Quest builds upon the foundations established in earlier games, incorporating elements such as puzzle-solving, exploration, and branching dialogue options. The game's use of a cel-shaded graphical style and scrolling environments also marks a significant departure from the more traditional graphics seen in Mask of Eternity, reflecting the evolution of the series over time. As the game progresses, Graham's adventures become increasingly intertwined with the present-day narrative, ultimately culminating in an exclusive epilogue that shifts perspective to Gwendolyn and explores themes of legacy and mortality.
-
-The connections between the 2015 King's Quest and its predecessors are further reinforced by the game's numerous references to earlier entries in the series. For example, Chapter 3: Once Upon a Climb reimagines key elements from King's Quest II, while the game's overall narrative structure and character development draw inspiration from various other titles in the franchise. As such, the 2015 King's Quest can be seen as both a nostalgic tribute to the series' roots and a bold step forward into new territory, laying the groundwork for potential future entries in the King's Quest saga.
-
 - **Previous (mainline):** [[1998 - King's Quest - Mask of Eternity]]
 - **Previous (original):** [[1984 - King's Quest - Quest for the Crown]] (series origin)
 - **Next:** None (most recent entry)
@@ -186,7 +180,6 @@ The connections between the 2015 King's Quest and its predecessors are further r
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]] – SCI remake of the original
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]] – Often considered the series peak
 - [[King's Quest Series]] - Series overview
-
 ## References
 [^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception
 [^ref-2]: [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical specs, engine information

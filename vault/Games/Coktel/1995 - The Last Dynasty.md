@@ -213,11 +213,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 
 ## See Also
 
-The Last Dynasty connects narratively to its predecessor, Lost in Time, through its expansive storyline that explores themes of time travel and intergalactic politics. Although the games do not share a direct protagonist, both feature a heroic figure tasked with saving the world from an ancient evil, with Mel Raauq's quest to defeat Lord Iron in The Last Dynasty echoing the time-traveling adventures of Lost in Time. Mechanically, The Last Dynasty builds upon the puzzle-adventure elements of its predecessor, incorporating more action-oriented sequences and a unique blend of space combat simulation.
-
-The gameplay evolution in The Last Dynasty also sets the stage for its successor, Urban Runner, which would further refine the balance between action and adventure elements. While Urban Runner shifts focus towards a more grounded, futuristic setting, it retains the fast-paced action and real-time elements that The Last Dynasty introduced to the series. The character development and narrative complexity seen in The Last Dynasty, particularly through Mel Raauq's journey and his interactions with Dok and other characters, lay the groundwork for the more personal and immersive storytelling found in Urban Runner.
-
-In terms of specific plot points, The Last Dynasty's conclusion, which involves Mel Raauq's final confrontation with Lord Iron and the fate of the galaxy, has implications that could influence the events of Urban Runner, potentially shaping the world and its characters in meaningful ways. The technological advancements and design philosophies pioneered in The Last Dynasty, such as its use of FMV and real-time gameplay, also contribute to the series' overall trajectory, influencing how subsequent games like Urban Runner approach storytelling, gameplay, and player engagement.
 
 ## References
 

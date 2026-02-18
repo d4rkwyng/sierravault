@@ -162,11 +162,6 @@ Despite its troubled reception, Blue Force remains historically significant as a
 
 ## See Also
 
-Blue Force serves as a spiritual successor to the Police Quest series, and its connection to the previous games in the series is evident in its police procedural gameplay and emphasis on realistic police procedures. The game's designer, Jim Walls, brought his expertise from the Police Quest series to Blue Force, creating a new setting and protagonist while maintaining the same level of realism and attention to detail that fans of the series had come to expect. This continuity is reflected in the game's mechanics, such as evidence gathering and proper protocol, which are similar to those found in the Police Quest games.
-
-The story of Blue Force also has connections to the previous games in the series, albeit indirectly, as it explores themes of police work and corruption that were present in the Police Quest series. The game's protagonist, Jake Ryan, is a rookie police officer investigating his father's unsolved murder, which adds a personal touch to the story and sets it apart from the Police Quest series. As the series continues with Al Emmo and the Lost Dutchman's Mine, players can expect to see further evolution of the adventure game genre, with new characters and settings that build upon the foundations established in Blue Force.
-
-In terms of mechanical evolution, Blue Force lays the groundwork for future games like Al Emmo and the Lost Dutchman's Mine, which would go on to refine the point-and-click interface and storytelling that Blue Force introduced. The use of digitized actors and hand-drawn backgrounds in Blue Force also sets a precedent for the visual style of future games in the series, and its emphasis on realistic police procedures and evidence gathering creates a sense of continuity with the Police Quest series while also paving the way for new innovations in the adventure game genre.
 
 ## References
 

@@ -236,16 +236,9 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 
 ## See Also
 
-Red Baron II builds upon the foundation established by its predecessor, Red Baron - Mission Builder, by introducing a more immersive and dynamic World War I combat flight simulation experience. The game's career mode, which spans the entire war, allows players to enlist with various air services, including the British Royal Flying Corps, French Aéronautique Militaire, German Luftstreitkräfte, or American Air Service, and fly a wide range of authentic WWI aircraft. This expansion of playable factions and aircraft types directly addresses player requests from Red Baron - Mission Builder, providing a more comprehensive and realistic simulation.
-
-The gameplay mechanics in Red Baron II also laid the groundwork for its successor, Red Baron 3D, which would eventually transform the troubled release into a highly regarded World War I simulation. The introduction of pseudo-realistic flight mechanics, including weapon malfunction, flak, engine damage, and pilot injury, added a layer of complexity and realism to the game. These features were further refined in Red Baron 3D, which built upon the foundation established by Red Baron II and addressed many of the technical issues that plagued the initial release. The dynamic campaign system, which generates missions based on the player's actions and squadron performance, was also a key innovation that would be carried forward into Red Baron 3D.
-
-Red Baron II's focus on historical authenticity and immersive gameplay set a high standard for the series, and its influence can still be seen in Red Baron 3D. The game's attention to detail, from the accurate squadron details to the appearance of new aircraft at historically appropriate moments, helped to create a sense of immersion and realism that drew players into the world of World War I combat flight simulation. As the series continued to evolve, Red Baron 3D would build upon this foundation, incorporating new features and technologies to create an even more realistic and engaging experience for players.
-
 - [[1992 - Red Baron - Mission Builder|← Previous: Red Baron - Mission Builder]]
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
-
 ## References
 
 [^ref-1]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – release dates, development credits, ratings, awards, pizza coupon trivia

@@ -250,15 +250,8 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 
 ## See Also
 
-Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition serves as a narrative precursor to the events of Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned, exploring the formative experiences that shaped Gabriel into the Schattenjäger he becomes in later games. The remake's story delves into Gabriel's initial encounters with supernatural forces and his discovery of his family's legacy as shadow hunters, laying the groundwork for the more complex and globally-spanning mysteries he faces in subsequent entries. Mechanically, the Anniversary Edition refines the point-and-click adventure gameplay introduced in the original Sins of the Fathers, featuring updated controls and puzzles that would influence the design of later games in the series.
-
-The connections between Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition and its predecessor are deeply rooted in character development, particularly in Gabriel's transformation from a skeptical novelist to a believer in the supernatural. This character arc is pivotal in understanding his actions and motivations in Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned, where he faces even more daunting challenges as a seasoned Schattenjäger. The narrative threads introduced in the Anniversary Edition, such as Gabriel's family history and his role in combating supernatural evil, are woven throughout the series, providing continuity and depth to the overall story.
-
-In terms of gameplay evolution, the 20th Anniversary Edition builds upon the foundations established by the original Sins of the Fathers, incorporating new puzzles, locations, and a more streamlined interface that enhances player engagement. These improvements reflect the advancements in game design and technology since the release of Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned, demonstrating how the series has adapted to changing player preferences and technical capabilities over time. The remake's success in blending traditional adventure gameplay with modern elements sets a precedent for future entries in the Gabriel Knight series, ensuring that the franchise remains vibrant and appealing to both veteran fans and new players.
-
 - [[Gabriel Knight Series]] - Series overview
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms

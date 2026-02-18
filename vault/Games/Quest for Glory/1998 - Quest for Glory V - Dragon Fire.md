@@ -176,16 +176,9 @@ This game has been included in the following collections:
 
 ## See Also
 
-Quest for Glory V: Dragon Fire builds upon the narrative foundations laid in Quest for Glory IV: Shadows of Darkness, with the Hero's journey continuing as they enter the Rites of Rulership in the kingdom of Silmaria. The game's story is heavily influenced by the events of the previous installment, with characters like Erasmus and Rakeesh making significant appearances, and the Hero's actions in Shadows of Darkness having a lasting impact on the world of Silmaria. As the series concludes, Dragon Fire ties together various plot threads from earlier games, including the return of characters like Katrina and Erana.
-
-Mechanically, Quest for Glory V: Dragon Fire marks a significant departure from its predecessors, adopting a more action-oriented role-playing game approach with real-time combat and 3D polygonal characters. This shift in gameplay style is a natural evolution from the hybrid adventure-RPG elements found in Shadows of Darkness, and sets the stage for future games to build upon this new foundation. The inclusion of character import from previous Quest for Glory games also serves as a nod to the series' continuity, allowing players to bring their existing characters into the new game world.
-
-As the final installment in the Quest for Glory series, Dragon Fire provides a sense of closure and completion to the Hero's journey, which began in the first Quest for Glory game and spanned several continents and storylines. The game's conclusion is heavily influenced by the player's choices throughout the series, with multiple endings and character fates depending on the decisions made in earlier games. Although there is no direct sequel to Dragon Fire, the game's narrative and mechanical innovations have had a lasting impact on the role-playing game genre as a whole, ensuring the Quest for Glory series remains beloved by fans and influential in the world of gaming.
-
 - Final game in the series
 - [[Quest for Glory Series]] - Series overview
 - [[1993 - Quest for Glory IV - Shadows of Darkness|← Previous: Quest for Glory IV - Shadows of Darkness]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – history, plot, gameplay, development, reception

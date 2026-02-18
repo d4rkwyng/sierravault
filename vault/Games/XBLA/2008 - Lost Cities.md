@@ -121,15 +121,8 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 
 ## See Also
 
-Lost Cities builds upon the foundation established by its predecessor, Carcassonne, in terms of bringing popular tabletop games to digital platforms. While Carcassonne focused on tile-laying and area control, Lost Cities adapts Reiner Knizia's card game of the same name, challenging players to manage expeditions to five different lost cities through strategic card play. This shift from spatial reasoning to risk management and timing reflects the series' exploration of various gameplay mechanics within the realm of digital board game adaptations.
-
-The narrative connection between Lost Cities and Carcassonne is more thematic than direct, as both games represent Sierra's effort to digitize and widen the appeal of acclaimed board games. Mechanically, Lost Cities introduces a unique scoring system and the concept of investment cards that multiply both gains and losses, adding a layer of depth not seen in Carcassonne. This evolution in gameplay mechanics suggests that the series is moving towards incorporating more complex strategic elements from their physical counterparts.
-
-As the series progresses, it's likely that future entries will continue to draw from a diverse pool of board games, potentially incorporating elements like cooperative play or puzzle-solving, as seen in other titles. The next game in the series might build upon the multiplayer features and leaderboards introduced in Lost Cities, further enhancing the competitive aspect of these digital adaptations. By exploring different genres and mechanics, the XBLA series aims to cater to a broad audience interested in strategy and tabletop gaming.
-
 - [[2006 - Gin Rummy]] (Sierra Online Shanghai)
 - [[2007 - Carcassonne]] (Sierra Online Seattle)
-
 ## References
 
 [^ref-1]: [Lost Cities (video game) - Wikipedia](https://en.wikipedia.org/wiki/Lost_Cities_(video_game)) - Primary game information

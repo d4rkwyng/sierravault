@@ -237,15 +237,9 @@ However, the game also exemplifies the design philosophy that would eventually f
 
 ## See Also
 
-King's Quest III occupies a pivotal position in the series narrative, establishing crucial connections that would shape the entire franchise. The game reveals that Gwydion is actually Prince Alexander, kidnapped as an infant by Manannan in revenge for King Graham's rescue of Queen Valanice from his sister Hagatha in [[1985 - King's Quest II - Romancing the Throne|King's Quest II]].[^ref-18] This revelation transformed a seemingly standalone adventure into an integral chapter of the royal family saga.
-
-The game directly sets up [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]], with the ending scene showing King Graham passing his adventurer's cap to his reunited children.[^ref-1] Rosella, introduced here as Alexander's twin sister, would become the protagonist of the next installment. The game also establishes Manannan's fate—transformed into a cat—which becomes relevant in [[1990 - King's Quest V - Absence Makes the Heart Go Yonder!|King's Quest V]], where Graham encounters him in Mordack's castle.[^ref-19]
-
-Alexander's journey from slave to prince would continue in [[1992 - King's Quest VI - Heir Today Gone Tomorrow|King's Quest VI]], where he serves as protagonist again, now seeking to rescue Princess Cassima whom he met at the end of King's Quest V.[^ref-20] The character's evolution across three games (KQ3, KQ5, KQ6) represents one of the most developed protagonist arcs in Sierra's adventure game catalog.
 - [[King's Quest Series]] - Series overview
 - [[1985 - King's Quest II - Romancing the Throne|← Previous: King's Quest II - Romancing the Throne]]
 - [[1988 - King's Quest IV - The Perils of Rosella|→ Next: King's Quest IV - The Perils of Rosella]]
-
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history

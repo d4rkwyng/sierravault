@@ -302,16 +302,9 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 
 ## See Also
 
-King's Quest: Mask of Eternity marks a significant departure from its predecessor, King's Quest VII - The Princeless Bride, in terms of gameplay mechanics and narrative tone. While the previous game concluded the story of Prince Alexander and Princess Rosella, Mask of Eternity introduces a new protagonist, Connor, and a darker, more mature storyline that explores themes of spirituality and the struggle between good and evil. This shift in tone is reflected in the game's 3D graphics and action-oriented gameplay, which sets it apart from earlier entries in the series.
-
-The game's story also builds upon the lore established in previous King's Quest games, with Connor's quest to restore the Mask of Eternity taking him through various worlds and encountering characters that reference earlier games in the series. For example, King Graham's cameo appearance, turned to stone alongside the rest of Daventry's inhabitants, serves as a nod to the previous games and highlights the gravity of the situation. The game's narrative also explores the consequences of Lucreto's actions, which have a profound impact on the world of Daventry and its inhabitants.
-
-As the final official installment in the King's Quest series, Mask of Eternity brings a sense of closure to the story, while also leaving room for interpretation and speculation about the fate of Connor and the world he inhabits. The game's conclusion sets the stage for future reimaginings and reinterpretations of the King's Quest universe, as seen in the 2015 revival of the series. Mechanically, Mask of Eternity's emphasis on action and exploration paved the way for future adventure games to incorporate similar elements, influencing the evolution of the genre as a whole.
-
 - [[King's Quest Series]] - Series overview
 - [[1994 - King's Quest VII - The Princeless Bride|← Previous: King's Quest VII - The Princeless Bride]]
 - [[2015 - King's Quest|→ Next: King's Quest]]
-
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) – release dates, development history, sales data, awards, technical specifications

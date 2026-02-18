@@ -228,15 +228,8 @@ The collaboration between experienced Sierra personnel on this title, including 
 
 ## See Also
 
-Hoyle Battling Ships and War builds upon the foundation laid by its predecessor, Hoyle Poker, by expanding the series' scope to include digital board games beyond card games. This shift towards more diverse gameplay offerings sets the stage for future entries in the series, such as Hoyle Classic Board Games, which would further explore the realm of classic board game adaptations. Mechanically, Hoyle Battling Ships and War introduces improved AI opponents and enhanced multiplayer capabilities, features that would become staples of subsequent Hoyle games.
-
-The narrative thread between Hoyle Battling Ships and War and its predecessors is less pronounced due to the nature of the series focusing on traditional games rather than story-driven adventures. However, the evolution of gameplay mechanics and features, such as improved graphics and sound effects, demonstrates a clear progression towards more engaging and accessible gaming experiences. This approach would continue with Hoyle Classic Board Games, which likely built upon the successes of Battling Ships and War by incorporating even more classic board games into its lineup.
-
-In terms of series continuity, Hoyle Battling Ships and War serves as a pivotal title that bridges the gap between earlier card game-focused entries like Hoyle Poker and later releases that would encompass a broader range of board games. The inclusion of both Battleship and War in a single package showcases Sierra's strategy to cater to a wide audience by offering variety within a single title, a strategy that would be refined in subsequent games. This variety and the game's accessibility features, such as its intuitive interface and adjustable difficulty levels, paved the way for Hoyle Classic Board Games to appeal to an even broader demographic.
-
 - [[1997 - Hoyle Poker|← Previous: Hoyle Poker]]
 - [[1997 - Hoyle Classic Board Games|→ Next: Hoyle Classic Board Games]]
-
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Battling Ships and War](https://www.mobygames.com/game/78846/hoyle-battling-ships-and-war/) – release date, developer, publisher, designer, composer, voice cast, platforms, technical specifications, multiplayer features

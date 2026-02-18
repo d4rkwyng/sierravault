@@ -201,11 +201,6 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 
 ## See Also
 
-Laf Pak is connected to the previous entry in the series, Dragon's Keep, through its shared developer and publisher, On-Line Systems, which laid the groundwork for future compilations and arcade-style games. Although Laf Pak does not directly continue the narrative of Dragon's Keep, it reflects the company's experimentation with diverse genres and gameplay mechanics during the early 1980s. This compilation approach would influence later titles in terms of providing value to customers through varied content.
-
-Mechanically, Laf Pak builds upon the foundation established by earlier games like Dragon's Keep by incorporating innovative features such as sampled speech in Creepy Corridors, which was a rare technical achievement at the time. The use of recognizable keyboard controls and support for paddles or joysticks also reflects an evolution in interface design aimed at enhancing player experience. These advancements would pave the way for more complex and engaging gameplay in subsequent series entries.
-
-In terms of narrative and mechanical connections to the next entry, Lunar Leeper, Laf Pak's emphasis on arcade-style action games and its compilation format may have influenced the development of later titles that focused on fast-paced gameplay and competitive high scores. While Lunar Leeper would introduce new characters and storylines, the foundational work in Laf Pak regarding game variety, technical innovation, and player accessibility contributed to the series' overall evolution. The success of Laf Pak's model, despite its relatively low commercial impact, encouraged On-Line Systems to continue exploring different genres and gameplay styles, ultimately shaping the direction of future games like Lunar Leeper.
 
 ## References
 

@@ -138,11 +138,6 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 
 ## See Also
 
-Mystery House builds upon the foundation laid by its predecessor, Mission Asteroid, by introducing a more complex narrative with a stronger focus on exploration and puzzle-solving. The game's use of a two-word text parser and simple graphical representations of each location sets the stage for the evolution of adventure games, which would continue to advance in subsequent titles like The Wizard and the Princess. The success of Mystery House, with its blend of horror and mystery elements, also influenced the direction of future Hi-Res Adventure games, including the development of more intricate storylines and challenging puzzles.
-
-The narrative of Mystery House, with its cast of characters and murder mystery plot, draws inspiration from classic whodunit stories like Agatha Christie's "And Then There Were None", establishing a template for future adventure games that would incorporate similar themes and conventions. As the series progresses to The Wizard and the Princess, players can expect to see further refinements in gameplay mechanics, such as improved text parsing and more detailed graphics, which would become hallmarks of the Hi-Res Adventure series. The legacy of Mystery House can be seen in the way it balances exploration, puzzle-solving, and storytelling, a formula that would be refined and expanded upon in later games.
-
-The transition from Mission Asteroid to Mystery House marks a significant shift towards more complex and engaging gameplay, with Mystery House's focus on exploration and interaction with the environment setting the stage for the advancements seen in The Wizard and the Princess. The use of simple graphics and a text-based interface in Mystery House would give way to more sophisticated visuals and user interfaces in later games, as the series continues to push the boundaries of what is possible in adventure gaming. As the Hi-Res Adventure series evolves, players can expect to see continued innovation in gameplay mechanics, narrative depth, and atmospheric tension, building upon the foundations established by Mystery House.
 
 ## References
 

@@ -128,11 +128,6 @@ Caesar III inspired numerous spiritual successors and influenced the development
 
 ## See Also
 
-Caesar III builds upon the foundations established in Caesar II, introducing significant enhancements to the city-building formula that set it apart from its predecessor. The new walker-based gameplay mechanics, where citizens move throughout the city carrying goods and services, create a dynamic simulation that brings Roman cities to life, addressing criticisms of the previous game's static population. This evolution in gameplay allows for more complex and realistic city management, as players must carefully plan road networks and building placement to ensure efficient service delivery.
-
-The game's narrative also expands on the series' lore, with players taking on the role of a Roman provincial governor tasked with spreading the glory of Rome through successful city development. The career mode's structured progression through various assignments across the Mediterranean world provides a sense of continuity with Caesar II, while the introduction of new building types and challenges gradually introduces players to the game's mechanics. As Simon Bradbury noted, "Caesar 3 remains my favourite" due to its polished gameplay and depth, which laid the groundwork for the series' future installments.
-
-In terms of mechanical evolution, Caesar III's isometric 2D perspective and advisor screens provide a clear view of the developing cities, allowing players to monitor various aspects of city management. The game's building system, where housing automatically evolves based on available services and amenities, adds strategic depth to the gameplay. These innovations would later influence the development of Caesar IV, which built upon the foundations established in Caesar III to create an even more immersive and complex city-building experience. The walker-based mechanics, in particular, would be refined and expanded upon in the next installment, allowing for even more realistic simulations of Roman city life.
 
 ## References
 

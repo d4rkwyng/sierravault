@@ -207,11 +207,6 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 
 ## See Also
 
-The Ruins of Cawdor builds upon the foundation established by its predecessors, The Shadow of Yserbius and The Fates of Twinion, in Sierra's groundbreaking series of graphical multi-user dungeons. While it distinguishes itself with a new plot loosely based on William Shakespeare's tragedy Macbeth, the game retains the core elements of dungeon exploration, monster combat, and treasure hunting that defined the series. This narrative shift towards a darker, more atmospheric setting, inspired by literary roots, sets The Ruins of Cawdor apart from its fantasy-focused predecessors.
-
-Mechanically, The Ruins of Cawdor continues the evolution of gameplay seen in The Shadow of Yserbius and The Fates of Twinion, with enhanced graphics and interactive elements that allow for a more immersive experience. The game's use of the same engine as its predecessors ensures a sense of continuity, while innovations such as new guilds and character customization options provide fresh depth to the gameplay. In contrast to the next entry in the series, Torin's Passage, which would introduce significant changes to the gameplay formula, The Ruins of Cawdor remains true to the spirit of its predecessors while still offering a unique experience.
-
-The connection to Shannara, the previous game in the broader Sierra context, is less direct in terms of narrative but shares a common heritage in the realm of adventure and role-playing games. Both games showcase Sierra's commitment to pushing the boundaries of interactive storytelling and gameplay innovation. As The Ruins of Cawdor concludes the trilogy, it sets the stage for future Sierra titles like Torin's Passage, which would explore new themes and mechanics while building on the legacy established by these pioneering graphical MUDs.
 
 ## References
 

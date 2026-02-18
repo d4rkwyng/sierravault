@@ -216,11 +216,6 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 
 ## See Also
 
-Urban Runner connects to its predecessor, The Last Dynasty, through its shared themes of mystery and adventure, although it deviates significantly in terms of gameplay mechanics and narrative style. While The Last Dynasty focused on puzzle-solving and exploration, Urban Runner introduces a stronger emphasis on interactive movie elements and quick-time events, reflecting the evolving tastes of the gaming audience in the mid-1990s. This shift towards full-motion video (FMV) and more fast-paced action sequences marks a notable departure from the more traditional adventure game formula seen in earlier titles.
-
-In terms of narrative continuity, Urban Runner's story stands somewhat independently of The Last Dynasty, with its protagonist, Max Gardner, embarking on a distinct journey that explores themes of conspiracy and survival in modern-day Paris. However, both games share a common thread in their complex, intrigue-driven plots and the need for protagonists to navigate treacherous situations, suggesting a thematic lineage between the two titles. The character development in Urban Runner, particularly the dynamic between Max and Adda, adds depth to the story, albeit without direct connections to characters from The Last Dynasty.
-
-The gameplay evolution in Urban Runner sets the stage for potential future entries in the series or spiritual successors, which could further refine the blend of interactive cinema and adventure gaming elements. Although there isn't a direct sequel to Urban Runner mentioned, the innovations introduced in this game, such as its dual-screen video technique and the use of FMV within a point-and-click interface, could influence subsequent games developed by Coktel Vision or other studios under the Sierra label. The mixed reception and cult following of Urban Runner also underscore the challenges and opportunities in experimenting with new formats and technologies in adventure gaming during the 1990s.
 
 ## References
 

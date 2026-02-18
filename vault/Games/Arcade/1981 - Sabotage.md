@@ -212,11 +212,6 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 
 ## See Also
 
-Sabotage builds upon the foundation established by its predecessor, Gobbler, by introducing a more complex and challenging gameplay experience. While Gobbler focused on simple yet addictive gameplay, Sabotage expands on this concept by incorporating a unique scoring system that penalizes wasteful shooting, encouraging players to adopt a more strategic approach. This shift in gameplay mechanics sets the stage for the next entry in the series, Threshold, which would further refine and expand upon the core concepts introduced in Sabotage.
-
-The connection between Sabotage and Threshold is evident in their shared emphasis on challenging gameplay and strategic depth. Threshold would take the foundation established by Sabotage and introduce new elements, such as enhanced graphics and more complex level designs, to create an even more immersive experience. The defensive military scenario presented in Sabotage, where players must fend off continuous waves of enemy aircraft, serves as a precursor to the more intricate gameplay scenarios found in Threshold. By building upon the core mechanics introduced in Sabotage, Threshold is able to offer a more refined and engaging experience that challenges players in new and exciting ways.
-
-The evolution of gameplay mechanics from Gobbler to Sabotage to Threshold demonstrates a clear progression towards more complex and challenging experiences. The introduction of new elements, such as the scoring system in Sabotage, and the refinement of existing mechanics, contribute to a sense of continuity and growth throughout the series. As players progress from one game to the next, they are presented with increasingly difficult challenges that require strategic thinking and quick reflexes, ultimately culminating in the refined and immersive experience offered by Threshold.
 
 ## References
 

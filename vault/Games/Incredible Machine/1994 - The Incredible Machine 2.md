@@ -94,11 +94,6 @@ In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contra
 
 ## See Also
 
-The Incredible Machine 2 builds upon the foundation established by its predecessor, The Even More Incredible Machine, by introducing new objects and more complex physics puzzles that challenge players to think creatively. The game's deterministic physics engine, which ensures reproducible results for any given machine, was a significant improvement over the previous installment, allowing for more precise and realistic simulations. This enhancement enabled players to focus on designing and building intricate contraptions, such as Rube Goldberg-style devices, to accomplish simple tasks like putting a baseball into a basket or turning on a fan.
-
-The gameplay mechanics in The Incredible Machine 2, including the use of pulleys, conveyor belts, motors, balloons, trampolines, basketballs, and various animals, laid the groundwork for the series' future evolution. The game's creative premise and realistic physics simulation influenced the development of subsequent titles, including The Incredible Toon Machine, which would introduce new cartoon-themed elements and gameplay mechanics while maintaining the core puzzle-solving experience. Professor Tim's "subterranean machine-making lab" and the cheerful atmosphere of the game also set the stage for the more whimsical and humorous tone of later games in the series.
-
-The Incredible Machine 2's impact on the series can be seen in The Incredible Toon Machine, which built upon the physics-based puzzle gameplay and creative freedom introduced in The Incredible Machine 2. The next game in the series would feature new cartoon-themed objects and characters, such as bike-riding monkeys and treadmill mice, while maintaining the core mechanics of constructing elaborate contraptions to accomplish specific objectives. By refining the gameplay formula and introducing new elements, The Incredible Toon Machine would offer a fresh and exciting experience for fans of the series, while remaining true to the spirit of creative problem-solving and mechanical ingenuity that defined The Incredible Machine 2.
 
 ## References
 

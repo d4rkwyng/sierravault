@@ -229,11 +229,6 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 
 ## See Also
 
-Space Quest: The Lost Chapter serves as a narrative bridge between Space Quest II: Vohaul's Revenge and Space Quest III: The Pirates of Pestulon, providing a previously untold chapter in the adventures of Roger Wilco. Unlike King's Quest I VGA Remake, which is part of a different series, The Lost Chapter builds upon the story and gameplay elements established in the official Space Quest games, offering a faithful recreation of the classic AGI-era experience. The game's storyline and characters do not directly connect to those found in King's Quest II+ - Romancing the Stones, as it is focused on the Space Quest universe.
-
-The Lost Chapter's gameplay mechanics are reminiscent of earlier Sierra adventures, featuring a text-based parser and challenging puzzles that require careful observation and creative problem-solving. In contrast to later games in the series, which may have introduced more streamlined interfaces or simplified puzzle designs, The Lost Chapter remains true to its roots, offering a traditional adventure game experience. While King's Quest II+ - Romancing the Stones may have evolved the gameplay formula in certain ways, The Lost Chapter is content to evoke the spirit of classic Sierra games like Space Quest I and II.
-
-As a fan-made project, The Lost Chapter demonstrates a deep understanding of the Space Quest series and its quirks, from the lovably hapless protagonist Roger Wilco to the irreverent humor and pop culture references that permeate the game world. Although it does not directly influence the narrative or gameplay of King's Quest II+ - Romancing the Stones, The Lost Chapter stands as a testament to the dedication and creativity of fans who seek to expand upon and celebrate their favorite game series. By exploring the uncharted territory between Space Quest II and III, The Lost Chapter provides a unique and entertaining experience that is sure to delight fans of the original games.
 
 ## References
 

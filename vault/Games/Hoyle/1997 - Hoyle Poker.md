@@ -191,15 +191,8 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 
 ## See Also
 
-Hoyle Poker builds upon the foundation established in Hoyle Classic Card Games, expanding the series' repertoire of card games with a dedicated poker experience. The game's focus on poker variants and its virtual Las Vegas casino environment introduces players to a new level of realism and immersion, while maintaining the accessible and humorous tone that characterized its predecessor. By incorporating a wide range of poker games and opponents with unique personalities, Hoyle Poker sets the stage for further exploration of casino gaming in the series.
-
-The gameplay mechanics in Hoyle Poker, such as the mouse-driven interface and the variety of poker variants, lay the groundwork for future innovations in the series. The game's emphasis on bluffing, attitude, and reading opponents also adds a new layer of depth to the gameplay, which would be built upon in subsequent entries. As the series progresses, these elements will continue to evolve, incorporating new features and gameplay modes that cater to a wider range of players. The next entry in the series, Hoyle Battling Ships and War, will likely introduce new challenges and gameplay mechanics, while maintaining the core principles of strategy and competition that define the Hoyle series.
-
-The transition from Hoyle Poker to Hoyle Battling Ships and War will likely involve a significant shift in gameplay focus, from the virtual casino environment to a more action-oriented setting. However, the series' commitment to providing engaging and challenging experiences will remain a constant thread throughout. By building upon the successes of Hoyle Poker and incorporating new ideas and innovations, the next entry in the series will offer players a fresh and exciting experience that expands the boundaries of the Hoyle franchise. The introduction of new gameplay modes, such as battling ships and war games, will provide a unique contrast to the poker-focused gameplay of Hoyle Poker, while maintaining the core elements of strategy and competition that define the series.
-
 - [[1993 - Hoyle Classic Card Games|← Previous: Hoyle Classic Card Games]]
 - [[1998 - Hoyle Battling Ships and War|→ Next: Hoyle Battling Ships and War]]
-
 ## References
 
 [^ref-1]: [MobyGames - Hoyle Poker](https://www.mobygames.com/game/26796/hoyle-poker/) – Game details, credits, and technical specifications

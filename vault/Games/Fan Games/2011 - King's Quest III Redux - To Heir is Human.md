@@ -261,11 +261,6 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 ## See Also
 
-King's Quest III Redux: To Heir is Human connects narratively to its predecessors, such as The Silver Lining, through its exploration of themes and characters that are reminiscent of classic Sierra games. Although not directly related in terms of storyline, the game's focus on adventure, puzzle-solving, and character development is consistent with the spirit of earlier titles. Mechanically, King's Quest III Redux evolves the point-and-click interface introduced in earlier remakes, offering a more streamlined and accessible experience for players.
-
-In terms of narrative connections, King's Quest III Redux: To Heir is Human sets the stage for future adventures, including Space Quest - Vohaul Strikes Back, by demonstrating the potential for fan-made games to reimagine and expand upon classic Sierra franchises. While the story of Gwydion and his journey to discover his true identity as Prince Alexander of Daventry stands on its own, it also showcases the dedication of developers like AGD Interactive to preserving and enhancing the legacy of these beloved games. The success of King's Quest III Redux: To Heir is Human likely influenced the development of subsequent fan-made titles, including Space Quest - Vohaul Strikes Back.
-
-The gameplay evolution in King's Quest III Redux: To Heir is Human, particularly its point-and-click interface and simplified spellcasting system, laid the groundwork for future innovations in the series. As the series continues with games like Space Quest - Vohaul Strikes Back, players can expect to see further refinements and enhancements to the gameplay mechanics, building upon the foundations established in King's Quest III Redux: To Heir is Human. The connection between these games is not just narrative but also mechanical, as each title learns from and improves upon its predecessors, ensuring a continually engaging and challenging experience for players.
 
 ## References
 

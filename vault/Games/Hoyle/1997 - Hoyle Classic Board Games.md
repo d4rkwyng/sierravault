@@ -213,16 +213,9 @@ Abandonware archives and retro gaming communities continue maintaining access to
 
 ## See Also
 
-Hoyle Classic Board Games builds upon the foundation established by its predecessor, Hoyle Solitaire, by expanding the series' scope to include a wide range of traditional board games. This evolution introduces players to new gameplay mechanics and interactive opponents, while maintaining the accessibility and faithfulness to classic game rules that defined the earlier title. The inclusion of familiar Sierra characters as computer opponents adds a layer of charm and personality to the game, setting the stage for future entries in the series.
-
-The game's success paved the way for Hoyle Classic Card Games, which would further explore the world of card games with enhanced graphics and new features. The conservative approach to gameplay innovation, focusing on faithful recreation rather than radical changes, allowed the series to maintain its broad appeal and establish a loyal player base. As the series continued to grow, it remained committed to providing high-quality, authentic gaming experiences that catered to a diverse range of players.
-
-The connection between Hoyle Classic Board Games and its successors is evident in the shared emphasis on accessibility, personality-driven computer opponents, and attention to detail in recreating classic games. The series' ability to balance tradition with gentle innovation has enabled it to endure, with each new entry building upon the strengths of its predecessors while introducing fresh elements to keep the gameplay experience feeling vibrant and engaging. By understanding the narrative and mechanical connections between Hoyle Classic Board Games and the surrounding titles, players can appreciate the thoughtful evolution of the series and the careful consideration given to creating an enjoyable experience for fans of all ages.
-
 - **Related:** [[1993 - Hoyle Classic Card Games]], [[1996 - Hoyle Casino]]
 - [[1998 - Hoyle Battling Ships and War|← Previous: Hoyle Battling Ships and War]]
 - [[1999 - Hoyle Backgammon and Cribbage|→ Next: Hoyle Backgammon and Cribbage]]
-
 ## References
 
 [^ref-1]: [Trieagle664 Archive](https://trieagle664.weebly.com/sierra-hoyle-classic-board-games.html) - Game origin story and designer information

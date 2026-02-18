@@ -246,11 +246,6 @@ Order of the Thorne exists within Infamous Quests' broader catalog of Sierra-ins
 
 ## See Also
 
-Order of the Thorne: The King's Challenge serves as a narrative bridge between Cluck Yegger in Escape From The Planet of The Poultroid and Bolt Riley - A Reggae Adventure, connecting these spiritual successors through their shared adventure game heritage. While Cluck Yegger's space-faring escapades may seem distant from Finn the Bard's quest in the Faerie Kingdom, both games pay homage to Sierra's legacy by incorporating classic point-and-click mechanics and inventory puzzles. The musical puzzle-solving element introduced in Order of the Thorne: The King's Challenge lays groundwork for future innovative gameplay elements, such as those found in Bolt Riley - A Reggae Adventure.
-
-Mechanically, Order of the Thorne: The King's Challenge builds upon the foundations established by its predecessors, refining the point-and-click interface and incorporating modern features like widescreen resolution support and controller input. This evolution in design philosophy is consistent with the broader trend of spiritual successors aiming to recapture the essence of classic adventure games while introducing new ideas, as seen in the transition from Cluck Yegger's offbeat humor to Finn's musical quest. The success of Order of the Thorne: The King's Challenge in blending nostalgia with innovation paves the way for Bolt Riley - A Reggae Adventure to further experiment with genre conventions.
-
-The narrative of Order of the Thorne: The King's Challenge, with its focus on Finn the Bard's creative journey and the mystical Faerie Kingdom, sets a fantastical tone that is continued in Bolt Riley - A Reggae Adventure. Although Cluck Yegger in Escape From The Planet of The Poultroid offers a starkly different setting, all three games are united by their commitment to storytelling and character development, hallmarks of the Sierra tradition. As the series progresses, themes of personal growth and self-discovery, as exemplified by Finn's quest for inspiration, become more pronounced, reflecting the evolving aspirations of protagonists in spiritual successor games.
 
 ## References
 

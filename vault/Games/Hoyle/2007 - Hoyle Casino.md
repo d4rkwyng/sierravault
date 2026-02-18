@@ -180,15 +180,8 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 
 ## See Also
 
-Hoyle Casino 2007 builds upon the foundation established by its predecessor, Hoyle Card Games 2008, by expanding the scope of casino games and introducing a more immersive virtual Las Vegas environment. The game's extensive library of over 500 variations of 16 popular casino games offers players a diverse range of experiences, from card games like Blackjack and Poker to table games such as Craps and Roulette. However, the transition to this new installment was not without its issues, as technical problems and bugs plagued the release, including a notorious freezing issue during card games.
-
-In terms of narrative continuity, Hoyle Casino 2007 does not have a direct storyline but instead focuses on providing an authentic casino experience through its various game modes and settings. The game's structure, which allows players to accumulate "Hoyle Bucks" and freely choose between different games, creates a non-linear experience that mirrors the freedom of an actual casino floor. Although Hoyle Casino 2007 was criticized for its technical issues, it laid the groundwork for future improvements in the series, including enhanced gameplay mechanics and more stable performance.
-
-The next entry in the series, also titled Hoyle Casino, would aim to address the criticisms of its predecessor by refining the gameplay experience and reducing technical issues. By building upon the foundations established in Hoyle Casino 2007, the subsequent game would offer an even more comprehensive and engaging casino simulation, with improved graphics, smoother gameplay, and a wider range of games and features. The evolution of the series would continue to focus on providing an authentic and entertaining casino experience, with each new installment incorporating feedback from players and striving to improve upon the previous release.
-
 - [[2007 - Hoyle Card Games 2008|← Previous: Hoyle Card Games 2008]]
 - [[2008 - Hoyle Casino|→ Next: Hoyle Casino]]
-
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2007 Data](https://gamefaqs.gamespot.com/pc/935110-hoyle-casino-2007/data) – release date, developer, publisher, ESRB rating, related games

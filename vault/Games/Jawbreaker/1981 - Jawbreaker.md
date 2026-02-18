@@ -213,14 +213,7 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 
 ## See Also
 
-Jawbreaker serves as the foundation for the series, introducing the core gameplay mechanics and theme that would be built upon in subsequent titles. The game's unique twist on the Pac-Man formula, including its candy-themed maze and power-up items, sets it apart from other maze-chase games of the era. As the first entry in the Jawbreaker series, it lays the groundwork for the evolution of gameplay mechanics and narrative elements that would be seen in later titles, such as Jawbreaker II.
-
-The release of Jawbreaker was a significant event in the early days of the video game industry, with its success contributing to the growth of Sierra On-Line as a major publisher. The game's development and publication were marked by controversy, including legal challenges from Atari over the game's similarities to Pac-Man. This controversy would ultimately lead to changes in the game and influence the direction of the series, with Jawbreaker II departing from the original's Pac-Man-style gameplay in favor of new mechanics and features.
-
-As the series progresses, players can expect to see the introduction of new characters, levels, and gameplay elements that build upon the foundation established in Jawbreaker. The next entry in the series, Jawbreaker II, promises to deliver an exciting evolution of the core gameplay mechanics, with new challenges and features that will test players' skills and keep them engaged. With its rich history and engaging gameplay, the Jawbreaker series is sure to continue to entertain and challenge players for years to come, starting with the original game that began it all.
-
 - [[1982 - Jawbreaker II|→ Next: Jawbreaker II]]
-
 ## References
 
 [^ref-1]: [Internet Archive – Jawbreaker Apple II](https://archive.org/details/wozaday_Jawbreaker) – developer, publisher, system requirements, release date

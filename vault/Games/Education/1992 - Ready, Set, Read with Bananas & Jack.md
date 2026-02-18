@@ -190,11 +190,6 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 
 ## See Also
 
-Ready, Set, Read with Bananas & Jack builds upon the foundational skills introduced in Wizard of Id's WizType, expanding its focus to include word recognition, phonics, and early reading comprehension. This progression is evident in the way Ready, Set, Read's interactive mini-games, featuring coaches Bananas and Jack, guide children through a series of fun activities designed to reinforce these new skills. By doing so, it paves the way for more advanced educational titles like Kids' Typing, which would later emphasize typing skills as a crucial component of computer literacy.
-
-The narrative structure of Ready, Set, Read with Bananas & Jack, while not traditional, creates an interactive playhouse environment where children can explore and learn at their own pace, accompanied by the friendly guidance of Bananas or Jack. This approach to education mirrors the adaptive difficulty and positive reinforcement found in Wizard of Id's WizType, indicating a continuity in educational philosophy across these titles. As the series evolves towards Kids' Typing, this focus on interactive learning and supportive feedback remains a core element.
-
-Mechanically, Ready, Set, Read with Bananas & Jack introduces a point-and-select interface and turn-based pacing that allows children to work at their own speed without time pressure, a significant departure from the typing-focused gameplay of Wizard of Id's WizType. This evolution in gameplay design sets the stage for Kids' Typing, which would incorporate more complex typing exercises while maintaining the accessibility and encouragement that defines Ready, Set, Read with Bananas & Jack. Through this progression, Sierra demonstrates its commitment to creating a cohesive educational experience that grows with the child, from basic reading skills to more advanced computer literacy.
 
 ## References
 

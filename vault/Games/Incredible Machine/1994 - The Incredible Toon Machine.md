@@ -212,16 +212,9 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 
 ## See Also
 
-The Incredible Toon Machine builds upon the foundation established by its predecessor, The Incredible Machine 2, by introducing a cartoon-themed twist to the traditional puzzle-solving gameplay. This shift towards a more whimsical and humorous approach is evident in the game's use of animated characters, such as Sid E. Mouse and Al E. Cat, whose interactions drive the puzzle design. The game's emphasis on cartoon physics and wacky animations sets it apart from its more realistic counterparts, offering a fresh take on the series' signature contraption-based puzzles.
-
-As a bridge between The Incredible Machine 2 and The Incredible Machine 3.0, The Incredible Toon Machine refines the series' core mechanics while introducing new features, such as the player-versus-player mode and the "Hometoons" level editor. These additions enhance the game's replay value and creativity, allowing players to design their own puzzles and challenge others. The game's focus on logical puzzle-solving remains intact, with players using a selection of over 71 gadgets and cartoon-themed items to complete each level. The Incredible Toon Machine's unique blend of humor and challenge makes it an appealing entry in the series, both for fans of the original games and new players alike.
-
-The Incredible Toon Machine's influence can be seen in The Incredible Machine 3.0, which builds upon the foundation established by its cartoon-themed predecessor. The next game in the series refines the gameplay mechanics introduced in The Incredible Toon Machine, offering an even more polished and engaging puzzle-solving experience. While The Incredible Machine 3.0 returns to a more realistic setting, it retains the creative spirit and emphasis on logical problem-solving that made The Incredible Toon Machine a standout entry in the series. By combining the best elements of its predecessors with new features and challenges, The Incredible Machine 3.0 offers a satisfying conclusion to the trilogy, cementing the series' reputation as a pioneer in the puzzle game genre.
-
 - [[1994 - The Incredible Machine 2|← Previous: The Incredible Machine 2]]
 - [[1995 - The Incredible Machine 3.0|→ Next: The Incredible Machine 3.0]]
 - [[Jeff Tunnell]] - Creator
-
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score

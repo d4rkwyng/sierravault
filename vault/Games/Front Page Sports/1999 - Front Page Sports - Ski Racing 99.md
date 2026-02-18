@@ -230,14 +230,7 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 ## See Also
 
-Front Page Sports: Ski Racing 99 builds upon the simulation depth established by its predecessor, Front Page Sports Golf - Tour Course Add-On, by applying similar principles of realism and authenticity to the sport of alpine skiing. While golf and skiing are vastly different sports, the core concept of precision and technique translates well, with Ski Racing 99 requiring players to master nuanced controls and understand the intricacies of ski racing mechanics. This evolution in gameplay mechanics sets the stage for future titles in the Front Page Sports series to potentially explore other sports with a similar focus on realism.
-
-The release of Front Page Sports: Ski Racing 99 marked a significant point in the series' history, as it expanded the franchise's reach into winter sports and demonstrated the versatility of the Front Page Sports brand. Mechanically, the game laid groundwork for potential future entries by showcasing how complex, realistic simulations could be successfully adapted to various sports, potentially influencing the development of subsequent games like Front Page Sports: Football Pro. The emphasis on authentic World Cup competition and realistic skiing techniques in Ski Racing 99 also raised the bar for sports simulations, challenging other developers to match its level of depth and realism.
-
-In terms of narrative continuity, while each Front Page Sports title tends to stand alone due to its focus on different sports, the overarching theme of competitive athletics and the pursuit of excellence ties the series together. Players in Ski Racing 99 create their own skier and navigate the challenges of professional skiing, much like how players in other Front Page Sports games take on the role of athletes in their respective sports. This continuity in player progression and competitive spirit is a common thread throughout the series, from the golf courses of Front Page Sports Golf to the ski slopes of Ski Racing 99 and potentially beyond into future sports simulations.
-
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
-
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, release date, platform, skiing variants, World Cup slopes, ratings, technical specifications

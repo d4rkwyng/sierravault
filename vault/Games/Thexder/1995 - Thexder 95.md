@@ -213,15 +213,8 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 
 ## See Also
 
-Thexder 95 serves as a bridge between the original Thexder game and the later Thexder Neo, narratively and mechanically. The game's storyline follows the traditional Thexder narrative, where the transforming robot must navigate through hostile facilities to save humanity from alien threats, similar to its predecessor Fire Hawk - Thexder - The Second Contact. Mechanically, Thexder 95 expands upon the original's transformation mechanics by introducing a new tank form and a wide range of weapons, laying the groundwork for future innovations in the series.
-
-In terms of gameplay evolution, Thexder 95 marks a significant departure from its predecessors with its multi-window interface, which allowed players to customize their gaming experience. This innovation, however, also received criticism for deviating from the traditional full-screen gaming approach. The game's development using Microsoft's Game SDK, a precursor to DirectX, also highlights the technological advancements that would influence later games in the series, including Thexder Neo. Despite its mixed reception, Thexder 95 remains an important installment in the Thexder series, connecting the classic gameplay of Fire Hawk - Thexder - The Second Contact with the modernized approach seen in Thexder Neo.
-
-Thexder 95's connection to Thexder Neo is particularly notable in terms of mechanical evolution. While Thexder 95 introduced new forms and weapons to the series, Thexder Neo would further refine these mechanics, potentially incorporating lessons learned from the reception of Thexder 95. The narrative thread of battling against alien forces and navigating through dangerous environments also continues into Thexder Neo, ensuring a sense of continuity throughout the series. By examining the development and gameplay of Thexder 95, fans can gain insight into how the series transitioned from its classic roots to its more modern incarnations, including the advancements and challenges faced by the developers in updating the beloved transforming robot concept for new technologies and audiences.
-
 - [[1989 - Fire Hawk - Thexder - The Second Contact|← Previous: Fire Hawk - Thexder - The Second Contact]]
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – Windows 95 version details, Game SDK engine, multi-window interface

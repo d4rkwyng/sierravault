@@ -216,11 +216,6 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 
 ## See Also
 
-Although Air Cavalry is not directly connected to Battle Bugs in terms of narrative, both games showcase the diversity of simulation genres that Sierra-affiliated developers explored during the 1990s. Mechanically, Air Cavalry's use of Mode 7 graphics on the Super Nintendo Entertainment System represents a significant leap forward in visual fidelity compared to earlier titles like Battle Bugs. The emphasis on realistic helicopter combat and varied mission objectives sets the stage for future simulation games.
-
-In terms of gameplay evolution, Air Cavalry lays groundwork for more complex military simulations like Fast Attack - High Tech Submarine Warfare, which would later focus on underwater naval operations. While Air Cavalry concentrates on airborne combat, its attention to detail regarding different helicopter types and their capabilities foreshadows the intricate systems and realism found in subsequent submarine warfare simulations. The competitive and cooperative multiplayer modes in Air Cavalry also hint at the potential for future games to expand on multiplayer experiences.
-
-The narrative minimalism of Air Cavalry, focusing on mission objectives rather than character development or overarching storylines, is a trait shared with Fast Attack - High Tech Submarine Warfare. Both games prioritize the simulation aspect, immersing players in their respective military environments through realistic scenarios and gameplay mechanics. This approach allows players to engage deeply with the operational aspects of military vehicles, whether helicopters in Air Cavalry or submarines in Fast Attack, highlighting the technical and tactical challenges faced by military personnel.
 
 ## References
 

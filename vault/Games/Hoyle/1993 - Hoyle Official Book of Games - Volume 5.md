@@ -228,11 +228,6 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 
 ## See Also
 
-Hoyle Official Book of Games - Volume 5 builds upon the foundation established by its predecessor, Hoyle Classic Card Games, by offering an expanded collection of solitaire games with enhanced graphics and sound. The game's intuitive drag-and-drop gameplay mechanics and improved mouse controls mark a significant evolution in the series' accessibility and user experience. This progression sets the stage for future titles, such as Hoyle Blackjack, which would further refine the series' focus on specific card games.
-
-The narrative thread between Hoyle Official Book of Games - Volume 5 and its predecessors is largely thematic, with each title contributing to the series' reputation for authoritative and engaging card game experiences. While Hoyle Classic Card Games introduced players to a variety of card games, Hoyle Official Book of Games - Volume 5 narrows its focus to solitaire, offering a deeper exploration of this popular genre. The game's success would pave the way for more specialized titles like Hoyle Blackjack, which would cater to fans of specific card games.
-
-Mechanically, Hoyle Official Book of Games - Volume 5 lays the groundwork for the more focused gameplay of Hoyle Blackjack, demonstrating Sierra's ability to balance accessibility with depth in their card game offerings. The use of drag-and-drop controls and right-click functionality to automatically move cards to their correct positions becomes a standard feature in subsequent games, enhancing the overall player experience. As the series continues to evolve, titles like Hoyle Blackjack would build upon this foundation, offering more complex and challenging gameplay experiences that appeal to both casual and dedicated card game enthusiasts.
 
 ## References
 

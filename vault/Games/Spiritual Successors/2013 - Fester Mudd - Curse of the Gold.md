@@ -225,11 +225,6 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 
 ## See Also
 
-Fester Mudd: Curse of the Gold serves as a narrative bridge between its predecessors in the Spiritual Successors series, such as Cognition - An Erica Reed Thriller, by continuing the tradition of storytelling and gameplay that defined classic adventure games. While Fester Mudd does not directly continue the story of Cognition, it shares a common spirit with its emphasis on exploration, puzzle-solving, and engaging narratives. The game's developer, Prank Ltd., drew inspiration from the same era and style that influenced Cognition, resulting in a game that feels like a spiritual successor to those classic titles.
-
-Mechanically, Fester Mudd: Curse of the Gold builds upon the foundations laid by its predecessors, incorporating a SCUMM-style verb interface and pixelated retro graphics that pay homage to the golden age of adventure gaming. The game's use of MIDI music and lack of voice acting further reinforce its connections to classic adventure games, creating an immersive experience that fans of the genre will appreciate. As the series progresses, these elements will continue to evolve, as seen in the next entry, Moebius - Empire Rising, which refines the gameplay mechanics and narrative depth introduced in Fester Mudd.
-
-The story of Fester Mudd: Curse of the Gold sets the stage for the events that will unfold in Moebius - Empire Rising, although the two games do not share a direct narrative connection. The cancellation of the planned trilogy means that the story of Fester Mudd remains unresolved, but the gameplay and narrative elements introduced in the game will continue to influence the series as it moves forward. As the Spiritual Successors series continues to grow, fans can expect to see further refinements to the gameplay mechanics and narrative depth introduced in Fester Mudd, ultimately leading to a more immersive and engaging experience in Moebius - Empire Rising and beyond.
 
 ## References
 

@@ -246,14 +246,7 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 
 ## See Also
 
-Front Page Sports Football 92 laid the groundwork for the series' future success, introducing key features such as career mode and a player ratings system that would become staples of the franchise. The game's commitment to simulation depth and statistical realism set it apart from other football games of its era, appealing to a dedicated audience of football enthusiasts who valued strategic depth over arcade-style action. As the inaugural entry in the series, Front Page Sports Football 92 established a foundation for future games to build upon, including the next entry in the series, Front Page Sports - Football Pro.
-
-The gameplay mechanics introduced in Front Page Sports Football 92, such as the Camera Angle Management System (CAMS) and comprehensive playbook options, would evolve and improve in subsequent entries, including Front Page Sports - Football Pro. The career mode, which allowed players to manage a franchise over multiple seasons, would also become more sophisticated, with added features such as enhanced player development and more realistic roster management. As the series progressed, the games would continue to build upon the foundation established by Front Page Sports Football 92, offering increasingly complex and realistic football simulations.
-
-In terms of narrative continuity, Front Page Sports Football 92's career mode allowed players to create their own stories and legacies, guiding their teams through seasons of competition and watching as players developed and eventually retired. This emergent narrative approach would continue in future entries, including Front Page Sports - Football Pro, which would likely introduce new features and gameplay mechanics that would further enhance the series' reputation for depth and realism. By building upon the foundation established by Front Page Sports Football 92, the series would continue to evolve and improve, offering fans of football simulations a consistently high-quality gaming experience.
-
 - [[1993 - Front Page Sports - Football Pro|→ Next: Front Page Sports - Football Pro]]
-
 ## References
 
 [^ref-1]: [En-Academic – Front Page Sports](https://en-academic.com/dic.nsf/enwiki/4856623) – series history, career mode details, CGW ranking, version history

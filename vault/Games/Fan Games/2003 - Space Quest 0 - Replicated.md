@@ -208,11 +208,6 @@ The game also represents an important artifact of early 2000s fan game developme
 
 ## See Also
 
-Space Quest 0: Replicated serves as a narrative bridge between the events of King's Quest II+ - Romancing the Stones, which concluded the adventures of Graham in the fantasy realm, and the forthcoming sci-fi escapades that would unfold in King's Quest III Remake by Infamous Adventures. Although the settings and protagonists differ significantly, with Roger Wilco taking center stage in a futuristic universe, both series share a common heritage as part of the broader Sierra adventure game legacy. The use of the AGI engine in Space Quest 0: Replicated directly ties it to the technical lineage of earlier King's Quest games, showcasing the versatility and enduring appeal of this classic game development technology.
-
-Mechanically, Space Quest 0: Replicated builds upon the foundations laid by its predecessors, including King's Quest II+, by refining the text parser interface that was a hallmark of early Sierra adventures. This evolution in gameplay mechanics is evident in how players must creatively use the text input to solve puzzles and progress through the game, a challenge that fans of the series have come to appreciate. The success of this approach in Space Quest 0: Replicated would later influence the design of King's Quest III Remake, which also sought to blend traditional adventure gameplay with modern sensibilities.
-
-The narrative connections between Space Quest 0: Replicated and its successor, King's Quest III Remake, are more thematic than direct, as both games explore themes of identity, perseverance, and the battle against evil in their respective worlds. Roger Wilco's adventures on Labion Orbital Station 10 and the planet Labion itself serve as a precursor to the deeper character explorations and complex storylines that would emerge in later Sierra titles, including the King's Quest series remakes. By examining these connections, fans can appreciate the broader context of adventure gaming history and how different series within the Sierra canon influenced one another over time.
 
 ## References
 

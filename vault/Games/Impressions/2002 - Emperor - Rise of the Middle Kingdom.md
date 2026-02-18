@@ -250,14 +250,7 @@ The game also holds significance as the final 2D entry in the series and the las
 
 ## See Also
 
-Emperor: Rise of the Middle Kingdom marks a significant departure from its predecessor, Casino Deluxe 2, in terms of both narrative and gameplay mechanics. While Casino Deluxe 2 focused on casino management, Emperor transports players to ancient China, challenging them to construct and manage cities across seven imperial dynasties. This shift in setting and theme is accompanied by innovations such as the feng shui system for harmonious city planning and multiplayer support.
-
-In terms of narrative continuity, Emperor: Rise of the Middle Kingdom does not directly follow the story of Casino Deluxe 2, instead offering a unique historical progression through Chinese civilization. The game's dynastic campaigns guide players through significant periods in Chinese history, from the Xia Dynasty to the Song-Jin Dynasties, with each era presenting distinct economic, military, and diplomatic challenges. As the sixth and final entry in Sierra's City Building Series, Emperor represents a culmination of the series' established mechanics and sets the stage for future city-building games.
-
-The gameplay evolution in Emperor: Rise of the Middle Kingdom builds upon the foundations laid by earlier titles in the series, introducing new features such as the Chinese zodiac for company naming and improved walker-based systems. While Casino Deluxe 2 is not directly connected to Emperor in terms of narrative or setting, the latter game's city-building mechanics and emphasis on strategic management can be seen as a spiritual successor to the management-focused gameplay of its predecessor. The next entry in the series would likely continue to evolve these mechanics, potentially introducing new themes, settings, or innovations to further enhance the city-building experience.
-
 - [[1996 - Casino Deluxe 2|← Previous: Casino Deluxe 2]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – release dates, developers, designers, composer, series information, Metacritic score

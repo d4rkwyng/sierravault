@@ -110,16 +110,9 @@ Game documentation including manuals[^ref-25] and video content[^ref-26] has bee
 
 ## See Also
 
-Aces of the Deep builds upon the foundation established by its predecessor, Aces Over Europe, by transitioning from aerial combat to submarine warfare, while maintaining the series' commitment to historical accuracy and realistic gameplay. The game's focus on World War II-era German U-boats introduces players to a new dimension of naval conflict, where stealth and strategy are crucial to success. As players take on the role of a U-boat commander, they must navigate the challenges of underwater warfare, including enemy convoys, sonar detection, and limited resources.
-
-The gameplay mechanics in Aces of the Deep laid the groundwork for the subsequent entry in the series, Command Aces of the Deep, which further enhanced the simulation experience with improved graphics and innovative features such as speech recognition technology. The core elements of submarine command, including torpedo management, depth control, and evasion tactics, were refined in Aces of the Deep, providing a solid foundation for the advancements introduced in Command Aces of the Deep. The historical context and realistic gameplay of Aces of the Deep also set the stage for the expanded campaign options and new missions introduced in the next game.
-
-The connection between Aces of the Deep and its predecessor, Aces Over Europe, is evident in the shared attention to historical detail and commitment to realistic gameplay, despite the shift from aerial to naval combat. The series' evolution is marked by a continuous improvement in graphics, sound design, and gameplay mechanics, with each entry building upon the successes of the previous one. As the series progresses, players can expect a deeper and more immersive experience, with Aces of the Deep serving as a pivotal entry in the Aces series, bridging the gap between the aerial combat of Aces Over Europe and the advanced submarine simulations of Command Aces of the Deep.
-
 - [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]
 - [[1995 - Command Aces of the Deep|→ Next: Command Aces of the Deep]]
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
-
 ## Legacy
 
 Aces of the Deep's influence on the submarine simulation genre cannot be overstated. As noted in the SUBSIM interview, "In the area of submarine simulations, it was Aces of the Deep. Aces was a huge leap forward in every facet of the submarine sim; graphics, music, gameplay, and most importantly, realism and historical accuracy"[^ref-11]. The review continues: "No other subsim before or after Aces of the Deep has captured the ambiance and tension quite so well"[^ref-11].

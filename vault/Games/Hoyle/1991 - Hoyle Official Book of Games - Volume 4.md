@@ -178,15 +178,8 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 
 ## See Also
 
-Hoyle Official Book of Games - Volume 4 builds upon the foundation laid by its predecessor, Hoyle Official Book of Games - Volume 3, by introducing new card games such as Contract Bridge and Euchre, while retaining the charm of competing against animated characters from other Sierra titles, including Larry Laffer from Leisure Suit Larry and King Graham from King's Quest. The addition of VGA graphics and the expansion of the game library further enhanced the player experience, setting the stage for future iterations in the series. This volume also marked a significant milestone as it was the last to feature these beloved characters, making it a unique entry in the Hoyle series.
-
-The gameplay mechanics and interface introduced in Volume 4 paved the way for Hoyle Bridge, the next entry in the series, which would focus more intensely on the intricacies of Bridge, one of the most popular and strategically deep card games included in Volume 4. The success of Contract Bridge in Volume 4, with its serious strategic depth and potential for multiplayer matches, likely influenced the decision to develop a standalone title dedicated to this complex and engaging game. By refining the AI and gameplay elements for Bridge, Sierra laid the groundwork for a more specialized and competitive experience in Hoyle Bridge.
-
-The evolution from Hoyle Official Book of Games - Volume 4 to Hoyle Bridge also reflects Sierra's approach to listening to player feedback and expanding on successful elements within their games. The inclusion of a variety of card games in Volume 4, such as Gin Rummy, Hearts, and Klondike, catered to a broad audience, while the focus on Bridge in the subsequent title indicates a shift towards satisfying the more dedicated players of this particular game. This strategic decision showcases Sierra's commitment to enhancing gameplay based on player preferences and the popularity of certain features within their titles.
-
 - [[1991 - Hoyle Official Book of Games - Volume 3|← Previous: Hoyle Official Book of Games - Volume 3]]
 - [[1996 - Hoyle Bridge|→ Next: Hoyle Bridge]]
-
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/CLASSIC_201803) - Release year and series information

@@ -108,11 +108,6 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 
 ## See Also
 
-Quest for Infamy builds upon the foundations laid by its spiritual predecessor, Moebius - Empire Rising, by refining the point-and-click adventure game formula with RPG elements. The game's narrative focus on an anti-hero protagonist, Mr. Roehm, allows players to experience a fresh perspective on traditional adventure game storytelling. This approach sets the stage for further innovation in the series, as seen in the subsequent title, Cluck Yegger in Escape From The Planet of The Poultroid, which would push the boundaries of gameplay and narrative even further.
-
-The gameplay mechanics in Quest for Infamy, such as the classic point-and-click interface and character class selection, demonstrate a clear evolution from Moebius - Empire Rising's more experimental approach. The inclusion of RPG elements, like combat and character progression, adds depth to the adventure game formula, laying the groundwork for future titles in the series. Cluck Yegger in Escape From The Planet of The Poultroid would later expand upon these ideas, introducing new gameplay mechanics and refining existing ones to create a unique experience.
-
-Quest for Infamy's story and characters also pave the way for the offbeat humor and quirky characters found in Cluck Yegger in Escape From The Planet of The Poultroid. The game's narrative, which follows Mr. Roehm as he navigates the town of Volksville and becomes embroiled in a mysterious plot, establishes a tone that is both humorous and irreverent, setting the stage for the even more absurd adventures that would follow in the series. By building upon the foundations established in Moebius - Empire Rising and refining the gameplay mechanics, Quest for Infamy creates a solid foundation for the series to continue evolving and innovating with subsequent titles like Cluck Yegger in Escape From The Planet of The Poultroid.
 
 ## References
 

@@ -218,11 +218,6 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 
 ## See Also
 
-The Prophecy connects narratively to the previous game, Bargon Attack, through its shared universe and similar gameplay mechanics. Although The Prophecy is not a direct sequel, it builds upon the puzzle-focused gameplay that Coktel Vision established in their earlier titles, including Bargon Attack. This continuity is evident in the character of Ween, who embodies the spirit of adventure and problem-solving that defined the protagonists of Bargon Attack.
-
-Mechanically, The Prophecy evolves the point-and-click interface introduced in Bargon Attack, streamlining interactions and emphasizing puzzle-solving. The game's use of a first-person perspective and automatic object detection also represents a significant improvement over its predecessor, making it easier for players to navigate and engage with the game world. As the series progresses, these innovations will continue to shape the gameplay experience, ultimately influencing the development of Lost in Time, the next entry in the Coktel series.
-
-The Prophecy lays the groundwork for Lost in Time, which will build upon the narrative and mechanical foundations established in The Prophecy. The character of Ween and the Kingdom of Blue Rocks will likely play a significant role in shaping the story and gameplay of Lost in Time, as the series continues to explore themes of adventure, puzzle-solving, and fantasy. As the Coktel series evolves, players can expect to see continued innovation and refinement of the gameplay mechanics introduced in The Prophecy, ultimately leading to a more immersive and engaging experience in Lost in Time.
 
 ## References
 

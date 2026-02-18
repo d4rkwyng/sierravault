@@ -248,11 +248,6 @@ The game features the return of Beatrice Wankmeister, Roger's love interest from
 
 ## See Also
 
-Space Quest: Incinerations builds upon the narrative foundation established in Space Quest II VGA Remake, with Roger Wilco's latest misadventures taking place approximately ten years after the events of Space Quest 6: Roger Wilco in the Spinal Frontier. The game's storyline introduces new characters, such as Doomtron, while bringing back familiar faces from the original series, creating a sense of continuity and expansion within the Space Quest universe. As a fan-made sequel, Incinerations also explores themes and gameplay mechanics that were not fully realized in the official series, providing a unique perspective on the beloved franchise.
-
-In terms of mechanical evolution, Space Quest: Incinerations refines the point-and-click adventure game formula, incorporating features like replayable conversations with NPCs and eliminating traditional dead-ends that could trap players in unwinnable situations. These improvements enhance the overall gaming experience, making it more accessible and enjoyable for both new and veteran players. The game's use of the Adventure Game Studio engine also allows for a more modern take on the classic Sierra adventure game feel, with 3D-rendered sprites and backgrounds, and over 45 minutes of fully-animated cinematics.
-
-While Space Quest: Incinerations is not directly connected to King's Quest IV Retold in terms of narrative, both games represent ambitious fan-made projects that aim to revitalize and reimagine classic Sierra franchises. The success of Incinerations demonstrates the potential for fan-driven initiatives to create engaging and high-quality adventure games that stay true to the spirit of the original series, paving the way for other fan-made projects like King's Quest IV Retold to explore new creative avenues and push the boundaries of what is possible in the world of adventure gaming.
 
 ## References
 

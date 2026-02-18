@@ -285,15 +285,8 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 
 ## See Also
 
-Phantasmagoria marks a significant departure from Roberta Williams' earlier work on the King's Quest series, embracing a darker and more mature tone that would become a hallmark of the Phantasmagoria series. The game's story follows Adrienne Delaney as she uncovers the sinister history of her new home, a mansion with a dark past tied to the magician Zoltan "Carno" Carnovasch. This narrative thread sets the stage for the events of Phantasmagoria - A Puzzle of Flesh, which continues to explore themes of horror and the supernatural.
-
-The gameplay mechanics in Phantasmagoria, including its simplified point-and-click interface and heavy use of full-motion video, laid the groundwork for the more complex and interactive elements found in Phantasmagoria - A Puzzle of Flesh. The success of Phantasmagoria's multimedia approach, despite controversy over its graphic content, encouraged Sierra to push the boundaries of what was possible in interactive storytelling. As a result, Phantasmagoria - A Puzzle of Flesh would build upon this foundation, incorporating more advanced gameplay mechanics and a deeper narrative.
-
-The connection between Phantasmagoria and its sequel is also evident in the way the games explore mature themes and psychological horror. Adrienne's experiences in the first game, including her terrifying nightmares and encounters with supernatural entities, are echoed in the sequel's examination of trauma, identity, and the blurring of reality and fantasy. By understanding the events and gameplay evolution of Phantasmagoria, players can better appreciate the narrative and mechanical developments that occur in Phantasmagoria - A Puzzle of Flesh, creating a more cohesive and immersive experience across the series.
-
 - [[1996 - Phantasmagoria - A Puzzle of Flesh|→ Next: Phantasmagoria - A Puzzle of Flesh]]
 - [[Roberta Williams]] - Creator
-
 ## References
 
 [^ref-1]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – comprehensive development history, sales figures, critical reception, awards, cast, technical specs

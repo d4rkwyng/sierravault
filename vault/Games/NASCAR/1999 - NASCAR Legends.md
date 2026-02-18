@@ -230,15 +230,8 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 
 ## See Also
 
-NASCAR Legends connects to the previous entry in the series, NASCAR Craftsman Truck Series Racing, through its shared focus on realistic racing simulation and attention to detail in recreating the NASCAR experience. While NASCAR Craftsman Truck Series Racing concentrated on the truck series, NASCAR Legends shifts the spotlight to the 1970 NASCAR Grand National Series season, offering a distinct historical perspective and unique set of challenges. This progression showcases the evolution of the series towards more specialized and nostalgic themes.
-
-Mechanically, NASCAR Legends lays the groundwork for the next entry in the series, NASCAR Racing 3, by utilizing a modified version of the NASCAR Racing 3 engine. This engine would be further refined and expanded upon in NASCAR Racing 3, incorporating new features and improvements based on the foundation established in NASCAR Legends. The gameplay in NASCAR Legends, including its comprehensive racing simulation experience and support for online multiplayer, also sets the stage for the advancements seen in NASCAR Racing 3.
-
-The narrative connection between NASCAR Legends and the rest of the series is more thematic, focusing on the historical aspect of NASCAR rather than a continuing storyline or specific characters like Richard Yasi, who played a role in designing the game. The game's protagonist, a player-created driver, competes against 42 legendary racers from the 1970 era, immersing players in a pivotal year in American motorsport history. This approach allows for a fresh experience with each new installment, while maintaining a strong link to the overall NASCAR franchise and its commitment to authenticity and realism.
-
 - [[1999 - NASCAR Craftsman Truck Series Racing|← Previous: NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Racing 3|→ Next: NASCAR Racing 3]]
-
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date, engine, car configurations, track count

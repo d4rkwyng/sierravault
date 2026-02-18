@@ -118,15 +118,8 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 
 ## See Also
 
-Homeworld: Deserts of Kharak serves as a prequel to the classic Homeworld series, taking place over a century before the events of the original game. The story follows Rachel S'jet, the chief science officer, as she leads a military expedition to retrieve a lost artifact capable of saving the planet from environmental degradation. This narrative thread connects directly to the broader Homeworld mythology, ultimately leading to the discovery that would inspire the construction of the great mothership featured in the original game, creating a cohesive link between Deserts of Kharak and the Homeworld Remastered Collection.
-
-The gameplay in Deserts of Kharak represents a significant evolution from the space-based setting of its predecessors, instead focusing on ground-based warfare while maintaining the series' signature emphasis on tactical combat, resource management, and compelling narrative. The introduction of a persistent army system, where units carry over from mission to mission, adds a new layer of depth to the traditional RTS formula, requiring careful resource management throughout the campaign. This mechanic sets the stage for the next entry in the series, Homeworld 3, which will likely build upon this foundation and further refine the gameplay experience.
-
-As the series continues with Homeworld 3, players can expect a return to the space-based setting of the original games, with the story potentially exploring the consequences of the events set in motion by Rachel S'jet's expedition in Deserts of Kharak. The gameplay may also evolve to incorporate new features and mechanics, such as improved ship customization and larger-scale battles, while maintaining the core elements that have defined the Homeworld series. By building upon the narrative and mechanical foundations established in Deserts of Kharak, Homeworld 3 will offer a fresh and exciting experience for fans of the series, while remaining true to the spirit of the original games.
-
 - [[2015 - Homeworld Remastered Collection|← Previous: Homeworld Remastered Collection]]
 - [[2024 - Homeworld 3|→ Next: Homeworld 3]]
-
 ## References
 
 [^ref-1]: [Homeworld Fandom Wiki](https://homeworld.fandom.com/wiki/Homeworld:_Deserts_of_Kharak) – - Game timeline and setting information

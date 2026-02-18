@@ -224,11 +224,6 @@ The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that
 
 ## See Also
 
-Ultimate Soccer Manager 98-99 builds upon the foundation established by its predecessor, Ultimate Soccer Manager 98, by introducing updated team rosters for the 1998-99 season and expanding its league coverage to include Spanish and Dutch competitions. This expansion allows players to manage over 400 clubs across seven European leagues, providing a broader scope of management opportunities compared to the previous game. The addition of new leagues and teams also brings new challenges and strategies to the table, as players must adapt to different team dynamics and league structures.
-
-In terms of gameplay mechanics, Ultimate Soccer Manager 98-99 refines the intuitive interface and controls introduced in earlier titles, making it easier for players to navigate the various aspects of club management. The game's live match engine and fax-based transfer system also contribute to a more immersive and realistic experience, allowing players to feel like they are truly in charge of their club's destiny. As the final release in the USM series, Ultimate Soccer Manager 98-99 does not have a direct sequel, but its influence can be seen in later football management simulations that have built upon its innovative features and gameplay mechanics.
-
-The game's narrative is driven by the player's decisions and actions as they guide their chosen club through the challenges of the football season. With a focus on business simulation, sports game, and sandbox elements, Ultimate Soccer Manager 98-99 offers a unique blend of gameplay that sets it apart from other titles in the genre. The game's ability to balance depth and complexity with accessibility and ease of use has made it a beloved classic among fans of football management simulations, and its influence can still be felt in modern games today.
 
 ## References
 

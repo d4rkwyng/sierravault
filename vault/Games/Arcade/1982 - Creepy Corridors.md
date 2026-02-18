@@ -220,11 +220,6 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 
 ## See Also
 
-Creepy Corridors builds upon the foundation laid by its predecessor, Cannonball Blitz, by refining the arcade-style gameplay and introducing new mechanics such as maze navigation and enemy avoidance. The game's protagonist, Sierra Smith, must use these skills to overcome challenges, setting the stage for future series entries. This evolution in gameplay would later influence the development of Dragon's Keep, which expanded on the action-oriented formula established in Creepy Corridors.
-
-The connection between Creepy Corridors and Cannonball Blitz is evident in their shared arcade roots and the emphasis on quick reflexes and strategic thinking. While Cannonball Blitz focused on fast-paced action, Creepy Corridors adds a layer of complexity with its maze-like levels and collectible diamonds, requiring players to balance risk and reward. This shift in gameplay style would become a hallmark of the series, as seen in the subsequent release of Dragon's Keep.
-
-As the series progresses to Dragon's Keep, the core gameplay mechanics introduced in Creepy Corridors are further refined and expanded upon. The experience gained by Sierra Smith in navigating the creepy corridors serves as a precursor to the more complex challenges faced in Dragon's Keep. The narrative thread, though not directly continuous, maintains a sense of adventure and danger, with players once again guiding their protagonist through treacherous environments in search of treasure and survival. This continuity ensures that fans of Creepy Corridors will find familiar elements in Dragon's Keep, while also encountering new challenges and gameplay innovations.
 
 ## References
 

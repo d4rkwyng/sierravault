@@ -176,11 +176,6 @@ Several bugs and design issues were documented during the game's lifespan:
 
 ## See Also
 
-The Shadow of Yserbius builds upon the foundations laid by its predecessors in the INN series, introducing a groundbreaking graphical multi-user dungeon experience that set the stage for future MMORPGs. While there is no direct narrative connection to the previous game, the evolution of gameplay mechanics and the introduction of a new fantasy world centered around the volcanic mountain Yserbius mark a significant departure from earlier titles. The game's focus on multiplayer interaction and cooperative adventuring also laid the groundwork for later entries in the series.
-
-The Shadow of Yserbius serves as a pivotal entry in the INN series, bridging the gap between text-based MUDs and modern online role-playing games. Its influence can be seen in the subsequent release of Fates of Twinion, which built upon the multiplayer and graphical foundations established by The Shadow of Yserbius. Although specific plot points and characters from The Shadow of Yserbius are not directly referenced in Fates of Twinion, the latter game's expanded character customization options and refined gameplay mechanics demonstrate a clear evolutionary trajectory from its predecessor.
-
-The connection between The Shadow of Yserbius and Fates of Twinion is further evident in their shared emphasis on player-driven narratives and social dynamics. While The Shadow of Yserbius introduced players to the concept of cooperative adventuring and competitive multiplayer, Fates of Twinion expanded upon these ideas, incorporating new features and gameplay elements that enhanced the overall experience. As such, The Shadow of Yserbius can be seen as a crucial stepping stone in the development of the INN series, paving the way for future innovations and advancements in the genre.
 
 ## References
 

@@ -197,11 +197,6 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 
 ## See Also
 
-Ready, Set, Read with Bananas & Jack builds upon the foundation established by its predecessor, Alphabet Blocks, by expanding on the "Talking Tutor" methodology and introducing new interactive learning activities designed to help young children develop fundamental reading skills. The game's playhouse environment, hosted by Bananas the monkey and Jack the jack-in-the-box, provides a engaging setting for children to explore alphabet recognition, word building, rhyming, sight words, and phonetic sounds. This approach sets the stage for the next entry in the series, Spelling Jungle, which would further evolve the educational mechanics and gameplay.
-
-The connection between Ready, Set, Read with Bananas & Jack and Spelling Jungle is evident in their shared focus on literacy skills and the use of interactive, animated environments to facilitate learning. While Ready, Set, Read focuses on foundational reading skills, Spelling Jungle would build upon these basics by introducing more complex spelling and vocabulary exercises. The characters and gameplay mechanics introduced in Ready, Set, Read, such as the point-and-select interface and the absence of negative reinforcement, likely influenced the design of subsequent games in the series.
-
-The evolution of gameplay mechanics from Alphabet Blocks to Ready, Set, Read with Bananas & Jack and eventually to Spelling Jungle demonstrates a clear progression in the series' educational approach. Each game refines and expands upon the previous entry's concepts, incorporating new activities and features designed to engage young learners and support their development of essential reading and spelling skills. By understanding this continuity, players and educators can better appreciate how each game contributes to the overall learning journey offered by the Discovery series.
 
 ## References
 

@@ -202,11 +202,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 
 ## See Also
 
-Wallwar, as a standalone title, does not directly continue the narrative of its predecessor Sammy Lightfoot, but rather shares some similarities in gameplay mechanics. While Sammy Lightfoot featured platforming elements, Wallwar focuses on competitive head-to-head gameplay where players must break through a kinetic brick wall. This shift in gameplay style indicates an evolution in Sierra's approach to arcade-style action games during the early 1980s.
-
-The development of Wallwar under the working title "Force Fields" and its eventual release under Sierra's short-lived SierraVision label highlights the company's experimentation with different genres and marketing strategies. Although Wallwar did not achieve commercial success, selling only a limited number of copies, it represents an interesting footnote in Sierra's history. The game's technical achievements, such as its visually impressive graphics and competitive gameplay mechanics, demonstrate the company's efforts to innovate and differentiate itself in the market.
-
-As there is no direct sequel to Wallwar, the series continuity ends with this title. However, the lessons learned from developing Wallwar likely influenced Sierra's future projects, particularly in terms of gameplay mechanics and genre experimentation. The company's subsequent focus on adventure games, such as the King's Quest series, may have been shaped by the experiences gained from creating action-oriented titles like Wallwar. Despite its lack of commercial success, Wallwar remains an important part of Sierra's history, showcasing the company's willingness to take risks and explore different genres during the early 1980s.
 
 ## References
 

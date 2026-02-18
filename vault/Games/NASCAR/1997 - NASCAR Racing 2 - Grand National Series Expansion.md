@@ -186,12 +186,6 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 
 ## See Also
 
-NASCAR Racing 2 Grand National Series Expansion built upon the foundation laid by its predecessor, NASCAR Racing 2, by adding a new layer of depth to the series with the inclusion of the Busch Grand National Series. This expansion not only enhanced the gameplay experience but also provided a more comprehensive racing simulation, allowing players to explore different aspects of stock car racing. The addition of the Grand National Series enabled players to compete in a broader range of races and tracks, setting the stage for future expansions like NASCAR Craftsman Truck Series Racing.
-
-The mechanical evolution from NASCAR Racing 2 to the Grand National Series Expansion was significant, with improvements in graphics, physics, and multiplayer capabilities that enhanced the overall racing experience. The game's engine and design, led by Dave Kaemmer, ensured a smooth transition between the base game and the expansion, offering players a seamless and immersive experience. As the series progressed towards NASCAR Craftsman Truck Series Racing, these foundational elements would continue to evolve, incorporating new features and improvements that further solidified the series' reputation for realism and authenticity.
-
-The narrative connection between NASCAR Racing 2 Grand National Series Expansion and its successors, such as NASCAR Craftsman Truck Series Racing, lies in the expansive world of NASCAR that Papyrus Design Group and Sierra On-Line were creating. By introducing players to different series within the NASCAR universe, the games allowed enthusiasts to explore various facets of stock car racing, from development series like the Grand National to the pinnacle of the sport. This approach not only catered to a wide range of interests among fans but also contributed to the richness and diversity of the NASCAR Racing series as a whole, making each new release a compelling addition to the franchise.
-
 - **Base Game:** [[1996 - NASCAR Racing 2]] (required)
 
 - [[1994 - NASCAR Racing|NASCAR Racing]] (1994)
@@ -202,7 +196,6 @@ The narrative connection between NASCAR Racing 2 Grand National Series Expansion
 - [[2001 - NASCAR Racing 4|NASCAR Racing 4]] (2001)
 - [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] (2002)
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (2003)
-
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Grand National Series Expansion Pack](https://www.mobygames.com/game/1612/nascar-grand-national-series-expansion-pack/) – Game description and credits

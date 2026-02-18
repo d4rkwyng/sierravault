@@ -184,11 +184,6 @@ The remake's success lies not merely in its technical achievements but in its ph
 
 ## See Also
 
-The Quest for Glory II VGA Remake serves as a pivotal entry in the series, building upon the foundations laid by its predecessor and setting the stage for future installments. Narratively, it follows the Hero's journey from the first game, transporting them to the exotic city of Shapeir, where they must confront the growing threat of Raseir. Mechanically, the remake refines the adventure-RPG hybrid formula, introducing a point-and-click interface that would influence subsequent games in the series, including The Silver Lining.
-
-In terms of gameplay evolution, the Quest for Glory II VGA Remake's enhancements to the original's text parser interface and combat mechanics laid the groundwork for more complex interactions and character development in later titles. The inclusion of a text parser option alongside the point-and-click system also demonstrates AGD Interactive's commitment to preserving the spirit of the original while catering to modern players' preferences. This approach would be echoed in The Silver Lining, which further refined the series' formula with its own innovations.
-
-The Quest for Glory II VGA Remake's connection to the broader Sierra universe is also noteworthy, particularly in relation to other fan-made projects like King's Quest III Remake by Infamous Adventures. While not directly narratively connected, these remakes share a common goal of revitalizing classic adventure games for new audiences, ensuring that beloved characters and worlds continue to thrive. As the series progresses, the Hero's legend grows, and the stage is set for The Silver Lining to introduce new challenges and opportunities for growth, all while maintaining the essence of what makes Quest for Glory so enduringly popular.
 
 ## References
 

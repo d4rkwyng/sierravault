@@ -186,11 +186,6 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 
 ## See Also
 
-Learning with FuzzyWOMP builds upon the foundational principles established in its predecessor, Learning with Leeper, by expanding the scope of educational content and refining the interactive elements to better cater to preschool-aged children. The introduction of Fuzzywomp as a guide character enhances the learning experience, making it more engaging and accessible for young players. This approach sets the stage for future educational titles, including Wizard of Id's WizMath, which would further evolve the series' focus on interactive learning.
-
-The gameplay mechanics in Learning with FuzzyWOMP, such as the joystick-based control scheme and the elimination of text instructions, demonstrate a significant leap forward in terms of accessibility and user interface design compared to Learning with Leeper. These innovations paved the way for Wizard of Id's WizMath to incorporate even more sophisticated interactive elements, tailored to meet the evolving needs of young learners. By introducing activities like digit sequencing and memory comparison games, FuzzyWOMP lays the groundwork for the more complex mathematical concepts explored in WizMath.
-
-The narrative structure, or rather the lack thereof, in Learning with FuzzyWOMP allows for a unique approach to education, focusing on interactive scenarios and positive reinforcement rather than traditional storytelling. This design choice influences the development of subsequent educational games, including Wizard of Id's WizMath, which would balance engaging narratives with educational objectives. The character of Fuzzywomp becomes an iconic figure in early childhood education, symbolizing the potential for friendly, approachable characters to facilitate learning, a concept that would be further explored and refined in future Sierra Educational titles.
 
 ## References
 

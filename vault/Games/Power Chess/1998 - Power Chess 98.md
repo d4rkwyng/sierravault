@@ -222,11 +222,6 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 
 ## See Also
 
-Power Chess 98 builds upon the foundation established by the original Power Chess, introducing an updated version of the WChess engine that further refines the adaptive difficulty system. This evolution allows for a more immersive experience, as the King's AI adjusts its playing strength to match the player's skill level, creating a challenging yet educational environment. The game's narrative framework, set within a medieval royal court, provides a unique progression system where players can challenge various opponents, from Commoners to the King and Queen.
-
-The connection to the next entry in the series, Power Chess 2.0, is evident in the continued refinement of the WChess engine and the adaptive AI technology. Power Chess 98 lays the groundwork for the advancements seen in Power Chess 2.0, which further expands on the educational approach and innovative gameplay mechanics introduced in Power Chess 98. The Queen's post-game analysis and commentary, a key feature in Power Chess 98, likely influenced the development of similar educational tools in Power Chess 2.0.
-
-Mechanically, Power Chess 98 bridges the gap between the original Power Chess and Power Chess 2.0 by introducing features such as the "Crack the King" mode and the Chess Lab, which allow players to experiment with game variations and explore alternative lines of play. These innovations set the stage for the more advanced gameplay mechanics and features that would be introduced in Power Chess 2.0, creating a cohesive narrative and mechanical arc throughout the series. The game's focus on adaptive AI, educational tools, and immersive gameplay also establishes a clear direction for the series, one that emphasizes both challenge and learning.
 
 ## References
 

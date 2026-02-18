@@ -311,15 +311,8 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 
 ## See Also
 
-Half-Life: Opposing Force connects to its predecessor, Half-Life, through its narrative, which runs parallel to the events of the original game. Players assume the role of Corporal Adrian Shephard, a U.S. Marine sent to the Black Mesa Research Facility, allowing for a fresh perspective on the catastrophic incident that occurred in the first game. This expansion pack builds upon the intense atmosphere and gameplay of Half-Life, introducing new elements such as squad-based mechanics and an entirely new alien faction known as Race X.
-
-The story of Opposing Force intersects with that of Half-Life at key moments, with players occasionally glimpsing Gordon Freeman during his own journey through Black Mesa. The game provides narrative context revealing the ultimate fate of the research facility, which is destroyed by a nuclear device, offering closure to the events of the original game. Meanwhile, the protagonist's story concludes with a deliberate ambiguity, as Shephard is detained by the enigmatic G-Man and sealed in stasis, leaving his future uncertain.
-
-In terms of mechanical evolution, Opposing Force refines the first-person shooter experience introduced in Half-Life, with the addition of new features such as night vision goggles and rope-climbing mechanics. The game's success paved the way for future expansions and spin-offs, including Team Fortress Classic, which would build upon the multiplayer aspects of the series. Although Team Fortress Classic does not directly continue the narrative of Opposing Force, it represents a natural progression in the series' gameplay evolution, focusing on competitive team-based gameplay and further expanding the Half-Life universe.
-
 - [[1998 - Half-Life|← Previous: Half-Life]]
 - [[1999 - Team Fortress Classic|→ Next: Team Fortress Classic]]
-
 ## References
 
 [^ref-1]: [Combine OverWiki – Half-Life: Opposing Force](https://combineoverwiki.net/wiki/Half-Life:_Opposing_Force) – development history, awards, sales data, technical specs, demo information

@@ -226,11 +226,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 
 ## See Also
 
-As the first installment in the Oils Well series, Oil's Well sets the stage for the narrative and mechanical elements that will be built upon in subsequent entries. The game's core concept of drilling for oil while avoiding underground creatures lays the groundwork for the series' signature blend of arcade-style action and strategic puzzle-solving. Although there is no direct predecessor to Oil's Well, its spiritual connection to the 1982 arcade game Anteater is evident in its gameplay mechanics.
-
-The success of Oil's Well led to a significant remake in 1990, which introduced new features such as improved graphics, a stereo soundtrack, and animated cartoon sequences featuring Slater the Petrosaur. This remake expanded on the original game's narrative premise, adding a geopolitical backdrop to the player's drilling operations and introducing a more developed storyline. The 1990 version also built upon the gameplay mechanics of the original, adding new levels, power-ups, and challenges that would become staples of the series.
-
-As the series continues with the next entry, also titled Oils Well, players can expect to see further evolution of the gameplay mechanics and narrative elements introduced in the first game. The next installment will likely build upon the foundation established by the original, incorporating new features and challenges while maintaining the core concept of drilling for oil while avoiding underground threats. With its unique blend of action and strategy, the Oils Well series is poised to continue delivering exciting and challenging gameplay experiences for players.
 
 ## References
 

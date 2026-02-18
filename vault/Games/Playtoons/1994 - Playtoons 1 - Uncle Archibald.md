@@ -194,14 +194,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 
 ## See Also
 
-Playtoons 1: Featuring Uncle Archibald lays the groundwork for the series by introducing players to the interactive comic book format and creative freedom offered through its editor tool. This foundation is built upon in Playtoons 2: The Case of the Counterfeit Collaborator, where players continue to explore new narratives and deepen their engagement with the construction game mode, combining assets from both titles to expand their creative possibilities. The interoperability feature, allowing players to merge elements from different Playtoons games, becomes a hallmark of the series, enhancing the overall experience.
-
-The story of Uncle Archibald and the supernatural predicament faced by the two children sets the stage for future adventures in the Playtoons series, including the mysteries and challenges presented in Playtoons 2: The Case of the Counterfeit Collaborator. As players progress through the series, they encounter new characters, scenarios, and gameplay mechanics that evolve from the foundational elements established in Playtoons 1. The emphasis on exploration, creativity, and interactive storytelling remains a constant theme throughout the series.
-
-Mechanically, Playtoons 1: Featuring Uncle Archibald showcases the Gob engine's capabilities in delivering engaging, animated narratives and versatile construction tools. These technical aspects are further refined in subsequent entries like Playtoons 2: The Case of the Counterfeit Collaborator, which likely builds upon the fixed, flip-screen perspective and point-and-click controls to offer more complex interactions and possibly new features that enhance player creativity and immersion. By connecting the narrative threads and mechanical evolution across the series, players can appreciate the growth and diversity that each new installment brings.
-
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|→ Next: Playtoons 2 - The Case of the Counterfeit Collaborator]]
-
 ## References
 
 [^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description

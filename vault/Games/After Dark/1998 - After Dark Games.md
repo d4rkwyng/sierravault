@@ -194,15 +194,8 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 
 ## See Also
 
-After Dark Games builds upon the success of its predecessor, More After Dark, by transforming beloved screensaver characters into interactive gaming experiences. The compilation features iconic characters like Flying Toasters, Bad Dog, and Hula Girl, which were first introduced in the earlier After Dark series, including More After Dark. By incorporating these recognizable personalities, After Dark Games creates a sense of continuity with the previous entry, while also expanding on the franchise's lighthearted and humorous tone.
-
-In terms of gameplay evolution, After Dark Games marks a significant shift towards casual gaming, with each of the eleven mini-games designed to be easy to pick up and play. This approach differs from the more complex gameplay mechanics found in some of the other Sierra titles, and instead focuses on providing a fun and accessible experience for players of all skill levels. The game's use of standard keyboard and mouse inputs also makes it easy for players to jump into the action, much like the intuitive controls found in More After Dark.
-
-As the series continues with future entries, the groundwork laid by After Dark Games in terms of casual gaming and character-driven design will likely influence the direction of subsequent titles. The success of this compilation may also lead to further experimentation with new gameplay mechanics and genres, potentially incorporating elements from other Sierra franchises. With its unique blend of whimsy and challenge, After Dark Games serves as a bridge between the earlier screensaver-focused entries and the potential future directions of the series, including possible connections to other Sierra games that may feature similar characters or gameplay elements.
-
 - **Related:** After Dark (1992) (original screensaver software)
 - [[1991 - More After Dark|← Previous: More After Dark]]
-
 ## References
 
 [^ref-1]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) - General overview, New York Times quote, game descriptions

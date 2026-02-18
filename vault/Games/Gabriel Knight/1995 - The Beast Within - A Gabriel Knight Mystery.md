@@ -185,17 +185,10 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 
 ## See Also
 
-The Beast Within: A Gabriel Knight Mystery continues the story of Gabriel Knight, the Schattenjäger from the first game, Gabriel Knight - Sins of the Fathers. Set one year after the events of the first game, Gabriel has moved to his ancestral castle in Bavaria to write a novel, only to be drawn into a new supernatural mystery involving werewolves, the composer Richard Wagner, and the mysterious death of King Ludwig II of Bavaria. This sequel builds upon the foundations established in Sins of the Fathers, delving deeper into Gabriel's heritage as a supernatural investigator.
-
-The game's narrative is tightly intertwined with its mechanical evolution, as the introduction of full-motion video (FMV) sequences and a simplified one-click interface allowed for a more immersive experience. The dual-protagonist approach, alternating between Gabriel Knight and Grace Nakimura, adds depth to the story and gameplay, allowing players to experience the investigation from two different perspectives. This structure would later influence the design of Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned, which continued to refine the series' blend of supernatural mystery and adventure gameplay.
-
-The Beast Within's focus on character development, particularly Gabriel's confrontation with his own primal instincts and desires, sets the stage for the themes explored in Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned. The game's use of historical context and cultural research, evident in its depiction of Bavarian culture and history, also laid the groundwork for the series' future exploration of mystical and religious themes. As the series progresses, players can expect to see continued growth in Gabriel's character, as well as refinements to the gameplay mechanics that have become a hallmark of the Gabriel Knight series.
-
 - **Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] (GK1 only)
 - [[Gabriel Knight Series]] - Series overview
 - [[1993 - Gabriel Knight - Sins of the Fathers|← Previous: Gabriel Knight - Sins of the Fathers]]
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|→ Next: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results

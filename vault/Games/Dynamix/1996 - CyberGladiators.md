@@ -253,11 +253,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 
 ## See Also
 
-CyberGladiators marks a significant departure from its predecessor, Sierra Soccer - World Challenge Edition, in terms of gameplay and narrative focus. While Sierra Soccer was centered around sports simulation, CyberGladiators dives into the realm of 3D fighting games with a dark science fiction setting and cybernetic warriors. This shift reflects Dynamix's experimentation with different genres during the Windows 95 era, showcasing the company's willingness to branch out into more mature and action-oriented titles.
-
-The game's narrative, which involves a cosmic event transforming heroes and villains into powerful cyborg fighters known as CyberGladiators, sets the stage for its successor, Hunter Hunted. Although Hunter Hunted does not directly continue the story of CyberGladiators, it shares a similar theme of action-packed gameplay and futuristic settings. Mechanically, CyberGladiators laid the groundwork for future Dynamix titles by incorporating 3D graphics and real-time combat, features that would evolve in subsequent games.
-
-In terms of character development and storyline progression, CyberGladiators introduces players to a cast of unique fighters, each with their own backstory and motivations. The game's focus on player choice, allowing users to fight for either the Quaaflax Alliance or the Gy Djin terrorist organization, adds a layer of depth to the narrative. This element of player agency would become a staple in future Dynamix games, including Hunter Hunted, where players are immersed in a world of high-stakes action and strategic decision-making.
 
 ## References
 

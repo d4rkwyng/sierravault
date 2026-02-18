@@ -195,15 +195,8 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 
 ## See Also
 
-Goblins Quest 3 builds upon the narrative and gameplay foundations established in Gobliins 2 - The Prince Buffoon, where players controlled multiple goblin characters to solve puzzles. In contrast, Goblins Quest 3 focuses on a single protagonist, Blount, who must navigate the challenges of the Labyrinth of Foliandre. This shift in focus allows for a more personal and character-driven story, as Blount's dual personality and werewolf transformation add a unique twist to the gameplay. The game's puzzles and level design also show significant evolution, with a greater emphasis on exploration and interaction within larger environments.
-
-The connection between Goblins Quest 3 and its predecessor is further solidified by the revelation that Blount is the little prince who was kidnapped in Gobliins 2 - The Prince Buffoon. This plot twist adds depth to the series' narrative and provides a sense of continuity between the games. Mechanically, Goblins Quest 3 refines the point-and-click interface and puzzle-solving mechanics introduced in earlier titles, making it a more polished and engaging experience. The game's bright VGA graphics and comedic charm also set the stage for the next entry in the series.
-
-The Bizarre Adventures of Woodruff and the Schnibble, the next game in the series, continues to evolve the gameplay and narrative elements introduced in Goblins Quest 3. While it features a new protagonist and setting, the game builds upon the puzzle-adventure formula established in Goblins Quest 3, with a greater emphasis on exploration and character interaction. The series' signature blend of humor, challenge, and creativity is further refined in Woodruff and the Schnibble, making it a worthy successor to Goblins Quest 3 and a satisfying conclusion to the Gobliiins saga.
-
 - [[1992 - Gobliins 2 - The Prince Buffoon|← Previous: Gobliins 2 - The Prince Buffoon]]
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|→ Next: The Bizarre Adventures of Woodruff and the Schnibble]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information

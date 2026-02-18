@@ -123,15 +123,8 @@ Despite being banned in Germany due to its violence level and placement on the '
 
 ## See Also
 
-A-10 Tank Killer v1.5 builds upon the foundation established by the original A-10 Tank Killer, enhancing the gameplay experience with improved graphics and sounds, as well as new scenarios set during Operation Desert Storm in Iraq. This update leveraged the flight model from Dynamix's Red Baron simulator, further refining the simulation aspects of the game. The inclusion of dynamic campaign elements, where actions in one mission affect another, added a layer of depth to the gameplay, setting the stage for the series' future developments.
-
-The narrative and mechanical evolution in A-10 Tank Killer v1.5 laid the groundwork for Silent Thunder - A-10 Tank Killer II, which would later expand on these concepts with more complex missions and enhanced realism. The success of A-10 Tank Killer v1.5, particularly its timely release coinciding with the Persian Gulf War, contributed to the series' popularity and paved the way for subsequent entries to explore more sophisticated gameplay mechanics and storylines. By introducing players to the role of an American A-10 Thunderbolt II pilot in various global conflict scenarios, the game established a strong identity for the series that would be built upon in future installments.
-
-The connection between A-10 Tank Killer v1.5 and its predecessor is evident in the enhanced gameplay features and the expansion of the mission set, which included new scenarios reflecting contemporary geopolitical events. Similarly, the link to Silent Thunder - A-10 Tank Killer II is anticipated through the continued refinement of flight simulation technology and the deepening complexity of campaign dynamics, promising an even more immersive experience for players. As the series progresses, characters like the protagonist A-10 Warthog Pilot face increasingly challenging missions, reflecting the evolving nature of modern warfare and the capabilities of the A-10 aircraft.
-
 - [[1989 - A-10 Tank Killer|← Previous: A-10 Tank Killer]]
 - [[1996 - Silent Thunder - A-10 Tank Killer II|→ Next: Silent Thunder - A-10 Tank Killer II]]
-
 ## References
 
 [^ref-1]: [Amiga Reviews - A-10 Tank Killer](https://www.amigareviews.leveluphost.com/a10tankk.htm) – - Multiple contemporary Amiga gaming publication reviews with detailed scores and technical analysis

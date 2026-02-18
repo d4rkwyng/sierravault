@@ -202,11 +202,6 @@ Cognition represents an important spiritual successor to Sierra's classic advent
 
 ## See Also
 
-Cognition - An Erica Reed Thriller follows in the footsteps of Gray Matter, another game that delves into the realms of mystery and supernatural elements. While not directly connected narratively, both games share a common thread in their exploration of complex characters and storylines, with Cognition's Erica Reed drawing inspiration from the investigative depths found in Gray Matter. The gameplay mechanics in Cognition also evolve from traditional point-and-click adventure roots, similar to those seen in Gray Matter, incorporating modern elements such as psychic powers to enhance puzzle-solving and investigation.
-
-The narrative of Cognition - An Erica Reed Thriller sets the stage for future entries in the Spiritual Successors series, including Fester Mudd - Curse of the Gold, by establishing a precedent for deep, character-driven stories and intricate plotlines. Although Fester Mudd - Curse of the Gold may differ significantly in tone and setting, the emphasis on storytelling and player engagement pioneered in Cognition paves the way for subsequent games to explore new themes and mechanics while maintaining a high standard of narrative quality. The success of Cognition's episodic structure also suggests that future series entries might adopt similar formats, blending self-contained episodes with overarching story arcs.
-
-Mechanically, Cognition - An Erica Reed Thriller refines the point-and-click adventure genre, laying groundwork for potential future innovations in Fester Mudd - Curse of the Gold and other series titles. The integration of psychic powers as a core gameplay element in Cognition demonstrates an effort to revitalize traditional adventure game mechanics, possibly influencing how subsequent games in the series incorporate unique abilities or perspectives to enhance player interaction and immersion. By building upon the foundations established in Gray Matter and advancing the genre through its narrative and mechanical contributions, Cognition - An Erica Reed Thriller plays a pivotal role in the evolution of the Spiritual Successors series.
 
 ## References
 

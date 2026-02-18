@@ -244,11 +244,6 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 
 ## See Also
 
-Fascination builds upon the narrative and mechanical foundations established in E.S.S. Mega, with its focus on puzzle-solving and exploration being a key aspect of the gameplay experience. The game's use of a first-person point-and-click interface and its linear progression through various locations also mark an evolution from the previous entry in the series. Doralice May, the protagonist of Fascination, would later return in Lost in Time, establishing a loose continuity between the games.
-
-The gameplay mechanics in Fascination, such as the use of items and dialogue with characters, laid the groundwork for future Coktel Vision titles, including Bargon Attack. The sensibility and logic required to solve puzzles in Fascination also influenced the design of subsequent adventure games. While E.S.S. Mega introduced players to a more sci-fi oriented storyline, Fascination's erotic thriller theme and setting in Miami provided a distinct change of pace, showcasing the versatility of the Coktel Vision team.
-
-In terms of narrative connections, Fascination's protagonist Doralice May reappears in Lost in Time, creating a thread between the two games. Meanwhile, the gameplay innovations and design philosophies pioneered in Fascination can be seen as paving the way for Bargon Attack, which built upon these foundations to deliver its own unique brand of adventure gaming. The continuity between these titles highlights the evolving nature of the Coktel Vision series, as each game refined and expanded upon the ideas presented in its predecessors.
 
 ## References
 

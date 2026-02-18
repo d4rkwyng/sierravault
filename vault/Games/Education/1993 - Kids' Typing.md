@@ -202,11 +202,6 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 
 ## See Also
 
-Kid's Typing builds upon the foundational educational principles established in Ready, Set, Read with Bananas & Jack, by introducing young learners to touch typing through an engaging narrative and interactive environment. The game's protagonist, Spooky the Ghost, uses humor and games to teach children proper keyboard technique, creating a memorable learning experience that has been recalled fondly by users decades later. By incorporating a playful character-driven approach to typing instruction, Kid's Typing sets the stage for future educational titles in the series.
-
-The gameplay mechanics in Kid's Typing, such as adaptive lesson generation and progress tracking, demonstrate a significant evolution in educational software design, paving the way for more sophisticated learning tools in subsequent games. The introduction of Spooky as a guide and mentor also lays the groundwork for future characters and narrative approaches in the Talking Tutor series. As the series continues to grow, it is likely that these innovations will be built upon, leading to even more effective and engaging educational experiences.
-
-In terms of narrative continuity, Kid's Typing establishes a unique setting and cast of characters that may be referenced or expanded upon in future titles, potentially including sequels or spin-offs that feature Spooky or other characters from the game. The game's focus on typing instruction also suggests that future games in the series may explore other areas of educational content, such as language arts or problem-solving skills, while maintaining the core principles of interactive learning and character-driven storytelling that make Kid's Typing so effective.
 
 ## References
 

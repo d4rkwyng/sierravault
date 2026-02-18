@@ -195,11 +195,6 @@ The game's creative premise—controlling a spider through cider factory machine
 
 ## See Also
 
-Apple Cider Spider connects narratively to its predecessor, Pest Patrol, through its continued exploration of pest control themes, albeit from a more whimsical perspective. The game's focus on a spider navigating an apple cider factory serves as a thematic sequel, where instead of controlling pests, players take on the role of one. Mechanically, Apple Cider Spider builds upon the platforming foundations established in Pest Patrol, introducing new elements such as logic puzzles and interactive machinery that players must navigate.
-
-The evolution from Pest Patrol to Apple Cider Spider is evident in the increased complexity of level design and the introduction of more varied enemies, including frogs, birds, and wasps. This trend towards more intricate gameplay mechanics and creative settings would continue in the next installment of the series, Aquatron. In Aquatron, players can expect an even greater emphasis on puzzle-solving and strategic thinking, as they navigate underwater environments filled with treacherous sea creatures and obstacles.
-
-As the series progresses from Apple Cider Spider to Aquatron, there is a noticeable shift towards more futuristic and sci-fi oriented settings, marking a significant departure from the more grounded, realistic environments of the earlier games. Despite this change in setting, the core gameplay elements that made Apple Cider Spider enjoyable, such as its challenging platforming and clever use of environmental hazards, are likely to remain key features of the series. The incorporation of new technologies and innovations, such as improved graphics and sound capabilities, will also play a crucial role in shaping the gameplay experience of Aquatron.
 
 ## References
 

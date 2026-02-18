@@ -191,11 +191,6 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 
 ## See Also
 
-Sierra Sports Skiing 1999 Edition built upon the foundation established by its predecessor, Sierra Sports - Bass Fishing, by expanding the scope of sports simulation within the series to include winter athletics. Although the two games differ significantly in terms of their subject matter and gameplay mechanics, they share a common goal of providing realistic and engaging sports experiences. The skiing game's focus on competitive alpine skiing and its inclusion of real-world locations and celebrity endorsements like Picabo Street helped to further establish the Sierra Sports brand as a diverse and ambitious series.
-
-The game's narrative is largely centered around competitive events, with players creating and customizing their own skier to compete in various disciplines across international resort locations. This structure allows for a high degree of replayability and customization, as players can experiment with different techniques and strategies to improve their performance. In terms of gameplay evolution, Sierra Sports Skiing 1999 Edition introduced several key features that would influence later titles in the series, including its use of 3D graphics and multiple camera angles.
-
-The next entry in the series, Professional Bull Rider, would continue this trend of innovation and realism, offering a unique blend of action and strategy as players took on the role of a professional bull rider. While the gameplay mechanics and subject matter of Professional Bull Rider differ significantly from those of Sierra Sports Skiing 1999 Edition, both games share a common commitment to authenticity and excitement, reflecting the series' ongoing focus on delivering high-quality sports simulations. The transition from skiing to bull riding also highlights the series' willingness to explore new and challenging sports, pushing the boundaries of what is possible in a simulation game.
 
 ## References
 

@@ -286,8 +286,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 ## See Also
 
-Space Quest IV occupies a unique position in the series through its time-travel narrative, directly visiting both past and future installments. The game continues Roger Wilco's story after [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]], where he rescued the Two Guys from Andromeda from ScumSoft[^ref-5].
-
 **Connections to Previous Games:**
 - Roger's ship, the Aluminum Mallard, was acquired in Space Quest III[^ref-5]
 - Sludge Vohaul, the villain, first appeared in [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]][^ref-4]
@@ -300,10 +298,8 @@ Space Quest IV occupies a unique position in the series through its time-travel 
 - Gary Owens would return as narrator for Space Quest 6[^ref-32]
 
 **Development Impact:**
-The game's meta-humor about traveling through "Space Quest XII" and "Space Quest X" was prescient—the series would only reach Space Quest 6 before Sierra's adventure game era ended[^ref-51]. Mark Crowe later reflected that his departure after this game contributed to a noticeable difference in subsequent entries: "We knew there was no way we were going to be able to make a Space Quest-style game that was successful unless we were together"[^ref-51].
 - [[Space Quest Series]] - Series overview
 - [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]
-
 ## References
 [^ref-1]: [Wikipedia – Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) – White Wolf 4/5 review (Jim Trunzo), Amiga 19% reviews
 [^ref-2]: [Sierra Chest – Space Quest IV](https://www.sierrachest.com/index.php?a=games&id=12&title=space-quest-4&fld=general) – Sierra history, collections, platforms

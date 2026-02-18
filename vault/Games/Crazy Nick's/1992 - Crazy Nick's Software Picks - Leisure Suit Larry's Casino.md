@@ -240,15 +240,8 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 ## See Also
 
-Crazy Nick's Software Picks - Leisure Suit Larry's Casino is closely tied to its predecessor, Crazy Nick's Software Picks - King Graham's Board Game Challenge, through the shared framework of extracting and repackaging content from larger Sierra adventure titles. This budget title focuses on casino games from the Leisure Suit Larry series, specifically pulling content from Leisure Suit Larry 1: In the Land of the Lounge Lizards VGA and Leisure Suit Larry 5, offering a unique gambling experience with characters like Larry Laffer. The game's use of Sierra's SCI1.1 engine and its support for both EGA and VGA graphics modes also reflects the technical evolution seen in previous titles.
-
-The narrative connection to the next entry in the series, Crazy Nick's Software Picks - Parlor Games with Laura Bow, is less direct since these games are compilations of mini-games rather than adventure titles with overarching narratives. However, mechanically, these games share a common thread in their use of the SCI1.1 engine and their approach to repackaging content from larger series into smaller, more focused experiences. The inclusion of casino games in Leisure Suit Larry's Casino also sets a precedent for future compilations that might include a variety of game types from different Sierra franchises.
-
-In terms of gameplay evolution, Crazy Nick's Software Picks - Leisure Suit Larry's Casino represents a refinement in the presentation and accessibility of casino-style mini-games within the Sierra catalog. The point-and-select interface and the straightforward controls make the game approachable for a wide range of players. This title, along with its predecessors and successors, contributes to the broader strategy by Sierra to diversify their offerings and cater to different segments of their audience, whether through adventure games, compilations, or standalone simulations like Leisure Suit Larry's Casino.
-
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|← Previous: Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
-
 ## References
 
 [^ref-1]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – release date, developer, publisher, credits, gameplay description, ratings, collection appearances

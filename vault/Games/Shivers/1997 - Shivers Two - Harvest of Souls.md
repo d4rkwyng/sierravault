@@ -134,11 +134,6 @@ Despite technical obsolescence, the game continues to attract interest from retr
 
 ## See Also
 
-Shivers Two: Harvest of Souls builds upon the foundation established by its predecessor, Shivers, by introducing significant technical improvements while maintaining the first-person slideshow interface that defined the original game. The new Vision 360 engine allows for panoramic views, and the incorporation of Dynamic Sounds technology enhances the overall immersion, setting a higher standard for horror adventure games in the series. As the second installment, it expands on the narrative themes, delving deeper into supernatural horror elements and Native American mysticism.
-
-The gameplay mechanics in Shivers Two: Harvest of Souls have evolved to include a full inventory system, a notable upgrade from the original Shivers, which only allowed players to hold one item at a time. This enhancement, along with the introduction of 360-degree rotation capability, provides a more immersive and interactive experience for players as they navigate through the mysterious desert town of Cyclone, Arizona. The non-linear structure of the game offers a fresh approach compared to other adventure games of its time, allowing players to tackle puzzles in various orders and ensuring a unique experience with each playthrough.
-
-In terms of narrative continuity, Shivers Two: Harvest of Souls prepares the ground for future entries in the series by exploring themes of supernatural horror, ancient curses, and the clash between modern culture and mystical traditions. While there isn't a direct sequel mentioned, the game's conclusion, which involves rescuing the missing band members and uncovering the dark secrets of Cyclone, sets the stage for potential future adventures that could delve into similar mysteries or explore the aftermath of the events in Harvest of Souls. The series' focus on horror and adventure elements, combined with its evolving gameplay mechanics, positions it for continued growth and exploration of eerie, suspenseful narratives.
 
 ## References
 

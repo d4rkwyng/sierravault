@@ -217,15 +217,8 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 
 ## See Also
 
-Nova 9: Return of Gir Draxon builds upon the narrative foundations established in Stellar 7, continuing the epic struggle between Captain John Alex and the nefarious Gir Draxon. The game's storyline takes place two years after the events of its predecessor, with Alex driven by a personal vendetta against Draxon, who is responsible for the death of his wife, Sarah. This sequel expands on the original's formula, introducing enhanced graphics and new gameplay mechanics that set the stage for the series' future evolution.
-
-Mechanically, Nova 9: Return of Gir Draxon refines the tank combat experience of Stellar 7, incorporating a variety of viewing perspectives and controls that offer players flexibility in their approach to battle. The introduction of the Raven II tank, with its advanced weaponry and cloaking device, marks a significant upgrade from the original game's vehicle, providing players with new strategic options. As the series progresses towards Stellar 7 - Draxon's Revenge, these mechanical advancements will continue to play a crucial role in shaping the player's experience.
-
-The narrative and gameplay elements introduced in Nova 9: Return of Gir Draxon lay the groundwork for the next installment, Stellar 7 - Draxon's Revenge, where Captain John Alex will face even greater challenges in his quest to defeat Gir Draxon. The personal stakes established in Nova 9, coupled with the mechanical innovations, ensure that the series maintains its momentum and intensity. As players navigate the nine distinct worlds of Nova 9, they are primed for the ultimate showdown with Draxon, setting the stage for a thrilling conclusion to the saga.
-
 - [[1990 - Stellar 7|← Previous: Stellar 7]]
 - [[1993 - Stellar 7 - Draxon's Revenge|→ Next: Stellar 7 - Draxon's Revenge]]
-
 ## References
 
 [^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Release year and story information

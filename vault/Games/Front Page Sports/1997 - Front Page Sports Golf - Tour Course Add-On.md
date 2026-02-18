@@ -231,16 +231,9 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 
 ## See Also
 
-The Front Page Sports Golf Tour Course Add On expands upon the foundation established by its predecessor, Front Page Sports - Trophy Rivers, by introducing new meticulously recreated real-world golf courses that challenge players in diverse environments. This add-on series builds upon the acclaimed TrueSwing golf engine, which was a hallmark of the base game and set a new standard for golf game controls. By providing additional courses such as Pasatiempo Golf Club, Coeur D'Alene, and Black Diamond Ranche, the Tour Course Add On offers players a broader range of experiences within the Front Page Sports series.
-
-The mechanical evolution from Front Page Sports - Trophy Rivers to the Tour Course Add On is evident in the refinement of the TrueSwing interface, which allows for more intuitive control over every aspect of the player's swing. The add-on courses also demonstrate an increased focus on realism and authenticity, with detailed photographic and videographic processes used to recreate each course. This attention to detail would later influence the development of subsequent games in the series, including Front Page Sports - Ski Racing 99, which would adapt similar principles to create immersive winter sports experiences.
-
-The connection between the Tour Course Add On and Front Page Sports - Ski Racing 99 lies not only in their shared commitment to realistic sports simulation but also in the evolutionary steps taken by the series to incorporate new technologies and gameplay innovations. While the Tour Course Add On perfected the golf simulation experience with its TrueSwing system, Front Page Sports - Ski Racing 99 would push the boundaries of winter sports gaming with its own set of innovative controls and realistic environments. The narrative thread throughout the series remains focused on providing players with authentic, engaging sports experiences that simulate the thrill of competition in various disciplines.
-
 - **Base Game:** Front Page Sports: Golf (May 16, 1997)
 - [[1997 - Front Page Sports - Trophy Rivers|← Previous: Front Page Sports - Trophy Rivers]]
 - [[1999 - Front Page Sports - Ski Racing 99|→ Next: Front Page Sports - Ski Racing 99]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – release dates, developers, publishers, designers, composers, critical reception, development history, technical details, known issues

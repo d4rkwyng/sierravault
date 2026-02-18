@@ -121,19 +121,12 @@ The title sparked discussions about updating classic gaming franchises for moder
 
 ## See Also
 
-Leisure Suit Larry - Wet Dreams Don't Dry connects narratively to its predecessor, Leisure Suit Larry - Reloaded, by reintroducing the iconic protagonist Larry Laffer in a modern setting. The game's story revolves around Larry's attempts to navigate contemporary dating culture, which serves as a commentary on how societal norms have evolved since his last adventure. This narrative direction allows for fresh humor and gameplay mechanics while maintaining the series' trademark wit and charm.
-
-Mechanically, Wet Dreams Don't Dry evolves the point-and-click adventure format of its predecessors by incorporating modern conveniences such as smartphone integration and social media parodies. The game's structure, centered around improving Larry's dating profile score on the Timber app, drives the player through various challenges and interactions across New Lost Wages. This approach blends traditional puzzle-solving with contemporary themes, appealing to both veteran fans of the series and new players.
-
-The sequel, Leisure Suit Larry - Wet Dreams Dry Twice, builds upon the narrative and mechanical foundations established in Wet Dreams Don't Dry, further exploring the consequences of Larry's actions in the modern world. The gameplay is expected to continue the evolution of point-and-click mechanics, potentially introducing new features and challenges that reflect Larry's continued misadventures in the digital age. By maintaining the series' trademark humor and charm while adapting to contemporary themes and gameplay trends, the Leisure Suit Larry series remains vibrant and engaging for both old and new fans alike.
-
 - **Previous (Larry Laffer):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
 - **Previous (series release):** [[2013 - Leisure Suit Larry - Reloaded]]
 
 - [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]
-
 ## References
 
 [^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Release year and series information

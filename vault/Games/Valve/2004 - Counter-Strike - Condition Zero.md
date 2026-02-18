@@ -320,15 +320,8 @@ For its era, the bot AI represented a genuine technical achievement that would i
 
 ## See Also
 
-Counter-Strike: Condition Zero marks a significant departure from the narrative-driven approach of Half-Life - Blue Shift, instead focusing on objective-based single-player action and competitive multiplayer gameplay. While the game's story does not directly follow the events of Half-Life - Blue Shift, it shares a common thread with the broader Valve universe through its exploration of counter-terrorism operations and global conflict. The gameplay mechanics in Condition Zero, such as the use of intelligent bot AI and objective-based missions, lay the groundwork for future innovations in the series.
-
-The Tour of Duty campaign in Condition Zero introduces players to a variety of global hotspots and counter-terrorist scenarios, which would later influence the development of Half-Life 2's own narrative and gameplay mechanics. Although the two games differ significantly in terms of their story and setting, they share a common heritage through Valve's commitment to innovative gameplay and immersive storytelling. The success of Condition Zero's single-player campaign also paved the way for future Valve titles to incorporate similar elements, such as the episodic structure and character-driven narrative of Half-Life 2.
-
-In terms of mechanical evolution, Counter-Strike: Condition Zero builds upon the foundation established by earlier games in the series, introducing new features such as the official CS bot and special enhancements for online play. These innovations would later be refined and expanded upon in Half-Life 2, which introduced a more robust physics engine and advanced AI behaviors. The legacy of Condition Zero can be seen in the continued popularity of the Counter-Strike franchise, as well as the influence it has had on other tactical first-person shooters and multiplayer games.
-
 - [[2001 - Half-Life - Blue Shift|← Previous: Half-Life - Blue Shift]]
 - [[2004 - Half-Life 2|→ Next: Half-Life 2]]
-
 ## References
 
 [^ref-1]: [Counter-Strike Wiki – Counter-Strike: Condition Zero](https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero) – release dates, developers, sales data, technical features, version history

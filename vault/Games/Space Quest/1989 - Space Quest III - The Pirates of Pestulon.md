@@ -191,16 +191,9 @@ This game has been included in the following collections:
 
 ## See Also
 
-Space Quest III: The Pirates of Pestulon continues the story of Roger Wilco, the hapless janitor from Space Quest II: Vohaul's Revenge, as he finds himself on a mission to rescue two programmers from the sinister video game company ScumSoft. This narrative thread ties directly into the previous game, where Roger's actions have consequences that lead to his current predicament, including an encounter with an Arnold Schwarzenegger-like android terminator sent after him for failing to pay for a whistle. The gameplay also evolves from its predecessor, introducing improved 16-color graphics and a more sophisticated text parser that understands almost every word typed, setting the stage for further advancements in the series.
-
-Mechanically, Space Quest III marks a significant upgrade with the use of Sierra's SCI engine, offering enhanced visuals and interaction capabilities compared to the AGI engine used in the first two games. This transition paves the way for more complex puzzles and environments in future installments. The inclusion of mouse movement, albeit primitive, adds a new layer of control for players, though it still requires manual navigation around obstacles. These advancements in gameplay and technology will continue to influence the direction of the Space Quest series, including its eventual prequel, Space Quest I: Roger Wilco in the Sarien Encounter, which explores Roger's origins and initial encounters with the Sariens.
-
-The story of Roger Wilco in Space Quest III also lays groundwork for the adventures that will unfold in subsequent games, including his future encounters with various alien species and the continued evolution of his character from a simple janitor to a galaxy-saving hero. While Space Quest I: Roger Wilco in the Sarien Encounter will delve into the events leading up to Roger's escapades in Space Quest III, the narrative and mechanical foundations established in The Pirates of Pestulon ensure that the series maintains its comedic tone and challenging puzzle-solving spirit. Through its engaging storyline, memorable characters, and improved gameplay mechanics, Space Quest III: The Pirates of Pestulon solidifies its place within the Space Quest series, connecting the dots between Roger's past adventures and his future exploits.
-
 - [[Space Quest Series]] - Series overview
 - [[1987 - Space Quest II - Vohaul's Revenge|← Previous: Space Quest II - Vohaul's Revenge]]
 - [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|→ Next: Space Quest I - Roger Wilco in the Sarien Encounter]]
-
 ## References
 [^ref-1]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – C&VG 83% review, Game Player's awards
 [^ref-2]: [Sierra Fandom Wiki – Space Quest III](https://sierra.fandom.com/wiki/Space_Quest_III%3A_The_Pirates_of_Pestulon) – plot, technical details

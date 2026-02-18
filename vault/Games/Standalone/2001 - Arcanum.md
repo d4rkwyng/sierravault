@@ -323,11 +323,6 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 
 ## See Also
 
-Arcanum: Of Steamworks & Magick Obscura stands as a singular entry in the Sierra lineup, lacking direct narrative connections to preceding titles like Diablo - Hellfire. However, its innovative blend of fantasy and steampunk elements, along with its deep character creation and open-ended gameplay, reflects the evolving ambitions of role-playing games at the turn of the millennium. The game's mechanics, particularly its approach to magic and technology as polar opposites, offer a unique take on traditional RPG systems.
-
-The narrative of Arcanum, centered around the protagonist known as The Living One, explores themes of industrialization, magical tradition, and personal identity in a way that is both standalone and reflective of broader trends in gaming storytelling. While it does not directly continue the story or setting of Diablo - Hellfire, it shares with its predecessor a deep sense of immersion and player choice. Arcanum's world, where characters can range from Half-Orc Air Elementalists to Human Pirates, showcases a diversity and complexity that would influence later games.
-
-In terms of mechanical evolution, Arcanum's isometric perspective, real-time lighting effects, and adaptable combat modes (including real-time, semi-turn-based, and fully turn-based options) represent significant advancements. These features, while not directly linked to the gameplay of World in Conflict, which would follow years later with its own brand of real-time strategy focused on modern military conflicts, demonstrate a continuous push for innovation in game design and player experience within the Sierra portfolio. The depth of character creation, the freedom to approach quests in multiple ways, and the game's thematic exploration of technology vs. magic also set a high standard for subsequent RPGs.
 
 ## References
 

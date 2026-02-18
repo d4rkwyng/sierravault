@@ -159,16 +159,9 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 
 ## See Also
 
-Building upon the foundations laid by Hoyle Casino, Hoyle Miami Solitaire introduces a fresh narrative and thematic approach to the series, transporting players to the vibrant world of 1920s Miami. This departure from traditional casino settings allows for a unique blend of classic solitaire gameplay with the glamorous aesthetic of the Jazz Age, as hosted by the character John Carlisle Dunsworthy. The game's story-driven approach and mansion-building meta-game also mark a significant evolution in the series' mechanical depth.
-
-In terms of narrative continuity, Hoyle Miami Solitaire does not directly follow the events of Hoyle Casino, instead offering a standalone experience that explores new themes and settings within the broader Hoyle universe. However, the game's focus on officially branded card game experiences ensures consistency with the series' legacy, which will continue to evolve in subsequent titles like Hoyle Card Games 2008. The latter is expected to build upon the gameplay variety and accessibility introduced in Hoyle Miami Solitaire, potentially incorporating new features and mechanics to further enhance the player experience.
-
-Mechanically, Hoyle Miami Solitaire lays the groundwork for future innovations in the series by introducing a dual-mode approach to gameplay, featuring both quick play and story modes. This design choice, combined with the extensive variety of solitaire variations and the mansion decoration system, sets a high standard for content richness and replay value. As the series progresses towards Hoyle Card Games 2008, players can anticipate even more sophisticated gameplay mechanics and features, potentially including expanded multiplayer options, new card games, and enhanced customization capabilities.
-
 - **Related:** Hoyle Solitaire (2000), Hoyle Casino series, Hoyle Word Games
 - [[2006 - Hoyle Casino|← Previous: Hoyle Casino]]
 - [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
-
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Miami Solitaire](https://gamefaqs.gamespot.com/pc/961448-hoyle-miami-solitaire) – release date, developer, publisher, alternate title, platform, franchise info

@@ -117,11 +117,6 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 
 ## See Also
 
-Power Chess, released in 1996, marked a significant departure from traditional chess software of its time, introducing an innovative royal court narrative framework and adaptive artificial intelligence technology. This game built upon the foundations laid by earlier chess programs, but its unique approach to computer chess set the stage for future developments in the series, including Power Chess 98. The adaptive AI system, which dynamically adjusted its difficulty level during gameplay, was a major innovation that would influence the design of subsequent games.
-
-The release of Power Chess also laid the groundwork for the improvements and expansions seen in Power Chess 98, which would further refine the royal court metaphor and instructional components introduced in the original. The Queen character's role as an instructor and narrator, providing detailed post-game analysis and suggestions for improvement, became a hallmark of the series and was expanded upon in later entries. As the series progressed, the twin-engine architecture and adaptive AI technology continued to evolve, allowing for more sophisticated game analysis and instructional features.
-
-The mechanical innovations introduced in Power Chess, such as the human-like approach to computer chess and the dynamic difficulty adjustment, paved the way for the advancements seen in Power Chess 98. The latter game would build upon these foundations, incorporating new features and refinements that further enhanced the educational value and gameplay experience of the series. By examining the narrative and mechanical connections between Power Chess and its successor, it becomes clear that the series was continually pushing the boundaries of what chess software could offer, both in terms of entertainment and instruction.
 
 ## References
 

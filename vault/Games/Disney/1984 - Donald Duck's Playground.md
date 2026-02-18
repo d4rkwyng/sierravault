@@ -231,11 +231,6 @@ The game's influence can be seen in the edutainment boom that followed in the la
 
 ## See Also
 
-Donald Duck's Playground builds upon the foundation laid by earlier Disney-licensed games, introducing a unique blend of education and entertainment that would become a hallmark of the series. The game's narrative focus on Donald Duck's efforts to improve his public image and build a playground for his nephews Huey, Dewey, and Louie sets the stage for future titles that would explore similar themes of personal growth and development. By leveraging the AGI engine, Sierra On-Line created a gameplay experience that was both accessible and engaging, paving the way for subsequent games like Mickey's Space Adventure to push the boundaries of interactive storytelling.
-
-The game's educational content, which teaches children valuable skills such as money management and basic mathematics, also laid the groundwork for future Disney-licensed games to incorporate similar learning elements. The success of Donald Duck's Playground can be seen as a key factor in the development of Mickey's Space Adventure, which would go on to build upon the foundation established by this game. By introducing players to a cast of beloved Disney characters and immersing them in interactive environments, Donald Duck's Playground helped establish the series as a leader in the edutainment genre.
-
-As the series progresses, players can expect to see continued innovation and refinement of the gameplay mechanics introduced in Donald Duck's Playground. The next entry, Mickey's Space Adventure, promises to take the series to new heights, literally, with its focus on space exploration and intergalactic adventure. By building upon the narrative and mechanical foundations established by Donald Duck's Playground, Mickey's Space Adventure is poised to deliver an even more engaging and immersive experience for players, one that will continue to inspire and educate in equal measure.
 
 ## References
 

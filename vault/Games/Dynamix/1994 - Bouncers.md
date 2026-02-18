@@ -228,11 +228,6 @@ The game demonstrates both the creative ambition and technical limitations of mi
 
 ## See Also
 
-Bouncers is a unique entry in the Dynamix series, building upon the quirky and offbeat style established by its predecessor, Quarky & Quaysoo's Turbo Science. While Quarky & Quaysoo focused on educational science experiments, Bouncers takes a drastic turn into the world of sports, introducing a fresh set of characters and gameplay mechanics that would later influence the development of Sierra Soccer - World Challenge Edition. The use of anthropomorphic basketball characters and fantasy courts in Bouncers laid the groundwork for the more realistic, yet still arcade-like, approach to soccer found in Sierra Soccer.
-
-The gameplay evolution from Quarky & Quaysoo's Turbo Science to Bouncers is notable, as the series shifts from a focus on science experiments to a more fast-paced, competitive sports experience. This change in direction allowed Dynamix to experiment with new control schemes and level designs, such as the side-view perspective and 2D scrolling gameplay found in Bouncers. These innovations would later be refined and expanded upon in Sierra Soccer, which built upon the foundations established by Bouncers to create a more polished and engaging sports experience.
-
-As the series progresses from Bouncers to Sierra Soccer - World Challenge Edition, the focus on competitive sports and arcade-like gameplay becomes even more pronounced. The introduction of new characters, teams, and game modes in Sierra Soccer reflects the lessons learned from Bouncers, with a greater emphasis on realism, strategy, and player competition. The Dynamix series as a whole benefits from this evolution, as each game builds upon the strengths of its predecessors to create a unique and engaging experience for players.
 
 ## References
 

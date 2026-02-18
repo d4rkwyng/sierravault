@@ -116,14 +116,7 @@ The Special Edition release in 2000 attempted to address many of the original ga
 
 ## See Also
 
-Lords of Magic builds upon the foundation established by its predecessors in the Lords of the Realm series, introducing a unique blend of turn-based strategy and role-playing elements to the franchise. The game's narrative is set in the fantasy world of Urak, where players must navigate the complexities of faith-based magic and empire building to defeat the evil sorcerer Balkoth. This setup lays the groundwork for the gameplay mechanics and storylines that would be expanded upon in subsequent entries, including Lords of Magic - Special Edition.
-
-The connection between Lords of Magic and its Special Edition is particularly noteworthy, as the latter includes the original game plus the Legends of Urak Quest Pack expansion, adding new storylines and gameplay content to the core experience. The Special Edition's additional content, such as the five new storylines based on legendary characters, demonstrates a clear evolution in the series' narrative depth and mechanical complexity. By building upon the foundations established in Lords of Magic, the Special Edition refinement offers a more comprehensive and engaging experience for players.
-
-In terms of gameplay evolution, Lords of Magic's blend of turn-based strategy and real-time combat would go on to influence the development of future games in the series, including the incorporation of new faiths, units, and magical abilities. The game's 4X strategy tradition (Explore, Exploit, Expand, Exterminate) and character progression system also laid the groundwork for subsequent entries, which would expand upon these mechanics and introduce new features to enhance the player experience. As such, Lords of Magic serves as a pivotal entry in the series, bridging the gap between earlier games and the more refined experiences that would follow.
-
 - [[1998 - Lords of Magic - Special Edition|→ Next: Lords of Magic - Special Edition]]
-
 ## References
 
 [^ref-1]: [Grokipedia](https://grokipedia.com/page/Lords_of_Magic) – - Game description as turn-based strategy with real-time combat elements

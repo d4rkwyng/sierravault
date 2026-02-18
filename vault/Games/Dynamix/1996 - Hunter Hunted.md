@@ -215,11 +215,6 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 
 ## See Also
 
-Hunter Hunted builds upon the foundations laid by its predecessor, CyberGladiators, by expanding on the concept of competitive arena battles in a sci-fi setting. While CyberGladiators focused on gladiatorial combat between humans and machines, Hunter Hunted introduces alien species and intergalactic competition, broadening the narrative scope and gameplay possibilities. This evolution is evident in the introduction of new playable characters like Garathe Den, a minotaur-like warrior from the planet Kullrathe, who offers a different playstyle compared to the human protagonist Jake.
-
-The game's narrative also serves as a prequel to the Metaltech: Earthsiege universe, setting the stage for the invasion of the Masters and the subsequent events that unfold in that series. This connection highlights Sierra's strategy to create interconnected game universes, where different titles contribute to a larger lore and storyline. Mechanically, Hunter Hunted improves upon earlier action-platformers by incorporating innovative features such as "the third dimension of 2D," allowing for more complex level designs and depth in gameplay.
-
-Hunter Hunted paves the way for its successor, Rama, by establishing key elements that would become staples of the series, including the blend of action, platforming, and cooperative play. While Rama is expected to further evolve these mechanics and possibly introduce new characters and plotlines, Hunter Hunted stands as a pivotal title in the Dynamix series, offering a unique blend of competitive and cooperative multiplayer alongside its rich narrative backdrop. The game's focus on player choice, with the option to play as either Jake or Garathe Den, also sets a precedent for character diversity and replayability in future entries.
 
 ## References
 

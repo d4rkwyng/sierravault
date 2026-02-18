@@ -223,11 +223,6 @@ However, the Leeper character's transition to educational gaming through *Learni
 
 ## See Also
 
-Lunar Leeper builds upon the foundational elements established in Laf Pak, with its horizontally scrolling shooter gameplay and rescue mission objectives laying the groundwork for future action-oriented titles from Sierra On-Line. Although Lunar Leeper does not directly continue the narrative of Laf Pak, it shares a similar focus on challenging arcade-style gameplay that would become a hallmark of the company's early output. The introduction of the Leepers as antagonists also showcases Sierra's ability to create memorable and iconic characters, a trait that would be further developed in subsequent games.
-
-The gameplay mechanics introduced in Lunar Leeper, such as the combination of horizontal scrolling and rescue objectives, would influence the development of later titles like Marauder. The emphasis on resource management, including limited ammunition and fuel reserves, adds a layer of strategic depth to the game that would become more complex in future series entries. The scoring system, which rewards players for avoiding enemies without shooting, also demonstrates an early example of Sierra's attention to detail in designing engaging gameplay loops.
-
-As the series progresses to Marauder, players can expect to see further evolution of the shooter genre, with potentially new challenges and gameplay mechanics building upon the foundation established in Lunar Leeper. The experience gained from developing Lunar Leeper likely informed the design decisions behind Marauder, with Sierra On-Line continuing to refine their approach to action-oriented gaming. By examining the connections between these titles, it becomes clear that Sierra On-Line was dedicated to pushing the boundaries of what was possible in early arcade-style games, laying the groundwork for their future successes in the adventure game genre.
 
 ## References
 

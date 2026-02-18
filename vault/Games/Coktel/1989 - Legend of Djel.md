@@ -127,11 +127,6 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 
 ## See Also
 
-Legend of Djel serves as a narrative bridge between the events of Emmanuelle and the subsequent adventures that unfold in Cougar Force, with its fantasy setting and magical elements laying groundwork for future titles. The game's protagonist, Djel, navigates a mystical realm filled with mythical creatures, echoing the sense of wonder found in Emmanuelle while introducing gameplay mechanics that would be refined in Cougar Force. As the series evolves, the fantastical world-building and strategic puzzle-solving in Legend of Djel set the stage for more complex narratives and challenges in later Coktel Vision games.
-
-Mechanically, Legend of Djel builds upon the point-and-click interface introduced in earlier titles like Emmanuelle, with its mouse-controlled mask symbol allowing players to interact with screen elements in a straightforward manner. However, the lack of mouse support in the DOS version and the absence of save functionality reflect the technical limitations and design experiments characteristic of early adventure games. These aspects would be addressed and improved upon in Cougar Force, which features more refined gameplay mechanics and better support for various platforms.
-
-The narrative and gameplay elements in Legend of Djel also foreshadow the more expansive storytelling and intricate puzzle designs found in Cougar Force. Characters like Azeulisse, Kal, and Theros, along with the magical quests and item trading, contribute to a rich fantasy world that becomes even more detailed and immersive in later Coktel Vision titles. As such, Legend of Djel occupies an important place in the series, offering a unique blend of exploration, strategy, and puzzle-solving that would influence the development of subsequent games like Cougar Force.
 
 ## References
 

@@ -140,11 +140,6 @@ The series influenced other fishing simulations and demonstrated that niche spor
 
 ## See Also
 
-Sierra Sports - Bass Fishing connects to the previous entry in the series, Grand Prix Legends, through its shared emphasis on realistic simulations and attention to detail. Although the two games differ significantly in terms of their subject matter, they both showcase Sierra's commitment to creating immersive and authentic experiences for players. The transition from racing to fishing also highlights the company's willingness to explore diverse genres and push the boundaries of what is possible in sports gaming.
-
-In terms of narrative connections, Sierra Sports - Bass Fishing does not have a direct storyline that ties into Grand Prix Legends, as the two games belong to distinct categories within the Sierra Sports series. However, both games share a common thread in their focus on competition and player progression, whether it's through racing tournaments or fishing challenges. The game's protagonist, an angler controlled by the player, must navigate various lakes and environments to succeed, much like how drivers in Grand Prix Legends must adapt to different tracks and conditions.
-
-The next entry in the series, Sierra Sports Skiing 1999 Edition, builds upon the foundation established by Bass Fishing in terms of its simulation-oriented approach and competitive gameplay. While Skiing 1999 introduces new mechanics related to winter sports, such as navigating slopes and managing equipment, it retains the core principle of providing an authentic and engaging experience for players. The evolution from fishing to skiing demonstrates Sierra's continued effort to expand its portfolio and cater to different interests within the sports gaming community, with each game contributing to the overall diversity and richness of the Sierra Sports series.
 
 ## References
 

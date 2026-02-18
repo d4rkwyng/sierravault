@@ -200,15 +200,8 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 
 ## See Also
 
-Casino Deluxe 2 builds upon the foundations established by its predecessor, Powerhouse, by refining the gambling simulation experience and expanding the range of games available to players. While Powerhouse focused on a broader spectrum of entertainment options, Casino Deluxe 2 narrows its scope to provide a more immersive and realistic casino environment, complete with enhanced 3D SVGA graphics and a comprehensive suite of eighteen casino games. This shift in focus allows players to delve deeper into the world of casino gaming, with features like the on-screen professional advice system and the Gambling Academy providing valuable insights and strategies.
-
-The gameplay mechanics in Casino Deluxe 2 also lay the groundwork for future innovations in the Impressions series, particularly in Emperor - Rise of the Middle Kingdom. Although the two games differ significantly in terms of genre and setting, the attention to detail and commitment to realism evident in Casino Deluxe 2's casino simulations can be seen as a precursor to the intricate city-building and management mechanics that would become a hallmark of the Emperor series. Furthermore, the use of 3D graphics and immersive sound design in Casino Deluxe 2 sets a high standard for future Impressions games, including Emperor - Rise of the Middle Kingdom, which would go on to feature complex 3D environments and engaging audio.
-
-In terms of narrative connections, while Casino Deluxe 2 does not feature a traditional storyline, its focus on player progression and accumulation of wealth can be seen as a thematic precursor to the empire-building and management aspects of Emperor - Rise of the Middle Kingdom. The game's emphasis on strategic decision-making and risk management also foreshadows the complex balancing acts that players would need to perform in Emperor, where managing resources, diplomacy, and military conquests are crucial to success. By exploring the connections between these games, players can gain a deeper appreciation for the evolution of the Impressions series and the ways in which different titles have contributed to its overall legacy.
-
 - [[1995 - Powerhouse|← Previous: Powerhouse]]
 - [[2002 - Emperor - Rise of the Middle Kingdom|→ Next: Emperor - Rise of the Middle Kingdom]]
-
 ## References
 
 [^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform

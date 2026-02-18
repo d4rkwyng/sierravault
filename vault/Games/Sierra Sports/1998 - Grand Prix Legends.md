@@ -312,11 +312,6 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 
 ## See Also
 
-Grand Prix Legends is a pivotal entry in the Sierra Sports series, building upon the foundational elements established in Driver's Education '98. While Driver's Education '98 focused on teaching players the basics of driving and road safety, Grand Prix Legends dives headfirst into the intense world of 1967 Formula One racing, offering an uncompromising simulation experience that prioritizes authenticity over accessibility. This shift towards realism and historical accuracy sets the stage for future Sierra Sports titles to explore more specialized and niche areas of sports simulation.
-
-The connection between Grand Prix Legends and its successor, Sierra Sports - Bass Fishing, may seem tenuous at first glance, given the vastly different subject matters. However, both games share a common thread in their pursuit of realism and authenticity within their respective domains. Just as Grand Prix Legends meticulously recreates the 1967 Formula One season, Sierra Sports - Bass Fishing aims to provide an immersive and realistic fishing experience. This continuity in design philosophy underscores Sierra's commitment to delivering high-quality, specialized simulations that cater to specific interests and enthusiast communities.
-
-Mechanically, Grand Prix Legends lays the groundwork for future racing simulations with its advanced physics engine and demanding gameplay. The game's influence can be seen in later titles, including those outside of the Sierra Sports series, such as iRacing, which was developed by the same team. As the series evolves, it will be interesting to see how the lessons learned from Grand Prix Legends are applied to other sports and genres, potentially leading to new innovations in simulation design and gameplay mechanics. The legacy of Grand Prix Legends serves as a testament to the power of focused, realistic simulations in captivating audiences and leaving a lasting impact on the world of gaming.
 
 ## References
 

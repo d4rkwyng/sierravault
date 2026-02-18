@@ -196,11 +196,6 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 
 ## See Also
 
-Asterix: Operation Getafix builds upon the foundation established by its predecessor, African Raiders-01, by refining the action-adventure formula and incorporating more complex puzzle elements. The game's narrative, which revolves around Asterix's quest to cure Getafix's amnesia, introduces new characters and locations that expand the Asterix universe, while maintaining the series' trademark humor and charm. By improving upon the gameplay mechanics of African Raiders-01, Operation Getafix sets the stage for future innovations in the Coktel series.
-
-The release of Asterix: Operation Getafix in 1989 marked a significant milestone for Coktel Vision, as it demonstrated the studio's ability to adapt beloved comic book properties into engaging video games. The game's success paved the way for subsequent titles, including ESS - European Space Simulator, which would further showcase the company's versatility and creativity. Although Operation Getafix received mixed reviews for its controls and collision detection, its colorful graphics and faithful adaptation of the Asterix comics ensured a loyal following among fans of the series.
-
-As the Coktel series continued to evolve, ESS - European Space Simulator would introduce new gameplay mechanics and themes, while maintaining the sense of adventure and exploration that defined Operation Getafix. The transition from a side-scrolling action-adventure game to a more simulation-focused title like ESS reflected Coktel Vision's willingness to experiment and innovate, ultimately contributing to the diversity and richness of the series. By examining the connections between Asterix: Operation Getafix and its predecessors and successors, it becomes clear that the game played a crucial role in shaping the direction of the Coktel series and establishing its place within the broader landscape of action-adventure games.
 
 ## References
 

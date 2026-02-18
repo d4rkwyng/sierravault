@@ -211,11 +211,6 @@ The performance issues that plagued the game highlighted the challenges develope
 
 ## See Also
 
-Take a Break! Pinball builds upon the foundation established by its predecessor, Take a Break! Crosswords, by offering a new type of bite-sized gaming experience tailored for Windows users. While the crossword game focused on mental puzzles, Take a Break! Pinball shifts the attention to reflex-based action and score optimization through its eight themed pinball tables. This change in gameplay direction reflects the series' aim to provide diverse, quick-to-play experiences that cater to different tastes and preferences.
-
-The narrative connection between Take a Break! Pinball and the broader Sierra and Dynamix universes is evident through the game's themed tables, which include settings and characters from King's Quest, Space Quest, Leisure Suit Larry, and other notable franchises. This approach not only appeals to fans of these series but also introduces new players to the rich history and humor associated with these games. The absence of a direct narrative link to Take a Break! Crosswords is intentional, as each game in the series is designed to stand alone while contributing to the overall brand identity.
-
-As the final entry in the Take a Break! series, Pinball concludes the franchise on a high note by showcasing the versatility of the Dynamix Pinball Engine and the creativity of the development team. The game's focus on fast action, imaginative table designs, and support for multiplayer sessions sets it apart from other pinball simulations of its time. Although there isn't a direct successor to Take a Break! Pinball within the series, its influence can be seen in later pinball games that incorporated similar themes and gameplay mechanics, ensuring the legacy of the Take a Break! brand endures beyond its initial release.
 
 ## References
 

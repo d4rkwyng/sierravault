@@ -217,15 +217,8 @@ Community preservation efforts maintain access to the game through abandonware a
 
 ## See Also
 
-Field & Stream - Trophy Bass 3D builds upon the foundations established in Front Page Sports - Trophy Bass 2, introducing 3D graphics that significantly enhanced the player's immersion in the fishing experience. The addition of realistic environments and improved artificial intelligence for the fish behavior marked a notable step forward in the series, setting the stage for further innovations in subsequent titles. By incorporating real-world locations and conditions, the game provided players with a more authentic and challenging experience.
-
-The narrative focus of Field & Stream - Trophy Bass 3D on competitive bass fishing and career progression laid the groundwork for the next installment, Field & Stream - Trophy Bass 4, which would further refine these elements. The inclusion of professional anglers like Denny Brauer and Kevin VanDam added a layer of realism and expertise, guiding players through the intricacies of bass fishing. This approach not only deepened the gameplay but also contributed to the series' reputation for authenticity and educational value.
-
-Mechanically, Field & Stream - Trophy Bass 3D's introduction of 3D environments and force feedback technology raised the bar for simulation games within the sports genre. The game's varied modes, from Quick Fish to Career Mode, offered a range of experiences that catered to different player preferences, ensuring a broad appeal. As the series progressed towards Field & Stream - Trophy Bass 4, these advancements would continue to evolve, incorporating new technologies and gameplay mechanics to further enhance the fishing simulation experience.
-
 - [[1996 - Front Page Sports - Trophy Bass 2|← Previous: Front Page Sports - Trophy Bass 2]]
 - [[2000 - Field & Stream - Trophy Bass 4|→ Next: Field & Stream - Trophy Bass 4]]
-
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_3D) - Basic game information, release year, developer, publisher

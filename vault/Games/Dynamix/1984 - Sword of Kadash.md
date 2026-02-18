@@ -200,11 +200,6 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 
 ## See Also
 
-Sword of Kadash is a pivotal title in the Dynamix series, laying the groundwork for future games with its innovative blend of action and role-playing elements. Although it does not directly precede any other game in the series, its influence can be seen in later titles such as David Wolf - Secret Agent, which would build upon the foundation established by Sword of Kadash's real-time combat mechanics and exploration-based gameplay. The success of Sword of Kadash also played a significant role in keeping Dynamix financially afloat during its formative years.
-
-The game's design philosophy, which emphasized learning through repeated failures and required players to make extensive maps and notes, would become a hallmark of the series. This approach to game design would continue to evolve in subsequent titles, with David Wolf - Secret Agent introducing new gameplay mechanics such as stealth and strategy elements. While Sword of Kadash was not part of a larger narrative arc at the time of its release, its historical significance as one of the earliest Dynamix titles has become an important part of the series' lore.
-
-As the series progressed, Dynamix would continue to push the boundaries of game design, incorporating new technologies and innovations into their titles. The company's eventual acquisition by Sierra On-Line would lead to even more ambitious projects, building on the foundation established by games like Sword of Kadash. Although David Wolf - Secret Agent would take the series in a new direction, the influence of Sword of Kadash can still be seen in its gameplay mechanics and design philosophy, demonstrating the lasting impact of this early Dynamix title on the series as a whole.
 
 ## References
 

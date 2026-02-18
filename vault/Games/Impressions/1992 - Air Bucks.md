@@ -246,15 +246,8 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 
 ## See Also
 
-Air Bucks builds upon the foundation established by Merchant Colony, another business simulation title from Impressions Games, by introducing players to a new industry - commercial aviation. While Merchant Colony focused on establishing and managing colonies, Air Bucks tasks players with building a successful airline empire from scratch, starting in the post-World War II era. This shift in focus allows for new gameplay mechanics, such as managing aircraft fleets and navigating the complexities of the airline industry.
-
-As players progress through Air Bucks, they will encounter various challenges and opportunities that reflect the evolution of the airline industry over several decades. The game's historical setting and realistic portrayal of aviation technology advancements provide a unique backdrop for the simulation. Looking ahead to the next entry in the series, Air Force Commander, it is clear that Impressions Games continued to refine their business simulation formula, applying the lessons learned from Air Bucks to create an even more immersive and challenging experience.
-
-The gameplay mechanics introduced in Air Bucks, such as managing routes, setting ticket prices, and responding to real-world events, laid the groundwork for future titles like Air Force Commander. In Air Force Commander, players take on a new role, managing military air operations and making strategic decisions about resource allocation and mission planning. While the context is different, the core principles of business simulation and strategic decision-making remain, demonstrating the continuity of ideas and gameplay evolution within the Impressions series.
-
 - [[1991 - Merchant Colony|← Previous: Merchant Colony]]
 - [[1992 - Air Force Commander|→ Next: Air Force Commander]]
-
 ## References
 
 [^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year

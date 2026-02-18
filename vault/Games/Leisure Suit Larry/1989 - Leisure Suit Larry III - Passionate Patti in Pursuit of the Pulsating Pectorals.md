@@ -137,16 +137,9 @@ Modern digital preservation efforts have made the game available through various
 
 ## See Also
 
-Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals builds upon the narrative foundation established in its predecessor, Leisure Suit Larry Goes Looking for Love (in Several Wrong Places), by continuing the story of Larry Laffer five years after his divorce from Kalalau. The game's introduction of dual protagonists, Larry and Passionate Patti, marks a significant departure from earlier entries in the series, offering a fresh perspective on the adult-themed content that defines the Leisure Suit Larry franchise. This mechanical innovation allows for a more complex storyline, as players control both characters in their respective quests for romance and reunion.
-
-The game's connection to its predecessor is evident in its continuation of Larry's story, as he navigates his post-divorce life and seeks new romantic conquests. Meanwhile, the introduction of Passionate Patti adds a new layer of depth to the narrative, exploring themes of love, relationships, and identity. The gameplay mechanics also evolve in Leisure Suit Larry III, with the implementation of a text-based interface and parser system that allows for more nuanced player input and interaction with the game world. This sets the stage for the next entry in the series, Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA), which would further refine the gameplay mechanics and narrative structure introduced in Leisure Suit Larry III.
-
-Leisure Suit Larry III's influence can be seen in its successor, Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA), which retains the series' trademark humor and adult themes while introducing improved graphics and sound design. The VGA remake of the original Leisure Suit Larry game builds upon the foundation established in Leisure Suit Larry III, offering a more polished and refined gaming experience that showcases the series' signature blend of wit, charm, and irreverence. By exploring the connections between these games, players can gain a deeper understanding of the Leisure Suit Larry series' evolution and the innovative gameplay mechanics that have come to define it.
-
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|← Previous: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|→ Next: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Release date and basic information

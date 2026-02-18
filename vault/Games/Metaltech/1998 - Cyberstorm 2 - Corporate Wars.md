@@ -141,15 +141,8 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 
 ## See Also
 
-Cyberstorm 2: Corporate Wars serves as a direct sequel to MissionForce: CyberStorm, taking place in a future where the Cybrid threat has been eliminated and corporate warfare has become the central conflict. The game's narrative builds upon the events of its predecessor, introducing a new setting in the Typheous star system where eight Earth corporations vie for control of a recently discovered jumpgate. This shift in focus allows for a fresh set of gameplay mechanics, including the introduction of real-time strategy elements and an expanded campaign structure.
-
-The gameplay in Cyberstorm 2: Corporate Wars represents a significant evolution from its predecessor, with the addition of real-time mode offering players a new way to experience the series' trademark tactical combat. The game's engine has been updated to support both turn-based and real-time gameplay, allowing for a more dynamic and immersive experience. As players progress through the game, they will encounter a wide range of customizable mechs, known as HERCs, which can be tailored to suit their preferred playstyle. This increased focus on customization and strategy sets the stage for the next entry in the series, Starsiege: Tribes.
-
-The connection between Cyberstorm 2: Corporate Wars and Starsiege: Tribes is evident in the shared universe and gameplay elements, with the latter building upon the foundation established by the former. Starsiege: Tribes introduces a new generation of players to the Metaltech universe, offering a unique blend of first-person shooter and strategy elements. The series' continued evolution is reflected in the changing gameplay mechanics and narrative focus, as the franchise adapts to the shifting landscape of the gaming industry. As the series progresses, players can expect to see new innovations and improvements, while still maintaining the core elements that define the Metaltech experience.
-
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
-
 ## References
 
 [^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - Gold master date

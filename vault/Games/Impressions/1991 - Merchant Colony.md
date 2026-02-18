@@ -222,15 +222,8 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 
 ## See Also
 
-Merchant Colony builds upon the strategic and business simulation foundations laid by its predecessor, Fort Apache, by introducing a broader scope of gameplay that encompasses global trade, colonization, and empire building. The game's designer, David Lester, expanded on the concepts of resource management and strategic decision-making, allowing players to navigate the complexities of international trade and colonial expansion during the 18th century. This evolution in gameplay mechanics set the stage for future Impressions titles, including Air Bucks, which would further refine the business simulation genre.
-
-The narrative structure of Merchant Colony, while not traditional, lays the groundwork for the immersive historical simulations that would become a hallmark of the Impressions series. Players take on the role of a merchant prince aiming to build a dominant trading company, rivaling the great mercantile organizations of the era, such as the East India Trading Company. This theme of economic and colonial supremacy is central to the game's design and influences the gameplay mechanics, from ship acquisition and colony establishment to trade development and military operations.
-
-Merchant Colony's influence can be seen in its successor, Air Bucks, which applies similar business simulation principles to the aviation industry. The game's focus on strategic management, resource allocation, and competitive market dynamics is refined in Air Bucks, offering players a new challenge in building a successful airline. By understanding the complexities of global trade and colonial expansion in Merchant Colony, players are better equipped to navigate the intricacies of the airline industry in Air Bucks, demonstrating a clear continuity in gameplay evolution between these two titles in the Impressions series.
-
 - [[1991 - Fort Apache|← Previous: Fort Apache]]
 - [[1992 - Air Bucks|→ Next: Air Bucks]]
-
 ## References
 
 [^ref-1]: [MobyGames – Merchant Colony](https://www.mobygames.com/game/4254/merchant-colony/) – developer, publisher, platforms, release date, technical specs

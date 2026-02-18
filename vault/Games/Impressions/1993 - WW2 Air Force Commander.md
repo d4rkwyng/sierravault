@@ -214,15 +214,8 @@ The game's historical significance lies primarily in documenting the evolution o
 
 ## See Also
 
-WW2 Air Force Commander connects to the previous entry in the series, Cohort II - Fighting for Rome, through its shared developer, Impressions Games, and the continued exploration of strategic warfare themes. While Cohort II focused on ancient Roman military campaigns, WW2 Air Force Commander shifts the focus to aerial combat during World War II, introducing new gameplay mechanics such as air force management and tactical air operations. This evolution in gameplay reflects the studio's growing expertise in crafting immersive and historically grounded strategy experiences.
-
-The narrative of WW2 Air Force Commander is self-contained, with players taking on the role of an air force commander during key moments of World War II. However, the game's themes of strategic leadership and resource management are consistent with the broader Impressions series, including the earlier Cohort II. The next entry in the series, Detroit, would likely continue this trend of exploring different historical or fictional settings while refining the core strategy gameplay that defines the Impressions brand.
-
-In terms of mechanical evolution, WW2 Air Force Commander builds upon the turn-based strategy framework established by its predecessors, incorporating new features such as scenario selection and force management. These advancements lay the groundwork for future titles like Detroit, which may incorporate additional innovations in gameplay and storytelling while maintaining the series' commitment to strategic depth and historical authenticity. By examining the connections between WW2 Air Force Commander and its counterparts in the Impressions series, players can appreciate the studio's dedication to crafting engaging and challenging strategy games that cater to a wide range of historical and fictional interests.
-
 - [[1993 - Cohort II - Fighting for Rome|← Previous: Cohort II - Fighting for Rome]]
 - [[1994 - Detroit|→ Next: Detroit]]
-
 ## References
 
 [^ref-1]: [MobyGames – WW2 Air Force Commander](https://www.mobygames.com/game/422/ww2-air-force-commander/) – release dates, platforms, designers, publisher, ratings, technical specs

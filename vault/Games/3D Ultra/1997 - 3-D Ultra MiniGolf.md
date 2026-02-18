@@ -202,15 +202,8 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 
 ## See Also
 
-The release of 3D Ultra Minigolf marked a significant departure from Sierra's previous title, 3-D Ultra Pinball - Creep Night, as it ventured into the sports genre with a focus on miniature golf. While the gameplay mechanics were distinctly different, the use of pre-rendered CGI graphics and the emphasis on realistic physics were consistent with the technological advancements seen in the pinball series. This shift in genre allowed Sierra to explore new ways of engaging players, setting the stage for future innovations in the 3D Ultra series.
-
-Mechanically, 3D Ultra Minigolf laid the groundwork for later titles in the series, including 3-D Ultra Pinball - The Lost Continent, which would build upon the success of its predecessors by incorporating more complex level designs and gameplay elements. The minigolf game's use of fixed camera angles and varied terrain surfaces added a layer of strategy to the gameplay, elements that would be refined and expanded upon in subsequent pinball titles. The inclusion of fantastical settings and obstacles in 3D Ultra Minigolf also foreshadowed the imaginative and often surreal environments found in later 3D Ultra Pinball games.
-
-The narrative connection between 3D Ultra Minigolf and other series entries is less direct, given the game's focus on sports simulation rather than storytelling. However, the thematic consistency of pushing boundaries and exploring new environments is a common thread throughout the series. As the series evolved, Sierra continued to blend realistic physics with imaginative settings, culminating in titles like 3-D Ultra Pinball - The Lost Continent, which combined elements of adventure and exploration with the core pinball gameplay. This blending of genres and mechanics helped establish the 3D Ultra series as a staple of innovative gaming experiences.
-
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
-
 ## References
 
 [^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details

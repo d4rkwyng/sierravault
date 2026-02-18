@@ -225,11 +225,6 @@ The macOS version is not compatible with macOS 10.15 Catalina or later versions[
 
 ## See Also
 
-Cluck Yegger in Escape From The Planet of The Poultroid serves as a unique entry in the Spiritual Successors series, building upon the comedic legacy established by its predecessors, such as Quest for Infamy. While not directly narratively connected to Quest for Infamy, Cluck Yegger's blend of humor and adventure gameplay mechanics pays homage to the series' roots. The game's development as an offshoot of the SpaceVenture project also showcases the evolution of the Two Guys from Andromeda's design philosophy, incorporating elements of survival horror into their signature comedic style.
-
-The gameplay in Cluck Yegger, with its focus on defensive strategies and resource management, lays groundwork for future entries in the series. For instance, the emphasis on puzzle-solving and timing in Cluck Yegger could influence the design of subsequent games, such as Order of the Thorne - The King's Challenge. Although the narrative threads between these titles may not be directly intertwined, the mechanical innovations and thematic explorations in Cluck Yegger contribute to a richer understanding of the series' overall trajectory. By experimenting with new genres and gameplay mechanics, the developers demonstrate their commitment to pushing the boundaries of what is expected from a Spiritual Successor.
-
-As the series progresses towards Order of the Thorne - The King's Challenge, fans can anticipate a continued refinement of these mechanical and narrative elements. The experience gained from developing Cluck Yegger, particularly in balancing humor with tension, will likely inform the design decisions made for future titles. While specific connections between Cluck Yegger and Order of the Thorne remain to be seen, the foundation laid by this game ensures that the series will continue to evolve in exciting and unpredictable ways, staying true to its Spiritual Successor heritage while forging a unique path forward.
 
 ## References
 

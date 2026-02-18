@@ -134,11 +134,6 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 
 ## See Also
 
-The Colonel's Bequest is a significant entry in the Laura Bow series, building upon the foundations laid by its predecessor while introducing innovative gameplay mechanics that would influence the next installment, The Dagger of Amon Ra. In terms of narrative, The Colonel's Bequest sets the stage for Laura Bow's future adventures, establishing her as a keen and resourceful detective who can navigate complex social situations and unravel intricate mysteries. The game's focus on observation, exploration, and deduction also lays the groundwork for the more fast-paced and action-oriented gameplay that would characterize The Dagger of Amon Ra.
-
-Mechanically, The Colonel's Bequest pioneers an "interactive story" approach that emphasizes real-time progression and player choice, features that would be refined and expanded upon in The Dagger of Amon Ra. The game's use of a text parser interface and 16-color EGA graphics also represents a midpoint between the earlier AGI engine used in previous Sierra games and the more advanced SCI engine that would power The Dagger of Amon Ra. Furthermore, the introduction of the "Sleuth-O-Meter" system, which rates players' detective abilities based on their observations and discoveries, adds a unique layer of replayability and challenge that would be built upon in future series entries.
-
-The Colonel's Bequest also explores themes and settings that would be revisited in The Dagger of Amon Ra, including the use of atmospheric environments and a strong narrative focus. The game's 1920s Southern Gothic setting, complete with its isolated mansion and cast of suspicious characters, creates a sense of tension and foreboding that would be echoed in the Egyptian museum setting of The Dagger of Amon Ra. Overall, The Colonel's Bequest is a crucial link in the Laura Bow series, connecting the earlier games to the more refined and polished gameplay of The Dagger of Amon Ra while introducing innovative mechanics and themes that would become hallmarks of the series.
 
 ## References
 

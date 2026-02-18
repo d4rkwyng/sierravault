@@ -135,11 +135,6 @@ The series maintains an active community of enthusiasts who continue to create t
 
 ## See Also
 
-Ultimate Soccer Manager 98 builds upon the foundations established in Ultimate Soccer Manager 2, refining the series' unique approach to sports management simulation. The game's willingness to incorporate controversial elements like match-fixing and player bribing continues to set it apart from competitors, offering a more realistic and immersive experience for players. As the series progresses towards Ultimate Soccer Manager 98-99, these features will become even more integral to the gameplay.
-
-The evolution of the series is evident in Ultimate Soccer Manager 98's expanded coverage of European football leagues, with the game now featuring seven major leagues. This expansion allows for greater diversity in team selection and management, offering players a wider range of challenges and opportunities. The game's icon-driven interface, where each screen represents different office environments, remains a key feature, providing an intuitive and engaging way for players to navigate the various aspects of football management.
-
-As the series continues with Ultimate Soccer Manager 98-99, players can expect further refinements to the gameplay mechanics and features introduced in Ultimate Soccer Manager 98. The game's focus on the darker side of football management will likely be expanded upon, offering even more complex and realistic scenarios for players to navigate. With its unique approach to sports management simulation and continued evolution, the Ultimate Soccer Manager series solidifies its position as a leader in the genre, providing fans with an unparalleled level of depth and realism.
 
 ## References
 

@@ -203,11 +203,6 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 
 ## See Also
 
-Hi-Res Football builds upon the foundational elements established in Hi-Res Cribbage, with On-Line Systems continuing to explore the potential of high-resolution graphics in their games. The transition from a card game like Hi-Res Cribbage to a sports simulation title such as Hi-Res Football demonstrates the company's willingness to experiment with different genres and push the boundaries of what was possible on early home computers. This experimental approach would become a hallmark of Sierra Entertainment's development philosophy, evident in their future projects.
-
-Mechanically, Hi-Res Football laid the groundwork for subsequent sports titles, including Hi-Res Soccer, by introducing real-time action and simple yet effective control schemes using paddle controllers. The game's design, focusing on strategic play-calling and quick decision-making, set a precedent for later sports games that emphasized realism and competitive gameplay. Although Hi-Res Football did not achieve the same level of success as some of On-Line Systems' other releases, it contributed significantly to the evolution of sports gaming on home computers.
-
-The release of Hi-Res Soccer following Hi-Res Football marked a continuation of On-Line Systems' foray into the sports genre, with the company refining their approach based on lessons learned from the development and reception of Hi-Res Football. Both games showcased the potential for sports simulations on early personal computers, paving the way for more complex and engaging titles in the years to come. Through these early efforts, Sierra Entertainment established itself as a versatile developer capable of producing a wide range of game types, from adventure games to sports simulations, each contributing to the growth and diversification of the video game industry.
 
 ## References
 

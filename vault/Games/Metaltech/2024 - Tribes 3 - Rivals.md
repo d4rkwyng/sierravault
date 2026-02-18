@@ -98,19 +98,12 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 
 ## See Also
 
-Tribes 3: Rivals builds upon the foundation established by its predecessor, Tribes: Aerial Assault, by refining the series' signature gameplay elements such as skiing and jet pack mechanics. The game's developer, Prophecy Games, aimed to recreate the classic Tribes experience while introducing new features to attract both veteran players and newcomers to the series. By leveraging the Unreal Engine 5, Tribes 3: Rivals offers a visually stunning and technically impressive gaming experience that surpasses its predecessors.
-
-In terms of narrative continuity, Tribes 3: Rivals does not directly follow the story of Tribes: Aerial Assault, instead focusing on revitalizing the core gameplay mechanics that defined the series. However, the game's setting and overall universe are consistent with the previous entries in the series, providing a sense of continuity for fans of the franchise. The game's multiplayer mode, particularly the Capture the Flag format, has been revamped to provide a more balanced and competitive experience, which is expected to be further refined in future entries in the series.
-
-As the latest entry in the Metaltech series, Tribes 3: Rivals paves the way for potential future games that could build upon its mechanics and narrative. While there is no direct successor announced at this time, the game's reception and player feedback will likely influence the direction of the series moving forward. The introduction of new gameplay features, such as the Doombringer and Sentinel specializations, may also be explored in more depth in future games, potentially leading to a more diverse and complex gaming experience for fans of the Metaltech universe.
-
 - [[1998 - Starsiege - Tribes|Starsiege: Tribes]] (1998) – Dynamix/Sierra
 - [[2001 - Tribes 2|Tribes 2]] (2001) – Dynamix/Sierra
 - [[2002 - Tribes - Aerial Assault|Tribes: Aerial Assault]] (2002) – Inevitable Entertainment/Sierra
 - Tribes: Vengeance (2004) – Irrational Games/Vivendi
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
-
 ## References
 
 [^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info

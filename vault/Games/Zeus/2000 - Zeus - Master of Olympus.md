@@ -324,14 +324,7 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 
 ## See Also
 
-Zeus - Master of Olympus builds upon the foundations laid by its predecessors, particularly Caesar III and Pharaoh, by refining the city-building mechanics and introducing a unique blend of historical accuracy and mythological fantasy. The game's narrative is deeply rooted in Greek mythology, with players interacting with legendary heroes like Hercules and Perseus, and gods such as Athena and Zeus, who can bless or curse their cities. This departure from strict historical scenarios allows for a fresh and engaging gameplay experience that sets the stage for the next entry in the series.
-
-The sequel, Poseidon - Master of Atlantis, expands on the mythological theme introduced in Zeus, delving into the legendary sunken civilization of Atlantis and offering new campaigns and gameplay mechanics. The transition from Zeus to Poseidon is seamless, with players able to apply the city-building skills they honed in Zeus to the new challenges and opportunities presented in Poseidon. Mechanically, Poseidon builds upon the modified Caesar III engine used in Zeus, introducing new features and refinements that enhance the overall gameplay experience.
-
-The connection between Zeus and its predecessors is also evident in its gameplay mechanics, with the game retaining the core city-building elements that fans of the series have come to expect. However, the introduction of mythological creatures, gods, and heroes adds a new layer of depth and complexity to the game, requiring players to balance the needs of their mortal population with the whims of the divine. This blend of historical and mythological elements sets Zeus apart from its predecessors and establishes it as a unique entry in the City Building Series, paving the way for the innovations and expansions introduced in Poseidon - Master of Atlantis.
-
 - [[2001 - Poseidon - Master of Atlantis|→ Next: Poseidon - Master of Atlantis]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Zeus: Master of Olympus](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus) – release dates, awards, critical scores, reception, Polish localization

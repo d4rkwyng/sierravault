@@ -178,11 +178,6 @@ From a development perspective, the game is notable as an example of Impressions
 
 ## See Also
 
-The Rise & Rule of Ancient Empires marks a significant departure from its predecessor Space Bucks, both in terms of gameplay mechanics and narrative focus. While Space Bucks was more focused on economic management and intergalactic trade, The Rise & Rule of Ancient Empires delves into the realm of empire-building and historical strategy, allowing players to guide ancient civilizations through the ages. This shift in focus reflects a broader trend in the series towards more complex, historically-grounded gameplay.
-
-In terms of narrative continuity, The Rise & Rule of Ancient Empires does not directly follow the story of Space Bucks, instead opting for a fresh start in the ancient world. However, the game's emphasis on strategic decision-making and resource management does reflect some of the same core principles that drove the gameplay of Space Bucks. As the series continues to evolve, it will be interesting to see how these themes are developed and expanded upon in future titles. The next entry in the series is likely to build upon the foundations laid by The Rise & Rule of Ancient Empires, potentially incorporating new features and mechanics while maintaining the core focus on strategic empire-building.
-
-The gameplay mechanics of The Rise & Rule of Ancient Empires also lay the groundwork for future innovations in the series. The game's 4X structure, which combines exploration, expansion, exploitation, and extermination, would go on to influence a wide range of subsequent strategy titles. Additionally, the game's use of unique cultural and historical characteristics for each playable civilization adds a rich layer of depth and complexity to the gameplay experience. As the series continues to evolve, it is likely that these mechanics will be refined and expanded upon, potentially incorporating new features such as more advanced diplomacy options or enhanced military tactics.
 
 ## References
 

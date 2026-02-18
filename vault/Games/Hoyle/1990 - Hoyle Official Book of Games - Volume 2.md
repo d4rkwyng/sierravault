@@ -211,15 +211,8 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 
 ## See Also
 
-Hoyle Official Book of Games - Volume 2 builds upon the foundation established by its predecessor, Hoyle Official Book of Games - Volume 1, by offering an expanded collection of solitaire games that cater to a wide range of player preferences. While Volume 1 featured a mix of multiplayer card games and single-player solitaire experiences, Volume 2 focuses exclusively on solitaire, providing players with 28 different variants to enjoy. This shift in focus allowed the developers to refine the game's mechanics and presentation, resulting in a more polished and engaging experience for players.
-
-The absence of Sierra's iconic adventure game characters as opponents in Volume 2 marks a significant departure from the multiplayer-oriented approach of Volume 1. Instead, players are treated to a traditional solitaire gaming environment that emphasizes strategy and skill. The game's use of the SCI0 engine also demonstrates Sierra's technical versatility in adapting their adventure game technology for card game simulations. As the series progresses, these developments will lay the groundwork for future innovations in Hoyle Official Book of Games - Volume 3.
-
-Hoyle Official Book of Games - Volume 2 serves as a crucial link between the first and third volumes in the series, establishing a pattern of evolution and refinement that will continue to shape the franchise. The game's single-player focus and emphasis on traditional solitaire rules will influence the design of subsequent entries, while its technical advancements will pave the way for more complex and engaging gameplay experiences. As players progress through the series, they can expect to see new features, improved graphics, and enhanced gameplay mechanics that build upon the foundations established in Volume 2.
-
 - [[1989 - Hoyle Official Book of Games - Volume 1|← Previous: Hoyle Official Book of Games - Volume 1]]
 - [[1991 - Hoyle Official Book of Games - Volume 3|→ Next: Hoyle Official Book of Games - Volume 3]]
-
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, platforms, ratings, game content, development team

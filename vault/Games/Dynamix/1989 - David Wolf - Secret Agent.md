@@ -194,15 +194,8 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 
 ## See Also
 
-David Wolf: Secret Agent marks a significant departure from the fantasy setting of its predecessor, Sword of Kadash, as it delves into the world of espionage and action-packed adventure. While Sword of Kadash featured traditional puzzle-solving and exploration, David Wolf: Secret Agent introduces a more linear, cinematic experience with its "VCR Interface," allowing players to navigate through the game's content in a non-linear fashion. This shift in gameplay style and genre reflects Dynamix's experimentation with different formats and themes during this period.
-
-The game's focus on action sequences, such as hang gliding and sports car driving, laid the groundwork for future Dynamix titles that would emphasize fast-paced action and interactive simulations. Rise of the Dragon, the next entry in the series, would build upon this foundation, incorporating more complex gameplay mechanics and a deeper narrative. Although David Wolf: Secret Agent's story is relatively self-contained, its themes of high-stakes espionage and global catastrophe would influence the tone and direction of subsequent games in the series.
-
-In terms of mechanical evolution, David Wolf: Secret Agent's use of digitized 3-D graphics and rotoscoped animation represented a major technical leap forward for Dynamix. The game's "VCR Interface" also demonstrated the company's commitment to innovative gameplay design and player-centric approach. As the series progresses, these technological advancements and design principles would continue to shape the direction of future titles, including Rise of the Dragon, which would push the boundaries of interactive storytelling and simulation-based gameplay even further.
-
 - [[1990 - Rise of the Dragon]] - Similar Dynamix action-adventure
 - [[1991 - Heart of China]] - Another Dynamix cinematic adventure
-
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information

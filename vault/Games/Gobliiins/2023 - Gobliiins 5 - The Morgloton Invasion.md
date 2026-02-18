@@ -203,15 +203,8 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 
 ## See Also
 
-Gobliiins 5: The Morgloton Invasion builds upon the narrative foundation established in Gobliiins 4, although it marks a significant departure from the 3D gameplay of its predecessor by returning to the series' 2D roots. This shift back to 2D is a deliberate design choice, aiming to recapture the charm and visual style of the classic titles that originally made the series beloved. The game's story, involving the mad scientist Morglott and his sinister plan to transform the kingdom's subjects into anthropomorphic potatoes, introduces new characters and plot twists while maintaining the light-hearted tone characteristic of the franchise.
-
-Mechanically, Gobliiins 5 evolves the cooperative puzzle-solving that defined earlier entries in the series, with players controlling Oups, Asgard, and Ignatius simultaneously. Each goblin's unique abilities are essential for overcoming obstacles, reflecting a refinement of the gameplay mechanics introduced in the first Gobliiins game. The decision to return to 2D hand-drawn animation not only enhances the game's visual appeal but also streamlines the puzzle-solving experience, allowing for more intricate and challenging level designs compared to its immediate predecessor.
-
-The narrative and mechanical foundations laid in Gobliiins 5: The Morgloton Invasion set the stage for the next installment in the series, Gobliins 6. While specific details about Gobliins 6 are not yet available, it is anticipated that the game will continue to evolve the series' trademark blend of humor, challenging puzzles, and cooperative gameplay. Given the success of Gobliiins 5 in revitalizing the franchise and its well-received return to form, fans can expect that future entries will build upon this momentum, potentially introducing new characters, plotlines, and gameplay innovations while retaining the essence of what makes the Gobliiins series enduringly popular.
-
 - **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
-
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history

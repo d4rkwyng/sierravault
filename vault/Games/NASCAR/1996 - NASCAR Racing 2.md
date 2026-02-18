@@ -250,15 +250,8 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 
 ## See Also
 
-NASCAR Racing 2 builds upon the foundation established by its predecessor, NASCAR Racing, by introducing a new game engine that significantly enhances graphics, physics, sound, and multiplayer capabilities. This sequel incorporates the official cars, tracks, and drivers of the 1996 NASCAR Winston Cup Series season, offering an even more immersive experience for players. The addition of features such as arcade mode, mouse-driven interface, and the innovative radio spotter system sets the stage for further evolution in the series.
-
-The game's technological advancements, including 3D hardware acceleration and support for peripherals like steering wheels, paved the way for future installments to push the boundaries of racing simulation. NASCAR Racing 2's focus on realism, as evident in its detailed car setup options and realistic track conditions, would continue to be a hallmark of the series. The introduction of night racing and dynamic weather conditions at all tracks added a new layer of complexity and realism, further enhancing the player's experience.
-
-NASCAR Racing 2 serves as a crucial link between the original NASCAR Racing and the subsequent NASCAR Racing 2 - Grand National Series Expansion, laying the groundwork for expanded content and gameplay mechanics. The expansion would build upon the foundations established in NASCAR Racing 2, incorporating new tracks, cars, and drivers to further enrich the NASCAR simulation experience. By refining the series' core elements, such as its comprehensive garage system and immersive audio features, NASCAR Racing 2 solidified the franchise's position as a leader in racing simulations, setting the stage for continued innovation and growth in the series.
-
 - [[1994 - NASCAR Racing|← Previous: NASCAR Racing]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 - Grand National Series Expansion]]
-
 ## References
 
 [^ref-1]: [MobyGames – NASCAR Racing 2](https://www.mobygames.com/game/1607/nascar-racing-2/) – ratings, awards, credits, technical specifications, sales data

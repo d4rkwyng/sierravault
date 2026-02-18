@@ -223,15 +223,8 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 
 ## See Also
 
-Hoyle Casino 2006 builds upon the foundation established by its predecessor, Hoyle Texas Hold Em, by expanding the scope of casino games offered and refining the gameplay mechanics. The inclusion of over 500 variants of 16 popular casino games, including Texas Hold'em, marks a significant evolution in the series' ability to cater to a wide range of player interests. This expansion sets the stage for future entries in the series, such as Hoyle Miami Solitaire, which would continue to diversify and deepen the gaming experience.
-
-The narrative connection between Hoyle Casino 2006 and its predecessors is more thematic than story-driven, given the nature of casino simulation games. However, the game's focus on player customization and the virtual casino environment creates a sense of continuity with earlier titles, where players could engage with various characters and scenarios. This approach to gameplay allows for a seamless transition into subsequent games like Hoyle Miami Solitaire, which might offer new settings or characters while maintaining the core elements that define the Hoyle series.
-
-Mechanically, Hoyle Casino 2006 represents a culmination of the series' progression towards more comprehensive and realistic casino simulations. The detailed tutorials, official rulebook, and vast array of games not only enhance the player's experience but also lay the groundwork for future innovations in the series. As the series evolves with titles like Hoyle Miami Solitaire, players can expect even more sophisticated gameplay mechanics, possibly including new types of casino games or enhanced multiplayer capabilities, further enriching the Hoyle gaming universe.
-
 - [[2005 - Hoyle Texas Hold Em|← Previous: Hoyle Texas Hold Em]]
 - [[2006 - Hoyle Miami Solitaire|→ Next: Hoyle Miami Solitaire]]
-
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006) – release date, developer, publisher, game content description, user rating

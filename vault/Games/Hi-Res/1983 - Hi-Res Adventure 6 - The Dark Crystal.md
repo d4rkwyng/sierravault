@@ -148,11 +148,6 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 
 ## See Also
 
-The Dark Crystal marks a significant point in the Hi-Res Adventure series, building upon the narrative and mechanical foundations laid by its predecessor, Time Zone. While Time Zone introduced players to a diverse range of historical settings and challenges, The Dark Crystal focuses on a single, immersive fantasy world inspired by Jim Henson's film of the same name. This shift towards deeper storytelling and interactive adaptation sets the stage for future Sierra titles.
-
-Mechanically, The Dark Crystal refines the text-based interface and static graphics introduced in earlier Hi-Res Adventure games, incorporating Sierra's Adventure Development Language (ADL) engine to create a more engaging and responsive gameplay experience. The game's use of verb/noun commands and simple navigation also lays groundwork for the more complex interactions that would become a hallmark of subsequent Sierra adventures. As the series progresses towards Gelfling Adventure, these mechanical advancements will continue to evolve, incorporating new features and challenges that expand upon the foundations established in The Dark Crystal.
-
-The narrative of The Dark Crystal, with its focus on Jen's quest to heal the Dark Crystal and restore balance to the world of Thra, also establishes a compelling storyline that explores themes of good vs. evil and environmental harmony. This richly detailed world, drawn from Jim Henson's creative vision, provides a unique backdrop for adventure gaming that will be further explored in Gelfling Adventure, offering players new opportunities to engage with the characters and settings introduced in The Dark Crystal. By combining engaging gameplay mechanics with a deeply immersive narrative, The Dark Crystal solidifies its place as a landmark title in the Hi-Res Adventure series.
 
 ## References
 
