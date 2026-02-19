@@ -8,7 +8,7 @@ platforms:
 genre: Screensaver
 sierra_lineage: Sierra Label (Dynamix)
 created: 2026-02-12
-last_updated: 2026-02-14
+last_updated: 2026-02-19
 ---
 
 # Johnny Castaway
@@ -133,9 +133,7 @@ According to Ken Williams, the screensaver was one of several Dynamix products t
 
 ### Cultural Impact
 
-Johnny Castaway became an unexpected cult classic.[^ref-15] Office workers of the early 1990s developed genuine attachment to the stranded cartoon character, checking in on his progress and watching for rare events.[^ref-6] The screensaver transformed the utilitarian purpose of screen protection into entertainment, presaging concepts like virtual pets and idle games.[^ref-15]
-
-One writer for *UX Collective* reflected: "I remember it was hard for me to shut off the computer at the end of the day, leaving Johnny alone."[^ref-6]
+Johnny Castaway became an unexpected cult classic. Even Jeff Tunnell was surprised by its longevity: "I never expected Johnny Castaway to become the underground cult hit that it became. Of course, you always want a product to be successful, and JC was."[^ref-15] Office workers of the early 1990s developed genuine attachment to the stranded cartoon character, checking in on his progress and watching for rare events.[^ref-6] The screensaver transformed the utilitarian purpose of screen protection into entertainment, presaging concepts like virtual pets and idle games.[^ref-15]
 
 ### Technical Challenges
 
@@ -154,7 +152,28 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 - [Internet Archive](https://archive.org/details/johnny-castaway-screensaver) – Free download and browser-playable version
 - [Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Download with installation guides for modern systems
 
-*Last updated: 2026-02-12*
+*Last updated: 2026-02-19*
+
+## References
+
+[^ref-1]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Product overview, marketing description as "the world's first story-telling screen saver," holiday features, and download history
+[^ref-2]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Development Q&A covering story arc structure, 120-day loop, and narrative design
+[^ref-3]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Jeff Tunnell's account of the screensaver's origin, the brainstorming session, the flying toasters inspiration, and the Screen Antics brand
+[^ref-4]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Cites the *Computer Gaming World* January 1993 review and the *Gilligan's Island* critical comparison
+[^ref-5]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – System requirements (386SX, Windows 3.1, 3½-inch floppy), download count statistics, and modern compatibility notes
+[^ref-6]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Details of the original packaging including the "Stop everything!" letter; fan sentiment and emotional attachment to the character
+[^ref-7]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Passive entertainment format, daily activity descriptions, random event gags, and the complete story arc
+[^ref-8]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Jeff Tunnell clarifying credits and correcting common misconceptions about the development team
+[^ref-9]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Version history including stable release 1.02 in 1993
+[^ref-10]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Ken Williams on the screensaver's profitability relative to development cost, alongside The Incredible Machine and Hoyle
+[^ref-11]: [Castaway – GitHub (xesf)](https://github.com/xesf/castaway) – Open-source JavaScript re-implementation reverse-engineering the DGDS engine for browser play
+[^ref-12]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Community guides for running the 16-bit screensaver on Windows 64-bit, macOS, and Linux
+[^ref-13]: [Family Fun Pack (1992) – MobyGames](https://www.mobygames.com/game/21229/family-fun-pack/) – Compilation details confirming Johnny Castaway's inclusion alongside Conquests of the Longbow and Gobliiins
+[^ref-14]: [Shawn Bird – Dynamix Wiki](https://dynamix.fandom.com/wiki/Shawn_Bird) – Credits confirming Shawn Bird as character designer at Jeff Tunnell Productions and Dynamix (1991–2001)
+[^ref-15]: [Johnny Castaway Common Questions – Jeff Tunnell](https://jefftunnell.com/johnny-castaway-common-questions/) – Jeff Tunnell on the screensaver's lasting cult status and the emotional connection players formed with the character
+[^ref-16]: [Johnny Castaway Reborn – GitHub (sizious)](https://github.com/sizious/johnny-castaway-reborn) – Open-source C/SDL2 engine re-implementation of the screensaver
+[^ref-17]: [Johnny Castaway – Wikipedia](https://en.wikipedia.org/wiki/Johnny_Castaway) – Corroborating the Screen Antics "world's first story-telling screen saver" marketing claim
+[^ref-18]: [Johnny Castaway (Full Storyline) – Internet Archive](https://archive.org/details/johnny-castaway-screensaver) – Video documentation of the complete Johnny Castaway storyline and preservation downloads
 
 ## See Also
 

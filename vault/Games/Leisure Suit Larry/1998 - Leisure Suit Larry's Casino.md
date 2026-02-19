@@ -9,13 +9,13 @@ platforms: [Windows]
 series: Leisure Suit Larry
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-02-12'
+last_updated: '2026-02-19'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra Entertainment in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: February 19, 2026</small>
 
 ## Overview
 
@@ -174,6 +174,21 @@ Based on contemporary documentation:[^ref-6]
 ### Physical Media
 
 The game was originally released on CD-ROM for Windows and is occasionally available through secondary market sellers. It was also included in the *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999) compilation.[^ref-7]
+
+## References
+
+[^ref-1]: [Leisure Suit Larry's Casino (Video Game 1998) – IMDb](https://www.imdb.com/title/tt0427453/) – Voice cast, user ratings, and release information
+[^ref-2]: [Leisure Suit Larry's Casino (1998) – MobyGames](https://www.mobygames.com/game/1707/leisure-suit-larrys-casino/) – Game overview, spinoff context, platform details, and development credits
+[^ref-3]: [Larry's Casino (1998) – Larry Laffer Dot Net](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – Development history including LarryLand origins, Hoyle technical foundation, WON service notes, and promotional materials
+[^ref-4]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Feature list including all five casino games, party games, restaurants, bars, gift shop, and virtual economy details
+[^ref-5]: [Leisure Suit Larry's Casino – IGN](https://www.ign.com/articles/1998/09/02/leisure-suit-larrys-casino) – Contemporary review covering gameplay details, character roster, poker variants, Wheel of Fortune note, and critical reception
+[^ref-6]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Online multiplayer features, WON service details, party games descriptions, and system requirements
+[^ref-7]: [Leisure Suit Larry: The Ultimate Pleasure Pack – MobyGames](https://www.mobygames.com/game/leisure-suit-larry-the-ultimate-pleasure-pack/) – Compilation details, included titles, and release information
+[^ref-8]: [Leisure Suit Larry's Casino – Metacritic](https://www.metacritic.com/game/leisure-suit-larrys-casino/) – Review scores, ESRB Mature rating, and critical summaries
+[^ref-9]: [The Sierra Network – Wikipedia](https://en.wikipedia.org/wiki/The_Sierra_Network) – History of TSN/ImagiNatioN and the LarryLand virtual environment concept
+[^ref-10]: [Al Lowe – Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) – Career timeline including departure from Sierra in February 1999
+[^ref-11]: [Leisure Suit Larry's Casino – GOG.com](https://www.gog.com/) – Game not available for digital purchase; no release on platform
+[^ref-12]: [Leisure Suit Larry's Casino (USA) – Internet Archive](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump-verified disc image for preservation and download
 
 ## See Also
 
