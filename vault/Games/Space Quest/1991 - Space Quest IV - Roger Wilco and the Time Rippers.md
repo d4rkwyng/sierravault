@@ -294,7 +294,7 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 **Connections to Future Games:**
 - Roger's son, introduced here, is referenced in later games[^ref-5]
-- The Galaxy Galleria setting would influence mall-like environments in [[1995 - Space Quest 6 - Roger Wilco in The Spinal Frontier|Space Quest 6]][^ref-4]
+- The Galaxy Galleria setting would influence mall-like environments in [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]][^ref-4]
 - Gary Owens would return as narrator for Space Quest 6[^ref-32]
 
 **Development Impact:**
