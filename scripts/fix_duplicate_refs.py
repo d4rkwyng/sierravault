@@ -14,8 +14,8 @@ import argparse
 
 # Paths
 SCRIPT_DIR = Path(__file__).parent
-INTERNAL_DIR = SCRIPT_DIR.parent
-VAULT_DIR = INTERNAL_DIR.parent
+REPO_DIR = SCRIPT_DIR.parent
+VAULT_DIR = REPO_DIR / "vault"
 GAMES_DIR = VAULT_DIR / "Games"
 
 

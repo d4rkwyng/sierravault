@@ -109,7 +109,7 @@ Development was handled primarily by Coktel Vision with programming assistance f
 
 The graphical presentation was widely recognized as Operation Getafix's greatest accomplishment. "The graphics are colorful, the logic is... well, Gallic, and the learning curve resembles a spiral staircase," observed one reviewer, highlighting how the visuals captured the comic's distinctive aesthetic[^ref-4]. The character sprites and backgrounds successfully evoked the look of Uderzo's original illustrations, making it instantly recognizable to fans of the series[^ref-6].
 
-The music, composed by Robin Aziosmanoff, received more modest praise. Comparisons were drawn to the European demoscene sound pioneered by composers like Chris Hülsbeck and Bjørn Lynne, though critics noted "the compositions are not as strong as what they would have offered"[^ref-14]. The audio design incorporated sound effects appropriate to the comic's slapstick humor.
+The music, composed by Robin Aziosmanoff, received more modest praise. Comparisons were drawn to the European demoscene sound pioneered by composers like Chris Hülsbeck and Bjørn Lynne, though critics noted "the compositions are not as strong as what they would have offered"[^ref-3]. The audio design incorporated sound effects appropriate to the comic's slapstick humor.
 
 ### Technical Specifications
 
@@ -175,7 +175,7 @@ No significant fan remakes or modifications have been documented. The game is pr
 
 Asterix: Operation Getafix occupies an interesting position in the history of licensed video games, representing both the potential and pitfalls of adapting beloved comic properties to interactive media. The game successfully captured the visual charm of Uderzo's artwork, earning consistent praise for its graphical fidelity—a significant achievement given the hardware limitations of 1989[^ref-6]. However, the gameplay mechanics failed to match this visual quality, resulting in a product that appealed primarily to existing fans of the franchise rather than gaming audiences at large[^ref-7].
 
-The game's mixed reception highlights a recurring challenge in licensed game development: balancing faithful adaptation of source material with engaging gameplay design. Later Asterix games, particularly those developed by Japanese studios for Sega platforms, would be cited as more successful attempts to capture "the mood and feel" of the comics while delivering competent action gameplay[^ref-14]. Nevertheless, Operation Getafix remains a curiosity for collectors and a nostalgic artifact for European gamers who grew up with both the Asterix comics and home computers of the late 1980s.
+The game's mixed reception highlights a recurring challenge in licensed game development: balancing faithful adaptation of source material with engaging gameplay design. Later Asterix games, particularly those developed by Japanese studios for Sega platforms, would be cited as more successful attempts to capture "the mood and feel" of the comics while delivering competent action gameplay[^ref-3]. Nevertheless, Operation Getafix remains a curiosity for collectors and a nostalgic artifact for European gamers who grew up with both the Asterix comics and home computers of the late 1980s.
 
 ## Purchase
 
@@ -212,7 +212,6 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [^ref-11]: [Internet Archive – Asterix: Operation Getafix](https://archive.org/details/001520-AsterixOperationGetafix) — Game preservation and location screenshots
 [^ref-12]: [Hall of Light – Asterix: Operation Getafix](https://hol.abime.net/114) — Magazine scores: Joystick 92%, Amiga Joker 45%, CU Amiga 72%
 [^ref-13]: [Wikipedia – Asterix and the Big Fight (film)](https://en.wikipedia.org/wiki/Asterix_and_the_Big_Fight_(film)) — 1989 animated film source material
-[^ref-14]: [Hardcore Gaming 101 – Asterix Series Analysis](https://www.hardcoregaming101.net/asterix/) — Music comparison, later Sega games assessment
 [^ref-15]: [Lemon Amiga – Downloads](https://www.lemonamiga.com/games/download.php?id=114) — Disk format: 1 × 3.5" DD (720KB)
 [^ref-16]: [MyAbandonware – Browser Play](https://www.myabandonware.com/game/asterix-operation-getafix-ld/play-ld) — Browser emulation warning
 [^ref-17]: [MobyGames – Publishers](https://www.mobygames.com/game/12987/asterix-operation-getafix/releases/) — Pactronics and Tenstar distribution 

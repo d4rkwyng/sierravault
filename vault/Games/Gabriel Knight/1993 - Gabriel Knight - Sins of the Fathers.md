@@ -93,7 +93,7 @@ Quandary awarded 5/5, with Rosemary Young calling it "thoroughly recommended for
 - **MobyGames:** 86% critics average[^ref-3]
 - **IMDB:** 9.0/10 (813 ratings)[^ref-4]
 - **GameRankings:** 93%[^ref-1]
-- **Adventure Gamers:** 5/5[^ref-17]
+- **Adventure Gamers:** 5/5[^ref-20]
 - **Adventure Classic Gaming:** 5/5[^ref-6]
 - **OldGames.sk:** 95%[^ref-8]
 - **MyAbandonware:** 4.62/5 (116 votes)[^ref-2]
@@ -319,7 +319,7 @@ The remake was released on PC, Mac, iOS, and Android platforms.[^ref-32] Reviews
 
 - **Comic Book Prequel:** Included with physical copies, following Günter Ritter in the 1600s[^ref-2]
 - **Novelization:** "Gabriel Knight: Sins of the Fathers" by Jane Jensen, Penguin Books ROC imprint, February 1997[^ref-3]
-- **Official Walkthrough Guides:** Multiple third-party guides available[^ref-17]
+- **Official Walkthrough Guides:** Multiple third-party guides available[^ref-20]
 
 Jensen reflected on the novelization: "I didn't think about novels when I designed GK1. After the game came out and I got great feedback on the story I thought - well, I've always wanted to be a novelist, maybe I could start with a story I know works." She noted that "The first GK novel was not the best thing I've ever done simply because I wasn't sure at the time how much of the 'game' to take out of it."[^ref-6]
 
@@ -369,7 +369,6 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 [^ref-14]: [Hardcore Gaming 101 – Gabriel Knight](https://www.hardcoregaming101.net/gabriel-knight/) — Series retrospective
 [^ref-15]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — Contemporary reviews
 [^ref-16]: [IMDB – Gabriel Knight (1993)](https://www.imdb.com/title/tt0250473/) — User ratings and cast info
-[^ref-17]: [GOG – Gabriel Knight: Sins of the Fathers](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — Digital release, user reviews
 [^ref-18]: [Steam – Gabriel Knight: Sins of the Fathers](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers/) — Steam availability and reviews
 [^ref-19]: [Gabriel Knight Patches](https://erolfi.wordpress.com/gabriel-knight-installers-and-patches/) — Fan patches and fixes
 [^ref-20]: [GOG Manual Documentation](https://www.gog.com/en/game/gabriel_knight_sins_of_the_fathers) — 36-page manual PDF

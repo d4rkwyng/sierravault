@@ -21,7 +21,7 @@ tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 
 *Leisure Suit Larry's Casino* is a casino simulation game developed and published by Sierra Entertainment, released on June 30, 1998 for Windows.[^ref-1] The game represents a spinoff from the main Leisure Suit Larry adventure series, placing the iconic Larry Laffer in the role of casino manager rather than the hapless romantic protagonist of the adventure games.[^ref-2] Designed and directed by series creator [[Al Lowe]], the game built upon the foundation of Sierra's earlier casino software, particularly the *Hoyle* card game series and the earlier *Crazy Nick's Software Picks: Leisure Suit Larry's Casino*.[^ref-3]
 
-The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-4] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-6]
+The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-4] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-4]
 
 The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-7]
 
@@ -53,7 +53,7 @@ A Wheel of Fortune game was listed in the product documentation but was reported
 
 ### Party Games and Social Features
 
-Beyond the traditional casino offerings, the game included several unique social and party games designed for the online multiplayer environment:[^ref-6]
+Beyond the traditional casino offerings, the game included several unique social and party games designed for the online multiplayer environment:[^ref-4]
 
 - **Larry's Comedy Club** – An interactive online joke-telling contest
 - **Groupe Grope** – A collaborative group story-writing game
@@ -62,7 +62,7 @@ Beyond the traditional casino offerings, the game included several unique social
 
 ### Virtual Economy
 
-Players earned "Larrybucks" through their gambling wins, which could be spent on various virtual goods and services within the casino:[^ref-6]
+Players earned "Larrybucks" through their gambling wins, which could be spent on various virtual goods and services within the casino:[^ref-4]
 
 - Virtual gifts and drinks
 - Hotel room upgrades
@@ -112,7 +112,7 @@ When the LarryLand concept was only partially implemented and largely unused on 
 
 The game was directed and written by Al Lowe, making it one of his final projects at Sierra before his departure on February 22, 1999.[^ref-10] Production took place during Sierra's transition period following its acquisition by CUC International in 1996, which later merged with HFS Corporation to form Cendant.[^ref-7]
 
-The game's online component utilized WON (World Opponent Network), Cendant's free online gaming service that Sierra games used during this era.[^ref-6] This represented Sierra's continued investment in online gaming technology following the original Sierra Network experiment.
+The game's online component utilized WON (World Opponent Network), Cendant's free online gaming service that Sierra games used during this era.[^ref-4] This represented Sierra's continued investment in online gaming technology following the original Sierra Network experiment.
 
 ### Easter Eggs
 
@@ -146,7 +146,7 @@ When Sierra updated their Larry website to promote the game, they had Jan Rabson
 
 ### System Requirements
 
-Based on contemporary documentation:[^ref-6]
+Based on contemporary documentation:[^ref-4]
 - **Operating System:** Windows 95/98
 - **Processor:** Pentium-class processor
 - **RAM:** Required for Windows operation
@@ -182,7 +182,6 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-3]: [Larry's Casino (1998) – Larry Laffer Dot Net](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – Development history including LarryLand origins, Hoyle technical foundation, WON service notes, and promotional materials
 [^ref-4]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Feature list including all five casino games, party games, restaurants, bars, gift shop, and virtual economy details
 [^ref-5]: [Leisure Suit Larry's Casino – IGN](https://www.ign.com/articles/1998/09/02/leisure-suit-larrys-casino) – Contemporary review covering gameplay details, character roster, poker variants, Wheel of Fortune note, and critical reception
-[^ref-6]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Online multiplayer features, WON service details, party games descriptions, and system requirements
 [^ref-7]: [Leisure Suit Larry: The Ultimate Pleasure Pack – MobyGames](https://www.mobygames.com/game/leisure-suit-larry-the-ultimate-pleasure-pack/) – Compilation details, included titles, and release information
 [^ref-8]: [Leisure Suit Larry's Casino – Metacritic](https://www.metacritic.com/game/leisure-suit-larrys-casino/) – Review scores, ESRB Mature rating, and critical summaries
 [^ref-9]: [The Sierra Network – Wikipedia](https://en.wikipedia.org/wiki/The_Sierra_Network) – History of TSN/ImagiNatioN and the LarryLand virtual environment concept

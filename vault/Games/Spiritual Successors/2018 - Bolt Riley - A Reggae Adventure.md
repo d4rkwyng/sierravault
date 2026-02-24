@@ -119,7 +119,7 @@ The game combines these elements with music-focused mechanics. As Oded Sharon de
 
 ## Reception
 
-Bolt Riley: A Reggae Adventure received limited critical coverage upon its release. The game holds a "Stylized" art style designation on Adventure Gamers' database, which describes it as "an adventure game, released in 2016 by Corbomite Games" (referring to the Early Access release date)[^ref-21].
+Bolt Riley: A Reggae Adventure received limited critical coverage upon its release. The game holds a "Stylized" art style designation on Adventure Gamers' database, which describes it as "an adventure game, released in 2016 by Corbomite Games" (referring to the Early Access release date)[^ref-3].
 
 The project's troubled development history and episodic release model affected its reception. Only Chapter 1 was released as of February 2018, leaving the story incomplete and players waiting for future installments[^ref-3]. As of the game's release, subsequent chapters remained in development, though Oded Sharon acknowledged on Patreon that without steady income, "every single person who worked for Adventure Mob is currently busy with other projects."[^ref-22]
 
@@ -170,7 +170,6 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 [^ref-18]: [Kicktraq – Bolt Riley Campaign Data](https://www.kicktraq.com/projects/adventuremob/bolt-riley-a-reggae-adventure/) — First campaign $51K, second campaign $31,668 goal
 [^ref-19]: [OUYA – FreeTheGames Fund](https://web.archive.org/web/20140801000000*/ouya.tv/free-the-games-fund) — 7-day campaign strategy
 [^ref-20]: [Omri Lahav – Composer Portfolio](https://omrilahav.com/) — Original soundtrack credits
-[^ref-21]: [Adventure Gamers Database](https://adventuregamers.com/games/view/31147) — "Stylized" art style, 2016 Early Access reference
 [^ref-22]: [Patreon – Adventure Mob](https://www.patreon.com/adventuremob) — Development status, team availability concerns
 [^ref-23]: [itch.io – Bolt Riley](https://soundguy.itch.io/boltriley) — Alternative purchase option with Steam key
 [^ref-24]: [Humble Bundle – Bolt Riley](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free purchase option 

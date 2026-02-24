@@ -46,7 +46,7 @@ The central antagonist is the Death Angel, a notorious drug lord whose criminal 
 
 The original 1987 version utilized Sierra's Adventure Game Interpreter (AGI) engine with a traditional text parser interface[^ref-12]. Players typed commands to interact with the game world, following the standard Sierra adventure format. In 1992, Sierra released an enhanced remake using the Sierra Creative Interpreter (SCI) engine, which featured 256-color VGA graphics and introduced point-and-click mouse controls[^ref-56].
 
-The AGI version supported various graphics modes including EGA, CGA, and Hercules, with minimum system requirements of 256KB RAM and an 8088/8086 processor[^ref-47]. The interface demanded precision, as incorrect procedures could result in immediate game failure, reinforcing the game's emphasis on proper protocol adherence[^ref-11][^ref-18][^ref-20].
+The AGI version supported various graphics modes including EGA, CGA, and Hercules, with minimum system requirements of 256KB RAM and an 8088/8086 processor[^ref-12]. The interface demanded precision, as incorrect procedures could result in immediate game failure, reinforcing the game's emphasis on proper protocol adherence[^ref-11][^ref-18][^ref-20].
 
 ### Structure and Progression
 
@@ -95,7 +95,7 @@ The 1992 remake was produced after Jim Walls left Sierra, with Tammy Dargan and 
 
 ### Technical Achievements
 
-Police Quest was notable as one of Sierra's first releases without copy protection on the DOS platform, serving "as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported multiple graphics modes and sound cards[^ref-58], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-47].
+Police Quest was notable as one of Sierra's first releases without copy protection on the DOS platform, serving "as a test for future Sierra releases"[^ref-12]. The game utilized Sierra's Adventure Game Interpreter (AGI) engine, which supported multiple graphics modes and sound cards[^ref-58], and included hidden easter eggs and secrets discovered by dedicated players[^ref-13][^ref-14]. The original version required minimal system resources, with support for 16-color EGA graphics and PC Speaker audio[^ref-12].
 
 The 1992 remake showcased significant technical improvements, featuring 256-color VGA graphics, digitized sound effects, and mouse support through the SCI 1.1 engine[^ref-43]. This version demonstrated Sierra's evolution in adventure game technology while maintaining the core gameplay that made the original distinctive.
 
@@ -107,7 +107,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 | 2.0A | 1987 | DOS | Updated AGI version[^ref-4] |
 | Amiga | 1988 | Amiga | Port to Amiga platform[^ref-5] |
 | Atari ST | 1988 | Atari ST | Port to Atari platform |
-| VGA Remake | 1992 | DOS | Complete SCI 1.1 remake[^ref-40] |
+| VGA Remake | 1992 | DOS | Complete SCI 1.1 remake[^ref-56] |
 
 ## Trivia
 
@@ -185,13 +185,11 @@ The game's commitment to procedural accuracy created a template for serious game
 [^ref-28]: [IMDB – Police Quest VGA (1992)](https://www.imdb.com/title/tt0236085/) — 7.4/10 rating, Walls wanted poster easter egg
 [^ref-29]: [Leisure Suit Larry Wiki – Police Quest Crossover](https://larrywiki.com/wiki/Police_Quest) — Pimp character in VGA remake
 [^ref-30]: [Adventure Gamers – Police Quest](https://adventuregamers.com/games/view/17001) — "Interesting experiment" observation, patrol duties description
-[^ref-40]: [MobyGames – Police Quest VGA Remake](https://www.mobygames.com/game/987/police-quest-in-pursuit-of-the-death-angel/) — 1992 SCI 1.1 remake details
 [^ref-41]: [MobyGames – Police Quest Ratings](https://www.mobygames.com/game/174/police-quest-in-pursuit-of-the-death-angel/moby-score/) — 75% critics average
 [^ref-42]: [Wikipedia – Jim Walls](https://en.wikipedia.org/wiki/Jim_Walls) — 15-year CHP career, real incident basis
 [^ref-43]: [PCGamingWiki – Police Quest VGA](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) — SCI 1.1 engine, technical specs
 [^ref-44]: [MyAbandonware – Police Quest](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) — 4.14/5 rating, "done by the book" quote
 [^ref-46]: [Hardcore Gaming 101 – Police Quest](https://www.hardcoregaming101.net/police-quest/) — Driving difficulty, instant game over crashes
-[^ref-47]: [DOS Days – Technical Specs](https://www.dosdays.co.uk/topics/Games/game_pq1.php) — System requirements, graphics modes
 [^ref-52]: [Sierra Help – Police Quest](https://sierrahelp.com/Games/PoliceQuest/PQ1Help.html) — Manual as "indoctrination guide"
 [^ref-56]: [MobyGames – Police Quest 1992](https://www.mobygames.com/game/987/police-quest-in-pursuit-of-the-death-angel/) — VGA graphics, point-and-click interface
 [^ref-57]: [Computer Gaming World Archive](https://archive.org/details/Computer_Gaming_World) — "First attempts at authentic realism"
