@@ -252,6 +252,14 @@ Red Baron also represented an important step in the maturation of flight simulat
 
 - [[1992 - Red Baron - Mission Builder|→ Next: Red Baron - Mission Builder]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
+
+[[1997 - Red Baron II]]
+
+[[1998 - Red Baron 3D]]
+
+[[1999 - Curse You! Red Baron]]
+
+[[2008 - Red Baron Arcade]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards

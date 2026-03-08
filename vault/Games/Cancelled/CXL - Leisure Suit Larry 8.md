@@ -19,6 +19,26 @@ tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 <small style="color: gray">Last updated: January 27, 2026</small>
 
+
+## See Also
+
+[[CXL - Babylon 5 - Into the Fire]]
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - King's Quest IX]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Middle-earth Online]]
+
+[[CXL - Precinct (2013)]]
+
+[[CXL - Red Baron (2013 Remake)]]
+
+[[CXL - SWAT - Urban Justice]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## Overview
 
 **Leisure Suit Larry 8: Lust in Space**, also known by the alternate title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running adult comedy adventure series that was never released.[^ref-1] Development began at Sierra in 1998 under the direction of series creator [[Al Lowe]], who had helmed all previous entries in the franchise.[^ref-2] The game was intended to be the first entry in the series rendered in full 3D, representing a significant technical leap for the franchise.[^ref-1]

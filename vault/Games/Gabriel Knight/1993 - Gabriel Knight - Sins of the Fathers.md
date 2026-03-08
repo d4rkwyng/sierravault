@@ -351,6 +351,10 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 - **20th Anniversary Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|→ Next: The Beast Within - A Gabriel Knight Mystery]]
+
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+
+[[TBD - Gabriel Knight 4 - Five Hearts]]
 ## References
 
 [^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/) — Comprehensive database with credits, ratings, and release info

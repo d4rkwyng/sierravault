@@ -315,6 +315,27 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 ## See Also
 
 
+[[1984 - Sword of Kadash]]
+
+[[1989 - David Wolf - Secret Agent]]
+
+[[1990 - Rise of the Dragon]]
+
+[[1991 - Heart of China]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1992 - Quarky & Quaysoo's Turbo Science]]
+
+[[1994 - Bouncers]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
 ## References
 
 [^ref-1]: [MyAbandonware – Sierra Soccer: World Challenge Edition](https://www.myabandonware.com/game/sierra-soccer-world-challenge-edition-7ix) – Publisher Sierra On-Line, 1994 release, Amiga platform, user rating 3.33/5

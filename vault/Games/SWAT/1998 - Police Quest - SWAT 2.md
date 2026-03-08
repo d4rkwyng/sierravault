@@ -302,6 +302,16 @@ The game's transition from the Police Quest adventure game format to real-time t
 - [[1995 - Police Quest - SWAT|← Previous: Police Quest - SWAT]]
 - [[1999 - SWAT 3 - Close Quarters Battle|→ Next: SWAT 3 - Close Quarters Battle]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+
+[[2003 - SWAT - Global Strike Team]]
+
+[[2005 - SWAT 4]]
+
+[[2006 - SWAT 4 - The Stetchkov Syndicate]]
+
+[[2006 - SWAT Force]]
+
+[[2007 - SWAT - Target Liberty]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT 2](https://en.wikipedia.org/wiki/Police_Quest:_SWAT_2) – release dates, developers, review scores, sales data, plot summary, version info

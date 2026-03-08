@@ -256,6 +256,16 @@ The Gobliiins series spans five main entries across three decades, each with a d
 ## See Also
 
 - [[1992 - Gobliins 2 - The Prince Buffoon|→ Next: Gobliins 2 - The Prince Buffoon]]
+
+[[1993 - Goblins Quest 3]]
+
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+
+[[2009 - Gobliiins 4]]
+
+[[2023 - Gobliiins 5 - The Morgloton Invasion]]
+
+[[2026 - Gobliins 6]]
 ## References
 
 [^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards

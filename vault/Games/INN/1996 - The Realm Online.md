@@ -240,6 +240,9 @@ The game also represents an important cautionary tale about the challenges of de
 ## See Also
 
 
+[[1991 - The Shadow of Yserbius]]
+
+[[1993 - Fates of Twinion]]
 ## References
 
 [^ref-1]: [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) – Comprehensive development history, ownership changes, technical specifications, sales data, designer credits

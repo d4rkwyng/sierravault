@@ -230,6 +230,16 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 - [[1999 - SWAT 3 - Close Quarters Battle|← Previous: SWAT 3 - Close Quarters Battle]]
 - [[2005 - SWAT 4|→ Next: SWAT 4]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+
+[[1995 - Police Quest - SWAT]]
+
+[[1998 - Police Quest - SWAT 2]]
+
+[[2006 - SWAT 4 - The Stetchkov Syndicate]]
+
+[[2006 - SWAT Force]]
+
+[[2007 - SWAT - Target Liberty]]
 ## References
 
 [^ref-1]: [Wikipedia – SWAT: Global Strike Team](https://en.wikipedia.org/wiki/SWAT%3A_Global_Strike_Team) – release dates, developer, publisher, platform information, development history

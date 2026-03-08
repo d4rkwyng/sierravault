@@ -331,6 +331,10 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 - [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|← Previous: Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory III - Wages of War|→ Next: Quest for Glory III - Wages of War]]
+
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
+
+[[1998 - Quest for Glory V - Dragon Fire]]
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory:_So_You_Want_to_Be_a_Hero) – release dates, awards, sales data, development history, technical details

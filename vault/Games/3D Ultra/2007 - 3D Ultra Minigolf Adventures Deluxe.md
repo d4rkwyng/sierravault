@@ -207,6 +207,34 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 
 - [[2006 - 3D Ultra MiniGolf Adventures|← Previous: 3D Ultra MiniGolf Adventures]]
 - [[2010 - 3-D Ultra MiniGolf Adventures 2|→ Next: 3-D Ultra MiniGolf Adventures 2]]
+
+[[1995 - 3-D Ultra Pinball]]
+
+[[1996 - 3-D Ultra Pinball - Creep Night]]
+
+[[1997 - 3-D Ultra MiniGolf]]
+
+[[1997 - 3-D Ultra Pinball - The Lost Continent]]
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+
+[[1999 - 3-D Ultra Cool Pool]]
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+
+[[1999 - 3-D Ultra Pinball - Power]]
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]
+
+[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+
+[[2000 - Maximum Pool]]
 ## References
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details

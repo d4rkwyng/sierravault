@@ -263,6 +263,20 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 
 - ← Previous: Indianapolis 500 - The Simulation
 - [[1996 - NASCAR Racing 2|→ Next: NASCAR Racing 2]]
+
+[[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
+
+[[1999 - NASCAR Craftsman Truck Series Racing]]
+
+[[1999 - NASCAR Legends]]
+
+[[1999 - NASCAR Racing 3]]
+
+[[2001 - NASCAR Racing 4]]
+
+[[2002 - NASCAR Racing 2002 Season]]
+
+[[2003 - NASCAR Racing 2003 Season]]
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster

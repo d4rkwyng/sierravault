@@ -252,6 +252,12 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 
 - [[Gabriel Knight Series]] - Series overview
 - [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+
+[[TBD - Gabriel Knight 4 - Five Hearts]]
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms

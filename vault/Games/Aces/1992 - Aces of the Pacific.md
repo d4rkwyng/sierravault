@@ -115,6 +115,10 @@ The Sierra Chest archives provide extensive documentation of the game's various 
 
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
+
+[[1994 - Aces of the Deep]]
+
+[[1995 - Command Aces of the Deep]]
 ## Legacy
 
 Aces of the Pacific established Dynamix as a premier developer of military flight simulations and directly led to the creation of Aces Over Europe in 1993[^ref-3]. The game's influence extended beyond its immediate sequel, with the series noted for having "the absolute best record/playback mission deck and video edit interface" that allowed players to create sophisticated mission recordings[^ref-4].

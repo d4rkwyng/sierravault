@@ -19,6 +19,60 @@ tags: [1980s, adventure, sierra, standalone]
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 
+
+## See Also
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Codename - Iceman]]
+
+[[1990 - Jones in the Fast Lane]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Pepper's Adventures in Time]]
+
+[[1993 - Slater & Charlie Go Camping]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Fast Attack - High Tech Submarine Warfare]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
 ## Overview
 
 Softporn Adventure is a comedic, adult-oriented text adventure game released in 1981, notable for being the only pure text adventure ever published by Sierra (then known as On-Line Systems).[^ref-1] Created by Chuck Benton as a programming exercise to teach himself Applesoft BASIC, the game became an unexpected commercial success and cultural phenomenon that would later inspire the beloved Leisure Suit Larry series.[^ref-2] Set in the fictional city of "Lost Vagueness" in a dystopian vision of the year 2020 A.D., the game tasks players with seducing three different women while navigating a world of bars, casinos, and discos.[^ref-3]

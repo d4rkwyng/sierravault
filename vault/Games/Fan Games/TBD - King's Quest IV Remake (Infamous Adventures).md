@@ -160,6 +160,30 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 - **Original Game:** [[1988 - King's Quest IV - The Perils of Rosella]]
 - **Previous IA Remake:** [[2006 - King's Quest III Remake (Infamous Adventures)]]
 
+
+[[2001 - King's Quest I VGA Remake]]
+
+[[2001 - Space Quest - The Lost Chapter]]
+
+[[2002 - King's Quest II+ - Romancing the Stones]]
+
+[[2003 - Space Quest 0 - Replicated]]
+
+[[2008 - Quest for Glory II VGA Remake]]
+
+[[2010 - The Silver Lining]]
+
+[[2011 - King's Quest III Redux - To Heir is Human]]
+
+[[2011 - Space Quest - Vohaul Strikes Back]]
+
+[[2011 - Space Quest II VGA Remake]]
+
+[[2012 - Space Quest - Incinerations]]
+
+[[2021 - King's Quest IV Retold]]
+
+[[2025 - SCP Sierra Conversion Project]]
 ## References
 
 [^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments

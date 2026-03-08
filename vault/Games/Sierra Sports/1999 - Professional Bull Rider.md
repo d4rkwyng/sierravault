@@ -205,6 +205,13 @@ The franchise's continued existence through mobile and console titles decades la
 ## See Also
 
 
+[[1997 - Driver's Education '98]]
+
+[[1998 - Grand Prix Legends]]
+
+[[1998 - Sierra Sports - Bass Fishing]]
+
+[[1998 - Sierra Sports Skiing 1999 Edition]]
 ## References
 
 [^ref-1]: [MobyGames – Professional Bull Rider](https://www.mobygames.com/game/58224/professional-bull-rider/) – developer, publisher, credits, ratings, platform information

@@ -131,6 +131,36 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 ## See Also
 
 - [[2007 - 3D Ultra Minigolf Adventures Deluxe|← Previous: 3D Ultra Minigolf Adventures Deluxe]]
+
+[[1995 - 3-D Ultra Pinball]]
+
+[[1996 - 3-D Ultra Pinball - Creep Night]]
+
+[[1997 - 3-D Ultra MiniGolf]]
+
+[[1997 - 3-D Ultra Pinball - The Lost Continent]]
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+
+[[1999 - 3-D Ultra Cool Pool]]
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+
+[[1999 - 3-D Ultra Pinball - Power]]
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]
+
+[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+
+[[2000 - Maximum Pool]]
+
+[[2006 - 3D Ultra MiniGolf Adventures]]
 ## References
 
 [^ref-1]: [Andy Merrill Blog - 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) - Xbox Live Arcade version review, pricing, and control scheme details

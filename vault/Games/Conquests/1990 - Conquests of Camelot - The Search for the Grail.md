@@ -244,8 +244,11 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 
-- [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Next: Conquests of the Longbow - The Legend of Robin Hood]]
-- [[Christy Marx]] - Designer
+- **Series:** [[Conquests Series]]
+- **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Conquests of the Longbow]] (1991)
+- **Creator:** [[Christy Marx]] (designer/writer)
+- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
+- **Related Adventure Games:** [[King's Quest]] (medieval fantasy), [[Quest for Glory]] (adventure-RPG hybrid)
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of Camelot: The Search for the Grail](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – release dates, reviews, credits, series information

@@ -164,6 +164,12 @@ This game has been included in the following collections:
 - [[1989 - Quest for Glory I - So You Want to Be a Hero|← Previous: Quest for Glory I - So You Want to Be a Hero]]
 - [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|→ Next: Quest for Glory I - So You Want to Be a Hero VGA]]
 
+
+[[1992 - Quest for Glory III - Wages of War]]
+
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
+
+[[1998 - Quest for Glory V - Dragon Fire]]
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – history, plot, gameplay, development, reception

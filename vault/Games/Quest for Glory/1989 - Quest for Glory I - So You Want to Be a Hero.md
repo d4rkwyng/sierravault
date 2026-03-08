@@ -210,6 +210,10 @@ This game has been included in the following collections:
 - [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|→ Next: Quest for Glory II - Trial by Fire]]
 
+
+[[1992 - Quest for Glory III - Wages of War]]
+
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
 ## References
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception
 [^ref-2]: [My Abandonware – Hero's Quest](https://www.myabandonware.com/game/hero-s-quest-so-you-want-to-be-a-hero-25k) – platforms, availability

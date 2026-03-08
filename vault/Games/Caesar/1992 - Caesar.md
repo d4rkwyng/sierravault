@@ -120,6 +120,11 @@ Educational applications have also recognized Caesar's value. While not explicit
 ## See Also
 
 
+[[1995 - Caesar II]]
+
+[[1998 - Caesar III]]
+
+[[2006 - Caesar IV]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Caesar - Search results showing Caesar (1992) in alphabetical listing

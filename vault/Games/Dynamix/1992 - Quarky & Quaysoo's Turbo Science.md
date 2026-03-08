@@ -222,6 +222,27 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 ## See Also
 
 
+[[1984 - Sword of Kadash]]
+
+[[1989 - David Wolf - Secret Agent]]
+
+[[1990 - Rise of the Dragon]]
+
+[[1991 - Heart of China]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1994 - Bouncers]]
+
+[[1994 - Sierra Soccer - World Challenge Edition]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
 ## References
 
 [^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating

@@ -262,6 +262,28 @@ The game is preserved through various abandonware archives and remains playable 
 
 - [[1994 - Front Page Sports - Football Pro '95|← Previous: Front Page Sports - Football Pro '95]]
 - [[1996 - Front Page Sports - Baseball Pro '96|→ Next: Front Page Sports - Baseball Pro '96]]
+
+[[1992 - Front Page Sports Football 92]]
+
+[[1993 - Front Page Sports - Football Pro]]
+
+[[1994 - Front Page Sports - Baseball Pro]]
+
+[[1996 - Front Page Sports - Football Pro '97]]
+
+[[1997 - Front Page Sports - Baseball Pro '98]]
+
+[[1997 - Front Page Sports - Football Pro '98]]
+
+[[1997 - Front Page Sports - Golf]]
+
+[[1997 - Front Page Sports - Ski Racing]]
+
+[[1997 - Front Page Sports - Trophy Rivers]]
+
+[[1997 - Front Page Sports Golf - Tour Course Add-On]]
+
+[[1999 - Front Page Sports - Ski Racing 99]]
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – Development credits, platform information

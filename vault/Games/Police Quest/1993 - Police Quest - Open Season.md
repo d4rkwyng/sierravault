@@ -164,6 +164,10 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 - [[1995 - Police Quest - SWAT|→ Next: Police Quest - SWAT]] (series evolved into tactical action)
 - [[1987 - Police Quest - In Pursuit of the Death Angel]] – Series origin
 
+
+[[1988 - Police Quest II - The Vengeance]]
+
+[[1991 - Police Quest III - The Kindred]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments

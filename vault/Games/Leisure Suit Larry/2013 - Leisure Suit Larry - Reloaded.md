@@ -127,6 +127,22 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Next Larry Laffer adventure
 - [[Leisure Suit Larry Series]] - Series overview
 - [[2009 - Leisure Suit Larry - Box Office Bust|← Previous: Leisure Suit Larry - Box Office Bust]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[1996 - Leisure Suit Larry 7 - Love for Sail]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2013/11/20/ill-review-anything-leisure-suit-larry-reloaded/) – - Gameplay length and overall assessment

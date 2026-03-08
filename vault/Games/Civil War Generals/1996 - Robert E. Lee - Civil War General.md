@@ -108,6 +108,7 @@ The game's educational value has ensured its lasting relevance, with players con
 ## See Also
 
 
+[[1997 - Civil War Generals 2 - Grant–Lee–Sherman]]
 ## References
 
 [^ref-1]: [Abandonware DOS Search Results](https://www.abandonwaredos.com/search.php?search=Robert+E.+Lee%3A+Civil+War+General) - General reference listing

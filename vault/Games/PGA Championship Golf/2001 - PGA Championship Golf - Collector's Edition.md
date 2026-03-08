@@ -274,6 +274,12 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 ## See Also
 
 - [[2000 - PGA Championship Golf 2000 - Titanium Edition|← Previous: PGA Championship Golf 2000 - Titanium Edition]]
+
+[[1998 - PGA Championship Golf]]
+
+[[1999 - PGA Championship Golf 1999 Edition]]
+
+[[2000 - PGA Championship Golf 2000]]
 ## References
 
 [^ref-1]: [IGN – Sierra Announces PGA Championship Golf Collector's Edition](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – announcement details, release window, course count

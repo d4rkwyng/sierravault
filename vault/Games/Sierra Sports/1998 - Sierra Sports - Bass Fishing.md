@@ -141,6 +141,13 @@ The series influenced other fishing simulations and demonstrated that niche spor
 ## See Also
 
 
+[[1997 - Driver's Education '98]]
+
+[[1998 - Grand Prix Legends]]
+
+[[1998 - Sierra Sports Skiing 1999 Edition]]
+
+[[1999 - Professional Bull Rider]]
 ## References
 
 [^ref-1]: [Wikipedia - Field & Stream: Trophy Bass 4](https://en.wikipedia.org/wiki/Field_%26_Stream%3A_Trophy_Bass_4) – - Game overview and series information

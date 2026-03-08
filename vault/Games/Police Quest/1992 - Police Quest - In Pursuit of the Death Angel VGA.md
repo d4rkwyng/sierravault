@@ -275,6 +275,10 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 - [[Police Quest Series]] - Series overview
 - [[1991 - Police Quest III - The Kindred|← Previous: Police Quest III - The Kindred]]
 - [[1993 - Police Quest - Open Season|→ Next: Police Quest - Open Season]]
+
+[[1987 - Police Quest - In Pursuit of the Death Angel]]
+
+[[1988 - Police Quest II - The Vengeance]]
 ## References
 
 [^ref-1]: [MobyGames – Police Quest: In Pursuit of the Death Angel (VGA)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – release info, credits, ratings, Gazette trivia

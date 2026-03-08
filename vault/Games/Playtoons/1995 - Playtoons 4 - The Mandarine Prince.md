@@ -183,6 +183,10 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 
 - **Next:** Playtoons 5: The Stone of Wakan
 - [[1995 - Playtoons 3 - The Secret of the Castle|← Previous: Playtoons 3 - The Secret of the Castle]]
+
+[[1994 - Playtoons 1 - Uncle Archibald]]
+
+[[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
 ## References
 
 [^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, animation creation features

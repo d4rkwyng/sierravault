@@ -300,6 +300,10 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 **Development Impact:**
 - [[Space Quest Series]] - Series overview
 - [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]
+
+[[1986 - Space Quest - The Sarien Encounter]]
+
+[[1989 - Space Quest III - The Pirates of Pestulon]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) – White Wolf 4/5 review (Jim Trunzo), Amiga 19% reviews
 [^ref-2]: [Sierra Chest – Space Quest IV](https://www.sierrachest.com/index.php?a=games&id=12&title=space-quest-4&fld=general) – Sierra history, collections, platforms

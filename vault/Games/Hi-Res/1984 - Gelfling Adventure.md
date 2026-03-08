@@ -167,6 +167,27 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 ## See Also
 
 
+[[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
+
+[[1980 - Hi-Res Adventure 1 - Mystery House]]
+
+[[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
+
+[[1980 - Hi-Res Cribbage]]
+
+[[1980 - Hi-Res Football]]
+
+[[1980 - Hi-Res Soccer]]
+
+[[1981 - Hi-Res Adventure 3 - Cranston Manor]]
+
+[[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+
+[[1982 - Adventure in Serenia]]
+
+[[1982 - Hi-Res Adventure 5 - Time Zone]]
+
+[[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 ## References
 
 [^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information

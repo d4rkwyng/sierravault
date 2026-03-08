@@ -277,6 +277,24 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 
 - **Related:** [[1994 - Metaltech - Earthsiege Speech Pack]]
 - [[1996 - Earthsiege 2|→ Next: Earthsiege 2]]
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1996 - MissionForce - Cyberstorm]]
+
+[[1998 - Cyberstorm 2 - Corporate Wars]]
+
+[[1998 - Starsiege - Tribes]]
+
+[[1999 - Starsiege]]
+
+[[2001 - Tribes 2]]
+
+[[2002 - Tribes - Aerial Assault]]
+
+[[2024 - Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Development information, release date, plot summary

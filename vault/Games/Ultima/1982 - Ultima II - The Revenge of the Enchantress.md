@@ -231,6 +231,7 @@ The game's historical significance lies in several areas: it demonstrated that R
 ## See Also
 
 
+[[1983 - Ultima - Escape from Mt. Drash]]
 ## References
 
 [^ref-1]: [Wikipedia – Ultima II: The Revenge of the Enchantress](https://en.wikipedia.org/wiki/Ultima_II:_The_Revenge_of_the_Enchantress) – release dates, developers, publishers, platforms, reviews, sales data, awards, development notes, trivia, bugs

@@ -126,6 +126,8 @@ The game's influence extends to the broader city-building genre, establishing co
 ## See Also
 
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
+
+[[2023 - Pharaoh - A New Era]]
 ## References
 
 [^ref-1]: [Wikipedia - Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game) – ) - Basic game information, developer, publisher, release year

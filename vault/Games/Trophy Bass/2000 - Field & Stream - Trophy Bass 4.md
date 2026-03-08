@@ -96,6 +96,11 @@ The game's influence extended beyond the immediate fishing simulation genre, est
 ## See Also
 
 
+[[1995 - Trophy Bass]]
+
+[[1996 - Front Page Sports - Trophy Bass 2]]
+
+[[1999 - Field & Stream - Trophy Bass 3D]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Trophy_Bass) – - Release date and developer information

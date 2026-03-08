@@ -110,6 +110,7 @@ NPD retail tracking data from September 1996 showed strong commercial performanc
 ## See Also
 
 
+[[1996 - Robert E. Lee - Civil War General]]
 ## References
 
 [^ref-1]: http://ageod-forum.com/viewtopic.php?t=50764 - AGEOD forum discussion providing detailed insights into game mechanics and modding for Civil War Generals 2

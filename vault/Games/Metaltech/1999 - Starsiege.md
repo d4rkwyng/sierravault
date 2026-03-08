@@ -254,6 +254,24 @@ The game's legacy is complicated by its commercial failure, which contributed to
 
 - [[1998 - Starsiege - Tribes|← Previous: Starsiege - Tribes]]
 - [[2001 - Tribes 2|→ Next: Tribes 2]]
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege Speech Pack]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+
+[[1996 - Earthsiege 2]]
+
+[[1996 - MissionForce - Cyberstorm]]
+
+[[1998 - Cyberstorm 2 - Corporate Wars]]
+
+[[2002 - Tribes - Aerial Assault]]
+
+[[2024 - Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – release dates, developer, publisher, sales data, aggregate scores, critical reception

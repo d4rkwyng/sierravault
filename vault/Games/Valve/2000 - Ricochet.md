@@ -203,6 +203,20 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 
 - [[2000 - Gunman Chronicles|← Previous: Gunman Chronicles]]
 - [[2001 - Deathmatch Classic|→ Next: Deathmatch Classic]]
+
+[[1998 - Half-Life]]
+
+[[1999 - Half-Life - Opposing Force]]
+
+[[1999 - Team Fortress Classic]]
+
+[[2000 - Counter-Strike]]
+
+[[2001 - Half-Life - Blue Shift]]
+
+[[2004 - Counter-Strike - Condition Zero]]
+
+[[2004 - Half-Life 2]]
 ## References
 
 [^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Technical documentation and development history

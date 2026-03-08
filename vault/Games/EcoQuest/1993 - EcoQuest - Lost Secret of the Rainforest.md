@@ -214,7 +214,10 @@ The game's emphasis on consequences for environmental destruction—whether thro
 
 ## See Also
 
-- [[1991 - EcoQuest - The Search for Cetus|← Previous: EcoQuest - The Search for Cetus]]
+- **Series:** [[EcoQuest Series]]
+- **Previous:** [[1991 - EcoQuest - The Search for Cetus|← The Search for Cetus]] (1991)
+- **Related Educational Games:** [[Mixed-Up Mother Goose]], [[Leisure Suit Larry]]
+- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 ## References
 
 [^ref-1]: [Wikipedia – Lost Secret of the Rainforest](https://en.wikipedia.org/wiki/Lost_Secret_of_the_Rainforest) – release date, credits, designer info, reception, Pelit quote, Compute! review

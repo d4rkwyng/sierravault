@@ -224,6 +224,34 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 
 - [[1991 - Fort Apache|← Previous: Fort Apache]]
 - [[1992 - Air Bucks|→ Next: Air Bucks]]
+
+[[1991 - Cohort Fighting for Rome]]
+
+[[1992 - Air Force Commander]]
+
+[[1992 - Conquest of Japan]]
+
+[[1992 - Discovery - In the Steps of Columbus]]
+
+[[1993 - Cohort II - Fighting for Rome]]
+
+[[1993 - WW2 Air Force Commander]]
+
+[[1994 - Detroit]]
+
+[[1994 - Front Lines]]
+
+[[1995 - Breach 3]]
+
+[[1995 - Casino De Luxe]]
+
+[[1995 - Conqueror - A.D. 1086]]
+
+[[1995 - Powerhouse]]
+
+[[1996 - Casino Deluxe 2]]
+
+[[2002 - Emperor - Rise of the Middle Kingdom]]
 ## References
 
 [^ref-1]: [MobyGames – Merchant Colony](https://www.mobygames.com/game/4254/merchant-colony/) – developer, publisher, platforms, release date, technical specs

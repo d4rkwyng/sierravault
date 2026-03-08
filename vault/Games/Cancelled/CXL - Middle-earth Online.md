@@ -183,6 +183,22 @@ Middle Earth Online was never released and is not available for purchase.
 - [[Sierra On-Line]] - Original developer/publisher
 - [[CXL - Babylon 5 - Into the Fire]] - Another cancelled Sierra MMO project
 
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - King's Quest IX]]
+
+[[CXL - Leisure Suit Larry 8]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Precinct (2013)]]
+
+[[CXL - Red Baron (2013 Remake)]]
+
+[[CXL - SWAT - Urban Justice]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## References
 
 [^ref-1]: [LOTR Fandom Wiki – Middle-earth Online](https://lotr.fandom.com/wiki/Middle-earth_Online) – licensing history, developers, timeline

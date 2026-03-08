@@ -194,6 +194,26 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 
 - **Next:** Tribes: Vengeance (2004)
 - [[2001 - Tribes 2|← Previous: Tribes 2]]
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege Speech Pack]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+
+[[1996 - Earthsiege 2]]
+
+[[1996 - MissionForce - Cyberstorm]]
+
+[[1998 - Cyberstorm 2 - Corporate Wars]]
+
+[[1998 - Starsiege - Tribes]]
+
+[[1999 - Starsiege]]
+
+[[2024 - Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status

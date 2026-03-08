@@ -19,6 +19,60 @@ tags: [1990s, sci, sierra, simulation, standalone]
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 
+
+## See Also
+
+[[1981 - Softporn Adventure]]
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Codename - Iceman]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Pepper's Adventures in Time]]
+
+[[1993 - Slater & Charlie Go Camping]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Fast Attack - High Tech Submarine Warfare]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
 ## Overview
 
 Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game presents players with a satirical take on the pursuit of the American Dream[^ref-4].

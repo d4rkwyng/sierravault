@@ -367,6 +367,22 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 
 - **Next:** Half-Life 2: Episode One (2006)
 - [[2004 - Counter-Strike - Condition Zero|← Previous: Counter-Strike - Condition Zero]]
+
+[[1998 - Half-Life]]
+
+[[1999 - Half-Life - Opposing Force]]
+
+[[1999 - Team Fortress Classic]]
+
+[[2000 - Counter-Strike]]
+
+[[2000 - Gunman Chronicles]]
+
+[[2000 - Ricochet]]
+
+[[2001 - Deathmatch Classic]]
+
+[[2001 - Half-Life - Blue Shift]]
 ## References
 
 [^ref-1]: [Half-Life.com – Official Half-Life 2 Page](https://www.half-life.com/en/halflife2) – release date, platforms, awards, review quotes

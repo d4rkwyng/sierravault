@@ -174,6 +174,20 @@ Academic analysis has also examined the series' cultural significance, with the 
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Larry Laffer's return
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|→ Next: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Al Lowe Website - Softporn History](http://www.allowe.com/Larry/softporn.htm) – - Development history and behind-the-scenes information

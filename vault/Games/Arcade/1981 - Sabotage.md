@@ -213,6 +213,41 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 ## See Also
 
 
+[[1981 - Crossfire]]
+
+[[1981 - Frogger]]
+
+[[1981 - Gobbler]]
+
+[[1981 - Threshold]]
+
+[[1982 - Cannonball Blitz]]
+
+[[1982 - Creepy Corridors]]
+
+[[1982 - Dragon's Keep]]
+
+[[1982 - Laf Pak]]
+
+[[1982 - Lunar Leeper]]
+
+[[1982 - Marauder]]
+
+[[1982 - Mouskattack]]
+
+[[1982 - Pest Patrol]]
+
+[[1983 - Apple Cider Spider]]
+
+[[1983 - Aquatron]]
+
+[[1983 - Mine Shaft]]
+
+[[1983 - Mr. Cool]]
+
+[[1983 - Sammy Lightfoot]]
+
+[[1983 - WallWar]]
 ## References
 
 [^ref-1]: [6502 Disassembly – Sabotage Technical Analysis](https://6502disassembly.com/a2-sabotage/) – Technical specifications, collision detection details, gameplay mechanics, entity limits, graphics implementation, bug documentation

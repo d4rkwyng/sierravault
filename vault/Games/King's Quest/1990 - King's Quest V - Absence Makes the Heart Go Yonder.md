@@ -280,6 +280,20 @@ On the other hand, the game also exemplifies design philosophies that would even
 - [[King's Quest Series]] - Series overview
 - [[1988 - King's Quest IV - The Perils of Rosella|← Previous: King's Quest IV - The Perils of Rosella]]
 - [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|→ Next: Roberta Williams' King's Quest I - Quest for the Crown]]
+
+[[1984 - King's Quest - Quest for the Crown]]
+
+[[1985 - King's Quest II - Romancing the Throne]]
+
+[[1986 - King's Quest III - To Heir Is Human]]
+
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+
+[[1994 - King's Quest VII - The Princeless Bride]]
+
+[[1998 - King's Quest - Mask of Eternity]]
+
+[[2015 - King's Quest]]
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones

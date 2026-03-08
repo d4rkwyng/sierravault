@@ -245,6 +245,35 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 ## See Also
 
 
+[[1988 - 20000 Leagues Under the Sea]]
+
+[[1988 - African Raiders-01]]
+
+[[1989 - Asterix - Operation Getafix]]
+
+[[1989 - ESS - European Space Simulator]]
+
+[[1989 - Emmanuelle]]
+
+[[1989 - Legend of Djel]]
+
+[[1990 - Cougar Force]]
+
+[[1990 - Geisha]]
+
+[[1991 - A.G.E.]]
+
+[[1991 - E.S.S. Mega]]
+
+[[1992 - Bargon Attack]]
+
+[[1992 - Ween - The Prophecy]]
+
+[[1993 - Lost in Time]]
+
+[[1995 - The Last Dynasty]]
+
+[[1996 - Urban Runner]]
 ## References
 
 [^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game

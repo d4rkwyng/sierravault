@@ -204,6 +204,34 @@ The game represents Impressions Games' continued experimentation with historical
 
 - [[1992 - Air Force Commander|← Previous: Air Force Commander]]
 - [[1992 - Discovery - In the Steps of Columbus|→ Next: Discovery - In the Steps of Columbus]]
+
+[[1991 - Cohort Fighting for Rome]]
+
+[[1991 - Fort Apache]]
+
+[[1991 - Merchant Colony]]
+
+[[1992 - Air Bucks]]
+
+[[1993 - Cohort II - Fighting for Rome]]
+
+[[1993 - WW2 Air Force Commander]]
+
+[[1994 - Detroit]]
+
+[[1994 - Front Lines]]
+
+[[1995 - Breach 3]]
+
+[[1995 - Casino De Luxe]]
+
+[[1995 - Conqueror - A.D. 1086]]
+
+[[1995 - Powerhouse]]
+
+[[1996 - Casino Deluxe 2]]
+
+[[2002 - Emperor - Rise of the Middle Kingdom]]
 ## References
 
 [^ref-1]: [MobyGames – Conquest of Japan](https://www.mobygames.com/game/11701/conquest-of-japan/) – release dates, platforms, developer, publisher, critics score, technical specs

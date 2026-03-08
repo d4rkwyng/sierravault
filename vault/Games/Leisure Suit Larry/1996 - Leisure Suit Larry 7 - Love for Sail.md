@@ -303,6 +303,26 @@ Al Lowe himself reflected on the end of the adventure game era when cleaning out
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|← Previous: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 - [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+
+[[2013 - Leisure Suit Larry - Reloaded]]
+
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards

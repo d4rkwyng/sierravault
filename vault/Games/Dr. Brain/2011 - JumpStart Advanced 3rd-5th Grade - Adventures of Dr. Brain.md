@@ -203,6 +203,18 @@ This transition mirrors broader trends in the educational software market of the
 - **Related JumpStart Titles:** JumpStart Adventures series
 
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
+
+[[1991 - Castle of Dr. Brain]]
+
+[[1992 - The Island of Dr. Brain]]
+
+[[1995 - The Lost Mind of Dr. Brain]]
+
+[[1996 - The Time Warp of Dr. Brain]]
+
+[[1998 - Dr. Brain Thinking Games - IQ Adventure]]
+
+[[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
 ## References
 
 [^ref-1]: [Softonic – JumpStart Advanced 3rd-5th Grade Adventures of Dr. Brain](https://jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.en.softonic.com/mac) – rating, description, system requirements

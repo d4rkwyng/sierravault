@@ -121,6 +121,7 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 ## See Also
 
 
+[[1998 - Head Rush]]
 ## References
 
 [^ref-1]: [MobyGames - Eat My Dust](https://www.mobygames.com/search/?q=Eat+My+Dust) – - Basic game information and release details

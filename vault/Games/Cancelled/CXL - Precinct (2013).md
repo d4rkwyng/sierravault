@@ -222,6 +222,24 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 ## See Also
 - **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
+
+[[CXL - Babylon 5 - Into the Fire]]
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - King's Quest IX]]
+
+[[CXL - Leisure Suit Larry 8]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Middle-earth Online]]
+
+[[CXL - Red Baron (2013 Remake)]]
+
+[[CXL - SWAT - Urban Justice]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## References
 
 [^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets

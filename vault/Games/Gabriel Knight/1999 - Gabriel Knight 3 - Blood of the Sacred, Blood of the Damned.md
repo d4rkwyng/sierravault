@@ -137,6 +137,8 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 - [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] – HD remake
 - [[Gabriel Knight Series]] - Series overview
 - [[1995 - The Beast Within - A Gabriel Knight Mystery|← Previous: The Beast Within - A Gabriel Knight Mystery]]
+
+[[TBD - Gabriel Knight 4 - Five Hearts]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Abandonware DOS search results page

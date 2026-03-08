@@ -157,7 +157,10 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 ## See Also
 
-- [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Next: EcoQuest - Lost Secret of the Rainforest]]
+- **Series:** [[EcoQuest Series]]
+- **Next:** [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Lost Secret of the Rainforest]] (1993)
+- **Related Educational Games:** [[Mixed-Up Mother Goose]], [[Leisure Suit Larry]]
+- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus

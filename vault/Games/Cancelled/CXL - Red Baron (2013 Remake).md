@@ -227,6 +227,24 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 - [[1997 - Red Baron II]] - Last released sequel
 - [[Damon Slye]] - Series creator leading the remake
 
+
+[[CXL - Babylon 5 - Into the Fire]]
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - King's Quest IX]]
+
+[[CXL - Leisure Suit Larry 8]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Middle-earth Online]]
+
+[[CXL - Precinct (2013)]]
+
+[[CXL - SWAT - Urban Justice]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## References
 
 [^ref-1]: [Polygon – The Red Baron is Ready to Fly Again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) – Damon Slye interview, Kickstarter failure analysis, development plans

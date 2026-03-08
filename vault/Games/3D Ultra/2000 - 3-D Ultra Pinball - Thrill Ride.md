@@ -233,6 +233,34 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|← Previous: 3-D Ultra Lionel TrainTown Deluxe]]
 - [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|→ Next: 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+
+[[1995 - 3-D Ultra Pinball]]
+
+[[1996 - 3-D Ultra Pinball - Creep Night]]
+
+[[1997 - 3-D Ultra MiniGolf]]
+
+[[1997 - 3-D Ultra Pinball - The Lost Continent]]
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+
+[[1999 - 3-D Ultra Cool Pool]]
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+
+[[1999 - 3-D Ultra Pinball - Power]]
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+
+[[2000 - Maximum Pool]]
+
+[[2006 - 3D Ultra MiniGolf Adventures]]
+
+[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+
+[[2010 - 3-D Ultra MiniGolf Adventures 2]]
 ## References
 
 [^ref-1]: [Wikipedia – 3-D Ultra Pinball: Thrillride](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Thrillride) – release dates, developers, critical scores, gameplay features, easter eggs

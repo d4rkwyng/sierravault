@@ -195,3 +195,22 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 - **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[Leisure Suit Larry Series]] - Series overview
 - [[Al Lowe]] - Creator and designer
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+
+[[2013 - Leisure Suit Larry - Reloaded]]
+
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

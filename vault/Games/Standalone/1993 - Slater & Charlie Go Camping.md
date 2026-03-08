@@ -19,6 +19,60 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 
 <small style="color: gray">Last updated: January 9, 2026</small>
 
+
+## See Also
+
+[[1981 - Softporn Adventure]]
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Codename - Iceman]]
+
+[[1990 - Jones in the Fast Lane]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Pepper's Adventures in Time]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Fast Attack - High Tech Submarine Warfare]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
 ## Overview
 
 Slater & Charlie Go Camping is an educational interactive storybook released by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms[^ref-1][^ref-2]. The game features Slater the Petrosaur, the protagonist from Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-3]. Together, these dinosaur characters embark on a camping adventure designed to teach children about outdoor safety and nature through interactive storytelling[^ref-2].

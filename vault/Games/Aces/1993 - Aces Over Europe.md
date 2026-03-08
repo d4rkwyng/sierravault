@@ -99,6 +99,8 @@ The game has been discussed in community forums[^ref-28] and manual preservation
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]
 - [[1994 - Aces of the Deep|→ Next: Aces of the Deep]]
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
+
+[[1995 - Command Aces of the Deep]]
 ## Legacy
 
 Aces Over Europe became part of several compilation releases, including the "Aces - The Complete Collector's Edition" in 1995[^ref-17] and "Best Of Sierra Volume 06" in 1998[^ref-18]. The game has been preserved in multiple formats including original floppy disk images[^ref-22] and VCR tape recordings[^ref-21], with media databases documenting its release[^ref-23]. The game's influence extended beyond its initial release, with community modifications and scenarios being preserved through archives like the Internet Archive's Wargamer Depot collection[^ref-19]. The title has maintained a dedicated fanbase, evidenced by over 1,456 votes on GOG.com's community wishlist requesting its re-release[^ref-2]. Game media including cover art[^ref-24] and promotional materials[^ref-25] have been preserved, alongside the official strategy guide documentation[^ref-26].

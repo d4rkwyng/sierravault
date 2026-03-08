@@ -129,6 +129,11 @@ Caesar III inspired numerous spiritual successors and influenced the development
 ## See Also
 
 
+[[1992 - Caesar]]
+
+[[1995 - Caesar II]]
+
+[[2006 - Caesar IV]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Caesar III Search](https://www.abandonwaredos.com/search.php?search=Caesar+III) – - Basic game listing information

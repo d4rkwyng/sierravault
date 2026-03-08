@@ -167,6 +167,14 @@ This game has been included in the following collections:
 - [[Space Quest Series]] - Series overview
 - [[1986 - Space Quest - The Sarien Encounter|← Previous: Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon|→ Next: Space Quest III - The Pirates of Pestulon]]
+
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1993 - Space Quest V - The Next Mutation]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest II](https://en.wikipedia.org/wiki/Space_Quest_II) – SPA Gold Medal, Top 5 Bestsellers ranking
 [^ref-2]: [Sierra Chest – Space Quest II](https://www.sierrachest.com/index.php?a=games&id=10&title=space-quest-2&fld=general) – Sierra history, collections, platforms

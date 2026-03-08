@@ -206,6 +206,36 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 ## See Also
 
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
+
+[[1997 - 3-D Ultra MiniGolf]]
+
+[[1997 - 3-D Ultra Pinball - The Lost Continent]]
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+
+[[1999 - 3-D Ultra Cool Pool]]
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+
+[[1999 - 3-D Ultra Pinball - Power]]
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]
+
+[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+
+[[2000 - Maximum Pool]]
+
+[[2006 - 3D Ultra MiniGolf Adventures]]
+
+[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+
+[[2010 - 3-D Ultra MiniGolf Adventures 2]]
 ## References
 
 [^ref-1]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Game credits, developer info, and user reviews

@@ -137,6 +137,18 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 
 - [[1999 - NASCAR Racing 3|← Previous: NASCAR Racing 3]]
 - [[2002 - NASCAR Racing 2002 Season|→ Next: NASCAR Racing 2002 Season]]
+
+[[1994 - NASCAR Racing]]
+
+[[1996 - NASCAR Racing 2]]
+
+[[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
+
+[[1999 - NASCAR Craftsman Truck Series Racing]]
+
+[[1999 - NASCAR Legends]]
+
+[[2003 - NASCAR Racing 2003 Season]]
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/n4demo) – - Product description

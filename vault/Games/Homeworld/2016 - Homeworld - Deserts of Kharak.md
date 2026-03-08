@@ -120,6 +120,12 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 
 - [[2015 - Homeworld Remastered Collection|← Previous: Homeworld Remastered Collection]]
 - [[2024 - Homeworld 3|→ Next: Homeworld 3]]
+
+[[1999 - Homeworld]]
+
+[[2000 - Homeworld - Cataclysm]]
+
+[[2003 - Homeworld 2]]
 ## References
 
 [^ref-1]: [Homeworld Fandom Wiki](https://homeworld.fandom.com/wiki/Homeworld:_Deserts_of_Kharak) – - Game timeline and setting information

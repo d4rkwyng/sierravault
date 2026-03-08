@@ -270,6 +270,20 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 - [[2000 - Return of The Incredible Machine - Contraptions|← Previous: Return of The Incredible Machine - Contraptions]]
 - [[2011 - The Incredible Machine (2011)|→ Next: The Incredible Machine (2011)]]
 - [[Jeff Tunnell]] - Creator
+
+[[1992 - The Incredible Machine]]
+
+[[1993 - Sid & Al's Incredible Toons]]
+
+[[1993 - The Even More Incredible Machine]]
+
+[[1994 - The Incredible Machine 2]]
+
+[[1994 - The Incredible Toon Machine]]
+
+[[1995 - The Incredible Machine 3.0]]
+
+[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine: Even More Contraptions](https://www.mobygames.com/game/5256/the-incredible-machine-even-more-contraptions/) – release dates, developers, designers, platforms, ratings, awards

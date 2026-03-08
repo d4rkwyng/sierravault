@@ -134,6 +134,24 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 
 - [[1996 - Earthsiege 2|← Previous: Earthsiege 2]]
 - [[1998 - Cyberstorm 2 - Corporate Wars|→ Next: Cyberstorm 2 - Corporate Wars]]
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege Speech Pack]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+
+[[1998 - Starsiege - Tribes]]
+
+[[1999 - Starsiege]]
+
+[[2001 - Tribes 2]]
+
+[[2002 - Tribes - Aerial Assault]]
+
+[[2024 - Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia - MissionForce: CyberStorm](https://en.wikipedia.org/wiki/MissionForce:_CyberStorm) – - Release date and developer information

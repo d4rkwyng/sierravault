@@ -220,6 +220,8 @@ From a preservation standpoint, the game's absence from modern digital storefron
 
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|← Previous: Mixed-Up Mother Goose (SCI Remake)]]
 - [[1995 - Mixed-Up Mother Goose Deluxe|→ Next: Mixed-Up Mother Goose Deluxe]]
+
+[[1987 - Mixed-Up Mother Goose]]
 ## References
 
 [^ref-1]: [AbandonwareGames.net – Mixed-Up Fairy Tales](https://abandonwaregames.net/game/mixed-up-fairy-tales) – developer, publisher, release date, platform, fairy tales included, user rating

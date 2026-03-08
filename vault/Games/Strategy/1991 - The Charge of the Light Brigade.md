@@ -202,6 +202,23 @@ Impressions Games would find greater success with their subsequent city-building
 ## See Also
 
 
+[[1979 - Galactic Empire]]
+
+[[1987 - The Ancient Art of War at Sea]]
+
+[[1991 - V for Victory - D-Day Utah Beach]]
+
+[[1993 - Global Domination]]
+
+[[1994 - Alien Legacy]]
+
+[[1995 - High Seas Trader]]
+
+[[1996 - Birthright - The Gorgon's Alliance]]
+
+[[1996 - Space Bucks]]
+
+[[1996 - The Rise & Rule of Ancient Empires]]
 ## References
 
 [^ref-1]: [Internet Archive – The Charge of the Light Brigade (DOS, 1991)](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – release date, platforms, developer, publisher, historical context

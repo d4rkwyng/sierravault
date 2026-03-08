@@ -318,6 +318,26 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 - [[Leisure Suit Larry Series]] - Series overview
 - [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail]]
 - [[2009 - Leisure Suit Larry - Box Office Bust|→ Next: Leisure Suit Larry - Box Office Bust]]
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2013 - Leisure Suit Larry - Reloaded]]
+
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information

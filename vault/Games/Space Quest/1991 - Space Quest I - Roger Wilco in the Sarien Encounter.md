@@ -192,6 +192,12 @@ This game has been included in the following collections:
 - [[Space Quest Series]] - Series overview
 - [[1989 - Space Quest III - The Pirates of Pestulon|← Previous: Space Quest III - The Pirates of Pestulon]]
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|→ Next: Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1993 - Space Quest V - The Next Mutation]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article
 [^ref-2]: [My Abandonware – Space Quest I VGA](https://www.myabandonware.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter-2m4) – platforms, availability, user reviews

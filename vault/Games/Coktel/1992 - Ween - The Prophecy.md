@@ -219,6 +219,35 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 ## See Also
 
 
+[[1988 - 20000 Leagues Under the Sea]]
+
+[[1988 - African Raiders-01]]
+
+[[1989 - Asterix - Operation Getafix]]
+
+[[1989 - ESS - European Space Simulator]]
+
+[[1989 - Emmanuelle]]
+
+[[1989 - Legend of Djel]]
+
+[[1990 - Cougar Force]]
+
+[[1990 - Geisha]]
+
+[[1991 - A.G.E.]]
+
+[[1991 - E.S.S. Mega]]
+
+[[1991 - Fascination]]
+
+[[1992 - Bargon Attack]]
+
+[[1993 - Lost in Time]]
+
+[[1995 - The Last Dynasty]]
+
+[[1996 - Urban Runner]]
 ## References
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications

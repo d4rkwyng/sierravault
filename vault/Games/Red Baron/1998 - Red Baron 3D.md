@@ -116,6 +116,10 @@ An amusing piece of trivia emerged years after release when someone successfully
 - [[1997 - Red Baron II|← Previous: Red Baron II]]
 - [[1999 - Curse You! Red Baron|→ Next: Curse You! Red Baron]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
+
+[[1992 - Red Baron - Mission Builder]]
+
+[[2008 - Red Baron Arcade]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – - Development credits and technical details

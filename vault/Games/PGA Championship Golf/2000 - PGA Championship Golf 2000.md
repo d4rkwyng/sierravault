@@ -118,6 +118,13 @@ Despite its innovations and critical acclaim, PGA Championship Golf 2000 is not 
 ## See Also
 
 
+[[1998 - PGA Championship Golf]]
+
+[[1999 - PGA Championship Golf 1999 Edition]]
+
+[[2000 - PGA Championship Golf 2000 - Titanium Edition]]
+
+[[2001 - PGA Championship Golf - Collector's Edition]]
 ## References
 
 [^ref-1]: https://www.courant.com/news/connecticut/hc-xpm-2000-07-09-0007172268-story.html - Hartford Courant review providing comprehensive game analysis

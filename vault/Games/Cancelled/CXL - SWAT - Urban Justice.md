@@ -201,6 +201,24 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 ## See Also
 - **Cancelled, replaced by:** [[2005 - SWAT 4]]
 
+
+[[CXL - Babylon 5 - Into the Fire]]
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - King's Quest IX]]
+
+[[CXL - Leisure Suit Larry 8]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Middle-earth Online]]
+
+[[CXL - Precinct (2013)]]
+
+[[CXL - Red Baron (2013 Remake)]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## References
 
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline

@@ -20,6 +20,26 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 
+
+## See Also
+
+[[CXL - Babylon 5 - Into the Fire]]
+
+[[CXL - Front Page Sports - Football Pro '99]]
+
+[[CXL - Leisure Suit Larry 8]]
+
+[[CXL - Manhunter 3]]
+
+[[CXL - Middle-earth Online]]
+
+[[CXL - Precinct (2013)]]
+
+[[CXL - Red Baron (2013 Remake)]]
+
+[[CXL - SWAT - Urban Justice]]
+
+[[CXL - Space Quest VII - Return to Roman Numerals]]
 ## Overview
 
 "King's Quest IX" is an umbrella term for **multiple cancelled attempts** to continue Sierra's flagship adventure game series following [[1998 - King's Quest - Mask of Eternity|King's Quest VIII: Mask of Eternity]] (1998). Between 1998 and 2013, different developers and publishers tried to create a ninth King's Quest, but none reached completion.[^ref-1]

@@ -20,6 +20,60 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 
+
+## See Also
+
+[[1981 - Softporn Adventure]]
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Jones in the Fast Lane]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Pepper's Adventures in Time]]
+
+[[1993 - Slater & Charlie Go Camping]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Fast Attack - High Tech Submarine Warfare]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
 ## Overview
 
 Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line in 1990.[^ref-1] The lead designer was [[Jim Walls]], a former police officer who also created several Police Quest games.[^ref-1] The game represents an ambitious attempt to blend traditional adventure game mechanics with detailed submarine simulation, creating a unique hybrid experience that challenged players in ways few Sierra titles had before.[^ref-2]

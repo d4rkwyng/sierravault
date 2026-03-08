@@ -19,6 +19,42 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 <small style="color: gray">Last updated: January 16, 2026</small>
 
+
+## See Also
+
+[[1993 - Blue Force]]
+
+[[2006 - Al Emmo and the Lost Dutchman's Mine]]
+
+[[2008 - Ace of Aces]]
+
+[[2010 - Gray Matter]]
+
+[[2012 - Cognition - An Erica Reed Thriller]]
+
+[[2013 - Fester Mudd - Curse of the Gold]]
+
+[[2014 - Moebius - Empire Rising]]
+
+[[2014 - Quest for Infamy]]
+
+[[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+
+[[2015 - Order of the Thorne - The King's Challenge]]
+
+[[2018 - Bolt Riley - A Reggae Adventure]]
+
+[[2018 - Hero-U - Rogue to Redemption]]
+
+[[2019 - Mage's Initiation - Reign of the Elements]]
+
+[[2022 - SpaceVenture]]
+
+[[2023 - Colossal Cave 3D Adventure]]
+
+[[2023 - Summer Daze - Tilly's Tale]]
+
+[[TBD - Quest for Infamy - Roehm to Ruin]]
 ## Overview
 
 **Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 following a successful Kickstarter campaign that raised $30,944, the game was designed as a direct sequel to *The King's Challenge* (2016) and promised to deliver a thrilling conclusion to the adventures in the magical land of Uir[^ref-2][^ref-3].

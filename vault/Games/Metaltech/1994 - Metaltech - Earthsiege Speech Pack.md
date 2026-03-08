@@ -218,6 +218,20 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 - Metaltech: Earthsiege Speech Pack (1994)
 - [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: Earthsiege Expansion Pack]] (1995)
 - [[1996 - Earthsiege 2|Earthsiege 2]] (1996)
+
+[[1996 - MissionForce - Cyberstorm]]
+
+[[1998 - Cyberstorm 2 - Corporate Wars]]
+
+[[1998 - Starsiege - Tribes]]
+
+[[1999 - Starsiege]]
+
+[[2001 - Tribes 2]]
+
+[[2002 - Tribes - Aerial Assault]]
+
+[[2024 - Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [MobyGames - Metaltech: EarthSiege Speech Pack](https://www.mobygames.com/game/25267/metaltech-earthsiege-speech-pack/) - Speech Pack entry describing it as an add-on with digitized speech
