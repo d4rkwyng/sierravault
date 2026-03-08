@@ -279,11 +279,11 @@ The game's focus on historical accuracy and cultural research also distinguishes
 
 ## See Also
 
-- **Series:** [[Conquests Series]]
+- **Series:** [[Conquests of Camelot|Conquests Series]]
 - **Previous:** [[1990 - Conquests of Camelot - The Search for the Grail|← Conquests of Camelot]] (1990)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
-- **Related Adventure Games:** [[King's Quest]] (medieval fantasy), [[Quest for Glory]] (adventure-RPG hybrid)
+- **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) – release dates, platforms, awards, design details, bibliography, British English usage
