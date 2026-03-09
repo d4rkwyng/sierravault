@@ -21,7 +21,7 @@ tags: [1990s, civil-war-generals, sierra, strategy]
 
 ## Overview
 
-Civil War Generals 2: Grant, Lee, Sherman represents the pinnacle of historical strategy gaming from the mid-1990s, building upon the foundation established by its acclaimed predecessor Robert E. Lee: Civil War General[^ref-1]. Originally released in 1997 by Sierra Entertainment[^ref-2], this ambitious sequel expanded the scope beyond Confederate General Lee to encompass the full breadth of Civil War leadership, allowing players to command forces under legendary generals from both sides of the conflict[^ref-3]. As one gaming enthusiast noted, "Civil War Generals 2 has been the best Civil War game I could fine as most focus on WWII or other wars"[^ref-4].
+Civil War Generals 2: Grant, Lee, Sherman represents the pinnacle of historical strategy gaming from the mid-1990s, building upon the foundation established by its acclaimed predecessor Robert E. Lee: Civil War General[^ref-1]. Released in 1997 by Sierra Entertainment[^ref-2], this ambitious sequel expanded the scope beyond Confederate General Lee to encompass the full breadth of Civil War leadership, allowing players to command forces under legendary generals from both sides of the conflict[^ref-3]. As one gaming enthusiast noted, "Civil War Generals 2 has been the best Civil War game I could fine as most focus on WWII or other wars"[^ref-4].
 
 The game emerged during a golden age of historical wargaming, when Sierra On-Line was undergoing significant corporate changes under its acquisition by CUC International[^ref-5]. Despite these business upheavals, the development team, led by designers Charles Moylan, Jeffrey Fiske, and Steve Grammont[^ref-6], created what would become "a serious wargame, wrapped in a friendly multimedia package"[^ref-7]. The game's innovative WeGo turn-based system represented a significant advancement in strategy gaming mechanics, where players issue orders simultaneously and then watch a 60-second simulation unfold[^ref-8].
 
@@ -107,10 +107,27 @@ The game's educational value extended beyond entertainment, serving as a bridge 
 
 NPD retail tracking data from September 1996 showed strong commercial performance, with the original Robert E. Lee: Civil War General ranking #8 in the reference software category at a $51 price point across 8,823 stores[^ref-58]. This commercial success validated the market demand for sophisticated historical gaming experiences and paved the way for future educational strategy titles.
 
+## Purchase
+
+Civil War Generals 2: Grant, Lee, Sherman remains accessible through digital preservation platforms and retro gaming marketplaces:
+
+- **GOG.com**: Available with Windows compatibility layers[^ref-60]
+- **MyAbandonware**: Full game files with community support[^ref-61]
+- **Original CD**: Vintage retail copies available on eBay and vintage game markets
+
+The game is officially unavailable through modern storefronts but may be playable on Windows 7/10 with DOSBox or PCem emulation. Community patches and mod support have extended the game's lifespan well beyond its original commercial run.
+
+## Downloads
+
+The following links provide access to the complete game for archival and preservation purposes:
+
+- **GOG**: https://www.gog.com/en/games?query=Robert+E.+Lee%3A+Civil+War+General[^ref-60]
+- **MyAbandonware**: https://www.myabandonware.com/game/grant-lee-sherman-civil-war-2-generals-9zq[^ref-61]
+- **Internet Archive**: Historical game cinematics and documentation available through archive.org[^ref-57]
+
 ## See Also
 
-
-[[1996 - Robert E. Lee - Civil War General]]
+**Series:** [[1996 - Robert E. Lee - Civil War General]] → **1997 - Civil War Generals 2: Grant, Lee, Sherman**
 ## References
 
 [^ref-1]: http://ageod-forum.com/viewtopic.php?t=50764 - AGEOD forum discussion providing detailed insights into game mechanics and modding for Civil War Generals 2
