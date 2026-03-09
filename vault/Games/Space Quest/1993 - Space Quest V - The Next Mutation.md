@@ -240,17 +240,8 @@ This game has been included in the following collections:
 
 ## See Also
 
-- [[Space Quest Series]] - Series overview
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|← Previous: Space Quest IV - Roger Wilco and the Time Rippers]]
-- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|→ Next: Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
-[[1986 - Space Quest - The Sarien Encounter]]
-
-[[1987 - Space Quest II - Vohaul's Revenge]]
-
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest V](https://en.wikipedia.org/wiki/Space_Quest_V) – encyclopedia article
 [^ref-2]: [Dynamix Fandom Wiki – Space Quest V](https://dynamix.fandom.com/wiki/Space_Quest_V%3A_The_Next_Mutation) – development, plot, technical details

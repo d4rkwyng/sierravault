@@ -226,23 +226,8 @@ This game has been included in[^ref-1]:
 
 ## See Also
 
-- [[King's Quest Series]] - Series overview
-- [[1984 - King's Quest - Quest for the Crown|← Previous: King's Quest - Quest for the Crown]]
-- [[1986 - King's Quest III - To Heir Is Human|→ Next: King's Quest III - To Heir Is Human]]
+Series: [[King's Quest: Quest for the Crown]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
-[[1988 - King's Quest IV - The Perils of Rosella]]
-
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-
-[[1994 - King's Quest VII - The Princeless Bride]]
-
-[[1998 - King's Quest - Mask of Eternity]]
-
-[[2015 - King's Quest]]
 ## References
 
 [^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information

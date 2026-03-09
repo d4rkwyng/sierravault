@@ -121,28 +121,8 @@ The title sparked discussions about updating classic gaming franchises for moder
 
 ## See Also
 
-- **Previous (Larry Laffer):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
-- **Previous (series release):** [[2013 - Leisure Suit Larry - Reloaded]]
+Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]] – Series origin
-- [[Leisure Suit Larry Series]] - Series overview
-- [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|→ Next: Leisure Suit Larry - Wet Dreams Dry Twice]]
-
-[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-
-[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-[[1998 - Leisure Suit Larry's Casino]]
-
-[[2004 - Leisure Suit Larry - Magna Cum Laude]]
-
-[[2009 - Leisure Suit Larry - Box Office Bust]]
 ## References
 
 [^ref-1]: [Wikipedia - Leisure Suit Larry: Wet Dreams Don't Dry](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Wet_Dreams_Don't_Dry) – - Release year and series information

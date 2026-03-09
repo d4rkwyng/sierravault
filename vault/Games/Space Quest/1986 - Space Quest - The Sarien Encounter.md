@@ -200,17 +200,8 @@ This game has been included in the following collections:
 
 ## See Also
 
-- VGA Remake: [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]]
-- [[Space Quest Series]] - Series overview
-- [[1987 - Space Quest II - Vohaul's Revenge|→ Next: Space Quest II - Vohaul's Revenge]]
+Series: [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
-
-[[1993 - Space Quest V - The Next Mutation]]
-
-[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)
 [^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) – Sierra history, collections, platforms

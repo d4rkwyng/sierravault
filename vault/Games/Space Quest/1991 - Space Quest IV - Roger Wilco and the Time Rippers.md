@@ -286,24 +286,8 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 ## See Also
 
-**Connections to Previous Games:**
-- Roger's ship, the Aluminum Mallard, was acquired in Space Quest III[^ref-5]
-- Sludge Vohaul, the villain, first appeared in [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]][^ref-4]
-- The time-travel sequence to [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I]] recreates the original game's EGA graphics and Ulence Flats location[^ref-50]
-- A hidden easter egg allows travel to Ortega from Space Quest III, using the same 16-color graphics[^ref-23][^ref-50]
+Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
-**Connections to Future Games:**
-- Roger's son, introduced here, is referenced in later games[^ref-5]
-- The Galaxy Galleria setting would influence mall-like environments in [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]][^ref-4]
-- Gary Owens would return as narrator for Space Quest 6[^ref-32]
-
-**Development Impact:**
-- [[Space Quest Series]] - Series overview
-- [[1993 - Space Quest V - The Next Mutation|→ Next: Space Quest V - The Next Mutation]]
-
-[[1986 - Space Quest - The Sarien Encounter]]
-
-[[1989 - Space Quest III - The Pirates of Pestulon]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) – White Wolf 4/5 review (Jim Trunzo), Amiga 19% reviews
 [^ref-2]: [Sierra Chest – Space Quest IV](https://www.sierrachest.com/index.php?a=games&id=12&title=space-quest-4&fld=general) – Sierra history, collections, platforms

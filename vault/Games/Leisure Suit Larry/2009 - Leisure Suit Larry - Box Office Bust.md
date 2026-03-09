@@ -124,28 +124,8 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 
 ## See Also
 
-- [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe Larry Laffer game
-- [[Leisure Suit Larry Series]] - Series overview
-- [[2004 - Leisure Suit Larry - Magna Cum Laude|← Previous: Leisure Suit Larry - Magna Cum Laude]]
-- [[2013 - Leisure Suit Larry - Reloaded|→ Next: Leisure Suit Larry - Reloaded]]
+Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-
-[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-
-[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-[[1998 - Leisure Suit Larry's Casino]]
-
-[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Box+Office+Bust - Search results page, no specific game information found

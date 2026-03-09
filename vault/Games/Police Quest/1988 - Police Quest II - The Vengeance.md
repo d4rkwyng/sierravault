@@ -259,16 +259,8 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 ## See Also
 
-*The Vengeance* serves as the direct continuation of Sonny Bonds' story, picking up shortly after his successful takedown of the Death Angel in the first game. Now promoted to homicide detective, Sonny must confront his past when Jesse Bains escapes from prison seeking revenge. The game deepens the personal stakes by involving Marie Wilkans—Sonny's love interest from the first game—whose kidnapping drives much of the plot. Sonny's ultimate confrontation with Bains concludes this chapter definitively, setting up Police Quest III's exploration of the consequences when Bains' brother seeks his own vengeance.
+Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
-- [[Police Quest Series]] - Series overview
-- [[1987 - Police Quest - In Pursuit of the Death Angel|← Previous: Police Quest - In Pursuit of the Death Angel]]
-- [[1991 - Police Quest III - The Kindred|→ Next: Police Quest III - The Kindred]]
-
-
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-
-[[1993 - Police Quest - Open Season]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details

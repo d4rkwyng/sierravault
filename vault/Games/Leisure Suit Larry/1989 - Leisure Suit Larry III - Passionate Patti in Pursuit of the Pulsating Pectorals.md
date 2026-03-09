@@ -137,29 +137,8 @@ Modern digital preservation efforts have made the game available through various
 
 ## See Also
 
-- [[Leisure Suit Larry Series]] - Series overview
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|← Previous: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-- [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|→ Next: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-[[1996 - Leisure Suit Larry 7 - Love for Sail]]
-
-[[1998 - Leisure Suit Larry's Casino]]
-
-[[2004 - Leisure Suit Larry - Magna Cum Laude]]
-
-[[2009 - Leisure Suit Larry - Box Office Bust]]
-
-[[2013 - Leisure Suit Larry - Reloaded]]
-
-[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](https://www.adventureclassicgaming.com/index.php/site/reviews/355/) – - Release date and basic information

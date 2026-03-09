@@ -210,19 +210,8 @@ This game has been included in the following collections:
 
 ## See Also
 
-- Fan Sequel: [[2011 - Space Quest - Vohaul Strikes Back|Space Quest: Vohaul Strikes Back]]
-- [[Space Quest Series]] - Series overview
-- [[1993 - Space Quest V - The Next Mutation|← Previous: Space Quest V - The Next Mutation]]
+Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]]
 
-[[1986 - Space Quest - The Sarien Encounter]]
-
-[[1987 - Space Quest II - Vohaul's Revenge]]
-
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article
 [^ref-2]: [Sierra Chest – Space Quest 6](https://www.sierrachest.com/index.php?a=games&id=14&title=space-quest-6&fld=general) – Sierra history, collections, platforms

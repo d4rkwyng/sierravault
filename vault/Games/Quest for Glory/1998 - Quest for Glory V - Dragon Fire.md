@@ -176,17 +176,8 @@ This game has been included in the following collections:
 
 ## See Also
 
-- Final game in the series
-- [[Quest for Glory Series]] - Series overview
-- [[1993 - Quest for Glory IV - Shadows of Darkness|← Previous: Quest for Glory IV - Shadows of Darkness]]
+Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages of War]] • [[Quest for Glory: Shadows of Darkness]]
 
-[[1989 - Quest for Glory I - So You Want to Be a Hero]]
-
-[[1990 - Quest for Glory II - Trial by Fire]]
-
-[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
-
-[[1992 - Quest for Glory III - Wages of War]]
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – history, plot, gameplay, development, reception

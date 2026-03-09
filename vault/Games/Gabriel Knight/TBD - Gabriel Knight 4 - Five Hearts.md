@@ -196,16 +196,9 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 - [Steam – Gabriel Knight Series](https://store.steampowered.com/app/262000/Gabriel_Knight_Sins_of_the_Fathers_20th_Anniversary_Edition/) – Anniversary edition
 
 ## See Also
-- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|← Previous: Gabriel Knight 3]] - Most recent released game
-- [[Gabriel Knight Series]] - Series overview
-- [[Jane Jensen]] - Series creator
 
+Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
 
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation

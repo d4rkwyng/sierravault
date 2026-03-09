@@ -167,27 +167,8 @@ Academic analysis has also examined the series' cultural significance, with the 
 
 ## See Also
 
-- **VGA Remake:** [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-- **HD Remake:** [[2013 - Leisure Suit Larry - Reloaded]]
+Series: [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-- [[1996 - Leisure Suit Larry 7 - Love for Sail]] – Final Al Lowe entry
-- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]] – Larry Laffer's return
-- [[Leisure Suit Larry Series]] - Series overview
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|→ Next: Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-
-[[1998 - Leisure Suit Larry's Casino]]
-
-[[2004 - Leisure Suit Larry - Magna Cum Laude]]
-
-[[2009 - Leisure Suit Larry - Box Office Bust]]
-
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Al Lowe Website - Softporn History](http://www.allowe.com/Larry/softporn.htm) – - Development history and behind-the-scenes information
