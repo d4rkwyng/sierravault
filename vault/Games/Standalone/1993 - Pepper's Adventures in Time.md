@@ -73,6 +73,15 @@ tags: [1990s, educational, 'null', sci, sierra]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Pepper's Adventures in Time]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. Developed by Brightstar, a Seattle-based company acquired by Sierra, the game was designed as an edutainment title that teaches American colonial history through interactive gameplay[^ref-2]. The game follows a young tomboy named Pepper Pumpernickel and her pit bull dog Lockjaw as they travel back in time to 1764 Philadelphia to correct historical anomalies[^ref-3].

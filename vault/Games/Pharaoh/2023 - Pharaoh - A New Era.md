@@ -107,6 +107,8 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 - [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] (2002)
 
 [[2000 - Cleopatra - Queen of the Nile]]
+[[Cleopatra - Queen of the Nile]]
+[[Pharaoh - A New Era]]
 ## References
 
 [^ref-1]: [Rock Paper Shotgun – Pharaoh A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – gameplay changes, graphics, verdict

@@ -58,6 +58,18 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Colossal Cave 3D Adventure]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## Overview
 
 Colossal Cave 3D Adventure is a fully immersive 3D and VR reimagining of the seminal 1976 text adventure game created by William Crowther and Don Woods[^ref-1]. Developed by Cygnus Entertainment and designed by legendary Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], the game marks their return to game development after more than twenty years away from the industry[^ref-2]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure intended for the whole family[^ref-3].

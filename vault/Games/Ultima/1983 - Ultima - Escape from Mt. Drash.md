@@ -199,6 +199,8 @@ The game's historical significance lies not in its gameplay contributions—whic
 
 
 [[1982 - Ultima II - The Revenge of the Enchantress]]
+[[Ultima - Escape from Mt. Drash]]
+[[Ultima II - The Revenge of the Enchantress]]
 ## References
 
 [^ref-1]: [Wikipedia – Ultima: Escape from Mt. Drash](https://en.wikipedia.org/wiki/Ultima:_Escape_from_Mt._Drash) – release date, developer, publisher, technical specifications, sales data, trivia, development history, advertising information

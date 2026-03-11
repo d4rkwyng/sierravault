@@ -248,6 +248,12 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames – The Prophecy](https://www.mobygames.com/game/6218/the-prophecy/) – developer, designer, publisher, platform, technical specifications

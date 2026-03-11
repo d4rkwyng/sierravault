@@ -234,6 +234,15 @@ The game also represents an important artifact of early 2000s fan game developme
 [[2025 - SCP Sierra Conversion Project]]
 
 [[TBD - King's Quest IV Remake (Infamous Adventures)]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – developer, engine, ratings, platform, gameplay description

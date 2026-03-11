@@ -215,6 +215,10 @@ This transition mirrors broader trends in the educational software market of the
 [[1998 - Dr. Brain Thinking Games - IQ Adventure]]
 
 [[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
+[[Dr. Brain - Action Reaction]]
+[[Dr. Brain Thinking Games - IQ Adventure]]
+[[Dr. Brain Thinking Games - Puzzle Madness]]
+[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 ## References
 
 [^ref-1]: [Softonic – JumpStart Advanced 3rd-5th Grade Adventures of Dr. Brain](https://jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain.en.softonic.com/mac) – rating, description, system requirements

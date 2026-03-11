@@ -262,6 +262,11 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
+[[Team Fortress Classic]]
 ## References
 
 [^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history

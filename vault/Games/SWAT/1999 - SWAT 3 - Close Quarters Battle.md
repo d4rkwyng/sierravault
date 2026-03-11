@@ -292,6 +292,13 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [[2006 - SWAT Force]]
 
 [[2007 - SWAT - Target Liberty]]
+[[Police Quest - SWAT]]
+[[Police Quest - SWAT 2]]
+[[SWAT - Global Strike Team]]
+[[SWAT - Target Liberty]]
+[[SWAT 3 - Close Quarters Battle]]
+[[SWAT 4 - The Stetchkov Syndicate]]
+[[SWAT Force]]
 ## References
 
 [^ref-1]: [Wikipedia – SWAT 3: Close Quarters Battle](https://en.wikipedia.org/wiki/SWAT_3:_Close_Quarters_Battle) – release dates, developer, designer, composer, engine, sales data, awards, development timeline, motion capture, aggregate scores

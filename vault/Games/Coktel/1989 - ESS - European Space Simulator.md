@@ -265,6 +265,12 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description

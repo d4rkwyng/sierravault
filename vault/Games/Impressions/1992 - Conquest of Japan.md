@@ -232,6 +232,15 @@ The game represents Impressions Games' continued experimentation with historical
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Conquest of Japan]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Conquest of Japan](https://www.mobygames.com/game/11701/conquest-of-japan/) – release dates, platforms, developer, publisher, critics score, technical specs

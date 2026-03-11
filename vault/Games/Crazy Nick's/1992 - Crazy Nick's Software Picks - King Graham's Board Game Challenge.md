@@ -179,6 +179,11 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Robin Hood's Games of Skill and Chance]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]]
+[[Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+[[Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
+[[Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 ## References
 
 [^ref-1]: [MobyGames Game Database](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Basic game information and metadata

@@ -228,6 +228,10 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [[1993 - Goblins Quest 3]]
 
 [[2026 - Gobliins 6]]
+[[Gobliiins 4]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins 4](https://en.wikipedia.org/wiki/Gobliiins_4) – release date, developer, platform information

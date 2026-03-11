@@ -279,6 +279,15 @@ On the other hand, the game also exemplifies design philosophies that would even
 
 Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones

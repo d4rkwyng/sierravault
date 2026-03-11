@@ -261,6 +261,8 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 [[1983 - Mr. Cool]]
 
 [[1983 - WallWar]]
+[[Sammy Lightfoot]]
+[[WallWar]]
 ## References
 
 [^ref-1]: [Internet Archive – Sammy Lightfoot (1983)](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On_Line) – game description, release date, platforms, genre classification

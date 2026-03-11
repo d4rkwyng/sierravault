@@ -210,6 +210,9 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
+[[Birthright - The Gorgon's Alliance]]
+[[Galactic Empire]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [MobyGames – Galactic Empire (1979)](https://www.mobygames.com/game/53448/galactic-empire/) – release dates, platforms, developer credits, technical specifications, ratings

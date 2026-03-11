@@ -159,6 +159,20 @@ The series' influence can be seen in modern football management games, and its e
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Baseball Pro]]
+[[Front Page Sports - Baseball Pro '96]]
+[[Front Page Sports - Baseball Pro '98]]
+[[Front Page Sports - Football Pro]]
+[[Front Page Sports - Football Pro '95]]
+[[Front Page Sports - Football Pro '96]]
+[[Front Page Sports - Football Pro '97]]
+[[Front Page Sports - Football Pro '98]]
+[[Front Page Sports - Golf]]
+[[Front Page Sports - Ski Racing]]
+[[Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Trophy Rivers]]
+[[Front Page Sports Football 92]]
+[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [MyAbandonware](https://www.myabandonware.com/game/front-page-sports-football-pro-22k) – - Release year and platform information

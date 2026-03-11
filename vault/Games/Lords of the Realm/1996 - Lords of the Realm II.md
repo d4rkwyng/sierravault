@@ -285,6 +285,8 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 - [[1997 - Lords of the Realm II - Siege Pack|→ Next: Lords of the Realm II - Siege Pack]]
 
 [[2004 - Lords of the Realm III]]
+[[Lords of the Realm II]]
+[[Lords of the Realm II - Siege Pack]]
 ## References
 
 [^ref-1]: [MobyGames – Lords of the Realm II](https://www.mobygames.com/game/998/lords-of-the-realm-ii/) – developer, publisher, platforms, ratings, technical specifications

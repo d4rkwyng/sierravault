@@ -194,6 +194,9 @@ The game also stands as a testament to the challenges of software preservation, 
 [[1993 - Turbo Learning - Mega Math]]
 
 [[1994 - Spelling Blizzard]]
+[[Ready Set Read with Bananas Jack]]
+[[Spelling Jungle]]
+[[Turbo Learning - Mega Math]]
 ## References
 
 [^ref-1]: [MobyGames – Spelling Jungle](https://www.mobygames.com/game/662/spelling-jungle/) – developer, publisher, designer, composer, platforms, technical specs, ratings

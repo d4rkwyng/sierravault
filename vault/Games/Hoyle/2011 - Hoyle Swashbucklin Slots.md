@@ -315,6 +315,28 @@ The game's limited documentation and review coverage reflects the challenge face
 [[2008 - Hoyle Puzzle and Board Games]]
 
 [[2016 - Hoyle Casino Games Collection]]
+[[Hoyle Backgammon and Cribbage]]
+[[Hoyle Battling Ships and War]]
+[[Hoyle Blackjack]]
+[[Hoyle Board Games]]
+[[Hoyle Card Games]]
+[[Hoyle Casino Empire]]
+[[Hoyle Casino Games Collection]]
+[[Hoyle Kids Games]]
+[[Hoyle Official Book of Games - Volume 1]]
+[[Hoyle Official Book of Games - Volume 2]]
+[[Hoyle Official Book of Games - Volume 3]]
+[[Hoyle Official Book of Games - Volume 4]]
+[[Hoyle Official Book of Games - Volume 5]]
+[[Hoyle Official Card Games Collection]]
+[[Hoyle Poker]]
+[[Hoyle Puzzle Games]]
+[[Hoyle Puzzle and Board Games]]
+[[Hoyle Slots and Video Poker]]
+[[Hoyle Solitaire and Mahjong Tiles]]
+[[Hoyle Swashbucklin Slots]]
+[[Hoyle Table Games]]
+[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Swashbucklin' Slots](https://gamefaqs.gamespot.com/pc/625642-hoyle-swashbucklin-slots) – release date, developer, publisher, slot game list, user ratings, genre, franchise information

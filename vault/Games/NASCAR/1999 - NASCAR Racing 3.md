@@ -129,6 +129,8 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
+[[NASCAR Racing 3]]
 ## References
 
 [^ref-1]: [MobyGames NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – - Developer, designer, and basic game information

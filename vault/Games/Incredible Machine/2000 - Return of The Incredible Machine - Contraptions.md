@@ -147,6 +147,11 @@ The community around The Incredible Machine remains active decades after release
 [[1995 - The Incredible Machine 3.0]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap

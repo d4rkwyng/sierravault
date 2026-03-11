@@ -199,6 +199,7 @@ Middle Earth Online was never released and is not available for purchase.
 [[CXL - SWAT - Urban Justice]]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
+[[CXL - Middle-earth Online]]
 ## References
 
 [^ref-1]: [LOTR Fandom Wiki – Middle-earth Online](https://lotr.fandom.com/wiki/Middle-earth_Online) – licensing history, developers, timeline

@@ -73,6 +73,15 @@ tags: [1980s, sierra, standalone, strategy]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Kempelen]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Kempelen is a chess program developed by Hungarian programmer Attila Kovács and published by Sierra On-Line for the Commodore 64 in 1986[^ref-1][^ref-2][^ref-3]. Named after Wolfgang von Kempelen, the 18th-century Hungarian inventor who constructed the famous chess-playing automaton known as "The Turk," the software represents one of Sierra's ventures into publishing strategy titles during the mid-1980s[^ref-1][^ref-4]. The program was developed by Andromeda Software and later saw international release on additional platforms including the MSX, where it was published by Pony Canyon, Inc. in Japan in 1988[^ref-5][^ref-6].

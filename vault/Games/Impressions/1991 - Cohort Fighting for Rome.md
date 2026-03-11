@@ -255,6 +255,14 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [Internet Archive – Cohort: Fighting for Rome (MS-DOS)](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Release date, platforms, gameplay description, technical specifications, file size

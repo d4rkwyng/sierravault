@@ -170,6 +170,14 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 [[1982 - Hi-Res Adventure 5 - Time Zone]]
 
 [[1984 - Gelfling Adventure]]
+[[Hi-Res Adventure 0 - Mission Asteroid]]
+[[Hi-Res Adventure 1 - Mystery House]]
+[[Hi-Res Adventure 2 - The Wizard and the Princess]]
+[[Hi-Res Adventure 3 - Cranston Manor]]
+[[Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+[[Hi-Res Adventure 5 - Time Zone]]
+[[Hi-Res Adventure 6 - The Dark Crystal]]
+[[Hi-Res Soccer]]
 ## References
 
 [^ref-1]: [Adventure Gamers - The Dark Crystal](https://adventuregamers.com/games/view/34905) – - Game title, developer, designer, publisher information and story description

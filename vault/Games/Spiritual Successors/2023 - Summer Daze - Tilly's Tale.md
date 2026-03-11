@@ -56,6 +56,17 @@ tags: [2020s, coles, hero-u, sierra]
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## Overview
 
 *Summer Daze: Tilly's Tale* is a visual novel adventure game developed and published by Transolar Games, released on March 28, 2023 for PC platforms and June 15, 2023 for Nintendo Switch[^ref-1][^ref-2]. Created by legendary adventure game designers [[Lori Ann Cole]] and [[Corey Cole]]—the husband-and-wife team behind Sierra On-Line's acclaimed *Quest for Glory* series—the game represents their return to more modestly scaled game development following the financially challenging production of *Hero-U: Rogue to Redemption*[^ref-3][^ref-4].

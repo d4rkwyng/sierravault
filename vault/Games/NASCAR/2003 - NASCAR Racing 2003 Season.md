@@ -316,6 +316,8 @@ The game's influence extends beyond nostalgia. Its netcode and replay systems be
 [[1999 - NASCAR Racing 3]]
 
 [[2001 - NASCAR Racing 4]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
+[[NASCAR Racing 2003 Season]]
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Racing 2003 Season](https://en.wikipedia.org/wiki/NASCAR_Racing_2003_Season) – release dates, reviews, sales data, awards, development history

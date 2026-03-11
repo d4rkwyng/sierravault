@@ -254,6 +254,10 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 [[2000 - PGA Championship Golf 2000 - Titanium Edition]]
 
 [[2001 - PGA Championship Golf - Collector's Edition]]
+[[PGA Championship Golf]]
+[[PGA Championship Golf - Collector's Edition]]
+[[PGA Championship Golf 1999 Edition]]
+[[PGA Championship Golf 2000 - Titanium Edition]]
 ## References
 
 [^ref-1]: [Wikipedia – PGA Championship Golf](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – release dates, ratings, developer info, features, reviews

@@ -263,6 +263,14 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Conqueror: A.D. 1086](https://www.mobygames.com/game/4658/conqueror-ad-1086/) – developer, publisher, composer, ratings, platform information, trivia

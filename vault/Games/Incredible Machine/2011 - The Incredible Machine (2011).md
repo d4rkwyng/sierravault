@@ -294,6 +294,12 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 
 [[2000 - Return of The Incredible Machine - Contraptions]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine](https://www.mobygames.com/game/2473/the-incredible-machine/) – developer, publisher, platforms, awards, ratings, release dates, Easter eggs

@@ -260,6 +260,11 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Deathmatch Classic]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score

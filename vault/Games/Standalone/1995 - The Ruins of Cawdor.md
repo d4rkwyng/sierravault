@@ -259,6 +259,15 @@ The game's Macbeth-inspired setting distinguished it from typical fantasy fare, 
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
+[[The Ruins of Cawdor]]
 ## References
 
 [^ref-1]: [ClassicReload – Ruins of Cawdor](https://classicreload.com/ruins-of-cawdor.html) – historical context, series information, offline patch

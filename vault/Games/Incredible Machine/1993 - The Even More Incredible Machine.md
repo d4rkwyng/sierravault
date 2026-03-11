@@ -252,6 +252,12 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Even More Incredible Machine]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [MobyGames – The Even More Incredible Machine](https://www.mobygames.com/game/3169/the-even-more-incredible-machine/) – developer, publisher, platforms, release dates, critic ratings, media formats

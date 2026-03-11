@@ -261,6 +261,11 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
+[[Police Quest - In Pursuit of the Death Angel]]
+[[Police Quest - In Pursuit of the Death Angel VGA]]
+[[Police Quest - Open Season]]
+[[Police Quest II - The Vengeance]]
+[[Police Quest III - The Kindred]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details

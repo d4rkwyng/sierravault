@@ -353,6 +353,15 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [[1997 - Diablo - Hellfire]]
 
 [[2001 - Arcanum]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
+[[World in Conflict]]
 ## References
 
 [^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info

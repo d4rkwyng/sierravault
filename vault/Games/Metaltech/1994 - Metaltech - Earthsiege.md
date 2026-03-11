@@ -185,6 +185,15 @@ The game has been preserved and made playable on modern systems through the effo
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [MobyGames - Metaltech: Earthsiege](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Developer and publisher information, critical reception

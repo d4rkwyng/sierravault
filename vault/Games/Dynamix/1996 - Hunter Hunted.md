@@ -237,6 +237,9 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 [[1996 - CyberGladiators]]
 
 [[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Hunter Hunted]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [Wikipedia – Hunter Hunted (video game)](https://en.wikipedia.org/wiki/Hunter_Hunted_(video_game)) – release date, developer, publisher, designer, composer, ratings, missions count, Earthsiege connection

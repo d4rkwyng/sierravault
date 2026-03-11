@@ -120,6 +120,15 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 [[1998 - Cyberstorm 2 - Corporate Wars]]
 
 [[1999 - Starsiege]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info

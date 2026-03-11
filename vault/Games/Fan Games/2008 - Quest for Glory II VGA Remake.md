@@ -210,6 +210,16 @@ The remake's success lies not merely in its technical achievements but in its ph
 [[2025 - SCP Sierra Conversion Project]]
 
 [[TBD - King's Quest IV Remake (Infamous Adventures)]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[Quest for Glory II VGA Remake]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating

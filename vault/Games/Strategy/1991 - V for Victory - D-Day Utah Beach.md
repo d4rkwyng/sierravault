@@ -201,6 +201,8 @@ The game's influence extended beyond its immediate series. The similar World at 
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
+[[Birthright - The Gorgon's Alliance]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [MobyGames – V for Victory: Battleset 1 - D-Day Utah Beach - 1944](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/) – developer, publisher, designers, platforms, release dates, ratings, technical specs, version history

@@ -287,6 +287,28 @@ The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
+[[Hoyle Backgammon and Cribbage]]
+[[Hoyle Battling Ships and War]]
+[[Hoyle Blackjack]]
+[[Hoyle Board Games]]
+[[Hoyle Card Games]]
+[[Hoyle Casino Empire]]
+[[Hoyle Casino Games Collection]]
+[[Hoyle Kids Games]]
+[[Hoyle Official Book of Games - Volume 1]]
+[[Hoyle Official Book of Games - Volume 2]]
+[[Hoyle Official Book of Games - Volume 3]]
+[[Hoyle Official Book of Games - Volume 4]]
+[[Hoyle Official Book of Games - Volume 5]]
+[[Hoyle Official Card Games Collection]]
+[[Hoyle Poker]]
+[[Hoyle Puzzle Games]]
+[[Hoyle Puzzle and Board Games]]
+[[Hoyle Slots and Video Poker]]
+[[Hoyle Solitaire and Mahjong Tiles]]
+[[Hoyle Swashbucklin Slots]]
+[[Hoyle Table Games]]
+[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [Amazon UK – Hoyle Casino 2008](https://www.amazon.co.uk/Hoyle-Casino-2008-OLD-VERSION/dp/B000TKB28K) – customer reviews, product description, publisher info, platform compatibility

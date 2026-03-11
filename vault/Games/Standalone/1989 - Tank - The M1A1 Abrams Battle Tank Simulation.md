@@ -74,6 +74,14 @@ tags: [1980s, electronic-battlefield-system, sierra, simulation]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Tank: The M1A1 Abrams Battle Tank Simulation was a serious attempt to model modern armored warfare, placing the player directly in the commander's seat of America's most powerful main battle tank with a focus on procedure and realism rather than arcade action.[^ref-1] Released in 1989 by Spectrum HoloByte, the game was developed by Sphere, Inc. and was intended as the initial release for the publisher's ambitious "Electronic Battlefield System" platform.[^ref-2] The simulation allowed players to control every major function of an M1A1 Abrams tank while commanding operations at multiple levels, from individual vehicle control to full company command of up to 16 tanks.[^ref-3]

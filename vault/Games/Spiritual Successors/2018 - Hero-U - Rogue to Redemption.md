@@ -56,6 +56,17 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## Overview
 
 Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—their first major project in nearly two decades[^ref-2]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].

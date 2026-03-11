@@ -235,6 +235,15 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Front Lines]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Front Lines](https://www.mobygames.com/game/4347/front-lines/) – developer, publisher, designer credits, platform, media formats, aggregate rating, Amiga port information

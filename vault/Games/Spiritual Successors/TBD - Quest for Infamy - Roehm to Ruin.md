@@ -55,6 +55,17 @@ tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 [[2023 - Summer Daze - Tilly's Tale]]
 
 [[TBD - Order of the Thorne - Fortress of Fire]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## Overview
 
 *Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG developed by [[Infamous Quests]] serving as a prequel to their 2014 title *Quest for Infamy*.[^ref-1] The game follows the story behind protagonist Mr. Roehm's escape from the Baron's Castle, exploring the fateful events that led him to flee to the Valley of Krasna where the original game begins.[^ref-2] After years in development, the game entered its final stages with voice recording sessions with lead actor Steve Patrick expected to complete production.[^ref-3]

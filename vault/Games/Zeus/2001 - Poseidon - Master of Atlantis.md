@@ -267,6 +267,8 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 
 - **Compilation:** Acropolis expansion
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
+[[Poseidon - Master of Atlantis]]
+[[Zeus - Master of Olympus]]
 ## References
 
 [^ref-1]: [MobyGames – Poseidon: Zeus Official Expansion](https://www.mobygames.com/game/4293/poseidon-zeus-official-expansion/) – developer, publisher, designer, composer, platform, rating, technical information

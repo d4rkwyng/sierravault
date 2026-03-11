@@ -240,6 +240,7 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 [[CXL - SWAT - Urban Justice]]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
+[[CXL - Precinct (2013)]]
 ## References
 
 [^ref-1]: [Kicktraq – Precinct Campaign](https://www.kicktraq.com/projects/precinctgame/precinct/) – Campaign dates, cancellation information, contemporary news coverage, platform targets

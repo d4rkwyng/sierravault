@@ -214,6 +214,8 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information

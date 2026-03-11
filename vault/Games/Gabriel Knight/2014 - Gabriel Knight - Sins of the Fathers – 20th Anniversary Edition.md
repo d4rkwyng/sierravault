@@ -252,6 +252,11 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 
 Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight 4: Five Hearts]]
 
+[[Gabriel Knight - Sins of the Fathers]]
+[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[Gabriel Knight 4 - Five Hearts]]
+[[The Beast Within - A Gabriel Knight Mystery]]
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms

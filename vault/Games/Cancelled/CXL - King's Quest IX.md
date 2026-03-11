@@ -40,6 +40,7 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 [[CXL - SWAT - Urban Justice]]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
+[[CXL - King's Quest IX]]
 ## Overview
 
 "King's Quest IX" is an umbrella term for **multiple cancelled attempts** to continue Sierra's flagship adventure game series following [[1998 - King's Quest - Mask of Eternity|King's Quest VIII: Mask of Eternity]] (1998). Between 1998 and 2013, different developers and publishers tried to create a ninth King's Quest, but none reached completion.[^ref-1]

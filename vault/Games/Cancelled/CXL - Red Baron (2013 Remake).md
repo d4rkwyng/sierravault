@@ -245,6 +245,7 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 [[CXL - SWAT - Urban Justice]]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
+[[CXL - Red Baron (2013 Remake)]]
 ## References
 
 [^ref-1]: [Polygon – The Red Baron is Ready to Fly Again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) – Damon Slye interview, Kickstarter failure analysis, development plans

@@ -345,6 +345,11 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Half-Life]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Wikipedia – Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) – comprehensive development history, technical details, awards, quotes

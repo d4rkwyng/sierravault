@@ -211,6 +211,8 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
+[[Mine Shaft]]
+[[WallWar]]
 ## References
 
 [^ref-1]: [MobyGames – Mine Shaft](https://www.mobygames.com/game/79/mine-shaft/) – developer, publisher, platforms, release dates, technical specifications, ratings, reviews, trivia, bugs, programming credits

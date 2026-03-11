@@ -252,6 +252,15 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Detroit]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Detroit](https://www.mobygames.com/game/2694/detroit/) – credits, ratings, technical specifications, awards, trivia

@@ -157,6 +157,15 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
+[[Torin's Passage]]
 ## References
 
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information

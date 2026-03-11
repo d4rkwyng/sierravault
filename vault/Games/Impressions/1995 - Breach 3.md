@@ -246,6 +246,15 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Breach 3]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-2]: [MobyGames – Breach 3](https://www.mobygames.com/game/4263/breach-3/) – gameplay description, platform, release year, perspective details

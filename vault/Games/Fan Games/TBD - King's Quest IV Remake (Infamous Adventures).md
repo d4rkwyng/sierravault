@@ -184,6 +184,16 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 [[2021 - King's Quest IV Retold]]
 
 [[2025 - SCP Sierra Conversion Project]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[King's Quest IV Remake (Infamous Adventures)]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: [Infamous Quests Patreon – Small Development Update](https://www.patreon.com/posts/small-update-147963671) – January 2026 development update with screenshots, team quotes, and community comments

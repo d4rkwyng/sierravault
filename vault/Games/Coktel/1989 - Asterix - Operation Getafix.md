@@ -226,6 +226,12 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames – Asterix: Operation Getafix](https://www.mobygames.com/game/12987/asterix-operation-getafix/) — Platform info, Moby Score 6.3, localized titles

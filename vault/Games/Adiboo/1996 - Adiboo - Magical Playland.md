@@ -229,6 +229,8 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 - [[2003 - Adiboo - Paziral's Secret|→ Next: Adiboo - Paziral's Secret]]
 
 [[2004 - Adiboo and the Energy Thieves]]
+[[Adiboo - Magical Playland]]
+[[Adiboo - Paziral's Secret]]
 ## References
 
 [^ref-1]: [Glitchwave – Adiboo Magical Playland](https://glitchwave.com/game/adiboo-magical-playland/) – platforms, developer, release date, user ratings and reviews

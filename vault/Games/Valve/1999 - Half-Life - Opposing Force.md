@@ -327,6 +327,10 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Combine OverWiki – Half-Life: Opposing Force](https://combineoverwiki.net/wiki/Half-Life:_Opposing_Force) – development history, awards, sales data, technical specs, demo information

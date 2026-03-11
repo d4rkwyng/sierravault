@@ -202,6 +202,13 @@ This game has been included in the following collections:
 
 Series: [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
+[[Space Quest - The Sarien Encounter]]
+[[Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+[[Space Quest I - Roger Wilco in the Sarien Encounter]]
+[[Space Quest II - Vohaul's Revenge]]
+[[Space Quest III - The Pirates of Pestulon]]
+[[Space Quest IV - Roger Wilco and the Time Rippers]]
+[[Space Quest V - The Next Mutation]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)
 [^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) – Sierra history, collections, platforms

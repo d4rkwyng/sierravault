@@ -152,6 +152,16 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Earthsiege 2]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details

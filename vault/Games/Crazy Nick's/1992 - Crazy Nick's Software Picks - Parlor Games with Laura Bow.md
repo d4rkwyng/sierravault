@@ -228,6 +228,11 @@ As a historical artifact, the game documents the budget software market of the e
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+[[Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
+[[Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 ## References
 
 [^ref-1]: [Super Adventures in Gaming – Crazy Nick's Software Picks Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-parlor-games.html) – gameplay critique, comparative analysis, technical observations

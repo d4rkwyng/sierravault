@@ -243,6 +243,9 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Quarky & Quaysoo's Turbo Science]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [Abandonware DOS – Quarky & Quaysoo's Turbo Science](https://www.abandonwaredos.com/abandonware-game.php?gid=3226) – release date, developer, publisher, platform, user rating

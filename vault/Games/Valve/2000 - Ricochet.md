@@ -217,6 +217,11 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
+[[Ricochet]]
 ## References
 
 [^ref-1]: [Valve Developer Community - Ricochet](https://developer.valvesoftware.com/wiki/Ricochet) - Technical documentation and development history

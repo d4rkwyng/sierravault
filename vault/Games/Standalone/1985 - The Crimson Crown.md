@@ -74,6 +74,15 @@ tags: [1980s, adventure, sierra, transylvania]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
+[[The Crimson Crown]]
 ## Overview
 
 The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is a graphic adventure game developed by Polarware and designed by Antonio Antiochia.[^ref-1] Released in October 1985 for the Apple II and Commodore 64, with subsequent ports to numerous other platforms throughout 1986, the game serves as the sequel to the original *Transylvania* (1982).[^ref-2] The game was marketed as "a spine-tingling illustrated interactive novel" and represented an evolution of the text adventure genre by combining parser-based gameplay with atmospheric graphics.[^ref-3]

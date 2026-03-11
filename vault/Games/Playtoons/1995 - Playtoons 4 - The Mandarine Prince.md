@@ -187,6 +187,10 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 [[1994 - Playtoons 1 - Uncle Archibald]]
 
 [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
+[[Playtoons 1 - Uncle Archibald]]
+[[Playtoons 2 - The Case of the Counterfeit Collaborator]]
+[[Playtoons 3 - The Secret of the Castle]]
+[[Playtoons 4 - The Mandarine Prince]]
 ## References
 
 [^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, animation creation features

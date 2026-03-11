@@ -259,6 +259,17 @@ Riot Pixels perhaps summarized it best: "Yep, we've already seen everything Fest
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## References
 
 [^ref-2]: [Adventure Classic Gaming – Fester Mudd Review](http://www.adventureclassicgaming.com/index.php/site/reviews/794/) – developer, publisher, platform information

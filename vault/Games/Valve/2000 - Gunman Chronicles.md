@@ -292,6 +292,11 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Gunman Chronicles]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores

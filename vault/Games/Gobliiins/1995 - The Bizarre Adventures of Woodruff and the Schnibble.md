@@ -260,6 +260,10 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 [[2026 - Gobliins 6]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
+[[The Bizarre Adventures of Woodruff and the Schnibble]]
 ## References
 
 [^ref-1]: [Wikipedia – The Bizarre Adventures of Woodruff and the Schnibble](https://en.wikipedia.org/wiki/The_Bizarre_Adventures_of_Woodruff_and_the_Schnibble) – release dates, review scores, voice cast, development details

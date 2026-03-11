@@ -231,6 +231,12 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[Sid & Al's Incredible Toons]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – credits, ratings, awards, technical specifications, packaging contents

@@ -274,6 +274,13 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Fascination]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game

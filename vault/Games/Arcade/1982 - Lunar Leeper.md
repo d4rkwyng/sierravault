@@ -259,6 +259,8 @@ However, the Leeper character's transition to educational gaming through *Learni
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
+[[Lunar Leeper]]
+[[WallWar]]
 ## References
 
 [^ref-1]: [Internet Archive – Lunar Leeper (Commodore 64)](https://archive.org/details/d64_Lunar_Leeper_1982_Sierra_Online) – release dates, platforms, gameplay description

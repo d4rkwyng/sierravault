@@ -231,6 +231,8 @@ The game's creative premise—controlling a spider through cider factory machine
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
+[[Apple Cider Spider]]
+[[WallWar]]
 ## References
 
 [^ref-1]: [Internet Archive – Apple Cider Spider (woz-a-day)](https://archive.org/details/wozaday_Apple_Cider_Spider) – release date, developer, publisher, system requirements, preservation information

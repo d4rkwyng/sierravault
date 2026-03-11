@@ -239,6 +239,17 @@ Modern players can run the Windows version through compatibility modes, though s
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
+[[3-D Ultra Lionel TrainTown]]
+[[3-D Ultra Lionel TrainTown Deluxe]]
+[[3-D Ultra MiniGolf]]
+[[3-D Ultra MiniGolf Deluxe]]
+[[3-D Ultra Pinball - Creep Night]]
+[[3-D Ultra Pinball - Power]]
+[[3-D Ultra Pinball - The Lost Continent]]
+[[3-D Ultra Pinball - Thrill Ride]]
+[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+[[3D Ultra MiniGolf Adventures]]
+[[Maximum Pool]]
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details

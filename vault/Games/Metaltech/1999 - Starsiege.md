@@ -272,6 +272,16 @@ The game's legacy is complicated by its commercial failure, which contributed to
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Starsiege](https://en.wikipedia.org/wiki/Starsiege) – release dates, developer, publisher, sales data, aggregate scores, critical reception

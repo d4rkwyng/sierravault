@@ -274,6 +274,11 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: Open Season]]
 
+[[Police Quest - In Pursuit of the Death Angel]]
+[[Police Quest - In Pursuit of the Death Angel VGA]]
+[[Police Quest - Open Season]]
+[[Police Quest II - The Vengeance]]
+[[Police Quest III - The Kindred]]
 ## References
 
 [^ref-1]: [MobyGames – Police Quest: In Pursuit of the Death Angel (VGA)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – release info, credits, ratings, Gazette trivia

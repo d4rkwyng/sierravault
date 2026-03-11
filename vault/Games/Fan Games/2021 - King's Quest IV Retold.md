@@ -251,6 +251,16 @@ The remake bridges generational gaps in gaming accessibility. While the original
 [[2025 - SCP Sierra Conversion Project]]
 
 [[TBD - King's Quest IV Remake (Infamous Adventures)]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[King's Quest IV Retold]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, version details, technical specs, user reviews, download statistics, bugs

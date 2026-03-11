@@ -314,6 +314,10 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Wikipedia – Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) – development history, version info, gameplay mechanics

@@ -232,6 +232,13 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[African Raiders-01]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [Journal Étudiant – African Raiders-01: Une Immersion Rétro](https://www.journaletudiant.com/african-raiders-01-une-immersion-retro-dans-les-sables-du-dakar/) – cultural retrospective, gameplay description, release year 1988

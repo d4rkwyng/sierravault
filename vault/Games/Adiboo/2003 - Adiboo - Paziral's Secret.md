@@ -228,6 +228,8 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 - [[2004 - Adiboo and the Energy Thieves|→ Next: Adiboo and the Energy Thieves]]
 
 [[1992 - A.J.'s World of Discovery]]
+[[Adiboo - Magical Playland]]
+[[Adiboo - Paziral's Secret]]
 ## References
 
 [^ref-1]: [Backloggd – Adiboo and Paziral's Secret](https://backloggd.com/games/adiboo-and-pazirals-secret/) – release dates, platforms, gameplay description, user ratings

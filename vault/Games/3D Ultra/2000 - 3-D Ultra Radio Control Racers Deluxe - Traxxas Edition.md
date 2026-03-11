@@ -251,6 +251,16 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
+[[3-D Ultra Lionel TrainTown]]
+[[3-D Ultra Lionel TrainTown Deluxe]]
+[[3-D Ultra MiniGolf]]
+[[3-D Ultra MiniGolf Deluxe]]
+[[3-D Ultra Pinball - Creep Night]]
+[[3-D Ultra Pinball - Power]]
+[[3-D Ultra Pinball - The Lost Continent]]
+[[3-D Ultra Pinball - Thrill Ride]]
+[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+[[3D Ultra MiniGolf Adventures]]
 ## References
 
 [^ref-1]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/) – developer, publisher, designers, ESRB rating, box quotes

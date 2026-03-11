@@ -312,6 +312,13 @@ The game's transition from the Police Quest adventure game format to real-time t
 [[2006 - SWAT Force]]
 
 [[2007 - SWAT - Target Liberty]]
+[[Police Quest - SWAT]]
+[[Police Quest - SWAT 2]]
+[[SWAT - Global Strike Team]]
+[[SWAT - Target Liberty]]
+[[SWAT 3 - Close Quarters Battle]]
+[[SWAT 4 - The Stetchkov Syndicate]]
+[[SWAT Force]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT 2](https://en.wikipedia.org/wiki/Police_Quest:_SWAT_2) – release dates, developers, review scores, sales data, plot summary, version info

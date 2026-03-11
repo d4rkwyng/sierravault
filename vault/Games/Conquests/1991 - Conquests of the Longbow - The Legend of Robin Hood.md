@@ -284,6 +284,8 @@ The game's focus on historical accuracy and cultural research also distinguishes
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
+[[Conquests of Camelot - The Search for the Grail]]
+[[Conquests of the Longbow - The Legend of Robin Hood]]
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of the Longbow](https://en.wikipedia.org/wiki/Conquests_of_the_Longbow:_The_Legend_of_Robin_Hood) – release dates, platforms, awards, design details, bibliography, British English usage

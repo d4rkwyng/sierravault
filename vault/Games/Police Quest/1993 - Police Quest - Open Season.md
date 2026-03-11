@@ -159,6 +159,11 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]]
 
+[[Police Quest - In Pursuit of the Death Angel]]
+[[Police Quest - In Pursuit of the Death Angel VGA]]
+[[Police Quest - Open Season]]
+[[Police Quest II - The Vengeance]]
+[[Police Quest III - The Kindred]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments

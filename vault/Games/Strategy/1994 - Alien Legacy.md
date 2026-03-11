@@ -282,6 +282,9 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
+[[Alien Legacy]]
+[[Birthright - The Gorgon's Alliance]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [MobyGames – Alien Legacy](https://www.mobygames.com/game/1234/alien-legacy/) – ratings, credits, technical specs, user reviews, version information

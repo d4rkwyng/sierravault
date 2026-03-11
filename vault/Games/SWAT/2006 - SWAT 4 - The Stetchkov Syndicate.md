@@ -284,6 +284,13 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [[2003 - SWAT - Global Strike Team]]
 
 [[2007 - SWAT - Target Liberty]]
+[[Police Quest - SWAT]]
+[[Police Quest - SWAT 2]]
+[[SWAT - Global Strike Team]]
+[[SWAT - Target Liberty]]
+[[SWAT 3 - Close Quarters Battle]]
+[[SWAT 4 - The Stetchkov Syndicate]]
+[[SWAT Force]]
 ## References
 
 [^ref-1]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – release dates, developer, publisher, engine information

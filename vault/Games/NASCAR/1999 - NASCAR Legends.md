@@ -244,6 +244,8 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
+[[NASCAR Legends]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date, engine, car configurations, track count

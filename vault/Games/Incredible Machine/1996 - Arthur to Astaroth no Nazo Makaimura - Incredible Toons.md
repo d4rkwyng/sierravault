@@ -222,6 +222,11 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [MobyGames – Arthur to Astaroth no Nazo Makaimura: Incredible Toons](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/) – developer, publisher, release dates, technical specs, ratings, trivia

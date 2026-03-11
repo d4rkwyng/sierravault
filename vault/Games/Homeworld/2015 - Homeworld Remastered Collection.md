@@ -348,6 +348,9 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [[2000 - Homeworld - Cataclysm]]
 
 [[2024 - Homeworld 3]]
+[[Homeworld - Cataclysm]]
+[[Homeworld - Deserts of Kharak]]
+[[Homeworld Remastered Collection]]
 ## References
 
 [^ref-1]: [2K Games – Homeworld Remastered Collection](https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs

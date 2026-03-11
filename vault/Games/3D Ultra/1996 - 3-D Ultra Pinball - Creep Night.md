@@ -141,6 +141,16 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
+[[3-D Ultra Lionel TrainTown]]
+[[3-D Ultra Lionel TrainTown Deluxe]]
+[[3-D Ultra MiniGolf]]
+[[3-D Ultra MiniGolf Deluxe]]
+[[3-D Ultra Pinball - Creep Night]]
+[[3-D Ultra Pinball - Power]]
+[[3-D Ultra Pinball - The Lost Continent]]
+[[3-D Ultra Pinball - Thrill Ride]]
+[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+[[3D Ultra MiniGolf Adventures]]
 ## References
 
 [^ref-1]: [3-D Ultra Pinball: Creep Night - Wikipedia](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Creep_Night) - Review scores, reception details, and development information

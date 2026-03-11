@@ -231,6 +231,9 @@ From a historical perspective, WizType demonstrates how early educational softwa
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
+[[Wizard of Id's WizType]]
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizType DOS](https://archive.org/details/msdos_Wizard_of_Ids_WizType_1984) – release date, platforms, gameplay description, genre classification

@@ -172,6 +172,16 @@ The game remains available through digital distribution platforms, included in t
 
 Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
+[[Leisure Suit Larry - Box Office Bust]]
+[[Leisure Suit Larry - Magna Cum Laude]]
+[[Leisure Suit Larry - Reloaded]]
+[[Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[Leisure Suit Larry - Wet Dreams Dry Twice]]
+[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+[[Leisure Suit Larry 7 - Love for Sail]]
+[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 ## References
 
 [^ref-1]: https://gamesnostalgia.com/game/leisure-suit-larry-6-shape-up-or-slip-out - Gaming nostalgia website noting this is the fifth entry despite being numbered 6

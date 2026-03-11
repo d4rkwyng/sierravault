@@ -266,6 +266,9 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
+[[Birthright - The Gorgon's Alliance]]
+[[The Ancient Art of War at Sea]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [MobyGames – The Ancient Art of War at Sea](https://www.mobygames.com/game/188/the-ancient-art-of-war-at-sea/) – developer, publisher, platforms, release dates, ratings, ship types, technical details

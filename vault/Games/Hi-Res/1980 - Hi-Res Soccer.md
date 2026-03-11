@@ -161,6 +161,14 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
 
 [[1984 - Gelfling Adventure]]
+[[Hi-Res Adventure 0 - Mission Asteroid]]
+[[Hi-Res Adventure 1 - Mystery House]]
+[[Hi-Res Adventure 2 - The Wizard and the Princess]]
+[[Hi-Res Adventure 3 - Cranston Manor]]
+[[Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+[[Hi-Res Adventure 5 - Time Zone]]
+[[Hi-Res Adventure 6 - The Dark Crystal]]
+[[Hi-Res Soccer]]
 ## References
 
 [^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information

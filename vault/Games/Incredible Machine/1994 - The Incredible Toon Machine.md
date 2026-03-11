@@ -229,6 +229,12 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
+[[The Incredible Toon Machine]]
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score

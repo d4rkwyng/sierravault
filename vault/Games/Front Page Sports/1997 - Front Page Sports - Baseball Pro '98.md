@@ -256,6 +256,20 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Baseball Pro]]
+[[Front Page Sports - Baseball Pro '96]]
+[[Front Page Sports - Baseball Pro '98]]
+[[Front Page Sports - Football Pro]]
+[[Front Page Sports - Football Pro '95]]
+[[Front Page Sports - Football Pro '96]]
+[[Front Page Sports - Football Pro '97]]
+[[Front Page Sports - Football Pro '98]]
+[[Front Page Sports - Golf]]
+[[Front Page Sports - Ski Racing]]
+[[Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Trophy Rivers]]
+[[Front Page Sports Football 92]]
+[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – release date, developer, publisher, platform, GameRankings score

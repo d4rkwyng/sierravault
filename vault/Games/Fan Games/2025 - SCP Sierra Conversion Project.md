@@ -162,6 +162,15 @@ Their work also serves as historical documentation, demonstrating that the tools
 [[2021 - King's Quest IV Retold]]
 
 [[TBD - King's Quest IV Remake (Infamous Adventures)]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." December 2025. [https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html)

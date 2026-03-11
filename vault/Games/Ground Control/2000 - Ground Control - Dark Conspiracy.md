@@ -245,6 +245,8 @@ The game's legacy is preserved through digital distribution on platforms like GO
 
 - [[2000 - Ground Control|← Previous: Ground Control]]
 - [[2004 - Ground Control II - Operation Exodus|→ Next: Ground Control II - Operation Exodus]]
+[[Ground Control - Dark Conspiracy]]
+[[Ground Control II - Operation Exodus]]
 ## References
 
 [^ref-1]: [Wikipedia – Ground Control: Dark Conspiracy](https://en.wikipedia.org/wiki/Ground_Control%3A_Dark_Conspiracy) – release dates, developers, publishers, overview

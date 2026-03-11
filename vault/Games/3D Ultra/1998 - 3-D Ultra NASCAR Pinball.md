@@ -203,6 +203,17 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
+[[3-D Ultra Lionel TrainTown]]
+[[3-D Ultra Lionel TrainTown Deluxe]]
+[[3-D Ultra MiniGolf]]
+[[3-D Ultra MiniGolf Deluxe]]
+[[3-D Ultra NASCAR Pinball]]
+[[3-D Ultra Pinball - Creep Night]]
+[[3-D Ultra Pinball - Power]]
+[[3-D Ultra Pinball - The Lost Continent]]
+[[3-D Ultra Pinball - Thrill Ride]]
+[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+[[3D Ultra MiniGolf Adventures]]
 ## References
 
 [^ref-1]: [Never Die Media – 3D Ultra Pinball NASCAR](https://www.neverdiemedia.com/products/3d-ultra-pinball-nascar) – product description, developer information

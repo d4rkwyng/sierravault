@@ -244,6 +244,9 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 [[1984 - Wizard of Id's WizType]]
 
 [[1993 - Kids' Typing]]
+[[Alphabet Blocks]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – credits, release dates, platform information, voice cast, player ratings

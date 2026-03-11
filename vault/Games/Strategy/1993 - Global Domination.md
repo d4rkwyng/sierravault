@@ -202,6 +202,9 @@ This article focuses specifically on the 1993 Impressions Games title.
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
+[[Birthright - The Gorgon's Alliance]]
+[[Global Domination]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings

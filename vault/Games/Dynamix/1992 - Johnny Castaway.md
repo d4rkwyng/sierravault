@@ -190,3 +190,6 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Johnny Castaway]]
+[[Sierra Soccer - World Challenge Edition]]

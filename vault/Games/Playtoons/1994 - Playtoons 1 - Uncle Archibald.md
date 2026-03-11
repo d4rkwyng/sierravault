@@ -199,6 +199,10 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [[1995 - Playtoons 3 - The Secret of the Castle]]
 
 [[1995 - Playtoons 4 - The Mandarine Prince]]
+[[Playtoons 1 - Uncle Archibald]]
+[[Playtoons 2 - The Case of the Counterfeit Collaborator]]
+[[Playtoons 3 - The Secret of the Castle]]
+[[Playtoons 4 - The Mandarine Prince]]
 ## References
 
 [^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description

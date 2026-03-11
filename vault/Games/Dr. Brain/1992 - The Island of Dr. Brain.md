@@ -238,6 +238,11 @@ The series would continue under different developers, with Knowledge Adventure e
 [[1999 - Dr. Brain - Action Reaction]]
 
 [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+[[Dr. Brain - Action Reaction]]
+[[Dr. Brain Thinking Games - IQ Adventure]]
+[[Dr. Brain Thinking Games - Puzzle Madness]]
+[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+[[The Island of Dr. Brain]]
 ## References
 
 [^ref-1]: [Wikipedia – The Island of Dr. Brain](https://en.wikipedia.org/wiki/The_Island_of_Dr._Brain) – release date, developer, publisher, reception, series history

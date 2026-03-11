@@ -193,6 +193,13 @@ This game has been included in the following collections:
 
 Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
+[[Space Quest - The Sarien Encounter]]
+[[Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+[[Space Quest I - Roger Wilco in the Sarien Encounter]]
+[[Space Quest II - Vohaul's Revenge]]
+[[Space Quest III - The Pirates of Pestulon]]
+[[Space Quest IV - Roger Wilco and the Time Rippers]]
+[[Space Quest V - The Next Mutation]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – C&VG 83% review, Game Player's awards
 [^ref-2]: [Sierra Fandom Wiki – Space Quest III](https://sierra.fandom.com/wiki/Space_Quest_III%3A_The_Pirates_of_Pestulon) – plot, technical details

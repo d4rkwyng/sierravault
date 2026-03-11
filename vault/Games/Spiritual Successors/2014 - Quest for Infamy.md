@@ -142,6 +142,18 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## References
 
 [^ref-1]: [Adventure Game Database](https://www.adventuregamedb.com/g/quest_for_infamy) – - Game description and premise

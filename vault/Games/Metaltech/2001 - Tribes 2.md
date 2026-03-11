@@ -124,6 +124,16 @@ The community created extensive modifications and content, including approximate
 [[1998 - Starsiege - Tribes]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 2]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship

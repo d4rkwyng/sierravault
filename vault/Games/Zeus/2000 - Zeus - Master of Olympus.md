@@ -325,6 +325,8 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 ## See Also
 
 - [[2001 - Poseidon - Master of Atlantis|→ Next: Poseidon - Master of Atlantis]]
+[[Poseidon - Master of Atlantis]]
+[[Zeus - Master of Olympus]]
 ## References
 
 [^ref-1]: [Wikipedia – Zeus: Master of Olympus](https://en.wikipedia.org/wiki/Zeus:_Master_of_Olympus) – release dates, awards, critical scores, reception, Polish localization

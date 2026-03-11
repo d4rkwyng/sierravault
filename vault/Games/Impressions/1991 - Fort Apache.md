@@ -202,6 +202,15 @@ The game's mixed reception reflects the tensions between promising premises and 
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Fort Apache]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Fort Apache](https://www.mobygames.com/game/71689/fort-apache/) – release dates, platforms, technical specifications, gameplay description, aggregate ratings

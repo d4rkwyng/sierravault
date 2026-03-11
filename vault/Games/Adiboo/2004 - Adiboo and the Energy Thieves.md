@@ -184,6 +184,9 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [[1992 - A.J.'s World of Discovery]]
 
 [[1996 - Adiboo - Magical Playland]]
+[[Adiboo - Magical Playland]]
+[[Adiboo - Paziral's Secret]]
+[[Adiboo and the Energy Thieves]]
 ## References
 
 [^ref-1]: [MobyGames – The Energy Thieves](https://www.mobygames.com/game/138556/the-energy-thieves/) – developer, publisher, engine, credits, game description, designer credits

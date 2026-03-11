@@ -215,6 +215,9 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
 
 [[2026 - Gobliins 6]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history

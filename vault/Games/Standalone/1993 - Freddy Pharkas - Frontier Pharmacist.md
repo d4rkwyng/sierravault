@@ -74,6 +74,14 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 **Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure game created by Al Lowe and Josh Mandel at Sierra On-Line[^ref-1]. Released in 1993 for DOS and later ported to other platforms, the game represents Sierra's first Western-themed adventure, conceived when Al Lowe noticed "there wasn't a single Western computer game on the market"[^ref-2]. The game follows the adventures of a former gunslinger turned pharmacist in the frontier town of Coarsegold, California[^ref-3].

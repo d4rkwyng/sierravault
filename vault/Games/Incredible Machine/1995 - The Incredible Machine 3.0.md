@@ -238,6 +238,12 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
+[[The Incredible Machine 3.0]]
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Machine Search Results](https://www.mobygames.com/search/?q=The+Incredible+Machine+3.0) – release dates, platforms, version information

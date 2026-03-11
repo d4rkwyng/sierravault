@@ -260,6 +260,8 @@ Red Baron also represented an important step in the maturation of flight simulat
 [[1999 - Curse You! Red Baron]]
 
 [[2008 - Red Baron Arcade]]
+[[Red Baron]]
+[[Red Baron - Mission Builder]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards

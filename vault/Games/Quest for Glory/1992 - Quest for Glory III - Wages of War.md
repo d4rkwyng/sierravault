@@ -152,6 +152,12 @@ This game has been included in the following collections:
 
 Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory: Shadows of Darkness]] • [[Quest for Glory V: Dragon Fire]]
 
+[[Quest for Glory I - So You Want to Be a Hero]]
+[[Quest for Glory I - So You Want to Be a Hero VGA]]
+[[Quest for Glory II - Trial by Fire]]
+[[Quest for Glory III - Wages of War]]
+[[Quest for Glory IV - Shadows of Darkness]]
+[[Quest for Glory V - Dragon Fire]]
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory III: Wages of War](https://en.wikipedia.org/wiki/Quest_for_Glory_III%3A_Wages_of_War) – – history, plot, gameplay, development, reception

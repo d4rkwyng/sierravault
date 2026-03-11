@@ -328,6 +328,8 @@ However, the game's legacy has been complicated by its commercial unavailability
 [[2002 - No One Lives Forever 2]]
 
 [[2003 - Contract J.A.C.K.]]
+[[No One Lives Forever]]
+[[No One Lives Forever 2]]
 ## References
 
 [^ref-1]: [Wikipedia – The Operative: No One Lives Forever](https://en.wikipedia.org/wiki/The_Operative:_No_One_Lives_Forever) – release dates, credits, sales data, awards, development history

@@ -213,6 +213,11 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 
 [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+[[Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
+[[Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 ## References
 
 [^ref-1]: [MobyGames – Roger Wilco's Spaced Out Game Pack](https://www.mobygames.com/game/95475/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/) – game description, credits, technical details

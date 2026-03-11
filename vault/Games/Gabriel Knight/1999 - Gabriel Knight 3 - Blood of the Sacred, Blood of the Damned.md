@@ -135,6 +135,11 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 
 Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
 
+[[Gabriel Knight - Sins of the Fathers]]
+[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[Gabriel Knight 4 - Five Hearts]]
+[[The Beast Within - A Gabriel Knight Mystery]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Abandonware DOS search results page

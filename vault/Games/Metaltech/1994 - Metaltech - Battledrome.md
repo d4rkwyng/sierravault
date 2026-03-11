@@ -254,6 +254,15 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings, media formats, credits

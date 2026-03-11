@@ -214,6 +214,15 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 [[1999 - Starsiege]]
 
 [[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status

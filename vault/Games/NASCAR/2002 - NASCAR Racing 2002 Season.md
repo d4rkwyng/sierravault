@@ -149,6 +149,8 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 [[1999 - NASCAR Legends]]
 
 [[1999 - NASCAR Racing 3]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
+[[NASCAR Racing 2002 Season]]
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – - Developer, designer, and basic game information

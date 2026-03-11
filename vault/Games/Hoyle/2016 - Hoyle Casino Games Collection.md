@@ -360,6 +360,28 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 [[2011 - Hoyle Puzzle and Board Games]]
 
 [[2011 - Hoyle Swashbucklin Slots]]
+[[Hoyle Backgammon and Cribbage]]
+[[Hoyle Battling Ships and War]]
+[[Hoyle Blackjack]]
+[[Hoyle Board Games]]
+[[Hoyle Card Games]]
+[[Hoyle Casino Empire]]
+[[Hoyle Casino Games Collection]]
+[[Hoyle Kids Games]]
+[[Hoyle Official Book of Games - Volume 1]]
+[[Hoyle Official Book of Games - Volume 2]]
+[[Hoyle Official Book of Games - Volume 3]]
+[[Hoyle Official Book of Games - Volume 4]]
+[[Hoyle Official Book of Games - Volume 5]]
+[[Hoyle Official Card Games Collection]]
+[[Hoyle Poker]]
+[[Hoyle Puzzle Games]]
+[[Hoyle Puzzle and Board Games]]
+[[Hoyle Slots and Video Poker]]
+[[Hoyle Solitaire and Mahjong Tiles]]
+[[Hoyle Swashbucklin Slots]]
+[[Hoyle Table Games]]
+[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, developer timeline, sales data, technical issues, spin-offs

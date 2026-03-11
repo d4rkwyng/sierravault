@@ -277,6 +277,8 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
+[[NASCAR Racing]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
 ## References
 
 [^ref-1]: [Wikipedia – NASCAR Racing (video game)](https://en.wikipedia.org/wiki/NASCAR_Racing_(video_game)) – release dates, sales data, critical reception, awards, driver roster

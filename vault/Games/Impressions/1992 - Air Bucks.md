@@ -276,6 +276,15 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Bucks]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
 ## References
 
 [^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year

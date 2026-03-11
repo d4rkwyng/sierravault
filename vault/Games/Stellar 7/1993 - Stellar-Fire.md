@@ -198,6 +198,9 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [[1990 - Stellar 7]]
 
 [[1991 - Nova 9 - The Return of Gir Draxon]]
+[[Nova 9 - The Return of Gir Draxon]]
+[[Stellar 7 - Draxon's Revenge]]
+[[Stellar-Fire]]
 ## References
 
 [^ref-1]: [Dynamix Wiki – Stellar-Fire](https://dynamix.fandom.com/wiki/Stellar-Fire) – developer, publisher, release date, story, gameplay mechanics

@@ -161,6 +161,12 @@ One preservation issue affects the digital versions: "The original release of th
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – Description of Rube Goldberg device gameplay and physics engine

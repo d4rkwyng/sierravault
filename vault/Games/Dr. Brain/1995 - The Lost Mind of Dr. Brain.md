@@ -219,6 +219,11 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 [[1999 - Dr. Brain - Action Reaction]]
 
 [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+[[Dr. Brain - Action Reaction]]
+[[Dr. Brain Thinking Games - IQ Adventure]]
+[[Dr. Brain Thinking Games - Puzzle Madness]]
+[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+[[The Lost Mind of Dr. Brain]]
 ## References
 
 [^ref-1]: [Wikipedia – The Lost Mind of Dr. Brain](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain) – release dates, developers, designers, composers, platforms, awards, Next Generation review

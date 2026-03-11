@@ -244,6 +244,15 @@ The game's historical significance lies primarily in documenting the evolution o
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Powerhouse]]
+[[WW2 Air Force Commander]]
 ## References
 
 [^ref-1]: [MobyGames – WW2 Air Force Commander](https://www.mobygames.com/game/422/ww2-air-force-commander/) – release dates, platforms, designers, publisher, ratings, technical specs

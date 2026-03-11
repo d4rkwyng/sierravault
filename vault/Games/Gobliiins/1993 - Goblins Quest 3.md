@@ -205,6 +205,10 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 [[2026 - Gobliins 6]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
+[[Goblins Quest 3]]
 ## References
 
 [^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information

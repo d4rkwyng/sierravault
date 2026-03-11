@@ -259,6 +259,13 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[Cougar Force]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames – Cougar Force](https://www.mobygames.com/game/25302/cougar-force/) – developer, publisher, release dates, platforms, credits, ratings

@@ -243,6 +243,13 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 [[1993 - Lost in Time]]
 
 [[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[The Last Dynasty]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores

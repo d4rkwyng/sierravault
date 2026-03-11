@@ -264,6 +264,8 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
+[[NASCAR Racing 2]]
+[[NASCAR Racing 2 - Grand National Series Expansion]]
 ## References
 
 [^ref-1]: [MobyGames – NASCAR Racing 2](https://www.mobygames.com/game/1607/nascar-racing-2/) – ratings, awards, credits, technical specifications, sales data

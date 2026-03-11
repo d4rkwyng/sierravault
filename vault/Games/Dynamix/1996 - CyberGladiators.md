@@ -275,6 +275,9 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
+[[CyberGladiators]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [Internet Archive – CyberGladiators](https://archive.org/details/cybergladiators) – Game description, developer/publisher, platform, release year, ESRB rating

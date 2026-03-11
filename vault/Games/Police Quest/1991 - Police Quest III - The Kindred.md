@@ -265,6 +265,11 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
+[[Police Quest - In Pursuit of the Death Angel]]
+[[Police Quest - In Pursuit of the Death Angel VGA]]
+[[Police Quest - Open Season]]
+[[Police Quest II - The Vengeance]]
+[[Police Quest III - The Kindred]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation

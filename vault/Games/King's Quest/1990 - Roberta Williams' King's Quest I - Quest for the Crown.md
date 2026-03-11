@@ -209,6 +209,15 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 
 Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Publication date September 19, 1990

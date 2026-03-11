@@ -266,6 +266,10 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 [[2026 - Gobliins 6]]
+[[Gobliiins]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards

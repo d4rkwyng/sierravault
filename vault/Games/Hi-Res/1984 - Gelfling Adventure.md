@@ -188,6 +188,15 @@ The game is documented in gaming databases and preservation archives.[^ref-12][^
 [[1982 - Hi-Res Adventure 5 - Time Zone]]
 
 [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
+[[Gelfling Adventure]]
+[[Hi-Res Adventure 0 - Mission Asteroid]]
+[[Hi-Res Adventure 1 - Mystery House]]
+[[Hi-Res Adventure 2 - The Wizard and the Princess]]
+[[Hi-Res Adventure 3 - Cranston Manor]]
+[[Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+[[Hi-Res Adventure 5 - Time Zone]]
+[[Hi-Res Adventure 6 - The Dark Crystal]]
+[[Hi-Res Soccer]]
 ## References
 
 [^ref-1]: [Adventure Gamers - Gelfling Adventure](https://adventuregamers.com/games/view/40982) - database listing, platform information

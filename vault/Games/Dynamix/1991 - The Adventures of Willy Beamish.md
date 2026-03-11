@@ -314,6 +314,9 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
+[[The Adventures of Willy Beamish]]
 ## References
 
 [^ref-1]: [MobyGames – The Adventures of Willy Beamish](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/) – ratings, credits, releases, platform information, trivia
