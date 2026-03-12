@@ -113,6 +113,11 @@ The game has inspired fan remakes, including an AGS (Adventure Game Studio) vers
 ## See Also
 
 
+[[1984 - Donald Duck's Playground]]
+
+[[1984 - Mickey's Space Adventure]]
+
+[[1984 - Winnie the Pooh in the Hundred Acre Wood]]
 ## References
 
 [^ref-1]: [MobyGames - The Black Cauldron](https://www.mobygames.com/game/194/the-black-cauldron/) – - Developer and publisher information

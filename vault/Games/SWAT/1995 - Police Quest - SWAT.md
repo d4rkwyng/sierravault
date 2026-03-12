@@ -260,6 +260,18 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 - [[CXL - SWAT - Urban Justice|← Previous: Urban Justice]]
 - [[1998 - Police Quest - SWAT 2|→ Next: Police Quest - SWAT 2]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+
+[[1999 - SWAT 3 - Close Quarters Battle]]
+
+[[2003 - SWAT - Global Strike Team]]
+
+[[2005 - SWAT 4]]
+
+[[2006 - SWAT 4 - The Stetchkov Syndicate]]
+
+[[2006 - SWAT Force]]
+
+[[2007 - SWAT - Target Liberty]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – release dates, platforms, review scores, sales data, technical details

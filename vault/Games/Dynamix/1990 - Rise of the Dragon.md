@@ -270,6 +270,30 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 ## See Also
 
 
+[[1984 - Sword of Kadash]]
+
+[[1989 - David Wolf - Secret Agent]]
+
+[[1991 - Heart of China]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1992 - Quarky & Quaysoo's Turbo Science]]
+
+[[1994 - Bouncers]]
+
+[[1994 - Sierra Soccer - World Challenge Edition]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Rise of the Dragon]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/648/rise-of-the-dragon/) — Comprehensive database entry with credits, ratings, and Dragon magazine 5/5 review

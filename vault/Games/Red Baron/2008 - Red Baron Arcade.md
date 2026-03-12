@@ -205,6 +205,16 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 - **Next:** None (final entry in series)
 - [[1999 - Curse You! Red Baron|← Previous: Curse You! Red Baron]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
+
+[[1990 - Red Baron]]
+
+[[1992 - Red Baron - Mission Builder]]
+
+[[1997 - Red Baron II]]
+
+[[1998 - Red Baron 3D]]
+[[Red Baron - Mission Builder]]
+[[Red Baron Arcade]]
 ## References
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description

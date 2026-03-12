@@ -138,6 +138,42 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 
 - [[1993 - Front Page Sports - Football Pro|← Previous: Front Page Sports - Football Pro]]
 - [[1994 - Front Page Sports - Football Pro '95|→ Next: Front Page Sports - Football Pro '95]]
+
+[[1992 - Front Page Sports Football 92]]
+
+[[1995 - Front Page Sports - Football Pro '96]]
+
+[[1996 - Front Page Sports - Baseball Pro '96]]
+
+[[1996 - Front Page Sports - Football Pro '97]]
+
+[[1997 - Front Page Sports - Baseball Pro '98]]
+
+[[1997 - Front Page Sports - Football Pro '98]]
+
+[[1997 - Front Page Sports - Golf]]
+
+[[1997 - Front Page Sports - Ski Racing]]
+
+[[1997 - Front Page Sports - Trophy Rivers]]
+
+[[1997 - Front Page Sports Golf - Tour Course Add-On]]
+
+[[1999 - Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Baseball Pro]]
+[[Front Page Sports - Baseball Pro '96]]
+[[Front Page Sports - Baseball Pro '98]]
+[[Front Page Sports - Football Pro]]
+[[Front Page Sports - Football Pro '95]]
+[[Front Page Sports - Football Pro '96]]
+[[Front Page Sports - Football Pro '97]]
+[[Front Page Sports - Football Pro '98]]
+[[Front Page Sports - Golf]]
+[[Front Page Sports - Ski Racing]]
+[[Front Page Sports - Ski Racing 99]]
+[[Front Page Sports - Trophy Rivers]]
+[[Front Page Sports Football 92]]
+[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – - Basic game information and development details

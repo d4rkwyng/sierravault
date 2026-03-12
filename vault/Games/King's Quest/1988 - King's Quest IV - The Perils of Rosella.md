@@ -259,9 +259,17 @@ Rosella would return in King's Quest VII: The Princeless Bride, and her rescuer 
 
 ## See Also
 
-- [[King's Quest Series]] - Series overview
-- [[1986 - King's Quest III - To Heir Is Human|← Previous: King's Quest III - To Heir Is Human]]
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|→ Next: King's Quest V - Absence Makes the Heart Go Yonder]]
+Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
+
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [Adventure Gamers - King's Quest IV](https://adventuregamers.com/games/kings-quest-iv-the-perils-of-rosella) – - Review score (3.5/5), groundbreaking firsts, editorial verdict

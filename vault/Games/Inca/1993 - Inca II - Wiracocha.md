@@ -131,6 +131,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 ## See Also
 
 
+[[1992 - Inca]]
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – - Search results page with limited game information

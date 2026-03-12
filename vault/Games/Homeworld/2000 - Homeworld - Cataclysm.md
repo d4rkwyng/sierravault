@@ -133,6 +133,14 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
+
+[[2015 - Homeworld Remastered Collection]]
+
+[[2016 - Homeworld - Deserts of Kharak]]
+
+[[2024 - Homeworld 3]]
+[[Homeworld - Cataclysm]]
+[[Homeworld - Deserts of Kharak]]
 ## References
 
 [^ref-1]: [Wikipedia - Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) – - Basic game information and development details

@@ -192,6 +192,16 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 ## See Also
 
 
+[[1997 - Driver's Education '98]]
+
+[[1998 - Grand Prix Legends]]
+
+[[1998 - Sierra Sports - Bass Fishing]]
+
+[[1999 - Professional Bull Rider]]
+[[Driver's Education '98]]
+[[Sierra Sports - Bass Fishing]]
+[[Sierra Sports Skiing 1999 Edition]]
 ## References
 
 [^ref-1]: [Kagi FastGPT – Sierra Sports Skiing 1999 Edition](kagi_fastgpt_aggregate) – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme

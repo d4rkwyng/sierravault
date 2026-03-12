@@ -202,14 +202,14 @@ This game has been included in the following collections:
 
 ## See Also
 
-*So You Want to Be a Hero* establishes the foundational elements that would define the entire Quest for Glory saga. As the Hero's first adventure, the game introduces the innovative class system, the character import feature that carries progress across all five games, and recurring characters like Erasmus, Fenrus, and the Kattas. The liberation of Spielburg Valley earns the protagonist the title of Hero and connects directly to the sequel—the grateful Kattas invite the Hero to their homeland, and the magic carpet journey to Shapeir at the game's conclusion leads directly into Trial by Fire. This entry's blend of adventure and RPG elements created the template that would make Quest for Glory one of Sierra's most beloved series.
+Series: [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages of War]] • [[Quest for Glory: Shadows of Darkness]] • [[Quest for Glory V: Dragon Fire]]
 
-- **VGA Remake:** [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
-
-- [[1998 - Quest for Glory V - Dragon Fire]] – Series finale
-- [[Quest for Glory Series]] - Series overview
-- [[1990 - Quest for Glory II - Trial by Fire|→ Next: Quest for Glory II - Trial by Fire]]
-
+[[Quest for Glory I - So You Want to Be a Hero]]
+[[Quest for Glory I - So You Want to Be a Hero VGA]]
+[[Quest for Glory II - Trial by Fire]]
+[[Quest for Glory III - Wages of War]]
+[[Quest for Glory IV - Shadows of Darkness]]
+[[Quest for Glory V - Dragon Fire]]
 ## References
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception
 [^ref-2]: [My Abandonware – Hero's Quest](https://www.myabandonware.com/game/hero-s-quest-so-you-want-to-be-a-hero-25k) – platforms, availability

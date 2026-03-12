@@ -333,9 +333,17 @@ This game has been included in[^ref-20][^ref-21]:
 
 ## See Also
 
-- [[King's Quest Series]] - Series overview
-- [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|← Previous: Roberta Williams' King's Quest I - Quest for the Crown]]
-- [[1994 - King's Quest VII - The Princeless Bride|→ Next: King's Quest VII - The Princeless Bride]]
+Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
+
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict

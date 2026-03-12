@@ -230,6 +230,30 @@ The game demonstrates both the creative ambition and technical limitations of mi
 ## See Also
 
 
+[[1984 - Sword of Kadash]]
+
+[[1989 - David Wolf - Secret Agent]]
+
+[[1990 - Rise of the Dragon]]
+
+[[1991 - Heart of China]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1992 - Quarky & Quaysoo's Turbo Science]]
+
+[[1994 - Sierra Soccer - World Challenge Edition]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
+[[Bouncers]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating

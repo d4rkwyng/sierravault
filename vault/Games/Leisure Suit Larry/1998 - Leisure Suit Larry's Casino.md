@@ -191,7 +191,15 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 
 ## See Also
 
-- **Previous (Main Series):** [[1996 - Leisure Suit Larry 7 - Love for Sail]]
-- **Next (Main Series):** [[2004 - Leisure Suit Larry - Magna Cum Laude]]
-- [[Leisure Suit Larry Series]] - Series overview
-- [[Al Lowe]] - Creator and designer
+Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
+[[Leisure Suit Larry - Box Office Bust]]
+[[Leisure Suit Larry - Magna Cum Laude]]
+[[Leisure Suit Larry - Reloaded]]
+[[Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[Leisure Suit Larry - Wet Dreams Dry Twice]]
+[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+[[Leisure Suit Larry 7 - Love for Sail]]
+[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+[[Leisure Suit Larry's Casino]]

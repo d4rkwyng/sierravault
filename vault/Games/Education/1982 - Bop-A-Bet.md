@@ -186,6 +186,24 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 ## See Also
 
 
+[[1982 - Alphabet Blocks]]
+
+[[1983 - Early Math]]
+
+[[1983 - Learning with Leeper]]
+
+[[1984 - Learning with FuzzyWOMP]]
+
+[[1984 - Wizard of Id's WizMath]]
+
+[[1984 - Wizard of Id's WizType]]
+
+[[1992 - Ready, Set, Read with Bananas & Jack]]
+
+[[1993 - Kids' Typing]]
+[[Bop-A-Bet]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics

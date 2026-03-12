@@ -185,10 +185,13 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 
 ## See Also
 
-- **Remake:** [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] (GK1 only)
-- [[Gabriel Knight Series]] - Series overview
-- [[1993 - Gabriel Knight - Sins of the Fathers|← Previous: Gabriel Knight - Sins of the Fathers]]
-- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|→ Next: Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+Series: [[Gabriel Knight: Sins of the Fathers]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
+
+[[Gabriel Knight - Sins of the Fathers]]
+[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[Gabriel Knight 4 - Five Hearts]]
+[[The Beast Within - A Gabriel Knight Mystery]]
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results

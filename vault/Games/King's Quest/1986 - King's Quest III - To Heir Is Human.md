@@ -237,9 +237,17 @@ However, the game also exemplifies the design philosophy that would eventually f
 
 ## See Also
 
-- [[King's Quest Series]] - Series overview
-- [[1985 - King's Quest II - Romancing the Throne|← Previous: King's Quest II - Romancing the Throne]]
-- [[1988 - King's Quest IV - The Perils of Rosella|→ Next: King's Quest IV - The Perils of Rosella]]
+Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
+
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history

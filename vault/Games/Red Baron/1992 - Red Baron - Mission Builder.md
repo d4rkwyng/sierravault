@@ -258,6 +258,12 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 - [[1990 - Red Baron|← Previous: Red Baron]]
 - [[1997 - Red Baron II|→ Next: Red Baron II]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
+
+[[1998 - Red Baron 3D]]
+
+[[1999 - Curse You! Red Baron]]
+
+[[2008 - Red Baron Arcade]]
 ## References
 
 [^ref-2]: [MobyGames – Red Baron: Mission Builder](https://www.mobygames.com/game/2722/red-baron-mission-builder/) – developer, publisher, release date, credits

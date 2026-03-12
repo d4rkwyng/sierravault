@@ -175,3 +175,48 @@ The connections run deep:
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] — WWII Pacific theater flight sim
 - [[1993 - Aces Over Europe|Aces Over Europe]] — WWII European theater flight sim
 - [[Dynamix]] — Sierra subsidiary where Slye created his classic flight sims
+[[1993 - Blue Force]]
+
+[[2006 - Al Emmo and the Lost Dutchman's Mine]]
+
+[[2010 - Gray Matter]]
+
+[[2012 - Cognition - An Erica Reed Thriller]]
+
+[[2013 - Fester Mudd - Curse of the Gold]]
+
+[[2014 - Moebius - Empire Rising]]
+
+[[2014 - Quest for Infamy]]
+
+[[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+
+[[2015 - Order of the Thorne - The King's Challenge]]
+
+[[2018 - Bolt Riley - A Reggae Adventure]]
+
+[[2018 - Hero-U - Rogue to Redemption]]
+
+[[2019 - Mage's Initiation - Reign of the Elements]]
+
+[[2022 - SpaceVenture]]
+
+[[2023 - Colossal Cave 3D Adventure]]
+
+[[2023 - Summer Daze - Tilly's Tale]]
+
+[[TBD - Order of the Thorne - Fortress of Fire]]
+
+[[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Ace of Aces]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]

@@ -104,6 +104,11 @@ The preservation community's continued interest, evidenced by active wishlist ca
 ## See Also
 
 
+[[1987 - Mixed-Up Mother Goose]]
+
+[[1991 - Mixed-Up Fairy Tales]]
+
+[[1995 - Mixed-Up Mother Goose Deluxe]]
 ## References
 
 [^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing

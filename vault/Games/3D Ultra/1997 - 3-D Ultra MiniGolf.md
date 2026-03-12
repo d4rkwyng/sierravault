@@ -204,6 +204,44 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 
 - [[1996 - 3-D Ultra Pinball - Creep Night|← Previous: 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent|→ Next: 3-D Ultra Pinball - The Lost Continent]]
+
+[[1995 - 3-D Ultra Pinball]]
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+
+[[1999 - 3-D Ultra Cool Pool]]
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+
+[[1999 - 3-D Ultra Pinball - Power]]
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]
+
+[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+
+[[2000 - Maximum Pool]]
+
+[[2006 - 3D Ultra MiniGolf Adventures]]
+
+[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+
+[[2010 - 3-D Ultra MiniGolf Adventures 2]]
+[[3-D Ultra Lionel TrainTown]]
+[[3-D Ultra Lionel TrainTown Deluxe]]
+[[3-D Ultra MiniGolf]]
+[[3-D Ultra MiniGolf Deluxe]]
+[[3-D Ultra Pinball - Creep Night]]
+[[3-D Ultra Pinball - Power]]
+[[3-D Ultra Pinball - The Lost Continent]]
+[[3-D Ultra Pinball - Thrill Ride]]
+[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+[[3D Ultra MiniGolf Adventures]]
 ## References
 
 [^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details

@@ -177,6 +177,9 @@ Several bugs and design issues were documented during the game's lifespan:
 ## See Also
 
 
+[[1993 - Fates of Twinion]]
+
+[[1996 - The Realm Online]]
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/The_Shadow_of_Yserbius) – Release date, platform information, and historical details

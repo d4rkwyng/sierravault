@@ -205,6 +205,19 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 
 - **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
+
+[[1991 - Gobliiins]]
+
+[[1992 - Gobliins 2 - The Prince Buffoon]]
+
+[[1993 - Goblins Quest 3]]
+
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+
+[[2026 - Gobliins 6]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history

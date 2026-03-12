@@ -120,6 +120,36 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 ## See Also
 
 
+[[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
+
+[[1980 - Hi-Res Adventure 1 - Mystery House]]
+
+[[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
+
+[[1980 - Hi-Res Cribbage]]
+
+[[1980 - Hi-Res Football]]
+
+[[1980 - Hi-Res Soccer]]
+
+[[1981 - Hi-Res Adventure 3 - Cranston Manor]]
+
+[[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+
+[[1982 - Hi-Res Adventure 5 - Time Zone]]
+
+[[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
+
+[[1984 - Gelfling Adventure]]
+[[Adventure in Serenia]]
+[[Hi-Res Adventure 0 - Mission Asteroid]]
+[[Hi-Res Adventure 1 - Mystery House]]
+[[Hi-Res Adventure 2 - The Wizard and the Princess]]
+[[Hi-Res Adventure 3 - Cranston Manor]]
+[[Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+[[Hi-Res Adventure 5 - Time Zone]]
+[[Hi-Res Adventure 6 - The Dark Crystal]]
+[[Hi-Res Soccer]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Adventure in Serenia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Adventure+in+Serenia&gid=2484) – - User ratings, historical context, and game description

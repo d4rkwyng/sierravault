@@ -145,6 +145,28 @@ One preservation issue affects the digital versions: "The original release of th
 
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
 - [[Jeff Tunnell]] - Creator
+
+[[1993 - The Even More Incredible Machine]]
+
+[[1994 - The Incredible Machine 2]]
+
+[[1994 - The Incredible Toon Machine]]
+
+[[1995 - The Incredible Machine 3.0]]
+
+[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+
+[[2000 - Return of The Incredible Machine - Contraptions]]
+
+[[2001 - The Incredible Machine - Even More Contraptions]]
+
+[[2011 - The Incredible Machine (2011)]]
+[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[Return of The Incredible Machine - Contraptions]]
+[[The Incredible Machine]]
+[[The Incredible Machine (2011)]]
+[[The Incredible Machine - Even More Contraptions]]
+[[The Incredible Machine 2]]
 ## References
 
 [^ref-1]: [Wikipedia - The Incredible Machine](https://en.wikipedia.org/wiki/The_Incredible_Machine_(1993_video_game)) – Description of Rube Goldberg device gameplay and physics engine

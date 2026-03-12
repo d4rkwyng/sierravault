@@ -309,6 +309,40 @@ The team's approach of receiving official licensing before distribution set an i
 ## See Also
 
 
+[[2001 - Space Quest - The Lost Chapter]]
+
+[[2002 - King's Quest II+ - Romancing the Stones]]
+
+[[2003 - Space Quest 0 - Replicated]]
+
+[[2006 - King's Quest III Remake (Infamous Adventures)]]
+
+[[2008 - Quest for Glory II VGA Remake]]
+
+[[2010 - The Silver Lining]]
+
+[[2011 - King's Quest III Redux - To Heir is Human]]
+
+[[2011 - Space Quest - Vohaul Strikes Back]]
+
+[[2011 - Space Quest II VGA Remake]]
+
+[[2012 - Space Quest - Incinerations]]
+
+[[2021 - King's Quest IV Retold]]
+
+[[2025 - SCP Sierra Conversion Project]]
+
+[[TBD - King's Quest IV Remake (Infamous Adventures)]]
+[[King's Quest I VGA Remake]]
+[[King's Quest II+ - Romancing the Stones]]
+[[King's Quest III Redux - To Heir is Human]]
+[[King's Quest III Remake (Infamous Adventures)]]
+[[SCP Sierra Conversion Project]]
+[[Space Quest - Incinerations]]
+[[Space Quest - The Lost Chapter]]
+[[Space Quest - Vohaul Strikes Back]]
+[[Space Quest 0 - Replicated]]
 ## References
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications

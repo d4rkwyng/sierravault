@@ -196,6 +196,12 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 
 - [[1994 - Playtoons 1 - Uncle Archibald|← Previous: Playtoons 1 - Uncle Archibald]]
 - [[1995 - Playtoons 3 - The Secret of the Castle|→ Next: Playtoons 3 - The Secret of the Castle]]
+
+[[1995 - Playtoons 4 - The Mandarine Prince]]
+[[Playtoons 1 - Uncle Archibald]]
+[[Playtoons 2 - The Case of the Counterfeit Collaborator]]
+[[Playtoons 3 - The Secret of the Castle]]
+[[Playtoons 4 - The Mandarine Prince]]
 ## References
 
 [^ref-1]: [MobyGames – Playtoons 2: The Case of the Counterfeit Collaborator](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – developer, publisher, credits, ratings, platforms

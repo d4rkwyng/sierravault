@@ -143,6 +143,33 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege Speech Pack]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+
+[[1996 - Earthsiege 2]]
+
+[[1999 - Starsiege]]
+
+[[2001 - Tribes 2]]
+
+[[2002 - Tribes - Aerial Assault]]
+
+[[2024 - Tribes 3 - Rivals]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - Gold master date

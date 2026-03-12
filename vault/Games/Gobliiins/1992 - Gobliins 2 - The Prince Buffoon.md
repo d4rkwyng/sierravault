@@ -254,6 +254,17 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 
 - [[1991 - Gobliiins|← Previous: Gobliiins]]
 - [[1993 - Goblins Quest 3|→ Next: Goblins Quest 3]]
+
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+
+[[2009 - Gobliiins 4]]
+
+[[2023 - Gobliiins 5 - The Morgloton Invasion]]
+
+[[2026 - Gobliins 6]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-3]: [MobyGames – Gobliins 2: The Prince Buffoon (Atari ST)](http://www.mobygames.com/game/atari-st/gobliins-2-the-prince-buffoon) – game description, developer, publisher, character information

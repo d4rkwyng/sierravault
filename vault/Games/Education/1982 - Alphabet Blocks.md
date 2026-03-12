@@ -238,6 +238,15 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 - [[1983 - Learning with Leeper|Learning with Leeper]] (1983) - Multi-subject educational activities
 - [[1984 - Learning with FuzzyWOMP|Learning with FuzzyWOMP]] (1984) - Interactive learning companion
 - [[1992 - Ready, Set, Read with Bananas & Jack|Ready, Set, Read with Bananas & Jack]] (1992) - Sequel featuring the same coach characters
+
+[[1984 - Wizard of Id's WizMath]]
+
+[[1984 - Wizard of Id's WizType]]
+
+[[1993 - Kids' Typing]]
+[[Alphabet Blocks]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – credits, release dates, platform information, voice cast, player ratings

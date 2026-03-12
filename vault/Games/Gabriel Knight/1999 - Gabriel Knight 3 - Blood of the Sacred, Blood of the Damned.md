@@ -133,10 +133,13 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 
 ## See Also
 
-- [[1993 - Gabriel Knight - Sins of the Fathers]] – Series origin
-- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] – HD remake
-- [[Gabriel Knight Series]] - Series overview
-- [[1995 - The Beast Within - A Gabriel Knight Mystery|← Previous: The Beast Within - A Gabriel Knight Mystery]]
+Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
+
+[[Gabriel Knight - Sins of the Fathers]]
+[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[Gabriel Knight 4 - Five Hearts]]
+[[The Beast Within - A Gabriel Knight Mystery]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Abandonware DOS search results page

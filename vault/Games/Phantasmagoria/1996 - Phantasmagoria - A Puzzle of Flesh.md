@@ -111,6 +111,7 @@ The game's commercial failure and negative critical reception contributed to Sie
 ## See Also
 
 
+[[1995 - Phantasmagoria]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria:+A+Puzzle+of+Flesh&gid=3475 - Basic metadata and user rating

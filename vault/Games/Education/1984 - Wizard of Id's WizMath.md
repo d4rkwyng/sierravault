@@ -192,6 +192,24 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 ## See Also
 
 
+[[1982 - Alphabet Blocks]]
+
+[[1982 - Bop-A-Bet]]
+
+[[1983 - Early Math]]
+
+[[1983 - Learning with Leeper]]
+
+[[1984 - Learning with FuzzyWOMP]]
+
+[[1984 - Wizard of Id's WizType]]
+
+[[1992 - Ready, Set, Read with Bananas & Jack]]
+
+[[1993 - Kids' Typing]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
+[[Wizard of Id's WizMath]]
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – publication metadata, release date, publisher information

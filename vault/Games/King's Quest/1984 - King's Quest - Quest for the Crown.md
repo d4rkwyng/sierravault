@@ -251,9 +251,17 @@ This game has been included in[^ref-8][^ref-9]:
 
 ## See Also
 
-- **SCI Remake:** [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-- [[King's Quest Series]] - Series overview
-- [[1985 - King's Quest II - Romancing the Throne|→ Next: King's Quest II - Romancing the Throne]]
+Series: [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
+
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [The Strong Museum – King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) – – 2020 World Video Game Hall of Fame induction, genre influence quote

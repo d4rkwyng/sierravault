@@ -218,6 +218,14 @@ The game also illustrates the challenges faced by flight simulation developers i
 - [[1998 - Red Baron 3D|← Previous: Red Baron 3D]]
 - [[2008 - Red Baron Arcade|→ Next: Red Baron Arcade]]
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
+
+[[1990 - Red Baron]]
+
+[[1992 - Red Baron - Mission Builder]]
+
+[[1997 - Red Baron II]]
+[[Curse You! Red Baron]]
+[[Red Baron - Mission Builder]]
 ## References
 
 [^ref-1]: [MobyGames – Curse You! Red Baron](https://www.mobygames.com/game/9020/curse-you-red-baron/) – developer, publisher, ratings, series information, release year

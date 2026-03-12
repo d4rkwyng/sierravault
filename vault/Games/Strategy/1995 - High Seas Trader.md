@@ -115,6 +115,26 @@ The title represents an important entry in Sierra's diverse portfolio during the
 ## See Also
 
 
+[[1979 - Galactic Empire]]
+
+[[1987 - The Ancient Art of War at Sea]]
+
+[[1991 - The Charge of the Light Brigade]]
+
+[[1991 - V for Victory - D-Day Utah Beach]]
+
+[[1993 - Global Domination]]
+
+[[1994 - Alien Legacy]]
+
+[[1996 - Birthright - The Gorgon's Alliance]]
+
+[[1996 - Space Bucks]]
+
+[[1996 - The Rise & Rule of Ancient Empires]]
+[[Birthright - The Gorgon's Alliance]]
+[[High Seas Trader]]
+[[V for Victory - D-Day Utah Beach]]
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – - Game description and premise

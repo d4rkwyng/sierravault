@@ -242,6 +242,8 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 
 - **Next:** None (series concluded with rebrand)
 - [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
+
+[[1993 - IndyCar Racing]]
 ## References
 
 [^ref-1]: [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom) – release date, developer, re-release information

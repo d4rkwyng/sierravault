@@ -244,6 +244,10 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 ## See Also
 
 - [[1996 - Front Page Sports - Trophy Bass 2|→ Next: Front Page Sports - Trophy Bass 2]]
+
+[[1999 - Field & Stream - Trophy Bass 3D]]
+
+[[2000 - Field & Stream - Trophy Bass 4]]
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki – Trophy Bass](https://dynamix.fandom.com/wiki/Trophy_Bass) – development credits, ratings, awards, release information

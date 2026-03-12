@@ -250,6 +250,21 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 - **Related:** [[2000 - Counter-Strike]]
 - **Related:** [[2001 - Half-Life - Blue Shift]]
 - [[2000 - Ricochet|← Previous: Ricochet]]
+
+[[1999 - Half-Life - Opposing Force]]
+
+[[1999 - Team Fortress Classic]]
+
+[[2000 - Gunman Chronicles]]
+
+[[2004 - Counter-Strike - Condition Zero]]
+
+[[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Deathmatch Classic]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score

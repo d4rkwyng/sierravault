@@ -222,6 +222,25 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
+
+[[1995 - Police Quest - SWAT]]
+
+[[1998 - Police Quest - SWAT 2]]
+
+[[1999 - SWAT 3 - Close Quarters Battle]]
+
+[[2003 - SWAT - Global Strike Team]]
+
+[[2005 - SWAT 4]]
+
+[[2006 - SWAT 4 - The Stetchkov Syndicate]]
+[[Police Quest - SWAT]]
+[[Police Quest - SWAT 2]]
+[[SWAT - Global Strike Team]]
+[[SWAT - Target Liberty]]
+[[SWAT 3 - Close Quarters Battle]]
+[[SWAT 4 - The Stetchkov Syndicate]]
+[[SWAT Force]]
 ## References
 
 [^ref-1]: [Wikipedia – SWAT: Target Liberty](https://en.wikipedia.org/wiki/SWAT:_Target_Liberty) – release dates, developer, publisher, Metacritic score, platforms

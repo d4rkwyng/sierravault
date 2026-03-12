@@ -127,6 +127,11 @@ The series' legacy lies in its contribution to the football management genre dur
 ## See Also
 
 
+[[1995 - Ultimate Soccer Manager]]
+
+[[1998 - Ultimate Soccer Manager 98]]
+
+[[1999 - Ultimate Soccer Manager 98-99]]
 ## References
 
 [^ref-1]: [MobyGames - Ultimate Soccer Manager 2](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/) – - Basic game information, developers, publishers, and designers

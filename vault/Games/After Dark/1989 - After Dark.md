@@ -123,6 +123,8 @@ The technical influence of After Dark proved substantial, with the software appe
 ## See Also
 
 - [[1991 - More After Dark|→ Next: More After Dark]]
+
+[[1998 - After Dark Games]]
 ## References
 
 [^ref-1]: [Abandonware DOS - After Dark Games Search](https://www.abandonwaredos.com/search.php?search=After+Dark+Games) - Basic game listing showing DOS release in 1993

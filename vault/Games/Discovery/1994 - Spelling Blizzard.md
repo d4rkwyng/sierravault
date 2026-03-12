@@ -200,6 +200,14 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 ## See Also
 
 
+[[1993 - Ready Set Read with Bananas Jack]]
+
+[[1993 - Spelling Jungle]]
+
+[[1993 - Turbo Learning - Mega Math]]
+[[Ready Set Read with Bananas Jack]]
+[[Spelling Blizzard]]
+[[Turbo Learning - Mega Math]]
 ## References
 
 [^ref-1]: [GameFAQs – Spelling Blizzard](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard) – release date, developer, publisher, platforms, user ratings

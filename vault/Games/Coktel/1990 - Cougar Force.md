@@ -230,6 +230,42 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 ## See Also
 
 
+[[1988 - 20000 Leagues Under the Sea]]
+
+[[1988 - African Raiders-01]]
+
+[[1989 - Asterix - Operation Getafix]]
+
+[[1989 - ESS - European Space Simulator]]
+
+[[1989 - Emmanuelle]]
+
+[[1989 - Legend of Djel]]
+
+[[1990 - Geisha]]
+
+[[1991 - A.G.E.]]
+
+[[1991 - E.S.S. Mega]]
+
+[[1991 - Fascination]]
+
+[[1992 - Bargon Attack]]
+
+[[1992 - Ween - The Prophecy]]
+
+[[1993 - Lost in Time]]
+
+[[1995 - The Last Dynasty]]
+
+[[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[Cougar Force]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames – Cougar Force](https://www.mobygames.com/game/25302/cougar-force/) – developer, publisher, release dates, platforms, credits, ratings

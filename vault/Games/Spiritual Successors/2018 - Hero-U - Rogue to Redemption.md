@@ -20,6 +20,53 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 
+
+## See Also
+
+[[1993 - Blue Force]]
+
+[[2006 - Al Emmo and the Lost Dutchman's Mine]]
+
+[[2008 - Ace of Aces]]
+
+[[2010 - Gray Matter]]
+
+[[2012 - Cognition - An Erica Reed Thriller]]
+
+[[2013 - Fester Mudd - Curse of the Gold]]
+
+[[2014 - Moebius - Empire Rising]]
+
+[[2014 - Quest for Infamy]]
+
+[[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+
+[[2015 - Order of the Thorne - The King's Challenge]]
+
+[[2018 - Bolt Riley - A Reggae Adventure]]
+
+[[2019 - Mage's Initiation - Reign of the Elements]]
+
+[[2022 - SpaceVenture]]
+
+[[2023 - Colossal Cave 3D Adventure]]
+
+[[2023 - Summer Daze - Tilly's Tale]]
+
+[[TBD - Order of the Thorne - Fortress of Fire]]
+
+[[TBD - Quest for Infamy - Roehm to Ruin]]
+[[Bolt Riley - A Reggae Adventure]]
+[[Cluck Yegger in Escape From The Planet of The Poultroid]]
+[[Cognition - An Erica Reed Thriller]]
+[[Fester Mudd - Curse of the Gold]]
+[[Hero-U - Rogue to Redemption]]
+[[Mage's Initiation - Reign of the Elements]]
+[[Moebius - Empire Rising]]
+[[Order of the Thorne - Fortress of Fire]]
+[[Order of the Thorne - The King's Challenge]]
+[[Quest for Infamy - Roehm to Ruin]]
+[[Summer Daze - Tilly's Tale]]
 ## Overview
 
 Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—their first major project in nearly two decades[^ref-2]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].

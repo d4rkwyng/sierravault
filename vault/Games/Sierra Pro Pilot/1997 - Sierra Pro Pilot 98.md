@@ -214,6 +214,10 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 - **Previous:** N/A (First in series)
 - **See Also:** Sierra Pro Pilot 99 (1998) (1998)
 - [[1998 - Sierra Pro Pilot '99|→ Next: Sierra Pro Pilot '99]]
+
+[[1998 - Sierra Pro Pilot USA]]
+[[Sierra Pro Pilot '99]]
+[[Sierra Pro Pilot 98]]
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Sierra_Pro_Pilot_98:_The_Complete_Flight_Simulator) - Basic game information, release details, and review scores

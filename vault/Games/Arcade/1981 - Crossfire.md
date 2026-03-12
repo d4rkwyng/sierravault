@@ -219,6 +219,43 @@ The game's influence can be seen in its innovative control scheme and its achiev
 ## See Also
 
 
+[[1981 - Frogger]]
+
+[[1981 - Gobbler]]
+
+[[1981 - Sabotage]]
+
+[[1981 - Threshold]]
+
+[[1982 - Cannonball Blitz]]
+
+[[1982 - Creepy Corridors]]
+
+[[1982 - Dragon's Keep]]
+
+[[1982 - Laf Pak]]
+
+[[1982 - Lunar Leeper]]
+
+[[1982 - Marauder]]
+
+[[1982 - Mouskattack]]
+
+[[1982 - Pest Patrol]]
+
+[[1983 - Apple Cider Spider]]
+
+[[1983 - Aquatron]]
+
+[[1983 - Mine Shaft]]
+
+[[1983 - Mr. Cool]]
+
+[[1983 - Sammy Lightfoot]]
+
+[[1983 - WallWar]]
+[[Crossfire]]
+[[WallWar]]
 ## References
 
 [^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)) – release dates, platforms, awards, contemporary reviews, technical details

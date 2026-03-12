@@ -19,6 +19,69 @@ tags: [1990s, educational, 'null', sci, sierra]
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 
+
+## See Also
+
+[[1981 - Softporn Adventure]]
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Codename - Iceman]]
+
+[[1990 - Jones in the Fast Lane]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Slater & Charlie Go Camping]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Fast Attack - High Tech Submarine Warfare]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Pepper's Adventures in Time]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. Developed by Brightstar, a Seattle-based company acquired by Sierra, the game was designed as an edutainment title that teaches American colonial history through interactive gameplay[^ref-2]. The game follows a young tomboy named Pepper Pumpernickel and her pit bull dog Lockjaw as they travel back in time to 1764 Philadelphia to correct historical anomalies[^ref-3].

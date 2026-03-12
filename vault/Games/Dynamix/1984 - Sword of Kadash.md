@@ -201,6 +201,30 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 ## See Also
 
 
+[[1989 - David Wolf - Secret Agent]]
+
+[[1990 - Rise of the Dragon]]
+
+[[1991 - Heart of China]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1992 - Quarky & Quaysoo's Turbo Science]]
+
+[[1994 - Bouncers]]
+
+[[1994 - Sierra Soccer - World Challenge Edition]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
+[[Sword of Kadash]]
 ## References
 
 [^ref-1]: [Commodore Fandom Wiki – Sword of Kadash](https://commodore.fandom.com/wiki/Sword_of_Kadash) – development history, Chris Cole quotes, design influences, personnel credits

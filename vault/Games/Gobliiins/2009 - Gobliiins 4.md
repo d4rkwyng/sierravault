@@ -220,6 +220,18 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 
 - [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|← Previous: The Bizarre Adventures of Woodruff and the Schnibble]]
 - [[2023 - Gobliiins 5 - The Morgloton Invasion|→ Next: Gobliiins 5 - The Morgloton Invasion]]
+
+[[1991 - Gobliiins]]
+
+[[1992 - Gobliins 2 - The Prince Buffoon]]
+
+[[1993 - Goblins Quest 3]]
+
+[[2026 - Gobliins 6]]
+[[Gobliiins 4]]
+[[Gobliiins 5 - The Morgloton Invasion]]
+[[Gobliins 2 - The Prince Buffoon]]
+[[Gobliins 6]]
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins 4](https://en.wikipedia.org/wiki/Gobliiins_4) – release date, developer, platform information

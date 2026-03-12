@@ -187,6 +187,23 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 ## See Also
 
 
+[[1982 - Alphabet Blocks]]
+
+[[1982 - Bop-A-Bet]]
+
+[[1983 - Early Math]]
+
+[[1983 - Learning with Leeper]]
+
+[[1984 - Wizard of Id's WizMath]]
+
+[[1984 - Wizard of Id's WizType]]
+
+[[1992 - Ready, Set, Read with Bananas & Jack]]
+
+[[1993 - Kids' Typing]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [Wikipedia – Learning with FuzzyWOMP](https://en.wikipedia.org/wiki/Learning_with_FuzzyWOMP) – release date, platform, designers, publisher, awards, price, educational content descriptions, development notes, Creative Computing coverage, wordless design, relationship to Learning with Leeper

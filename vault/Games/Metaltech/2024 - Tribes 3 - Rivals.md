@@ -104,6 +104,31 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 - Tribes: Vengeance (2004) – Irrational Games/Vivendi
 - Tribes: Ascend (2012) – Hi-Rez Studios
 - **Tribes 3: Rivals** (2024) – Prophecy Games
+
+[[1994 - Metaltech - Battledrome]]
+
+[[1994 - Metaltech - Earthsiege Speech Pack]]
+
+[[1994 - Metaltech - Earthsiege]]
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+
+[[1996 - Earthsiege 2]]
+
+[[1996 - MissionForce - Cyberstorm]]
+
+[[1998 - Cyberstorm 2 - Corporate Wars]]
+
+[[1999 - Starsiege]]
+[[Cyberstorm 2 - Corporate Wars]]
+[[Metaltech - Battledrome]]
+[[Metaltech - Earthsiege]]
+[[Metaltech - Earthsiege Expansion Pack]]
+[[Metaltech - Earthsiege Speech Pack]]
+[[MissionForce - Cyberstorm]]
+[[Starsiege - Tribes]]
+[[Tribes - Aerial Assault]]
+[[Tribes 3 - Rivals]]
 ## References
 
 [^ref-1]: [Wikipedia – Tribes 3: Rivals](https://en.wikipedia.org/wiki/Tribes_3:_Rivals) – developer, publisher, engine, release info

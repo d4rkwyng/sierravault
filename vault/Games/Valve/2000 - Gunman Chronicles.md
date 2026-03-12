@@ -278,6 +278,25 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 
 - [[2000 - Counter-Strike|← Previous: Counter-Strike]]
 - [[2000 - Ricochet|→ Next: Ricochet]]
+
+[[1998 - Half-Life]]
+
+[[1999 - Half-Life - Opposing Force]]
+
+[[1999 - Team Fortress Classic]]
+
+[[2001 - Deathmatch Classic]]
+
+[[2001 - Half-Life - Blue Shift]]
+
+[[2004 - Counter-Strike - Condition Zero]]
+
+[[2004 - Half-Life 2]]
+[[Counter-Strike]]
+[[Counter-Strike - Condition Zero]]
+[[Gunman Chronicles]]
+[[Half-Life - Blue Shift]]
+[[Half-Life - Opposing Force]]
 ## References
 
 [^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores

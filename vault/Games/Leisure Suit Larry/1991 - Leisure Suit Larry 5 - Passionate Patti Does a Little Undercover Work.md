@@ -126,9 +126,18 @@ The game achieved commercial success despite mixed critical reception, with the 
 
 ## See Also
 
-- [[Leisure Suit Larry Series]] - Series overview
-- [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|← Previous: Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|→ Next: Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
+
+[[Leisure Suit Larry - Box Office Bust]]
+[[Leisure Suit Larry - Magna Cum Laude]]
+[[Leisure Suit Larry - Reloaded]]
+[[Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[Leisure Suit Larry - Wet Dreams Dry Twice]]
+[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+[[Leisure Suit Larry 7 - Love for Sail]]
+[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 ## References
 
 [^ref-1]: [3rd World Geeks Review](https://3rdworldgeeks.com/2025/09/18/ill-review-anything-leisure-suit-larry-5/) – - Release year and series information

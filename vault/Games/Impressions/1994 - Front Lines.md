@@ -207,6 +207,43 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 
 - [[1994 - Detroit|← Previous: Detroit]]
 - [[1995 - Breach 3|→ Next: Breach 3]]
+
+[[1991 - Cohort Fighting for Rome]]
+
+[[1991 - Fort Apache]]
+
+[[1991 - Merchant Colony]]
+
+[[1992 - Air Bucks]]
+
+[[1992 - Air Force Commander]]
+
+[[1992 - Conquest of Japan]]
+
+[[1992 - Discovery - In the Steps of Columbus]]
+
+[[1993 - Cohort II - Fighting for Rome]]
+
+[[1993 - WW2 Air Force Commander]]
+
+[[1995 - Casino De Luxe]]
+
+[[1995 - Conqueror - A.D. 1086]]
+
+[[1995 - Powerhouse]]
+
+[[1996 - Casino Deluxe 2]]
+
+[[2002 - Emperor - Rise of the Middle Kingdom]]
+[[Air Force Commander]]
+[[Casino Deluxe 2]]
+[[Cohort Fighting for Rome]]
+[[Cohort II - Fighting for Rome]]
+[[Conqueror - A.D. 1086]]
+[[Discovery - In the Steps of Columbus]]
+[[Emperor - Rise of the Middle Kingdom]]
+[[Front Lines]]
+[[Powerhouse]]
 ## References
 
 [^ref-1]: [MobyGames – Front Lines](https://www.mobygames.com/game/4347/front-lines/) – developer, publisher, designer credits, platform, media formats, aggregate rating, Amiga port information

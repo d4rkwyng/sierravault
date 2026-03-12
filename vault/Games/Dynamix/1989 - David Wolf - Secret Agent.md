@@ -196,6 +196,26 @@ As a boxed DOS game from the late 1980s with distinctive packaging and multiple 
 
 - [[1990 - Rise of the Dragon]] - Similar Dynamix action-adventure
 - [[1991 - Heart of China]] - Another Dynamix cinematic adventure
+
+[[1984 - Sword of Kadash]]
+
+[[1991 - The Adventures of Willy Beamish]]
+
+[[1992 - Johnny Castaway]]
+
+[[1992 - Quarky & Quaysoo's Turbo Science]]
+
+[[1994 - Bouncers]]
+
+[[1994 - Sierra Soccer - World Challenge Edition]]
+
+[[1996 - CyberGladiators]]
+
+[[1996 - Hunter Hunted]]
+
+[[1996 - Rama]]
+[[David Wolf - Secret Agent]]
+[[Sierra Soccer - World Challenge Edition]]
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/msdos_David_Wolf_-_Secret_Agent_1989) – Game metadata and release information

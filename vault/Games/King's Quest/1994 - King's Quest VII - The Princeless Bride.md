@@ -276,9 +276,17 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 
 ## See Also
 
-- [[King's Quest Series]] - Series overview
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|← Previous: King's Quest VI - Heir Today, Gone Tomorrow]]
-- [[1998 - King's Quest - Mask of Eternity|→ Next: King's Quest - Mask of Eternity]]
+Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
+
+[[King's Quest - Mask of Eternity]]
+[[King's Quest - Quest for the Crown]]
+[[King's Quest II - Romancing the Throne]]
+[[King's Quest III - To Heir Is Human]]
+[[King's Quest IV - The Perils of Rosella]]
+[[King's Quest V - Absence Makes the Heart Go Yonder]]
+[[King's Quest VI - Heir Today, Gone Tomorrow]]
+[[King's Quest VII - The Princeless Bride]]
+[[Roberta Williams' King's Quest I - Quest for the Crown]]
 ## References
 
 [^ref-1]: [MobyGames – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/) – – ratings, credits, trivia, platforms, reviews

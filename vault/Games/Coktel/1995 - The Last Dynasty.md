@@ -214,6 +214,42 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 ## See Also
 
 
+[[1988 - 20000 Leagues Under the Sea]]
+
+[[1988 - African Raiders-01]]
+
+[[1989 - Asterix - Operation Getafix]]
+
+[[1989 - ESS - European Space Simulator]]
+
+[[1989 - Emmanuelle]]
+
+[[1989 - Legend of Djel]]
+
+[[1990 - Cougar Force]]
+
+[[1990 - Geisha]]
+
+[[1991 - A.G.E.]]
+
+[[1991 - E.S.S. Mega]]
+
+[[1991 - Fascination]]
+
+[[1992 - Bargon Attack]]
+
+[[1992 - Ween - The Prophecy]]
+
+[[1993 - Lost in Time]]
+
+[[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[The Last Dynasty]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores

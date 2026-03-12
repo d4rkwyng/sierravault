@@ -218,6 +218,41 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 ## See Also
 
 
+[[1988 - African Raiders-01]]
+
+[[1989 - Asterix - Operation Getafix]]
+
+[[1989 - ESS - European Space Simulator]]
+
+[[1989 - Emmanuelle]]
+
+[[1989 - Legend of Djel]]
+
+[[1990 - Cougar Force]]
+
+[[1990 - Geisha]]
+
+[[1991 - A.G.E.]]
+
+[[1991 - E.S.S. Mega]]
+
+[[1991 - Fascination]]
+
+[[1992 - Bargon Attack]]
+
+[[1992 - Ween - The Prophecy]]
+
+[[1993 - Lost in Time]]
+
+[[1995 - The Last Dynasty]]
+
+[[1996 - Urban Runner]]
+[[20000 Leagues Under the Sea]]
+[[A.G.E.]]
+[[Asterix - Operation Getafix]]
+[[ESS - European Space Simulator]]
+[[Emmanuelle]]
+[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes

@@ -206,6 +206,24 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 ## See Also
 
 
+[[1982 - Alphabet Blocks]]
+
+[[1982 - Bop-A-Bet]]
+
+[[1983 - Learning with Leeper]]
+
+[[1984 - Learning with FuzzyWOMP]]
+
+[[1984 - Wizard of Id's WizMath]]
+
+[[1984 - Wizard of Id's WizType]]
+
+[[1992 - Ready, Set, Read with Bananas & Jack]]
+
+[[1993 - Kids' Typing]]
+[[Early Math]]
+[[Kids' Typing]]
+[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games

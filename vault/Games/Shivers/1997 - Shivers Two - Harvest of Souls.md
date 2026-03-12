@@ -135,6 +135,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 ## See Also
 
 
+[[1995 - Shivers]]
 ## References
 
 [^ref-1]: [Adventure Classic Gaming Review](http://www.adventureclassicgaming.com/index.php/site/reviews/12/&lang=en) – - Developer, publisher, platform, and release date information

@@ -306,9 +306,12 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 
 ## See Also
 
-- **Next:** None (series concluded)
-- [[Laura Bow Series]] - Series overview
-- [[1989 - The Colonel's Bequest|← Previous: The Colonel's Bequest]]
+- **Series:** [[Laura Bow Series]]
+- **Previous:** [[1989 - The Colonel's Bequest|← The Colonel's Bequest]] (1989)
+- **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[Gabriel Knight - Sins of the Fathers - 20th Anniversary Edition|Gabriel Knight]] (contemporary detective adventure)
+- **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (designer/writer)
+- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
+- **Spiritual Successor:** [[Laura Bow and the Mechanical Codex]] (fan-made 2021 sequel)
 ## References
 
 [^ref-1]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) – release dates, composers, trivia, contemporary reviews

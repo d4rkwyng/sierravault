@@ -136,6 +136,11 @@ The series maintains an active community of enthusiasts who continue to create t
 ## See Also
 
 
+[[1995 - Ultimate Soccer Manager]]
+
+[[1996 - Ultimate Soccer Manager 2]]
+
+[[1999 - Ultimate Soccer Manager 98-99]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Ultimate Soccer Manager Game Page](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Ultimate+Soccer+Manager&gid=1730) – - Game description and overview

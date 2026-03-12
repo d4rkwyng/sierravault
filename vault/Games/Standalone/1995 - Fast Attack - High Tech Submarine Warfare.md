@@ -219,6 +219,65 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 ## See Also
 
 
+[[1981 - Softporn Adventure]]
+
+[[1983 - Troll's Tale]]
+
+[[1985 - Sierra Championship Boxing]]
+
+[[1985 - Stunt Flyer]]
+
+[[1985 - The Crimson Crown]]
+
+[[1986 - Kempelen]]
+
+[[1986 - Wrath of Denethenor]]
+
+[[1987 - 3-D Helicopter Simulator]]
+
+[[1988 - Silpheed]]
+
+[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+
+[[1990 - Codename - Iceman]]
+
+[[1990 - Jones in the Fast Lane]]
+
+[[1990 - Zeliard]]
+
+[[1993 - Freddy Pharkas - Frontier Pharmacist]]
+
+[[1993 - Pepper's Adventures in Time]]
+
+[[1993 - Slater & Charlie Go Camping]]
+
+[[1994 - Battle Bugs]]
+
+[[1995 - Air Cavalry]]
+
+[[1995 - Shannara]]
+
+[[1995 - The Ruins of Cawdor]]
+
+[[1995 - Torin's Passage]]
+
+[[1996 - Lighthouse - The Dark Being]]
+
+[[1996 - Stay Tooned!]]
+
+[[1997 - Diablo - Hellfire]]
+
+[[2001 - Arcanum]]
+
+[[2007 - World in Conflict]]
+[[Arcanum]]
+[[Codename - Iceman]]
+[[Diablo - Hellfire]]
+[[Fast Attack - High Tech Submarine Warfare]]
+[[Freddy Pharkas - Frontier Pharmacist]]
+[[Lighthouse - The Dark Being]]
+[[Slater & Charlie Go Camping]]
+[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## References
 
 [^ref-1]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – developer, publisher, release date, credits, ratings

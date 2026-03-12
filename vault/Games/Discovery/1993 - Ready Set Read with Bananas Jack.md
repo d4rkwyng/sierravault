@@ -198,6 +198,13 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 ## See Also
 
 
+[[1993 - Spelling Jungle]]
+
+[[1993 - Turbo Learning - Mega Math]]
+
+[[1994 - Spelling Blizzard]]
+[[Ready Set Read with Bananas Jack]]
+[[Turbo Learning - Mega Math]]
 ## References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – release dates, platforms, gameplay features, educational mechanics, series information

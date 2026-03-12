@@ -268,6 +268,23 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 - Dr. Brain: Action Reaction (1999)
 
 - [[1992 - The Island of Dr. Brain|→ Next: The Island of Dr. Brain]]
+
+[[1995 - The Lost Mind of Dr. Brain]]
+
+[[1996 - The Time Warp of Dr. Brain]]
+
+[[1998 - Dr. Brain Thinking Games - IQ Adventure]]
+
+[[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
+
+[[1999 - Dr. Brain - Action Reaction]]
+
+[[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+[[Castle of Dr. Brain]]
+[[Dr. Brain - Action Reaction]]
+[[Dr. Brain Thinking Games - IQ Adventure]]
+[[Dr. Brain Thinking Games - Puzzle Madness]]
+[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 ## References
 
 [^ref-1]: [MobyGames – Castle of Dr. Brain](https://www.mobygames.com/game/1523/castle-of-dr-brain/) – developer, publisher, platforms, release dates, composer credits, ratings
