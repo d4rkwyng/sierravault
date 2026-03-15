@@ -14,10 +14,11 @@ last_updated: '2026-01-30'
 description: 3-D Ultra Mini Golf Deluxe is "a minigolf game for the Windows PC, designed
   by Dynamix and published by Sierra. It was released in 1998 as a sequel to the...
 tags: [1990s, 3d-ultra, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Mini Golf Deluxe
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -158,6 +159,23 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Internet Archive - 3-D Ultra Minigolf](https://archive.org/details/3-d-ultra-minigolf) – - Game description and series information

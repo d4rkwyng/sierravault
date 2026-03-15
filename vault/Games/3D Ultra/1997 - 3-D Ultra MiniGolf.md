@@ -14,10 +14,11 @@ last_updated: '2026-02-13'
 description: 3D Ultra Minigolf is a miniature golf simulation game released in 1997
   by Sierra On-Line, developed by Dynamix and Jeff Tunnell Productions. The game marked...
 tags: [1990s, 3d-ultra, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Minigolf
 
-<small style="color: gray">Last updated: February 13, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -242,6 +243,23 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details

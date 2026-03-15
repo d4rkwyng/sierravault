@@ -14,10 +14,11 @@ last_updated: '2026-01-22'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released...'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -214,6 +215,22 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Never Die Media – 3D Ultra Pinball NASCAR](https://www.neverdiemedia.com/products/3d-ultra-pinball-nascar) – product description, developer information

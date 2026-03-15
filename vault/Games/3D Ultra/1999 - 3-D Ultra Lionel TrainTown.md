@@ -15,10 +15,11 @@ composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows PC in 1999....
 tags: [1990s, 3d-ultra, puzzle, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -252,6 +253,23 @@ In retrospect, the game represents an interesting moment in edutainment history�
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – release dates, developer, publisher, awards, game features, locomotives

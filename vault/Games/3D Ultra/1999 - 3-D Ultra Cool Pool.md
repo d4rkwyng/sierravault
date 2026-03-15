@@ -14,10 +14,11 @@ last_updated: '2026-02-04'
 description: 3-D Ultra Cool Pool is a billiards simulation game developed by Dynamix
   through Jeff Tunnell Productions and published by Sierra Attractions in 1999....
 tags: [1990s, 3-d-ultra, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Cool Pool
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -239,6 +240,22 @@ The game's combination of realistic physics with fantastical game modes anticipa
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-3]: [Wikipedia – Cool Pool](https://en.wikipedia.org/wiki/Cool_Pool) – developer, publisher, series information, server shutdown details

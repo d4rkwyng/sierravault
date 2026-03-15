@@ -15,10 +15,11 @@ description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanak
   Games and published by Sierra Entertainment, released in September 2010 for Xbox
   Live...
 tags: [2010s, 3d-ultra, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -172,6 +173,22 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Andy Merrill Blog - 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) - Xbox Live Arcade version review, pricing, and control scheme details

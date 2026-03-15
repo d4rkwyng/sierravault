@@ -14,10 +14,11 @@ last_updated: '2026-01-16'
 description: 3-D Ultra Pinball Power! is a comprehensive compilation package released
   by Sierra On-Line in 1999, collecting four of the most acclaimed titles from...
 tags: [1990s, 3-d-ultra-pinball, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Pinball Power!
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -249,6 +250,23 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 [[3-D Ultra Pinball - Thrill Ride]]
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Gamepressure – 3D Ultra Pinball Power](https://www.gamepressure.com/games/3d-ultra-pinball-power/z81052) – release date, developers, system requirements, included games, thematic descriptions

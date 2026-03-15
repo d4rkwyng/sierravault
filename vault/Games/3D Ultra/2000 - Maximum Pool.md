@@ -14,10 +14,11 @@ last_updated: '2026-01-31'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # Maximum Pool
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -250,6 +251,22 @@ Modern players can run the Windows version through compatibility modes, though s
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
 [[Maximum Pool]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Minigolf Adventures Deluxe]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details

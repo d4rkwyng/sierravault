@@ -14,10 +14,11 @@ last_updated: '2026-01-16'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
   game developed by Wanako Games and published by Activision, released on July 23,...'
 tags: [2000s, 3-d-ultra-minigolf, sierra]
----
+--
+last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 
@@ -246,6 +247,22 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 [[3D Ultra MiniGolf Adventures]]
 [[3D Ultra Minigolf Adventures Deluxe]]
+
+- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
+- [[3-D Ultra Cool Pool]]
+- [[3D Ultra Lionel Traintown]]
+- [[3D Ultra Lionel Traintown]]
+- [[3-D Ultra Pinball: Thrillride]]
+- [[3-D Ultra Pinball]]
+- [[3-D Ultra NASCAR Pinball]]
+- [[Maximum Pool]]
+- [[3-D Ultra Radio Control Racers]]
+- [[3-D Ultra MiniGolf Adventures 2]]
+- [[3D Ultra Minigolf]]
+- [[3-D Ultra Pinball: Creep Night]]
+- [[3-D Ultra Pinball: The Lost Continent]]
+- [[3-D Ultra Pinball Power!]]
+- [[3-D Ultra Mini Golf Deluxe]]
 ## References
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details
