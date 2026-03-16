@@ -151,6 +151,17 @@ Police Quest's insistence on procedural accuracy created a unique tension betwee
 - [[King's Quest Series]] - Sierra's flagship fantasy series
 - [[Gabriel Knight Series]] - Another realistic Sierra franchise
 - [[Space Quest Series]] - Sierra's sci-fi comedy series
+- [[PQ: SWAT]]
+- [[Police Quest I VGA]]
+- [[Police Quest II: The Vengeance]]
+- [[Police Quest III: The Kindred]]
+- [[Police Quest: In Pursuit of the Death Angel]]
+- [[Police Quest: Open Season]]
+- [[Police Quest: SWAT]]
+- [[SWAT]]
+- [[SWAT 2]]
+- [[SWAT 3]]
+- [[SWAT 4]]
 
 ## References
 

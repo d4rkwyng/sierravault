@@ -156,6 +156,9 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - [[King's Quest Series]] - Williams' flagship fantasy series
 - [[Gabriel Knight Series]] - Another Sierra mystery franchise
 - [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] - Williams' first mystery game
+- [[Mystery House]]
+- [[The Colonel's Bequest]]
+- [[The Dagger of Amon Ra]]
 
 ## References
 

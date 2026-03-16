@@ -167,6 +167,11 @@ Jensen has been actively working on a fourth Gabriel Knight game titled "Five He
 - [[Robert Holmes]] - Composer for the series
 - [[King's Quest Series]] - Sierra's flagship adventure series
 - [[Laura Bow Series]] - Another mystery-focused Sierra series
+- [[GK: 20th Anniversary]]
+- [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]
+- [[Gabriel Knight: Sins of the Fathers]]
+- [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
+- [[The Beast Within: A Gabriel Knight Mystery]]
 
 ## References
 

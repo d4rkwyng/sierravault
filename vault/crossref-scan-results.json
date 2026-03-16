@@ -1,1177 +1,4544 @@
 {
-  "scan_date": "2026-03-15T15:49:10.177487",
-  "total_series_scanned": 1,
-  "series_with_missing_refs": 1,
-  "total_missing_references": 265,
+  "scan_date": "2026-03-16T15:49:50.847589",
+  "total_series_scanned": 7,
+  "series_with_missing_refs": 7,
+  "total_missing_references": 1101,
   "details": [
     {
-      "folder": "3D Ultra",
-      "games_count": 17,
+      "series": "Leisure Suit Larry",
+      "file": "Leisure Suit Larry Series.md",
+      "games_count": 18,
       "found_references": [
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 1",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Cool Pool"
+          "Softporn Adventure",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 2",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 3",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 1 VGA",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 5",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 6",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry 7",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry's Casino",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry: Box Office Bust",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3D Ultra Minigolf Adventures"
+          "Leisure Suit Larry: Reloaded",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra NASCAR Pinball"
+          "Wet Dreams Don't Dry",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3D Ultra Minigolf Adventures"
+          "Wet Dreams Dry Twice",
+          "1981 - Softporn Adventure"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "Maximum Pool"
+          "LSL: Reloaded",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3D Ultra Minigolf Adventures"
+          "Wet Dreams Don't Dry",
+          "1981 - Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Radio Control Racers"
-        ],
-        [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3D Ultra Minigolf Adventures"
-        ],
-        [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra MiniGolf Adventures 2"
-        ],
-        [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3D Ultra Minigolf Adventures"
-        ],
-        [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3D Ultra Minigolf Adventures"
-        ],
-        [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3D Ultra Minigolf Adventures"
-        ],
-        [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3D Ultra Minigolf Adventures"
-        ],
-        [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3D Ultra Minigolf Adventures"
+          "Wet Dreams Dry Twice",
+          "1981 - Softporn Adventure"
         ]
       ],
       "missing_references": [
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 1",
+          "Softporn Adventure"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 1",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 1",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 1",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 1",
+          "LSL: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 1",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 1",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Softporn Adventure",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3D Ultra Lionel Traintown"
+          "Softporn Adventure",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Softporn Adventure",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3D Ultra Lionel Traintown"
+          "Softporn Adventure",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Softporn Adventure",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Pinball"
+          "Softporn Adventure",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra NASCAR Pinball"
+          "Softporn Adventure",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "Maximum Pool"
+          "Softporn Adventure",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Radio Control Racers"
+          "Softporn Adventure",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Softporn Adventure",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3D Ultra Minigolf"
+          "Softporn Adventure",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Softporn Adventure",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Softporn Adventure",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Pinball Power!"
+          "Softporn Adventure",
+          "LSL: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Cool Pool.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Softporn Adventure",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Softporn Adventure",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 2",
+          "Softporn Adventure"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 2",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 2",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 2",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 2",
+          "LSL: Reloaded"
         ],
         [
-          "2006 - 3D Ultra MiniGolf Adventures.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 2",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 2",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 3",
+          "Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 3",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 3",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 3",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 3",
+          "LSL: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Lionel TrainTown.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 3",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 3",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 1 VGA",
+          "Softporn Adventure"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 1 VGA",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 1 VGA",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 1 VGA",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2007 - 3D Ultra Minigolf Adventures Deluxe.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 1 VGA",
+          "LSL: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 1 VGA",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 1 VGA",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 5",
+          "Softporn Adventure"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 5",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 5",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 5",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 5",
+          "LSL: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 5",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 5",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 6",
+          "Softporn Adventure"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 6",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 6",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 6",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - 3-D Ultra Pinball - Thrill Ride.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 6",
+          "LSL: Reloaded"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 6",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 6",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry 7",
+          "Softporn Adventure"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "Maximum Pool"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry 7",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry 7",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1995 - 3-D Ultra Pinball.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry 7",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry 7",
+          "LSL: Reloaded"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry 7",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry 7",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry's Casino",
+          "Softporn Adventure"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "Maximum Pool"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry's Casino",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1998 - 3-D Ultra NASCAR Pinball.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry's Casino",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry's Casino",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry's Casino",
+          "LSL: Reloaded"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry's Casino",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry's Casino",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Softporn Adventure"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "2000 - Maximum Pool.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "LSL: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Magna Cum Laude",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry: Box Office Bust",
+          "Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "Maximum Pool"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1999 - 3-D Ultra Radio Control Racers.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry: Box Office Bust",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry: Box Office Bust",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Box Office Bust",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry: Box Office Bust",
+          "LSL: Reloaded"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Box Office Bust",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry: Box Office Bust",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 1"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra NASCAR Pinball"
+          "Leisure Suit Larry: Reloaded",
+          "Softporn Adventure"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "Maximum Pool"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 2"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Radio Control Racers"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 3"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3D Ultra Minigolf"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 5"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 6"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Pinball Power!"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry 7"
         ],
         [
-          "2010 - 3-D Ultra MiniGolf Adventures 2.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Cool Pool"
+          "Leisure Suit Larry: Reloaded",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Reloaded",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Leisure Suit Larry: Reloaded",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3D Ultra Lionel Traintown"
+          "Leisure Suit Larry: Reloaded",
+          "LSL: Reloaded"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Leisure Suit Larry: Reloaded",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Pinball"
+          "Leisure Suit Larry: Reloaded",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra NASCAR Pinball"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "Maximum Pool"
+          "Wet Dreams Don't Dry",
+          "Softporn Adventure"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Radio Control Racers"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3D Ultra Minigolf"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Pinball Power!"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1997 - 3-D Ultra MiniGolf.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Cool Pool"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Don't Dry",
+          "LSL: Reloaded"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Pinball"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra NASCAR Pinball"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "Maximum Pool"
+          "Wet Dreams Dry Twice",
+          "Softporn Adventure"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Radio Control Racers"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3D Ultra Minigolf"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Pinball Power!"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1996 - 3-D Ultra Pinball - Creep Night.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Cool Pool"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Dry Twice",
+          "LSL: Reloaded"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Pinball"
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra NASCAR Pinball"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "Maximum Pool"
+          "LSL: Reloaded",
+          "Softporn Adventure"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Radio Control Racers"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3D Ultra Minigolf"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Pinball: Creep Night"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Pinball Power!"
+          "LSL: Reloaded",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "LSL: Reloaded",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "LSL: Reloaded",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Cool Pool"
+          "LSL: Reloaded",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3D Ultra Lionel Traintown"
+          "LSL: Reloaded",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "LSL: Reloaded",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3D Ultra Lionel Traintown"
+          "LSL: Reloaded",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Pinball: Thrillride"
+          "LSL: Reloaded",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Pinball"
+          "LSL: Reloaded",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra NASCAR Pinball"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "Maximum Pool"
+          "Wet Dreams Don't Dry",
+          "Softporn Adventure"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Radio Control Racers"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3D Ultra Minigolf"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Pinball Power!"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1999 - 3-D Ultra Pinball - Power.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry's Casino"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Radio Control Racers Deluxe: Traxxas Edition"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Magna Cum Laude"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Cool Pool"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Box Office Bust"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Don't Dry",
+          "Leisure Suit Larry: Reloaded"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3D Ultra Minigolf Adventures Deluxe"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Don't Dry"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3D Ultra Lionel Traintown"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Pinball: Thrillride"
+          "Wet Dreams Don't Dry",
+          "LSL: Reloaded"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Pinball"
+          "Wet Dreams Don't Dry",
+          "Wet Dreams Dry Twice"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra NASCAR Pinball"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 1"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "Maximum Pool"
+          "Wet Dreams Dry Twice",
+          "Softporn Adventure"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Radio Control Racers"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 2"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra MiniGolf Adventures 2"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 3"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3D Ultra Minigolf"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 1 VGA"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Pinball: Creep Night"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 5"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Pinball: The Lost Continent"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 6"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Pinball Power!"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry 7"
         ],
         [
-          "1998 - 3-D Ultra MiniGolf Deluxe.md",
-          "3-D Ultra Mini Golf Deluxe"
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry's Casino"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Magna Cum Laude"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Box Office Bust"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Leisure Suit Larry: Reloaded"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Don't Dry"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Dry Twice"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "LSL: Reloaded"
+        ],
+        [
+          "Wet Dreams Dry Twice",
+          "Wet Dreams Don't Dry"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 1"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Softporn Adventure"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 2"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 3"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 1 VGA"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 5"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 6"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry 7"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry's Casino"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry: Magna Cum Laude"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry: Box Office Bust"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Leisure Suit Larry: Reloaded"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Wet Dreams Don't Dry"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Wet Dreams Dry Twice"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "LSL: Reloaded"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Wet Dreams Don't Dry"
+        ],
+        [
+          "1981 - Softporn Adventure",
+          "Wet Dreams Dry Twice"
         ]
       ],
-      "total_missing": 265
+      "total_missing": 289
+    },
+    {
+      "series": "Gabriel Knight",
+      "file": "Gabriel Knight Series.md",
+      "games_count": 5,
+      "found_references": [],
+      "missing_references": [
+        [
+          "Gabriel Knight: Sins of the Fathers",
+          "The Beast Within: A Gabriel Knight Mystery"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers",
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers",
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers",
+          "GK: 20th Anniversary"
+        ],
+        [
+          "The Beast Within: A Gabriel Knight Mystery",
+          "Gabriel Knight: Sins of the Fathers"
+        ],
+        [
+          "The Beast Within: A Gabriel Knight Mystery",
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        ],
+        [
+          "The Beast Within: A Gabriel Knight Mystery",
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition"
+        ],
+        [
+          "The Beast Within: A Gabriel Knight Mystery",
+          "GK: 20th Anniversary"
+        ],
+        [
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+          "Gabriel Knight: Sins of the Fathers"
+        ],
+        [
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+          "The Beast Within: A Gabriel Knight Mystery"
+        ],
+        [
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition"
+        ],
+        [
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned",
+          "GK: 20th Anniversary"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition",
+          "Gabriel Knight: Sins of the Fathers"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition",
+          "The Beast Within: A Gabriel Knight Mystery"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition",
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        ],
+        [
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition",
+          "GK: 20th Anniversary"
+        ],
+        [
+          "GK: 20th Anniversary",
+          "Gabriel Knight: Sins of the Fathers"
+        ],
+        [
+          "GK: 20th Anniversary",
+          "The Beast Within: A Gabriel Knight Mystery"
+        ],
+        [
+          "GK: 20th Anniversary",
+          "Gabriel Knight 3: Blood of the Sacred, Blood of the Damned"
+        ],
+        [
+          "GK: 20th Anniversary",
+          "Gabriel Knight: Sins of the Fathers \u2013 20th Anniversary Edition"
+        ]
+      ],
+      "total_missing": 20
+    },
+    {
+      "series": "Space Quest",
+      "file": "Space Quest Series.md",
+      "games_count": 16,
+      "found_references": [],
+      "missing_references": [
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "Incinerations"
+        ],
+        [
+          "Space Quest: The Sarien Encounter",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "Incinerations"
+        ],
+        [
+          "Space Quest II: Vohaul's Revenge",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "Incinerations"
+        ],
+        [
+          "Space Quest III: The Pirates of Pestulon",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest I VGA",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest I VGA",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest I VGA",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest I VGA",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest I VGA",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest I VGA",
+          "Incinerations"
+        ],
+        [
+          "Space Quest I VGA",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "Incinerations"
+        ],
+        [
+          "Space Quest IV: Roger Wilco and the Time Rippers",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "Incinerations"
+        ],
+        [
+          "Space Quest V: The Next Mutation",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "Incinerations"
+        ],
+        [
+          "Space Quest VI: Roger Wilco in the Spinal Frontier",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "Incinerations"
+        ],
+        [
+          "Space Quest: Incinerations",
+          "SpaceVenture"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest I VGA"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest I VGA"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "The Lost Chapter"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SQ0: Replicated"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Incinerations"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SpaceVenture"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest I VGA"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Space Quest I VGA",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Space Quest I VGA",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest I VGA",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Space Quest I VGA",
+          "The Lost Chapter"
+        ],
+        [
+          "Space Quest I VGA",
+          "SQ0: Replicated"
+        ],
+        [
+          "Space Quest I VGA",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Space Quest I VGA",
+          "Incinerations"
+        ],
+        [
+          "Space Quest I VGA",
+          "SpaceVenture"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest I VGA"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Space Quest I VGA"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "The Lost Chapter"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "SQ0: Replicated"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "Incinerations"
+        ],
+        [
+          "SQ2 VGA Remake",
+          "SpaceVenture"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest I VGA"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "The Lost Chapter",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "The Lost Chapter",
+          "Space Quest I VGA"
+        ],
+        [
+          "The Lost Chapter",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "The Lost Chapter",
+          "SQ0: Replicated"
+        ],
+        [
+          "The Lost Chapter",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "The Lost Chapter",
+          "Incinerations"
+        ],
+        [
+          "The Lost Chapter",
+          "SpaceVenture"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest I VGA"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "SQ0: Replicated",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SQ0: Replicated",
+          "Space Quest I VGA"
+        ],
+        [
+          "SQ0: Replicated",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "SQ0: Replicated",
+          "The Lost Chapter"
+        ],
+        [
+          "SQ0: Replicated",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SQ0: Replicated",
+          "Incinerations"
+        ],
+        [
+          "SQ0: Replicated",
+          "SpaceVenture"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest I VGA"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Space Quest I VGA"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "The Lost Chapter"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SQ0: Replicated"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "Incinerations"
+        ],
+        [
+          "Vohaul Strikes Back",
+          "SpaceVenture"
+        ],
+        [
+          "Incinerations",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "Incinerations",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "Incinerations",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "Incinerations",
+          "Space Quest I VGA"
+        ],
+        [
+          "Incinerations",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "Incinerations",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "Incinerations",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "Incinerations",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "Incinerations",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Incinerations",
+          "Space Quest I VGA"
+        ],
+        [
+          "Incinerations",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "Incinerations",
+          "The Lost Chapter"
+        ],
+        [
+          "Incinerations",
+          "SQ0: Replicated"
+        ],
+        [
+          "Incinerations",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "Incinerations",
+          "SpaceVenture"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest: The Sarien Encounter"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest II: Vohaul's Revenge"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest III: The Pirates of Pestulon"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest I VGA"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest IV: Roger Wilco and the Time Rippers"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest V: The Next Mutation"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest VI: Roger Wilco in the Spinal Frontier"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest: Incinerations"
+        ],
+        [
+          "SpaceVenture",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SpaceVenture",
+          "Space Quest I VGA"
+        ],
+        [
+          "SpaceVenture",
+          "SQ2 VGA Remake"
+        ],
+        [
+          "SpaceVenture",
+          "The Lost Chapter"
+        ],
+        [
+          "SpaceVenture",
+          "SQ0: Replicated"
+        ],
+        [
+          "SpaceVenture",
+          "Vohaul Strikes Back"
+        ],
+        [
+          "SpaceVenture",
+          "Incinerations"
+        ]
+      ],
+      "total_missing": 240
+    },
+    {
+      "series": "Police Quest",
+      "file": "Police Quest Series.md",
+      "games_count": 14,
+      "found_references": [],
+      "missing_references": [
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "Police Quest I VGA"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "Police Quest: Open Season"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "Police Quest: SWAT"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: In Pursuit of the Death Angel",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "Police Quest I VGA"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "Police Quest: Open Season"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "Police Quest: SWAT"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest II: The Vengeance",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "Police Quest I VGA"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "Police Quest: Open Season"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "Police Quest: SWAT"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest III: The Kindred",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest I VGA",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "Police Quest I VGA",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "Police Quest I VGA",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "Police Quest I VGA",
+          "Police Quest: Open Season"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT"
+        ],
+        [
+          "Police Quest I VGA",
+          "Police Quest: SWAT"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest I VGA",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest I VGA",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest: Open Season",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "Police Quest: Open Season",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "Police Quest: Open Season",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "Police Quest: Open Season",
+          "Police Quest I VGA"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT"
+        ],
+        [
+          "Police Quest: Open Season",
+          "Police Quest: SWAT"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest: Open Season",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: Open Season",
+          "SWAT 4"
+        ],
+        [
+          "SWAT",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT",
+          "SWAT 2"
+        ],
+        [
+          "SWAT",
+          "SWAT 3"
+        ],
+        [
+          "SWAT",
+          "SWAT 4"
+        ],
+        [
+          "SWAT",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT",
+          "SWAT 2"
+        ],
+        [
+          "SWAT",
+          "SWAT 3"
+        ],
+        [
+          "SWAT",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest: SWAT",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "Police Quest: SWAT",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "Police Quest: SWAT",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "Police Quest: SWAT",
+          "Police Quest I VGA"
+        ],
+        [
+          "Police Quest: SWAT",
+          "Police Quest: Open Season"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 4"
+        ],
+        [
+          "Police Quest: SWAT",
+          "PQ: SWAT"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 2"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 3"
+        ],
+        [
+          "Police Quest: SWAT",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 2",
+          "SWAT"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 2",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 3",
+          "SWAT"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 3",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 4",
+          "SWAT"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 4",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 4"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest I VGA"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest: Open Season"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT"
+        ],
+        [
+          "PQ: SWAT",
+          "Police Quest: SWAT"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 2"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 3"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 4"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 2"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 3"
+        ],
+        [
+          "PQ: SWAT",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 2",
+          "SWAT"
+        ],
+        [
+          "SWAT 2",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 2",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 2",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 3",
+          "SWAT"
+        ],
+        [
+          "SWAT 3",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 3",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 3",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: In Pursuit of the Death Angel"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest II: The Vengeance"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest III: The Kindred"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest I VGA"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: Open Season"
+        ],
+        [
+          "SWAT 4",
+          "SWAT"
+        ],
+        [
+          "SWAT 4",
+          "Police Quest: SWAT"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 3"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 4"
+        ],
+        [
+          "SWAT 4",
+          "PQ: SWAT"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 2"
+        ],
+        [
+          "SWAT 4",
+          "SWAT 3"
+        ]
+      ],
+      "total_missing": 182
+    },
+    {
+      "series": "Quest for Glory",
+      "file": "Quest for Glory Series.md",
+      "games_count": 11,
+      "found_references": [],
+      "missing_references": [
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory I: So You Want to Be a Hero",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory II: Trial by Fire",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory I VGA",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory III: Wages of War",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory IV: Shadows of Darkness",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Quest for Infamy"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Glory V: Dragon Fire",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Quest for Infamy"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "QFG2 VGA Remake",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Quest for Infamy",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Quest for Infamy",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Quest for Infamy",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Quest for Infamy",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Quest for Infamy",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Infamy"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Summer Daze: Tilly's Tale"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Quest for Infamy"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Summer Daze: Tilly's Tale",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory I: So You Want to Be a Hero"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory II: Trial by Fire"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory I VGA"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory III: Wages of War"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory IV: Shadows of Darkness"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Glory V: Dragon Fire"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "QFG2 VGA Remake"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Quest for Infamy"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Hero-U: Rogue to Redemption"
+        ],
+        [
+          "Hero-U: Rogue to Redemption",
+          "Summer Daze: Tilly's Tale"
+        ]
+      ],
+      "total_missing": 110
+    },
+    {
+      "series": "Laura Bow",
+      "file": "Laura Bow Series.md",
+      "games_count": 5,
+      "found_references": [],
+      "missing_references": [
+        [
+          "The Colonel's Bequest",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Colonel's Bequest",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Colonel's Bequest",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Colonel's Bequest",
+          "Mystery House"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "Mystery House"
+        ],
+        [
+          "The Colonel's Bequest",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Colonel's Bequest",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Colonel's Bequest",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Colonel's Bequest",
+          "Mystery House"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "The Colonel's Bequest"
+        ],
+        [
+          "The Dagger of Amon Ra",
+          "Mystery House"
+        ],
+        [
+          "Mystery House",
+          "The Colonel's Bequest"
+        ],
+        [
+          "Mystery House",
+          "The Dagger of Amon Ra"
+        ],
+        [
+          "Mystery House",
+          "The Colonel's Bequest"
+        ],
+        [
+          "Mystery House",
+          "The Dagger of Amon Ra"
+        ]
+      ],
+      "total_missing": 20
+    },
+    {
+      "series": "King's Quest",
+      "file": "King's Quest Series.md",
+      "games_count": 16,
+      "found_references": [],
+      "missing_references": [
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest: Quest for the Crown",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest II: Romancing the Throne",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest III: To Heir Is Human",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest IV: The Perils of Rosella",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest I SCI Remake",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest V: Absence Makes the Heart Go Yonder",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest VI: Heir Today, Gone Tomorrow",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest VII: The Princeless Bride",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest: Mask of Eternity",
+          "The Silver Lining"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "KQ3 Redux"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "KQ4 Retold"
+        ],
+        [
+          "King's Quest (Reboot)",
+          "The Silver Lining"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "KQ3 Redux"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "KQ4 Retold"
+        ],
+        [
+          "KQ1 VGA Remake",
+          "The Silver Lining"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "KQ3 Redux"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "KQ4 Retold"
+        ],
+        [
+          "KQ2+ Romancing the Stones",
+          "The Silver Lining"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "KQ3 Redux"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "KQ4 Retold"
+        ],
+        [
+          "KQ3 Remake (IA)",
+          "The Silver Lining"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "KQ3 Redux",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "KQ3 Redux",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "KQ3 Redux",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "KQ3 Redux",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "KQ3 Redux",
+          "KQ4 Retold"
+        ],
+        [
+          "KQ3 Redux",
+          "The Silver Lining"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "KQ4 Retold",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "KQ4 Retold",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "KQ4 Retold",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "KQ4 Retold",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "KQ4 Retold",
+          "KQ3 Redux"
+        ],
+        [
+          "KQ4 Retold",
+          "The Silver Lining"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest: Quest for the Crown"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest II: Romancing the Throne"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest III: To Heir Is Human"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest IV: The Perils of Rosella"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest I SCI Remake"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest V: Absence Makes the Heart Go Yonder"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest VI: Heir Today, Gone Tomorrow"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest VII: The Princeless Bride"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest: Mask of Eternity"
+        ],
+        [
+          "The Silver Lining",
+          "King's Quest (Reboot)"
+        ],
+        [
+          "The Silver Lining",
+          "KQ1 VGA Remake"
+        ],
+        [
+          "The Silver Lining",
+          "KQ2+ Romancing the Stones"
+        ],
+        [
+          "The Silver Lining",
+          "KQ3 Remake (IA)"
+        ],
+        [
+          "The Silver Lining",
+          "KQ3 Redux"
+        ],
+        [
+          "The Silver Lining",
+          "KQ4 Retold"
+        ]
+      ],
+      "total_missing": 240
     }
-  ],
-  "fix_report": {
-    "fix_date": "2026-03-15T15:49:44.945573",
-    "total_fixed": 265
-  }
+  ]
 }

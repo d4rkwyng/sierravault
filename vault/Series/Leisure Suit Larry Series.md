@@ -153,6 +153,21 @@ Fans generally distinguish between "true" Larry games (LSL1-7, designed by [[Al 
 - [[1981 - Softporn Adventure]] - Text adventure origin
 - [[Space Quest Series]] - Sierra's other comedy franchise
 - [[King's Quest Series]] - Sierra's flagship fantasy series
+- [[LSL: Reloaded]]
+- [[Leisure Suit Larry 1]]
+- [[Leisure Suit Larry 1 VGA]]
+- [[Leisure Suit Larry 2]]
+- [[Leisure Suit Larry 3]]
+- [[Leisure Suit Larry 5]]
+- [[Leisure Suit Larry 6]]
+- [[Leisure Suit Larry 7]]
+- [[Leisure Suit Larry's Casino]]
+- [[Leisure Suit Larry: Box Office Bust]]
+- [[Leisure Suit Larry: Magna Cum Laude]]
+- [[Leisure Suit Larry: Reloaded]]
+- [[Softporn Adventure]]
+- [[Wet Dreams Don't Dry]]
+- [[Wet Dreams Dry Twice]]
 
 ## References
 
