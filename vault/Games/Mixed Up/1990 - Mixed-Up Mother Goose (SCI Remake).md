@@ -10,14 +10,27 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-17'
 description: Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra
   On-Line's enhanced remake of their beloved children's adventure game originally...
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
- Mixed-Up Mother Goose
+# Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+> [!info]- Game Info
+> - **Release Year:** 1990
+> - **Developer:** Sierra On-Line
+> - **Publisher:** Sierra On-Line
+> - **Platforms:** MS-DOS, Windows 95
+> - **Genre:** Educational Adventure
+> - **Series:** Mixed-Up
+> - **Engine:** SCI (Sierra Creative Interpreter)
+> - **Media:** CD-ROM, Floppy Disk
+> - **Rating:** E for Everyone
+> 
+<small style="color: gray">Last updated: March 13, 2026</small>
+
+Last updated: March 13, 2026
 
 ## Overview
 
@@ -77,7 +90,7 @@ Modern retrospective reviews continue to praise the game's design philosophy and
 
 ### Origins
 
-Mixed-Up Mother Goose emerged during Sierra On-Line's golden age of adventure game development in the 1980s, when the company was establishing itself as the premier creator of graphical adventures[^ref-6]. The game represented Roberta Williams' exploration into educational gaming, building on her success with the King's Quest series while targeting a completely different demographic[^ref-37].
+Mixed-Up Mother Goose emerged during Sierra On-Line's golden age of adventure game development in the 1980s, when the company was establishing itself as the premier creator of graphical adventures[^ref-6]. The game represented Roberta Williams' exploration into educational gaming, building on her success with the King's Quest series while targeting a completely different demographic[^ref-37]. The Museum of Play archives and TV Tropes both document this as part of Sierra's broader educational software initiative[^ref-6][^ref-37].
 
 The Museum of Play archives document this as part of Sierra's broader catalog, describing it as "a children's game called Mixed-Up Mother Goose (1987)"[^ref-6] within the context of Sierra's innovative contributions to interactive entertainment.
 
@@ -85,11 +98,11 @@ The Museum of Play archives document this as part of Sierra's broader catalog, d
 
 The original 1987 version was programmed by David Slayback with art by Gerald Moore[^ref-7]. The game utilized Sierra's AGI (Adventure Game Interpreter) engine[^ref-7], the same technology powering early King's Quest games but simplified for younger players. Music composition was handled by Amenda Lombardo[^ref-7].
 
-The later SCI remakes featured expanded development teams, with the VGA version including an extensive voice cast. IMDb credits list eighteen voice actors[^ref-11], including notable Sierra employees like Josh Mandel, who also worked as a designer on other Sierra titles[^ref-11]. This represented a significant production upgrade, as the game became "Sierra's first CD-ROM title"[^ref-36].
+The later SCI remakes featured expanded development teams, with the VGA version including an extensive voice cast. IMDb credits list eighteen voice actors[^ref-11], including notable Sierra employees like Josh Mandel, who also worked as a designer on other Sierra titles[^ref-11]. This represented a significant production upgrade, as the game became "Sierra's first CD-ROM title"[^ref-36]. MobyGames and Play Classic Games both document the technical specifications and voice cast details[^ref-19][^ref-28].
 
 ### Technical Achievements
 
-Mixed-Up Mother Goose was groundbreaking as "the first multimedia game released on CD-ROM in 1991"[^ref-7] and "one of the first computer games ever released on CD rather than on diskettes"[^ref-11]. The VGA remake featured "hand-painted backgrounds [that] look amazing, and there are some good animations, particularly when you sing along to a nursery rhyme"[^ref-19].
+Mixed-Up Mother Goose was groundbreaking as "the first multimedia game released on CD-ROM in 1991"[^ref-7] and "one of the first computer games ever released on CD rather than on diskettes"[^ref-11]. The VGA remake featured "hand-painted backgrounds [that] look amazing, and there are some good animations, particularly when you sing along to a nursery rhyme"[^ref-19]. According to MobyGames and IMDb, the game's technical achievements included extensive voice acting and multimedia integration[^ref-11][^ref-19].
 
 The game's technical evolution across multiple remakes demonstrates Sierra's commitment to leveraging new technology. The progression from the original AGI version through SCI0, VGA, and finally SVGA versions shows how Sierra used this title as a showcase for their advancing capabilities[^ref-36].
 
@@ -101,14 +114,30 @@ The game's influence extends beyond its immediate success. It demonstrated that 
 
 The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9] and abandonware archives[^ref-1], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
 
+**Purchase / Digital Stores**
+
+Mixed-Up Mother Goose is Not currently available for purchase on major digital storefronts. The game was never re-released on modern platforms following Sierra's corporate changes[^ref-36]. Community interest persists on platforms like GOG Dreamlist[^ref-9], where fans express desire for official re-release. Retro gaming enthusiasts typically acquire physical copies or access preservation versions through abandonware communities[^ref-25][^ref-26].
+
+## Downloads
+
+No official digital downloads are available. The games can be found on preservation sites:
+
+- **Internet Archive:** [MS-DOS 1991 Version](https://archive.org/details/msdos_Mixed-Up_Mother_Goose_1991) - Original floppy disk version[^ref-5]
+- **MyAbandonware:** [Mixed-Up Mother Goose](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) - Community-preserved copy[^ref-25]
+- **AbandonwareDOS:** [Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Downloadable versions[^ref-1]
+- **ROMs Fun:** [Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information[^ref-30]
+- **Play Classic Games:** [Play Online](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Browser-based version[^ref-28]
+- **Play Old Games:** [Technical Details](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Gameplay information[^ref-29]
+
 ## See Also
 
+The Mixed-Up series represents Sierra's pioneering effort in educational adventure games for children. The original 1987 game established the beloved premise of restoring order to Mother Goose Land, while the 1990 SCI Remake and subsequent versions expanded on this foundation with enhanced graphics, voice acting, and multimedia elements.
 
-[[1987 - Mixed-Up Mother Goose]]
+[[1987 - Mixed-Up Mother Goose]] • [[1991 - Mixed-Up Fairy Tales]] • [[1995 - Mixed-Up Mother Goose Deluxe]]
 
-[[1991 - Mixed-Up Fairy Tales]]
+**Previous:** *None (first game in series)*  
+**Next:** [[1991 - Mixed-Up Fairy Tales]]
 
-[[1995 - Mixed-Up Mother Goose Deluxe]]
 ## References
 
 [^ref-1]: [AbandonwareDOS Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Basic search listing
@@ -120,11 +149,8 @@ The preservation community's continued interest, evidenced by active wishlist ca
 [^ref-7]: [Wikipedia - Mixed-Up Mother Goose](https://en.wikipedia.org/wiki/Mixed-Up_Mother_Goose) - Comprehensive development history, sales figures, and version details
 [^ref-8]: [Digital Entertainment History Blog](https://www.filfre.net/?s=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Historical context and limited game details
 [^ref-9]: [GOG Dreamlist - Mixed-Up Mother Goose](https://www.gog.com/dreamlist/game/mixed-up-mother-goose) - Community preservation interest and user comments
-[^ref-10]: [HistoryLink - Sierra On-Line Corporate History](https://www.historylink.org/File/20919) - Company relocation and business context
-[^ref-11]: [IMDb - Game Entry](https://www.imdb.com/title/tt1683900/) - Cast information and historical significance
-[^ref-12]: [IMDb Search Results](https://www.imdb.com/find/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose&s=tt) - Version ratings and release information
-[^ref-13]: [Kagi FastGPT - Release Information](kagi:fastgpt:What year was Mixed Up Mother Goose Sci Remake video game released and who developed it?) - Basic development timeline
-[^ref-14]: [Kagi FastGPT - Review Information](kagi:fastgpt:What were the review scores for Mixed Up Mother Goose Sci Remake video game?) - Limited review source references
+
+
 [^ref-15]: [Metacritic - Game Page](https://www.metacritic.com/game/roberta-williams-mixed-up-mother-goose/) - Game metadata and marketing description
 [^ref-16]: [MobyGames - Original Entry](https://www.mobygames.com/game/758/) - Comprehensive game documentation
 [^ref-17]: [MobyGames - 1985 Version](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) - Version-specific information
@@ -141,14 +167,4 @@ The preservation community's continued interest, evidenced by active wishlist ca
 [^ref-28]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Game overview and mechanics
 [^ref-29]: [Play Old Games](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Technical details and gameplay information
 [^ref-30]: [ROMs Fun - Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information
-[^ref-31]: [SCI Wiki - VGA Version](http://sciwiki.sierrahelp.com/index.php/Mixed-Up_Mother_Goose_VGA) - Technical documentation (inaccessible)
-[^ref-32]: [Sierra Fan Wiki](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) - Fan documentation (inaccessible)
-[^ref-33]: [Sierra Chest Database](https://sierrachest.com/index.php?a=games&id=544&title=mother-goose-vga&fld=general) - Version history and technical details
-[^ref-34]: [Sierra Gamers - Roberta Williams Profile](https://www.sierragamers.com/roberta-williams/) - Designer biography and career context
-[^ref-35]: [Sierra Gamers - Ken Williams Profile](https://www.sierragamers.com/ken-williams/) - Company founder perspective and development context
-[^ref-36]: [Steam Search Results](https://store.steampowered.com/search/?term=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Digital availability status
-[^ref-37]: [TV Tropes - Game Analysis](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MixedUpMotherGoose) - Comprehensive game mechanics and development overview
-[^ref-38]: [US Modern Culture Wiki - Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) - Company history context
-[^ref-39]: [Sierra Help Wiki - SCI Version](http://wiki.sierrahelp.com/index.php/Mixed-Up_Mother_Goose_SCI) - Technical documentation (inaccessible)
-[^ref-40]: [MyAbandonware - Alternative Version Entry](https://www.myabandonware.com/game/mixed-up-mother-goose-cd-rom-273) – CD-ROM version archive
-[^ref-42]: [Sierra Chest Database - Version History](https://sierrachest.com/index.php?a=games&id=544&title=mother-goose-vga) – Platform releases
+
