@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI0
 protagonist: Sir Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-03-17'
+last_updated: '2026-03-18'
 description: 'Released in September 1990, **Roberta Williams'' King''s Quest I: Quest
   for the Crown** is Sierra On-Line''s official SCI engine remake of their landmark
   1984...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 18, 2026</small>
 
 ## Overview
 
