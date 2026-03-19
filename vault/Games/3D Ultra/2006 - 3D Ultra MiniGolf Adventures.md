@@ -286,3 +286,6 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 [^ref-13]: [TrueAchievements – 3D Ultra Minigolf Adventures Reviews](https://www.trueachievements.com/game/3D-Ultra-Minigolf-Adventures/reviews) – achievement guidance, save system exploit
 [^ref-14]: [IGN – 3D Ultra Minigolf Adventures](https://www.ign.com/games/3d-ultra-minigolf-adventures) – HowLongToBeat data, Dolby Digital support, Vivendi acquisition news
 [^ref-15]: [Steam Search Results](https://store.steampowered.com/search/?term=3D+Ultra+MiniGolf+Adventures) – Steam release date July 23, 2009
+
+[[2000 - Maximum Pool]]
+[[2007 - 3D Ultra Minigolf Adventures Deluxe]]

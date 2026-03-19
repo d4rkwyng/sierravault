@@ -277,4 +277,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 [^ref-17]: [PC Gamer - Sierra Casual Games](https://archive.org/details/pc-gamer-us-1997) — Sierra's casual gaming strategy
 [^ref-18]: [AllGame - 3D Ultra Minigolf](https://www.allgame.com/game.php?id=23456) — Physics claims assessment
 [^ref-19]: [GameRankings - 3D Ultra Series](https://www.gamerankings.com/browse.html?search=3d+ultra) — Series aggregate scores
+
+[[1996 - 3-D Ultra Pinball - Creep Night]]
+[[1997 - 3-D Ultra Pinball - The Lost Continent]]
 [^ref-20]: [IGN - Sierra Casual Portfolio](https://www.ign.com/articles/1997/06/15/sierra-casual-games) — 3D Ultra brand expansion 

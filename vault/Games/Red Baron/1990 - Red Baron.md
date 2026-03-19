@@ -292,3 +292,5 @@ Red Baron also represented an important step in the maturation of flight simulat
 [^ref-26]: [Kicktraq – Red Baron](https://www.kicktraq.com/projects/madottergames/red-baron/) – Kickstarter campaign details, Damon Slye quote
 [^ref-27]: [Game Developer – Mad Otter Acquires Red Baron](https://www.gamedeveloper.com/game-platforms/mad-otter-acquires-i-red-baron-i-franchise-calls-for-source-code) – source code bounty
 [^ref-28]: [Amazon – Red Baron II Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – guide description, page count
+
+[[1992 - Red Baron - Mission Builder]]

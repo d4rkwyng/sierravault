@@ -336,3 +336,6 @@ The game's technical conservatism, criticized at release, ironically contributed
 [^ref-19]: [GameFAQs – Hoyle Card Games 2005 Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – VU Games publishing
 [^ref-20]: [GameFAQs – Hoyle Card Games 2011](https://gamefaqs.gamespot.com/pc/624651-hoyle-card-games-2011) – Encore Software continuation
 [^ref-21]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – market pricing, platform formats
+
+[[2001 - Hoyle Word Games]]
+[[2002 - Hoyle Casino Empire]]

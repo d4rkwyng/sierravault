@@ -237,3 +237,5 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 [^ref-10]: [IGN – Tribes: Aerial Assault](https://www.ign.com/games/tribes-aerial-assault) – review score, game database
 [^ref-11]: [MetaCritic – Tribes: Aerial Assault](https://www.metacritic.com/game/tribes-aerial-assault/) – aggregate review scores
 [^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+
+[[2001 - Tribes 2]]

@@ -357,3 +357,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
 [^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
 [^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing
+
+[[1997 - Hoyle Classic Board Games]]
+[[1999 - Hoyle Casino]]

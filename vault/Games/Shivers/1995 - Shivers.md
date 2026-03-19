@@ -326,3 +326,5 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 [^ref-38]: [Speedrun.com – Shivers](https://www.speedrun.com/shivers) – speedrun categories, records
 [^ref-39]: [MobyGames – Shivers Two](https://www.mobygames.com/game/665/shivers-two-harvest-of-souls/) – sequel information, trivia
 [^ref-40]: [Web Archive – PC Gamer Shivers II Preview](https://web.archive.org/web/19980218070943/http://www.pcgamer.com/news/news-1996-11-04.html) – sequel features
+
+[[1997 - Shivers Two - Harvest of Souls]]

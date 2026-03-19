@@ -310,3 +310,6 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 [^ref-14]: [Amazon.ae Product Listing](https://www.amazon.ae/Ultra-Radio-Control-Racers-Deluxe/dp/B00004TJCI) – Vivendi Universal publisher, UPC code, package specifications
 
 [^ref-15]: [Sierra Gamers – 3D Ultra Series](https://www.sierragamers.com/3d-ultra/) – 2000 release year, series chronology
+
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]
+[[2000 - Maximum Pool]]

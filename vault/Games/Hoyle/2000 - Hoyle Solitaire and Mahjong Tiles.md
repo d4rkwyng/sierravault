@@ -331,3 +331,6 @@ The game's combination of solitaire and Mahjong reflected the growing interest i
 [^ref-18]: [Giant Bomb – Hoyle](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
 [^ref-19]: [Amazon – Hoyle Games](https://www.amazon.com/s?k=Hoyle+Solitaire+Mahjong) – retail availability
 [^ref-20]: [eBay – Hoyle Games](https://www.ebay.com/sch/i.html?_nkw=hoyle+solitaire+mahjong) – secondary market
+
+[[2000 - Hoyle Slots and Video Poker]]
+[[2001 - Hoyle Board Games]]

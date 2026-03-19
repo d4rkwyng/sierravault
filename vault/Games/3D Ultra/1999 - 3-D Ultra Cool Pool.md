@@ -272,3 +272,6 @@ The game's combination of realistic physics with fantastical game modes anticipa
 [^ref-13]: [GameSpot – 3D Ultra Cool Pool User Reviews](https://www.gamespot.com/3d-ultra-cool-pool/user-reviews/2200-37820/) – user review scores, gameplay impressions
 [^ref-14]: [Old-Games.RU Downloads](https://www.old-games.ru/game/download/8288.html) – patch version information
 [^ref-15]: [1UP Retrogaming](https://www.1upretrogaming.com/products/3d-ultra-cool-pool-pc-games) – retail pricing information
+
+[[1998 - 3-D Ultra NASCAR Pinball]]
+[[1999 - 3-D Ultra Lionel TrainTown]]

@@ -382,3 +382,6 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 [^ref-48]: [Compiware Forum – German Patch](https://www.compiware-forum.de/downloads/file/588-quest-for-glory-collection-german-patch/) – localization details
 [^ref-49]: [Quest for Glory Wiki – Game Hints](https://questforglory.fandom.com/wiki/Game_Hints:_Quest_For_Glory_I:_So_You_Want_to_be_a_Hero) – official hints documentation
 [^ref-50]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory) – series overview
+
+[[1990 - Quest for Glory II - Trial by Fire]]
+[[1992 - Quest for Glory III - Wages of War]]

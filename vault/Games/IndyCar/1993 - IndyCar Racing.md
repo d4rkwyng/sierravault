@@ -252,3 +252,5 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 [^ref-20]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Papyrus acquisition details
 [^ref-21]: [Wayback Machine – GameSpot Papyrus History](https://web.archive.org/web/20040803113834/http://www.gamespot.com/features/6103365/) – Grand Prix Legends quote, industry impact
 [^ref-22]: [Internet Archive – IndyCar Racing Mr Abandonware](https://archive.org/details/indy-car-racing-mr-abandonware) – preservation, DOSBox compatibility, expansion packs
+
+[[1995 - IndyCar Racing II]]

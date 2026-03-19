@@ -176,3 +176,6 @@ An active fan community has maintained interest in Caesar II through dedicated w
 [^ref-34]: [Internet Archive - Caesar 2 DOS](https://archive.org/details/msdos_Caesar_2_1995) – Game preservation
 [^ref-35]: [Internet Archive - Caesar II Demo](https://archive.org/details/CaesarII_1020) – Demo version archive
 [^ref-36]: [MyAbandonware - Caesar II](https://www.myabandonware.com/game/caesar-ii-2at) – User reviews and compatibility information
+
+[[1992 - Caesar]]
+[[1998 - Caesar III]]

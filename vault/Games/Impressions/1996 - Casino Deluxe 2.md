@@ -248,3 +248,6 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 [^ref-14]: [Metacritic – Casino Deluxe 2](https://www.metacritic.com/game/pc/casino-deluxe-2) – Sierra Entertainment publisher, no reviews available
 [^ref-15]: [UVList – Casino Deluxe 2](https://www.uvlist.net/game-252495-Casino+Deluxe+2) – Win3.1 platform, VESA/Mouse hardware, EAN 0020626837347, game types
 [^ref-16]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
+
+[[1995 - Powerhouse]]
+[[2002 - Emperor - Rise of the Middle Kingdom]]

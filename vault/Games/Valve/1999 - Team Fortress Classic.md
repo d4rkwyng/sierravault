@@ -309,3 +309,6 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [^ref-38]: [Neoseeker – TFC Sniper FAQ](https://www.neoseeker.com/tfc/faqs/53446-team-fortress-classic-sniper-darkreaper.html) – Dark Reaper sniper guide
 [^ref-39]: [Game Developer – The Impact of Team Fortress 2 on Game Design](https://www.gamedeveloper.com/game-platforms/the-impact-of-team-fortress-2-on-game-design) – Josh Bycer analysis
 [^ref-40]: [MobyGames – Team Fortress 2](https://www.mobygames.com/game/30655/team-fortress-2/) – sequel development timeline
+
+[[1999 - Half-Life - Opposing Force]]
+[[2000 - Counter-Strike]]

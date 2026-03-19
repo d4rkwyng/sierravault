@@ -306,3 +306,5 @@ Thexder Neo fits within Square Enix's broader strategy of reviving dormant prope
 [^ref-90]: [Giant Bomb Wiki](https://www.giantbomb.com/thexder-neo/3030-28445/) – Community wiki entry
 [^ref-91]: [Giant Bomb Reviews](https://www.giantbomb.com/thexder-neo/3030-28445/reviews/) – User review aggregation
 [^ref-92]: [Polygon Coverage](https://www.polygon.com/games/thexder-neo/) – Gaming news coverage
+
+[[1985 - Thexder]]

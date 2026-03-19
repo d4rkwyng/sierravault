@@ -136,3 +136,6 @@ The game's technical innovations, particularly its record and playback system, i
 [^ref-27]: [Sierra Help - Patches Updates](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern system compatibility information
 [^ref-28]: [GOG.com Forum - General Archive](https://www.gog.com/forum/general_archive/aces_over_europe_pacific) – - Community discussion about game availability
 [^ref-29]: [Sierra Help Wiki - Manual](http://wiki.sierrahelp.com/index.php/Aces_Over_Europe_Manual) – - Manual preservation resource
+
+[[1992 - Aces of the Pacific]]
+[[1994 - Aces of the Deep]]

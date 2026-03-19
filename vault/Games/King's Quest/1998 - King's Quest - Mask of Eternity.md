@@ -359,3 +359,13 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-43]: [Speedrun.com – Leaderboards](https://www.speedrun.com/kings_quest_mask_of_eternity) – speedrun records, community statistics
 [^ref-44]: [Game Informer – New King's Quest Feature](https://www.gameinformer.com/b/features/archive/2015/07/28/passing-the-hat-an-in-depth-look-at-the-new-kings-quest.aspx) – Matt Korba quote on Connor
 [^ref-45]: [GameFAQs – Forum Discussion](https://gamefaqs.gamespot.com/boards/88800-kings-quest-mask-of-eternity/79133073) – music appreciation
+
+[[1984 - King's Quest - Quest for the Crown]]
+[[1985 - King's Quest II - Romancing the Throne]]
+[[1986 - King's Quest III - To Heir Is Human]]
+[[1988 - King's Quest IV - The Perils of Rosella]]
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+[[1994 - King's Quest VII - The Princeless Bride]]
+[[2015 - King's Quest]]

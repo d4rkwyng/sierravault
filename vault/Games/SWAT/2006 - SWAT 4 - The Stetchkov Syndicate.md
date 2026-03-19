@@ -331,3 +331,6 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [^ref-37]: [ModDB – This is the Police OST Mod](https://www.moddb.com/mods/this-is-the-police-franchise-music/downloads/swat-4-with-this-is-the-police-franchises-ost) – soundtrack replacement mod
 [^ref-38]: [Neoseeker – FAQs](https://www.neoseeker.com/swat-4-the-stetchkov-syndicate/faqs/) – strategy guide information
 [^ref-39]: [Sydney Morning Herald Review (Archived)](https://web.archive.org/web/20230405054848/https://www.smh.com.au/lifestyle/swat-the-rot-20050507-gdl9sr.html) – "brain over brawn" quote, 3.5/5 score
+
+[[2005 - SWAT 4]]
+[[2006 - SWAT Force]]

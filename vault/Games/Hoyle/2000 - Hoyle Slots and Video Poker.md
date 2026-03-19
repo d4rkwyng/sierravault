@@ -356,3 +356,6 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-10]: [IGDB - Hoyle Slots](https://www.igdb.com/games/hoyle-slots-and-video-poker) - IGDB
 [^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
 [^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
+
+[[2000 - Hoyle Kids Games]]
+[[2000 - Hoyle Solitaire and Mahjong Tiles]]

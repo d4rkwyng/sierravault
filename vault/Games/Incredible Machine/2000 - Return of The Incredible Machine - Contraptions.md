@@ -178,3 +178,6 @@ The community around The Incredible Machine remains active decades after release
 [^ref-42]: [Web Archive - System Requirements](https://web.archive.org/web/20131105101320/http://forums.vgrequirements.info/showthread.php?t=6476) - System requirements
 [^ref-44]: [KHInsider - The Incredible Machine Soundtracks](https://downloads.khinsider.com/game-soundtracks/album/incredible-machine-the-incredible-machine-2) - Composer credits
 [^ref-45]: [Hardcore Gaming 101 - The Incredible Machine](https://www.hardcoregaming101.net/the-incredible-machine-the-even-more-incredible-machine/) - Expansion pack information
+
+[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+[[2001 - The Incredible Machine - Even More Contraptions]]

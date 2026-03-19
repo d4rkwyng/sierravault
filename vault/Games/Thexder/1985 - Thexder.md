@@ -212,3 +212,5 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-90]: [Ken Williams Interview](https://www.filfre.net/ken-williams-interview/) – - Sierra founder discussing Thexder
 [^ref-91]: [MobyGames Rankings](https://www.mobygames.com/game/49/thexder/rating/) – - Player and critic ratings
 [^ref-92]: [Japanese Game Preservation](https://www.oldgamemags.net/thexder) – - Magazine scans and reviews
+
+[[1989 - Fire Hawk - Thexder - The Second Contact]]

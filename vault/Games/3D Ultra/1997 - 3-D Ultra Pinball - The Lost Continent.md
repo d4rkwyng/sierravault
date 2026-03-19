@@ -211,3 +211,6 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-24]: [PriceCharting - Market Data](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball-the-lost-continent) – - Commercial availability and pricing
 [^ref-25]: [Archive.org - Alternative Entry](https://archive.org/details/3-d-ultra-pinball-the-lost-continent) – - Alternative preservation copy
 [^ref-26]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/3-D_Ultra_Pinball:_The_Lost_Continent_Releases) – - Release information (inaccessible source)
+
+[[1997 - 3-D Ultra MiniGolf]]
+[[1998 - 3-D Ultra MiniGolf Deluxe]]

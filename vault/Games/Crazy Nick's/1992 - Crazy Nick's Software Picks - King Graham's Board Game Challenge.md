@@ -206,3 +206,8 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 [^ref-18]: [Internet Archive](https://archive.org/details/msdos_Crazy_Nicks_Software_Picks_-_King_Grahams_Board_Game_Challenge_1992) – Playable preservation copy
 [^ref-19]: [UVList](https://www.uvlist.net/game-217097-crazy-nicks-software-picks-king-grahams-board-game-challenge) – Universal Videogame List entry
 [^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Series information
+
+[[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
+[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]

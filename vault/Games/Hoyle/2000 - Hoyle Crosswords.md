@@ -305,3 +305,6 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 [^ref-17]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Founding history, Ken and Roberta Williams, company timeline
 
 [^ref-18]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Historical product catalog, comprehensive Sierra game listings
+
+[[2000 - Hoyle Casino]]
+[[2000 - Hoyle Kids Games]]

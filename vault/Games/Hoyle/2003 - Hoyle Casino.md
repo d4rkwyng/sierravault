@@ -380,3 +380,6 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 [^ref-19]: [Kanobu.ru – Hoyle Casino 2003](https://kanobu.ru/games/hoyle-casino-2003/reviews/) – release year confirmation
 
 [^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/) – series lineage, Hoyle brand history
+
+[[2003 - Hoyle Card Games]]
+[[2003 - Hoyle Majestic Chess]]

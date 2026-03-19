@@ -275,3 +275,6 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 [^ref-17]: [GOG Community Dreamlist – ROE2/Breach 3](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) – integration details, patch requirements, Thomas Carbone info
 [^ref-18]: [GameSpot – Breach 3 Cheats](https://www.gamespot.com/games/breach-3/cheats/) – command line parameters, level access codes
 [^ref-19]: [GameSpot – Sierra Closes Dynamix](https://www.gamespot.com/articles/sierra-closes-dynamix/1100-2804068/) – Sierra consolidation context
+
+[[1994 - Front Lines]]
+[[1995 - Casino De Luxe]]

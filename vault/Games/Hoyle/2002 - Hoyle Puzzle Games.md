@@ -330,3 +330,6 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-9]: [Sierra Chest – The Incredible Machine: Even More Contraptions](https://sierrachest.com/index.php?a=games&id=321&title=incredible-machine-even-more-contraptions&fld=general) – developer, release year, platforms
 [^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
 [^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
+
+[[2002 - Hoyle Casino Empire]]
+[[2003 - Hoyle Board Games]]

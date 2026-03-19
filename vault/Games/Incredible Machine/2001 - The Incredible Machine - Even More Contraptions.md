@@ -363,3 +363,6 @@ The series' influence can be seen in numerous physics-based puzzle games that fo
 [^ref-36]: [MobyGames – The Incredible Machine (Original)](https://www.mobygames.com/game/2473/the-incredible-machine/) – awards, hall of fame, 1001 Games list
 
 [^ref-37]: [Wired – Contraption Maker Article](https://www.wired.com/2013/05/contraption-maker/) – Jeff Tunnell quote, iOS version history
+
+[[2000 - Return of The Incredible Machine - Contraptions]]
+[[2011 - The Incredible Machine (2011)]]

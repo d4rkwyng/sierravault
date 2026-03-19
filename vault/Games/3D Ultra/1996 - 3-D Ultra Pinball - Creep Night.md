@@ -197,4 +197,7 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 [^ref-24]: [MobyGames - Windows Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/windows/) - Platform-specific reviews
 [^ref-25]: [MobyGames - All Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/) - Complete review compilation
 [^ref-26]: [Horror Games Collection Fandom](https://the-official-horror-games-collection.fandom.com/wiki/3-D_Ultra_Pinball:_Creep_Night_(1996)) - Horror game wiki entry
+
+[[1995 - 3-D Ultra Pinball]]
+[[1997 - 3-D Ultra MiniGolf]]
 [^ref-27]: [TV Tropes - 3D Ultra Pinball: Creep Night](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinballCreepNight) - Cultural analysis and tropes documentation

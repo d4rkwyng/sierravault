@@ -252,3 +252,6 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 [^ref-18]: [PlayStation Store Archives](https://store.playstation.com/) – historical product listing
 [^ref-19]: [Coktel Vision Wiki](https://en.wikipedia.org/wiki/Coktel_Vision) – developer background
 [^ref-20]: [Vivendi Games Archives](https://en.wikipedia.org/wiki/Vivendi_Games) – publisher information
+
+[[1996 - Adiboo - Magical Playland]]
+[[2004 - Adiboo and the Energy Thieves]]

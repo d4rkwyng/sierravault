@@ -326,3 +326,6 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 [^ref-20]: [Price Charting - Hoyle](https://www.pricecharting.com/) - collector pricing
 [^ref-21]: [Encore Software Official](https://www.encoreusa.com/) - publisher info
 [^ref-22]: [Steam - Hoyle Games](https://store.steampowered.com/) - platform info
+
+[[2008 - Hoyle Puzzle and Board Games]]
+[[2011 - Hoyle Swashbucklin Slots]]

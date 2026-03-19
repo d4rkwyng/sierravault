@@ -240,3 +240,5 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 [^ref-18]: [Internet Archive – InterAction Magazine](https://archive.org/details/interactionmagazine) – Sierra magazine coverage
 [^ref-19]: [Space Quest Wiki – Mini-Games](https://spacequest.fandom.com/wiki/Ms._Astro_Chicken) – Ms. Astro Chicken mini-game details
 [^ref-20]: [Space Quest Wiki – Monolith Burger](https://spacequest.fandom.com/wiki/Monolith_Burger) – Monolith Burger location and game details
+
+[[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]

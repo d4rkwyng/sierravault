@@ -342,3 +342,5 @@ The game's ongoing availability on modern digital platforms and the active moddi
 [^ref-37]: [Reddit r/LoMSE Subreddit](https://www.reddit.com/r/LoMSE/) – community activity, gameplay discussions
 [^ref-38]: [Steam Community Discussions – Sequel Thread](https://steamcommunity.com/app/404040/discussions/0/135511379836100156/) – fan requests, rights complications
 [^ref-39]: [RAWG – Lords of Magic Special Edition](https://rawg.io/games/lords-of-magic-special-edition) – Lords of the Realm connection
+
+[[1997 - Lords of Magic]]

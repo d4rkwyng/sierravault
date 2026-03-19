@@ -353,3 +353,6 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 [^ref-28]: [GameSpot – Sierra Reorganizes](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – corporate restructuring
 [^ref-29]: [Old Games Download – Hoyle Classic Games](https://oldgamesdownload.com/hoyle-classic-games/) – developer, publisher confirmation
 [^ref-30]: [MobyGames – Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) – release dates, platform details
+
+[[1990 - Hoyle Official Book of Games - Volume 2]]
+[[1991 - Hoyle Official Book of Games - Volume 4]]

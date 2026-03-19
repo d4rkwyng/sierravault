@@ -226,3 +226,5 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-19]: [GameFAQs – PC Data](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald/data) – US release year, ESRB K-A rating
 [^ref-20]: [MobyGames – 1995 Mac Releases](https://www.mobygames.com/platform/macintosh/year:1995/page:3/) – Macintosh 1995 release confirmation
 [^ref-21]: [Metacritic – Details Page](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/details/) – basic metadata confirmation
+
+[[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]

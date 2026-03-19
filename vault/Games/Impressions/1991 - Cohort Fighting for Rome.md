@@ -281,3 +281,5 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 [^ref-14]: [Lemon Amiga – Cohort: Fighting for Rome](https://www.lemonamiga.com/games/details.php?id=347) – Amiga platform review, user ratings, screenshots
 [^ref-15]: [DOS Games Archive – Cohort: Fighting for Rome](https://www.dosgamesarchive.com/download/cohort-fighting-for-rome) – developer/publisher confirmation, category listing, download availability
 [^ref-16]: [World of Spectrum – Micro Miniatures Series](https://worldofspectrum.org/archive/software?company=impressions) – Impressions Games catalog, series context, contemporary release information
+
+[[1991 - Fort Apache]]

@@ -183,3 +183,9 @@ Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: 
 [^ref-21]: [ScummVM Wiki – Quest for Glory III](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_III%3A_Wages_of_War) – technical compatibility
 [^ref-22]: [The Cutting Room Floor – Quest for Glory III](https://tcrf.net/Quest_for_Glory_III%3A_Wages_of_War) – unused content
 [^ref-23]: [Games Nostalgia – Quest for Glory III](https://gamesnostalgia.com/game/quest-for-glory-iii-wages-of-war) – preservation
+
+[[1989 - Quest for Glory I - So You Want to Be a Hero]]
+[[1990 - Quest for Glory II - Trial by Fire]]
+[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
+[[1998 - Quest for Glory V - Dragon Fire]]

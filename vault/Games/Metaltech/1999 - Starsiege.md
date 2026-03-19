@@ -331,3 +331,6 @@ The game's legacy is complicated by its commercial failure, which contributed to
 [^ref-47]: [Dynamix Fandom – Starsiege: Tribes](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – PC Gamer quote, awards
 [^ref-48]: [Epic Games Store – Starsiege: Deadzone](https://store.epicgames.com/en-US/p/starsiege-deadzone) – 2023 revival details
 [^ref-49]: [Internet Archive – Starsiege Patches](https://archive.org/details/StarsiegePatches) – patch preservation
+
+[[1998 - Starsiege - Tribes]]
+[[2001 - Tribes 2]]

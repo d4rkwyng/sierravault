@@ -289,4 +289,7 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [^ref-24]: [DOS Zone – Merchant Colony](https://dos.zone/merchant-colony-1991/) – browser playability, platform confirmation
 [^ref-25]: [Games Database – Merchant Colony (Atari ST)](https://www.gamesdatabase.org/game/atari-st/merchant-colony) – platform availability
 [^ref-26]: [Games Database – Merchant Colony (Amiga)](https://www.gamesdatabase.org/game/commodore-amiga/merchant-colony) – cross-platform release confirmation
+
+[[1991 - Fort Apache]]
+[[1992 - Air Bucks]]
 [^ref-27]: [Atari Legend – Merchant Colony](https://www.atarilegend.com/games/2201) – designer credit (Simon Bradbury), graphics team

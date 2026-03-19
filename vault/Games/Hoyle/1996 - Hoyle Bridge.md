@@ -357,3 +357,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 [^ref-25]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise catalog
 [^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – vintage product confirmation
 [^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Hoyle+Bridge) – DOS version reference
+
+[[1991 - Hoyle Official Book of Games - Volume 4]]
+[[1996 - Hoyle Blackjack]]

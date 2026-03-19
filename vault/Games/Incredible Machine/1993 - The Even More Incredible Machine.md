@@ -280,3 +280,6 @@ The game's design philosophy of allowing multiple solutions to each puzzle was a
 [^ref-18]: [MobyGames – The Incredible Machine Mega Pack](https://www.mobygames.com/game/42737/the-incredible-machine-mega-pack/) – compilation contents
 [^ref-19]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/564703-the-even-more-incredible-machine/faqs) – community guide information
 [^ref-20]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – spin-off information
+
+[[1993 - Sid & Al's Incredible Toons]]
+[[1994 - The Incredible Machine 2]]

@@ -279,3 +279,6 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 [^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
 [^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
 [^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball
+
+[[1999 - 3-D Ultra Lionel TrainTown]]
+[[1999 - 3-D Ultra Radio Control Racers]]

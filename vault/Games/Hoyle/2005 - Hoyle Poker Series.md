@@ -357,3 +357,6 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 [^ref-21]: [eBay Canada – Hoyle Poker Series Bundle](https://www.ebay.ca/itm/155299243567) – publisher, platform, ESRB rating, compatibility warnings
 [^ref-22]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – developer/publisher history, sales data, version history, bugs
 [^ref-23]: [Amazon Singapore – Hoyle Products](https://www.amazon.sg/Video-Games-Hoyle/s?rh=n%3A6315182051%2Cp_4%3AHoyle) – publisher information, platform compatibility
+
+[[2005 - Hoyle Casino 3D]]
+[[2005 - Hoyle Puzzle and Board Games]]

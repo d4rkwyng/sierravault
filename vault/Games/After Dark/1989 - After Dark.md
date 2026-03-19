@@ -180,4 +180,6 @@ The technical influence of After Dark proved substantial, with the software appe
 [^ref-54]: [Speedrun.com - After Dark Games](https://www.speedrun.com/adg) - Leaderboards and statistics
 [^ref-55]: [Steam Community - Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2876250945) - Meta-gaming mechanics guide
 [^ref-56]: [Steam Store - Search](https://store.steampowered.com/search/?term=After+Dark+Games) - Digital storefront search
+
+[[1991 - More After Dark]]
 [^ref-57]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Technical support discussion

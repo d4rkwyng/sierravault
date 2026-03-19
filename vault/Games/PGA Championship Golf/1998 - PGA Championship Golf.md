@@ -301,3 +301,5 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 [^ref-32]: [Sierra Chest – PGA Championship Golf 2000 Titanium](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=box) – packaging contents, box information
 [^ref-33]: [Dynamix Golf WordPress](https://dynamixgolf.wordpress.com/about/) – Larry Nelson quote on golf simulator technology
 [^ref-34]: [MobyGames – PGA Championship Golf Series](https://www.mobygames.com/group/11215/pga-championship-golf-series/) – series chronology, versions
+
+[[1999 - PGA Championship Golf 1999 Edition]]

@@ -363,3 +363,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 [^ref-21]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1&fld=music) - Composer credit
 [^ref-22]: [The Gamers Guides Technical](https://www.thegamersguides.com/how-to-play-hoyle-classic-board-games-on-windows-10/) - Technical specifications
 [^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Fan perspective on series significance
+
+[[1998 - Hoyle Battling Ships and War]]
+[[1999 - Hoyle Backgammon and Cribbage]]

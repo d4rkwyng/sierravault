@@ -353,3 +353,6 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 [^ref-14]: [My Abandonware – Hoyle Word Games](https://www.myabandonware.com/game/hoyle-word-games-hzn) – Abandonware preservation
 
 [^ref-15]: [Metacritic – Hoyle Word Games](https://www.metacritic.com/game/hoyle-word-games/) – Game database entry, official description
+
+[[1999 - Hoyle Casino]]
+[[2000 - Hoyle Casino]]

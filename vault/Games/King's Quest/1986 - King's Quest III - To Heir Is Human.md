@@ -275,3 +275,13 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-23]: [Compute!'s Official Book of King's Quest](https://archive.org/details/computes-official-book-of-kings-quest) – published spell formulas as alternative to manual
 [^ref-24]: [Games vs. Hardware: The History of PC Video Games](https://books.google.com/books?id=6asPBAAAQBAJ) – Bogdan Ion Purcaru (2014), technical advancement context
 [^ref-25]: [Inside the Chest (Sierra Newsletter)](https://archive.org/details/sierra-inside-the-chest-1988) – Fall/Winter 1988, screen count comparison data
+
+[[1984 - King's Quest - Quest for the Crown]]
+[[1985 - King's Quest II - Romancing the Throne]]
+[[1988 - King's Quest IV - The Perils of Rosella]]
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+[[1994 - King's Quest VII - The Princeless Bride]]
+[[1998 - King's Quest - Mask of Eternity]]
+[[2015 - King's Quest]]

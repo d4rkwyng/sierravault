@@ -180,3 +180,6 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 [^ref-59]: [Speedrun.com](https://www.speedrun.com/homeworld_deserts_of_kharak) – Speedrun statistics
 [^ref-61]: [Steam Reviews - Expedition Guide](https://store.steampowered.com/app/428810/Homeworld_Deserts_of_Kharak__Expedition_Guide/) – Manual comparison praise
 [^ref-62]: [Fists of Heaven - Expedition Guide Review](https://www.fistsofheaven.com/homeworld-deserts-of-kharak-expedition-guide-review/) – Guide content overview
+
+[[2015 - Homeworld Remastered Collection]]
+[[2024 - Homeworld 3]]

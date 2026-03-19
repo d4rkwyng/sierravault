@@ -259,3 +259,6 @@ The series influenced subsequent sports games' approach to franchise modes, thou
 [^ref-23]: [GMGames Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) - VPNFL99 mod description
 [^ref-24]: [MyAbandonware Technical](https://www.myabandonware.com/game/front-page-sports-football-pro-95-season-2ru) - DOSBox compatibility
 [^ref-26]: [Steam Community](https://steamcommunity.com/) - Modern nostalgia assessment
+
+[[1997 - Front Page Sports - Baseball Pro '98]]
+[[1997 - Front Page Sports - Golf]]

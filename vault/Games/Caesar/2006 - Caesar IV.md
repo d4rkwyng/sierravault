@@ -320,3 +320,5 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [^ref-47]: [IGN – Caesar IV Now Shipping](https://www.ign.com/articles/2006/09/27/now-shipping) – MSRP, Cindy Cook quote
 [^ref-48]: [Engadget – Tilted Mill Interview](https://www.engadget.com/2008-05-29-tilted-mill-updating-children-of-the-nile-self-publishing-next.html) – distribution opportunities
 [^ref-49]: [PCGamesN – Pompeii: The Legacy Interview](https://www.pcgamesn.com/pompeii-the-legacy/city-builder-interview) – Caesar IV as inspiration
+
+[[1998 - Caesar III]]

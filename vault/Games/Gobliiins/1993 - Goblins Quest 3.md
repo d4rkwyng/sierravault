@@ -241,3 +241,6 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 [^ref-28]: [GameFAQs Walkthrough by Gameesh](https://gamefaqs.gamespot.com/pc/564709-goblins-quest-3/faqs/69053) – personal retrospective, version history
 [^ref-29]: [Lutris – Goblins Quest 3](https://lutris.net/games/goblins-quest-3/) – plot summary, platform information
 [^ref-30]: [Downloads.KHInsider – Goblins 3 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/goblins-3-pc-game-rip) – soundtrack track listing, audio specifications
+
+[[1992 - Gobliins 2 - The Prince Buffoon]]
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]

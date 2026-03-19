@@ -216,3 +216,8 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [^ref-8]: [Sierra Fandom Wiki – Gabriel Knight](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series wiki information
 [^ref-9]: [MobyGames – Gabriel Knight Series](https://www.mobygames.com/group/1267/gabriel-knight/) – Series database entry
 [^ref-10]: [Giant Bomb – Gabriel Knight](https://www.giantbomb.com/gabriel-knight/3025-2174/) – Series information
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]

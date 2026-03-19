@@ -292,3 +292,6 @@ From a preservation standpoint, the title remains notable as one of five budget 
 [^ref-19]: [LaunchBox Games Database – ScummVM Entry](https://gamesdb.launchbox-app.com/games/details/86019) – ScummVM platform listing, alternate naming
 
 [^ref-20]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Crazy+Nick%27s+Software+Picks%3A+Leisure+Suit+Larry%27s+Casino) – release date confirmation
+
+[[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]

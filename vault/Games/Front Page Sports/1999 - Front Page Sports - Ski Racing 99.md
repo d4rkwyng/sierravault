@@ -298,3 +298,5 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release
+
+[[1997 - Front Page Sports Golf - Tour Course Add-On]]

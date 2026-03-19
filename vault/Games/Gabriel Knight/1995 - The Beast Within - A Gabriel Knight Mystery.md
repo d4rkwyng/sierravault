@@ -259,3 +259,8 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[Gabriel Knight 3: Blood of
 [^ref-63]: [Wayback Machine PC Games Magazine](https://web.archive.org/web/19961018115444/http://www.pcgamesmag.com/games/Mar96/beast396.html) – - PC Games Magazine March 1996 review
 [^ref-64]: [Wikidata Entry](https://www.wikidata.org/wiki/Q2525826) – - Structured database metadata
 [^ref-65]: [MobyGames Alternative URL](https://www.mobygames.com/game/118/) – - Additional database information
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+[[TBD - Gabriel Knight 4 - Five Hearts]]

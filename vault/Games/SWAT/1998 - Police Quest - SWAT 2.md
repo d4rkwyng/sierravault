@@ -349,3 +349,6 @@ The game's transition from the Police Quest adventure game format to real-time t
 [^ref-26]: [Steam Workshop – SWAT 2 Music Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2819088076) – fan project, user comments
 [^ref-27]: [Neoseeker – SWAT 2 FAQs](https://www.neoseeker.com/swat2/faqs/) – walkthrough info, series listing
 [^ref-28]: [GameSpot – Sierra Plans for the Future](https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/) – Sierra FX brand, corporate restructuring
+
+[[1995 - Police Quest - SWAT]]
+[[1999 - SWAT 3 - Close Quarters Battle]]

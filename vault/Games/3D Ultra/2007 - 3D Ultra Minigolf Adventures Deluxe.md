@@ -282,3 +282,6 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher
 [^ref-17]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series game list, release years
 [^ref-18]: [Internet Archive – 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) – 1998 version preservation, Dynamix/Sierra publication
+
+[[2006 - 3D Ultra MiniGolf Adventures]]
+[[2010 - 3-D Ultra MiniGolf Adventures 2]]

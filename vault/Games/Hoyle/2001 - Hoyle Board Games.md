@@ -380,3 +380,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [^ref-15]: [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – file size, user-reported issues
 [^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
+
+[[2000 - Hoyle Solitaire and Mahjong Tiles]]
+[[2001 - Hoyle Casino]]

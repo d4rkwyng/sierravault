@@ -279,3 +279,6 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-30]: [RAWG.io – Ground Control: Dark Conspiracy](https://rawg.io/games/ground-control-dark-conspiracy) – basic game metadata
 [^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
 [^ref-32]: [FreeGOGPCGames – Ground Control Anthology](https://freegogpcgames.com/475/ground-control-anthology/) – narrative context, platform compatibility
+
+[[2000 - Ground Control]]
+[[2004 - Ground Control II - Operation Exodus]]

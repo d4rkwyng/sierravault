@@ -320,3 +320,5 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 [^ref-27]: [GameFAQs FAQ – RedDemon/ParanoidXE](https://gamefaqs.gamespot.com/pc/198285-roberta-williams-phantasmagoria/faqs/2111) – easter eggs, technical requirements, censorship context
 [^ref-28]: [The Digital Antiquarian – Making Sierra Pay](https://www.filfre.net/2021/08/making-sierra-pay/) – industry impact analysis
 [^ref-29]: [AbandonwareDOS – Search Results](https://www.abandonwaredos.com/search.php?search=Roberta+Williams%27+Phantasmagoria) – sequel listing
+
+[[1996 - Phantasmagoria - A Puzzle of Flesh]]

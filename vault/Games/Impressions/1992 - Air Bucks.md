@@ -312,3 +312,6 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [^ref-25]: [Scribd – Air Bucks Manual](https://www.scribd.com/document/120481106/Air-Bucks) – manual metadata
 [^ref-26]: [MyAbandonware – User Comments](https://www.myabandonware.com/game/air-bucks-1bv/play-1bv) – nostalgic user comment
 [^ref-27]: [Internet Archive – Manual and Strategy Guide](https://archive.org/details/air-bucks-manual-and-strategy-guide) – manual availability
+
+[[1991 - Merchant Colony]]
+[[1992 - Air Force Commander]]

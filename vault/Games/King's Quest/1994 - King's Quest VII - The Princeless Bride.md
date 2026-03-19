@@ -327,3 +327,13 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – – detailed playthrough analysis, chapter structure, interface changes
 [^ref-37]: [Sierra Chest – King's Quest VII Tech Support](https://www.sierrachest.com/index.php?a=games&id=7&fld=tech) – – DOSBox compatibility recommendations, firecracker bug workaround
 [^ref-38]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Sierra's financial pressures during multimedia era, corporate changes
+
+[[1984 - King's Quest - Quest for the Crown]]
+[[1985 - King's Quest II - Romancing the Throne]]
+[[1986 - King's Quest III - To Heir Is Human]]
+[[1988 - King's Quest IV - The Perils of Rosella]]
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+[[1998 - King's Quest - Mask of Eternity]]
+[[2015 - King's Quest]]

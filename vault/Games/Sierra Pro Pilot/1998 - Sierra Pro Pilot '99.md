@@ -220,3 +220,6 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 [^ref-21]: [Wikidata – Q29962139](https://www.wikidata.org/wiki/Q29962139) – sales figures, ESRB rating
 [^ref-22]: [Retrolorean – Sierra Pro Pilot 98](https://www.retrolorean.com/en/sierra-pro-pilot-98-the-complete-flight-simulator-24807) – aircraft specifications, regional releases
 [^ref-23]: [Kotaku – Sierra Pro Pilot 98](https://kotaku.com/games/sierra-pro-pilot-98-the-complete-flight-simulator/gallery) – game overview
+
+[[1997 - Sierra Pro Pilot 98]]
+[[1998 - Sierra Pro Pilot USA]]

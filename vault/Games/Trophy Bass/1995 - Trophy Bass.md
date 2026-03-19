@@ -284,3 +284,5 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 [^ref-33]: [GOG.com Dreamlist – Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – community interest
 [^ref-34]: [GameRevolution – Trophy Bass 2](https://www.gamerevolution.com/game/trophy-bass-2) – gameplay features
 [^ref-35]: [FilePlanet – Trophy Bass 4 Patch](https://www.fileplanet.com/archive/p-29857/Trophy-Bass-4-Patch-1-0-0-3) – patch details
+
+[[1996 - Front Page Sports - Trophy Bass 2]]

@@ -159,3 +159,5 @@ The Special Edition release in 2000 attempted to address many of the original ga
 [^ref-36]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-special-edition-review/1900-2535719/) – - Competitive comparison
 [^ref-37]: [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – - Modern assessment quote
 [^ref-38]: [Amazon](https://www.amazon.com/Lords-Magic-Special-Jewel-Case-pc/dp/B00001NFS5) – - Special Edition assessment
+
+[[1998 - Lords of Magic - Special Edition]]

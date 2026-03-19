@@ -259,3 +259,6 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – patch version, engine confirmation, publisher details
 [^ref-10]: [Steam Workshop – NASCAR Legends Mod for Wreckfest](https://steamcommunity.com/sharedfiles/filedetails/?id=1462061824) – mod statistics, features, creator credits
 [^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization, developer attribution
+
+[[1999 - NASCAR Craftsman Truck Series Racing]]
+[[1999 - NASCAR Racing 3]]

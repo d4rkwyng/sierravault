@@ -260,4 +260,7 @@ The game represents Impressions Games' continued experimentation with historical
 [^ref-20]: [Lemon Amiga – Conquest of Japan](https://www.lemonamiga.com/games/details.php?id=1887) – Edcom developer, Amiga specs
 [^ref-21]: [Online Classic Games – Conquest of Japan](https://onlineclassicgames.com/game/conquest-of-japan/) – graphics praise quote
 [^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/conquest-of-japan-1db/play-1db) – DOSBox compatibility
+
+[[1992 - Air Force Commander]]
+[[1992 - Discovery - In the Steps of Columbus]]
 [^ref-23]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Conquest+of+Japan) – alternate title confirmation

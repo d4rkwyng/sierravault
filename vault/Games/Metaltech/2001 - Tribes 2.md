@@ -165,3 +165,6 @@ The community created extensive modifications and content, including approximate
 [^ref-40]: [TribesNext - Tribes 2 Ultimate Pack](https://www.tribesnext.com/forum/discussion/2364/tribes-2-ultimate-pack) - Community content statistics
 [^ref-41]: [Shacknews - Sierra shutting down 21 old games](https://www.shacknews.com/article/55173/sierra-shutting-down-21-old) - Server shutdown coverage
 [^ref-42]: [GameSpot - Get every Tribes game for free](https://www.gamespot.com/articles/get-every-tribes-game-for-free/1100-6431870/) - Freeware announcement coverage
+
+[[1999 - Starsiege]]
+[[2002 - Tribes - Aerial Assault]]

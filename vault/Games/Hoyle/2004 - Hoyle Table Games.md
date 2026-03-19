@@ -360,3 +360,6 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 [^ref-15]: [Old Games Download – Hoyle Table Games 2004](https://oldgamesdownload.com/hoyle-table-games-2004/) – File size 601.6MB, ISO format, developer credits
 [^ref-16]: [RAWG – Hoyle Table Games 2004](https://rawg.io/games/hoyle-table-games-2004) – Release date August 1, 2003, Vivendi Universal Games attribution[^ref-15]: [Giant Bomb - Hoyle Table Games](https://www.giantbomb.com/hoyle-table-games/) - game wiki entry
 [^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry
+
+[[2004 - Hoyle Puzzle Games]]
+[[2005 - Hoyle Board Games]]

@@ -183,3 +183,16 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-41]: [VGM Rips](https://vgmrips.net/packs/pack/leisure-suit-larry-5-passionate-patti-does-a-little-undercover-work-ibm-pc-at) – - Audio preservation and technical specs
 [^ref-42]: [Speedrun.com](https://www.speedrun.com/larry5) – - Speedrunning community data
 [^ref-43]: [Reddit Discussion](https://www.reddit.com/r/Sierra/comments/1kru3xu/leisure_suit_larry_5_passionate_patti_does_a/) – - Community discussion and plot summary
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+[[1996 - Leisure Suit Larry 7 - Love for Sail]]
+[[1998 - Leisure Suit Larry's Casino]]
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+[[2013 - Leisure Suit Larry - Reloaded]]
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

@@ -359,3 +359,5 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [^ref-91]: [Combine OverWiki – Steam](https://combineoverwiki.net/wiki/Steam) – platform transition documentation
 [^ref-92]: [Valve Archive – Deathmatch Classic](https://valvearchive.com/archive/deathmatch-classic/) – historical documentation
 [^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials
+
+[[2000 - Ricochet]]

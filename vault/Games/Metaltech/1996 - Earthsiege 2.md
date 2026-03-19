@@ -190,3 +190,6 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 [^ref-24]: [GitHub - RBX IT Wiki](https://github.com/juanitogan/rbxit/wiki/Metaltech-Series) – - Video codec details
 [^ref-25]: [Tribes Fandom - EarthSiege 2](https://tribes.fandom.com/wiki/EarthSiege_2) – - Universe continuity
 [^ref-26]: [PC Gamer](http://www.pcgamer.com/hi-rez-makes-previous-tribes-games-free/) – - Freeware release announcement
+
+[[1995 - Metaltech - Earthsiege Expansion Pack]]
+[[1996 - MissionForce - Cyberstorm]]

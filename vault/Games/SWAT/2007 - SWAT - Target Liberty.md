@@ -275,3 +275,5 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [^ref-31]: [VGChartz – Sales Data](https://www.vgchartz.com/game/12293/swat-target-liberty/cheats) – worldwide sales figures, regional breakdown, PSN release
 [^ref-32]: [GameFAQs – Cheats](https://gamefaqs.gamespot.com/psp/939011-swat-target-liberty/cheats) – hard mode unlock condition
 [^ref-33]: [AVID Wiki – Sierra Logo Variations](https://www.avid.wiki/Sierra_Entertainment/Logo_Variations) – unique logo intro description
+
+[[2006 - SWAT Force]]

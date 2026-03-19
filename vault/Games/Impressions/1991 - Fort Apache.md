@@ -233,3 +233,6 @@ The game's mixed reception reflects the tensions between promising premises and 
 [^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
 [^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
 [^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information
+
+[[1991 - Cohort Fighting for Rome]]
+[[1991 - Merchant Colony]]

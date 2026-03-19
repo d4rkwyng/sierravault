@@ -311,3 +311,5 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 [^ref-22]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/90537-front-page-sports-football-pro-96-season) – metadata, ESRB rating
 [^ref-23]: [IGN – FPS Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – release date, features
 [^ref-24]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – game description
+
+[[1993 - Front Page Sports - Football Pro]]

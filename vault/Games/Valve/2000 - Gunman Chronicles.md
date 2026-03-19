@@ -346,3 +346,6 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [^ref-50]: [eBay Manual Listing](https://www.ebay.com/itm/145032850799) – manual page count
 [^ref-51]: [Obscuritory](https://obscuritory.com/shooter/gunman-chronicles/) – "break the mold" analysis, escalating scale quote
 [^ref-52]: [Steam Community – OBM Discussion](https://steamcommunity.com/app/311810/discussions/0/3764482382516180372/) – no remake plans
+
+[[2000 - Counter-Strike]]
+[[2000 - Ricochet]]

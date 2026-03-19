@@ -368,3 +368,6 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 [^ref-9]: [MobyGames – Viva Media Company Profile](https://www.mobygames.com/company/3867/viva-media-llc/) – publisher information, company description, publishing awards
 
 [^ref-10]: [SteamDB – Hoyle Official Card Games Subscriptions](https://steamdb.info/app/397420/subs/) – estimated owners (3.2k VG Insights, 16.7k PlayTracker), file sizes (Windows/macOS), peak concurrent players (35), Germany restriction, download/disk sizes
+
+[[2011 - Hoyle Swashbucklin Slots]]
+[[2016 - Hoyle Casino Games Collection]]

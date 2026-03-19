@@ -353,3 +353,6 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
 [^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
 [^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
+
+[[1999 - Hoyle Backgammon and Cribbage]]
+[[1999 - Hoyle Word Games]]

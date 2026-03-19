@@ -316,3 +316,5 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [^ref-42]: [Steam – GOBLiiiNS5](https://store.steampowered.com/app/2475980/GOBLiiiNS5/) – game description, technical specs
 [^ref-43]: [Speedrun.com – Gobliiins](https://www.speedrun.com/gobliiins) – speedrunning community
 [^ref-44]: [Virtual Moose – Gobliiins Guide](https://virtualmoose.org/2023/06/02/an-intro-guide-to-gobliiins/) – series overview, recommendations
+
+[[1992 - Gobliins 2 - The Prince Buffoon]]

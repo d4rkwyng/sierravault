@@ -227,3 +227,5 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 [^ref-27]: [GameFAQs Cheats](https://gamefaqs.gamespot.com/pc/189342-after-dark-games/cheats) - Easter eggs and hidden features
 [^ref-28]: [Steam Search](https://store.steampowered.com/search/?term=After+Dark+Games) - Digital availability status
 [^ref-29]: [SierraChest](https://sierrachest.com/index.php?a=games&id=744&title=after-dark-games) - Demo information, bundling details
+
+[[1991 - More After Dark]]

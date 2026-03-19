@@ -288,3 +288,5 @@ In retrospect, the game represents an interesting moment in edutainment history�
 [^ref-16]: [Sound Effects Fandom Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – sound effects used, European release name
 [^ref-17]: [CodeWeavers Compatibility](https://www.codeweavers.com/compatibility/crossover/3d-ultra-lionel-traintown-deluxe) – CrossOver compatibility ratings
 [^ref-18]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – retail availability, difficulty progression
+
+[[1999 - 3-D Ultra Pinball - Power]]

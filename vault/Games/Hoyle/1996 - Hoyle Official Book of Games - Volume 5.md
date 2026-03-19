@@ -378,3 +378,6 @@ From a preservation standpoint, Hoyle Solitaire represents an era when major gam
 [^ref-21]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – technical issues, bug documentation
 [^ref-22]: [MobyGames – Hoyle Official Book of Games Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – Sierra character opponents, easter eggs, idle conversations
 [^ref-23]: [GameFAQs – Hoyle Solitaire and Mahjong Tiles](https://gamefaqs.gamespot.com/pc/681888-hoyle-solitaire-and-mahjong-tiles) – combination release details, user ratings
+
+[[1996 - Hoyle Casino]]
+[[1996 - Hoyle Solitaire]]

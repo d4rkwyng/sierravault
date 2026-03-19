@@ -242,3 +242,5 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 [^ref-21]: [Reddit – Mac Port Discussion](https://www.reddit.com/r/adventuregames/comments/13f043h/gobliiins_5_demo_mac_port/) – fan porting efforts, ScummVM compatibility
 [^ref-22]: [Steam Community Guide – Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=3007680547) – community walkthrough
 [^ref-23]: [SteamGifts – Gobliiins 6 Discussion](https://www.steamgifts.com/discussion/fyhDo/kickstarter-for-gobliins-6-a-quirky-comeback-adventure-sequel-to-gobliins-2) – Gobliiins 6 details, Fingus and Winkle characters
+
+[[2009 - Gobliiins 4]]

@@ -197,3 +197,6 @@ The series' influence can be seen in modern football management games, and its e
 [^ref-20]: [MyAbandonware](https://www.myabandonware.com/search/q/Front+Page+Sports%3A+Football+Pro) – - Series release timeline
 [^ref-21]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Essential mod recommendation
 [^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – - Modern platform availability
+
+[[1992 - Front Page Sports Football 92]]
+[[1994 - Front Page Sports - Baseball Pro]]

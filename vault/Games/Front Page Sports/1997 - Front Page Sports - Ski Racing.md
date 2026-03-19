@@ -192,3 +192,6 @@ A community-created patch has been developed to address compatibility issues, sp
 [^ref-18]: [IGDB – Front Page Sports: Ski Racing](https://www.igdb.com/games/front-page-sports-ski-racing) – game database entry
 [^ref-19]: [Giant Bomb – Front Page Sports](https://www.giantbomb.com/front-page-sports/3025-1447/) – franchise information
 [^ref-20]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-ski-racing/) – preservation archives
+
+[[1997 - Front Page Sports - Golf]]
+[[1997 - Front Page Sports - Trophy Rivers]]

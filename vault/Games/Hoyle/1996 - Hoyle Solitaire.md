@@ -414,3 +414,6 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [^ref-22]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa) – 1998 rerelease metadata
 [^ref-23]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – browser emulation, 1996 release
 [^ref-24]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1163/hoyle-card-games/) – 1999 card games, character descriptions
+
+[[1993 - Hoyle Classic Card Games]]
+[[1996 - Hoyle Official Book of Games - Volume 5]]

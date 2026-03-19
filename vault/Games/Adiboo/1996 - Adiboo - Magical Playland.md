@@ -245,3 +245,6 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 [^ref-11]: [IGN – Adiboo Magical Playland User Reviews](https://www.ign.com/games/adiboo-magical-playland/user-reviews) – user ratings, release date
 [^ref-12]: [Old Games Download – Adiboo Magical Playland](https://oldgamesdownload.com/adiboo-magical-playland/) – file size, compatibility issues, user technical support
 [^ref-13]: [MobyGames Search Results](https://www.mobygames.com/search/?q=adiboo-magical-playland) – related Adiboo titles listing
+
+[[1992 - A.J.'s World of Discovery]]
+[[2003 - Adiboo - Paziral's Secret]]

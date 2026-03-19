@@ -191,3 +191,9 @@ Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory III:
 [^ref-22]: [TV Tropes – Quest for Glory II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryII) – trope analysis, easter eggs
 [^ref-23]: [ScummVM Wiki – Quest for Glory II](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_II%3A_Trial_by_Fire) – technical compatibility
 [^ref-24]: [The Cutting Room Floor – Quest for Glory II](https://tcrf.net/Quest_for_Glory_II%3A_Trial_by_Fire) – unused content
+
+[[1989 - Quest for Glory I - So You Want to Be a Hero]]
+[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
+[[1992 - Quest for Glory III - Wages of War]]
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
+[[1998 - Quest for Glory V - Dragon Fire]]

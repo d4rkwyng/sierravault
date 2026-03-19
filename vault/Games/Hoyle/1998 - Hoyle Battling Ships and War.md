@@ -381,3 +381,6 @@ The collaboration between experienced Sierra personnel on this title, including 
 [^ref-11]: [MobyGames – Eric Tangborn](https://www.mobygames.com/person/27396/eric-tangborn/) – QA analyst credit
 
 [^ref-12]: [MobyGames – Torsten Reinl](https://www.mobygames.com/person/23208/torsten-reinl/) – QA analyst credit
+
+[[1997 - Hoyle Classic Board Games]]
+[[1997 - Hoyle Poker]]

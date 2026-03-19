@@ -161,3 +161,6 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 [^ref-29]: [GOG Command Wishlist](https://www.gog.com/dreamlist/game/command-aces-of-the-deep) – - Community voting for re-release
 [^ref-30]: [Magazines From Past](https://magazinesfromthepast.fandom.com/wiki/PC_Player_Issue_1) – - Historical magazine reference
 [^ref-31]: [MobyGames Main Page](https://www.mobygames.com/game/1171/) – - Primary database entry
+
+[[1993 - Aces Over Europe]]
+[[1995 - Command Aces of the Deep]]

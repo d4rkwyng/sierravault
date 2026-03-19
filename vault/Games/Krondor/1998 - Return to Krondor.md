@@ -361,3 +361,5 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-90]: [Speedrun.com Leaderboard](https://www.speedrun.com/return_to_krondor) – Speedrunning community
 [^ref-91]: [Internet Archive Manual](https://archive.org/details/return-to-krondor-manual) – Manual preservation
 [^ref-92]: [MobyGames Rankings](https://www.mobygames.com/game/3254/return-to-krondor/rating/) – Player ratings
+
+[[1997 - Betrayal in Antara]]

@@ -261,3 +261,6 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 [^ref-13]: [DOS Games Archive – Front Lines](https://www.dosgamesarchive.com/download/front-lines) – developer/publisher information, download availability, category classification
 [^ref-14]: [Retro CDN – Front Lines Screenshots](https://retrocdn.net/Front_Lines) – box art, screenshots, visual documentation
 [^ref-15]: [Hall of Light – Front Lines (cancelled Amiga)](https://hol.abime.net/3196) – Amiga version details, cancellation information, Andrew Prime credited as coder
+
+[[1994 - Detroit]]
+[[1995 - Breach 3]]

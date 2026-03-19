@@ -328,3 +328,6 @@ The game's lasting appeal is demonstrated by its continued following decades aft
 [^ref-23]: [Metacritic – Front Page Sports: Golf](https://www.metacritic.com/game/front-page-sports-golf/) – release date, developer, publisher information
 [^ref-24]: [Amazon – Product Page](https://www.amazon.com/Front-Page-Sports-GOLF/dp/B0009H75IE) – customer ratings, package specifications
 [^ref-25]: [Wikidata – Front Page Sports: Golf](https://www.wikidata.org/wiki/Q3753640) – platform, ESRB rating, series information
+
+[[1997 - Front Page Sports - Football Pro '98]]
+[[1997 - Front Page Sports - Ski Racing]]

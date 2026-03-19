@@ -373,3 +373,6 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 [^ref-10]: [MobyGames – Hoyle Casino 2006](https://www.mobygames.com/game/22695/hoyle-casino-2006/) – game database entry with technical details
 [^ref-11]: [Giant Bomb – Hoyle Casino 2006](https://www.giantbomb.com/hoyle-casino-2006/3030-39604/) – game wiki and community content
 [^ref-12]: [Encore Software – Official Site](https://www.encoreusa.com/) – publisher information and game catalog
+
+[[2005 - Hoyle Texas Hold Em]]
+[[2006 - Hoyle Miami Solitaire]]

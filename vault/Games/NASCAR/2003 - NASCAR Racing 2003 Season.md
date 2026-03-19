@@ -363,3 +363,5 @@ The game's influence extends beyond nostalgia. Its netcode and replay systems be
 [^ref-41]: [NR2K3 Weebly](https://nr2k3.weebly.com/) – mod documentation, community content
 [^ref-42]: [Wayback Machine – Sierra Track Pack](https://web.archive.org/web/20040417190359/http://www.sierra.com/downloadfile.do?gamePlatformId=271&mediaid=7371) – bonus tracks, descriptions
 [^ref-43]: [PriceCharting – NR2003](https://www.pricecharting.com/game/pc-games/nascar-racing-2003-season) – market values, collectibility
+
+[[2002 - NASCAR Racing 2002 Season]]

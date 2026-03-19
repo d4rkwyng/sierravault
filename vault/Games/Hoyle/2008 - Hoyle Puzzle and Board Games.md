@@ -362,3 +362,6 @@ The game is documented in various gaming databases and preservation archives.[^r
 [^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-16]: [Amazon - Hoyle Puzzle and Board Games](https://www.amazon.com/Hoyle-Puzzle-Board-Games/dp/B0015YKVTQ) - retail listing
+
+[[2008 - Hoyle Casino]]
+[[2011 - Hoyle Puzzle and Board Games]]

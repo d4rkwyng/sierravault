@@ -218,3 +218,11 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 [^ref-18]: [New York Times - NASCAR Racing Video Game](https://www.nytimes.com/athletic/3392349/2022/06/30/nascar-racing-video-game/) – Dale Earnhardt Jr. quote
 [^ref-19]: [Internet Archive - NASCAR Racing 2 Mr Abandonware](https://archive.org/details/nascar-racing-2-mr-abandonware) – Abandonware status
 [^ref-20]: [Daily Downforce - Complete History of NASCAR Gaming](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – Series evolution
+
+[[1994 - NASCAR Racing]]
+[[1999 - NASCAR Craftsman Truck Series Racing]]
+[[1999 - NASCAR Legends]]
+[[1999 - NASCAR Racing 3]]
+[[2001 - NASCAR Racing 4]]
+[[2002 - NASCAR Racing 2002 Season]]
+[[2003 - NASCAR Racing 2003 Season]]

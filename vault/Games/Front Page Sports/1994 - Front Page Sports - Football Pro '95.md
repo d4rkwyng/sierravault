@@ -307,3 +307,6 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 [^ref-20]: [Steam Store](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Football+Pro+%2795) – digital re-release date
 [^ref-21]: [GM Games Forum – VPNFL Mod](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – modding community, VPNFL mod description
 [^ref-22]: [Old-Games.com – Football Pro '96](https://www.old-games.com/download/7620/front-page-sports-football-pro) – expansion teams, series progression
+
+[[1994 - Front Page Sports - Baseball Pro]]
+[[1995 - Front Page Sports - Football Pro '96]]

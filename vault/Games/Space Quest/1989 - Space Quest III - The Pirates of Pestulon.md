@@ -235,3 +235,10 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [^ref-35]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
 [^ref-36]: [Dragon Magazine – September 1989 (Issue 149)](https://archive.org/download/dragon-magazine/Dragon%20Magazine%20%23149%5Bocr%5D_djvu.txt) – Lesser family review: "animation and graphics for this game are incredible", "This game is a lot of fun, and we recommend it to adventure game enthusiasts"
 [^ref-37]: [Games International – April 1990 (Issue 14)](https://archive.org/details/games-international-magazine-14) – John Scott review, p. 46: "This program is BRILLIANT! The graphics are super", "musical soundtrack that is the best I have yet encountered in any computer game", "sometimes it's warped, sometimes cruel, but it's always funny", GAME PLAY: 9, GRAPHICS: 9
+
+[[1986 - Space Quest - The Sarien Encounter]]
+[[1987 - Space Quest II - Vohaul's Revenge]]
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+[[1993 - Space Quest V - The Next Mutation]]
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]

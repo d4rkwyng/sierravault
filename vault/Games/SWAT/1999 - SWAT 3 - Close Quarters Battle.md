@@ -340,3 +340,6 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [^ref-38]: [Amazon – Prima Strategy Guide](https://www.amazon.com/SWAT-Quarters-Battle-Official-Strategy/dp/076152147X) – guide details, author, page count
 [^ref-39]: [Wikidata – SWAT 3](https://www.wikidata.org/wiki/Q2010540) – Steam ID, distribution platforms
 [^ref-40]: [NeverDieMedia Product Page](https://www.neverdiemedia.com/products/swat-3-w-manual) – Police Quest lineage, title change
+
+[[1998 - Police Quest - SWAT 2]]
+[[2003 - SWAT - Global Strike Team]]

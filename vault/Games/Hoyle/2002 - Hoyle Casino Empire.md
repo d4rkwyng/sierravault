@@ -401,3 +401,6 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 [^ref-13]: [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – user ratings, technical information, debug modes, user comments
 [^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
 [^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
+
+[[2002 - Hoyle Card Games]]
+[[2002 - Hoyle Puzzle Games]]

@@ -157,3 +157,6 @@ Despite being banned in Germany due to its violence level and placement on the '
 [^ref-25]: [Sierra Help Wiki - A-10 Tank Killer v1.5 Releases](http://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_v1.5_Releases) – - Wiki page about version 1.5 releases
 [^ref-26]: [Kagi FastGPT - Review Scores](kagi:fastgpt:What were the review scores for A 10 Tank Killer V15 video game?) – - Secondary research compilation about review scores
 [^ref-27]: [Kagi FastGPT - Release Info](kagi:fastgpt:What year was A 10 Tank Killer V15 video game released and who developed it?) – - Secondary research about release information and developer
+
+[[1989 - A-10 Tank Killer]]
+[[1996 - Silent Thunder - A-10 Tank Killer II]]

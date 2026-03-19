@@ -355,3 +355,5 @@ The game also holds significance as the final 2D entry in the series and the las
 [^ref-36]: [Jeff van Dyck Bandcamp](https://jeffvandyck.bandcamp.com/album/emperor-rise-of-the-middle-kingdom) – soundtrack release, track listing
 
 [^ref-37]: [GamePressure – Widescreen Patch](https://www.gamepressure.com/download.asp?ID=58680) – mod information, native resolution limitations
+
+[[1996 - Casino Deluxe 2]]

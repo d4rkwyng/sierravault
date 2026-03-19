@@ -282,4 +282,6 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-14]: [IGN - 3D Ultra Pinball GBC Review](https://www.ign.com/articles/2001/01/12/3d-ultra-pinball-thrillride) — Game Boy Color port review with 5/10 score
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
 [^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
+
+[[1996 - 3-D Ultra Pinball - Creep Night]]
 [^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series 

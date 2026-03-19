@@ -319,3 +319,5 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 [^ref-30]: [Sierra Help Pages](https://sierrahelp.com/Games/DrBrain/CastleOfDrBrainHelp.html) – system requirements, audio troubleshooting
 [^ref-31]: [GameFAQs – Castle of Dr. Brain](https://gamefaqs.gamespot.com/pc/564673-castle-of-dr-brain) – user rating, genre classification
 [^ref-32]: [KHInsider – DOS Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/castle-of-dr.-brain-dos) – soundtrack runtime, file specifications
+
+[[1992 - The Island of Dr. Brain]]

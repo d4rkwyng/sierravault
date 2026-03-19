@@ -162,3 +162,5 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 [^ref-21]: [Outpost2.net](https://www.outpost2.net/) – - Community support and ongoing development
 [^ref-22]: [GOG Database](https://www.gogdb.org/product/1494370738) – - Version history and digital distribution
 [^ref-23]: [Archive.org Update](https://archive.org/details/update_20161023) – - Community content and scenario packs
+
+[[1994 - Outpost]]

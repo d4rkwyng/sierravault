@@ -266,3 +266,6 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 [^ref-18]: [Internet Archive – Original 1992 Release](https://archive.org/details/the_incredible_machine_1992) – series origins, historical preservation
 [^ref-19]: [Steam Store Search](https://store.steampowered.com/search/?term=The+Incredible+Machine+3.0) – digital availability status
 [^ref-20]: [Adventure Gamers – TIM Search](https://adventuregamers.com/search/?q=The+Incredible+Machine+3.0) – genre classification, community coverage
+
+[[1994 - The Incredible Toon Machine]]
+[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]

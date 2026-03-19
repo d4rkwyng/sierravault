@@ -361,3 +361,6 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 [^ref-15]: [GameFAQs – Message Boards](https://gamefaqs.gamespot.com/boards/448849-hoyle-casino-2001) – genre classification
 [^ref-16]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, release date
 [^ref-17]: [PriceCharting ES – Hoyle Casino](https://www.pricecharting.com/es/game/pc-games/hoyle-casino) – platform confirmation, disc count
+
+[[2001 - Hoyle Board Games]]
+[[2001 - Hoyle Kids Games]]

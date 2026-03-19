@@ -209,3 +209,6 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 [^ref-19]: [GameFAQs - 3D Ultra RC](https://gamefaqs.gamespot.com/) - database
 [^ref-20]: [MobyGames - 3D Ultra RC Racers](https://www.mobygames.com/game/3-d-ultra-radio-control-racers/) - database
 [^ref-21]: [UVList - 3D Ultra RC](https://www.uvlist.net/) - Universal Videogame List
+
+[[1999 - 3-D Ultra Pinball - Power]]
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]

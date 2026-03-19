@@ -243,6 +243,11 @@
         "timestamp": "2026-03-08T12:24:48.896393",
         "score": 100.0,
         "total": 100
+      },
+      {
+        "timestamp": "2026-03-19T15:43:38.783245",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1998 - Grand Prix Legends.md": [
@@ -4422,6 +4427,11 @@
         "timestamp": "2026-03-08T12:24:50.460988",
         "score": 91.0,
         "total": 91
+      },
+      {
+        "timestamp": "2026-03-19T15:43:38.846597",
+        "score": 100.0,
+        "total": 100
       }
     ],
     "1991 - Mixed-Up Fairy Tales.md": [
@@ -6383,27 +6393,16 @@
         "score": 100.0,
         "total": 100
       }
+    ],
+    "cross-reference-scan-2026-03-18.md": [
+      {
+        "timestamp": "2026-03-19T15:43:40.970204",
+        "score": 21.0,
+        "total": 21
+      }
     ]
   },
   "runs": [
-    {
-      "timestamp": "2026-03-08T12:24:55.466065",
-      "files_scored": 1,
-      "average": 95.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-03-08T12:24:55.502851",
-      "files_scored": 1,
-      "average": 100.0,
-      "passing": 1
-    },
-    {
-      "timestamp": "2026-03-08T12:24:55.539519",
-      "files_scored": 1,
-      "average": 100.0,
-      "passing": 1
-    },
     {
       "timestamp": "2026-03-08T12:24:55.575124",
       "files_scored": 1,
@@ -6685,6 +6684,24 @@
       "files_scored": 3,
       "average": 94.7,
       "passing": 3
+    },
+    {
+      "timestamp": "2026-03-19T15:43:38.783245",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-03-19T15:43:38.846597",
+      "files_scored": 1,
+      "average": 100.0,
+      "passing": 1
+    },
+    {
+      "timestamp": "2026-03-19T15:43:40.970204",
+      "files_scored": 1,
+      "average": 21.0,
+      "passing": 0
     }
   ]
 }

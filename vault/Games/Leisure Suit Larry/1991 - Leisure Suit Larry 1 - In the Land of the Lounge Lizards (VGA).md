@@ -378,3 +378,16 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-37]: [NY Post – Al Lowe Interview (Archived)](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – remake development philosophy
 
 [^ref-38]: [Al Lowe's Website – Theme Creation](https://web.archive.org/web/20130114052540/http://www.allowe.com/Larry/themecreation.htm) – music composition details
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+[[1996 - Leisure Suit Larry 7 - Love for Sail]]
+[[1998 - Leisure Suit Larry's Casino]]
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+[[2013 - Leisure Suit Larry - Reloaded]]
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

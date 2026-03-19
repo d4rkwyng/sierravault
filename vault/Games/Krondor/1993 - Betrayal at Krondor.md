@@ -385,3 +385,5 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-90]: [White Wolf Magazine Archive](https://archive.org/details/white-wolf-38) – #38 review
 [^ref-91]: [MobyGames Rankings](https://www.mobygames.com/game/564/betrayal-at-krondor/rating/) – Player ratings
 [^ref-92]: [Internet Archive CD-ROM](https://archive.org/details/betrayal-at-krondor-cd) – CD version preservation
+
+[[1997 - Betrayal in Antara]]

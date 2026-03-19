@@ -235,3 +235,6 @@ While More After Dark never received the critical attention afforded to traditio
 [^ref-18]: [UVLIST - More After Dark](https://www.uvlist.net/game-156831-More+After+Dark) – universal video game list entry
 [^ref-19]: [Old-Games.RU - After Dark](https://www.old-games.ru/) – Eastern European gaming archive
 [^ref-20]: [PCGamingWiki - After Dark](https://www.pcgamingwiki.com/wiki/After_Dark) – technical compatibility information
+
+[[1989 - After Dark]]
+[[1998 - After Dark Games]]

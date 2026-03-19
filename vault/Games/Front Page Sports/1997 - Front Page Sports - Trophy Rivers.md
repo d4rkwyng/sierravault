@@ -270,3 +270,6 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 [^ref-18]: [Metacritic – Front Page Sports: Trophy Rivers](https://www.metacritic.com/game/front-page-sports-trophy-rivers/) – release date, developer/publisher confirmation
 [^ref-19]: [The Video Game Database Fandom](https://thevideogamedatabase.fandom.com/wiki/Front_Page_Sports:_Trophy_Rivers) – release date, GameSpot score reference
 [^ref-20]: [GOG Dreamlist – Front Page Sports: Trophy Bass 2](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – series predecessor information, gameplay mechanics
+
+[[1997 - Front Page Sports - Ski Racing]]
+[[1997 - Front Page Sports Golf - Tour Course Add-On]]

@@ -239,3 +239,10 @@ Series: [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates 
 [^ref-27]: [Retro Freak Reviews – Space Quest I DOS](https://retrofreakreviews.com/2017/02/08/space-quest-i-review/) – modern retrospective, recommends VGA remake over original
 [^ref-28]: [VGMPF Wiki – Apple IIGS](https://www.vgmpf.com/Wiki/index.php?title=Apple_IIGS) – Ensoniq 5503 DOC chip with 32 oscillators, 15 stereo independent voices
 [^ref-29]: [Sierra Fandom Wiki – King's Quest II](https://sierra.fandom.com/wiki/King%27s_Quest_II:_Romancing_the_Throne) – 1987 re-release added pull-down menus based on KQ3 AGI engine
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+[[1993 - Space Quest V - The Next Mutation]]
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]

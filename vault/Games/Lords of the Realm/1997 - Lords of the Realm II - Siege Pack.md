@@ -154,3 +154,6 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 [^ref-17]: [Sierra Chest - Technical Information](https://www.sierrachest.com/pages/category/garden-center/index.php?a=games&id=163&fld=tech) – - Compatibility modifications
 [^ref-18]: [Old PC Gaming - Lords of the Realm II: Siege Pack](https://oldpcgaming.net/lords-of-the-realm-ii-siege-pack/) – - Critical assessment
 [^ref-19]: [Web Archive - GameCenter Sales Rankings](https://web.archive.org/web/19970331224133/http://www.gamecenter.com/News/Item/0,3,661,00.html) – - Commercial performance data
+
+[[1996 - Lords of the Realm II]]
+[[2004 - Lords of the Realm III]]

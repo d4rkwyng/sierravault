@@ -278,3 +278,6 @@ The series would continue under different developers, with Knowledge Adventure e
 [^ref-32]: [Internet Archive – Full Game](https://archive.org/details/msdos_Island_of_Dr._Brain_1992) – archive stats, MobyGames description
 [^ref-33]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/the-island-of-dr.-brain) – soundtrack length, file count
 [^ref-34]: [Wikidata – Q11707605](https://www.wikidata.org/wiki/Q11707605) – platforms, distribution format, series classification
+
+[[1991 - Castle of Dr. Brain]]
+[[1995 - The Lost Mind of Dr. Brain]]

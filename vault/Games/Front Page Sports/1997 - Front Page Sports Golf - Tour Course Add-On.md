@@ -293,3 +293,6 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability
 [^ref-14]: [ESRB – Front Page Sports: Golf](https://www.esrb.org/ratings/36162/front-page-sports-golf/) – ESRB rating, content descriptors
 [^ref-15]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series information, Sierra publishing history
+
+[[1997 - Front Page Sports - Trophy Rivers]]
+[[1999 - Front Page Sports - Ski Racing 99]]

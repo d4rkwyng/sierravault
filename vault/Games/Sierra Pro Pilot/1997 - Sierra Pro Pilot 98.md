@@ -238,3 +238,5 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 [^ref-18]: [RetroLorean](https://www.retrolorean.com/en/sierra-pro-pilot-98-the-complete-flight-simulator-24807) - System requirements
 [^ref-19]: [Pro Pilot USA Press Release (Archive)](https://web.archive.org/web/19990117015956/http://www.sierra.com/news/) - Kate Kloos quote
 [^ref-20]: [Internet Archive](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) - Digital preservation
+
+[[1998 - Sierra Pro Pilot '99]]

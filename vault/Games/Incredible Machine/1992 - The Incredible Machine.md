@@ -190,3 +190,5 @@ One preservation issue affects the digital versions: "The original release of th
 [^ref-35]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – Jeff Tunnell quote
 [^ref-37]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – Spiritual successor information
 [^ref-collection]: [Consolidated Research Sources](internal/research/games/the-incredible-machine/_consolidated.json) – Multiple sources from research collection
+
+[[1993 - Sid & Al's Incredible Toons]]

@@ -285,3 +285,6 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 [^ref-20]: [Sound Effects Wiki](https://soundeffects.fandom.com/wiki/3D_Ultra_Lionel_TrainTown) – sound libraries, ESRB rating, European title
 [^ref-21]: [O Gauge Forum](https://o-gaugeforum.com/thread/3523/years-ultra-lionel-traintown-deluxe) – Best Buy availability, difficulty discussion
 [^ref-22]: [Old Games Download](https://oldgamesdownload.com/3d-ultra-lionel-traintown/) – ReadMe file, download sizes
+
+[[1999 - 3-D Ultra Radio Control Racers]]
+[[2000 - 3-D Ultra Pinball - Thrill Ride]]

@@ -294,3 +294,6 @@ The series continued with multiple sequels and iterations, eventually transition
 [^ref-15]: [Brainbaking.com](https://brainbaking.com/post/2026/09/a-tribute-to-hoyles-official-book-of-games/) – - Edmond Hoyle historical background
 [^ref-16]: [Archive.org](https://archive.org/details/HoyleCCG) – - Technical features description
 [^ref-17]: [Sierra Help](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – - Bridge internet play patch details
+
+[[1996 - Hoyle Solitaire]]
+[[1997 - Hoyle Poker]]

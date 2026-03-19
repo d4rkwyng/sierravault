@@ -279,3 +279,5 @@ The game is preserved through abandonware archives, though it faces compatibilit
 [^ref-19]: [OldGamesDownload](https://oldgamesdownload.com/front-page-sports-trophy-bass-2-northern-lakes/) – Northern Lakes expansion details
 [^ref-20]: [Vogons.org](https://www.vogons.org/viewtopic.php?t=50808) – Technical discussion and compatibility issues
 [^ref-21]: [Internet Archive – Demo](https://archive.org/details/tbass2) – Demo preservation
+
+[[1999 - Field & Stream - Trophy Bass 3D]]

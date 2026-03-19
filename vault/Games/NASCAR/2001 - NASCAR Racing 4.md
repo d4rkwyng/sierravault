@@ -173,3 +173,6 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 [^ref-18]: [Amazon Customer Reviews](https://www.amazon.com/Nascar-Racing-4-PC/dp/B000056OYN) – - Customer review quote
 [^ref-19]: [Racing Soundtracks](https://racingsoundtracks.com/game/nascar-racing-1-4) – - Music composer credits
 [^ref-20]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-4-cos) – - Game preservation site
+
+[[1999 - NASCAR Racing 3]]
+[[2002 - NASCAR Racing 2002 Season]]

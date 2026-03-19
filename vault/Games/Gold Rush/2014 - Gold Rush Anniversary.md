@@ -290,3 +290,6 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 [^ref-14]: [Steam Community – Gold Rush Anniversary](https://steamcommunity.com/app/319230) – community discussions, bug reports, cut content
 [^ref-15]: [Poly.Play – Gold Rush Special Edition](https://polyplay.xyz/Gold-Rush_1) – collector's edition contents, bundled releases
 [^ref-16]: [Steam Community – Gold Rush! 2 Reviews](https://steamcommunity.com/app/609100/reviews/?browsefilter=toprated) – sequel information, engine details
+
+[[1988 - Gold Rush]]
+[[2017 - Gold Rush 2]]

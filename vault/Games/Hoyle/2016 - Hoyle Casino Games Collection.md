@@ -395,3 +395,5 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 [^ref-9]: [Encore Forums – Hoyle Card Games Discussion](http://forums.encoreusa.com/tm.asp?m=43851) – Hoyle Bucks system, save file locations
 [^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
 [^ref-12]: [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/) – download statistics, languages, security status, developer credit
+
+[[2015 - Hoyle Official Card Games Collection]]

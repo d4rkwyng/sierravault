@@ -306,3 +306,5 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-48]: [Sierra Chest – Dark Conspiracy Manual](https://sierrachest.com/gfx/games/GC_DC/box/DarkConspiracyManual.pdf) – expansion documentation
 [^ref-49]: [Ubisoft News](https://news.ubisoft.com/en-us/article/4jSe6ey6u1ebgY94kVk7Az/the-division-massive-turns-20-the-permanent-quest-for-new-heights) – Massive Entertainment history, Ubisoft acquisition
 [^ref-50]: [Game Developer – Rebellion Acquires Vivendi Licenses](https://www.gamedeveloper.com/game-platforms/rebellion-acquires-vivendi-licenses-considers-new-franchise-titles) – IP acquisition, Kingsley quote
+
+[[2000 - Ground Control - Dark Conspiracy]]

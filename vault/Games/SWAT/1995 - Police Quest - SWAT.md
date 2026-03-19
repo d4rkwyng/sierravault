@@ -310,3 +310,5 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [^ref-34]: [Wikipedia – Police Quest Series](https://en.wikipedia.org/wiki/Police_Quest) – Jim Walls USGamer interview, series history
 [^ref-35]: [GOG.com – Police Quest 1+2+3+4 User Reviews](https://www.gog.com/en/game/police_quest_1_2_3_4) – law enforcement training tool usage
 [^ref-36]: [Sierra Fandom Wiki – Police Quest](https://sierra.fandom.com/wiki/Police_Quest) – Activision ownership, franchise timeline
+
+[[1998 - Police Quest - SWAT 2]]

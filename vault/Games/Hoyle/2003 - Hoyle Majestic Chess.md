@@ -377,3 +377,6 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [^ref-18]: [King's Quest Fandom – Sierra](https://kingsquest.fandom.com/wiki/Sierra) – Sierra company overview
 [^ref-19]: [IMDB Mobile – Company Credits](https://m.imdb.com/title/tt9782314/companycredits/?ref_=tt_dt_cmpy) – developer and distributor confirmation
 [^ref-20]: [Game Classification – Analysis Page](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/analyses/index.html) – game classification details
+
+[[2003 - Hoyle Casino]]
+[[2004 - Hoyle Casino]]

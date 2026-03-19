@@ -344,3 +344,6 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 [^ref-9]: [IGN – Hoyle Casino Game Page](https://www.ign.com/games/hoyle-casino) – game summary, review score
 [^ref-10]: [Sierra Chest – Hoyle Casino 5](https://sierrachest.com/index.php?a=games&id=809&title=hoyle-casino-5&fld=publications) – release dates, catalog reference
 [^ref-11]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – technical specifications, DRM information, version history
+
+[[1999 - Hoyle Word Games]]
+[[2000 - Hoyle Crosswords]]

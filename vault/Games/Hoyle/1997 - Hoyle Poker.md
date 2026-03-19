@@ -322,3 +322,6 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 [^ref-21]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
 [^ref-22]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
 [^ref-23]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List
+
+[[1993 - Hoyle Classic Card Games]]
+[[1998 - Hoyle Battling Ships and War]]

@@ -350,3 +350,6 @@ The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^
 [^ref-14]: [IGDB - Hoyle Word Games](https://www.igdb.com/games/hoyle-word-games) - Internet Games Database entry
 [^ref-15]: [MobyGames - Hoyle Word Games](https://www.mobygames.com/game/hoyle-word-games/) - game database entry
 [^ref-16]: [GameSpot - Hoyle Word Games](https://www.gamespot.com/hoyle-word-games/) - game database entry
+
+[[2001 - Hoyle Kids Games]]
+[[2002 - Hoyle Card Games]]

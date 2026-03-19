@@ -149,3 +149,6 @@ An amusing piece of trivia emerged years after release when someone successfully
 [^ref-23]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Red_Baron_3D) – - Graphics improvements
 [^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – - Critical reception history
 [^ref-25]: [Kotaku](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – - Pizza coupon story
+
+[[1997 - Red Baron II]]
+[[1999 - Curse You! Red Baron]]

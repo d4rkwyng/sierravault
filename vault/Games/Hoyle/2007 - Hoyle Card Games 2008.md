@@ -368,3 +368,6 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
 [^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
 [^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
+
+[[2006 - Hoyle Miami Solitaire]]
+[[2007 - Hoyle Casino]]

@@ -199,3 +199,5 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 [^ref-56]: [Walkthrough King](https://www.walkthroughking.com/text/colonelsbequest.aspx) – - Complete gameplay guide
 [^ref-57]: [Sierra Help](https://sierrahelp.com/Walkthroughs/LauraBow1Walkthrough.html) – - Detailed walkthrough with Act structure
 [^ref-58]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/06/30/the-colonels-bequest-dos-review/) – - Modern retro gaming assessment
+
+[[1992 - The Dagger of Amon Ra]]

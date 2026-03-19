@@ -239,3 +239,5 @@ While the Amiga version disappointed some critics who found it technically infer
 [^ref-19]: [Internet Archive – Silent Thunder A-10 Tank Killer II](https://archive.org/details/a-10-tank-killer-2-silent-thunder) – sequel preservation, metadata
 [^ref-20]: [Metacritic – A-10 Tank Killer](https://www.metacritic.com/game/a-10-tank-killer/) – game description, developer/publisher confirmation
 [^ref-21]: [Internet Archive – Sierra Silent Thunder Win31](https://archive.org/details/Sierra_Silent_Thunder_A-10_Tank_Killer_II_-_Win31_ENG) – Windows 3.1 version preservation
+
+[[1991 - A-10 Tank Killer v1.5]]

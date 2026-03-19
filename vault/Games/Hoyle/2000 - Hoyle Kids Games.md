@@ -339,3 +339,6 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
+
+[[2000 - Hoyle Crosswords]]
+[[2000 - Hoyle Slots and Video Poker]]

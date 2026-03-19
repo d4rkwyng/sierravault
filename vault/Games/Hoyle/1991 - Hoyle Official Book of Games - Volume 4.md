@@ -330,3 +330,6 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [^ref-24]: [DOSBox Compatibility](http://www.dosbox.com/comp_list.php?letter=H&showID=485) - Emulator support status
 [^ref-25]: [Internet Archive - Windows](https://archive.org/details/hoyle-classic-card-games-1997) - Windows version archive
 [^ref-26]: [Windows Bulletin](https://windowsbulletin.com/files/exe/sierra-on-line-inc/hoyle-classic-card-games/card-exe) - Technical file specifications
+
+[[1991 - Hoyle Official Book of Games - Volume 3]]
+[[1996 - Hoyle Bridge]]

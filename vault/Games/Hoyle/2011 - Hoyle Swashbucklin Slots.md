@@ -362,3 +362,7 @@ The game's limited documentation and review coverage reflects the challenge face
 [^ref-14]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Hoyle franchise history
 
 [^ref-15]: [Encore Software Official](https://www.encore.com/) – Publisher information
+
+[[1996 - Hoyle Casino]]
+[[2011 - Hoyle Puzzle and Board Games]]
+[[2015 - Hoyle Official Card Games Collection]]

@@ -360,3 +360,6 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
 [^ref-19]: [Squakenet – Hoyle Kids Games](https://www.squakenet.com/game/hoyle-kids-games/) – release information
 [^ref-20]: [Amazon – Hoyle Kids Games](https://www.amazon.com/s?k=Hoyle+Kids+Games) – retail availability, customer reviews
+
+[[2001 - Hoyle Casino]]
+[[2001 - Hoyle Word Games]]

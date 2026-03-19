@@ -242,3 +242,6 @@ No official digital distribution is currently available. The game may be found t
 [^ref-18]: [UVList](https://www.uvlist.net/game-217098-crazy-nicks-software-picks-robin-hoods-games-of-skill-and-chance) – Universal Videogame List
 [^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Crazy_Nick%27s_Software_Picks) – Wiki information
 [^ref-20]: [LaunchBox Games DB](https://gamesdb.launchbox-app.com/games/details/85635) – Game database with metadata
+
+[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+[[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]

@@ -288,3 +288,6 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-38]: [Computing History UK](https://www.computinghistory.org.uk/det/61804/SWAT-Global-Strike-Team/) – UK release information
 [^ref-39]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/SWAT:_Global_Strike_Team) – content ratings
 [^ref-40]: [Wikidata](https://www.wikidata.org/wiki/Q7395151) – ESRB rating details
+
+[[1999 - SWAT 3 - Close Quarters Battle]]
+[[2005 - SWAT 4]]

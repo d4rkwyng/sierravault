@@ -347,3 +347,5 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [^ref-36]: [Black Screen Records – Homeworld Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-remastered) – Paul Ruskay background, DAT tapes
 [^ref-37]: [Black Screen Records – Homeworld 2 Remastered Soundtrack](https://blackscreenrecords.com/products/homeworld-2-remastered) – musical influences
 [^ref-38]: [Kotaku – Homeworld Soundtrack Overhaul](https://kotaku.com/how-we-overhauled-the-homeworld-soundtrack-for-a-new-au-1692665327) – Paul Ruskay quotes, audio asset statistics
+
+[[2000 - Homeworld - Cataclysm]]

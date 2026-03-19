@@ -227,3 +227,6 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-22]: [Internet Archive – Playtoons: The Secret of the Castle](https://archive.org/details/playtoons-the-secret-of-the-castle) – Sierra as publisher, CD-ROM format
 [^ref-23]: [Internet Archive – Playtoons: Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – series format, preservation status
 [^ref-24]: [Wikipedia – Category: Coktel Vision Games](https://en.wikipedia.org/wiki/Category:Coktel_Vision_games) – game categorization
+
+[[1994 - Playtoons 1 - Uncle Archibald]]
+[[1995 - Playtoons 3 - The Secret of the Castle]]

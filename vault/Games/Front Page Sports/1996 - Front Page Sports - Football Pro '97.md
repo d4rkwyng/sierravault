@@ -232,3 +232,6 @@ The series represented Sierra's most successful foray into sports gaming, with [
 [^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/) - Voice cast information
 [^ref-21]: [Archive.org Patch Notes](https://archive.org/details/FBP9711) - Technical issues and patches
 [^ref-22]: [IGN Game Page](https://www.ign.com/games/front-page-sports-football-pro-97) - Remake discussion reference
+
+[[1996 - Front Page Sports - Baseball Pro '96]]
+[[1997 - Front Page Sports - Baseball Pro '98]]

@@ -248,3 +248,6 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 [^ref-15]: [IGDB](https://www.igdb.com/games/3-d-ultra-nascar-pinball) – Game database entry
 [^ref-16]: [UVList](https://www.uvlist.net/game-14091-3-D+Ultra+NASCAR+Pinball) – Universal Videogame List entry
 [^ref-12]: [MyAbandonware – 3-D Ultra NASCAR Pinball](https://www.myabandonware.com/game/3-d-ultra-nascar-pinball-3ff) – user ratings, download versions, user comments, technical issues
+
+[[1998 - 3-D Ultra MiniGolf Deluxe]]
+[[1999 - 3-D Ultra Cool Pool]]

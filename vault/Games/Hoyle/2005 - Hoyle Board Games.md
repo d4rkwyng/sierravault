@@ -370,3 +370,6 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [^ref-18]: [UVList](https://www.uvlist.net/game-6888-Hoyle+Board+Games+2005) – Universal Videogame List entry
 [^ref-19]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/reviews) – User reviews and ratings
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/hoyle-board-games-2005/) – Modern ratings and classification
+
+[[2004 - Hoyle Table Games]]
+[[2005 - Hoyle Card Games]]

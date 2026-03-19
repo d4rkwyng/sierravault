@@ -312,3 +312,5 @@ The game's influence on casino game design persists in modern software, though c
 [^ref-16]: [Company Histories](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) - Sierra business strategy and diversification
 [^ref-18]: [Grokipedia](https://grokipedia.com/page/Hoyle_Casino) - Technical innovations and series statistics
 [^ref-19]: [GameSpot News](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) - 2006 corporate restructuring
+
+[[1996 - Hoyle Bridge]]

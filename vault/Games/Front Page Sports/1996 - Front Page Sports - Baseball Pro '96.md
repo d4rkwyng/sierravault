@@ -243,3 +243,6 @@ The Front Page Sports series demonstrated that PC sports games could offer exper
 [^ref-16]: [Football Idiot Forum](https://www.footballidiot.com/forum/viewtopic.php?t=5242) – emulation compatibility, tablet gaming
 [^ref-17]: [MVP Mods Forum](https://www.mvpmods.com/forums/topic/8719-front-page-sports-96-music-mod/) – music track information, nostalgic user comments
 [^ref-18]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – SVGA graphics description, companion game information
+
+[[1995 - Front Page Sports - Football Pro '96]]
+[[1996 - Front Page Sports - Football Pro '97]]

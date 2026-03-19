@@ -130,3 +130,5 @@ The game is available DRM-free on GOG.com[^ref-10] and through Steam. MobyGames 
 [^ref-17]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – game coverage
 [^ref-18]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – game info
 [^ref-19]: [Steam Community Discussions](https://steamcommunity.com/app/1351080/discussions/) – player feedback
+
+[[1999 - Pharaoh]]

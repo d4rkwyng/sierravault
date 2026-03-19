@@ -263,3 +263,5 @@ Silent Thunder represented one of Dynamix's final contributions to the flight si
 [^ref-22]: [Reddit Discussion](https://www.reddit.com/r/gamemusic/comments/1nrvlf/does_anyone_remember_this_amazing_original/) – Specific track appreciation
 [^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/silent-thunder-a-10-tank-killer-ii-where-to-get-the-sheet-music/) – Fan interest in soundtrack
 [^ref-24]: [MobyGames Action Pack](https://www.mobygames.com/game/41881/action-pack-earthsiege-2-silent-thunder/) – Compilation release details
+
+[[1989 - A-10 Tank Killer]]

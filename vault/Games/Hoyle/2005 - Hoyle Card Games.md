@@ -338,3 +338,6 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 [^ref-19]: [ESRB – Rating Information](https://www.esrb.org) – content rating context
 [^ref-20]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
 [^ref-21]: [Squakenet – Hoyle Card Games](https://www.squakenet.com/game/hoyle-card-games-2005/) – release data, platform info
+
+[[2005 - Hoyle Board Games]]
+[[2005 - Hoyle Casino 3D]]

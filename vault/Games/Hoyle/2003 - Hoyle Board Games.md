@@ -391,3 +391,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [^ref-10]: [GameFAQs User Review – Hoyle Board Games](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – detailed gameplay review, scores, control scheme, customization features
 [^ref-11]: [Macintosh Repository – Hoyle Board Games 2003](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) – Mac system requirements, hybrid disc information
 [^ref-12]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – technical issues, cut content, music sources, collection history
+
+[[2002 - Hoyle Puzzle Games]]
+[[2003 - Hoyle Card Games]]

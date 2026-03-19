@@ -271,3 +271,5 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 [^ref-23]: [GOG Forums – Sports and Racing Games](https://www.gog.com/forum/general/sports_and_racing_game_sections) – licensing challenges for retro sports games
 [^ref-24]: [Wikipedia – CART Racing (Dreamcast)](https://en.wikipedia.org/wiki/CART_Racing) – Dreamcast version details, different developer
 [^ref-25]: [BD Jogos – Papyrus Design Group](https://en.bdjogos.com.br/developer.php?id=612) – game listing, company information
+
+[[1995 - IndyCar Racing II]]

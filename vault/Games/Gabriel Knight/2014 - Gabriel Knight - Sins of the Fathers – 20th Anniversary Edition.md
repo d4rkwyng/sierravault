@@ -280,3 +280,8 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [^ref-35]: [GOG Database](https://www.gogdb.org/product/1207666433) – version history, patch dates
 [^ref-36]: [MobyGames – Gabriel Knight 3](https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/) – series continuity, easter eggs
 [^ref-37]: [Speedrun.com – Gabriel Knight Remake](https://www.speedrun.com/gk1_remake/guides) – speedrunning community
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+[[TBD - Gabriel Knight 4 - Five Hearts]]

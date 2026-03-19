@@ -427,3 +427,6 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-49]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
 [^ref-50]: [Encore – Casino Games Collection](https://www.encore.com/encore-casino-games-collection-download-windows) – collection details
 [^ref-51]: [MacGameStore – Hoyle Official Casino Games](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – game features, Face Creator
+
+[[1996 - Hoyle Blackjack]]
+[[1996 - Hoyle Official Book of Games - Volume 5]]

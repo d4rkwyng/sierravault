@@ -291,3 +291,6 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 [^ref-30]: [IGN – Collector's Edition Announcement](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – Front Page Sports franchise mention
 [^ref-31]: [Sierra Chest – Titanium Edition](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=box) – packaging contents
 [^ref-32]: [MobyGames – PGA Championship Golf Series](https://www.mobygames.com/group/11215/pga-championship-golf-series/) – series overview, release dates
+
+[[1998 - PGA Championship Golf]]
+[[2000 - PGA Championship Golf]]

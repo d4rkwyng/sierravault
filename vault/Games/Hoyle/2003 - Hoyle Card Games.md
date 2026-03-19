@@ -363,3 +363,6 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 [^ref-19]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – PC Games platform, media format
 [^ref-20]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003) – related 2003 Hoyle release
 [^ref-21]: [GameFAQs – Hoyle Board Games 2003 FAQ](https://gamefaqs.gamespot.com/pc/929726-hoyle-board-games-2003/faqs/62836) – 2003 Hoyle product line documentation
+
+[[2003 - Hoyle Board Games]]
+[[2003 - Hoyle Casino]]

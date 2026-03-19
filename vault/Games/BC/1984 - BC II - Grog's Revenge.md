@@ -312,3 +312,5 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 [^ref-22]: [MSX.org Forum](https://www.msx.org/forum/msx-talk/development/grogs-revenge-for-the-msx-is-broken-impossible-to-fix) – bug reproduction details, community discussion
 
 [^ref-23]: [Generation MSX](https://www.generation-msx.nl/software/sierra-on-line-sydney/bc-ii---grogs-revenge/cheats/2601/) – Level F bug documentation
+
+[[1983 - BC's Quest for Tires]]

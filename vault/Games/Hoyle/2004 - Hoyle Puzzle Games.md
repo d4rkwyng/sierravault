@@ -361,3 +361,6 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 [^ref-17]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
 [^ref-18]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
 [^ref-19]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List
+
+[[2004 - Hoyle Casino]]
+[[2004 - Hoyle Table Games]]

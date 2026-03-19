@@ -317,3 +317,6 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-91]: [DidYouKnowGaming - Valve Facts](https://www.youtube.com/c/DidYouKnowGaming/search?query=valve) - Gaming facts channel
 [^ref-92]: [Ahoy - FPS History](https://www.youtube.com/c/XboxAhoy/search?query=valve) - Gaming history documentary channel
 [^ref-93]: [LGR - Retro Valve Coverage](https://www.youtube.com/c/Lazygamereviews/search?query=valve) - Retro gaming channel
+
+[[2000 - Gunman Chronicles]]
+[[2001 - Deathmatch Classic]]

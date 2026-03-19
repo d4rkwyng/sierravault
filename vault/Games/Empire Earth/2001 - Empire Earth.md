@@ -328,3 +328,5 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 [^ref-43]: [EE2.eu – Unofficial Patch](https://ee2.eu/patch/) – patch documentation, features
 [^ref-44]: [Internet Archive – Empire Earth Manual Metadata](https://archive.org/details/Empire_Earth_-_Manual_-_PC) – manual page count
 [^ref-45]: [Amazon – Empire Earth Gold](https://www.amazon.com/Empire-Earth-Gold-PC/dp/B000083JX6) – Gold Edition contents
+
+[[2002 - Empire Earth - The Art of Conquest]]

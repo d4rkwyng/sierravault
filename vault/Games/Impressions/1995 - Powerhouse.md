@@ -285,4 +285,7 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 [^ref-15]: [Amiga Action Magazine – May 1995 (Issue 70)](https://archive.org/details/amigaaction70/page/n52/mode/1up) – Amiga preview (p. 53)
 [^ref-16]: [CU Amiga Magazine – July 1995 (Issue 65)](https://archive.org/details/cuamiga-magazine-065/page/n43/mode/1up) – Martin Davies preview (p. 44)
 [^ref-17]: [PC Gamer US – September 1995 (Issue 16)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n106/mode/1up) – T. Liam MacDonald review (80%), pp. 105-106
+
+[[1995 - Conqueror - A.D.]]
+[[1996 - Casino Deluxe 2]]
 [^ref-18]: [PC Games (German) – September 1995](https://archive.org/details/PC.Games.N036.1995.09-fl0n/page/n115/mode/2up) – Petra Maueröder review (82%), pp. 116-117

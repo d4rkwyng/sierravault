@@ -270,3 +270,6 @@ The game's historical significance lies primarily in documenting the evolution o
 [^ref-13]: [Wikipedia – Dynamix](https://en.wikipedia.org/wiki/Dynamix) – Computer Gaming World quote about flight simulators
 [^ref-14]: [Classic Reload – WW2 Air Force Commander](https://classicreload.com/ww2-air-force-commander.html) – online play availability
 [^ref-19]: [My Abandonware – WW2 Air Force Commander Play](https://www.myabandonware.com/game/ww2-air-force-commander-41b/play-49y) – version 4.1 information
+
+[[1993 - Cohort II - Fighting for Rome]]
+[[1994 - Detroit]]

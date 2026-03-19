@@ -282,3 +282,10 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [^ref-30]: [SpaceQuest.net – SQ5 Plot Inconsistencies](https://spacequest.net/sq5/plotinconsis/) – Magazine contradictions, StarCon Crest design issue, Cliffy spacesuit plot hole, shield inconsistencies, garbage collection paradox
 [^ref-31]: [Adventure Gamers – Space Quest V](https://adventuregamers.com/games/space-quest-v-the-next-mutation) – "Very good" rating, "best story and characters," 6-8 hours completion, "one of the worst mazes ever," improved VGA graphics
 [^ref-32]: [DOS.Zone – Space Quest V](https://dos.zone/space-quest-v-the-next-mutation/) – play in browser
+
+[[1986 - Space Quest - The Sarien Encounter]]
+[[1987 - Space Quest II - Vohaul's Revenge]]
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]

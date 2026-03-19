@@ -265,3 +265,16 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-79]: https://www.hardcoregaming101.net/leisure-suit-larry-6-shape-up-or-slip-out/ - Technical details on SVGA CD-ROM version enhancements
 [^ref-80]: https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry_6:_Shape_Up_or_Slip_Out! - PCGamingWiki documenting Windows 3.x release
 [^ref-81]: https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/trivia/ - MobyGames trivia noting cancelled 3DO version
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+[[1996 - Leisure Suit Larry 7 - Love for Sail]]
+[[1998 - Leisure Suit Larry's Casino]]
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+[[2013 - Leisure Suit Larry - Reloaded]]
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

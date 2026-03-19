@@ -151,3 +151,7 @@ The official website provides gameplay tutorials and FAQ documentation for new p
 [^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
 [^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
 [^ref-20]: [Steam Community Hub](https://steamcommunity.com/app/2687970/) – player discussions
+
+[[1998 - Starsiege - Tribes]]
+[[2001 - Tribes 2]]
+[[2002 - Tribes - Aerial Assault]]

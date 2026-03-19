@@ -271,3 +271,6 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [^ref-35]: [GamesIndustry.biz – GamersGate Release](https://www.gamesindustry.biz/gobliiins-4-puzzle-adventure-available-for-download-from-gamersgate) – digital distribution, magazine quotes
 [^ref-36]: [LaunchBox Games Database – Gobliiins 4](https://gamesdb.launchbox-app.com/games/details/57336-gobliiins-4) – release date, developer, GameRankings score
 [^ref-37]: [Gamepressure – Gobliiins 4](https://www.gamepressure.com/games/gobliiins-4/ze1e7a) – user score, system requirements
+
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+[[2023 - Gobliiins 5 - The Morgloton Invasion]]

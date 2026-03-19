@@ -311,3 +311,6 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
 [^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/3-D_Ultra_Pinball) – series information
 [^ref-20]: [UVList](https://www.uvlist.net/game-91741-3-d-ultra-pinball-thrillride) – Universal Videogame List
+
+[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]

@@ -315,3 +315,6 @@ The game's significance lies primarily in its position within the Hoyle franchis
 [^ref-14]: [PCGamingWiki – Hoyle Texas Hold 'Em](https://www.pcgamingwiki.com/wiki/Hoyle_Texas_Hold%27Em) – Technical specifications, compatibility info
 
 [^ref-15]: [Backloggd – Hoyle Texas Hold 'Em](https://www.backloggd.com/games/hoyle-texas-holdem/) – Game tracking database entry
+
+[[2005 - Hoyle Puzzle and Board Games]]
+[[2006 - Hoyle Casino]]

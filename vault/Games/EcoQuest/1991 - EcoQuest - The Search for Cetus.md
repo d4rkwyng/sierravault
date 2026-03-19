@@ -191,3 +191,5 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – Composer credits
 [^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Series legacy assessment
 [^ref-26]: [Consolidated Research Sources](internal/research/games/ecoquest-the-search-for-cetus/_consolidated.json) – Multiple sources from research collection
+
+[[1993 - EcoQuest - Lost Secret of the Rainforest]]

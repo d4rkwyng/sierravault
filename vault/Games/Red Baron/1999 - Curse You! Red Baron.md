@@ -244,3 +244,6 @@ The game also illustrates the challenges faced by flight simulation developers i
 [^ref-14]: [Genius – Curse You Red Baron (Song)](https://genius.com/Christophe-beck-curse-you-red-baron-lyrics) – Peanuts Movie soundtrack reference
 [^ref-15]: [Sierra Help – Red Baron Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/RedBaronSeriesUpdates.html) – patch information, technical support
 [^ref-16]: [JioSaavn – Curse You Red Baron](https://www.jiosaavn.com/song/curse-you-red-baron/JAYJAgZafl8) – Peanuts Movie soundtrack information
+
+[[1998 - Red Baron 3D]]
+[[2008 - Red Baron Arcade]]

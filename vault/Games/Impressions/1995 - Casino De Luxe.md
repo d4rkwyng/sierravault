@@ -315,3 +315,6 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 [^ref-16]: [Sierra Buyer's Guide Spring 1996](https://archive.org/details/RetroGamingProductCatalogs/Sierra%20Buyer%27s%20Guide%20%28Spring%201996%29/page/n27/mode/1up) – Official Sierra catalog listing (p. 28)
 
 [^ref-17]: [Joystick Magazine – November 1995 (Issue 65)](https://archive.org/details/joystick065/page/n89/mode/1up) – French review by Moulinex (100/200), p. 90
+
+[[1995 - Breach 3]]
+[[1995 - Conqueror - A.D.]]

@@ -383,3 +383,5 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 [^ref-13]: [Internet Archive – Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – preservation copy, DOS version
 [^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
 [^ref-15]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – character crossover details, game connections
+
+[[1990 - Hoyle Official Book of Games - Volume 2]]
