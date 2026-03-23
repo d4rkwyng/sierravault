@@ -184,6 +184,20 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 - [[SpaceVenture]]
 - [[The Lost Chapter]]
 - [[Vohaul Strikes Back]]
+- [[Incinerations]]
+- [[SQ0: Replicated]]
+- [[SQ2 VGA Remake]]
+- [[Space Quest I VGA]]
+- [[Space Quest II: Vohaul's Revenge]]
+- [[Space Quest III: The Pirates of Pestulon]]
+- [[Space Quest IV: Roger Wilco and the Time Rippers]]
+- [[Space Quest V: The Next Mutation]]
+- [[Space Quest VI: Roger Wilco in the Spinal Frontier]]
+- [[Space Quest: Incinerations]]
+- [[Space Quest: The Sarien Encounter]]
+- [[SpaceVenture]]
+- [[The Lost Chapter]]
+- [[Vohaul Strikes Back]]
 
 ## References
 

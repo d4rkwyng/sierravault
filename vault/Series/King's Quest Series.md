@@ -178,6 +178,22 @@ The series maintains an active fan community decades after the original games:
 - [[King's Quest: Mask of Eternity]]
 - [[King's Quest: Quest for the Crown]]
 - [[The Silver Lining]]
+- [[KQ1 VGA Remake]]
+- [[KQ2+ Romancing the Stones]]
+- [[KQ3 Redux]]
+- [[KQ3 Remake (IA)]]
+- [[KQ4 Retold]]
+- [[King's Quest (Reboot)]]
+- [[King's Quest I SCI Remake]]
+- [[King's Quest II: Romancing the Throne]]
+- [[King's Quest III: To Heir Is Human]]
+- [[King's Quest IV: The Perils of Rosella]]
+- [[King's Quest V: Absence Makes the Heart Go Yonder]]
+- [[King's Quest VI: Heir Today, Gone Tomorrow]]
+- [[King's Quest VII: The Princeless Bride]]
+- [[King's Quest: Mask of Eternity]]
+- [[King's Quest: Quest for the Crown]]
+- [[The Silver Lining]]
 
 ## References
 

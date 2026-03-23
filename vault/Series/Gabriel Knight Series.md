@@ -172,6 +172,11 @@ Jensen has been actively working on a fourth Gabriel Knight game titled "Five He
 - [[Gabriel Knight: Sins of the Fathers]]
 - [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
 - [[The Beast Within: A Gabriel Knight Mystery]]
+- [[GK: 20th Anniversary]]
+- [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]
+- [[Gabriel Knight: Sins of the Fathers]]
+- [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
+- [[The Beast Within: A Gabriel Knight Mystery]]
 
 ## References
 

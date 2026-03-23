@@ -159,6 +159,9 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - [[Mystery House]]
 - [[The Colonel's Bequest]]
 - [[The Dagger of Amon Ra]]
+- [[Mystery House]]
+- [[The Colonel's Bequest]]
+- [[The Dagger of Amon Ra]]
 
 ## References
 

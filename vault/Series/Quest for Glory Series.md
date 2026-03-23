@@ -155,6 +155,16 @@ The Coles continued their work after Sierra:
 - [[Quest for Glory V: Dragon Fire]]
 - [[Quest for Infamy]]
 - [[Summer Daze: Tilly's Tale]]
+- [[Hero-U: Rogue to Redemption]]
+- [[QFG2 VGA Remake]]
+- [[Quest for Glory I VGA]]
+- [[Quest for Glory I: So You Want to Be a Hero]]
+- [[Quest for Glory II: Trial by Fire]]
+- [[Quest for Glory III: Wages of War]]
+- [[Quest for Glory IV: Shadows of Darkness]]
+- [[Quest for Glory V: Dragon Fire]]
+- [[Quest for Infamy]]
+- [[Summer Daze: Tilly's Tale]]
 
 ## References
 
