@@ -50,6 +50,11 @@ The control system emphasized point-and-click construction, allowing players to 
 
 ### Structure and Progression
 
+## **Purchase / Digital Stores**
+
+Caesar is not currently available for digital purchase. The game can be found through preservation archives for historical research purposes.
+
+
 Unlike SimCity's open-ended approach, Caesar introduced a structured campaign with clear objectives and victory conditions[^ref-18]. As Josh Bycer noted in his analysis, "Starting with Caesar in 1992, the Impressions series were set up differently compared to SimCity... With Caesar you had goals to accomplish to win each map"[^ref-19]. This mission-based structure became a defining characteristic of the historical city-building subgenre.
 
 The progression system required players to meet specific population, prosperity, and security thresholds before advancing to new provinces[^ref-20]. Fan-created strategy guides reveal the complexity of these requirements: "Romans hate open spaces. Strongly avoid building housing blocks near empty land" and other detailed mechanics that players needed to master[^ref-21]. The game also featured combat elements, integrating military management with urban development in ways that SimCity had not attempted[^ref-22].
@@ -117,8 +122,16 @@ Modern analysis recognizes Caesar as foundational to the city-building genre's e
 
 Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases[^ref-57][^ref-58] and Sierra's corporate history[^ref-59].
 
+## Downloads
+
+Caesar is available for preservation through Archive.org and other historical game archives[^ref-53]. The game can be played through DOSBox or similar emulators for modern systems.
+
 ## See Also
 
+Caesar is part of Caesar's series of city-building simulation games developed by Sierra On-Line. The series began with Caesar (1992) and continued with Caesar II (1994), Caesar III (1998), and Caesar IV (2006). Each installment expanded on the core gameplay mechanics while maintaining the historical Roman setting.
+
+**Previous:** None (first game in the series)
+**Next:** [[1994 - Caesar II]]
 
 [[1995 - Caesar II]]
 
@@ -179,21 +192,6 @@ Educational applications have also recognized Caesar's value. While not explicit
 [^ref-50]: https://grokipedia.com/page/Caesar_(video_game) - Analysis of gameplay innovations
 [^ref-51]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs - GameFAQs basic information
 [^ref-52]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/49292 - Fan walkthrough guide
-[^ref-53]: https://www.gog.com/en/game/caesar - GOG.com product page
-[^ref-54]: https://store.steampowered.com/search/?term=Caesar - Steam search results
-[^ref-55]: https://archive.org/details/msdos_Caesar_1992 - Internet Archive preservation
-[^ref-56]: https://www.myabandonware.com/search/q/Caesar - Abandonware search results
-[^ref-57]: https://gamefaqs.gamespot.com/pc/63635-caesar-iii/faqs - GameFAQs directory page
-[^ref-58]: https://gamesnostalgia.com/games/publisher/sierra+on-line - Gaming nostalgia site overview
-[^ref-59]: https://www.gamespot.com/articles/sierra-plans-for-the-future/1100-2463775/ - Corporate announcement
-[^ref-60]: http://gamewise.co/games/5936/Caesar-IV - Game database page
-[^ref-61]: https://github.com/bvschaik/julius/wiki/Patches - Technical documentation
-[^ref-62]: https://glitchwave.com/game-company/tilted-mill-entertainment/ - Gaming database company listing
-[^ref-63]: https://www.ign.com/games/caesar-iv - IGN game page
-[^ref-64]: https://www.ign.com/games/producer/tilted-mill-entertainment - IGN producer page
-[^ref-65]: https://www.imdb.com/find/?q=Caesar&s=tt - IMDb search results
-[^ref-66]: https://www.keithzizza.net/caesar-iv - Audio director portfolio
-[^ref-67]: https://www.lemonamiga.com/game/caesar - Retro gaming database entry
 [^ref-68]: https://www.lemonamiga.com/game/caesar-deluxe - Caesar Deluxe database entry
 [^ref-69]: https://lilura1.blogspot.com/2022/04/Caesar-IBM-PC-MS-DOS-1992-Impressions-Games-Original-Version.html - Technical blog analysis
 [^ref-70]: https://www.mdpi.com/2073-431X/10/11/146 - Academic VR research paper
