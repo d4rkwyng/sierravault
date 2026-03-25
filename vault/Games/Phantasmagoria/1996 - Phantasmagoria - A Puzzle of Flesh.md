@@ -25,6 +25,10 @@ Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure game relea
 
 Developed on a budget of $4.5 million with a cast of more than 30 professional actors[^ref-4], A Puzzle of Flesh represents one of Sierra's most ambitious interactive movie productions. The game was filmed over six months in and around Seattle, Washington, using high-quality movie sets built specifically for the production rather than relying on blue screen technology[^ref-5]. While not a commercial success, the game is remembered for its controversial violent and sexual content, which led to heavy censorship or outright bans in several European and Oceanic countries[^ref-6].
 
+## **Purchase / Digital Stores**
+
+Phantasmagoria: A Puzzle of Flesh is available for purchase on GOG.com as a DOS version. The game can be purchased through various digital storefronts.
+
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
 > **Designer:** [[Lorelei Shannon]][^ref-8]
@@ -108,8 +112,16 @@ Phantasmagoria: A Puzzle of Flesh holds historical significance as one of the fi
 
 The game's commercial failure and negative critical reception contributed to Sierra's movement away from full-motion video adventures toward other genres[^ref-73]. The planned Phantasmagoria 3 was never developed, effectively ending the anthology series after only two installments[^ref-74]. Despite its controversial nature, the game developed a cult following among horror game enthusiasts and LGBTQ gaming communities who appreciated its willingness to tackle mature themes[^ref-75]. The game's influence can be seen in later horror adventures that incorporated psychological themes and mature content, though few matched its explicit approach to sexuality and violence[^ref-76].
 
+## Downloads
+
+Phantasmagoria: A Puzzle of Flesh is available for preservation through various sources. The DOS version can be found on Archive.org and MyAbandonWare for historical preservation purposes[^ref-79]. Compatibility patches are available to ensure the game runs on modern systems.
+
 ## See Also
 
+Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagoria series, following the original Phantasmagoria (1995) which established the horror anthology concept. While both games share the Phantasmagoria title and horror themes, they feature completely different stories and characters, as Sierra intended the series to be an anthology rather than a direct sequel line.
+
+**Previous:** [[1995 - Phantasmagoria]]
+**Next:** None (series ended after two installments)
 
 [[1995 - Phantasmagoria]]
 ## References
@@ -190,7 +202,3 @@ The game's commercial failure and negative critical reception contributed to Sie
 [^ref-74]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Phantasmagoria 3 cancellation
 [^ref-75]: https://www.reddit.com/r/HorrorGames/comments/18g14j6/phantasmagoria_a_puzzle_of_flesh/ - Cult following discussion
 [^ref-76]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Influence on later horror games
-[^ref-77]: https://www.gogdb.org/product/1207658841 - GOG availability information
-[^ref-78]: https://www.myabandonware.com/search/q/Phantasmagoria%3A+A+Puzzle+of+Flesh - Abandonware availability
-[^ref-79]: https://archive.org/details/msdos_Phantasmagoria_2_-_A_Puzzle_of_the_Flesh_1996 - Internet Archive DOS version
-[^ref-80]: https://archive.org/details/P2DOSPAT - Compatibility patch archive
