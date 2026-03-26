@@ -14,20 +14,20 @@ last_updated: "2026-01-28"
 
 ## Overview
 
-Founded in Vancouver in 1997 by Alex Garden and Luke Moloney, Relic Entertainment quickly gained attention for cinematic real-time strategy that emphasized bold art direction and narrative continuity. Sierra Studios published Relic's debut *Homeworld* (1999), a groundbreaking 3D space RTS that earned critical acclaim and established the studio's reputation for innovation. Sierra partnered with Relic again for *Homeworld 2* (2003) before the studio was acquired by THQ in 2004.
+Founded in Vancouver in 1997 by Alex Garden and Luke Moloney, Relic Entertainment quickly gained attention for cinematic real-time strategy that emphasized bold art direction and narrative continuity [[https://en.wikipedia.org/wiki/Relic_Entertainment|Wikipedia]] [[https://grokipedia.com/page/Relic_Entertainment|Grokipedia]]. Sierra Studios published Relic's debut *Homeworld* (1999), a groundbreaking 3D space RTS that earned critical acclaim and established the studio's reputation for innovation [[https://www.relic.com/|Official Site]] [[https://www.mobygames.com/company/278/relic-entertainment-inc/|MobyGames]]. Sierra partnered with Relic again for *Homeworld 2* (2003) before the studio was acquired by THQ in 2004.
 
-After THQ's bankruptcy in 2013, SEGA acquired Relic Entertainment. The studio continued developing acclaimed strategy games including the *Company of Heroes* and *Warhammer 40,000: Dawn of War* franchises, as well as collaborating on *Age of Empires IV* with Xbox Game Studios.
+After THQ's bankruptcy in 2013, SEGA acquired Relic Entertainment. The studio continued developing acclaimed strategy games including the *Company of Heroes* and *Warhammer 40,000: Dawn of War* franchises, as well as collaborating on *Age of Empires IV* with Xbox Game Studios [[https://ca.linkedin.com/company/relic-entertainment|LinkedIn]] [[https://giantbomb.com/wiki/Companies/Relic_Entertainment|Giant Bomb]].
 
 ## History
 
 ### Sierra Era (1997-2004)
-- **1997:** Founded by Alex Garden, Luke Moloney, and Erin Daly in Vancouver.
-- **1999:** Released *Homeworld* through Sierra, pioneering fully 3D space RTS with persistent fleets and cinematic storytelling.
-- **2003:** Released *Homeworld 2* through Sierra/Vivendi, featuring refined UI and large-scale graphics upgrades.
+- **1997:** Founded by Alex Garden, Luke Moloney, and Erin Daly in Vancouver [[https://en.wikipedia.org/wiki/Relic_Entertainment|Wikipedia]] [[https://giantbomb.com/wiki/Companies/Relic_Entertainment|Giant Bomb]].
+- **1999:** Released *Homeworld* through Sierra, pioneering fully 3D space RTS with persistent fleets and cinematic storytelling [[https://www.relic.com/|Official Site]].
+- **2003:** Released *Homeworld 2* through Sierra/Vivendi, featuring refined UI and large-scale graphics upgrades [[https://www.mobygames.com/company/278/relic-entertainment-inc/|MobyGames]].
 - **2004:** Acquired by THQ; begins work on Warhammer 40,000 license.
 
 ### Post-Sierra (2004-Present)
-After leaving Sierra's publishing umbrella, Relic became one of the premier RTS developers in the industry, creating multiple critically acclaimed franchises for THQ (2004-2013) and later SEGA (2013-2024). In March 2024, SEGA sold Relic and the studio went fully independent, announcing plans to focus on smaller experimental projects and explore remasters of classic titles. The studio released the well-received *Dawn of War Definitive Edition* in August 2025.
+After leaving Sierra's publishing umbrella, Relic became one of the premier RTS developers in the industry, creating multiple critically acclaimed franchises for THQ (2004-2013) and later SEGA (2013-2024) [[https://giantbomb.com/wiki/Companies/Relic_Entertainment|Giant Bomb]]. In March 2024, SEGA sold Relic and the studio went fully independent, announcing plans to focus on smaller experimental projects and explore remasters of classic titles [[https://www.relic.com/|Official Site]]. The studio released the well-received *Dawn of War Definitive Edition* in August 2025 [[https://ca.linkedin.com/company/relic-entertainment|LinkedIn]].
 
 ## Games
 
@@ -46,8 +46,18 @@ After leaving Sierra's publishing umbrella, Relic became one of the premier RTS 
 - Warhammer 40,000: Dawn of War III — 2017 (SEGA)
 - Age of Empires IV — 2021 (Xbox Game Studios, collaboration with World's Edge)
 - Company of Heroes 3 — 2023 (SEGA)
-- Warhammer 40,000: Dawn of War - Definitive Edition — 2025 (Independent, 150K copies in 24 hours)
+- Warhammer 40,000: Dawn of War - Definitive Edition — 2025 (Independent, 150K copies in 24 hours) [[https://ca.linkedin.com/company/relic-entertainment|LinkedIn]]
 
-## Legacy
+## References
 
-Relic's Sierra-era work cemented *Homeworld* as a prestige RTS franchise that influenced countless space strategy games. The IP's strength led to Gearbox acquiring the rights and releasing *Homeworld Remastered Collection* (2015), while Blackbird Interactive (founded by ex-Relic staff) continued the series with *Deserts of Kharak* (2016) and *Homeworld 3* (2024). Relic's innovations in 3D strategic gameplay and cinematic presentation during the Sierra era established foundations they would build upon with Company of Heroes and Dawn of War.
+1. [[https://en.wikipedia.org/wiki/Relic_Entertainment|Relic Entertainment - Wikipedia]]
+2. [[https://grokipedia.com/page/Relic_Entertainment|Relic Entertainment - Grokipedia]]
+3. [[https://www.relic.com/|Relic Entertainment Official Website]]
+4. [[https://www.mobygames.com/company/278/relic-entertainment-inc/|Relic Entertainment Inc - MobyGames]]
+5. [[https://giantbomb.com/wiki/Companies/Relic_Entertainment|Relic Entertainment - Giant Bomb]]
+6. [[https://ca.linkedin.com/company/relic-entertainment|Relic Entertainment - LinkedIn]]
+7. [[https://ultimatepopculture.fandom.com/wiki/Relic_Entertainment|Relic Entertainment - Ultimate Pop Culture Wiki]]
+8. [[https://www.avid.wiki/Relic_Entertainment|Relic Entertainment - Audiovisual Identity Database]]
+9. [[https://en.wikipedia.org/wiki/List_of_Relic_Entertainment_games|List of Relic Entertainment Games - Wikipedia]]
+
+Relic's Sierra-era work cemented *Homeworld* as a prestige RTS franchise that influenced countless space strategy games [[https://en.wikipedia.org/wiki/Relic_Entertainment|Wikipedia]]. The IP's strength led to Gearbox acquiring the rights and releasing *Homeworld Remastered Collection* (2015), while Blackbird Interactive (founded by ex-Relic staff) continued the series with *Deserts of Kharak* (2016) and *Homeworld 3* (2024) [[https://homeworld.fandom.com/wiki/Blackbird_Interactive|Homeworld Fandom]]. Relic's innovations in 3D strategic gameplay and cinematic presentation during the Sierra era established foundations they would build upon with Company of Heroes and Dawn of War [[https://grokipedia.com/page/Relic_Entertainment|Grokipedia]].
