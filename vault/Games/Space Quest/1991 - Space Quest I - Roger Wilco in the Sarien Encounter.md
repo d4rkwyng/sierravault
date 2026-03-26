@@ -18,7 +18,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest I: Roger Wilco in the Sarien Encounter
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4][^ref-2]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the remake features enhanced 256-color VGA graphics, Sound Blaster support, digitized sounds, and a point-and-click icon interface replacing the original text parser[^ref-4][^ref-3][^ref-5]. The VGA graphics were deliberately drawn in a 1950s B-movie style[^ref-2][^ref-5]. Released on August 20, 1991, some puzzles were changed or replaced with new solutions to accommodate the new interface, and it became possible to skip the arcade sequences[^ref-4][^ref-5]. While marketed aggressively, like the other Sierra VGA remakes of the early 1990s, the game was a commercial disappointment[^ref-3].
@@ -197,6 +197,18 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[Space Quest III - The Pirates of Pestulon]]
 [[Space Quest IV - Roger Wilco and the Time Rippers]]
 [[Space Quest V - The Next Mutation]]
+
+[[1986 - Space Quest - The Sarien Encounter]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1993 - Space Quest V - The Next Mutation]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article
 [^ref-2]: [My Abandonware – Space Quest I VGA](https://www.myabandonware.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter-2m4) – platforms, availability, user reviews

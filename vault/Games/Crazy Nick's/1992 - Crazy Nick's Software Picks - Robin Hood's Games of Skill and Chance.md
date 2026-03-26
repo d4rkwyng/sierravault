@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

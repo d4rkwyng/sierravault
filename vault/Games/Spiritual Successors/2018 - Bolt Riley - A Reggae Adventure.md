@@ -17,7 +17,7 @@ tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

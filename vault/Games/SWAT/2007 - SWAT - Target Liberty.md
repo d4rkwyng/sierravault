@@ -17,7 +17,7 @@ tags: [2000s, police-quest-swat, shooter, sierra]
 ---
 # SWAT: Target Liberty
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

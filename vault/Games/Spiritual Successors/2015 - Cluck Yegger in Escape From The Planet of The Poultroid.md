@@ -23,6 +23,8 @@ tags: [2010s, sierra, spaceventure, two-guys]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 8, 2026</small>
+
 *Cluck Yegger in Escape from the Planet of the Poultroid* is a comedic horror strategy game developed and published by Guys From Andromeda LLC, released on November 9, 2015[^ref-1]. The game serves as a parody of the popular *Five Nights at Freddy's* franchise, featuring similar survival horror mechanics with a humorous science fiction twist involving mutant chickens[^ref-2]. Created by [[Mark Crowe]] and Chris Pope—with Crowe being one half of the legendary "Two Guys from Andromeda" who created the *Space Quest* series at Sierra On-Line—the game represents a spiritual continuation of their comedic adventure game legacy[^ref-3].
 
 The game was developed as an offshoot of the much larger *SpaceVenture* project, which was successfully funded through Kickstarter in 2012 with $539,767 from 10,809 backers[^ref-4]. When development on *SpaceVenture* experienced delays due to personal circumstances affecting Scott Murphy, the team created *Cluck Yegger* as both a Halloween-themed gift to backers and a means of generating additional funding for the main project[^ref-2]. The mini-game was initially released exclusively to Kickstarter backers on October 29, 2015, before becoming publicly available on Steam and other platforms shortly thereafter[^ref-6].

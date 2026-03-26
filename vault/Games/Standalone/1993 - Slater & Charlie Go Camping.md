@@ -17,7 +17,7 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: January 9, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

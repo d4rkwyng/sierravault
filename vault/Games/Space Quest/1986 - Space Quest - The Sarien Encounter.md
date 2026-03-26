@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest: The Sarien Encounter
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Space Quest: Chapter I – The Sarien Encounter is a graphic adventure game developed and published by [[Sierra On-Line]], released in October 1986 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-5][^ref-14]. Designed by [[Mark Crowe]] and [[Scott Murphy]]—who became known as "The Two Guys from Andromeda"—the game casts players as Roger Wilco, a lowly janitor aboard a research spaceship who must stop an alien race from using a stolen superweapon for evil purposes[^ref-5][^ref-3]. Space Quest was an instant hit, selling in excess of 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association in fall 1988[^ref-4][^ref-5]. The game's combination of science fiction setting, sardonic humor, and frequent humorous death scenes established a distinct identity that set it apart from Sierra's fantasy-themed adventures[^ref-6].
@@ -209,6 +209,18 @@ Series: [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates 
 [[Space Quest III - The Pirates of Pestulon]]
 [[Space Quest IV - Roger Wilco and the Time Rippers]]
 [[Space Quest V - The Next Mutation]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1993 - Space Quest V - The Next Mutation]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)
 [^ref-2]: [Sierra Chest – Space Quest I](https://www.sierrachest.com/index.php?a=games&id=9&title=space-quest-1&fld=general) – Sierra history, collections, platforms

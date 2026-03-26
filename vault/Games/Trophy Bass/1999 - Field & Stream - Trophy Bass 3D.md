@@ -22,6 +22,8 @@ tags: [1990s, sierra, simulation, trophy-bass]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 **Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999[^ref-1]. The game brought three-dimensionality to a genre that was predominantly filled with 2D titles, featuring "The Bass Are Back In Extraordinary 3D Detail" as its marketing tagline[^ref-2]. As part of Sierra's licensed sports game series using the Field & Stream magazine brand[^ref-3], Trophy Bass 3D combined traditional fishing game mechanics with enhanced 3D graphics and realistic fishing environments[^ref-4].
 
 The game offers an "ultimate fishing experience right to your desktop" with unparalleled 3D details of 15 tournament lakes and over 30 species of fish featuring improved artificial intelligence[^ref-3]. Players can immerse themselves in the world of professional bass fishing through comprehensive simulation that considers weather, season, water conditions, and many other factors that affect how real bass behave[^ref-4]. The game was fully sponsored by B.A.S.S. (Bass Anglers Sportsman Society), lending authenticity to its tournament modes[^ref-10].

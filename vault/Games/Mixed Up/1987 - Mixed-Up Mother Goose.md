@@ -17,7 +17,7 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

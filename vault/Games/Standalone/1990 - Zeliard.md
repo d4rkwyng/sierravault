@@ -18,7 +18,7 @@ tags: [1980s, rpg, sci, sierra, standalone]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: January 28, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

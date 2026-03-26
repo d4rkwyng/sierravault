@@ -18,7 +18,7 @@ tags: [1980s, electronic-battlefield-system, sierra, simulation]
 ---
 # Tank: The M1A1 Abrams Battle Tank Simulation
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

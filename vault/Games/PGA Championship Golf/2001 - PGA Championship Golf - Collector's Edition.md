@@ -17,7 +17,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf Collectors Edition
 
-<small style="color: gray">Last updated: February 17, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

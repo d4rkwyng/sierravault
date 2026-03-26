@@ -8,12 +8,12 @@ platforms:
 genre: Screensaver
 sierra_lineage: Sierra Label (Dynamix)
 created: 2026-02-12
-last_updated: 2026-02-19
+last_updated: "2026-03-11"
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: February 14, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 > [!info]- Game Info
 > - **Developer:** [[Dynamix]]

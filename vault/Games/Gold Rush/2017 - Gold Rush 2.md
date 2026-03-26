@@ -17,7 +17,7 @@ tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: January 13, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

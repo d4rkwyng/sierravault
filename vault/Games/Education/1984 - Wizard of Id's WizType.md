@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

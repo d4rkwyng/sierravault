@@ -18,7 +18,7 @@ tags: [1980s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest III: The Pirates of Pestulon
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Space Quest III: The Pirates of Pestulon is a graphic adventure game developed and published by [[Sierra On-Line]], released on March 24, 1989 for MS-DOS, with the Atari ST port coming out in April, the Amiga version in October, and the Macintosh version in 1991[^ref-2][^ref-5]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the third installment in the Space Quest series and the first to use Sierra's SCI engine[^ref-2][^ref-5]. The game features music composed by Supertramp drummer Bob Siebenberg and was one of the first games to support the Sound Blaster sound card[^ref-2][^ref-4]. Space Quest III won the Software Publishers Association's "Best Adventure Game of the Year" award for 1989[^ref-4]. The game continues the misadventures of Roger Wilco as he becomes involved in rescuing a pair of computer programmers—the game's own creators—from a sinister video game company[^ref-2].
@@ -200,6 +200,18 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[Space Quest III - The Pirates of Pestulon]]
 [[Space Quest IV - Roger Wilco and the Time Rippers]]
 [[Space Quest V - The Next Mutation]]
+
+[[1986 - Space Quest - The Sarien Encounter]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1993 - Space Quest V - The Next Mutation]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – C&VG 83% review, Game Player's awards
 [^ref-2]: [Sierra Fandom Wiki – Space Quest III](https://sierra.fandom.com/wiki/Space_Quest_III%3A_The_Pirates_of_Pestulon) – plot, technical details

@@ -22,6 +22,8 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992 enhanced version of Sierra On-Line's groundbreaking 1989 adventure/RPG hybrid originally released as *Hero's Quest: So You Want to Be a Hero*[^ref-1]. The remake features completely redrawn 256-color VGA graphics, a point-and-click interface replacing the original text parser, clay model stop-motion animation for combat sequences, and character portraits during conversations[^ref-2]. Designed by [[Lori Ann Cole]] and [[Corey Cole]], the game remains one of the most influential genre-blending titles in gaming history, successfully merging the puzzle-solving adventure gameplay Sierra was famous for with role-playing game mechanics including character classes, skill progression, and combat[^ref-34].
 
 The VGA remake holds a unique distinction among Sierra's numerous enhanced remakes of the early 1990s: it was the only one to turn a profit[^ref-4]. Despite this success—reportedly selling more units than the original game—Sierra management had already concluded that remakes were not financially viable, making Quest for Glory I one of the last games to receive this treatment[^ref-4]. The remake cost more to produce than the original and nearly as much as developing an entirely new VGA game, contrary to Sierra's expectations that remakes would be a cheaper alternative to new productions[^ref-4].

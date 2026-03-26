@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

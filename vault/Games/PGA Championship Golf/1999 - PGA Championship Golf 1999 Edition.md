@@ -18,7 +18,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

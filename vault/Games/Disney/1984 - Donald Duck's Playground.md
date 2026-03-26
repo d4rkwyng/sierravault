@@ -18,7 +18,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, gobliiins, sierra]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

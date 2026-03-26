@@ -18,7 +18,7 @@ tags: [1990s, earthsiege-metaltech, sierra, simulation]
 ---
 # Starsiege
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

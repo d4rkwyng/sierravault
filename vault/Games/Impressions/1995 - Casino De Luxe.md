@@ -18,7 +18,7 @@ tags: [1990s, casino-deluxe, impressions, sierra]
 ---
 # Casino De Luxe
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, sierra, you-don-t-know-jack]
 ---
 # Head Rush
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 ---
 # Codename: ICEMAN
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

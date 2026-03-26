@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 99
 
-<small style="color: gray">Last updated: January 23, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

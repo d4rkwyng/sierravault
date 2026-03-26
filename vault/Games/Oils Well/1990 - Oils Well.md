@@ -19,7 +19,7 @@ tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

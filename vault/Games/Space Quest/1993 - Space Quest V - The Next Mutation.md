@@ -18,7 +18,7 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest V: The Next Mutation
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18]. Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-18][^ref-3]. Set within a spoof of the Star Trek franchise, the story focuses on Roger Wilco finally achieving his dream of becoming a star captain, only to become involved in saving the galaxy from a deadly threat posed by a man-made virus[^ref-5][^ref-18]. The game was released on floppy disk only; early plans for a CD-ROM "talkie" version were cancelled because Dynamix was in financial trouble and eager to release new games rather than work on enhanced versions of already-released titles[^ref-4][^ref-3].
@@ -249,6 +249,18 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[Space Quest III - The Pirates of Pestulon]]
 [[Space Quest IV - Roger Wilco and the Time Rippers]]
 [[Space Quest V - The Next Mutation]]
+
+[[1986 - Space Quest - The Sarien Encounter]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest V](https://en.wikipedia.org/wiki/Space_Quest_V) – encyclopedia article
 [^ref-2]: [Dynamix Fandom Wiki – Space Quest V](https://dynamix.fandom.com/wiki/Space_Quest_V%3A_The_Next_Mutation) – development, plot, technical details

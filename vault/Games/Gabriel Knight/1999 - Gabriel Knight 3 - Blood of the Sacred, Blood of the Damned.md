@@ -17,7 +17,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -140,6 +140,14 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 [[Gabriel Knight 4 - Five Hearts]]
 [[The Beast Within - A Gabriel Knight Mystery]]
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+
+[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+
+[[TBD - Gabriel Knight 4 - Five Hearts]]
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Abandonware DOS search results page

@@ -17,7 +17,7 @@ tags: [adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

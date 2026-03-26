@@ -22,6 +22,8 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Casino Deluxe 2 is a gambling simulation game released on October 22, 1996 for IBM PC, developed by [[Impressions Games]] and published by [[Sierra On-Line]][^ref-1]. The game invites players to experience the "intensity, allure and passion of authentic casino gambling" from the comfort of their homes, with its signature marketing tagline urging players to "beat the odds...to a pulp!"[^ref-2]. Serving as a sequel to Casino De Luxe (1995), the game expanded upon its predecessor's foundation with enhanced 3D SVGA graphics and a comprehensive suite of eighteen casino games[^ref-2].
 
 The game was designed as a risk-free gambling experience, allowing players to enjoy the thrill of casino gaming without wagering real money[^ref-3]. A standout feature was the on-screen professional advice system, described as being "like having a casino expert right by your side," which provided players with invaluable tips and strategies applicable even to real-world gambling scenarios[^ref-2]. The game also included a Gambling Academy feature with lessons and game histories to help players understand the rules and strategies of various casino games[^ref-4].

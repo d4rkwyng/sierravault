@@ -21,6 +21,8 @@ tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Hoyle Official Card Games Collection 2015 represents a modern continuation of the venerable Hoyle gaming franchise, which traces its roots back to Sierra On-Line's original card game simulators of the late 1980s[^ref-1]. Developed by Webfoot Technologies, Inc. and published by Viva Media, LLC, this collection was released on November 18, 2015 for both Windows and macOS platforms[^ref-2]. Marketing itself as "The #1 card game collection," the game promised an updated experience with a new visual design, improved artificial intelligence, and new computer opponents to challenge players[^ref-3].
 
 The 2015 edition features over 70 new and classic card games, including titles never before seen in the Hoyle series such as Fan Tan, Oh Hell, and Whist[^ref-4]. The collection includes a Face Creator feature allowing players to customize their in-game avatar, along with dozens of backgrounds and card deck designs to personalize the playing experience[^ref-2]. The game supports widescreen monitors natively and offers large, easy-to-read cards designed for accessibility[^ref-5].

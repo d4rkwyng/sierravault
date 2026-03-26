@@ -17,7 +17,7 @@ tags: [2010s, adventure, fester-mudd, sierra]
 ---
 # Fester Mudd: Curse of the Gold
 
-<small style="color: gray">Last updated: January 14, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

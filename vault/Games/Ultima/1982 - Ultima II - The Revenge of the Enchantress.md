@@ -19,7 +19,7 @@ tags: [1980s, rpg, sierra, ultima]
 ---
 # Ultima II: The Revenge of the Enchantress
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

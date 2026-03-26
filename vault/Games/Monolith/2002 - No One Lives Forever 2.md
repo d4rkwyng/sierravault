@@ -19,7 +19,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

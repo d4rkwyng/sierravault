@@ -18,7 +18,7 @@ tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

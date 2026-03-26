@@ -17,7 +17,7 @@ tags: [1990s, outpost, sierra]
 ---
 # Outpost
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

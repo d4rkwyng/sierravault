@@ -22,6 +22,8 @@ tags: [1990s, hoyle, sci, sierra, simulation]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Hoyle Blackjack was a comprehensive blackjack simulation developed by Sierra On-Line that brought "all the challenge and fun of casino blackjack home with 16 different games from the official name in gaming"[^ref-1]. This 1996 release was designed as part of Sierra's Hoyle series of card and board game collections, carrying the prestigious Hoyle brand that had been synonymous with card game rules since the 18th century[^ref-2]. The series was created as "a less violent alternative to action games"[^ref-2] and became a significant part of Sierra's game portfolio throughout the 1990s and 2000s.
 
 The game featured multiple variants of blackjack with customizable casino rules, allowing players to "select how many times you're allowed to split or whether you can buy insurance"[^ref-3]. GameSpot's review praised the simulation depth, noting that "Hoyle Blackjack is a full-featured blackjack simulation that captures many of the elements of gambling in a real casino"[^ref-4]. The game included animated characters with full voice acting, featuring performers such as Pat Cashman and Rodney Sherwood[^ref-5], and offered both single-player and multiplayer options via network or modem connections[^ref-6].

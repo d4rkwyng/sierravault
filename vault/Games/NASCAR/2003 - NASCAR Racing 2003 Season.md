@@ -17,7 +17,7 @@ tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2003 Season
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

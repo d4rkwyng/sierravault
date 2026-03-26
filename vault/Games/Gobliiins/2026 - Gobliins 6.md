@@ -22,6 +22,8 @@ tags: [adventure, gobliiins, puzzle, sierra]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 8, 2026</small>
+
 *Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as a direct sequel to *[[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]]*, reuniting the beloved duo Fingus and Winkle more than thirty years after their original adventure.[^ref-1][^ref-2] Developed by [[Pierre Gilhodes]] and published through his independent [[Schnibble Productions]] label, the game represents a continuation of Gilhodes' personal stewardship of the franchise he co-created at Coktel Vision in 1991.[^ref-1][^ref-6]
 
 The game was successfully crowdfunded on Kickstarter from October 10 to November 9, 2024, raising €9,524 from 388 backers against a modest €4,000 goal—exceeding its target by more than double.[^ref-1][^ref-3] Built using Adventure Game Studio (AGS), the same engine that powered *Gobliiins 5*, the game promises to deliver classic point-and-click gameplay with modern quality-of-life improvements while maintaining the series' distinctive humor and charm.[^ref-3][^ref-5]

@@ -17,7 +17,7 @@ tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

@@ -17,7 +17,7 @@ tags: [2000s, adventure, agi, sierra, space-quest-fan-game]
 ---
 # Space Quest 0: Replicated
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

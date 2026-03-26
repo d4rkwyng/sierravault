@@ -17,7 +17,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: January 18, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

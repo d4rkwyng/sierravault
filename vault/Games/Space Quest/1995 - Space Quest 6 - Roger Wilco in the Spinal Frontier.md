@@ -17,7 +17,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 ---
 # Space Quest 6: Roger Wilco in the Spinal Frontier
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Space Quest 6: Roger Wilco in the Spinal Frontier is a point-and-click adventure game developed and published by [[Sierra On-Line]], released on July 11, 1995 for MS-DOS and Windows, with a Macintosh version released in 1996[^ref-6][^ref-2]. Designed by [[Josh Mandel]] and [[Scott Murphy]], this is the sixth and final game in the Space Quest series[^ref-15][^ref-3]. The game ran on Sierra's SCI32 engine, featuring Super VGA graphics with 256 colors at 640×480 resolution—a significant visual upgrade from previous entries[^ref-3][^ref-15]. Gary Owens returned as narrator once again[^ref-12][^ref-22]. The game's subtitle refers to the final portion, where Roger must undergo miniaturization and enter the body of a shipmate, a spoof of the 1987 film Innerspace[^ref-4].
@@ -219,6 +219,18 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[Space Quest III - The Pirates of Pestulon]]
 [[Space Quest IV - Roger Wilco and the Time Rippers]]
 [[Space Quest V - The Next Mutation]]
+
+[[1986 - Space Quest - The Sarien Encounter]]
+
+[[1987 - Space Quest II - Vohaul's Revenge]]
+
+[[1989 - Space Quest III - The Pirates of Pestulon]]
+
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+
+[[1993 - Space Quest V - The Next Mutation]]
 ## References
 [^ref-1]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article
 [^ref-2]: [Sierra Chest – Space Quest 6](https://www.sierrachest.com/index.php?a=games&id=14&title=space-quest-6&fld=general) – Sierra history, collections, platforms

@@ -18,7 +18,7 @@ tags: [2000s, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

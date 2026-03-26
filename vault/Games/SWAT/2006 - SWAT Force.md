@@ -22,6 +22,8 @@ tags: [2000s, police-quest-swat, sierra]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 SWAT Force is a mobile tactical action game[^ref-1][^ref-11][^ref-12] released on February 28, 2006[^ref-1][^ref-7][^ref-11], marking a significant milestone as the first game in the Police Quest series to be released for mobile devices[^ref-1][^ref-2][^ref-11][^ref-12]. Developed by French studio Kaolink[^ref-1][^ref-2][^ref-7][^ref-11] and published by Vivendi Universal Games Mobile[^ref-1][^ref-7][^ref-11], the game represents an ambitious attempt to translate the tactical shooting experience of the PC SWAT franchise[^ref-6][^ref-8][^ref-11] to the considerably more limited mobile platform of the era[^ref-2][^ref-3][^ref-6].
 
 The game takes the form of a 2D side-scroller[^ref-3][^ref-5][^ref-12] featuring two-man team gameplay[^ref-3][^ref-4][^ref-12] across seven missions[^ref-3][^ref-6]. Players control two distinct SWAT operatives—an artilleryman and an expert[^ref-4][^ref-5]—each with specialized abilities suited to different tactical situations[^ref-4][^ref-5][^ref-12]. Despite the inherent limitations of mobile gaming hardware in 2006[^ref-3][^ref-6], SWAT Force was generally well-received by critics[^ref-1][^ref-6], with GameSpot calling it "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3].

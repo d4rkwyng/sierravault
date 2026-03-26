@@ -17,7 +17,7 @@ tags: [1990s, sierra, strategy, v-for-victory]
 ---
 # V for Victory: Battleset 1 - D-Day Utah Beach - 1944
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

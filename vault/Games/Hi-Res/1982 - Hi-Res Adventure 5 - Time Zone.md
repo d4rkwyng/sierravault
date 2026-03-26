@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

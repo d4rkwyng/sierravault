@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -237,6 +237,24 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest III: To Heir Is
 [[King's Quest VI - Heir Today, Gone Tomorrow]]
 [[King's Quest VII - The Princeless Bride]]
 [[Roberta Williams' King's Quest I - Quest for the Crown]]
+
+[[1984 - King's Quest - Quest for the Crown]]
+
+[[1986 - King's Quest III - To Heir Is Human]]
+
+[[1988 - King's Quest IV - The Perils of Rosella]]
+
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+
+[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+
+[[1994 - King's Quest VII - The Princeless Bride]]
+
+[[1998 - King's Quest - Mask of Eternity]]
+
+[[2015 - King's Quest]]
 ## References
 
 [^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information

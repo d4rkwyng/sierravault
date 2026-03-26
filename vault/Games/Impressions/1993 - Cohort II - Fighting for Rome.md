@@ -17,7 +17,7 @@ tags: [1990s, cohort, sierra, strategy]
 ---
 # Cohort II: Fighting for Rome
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

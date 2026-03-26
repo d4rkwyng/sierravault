@@ -18,7 +18,7 @@ tags: [1980s, coktel, racing, sierra, standalone]
 ---
 # African Raiders-01
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

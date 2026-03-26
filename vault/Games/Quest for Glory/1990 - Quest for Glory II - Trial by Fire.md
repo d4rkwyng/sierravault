@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-2]. Designed by [[Lori Ann Cole]] and [[Corey Cole]], it is the sequel to Quest for Glory: So You Want to Be a Hero and continues the story of the Hero of Spielburg[^ref-1][^ref-3]. The game was the last EGA game created by Sierra On-Line, following development processes intended for the graphically superior VGA games, which made its development difficult[^ref-1][^ref-4]. The manual is illustrated by Marvel Comics artist Ernie Chan[^ref-1]. According to Corey Cole, the game cost $450,000 to develop[^ref-1]. Trial by Fire is the only game in the series that was never officially remade with VGA graphics by Sierra, though AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-5].
@@ -165,6 +165,16 @@ Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory III:
 [[Quest for Glory III - Wages of War]]
 [[Quest for Glory IV - Shadows of Darkness]]
 [[Quest for Glory V - Dragon Fire]]
+
+[[1989 - Quest for Glory I - So You Want to Be a Hero]]
+
+[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
+
+[[1992 - Quest for Glory III - Wages of War]]
+
+[[1993 - Quest for Glory IV - Shadows of Darkness]]
+
+[[1998 - Quest for Glory V - Dragon Fire]]
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory II: Trial by Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_II%3A_Trial_by_Fire) – – history, plot, gameplay, development, reception

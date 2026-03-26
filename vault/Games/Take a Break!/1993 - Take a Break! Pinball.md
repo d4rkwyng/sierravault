@@ -17,7 +17,7 @@ tags: [1990s, dynamix, sierra, take-a-break]
 ---
 # Take a Break! Pinball
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, micro-miniatures, sierra, strategy]
 ---
 # Fort Apache
 
-<small style="color: gray">Last updated: January 20, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

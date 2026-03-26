@@ -21,6 +21,8 @@ tags: [1990s, front-page-sports, sierra, simulation]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 *Front Page Sports: Trophy Bass 2* is a fishing simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1996, representing the company's most ambitious bass fishing title to date.[^ref-1][^ref-5] Part of Sierra's acclaimed [[1992 - Front Page Sports Football 92|Front Page Sports]] series, which had established the company's credibility in realistic sports simulations throughout the mid-1990s, *Trophy Bass 2* built upon its predecessor's foundation with enhanced technology, improved graphics, and expanded gameplay features.[^ref-2][^ref-4]
 
 Marketed as "the most addictive fishing simulation ever," the game utilized the proprietary "Trophy Boss engine" to deliver what contemporary reviews called "the best fishing sim to date."[^ref-3][^ref-5] The simulation emphasized realism, featuring accurate bass behavior patterns, real lake environments, and authentic fishing techniques that appealed to both gaming enthusiasts and fishing aficionados.[^ref-6][^ref-9]

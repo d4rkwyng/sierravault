@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

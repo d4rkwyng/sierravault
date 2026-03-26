@@ -18,7 +18,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

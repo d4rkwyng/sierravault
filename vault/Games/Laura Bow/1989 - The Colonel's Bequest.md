@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, racing, sierra, sierra-attractions]
 ---
 # Eat My Dust
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

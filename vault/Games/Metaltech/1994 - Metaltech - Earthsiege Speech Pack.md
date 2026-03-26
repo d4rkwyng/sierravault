@@ -21,6 +21,8 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 The **Metaltech Earthsiege Speech Pack** was an add-on expansion released by Dynamix in 1994 that enhanced the original Metaltech: Earthsiege with digitized voice acting and spoken dialogue.[^ref-1] This expansion pack came on 3.5" floppy disks and added digitized speech including "the voices of your commander or your fellow pilots" to the base game.[^ref-1] The speech pack was part of Dynamix's efforts to compete with Battletech/Mechwarrior games after they no longer had rights to the Battletech license.[^ref-3][^ref-14]
 
 Set five hundred years in the future, the game takes place in a world where "sentient cybrid war machines have rebelled against their human masters and crushed the great military powers of the world."[^ref-4] Players command giant HERCs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) in tactical combat against these automated Cybrids.[^ref-5] The speech pack enhanced the original game's briefings and communications with professional voice acting, bringing the futuristic warfare to life through spoken dialogue.[^ref-6]

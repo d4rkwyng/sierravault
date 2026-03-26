@@ -17,6 +17,8 @@ tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
+<small style="color: gray">Last updated: March 18, 2026</small>
+
 > [!info]- Game Info
 > - **Release Year:** 1990
 > - **Developer:** Sierra On-Line

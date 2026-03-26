@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

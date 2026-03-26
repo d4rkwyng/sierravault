@@ -18,7 +18,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 ---
 # Roberta Williams' King's Quest I: Quest for the Crown
 
-<small style="color: gray">Last updated: March 18, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -219,6 +219,22 @@ Series: [[King's Quest]] • [[King's Quest II: Romancing the Throne]] • [[Kin
 [[King's Quest VII - The Princeless Bride]]
 [[Roberta Williams' King's Quest I - Quest for the Crown]]
 [[2015 - King's Quest]]
+
+[[1984 - King's Quest - Quest for the Crown]]
+
+[[1985 - King's Quest II - Romancing the Throne]]
+
+[[1986 - King's Quest III - To Heir Is Human]]
+
+[[1988 - King's Quest IV - The Perils of Rosella]]
+
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+
+[[1994 - King's Quest VII - The Princeless Bride]]
+
+[[1998 - King's Quest - Mask of Eternity]]
 ## References
 
 [^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Publication date September 19, 1990

@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -312,6 +312,30 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 [[Leisure Suit Larry 7 - Love for Sail]]
 [[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+
+[[2013 - Leisure Suit Larry - Reloaded]]
+
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
+[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards

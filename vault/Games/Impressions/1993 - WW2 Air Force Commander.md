@@ -18,7 +18,7 @@ tags: [1990s, air-force-commander, sierra, strategy]
 ---
 # WW2 Air Force Commander
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

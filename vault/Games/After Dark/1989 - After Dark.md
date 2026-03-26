@@ -19,7 +19,7 @@ tags: [1980s, after-dark, puzzle, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: January 9, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

@@ -20,7 +20,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: February 7, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

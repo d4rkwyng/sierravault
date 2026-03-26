@@ -17,7 +17,7 @@ tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle Earth Online
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -355,6 +355,14 @@ Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: B
 [[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 [[Gabriel Knight 4 - Five Hearts]]
 [[The Beast Within - A Gabriel Knight Mystery]]
+
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+
+[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+
+[[TBD - Gabriel Knight 4 - Five Hearts]]
 ## References
 
 [^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/) — Comprehensive database with credits, ratings, and release info

@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -344,6 +344,24 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[King's Quest VI - Heir Today, Gone Tomorrow]]
 [[King's Quest VII - The Princeless Bride]]
 [[Roberta Williams' King's Quest I - Quest for the Crown]]
+
+[[1984 - King's Quest - Quest for the Crown]]
+
+[[1985 - King's Quest II - Romancing the Throne]]
+
+[[1986 - King's Quest III - To Heir Is Human]]
+
+[[1988 - King's Quest IV - The Perils of Rosella]]
+
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+
+[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+
+[[1994 - King's Quest VII - The Princeless Bride]]
+
+[[1998 - King's Quest - Mask of Eternity]]
+
+[[2015 - King's Quest]]
 ## References
 
 [^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict

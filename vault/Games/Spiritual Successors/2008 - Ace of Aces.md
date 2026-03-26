@@ -17,7 +17,7 @@ tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-ga
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

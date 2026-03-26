@@ -19,7 +19,7 @@ tags: [1980s, adventure, emmanuelle-loosely, sierra]
 ---
 # Emmanuelle: A Game of Eroticism
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

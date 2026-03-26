@@ -13,12 +13,12 @@ series: "Hoyle's Official Book of Games"
 engine: "SCI2.1"
 protagonist: "Player"
 sierra_lineage: "Core Sierra"
-last_updated: "2026-01-22"
+last_updated: "2026-03-11"
 ---
 
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

@@ -22,6 +22,8 @@ tags: [1990s, air-force-commander, impressions, sierra, simulation, strategy]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Air Force Commander is a real-time strategy wargame developed by [[Impressions Games]] and Golden Sector Design, released in 1992 for DOS and Commodore Amiga[^ref-1][^ref-2]. The game places players in command of an entire air force, tasking them with achieving strategic air supremacy across various Middle Eastern conflict scenarios[^ref-3]. Described by contemporary reviewers as "a complex and intriguing simulation," the title was notable for being released in the same year as Dune 2 and predating the original Command & Conquer by three years[^ref-4][^ref-5].
 
 The game features 26 modern Middle East scenarios spread across its campaign, offering players control over a wide variety of aircraft ranging from vintage SU-17 fighter bombers to cutting-edge F-117A Stealth Fighters[^ref-6][^ref-1]. Players must manage resources, bases, pilots, and aircraft while combining resource management with strategic command through an easy point-and-click interface[^ref-6]. The scenarios themselves were detailed and somewhat esoteric, including conflicts such as Bahrain vs. Qatar and UAE vs. Kuwait, reflecting the political realities of the region[^ref-7][^ref-3].

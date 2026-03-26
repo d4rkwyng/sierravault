@@ -17,7 +17,7 @@ tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

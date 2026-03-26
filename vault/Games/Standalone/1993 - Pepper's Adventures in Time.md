@@ -17,7 +17,7 @@ tags: [1990s, educational, 'null', sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

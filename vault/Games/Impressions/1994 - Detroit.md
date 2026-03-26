@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, standalone]
 ---
 # Detroit
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

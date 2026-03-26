@@ -19,7 +19,7 @@ tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -138,6 +138,30 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
 [[Leisure Suit Larry 7 - Love for Sail]]
 [[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+
+[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+
+[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
+
+[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+
+[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+
+[[1996 - Leisure Suit Larry 7 - Love for Sail]]
+
+[[1998 - Leisure Suit Larry's Casino]]
+
+[[2004 - Leisure Suit Larry - Magna Cum Laude]]
+
+[[2009 - Leisure Suit Larry - Box Office Bust]]
+
+[[2013 - Leisure Suit Larry - Reloaded]]
+
+[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Dry+Twice) – - Search results page

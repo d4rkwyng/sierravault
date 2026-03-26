@@ -17,7 +17,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -279,6 +279,14 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [[Police Quest - Open Season]]
 [[Police Quest II - The Vengeance]]
 [[Police Quest III - The Kindred]]
+
+[[1987 - Police Quest - In Pursuit of the Death Angel]]
+
+[[1988 - Police Quest II - The Vengeance]]
+
+[[1991 - Police Quest III - The Kindred]]
+
+[[1993 - Police Quest - Open Season]]
 ## References
 
 [^ref-1]: [MobyGames – Police Quest: In Pursuit of the Death Angel (VGA)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – release info, credits, ratings, Gazette trivia

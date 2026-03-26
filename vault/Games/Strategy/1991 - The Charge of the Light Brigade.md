@@ -17,7 +17,7 @@ tags: [1990s, impressions, micro-miniatures, sierra, strategy]
 ---
 # The Charge of the Light Brigade
 
-<small style="color: gray">Last updated: January 10, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

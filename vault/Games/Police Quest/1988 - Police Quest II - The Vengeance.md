@@ -18,7 +18,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -266,6 +266,14 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: 
 [[Police Quest - Open Season]]
 [[Police Quest II - The Vengeance]]
 [[Police Quest III - The Kindred]]
+
+[[1987 - Police Quest - In Pursuit of the Death Angel]]
+
+[[1991 - Police Quest III - The Kindred]]
+
+[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+
+[[1993 - Police Quest - Open Season]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details

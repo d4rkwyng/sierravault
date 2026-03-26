@@ -18,7 +18,7 @@ tags: [1980s, coktel, e-s-s, sierra, simulation]
 ---
 # E.S.S.: European Space Simulator
 
-<small style="color: gray">Last updated: January 11, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

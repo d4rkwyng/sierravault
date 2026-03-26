@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, al-lowe, 'null', roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

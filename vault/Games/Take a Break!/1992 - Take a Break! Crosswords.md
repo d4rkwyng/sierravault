@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

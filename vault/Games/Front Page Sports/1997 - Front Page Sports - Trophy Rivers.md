@@ -21,6 +21,8 @@ tags: [1990s, educational, front-page-sports, sierra, simulation]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Front Page Sports: Trophy Rivers is a fishing simulation game developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]] in 1997[^ref-1]. Part of Sierra's broader Front Page Sports franchise, the game invited players to "test your skills against giant salmon, trout and steelhead on five of the world's most incredible rivers... without ever leaving your computer"[^ref-2]. As both an educational and sports title, Trophy Rivers distinguished itself by combining realistic angling mechanics with comprehensive instructional content about fly-fishing techniques, equipment, and fish behavior[^ref-3].
 
 The game was designed to appeal specifically to the niche market of fly-fishing enthusiasts who also enjoyed computer gaming[^ref-4]. Unlike the franchise's earlier Trophy Bass titles that focused on bass fishing from an overhead view, Trophy Rivers concentrated on the art of fly-fishing for salmon, steelhead, and trout species across carefully recreated river environments[^ref-4]. Contemporary reviews noted that the game was "occasionally boring, at times just plain annoying, but generally realistic and comprehensive," concluding it was "surely a game that only a fisherman could love"[^ref-4].

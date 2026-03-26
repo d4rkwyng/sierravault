@@ -17,7 +17,7 @@ tags: [adventure, agi, manhunter, sierra]
 ---
 # Manhunter 3: London
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

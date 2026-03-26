@@ -17,7 +17,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # Stunt Flyer
 
-<small style="color: gray">Last updated: January 17, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 
 ## See Also

@@ -17,7 +17,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -164,6 +164,14 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [[Police Quest - Open Season]]
 [[Police Quest II - The Vengeance]]
 [[Police Quest III - The Kindred]]
+
+[[1987 - Police Quest - In Pursuit of the Death Angel]]
+
+[[1988 - Police Quest II - The Vengeance]]
+
+[[1991 - Police Quest III - The Kindred]]
+
+[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 ## References
 
 [^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments

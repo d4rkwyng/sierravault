@@ -21,6 +21,8 @@ tags: [2000s, shooter, sierra, thexder]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter originally developed by Game Arts[^ref-1]. The game features a transforming robot protagonist that can switch between mech and jet fighter modes, navigating through maze-like levels while battling enemy robots[^ref-2]. Originally created as the first title ever released by Game Arts in 1985, the Thexder series was brought to Western audiences through Sierra On-Line's publishing deal with Ken Williams, who purchased the rights from Game Arts for US distribution in the mid-1980s[^ref-3][^ref-4].
 
 This modern revival represents Square Enix's attempt to revitalize the classic franchise with updated graphics, new gameplay modes, and contemporary features while maintaining the punishing difficulty that defined the original[^ref-5]. As one observer noted, "Now, remakes of 15-year-old games are Square-Enix's bread and butter"[^ref-6], and Thexder Neo fits squarely within their strategy of reviving dormant properties.

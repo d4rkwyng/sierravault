@@ -18,7 +18,7 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -204,6 +204,14 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 [[Gabriel Knight 4 - Five Hearts]]
 [[The Beast Within - A Gabriel Knight Mystery]]
+
+[[1993 - Gabriel Knight - Sins of the Fathers]]
+
+[[1995 - The Beast Within - A Gabriel Knight Mystery]]
+
+[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+
+[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation

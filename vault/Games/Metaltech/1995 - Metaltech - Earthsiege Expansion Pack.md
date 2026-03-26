@@ -22,6 +22,8 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 8, 2026</small>
+
 The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and released in 1995.[^ref-1][^ref-24] The expansion continued the desperate struggle between humanity and the sentient Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] Providing additional campaigns, missions, environments, mechs, and weapons, the expansion significantly extended the content available to players who had completed the original game.[^ref-3][^ref-24]
 
 Set in the 25th or 26th century, the expansion maintains the game's core premise of piloting HERCs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) against relentless automated Cybrid enemies.[^ref-3][^ref-10] According to the game's narrative setup, "The attack on Earth by the Cybrids has been repelled and humanity is starting to rebuild. But a second wave is already incoming, and the battle starts again."[^ref-1] This premise established the expansion as both a continuation of the story and a reason for renewed conflict.

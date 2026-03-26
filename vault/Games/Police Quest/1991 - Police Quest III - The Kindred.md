@@ -19,7 +19,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: February 12, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 
@@ -270,6 +270,14 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [[Police Quest - Open Season]]
 [[Police Quest II - The Vengeance]]
 [[Police Quest III - The Kindred]]
+
+[[1987 - Police Quest - In Pursuit of the Death Angel]]
+
+[[1988 - Police Quest II - The Vengeance]]
+
+[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+
+[[1993 - Police Quest - Open Season]]
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation

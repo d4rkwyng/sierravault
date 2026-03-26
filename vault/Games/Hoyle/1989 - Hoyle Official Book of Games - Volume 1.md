@@ -19,7 +19,7 @@ tags: [1980s, hoyle, sci, sierra]
 ---
 # Hoyle Official Book of Games: Volume 1
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

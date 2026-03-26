@@ -17,7 +17,7 @@ tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: March 11, 2026</small>
 
 ## Overview
 

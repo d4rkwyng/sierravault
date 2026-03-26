@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Baseball Pro '96 Season
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

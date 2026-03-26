@@ -17,7 +17,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: January 22, 2026</small>
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
 

@@ -18,7 +18,7 @@ tags: [1990s, sierra, trophy-bass]
 ---
 # Sierra Sports Bass Fishing
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: March 8, 2026</small>
 
 ## Overview
 

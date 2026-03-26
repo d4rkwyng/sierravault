@@ -21,6 +21,8 @@ tags: [1990s, hoyle-casino, sierra]
 
 ## Overview
 
+<small style="color: gray">Last updated: March 19, 2026</small>
+
 **Hoyle Casino: Poker**, released in 1997, represents Sierra's first dedicated foray into the world of poker gaming.[^ref-1] Set in a virtual Las Vegas casino environment, players create profiles and are given a set amount of virtual money to gamble with across various poker variants.[^ref-2] The game launched as part of Sierra's broader Hoyle franchise, which licensed the famous Hoyle brand name from the traditional card game rule book series.[^ref-3]
 
 Sierra has created what reviewer Walter Morbeck described as "an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game offers all the excitement of a real poker game mixed with Sierra's unique brand of humor, featuring spirited stereotypical characters, each with their own corny jokes, egos, and distinctive playing styles.[^ref-1][^ref-5] The game's tagline promoted bluffing and attitude, encouraging players to read their opponents and exploit their weaknesses at the virtual poker table.
