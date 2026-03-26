@@ -18,7 +18,7 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 ---
 # Hero-U: Rogue to Redemption
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -85,6 +85,11 @@ Simply put, there's nothing on the market quite like Hero-U[^ref-7]. As one revi
 > **Series:** Hero-U
 > **Protagonist:** Shawn O'Conner
 > **Sierra Lineage:** Post-Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

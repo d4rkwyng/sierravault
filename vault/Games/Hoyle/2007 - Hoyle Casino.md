@@ -17,7 +17,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2007
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1]
 > **Release Year:** 2006
 > **Series:** Hoyle Casino
 > **Sierra Lineage:** Acquired/Licensed (Encore acquired from Sierra)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

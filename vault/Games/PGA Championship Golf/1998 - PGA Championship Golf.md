@@ -17,7 +17,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ PGA Championship Golf 2000 shipped with 13 golf courses—eight returning from t
 > **Series:** PGA Championship Golf
 > **Protagonist:** Player-created golfer
 > **Sierra Lineage:** Sierra Sports
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

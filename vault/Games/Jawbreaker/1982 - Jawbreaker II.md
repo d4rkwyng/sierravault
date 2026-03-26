@@ -17,7 +17,7 @@ tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was released across multiple platforms including Apple II, Atari 8-bit 
 > **Release Year:** 1982
 > **Series:** Jawbreaker
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

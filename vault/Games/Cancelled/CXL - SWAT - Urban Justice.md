@@ -17,7 +17,7 @@ tags: [shooter, sierra, swat]
 ---
 # SWAT: Urban Justice
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The cancellation of Urban Justice led directly to the development of SWAT 4 by I
 > **Series:** SWAT
 > **Protagonist:** SWAT Officer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

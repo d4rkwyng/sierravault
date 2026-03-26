@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra, strategy]
 ---
 # Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The title has achieved a modest cult following among Sierra collectors and retro
 > **Series:** Crazy Nick's Software Picks[^ref-7]
 > **Protagonist:** Robin Hood[^ref-1]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

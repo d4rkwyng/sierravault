@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ As part of the Playtoons series, the game was designed with an innovative cross-
 > **Series:** Playtoons
 > **Protagonist:** Spirou and Fantasio
 > **Sierra Lineage:** Sierra Subsidiary
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

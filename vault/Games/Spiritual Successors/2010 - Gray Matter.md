@@ -18,7 +18,7 @@ tags: [2010s, adventure, jane-jensen, 'null', sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Adventure Classic Gaming called it "a game that can easily measure up against th
 > **Release Year:** 2010
 > **Series:** Standalone
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

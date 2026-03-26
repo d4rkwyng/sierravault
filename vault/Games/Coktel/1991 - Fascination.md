@@ -19,7 +19,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Contemporary reception was mixed, with French publications rating the PC version
 > **Series:** Standalone (Doralice appears in Lost in Time)
 > **Protagonist:** Doralice May
 > **Sierra Lineage:** Sierra-Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

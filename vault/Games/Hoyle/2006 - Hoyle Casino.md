@@ -18,7 +18,7 @@ tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2006
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ User reception for Hoyle Casino 2006 was notably positive, with one GameSpot use
 > **Series:** Hoyle Casino
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Extended Sierra Family
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

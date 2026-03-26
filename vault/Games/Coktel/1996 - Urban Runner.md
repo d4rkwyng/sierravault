@@ -17,7 +17,7 @@ tags: [1990s, adventure, coktel, lost-in-spiritual, sierra]
 ---
 # Urban Runner
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite its ambitious scope, Urban Runner received mixed reviews and sold poorly
 > **Series:** Lost in... (spiritual sequel)
 > **Protagonist:** Max Gardner
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

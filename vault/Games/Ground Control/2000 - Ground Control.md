@@ -19,7 +19,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game received widespread critical acclaim upon release, earning a Metacritic
 > **Series:** Ground Control
 > **Protagonist:** Major Sarah Parker / Deacon Jarrod Stone
 > **Sierra Lineage:** Vivendi Era
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

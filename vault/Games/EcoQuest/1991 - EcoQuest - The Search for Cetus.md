@@ -17,7 +17,7 @@ tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
 ---
 # EcoQuest: The Search for Cetus
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Part of Sierra's Discovery Series of educational titles, EcoQuest represented th
 > **Release Year:** 1991
 > **Series:** EcoQuest
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

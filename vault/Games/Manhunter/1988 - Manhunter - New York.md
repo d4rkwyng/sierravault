@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter: New York
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game represents a significant departure from Sierra's typical family-oriente
 > **Release Year:** 1988
 > **Series:** Manhunter
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

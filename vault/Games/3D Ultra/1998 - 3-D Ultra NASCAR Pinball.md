@@ -18,7 +18,7 @@ tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra NASCAR Pinball
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The title features four professional NASCAR drivers—Dale Earnhardt, Bill Ellio
 > **Release Year:** 1998
 > **Series:** 3-D Ultra Pinball (fourth entry)
 > **Sierra Lineage:** Sierra Affiliate (Dynamix)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

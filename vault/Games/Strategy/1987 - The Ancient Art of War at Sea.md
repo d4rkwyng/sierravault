@@ -17,7 +17,7 @@ tags: [1980s, sierra, strategy, the-ancient-art-of-war]
 ---
 # The Ancient Art of War at Sea
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ What set The Ancient Art of War at Sea apart from contemporary strategy games wa
 > **Series:** The Ancient Art of War
 > **Protagonist:** Fleet Commander (Player)
 > **Sierra Lineage:** Affiliated (Evryware later worked with Sierra)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

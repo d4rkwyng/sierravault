@@ -17,7 +17,7 @@ tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -58,6 +58,11 @@ Despite never reaching full production, Leisure Suit Larry 8 holds a unique plac
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

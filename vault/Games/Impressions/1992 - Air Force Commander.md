@@ -18,7 +18,7 @@ tags: [1990s, air-force-commander, impressions, sierra, simulation, strategy]
 ---
  Air Force Commander
 
-<small style="color: gray">Last updated: January 20, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -40,6 +40,11 @@ Impressions Games, founded in 1989 with a focus on strategy and business simulat
 > **Release Year:** 1992
 > **Series:** Air Force Commander
 > **Sierra Lineage:** Acquired Studio (Impressions acquired by Sierra 1995)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1980s, rpg, sierra, standalone]
 ---
 # Wrath of Denethenor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ The game was notably priced at $24.95 at the designer's specific request, with C
 > **Series:** Standalone
 > **Protagonist:** Unnamed adventurer
 > **Sierra Lineage:** Third-Party Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

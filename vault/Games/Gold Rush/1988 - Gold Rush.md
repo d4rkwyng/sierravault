@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, 'null', sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ One of Sierra's best but least-known games, Gold Rush! is exceptional not only f
 > **Release Year:** 1988
 > **Series:** Standalone
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

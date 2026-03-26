@@ -17,7 +17,7 @@ tags: [1990s, rpg, sierra, the-sierra-network-mud-trilogy]
 ---
 # The Ruins of Cawdor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game was designed primarily as a multiplayer experience, supporting up to 60
 > **Series:** The Sierra Network MUD Trilogy
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

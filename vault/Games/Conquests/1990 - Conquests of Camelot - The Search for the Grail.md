@@ -19,7 +19,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of Camelot: The Search for the Grail
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game distinguished itself from other adventure titles of its era through its
 > **Series:** Conquests
 > **Protagonist:** King Arthur
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

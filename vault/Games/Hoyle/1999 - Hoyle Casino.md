@@ -17,7 +17,7 @@ tags: [1990s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 1999
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was distributed as part of Sierra's expanding casual entertainment line
 > **Series:** Hoyle Casino
 > **ESRB Rating:** Everyone[^ref-2]
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

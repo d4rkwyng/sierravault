@@ -17,7 +17,7 @@ tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game focuses on the happiness and survival of the colonists - the last remai
 > **Release Year:** 1997
 > **Series:** Outpost
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2005
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The collection features 18 board games including Backgammon, Checkers, Chess, Ch
 > **Series:** Hoyle
 > **Protagonist:** N/A (Player avatar customizable)
 > **Sierra Lineage:** Encore Era
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

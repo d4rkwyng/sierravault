@@ -17,7 +17,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Ultimate Soccer Manager 2 was "a massive hit in Europe" according to contemporar
 > **Release Year:** 1996
 > **Series:** Ultimate Soccer Manager
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

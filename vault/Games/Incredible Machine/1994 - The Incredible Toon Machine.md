@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Toon Machine
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ What distinguished The Incredible Toon Machine from its more realistic counterpa
 > **Series:** The Incredible Machine
 > **Protagonist:** Sid E. Mouse, Al E. Cat
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

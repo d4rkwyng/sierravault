@@ -17,7 +17,7 @@ tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Released simultaneously for IBM PC and Macintosh platforms via CD-ROM, Hoyle Puz
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 > **ESRB Rating:** E for Everyone[^ref-1]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

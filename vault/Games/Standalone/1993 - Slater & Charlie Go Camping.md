@@ -17,7 +17,7 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -86,6 +86,11 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 Slater & Charlie Go Camping is an educational interactive storybook released by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms[^ref-1][^ref-2]. The game features Slater the Petrosaur, the protagonist from Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-3]. Together, these dinosaur characters embark on a camping adventure designed to teach children about outdoor safety and nature through interactive storytelling[^ref-2].
 
 Developed using Sierra's Creative Interpreter (SCI) engine[^ref-4], this educational title was part of Sierra's broader push into the children's software market in the early 1990s. The game was designed to compete with Brøderbund's popular Living Books series[^ref-5] and represents Sierra's first release from their Red Dog division[^ref-5]. Contemporary reviewers described it as "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-1], though noted it was "not quite as richly animated as the Living Books"[^ref-1].
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, adventure, lighthouse, sci, sierra]
 ---
 # Lighthouse: The Dark Being
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Lighthouses seem to invoke a kind of mystery that few things do[^ref-collection]
 > **Release Year:** 1996
 > **Series:** Lighthouse
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

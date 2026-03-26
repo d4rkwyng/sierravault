@@ -18,7 +18,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Don't Dry
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game received a mixed but generally positive reception, earning a Metacritic
 > **Release Year:** 2018
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

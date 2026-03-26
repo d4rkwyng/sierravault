@@ -17,7 +17,7 @@ tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 ---
 # Bolt Riley: A Reggae Adventure
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game features hand-drawn 2D background artwork and hand-drawn cel animation,
 > **Release Year:** 2018 (Chapter 1)
 > **Protagonist:** Bolt Riley
 > **Sierra Lineage:** Alumni Project
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

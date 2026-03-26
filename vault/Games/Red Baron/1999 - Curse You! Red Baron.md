@@ -17,7 +17,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Curse You! Red Baron
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite its pedigree as part of an established flight simulation franchise, Curs
 > **Series:** Red Baron
 > **Protagonist:** Player-customizable WWI pilot
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

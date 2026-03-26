@@ -18,7 +18,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 2: Solitaire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The title was released across multiple platforms including DOS, Amiga, Atari ST,
 > **Series:** Hoyle Official Book of Games
 > **Protagonist:** N/A (Solitaire games)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

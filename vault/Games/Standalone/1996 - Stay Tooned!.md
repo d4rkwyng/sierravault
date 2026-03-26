@@ -17,7 +17,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Stay Tooned! was developed using Macromedia Director, with backgrounds and chara
 > **Series:** Standalone
 > **Protagonist:** The Player
 > **Sierra Lineage:** Published by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

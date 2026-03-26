@@ -18,7 +18,7 @@ tags: [2000s, ground-control, sierra]
 ---
 # Ground Control: Dark Conspiracy
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The expansion featured 15 new single-player missions spread across new environme
 > **Series:** Ground Control
 > **Protagonist:** Major Sarah Parker
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

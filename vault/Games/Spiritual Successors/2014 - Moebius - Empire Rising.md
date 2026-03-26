@@ -17,7 +17,7 @@ tags: [2010s, adventure, jane-jensen, moebius, sierra]
 ---
 # Moebius: Empire Rising
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Described as "a contemporary adventure that merges classic point-and-click puzzl
 > **Release Year:** 2014
 > **Series:** Moebius
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

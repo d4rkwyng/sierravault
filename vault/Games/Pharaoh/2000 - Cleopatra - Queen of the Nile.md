@@ -17,7 +17,7 @@ tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ GameSpot called it "a rare thing to find an expansion worthy of the original"[^r
 > **Release Year:** 2000
 > **Series:** Pharaoh
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

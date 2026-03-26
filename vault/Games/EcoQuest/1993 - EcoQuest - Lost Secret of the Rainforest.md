@@ -18,7 +18,7 @@ tags: [1990s, ecoquest, educational, sci, sierra]
 ---
 # EcoQuest 2: Lost Secret of the Rainforest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Unlike its predecessor, which was co-designed by [[Jane Jensen]], *Lost Secret o
 > **Series:** EcoQuest / Sierra Discovery Series[^ref-7]
 > **Protagonist:** Adam Greene
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

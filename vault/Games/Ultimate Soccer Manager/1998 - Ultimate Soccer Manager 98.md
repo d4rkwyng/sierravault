@@ -18,7 +18,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The series evolved significantly over its five-year run from 1995 to 1999, expan
 > **Release Year:** 1995
 > **Series:** Ultimate Soccer Manager
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -133,6 +138,10 @@ Despite plans for Ultimate Soccer Manager 2000 with an advanced 3D match engine,
 
 The series maintains an active community of enthusiasts who continue to create tools, patches, and updates for modern systems[^ref-47]. Projects like the USM 9899 Tweaker demonstrate ongoing interest in preserving and extending the games' functionality[^ref-32]. The games' availability on preservation sites like MyAbandonware and Internet Archive ensures continued access for new players and nostalgic fans[^ref-48].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

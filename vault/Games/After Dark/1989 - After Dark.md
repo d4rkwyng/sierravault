@@ -19,7 +19,7 @@ tags: [1980s, after-dark, puzzle, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Berkeley Systems maintained a philosophy of remaining "aggressively stupid"[^ref
 > **Release Year:** 1989
 > **Series:** After Dark
 > **Sierra Lineage:** Acquired Property
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

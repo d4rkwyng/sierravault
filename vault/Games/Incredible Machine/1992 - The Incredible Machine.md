@@ -17,7 +17,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Computer Gaming World called it "fresh in concept and long on gameplay"[^ref-1],
 > **Release Year:** 1992
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

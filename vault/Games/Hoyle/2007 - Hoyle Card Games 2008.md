@@ -17,7 +17,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2008
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the serie
 > **Series:** Hoyle
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Post-Sierra Era (Encore)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

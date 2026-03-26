@@ -18,7 +18,7 @@ tags: [1970s, galactic-saga, sierra, strategy]
 ---
 # Galactic Empire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game served as the foundation for what would become the Galactic Saga series
 > **Series:** Galactic Saga
 > **Protagonist:** Emperor Tawala
 > **Sierra Lineage:** Related Publisher
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

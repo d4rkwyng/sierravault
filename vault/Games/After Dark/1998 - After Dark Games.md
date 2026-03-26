@@ -17,7 +17,7 @@ tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game compilation emerged during Sierra's exploration of casual gaming market
 > **Release Year:** 1998[^ref-1]
 > **Series:** After Dark
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

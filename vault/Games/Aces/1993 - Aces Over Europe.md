@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Aces Over Europe
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game was praised by contemporary reviewers as "a solid flight simulator" tha
 > **Release Year:** 1993
 > **Series:** Aces
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -94,6 +99,10 @@ Aces Over Europe featured several technical improvements over its predecessor, i
 
 The game has been discussed in community forums[^ref-28] and manual preservation efforts continue through Sierra Help[^ref-29].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]

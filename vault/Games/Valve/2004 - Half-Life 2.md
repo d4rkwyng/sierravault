@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Half-Life 2's release marked a pivotal moment in PC gaming history as it was the
 > **Series:** Half-Life
 > **Protagonist:** Gordon Freeman
 > **Sierra Lineage:** Sierra Published (Original Half-Life)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

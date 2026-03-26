@@ -18,7 +18,7 @@ tags: [2000s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Casino 2004
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mix
 > **Release Year:** 2003
 > **Series:** Hoyle's Official Book of Games
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

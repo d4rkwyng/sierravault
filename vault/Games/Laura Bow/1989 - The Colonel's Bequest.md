@@ -18,7 +18,7 @@ tags: [1980s, adventure, laura-bow, roberta-williams, sci, sierra]
 ---
 # The Colonel's Bequest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was groundbreaking for its real-time progression system, where events o
 > **Series:** Laura Bow
 > **Sierra Lineage:** Core Sierra
 > **Engine:** SCI (Sierra Creative Interpreter)[^ref-8]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -132,6 +137,10 @@ The franchise has experienced renewed interest in recent years, with independent
 
 Fan communities continue to create content inspired by The Colonel's Bequest, including HD graphics patches and technical modifications[^ref-52]. Speedrunning communities maintain active leaderboards for optimal completion routes[^ref-53], while preservation efforts ensure the game remains accessible through modern platforms[^ref-12]. The game's influence on interactive storytelling continues to be recognized by modern developers creating similar atmospheric mystery games[^ref-54].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 - **Series:** [[Laura Bow Series]] 

@@ -17,7 +17,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # High Seas Trader
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game breaks away from traditional strategy gaming with its unique first-pers
 > **Release Year:** 1995
 > **Series:** null
 > **Sierra Lineage:** Acquired Studio
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

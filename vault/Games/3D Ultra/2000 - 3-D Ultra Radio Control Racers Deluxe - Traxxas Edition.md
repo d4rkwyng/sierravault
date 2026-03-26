@@ -18,7 +18,7 @@ tags: [2000s, 3-d-ultra, racing, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Part of the 3-D Ultra series influx during the final year of the millennium, alo
 > **Series:** 3-D Ultra Series[^ref-9]
 > **Protagonist:** N/A (Player-controlled RC vehicles)
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

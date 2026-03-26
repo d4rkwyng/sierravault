@@ -17,7 +17,7 @@ tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
  Front Page Sports: Trophy Rivers
 
-<small style="color: gray">Last updated: January 16, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Trophy Rivers featured multiple gameplay modes including single-player fishing t
 > **Series:** Front Page Sports
 > **Protagonist:** Player-controlled angler
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

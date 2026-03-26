@@ -17,7 +17,7 @@ tags: [2000s, adventure, al-lowe, leisure-suit-larry, sierra, two-guys]
 ---
 # Leisure Suit Larry: Box Office Bust
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game was originally developed by Team17 Software Limited[^ref-48] and publis
 > **Release Year:** 2009
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Post-Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

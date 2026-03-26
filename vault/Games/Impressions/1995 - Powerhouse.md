@@ -17,7 +17,7 @@ tags: [1990s, impressions, sierra, simulation, standalone]
 ---
 # PowerHouse
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Following the success of Detroit, Impressions turned its attention to simulating
 > **Series:** None
 > **Protagonist:** Player as Powerhouse CEO
 > **Sierra Lineage:** Sierra Family (Impressions Games)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

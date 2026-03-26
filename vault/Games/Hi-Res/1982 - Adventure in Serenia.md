@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Adventure in Serenia
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game tells the fairy tale story of a brave wanderer who must rescue Princess
 > **Release Year:** 1980
 > **Series:** Hi-Res Adventure
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

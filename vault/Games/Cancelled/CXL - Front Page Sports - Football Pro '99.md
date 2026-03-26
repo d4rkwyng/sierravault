@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 99
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -56,6 +56,11 @@ On January 20, 1999, Sierra made the unprecedented decision to recall the game e
 > **Release Year:** 1998
 > **Series:** Front Page Sports
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

@@ -19,7 +19,7 @@ tags: [1990s, 3d-ultra, puzzle, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game received recognition from the Academy of Interactive Arts and Sciences,
 > **Series:** 3D Ultra
 > **Protagonist:** N/A (Player-controlled trains)
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -19,7 +19,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # No One Lives Forever 2: A Spy in H.A.R.M.'s Way
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Set against the backdrop of escalating Cold War tensions between the United Stat
 > **Series:** No One Lives Forever
 > **Protagonist:** Cate Archer
 > **Sierra Lineage:** Sierra Entertainment
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

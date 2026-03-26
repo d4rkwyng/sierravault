@@ -19,7 +19,7 @@ tags: [2010s, sierra, spaceventure, two-guys]
 ---
  Cluck Yegger in Escape from the Planet of the Poultroid
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -41,6 +41,11 @@ Despite its origins as a small side project, *Cluck Yegger* developed its own fo
 > **Series:** SpaceVenture
 > **Protagonist:** Cluck Yegger
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, dynamix, metaltech, sierra, simulation]
 ---
 # Metaltech: Battledrome
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Featuring Dynamix's proprietary 3Space animation engine, the game offered fully 
 > **Series:** Metaltech
 > **Protagonist:** Player-created HERC pilot
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

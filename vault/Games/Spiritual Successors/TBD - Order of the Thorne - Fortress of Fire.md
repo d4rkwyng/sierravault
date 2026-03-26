@@ -17,7 +17,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: Fortress of Fire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -84,6 +84,11 @@ Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built thei
 > **Series:** Order of the Thorne
 > **Protagonist:** Patrick (Addy)[^ref-4]
 > **Sierra Lineage:** Fan-Made Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

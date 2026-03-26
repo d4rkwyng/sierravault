@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory III: Wages of War
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2]. Designed by [[Corey Cole]] and [[Lori Ann Cole]], it is the third entry in the Quest for Glory series and the sequel to Quest for Glory II: Trial by Fire[^ref-1]. The game was the first in the series to use VGA graphics and a point-and-click interface, abandoning the text parser of previous entries[^ref-1][^ref-3]. Set in Fricana, a land inspired by central African ecosystems, the game explores themes of tribal conflict and features Liontaurs, half-human half-lion creatures[^ref-1]. According to Corey Cole, the game was developed with a budget of $750,000[^ref-1]. Lori Cole was responsible for "90% of the design work" while also supervising the VGA remake of Quest for Glory I[^ref-1].
@@ -38,6 +38,11 @@ Quest for Glory III: Wages of War is a 1992 hybrid adventure/role-playing game d
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 Rakeesh the Paladin brings the Hero (now Prince of Shapeir) along with Uhura and her son Simba to his homeland, the town of Tarna in Fricana, a jungle and savannah country inspired by central African ecosystems[^ref-1][^ref-3]. Fricana is home to Liontaurs, half-human half-lion creatures[^ref-1]. The Liontaur city of Tarna is on the brink of war; the Simbani, the tribe of Uhura, are ready to do battle with the Leopardmen[^ref-1].

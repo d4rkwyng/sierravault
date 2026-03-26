@@ -17,7 +17,7 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi Res Soccer
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game later received a more sophisticated incarnation in 1994 as "Sierra Socc
 > **Release Year:** 1980
 > **Series:** Hi-Res Sports
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

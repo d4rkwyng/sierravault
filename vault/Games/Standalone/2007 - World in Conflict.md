@@ -17,7 +17,7 @@ tags: [2000s, sierra, world-in-conflict]
 ---
 # World in Conflict
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game's single-player campaign was crafted by best-selling author and Cold Wa
 > **Series:** World in Conflict
 > **Protagonist:** Lieutenant Parker
 > **Sierra Lineage:** Late Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

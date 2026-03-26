@@ -16,7 +16,7 @@ tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes
 > **Release Date:** March 12, 2024 (Early Access)[^ref-2]
 > **Series:** Tribes (Starsiege)
 > **Sierra Lineage:** Spiritual Successor (Dynamix IP)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Development
 

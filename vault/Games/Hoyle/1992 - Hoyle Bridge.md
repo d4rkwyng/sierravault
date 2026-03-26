@@ -18,7 +18,7 @@ last_updated: "2026-03-11"
 
 # Hoyle Bridge
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Hoyle Bridge featured 11 animated opponents with distinct personalities and skil
 > **Series:** Hoyle's Official Book of Games
 > **Protagonist:** Player
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

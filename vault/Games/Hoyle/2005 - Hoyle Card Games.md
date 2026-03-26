@@ -18,7 +18,7 @@ tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2005
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite Sierra's corporate restructuring during this period, which would eventua
 > **Series:** Hoyle Card Games
 > **Protagonist:** Player-created avatar
 > **Sierra Lineage:** Sierra Legacy
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

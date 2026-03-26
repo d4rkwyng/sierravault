@@ -17,7 +17,7 @@ tags: [1990s, dr-brain, educational, sierra]
 ---
 # The Time Warp of Dr. Brain
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ As described by Sierra's original marketing materials, "Dr. Brain is trapped in 
 > **Release Year:** 1996
 > **Series:** Dr. Brain
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -129,6 +134,10 @@ The game's educational approach, incorporating "Gardner's theory of multiple int
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

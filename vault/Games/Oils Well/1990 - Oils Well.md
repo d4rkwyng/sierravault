@@ -19,7 +19,7 @@ tags: [1990s, oil-s-well, sierra]
 ---
 # Oil's Well (1990)
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ While the original 1983 version became a solid commercial hit and won Computer G
 > **Series:** Oil's Well
 > **Protagonist:** Slater the Petrosaur
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

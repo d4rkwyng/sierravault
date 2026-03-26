@@ -17,7 +17,7 @@ tags: [1980s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Alphabet Blocks distinguished itself in the crowded early 1990s educational soft
 > **Series:** Sierra Discovery Series, Bananas & Jack series, Talking Tutor series[^ref-5]
 > **Protagonist:** Bananas (monkey) and Jack (jack-in-the-box) as teaching coaches
 > **Sierra Lineage:** Sierra Subsidiary (Bright Star Technology)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

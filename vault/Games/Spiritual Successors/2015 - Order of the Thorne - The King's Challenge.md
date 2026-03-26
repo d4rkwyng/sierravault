@@ -18,7 +18,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Adventure Gamers praised the nostalgic design, with one reviewer noting "This fe
 > **Release Year:** 2015
 > **Series:** Order of the Thorne
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

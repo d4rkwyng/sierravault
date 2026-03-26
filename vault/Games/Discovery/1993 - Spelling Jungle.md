@@ -18,7 +18,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 ---
 # Spelling Jungle
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game underwent several name changes throughout its history, originally being
 > **Series:** Spelling Tricks (Sierra Discovery Series)
 > **Protagonist:** Player Character (guided by Yobi)
 > **Sierra Lineage:** Sierra Discovery Series
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

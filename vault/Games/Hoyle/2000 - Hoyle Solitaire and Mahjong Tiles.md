@@ -17,7 +17,7 @@ tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Solitaire And Mahjong Tiles 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The Mahjong component of the game features traditional rules along with variant 
 > **Series:** Hoyle Series[^ref-5]
 > **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

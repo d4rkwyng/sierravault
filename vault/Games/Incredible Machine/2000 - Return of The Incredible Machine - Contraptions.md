@@ -17,7 +17,7 @@ tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game features over 250 puzzles alongside a freeform invention mode, allowing
 > **Release Year:** 2000
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

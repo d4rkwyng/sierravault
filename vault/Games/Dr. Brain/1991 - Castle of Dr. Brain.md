@@ -17,7 +17,7 @@ tags: [1990s, coles, dr-brain, educational, sci, sierra]
 ---
 # Castle of Dr. Brain
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Unlike Sierra's traditional adventure games, Castle of Dr. Brain adopted a first
 > **Series:** Dr. Brain
 > **Protagonist:** Unnamed Player Character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

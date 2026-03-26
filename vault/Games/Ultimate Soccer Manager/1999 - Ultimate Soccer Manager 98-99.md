@@ -18,7 +18,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 98-99
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ With data covering seven of the biggest European leagues, over 400 clubs, and ap
 > **Series:** Ultimate Soccer Manager
 > **Protagonist:** Player-created Manager
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

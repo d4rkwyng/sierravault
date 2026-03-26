@@ -19,7 +19,7 @@ last_updated: "2026-03-11"
 
 # Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ As part of Sierra's broader strategy to diversify beyond adventure games, Hoyle 
 > **Series:** Hoyle's Official Book of Games
 > **Protagonist:** N/A (Single Player)
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

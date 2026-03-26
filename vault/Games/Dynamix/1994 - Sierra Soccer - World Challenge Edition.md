@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -42,6 +42,11 @@ Notably, *Sierra Soccer: World Challenge Edition* marked Sierra On-Line's final 
 > **Languages:** English, German, French[^ref-6]
 > **Price:** £25.99 (UK release)[^ref-8]
 > **Sierra Lineage:** Sierra Label (Dynamix subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

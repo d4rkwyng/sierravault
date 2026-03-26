@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry: Love for Sail!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Set aboard the cruise ship PMS Bouncy, the game follows the perpetually unlucky 
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

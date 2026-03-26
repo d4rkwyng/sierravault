@@ -18,7 +18,7 @@ tags: [1990s, 3-d-ultra, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Cool Pool
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Cool Pool attempted to recreate the realities of billiards as faithfully as poss
 > **Series:** 3-D Ultra
 > **Protagonist:** N/A (Player-controlled)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

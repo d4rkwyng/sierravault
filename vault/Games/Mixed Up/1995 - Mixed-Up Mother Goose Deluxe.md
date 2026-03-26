@@ -17,7 +17,7 @@ tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Mixed-Up Mother Goose was originally introduced by Roberta Williams in 1987 and 
 > **Release Year:** 1995
 > **Series:** Mixed-Up Mother Goose
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

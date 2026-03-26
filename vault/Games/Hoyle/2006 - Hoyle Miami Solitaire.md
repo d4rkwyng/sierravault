@@ -18,7 +18,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ As part of the broader Hoyle franchise—a name traditionally associated with Si
 > **Release Year:** 2006
 > **Series:** Hoyle
 > **Sierra Lineage:** Licensed/Successor (Hoyle brand)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

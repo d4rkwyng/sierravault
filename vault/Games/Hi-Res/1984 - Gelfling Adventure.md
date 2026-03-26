@@ -17,7 +17,7 @@ tags: [1980s, adventure, al-lowe, hi-res-adventures, sierra]
 ---
 # Gelfling Adventure
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Gelfling Adventure is considered extremely rare today, with very few copies know
 > **Series:** Hi-Res Adventures (companion to #6)[^ref-6]
 > **Protagonist:** Jen the Gelfling[^ref-6]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

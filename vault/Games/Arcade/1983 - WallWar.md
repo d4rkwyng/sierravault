@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite its technical achievements, Wallwar failed to achieve commercial success
 > **Series:** Standalone
 > **Protagonist:** Player-controlled paddle
 > **Sierra Lineage:** SierraVision[^ref-3]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

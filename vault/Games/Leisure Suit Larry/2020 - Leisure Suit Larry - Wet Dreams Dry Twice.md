@@ -19,7 +19,7 @@ tags: [2020s, adventure, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry: Wet Dreams Dry Twice
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game initially launched for PC on October 23, 2020, after being delayed from
 > **Release Year:** 2020
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Revival
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

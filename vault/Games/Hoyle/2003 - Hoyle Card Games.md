@@ -17,7 +17,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Card Games 2003
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Hoyle Card Games 2003 represented one of Sierra Entertainment's final entries in
 > **Series:** Hoyle
 > **ESRB Rating:** E for Everyone[^ref-8]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Game Content
 

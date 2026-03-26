@@ -17,7 +17,7 @@ tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game features the HOYLE Face Creator system, allowing players to design thei
 > **Series:** Hoyle
 > **Protagonist:** Player Avatar
 > **Sierra Lineage:** Post-Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Games Included
 

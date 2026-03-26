@@ -17,7 +17,7 @@ tags: [1990s, adventure, al-lowe, 'null', sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Set in a fantasy world of nested planets called Strata, the game follows young T
 > **Release Year:** 1995
 > **Series:** null
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

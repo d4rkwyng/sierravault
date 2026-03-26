@@ -17,7 +17,7 @@ tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The cancellation of the Kickstarter campaign and subsequent attempts to fund the
 > **Series:** Police Quest (Spiritual Successor)
 > **Protagonist:** Maxwell Jones
 > **Sierra Lineage:** Sierra Alumni
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

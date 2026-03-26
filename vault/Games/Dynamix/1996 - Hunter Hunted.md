@@ -17,7 +17,7 @@ tags: [1990s, dynamix, k-a-a-kill-all-aliens, sierra]
 ---
 # Hunter Hunted
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Hunter Hunted was part of Sierra's broader strategy during the mid-1990s to expa
 > **Series:** K.A.A. / Earthsiege Universe
 > **Protagonist:** Jake (Human) / Garathe Den (Beast)
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

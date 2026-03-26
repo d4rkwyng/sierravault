@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football Pro '95
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Front Page Sports: Football Pro '95 established itself as a landmark title that 
 > **Series:** Front Page Sports
 > **Protagonist:** N/A (Team Management)
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

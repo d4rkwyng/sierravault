@@ -18,7 +18,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Craftsman Truck Series Racing
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game featured authentic trucks, tracks, and drivers from the 1999 NASCAR Cra
 > **Series:** NASCAR Racing
 > **Protagonist:** N/A (player-created driver)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -179,6 +184,10 @@ The game has been preserved through abandonware archives and the Internet Archiv
 - Not currently available on GOG or Steam
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/nascar-craftsman-truck-series-racing)
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

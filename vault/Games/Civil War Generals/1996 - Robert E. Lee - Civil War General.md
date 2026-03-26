@@ -17,7 +17,7 @@ tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game was conceived with the philosophy to "create a product that Civil War e
 > **Release Year:** 1996
 > **Series:** Civil War Generals
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -105,6 +110,10 @@ Robert E. Lee: Civil War General established a successful franchise for Sierra, 
 
 The game's educational value has ensured its lasting relevance, with players continuing to praise it as "a valuable teaching tool, and full of history"[^ref-34]. Its influence can be seen in later Civil War strategy games that adopted similar approaches to balancing historical accuracy with gameplay accessibility. The game also contributed to the broader trend of incorporating multimedia elements into strategy games, setting standards that would influence the genre for years to come.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

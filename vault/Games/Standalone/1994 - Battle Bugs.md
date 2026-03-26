@@ -17,7 +17,7 @@ tags: [1990s, sierra, standalone]
 ---
 # Battle Bugs
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Following its initial DOS release, Battle Bugs was later ported to the PlayStati
 > **Series:** Standalone
 > **Protagonist:** Player as Bug General
 > **Sierra Lineage:** Sierra Published (Epyx Developed)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

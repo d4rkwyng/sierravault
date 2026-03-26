@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game achieved significant commercial success, selling over 2.5 million copie
 > **Series:** Lords of the Realm
 > **Protagonist:** Player-controlled Lord
 > **Sierra Lineage:** Impressions Games
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -101,6 +101,11 @@ While best known for adventure games like Space Quest and King's Quest, Sierra d
 > **Series:** Standalone
 > **Protagonist:** Apache Pilot
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games 2001
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Sierra enhanced the classic word game experience with graphics and sound effects
 > **Series:** Hoyle
 > **Genre:** Puzzle / Logic[^ref-3]
 > **ESRB Rating:** Everyone (E)[^ref-5]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Games Included
 

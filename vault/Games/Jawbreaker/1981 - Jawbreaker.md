@@ -17,7 +17,7 @@ tags: [1980s, jawbreaker, sierra]
 ---
 # Jawbreaker
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Jawbreaker's history is intertwined with one of the early video game industry's 
 > **Series:** Jawbreaker
 > **Protagonist:** Animated Jaws/Teeth
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

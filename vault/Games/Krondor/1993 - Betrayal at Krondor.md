@@ -19,7 +19,7 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game achieved critical and commercial success, winning Computer Gaming World
 > **Series:** Krondor
 > **Protagonist:** Multiple playable characters
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

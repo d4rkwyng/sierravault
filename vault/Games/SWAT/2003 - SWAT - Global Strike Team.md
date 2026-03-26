@@ -19,7 +19,7 @@ tags: [2000s, shooter, sierra, swat]
 ---
 # SWAT: Global Strike Team
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ GameSpot called it "an impressive and successful effort to bring the old series 
 > **Series:** SWAT (Police Quest spinoff)
 > **Protagonist:** Mathias Kincaid
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

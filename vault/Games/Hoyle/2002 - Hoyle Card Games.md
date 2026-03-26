@@ -17,7 +17,7 @@ tags: [2000s, hoyle-card-games, sierra]
 ---
 # Hoyle Card Games 2002
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ Hoyle Card Games 2002 was published by [[Sierra On-Line]] and received an ESRB r
 > **Release Year:** 2002
 > **Series:** Hoyle Card Games
 > **Sierra Lineage:** Sierra Entertainment
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Games Included
 

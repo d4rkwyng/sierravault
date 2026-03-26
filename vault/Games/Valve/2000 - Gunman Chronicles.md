@@ -17,7 +17,7 @@ tags: [2000s, shooter, sierra, standalone]
 ---
 # Gunman Chronicles
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game's tagline, "It's High Noon In Deep Space," perfectly encapsulates its g
 > **Series:** Standalone
 > **Protagonist:** Major Archer
 > **Sierra Lineage:** Published by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

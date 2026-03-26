@@ -17,7 +17,7 @@ tags: [2000s, adventure, quest-for-glory, rpg, sierra]
 ---
 # Quest for Glory II VGA Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The development of this remake was a labor of love that spanned nearly seven yea
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

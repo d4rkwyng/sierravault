@@ -17,7 +17,7 @@ tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
  Driver's Education '98
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ So confident were the developers in the effectiveness of Driver's Education that
 > **Release Year:** 1998
 > **Series:** Sierra's Driver's Education
 > **Sierra Lineage:** Discovery Series[^ref-4]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Program Summary
 

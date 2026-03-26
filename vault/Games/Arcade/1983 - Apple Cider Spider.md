@@ -17,7 +17,7 @@ tags: [1980s, sierra, sierravision]
 ---
 # Apple Cider Spider
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was ported to the Commodore 64 in 1984, with R.B. Stuart handling the c
 > **Series:** SierraVision
 > **Protagonist:** Spider
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

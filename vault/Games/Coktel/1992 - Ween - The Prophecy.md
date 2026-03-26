@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, gobliiins, sierra]
 ---
 # The Prophecy
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game holds particular significance as the first and only Coktel Vision title
 > **Series:** Gobliiins (spiritual successor)
 > **Protagonist:** Ween
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

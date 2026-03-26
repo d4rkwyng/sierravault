@@ -17,7 +17,7 @@ tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 ---
 # Quest for Infamy: Roehm to Ruin
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -82,6 +82,11 @@ The prequel was first announced alongside *Order of the Thorne: The King's Chall
 > **Series:** Quest for Infamy
 > **Protagonist:** Mr. Roehm
 > **Sierra Lineage:** Sierra Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

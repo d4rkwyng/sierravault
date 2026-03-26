@@ -13,7 +13,7 @@ last_updated: '2026-02-04'
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: February 18, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -30,6 +30,11 @@ Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiati
 > **Price:** 400 Microsoft Points[^ref-3]
 > **ESRB:** E (Everyone)[^ref-2]
 > **Sierra Lineage:** Sierra Subsidiary
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

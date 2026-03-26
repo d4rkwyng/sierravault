@@ -18,7 +18,7 @@ tags: [1980s, coktel, e-s-s, sierra, simulation]
 ---
 # E.S.S.: European Space Simulator
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ As a piece of gaming history, E.S.S. represents an interesting snapshot of pre-C
 > **Series:** E.S.S.
 > **Protagonist:** Space shuttle commander
 > **Sierra Lineage:** Third Party
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

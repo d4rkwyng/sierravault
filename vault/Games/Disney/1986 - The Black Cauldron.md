@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, al-lowe, 'null', roberta-williams, sierra]
 ---
 # The Black Cauldron
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game was notable for being "the last of the pre-Michael Eisner Disney animat
 > **Release Year:** 1986
 > **Series:** null
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

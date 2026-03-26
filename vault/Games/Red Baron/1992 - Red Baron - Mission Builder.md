@@ -18,7 +18,7 @@ tags: [1990s, dynamix, red-baron, sierra, simulation]
 ---
 # Red Baron: Mission Builder
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The Mission Builder tool allowed players to craft custom missions across the Wes
 > **Series:** Red Baron
 > **Protagonist:** Player-created WWI pilot
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -13,7 +13,7 @@ last_updated: '2026-02-04'
 
 # Carcassonne
 
-<small style="color: gray">Last updated: February 18, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -29,6 +29,11 @@ The game was the second designer board game to appear on Xbox Live Arcade, follo
 > **Genre:** Turn-based Strategy[^ref-3]
 > **Based On:** Carcassonne board game by Klaus-Jürgen Wrede[^ref-1]
 > **Sierra Lineage:** Sierra Subsidiary
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

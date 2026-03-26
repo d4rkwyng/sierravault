@@ -18,7 +18,7 @@ tags: [1990s, sierra, simulation, trophy-bass]
 ---
  Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ As the third installment in the Trophy Bass series, following Trophy Bass (1995)
 > **Release Year:** 1999[^ref-1]
 > **Series:** Trophy Bass
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

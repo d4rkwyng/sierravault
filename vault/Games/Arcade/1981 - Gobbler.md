@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Gobbler was created by Olaf Lubeck, a researcher at Los Alamos National Laborato
 > **Series:** None
 > **Protagonist:** Gobbler character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, homeworld, sierra, strategy]
 ---
 # Homeworld
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game was Relic Entertainment's first title, developed by a small team workin
 > **Series:** Homeworld
 > **Protagonist:** Karan S'jet / The Kushan Fleet
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

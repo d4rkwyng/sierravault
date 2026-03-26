@@ -17,7 +17,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel (VGA Remake)
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The remake was part of Sierra's broader initiative to update their classic AGI-e
 > **Series:** Police Quest
 > **Protagonist:** Sonny Bonds
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

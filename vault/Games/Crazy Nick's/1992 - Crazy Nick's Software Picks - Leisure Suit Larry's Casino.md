@@ -18,7 +18,7 @@ tags: [1990s, leisure-suit-larry, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite its budget origins, the game utilized Sierra's SCI1.1 engine and support
 > **Series:** Leisure Suit Larry / Crazy Nick's Software Picks
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

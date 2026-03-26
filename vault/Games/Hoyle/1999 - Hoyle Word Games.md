@@ -18,7 +18,7 @@ tags: [1990s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Published under the Sierra Attractions label, Hoyle Word Games was rated E for E
 > **Series:** Hoyle[^ref-3]
 > **Protagonist:** N/A (Player-created avatar)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

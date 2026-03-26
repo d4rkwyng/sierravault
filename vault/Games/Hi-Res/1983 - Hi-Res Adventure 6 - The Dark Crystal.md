@@ -17,7 +17,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Cryst
 > **Release Year:** 1982-1983
 > **Series:** Hi-Res Adventure #6
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

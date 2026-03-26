@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Despite initial commercial struggles, with only 4,000 copies sold in its first m
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** AGI (Adventure Game Interpreter)[^ref-10]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1980s, rpg, sci, sierra, standalone]
 ---
 # Zeliard
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -101,6 +101,11 @@ Sierra's Western release made considerable changes to the game engine, resulting
 > **Series:** Standalone
 > **Protagonist:** Duke Garland
 > **Sierra Lineage:** Third-Party Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

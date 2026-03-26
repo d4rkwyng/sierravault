@@ -19,7 +19,7 @@ tags: [1990s, rpg, sierra, standalone, strategy]
 ---
 # Conqueror: A.D. 1086
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Modern gaming enthusiasts often cite Conqueror: A.D. 1086 as "the grandfather to
 > **Series:** Standalone
 > **Protagonist:** Player-created Knight
 > **Sierra Lineage:** Published by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

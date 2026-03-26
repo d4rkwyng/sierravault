@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, transylvania]
 ---
 # The Crimson Crown
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -101,6 +101,11 @@ The game holds historical significance as part of Polarware's pioneering work in
 > **Series:** Transylvania
 > **Protagonist:** The Hero of Transylvania
 > **Sierra Lineage:** Third-Party / Ported by [[Dynamix]]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Lost Mind of Dr. Brain
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game presents players with over 1,000 puzzles developed in accordance with t
 > **Series:** Dr. Brain
 > **Protagonist:** Player (guided by Elaina)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

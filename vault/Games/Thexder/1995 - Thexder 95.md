@@ -18,7 +18,7 @@ tags: [1990s, sierra, thexder]
 ---
 # Thexder 95
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite its poor reception, Thexder 95 remains a curious artifact of mid-1990s P
 > **Series:** Thexder
 > **Protagonist:** Thexder (Hyper Dual Armor mech)
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

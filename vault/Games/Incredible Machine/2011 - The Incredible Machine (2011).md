@@ -18,7 +18,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The Incredible Machine was selected for inclusion in the book "1001 Video Games 
 > **Series:** The Incredible Machine
 > **Protagonist:** None (Player as inventor)
 > **Sierra Lineage:** Sierra Discovery Series
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

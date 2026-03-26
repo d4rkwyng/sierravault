@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Casino 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The title proved commercially successful in North America, moving over 230,000 u
 > **Release Year:** 2000[^ref-1]
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

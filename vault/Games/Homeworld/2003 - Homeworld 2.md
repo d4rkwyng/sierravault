@@ -18,7 +18,7 @@ tags: [2000s, homeworld, sierra, strategy]
 ---
 # Homeworld 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite receiving critical acclaim for its lavish graphics and atmospheric prese
 > **Series:** Homeworld
 > **Protagonist:** Karan S'jet
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

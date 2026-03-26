@@ -18,7 +18,7 @@ tags: [adventure, gobliiins, puzzle, sierra]
 ---
  Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: February 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -40,6 +40,11 @@ Following the traditional series naming convention established in 1991, the two 
 > **Series:** Gobliiins
 > **Protagonist:** Fingus, Winkle[^ref-2]
 > **Sierra Lineage:** [[Coktel Vision]] (post-Sierra revival)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -251,6 +256,10 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 - [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page with previous releases[^ref-5]
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)

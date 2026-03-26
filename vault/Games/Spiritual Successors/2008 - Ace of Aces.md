@@ -17,7 +17,7 @@ tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-ga
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game launched on the InstantAction platform in 2008 and featured both single
 > **Release Year:** 2008
 > **Status:** Unavailable (platform shut down November 2010)[^ref-11]
 > **Sierra Lineage:** Alumni Project
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Setting
 

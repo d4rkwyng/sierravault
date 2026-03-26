@@ -17,7 +17,7 @@ tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Contemporary and modern reception has been mixed, with critics noting that while
 > **Series:** Crazy Nick's Software Picks, Laura Bow
 > **Protagonist:** Laura Bow (opponent)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

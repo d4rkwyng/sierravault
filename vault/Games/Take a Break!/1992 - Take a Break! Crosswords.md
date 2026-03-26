@@ -19,7 +19,7 @@ tags: [1990s, puzzle, sierra, take-a-break]
 ---
 # Take a Break! Crosswords
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ As Compute! Magazine observed, "Although designed for breaks in the workday, Cro
 > **Series:** Take a Break!
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

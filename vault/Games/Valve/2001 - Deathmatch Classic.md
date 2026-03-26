@@ -17,7 +17,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite its historical significance as an early example of Valve's community-foc
 > **Series:** Half-Life
 > **Protagonist:** Player Character (Gordon, Gina, or Scientist models)
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

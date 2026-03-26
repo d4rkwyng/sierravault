@@ -18,7 +18,7 @@ tags: [1980s, hi-res-sports, sierra]
 ---
 # Hi-Res Football
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game holds historical significance as one of the earliest titles produced by
 > **Series:** Hi-Res Sports
 > **Protagonist:** N/A (Sports simulation)
 > **Sierra Lineage:** Core Sierra (Pre-Sierra Era)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

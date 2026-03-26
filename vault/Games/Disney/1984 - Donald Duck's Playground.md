@@ -18,7 +18,7 @@ tags: [1980s, agi, al-lowe, disney, educational, sierra]
 ---
 # Donald Duck's Playground
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Disney approached Sierra after seeing Al Lowe's earlier children's game "Troll's
 > **Series:** [[Disney]]
 > **Protagonist:** Donald Duck
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

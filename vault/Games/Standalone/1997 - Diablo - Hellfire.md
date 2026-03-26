@@ -18,7 +18,7 @@ tags: [1990s, diablo, rpg, sierra]
 ---
 # Diablo: Hellfire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The expansion's development was notably contentious, with Blizzard North imposin
 > **Series:** Diablo
 > **Protagonist:** The Hero (customizable class)
 > **Sierra Lineage:** Sierra Affiliate
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

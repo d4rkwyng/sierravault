@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra, simulation]
 ---
  Front Page Sports Trophy Bass 2
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game offered substantial multiplayer capabilities, supporting 2-8 players on
 > **Release Year:** 1996[^ref-1]
 > **Series:** [[1992 - Front Page Sports Football 92|Front Page Sports]]
 > **Sierra Lineage:** Core Sierra (Dynamix subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

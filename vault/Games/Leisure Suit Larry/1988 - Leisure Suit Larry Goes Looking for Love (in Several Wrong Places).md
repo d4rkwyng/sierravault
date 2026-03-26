@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game is three times longer than the original, featuring approximately 75 uni
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -19,7 +19,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Majestic Chess
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The European release came significantly later, on February 25, 2005, published b
 > **Series:** Hoyle
 > **Protagonist:** The King
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

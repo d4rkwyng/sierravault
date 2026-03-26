@@ -17,7 +17,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game was part of Sierra Sports' portfolio, a label formed in February 1998 b
 > **Release Year:** 1999
 > **Series:** NASCAR Racing
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

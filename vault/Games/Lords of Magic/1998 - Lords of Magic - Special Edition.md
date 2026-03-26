@@ -18,7 +18,7 @@ tags: [1990s, impressions, lords-series, sierra, strategy]
 ---
 # Lords of Magic: Special Edition
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game tasks players with defeating Balkoth, Lord of Death, who has unleashed 
 > **Series:** Lords Series
 > **Protagonist:** Player-created Lord
 > **Sierra Lineage:** Impressions Games
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

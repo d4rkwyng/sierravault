@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, tribes]
 ---
 # Tribes: Aerial Assault
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ In a remarkable turn for preservation, Hi-Rez Studios released the game as freew
 > **Series:** Tribes (Earthsiege/Starsiege franchise)[^ref-2]
 > **Protagonist:** Player-created warrior
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ Sierra On-Line brought Silpheed to Western markets as part of their strategy to 
 > **Series:** Silpheed
 > **Protagonist:** SA-08 Silpheed pilot
 > **Sierra Lineage:** Distributed by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

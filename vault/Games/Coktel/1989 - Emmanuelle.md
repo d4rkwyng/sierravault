@@ -19,7 +19,7 @@ tags: [1980s, adventure, emmanuelle-loosely, sierra]
 ---
 # Emmanuelle: A Game of Eroticism
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ As gaming historian Jimmy Maher noted, Emmanuelle represents one of Coktel Visio
 > **Series:** Emmanuelle (loosely connected trilogy)
 > **Protagonist:** Marc (unnamed protagonist)
 > **Sierra Lineage:** Later Sierra Acquisition (Coktel Vision acquired 1993)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

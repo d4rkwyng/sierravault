@@ -19,7 +19,7 @@ tags: [1990s, hoyle-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The collection was designed to be accessible to players of all ages, featuring a
 > **Series:** Hoyle Official Book of Games
 > **Protagonist:** Player-selected avatar
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

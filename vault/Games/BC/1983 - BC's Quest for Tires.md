@@ -18,7 +18,7 @@ tags: [1980s, b-c, sierra]
 ---
 # B.C.'s Quest for Tires
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Contemporary reviewers praised the game's animation and faithful recreation of H
 > **Series:** B.C.
 > **Protagonist:** Thor
 > **Sierra Lineage:** Licensed Product
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

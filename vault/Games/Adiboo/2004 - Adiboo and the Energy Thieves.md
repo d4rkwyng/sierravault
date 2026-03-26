@@ -18,7 +18,7 @@ tags: [2000s, adiboo, educational, sierra]
 ---
 # Adiboo and the Energy Thieves
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The transition to 3D was part of a broader trend in children's gaming during the
 > **Series:** Adiboo
 > **Protagonist:** Adiboo
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

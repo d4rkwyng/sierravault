@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Sierra Sports Skiing 1999 Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Sierra Sports Skiing 1999 Edition represented the continuation of Sierra's Front
 > **Series:** Front Page Sports
 > **Protagonist:** Player-created skier
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

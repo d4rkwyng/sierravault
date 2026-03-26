@@ -17,7 +17,7 @@ tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game incorporates Native American mysticism and supernatural horror elements
 > **Release Year:** 1997
 > **Series:** Shivers
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -132,6 +137,10 @@ The soundtrack has maintained a cult following, with fans particularly appreciat
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

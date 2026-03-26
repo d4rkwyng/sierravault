@@ -17,7 +17,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2 Grand National Series Expansion
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The Busch Grand National Series represented NASCAR's second-tier racing series, 
 > **Release Year:** 1997
 > **Series:** NASCAR Racing
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

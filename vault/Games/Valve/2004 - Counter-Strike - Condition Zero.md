@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Counter-Strike: Condition Zero
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite its troubled gestation, the game achieved commercial success and garnere
 > **Series:** Counter-Strike
 > **Protagonist:** Counter-Terrorist Operative
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

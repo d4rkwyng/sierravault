@@ -17,7 +17,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Originally packaged in Ziploc bags containing a floppy disk and photocopied inst
 > **Series:** Hi-Res Adventure #1
 > **Engine:** ADL[^ref-13]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -123,7 +128,6 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 ## Purchase
 
 **Digital Stores**
-## Purchase
 
 **Purchase / Digital Stores**
 - [GOG Dreamlist](https://www.gog.com/dreamlist) – Community Dreamlist

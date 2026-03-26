@@ -17,7 +17,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Legends
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ NASCAR Legends earned strong reviews upon release, with GameSpot awarding it a 9
 > **Series:** NASCAR Racing
 > **Protagonist:** Player-created driver
 > **Sierra Lineage:** Sierra Sports
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13]. Released in five chapters between July 2015 and October 2016, the game reimagines the classic King's Quest franchise, featuring an elderly King Graham narrating his youthful adventures to his granddaughter Gwendolyn[^ref-1][^ref-3]. The entire game is told as a flashback, similar to the story structure of King's Quest VII: The Princeless Bride, set in a fantasy universe and with a humorous tone[^ref-3]. IGN called it "a beautiful experiment in resurrecting the conventions of gaming's past and dressing them up in the lush graphics available today" and awarded it 8/10[^ref-9]. The game received an "Excellent" 4.5/5 rating from Adventure Gamers, who called it "an instant classic" and recommended that "wise, brave, and compassionate adventurers alike should definitely consider having a crack at it"[^ref-6].
@@ -32,6 +32,11 @@ King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen an
 > **Series:** King's Quest
 > **Protagonist:** Graham
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 The narrative of King's Quest (2015) unfolds as a series of stories told by an elderly King Graham to his granddaughter Gwendolyn, who listens from his bedside in the kingdom of Daventry[^ref-3]. When Graham dies in the game, he often rewinds the story a bit or remarks it was not what he did[^ref-3]. His narration is also heard during regular gameplay, especially for descriptions of the environment[^ref-3].

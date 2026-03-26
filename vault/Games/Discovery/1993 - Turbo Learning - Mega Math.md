@@ -18,7 +18,7 @@ tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ One of the game's notable technical achievements was its inclusion of full speec
 > **Series:** Turbo Learning
 > **Protagonist:** Player (child)
 > **Sierra Lineage:** Sierra Discovery Series
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

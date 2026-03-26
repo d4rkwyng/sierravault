@@ -17,7 +17,7 @@ tags: [1990s, sierra, strategy, v-for-victory]
 ---
 # V for Victory: Battleset 1 - D-Day Utah Beach - 1944
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ V for Victory: Utah Beach was designed to be accessible to non-hardcore wargamer
 > **Series:** V for Victory
 > **Protagonist:** N/A (Player commands military forces)
 > **Sierra Lineage:** Published Partner
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

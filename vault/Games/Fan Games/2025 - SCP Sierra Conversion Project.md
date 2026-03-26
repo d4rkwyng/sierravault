@@ -15,7 +15,7 @@ tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -32,6 +32,11 @@ The project gained significant attention in January 2026 with the rapid release 
 > **Focus:** Amiga OCS/AGA graphics enhancement
 > **Tools Used:** ImageFX, PPaint, Adpro (Amiga-native)
 > **Sierra Lineage:** Fan Enhancement Project
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Released Projects
 

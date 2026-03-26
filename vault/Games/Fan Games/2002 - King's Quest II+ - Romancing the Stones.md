@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The project represents one of the most notable achievements in Sierra fan game d
 > **Series:** King's Quest
 > **Protagonist:** King Graham
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

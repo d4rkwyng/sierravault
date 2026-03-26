@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The title was part of the broader "Talking Tutor" series, which included other e
 > **Series:** Sierra Discovery Series, Bananas & Jack series, Talking Tutor series[^ref-2][^ref-3]
 > **Protagonist:** Player (child)
 > **Sierra Lineage:** Sierra Discovery
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

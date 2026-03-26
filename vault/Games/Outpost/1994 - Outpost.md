@@ -17,7 +17,7 @@ tags: [1990s, outpost, sierra]
 ---
 # Outpost
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The controversy surrounding Outpost represents one of the earliest major gaming 
 > **Series:** Outpost
 > **Protagonist:** Colony Commander
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

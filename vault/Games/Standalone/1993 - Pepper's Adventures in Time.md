@@ -17,7 +17,7 @@ tags: [1990s, educational, 'null', sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ One Sierra fan declared: "I still consider it the greatest educational adventure
 > **Release Year:** 1993
 > **Series:** Standalone
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

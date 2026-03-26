@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sci, sierra, simulation]
 ---
  Hoyle Blackjack
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The tagline "ANTE UP FOR AUTHENTIC CASINO BLACKJACK!" captured the game's appeal
 > **Release Year:** 1996
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

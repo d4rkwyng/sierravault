@@ -18,7 +18,7 @@ tags: [1990s, adventure, sierra, standalone]
 ---
 # Geisha
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The reception has been consistently polarizing, ranging from French magazine Joy
 > **Release Year:** 1990
 > **Series:** Standalone
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

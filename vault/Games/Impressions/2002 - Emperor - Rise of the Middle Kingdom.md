@@ -19,7 +19,7 @@ tags: [2000s, city-building-series, sierra, strategy]
 ---
  Emperor: Rise of the Middle Kingdom
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game challenges players to construct and manage Chinese cities through seven
 > **Series:** City Building Series
 > **Protagonist:** Player as Emperor/City Administrator
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

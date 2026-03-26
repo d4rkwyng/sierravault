@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, playtoons, sierra]
 ---
 # Playtoons 4: The Mandarine Prince
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Playtoons 4: The Mandarine Prince represents an important entry in Coktel Vision
 > **Series:** Playtoons
 > **Protagonist:** Spirou and Fantasio
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

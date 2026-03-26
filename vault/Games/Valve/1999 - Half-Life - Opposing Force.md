@@ -19,7 +19,7 @@ tags: [1990s, half-life, shooter, sierra]
 ---
 # Half-Life: Opposing Force
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The title carries a deliberate double meaning: it references both the player's r
 > **Series:** Half-Life
 > **Protagonist:** Corporal Adrian Shephard
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

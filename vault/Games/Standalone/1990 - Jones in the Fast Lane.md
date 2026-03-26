@@ -17,7 +17,7 @@ tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -98,6 +98,11 @@ The game earned significant recognition, winning Computer Gaming World's "Advent
 > **Release Year:** 1990
 > **Series:** Standalone
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

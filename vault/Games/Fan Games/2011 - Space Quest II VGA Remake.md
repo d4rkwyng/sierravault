@@ -17,7 +17,7 @@ tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Infamous Adventures made the game available as a free download, reflecting their
 > **Series:** Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Fan Remake of Sierra Original
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

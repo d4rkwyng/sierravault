@@ -18,7 +18,7 @@ tags: [1990s, adventure, coktel, sierra, standalone-gobliiins-spiritual-successo
 ---
 # The Bizarre Adventures of Woodruff and the Schnibble
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game achieved critical acclaim upon release, with *PC Gamer* awarding it 90%
 > **Series:** Standalone (Gobliiins spiritual successor)
 > **Protagonist:** Woodruff
 > **Sierra Lineage:** Sierra-Published (Coktel Vision)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

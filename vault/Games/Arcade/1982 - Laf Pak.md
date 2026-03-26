@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ One of the standout features of Laf Pak is its technical achievement in audio: C
 > **Series:** None
 > **Protagonist:** Varies by mini-game
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

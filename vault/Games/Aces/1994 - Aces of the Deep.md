@@ -17,7 +17,7 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game was groundbreaking for its time, featuring what the German gaming wiki 
 > **Release Year:** 1994
 > **Series:** Aces Series[^ref-6]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -108,6 +113,10 @@ The enhanced Command: Aces of the Deep version introduced IBM VoiceType speech r
 
 Game documentation including manuals[^ref-25] and video content[^ref-26] has been preserved in archives.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 - [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]

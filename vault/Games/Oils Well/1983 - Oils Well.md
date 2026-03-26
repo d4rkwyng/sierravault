@@ -18,7 +18,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Oil's Well
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Oil's Well received a significant remake in 1990 for MS-DOS, developed by Banana
 > **Series:** Standalone
 > **Protagonist:** Drill Bit/Robotic Arm
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

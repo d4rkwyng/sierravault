@@ -17,7 +17,7 @@ tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Development began after Impressions decided it was time for a change of scenery 
 > **Release Year:** 1999
 > **Series:** Impressions City Building Series
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

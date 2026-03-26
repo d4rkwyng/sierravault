@@ -17,7 +17,7 @@ tags: [1990s, dgds, educational, sierra, sierra-discovery-series]
 ---
 # Quarky & Quaysoo's Turbo Science
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Described as "'edutainment' at its best" by reviewers, Quarky & Quaysoo's Turbo 
 > **Series:** Sierra Discovery Series[^ref-3]
 > **Protagonist:** Quarky O'Ghandi / Quaysoo O'Ghandi
 > **Sierra Lineage:** Sierra Discovery Series
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

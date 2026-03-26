@@ -17,7 +17,7 @@ tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Despite its technical ambitions and impressive marketing materials, David Wolf: 
 > **Release Year:** 1989[^ref-1]
 > **Series:** David Wolf[^ref-4]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

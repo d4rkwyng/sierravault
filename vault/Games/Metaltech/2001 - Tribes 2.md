@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, starsiege]
 ---
 # Tribes 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ Unlike anything before it, the multiplayer, 360 degree, team play-based game set
 > **Release Year:** 2001
 > **Series:** Starsiege
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

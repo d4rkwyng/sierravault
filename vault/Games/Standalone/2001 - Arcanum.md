@@ -19,7 +19,7 @@ tags: [2000s, arcanum, rpg, sierra]
 ---
 # Arcanum: Of Steamworks & Magick Obscura
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Despite launching with numerous technical issues—a hallmark of Troika's ambiti
 > **Series:** Arcanum
 > **Protagonist:** The Living One
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

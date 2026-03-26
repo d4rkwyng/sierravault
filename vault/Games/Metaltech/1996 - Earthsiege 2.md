@@ -17,7 +17,7 @@ tags: [1990s, earthsiege, sierra, simulation, two-guys]
 ---
 # Earthsiege 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ As part of the larger Metaltech universe, Earthsiege 2 continues the story estab
 > **Release Year:** 1996
 > **Series:** Earthsiege
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

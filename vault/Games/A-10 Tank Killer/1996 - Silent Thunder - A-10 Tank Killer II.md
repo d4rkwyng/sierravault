@@ -18,7 +18,7 @@ tags: [1990s, a-10-tank-killer, sierra, simulation]
 ---
 # Silent Thunder: A-10 Tank Killer II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ GameSpot's Chris Hudak awarded the game an impressive 8.5/10, praising it as "a 
 > **Release Year:** 1996
 > **Series:** A-10 Tank Killer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

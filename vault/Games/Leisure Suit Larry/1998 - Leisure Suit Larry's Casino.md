@@ -15,7 +15,7 @@ tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe de
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Spinoff
 > **ESRB Rating:** Mature[^ref-8]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

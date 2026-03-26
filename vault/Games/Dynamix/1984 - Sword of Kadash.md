@@ -17,7 +17,7 @@ tags: [1980s, dynamix, n-a, rpg, sierra]
 ---
 # Sword of Kadash
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Sword of Kadash holds historical significance as one of the earliest titles rele
 > **Series:** N/A
 > **Protagonist:** Unnamed Hero/Heroine
 > **Sierra Lineage:** Dynamix (later Sierra subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

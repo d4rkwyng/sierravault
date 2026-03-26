@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Released during a turbulent period in Sierra's corporate history—just months a
 > **Series:** Hoyle[^ref-3]
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1980s, coktel, racing, sierra, standalone]
 ---
 # African Raiders-01
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite its technical aspirations, the game received a decidedly mixed reception
 > **Series:** None
 > **Protagonist:** Unnamed rally driver
 > **Sierra Lineage:** Third Party (Coktel Vision)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

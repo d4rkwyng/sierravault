@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone, strategy]
 ---
 # Kempelen
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ The game featured a top-down perspective with a pseudo-3D feel, animated piece m
 > **Series:** N/A
 > **Protagonist:** N/A
 > **Sierra Lineage:** Third-Party Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

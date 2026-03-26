@@ -17,7 +17,7 @@ tags: [1990s, impressions, micro-miniatures, sierra, strategy]
 ---
 # The Charge of the Light Brigade
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Impressions Games, founded in 1989, would later be acquired by Sierra On-Line in
 > **Series:** Micro Miniatures
 > **Protagonist:** Player-controlled British/Allied Commander
 > **Sierra Lineage:** Sierra Subsidiary (Impressions, acquired 1995)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

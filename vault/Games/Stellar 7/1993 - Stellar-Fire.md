@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar-Fire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Set in the year 2206, Stellar-Fire features polygon-based 3D graphics that were 
 > **Series:** Stellar 7
 > **Protagonist:** Raven Pilot
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

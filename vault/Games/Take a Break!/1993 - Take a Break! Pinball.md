@@ -17,7 +17,7 @@ tags: [1990s, dynamix, sierra, take-a-break]
 ---
 # Take a Break! Pinball
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game distinguished itself from typical pinball simulations by featuring eigh
 > **Series:** Take a Break!
 > **Protagonist:** N/A
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ A single-player, non-networked version was released in 1993, though critics were
 > **Release Year:** 1991
 > **Series:** Shadow of Yserbius
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

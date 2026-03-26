@@ -17,7 +17,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Bouncers
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Released exclusively in North America, Bouncers combines sports gameplay with fi
 > **Series:** Standalone
 > **Protagonist:** Basketball Characters
 > **Sierra Lineage:** Sierra Label (Dynamix)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, adventure, phantasmagoria, roberta-williams, sci, sierra]
 ---
 # Phantasmagoria
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Phantasmagoria represented the apex of the FMV gaming trend of the mid-1990s, wi
 > **Series:** Phantasmagoria
 > **Protagonist:** Adrienne Delaney
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Lords of the Realm was praised for offering an interesting portrayal of thirteen
 > **Series:** Lords of the Realm
 > **Protagonist:** Player-controlled Lord
 > **Sierra Lineage:** Affiliate
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -222,6 +227,10 @@ The emphasis on economic management and population welfare set Lords of the Real
 
 Today, Lords of the Realm is recognized as a foundational title that helped define the medieval strategy genre. Its influence can be seen in numerous subsequent games, from Stronghold to Medieval: Total War, all of which built upon the template established by David Lester and his team at Impressions Games.[^ref-31]
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

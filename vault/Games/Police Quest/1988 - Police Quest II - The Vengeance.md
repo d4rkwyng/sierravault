@@ -18,7 +18,7 @@ tags: [1980s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest II: The Vengeance
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game's scenarios were based on situations that Jim Walls actually experience
 > **Series:** Police Quest
 > **Protagonist:** Sonny Bonds
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

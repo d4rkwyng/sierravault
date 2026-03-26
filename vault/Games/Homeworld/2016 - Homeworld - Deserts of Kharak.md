@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ Originally conceived as an independent project called Hardware: Shipbreakers, th
 > **Release Year:** 2016
 > **Series:** Homeworld
 > **Sierra Lineage:** Legacy Title
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

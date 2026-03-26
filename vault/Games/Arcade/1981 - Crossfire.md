@@ -17,7 +17,7 @@ tags: [1980s, n-a, shooter, sierra]
 ---
 # Crossfire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game distinguished itself through its exceptionally smooth controls and resp
 > **Series:** N/A
 > **Protagonist:** Unnamed pilot
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

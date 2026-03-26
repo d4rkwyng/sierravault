@@ -17,7 +17,7 @@ tags: [adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest VII
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The story of Space Quest VII's troubled development offers a window into the bro
 > **Series:** Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game represents Phoenix Online Studios' first commercial project[^ref-5] and
 > **Series:** Cognition
 > **Protagonist:** Erica Reed
 > **Sierra Lineage:** Alumni Project
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

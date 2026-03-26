@@ -18,7 +18,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine 3.0
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The game evokes the spirit of classic cartoon contraptions, as the GOG.com produ
 > **Series:** The Incredible Machine
 > **Protagonist:** N/A (Player-controlled contraptions)
 > **Sierra Lineage:** Sierra Subsidiary (Dynamix)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

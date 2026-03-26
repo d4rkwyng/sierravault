@@ -17,7 +17,7 @@ tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Civil War Generals 2: Grant, Lee, Sherman
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game emerged during a golden age of historical wargaming, when Sierra On-Lin
 > **Release Year:** 1996
 > **Series:** Civil War Generals
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

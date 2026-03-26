@@ -17,7 +17,7 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
  Metaltech Earthsiege Speech Pack
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The addition of digitized speech represented a significant enhancement for the e
 > **Series:** Metaltech
 > **Engine:** 3Space / Sound Operating System
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

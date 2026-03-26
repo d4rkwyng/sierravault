@@ -19,7 +19,7 @@ tags: [1980s, adventure, none, sierra]
 ---
 # 20,000 Leagues Under the Sea
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The source material, regarded as "one of the premiere adventure novels and one o
 > **Series:** None (Standalone)
 > **Protagonist:** Professor Arronax[^ref-2]
 > **Sierra Lineage:** Sierra Distributed
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ween]
 ---
 # Legend of Djel
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game represents an early example of Coktel Vision's adventure game developme
 > **Release Year:** 1989
 > **Series:** Ween (prequel)
 > **Sierra Lineage:** Published Partner
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

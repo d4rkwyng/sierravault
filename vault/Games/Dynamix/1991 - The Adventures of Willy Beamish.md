@@ -17,7 +17,7 @@ tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The Adventures of Willy Beamish was the last adventure game created by Dynamix, 
 > **Series:** Standalone
 > **Protagonist:** Willy Beamish
 > **Sierra Lineage:** Sierra Subsidiary (Dynamix)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

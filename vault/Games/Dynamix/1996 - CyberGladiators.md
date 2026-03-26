@@ -17,7 +17,7 @@ tags: [1990s, k-a-a-series, sierra]
 ---
 # CyberGladiators
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ CyberGladiators represents an interesting evolutionary step in Sierra's catalog,
 > **Series:** K.A.A. series[^ref-7]
 > **Protagonist:** Player-selected fighter
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

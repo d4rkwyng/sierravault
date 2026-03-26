@@ -20,7 +20,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The software features two animated host characters—Bananas, a monkey, and Jack
 > **Series:** Sierra Discovery Series, Bananas & Jack series, Talking Tutor series[^ref-3]
 > **Protagonists:** Bananas (monkey) and Jack (jack-in-the-box)
 > **Sierra Lineage:** Bright Star Educational
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

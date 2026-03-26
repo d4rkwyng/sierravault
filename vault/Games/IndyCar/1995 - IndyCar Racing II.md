@@ -18,7 +18,7 @@ tags: [1990s, indycar-racing, racing, sierra]
 ---
 # IndyCar Racing II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game was designed with an uncompromising focus on realism, as lead developer
 > **Release Year:** 1995
 > **Series:** IndyCar Racing
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [2000s, no-one-lives-forever, shooter, sierra]
 ---
 # Contract J.A.C.K.
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Contract J.A.C.K. represents Monolith's attempt to create a pure action experien
 > **Series:** No One Lives Forever
 > **Protagonist:** John Jack
 > **Sierra Lineage:** Vivendi Universal Games Era
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

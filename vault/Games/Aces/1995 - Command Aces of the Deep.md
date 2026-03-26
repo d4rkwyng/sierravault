@@ -18,7 +18,7 @@ tags: [1990s, aces, sierra, simulation]
 ---
 # Command Aces of the Deep
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The enhanced "Command" version, released for Windows in 1995, featured updated g
 > **Release Year:** 1995
 > **Series:** Aces
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

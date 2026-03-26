@@ -17,7 +17,7 @@ tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Blue Force reunited several former Sierra employees who had joined Tsunami Media
 > **Release Year:** 1993
 > **Protagonist:** Jake Ryan
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -160,6 +165,10 @@ Despite its troubled reception, Blue Force remains historically significant as a
 - [My Abandonware - Blue Force](https://www.myabandonware.com/game/blue-force-1yu) — Download and game information[^ref-8]
 - Playable through ScummVM via TsAGE engine support[^ref-11]
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

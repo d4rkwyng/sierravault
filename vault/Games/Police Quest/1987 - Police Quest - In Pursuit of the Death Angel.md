@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, police-quest, sierra]
 ---
 # Police Quest: In Pursuit of the Death Angel
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ What distinguished Police Quest from other Sierra adventures was its meticulous 
 > **Release Year:** 1987
 > **Series:** Police Quest
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

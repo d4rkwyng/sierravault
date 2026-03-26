@@ -18,7 +18,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 ---
 # Mage's Initiation: Reign of the Elements
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -85,6 +85,11 @@ Set in the medieval-styled land of Iginor, players assume the role of D'arc, a s
 > **Series:** Mage's Initiation
 > **Protagonist:** D'arc
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

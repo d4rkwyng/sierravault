@@ -17,7 +17,7 @@ tags: [2010s, adventure, al-lowe, leisure-suit-larry, sierra]
 ---
 # Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game follows the misadventures of Larry Laffer, a "40-year-old virgin in pur
 > **Release Year:** 2013
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

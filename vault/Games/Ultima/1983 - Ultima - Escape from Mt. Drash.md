@@ -18,7 +18,7 @@ tags: [1980s, adventure, sierra, ultima]
 ---
 # Ultima: Escape from Mt. Drash
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Sierra's skepticism about the game's commercial viability proved well-founded, a
 > **Series:** Ultima
 > **Protagonist:** Unnamed Prisoner
 > **Sierra Lineage:** SierraVenture
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

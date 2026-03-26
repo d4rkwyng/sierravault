@@ -17,7 +17,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III: To Heir Is Human (Infamous Adventures Remake)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The remake preserves the challenging gameplay that made the original notoriousâ€
 > **Series:** King's Quest
 > **Protagonist:** Gwydion (Prince Alexander)
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

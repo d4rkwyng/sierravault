@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
  Police Quest: SWAT
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game represented Sierra's ambitious attempt to capitalize on the multimedia 
 > **Series:** Police Quest / SWAT
 > **Protagonist:** Unnamed SWAT Recruit
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

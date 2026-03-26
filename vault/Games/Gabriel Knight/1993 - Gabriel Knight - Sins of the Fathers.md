@@ -18,7 +18,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Sierra On-Line made "a splash in the history of adventure gaming" with this rele
 > **Series:** Gabriel Knight
 > **Protagonist:** Gabriel Knight
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

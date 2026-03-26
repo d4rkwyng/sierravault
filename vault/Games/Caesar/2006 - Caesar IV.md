@@ -19,7 +19,7 @@ tags: [2000s, caesar, sierra]
 ---
 # Caesar IV
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Caesar IV blends classic city-building gameplay with next-generation 3D graphics
 > **Series:** Caesar
 > **Protagonist:** Roman Provincial Governor (player-controlled)
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

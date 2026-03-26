@@ -19,7 +19,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra, two-guys]
 ---
 # Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Despite its risqué reputation, the game's actual content was remarkably tame. A
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The proposed game would continue the series' tradition of blending supernatural 
 > **Series:** Gabriel Knight
 > **Protagonist:** Gabriel Knight
 > **Sierra Lineage:** Post-Sierra Revival Attempt
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

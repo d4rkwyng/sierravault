@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest I: Quest for the Crown VGA Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The remake directly addresses shortcomings of Sierra's own 1990 SCI remake, whic
 > **Series:** King's Quest
 > **Protagonist:** Sir Graham
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

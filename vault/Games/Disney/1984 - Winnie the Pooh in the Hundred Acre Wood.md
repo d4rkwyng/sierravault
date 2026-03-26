@@ -17,7 +17,7 @@ tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 ---
 # Winnie the Pooh in the Hundred Acre Wood
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game achieved commercial success and critical acclaim, with contemporary rev
 > **Series:** Disney Edutainment Series
 > **Protagonist:** Player (unnamed child)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

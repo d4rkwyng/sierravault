@@ -18,7 +18,7 @@ tags: [2000s, counter-strike, shooter, sierra]
 ---
 # Half-Life: Counter-Strike
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The gameplay formula proved so compelling that critics universally praised its e
 > **Series:** Counter-Strike
 > **Protagonist:** Player-controlled operatives
 > **Sierra Lineage:** Published by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

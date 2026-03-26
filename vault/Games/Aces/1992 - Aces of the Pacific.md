@@ -17,7 +17,7 @@ tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Pacific
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans 
 > **Release Year:** 1992
 > **Series:** Aces Series
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -111,6 +116,10 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]

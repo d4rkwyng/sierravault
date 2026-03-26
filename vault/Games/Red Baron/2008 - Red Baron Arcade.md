@@ -17,7 +17,7 @@ tags: [2000s, red-baron, sierra, simulation]
 ---
 # Red Baron Arcade
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Red Baron Arcade's release was marked by controversy and corporate turbulence, a
 > **Series:** Red Baron
 > **Protagonist:** Unnamed WWI Pilot
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

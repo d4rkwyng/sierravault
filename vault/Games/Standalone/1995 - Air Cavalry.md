@@ -17,7 +17,7 @@ tags: [1990s, sierra, simulation]
 ---
 # Air Cavalry
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Despite its technical ambitions, Air Cavalry received mixed reviews from contemp
 > **Release Year:** 1995
 > **Protagonist:** Air Cavalry Division Pilot
 > **Sierra Lineage:** Affiliated Developer
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

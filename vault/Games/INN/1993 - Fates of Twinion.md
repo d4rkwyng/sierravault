@@ -20,7 +20,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -40,6 +40,11 @@ Sierra tried to create "a more complex game with a wider range of puzzles, traps
 > **Release Year:** 1993
 > **Series:** Shadow of Yserbius
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

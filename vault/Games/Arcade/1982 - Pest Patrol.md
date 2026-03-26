@@ -17,7 +17,7 @@ tags: [1980s, shooter, sierra, standalone]
 ---
 # Pest Patrol
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game represents Sierra's participation in the Space Invaders-inspired fixed 
 > **Series:** Standalone
 > **Protagonist:** N/A (player controls defense turret)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

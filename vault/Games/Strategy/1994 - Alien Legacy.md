@@ -18,7 +18,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Set in a future where humanity faces extinction following an alien attack, Alien
 > **Release Date:** May 14, 1994[^ref-4]
 > **ESRB Rating:** Kids to Adults[^ref-4]
 > **Sierra Lineage:** Third-party Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

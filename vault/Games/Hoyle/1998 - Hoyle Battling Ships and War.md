@@ -18,7 +18,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sierra]
 ---
 # Hoyle Battling Ships And War
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Developed for Windows platforms including Windows 3.1, Windows 95, and Windows 9
 > **Series:** Hoyle's Official Book of Games
 > **Protagonist:** N/A (Player-controlled)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

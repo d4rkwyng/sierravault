@@ -17,7 +17,7 @@ tags: [1990s, breach, sierra]
 ---
 # Breach 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Perhaps most notably, Breach 3 was designed as part of Omnitrend's innovative "I
 > **Series:** Breach
 > **Protagonist:** Federated Worlds Special Forces Squad Leader
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

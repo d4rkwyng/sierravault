@@ -17,7 +17,7 @@ tags: [1990s, dynamix, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ What set Trophy Bass apart from other games of its time was its unexpected comme
 > **Series:** Trophy Bass
 > **Protagonist:** Player-created angler
 > **Sierra Lineage:** Dynamix Sports
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

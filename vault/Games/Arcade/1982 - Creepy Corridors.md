@@ -17,7 +17,7 @@ tags: [1980s, laf-pak, sierra]
 ---
 # Creepy Corridors
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Originally bundled with three other games—Apple Zap, Mine Sweep, and Space Rac
 > **Series:** Laf Pak compilation[^ref-1]
 > **Protagonist:** Sierra Smith[^ref-2]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

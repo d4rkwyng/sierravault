@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The '96 edition included the NFL's two newest expansion teams, the Carolina Pant
 > **Release Year:** 1995[^ref-1]
 > **Series:** [[1992 - Front Page Sports Football 92|Front Page Sports]]
 > **Sierra Lineage:** Core Sierra (Dynamix subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

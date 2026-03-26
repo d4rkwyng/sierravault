@@ -18,7 +18,7 @@ tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter 2: San Francisco
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Many of the things the Manhunter games pioneered would later become popular in a
 > **Series:** Manhunter
 > **Protagonist:** Unnamed Manhunter
 > **Sierra Lineage:** External Development
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

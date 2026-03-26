@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ King's Quest VI: Heir Today, Gone Tomorrow is widely regarded as the finest entr
 > **Series:** King's Quest
 > **Protagonist:** Prince Alexander
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

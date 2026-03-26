@@ -18,7 +18,7 @@ tags: [2000s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm III
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ Set in medieval Europe between 850 AD and 1350 AD, Lords of the Realm III casts 
 > **Release Year:** 2004
 > **Series:** Lords of the Realm
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

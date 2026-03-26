@@ -17,7 +17,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot 98
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Despite ambitious marketing claims touting it as "the best program of its kind"[
 > **Series:** Pro Pilot
 > **ESRB Rating:** Everyone[^ref-6]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

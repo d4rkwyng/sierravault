@@ -17,7 +17,7 @@ tags: [1990s, adventure, coktel, sierra]
 ---
 # Bargon Attack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Contemporary French reviewers compared Bargon Attack favorably to American adven
 > **Series:** None
 > **Protagonist:** Bob
 > **Sierra Lineage:** Coktel Vision (Sierra subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

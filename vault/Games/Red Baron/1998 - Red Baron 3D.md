@@ -19,7 +19,7 @@ tags: [1990s, red-baron, sierra, simulation]
 ---
 # Red Baron 3D
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ As a follow-up to the acclaimed 1990 Red Baron simulation, Red Baron 3D was deve
 > **Release Year:** 1998
 > **Series:** Red Baron
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

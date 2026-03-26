@@ -18,7 +18,7 @@ tags: [1990s, sierra, stellar-7]
 ---
 # Nova 9: Return of Gir Draxon
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Computer Gaming World praised the game as "an excellent offering for arcade fans
 > **Release Year:** 1991
 > **Series:** Stellar 7
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

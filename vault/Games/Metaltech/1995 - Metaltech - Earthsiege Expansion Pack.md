@@ -18,7 +18,7 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
  Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -42,6 +42,11 @@ The Metaltech universe, created by Dynamix as an alternative to the Battletech f
 > **Release Year:** 1995[^ref-1]
 > **Series:** Metaltech
 > **Sierra Lineage:** Core Sierra (Dynamix subsidiary)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

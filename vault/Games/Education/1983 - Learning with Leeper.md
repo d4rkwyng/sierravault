@@ -17,7 +17,7 @@ tags: [1980s, educational, leeper, sierra]
 ---
 # Learning with Leeper
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game offers "a painless way for youngsters to learn such tricky concepts as 
 > **Series:** Leeper
 > **Protagonist:** Leeper (the frog/alien character)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

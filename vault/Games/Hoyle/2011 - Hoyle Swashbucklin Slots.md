@@ -17,7 +17,7 @@ tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Swashbucklin' Slots
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ As part of the Hoyle brand legacy, Swashbucklin' Slots continued the franchise's
 > **Series:** Hoyle[^ref-1]
 > **Protagonist:** N/A (Simulation)
 > **Sierra Lineage:** Post-Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

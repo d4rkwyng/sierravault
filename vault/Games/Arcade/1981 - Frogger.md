@@ -19,7 +19,7 @@ tags: [1980s, frogger, sierra]
 ---
 # Frogger
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Frogger has earned lasting recognition as one of the greatest video games ever m
 > **Series:** Frogger
 > **Protagonist:** Frogger (the frog)
 > **Sierra Lineage:** Licensed Sierra Port
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [2020s, homeworld, sierra, strategy]
 ---
 # Homeworld 3
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Tactical, beautiful, and wholly unique, Homeworld 3 returns the award-winning fr
 > **Series:** Homeworld
 > **Protagonist:** Imogen S'Jet
 > **Sierra Lineage:** Franchise Acquisition
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

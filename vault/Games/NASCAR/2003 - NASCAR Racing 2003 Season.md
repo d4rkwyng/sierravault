@@ -17,7 +17,7 @@ tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2003 Season
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ NR2003's release marked the end of an era for Papyrus, as Electronic Arts acquir
 > **Series:** NASCAR Racing
 > **Protagonist:** Player-created driver
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

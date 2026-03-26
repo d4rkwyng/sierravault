@@ -16,7 +16,7 @@ tags: [2020s, city-builder, impressions, remake, pharaoh]
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The remake closely follows the original game's design while featuring completely
 > **Series:** Pharaoh / City Building (Impressions)
 > **Original Game:** [[1999 - Pharaoh|Pharaoh (1999)]]
 > **Sierra Lineage:** Activision License (Impressions IP)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Development
 

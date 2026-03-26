@@ -18,7 +18,7 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
 
-<small style="color: gray">Last updated: March 20, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ As a "blockbuster retelling" of an award-winning murder mystery, the Anniversary
 > **Series:** Gabriel Knight
 > **Protagonist:** Gabriel Knight
 > **Sierra Lineage:** Sierra Revival
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

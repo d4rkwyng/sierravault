@@ -18,7 +18,7 @@ tags: [2000s, 3d-ultra, sierra]
 last_modified: 2026-03-15T15:49:44-
 # Maximum Pool
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game includes both traditional pool variants and unique "maximum" games that
 > **Release Year:** 2000
 > **Series:** 3D Ultra
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

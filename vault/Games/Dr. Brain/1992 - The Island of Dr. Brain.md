@@ -18,7 +18,7 @@ tags: [1990s, dr-brain, educational, sci, sierra]
 ---
 # The Island of Dr. Brain
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Marketed with the tagline "Fill your head while you boggle your mind," The Islan
 > **Series:** Dr. Brain
 > **Protagonist:** Unnamed Player Character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

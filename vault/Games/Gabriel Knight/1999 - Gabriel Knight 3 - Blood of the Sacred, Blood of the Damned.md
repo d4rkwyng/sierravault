@@ -17,7 +17,7 @@ tags: [1990s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 3: Blood of the Sacred, Blood of the Damned
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ This entry marked a significant technical departure for the series, being the fi
 > **Release Year:** 1999[^ref-15]
 > **Series:** Gabriel Knight
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

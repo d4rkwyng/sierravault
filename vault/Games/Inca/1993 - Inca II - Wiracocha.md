@@ -17,7 +17,7 @@ tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game followed protagonist Atahualpa, son of El Dorado, battling enemy Aguirr
 > **Series:** Inca II
 > **Engine:** Gob[^ref-16]
 > **Sierra Lineage:** Core Sierra[^ref-20]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -128,6 +133,10 @@ The Inca series as a whole represents an interesting footnote in Coktel Vision's
 
 Inca II stands as a fascinating example of 1990s multimedia gaming ambition, representing both the possibilities and pitfalls of early CD-ROM adventure games. Its blend of serious mythological themes with unintentionally comedic execution has secured its place in gaming history, even if not for the reasons its developers originally intended. For many players who encountered the game during the CD-ROM boom, it remains a nostalgic curiosity—a reminder of an era when developers were still discovering what the new medium could achieve, sometimes with spectacularly bizarre results.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

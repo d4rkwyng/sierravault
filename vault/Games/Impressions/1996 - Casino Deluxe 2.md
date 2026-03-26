@@ -18,7 +18,7 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 ---
  Casino Deluxe 2
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -40,6 +40,11 @@ Casino Deluxe 2 supported both Windows 3.1 and Windows 95 platforms, and notably
 > **Series:** Casino Deluxe
 > **Protagonist:** Player Avatar
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

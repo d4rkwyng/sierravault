@@ -18,7 +18,7 @@ tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game was "favored for the smooth animation, fast 8-direction scrolling and r
 > **Release Year:** 1985
 > **Series:** Thexder
 > **Sierra Lineage:** Licensed Title
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

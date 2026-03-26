@@ -17,7 +17,7 @@ tags: [1980s, none, sierra]
 ---
 # Sierra Championship Boxing
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ Sierra Championship Boxing offered three distinct play modes to accommodate diff
 > **Series:** None
 > **Protagonist:** Player-created Boxer
 > **Sierra Lineage:** Third-Party Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

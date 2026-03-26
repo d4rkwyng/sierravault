@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, shannara-standalone, sierra]
 ---
 # Shannara
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Interestingly, author Terry Brooks himself had virtually no involvement with the
 > **Series:** Standalone (Shannara novels)
 > **Protagonist:** Jak Ohmsford
 > **Sierra Lineage:** Sierra Alumni
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

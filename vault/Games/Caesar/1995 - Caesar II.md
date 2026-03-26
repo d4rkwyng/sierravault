@@ -17,7 +17,7 @@ tags: [1990s, caesar, impressions, sierra]
 ---
 # Caesar II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game represented a major technical leap for the series, featuring pre-render
 > **Release Year:** 1995
 > **Series:** Caesar
 > **Sierra Lineage:** Sierra Label (Impressions)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

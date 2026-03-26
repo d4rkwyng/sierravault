@@ -18,7 +18,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ PGA Championship Golf 2000 was the first golf simulation to offer both complete 
 > **Series:** PGA Championship Golf
 > **Protagonist:** Custom Player Character
 > **Sierra Lineage:** Sierra Sports
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

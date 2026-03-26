@@ -17,7 +17,7 @@ tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
 # The Incredible Machine
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ What made The Incredible Machine truly remarkable was its deterministic physics 
 > **Release Year:** 1993
 > **Series:** The Incredible Machine
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -92,6 +97,10 @@ The game's educational value has made it a lasting presence in classrooms worldw
 
 In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

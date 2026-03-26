@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, al-lowe, hi-res-learning, sierra]
 ---
 # Dragon's Keep
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game helped children develop reading comprehension through a controlled voca
 > **Series:** Hi-Res Learning
 > **Protagonist:** Unnamed Child
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

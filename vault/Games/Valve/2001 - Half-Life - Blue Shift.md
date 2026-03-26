@@ -18,7 +18,7 @@ tags: [2000s, half-life, shooter, sierra]
 ---
 # Half-Life: Blue Shift
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Released on June 12, 2001 in North America, Blue Shift offered a notably shorter
 > **Series:** Half-Life
 > **Protagonist:** Barney Calhoun
 > **Sierra Lineage:** Late Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

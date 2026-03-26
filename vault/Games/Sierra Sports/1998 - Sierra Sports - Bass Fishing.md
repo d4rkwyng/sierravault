@@ -18,7 +18,7 @@ tags: [1990s, sierra, trophy-bass]
 ---
 # Sierra Sports Bass Fishing
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The Trophy Bass series began with the original Trophy Bass, which was fully spon
 > **Release Year:** 1995-2000 (series span)
 > **Series:** Trophy Bass
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

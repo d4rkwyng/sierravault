@@ -16,7 +16,7 @@ last_updated: '2026-02-04'
 
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -32,6 +32,11 @@ The game was developed using Sierra's Creative Interpreter (SCI) engine, though 
 > **Release Year:** 1993
 > **Series:** Hoyle
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

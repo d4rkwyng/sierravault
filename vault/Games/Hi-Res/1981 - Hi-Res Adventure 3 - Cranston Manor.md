@@ -17,7 +17,7 @@ tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Before Sierra became famous for their revolutionary King's Quest series, the Hi-
 > **Series:** Hi-Res Adventure
 > **Protagonist:** Unnamed treasure hunter
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

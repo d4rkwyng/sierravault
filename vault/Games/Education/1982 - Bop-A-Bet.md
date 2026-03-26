@@ -17,7 +17,7 @@ tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The game has achieved a degree of cult status among Sierra collectors, with the 
 > **Series:** Hi-Res Learning Series (Sierra release)
 > **Protagonist:** Boxing Glove (player-controlled)
 > **Sierra Lineage:** Acquired Title
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

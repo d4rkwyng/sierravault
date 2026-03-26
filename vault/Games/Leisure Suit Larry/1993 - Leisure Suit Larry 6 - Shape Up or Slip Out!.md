@@ -17,7 +17,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 6: Shape Up or Slip Out!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ Set entirely at the luxurious La Costa Lotta health spa resort, the game follows
 > **Release Year:** 1993
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

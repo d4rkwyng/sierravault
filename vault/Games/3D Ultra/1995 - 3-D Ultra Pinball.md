@@ -19,7 +19,7 @@ tags: [1990s, 3-d-ultra-pinball, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3-D Ultra Pinball
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The 3-D Ultra Pinball series went on to sell more than half a million copies by 
 > **Series:** 3-D Ultra Pinball
 > **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

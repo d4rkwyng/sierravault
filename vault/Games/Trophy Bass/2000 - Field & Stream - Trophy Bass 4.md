@@ -18,7 +18,7 @@ tags: [2000s, sierra, trophy-bass]
 ---
 # Trophy Bass
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game emerged as part of Sierra's expansion into sports simulation games duri
 > **Release Year:** 1995
 > **Series:** Trophy Bass
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -93,6 +98,10 @@ Trophy Bass established a successful franchise that spawned multiple sequels inc
 
 The game's influence extended beyond the immediate fishing simulation genre, establishing design principles for authentic sports simulation that emphasized realism over arcade-style gameplay[^ref-21]. Despite not being available on modern digital distribution platforms like Steam[^ref-27], the game maintains an active preservation community through sites like Internet Archive and GOG wishlists[^ref-28].
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

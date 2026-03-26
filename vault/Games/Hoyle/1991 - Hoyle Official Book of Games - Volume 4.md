@@ -17,7 +17,7 @@ tags: [1990s, hoyle-s-official-book-of-games, sci, sierra]
 ---
 # Hoyle Official Book of Games Volume 4
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The Hoyle series derived its name and authority from Edmond Hoyle, the 18th-cent
 > **Release Year:** 1991/1993
 > **Series:** Hoyle's Official Book of Games
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

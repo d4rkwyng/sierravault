@@ -17,7 +17,7 @@ tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! Anniversary
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ One of the defining features of the Anniversary edition is its dual control sche
 > **Series:** Gold Rush!
 > **Protagonist:** Jerrod Wilson
 > **Sierra Lineage:** Sierra Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

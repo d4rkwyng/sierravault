@@ -17,7 +17,7 @@ tags: [1980s, sierra, standalone]
 ---
 # Sammy Lightfoot
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game's promotional material embraced its circus theme with carnival barker-s
 > **Series:** None
 > **Protagonist:** Sammy Lightfoot
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

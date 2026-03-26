@@ -17,7 +17,7 @@ tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allow
 > **Series:** Hoyle
 > **Protagonist:** N/A (Player-created characters)
 > **Sierra Lineage:** Sierra Attractions
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Game Content
 

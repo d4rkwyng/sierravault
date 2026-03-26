@@ -17,7 +17,7 @@ tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Warren Schwader's work on Hi-Res Cribbage ultimately led to his hiring as On-Lin
 > **Series:** Hi-Res Series[^ref-7]
 > **Protagonist:** N/A (Card Game)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 1: Featuring Uncle Archibald
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ One of the series' innovative features was its interoperability: if multiple Pla
 > **Series:** Playtoons
 > **Protagonist:** Two unnamed children
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

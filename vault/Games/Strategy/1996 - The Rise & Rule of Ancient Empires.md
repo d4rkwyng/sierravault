@@ -18,7 +18,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # The Rise & Rule of Ancient Empires
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game featured six playable civilizations—Greeks, Egyptians, Indians, Mesop
 > **Release Year:** 1996
 > **Series:** None
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

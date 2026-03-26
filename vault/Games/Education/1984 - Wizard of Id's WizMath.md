@@ -18,7 +18,7 @@ tags: [1980s, educational, n-a, sierra]
 ---
 # Wizard of Id's WizMath
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ As a licensed title, WizMath holds the distinction of being the second game to f
 > **Series:** N/A
 > **Protagonist:** Spook[^ref-4]
 > **Sierra Lineage:** Licensed Title
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

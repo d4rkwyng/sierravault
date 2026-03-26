@@ -19,7 +19,7 @@ tags: [1990s, adventure, jane-jensen, police-quest, sci, sierra]
 ---
 # Police Quest III: The Kindred
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The development of Police Quest III was marked by significant behind-the-scenes 
 > **Series:** Police Quest
 > **Protagonist:** Sonny Bonds
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

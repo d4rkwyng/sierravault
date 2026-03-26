@@ -18,7 +18,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
  Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -40,6 +40,11 @@ The game introduces players to the valley of Spielburg, a Germanic-inspired fant
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero (player-created)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

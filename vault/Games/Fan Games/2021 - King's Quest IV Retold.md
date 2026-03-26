@@ -17,7 +17,7 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 ---
 # King's Quest IV Retold
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ A subsequent enhanced version, King's Quest IV Retold VGA Talkie, was later deve
 > **Series:** King's Quest (Fan Remake)
 > **Protagonist:** Princess Rosella
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

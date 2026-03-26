@@ -17,7 +17,7 @@ tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: March 18, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 > [!info]- Game Info
 > - **Release Year:** 1990
@@ -30,7 +30,7 @@ tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 > - **Media:** CD-ROM, Floppy Disk
 > - **Rating:** E for Everyone
 > 
-<small style="color: gray">Last updated: March 18, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 Last updated: March 18, 2026
 
@@ -48,6 +48,11 @@ The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goo
 > **Release Year:** 1987
 > **Series:** Mixed-Up
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

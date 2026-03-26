@@ -17,7 +17,7 @@ tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ After completing their Space Quest II remake in 2011, Infamous Adventures shifte
 > **Series:** King's Quest
 > **Protagonist:** Princess Rosella
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Development
 

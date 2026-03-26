@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, al-lowe, sierra, standalone]
 ---
 # Troll's Tale
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -96,6 +96,11 @@ Sierra acquired Troll's Tale from Sunnysoft along with Dragon's Keep and Bop-A-B
 > **Release Year:** 1983
 > **Series:** null
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

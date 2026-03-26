@@ -17,7 +17,7 @@ tags: [1990s, impressions, sierra, strategy]
 ---
 # Discovery: In the Steps of Columbus
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The gameplay draws comparisons to Sid Meier's Civilization, requiring players to
 > **Series:** N/A
 > **Protagonist:** Player-controlled conquistador
 > **Sierra Lineage:** Third-Party Historical
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

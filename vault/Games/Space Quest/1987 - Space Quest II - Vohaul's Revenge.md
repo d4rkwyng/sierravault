@@ -17,7 +17,7 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 ---
 # Space Quest II: Vohaul's Revenge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the sequel to Space Quest: The Sarien Encounter and continues the misadventures of Roger Wilco as he confronts Sludge Vohaul, the villain who was behind the original Sarien attack[^ref-3][^ref-6]. Space Quest II was the last game in the series to use Sierra's AGI engine before the transition to SCI for future titles[^ref-3][^ref-4]. The game was a commercial success, selling over 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
@@ -32,6 +32,11 @@ Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game deve
 > **Series:** Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 Several months after saving his home world of Xenon from the dangers of the Sariens, Roger Wilco accepts a position as Head Janitor aboard Xenon Orbital Station 4 as his fame fades into obscurity[^ref-3]. Contacted by his superiors to clean up a mess on a recently arrived shuttle, Roger finds himself ambushed in the station's hangar bay, where he is knocked out and abducted by unknown assailants[^ref-3].

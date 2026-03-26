@@ -17,7 +17,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 ---
 # Conquests of the Longbow: The Legend of Robin Hood
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite being released during Sierra's golden age of adventure gaming, the title
 > **Series:** Conquests
 > **Protagonist:** Robin Hood
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

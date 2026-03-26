@@ -17,7 +17,7 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was designed as a casual-friendly collection that brought together a wi
 > **Series:** Hoyle
 > **Protagonist:** N/A
 > **Sierra Lineage:** Extended Sierra Family
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Game Content
 

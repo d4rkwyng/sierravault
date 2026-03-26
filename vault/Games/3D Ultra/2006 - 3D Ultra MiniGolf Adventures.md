@@ -18,7 +18,7 @@ tags: [2000s, 3d-ultra-minigolf, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Minigolf Adventures
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Beyond single-player tournament modes, 3D Ultra Minigolf Adventures supports mul
 > **Series:** 3D Ultra Minigolf
 > **Protagonist:** Customizable Golfer (4 characters available)
 > **Sierra Lineage:** Sierra On-Line
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

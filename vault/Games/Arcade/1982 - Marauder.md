@@ -17,7 +17,7 @@ tags: [1980s, none, shooter, sierra]
 ---
 # Marauder
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite receiving mixed contemporary reviews and having modest sales, *Marauder*
 > **Series:** None
 > **Protagonist:** The Marauder
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

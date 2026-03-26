@@ -19,7 +19,7 @@ tags: [1990s, sierra, simulation, standalone]
 ---
 # Detroit
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ As president of the company, players are responsible for financing, research and
 > **Series:** Standalone
 > **Protagonist:** Player-created company president
 > **Sierra Lineage:** Sierra Published
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

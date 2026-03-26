@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 2.0
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game continued Sierra's mission to "humanize" computer chess, a concept Fren
 > **Release Year:** 1999
 > **Series:** Power Chess
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

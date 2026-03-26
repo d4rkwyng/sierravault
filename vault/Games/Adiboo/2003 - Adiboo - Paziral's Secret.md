@@ -17,7 +17,7 @@ tags: [2000s, adibou, coktel, racing, sierra]
 ---
 # Adiboo & Paziral's Secret
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ Set on the fictional Planet Celesta, players take control of the intrepid explor
 > **Series:** Adibou[^ref-8]
 > **Protagonist:** Adiboo
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

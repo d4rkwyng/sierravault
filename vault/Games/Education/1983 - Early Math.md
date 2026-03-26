@@ -18,7 +18,7 @@ tags: [1980s, educational, sierra, talking-tutor]
 ---
 # Early Math
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The game employs a point-and-click interface with drag-and-drop mechanics, makin
 > **Series:** Talking Tutor[^ref-5]
 > **Protagonist:** Loid (animated alien guide)
 > **Sierra Lineage:** Sierra Subsidiary
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

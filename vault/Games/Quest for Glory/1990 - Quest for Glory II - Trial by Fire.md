@@ -19,7 +19,7 @@ tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory II: Trial by Fire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game developed and published by [[Sierra On-Line]] for MS-DOS and Amiga[^ref-1][^ref-2]. Designed by [[Lori Ann Cole]] and [[Corey Cole]], it is the sequel to Quest for Glory: So You Want to Be a Hero and continues the story of the Hero of Spielburg[^ref-1][^ref-3]. The game was the last EGA game created by Sierra On-Line, following development processes intended for the graphically superior VGA games, which made its development difficult[^ref-1][^ref-4]. The manual is illustrated by Marvel Comics artist Ernie Chan[^ref-1]. According to Corey Cole, the game cost $450,000 to develop[^ref-1]. Trial by Fire is the only game in the series that was never officially remade with VGA graphics by Sierra, though AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-5].
@@ -39,6 +39,11 @@ Quest for Glory II: Trial by Fire is a 1990 adventure/role-playing game develope
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 The story is inspired by various Middle Eastern myths and stories, including Arabian Nights[^ref-1]. Directly following from the events of the first game, the newly proclaimed Hero of Spielburg travels by flying carpet with his friends Abdulla Doo, Shameen and Shema to the desert city of Shapeir[^ref-1][^ref-3]. The city is threatened by magical elementals of fire, earth, wind, and water, while the Emir Arus al-Din of Shapeir's sister city Raseir is missing and his city has fallen under tyranny[^ref-1].

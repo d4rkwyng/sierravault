@@ -17,7 +17,7 @@ tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game represents the third installment in the Caesar series and is widely con
 > **Release Year:** 1998
 > **Series:** Caesar
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -126,6 +131,10 @@ The game's influence extends beyond its immediate commercial success through its
 
 Caesar III inspired numerous spiritual successors and influenced the development of later city-building games. Recent titles like Seabed Settlers have been explicitly described as "Caesar 3-inspired" games that translate the core mechanics to new settings[^ref-63]. The game's reputation as potentially "the BEST city-building game"[^ref-83] according to many fans has ensured its continued relevance in gaming discussions and retrospectives decades after its original release.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

@@ -18,7 +18,7 @@ tags: [1990s, n-a, sierra, strategy]
 ---
 # Global Domination
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ Designed by [[Simon Bradbury]] and [[David Lester]], Global Domination represent
 > **Series:** N/A
 > **Protagonist:** Player-controlled faction leader
 > **Sierra Lineage:** Related Publisher
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

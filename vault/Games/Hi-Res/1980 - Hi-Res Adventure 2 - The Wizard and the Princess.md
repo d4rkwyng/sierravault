@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #2: The Wizard and the Princess
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ This pioneering title served as a precursor to Sierra On-Line's legendary [[1984
 > **Series:** Hi-Res Adventure #2
 > **Engine:** ADL[^ref-9]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -141,7 +146,6 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 - Currently not sold on modern platforms
 - Game is available as abandonware for preservation purposes
 
-## Purchase
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam

@@ -17,7 +17,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest III Redux: To Heir is Human
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Developed in secret over approximately eight years, King's Quest III Redux repre
 > **Series:** King's Quest
 > **Protagonist:** Gwydion (Prince Alexander)
 > **Sierra Lineage:** Fan Remake
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, sierra, standalone]
 ---
 # Cougar Force
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game was also released under the alternate title "Piège" in some markets[^r
 > **Series:** None
 > **Protagonist:** Agent Cougar
 > **Sierra Lineage:** Related
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

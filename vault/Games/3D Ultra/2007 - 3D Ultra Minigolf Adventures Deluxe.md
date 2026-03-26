@@ -18,7 +18,7 @@ tags: [2000s, 3-d-ultra-minigolf, sierra]
 last_modified: 2026-03-15T15:49:44-
 # 3D Ultra Minigolf Adventures Deluxe
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf game
 > **Series:** 3-D Ultra Minigolf Series
 > **Protagonist:** Player-selected character (Hector, Rosie, Joe, or Kate)
 > **Sierra Lineage:** Sierra Legacy (Vivendi)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

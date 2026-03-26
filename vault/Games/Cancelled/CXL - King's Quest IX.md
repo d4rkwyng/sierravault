@@ -18,7 +18,7 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IX (Cancelled)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -70,6 +70,11 @@ Notably, marketing decrees at Sierra during the late 1990s meant no future King'
 > **Sierra Lineage:** Core Sierra
 
 ---
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## The Five Attempts
 

@@ -17,7 +17,7 @@ tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 ---
  Hoyle Official Card Games Collection 2015
 
-<small style="color: gray">Last updated: January 27, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ The Hoyle name has been associated with card gaming expertise for over 200 years
 > **Series:** Hoyle's Official Book of Games
 > **Protagonist:** Customizable Player Avatar
 > **Sierra Lineage:** Encore/Viva Media Era
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

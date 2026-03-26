@@ -17,7 +17,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ The game pioneered many features that would become standard in sports simulation
 > **Release Year:** 1993
 > **Series:** Front Page Sports
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

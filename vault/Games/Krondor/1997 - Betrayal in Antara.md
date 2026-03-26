@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Release Year:** 1997
 > **Series:** Krondor Series
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -118,6 +123,10 @@ The game has found preservation through various digital distribution platforms a
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

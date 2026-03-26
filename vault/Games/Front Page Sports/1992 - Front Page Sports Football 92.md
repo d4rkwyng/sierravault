@@ -18,7 +18,7 @@ tags: [1990s, dynamix, front-page-sports, sierra]
 ---
 # Front Page Sports: Football
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ What distinguished Front Page Sports: Football from other football games of its 
 > **Series:** Front Page Sports
 > **Protagonist:** N/A (Player-controlled team)
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -59,6 +59,11 @@ Tragically, despite being approximately 65% complete with all live-action sequen
 > **Series:** Babylon 5
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

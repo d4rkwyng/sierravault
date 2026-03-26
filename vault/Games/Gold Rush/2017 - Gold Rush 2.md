@@ -17,7 +17,7 @@ tags: [2010s, adventure, gold-rush, sierra]
 ---
 # Gold Rush! 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Gold Rush! 2 follows the graphical style established by Gold Rush! Anniversary, 
 > **Series:** Gold Rush!
 > **Protagonist:** Jake Wilson
 > **Sierra Lineage:** Spiritual Successor
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

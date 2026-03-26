@@ -19,7 +19,7 @@ tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The original release was enhanced in 1991 with version 1.5, which added seven ne
 > **Release Year:** 1989
 > **Series:** A-10 Tank Killer Series
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

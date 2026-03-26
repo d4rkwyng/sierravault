@@ -19,7 +19,7 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Following the success of [[1990 - Red Baron]], Dynamix released version 1.5 in 1
 > **Series:** A-10 Tank Killer
 > **Protagonist:** Unnamed A-10 Pilot
 > **Sierra Lineage:** Dynamix Division
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

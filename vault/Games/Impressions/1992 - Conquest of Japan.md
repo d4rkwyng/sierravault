@@ -18,7 +18,7 @@ tags: [1990s, impressions, n-a, sierra, strategy]
 ---
 # Conquest of Japan
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Conquest of Japan was later bundled in Strategic Simulations, Inc.'s compilation
 > **Series:** N/A
 > **Protagonist:** Player-controlled Daimyo
 > **Sierra Lineage:** SSI Distribution
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -17,7 +17,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest: Mask of Eternity
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Despite its controversial nature, Mask of Eternity achieved commercial success, 
 > **Series:** King's Quest
 > **Protagonist:** Connor
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

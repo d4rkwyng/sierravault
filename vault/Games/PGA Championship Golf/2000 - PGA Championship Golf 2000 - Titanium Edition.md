@@ -17,7 +17,7 @@ tags: [2000s, pga-championship-golf, sierra]
 ---
 # PGA Championship Golf 2000 Titanium Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -33,6 +33,11 @@ As part of Sierra's sports game lineup during their Sierra Sports division era[^
 > **Release Year:** 2000
 > **Series:** PGA Championship Golf series
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
@@ -103,6 +108,10 @@ PGA Championship Golf 2000 Titanium Edition contributed to the evolution of golf
 
 The game's multiple edition releases and regional variations[^ref-23] demonstrated the commercial viability of enhanced sports simulations, paving the way for future special editions and expanded content models in sports gaming. The practice of offering free upgrades to existing customers[^ref-11] also set precedents for customer service approaches in the gaming industry.
 
+
+## Downloads
+
+Available for preservation through Archive.org.
 ## See Also
 
 

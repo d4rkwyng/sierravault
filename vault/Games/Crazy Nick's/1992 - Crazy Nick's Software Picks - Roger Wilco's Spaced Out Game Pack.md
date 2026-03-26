@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks-space-quest, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ The pack was designed to capitalize on the popularity of Space Quest's memorable
 > **Series:** Crazy Nick's Software Picks, Space Quest
 > **Protagonist:** Roger Wilco
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

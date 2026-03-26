@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 ---
 # Freddy Pharkas: Frontier Pharmacist
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -98,6 +98,11 @@ Freddy Pharkas was a breath of fresh air, far enough away from knights, space ja
 > **Release Year:** 1993[^ref-7]
 > **Series:** Freddy Pharkas
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

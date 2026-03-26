@@ -17,7 +17,7 @@ tags: [1980s, agi, educational, mixed-up-mother-goose, roberta-williams, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The picture of Mother Goose on the original game box was actually [[Roberta Will
 > **Series:** Mixed-Up Mother Goose
 > **Protagonist:** Player-created child character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 3: Secret of the Castle
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ Released initially in France and Germany in 1995, the game arrived in the United
 > **Series:** Playtoons
 > **Protagonist:** Prince Arthur
 > **Sierra Lineage:** Coktel Vision
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

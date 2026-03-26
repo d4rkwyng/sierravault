@@ -18,7 +18,7 @@ tags: [2000s, city-building-series, sierra]
 ---
 # Poseidon: Master of Atlantis
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Poseidon received generally favorable reviews upon release, with critics praisin
 > **Series:** City Building Series
 > **Protagonist:** Player-controlled city planner
 > **Sierra Lineage:** Published by Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

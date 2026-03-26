@@ -17,7 +17,7 @@ tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game's advanced physics model and texture-mapped 3D graphics were revolution
 > **Series:** IndyCar Racing
 > **Protagonist:** Player (Racing Driver)
 > **Sierra Lineage:** Subsidiary (Papyrus, acquired 1995)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Gameplay
 

@@ -17,7 +17,7 @@ tags: [1990s, dynamix, sierra, simulation, stellar-7]
 ---
 # Stellar 7: Draxon's Revenge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game featured significantly higher difficulty than earlier versions in the s
 > **Series:** Stellar 7[^ref-3]
 > **Protagonist:** Terran Commander (Raven Pilot)
 > **Sierra Lineage:** Dynamix
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

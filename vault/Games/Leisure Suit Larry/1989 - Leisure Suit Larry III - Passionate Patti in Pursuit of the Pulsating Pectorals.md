@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ The game was initially intended to be the final chapter in what Lowe and his des
 > **Release Year:** 1989
 > **Engine:** Sierra's Creative Interpreter (SCI0)[^ref-3]
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -19,7 +19,7 @@ tags: [1990s, police-quest-swat, shooter, sierra]
 ---
 # SWAT 3: Close Quarters Battle
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -39,6 +39,11 @@ Developed with extensive consultation from actual LAPD SWAT officers, including 
 > **Series:** Police Quest / SWAT (seventh installment)[^ref-7]
 > **Protagonist:** LAPD SWAT Element Leader
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

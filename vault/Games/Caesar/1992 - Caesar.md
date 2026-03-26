@@ -17,7 +17,7 @@ tags: [1990s, caesar, sierra]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: March 25, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 

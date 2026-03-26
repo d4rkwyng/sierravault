@@ -17,7 +17,7 @@ tags: [1980s, adventure, asterix, coktel, sierra]
 ---
 # Asterix: Operation Getafix
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The game was released across multiple platforms including DOS, Amiga, and Atari 
 > **Series:** Asterix
 > **Protagonist:** Asterix
 > **Sierra Lineage:** Third Party
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

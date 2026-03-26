@@ -18,7 +18,7 @@ tags: [1980s, electronic-battlefield-system, sierra, simulation]
 ---
 # Tank: The M1A1 Abrams Battle Tank Simulation
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -100,6 +100,11 @@ What set Tank apart from contemporaries like Dynamix's Abrams Battle Tank was it
 > **Series:** Electronic Battlefield System
 > **Protagonist:** M1A1 Abrams Tank Commander
 > **Sierra Lineage:** Affiliated
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

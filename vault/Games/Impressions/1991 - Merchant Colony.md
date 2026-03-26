@@ -18,7 +18,7 @@ tags: [1990s, impressions, none, sierra, simulation]
 ---
 # Merchant Colony
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Despite receiving mixed reviews from contemporary gaming magazines, Merchant Col
 > **Series:** None
 > **Protagonist:** Player-controlled merchant prince
 > **Sierra Lineage:** Non-Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

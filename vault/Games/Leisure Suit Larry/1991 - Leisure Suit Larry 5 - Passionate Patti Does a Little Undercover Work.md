@@ -17,7 +17,7 @@ tags: [1990s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -34,6 +34,11 @@ This adventure game alternates control between series protagonist Larry Laffer a
 > **Series:** Leisure Suit Larry
 > **Sierra Lineage:** Core Sierra
 > **Engine:** SCI1[^ref-12]
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

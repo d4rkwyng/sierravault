@@ -18,7 +18,7 @@ tags: [1980s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
 # Quest for Glory: So You Want to Be a Hero
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: So You Want to Be a Hero) is a 1989 adventure game/role-playing game hybrid designed by [[Lori Ann Cole]] and [[Corey Cole]], and published by [[Sierra On-Line]] for MS-DOS[^ref-1][^ref-2]. It is the first game in the Quest for Glory series and established the series' trademark mix of graphical adventure gaming with role-playing elements such as statistic building that affect the player's ability to accomplish certain tasks[^ref-1]. The game was originally released with EGA graphics in October 1989, with a VGA remake released in July 1992[^ref-1][^ref-3]. The game was renamed from Hero's Quest to Quest for Glory in 1990 due to trademark conflicts with the HeroQuest board game[^ref-1][^ref-4]. Ports for the Amiga, Atari ST, and NEC PC-9801 were released in the early 1990s[^ref-1].
@@ -34,6 +34,11 @@ Quest for Glory: So You Want to Be a Hero (originally released as Hero's Quest: 
 > **Series:** Quest for Glory
 > **Protagonist:** The Hero (unnamed, customizable)
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 In the valley barony of Spielburg, the evil ogress Baba Yaga has cursed the land and the baron who tried to drive her off[^ref-1][^ref-4]. The baron's daughter has disappeared and his son has been transformed into a bear, while the land is ravaged by monsters and brigands[^ref-1]. The Valley of Spielburg is in need of a Hero able to solve these problems[^ref-1].

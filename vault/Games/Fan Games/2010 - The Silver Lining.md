@@ -18,7 +18,7 @@ tags: [2010s, adventure, king-s-quest-unofficial-fan-game, sierra]
 ---
 # The Silver Lining
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ The project faced significant legal challenges during its development, including
 > **Series:** King's Quest (unofficial fan continuation)
 > **Protagonist:** King Graham
 > **Sierra Lineage:** Fan Project
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -20,7 +20,7 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 ---
 # Colossal Cave 3D Adventure
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 
 ## See Also
@@ -88,6 +88,11 @@ Released on January 19, 2023 across multiple platforms including PC, consoles, a
 > **Series:** Standalone
 > **Protagonist:** Unnamed Adventurer
 > **Sierra Lineage:** Sierra Alumni
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

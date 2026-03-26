@@ -18,7 +18,7 @@ tags: [1990s, rpg, sierra, standalone]
 ---
 # The Realm Online
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -36,6 +36,11 @@ What makes The Realm Online particularly remarkable is its longevity—it holds 
 > **Series:** Standalone
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

@@ -18,7 +18,7 @@ tags: [1990s, air-force-commander, sierra, strategy]
 ---
 # WW2 Air Force Commander
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -38,6 +38,11 @@ Developed during a period when flight simulators and war strategy games were gai
 > **Series:** Air Force Commander
 > **Protagonist:** Player-controlled Air Force Commander
 > **Sierra Lineage:** Affiliated Studio
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

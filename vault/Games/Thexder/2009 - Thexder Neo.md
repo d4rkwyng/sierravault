@@ -17,7 +17,7 @@ tags: [2000s, shooter, sierra, thexder]
 ---
  Thexder Neo
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -37,6 +37,11 @@ The remake includes revamped graphics, a novice mode for struggling players, six
 > **Release Year:** 2009
 > **Series:** Thexder
 > **Sierra Lineage:** Licensed (Post-Sierra)
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 

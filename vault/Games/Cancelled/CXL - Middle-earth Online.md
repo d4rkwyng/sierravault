@@ -17,7 +17,7 @@ tags: [rpg, sierra, the-lord-of-the-rings]
 ---
 # Middle Earth Online
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: 2026-03-26
 
 ## Overview
 
@@ -35,6 +35,11 @@ The game was distinguished by its bold design philosophy that embraced controver
 > **Series:** The Lord of the Rings
 > **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
+
+
+## **Purchase / Digital Stores**
+
+Not currently available for digital purchase.
 
 ## Story Summary
 
