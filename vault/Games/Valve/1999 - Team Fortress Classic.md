@@ -249,19 +249,13 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 - [[1999 - Half-Life - Opposing Force|← Previous: Half-Life - Opposing Force]]
 - [[2000 - Counter-Strike|→ Next: Counter-Strike]]
 
-[[1998 - Half-Life]]
-
-[[2000 - Gunman Chronicles]]
-
-[[2000 - Ricochet]]
-
-[[2001 - Deathmatch Classic]]
-
-[[2001 - Half-Life - Blue Shift]]
-
-[[2004 - Counter-Strike - Condition Zero]]
-
-[[2004 - Half-Life 2]]
+- [[1998 - Half-Life]]
+- [[2000 - Gunman Chronicles]]
+- [[2000 - Ricochet]]
+- [[2001 - Deathmatch Classic]]
+- [[2001 - Half-Life - Blue Shift]]
+- [[2004 - Counter-Strike - Condition Zero]]
+- [[2004 - Half-Life 2]]
 
 ## References
 

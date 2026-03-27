@@ -198,9 +198,8 @@ The series continued with at least four additional installments: Playtoons 2: Th
 
 - [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|→ Next: Playtoons 2 - The Case of the Counterfeit Collaborator]]
 
-[[1995 - Playtoons 3 - The Secret of the Castle]]
-
-[[1995 - Playtoons 4 - The Mandarine Prince]]
+- [[1995 - Playtoons 3 - The Secret of the Castle]]
+- [[1995 - Playtoons 4 - The Mandarine Prince]]
 
 ## References
 

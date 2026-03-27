@@ -280,9 +280,9 @@ Massive Entertainment would later develop World in Conflict (2007) and eventuall
 
 ## See Also
 
-- **Related:** [[2000 - Ground Control - Dark Conspiracy]]
+- [[2000 - Ground Control]]
 
-[[2000 - Ground Control]]
+- **Related:** [[2000 - Ground Control - Dark Conspiracy]]
 
 ## References
 

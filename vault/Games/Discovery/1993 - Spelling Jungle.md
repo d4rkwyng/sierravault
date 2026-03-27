@@ -188,12 +188,9 @@ The game also stands as a testament to the challenges of software preservation, 
 
 ## See Also
 
-
-[[1993 - Ready Set Read with Bananas Jack]]
-
-[[1993 - Turbo Learning - Mega Math]]
-
-[[1994 - Spelling Blizzard]]
+- [[1993 - Ready Set Read with Bananas Jack]]
+- [[1993 - Turbo Learning - Mega Math]]
+- [[1994 - Spelling Blizzard]]
 
 ## References
 

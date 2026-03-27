@@ -264,15 +264,14 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 
 ## See Also
 
+- [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
+
+- [[1993 - Stellar 7 - Draxon's Revenge]]
+- [[1993 - Stellar-Fire]]
+
 - **Arctic Fox** (1986): A spiritual successor using similar mechanics in an Arctic setting
 - **Nova 9: The Return of Gir Draxon** (1991): Direct sequel continuing the conflict with Draxon
 - **Stellar 7: Draxon's Revenge** (1993): 3DO remake/sequel with enhanced graphics and voice acting
-
-- [[1991 - Nova 9 - The Return of Gir Draxon|→ Next: Nova 9 - The Return of Gir Draxon]]
-
-[[1993 - Stellar 7 - Draxon's Revenge]]
-
-[[1993 - Stellar-Fire]]
 
 ## References
 

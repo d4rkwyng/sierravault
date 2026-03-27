@@ -134,8 +134,7 @@ Despite technical obsolescence, the game continues to attract interest from retr
 
 ## See Also
 
-
-[[1995 - Shivers]]
+- [[1995 - Shivers]]
 
 ## References
 

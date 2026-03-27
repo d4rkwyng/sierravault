@@ -204,24 +204,19 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 
 ## See Also
 
-- Spinoff title; does not directly continue the main series timeline
 - [[1995 - The Incredible Machine 3.0|← Previous: The Incredible Machine 3.0]]
 - [[2000 - Return of The Incredible Machine - Contraptions|→ Next: Return of The Incredible Machine - Contraptions]]
+
+- [[1992 - The Incredible Machine]]
+- [[1993 - Sid & Al's Incredible Toons]]
+- [[1993 - The Even More Incredible Machine]]
+- [[1994 - The Incredible Machine 2]]
+- [[1994 - The Incredible Toon Machine]]
+- [[2001 - The Incredible Machine - Even More Contraptions]]
+- [[2011 - The Incredible Machine (2011)]]
+
+- Spinoff title; does not directly continue the main series timeline
 - [[Jeff Tunnell]] - Creator
-
-[[1992 - The Incredible Machine]]
-
-[[1993 - Sid & Al's Incredible Toons]]
-
-[[1993 - The Even More Incredible Machine]]
-
-[[1994 - The Incredible Machine 2]]
-
-[[1994 - The Incredible Toon Machine]]
-
-[[2001 - The Incredible Machine - Even More Contraptions]]
-
-[[2011 - The Incredible Machine (2011)]]
 
 ## References
 

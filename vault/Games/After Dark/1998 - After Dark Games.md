@@ -194,10 +194,12 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 
 ## See Also
 
-- **Related:** After Dark (1992) (original screensaver software)
 - [[1991 - More After Dark|← Previous: More After Dark]]
 
-[[1989 - After Dark]]
+- [[1989 - After Dark]]
+
+- **Related:** After Dark (1992) (original screensaver software)
+
 ## References
 
 [^ref-1]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) - General overview, New York Times quote, game descriptions

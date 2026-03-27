@@ -216,21 +216,16 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 
 - [[1992 - The Incredible Machine|← Previous: The Incredible Machine]]
 - [[1993 - The Even More Incredible Machine|→ Next: The Even More Incredible Machine]]
+
+- [[1994 - The Incredible Machine 2]]
+- [[1994 - The Incredible Toon Machine]]
+- [[1995 - The Incredible Machine 3.0]]
+- [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+- [[2000 - Return of The Incredible Machine - Contraptions]]
+- [[2001 - The Incredible Machine - Even More Contraptions]]
+- [[2011 - The Incredible Machine (2011)]]
+
 - [[Jeff Tunnell]] - Creator
-
-[[1994 - The Incredible Machine 2]]
-
-[[1994 - The Incredible Toon Machine]]
-
-[[1995 - The Incredible Machine 3.0]]
-
-[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-
-[[2000 - Return of The Incredible Machine - Contraptions]]
-
-[[2001 - The Incredible Machine - Even More Contraptions]]
-
-[[2011 - The Incredible Machine (2011)]]
 
 ## References
 

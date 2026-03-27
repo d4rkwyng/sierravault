@@ -330,21 +330,14 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 
 - [[1999 - Half-Life - Opposing Force|→ Next: Half-Life - Opposing Force]]
 
-[[1999 - Team Fortress Classic]]
-
-[[2000 - Counter-Strike]]
-
-[[2000 - Gunman Chronicles]]
-
-[[2000 - Ricochet]]
-
-[[2001 - Deathmatch Classic]]
-
-[[2001 - Half-Life - Blue Shift]]
-
-[[2004 - Counter-Strike - Condition Zero]]
-
-[[2004 - Half-Life 2]]
+- [[1999 - Team Fortress Classic]]
+- [[2000 - Counter-Strike]]
+- [[2000 - Gunman Chronicles]]
+- [[2000 - Ricochet]]
+- [[2001 - Deathmatch Classic]]
+- [[2001 - Half-Life - Blue Shift]]
+- [[2004 - Counter-Strike - Condition Zero]]
+- [[2004 - Half-Life 2]]
 
 ## References
 

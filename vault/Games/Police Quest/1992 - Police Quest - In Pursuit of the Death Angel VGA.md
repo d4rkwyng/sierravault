@@ -272,16 +272,10 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 
 ## See Also
 
-Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: Open Season]]
-
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-
-[[1988 - Police Quest II - The Vengeance]]
-
-[[1991 - Police Quest III - The Kindred]]
-
-[[1993 - Police Quest - Open Season]]
+- [[1987 - Police Quest - In Pursuit of the Death Angel]]
+- [[1988 - Police Quest II - The Vengeance]]
+- [[1991 - Police Quest III - The Kindred]]
+- [[1993 - Police Quest - Open Season]]
 
 ## References
 

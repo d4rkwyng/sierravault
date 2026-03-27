@@ -252,14 +252,14 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 
 ## See Also
 
+- [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
+
+- [[2023 - Gobliiins 5 - The Morgloton Invasion]]
+- [[2026 - Gobliins 6]]
+
 - **Related:** [[1991 - Gobliiins]] (spiritual predecessor)
 - **Related:** [[1992 - Gobliins 2 - The Prince Buffoon]]
 - **Related:** [[1993 - Goblins Quest 3]]
-- [[2009 - Gobliiins 4|→ Next: Gobliiins 4]]
-
-[[2023 - Gobliiins 5 - The Morgloton Invasion]]
-
-[[2026 - Gobliins 6]]
 
 ## References
 

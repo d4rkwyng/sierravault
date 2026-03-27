@@ -205,33 +205,20 @@ The game represents Impressions Games' continued experimentation with historical
 - [[1992 - Air Force Commander|← Previous: Air Force Commander]]
 - [[1992 - Discovery - In the Steps of Columbus|→ Next: Discovery - In the Steps of Columbus]]
 
-[[1991 - Cohort Fighting for Rome]]
-
-[[1991 - Fort Apache]]
-
-[[1991 - Merchant Colony]]
-
-[[1992 - Air Bucks]]
-
-[[1993 - Cohort II - Fighting for Rome]]
-
-[[1993 - WW2 Air Force Commander]]
-
-[[1994 - Detroit]]
-
-[[1994 - Front Lines]]
-
-[[1995 - Breach 3]]
-
-[[1995 - Casino De Luxe]]
-
-[[1995 - Conqueror - A.D. 1086]]
-
-[[1995 - Powerhouse]]
-
-[[1996 - Casino Deluxe 2]]
-
-[[2002 - Emperor - Rise of the Middle Kingdom]]
+- [[1991 - Cohort Fighting for Rome]]
+- [[1991 - Fort Apache]]
+- [[1991 - Merchant Colony]]
+- [[1992 - Air Bucks]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[1995 - Conqueror - A.D. 1086]]
+- [[1995 - Powerhouse]]
+- [[1996 - Casino Deluxe 2]]
+- [[2002 - Emperor - Rise of the Middle Kingdom]]
 
 ## References
 
@@ -253,6 +240,4 @@ The game represents Impressions Games' continued experimentation with historical
 [^ref-21]: [Online Classic Games – Conquest of Japan](https://onlineclassicgames.com/game/conquest-of-japan/) – graphics praise quote
 [^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/conquest-of-japan-1db/play-1db) – DOSBox compatibility
 
-[[1992 - Air Force Commander]]
-[[1992 - Discovery - In the Steps of Columbus]]
 [^ref-23]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Conquest+of+Japan) – alternate title confirmation

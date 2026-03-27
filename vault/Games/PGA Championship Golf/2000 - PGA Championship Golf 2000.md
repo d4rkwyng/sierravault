@@ -142,11 +142,12 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 
 ## See Also
 
-**Series Cross-References:**
 - [[1998 - PGA Championship Golf]]
 - [[1999 - PGA Championship Golf 1999 Edition]]
 - [[2000 - PGA Championship Golf 2000 - Titanium Edition]]
 - [[2001 - PGA Championship Golf - Collector's Edition]]
+
+**Series Cross-References:**
 
 ## References
 

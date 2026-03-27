@@ -277,14 +277,10 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 ## See Also
 
-
-[[1998 - Grand Prix Legends]]
-
-[[1998 - Sierra Sports - Bass Fishing]]
-
-[[1998 - Sierra Sports Skiing 1999 Edition]]
-
-[[1999 - Professional Bull Rider]]
+- [[1998 - Grand Prix Legends]]
+- [[1998 - Sierra Sports - Bass Fishing]]
+- [[1998 - Sierra Sports Skiing 1999 Edition]]
+- [[1999 - Professional Bull Rider]]
 
 ## References
 

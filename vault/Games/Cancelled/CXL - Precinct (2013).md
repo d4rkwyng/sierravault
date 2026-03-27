@@ -220,8 +220,8 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 - [Sierra Classic Gaming Entry](https://sierraclassicgaming.com/game/precinct/) - Game database documentation
 
 ## See Also
-- **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
+- **Spiritual Connection:** Police Quest series ([[Sierra On-Line]], 1987-1993)
 
 ## References
 

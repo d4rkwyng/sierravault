@@ -112,9 +112,9 @@ Game documentation including manuals[^ref-25] and video content[^ref-26] has bee
 
 - [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]
 - [[1995 - Command Aces of the Deep|→ Next: Command Aces of the Deep]]
-- [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 
-[[1992 - Aces of the Pacific]]
+- [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
+- [[1992 - Aces of the Pacific]]
 
 ## Legacy
 

@@ -281,8 +281,8 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 - [Manual PDF](https://archive.org/stream/SHIV102/Shivers_-_Manual_-_PC_djvu.txt) - Internet Archive
 
 ## See Also
-- [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two - Harvest of Souls]]
 
+- [[1997 - Shivers Two - Harvest of Souls|→ Next: Shivers Two - Harvest of Souls]]
 
 ## References
 

@@ -228,8 +228,7 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 
 ## See Also
 
-
-[[1983 - Oils Well]]
+- [[1983 - Oils Well]]
 
 ## References
 

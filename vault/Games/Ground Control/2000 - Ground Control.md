@@ -253,7 +253,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 
 - [[2000 - Ground Control - Dark Conspiracy|→ Next: Ground Control - Dark Conspiracy]]
 
-[[2004 - Ground Control II - Operation Exodus]]
+- [[2004 - Ground Control II - Operation Exodus]]
 
 ## References
 

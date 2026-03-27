@@ -275,19 +275,13 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 - [[2001 - Deathmatch Classic|← Previous: Deathmatch Classic]]
 - [[2004 - Counter-Strike - Condition Zero|→ Next: Counter-Strike - Condition Zero]]
 
-[[1998 - Half-Life]]
-
-[[1999 - Half-Life - Opposing Force]]
-
-[[1999 - Team Fortress Classic]]
-
-[[2000 - Counter-Strike]]
-
-[[2000 - Gunman Chronicles]]
-
-[[2000 - Ricochet]]
-
-[[2004 - Half-Life 2]]
+- [[1998 - Half-Life]]
+- [[1999 - Half-Life - Opposing Force]]
+- [[1999 - Team Fortress Classic]]
+- [[2000 - Counter-Strike]]
+- [[2000 - Gunman Chronicles]]
+- [[2000 - Ricochet]]
+- [[2004 - Half-Life 2]]
 
 ## References
 

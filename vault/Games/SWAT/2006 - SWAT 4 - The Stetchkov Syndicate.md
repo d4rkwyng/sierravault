@@ -273,17 +273,14 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 
 - [[2005 - SWAT 4|← Previous: SWAT 4]]
 - [[2006 - SWAT Force|→ Next: SWAT Force]]
+
+- [[1995 - Police Quest - SWAT]]
+- [[1998 - Police Quest - SWAT 2]]
+- [[1999 - SWAT 3 - Close Quarters Battle]]
+- [[2003 - SWAT - Global Strike Team]]
+- [[2007 - SWAT - Target Liberty]]
+
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-
-[[1995 - Police Quest - SWAT]]
-
-[[1998 - Police Quest - SWAT 2]]
-
-[[1999 - SWAT 3 - Close Quarters Battle]]
-
-[[2003 - SWAT - Global Strike Team]]
-
-[[2007 - SWAT - Target Liberty]]
 
 ## References
 

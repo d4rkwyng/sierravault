@@ -118,17 +118,13 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 - [[1999 - NASCAR Legends|← Previous: NASCAR Legends]]
 - [[2001 - NASCAR Racing 4|→ Next: NASCAR Racing 4]]
 
-[[1994 - NASCAR Racing]]
+- [[1994 - NASCAR Racing]]
+- [[1996 - NASCAR Racing 2]]
+- [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
+- [[1999 - NASCAR Craftsman Truck Series Racing]]
+- [[2002 - NASCAR Racing 2002 Season]]
+- [[2003 - NASCAR Racing 2003 Season]]
 
-[[1996 - NASCAR Racing 2]]
-
-[[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
-
-[[1999 - NASCAR Craftsman Truck Series Racing]]
-
-[[2002 - NASCAR Racing 2002 Season]]
-
-[[2003 - NASCAR Racing 2003 Season]]
 ## References
 
 [^ref-1]: [MobyGames NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – - Developer, designer, and basic game information

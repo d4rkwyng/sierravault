@@ -304,10 +304,8 @@ The game is currently unavailable through legitimate digital storefronts due to 
 
 ## See Also
 
-
-[[2000 - No One Lives Forever]]
-
-[[2002 - No One Lives Forever 2]]
+- [[2000 - No One Lives Forever]]
+- [[2002 - No One Lives Forever 2]]
 
 ## References
 

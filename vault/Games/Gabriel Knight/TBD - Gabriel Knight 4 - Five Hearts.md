@@ -197,16 +197,10 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 
 ## See Also
 
-Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
-
-
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+- [[1993 - Gabriel Knight - Sins of the Fathers]]
+- [[1995 - The Beast Within - A Gabriel Knight Mystery]]
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 ## References
 

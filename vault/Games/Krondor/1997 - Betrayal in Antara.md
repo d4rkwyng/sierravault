@@ -120,10 +120,8 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 
 ## See Also
 
-
-[[1993 - Betrayal at Krondor]]
-
-[[1998 - Return to Krondor]]
+- [[1993 - Betrayal at Krondor]]
+- [[1998 - Return to Krondor]]
 
 ## References
 

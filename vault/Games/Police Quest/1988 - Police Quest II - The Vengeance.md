@@ -259,16 +259,10 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 ## See Also
 
-Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
-
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-
-[[1991 - Police Quest III - The Kindred]]
-
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-
-[[1993 - Police Quest - Open Season]]
+- [[1987 - Police Quest - In Pursuit of the Death Angel]]
+- [[1991 - Police Quest III - The Kindred]]
+- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+- [[1993 - Police Quest - Open Season]]
 
 ## References
 

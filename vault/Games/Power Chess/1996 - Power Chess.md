@@ -117,10 +117,8 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 
 ## See Also
 
-
-[[1998 - Power Chess 98]]
-
-[[1999 - Power Chess 2.0]]
+- [[1998 - Power Chess 98]]
+- [[1999 - Power Chess 2.0]]
 
 ## References
 

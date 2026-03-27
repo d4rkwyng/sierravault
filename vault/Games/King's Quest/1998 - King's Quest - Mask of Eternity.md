@@ -302,26 +302,15 @@ Despite its flaws, some players discovered genuine enjoyment in the game's hybri
 
 ## See Also
 
-Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest]]
-
-
-[[1984 - King's Quest - Quest for the Crown]]
-
-[[1985 - King's Quest II - Romancing the Throne]]
-
-[[1986 - King's Quest III - To Heir Is Human]]
-
-[[1988 - King's Quest IV - The Perils of Rosella]]
-
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-
-[[1994 - King's Quest VII - The Princeless Bride]]
-
-[[2015 - King's Quest]]
+- [[1984 - King's Quest - Quest for the Crown]]
+- [[1985 - King's Quest II - Romancing the Throne]]
+- [[1986 - King's Quest III - To Heir Is Human]]
+- [[1988 - King's Quest IV - The Perils of Rosella]]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+- [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+- [[1994 - King's Quest VII - The Princeless Bride]]
+- [[2015 - King's Quest]]
 
 ## References
 

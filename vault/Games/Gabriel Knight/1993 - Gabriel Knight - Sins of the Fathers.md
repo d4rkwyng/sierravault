@@ -348,15 +348,9 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 
 ## See Also
 
-Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
-
-
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-
+- [[1995 - The Beast Within - A Gabriel Knight Mystery]]
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 ## References
 
@@ -392,8 +386,4 @@ Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: B
 [^ref-31]: [Jane Jensen Official Site](https://www.janejensen.com/) — Designer biography and works
 [^ref-32]: [Computer Gaming World 1994 Awards](https://archive.org/details/Computer_Gaming_World_Issue_116) — Adventure Game of the Year
 
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-[[TBD - Gabriel Knight 4 - Five Hearts]]
 [^ref-33]: [Sierra Gamers – Gabriel Knight](https://www.sierragamers.com/gabriel-knight/) — Development history and legacy 

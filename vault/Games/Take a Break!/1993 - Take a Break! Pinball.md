@@ -211,8 +211,7 @@ The performance issues that plagued the game highlighted the challenges develope
 
 ## See Also
 
-
-[[1992 - Take a Break! Crosswords]]
+- [[1992 - Take a Break! Crosswords]]
 
 ## References
 

@@ -172,8 +172,9 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 
 ## See Also
 
-- **Next:** Jawbreaker IV
 - [[1981 - Jawbreaker|← Previous: Jawbreaker]]
+
+- **Next:** Jawbreaker IV
 
 ## References
 

@@ -220,7 +220,7 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 - [[1985 - Thexder|← Previous: Thexder]]
 - [[1995 - Thexder 95|→ Next: Thexder 95]]
 
-[[2009 - Thexder Neo]]
+- [[2009 - Thexder Neo]]
 
 ## References
 

@@ -133,11 +133,10 @@ No official digital downloads are available. The games can be found on preservat
 
 ## See Also
 
+- [[1987 - Mixed-Up Mother Goose]] • [[1991 - Mixed-Up Fairy Tales]] • [[1995 - Mixed-Up Mother Goose Deluxe]]
+
 The Mixed-Up series represents Sierra's pioneering effort in educational adventure games for children. The original 1987 game established the beloved premise of restoring order to Mother Goose Land, while the 1990 SCI Remake and subsequent versions expanded on this foundation with enhanced graphics, voice acting, and multimedia elements.
-
-[[1987 - Mixed-Up Mother Goose]] • [[1991 - Mixed-Up Fairy Tales]] • [[1995 - Mixed-Up Mother Goose Deluxe]]
-
-**Previous:** *None (first game in series)*  
+**Previous:** *None (first game in series)*
 **Next:** [[1991 - Mixed-Up Fairy Tales]]
 
 ## References

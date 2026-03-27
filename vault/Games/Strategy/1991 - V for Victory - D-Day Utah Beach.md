@@ -183,24 +183,16 @@ The game's influence extended beyond its immediate series. The similar World at 
 
 ## See Also
 
+- [[1979 - Galactic Empire]]
+- [[1987 - The Ancient Art of War at Sea]]
+- [[1991 - The Charge of the Light Brigade]]
+- [[1993 - Global Domination]]
+- [[1994 - Alien Legacy]]
+- [[1995 - High Seas Trader]]
+- [[1996 - Birthright - The Gorgon's Alliance]]
+- [[1996 - Space Bucks]]
+- [[1996 - The Rise & Rule of Ancient Empires]]
 
-[[1979 - Galactic Empire]]
-
-[[1987 - The Ancient Art of War at Sea]]
-
-[[1991 - The Charge of the Light Brigade]]
-
-[[1993 - Global Domination]]
-
-[[1994 - Alien Legacy]]
-
-[[1995 - High Seas Trader]]
-
-[[1996 - Birthright - The Gorgon's Alliance]]
-
-[[1996 - Space Bucks]]
-
-[[1996 - The Rise & Rule of Ancient Empires]]
 ## References
 
 [^ref-1]: [MobyGames – V for Victory: Battleset 1 - D-Day Utah Beach - 1944](https://www.mobygames.com/game/7/v-for-victory-battleset-1-d-day-utah-beach-1944/) – developer, publisher, designers, platforms, release dates, ratings, technical specs, version history

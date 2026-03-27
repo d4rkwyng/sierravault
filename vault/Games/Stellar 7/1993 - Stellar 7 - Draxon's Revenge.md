@@ -197,7 +197,7 @@ The game's design choices, including the significantly higher difficulty with on
 - [[1991 - Nova 9 - The Return of Gir Draxon|← Previous: Nova 9 - The Return of Gir Draxon]]
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 
-[[1990 - Stellar 7]]
+- [[1990 - Stellar 7]]
 
 ## References
 

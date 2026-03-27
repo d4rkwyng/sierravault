@@ -215,28 +215,17 @@ Despite positive reviews and a solid technical foundation, Hunter Hunted never a
 
 ## See Also
 
-
-[[1984 - Sword of Kadash]]
-
-[[1989 - David Wolf - Secret Agent]]
-
-[[1990 - Rise of the Dragon]]
-
-[[1991 - Heart of China]]
-
-[[1991 - The Adventures of Willy Beamish]]
-
-[[1992 - Johnny Castaway]]
-
-[[1992 - Quarky & Quaysoo's Turbo Science]]
-
-[[1994 - Bouncers]]
-
-[[1994 - Sierra Soccer - World Challenge Edition]]
-
-[[1996 - CyberGladiators]]
-
-[[1996 - Rama]]
+- [[1984 - Sword of Kadash]]
+- [[1989 - David Wolf - Secret Agent]]
+- [[1990 - Rise of the Dragon]]
+- [[1991 - Heart of China]]
+- [[1991 - The Adventures of Willy Beamish]]
+- [[1992 - Johnny Castaway]]
+- [[1992 - Quarky & Quaysoo's Turbo Science]]
+- [[1994 - Bouncers]]
+- [[1994 - Sierra Soccer - World Challenge Edition]]
+- [[1996 - CyberGladiators]]
+- [[1996 - Rama]]
 
 ## References
 

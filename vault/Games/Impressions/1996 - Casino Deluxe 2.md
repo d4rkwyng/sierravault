@@ -205,33 +205,21 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 - [[1995 - Powerhouse|← Previous: Powerhouse]]
 - [[2002 - Emperor - Rise of the Middle Kingdom|→ Next: Emperor - Rise of the Middle Kingdom]]
 
-[[1991 - Cohort Fighting for Rome]]
+- [[1991 - Cohort Fighting for Rome]]
+- [[1991 - Fort Apache]]
+- [[1991 - Merchant Colony]]
+- [[1992 - Air Bucks]]
+- [[1992 - Air Force Commander]]
+- [[1992 - Conquest of Japan]]
+- [[1992 - Discovery - In the Steps of Columbus]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[1995 - Conqueror - A.D. 1086]]
 
-[[1991 - Fort Apache]]
-
-[[1991 - Merchant Colony]]
-
-[[1992 - Air Bucks]]
-
-[[1992 - Air Force Commander]]
-
-[[1992 - Conquest of Japan]]
-
-[[1992 - Discovery - In the Steps of Columbus]]
-
-[[1993 - Cohort II - Fighting for Rome]]
-
-[[1993 - WW2 Air Force Commander]]
-
-[[1994 - Detroit]]
-
-[[1994 - Front Lines]]
-
-[[1995 - Breach 3]]
-
-[[1995 - Casino De Luxe]]
-
-[[1995 - Conqueror - A.D. 1086]]
 ## References
 
 [^ref-1]: [Sierra Chest – Casino Deluxe 2](https://sierrachest.com/index.php?a=games&id=401&fld=general) – release date October 22, 1996, developer Impressions Games, IBM PC platform

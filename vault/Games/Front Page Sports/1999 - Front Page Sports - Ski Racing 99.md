@@ -232,29 +232,18 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 - [[1997 - Front Page Sports Golf - Tour Course Add-On|← Previous: Front Page Sports Golf - Tour Course Add-On]]
 
-[[1992 - Front Page Sports Football 92]]
-
-[[1993 - Front Page Sports - Football Pro]]
-
-[[1994 - Front Page Sports - Baseball Pro]]
-
-[[1994 - Front Page Sports - Football Pro '95]]
-
-[[1995 - Front Page Sports - Football Pro '96]]
-
-[[1996 - Front Page Sports - Baseball Pro '96]]
-
-[[1996 - Front Page Sports - Football Pro '97]]
-
-[[1997 - Front Page Sports - Baseball Pro '98]]
-
-[[1997 - Front Page Sports - Football Pro '98]]
-
-[[1997 - Front Page Sports - Golf]]
-
-[[1997 - Front Page Sports - Ski Racing]]
-
-[[1997 - Front Page Sports - Trophy Rivers]]
+- [[1992 - Front Page Sports Football 92]]
+- [[1993 - Front Page Sports - Football Pro]]
+- [[1994 - Front Page Sports - Baseball Pro]]
+- [[1994 - Front Page Sports - Football Pro '95]]
+- [[1995 - Front Page Sports - Football Pro '96]]
+- [[1996 - Front Page Sports - Baseball Pro '96]]
+- [[1996 - Front Page Sports - Football Pro '97]]
+- [[1997 - Front Page Sports - Baseball Pro '98]]
+- [[1997 - Front Page Sports - Football Pro '98]]
+- [[1997 - Front Page Sports - Golf]]
+- [[1997 - Front Page Sports - Ski Racing]]
+- [[1997 - Front Page Sports - Trophy Rivers]]
 
 ## References
 

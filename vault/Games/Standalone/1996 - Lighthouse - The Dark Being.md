@@ -136,58 +136,32 @@ The game's influence extends to the community of adventure game enthusiasts who 
 
 ## See Also
 
-
-[[1981 - Softporn Adventure]]
-
-[[1983 - Troll's Tale]]
-
-[[1985 - Sierra Championship Boxing]]
-
-[[1985 - Stunt Flyer]]
-
-[[1985 - The Crimson Crown]]
-
-[[1986 - Kempelen]]
-
-[[1986 - Wrath of Denethenor]]
-
-[[1987 - 3-D Helicopter Simulator]]
-
-[[1988 - Silpheed]]
-
-[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-
-[[1990 - Codename - Iceman]]
-
-[[1990 - Jones in the Fast Lane]]
-
-[[1990 - Zeliard]]
-
-[[1993 - Freddy Pharkas - Frontier Pharmacist]]
-
-[[1993 - Pepper's Adventures in Time]]
-
-[[1993 - Slater & Charlie Go Camping]]
-
-[[1994 - Battle Bugs]]
-
-[[1995 - Air Cavalry]]
-
-[[1995 - Fast Attack - High Tech Submarine Warfare]]
-
-[[1995 - Shannara]]
-
-[[1995 - The Ruins of Cawdor]]
-
-[[1995 - Torin's Passage]]
-
-[[1996 - Stay Tooned!]]
-
-[[1997 - Diablo - Hellfire]]
-
-[[2001 - Arcanum]]
-
-[[2007 - World in Conflict]]
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Sierra Championship Boxing]]
+- [[1985 - Stunt Flyer]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Kempelen]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1988 - Silpheed]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Pepper's Adventures in Time]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
 
 ## References
 
@@ -217,4 +191,3 @@ The game's influence extends to the community of adventure game enthusiasts who 
 [^ref-24]: [DOSBox Wiki](https://www.dosbox.com/wiki/GAMES:Lighthouse:_The_Dark_Being) – Installation difficulty notes
 [^ref-25]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LighthouseTheDarkBeing) – Myst clone comparison
 [^ref-26]: [MobyGames Patches](https://www.mobygames.com/game/266/lighthouse-the-dark-being/patches/) – Patch information
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/lighthouse-the-dark-being/_consolidated.json) – Multiple sources from research collection

@@ -145,7 +145,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 
 - [[2014 - Gold Rush Anniversary|→ Next: Gold Rush Anniversary]]
 
-[[2017 - Gold Rush 2]]
+- [[2017 - Gold Rush 2]]
 
 ## References
 
@@ -169,4 +169,3 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 [^ref-18]: [Sunlight Games](https://www.goldrush-game.com/) – Anniversary edition details
 [^ref-19]: [Giant Bomb](https://www.giantbomb.com/gold-rush/3030-15261/) – Game database entry
 [^ref-20]: [IGDB](https://www.igdb.com/games/gold-rush) – Game database entry
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/gold-rush/_consolidated.json) – Multiple sources from research collection

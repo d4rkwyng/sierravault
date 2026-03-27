@@ -144,23 +144,17 @@ One preservation issue affects the digital versions: "The original release of th
 ## See Also
 
 - [[1993 - Sid & Al's Incredible Toons|→ Next: Sid & Al's Incredible Toons]]
+
+- [[1993 - The Even More Incredible Machine]]
+- [[1994 - The Incredible Machine 2]]
+- [[1994 - The Incredible Toon Machine]]
+- [[1995 - The Incredible Machine 3.0]]
+- [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+- [[2000 - Return of The Incredible Machine - Contraptions]]
+- [[2001 - The Incredible Machine - Even More Contraptions]]
+- [[2011 - The Incredible Machine (2011)]]
+
 - [[Jeff Tunnell]] - Creator
-
-[[1993 - The Even More Incredible Machine]]
-
-[[1994 - The Incredible Machine 2]]
-
-[[1994 - The Incredible Toon Machine]]
-
-[[1995 - The Incredible Machine 3.0]]
-
-[[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-
-[[2000 - Return of The Incredible Machine - Contraptions]]
-
-[[2001 - The Incredible Machine - Even More Contraptions]]
-
-[[2011 - The Incredible Machine (2011)]]
 
 ## References
 
@@ -184,4 +178,3 @@ One preservation issue affects the digital versions: "The original release of th
 [^ref-32]: [MobyGames - Credits](https://www.mobygames.com/game/2473/the-incredible-machine/credits/dos/) – Music composers
 [^ref-35]: [Dynamix Wiki - The Incredible Machine](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – Jeff Tunnell quote
 [^ref-37]: [Steam - Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – Spiritual successor information
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/the-incredible-machine/_consolidated.json) – Multiple sources from research collection

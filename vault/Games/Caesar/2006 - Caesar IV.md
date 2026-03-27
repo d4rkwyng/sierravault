@@ -272,9 +272,8 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 
 - [[1998 - Caesar III|← Previous: Caesar III]]
 
-[[1992 - Caesar]]
-
-[[1995 - Caesar II]]
+- [[1992 - Caesar]]
+- [[1995 - Caesar II]]
 
 ## References
 

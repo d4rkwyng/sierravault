@@ -312,14 +312,10 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 
 ## See Also
 
-
-[[1997 - Driver's Education '98]]
-
-[[1998 - Sierra Sports - Bass Fishing]]
-
-[[1998 - Sierra Sports Skiing 1999 Edition]]
-
-[[1999 - Professional Bull Rider]]
+- [[1997 - Driver's Education '98]]
+- [[1998 - Sierra Sports - Bass Fishing]]
+- [[1998 - Sierra Sports Skiing 1999 Edition]]
+- [[1999 - Professional Bull Rider]]
 
 ## References
 

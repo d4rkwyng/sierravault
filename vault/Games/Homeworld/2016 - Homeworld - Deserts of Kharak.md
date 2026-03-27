@@ -149,11 +149,9 @@ The guide features eleven sections covering different story aspects with develop
 - [[2015 - Homeworld Remastered Collection|← Previous: Homeworld Remastered Collection]]
 - [[2024 - Homeworld 3|→ Next: Homeworld 3]]
 
-[[1999 - Homeworld]]
-
-[[2000 - Homeworld - Cataclysm]]
-
-[[2003 - Homeworld 2]]
+- [[1999 - Homeworld]]
+- [[2000 - Homeworld - Cataclysm]]
+- [[2003 - Homeworld 2]]
 
 ## References
 

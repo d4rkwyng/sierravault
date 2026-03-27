@@ -147,16 +147,10 @@ The game's commitment to procedural accuracy created a template for serious game
 
 ## See Also
 
-Series: [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
-
-
-[[1988 - Police Quest II - The Vengeance]]
-
-[[1991 - Police Quest III - The Kindred]]
-
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-
-[[1993 - Police Quest - Open Season]]
+- [[1988 - Police Quest II - The Vengeance]]
+- [[1991 - Police Quest III - The Kindred]]
+- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+- [[1993 - Police Quest - Open Season]]
 
 ## References
 
@@ -201,8 +195,4 @@ Series: [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]]
 [^ref-58]: [ScummVM – AGI Engine](https://wiki.scummvm.org/index.php/AGI) — Sound card and graphics support
 [^ref-62]: [Steam – Police Quest](https://store.steampowered.com/search/?term=police+quest) — Digital availability
 
-[[1988 - Police Quest II - The Vengeance]]
-[[1991 - Police Quest III - The Kindred]]
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-[[1993 - Police Quest - Open Season]]
 [^ref-66]: [GameFAQs – Police Quest Plot](https://gamefaqs.gamespot.com/pc/564585-police-quest-in-pursuit-of-the-death-angel) — Death Angel investigation storyline 

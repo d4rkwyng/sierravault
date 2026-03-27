@@ -264,15 +264,9 @@ The remake's reception illustrates the challenges inherent in updating beloved c
 
 ## See Also
 
-Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight 4: Five Hearts]]
-
-
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
+- [[1993 - Gabriel Knight - Sins of the Fathers]]
+- [[1995 - The Beast Within - A Gabriel Knight Mystery]]
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
 ## References
 

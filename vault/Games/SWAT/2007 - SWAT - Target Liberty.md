@@ -221,19 +221,15 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 ## See Also
 
 - [[2006 - SWAT Force|← Previous: SWAT Force]]
+
+- [[1995 - Police Quest - SWAT]]
+- [[1998 - Police Quest - SWAT 2]]
+- [[1999 - SWAT 3 - Close Quarters Battle]]
+- [[2003 - SWAT - Global Strike Team]]
+- [[2005 - SWAT 4]]
+- [[2006 - SWAT 4 - The Stetchkov Syndicate]]
+
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-
-[[1995 - Police Quest - SWAT]]
-
-[[1998 - Police Quest - SWAT 2]]
-
-[[1999 - SWAT 3 - Close Quarters Battle]]
-
-[[2003 - SWAT - Global Strike Team]]
-
-[[2005 - SWAT 4]]
-
-[[2006 - SWAT 4 - The Stetchkov Syndicate]]
 
 ## References
 

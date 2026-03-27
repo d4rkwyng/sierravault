@@ -324,10 +324,8 @@ However, the game's legacy has been complicated by its commercial unavailability
 
 ## See Also
 
-
-[[2002 - No One Lives Forever 2]]
-
-[[2003 - Contract J.A.C.K.]]
+- [[2002 - No One Lives Forever 2]]
+- [[2003 - Contract J.A.C.K.]]
 
 ## References
 

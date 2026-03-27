@@ -278,15 +278,12 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 
 ## See Also
 
+- [[1999 - Homeworld]]
+- [[2000 - Homeworld - Cataclysm]]
+- [[2003 - Homeworld 2]]
+- [[2015 - Homeworld Remastered Collection]]
+
 - **Related:** [[2016 - Homeworld - Deserts of Kharak]]
-
-[[1999 - Homeworld]]
-
-[[2000 - Homeworld - Cataclysm]]
-
-[[2003 - Homeworld 2]]
-
-[[2015 - Homeworld Remastered Collection]]
 
 ## References
 

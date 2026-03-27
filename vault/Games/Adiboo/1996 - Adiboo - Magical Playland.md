@@ -228,7 +228,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 - [[1992 - A.J.'s World of Discovery|← Previous: A.J.'s World of Discovery]]
 - [[2003 - Adiboo - Paziral's Secret|→ Next: Adiboo - Paziral's Secret]]
 
-[[2004 - Adiboo and the Energy Thieves]]
+- [[2004 - Adiboo and the Energy Thieves]]
 
 ## References
 

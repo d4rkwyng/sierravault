@@ -329,14 +329,14 @@ RPG Codex summarized the series' lasting appeal: "Quest for Glory uniquely succe
 
 ## See Also
 
-- **Original Version:** [[1989 - Quest for Glory I - So You Want to Be a Hero]]
-- [[Quest for Glory Series]] - Series overview
 - [[1990 - Quest for Glory II - Trial by Fire|← Previous: Quest for Glory II - Trial by Fire]]
 - [[1992 - Quest for Glory III - Wages of War|→ Next: Quest for Glory III - Wages of War]]
 
-[[1993 - Quest for Glory IV - Shadows of Darkness]]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]]
+- [[1998 - Quest for Glory V - Dragon Fire]]
 
-[[1998 - Quest for Glory V - Dragon Fire]]
+- **Original Version:** [[1989 - Quest for Glory I - So You Want to Be a Hero]]
+- [[Quest for Glory Series]] - Series overview
 
 ## References
 

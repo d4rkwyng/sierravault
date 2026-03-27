@@ -215,28 +215,17 @@ The game is preserved in multiple archives and databases, with documentation ava
 
 ## See Also
 
-
-[[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
-
-[[1980 - Hi-Res Adventure 1 - Mystery House]]
-
-[[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
-
-[[1980 - Hi-Res Cribbage]]
-
-[[1980 - Hi-Res Football]]
-
-[[1980 - Hi-Res Soccer]]
-
-[[1981 - Hi-Res Adventure 3 - Cranston Manor]]
-
-[[1982 - Adventure in Serenia]]
-
-[[1982 - Hi-Res Adventure 5 - Time Zone]]
-
-[[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
-
-[[1984 - Gelfling Adventure]]
+- [[1980 - Hi-Res Adventure 0 - Mission Asteroid]]
+- [[1980 - Hi-Res Adventure 1 - Mystery House]]
+- [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess]]
+- [[1980 - Hi-Res Cribbage]]
+- [[1980 - Hi-Res Football]]
+- [[1980 - Hi-Res Soccer]]
+- [[1981 - Hi-Res Adventure 3 - Cranston Manor]]
+- [[1982 - Adventure in Serenia]]
+- [[1982 - Hi-Res Adventure 5 - Time Zone]]
+- [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
+- [[1984 - Gelfling Adventure]]
 
 ## References
 

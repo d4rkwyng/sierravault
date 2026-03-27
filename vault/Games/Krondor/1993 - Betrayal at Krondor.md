@@ -291,7 +291,7 @@ Betrayal at Krondor spawned both official and unofficial successors:
 
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
-[[1998 - Return to Krondor]]
+- [[1998 - Return to Krondor]]
 
 ## References
 

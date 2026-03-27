@@ -223,10 +223,12 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 - [Red Baron Game Official Site](https://www.redbarongame.com/) - Remake project page (historical)[^ref-7]
 
 ## See Also
-- [[1990 - Red Baron|← Original: Red Baron]] - The classic being remade
-- [[1997 - Red Baron II]] - Last released sequel
-- [[Damon Slye]] - Series creator leading the remake
 
+- [[1990 - Red Baron|← Original: Red Baron]] - The classic being remade
+
+- [[1997 - Red Baron II]] - Last released sequel
+
+- [[Damon Slye]] - Series creator leading the remake
 
 ## References
 

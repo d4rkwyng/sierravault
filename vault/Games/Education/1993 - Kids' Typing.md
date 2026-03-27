@@ -202,22 +202,14 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 
 ## See Also
 
-
-[[1982 - Alphabet Blocks]]
-
-[[1982 - Bop-A-Bet]]
-
-[[1983 - Early Math]]
-
-[[1983 - Learning with Leeper]]
-
-[[1984 - Learning with FuzzyWOMP]]
-
-[[1984 - Wizard of Id's WizMath]]
-
-[[1984 - Wizard of Id's WizType]]
-
-[[1992 - Ready, Set, Read with Bananas & Jack]]
+- [[1982 - Alphabet Blocks]]
+- [[1982 - Bop-A-Bet]]
+- [[1983 - Early Math]]
+- [[1983 - Learning with Leeper]]
+- [[1984 - Learning with FuzzyWOMP]]
+- [[1984 - Wizard of Id's WizMath]]
+- [[1984 - Wizard of Id's WizType]]
+- [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 ## References
 

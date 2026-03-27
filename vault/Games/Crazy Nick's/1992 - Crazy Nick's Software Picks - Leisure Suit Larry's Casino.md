@@ -243,9 +243,8 @@ From a preservation standpoint, the title remains notable as one of five budget 
 - [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|← Previous: Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 
-[[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
-
-[[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
+- [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+- [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 
 ## References
 

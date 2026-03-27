@@ -219,12 +219,9 @@ From a design perspective, the game's innovation of eliminating typing requireme
 
 ## See Also
 
-
-[[1984 - Donald Duck's Playground]]
-
-[[1984 - Mickey's Space Adventure]]
-
-[[1986 - The Black Cauldron]]
+- [[1984 - Donald Duck's Playground]]
+- [[1984 - Mickey's Space Adventure]]
+- [[1986 - The Black Cauldron]]
 
 ## References
 

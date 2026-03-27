@@ -138,12 +138,9 @@ The series' legacy lies in its contribution to the football management genre dur
 
 ## See Also
 
-
-[[1995 - Ultimate Soccer Manager]]
-
-[[1998 - Ultimate Soccer Manager 98]]
-
-[[1999 - Ultimate Soccer Manager 98-99]]
+- [[1995 - Ultimate Soccer Manager]]
+- [[1998 - Ultimate Soccer Manager 98]]
+- [[1999 - Ultimate Soccer Manager 98-99]]
 
 ## References
 

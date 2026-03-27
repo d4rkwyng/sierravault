@@ -246,20 +246,17 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 
 ## See Also
 
+- [[2000 - Ricochet|← Previous: Ricochet]]
+
+- [[1999 - Half-Life - Opposing Force]]
+- [[1999 - Team Fortress Classic]]
+- [[2000 - Gunman Chronicles]]
+- [[2004 - Counter-Strike - Condition Zero]]
+- [[2004 - Half-Life 2]]
+
 - **Related:** [[1998 - Half-Life]]
 - **Related:** [[2000 - Counter-Strike]]
 - **Related:** [[2001 - Half-Life - Blue Shift]]
-- [[2000 - Ricochet|← Previous: Ricochet]]
-
-[[1999 - Half-Life - Opposing Force]]
-
-[[1999 - Team Fortress Classic]]
-
-[[2000 - Gunman Chronicles]]
-
-[[2004 - Counter-Strike - Condition Zero]]
-
-[[2004 - Half-Life 2]]
 
 ## References
 

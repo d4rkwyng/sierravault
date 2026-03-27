@@ -151,8 +151,9 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 
 ## See Also
 
-- **Next:** No direct sequel produced
 - [[1994 - Outpost|← Previous: Outpost]]
+
+- **Next:** No direct sequel produced
 
 ## References
 

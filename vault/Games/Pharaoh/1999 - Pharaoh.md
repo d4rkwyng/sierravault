@@ -145,7 +145,7 @@ The game's influence extends to the broader city-building genre, establishing co
 
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
 
-[[2023 - Pharaoh - A New Era]]
+- [[2023 - Pharaoh - A New Era]]
 
 ## References
 

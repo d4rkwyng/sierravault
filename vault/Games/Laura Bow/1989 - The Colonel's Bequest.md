@@ -134,7 +134,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 
 ## See Also
 
-- **Series:** [[Laura Bow Series]] 
+- **Series:** [[Laura Bow Series]]
 - **Next:** [[1992 - The Dagger of Amon Ra|→ The Dagger of Amon Ra]] (1992)
 - **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[Gabriel Knight - Sins of the Fathers - 20th Anniversary Edition|Gabriel Knight]] (contemporary mystery adventure)
 - **Creator:** [[Roberta Williams]] (designer/writer)

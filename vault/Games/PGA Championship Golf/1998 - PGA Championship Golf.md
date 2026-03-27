@@ -257,11 +257,9 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 
 - [[1999 - PGA Championship Golf 1999 Edition|→ Next: PGA Championship Golf 1999 Edition]]
 
-[[2000 - PGA Championship Golf 2000 - Titanium Edition]]
-
-[[2000 - PGA Championship Golf 2000]]
-
-[[2001 - PGA Championship Golf - Collector's Edition]]
+- [[2000 - PGA Championship Golf 2000 - Titanium Edition]]
+- [[2000 - PGA Championship Golf 2000]]
+- [[2001 - PGA Championship Golf - Collector's Edition]]
 
 ## References
 

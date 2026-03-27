@@ -253,17 +253,12 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 - [[1994 - NASCAR Racing|← Previous: NASCAR Racing]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 - Grand National Series Expansion]]
 
-[[1999 - NASCAR Craftsman Truck Series Racing]]
-
-[[1999 - NASCAR Legends]]
-
-[[1999 - NASCAR Racing 3]]
-
-[[2001 - NASCAR Racing 4]]
-
-[[2002 - NASCAR Racing 2002 Season]]
-
-[[2003 - NASCAR Racing 2003 Season]]
+- [[1999 - NASCAR Craftsman Truck Series Racing]]
+- [[1999 - NASCAR Legends]]
+- [[1999 - NASCAR Racing 3]]
+- [[2001 - NASCAR Racing 4]]
+- [[2002 - NASCAR Racing 2002 Season]]
+- [[2003 - NASCAR Racing 2003 Season]]
 
 ## References
 

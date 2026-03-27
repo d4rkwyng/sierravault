@@ -226,26 +226,15 @@ This game has been included in[^ref-1]:
 
 ## See Also
 
-Series: [[King's Quest: Quest for the Crown]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
-
-
-[[1984 - King's Quest - Quest for the Crown]]
-
-[[1986 - King's Quest III - To Heir Is Human]]
-
-[[1988 - King's Quest IV - The Perils of Rosella]]
-
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-
-[[1994 - King's Quest VII - The Princeless Bride]]
-
-[[1998 - King's Quest - Mask of Eternity]]
-
-[[2015 - King's Quest]]
+- [[1984 - King's Quest - Quest for the Crown]]
+- [[1986 - King's Quest III - To Heir Is Human]]
+- [[1988 - King's Quest IV - The Perils of Rosella]]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
+- [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+- [[1994 - King's Quest VII - The Princeless Bride]]
+- [[1998 - King's Quest - Mask of Eternity]]
+- [[2015 - King's Quest]]
 
 ## References
 
@@ -284,13 +273,4 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest III: To Heir Is
 [^ref-33]: [Tom Lewandowski – King's Quest II VGA Soundtrack](https://xeenmusic.bandcamp.com/album/kings-quest-ii-romancing-the-stones-vga-soundtrack) — Nearly two hours of original music for AGD Interactive remake
 [^ref-34]: [Sierra Archives – King's Quest Companion Foreword](https://archive.org/details/kingsquestcompan00spea/page/n7/) — Roberta Williams endorsement calling it "invaluable"
 
-[[1984 - King's Quest - Quest for the Crown]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]
-[[2015 - King's Quest]]
 [^ref-35]: [TV Tropes – King's Quest II](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuestIIRomancingTheThrone) — Easter eggs documentation including Batmobile and Batman theme 

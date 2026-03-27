@@ -154,6 +154,14 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 
 *Last updated: 2026-02-19*
 
+## See Also
+
+- [[1992 - The Incredible Machine]] – Developed concurrently at JTP
+- [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
+
+- [[Jeff Tunnell]] – Producer and concept creator
+- [[Dynamix]] – Development studio
+
 ## References
 
 [^ref-1]: [Johnny Castaway – Screensavers Planet](https://www.screensaversplanet.com/screensavers/johnny-castaway-237/) – Product overview, marketing description as "the world's first story-telling screen saver," holiday features, and download history
@@ -164,10 +172,3 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-14]: [Shawn Bird – Dynamix Wiki](https://dynamix.fandom.com/wiki/Shawn_Bird) – Credits confirming Shawn Bird as character designer at Jeff Tunnell Productions and Dynamix (1991–2001)
 [^ref-16]: [Johnny Castaway Reborn – GitHub (sizious)](https://github.com/sizious/johnny-castaway-reborn) – Open-source C/SDL2 engine re-implementation of the screensaver
 [^ref-18]: [Johnny Castaway (Full Storyline) – Internet Archive](https://archive.org/details/johnny-castaway-screensaver) – Video documentation of the complete Johnny Castaway storyline and preservation downloads
-
-## See Also
-
-- [[1992 - The Incredible Machine]] – Developed concurrently at JTP
-- [[1991 - The Adventures of Willy Beamish]] – Animation tools shared with Johnny Castaway
-- [[Jeff Tunnell]] – Producer and concept creator
-- [[Dynamix]] – Development studio

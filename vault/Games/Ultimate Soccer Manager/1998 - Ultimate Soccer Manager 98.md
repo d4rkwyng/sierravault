@@ -135,12 +135,9 @@ The series maintains an active community of enthusiasts who continue to create t
 
 ## See Also
 
-
-[[1995 - Ultimate Soccer Manager]]
-
-[[1996 - Ultimate Soccer Manager 2]]
-
-[[1999 - Ultimate Soccer Manager 98-99]]
+- [[1995 - Ultimate Soccer Manager]]
+- [[1996 - Ultimate Soccer Manager 2]]
+- [[1999 - Ultimate Soccer Manager 98-99]]
 
 ## References
 

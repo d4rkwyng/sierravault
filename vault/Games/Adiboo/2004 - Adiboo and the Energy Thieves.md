@@ -183,9 +183,8 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 
 - [[2003 - Adiboo - Paziral's Secret|← Previous: Adiboo - Paziral's Secret]]
 
-[[1992 - A.J.'s World of Discovery]]
-
-[[1996 - Adiboo - Magical Playland]]
+- [[1992 - A.J.'s World of Discovery]]
+- [[1996 - Adiboo - Magical Playland]]
 
 ## References
 

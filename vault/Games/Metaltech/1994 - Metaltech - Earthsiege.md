@@ -168,23 +168,15 @@ The game has been preserved and made playable on modern systems through the effo
 - [[1994 - Metaltech - Battledrome|← Previous: Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack|→ Next: Metaltech - Earthsiege Speech Pack]]
 
-[[1995 - Metaltech - Earthsiege Expansion Pack]]
-
-[[1996 - Earthsiege 2]]
-
-[[1996 - MissionForce - Cyberstorm]]
-
-[[1998 - Cyberstorm 2 - Corporate Wars]]
-
-[[1998 - Starsiege - Tribes]]
-
-[[1999 - Starsiege]]
-
-[[2001 - Tribes 2]]
-
-[[2002 - Tribes - Aerial Assault]]
-
-[[2024 - Tribes 3 - Rivals]]
+- [[1995 - Metaltech - Earthsiege Expansion Pack]]
+- [[1996 - Earthsiege 2]]
+- [[1996 - MissionForce - Cyberstorm]]
+- [[1998 - Cyberstorm 2 - Corporate Wars]]
+- [[1998 - Starsiege - Tribes]]
+- [[1999 - Starsiege]]
+- [[2001 - Tribes 2]]
+- [[2002 - Tribes - Aerial Assault]]
+- [[2024 - Tribes 3 - Rivals]]
 
 ## References
 

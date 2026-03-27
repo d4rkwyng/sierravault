@@ -314,19 +314,13 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 - [[1998 - Half-Life|← Previous: Half-Life]]
 - [[1999 - Team Fortress Classic|→ Next: Team Fortress Classic]]
 
-[[2000 - Counter-Strike]]
-
-[[2000 - Gunman Chronicles]]
-
-[[2000 - Ricochet]]
-
-[[2001 - Deathmatch Classic]]
-
-[[2001 - Half-Life - Blue Shift]]
-
-[[2004 - Counter-Strike - Condition Zero]]
-
-[[2004 - Half-Life 2]]
+- [[2000 - Counter-Strike]]
+- [[2000 - Gunman Chronicles]]
+- [[2000 - Ricochet]]
+- [[2001 - Deathmatch Classic]]
+- [[2001 - Half-Life - Blue Shift]]
+- [[2004 - Counter-Strike - Condition Zero]]
+- [[2004 - Half-Life 2]]
 
 ## References
 

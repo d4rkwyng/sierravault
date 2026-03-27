@@ -200,21 +200,16 @@ This transition mirrors broader trends in the educational software market of the
 
 ## See Also
 
-- **Related JumpStart Titles:** JumpStart Adventures series
-
 - [[1999 - Dr. Brain - Action Reaction|← Previous: Dr. Brain - Action Reaction]]
 
-[[1991 - Castle of Dr. Brain]]
+- [[1991 - Castle of Dr. Brain]]
+- [[1992 - The Island of Dr. Brain]]
+- [[1995 - The Lost Mind of Dr. Brain]]
+- [[1996 - The Time Warp of Dr. Brain]]
+- [[1998 - Dr. Brain Thinking Games - IQ Adventure]]
+- [[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
 
-[[1992 - The Island of Dr. Brain]]
-
-[[1995 - The Lost Mind of Dr. Brain]]
-
-[[1996 - The Time Warp of Dr. Brain]]
-
-[[1998 - Dr. Brain Thinking Games - IQ Adventure]]
-
-[[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
+- **Related JumpStart Titles:** JumpStart Adventures series
 
 ## References
 

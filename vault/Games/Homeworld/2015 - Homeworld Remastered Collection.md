@@ -349,11 +349,9 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 - [[2003 - Homeworld 2|← Previous: Homeworld 2]]
 - [[2016 - Homeworld - Deserts of Kharak|→ Next: Homeworld - Deserts of Kharak]]
 
-[[1999 - Homeworld]]
-
-[[2000 - Homeworld - Cataclysm]]
-
-[[2024 - Homeworld 3]]
+- [[1999 - Homeworld]]
+- [[2000 - Homeworld - Cataclysm]]
+- [[2024 - Homeworld 3]]
 
 ## References
 

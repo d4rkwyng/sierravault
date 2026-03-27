@@ -225,50 +225,20 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|← Previous: 3-D Ultra Pinball - Thrill Ride]]
 - [[2000 - Maximum Pool|→ Next: Maximum Pool]]
 
-[[1995 - 3-D Ultra Pinball]]
-
-[[1996 - 3-D Ultra Pinball - Creep Night]]
-
-[[1997 - 3-D Ultra MiniGolf]]
-
-[[1997 - 3-D Ultra Pinball - The Lost Continent]]
-
-[[1998 - 3-D Ultra MiniGolf Deluxe]]
-
-[[1998 - 3-D Ultra NASCAR Pinball]]
-
-[[1999 - 3-D Ultra Cool Pool]]
-
-[[1999 - 3-D Ultra Lionel TrainTown]]
-
-[[1999 - 3-D Ultra Pinball - Power]]
-
-[[1999 - 3-D Ultra Radio Control Racers]]
-
-[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
-
-[[2006 - 3D Ultra MiniGolf Adventures]]
-
-[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
-
-[[2010 - 3-D Ultra MiniGolf Adventures 2]]
-
-- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
-- [[3-D Ultra Cool Pool]]
-- [[3D Ultra Lionel Traintown]]
-- [[3D Ultra Minigolf Adventures Deluxe]]
-- [[3D Ultra Lionel Traintown]]
-- [[3-D Ultra Pinball: Thrillride]]
-- [[3-D Ultra Pinball]]
-- [[3-D Ultra NASCAR Pinball]]
-- [[Maximum Pool]]
-- [[3-D Ultra Radio Control Racers]]
-- [[3-D Ultra MiniGolf Adventures 2]]
-- [[3D Ultra Minigolf]]
-- [[3-D Ultra Pinball: Creep Night]]
-- [[3-D Ultra Pinball: The Lost Continent]]
-- [[3-D Ultra Pinball Power!]]
-- [[3-D Ultra Mini Golf Deluxe]]
+- [[1995 - 3-D Ultra Pinball]]
+- [[1996 - 3-D Ultra Pinball - Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
+- [[1998 - 3-D Ultra NASCAR Pinball]]
+- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Lionel TrainTown]]
+- [[1999 - 3-D Ultra Pinball - Power]]
+- [[1999 - 3-D Ultra Radio Control Racers]]
+- [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+- [[2006 - 3D Ultra MiniGolf Adventures]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
 ## References
 

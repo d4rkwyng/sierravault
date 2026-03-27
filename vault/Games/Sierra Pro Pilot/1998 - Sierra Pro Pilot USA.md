@@ -206,7 +206,7 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
-[[1997 - Sierra Pro Pilot 98]]
+- [[1997 - Sierra Pro Pilot 98]]
 
 ## References
 

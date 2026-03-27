@@ -197,8 +197,7 @@ The game's historical significance lies not in its gameplay contributions—whic
 
 ## See Also
 
-
-[[1982 - Ultima II - The Revenge of the Enchantress]]
+- [[1982 - Ultima II - The Revenge of the Enchantress]]
 
 ## References
 

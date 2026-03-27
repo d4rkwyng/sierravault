@@ -134,12 +134,9 @@ Caesar III inspired numerous spiritual successors and influenced the development
 
 ## See Also
 
-
-[[1992 - Caesar]]
-
-[[1995 - Caesar II]]
-
-[[2006 - Caesar IV]]
+- [[1992 - Caesar]]
+- [[1995 - Caesar II]]
+- [[2006 - Caesar IV]]
 
 ## References
 

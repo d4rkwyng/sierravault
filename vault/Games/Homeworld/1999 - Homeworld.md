@@ -298,13 +298,10 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 
 - [[2000 - Homeworld - Cataclysm|→ Next: Homeworld - Cataclysm]]
 
-[[2003 - Homeworld 2]]
-
-[[2015 - Homeworld Remastered Collection]]
-
-[[2016 - Homeworld - Deserts of Kharak]]
-
-[[2024 - Homeworld 3]]
+- [[2003 - Homeworld 2]]
+- [[2015 - Homeworld Remastered Collection]]
+- [[2016 - Homeworld - Deserts of Kharak]]
+- [[2024 - Homeworld 3]]
 
 ## References
 

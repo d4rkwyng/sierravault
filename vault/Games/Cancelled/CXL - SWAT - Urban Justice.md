@@ -199,8 +199,8 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 - 2002 Trailer (included on No One Lives Forever 2, Disc 2)[^ref-1]
 
 ## See Also
-- **Cancelled, replaced by:** [[2005 - SWAT 4]]
 
+- **Cancelled, replaced by:** [[2005 - SWAT 4]]
 
 ## References
 

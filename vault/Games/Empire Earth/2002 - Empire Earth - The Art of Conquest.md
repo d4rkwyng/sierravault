@@ -262,8 +262,9 @@ Despite these criticisms, The Art of Conquest has maintained a dedicated fanbase
 
 ## See Also
 
-- **Next:** Empire Earth II (2005)
 - [[2001 - Empire Earth|← Previous: Empire Earth]]
+
+- **Next:** Empire Earth II (2005)
 
 ## References
 

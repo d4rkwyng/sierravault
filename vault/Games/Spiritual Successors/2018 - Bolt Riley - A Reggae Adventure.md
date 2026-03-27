@@ -146,40 +146,26 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 - [Humble Bundle](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free option[^ref-24]
 
 ## See Also
-- [[Corey Cole]] — Quest for Glory co-creator, co-designer on Bolt Riley
-- [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and writer on Bolt Riley
+
 - [[2018 - Hero-U - Rogue to Redemption]] — The Coles' own crowdfunded project developed concurrently
 - [[1989 - Quest for Glory I - So You Want to Be a Hero]] — The Coles' breakthrough game at Sierra
+- [[1993 - Blue Force]]
+- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
+- [[2008 - Ace of Aces]]
+- [[2010 - Gray Matter]]
+- [[2012 - Cognition - An Erica Reed Thriller]]
+- [[2013 - Fester Mudd - Curse of the Gold]]
+- [[2014 - Moebius - Empire Rising]]
+- [[2014 - Quest for Infamy]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2015 - Order of the Thorne - The King's Challenge]]
+- [[2019 - Mage's Initiation - Reign of the Elements]]
+- [[2022 - SpaceVenture]]
+- [[2023 - Colossal Cave 3D Adventure]]
+- [[2023 - Summer Daze - Tilly's Tale]]
 
-
-[[1993 - Blue Force]]
-
-[[2006 - Al Emmo and the Lost Dutchman's Mine]]
-
-[[2008 - Ace of Aces]]
-
-[[2010 - Gray Matter]]
-
-[[2012 - Cognition - An Erica Reed Thriller]]
-
-[[2013 - Fester Mudd - Curse of the Gold]]
-
-[[2014 - Moebius - Empire Rising]]
-
-[[2014 - Quest for Infamy]]
-
-[[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-
-[[2015 - Order of the Thorne - The King's Challenge]]
-
-[[2019 - Mage's Initiation - Reign of the Elements]]
-
-[[2022 - SpaceVenture]]
-
-[[2023 - Colossal Cave 3D Adventure]]
-
-[[2023 - Summer Daze - Tilly's Tale]]
-
+- [[Corey Cole]] — Quest for Glory co-creator, co-designer on Bolt Riley
+- [[Lori Ann Cole]] — Quest for Glory co-creator, co-designer and writer on Bolt Riley
 
 ## References
 

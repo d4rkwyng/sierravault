@@ -208,51 +208,21 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 
 - [[1996 - 3-D Ultra Pinball - Creep Night|→ Next: 3-D Ultra Pinball - Creep Night]]
 
-[[1997 - 3-D Ultra MiniGolf]]
-
-[[1997 - 3-D Ultra Pinball - The Lost Continent]]
-
-[[1998 - 3-D Ultra MiniGolf Deluxe]]
-
-[[1998 - 3-D Ultra NASCAR Pinball]]
-
-[[1999 - 3-D Ultra Cool Pool]]
-
-[[1999 - 3-D Ultra Lionel TrainTown]]
-
-[[1999 - 3-D Ultra Pinball - Power]]
-
-[[1999 - 3-D Ultra Radio Control Racers]]
-
-[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
-
-[[2000 - 3-D Ultra Pinball - Thrill Ride]]
-
-[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-
-[[2000 - Maximum Pool]]
-
-[[2006 - 3D Ultra MiniGolf Adventures]]
-
-[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
-
-[[2010 - 3-D Ultra MiniGolf Adventures 2]]
-
-- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
-- [[3-D Ultra Cool Pool]]
-- [[3D Ultra Lionel Traintown]]
-- [[3D Ultra Minigolf Adventures Deluxe]]
-- [[3D Ultra Lionel Traintown]]
-- [[3-D Ultra Pinball: Thrillride]]
-- [[3-D Ultra NASCAR Pinball]]
-- [[Maximum Pool]]
-- [[3-D Ultra Radio Control Racers]]
-- [[3-D Ultra MiniGolf Adventures 2]]
-- [[3D Ultra Minigolf]]
-- [[3-D Ultra Pinball: Creep Night]]
-- [[3-D Ultra Pinball: The Lost Continent]]
-- [[3-D Ultra Pinball Power!]]
-- [[3-D Ultra Mini Golf Deluxe]]
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
+- [[1998 - 3-D Ultra NASCAR Pinball]]
+- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Lionel TrainTown]]
+- [[1999 - 3-D Ultra Pinball - Power]]
+- [[1999 - 3-D Ultra Radio Control Racers]]
+- [[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
+- [[2000 - 3-D Ultra Pinball - Thrill Ride]]
+- [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+- [[2000 - Maximum Pool]]
+- [[2006 - 3D Ultra MiniGolf Adventures]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
 ## References
 
@@ -273,5 +243,4 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 [^ref-15]: [GameSpot - 3D Ultra Pinball: Thrillride](https://www.gamespot.com/reviews/3d-ultra-pinball-thrillride-review/1900-2545853/) — Series accessibility discussion
 [^ref-16]: [AllGame - 3-D Ultra Pinball](https://www.allgame.com/game.php?id=12345) — Game difficulty assessment
 
-[[1996 - 3-D Ultra Pinball - Creep Night]]
 [^ref-17]: [Computer Gaming World - Pinball Review Roundup](https://archive.org/details/Computer_Gaming_World_Issue_150) — Physics comparison with Pro Pinball series 

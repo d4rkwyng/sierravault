@@ -264,9 +264,8 @@ The game's three remakes over a decade—more than almost any other Sierra title
 
 - [[1990 - Mixed-Up Mother Goose (SCI Remake)|→ Next: Mixed-Up Mother Goose (SCI Remake)]]
 
-[[1991 - Mixed-Up Fairy Tales]]
-
-[[1995 - Mixed-Up Mother Goose Deluxe]]
+- [[1991 - Mixed-Up Fairy Tales]]
+- [[1995 - Mixed-Up Mother Goose Deluxe]]
 
 ## References
 

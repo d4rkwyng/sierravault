@@ -200,12 +200,9 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 
 ## See Also
 
-
-[[1993 - Ready Set Read with Bananas Jack]]
-
-[[1993 - Spelling Jungle]]
-
-[[1994 - Spelling Blizzard]]
+- [[1993 - Ready Set Read with Bananas Jack]]
+- [[1993 - Spelling Jungle]]
+- [[1994 - Spelling Blizzard]]
 
 ## References
 

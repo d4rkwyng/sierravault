@@ -130,8 +130,7 @@ Inca II stands as a fascinating example of 1990s multimedia gaming ambition, rep
 
 ## See Also
 
-
-[[1992 - Inca]]
+- [[1992 - Inca]]
 
 ## References
 

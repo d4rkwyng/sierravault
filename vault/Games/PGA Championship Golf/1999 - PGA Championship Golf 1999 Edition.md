@@ -251,9 +251,8 @@ The legacy of PGA Championship Golf 2000 extends beyond Sierra. When Headgate St
 - [[1998 - PGA Championship Golf|← Previous: PGA Championship Golf]]
 - [[2000 - PGA Championship Golf 2000|→ Next: PGA Championship Golf 2000]]
 
-[[2000 - PGA Championship Golf 2000 - Titanium Edition]]
-
-[[2001 - PGA Championship Golf - Collector's Edition]]
+- [[2000 - PGA Championship Golf 2000 - Titanium Edition]]
+- [[2001 - PGA Championship Golf - Collector's Edition]]
 
 ## References
 

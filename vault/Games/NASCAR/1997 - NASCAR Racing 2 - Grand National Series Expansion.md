@@ -186,16 +186,16 @@ Fans continue to maintain communities dedicated to NASCAR Racing 2, sharing car 
 
 ## See Also
 
-- **Base Game:** [[1996 - NASCAR Racing 2]] (required)
-
 - [[1994 - NASCAR Racing|NASCAR Racing]] (1994)
-- NASCAR Racing 2 Grand National Series Expansion (1997)
 - [[1999 - NASCAR Racing 3|NASCAR Racing 3]] (1999)
 - [[1999 - NASCAR Craftsman Truck Series Racing|NASCAR Craftsman Truck Series Racing]] (1999)
 - [[1999 - NASCAR Legends|NASCAR Legends]] (1999)
 - [[2001 - NASCAR Racing 4|NASCAR Racing 4]] (2001)
 - [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] (2002)
 - [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] (2003)
+
+- **Base Game:** [[1996 - NASCAR Racing 2]] (required)
+- NASCAR Racing 2 Grand National Series Expansion (1997)
 
 ## References
 

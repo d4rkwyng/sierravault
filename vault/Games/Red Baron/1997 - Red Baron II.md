@@ -238,13 +238,11 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 
 - [[1992 - Red Baron - Mission Builder|← Previous: Red Baron - Mission Builder]]
 - [[1998 - Red Baron 3D|→ Next: Red Baron 3D]]
+
 - [[1992 - Aces of the Pacific|Aces of the Pacific]] - Related Dynamix flight sim
-
-[[1990 - Red Baron]]
-
-[[1999 - Curse You! Red Baron]]
-
-[[2008 - Red Baron Arcade]]
+- [[1990 - Red Baron]]
+- [[1999 - Curse You! Red Baron]]
+- [[2008 - Red Baron Arcade]]
 
 ## References
 

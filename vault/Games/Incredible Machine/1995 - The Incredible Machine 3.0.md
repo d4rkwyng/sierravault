@@ -223,21 +223,16 @@ The game's description as "a puzzle game par excellence and beyond" reflects its
 
 - [[1994 - The Incredible Toon Machine|← Previous: The Incredible Toon Machine]]
 - [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons|→ Next: Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
+
+- [[1992 - The Incredible Machine]]
+- [[1993 - Sid & Al's Incredible Toons]]
+- [[1993 - The Even More Incredible Machine]]
+- [[1994 - The Incredible Machine 2]]
+- [[2000 - Return of The Incredible Machine - Contraptions]]
+- [[2001 - The Incredible Machine - Even More Contraptions]]
+- [[2011 - The Incredible Machine (2011)]]
+
 - [[Jeff Tunnell]] - Creator
-
-[[1992 - The Incredible Machine]]
-
-[[1993 - Sid & Al's Incredible Toons]]
-
-[[1993 - The Even More Incredible Machine]]
-
-[[1994 - The Incredible Machine 2]]
-
-[[2000 - Return of The Incredible Machine - Contraptions]]
-
-[[2001 - The Incredible Machine - Even More Contraptions]]
-
-[[2011 - The Incredible Machine (2011)]]
 
 ## References
 

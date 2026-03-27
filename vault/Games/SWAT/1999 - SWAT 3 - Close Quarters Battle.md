@@ -281,17 +281,14 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 
 - [[1998 - Police Quest - SWAT 2|← Previous: Police Quest - SWAT 2]]
 - [[2003 - SWAT - Global Strike Team|→ Next: SWAT - Global Strike Team]]
+
+- [[1995 - Police Quest - SWAT]]
+- [[2005 - SWAT 4]]
+- [[2006 - SWAT 4 - The Stetchkov Syndicate]]
+- [[2006 - SWAT Force]]
+- [[2007 - SWAT - Target Liberty]]
+
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-
-[[1995 - Police Quest - SWAT]]
-
-[[2005 - SWAT 4]]
-
-[[2006 - SWAT 4 - The Stetchkov Syndicate]]
-
-[[2006 - SWAT Force]]
-
-[[2007 - SWAT - Target Liberty]]
 
 ## References
 

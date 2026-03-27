@@ -226,8 +226,9 @@ The game's short length (completable in under three hours) and easy puzzles posi
 
 ## See Also
 
-- **Related:** [[1988 - Gold Rush]]
 - [[2014 - Gold Rush Anniversary|← Previous: Gold Rush Anniversary]]
+
+- **Related:** [[1988 - Gold Rush]]
 
 ## References
 

@@ -278,11 +278,9 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 - [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
 - [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
 
-[[1999 - Homeworld]]
-
-[[2016 - Homeworld - Deserts of Kharak]]
-
-[[2024 - Homeworld 3]]
+- [[1999 - Homeworld]]
+- [[2016 - Homeworld - Deserts of Kharak]]
+- [[2024 - Homeworld 3]]
 
 ## References
 

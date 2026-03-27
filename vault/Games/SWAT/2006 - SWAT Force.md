@@ -197,17 +197,14 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 
 - [[2006 - SWAT 4 - The Stetchkov Syndicate|← Previous: SWAT 4 - The Stetchkov Syndicate]]
 - [[2007 - SWAT - Target Liberty|→ Next: SWAT - Target Liberty]]
+
+- [[1995 - Police Quest - SWAT]]
+- [[1998 - Police Quest - SWAT 2]]
+- [[1999 - SWAT 3 - Close Quarters Battle]]
+- [[2003 - SWAT - Global Strike Team]]
+- [[2005 - SWAT 4]]
+
 - [[Police Quest Series]] - Related series (SWAT spun off from Police Quest)
-
-[[1995 - Police Quest - SWAT]]
-
-[[1998 - Police Quest - SWAT 2]]
-
-[[1999 - SWAT 3 - Close Quarters Battle]]
-
-[[2003 - SWAT - Global Strike Team]]
-
-[[2005 - SWAT 4]]
 
 ## References
 

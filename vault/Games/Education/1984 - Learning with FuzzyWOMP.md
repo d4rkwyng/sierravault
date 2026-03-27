@@ -186,22 +186,14 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 
 ## See Also
 
-
-[[1982 - Alphabet Blocks]]
-
-[[1982 - Bop-A-Bet]]
-
-[[1983 - Early Math]]
-
-[[1983 - Learning with Leeper]]
-
-[[1984 - Wizard of Id's WizMath]]
-
-[[1984 - Wizard of Id's WizType]]
-
-[[1992 - Ready, Set, Read with Bananas & Jack]]
-
-[[1993 - Kids' Typing]]
+- [[1982 - Alphabet Blocks]]
+- [[1982 - Bop-A-Bet]]
+- [[1983 - Early Math]]
+- [[1983 - Learning with Leeper]]
+- [[1984 - Wizard of Id's WizMath]]
+- [[1984 - Wizard of Id's WizType]]
+- [[1992 - Ready, Set, Read with Bananas & Jack]]
+- [[1993 - Kids' Typing]]
 
 ## References
 

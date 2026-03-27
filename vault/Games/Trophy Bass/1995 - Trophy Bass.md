@@ -245,9 +245,8 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 
 - [[1996 - Front Page Sports - Trophy Bass 2|→ Next: Front Page Sports - Trophy Bass 2]]
 
-[[1999 - Field & Stream - Trophy Bass 3D]]
-
-[[2000 - Field & Stream - Trophy Bass 4]]
+- [[1999 - Field & Stream - Trophy Bass 3D]]
+- [[2000 - Field & Stream - Trophy Bass 4]]
 
 ## References
 

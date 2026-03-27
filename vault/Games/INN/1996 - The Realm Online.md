@@ -241,10 +241,8 @@ The game also represents an important cautionary tale about the challenges of de
 
 ## See Also
 
-
-[[1991 - The Shadow of Yserbius]]
-
-[[1993 - Fates of Twinion]]
+- [[1991 - The Shadow of Yserbius]]
+- [[1993 - Fates of Twinion]]
 
 ## References
 

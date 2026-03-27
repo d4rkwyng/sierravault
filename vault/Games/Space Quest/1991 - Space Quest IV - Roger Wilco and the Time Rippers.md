@@ -306,20 +306,12 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 ## See Also
 
-Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
-
-
-[[1986 - Space Quest - The Sarien Encounter]]
-
-[[1987 - Space Quest II - Vohaul's Revenge]]
-
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-
-[[1993 - Space Quest V - The Next Mutation]]
-
-[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+- [[1986 - Space Quest - The Sarien Encounter]]
+- [[1987 - Space Quest II - Vohaul's Revenge]]
+- [[1989 - Space Quest III - The Pirates of Pestulon]]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+- [[1993 - Space Quest V - The Next Mutation]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) – White Wolf 4/5 review (Jim Trunzo), Amiga 19% reviews

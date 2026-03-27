@@ -279,19 +279,13 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 - [[2000 - Counter-Strike|← Previous: Counter-Strike]]
 - [[2000 - Ricochet|→ Next: Ricochet]]
 
-[[1998 - Half-Life]]
-
-[[1999 - Half-Life - Opposing Force]]
-
-[[1999 - Team Fortress Classic]]
-
-[[2001 - Deathmatch Classic]]
-
-[[2001 - Half-Life - Blue Shift]]
-
-[[2004 - Counter-Strike - Condition Zero]]
-
-[[2004 - Half-Life 2]]
+- [[1998 - Half-Life]]
+- [[1999 - Half-Life - Opposing Force]]
+- [[1999 - Team Fortress Classic]]
+- [[2001 - Deathmatch Classic]]
+- [[2001 - Half-Life - Blue Shift]]
+- [[2004 - Counter-Strike - Condition Zero]]
+- [[2004 - Half-Life 2]]
 
 ## References
 

@@ -180,9 +180,9 @@ Middle Earth Online was never released and is not available for purchase.
 - [The Lord of the Rings Online Official Site](https://www.lotro.com/)[^ref-15]
 
 ## See Also
+
 - [[Sierra On-Line]] - Original developer/publisher
 - [[CXL - Babylon 5 - Into the Fire]] - Another cancelled Sierra MMO project
-
 
 ## References
 

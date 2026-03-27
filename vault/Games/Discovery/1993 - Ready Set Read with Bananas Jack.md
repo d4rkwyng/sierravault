@@ -197,12 +197,9 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 
 ## See Also
 
-
-[[1993 - Spelling Jungle]]
-
-[[1993 - Turbo Learning - Mega Math]]
-
-[[1994 - Spelling Blizzard]]
+- [[1993 - Spelling Jungle]]
+- [[1993 - Turbo Learning - Mega Math]]
+- [[1994 - Spelling Blizzard]]
 
 ## References
 

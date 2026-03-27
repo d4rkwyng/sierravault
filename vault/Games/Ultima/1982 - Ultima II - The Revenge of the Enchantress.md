@@ -230,8 +230,7 @@ The game's historical significance lies in several areas: it demonstrated that R
 
 ## See Also
 
-
-[[1983 - Ultima - Escape from Mt. Drash]]
+- [[1983 - Ultima - Escape from Mt. Drash]]
 
 ## References
 

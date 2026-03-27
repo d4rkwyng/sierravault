@@ -147,23 +147,15 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 - [[1998 - Cyberstorm 2 - Corporate Wars|← Previous: Cyberstorm 2 - Corporate Wars]]
 - [[1999 - Starsiege|→ Next: Starsiege]]
 
-[[1994 - Metaltech - Battledrome]]
-
-[[1994 - Metaltech - Earthsiege Speech Pack]]
-
-[[1994 - Metaltech - Earthsiege]]
-
-[[1995 - Metaltech - Earthsiege Expansion Pack]]
-
-[[1996 - Earthsiege 2]]
-
-[[1996 - MissionForce - Cyberstorm]]
-
-[[2001 - Tribes 2]]
-
-[[2002 - Tribes - Aerial Assault]]
-
-[[2024 - Tribes 3 - Rivals]]
+- [[1994 - Metaltech - Battledrome]]
+- [[1994 - Metaltech - Earthsiege Speech Pack]]
+- [[1994 - Metaltech - Earthsiege]]
+- [[1995 - Metaltech - Earthsiege Expansion Pack]]
+- [[1996 - Earthsiege 2]]
+- [[1996 - MissionForce - Cyberstorm]]
+- [[2001 - Tribes 2]]
+- [[2002 - Tribes - Aerial Assault]]
+- [[2024 - Tribes 3 - Rivals]]
 
 ## References
 

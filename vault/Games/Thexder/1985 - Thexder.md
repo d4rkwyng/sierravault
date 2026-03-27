@@ -125,9 +125,8 @@ The game's influence on the action genre is evident in how it "paved the way for
 
 - [[1989 - Fire Hawk - Thexder - The Second Contact|→ Next: Fire Hawk - Thexder - The Second Contact]]
 
-[[1995 - Thexder 95]]
-
-[[2009 - Thexder Neo]]
+- [[1995 - Thexder 95]]
+- [[2009 - Thexder Neo]]
 
 ## References
 

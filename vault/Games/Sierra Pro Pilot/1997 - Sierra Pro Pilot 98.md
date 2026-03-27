@@ -211,11 +211,12 @@ Compatibility with modern Windows versions is limited, requiring DOSBox or virtu
 
 ## See Also
 
-- **Previous:** N/A (First in series)
-- **See Also:** Sierra Pro Pilot 99 (1998) (1998)
 - [[1998 - Sierra Pro Pilot '99|→ Next: Sierra Pro Pilot '99]]
 
-[[1998 - Sierra Pro Pilot USA]]
+- [[1998 - Sierra Pro Pilot USA]]
+
+- **Previous:** N/A (First in series)
+- **See Also:** Sierra Pro Pilot 99 (1998) (1998)
 
 ## References
 

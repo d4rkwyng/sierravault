@@ -231,33 +231,21 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 - [[1995 - Conqueror - A.D. 1086|← Previous: Conqueror - A.D. 1086]]
 - [[1996 - Casino Deluxe 2|→ Next: Casino Deluxe 2]]
 
-[[1991 - Cohort Fighting for Rome]]
+- [[1991 - Cohort Fighting for Rome]]
+- [[1991 - Fort Apache]]
+- [[1991 - Merchant Colony]]
+- [[1992 - Air Bucks]]
+- [[1992 - Air Force Commander]]
+- [[1992 - Conquest of Japan]]
+- [[1992 - Discovery - In the Steps of Columbus]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[2002 - Emperor - Rise of the Middle Kingdom]]
 
-[[1991 - Fort Apache]]
-
-[[1991 - Merchant Colony]]
-
-[[1992 - Air Bucks]]
-
-[[1992 - Air Force Commander]]
-
-[[1992 - Conquest of Japan]]
-
-[[1992 - Discovery - In the Steps of Columbus]]
-
-[[1993 - Cohort II - Fighting for Rome]]
-
-[[1993 - WW2 Air Force Commander]]
-
-[[1994 - Detroit]]
-
-[[1994 - Front Lines]]
-
-[[1995 - Breach 3]]
-
-[[1995 - Casino De Luxe]]
-
-[[2002 - Emperor - Rise of the Middle Kingdom]]
 ## References
 
 [^ref-1]: [MobyGames – PowerHouse](https://www.mobygames.com/game/2896/powerhouse/) – developer, publisher, designers, composers, platform, ratings, technical specs, compilations, credits count
@@ -278,6 +266,4 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 [^ref-16]: [CU Amiga Magazine – July 1995 (Issue 65)](https://archive.org/details/cuamiga-magazine-065/page/n43/mode/1up) – Martin Davies preview (p. 44)
 [^ref-17]: [PC Gamer US – September 1995 (Issue 16)](https://archive.org/details/pc-gamer-issue-16-september-1995/page/n106/mode/1up) – T. Liam MacDonald review (80%), pp. 105-106
 
-[[1995 - Conqueror - A.D.]]
-[[1996 - Casino Deluxe 2]]
 [^ref-18]: [PC Games (German) – September 1995](https://archive.org/details/PC.Games.N036.1995.09-fl0n/page/n115/mode/2up) – Petra Maueröder review (82%), pp. 116-117

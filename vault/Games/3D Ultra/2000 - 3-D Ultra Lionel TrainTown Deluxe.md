@@ -211,50 +211,20 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 - [[1999 - 3-D Ultra Radio Control Racers|← Previous: 3-D Ultra Radio Control Racers]]
 - [[2000 - 3-D Ultra Pinball - Thrill Ride|→ Next: 3-D Ultra Pinball - Thrill Ride]]
 
-[[1995 - 3-D Ultra Pinball]]
-
-[[1996 - 3-D Ultra Pinball - Creep Night]]
-
-[[1997 - 3-D Ultra MiniGolf]]
-
-[[1997 - 3-D Ultra Pinball - The Lost Continent]]
-
-[[1998 - 3-D Ultra MiniGolf Deluxe]]
-
-[[1998 - 3-D Ultra NASCAR Pinball]]
-
-[[1999 - 3-D Ultra Cool Pool]]
-
-[[1999 - 3-D Ultra Lionel TrainTown]]
-
-[[1999 - 3-D Ultra Pinball - Power]]
-
-[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-
-[[2000 - Maximum Pool]]
-
-[[2006 - 3D Ultra MiniGolf Adventures]]
-
-[[2007 - 3D Ultra Minigolf Adventures Deluxe]]
-
-[[2010 - 3-D Ultra MiniGolf Adventures 2]]
-
-- [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
-- [[3-D Ultra Cool Pool]]
-- [[3D Ultra Lionel Traintown]]
-- [[3D Ultra Minigolf Adventures Deluxe]]
-- [[3D Ultra Lionel Traintown]]
-- [[3-D Ultra Pinball: Thrillride]]
-- [[3-D Ultra Pinball]]
-- [[3-D Ultra NASCAR Pinball]]
-- [[Maximum Pool]]
-- [[3-D Ultra Radio Control Racers]]
-- [[3-D Ultra MiniGolf Adventures 2]]
-- [[3D Ultra Minigolf]]
-- [[3-D Ultra Pinball: Creep Night]]
-- [[3-D Ultra Pinball: The Lost Continent]]
-- [[3-D Ultra Pinball Power!]]
-- [[3-D Ultra Mini Golf Deluxe]]
+- [[1995 - 3-D Ultra Pinball]]
+- [[1996 - 3-D Ultra Pinball - Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
+- [[1998 - 3-D Ultra NASCAR Pinball]]
+- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Lionel TrainTown]]
+- [[1999 - 3-D Ultra Pinball - Power]]
+- [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+- [[2000 - Maximum Pool]]
+- [[2006 - 3D Ultra MiniGolf Adventures]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
 ## References
 

@@ -173,10 +173,8 @@ The series is perhaps best remembered for its educational features rather than i
 
 ## See Also
 
-
-[[1996 - Power Chess]]
-
-[[1998 - Power Chess 98]]
+- [[1996 - Power Chess]]
+- [[1998 - Power Chess 98]]
 
 ## References
 

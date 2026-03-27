@@ -188,35 +188,23 @@ The game has been preserved by various abandonware sites and is considered no lo
 ## See Also
 
 - [[1989 - Emmanuelle]] - Previous Coktel adult adventure
+- [[1988 - 20000 Leagues Under the Sea]]
+- [[1988 - African Raiders-01]]
+- [[1989 - Asterix - Operation Getafix]]
+- [[1989 - ESS - European Space Simulator]]
+- [[1989 - Legend of Djel]]
+- [[1990 - Cougar Force]]
+- [[1991 - A.G.E.]]
+- [[1991 - E.S.S. Mega]]
+- [[1991 - Fascination]]
+- [[1992 - Bargon Attack]]
+- [[1992 - Ween - The Prophecy]]
+- [[1993 - Lost in Time]]
+- [[1995 - The Last Dynasty]]
+- [[1996 - Urban Runner]]
+
 - [[Muriel Tramis]] - Designer
 
-[[1988 - 20000 Leagues Under the Sea]]
-
-[[1988 - African Raiders-01]]
-
-[[1989 - Asterix - Operation Getafix]]
-
-[[1989 - ESS - European Space Simulator]]
-
-[[1989 - Legend of Djel]]
-
-[[1990 - Cougar Force]]
-
-[[1991 - A.G.E.]]
-
-[[1991 - E.S.S. Mega]]
-
-[[1991 - Fascination]]
-
-[[1992 - Bargon Attack]]
-
-[[1992 - Ween - The Prophecy]]
-
-[[1993 - Lost in Time]]
-
-[[1995 - The Last Dynasty]]
-
-[[1996 - Urban Runner]]
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3844/geisha/) – Basic game information and developer/publisher details

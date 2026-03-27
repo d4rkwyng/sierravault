@@ -203,18 +203,15 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 
 ## See Also
 
-- **Next:** Gobliiins 6 (TBA) (in development)
 - [[2009 - Gobliiins 4|← Previous: Gobliiins 4]]
 
-[[1991 - Gobliiins]]
+- [[1991 - Gobliiins]]
+- [[1992 - Gobliins 2 - The Prince Buffoon]]
+- [[1993 - Goblins Quest 3]]
+- [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+- [[2026 - Gobliins 6]]
 
-[[1992 - Gobliins 2 - The Prince Buffoon]]
-
-[[1993 - Goblins Quest 3]]
-
-[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
-
-[[2026 - Gobliins 6]]
+- **Next:** Gobliiins 6 (TBA) (in development)
 
 ## References
 

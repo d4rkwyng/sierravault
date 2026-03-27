@@ -220,8 +220,9 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 
 ## See Also
 
-- **Next:** Manhunter 3: London (Cancelled)
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
+
+- **Next:** Manhunter 3: London (Cancelled)
 
 ## References
 

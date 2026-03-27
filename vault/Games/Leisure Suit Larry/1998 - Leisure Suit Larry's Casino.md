@@ -175,6 +175,9 @@ Based on contemporary documentation:[^ref-4]
 
 The game was originally released on CD-ROM for Windows and is occasionally available through secondary market sellers. It was also included in the *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999) compilation.[^ref-7]
 
+## See Also
+
+
 ## References
 
 [^ref-1]: [Leisure Suit Larry's Casino (Video Game 1998) – IMDb](https://www.imdb.com/title/tt0427453/) – Voice cast, user ratings, and release information
@@ -188,7 +191,3 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-10]: [Al Lowe – Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) – Career timeline including departure from Sierra in February 1999
 [^ref-11]: [Leisure Suit Larry's Casino – GOG.com](https://www.gog.com/) – Game not available for digital purchase; no release on platform
 [^ref-12]: [Leisure Suit Larry's Casino (USA) – Internet Archive](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump-verified disc image for preservation and download
-
-## See Also
-
-Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]

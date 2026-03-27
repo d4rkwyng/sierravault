@@ -253,17 +253,13 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 
 ## See Also
 
+- [[1991 - Gobliiins]]
+- [[1993 - Goblins Quest 3]]
+- [[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
+- [[2009 - Gobliiins 4]]
+- [[2023 - Gobliiins 5 - The Morgloton Invasion]]
+
 - Spiritual predecessor: [[1992 - Gobliins 2 - The Prince Buffoon]] (direct sequel)
-
-[[1991 - Gobliiins]]
-
-[[1993 - Goblins Quest 3]]
-
-[[1995 - The Bizarre Adventures of Woodruff and the Schnibble]]
-
-[[2009 - Gobliiins 4]]
-
-[[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 ## References
 

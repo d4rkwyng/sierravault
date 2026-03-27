@@ -144,23 +144,15 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 - [[1996 - MissionForce - Cyberstorm|← Previous: MissionForce - Cyberstorm]]
 - [[1998 - Starsiege - Tribes|→ Next: Starsiege - Tribes]]
 
-[[1994 - Metaltech - Battledrome]]
-
-[[1994 - Metaltech - Earthsiege Speech Pack]]
-
-[[1994 - Metaltech - Earthsiege]]
-
-[[1995 - Metaltech - Earthsiege Expansion Pack]]
-
-[[1996 - Earthsiege 2]]
-
-[[1999 - Starsiege]]
-
-[[2001 - Tribes 2]]
-
-[[2002 - Tribes - Aerial Assault]]
-
-[[2024 - Tribes 3 - Rivals]]
+- [[1994 - Metaltech - Battledrome]]
+- [[1994 - Metaltech - Earthsiege Speech Pack]]
+- [[1994 - Metaltech - Earthsiege]]
+- [[1995 - Metaltech - Earthsiege Expansion Pack]]
+- [[1996 - Earthsiege 2]]
+- [[1999 - Starsiege]]
+- [[2001 - Tribes 2]]
+- [[2002 - Tribes - Aerial Assault]]
+- [[2024 - Tribes 3 - Rivals]]
 
 ## References
 

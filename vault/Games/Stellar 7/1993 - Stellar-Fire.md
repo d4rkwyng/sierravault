@@ -195,9 +195,8 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 
 - [[1993 - Stellar 7 - Draxon's Revenge|← Previous: Stellar 7 - Draxon's Revenge]]
 
-[[1990 - Stellar 7]]
-
-[[1991 - Nova 9 - The Return of Gir Draxon]]
+- [[1990 - Stellar 7]]
+- [[1991 - Nova 9 - The Return of Gir Draxon]]
 
 ## References
 

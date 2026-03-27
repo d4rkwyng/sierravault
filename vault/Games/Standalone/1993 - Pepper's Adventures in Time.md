@@ -22,57 +22,32 @@ tags: [1990s, educational, 'null', sci, sierra]
 
 ## See Also
 
-[[1981 - Softporn Adventure]]
-
-[[1983 - Troll's Tale]]
-
-[[1985 - Sierra Championship Boxing]]
-
-[[1985 - Stunt Flyer]]
-
-[[1985 - The Crimson Crown]]
-
-[[1986 - Kempelen]]
-
-[[1986 - Wrath of Denethenor]]
-
-[[1987 - 3-D Helicopter Simulator]]
-
-[[1988 - Silpheed]]
-
-[[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-
-[[1990 - Codename - Iceman]]
-
-[[1990 - Jones in the Fast Lane]]
-
-[[1990 - Zeliard]]
-
-[[1993 - Freddy Pharkas - Frontier Pharmacist]]
-
-[[1993 - Slater & Charlie Go Camping]]
-
-[[1994 - Battle Bugs]]
-
-[[1995 - Air Cavalry]]
-
-[[1995 - Fast Attack - High Tech Submarine Warfare]]
-
-[[1995 - Shannara]]
-
-[[1995 - The Ruins of Cawdor]]
-
-[[1995 - Torin's Passage]]
-
-[[1996 - Lighthouse - The Dark Being]]
-
-[[1996 - Stay Tooned!]]
-
-[[1997 - Diablo - Hellfire]]
-
-[[2001 - Arcanum]]
-
-[[2007 - World in Conflict]]
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Sierra Championship Boxing]]
+- [[1985 - Stunt Flyer]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Kempelen]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1988 - Silpheed]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Lighthouse - The Dark Being]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
 
 ## Overview
 
@@ -221,4 +196,3 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 [^ref-17]: [IMDb](https://www.imdb.com/find/?q=Pepper%27s+Adventures+in+Time&s=tt) – User score
 [^ref-18]: [Web Archive AdventureGamers](https://web.archive.org/web/20121012192955/http://www.adventuregamers.com/articles/view/18253) – Modern assessment
 [^ref-19]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-peppers-adventures-in-time/) – No sequel confirmation
-[^ref-collection]: [Consolidated Research Sources](internal/research/games/peppers-adventures-in-time/_consolidated.json) – Multiple sources from research collection

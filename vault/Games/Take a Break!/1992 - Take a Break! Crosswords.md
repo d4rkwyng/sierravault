@@ -182,8 +182,7 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 
 ## See Also
 
-
-[[1993 - Take a Break! Pinball]]
+- [[1993 - Take a Break! Pinball]]
 
 ## References
 

@@ -206,8 +206,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 
 ## See Also
 
-
-[[1997 - Eat My Dust]]
+- [[1997 - Eat My Dust]]
 
 ## References
 

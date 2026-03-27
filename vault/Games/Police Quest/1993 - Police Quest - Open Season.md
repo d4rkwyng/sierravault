@@ -157,16 +157,10 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 ## See Also
 
-Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]]
-
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-
-[[1988 - Police Quest II - The Vengeance]]
-
-[[1991 - Police Quest III - The Kindred]]
-
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+- [[1987 - Police Quest - In Pursuit of the Death Angel]]
+- [[1988 - Police Quest II - The Vengeance]]
+- [[1991 - Police Quest III - The Kindred]]
+- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 
 ## References
 

@@ -270,7 +270,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
 
-[[1993 - Betrayal at Krondor]]
+- [[1993 - Betrayal at Krondor]]
 
 ## References
 

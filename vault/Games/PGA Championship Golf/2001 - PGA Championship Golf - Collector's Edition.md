@@ -275,11 +275,9 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 
 - [[2000 - PGA Championship Golf 2000 - Titanium Edition|← Previous: PGA Championship Golf 2000 - Titanium Edition]]
 
-[[1998 - PGA Championship Golf]]
-
-[[1999 - PGA Championship Golf 1999 Edition]]
-
-[[2000 - PGA Championship Golf 2000]]
+- [[1998 - PGA Championship Golf]]
+- [[1999 - PGA Championship Golf 1999 Edition]]
+- [[2000 - PGA Championship Golf 2000]]
 
 ## References
 

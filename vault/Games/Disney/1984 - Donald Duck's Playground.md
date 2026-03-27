@@ -231,12 +231,9 @@ The game's influence can be seen in the edutainment boom that followed in the la
 
 ## See Also
 
-
-[[1984 - Mickey's Space Adventure]]
-
-[[1984 - Winnie the Pooh in the Hundred Acre Wood]]
-
-[[1986 - The Black Cauldron]]
+- [[1984 - Mickey's Space Adventure]]
+- [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
+- [[1986 - The Black Cauldron]]
 
 ## References
 

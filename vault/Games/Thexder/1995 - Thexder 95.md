@@ -216,7 +216,7 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 - [[1989 - Fire Hawk - Thexder - The Second Contact|← Previous: Fire Hawk - Thexder - The Second Contact]]
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 
-[[1985 - Thexder]]
+- [[1985 - Thexder]]
 
 ## References
 

@@ -107,8 +107,7 @@ The game's educational value has ensured its lasting relevance, with players con
 
 ## See Also
 
-
-[[1997 - Civil War Generals 2 - Grant–Lee–Sherman]]
+- [[1997 - Civil War Generals 2 - Grant–Lee–Sherman]]
 
 ## References
 

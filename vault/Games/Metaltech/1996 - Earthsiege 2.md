@@ -143,23 +143,15 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 - [[1995 - Metaltech - Earthsiege Expansion Pack|← Previous: Metaltech - Earthsiege Expansion Pack]]
 - [[1996 - MissionForce - Cyberstorm|→ Next: MissionForce - Cyberstorm]]
 
-[[1994 - Metaltech - Battledrome]]
-
-[[1994 - Metaltech - Earthsiege Speech Pack]]
-
-[[1994 - Metaltech - Earthsiege]]
-
-[[1998 - Cyberstorm 2 - Corporate Wars]]
-
-[[1998 - Starsiege - Tribes]]
-
-[[1999 - Starsiege]]
-
-[[2001 - Tribes 2]]
-
-[[2002 - Tribes - Aerial Assault]]
-
-[[2024 - Tribes 3 - Rivals]]
+- [[1994 - Metaltech - Battledrome]]
+- [[1994 - Metaltech - Earthsiege Speech Pack]]
+- [[1994 - Metaltech - Earthsiege]]
+- [[1998 - Cyberstorm 2 - Corporate Wars]]
+- [[1998 - Starsiege - Tribes]]
+- [[1999 - Starsiege]]
+- [[2001 - Tribes 2]]
+- [[2002 - Tribes - Aerial Assault]]
+- [[2024 - Tribes 3 - Rivals]]
 
 ## References
 

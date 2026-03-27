@@ -134,7 +134,7 @@ Modern preservation efforts continue through platforms like myabandonware.com[^r
 
 - [[1991 - More After Dark|→ Next: More After Dark]]
 
-[[1998 - After Dark Games]]
+- [[1998 - After Dark Games]]
 
 ## References
 
@@ -192,5 +192,4 @@ Modern preservation efforts continue through platforms like myabandonware.com[^r
 [^ref-55]: [Steam Community - Walkthrough Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2876250945) - Meta-gaming mechanics guide
 [^ref-56]: [Steam Store - Search](https://store.steampowered.com/search/?term=After+Dark+Games) - Digital storefront search
 
-[[1991 - More After Dark]]
 [^ref-57]: [SuperUser - Windows 10 Compatibility](https://superuser.com/questions/1027614/is-after-dark-compatible-for-windows-10) - Technical support discussion

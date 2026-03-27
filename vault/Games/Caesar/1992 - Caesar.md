@@ -130,16 +130,13 @@ Caesar is available for preservation through Archive.org and other historical ga
 
 ## See Also
 
-Caesar is part of Caesar's series of city-building simulation games developed by Sierra On-Line. The series began with Caesar (1992) and continued with Caesar II (1994), Caesar III (1998), and Caesar IV (2006). Each installment expanded on the core gameplay mechanics while maintaining the historical Roman setting.
+- [[1995 - Caesar II]]
+- [[1998 - Caesar III]]
+- [[2006 - Caesar IV]]
 
+Caesar is part of Caesar's series of city-building simulation games developed by Sierra On-Line. The series began with Caesar (1992) and continued with Caesar II (1994), Caesar III (1998), and Caesar IV (2006). Each installment expanded on the core gameplay mechanics while maintaining the historical Roman setting.
 **Previous:** None (first game in the series)
 **Next:** [[1994 - Caesar II]]
-
-[[1995 - Caesar II]]
-
-[[1998 - Caesar III]]
-
-[[2006 - Caesar IV]]
 
 ## References
 

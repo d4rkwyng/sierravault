@@ -195,31 +195,18 @@ The remake's significance extends beyond its individual merits to represent a br
 
 ## See Also
 
-
-[[2001 - King's Quest I VGA Remake]]
-
-[[2001 - Space Quest - The Lost Chapter]]
-
-[[2003 - Space Quest 0 - Replicated]]
-
-[[2006 - King's Quest III Remake (Infamous Adventures)]]
-
-[[2008 - Quest for Glory II VGA Remake]]
-
-[[2010 - The Silver Lining]]
-
-[[2011 - King's Quest III Redux - To Heir is Human]]
-
-[[2011 - Space Quest - Vohaul Strikes Back]]
-
-[[2011 - Space Quest II VGA Remake]]
-
-[[2012 - Space Quest - Incinerations]]
-
-[[2021 - King's Quest IV Retold]]
-
-[[2025 - SCP Sierra Conversion Project]]
-
+- [[2001 - King's Quest I VGA Remake]]
+- [[2001 - Space Quest - The Lost Chapter]]
+- [[2003 - Space Quest 0 - Replicated]]
+- [[2006 - King's Quest III Remake (Infamous Adventures)]]
+- [[2008 - Quest for Glory II VGA Remake]]
+- [[2010 - The Silver Lining]]
+- [[2011 - King's Quest III Redux - To Heir is Human]]
+- [[2011 - Space Quest - Vohaul Strikes Back]]
+- [[2011 - Space Quest II VGA Remake]]
+- [[2012 - Space Quest - Incinerations]]
+- [[2021 - King's Quest IV Retold]]
+- [[2025 - SCP Sierra Conversion Project]]
 
 ## References
 

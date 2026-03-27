@@ -219,7 +219,7 @@ While the Amiga version disappointed some critics who found it technically infer
 
 - [[1991 - A-10 Tank Killer v1.5|→ Next: A-10 Tank Killer v1.5]]
 
-[[1996 - Silent Thunder - A-10 Tank Killer II]]
+- [[1996 - Silent Thunder - A-10 Tank Killer II]]
 
 ## References
 

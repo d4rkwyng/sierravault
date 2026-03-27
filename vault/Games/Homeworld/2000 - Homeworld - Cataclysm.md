@@ -146,11 +146,9 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 - [[1999 - Homeworld|← Previous: Homeworld]]
 - [[2003 - Homeworld 2|→ Next: Homeworld 2]]
 
-[[2015 - Homeworld Remastered Collection]]
-
-[[2016 - Homeworld - Deserts of Kharak]]
-
-[[2024 - Homeworld 3]]
+- [[2015 - Homeworld Remastered Collection]]
+- [[2016 - Homeworld - Deserts of Kharak]]
+- [[2024 - Homeworld 3]]
 
 ## References
 

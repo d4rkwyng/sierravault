@@ -172,13 +172,14 @@ The game is documented in gaming databases including GameFAQs[^ref-14], Giant Bo
 
 ## See Also
 
-- **Series:** Part of the 5-game Crazy Nick's Software Picks compilation series released in 1992[^ref-12]
-- **Related:** Based on board games from Sierra's Hoyle series (specifically [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]])[^ref-1][^ref-6]
-
 - [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]]
 - [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Parlor Games with Laura Bow]]
 - [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Robin Hood's Games of Skill and Chance]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Roger Wilco's Spaced Out Game Pack]]
+
+- **Series:** Part of the 5-game Crazy Nick's Software Picks compilation series released in 1992[^ref-12]
+- **Related:** Based on board games from Sierra's Hoyle series (specifically [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games Volume 3]])[^ref-1][^ref-6]
+
 ## References
 
 [^ref-1]: [MobyGames Game Database](https://www.mobygames.com/game/20400/crazy-nicks-software-picks-king-grahams-board-game-challenge/) – Basic game information and metadata

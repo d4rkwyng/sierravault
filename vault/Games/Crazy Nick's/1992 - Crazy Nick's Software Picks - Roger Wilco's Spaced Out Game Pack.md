@@ -201,18 +201,17 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 
 ## See Also
 
+- [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|← Previous: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+
+- [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
+- [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
+- [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
+
 - King Graham's Board Game Challenge (1992)
 - Parlor Games with Laura Bow (1992)
 - Robin Hood's Game of Skill and Chance (1992)
 - Leisure Suit Larry Casino (1992)
 - Roger Wilco's Spaced Out Game Pack (1992)
-- [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|← Previous: Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
-
-[[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
-
-[[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
-
-[[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 
 ## References
 

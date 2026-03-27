@@ -199,20 +199,12 @@ This game has been included in the following collections:
 
 ## See Also
 
-Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
-
-
-[[1986 - Space Quest - The Sarien Encounter]]
-
-[[1987 - Space Quest II - Vohaul's Revenge]]
-
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
-
-[[1993 - Space Quest V - The Next Mutation]]
-
-[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+- [[1986 - Space Quest - The Sarien Encounter]]
+- [[1987 - Space Quest II - Vohaul's Revenge]]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+- [[1993 - Space Quest V - The Next Mutation]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest III](https://en.wikipedia.org/wiki/Space_Quest_III) – C&VG 83% review, Game Player's awards

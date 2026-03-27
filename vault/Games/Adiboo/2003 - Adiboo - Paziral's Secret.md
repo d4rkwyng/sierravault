@@ -227,7 +227,7 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 - [[1996 - Adiboo - Magical Playland|← Previous: Adiboo - Magical Playland]]
 - [[2004 - Adiboo and the Energy Thieves|→ Next: Adiboo and the Energy Thieves]]
 
-[[1992 - A.J.'s World of Discovery]]
+- [[1992 - A.J.'s World of Discovery]]
 
 ## References
 

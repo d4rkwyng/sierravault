@@ -120,12 +120,11 @@ Phantasmagoria: A Puzzle of Flesh is available for preservation through various 
 
 ## See Also
 
-Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagoria series, following the original Phantasmagoria (1995) which established the horror anthology concept. While both games share the Phantasmagoria title and horror themes, they feature completely different stories and characters, as Sierra intended the series to be an anthology rather than a direct sequel line.
+- [[1995 - Phantasmagoria]]
 
+Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagoria series, following the original Phantasmagoria (1995) which established the horror anthology concept. While both games share the Phantasmagoria title and horror themes, they feature completely different stories and characters, as Sierra intended the series to be an anthology rather than a direct sequel line.
 **Previous:** [[1995 - Phantasmagoria]]
 **Next:** None (series ended after two installments)
-
-[[1995 - Phantasmagoria]]
 
 ## References
 

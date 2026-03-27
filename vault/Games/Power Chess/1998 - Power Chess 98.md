@@ -222,10 +222,8 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 
 ## See Also
 
-
-[[1996 - Power Chess]]
-
-[[1999 - Power Chess 2.0]]
+- [[1996 - Power Chess]]
+- [[1999 - Power Chess 2.0]]
 
 ## References
 

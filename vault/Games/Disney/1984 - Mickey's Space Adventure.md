@@ -233,12 +233,9 @@ The collaboration between Sierra and Disney established a template for education
 
 ## See Also
 
-
-[[1984 - Donald Duck's Playground]]
-
-[[1984 - Winnie the Pooh in the Hundred Acre Wood]]
-
-[[1986 - The Black Cauldron]]
+- [[1984 - Donald Duck's Playground]]
+- [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
+- [[1986 - The Black Cauldron]]
 
 ## References
 

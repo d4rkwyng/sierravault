@@ -185,15 +185,9 @@ The Beast Within's commercial success, reaching fourth place in January 1996's b
 
 ## See Also
 
-Series: [[Gabriel Knight: Sins of the Fathers]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
-
-
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-
-[[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-
+- [[1993 - Gabriel Knight - Sins of the Fathers]]
+- [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 ## References
 

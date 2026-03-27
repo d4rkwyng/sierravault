@@ -133,15 +133,9 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 
 ## See Also
 
-Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
-
-
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-
+- [[1993 - Gabriel Knight - Sins of the Fathers]]
+- [[1995 - The Beast Within - A Gabriel Knight Mystery]]
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 ## References
 

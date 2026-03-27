@@ -146,12 +146,12 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 
 ## See Also
 
-- **Next:** Mixed-Up Fairy Tales (1991)
 - [[1991 - Mixed-Up Fairy Tales|← Previous: Mixed-Up Fairy Tales]]
 
-[[1987 - Mixed-Up Mother Goose]]
+- [[1987 - Mixed-Up Mother Goose]]
+- [[1990 - Mixed-Up Mother Goose (SCI Remake)]]
 
-[[1990 - Mixed-Up Mother Goose (SCI Remake)]]
+- **Next:** Mixed-Up Fairy Tales (1991)
 
 ## References
 

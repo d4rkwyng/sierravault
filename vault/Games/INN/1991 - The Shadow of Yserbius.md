@@ -176,10 +176,8 @@ Several bugs and design issues were documented during the game's lifespan:
 
 ## See Also
 
-
-[[1993 - Fates of Twinion]]
-
-[[1996 - The Realm Online]]
+- [[1993 - Fates of Twinion]]
+- [[1996 - The Realm Online]]
 
 ## References
 

@@ -263,16 +263,10 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 
 ## See Also
 
-Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
-
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-
-[[1988 - Police Quest II - The Vengeance]]
-
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-
-[[1993 - Police Quest - Open Season]]
+- [[1987 - Police Quest - In Pursuit of the Death Angel]]
+- [[1988 - Police Quest II - The Vengeance]]
+- [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+- [[1993 - Police Quest - Open Season]]
 
 ## References
 

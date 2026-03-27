@@ -210,18 +210,11 @@ This game has been included in the following collections:
 
 ## See Also
 
-Series: [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages of War]] • [[Quest for Glory: Shadows of Darkness]] • [[Quest for Glory V: Dragon Fire]]
-
-
-[[1990 - Quest for Glory II - Trial by Fire]]
-
-[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
-
-[[1992 - Quest for Glory III - Wages of War]]
-
-[[1993 - Quest for Glory IV - Shadows of Darkness]]
-
-[[1998 - Quest for Glory V - Dragon Fire]]
+- [[1990 - Quest for Glory II - Trial by Fire]]
+- [[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
+- [[1992 - Quest for Glory III - Wages of War]]
+- [[1993 - Quest for Glory IV - Shadows of Darkness]]
+- [[1998 - Quest for Glory V - Dragon Fire]]
 
 ## References
 [^ref-1]: [Wikipedia – Quest for Glory: So You Want to Be a Hero](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_So_You_Want_to_Be_a_Hero) – history, plot, gameplay, development, reception

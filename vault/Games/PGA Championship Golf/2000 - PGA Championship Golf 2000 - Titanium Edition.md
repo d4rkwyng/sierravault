@@ -105,14 +105,11 @@ The game's multiple edition releases and regional variations[^ref-23] demonstrat
 
 ## See Also
 
+- [[1998 - PGA Championship Golf]]
+- [[1999 - PGA Championship Golf 1999 Edition]]
+- [[2000 - PGA Championship Golf 2000]]
+- [[2001 - PGA Championship Golf - Collector's Edition]]
 
-[[1998 - PGA Championship Golf]]
-
-[[1999 - PGA Championship Golf 1999 Edition]]
-
-[[2000 - PGA Championship Golf 2000]]
-
-[[2001 - PGA Championship Golf - Collector's Edition]]
 ## References
 
 [^ref-1]: [Abandonware DOS - PGA Championship Golf 2000 Search](https://www.abandonwaredos.com/search.php?search=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Search results page for game archives
