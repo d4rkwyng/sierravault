@@ -15,8 +15,8 @@ last_updated: '2026-01-09'
 description: '3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game
   underscored by an action-adventure story line that was released in 1997 by Sierra...'
 tags: [1990s, 3-d-ultra-pinball, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Pinball: The Lost Continent
 
 <small style="color: gray">Last updated: March 11, 2026</small>

@@ -14,8 +14,8 @@ last_updated: '2026-01-31'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # Maximum Pool
 
 <small style="color: gray">Last updated: March 11, 2026</small>

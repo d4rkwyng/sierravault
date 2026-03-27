@@ -14,8 +14,8 @@ last_updated: '2026-02-13'
 description: 3D Ultra Minigolf is a miniature golf simulation game released in 1997
   by Sierra On-Line, developed by Dynamix and Jeff Tunnell Productions. The game marked...
 tags: [1990s, 3d-ultra, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3D Ultra Minigolf
 
 <small style="color: gray">Last updated: March 11, 2026</small>

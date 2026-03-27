@@ -14,8 +14,8 @@ last_updated: '2026-01-16'
 description: 3-D Ultra Pinball Power! is a comprehensive compilation package released
   by Sierra On-Line in 1999, collecting four of the most acclaimed titles from...
 tags: [1990s, 3-d-ultra-pinball, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Pinball Power!
 
 <small style="color: gray">Last updated: March 11, 2026</small>

@@ -14,8 +14,8 @@ last_updated: '2026-02-04'
 description: 3-D Ultra Radio Control Racers, developed by Dynamix, Inc. and published
   by Sierra On-Line in 1999, was part of Sierra's budget-friendly 3-D Ultra series...
 tags: [1990s, 3-d-ultra, racing, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Radio Control Racers
 
 <small style="color: gray">Last updated: March 11, 2026</small>

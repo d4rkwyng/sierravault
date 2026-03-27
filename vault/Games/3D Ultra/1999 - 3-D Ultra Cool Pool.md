@@ -14,8 +14,8 @@ last_updated: '2026-02-04'
 description: 3-D Ultra Cool Pool is a billiards simulation game developed by Dynamix
   through Jeff Tunnell Productions and published by Sierra Attractions in 1999....
 tags: [1990s, 3-d-ultra, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Cool Pool
 
 <small style="color: gray">Last updated: March 11, 2026</small>

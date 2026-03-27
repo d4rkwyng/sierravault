@@ -14,8 +14,8 @@ last_updated: '2026-01-30'
 description: 3-D Ultra Mini Golf Deluxe is "a minigolf game for the Windows PC, designed
   by Dynamix and published by Sierra. It was released in 1998 as a sequel to the...
 tags: [1990s, 3d-ultra, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Mini Golf Deluxe
 
 <small style="color: gray">Last updated: March 11, 2026</small>

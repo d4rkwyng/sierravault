@@ -15,8 +15,8 @@ description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996....'
 tags: [1990s, 3-d-ultra-pinball, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra Pinball: Creep Night
 
 <small style="color: gray">Last updated: March 11, 2026</small>

@@ -14,8 +14,8 @@ last_updated: '2026-01-16'
 description: '*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf
   game developed by Wanako Games and published by Activision, released on July 23,...'
 tags: [2000s, 3-d-ultra-minigolf, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3D Ultra Minigolf Adventures Deluxe
 
 <small style="color: gray">Last updated: March 11, 2026</small>

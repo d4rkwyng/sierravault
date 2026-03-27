@@ -15,8 +15,8 @@ description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanak
   Games and published by Sierra Entertainment, released in September 2010 for Xbox
   Live...
 tags: [2010s, 3d-ultra, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra MiniGolf Adventures 2
 
 <small style="color: gray">Last updated: March 11, 2026</small>

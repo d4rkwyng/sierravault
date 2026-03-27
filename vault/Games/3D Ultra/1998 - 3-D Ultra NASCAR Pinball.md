@@ -14,8 +14,8 @@ last_updated: '2026-01-22'
 description: '3-D Ultra NASCAR Pinball is a virtual pinball game that combines two
   of America''s favorite pastimes: energetic pinball and high-speed car racing. Released...'
 tags: [1990s, 3-d-ultra-pinball, dynamix, sierra]
---
-last_modified: 2026-03-15T15:49:44-
+last_modified: 2026-03-15T15:49:44-07:00
+---
 # 3-D Ultra NASCAR Pinball
 
 <small style="color: gray">Last updated: March 11, 2026</small>
