@@ -111,6 +111,12 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 
+
+## Downloads
+
+**Download / Preservation**
+- [MyAbandonware](https://www.myabandonware.com/game/aces-of-the-pacific-1th)
+
 ## See Also
 
 - [[1993 - Aces Over Europe|→ Next: Aces Over Europe]]

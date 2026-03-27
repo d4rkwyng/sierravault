@@ -39,6 +39,10 @@ The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe de
 
 ## Gameplay
 
+### Interface and Controls
+
+*Leisure Suit Larry's Casino* presents a 2D point-and-click interface rendered in SVGA graphics, with players navigating Larry's casino resort through various themed rooms and game areas.[^ref-4] The game supports both mouse-driven interaction for casino games and keyboard input for the online chat and social features. Single-player mode allows play against computer-controlled opponents, while the online mode through WON enables real-time multiplayer with other players.[^ref-5]
+
 ### Casino Games
 
 *Leisure Suit Larry's Casino* features five traditional casino games that players can enjoy either against computer opponents in single-player mode or against other players online:[^ref-4]
@@ -90,15 +94,21 @@ Source: IMDB[^ref-1]
 
 ## Reception
 
+### Contemporary Reviews
+
 Contemporary reviews of *Leisure Suit Larry's Casino* were mixed. IGN reviewer Chris Buckman noted that the game was "much better than those budget titles" referring to Sierra's earlier casino compilations, but cautioned that "how much you enjoy it depends on what you're looking for in a gambling simulation."[^ref-5] The review praised the online social features but criticized the lack of customization options standard in most casino simulations, such as the inability to set the number of players at a table in single-player mode.[^ref-5]
 
 Metacritic described the game as "a match made in sleaze heaven," acknowledging the natural fit between the Leisure Suit Larry franchise and casino gaming.[^ref-8] The game currently holds a 6.6/10 user rating on IMDB based on 29 ratings.[^ref-1]
 
 The game appealed primarily to fans of the Leisure Suit Larry adventure games who enjoyed the characters and humor, and to those interested in the free online multiplayer casino experience.[^ref-5] However, players seeking a comprehensive casino simulation with detailed tutorials and strategy options were advised to look elsewhere.[^ref-5]
 
+### Modern Assessment
+
+The game holds a 6.6/10 user rating on IMDB based on 29 ratings[^ref-1], reflecting its niche appeal as a casino spinoff rather than a full adventure game entry. With the WON online service long defunct, modern players can only experience the single-player component, which strips away what was arguably the game's strongest feature — its social multiplayer environment.[^ref-3]
+
 **Known Scores:**
 - **IMDB:** 6.6/10 (29 ratings)[^ref-1]
-- **ESRB:** Mature[^ref-8]
+- **MobyGames:** Listed[^ref-2]
 
 ## Development
 
@@ -177,6 +187,9 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 
 ## See Also
 
+- [[1996 - Leisure Suit Larry 7 - Love for Sail|← Previous: Leisure Suit Larry 7 - Love for Sail]]
+- [[2004 - Leisure Suit Larry - Magna Cum Laude|→ Next: Leisure Suit Larry - Magna Cum Laude]]
+- [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino]]
 
 ## References
 

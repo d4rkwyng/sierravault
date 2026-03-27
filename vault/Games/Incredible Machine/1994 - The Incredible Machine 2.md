@@ -15,7 +15,7 @@ description: The Incredible Machine 2, released in 1994, stands as one of the mo
   innovative puzzle games of the 1990s, challenging players to "arrange a given...
 tags: [1990s, puzzle, sierra, the-incredible-machine]
 ---
-# The Incredible Machine
+# The Incredible Machine 2
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
@@ -91,6 +91,12 @@ The Incredible Machine's influence on gaming cannot be overstated. Jeff Tunnell 
 The game's educational value has made it a lasting presence in classrooms worldwide. Modern educators continue to use The Incredible Machine to teach STEM concepts, with initiatives like Cassandra Ivie's 4-H program demonstrating that "STEM is accessible to everyone and that it is also a lot of fun"[^ref-37]. The game's influence on modern indie developers is evident in titles that continue to copy "this age old formule"[^ref-38], proving the enduring appeal of physics-based puzzle solving.
 
 In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contraption Maker, a spiritual successor that represents "a true second-generation game"[^ref-39]. This modern interpretation maintains the original's core appeal while leveraging contemporary technology, as Tunnell noted: "Working on Contraption Maker with modern processors and GPU's, huge memory, connectivity, and high definition monitors is like being in a dream world"[^ref-40].
+
+
+## Downloads
+
+**Download / Preservation**
+- [MyAbandonware](https://www.myabandonware.com/game/the-incredible-machine-2-2vk)
 
 ## See Also
 

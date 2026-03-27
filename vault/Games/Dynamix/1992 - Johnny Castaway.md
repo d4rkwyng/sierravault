@@ -7,6 +7,7 @@ platforms:
   - Windows 3.x
 genre: Screensaver
 sierra_lineage: Sierra Label (Dynamix)
+series: Johnny Castaway
 created: 2026-02-12
 last_updated: "2026-03-11"
 ---

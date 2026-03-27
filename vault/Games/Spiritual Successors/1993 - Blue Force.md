@@ -160,6 +160,12 @@ Despite its troubled reception, Blue Force remains historically significant as a
 - [My Abandonware - Blue Force](https://www.myabandonware.com/game/blue-force-1yu) — Download and game information[^ref-8]
 - Playable through ScummVM via TsAGE engine support[^ref-11]
 
+
+## Downloads
+
+**Download / Preservation**
+- [MyAbandonware](https://www.myabandonware.com/game/blue-force-6io)
+
 ## See Also
 
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]

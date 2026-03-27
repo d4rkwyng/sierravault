@@ -6,7 +6,7 @@ designer: [Oded Sharon, Corey Cole, Lori Ann Cole]
 publisher: Adventure Mob / Corbomite Games
 genre: Point-and-click adventure
 platforms: [Windows, macOS, Linux, iOS, Android]
-series: null
+series: Bolt Riley
 engine: Unity
 protagonist: Bolt Riley
 sierra_lineage: Alumni Project

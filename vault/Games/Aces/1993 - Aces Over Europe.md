@@ -94,6 +94,12 @@ Aces Over Europe featured several technical improvements over its predecessor, i
 
 The game has been discussed in community forums[^ref-28] and manual preservation efforts continue through Sierra Help[^ref-29].
 
+
+## Downloads
+
+**Download / Preservation**
+- [MyAbandonware](https://www.myabandonware.com/game/aces-over-europe-o3e)
+
 ## See Also
 
 - [[1992 - Aces of the Pacific|← Previous: Aces of the Pacific]]

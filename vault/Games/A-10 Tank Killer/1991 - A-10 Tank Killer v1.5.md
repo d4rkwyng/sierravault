@@ -17,7 +17,7 @@ description: A-10 Tank Killer is a combat flight simulation that puts players in
   cockpit of the A-10 Thunderbolt II, also known as the "Warthog". Developed by...
 tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
-# A-10 Tank Killer
+# A-10 Tank Killer v1.5
 
 <small style="color: gray">Last updated: March 19, 2026</small>
 

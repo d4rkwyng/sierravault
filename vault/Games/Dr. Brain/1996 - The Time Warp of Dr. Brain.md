@@ -191,6 +191,12 @@ Original Sierra marketing materials preserved in the Wayback Machine showcase th
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
+
+## Downloads
+
+**Download / Preservation**
+- [MyAbandonware](https://www.myabandonware.com/game/the-time-warp-of-dr-brain-3rf)
+
 ## See Also
 
 - [[1991 - Castle of Dr. Brain]]
