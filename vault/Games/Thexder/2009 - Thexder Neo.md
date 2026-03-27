@@ -184,7 +184,7 @@ Despite its critical reception, the game found a niche audience among PlayStatio
 
 The title's connection to Sierra's gaming legacy through the original game's Western distribution deal with Ken Williams represents an important piece of gaming history. It demonstrates how Japanese developers and American publishers collaborated to bring innovative games to Western markets in the 1980s[^ref-4].
 
-The original Thexder was groundbreaking for its time—a Japanese action game that found success in America through Sierra's publishing network. The 2009 remake, while unsuccessful, at least kept the franchise name alive and introduced it to a new generation of players who might then discover the original.
+The original Thexder was notable for its time—a Japanese action game that found success in America through Sierra's publishing network. The 2009 remake, while unsuccessful, at least kept the franchise name alive and introduced it to a new generation of players who might then discover the original.
 
 ### Square Enix's Revival Strategy
 

@@ -84,7 +84,7 @@ The strategic depth extended to pitcher-batter confrontations, where players cou
 
 ## Roster Management
 
-The roster system in Front Page Sports Baseball Pro offered unprecedented depth for its era.
+The roster system in Front Page Sports Baseball Pro offered unusual depth for its era.
 
 Each team carried 50 players (25 active, 15 AAA, and 10 low minors)[^ref-6], creating a realistic minor league structure for player development. The amateur draft system pulled from colleges, allowing managers to scout and select promising young talent. "Injuries, recovery time, weather conditions, and both amateur and free-agent draft options create an amazingly realistic approach to the management of baseball"[^ref-9].
 

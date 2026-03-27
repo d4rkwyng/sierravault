@@ -141,7 +141,7 @@ The game was marketed as part of the broader Hoyle franchise, which encompasses 
 
 Hoyle Miami Solitaire represents an interesting inflection point in the history of the venerable Hoyle gaming brand. Originally associated with Sierra Entertainment's long-running series of card and board game compilations dating back to the late 1980s, the Hoyle name had become synonymous with officially branded digital card gaming [^ref-7][^ref-9]. The transition to Encore Software marked a shift toward more budget-focused, thematically adventurous releases.
 
-The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not groundbreaking, Hoyle Miami Solitaire delivered on its promise of providing accessible, relaxing card gaming entertainment wrapped in an appealing aesthetic package. As Gamezebo noted, the game successfully captured "the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
+The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not notable, Hoyle Miami Solitaire delivered on its promise of providing accessible, relaxing card gaming entertainment wrapped in an appealing aesthetic package. As Gamezebo noted, the game successfully captured "the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
 
 ## Purchase
 

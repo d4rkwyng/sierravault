@@ -202,7 +202,7 @@ Merchant Colony occupies an interesting position in gaming history as an ambitio
 
 The dramatic variance in contemporary review scores—from 23% to 89%—illustrates how the game appealed strongly to players who appreciated its depth while frustrating those seeking more accessible gameplay. This polarization is characteristic of niche strategy titles that prioritize simulation depth over broad accessibility.
 
-From a design perspective, Merchant Colony's influence can be traced through Impressions' later work, particularly High Seas Trader which refined many of the same concepts. The game represents an early exploration of themes—global trade, colonial expansion, economic management—that would become popular subgenres in their own right. While not a landmark title, Merchant Colony deserves recognition as a pioneering effort in historical economic simulation.
+From a design perspective, Merchant Colony's influence can be traced through Impressions' later work, particularly High Seas Trader which refined many of the same concepts. The game represents an early exploration of themes—global trade, colonial expansion, economic management—that would become popular subgenres in their own right. While not a landmark title, Merchant Colony deserves recognition as a notable effort in historical economic simulation.
 
 
 ## Purchase

@@ -227,3 +227,6 @@ The title has developed a cult following among players who experienced it during
 [^ref-10]: [Sierra Gamers – Sierra Games](https://www.sierragamers.com/sierra-games/) – Sierra fan community game list
 [^ref-11]: [GameFAQs – Stay Tooned!](https://gamefaqs.gamespot.com/pc/199175-stay-tooned) – game database entry
 [^ref-12]: [Giant Bomb – Stay Tooned!](https://www.giantbomb.com/stay-tooned/3030-21877/) – game database, screenshots
+[^ref-13]: [The Collection Chamber – Stay Tooned!](https://collectionchamber.blogspot.com/2018/09/stay-tooned.html) – game preservation and emulation guide
+[^ref-14]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – browser-based game preservation
+[^ref-15]: [Internet Archive – Stay Tooned! (USA)](https://archive.org/details/staytoonedusa) – original disc image preservation

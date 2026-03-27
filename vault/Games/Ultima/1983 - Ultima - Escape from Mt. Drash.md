@@ -211,3 +211,8 @@ The game's historical significance lies not in its gameplay contributions—whic
 [^ref-8]: [The Oasis BBS – Ultima: Escape from Mt. Drash](https://theoasisbbs.com/ultima-escape-from-mt-drash-the-forgotten-ultima-game-comes-to-c64/) – C64 conversion, preservation efforts
 [^ref-9]: [Giant Bomb – Ultima: Escape from Mt. Drash](https://www.giantbomb.com/ultima-escape-from-mt-drash/3030-5115/) – game database entry, collector information, development background
 [^ref-10]: [IGDB – Ultima: Escape from Mt. Drash](https://www.igdb.com/games/ultima-escape-from-mt-drash) – game database entry, platform information
+[^ref-11]: [The CRPG Addict – Game 160: Ultima: Escape from Mount Drash](http://crpgaddict.blogspot.com/2014/08/game-160-ultima-escape-from-mount-drash.html) – detailed gameplay analysis, modern playthrough documentation
+[^ref-12]: [Hardcore Gaming 101 – Ultima: Escape from Mt. Drash](http://www.hardcoregaming101.net/ultima-escape-from-mt-drash/) – retrospective review, historical context, gameplay critique
+[^ref-13]: [Nerdly Pleasures – The Obscure Ultima](http://nerdlypleasures.blogspot.com/2019/01/the-obscure-ultima-ultima-escape-from.html) – detailed hardware analysis, VIC-20 technical documentation
+[^ref-14]: [Computer Game Museum – Ultima: Escape from Mt. Drash](https://www.mocagh.org/loadpage.php?getgame=drash) – packaging scans, physical media documentation, collector reference
+[^ref-15]: [Dino's Complete Guide to Ultima – Escape from Mount Drash](https://gigi.nullneuron.net/ultima/umtdrash/) – comprehensive gameplay guide, maps, walkthrough documentation

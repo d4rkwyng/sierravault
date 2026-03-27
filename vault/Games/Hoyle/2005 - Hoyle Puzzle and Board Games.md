@@ -329,3 +329,4 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 [^ref-13]: [RAWG – Hoyle Puzzle Board Games 2005 Suggestions](https://rawg.io/games/hoyle-puzzle-board-games-2005/suggestions) – related Hoyle titles, series timeline[^ref-13]: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-board-games/) - game wiki
 [^ref-14]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB entry
 [^ref-15]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - gaming database
+[^ref-16]: [PCGamingWiki – Hoyle's Official Book of Games Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle's_Official_Book_of_Games) – comprehensive series documentation, game information, technical fixes and community notes

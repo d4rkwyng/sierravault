@@ -52,7 +52,7 @@ With only 600,000 survivors in cryogenic storage aboard the Mothership, the Kush
 
 ### Interface and Controls
 
-Homeworld pioneered a revolutionary 3D interface for real-time strategy gaming. "We had the basic control scheme nailed on day one. Ironing out the details of that basic scheme was a simple two-year task…" recalled lead designer Alex Garden.[^ref-7] The mouse controls featured right-click rotation, mouse wheel zoom, and middle-click camera following, allowing players to navigate the vast three-dimensional battlespace intuitively.[^ref-7] A unique cube-shaped mini-map with 3-axis rotation helped players maintain spatial awareness in the fully 3D environment.[^ref-5]
+Homeworld pioneered a significant 3D interface for real-time strategy gaming. "We had the basic control scheme nailed on day one. Ironing out the details of that basic scheme was a simple two-year task…" recalled lead designer Alex Garden.[^ref-7] The mouse controls featured right-click rotation, mouse wheel zoom, and middle-click camera following, allowing players to navigate the vast three-dimensional battlespace intuitively.[^ref-7] A unique cube-shaped mini-map with 3-axis rotation helped players maintain spatial awareness in the fully 3D environment.[^ref-5]
 
 Interestingly, the development team discovered that "players who had very little exposure to top-down RTS games had an easier time learning the controls to Homeworld," according to designer Erin Daly.[^ref-7] The game featured an innovative Sensors Manager that displayed the tactical situation when the limited visual range prevented seeing the full battle area.[^ref-14] Players could issue commands to individual ships or entire groups, setting formations and tactical stances to control engagement behavior.
 

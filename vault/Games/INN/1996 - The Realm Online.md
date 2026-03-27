@@ -80,7 +80,7 @@ Despite lukewarm critical reception, the game achieved notable commercial succes
 
 ### Modern Assessment
 
-Modern perspectives on The Realm Online tend to view it through a historical lens, recognizing its pioneering contributions to the genre while acknowledging its limitations by contemporary standards. TV Tropes describes it as "mostly remembered as a waypoint for players awaiting Ultima Online and EverQuest," suggesting its role as a stepping stone in MMORPG evolution.[^ref-2] One Reddit user recalled: "Think that was my first 'mmorpg' game I played. Got me used to questing on pc and the grind. Well, until EQ came out."[^ref-10]
+Modern perspectives on The Realm Online tend to view it through a historical lens, recognizing its notable contributions to the genre while acknowledging its limitations by contemporary standards. TV Tropes describes it as "mostly remembered as a waypoint for players awaiting Ultima Online and EverQuest," suggesting its role as a stepping stone in MMORPG evolution.[^ref-2] One Reddit user recalled: "Think that was my first 'mmorpg' game I played. Got me used to questing on pc and the grind. Well, until EQ came out."[^ref-10]
 
 The game has maintained a dedicated player base despite declining numbers over the years. By 2004, active accounts had dropped to approximately 6,000, and by 2008, the game typically saw 100-200 players during peak hours.[^ref-1] Current estimates suggest the game maintains around 200 daily players across its servers.[^ref-11]
 

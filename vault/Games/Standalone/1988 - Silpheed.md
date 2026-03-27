@@ -238,7 +238,7 @@ The Sierra versions of Silpheed are only available as abandonware, likely due to
 
 ### Critical Perspective
 
-Silpheed holds an important place in video game history as one of the pioneering titles to demonstrate the potential of 3D graphics on home computers. While the gameplay itself follows familiar shoot-em-up conventions, the technical achievements of rendering real-time polygons on 8-bit hardware were remarkable for 1986. The game established Game Arts as a technically ambitious developer, a reputation they would maintain through subsequent releases including the Lunar and Grandia RPG series.[^ref-12]
+Silpheed holds an important place in video game history as one of the notable titles to demonstrate the potential of 3D graphics on home computers. While the gameplay itself follows familiar shoot-em-up conventions, the technical achievements of rendering real-time polygons on 8-bit hardware were remarkable for 1986. The game established Game Arts as a technically ambitious developer, a reputation they would maintain through subsequent releases including the Lunar and Grandia RPG series.[^ref-12]
 
 The game's influence extended beyond its immediate commercial success. The tilted 3D perspective and polygonal ship designs are believed to have inspired Nintendo's Star Fox, which would bring similar visual concepts to console audiences years later.[^ref-43][^ref-20] Silpheed also demonstrated that high-quality music could be a significant selling point for computer games, helping to elevate expectations for game audio throughout the industry.[^ref-5][^ref-6]
 

@@ -237,3 +237,11 @@ From a historical perspective, WizType demonstrates how early educational softwa
 [^ref-10]: [Internet Archive – C64 Manual](https://archive.org/details/Wizard_of_Ids_Wiztype_1984_Sierra_On-Line) – Commodore 64 documentation
 [^ref-11]: [Wikidata – Wizard of Id's WizType](https://www.wikidata.org/wiki/Q56335067) – structured data, identifiers
 [^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+
+[^ref-13]: [Giant Bomb – Wizard of Id's WizType](https://www.giantbomb.com/wizard-of-ids-wiztype/3030-16784/) – Game database entry, platform details, genre classification
+
+[^ref-14]: [PixelatedArcade – Wizard of Id's WizType](https://pixelatedarcade.com/games/wizard-of-id-s-wiztype) – Abandonware archive, game preservation, multi-platform documentation
+
+[^ref-15]: [LaunchBox Games Database – Wizard of Id's WizType](https://gamesdb.launchbox-app.com/games/details/123987-the-wizard-of-ids-wiztype) – Game database with metadata, platform information
+
+[^ref-16]: [Glitchwave – Wizard of Id's WizType](https://glitchwave.com/game/wizard-of-ids-wiztype/) – Video games database, reviews and ratings, user community assessment

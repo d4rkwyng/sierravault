@@ -196,7 +196,7 @@ Documentation for the standalone VIC-20 and Atari releases was minimal, typical 
 
 ### Critical Perspective
 
-Creepy Corridors occupies an interesting position in Sierra's history—a reminder that the company known for pioneering graphic adventures began as a publisher of varied software, including straightforward arcade games. While King's Quest (1984) would define Sierra's future, games like Creepy Corridors demonstrate the company's willingness to experiment across genres during its formative years.
+Creepy Corridors occupies an interesting position in Sierra's history—a reminder that the company known for notable graphic adventures began as a publisher of varied software, including straightforward arcade games. While King's Quest (1984) would define Sierra's future, games like Creepy Corridors demonstrate the company's willingness to experiment across genres during its formative years.
 
 The game's technical innovations, particularly the sampled speech on Apple II, foreshadowed Sierra's later emphasis on pushing audio-visual boundaries in their adventure games. Chuck Bueche's careful assembly language optimization and creative use of limited resources exemplified the craftsmanship required of early game developers working within severe hardware constraints.
 
@@ -254,3 +254,5 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 [^ref-12]: [My Abandonware – Creepy Corridors](https://www.myabandonware.com/game/creepy-corridors-74p) – user ratings, file size, release information
 [^ref-13]: [Internet Archive – Apple II Compilation Disk](https://archive.org/details/a2_cple_Apple_Zap_Bcs_Quest_For_Tires_Creepy_Corridors_Laf_Pak_Mine_Sweep_Space_Rac) – disk specifications, cheat codes, preservation data
 [^ref-14]: [Games That Weren't – Creepy Corridors](https://www.gamesthatwerent.com/gtw64/creepy-corridors/) – missing C64 version, advertisement details, mockup screenshot
+[^ref-15]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/55566/) – game information and details
+[^ref-16]: [MobyGames – Creepy Corridors](https://www.mobygames.com/game/152715/hotel-remorse/) – mobyGames database entry for Hotel Remorse (not Creepy Corridors as mentioned in the request) - note: the game title ...

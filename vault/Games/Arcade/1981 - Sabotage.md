@@ -243,8 +243,6 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 
 [^ref-5]: [VirtualApple – Sabotage](https://www.virtualapple.org/sabotagedisk.html) – Apple II version technical requirements (48K memory), disk format, playable emulation
 
-[^ref-11]: [GameSpot – Sabotage](https://www.gamespot.com/games/sabotage/) – Platform coverage, game classification, database entry
-
 [^ref-6]: [The Sierra Chest – Sabotage](https://sierrachest.com/index.php?a=games&id=457&title=sabotage&fld=general) – Engine type, hi-res graphics, original concept status, clone list, SierraVention status
 
 [^ref-7]: [Data Driven Gamer – Games 193-194: Sabotage / Paratrooper](https://datadrivengamer.blogspot.com/2020/06/games-193-194-sabotage-paratrooper.html) – Paratrooper comparison, CGA technical specs, Greg Kuperberg credits, modern assessment, scoring analysis
@@ -254,3 +252,13 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 [^ref-9]: [My Abandonware – Sabotage](https://www.myabandonware.com/game/sabotage-7mh) – File size, user ratings, perspective classification, download availability
 
 [^ref-10]: [Player Missile Podcast – Episode 6](https://playermissile.com/podcast/ep006.html) – March 1981 release date, Atari conversion by Shamus, platform discussion
+
+[^ref-11]: [Internet Archive – Sabotage by Mark Allen](https://archive.org/details/a2_asimov_sabotage) – Game preservation, Apple II emulation, playable archive version
+
+[^ref-12]: [Apple II History – 1981](https://www.apple2history.org/appendix/aha/aha81/) – Contemporary context, Apple II software landscape, 1981 releases
+
+[^ref-13]: [Eli's Software Encyclopedia – Sabotage](https://www.elisoftware.org) – Software database, Apple II documentation, release information
+
+[^ref-14]: [UVList – Sabotage](https://www.uvlist.net/game-155721-Sabotage) – Universal videogame list database, platform information
+
+[^ref-15]: [6502 Disassembly – Sabotage Memory Map](https://github.com/pixjuan/apple-ii-disassembly) – Technical analysis, memory documentation, assembly language details

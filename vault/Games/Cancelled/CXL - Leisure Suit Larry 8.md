@@ -10,14 +10,14 @@ series: Leisure Suit Larry
 engine: SCI (planned)
 protagonist: Larry Laffer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: '**Leisure Suit Larry 8: Lust in Space**, also known by the alternate
   title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running...'
 tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry 8: Lust in Space
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview
@@ -188,6 +188,15 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 
 ## See Also
 
+- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
+- [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
+- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
+- [[1996 - Leisure Suit Larry 7 - Love for Sail]]
+- [[2004 - Leisure Suit Larry - Magna Cum Laude]]
+- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
 
 ## References
 
@@ -219,3 +228,5 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 [^ref-14]: [IMDB – Leisure Suit Larry: Magna Cum Laude](https://www.imdb.com/title/tt0421136/) – Cast and crew information, voice actors
 
 [^ref-15]: [Screen Rant – Why You Should Play Leisure Suit Larry Games](https://screenrant.com/leisure-suit-larry-worth-steam-removal-op-ed/) – Series historical significance, delisting concerns
+
+[^ref-16]: [Leisure Suit Larry Wiki](https://lsl.fandom.com/wiki/Leisure_Suit_Larry) – Series database, game information, character histories, Al Lowe biography

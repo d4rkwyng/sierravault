@@ -121,7 +121,7 @@ The Shadow of Yserbius spawned a series that included The Fates of Twinion (1993
 
 ### Network History and Closure
 
-The Sierra Network was renamed to the ImagiNation Network and continued operating until AT&T purchased it from Sierra in 1994[^ref-4]. AOL subsequently acquired the rights from AT&T for a rumored $40 million in 1996 and shut down the service shortly thereafter[^ref-4]. The online version of the game ceased operation in 1996, ending an era of pioneering online gaming.
+The Sierra Network was renamed to the ImagiNation Network and continued operating until AT&T purchased it from Sierra in 1994[^ref-4]. AOL subsequently acquired the rights from AT&T for a rumored $40 million in 1996 and shut down the service shortly thereafter[^ref-4]. The online version of the game ceased operation in 1996, ending an era of notable online gaming.
 
 ### Revival Efforts
 

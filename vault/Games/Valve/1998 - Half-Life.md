@@ -94,7 +94,7 @@ The final chapters on Xen introduce platforming mechanics with reduced gravity, 
 
 ### Contemporary Reviews
 
-Half-Life received universal acclaim upon release, with reviewers praising its revolutionary approach to storytelling and gameplay integration. Game-Over awarded scores of 94% and 95% from two reviewers, with Cyrus declaring it "the current leader in the overly large pack of 3D shooters and it leads by far" and noting that "this game flows more like an interactive movie than a game"[^ref-24]. IGN proclaimed it "the best single player shooter I've ever played" and "a tour de force in game design, the definitive single player game in a first person shooter"[^ref-25].
+Half-Life received universal acclaim upon release, with reviewers praising its significant approach to storytelling and gameplay integration. Game-Over awarded scores of 94% and 95% from two reviewers, with Cyrus declaring it "the current leader in the overly large pack of 3D shooters and it leads by far" and noting that "this game flows more like an interactive movie than a game"[^ref-24]. IGN proclaimed it "the best single player shooter I've ever played" and "a tour de force in game design, the definitive single player game in a first person shooter"[^ref-25].
 
 The game earned over fifty "Game of the Year" awards from various publications in 1998, cementing its status as a landmark release[^ref-3]. The Academy of Interactive Arts and Sciences named it "Computer Game of the Year," while the Game Critics Awards recognized it as both "Best PC Game" and "Best Action Game" at E3 1998[^ref-12]. PC Gamer eventually declared it the "Best Game of All Time," and GameSpy readers voted it the "Greatest Game of All Time"[^ref-3].
 

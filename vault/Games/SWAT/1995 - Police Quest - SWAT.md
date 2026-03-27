@@ -237,7 +237,7 @@ According to GOG.com forum discussions, "back in the 2000s, there were a couple 
 
 ### Critical Perspective
 
-Police Quest: SWAT occupies an unusual position in gaming history as a title that succeeded commercially while failing critically. The game arrived during the "multimedia explosion" of the mid-1990s when CD-ROM technology enabled unprecedented use of full-motion video, yet "suffered the same fate as most 'interactive movie' style games released during the so-called multimedia explosion."[^ref-10] Unlike many such titles, however, SWAT found its audience among players seeking authentic tactical simulation rather than traditional gaming entertainment.
+Police Quest: SWAT occupies an unusual position in gaming history as a title that succeeded commercially while failing critically. The game arrived during the "multimedia explosion" of the mid-1990s when CD-ROM technology enabled unusual use of full-motion video, yet "suffered the same fate as most 'interactive movie' style games released during the so-called multimedia explosion."[^ref-10] Unlike many such titles, however, SWAT found its audience among players seeking authentic tactical simulation rather than traditional gaming entertainment.
 
 The game's emphasis on procedure over gameplay proved divisive, with some viewing it as innovative realism and others as tedious simulation. Jim Walls, creator of the original Police Quest games, later reflected that "the payoff came with the fan mail. When the letters came in, with some of the kids saying they wanted to grow up to be cops, we knew we were on the right track."[^ref-34] This educational dimension extended to SWAT, with GOG.com reviewers noting that "many law enforcement agencies used the series as a training tool."[^ref-35]
 

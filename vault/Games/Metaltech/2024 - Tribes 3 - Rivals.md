@@ -43,6 +43,12 @@ The development team focused on recreating the core Tribes experience while attr
 
 ## Gameplay
 
+### Interface and Controls
+
+Tribes 3: Rivals utilizes keyboard and mouse controls optimized for fast-paced multiplayer combat.[^ref-5] Players use WASD for character movement, spacebar for jumping and jet pack activation, and mouse aiming for weapons targeting. The interface preserves the signature "skiing" mechanic that allows players to accelerate downhill at high velocities, a defining feature of the Tribes series since the original 1998 release.[^ref-5] Custom keybindings are available, and the game supports both controller and mouse-and-keyboard input configurations for accessibility across different player preferences.[^ref-6]
+
+The HUD displays real-time information including health, shield levels, ammunition count, team status, flag position in Capture the Flag modes, and player radar for tactical awareness.[^ref-5] This streamlined interface balances competitive information density with visual clarity, enabling players to make quick decisions in high-speed aerial combat.
+
 ### Core Mechanics
 
 Tribes 3: Rivals preserves the signature gameplay elements that defined the original Dynamix-developed titles:[^ref-5]
@@ -73,11 +79,17 @@ The game launched with seven maps: Katabatic, Wavemist, DryDock, Dangerous Cross
 - Custom matches with adjustable physics and settings
 - Team Death Match on smaller arena maps (Honor Dome, Ice Dome, Magma Dome)
 
-## Reception and Status
+## Reception
 
-Tribes 3: Rivals launched into Early Access on March 12, 2024, but struggled to find an audience.[^ref-2] The game failed to reach a thousand concurrent players and has maintained only a few hundred active players at most times.[^ref-3]
+### Contemporary Reviews
 
-On June 27, 2024, Prophecy Games posted an announcement on Steam stating that neither Tribes 3: Rivals nor their other title Starsiege: Deadzone "had enough success yet to support the studio."[^ref-4] The developer announced that updating the game would no longer be their main focus, effectively putting the title on indefinite hiatus.[^ref-4]
+Tribes 3: Rivals launched into Early Access on March 12, 2024, but struggled to find an audience.[^ref-2] Gaming media outlets including Rock Paper Shotgun covered the Early Access launch as an ambitious attempt to revive a dormant franchise.[^ref-2] IGN documented the game's release and provided coverage of its early player reception.[^ref-8]
+
+The game failed to reach a thousand concurrent players and has maintained only a few hundred active players at most times.[^ref-3] Steam community reviews reflect mixed sentiment, with players praising the faithful recreation of Tribes mechanics while criticizing the small player base and lack of ongoing development support.[^ref-5]
+
+### Modern Assessment
+
+On June 27, 2024, Prophecy Games posted an announcement on Steam stating that neither Tribes 3: Rivals nor their other title Starsiege: Deadzone "had enough success yet to support the studio."[^ref-4] The developer announced that updating the game would no longer be their main focus, effectively putting the title on indefinite hiatus.[^ref-4] PC Gamer's retrospective coverage noted that the game "looks cooked after three months," reflecting the rapid decline in player engagement.[^ref-4]
 
 | Metric | Status |
 |--------|--------|
@@ -85,7 +97,19 @@ On June 27, 2024, Prophecy Games posted an announcement on Steam stating that ne
 | Current Status | Development paused[^ref-4] |
 | Steam Reviews | Mixed |
 
-The official website provides gameplay tutorials and FAQ documentation for new players.[^ref-6] IGN and other outlets covered the game's early access launch.[^ref-8] Player communities track statistics through SteamCharts[^ref-7] and discuss strategies on the official Discord server.[^ref-11]
+## Legacy
+
+### Tribes Franchise Revival Attempts
+
+Tribes 3: Rivals represents the latest in a series of attempts to revive the Tribes franchise following Tribes: Ascend (2012).[^ref-14] Unlike earlier entries developed by major studios (Dynamix, Sierra, Hi-Rez), Prophecy Games pursued an independent development approach using Unreal Engine 5.[^ref-1]
+
+The game's failure to gain traction mirrors broader challenges facing niche multiplayer games in the modern market.[^ref-4] Despite maintaining technical faithfulness to the classic Tribes formula—including skiing mechanics, jet packs, and Capture the Flag—the game struggled to attract sufficient players to sustain online multiplayer communities.[^ref-5]
+
+### Community Preservation
+
+While development is paused, player communities continue to maintain the game through the official Discord server and community hub on Steam.[^ref-11] The relatively small but dedicated playerbase persists in playing matches despite the lack of new content or balance updates.[^ref-10] Tribes enthusiasts recognize Tribes 3: Rivals as the closest modern representation of the classic Dynamix vision, even if commercial success eluded the project.[^ref-18]
+
+The official website continues to provide gameplay tutorials and FAQ documentation for players interested in learning the game's mechanics.[^ref-6]
 
 ## Downloads
 

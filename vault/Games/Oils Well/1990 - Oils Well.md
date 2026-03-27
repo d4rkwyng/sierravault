@@ -207,7 +207,7 @@ Oil's Well occupies an interesting position in Sierra's catalog as one of their 
 
 The 1990 remake illustrates the challenges of updating classic arcade games for modern audiences. While the technical improvements – VGA graphics, Ken Allen's soundtrack, and animated interludes – were substantial, the fundamental gameplay remained rooted in early 1980s design sensibilities.[^ref-6] This disconnect between presentation and gameplay depth led some critics to question whether the remake was necessary, though the charming Slater character proved memorable enough to spawn his own game.[^ref-5][^ref-6]
 
-As an historical artifact, Oil's Well represents Sierra's diverse publishing strategy during their golden era, demonstrating their willingness to maintain and update their back catalog even as they pushed forward with groundbreaking adventure games like King's Quest V and Space Quest IV.
+As an historical artifact, Oil's Well represents Sierra's diverse publishing strategy during their golden era, demonstrating their willingness to maintain and update their back catalog even as they pushed forward with notable adventure games like King's Quest V and Space Quest IV.
 
 ## Purchase
 

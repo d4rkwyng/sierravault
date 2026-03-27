@@ -22,7 +22,7 @@ tags: [1980s, adventure, agi, al-lowe, leisure-suit-larry, sierra]
 
 ## Overview
 
-**Leisure Suit Larry in the Land of the Lounge Lizards** stands as one of Sierra On-Line's most iconic and controversial adventure games. Released in 1987, the game was created by Al Lowe as a comedic update to the 1981 text adventure **Softporn Adventure**[^ref-1]. When Lowe first encountered the original game, he famously remarked to Sierra co-founder Ken Williams, "This game is so out of date, anybody who plays it would have to wear a leisure suit"[^ref-2]. This quip would eventually inspire both the game's title and its protagonist's signature fashion sense.
+**Leisure Suit Larry in the Land of the Lounge Lizards** stands as one of Sierra On-Line's most distinctive and controversial adventure games. Released in 1987, the game was created by Al Lowe as a comedic update to the 1981 text adventure **Softporn Adventure**[^ref-1]. When Lowe first encountered the original game, he famously remarked to Sierra co-founder Ken Williams, "This game is so out of date, anybody who plays it would have to wear a leisure suit"[^ref-2]. This quip would eventually inspire both the game's title and its protagonist's signature fashion sense.
 
 Despite initial commercial struggles, with only 4,000 copies sold in its first month[^ref-3], the game eventually became what Guinness World Records recognizes as "the biggest sleeper hit in adventure gaming history"[^ref-4]. The game introduced players to Larry Laffer, a 40-year-old balding software salesman whose quest for romantic fulfillment in the neon-soaked city of Lost Wages, Nevada, would spawn an entire franchise and establish a new subgenre of adult-oriented computer games[^ref-5].
 

@@ -151,7 +151,7 @@ The OpenRetro database gives the game a modern aggregate score of 7.9/10, reflec
 
 ### Market Context
 
-*Sierra Soccer* entered a crowded Amiga football market dominated by two legendary franchises:
+*Sierra Soccer* entered a crowded Amiga football market dominated by two well-known franchises:
 
 - **Sensible Soccer** (1992) – Known for lightning-fast gameplay and deep management
 - **Kick Off 2** (1990) – Praised for ball physics and technical depth
@@ -341,3 +341,5 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-12]: [IGDB – Sierra Soccer](https://www.igdb.com/games/sierra-soccer-world-challenge-edition) – Internet Games Database
 [^ref-13]: [Giant Bomb – Sierra Soccer](https://www.giantbomb.com/sierra-soccer-world-challenge-edition/) – Game wiki
 [^ref-14]: [ExoticA – Sierra Soccer Music](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation, composer Charles Callet
+[^ref-15]: [GamesNostalgia – Sierra Soccer Download](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – abandonware preservation and emulation support
+[^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry

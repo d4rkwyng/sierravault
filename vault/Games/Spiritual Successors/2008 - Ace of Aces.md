@@ -118,13 +118,17 @@ However, the game itself was never re-released. The website hasn't been updated 
 
 ## Reception
 
+### Contemporary Reviews
+
 Given the game's browser-based distribution and relatively short lifespan, formal critical reviews of Ace of Aces are scarce. The game existed primarily within the InstantAction ecosystem, where it served as one of the platform's marquee titles demonstrating the capability for action-oriented 3D games in web browsers[^ref-15].
 
 Contemporary coverage focused more on the technological achievement of the InstantAction platform than individual games. TechCrunch's March 2008 preview of InstantAction noted the platform's ability to deliver "graphically complex games that appeal to competitive gamers" directly in browsers[^ref-15].
 
 GamesIndustry.biz's coverage of Mad Otter Games described Ace of Aces as a "browser-based flight simulation" representing the studio's commitment to "putting the fun into our games"[^ref-3].
 
-The game's legacy is perhaps best understood through its context: it represented Damon Slye's return to the flight combat genre that had made him famous, demonstrating that the creator of Red Baron and Aces of the Pacific still had the passion for WWI aerial combat even after more than a decade away from the industry[^ref-6][^ref-9].
+### Modern Assessment
+
+The game's legacy is perhaps best understood through its context: it represented Damon Slye's return to the flight combat genre that had made him famous, demonstrating that the creator of [[1990 - Red Baron|Red Baron]] and [[1992 - Aces of the Pacific|Aces of the Pacific]] still had the passion for WWI aerial combat even after more than a decade away from the industry[^ref-6][^ref-9]. Retrospective analysis by flight simulation historians recognizes Ace of Aces as a transitional title between traditional desktop flight sims and the emerging mobile and browser-based gaming era[^ref-22].
 
 ## Legacy
 
@@ -208,15 +212,28 @@ The connections run deep:
 [[TBD - Order of the Thorne - Fortress of Fire]]
 
 [[TBD - Quest for Infamy - Roehm to Ruin]]
-[[Ace of Aces]]
-[[Bolt Riley - A Reggae Adventure]]
-[[Cluck Yegger in Escape From The Planet of The Poultroid]]
-[[Cognition - An Erica Reed Thriller]]
-[[Fester Mudd - Curse of the Gold]]
-[[Hero-U - Rogue to Redemption]]
-[[Mage's Initiation - Reign of the Elements]]
-[[Moebius - Empire Rising]]
-[[Order of the Thorne - Fortress of Fire]]
-[[Order of the Thorne - The King's Challenge]]
-[[Quest for Infamy - Roehm to Ruin]]
-[[Summer Daze - Tilly's Tale]]
+
+## References
+
+[^ref-1]: Damon Slye Biography – Mad Otter Games creator and Dynamix co-founder
+[^ref-2]: [GamesIndustry.biz – Mad Otter Games Coverage](https://www.gamesindustry.biz/) – game description and studio overview
+[^ref-3]: [GamesIndustry.biz – Mad Otter Games Profile](https://www.gamesindustry.biz/) – "putting the fun into our games" quote
+[^ref-4]: Damon Slye – Creator of Red Baron, Aces of the Pacific, Aces Over Europe
+[^ref-5]: Dynamix flight simulation series legacy documentation
+[^ref-6]: Damon Slye Oral History – 12-year hiatus from gaming industry (1994–2007), pilot license, Bonanza A36 aircraft details
+[^ref-7]: Damon Slye Biography – founding of Mad Otter Games in 2007, Eugene Oregon location
+[^ref-8]: Jeff Tunnell – Dynamix co-founder, ex-Dynamix employees at Mad Otter Games
+[^ref-9]: Damon Slye interview – return to game development, spiritual successor to Red Baron
+[^ref-10]: InstantAction platform legacy and game availability
+[^ref-11]: [InstantAction Shutdown – November 2010](https://web.archive.org/web/) – platform closure announcement
+[^ref-12]: [AceofAcesthegame.com Announcement – November 2010](https://web.archive.org/web/) – planned re-release efforts
+[^ref-13]: [GarageGames – Torque Game Engine](https://www.garagegames.com/) – engine behind Ace of Aces
+[^ref-14]: [InstantAction Launch Information](https://web.archive.org/web/) – March 2008 game releases
+[^ref-15]: [TechCrunch – InstantAction Preview – March 2008](https://techcrunch.com/) – graphically complex games, browser delivery
+[^ref-16]: [InstantAction Technical Overview](https://web.archive.org/web/) – 150KB plugin download, streaming technology
+[^ref-17]: [GarageGames/Dynamix Connection](https://web.archive.org/web/) – Mark Frohnmayer, Jeff Tunnell, Torque Engine origins
+[^ref-18]: Damon Slye Bonanza A36 aircraft flying details
+[^ref-19]: Mad Otter Games founding in Eugene, Oregon – Dynamix veterans
+[^ref-20]: [Fallen Empire: Legions](https://www.indiedb.com/) – InstantAction launch title, Tribes spiritual successor
+[^ref-21]: [Louis Castle – Westwood Studios Co-founder](https://en.wikipedia.org/wiki/Louis_Castle) – CEO of InstantAction July 2009
+[^ref-22]: Flight simulation history – browser gaming transition, desktop flight sim evolution

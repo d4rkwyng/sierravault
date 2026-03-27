@@ -148,7 +148,7 @@ The educational features have aged better than the graphics and flight model, wi
 
 Sierra Pro Pilot 98 was developed during a competitive period in flight simulation, with Sierra attempting to challenge Microsoft's longstanding dominance in the genre[^ref-2]. Microsoft Flight Simulator had established itself as the definitive civilian flight sim, and Sierra saw an opportunity to capture market share with modern technology and aggressive marketing.
 
-The project brought together two significant entities: Dynamix, Sierra's Eugene, Oregon-based development studio known for A-10 Tank Killer and other simulation titles, and Sub-Logic, the legendary company that had created the original Flight Simulator software before selling it to Microsoft. Graeme Bayless explained the strategy: "We wanted to combine Dynamix's proprietary 3-D tool set with the sharp minds and massive data of Sub-Logic"[^ref-2].
+The project brought together two significant entities: Dynamix, Sierra's Eugene, Oregon-based development studio known for A-10 Tank Killer and other simulation titles, and Sub-Logic, the well-known company that had created the original Flight Simulator software before selling it to Microsoft. Graeme Bayless explained the strategy: "We wanted to combine Dynamix's proprietary 3-D tool set with the sharp minds and massive data of Sub-Logic"[^ref-2].
 
 ### Production Challenges
 

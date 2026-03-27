@@ -298,7 +298,7 @@ Night Dive Studios, known for resurrecting classic games, attempted to secure ri
 
 ### Critical Perspective
 
-No One Lives Forever 2 occupies a unique position in gaming history as a critically acclaimed masterpiece that became essentially lost media due to corporate indifference. Its seamless blend of action, stealth, and comedy demonstrated that first-person shooters could be genuinely funny without sacrificing gameplay sophistication. The game's writing—sharp, witty, and surprisingly progressive for its era—showed that a female protagonist could anchor an action game without resorting to exploitation or stereotypes.
+No One Lives Forever 2 occupies a unique position in gaming history as a well-received masterpiece that became essentially lost media due to corporate indifference. Its seamless blend of action, stealth, and comedy demonstrated that first-person shooters could be genuinely funny without sacrificing gameplay sophistication. The game's writing—sharp, witty, and surprisingly progressive for its era—showed that a female protagonist could anchor an action game without resorting to exploitation or stereotypes.
 
 The game's technical innovations, particularly its Goal-Oriented Action Planning AI system, influenced subsequent titles and demonstrated Monolith's technical prowess before their later successes with F.E.A.R. and Middle-earth: Shadow of Mordor. Its immersive sim elements presaged a broader trend in action games toward player choice and emergent gameplay.
 

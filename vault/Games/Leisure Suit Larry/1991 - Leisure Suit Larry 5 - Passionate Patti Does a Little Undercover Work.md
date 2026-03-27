@@ -53,7 +53,7 @@ The game introduced several unique interface elements, including the infamous "Z
 
 Unlike previous Larry games, Leisure Suit Larry 5 is notably more linear in structure[^ref-20]. Players alternate between controlling Larry and Patti as they travel to different locations across the United States, with the narrative switching perspectives when characters board airplanes[^ref-21]. The game is structured around separate episodes for each character, eventually bringing their storylines together for the climax[^ref-22].
 
-A revolutionary aspect of the game's design was the removal of death and failure states. As one reviewer noted, "Unlike the previous Larry games, you cannot die in game nor get stuck. There are always ways out of a situation"[^ref-23]. This design decision aligned with Al Lowe's vision of creating an interactive cartoon experience[^ref-6].
+A significant aspect of the game's design was the removal of death and failure states. As one reviewer noted, "Unlike the previous Larry games, you cannot die in game nor get stuck. There are always ways out of a situation"[^ref-23]. This design decision aligned with Al Lowe's vision of creating an interactive cartoon experience[^ref-6].
 
 ### Puzzles and Mechanics
 

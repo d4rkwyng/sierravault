@@ -267,3 +267,13 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
+
+[^ref-11]: [Steam Community Guide – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character biographies, Facemaker feature, voice actor research
+
+[^ref-12]: [Walmart – Hoyle Card Games 2000](https://www.walmart.com/ip/Hoyle-Card-Games-2000/133350203) – retail product documentation
+
+[^ref-13]: [Encore Support Forums – Face Creator Issues](http://forums.encoreusa.com/tm.asp?m=49230) – technical support documentation, Face Creator functionality
+
+[^ref-14]: [ELI Software Encyclopedia – Hoyle Kids Games](https://elisoftware.org/w/index.php/Hoyle_Kids'_Games_(PC,_CD-ROM)_Sierra_-_2001_USA,_Canada_Release) – technical specifications, system requirements
+
+[^ref-15]: [JustAnswer – Hoyle Games Installation Support](https://www.justanswer.com/computer/g8zx9-recently-received-new-sierra-three-card-games.html) – user community support, technical documentation

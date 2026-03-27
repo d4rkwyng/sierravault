@@ -187,7 +187,7 @@ The game is supported by ScummVM for modern system compatibility, allowing it to
 
 Playtoons 3: Secret of the Castle represents an interesting point in the evolution of children's educational software during the mid-1990s multimedia boom. The game arrived during a period when CD-ROM technology was enabling increasingly ambitious interactive experiences for young users, and Coktel Vision positioned itself at the forefront of this movement with its combination of storytelling and creativity tools.
 
-The game's approach—offering both consumption and creation modes—anticipated later developments in game design that would emphasize user-generated content. While not revolutionary in execution, the Playtoons series demonstrated an understanding that children could be empowered as creators rather than merely passive consumers of digital content. The medieval setting of Secret of the Castle, with its Arthurian themes and castle intrigue, provided accessible fantasy elements that appealed to the target demographic while teaching basic narrative concepts through interactive play.
+The game's approach—offering both consumption and creation modes—anticipated later developments in game design that would emphasize user-generated content. While not significant in execution, the Playtoons series demonstrated an understanding that children could be empowered as creators rather than merely passive consumers of digital content. The medieval setting of Secret of the Castle, with its Arthurian themes and castle intrigue, provided accessible fantasy elements that appealed to the target demographic while teaching basic narrative concepts through interactive play.
 
 ## Purchase
 
@@ -221,3 +221,13 @@ The game's approach—offering both consumption and creation modes—anticipated
 [^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release dates, user ratings, download information
 [^ref-9]: [UVList – Playtoons 3](https://www.uvlist.net/game-37959-Playtoons+3%3A+The+Secret+of+the+Castle) – game database entry, platform information
 [^ref-10]: [The Sierra Chest – Box Information](https://sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=box) – packaging details, included content
+
+[^ref-11]: [Abandonware France – Playtoons 3](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=1225) – French release information, game preservation archive
+
+[^ref-12]: [SensCritique – Playtoons 3 Game Review](https://www.senscritique.com/jeuvideo/playtoons_3_le_secret_du_chateau/408375) – community reviews and ratings
+
+[^ref-13]: [Internet Archive – Playtoons 3 Collection](https://archive.org/details/playtoons-3) – game preservation documentation, archive entry
+
+[^ref-14]: [Grokipedia – Playtoons Series Overview](https://grokipedia.com/page/playtoons) – series history and documentation
+
+[^ref-15]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – aggregated reviews and critical assessment

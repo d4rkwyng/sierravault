@@ -293,3 +293,5 @@ From a historical perspective, Hellfire represents an interesting case study in 
 [^ref-11]: [Cynical Gaming Blog – Diablo Hellfire Review](https://cynicalgamingblog.wordpress.com/2024/06/27/old-review-archive-diablo-hellfire-review/) – Retrospective assessment, StarCraft dungeon controversy, multiplayer patch, hidden classes
 [^ref-12]: [Metacritic – Diablo Hellfire Bundle](https://www.metacritic.com/game/diablo-hellfire-bundle/user-reviews/) – User score aggregate, review breakdown percentages
 [^ref-13]: [GameFAQs – Diablo Hellfire Bundle Review](https://gamefaqs.gamespot.com/pc/935320-diablo-hellfire-bundle/reviews/87644) – User review score, Butcher quote, gameplay longevity assessment
+[^ref-14]: [Internet Archive – Diablo Hellfire Bundle](https://archive.org/details/diablohellfire) – game media preservation and original disc images
+[^ref-15]: [Computer Hope – Hellfire Expansion](https://www.computerhope.com/games/games/hellfire.htm) – expansion pack specifications and system requirements

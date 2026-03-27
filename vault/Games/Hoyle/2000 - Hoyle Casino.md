@@ -272,3 +272,7 @@ The multi-platform release strategy employed for Hoyle Casino 2000 was relativel
 [^ref-9]: [IGN – Hoyle Casino Game Page](https://www.ign.com/games/hoyle-casino) – game summary, review score
 [^ref-10]: [Sierra Chest – Hoyle Casino 5](https://sierrachest.com/index.php?a=games&id=809&title=hoyle-casino-5&fld=publications) – release dates, catalog reference
 [^ref-11]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_(2000)) – technical specifications, DRM information, version history
+[^ref-12]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...
+[^ref-13]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/) – game information and details
+[^ref-14]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45137/hoyle-casino/) – comprehensive game metadata from MobyGames, providing detailed development credits, technical specifications, and gam...
+[^ref-15]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45135/hoyle-casino/) – database entry from MobyGames with basic game information, limited critic score data, and gameplay description

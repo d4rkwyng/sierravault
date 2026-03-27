@@ -25,7 +25,7 @@ IndyCar Racing is a racing simulation video game developed by [[Papyrus Design G
 
 With an official license from CART, IndyCar Racing offered eight real track names and designs with authentic sponsors and logos, putting players behind the wheel against real IndyCar drivers on circuits including Michigan International, Nazareth PA, Laguna Seca, Portland International, Milwaukee, Loudon NH, Toronto, and Long Beach.[^ref-1][^ref-4] The game arrived "hot on the heels of Geoff Crammond's excellent Formula One Grand Prix," establishing Papyrus as one of the leading developers in sim racing—a legacy that continues to this day.[^ref-5][^ref-6]
 
-The game's advanced physics model and texture-mapped 3D graphics were revolutionary for their time, with creator David Kaemmer stating, "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-7] At its release, IndyCar Racing was "practically matching coinop racers from Sega and Namco that run on dedicated hardware specifically designed for racers"—and this was before the Sony PlayStation even launched in 1994.[^ref-8]
+The game's advanced physics model and texture-mapped 3D graphics were significant for their time, with creator David Kaemmer stating, "I wanted to make a program that would show someone, as much as possible, what it was like to drive a racecar."[^ref-7] At its release, IndyCar Racing was "practically matching coinop racers from Sega and Namco that run on dedicated hardware specifically designed for racers"—and this was before the Sony PlayStation even launched in 1994.[^ref-8]
 
 > [!info]- Game Info
 > **Developer:** Papyrus Design Group[^ref-1]
@@ -76,7 +76,7 @@ Expansion packs later added seven additional tracks, bringing the total to 15 ci
 
 ### Contemporary Reviews
 
-IndyCar Racing received widespread critical acclaim upon release, with reviewers praising its unprecedented realism and physics simulation. Computer Gaming World named it their Simulation Game of the Year for 1994, describing it as "the only current driving sim where 180 mph feels like 180 mph" and "the motor sports aficionado's dream come true."[^ref-2]
+IndyCar Racing received widespread critical acclaim upon release, with reviewers praising its unusual realism and physics simulation. Computer Gaming World named it their Simulation Game of the Year for 1994, describing it as "the only current driving sim where 180 mph feels like 180 mph" and "the motor sports aficionado's dream come true."[^ref-2]
 
 - **Hyper Magazine:** 92% (February 1994)[^ref-2]
 - **Electronic Entertainment:** 9/10 (March 1994)[^ref-2]
@@ -86,7 +86,7 @@ The game also received recognition at the 1994 SIIA CODiE Awards, winning Best S
 
 ### Modern Assessment
 
-Modern retrospectives continue to praise IndyCar Racing for its groundbreaking physics engine. One GOG.com user noted: "Unbelievable physics model - even by today's standards. Car damage is very accurately portrayed and you have to be a very skilled driver to navigate a lap, let alone a whole race."[^ref-13] The game is widely recognized for establishing Papyrus's reputation as a leading developer in simulation racing.[^ref-6]
+Modern retrospectives continue to praise IndyCar Racing for its notable physics engine. One GOG.com user noted: "Unbelievable physics model - even by today's standards. Car damage is very accurately portrayed and you have to be a very skilled driver to navigate a lap, let alone a whole race."[^ref-13] The game is widely recognized for establishing Papyrus's reputation as a leading developer in simulation racing.[^ref-6]
 
 **Aggregate Scores:**
 - **MobyGames:** 8.1/10 (Critic Average: 86%)[^ref-1][^ref-14]
@@ -210,7 +210,7 @@ The game has been preserved and is available through various abandonware and arc
 
 ### Critical Perspective
 
-IndyCar Racing represents a pivotal moment in racing simulation history, bridging the gap between the pioneering but limited Indianapolis 500: The Simulation and the genre-defining NASCAR Racing series that would follow. Its success proved that there was a substantial market for hardcore racing simulations on PC, separate from the arcade-style racing games popular on consoles.
+IndyCar Racing represents a pivotal moment in racing simulation history, bridging the gap between the notable but limited Indianapolis 500: The Simulation and the genre-defining NASCAR Racing series that would follow. Its success proved that there was a substantial market for hardcore racing simulations on PC, separate from the arcade-style racing games popular on consoles.
 
 The game's influence extends beyond its own success. Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies, and eventually Grand Prix Legends (1998), which "is still considered to be one of the finest racing games of all time."[^ref-21] David Kaemmer later recovered the rights to Papyrus's racing simulation technology after the studio was shut down by Vivendi Universal in May 2004, eventually founding iRacing, which continues the Papyrus simulation legacy in the modern era.[^ref-21]
 

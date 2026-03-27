@@ -159,7 +159,7 @@ The multi-window interface created usability problems for many players, as manag
 
 ## Voice Cast
 
-Thexder 95 featured minimal voice work, with the primary audio element being the iconic "Warning. Intruder." announcement that played during gameplay[^ref-14]. The original games were known for their sparse but effective use of synthesized voice warnings and sound effects[^ref-25].
+Thexder 95 featured minimal voice work, with the primary audio element being the distinctive "Warning. Intruder." announcement that played during gameplay[^ref-14]. The original games were known for their sparse but effective use of synthesized voice warnings and sound effects[^ref-25].
 
 ## Legacy
 

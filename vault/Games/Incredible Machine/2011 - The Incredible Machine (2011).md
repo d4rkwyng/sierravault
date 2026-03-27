@@ -129,7 +129,7 @@ The game was developed for Jeff Tunnell Productions and published through Sierra
 
 ### Technical Achievements
 
-The game's physics engine was groundbreaking for its time. Using integer-based calculations rather than floating-point mathematics, the engine achieved deterministic simulation results across different platforms[^ref-28]. This meant that any player could share their machine design with another player and be confident that it would behave identically on both systems.
+The game's physics engine was notable for its time. Using integer-based calculations rather than floating-point mathematics, the engine achieved deterministic simulation results across different platforms[^ref-28]. This meant that any player could share their machine design with another player and be confident that it would behave identically on both systems.
 
 The engine simulated realistic physical properties including gravity, momentum, air pressure, and object collisions[^ref-3]. With 45 different parts available, the system had to track complex interactions between multiple moving objects simultaneously[^ref-16]. The technical achievement was particularly impressive given the hardware limitations of early 1990s computers, which required the game to run on systems as modest as an Intel 386SX processor with only 640 KB of RAM[^ref-30].
 
@@ -253,7 +253,7 @@ Jeff Tunnell and his team earned a patent (US Patent #5577185) for the game conc
 
 The Incredible Machine represents a pivotal moment in puzzle game design, establishing the template for the physics-based puzzle genre that would flourish in the decades that followed. Its combination of educational value with genuinely entertaining gameplay proved that "edutainment" software need not sacrifice fun for learning. As one reviewer eloquently stated, the game offers "a dream come true for anyone who as a child likes to tinker with gadgets and toys"[^ref-24].
 
-The game's deterministic physics engine was revolutionary for its time and demonstrated that complex simulations could run on consumer hardware while remaining accessible to casual players. Kevin Ryan's technical achievement in creating integer-based physics calculations that remained consistent across platforms established principles that continue to influence game development today[^ref-28].
+The game's deterministic physics engine was significant for its time and demonstrated that complex simulations could run on consumer hardware while remaining accessible to casual players. Kevin Ryan's technical achievement in creating integer-based physics calculations that remained consistent across platforms established principles that continue to influence game development today[^ref-28].
 
 Few games can offer the same sense of satisfaction that comes from seeing a plan come together[^ref-19]. The Incredible Machine proved that puzzle games could be about creative expression as much as logical deduction, giving players tools to experiment and create rather than simply follow predetermined solutions. This philosophy of empowering player creativity would later become central to sandbox games and creative platforms like Minecraft.
 

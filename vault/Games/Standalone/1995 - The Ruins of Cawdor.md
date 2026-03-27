@@ -87,7 +87,7 @@ The Sierra Network dungeon series, including The Ruins of Cawdor, received recog
 
 ### Modern Assessment
 
-Modern retrospective assessments of The Ruins of Cawdor acknowledge its historical significance as a pioneering graphical MUD while recognizing the challenges of evaluating an online-focused game decades after its servers shut down.
+Modern retrospective assessments of The Ruins of Cawdor acknowledge its historical significance as a notable graphical MUD while recognizing the challenges of evaluating an online-focused game decades after its servers shut down.
 
 **Aggregate Scores:**
 - **MobyGames:** 4.7/5 (based on 2 ratings, awaiting 5 ratings for official MobyScore)[^ref-3]

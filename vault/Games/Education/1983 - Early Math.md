@@ -181,7 +181,7 @@ Early Math has been preserved through digital archiving efforts, with copies ava
 
 ### Critical Perspective
 
-Early Math represents an important artifact from the early 1990s "edutainment" software boom, when CD-ROM technology enabled rich multimedia experiences that seemed revolutionary for their time. The game embodies the pedagogical philosophy that young children learn mathematical concepts most effectively through play and exploration—an understanding that has only grown stronger in subsequent decades of educational research.[^ref-7]
+Early Math represents an important artifact from the early 1990s "edutainment" software boom, when CD-ROM technology enabled rich multimedia experiences that seemed significant for their time. The game embodies the pedagogical philosophy that young children learn mathematical concepts most effectively through play and exploration—an understanding that has only grown stronger in subsequent decades of educational research.[^ref-7]
 
 Contemporary research validates many of the approaches pioneered by games like Early Math. Studies have shown that "educational video games are thought to be effective tools for teaching" precisely because they "use action instead of explanation" and "create personal motivation and satisfaction."[^ref-4] The game's adaptive difficulty system anticipated modern educational technology's emphasis on personalized learning pathways.
 

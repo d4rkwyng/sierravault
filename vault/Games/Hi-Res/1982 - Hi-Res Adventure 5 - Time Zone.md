@@ -84,7 +84,7 @@ However, not all assessments were positive. John Williams, Roberta's brother-in-
 
 ### Modern Assessment
 
-Modern critics and players have reassessed Time Zone with a mixture of appreciation for its historical significance and acknowledgment of its gameplay limitations. The game is recognized as a pioneering effort that demonstrated the potential scale of computer games, even if the execution was flawed.
+Modern critics and players have reassessed Time Zone with a mixture of appreciation for its historical significance and acknowledgment of its gameplay limitations. The game is recognized as a notable effort that demonstrated the potential scale of computer games, even if the execution was flawed.
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 46% (based on reviews)[^ref-2]
@@ -226,3 +226,4 @@ For Sierra specifically, Time Zone represented an important learning experience.
 [^ref-12]: [Internet Archive – Time Zone Complete Package](https://archive.org/details/on-line-time-zone-a2-1.1-ph) – version information, disk format, preservation notes
 [^ref-13]: [Sierra Gamers Forum – Time Zone Installation](https://www.sierragamers.com/forums/topic/how-to-install-play-time-zone-on-dosbox/) – emulation issues, platform compatibility
 [^ref-14]: [Internet Archive – Time Zone Manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – game documentation
+[^ref-15]: [Wikipedia – Hi-Res Adventure 5 - Time Zone](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – provides comprehensive historical details about an early Sierra adventure game, documenting its development, technica...

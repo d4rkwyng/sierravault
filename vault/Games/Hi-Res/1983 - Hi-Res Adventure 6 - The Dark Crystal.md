@@ -91,7 +91,7 @@ Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty cl
 
 ### Origins
 
-The Dark Crystal represented an unprecedented collaboration between Sierra On-Line and Jim Henson's creative team. As Roberta Williams explained in a 1982 TV interview, "Their artists have been doing the pictures"[^ref-4], marking a departure from Sierra's usual practice of creating all artwork in-house. This collaboration came about through Sierra's relationship with Henson Associates, who were eager to explore the interactive possibilities of their fantasy world.
+The Dark Crystal represented an unusual collaboration between Sierra On-Line and Jim Henson's creative team. As Roberta Williams explained in a 1982 TV interview, "Their artists have been doing the pictures"[^ref-4], marking a departure from Sierra's usual practice of creating all artwork in-house. This collaboration came about through Sierra's relationship with Henson Associates, who were eager to explore the interactive possibilities of their fantasy world.
 
 Ken Williams, Sierra's co-founder, was reportedly "shocked at the number of binders full of drawings that provided the minute details behind the movie"[^ref-4], indicating the wealth of source material that Henson's team made available for the adaptation. This extensive documentation allowed Sierra to create a game that went beyond the film's surface narrative to explore the deeper mythology of Thra.
 
@@ -109,7 +109,7 @@ The game's graphics were created specifically for each platform, with the Japane
 
 ## Legacy
 
-Hi-Res Adventure #6: The Dark Crystal holds a unique position in gaming history as both the final entry in Sierra's pioneering Hi-Res Adventure series and a landmark achievement in movie-to-game adaptation. The game's success helped establish the viability of licensed properties in adventure gaming, paving the way for future collaborations between Hollywood and game developers.
+Hi-Res Adventure #6: The Dark Crystal holds a unique position in gaming history as both the final entry in Sierra's notable Hi-Res Adventure series and a landmark achievement in movie-to-game adaptation. The game's success helped establish the viability of licensed properties in adventure gaming, paving the way for future collaborations between Hollywood and game developers.
 
 The game's influence extends beyond its immediate commercial success. It demonstrated that video games could serve as a legitimate extension of existing intellectual properties, offering fans new ways to engage with beloved fictional worlds. This concept would become increasingly important as the gaming industry matured and began attracting more mainstream media attention.
 

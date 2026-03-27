@@ -10,7 +10,7 @@ series: Gabriel Knight
 engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Robert Holmes]
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
   developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
@@ -18,7 +18,7 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight 4: Five Hearts
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -214,3 +214,13 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 [^ref-8]: [Sierra Fandom Wiki – Gabriel Knight](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series wiki information
 [^ref-9]: [MobyGames – Gabriel Knight Series](https://www.mobygames.com/group/1267/gabriel-knight/) – Series database entry
 [^ref-10]: [Giant Bomb – Gabriel Knight](https://www.giantbomb.com/gabriel-knight/3025-2174/) – Series information
+
+[^ref-11]: [MobyGames – Gabriel Knight Series](https://www.mobygames.com/game/group:244/gabriel-knight/) – Series database, game details, platform information
+
+[^ref-12]: [Adventure Game Hotspot – Gabriel Knight Coverage](https://adventuregamehotspot.com/) – Adventure gaming news covering Gabriel Knight franchise
+
+[^ref-13]: [Jane Jensen Official Site](http://www.janejensen.com/) – Creator portfolio, project information
+
+[^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
+
+[^ref-15]: [Sierra Wiki – Gabriel Knight Series](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series information and game documentation

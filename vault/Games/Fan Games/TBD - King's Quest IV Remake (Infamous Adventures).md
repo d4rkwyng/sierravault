@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'King''s Quest IV Remake is an in-development fan remake of Sierra''s
   1988 classic *King''s Quest IV: The Perils of Rosella*, being created by Infamous...'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -85,7 +85,7 @@ Drawing from the development team's established approach, the remake is expected
 - **Point-and-click interface:** Mouse-driven navigation replacing text parser[^ref-3]
 - **Adventure Game Studio engine:** Consistent with previous IA remakes[^ref-3]
 
-### Source Material Challenges
+### Puzzles and Mechanics
 
 The original King's Quest IV featured several gameplay elements that have been divisive among fans and present interesting challenges for a modern remake.
 
@@ -190,3 +190,5 @@ The Infamous Adventures team's renewed activity in 2025-2026, with regular Disco
 [^ref-13]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – Original KQ4 available in collection format
 [^ref-14]: [Sierra Wiki – King's Quest IV](https://sierrawiki.fandom.com/wiki/King%27s_Quest_IV) – Fan wiki documentation of original game, plot details, technical information
 [^ref-15]: [Infamous Quests Twitter](https://twitter.com/IQ_Adventures) – Official social media presence, development updates
+
+[^ref-16]: [Adventure Game Studio Database – Infamous Adventures Remakes](https://www.adventuregamestudio.co.uk/) – Complete database of AGS games and remakes with community ratings and technical specifications for point-and-click adventure games

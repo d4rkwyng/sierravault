@@ -25,7 +25,7 @@ Space Quest VII represents one of the most lamented casualties in Sierra On-Line
 
 The cancellation of Space Quest VII left Space Quest 6: Roger Wilco in the Spinal Frontier (1995) as the unintended finale to the franchise[^ref-3]. The game had been announced for a late 1998 release date but development was paused indefinitely before the end of 1997 and formally ceased in 1999 following massive Sierra layoffs[^ref-4]. Multiple attempts to revive the project—including an Escape Factory reboot aimed at consoles—all met similar fates, leaving fans with nothing but concept art, developer interviews, and a promotional trailer that ironically joked about the game's likely cancellation[^ref-2].
 
-The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's legendary development studios. When Vivendi Games acquired Sierra, the new management showed little interest in continuing projects that didn't fit their vision for profitable gaming, citing poor adventure game sales following the commercial disappointment of LucasArts' Grim Fandango[^ref-5].
+The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's well-known development studios. When Vivendi Games acquired Sierra, the new management showed little interest in continuing projects that didn't fit their vision for profitable gaming, citing poor adventure game sales following the commercial disappointment of LucasArts' Grim Fandango[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

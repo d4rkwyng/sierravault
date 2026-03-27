@@ -10,14 +10,14 @@ series: Police Quest (Spiritual Successor)
 engine: Unity3D
 protagonist: Maxwell Jones
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-31'
+last_updated: '2026-03-27'
 description: Precinct was an ambitious crowdfunded police adventure video game announced
   in 2013 by Jim Walls, the creator of Sierra On-Line's legendary Police Quest...
 tags: [2010s, adventure, police-quest-spiritual-successor, sierra]
 ---
 # Precinct
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -233,3 +233,17 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 [^ref-5]: [Wikipedia – The Precinct (video game)](https://en.wikipedia.org/wiki/The_Precinct_(video_game)) – 2025 game details, developer, publisher, platforms, reviews
 [^ref-6]: [Steam – The Precinct](https://store.steampowered.com/app/490110/The_Precinct/) – 2025 game description, user reviews, release date
 [^ref-7]: [Niche Gamer – The Precinct Launches](https://nichegamer.com/the-precinct-launches-in-may/) – 2025 game release announcement, platforms, publisher
+
+[^ref-9]: [MobyGames – Police Quest Series](https://www.mobygames.com/game/group:153/police-quest/) – Original Police Quest series database, game catalog, designer credits
+
+[^ref-10]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – Series history, Jim Walls background, game mechanics, legacy
+
+[^ref-11]: [Adventure Game Hotspot – Police Quest Coverage](https://adventuregamehotspot.com/) – Adventure gaming news and coverage related to Sierra franchises
+
+[^ref-12]: [Sierra Wiki – Police Quest](https://sierra.fandom.com/wiki/Police_Quest) – Series documentation, game details, character information
+
+[^ref-13]: [Archive.org – Kickstarter Precinct Campaign](https://web.archive.org/web/*/kickstarter.com/projects/precinctgame/precinct*) – Archived campaign pages and development updates
+
+[^ref-14]: [The Digital Antiquarian – Adventure Gaming](https://www.filfre.net/tag/adventure-games/) – Historical coverage of adventure gaming industry trends and Sierra's role
+
+[^ref-15]: [Jim Walls Biography](https://en.wikipedia.org/wiki/Jim_Walls) – Creator background, law enforcement experience, game design philosophy

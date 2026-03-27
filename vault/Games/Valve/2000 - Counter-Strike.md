@@ -26,7 +26,7 @@ Half-Life: Counter-Strike is a 2000 tactical first-person shooter game developed
 
 Counter-Strike fundamentally changed how people think about first-person shooters and online gaming in general, surpassing even genre-defining titles like Quake and Unreal Tournament in popularity.[^ref-3] At its peak, the game maintained a weekly average of 1.2 million players four years after its initial release, cementing its status as the most popular action game in the world.[^ref-3] The franchise has since sold over 25 million units across all iterations over its more than two-decade history.[^ref-4]
 
-The gameplay formula proved so compelling that critics universally praised its emphasis on teamwork and strategy, with GameRevolution declaring it "the best multi-player game of 2000, bar none."[^ref-5] The game immersed players in what Sierra described as "the frighteningly intense world of Counter-Terrorism," where team-based gameplay cast players in roles that required tactical coordination and quick reflexes to succeed.[^ref-6]
+The gameplay formula proved so compelling that critics widely praised its emphasis on teamwork and strategy, with GameRevolution declaring it "the best multi-player game of 2000, bar none."[^ref-5] The game immersed players in what Sierra described as "the frighteningly intense world of Counter-Terrorism," where team-based gameplay cast players in roles that required tactical coordination and quick reflexes to succeed.[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
@@ -88,7 +88,7 @@ The Xbox port, released in 2003 and developed by Ritual Entertainment, received 
 
 ### Modern Assessment
 
-Counter-Strike's legacy has only grown over time, with the game widely recognized as one of the most influential titles in gaming history. Academic research has examined Counter-Strike as "a significant and enduring online phenomenon, attracting a diverse array of players, teams, and organizations."[^ref-24] The game maintained over 280,000 simultaneous players years after release and fostered a competitive community that helped establish esports as a legitimate sporting endeavor.[^ref-24]
+Counter-Strike's legacy has only grown over time, with the game widely recognized as one of the highly influential titles in gaming history. Academic research has examined Counter-Strike as "a significant and enduring online phenomenon, attracting a diverse array of players, teams, and organizations."[^ref-24] The game maintained over 280,000 simultaneous players years after release and fostered a competitive community that helped establish esports as a legitimate sporting endeavor.[^ref-24]
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 88/100 (11 reviews)[^ref-21]

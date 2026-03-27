@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: 3D Engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-23'
+last_updated: '2026-03-27'
 description: Front Page Sports Football Pro 99, also marketed as NFL Football Pro
   '99 and Sierra Sports Football Pro '99, represents one of the most notorious product...
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 99
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview
@@ -219,6 +219,15 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 
 ## See Also
 
+- [[1992 - Front Page Sports Football 92]]
+- [[1993 - Front Page Sports - Football Pro]]
+- [[1994 - Front Page Sports - Football Pro '95]]
+- [[1995 - Front Page Sports - Football Pro '96]]
+- [[1996 - Front Page Sports - Football Pro '97]]
+- [[1997 - Front Page Sports - Football Pro '98]]
+- [[1999 - Front Page Sports - Ski Racing 99]]
+- [[1994 - Front Page Sports - Baseball Pro]]
+
 
 ## References
 
@@ -232,3 +241,13 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 [^ref-8]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series chronology, release year
 [^ref-9]: [Noble Knight Games – Front Page Sports Football Pro 99](https://www.nobleknight.com/P/2148206199/Front-Page-Sports-Football-Pro-99) – retail availability, release year
 [^ref-10]: [Steam – Front Page Sports Football (2014)](https://store.steampowered.com/app/316700/Front_Page_Sports_Football/) – unrelated 2014 revival by Cyanide Studio
+
+[^ref-11]: [GameSpot – Sierra Retires NFL Football Pro '99](https://www.gamespot.com/articles/sierra-retires-nfl-football-pro-99/1100-2452590/) – official recall announcement, corporate response documentation
+
+[^ref-12]: [HandWiki – Front Page Sports Football Software](https://handwiki.org/wiki/Software:Front_Page_Sports_Football) – comprehensive game series documentation
+
+[^ref-13]: [en-Academic – Front Page Sports Football](https://en-academic.com/dic.nsf/enwiki/4856623) – academic encyclopedia entry with series history
+
+[^ref-14]: [PC Game Examiner – Front Page Sports Football Lives Again](https://pcgameexaminer.com/2014/10/03/front-page-sports-football-lives-again-because-no-one-remembered-it/) – historical retrospective and legacy analysis
+
+[^ref-15]: [Sierra Help Pages – Front Page Sports Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – patch history and technical support documentation

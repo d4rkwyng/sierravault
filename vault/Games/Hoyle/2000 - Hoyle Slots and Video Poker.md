@@ -284,3 +284,11 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-10]: [IGDB - Hoyle Slots](https://www.igdb.com/games/hoyle-slots-and-video-poker) - IGDB
 [^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
 [^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
+
+[^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Series history, publisher transitions, commercial performance data
+
+[^ref-14]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=general) – Sierra game archive, release information, packaging documentation
+
+[^ref-15]: [Internet Archive – Hoyle Slots & Video Poker (2001)](https://archive.org/details/HoyleSlotsVideoPokerSierra2001) – Game preservation, emulated version, documentation archive
+
+[^ref-16]: [eBay – Hoyle Slots & Video Poker (Sierra)](https://www.ebay.com/itm/127156491821) – Retail pricing data, physical media information, market availability

@@ -72,7 +72,7 @@ NASCAR Racing 2 introduced the revolutionary Crew Chief and Spotter audio system
 
 ### Contemporary Reviews
 
-NASCAR Racing 2 received widespread critical acclaim upon release, with reviewers praising its unprecedented realism and comprehensive feature set. GameSpot awarded the game a 9.2 out of 10, with reviewer Tim Soete declaring "NASCAR 2 is so realistic, it's scary"[^ref-3]. Computer Gaming World gave the game a perfect 100% score, noting that it "continues down that near legendary road of glory"[^ref-1].
+NASCAR Racing 2 received widespread critical acclaim upon release, with reviewers praising its unusual realism and comprehensive feature set. GameSpot awarded the game a 9.2 out of 10, with reviewer Tim Soete declaring "NASCAR 2 is so realistic, it's scary"[^ref-3]. Computer Gaming World gave the game a perfect 100% score, noting that it "continues down that near legendary road of glory"[^ref-1].
 
 GameFabrique rated the game 8 out of 10, with reviewer "reggie" stating "It's fab. It really is. If realistic saloon car-type racing is your bag, there is nothing else that comes close"[^ref-5]. The review further praised that "NASCAR 2 truly takes you beyond just a driving simulation. It's a virtual representation of the entire NASCAR culture"[^ref-5]. However, the review noted several criticisms including the lack of rolling or flying cars during crashes, a clipping plane that was too close in external view, and difficulty reading the small rev counter and position text[^ref-5].
 

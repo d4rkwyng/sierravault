@@ -324,3 +324,13 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 [^ref-9]: [MobyGames – Viva Media Company Profile](https://www.mobygames.com/company/3867/viva-media-llc/) – publisher information, company description, publishing awards
 
 [^ref-10]: [SteamDB – Hoyle Official Card Games Subscriptions](https://steamdb.info/app/397420/subs/) – estimated owners (3.2k VG Insights, 16.7k PlayTracker), file sizes (Windows/macOS), peak concurrent players (35), Germany restriction, download/disk sizes
+
+[^ref-11]: [Walmart – Hoyle Official Card Games Collection](https://www.walmart.com/ip/Encore-Hoyle-Official-Card-Games-Collection-2015/133350203) – retail availability, platform information
+
+[^ref-12]: [Webfoot Games – Hoyle Cards Games Official Site](http://www.webfootgames.com/game.html?gameid=HoyleCardsGames) – developer information, game features
+
+[^ref-13]: [SoftwareInformer – Hoyle Official Card Games](https://hoyle-official-card-games.software.informer.com/) – software documentation and community reviews
+
+[^ref-14]: [SteamSpy – Hoyle Official Card Games Statistics](https://steamspy.com/app/397420) – Steam player statistics and engagement data
+
+[^ref-15]: [gg.deals – Hoyle Official Card Games Pricing](https://gg.deals/game/hoyle-official-card-games/) – historical pricing and distribution information

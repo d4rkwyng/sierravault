@@ -178,7 +178,7 @@ Due to the limited availability of development materials, no significant fan pro
 
 SWAT: Urban Justice represents a fascinating "what if" in tactical shooter history. The game was being developed during a transformative period for the genre—as IGN's Aaron Boulding noted regarding the similar SWAT: Global Strike Team, "in the time since it was announced for PS2 and Xbox and its recent arrival on those systems, other titles like SOCOM and Rainbow Six 3 have surpassed and improved on what SWAT: GST set out to do."[^ref-10]
 
-The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most critically acclaimed tactical shooters of its era. SWAT 4 received an 8.5/10 from GameSpot and was described as "the best tactical shooter ever... With AI and levels that put rainbow 6 to shame."[^ref-11]
+The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most well-received tactical shooters of its era. SWAT 4 received an 8.5/10 from GameSpot and was described as "the best tactical shooter ever... With AI and levels that put rainbow 6 to shame."[^ref-11]
 
 Urban Justice's legacy is primarily as a cautionary tale of ambitious game development derailed by delays and shifting market conditions, yet the easter egg in SWAT 4 ensures the cancelled title is remembered by fans of the franchise.
 
@@ -218,3 +218,4 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 [^ref-12]: [GameFAQs – SWAT 3 GOTY Edition Review](https://gamefaqs.gamespot.com/pc/920447-swat-3-tactical-game-of-the-year-edition/reviews/45452) – SWAT 3 version history
 [^ref-13]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – series overview, Urban Justice cancellation confirmation
 [^ref-14]: [Gamehope – S.W.A.T. Urban Justice](https://gamehope.com/pc/3209-s-w-a-t-urban-justice/) – developer and publisher confirmation
+[^ref-15]: [Giant Bomb – SWAT: Urban Justice](https://www.giantbomb.com/swat-urban-justice/3030-45976/) – video game database documentation of the cancelled tactical shooter with development timeline

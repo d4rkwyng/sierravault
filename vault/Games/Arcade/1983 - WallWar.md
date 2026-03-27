@@ -234,3 +234,11 @@ The development story behind Wallwar is perhaps more significant than the game i
 [^ref-10]: [My Abandonware – WallWar](https://www.myabandonware.com/game/wallwar-a9o) – abandonware archive and download availability
 [^ref-11]: [IGDB – WallWar](https://www.igdb.com/games/wallwar) – Internet Games Database entry
 [^ref-12]: [UVList – WallWar](https://www.uvlist.net/game-81697-Wallwar) – Universal Videogame List database entry
+
+[^ref-13]: [Internet Archive – WallWar (1982)](https://archive.org/details/a8b_WallWar_1982_Sierra_On_Line_US_k_file) – Atari 8-bit preservation, k-file format archive, game emulation
+
+[^ref-14]: [Atari Mania – WallWar](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_6908.html) – Atari game database, platform compatibility details
+
+[^ref-15]: [Vintage-Sierra.net – WallWar](https://www.vintage-sierra.net/arcade/wallwar.php) – Sierra arcade games archive, game documentation
+
+[^ref-16]: [Eli's Software Encyclopedia – WallWar](http://www.elisoftware.org/w/index.php/WallWar_(Atari_8-Bit,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – Software archive, release date documentation, format information

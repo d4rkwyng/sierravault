@@ -198,7 +198,7 @@ Hunter Hunted occupies an interesting position in gaming history as part of Sier
 
 The game's innovation in creating depth within a 2D framework anticipated later developments in the genre, where games would increasingly blur the lines between two-dimensional and three-dimensional gameplay. Its split-screen multiplayer implementation was also ahead of its time for PC gaming, offering local competitive and cooperative play that was more commonly associated with console titles.
 
-Despite positive reviews and a solid technical foundation, Hunter Hunted never achieved the iconic status of Sierra's adventure games. The Collection Chamber's assessment that it was "completely underrated" reflects a common sentiment among those who have discovered the game[^ref-5]. As retro gaming has grown in popularity, Hunter Hunted has found new appreciation from players seeking quality action games from the Windows 95 era.
+Despite positive reviews and a solid technical foundation, Hunter Hunted never achieved the distinctive status of Sierra's adventure games. The Collection Chamber's assessment that it was "completely underrated" reflects a common sentiment among those who have discovered the game[^ref-5]. As retro gaming has grown in popularity, Hunter Hunted has found new appreciation from players seeking quality action games from the Windows 95 era.
 
 ## Downloads
 

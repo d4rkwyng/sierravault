@@ -244,3 +244,6 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 [^ref-11]: [IGN – Adiboo Magical Playland User Reviews](https://www.ign.com/games/adiboo-magical-playland/user-reviews) – user ratings, release date
 [^ref-12]: [Old Games Download – Adiboo Magical Playland](https://oldgamesdownload.com/adiboo-magical-playland/) – file size, compatibility issues, user technical support
 [^ref-13]: [MobyGames Search Results](https://www.mobygames.com/search/?q=adiboo-magical-playland) – related Adiboo titles listing
+[^ref-14]: [Internet Archive – Adiboo: Magical Playland](https://archive.org/details/Adiboo_201809) – preserved game media and files
+[^ref-15]: [Giant Bomb – Adiboo: Magical Playland](https://giantbomb.com/wiki/Games/Adiboo_Magical_Playland) – game wiki and community information
+[^ref-16]: [Kotaku – Adiboo: Magical Playland](https://kotaku.com/games/adiboo-magical-playland) – gaming coverage and retrospective analysis

@@ -176,7 +176,7 @@ The title appeared in various packaging configurations over its commercial lifes
 
 ### Collections
 
-The game was documented as part of Sierra On-Line's Hi-Res Adventures Catalog, which showcased the company's early graphical adventure offerings[^ref-13]. This catalog served as both a marketing tool and a historical record of Sierra's pioneering work in the adventure game genre.
+The game was documented as part of Sierra On-Line's Hi-Res Adventures Catalog, which showcased the company's early graphical adventure offerings[^ref-13]. This catalog served as both a marketing tool and a historical record of Sierra's notable work in the adventure game genre.
 
 ### Fan Projects
 

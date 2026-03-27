@@ -23,7 +23,7 @@ tags: [1990s, papyrus-racing-simulations, racing, sierra]
 
 Grand Prix Legends is a computer racing simulator developed by [[Papyrus Design Group]] and published by Sierra Sports on October 5, 1998[^ref-1]. The game meticulously recreates the 1967 Formula One World Championship season, widely regarded as one of the most exciting and dangerous eras in motorsport history[^ref-2]. Unlike most racing games of its era, Grand Prix Legends was designed as an uncompromising simulation that prioritized authenticity over accessibility, earning it a reputation as "the most realistic automobile simulator outside of the major automakers' labs"[^ref-3].
 
-The game features seven historically accurate racing teams, eleven legendary circuits from the 1967 season, and a physics model so demanding that the manual explicitly warns players: "The first time you take one of these cars out on the track, you will spin and crash. Driving a race car at high speed isn't easy—it takes some time to learn the basics"[^ref-3]. This brutal difficulty, combined with treacherous gameplay and an esoteric subject matter, meant Grand Prix Legends never achieved mainstream commercial success[^ref-1]. However, it developed a devoted cult following that has kept the game alive for over two decades through an active modding community[^ref-4].
+The game features seven historically accurate racing teams, eleven well-known circuits from the 1967 season, and a physics model so demanding that the manual explicitly warns players: "The first time you take one of these cars out on the track, you will spin and crash. Driving a race car at high speed isn't easy—it takes some time to learn the basics"[^ref-3]. This brutal difficulty, combined with treacherous gameplay and an esoteric subject matter, meant Grand Prix Legends never achieved mainstream commercial success[^ref-1]. However, it developed a devoted cult following that has kept the game alive for over two decades through an active modding community[^ref-4].
 
 Grand Prix Legends represents a significant milestone in racing simulation history, directly influencing the development of future titles including iRacing, which was created by the same team[^ref-5]. The game's physics engine was so advanced for its time that PC Gamer described it as "progressive, technically innovative, and painfully niche"[^ref-6]. Its handling model is still considered one of the most difficult and rewarding to master among all racing simulations[^ref-7].
 
@@ -113,7 +113,7 @@ The game requires players to learn techniques like heel-toe downshifting, managi
 
 ### Contemporary Reviews
 
-Grand Prix Legends received widespread critical acclaim for its unprecedented realism, though many reviewers noted the extreme difficulty level would limit its audience.
+Grand Prix Legends received widespread critical acclaim for its unusual realism, though many reviewers noted the extreme difficulty level would limit its audience.
 
 GameSpot awarded the game 8.9/10, with reviewer Stephen Poole stating that "Grand Prix Legends will reward you with arguably the most intense racing experience ever seen on a personal computer" while acknowledging "Grand Prix Legends isn't for everyone, but that little adage is true of many of the finer things in life"[^ref-11]. CNET Gamecenter gave it 9/10[^ref-1], while Edge magazine also awarded 9/10[^ref-1]. PC Zone UK gave an impressive 90/100[^ref-30], and PC Gamer UK scored it 93/100[^ref-30]. Next Generation gave a perfect 5/5[^ref-30].
 

@@ -97,7 +97,7 @@ Modern retrospective evaluations of Hi-Res Football reflect its status as an ear
 - **MobyGames:** 83% (based on available ratings)[^ref-6]
 - **Glitchwave:** 0.50 (1 review)[^ref-10]
 
-The stark contrast between these scores illustrates the varying perspectives on early computer games—some reviewers appreciate the historical context and pioneering nature of such titles, while others judge them by modern standards where they inevitably fall short. Modern gaming databases classify Hi-Res Football as a turn-based strategy/American football game, though contemporary marketing emphasized its real-time action elements[^ref-10].
+The stark contrast between these scores illustrates the varying perspectives on early computer games—some reviewers appreciate the historical context and notable nature of such titles, while others judge them by modern standards where they inevitably fall short. Modern gaming databases classify Hi-Res Football as a turn-based strategy/American football game, though contemporary marketing emphasized its real-time action elements[^ref-10].
 
 ## Development
 
@@ -229,3 +229,6 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 [^ref-10]: [Glitchwave – Sierra Entertainment Games](https://glitchwave.com/game-company/sierra-entertainment/) – modern rating, genre classification
 [^ref-11]: [Sierra Gamers – Hi-Res Football](https://www.sierragamers.com/hi-res-football/) – alternate release date listing
 [^ref-12]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – later Sierra football games context, Front Page Sports series information
+[^ref-13]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Dynamix) – comprehensive Wikipedia entry providing detailed history and game development information about Dynamix
+[^ref-14]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Sierra_Entertainment) – no information about 'Hi Res Football' found in this Sierra Entertainment Wikipedia article. The content discusses Si...
+[^ref-15]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/) – game information and details

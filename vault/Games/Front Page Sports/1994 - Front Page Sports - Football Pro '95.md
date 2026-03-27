@@ -123,7 +123,7 @@ The production focused on several key enhancements: securing NFL and NFLPA licen
 
 Front Page Sports: Football Pro '95 showcased several notable technical accomplishments for its era. The game featured 360-degree fully rotoscoped VGA animation, creating fluid player movements that were revolutionary for 1994[^ref-4]. Each player on the field moved independently with realistic animations for running, tackling, passing, and receiving.
 
-The CAMS (Camera Angle Management System) represented a significant innovation in sports game presentation[^ref-1]. Rather than fixed camera angles, players could customize their viewing experience with multiple placement and rotation options, providing unprecedented control over how they watched the action unfold.
+The CAMS (Camera Angle Management System) represented a significant innovation in sports game presentation[^ref-1]. Rather than fixed camera angles, players could customize their viewing experience with multiple placement and rotation options, providing unusual control over how they watched the action unfold.
 
 The adaptive AI system demonstrated sophisticated programming that tracked player tendencies and adjusted defensive strategies accordingly[^ref-4]. This prevented exploitation of cheese plays and created a more realistic simulation of NFL coaching chess matches.
 

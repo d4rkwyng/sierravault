@@ -200,7 +200,7 @@ Dragon's Keep occupies a unique position in adventure gaming history as both an 
 
 The game represents an interesting transitional period in Sierra's history, coming between the text parser adventures like Mystery House and the more sophisticated SCI engine games that would define the company's later output[^ref-9]. Its simplified interface anticipated the point-and-click revolution that would transform adventure gaming in the late 1980s, though Dragon's Keep achieved this simplicity through menu selection rather than mouse-driven interaction.
 
-From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment to expanding the gaming audience beyond hardcore enthusiasts to include children and families. The controlled vocabulary and gentle difficulty curve reflect thoughtful educational game design principles that remain relevant today. While not a groundbreaking technical achievement, the game serves as an important reminder that the adventure game genre has always included titles designed for accessibility and learning alongside its more challenging entries.
+From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment to expanding the gaming audience beyond hardcore enthusiasts to include children and families. The controlled vocabulary and gentle difficulty curve reflect thoughtful educational game design principles that remain relevant today. While not a notable technical achievement, the game serves as an important reminder that the adventure game genre has always included titles designed for accessibility and learning alongside its more challenging entries.
 
 ## Purchase
 
@@ -256,3 +256,4 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 [^ref-12]: [Giant Bomb – Dragon's Keep](https://www.giantbomb.com/dragons-keep/3030-10510/) – user ratings, series classification
 [^ref-13]: [MobyGames Forums – Dragon's Keep PC Version Discussion](https://www.mobygames.com/game/dragons-keep/forums/dga,2/dgm,230279) – PC version debate, preservation research
 [^ref-14]: [Internet Archive – Dragon's Keep Manual](https://archive.org/stream/vgmuseum_sierra_dragonskeep-manual/dragonskeep-manual_djvu.txt) – manual preservation
+[^ref-15]: [Wikipedia – Dragon's Keep](https://en.wikipedia.org/wiki/Dragon's_Keep) – provides disambiguation information about multiple works titled 'Dragon's Keep' across different media

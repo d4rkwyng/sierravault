@@ -137,3 +137,4 @@ As an early XBLA title from 2006, availability may be affected by marketplace ch
 [^ref-12]: [XBLA Review: Gin Rummy - VG-Reloaded](https://www.vg-reloaded.com/xbla-review-gin-rummy/) - "400 Microsoft Points" - review details game modes
 [^ref-13]: [Gin Rummy - TrueAchievements](https://www.trueachievements.com/game/Gin-Rummy) - Achievement tracking and game info
 [^ref-14]: [Gin Rummy - en-academic](https://en-academic.com/dic.nsf/enwiki/10905184) - Encyclopedia entry with developer/publisher info
+[^ref-15]: [Giant Bomb – Gin Rummy](https://www.giantbomb.com/gin-rummy/3005-15703/) – game database entry with platform and publisher information

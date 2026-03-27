@@ -79,7 +79,7 @@ The game represented a significant technical and design evolution for Papyrus, a
 
 ### Production
 
-The game was developed by Papyrus Design Group under the leadership of David Kaemmer, with key contributions from designers Randy Cassidy, Rick Genter, Joel Boucquemont, John Wheeler, and Lou Catanzaro[^ref-7]. The production utilized the AIL/Miles Sound System audio engine, with music composed by George Alistair Sanger (known as "The Fat Man") and Joe McDermott[^ref-22]. The development focused on creating an uncompromising simulation, with Kaemmer's vision driving the team to achieve unprecedented realism in racing game physics.
+The game was developed by Papyrus Design Group under the leadership of David Kaemmer, with key contributions from designers Randy Cassidy, Rick Genter, Joel Boucquemont, John Wheeler, and Lou Catanzaro[^ref-7]. The production utilized the AIL/Miles Sound System audio engine, with music composed by George Alistair Sanger (known as "The Fat Man") and Joe McDermott[^ref-22]. The development focused on creating an uncompromising simulation, with Kaemmer's vision driving the team to achieve unusual realism in racing game physics.
 
 The game featured voice acting from Paul Page as the announcer, lending authenticity through his recognized motorsports commentary experience, while Virginia Capers provided narration[^ref-11]. The development team created 48 animation patterns for the vehicles and implemented 15-frames-per-second high-speed 8-directional scrolling, which was considered technically impressive for the era[^ref-16]. The Macintosh version uniquely included PlainTalk microphone support, allowing players to communicate with their pit crew using speech recognition—a feature not available on other platforms[^ref-28].
 

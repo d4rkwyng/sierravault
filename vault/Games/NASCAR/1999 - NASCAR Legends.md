@@ -253,3 +253,11 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – patch version, engine confirmation, publisher details
 [^ref-10]: [Steam Workshop – NASCAR Legends Mod for Wreckfest](https://steamcommunity.com/sharedfiles/filedetails/?id=1462061824) – mod statistics, features, creator credits
 [^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization, developer attribution
+
+[^ref-12]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – Developer history, racing simulation expertise, Papyrus analysis
+
+[^ref-13]: [Papyrus Design Group – LaunchBox Games Database](https://gamesdb.launchbox-app.com/developers/games/270-papyrus-design-group) – Developer database, game catalog, historical context
+
+[^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 NASCAR vehicle history, aero warrior specifications, racing performance
+
+[^ref-15]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information

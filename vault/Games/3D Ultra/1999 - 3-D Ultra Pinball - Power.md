@@ -240,3 +240,8 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 [^ref-8]: [GRY-Online.pl – Seria 3D Ultra Pinball](https://www.gry-online.pl/gry/seria-3d-ultra-pinball/z770) – Polish release dates, user ratings across series, compilation contents
 [^ref-9]: [Retro365 – 3-D Ultra Pinball: Revitalizing a Classic](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – sales figures, development history, Dynamix acquisition, Take a Break! Pinball origins, critical quotes
 [^ref-10]: [Dynamix Fandom Wiki – 3-D Ultra Series](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – complete series chronology, compilation list, cancelled NFL Pinball
+[^ref-11]: [MobyGames – 3-D Ultra Pinball - Power](https://www.mobygames.com/game/12606/) – game information and details
+[^ref-12]: [Sierra Gamers – 3-D Ultra Pinball - Power](https://www.sierragamers.com/wp-content/uploads/2019/12/SierraVault_Game_List_V201302010.pdf) – document appears to be a corrupted PDF with only raw PDF stream data visible - no readable game information can be ex...
+[^ref-13]: [Sierra Gamers – 3-D Ultra Pinball - Power](https://www.sierragamers.com/3d-ultra/) – game listing page showing 3D Ultra Pinball Power! release year as 1998, part of Sierra's 3D Ultra series catalog
+[^ref-14]: [Gamepressure – 3-D Ultra Pinball - Power](https://www.gamepressure.com/games/3d-ultra-pinball-series/z770) – game database listing providing basic information about 3D Ultra Pinball Power as a compilation release
+[^ref-15]: [MobyGames – 3-D Ultra Pinball Series](https://www.mobygames.com/game-group/3-d-ultra-pinball-series) – complete series documentation and chronology across all platforms and releases

@@ -142,7 +142,7 @@ The musical score featured chiptune renditions, notably including a version of "
 
 Jawbreaker II received significant recognition in the nascent video game industry. Beyond the Arkie Award, the game and its predecessor were featured in Steven Levy's influential 1984 book "Hackers: Heroes of the Computer Revolution"[^ref-9], cementing their place in early gaming history. This exposure in a mainstream technology book helped establish Sierra's reputation beyond the gaming community.
 
-The Softline reader poll placing Jawbreaker II second only to Star Raiders demonstrated the game's commercial success[^ref-9]. This achievement was particularly impressive given Star Raiders' status as a groundbreaking space combat simulator that essentially created a new genre.
+The Softline reader poll placing Jawbreaker II second only to Star Raiders demonstrated the game's commercial success[^ref-9]. This achievement was particularly impressive given Star Raiders' status as a notable space combat simulator that essentially created a new genre.
 
 ### Legal and Design Precedents
 

@@ -229,3 +229,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 [^ref-10]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/index.php?a=games&id=359&fld=general) – Sierra game database entry
 [^ref-11]: [C64-Wiki – Stunt Flyer](https://www.c64-wiki.com/wiki/Stunt_Flyer) – Commodore 64 game database
 [^ref-12]: [Wikipedia – Pitts Special](https://en.wikipedia.org/wiki/Pitts_Special) – aircraft featured in the game
+[^ref-13]: [PixelatedArcade – Stunt Flyer](https://pixelatedarcade.com/games/stunt-flyer) – game overview and technical information
+[^ref-14]: [The Sierra Chest – Stunt Flyer](https://sierrachest.com/shop/index.php?a=games&id=359&fld=general) – Sierra game database entry and release information
+[^ref-15]: [IGDB – Stunt Flyer](https://www.igdb.com/games/stunt-flyer/similar) – game database and platform information

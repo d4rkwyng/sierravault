@@ -242,7 +242,7 @@ The game is not available on Steam, and according to community sources, "rights 
 
 ### Critical Perspective
 
-Empire Earth: The Art of Conquest represents an ambitious but ultimately uneven attempt to expand one of the most comprehensive real-time strategy games of its era. While the original Empire Earth was praised for its unprecedented scope—spanning from prehistory to a speculative future—the expansion struggled to add meaningful depth beyond quantity. As IGN's Steve Butts observed: "While it's a solid game, there's just not enough here to compel me to reawaken the substantial addiction the first game generated."[^ref-6]
+Empire Earth: The Art of Conquest represents an ambitious but ultimately uneven attempt to expand one of the most comprehensive real-time strategy games of its era. While the original Empire Earth was praised for its unusual scope—spanning from prehistory to a speculative future—the expansion struggled to add meaningful depth beyond quantity. As IGN's Steve Butts observed: "While it's a solid game, there's just not enough here to compel me to reawaken the substantial addiction the first game generated."[^ref-6]
 
 The Space Age additions, while conceptually interesting, failed to live up to their potential. GameSpot's Tom Chick noted that "compared with the other 14 epochs in Empire Earth, space in The Art of Conquest is almost as empty as the real thing."[^ref-17] The expansion exemplified a common challenge in strategy game design: adding more content doesn't necessarily create a richer experience. Some community members were even harsher, with one fan stating: "To put it bluntly, it is terrible, even for an expansion pack" and "In my opinion, this should have been a patch, not an expansion!"[^ref-36]
 

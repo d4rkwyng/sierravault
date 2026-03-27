@@ -210,3 +210,13 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 [^ref-9]: [Retro365 Blog – On-Line Systems History](https://retro365.blog/) – context for early On-Line Systems arcade games
 
 [^ref-10]: [UVList – Mouskattack](https://www.uvlist.net/game-5632-mouskattack) – platform information, developer credits
+
+[^ref-11]: [GetOldGames – Mouskattack Download](https://getoldgames.com/game/mouskattack) – game preservation and availability
+
+[^ref-12]: [Internet Archive Atari Collection – Mouskattack](https://archive.org/details/a8b_Mouskattack_1981_Sierra_On_Line_US_t_a) – Atari 8-bit emulation preservation, platform documentation
+
+[^ref-13]: [Retrolorian – Mouskattack Download](https://www.retrolorian.com/en/mouskattack-17111) – multi-platform game preservation
+
+[^ref-14]: [The Video Games Museum – Mouskattack](https://www.video-games-museum.com/en/game/Mouskattack/37/3/12798) – museum documentation, game archive entry
+
+[^ref-15]: [HexROM – Mouskattack ROM Collection](https://hexrom.com/mouskattack-1982on-line/) – ROM archive, technical preservation data

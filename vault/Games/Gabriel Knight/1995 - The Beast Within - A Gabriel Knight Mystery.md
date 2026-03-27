@@ -159,7 +159,7 @@ As an FMV game, The Beast Within featured a full cast of live-action performers 
 - The game is equivalent to five feature films in scope, with a 600-page script and 763 video files[^ref-72]
 - VICE noted the game was groundbreaking for engaging with LGBTQ themes, calling it "a subversively campy adventure"[^ref-50][^ref-84]
 - Computer Gaming World named Jane Jensen "the interactive Anne Rice" for her sophisticated storytelling[^ref-45]
-- The game reached fourth place in January 1996's best-selling computer games, but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-87]
+- The game reached fourth place in January 1996's commercially successful computer games, but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-87]
 - Sierra initially tried to use local actors to cut costs before deciding to cast from Los Angeles—Jensen recalled: "We said, 'Screw it,' and started casting people from L.A."[^ref-2]
 - The Bavaria locations were photographed on overcast days deliberately—creative director Nathan Gams wanted "a soft, gloomy kind of European spring feel"[^ref-69]
 

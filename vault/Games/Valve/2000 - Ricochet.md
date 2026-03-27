@@ -150,7 +150,7 @@ In 2023, a fan-made remake called Ricochet: Source was developed using the Sourc
 
 ### Influence on Game Design
 
-While Ricochet itself was not commercially successful, its development contributed to Valve's understanding of rapid game development and mod creation. The Half-Life SDK's capability to support projects like Ricochet helped establish the vibrant modding community that would produce industry-changing games like Counter-Strike and Day of Defeat.
+While Ricochet itself was not commercially successful, its development contributed to Valve's understanding of rapid game development and mod creation. The Half-Life SDK's capability to support projects like Ricochet helped establish the vibrant modding community that would produce significant games like Counter-Strike and Day of Defeat.
 
 The game also demonstrated that abstract, unconventional game concepts could find audiences through digital distribution—a lesson that would become increasingly relevant as Valve developed Steam into the dominant PC gaming platform.
 

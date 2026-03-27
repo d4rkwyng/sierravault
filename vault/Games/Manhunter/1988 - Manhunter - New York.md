@@ -47,7 +47,7 @@ The player assumes the role of a Manhunter, one of the few humans selected to wo
 
 ### Interface and Controls
 
-Manhunter: New York features a revolutionary interface for its time, completely abandoning the traditional text parser used in most Sierra adventures. As noted in a contemporary review, "Playing the game involves no text input at all. Everything is controlled by cursor keys, joystick, or mouse and options accessed from pull-down menus"[^ref-15]. The game uses what Sierra called an "object-oriented interface" that would later become standard in adventure gaming[^ref-7].
+Manhunter: New York features a significant interface for its time, completely abandoning the traditional text parser used in most Sierra adventures. As noted in a contemporary review, "Playing the game involves no text input at all. Everything is controlled by cursor keys, joystick, or mouse and options accessed from pull-down menus"[^ref-15]. The game uses what Sierra called an "object-oriented interface" that would later become standard in adventure gaming[^ref-7].
 
 The game is presented from a first-person perspective, described as "a huge departure from Sierra's normal adventure games, offering a dystopian horror theme with a first person interface"[^ref-16]. Players navigate through haunting locations that are replicas of a post-holocaust Manhattan, using authentic New York City geography as the foundation for the game world[^ref-12].
 
@@ -89,7 +89,7 @@ The game represented a significant technical achievement, as one analysis noted:
 
 ### Technical Achievements
 
-Manhunter: New York was groundbreaking in several technical aspects. The game featured 16-color EGA graphics and supported multiple graphics modes including CGA, MCGA, EGA, Hercules, Tandy/PCjr, and VGA[^ref-8]. It was distributed on two floppy disks and required only 256KB of RAM, making it accessible to a wide range of computer systems[^ref-4].
+Manhunter: New York was notable in several technical aspects. The game featured 16-color EGA graphics and supported multiple graphics modes including CGA, MCGA, EGA, Hercules, Tandy/PCjr, and VGA[^ref-8]. It was distributed on two floppy disks and required only 256KB of RAM, making it accessible to a wide range of computer systems[^ref-4].
 
 The game's use of real New York City locations and its first-person interface were innovative for the time. As one retrospective noted, "Many of the things the Manhunter games did would later become popular (first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horror, 'detective'-based gameplay)"[^ref-16].
 

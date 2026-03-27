@@ -208,3 +208,13 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 [^ref-8]: [Race Sim Central – NASCAR Racing 1999 Edition Announcement](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) – Sierra Sports marketing philosophy, developer training practices, annual edition approach
 [^ref-9]: [Steam Store Search](https://store.steampowered.com/search/?term=Sierra+Sports+Skiing+1999+Edition) – game not available on Steam
 [^ref-10]: [GOG.com Search Results](https://www.gog.com/en/games?query=Sierra+Sports+Skiing+1999+Edition) – game not available on GOG
+
+[^ref-11]: [Wikipedia – Sierra Sports Skiing 1999 Edition](https://en.wikipedia.org/wiki/Sierra_Sports:_Skiing_1999_Edition) – game overview, release information, technical details
+
+[^ref-12]: [HandWiki – Sierra Sports Skiing 1999 Edition](https://handwiki.org/wiki/Software:Sierra_Sports:_Skiing_1999_Edition) – technical documentation and platform information
+
+[^ref-13]: [GameArchives – Front Page Sports Ski Racing](https://gamearchives.net/front-page-sports-ski-racing/) – series documentation and predecessor information
+
+[^ref-14]: [Amazon – Sierra Sports Skiing 1999 Edition PC](https://www.amazon.com/Sierra-Sports-Skiing-99-PC/dp/B00001JJLQ) – retail release documentation, product details
+
+[^ref-15]: [GameFAQs – Sierra Sports Skiing 1999 Edition](https://gamefaqs.gamespot.com/pc/577416-sierra-sports-skiing-1999-edition) – game database entry, community information

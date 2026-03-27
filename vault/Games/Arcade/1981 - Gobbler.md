@@ -219,3 +219,13 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 [^ref-9]: [GameSpot – Gobbler](https://www.gamespot.com/games/gobbler/) – platform coverage, genre classification, game database entry
 
 [^ref-10]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog, release chronology
+
+[^ref-11]: [Warped Factor – 24 Pac-Man Clones From The Early 1980s](http://www.warpedfactor.com/2020/10/24-pac-man-clones-from-early-1980s.html) – Pac-Man clone era context, industry history
+
+[^ref-12]: [Wikipedia – List of Pac-Man Clones](https://en.wikipedia.org/wiki/List_of_Pac-Man_clones) – comprehensive clone documentation, legal history
+
+[^ref-13]: [Pac-Man Wiki – History of Pac-Man Clones](https://pacman.fandom.com/wiki/History_of_Pac-Man_clones_and_bootlegs/Original_games_featuring_Pac-Man) – clone history, Atari copyright litigation
+
+[^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
+
+[^ref-15]: [Internet Archive Wozaday Collection – Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation archive, playable version documentation

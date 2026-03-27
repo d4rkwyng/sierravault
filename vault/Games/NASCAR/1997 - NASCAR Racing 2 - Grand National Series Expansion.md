@@ -164,7 +164,7 @@ NASCAR Racing 2 and its expansions influenced the development of subsequent raci
 
 ### Papyrus Legacy
 
-Papyrus continued developing NASCAR simulations after NASCAR Racing 2, including NASCAR Racing 3, NASCAR Racing 4, and the critically acclaimed NASCAR Racing 2003 Season. The techniques and technology developed for NASCAR Racing 2 formed the foundation for these later releases.
+Papyrus continued developing NASCAR simulations after NASCAR Racing 2, including NASCAR Racing 3, NASCAR Racing 4, and the well-received NASCAR Racing 2003 Season. The techniques and technology developed for NASCAR Racing 2 formed the foundation for these later releases.
 
 Papyrus was eventually shut down by Vivendi (Sierra's parent company) in 2004, but key team members went on to found iRacing, which continues the tradition of realistic racing simulation today. The DNA of NASCAR Racing 2's physics and networking code can be traced directly to iRacing's modern simulation.
 

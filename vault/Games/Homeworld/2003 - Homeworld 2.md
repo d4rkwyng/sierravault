@@ -253,7 +253,7 @@ The modding community continued to thrive through the Remastered Collection, wit
 
 ### Critical Perspective
 
-Homeworld 2 occupies a complex position in gaming history. While it expanded upon the technical achievements of its groundbreaking predecessor and delivered some of the most visually stunning space battles ever seen in a video game, it struggled to recapture the emotional resonance that made the original Homeworld a landmark title. The shift toward a more mystical narrative, combined with controversial design decisions like the dynamic difficulty system, created a sequel that was undeniably impressive but perhaps lacked the soul of its predecessor.
+Homeworld 2 occupies a complex position in gaming history. While it expanded upon the technical achievements of its notable predecessor and delivered some of the most visually stunning space battles ever seen in a video game, it struggled to recapture the emotional resonance that made the original Homeworld a landmark title. The shift toward a more mystical narrative, combined with controversial design decisions like the dynamic difficulty system, created a sequel that was undeniably impressive but perhaps lacked the soul of its predecessor.
 
 Relic Entertainment's Jonny Ebbert later reflected on the franchise's importance: "Homeworld's always been dear to our heart; it's what put us on the map, it was our first product, and I think it will always have a special place in our hearts"[^ref-45]. The game remains significant as a technical and artistic achievement in the RTS genre, and its legacy continued through the Remastered Collection and eventually Homeworld 3, released in 2024 by Blackbird Interactive—a studio founded by veterans of the original Relic team[^ref-46].
 

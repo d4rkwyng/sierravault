@@ -91,7 +91,7 @@ The game also includes an Adventure Editor that allows players to design their o
 
 Poseidon: Master of Atlantis received generally positive reviews upon release, with critics praising its solid gameplay while noting its conservative approach to expansion content. GameVortex awarded the game 85%, with reviewer Phil Bordelon noting that "Poseidon keeps up the solid gameplay of the original release of Zeus"[^ref-11]. The review praised the expansion for maintaining quality while adding meaningful new content.
 
-GameFabrique gave the expansion 8/10, though reviewer reggie observed that "Poseidon is much more about prettying the game up than it is about changing gameplay or adding new features"[^ref-4]. This sentiment was echoed across multiple reviews, suggesting the expansion was evolutionary rather than revolutionary.
+GameFabrique gave the expansion 8/10, though reviewer reggie observed that "Poseidon is much more about prettying the game up than it is about changing gameplay or adding new features"[^ref-4]. This sentiment was echoed across multiple reviews, suggesting the expansion was evolutionary rather than significant.
 
 The base game Zeus: Master of Olympus, which Poseidon expanded, received exceptional critical acclaim. IGN awarded Zeus 9.1/10, with Steve Butts noting he "had to tear [himself] away from [the game] to write the review"[^ref-9]. GameSpot gave Zeus 8.6/10, calling it "a major improvement for Impressions' line of city-building games, and it's a significant advancement for city-building games in general"[^ref-12].
 

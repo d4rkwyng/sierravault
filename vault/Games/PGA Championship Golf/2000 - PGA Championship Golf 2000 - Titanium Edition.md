@@ -42,7 +42,7 @@ As a golf simulation game, PGA Championship Golf 2000 Titanium Edition focused o
 
 ### Interface and Controls
 
-The game's most distinctive feature was its revolutionary mouse-based swing control system. Instead of using traditional power meters common in other golf games, players controlled their golf swings through mouse movements[^ref-4]. This innovative approach provided what developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-5], allowing for more nuanced and realistic golf gameplay.
+The game's most distinctive feature was its significant mouse-based swing control system. Instead of using traditional power meters common in other golf games, players controlled their golf swings through mouse movements[^ref-4]. This innovative approach provided what developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-5], allowing for more nuanced and realistic golf gameplay.
 
 The game supported multiple input devices including keyboard and mouse[^ref-21], and featured extensive customization options with dozens of available settings[^ref-5]. Players could adjust various aspects of their gameplay experience to match their skill level and preferences.
 

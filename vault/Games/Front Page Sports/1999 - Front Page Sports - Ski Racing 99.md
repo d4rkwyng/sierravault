@@ -273,3 +273,5 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release
+[^ref-16]: [MobyGames – Front Page Sports - Ski Racing 99](https://www.mobygames.com/game/243406/) – game information and details
+[^ref-17]: [MobyGames – Front Page Sports - Ski Racing 99](https://www.mobygames.com/game/41377/front-page-sports-football-pro-98/) – comprehensive game database entry providing detailed metadata about the game's development, technical specifications,...

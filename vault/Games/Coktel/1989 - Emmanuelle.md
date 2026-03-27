@@ -42,7 +42,7 @@ As gaming historian Jimmy Maher noted, Emmanuelle represents one of Coktel Visio
 
 ## Story Summary
 
-The game opens with the protagonist arriving in Rio de Janeiro, captivated by the city's legendary atmosphere. As the game manual describes: "Rio, its beaches, its women, its carnival, its potent eroticism!"[^ref-8] The player's character has become obsessed with a woman named Emmanuelle and must track her down before she returns to Europe, hoping to board the same flight and win her love.[^ref-4]
+The game opens with the protagonist arriving in Rio de Janeiro, captivated by the city's well-known atmosphere. As the game manual describes: "Rio, its beaches, its women, its carnival, its potent eroticism!"[^ref-8] The player's character has become obsessed with a woman named Emmanuelle and must track her down before she returns to Europe, hoping to board the same flight and win her love.[^ref-4]
 
 To attract Emmanuelle's attention, the protagonist must seek out a mentor named Mario, who will teach him the mysterious "three laws of eroticism."[^ref-8] The game's core objective involves locating Mario somewhere in the vast Brazilian landscape—a task complicated by the fact that his location changes with each playthrough due to the game's randomized elements.[^ref-9] Once found, Mario instructs the player on how to increase their "erotic potential" meter to the required threshold.
 

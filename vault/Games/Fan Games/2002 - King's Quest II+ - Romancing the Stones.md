@@ -95,7 +95,7 @@ Adventure Gamers lists the game in their database of notable adventure titles, r
 
 ### Origins
 
-The development of Romancing the Stones began under the banner of Tierra Entertainment, which would later rebrand as AGD Interactive[^ref-1]. The team's motivation stemmed from a desire to modernize a beloved classic that many felt had not aged well compared to later entries in the King's Quest series[^ref-3]. While the original King's Quest II was groundbreaking for its time, its thin story and simple puzzle design made it a prime candidate for reimagining.
+The development of Romancing the Stones began under the banner of Tierra Entertainment, which would later rebrand as AGD Interactive[^ref-1]. The team's motivation stemmed from a desire to modernize a beloved classic that many felt had not aged well compared to later entries in the King's Quest series[^ref-3]. While the original King's Quest II was notable for its time, its thin story and simple puzzle design made it a prime candidate for reimagining.
 
 The developers chose not merely to update the graphics and interface but to fundamentally rethink the game's narrative structure[^ref-4]. This ambitious approach required creating substantial new content while maintaining the spirit of the original adventure. The project built upon the team's experience with their earlier King's Quest I remake, applying lessons learned to create an even more ambitious project[^ref-1].
 

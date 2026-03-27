@@ -201,7 +201,7 @@ The failure of the Red Baron 2013 Remake represents a cautionary tale about the 
 
 The project's failure highlighted several key lessons for game revivals: the importance of community building before crowdfunding campaigns, the critical role of visual presentation in demonstrating a game's potential, and the difficulty of recapturing lightning in a bottle. As one community member philosophically noted after the Kickstarter's cancellation: "Thank god you can still play the original one!"[^ref-5]
 
-The original Red Baron continues to be celebrated as a groundbreaking achievement. One reviewer declared it "the best dogfighting game the PC has ever seen, bar none"[^ref-3], while another stated that "this game represents a ground-breaking achievement in computer air combat simulation"[^ref-3]. The remake's cancellation ensures that these accolades remain attached to the 1990 original rather than being passed to a successor.
+The original Red Baron continues to be celebrated as a notable achievement. One reviewer declared it "the best dogfighting game the PC has ever seen, bar none"[^ref-3], while another stated that "this game represents a ground-breaking achievement in computer air combat simulation"[^ref-3]. The remake's cancellation ensures that these accolades remain attached to the 1990 original rather than being passed to a successor.
 
 
 ## Purchase
@@ -246,3 +246,4 @@ The original Red Baron continues to be celebrated as a groundbreaking achievemen
 [^ref-12]: [IGN – Red Baron Arcade Review](https://www.ign.com/articles/2009/03/18/red-baron-arcade-review) – Review score, technical criticisms
 [^ref-13]: [GamesRadar – Red Baron Arcade Review](https://www.gamesradar.com/red-baron-arcade-review/) – Review criticisms, technical issues
 [^ref-14]: [The Aerodrome Forums – Red Baron Discussion](https://theaerodrome.com/forum/showthread.php?t=48774) – Community patches, compatibility, retrospective opinions
+[^ref-15]: [TV Tropes – Red Baron (Dynamix)](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – original game development, historical context, and the foundation for the cancelled 2013 remake

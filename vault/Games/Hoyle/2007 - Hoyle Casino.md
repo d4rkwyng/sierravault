@@ -252,3 +252,4 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [^ref-12]: [Walmart Canada – Hoyle Casino 2007](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – retail availability
 [^ref-13]: [Shopozz – Hoyle Casino Compilation](https://shopozz.ru/items/387433917074-hoyle-casino-600-classic-games-encore-compilation-win-xp-pc-dvd-rom-game) – compilation product, media format
 [^ref-14]: [Stash Games – Hoyle Casino 3D](https://stash.games/games/hoyle-casino-3d) – related franchise entry
+[^ref-16]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...

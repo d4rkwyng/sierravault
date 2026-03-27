@@ -171,7 +171,7 @@ The community has also adapted the game to run on additional platforms beyond th
 
 ### Critical Perspective
 
-Tribes: Aerial Assault occupies a unique position in gaming history as a pioneering online console shooter that demonstrated the PlayStation 2's networking capabilities during the platform's early years. While the game received average critical reception at launch, its significance extends beyond review scores to its role in establishing console online gaming infrastructure and its remarkable journey to becoming freeware.
+Tribes: Aerial Assault occupies a unique position in gaming history as a notable online console shooter that demonstrated the PlayStation 2's networking capabilities during the platform's early years. While the game received average critical reception at launch, its significance extends beyond review scores to its role in establishing console online gaming infrastructure and its remarkable journey to becoming freeware.
 
 The game's adaptation of PC-style competitive multiplayer for console audiences represented an important bridge between gaming platforms at a time when online console gaming was still nascent. Though overshadowed by later online shooters, Tribes: Aerial Assault's dedicated community and the preservation efforts through private servers demonstrate the lasting appeal of its jetpack-enabled aerial combat formula.
 
@@ -221,3 +221,6 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 [^ref-10]: [IGN – Tribes: Aerial Assault](https://www.ign.com/games/tribes-aerial-assault) – review score, game database
 [^ref-11]: [MetaCritic – Tribes: Aerial Assault](https://www.metacritic.com/game/tribes-aerial-assault/) – aggregate review scores
 [^ref-12]: [SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+[^ref-13]: [Amazon – Tribes: Aerial Assault PS2](https://www.amazon.com/Tribes-Aerial-Asault-Playstation-2/dp/B00006IJVO) – product listing and release information
+[^ref-14]: [GameFAQs – Tribes: Aerial Assault](https://gamefaqs.gamespot.com/ps2/516242-tribes-aerial-assault/faqs) – game FAQs and community guides
+[^ref-15]: [Everything Allowed – Tribes: Aerial Assault](https://everything-allowed.fandom.com/wiki/Tribes:_Aerial_Assault) – game wiki and series information

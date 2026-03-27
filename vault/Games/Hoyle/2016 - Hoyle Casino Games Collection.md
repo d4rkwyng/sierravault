@@ -324,3 +324,11 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 [^ref-9]: [Encore Forums – Hoyle Card Games Discussion](http://forums.encoreusa.com/tm.asp?m=43851) – Hoyle Bucks system, save file locations
 [^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
 [^ref-12]: [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/) – download statistics, languages, security status, developer credit
+
+[^ref-13]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – Technical specifications, system requirements, compatibility information
+
+[^ref-14]: [GG.deals – Hoyle Official Casino Games](https://gg.deals/game/hoyle-official-casino-games/) – Game pricing data, platform availability, digital store information
+
+[^ref-15]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – Game database entry, platform details, user information
+
+[^ref-16]: [AllKeyShop – Hoyle Official Casino Games](https://www.allkeyshop.com/blog/buy-hoyle-official-casino-games-cd-key-compare-prices/) – Digital key pricing, platform availability, regional information

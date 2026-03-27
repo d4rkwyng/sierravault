@@ -198,9 +198,17 @@ The game was originally released on CD-ROM for Windows and is occasionally avail
 [^ref-3]: [Larry's Casino (1998) – Larry Laffer Dot Net](http://larrylaffer.net/exxxtras/larry-game-materials/larrys-casino-1998) – Development history including LarryLand origins, Hoyle technical foundation, WON service notes, and promotional materials
 [^ref-4]: [Leisure Suit Larry's Casino – Old PC Gaming](https://oldpcgaming.net/leisure-suit-larrys-casino/) – Feature list including all five casino games, party games, restaurants, bars, gift shop, and virtual economy details
 [^ref-5]: [Leisure Suit Larry's Casino – IGN](https://www.ign.com/articles/1998/09/02/leisure-suit-larrys-casino) – Contemporary review covering gameplay details, character roster, poker variants, Wheel of Fortune note, and critical reception
+[^ref-6]: [GameFAQs – Leisure Suit Larry's Casino](https://gamefaqs.gamespot.com/pc/61821-leisure-suit-larrys-casino) – Game database entry, platform information, gameplay details
+
 [^ref-7]: [Leisure Suit Larry: The Ultimate Pleasure Pack – MobyGames](https://www.mobygames.com/game/leisure-suit-larry-the-ultimate-pleasure-pack/) – Compilation details, included titles, and release information
 [^ref-8]: [Leisure Suit Larry's Casino – Metacritic](https://www.metacritic.com/game/leisure-suit-larrys-casino/) – Review scores, ESRB Mature rating, and critical summaries
 [^ref-9]: [The Sierra Network – Wikipedia](https://en.wikipedia.org/wiki/The_Sierra_Network) – History of TSN/ImagiNatioN and the LarryLand virtual environment concept
 [^ref-10]: [Al Lowe – Wikipedia](https://en.wikipedia.org/wiki/Al_Lowe) – Career timeline including departure from Sierra in February 1999
 [^ref-11]: [Leisure Suit Larry's Casino – GOG.com](https://www.gog.com/) – Game not available for digital purchase; no release on platform
 [^ref-12]: [Leisure Suit Larry's Casino (USA) – Internet Archive](https://archive.org/details/leisure-suit-larrys-casino-usa) – Redump-verified disc image for preservation and download
+
+[^ref-13]: [PCGamingWiki – Leisure Suit Larry's Casino (1998)](https://www.pcgamingwiki.com/wiki/Leisure_Suit_Larry's_Casino_(1998)) – Technical documentation, bugs, fixes, game information
+
+[^ref-14]: [Hardcore Gaming 101 – Leisure Suit Larry (Assorted)](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Series history, spinoff documentation, context and analysis
+
+[^ref-15]: [The Spoiler – Leisure Suit Larry's Casino Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/leisure.suit.larry.casino.1.html) – Game guide, feature documentation, gameplay details

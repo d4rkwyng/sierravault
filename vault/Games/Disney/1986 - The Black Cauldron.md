@@ -83,7 +83,7 @@ The project began when Disney, having recently completed their animated film, so
 
 ### Production
 
-Disney provided Sierra with unprecedented access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4] This collaboration allowed the game to maintain visual and audio consistency with the Disney film.
+Disney provided Sierra with unusual access to the film's original materials. Al Lowe described how "They gave me complete access to the original hand-painted backgrounds, the original Elmer Bernstein score, even the original animation cells, which were still literally lying in heaps, before being sent off to the dump!"[^ref-4] This collaboration allowed the game to maintain visual and audio consistency with the Disney film.
 
 The development team included Al Lowe as the primary designer, with contributions from other Sierra staff including Mark Crowe and Scott Murphy, who were "finishing The Black Cauldron" when they "began to plan for an adventure game of their own" that would eventually become Space Quest[^ref-23]. The game was built using Sierra's AGI engine, which provided the technical foundation for the game's graphics and animation systems[^ref-24].
 

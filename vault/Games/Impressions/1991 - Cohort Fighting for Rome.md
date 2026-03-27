@@ -83,7 +83,7 @@ Rather than traditional puzzles, Cohort: Fighting for Rome focuses on tactical c
 
 Cohort: Fighting for Rome received mixed reviews upon release, with critics acknowledging its ambitious subject matter while noting significant shortcomings in execution. M. Evan Brooks offered a notably critical assessment, stating that "a clumsy interface coupled with mediocre graphics shows why British products are generally not ready for the American market."[^ref-3]
 
-The game's attempt to bring Roman military tactics to the strategy gaming genre was recognized as pioneering, being described as "one of the first detailed games of Roman military tactics."[^ref-3] However, the technical implementation failed to fully capitalize on this innovative premise, limiting its appeal to strategy enthusiasts.
+The game's attempt to bring Roman military tactics to the strategy gaming genre was recognized as notable, being described as "one of the first detailed games of Roman military tactics."[^ref-3] However, the technical implementation failed to fully capitalize on this innovative premise, limiting its appeal to strategy enthusiasts.
 
 ### Modern Assessment
 

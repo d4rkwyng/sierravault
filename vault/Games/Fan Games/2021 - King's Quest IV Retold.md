@@ -202,7 +202,7 @@ The community has embraced speedrunning the Retold version, with leaderboards tr
 
 ### Critical Perspective
 
-King's Quest IV Retold demonstrates the enduring appeal of Sierra's classic adventure games and the dedication of fan communities to preserving gaming history. The original 1988 game was groundbreaking for featuring a female protagonist—Princess Rosella—at a time when such representation was rare. Designer Roberta Williams expressed personal connection to the character: "I like the heroine, Rosella. I guess because she's a part of me that's coming out... Sometimes she's delicate, but she's strong, knows what she wants, she's not afraid to do what she has to do"[^ref-6].
+King's Quest IV Retold demonstrates the enduring appeal of Sierra's classic adventure games and the dedication of fan communities to preserving gaming history. The original 1988 game was notable for featuring a female protagonist—Princess Rosella—at a time when such representation was rare. Designer Roberta Williams expressed personal connection to the character: "I like the heroine, Rosella. I guess because she's a part of me that's coming out... Sometimes she's delicate, but she's strong, knows what she wants, she's not afraid to do what she has to do"[^ref-6].
 
 The remake bridges generational gaps in gaming accessibility. While the original's text parser interface and dead-end design choices could frustrate modern players, the Retold version preserves the narrative and puzzle design while removing friction points[^ref-7]. IGN's retrospective assessment noted that "The Perils of Rosella stands the test of time despite its shortcomings"[^ref-6], a sentiment that fan remakes like Retold help validate by introducing the classic to new audiences.
 

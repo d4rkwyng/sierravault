@@ -266,3 +266,5 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-11]: [The Video Game Critic – Atari 2600 Reviews (M)](https://videogamecritic.com/2600mm.htm) – revised review, C+ grade, line-of-sight praise
 [^ref-13]: [RetroGames.cz – Marauder](https://www.retrogames.cz/play_1388-Atari2600.php) – file sizes, emulator access, MobyGames description
 [^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original documentation archive
+[^ref-15]: [Games Database – Marauder Atari 2600](https://www.gamesdatabase.org/game/atari-2600/marauder) – Atari game database entry and technical specifications
+[^ref-16]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information

@@ -93,7 +93,7 @@ The game features an impressive ensemble of voice talent, many with notable gami
 | Vince Caso | Voice actor[^ref-4] |
 | Ed Kelly | Narrator[^ref-1] |
 
-Gary Owens, the iconic narrator from the original Space Quest series, was originally planned to reprise his role. Tragically, Owens passed away before recording could take place, leaving the team to find a replacement narrator[^ref-4]. The voice recordings were eventually completed by August 2018, representing six years of intermittent production work[^ref-4].
+Gary Owens, the distinctive narrator from the original Space Quest series, was originally planned to reprise his role. Tragically, Owens passed away before recording could take place, leaving the team to find a replacement narrator[^ref-4]. The voice recordings were eventually completed by August 2018, representing six years of intermittent production work[^ref-4].
 
 Music for the game was composed by Ken Allen (a Sierra veteran who worked on the original Space Quest games), James Mulvale, and Jason Charles Miller[^ref-4].
 

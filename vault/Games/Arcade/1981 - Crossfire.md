@@ -253,3 +253,4 @@ The game's influence can be seen in its innovative control scheme and its achiev
 [^ref-12]: [UVList – Crossfire MS-DOS](https://www.uvlist.net/game-169491-Crossfire) – Tandy/PCjr graphics patch history
 [^ref-13]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Crossfire_1983) – DOS release date, emulation details
 [^ref-14]: [ClassicReload – Crossfire](https://classicreload.com/crossfire.html) – gameplay description, browser emulation
+[^ref-15]: [Wikipedia – Crossfire](https://en.wikipedia.org/wiki/Crossfire_(1992_video_game)) – comprehensive historical overview of an early open-source multiplayer RPG with detailed development history and techn...

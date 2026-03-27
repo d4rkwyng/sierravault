@@ -154,7 +154,7 @@ The game reflects early 1990s attitudes toward both adult content in gaming and 
 
 ### Muriel Tramis's Career
 
-Despite Geisha's poor reception, Muriel Tramis continued her influential career in game design. Her work exploring themes of race, colonialism, and Caribbean identity—particularly in games like Freedom: Rebels in the Darkness and Lost in Time—earned her recognition as one of the pioneering voices in French game development.
+Despite Geisha's poor reception, Muriel Tramis continued her influential career in game design. Her work exploring themes of race, colonialism, and Caribbean identity—particularly in games like Freedom: Rebels in the Darkness and Lost in Time—earned her recognition as one of the notable voices in French game development.
 
 ### Preservation and Accessibility
 

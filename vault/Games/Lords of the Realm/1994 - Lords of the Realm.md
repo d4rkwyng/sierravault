@@ -216,7 +216,7 @@ The enduring popularity of Lords of the Realm has inspired community efforts to 
 
 ### Critical Perspective
 
-Lords of the Realm occupies an important position in strategy gaming history as one of the first titles to successfully blend turn-based empire management with real-time tactical combat. This hybrid approach, which would later become standard in games like the Total War series, was revolutionary for 1994. The game demonstrated that historical strategy could be both accessible and deeply engaging without resorting to fantasy elements or simplified mechanics.
+Lords of the Realm occupies an important position in strategy gaming history as one of the first titles to successfully blend turn-based empire management with real-time tactical combat. This hybrid approach, which would later become standard in games like the Total War series, was significant for 1994. The game demonstrated that historical strategy could be both accessible and deeply engaging without resorting to fantasy elements or simplified mechanics.
 
 The emphasis on economic management and population welfare set Lords of the Realm apart from purely militaristic strategy games. By making players responsible for their subjects' happiness and survival, the game created meaningful consequences for aggressive expansion and encouraged thoughtful resource management. This design philosophy influenced subsequent city-building and management games, including Impressions' own Caesar and Pharaoh series.
 

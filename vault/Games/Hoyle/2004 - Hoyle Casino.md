@@ -151,7 +151,7 @@ The 2004 release year was a busy one for the Hoyle brand, with multiple titles r
 
 ### Critical Perspective
 
-Hoyle Casino 2004 occupies an interesting position in the history of casino simulation games. As part of the best-selling casino game franchise, it carried significant expectations, but the 2004 edition was criticized for being an incremental update that "adds no new games into the mix, and offers little value compared to the 2003 edition."[^ref-3] This criticism reflected a broader trend in annual game releases where diminishing returns became apparent to consumers.
+Hoyle Casino 2004 occupies an interesting position in the history of casino simulation games. As part of the commercially successful casino game franchise, it carried significant expectations, but the 2004 edition was criticized for being an incremental update that "adds no new games into the mix, and offers little value compared to the 2003 edition."[^ref-3] This criticism reflected a broader trend in annual game releases where diminishing returns became apparent to consumers.
 
 The game nonetheless served its core purpose well as a gambling simulator, allowing players to "risk millions of fake dollars" without real financial consequences.[^ref-9] For novice players, it provided valuable educational content about casino rules and strategies.[^ref-6] The transition of the Hoyle brand from Sierra to Encore following this period marked the end of an era for one of Sierra's longest-running game series, which had roots stretching back to the original Hoyle's Official Book of Games in 1989.[^ref-15]
 

@@ -10,7 +10,7 @@ series: Babylon 5
 engine: Inertia Flight Engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 composer: ['Christopher Franke, Victor Crews']
 description: 'Babylon 5: Into the Fire was an ambitious space combat simulator developed
   by Yosemite Entertainment and published by Sierra Entertainment, based on the...'
@@ -18,7 +18,7 @@ tags: [1990s, babylon-5, sierra]
 ---
 # Babylon 5: Into the Fire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview
@@ -202,6 +202,12 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 
 ## See Also
 
+- [[CXL - King's Quest IX]]
+- [[CXL - Space Quest VII - Return to Roman Numerals]]
+- [[CXL - Leisure Suit Larry 8]]
+- [[CXL - SWAT - Urban Justice]]
+- [[CXL - Middle-earth Online]]
+
 
 ## References
 
@@ -232,3 +238,5 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 [^ref-13]: [IGN – Babylon 5: Into the Fire Database](https://www.ign.com/games/babylon-5-into-the-fire) – cancellation news reference
 
 [^ref-14]: [SpaceBattles Forums – Source Code Discussion](https://forums.spacebattles.com/threads/babylon-5-into-the-fire-source-code-engine-released.53794/) – community discussion of alleged source code release
+
+[^ref-15]: [Giant Bomb – Babylon 5: Into the Fire](https://www.giantbomb.com/babylon-5-into-the-fire/3030-38000/) – video game database documentation of the cancelled title with development and production details

@@ -173,7 +173,7 @@ Hoyle Puzzle Games 2002 represents a transitional moment in Sierra's history, re
 
 The game's approach of bundling diverse puzzle types with a complete bonus game (The Incredible Machine: Even More Contraptions) demonstrated the value-oriented strategy common to casual game compilations of the early 2000s[^ref-4]. User discussions from later Hoyle releases on Steam suggest that the graphics and interface from this era remained largely unchanged in subsequent releases, indicating that the 2002 version established a template that would persist for years[^ref-10].
 
-The preservation of audio assets from earlier Hoyle titles reflects both the practical economics of casual game development and the consistency that series fans expected[^ref-7]. While not groundbreaking, Hoyle Puzzle Games 2002 fulfilled its role as an accessible, family-friendly puzzle compilation that extended the Hoyle brand into new territory beyond its card and board game origins.
+The preservation of audio assets from earlier Hoyle titles reflects both the practical economics of casual game development and the consistency that series fans expected[^ref-7]. While not notable, Hoyle Puzzle Games 2002 fulfilled its role as an accessible, family-friendly puzzle compilation that extended the Hoyle brand into new territory beyond its card and board game origins.
 
 ## Purchase
 
@@ -258,3 +258,12 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-9]: [Sierra Chest – The Incredible Machine: Even More Contraptions](https://sierrachest.com/index.php?a=games&id=321&title=incredible-machine-even-more-contraptions&fld=general) – developer, release year, platforms
 [^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
 [^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
+
+[^ref-12]: [Internet Archive – Hoyle Puzzle Games 2002](https://archive.org/details/hoyle-puzzle-games-2002) – game preservation archive, package content documentation
+
+[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
+
+[^ref-14]: [The Sierra Chest – Hoyle Puzzle Games Box Art](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – packaging artwork and release information
+
+[^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
+[^ref-16]: [Sierra Chest – Hoyle Puzzle Games General](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=general) – game overview, included titles list, PDA compatibility details

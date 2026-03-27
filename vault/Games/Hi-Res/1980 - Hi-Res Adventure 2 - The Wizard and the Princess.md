@@ -119,7 +119,7 @@ The Commodore 64 version, released in 1984, used more on-screen colors with soli
 
 ### Influence on the Industry
 
-Wizard and the Princess is recognized for pioneering color graphics in adventure games, offering more detailed and vibrant visuals than any previous title. This technological advancement not only enhanced player immersion but also influenced other developers, prompting a broader industry focus on graphical development[^ref-20]. The game helped establish that visual presentation was a crucial element of the adventure game experience.
+Wizard and the Princess is recognized for notable color graphics in adventure games, offering more detailed and vibrant visuals than any previous title. This technological advancement not only enhanced player immersion but also influenced other developers, prompting a broader industry focus on graphical development[^ref-20]. The game helped establish that visual presentation was a crucial element of the adventure game experience.
 
 ### Connection to King's Quest
 

@@ -134,7 +134,7 @@ The game's development philosophy emphasized Newell's principle that "Late is ju
 
 ### Technical Achievements
 
-Half-Life 2 debuted Valve's Source engine, which was developed simultaneously with the game[^ref-3]. The engine integrated the Havok physics system, enabling unprecedented environmental interaction. "Integrating physics into a game is hard both from a technology and game design standpoint," Jay Stelly explained, noting that "very few games had done physics gameplay before Half-Life 2."[^ref-15]
+Half-Life 2 debuted Valve's Source engine, which was developed simultaneously with the game[^ref-3]. The engine integrated the Havok physics system, enabling unusual environmental interaction. "Integrating physics into a game is hard both from a technology and game design standpoint," Jay Stelly explained, noting that "very few games had done physics gameplay before Half-Life 2."[^ref-15]
 
 The facial animation system represented a breakthrough in character expression. Eurogamer later assessed that even years after release, these animations remained "still best-in-class, outstripping even LA Noire for simple believability"[^ref-7]. The Source engine supported advanced features including realistic water rendering, high dynamic range lighting, and detailed shader effects[^ref-22].
 

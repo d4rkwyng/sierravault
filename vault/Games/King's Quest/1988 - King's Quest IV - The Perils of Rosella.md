@@ -36,7 +36,7 @@ King's Quest IV: The Perils of Rosella marked a watershed moment in gaming histo
 > **Protagonist:** Princess Rosella
 > **Sierra Lineage:** Core Sierra
 
-The game showcased William Goldstein's groundbreaking musical score, featuring over 75 original compositions played through the Roland MT-32 synthesizer or AdLib sound card, prompting Sierra's marketing to ask: "Can a Computer Game Make a Person Cry? King's Quest IV did on June 4, 1988."[^ref-5][^ref-6]
+The game showcased William Goldstein's notable musical score, featuring over 75 original compositions played through the Roland MT-32 synthesizer or AdLib sound card, prompting Sierra's marketing to ask: "Can a Computer Game Make a Person Cry? King's Quest IV did on June 4, 1988."[^ref-5][^ref-6]
 
 ## Story Summary
 

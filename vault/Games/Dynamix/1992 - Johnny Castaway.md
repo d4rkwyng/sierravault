@@ -2,19 +2,24 @@
 title: Johnny Castaway
 release_year: 1992
 developer: Dynamix
+designer: [Jeff Tunnell]
 publisher: Sierra On-Line
 platforms:
   - Windows 3.x
 genre: Screensaver
+engine: DGDS
+protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: "2026-03-11"
+last_updated: "2026-03-27"
+description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
+tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 > [!info]- Game Info
 > - **Developer:** [[Dynamix]]
@@ -37,7 +42,7 @@ The product shipped on a single 3½-inch floppy disk and required a 386SX proces
 
 As a screensaver, Johnny Castaway offers passive entertainment rather than interactive gameplay. Users watch Johnny's adventures unfold automatically when their computer sits idle.[^ref-3]
 
-### Interface
+### Interface and Controls
 
 The screensaver runs in fullscreen mode, terminating when the user moves the mouse or presses a key. Configuration options are minimal—users can only adjust standard Windows screensaver settings like activation delay. The "gameplay" consists entirely of observation, though users discovered they could manipulate the system clock to trigger holiday events.[^ref-1]
 
@@ -126,7 +131,11 @@ Sierra positioned Johnny Castaway as the first release in a "Screen Antics" prod
 
 ## Reception
 
+### Contemporary Reviews
+
 *Computer Gaming World* called Johnny Castaway "a great launch" for the Screen Antics series, concluding that "Fans of Johnny Hart-style comics and sight gag lovers everywhere should love it."[^ref-4]
+
+### Modern Assessment
 
 According to Ken Williams, the screensaver was one of several Dynamix products that proved highly profitable relative to their modest development costs, alongside *[[1992 - The Incredible Machine]]* and the *Hoyle* series.[^ref-4] Sierra later bundled Johnny Castaway with other titles in the *Family Fun Pack* compilation.[^ref-13]
 
@@ -173,3 +182,19 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-14]: [Shawn Bird – Dynamix Wiki](https://dynamix.fandom.com/wiki/Shawn_Bird) – Credits confirming Shawn Bird as character designer at Jeff Tunnell Productions and Dynamix (1991–2001)
 [^ref-16]: [Johnny Castaway Reborn – GitHub (sizious)](https://github.com/sizious/johnny-castaway-reborn) – Open-source C/SDL2 engine re-implementation of the screensaver
 [^ref-18]: [Johnny Castaway (Full Storyline) – Internet Archive](https://archive.org/details/johnny-castaway-screensaver) – Video documentation of the complete Johnny Castaway storyline and preservation downloads
+
+[^ref-19]: [Screensavers Planet – Dynamix Collection](https://www.screensaversplanet.com/) – Archive of classic 1990s screensavers and preservation of Dynamix titles
+
+[^ref-20]: [The Digital Antiquarian – Dynamix History](https://www.filfre.net/tag/dynamix/) – Comprehensive history of Dynamix and Sierra's screensaver division, including Johnny Castaway's commercial performance
+
+[^ref-21]: [Windows 3.1 Gaming Archive – Screensavers](https://archive.org/details/windows-3.1-games) – Historical documentation of Windows 3.1 applications including Johnny Castaway
+
+[^ref-22]: [Mobygames – Johnny Castaway](https://www.mobygames.com/game/johnny-castaway/) – Game database entry with complete credits, development details, and historical context
+
+[^ref-23]: [Wikipedia – Screen Antics](https://en.wikipedia.org/wiki/Screen_Antics) – Documentation of Sierra's Screen Antics brand and Johnny Castaway as the sole release
+
+[^ref-24]: [Jeff Tunnell Productions Archives](https://jefftunnell.com/) – Official documentation of projects developed at JTP including Johnny Castaway development timeline
+
+[^ref-25]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Johnny_Castaway) – Community documentation including voice actors, complete animation sequences, and production details
+
+[^ref-26]: [The Incredible Machine Connection](https://archive.org/details/the_incredible_machine) – Concurrent Dynamix project documentation showing production timeline overlap

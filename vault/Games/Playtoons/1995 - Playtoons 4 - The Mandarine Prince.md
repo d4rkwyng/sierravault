@@ -204,3 +204,13 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 [^ref-9]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 
 [^ref-10]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer history, game catalog, educational focus
+
+[^ref-11]: [Internet Archive – Playtoons 4 Archive](https://archive.org/details/playtoons-4) – game preservation, digital distribution documentation
+
+[^ref-12]: [SensCritique – Playtoons 4 Spirou Game](https://www.senscritique.com/jeuvideo/Playtoons_4_Spirou_Le_Prince_Mandarine/10931788) – community review and rating
+
+[^ref-13]: [GameTrip – Playtoons 4 Retrogaming Database](https://www.gametrip.net/jeu-1997-playtoons-4-spirou-le-prince-mandarine-pc.html) – French retrogaming community documentation
+
+[^ref-14]: [Wikidata – Playtoons 4 Data](https://www.wikidata.org/wiki/Q24935002) – structured metadata, international title variants
+
+[^ref-15]: [LaunchBox Games Database – Playtoons 4](https://gamesdb.launchbox-app.com/games/details/93207-playtoons-4-the-mandarine-prince) – game database documentation, community ratings

@@ -46,7 +46,7 @@ The story involves Carey tracking down a mass murderer, which takes elements fro
 
 Police Quest: Open Season utilized Sierra's new SCI2 engine and featured a point-and-click interface[^ref-9]. The game meticulously crafted gameplay that seamlessly combines strategic decision-making with immersive puzzle-solving[^ref-3]. Unlike previous Sierra games, the maximum score does not appear in either version, making it difficult for players to track their progress traditionally[^ref-8].
 
-The game required players to follow authentic police procedures with unprecedented detail. As one reviewer explained, "You can't just go guns blazing like you're playing Narc! You have to observe the correct procedure in each specific case and apply it"[^ref-10]. All the correct procedures, along with the penal and radio codes, were so highly detailed in the manual that it probably could pass off as an official police academy manual[^ref-10].
+The game required players to follow authentic police procedures with unusual detail. As one reviewer explained, "You can't just go guns blazing like you're playing Narc! You have to observe the correct procedure in each specific case and apply it"[^ref-10]. All the correct procedures, along with the penal and radio codes, were so highly detailed in the manual that it probably could pass off as an official police academy manual[^ref-10].
 
 ### Structure and Progression
 
@@ -93,7 +93,7 @@ Former LA Police Chief Daryl F. Gates joined the Sierra team to show gamers the 
 
 ### Production
 
-The development team utilized revolutionary technology for its time. They digitally photographed each scene and scanned them into the computer[^ref-30], creating what would become Sierra's first fully photo-realistic game[^ref-31]. The game used motion capture technology on real actors[^ref-32] and featured actual digital stills from locations around Los Angeles[^ref-33].
+The development team utilized significant technology for its time. They digitally photographed each scene and scanned them into the computer[^ref-30], creating what would become Sierra's first fully photo-realistic game[^ref-31]. The game used motion capture technology on real actors[^ref-32] and featured actual digital stills from locations around Los Angeles[^ref-33].
 
 The voice cast included Brandon Massey as Detective John Carey, Andrew Witches as Mitchell Thurman, and Jeff Bianchi as Sam Nobles[^ref-20]. Several Sierra On-Line employees also appeared as actors, including Dana Dean (animator), Barry T. Smith (animator and writer), Rod Fung (cinematographer), and Neal Grandstaff (music)[^ref-8]. The game featured extensive voice acting, with the CD version containing 10,000 lines of dialogue[^ref-34].
 

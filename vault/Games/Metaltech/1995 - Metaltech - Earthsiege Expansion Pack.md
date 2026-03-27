@@ -10,7 +10,7 @@ series: Metaltech
 engine: Custom 3D engine
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for
   the original *Metaltech: Earthsiege*, developed by Dynamix and released in 1995.
   The...'
@@ -18,11 +18,9 @@ tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech Earthsiege Expansion Pack
 
-<small style="color: gray">Last updated: February 4, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
-
-<small style="color: gray">Last updated: March 8, 2026</small>
 
 The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the original *[[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]]*, developed by [[Dynamix]] and released in 1995.[^ref-1][^ref-24] The expansion continued the desperate struggle between humanity and the sentient Cybrid war machines, picking up the narrative three months after the events of the base game.[^ref-1][^ref-17] Providing additional campaigns, missions, environments, mechs, and weapons, the expansion significantly extended the content available to players who had completed the original game.[^ref-3][^ref-24]
 
@@ -61,7 +59,7 @@ The expansion features a full-motion video introduction that establishes the dra
 
 ## Gameplay
 
-### Core Mechanics
+### Interface and Controls
 
 The *Earthsiege Expansion Pack* maintains the first-person mech simulation gameplay established in the base game, placing players in the cockpit of massive HERC war machines.[^ref-3][^ref-6] The expansion requires the original *Metaltech: Earthsiege* to play, building upon its established mechanics and control systems.[^ref-24]
 
@@ -81,7 +79,7 @@ The game supports a comprehensive array of input devices reflecting the simulati
 
 The mechs feature three distinct control systems that players must master: movement controls for walking and running, upper torso controls for aiming weapons, and thrust controls for jump jets and evasive maneuvers.[^ref-3] This complexity reflects the simulation's commitment to realistic mech operation, though contemporary reviews noted that the learning curve could be "quite daunting at first."[^ref-3]
 
-### Game Modes
+### Structure and Progression
 
 The expansion adds its three new campaigns to the original game's mode structure:[^ref-3][^ref-17]
 
@@ -307,3 +305,4 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 [^ref-27]: [Wikipedia – Metaltech: Earthsiege](https://en.wikipedia.org/wiki/Metaltech:_Earthsiege) – Next Generation and CGW review quotes
 [^ref-29]: [Giant Bomb – Metaltech: Earthsiege - Expansion Pack](https://www.giantbomb.com/metaltech-earthsiege-expansion-pack/3030-16608/) – User rating
 [^ref-46]: [MyAbandonware – Metaltech: Earthsiege](https://www.myabandonware.com/game/metaltech-earthsiege-2pi) – Genre influence assessment
+[^ref-47]: [MobyGames – Metaltech - Earthsiege Expansion Pack](https://www.mobygames.com/game/24568/) – game information and details

@@ -290,3 +290,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 [^ref-10]: [Wikipedia – Wolfgang von Kempelen](https://en.wikipedia.org/wiki/Wolfgang_von_Kempelen) – historical figure the game is named after
 [^ref-11]: [Wikipedia – The Turk](https://en.wikipedia.org/wiki/The_Turk) – chess-playing automaton historical context
 [^ref-12]: [WMCCC 1985](https://www.chessprogramming.org/WMCCC_1985) – World Microcomputer Chess Championship records
+[^ref-13]: [Lemon64 – Kempelen](https://www.lemon64.com/games/list.php?list_genre=Board&list_sub_genre=Chess&list_people=) – Commodore 64 games database with chess program listings
+[^ref-14]: [Chesstroid – Commodore 64 Chess Programs](http://chesstroid.blogspot.com/2014/05/commodore-64-revisited-retro-chess-experiment/) – retro chess game analysis and emulation guide
+[^ref-15]: [Lemon64 Chess Forum – Best Chess Game](https://www.lemon64.com/forum/viewtopic.php?t=5559) – community discussion of Commodore 64 chess programs

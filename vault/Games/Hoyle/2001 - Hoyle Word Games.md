@@ -185,7 +185,7 @@ The game remains available through secondary market sellers and retro gaming sit
 
 Hoyle Word Games 2001 occupies a modest but notable place in the history of casual gaming compilations. As part of the long-running Hoyle brand, it represented Sierra's continued commitment to accessible, family-friendly gaming during a period when the company was primarily known for adventure games and first-person shooters. The compilation approach—bundling multiple word games with dictionary integration and bonus puzzles—predated the casual gaming boom of the mid-2000s by several years.
 
-The game's educational focus on reading, spelling, and logic skills[^ref-2] positioned it as both entertainment and edutainment, appealing to families and educators. While not groundbreaking in its design, the package offered solid value and accessibility that kept the Hoyle brand relevant in an increasingly competitive market for casual computer games.
+The game's educational focus on reading, spelling, and logic skills[^ref-2] positioned it as both entertainment and edutainment, appealing to families and educators. While not notable in its design, the package offered solid value and accessibility that kept the Hoyle brand relevant in an increasingly competitive market for casual computer games.
 
 ## Purchase
 

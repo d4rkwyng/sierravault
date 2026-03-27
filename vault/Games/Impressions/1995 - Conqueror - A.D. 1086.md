@@ -91,7 +91,7 @@ Critics identified numerous gameplay issues that undermined the game's potential
 
 ### Modern Assessment
 
-Modern retrospective assessments have been more forgiving of the game's flaws while acknowledging its pioneering ambitions. Benito Moretti of 336GameReviews gave the game 3/5, calling it "an extremely ambitious title, especially for 1995" and praising Software Sorcery for "really pull[ing] off some magic with this title"[^ref-3]. Moretti suggested that "If any game ever needed a remake/remaster, it is this one right here as fixing its issues would truly make it into something unforgettable"[^ref-3].
+Modern retrospective assessments have been more forgiving of the game's flaws while acknowledging its notable ambitions. Benito Moretti of 336GameReviews gave the game 3/5, calling it "an extremely ambitious title, especially for 1995" and praising Software Sorcery for "really pull[ing] off some magic with this title"[^ref-3]. Moretti suggested that "If any game ever needed a remake/remaster, it is this one right here as fixing its issues would truly make it into something unforgettable"[^ref-3].
 
 Fan assessments from the GameFAQs community have been enthusiastic, with one contributor noting that "Despite the various flaws of the game, it provided hours and months and years of entertainment"[^ref-12]. The game was described as having been "certainly expensive, priced at $55, but ended up being a great investment"[^ref-12]. The Retrolorean review concluded that "Conqueror: A.D. 1086 may be an old game, but it still holds up as a highly entertaining and immersive strategy game"[^ref-13].
 

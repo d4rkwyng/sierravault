@@ -219,3 +219,13 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 [^ref-9]: [VirtualApple – Hi-Res Cribbage](https://www.virtualapple.org/cribbagedisk.html) – playable emulation, Apple II preservation
 
 [^ref-10]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
+
+[^ref-11]: [RetroMags – Hi-Res Cribbage Magazine Scan](https://www.retromags.com/gallery/image/21320-hi-res-cribbage/) – original game packaging, display of hi-res graphics capabilities
+
+[^ref-12]: [VideoGameGeek – Hi-Res Cribbage](https://videogamegeek.com/videogame/256207/hi-res-cribbage) – community database entry, game documentation
+
+[^ref-13]: [Timetoast Timelines – Life and Work of Warren Schwader](https://www.timetoast.com/timelines/life-and-work-of-warren-schwader) – developer timeline, career progression at On-Line Systems
+
+[^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
+
+[^ref-15]: [Virtual Apple – Hi-Res Cribbage Emulation](https://www.virtualapple.org/cribbagedisk.html) – playable emulation preservation, Apple II compatibility

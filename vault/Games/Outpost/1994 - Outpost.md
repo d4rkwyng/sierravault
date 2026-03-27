@@ -257,7 +257,7 @@ The Outpost soundtrack has been preserved through archival efforts. Xeen Music r
 
 Outpost represents one of the most significant cautionary tales in gaming history—a game that demonstrated how ambition without execution, combined with premature release, could destroy a promising concept. The controversy also highlighted emerging issues with games journalism and the practice of reviewing unfinished builds.
 
-The game's hard science fiction approach was genuinely innovative and ahead of its time. Having a NASA scientist as lead designer brought unprecedented authenticity to the space colonization genre. As Rock Paper Shotgun noted, it was potentially "the world's best hard sci-fi sim game"[^ref-3]—the tragedy being that this potential was never fully realized in the shipped product.
+The game's hard science fiction approach was genuinely innovative and ahead of its time. Having a NASA scientist as lead designer brought unusual authenticity to the space colonization genre. As Rock Paper Shotgun noted, it was potentially "the world's best hard sci-fi sim game"[^ref-3]—the tragedy being that this potential was never fully realized in the shipped product.
 
 The Outpost controversy presaged later industry debates about "review copies" versus retail versions, early access, and the ethics of shipping incomplete products. It remains a frequently cited example when discussing the relationship between game publishers, press, and consumers.
 
