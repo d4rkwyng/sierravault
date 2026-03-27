@@ -112,12 +112,6 @@ In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contra
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
-[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-[[Return of The Incredible Machine - Contraptions]]
-[[The Incredible Machine]]
-[[The Incredible Machine (2011)]]
-[[The Incredible Machine - Even More Contraptions]]
-[[The Incredible Machine 2]]
 
 ## References
 

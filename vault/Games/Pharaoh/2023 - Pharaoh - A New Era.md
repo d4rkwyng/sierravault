@@ -138,6 +138,3 @@ The game's development model—a modern studio licensing dormant Sierra IP from 
 [^ref-17]: [Triskell Interactive](https://www.triskell-interactive.com/) – Developer website
 [^ref-18]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – Game coverage
 [^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – Game information
-
-[[1999 - Pharaoh]]
-[[2000 - Cleopatra - Queen of the Nile]]

@@ -135,11 +135,6 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 
 Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
 
-[[Gabriel Knight - Sins of the Fathers]]
-[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-[[Gabriel Knight 4 - Five Hearts]]
-[[The Beast Within - A Gabriel Knight Mystery]]
 
 [[1993 - Gabriel Knight - Sins of the Fathers]]
 
@@ -147,7 +142,6 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 
 [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
-[[TBD - Gabriel Knight 4 - Five Hearts]]
 
 ## References
 
@@ -241,8 +235,3 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [^ref-91]: https://web.archive.org/web/20080323102202/http://www.metacritic.com/games/platforms/pc/gabrielknight3 - Archived Metacritic page from 2008
 [^ref-92]: https://web.archive.org/web/20160714032314/http://www.adventuregamers.com/articles/view/17459 - Adventure Gamers retrospective review archived via Wayback Machine
 [^ref-93]: https://wiki.scummvm.org/index.php/Gabriel_Knight_3_Blood_Of_The_Sacred_Blood_Of_The_Damned - ScummVM wiki page (inaccessible due to anti-bot protection)
-
-[[1993 - Gabriel Knight - Sins of the Fathers]]
-[[1995 - The Beast Within - A Gabriel Knight Mystery]]
-[[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-[[TBD - Gabriel Knight 4 - Five Hearts]]

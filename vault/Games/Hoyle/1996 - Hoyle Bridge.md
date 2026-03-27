@@ -305,29 +305,6 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Bridge]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -358,6 +335,3 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 [^ref-25]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise catalog
 [^ref-26]: [eBay Listing – Sealed 1996](https://www.ebay.com/itm/184974204908) – vintage product confirmation
 [^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Hoyle+Bridge) – DOS version reference
-
-[[1991 - Hoyle Official Book of Games - Volume 4]]
-[[1996 - Hoyle Blackjack]]

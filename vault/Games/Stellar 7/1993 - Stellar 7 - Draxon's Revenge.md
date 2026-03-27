@@ -198,8 +198,6 @@ The game's design choices, including the significantly higher difficulty with on
 - [[1993 - Stellar-Fire|→ Next: Stellar-Fire]]
 
 [[1990 - Stellar 7]]
-[[Nova 9 - The Return of Gir Draxon]]
-[[Stellar 7 - Draxon's Revenge]]
 
 ## References
 
@@ -223,6 +221,3 @@ The game's design choices, including the significantly higher difficulty with on
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
 [^ref-19]: [PriceCharting – Stellar 7: Draxon's Revenge](https://www.pricecharting.com/game/3do/stellar-7-draxon%27s-revenge) – market availability
 [^ref-20]: [HonestGamers – Stellar 7: Draxon's Revenge](http://www.honestgamers.com/9895/3do/stellar-7-draxons-revenge/game.html) – Japanese title, publisher information
-
-[[1991 - Nova 9 - The Return of Gir Draxon]]
-[[1993 - Stellar-Fire]]

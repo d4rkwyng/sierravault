@@ -186,9 +186,6 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [[1992 - A.J.'s World of Discovery]]
 
 [[1996 - Adiboo - Magical Playland]]
-[[Adiboo - Magical Playland]]
-[[Adiboo - Paziral's Secret]]
-[[Adiboo and the Energy Thieves]]
 
 ## References
 
@@ -211,5 +208,3 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [^ref-17]: [Backloggd – Coktel Vision](https://backloggd.com/company/coktel-vision/trending/) – developer confirmation
 [^ref-18]: [TV Tropes – Coktel Vision](https://tvtropes.org/pmwiki/pmwiki.php/Creator/CoktelVision) – developer catalog listing
 [^ref-19]: [GameFAQs – Video Page](https://gamefaqs.gamespot.com/ps2/919615-adiboo-and-the-energy-thieves/videos/1212206) – release date confirmation
-
-[[2003 - Adiboo - Paziral's Secret]]

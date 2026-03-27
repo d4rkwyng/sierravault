@@ -218,8 +218,6 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 [[1984 - Wizard of Id's WizType]]
 
 [[1992 - Ready, Set, Read with Bananas & Jack]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
 
 ## References
 

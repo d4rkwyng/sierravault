@@ -196,9 +196,6 @@ From a development perspective, the game is notable as an example of Impressions
 [[1996 - Birthright - The Gorgon's Alliance]]
 
 [[1996 - Space Bucks]]
-[[Birthright - The Gorgon's Alliance]]
-[[The Rise & Rule of Ancient Empires]]
-[[V for Victory - D-Day Utah Beach]]
 
 ## References
 

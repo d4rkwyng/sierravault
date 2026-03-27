@@ -211,8 +211,6 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Mouskattack]]
-[[WallWar]]
 
 ## References
 

@@ -207,9 +207,6 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
-[[Wizard of Id's WizMath]]
 
 ## References
 

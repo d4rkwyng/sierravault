@@ -345,11 +345,6 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
-[[Counter-Strike]]
-[[Counter-Strike - Condition Zero]]
-[[Half-Life]]
-[[Half-Life - Blue Shift]]
-[[Half-Life - Opposing Force]]
 
 ## References
 
@@ -415,5 +410,3 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 [^ref-64]: [Combine Overwiki – Half-Life Soundtrack](https://combineoverwiki.net/wiki/Half-Life_soundtrack) – composer credits, technical details
 [^ref-65]: [Half-Life Fandom Wiki – Half-Life Soundtrack](https://half-life.fandom.com/wiki/Half-Life_soundtrack) – track information, trivia
 [^ref-66]: [KHInsider – Half-Life Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-soundtrack-1998) – track listing, duration
-
-[[1999 - Half-Life - Opposing Force]]

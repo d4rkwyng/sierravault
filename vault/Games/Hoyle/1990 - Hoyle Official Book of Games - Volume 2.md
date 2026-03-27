@@ -317,28 +317,6 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Official Book of Games Volume 2: Solitaire](https://www.mobygames.com/game/760/hoyle-official-book-of-games-volume-2-solitaire/) – credits, platforms, ratings, game content, development team
@@ -356,6 +334,3 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 [^ref-13]: [UVList – Hoyle Official Book of Games Volume 2](https://www.uvlist.net/game-48836-Hoyle+Official+Book+of+Games+Volume+2) – release information, technical data
 [^ref-14]: [GameFAQs – Hoyle Official Book of Games Volume 2](https://gamefaqs.gamespot.com/pc/575047-hoyle-official-book-of-games-volume-2-solitaire) – platform data, user interest
 [^ref-15]: [Sierra Chest – Hoyle Series](https://sierrachest.com/index.php?a=groups&id=42) – series documentation, packaging
-
-[[1989 - Hoyle Official Book of Games - Volume 1]]
-[[1991 - Hoyle Official Book of Games - Volume 3]]

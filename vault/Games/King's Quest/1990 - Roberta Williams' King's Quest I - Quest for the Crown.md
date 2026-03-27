@@ -209,15 +209,6 @@ The SCI remake was included in several Sierra compilations:[^ref-2]
 
 Series: [[King's Quest]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest: Quest for the Crown]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[2015 - King's Quest]]
 
-[[King's Quest - Mask of Eternity]]
-[[King's Quest - Quest for the Crown]]
-[[King's Quest II - Romancing the Throne]]
-[[King's Quest III - To Heir Is Human]]
-[[King's Quest IV - The Perils of Rosella]]
-[[King's Quest V - Absence Makes the Heart Go Yonder]]
-[[King's Quest VI - Heir Today, Gone Tomorrow]]
-[[King's Quest VII - The Princeless Bride]]
-[[Roberta Williams' King's Quest I - Quest for the Crown]]
 [[2015 - King's Quest]]
 
 [[1984 - King's Quest - Quest for the Crown]]
@@ -259,12 +250,3 @@ Series: [[King's Quest]] • [[King's Quest II: Romancing the Throne]] • [[Kin
 [^ref-19]: [Wikipedia – King's Quest fan games](https://en.wikipedia.org/wiki/King%27s_Quest_fan_games) – – Fan remake details, Josh Mandel voice
 [^ref-20]: [Wikipedia – Josh Mandel](https://en.wikipedia.org/wiki/Josh_Mandel_(video_game_designer) – ) – Career, voice acting
 [^ref-21]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Price, reviews
-
-[[1984 - King's Quest - Quest for the Crown]]
-[[1985 - King's Quest II - Romancing the Throne]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]

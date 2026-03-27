@@ -251,6 +251,3 @@ From a preservation standpoint, the game's absence from modern digital storefron
 [^ref-24]: [HandWiki – Mixed-Up Fairy Tales](https://handwiki.org/wiki/Software:Mixed-Up_Fairy_Tales) – designers, composer, review scores confirmation
 [^ref-25]: [Wikidata – Mixed-Up Fairy Tales](https://www.wikidata.org/wiki/Q13649739) – single-player mode, mouse input, platform confirmation
 [^ref-26]: [MobyGames Reviews Page](https://www.mobygames.com/game/6880/mixed-up-fairy-tales/reviews/) – Bremen Town Musicians inclusion, Mozart and Bach composers, randomization confirmation
-
-[[1990 - Mixed-Up Mother Goose (SCI Remake)]]
-[[1995 - Mixed-Up Mother Goose Deluxe]]

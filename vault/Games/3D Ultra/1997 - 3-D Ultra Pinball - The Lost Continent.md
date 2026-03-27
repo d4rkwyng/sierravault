@@ -156,16 +156,6 @@ The title remains available through preservation efforts, with multiple archive 
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -212,6 +202,3 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-24]: [PriceCharting - Market Data](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball-the-lost-continent) – - Commercial availability and pricing
 [^ref-25]: [Archive.org - Alternative Entry](https://archive.org/details/3-d-ultra-pinball-the-lost-continent) – - Alternative preservation copy
 [^ref-26]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/3-D_Ultra_Pinball:_The_Lost_Continent_Releases) – - Release information (inaccessible source)
-
-[[1997 - 3-D Ultra MiniGolf]]
-[[1998 - 3-D Ultra MiniGolf Deluxe]]

@@ -308,13 +308,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 
 Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
-[[Space Quest - The Sarien Encounter]]
-[[Space Quest 6 - Roger Wilco in the Spinal Frontier]]
-[[Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[Space Quest II - Vohaul's Revenge]]
-[[Space Quest III - The Pirates of Pestulon]]
-[[Space Quest IV - Roger Wilco and the Time Rippers]]
-[[Space Quest V - The Next Mutation]]
 
 [[1986 - Space Quest - The Sarien Encounter]]
 
@@ -380,10 +373,3 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [^ref-49]: [Eurogamer – Retrospective: Space Quest IV](https://www.eurogamer.net/retrospective-space-quest-iv) – "SQ4 is about gags everywhere," parser vs icon interface debate, development tensions
 [^ref-50]: [Hardcore Gaming 101 – Space Quest IV](http://www.hardcoregaming101.net/space-quest-iv/) – Comprehensive retrospective: Gary Owens narration, "Two Guys' favorite," CD-ROM changes, Radio Shock legal issues
 [^ref-51]: [Game Developer – The 20-Year Estrangement of the Two Guys from Andromeda](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) – Leigh Alexander's 2012 feature: partnership dissolution, Murphy's 2006 "bitter rantings," Crowe's family obligations, Kickstarter reunion, "masterpiece" only together
-
-[[1986 - Space Quest - The Sarien Encounter]]
-[[1987 - Space Quest II - Vohaul's Revenge]]
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[1993 - Space Quest V - The Next Mutation]]
-[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]

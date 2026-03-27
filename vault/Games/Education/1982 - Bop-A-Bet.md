@@ -201,9 +201,6 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
-[[Bop-A-Bet]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
 
 ## References
 

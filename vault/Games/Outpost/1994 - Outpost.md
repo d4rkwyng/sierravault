@@ -277,8 +277,6 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 ## See Also
 
 - [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
-[[Outpost]]
-[[Outpost 2 - Divided Destiny]]
 
 ## References
 
@@ -304,5 +302,3 @@ The Outpost controversy presaged later industry debates about "review copies" ve
 [^ref-20]: [Xeen Music – Outpost Soundtrack](https://xeenmusic.bandcamp.com/album/outpost-1-official-soundtrack-sc-55) – composer credits, audio specifications
 [^ref-21]: [Wikipedia – Outpost (1994 video game)](https://en.wikipedia.org/wiki/Outpost_(1994_video_game)) – general overview, review scores
 [^ref-22]: [AbandonwareDOS – Outpost](https://www.abandonwaredos.com/search.php?search=Outpost) – platform confirmation, release year
-
-[[1997 - Outpost 2 - Divided Destiny]]

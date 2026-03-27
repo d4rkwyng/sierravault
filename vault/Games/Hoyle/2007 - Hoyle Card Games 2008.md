@@ -321,29 +321,6 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Card Games 2008]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -369,6 +346,3 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [^ref-20]: [Lutris](https://lutris.net/games/hoyle-card-games-2008/) – Linux compatibility information
 [^ref-14]: [WildTangent – Hoyle Card Games](https://www.wildtangent.com/p/cards/hoyle-card-games/) – Digital release date, user ratings, system requirements
 [^ref-15]: [IGN – Hoyle Card Games 2008](https://www.ign.com/games/hoyle-card-games-2008) – Release date, no review available
-
-[[2006 - Hoyle Miami Solitaire]]
-[[2007 - Hoyle Casino]]

@@ -325,8 +325,6 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 ## See Also
 
 - [[2001 - Poseidon - Master of Atlantis|→ Next: Poseidon - Master of Atlantis]]
-[[Poseidon - Master of Atlantis]]
-[[Zeus - Master of Olympus]]
 
 ## References
 
@@ -370,5 +368,3 @@ Modern retrospectives consistently place Zeus among the finest city-builders eve
 [^ref-39]: [VGMdb – Zeus Soundtrack](https://vgmdb.net/album/16067) – soundtrack rarity, mysterious origins
 [^ref-40]: [ModDB – HD Mod](https://www.moddb.com/mods/zeus-and-poseidon-full-hd-enfr/downloads/zeus-and-poseidon-full-hd-many-resolution) – JackFuste HD patch
 [^ref-41]: [Amazon – Prima Strategy Guide](https://www.amazon.com/Zeus-Master-Olympus-Official-Strategy/dp/0761531246) – guide description and quotes
-
-[[2001 - Poseidon - Master of Atlantis]]

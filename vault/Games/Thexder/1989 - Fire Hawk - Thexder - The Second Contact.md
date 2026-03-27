@@ -313,6 +313,3 @@ In the broader context of Sierra On-Line's publishing history, Fire Hawk represe
 [^ref-90]: [VGCollect](https://vgcollect.com/item/fire-hawk-thexder) – Collector database
 [^ref-91]: [Price Charting](https://www.pricecharting.com/game/pc/fire-hawk-thexder) – Market value tracking
 [^ref-92]: [GameFAQs Board](https://gamefaqs.gamespot.com/boards/564895-fire-hawk-thexder) – Community forum
-
-[[1985 - Thexder]]
-[[1995 - Thexder 95]]

@@ -183,16 +183,6 @@ This game is not available on GOG[^ref-7].
 
 Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]]
 
-[[King's Quest]]
-[[King's Quest - Mask of Eternity]]
-[[King's Quest - Quest for the Crown]]
-[[King's Quest II - Romancing the Throne]]
-[[King's Quest III - To Heir Is Human]]
-[[King's Quest IV - The Perils of Rosella]]
-[[King's Quest V - Absence Makes the Heart Go Yonder]]
-[[King's Quest VI - Heir Today, Gone Tomorrow]]
-[[King's Quest VII - The Princeless Bride]]
-[[Roberta Williams' King's Quest I - Quest for the Crown]]
 
 [[1984 - King's Quest - Quest for the Crown]]
 
@@ -230,13 +220,3 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-15]: [Common Sense Media – King's Quest](https://www.commonsensemedia.org/game-reviews/kings-quest) – age 10+ recommendation, Princess Bride-style storytelling, voice cast praise, ESRB E10+ rating
 [^ref-16]: [Wikipedia – King's Quest (2015) Development & Reception](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29#Development) – 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
 [^ref-17]: [Steam Community – King's Quest Reviews](https://store.steampowered.com/app/345390/Kings_Quest/) – 2,933 reviews, Very Positive aggregate (90% positive), recent review status, system requirements
-
-[[1984 - King's Quest - Quest for the Crown]]
-[[1985 - King's Quest II - Romancing the Throne]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]

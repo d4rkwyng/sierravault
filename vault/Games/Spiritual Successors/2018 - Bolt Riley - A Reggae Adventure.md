@@ -180,20 +180,6 @@ Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
 
 [[2023 - Summer Daze - Tilly's Tale]]
 
-[[TBD - Order of the Thorne - Fortress of Fire]]
-
-[[TBD - Quest for Infamy - Roehm to Ruin]]
-[[Bolt Riley - A Reggae Adventure]]
-[[Cluck Yegger in Escape From The Planet of The Poultroid]]
-[[Cognition - An Erica Reed Thriller]]
-[[Fester Mudd - Curse of the Gold]]
-[[Hero-U - Rogue to Redemption]]
-[[Mage's Initiation - Reign of the Elements]]
-[[Moebius - Empire Rising]]
-[[Order of the Thorne - Fortress of Fire]]
-[[Order of the Thorne - The King's Challenge]]
-[[Quest for Infamy - Roehm to Ruin]]
-[[Summer Daze - Tilly's Tale]]
 
 ## References
 

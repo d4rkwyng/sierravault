@@ -321,28 +321,6 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -357,6 +335,3 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-10]: [IGDB - Hoyle Slots](https://www.igdb.com/games/hoyle-slots-and-video-poker) - IGDB
 [^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
 [^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
-
-[[2000 - Hoyle Kids Games]]
-[[2000 - Hoyle Solitaire and Mahjong Tiles]]

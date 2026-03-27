@@ -245,8 +245,6 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 [[1999 - Curse You! Red Baron]]
 
 [[2008 - Red Baron Arcade]]
-[[Red Baron - Mission Builder]]
-[[Red Baron II]]
 
 ## References
 
@@ -285,6 +283,3 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 [^ref-33]: [VOGONS – Red Baron Technical Discussion](https://www.vogons.org/viewtopic.php?t=75255) – XBaron patch, fan support
 [^ref-34]: [Amazon – Official Strategy Guide](https://www.amazon.com/Red-Baron-II-Official-Strategy/dp/0761509488) – strategy guide details
 [^ref-35]: [MobyGames – Red Baron Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – later series entry
-
-[[1992 - Red Baron - Mission Builder]]
-[[1998 - Red Baron 3D]]

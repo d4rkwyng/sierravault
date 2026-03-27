@@ -203,8 +203,6 @@ The game's obscurity in modern times reflects the ephemeral nature of much educa
 [[1993 - Turbo Learning - Mega Math]]
 
 [[1994 - Spelling Blizzard]]
-[[Ready Set Read with Bananas Jack]]
-[[Turbo Learning - Mega Math]]
 
 ## References
 

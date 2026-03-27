@@ -251,9 +251,6 @@ The game demonstrates both the creative ambition and technical limitations of mi
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[Bouncers]]
-[[David Wolf - Secret Agent]]
-[[Sierra Soccer - World Challenge Edition]]
 
 ## References
 

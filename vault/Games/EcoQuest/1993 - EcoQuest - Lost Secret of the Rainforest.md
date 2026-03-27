@@ -249,5 +249,3 @@ The game's emphasis on consequences for environmental destruction—whether thro
 [^ref-26]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_EcoQuest_2_-_Lost_Secret_of_the_Rainforest_1993) – game preservation
 [^ref-27]: [Internet Archive – Alternative Upload](https://archive.org/details/ecoquest-2) – game preservation
 [^ref-28]: [MobyGames – Orpheus Hanley](https://www.mobygames.com/person/6020/orpheus-hanley/) – sound design credits
-
-[[1991 - EcoQuest - The Search for Cetus]]

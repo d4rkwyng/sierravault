@@ -301,8 +301,6 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Frogger]]
-[[WallWar]]
 
 ## References
 

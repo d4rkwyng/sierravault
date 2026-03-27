@@ -363,28 +363,6 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, publisher information
@@ -401,6 +379,3 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 [^ref-13]: [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – user ratings, technical information, debug modes, user comments
 [^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
 [^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
-
-[[2002 - Hoyle Card Games]]
-[[2002 - Hoyle Puzzle Games]]

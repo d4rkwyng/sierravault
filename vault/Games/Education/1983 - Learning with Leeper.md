@@ -220,9 +220,6 @@ The broader significance of educational software like Learning with Leeper was r
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
-[[Learning with Leeper]]
 
 ## References
 

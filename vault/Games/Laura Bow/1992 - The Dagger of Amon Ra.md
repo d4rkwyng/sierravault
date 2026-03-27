@@ -349,5 +349,3 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-33]: [Edenwaith Blog](http://www.edenwaith.com/blog/index.php?p=91) – AUDBLAST.DRV details, audioSize configuration
 [^ref-34]: [GameFAQs – Trivia](https://gamefaqs.gamespot.com/pc/565070-laura-bow-in-the-dagger-of-amon-ra/faqs) – The Prisoner reference
 [^ref-35]: [Retro Freak Reviews](https://retrofreakreviews.com/2025/08/04/the-dagger-of-amon-ra-dos-review/) – voice acting by Sierra staff
-
-[[1989 - The Colonel's Bequest]]

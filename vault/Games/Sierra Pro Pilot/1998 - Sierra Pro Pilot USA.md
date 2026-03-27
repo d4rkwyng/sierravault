@@ -207,8 +207,6 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 - [[1998 - Sierra Pro Pilot '99|← Previous: Sierra Pro Pilot '99]]
 
 [[1997 - Sierra Pro Pilot 98]]
-[[Sierra Pro Pilot '99]]
-[[Sierra Pro Pilot USA]]
 
 ## References
 
@@ -232,5 +230,3 @@ Today, the Pro Pilot series serves as a historical artifact documenting Sierra's
 [^ref-18]: [Official Pro Pilot Website (Archived)](https://web.archive.org/web/19980213164703/http://sierra.com/titles/pilot/bot.html) – original marketing materials, system requirements
 [^ref-19]: [Amazon – Pro Pilot 99](https://www.amazon.com/Pro-Pilot-99-pc/dp/B00001LDCF) – retail availability, user reviews, product information
 [^ref-20]: [eBay France – Pro Pilot Listings](https://www.ebay.fr/b/Jeux-video-flight-simulator-PC/139973/bn_7117218481) – collector market availability, physical media preservation
-
-[[1998 - Sierra Pro Pilot '99]]

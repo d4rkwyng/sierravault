@@ -169,4 +169,3 @@ The Mixed-Up series represents Sierra's pioneering effort in educational adventu
 [^ref-28]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Game overview and mechanics
 [^ref-29]: [Play Old Games](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Technical details and gameplay information
 [^ref-30]: [ROMs Fun - Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information
-

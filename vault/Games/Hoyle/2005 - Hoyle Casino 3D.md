@@ -332,29 +332,6 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino 3D]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -373,6 +350,3 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 [^ref-14]: [MSU Libraries – Video Game Holdings](https://lib.msu.edu/collections/rovi/games/browse/H?page=23) – Library catalog entry, ESRB rating
 [^ref-15]: [ESRB – Hoyle Casino 3D (Encore)](https://www.esrb.org/ratings/10932/hoyle-casino-3d/) – Content descriptors, Teen rating
 [^ref-16]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – Series marketplace data
-
-[[2005 - Hoyle Card Games]]
-[[2005 - Hoyle Poker Series]]

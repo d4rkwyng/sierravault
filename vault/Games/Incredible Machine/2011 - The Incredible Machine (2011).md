@@ -294,12 +294,6 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 [[1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
 
 [[2000 - Return of The Incredible Machine - Contraptions]]
-[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-[[Return of The Incredible Machine - Contraptions]]
-[[The Incredible Machine]]
-[[The Incredible Machine (2011)]]
-[[The Incredible Machine - Even More Contraptions]]
-[[The Incredible Machine 2]]
 
 ## References
 
@@ -348,5 +342,3 @@ As Jeff Tunnell reflected on the franchise's 30th anniversary, "Working on Contr
 [^ref-43]: [PCGamesN – Contraption Maker Article](https://www.pcgamesn.com/contraption-maker/contraption-maker-second-generation-incredible-machine-out-now-steam) – spiritual successor details
 [^ref-44]: [Reddit – Kevin Ryan AMA](https://www.reddit.com/r/Games/comments/18ew4pv/contraption_maker_kevin_ryan_modern_version_of/) – Contraption Maker features
 [^ref-45]: [Steam – Contraption Maker](https://store.steampowered.com/app/241240/Contraption_Maker/) – release info, quotes
-
-[[2001 - The Incredible Machine - Even More Contraptions]]

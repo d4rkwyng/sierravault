@@ -198,9 +198,6 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [[1990 - Stellar 7]]
 
 [[1991 - Nova 9 - The Return of Gir Draxon]]
-[[Nova 9 - The Return of Gir Draxon]]
-[[Stellar 7 - Draxon's Revenge]]
-[[Stellar-Fire]]
 
 ## References
 
@@ -217,5 +214,3 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [^ref-11]: [Lukie Games – Stellar-Fire](https://www.lukiegames.com/stellar-fire-sega-cd-game) – customer review, soundtrack praise, current availability
 [^ref-12]: [Dynamix Wiki – Stellar 7 Series](https://dynamix.fandom.com/wiki/Stellar_7_(series)) – series overview, game list, developer information
 [^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
-
-[[1993 - Stellar 7 - Draxon's Revenge]]

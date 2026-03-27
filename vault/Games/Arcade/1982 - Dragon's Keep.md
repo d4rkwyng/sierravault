@@ -257,8 +257,6 @@ From a modern perspective, Dragon's Keep demonstrates Sierra's early commitment 
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Dragon's Keep]]
-[[WallWar]]
 
 ## References
 

@@ -22,24 +22,6 @@ tags: [adventure, agi, manhunter, sierra]
 
 ## See Also
 
-[[CXL - Babylon 5 - Into the Fire]]
-
-[[CXL - Front Page Sports - Football Pro '99]]
-
-[[CXL - King's Quest IX]]
-
-[[CXL - Leisure Suit Larry 8]]
-
-[[CXL - Middle-earth Online]]
-
-[[CXL - Precinct (2013)]]
-
-[[CXL - Red Baron (2013 Remake)]]
-
-[[CXL - SWAT - Urban Justice]]
-
-[[CXL - Space Quest VII - Return to Roman Numerals]]
-[[CXL - Manhunter 3]]
 
 ## Overview
 

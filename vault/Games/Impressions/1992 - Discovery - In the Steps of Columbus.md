@@ -246,14 +246,6 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 
 ## References
 
@@ -273,6 +265,3 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 [^ref-16]: [WHDLoad](https://www.whdload.de/games/Discovery.html) – Technical requirements for Amiga installation, version history
 [^ref-17]: [Internet Archive](https://archive.org/details/msdos_Discovery_-_In_the_Steps_of_Columbus_1992) – DOS version preservation, file specifications
 [^ref-18]: [Classic Reload](https://classicreload.com/discovery-in-the-steps-of-columbus.html) – Platform confirmation, release year
-
-[[1992 - Conquest of Japan]]
-[[1993 - Cohort II - Fighting for Rome]]

@@ -271,12 +271,6 @@ Modern players typically approach the game "more out of historical interest than
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Ween - The Prophecy]]
 
 ## References
 

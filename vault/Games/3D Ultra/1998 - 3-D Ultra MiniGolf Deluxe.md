@@ -149,16 +149,6 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -206,6 +196,3 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-25]: [Steam Community Reviews - Top Rated](https://steamcommunity.com/app/10140/reviews/?browsefilter=toprated) – - User perspectives on technical issues
 [^ref-26]: [Steam Store - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – - Official store page with system requirements
 [^ref-27]: [Zomb's Lair - 3D Ultra Minigolf Deluxe](https://www.zombs-lair.com/3d-ultra-minigolf-deluxe) – - Retrospective review and personal gameplay experience
-
-[[1997 - 3-D Ultra Pinball - The Lost Continent]]
-[[1998 - 3-D Ultra NASCAR Pinball]]

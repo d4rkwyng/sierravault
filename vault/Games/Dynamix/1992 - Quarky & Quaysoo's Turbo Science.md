@@ -243,9 +243,6 @@ The game's cultural detailsâ€”featuring Indian-American space elf protagonistsâ€
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[David Wolf - Secret Agent]]
-[[Quarky & Quaysoo's Turbo Science]]
-[[Sierra Soccer - World Challenge Edition]]
 
 ## References
 

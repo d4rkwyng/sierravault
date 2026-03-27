@@ -343,15 +343,6 @@ This game has been included in[^ref-20][^ref-21]:
 
 Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
-[[King's Quest - Mask of Eternity]]
-[[King's Quest - Quest for the Crown]]
-[[King's Quest II - Romancing the Throne]]
-[[King's Quest III - To Heir Is Human]]
-[[King's Quest IV - The Perils of Rosella]]
-[[King's Quest V - Absence Makes the Heart Go Yonder]]
-[[King's Quest VI - Heir Today, Gone Tomorrow]]
-[[King's Quest VII - The Princeless Bride]]
-[[Roberta Williams' King's Quest I - Quest for the Crown]]
 
 [[1984 - King's Quest - Quest for the Crown]]
 
@@ -410,13 +401,3 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-35]: [The Cutting Room Floor – King's Quest VI](https://tcrf.net/King%27s_Quest_VI:_Heir_Today,_Gone_Tomorrow) – – Debug Script 911, unused Shamir portrait, Ferryman dialogue, early Cassima voice
 [^ref-36]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – Digital distribution
 [^ref-37]: [Internet Archive – King's Quest VI](https://archive.org/details/msdos_Kings_Quest_VI_-_Heir_Today_Gone_Tomorrow_1992) – – Browser-playable preservation
-
-[[1984 - King's Quest - Quest for the Crown]]
-[[1985 - King's Quest II - Romancing the Throne]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]
-[[2015 - King's Quest]]

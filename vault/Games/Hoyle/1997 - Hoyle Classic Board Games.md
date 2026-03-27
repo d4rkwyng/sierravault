@@ -316,29 +316,6 @@ Abandonware archives and retro gaming communities continue maintaining access to
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Classic Board Games]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [Trieagle664 Archive](https://trieagle664.weebly.com/sierra-hoyle-classic-board-games.html) - Game origin story and designer information
@@ -363,6 +340,3 @@ Abandonware archives and retro gaming communities continue maintaining access to
 [^ref-21]: [Sierra Chest](https://sierrachest.com/index.php?a=games&id=520&title=hoyle-classic-board-games-1&fld=music) - Composer credit
 [^ref-22]: [The Gamers Guides Technical](https://www.thegamersguides.com/how-to-play-hoyle-classic-board-games-on-windows-10/) - Technical specifications
 [^ref-23]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Fan perspective on series significance
-
-[[1998 - Hoyle Battling Ships and War]]
-[[1999 - Hoyle Backgammon and Cribbage]]

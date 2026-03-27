@@ -267,8 +267,6 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 
 - **Compilation:** Acropolis expansion
 - [[2000 - Zeus - Master of Olympus|← Previous: Zeus - Master of Olympus]]
-[[Poseidon - Master of Atlantis]]
-[[Zeus - Master of Olympus]]
 
 ## References
 
@@ -297,5 +295,3 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-23]: [Go64 – GameVortex Mirror](https://go64.com/gamevortex/soft_rev.php/409) – review details, technical specifications
 [^ref-24]: [PriceCharting](https://www.pricecharting.com/game/pc-games/poseidon-zeus-official-expansion) – publisher, genre, player count
 [^ref-25]: [LoneBullet – Patch Download](https://www.lonebullet.com/patches/download-poseidon-zeus-official-expansion-patch-v21-patch-free-20220.htm) – patch file size, download statistics
-
-[[2000 - Zeus - Master of Olympus]]

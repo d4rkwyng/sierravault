@@ -194,20 +194,6 @@ The series represented Sierra's most successful foray into sports gaming, with [
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [MobyGames - Front Page Sports Football Pro 97](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/) - Basic game information and release details
@@ -232,6 +218,3 @@ The series represented Sierra's most successful foray into sports gaming, with [
 [^ref-20]: [MobyGames Credits](https://www.mobygames.com/game/145353/front-page-sports-football-pro-97/credits/) - Voice cast information
 [^ref-21]: [Archive.org Patch Notes](https://archive.org/details/FBP9711) - Technical issues and patches
 [^ref-22]: [IGN Game Page](https://www.ign.com/games/front-page-sports-football-pro-97) - Remake discussion reference
-
-[[1996 - Front Page Sports - Baseball Pro '96]]
-[[1997 - Front Page Sports - Baseball Pro '98]]

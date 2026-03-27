@@ -166,15 +166,6 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
-[[Cyberstorm 2 - Corporate Wars]]
-[[Metaltech - Battledrome]]
-[[Metaltech - Earthsiege]]
-[[Metaltech - Earthsiege Expansion Pack]]
-[[Metaltech - Earthsiege Speech Pack]]
-[[MissionForce - Cyberstorm]]
-[[Starsiege - Tribes]]
-[[Tribes - Aerial Assault]]
-[[Tribes 3 - Rivals]]
 
 ## References
 
@@ -204,6 +195,3 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [^ref-24]: [Gamicus Wiki](https://gamicus.fandom.com/wiki/MissionForce:_CyberStorm) – - PC Gamer ranking
 [^ref-25]: [GitHub Preservation Project](https://github.com/juanitogan/rbxit) – - Community patches
 [^ref-26]: [Internet Archive GOG Release](https://web.archive.org/web/20190802012042/https://www.gog.com/news/release_missionforce_cyberstorm) – - GOG release
-
-[[1996 - Earthsiege 2]]
-[[1998 - Cyberstorm 2 - Corporate Wars]]

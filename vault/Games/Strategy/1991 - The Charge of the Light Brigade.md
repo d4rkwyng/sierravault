@@ -219,9 +219,6 @@ Impressions Games would find greater success with their subsequent city-building
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
-[[Birthright - The Gorgon's Alliance]]
-[[The Charge of the Light Brigade]]
-[[V for Victory - D-Day Utah Beach]]
 
 ## References
 

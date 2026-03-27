@@ -262,16 +262,6 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -312,6 +302,3 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
 [^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/3-D_Ultra_Pinball) – series information
 [^ref-20]: [UVList](https://www.uvlist.net/game-91741-3-d-ultra-pinball-thrillride) – Universal Videogame List
-
-[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]
-[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]

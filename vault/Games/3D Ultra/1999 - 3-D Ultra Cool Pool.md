@@ -229,17 +229,6 @@ The game's combination of realistic physics with fantastical game modes anticipa
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Cool Pool]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3D Ultra Lionel Traintown]]
@@ -273,6 +262,3 @@ The game's combination of realistic physics with fantastical game modes anticipa
 [^ref-13]: [GameSpot – 3D Ultra Cool Pool User Reviews](https://www.gamespot.com/3d-ultra-cool-pool/user-reviews/2200-37820/) – user review scores, gameplay impressions
 [^ref-14]: [Old-Games.RU Downloads](https://www.old-games.ru/game/download/8288.html) – patch version information
 [^ref-15]: [1UP Retrogaming](https://www.1upretrogaming.com/products/3d-ultra-cool-pool-pc-games) – retail pricing information
-
-[[1998 - 3-D Ultra NASCAR Pinball]]
-[[1999 - 3-D Ultra Lionel TrainTown]]

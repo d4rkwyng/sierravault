@@ -284,20 +284,6 @@ The game is preserved through various abandonware archives and remains playable 
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Football Pro '96 Season](https://www.mobygames.com/game/4657/front-page-sports-football-pro-96-season/) – Development credits, platform information
@@ -318,6 +304,3 @@ The game is preserved through various abandonware archives and remains playable 
 [^ref-23]: [MobyGames – Voice cast credits](https://www.mobygames.com/game/18766/front-page-sports-football-pro/) – Voice actors listed
 [^ref-26]: [Sierra Help – System requirements](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – VESA modes, memory requirements
 [^ref-29]: [Internet Archive – Software preservation](https://archive.org/details/msdos_Front_Page_Sports_Football_Pro_96_Season_1995) – DOS version archive
-
-[[1994 - Front Page Sports - Football Pro '95]]
-[[1996 - Front Page Sports - Baseball Pro '96]]

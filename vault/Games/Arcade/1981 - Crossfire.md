@@ -254,8 +254,6 @@ The game's influence can be seen in its innovative control scheme and its achiev
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Crossfire]]
-[[WallWar]]
 
 ## References
 

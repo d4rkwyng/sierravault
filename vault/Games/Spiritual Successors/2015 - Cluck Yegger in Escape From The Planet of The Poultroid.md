@@ -258,9 +258,6 @@ The macOS version is not compatible with macOS 10.15 Catalina or later versions[
 
 [[2023 - Summer Daze - Tilly's Tale]]
 
-[[TBD - Order of the Thorne - Fortress of Fire]]
-
-[[TBD - Quest for Infamy - Roehm to Ruin]]
 
 ## References
 

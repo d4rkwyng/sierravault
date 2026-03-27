@@ -363,28 +363,6 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -402,6 +380,3 @@ The game is documented in various gaming databases.[^ref-13][^ref-14][^ref-15]
 [^ref-13]: [RAWG – Hoyle Puzzle Board Games 2005 Suggestions](https://rawg.io/games/hoyle-puzzle-board-games-2005/suggestions) – related Hoyle titles, series timeline[^ref-13]: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-board-games/) - game wiki
 [^ref-14]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB entry
 [^ref-15]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - gaming database
-
-[[2005 - Hoyle Poker Series]]
-[[2005 - Hoyle Texas Hold Em]]

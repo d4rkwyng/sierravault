@@ -354,29 +354,6 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -428,6 +405,3 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-49]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
 [^ref-50]: [Encore – Casino Games Collection](https://www.encore.com/encore-casino-games-collection-download-windows) – collection details
 [^ref-51]: [MacGameStore – Hoyle Official Casino Games](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – game features, Face Creator
-
-[[1996 - Hoyle Blackjack]]
-[[1996 - Hoyle Official Book of Games - Volume 5]]

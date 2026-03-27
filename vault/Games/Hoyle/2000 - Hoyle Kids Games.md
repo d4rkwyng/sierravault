@@ -305,28 +305,6 @@ The game's emphasis on character personality through opponents like Marvin the T
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -340,6 +318,3 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-8]: [MobyGames – Michael Katz](https://www.mobygames.com/person/9065/michael-katz/) – producer credit confirmation
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
-
-[[2000 - Hoyle Crosswords]]
-[[2000 - Hoyle Slots and Video Poker]]

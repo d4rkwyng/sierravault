@@ -354,9 +354,6 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [[2000 - Homeworld - Cataclysm]]
 
 [[2024 - Homeworld 3]]
-[[Homeworld - Cataclysm]]
-[[Homeworld - Deserts of Kharak]]
-[[Homeworld Remastered Collection]]
 
 ## References
 
@@ -424,6 +421,3 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [^ref-63]: [Polygon – Deserts of Kharak Review](http://www.polygon.com/2016/2/3/10906294/homeworld-deserts-of-kharak-review-pc-gearbox-blackbird) – prequel details, Rachel S'jet
 [^ref-64]: [Gearbox Publishing – Homeworld Mobile Launch](https://www.gearboxpublishing.com/press_release/homeworld-mobile-launches-globally-on-ios-and-android/) – mobile release date, setting
 [^ref-65]: [MobyGames – Homeworld Mobile](https://www.mobygames.com/game/193759/homeworld-mobile/) – server shutdown date
-
-[[2003 - Homeworld 2]]
-[[2016 - Homeworld - Deserts of Kharak]]

@@ -322,28 +322,6 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Puzzle Games 2004](https://gamefaqs.gamespot.com/pc/918452-hoyle-puzzle-games-2004) – release date, developer, publisher, user ratings, game description
@@ -361,6 +339,3 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 [^ref-17]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
 [^ref-18]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
 [^ref-19]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List
-
-[[2004 - Hoyle Casino]]
-[[2004 - Hoyle Table Games]]

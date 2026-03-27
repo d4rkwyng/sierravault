@@ -336,10 +336,6 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [[2000 - Ricochet]]
 
 [[2001 - Deathmatch Classic]]
-[[Counter-Strike]]
-[[Counter-Strike - Condition Zero]]
-[[Half-Life - Blue Shift]]
-[[Half-Life - Opposing Force]]
 
 ## References
 
@@ -385,6 +381,3 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [^ref-42]: [Speedrun Wiki Archive](https://archive.speedrunwiki.com/Counter_Strike:_Condition_Zero) – historical speedrun records
 [^ref-43]: [Internet Archive – Prima Official eGuide](https://archive.org/details/Counter_Strike_Condition_Zero_Prima_Official_eGuide) – strategy guide metadata
 [^ref-44]: [Steam Community](https://steamcommunity.com/app/80/) – custom mission system documentation reference
-
-[[2001 - Half-Life - Blue Shift]]
-[[2004 - Half-Life 2]]

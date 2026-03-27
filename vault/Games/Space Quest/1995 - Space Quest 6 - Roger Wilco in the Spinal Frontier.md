@@ -220,13 +220,6 @@ This game has been included in the following collections:
 
 Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Revenge]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]]
 
-[[Space Quest - The Sarien Encounter]]
-[[Space Quest 6 - Roger Wilco in the Spinal Frontier]]
-[[Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[Space Quest II - Vohaul's Revenge]]
-[[Space Quest III - The Pirates of Pestulon]]
-[[Space Quest IV - Roger Wilco and the Time Rippers]]
-[[Space Quest V - The Next Mutation]]
 
 [[1986 - Space Quest - The Sarien Encounter]]
 
@@ -274,10 +267,3 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [^ref-31]: [PC Gamer US Issue 16, September 1995](https://archive.org/details/pc-gamer-issue-16-september-1995) – Gary Meredith review: "not the best of the Space Quest series," "annoying narration," "Disney-esque" animation
 [^ref-32]: [Next Generation Issue 10, October 1995](https://archive.org/details/nextgen-issue-010) – 3/5 stars: "If you liked the first five, you'll want this. If not, you probably aren't even reading this review"
 [^ref-33]: [IMDB – Space Quest 6: Roger Wilco in the Spinal Frontier](https://www.imdb.com/title/tt0348081/) – full cast and crew credits
-
-[[1986 - Space Quest - The Sarien Encounter]]
-[[1987 - Space Quest II - Vohaul's Revenge]]
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
-[[1993 - Space Quest V - The Next Mutation]]

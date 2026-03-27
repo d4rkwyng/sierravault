@@ -187,10 +187,6 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 [[1994 - Playtoons 1 - Uncle Archibald]]
 
 [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
-[[Playtoons 1 - Uncle Archibald]]
-[[Playtoons 2 - The Case of the Counterfeit Collaborator]]
-[[Playtoons 3 - The Secret of the Castle]]
-[[Playtoons 4 - The Mandarine Prince]]
 ## References
 
 [^ref-1]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, animation creation features
@@ -207,5 +203,3 @@ The Playtoons series as a whole represented Coktel Vision's attempt to create a 
 [^ref-9]: [Scribd – SierraVault Game List](https://www.scribd.com/document/311126976/SierraVault-Game-List) – comprehensive Sierra games catalog
 
 [^ref-10]: [Wikipedia – Coktel Vision](https://en.wikipedia.org/wiki/Coktel_Vision) – developer history, game catalog, educational focus
-
-[[1995 - Playtoons 3 - The Secret of the Castle]]

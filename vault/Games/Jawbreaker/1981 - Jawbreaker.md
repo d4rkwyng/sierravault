@@ -239,5 +239,3 @@ From a historical perspective, Jawbreaker is perhaps most valuable as documentat
 [^ref-20]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Jawbreaker_1980_Sierra_On_Line_US_k_file) – archival preservation
 [^ref-21]: [Internet Archive – Atari Jawbreaker Manual](https://archive.org/details/AtariJawbreakerManual) – game manual
 [^ref-22]: [Internet Archive – Jawbreaker II Manual](https://archive.org/details/jawbreakeriimanual) – sequel manual, TI-99/4A version
-
-[[1982 - Jawbreaker II]]

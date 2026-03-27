@@ -266,13 +266,6 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[Bargon Attack]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Ween - The Prophecy]]
 
 ## References
 

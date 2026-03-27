@@ -277,9 +277,6 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[CyberGladiators]]
-[[David Wolf - Secret Agent]]
-[[Sierra Soccer - World Challenge Edition]]
 
 ## References
 

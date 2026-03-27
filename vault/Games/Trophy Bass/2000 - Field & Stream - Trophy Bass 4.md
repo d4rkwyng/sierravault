@@ -141,7 +141,3 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-16]: [ESRB – Trophy Bass 4](https://www.esrb.org/) – Rated E for Everyone
 [^ref-17]: [Wikidata – Trophy Bass 4](https://www.wikidata.org/wiki/Q7119131) – Structured metadata
 [^ref-18]: [GameFAQs – Trophy Bass 4](https://gamefaqs.gamespot.com/pc/256377-trophy-bass-4/reviews) – User reviews
-
-[[1995 - Trophy Bass]]
-[[1996 - Front Page Sports - Trophy Bass 2]]
-[[1999 - Field & Stream - Trophy Bass 3D]]

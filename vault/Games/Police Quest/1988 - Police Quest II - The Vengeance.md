@@ -261,11 +261,6 @@ The game's legacy extends beyond entertainment into actual law enforcement train
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
-[[Police Quest - In Pursuit of the Death Angel]]
-[[Police Quest - In Pursuit of the Death Angel VGA]]
-[[Police Quest - Open Season]]
-[[Police Quest II - The Vengeance]]
-[[Police Quest III - The Kindred]]
 
 [[1987 - Police Quest - In Pursuit of the Death Angel]]
 
@@ -304,8 +299,3 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: 
 [^ref-25]: [SEC.gov – Sierra On-Line 10-K Filing](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales figures
 [^ref-26]: [Internet Archive – The Police Quest Casebook](https://archive.org/details/the-police-quest-casebook/page/140/) – strategy guide publication details
 [^ref-27]: [Internet Archive – Police Quest 2 Hint Book](https://archive.org/stream/Police_Quest_2_Hint_Book/Police_Quest_2_Hint_Book_djvu.txt) – official hint book
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-[[1991 - Police Quest III - The Kindred]]
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-[[1993 - Police Quest - Open Season]]

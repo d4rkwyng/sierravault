@@ -252,15 +252,6 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Detroit]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 
 ## References
 
@@ -280,6 +271,3 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [^ref-14]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
 [^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography, Impressions Games founding, game design philosophy
 [^ref-16]: [Internet Archive – Sierra Official Website (1997)](https://web.archive.org/web/19970204075308/http://www.sierra-online.co.uk:80/uk/so_uk/detroit_uk/detroit_uk.html) – official Sierra product page, marketing materials
-
-[[1993 - WW2 Air Force Commander]]
-[[1994 - Front Lines]]

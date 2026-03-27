@@ -149,11 +149,6 @@ The game's commitment to procedural accuracy created a template for serious game
 
 Series: [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
-[[Police Quest - In Pursuit of the Death Angel]]
-[[Police Quest - In Pursuit of the Death Angel VGA]]
-[[Police Quest - Open Season]]
-[[Police Quest II - The Vengeance]]
-[[Police Quest III - The Kindred]]
 
 [[1988 - Police Quest II - The Vengeance]]
 

@@ -132,9 +132,6 @@ The title represents an important entry in Sierra's diverse portfolio during the
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
-[[Birthright - The Gorgon's Alliance]]
-[[High Seas Trader]]
-[[V for Victory - D-Day Utah Beach]]
 
 ## References
 

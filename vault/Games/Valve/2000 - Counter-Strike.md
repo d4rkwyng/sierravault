@@ -314,10 +314,6 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
-[[Counter-Strike]]
-[[Counter-Strike - Condition Zero]]
-[[Half-Life - Blue Shift]]
-[[Half-Life - Opposing Force]]
 
 ## References
 
@@ -379,6 +375,3 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-56]: [Game Developer – Minh Le Interview](https://www.gamedeveloper.com/design/interview-with-minh-le) – development insights
 [^ref-57]: [Steam Community Guide – Half-Life History](https://steamcommunity.com/sharedfiles/filedetails/?id=1113679838) – franchise history
 [^ref-58]: [Planet Half-Life – Models (Archived)](https://web.archive.org/web/20010602234021/http://www.planethalflife.com/counter-strike/csinfo/models/) – character models
-
-[[1999 - Team Fortress Classic]]
-[[2000 - Gunman Chronicles]]

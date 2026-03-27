@@ -317,16 +317,6 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 
 Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-[[Leisure Suit Larry - Box Office Bust]]
-[[Leisure Suit Larry - Magna Cum Laude]]
-[[Leisure Suit Larry - Reloaded]]
-[[Leisure Suit Larry - Wet Dreams Don't Dry]]
-[[Leisure Suit Larry - Wet Dreams Dry Twice]]
-[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[Leisure Suit Larry 7 - Love for Sail]]
-[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 
 [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 
@@ -395,16 +385,3 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-42]: [Reddit – Steam Delisting](https://www.reddit.com/r/pcgaming/comments/1kbs8sa/a_number_of_leisure_suit_larry_games_will_be/) – Steam availability
 [^ref-43]: [GamePressure – Nude Patch](https://www.gamepressure.com/download/leisure-suit-larry-magna-cum-laude-nude-patch/z01870) – patch information, download statistics
 [^ref-44]: [Scribd – Prima Guide](https://www.scribd.com/document/392902090/Leisure-Suit-Larry-Magna-Cum-Laude-Prima-Official-EGuide) – official strategy guide
-
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[1996 - Leisure Suit Larry 7 - Love for Sail]]
-[[1998 - Leisure Suit Larry's Casino]]
-[[2009 - Leisure Suit Larry - Box Office Bust]]
-[[2013 - Leisure Suit Larry - Reloaded]]
-[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

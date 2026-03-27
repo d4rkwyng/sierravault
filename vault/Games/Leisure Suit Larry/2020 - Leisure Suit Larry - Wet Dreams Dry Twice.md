@@ -128,16 +128,6 @@ The game also holds historical significance as Jan Rabson's final portrayal of L
 
 Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry: Box Office Bust]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]]
 
-[[Leisure Suit Larry - Box Office Bust]]
-[[Leisure Suit Larry - Magna Cum Laude]]
-[[Leisure Suit Larry - Reloaded]]
-[[Leisure Suit Larry - Wet Dreams Don't Dry]]
-[[Leisure Suit Larry - Wet Dreams Dry Twice]]
-[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[Leisure Suit Larry 7 - Love for Sail]]
-[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 
 [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 
@@ -232,16 +222,3 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-65]: [Wayback Metacritic Switch](https://web.archive.org/web/20220417204557/https://www.metacritic.com/game/switch/leisure-suit-larry-wet-dreams-dry-twice) – - Archived Switch version reviews
 [^ref-66]: [Wayback Gematsu Release](https://web.archive.org/web/20210416123532/https://www.gematsu.com/2021/04/leisure-suit-larry-wet-dreams-dry-twice-for-ps4-xbox-one-and-switch-launches-may-18) – - Archived release confirmation
 [^ref-67]: [ScummVM Wiki](https://wiki.scummvm.org/index.php/Leisure_Suit_Larry_Wet_Dreams_Dry_Twice) – - Anti-bot protection page, no content accessible
-
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[1996 - Leisure Suit Larry 7 - Love for Sail]]
-[[1998 - Leisure Suit Larry's Casino]]
-[[2004 - Leisure Suit Larry - Magna Cum Laude]]
-[[2009 - Leisure Suit Larry - Box Office Bust]]
-[[2013 - Leisure Suit Larry - Reloaded]]
-[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]

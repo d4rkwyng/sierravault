@@ -213,8 +213,6 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 [[1997 - Red Baron II]]
 
 [[1998 - Red Baron 3D]]
-[[Red Baron - Mission Builder]]
-[[Red Baron Arcade]]
 
 ## References
 
@@ -233,5 +231,3 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 [^ref-13]: [Honest Gamers – Red Baron Arcade](http://www.honestgamers.com/61889/playstation-3/red-baron-arcade/game.html) – PS3 release date, developer confirmation
 [^ref-14]: [GameFAQs – Red Baron (1990) Review](https://gamefaqs.gamespot.com/pc/916558-red-baron-1990/reviews/68909) – original game context, retail pricing
 [^ref-15]: [Metacritic – Red Baron Arcade](https://www.metacritic.com/game/red-baron-arcade/) – release dates, ESRB rating, aggregated scores
-
-[[1999 - Curse You! Red Baron]]

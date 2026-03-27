@@ -212,12 +212,6 @@ This game has been included in the following collections:
 
 Series: [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages of War]] • [[Quest for Glory: Shadows of Darkness]] • [[Quest for Glory V: Dragon Fire]]
 
-[[Quest for Glory I - So You Want to Be a Hero]]
-[[Quest for Glory I - So You Want to Be a Hero VGA]]
-[[Quest for Glory II - Trial by Fire]]
-[[Quest for Glory III - Wages of War]]
-[[Quest for Glory IV - Shadows of Darkness]]
-[[Quest for Glory V - Dragon Fire]]
 
 [[1990 - Quest for Glory II - Trial by Fire]]
 
@@ -258,9 +252,3 @@ Series: [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages o
 [^ref-26]: [IMDB – Quest for Glory (VGA)](https://www.imdb.com/title/tt0420843/) – VGA remake credits
 [^ref-27]: [ScummVM Wiki – Quest for Glory I](https://wiki.scummvm.org/index.php?title=Quest_for_Glory:_So_You_Want_To_Be_A_Hero) – technical compatibility
 [^ref-28]: [The Cutting Room Floor – Quest for Glory I](https://tcrf.net/Quest_for_Glory:_So_You_Want_to_Be_a_Hero) – unused content
-
-[[1990 - Quest for Glory II - Trial by Fire]]
-[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
-[[1992 - Quest for Glory III - Wages of War]]
-[[1993 - Quest for Glory IV - Shadows of Darkness]]
-[[1998 - Quest for Glory V - Dragon Fire]]

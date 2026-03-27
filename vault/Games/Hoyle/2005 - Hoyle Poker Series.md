@@ -309,29 +309,6 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Poker Series]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -358,6 +335,3 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 [^ref-21]: [eBay Canada – Hoyle Poker Series Bundle](https://www.ebay.ca/itm/155299243567) – publisher, platform, ESRB rating, compatibility warnings
 [^ref-22]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – developer/publisher history, sales data, version history, bugs
 [^ref-23]: [Amazon Singapore – Hoyle Products](https://www.amazon.sg/Video-Games-Hoyle/s?rh=n%3A6315182051%2Cp_4%3AHoyle) – publisher information, platform compatibility
-
-[[2005 - Hoyle Casino 3D]]
-[[2005 - Hoyle Puzzle and Board Games]]

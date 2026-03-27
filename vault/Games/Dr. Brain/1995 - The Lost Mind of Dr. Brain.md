@@ -219,11 +219,6 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 [[1999 - Dr. Brain - Action Reaction]]
 
 [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[Dr. Brain - Action Reaction]]
-[[Dr. Brain Thinking Games - IQ Adventure]]
-[[Dr. Brain Thinking Games - Puzzle Madness]]
-[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[The Lost Mind of Dr. Brain]]
 
 ## References
 
@@ -253,6 +248,3 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 [^ref-24]: [TV Tropes – Dr. Brain](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/DrBrain) – 2001 Easter egg, technical requirements, color depth
 [^ref-25]: [Behind The Voice Actors – The Lost Mind of Dr. Brain](https://www.behindthevoiceactors.com/video-games/the-lost-mind-of-dr-brain/) – voice cast information
 [^ref-26]: [Reddit r/Sierra – Lost Mind of Dr. Brain Discussion](https://www.reddit.com/r/Sierra/comments/j0m1mc/anyone_remember_playing_lost_mind_of_dr_brain/) – Time Warp difficulty comparison
-
-[[1992 - The Island of Dr. Brain]]
-[[1996 - The Time Warp of Dr. Brain]]

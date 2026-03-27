@@ -258,6 +258,3 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 [^ref-13]: [DOS.Zone – Air Force Commander](https://dos.zone/air-force-commander-1992/) – user rating, browser emulation
 [^ref-14]: [Sierra Chest – Air Force Commander](https://sierrachest.com/opinion-d/index.php?a=games&id=473&title=air-force-commander&fld=box) – platform listing, media format
 [^ref-15]: [Free Game Empire – WW2 Air Force Commander](https://www.freegameempire.com/games/WW2-Air-Force-Commander) – sequel details, gameplay description
-
-[[1992 - Air Bucks]]
-[[1992 - Conquest of Japan]]

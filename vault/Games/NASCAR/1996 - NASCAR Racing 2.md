@@ -264,8 +264,6 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
-[[NASCAR Racing 2]]
-[[NASCAR Racing 2 - Grand National Series Expansion]]
 
 ## References
 
@@ -307,6 +305,3 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 [^ref-36]: [The Daily Downforce – NASCAR Gaming History](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) – series context
 [^ref-37]: [Avid Wiki – Sierra Sports](https://www.avid.wiki/Sierra_Sports) – publisher history
 [^ref-38]: [Sierra Chest – NASCAR Racing 2](https://sierrachest.com/index.php?a=games&id=240&title=nascar-racing-2&fld=demos) – demo information, series listing
-
-[[1994 - NASCAR Racing]]
-[[1997 - NASCAR Racing 2 - Grand National Series Expansion]]

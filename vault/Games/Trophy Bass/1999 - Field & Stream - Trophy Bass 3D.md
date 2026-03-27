@@ -249,6 +249,3 @@ Community preservation efforts maintain access to the game through abandonware a
 [^ref-32]: [Vogons Forum](https://www.vogons.org/) - Installation requirements
 [^ref-33]: [NeverDieMedia](https://www.neverdiemedia.com/products/trophy-bass-4) - Trophy Bass 4 content description
 [^ref-34]: [Giant Bomb](https://www.giantbomb.com/field-stream-trophy-bass-3d/3030-26498/) - Game database entry
-
-[[1996 - Front Page Sports - Trophy Bass 2]]
-[[2000 - Field & Stream - Trophy Bass 4]]

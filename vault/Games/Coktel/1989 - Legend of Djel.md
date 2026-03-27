@@ -157,13 +157,6 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Legend of Djel]]
-[[Ween - The Prophecy]]
 
 ## References
 

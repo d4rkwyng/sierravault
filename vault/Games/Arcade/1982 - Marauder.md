@@ -268,8 +268,6 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Marauder]]
-[[WallWar]]
 
 ## References
 

@@ -243,13 +243,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 [[1993 - Lost in Time]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[The Last Dynasty]]
-[[Ween - The Prophecy]]
 
 ## References
 

@@ -139,8 +139,6 @@ Technical preservation efforts have expanded beyond simple compatibility fixes[^
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
-[[Birthright - The Gorgon's Alliance]]
-[[V for Victory - D-Day Utah Beach]]
 
 ## References
 

@@ -197,8 +197,6 @@ The game has been preserved through abandonware archives and the Internet Archiv
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
-[[NASCAR Craftsman Truck Series Racing]]
-[[NASCAR Racing 2 - Grand National Series Expansion]]
 ## References
 
 [^ref-1]: [MyAbandonware - NASCAR Craftsman Truck Series Racing](https://www.myabandonware.com/game/nascar-craftsman-truck-series-racing-e0a) - developer Papyrus, publisher Sierra On-Line, 1999 release, user rating 5/5, download size

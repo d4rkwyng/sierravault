@@ -273,9 +273,6 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [[1993 - Stellar 7 - Draxon's Revenge]]
 
 [[1993 - Stellar-Fire]]
-[[Nova 9 - The Return of Gir Draxon]]
-[[Stellar 7]]
-[[Stellar 7 - Draxon's Revenge]]
 
 ## References
 
@@ -311,5 +308,3 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-31]: [Retroinvaders – Dynamix History](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) – company founding, game description
 [^ref-32]: [Space Quest Omnipedia – Dynamix](https://spacequest.fandom.com/wiki/Dynamix) – company founding details
 [^ref-33]: [Sierra Fandom – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – pre-founding release history
-
-[[1991 - Nova 9 - The Return of Gir Draxon]]

@@ -339,28 +339,6 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -381,6 +359,3 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [^ref-15]: [Old Games Download](https://oldgamesdownload.com/hoyle-board-games-2001/) – file size, user-reported issues
 [^ref-16]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – later edition publisher info
 [^ref-17]: [Metacritic – Hoyle Board Games 2001](https://www.metacritic.com/game/hoyle-board-games-2001/) – ESRB rating, release date, game summary
-
-[[2000 - Hoyle Solitaire and Mahjong Tiles]]
-[[2001 - Hoyle Casino]]

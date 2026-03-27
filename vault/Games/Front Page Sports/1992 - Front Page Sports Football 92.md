@@ -271,20 +271,6 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 ## References
 
 [^ref-1]: [En-Academic – Front Page Sports](https://en-academic.com/dic.nsf/enwiki/4856623) – series history, career mode details, CGW ranking, version history
@@ -311,5 +297,3 @@ GameSpot's assessment that the game was "more fun when you are not playing" actu
 [^ref-22]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/90537-front-page-sports-football-pro-96-season) – metadata, ESRB rating
 [^ref-23]: [IGN – FPS Football Pro '96](https://www.ign.com/games/front-page-sports-football-pro-96) – release date, features
 [^ref-24]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – game description
-
-[[1993 - Front Page Sports - Football Pro]]

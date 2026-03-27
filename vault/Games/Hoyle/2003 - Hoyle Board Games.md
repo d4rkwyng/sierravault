@@ -356,28 +356,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -392,6 +370,3 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [^ref-10]: [GameFAQs User Review – Hoyle Board Games](https://gamefaqs.gamespot.com/pc/562390-hoyle-board-games/reviews/76927) – detailed gameplay review, scores, control scheme, customization features
 [^ref-11]: [Macintosh Repository – Hoyle Board Games 2003](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) – Mac system requirements, hybrid disc information
 [^ref-12]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – technical issues, cut content, music sources, collection history
-
-[[2002 - Hoyle Puzzle Games]]
-[[2003 - Hoyle Card Games]]

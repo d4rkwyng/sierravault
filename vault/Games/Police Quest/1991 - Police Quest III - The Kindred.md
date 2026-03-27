@@ -265,11 +265,6 @@ However, the troubled development left lasting scars. The departure of Jim Walls
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]] • [[Police Quest: Open Season]]
 
-[[Police Quest - In Pursuit of the Death Angel]]
-[[Police Quest - In Pursuit of the Death Angel VGA]]
-[[Police Quest - Open Season]]
-[[Police Quest II - The Vengeance]]
-[[Police Quest III - The Kindred]]
 
 [[1987 - Police Quest - In Pursuit of the Death Angel]]
 
@@ -312,8 +307,3 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [^ref-29]: [Internet Archive – Manual PDF](https://archive.org/details/Police_Quest_3_-_Manual) – original manual metadata
 [^ref-30]: [The Digital Antiquarian](https://www.filfre.net/?s=Police+Quest+3%3A+The+Kindred) – Daryl Gates controversy, Ken Williams response
 [^ref-31]: [IndieRetroNews – Police Quest III Amiga Enhancement](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html) – SCP first complete project, kikems/DaRaSCo, Amiga-native tools proof
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-[[1988 - Police Quest II - The Vengeance]]
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
-[[1993 - Police Quest - Open Season]]

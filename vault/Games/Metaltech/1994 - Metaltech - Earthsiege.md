@@ -185,15 +185,6 @@ The game has been preserved and made playable on modern systems through the effo
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
-[[Cyberstorm 2 - Corporate Wars]]
-[[Metaltech - Battledrome]]
-[[Metaltech - Earthsiege]]
-[[Metaltech - Earthsiege Expansion Pack]]
-[[Metaltech - Earthsiege Speech Pack]]
-[[MissionForce - Cyberstorm]]
-[[Starsiege - Tribes]]
-[[Tribes - Aerial Assault]]
-[[Tribes 3 - Rivals]]
 
 ## References
 
@@ -221,6 +212,3 @@ The game has been preserved and made playable on modern systems through the effo
 [^ref-22]: [MobyGames Expansion](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Expansion pack details
 [^ref-23]: [Vogons Forum](https://www.vogons.org/viewtopic.php?t=76885) – User hardware upgrade experience
 [^ref-24]: [Collection Chamber Blog - EarthSiege II](https://collectionchamber.blogspot.com/p/metaltech-earthsiege-ii.html) – Sequel reception
-
-[[1994 - Metaltech - Battledrome]]
-[[1994 - Metaltech - Earthsiege Speech Pack]]

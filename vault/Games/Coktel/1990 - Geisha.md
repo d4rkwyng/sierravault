@@ -217,13 +217,6 @@ The game has been preserved by various abandonware sites and is considered no lo
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Geisha]]
-[[Ween - The Prophecy]]
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3844/geisha/) – Basic game information and developer/publisher details

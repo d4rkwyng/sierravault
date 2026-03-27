@@ -252,15 +252,6 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Merchant Colony]]
-[[Powerhouse]]
 
 ## References
 

@@ -227,14 +227,6 @@ The game's most significant contribution to gaming history may be its innovative
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 
 ## References
 
@@ -261,6 +253,3 @@ The game's most significant contribution to gaming history may be its innovative
 [^ref-22]: [Metacritic – Cohort II](https://www.metacritic.com/game/cohort-ii/) – developer and publisher confirmation
 [^ref-23]: [MyAbandonware Search Results](https://www.myabandonware.com/search/q/Cohort+II) – platform and release year confirmation
 [^ref-24]: [Playonline-games – Cohort 2](https://playonline-games.com/cohort-2/) – modern platform compatibility
-
-[[1992 - Discovery - In the Steps of Columbus]]
-[[1993 - WW2 Air Force Commander]]

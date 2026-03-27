@@ -244,9 +244,6 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 [[1984 - Wizard of Id's WizType]]
 
 [[1993 - Kids' Typing]]
-[[Alphabet Blocks]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
 ## References
 
 [^ref-1]: [MobyGames – Alphabet Blocks](https://www.mobygames.com/game/113498/alphabet-blocks/) – credits, release dates, platform information, voice cast, player ratings
@@ -264,9 +261,3 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 [^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context and related titles[^ref-14]: [Giant Bomb - Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/) - game wiki
 [^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - IGDB entry
 [^ref-16]: [MobyGames - Bright Star](https://www.mobygames.com/company/bright-star-technology/) - developer info
-
-[[1982 - Bop-A-Bet]]
-[[1983 - Early Math]]
-[[1983 - Learning with Leeper]]
-[[1984 - Learning with FuzzyWOMP]]
-[[1992 - Ready, Set, Read with Bananas & Jack]]

@@ -284,28 +284,6 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -331,6 +309,3 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [^ref-24]: [DOSBox Compatibility](http://www.dosbox.com/comp_list.php?letter=H&showID=485) - Emulator support status
 [^ref-25]: [Internet Archive - Windows](https://archive.org/details/hoyle-classic-card-games-1997) - Windows version archive
 [^ref-26]: [Windows Bulletin](https://windowsbulletin.com/files/exe/sierra-on-line-inc/hoyle-classic-card-games/card-exe) - Technical file specifications
-
-[[1991 - Hoyle Official Book of Games - Volume 3]]
-[[1996 - Hoyle Bridge]]

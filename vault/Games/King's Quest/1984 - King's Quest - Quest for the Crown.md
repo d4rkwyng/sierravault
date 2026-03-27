@@ -259,15 +259,6 @@ This game has been included in[^ref-8][^ref-9]:
 
 Series: [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[King's Quest V: Absence Makes the Heart Go Yonder!]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
-[[King's Quest - Mask of Eternity]]
-[[King's Quest - Quest for the Crown]]
-[[King's Quest II - Romancing the Throne]]
-[[King's Quest III - To Heir Is Human]]
-[[King's Quest IV - The Perils of Rosella]]
-[[King's Quest V - Absence Makes the Heart Go Yonder]]
-[[King's Quest VI - Heir Today, Gone Tomorrow]]
-[[King's Quest VII - The Princeless Bride]]
-[[Roberta Williams' King's Quest I - Quest for the Crown]]
 
 [[1985 - King's Quest II - Romancing the Throne]]
 
@@ -333,13 +324,3 @@ Series: [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Hei
 [^ref-42]: [The Cutting Room Floor – King's Quest](https://tcrf.net/King%27s_Quest:_Quest_for_the_Crown) – – Flamethrower easter egg, King Edward animation, unused sounds, uncompiled source code
 [^ref-43]: [King's Quest Omnipedia – SMS Version](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Quest_for_the_Crown_(SMS) – ) – Microsmiths developer, Parker Brothers publisher, Mark Lesser programmer, 6 zones/75 scenarios
 [^ref-44]: [King's Quest Omnipedia – SCI Remake](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(MS-DOS) – ) – Josh Mandel producer, Ken Allen composer, colorization controversy, stopped future remakes
-
-[[1985 - King's Quest II - Romancing the Throne]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]
-[[2015 - King's Quest]]

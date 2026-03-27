@@ -327,28 +327,6 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -371,6 +349,3 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [^ref-18]: [UVList](https://www.uvlist.net/game-6888-Hoyle+Board+Games+2005) – Universal Videogame List entry
 [^ref-19]: [GameFAQs User Reviews](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005/reviews) – User reviews and ratings
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/hoyle-board-games-2005/) – Modern ratings and classification
-
-[[2004 - Hoyle Table Games]]
-[[2005 - Hoyle Card Games]]

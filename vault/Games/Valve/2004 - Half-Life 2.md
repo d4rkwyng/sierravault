@@ -383,11 +383,6 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [[2001 - Deathmatch Classic]]
 
 [[2001 - Half-Life - Blue Shift]]
-[[Counter-Strike]]
-[[Counter-Strike - Condition Zero]]
-[[Half-Life - Blue Shift]]
-[[Half-Life - Opposing Force]]
-[[Half-Life 2]]
 
 ## References
 
@@ -438,5 +433,3 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [^ref-48]: [Amazon – Source SDK Game Development Essentials](https://www.amazon.com/Source-SDK-Game-Development-Essentials/dp/184969592X) – modding guide
 [^ref-49]: [KHInsider – Half-Life 2 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/half-life-2-official-soundtrack) – track listings, musical analysis
 [^ref-50]: [Half-Life Wiki – Soundtrack](https://half-life.fandom.com/wiki/Half-Life_2_soundtrack) – soundtrack release details
-
-[[2004 - Counter-Strike - Condition Zero]]

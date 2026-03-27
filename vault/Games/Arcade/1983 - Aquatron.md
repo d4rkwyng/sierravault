@@ -252,8 +252,6 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Aquatron]]
-[[WallWar]]
 
 ## References
 

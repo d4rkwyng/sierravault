@@ -291,28 +291,6 @@ The game's technical conservatism, criticized at release, ironically contributed
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -337,6 +315,3 @@ The game's technical conservatism, criticized at release, ironically contributed
 [^ref-19]: [GameFAQs – Hoyle Card Games 2005 Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – VU Games publishing
 [^ref-20]: [GameFAQs – Hoyle Card Games 2011](https://gamefaqs.gamespot.com/pc/624651-hoyle-card-games-2011) – Encore Software continuation
 [^ref-21]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – market pricing, platform formats
-
-[[2001 - Hoyle Word Games]]
-[[2002 - Hoyle Casino Empire]]

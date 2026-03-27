@@ -291,9 +291,6 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[David Wolf - Secret Agent]]
-[[Rise of the Dragon]]
-[[Sierra Soccer - World Challenge Edition]]
 
 ## References
 

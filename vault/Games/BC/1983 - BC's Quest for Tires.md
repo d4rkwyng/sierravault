@@ -270,8 +270,6 @@ The game also exemplifies the rapid multi-platform development practices of the 
 ## See Also
 
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
-[[BC II - Grog's Revenge]]
-[[BC's Quest for Tires]]
 
 ## References
 
@@ -298,5 +296,3 @@ The game also exemplifies the rapid multi-platform development practices of the 
 [^ref-25]: [RarityGuide – B.C.'s Quest for Tires Review](http://www.rarityguide.com/articles/articles/49/1/JUMP-SUCKER-A-review-of-B-Cs-Quest-for-Tires-for-the-Commodore-64/Page1.html) – awards list, reviewer assessment
 [^ref-26]: [Speedrun.com – B.C.'s Quest for Tires](https://www.speedrun.com/bcs_quest_for_tires) – speedrun records, community statistics
 [^ref-27]: [Internet Archive – B.C.'s Quest for Tires II: Grog's Revenge Manual](https://archive.org/details/BCs_Quest_for_Tires_II_Grogs_Revenge_1984_Coleco) – sequel confirmation, Coleco publisher
-
-[[1984 - BC II - Grog's Revenge]]

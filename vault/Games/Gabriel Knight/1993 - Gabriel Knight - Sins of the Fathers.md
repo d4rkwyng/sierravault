@@ -350,11 +350,6 @@ The game attracted an unusual demographic for its time: "I get a lot of letters 
 
 Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] • [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] • [[Gabriel Knight 4: Five Hearts]]
 
-[[Gabriel Knight - Sins of the Fathers]]
-[[Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
-[[Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
-[[Gabriel Knight 4 - Five Hearts]]
-[[The Beast Within - A Gabriel Knight Mystery]]
 
 [[1995 - The Beast Within - A Gabriel Knight Mystery]]
 
@@ -362,7 +357,6 @@ Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: B
 
 [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
-[[TBD - Gabriel Knight 4 - Five Hearts]]
 
 ## References
 

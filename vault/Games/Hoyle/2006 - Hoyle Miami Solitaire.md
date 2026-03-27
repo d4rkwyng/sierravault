@@ -266,29 +266,6 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Miami Solitaire]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -312,6 +289,3 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 [^ref-19]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1233/hoyle-card-games/) – related franchise entries
 [^ref-20]: [Metacritic – Casual Games 2006](https://www.metacritic.com/browse/games/release-date/available/pc/date?page=0) – release context
 [^ref-21]: [GameSpot – Card Game Genre](https://www.gamespot.com/games/?genre=card-games) – genre classification context
-
-[[2006 - Hoyle Casino]]
-[[2007 - Hoyle Card Games]]

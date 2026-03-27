@@ -161,15 +161,6 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
-[[Cyberstorm 2 - Corporate Wars]]
-[[Metaltech - Battledrome]]
-[[Metaltech - Earthsiege]]
-[[Metaltech - Earthsiege Expansion Pack]]
-[[Metaltech - Earthsiege Speech Pack]]
-[[MissionForce - Cyberstorm]]
-[[Starsiege - Tribes]]
-[[Tribes - Aerial Assault]]
-[[Tribes 3 - Rivals]]
 
 ## References
 
@@ -198,6 +189,3 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 [^ref-23]: [NameThatTech Blog](https://namethattech.wordpress.com/2016/01/18/fixing-up-old-computer-games/) – - Compatibility considerations
 [^ref-24]: [MyAbandonware Original Review](https://www.myabandonware.com/game/missionforce-cyberstorm-a2q) – - Series comparison
 [^ref-25]: [GitHub Repository](https://github.com/juanitogan/rbxit) – - Preservation efforts
-
-[[1996 - MissionForce - Cyberstorm]]
-[[1998 - Starsiege - Tribes]]

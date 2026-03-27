@@ -231,9 +231,6 @@ From a historical perspective, WizType demonstrates how early educational softwa
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
-[[Wizard of Id's WizType]]
 
 ## References
 

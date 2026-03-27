@@ -174,20 +174,6 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -209,6 +195,3 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 [^ref-16]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Community modifications
 [^ref-17]: [Web Archive - OGR News](https://web.archive.org/web/19970606072617/http://www.ogr.com/news/news0597.html) – - '98 version improvements
 [^ref-18]: [Old Games](https://www.old-games.com/download/4645/front-page-sports-baseball-pro) – - Historical significance assessment
-
-[[1993 - Front Page Sports - Football Pro]]
-[[1994 - Front Page Sports - Football Pro '95]]

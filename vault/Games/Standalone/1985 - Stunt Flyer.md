@@ -73,15 +73,6 @@ tags: [1980s, sierra, simulation, standalone]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
-[[Arcanum]]
-[[Codename - Iceman]]
-[[Diablo - Hellfire]]
-[[Fast Attack - High Tech Submarine Warfare]]
-[[Freddy Pharkas - Frontier Pharmacist]]
-[[Lighthouse - The Dark Being]]
-[[Slater & Charlie Go Camping]]
-[[Stunt Flyer]]
-[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Stunt Flyer is a stunt-flying simulation released for the Commodore 64 in September 1985[^ref-1][^ref-2]. The game places players in control of a small prop-plane at an airshow, where they attempt to perform a number of airplane-based stunts[^ref-1]. Developed by French studio Nice Ideas and published by Sierra On-Line, the game holds the distinction of being the first published game developed in Europe for Sierra On-Line[^ref-3].

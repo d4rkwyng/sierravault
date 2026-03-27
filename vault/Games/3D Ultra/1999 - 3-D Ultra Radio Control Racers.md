@@ -159,17 +159,6 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -210,6 +199,3 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 [^ref-19]: [GameFAQs - 3D Ultra RC](https://gamefaqs.gamespot.com/) - database
 [^ref-20]: [MobyGames - 3D Ultra RC Racers](https://www.mobygames.com/game/3-d-ultra-radio-control-racers/) - database
 [^ref-21]: [UVList - 3D Ultra RC](https://www.uvlist.net/) - Universal Videogame List
-
-[[1999 - 3-D Ultra Pinball - Power]]
-[[2000 - 3-D Ultra Lionel TrainTown Deluxe]]

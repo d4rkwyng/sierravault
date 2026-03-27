@@ -222,9 +222,6 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[David Wolf - Secret Agent]]
-[[Sierra Soccer - World Challenge Edition]]
-[[Sword of Kadash]]
 
 ## References
 

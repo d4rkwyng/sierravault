@@ -238,8 +238,6 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Cannonball Blitz]]
-[[WallWar]]
 
 ## References
 

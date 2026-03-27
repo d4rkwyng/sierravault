@@ -256,20 +256,6 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [[1997 - Front Page Sports - Golf]]
 
 [[1997 - Front Page Sports - Ski Racing]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -294,6 +280,3 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [^ref-13]: [Abandonware DOS – Front Page Sports: Golf](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Front+Page+Sports%3A+Golf) – alternate titles, download availability
 [^ref-14]: [ESRB – Front Page Sports: Golf](https://www.esrb.org/ratings/36162/front-page-sports-golf/) – ESRB rating, content descriptors
 [^ref-15]: [Sierra Gamers – Front Page Sports](https://www.sierragamers.com/front-page-sports/) – series information, Sierra publishing history
-
-[[1997 - Front Page Sports - Trophy Rivers]]
-[[1999 - Front Page Sports - Ski Racing 99]]

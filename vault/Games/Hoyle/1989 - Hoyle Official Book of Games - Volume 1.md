@@ -344,28 +344,6 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [MobyGames – Hoyle: Official Book of Games - Volume 1](https://www.mobygames.com/game/759/hoyle-official-book-of-games-volume-1/) – release dates, platforms, credits, technical specs, trivia, user reviews
@@ -383,5 +361,3 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 [^ref-13]: [Internet Archive – Hoyle Official Book of Games Volume 1](https://archive.org/details/msdos_Hoyle_Official_Book_of_Games_-_Volume_1_1989) – preservation copy, DOS version
 [^ref-14]: [Sierra Gamers – Hoyle Series](https://www.sierragamers.com/hoyle-2/) – series history, development context
 [^ref-15]: [Fictional Crossover Fandom – Hoyle's Official Book of Games](https://fictionalcrossover.fandom.com/wiki/Hoyle%27s_Official_Book_of_Games) – character crossover details, game connections
-
-[[1990 - Hoyle Official Book of Games - Volume 2]]

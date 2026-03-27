@@ -283,9 +283,6 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 [[2016 - Homeworld - Deserts of Kharak]]
 
 [[2024 - Homeworld 3]]
-[[Homeworld - Cataclysm]]
-[[Homeworld - Deserts of Kharak]]
-[[Homeworld 2]]
 
 ## References
 
@@ -333,6 +330,3 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 [^ref-45]: [Eurogamer – Relic Looking at Homeworld 3](http://www.eurogamer.net/articles/relic-definitely-looking-at-homeworld-3) – Jonny Ebbert quote
 [^ref-46]: [Gearbox Publishing – Homeworld 3](https://www.gearboxpublishing.com/game/homeworld-3/) – sequel details, timeline
 [^ref-47]: [Homeworld Universe – Deserts of Kharak](https://www.homeworlduniverse.com/games/homeworld-deserts-of-kharak/) – prequel information
-
-[[2000 - Homeworld - Cataclysm]]
-[[2015 - Homeworld Remastered Collection]]

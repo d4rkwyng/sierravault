@@ -253,12 +253,6 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Ween - The Prophecy]]
 
 ## References
 

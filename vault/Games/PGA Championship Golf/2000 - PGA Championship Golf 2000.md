@@ -175,8 +175,3 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-23]: [ESRB – PGA Championship Golf 2000](https://www.esrb.org/ratings/5226/pga-championship-golf-2000/) – Rated E for Everyone
 [^ref-24]: [IGN – PGA Championship Golf Collector's Edition Announcement](https://www.ign.com/articles/2001/06/14/sierra-announced-the-pga-championships-golf-collectors-edition) – Collector's Edition announcement
 [^ref-25]: [GameFAQs – PGA Championship Golf 2000](https://gamefaqs.gamespot.com/pc/256377-pga-championship-golf-2000/reviews) – User reviews and media
-
-[[1998 - PGA Championship Golf]]
-[[1999 - PGA Championship Golf 1999 Edition]]
-[[2000 - PGA Championship Golf 2000 - Titanium Edition]]
-[[2001 - PGA Championship Golf - Collector's Edition]]

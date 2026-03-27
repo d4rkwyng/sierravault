@@ -160,5 +160,3 @@ The title's impact on flight simulation gaming remains significant, with modern 
 [^ref-31]: [Internet Archive - Floppy Collection](https://archive.org/details/001352-AcesOfThePacific) – - Physical media preservation
 [^ref-32]: [Internet Archive - DOS Collection](https://archive.org/details/RBAOEAOP) – - DOS version archive
 [^ref-33]: [AeroScale Review](https://archive.aeroscale.net/review/2525/index.htm) – - Aviation publication coverage
-
-[[1993 - Aces Over Europe]]

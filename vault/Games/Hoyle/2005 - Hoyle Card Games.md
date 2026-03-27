@@ -295,28 +295,6 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -339,6 +317,3 @@ In the broader context of the Hoyle series, the 2005 edition marked one of the f
 [^ref-19]: [ESRB – Rating Information](https://www.esrb.org) – content rating context
 [^ref-20]: [PCGamingWiki – Hoyle Series](https://www.pcgamingwiki.com/wiki/Series:Hoyle) – technical compatibility information
 [^ref-21]: [Squakenet – Hoyle Card Games](https://www.squakenet.com/game/hoyle-card-games-2005/) – release data, platform info
-
-[[2005 - Hoyle Board Games]]
-[[2005 - Hoyle Casino 3D]]

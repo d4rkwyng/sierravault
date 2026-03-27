@@ -176,5 +176,3 @@ The series continued with Mixed-Up Fairy Tales in 1991[^ref-12], and the game re
 [^ref-19]: [Amazon](https://www.amazon.com/Mixed-up-Mother-Goose-Deluxe/dp/B00424KWVC) – - Awards information
 [^ref-20]: [Sierra Wiki](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – - Space Quest reference
 [^ref-21]: [MobyGames - Cover](https://www.mobygames.com/game/3327/mixed-up-mother-goose-deluxe/cover/group-41428/cover-111460/) – - International versions
-
-[[1991 - Mixed-Up Fairy Tales]]

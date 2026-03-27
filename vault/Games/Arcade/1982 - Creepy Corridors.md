@@ -256,8 +256,6 @@ From a design perspective, Creepy Corridors reflects gaming's broader fascinatio
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Creepy Corridors]]
-[[WallWar]]
 ## References
 
 [^ref-1]: [MobyGames – Laf Pak](https://www.mobygames.com/game/26233/laf-pak/) – release date, compilation contents, platform, price

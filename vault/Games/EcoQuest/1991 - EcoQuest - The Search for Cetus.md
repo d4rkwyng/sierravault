@@ -161,8 +161,6 @@ The game's environmental message has proven timeless, with its themes of marine 
 - **Next:** [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Lost Secret of the Rainforest]] (1993)
 - **Related Educational Games:** [[The Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
-[[EcoQuest - Lost Secret of the Rainforest]]
-[[EcoQuest - The Search for Cetus]]
 
 ## References
 
@@ -192,5 +190,3 @@ The game's environmental message has proven timeless, with its themes of marine 
 [^ref-24]: [Sierra Music Central](http://www.sierramusiccentral.com/eq.html) – Composer credits
 [^ref-25]: [Collection Chamber](https://collectionchamber.blogspot.com/p/ecoquest-search-for-cetus.html) – Series legacy assessment
 [^ref-26]: [Consolidated Research Sources](internal/research/games/ecoquest-the-search-for-cetus/_consolidated.json) – Multiple sources from research collection
-
-[[1993 - EcoQuest - Lost Secret of the Rainforest]]

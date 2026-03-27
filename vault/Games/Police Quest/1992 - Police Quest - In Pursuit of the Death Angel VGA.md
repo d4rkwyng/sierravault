@@ -274,11 +274,6 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: Open Season]]
 
-[[Police Quest - In Pursuit of the Death Angel]]
-[[Police Quest - In Pursuit of the Death Angel VGA]]
-[[Police Quest - Open Season]]
-[[Police Quest II - The Vengeance]]
-[[Police Quest III - The Kindred]]
 
 [[1987 - Police Quest - In Pursuit of the Death Angel]]
 
@@ -331,8 +326,3 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [^ref-39]: [Sarien.net – Police Quest](https://www.sarien.net/policequest) – browser interpreter warning
 [^ref-40]: [Police Quest Fandom – Disambiguation](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – novel reference
 [^ref-41]: [Hardcore Gaming 101 – Police Quest](http://www.hardcoregaming101.net/police-quest/) – stepping behind badge quote
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-[[1988 - Police Quest II - The Vengeance]]
-[[1991 - Police Quest III - The Kindred]]
-[[1993 - Police Quest - Open Season]]

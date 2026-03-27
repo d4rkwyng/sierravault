@@ -256,9 +256,6 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [[1996 - Hunter Hunted]]
 
 [[1996 - Rama]]
-[[David Wolf - Secret Agent]]
-[[Heart of China]]
-[[Sierra Soccer - World Challenge Edition]]
 
 ## References
 

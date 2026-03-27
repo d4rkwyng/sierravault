@@ -156,5 +156,3 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-28]: [Metacritic](https://www.metacritic.com/game/aces-of-the-deep/) – - Voice control technology description
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – - Stability issues and compatibility problems
 [^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/aces-of-the-deep) – - Continuing player preference and legacy status
-
-[[1994 - Aces of the Deep]]

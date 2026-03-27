@@ -256,7 +256,3 @@ The game is documented in multiple gaming databases.[^ref-15][^ref-16]
 [^ref-20]: [Sierra Gamers - Metaltech](https://www.sierragamers.com/metaltech-earthsiege/) - Series information
 [^ref-21]: [Starsiege Wiki - Earthsiege](https://starsiege.fandom.com/wiki/Metaltech:_Earthsiege) - Universe and lore details
 [^ref-22]: [TribesNext - Series History](https://www.tribesnext.com/) - Franchise evolution
-
-[[1994 - Metaltech - Battledrome]]
-[[1995 - Metaltech - Earthsiege Expansion Pack]]
-[[1996 - Earthsiege 2]]

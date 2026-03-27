@@ -128,8 +128,6 @@ The following links provide access to the complete game for archival and preserv
 ## See Also
 
 **Series:** [[1996 - Robert E. Lee - Civil War General]] → **1997 - Civil War Generals 2: Grant, Lee, Sherman**
-[[Civil War Generals 2 - Grant–Lee–Sherman]]
-[[Robert E. Lee - Civil War General]]
 
 ## References
 

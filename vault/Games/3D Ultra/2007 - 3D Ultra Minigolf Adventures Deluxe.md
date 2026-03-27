@@ -236,17 +236,6 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
 
 [[2000 - Maximum Pool]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
-[[3D Ultra Minigolf Adventures Deluxe]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -283,6 +272,3 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [^ref-16]: [Steam Store – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release date, developer, publisher
 [^ref-17]: [Sierra Gamers – 3D Ultra](https://www.sierragamers.com/3d-ultra/) – series game list, release years
 [^ref-18]: [Internet Archive – 3D Ultra Minigolf Deluxe](https://archive.org/details/3DUltraMinigolfDeluxe_201809) – 1998 version preservation, Dynamix/Sierra publication
-
-[[2006 - 3D Ultra MiniGolf Adventures]]
-[[2010 - 3-D Ultra MiniGolf Adventures 2]]

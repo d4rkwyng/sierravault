@@ -232,8 +232,6 @@ The game's historical significance lies in several areas: it demonstrated that R
 
 
 [[1983 - Ultima - Escape from Mt. Drash]]
-[[Ultima - Escape from Mt. Drash]]
-[[Ultima II - The Revenge of the Enchantress]]
 
 ## References
 

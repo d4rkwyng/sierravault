@@ -268,15 +268,6 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
-[[Air Cavalry]]
-[[Arcanum]]
-[[Codename - Iceman]]
-[[Diablo - Hellfire]]
-[[Fast Attack - High Tech Submarine Warfare]]
-[[Freddy Pharkas - Frontier Pharmacist]]
-[[Lighthouse - The Dark Being]]
-[[Slater & Charlie Go Camping]]
-[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## References
 
 [^ref-1]: [MobyGames – Air Cavalry](https://www.mobygames.com/game/10134/air-cavalry/) – credits, ratings, technical specifications, release information

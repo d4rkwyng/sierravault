@@ -249,8 +249,6 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
-[[Conquests of Camelot - The Search for the Grail]]
-[[Conquests of the Longbow - The Legend of Robin Hood]]
 
 ## References
 
@@ -285,5 +283,3 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-30]: [Choicest Games](https://www.choicestgames.com/2020/12/conquests-of-camelot-search-for-grail.html) – EGA graphics, Monty Python references
 [^ref-31]: [Conquests Fandom Wiki](https://conquests.fandom.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – platforms, version info, bug documentation
 [^ref-32]: [Speedrun Wiki](https://www.speedrunwiki.com/w/index.php?title=Conquests_of_Camelot:_The_Search_For_The_Grail&mobileaction=toggle_view_desktop) – speedrun categories, statistics
-
-[[1991 - Conquests of the Longbow - The Legend of Robin Hood]]

@@ -221,8 +221,6 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 - [[1993 - Stellar 7 - Draxon's Revenge|→ Next: Stellar 7 - Draxon's Revenge]]
 
 [[1993 - Stellar-Fire]]
-[[Nova 9 - The Return of Gir Draxon]]
-[[Stellar 7 - Draxon's Revenge]]
 ## References
 
 [^ref-1]: [Amiga Fandom Wiki](https://amiga.fandom.com/wiki/Nova_9:_The_Return_of_Gir_Draxon) – Release year and story information
@@ -244,6 +242,3 @@ While Nova 9 wasn't commercially dominant, its combination of first-person vehic
 [^ref-20]: [Glitchwave](https://glitchwave.com/game/nova-9-the-return-of-gir-draxon/) – Modern rating
 [^ref-21]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/nova-9-return-of-gir-draxon) – Sequel relationship to Stellar 7
 [^ref-22]: [Games That Weren't](https://www.gamesthatwerent.com/gtw64/nova-9-the-revenge-of-raf-torin/) – Planned sequel information
-
-[[1990 - Stellar 7]]
-[[1993 - Stellar 7 - Draxon's Revenge]]

@@ -229,12 +229,6 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
-[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-[[Return of The Incredible Machine - Contraptions]]
-[[The Incredible Machine (2011)]]
-[[The Incredible Machine - Even More Contraptions]]
-[[The Incredible Machine 2]]
-[[The Incredible Toon Machine]]
 
 ## References
 
@@ -271,6 +265,3 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [^ref-32]: [Sierra Help Pages – New Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – 16-bit compatibility issues, installer information
 [^ref-34]: [IMDB – The Incredible Toon Machine](https://www.imdb.com/title/tt0297967/) – Rob Paulsen voice credit
 [^ref-35]: [Dynamix Fandom Wiki – The Incredible Machine Series](https://dynamix.fandom.com/wiki/The_Incredible_Machine_(series)) – series history, Contraption Maker spiritual successor
-
-[[1994 - The Incredible Machine 2]]
-[[1995 - The Incredible Machine 3.0]]

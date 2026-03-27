@@ -114,8 +114,6 @@ Fan-created unofficial patches have been developed to address minor technical is
 ## See Also
 
 - [[1989 - Manhunter - San Francisco|→ Next: Manhunter - San Francisco]]
-[[Manhunter - New York]]
-[[Manhunter - San Francisco]]
 
 ## References
 
@@ -142,5 +140,3 @@ Fan-created unofficial patches have been developed to address minor technical is
 [^ref-21]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – - Retrospective assessment
 [^ref-22]: [Larry Laffer](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – - Development origin
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) – - Fan comments and praise
-
-[[1989 - Manhunter - San Francisco]]

@@ -300,15 +300,6 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
-[[Arcanum]]
-[[Codename - Iceman]]
-[[Diablo - Hellfire]]
-[[Fast Attack - High Tech Submarine Warfare]]
-[[Freddy Pharkas - Frontier Pharmacist]]
-[[Lighthouse - The Dark Being]]
-[[Shannara]]
-[[Slater & Charlie Go Camping]]
-[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 
 ## References
 

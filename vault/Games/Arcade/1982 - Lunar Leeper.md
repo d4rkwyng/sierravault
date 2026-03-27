@@ -259,8 +259,6 @@ However, the Leeper character's transition to educational gaming through *Learni
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Lunar Leeper]]
-[[WallWar]]
 
 ## References
 

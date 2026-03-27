@@ -166,20 +166,6 @@ A community-created patch has been developed to address compatibility issues, sp
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -203,6 +189,3 @@ A community-created patch has been developed to address compatibility issues, sp
 [^ref-18]: [IGDB – Front Page Sports: Ski Racing](https://www.igdb.com/games/front-page-sports-ski-racing) – game database entry
 [^ref-19]: [Giant Bomb – Front Page Sports](https://www.giantbomb.com/front-page-sports/3025-1447/) – franchise information
 [^ref-20]: [Old Games Download](https://oldgamesdownload.com/front-page-sports-ski-racing/) – preservation archives
-
-[[1997 - Front Page Sports - Golf]]
-[[1997 - Front Page Sports - Trophy Rivers]]

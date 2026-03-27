@@ -263,14 +263,6 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 
 ## References
 
@@ -296,6 +288,3 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [^ref-21]: [ChapterCheats – Conqueror 1086 AD](https://www.chaptercheats.com/cheats/pc/1137/conqueror-1086-ad-cheat-codes) – ESRB rating, genre, hint contribution
 [^ref-22]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/conqueror-ad-1086-msdos-gamerip-1995) – audio track count, total duration
 [^ref-23]: [OldPCGaming.net Review](https://oldpcgaming.net/conqueror-a-d-1086/) – detailed critique, system requirements, Defender of the Crown comparison
-
-[[1995 - Casino De Luxe]]
-[[1995 - Powerhouse]]

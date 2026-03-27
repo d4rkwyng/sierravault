@@ -279,15 +279,6 @@ On the other hand, the game also exemplifies design philosophies that would even
 
 Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Heir Is Human]] • [[King's Quest IV: The Perils of Rosella]] • [[Roberta Williams' King's Quest I: Quest for the Crown]] • [[King's Quest VI: Heir Today, Gone Tomorrow]] • [[King's Quest VII: The Princeless Bride]] • [[King's Quest: Mask of Eternity]] • [[King's Quest]]
 
-[[King's Quest - Mask of Eternity]]
-[[King's Quest - Quest for the Crown]]
-[[King's Quest II - Romancing the Throne]]
-[[King's Quest III - To Heir Is Human]]
-[[King's Quest IV - The Perils of Rosella]]
-[[King's Quest V - Absence Makes the Heart Go Yonder]]
-[[King's Quest VI - Heir Today, Gone Tomorrow]]
-[[King's Quest VII - The Princeless Bride]]
-[[Roberta Williams' King's Quest I - Quest for the Crown]]
 
 [[1984 - King's Quest - Quest for the Crown]]
 
@@ -362,13 +353,3 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [^ref-51]: [TV Tropes – King's Quest V](https://tvtropes.org/) – design criticism
 [^ref-53]: [Adventure Gamers – King's Quest VI Introduction](https://adventuregamers.com/walkthroughs/full/kings-quest-vi-heir-today-gone-tomorrow) – Alexander and Cassima connection
 [^ref-54]: [IndieRetroNews – King's Quest V Amiga OCS Remaster](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) – SCP enhancement release, kikems/AmigaWave, DaRaSCo, MEGA download
-
-[[1984 - King's Quest - Quest for the Crown]]
-[[1985 - King's Quest II - Romancing the Throne]]
-[[1986 - King's Quest III - To Heir Is Human]]
-[[1988 - King's Quest IV - The Perils of Rosella]]
-[[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
-[[1994 - King's Quest VII - The Princeless Bride]]
-[[1998 - King's Quest - Mask of Eternity]]
-[[2015 - King's Quest]]

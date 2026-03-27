@@ -164,15 +164,6 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
-[[Cyberstorm 2 - Corporate Wars]]
-[[Metaltech - Battledrome]]
-[[Metaltech - Earthsiege]]
-[[Metaltech - Earthsiege Expansion Pack]]
-[[Metaltech - Earthsiege Speech Pack]]
-[[MissionForce - Cyberstorm]]
-[[Starsiege - Tribes]]
-[[Tribes - Aerial Assault]]
-[[Tribes 3 - Rivals]]
 
 ## References
 
@@ -201,6 +192,3 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 [^ref-23]: [Tribes Fandom Wiki](https://tribes.fandom.com/wiki/Tribes_(series) – ) - Series continuity and sequel information
 [^ref-24]: [Spokesman.com](https://www.spokesman.com/blogs/tech-deck/2015/aug/31/weeks-free-game-starsiege-tribes/) – - Freeware release in 2004
 [^ref-25]: [TribesNext](https://www.tribesnext.com/) – - Community service for continued online play
-
-[[1998 - Cyberstorm 2 - Corporate Wars]]
-[[1999 - Starsiege]]

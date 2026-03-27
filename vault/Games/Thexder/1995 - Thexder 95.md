@@ -217,9 +217,6 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 - [[2009 - Thexder Neo|→ Next: Thexder Neo]]
 
 [[1985 - Thexder]]
-[[Fire Hawk - Thexder - The Second Contact]]
-[[Thexder 95]]
-[[Thexder Neo]]
 
 ## References
 
@@ -314,6 +311,3 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-90]: [GameSpot Historical](https://www.gamespot.com/games/thexder-95/) – Database entry
 [^ref-91]: [MobyGames Rankings](https://www.mobygames.com/game/2857/thexder-95/rating/) – Player ratings
 [^ref-92]: [Internet Archive CD Images](https://archive.org/details/thexder-95-cd) – Disc preservation
-
-[[1989 - Fire Hawk - Thexder - The Second Contact]]
-[[2009 - Thexder Neo]]

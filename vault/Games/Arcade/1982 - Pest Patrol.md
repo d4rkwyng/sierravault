@@ -261,8 +261,6 @@ Sierra produced numerous action games for the Apple II during the early 1980s. P
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Pest Patrol]]
-[[WallWar]]
 ## References
 
 [^ref-1]: [MyAbandonware - Pest Patrol](https://www.myabandonware.com/game/pest-patrol-7nt) - release year 1982, publisher Sierra On-Line, Apple II platform, download size

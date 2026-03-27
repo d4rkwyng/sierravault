@@ -232,13 +232,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [[1995 - The Last Dynasty]]
 
 [[1996 - Urban Runner]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[African Raiders-01]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Ween - The Prophecy]]
 
 ## References
 

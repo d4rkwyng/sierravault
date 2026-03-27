@@ -271,8 +271,6 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 
 - [[1999 - Pharaoh|← Base Game: Pharaoh]] - Required base game
 - [[2023 - Pharaoh - A New Era|→ Remake: Pharaoh - A New Era]] - 2023 remaster including Cleopatra content
-[[Cleopatra - Queen of the Nile]]
-[[Pharaoh - A New Era]]
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/3053/cleopatra-queen-of-the-nile/) – Developer and publisher information
@@ -301,6 +299,3 @@ The monument-building mechanics, in particular, provided a distinctive hook that
 [^ref-24]: [GameSpot](https://www.gamespot.com/reviews/pharaoh-review/1900-2545838/) – Game comparison quote
 [^ref-25]: [GamePressure](https://www.gamepressure.com/download.asp?ID=58848) – Community patches
 [^ref-27]: [Amazon](https://www.amazon.com/Cleopatra-Queen-of-the-Nile/dp/B00004W4QK) – Customer reviews
-
-[[1999 - Pharaoh]]
-[[2023 - Pharaoh - A New Era]]

@@ -125,8 +125,6 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 [[1994 - Lords of the Realm]]
 
 [[1996 - Lords of the Realm II]]
-[[Lords of the Realm II - Siege Pack]]
-[[Lords of the Realm III]]
 
 ## References
 
@@ -157,5 +155,3 @@ The game's budget pricing strategy ($19.99 at launch) helped establish a precede
 [^ref-25]: [GameSpot Preview](https://www.gamespot.com/articles/lords-of-the-realm-iii-updated-impressions/1100-6073963/) – - Genre innovation analysis
 [^ref-26]: [Steam Store](https://store.steampowered.com/app/254860/Lords_of_the_Realm_III/) – - Digital availability
 [^ref-27]: [GameSpot News](https://www.gamespot.com/articles/no-kings-ransom-for-lords-of-the-realm-iii/1100-6087481/) – - Launch pricing strategy
-
-[[1997 - Lords of the Realm II - Siege Pack]]

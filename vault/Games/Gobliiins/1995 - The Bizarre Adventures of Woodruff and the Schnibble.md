@@ -260,10 +260,6 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 [[2026 - Gobliins 6]]
-[[Gobliiins 5 - The Morgloton Invasion]]
-[[Gobliins 2 - The Prince Buffoon]]
-[[Gobliins 6]]
-[[The Bizarre Adventures of Woodruff and the Schnibble]]
 
 ## References
 
@@ -301,5 +297,3 @@ The tension between whimsy and underlying peril makes the journey simultaneously
 [^ref-32]: [Internet Archive – Woodruff Update](https://archive.org/details/swizzle_demu_WOOD) – April 1995 patch information
 [^ref-33]: [PriceCharting – Woodruff](https://www.pricecharting.com/game/pc-games/woodruff-and-the-schnibble) – market pricing data
 [^ref-35]: [GameFAQs – FAQs](https://gamefaqs.gamespot.com/pc/565193-the-bizarre-adventures-of-woodruff-and-the-schnibble/faqs/2170) – walkthrough attribution
-
-[[2009 - Gobliiins 4]]

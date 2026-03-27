@@ -285,8 +285,6 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 - [[1997 - Lords of the Realm II - Siege Pack|→ Next: Lords of the Realm II - Siege Pack]]
 
 [[2004 - Lords of the Realm III]]
-[[Lords of the Realm II]]
-[[Lords of the Realm II - Siege Pack]]
 
 ## References
 
@@ -338,6 +336,3 @@ The comparison to Total War is apt but also highlights what Lords II does differ
 [^ref-47]: [Metacritic – Lords of the Realm III](https://www.metacritic.com/game/lords-of-the-realm-iii/) – sequel reception, critical quotes
 [^ref-48]: [IGN – Lords of the Realm III Preview](https://www.ign.com/articles/2003/08/26/lords-of-the-realm-iii-preview) – sequel development changes
 [^ref-49]: [TV Tropes – Lords of the Realm 2](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/LordsOfTheRealm2) – series comparison, Earl character, combat changes
-
-[[1994 - Lords of the Realm]]
-[[1997 - Lords of the Realm II - Siege Pack]]

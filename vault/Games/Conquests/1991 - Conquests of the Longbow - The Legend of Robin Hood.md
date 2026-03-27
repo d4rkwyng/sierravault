@@ -284,8 +284,6 @@ The game's focus on historical accuracy and cultural research also distinguishes
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
-[[Conquests of Camelot - The Search for the Grail]]
-[[Conquests of the Longbow - The Legend of Robin Hood]]
 
 ## References
 
@@ -316,5 +314,3 @@ The game's focus on historical accuracy and cultural research also distinguishes
 [^ref-26]: [Speedrun.com – Guide](https://www.speedrun.com/conquests_of_the_longbow_the_legend_of_robin_hood/guides/5px6w) – speedrun strategies, Snowy Skips
 [^ref-27]: [Reddit r/Sierra – 4K Rendering Post](https://www.reddit.com/r/Sierra/comments/16g07ln/conquests_of_the_longbow_rendered_in_4k_simulated/) – fan project
 [^ref-28]: [Best DOS Games – Conquests of the Longbow](https://bestdosgames.com/games/conquests-of-the-longbow-the-legend-of-robin-hood) – modern relevance assessment
-
-[[1990 - Conquests of Camelot - The Search for the Grail]]

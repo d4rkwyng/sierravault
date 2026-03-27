@@ -238,11 +238,6 @@ The series would continue under different developers, with Knowledge Adventure e
 [[1999 - Dr. Brain - Action Reaction]]
 
 [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[Dr. Brain - Action Reaction]]
-[[Dr. Brain Thinking Games - IQ Adventure]]
-[[Dr. Brain Thinking Games - Puzzle Madness]]
-[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[The Island of Dr. Brain]]
 
 ## References
 
@@ -279,6 +274,3 @@ The series would continue under different developers, with Knowledge Adventure e
 [^ref-32]: [Internet Archive – Full Game](https://archive.org/details/msdos_Island_of_Dr._Brain_1992) – archive stats, MobyGames description
 [^ref-33]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/the-island-of-dr.-brain) – soundtrack length, file count
 [^ref-34]: [Wikidata – Q11707605](https://www.wikidata.org/wiki/Q11707605) – platforms, distribution format, series classification
-
-[[1991 - Castle of Dr. Brain]]
-[[1995 - The Lost Mind of Dr. Brain]]

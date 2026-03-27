@@ -240,17 +240,6 @@ Modern players can run the Windows version through compatibility modes, though s
 [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
 
 [[2010 - 3-D Ultra MiniGolf Adventures 2]]
-[[3-D Ultra Lionel TrainTown]]
-[[3-D Ultra Lionel TrainTown Deluxe]]
-[[3-D Ultra MiniGolf]]
-[[3-D Ultra MiniGolf Deluxe]]
-[[3-D Ultra Pinball - Creep Night]]
-[[3-D Ultra Pinball - Power]]
-[[3-D Ultra Pinball - The Lost Continent]]
-[[3-D Ultra Pinball - Thrill Ride]]
-[[3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[3D Ultra MiniGolf Adventures]]
-[[Maximum Pool]]
 
 - [[3-D Ultra Radio Control Racers Deluxe: Traxxas Edition]]
 - [[3-D Ultra Cool Pool]]
@@ -292,6 +281,3 @@ Modern players can run the Windows version through compatibility modes, though s
 [^ref-27]: [Glitchwave](https://glitchwave.com/) - Modern critical assessment
 [^ref-28]: [Cool Pool Test Site](https://coolpooltest.tripod.com/id6.html) - Player preference comparisons
 [^ref-29]: [LoneBullet Patch Archive](https://www.lonebullet.com/patches/download-sierra-pool-room-server-patch-3d-ultra-cool-pool-patch-free-9366.htm) - Server shutdown date and community patch
-
-[[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
-[[2006 - 3D Ultra MiniGolf Adventures]]

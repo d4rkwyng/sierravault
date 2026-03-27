@@ -180,6 +180,3 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 [^ref-28]: [Web Archive - Macworld Hall of Fame](https://web.archive.org/web/20030108183053/http://www.macworld.com/1997/01/features/3158.html) – - Technical specifications and Macintosh features
 [^ref-29]: [Patches-Scrolls](https://www.patches-scrolls.de/patch/2198/7/26484) – - Version patch history
 [^ref-30]: [Race Sim Central - Windows 95 Upgrade](https://racesimcentral.net/windows-95-upgrade-available-for-indycar-racing-ii-dos/) – - CART Racing re-release details
-
-[[1993 - IndyCar Racing]]
-[[1997 - CART Racing]]

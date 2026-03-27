@@ -367,29 +367,6 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -415,6 +392,3 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [^ref-22]: [Internet Archive – Hoyle Solitaire USA Rerelease](https://archive.org/details/hoyle-solitaire-usa) – 1998 rerelease metadata
 [^ref-23]: [Classic Reload – Hoyle Solitaire](https://classicreload.com/hoyle-solitaire.html) – browser emulation, 1996 release
 [^ref-24]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1163/hoyle-card-games/) – 1999 card games, character descriptions
-
-[[1993 - Hoyle Classic Card Games]]
-[[1996 - Hoyle Official Book of Games - Volume 5]]

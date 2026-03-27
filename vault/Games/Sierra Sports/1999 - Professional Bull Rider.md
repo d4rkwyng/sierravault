@@ -212,9 +212,6 @@ The franchise's continued existence through mobile and console titles decades la
 [[1998 - Sierra Sports - Bass Fishing]]
 
 [[1998 - Sierra Sports Skiing 1999 Edition]]
-[[Driver's Education '98]]
-[[Professional Bull Rider]]
-[[Sierra Sports - Bass Fishing]]
 
 ## References
 

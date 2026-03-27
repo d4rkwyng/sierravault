@@ -172,13 +172,6 @@ This game has been included in the following collections:
 
 Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest III: The Pirates of Pestulon]] • [[Space Quest I: Roger Wilco in the Sarien Encounter]] • [[Space Quest IV: Roger Wilco and the Time Rippers]] • [[Space Quest V: The Next Mutation]] • [[Space Quest 6: Roger Wilco in the Spinal Frontier]]
 
-[[Space Quest - The Sarien Encounter]]
-[[Space Quest 6 - Roger Wilco in the Spinal Frontier]]
-[[Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[Space Quest II - Vohaul's Revenge]]
-[[Space Quest III - The Pirates of Pestulon]]
-[[Space Quest IV - Roger Wilco and the Time Rippers]]
-[[Space Quest V - The Next Mutation]]
 
 [[1986 - Space Quest - The Sarien Encounter]]
 
@@ -225,10 +218,3 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest III: The Pirates
 [^ref-30]: [Computer Gaming World – July 1988 (Issue 49)](https://archive.org/details/Computer_Gaming_World_Issue_49) – Douglas Seacat review: "improved parser (hurrah!)", "greater scope", CGA graphics issues, "ridiculously illogical" gem puzzle
 [^ref-31]: [Macworld – March 1989](https://archive.org/details/MacWorld_8903_March_1989) – "Animated Adventure Games" review, p.183: "succeeds with the humor of its animation and scripting"
 [^ref-32]: [SEC Filing – Sierra On-Line 10-K (March 1996)](https://web.archive.org/web/20180416004925/https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – "Space Quest... sold more than 1.2 million copies in this series"
-
-[[1986 - Space Quest - The Sarien Encounter]]
-[[1989 - Space Quest III - The Pirates of Pestulon]]
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
-[[1993 - Space Quest V - The Next Mutation]]
-[[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]

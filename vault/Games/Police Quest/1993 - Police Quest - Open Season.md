@@ -159,11 +159,6 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 
 Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]] • [[Police Quest: In Pursuit of the Death Angel (VGA Remake)]]
 
-[[Police Quest - In Pursuit of the Death Angel]]
-[[Police Quest - In Pursuit of the Death Angel VGA]]
-[[Police Quest - Open Season]]
-[[Police Quest II - The Vengeance]]
-[[Police Quest III - The Kindred]]
 
 [[1987 - Police Quest - In Pursuit of the Death Angel]]
 
@@ -221,8 +216,3 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [^ref-45]: [ScummVM Wiki](https://wiki.scummvm.org/index.php/Police_Quest_Open_Season) – - Technical compatibility information
 [^ref-46]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/Police_Quest:_Open_Season) – - Complete voice cast listing and character credits
 [^ref-47]: [Retro365 Blog - Police Quest History](https://retro365.blog/2021/09/06/bits-from-my-personal-collection-police-quest-police-officer-turned-game-designer/) – ESRB rating, sales data, and historical context
-
-[[1987 - Police Quest - In Pursuit of the Death Angel]]
-[[1988 - Police Quest II - The Vengeance]]
-[[1991 - Police Quest III - The Kindred]]
-[[1992 - Police Quest - In Pursuit of the Death Angel VGA]]

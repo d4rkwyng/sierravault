@@ -302,5 +302,3 @@ The game's three remakes over a decade—more than almost any other Sierra title
 [^ref-30]: [Sierra Fandom Wiki – Mixed-Up Mother Goose](https://sierra.fandom.com/wiki/Mixed-Up_Mother_Goose) – version history, cancelled Atari ST version
 [^ref-31]: [Sierra Gamers – Roberta Williams](https://www.sierragamers.com/roberta-williams/) – designer biography, game list
 [^ref-32]: [US Modern Culture Wiki – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – company timeline
-
-[[1990 - Mixed-Up Mother Goose (SCI Remake)]]

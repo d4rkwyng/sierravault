@@ -280,9 +280,6 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 [[1999 - PGA Championship Golf 1999 Edition]]
 
 [[2000 - PGA Championship Golf 2000]]
-[[PGA Championship Golf - Collector's Edition]]
-[[PGA Championship Golf 1999 Edition]]
-[[PGA Championship Golf 2000 - Titanium Edition]]
 
 ## References
 
@@ -317,5 +314,3 @@ The game's legacy within Sierra's catalog is bittersweet. The PGA Championship G
 [^ref-29]: [Dynamix Golf Blog](https://dynamixgolf.wordpress.com/about/) – Larry Nelson quote on golf simulators
 [^ref-30]: [eBay – PGA Championship Golf 2000 Manual](https://www.ebay.com/itm/312059619303) – instruction manual listing
 [^ref-31]: [Internet Archive – PGA Championship Golf 2000](https://archive.org/details/pc-pga-championship-golf-2000) – preservation archive, file size
-
-[[2000 - PGA Championship Golf 2000 - Titanium Edition]]

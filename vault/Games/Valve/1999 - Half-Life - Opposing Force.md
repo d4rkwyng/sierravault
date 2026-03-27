@@ -327,10 +327,6 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 [[2004 - Counter-Strike - Condition Zero]]
 
 [[2004 - Half-Life 2]]
-[[Counter-Strike]]
-[[Counter-Strike - Condition Zero]]
-[[Half-Life - Blue Shift]]
-[[Half-Life - Opposing Force]]
 
 ## References
 
@@ -375,6 +371,3 @@ The game's narrative decision to tell a familiar story from the enemy's perspect
 [^ref-39]: [GitHub – SDK Updated Repository](https://github.com/twhl-community/halflife-op4-updated) – modding resources, bug fixes
 [^ref-40]: [RunThinkShootLive – Music Restoration](https://www.runthinkshootlive.com/posts/tree-opposing-force-music/) – Steam soundtrack fix
 [^ref-41]: [Amazon – Strategy Guide](https://www.amazon.com/Half-Life-Opposing-Force-Official-Strategy/dp/0761525904) – Prima guide reviews
-
-[[1998 - Half-Life]]
-[[1999 - Team Fortress Classic]]

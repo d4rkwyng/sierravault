@@ -222,11 +222,6 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
-[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-[[Return of The Incredible Machine - Contraptions]]
-[[The Incredible Machine (2011)]]
-[[The Incredible Machine - Even More Contraptions]]
-[[The Incredible Machine 2]]
 
 ## References
 
@@ -272,6 +267,3 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 [^ref-22]: [IMDB Search Results](https://www.imdb.com/find/?q=Arthur+to+Astaroth+no+Nazo+Makaimura%3A+Incredible+Toons&s=tt) – 1996 release confirmation
 
 [^ref-23]: [romspure.cc](https://romspure.cc/roms/sega-saturn/arthur-to-astaroth-no-nazomakaimura-incredible-toons/) – Saturn version file size, publisher confirmation
-
-[[1995 - The Incredible Machine 3.0]]
-[[2000 - Return of The Incredible Machine - Contraptions]]

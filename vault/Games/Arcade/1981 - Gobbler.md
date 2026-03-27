@@ -221,8 +221,6 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Gobbler]]
-[[WallWar]]
 
 ## References
 

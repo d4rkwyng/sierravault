@@ -277,8 +277,6 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
-[[NASCAR Racing]]
-[[NASCAR Racing 2 - Grand National Series Expansion]]
 
 ## References
 
@@ -310,5 +308,3 @@ Matt Lewis, director of production for iRacing, noted the game's lasting impact:
 [^ref-26]: [Reddit r/NASCAR – Game Manual Discovery](https://www.reddit.com/r/NASCAR/comments/3uncve/they_dont_make_them_likes_this_anymore_1994/) – manual page count
 [^ref-27]: [iRacing FAQ from 2006](Research data reference) – NR2003 code as foundation
 [^ref-28]: [NASCAR.com – NASCAR 25 Launch Article](https://www.nascar.com/news-media/2026/10/14/nascar-25s-launch-provides-full-circle-moment-for-creators-from-a-golden-age/) – Matt Lewis quote on series legacy
-
-[[1996 - NASCAR Racing 2]]

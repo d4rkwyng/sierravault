@@ -199,8 +199,6 @@ The game's historical significance lies not in its gameplay contributions—whic
 
 
 [[1982 - Ultima II - The Revenge of the Enchantress]]
-[[Ultima - Escape from Mt. Drash]]
-[[Ultima II - The Revenge of the Enchantress]]
 
 ## References
 

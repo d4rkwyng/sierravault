@@ -228,9 +228,6 @@ The game's short length (completable in under three hours) and easy puzzles posi
 
 - **Related:** [[1988 - Gold Rush]]
 - [[2014 - Gold Rush Anniversary|← Previous: Gold Rush Anniversary]]
-[[Gold Rush]]
-[[Gold Rush 2]]
-[[Gold Rush Anniversary]]
 
 ## References
 
@@ -265,5 +262,3 @@ The game's short length (completable in under three hours) and easy puzzles posi
 [^ref-16]: [IGN – California Gold Rush 2 Review](https://www.ign.com/articles/2010/02/17/california-gold-rush-2-review) – different game by Digital Chocolate, context for franchise confusion
 
 [^ref-17]: [Wikipedia – Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) – original game history, copy protection, Adventure Gamers ranking, series context
-
-[[2014 - Gold Rush Anniversary]]

@@ -192,12 +192,6 @@ This game has been included in the following collections:
 
 Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: Trial by Fire]] • [[Quest for Glory III: Wages of War]] • [[Quest for Glory: Shadows of Darkness]]
 
-[[Quest for Glory I - So You Want to Be a Hero]]
-[[Quest for Glory I - So You Want to Be a Hero VGA]]
-[[Quest for Glory II - Trial by Fire]]
-[[Quest for Glory III - Wages of War]]
-[[Quest for Glory IV - Shadows of Darkness]]
-[[Quest for Glory V - Dragon Fire]]
 
 [[1989 - Quest for Glory I - So You Want to Be a Hero]]
 
@@ -242,9 +236,3 @@ Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: 
 [^ref-29]: [VGMdb – Quest for Glory V](https://vgmdb.net/album/6391) – soundtrack database entry
 [^ref-30]: [ScummVM Wiki – Quest for Glory V](https://wiki.scummvm.org/index.php?title=Quest_for_Glory_V%3A_Dragon_Fire) – technical compatibility
 [^ref-31]: [The Cutting Room Floor – Quest for Glory V](https://tcrf.net/Quest_for_Glory_V%3A_Dragon_Fire) – unused content, development notes
-
-[[1989 - Quest for Glory I - So You Want to Be a Hero]]
-[[1990 - Quest for Glory II - Trial by Fire]]
-[[1992 - Quest for Glory I - So You Want to Be a Hero VGA]]
-[[1992 - Quest for Glory III - Wages of War]]
-[[1993 - Quest for Glory IV - Shadows of Darkness]]

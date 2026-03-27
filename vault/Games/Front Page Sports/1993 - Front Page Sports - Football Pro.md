@@ -159,20 +159,6 @@ The series' influence can be seen in modern football management games, and its e
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -198,6 +184,3 @@ The series' influence can be seen in modern football management games, and its e
 [^ref-20]: [MyAbandonware](https://www.myabandonware.com/search/q/Front+Page+Sports%3A+Football+Pro) – - Series release timeline
 [^ref-21]: [GM Games Forums](https://forums.gmgames.org/files/file/60-fb-pro-98-essential-mod-fix-stats-vpnfl99/) – - Essential mod recommendation
 [^ref-22]: [Steam Community](https://steamcommunity.com/app/316700) – - Modern platform availability
-
-[[1992 - Front Page Sports Football 92]]
-[[1994 - Front Page Sports - Baseball Pro]]

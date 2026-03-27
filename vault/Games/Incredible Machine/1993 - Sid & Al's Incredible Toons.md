@@ -231,12 +231,6 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [[2001 - The Incredible Machine - Even More Contraptions]]
 
 [[2011 - The Incredible Machine (2011)]]
-[[Arthur to Astaroth no Nazo Makaimura - Incredible Toons]]
-[[Return of The Incredible Machine - Contraptions]]
-[[Sid & Al's Incredible Toons]]
-[[The Incredible Machine (2011)]]
-[[The Incredible Machine - Even More Contraptions]]
-[[The Incredible Machine 2]]
 
 ## References
 
@@ -270,6 +264,3 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [^ref-28]: [Internet Archive – Incredible Toon Machine](https://archive.org/details/incredible-toon-machine) – sequel details, character information
 [^ref-29]: [Internet Archive – Masque Version](https://archive.org/details/masque_202208) – Windows port information
 [^ref-30]: [Consolidated Research Data](_consolidated) – multiple source aggregation
-
-[[1992 - The Incredible Machine]]
-[[1993 - The Even More Incredible Machine]]

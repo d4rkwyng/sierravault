@@ -129,8 +129,6 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 [[2002 - NASCAR Racing 2002 Season]]
 
 [[2003 - NASCAR Racing 2003 Season]]
-[[NASCAR Racing 2 - Grand National Series Expansion]]
-[[NASCAR Racing 3]]
 ## References
 
 [^ref-1]: [MobyGames NASCAR Racing 3](https://www.mobygames.com/game/3222/nascar-racing-3/) – - Developer, designer, and basic game information
@@ -159,6 +157,3 @@ NASCAR Racing 3's modding community has created extensive modifications includin
 [^ref-24]: [MyAbandonware](https://www.myabandonware.com/game/nascar-racing-3-cow) – - Long-term impact and community assessment
 [^ref-25]: [MyAbandonware Expansion](https://www.myabandonware.com/game/nascar-racing-3-craftsman-truck-series-expansion-pack-dpv) – - Expansion pack information
 [^ref-26]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/NASCAR_Racing_3) – - Patch version information
-
-[[1999 - NASCAR Legends]]
-[[2001 - NASCAR Racing 4]]

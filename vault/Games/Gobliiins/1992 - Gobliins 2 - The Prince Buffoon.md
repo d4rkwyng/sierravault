@@ -262,9 +262,6 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [[2023 - Gobliiins 5 - The Morgloton Invasion]]
 
 [[2026 - Gobliins 6]]
-[[Gobliiins 5 - The Morgloton Invasion]]
-[[Gobliins 2 - The Prince Buffoon]]
-[[Gobliins 6]]
 
 ## References
 
@@ -308,6 +305,3 @@ Modern adventure game enthusiasts continue to discover and appreciate the series
 [^ref-41]: [Sierra Chest – Goblins 1 & 2](https://sierrachest.com/index.php?a=games&id=534&title=goblins-1-2&fld=box) – Inca trailer inclusion
 [^ref-42]: [Pierre Gilhodes itch.io – Gobliiins 5](https://pierre-gilhodes.itch.io/gobliiins5) – Gobliiins 5 information, Adventure Game Studio
 [^ref-43]: [MobyGames – Gobliiins (Atari ST)](http://www.mobygames.com/game/atari-st/gobliiins) – original game information, character names
-
-[[1991 - Gobliiins]]
-[[1993 - Goblins Quest 3]]

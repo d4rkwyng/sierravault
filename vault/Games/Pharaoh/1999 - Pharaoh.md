@@ -146,9 +146,6 @@ The game's influence extends to the broader city-building genre, establishing co
 - [[2000 - Cleopatra - Queen of the Nile|→ Next: Cleopatra - Queen of the Nile]]
 
 [[2023 - Pharaoh - A New Era]]
-[[Cleopatra - Queen of the Nile]]
-[[Pharaoh]]
-[[Pharaoh - A New Era]]
 
 ## References
 
@@ -176,5 +173,3 @@ The game's influence extends to the broader city-building genre, establishing co
 [^ref-22]: [KH Insider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/pharaoh) – - Soundtrack technical details
 [^ref-23]: [GameSpot - Cleopatra Review](https://www.gamespot.com/reviews/cleopatra-review/1900-2610569/) – - Expansion development by BreakAway Games
 [^ref-24]: [Steam - Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – - 2023 remake information
-
-[[2000 - Cleopatra - Queen of the Nile]]

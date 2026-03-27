@@ -73,15 +73,6 @@ tags: [1980s, rpg, sierra, standalone]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
-[[Arcanum]]
-[[Codename - Iceman]]
-[[Diablo - Hellfire]]
-[[Fast Attack - High Tech Submarine Warfare]]
-[[Freddy Pharkas - Frontier Pharmacist]]
-[[Lighthouse - The Dark Being]]
-[[Slater & Charlie Go Camping]]
-[[Tank - The M1A1 Abrams Battle Tank Simulation]]
-[[Wrath of Denethenor]]
 ## Overview
 
 Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64 platforms.[^ref-1] Set in the war-torn world of Deledain, the game tasks players with defeating the evil Lord Denethenor, who has embraced dark mysticism and plunged the realm into chaos.[^ref-2] The game represents one of Sierra's ventures into publishing third-party developed RPGs during the mid-1980s, offering an accessible entry point into the genre for novice players.[^ref-3]

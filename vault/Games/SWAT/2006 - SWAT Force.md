@@ -223,6 +223,3 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 [^ref-10]: [GOG.com – SWAT: Elite Force](https://www.gog.com/en/game/swat_elite_force) – games inspired by SWAT series
 [^ref-11]: [Wikipedia – Police Quest](https://en.wikipedia.org/wiki/Police_Quest) – Police Quest/SWAT series history, SWAT Force as 2006 mobile title, franchise evolution
 [^ref-12]: [Police Quest Fandom – SWAT (series)](https://policequest.fandom.com/wiki/SWAT_(series)) – SWAT series chronology, mobile games list, 2006 release confirmation
-
-[[2006 - SWAT 4 - The Stetchkov Syndicate]]
-[[2007 - SWAT - Target Liberty]]

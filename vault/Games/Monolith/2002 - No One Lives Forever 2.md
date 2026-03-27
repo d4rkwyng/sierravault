@@ -326,8 +326,6 @@ Perhaps most tragically, NOLF 2's legal limbo serves as a cautionary tale about 
 [[2000 - No One Lives Forever]]
 
 [[2003 - Contract J.A.C.K.]]
-[[No One Lives Forever]]
-[[No One Lives Forever 2]]
 
 ## References
 

@@ -282,9 +282,6 @@ The game's troubled release exemplifies the pressures facing mid-90s developers,
 [[1996 - Space Bucks]]
 
 [[1996 - The Rise & Rule of Ancient Empires]]
-[[Alien Legacy]]
-[[Birthright - The Gorgon's Alliance]]
-[[V for Victory - D-Day Utah Beach]]
 
 ## References
 

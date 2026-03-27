@@ -149,8 +149,6 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 [[1999 - NASCAR Legends]]
 
 [[1999 - NASCAR Racing 3]]
-[[NASCAR Racing 2 - Grand National Series Expansion]]
-[[NASCAR Racing 2002 Season]]
 ## References
 
 [^ref-1]: [MobyGames - NASCAR Racing 2002 Season](https://www.mobygames.com/game/41672/nascar-racing-2002-season/) – - Developer, designer, and basic game information
@@ -180,6 +178,3 @@ Despite being over two decades old, NASCAR Racing 2002 Season continues to have 
 [^ref-25]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/nascar-racing-2002-season/) – - Voice cast information
 [^ref-26]: [Web Archive - Edge Review](https://web.archive.org/web/20121019052748/http://www.edge-online.com/features/top-100-pc-games-21st-century/3/) – - Graphics assessment
 [^ref-27]: [Old Games Download](https://oldgamesdownload.com/nascar-racing-2002-season/) – - Sales figures
-
-[[2001 - NASCAR Racing 4]]
-[[2003 - NASCAR Racing 2003 Season]]

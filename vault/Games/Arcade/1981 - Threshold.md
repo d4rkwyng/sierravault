@@ -241,8 +241,6 @@ From a historical standpoint, Threshold reflects the Wild West nature of early 1
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Threshold]]
-[[WallWar]]
 
 ## References
 

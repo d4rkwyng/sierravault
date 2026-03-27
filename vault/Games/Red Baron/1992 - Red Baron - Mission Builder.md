@@ -286,6 +286,3 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder](https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
 [^ref-20]: [Sierra Chest – Red Baron: Mission Builder (Easter Eggs)](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=eggs) – Easter egg documentation
 [^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer
-
-[[1990 - Red Baron]]
-[[1997 - Red Baron II]]

@@ -332,29 +332,6 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Majestic Chess]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -378,6 +355,3 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [^ref-18]: [King's Quest Fandom – Sierra](https://kingsquest.fandom.com/wiki/Sierra) – Sierra company overview
 [^ref-19]: [IMDB Mobile – Company Credits](https://m.imdb.com/title/tt9782314/companycredits/?ref_=tt_dt_cmpy) – developer and distributor confirmation
 [^ref-20]: [Game Classification – Analysis Page](https://gameclassification.com/EN/games/29011-Hoyle-Majestic-Chess/analyses/index.html) – game classification details
-
-[[2003 - Hoyle Casino]]
-[[2004 - Hoyle Casino]]

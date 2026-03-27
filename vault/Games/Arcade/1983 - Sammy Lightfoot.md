@@ -261,8 +261,6 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 [[1983 - Mr. Cool]]
 
 [[1983 - WallWar]]
-[[Sammy Lightfoot]]
-[[WallWar]]
 
 ## References
 

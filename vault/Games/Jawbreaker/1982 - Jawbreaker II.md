@@ -194,5 +194,3 @@ A later version, Jawbreaker IV, was also released, continuing the series[^ref-1]
 [^ref-17]: [MSX.org](https://www.msx.org/news/en/msxdev14-2-jawbreaker-ii) - MSXdev'14 recognition
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/jawbreaker-ii/3030-13693/) - Game database entry
 [^ref-19]: [Internet Archive](https://archive.org/details/JawbreakerIISierraOnline) - Preservation archive
-
-[[1981 - Jawbreaker]]

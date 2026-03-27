@@ -231,8 +231,6 @@ The game's creative premise—controlling a spider through cider factory machine
 [[1983 - Sammy Lightfoot]]
 
 [[1983 - WallWar]]
-[[Apple Cider Spider]]
-[[WallWar]]
 
 ## References
 

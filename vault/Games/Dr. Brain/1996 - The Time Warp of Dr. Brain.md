@@ -207,11 +207,6 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [[1999 - Dr. Brain - Action Reaction]]
 
 [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[Dr. Brain - Action Reaction]]
-[[Dr. Brain Thinking Games - IQ Adventure]]
-[[Dr. Brain Thinking Games - Puzzle Madness]]
-[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
-[[The Time Warp of Dr. Brain]]
 
 ## References
 

@@ -301,28 +301,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Backgammon & Cribbage](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/) – credits, technical specifications, ratings, game description, platform information
@@ -357,6 +335,3 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
 [^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
 [^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing
-
-[[1997 - Hoyle Classic Board Games]]
-[[1999 - Hoyle Casino]]

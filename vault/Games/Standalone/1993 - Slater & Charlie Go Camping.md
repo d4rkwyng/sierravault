@@ -73,14 +73,6 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 [[2001 - Arcanum]]
 
 [[2007 - World in Conflict]]
-[[Arcanum]]
-[[Codename - Iceman]]
-[[Diablo - Hellfire]]
-[[Fast Attack - High Tech Submarine Warfare]]
-[[Freddy Pharkas - Frontier Pharmacist]]
-[[Lighthouse - The Dark Being]]
-[[Slater & Charlie Go Camping]]
-[[Tank - The M1A1 Abrams Battle Tank Simulation]]
 ## Overview
 
 Slater & Charlie Go Camping is an educational interactive storybook released by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms[^ref-1][^ref-2]. The game features Slater the Petrosaur, the protagonist from Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-3]. Together, these dinosaur characters embark on a camping adventure designed to teach children about outdoor safety and nature through interactive storytelling[^ref-2].

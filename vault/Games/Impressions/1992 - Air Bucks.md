@@ -276,15 +276,6 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Bucks]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 
 ## References
 
@@ -313,6 +304,3 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [^ref-25]: [Scribd – Air Bucks Manual](https://www.scribd.com/document/120481106/Air-Bucks) – manual metadata
 [^ref-26]: [MyAbandonware – User Comments](https://www.myabandonware.com/game/air-bucks-1bv/play-1bv) – nostalgic user comment
 [^ref-27]: [Internet Archive – Manual and Strategy Guide](https://archive.org/details/air-bucks-manual-and-strategy-guide) – manual availability
-
-[[1991 - Merchant Colony]]
-[[1992 - Air Force Commander]]

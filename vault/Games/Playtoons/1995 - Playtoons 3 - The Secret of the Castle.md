@@ -208,10 +208,6 @@ The game's approach—offering both consumption and creation modes—anticipated
 - [[1995 - Playtoons 4 - The Mandarine Prince|→ Next: Playtoons 4 - The Mandarine Prince]]
 
 [[1994 - Playtoons 1 - Uncle Archibald]]
-[[Playtoons 1 - Uncle Archibald]]
-[[Playtoons 2 - The Case of the Counterfeit Collaborator]]
-[[Playtoons 3 - The Secret of the Castle]]
-[[Playtoons 4 - The Mandarine Prince]]
 
 ## References
 
@@ -225,6 +221,3 @@ The game's approach—offering both consumption and creation modes—anticipated
 [^ref-8]: [MyAbandonware – Playtoons 3](https://www.myabandonware.com/game/playtoons-3-the-secret-of-the-castle-yr8) – regional release dates, user ratings, download information
 [^ref-9]: [UVList – Playtoons 3](https://www.uvlist.net/game-37959-Playtoons+3%3A+The+Secret+of+the+Castle) – game database entry, platform information
 [^ref-10]: [The Sierra Chest – Box Information](https://sierrachest.com/index.php?a=games&id=326&title=playtoons-3&fld=box) – packaging details, included content
-
-[[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator]]
-[[1995 - Playtoons 4 - The Mandarine Prince]]

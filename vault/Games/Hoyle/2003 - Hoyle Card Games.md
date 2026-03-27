@@ -319,28 +319,6 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -364,6 +342,3 @@ The Hoyle franchise's importance to Sierra's broader catalog should not be under
 [^ref-19]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – PC Games platform, media format
 [^ref-20]: [GameFAQs – Hoyle Casino 2003](https://gamefaqs.gamespot.com/pc/915771-hoyle-casino-2003) – related 2003 Hoyle release
 [^ref-21]: [GameFAQs – Hoyle Board Games 2003 FAQ](https://gamefaqs.gamespot.com/pc/929726-hoyle-board-games-2003/faqs/62836) – 2003 Hoyle product line documentation
-
-[[2003 - Hoyle Board Games]]
-[[2003 - Hoyle Casino]]

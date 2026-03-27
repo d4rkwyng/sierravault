@@ -286,28 +286,6 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -325,6 +303,3 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [^ref-12]: [Walmart Canada – Hoyle Casino 2007](https://www.walmart.ca/en/ip/Hoyle-Casino-2007-PC/3JZXTR0VS9MR) – retail availability
 [^ref-13]: [Shopozz – Hoyle Casino Compilation](https://shopozz.ru/items/387433917074-hoyle-casino-600-classic-games-encore-compilation-win-xp-pc-dvd-rom-game) – compilation product, media format
 [^ref-14]: [Stash Games – Hoyle Casino 3D](https://stash.games/games/hoyle-casino-3d) – related franchise entry
-
-[[2007 - Hoyle Card Games]]
-[[2008 - Hoyle Casino]]

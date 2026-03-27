@@ -245,29 +245,6 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Crosswords]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -306,6 +283,3 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 [^ref-17]: [Company Histories – Sierra On-Line](https://www.company-histories.com/Sierra-OnLine-Inc-Company-History.html) – Founding history, Ken and Roberta Williams, company timeline
 
 [^ref-18]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – Historical product catalog, comprehensive Sierra game listings
-
-[[2000 - Hoyle Casino]]
-[[2000 - Hoyle Kids Games]]

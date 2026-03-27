@@ -258,20 +258,6 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 [[1997 - Front Page Sports Golf - Tour Course Add-On]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -303,6 +289,3 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 [^ref-26]: [Wikidata](https://www.wikidata.org/wiki/Q102163615) – structured metadata, series information
 [^ref-27]: [eBay Product Page](https://www.ebay.com/p/170313558) – ESRB rating, stadium features, media format
 [^ref-28]: [CNET Download](https://download.cnet.com/front-page-sports-baseball-pro-98-large/3000-2117_4-10009457.html) – release date, user reviews, download statistics
-
-[[1996 - Front Page Sports - Football Pro '97]]
-[[1997 - Front Page Sports - Football Pro '98]]

@@ -246,13 +246,6 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 [[1993 - Lost in Time]]
 
 [[1995 - The Last Dynasty]]
-[[20000 Leagues Under the Sea]]
-[[A.G.E.]]
-[[Asterix - Operation Getafix]]
-[[ESS - European Space Simulator]]
-[[Emmanuelle]]
-[[Urban Runner]]
-[[Ween - The Prophecy]]
 
 ## References
 

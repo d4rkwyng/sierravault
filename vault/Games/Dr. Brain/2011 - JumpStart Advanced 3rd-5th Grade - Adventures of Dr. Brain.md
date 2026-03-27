@@ -215,10 +215,6 @@ This transition mirrors broader trends in the educational software market of the
 [[1998 - Dr. Brain Thinking Games - IQ Adventure]]
 
 [[1998 - Dr. Brain Thinking Games - Puzzle Madness]]
-[[Dr. Brain - Action Reaction]]
-[[Dr. Brain Thinking Games - IQ Adventure]]
-[[Dr. Brain Thinking Games - Puzzle Madness]]
-[[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 
 ## References
 
@@ -238,5 +234,3 @@ This transition mirrors broader trends in the educational software market of the
 [^ref-15]: [MobyGames - JumpStart](https://www.mobygames.com/) - database
 [^ref-16]: [GameFAQs - JumpStart](https://gamefaqs.gamespot.com/) - database
 [^ref-17]: [UVList - Dr. Brain](https://www.uvlist.net/) - Universal List
-
-[[1999 - Dr. Brain - Action Reaction]]

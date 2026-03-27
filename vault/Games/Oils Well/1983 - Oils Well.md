@@ -228,7 +228,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 
 
 [[1990 - Oils Well]]
-[[Oils Well]]
 
 ## References
 

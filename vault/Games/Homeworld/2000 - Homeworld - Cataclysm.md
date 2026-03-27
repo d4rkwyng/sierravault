@@ -151,8 +151,6 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [[2016 - Homeworld - Deserts of Kharak]]
 
 [[2024 - Homeworld 3]]
-[[Homeworld - Cataclysm]]
-[[Homeworld - Deserts of Kharak]]
 
 ## References
 
@@ -210,6 +208,3 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-54]: [Windows Central - Emergence Release](https://www.windowscentral.com/homeworld-emergence-gog) – Trademark renaming explanation
 [^ref-55]: [Steam Community - Catatoons](https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890) – Fan comic archive
 [^ref-56]: [Steam Workshop - Cataclysm Remastered Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2106772244) – Remastered mod project
-
-[[1999 - Homeworld]]
-[[2003 - Homeworld 2]]

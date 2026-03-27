@@ -314,28 +314,6 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -354,6 +332,3 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [^ref-13]: [Amazon – Hoyle Casino 2008](https://www.amazon.com/Hoyle-Casino-Games-2008-PC/dp/B000RGBVLI) — Encore Software continuation, 600+ games
 [^ref-14]: [MobyGames – Hoyle Casino 3D](https://www.mobygames.com/game/20006/hoyle-casino-3d/) — 2005 3D edition by Encore
 [^ref-15]: [Internet Archive – Hoyle Casino 1999](https://archive.org/details/Hoyle_Casino_Sierra_On-Line_Inc._1999) — Full game preservation
-
-[[1999 - Hoyle Backgammon and Cribbage]]
-[[1999 - Hoyle Word Games]]

@@ -316,28 +316,6 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [[2015 - Hoyle Official Card Games Collection]]
 
 [[2016 - Hoyle Casino Games Collection]]
-[[Hoyle Backgammon and Cribbage]]
-[[Hoyle Battling Ships and War]]
-[[Hoyle Blackjack]]
-[[Hoyle Board Games]]
-[[Hoyle Card Games]]
-[[Hoyle Casino Empire]]
-[[Hoyle Casino Games Collection]]
-[[Hoyle Kids Games]]
-[[Hoyle Official Book of Games - Volume 1]]
-[[Hoyle Official Book of Games - Volume 2]]
-[[Hoyle Official Book of Games - Volume 3]]
-[[Hoyle Official Book of Games - Volume 4]]
-[[Hoyle Official Book of Games - Volume 5]]
-[[Hoyle Official Card Games Collection]]
-[[Hoyle Poker]]
-[[Hoyle Puzzle Games]]
-[[Hoyle Puzzle and Board Games]]
-[[Hoyle Slots and Video Poker]]
-[[Hoyle Solitaire and Mahjong Tiles]]
-[[Hoyle Swashbucklin Slots]]
-[[Hoyle Table Games]]
-[[Hoyle Texas Hold Em]]
 
 ## References
 
@@ -361,6 +339,3 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information
 [^ref-19]: [Squakenet – Hoyle Kids Games](https://www.squakenet.com/game/hoyle-kids-games/) – release information
 [^ref-20]: [Amazon – Hoyle Kids Games](https://www.amazon.com/s?k=Hoyle+Kids+Games) – retail availability, customer reviews
-
-[[2001 - Hoyle Casino]]
-[[2001 - Hoyle Word Games]]

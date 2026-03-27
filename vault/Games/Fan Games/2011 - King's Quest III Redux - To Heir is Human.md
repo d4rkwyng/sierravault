@@ -286,16 +286,6 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 [[2025 - SCP Sierra Conversion Project]]
 
-[[TBD - King's Quest IV Remake (Infamous Adventures)]]
-[[King's Quest I VGA Remake]]
-[[King's Quest II+ - Romancing the Stones]]
-[[King's Quest III Redux - To Heir is Human]]
-[[King's Quest III Remake (Infamous Adventures)]]
-[[SCP Sierra Conversion Project]]
-[[Space Quest - Incinerations]]
-[[Space Quest - The Lost Chapter]]
-[[Space Quest - Vohaul Strikes Back]]
-[[Space Quest 0 - Replicated]]
 
 ## References
 

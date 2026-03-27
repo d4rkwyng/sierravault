@@ -255,14 +255,6 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
-[[Air Force Commander]]
-[[Casino Deluxe 2]]
-[[Cohort Fighting for Rome]]
-[[Cohort II - Fighting for Rome]]
-[[Conqueror - A.D. 1086]]
-[[Discovery - In the Steps of Columbus]]
-[[Emperor - Rise of the Middle Kingdom]]
-[[Powerhouse]]
 ## References
 
 [^ref-1]: [Internet Archive – Cohort: Fighting for Rome (MS-DOS)](https://archive.org/details/msdos_Cohort_-_Fighting_for_Rome_1991) – Release date, platforms, gameplay description, technical specifications, file size
@@ -281,5 +273,3 @@ The game is documented in various gaming databases.[^ref-7][^ref-8][^ref-9][^ref
 [^ref-14]: [Lemon Amiga – Cohort: Fighting for Rome](https://www.lemonamiga.com/games/details.php?id=347) – Amiga platform review, user ratings, screenshots
 [^ref-15]: [DOS Games Archive – Cohort: Fighting for Rome](https://www.dosgamesarchive.com/download/cohort-fighting-for-rome) – developer/publisher confirmation, category listing, download availability
 [^ref-16]: [World of Spectrum – Micro Miniatures Series](https://worldofspectrum.org/archive/software?company=impressions) – Impressions Games catalog, series context, contemporary release information
-
-[[1991 - Fort Apache]]

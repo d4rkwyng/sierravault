@@ -202,8 +202,6 @@ In the context of Sierra On-Line's history, Learning With Fuzzywomp demonstrates
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 
 [[1993 - Kids' Typing]]
-[[Kids' Typing]]
-[[Learning with FuzzyWOMP]]
 
 ## References
 

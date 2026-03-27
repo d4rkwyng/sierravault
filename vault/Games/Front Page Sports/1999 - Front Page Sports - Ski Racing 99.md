@@ -255,20 +255,6 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 [[1997 - Front Page Sports - Ski Racing]]
 
 [[1997 - Front Page Sports - Trophy Rivers]]
-[[Front Page Sports - Baseball Pro]]
-[[Front Page Sports - Baseball Pro '96]]
-[[Front Page Sports - Baseball Pro '98]]
-[[Front Page Sports - Football Pro]]
-[[Front Page Sports - Football Pro '95]]
-[[Front Page Sports - Football Pro '96]]
-[[Front Page Sports - Football Pro '97]]
-[[Front Page Sports - Football Pro '98]]
-[[Front Page Sports - Golf]]
-[[Front Page Sports - Ski Racing]]
-[[Front Page Sports - Ski Racing 99]]
-[[Front Page Sports - Trophy Rivers]]
-[[Front Page Sports Football 92]]
-[[Front Page Sports Golf - Tour Course Add-On]]
 
 ## References
 
@@ -298,5 +284,3 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release
-
-[[1997 - Front Page Sports Golf - Tour Course Add-On]]

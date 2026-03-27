@@ -230,8 +230,6 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [[1997 - Lords of the Realm II - Siege Pack]]
 
 [[2004 - Lords of the Realm III]]
-[[Lords of the Realm]]
-[[Lords of the Realm II - Siege Pack]]
 
 ## References
 

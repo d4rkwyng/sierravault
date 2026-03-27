@@ -126,16 +126,6 @@ Modern franchise revivals have pointedly ignored this entry's existence, with su
 
 Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] • [[Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] • [[Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] • [[Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] • [[Leisure Suit Larry 6: Shape Up or Slip Out!]] • [[Leisure Suit Larry: Love for Sail!]] • [[Leisure Suit Larry's Casino]] • [[Leisure Suit Larry: Magna Cum Laude]] • [[Leisure Suit Larry in the Land of the Lounge Lizards: Reloaded]] • [[Leisure Suit Larry: Wet Dreams Don't Dry]] • [[Leisure Suit Larry: Wet Dreams Dry Twice]]
 
-[[Leisure Suit Larry - Box Office Bust]]
-[[Leisure Suit Larry - Magna Cum Laude]]
-[[Leisure Suit Larry - Reloaded]]
-[[Leisure Suit Larry - Wet Dreams Don't Dry]]
-[[Leisure Suit Larry - Wet Dreams Dry Twice]]
-[[Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[Leisure Suit Larry 7 - Love for Sail]]
-[[Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 
 [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 
@@ -242,16 +232,3 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [^ref-77]: https://xbox.fandom.com/wiki/Leisure_Suit_Larry:_Box_Office_Bust - Xbox wiki with review compilation
 [^ref-78]: https://www.xboxachievements.com/game/leisure-suit-larry-box-office-bust/guide/ - Xbox achievement guide with critical commentary
 [^ref-79]: https://www.xboxachievements.com/game/leisure-suit-larry-box-office-bust/review/ - XboxAchievements comprehensive negative review
-
-[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
-[[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
-[[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)]]
-[[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]
-[[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!]]
-[[1996 - Leisure Suit Larry 7 - Love for Sail]]
-[[1998 - Leisure Suit Larry's Casino]]
-[[2004 - Leisure Suit Larry - Magna Cum Laude]]
-[[2013 - Leisure Suit Larry - Reloaded]]
-[[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
-[[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]

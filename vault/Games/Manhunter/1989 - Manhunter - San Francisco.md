@@ -222,8 +222,6 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 
 - **Next:** Manhunter 3: London (Cancelled)
 - [[1988 - Manhunter - New York|← Previous: Manhunter - New York]]
-[[Manhunter - New York]]
-[[Manhunter - San Francisco]]
 
 ## References
 
@@ -251,5 +249,3 @@ Note: The Manhunter games are not currently available on GOG or Steam. The serie
 [^ref-25]: [Sierra Gamers Forum – Why Was There Never a Third Game](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Manhunter 3 prototype, business reasons for cancellation
 [^ref-26]: [Steam Community – Manhunter Guides](https://steamcommunity.com/app/302250/guides/) – Windows 10 compatibility issues
 [^ref-27]: [Larry Laffer.net – Manhunter Shrine](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – fan patches, preservation efforts
-
-[[1988 - Manhunter - New York]]

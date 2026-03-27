@@ -224,25 +224,6 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 - [[Mark Crowe]] - Series co-creator
 
 
-[[CXL - Babylon 5 - Into the Fire]]
-
-[[CXL - Front Page Sports - Football Pro '99]]
-
-[[CXL - King's Quest IX]]
-
-[[CXL - Leisure Suit Larry 8]]
-
-[[CXL - Manhunter 3]]
-
-[[CXL - Middle-earth Online]]
-
-[[CXL - Precinct (2013)]]
-
-[[CXL - Red Baron (2013 Remake)]]
-
-[[CXL - SWAT - Urban Justice]]
-[[CXL - Space Quest VII - Return to Roman Numerals]]
-
 ## References
 
 [^ref-1]: [Sierra Chest – Space Quest 7](https://sierrachest.com/index.php?a=games&id=369&title=space-quest-7&fld=reviews) – developer, platform, unreleased status

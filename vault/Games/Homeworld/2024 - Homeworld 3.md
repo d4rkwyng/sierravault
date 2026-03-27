@@ -287,9 +287,6 @@ Perhaps most telling is Rob Cunningham's own framing of the project. When asked 
 [[2003 - Homeworld 2]]
 
 [[2015 - Homeworld Remastered Collection]]
-[[Homeworld - Cataclysm]]
-[[Homeworld - Deserts of Kharak]]
-[[Homeworld 3]]
 
 ## References
 
