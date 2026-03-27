@@ -234,6 +234,7 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Football]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information

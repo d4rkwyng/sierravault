@@ -163,6 +163,7 @@ The game's environmental message has proven timeless, with its themes of marine 
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 [[EcoQuest - Lost Secret of the Rainforest]]
 [[EcoQuest - The Search for Cetus]]
+
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/EcoQuest%3A_The_Search_for_Cetus) – Game description and educational focus

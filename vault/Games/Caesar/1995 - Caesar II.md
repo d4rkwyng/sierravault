@@ -23,7 +23,15 @@ tags: [1990s, caesar, impressions, sierra]
 
 Caesar II is a city-building strategy game that transports players to ancient Rome, where they assume the role of a provincial governor seeking to rise through the ranks to become the next Caesar. Developed by Impressions Games and published by Sierra On-Line in 1995, the game was described as "an innovative mix of SimCity-type building strategy and wargame campaign"[^ref-1] that substantially expanded upon its 1992 predecessor. As one contemporary reviewer noted, comparing it favorably to the leading simulation games of the era: "If you spent a lot of time enjoying SimCity or Civilization, expect to spend as much time, if not more, playing Caesar II"[^ref-2].
 
-The game represented a major technical leap for the series, featuring pre-rendered 3D graphics displayed within an isometric 2D engine. According to Chris Beatrice, who worked on the game's art, "at the time that game looked really good, with pre-rendered 3D graphics in an isometric 2D engine"[^ref-3]. The visual quality had a lasting impact on the industry—Beatrice revealed that "the graphics in that game inspired my now good friend Rick Goodman when he did Age of Empires. That's how we met, actually, he cold called me at Impressions and asked how we were able to find such great artists"[^ref-3]. Caesar II offered "gorgeous graphics and a much-improved interface, plus extra buildings, 'walkers' who'd wander your city streets, a built-in combat mode, and the option to invade unfriendly settlements on the provincial map"[^ref-4].
+The game represented a major technical leap for the series, featuring pre-rendered 3D graphics displayed within an isometric 2D engine.
+
+According to Chris Beatrice, who worked on the game's art, "at the time that game looked really good, with pre-rendered 3D graphics in an isometric 2D engine"[^ref-3].
+
+The visual quality had a lasting impact on the industry—Beatrice revealed that "the graphics in that game inspired my now good friend Rick Goodman when he did Age of Empires.
+
+That's how we met, actually, he cold called me at Impressions and asked how we were able to find such great artists"[^ref-3].
+
+Caesar II offered "gorgeous graphics and a much-improved interface, plus extra buildings, 'walkers' who'd wander your city streets, a built-in combat mode, and the option to invade unfriendly settlements on the provincial map"[^ref-4].
 
 > [!info]- Game Info
 > **Developer:** Impressions Games[^ref-5]
@@ -142,6 +150,7 @@ An active fan community has maintained interest in Caesar II through dedicated w
 - [[1998 - Caesar III|→ Next: Caesar III]]
 
 [[2006 - Caesar IV]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Caesar II](https://en.wikipedia.org/wiki/Caesar_II) – Review scores, awards, sales figures, development history

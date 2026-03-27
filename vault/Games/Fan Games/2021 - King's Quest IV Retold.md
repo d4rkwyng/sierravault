@@ -261,6 +261,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, version details, technical specs, user reviews, download statistics, bugs

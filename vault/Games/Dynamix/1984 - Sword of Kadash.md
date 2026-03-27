@@ -225,6 +225,7 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 [[David Wolf - Secret Agent]]
 [[Sierra Soccer - World Challenge Edition]]
 [[Sword of Kadash]]
+
 ## References
 
 [^ref-1]: [Commodore Fandom Wiki – Sword of Kadash](https://commodore.fandom.com/wiki/Sword_of_Kadash) – development history, Chris Cole quotes, design influences, personnel credits

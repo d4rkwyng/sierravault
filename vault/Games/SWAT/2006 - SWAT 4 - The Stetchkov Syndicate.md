@@ -291,6 +291,7 @@ Tragically, The Stetchkov Syndicate would prove to be the final entry in the SWA
 [[SWAT 3 - Close Quarters Battle]]
 [[SWAT 4 - The Stetchkov Syndicate]]
 [[SWAT Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – SWAT 4](https://en.wikipedia.org/wiki/SWAT_4) – release dates, developer, publisher, engine information

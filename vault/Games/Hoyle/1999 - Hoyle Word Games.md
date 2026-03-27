@@ -322,6 +322,7 @@ The game's integration of Won.net online play was forward-thinking for 1999, tho
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
 [[Hoyle Word Games]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Series information, developer, publisher, release year

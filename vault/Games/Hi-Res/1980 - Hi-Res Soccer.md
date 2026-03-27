@@ -169,6 +169,7 @@ The game also represents an interesting footnote in Sierra's corporate history, 
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [MobyGames - Hi-Res Soccer](https://www.mobygames.com/game/77451/hi-res-soccer/) – - Developer and designer information

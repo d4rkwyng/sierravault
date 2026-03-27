@@ -208,6 +208,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Hi-Res Adventure #3: Cranston Manor](https://en.wikipedia.org/wiki/Hi-Res_Adventure_%233%3A_Cranston_Manor) – series history, release date, developer information

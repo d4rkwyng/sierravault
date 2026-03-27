@@ -297,6 +297,7 @@ While *MechWarrior 2* would ultimately become the genre's defining title, *Earth
 [[2002 - Tribes - Aerial Assault]]
 
 [[2024 - Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: EarthSiege - Expansion Pack](https://www.mobygames.com/game/24568/metaltech-earthsiege-expansion-pack/) – Development information, release date, plot summary

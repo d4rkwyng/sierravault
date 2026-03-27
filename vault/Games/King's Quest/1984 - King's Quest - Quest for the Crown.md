@@ -23,7 +23,13 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 
 ## Overview
 
-King's Quest: Quest for the Crown is a landmark adventure game that pioneered the animated graphic adventure genre and established Sierra On-Line as the premier adventure game developer of the 1980s[^ref-1][^ref-2]. Originally commissioned by IBM to showcase their PCjr home computer and released in May 1984, the game introduced players to the kingdom of Daventry and protagonist Sir Graham, a brave knight tasked with recovering three stolen magical treasures to inherit the throne from the dying King Edward[^ref-3][^ref-4]. Electronic Games magazine proclaimed it "a major breakthrough in action-adventure games" that "blows everything away"[^ref-5]. The title's revolutionary combination of animated graphics, text parser input, and explorable environments set new standards for interactive entertainment and spawned one of gaming's most influential franchises[^ref-6].
+King's Quest: Quest for the Crown is a landmark adventure game that pioneered the animated graphic adventure genre and established Sierra On-Line as the premier adventure game developer of the 1980s[^ref-1][^ref-2].
+
+Originally commissioned by IBM to showcase their PCjr home computer and released in May 1984, the game introduced players to the kingdom of Daventry and protagonist Sir Graham, a brave knight tasked with recovering three stolen magical treasures to inherit the throne from the dying King Edward[^ref-3][^ref-4].
+
+Electronic Games magazine proclaimed it "a major breakthrough in action-adventure games" that "blows everything away"[^ref-5].
+
+The title's revolutionary combination of animated graphics, text parser input, and explorable environments set new standards for interactive entertainment and spawned one of gaming's most influential franchises[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -280,6 +286,7 @@ Series: [[King's Quest II: Romancing the Throne]] • [[King's Quest III: To Hei
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [The Strong Museum – King's Quest Hall of Fame](https://www.museumofplay.org/games/kings-quest/) – – 2020 World Video Game Hall of Fame induction, genre influence quote

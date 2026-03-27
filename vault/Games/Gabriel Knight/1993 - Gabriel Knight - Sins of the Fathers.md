@@ -363,6 +363,7 @@ Series: [[The Beast Within: A Gabriel Knight Mystery]] • [[Gabriel Knight 3: B
 [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 [[TBD - Gabriel Knight 4 - Five Hearts]]
+
 ## References
 
 [^ref-1]: [MobyGames – Gabriel Knight: Sins of the Fathers](https://www.mobygames.com/game/542/gabriel-knight-sins-of-the-fathers/) — Comprehensive database with credits, ratings, and release info

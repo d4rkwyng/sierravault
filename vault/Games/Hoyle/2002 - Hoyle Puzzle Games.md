@@ -318,6 +318,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Metacritic – Hoyle Puzzle Games](https://www.metacritic.com/game/hoyle-puzzle-games/) – release date, developer, publisher, ESRB rating, game features, review status

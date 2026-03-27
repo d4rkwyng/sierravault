@@ -228,6 +228,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – development history, BYTE review, awards, sales information, team size

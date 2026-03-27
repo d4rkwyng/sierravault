@@ -328,6 +328,7 @@ For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the 
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – credits, ratings, game description, character details

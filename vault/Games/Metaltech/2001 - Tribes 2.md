@@ -134,6 +134,7 @@ The community created extensive modifications and content, including approximate
 [[Tribes - Aerial Assault]]
 [[Tribes 2]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Internet Archive - Tribes 2 Ultimate Pack](https://archive.org/details/Tribes2UltimateGamePack) - Basic game description and sequel relationship

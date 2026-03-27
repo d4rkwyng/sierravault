@@ -271,6 +271,7 @@ For modern players, E.S.S. holds value primarily as a historical curiosity—"on
 [[ESS - European Space Simulator]]
 [[Emmanuelle]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [MobyGames – E.S.S.](https://www.mobygames.com/game/50218/ess/) – developer, publisher, platforms, release dates, ratings, gameplay description

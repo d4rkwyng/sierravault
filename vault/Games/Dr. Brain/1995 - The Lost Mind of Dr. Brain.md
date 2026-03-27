@@ -224,6 +224,7 @@ The game's focus on Dr. Howard Gardner's Theory of Multiple Intelligences was ah
 [[Dr. Brain Thinking Games - Puzzle Madness]]
 [[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 [[The Lost Mind of Dr. Brain]]
+
 ## References
 
 [^ref-1]: [Wikipedia – The Lost Mind of Dr. Brain](https://en.wikipedia.org/wiki/The_Lost_Mind_of_Dr._Brain) – release dates, developers, designers, composers, platforms, awards, Next Generation review

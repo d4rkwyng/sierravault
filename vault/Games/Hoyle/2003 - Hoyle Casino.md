@@ -339,6 +339,7 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/245729/hoyle-casino/) – release date, developer, publisher, platforms, media format

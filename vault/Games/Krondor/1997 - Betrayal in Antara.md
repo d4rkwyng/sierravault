@@ -124,6 +124,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [[1993 - Betrayal at Krondor]]
 
 [[1998 - Return to Krondor]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Betrayal in Antara](https://en.wikipedia.org/wiki/Betrayal_in_Antara) – - Basic game information and development details

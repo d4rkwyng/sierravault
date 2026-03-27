@@ -308,6 +308,7 @@ Series composer Paul Ruskay created the atmospheric score with minimal resources
 [[Homeworld]]
 [[Homeworld - Cataclysm]]
 [[Homeworld - Deserts of Kharak]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld](https://en.wikipedia.org/wiki/Homeworld) – release date, developer, platforms, Alex Garden quote about genre

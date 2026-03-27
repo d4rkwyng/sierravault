@@ -308,6 +308,7 @@ From a preservation standpoint, the game's Windows XP-era compatibility requirem
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2007 Data](https://gamefaqs.gamespot.com/pc/935110-hoyle-casino-2007/data) – release date, developer, publisher, ESRB rating, related games

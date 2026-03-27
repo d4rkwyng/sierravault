@@ -82,6 +82,7 @@ tags: [1980s, shooter, sierra, standalone]
 [[Silpheed]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 Silpheed is a groundbreaking vertical scrolling shooter that debuted on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western audiences by Sierra On-Line in 1988-1989.[^ref-1][^ref-2] Developed by Game Arts, the game pioneered the use of real-time 3D polygonal graphics and a tilted third-person perspective, making it one of the most technically ambitious titles of the 8-bit era.[^ref-3][^ref-4] The game was notable for being one of the first to use music as a major selling point, featuring a phenomenal soundtrack that pushed perceptions of what computer game audio could achieve.[^ref-5][^ref-6]

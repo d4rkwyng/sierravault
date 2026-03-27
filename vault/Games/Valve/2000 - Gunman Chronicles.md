@@ -297,6 +297,7 @@ Despite its troubled development and lukewarm critical reception, Gunman Chronic
 [[Gunman Chronicles]]
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Gunman Chronicles](https://en.wikipedia.org/wiki/Gunman_Chronicles) – release dates, developer, publisher, engine, platforms, reception scores

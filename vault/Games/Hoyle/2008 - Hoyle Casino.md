@@ -309,6 +309,7 @@ The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Amazon UK – Hoyle Casino 2008](https://www.amazon.co.uk/Hoyle-Casino-2008-OLD-VERSION/dp/B000TKB28K) – customer reviews, product description, publisher info, platform compatibility

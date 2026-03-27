@@ -226,6 +226,7 @@ The game also illustrates the challenges faced by flight simulation developers i
 [[1997 - Red Baron II]]
 [[Curse You! Red Baron]]
 [[Red Baron - Mission Builder]]
+
 ## References
 
 [^ref-1]: [MobyGames – Curse You! Red Baron](https://www.mobygames.com/game/9020/curse-you-red-baron/) – developer, publisher, ratings, series information, release year

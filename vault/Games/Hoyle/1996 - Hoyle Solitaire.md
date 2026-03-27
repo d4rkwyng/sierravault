@@ -390,6 +390,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Solitaire](https://www.mobygames.com/game/1232/hoyle-solitaire/) – release dates, credits, ratings, game description

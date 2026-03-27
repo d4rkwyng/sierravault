@@ -208,6 +208,7 @@ In retrospect, SWAT Force serves as a time capsule of mid-2000s mobile gaming[^r
 [[2003 - SWAT - Global Strike Team]]
 
 [[2005 - SWAT 4]]
+
 ## References
 
 [^ref-1]: [Wikipedia – SWAT Force](https://en.wikipedia.org/wiki/SWAT_Force) – release date, developer, publisher, aggregate scores, first mobile Police Quest game

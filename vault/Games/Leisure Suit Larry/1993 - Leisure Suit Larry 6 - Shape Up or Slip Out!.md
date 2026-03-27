@@ -206,6 +206,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: https://gamesnostalgia.com/game/leisure-suit-larry-6-shape-up-or-slip-out - Gaming nostalgia website noting this is the fifth entry despite being numbered 6

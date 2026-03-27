@@ -327,6 +327,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, features, technical specifications, description, ratings

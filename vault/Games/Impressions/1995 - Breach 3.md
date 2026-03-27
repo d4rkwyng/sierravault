@@ -255,6 +255,7 @@ The series is perhaps best remembered today as a companion piece to Rules of Eng
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-2]: [MobyGames – Breach 3](https://www.mobygames.com/game/4263/breach-3/) – gameplay description, platform, release year, perspective details

@@ -36,7 +36,13 @@ Ultimate Soccer Manager 2 was "a massive hit in Europe" according to contemporar
 
 ## Story Summary
 
-Ultimate Soccer Manager 2 places players in the role of a football club manager with comprehensive control over all aspects of running a professional football team. The game includes a notable disclaimer stating "This is a fantasy game. The use of real names for players, managers and clubs does not imply and should not be taken to imply... that any of them have engaged or are liable to engage in any corrupt practice"[^ref-6]. This disclaimer relates to the game's controversial inclusion of match-fixing mechanics, where "theoretically, you could bet on your team to lose a match you're expected to win, and then field a weakened line-up to 'throw' said match and generate a tidy profit"[^ref-6]. This dark gameplay option reflected real-world concerns about corruption in football, though it was primarily included as an optional mechanic for players exploring the ethical boundaries of management. The career narrative unfolds across potentially dozens of in-game seasons, with players building dynasties, developing youth academies, and navigating the complex relationships between clubs, players, agents, and media. Success requires balancing short-term competitive goals against long-term financial stability and squad development.
+Ultimate Soccer Manager 2 places players in the role of a football club manager with comprehensive control over all aspects of running a professional football team. The game includes a notable disclaimer stating "This is a fantasy game. The use of real names for players, managers and clubs does not imply and should not be taken to imply... that any of them have engaged or are liable to engage in any corrupt practice"[^ref-6].
+
+This disclaimer relates to the game's controversial inclusion of match-fixing mechanics, where "theoretically, you could bet on your team to lose a match you're expected to win, and then field a weakened line-up to 'throw' said match and generate a tidy profit"[^ref-6].
+
+This dark gameplay option reflected real-world concerns about corruption in football, though it was primarily included as an optional mechanic for players exploring the ethical boundaries of management. The career narrative unfolds across potentially dozens of in-game seasons, with players building dynasties, developing youth academies, and navigating the complex relationships between clubs, players, agents, and media.
+
+Success requires balancing short-term competitive goals against long-term financial stability and squad development.
 
 ## Gameplay
 
@@ -69,7 +75,13 @@ The management simulation extends beyond the pitch to encompass all aspects of r
 
 ## Training System
 
-The training system in Ultimate Soccer Manager 2 represented one of the game's most detailed features. Players could assign individual training regimens to improve specific attributes like tackling, passing, shooting, and stamina. The discovery that players could "select players to train as you usually would if you had coaches" and improve "by one point each week" even without hiring coaches[^ref-9] provided a cost-effective method for player development. This depth of customization allowed managers to shape their squads according to tactical preferences, developing specialists for specific roles or well-rounded players capable of filling multiple positions. Youth development programs enabled long-term planning, with promising youngsters potentially becoming first-team regulars after several seasons of careful nurturing.
+The training system in Ultimate Soccer Manager 2 represented one of the game's most detailed features.
+
+Players could assign individual training regimens to improve specific attributes like tackling, passing, shooting, and stamina. The discovery that players could "select players to train as you usually would if you had coaches" and improve "by one point each week" even without hiring coaches[^ref-9] provided a cost-effective method for player development.
+
+This depth of customization allowed managers to shape their squads according to tactical preferences, developing specialists for specific roles or well-rounded players capable of filling multiple positions.
+
+Youth development programs enabled long-term planning, with promising youngsters potentially becoming first-team regulars after several seasons of careful nurturing.
 
 ## Reception
 
@@ -132,6 +144,7 @@ The series' legacy lies in its contribution to the football management genre dur
 [[1998 - Ultimate Soccer Manager 98]]
 
 [[1999 - Ultimate Soccer Manager 98-99]]
+
 ## References
 
 [^ref-1]: [MobyGames - Ultimate Soccer Manager 2](https://www.mobygames.com/game/20701/ultimate-soccer-manager-2/) – - Basic game information, developers, publishers, and designers

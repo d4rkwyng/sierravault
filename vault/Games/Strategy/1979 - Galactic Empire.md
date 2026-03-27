@@ -213,6 +213,7 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [[Birthright - The Gorgon's Alliance]]
 [[Galactic Empire]]
 [[V for Victory - D-Day Utah Beach]]
+
 ## References
 
 [^ref-1]: [MobyGames – Galactic Empire (1979)](https://www.mobygames.com/game/53448/galactic-empire/) – release dates, platforms, developer credits, technical specifications, ratings

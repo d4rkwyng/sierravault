@@ -126,7 +126,9 @@ The developers removed the "Hoyle Bucks" virtual currency system that had appear
 - **RAM:** 1 GB
 - **Storage:** 1 GB
 - **GPU:** 512 MB VRAM, DirectX 9.0c compatible
-- **Download Size:** 346.27 MB[^ref-10]
+-
+
+**Download Size:** 346.27 MB[^ref-10]
 - **Installed Size:** 354.84 MB[^ref-10]
 
 **macOS Version:**[^ref-5]
@@ -135,7 +137,9 @@ The developers removed the "Hoyle Bucks" virtual currency system that had appear
 - **RAM:** 1 GB
 - **Storage:** 1 GB
 - **GPU:** 256 MB VRAM
-- **Download Size:** 370.59 MB[^ref-10]
+-
+
+**Download Size:** 370.59 MB[^ref-10]
 - **Installed Size:** 383.18 MB[^ref-10]
 
 **Display Options:**
@@ -349,6 +353,7 @@ Historically, the Hoyle series holds significance as one of Sierra's earliest ca
 [[2008 - Hoyle Puzzle and Board Games]]
 
 [[2011 - Hoyle Puzzle and Board Games]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, original Sierra development, franchise origins, trivia about Edmond Hoyle, Computer Gaming World review quotes, sales data, 2019 re-release information

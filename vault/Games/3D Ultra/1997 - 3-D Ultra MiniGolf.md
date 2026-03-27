@@ -260,6 +260,7 @@ The closure of Dynamix in 2001 and the subsequent gap before 3D Ultra Minigolf A
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [MobyGames - 3D Ultra Minigolf](https://www.mobygames.com/game/9145/3d-ultra-minigolf/) — Game credits, developer info, platform details

@@ -82,6 +82,7 @@ tags: [1980s, adventure, sierra, standalone]
 [[Slater & Charlie Go Camping]]
 [[Softporn Adventure]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 Softporn Adventure is a comedic, adult-oriented text adventure game released in 1981, notable for being the only pure text adventure ever published by Sierra (then known as On-Line Systems).[^ref-1] Created by Chuck Benton as a programming exercise to teach himself Applesoft BASIC, the game became an unexpected commercial success and cultural phenomenon that would later inspire the beloved Leisure Suit Larry series.[^ref-2] Set in the fictional city of "Lost Vagueness" in a dystopian vision of the year 2020 A.D., the game tasks players with seducing three different women while navigating a world of bars, casinos, and discos.[^ref-3]

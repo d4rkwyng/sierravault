@@ -22,7 +22,15 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 
 ## Overview
 
-King's Quest VI: Heir Today, Gone Tomorrow is widely regarded as the finest entry in Sierra's flagship adventure series, representing a remarkable leap forward in storytelling, puzzle design, and production values[^ref-1][^ref-2]. Released on October 13, 1992, the game marked a pivotal collaboration between series creator Roberta Williams and newcomer Jane Jensen, whose partnership would reshape Sierra's approach to adventure game design[^ref-3]. Prince Alexander journeys to the Land of the Green Isles to rescue Princess Cassima from the schemes of the sinister Vizier Abdul Alhazred, exploring five distinct islands drawn from fairy tale and mythological traditions[^ref-4]. Dragon Magazine declared it "the best King's Quest game yet and certainly one of the best adventure games on the market"[^ref-5]. With a budget exceeding $700,000, professional voice acting, and Sierra's first implementation of lip-sync technology, the game became a landmark release that dominated sales charts through Christmas 1992 and proved "the era of CD game playing is upon us"[^ref-6][^ref-7].
+King's Quest VI: Heir Today, Gone Tomorrow is widely regarded as the finest entry in Sierra's flagship adventure series, representing a remarkable leap forward in storytelling, puzzle design, and production values[^ref-1][^ref-2].
+
+Released on October 13, 1992, the game marked a pivotal collaboration between series creator Roberta Williams and newcomer Jane Jensen, whose partnership would reshape Sierra's approach to adventure game design[^ref-3].
+
+Prince Alexander journeys to the Land of the Green Isles to rescue Princess Cassima from the schemes of the sinister Vizier Abdul Alhazred, exploring five distinct islands drawn from fairy tale and mythological traditions[^ref-4].
+
+Dragon Magazine declared it "the best King's Quest game yet and certainly one of the best adventure games on the market"[^ref-5].
+
+With a budget exceeding $700,000, professional voice acting, and Sierra's first implementation of lip-sync technology, the game became a landmark release that dominated sales charts through Christmas 1992 and proved "the era of CD game playing is upon us"[^ref-6][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
@@ -362,6 +370,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [Adventure Gamers – King's Quest VI](https://adventuregamers.com/games/kings-quest-vi-heir-today-gone-tomorrow) – – 4.5/5 Excellent rating, #3 Top 20 All-Time, "best game Sierra gave us" verdict

@@ -275,6 +275,7 @@ For players seeking Roman city-building experiences, Caesar IV remains relevant 
 [[1992 - Caesar]]
 
 [[1995 - Caesar II]]
+
 ## References
 
 [^ref-2]: [Wikipedia – Caesar IV](https://en.wikipedia.org/wiki/Caesar_IV) – release dates, developer, publisher, platforms, engine

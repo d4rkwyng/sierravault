@@ -83,7 +83,15 @@ The game was dedicated "to the memory of Dariusz Lukaszuk (1964-1995)," a touchi
 
 ### Production
 
-The game was directed by Mark Crowe (known for his work on Space Quest), with Frank Evers serving as producer[^ref-1]. The lead programmer was Paul Bowman, with Robert Caracol handling art direction[^ref-1]. The development team included extensive voice talent, with actors such as Sam A. Mowry as narrator, Tammie Andreas as computer voice, and numerous pilots and base commanders voiced by performers including Celeste Yarnall, John Rice, Gary Bullock, Brett Harman, and Billy Long[^ref-1]. The voice cast for pilots included Mark C. Lawrence, John Clayton Shafer, Erika Klein, Doug Larson, Jeffrey Parker, Patricia Roseman, Kiki Shephard, Glen Steele, Kim Sweeney, and Dave Van Maren[^ref-1]. The game's music was composed by Christopher Stevens, Timothy Steven Clarke, and the group Loudmouth[^ref-23].
+The game was directed by Mark Crowe (known for his work on Space Quest), with Frank Evers serving as producer[^ref-1].
+
+The lead programmer was Paul Bowman, with Robert Caracol handling art direction[^ref-1].
+
+The development team included extensive voice talent, with actors such as Sam A. Mowry as narrator, Tammie Andreas as computer voice, and numerous pilots and base commanders voiced by performers including Celeste Yarnall, John Rice, Gary Bullock, Brett Harman, and Billy Long[^ref-1].
+
+The voice cast for pilots included Mark C. Lawrence, John Clayton Shafer, Erika Klein, Doug Larson, Jeffrey Parker, Patricia Roseman, Kiki Shephard, Glen Steele, Kim Sweeney, and Dave Van Maren[^ref-1].
+
+The game's music was composed by Christopher Stevens, Timothy Steven Clarke, and the group Loudmouth[^ref-23].
 
 One development challenge was Sierra On-Line's location—a recruiter noted that "No A player wants to move to Oakhurst," referring to Sierra's small-town California headquarters[^ref-22]. Despite this, Dynamix produced a technically impressive title that would influence the mech simulation genre.
 
@@ -162,6 +170,7 @@ Despite its technical issues, the game earned devoted fans who remember it fondl
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - EarthSiege 2](https://dynamix.fandom.com/wiki/EarthSiege_2) – - Development and publication details

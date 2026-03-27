@@ -230,6 +230,7 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 
 
 [[1983 - Oils Well]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Oil's Well (1990)](https://archive.org/details/msdos_Oils_Well_1990) – preservation entry, basic metadata, description

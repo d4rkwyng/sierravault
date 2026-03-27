@@ -169,6 +169,7 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [3-D Ultra Pinball: Creep Night - Wikipedia](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Creep_Night) - Review scores, reception details, and development information

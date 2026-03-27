@@ -264,6 +264,7 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Space Quest: The Lost Chapter (AGI)](https://archive.org/details/agi_space-quest-x-the-lost-chapter) – release date, engine, graphics style, death system, game description

@@ -285,6 +285,7 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 [[1998 - Sierra Sports Skiing 1999 Edition]]
 
 [[1999 - Professional Bull Rider]]
+
 ## References
 
 [^ref-1]: [MobyGames – Driver's Education '98](https://www.mobygames.com/game/21374/drivers-education-98/) – development credits, technical specifications, genre classification

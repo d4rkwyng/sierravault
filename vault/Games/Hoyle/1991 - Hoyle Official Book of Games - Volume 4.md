@@ -306,6 +306,7 @@ Internet Archive hosts verified copies of both the DOS and Windows versions for 
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/CLASSIC_201803) - Release year and series information

@@ -125,7 +125,9 @@ The use of the RenderWare engine allowed Coktel Vision to deliver a consistent v
 
 **PC Version:**[^ref-9]
 - **Supported OS:** Windows 98, Windows 2000, Windows NT, Windows Me, Windows XP
-- **Download Size:** 619.3 MB[^ref-13]
+-
+
+**Download Size:** 619.3 MB[^ref-13]
 
 ### Technical Issues
 
@@ -187,6 +189,7 @@ Retrospectively, the game serves as a nostalgic touchstone for a generation who 
 [[Adiboo - Magical Playland]]
 [[Adiboo - Paziral's Secret]]
 [[Adiboo and the Energy Thieves]]
+
 ## References
 
 [^ref-1]: [MobyGames – The Energy Thieves](https://www.mobygames.com/game/138556/the-energy-thieves/) – developer, publisher, engine, credits, game description, designer credits

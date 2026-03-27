@@ -123,6 +123,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 ## Purchase
 
 **Digital Stores**
+
 ## Purchase
 
 **Purchase / Digital Stores**
@@ -168,6 +169,7 @@ In 2009, Mystery House was ported to iOS, introducing the pioneering title to a 
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Mystery_House) – Comprehensive article on Mystery House

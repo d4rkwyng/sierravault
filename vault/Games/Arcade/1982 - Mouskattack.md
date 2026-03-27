@@ -213,6 +213,7 @@ The game's classification as a "Pac Man variant" by multiple sources reflects bo
 [[1983 - WallWar]]
 [[Mouskattack]]
 [[WallWar]]
+
 ## References
 
 [^ref-1]: [LaunchBox Games Database – On-Line Systems Publishers](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release dates, platforms, community ratings

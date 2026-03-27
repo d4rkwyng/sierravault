@@ -259,6 +259,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [[David Wolf - Secret Agent]]
 [[Heart of China]]
 [[Sierra Soccer - World Challenge Edition]]
+
 ## References
 
 [^ref-3]: [Wikipedia – Heart of China](https://en.wikipedia.org/wiki/Heart_of_China) – developer, publisher, release information, design credits

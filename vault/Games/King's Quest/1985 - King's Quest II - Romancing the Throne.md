@@ -255,6 +255,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest III: To Heir Is
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [MobyGames – King's Quest II: Romancing the Throne](https://www.mobygames.com/game/123/kings-quest-ii-romancing-the-throne/) — Comprehensive database entry with credits, ratings, and platform information

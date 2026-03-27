@@ -283,6 +283,7 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 - [[2002 - Empire Earth - The Art of Conquest|→ Next: Empire Earth - The Art of Conquest]]
 [[Empire Earth]]
 [[Empire Earth - The Art of Conquest]]
+
 ## References
 
 [^ref-1]: [MobyGames – Empire Earth](https://www.mobygames.com/game/5374/empire-earth/) – release date, developer, publisher information

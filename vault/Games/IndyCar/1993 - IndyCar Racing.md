@@ -229,6 +229,7 @@ The game's influence extends beyond its own success. Papyrus went on to create N
 - [[1995 - IndyCar Racing II|→ Next: IndyCar Racing II]]
 
 [[1997 - CART Racing]]
+
 ## References
 
 [^ref-1]: [MobyGames – IndyCar Racing](https://www.mobygames.com/game/983/indycar-racing/) – developer, publisher, platforms, ratings, awards, expansion packs, technical details, voice cast

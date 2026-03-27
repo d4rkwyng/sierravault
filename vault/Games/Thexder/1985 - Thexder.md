@@ -131,6 +131,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 [[Fire Hawk - Thexder - The Second Contact]]
 [[Thexder]]
 [[Thexder Neo]]
+
 ## References
 
 [^ref-1]: [MobyGames - Thexder](https://www.mobygames.com/game/49/thexder/) – - Developer and publisher information

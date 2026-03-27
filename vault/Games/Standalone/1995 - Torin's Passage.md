@@ -166,6 +166,7 @@ Al Lowe has stated that while "Torin wasn't my best-selling game, it's probably 
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
 [[Torin's Passage]]
+
 ## References
 
 [^ref-1]: [MobyGames - Torin's Passage](https://www.mobygames.com/game/1228/torins-passage/) – - Release year and developer information

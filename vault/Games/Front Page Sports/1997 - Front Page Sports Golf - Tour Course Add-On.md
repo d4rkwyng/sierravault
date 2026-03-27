@@ -270,6 +270,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Golf](https://en.wikipedia.org/wiki/Front_Page_Sports:_Golf) – release dates, developers, publishers, designers, composers, critical reception, development history, technical details, known issues

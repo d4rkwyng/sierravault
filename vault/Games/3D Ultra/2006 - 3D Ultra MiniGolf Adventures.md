@@ -269,6 +269,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – release dates, developer, publisher, gameplay mechanics, course editor features

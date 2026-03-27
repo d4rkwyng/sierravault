@@ -235,6 +235,7 @@ The game's most significant contribution to gaming history may be its innovative
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Cohort II](https://www.mobygames.com/game/2914/cohort-ii/) – developer, publisher, platforms, technical specs, series information, trivia

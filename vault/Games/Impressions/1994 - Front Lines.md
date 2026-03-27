@@ -244,6 +244,7 @@ The game is documented in gaming databases.[^ref-7][^ref-8][^ref-9][^ref-10]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Front Lines]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Front Lines](https://www.mobygames.com/game/4347/front-lines/) – developer, publisher, designer credits, platform, media formats, aggregate rating, Amiga port information

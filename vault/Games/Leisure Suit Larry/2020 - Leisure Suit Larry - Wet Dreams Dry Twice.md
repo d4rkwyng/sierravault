@@ -162,6 +162,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2013 - Leisure Suit Larry - Reloaded]]
 
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
+
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Wet+Dreams+Dry+Twice) – - Search results page

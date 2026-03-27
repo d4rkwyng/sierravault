@@ -116,7 +116,19 @@ Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 30
 
 Homeworld: Cataclysm was nominated for several industry awards, including Strategy Game of the Year by Computer Gaming World and GameSpot, as well as graphics and strategy game awards from The Electric Playground[^ref-1]. Brian Rubin of Space Game Junkie noted "I've been told many a time it's the best in the series"[^ref-48]. Many fans and critics consider it the better sequel compared to Homeworld 2[^ref-45]. Despite critical acclaim, the game's legacy was complicated by the loss of its source code, preventing it from being included in later Homeworld remasters[^ref-28].
 
-According to a 2013 forum post, "Cataclysm's gone. No backups exist of its sourcecode afaik. Relic didn't consider it canon anyway"[^ref-19]. Code copies had originally existed at Barking Dog, Relic, and Sierra, but "all original code assets are lost - Sierra's gone, Barking Dog's gone"[^ref-48]. Potential backups may exist on Rockstar servers since Barking Dog was acquired by Take-Two Interactive in 2002 and renamed Rockstar Vancouver[^ref-21]. Gearbox Software's Brian Martel confirmed in 2015: "We don't know where it exists. We would love to do something with the game"[^ref-28]. However, GOG.com successfully released the game in 2017 as "Homeworld: Emergence" (renamed due to Blizzard trademarking "Cataclysm" for their World of Warcraft expansion)[^ref-54], suggesting some version was recovered. User reactions expressed surprise: "Everyone thought the source code for Cataclysm was lost, even Gearbox itself"[^ref-3].
+According to a 2013 forum post, "Cataclysm's gone. No backups exist of its sourcecode afaik.
+
+Relic didn't consider it canon anyway"[^ref-19].
+
+Code copies had originally existed at Barking Dog, Relic, and Sierra, but "all original code assets are lost - Sierra's gone, Barking Dog's gone"[^ref-48].
+
+Potential backups may exist on Rockstar servers since Barking Dog was acquired by Take-Two Interactive in 2002 and renamed Rockstar Vancouver[^ref-21].
+
+Gearbox Software's Brian Martel confirmed in 2015: "We don't know where it exists. We would love to do something with the game"[^ref-28].
+
+However, GOG.com successfully released the game in 2017 as "Homeworld: Emergence" (renamed due to Blizzard trademarking "Cataclysm" for their World of Warcraft expansion)[^ref-54], suggesting some version was recovered.
+
+User reactions expressed surprise: "Everyone thought the source code for Cataclysm was lost, even Gearbox itself"[^ref-3].
 
 The game's canonical status within the Homeworld universe remains ambiguous. Dan Irish, Homeworld 2 Executive Producer, stated that "the events of Cataclysm are not mentioned in Homeworld 2, but they are accepted as having occurred," while Gearbox has indicated that "Cataclysm will be canon when it is necessary to progress the story"[^ref-2]. The game spawned a devoted community, including fan-created comic strips known as "Catatoons" that were created by a community member named Troff[^ref-55]. Modding efforts continue today, including a "Cataclysm Remastered" project that ports the game into the Homeworld Remastered engine[^ref-56].
 
@@ -141,6 +153,7 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [[2024 - Homeworld 3]]
 [[Homeworld - Cataclysm]]
 [[Homeworld - Deserts of Kharak]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Homeworld: Cataclysm](https://en.wikipedia.org/wiki/Homeworld:_Cataclysm) – - Basic game information and development details

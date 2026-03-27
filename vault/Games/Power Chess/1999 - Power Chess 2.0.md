@@ -177,6 +177,7 @@ The series is perhaps best remembered for its educational features rather than i
 [[1996 - Power Chess]]
 
 [[1998 - Power Chess 98]]
+
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 2.0](https://mobygames.com/game/power-chess-20) – release date, developer, publisher, ratings, AI personalities, technical specs, multiplayer options

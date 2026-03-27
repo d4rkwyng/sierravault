@@ -38,7 +38,17 @@ The game focuses on the happiness and survival of the colonists - the last remai
 
 The story begins after Earth has been devastated by an asteroid impact, forcing the last survivors to journey to a distant planet called New Terra[^ref-9]. The game's backstory reveals that "the earth, is dead. As the asteroid fragments landed, the last few survivors departed the solar system, seeking a new home among the stars"[^ref-10]. The colonists' situation becomes desperate when their secret terraforming experiments produce a deadly side effect - a mutated microbe spreading through the planet's crust that scientists call the "Blight"[^ref-6].
 
-The narrative is driven by survival missions where players must evacuate colonies as disasters strike. Early missions involve urgent evacuations with briefings stating "Something has gone horribly wrong. We must evacuate the colony immediately"[^ref-6]. The story explores themes of human survival and the consequences of scientific experimentation, as the colonists must deal with contaminated expeditions where "once our units enter the infected area, they will be carriers of the Blight"[^ref-6]. The game's tagline "Extinction is not an option" underscores the desperate nature of humanity's struggle for survival[^ref-11]. The dual campaign structure allows players to experience the conflict from both Plymouth and Eden perspectives, revealing different aspects of the overarching narrative and the ideological differences driving the factions apart. Character development through mission briefings adds emotional weight to what could otherwise feel like abstract colony management, making players invested in the fate of humanity's last survivors.
+The narrative is driven by survival missions where players must evacuate colonies as disasters strike.
+
+Early missions involve urgent evacuations with briefings stating "Something has gone horribly wrong. We must evacuate the colony immediately"[^ref-6].
+
+The story explores themes of human survival and the consequences of scientific experimentation, as the colonists must deal with contaminated expeditions where "once our units enter the infected area, they will be carriers of the Blight"[^ref-6].
+
+The game's tagline "Extinction is not an option" underscores the desperate nature of humanity's struggle for survival[^ref-11].
+
+The dual campaign structure allows players to experience the conflict from both Plymouth and Eden perspectives, revealing different aspects of the overarching narrative and the ideological differences driving the factions apart.
+
+Character development through mission briefings adds emotional weight to what could otherwise feel like abstract colony management, making players invested in the fate of humanity's last survivors.
 
 ## Gameplay
 
@@ -74,7 +84,13 @@ The Blight mechanic creates escalating tension throughout the campaign. This spr
 
 ## Research Tree
 
-The research system in Outpost 2 offered extensive technological development paths tailored to each faction's philosophy. Plymouth and Eden maintained distinct tech trees, with Plymouth emphasizing mobility and adaptability while Eden focused on fortified defense and resource efficiency. Research priorities significantly impacted gameplay, as certain technologies unlocked powerful units or critical infrastructure improvements. The branching structure forced meaningful choices, as pursuing one research path meant delaying others. Advanced technologies required prerequisite discoveries, creating satisfying progression as colonies evolved from basic survival operations to sophisticated civilizations capable of escaping the doomed planet. The research system complemented the survival narrative, as technological advancement represented humanity's best hope for outliving the Blight.
+The research system in Outpost 2 offered extensive technological development paths tailored to each faction's philosophy.
+
+Plymouth and Eden maintained distinct tech trees, with Plymouth emphasizing mobility and adaptability while Eden focused on fortified defense and resource efficiency.
+
+Research priorities significantly impacted gameplay, as certain technologies unlocked powerful units or critical infrastructure improvements. The branching structure forced meaningful choices, as pursuing one research path meant delaying others.
+
+Advanced technologies required prerequisite discoveries, creating satisfying progression as colonies evolved from basic survival operations to sophisticated civilizations capable of escaping the doomed planet. The research system complemented the survival narrative, as technological advancement represented humanity's best hope for outliving the Blight.
 
 ## Reception
 
@@ -137,6 +153,7 @@ The game's themes of environmental disaster, resource scarcity, and human surviv
 
 - **Next:** No direct sequel produced
 - [[1994 - Outpost|← Previous: Outpost]]
+
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Outpost_2:_Divided_Destiny) – - Development credits and team information

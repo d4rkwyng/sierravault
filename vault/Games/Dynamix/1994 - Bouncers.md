@@ -254,6 +254,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 [[Bouncers]]
 [[David Wolf - Secret Agent]]
 [[Sierra Soccer - World Challenge Edition]]
+
 ## References
 
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating

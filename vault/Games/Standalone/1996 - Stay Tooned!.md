@@ -247,6 +247,7 @@ The title has developed a cult following among players who experienced it during
 [[Slater & Charlie Go Camping]]
 [[Stay Tooned!]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## References
 
 [^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – release date, developer, publisher, gameplay description, locations, mini-game count, randomization, trivia

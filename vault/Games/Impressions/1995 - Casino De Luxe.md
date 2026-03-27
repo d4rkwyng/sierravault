@@ -280,6 +280,7 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Casino De Luxe](https://archive.org/details/casino-de-luxe) – CD-ROM preservation, technical specifications, game features, MobyGames-sourced metadata

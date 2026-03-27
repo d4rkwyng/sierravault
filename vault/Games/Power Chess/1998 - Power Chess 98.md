@@ -226,6 +226,7 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 [[1996 - Power Chess]]
 
 [[1999 - Power Chess 2.0]]
+
 ## References
 
 [^ref-1]: [MobyGames – Power Chess 98](https://www.mobygames.com/game/38740/power-chess-98/) – developer, publisher, release date, credits, ratings

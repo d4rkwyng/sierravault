@@ -117,7 +117,17 @@ The game required a Pentium 90 processor, 16 MB RAM, 4X CD-ROM drive, and 75 MB 
 
 ## Legacy
 
-Front Page Sports: Ski Racing was followed by "Skiing, 1999 Edition" and was later repackaged by Sierra Sports as simply "Ski Racing"[^ref-5][^ref-5]. The game filled a niche in PC gaming, as "skiing games are something of a rarity on the PC"[^ref-13]. Despite its technical issues and rushed release, it represented an ambitious attempt to bring realistic skiing simulation to home computers. The game has since been preserved by various abandonware sites and the Internet Archive, allowing modern players to experience this unique entry in Sierra's sports simulation catalog[^ref-2][^ref-20]. The game is documented across gaming databases including IGDB[^ref-18] and Giant Bomb[^ref-19], reflecting its place in Sierra's sports gaming history[^ref-17]. Dynamix's development work on the title demonstrated the studio's versatility beyond their adventure game roots[^ref-16]. PCGamingWiki maintains technical compatibility guides for modern systems[^ref-15].
+Front Page Sports: Ski Racing was followed by "Skiing, 1999 Edition" and was later repackaged by Sierra Sports as simply "Ski Racing"[^ref-5][^ref-5].
+
+The game filled a niche in PC gaming, as "skiing games are something of a rarity on the PC"[^ref-13].
+
+Despite its technical issues and rushed release, it represented an ambitious attempt to bring realistic skiing simulation to home computers. The game has since been preserved by various abandonware sites and the Internet Archive, allowing modern players to experience this unique entry in Sierra's sports simulation catalog[^ref-2][^ref-20].
+
+The game is documented across gaming databases including IGDB[^ref-18] and Giant Bomb[^ref-19], reflecting its place in Sierra's sports gaming history[^ref-17].
+
+Dynamix's development work on the title demonstrated the studio's versatility beyond their adventure game roots[^ref-16].
+
+PCGamingWiki maintains technical compatibility guides for modern systems[^ref-15].
 
 A community-created patch has been developed to address compatibility issues, specifically fixing "a superficial limitation preventing the game from running on a computer with its date set to 2020 and beyond"[^ref-14].
 
@@ -170,6 +180,7 @@ A community-created patch has been developed to address compatibility issues, sp
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Ski_Racing) – - Basic game information and publication details

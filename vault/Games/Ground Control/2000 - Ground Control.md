@@ -257,6 +257,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [[Ground Control]]
 [[Ground Control - Dark Conspiracy]]
 [[Ground Control II - Operation Exodus]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Ground Control](https://en.wikipedia.org/wiki/Ground_Control_(video_game)) – release dates, developer, publisher, Metacritic score, designers, composer

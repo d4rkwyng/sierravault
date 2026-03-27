@@ -130,6 +130,7 @@ The following links provide access to the complete game for archival and preserv
 **Series:** [[1996 - Robert E. Lee - Civil War General]] → **1997 - Civil War Generals 2: Grant, Lee, Sherman**
 [[Civil War Generals 2 - Grant–Lee–Sherman]]
 [[Robert E. Lee - Civil War General]]
+
 ## References
 
 [^ref-1]: http://ageod-forum.com/viewtopic.php?t=50764 - AGEOD forum discussion providing detailed insights into game mechanics and modding for Civil War Generals 2

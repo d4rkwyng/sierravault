@@ -281,6 +281,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 [[Emmanuelle]]
 [[Fascination]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game

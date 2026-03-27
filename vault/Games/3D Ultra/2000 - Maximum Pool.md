@@ -267,6 +267,7 @@ Modern players can run the Windows version through compatibility modes, though s
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Wikipedia](https://en.wikipedia.org/wiki/Maximum_Pool) - Basic game information and release details

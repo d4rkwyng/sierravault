@@ -70,6 +70,7 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## Overview
 
 Colossal Cave 3D Adventure is a fully immersive 3D and VR reimagining of the seminal 1976 text adventure game created by William Crowther and Don Woods[^ref-1]. Developed by Cygnus Entertainment and designed by legendary Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], the game marks their return to game development after more than twenty years away from the industry[^ref-2]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure intended for the whole family[^ref-3].
@@ -280,7 +281,13 @@ The 3D remake itself serves as a tribute to the original, which has spawned nume
 
 Colossal Cave 3D Adventure occupies a unique position in gaming history as both a preservation effort and a reunion project. The original 1976 text adventure is considered one of the most influential games ever created, establishing conventions that became standard in the adventure game genre and directly inspiring the creation of Sierra On-Line[^ref-7]. For five years following its release, "almost every game created was another 'Advent,'" according to Graham Nelson, creator of the Inform interactive fiction language[^ref-4].
 
-The 3D remake's divisive reception reflects the challenge of translating a purely textual experience into a visual medium. Critics noted that the game's refusal to modernize its mechanics—maintaining puzzles that can trap players without explanation—made it inaccessible to contemporary audiences[^ref-11]. However, this fidelity to the source material was intentional. The Williams specifically wanted to preserve the original experience, with Roberta Williams confirming that "core game puzzles and dialogue remain untouched"[^ref-2]. The result is a game that functions as a playable museum piece, offering younger generations their first opportunity to experience the game that launched adventure gaming while allowing veterans to revisit familiar challenges in a new dimension. As one fan noted, "This is a Classic Car of gaming. It's for the collector. It's for the old-schooler and aficionados of finely-reworked digital artisanal crafts"[^ref-5].
+The 3D remake's divisive reception reflects the challenge of translating a purely textual experience into a visual medium.
+
+Critics noted that the game's refusal to modernize its mechanics—maintaining puzzles that can trap players without explanation—made it inaccessible to contemporary audiences[^ref-11].
+
+However, this fidelity to the source material was intentional. The Williams specifically wanted to preserve the original experience, with Roberta Williams confirming that "core game puzzles and dialogue remain untouched"[^ref-2].
+
+The result is a game that functions as a playable museum piece, offering younger generations their first opportunity to experience the game that launched adventure gaming while allowing veterans to revisit familiar challenges in a new dimension. As one fan noted, "This is a Classic Car of gaming. It's for the collector. It's for the old-schooler and aficionados of finely-reworked digital artisanal crafts"[^ref-5].
 
 ## Downloads
 

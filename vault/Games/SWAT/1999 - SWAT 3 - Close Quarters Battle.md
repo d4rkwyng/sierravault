@@ -299,6 +299,7 @@ The game's insistence that players be "cops, not soldiers" challenged the prevai
 [[SWAT 3 - Close Quarters Battle]]
 [[SWAT 4 - The Stetchkov Syndicate]]
 [[SWAT Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – SWAT 3: Close Quarters Battle](https://en.wikipedia.org/wiki/SWAT_3:_Close_Quarters_Battle) – release dates, developer, designer, composer, engine, sales data, awards, development timeline, motion capture, aggregate scores

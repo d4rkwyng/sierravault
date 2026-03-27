@@ -250,6 +250,7 @@ From a technical standpoint, Sabotage demonstrated what was possible on the limi
 [[1983 - WallWar]]
 [[Sabotage]]
 [[WallWar]]
+
 ## References
 
 [^ref-1]: [6502 Disassembly – Sabotage Technical Analysis](https://6502disassembly.com/a2-sabotage/) – Technical specifications, collision detection details, gameplay mechanics, entity limits, graphics implementation, bug documentation

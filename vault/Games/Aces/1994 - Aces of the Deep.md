@@ -115,6 +115,7 @@ Game documentation including manuals[^ref-25] and video content[^ref-26] has bee
 - [[1990 - Red Baron|Red Baron]] - Related Dynamix flight sim
 
 [[1992 - Aces of the Pacific]]
+
 ## Legacy
 
 Aces of the Deep's influence on the submarine simulation genre cannot be overstated. As noted in the SUBSIM interview, "In the area of submarine simulations, it was Aces of the Deep. Aces was a huge leap forward in every facet of the submarine sim; graphics, music, gameplay, and most importantly, realism and historical accuracy"[^ref-11]. The review continues: "No other subsim before or after Aces of the Deep has captured the ambiance and tension quite so well"[^ref-11].

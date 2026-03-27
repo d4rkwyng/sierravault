@@ -212,6 +212,7 @@ The game's approach—offering both consumption and creation modes—anticipated
 [[Playtoons 2 - The Case of the Counterfeit Collaborator]]
 [[Playtoons 3 - The Secret of the Castle]]
 [[Playtoons 4 - The Mandarine Prince]]
+
 ## References
 
 [^ref-1]: [MobyGames – Playtoons 3: The Secret of the Castle](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – developer, publisher, composers, voice cast, platforms, rating

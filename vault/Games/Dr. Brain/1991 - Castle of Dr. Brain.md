@@ -285,6 +285,7 @@ Corey Cole's design legacy extended beyond the Dr. Brain series itself. The char
 [[Dr. Brain Thinking Games - IQ Adventure]]
 [[Dr. Brain Thinking Games - Puzzle Madness]]
 [[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
+
 ## References
 
 [^ref-1]: [MobyGames – Castle of Dr. Brain](https://www.mobygames.com/game/1523/castle-of-dr-brain/) – developer, publisher, platforms, release dates, composer credits, ratings

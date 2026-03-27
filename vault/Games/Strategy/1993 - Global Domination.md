@@ -205,6 +205,7 @@ This article focuses specifically on the 1993 Impressions Games title.
 [[Birthright - The Gorgon's Alliance]]
 [[Global Domination]]
 [[V for Victory - D-Day Utah Beach]]
+
 ## References
 
 [^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings

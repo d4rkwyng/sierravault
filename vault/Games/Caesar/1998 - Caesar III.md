@@ -23,7 +23,13 @@ tags: [1990s, caesar, sierra]
 
 Caesar III is a city-building strategy game that transports players to the Roman Empire, where they serve as a provincial governor tasked with building thriving settlements. Developed by Impressions Games and published by Sierra Entertainment in 1998[^ref-19], the game has been described as "SimCity set in the Roman Empire"[^ref-2] while offering significantly more depth and complexity than that simple comparison suggests. As Ron Dulin noted in his GameSpot review, "The company line on Caesar III is that it's SimCity set in the Roman Empire. That's only partially true"[^ref-2], emphasizing the game's unique mechanics and historical setting.
 
-The game represents the third installment in the Caesar series and is widely considered the pinnacle of the franchise. According to developer Simon Bradbury, who worked on all three Caesar games, "Personally Caesar 3 remains my favourite. It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-4]. Caesar III introduced revolutionary walker-based gameplay mechanics where citizens move throughout the city carrying goods and services, creating a dynamic simulation that brought Roman cities to life[^ref-48]. The game's official manual states that "Caesar III is not a war game, although you might sometimes have to defend your city against Rome's enemies. It's not a historical reference or educational program, either. It is about building cities where people can live productive, happy lives, and having fun in the process"[^ref-8].
+The game represents the third installment in the Caesar series and is widely considered the pinnacle of the franchise.
+
+According to developer Simon Bradbury, who worked on all three Caesar games, "Personally Caesar 3 remains my favourite. It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-4].
+
+Caesar III introduced revolutionary walker-based gameplay mechanics where citizens move throughout the city carrying goods and services, creating a dynamic simulation that brought Roman cities to life[^ref-48].
+
+The game's official manual states that "Caesar III is not a war game, although you might sometimes have to defend your city against Rome's enemies. It's not a historical reference or educational program, either. It is about building cities where people can live productive, happy lives, and having fun in the process"[^ref-8].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-19]
@@ -134,6 +140,7 @@ Caesar III inspired numerous spiritual successors and influenced the development
 [[1995 - Caesar II]]
 
 [[2006 - Caesar IV]]
+
 ## References
 
 [^ref-1]: [Abandonware DOS - Caesar III Search](https://www.abandonwaredos.com/search.php?search=Caesar+III) – - Basic game listing information

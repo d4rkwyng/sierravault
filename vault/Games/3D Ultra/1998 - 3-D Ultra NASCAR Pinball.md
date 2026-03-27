@@ -231,6 +231,7 @@ The game's ultimate assessment reflects its modest ambitions: "3-D Ultra NASCAR 
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Never Die Media – 3D Ultra Pinball NASCAR](https://www.neverdiemedia.com/products/3d-ultra-pinball-nascar) – product description, developer information

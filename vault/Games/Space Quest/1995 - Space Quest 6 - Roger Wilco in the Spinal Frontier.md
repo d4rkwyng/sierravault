@@ -103,7 +103,15 @@ Music was directed by Dan Kehler with compositions by Neal Grandstaff[^ref-12][^
 ### Origins
 Josh Mandel designed the majority of Space Quest 6, with Scott Murphy on board in a "creative consultant" capacity[^ref-18]. For the ending, Mandel was seeking "a twist on the end of Planet of the Apes"[^ref-18]. However, Mandel had to leave the project shortly before completion due to internal strife with Sierra[^ref-18]. Sierra asked Scott Murphy to complete the game, and then—reportedly against Murphy's wishes—promoted SQ6 as if the former "Guy from Andromeda" was solely responsible for it[^ref-18].
 
-As a result of this change in designers, some puzzles—primarily in the later stages of the game—were poorly implemented due to lack of communication[^ref-3][^ref-15]. The infamous Datacorder puzzle, which requires looking up hints in the manual, was not intended as copy protection—the hints were supposed to be in the cut comic book CD. A few weeks before shipping, Mandel called Murphy to ask about the comic book; Murphy replied they never finished it, not realizing it contained the puzzle hints. With the deadline looming, they hastily put the solution in the manual instead[^ref-17]. In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the inventory items cut was a comic book CD in Nigel's room that was fully readable and had all the hints to the Datacorder puzzle. From a writing and design standpoint, it was fully finished. I think it would've been one of the greatest parody sequences in the SQ series"[^ref-18].
+As a result of this change in designers, some puzzles—primarily in the later stages of the game—were poorly implemented due to lack of communication[^ref-3][^ref-15].
+
+The infamous Datacorder puzzle, which requires looking up hints in the manual, was not intended as copy protection—the hints were supposed to be in the cut comic book CD. A few weeks before shipping, Mandel called Murphy to ask about the comic book; Murphy replied they never finished it, not realizing it contained the puzzle hints.
+
+With the deadline looming, they hastily put the solution in the manual instead[^ref-17].
+
+In a 2006 interview, Mandel spoke candidly about his disappointment: "One of the inventory items cut was a comic book CD in Nigel's room that was fully readable and had all the hints to the Datacorder puzzle.
+
+From a writing and design standpoint, it was fully finished. I think it would've been one of the greatest parody sequences in the SQ series"[^ref-18].
 
 The romantic interest Stellar Santiago provides a continuity dilemma, since the woman who bore Roger a son (according to Space Quest IV's narrative) was Beatrice Wankmeister[^ref-3]. The game appears to downplay Space Quest V, with very few references made to the previous entry[^ref-3]. A notable plot inconsistency involves Roger receiving credit for the "successful return of the SCS Eureka," despite that ship being destroyed in the previous game[^ref-15].
 
@@ -231,6 +239,7 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 
 [[1993 - Space Quest V - The Next Mutation]]
+
 ## References
 [^ref-1]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – encyclopedia article
 [^ref-2]: [Sierra Chest – Space Quest 6](https://www.sierrachest.com/index.php?a=games&id=14&title=space-quest-6&fld=general) – Sierra history, collections, platforms

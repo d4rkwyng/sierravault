@@ -388,6 +388,7 @@ The game's unresolved narrative—and Valve's subsequent retreat from traditiona
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
 [[Half-Life 2]]
+
 ## References
 
 [^ref-1]: [Half-Life.com – Official Half-Life 2 Page](https://www.half-life.com/en/halflife2) – release date, platforms, awards, review quotes

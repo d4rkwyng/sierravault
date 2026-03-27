@@ -332,6 +332,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Poker Series](https://www.mobygames.com/game/56707/hoyle-poker-series/) – developer, publisher, designers, platform, ratings, technical details, trivia

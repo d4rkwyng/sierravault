@@ -223,6 +223,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Tribes: Aerial Assault](https://en.wikipedia.org/wiki/Tribes:_Aerial_Assault) – release dates, developer, publisher, review scores, technical achievements, development history, freeware status

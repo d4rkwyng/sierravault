@@ -44,11 +44,29 @@ As one contemporary review noted, "The hapless doctor gets up to some mischief a
 
 ### Interface and Controls
 
-The Time Warp of Dr. Brain features a distinctive Space Invaders-style main menu that serves as both navigation and mini-game[^ref-39]. "When your Dr. Brain avatar shoots down all of these bomb-dropping foes (carefully avoiding the actual menu buttons) a cheesy 8-bit fireworks parade is put on for you"[^ref-39]. This arcade-themed interface includes Easter eggs where "hitting UFO reveals high scores" and "hitting plane rolls credits"[^ref-39]. One player confessed "I also probably played the Space Invaders clone on the title screen as much as the actual game itself"[^ref-41]. The player must hit the appropriate spaceship (new game, restore, or quit) to navigate[^ref-40]. The game supports standard computer mouse input[^ref-12] and was designed to be accessible for both keyboard and mouse interaction[^ref-1]. Individual puzzles can be played in any order and are "selectable from the bar at top of the screen"[^ref-43].
+The Time Warp of Dr. Brain features a distinctive Space Invaders-style main menu that serves as both navigation and mini-game[^ref-39]. "When your Dr. Brain avatar shoots down all of these bomb-dropping foes (carefully avoiding the actual menu buttons) a cheesy 8-bit fireworks parade is put on for you"[^ref-39].
+
+This arcade-themed interface includes Easter eggs where "hitting UFO reveals high scores" and "hitting plane rolls credits"[^ref-39].
+
+One player confessed "I also probably played the Space Invaders clone on the title screen as much as the actual game itself"[^ref-41].
+
+The player must hit the appropriate spaceship (new game, restore, or quit) to navigate[^ref-40].
+
+The game supports standard computer mouse input[^ref-12] and was designed to be accessible for both keyboard and mouse interaction[^ref-1].
+
+Individual puzzles can be played in any order and are "selectable from the bar at top of the screen"[^ref-43].
 
 ### Structure and Progression
 
-The game is structured around 10 different puzzle groups, with 20 levels in each group[^ref-46], offering three difficulty levels: novice, expert, and genius[^ref-2]. Players need to accumulate 12,000 points to complete the game[^ref-40], with wins at novice, expert, and genius levels earning 250, 1,000, and 2,250 points respectively[^ref-40]. The puzzles span various time periods and themes, including "caveman rock music composition and future brain logic puzzles"[^ref-41], providing what one player recalled as "probably my first experiences with real-time strategy and time management puzzles"[^ref-41]. Throughout the game, "Dr. Brain poses as an advisor to the player, constantly passing witty comments and suggestions"[^ref-40]. Players noted that "the chiding, but humorous and encouraging voice lines from Dr. Brain took away some of the sting of having to try the puzzles again"[^ref-41].
+The game is structured around 10 different puzzle groups, with 20 levels in each group[^ref-46], offering three difficulty levels: novice, expert, and genius[^ref-2].
+
+Players need to accumulate 12,000 points to complete the game[^ref-40], with wins at novice, expert, and genius levels earning 250, 1,000, and 2,250 points respectively[^ref-40].
+
+The puzzles span various time periods and themes, including "caveman rock music composition and future brain logic puzzles"[^ref-41], providing what one player recalled as "probably my first experiences with real-time strategy and time management puzzles"[^ref-41].
+
+Throughout the game, "Dr. Brain poses as an advisor to the player, constantly passing witty comments and suggestions"[^ref-40].
+
+Players noted that "the chiding, but humorous and encouraging voice lines from Dr. Brain took away some of the sting of having to try the puzzles again"[^ref-41].
 
 ### Puzzles and Mechanics
 
@@ -91,13 +109,29 @@ Collection Chamber described the visuals as looking "like you are prodding aroun
 | MyAbandonware Users | 4.43/5 | Community rating[^ref-15] |
 | Giant Bomb Users | 4.0/5 | User reviews[^ref-39] |
 
-Electric Playground's Bonnie James provided a positive assessment, noting that while "the main target audience seems to be about age 10 to middle teens, the puzzles are challenging enough to interest adults as well"[^ref-45]. The review concluded that "Dr. Brain is a very playable and engaging puzzle game. From what I've heard and seen, this game is the most innovative in the series"[^ref-45]. James observed that "the voice of Dr. Brain might get on your nerves but I found that as soon as I was ready to wring his little CG neck he would come out with a quip that would actually make me laugh"[^ref-45]. She particularly praised the ability to "switch back and forth between puzzles" without completing one before moving to the next, calling it "perfect for those of us with short attention spans"[^ref-45].
+Electric Playground's Bonnie James provided a positive assessment, noting that while "the main target audience seems to be about age 10 to middle teens, the puzzles are challenging enough to interest adults as well"[^ref-45].
+
+The review concluded that "Dr. Brain is a very playable and engaging puzzle game.
+
+From what I've heard and seen, this game is the most innovative in the series"[^ref-45].
+
+James observed that "the voice of Dr. Brain might get on your nerves but I found that as soon as I was ready to wring his little CG neck he would come out with a quip that would actually make me laugh"[^ref-45].
+
+She particularly praised the ability to "switch back and forth between puzzles" without completing one before moving to the next, calling it "perfect for those of us with short attention spans"[^ref-45].
 
 Rosemary Young's review at Metzomagic noted the game "is targeted at players from twelve to adult, though I can't see any reason why all the family couldn't join in"[^ref-46]. The manual helpfully indicates "which parts of the brain you are exercising with each puzzle"[^ref-45], connecting gameplay to cognitive development[^ref-46].
 
 ### Modern Assessment
 
-Modern retrospective reviews have been more critical. Phil Salvador from Obscuritory observed that "The Time Warp of Dr. Brain is good, but it never reaches the same heights as its predecessor"[^ref-8]. More harshly, Marcus Estrada from Pixel Pacas awarded the game just "1 out of 5 alpacas"[^ref-16] and wrote that "Unfortunately, it looks like by the time The Time Warp of Dr. Brain came around that the developers had all but run out of good ideas for puzzling minigames"[^ref-16], concluding that "Outside of one or two stand out minigames, however, the game is a total flop"[^ref-16]. Some reviewers have even dubbed it "The Time Waster of Dr Brain"[^ref-43]. Collection Chamber noted that "this game feels very phoned in. It is basically a bunch of mini-games with the Dr. Brain name on it and very little of the charm"[^ref-43].
+Modern retrospective reviews have been more critical.
+
+Phil Salvador from Obscuritory observed that "The Time Warp of Dr. Brain is good, but it never reaches the same heights as its predecessor"[^ref-8].
+
+More harshly, Marcus Estrada from Pixel Pacas awarded the game just "1 out of 5 alpacas"[^ref-16] and wrote that "Unfortunately, it looks like by the time The Time Warp of Dr. Brain came around that the developers had all but run out of good ideas for puzzling minigames"[^ref-16], concluding that "Outside of one or two stand out minigames, however, the game is a total flop"[^ref-16].
+
+Some reviewers have even dubbed it "The Time Waster of Dr Brain"[^ref-43].
+
+Collection Chamber noted that "this game feels very phoned in. It is basically a bunch of mini-games with the Dr. Brain name on it and very little of the charm"[^ref-43].
 
 Despite critical assessments, player memories remain fond. One fan recalled playing "as a family, and spent a lot of time laughing together"[^ref-41]. Another described it as "a great example of titles that straddle that edutainment niche"[^ref-41].
 
@@ -109,7 +143,21 @@ The Time Warp of Dr. Brain was developed as the fourth entry in Sierra's educati
 
 ### Production
 
-The game was designed by Mark Krause and Ward Makielski[^ref-1], with Jonathan Cunningham composing the music[^ref-1]. Voice acting was provided by Rodney Sherwood as Dr. Brain[^ref-1]. The game featured "3-D rendered characters" and "claymation-style animation"[^ref-12], utilizing pre-rendered graphics technology[^ref-8]. As one reviewer noted of the visual style, "The graphics for Dr. Brain are quite good. I particularly like the lizard from Lizards & Eggs"[^ref-45]. The development process resulted in a substantial game with a file size of 571 MB and an install size of 950 MB[^ref-43]. Collection Chamber's review noted the opening presentation "lulled me into a false sense of security"[^ref-43], praising the creative Space Invaders navigation concept as something "I've not seen anywhere before"[^ref-43]. Game metadata is preserved across multiple databases including Gamewise, which maintains both main entry information[^ref-25] and walkthrough documentation[^ref-26]. The Digital Antiquarian has explored the educational gaming genre that Dr. Brain exemplified[^ref-27].
+The game was designed by Mark Krause and Ward Makielski[^ref-1], with Jonathan Cunningham composing the music[^ref-1].
+
+Voice acting was provided by Rodney Sherwood as Dr. Brain[^ref-1].
+
+The game featured "3-D rendered characters" and "claymation-style animation"[^ref-12], utilizing pre-rendered graphics technology[^ref-8].
+
+As one reviewer noted of the visual style, "The graphics for Dr. Brain are quite good. I particularly like the lizard from Lizards & Eggs"[^ref-45].
+
+The development process resulted in a substantial game with a file size of 571 MB and an install size of 950 MB[^ref-43].
+
+Collection Chamber's review noted the opening presentation "lulled me into a false sense of security"[^ref-43], praising the creative Space Invaders navigation concept as something "I've not seen anywhere before"[^ref-43].
+
+Game metadata is preserved across multiple databases including Gamewise, which maintains both main entry information[^ref-25] and walkthrough documentation[^ref-26].
+
+The Digital Antiquarian has explored the educational gaming genre that Dr. Brain exemplified[^ref-27].
 
 ### Technical Achievements
 
@@ -123,7 +171,21 @@ The Time Warp of Dr. Brain represents the end of an era for the original Dr. Bra
 
 Upon completing all 10 puzzles, "Dr. Brain is seen passing the starting screen in his time travelling machine, and returning home through a space-time rift"[^ref-40]. Despite mixed modern reception, the game has found preservation through various abandonware sites and continues to be remembered fondly by some players who experienced it as children[^ref-41]. One player noted "I feel like this is definitely one of the forgotten entries in this series, which is a shame"[^ref-41]. Additional documentation exists through Wikidata's structured metadata[^ref-34], WikiMili's comprehensive game details[^ref-35], and Reddit's Sierra community discussions[^ref-36]. The MobyGames database provides both search functionality[^ref-37] and a primary entry for the title[^ref-38].
 
-The game's educational approach, incorporating "Gardner's theory of multiple intelligences"[^ref-8], reflected Sierra's commitment to creating games that were both entertaining and pedagogically sound. Promotional materials emphasized that players could "Pump-up verbal, logical, visual, kinesthetic, musical, inter- and intrapersonal intelligences"[^ref-43]. Some puzzle groups are randomly generated, "suggesting that there is even more fun in store"[^ref-46]. The game is documented in various databases including Abandonware DOS[^ref-22] and Adventure Gamers[^ref-23], while Games Nostalgia provides basic platform information[^ref-24]. As one review noted, it was "A great one for all the kids to join in and for parents to come to the rescue occasionally"[^ref-46]. The game was even "used in educational settings for students with special needs"[^ref-18], though efforts to modernize it for contemporary systems have proven challenging due to copyright restrictions[^ref-18]. Old Games Download classifies the title within the educational genre[^ref-31], while Never Die Media maintains product information[^ref-32]. Original Sierra marketing materials preserved in the Wayback Machine showcase the game's promotional campaign, inviting players to experience "Dr. Brain like you've never seen him before"[^ref-33].
+The game's educational approach, incorporating "Gardner's theory of multiple intelligences"[^ref-8], reflected Sierra's commitment to creating games that were both entertaining and pedagogically sound.
+
+Promotional materials emphasized that players could "Pump-up verbal, logical, visual, kinesthetic, musical, inter- and intrapersonal intelligences"[^ref-43].
+
+Some puzzle groups are randomly generated, "suggesting that there is even more fun in store"[^ref-46].
+
+The game is documented in various databases including Abandonware DOS[^ref-22] and Adventure Gamers[^ref-23], while Games Nostalgia provides basic platform information[^ref-24].
+
+As one review noted, it was "A great one for all the kids to join in and for parents to come to the rescue occasionally"[^ref-46].
+
+The game was even "used in educational settings for students with special needs"[^ref-18], though efforts to modernize it for contemporary systems have proven challenging due to copyright restrictions[^ref-18].
+
+Old Games Download classifies the title within the educational genre[^ref-31], while Never Die Media maintains product information[^ref-32].
+
+Original Sierra marketing materials preserved in the Wayback Machine showcase the game's promotional campaign, inviting players to experience "Dr. Brain like you've never seen him before"[^ref-33].
 
 ## Availability
 
@@ -150,6 +212,7 @@ The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One s
 [[Dr. Brain Thinking Games - Puzzle Madness]]
 [[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 [[The Time Warp of Dr. Brain]]
+
 ## References
 
 [^ref-1]: [MobyGames - The Time Warp of Dr. Brain](https://www.mobygames.com/game/6885/the-time-warp-of-dr-brain/) – - Release date and developer information

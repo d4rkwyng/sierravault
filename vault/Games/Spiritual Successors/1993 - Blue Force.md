@@ -208,6 +208,7 @@ Despite its troubled reception, Blue Force remains historically significant as a
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Blue Force](https://en.wikipedia.org/wiki/Blue_Force) — Release information, plot summary, critical reception, sales figures

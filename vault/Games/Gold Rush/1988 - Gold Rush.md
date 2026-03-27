@@ -149,6 +149,7 @@ The game contains at least one documented Easter egg: a reference to the "Boston
 [[Gold Rush]]
 [[Gold Rush 2]]
 [[Gold Rush Anniversary]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Gold Rush!](https://en.wikipedia.org/wiki/Gold_Rush!) – Release year, plot details, difficulty warnings

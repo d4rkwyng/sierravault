@@ -283,6 +283,7 @@ The series' eventual decline following the troubled Football Pro '98 and cancell
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Football Pro '95](https://www.mobygames.com/game/116779/front-page-sports-football-pro-95/) – credits, technical specifications, features, ratings, awards

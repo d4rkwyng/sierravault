@@ -350,6 +350,7 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 [[Half-Life]]
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) – comprehensive development history, technical details, awards, quotes

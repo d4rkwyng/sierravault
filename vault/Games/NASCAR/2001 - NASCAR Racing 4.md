@@ -151,6 +151,7 @@ The title continues to be regarded as a watershed moment for NASCAR simulation g
 [[2003 - NASCAR Racing 2003 Season]]
 [[NASCAR Racing 2 - Grand National Series Expansion]]
 [[NASCAR Racing 4]]
+
 ## References
 
 [^ref-1]: [Internet Archive](https://archive.org/details/n4demo) – - Product description

@@ -38,7 +38,13 @@ Phil Salvador describes it as "one of the greatest turn-based strategy games of 
 
 The game is set in the Earthsiege universe where "you start the game as an Ensign in Unitech, a corporation that achieves power and profit through planetary mining"[^ref-9]. The player serves "as a commander of a private military taskforce to fight a race of mechanical beings mankind created long ago called Cybrids"[^ref-10]. The narrative premise establishes that "Prometheus is believed destroyed, but the Cybrid menace has not ended"[^ref-11].
 
-The story explores dark themes of corporate exploitation and the dehumanization of warfare. BioDerms, genetically engineered humanoids, "are actually slaves: disposable humanoids to be used on the battlefield, and 'recycled' for a few credits or blown up in kamikaze attacks by corporate officers when they are no longer useful"[^ref-10]. As Salvador notes, the game depicts how "no one can escape the perpetual war machine. Expendable treatment of life begets further mistreatment and the gradual supplanting of human decency by profiteering and self-justification"[^ref-4]. The corporate setting creates moral ambiguity absent from many contemporary strategy games, as players must balance ethical considerations against profit margins. BioDerm pilots develop personalities and skills over time, making their potential loss more impactful despite their engineered nature. The narrative successfully merges strategic gameplay with thoughtful science fiction, creating an experience that rewards consideration of its themes beyond mere tactical optimization.
+The story explores dark themes of corporate exploitation and the dehumanization of warfare. BioDerms, genetically engineered humanoids, "are actually slaves: disposable humanoids to be used on the battlefield, and 'recycled' for a few credits or blown up in kamikaze attacks by corporate officers when they are no longer useful"[^ref-10].
+
+As Salvador notes, the game depicts how "no one can escape the perpetual war machine.
+
+Expendable treatment of life begets further mistreatment and the gradual supplanting of human decency by profiteering and self-justification"[^ref-4].
+
+The corporate setting creates moral ambiguity absent from many contemporary strategy games, as players must balance ethical considerations against profit margins. BioDerm pilots develop personalities and skills over time, making their potential loss more impactful despite their engineered nature. The narrative successfully merges strategic gameplay with thoughtful science fiction, creating an experience that rewards consideration of its themes beyond mere tactical optimization.
 
 ## Gameplay
 
@@ -75,7 +81,15 @@ HERC customization represents one of the game's deepest systems. Players select 
 
 ## BioDerm Management
 
-The BioDerm pilot system added unique strategic considerations to CyberStorm's tactical gameplay. These genetically engineered pilots could be enhanced with chemicals to boost performance[^ref-8], creating temporary combat advantages at the cost of long-term stability. BioDerms developed skills through combat experience, becoming more valuable assets over time. However, their status as corporate property meant they could be "recycled" for credits when damaged or underperforming. This commodification of life created moral tension that elevated the game beyond typical strategy fare. Players who invested emotionally in their BioDerm crews faced difficult decisions when profit margins demanded sacrifices. The system successfully integrated narrative themes with gameplay mechanics, making players complicit in the very corporate exploitation the story critiqued.
+The BioDerm pilot system added unique strategic considerations to CyberStorm's tactical gameplay.
+
+These genetically engineered pilots could be enhanced with chemicals to boost performance[^ref-8], creating temporary combat advantages at the cost of long-term stability. BioDerms developed skills through combat experience, becoming more valuable assets over time.
+
+However, their status as corporate property meant they could be "recycled" for credits when damaged or underperforming.
+
+This commodification of life created moral tension that elevated the game beyond typical strategy fare.
+
+Players who invested emotionally in their BioDerm crews faced difficult decisions when profit margins demanded sacrifices. The system successfully integrated narrative themes with gameplay mechanics, making players complicit in the very corporate exploitation the story critiqued.
 
 ## Reception
 
@@ -161,6 +175,7 @@ The game's dark themes regarding corporate exploitation and the ethics of creati
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Wikipedia - MissionForce: CyberStorm](https://en.wikipedia.org/wiki/MissionForce:_CyberStorm) – - Release date and developer information

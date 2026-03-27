@@ -154,7 +154,9 @@ The Remote Manager utility enabled internet league play, a forward-thinking feat
 - **Audio:** Voice commentary
 - **Controls:** Keyboard, Mouse, Joystick/Gamepad (2-button support)
 - **Media:** CD-ROM
-- **Download Size:** Approximately 512MB[^ref-17]
+-
+
+**Download Size:** Approximately 512MB[^ref-17]
 
 ### Cut Content
 
@@ -270,6 +272,7 @@ The closure of Dynamix and the end of the Front Page Sports line meant that this
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Front Page Sports: Baseball Pro '98](https://en.wikipedia.org/wiki/Front_Page_Sports%3A_Baseball_Pro_%2798) – release date, developer, publisher, platform, GameRankings score

@@ -265,6 +265,7 @@ The game's lasting impact can be measured not in sequels or spiritual successors
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-9]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – developer, publisher, release dates, platforms, composer, awards, locomotives

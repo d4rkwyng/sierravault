@@ -243,6 +243,7 @@ The series would continue under different developers, with Knowledge Adventure e
 [[Dr. Brain Thinking Games - Puzzle Madness]]
 [[JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain]]
 [[The Island of Dr. Brain]]
+
 ## References
 
 [^ref-1]: [Wikipedia – The Island of Dr. Brain](https://en.wikipedia.org/wiki/The_Island_of_Dr._Brain) – release date, developer, publisher, reception, series history

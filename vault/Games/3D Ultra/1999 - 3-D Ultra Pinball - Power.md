@@ -267,6 +267,7 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Gamepressure – 3D Ultra Pinball Power](https://www.gamepressure.com/games/3d-ultra-pinball-power/z81052) – release date, developers, system requirements, included games, thematic descriptions

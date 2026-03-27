@@ -242,6 +242,7 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 
 [[CXL - SWAT - Urban Justice]]
 [[CXL - Space Quest VII - Return to Roman Numerals]]
+
 ## References
 
 [^ref-1]: [Sierra Chest – Space Quest 7](https://sierrachest.com/index.php?a=games&id=369&title=space-quest-7&fld=reviews) – developer, platform, unreleased status

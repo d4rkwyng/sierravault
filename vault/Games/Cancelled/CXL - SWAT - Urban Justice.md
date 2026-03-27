@@ -220,6 +220,7 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
 [[CXL - SWAT - Urban Justice]]
+
 ## References
 
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline

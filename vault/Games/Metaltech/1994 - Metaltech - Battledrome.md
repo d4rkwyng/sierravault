@@ -263,6 +263,7 @@ From a modern perspective, the game deserves recognition as a pioneer in competi
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [MobyGames – Metaltech: Battledrome](https://www.mobygames.com/game/1401/metaltech-battledrome/) – developer, publisher, release date, platform, ratings, media formats, credits

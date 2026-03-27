@@ -21,7 +21,15 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4][^ref-2]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the remake features enhanced 256-color VGA graphics, Sound Blaster support, digitized sounds, and a point-and-click icon interface replacing the original text parser[^ref-4][^ref-3][^ref-5]. The VGA graphics were deliberately drawn in a 1950s B-movie style[^ref-2][^ref-5]. Released on August 20, 1991, some puzzles were changed or replaced with new solutions to accommodate the new interface, and it became possible to skip the arcade sequences[^ref-4][^ref-5]. While marketed aggressively, like the other Sierra VGA remakes of the early 1990s, the game was a commercial disappointment[^ref-3].
+Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4][^ref-2].
+
+Designed by [[Mark Crowe]] and [[Scott Murphy]], the remake features enhanced 256-color VGA graphics, Sound Blaster support, digitized sounds, and a point-and-click icon interface replacing the original text parser[^ref-4][^ref-3][^ref-5].
+
+The VGA graphics were deliberately drawn in a 1950s B-movie style[^ref-2][^ref-5].
+
+Released on August 20, 1991, some puzzles were changed or replaced with new solutions to accommodate the new interface, and it became possible to skip the arcade sequences[^ref-4][^ref-5].
+
+While marketed aggressively, like the other Sierra VGA remakes of the early 1990s, the game was a commercial disappointment[^ref-3].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]
@@ -90,7 +98,17 @@ Around 1990-1991, Sierra began releasing VGA remakes of their mid-1980s hits usi
 
 Space Quest I was given an overhaul when it was remade using Sierra's SCI language, which allowed the game to upgrade from its original EGA graphics to VGA[^ref-5]. The VGA graphics were drawn deliberately in a 1950s B-movie style[^ref-2][^ref-5]. Scott Murphy later admitted he had little say in the art direction: "The VGA art designer wanted an old fashioned space movie look. It sounded good in theory but wasn't executed as was advertised"[^ref-16]. Much of the artwork was outsourced to Korea—Murphy jokingly blamed "The Simpsons" for this industry trend[^ref-16]. In addition to the new graphics, it featured digitized sounds and an icon interface[^ref-5].
 
-The VGA remake was developed behind Murphy and Crowe's backs while they were working on Space Quest IV[^ref-27]. Despite their limited involvement, both are officially credited as "Game Designers" in the final product—a common practice for remakes crediting original creators[^ref-31]. The actual creative lead was Douglas Herring, credited as both Director and Art Designer, who determined the visual direction[^ref-31]. When Murphy and Crowe requested changes—Murphy openly disliked the "Jetsons-esque" redesigns of some areas—they were told it was too late to make alterations[^ref-27]. Roger Wilco's hair color was also changed from brown to blond in this version[^ref-27]. An earlier plan for the original AGI version would have allowed players to choose a female version of Roger, but this was cut due to lack of sprite space and demographic considerations[^ref-27].
+The VGA remake was developed behind Murphy and Crowe's backs while they were working on Space Quest IV[^ref-27].
+
+Despite their limited involvement, both are officially credited as "Game Designers" in the final product—a common practice for remakes crediting original creators[^ref-31].
+
+The actual creative lead was Douglas Herring, credited as both Director and Art Designer, who determined the visual direction[^ref-31].
+
+When Murphy and Crowe requested changes—Murphy openly disliked the "Jetsons-esque" redesigns of some areas—they were told it was too late to make alterations[^ref-27].
+
+Roger Wilco's hair color was also changed from brown to blond in this version[^ref-27].
+
+An earlier plan for the original AGI version would have allowed players to choose a female version of Roger, but this was cut due to lack of sprite space and demographic considerations[^ref-27].
 
 Several of the puzzles from the original game were changed or replaced with new solutions[^ref-5]. Fans are sharply divided between which version of the game they prefer: many enjoy the rich graphical layout of the 1991 remake, while others appreciate the historical purity of the original[^ref-5].
 
@@ -209,6 +227,7 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[1993 - Space Quest V - The Next Mutation]]
 
 [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article
 [^ref-2]: [My Abandonware – Space Quest I VGA](https://www.myabandonware.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter-2m4) – platforms, availability, user reviews

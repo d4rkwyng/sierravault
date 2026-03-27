@@ -239,6 +239,7 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [[ESS - European Space Simulator]]
 [[Emmanuelle]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [Journal Étudiant – African Raiders-01: Une Immersion Rétro](https://www.journaletudiant.com/african-raiders-01-une-immersion-retro-dans-les-sables-du-dakar/) – cultural retrospective, gameplay description, release year 1988

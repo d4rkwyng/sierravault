@@ -220,6 +220,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Adventure Gamers – Quest for Glory II VGA Remake](https://adventuregamers.com/games/view/quest-for-glory-ii-vga-remake) – game description, release date, developer information, rating

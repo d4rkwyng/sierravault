@@ -86,7 +86,13 @@ A-10 Tank Killer received generally positive reviews upon release, with critics 
 
 *Dragon* magazine gave the game a perfect 5 out of 5 stars in their December 1991 review by Hartley, Patricia, and Kirk Lesser[^ref-10]. European publications were similarly enthusiastic—*The Games Machine* (UK) awarded an exceptional 96 out of 100, while the Italian edition of the same magazine matched that score[^ref-4]. *DOS International* gave 8 out of 10 (80%)[^ref-4], and French publication *Génération 4* scored it 78 out of 100[^ref-4].
 
-The Amiga version received more mixed reception. *Amiga Power* awarded 68% in their July 1991 issue, with reviewer Mark Ramshaw offering the memorable quip: "Mummy, will I be a MicroProse flight sim when I grow up?" "No, son, I'm afraid you'll only ever be an A-10 Tank Killer game"[^ref-5]. Ramshaw criticized that "not only does this fail to push the boundaries of flight sims forwards any, it actually knocks them back a bit" and complained that "the amount of depth they've tried to cram into it is totally ruining the gameplay"[^ref-5]. However, he acknowledged that "A-10's trump card, though, is the fact that (maybe even more effectively than F-15 Strike Eagle II) it manages to create the impression of a real world"[^ref-5]. German publication *ASM (Aktueller Software Markt)* was less impressed, awarding only 7 out of 12 (58%) in May 1990[^ref-4].
+The Amiga version received more mixed reception. *Amiga Power* awarded 68% in their July 1991 issue, with reviewer Mark Ramshaw offering the memorable quip: "Mummy, will I be a MicroProse flight sim when I grow up?" "No, son, I'm afraid you'll only ever be an A-10 Tank Killer game"[^ref-5].
+
+Ramshaw criticized that "not only does this fail to push the boundaries of flight sims forwards any, it actually knocks them back a bit" and complained that "the amount of depth they've tried to cram into it is totally ruining the gameplay"[^ref-5].
+
+However, he acknowledged that "A-10's trump card, though, is the fact that (maybe even more effectively than F-15 Strike Eagle II) it manages to create the impression of a real world"[^ref-5].
+
+German publication *ASM (Aktueller Software Markt)* was less impressed, awarding only 7 out of 12 (58%) in May 1990[^ref-4].
 
 ### Modern Assessment
 
@@ -217,6 +223,7 @@ While the Amiga version disappointed some critics who found it technically infer
 [[A-10 Tank Killer]]
 [[A-10 Tank Killer v1.5]]
 [[Silent Thunder - A-10 Tank Killer II]]
+
 ## References
 
 [^ref-1]: [MobyGames – A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) – release dates, developers, designers, composers, platforms, technical specifications, ratings, trivia, version history

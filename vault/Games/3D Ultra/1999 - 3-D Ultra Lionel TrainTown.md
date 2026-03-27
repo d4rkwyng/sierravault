@@ -270,6 +270,7 @@ In retrospect, the game represents an interesting moment in edutainment history�
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Lionel Traintown](https://en.wikipedia.org/wiki/3D_Ultra_Lionel_Traintown) – release dates, developer, publisher, awards, game features, locomotives

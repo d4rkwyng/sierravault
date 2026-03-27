@@ -285,6 +285,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-10]: [Wikipedia – Air Bucks](https://en.wikipedia.org/wiki/Air_Bucks) – developer, publisher, platforms, release year

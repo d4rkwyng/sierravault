@@ -256,6 +256,7 @@ The game's influence can be seen in its innovative control scheme and its achiev
 [[1983 - WallWar]]
 [[Crossfire]]
 [[WallWar]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)) – release dates, platforms, awards, contemporary reviews, technical details

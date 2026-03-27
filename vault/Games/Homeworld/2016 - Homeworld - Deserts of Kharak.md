@@ -39,7 +39,17 @@ Originally conceived as an independent project called Hardware: Shipbreakers, th
 
 The game follows the story of a dying planet where the inhabitants of Kharak are divided into feuding clans or kiith, jockeying for power and control of the planet's limited resources[^ref-10]. When an orbital satellite discovers a mysterious anomaly deep in the southern deserts, a military expedition is organized and led by Rachel S'jet, the chief science officer[^ref-11]. The expedition's mission is to retrieve a lost artifact that is capable of saving the world from further environmental degradation[^ref-12].
 
-Rachel S'jet serves as the game's protagonist, guiding players through the dangerous desert expedition in search of what becomes known as the "primary anomaly"[^ref-2]. As Rachel narrates in the opening: "Our planet is dying... the desert grows with every passing year"[^ref-36]. The narrative explores themes of survival and desperation as the coalition forces venture deep into enemy territory, encountering the hostile Gaalsien faction that seeks to prevent them from reaching their goal[^ref-13]. The game also explores themes of dogma, societal politics, and environmental collapse[^ref-13]. The story connects directly to the broader Homeworld mythology, ultimately leading to the discovery that would inspire the construction of the great mothership featured in the original game[^ref-14]. A scientist named Karan S'jet would later integrate herself into that mothership as its living core—making Rachel S'jet her ancestor[^ref-40].
+Rachel S'jet serves as the game's protagonist, guiding players through the dangerous desert expedition in search of what becomes known as the "primary anomaly"[^ref-2].
+
+As Rachel narrates in the opening: "Our planet is dying... the desert grows with every passing year"[^ref-36].
+
+The narrative explores themes of survival and desperation as the coalition forces venture deep into enemy territory, encountering the hostile Gaalsien faction that seeks to prevent them from reaching their goal[^ref-13].
+
+The game also explores themes of dogma, societal politics, and environmental collapse[^ref-13].
+
+The story connects directly to the broader Homeworld mythology, ultimately leading to the discovery that would inspire the construction of the great mothership featured in the original game[^ref-14].
+
+A scientist named Karan S'jet would later integrate herself into that mothership as its living core—making Rachel S'jet her ancestor[^ref-40].
 
 ## Gameplay
 
@@ -93,7 +103,19 @@ Gearbox acquired the Homeworld intellectual property for $1.35 million during TH
 ### Production
 The development team at Blackbird Interactive emphasized community engagement throughout production, with project director Rory McGuire stating, "Without our fans, we wouldn't be here, we wouldn't have this job, we wouldn't be making this game"[^ref-29]. The studio committed to supporting modding communities, promising "We won't be putting up any legal or code based blocks for modding. We are in support of modders and people experimenting with our game"[^ref-29].
 
-The game's development spanned approximately six years (2009-2016), during which the team faced significant technical and business challenges[^ref-52]. Early version control was primitive—developers used "washers on hooks" before Unity Pro[^ref-52]. The project went through multiple iterations, including a Facebook free-to-play version that was abandoned[^ref-27]. The team had to completely rebuild the entire codebase for deterministic multiplayer simulation[^ref-52]. An upgrade to Unity 5 late in development caused crashes with the 32-bit Unity Editor due to memory issues[^ref-52]. The project represented the first new Homeworld entry "after more than a decade-long hiatus for Homeworld," making it "an immense honor" for the development team to launch new entries in the franchise[^ref-11]. Pre-ordering the game came with a free copy of Homeworld Remastered Collection[^ref-56].
+The game's development spanned approximately six years (2009-2016), during which the team faced significant technical and business challenges[^ref-52].
+
+Early version control was primitive—developers used "washers on hooks" before Unity Pro[^ref-52].
+
+The project went through multiple iterations, including a Facebook free-to-play version that was abandoned[^ref-27].
+
+The team had to completely rebuild the entire codebase for deterministic multiplayer simulation[^ref-52].
+
+An upgrade to Unity 5 late in development caused crashes with the 32-bit Unity Editor due to memory issues[^ref-52].
+
+The project represented the first new Homeworld entry "after more than a decade-long hiatus for Homeworld," making it "an immense honor" for the development team to launch new entries in the franchise[^ref-11].
+
+Pre-ordering the game came with a free copy of Homeworld Remastered Collection[^ref-56].
 
 ### Technical Achievements
 Homeworld: Deserts of Kharak was built using the Unity 5 engine[^ref-7], representing a modern technical foundation for the classic gameplay mechanics. As Yossarian King of Blackbird Interactive noted, "We're happy to be Made With Unity"[^ref-52]. The game requires a minimum of 3 GB RAM and 8 GB storage space, with recommended specifications including 8 GB RAM and 12 GB storage[^ref-9]. The technical implementation supports both 32-bit and 64-bit executables and uses Direct3D 9.0c and Direct3D 11 APIs[^ref-7]. The game supports seven languages including English, German, Spanish, French, Italian, Polish, and Russian[^ref-57].
@@ -104,7 +126,13 @@ The audio design features Paul Ruskay's musical composition, maintaining the ser
 
 Homeworld: Deserts of Kharak successfully revitalized the Homeworld franchise after its lengthy hiatus, proving that the series' core mechanics could translate effectively to different environments[^ref-33]. The game's development approach—transforming an independent project into an official franchise entry—demonstrated innovative methods for continuing classic gaming properties[^ref-34]. The success of the ground-based prequel helped establish foundation lore for the broader Homeworld universe while maintaining the tactical depth and atmospheric storytelling that defined the original games[^ref-35]. The lore connection runs deep: units gain experience and unique names throughout the campaign, including a reference to composer Paul Ruskay (a unit can be named "Rus'kay")[^ref-29].
 
-The game's emphasis on single-player campaign content and traditional RTS mechanics provided "a very important breath of life into a dying genre" at a time when real-time strategy games had become less common in mainstream gaming[^ref-23]. Its release preceded and helped establish groundwork for future Homeworld franchise developments, including the eventual Homeworld 3[^ref-36]. The Expedition Guide companion application, released alongside the game as a $5 DLC on Steam, provided detailed backstory and lore that many compared favorably to the legendary Homeworld 1 manual: "You remember how the Homeworld 1 manual was the greatest thing since sliced bread? Well, this is that for a new era"[^ref-61]. The guide features eleven sections covering different story aspects with developer commentary[^ref-62].
+The game's emphasis on single-player campaign content and traditional RTS mechanics provided "a very important breath of life into a dying genre" at a time when real-time strategy games had become less common in mainstream gaming[^ref-23].
+
+Its release preceded and helped establish groundwork for future Homeworld franchise developments, including the eventual Homeworld 3[^ref-36].
+
+The Expedition Guide companion application, released alongside the game as a $5 DLC on Steam, provided detailed backstory and lore that many compared favorably to the legendary Homeworld 1 manual: "You remember how the Homeworld 1 manual was the greatest thing since sliced bread? Well, this is that for a new era"[^ref-61].
+
+The guide features eleven sections covering different story aspects with developer commentary[^ref-62].
 
 ## Downloads
 
@@ -128,6 +156,7 @@ The game's emphasis on single-player campaign content and traditional RTS mechan
 [[2003 - Homeworld 2]]
 [[Homeworld - Cataclysm]]
 [[Homeworld - Deserts of Kharak]]
+
 ## References
 
 [^ref-1]: [Homeworld Fandom Wiki](https://homeworld.fandom.com/wiki/Homeworld:_Deserts_of_Kharak) – - Game timeline and setting information

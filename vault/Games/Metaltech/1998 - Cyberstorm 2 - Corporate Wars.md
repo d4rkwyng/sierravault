@@ -170,6 +170,7 @@ The development lessons from Cyberstorm 2 likely influenced Dynamix's subsequent
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Web Archive GameSpot News](https://web.archive.org/web/19991003052811/http://headline.gamespot.com/news/98_04/28_cyber/index.html) – - Gold master date

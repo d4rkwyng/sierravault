@@ -154,6 +154,7 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 [[Quest for Infamy]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## References
 
 [^ref-1]: [Adventure Game Database](https://www.adventuregamedb.com/g/quest_for_infamy) – - Game description and premise

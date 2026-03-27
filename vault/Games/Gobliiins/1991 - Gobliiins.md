@@ -270,6 +270,7 @@ The Gobliiins series spans five main entries across three decades, each with a d
 [[Gobliiins 5 - The Morgloton Invasion]]
 [[Gobliins 2 - The Prince Buffoon]]
 [[Gobliins 6]]
+
 ## References
 
 [^ref-1]: [MobyGames – Gobliiins](https://www.mobygames.com/game/1154/gobliiins/) – developer credits, ratings, platform releases, trivia, awards

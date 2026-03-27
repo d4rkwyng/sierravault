@@ -355,6 +355,7 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Amazon UK – Hoyle Casino 3D](https://www.amazon.co.uk/Encore-33038-Hoyle-Casino-%E8%BC%B8%E5%85%A5%E7%89%88/dp/B0007ZF3H8) – RenderWare engine, customer reviews, installation issues, product specifications

@@ -237,6 +237,7 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [[The Incredible Machine (2011)]]
 [[The Incredible Machine - Even More Contraptions]]
 [[The Incredible Machine 2]]
+
 ## References
 
 [^ref-1]: [MobyGames – Sid & Al's Incredible Toons](https://www.mobygames.com/game/3116/sid-als-incredible-toons/) – credits, ratings, awards, technical specifications, packaging contents

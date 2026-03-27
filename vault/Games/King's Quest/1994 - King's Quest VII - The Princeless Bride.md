@@ -305,6 +305,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [MobyGames – King's Quest VII](https://www.mobygames.com/game/135/roberta-williams-kings-quest-vii-the-princeless-bride/) – – ratings, credits, trivia, platforms, reviews

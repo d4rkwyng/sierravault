@@ -232,6 +232,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [[ESS - European Space Simulator]]
 [[Emmanuelle]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [MobyGames – Asterix: Operation Getafix](https://www.mobygames.com/game/12987/asterix-operation-getafix/) — Platform info, Moby Score 6.3, localized titles

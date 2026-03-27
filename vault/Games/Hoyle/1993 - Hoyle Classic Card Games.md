@@ -275,6 +275,7 @@ The series continued with multiple sequels and iterations, eventually transition
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_Hoyle_Classic_Card_Games_1993) – - Basic release information

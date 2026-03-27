@@ -228,6 +228,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## References
 
 [^ref-1]: [Adventure Gamers](https://adventuregamers.com/articles/view/21053) – Jane Jensen's reputation and return to adventure gaming

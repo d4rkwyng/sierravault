@@ -232,6 +232,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 [[Gobliiins 5 - The Morgloton Invasion]]
 [[Gobliins 2 - The Prince Buffoon]]
 [[Gobliins 6]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins 4](https://en.wikipedia.org/wiki/Gobliiins_4) – release date, developer, platform information

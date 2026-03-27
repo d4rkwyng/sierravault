@@ -200,6 +200,7 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[Gabriel Knight 3: Blood of
 [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
 
 [[TBD - Gabriel Knight 4 - Five Hearts]]
+
 ## References
 
 [^ref-1]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=The+Beast+Within%3A+A+Gabriel+Knight+Mystery) – - Game database search results

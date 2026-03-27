@@ -215,6 +215,7 @@ The franchise's continued existence through mobile and console titles decades la
 [[Driver's Education '98]]
 [[Professional Bull Rider]]
 [[Sierra Sports - Bass Fishing]]
+
 ## References
 
 [^ref-1]: [MobyGames – Professional Bull Rider](https://www.mobygames.com/game/58224/professional-bull-rider/) – developer, publisher, credits, ratings, platform information

@@ -121,6 +121,7 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 [[1998 - Power Chess 98]]
 
 [[1999 - Power Chess 2.0]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Power Chess](https://en.wikipedia.org/wiki/Power_Chess) – - Game overview and adaptive AI description

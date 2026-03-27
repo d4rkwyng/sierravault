@@ -129,7 +129,9 @@ Learning with Leeper was programmed in machine language, allowing for efficient 
 - **Players:** 1
 
 **DOS Version:**[^ref-15]
-- **Download Size:** 58 KB
+-
+
+**Download Size:** 58 KB
 
 **Display Specifications:**[^ref-9]
 - **Display Type:** Raster
@@ -221,6 +223,7 @@ The broader significance of educational software like Learning with Leeper was r
 [[Kids' Typing]]
 [[Learning with FuzzyWOMP]]
 [[Learning with Leeper]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Learning with Leeper](https://en.wikipedia.org/wiki/Learning_with_Leeper) – platforms, developer, publisher, release dates, awards

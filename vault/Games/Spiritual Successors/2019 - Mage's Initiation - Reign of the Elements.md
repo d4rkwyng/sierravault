@@ -67,6 +67,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## Overview
 
 Mage's Initiation: Reign of the Elements is an adventure/RPG hybrid developed and published by Himalaya Studios, released on January 30, 2019 for Windows, macOS, and Linux[^ref-1]. The game represents a loving homage to Sierra On-Line's classic Quest for Glory series, blending traditional point-and-click adventure gameplay with role-playing elements including character classes, stat progression, and real-time combat[^ref-2]. Development spanned over a decade, making its gestation period longer than the entire nine-year lifespan of all five Quest for Glory releases combined[^ref-3].

@@ -212,6 +212,7 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
 [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – Series overview, voice cast, planned GK4 details, IP ownership, Easter egg in GK3, Jensen's "interactive Anne Rice" designation

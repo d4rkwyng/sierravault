@@ -20,7 +20,13 @@ tags: [1980s, adventure, agi, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the sequel to Space Quest: The Sarien Encounter and continues the misadventures of Roger Wilco as he confronts Sludge Vohaul, the villain who was behind the original Sarien attack[^ref-3][^ref-6]. Space Quest II was the last game in the series to use Sierra's AGI engine before the transition to SCI for future titles[^ref-3][^ref-4]. The game was a commercial success, selling over 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
+Space Quest II: Chapter II – Vohaul's Revenge is a graphic adventure game developed and published by [[Sierra On-Line]], released on November 14, 1987 for MS-DOS with subsequent ports to Apple II, Apple IIgs, Amiga, Atari ST, and Macintosh[^ref-3][^ref-6].
+
+Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the sequel to Space Quest: The Sarien Encounter and continues the misadventures of Roger Wilco as he confronts Sludge Vohaul, the villain who was behind the original Sarien attack[^ref-3][^ref-6].
+
+Space Quest II was the last game in the series to use Sierra's AGI engine before the transition to SCI for future titles[^ref-3][^ref-4].
+
+The game was a commercial success, selling over 100,000 copies and earning the SPA Gold Medal from the Software Publishers Association[^ref-1][^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -185,6 +191,7 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest III: The Pirates
 [[1993 - Space Quest V - The Next Mutation]]
 
 [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+
 ## References
 [^ref-1]: [Wikipedia – Space Quest II](https://en.wikipedia.org/wiki/Space_Quest_II) – SPA Gold Medal, Top 5 Bestsellers ranking
 [^ref-2]: [Sierra Chest – Space Quest II](https://www.sierrachest.com/index.php?a=games&id=10&title=space-quest-2&fld=general) – Sierra history, collections, platforms

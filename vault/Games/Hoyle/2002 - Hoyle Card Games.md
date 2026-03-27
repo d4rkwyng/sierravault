@@ -313,6 +313,7 @@ The game's technical conservatism, criticized at release, ironically contributed
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/72768/hoyle-card-games/) – technical specifications, games included, platform information, Facemaker feature, international games

@@ -331,6 +331,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1994 - King's Quest VII - The Princeless Bride]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest: Mask of Eternity](https://en.wikipedia.org/wiki/King%27s_Quest:_Mask_of_Eternity) – release dates, development history, sales data, awards, technical specifications

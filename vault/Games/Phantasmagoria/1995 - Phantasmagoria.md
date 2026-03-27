@@ -289,6 +289,7 @@ Yet the game's influence on horror gaming and interactive storytelling cannot be
 - [[Roberta Williams]] - Creator
 [[Phantasmagoria]]
 [[Phantasmagoria - A Puzzle of Flesh]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Phantasmagoria (video game)](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) – comprehensive development history, sales figures, critical reception, awards, cast, technical specs

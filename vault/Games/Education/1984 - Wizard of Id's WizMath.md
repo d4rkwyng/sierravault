@@ -210,6 +210,7 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 [[Kids' Typing]]
 [[Learning with FuzzyWOMP]]
 [[Wizard of Id's WizMath]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Wizard of Id's WizMath Manual](https://archive.org/details/Wizard_of_Ids_Wizmath_1984_Sierra_On-Line) – publication metadata, release date, publisher information

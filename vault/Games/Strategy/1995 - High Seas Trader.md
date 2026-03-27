@@ -135,6 +135,7 @@ The title represents an important entry in Sierra's diverse portfolio during the
 [[Birthright - The Gorgon's Alliance]]
 [[High Seas Trader]]
 [[V for Victory - D-Day Utah Beach]]
+
 ## References
 
 [^ref-1]: [Archive.org](https://archive.org/details/msdos_High_Seas_Trader_1995) – - Game description and premise

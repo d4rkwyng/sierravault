@@ -82,6 +82,7 @@ tags: [1990s, sci, sierra, simulation, standalone]
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game presents players with a satirical take on the pursuit of the American Dream[^ref-4].

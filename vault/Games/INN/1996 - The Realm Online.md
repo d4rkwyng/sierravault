@@ -101,7 +101,9 @@ Development was not without challenges. David Slaybeck experienced a medical iss
 
 The game was originally developed on The Sierra Network (TSN), Sierra's proprietary online gaming service that would later become the Imagination Network before being sold to AT&T and eventually AOL.[^ref-12] This complex ownership history of the underlying platform would foreshadow The Realm's own tumultuous journey through multiple corporate hands.
 
-An intriguing aspect of the game's development involved its near-connection to the Quest for Glory franchise. After Sierra's management changed, Lori and Corey Cole were approached to co-design a multiplayer online game using the Quest for Glory name.[^ref-13] As Corey Cole later revealed: "Yes, the game was The Realm. It was quite far along at that point, but Sierra was looking at 'branding' it as 'World of Quest for Glory.' That sounded exciting, and they wanted us to create quests for it."[^ref-13] However, when the Coles asked about tools and support for creating quests, the developers admitted they hadn't created anything along those lines yet, assuming they could add quests at the end of the project.[^ref-13] This meeting ultimately led to the Coles working on Quest for Glory V instead.
+An intriguing aspect of the game's development involved its near-connection to the Quest for Glory franchise.
+
+After Sierra's management changed, Lori and Corey Cole were approached to co-design a multiplayer online game using the Quest for Glory name.[^ref-13] As Corey Cole later revealed: "Yes, the game was The Realm. It was quite far along at that point, but Sierra was looking at 'branding' it as 'World of Quest for Glory.' That sounded exciting, and they wanted us to create quests for it."[^ref-13] However, when the Coles asked about tools and support for creating quests, the developers admitted they hadn't created anything along those lines yet, assuming they could add quests at the end of the project.[^ref-13] This meeting ultimately led to the Coles working on Quest for Glory V instead.
 
 **Development Credits:**[^ref-1][^ref-3][^ref-4]
 - **Lead Designer:** Stephen Nichols
@@ -243,6 +245,7 @@ The game also represents an important cautionary tale about the challenges of de
 [[1991 - The Shadow of Yserbius]]
 
 [[1993 - Fates of Twinion]]
+
 ## References
 
 [^ref-1]: [Wikipedia – The Realm Online](https://en.wikipedia.org/wiki/The_Realm_Online) – Comprehensive development history, ownership changes, technical specifications, sales data, designer credits

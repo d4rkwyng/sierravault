@@ -243,6 +243,7 @@ The game also represents an important artifact of early 2000s fan game developme
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [MobyGames – Space Quest 0: Replicated](https://www.mobygames.com/game/11653/space-quest-0-replicated/) – developer, engine, ratings, platform, gameplay description

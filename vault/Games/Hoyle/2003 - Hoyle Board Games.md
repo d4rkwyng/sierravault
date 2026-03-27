@@ -378,6 +378,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [IGN – Hoyle Board Games 2003](https://www.ign.com/games/hoyle-board-games-2003) – release date, developer, publisher, game description

@@ -232,6 +232,7 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [[2004 - Lords of the Realm III]]
 [[Lords of the Realm]]
 [[Lords of the Realm II - Siege Pack]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Lords of the Realm (DOS)](https://archive.org/details/msdos_Lords_of_the_Realm_1994) – release date, game description, gameplay mechanics

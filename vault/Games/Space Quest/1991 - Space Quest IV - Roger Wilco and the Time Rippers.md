@@ -20,7 +20,15 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2]. Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the fourth installment in the Space Quest series and the first to feature Sierra's icon-based point-and-click SCI interface and 256-color VGA graphics[^ref-3][^ref-6]. The game was released on floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support, featuring Laugh-In announcer Gary Owens as the narrator[^ref-4][^ref-32]. The game cost over $1,000,000 to produce but was a commercial success, selling more copies than all three previous Space Quest games combined[^ref-4][^ref-5]. It was one of the first games to use motion capture animation and featured video-captured animation[^ref-3][^ref-4].
+Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
+
+Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the fourth installment in the Space Quest series and the first to feature Sierra's icon-based point-and-click SCI interface and 256-color VGA graphics[^ref-3][^ref-6].
+
+The game was released on floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support, featuring Laugh-In announcer Gary Owens as the narrator[^ref-4][^ref-32].
+
+The game cost over $1,000,000 to produce but was a commercial success, selling more copies than all three previous Space Quest games combined[^ref-4][^ref-5].
+
+It was one of the first games to use motion capture animation and featured video-captured animation[^ref-3][^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -101,7 +109,19 @@ Space Quest IV was the last game the Two Guys from Andromeda made together befor
 
 The game was developed using 256-color hand-painted graphics and was one of the first games ever to use motion capture animation[^ref-3][^ref-4][^ref-31]. The overall cost of the game was far greater than previous titles, exceeding $1,000,000—making it comparable to King's Quest V, which was Sierra's first million-dollar-plus production effort according to the King's Quest Collection Series manual[^ref-3][^ref-4].
 
-The game was released originally on six high-density floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support[^ref-3][^ref-4]. The CD-ROM version featured voices from Sierra employees, except the narrator Gary Owens—a legendary voice actor with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost[^ref-3][^ref-36]. Notable voice cast included Jeff Bender as Roger Wilco, Scott Murphy himself as Sludge Vohaul, Josh Mandel as the Monolith Burger Manager, and future Gabriel Knight designer Jane Jensen as Maebot[^ref-38]. When writing narrator lines, Scott Murphy always imagined Gary Owens speaking them; signing Owens was "a dream come true"[^ref-36]. Murphy later stated Owens was "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with"[^ref-37]. Scott Murphy later revealed that the CD-ROM version was not authorized by the Two Guys—neither designer worked on it, having moved onto other projects, and other developers implemented modifications to areas like Galaxy Galleria[^ref-31]. An Atari ST version was announced via Sierra News Magazine but was later canceled[^ref-4].
+The game was released originally on six high-density floppy disks in March 1991 and later re-released on CD-ROM in December 1992 with full speech support[^ref-3][^ref-4].
+
+The CD-ROM version featured voices from Sierra employees, except the narrator Gary Owens—a legendary voice actor with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost[^ref-3][^ref-36].
+
+Notable voice cast included Jeff Bender as Roger Wilco, Scott Murphy himself as Sludge Vohaul, Josh Mandel as the Monolith Burger Manager, and future Gabriel Knight designer Jane Jensen as Maebot[^ref-38].
+
+When writing narrator lines, Scott Murphy always imagined Gary Owens speaking them; signing Owens was "a dream come true"[^ref-36].
+
+Murphy later stated Owens was "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with"[^ref-37].
+
+Scott Murphy later revealed that the CD-ROM version was not authorized by the Two Guys—neither designer worked on it, having moved onto other projects, and other developers implemented modifications to areas like Galaxy Galleria[^ref-31].
+
+An Atari ST version was announced via Sierra News Magazine but was later canceled[^ref-4].
 
 Space Quest IV pioneered the use of digitally scanned artwork for backgrounds—the only game in the series to use this technique[^ref-31]. While Roger remained a bitmap-animated character, environments were created from acrylic paintings scanned into computer memory. Roger's sprite was constructed within a 33×16-18 square grid, with animators creating hundreds of individual frames to simulate movement[^ref-31]. Developers organized rooms using 16 priority bands (horizontal grid divisions) to control object placement and character movement[^ref-31].
 
@@ -307,6 +327,7 @@ Series: [[Space Quest: The Sarien Encounter]] • [[Space Quest II: Vohaul's Rev
 [[1993 - Space Quest V - The Next Mutation]]
 
 [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+
 ## References
 [^ref-1]: [Wikipedia – Space Quest IV](https://en.wikipedia.org/wiki/Space_Quest_IV) – White Wolf 4/5 review (Jim Trunzo), Amiga 19% reviews
 [^ref-2]: [Sierra Chest – Space Quest IV](https://www.sierrachest.com/index.php?a=games&id=12&title=space-quest-4&fld=general) – Sierra history, collections, platforms

@@ -278,6 +278,7 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 
 [[1993 - Police Quest - Open Season]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest III: The Kindred](https://en.wikipedia.org/wiki/Police_Quest_3%3A_The_Kindred) – development history, critical reception, sales data, Sega CD cancellation

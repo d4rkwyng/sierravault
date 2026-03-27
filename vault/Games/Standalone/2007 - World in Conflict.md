@@ -362,6 +362,7 @@ As one retrospective observed, World in Conflict "purposely removes resource gat
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
 [[World in Conflict]]
+
 ## References
 
 [^ref-1]: [Wikipedia – World in Conflict](https://en.wikipedia.org/wiki/World_in_Conflict) – release dates, developer, publisher, awards, critical scores, expansion info

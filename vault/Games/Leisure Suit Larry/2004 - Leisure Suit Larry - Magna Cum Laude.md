@@ -351,6 +351,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Magna Cum Laude](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Magna_Cum_Laude) – release dates, ratings, awards, development history, version information

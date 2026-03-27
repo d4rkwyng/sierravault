@@ -180,6 +180,7 @@ While Moebius did not achieve the critical success of Jensen's Gabriel Knight se
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## References
 
 [^ref-1]: [IMDb](https://www.imdb.com/title/tt4054536/) – - Game credits and basic information

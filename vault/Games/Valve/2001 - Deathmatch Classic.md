@@ -265,6 +265,7 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [[Deathmatch Classic]]
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
+
 ## References
 
 [^ref-1]: [Metacritic – Deathmatch Classic](https://www.metacritic.com/game/deathmatch-classic/) – release date, developer, publisher, user score

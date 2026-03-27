@@ -306,6 +306,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [Adventure Classic Gaming – King's Quest V Review](http://www.adventureclassicgaming.com/index.php/site/reviews/70/) – technical specifications, awards, review score, development milestones

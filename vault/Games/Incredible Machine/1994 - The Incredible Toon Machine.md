@@ -235,6 +235,7 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [[The Incredible Machine - Even More Contraptions]]
 [[The Incredible Machine 2]]
 [[The Incredible Toon Machine]]
+
 ## References
 
 [^ref-1]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – developer, publisher, designer credits, platform information, critic score

@@ -237,6 +237,7 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
 [[Space Quest II VGA Remake]]
+
 ## References
 
 [^ref-1]: [Game Essence – Space Quest II VGA Remake](https://www.gamessence.net/space-quest-ii-vga-remake-by-infamous-adventures/) – Developer identification, original creators, game description

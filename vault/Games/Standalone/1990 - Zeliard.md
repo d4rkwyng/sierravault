@@ -83,6 +83,7 @@ tags: [1980s, rpg, sci, sierra, standalone]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
 [[Zeliard]]
+
 ## Overview
 
 Zeliard is a side-scrolling action role-playing game developed by [[Game Arts]] that combines platforming mechanics with RPG elements, originally released for the NEC PC-8801 in Japan on December 19, 1987[^ref-1]. The game was subsequently ported to the Sharp X1 on May 13, 1988, before Sierra On-Line brought it to Western audiences on MS-DOS in 1990 as part of their licensing agreement with Game Arts[^ref-2]. As Game Arts' third game and their first foray into the RPG genre, Zeliard arrived at a pivotal moment in gaming history, releasing between Zelda II (January 1987) and Ys III (1989)[^ref-3].

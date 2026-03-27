@@ -127,7 +127,9 @@ The game simulated realistic air traffic control interactions, with AI controlle
 **Media:**[^ref-1][^ref-12]
 - **Format:** CD-ROM
 - **Discs:** Multiple CDs (US and European map data)
-- **Download Size (Archive):** 193-828 MB depending on version[^ref-1][^ref-17]
+-
+
+**Download Size (Archive):** 193-828 MB depending on version[^ref-1][^ref-17]
 
 **Ratings:**[^ref-12]
 - **ESRB:** Kids to Adults / Everyone
@@ -196,6 +198,7 @@ The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving 
 
 - [[1997 - Sierra Pro Pilot 98|← Previous: Sierra Pro Pilot 98]]
 - [[1998 - Sierra Pro Pilot USA|→ Next: Sierra Pro Pilot USA]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Sierra Pro Pilot 98](https://archive.org/details/sierra-pro-pilot-98-the-complete-flight-simulator) – release date, developer, publisher, archive metadata

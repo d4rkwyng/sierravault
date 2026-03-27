@@ -36,7 +36,17 @@ Set in medieval England in 1268 A.D., the game places players in a struggle for 
 
 ## Story Summary
 
-The English throne lies empty in 1268 A.D., and players find themselves as one of six lords locked in a struggle for the crown[^ref-3]. As the game description states: "When the throne of England sits empty, the sword rules"[^ref-9]. The medieval setting places players in the role of nobles who must manage their territories and armies to conquer neighboring realms before being conquered themselves[^ref-9]. The ultimate goal is clear and unforgiving: "Because in the end, you're either king - or you're dead"[^ref-9]. The political landscape shifts as alliances form and break, requiring players to balance diplomacy with military strength. County conquest involves not just defeating enemy armies but winning over populations, as newly conquered lands may harbor resentment that complicates administration and resource extraction.
+The English throne lies empty in 1268 A.D., and players find themselves as one of six lords locked in a struggle for the crown[^ref-3].
+
+As the game description states: "When the throne of England sits empty, the sword rules"[^ref-9].
+
+The medieval setting places players in the role of nobles who must manage their territories and armies to conquer neighboring realms before being conquered themselves[^ref-9].
+
+The ultimate goal is clear and unforgiving: "Because in the end, you're either king - or you're dead"[^ref-9].
+
+The political landscape shifts as alliances form and break, requiring players to balance diplomacy with military strength.
+
+County conquest involves not just defeating enemy armies but winning over populations, as newly conquered lands may harbor resentment that complicates administration and resource extraction.
 
 ## Gameplay
 
@@ -69,7 +79,13 @@ The siege warfare mechanics are the expansion's primary focus. Players can desig
 
 ## Castle Design
 
-One of the Siege Pack's standout features was its castle design system, allowing players to create fortifications using historical blueprints[^ref-10]. Players could position walls, towers, gatehouses, and defensive emplacements according to strategic principles. Castle construction required resources and time, making defensive investment a significant strategic decision. The system encouraged experimentation with different layouts, as some configurations proved more resistant to specific siege tactics. Well-designed castles could repel attacks from superior forces, while poorly planned fortifications crumbled quickly under assault. The ability to save and share castle designs extended the community engagement, with players exchanging effective defensive layouts and challenging each other to breach their creations.
+One of the Siege Pack's standout features was its castle design system, allowing players to create fortifications using historical blueprints[^ref-10].
+
+Players could position walls, towers, gatehouses, and defensive emplacements according to strategic principles.
+
+Castle construction required resources and time, making defensive investment a significant strategic decision. The system encouraged experimentation with different layouts, as some configurations proved more resistant to specific siege tactics.
+
+Well-designed castles could repel attacks from superior forces, while poorly planned fortifications crumbled quickly under assault. The ability to save and share castle designs extended the community engagement, with players exchanging effective defensive layouts and challenging each other to breach their creations.
 
 ## Reception
 
@@ -133,6 +149,7 @@ For fans of medieval strategy games, Lords of the Realm II: Siege Pack remains a
 - [[2004 - Lords of the Realm III|→ Next: Lords of the Realm III]]
 
 [[1994 - Lords of the Realm]]
+
 ## References
 
 [^ref-1]: [MobyGames - Lords of the Realm II: Siege Pack](https://www.mobygames.com/game/2941/lords-of-the-realm-ii-siege-pack/) – - Publisher and developer information

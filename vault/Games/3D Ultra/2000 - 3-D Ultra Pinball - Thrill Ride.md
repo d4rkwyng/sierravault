@@ -289,6 +289,7 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Wikipedia – 3-D Ultra Pinball: Thrillride](https://en.wikipedia.org/wiki/3-D_Ultra_Pinball:_Thrillride) – release dates, developers, critical scores, gameplay features, easter eggs

@@ -272,6 +272,7 @@ The game also exemplifies the rapid multi-platform development practices of the 
 - [[1984 - BC II - Grog's Revenge|→ Next: BC II - Grog's Revenge]]
 [[BC II - Grog's Revenge]]
 [[BC's Quest for Tires]]
+
 ## References
 
 [^ref-1]: [MobyGames – B.C.'s Quest for Tires](https://www.mobygames.com/game/7196/bcs-quest-for-tires/) – platform releases, ratings, technical specifications, developer credits

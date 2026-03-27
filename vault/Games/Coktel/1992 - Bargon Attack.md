@@ -273,6 +273,7 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [[ESS - European Space Simulator]]
 [[Emmanuelle]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [MobyGames – Bargon Attack](https://www.mobygames.com/game/13178/bargon-attack/) – developer info, platform details, interface innovations, FMV technology

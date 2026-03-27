@@ -128,6 +128,7 @@ Despite being banned in Germany due to its violence level and placement on the '
 [[A-10 Tank Killer]]
 [[A-10 Tank Killer v1.5]]
 [[Silent Thunder - A-10 Tank Killer II]]
+
 ## References
 
 [^ref-1]: [Amiga Reviews - A-10 Tank Killer](https://www.amigareviews.leveluphost.com/a10tankk.htm) – - Multiple contemporary Amiga gaming publication reviews with detailed scores and technical analysis

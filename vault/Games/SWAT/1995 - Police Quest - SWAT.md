@@ -274,6 +274,7 @@ The title "truly did signal the end of the franchise" in terms of adventure gami
 [[2006 - SWAT Force]]
 
 [[2007 - SWAT - Target Liberty]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest: SWAT](https://en.wikipedia.org/wiki/Police_Quest:_SWAT) – release dates, platforms, review scores, sales data, technical details

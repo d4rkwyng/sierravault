@@ -123,6 +123,7 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [[1992 - Aces of the Pacific]]
 
 [[1993 - Aces Over Europe]]
+
 ## References
 
 [^ref-1]: [Old-Games.com](https://www.old-games.com/download/4200/command-aces-of-the-deep) – - Windows version details and release information

@@ -22,7 +22,15 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2]. Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6]. The game was always planned as part of the series (whereas Wages of War originally was not), but it would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line[^ref-1][^ref-4]. Dragon Fire features polygonal 3D characters over pre-rendered 2D backgrounds, making it one of the earliest adopters of a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1]. The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].
+Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2].
+
+Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
+
+The game was always planned as part of the series (whereas Wages of War originally was not), but it would not have been produced if not for fans' enthusiasm and their pleas to Sierra On-Line[^ref-1][^ref-4].
+
+Dragon Fire features polygonal 3D characters over pre-rendered 2D backgrounds, making it one of the earliest adopters of a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1].
+
+The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
@@ -143,7 +151,13 @@ Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^re
 
 Quest for Glory V: Dragon Fire represents a divisive conclusion to the beloved series[^ref-1]. The game underwent a significant genre shift—while the first four Quest for Glory games were graphic adventures with RPG elements, Dragon Fire is an RPG with adventure elements[^ref-28]. This made combat a much larger part of the game, particularly notable since previous games allowed thieves and magic users to complete with minimal fighting[^ref-28]. While some critics like Adam Rosenberg of G4TV consider it the best entry, others like Rowan Kaizer of Engadget consider it the weakest due to this shift and the primitive 3D graphics[^ref-1].
 
-The game's setting, inspired by ancient Greek myths and legends, introduces Silmaria as a land reminiscent of classical Greece with elements like the Rites of Rulership, Atlantis mythology, and creatures such as the Hydra and Cerberus[^ref-28]. Despite mixed reception, the game provided closure to the Hero's journey with numerous characters returning for the finale—including Elsa von Spielburg, Erasmus, Rakeesh, and villains like Bruno and Baba Yaga[^ref-1][^ref-4][^ref-28]. Dragon Fire was a nominee for CNET Gamecenter's 1998 "Adventure Game of the Year" award, demonstrating that the game was well-received by contemporary critics despite later reassessments[^ref-1]. The closure of Yosemite Entertainment on February 22, 1999 ended any possibility of future entries, making Dragon Fire the definitive conclusion to the Quest for Glory saga[^ref-1][^ref-4].
+The game's setting, inspired by ancient Greek myths and legends, introduces Silmaria as a land reminiscent of classical Greece with elements like the Rites of Rulership, Atlantis mythology, and creatures such as the Hydra and Cerberus[^ref-28].
+
+Despite mixed reception, the game provided closure to the Hero's journey with numerous characters returning for the finale—including Elsa von Spielburg, Erasmus, Rakeesh, and villains like Bruno and Baba Yaga[^ref-1][^ref-4][^ref-28].
+
+Dragon Fire was a nominee for CNET Gamecenter's 1998 "Adventure Game of the Year" award, demonstrating that the game was well-received by contemporary critics despite later reassessments[^ref-1].
+
+The closure of Yosemite Entertainment on February 22, 1999 ended any possibility of future entries, making Dragon Fire the definitive conclusion to the Quest for Glory saga[^ref-1][^ref-4].
 
 ### Collections
 
@@ -194,6 +208,7 @@ Series: [[Quest for Glory: So You Want to Be a Hero]] • [[Quest for Glory II: 
 [[1992 - Quest for Glory III - Wages of War]]
 
 [[1993 - Quest for Glory IV - Shadows of Darkness]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – history, plot, gameplay, development, reception

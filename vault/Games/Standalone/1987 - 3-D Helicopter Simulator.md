@@ -83,6 +83,7 @@ tags: [1980s, sierra, simulation, standalone]
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 3-D Helicopter Simulator is a combat flight simulation game released by Sierra On-Line in September 1987 for DOS systems[^ref-1][^ref-3][^ref-11][^ref-12]. The game placed players in the cockpit of the McDonnell Douglas AH-64A Apache attack helicopter, offering a combination of computerized flight training with realistic combat action[^ref-3][^ref-4]. Sierra marketed it as "a red hot combination of computerized flight training with realistic action," positioning the title as both an educational experience and an engaging combat simulator[^ref-3].

@@ -279,6 +279,7 @@ The game's legacy has been somewhat rehabilitated by modern retrospective analys
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [MobyGames – 3-D Ultra Radio Control Racers Deluxe: Traxxas Edition](https://www.mobygames.com/game/192321/3-d-ultra-radio-control-racers-deluxe-traxxas-edition/) – developer, publisher, designers, ESRB rating, box quotes

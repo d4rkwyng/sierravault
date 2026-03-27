@@ -254,6 +254,7 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-4]: [Consolidated Research Data](N/A) – Game description, thematic details, gameplay overview

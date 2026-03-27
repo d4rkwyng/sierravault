@@ -176,6 +176,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Internet Archive - 3-D Ultra Minigolf](https://archive.org/details/3-d-ultra-minigolf) – - Game description and series information

@@ -266,6 +266,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [Wikipedia – King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III) – release dates, sales data, awards, Roberta Williams quotes, technical specifications, version history

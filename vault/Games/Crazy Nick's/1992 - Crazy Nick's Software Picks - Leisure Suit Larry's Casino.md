@@ -251,6 +251,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 [[Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
 [[Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 [[Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
+
 ## References
 
 [^ref-1]: [MobyGames – Crazy Nick's Software Picks: Leisure Suit Larry's Casino](https://www.mobygames.com/game/92556/crazy-nicks-software-picks-leisure-suit-larrys-casino/) – release date, developer, publisher, credits, gameplay description, ratings, collection appearances

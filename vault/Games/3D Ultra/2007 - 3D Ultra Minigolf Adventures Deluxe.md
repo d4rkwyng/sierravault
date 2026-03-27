@@ -263,6 +263,7 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details

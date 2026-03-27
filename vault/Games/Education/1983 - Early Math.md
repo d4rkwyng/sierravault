@@ -224,6 +224,7 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 [[Early Math]]
 [[Kids' Typing]]
 [[Learning with FuzzyWOMP]]
+
 ## References
 
 [^ref-1]: [MobyGames – Early Math](https://mobygames.com/game/early-math) – developer, publisher, credits, platforms, release date, rating, gameplay mechanics, mini-games

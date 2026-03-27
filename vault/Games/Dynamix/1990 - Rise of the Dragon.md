@@ -294,6 +294,7 @@ The game's influence can be seen in later cyberpunk adventures and the general a
 [[David Wolf - Secret Agent]]
 [[Rise of the Dragon]]
 [[Sierra Soccer - World Challenge Edition]]
+
 ## References
 
 [^ref-1]: [MobyGames – Rise of the Dragon](https://www.mobygames.com/game/648/rise-of-the-dragon/) — Comprehensive database entry with credits, ratings, and Dragon magazine 5/5 review

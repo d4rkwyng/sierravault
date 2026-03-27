@@ -319,6 +319,7 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) – technical specifications, development timeline, content statistics

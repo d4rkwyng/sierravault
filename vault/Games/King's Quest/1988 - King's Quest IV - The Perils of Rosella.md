@@ -288,6 +288,7 @@ Series: [[King's Quest: Quest for the Crown]] • [[King's Quest II: Romancing t
 [[1998 - King's Quest - Mask of Eternity]]
 
 [[2015 - King's Quest]]
+
 ## References
 
 [^ref-1]: [Adventure Gamers - King's Quest IV](https://adventuregamers.com/games/kings-quest-iv-the-perils-of-rosella) – - Review score (3.5/5), groundbreaking firsts, editorial verdict

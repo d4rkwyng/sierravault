@@ -254,6 +254,7 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 [[1983 - WallWar]]
 [[Aquatron]]
 [[WallWar]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game)) – release dates, developer, publisher, contemporary reviews, naming history

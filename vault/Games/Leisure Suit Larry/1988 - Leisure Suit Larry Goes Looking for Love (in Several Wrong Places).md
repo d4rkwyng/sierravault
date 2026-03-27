@@ -282,6 +282,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: [MobyGames – Leisure Suit Larry Goes Looking for Love](https://www.mobygames.com/game/409/leisure-suit-larry-goes-looking-for-love-in-several-wrong-places/) – ratings, credits, releases, trivia, awards

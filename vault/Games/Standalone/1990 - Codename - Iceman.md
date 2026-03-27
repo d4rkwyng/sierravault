@@ -82,6 +82,7 @@ tags: [1990s, adventure, codename-standalone, sci, sierra]
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 Codename: ICEMAN is a graphical adventure game made with the SCI engine and published by Sierra On-Line in 1990.[^ref-1] The lead designer was [[Jim Walls]], a former police officer who also created several Police Quest games.[^ref-1] The game represents an ambitious attempt to blend traditional adventure game mechanics with detailed submarine simulation, creating a unique hybrid experience that challenged players in ways few Sierra titles had before.[^ref-2]

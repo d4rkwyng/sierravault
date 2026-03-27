@@ -162,6 +162,7 @@ Series: [[Police Quest II: The Vengeance]] • [[Police Quest III: The Kindred]]
 [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 
 [[1993 - Police Quest - Open Season]]
+
 ## References
 
 [^ref-1]: [The Games Machine UK Review](https://archive.org/details/the-games-machine) — 4.22/5 stars, "large adventure with more than one solution"

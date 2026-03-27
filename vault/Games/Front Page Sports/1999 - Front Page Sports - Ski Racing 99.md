@@ -269,6 +269,7 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Ski Racing '99](https://www.mobygames.com/game/243406/front-page-sports-ski-racing-99/) – developer, publisher, release date, platform, skiing variants, World Cup slopes, ratings, technical specifications
@@ -294,7 +295,6 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – official patches availability, Sierra publisher confirmation
 
 [^ref-12]: [Steam Store – Search Results](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Ski+Racing+%2799) – game not available on Steam platform
-
 
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release

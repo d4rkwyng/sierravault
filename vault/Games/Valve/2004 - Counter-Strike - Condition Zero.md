@@ -340,6 +340,7 @@ For its era, the bot AI represented a genuine technical achievement that would i
 [[Counter-Strike - Condition Zero]]
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
+
 ## References
 
 [^ref-1]: [Counter-Strike Wiki – Counter-Strike: Condition Zero](https://counterstrike.fandom.com/wiki/Counter-Strike:_Condition_Zero) – release dates, developers, sales data, technical features, version history

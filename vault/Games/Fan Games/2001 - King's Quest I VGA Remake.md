@@ -343,6 +343,7 @@ The team's approach of receiving official licensing before distribution set an i
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [AGD Interactive – Release History](https://www.agdinteractive.com/games/kq1/about/aboutrelease.html) – version dates, download statistics, technical specifications

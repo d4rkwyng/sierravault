@@ -361,6 +361,7 @@ The series quote that "it may only appeal to players who are unfamiliar with any
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Board Games 2001](https://www.mobygames.com/game/31043/hoyle-board-games-2001/) – developer, publisher, credits, release dates, ratings, alternate titles, platforms

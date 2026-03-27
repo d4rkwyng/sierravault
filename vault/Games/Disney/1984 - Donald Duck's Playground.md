@@ -237,6 +237,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
 
 [[1986 - The Black Cauldron]]
+
 ## References
 
 [^ref-1]: [Al Lowe's Personal Website – Games Download Page](https://allowe.com/downloads/games.html) – development history, Disney commission, interface details, awards, freeware availability

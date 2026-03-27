@@ -164,7 +164,13 @@ Cryo Interactive developed a more ambitious adventure game adaptation, released 
 **2009-2010 - Captain Nemo Hidden Object Series:**
 Mzone Studio and Solilab developed a hidden object adventure game published by Anuman Interactive and various regional publishers including S.A.D. Software (Germany), Game Factory Interactive, and Russobit-M (Russia)[^ref-16]. The game was released for Windows (November 18, 2009), Macintosh (2009), iPhone (2010), and iPad (2010)[^ref-16]. Designer Christophe Leclerc helmed the project, with music composed by Dan Foster[^ref-16]. The game used "original illustrations by Alphonse De Neuville and Edouard Riou," the artists who illustrated the original 1870 novel[^ref-16].
 
-The hidden object game received mixed reception, with Common Sense Media noting it was "exceedingly difficult and liable to cause a lot of frustration for younger players (and possibly older ones as well)" while being "one of the more difficult hidden object adventures we've seen"[^ref-17]. Gamezebo gave it 50/100, with the reviewer stating "While there are some aspects of this hidden object game I did like, the negative points outweighed the positive, and I ultimately found myself not having any fun"[^ref-18]. The underwater scenes were criticized as "so poorly executed and so overly filled with junk that it felt more like I'd stumbled into an underwater dumping ground than a classic adventure tale"[^ref-18]. Kinthdom's review stated "I cannot recommend this game due to how poor the game" and noted issues with "translation errors throughout game," "poor screen compatibility with modern monitors," and only supporting 4:3 aspect ratio[^ref-19].
+The hidden object game received mixed reception, with Common Sense Media noting it was "exceedingly difficult and liable to cause a lot of frustration for younger players (and possibly older ones as well)" while being "one of the more difficult hidden object adventures we've seen"[^ref-17].
+
+Gamezebo gave it 50/100, with the reviewer stating "While there are some aspects of this hidden object game I did like, the negative points outweighed the positive, and I ultimately found myself not having any fun"[^ref-18].
+
+The underwater scenes were criticized as "so poorly executed and so overly filled with junk that it felt more like I'd stumbled into an underwater dumping ground than a classic adventure tale"[^ref-18].
+
+Kinthdom's review stated "I cannot recommend this game due to how poor the game" and noted issues with "translation errors throughout game," "poor screen compatibility with modern monitors," and only supporting 4:3 aspect ratio[^ref-19].
 
 **2018 - Steam Release:**
 The Captain Nemo hidden object game received a Steam release on March 15, 2018, published by M.INDIE[^ref-20]. Steam user reviews were Mixed, with 67% of 43 reviews being positive[^ref-20].
@@ -253,6 +259,7 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 [[ESS - European Space Simulator]]
 [[Emmanuelle]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [Adventure Gamers – 20,000 Leagues Under the Sea](https://adventuregamers.com/games/view/16140) – release date, developer, publisher, gameplay perspective, themes

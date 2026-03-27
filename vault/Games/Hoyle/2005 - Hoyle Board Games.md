@@ -349,6 +349,7 @@ The enthusiastic response from modern players on abandonware sites, calling for 
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-2]: [GameFAQs – Hoyle Board Games 2005](https://gamefaqs.gamespot.com/pc/929441-hoyle-board-games-2005) – developer, publisher information

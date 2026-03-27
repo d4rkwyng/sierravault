@@ -336,6 +336,7 @@ However, the game's limitations—particularly the non-functional multiplayer mo
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Casino 1999](https://www.mobygames.com/game/9089/hoyle-casino-99/) — Release date, bundled demos, and platform information

@@ -358,6 +358,7 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Al Emmo and the Lost Dutchman's Mine](https://en.wikipedia.org/wiki/Al_Emmo_and_the_Lost_Dutchman%27s_Mine) – release dates, platforms, developer information, engine, version history

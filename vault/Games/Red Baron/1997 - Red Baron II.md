@@ -247,6 +247,7 @@ The game's significance extends beyond its troubled launch. It preserved the acc
 [[2008 - Red Baron Arcade]]
 [[Red Baron - Mission Builder]]
 [[Red Baron II]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Red Baron II](https://en.wikipedia.org/wiki/Red_Baron_II) – release dates, development credits, ratings, awards, pizza coupon trivia

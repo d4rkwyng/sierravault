@@ -250,6 +250,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 [[Emmanuelle]]
 [[The Last Dynasty]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-6]: [Wikipedia – The Last Dynasty](https://en.wikipedia.org/wiki/The_Last_Dynasty) – developer, publisher, platform, release year, review scores

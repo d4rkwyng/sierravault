@@ -312,6 +312,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
 - **Spiritual Successor:** [[Laura Bow and the Mechanical Codex]] (fan-made 2021 sequel)
+
 ## References
 
 [^ref-1]: [Wikipedia – The Dagger of Amon Ra](https://en.wikipedia.org/wiki/The_Dagger_of_Amon_Ra) – release dates, composers, trivia, contemporary reviews

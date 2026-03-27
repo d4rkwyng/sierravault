@@ -82,6 +82,7 @@ tags: [1980s, none, sierra]
 [[Sierra Championship Boxing]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## Overview
 
 Sierra Championship Boxing is a pioneering sports simulation game developed by Evryware and published by Sierra On-Line in 1985, first released for the IBM PC in 1983.[^ref-1] The game was described by InfoWorld as "by far the most extensive sports game created for a microcomputer" and was predicted to potentially "usher in a new era of sports simulation games."[^ref-2] Unlike arcade-style boxing games of its era, Sierra Championship Boxing took a methodical, strategic approach to the sport that felt "more like a chess match than a brawl."[^ref-3]

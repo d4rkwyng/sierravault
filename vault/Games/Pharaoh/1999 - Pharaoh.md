@@ -36,7 +36,17 @@ Development began after Impressions decided it was time for a change of scenery 
 
 ## Story Summary
 
-Players take on the role of a family following it through Egypt's dynasties, with the ultimate goal of becoming pharaoh through successful city management and construction projects[^ref-2]. The campaign spans over 50 missions covering different periods of Egyptian history, from the Old Kingdom through the New Kingdom[^ref-8]. During certain plague events, Moses appears as a mysterious leader of slave labor, providing a subtle nod to biblical history[^ref-9]. The game incorporates Egyptian mythology extensively, requiring players to appease various gods through festivals and temple construction to avoid divine wrath affecting their cities[^ref-10]. The campaign structure provides clear progression from humble villages to grand cities supporting pyramid construction, with later missions presenting formidable logistical challenges that test mastery of all game systems. Military scenarios add variety, requiring players to balance defensive preparations against economic development in scenarios where hostile neighbors threaten Egyptian settlements. The narrative thread connecting missions creates a sense of dynasty-building that elevates the experience beyond individual city management.
+Players take on the role of a family following it through Egypt's dynasties, with the ultimate goal of becoming pharaoh through successful city management and construction projects[^ref-2].
+
+The campaign spans over 50 missions covering different periods of Egyptian history, from the Old Kingdom through the New Kingdom[^ref-8].
+
+During certain plague events, Moses appears as a mysterious leader of slave labor, providing a subtle nod to biblical history[^ref-9].
+
+The game incorporates Egyptian mythology extensively, requiring players to appease various gods through festivals and temple construction to avoid divine wrath affecting their cities[^ref-10].
+
+The campaign structure provides clear progression from humble villages to grand cities supporting pyramid construction, with later missions presenting formidable logistical challenges that test mastery of all game systems.
+
+Military scenarios add variety, requiring players to balance defensive preparations against economic development in scenarios where hostile neighbors threaten Egyptian settlements. The narrative thread connecting missions creates a sense of dynasty-building that elevates the experience beyond individual city management.
 
 ## Gameplay
 
@@ -70,7 +80,15 @@ The religion system requires careful attention, as neglecting any of the five ma
 
 ## Monument Construction
 
-The monument construction system stands as Pharaoh's most distinctive feature. Building pyramids, obelisks, and mastabas required coordinating vast numbers of workers, ensuring adequate supplies of stone, and maintaining construction access roads. The process could span years of in-game time, requiring sustained city prosperity to support the labor force. Monument construction requires road access and can take extended periods to complete, with some players reporting leaving the game running for days waiting for massive structures to finish[^ref-16]. The satisfaction of completing a Great Pyramid after hours of careful planning and resource management created memorable gaming moments that players recall decades later. Each monument type presented unique construction challenges, with pyramids requiring internal chambers and burial goods while obelisks demanded precision placement of stone blocks.
+The monument construction system stands as Pharaoh's most distinctive feature.
+
+Building pyramids, obelisks, and mastabas required coordinating vast numbers of workers, ensuring adequate supplies of stone, and maintaining construction access roads. The process could span years of in-game time, requiring sustained city prosperity to support the labor force.
+
+Monument construction requires road access and can take extended periods to complete, with some players reporting leaving the game running for days waiting for massive structures to finish[^ref-16].
+
+The satisfaction of completing a Great Pyramid after hours of careful planning and resource management created memorable gaming moments that players recall decades later.
+
+Each monument type presented unique construction challenges, with pyramids requiring internal chambers and burial goods while obelisks demanded precision placement of stone blocks.
 
 ## Reception
 
@@ -131,6 +149,7 @@ The game's influence extends to the broader city-building genre, establishing co
 [[Cleopatra - Queen of the Nile]]
 [[Pharaoh]]
 [[Pharaoh - A New Era]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Pharaoh (video game)](https://en.wikipedia.org/wiki/Pharaoh_(video_game) – ) - Basic game information, developer, publisher, release year

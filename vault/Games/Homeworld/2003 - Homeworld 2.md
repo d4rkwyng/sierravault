@@ -286,6 +286,7 @@ As one passionate advocate wrote: "I believe it to be the greatest RTS of all ti
 [[Homeworld - Cataclysm]]
 [[Homeworld - Deserts of Kharak]]
 [[Homeworld 2]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Homeworld 2](https://en.wikipedia.org/wiki/Homeworld_2) – release dates, story details, technical specifications, awards nomination

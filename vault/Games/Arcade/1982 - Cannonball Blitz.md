@@ -240,6 +240,7 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [[1983 - WallWar]]
 [[Cannonball Blitz]]
 [[WallWar]]
+
 ## References
 
 [^ref-1]: [Internet Archive – Wozaday Cannonball Blitz](https://archive.org/details/wozaday_Cannonball_Blitz) – developer, publisher, release date, system requirements

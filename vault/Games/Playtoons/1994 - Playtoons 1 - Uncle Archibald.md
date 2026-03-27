@@ -119,7 +119,9 @@ A key technical achievement was the interoperability system that allowed assets 
 - **Media:** CD-ROM
 - **Perspective:** Fixed / Flip-screen[^ref-6]
 - **Players:** 1 Player
-- **Download Size (Archived):** 1.8 GB[^ref-6]
+-
+
+**Download Size (Archived):** 1.8 GB[^ref-6]
 
 ### Version History
 
@@ -203,6 +205,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [[Playtoons 2 - The Case of the Counterfeit Collaborator]]
 [[Playtoons 3 - The Secret of the Castle]]
 [[Playtoons 4 - The Mandarine Prince]]
+
 ## References
 
 [^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description

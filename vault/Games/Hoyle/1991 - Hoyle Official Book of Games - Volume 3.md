@@ -323,6 +323,7 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MyAbandonware – Hoyle Series Search](https://www.myabandonware.com/search/q/Hoyle+Classic+Games) – release dates, platforms

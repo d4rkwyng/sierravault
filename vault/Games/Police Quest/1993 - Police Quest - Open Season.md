@@ -172,6 +172,7 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest II: T
 [[1991 - Police Quest III - The Kindred]]
 
 [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
+
 ## References
 
 [^ref-1]: [Abandonware DOS - Police Quest: Open Season](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest:+Open+Season&gid=1571) – - Game details, ratings, and user comments

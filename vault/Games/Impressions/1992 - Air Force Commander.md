@@ -240,6 +240,7 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 [[1996 - Casino Deluxe 2]]
 
 [[2002 - Emperor - Rise of the Middle Kingdom]]
+
 ## References
 
 [^ref-1]: [MobyGames – Air Force Commander](https://www.mobygames.com/game/1988/air-force-commander/) – credits, ratings, technical specs, manual information, scenario details

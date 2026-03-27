@@ -122,6 +122,7 @@ An amusing piece of trivia emerged years after release when someone successfully
 [[2008 - Red Baron Arcade]]
 [[Red Baron - Mission Builder]]
 [[Red Baron 3D]]
+
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki - Red Baron 3-D](https://dynamix.fandom.com/wiki/Red_Baron_3-D) – - Development credits and technical details

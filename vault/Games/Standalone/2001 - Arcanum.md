@@ -383,6 +383,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## References
 
 [^ref-1]: [Amazon – Arcanum: Of Steamworks & Magick Obscura](https://www.amazon.com/Arcanum-Steamworks-Magick-Obscura-PC/dp/B00004TTHT) – product description, customer reviews, publication date

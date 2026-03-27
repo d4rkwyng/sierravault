@@ -46,7 +46,13 @@ The Homeworld saga begins on the desert planet of Kharak, where the Kushan peopl
 
 The Kushan spend sixty years constructing the Mothership, a massive spacecraft-constructing vessel capable of carrying them across the galaxy to reclaim their ancestral home[^ref-14]. Central to this endeavor is Karan S'jet, who integrates herself into the Mothership's systems to become Fleet Command, sacrificing her physical independence to guide her people through the stars[^ref-15]. As the Mothership prepares for its maiden hyperspace jump, the Taiidan Empire discovers Kharak and destroys it utterly in retaliation for the Kushan developing forbidden hyperspace technology. The devastating moment is captured in Karan's anguished transmission: "No one's left. Everything's gone. Kharak is burning...!"[^ref-16].
 
-The survivors journey across the galaxy with their Mothership, facing pirates, mercenaries, and the forces of the Taiidan Empire as they fight to reach Hiigara[^ref-4]. The narrative draws heavily from science fiction influences, with Alex Garden describing his vision as "a 3D game that looked like you were watching Star Wars but had a storyline like Battlestar Galactica"[^ref-10]. The story was written by Arinn Dembo, an anthropologist and archaeologist who developed the basic social structure and cultural institutions of the Kushan, along with games journalist Martin Cirulis[^ref-17]. This emotional journey through 16 missions became one of gaming's most celebrated narratives, with IGN noting that "Homeworld tells a fantastic, emotional story – something very few real-time strategy games have done"[^ref-2].
+The survivors journey across the galaxy with their Mothership, facing pirates, mercenaries, and the forces of the Taiidan Empire as they fight to reach Hiigara[^ref-4].
+
+The narrative draws heavily from science fiction influences, with Alex Garden describing his vision as "a 3D game that looked like you were watching Star Wars but had a storyline like Battlestar Galactica"[^ref-10].
+
+The story was written by Arinn Dembo, an anthropologist and archaeologist who developed the basic social structure and cultural institutions of the Kushan, along with games journalist Martin Cirulis[^ref-17].
+
+This emotional journey through 16 missions became one of gaming's most celebrated narratives, with IGN noting that "Homeworld tells a fantastic, emotional story – something very few real-time strategy games have done"[^ref-2].
 
 Homeworld 2, set years after the events of the first game, continues the saga as the Hiigaran people face a new threat from the Vaygr, a nomadic warrior race seeking control of the galaxy[^ref-18]. The sequel features significantly different ship designs and applications between the Vaygr and Hiigaran factions, expanding the tactical possibilities while maintaining the franchise's signature epic scale space battles[^ref-18].
 
@@ -351,6 +357,7 @@ The Remastered Collection demonstrated how to properly preserve gaming history. 
 [[Homeworld - Cataclysm]]
 [[Homeworld - Deserts of Kharak]]
 [[Homeworld Remastered Collection]]
+
 ## References
 
 [^ref-1]: [2K Games – Homeworld Remastered Collection](https://2k.com/games/homeworld/homeworld-remastered-collection/) – release date, platforms, developers, ESRB rating, technical specs

@@ -220,6 +220,7 @@ The game's lasting presence in user memories—evidenced by nostalgic discussion
 [[1992 - Ready, Set, Read with Bananas & Jack]]
 [[Kids' Typing]]
 [[Learning with FuzzyWOMP]]
+
 ## References
 
 [^ref-1]: [MobyGames – Kid's Typing](https://www.mobygames.com/game/200658/kids-typing/) – release dates, developer, publisher, platforms, credits

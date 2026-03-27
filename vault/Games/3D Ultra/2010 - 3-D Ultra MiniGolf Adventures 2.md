@@ -189,6 +189,7 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Andy Merrill Blog - 3D Ultra Minigolf Adventures Review](https://andymerrill.com/blog/2007/04/3d-ultra-minigolf-adventures-review/) - Xbox Live Arcade version review, pricing, and control scheme details

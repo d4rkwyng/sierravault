@@ -267,6 +267,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
 [[Team Fortress Classic]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Team Fortress Classic](https://en.wikipedia.org/wiki/Team_Fortress_Classic) – release dates, awards, ratings, development history

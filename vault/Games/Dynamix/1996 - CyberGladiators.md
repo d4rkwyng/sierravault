@@ -156,7 +156,9 @@ The title was compatible with Sierra's Screamin' 3D graphics card, which used th
 **CD-ROM Version:**[^ref-1]
 - **Media:** CD-ROM
 - **Display:** High-color 16-bit graphics mode required for windowed play
-- **Download Size (Archive):** 290 MB[^ref-15]
+-
+
+**Download Size (Archive):** 290 MB[^ref-15]
 
 ### Technical Issues
 
@@ -278,6 +280,7 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [[CyberGladiators]]
 [[David Wolf - Secret Agent]]
 [[Sierra Soccer - World Challenge Edition]]
+
 ## References
 
 [^ref-1]: [Internet Archive – CyberGladiators](https://archive.org/details/cybergladiators) – Game description, developer/publisher, platform, release year, ESRB rating

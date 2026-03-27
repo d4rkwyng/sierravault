@@ -66,6 +66,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## Overview
 
 **Order of the Thorne: Fortress of Fire** is an unreleased point-and-click adventure game developed by [[Infamous Quests]], intended as the second and likely final installment in the *Order of the Thorne* fantasy anthology series[^ref-1]. First announced in 2015 following a successful Kickstarter campaign that raised $30,944, the game was designed as a direct sequel to *The King's Challenge* (2016) and promised to deliver a thrilling conclusion to the adventures in the magical land of Uir[^ref-2][^ref-3].

@@ -25,7 +25,9 @@ Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure game relea
 
 Developed on a budget of $4.5 million with a cast of more than 30 professional actors[^ref-4], A Puzzle of Flesh represents one of Sierra's most ambitious interactive movie productions. The game was filmed over six months in and around Seattle, Washington, using high-quality movie sets built specifically for the production rather than relying on blue screen technology[^ref-5]. While not a commercial success, the game is remembered for its controversial violent and sexual content, which led to heavy censorship or outright bans in several European and Oceanic countries[^ref-6].
 
-## **Purchase / Digital Stores**
+##
+
+**Purchase / Digital Stores**
 
 Phantasmagoria: A Puzzle of Flesh is available for purchase on GOG.com as a DOS version. The game can be purchased through various digital storefronts.
 
@@ -124,6 +126,7 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 **Next:** None (series ended after two installments)
 
 [[1995 - Phantasmagoria]]
+
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/abandonware-game.php?abandonware=Phantasmagoria:+A+Puzzle+of+Flesh&gid=3475 - Basic metadata and user rating

@@ -253,6 +253,7 @@ The game's spiritual connection to Lost in Time and its intended role in a large
 [[Emmanuelle]]
 [[Urban Runner]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [MobyGames – Urban Runner](https://www.mobygames.com/game/3809/urban-runner/) – developer, publisher, credits, ratings, platform details

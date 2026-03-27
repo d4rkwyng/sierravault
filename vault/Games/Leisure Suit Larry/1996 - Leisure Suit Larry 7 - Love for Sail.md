@@ -336,6 +336,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Leisure Suit Larry: Love for Sail!](https://en.wikipedia.org/wiki/Leisure_Suit_Larry:_Love_for_Sail!) – release dates, sales data, reviews, development history, awards

@@ -183,6 +183,7 @@ The title remains available through preservation efforts, with multiple archive 
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [Archive.org - 3-D Ultra Pinball: The Lost Continent Win-Mac](https://archive.org/details/3-d-ultra-pinball-the-lost-continent-win-mac-sierra-on-line-inc.-1997) – - Game description, series positioning, controller support information

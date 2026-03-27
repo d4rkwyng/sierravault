@@ -289,6 +289,7 @@ The game's significance lies primarily in its position within the Hoyle franchis
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Texas Hold 'Em](https://gamefaqs.gamespot.com/pc/927495-hoyle-texas-hold-em) – release date, publisher, user ratings

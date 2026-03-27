@@ -224,6 +224,7 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Cribbage]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hi-Res Cribbage](https://www.mobygames.com/game/45146/hi-res-cribbage/) – publisher, developer, platform, release year, technical specifications

@@ -195,6 +195,7 @@ Impressions Games would go on to achieve greater success with their city-buildin
 [[Birthright - The Gorgon's Alliance]]
 [[Space Bucks]]
 [[V for Victory - D-Day Utah Beach]]
+
 ## References
 
 [^ref-1]: [eBay Listing](https://www.ebay.com/itm/267099826308) – Game objective description

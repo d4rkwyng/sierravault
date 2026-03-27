@@ -251,6 +251,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
 [[Conquests of Camelot - The Search for the Grail]]
 [[Conquests of the Longbow - The Legend of Robin Hood]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Conquests of Camelot: The Search for the Grail](https://en.wikipedia.org/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – release dates, reviews, credits, series information

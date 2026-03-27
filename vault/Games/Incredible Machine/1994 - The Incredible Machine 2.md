@@ -118,6 +118,7 @@ In 2014, original creators Jeff Tunnell and Kevin Ryan reunited to create Contra
 [[The Incredible Machine (2011)]]
 [[The Incredible Machine - Even More Contraptions]]
 [[The Incredible Machine 2]]
+
 ## References
 
 [^ref-1]: [Academic Kids Encyclopedia](https://academickids.com/encyclopedia/index.php/The_Incredible_Machine) – - Game concept and physics engine description

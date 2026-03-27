@@ -194,6 +194,7 @@ The game has been preserved and made playable on modern systems through the effo
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [MobyGames - Metaltech: Earthsiege](https://www.mobygames.com/game/1402/metaltech-earthsiege/) – Developer and publisher information, critical reception

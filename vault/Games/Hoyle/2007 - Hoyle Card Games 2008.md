@@ -344,6 +344,7 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Inside Mac Games Forum – Hoyle Card Games 2008 Discussion](https://www.insidemacgames.com/forum/thread-16374.html) – Mac release details, technical specifications, Easter eggs, user-reported issues

@@ -218,6 +218,7 @@ Gobliiins 5 also demonstrated that demand exists for traditional 2D adventure ga
 [[Gobliiins 5 - The Morgloton Invasion]]
 [[Gobliins 2 - The Prince Buffoon]]
 [[Gobliins 6]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Gobliiins](https://en.wikipedia.org/wiki/Gobliiins) – character names, plot details, series history

@@ -351,6 +351,7 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006) – release date, developer, publisher, game content description, user rating

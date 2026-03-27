@@ -261,6 +261,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Detroit](https://www.mobygames.com/game/2694/detroit/) – credits, ratings, technical specifications, awards, trivia

@@ -271,6 +271,7 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Conqueror: A.D. 1086](https://www.mobygames.com/game/4658/conqueror-ad-1086/) – developer, publisher, composer, ratings, platform information, trivia

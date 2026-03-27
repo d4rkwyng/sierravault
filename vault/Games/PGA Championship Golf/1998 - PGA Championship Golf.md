@@ -266,6 +266,7 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 [[PGA Championship Golf 1999 Edition]]
 [[PGA Championship Golf 2000]]
 [[PGA Championship Golf 2000 - Titanium Edition]]
+
 ## References
 
 [^ref-1]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – release dates, developer info, ratings, technical details, reception

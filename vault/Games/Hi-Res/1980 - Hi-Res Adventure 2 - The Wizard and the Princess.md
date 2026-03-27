@@ -186,6 +186,7 @@ According to Wizard and the Princess, Harlin had divided the continent of Sereni
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Wikipedia - Wizard and the Princess](https://en.wikipedia.org/wiki/Wizard_and_the_Princess) – Comprehensive article on development and release

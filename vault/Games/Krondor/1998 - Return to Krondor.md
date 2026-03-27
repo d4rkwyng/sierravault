@@ -271,6 +271,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 - [[1997 - Betrayal in Antara|← Previous: Betrayal in Antara]]
 
 [[1993 - Betrayal at Krondor]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) – release date, developer, publisher, reviews, awards, development history

@@ -325,6 +325,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: [MobyGames – Leisure Suit Larry 1 VGA](https://www.mobygames.com/game/413/leisure-suit-larry-1-in-the-land-of-the-lounge-lizards/) – release dates, credits, trivia, ratings, technical specifications

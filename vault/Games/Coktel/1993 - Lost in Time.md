@@ -282,6 +282,7 @@ The game also holds historical significance as one of the earlier adventure game
 [[Emmanuelle]]
 [[Lost in Time]]
 [[Ween - The Prophecy]]
+
 ## References
 
 [^ref-1]: [MobyGames – Lost in Time](https://www.mobygames.com/game/6098/lost-in-time/) – developer, designer, composer, ratings, credits, platform information

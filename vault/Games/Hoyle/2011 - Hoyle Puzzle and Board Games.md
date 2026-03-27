@@ -303,6 +303,7 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [My Abandonware – Hoyle Puzzle & Board Games](https://www.myabandonware.com/game/hoyle-puzzle-board-games-hzo) – user ratings, developer credits, download information, user testimonials

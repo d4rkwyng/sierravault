@@ -196,6 +196,7 @@ The game's influence extends to the community of adventure game enthusiasts who 
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## References
 
 [^ref-1]: [MobyGames Database](https://www.mobygames.com/game/266/lighthouse-the-dark-being/) – Basic game information and credits

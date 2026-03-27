@@ -24,7 +24,13 @@ tags: [1990s, coktel, gobliiins, puzzle, sierra]
 
 Goblins Quest 3 is the third and final installment in Coktel Vision's beloved Gobliiins puzzle-adventure series, released in 1993 for MS-DOS and Amiga platforms[^ref-1]. Described by Electronic Games magazine as "a cartoon cross between Indiana Jones and Ren and Stimpy," the game follows Blount, a goblin journalist covering the mysterious Labyrinth of Foliandre, who is "as tough and persistent as Indiana Jones" but "not much smarter than Ren and Stimpy"[^ref-2]. Sierra On-Line distributed the game in North America, adding the "Quest" suffix to align it with their popular Quest series branding, though it was originally released in Europe simply as "Goblins 3"[^ref-3].
 
-The game represents a significant evolution for the series, featuring what Adventure Classic Gaming called "probably the most bizarre game in the series"[^ref-3]. Unlike its predecessors, which featured multiple controllable goblins (reflected in the number of "i"s in the title—Gobliiins had three, Gobliins 2 had two), Goblins Quest 3 focuses on a single protagonist, hence the single "i" in "Goblins"[^ref-1]. The game was marketed by Sierra as "a genuinely interactive Tex Avery style animated game" and was praised for its challenging puzzles, bright VGA graphics, and comedic charm[^ref-4]. PC Gamer declared that "its puzzles will challenge and delight even the most experienced gamers," while Computer Gaming World noted it was "designed to thoroughly amuse" and guaranteed "an enjoyably bizarre experience"[^ref-1].
+The game represents a significant evolution for the series, featuring what Adventure Classic Gaming called "probably the most bizarre game in the series"[^ref-3].
+
+Unlike its predecessors, which featured multiple controllable goblins (reflected in the number of "i"s in the title—Gobliiins had three, Gobliins 2 had two), Goblins Quest 3 focuses on a single protagonist, hence the single "i" in "Goblins"[^ref-1].
+
+The game was marketed by Sierra as "a genuinely interactive Tex Avery style animated game" and was praised for its challenging puzzles, bright VGA graphics, and comedic charm[^ref-4].
+
+PC Gamer declared that "its puzzles will challenge and delight even the most experienced gamers," while Computer Gaming World noted it was "designed to thoroughly amuse" and guaranteed "an enjoyably bizarre experience"[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -209,6 +215,7 @@ Modern critics recognize the game as "a great finale to a great series," noting 
 [[Gobliins 2 - The Prince Buffoon]]
 [[Gobliins 6]]
 [[Goblins Quest 3]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Goblins Quest 3](https://en.wikipedia.org/wiki/Goblins_Quest_3) – release dates, platforms, reviews, awards, technical specifications, series information

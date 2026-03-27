@@ -231,6 +231,7 @@ The game's short length (completable in under three hours) and easy puzzles posi
 [[Gold Rush]]
 [[Gold Rush 2]]
 [[Gold Rush Anniversary]]
+
 ## References
 
 [^ref-1]: [Gold Rush! Game – Official Website](https://www.goldrush-game.com/) – release dates, version history, development timeline, box version details

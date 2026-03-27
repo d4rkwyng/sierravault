@@ -101,13 +101,23 @@ The 1998 After Dark Games collection represented a different production approach
 
 After Dark represented significant technical innovation for its era, particularly in screen saver functionality and modular architecture. The software required sophisticated "assembly language hack of Mac OS in 1986" implementation to properly "patch OS calls for screen saver functionality"[^ref-24] before operating systems natively supported such features. The modular design allowed extensive customization, with the system supporting "development and use of third-party modules, with hundreds created at height of popularity"[^ref-9] through a standardized .ad module format[^ref-24].
 
-The software included advanced features like "SystemIQ Activity Monitor for CPU load detection"[^ref-52] to prevent inappropriate activation during system use, along with "EcoLogic power management for Energy Star monitors"[^ref-52] for energy efficiency. Technical specifications varied across versions, with After Dark 4.0 supporting "32-bit" architecture while "earlier versions" used "16-bit"[^ref-57] implementation. Modern compatibility remains challenging, with After Dark 4.0 and "After Dark 10th Anniversary" versions working on "Windows 10" while "After Dark Classic/3.0" remains incompatible with modern systems[^ref-57]. The screensaver files themselves use a clever technical approach where ".scr files are actually .exe files"[^ref-57], allowing execution while maintaining the screensaver file extension convention.
+The software included advanced features like "SystemIQ Activity Monitor for CPU load detection"[^ref-52] to prevent inappropriate activation during system use, along with "EcoLogic power management for Energy Star monitors"[^ref-52] for energy efficiency.
+
+Technical specifications varied across versions, with After Dark 4.0 supporting "32-bit" architecture while "earlier versions" used "16-bit"[^ref-57] implementation.
+
+Modern compatibility remains challenging, with After Dark 4.0 and "After Dark 10th Anniversary" versions working on "Windows 10" while "After Dark Classic/3.0" remains incompatible with modern systems[^ref-57].
+
+The screensaver files themselves use a clever technical approach where ".scr files are actually .exe files"[^ref-57], allowing execution while maintaining the screensaver file extension convention.
 
 ## Legacy
 
 After Dark's cultural impact extended far beyond its original screensaver functionality, establishing Berkeley Systems as a significant force in desktop computing culture. The Flying Toasters became so iconic that they inspired legal battles, including lawsuits "against Delrina Corporation in 1993" and "by Jefferson Airplane in 1994"[^ref-9] over design similarities and alleged inspiration from the band's album artwork. The franchise spawned a television series, with the "Bad Dog screensaver" inspiring "a TV series that aired on Teletoon in 1999"[^ref-9], demonstrating the characters' broad entertainment appeal beyond computing.
 
-The technical influence of After Dark proved substantial, with the software appearing on "just about every single office computer in existence"[^ref-42] during its peak and establishing screensavers as a standard computing expectation. However, the "common nineties computing myth about screensavers preventing screen burn-in was complete nonsense unless monitor manufactured in mid-eighties"[^ref-41], meaning After Dark's popularity transcended its stated utility purpose. Modern preservation efforts continue through platforms like myabandonware.com[^ref-41] and speedrunning communities maintaining active competition[^ref-53][^ref-54], while independent developers create new interpretations on itch.io[^ref-11][^ref-32] and mobile platforms[^ref-15], ensuring the After Dark concept remains relevant decades after its original creation.
+The technical influence of After Dark proved substantial, with the software appearing on "just about every single office computer in existence"[^ref-42] during its peak and establishing screensavers as a standard computing expectation.
+
+However, the "common nineties computing myth about screensavers preventing screen burn-in was complete nonsense unless monitor manufactured in mid-eighties"[^ref-41], meaning After Dark's popularity transcended its stated utility purpose.
+
+Modern preservation efforts continue through platforms like myabandonware.com[^ref-41] and speedrunning communities maintaining active competition[^ref-53][^ref-54], while independent developers create new interpretations on itch.io[^ref-11][^ref-32] and mobile platforms[^ref-15], ensuring the After Dark concept remains relevant decades after its original creation.
 
 ## Downloads
 
@@ -125,6 +135,7 @@ The technical influence of After Dark proved substantial, with the software appe
 - [[1991 - More After Dark|→ Next: More After Dark]]
 
 [[1998 - After Dark Games]]
+
 ## References
 
 [^ref-1]: [Abandonware DOS - After Dark Games Search](https://www.abandonwaredos.com/search.php?search=After+Dark+Games) - Basic game listing showing DOS release in 1993

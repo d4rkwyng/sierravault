@@ -247,6 +247,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [[SWAT 3 - Close Quarters Battle]]
 [[SWAT 4 - The Stetchkov Syndicate]]
 [[SWAT Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – SWAT: Global Strike Team](https://en.wikipedia.org/wiki/SWAT%3A_Global_Strike_Team) – release dates, developer, publisher, platform information, development history

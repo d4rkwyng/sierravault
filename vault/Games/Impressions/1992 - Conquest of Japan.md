@@ -241,6 +241,7 @@ The game represents Impressions Games' continued experimentation with historical
 [[Discovery - In the Steps of Columbus]]
 [[Emperor - Rise of the Middle Kingdom]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Conquest of Japan](https://www.mobygames.com/game/11701/conquest-of-japan/) – release dates, platforms, developer, publisher, critics score, technical specs

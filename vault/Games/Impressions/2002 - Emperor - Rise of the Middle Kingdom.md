@@ -283,6 +283,7 @@ The game also holds significance as the final 2D entry in the series and the las
 [[1995 - Conqueror - A.D. 1086]]
 
 [[1995 - Powerhouse]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Emperor: Rise of the Middle Kingdom](https://en.wikipedia.org/wiki/Emperor:_Rise_of_the_Middle_Kingdom) – release dates, developers, designers, composer, series information, Metacritic score

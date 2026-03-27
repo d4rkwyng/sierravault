@@ -377,6 +377,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, initial release

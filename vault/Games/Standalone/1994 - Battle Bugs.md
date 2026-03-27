@@ -328,6 +328,7 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 [[Lighthouse - The Dark Being]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## References
 
 [^ref-1]: [MobyGames – Battle Bugs](https://www.mobygames.com/game/308/battle-bugs/) – credits, ratings, development details, trivia

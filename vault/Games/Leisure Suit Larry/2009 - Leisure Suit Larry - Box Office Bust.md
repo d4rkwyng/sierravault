@@ -160,6 +160,7 @@ Series: [[Leisure Suit Larry in the Land of the Lounge Lizards]] • [[Leisure S
 [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
 [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice]]
+
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry%3A+Box+Office+Bust - Search results page, no specific game information found

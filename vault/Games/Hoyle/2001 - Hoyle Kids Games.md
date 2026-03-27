@@ -338,6 +338,7 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Kids Games](https://www.mobygames.com/game/49352/hoyle-kids-games/) – release dates, credits, ratings, technical specs, multiplayer info, features

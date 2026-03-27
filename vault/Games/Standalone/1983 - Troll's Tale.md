@@ -82,6 +82,7 @@ tags: [1980s, adventure, agi, al-lowe, sierra, standalone]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
 [[Troll's Tale]]
+
 ## Overview
 
 Troll's Tale is a children's adventure game developed by Al Lowe and published by Sierra On-Line in 1983[^ref-1][^ref-2]. Originally created as one of Al Lowe's earliest programming projects, the game was "the third game I ever programmed" according to Lowe himself[^ref-3]. Despite its "incredibly simplistic" appearance by modern standards, Lowe recalls working "a lot of hours on it"[^ref-3]. The game was designed specifically for children, particularly those in 2nd and 3rd grades[^ref-4], and came packaged with a paper map and stickers[^ref-4].

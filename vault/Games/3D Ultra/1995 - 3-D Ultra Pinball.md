@@ -264,6 +264,7 @@ The game's accessibility also drew note, though not always positively[^ref-16]. 
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [MobyGames - 3-D Ultra Pinball](https://www.mobygames.com/game/4508/3-d-ultra-pinball/) — Game credits, developer info, and user reviews

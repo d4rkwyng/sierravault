@@ -309,6 +309,7 @@ Legend Entertainment's visual achievement with Shannara showed the studio could 
 [[Shannara]]
 [[Slater & Charlie Go Camping]]
 [[Tank - The M1A1 Abrams Battle Tank Simulation]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Shannara (video game)](https://en.wikipedia.org/wiki/Shannara_(video_game)) – release date, designers, review scores, gameplay notes

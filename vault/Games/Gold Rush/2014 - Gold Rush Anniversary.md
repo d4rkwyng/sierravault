@@ -150,7 +150,9 @@ Key technical features included the dual control system allowing real-time switc
 - **Operating System:** Windows Vista, 7, 8, or 10
 
 **iOS Version:**[^ref-4]
-- **Download Size:** 1.1 GB
+-
+
+**Download Size:** 1.1 GB
 - **Requirements:** iOS 12.0 or later (current version)
 - **Optimized for:** Devices 7 inches or larger
 - **Languages:** English and German subtitles
@@ -273,6 +275,7 @@ The game's mixed reception highlights the challenges facing remakes of vintage a
 [[Gold Rush]]
 [[Gold Rush 2]]
 [[Gold Rush Anniversary]]
+
 ## References
 
 [^ref-1]: [3rd-strike.com – Gold Rush Anniversary Review](https://3rd-strike.com/gold-rush-anniversary-review/) – review score, gameplay analysis, dual control system details

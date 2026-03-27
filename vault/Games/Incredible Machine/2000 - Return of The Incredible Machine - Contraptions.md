@@ -36,7 +36,13 @@ The game features over 250 puzzles alongside a freeform invention mode, allowing
 
 ## Story Summary
 
-The game opens with Professor Tim (or simply "the professor") welcoming the player to his secret inventor's complex, explaining that he has been overworked and needs to hire an apprentice[^ref-2]. Players take on the role of this apprentice, working through increasingly complex contraption challenges under the professor's guidance. The narrative framework is minimal but charming, with the professor providing context for various puzzle objectives, such as instructing players to "blow up the fish tank with the missile"[^ref-13]. The game's narrator, voiced by Bill Barrett, guides players through tutorials and provides encouragement throughout their contraption-building journey[^ref-14]. Professor Tim's enthusiastic personality adds warmth to the experience, making players feel like they're genuinely contributing to important (if eccentric) scientific work. The premise successfully justifies increasingly bizarre objectives while maintaining the whimsical tone that defined the series since its 1992 inception.
+The game opens with Professor Tim (or simply "the professor") welcoming the player to his secret inventor's complex, explaining that he has been overworked and needs to hire an apprentice[^ref-2].
+
+Players take on the role of this apprentice, working through increasingly complex contraption challenges under the professor's guidance. The narrative framework is minimal but charming, with the professor providing context for various puzzle objectives, such as instructing players to "blow up the fish tank with the missile"[^ref-13].
+
+The game's narrator, voiced by Bill Barrett, guides players through tutorials and provides encouragement throughout their contraption-building journey[^ref-14].
+
+Professor Tim's enthusiastic personality adds warmth to the experience, making players feel like they're genuinely contributing to important (if eccentric) scientific work. The premise successfully justifies increasingly bizarre objectives while maintaining the whimsical tone that defined the series since its 1992 inception.
 
 ## Gameplay
 
@@ -152,6 +158,7 @@ The community around The Incredible Machine remains active decades after release
 [[The Incredible Machine (2011)]]
 [[The Incredible Machine - Even More Contraptions]]
 [[The Incredible Machine 2]]
+
 ## References
 
 [^ref-1]: [New York Times - Game Theory; Contraptions' Hardest Puzzle](https://www.nytimes.com/2000/09/07/technology/game-theory-contraptions-hardest-puzzle-how-to-stop.html) - Contemporary review noting five-year gap

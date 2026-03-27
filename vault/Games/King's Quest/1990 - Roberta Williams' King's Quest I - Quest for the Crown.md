@@ -235,6 +235,7 @@ Series: [[King's Quest]] • [[King's Quest II: Romancing the Throne]] • [[Kin
 [[1994 - King's Quest VII - The Princeless Bride]]
 
 [[1998 - King's Quest - Mask of Eternity]]
+
 ## References
 
 [^ref-1]: [Internet Archive – King's Quest 1 Quest For The Crown (Floppy DOS SCI Remake)](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – – Publication date September 19, 1990

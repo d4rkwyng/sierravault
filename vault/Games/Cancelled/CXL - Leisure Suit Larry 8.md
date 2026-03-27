@@ -40,6 +40,7 @@ tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
 [[CXL - Leisure Suit Larry 8]]
+
 ## Overview
 
 **Leisure Suit Larry 8: Lust in Space**, also known by the alternate title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running adult comedy adventure series that was never released.[^ref-1] Development began at Sierra in 1998 under the direction of series creator [[Al Lowe]], who had helmed all previous entries in the franchise.[^ref-2] The game was intended to be the first entry in the series rendered in full 3D, representing a significant technical leap for the franchise.[^ref-1]

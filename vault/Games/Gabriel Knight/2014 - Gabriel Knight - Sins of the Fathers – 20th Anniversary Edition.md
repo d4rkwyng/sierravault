@@ -24,7 +24,13 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 
 Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a comprehensive remake of [[Jane Jensen]]'s acclaimed 1993 supernatural adventure game, released on October 15, 2014 for Windows and Mac OS X, with mobile versions following in July 2015[^ref-1][^ref-2]. Developed by Pinkerton Road Studio in collaboration with Phoenix Online Studios, the remake features completely rebuilt graphics using 3D character models against hand-painted backgrounds, a remastered soundtrack by original composer [[Robert Holmes]], and an entirely new voice cast[^ref-3][^ref-4]. The project emerged from a Kickstarter campaign launched during the crowdfunding boom of 2012, representing Jane Jensen's return to her most celebrated creation after a fifteen-year hiatus from the series[^ref-5].
 
-The 20th Anniversary Edition represents both a faithful preservation and a modernization of the original experience, adding new puzzles, additional locations, and streamlined gameplay while maintaining the core narrative about voodoo murders in New Orleans[^ref-6][^ref-7]. Critics praised the remake for authentically paying homage to its predecessor while introducing the mature, horror-themed adventure to a new generation of players[^ref-8]. The Sierra Chest retrospective noted that the original "was probably the darkest most gripping game at the time, from the first animated sequence to the terrifying climax, every aspect of this psycho thriller put even the most seasoned of gamers at the tips of their toes"[^ref-5]. The remake received a Metacritic score of 74 and garnered mixed-to-positive reviews, with Adventure Gamers awarding it 4.5 stars and describing it as "a provocative story experience whose aim is to challenge, enlighten, horrify and enthrall"[^ref-9][^ref-10].
+The 20th Anniversary Edition represents both a faithful preservation and a modernization of the original experience, adding new puzzles, additional locations, and streamlined gameplay while maintaining the core narrative about voodoo murders in New Orleans[^ref-6][^ref-7].
+
+Critics praised the remake for authentically paying homage to its predecessor while introducing the mature, horror-themed adventure to a new generation of players[^ref-8].
+
+The Sierra Chest retrospective noted that the original "was probably the darkest most gripping game at the time, from the first animated sequence to the terrifying climax, every aspect of this psycho thriller put even the most seasoned of gamers at the tips of their toes"[^ref-5].
+
+The remake received a Metacritic score of 74 and garnered mixed-to-positive reviews, with Adventure Gamers awarding it 4.5 stars and describing it as "a provocative story experience whose aim is to challenge, enlighten, horrify and enthrall"[^ref-9][^ref-10].
 
 As a "blockbuster retelling" of an award-winning murder mystery, the Anniversary Edition leverages modern technology to present what Computer Gaming World once called "audio and video that outshines any cartoon and a story that could scare the bejeebers out of Stephen King"[^ref-34][^ref-12]. The game stands as testament to the enduring appeal of Jensen's storytelling, which earned her the designation "the interactive Anne Rice" from gaming press upon the original release[^ref-1].
 
@@ -118,7 +124,13 @@ The project was funded through a Kickstarter campaign launched during the 2012 c
 
 Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a fan-made King's Quest sequel that later received official sanction[^ref-5][^ref-1]. Jensen served as creative lead while also acting as creative consultant for Phoenix Online's Cognition: An Erika Reed Thriller during this period[^ref-5][^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activision"[^ref-5].
 
-The production team faced the challenge of modernizing a beloved classic without alienating its passionate fanbase. The Sierra Chest notes: "Possibly the most challenging part was to find a cast of voice actors that could somewhat match the star-studded cast of the 1993 original"[^ref-5]. The original voice recordings featuring Tim Curry, Mark Hamill, Leah Remini, Michael Dorn, and other notable actors were either unavailable or insufficient quality for the remake, necessitating entirely new voice recording sessions[^ref-27][^ref-34]. The new cast "managed to deliver a performance beyond the fans' expectations"[^ref-5]. The team rebuilt all graphics from scratch using 3D character models rendered against hand-painted backgrounds, departing from the pixel art of the original while attempting to maintain its atmospheric quality[^ref-3].
+The production team faced the challenge of modernizing a beloved classic without alienating its passionate fanbase. The Sierra Chest notes: "Possibly the most challenging part was to find a cast of voice actors that could somewhat match the star-studded cast of the 1993 original"[^ref-5].
+
+The original voice recordings featuring Tim Curry, Mark Hamill, Leah Remini, Michael Dorn, and other notable actors were either unavailable or insufficient quality for the remake, necessitating entirely new voice recording sessions[^ref-27][^ref-34].
+
+The new cast "managed to deliver a performance beyond the fans' expectations"[^ref-5].
+
+The team rebuilt all graphics from scratch using 3D character models rendered against hand-painted backgrounds, departing from the pixel art of the original while attempting to maintain its atmospheric quality[^ref-3].
 
 **Development Credits:**[^ref-3][^ref-5]
 - **Creative Director/Designer:** Jane Jensen
@@ -141,7 +153,9 @@ The remastered soundtrack by Robert Holmes preserved the atmospheric quality of 
 - **Minimum Requirements:** Windows 7/8/10, 2.0 GHz processor, 2 GB RAM, ATI or NVidia with 512 MB VRAM
 - **Recommended Requirements:** 4 GB RAM, 1 GB VRAM
 - **Storage:** 4 GB available space
-- **Download Size:** Approximately 1.7 GB
+-
+
+**Download Size:** Approximately 1.7 GB
 
 **Mac OS X Version:**[^ref-14]
 - **API:** OpenGL 2
@@ -265,6 +279,7 @@ Series: [[Gabriel Knight: Sins of the Fathers]] • [[The Beast Within: A Gabrie
 [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned]]
 
 [[TBD - Gabriel Knight 4 - Five Hearts]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight) – release dates, developers, voice cast, platforms

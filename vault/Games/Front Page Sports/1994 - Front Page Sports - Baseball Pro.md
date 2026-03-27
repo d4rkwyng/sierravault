@@ -37,7 +37,15 @@ The Front Page Sports Baseball Pro series was positioned as a mature, contemplat
 
 ## Story Summary
 
-Front Page Sports Baseball Pro did not feature a traditional narrative structure, instead focusing on the ongoing story of managing a baseball franchise. Players could experience the career progression of individual players from rookie status to potential hall of fame induction, with players aging, improving, declining, and retiring over multiple seasons[^ref-6]. The game allowed managers to guide their favorite team through multiple seasons toward the ultimate goal of reaching the World Series[^ref-7]. Players could experience the career progression of individual athletes from rookie status to potential hall of fame induction, with players aging, improving, declining, and retiring over multiple seasons[^ref-6]. The long-term progression system created emotional investment in player development, as prospects you drafted and developed could become franchise cornerstones or disappointing busts based on your training decisions and game management. The detail was described as "overwhelming: If you can think it up, there's a 99 percent chance that there's a way to do it"[^ref-7], encompassing everything from lineup decisions to stadium renovations.
+Front Page Sports Baseball Pro did not feature a traditional narrative structure, instead focusing on the ongoing story of managing a baseball franchise.
+
+Players could experience the career progression of individual players from rookie status to potential hall of fame induction, with players aging, improving, declining, and retiring over multiple seasons[^ref-6].
+
+The game allowed managers to guide their favorite team through multiple seasons toward the ultimate goal of reaching the World Series[^ref-7].
+
+Players could experience the career progression of individual athletes from rookie status to potential hall of fame induction, with players aging, improving, declining, and retiring over multiple seasons[^ref-6].
+
+The long-term progression system created emotional investment in player development, as prospects you drafted and developed could become franchise cornerstones or disappointing busts based on your training decisions and game management. The detail was described as "overwhelming: If you can think it up, there's a 99 percent chance that there's a way to do it"[^ref-7], encompassing everything from lineup decisions to stadium renovations.
 
 ## Gameplay
 
@@ -76,7 +84,13 @@ The strategic depth extended to pitcher-batter confrontations, where players cou
 
 ## Roster Management
 
-The roster system in Front Page Sports Baseball Pro offered unprecedented depth for its era. Each team carried 50 players (25 active, 15 AAA, and 10 low minors)[^ref-6], creating a realistic minor league structure for player development. The amateur draft system pulled from colleges, allowing managers to scout and select promising young talent. "Injuries, recovery time, weather conditions, and both amateur and free-agent draft options create an amazingly realistic approach to the management of baseball"[^ref-9]. Players could negotiate contracts, manage salary caps, and make difficult decisions about which veterans to retain and which to release. The trade system allowed complex multi-player deals, requiring managers to carefully evaluate player value and team needs. This comprehensive approach to roster management set new standards for the sports simulation genre and influenced subsequent baseball management titles.
+The roster system in Front Page Sports Baseball Pro offered unprecedented depth for its era.
+
+Each team carried 50 players (25 active, 15 AAA, and 10 low minors)[^ref-6], creating a realistic minor league structure for player development. The amateur draft system pulled from colleges, allowing managers to scout and select promising young talent. "Injuries, recovery time, weather conditions, and both amateur and free-agent draft options create an amazingly realistic approach to the management of baseball"[^ref-9].
+
+Players could negotiate contracts, manage salary caps, and make difficult decisions about which veterans to retain and which to release. The trade system allowed complex multi-player deals, requiring managers to carefully evaluate player value and team needs.
+
+This comprehensive approach to roster management set new standards for the sports simulation genre and influenced subsequent baseball management titles.
 
 ## Reception
 
@@ -174,6 +188,7 @@ For many fans, Front Page Sports Baseball Pro remains the gold standard of baseb
 [[Front Page Sports - Trophy Rivers]]
 [[Front Page Sports Football 92]]
 [[Front Page Sports Golf - Tour Course Add-On]]
+
 ## References
 
 [^ref-1]: [MobyGames](https://www.mobygames.com/game/8275/front-page-sports-baseball-pro-98/) – - Basic game information and development details

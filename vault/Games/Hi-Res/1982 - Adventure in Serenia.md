@@ -150,6 +150,7 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 [[Hi-Res Adventure 5 - Time Zone]]
 [[Hi-Res Adventure 6 - The Dark Crystal]]
 [[Hi-Res Soccer]]
+
 ## References
 
 [^ref-1]: [Abandonware DOS - Adventure in Serenia](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Adventure+in+Serenia&gid=2484) – - User ratings, historical context, and game description

@@ -355,6 +355,7 @@ The game's legacy is perhaps best summarized by user reviews calling it "the bes
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Majestic Chess](https://www.mobygames.com/game/10294/hoyle-majestic-chess/) – developer, publisher, release date, credits, technical specs, critic scores, user reviews

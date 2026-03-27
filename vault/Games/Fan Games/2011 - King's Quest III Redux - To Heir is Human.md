@@ -296,6 +296,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Gamewise – King's Quest III Redux](http://gamewise.co/games/20515/Kings-Quest-III-Redux-To-Heir-is-Human) – release date, developer, platform information

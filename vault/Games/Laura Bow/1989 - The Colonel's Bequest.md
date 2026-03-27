@@ -139,6 +139,7 @@ Fan communities continue to create content inspired by The Colonel's Bequest, in
 - **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[Gabriel Knight - Sins of the Fathers - 20th Anniversary Edition|Gabriel Knight]] (contemporary mystery adventure)
 - **Creator:** [[Roberta Williams]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[SCI Engine]]
+
 ## References
 
 [^ref-1]: [MobyGames - The Colonel's Bequest](https://www.mobygames.com/game/461/the-colonels-bequest/) – - Game database with comprehensive technical specifications and credits

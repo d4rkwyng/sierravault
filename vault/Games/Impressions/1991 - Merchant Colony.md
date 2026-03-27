@@ -261,6 +261,7 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [[Emperor - Rise of the Middle Kingdom]]
 [[Merchant Colony]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Merchant Colony](https://www.mobygames.com/game/4254/merchant-colony/) – developer, publisher, platforms, release date, technical specs

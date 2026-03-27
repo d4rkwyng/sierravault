@@ -200,6 +200,7 @@ The game's design choices, including the significantly higher difficulty with on
 [[1990 - Stellar 7]]
 [[Nova 9 - The Return of Gir Draxon]]
 [[Stellar 7 - Draxon's Revenge]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Stellar 7: Draxon's Revenge](https://en.wikipedia.org/wiki/Stellar_7:_Draxon%27s_Revenge) – release dates, plot, gameplay details, Michael Dorn narration, review scores

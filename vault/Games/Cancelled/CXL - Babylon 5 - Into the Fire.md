@@ -41,6 +41,7 @@ tags: [1990s, babylon-5, sierra]
 
 [[CXL - Space Quest VII - Return to Roman Numerals]]
 [[CXL - Babylon 5 - Into the Fire]]
+
 ## Overview
 
 Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yosemite Entertainment and published by Sierra Entertainment, based on the critically acclaimed science fiction television series that won two Emmy Awards and two Hugo Awards[^ref-1]. The partnership between Sierra and Warner Bros. was announced on October 27, 1997, setting in motion what would become one of the most mourned cancelled games of the late 1990s[^ref-1]. The game promised to deliver an unprecedented combination of authentic Babylon 5 universe combat, innovative flight mechanics, and involvement from the television series' original cast and crew[^ref-2].

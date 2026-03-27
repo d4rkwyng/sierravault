@@ -66,6 +66,7 @@ tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 [[Order of the Thorne - The King's Challenge]]
 [[Quest for Infamy - Roehm to Ruin]]
 [[Summer Daze - Tilly's Tale]]
+
 ## Overview
 
 *Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG developed by [[Infamous Quests]] serving as a prequel to their 2014 title *Quest for Infamy*.[^ref-1] The game follows the story behind protagonist Mr. Roehm's escape from the Baron's Castle, exploring the fateful events that led him to flee to the Valley of Krasna where the original game begins.[^ref-2] After years in development, the game entered its final stages with voice recording sessions with lead actor Steve Patrick expected to complete production.[^ref-3]

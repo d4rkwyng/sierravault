@@ -148,7 +148,9 @@ The multiplayer infrastructure supported various connection methods including in
 
 **Media and File Sizes:**[^ref-3][^ref-11]
 - **CD-ROM Version:** Standard CD-ROM media
-- **Download Size:** 66 MB (MyAbandonware)[^ref-3]
+-
+
+**Download Size:** 66 MB (MyAbandonware)[^ref-3]
 - **Windows RIP Version:** 64.9 MB[^ref-11]
 - **Windows 3.x Version:** 497.7-500.67 MB[^ref-11][^ref-12]
 - **Full Installation:** 387 MB[^ref-13]
@@ -250,6 +252,7 @@ The closure of Dynamix following Sierra's corporate restructuring meant that Tro
 [[1997 - Front Page Sports - Golf]]
 
 [[1999 - Front Page Sports - Ski Racing 99]]
+
 ## References
 
 [^ref-1]: [MobyGames – Front Page Sports: Trophy Rivers](https://www.mobygames.com/game/19573/front-page-sports-trophy-rivers/) – developer, publisher, designers, credits, platforms, ratings, game modes, features, technical specs, multiplayer support, educational topics

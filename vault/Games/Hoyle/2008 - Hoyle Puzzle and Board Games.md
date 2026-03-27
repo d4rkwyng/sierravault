@@ -345,6 +345,7 @@ The game is documented in various gaming databases and preservation archives.[^r
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status

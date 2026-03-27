@@ -230,6 +230,7 @@ The remake's significance extends beyond its individual merits to represent a br
 [[Space Quest - The Lost Chapter]]
 [[Space Quest - Vohaul Strikes Back]]
 [[Space Quest 0 - Replicated]]
+
 ## References
 
 [^ref-1]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – developer history, project information, team background

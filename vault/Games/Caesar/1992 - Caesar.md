@@ -50,7 +50,9 @@ The control system emphasized point-and-click construction, allowing players to 
 
 ### Structure and Progression
 
-## **Purchase / Digital Stores**
+##
+
+**Purchase / Digital Stores**
 
 Caesar is not currently available for digital purchase. The game can be found through preservation archives for historical research purposes.
 
@@ -138,6 +140,7 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [[1998 - Caesar III]]
 
 [[2006 - Caesar IV]]
+
 ## References
 
 [^ref-1]: https://www.abandonwaredos.com/search.php?search=Caesar - Search results showing Caesar (1992) in alphabetical listing

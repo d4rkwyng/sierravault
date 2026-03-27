@@ -119,6 +119,7 @@ The Special Edition release in 2000 attempted to address many of the original ga
 - [[1998 - Lords of Magic - Special Edition|→ Next: Lords of Magic - Special Edition]]
 [[Lords of Magic]]
 [[Lords of Magic - Special Edition]]
+
 ## References
 
 [^ref-1]: [Grokipedia](https://grokipedia.com/page/Lords_of_Magic) – - Game description as turn-based strategy with real-time combat elements

@@ -299,6 +299,7 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [GameFAQs – Hoyle Casino 2004](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004) – release date, developer, publisher, features, user rating

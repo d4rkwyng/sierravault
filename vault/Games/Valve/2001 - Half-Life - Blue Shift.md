@@ -292,6 +292,7 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 [[Counter-Strike - Condition Zero]]
 [[Half-Life - Blue Shift]]
 [[Half-Life - Opposing Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Half-Life: Blue Shift](https://en.wikipedia.org/wiki/Half-Life:_Blue_Shift) – release dates, developer, publisher, credits

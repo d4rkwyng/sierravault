@@ -274,6 +274,7 @@ Series: [[Police Quest: In Pursuit of the Death Angel]] • [[Police Quest III: 
 [[1992 - Police Quest - In Pursuit of the Death Angel VGA]]
 
 [[1993 - Police Quest - Open Season]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Police Quest II: The Vengeance](https://en.wikipedia.org/wiki/Police_Quest_II:_The_Vengeance) – release dates, platforms, composer, sales data, reviews, development history, Japanese version details

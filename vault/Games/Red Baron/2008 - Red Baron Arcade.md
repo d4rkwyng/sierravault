@@ -215,6 +215,7 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 [[1998 - Red Baron 3D]]
 [[Red Baron - Mission Builder]]
 [[Red Baron Arcade]]
+
 ## References
 
 [^ref-1]: [MobyGames – Red Baron: Arcade](https://www.mobygames.com/game/106856/red-baron-arcade/) – developer, publisher, engine, platforms, release dates, official description

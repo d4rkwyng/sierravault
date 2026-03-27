@@ -211,6 +211,7 @@ The game's mixed reception reflects the tensions between promising premises and 
 [[Emperor - Rise of the Middle Kingdom]]
 [[Fort Apache]]
 [[Powerhouse]]
+
 ## References
 
 [^ref-1]: [MobyGames – Fort Apache](https://www.mobygames.com/game/71689/fort-apache/) – release dates, platforms, technical specifications, gameplay description, aggregate ratings

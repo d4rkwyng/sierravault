@@ -256,6 +256,7 @@ The game's combination of realistic physics with fantastical game modes anticipa
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-3]: [Wikipedia – Cool Pool](https://en.wikipedia.org/wiki/Cool_Pool) – developer, publisher, series information, server shutdown details

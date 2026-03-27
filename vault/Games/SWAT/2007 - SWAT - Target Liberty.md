@@ -241,6 +241,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 [[SWAT 3 - Close Quarters Battle]]
 [[SWAT 4 - The Stetchkov Syndicate]]
 [[SWAT Force]]
+
 ## References
 
 [^ref-1]: [Wikipedia – SWAT: Target Liberty](https://en.wikipedia.org/wiki/SWAT:_Target_Liberty) – release dates, developer, publisher, Metacritic score, platforms

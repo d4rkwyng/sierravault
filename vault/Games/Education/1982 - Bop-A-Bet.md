@@ -204,6 +204,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [[Bop-A-Bet]]
 [[Kids' Typing]]
 [[Learning with FuzzyWOMP]]
+
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics

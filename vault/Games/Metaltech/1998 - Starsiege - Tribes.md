@@ -38,7 +38,17 @@ The game revolutionized online multiplayer gaming with its innovative jetpack mo
 
 ## Story Summary
 
-Starsiege: Tribes is set in the 40th century in a universe "that has been infested with a deadly virus that almost wiped out an entire race of people"[^ref-9]. The surviving humans have organized into various tribes that compete for territory and resources across vast planetary landscapes. Unlike traditional single-player focused games, Tribes concentrated almost entirely on multiplayer combat scenarios with only basic training missions providing narrative context[^ref-3]. The game's backstory connects it to the broader Starsiege universe, previously known as the EarthSiege setting[^ref-10]. The four primary tribes—Blood Eagle, Diamond Sword, Starwolf, and Children of Phoenix—each possess distinct philosophies and combat styles that players adopted as virtual identities. This tribal affiliation created community bonds that extended beyond individual servers, forming the foundation for organized competitive leagues and clan-based play that would define the game's social landscape for years.
+Starsiege: Tribes is set in the 40th century in a universe "that has been infested with a deadly virus that almost wiped out an entire race of people"[^ref-9].
+
+The surviving humans have organized into various tribes that compete for territory and resources across vast planetary landscapes.
+
+Unlike traditional single-player focused games, Tribes concentrated almost entirely on multiplayer combat scenarios with only basic training missions providing narrative context[^ref-3].
+
+The game's backstory connects it to the broader Starsiege universe, previously known as the EarthSiege setting[^ref-10].
+
+The four primary tribes—Blood Eagle, Diamond Sword, Starwolf, and Children of Phoenix—each possess distinct philosophies and combat styles that players adopted as virtual identities.
+
+This tribal affiliation created community bonds that extended beyond individual servers, forming the foundation for organized competitive leagues and clan-based play that would define the game's social landscape for years.
 
 ## Gameplay
 
@@ -73,7 +83,13 @@ Base management added strategic depth beyond direct combat. Teams needed to main
 
 ## Competitive Scene
 
-Starsiege: Tribes developed one of the earliest organized competitive gaming communities. Clans formed around tribal identities, practicing coordinated strategies and competing in leagues and tournaments. The game's emphasis on teamwork made organized play dramatically different from random public matches, with coordinated teams executing complex flag capture routes and base assault strategies. Competitive players developed specialized roles and practiced for hours to perfect skiing routes and midair shots. The community created tools for organizing matches, tracking statistics, and managing clan rosters. This competitive infrastructure established patterns that later esports titles would adopt, making Tribes a foundational influence on organized gaming competition beyond its direct sequels.
+Starsiege: Tribes developed one of the earliest organized competitive gaming communities.
+
+Clans formed around tribal identities, practicing coordinated strategies and competing in leagues and tournaments. The game's emphasis on teamwork made organized play dramatically different from random public matches, with coordinated teams executing complex flag capture routes and base assault strategies.
+
+Competitive players developed specialized roles and practiced for hours to perfect skiing routes and midair shots. The community created tools for organizing matches, tracking statistics, and managing clan rosters.
+
+This competitive infrastructure established patterns that later esports titles would adopt, making Tribes a foundational influence on organized gaming competition beyond its direct sequels.
 
 ## Reception
 
@@ -157,6 +173,7 @@ Starsiege: Tribes established the blueprint for team-based objective shooters, i
 [[Starsiege - Tribes]]
 [[Tribes - Aerial Assault]]
 [[Tribes 3 - Rivals]]
+
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Starsiege:_Tribes) – - Developer, designer, and basic game information

@@ -186,6 +186,7 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 - [[3-D Ultra Pinball: The Lost Continent]]
 - [[3-D Ultra Pinball Power!]]
 - [[3-D Ultra Mini Golf Deluxe]]
+
 ## References
 
 [^ref-1]: [MobyGames - 3-D Ultra Radio Control Racers](https://www.mobygames.com/game/3044/3-d-ultra-radio-control-racers/) – - Game details, credits, technical specifications, and ratings data

@@ -268,6 +268,7 @@ According to GameFAQs, Hoyle Crosswords was part of a broad family of Hoyle titl
 [[Hoyle Swashbucklin Slots]]
 [[Hoyle Table Games]]
 [[Hoyle Texas Hold Em]]
+
 ## References
 
 [^ref-1]: [MobyGames – Hoyle Bridge](https://www.mobygames.com/game/17466/hoyle-bridge/) – Related Hoyle series information, development team credits
