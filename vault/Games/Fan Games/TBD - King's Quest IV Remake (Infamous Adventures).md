@@ -118,7 +118,7 @@ The Infamous Adventures remake is anticipated positively by the fan community, g
 
 The King's Quest IV remake landscape has been notably active, with multiple concurrent projects attempting to modernize the 1988 classic:[^ref-5]
 
-- **King's Quest IV Retold** by DrSlash (2021): A point-and-click AGS remake nominated for "Best Game Created with AGS" at the 2021 AGS Awards, featuring improved QoL while staying faithful to the original's graphics[^ref-5][^ref-5]. The AGS database page shows over 9,000 downloads and was selected as "Pick of the Month" in August 2022[^ref-5].
+- **King's Quest IV Retold** by DrSlash (2021): A point-and-click AGS remake nominated for "Best Game Created with AGS" at the 2021 AGS Awards, featuring improved QoL while staying faithful to the original's graphics[^ref-5]. The AGS database page shows over 9,000 downloads and was selected as "Pick of the Month" in August 2022[^ref-5].
 - **KQ4 Retold VGA + Talkie** by Magic Quest Entertainment (2025): A patch adding VGA graphics and voice acting to DrSlash's remake[^ref-6]
 - **Unicorn Tales**: A 3D remake in development[^ref-5]
 

@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-02-05'
+last_updated: '2026-03-27'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
-  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
+ 1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -197,7 +197,7 @@ The continued support for the project, with updates still being released as rece
 **Manuals & Extras**
 - PDF Manual included with game download (2.7 MB)[^ref-3]
 
-The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
+The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-16][^ref-17][^ref-18]
 
 ## See Also
 
@@ -229,7 +229,7 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 [^ref-11]: [Infamous Adventures itch.io – Comments](https://infamousadventures.itch.io/space-quest-ii-vga-remake/comments) – Technical issues, Linux libpng problem, macOS fullscreen workarounds
 [^ref-12]: [Infamous Adventures itch.io – Devlog V2.0](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog/117383/space-quest-ii-v20) – Easter egg information, bug fixes, secret bar changes
 [^ref-13]: [Infamous Adventures itch.io – Devlog Index](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog) – Original release date confirmation
-[^ref-14]: [RAWG.io – Space Quest II VGA Remake](https://rawg.io/games/space-quest-ii-vga-remake) – Platform information, game description[^ref-15]: [Giant Bomb - Space Quest II VGA Remake](https://www.giantbomb.com/space-quest-ii-vga-remake/) - game wiki entry
+[^ref-14]: [RAWG.io – Space Quest II VGA Remake](https://rawg.io/games/space-quest-ii-vga-remake) – Platform information, game description: [Giant Bomb - Space Quest II VGA Remake](https://www.giantbomb.com/space-quest-ii-vga-remake/) - game wiki entry
 [^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
 [^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
 [^ref-18]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information

@@ -10,20 +10,20 @@ series: Front Page Sports
 engine: Dynamix's new 3-D engine
 protagonist: Ski Racer (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-03-27'
 description: '**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed
   by Dynamix and published by Sierra On-Line. The game simulates the four World...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
 **Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed by Dynamix and published by Sierra On-Line[^ref-1]. The game simulates the four World Cup skiing variants: Slalom, Giant Slalom, Super Giant Slalom and Downhill, focusing on realistic gameplay rather than arcade-style action[^ref-2]. Olympic medalist Picabo Street served as the game's featured athlete and skiing consultant, providing video tips and training instruction throughout the game[^ref-3].
 
-Unlike the snowboarding games popular on console systems at the time, Front Page Sports: Ski Racing was designed as "a racing simulation through and through"[^ref-4]. The game featured six courses based on real-world locations: four American and two European ski resorts, all fully rendered in 3D using Dynamix's new 3-D engine[^ref-5][^ref-5]. Players could compete in single races, multiple events, or participate in full season racing across various difficulty levels[^ref-5].
+Unlike the snowboarding games popular on console systems at the time, Front Page Sports: Ski Racing was designed as "a racing simulation through and through"[^ref-4]. The game featured six courses based on real-world locations: four American and two European ski resorts, all fully rendered in 3D using Dynamix's new 3-D engine[^ref-5]. Players could compete in single races, multiple events, or participate in full season racing across various difficulty levels[^ref-5].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -117,7 +117,7 @@ The game required a Pentium 90 processor, 16 MB RAM, 4X CD-ROM drive, and 75 MB 
 
 ## Legacy
 
-Front Page Sports: Ski Racing was followed by "Skiing, 1999 Edition" and was later repackaged by Sierra Sports as simply "Ski Racing"[^ref-5][^ref-5].
+Front Page Sports: Ski Racing was followed by "Skiing, 1999 Edition" and was later repackaged by Sierra Sports as simply "Ski Racing"[^ref-5].
 
 The game filled a niche in PC gaming, as "skiing games are something of a rarity on the PC"[^ref-13].
 

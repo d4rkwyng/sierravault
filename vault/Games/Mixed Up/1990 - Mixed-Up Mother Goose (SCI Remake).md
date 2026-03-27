@@ -10,14 +10,14 @@ series: Mixed-Up
 engine: SCI0
 protagonist: Player-chosen child character
 sierra_lineage: Core Sierra
-last_updated: '2026-03-18'
+last_updated: '2026-03-27'
 description: Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra
-  On-Line's enhanced remake of their beloved children's adventure game originally...
+ On-Line's enhanced remake of their beloved children's adventure game originally...
 tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose
 
-<small style="color: gray">Last updated: March 18, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 > [!info]- Game Info
 > - **Release Year:** 1990
@@ -30,7 +30,7 @@ tags: [1990s, adventure, educational, mixed-up, roberta-williams, sci, sierra]
 > - **Media:** CD-ROM, Floppy Disk
 > - **Rating:** E for Everyone
 > 
-<small style="color: gray">Last updated: March 18, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 Last updated: March 18, 2026
 
@@ -38,7 +38,7 @@ Last updated: March 18, 2026
 
 Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra On-Line's enhanced remake of their beloved children's adventure game originally released in November 1987[^ref-7]. Created by Roberta Williams, the pioneering designer behind the King's Quest series[^ref-23], this educational adventure combines classic nursery rhymes with Sierra's traditional adventure game mechanics in a package specifically designed for young children[^ref-2][^ref-3].
 
-The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goose Land have become mixed up!"[^ref-5] Players must help restore order by finding missing items for various fairy tale characters scattered throughout the magical land[^ref-5]. What makes this title particularly notable is that it became "probably the contender for 'Most Remade Game' in Sierra's whole library, with a total of three remakes"[^ref-40], demonstrating its enduring popularity and Sierra's commitment to keeping it current with advancing technology.
+The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goose Land have become mixed up!"[^ref-5] Players must help restore order by finding missing items for various fairy tale characters scattered throughout the magical land[^ref-5]. What makes this title particularly notable is that it became "probably the contender for 'Most Remade Game' in Sierra's whole library, with a total of three remakes", demonstrating its enduring popularity and Sierra's commitment to keeping it current with advancing technology.
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
@@ -51,7 +51,7 @@ The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goo
 
 ## Story Summary
 
-The story unfolds in the whimsical Mother Goose Land, where beloved nursery rhyme characters find themselves in distress due to their missing possessions[^ref-5]. Players take on the role of a helpful child who must traverse this magical realm, solving the problems of classic characters like Humpty Dumpty, Little Bo Peep, and Jack and Jill[^ref-32]. The game features "18 nursery rhymes to fix, originally 20 items to recover"[^ref-7], with each successful restoration resulting in the complete nursery rhyme playing "with the lyrics appearing on screen"[^ref-23].
+The story unfolds in the whimsical Mother Goose Land, where beloved nursery rhyme characters find themselves in distress due to their missing possessions[^ref-5]. Players take on the role of a helpful child who must traverse this magical realm, solving the problems of classic characters like Humpty Dumpty, Little Bo Peep, and Jack and Jill. The game features "18 nursery rhymes to fix, originally 20 items to recover"[^ref-7], with each successful restoration resulting in the complete nursery rhyme playing "with the lyrics appearing on screen"[^ref-23].
 
 The educational value was immediately recognized, with Compute! magazine noting "I can't think of a better way to teach kids the classical nursery rhymes"[^ref-7]. The game's design philosophy, as described by Adventure Gamers, was to create "a children's adventure game so simple that once you start the game, even a young child can take over"[^ref-2][^ref-3].
 
@@ -59,13 +59,13 @@ The educational value was immediately recognized, with Compute! magazine noting 
 
 ### Interface and Controls
 
-Mixed-Up Mother Goose was designed with accessibility in mind, featuring Sierra's AGI (Adventure Game Interpreter) engine but with significant simplifications for young players[^ref-7]. The interface was deliberately streamlined, eliminating the complex text parser systems found in Sierra's adult-oriented adventures. Later versions would adopt point-and-click mechanics, with the VGA version featuring a "cursor [that] resembles Lucasfilm SCUMM games"[^ref-40].
+Mixed-Up Mother Goose was designed with accessibility in mind, featuring Sierra's AGI (Adventure Game Interpreter) engine but with significant simplifications for young players[^ref-7]. The interface was deliberately streamlined, eliminating the complex text parser systems found in Sierra's adult-oriented adventures. Later versions would adopt point-and-click mechanics, with the VGA version featuring a "cursor [that] resembles Lucasfilm SCUMM games".
 
 ### Structure and Progression
 
 One of the game's most innovative features is its randomized structure. As noted in the Internet Archive documentation, "each time the game is played objects will be in a new location"[^ref-5], ensuring replay value and preventing children from simply memorizing solutions. However, players face the limitation that "you can only carry one item at a time"[^ref-5], adding a strategic element to the gameplay. To aid navigation, the game "included with the game is a map of Mother Goose Land"[^ref-5].
 
-The game allows players to "choose from 8 different characters"[^ref-7], enabling children to "pick from several characters to find the one that most resembles him or herself"[^ref-36]. This personalization feature was ahead of its time and demonstrated Sierra's understanding of their young audience.
+The game allows players to "choose from 8 different characters"[^ref-7], enabling children to "pick from several characters to find the one that most resembles him or herself". This personalization feature was ahead of its time and demonstrated Sierra's understanding of their young audience.
 
 ### Puzzles and Mechanics
 
@@ -82,7 +82,7 @@ Mixed-Up Mother Goose received overwhelmingly positive reception, particularly f
 | Compute! | Positive | "I can't think of a better way to teach kids the classical nursery rhymes"[^ref-7] |
 | MobyGames Players | 4.3/5 | Various versions[^ref-19][^ref-23] |
 | MyAbandonware | 4.94/5 | High user satisfaction[^ref-28] |
-| IMDb | 7.0/10 | Based on 13 ratings[^ref-12] |
+| IMDb | 7.0/10 | Based on 13 ratings |
 
 ### Modern Assessment
 
@@ -92,7 +92,7 @@ Modern retrospective reviews continue to praise the game's design philosophy and
 
 ### Origins
 
-Mixed-Up Mother Goose emerged during Sierra On-Line's golden age of adventure game development in the 1980s, when the company was establishing itself as the premier creator of graphical adventures[^ref-6]. The game represented Roberta Williams' exploration into educational gaming, building on her success with the King's Quest series while targeting a completely different demographic[^ref-37]. The Museum of Play archives and TV Tropes both document this as part of Sierra's broader educational software initiative[^ref-6][^ref-37].
+Mixed-Up Mother Goose emerged during Sierra On-Line's golden age of adventure game development in the 1980s, when the company was establishing itself as the premier creator of graphical adventures[^ref-6]. The game represented Roberta Williams' exploration into educational gaming, building on her success with the King's Quest series while targeting a completely different demographic. The Museum of Play archives and TV Tropes both document this as part of Sierra's broader educational software initiative[^ref-6].
 
 The Museum of Play archives document this as part of Sierra's broader catalog, describing it as "a children's game called Mixed-Up Mother Goose (1987)"[^ref-6] within the context of Sierra's innovative contributions to interactive entertainment.
 
@@ -100,25 +100,25 @@ The Museum of Play archives document this as part of Sierra's broader catalog, d
 
 The original 1987 version was programmed by David Slayback with art by Gerald Moore[^ref-7]. The game utilized Sierra's AGI (Adventure Game Interpreter) engine[^ref-7], the same technology powering early King's Quest games but simplified for younger players. Music composition was handled by Amenda Lombardo[^ref-7].
 
-The later SCI remakes featured expanded development teams, with the VGA version including an extensive voice cast. IMDb credits list eighteen voice actors[^ref-11], including notable Sierra employees like Josh Mandel, who also worked as a designer on other Sierra titles[^ref-11]. This represented a significant production upgrade, as the game became "Sierra's first CD-ROM title"[^ref-36]. MobyGames and Play Classic Games both document the technical specifications and voice cast details[^ref-19][^ref-28].
+The later SCI remakes featured expanded development teams, with the VGA version including an extensive voice cast. IMDb credits list eighteen voice actors, including notable Sierra employees like Josh Mandel, who also worked as a designer on other Sierra titles. This represented a significant production upgrade, as the game became "Sierra's first CD-ROM title". MobyGames and Play Classic Games both document the technical specifications and voice cast details[^ref-19][^ref-28].
 
 ### Technical Achievements
 
-Mixed-Up Mother Goose was groundbreaking as "the first multimedia game released on CD-ROM in 1991"[^ref-7] and "one of the first computer games ever released on CD rather than on diskettes"[^ref-11]. The VGA remake featured "hand-painted backgrounds [that] look amazing, and there are some good animations, particularly when you sing along to a nursery rhyme"[^ref-19]. According to MobyGames and IMDb, the game's technical achievements included extensive voice acting and multimedia integration[^ref-11][^ref-19].
+Mixed-Up Mother Goose was groundbreaking as "the first multimedia game released on CD-ROM in 1991"[^ref-7] and "one of the first computer games ever released on CD rather than on diskettes". The VGA remake featured "hand-painted backgrounds [that] look amazing, and there are some good animations, particularly when you sing along to a nursery rhyme"[^ref-19]. According to MobyGames and IMDb, the game's technical achievements included extensive voice acting and multimedia integration[^ref-19].
 
-The game's technical evolution across multiple remakes demonstrates Sierra's commitment to leveraging new technology. The progression from the original AGI version through SCI0, VGA, and finally SVGA versions shows how Sierra used this title as a showcase for their advancing capabilities[^ref-36].
+The game's technical evolution across multiple remakes demonstrates Sierra's commitment to leveraging new technology. The progression from the original AGI version through SCI0, VGA, and finally SVGA versions shows how Sierra used this title as a showcase for their advancing capabilities.
 
 ## Legacy
 
-Mixed-Up Mother Goose became "one of the best-loved children's software titles of all time"[^ref-36], establishing a template for educational adventure games that influenced the industry for years to come. As TV Tropes notes, it represented how "Sierra goes Lighter and Softer"[^ref-40] compared to their typical adventure game offerings, proving the company could successfully adapt their expertise to different audiences.
+Mixed-Up Mother Goose became "one of the best-loved children's software titles of all time", establishing a template for educational adventure games that influenced the industry for years to come. As TV Tropes notes, it represented how "Sierra goes Lighter and Softer" compared to their typical adventure game offerings, proving the company could successfully adapt their expertise to different audiences.
 
-The game's influence extends beyond its immediate success. It demonstrated that adventure games could be educational tools, paving the way for Sierra's later educational titles and inspiring other developers to explore similar concepts. Ken Williams' philosophy that they were "running a 'club' where our job was to build cool product for people who had bought from us before"[^ref-38] is exemplified in how Sierra continued to support and remake this title across multiple generations of technology.
+The game's influence extends beyond its immediate success. It demonstrated that adventure games could be educational tools, paving the way for Sierra's later educational titles and inspiring other developers to explore similar concepts. Ken Williams' philosophy that they were "running a 'club' where our job was to build cool product for people who had bought from us before" is exemplified in how Sierra continued to support and remake this title across multiple generations of technology.
 
 The preservation community's continued interest, evidenced by active wishlist campaigns on digital distribution platforms[^ref-9] and abandonware archives[^ref-1], demonstrates the game's enduring cultural significance. Historical gaming blogs have documented its place in Sierra's educational software lineage[^ref-4][^ref-8]. Comments like "The thought of having a complete sierra catalog digitally preserved alone should bring in more votes for this game"[^ref-9] reflect both nostalgia for the title and recognition of its historical importance in gaming.
 
 **Purchase / Digital Stores**
 
-Mixed-Up Mother Goose is Not currently available for purchase on major digital storefronts. The game was never re-released on modern platforms following Sierra's corporate changes[^ref-36]. Community interest persists on platforms like GOG Dreamlist[^ref-9], where fans express desire for official re-release. Retro gaming enthusiasts typically acquire physical copies or access preservation versions through abandonware communities[^ref-25][^ref-26].
+Mixed-Up Mother Goose is Not currently available for purchase on major digital storefronts. The game was never re-released on modern platforms following Sierra's corporate changes. Community interest persists on platforms like GOG Dreamlist[^ref-9], where fans express desire for official re-release. Retro gaming enthusiasts typically acquire physical copies or access preservation versions through abandonware communities[^ref-25][^ref-26].
 
 ## Downloads
 

@@ -10,14 +10,14 @@ series: Standalone
 engine: Dynamix Game Development System (DGDS)
 protagonist: Willy Beamish
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: The Adventures of Willy Beamish is a graphic adventure game developed
-  by Dynamix and published by Sierra On-Line in 1991. The game puts players in control...
+ by Dynamix and published by Sierra On-Line in 1991. The game puts players in control...
 tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 ---
 # The Adventures of Willy Beamish
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -277,7 +277,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 - [GOG.com](https://www.gog.com/en/game/the_adventures_of_willy_beamish) – Includes both floppy and CD versions
 
 **ScummVM Support**
-- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)[^ref-54]
+- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)
 - Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
@@ -356,4 +356,4 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-50]: [ComicBook.com – Xbox Game Pass](https://comicbook.com/gaming/news/xbox-game-pass-sega-cd-new-games/) – Activision acquisition
 [^ref-51]: [TrueAchievements – Retro Classics](https://www.trueachievements.com/news/xbox-game-pass-retro-classics-august-2026) – first Sega CD game on Game Pass
 [^ref-52]: [Reddit – Nostalgia](https://www.reddit.com/r/nostalgia/comments/1c0s0aq/one_of_my_favorite_computer_games_the_adventures/) – fan memories
-[^ref-53]: [Internet Archive – Hint Book](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991) – hint book existence[^ref-54]: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for The Adventures of Willy Beamish added
+[^ref-53]: [Internet Archive – Hint Book](https://archive.org/stream/extras_msdos_Adventures_of_Willy_Beamish_The_1991) – hint book existence: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for The Adventures of Willy Beamish added

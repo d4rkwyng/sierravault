@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -130,7 +130,7 @@ The Adventure Development Language (ADL) engine allowed for a streamlined develo
 | Japanese | 1983 | PC-88 | Japanese localization by StarCraft, Inc.[^ref-3] |
 | Japanese | 1983 | PC-98 | Japanese localization by StarCraft, Inc.[^ref-3] |
 
-The game saw several packaging variations during its initial run on the Apple II. The original release featured a black and white folder, which was later replaced by a color folder as the game continued to sell[^ref-2]. Additionally, Cranston Manor was re-released under the SierraVenture branding, which Sierra used for certain adventure titles during this period[^ref-2][^ref-2].
+The game saw several packaging variations during its initial run on the Apple II. The original release featured a black and white folder, which was later replaced by a color folder as the game continued to sell[^ref-2]. Additionally, Cranston Manor was re-released under the SierraVenture branding, which Sierra used for certain adventure titles during this period[^ref-2].
 
 ### Easter Eggs and Trivia
 

@@ -10,14 +10,14 @@ series: Phantasmagoria
 engine: SCI32
 protagonist: Curtis Craig
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure
-  game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
+ game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
 tags: [1990s, adventure, phantasmagoria, sci, sierra]
 ---
 # Phantasmagoria: A Puzzle of Flesh
 
-<small style="color: gray">Last updated: March 25, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -120,7 +120,7 @@ The game's commercial failure and negative critical reception contributed to Sie
 
 ## Downloads
 
-Phantasmagoria: A Puzzle of Flesh is available for preservation through various sources. The DOS version can be found on Archive.org and MyAbandonWare for historical preservation purposes[^ref-79]. Compatibility patches are available to ensure the game runs on modern systems.
+Phantasmagoria: A Puzzle of Flesh is available for preservation through various sources. The DOS version can be found on Archive.org and MyAbandonWare for historical preservation purposes. Compatibility patches are available to ensure the game runs on modern systems.
 
 ## See Also
 

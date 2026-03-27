@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-02'
+last_updated: '2026-03-27'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation
   developed by Dynamix with assistance from Coktel Vision, published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -128,7 +128,7 @@ These enhancements showcased the capabilities of Commodore's more powerful hardw
 |-------------|-------|----------|-------|
 | Amiga Concept | 92% | Laurent Picart | Highest rating[^ref-8] |
 | Amiga Action | 89% | Paul McNally, Paul Roundell | [^ref-8] |
-| CU Amiga | 87% | Tony Dillon | Screen Star award (85-92%)[^ref-8][^ref-8] |
+| CU Amiga | 87% | Tony Dillon | Screen Star award (85-92%)[^ref-8] |
 | Amiga Dream | 84% | Grégory Halliday | [^ref-8] |
 | The One Amiga | 83% | Simon Byron | "Most instantly playable"[^ref-9] |
 | Amiga Computing | 80% | — | [^ref-8] |
@@ -141,7 +141,7 @@ These enhancements showcased the capabilities of Commodore's more powerful hardw
 
 ### Critical Analysis
 
-**CU Amiga** awarded the game a Screen Star, their designation for games scoring 85-92%, praising it as "a very competent and extremely playable arcade soccer game."[^ref-8][^ref-8] The review emphasized the game's accessibility without sacrificing depth.
+**CU Amiga** awarded the game a Screen Star, their designation for games scoring 85-92%, praising it as "a very competent and extremely playable arcade soccer game."[^ref-8] The review emphasized the game's accessibility without sacrificing depth.
 
 **The One Amiga's** Simon Byron was similarly enthusiastic, calling it "one of the most instantly playable arcade football engines yet seen."[^ref-9] The review highlighted the game's low barrier to entry for new players.
 

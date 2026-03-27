@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: Hoyle Word Games 2001 is a word puzzle compilation developed and published
-  by Sierra On-Line, released on November 14, 2000 for PC with versions available...
+ by Sierra On-Line, released on November 14, 2000 for PC with versions available...
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games 2001
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -200,7 +200,7 @@ The game's educational focus on reading, spelling, and logic skills[^ref-2] posi
 - Physical CD-ROM copies through online retailers
 - Compatibility-patched versions through specialty retro gaming sellers[^ref-4]
 
-The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
+The game is documented in various gaming databases.[^ref-12][^ref-14][^ref-15][^ref-16]
 
 ## See Also
 
@@ -275,7 +275,7 @@ The game is documented in various gaming databases.[^ref-12][^ref-13][^ref-14][^
 [^ref-9]: [Metacritic – Critic Reviews](https://www.metacritic.com/game/hoyle-word-games-2001/critic-reviews/) – lack of critic review coverage
 [^ref-10]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-word-games-2001/user-reviews/) – lack of user review coverage
 [^ref-11]: [Metacritic – Hoyle Word Games 2001](https://www.metacritic.com/game/hoyle-word-games-2001/) – retrospective quote, release date, developer/publisher
-[^ref-12]: [GameFAQs – Screenshots](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/images?pid=450752&img=8) – release date confirmation, platform info[^ref-13]: [Giant Bomb - Hoyle Word Games](https://www.giantbomb.com/hoyle-word-games/) - game wiki entry
+[^ref-12]: [GameFAQs – Screenshots](https://gamefaqs.gamespot.com/pc/450752-hoyle-word-games-2001/images?pid=450752&img=8) – release date confirmation, platform info: [Giant Bomb - Hoyle Word Games](https://www.giantbomb.com/hoyle-word-games/) - game wiki entry
 [^ref-14]: [IGDB - Hoyle Word Games](https://www.igdb.com/games/hoyle-word-games) - Internet Games Database entry
 [^ref-15]: [MobyGames - Hoyle Word Games](https://www.mobygames.com/game/hoyle-word-games/) - game database entry
 [^ref-16]: [GameSpot - Hoyle Word Games](https://www.gamespot.com/hoyle-word-games/) - game database entry

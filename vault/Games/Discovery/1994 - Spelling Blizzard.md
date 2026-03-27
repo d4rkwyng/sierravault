@@ -10,7 +10,7 @@ series: Spelling Jungle
 engine: Proprietary (Bright Star)
 protagonist: Wali
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Gordon van Ekström]
 description: Spelling Blizzard is an educational adventure game developed by Bright
   Star Technology and published by Sierra On-Line in 1994 for Windows 3.x and Macintosh...
@@ -18,13 +18,13 @@ tags: [1990s, educational, sierra, spelling-jungle]
 ---
 # Spelling Blizzard
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
 Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2]. The game serves as the sequel to Spelling Jungle, transporting the spelling-focused gameplay from a tropical setting to an arctic environment while maintaining the core puzzle mechanics that made its predecessor notable among educational software of the era[^ref-3][^ref-4].
 
-Designed primarily for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving, challenging players to navigate grid-based levels while collecting letters in the correct order to spell words[^ref-5][^ref-5]. The game was part of Sierra's Talking Tutor series of educational software, representing the company's commitment to the edutainment market during the early 1990s[^ref-5].
+Designed primarily for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving, challenging players to navigate grid-based levels while collecting letters in the correct order to spell words[^ref-5]. The game was part of Sierra's Talking Tutor series of educational software, representing the company's commitment to the edutainment market during the early 1990s[^ref-5].
 
 The title was also distributed under alternate names including "Advanced Spelling Tricks" and "Magic Spelling Tricks," reflecting the naming conventions used by Bright Star Technology for its educational product line[^ref-8][^ref-9]. Despite being categorized as children's software, the game earned a reputation for challenging puzzle design that often exceeded its target difficulty level[^ref-10].
 
@@ -41,9 +41,9 @@ The title was also distributed under alternate names including "Advanced Spellin
 
 ## Story Summary
 
-In the Arctic region, the Mighty Spelling River has flooded its banks, threatening the local people, plants, and animals with destruction[^ref-5][^ref-5]. The crisis requires immediate intervention, and the task falls to a young hero guided by an experienced mentor.
+In the Arctic region, the Mighty Spelling River has flooded its banks, threatening the local people, plants, and animals with destruction[^ref-5]. The crisis requires immediate intervention, and the task falls to a young hero guided by an experienced mentor.
 
-Players assume the role of Wali, the young protégé of a wise spelling wizard named Yobi[^ref-5][^ref-5]. As Wali, players must paddle upstream 100 miles on Yobi's raft to discover the cause of the flood and put an end to it[^ref-5]. The journey takes them through increasingly treacherous terrain, with each level representing another mile of progress toward the source of the disaster.
+Players assume the role of Wali, the young protégé of a wise spelling wizard named Yobi[^ref-5]. As Wali, players must paddle upstream 100 miles on Yobi's raft to discover the cause of the flood and put an end to it[^ref-5]. The journey takes them through increasingly treacherous terrain, with each level representing another mile of progress toward the source of the disaster.
 
 Yobi, described as a clever old man who provides instructions and encouragement throughout the adventure, serves as the player's guide and mentor[^ref-11]. His wisdom is dispensed through phrases such as "To spell a single word correctly is to avoid many mistakes"[^ref-12]. When players make errors, Yobi offers gentle corrections with phrases like "Let's try that one again"[^ref-10].
 
@@ -167,7 +167,7 @@ Voice cast information documented in game credits[^ref-2].
 
 Spelling Blizzard was part of Sierra's broader educational software initiative during the early 1990s, a period when the company was expanding beyond its adventure game roots[^ref-25]. Sierra's educational division represented a significant investment in the growing edutainment market.
 
-The game was marketed toward children ages 9 to 12, designed to strengthen reading, spelling, and logic skills through gameplay[^ref-5][^ref-5]. Its combination of educational content with puzzle-solving mechanics represented the era's approach to making learning engaging for young players.
+The game was marketed toward children ages 9 to 12, designed to strengthen reading, spelling, and logic skills through gameplay[^ref-5]. Its combination of educational content with puzzle-solving mechanics represented the era's approach to making learning engaging for young players.
 
 ### Collections
 

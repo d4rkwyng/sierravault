@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Jen
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement
   in early adventure gaming and film adaptation, representing Sierra On-Line''s...'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #6: The Dark Crystal
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -199,7 +199,7 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 [^ref-35]: [Metacritic Critic Reviews](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/critic-reviews/?platform=nintendo-switch) – - Comprehensive critic review compilation
 [^ref-36]: [Metacritic Platform Overview](https://www.metacritic.com/game/the-dark-crystal-age-of-resistance-tactics/) – - Multi-platform review aggregation
 [^ref-37]: [Game Dork's Corner Board Game Review](http://www.gamedorkscorner.com/2018/06/board-game-review-jim-hensons-dark.html) – - Related board game assessment for context
-[^ref-38]: [Kagi FastGPT Research - Review Scores](kagi:fastgpt:What were the review scores for The Dark Crystal video game?) – - Review score compilation research
-[^ref-39]: [Kagi FastGPT Research - Release Information](kagi:fastgpt:What year was The Dark Crystal video game released and who developed it?) – - Basic factual development information
+[^ref-38]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Review scores and critical assessments
+[^ref-39]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Release year, developer, and publisher information
 [^ref-40]: [Muppet Fandom Wiki](https://muppet.fandom.com/wiki/The_Dark_Crystal_(computer_game) – ) - Franchise context and cross-references
 [^ref-41]: [Dark Crystal Official Website](https://www.darkcrystal.com/) – - Official franchise information and context

@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI/SCI0
 protagonist: Princess Rosella
 sierra_lineage: Core Sierra
-last_updated: '2026-02-12'
+last_updated: '2026-03-27'
 composer: [William Goldstein]
 description: 'King''s Quest IV: The Perils of Rosella marked a watershed moment in
   gaming history when it launched in September 1988. As the first PC game to support
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest IV: The Perils of Rosella
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -194,7 +194,7 @@ A King's Quest IV novel was approved by Roberta Williams but cancelled by publis
 
 ### The King's Quest Companion
 
-*The King's Quest Companion* by Peter Spear, an official authorized walkthrough endorsed by Roberta Williams, features Chapter 8 devoted to King's Quest IV[^ref-40]. Unlike traditional hint books, the novelization presents Rosella's adventure as told by Queen Valanice herself, recounting her daughter's involvement in Tamir[^ref-40][^ref-40]. Chapter 7, "Grave Matters" (reprinted from the fictional *Telltale Traveler* magazine), provides additional Tamir history including the origins of Whateley Manor and poetry from Tamir's gravestones[^ref-40].
+*The King's Quest Companion* by Peter Spear, an official authorized walkthrough endorsed by Roberta Williams, features Chapter 8 devoted to King's Quest IV[^ref-40]. Unlike traditional hint books, the novelization presents Rosella's adventure as told by Queen Valanice herself, recounting her daughter's involvement in Tamir[^ref-40]. Chapter 7, "Grave Matters" (reprinted from the fictional *Telltale Traveler* magazine), provides additional Tamir history including the origins of Whateley Manor and poetry from Tamir's gravestones[^ref-40].
 
 The book became an important part of King's Quest canon—facts from the Companion appeared as questions in the *King's Questions* trivia game, and historian character Derek Karlavaegen later became integral to King's Quest VI's backstory[^ref-40]. Roberta Williams endorsed the work, calling it "a wonderful blend of fact and fiction that brings my games to life in an exciting new way"[^ref-40].
 

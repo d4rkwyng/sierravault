@@ -10,22 +10,22 @@ series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-02-12'
+last_updated: '2026-03-27'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the legendary Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and published through the InstantAction platform[^ref-2][^ref-2]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of Sierra On-Line's legendary flight simulation series including [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-4][^ref-5].
+Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Mad Otter Games and published through the InstantAction platform[^ref-2]. The game was designed by [[Damon Slye]], co-founder of Dynamix and creator of Sierra On-Line's legendary flight simulation series including [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]][^ref-4][^ref-5].
 
 Ace of Aces represented Slye's return to flight combat games after a 12-year hiatus from the gaming industry[^ref-6]. Having left Dynamix in 1994 to pursue other interests—including obtaining his pilot's license and flying his own Bonanza A36 aircraft—Slye founded Mad Otter Games in 2007 with fellow ex-Dynamix employees in Eugene, Oregon[^ref-7][^ref-8]. The game served as a spiritual successor to his earlier WWI flight sim Red Baron, bringing his signature approach to accessible flight combat to the then-emerging browser gaming market[^ref-9][^ref-10].
 
-The game launched on the InstantAction platform in 2008 and featured both single-player training modes and competitive multiplayer battles[^ref-2]. When InstantAction shut down in November 2010, Ace of Aces became unavailable, with planned re-release efforts never materializing[^ref-11][^ref-11].
+The game launched on the InstantAction platform in 2008 and featured both single-player training modes and competitive multiplayer battles[^ref-2]. When InstantAction shut down in November 2010, Ace of Aces became unavailable, with planned re-release efforts never materializing[^ref-11].
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-2]
@@ -108,7 +108,7 @@ InstantAction launched its open beta on March 31, 2008, with Ace of Aces among i
 
 InstantAction's life was short-lived. Louis Castle, co-founder of Westwood Studios, became CEO in July 2009 as the company restructured[^ref-21]. In March 2010, InstantAction.com was taken down as a gaming portal, with the company pivoting to support embedding 3D games on external websites[^ref-11].
 
-On November 11, 2010, InstantAction announced it was "winding down" operations entirely[^ref-11][^ref-11]. The platform's closure meant all its hosted games, including Ace of Aces, became instantly unavailable[^ref-11].
+On November 11, 2010, InstantAction announced it was "winding down" operations entirely[^ref-11]. The platform's closure meant all its hosted games, including Ace of Aces, became instantly unavailable[^ref-11].
 
 ### Re-release Efforts
 
@@ -138,7 +138,7 @@ After Ace of Aces, Mad Otter Games shifted focus to Villagers and Heroes (origin
 
 ### The Red Baron Revival Attempts
 
-Slye's passion for WWI flight combat didn't end with Ace of Aces. In October 2013, he launched a Kickstarter campaign to fund a full remake of Red Baron, seeking $250,000 to create a game featuring both single-player campaigns and multiplayer modes including MOBA-styled maps and tech trees[^ref-6][^ref-23].
+Slye's passion for WWI flight combat didn't end with Ace of Aces. In October 2013, he launched a Kickstarter campaign to fund a full remake of Red Baron, seeking $250,000 to create a game featuring both single-player campaigns and multiplayer modes including MOBA-styled maps and tech trees[^ref-6].
 
 The Kickstarter failed, reaching only $21,908 of its goal[^ref-6]. Slye later attributed the failure to poor campaign execution: "We didn't build a community before we launched the Kickstarter. We didn't present it very well. The game didn't look right. It looked a little arcade-ey."[^ref-9]
 

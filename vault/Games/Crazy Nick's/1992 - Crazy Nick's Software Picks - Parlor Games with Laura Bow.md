@@ -10,14 +10,14 @@ series: Crazy Nick's Software Picks, Laura Bow
 engine: SCI1.1
 protagonist: Laura Bow (opponent)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'Crazy Nick''s Software Picks: Parlor Games with Laura Bow is a budget
   compilation title released by Sierra On-Line in 1992 as part of their Crazy Nick''s...'
 tags: [1990s, crazy-nick-s-software-picks-laura-bow, sci, sierra]
 ---
 # Crazy Nick's Software Picks: Parlor Games with Laura Bow
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -84,7 +84,7 @@ Contemporary critical reception for Parlor Games with Laura Bow was limited, as 
 
 The game was characterized as "above-average" for a board/party game title of its era[^ref-4]. However, reviewers noted the inherent limitations of the format, with one critic stating "There's absolutely no need for the hideous Yacht game to exist, and you'd have to be some kind of hard-core dominomaniac to want to play single player dominoes versus the computer"[^ref-1].
 
-Comparative analysis with other Crazy Nick's releases found this title wanting, with critics observing "These Picks are noticeably worse than King Graham's"[^ref-1][^ref-1]. The King Graham's Board Game Challenge title in the same series received better overall reception with a reported 4.4 out of 5 player rating[^ref-8].
+Comparative analysis with other Crazy Nick's releases found this title wanting, with critics observing "These Picks are noticeably worse than King Graham's"[^ref-1]. The King Graham's Board Game Challenge title in the same series received better overall reception with a reported 4.4 out of 5 player rating[^ref-8].
 
 ### Modern Assessment
 

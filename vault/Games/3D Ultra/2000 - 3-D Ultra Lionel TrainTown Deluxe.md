@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Christopher Stevens]
 description: 3D Ultra Lionel Traintown is a third-person railroading puzzle game developed
   by Dynamix and published by Sierra Attractions for Windows in 1999. Licensed...
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Lionel Traintown
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ Most jobs involve the basic concept of picking up and delivering loads via diffe
 
 ### Contemporary Reviews
 
-3D Ultra Lionel Traintown received recognition from the Academy of Interactive Arts and Sciences, winning the 2000 Family Game of the Year award (also cited as Computer Family Entertainment Title of the Year)[^ref-8][^ref-8]. This prestigious award acknowledged the game's success in creating engaging family-friendly content that balanced entertainment with educational value.
+3D Ultra Lionel Traintown received recognition from the Academy of Interactive Arts and Sciences, winning the 2000 Family Game of the Year award (also cited as Computer Family Entertainment Title of the Year)[^ref-8]. This prestigious award acknowledged the game's success in creating engaging family-friendly content that balanced entertainment with educational value.
 
 The original publisher description praised the game extensively, stating that "3-D Ultra Lionel Traintown Deluxe may well be everything both a parent and a child could want. It's engaging, well designed, and informative. Best of all, playing it is a lot of fun"[^ref-13].
 

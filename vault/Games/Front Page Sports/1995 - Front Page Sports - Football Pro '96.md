@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: '*Front Page Sports: Football Pro ''96* was a comprehensive American
   football simulation game developed by Dynamix and published by Sierra On-Line in
   late...'
@@ -18,15 +18,15 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-*Front Page Sports: Football Pro '96* was a comprehensive American football simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in late 1995 for the 1996 football season.[^ref-1][^ref-2] Part of the acclaimed [[1992 - Front Page Sports Football 92|Front Page Sports]] series, the '96 edition represented a significant technological leap forward with its introduction of high-resolution SVGA graphics, moving beyond the VGA graphics of [[1994 - Front Page Sports - Football Pro '95|Football Pro '95]] while maintaining the deep simulation mechanics that defined the franchise.[^ref-26][^ref-26]
+*Front Page Sports: Football Pro '96* was a comprehensive American football simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in late 1995 for the 1996 football season.[^ref-1][^ref-2] Part of the acclaimed [[1992 - Front Page Sports Football 92|Front Page Sports]] series, the '96 edition represented a significant technological leap forward with its introduction of high-resolution SVGA graphics, moving beyond the VGA graphics of [[1994 - Front Page Sports - Football Pro '95|Football Pro '95]] while maintaining the deep simulation mechanics that defined the franchise.[^ref-26]
 
 The game was notable for featuring perhaps the deepest career mode of any football simulation at the time, allowing players to manage teams across multiple seasons with realistic aging and retirement systems for athletes.[^ref-3] Players could engage with the full spectrum of NFL team management—from drafting rookies and negotiating trades to designing custom plays and calling games from the sideline.[^ref-8][^ref-12]
 
-The '96 edition included the NFL's two newest expansion teams, the Carolina Panthers and Jacksonville Jaguars, reflecting the league's growth and the game's commitment to authenticity.[^ref-11][^ref-26] This combination of simulation depth, updated rosters, and enhanced graphics earned the game recognition from *Computer Gaming World*, which named it the 11th best computer game of all time in 1996 and inducted the series into their Hall of Fame.[^ref-3][^ref-3]
+The '96 edition included the NFL's two newest expansion teams, the Carolina Panthers and Jacksonville Jaguars, reflecting the league's growth and the game's commitment to authenticity.[^ref-11][^ref-26] This combination of simulation depth, updated rosters, and enhanced graphics earned the game recognition from *Computer Gaming World*, which named it the 11th best computer game of all time in 1996 and inducted the series into their Hall of Fame.[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -114,7 +114,7 @@ The game was marketed as "the best-selling football game on CD-ROM" that "now sp
 | MyAbandonware | 4.6/5 | Community rating[^ref-8] |
 | Emuparadise | 4.86/5 | User rating[^ref-17] |
 
-The *Computer Gaming World* recognition was particularly significant, with the publication naming *Football Pro '96* among the greatest computer games ever made and inducting it into their Hall of Fame—rare honors for a sports simulation.[^ref-3][^ref-3]
+The *Computer Gaming World* recognition was particularly significant, with the publication naming *Football Pro '96* among the greatest computer games ever made and inducting it into their Hall of Fame—rare honors for a sports simulation.[^ref-3]
 
 ### Critical Assessment
 
@@ -148,7 +148,7 @@ The '96 edition's transition from VGA to SVGA graphics was a significant technic
 
 ### Production Team
 
-The development involved a substantial team of approximately 37 people, with up to 106 credited contributors across all development aspects:[^ref-23][^ref-23]
+The development involved a substantial team of approximately 37 people, with up to 106 credited contributors across all development aspects:[^ref-23]
 
 **Key Personnel:**[^ref-1]
 - **Designers:** Doug Johnson, L. Allen McPheeters, Patrick Cook, Randy Teal, Scott Gilbert
@@ -211,7 +211,7 @@ The game saw multiple patches shortly after release, addressing various issues:[
 
 ### Critical Recognition
 
-The accolades earned by *Football Pro '96* reflected its significance in sports gaming:[^ref-3][^ref-3]
+The accolades earned by *Football Pro '96* reflected its significance in sports gaming:[^ref-3]
 
 - **#11 All-Time Best Computer Game** – Computer Gaming World (1996)
 - **Sports Game of the Year** – Computer Gaming World (1994)
@@ -220,7 +220,7 @@ The accolades earned by *Football Pro '96* reflected its significance in sports 
 
 ### Series Continuation
 
-The *Front Page Sports: Football Pro* series continued after the '96 edition:[^ref-3][^ref-3]
+The *Front Page Sports: Football Pro* series continued after the '96 edition:[^ref-3]
 
 | Year | Title | Status |
 |------|-------|--------|

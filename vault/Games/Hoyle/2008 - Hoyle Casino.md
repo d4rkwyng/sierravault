@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-03-27'
 description: Hoyle Casino 2008 represents a continuation of the long-running Hoyle
-  casino game franchise, marketed as "the best-selling casino game of all time."...
+ casino game franchise, marketed as "the best-selling casino game of all time."...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2008
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -177,7 +177,7 @@ The game's significance lies primarily in its role as a bridge product—connect
 - Registration key printed on back cover of included manual[^ref-4]
 - Official HOYLE rulebook and strategy guide included with game[^ref-3]
 
-The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
+The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18]
 
 ## See Also
 
@@ -249,7 +249,7 @@ The game is documented in gaming databases.[^ref-12][^ref-13][^ref-14][^ref-15][
 [^ref-8]: [Macworld – Hoyle Casino 2008](https://www.macworld.com/article/190285/casino-4.html) – digital distribution, pricing, Mac system requirements, game content list
 [^ref-9]: [IGN – Hoyle Casino 2008](https://www.ign.com/games/hoyle-casino-2008/user-reviews) – release date, publisher info
 [^ref-10]: [RAWG – Hoyle Casino 2008](https://rawg.io/games/hoyle-casino-2008) – release date, developer/publisher info
-[^ref-11]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – Steam App ID, later version system requirements, platform compatibility[^ref-12]: [Giant Bomb - Hoyle Casino 2008](https://www.giantbomb.com/hoyle-casino-2008/) - wiki
+[^ref-11]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – Steam App ID, later version system requirements, platform compatibility: [Giant Bomb - Hoyle Casino 2008](https://www.giantbomb.com/hoyle-casino-2008/) - wiki
 [^ref-13]: [IGDB - Hoyle Casino 2008](https://www.igdb.com/games/hoyle-casino-2008) - IGDB
 [^ref-14]: [MobyGames - Hoyle Casino](https://www.mobygames.com/game/hoyle-casino/) - database
 [^ref-15]: [GameFAQs - Hoyle Casino](https://gamefaqs.gamespot.com/) - database

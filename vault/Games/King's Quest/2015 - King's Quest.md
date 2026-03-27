@@ -10,14 +10,14 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand for...
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -92,10 +92,10 @@ Digitally Downloaded's review of the complete series praised the narrative struc
 
 Common Sense Media praised the game as a "funny, surprising adventure with beautiful graphics," recommending it for ages 10+ and noting the "Princess Bride-style" storytelling approach where elderly King Graham relates tales to his granddaughter[^ref-15]. The review highlighted the "incredible vocal cast" and praised the game's "fun alternation among exploration, action, and puzzle solving"[^ref-15].
 
-The Complete Collection earned recognition within the gaming industry, receiving a nomination for Adventure Game of the Year at the 20th Annual D.I.C.E. Awards from the Academy of Interactive Arts & Sciences in 2017[^ref-1][^ref-1]. Individual chapters received varying reception, with Chapter 1: A Knight to Remember and Chapter 3: Once Upon a Climb generally receiving the strongest reviews[^ref-1].
+The Complete Collection earned recognition within the gaming industry, receiving a nomination for Adventure Game of the Year at the 20th Annual D.I.C.E. Awards from the Academy of Interactive Arts & Sciences in 2017[^ref-1]. Individual chapters received varying reception, with Chapter 1: A Knight to Remember and Chapter 3: Once Upon a Climb generally receiving the strongest reviews[^ref-1].
 
 ### Chapter-by-Chapter Reception
-According to Metacritic aggregate scores, the individual chapters received the following critical reception[^ref-1][^ref-1]:
+According to Metacritic aggregate scores, the individual chapters received the following critical reception[^ref-1]:
 
 **Chapter 1: A Knight to Remember** received positive reviews:
 - Windows: 82/100 (23 reviews)

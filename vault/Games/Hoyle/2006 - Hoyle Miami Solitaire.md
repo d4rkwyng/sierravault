@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Spiritual Successor
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Hoyle Miami Solitaire is a card game compilation released in November
   2006 for PC, developed and published by Encore Software under the storied Hoyle
   brand...
@@ -18,13 +18,13 @@ tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Miami Solitaire
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
 Hoyle Miami Solitaire is a card game compilation released in November 2006 for PC, developed and published by Encore Software under the storied Hoyle brand name [^ref-1][^ref-2][^ref-12][^ref-16]. The game represents a thematic departure for the long-running Hoyle series, transporting players to the vibrant Art Deco era of 1920s Miami, where classic solitaire gameplay meets the glamorous aesthetic of the Jazz Age [^ref-3]. The title was also released in European markets under the alternate name "Hoyle South Beach Solitaire" [^ref-1].
 
-Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion [^ref-5][^ref-5]. The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
+Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion [^ref-5]. The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
 
 As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].
 

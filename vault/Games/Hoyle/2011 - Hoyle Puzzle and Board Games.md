@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-03-27'
 description: Hoyle Puzzle and Board Games 2011 is a compilation of classic board games,
-  card games, and puzzle games released by Encore Software for Windows and...
+ card games, and puzzle games released by Encore Software for Windows and...
 tags: [2010s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2011
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -171,7 +171,7 @@ The technical issues plaguing the release—from 64-bit compatibility problems t
 - [Macintosh Repository](https://www.macintoshrepository.org/32166-hoyle-puzzle-board-games-2011) – Mac/PC Hybrid version[^ref-2]
 - [My Abandonware](https://www.myabandonware.com/game/hoyle-puzzle-board-games-hzo) – Windows version[^ref-1]
 
-The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]
+The game is documented in gaming databases.[^ref-14][^ref-15][^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21][^ref-22]
 
 ## See Also
 
@@ -244,7 +244,7 @@ The game is documented in gaming databases.[^ref-13][^ref-14][^ref-15][^ref-16][
 [^ref-9]: [PicClick – Hoyle Puzzle & Board Games](https://picclick.com/Hoyle-Puzzle-Board-Games-NEW-30-BONUS-297923452528.html) – included games list, game features, system requirements, manual information
 [^ref-10]: [Blu-ray.com – Hoyle Puzzle and Board Games 2011](https://www.blu-ray.com/Hoyle-Puzzle-and-Board-Games-2011-PC/480598/) – publisher (Zoo Games), ESRB rating
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2011/user-reviews/) – absence of user reviews noted
-[^ref-12]: [JustAnswer – Windows 7 64-bit Compatibility](https://www.justanswer.com/computer/59hvr-downloaded-installed-hoyle-puzzle-board-games-2011.html) – compatibility issues, system freezing, technical troubleshooting[^ref-13]: [Giant Bomb - Hoyle Puzzle Games](https://www.giantbomb.com/hoyle-puzzle-games/) - wiki
+[^ref-12]: [JustAnswer – Windows 7 64-bit Compatibility](https://www.justanswer.com/computer/59hvr-downloaded-installed-hoyle-puzzle-board-games-2011.html) – compatibility issues, system freezing, technical troubleshooting: [Giant Bomb - Hoyle Puzzle Games](https://www.giantbomb.com/hoyle-puzzle-games/) - wiki
 [^ref-14]: [IGDB - Hoyle Puzzle Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - IGDB
 [^ref-15]: [MobyGames - Hoyle Puzzle](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - database
 [^ref-16]: [GameSpot - Hoyle Games](https://www.gamespot.com/) - database

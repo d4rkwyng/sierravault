@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-03-27'
 description: Hoyle Table Games 2004 represents a continuation of Sierra's long-running
   Hoyle series, which began in 1989 and was named after the 18th century playing...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Table Games 2004
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -158,7 +158,7 @@ One reviewer specifically complained about the copy protection: "The fragile CD 
 
 The game saw distribution through multiple publishers across different regions and time periods:
 
-- **Sierra Entertainment** – Primary publisher[^ref-5][^ref-5]
+- **Sierra Entertainment** – Primary publisher[^ref-5]
 - **Vivendi Universal Games** – Parent company, listed as publisher/developer on some platforms[^ref-3][^ref-16]
 - **Hip Interactive** – UK distribution[^ref-12]
 - **Encore Software** – Later budget re-release[^ref-9]

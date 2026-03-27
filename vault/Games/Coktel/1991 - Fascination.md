@@ -10,16 +10,16 @@ series: Standalone
 engine: Gob
 protagonist: Doralice May
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-03-27'
 composer: [Frédéric Motte]
 description: '*Fascination* is an erotic thriller graphic adventure game developed
-  by Tomahawk and published by Coktel Vision in 1991 for the Amiga, Atari ST, and
-  MS-DOS...'
+ by Tomahawk and published by Coktel Vision in 1991 for the Amiga, Atari ST, and
+ MS-DOS...'
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Fascination
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -42,7 +42,7 @@ Contemporary reception was mixed, with French publications rating the PC version
 
 ## Story Summary
 
-The narrative opens with Jeffrey Miller, CEO of Quantum Unlimited Laboratory (Q.U.L.), who has discovered a revolutionary cerebro-chemical substance capable of neutralizing behavioral inhibitors—essentially a drug that dramatically increases sex drive.[^ref-11] Miller's right-hand man, Fayard Nichols, is transporting a prototype vial of this substance when he suffers a fatal heart attack aboard a Paris-to-Miami flight.[^ref-12] In his dying moments, Nichols places the vial into the hands of Captain Doralice May, the flight's commanding officer, imploring her to deliver it into safe hands.[^ref-2]
+The narrative opens with Jeffrey Miller, CEO of Quantum Unlimited Laboratory (Q.U.L.), who has discovered a revolutionary cerebro-chemical substance capable of neutralizing behavioral inhibitors—essentially a drug that dramatically increases sex drive.[^ref-11] Miller's right-hand man, Fayard Nichols, is transporting a prototype vial of this substance when he suffers a fatal heart attack aboard a Paris-to-Miami flight. In his dying moments, Nichols places the vial into the hands of Captain Doralice May, the flight's commanding officer, imploring her to deliver it into safe hands.[^ref-2]
 
 Upon landing in Miami, Doralice finds herself thrust into a dangerous conspiracy. The chemical's potential has attracted numerous interested parties, and Miller himself has been assassinated.[^ref-13] Doralice must navigate Miami's various locales—including a lingerie shop in Coconut Grove, a jazz club in Little Havana, and the historic Villa Vizcaya—to uncover the truth and deliver the vial to its rightful recipient, Miller's son Kenneth.[^ref-6] Throughout her investigation, she must "often lie, use her charms and especially use her wits to conduct her little investigation and solve the mystery."[^ref-6]
 

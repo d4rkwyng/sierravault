@@ -10,16 +10,16 @@ series: 3D Ultra
 engine: Wanako Engine
 protagonist: Customizable Golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-03-27'
 description: 3-D Ultra MiniGolf Adventures 2 is a sports game developed by Wanako
-  Games and published by Sierra Entertainment, released in September 2010 for Xbox
-  Live...
+ Games and published by Sierra Entertainment, released in September 2010 for Xbox
+ Live...
 tags: [2010s, 3d-ultra, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra MiniGolf Adventures 2
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -127,7 +127,7 @@ Contemporary reviewers recognized both the series' potential and limitations. Eu
 - [Internet Archive - 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures)[^ref-2]
 - [Collection Chamber - Enhanced compatibility version](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html)[^ref-3]
 
-The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
+The game is documented in gaming databases.[^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]
 
 ## See Also
 
@@ -163,7 +163,7 @@ The game is documented in gaming databases.[^ref-16][^ref-17][^ref-18][^ref-19][
 [^ref-10]: [GamesRadar - 3D Ultra Minigolf Adventures Review](https://www.gamesradar.com/3d-ultra-minigolf-adventures-xbox-live-arcade-review/) - Review focusing on physics issues and course design
 [^ref-11]: [IGN - 3D Ultra Minigolf Adventures Review](https://www.ign.com/articles/2007/04/18/3d-ultra-minigolf-adventures-review) - Professional review with multiplayer focus and final verdict
 [^ref-15]: [Metacritic - 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) - Review score aggregation and user feedback
-[^ref-16][^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]: [MobyGames - Game Entry](https://www.mobygames.com/game/2295/) - Database entry with comprehensive game information
+[^ref-17][^ref-18][^ref-19][^ref-20][^ref-21]: [MobyGames - Game Entry](https://www.mobygames.com/game/2295/) - Database entry with comprehensive game information
 [^ref-17]: [MyAbandonware - 3-D Ultra MiniGolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) - Preservation site with user ratings and compatibility information
 [^ref-18]: [SierraChest - Game Database Entry](https://sierrachest.com/index.php?a=g&id=108&fld=s) - Fan database with technical specifications and development history
 [^ref-19]: [Steam - 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) - Official store page with system requirements and user reviews

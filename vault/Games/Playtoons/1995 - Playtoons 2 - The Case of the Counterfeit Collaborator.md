@@ -10,7 +10,7 @@ series: Playtoons
 engine: Gob
 protagonist: Spirou and Fantasio
 sierra_lineage: Sierra Label (Coktel)
-last_updated: '2026-01-11'
+last_updated: '2026-03-27'
 composer: [Charles Callet]
 description: 'Playtoons 2: The Case of the Counterfeit Collaborator is an interactive
   storybook and creativity game developed by Coktel Vision and published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 ---
 # Playtoons 2: The Case of the Counterfeit Collaborator
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -208,7 +208,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-5]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
 [^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
 [^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
-[^ref-8]: [Kagi FastGPT Query](kagi:fastgpt:What year was Playtoons 2: Hiccups the Ghost video game released and who developed it?) – release year, developer, alternate titles
+[^ref-8]: [MobyGames – Playtoons 2: The Case of the Counterfeit Collaborator](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – Release year, developer, regional titles, and game information
 [^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept
 [^ref-10]: [Goodreads – The Ghost with the Halloween Hiccups](https://www.goodreads.com/book/show/1507587.The_Ghost_with_the_Halloween_Hiccups) – age appropriateness reference for early readers
 [^ref-11]: [SierraChest – Playtoons 3](https://sierrachest.com/index.php?a=games&id=326&fld=general) – construction kit integration, Monsters add-on, scene creation limits

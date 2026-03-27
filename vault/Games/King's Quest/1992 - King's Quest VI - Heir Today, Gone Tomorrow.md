@@ -10,7 +10,7 @@ series: King's Quest
 engine: SCI1.1
 protagonist: Prince Alexander
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Christopher G. Braymen]
 description: 'King''s Quest VI: Heir Today, Gone Tomorrow is widely regarded as the
   finest entry in Sierra''s flagship adventure series, representing a remarkable leap...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, jane-jensen, king-s-quest, roberta-williams, sci, sierr
 ---
 # King's Quest VI: Heir Today, Gone Tomorrow
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -63,7 +63,7 @@ George Starostin's retrospective praised the refinement: "Many more actions with
 
 ### Structure and Progression
 
-The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, typically comprising no more than half a dozen screens, but puzzles interlock across locations—solving challenges on one island often requires objects or information gathered from another, similar to the design approach of LucasArts' Monkey Island 2, released the same year[^ref-12][^ref-12].
+The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, typically comprising no more than half a dozen screens, but puzzles interlock across locations—solving challenges on one island often requires objects or information gathered from another, similar to the design approach of LucasArts' Monkey Island 2, released the same year[^ref-12].
 
 A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-16]. This reflects the game's signature feature: nearly half of all content is entirely optional[^ref-3][^ref-5]. The design offers two major paths—a "short path" yielding between 116-184 points and requiring less exploration, versus a "long path" worth 179-231 points that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures[^ref-16][^ref-14].
 

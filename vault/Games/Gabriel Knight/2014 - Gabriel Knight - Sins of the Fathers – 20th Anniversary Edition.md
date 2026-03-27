@@ -13,7 +13,7 @@ sierra_lineage: Post-Sierra
 last_updated: '2026-03-20'
 composer: [Robert Holmes]
 description: 'Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a
-  comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
+ comprehensive remake of Jane Jensen''s acclaimed 1993 supernatural adventure game,...'
 tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 ---
 # Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition
@@ -22,17 +22,17 @@ tags: [2010s, adventure, gabriel-knight, jane-jensen, sierra]
 
 ## Overview
 
-Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a comprehensive remake of [[Jane Jensen]]'s acclaimed 1993 supernatural adventure game, released on October 15, 2014 for Windows and Mac OS X, with mobile versions following in July 2015[^ref-1][^ref-2]. Developed by Pinkerton Road Studio in collaboration with Phoenix Online Studios, the remake features completely rebuilt graphics using 3D character models against hand-painted backgrounds, a remastered soundtrack by original composer [[Robert Holmes]], and an entirely new voice cast[^ref-3][^ref-4]. The project emerged from a Kickstarter campaign launched during the crowdfunding boom of 2012, representing Jane Jensen's return to her most celebrated creation after a fifteen-year hiatus from the series[^ref-5].
+Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition is a comprehensive remake of [[Jane Jensen]]'s acclaimed 1993 supernatural adventure game, released on October 15, 2014 for Windows and Mac OS X, with mobile versions following in July 2015[^ref-1][^ref-2]. Developed by Pinkerton Road Studio in collaboration with Phoenix Online Studios, the remake features completely rebuilt graphics using 3D character models against hand-painted backgrounds, a remastered soundtrack by original composer [[Robert Holmes]], and an entirely new voice cast[^ref-3]. The project emerged from a Kickstarter campaign launched during the crowdfunding boom of 2012, representing Jane Jensen's return to her most celebrated creation after a fifteen-year hiatus from the series[^ref-5].
 
-The 20th Anniversary Edition represents both a faithful preservation and a modernization of the original experience, adding new puzzles, additional locations, and streamlined gameplay while maintaining the core narrative about voodoo murders in New Orleans[^ref-6][^ref-7].
+The 20th Anniversary Edition represents both a faithful preservation and a modernization of the original experience, adding new puzzles, additional locations, and streamlined gameplay while maintaining the core narrative about voodoo murders in New Orleans[^ref-6].
 
 Critics praised the remake for authentically paying homage to its predecessor while introducing the mature, horror-themed adventure to a new generation of players[^ref-8].
 
 The Sierra Chest retrospective noted that the original "was probably the darkest most gripping game at the time, from the first animated sequence to the terrifying climax, every aspect of this psycho thriller put even the most seasoned of gamers at the tips of their toes"[^ref-5].
 
-The remake received a Metacritic score of 74 and garnered mixed-to-positive reviews, with Adventure Gamers awarding it 4.5 stars and describing it as "a provocative story experience whose aim is to challenge, enlighten, horrify and enthrall"[^ref-9][^ref-10].
+The remake received a Metacritic score of 74 and garnered mixed-to-positive reviews, with Adventure Gamers awarding it 4.5 stars and describing it as "a provocative story experience whose aim is to challenge, enlighten, horrify and enthrall"[^ref-9].
 
-As a "blockbuster retelling" of an award-winning murder mystery, the Anniversary Edition leverages modern technology to present what Computer Gaming World once called "audio and video that outshines any cartoon and a story that could scare the bejeebers out of Stephen King"[^ref-34][^ref-12]. The game stands as testament to the enduring appeal of Jensen's storytelling, which earned her the designation "the interactive Anne Rice" from gaming press upon the original release[^ref-1].
+As a "blockbuster retelling" of an award-winning murder mystery, the Anniversary Edition leverages modern technology to present what Computer Gaming World once called "audio and video that outshines any cartoon and a story that could scare the bejeebers out of Stephen King"[^ref-34]. The game stands as testament to the enduring appeal of Jensen's storytelling, which earned her the designation "the interactive Anne Rice" from gaming press upon the original release[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** Pinkerton Road Studio, [[Phoenix Online Studios]][^ref-1]
@@ -47,11 +47,11 @@ As a "blockbuster retelling" of an award-winning murder mystery, the Anniversary
 
 ## Story Summary
 
-The game opens in 1993 New Orleans, where Gabriel Knight operates St. George's Books, a struggling rare bookshop in the French Quarter, while moonlighting as a struggling horror novelist[^ref-15][^ref-16]. Gabriel has been experiencing disturbing nightmares and finds himself drawn to investigate a series of ritualistic murders that the press has dubbed the "Voodoo Murders"[^ref-17]. Working alongside his assistant Grace Nakimura and his childhood friend Detective Mosely of the New Orleans Police Department, Gabriel begins researching the killings as material for his next novel, unaware that his investigation will uncover both supernatural forces and his own family's dark legacy[^ref-18].
+The game opens in 1993 New Orleans, where Gabriel Knight operates St. George's Books, a struggling rare bookshop in the French Quarter, while moonlighting as a struggling horror novelist[^ref-15]. Gabriel has been experiencing disturbing nightmares and finds himself drawn to investigate a series of ritualistic murders that the press has dubbed the "Voodoo Murders". Working alongside his assistant Grace Nakimura and his childhood friend Detective Mosely of the New Orleans Police Department, Gabriel begins researching the killings as material for his next novel, unaware that his investigation will uncover both supernatural forces and his own family's dark legacy.
 
-As Gabriel delves deeper into the case, he discovers connections between the murders and genuine voodoo practices, leading him to various New Orleans locations including Jackson Square, Lake Pontchartrain, and the city's voodoo underground[^ref-19][^ref-6]. His research introduces him to Malia Gedde, a mysterious and alluring woman from a prominent New Orleans family, with whom he develops a dangerous romantic attraction despite warnings that she may be connected to the cult responsible for the murders[^ref-20][^ref-21]. The investigation spans ten days, during which Gabriel uncovers evidence that a secret voodoo cult has been operating in New Orleans for generations[^ref-6].
+As Gabriel delves deeper into the case, he discovers connections between the murders and genuine voodoo practices, leading him to various New Orleans locations including Jackson Square, Lake Pontchartrain, and the city's voodoo underground[^ref-6]. His research introduces him to Malia Gedde, a mysterious and alluring woman from a prominent New Orleans family, with whom he develops a dangerous romantic attraction despite warnings that she may be connected to the cult responsible for the murders. The investigation spans ten days, during which Gabriel uncovers evidence that a secret voodoo cult has been operating in New Orleans for generations[^ref-6].
 
-Gabriel's journey of discovery eventually reveals that he is the latest in a line of Schattenjäger—German "shadow hunters" who have battled supernatural evil for centuries[^ref-22]. His family's ancestral duty becomes intertwined with his personal quest when he learns that the voodoo cult is led by an ancient entity with ties to both his family's past and his present attraction to Malia[^ref-5]. The narrative culminates in a terrifying confrontation that tests Gabriel's courage, forces impossible choices, and transforms him from a cynical dilettante into a true warrior against darkness[^ref-23].
+Gabriel's journey of discovery eventually reveals that he is the latest in a line of Schattenjäger—German "shadow hunters" who have battled supernatural evil for centuries. His family's ancestral duty becomes intertwined with his personal quest when he learns that the voodoo cult is led by an ancient entity with ties to both his family's past and his present attraction to Malia[^ref-5]. The narrative culminates in a terrifying confrontation that tests Gabriel's courage, forces impossible choices, and transforms him from a cynical dilettante into a true warrior against darkness.
 
 The original game's plot drew significant inspiration from the film Angel Heart, grounding its supernatural horror firmly in the real-world culture and history of New Orleans[^ref-24][^ref-15]. Jensen conducted extensive historical and cultural research to ensure authenticity, resulting in a story that weaves together actual voodoo traditions, local folklore, and original mythology into what reviewers called "mature audiences for all the right reasons"[^ref-34].
 
@@ -65,7 +65,7 @@ The point-and-click adventure gameplay remains faithful to the genre conventions
 
 ### Structure and Progression
 
-The game unfolds across ten in-game days, with new locations, characters, and story developments becoming available as Gabriel progresses through his investigation[^ref-6][^ref-19]:
+The game unfolds across ten in-game days, with new locations, characters, and story developments becoming available as Gabriel progresses through his investigation[^ref-6]:
 
 - **Day 1:** Introduction to Gabriel's bookshop, Jackson Square, and initial crime scene investigation
 - **Day 2:** Deeper exploration of New Orleans and initial voodoo research
@@ -84,7 +84,7 @@ Players must complete certain objectives and gather specific evidence before pro
 
 The remake maintains the inventory-based puzzle design of the original while adding new puzzles and occasionally streamlining others[^ref-3][^ref-27]. Notable puzzles include obtaining a snake scale from Lake Pontchartrain (which was notoriously difficult in the original), infiltrating Mosely's office at the police station, and navigating the initiation ceremony of the voodoo cult[^ref-27][^ref-6]. The game employs a point-scoring system with a maximum achievable score of 362 points, rewarding thorough exploration and optimal puzzle solutions[^ref-6].
 
-Some reviewers noted that certain new puzzles added to the remake disrupted the flow of the narrative, though the core puzzle design retained the logical—if sometimes demanding—sensibility of classic Sierra adventures[^ref-25][^ref-28]. The game includes achievements tied to major story moments and optional discoveries, encouraging players to engage fully with the mystery[^ref-6].
+Some reviewers noted that certain new puzzles added to the remake disrupted the flow of the narrative, though the core puzzle design retained the logical—if sometimes demanding—sensibility of classic Sierra adventures[^ref-25]. The game includes achievements tied to major story moments and optional discoveries, encouraging players to engage fully with the mystery[^ref-6].
 
 ## Reception
 
@@ -122,7 +122,7 @@ The project was funded through a Kickstarter campaign launched during the 2012 c
 
 ### Production
 
-Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a fan-made King's Quest sequel that later received official sanction[^ref-5][^ref-1]. Jensen served as creative lead while also acting as creative consultant for Phoenix Online's Cognition: An Erika Reed Thriller during this period[^ref-5][^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activision"[^ref-5].
+Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a fan-made King's Quest sequel that later received official sanction[^ref-5][^ref-1]. Jensen served as creative lead while also acting as creative consultant for Phoenix Online's Cognition: An Erika Reed Thriller during this period[^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activision"[^ref-5].
 
 The production team faced the challenge of modernizing a beloved classic without alienating its passionate fanbase. The Sierra Chest notes: "Possibly the most challenging part was to find a cast of voice actors that could somewhat match the star-studded cast of the 1993 original"[^ref-5].
 

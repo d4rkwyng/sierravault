@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Dynamix 3D Engine
 protagonist: Player-created skier
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-03-27'
 description: 'Front Page Sports: Ski Racing ''99 is a realistic alpine skiing simulation
   developed by Dynamix and published by Sierra On-Line in 1999 for Windows. The game...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing '99
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -88,7 +88,7 @@ Modern user reception has been mixed, with some players expressing frustration o
 
 The original Front Page Sports: Ski Racing (1997) received a critics aggregate score of 56% based on 13 reviews on MobyGames.[^ref-3] User ratings on abandonware sites have been more favorable, with MyAbandonware showing a 5 out of 5 user rating for the title[^ref-5], reflecting appreciation from players who have successfully gotten the game running on modern systems.
 
-The game was released under multiple regional titles, demonstrating Sierra's international publishing strategy: "DSF Ski" and "DSF Ski '99: Extreme Edition" in Germany, and "Sierra Sports Ski Racing" in other markets[^ref-5][^ref-5]. These alternate titles reflected Sierra's practice of licensing sports brand names for European markets.
+The game was released under multiple regional titles, demonstrating Sierra's international publishing strategy: "DSF Ski" and "DSF Ski '99: Extreme Edition" in Germany, and "Sierra Sports Ski Racing" in other markets[^ref-5]. These alternate titles reflected Sierra's practice of licensing sports brand names for European markets.
 
 **Aggregate Scores:**
 - **MobyGames (Original 1997 version):** 56% (13 reviews)[^ref-3]

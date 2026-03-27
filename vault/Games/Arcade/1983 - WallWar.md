@@ -10,18 +10,18 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player-controlled paddle
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Wallwar is an action game developed by Peter Oliphant and published by
   Sierra On-Line for the Atari 8-bit computer systems in 1983. Originally titled "Force...
 tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1][^ref-1]. Originally titled "Force Fields" during development[^ref-3], the game was released under Sierra's short-lived SierraVision label[^ref-3], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
+Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1]. Originally titled "Force Fields" during development[^ref-3], the game was released under Sierra's short-lived SierraVision label[^ref-3], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
 
 The game features competitive head-to-head gameplay where players must break through a kinetic brick wall positioned in the center of the screen while simultaneously attempting to destroy their opponent's force field[^ref-3]. Wallwar was noted for being "visually impressive with a lot of things going on at once"[^ref-3], borrowing elements from various existing games to create its unique gameplay experience[^ref-3]. The game supports both single-player and two-player modes[^ref-1][^ref-5][^ref-6].
 
@@ -32,7 +32,7 @@ Despite its technical achievements, Wallwar failed to achieve commercial success
 > **Designer:** Peter Oliphant[^ref-3]
 > **Publisher:** Sierra On-Line, Inc.[^ref-1]
 > **Engine:** Custom (6502-based)[^ref-3]
-> **Platforms:** Atari 8-bit[^ref-1][^ref-1]
+> **Platforms:** Atari 8-bit[^ref-1]
 > **Release Year:** 1983[^ref-1]
 > **Series:** Standalone
 > **Protagonist:** Player-controlled paddle
@@ -116,7 +116,7 @@ The game's development on the 6502 microprocessor architecture[^ref-3] allowed O
 
 ### Technical Specifications
 
-**Atari 8-bit Version:**[^ref-1][^ref-1][^ref-4]
+**Atari 8-bit Version:**[^ref-1][^ref-4]
 - **Media:** 5.25" Floppy Disk[^ref-1]
 - **Alternative Media:** ATRUtil k-file disks[^ref-4]
 - **Input Devices:** Joystick, Keyboard[^ref-1]
@@ -133,7 +133,7 @@ No information about cut content has been documented in available sources.
 |---------|------|----------|-------|
 | 1.0 | 1982-1983 | Atari 8-bit | Initial release under SierraVision label[^ref-3][^ref-4] |
 
-Note: Some sources indicate a 1982 release date[^ref-4] while others cite 1983[^ref-1][^ref-1][^ref-3]. The discrepancy may reflect different stages of development, limited distribution, or regional variations.
+Note: Some sources indicate a 1982 release date[^ref-4] while others cite 1983[^ref-1][^ref-3]. The discrepancy may reflect different stages of development, limited distribution, or regional variations.
 
 ### Technical Issues
 

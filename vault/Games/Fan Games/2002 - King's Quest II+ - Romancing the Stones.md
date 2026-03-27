@@ -10,15 +10,15 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-02-05'
+last_updated: '2026-03-27'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
-  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
-  AGD...'
+ 1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
+ AGD...'
 tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -170,15 +170,13 @@ Romancing the Stones itself represents one of the most significant fan projects 
 
 King's Quest II: Romancing the Stones stands as a landmark achievement in fan game development, demonstrating that dedicated amateur teams could produce work rivaling commercial releases in quality and scope[^ref-1]. The project addressed legitimate criticisms of the original 1985 game—particularly its thin narrative and reliance on fairy tale tropes without deeper development—by creating a substantially expanded experience that better served the King's Quest legacy[^ref-4].
 
-The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-9][^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
+The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
 
 ## Downloads
 
-## Purchase
-
-**Purchase / Digital Stores**
-- Free download from AGD Interactive
-- Not on GOG or Steam (freeware)
+**Download / Freeware**
+- [AGD Interactive](http://www.agdinteractive.com/games/kq2/about/about.html) – Free download from the developers
+- Not on GOG or Steam (freeware fan game)
 
 **Download / Preservation**
 - [AGD Interactive Official Download](https://www.agdinteractive.com/games/kq2/download/download.html)[^ref-3]
@@ -217,7 +215,7 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-5]: [AGD Interactive – About King's Quest II](https://www.agdinteractive.com/games/kq2/about/about.html) – game history, story premise, development background
 [^ref-6]: [MobyGames – King's Quest II: Romancing the Stones](https://www.mobygames.com/game/13406/kings-quest-ii-romancing-the-stones/) – database listing, game information
 [^ref-7]: [Abandonware DOS – King's Quest II+ Romancing the Stones](https://www.abandonwaredos.com/abandonware-game.php?abandonware=King%27s+Quest+II%2B+Romancing+the+Stones) – preservation, download availability
-[^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation[^ref-9]: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
+[^ref-8]: [Internet Archive – King's Quest II Search Results](https://archive.org/search?query=King%27s+Quest+II%2B+Romancing+the+Stones+sierra) – archival preservation, historical documentation: [Giant Bomb - King's Quest II: Romancing the Stones](https://www.giantbomb.com/kings-quest-ii-romancing-the-stones/3030-24287/) - game wiki entry
 [^ref-10]: [IGDB - King's Quest II: Romancing the Stones](https://www.igdb.com/games/kings-quest-ii-romancing-the-stones) - Internet Games Database entry
 [^ref-11]: [Hardcore Gaming 101 - AGD Interactive](http://www.hardcoregaming101.net/agd-interactive/) - retrospective on AGD's remakes
 [^ref-12]: [Sierra Wiki - King's Quest II VGA](https://wiki.sierrahelp.com/index.php/King%27s_Quest_II_VGA) - Sierra community documentation

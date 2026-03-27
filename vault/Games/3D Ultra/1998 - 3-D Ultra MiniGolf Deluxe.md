@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: Player-controlled golfer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 3-D Ultra Mini Golf Deluxe is "a minigolf game for the Windows PC, designed
   by Dynamix and published by Sierra. It was released in 1998 as a sequel to the...
 tags: [1990s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Mini Golf Deluxe
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -148,8 +148,8 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-7]: [LaunchBox Games Database - 3-D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/424355-3-d-ultra-minigolf-deluxe) – - Release details and game specifications
 [^ref-8]: [LaunchBox Games Database - 3D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/76259-3d-ultra-minigolf-deluxe) – - Development history context
 [^ref-9]: [Gamicus Wiki - 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – - Development history and controversy information
-[^ref-10]: [Kagi FastGPT - Release Information](kagi:fastgpt:What year was 3 D Ultra Minigolf Deluxe video game released and who developed it?) – - Basic factual information
-[^ref-11]: [Kagi FastGPT - Review Scores](kagi:fastgpt:What were the review scores for 3 D Ultra Minigolf Deluxe video game?) – - Review compilation information
+[^ref-10]: [MobyGames – 3-D Ultra MiniGolf Deluxe](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/) – Release year, developer, and publisher information
+[^ref-11]: [MobyGames – 3-D Ultra MiniGolf Deluxe Reviews](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/reviews/) – Aggregated review scores and critical assessments
 [^ref-12]: [Max Laumeister - 3D Ultra Minigolf Deluxe](https://www.maxlaumeister.com/3d-ultra-minigolf-deluxe/) – - Personal tribute page with setup recommendations
 [^ref-13]: [Metacritic - 3D Ultra Mini Golf Deluxe](https://www.metacritic.com/game/3d-ultra-mini-golf-deluxe/) – - Official game summary and basic information
 [^ref-14]: [Metacritic Details - 3D Ultra Mini Golf Deluxe](https://www.metacritic.com/game/3d-ultra-mini-golf-deluxe/details/) – - Game listing with basic metadata

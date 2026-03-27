@@ -10,14 +10,14 @@ series: Caesar
 engine: Impressions City Builder
 protagonist: Roman Governor (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: Caesar, released in October 1992, stands as a groundbreaking entry in
-  the city-building genre, marking the first successful adaptation of SimCity's urban...
+ the city-building genre, marking the first successful adaptation of SimCity's urban...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: March 25, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -122,11 +122,11 @@ The series spawned multiple sequels, with Caesar III (1998) becoming particularl
 
 Modern analysis recognizes Caesar as foundational to the city-building genre's evolution. Gaming historians note that it "provided more engaging 'game' elements than SimCity" and established "a pivotal shift from open-ended designs like SimCity, introducing mission-based progression"[^ref-50]. The game's influence persists in contemporary titles and continues to inspire new development projects, including Tilted Mill Entertainment's later work on Caesar IV and ongoing community projects[^ref-51].
 
-Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases[^ref-57][^ref-58] and Sierra's corporate history[^ref-59].
+Educational applications have also recognized Caesar's value. While not explicitly designed as educational software, the game's historical authenticity has made it a subject of academic interest in discussions of game-based learning and historical simulation[^ref-52]. The series' commitment to historical accuracy, combined with engaging gameplay mechanics, created a model that continues to influence both entertainment and educational software development. The game continues to be documented in gaming databases and Sierra's corporate history.
 
 ## Downloads
 
-Caesar is available for preservation through Archive.org and other historical game archives[^ref-53]. The game can be played through DOSBox or similar emulators for modern systems.
+Caesar is available for preservation through Archive.org and other historical game archives. The game can be played through DOSBox or similar emulators for modern systems.
 
 ## See Also
 

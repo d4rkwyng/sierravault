@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Various (compilation)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Laf Pak is a compilation of four action games developed by Chuck Bueche
   and published by On-Line Systems for the Apple II in 1982. The collection bundles...
 tags: [1980s, sierra, standalone]
 ---
 # Laf Pak
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ Laf Pak does not feature a continuous narrative, as it is a compilation of four 
 
 **Creepy Corridors** places the player in a maze-like environment where they must navigate through dangerous passages while avoiding monsters and other hazards[^ref-7]. The game's atmosphere is enhanced by its notable sampled speech feature, which adds an auditory element to the player's demise[^ref-7].
 
-**Apple Zap** offers another action-oriented experience, challenging players with fast-paced gameplay requiring quick reflexes[^ref-3]. **Space Race** delivers a competitive racing experience set in outer space, while **Mine Sweep** tasks players with navigating through hazardous terrain filled with explosive obstacles[^ref-4][^ref-4].
+**Apple Zap** offers another action-oriented experience, challenging players with fast-paced gameplay requiring quick reflexes[^ref-3]. **Space Race** delivers a competitive racing experience set in outer space, while **Mine Sweep** tasks players with navigating through hazardous terrain filled with explosive obstacles[^ref-4].
 
 The simplicity of these games was characteristic of the era, when home computer games were often inspired by or directly cloning popular arcade titles. Each game could be enjoyed in short sessions, making the compilation ideal for casual play[^ref-3].
 

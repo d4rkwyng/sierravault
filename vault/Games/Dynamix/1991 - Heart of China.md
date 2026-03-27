@@ -10,14 +10,14 @@ series: Dynamix Adventures
 engine: Dynamix Game Development System (DGDS)
 protagonist: Jake 'Lucky' Masters
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: Heart of China is a 1991 adventure game developed by Dynamix and published
-  by Sierra On-Line, representing one of the studio's most ambitious attempts at...
+ by Sierra On-Line, representing one of the studio's most ambitious attempts at...
 tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 ---
 # Heart of China
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -220,7 +220,7 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 - [GOG.com](https://www.gog.com/en/game/heart_of_china) - Windows version with DOSBox
 
 **ScummVM Support**
-- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)[^ref-50]
+- Full support added in ScummVM v2026.1.0 "Like a Version" (January 31, 2026)
 - Allows the game to run natively on modern systems including Windows, macOS, Linux, iOS, and Android
 - [ScummVM Downloads](https://www.scummvm.org/downloads/)
 
@@ -275,4 +275,4 @@ The game serves as an important artifact of early 1990s game design philosophy, 
 [^ref-27]: [The Cutting Room Floor – Heart of China](https://tcrf.net/Heart_of_China) – debug menu documentation
 [^ref-28]: [Internet Archive – Heart of China](https://archive.org/details/msdos_Heart_of_China_1991) – platform information, game description
 [^ref-29]: [Quest Studios – Heart of China Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/hoc/) – composer credits, audio specifications
-[^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – detailed retrospective, design analysis[^ref-50]: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for Heart of China added
+[^ref-30]: [HG101 Kontek – Heart of China](https://hg101.kontek.net/heartofchina/heartofchina.htm) – detailed retrospective, design analysis: [ScummVM News – v2026.1.0 Release](https://www.scummvm.org/news/20260131/) – Full support for Heart of China added

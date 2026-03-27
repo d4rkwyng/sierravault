@@ -10,18 +10,18 @@ series: Adiboo
 engine: Proprietary (VMD multimedia format)
 protagonist: Adiboo
 sierra_lineage: Sierra Published
-last_updated: '2026-01-31'
+last_updated: '2026-03-27'
 description: 'Adiboo: Magical Playland is a French edutainment game developed by Coktel
   Vision and released in 1996 for Windows and Macintosh platforms. Originally titled...'
 tags: [1990s, adiboo, educational, sierra]
 ---
 # Adiboo: Magical Playland
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-Adiboo: Magical Playland is a French edutainment game developed by [[Coktel Vision]] and released in 1996 for Windows and Macintosh platforms[^ref-1][^ref-1]. Originally titled "Adibou 2" in France, the game was localized for English-speaking markets and published by Knowledge Adventure in the United States, with Sierra On-Line also involved in distribution[^ref-3][^ref-4]. The game stars Adiboo, described as a "wise and acclaimed extraterrestrial" who teaches children reading, counting, and various life skills through interactive mini-games set in a vibrant, animated world[^ref-5][^ref-6].
+Adiboo: Magical Playland is a French edutainment game developed by [[Coktel Vision]] and released in 1996 for Windows and Macintosh platforms[^ref-1]. Originally titled "Adibou 2" in France, the game was localized for English-speaking markets and published by Knowledge Adventure in the United States, with Sierra On-Line also involved in distribution[^ref-3][^ref-4]. The game stars Adiboo, described as a "wise and acclaimed extraterrestrial" who teaches children reading, counting, and various life skills through interactive mini-games set in a vibrant, animated world[^ref-5][^ref-6].
 
 The game achieved significant popularity among young children during the late 1990s, becoming what one user described as "a smash hit at my kindergarten"[^ref-1]. The educational content was designed to align with national curriculum standards, including support for SATS and GCSE preparation, and followed both the National Curriculum and Scottish National Guidelines[^ref-5]. Players interact with Adiboo's colorful house and garden environment, engaging in activities ranging from cooking and gardening to puzzle-solving and creative arts[^ref-7][^ref-8].
 
@@ -32,7 +32,7 @@ Adiboo: Magical Playland occupies a unique position in educational gaming histor
 > **Designer:** Joseph (Le Chef)[^ref-3]
 > **Publisher:** [[Knowledge Adventure]] (US), Coktel Vision (EU), [[Sierra On-Line]] (US)[^ref-3][^ref-4]
 > **Engine:** Proprietary VMD multimedia format[^ref-3]
-> **Platforms:** Windows, Mac[^ref-1][^ref-1]
+> **Platforms:** Windows, Mac[^ref-1]
 > **Release Year:** 1996
 > **Series:** Adiboo
 > **Protagonist:** Adiboo

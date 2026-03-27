@@ -10,7 +10,7 @@ series: Standalone
 engine: Custom 3D Polygon Engine
 protagonist: Apache Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-03-27'
 description: 3-D Helicopter Simulator is a combat flight simulation game released
   by Sierra On-Line in September 1987 for DOS systems. The game placed players in
   the...
@@ -18,7 +18,7 @@ tags: [1980s, sierra, simulation, standalone]
 ---
 # 3-D Helicopter Simulator
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview
@@ -27,7 +27,7 @@ tags: [1980s, sierra, simulation, standalone]
 
 The game represented a significant innovation for its era by introducing head-to-head flight simulation competition via modem connection—a feature that was unprecedented in PC gaming at the time[^ref-1][^ref-5]. As Sierra's promotional materials proclaimed: "never before has a computer program permitted head-to-head flight simulation competition...until now!"[^ref-3] This multiplayer capability allowed two players to engage in dogfights across telephone lines, a remarkable technical achievement for 1987[^ref-6].
 
-While best known for adventure games like Space Quest and King's Quest, Sierra demonstrated their versatility with this simulation title[^ref-7]. The game received a cross-promotional mention within Police Quest 1, where an end-game message encouraged players: "You'll also enjoy our 3D 'Helicopter Simulator' that allows you to have dogfights with your friends via modem, or just fly through many cities for fun"[^ref-6][^ref-6].
+While best known for adventure games like Space Quest and King's Quest, Sierra demonstrated their versatility with this simulation title[^ref-7]. The game received a cross-promotional mention within Police Quest 1, where an end-game message encouraged players: "You'll also enjoy our 3D 'Helicopter Simulator' that allows you to have dogfights with your friends via modem, or just fly through many cities for fun"[^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -153,7 +153,7 @@ Control sensitivity proved challenging even during the game's original release, 
 
 ### Easter Eggs and Trivia
 
-- **Police Quest Cross-Promotion:** The game is referenced in Police Quest 1's end-game message, which advertises: "You'll also enjoy our 3D 'Helicopter Simulator' that allows you to have dogfights with your friends via modem, or just fly through many cities for fun"[^ref-6][^ref-6]
+- **Police Quest Cross-Promotion:** The game is referenced in Police Quest 1's end-game message, which advertises: "You'll also enjoy our 3D 'Helicopter Simulator' that allows you to have dogfights with your friends via modem, or just fly through many cities for fun"[^ref-6]
 - **Industry First:** This was one of the first PC games to offer head-to-head flight simulation competition via modem connection[^ref-1][^ref-3]
 - **Aerospace Partnership:** McDonnell Douglas Helicopter Company officially cooperated with the development, lending authenticity to the Apache simulation[^ref-1]
 - **Little-Known Title:** Despite Sierra's fame, this helicopter simulator remained "extremely little-known" ("крайне малоизвестный") compared to their adventure game offerings[^ref-9]
@@ -168,7 +168,7 @@ The game does not feature voice acting, relying instead on text and sound effect
 
 Specific sales figures for 3-D Helicopter Simulator have not been documented in available sources. The game appears to have been a modest release compared to Sierra's flagship adventure titles, serving more as a portfolio diversification effort than a major commercial push[^ref-7][^ref-9].
 
-The game's cross-promotion within Police Quest 1 suggests Sierra attempted to leverage their popular adventure game audience to drive interest in the simulation[^ref-6][^ref-6]. However, the helicopter simulator remained relatively obscure in Sierra's extensive catalog.
+The game's cross-promotion within Police Quest 1 suggests Sierra attempted to leverage their popular adventure game audience to drive interest in the simulation[^ref-6]. However, the helicopter simulator remained relatively obscure in Sierra's extensive catalog.
 
 ### Collections
 

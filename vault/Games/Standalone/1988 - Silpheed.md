@@ -10,14 +10,14 @@ series: Standalone
 engine: Custom 3D polygon engine
 protagonist: SA-08 Silpheed pilot
 sierra_lineage: Third-Party Published
-last_updated: '2026-01-28'
+last_updated: '2026-03-27'
 description: Silpheed is a groundbreaking vertical scrolling shooter that debuted
   on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western...
 tags: [1980s, shooter, sierra, standalone]
 ---
 # Silpheed
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 
 ## Overview
@@ -113,7 +113,7 @@ Game Preservation Society founder Joseph Redon emphasized the remarkable efficie
 
 ### Production
 
-Development of Silpheed took place during Japan's economic bubble period, when 50,000 copies sold was considered a successful game.[^ref-33] The technical challenges of creating real-time 3D polygonal graphics on 8-bit hardware were substantial, requiring innovative programming techniques to achieve the game's distinctive visual style.[^ref-4][^ref-4]
+Development of Silpheed took place during Japan's economic bubble period, when 50,000 copies sold was considered a successful game.[^ref-33] The technical challenges of creating real-time 3D polygonal graphics on 8-bit hardware were substantial, requiring innovative programming techniques to achieve the game's distinctive visual style.[^ref-4]
 
 The TRS-80 CoCo port presented particular challenges. Programmer Robert Lindsley, who was only 17 years old at the time, recalled: "My entire life for the next three months was creating and entering hex codes into the Tandy CoCo 3. I was working 16 hour days and loving it."[^ref-16] The CoCo version required severe size reduction to fit both CoCo 1/2 and CoCo 3 versions on a single 16K ROM cartridge, resulting in missing features including fortress/planetside levels and music.[^ref-16]
 
@@ -176,7 +176,7 @@ The TRS-80 CoCo versions were significantly reduced from the original, missing f
 | 3.2 | 1989+ | DOS | Added IBM PS/1 Audio Card support, sampled sound effects, speech support[^ref-14][^ref-13] |
 | - | Jul 1989 | Apple IIgs | US release[^ref-41] |
 
-**Version 2.x Updates:**[^ref-14][^ref-14]
+**Version 2.x Updates:**[^ref-14]
 - Text printed when Xacalite speaks
 - Improved joystick routines
 - CMS sound board support

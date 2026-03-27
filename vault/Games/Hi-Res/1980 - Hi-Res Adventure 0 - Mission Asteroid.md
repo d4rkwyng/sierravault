@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure
 protagonist: Astronaut (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Hi Res Adventure #0: Mission Asteroid is a graphic adventure game that
   was part of Sierra On-Line''s pioneering Hi-Res Adventure series. Originally released...'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -118,7 +118,7 @@ These modest storage requirements allowed the game to run on the limited hardwar
 
 Mission Asteroid holds historical significance as part of the seven graphic adventure games Sierra released before their landmark King's Quest series[^ref-5][^ref-16]. These early Hi-Res Adventures established many of the conventions that Sierra would refine in their later work, including the combination of graphics with text parser input and the focus on puzzle-solving within a narrative framework.
 
-The game was included in the 1997 Roberta Williams Anthology, cementing its place in Sierra's historical catalog[^ref-5][^ref-5]. This compilation recognized the game's importance in the company's history and allowed new generations of players to experience Sierra's earliest work.
+The game was included in the 1997 Roberta Williams Anthology, cementing its place in Sierra's historical catalog[^ref-5]. This compilation recognized the game's importance in the company's history and allowed new generations of players to experience Sierra's earliest work.
 
 ### Genre Evolution
 

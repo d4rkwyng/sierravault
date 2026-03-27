@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix 3D Engine
 protagonist: Unnamed A-10 Pilot
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 composer: [Alan McKean]
 description: A-10 Tank Killer is a combat flight simulation developed and published
   by Dynamix in December 1989 for DOS, with an Amiga port following in 1990-1991.
@@ -19,7 +19,7 @@ tags: [1980s, a-10-tank-killer, dynamix, sierra, simulation]
 ---
 # A-10 Tank Killer
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -98,7 +98,7 @@ German publication *ASM (Aktueller Software Markt)* was less impressed, awarding
 
 Modern retrospectives acknowledge A-10 Tank Killer as an important early entry in the combat flight simulation genre. Home of the Underdogs praised the game's "very nice graphics for its time" which "already showed some signs of the quality that made Dynamix popular with later games such as Red Baron and Aces over Europe"[^ref-12]. However, they cautioned that "overall it's not a game for flight-sim rookies due to difficult missions and fidgety controls"[^ref-12].
 
-User reviews on abandonware sites reflect continued nostalgia for the title. One user called it "just an awesome game from a great golden era," while another enthused: "It's super amazing and I played the heck out of this game as a kid. The A-10 Warthog is an absolutely amazing airframe!"[^ref-14][^ref-14]
+User reviews on abandonware sites reflect continued nostalgia for the title. One user called it "just an awesome game from a great golden era," while another enthused: "It's super amazing and I played the heck out of this game as a kid. The A-10 Warthog is an absolutely amazing airframe!"[^ref-14]
 
 **Aggregate Scores:**
 - **MobyGames:** 80% (15 ratings)[^ref-1]

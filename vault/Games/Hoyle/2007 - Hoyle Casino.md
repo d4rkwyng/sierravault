@@ -10,14 +10,14 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Hoyle Casino 2007 is a casino simulation video game developed and published
-  by Encore Software for Microsoft Windows, released on September 11, 2006 in...
+ by Encore Software for Microsoft Windows, released on September 11, 2006 in...
 tags: [2000s, hoyle-casino, sierra]
 ---
 # Hoyle Casino 2007
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -153,7 +153,7 @@ Hoyle Casino 2007 was part of Encore's broader Hoyle gaming library, which inclu
 
 The 2007 edition's technical problems were addressed in follow-up releases:
 - **Hoyle Casino 2008:** Fixed the 30-second freeze bug that plagued the 2007 version[^ref-6]
-- **Hoyle Casino 3D:** Later release in the franchise[^ref-15]
+- **Hoyle Casino 3D:** Later release in the franchise
 - **Hoyle Casino Games 2012:** Continued annual releases under Encore[^ref-1]
 
 Encore continued publishing Hoyle titles through 2016, demonstrating the franchise's longevity despite individual troubled releases[^ref-6].

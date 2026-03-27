@@ -10,18 +10,18 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-03-27'
 description: Hoyle Puzzle Games is a comprehensive puzzle game collection released
   on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming...
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4][^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
+Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
 
 The game distinguished itself through its variety of content, featuring everything from crossword puzzles sourced from Dell Magazine to the complete version of The Incredible Machine: Even More Contraptions as a bonus game[^ref-4][^ref-2]. Each game within the collection offered high-score lists and adjustable skill levels, allowing players of varying abilities to find appropriate challenges[^ref-1][^ref-8]. The inclusion of the Facemaker Tool allowed players to create unique-looking characters to represent themselves during gameplay, adding a personalization element to the experience[^ref-1][^ref-8].
 
@@ -74,7 +74,7 @@ The fifteen games included in the collection represented diverse puzzle categori
 - **Solitaire Arcade** – Action-oriented card gameplay
 
 **Bonus Game:**
-- **The Incredible Machine: Even More Contraptions** – Complete Rube Goldberg-style physics puzzle game originally developed by Jeff Tunnell Productions[^ref-4][^ref-2][^ref-2]
+- **The Incredible Machine: Even More Contraptions** – Complete Rube Goldberg-style physics puzzle game originally developed by Jeff Tunnell Productions[^ref-4][^ref-2]
 
 Word searches were highlighted as a major feature, with the collection offering thousands of puzzles that players could save and print for offline enjoyment[^ref-1][^ref-8].
 

@@ -10,7 +10,7 @@ series: Turbo Learning
 engine: Dynamix Game Development System (DGDS)
 protagonist: Player (child)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 composer: [Timothy Steven Clarke (Tim Clark)]
 description: 'Turbo Learning: Mega Math is an educational mathematics game developed
   by Jeff Tunnell Productions and published by Sierra On-Line in 1993. As the second...'
@@ -18,7 +18,7 @@ tags: [1990s, dgds, educational, sierra, turbo-learning]
 ---
 # Turbo Learning: Mega Math
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -215,7 +215,7 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis review, technical achievements, speech on floppy
 [^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
 [^ref-9]: [MobyGames Forums – Mega Math](https://www.mobygames.com/game/dos/turbo-learning-mega-math/forums/dga,2/dgb,8/dgm,210915/) – DOSBox configuration, mouse issues
-[^ref-10]: [Kagi FastGPT – Review Scores](kagi:fastgpt:What_were_the_review_scores_for_Turbo_Learning_Mega_Math_video_game?) – MobyGames rating, user reviews
+[^ref-10]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Aggregated review scores and user ratings
 [^ref-11]: [MyAbandonware – Turbo Learning: Mega Math](https://www.myabandonware.com/game/turbo-learning-mega-math-1gq) – user ratings, regional release information
 [^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating, historical context
 [^ref-13]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – predecessor game, series information
@@ -225,4 +225,4 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
 [^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
 [^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – community interest in preservation
-[^ref-20]: [Kagi FastGPT – Release Information](kagi:fastgpt:What_year_was_Turbo_Learning_Mega_Math_video_game_released_and_who_developed_it?) – basic factual confirmation
+[^ref-20]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Release year and developer information

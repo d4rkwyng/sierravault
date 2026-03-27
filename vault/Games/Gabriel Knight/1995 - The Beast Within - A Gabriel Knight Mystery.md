@@ -3,7 +3,7 @@ title: 'The Beast Within: A Gabriel Knight Mystery'
 release_year: 1995
 developer: Sierra On-Line
 designer: [Jane Jensen, Adam Bentley, Bill Schrodes, Chris Carr, Darlou Gams, David
-    Artis]
+ Artis]
 publisher: Sierra
 genre: Adventure
 platforms: [DOS, Windows, Mac OS (Classic), Microsoft Windows, PC]
@@ -11,15 +11,15 @@ series: Gabriel Knight
 engine: SCI2.1
 protagonist: Gabriel Knight
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: 'The Beast Within: A Gabriel Knight Mystery stands as one of the most
-  ambitious and critically acclaimed adventure games of the mid-1990s. Released in
-  1995...'
+ ambitious and critically acclaimed adventure games of the mid-1990s. Released in
+ 1995...'
 tags: [1990s, adventure, gabriel-knight, jane-jensen, sci, sierra]
 ---
 # The Beast Within: A Gabriel Knight Mystery
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -103,15 +103,15 @@ Filming took place over approximately three and a half months during late summer
 
 The game featured professional casting from Montgomery Parada Casting in Los Angeles, with actors paid Screen Actors Guild minimum wage due to budget limitations[^ref-16]. Initially, Sierra attempted to use local actors to cut costs, but Jensen recalled: "When we first started out, we tried to cast some local people—basically cutting corners in a way that is pretty evident. But after we got going, we said, 'Screw it,' and started casting people from L.A."[^ref-2].
 
-The production required three separate trips to Germany during the second half of 1994 to photograph backgrounds[^ref-3]. Creative director Nathan Gams explained their approach: "We were lucky in all three of the trips over there in that it was fairly overcast, so we didn't have any harsh, direct lighting on most of the things. We wanted a soft, gloomy kind of European spring feel"[^ref-69]. The authentic German locations included Munich, the Wagner Museum in Bayreuth, and Neuschwanstein Castle[^ref-70].
+The production required three separate trips to Germany during the second half of 1994 to photograph backgrounds[^ref-3]. Creative director Nathan Gams explained their approach: "We were lucky in all three of the trips over there in that it was fairly overcast, so we didn't have any harsh, direct lighting on most of the things. We wanted a soft, gloomy kind of European spring feel". The authentic German locations included Munich, the Wagner Museum in Bayreuth, and Neuschwanstein Castle.
 
 ### Technical Achievements
 
-The Beast Within represented a significant technical achievement in FMV gaming, using blue screen technology to composite live actors over photorealistic backgrounds[^ref-71]. The game included 763 video files and was equivalent to five feature films in scope, with a 600-page script[^ref-72]. Sierra used a custom video player instead of standard Quicktime technology for the Macintosh version, demonstrating their commitment to technical excellence[^ref-73].
+The Beast Within represented a significant technical achievement in FMV gaming, using blue screen technology to composite live actors over photorealistic backgrounds. The game included 763 video files and was equivalent to five feature films in scope, with a 600-page script. Sierra used a custom video player instead of standard Quicktime technology for the Macintosh version, demonstrating their commitment to technical excellence.
 
-Robert Holmes composed original music for the game, including writing the complete opera "Der Fluch Des Engelhart" with libretto by Jane Jensen[^ref-74]. The game's audio production was comprehensive, featuring full orchestral music and professional voice acting throughout[^ref-75]. The production team created a seamless integration between video sequences and interactive elements, maintaining adventure game puzzle complexity within the FMV framework[^ref-76].
+Robert Holmes composed original music for the game, including writing the complete opera "Der Fluch Des Engelhart" with libretto by Jane Jensen. The game's audio production was comprehensive, featuring full orchestral music and professional voice acting throughout. The production team created a seamless integration between video sequences and interactive elements, maintaining adventure game puzzle complexity within the FMV framework.
 
-The technical production faced the challenge of creating a cohesive experience from 90 percent sound stage filming combined with authentic German photography[^ref-77]. The development team successfully created an immersive environment that transported players to Bavaria, with locations based on real German towns like Rothenburg ob der Tauber[^ref-78].
+The technical production faced the challenge of creating a cohesive experience from 90 percent sound stage filming combined with authentic German photography. The development team successfully created an immersive environment that transported players to Bavaria, with locations based on real German towns like Rothenburg ob der Tauber.
 
 ### Voice Cast
 
@@ -143,8 +143,8 @@ As an FMV game, The Beast Within featured a full cast of live-action performers 
 |---------|------|----------|-------|
 | 1.0 | December 1995 | DOS/Windows | Initial US release[^ref-12] |
 | 1.0 | 1996 | Mac OS | Macintosh release[^ref-57] |
-| Digital | 2010 | Windows | GOG.com release[^ref-90] |
-| Digital | 2016 | Windows | Steam release[^ref-89] |
+| Digital | 2010 | Windows | GOG.com release |
+| Digital | 2016 | Windows | Steam release |
 
 ## Trivia
 
@@ -155,33 +155,33 @@ As an FMV game, The Beast Within featured a full cast of live-action performers 
 - Due to budget constraints, actors were limited to a maximum of two takes per scene[^ref-65]
 - All of Dean Erickson's voice-over work was completed in a single day[^ref-65]
 - The production required three separate trips to Germany during 1994 to photograph backgrounds[^ref-3]
-- Robert Holmes composed an entire original opera for the game, "Der Fluch Des Engelhart," with libretto by Jane Jensen[^ref-74]
-- The game is equivalent to five feature films in scope, with a 600-page script and 763 video files[^ref-72]
-- VICE noted the game was groundbreaking for engaging with LGBTQ themes, calling it "a subversively campy adventure"[^ref-50][^ref-84]
+- Robert Holmes composed an entire original opera for the game, "Der Fluch Des Engelhart," with libretto by Jane Jensen
+- The game is equivalent to five feature films in scope, with a 600-page script and 763 video files
+- VICE noted the game was groundbreaking for engaging with LGBTQ themes, calling it "a subversively campy adventure"[^ref-50]
 - Computer Gaming World named Jane Jensen "the interactive Anne Rice" for her sophisticated storytelling[^ref-45]
-- The game reached fourth place in January 1996's commercially successful computer games, but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"[^ref-87]
+- The game reached fourth place in January 1996's commercially successful computer games, but Jensen was disappointed: "I thought it would be top ten. And it was—for about a week"
 - Sierra initially tried to use local actors to cut costs before deciding to cast from Los Angeles—Jensen recalled: "We said, 'Screw it,' and started casting people from L.A."[^ref-2]
-- The Bavaria locations were photographed on overcast days deliberately—creative director Nathan Gams wanted "a soft, gloomy kind of European spring feel"[^ref-69]
+- The Bavaria locations were photographed on overcast days deliberately—creative director Nathan Gams wanted "a soft, gloomy kind of European spring feel"
 
 ## Legacy
 
-The Beast Within established itself as the definitive example of how FMV technology could enhance rather than diminish adventure gaming[^ref-79]. While most FMV games of the era were criticized for poor gameplay and production values, The Beast Within proved that "FMV games could have worked, if only they had all been created as masterfully"[^ref-80]. The game's success demonstrated that full-motion video could support sophisticated storytelling and complex puzzle design when properly implemented[^ref-81].
+The Beast Within established itself as the definitive example of how FMV technology could enhance rather than diminish adventure gaming. While most FMV games of the era were criticized for poor gameplay and production values, The Beast Within proved that "FMV games could have worked, if only they had all been created as masterfully". The game's success demonstrated that full-motion video could support sophisticated storytelling and complex puzzle design when properly implemented.
 
-Jane Jensen's writing in The Beast Within cemented her reputation as one of gaming's premier storytellers, with critics noting that "as a writer, Jensen was head and shoulders above anyone else in the business—then and quite possibly now"[^ref-82]. The game's mature themes and sophisticated treatment of sexuality, history, and supernatural elements influenced subsequent adventure games and established new standards for adult-oriented gaming content[^ref-83].
+Jane Jensen's writing in The Beast Within cemented her reputation as one of gaming's premier storytellers, with critics noting that "as a writer, Jensen was head and shoulders above anyone else in the business—then and quite possibly now". The game's mature themes and sophisticated treatment of sexuality, history, and supernatural elements influenced subsequent adventure games and established new standards for adult-oriented gaming content.
 
-The game's influence extended beyond technical achievements to include its progressive social themes. VICE noted that "engaging with LGBTQ themes at all was groundbreaking for a mainstream video game from this era," highlighting the game's cultural significance[^ref-84]. Computer Gaming World ranked it #17 on their list of best PC games ever, demonstrating its lasting impact on the gaming industry[^ref-85].
+The game's influence extended beyond technical achievements to include its progressive social themes. VICE noted that "engaging with LGBTQ themes at all was groundbreaking for a mainstream video game from this era," highlighting the game's cultural significance. Computer Gaming World ranked it #17 on their list of best PC games ever, demonstrating its lasting impact on the gaming industry.
 
-The Beast Within's commercial success, reaching fourth place in January 1996's best-selling computer games, proved that sophisticated adventure games could compete with other genres[^ref-86]. However, Jane Jensen expressed frustration with the game's commercial performance, stating "I thought it would be top ten. And it was—for about a week"[^ref-87]. Despite this disappointment, the game's critical acclaim and lasting fanbase have secured its position as a classic of the adventure game genre[^ref-88].
+The Beast Within's commercial success, reaching fourth place in January 1996's best-selling computer games, proved that sophisticated adventure games could compete with other genres. However, Jane Jensen expressed frustration with the game's commercial performance, stating "I thought it would be top ten. And it was—for about a week". Despite this disappointment, the game's critical acclaim and lasting fanbase have secured its position as a classic of the adventure game genre.
 
 ## Downloads
 
 **Purchase / Digital Stores**
 - [GOG – Gabriel Knight 2: The Beast Within](https://www.gog.com/en/game/gabriel_knight_2_the_beast_within) – DRM-free purchase
-- [Steam – Gabriel Knight 2: The Beast Within](https://store.steampowered.com/app/496760/) – Digital purchase[^ref-89]
+- [Steam – Gabriel Knight 2: The Beast Within](https://store.steampowered.com/app/496760/) – Digital purchase
 
 **Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu) - Abandonware preservation site[^ref-91]
-- [Internet Archive](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) - Historical software preservation[^ref-92]
+- [MyAbandonware](https://www.myabandonware.com/game/the-beast-within-a-gabriel-knight-mystery-3gu) - Abandonware preservation site
+- [Internet Archive](https://archive.org/details/TheBeastWithinAGabrielKnightMysteryUSAEurope) - Historical software preservation
 
 ## See Also
 

@@ -10,14 +10,14 @@ series: The Incredible Machine / Ghosts 'n Goblins
 engine: TIM Engine
 protagonist: Arthur
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-01-22'
+last_updated: '2026-03-27'
 description: 'Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive
   puzzle game released on August 30, 1996, for both the Sony PlayStation and Sega...'
 tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 ---
 # Arthur to Astaroth no Nazo Makaimura: Incredible Toons
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -44,7 +44,7 @@ The game's narrative centers on the demon Satan, the recurring antagonist from t
 
 Astaroth, drawing upon his demonic ingenuity, designs elaborate mechanical traps and physics-based challenges that would confound even the most determined hero[^ref-7]. These are not ordinary obstacles but intricate Rube Goldberg-style mechanisms featuring cogwheels, conveyor belts, bombs, and various other hazardous devices[^ref-7]. The demons believe that by creating puzzles so complex and seemingly impossible, they can keep Arthur trapped forever while the princess remains their captive[^ref-7].
 
-However, the player assumes the role of a benevolent force working to aid Arthur in his quest[^ref-6][^ref-6]. By carefully analyzing each puzzle chamber and strategically placing the available mechanical components, the player must help Arthur navigate through Astaroth's devious creations[^ref-7]. The narrative provides context for what would otherwise be abstract puzzle challenges, giving players an emotional stake in solving each level as they work to reunite the knight with his beloved princess[^ref-7].
+However, the player assumes the role of a benevolent force working to aid Arthur in his quest[^ref-6]. By carefully analyzing each puzzle chamber and strategically placing the available mechanical components, the player must help Arthur navigate through Astaroth's devious creations[^ref-7]. The narrative provides context for what would otherwise be abstract puzzle challenges, giving players an emotional stake in solving each level as they work to reunite the knight with his beloved princess[^ref-7].
 
 ## Gameplay
 

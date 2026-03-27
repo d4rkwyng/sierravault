@@ -10,7 +10,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: '3-D Ultra Pinball: Creep Night is the second installment in Sierra''s
   3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in
   1996....'
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball: Creep Night
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -156,8 +156,8 @@ The game's cross-platform success led to a Portuguese language version that incl
 [^ref-16]: [GameSpot User Review #2](https://www.gamespot.com/3d-ultra-pinball-creep-night/user-reviews/2200-50731/) - Additional user review entry
 [^ref-17]: [Glitch Wave - 3-D Ultra Pinball: Creep Night](https://glitchwave.com/game/3-d-ultra-pinball-creep-night/) - Game database listing
 [^ref-18]: [Hardcore Gaming 101 - 3D Ultra Pinball Series](http://www.hardcoregaming101.net/series/3d-ultra-pinball/) - Series navigation page
-[^ref-19]: [Kagi FastGPT - Review Scores Query](kagi:fastgpt:What were the review scores for 3 D Ultra Pinball Creep Night video game?) - AI-generated review compilation
-[^ref-20]: [Kagi FastGPT - Release Information Query](kagi:fastgpt:What year was 3 D Ultra Pinball Creep Night video game released and who developed it?) - AI-generated release data
+[^ref-19]: [MobyGames – 3-D Ultra Pinball: Creep Night Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/) – Aggregated review scores and critical assessments
+[^ref-20]: [MobyGames – 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/) – Game information, release year, developer, and publisher details
 [^ref-21]: [Microsoft Learn - Technical Support](https://learn.microsoft.com/en-us/answers/questions/2843618/how-do-i-run-a-sierra-3d-ultra-pinball-creep-night) - Modern compatibility support discussion
 [^ref-22]: [Metacritic - 3-D Ultra Pinball: Creep Night](https://www.metacritic.com/game/3-d-ultra-pinball-creep-night/) - Aggregate review scores
 [^ref-23]: [MobyGames - Game Entry](https://www.mobygames.com/game/1506/) - Comprehensive game database entry

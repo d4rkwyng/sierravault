@@ -147,7 +147,7 @@ Johnny Castaway became an unexpected cult classic. Even Jeff Tunnell was surpris
 
 ### Technical Challenges
 
-As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on modern 64-bit systems. However, the devoted fan community has developed workarounds for Windows 64-bit, macOS, and Linux.[^ref-1][^ref-1] Browser-based reimplementations have also emerged, including the open-source Castaway project that reverse-engineers the DGDS (Dynamix Game Development System) engine.[^ref-11][^ref-16]
+As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on modern 64-bit systems. However, the devoted fan community has developed workarounds for Windows 64-bit, macOS, and Linux.[^ref-1] Browser-based reimplementations have also emerged, including the open-source Castaway project that reverse-engineers the DGDS (Dynamix Game Development System) engine.[^ref-11][^ref-16]
 
 ### Preservation
 

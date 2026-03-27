@@ -191,6 +191,8 @@ The intellectual property's current ownership by Activision has led to periodic 
 
 ## See Also
 
+- [[1988 - Manhunter - New York]]
+- [[1989 - Manhunter 2 - San Francisco]]
 
 ## References
 

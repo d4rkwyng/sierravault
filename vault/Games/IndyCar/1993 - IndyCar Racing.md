@@ -10,14 +10,14 @@ series: IndyCar Racing
 engine: AIL / Miles Sound System
 protagonist: Player (Racing Driver)
 sierra_lineage: Sierra Label (Papyrus)
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: IndyCar Racing is a racing simulation video game developed by Papyrus
   Design Group and released in 1993 for MS-DOS. Following the success of their...
 tags: [1990s, indycar-racing, papyrus, racing, sierra]
 ---
 # IndyCar Racing
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -109,7 +109,7 @@ Development was led by David Kaemmer with a talented team of designers and progr
 - **Programmers:** Eugene Lin, John Wheeler, Adam Levesque, Doug McCartney, Warren Sze
 - **Additional Development:** Joe McDermott, Rob Wallace
 
-Adam Levesque, who would later go on to found Blue Fang Games, designed and produced all 3D models for the game despite having no strong background in racing when he joined Papyrus.[^ref-17][^ref-17]
+Adam Levesque, who would later go on to found Blue Fang Games, designed and produced all 3D models for the game despite having no strong background in racing when he joined Papyrus.[^ref-17]
 
 ### Technical Achievements
 

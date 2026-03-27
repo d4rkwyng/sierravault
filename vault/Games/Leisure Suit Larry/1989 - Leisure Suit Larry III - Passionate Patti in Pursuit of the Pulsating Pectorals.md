@@ -10,7 +10,7 @@ series: Leisure Suit Larry
 engine: SCI0
 protagonist: Larry Laffer / Passionate Patti
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating
   Pectorals is the third installment in Sierra On-Line''s adult-oriented adventure
   game...'
@@ -18,7 +18,7 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 ---
 # Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -79,7 +79,7 @@ The game begins with an age verification quiz that determines the "filth level" 
 
 ### Structure and Progression
 
-Unlike the linear progression of Leisure Suit Larry Goes Looking for Love, the third installment returns to the dating simulation aspects of the original title[^ref-15][^ref-15]. The game confines players to one large explorable area for most of the experience, allowing for more freedom than its immediate predecessor[^ref-16]. While Nontoonyt Island is essentially the same tropical setting from the previous game, it has been transformed into a resort with hotels, health spas, and casinos[^ref-36]. This structural change was praised by the Sierra Wiki, which noted that "Some consider this game to be a return to form, as it abandons the linear progression of Leisure Suit Larry Goes Looking for Love (in Several Wrong Places) in favor of the dating sim aspects of the original title"[^ref-17].
+Unlike the linear progression of Leisure Suit Larry Goes Looking for Love, the third installment returns to the dating simulation aspects of the original title[^ref-15]. The game confines players to one large explorable area for most of the experience, allowing for more freedom than its immediate predecessor[^ref-16]. While Nontoonyt Island is essentially the same tropical setting from the previous game, it has been transformed into a resort with hotels, health spas, and casinos[^ref-36]. This structural change was praised by the Sierra Wiki, which noted that "Some consider this game to be a return to form, as it abandons the linear progression of Leisure Suit Larry Goes Looking for Love (in Several Wrong Places) in favor of the dating sim aspects of the original title"[^ref-17].
 
 The innovative dual-character system introduces a unique gameplay element where "you often need to leverage insights from both protagonists to progress"[^ref-18]. As Retro Replay's review explained, "This branching narrative element enriches the puzzles, as you often need to leverage insights from both protagonists to progress"[^ref-18]. The game features various female characters Larry encounters including Tawni (a beach sunbather more interested in souvenirs), Cherri Tart (a showgirl at the casino), Suzi Cheatem (a lawyer at the firm "Dewey, Cheatem & Howe"), and Bambi (an aerobics instructor at Fat City gym)[^ref-40][^ref-7].
 
@@ -112,7 +112,7 @@ Conversely, Adventure Gamers awarded the game 4 out of 5 stars, calling it "An u
 
 ### Origins
 
-Al Lowe designed Leisure Suit Larry III as what he initially intended to be the conclusion of the trilogy[^ref-1][^ref-1].
+Al Lowe designed Leisure Suit Larry III as what he initially intended to be the conclusion of the trilogy[^ref-1].
 
 The development team had "initially decided to close the saga at the end of the unplanned trilogy," though the series' continued popularity led to further sequels[^ref-1].
 
@@ -154,7 +154,7 @@ Leisure Suit Larry III's influence extended beyond its immediate commercial succ
 
 The game established the dual-protagonist mechanic that would influence later adventure games, and its meta-fictional ending sequence, featuring a "rampage through Sierra's offices" and cameos from other Sierra games, became a memorable series trademark[^ref-3].
 
-The final act features numerous Easter eggs including references to Police Quest (1987), Space Quest II (1987), and the King's Quest saga, as well as a cameo appearance by Roberta Williams herself[^ref-40][^ref-40].
+The final act features numerous Easter eggs including references to Police Quest (1987), Space Quest II (1987), and the King's Quest saga, as well as a cameo appearance by Roberta Williams herself[^ref-40].
 
 MobyGames notes that the game also contains an emotional depth unusual for the series: "Paradoxically, with this amount of meaningless sex, Larry 3 also manages to be the warmest and most soulful game of the entire series - the romance with Patti goes beyond carnal pleasures and culminates in what at least the heroes perceive as true love"[^ref-3].
 

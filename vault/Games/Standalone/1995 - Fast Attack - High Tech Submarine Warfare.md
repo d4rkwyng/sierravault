@@ -10,14 +10,14 @@ series: Standalone
 engine: Proprietary (DOS)
 protagonist: USS Los Angeles Class Submarine Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-01-11'
+last_updated: '2026-03-27'
 description: 'Fast Attack: High Tech Submarine Warfare is a submarine combat simulation
   developed by Software Sorcery and published by Sierra On-Line in 1995 for DOS...'
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Fast Attack: High Tech Submarine Warfare
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -265,5 +265,5 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 [^ref-16]: [Kotaku – Fast Attack](https://kotaku.com/games/fast-attack-high-tech-submarine-warfare) – game description
 [^ref-17]: [Metacritic – Fast Attack](https://www.metacritic.com/game/fast-attack-high-tech-submarine-warfare/) – genre classification
 [^ref-18]: [Never Die Media – Product Page](https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) – game description, compatibility
-[^ref-19]: [Kagi FastGPT Query](kagi:fastgpt:What year was Fast Attack High Tech Submarine Warfare video game released and who developed it?) – developer confirmation
+[^ref-19]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – Developer, publisher, release year, and game information
 [^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate review scores

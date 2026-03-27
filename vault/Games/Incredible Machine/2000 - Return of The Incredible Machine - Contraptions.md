@@ -10,18 +10,18 @@ series: The Incredible Machine
 engine: Physics simulation engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: '**Return of the Incredible Machine: Contraptions** is a 2000 puzzle
   strategy game that revitalized the beloved Incredible Machine series after a five-year...'
 tags: [2000s, puzzle, sierra, the-incredible-machine]
 ---
 # Return of the Incredible Machine: Contraptions
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-**Return of the Incredible Machine: Contraptions** is a 2000 puzzle strategy game that revitalized the beloved Incredible Machine series after a five-year hiatus[^ref-1]. Developed by Sierra Entertainment with Jeff Tunnell Productions, the game challenges players to "create off-the-wall gadgets using a combination of everyday flumadiddles, doohickeys, and gigamarees"[^ref-2]. The gameplay is virtually identical to previous games in the series, requiring players to use mechanical components to create Rube Goldberg-like devices that accomplish specific goals[^ref-2][^ref-2].
+**Return of the Incredible Machine: Contraptions** is a 2000 puzzle strategy game that revitalized the beloved Incredible Machine series after a five-year hiatus[^ref-1]. Developed by Sierra Entertainment with Jeff Tunnell Productions, the game challenges players to "create off-the-wall gadgets using a combination of everyday flumadiddles, doohickeys, and gigamarees"[^ref-2]. The gameplay is virtually identical to previous games in the series, requiring players to use mechanical components to create Rube Goldberg-like devices that accomplish specific goals[^ref-2].
 
 The game features over 250 puzzles alongside a freeform invention mode, allowing players to construct fantastic machines that accomplish unusual tasks ranging from catching cats in baskets to lighting fireworks with laser beams[^ref-5][^ref-6]. As one New York Times reviewer noted, the game is "so absorbing" that "ruminations inspired by its more than 250 graphical conundrums have been intruding regularly upon the real world"[^ref-1].
 
@@ -88,7 +88,7 @@ Beyond the structured puzzles, the game's freeform invention mode allowed unlimi
 
 ### Modern Assessment
 
-The game maintains strong appeal among retro gaming enthusiasts, with GameRankings showing an aggregate score of 78.33%[^ref-30]. Modern player reviews remain enthusiastic, with one user noting "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32], while another simply called it the "Greatest engineering game ever"[^ref-32]. The game received recognition with a PC Family Award from the Academy of Interactive Arts & Sciences and was voted 2001 Puzzle Game of the Year by readers[^ref-34][^ref-34].
+The game maintains strong appeal among retro gaming enthusiasts, with GameRankings showing an aggregate score of 78.33%[^ref-30]. Modern player reviews remain enthusiastic, with one user noting "Playing this while I was young was probably one of the influences to me being an engineer"[^ref-32], while another simply called it the "Greatest engineering game ever"[^ref-32]. The game received recognition with a PC Family Award from the Academy of Interactive Arts & Sciences and was voted 2001 Puzzle Game of the Year by readers[^ref-34].
 
 ## Development
 

@@ -10,22 +10,22 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-03-27'
 description: Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed
   and published by Sierra On-Line, released on September 2, 2003 for Windows PC....
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2004
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
 Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-6][^ref-3]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
 
-The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6][^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
+The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
 
-A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6][^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].
+A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -85,7 +85,7 @@ The game offers flexible, non-linear gameplay where players can freely choose wh
 
 ### Customization Features
 
-The **Facemaker Tool** represents a significant customization option, allowing players to create unique character avatars from hundreds of available features[^ref-6][^ref-6][^ref-8]. These custom characters can be used throughout the various games in the collection[^ref-4].
+The **Facemaker Tool** represents a significant customization option, allowing players to create unique character avatars from hundreds of available features[^ref-6][^ref-8]. These custom characters can be used throughout the various games in the collection[^ref-4].
 
 **Music Options** are available to customize the audio experience during gameplay[^ref-7]. The game includes a complete soundtrack with 5 music tracks totaling 4 minutes and 18 seconds of audio content[^ref-9].
 
@@ -118,7 +118,7 @@ Reviews consistently praised the variety of included games and the value proposi
 
 ### Origins
 
-Hoyle Puzzle Games 2004 was developed by [[Sierra On-Line]] as part of their long-running Hoyle series of casual games[^ref-1][^ref-3]. The Hoyle brand had established itself as Sierra's premier line of family-friendly card, board, and puzzle games since the late 1980s[^ref-6][^ref-6]. Published under the Sierra Attractions label, the game targeted casual gamers seeking accessible puzzle entertainment[^ref-8].
+Hoyle Puzzle Games 2004 was developed by [[Sierra On-Line]] as part of their long-running Hoyle series of casual games[^ref-1][^ref-3]. The Hoyle brand had established itself as Sierra's premier line of family-friendly card, board, and puzzle games since the late 1980s[^ref-6]. Published under the Sierra Attractions label, the game targeted casual gamers seeking accessible puzzle entertainment[^ref-8].
 
 ### Production
 
@@ -192,7 +192,7 @@ As part of the Hoyle brand, this title shares its heritage with numerous other S
 
 ### Critical Perspective
 
-Hoyle Puzzle Games 2004 represents Sierra Entertainment's continued investment in the casual games market during the early 2000s. The title exemplifies the compilation approach that dominated casual PC gaming before the rise of digital distribution and mobile platforms[^ref-6][^ref-6]. By combining classic word and tile games with arcade elements and bonus content like The Incredible Machine, Sierra attempted to maximize value proposition for consumers[^ref-7][^ref-8].
+Hoyle Puzzle Games 2004 represents Sierra Entertainment's continued investment in the casual games market during the early 2000s. The title exemplifies the compilation approach that dominated casual PC gaming before the rise of digital distribution and mobile platforms[^ref-6]. By combining classic word and tile games with arcade elements and bonus content like The Incredible Machine, Sierra attempted to maximize value proposition for consumers[^ref-7][^ref-8].
 
 The game's lasting legacy is perhaps most notable in its demonstration of Windows compatibility challenges that plagued many titles from this era[^ref-4][^ref-12]. The fact that the game stopped working on Windows Vista through Windows 8 but regained functionality on Windows 8.1 and Windows 10 illustrates the unpredictable nature of legacy software compatibility[^ref-4].
 

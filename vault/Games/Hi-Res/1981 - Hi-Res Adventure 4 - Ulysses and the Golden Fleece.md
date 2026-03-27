@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure Text Parser
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
   game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -211,7 +211,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 **Manuals & Extras**
 - Original documentation available through abandonware archives
 
-The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-22].
+The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22].
 
 ## See Also
 

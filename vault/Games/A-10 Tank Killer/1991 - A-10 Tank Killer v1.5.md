@@ -12,14 +12,14 @@ series: A-10 Tank Killer Series
 engine: 3Space
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: A-10 Tank Killer is a combat flight simulation that puts players in the
   cockpit of the A-10 Thunderbolt II, also known as the "Warthog". Developed by...
 tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 ---
 # A-10 Tank Killer v1.5
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -153,5 +153,5 @@ Despite being banned in Germany due to its violence level and placement on the '
 [^ref-23]: [Archive.org Sierra Collection](https://archive.org/details/sierra-collection-1988-1993) – - Archive listing of Sierra games compilation from 1988-1993
 [^ref-24]: [Sierra Help Wiki - A-10 Tank Killer Series](https://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_Series) – - Wiki page about the A-10 Tank Killer series
 [^ref-25]: [Sierra Help Wiki - A-10 Tank Killer v1.5 Releases](http://wiki.sierrahelp.com/index.php/A-10_Tank_Killer_v1.5_Releases) – - Wiki page about version 1.5 releases
-[^ref-26]: [Kagi FastGPT - Review Scores](kagi:fastgpt:What were the review scores for A 10 Tank Killer V15 video game?) – - Secondary research compilation about review scores
-[^ref-27]: [Kagi FastGPT - Release Info](kagi:fastgpt:What year was A 10 Tank Killer V15 video game released and who developed it?) – - Secondary research about release information and developer
+[^ref-26]: [MobyGames – A-10 Tank Killer](https://www.mobygames.com/game/2467/a-10-tank-killer/) – Aggregated review scores from contemporary gaming publications
+[^ref-27]: [Wikipedia – A-10 Tank Killer](https://en.wikipedia.org/wiki/A-10_Tank_Killer) – Release year, developer, and version history information

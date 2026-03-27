@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-01-15'
+last_updated: '2026-03-27'
 description: Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic
-  puzzle and board games released by Encore Software for Windows and Macintosh...
+ puzzle and board games released by Encore Software for Windows and Macintosh...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Puzzle and Board Games 2008
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -213,7 +213,7 @@ The brand's longevity—spanning from Edmond Hoyle's 18th-century rulebooks thro
 **Documentation**
 - Steam Community Guide for related Encore compilation[^ref-7]
 
-The game is documented in various gaming databases and preservation archives.[^ref-12][^ref-13][^ref-14][^ref-15][^ref-16]
+The game is documented in various gaming databases and preservation archives.[^ref-13][^ref-14][^ref-15][^ref-16]
 
 ## See Also
 
@@ -285,7 +285,7 @@ The game is documented in various gaming databases and preservation archives.[^r
 [^ref-8]: [MyAbandonware – Hoyle Puzzle and Board Games 2008](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) – user rating, file sizes, SecuROM protection, platform support
 [^ref-9]: [Encore Forums – Windows 10 Compatibility](http://forums.encoreusa.com/tm.asp?m=50366) – Windows 10 testing confirmation, official support statement
 [^ref-10]: [PMC/NIH – Multiple Sclerosis Cognitive Rehabilitation Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012426/) – scientific use as control condition
-[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – related Hoyle product documentation, manual sizes[^ref-12]: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-and-board-games/) - game wiki entry
+[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – related Hoyle product documentation, manual sizes: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-and-board-games/) - game wiki entry
 [^ref-13]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - Internet Games Database entry
 [^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry

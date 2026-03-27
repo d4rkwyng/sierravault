@@ -11,7 +11,7 @@ series: 3-D Ultra Pinball
 engine: 3D Ultra Pinball physics-based game engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-03-27'
 description: '3-D Ultra Pinball: The Lost Continent is an arcade-style pinball game
   underscored by an action-adventure story line that was released in 1997 by Sierra...'
 tags: [1990s, 3-d-ultra-pinball, sierra]
@@ -19,7 +19,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball: The Lost Continent
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -154,8 +154,8 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-6]: [GamePressure - Game Score](https://www.gamepressure.com/games/game_score.asp?ID=15445) – - Jurassic Park film inspiration, trivia details
 [^ref-7]: [Collection Chamber - 3D Ultra Pinball: Lost Continent](https://collectionchamber.blogspot.com/p/3d-ultra-pinball-lost-continent.html) – - Marketing quotes, technical specifications, review conclusion, development notes
 [^ref-8]: [Bunny Gamer - The Lost Continent First Impressions](https://bunnygamer.com/3d-ultra-pinball-the-lost-continent-computer-game-first-impressions/) – - Developer information
-[^ref-9]: [Kagi FastGPT - Basic Information](kagi:fastgpt:What year was 3 D Ultra Pinball The Lost Continent video game released and who developed it?) – - Designer information
-[^ref-10]: [NeverDieMedia - Product Listing](https://www.neverdiemedia.com/products/3d-ultra-pinball-the-lost-continent-1) – - Story premise, game overview description
+[^ref-9]: [MobyGames – 3-D Ultra Pinball: The Lost Continent](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – Designer information and game metadata
+[^ref-10]: [NeverDieMedia - Product Listing](https://www.neverdiemedia.com/products/3d-ultra-pinball-the-lost-continent-1) – Story premise, game overview description
 [^ref-11]: [Metacritic - Game Details](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/details/) – - Marketing description of gameplay features
 [^ref-12]: [MobyGames - Game Information](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – - Plot summary, series comparison, critic score, dialogue assessment
 [^ref-13]: [Metacritic - Main Page](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/) – - Input devices information
@@ -163,7 +163,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-15]: [GameRevolution - Review](https://www.gamerevolution.com/review/32949-3dlost-review) – - Technical praise, physics commentary, soundtrack praise, overall assessment
 [^ref-16]: [MobyGames - User Review by piltdown_man](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/user-review/2393280/) – - Table progression description, gameplay mechanics
 [^ref-17]: [Ink 19 - Review](https://ink19.com/1997/12/magazine/screen-reviews/yyo8fi-3d-ultra-pinball-the-lost) – - Dinosaur interaction details
-[^ref-18]: [Kagi FastGPT - Review Scores](kagi:fastgpt:What were the review scores for 3 D Ultra Pinball The Lost Continent video game?) – - GameSpot user rating
+[^ref-18]: [MobyGames – 3-D Ultra Pinball: The Lost Continent Reviews](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/) – Aggregated review scores and critical assessments including GameSpot ratings
 [^ref-19]: [IMDb - Game Entry](https://www.imdb.com/title/tt5652794/) – - Cast information, director, writer, rating information
 [^ref-20]: [MyAbandonware - Game Page](https://www.myabandonware.com/game/3-d-ultra-pinball-the-lost-continent-3fi) – - User rating, user comments
 [^ref-21]: [Bunny Gamer - ThrillRide Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – - Comparison to later series entries

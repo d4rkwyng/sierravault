@@ -10,15 +10,15 @@ series: Wizard of Id
 engine: 6502 Assembly
 protagonist: The Wizard
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Wizard of Id's WizType is an educational typing game released in 1984
-  by Sierra On-Line, designed to give keyboard novices lessons on improving their
-  typing...
+ by Sierra On-Line, designed to give keyboard novices lessons on improving their
+ typing...
 tags: [1980s, educational, sierra, wizard-of-id]
 ---
 # Wizard of Id's WizType
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -92,7 +92,7 @@ One contemporary assessment noted that "WizType is the perfect title for childre
 Modern retrospective reviews have generally been favorable toward WizType, appreciating its creative use of a licensed property and its effective educational design.[^ref-2] The game is recognized as a notable example of early edutainment software that attempted to make learning engaging through familiar characters and game-like challenges.[^ref-6]
 
 **Aggregate Scores:**
-- **MobyGames:** 3.5 out of 5 (user rating)[^ref-2][^ref-3]
+- **MobyGames:** 3.5 out of 5 (user rating)[^ref-2]
 - **MyAbandonware:** 3.67 out of 5 (3 votes)[^ref-4]
 
 The game's preservation status as abandonware has made it accessible to retro gaming enthusiasts and historians interested in the evolution of educational software.[^ref-4] Its relatively small file size (approximately 33 KB for most versions) has facilitated its preservation across multiple archive sites.[^ref-4]
@@ -191,7 +191,7 @@ No dedicated hint books or strategy guides were produced for WizType, as the edu
 
 WizType occupies an interesting position in Sierra On-Line's history as an example of the company's diversification beyond adventure games during the early 1980s.[^ref-7][^ref-12] While Sierra is primarily remembered for pioneering graphical adventure games, titles like WizType demonstrate the company's broader ambitions in the home computer software market.[^ref-6][^ref-8]
 
-The game represents the convergence of several 1980s trends: the educational software boom, the practice of licensing popular media properties for games, and the multi-platform development approach that characterized the fragmented home computer market.[^ref-5][^ref-8] As a typing tutor, WizType competed with numerous similar products, but its use of familiar comic strip characters and game-like challenges helped distinguish it from more utilitarian alternatives.[^ref-1][^ref-3]
+The game represents the convergence of several 1980s trends: the educational software boom, the practice of licensing popular media properties for games, and the multi-platform development approach that characterized the fragmented home computer market.[^ref-5][^ref-8] As a typing tutor, WizType competed with numerous similar products, but its use of familiar comic strip characters and game-like challenges helped distinguish it from more utilitarian alternatives.[^ref-1]
 
 From a historical perspective, WizType demonstrates how early educational software developers attempted to balance pedagogical goals with entertainment value—a challenge that would define the edutainment genre for decades to come.[^ref-2][^ref-5] While not revolutionary, the game executed its educational mission competently while providing memorable visual rewards and penalties that likely motivated young typists more effectively than dry skill drills.[^ref-6]
 

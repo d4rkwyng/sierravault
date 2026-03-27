@@ -10,7 +10,7 @@ series: You Don't Know Jack
 engine: Proprietary (Jellyvision)
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia
   video game released on August 31, 1998 that serves as a teen-oriented spin-off of
   the...
@@ -18,11 +18,11 @@ tags: [1990s, sierra, you-don-t-know-jack]
 ---
 # Head Rush
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
-Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia video game released on August 31, 1998 that serves as a teen-oriented spin-off of the popular *You Don't Know Jack* series[^ref-1][^ref-14]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under their Sierra Attractions label[^ref-2][^ref-2]. The game deliberately targeted a younger demographic than its predecessor, marketing itself as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
+Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia video game released on August 31, 1998 that serves as a teen-oriented spin-off of the popular *You Don't Know Jack* series[^ref-1][^ref-14]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under their Sierra Attractions label[^ref-2]. The game deliberately targeted a younger demographic than its predecessor, marketing itself as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
 
 The game retains the core gameplay mechanics and irreverent style of the *You Don't Know Jack* franchise while shifting its humor to appeal specifically to teenagers[^ref-4]. This meant replacing the sexual innuendo of the original series with toilet humor and pop culture references aimed at a younger audience[^ref-5]. Head Rush came packaged with a set of three stickers for players to place on their Q, P, and B keys—the keys used to buzz in and answer questions—featuring, simply, the letters Q, P, and B[^ref-4].
 

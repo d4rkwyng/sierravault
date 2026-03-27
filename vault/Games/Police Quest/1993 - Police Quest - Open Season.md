@@ -10,14 +10,14 @@ series: Police Quest
 engine: SCI2
 protagonist: Detective John Carey
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: 'Police Quest: Open Season, released in 1993, marked a radical departure
   from the established Police Quest series. Developed by Sierra On-Line under the...'
 tags: [1990s, adventure, police-quest, sci, sierra]
 ---
 # Police Quest: Open Season
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -181,7 +181,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-16]: [Adventure Gamers Blog](https://advgamer.blogspot.com/2024/10/game-149-police-quest-open-season.html) – - Development background and team information
 [^ref-17]: [GameSpot User Review](https://www.gamespot.com/police-quest-collection/user-reviews/2200-260780/) – - User review on gameplay mechanics and issues
 [^ref-18]: [Wikipedia - Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – - Development notes and writing process
-[^ref-19]: [Kagi FastGPT Review Data](kagi:fastgpt:What were the review scores for Police Quest Open Season video game?) – - Aggregated review scores
+[^ref-19]: [MobyGames – Daryl F. Gates Police Quest: Open Season](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/) – Aggregated review scores and critical assessments
 [^ref-20]: [IMDb - Main Entry](https://www.imdb.com/title/tt0289401/) – - Cast, crew, and user ratings
 [^ref-21]: [My Abandonware](https://www.myabandonware.com/game/daryl-f-gates-police-quest-open-season-22w) – - User ratings and community comments
 [^ref-22]: [Just Games Retro](https://www.justgamesretro.com/dos/police-quest-open-season) – - Retrospective review and gameplay analysis
@@ -191,7 +191,7 @@ The game also serves as a historical artifact of early 1990s attitudes toward po
 [^ref-26]: [MobyGames User Reviews](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/reviews/) – - Multiple user review compilation
 [^ref-27]: [Adventure Gamers Search Results](https://adventuregamers.com/search/?q=Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Jim Walls departure information
 [^ref-28]: [Sierra Chest - Walkthrough](https://sierrachest.com/index.php?a=games&id=23&title=police-quest-4&fld=walkthrough&pid=101) – - Game development background
-[^ref-29]: [Kagi FastGPT Development Data](kagi:fastgpt:What year was Police Quest Open Season video game released and who developed it?) – - Basic development facts
+[^ref-29]: [Wikipedia – Police Quest: Open Season](https://en.wikipedia.org/wiki/Police_Quest:_Open_Season) – Release year, developer, and design credits
 [^ref-30]: [MobyGames User Review - Katakis](https://www.mobygames.com/game/149/daryl-f-gates-police-quest-open-season/user-review/2433116/) – - Technical innovation details
 [^ref-31]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Daryl+F.+Gates+Police+Quest%3A+Open+Season) – - Technical specifications
 [^ref-32]: [Sierra Gamers - Police Quest 4](https://www.sierragamers.com/police-quest-4/) – - Technology and development resources

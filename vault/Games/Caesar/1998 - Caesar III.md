@@ -10,14 +10,14 @@ series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-03-27'
 description: Caesar III is a city-building strategy game that transports players to
-  the Roman Empire, where they serve as a provincial governor tasked with building...
+ the Roman Empire, where they serve as a provincial governor tasked with building...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -126,7 +126,7 @@ The game required regular patches to address technical issues, with version 1.0.
 
 Caesar III has had a profound and lasting impact on the city-building strategy genre. The game established many conventions that became standard in subsequent city-builders, including the walker-based resource distribution system, the integration of economic and military challenges on a single map, and the use of historical settings to create immersive simulation experiences. As noted in gaming retrospectives, "Caesar III is considered the progenitor of the City Building Series proper, introducing walkers, warehouses, foreign trade, and sea trade"[^ref-36].
 
-The game's commercial success was substantial, with sales figures exceeding 250,000 copies by early 1999[^ref-38]. Sierra's Jim Veevaert stated at the time, "We are very excited about the tremendous sell-through of the game" and noted that "Clearly Caesar III has taken real-time city building and management to new heights and strategy fans around the world are thrilled"[^ref-38]. The game appeared regularly on bestseller charts, including a #9 position on German sales charts where it spent 10 weeks on the charts[^ref-92].
+The game's commercial success was substantial, with sales figures exceeding 250,000 copies by early 1999[^ref-38]. Sierra's Jim Veevaert stated at the time, "We are very excited about the tremendous sell-through of the game" and noted that "Clearly Caesar III has taken real-time city building and management to new heights and strategy fans around the world are thrilled"[^ref-38]. The game appeared regularly on bestseller charts, including a #9 position on German sales charts where it spent 10 weeks on the charts.
 
 The game's influence extends beyond its immediate commercial success through its active modding community and open-source preservation efforts. Projects like Julius[^ref-31] and Augustus[^ref-32] have created modern reimplementations that enhance the original gameplay while maintaining compatibility with the core experience. These projects demonstrate the game's enduring appeal and have introduced Caesar III to new generations of players on modern platforms. The speedrunning community has also embraced the game, with dedicated leaderboards and competitive play categories[^ref-74].
 

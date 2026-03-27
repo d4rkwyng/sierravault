@@ -10,14 +10,14 @@ series: Sierra Discovery Series
 engine: 6502 Assembly
 protagonist: Bananas and Jack (coaches)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-01-30'
+last_updated: '2026-03-27'
 description: Alphabet Blocks is an interactive multimedia educational program designed
-  to teach young children the letters and sounds of the English alphabet. Originally...
+ to teach young children the letters and sounds of the English alphabet. Originally...
 tags: [1980s, educational, sierra, sierra-discovery-series]
 ---
 # Alphabet Blocks
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: March 27, 2026</small>
 
 ## Overview
 
@@ -229,7 +229,7 @@ The emphasis on accessibility—allowing children as young as three to use the s
 - Manual PDF available through Sierra Gamers community[^ref-11]
 - Diskette scans preserved by fan community[^ref-11]
 
-The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
+The game is documented in various gaming databases.[^ref-15][^ref-16]
 
 ## See Also
 
@@ -256,6 +256,6 @@ The game is documented in various gaming databases.[^ref-14][^ref-15][^ref-16]
 [^ref-10]: [GOG.com Community Dreamlist – Sierra Discovery Alphabet Blocks](https://www.gog.com/dreamlist/game/sierra-discovery-alphabet-blocks) – preservation interest
 [^ref-11]: [Sierra Gamers – Alphabet Blocks Downloads](https://www.sierragamers.com/alphabet-blocks/) – fan preservation resources, manual, scans
 [^ref-12]: [Amazon – Alphabet Blocks (Sierra on Line)](https://www.amazon.com/Alphabet-Blocks-Line-Sierra/dp/0871770172) – ISBN numbers, packaging weight, publication date
-[^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context and related titles[^ref-14]: [Giant Bomb - Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/) - game wiki
+[^ref-13]: [MobyGames – Sierra Discovery Series](https://www.mobygames.com/game-group/sierra-discovery-series) – series context and related titles: [Giant Bomb - Alphabet Blocks](https://www.giantbomb.com/alphabet-blocks/) - game wiki
 [^ref-15]: [IGDB - Alphabet Blocks](https://www.igdb.com/games/alphabet-blocks) - IGDB entry
 [^ref-16]: [MobyGames - Bright Star](https://www.mobygames.com/company/bright-star-technology/) - developer info
