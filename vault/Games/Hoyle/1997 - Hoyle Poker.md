@@ -15,7 +15,7 @@ description: '**Hoyle Casino: Poker**, released in 1997, represents Sierra''s fi
   dedicated foray into the world of poker gaming. Set in a virtual Las Vegas casino...'
 tags: [1990s, hoyle-casino, sierra]
 ---
- Hoyle Casino: Poker
+# Hoyle Casino: Poker
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 

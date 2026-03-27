@@ -20,35 +20,6 @@ tags: [1980s, shooter, sierra, standalone]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
 ## Overview
 
 Silpheed is a groundbreaking vertical scrolling shooter that debuted on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western audiences by Sierra On-Line in 1988-1989.[^ref-1][^ref-2] Developed by Game Arts, the game pioneered the use of real-time 3D polygonal graphics and a tilted third-person perspective, making it one of the most technically ambitious titles of the 8-bit era.[^ref-3][^ref-4] The game was notable for being one of the first to use music as a major selling point, featuring a phenomenal soundtrack that pushed perceptions of what computer game audio could achieve.[^ref-5][^ref-6]
@@ -283,6 +254,36 @@ The game's influence extended beyond its immediate commercial success. The tilte
 
 **Manuals & Extras**
 - [Internet Archive – Silpheed Manual](https://archive.org/details/Silpheed_Manual)
+
+## See Also
+
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Sierra Championship Boxing]]
+- [[1985 - Stunt Flyer]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Kempelen]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Pepper's Adventures in Time]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Lighthouse - The Dark Being]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
+
 
 ## References
 

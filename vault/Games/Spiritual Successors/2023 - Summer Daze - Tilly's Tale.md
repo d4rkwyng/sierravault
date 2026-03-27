@@ -21,24 +21,6 @@ tags: [2020s, coles, hero-u, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2022 - SpaceVenture]]
-- [[2023 - Colossal Cave 3D Adventure]]
-
 ## Overview
 
 *Summer Daze: Tilly's Tale* is a visual novel adventure game developed and published by Transolar Games, released on March 28, 2023 for PC platforms and June 15, 2023 for Nintendo Switch[^ref-1][^ref-2]. Created by legendary adventure game designers [[Lori Ann Cole]] and [[Corey Cole]]—the husband-and-wife team behind Sierra On-Line's acclaimed *Quest for Glory* series—the game represents their return to more modestly scaled game development following the financially challenging production of *Hero-U: Rogue to Redemption*[^ref-3][^ref-4].
@@ -259,6 +241,25 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 - [itch.io](https://transolar-games.itch.io/tillys-tale)
 
 **Price:** $20.00 USD[^ref-10]
+
+## See Also
+
+- [[1993 - Blue Force]]
+- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
+- [[2008 - Ace of Aces]]
+- [[2010 - Gray Matter]]
+- [[2012 - Cognition - An Erica Reed Thriller]]
+- [[2013 - Fester Mudd - Curse of the Gold]]
+- [[2014 - Moebius - Empire Rising]]
+- [[2014 - Quest for Infamy]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2015 - Order of the Thorne - The King's Challenge]]
+- [[2018 - Bolt Riley - A Reggae Adventure]]
+- [[2018 - Hero-U - Rogue to Redemption]]
+- [[2019 - Mage's Initiation - Reign of the Elements]]
+- [[2022 - SpaceVenture]]
+- [[2023 - Colossal Cave 3D Adventure]]
+
 
 ## References
 

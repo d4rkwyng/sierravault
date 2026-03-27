@@ -21,9 +21,6 @@ tags: [1990s, babylon-5, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-
 ## Overview
 
 Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yosemite Entertainment and published by Sierra Entertainment, based on the critically acclaimed science fiction television series that won two Emmy Awards and two Hugo Awards[^ref-1]. The partnership between Sierra and Warner Bros. was announced on October 27, 1997, setting in motion what would become one of the most mourned cancelled games of the late 1990s[^ref-1]. The game promised to deliver an unprecedented combination of authentic Babylon 5 universe combat, innovative flight mechanics, and involvement from the television series' original cast and crew[^ref-2].
@@ -202,6 +199,9 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 
 **Related Fan Games**
 - Babylon Project (FreeSpace mod/standalone) - Free alternative[^ref-7]
+
+## See Also
+
 
 ## References
 

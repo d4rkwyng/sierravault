@@ -17,7 +17,7 @@ description: '*Cluck Yegger in Escape from the Planet of the Poultroid* is a com
   on...'
 tags: [2010s, sierra, spaceventure, two-guys]
 ---
- Cluck Yegger in Escape from the Planet of the Poultroid
+# Cluck Yegger in Escape from the Planet of the Poultroid
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

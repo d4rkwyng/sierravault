@@ -23,24 +23,6 @@ tags: [2020s, adventure, roberta-williams, sierra, standalone]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2022 - SpaceVenture]]
-- [[2023 - Summer Daze - Tilly's Tale]]
-
 ## Overview
 
 Colossal Cave 3D Adventure is a fully immersive 3D and VR reimagining of the seminal 1976 text adventure game created by William Crowther and Don Woods[^ref-1]. Developed by Cygnus Entertainment and designed by legendary Sierra On-Line founders [[Ken Williams]] and [[Roberta Williams]], the game marks their return to game development after more than twenty years away from the industry[^ref-2]. The project transforms the original text-based cave exploration experience into a first-person point-and-click adventure intended for the whole family[^ref-3].
@@ -270,6 +252,25 @@ The result is a game that functions as a playable museum piece, offering younger
 
 **Manuals & Extras**
 - [Official Press Kit](https://colossalcave3d.com/press/)
+
+## See Also
+
+- [[1993 - Blue Force]]
+- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
+- [[2008 - Ace of Aces]]
+- [[2010 - Gray Matter]]
+- [[2012 - Cognition - An Erica Reed Thriller]]
+- [[2013 - Fester Mudd - Curse of the Gold]]
+- [[2014 - Moebius - Empire Rising]]
+- [[2014 - Quest for Infamy]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2015 - Order of the Thorne - The King's Challenge]]
+- [[2018 - Bolt Riley - A Reggae Adventure]]
+- [[2018 - Hero-U - Rogue to Redemption]]
+- [[2019 - Mage's Initiation - Reign of the Elements]]
+- [[2022 - SpaceVenture]]
+- [[2023 - Summer Daze - Tilly's Tale]]
+
 
 ## References
 

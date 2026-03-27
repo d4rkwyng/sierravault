@@ -15,7 +15,7 @@ description: Thexder Neo is a 2009 remake of the classic 1985 arcade-style shoot
   originally developed by Game Arts. The game features a transforming robot protagonist...
 tags: [2000s, shooter, sierra, thexder]
 ---
- Thexder Neo
+# Thexder Neo
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 

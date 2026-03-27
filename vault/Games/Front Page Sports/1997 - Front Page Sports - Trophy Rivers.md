@@ -15,7 +15,7 @@ description: 'Front Page Sports: Trophy Rivers is a fishing simulation game deve
   by Dynamix, Inc. and published by Sierra On-Line, Inc. in 1997. Part of Sierra''s...'
 tags: [1990s, educational, front-page-sports, sierra, simulation]
 ---
- Front Page Sports: Trophy Rivers
+# Front Page Sports: Trophy Rivers
 
 <small style="color: gray">Last updated: January 16, 2026</small>
 

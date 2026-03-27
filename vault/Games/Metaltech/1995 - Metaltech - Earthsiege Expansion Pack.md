@@ -16,7 +16,7 @@ description: 'The *Metaltech Earthsiege Expansion Pack* was an add-on expansion 
   The...'
 tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
- Metaltech Earthsiege Expansion Pack
+# Metaltech Earthsiege Expansion Pack
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

@@ -20,35 +20,6 @@ tags: [1980s, none, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
 ## Overview
 
 Sierra Championship Boxing is a pioneering sports simulation game developed by Evryware and published by Sierra On-Line in 1985, first released for the IBM PC in 1983.[^ref-1] The game was described by InfoWorld as "by far the most extensive sports game created for a microcomputer" and was predicted to potentially "usher in a new era of sports simulation games."[^ref-2] Unlike arcade-style boxing games of its era, Sierra Championship Boxing took a methodical, strategic approach to the sport that felt "more like a chess match than a brawl."[^ref-3]
@@ -250,6 +221,36 @@ The Washington Apple Pi Journal review's caveat that the game was "not for the s
 - [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=196)
 - [Macintosh Repository – Mac Version](https://www.macintoshrepository.org/3494-sierra-championship-boxing)
 - [ClassicReload – Browser Playable](https://classicreload.com/sierra-championship-boxing.html)
+
+## See Also
+
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Stunt Flyer]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Kempelen]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1988 - Silpheed]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Pepper's Adventures in Time]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Lighthouse - The Dark Being]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
+
 
 ## References
 

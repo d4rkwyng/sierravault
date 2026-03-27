@@ -15,7 +15,7 @@ description: '*Front Page Sports: Trophy Bass 2* is a fishing simulation game de
   by Dynamix and published by Sierra On-Line in 1996, representing the company''s...'
 tags: [1990s, front-page-sports, sierra, simulation]
 ---
- Front Page Sports Trophy Bass 2
+# Front Page Sports Trophy Bass 2
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 

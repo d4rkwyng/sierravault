@@ -20,9 +20,6 @@ tags: [adventure, agi, manhunter, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-
 ## Overview
 
 Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased as early as 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
@@ -191,6 +188,9 @@ The intellectual property's current ownership by Activision has led to periodic 
 - [Manhunter History at Larry Laffer Dot Net](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history)[^ref-2]
 - [Manhunter Wiki](https://manhunter.fandom.com/wiki/Manhunter_3:_London)[^ref-1]
 - [Sierra Wiki](https://sierra.fandom.com/wiki/Manhunter)[^ref-7]
+
+## See Also
+
 
 ## References
 

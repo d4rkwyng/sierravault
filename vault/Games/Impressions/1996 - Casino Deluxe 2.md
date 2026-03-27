@@ -16,7 +16,7 @@ description: Casino Deluxe 2 is a gambling simulation game released on October 2
   The...
 tags: [1990s, casino-deluxe, sierra, simulation]
 ---
- Casino Deluxe 2
+# Casino Deluxe 2
 
 <small style="color: gray">Last updated: February 2, 2026</small>
 

@@ -20,35 +20,6 @@ tags: [1980s, sierra, simulation, standalone]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
 ## Overview
 
 Stunt Flyer is a stunt-flying simulation released for the Commodore 64 in September 1985[^ref-1][^ref-2]. The game places players in control of a small prop-plane at an airshow, where they attempt to perform a number of airplane-based stunts[^ref-1]. Developed by French studio Nice Ideas and published by Sierra On-Line, the game holds the distinction of being the first published game developed in Europe for Sierra On-Line[^ref-3].
@@ -213,6 +184,36 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [Lemon64](https://www.lemon64.com/game/stunt-flyer)[^ref-2]
 - [MobyGames](https://www.mobygames.com/game/122956/stunt-flyer/)[^ref-1]
 - [Sierra Gamers](https://www.sierragamers.com/stunt-flyer/)[^ref-7]
+
+## See Also
+
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Sierra Championship Boxing]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Kempelen]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1988 - Silpheed]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Pepper's Adventures in Time]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Lighthouse - The Dark Being]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
+
 
 ## References
 

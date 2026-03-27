@@ -16,7 +16,7 @@ description: 'Quest for Glory I: So You Want to Be a Hero (VGA Remake) is a 1992
   version of Sierra On-Line''s groundbreaking 1989 adventure/RPG hybrid originally...'
 tags: [1990s, adventure, coles, quest-for-glory, rpg, sci, sierra]
 ---
- Quest for Glory I: So You Want to Be a Hero (VGA Remake)
+# Quest for Glory I: So You Want to Be a Hero (VGA Remake)
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

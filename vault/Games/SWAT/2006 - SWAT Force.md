@@ -16,7 +16,7 @@ description: SWAT Force is a mobile tactical action game released on February 28
   to...
 tags: [2000s, police-quest-swat, sierra]
 ---
- SWAT Force
+# SWAT Force
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

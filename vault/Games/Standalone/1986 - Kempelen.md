@@ -20,35 +20,6 @@ tags: [1980s, sierra, standalone, strategy]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Wrath of Denethenor]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
-- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
-- [[1990 - Codename - Iceman]]
-- [[1990 - Jones in the Fast Lane]]
-- [[1990 - Zeliard]]
-- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
-- [[1993 - Pepper's Adventures in Time]]
-- [[1993 - Slater & Charlie Go Camping]]
-- [[1994 - Battle Bugs]]
-- [[1995 - Air Cavalry]]
-- [[1995 - Fast Attack - High Tech Submarine Warfare]]
-- [[1995 - Shannara]]
-- [[1995 - The Ruins of Cawdor]]
-- [[1995 - Torin's Passage]]
-- [[1996 - Lighthouse - The Dark Being]]
-- [[1996 - Stay Tooned!]]
-- [[1997 - Diablo - Hellfire]]
-- [[2001 - Arcanum]]
-- [[2007 - World in Conflict]]
-
 ## Overview
 
 Kempelen is a chess program developed by Hungarian programmer Attila Kovács and published by Sierra On-Line for the Commodore 64 in 1986[^ref-1][^ref-2][^ref-3]. Named after Wolfgang von Kempelen, the 18th-century Hungarian inventor who constructed the famous chess-playing automaton known as "The Turk," the software represents one of Sierra's ventures into publishing strategy titles during the mid-1980s[^ref-1][^ref-4]. The program was developed by Andromeda Software and later saw international release on additional platforms including the MSX, where it was published by Pony Canyon, Inc. in Japan in 1988[^ref-5][^ref-6].
@@ -270,6 +241,36 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [MobyGames – Kempelen Chess](https://www.mobygames.com/game/20119/kempelen-chess/) – MSX version information[^ref-5]
 - [Chess Programming Wiki – Kempelen](https://www.chessprogramming.org/Kempelen) – Technical development history[^ref-1]
 - [Generation MSX – Kempelen Chess](https://www.generation-msx.nl/software/andromeda-software/kempelen-chess/1106/) – MSX platform database[^ref-7]
+
+## See Also
+
+- [[1981 - Softporn Adventure]]
+- [[1983 - Troll's Tale]]
+- [[1985 - Sierra Championship Boxing]]
+- [[1985 - Stunt Flyer]]
+- [[1985 - The Crimson Crown]]
+- [[1986 - Wrath of Denethenor]]
+- [[1987 - 3-D Helicopter Simulator]]
+- [[1988 - Silpheed]]
+- [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
+- [[1990 - Codename - Iceman]]
+- [[1990 - Jones in the Fast Lane]]
+- [[1990 - Zeliard]]
+- [[1993 - Freddy Pharkas - Frontier Pharmacist]]
+- [[1993 - Pepper's Adventures in Time]]
+- [[1993 - Slater & Charlie Go Camping]]
+- [[1994 - Battle Bugs]]
+- [[1995 - Air Cavalry]]
+- [[1995 - Fast Attack - High Tech Submarine Warfare]]
+- [[1995 - Shannara]]
+- [[1995 - The Ruins of Cawdor]]
+- [[1995 - Torin's Passage]]
+- [[1996 - Lighthouse - The Dark Being]]
+- [[1996 - Stay Tooned!]]
+- [[1997 - Diablo - Hellfire]]
+- [[2001 - Arcanum]]
+- [[2007 - World in Conflict]]
+
 
 ## References
 

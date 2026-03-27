@@ -17,7 +17,7 @@ description: 'Emperor: Rise of the Middle Kingdom is a city-building strategy ga
   by...'
 tags: [2000s, city-building-series, sierra, strategy]
 ---
- Emperor: Rise of the Middle Kingdom
+# Emperor: Rise of the Middle Kingdom
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

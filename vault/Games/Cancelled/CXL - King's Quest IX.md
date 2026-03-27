@@ -21,9 +21,6 @@ tags: [adventure, king-s-quest, roberta-williams, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-
 ## Overview
 
 "King's Quest IX" is an umbrella term for **multiple cancelled attempts** to continue Sierra's flagship adventure game series following [[1998 - King's Quest - Mask of Eternity|King's Quest VIII: Mask of Eternity]] (1998). Between 1998 and 2013, different developers and publishers tried to create a ninth King's Quest, but none reached completion.[^ref-1]
@@ -218,6 +215,9 @@ Much of what is known about these cancelled projects comes from fan community ef
 **Historical Documentation**
 - [King's Quest Omnipedia – KQ9 History](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) - Comprehensive documentation of cancelled projects[^ref-1]
 - [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) - Complete classic series (KQ1-8)[^ref-11]
+
+## See Also
+
 
 ## References
 

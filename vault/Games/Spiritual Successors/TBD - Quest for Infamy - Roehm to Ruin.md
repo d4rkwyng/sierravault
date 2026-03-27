@@ -20,25 +20,6 @@ tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2022 - SpaceVenture]]
-- [[2023 - Colossal Cave 3D Adventure]]
-- [[2023 - Summer Daze - Tilly's Tale]]
-
 ## Overview
 
 *Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG developed by [[Infamous Quests]] serving as a prequel to their 2014 title *Quest for Infamy*.[^ref-1] The game follows the story behind protagonist Mr. Roehm's escape from the Baron's Castle, exploring the fateful events that led him to flee to the Valley of Krasna where the original game begins.[^ref-2] After years in development, the game entered its final stages with voice recording sessions with lead actor Steve Patrick expected to complete production.[^ref-3]
@@ -194,6 +175,26 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 **Related Games**
 - [Quest for Infamy on GOG](https://www.gog.com/game/quest_for_infamy)[^ref-10]
 - [Quest for Infamy on Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)[^ref-12]
+
+## See Also
+
+- [[1993 - Blue Force]]
+- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
+- [[2008 - Ace of Aces]]
+- [[2010 - Gray Matter]]
+- [[2012 - Cognition - An Erica Reed Thriller]]
+- [[2013 - Fester Mudd - Curse of the Gold]]
+- [[2014 - Moebius - Empire Rising]]
+- [[2014 - Quest for Infamy]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2015 - Order of the Thorne - The King's Challenge]]
+- [[2018 - Bolt Riley - A Reggae Adventure]]
+- [[2018 - Hero-U - Rogue to Redemption]]
+- [[2019 - Mage's Initiation - Reign of the Elements]]
+- [[2022 - SpaceVenture]]
+- [[2023 - Colossal Cave 3D Adventure]]
+- [[2023 - Summer Daze - Tilly's Tale]]
+
 
 ## References
 

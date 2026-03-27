@@ -20,24 +20,6 @@ tags: [2020s, adventure, 'null', sierra, two-guys]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-- [[1993 - Blue Force]]
-- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
-- [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
-- [[2013 - Fester Mudd - Curse of the Gold]]
-- [[2014 - Moebius - Empire Rising]]
-- [[2014 - Quest for Infamy]]
-- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
-- [[2015 - Order of the Thorne - The King's Challenge]]
-- [[2018 - Bolt Riley - A Reggae Adventure]]
-- [[2018 - Hero-U - Rogue to Redemption]]
-- [[2019 - Mage's Initiation - Reign of the Elements]]
-- [[2023 - Colossal Cave 3D Adventure]]
-- [[2023 - Summer Daze - Tilly's Tale]]
-
 ## Overview
 
 SpaceVenture is a science fiction comedy adventure game developed by the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest series[^ref-1]. After a brief 25+ year hiatus, Mark Crowe and Scott Murphy joined forces once again to create this spiritual successor to their beloved adventure game franchise[^ref-2]. The game follows Ace Hardway, a "Life Support Systems technician" (essentially a space plumber), and his robotic dog Rooter on an epic intergalactic misadventure[^ref-3].
@@ -165,6 +147,25 @@ The team has continued supporting the game post-release, with v2 updates in late
 
 **Preservation**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/SpaceVenture) – Technical fixes and compatibility information[^ref-19]
+
+## See Also
+
+- [[1993 - Blue Force]]
+- [[2006 - Al Emmo and the Lost Dutchman's Mine]]
+- [[2008 - Ace of Aces]]
+- [[2010 - Gray Matter]]
+- [[2012 - Cognition - An Erica Reed Thriller]]
+- [[2013 - Fester Mudd - Curse of the Gold]]
+- [[2014 - Moebius - Empire Rising]]
+- [[2014 - Quest for Infamy]]
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid]]
+- [[2015 - Order of the Thorne - The King's Challenge]]
+- [[2018 - Bolt Riley - A Reggae Adventure]]
+- [[2018 - Hero-U - Rogue to Redemption]]
+- [[2019 - Mage's Initiation - Reign of the Elements]]
+- [[2023 - Colossal Cave 3D Adventure]]
+- [[2023 - Summer Daze - Tilly's Tale]]
+
 
 ## References
 

@@ -16,7 +16,7 @@ description: Air Force Commander is a real-time strategy wargame developed by Im
   Games and Golden Sector Design, released in 1992 for DOS and Commodore Amiga....
 tags: [1990s, air-force-commander, impressions, sierra, simulation, strategy]
 ---
- Air Force Commander
+# Air Force Commander
 
 <small style="color: gray">Last updated: January 20, 2026</small>
 

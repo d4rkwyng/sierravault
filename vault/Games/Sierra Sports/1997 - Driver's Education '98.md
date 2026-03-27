@@ -15,7 +15,7 @@ description: Driver's Education '98 is an educational driving simulator develope
   by Dynamix and published by Sierra On-Line, with development beginning in 1997 and...
 tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
- Driver's Education '98
+# Driver's Education '98
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 

@@ -16,7 +16,7 @@ description: Hoyle Blackjack was a comprehensive blackjack simulation developed 
   with...
 tags: [1990s, hoyle, sci, sierra, simulation]
 ---
- Hoyle Blackjack
+# Hoyle Blackjack
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 

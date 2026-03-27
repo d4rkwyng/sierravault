@@ -16,7 +16,7 @@ description: '**Field & Stream: Trophy Bass 3D** is a fishing video game develop
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999. The game...'
 tags: [1990s, sierra, simulation, trophy-bass]
 ---
- Field & Stream Trophy Bass 3D
+# Field & Stream Trophy Bass 3D
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 

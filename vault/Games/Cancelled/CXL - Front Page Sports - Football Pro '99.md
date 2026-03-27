@@ -20,9 +20,6 @@ tags: [1990s, front-page-sports, sierra]
 <small style="color: gray">Last updated: March 11, 2026</small>
 
 
-## See Also
-
-
 ## Overview
 
 Front Page Sports Football Pro 99, also marketed as NFL Football Pro '99 and Sierra Sports Football Pro '99, represents one of the most notorious product launches in video game history.[^ref-1] Released on December 22, 1998, this installment marked a dramatic departure for the acclaimed Front Page Sports franchise, abandoning the series' traditional "Front Page Sports" branding in favor of the new "Sierra Sports" label as part of a company-wide restructuring.[^ref-2] The game was developed by [[Sierra On-Line]] and published under their Sierra Sports division, promising a revolutionary new 3D graphics engine to compete with console football games.[^ref-3]
@@ -219,6 +216,9 @@ The recall's long-term impact on Sierra Sports was significant. The planned NFL 
 
 **Download / Preservation**
 - [Noble Knight Games](https://www.nobleknight.com/P/2148206199/Front-Page-Sports-Football-Pro-99) - Physical copies occasionally available[^ref-9]
+
+## See Also
+
 
 ## References
 

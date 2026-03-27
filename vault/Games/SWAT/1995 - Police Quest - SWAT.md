@@ -17,7 +17,7 @@ description: 'Police Quest: SWAT, officially titled *Daryl F. Gates'' Police Que
   first...'
 tags: [1990s, police-quest-swat, sci, sierra, simulation]
 ---
- Police Quest: SWAT
+# Police Quest: SWAT
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

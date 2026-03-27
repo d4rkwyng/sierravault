@@ -15,7 +15,7 @@ description: 'The **Metaltech Earthsiege Speech Pack** was an add-on expansion r
   by Dynamix in 1994 that enhanced the original Metaltech: Earthsiege with digitized...'
 tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
- Metaltech Earthsiege Speech Pack
+# Metaltech Earthsiege Speech Pack
 
 <small style="color: gray">Last updated: February 4, 2026</small>
 

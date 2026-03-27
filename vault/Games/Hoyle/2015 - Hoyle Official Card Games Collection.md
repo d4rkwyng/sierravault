@@ -15,7 +15,7 @@ description: Hoyle Official Card Games Collection 2015 represents a modern conti
   of the venerable Hoyle gaming franchise, which traces its roots back to Sierra...
 tags: [2010s, hoyle-s-official-book-of-games, sierra, simulation]
 ---
- Hoyle Official Card Games Collection 2015
+# Hoyle Official Card Games Collection 2015
 
 <small style="color: gray">Last updated: January 27, 2026</small>
 

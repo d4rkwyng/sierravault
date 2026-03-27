@@ -16,7 +16,7 @@ description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adve
   a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
- Gobliins 6: The Madmen of the Year 1000
+# Gobliins 6: The Madmen of the Year 1000
 
 <small style="color: gray">Last updated: February 11, 2026</small>
 
