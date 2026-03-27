@@ -6,7 +6,7 @@ designer: [Bill Davis, Lorelei Shannon, Josh Mandel]
 publisher: Sierra On-Line
 genre: Educational
 platforms: [DOS, Windows, Amiga, CD-ROM]
-series: 'null'
+series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra

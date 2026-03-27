@@ -6,7 +6,7 @@ designer: [Doug MacNeill, Ken MacNeill]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Apple II, Apple IIGS, Amiga, Atari ST, Mac]
-series: 'null'
+series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra

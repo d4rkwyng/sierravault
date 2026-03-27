@@ -6,7 +6,7 @@ designer: [Al Lowe, Lorelei Shannon]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Windows, Mac, CD-ROM]
-series: 'null'
+series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra

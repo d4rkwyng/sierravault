@@ -7,7 +7,7 @@ publisher: Infamous Quests
 genre: Adventure RPG
 platforms: [PC, Mac, Linux, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One,
   Xbox Series X/S]
-series: 'null'
+series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor

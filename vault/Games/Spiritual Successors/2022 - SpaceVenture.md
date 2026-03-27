@@ -6,7 +6,7 @@ designer: [Mark Crowe, Scott Murphy]
 publisher: Guys from Andromeda
 genre: Adventure
 platforms: [PC, Steam, Linux, Mac, Windows, Android, iOS]
-series: 'null'
+series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
 sierra_lineage: Spiritual Successor

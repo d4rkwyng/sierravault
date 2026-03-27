@@ -6,7 +6,7 @@ designer: [Al Lowe, Roberta Williams]
 publisher: Sierra On-Line
 genre: Adventure
 platforms: [DOS, Apple II, Apple IIgs, Atari ST, Amiga, Tandy 1000, IBM PCjr]
-series: 'null'
+series: Disney
 engine: AGI
 protagonist: Taran
 sierra_lineage: Core Sierra

@@ -6,7 +6,7 @@ designer: [Jane Jensen]
 publisher: dtp entertainment
 genre: Adventure
 platforms: [Microsoft Windows, Xbox 360, Steam, GOG.com]
-series: 'null'
+series: Gray Matter
 engine: Direct3D 9.0c
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
