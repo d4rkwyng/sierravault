@@ -26,7 +26,7 @@ WW2 Air Force Commander is a turn-based war strategy game released in 1993 by [[
 
 The game invites players to "Reach for the Sky with this Epic World War 2 Air Warfare Simulation," offering a comprehensive strategic experience that includes managing resources, bases, pilots, and aircraft across 28 historic WWII scenarios[^ref-5]. Unlike the modern-day Middle Eastern setting of its predecessor, WW2 Air Force Commander focuses entirely on air combat during the Second World War, with gameplay beginning in 1940 during the German attack on Norway[^ref-4]. Players can choose to command either the Allied forces or Germany, experiencing the air war from both perspectives[^ref-4].
 
-Developed during a period when flight simulators and war strategy games were gaining popularity, WW2 Air Force Commander represented Impressions Games' continued exploration of aerial warfare themes[^ref-6]. The game was released for both DOS and Amiga platforms, making it accessible to a broad range of PC gamers of the early 1990s[^ref-1][^ref-7].
+Developed during a period when flight simulators and war strategy games were gaining popularity, WW2 Air Force Commander represented Impressions Games' continued exploration of aerial warfare themes[^ref-6]. The game was released for both DOS and Amiga platforms, making it accessible to a broad range of PC gamers of the early 1990s[^ref-1][^ref-7].[^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

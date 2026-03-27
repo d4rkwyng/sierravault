@@ -32,7 +32,7 @@ The manual is illustrated by Marvel Comics artist Ernie Chan[^ref-1].
 
 According to Corey Cole, the game cost $450,000 to develop[^ref-1].
 
-Trial by Fire is the only game in the series that was never officially remade with VGA graphics by Sierra, though AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-5].
+Trial by Fire is the only game in the series that was never officially remade with VGA graphics by Sierra, though AGD Interactive released a free VGA fan remake in 2008[^ref-1][^ref-5].[^ref-22][^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -120,7 +120,7 @@ Quest for Glory II cost $450,000 to develop, making it one of Sierra's more expe
 
 ### Easter Eggs and Cultural References
 
-The game is filled with pop culture references and hidden jokes[^ref-22]:
+The game is filled with pop culture references and hidden jokes[^ref-22]:[^ref-23]
 - Characters named as parodies: Ad Avis (Bill Davis), Raseir (anagram of Sierra)[^ref-1]
 - References to Casablanca, The Maltese Falcon, and Lawrence of Arabia[^ref-1][^ref-3]
 - Marx Brothers and Star Trek homages[^ref-3]

@@ -31,7 +31,7 @@ Set in Fricana, a land inspired by central African ecosystems, the game explores
 
 According to Corey Cole, the game was developed with a budget of $750,000[^ref-1].
 
-Lori Cole was responsible for "90% of the design work" while also supervising the VGA remake of Quest for Glory I[^ref-1].
+Lori Cole was responsible for "90% of the design work" while also supervising the VGA remake of Quest for Glory I[^ref-1].[^ref-20][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -114,7 +114,7 @@ The game was created using Sierra's SCI1.1 interpreter, marking the first VGA ga
 - Platform release: August 1992 MS-DOS[^ref-1]
 
 ### Easter Eggs and Cameos
-The game contains several pop culture references[^ref-20]:
+The game contains several pop culture references[^ref-20]:[^ref-21]
 - Sanford and Son appear as merchants in Tarna[^ref-3]
 - Laurel and Hardy appear as French Foreign Legion soldiers[^ref-3]
 - Due to a programming oversight, it is impossible to achieve a perfect score in the game[^ref-1]

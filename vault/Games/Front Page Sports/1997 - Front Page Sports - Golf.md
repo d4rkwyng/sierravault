@@ -27,7 +27,7 @@ Front Page Sports: Golf is a golf simulation video game developed by Headgate St
 
 The game's most notable innovation was the TrueSwing control system, a revolutionary mouse-based swing interface that allowed players to directly control their golf swing through mouse movements.[^ref-1] Pulling back on the mouse caused the 3D golfer to begin the backswing motion, while pushing it forward carried out the downswing.[^ref-4] This approach was praised for creating "a greater sense of accomplishment when a good shot is hit" and made the game feel "like golf in a way that no other golf sim duplicates."[^ref-5]
 
-Front Page Sports: Golf distinguished itself from competitors through its less formal approach to the genre, incorporating humor and fun surprises to take "the stuffiness out of your typical golf sim."[^ref-6] The game featured fully rendered 3D polygon golfers rather than the superimposed FMV golfers common in contemporary titles, setting a new standard for visual presentation in golf simulations.[^ref-7]
+Front Page Sports: Golf distinguished itself from competitors through its less formal approach to the genre, incorporating humor and fun surprises to take "the stuffiness out of your typical golf sim."[^ref-6] The game featured fully rendered 3D polygon golfers rather than the superimposed FMV golfers common in contemporary titles, setting a new standard for visual presentation in golf simulations.[^ref-7][^ref-22][^ref-23][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-1]
@@ -97,7 +97,7 @@ Computer Games Strategy Plus featured a review by Jeff Lackey describing TrueSwi
 
 Modern retrospectives continue to praise Front Page Sports: Golf's innovations and lasting playability. GOG.com user reviews describe it as "probably one of the few true golf games in the history of video games" and note that it "continues to be an excellent golf game" decades after release.[^ref-12] The game maintains dedicated fans who have played it for years, with one user stating they've "been addicted to this game for about 10 years now."[^ref-13]
 
-MobyGames user Overmann highlighted that the game "introduced mouse-swing and set the standard for controls in Golf games" while featuring "excellent graphics for the time."[^ref-2] The lasting impact of the TrueSwing system on subsequent golf games demonstrates its historical significance to the genre.
+MobyGames user Overmann highlighted that the game "introduced mouse-swing and set the standard for controls in Golf games" while featuring "excellent graphics for the time."[^ref-2] The lasting impact of the TrueSwing system on subsequent golf games demonstrates its historical significance to the genre.[^ref-24]
 
 **Aggregate Scores:**
 - **GameSpot:** 8.1/10[^ref-6]

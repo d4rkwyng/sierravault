@@ -26,7 +26,7 @@ Gobliins 2: The Prince Buffoon is a puzzle-solving adventure game developed by F
 
 The game maintains the series' reputation for whimsical, surreal puzzle-solving while introducing new mechanics that allow players to travel between rooms and give orders to both characters simultaneously.[^ref-4] Critics praised its visual style and soundtrack, with Amiga Power describing it as "a flawed diamond of a game, the visuals and soundtrack making it worthy of its own TV slot."[^ref-5] Despite having one less character to control, reviewers noted that the game remained just as challenging as its predecessor, with Adventure Classic Gaming observing that "if you think that having one less character to control makes the game considerably easier, however, you will be sadly mistaken."[^ref-2]
 
-The Gobliiins series earned recognition for its unique visual identity, largely attributed to artist [[Pierre Gilhodes]], whose distinctive cartoon aesthetic defined the franchise.[^ref-6] The game represents an important chapter in Coktel Vision's catalog and Sierra's publishing portfolio during the golden age of adventure gaming.
+The Gobliiins series earned recognition for its unique visual identity, largely attributed to artist [[Pierre Gilhodes]], whose distinctive cartoon aesthetic defined the franchise.[^ref-6] The game represents an important chapter in Coktel Vision's catalog and Sierra's publishing portfolio during the golden age of adventure gaming.[^ref-43]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-3]
@@ -93,7 +93,7 @@ Reviews consistently highlighted both the game's strengths and its demanding puz
 
 Modern retrospectives continue to view Gobliins 2 favorably, with appreciation for its unique charm and puzzle design. Adventure Classic Gaming awarded the game 4 out of 5 stars (Very Good) in a February 2010 review, concluding that "Gobliins 2: The Prince Buffoon is a worthy successor to Gobliiins. Despite giving you control of only 2 characters instead of 3, the game still offers plenty of challenging and occasionally frustrating puzzles."[^ref-2]
 
-User reviews on preservation sites demonstrate enduring affection for the game. One enthusiastic reviewer on Downloads Khinsider proclaimed it "One Of the BEST old school adventure games ever!! Awesome GFX and play! I mean it! Totally undernoted, but really kicks major a$$."[^ref-18] Games Nostalgia compiled editorial reviews showing an aggregate score of 81/100 based on 8 reviews.[^ref-24]
+User reviews on preservation sites demonstrate enduring affection for the game. One enthusiastic reviewer on Downloads Khinsider proclaimed it "One Of the BEST old school adventure games ever!! Awesome GFX and play! I mean it! Totally undernoted, but really kicks major a$$."[^ref-18] Games Nostalgia compiled editorial reviews showing an aggregate score of 81/100 based on 8 reviews.[^ref-24][^ref-25]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.5/10

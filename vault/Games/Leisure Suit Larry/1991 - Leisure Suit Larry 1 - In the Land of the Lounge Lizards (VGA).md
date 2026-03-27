@@ -206,7 +206,7 @@ Modern players can resolve most issues using ScummVM, which provides full compat
 
 ### Easter Eggs and Trivia
 
-The game is packed with hidden content and self-referential humor:
+The game is packed with hidden content and self-referential humor:[^ref-38]
 
 - **Ken Williams Cameo:** Sierra CEO Ken Williams appears as a patron in Lefty's Bar and again at the game's conclusion.[^ref-13]
 - **Sierra Staff at Disco:** The disco scene features cartoon versions of the game development team.[^ref-10]

@@ -25,7 +25,7 @@ Hoyle Puzzle & Board Games 2005 is a comprehensive compilation title that bundle
 
 The compilation offered remarkable variety, featuring 18 puzzle games ranging from Mahjong Tiles to Word Searches, alongside 19 board games including perennial favorites like Backgammon and Chess[^ref-3]. This "two Hoyle titles for one great price" approach provided exceptional value for casual gamers and families seeking diverse entertainment options[^ref-3]. The game also included the series' trademark Facemaker feature, allowing players to customize their character by adjusting facial features, clothing, and other attributes to create unique player avatars[^ref-1].
 
-Published by VU Games and distributed by Encore Software, the title was designed to appeal to a broad audience with its ESRB "E for Everyone" rating, noting only "Comic Mischief" as content of note[^ref-4]. The game continued the Hoyle tradition of offering interactive computer opponents with multiple skill levels, ensuring that both casual players and experienced strategists could find appropriate challenges[^ref-4].
+Published by VU Games and distributed by Encore Software, the title was designed to appeal to a broad audience with its ESRB "E for Everyone" rating, noting only "Comic Mischief" as content of note[^ref-4]. The game continued the Hoyle tradition of offering interactive computer opponents with multiple skill levels, ensuring that both casual players and experienced strategists could find appropriate challenges[^ref-4].[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment, Inc.[^ref-3]

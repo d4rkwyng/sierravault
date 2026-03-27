@@ -25,7 +25,7 @@ The Charge of the Light Brigade is a real-time strategy game developed and publi
 
 The title employs Impressions' "miniature-style" battle simulation system, enhanced based on user feedback from their previous games Cohort and Rorke's Drift[^ref-4]. This system presents beautifully animated soldier figures on a diagonal-down battlefield perspective, allowing players to control individual units or groups of up to eight soldiers through an entirely mouse and icon-driven interface[^ref-5]. The game's historical accuracy extends to its difficulty, reflecting the genuine futility of the Light Brigade's ill-fated charge where, of the 673 men who began the assault, only 195 were fit for action at its conclusion[^ref-6].
 
-Impressions Games, founded in 1989, would later be acquired by Sierra On-Line in 1995, making this title part of the extended Sierra family of games[^ref-7]. The game received mixed reviews upon release, with critics praising its innovative visual presentation while noting significant interface and pacing issues that hampered the strategic gameplay experience[^ref-8].
+Impressions Games, founded in 1989, would later be acquired by Sierra On-Line in 1995, making this title part of the extended Sierra family of games[^ref-7]. The game received mixed reviews upon release, with critics praising its innovative visual presentation while noting significant interface and pacing issues that hampered the strategic gameplay experience[^ref-8].[^ref-21][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

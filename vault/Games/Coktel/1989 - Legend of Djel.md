@@ -153,32 +153,15 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [^ref-6]: [The Adventurers' Guild](https://advgamer.blogspot.com/2016/12/missed-classic-31-legend-of-djel-1989.html) - Comprehensive game background and gameplay mechanics
 [^ref-7]: [Amiga Magazine Rack](http://amr.abime.net/review_1852) - Contemporary reviews from multiple Amiga publications
 [^ref-8]: [Amiga Magazine Rack](http://amr.abime.net/review_26388) - Preview from Amiga Computing magazine 1989
-[^ref-9]: [Amiga Magazine Rack](http://amr.abime.net/review_24523) - Historical review archive with pricing information
-[^ref-10]: [DOS Spirit](https://dosspirit.net/eng/game/legend-of-djel/326) - Retro gaming database with no specific information found
-[^ref-11]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sierra_Entertainment) - General Sierra company history
 [^ref-12]: [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Djel) - Comprehensive article with contemporary gaming magazine references
-[^ref-13]: [The Digital Antiquarian](https://www.filfre.net/?s=Legend+of+Djel) - Search results with no posts found
-[^ref-14]: [The Digital Antiquarian](https://www.filfre.net/tag/dynamix/) - Historical analysis of Sierra's corporate strategy
-[^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/search?game=Legend+of+Djel) - Empty search results page
-[^ref-16]: [Games Database](https://www.gamesdatabase.org/game/commodore-amiga/legend-of-djel) - Basic publication metadata for 1989 puzzle game
-[^ref-17]: [Games Database](https://www.gamesdatabase.org/game/atari-st/legend-of-djel) - Basic cataloging information
 [^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/72249-legend-of-djel) - Database entry with review commentary
-[^ref-19]: [IMDb](https://www.imdb.com/find/?q=Legend+of+Djel&s=tt) - Search results with no direct matches
-[^ref-20]: [Internet Archive – Legend of Djel](https://archive.org/details/msdos_Legend_of_Djel_1989) – DOS version preservation
 [^ref-21]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3317) - Comprehensive game database with technical details and user commentary
-[^ref-22]: [Hall of Light – Legend of Djel](https://hol.abime.net/577) – Amiga database entry
 [^ref-21]: [Lemon Amiga – Legend of Djel](https://www.lemonamiga.com/games/details.php?id=577) – Amiga version details
-[^ref-24]: [MobyGames](https://www.mobygames.com/game/3839/) - Game database entry
 [^ref-25]: [MobyGames](https://www.mobygames.com/game/3839/legend-of-djel/) - Comprehensive game metadata and ratings
 [^ref-26]: [MobyGames](https://www.mobygames.com/game/6218/the-prophecy/) - Related game profile with development context
-[^ref-27]: [MobyGames](https://www.mobygames.com/search/?q=Legend+of+Djel) - Search results with basic platform information
 [^ref-28]: [MobyGames](https://www.mobygames.com/game/legend-of-djel/techinfo) - Technical specifications across platforms
-[^ref-29]: [MyAbandonware](https://www.myabandonware.com/search/q/Legend+of+Djel) - Search results showing game existence
 [^ref-30]: [MyAbandonware](https://www.myabandonware.com/game/legend-of-djel-ou) - Preservation site with user reviews
-[^ref-31]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-legend-of-djel-online/) - Game listing with basic information
-[^ref-32]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) - Forum discussion about Sierra product definitions
 [^ref-33]: [SierraHelp](https://sierrahelp.com/Walkthroughs/LegendOfDjelWalkthrough.html) - Comprehensive walkthrough with gameplay instructions
 [^ref-34]: [SquakeNet](https://www.squakenet.com/game/legend-of-djel/) - Informal game review and description
-[^ref-35]: [Steam](https://store.steampowered.com/search/?term=Legend+of+Djel) - Search page showing no results
 [^ref-36]: [UVList](https://www.uvlist.net/game-162398-Legend+of+Djel) - Game database with technical details and historical scores
 [^ref-37]: [XTC Abandonware](https://www.xtcabandonware.com/game/553/legend-of-djel) - Abandonware preservation site with historical context

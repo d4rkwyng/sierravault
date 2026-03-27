@@ -25,7 +25,7 @@ Hoyle Casino 2003 is a comprehensive casino simulation game developed and publis
 
 The title featured fourteen standard casino games including Blackjack, Craps, Roulette, Poker, Slots, Baccarat, Caribbean Stud Poker, Three Card Poker, Let It Ride, Pai Gow Poker, Video Blackjack, Video Poker, Horse Racing, and Keno[^ref-5][^ref-6]. Players interacted with ten animated 3D characters, five of which were brand new additions for the 2003 edition[^ref-4][^ref-5]. The game also supported handheld gaming, with Blackjack and Video Poker available for Palm OS and Windows CE devices[^ref-4][^ref-7].
 
-Hoyle Casino 2003 received an ESRB rating of "E for Everyone" with a content descriptor for simulated gambling[^ref-8]. While critics noted the game was nearly indistinguishable from its predecessor Hoyle Casino 2002, it remained popular among casual gamers seeking virtual casino entertainment without financial risk[^ref-9]. The previous installment, Hoyle Casino 2000, had demonstrated the franchise's commercial viability by selling 230,365 units and earning $6.15 million in North America during 2000[^ref-3].
+Hoyle Casino 2003 received an ESRB rating of "E for Everyone" with a content descriptor for simulated gambling[^ref-8]. While critics noted the game was nearly indistinguishable from its predecessor Hoyle Casino 2002, it remained popular among casual gamers seeking virtual casino entertainment without financial risk[^ref-9]. The previous installment, Hoyle Casino 2000, had demonstrated the franchise's commercial viability by selling 230,365 units and earning $6.15 million in North America during 2000[^ref-3].[^ref-16][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -87,7 +87,7 @@ An earlier GameFAQs review of the Hoyle Casino series by JPeeples rated a previo
 
 Amazon UK customer reviews from 2013-2017 show continued appreciation for the game, with a 4.8/5 star rating based on three global ratings[^ref-4]. Customer Marlene Smith noted she "Purchased this to replace the one that I wore out tried a few newer versions but still like this the best"[^ref-4]. Another customer, kath, revealed she was "still playing it. This is my second disc and use it every day"[^ref-4].
 
-My Abandonware users have given the broader Hoyle Casino series a rating of 4/5[^ref-12].
+My Abandonware users have given the broader Hoyle Casino series a rating of 4/5[^ref-12].[^ref-17]
 
 **Aggregate Scores:**
 - **Amazon UK:** 4.8/5 (3 ratings)[^ref-4]
@@ -307,4 +307,3 @@ The inclusion of handheld device support demonstrated forward-thinking design th
 
 [^ref-19]: [Kanobu.ru – Hoyle Casino 2003](https://kanobu.ru/games/hoyle-casino-2003/reviews/) – release year confirmation
 
-[^ref-20]: [Sierra Fandom Wiki](https://sierra.fandom.com/) – series lineage, Hoyle brand history

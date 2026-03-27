@@ -46,7 +46,7 @@ The narrative of SWAT 3 unfolds over seven intense days in Los Angeles during 20
 
 Throughout the campaign's sixteen missions, players encounter a variety of fictional terrorist groups with diverse motivations.[^ref-11] These include a Kurdish splinter group, a Russian communist organization, and a paranoid American militia—all of whom threaten to disrupt the peace treaty and potentially "nuke L.A."[^ref-11] One early mission involves responding to three days of sniper fire along the Pasadena freeway that have resulted in the deaths of five motorists.[^ref-12] Another mission presents the classic scenario: "211 in progress with shots fired. Officer down. Armed suspects with hostages. Respond Code 3!"[^ref-9]
 
-The missions take players through realistic Los Angeles locations including the sewer system, Convention Center, LAX airport, Chang's Chinese Theater, Hollywood Hills, and various hotels and hospitals.[^ref-4] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-13] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14]
+The missions take players through realistic Los Angeles locations including the sewer system, Convention Center, LAX airport, Chang's Chinese Theater, Hollywood Hills, and various hotels and hospitals.[^ref-4] Each scenario presents unique tactical challenges, from dangerous arrests and hostage rescue to VIP escort and bomb tracking operations.[^ref-13] The game emphasizes that officers are police officers, not soldiers—and certainly "not the judge, jury, and executioner."[^ref-14][^ref-40]
 
 ## Gameplay
 

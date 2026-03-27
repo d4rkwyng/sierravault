@@ -19,14 +19,13 @@ tags: [1980s, shooter, sierra, standalone]
 
 <small style="color: gray">Last updated: March 27, 2026</small>
 
-
 ## Overview
 
 Silpheed is a groundbreaking vertical scrolling shooter that debuted on the Japanese NEC PC-8801 on December 5, 1986, before being brought to Western audiences by Sierra On-Line in 1988-1989.[^ref-1][^ref-2] Developed by Game Arts, the game pioneered the use of real-time 3D polygonal graphics and a tilted third-person perspective, making it one of the most technically ambitious titles of the 8-bit era.[^ref-3][^ref-4] The game was notable for being one of the first to use music as a major selling point, featuring a phenomenal soundtrack that pushed perceptions of what computer game audio could achieve.[^ref-5][^ref-6]
 
 In Silpheed, the player pilots a spaceship through twenty levels of increasing difficulty in a pseudo-3D vertically scrolling field, shooting everything in their path while collecting power-ups and new weapons.[^ref-5][^ref-7] The game introduced the novel concept of sectional damage to the shooter genre, allowing different parts of the ship to be damaged independently.[^ref-8] This defining moment in shooter history is considered "one of the rare games that can sell on the merits of its 'bells and whistles' alone," combining classic arcade fun with more depth than typical action-oriented games of its time.[^ref-9][^ref-10]
 
-Sierra On-Line brought Silpheed to Western markets as part of their strategy to publish international game titles, having established a relationship with Game Arts that also produced the acclaimed Thexder.[^ref-11][^ref-12] The game became a showcase title for the Creative Game Blaster sound card, being bundled with the hardware to demonstrate its musical capabilities.[^ref-7][^ref-13]
+Sierra On-Line brought Silpheed to Western markets as part of their strategy to publish international game titles, having established a relationship with Game Arts that also produced the acclaimed Thexder.[^ref-11][^ref-12] The game became a showcase title for the Creative Game Blaster sound card, being bundled with the hardware to demonstrate its musical capabilities.[^ref-7][^ref-13][^ref-50][^ref-51][^ref-52]
 
 > [!info]- Game Info
 > **Developer:** Game Arts[^ref-1]
@@ -283,7 +282,6 @@ The game's influence extended beyond its immediate commercial success. The tilte
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

@@ -23,7 +23,7 @@ tags: [1990s, aces-series, sierra, simulation]
 
 Aces of the Deep stands as one of the most acclaimed submarine simulations ever created, developed by Dynamix and published by Sierra On-Line in 1994[^ref-1]. Set during World War II, the game puts players in command of German U-boats during the period between September 1939 and May 1945, when "Germany launched over 1,000 U-boats into combat against the Allies"[^ref-2]. As Computer Gaming World proclaimed, "Aces of the Deep sets the standard for submarine simulations, perhaps even simulations in general"[^ref-2].
 
-The game was groundbreaking for its time, featuring what the German gaming wiki describes as a "3D-Grafikengine war für ihre Zeit revolutionär" (3D graphics engine that was revolutionary for its time)[^ref-3]. Players take on the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. The simulation allows players to "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys"[^ref-4], offering campaigns that can span the entire war if desired[^ref-4].
+The game was groundbreaking for its time, featuring what the German gaming wiki describes as a "3D-Grafikengine war für ihre Zeit revolutionär" (3D graphics engine that was revolutionary for its time)[^ref-3]. Players take on the role of a U-boat commander, stalking enemy convoys in what the game describes as "a battle where the hunter quickly becomes the hunted"[^ref-2]. The simulation allows players to "take command of one of seven German U-Boats during WWII and hunt down and destroy allied convoys"[^ref-4], offering campaigns that can span the entire war if desired[^ref-4].[^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -122,7 +122,6 @@ Aces of the Deep remains respected as a watershed moment in naval simulation des
 
 The game's success influenced Sierra's decision to continue expanding the Aces franchise with additional theater-specific titles[^ref-2]. Authentic submarine mechanics and historically-grounded campaigns set precedents for future naval combat simulators[^ref-3]. The title demonstrated that niche simulation gaming could achieve commercial success while maintaining simulation authenticity[^ref-4].
 
-
 The game's enduring legacy demonstrates the viability of detailed submarine simulation as an engaging entertainment experience[^ref-4].
 
 Its legacy continues to inspire modern submarine simulators seeking to balance historical authenticity with engaging gameplay[^ref-5].
@@ -141,13 +140,12 @@ Aces of the Deep's influence on the submarine simulation genre cannot be oversta
 
 The game's historical research methodology set new standards for the industry, with the development team conducting extensive interviews with actual U-boat veterans in Germany[^ref-11]. This attention to authenticity extended to gameplay features like the Leader Board, which "tracked actual week-by-week tonnage records of real U-boat skippers like Prien and Kretschmer"[^ref-11], and historically accurate convoy placement during gameplay[^ref-11].
 
-Mike Jones reflected on the development challenges, noting that "Software development, especially game development, is still an art"[^ref-11]. The game's preservation continues today through multiple archive sources[^ref-15][^ref-16][^ref-17], ensuring that this landmark simulation remains accessible to new generations of players seeking authentic submarine warfare experiences.
+Mike Jones reflected on the development challenges, noting that "Software development, especially game development, is still an art"[^ref-11]. The game's preservation continues today through multiple archive sources[^ref-15][^ref-16][^ref-17], ensuring that this landmark simulation remains accessible to new generations of players seeking authentic submarine warfare experiences.[^ref-28]
 
 ## Purchase
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
-
 
 ### ### Naval Simulation Authenticity
 
@@ -186,14 +184,7 @@ Aces of the Deep challenged players to employ authentic submarine warfare tactic
 [^ref-18]: [Sierra Help Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - DOSBox compatibility installer
 [^ref-19]: [GOG Forum Discussion](https://www.gog.com/forum/general_archive/aces_of_the_deep) – - User preference discussion
 [^ref-20]: [Military History Wiki](https://military-history.fandom.com/wiki/Heinrich_Liebe) – - Historical reference to "Aces of the Deep list"
-[^ref-21]: [SierraChest Expansion Database](https://sierrachest.com/index.php?a=games&id=251&fld=publications) – - Expansion disk metadata
-[^ref-22]: [Sierra Help Maps](https://sierrahelp.com/Documents/Maps.html) – - Game map resources
-[^ref-23]: [MobyGames Cover Art](https://www.mobygames.com/game/aces-of-the-deep/cover-art/gameCoverId,518450/) – - Packaging information
 [^ref-24]: [SierraChest Engine Database](https://www.sierrachest.com/site/index.php?a=engines&id=15) – - Engine categorization
 [^ref-25]: [Internet Archive Manual](https://archive.org/details/Command_Aces_Of_The_Deep_-_Manual) – - Manual documentation
 [^ref-26]: [Internet Archive Video](https://archive.org/details/012385) – - Video content preservation
-[^ref-27]: [Encyclopaedia Disambiguation](https://encyclopaedia.fandom.com/de/wiki/AOD) – - Basic game identification
 [^ref-28]: [Forums Sierra Help](http://forums.sierrahelp.com/viewtopic.php?t=2183) – - Community support forum
-[^ref-29]: [GOG Command Wishlist](https://www.gog.com/dreamlist/game/command-aces-of-the-deep) – - Community voting for re-release
-[^ref-30]: [Magazines From Past](https://magazinesfromthepast.fandom.com/wiki/PC_Player_Issue_1) – - Historical magazine reference
-[^ref-31]: [MobyGames Main Page](https://www.mobygames.com/game/1171/) – - Primary database entry

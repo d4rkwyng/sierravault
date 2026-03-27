@@ -25,7 +25,7 @@ tags: [1990s, hoyle-casino, sierra]
 
 **Hoyle Casino: Poker**, released in 1997, represents Sierra's first dedicated foray into the world of poker gaming.[^ref-1] Set in a virtual Las Vegas casino environment, players create profiles and are given a set amount of virtual money to gamble with across various poker variants.[^ref-2] The game launched as part of Sierra's broader Hoyle franchise, which licensed the famous Hoyle brand name from the traditional card game rule book series.[^ref-3]
 
-Sierra has created what reviewer Walter Morbeck described as "an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game offers all the excitement of a real poker game mixed with Sierra's unique brand of humor, featuring spirited stereotypical characters, each with their own corny jokes, egos, and distinctive playing styles.[^ref-1][^ref-5] The game's tagline promoted bluffing and attitude, encouraging players to read their opponents and exploit their weaknesses at the virtual poker table.
+Sierra has created what reviewer Walter Morbeck described as "an admirable job of creating a sharp and faithful rendition of poker."[^ref-4] The game offers all the excitement of a real poker game mixed with Sierra's unique brand of humor, featuring spirited stereotypical characters, each with their own corny jokes, egos, and distinctive playing styles.[^ref-1][^ref-5] The game's tagline promoted bluffing and attitude, encouraging players to read their opponents and exploit their weaknesses at the virtual poker table.[^ref-10][^ref-16][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -270,7 +270,3 @@ The combination of multiple poker variants, AI opponents with distinct styles, a
 [^ref-17]: [Internet Archive - Friday Night Hoyle Poker](https://archive.org/details/friday-night-hoyle-poker_202209) – Online functionality and related games
 [^ref-18]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Community discussion on Sierra classics
 [^ref-19]: [Giant Bomb - Hoyle Poker](https://www.giantbomb.com/) - wiki
-[^ref-20]: [IGDB - Hoyle Poker](https://www.igdb.com/) - IGDB
-[^ref-21]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
-[^ref-22]: [GameFAQs - Hoyle](https://gamefaqs.gamespot.com/) - database
-[^ref-23]: [UVList - Hoyle](https://www.uvlist.net/) - Universal List

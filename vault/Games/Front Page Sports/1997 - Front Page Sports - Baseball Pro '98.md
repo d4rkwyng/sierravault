@@ -27,7 +27,7 @@ Front Page Sports: Baseball Pro '98 is a baseball sports simulation video game d
 
 The game's depth was considered overwhelming by contemporary reviewers, with one publication noting that "if you can think it up, there's a 99 percent chance that there's a way to do it"[^ref-4]. Front Page Sports: Baseball Pro '98 distinguished itself from arcade-focused competitors like EA's Triple Play series by targeting "a more mature, contemplative, 'expert' audience by offering many gameplay features and reams of in-depth statistics"[^ref-5]. This approach earned it recognition as "one of the very best baseball simulations ever made," though critics acknowledged that "anyone looking for furious action on the pitch should look elsewhere"[^ref-6].
 
-The game featured licensed content from the Major League Baseball Players Association, including 1996 and 1997 player rosters, all 28 major league ballparks rendered in 3D, and player statistics tracked across over 2,000 categories[^ref-7]. Randy Johnson appeared on the cover, continuing his role from the previous '96 edition[^ref-2]. The title was praised for its pioneering use of sabermetric principles "before they were widely known" in mainstream gaming[^ref-8], and it remains popular among online simulation leagues to this day[^ref-9].
+The game featured licensed content from the Major League Baseball Players Association, including 1996 and 1997 player rosters, all 28 major league ballparks rendered in 3D, and player statistics tracked across over 2,000 categories[^ref-7]. Randy Johnson appeared on the cover, continuing his role from the previous '96 edition[^ref-2]. The title was praised for its pioneering use of sabermetric principles "before they were widely known" in mainstream gaming[^ref-8], and it remains popular among online simulation leagues to this day[^ref-9].[^ref-26][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -95,7 +95,7 @@ Computer Game Review awarded the '96 predecessor 86 out of 100[^ref-9], establis
 
 The game maintains a devoted following among baseball simulation enthusiasts. User reviews on GOG's wishlist praise it as "one of the greatest baseball simulation games ever" and note that "the results in the simulated games were always believable"[^ref-8]. GameFAQs users rate it as "Great" based on 9 ratings, with typical playtimes of around 47 hours[^ref-15].
 
-AllGame reviewer Brad Cook called it "a baseball lover's dream come true" while advising that "if you just want a pure arcade game, you'd be better off passing this one by and going for one like Electronic Arts' Triple Play"[^ref-16].
+AllGame reviewer Brad Cook called it "a baseball lover's dream come true" while advising that "if you just want a pure arcade game, you'd be better off passing this one by and going for one like Electronic Arts' Triple Play"[^ref-16].[^ref-27]
 
 **Aggregate Scores:**
 - **MobyGames:** 71% (9 reviews)[^ref-3]

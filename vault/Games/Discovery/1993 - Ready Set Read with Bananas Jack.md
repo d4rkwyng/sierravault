@@ -26,7 +26,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 
 Ready, Set, Read with Bananas & Jack is an educational software title developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1993 as part of the Sierra Discovery Series[^ref-1][^ref-2]. The game was designed to help young children learn fundamental reading skills, including alphabet recognition, word building, rhyming, sight words, and phonetic sounds[^ref-1]. It served as a sequel to Alphabet Blocks, expanding on Bright Star's established "Talking Tutor" methodology for educational software[^ref-3].
 
-The software features two animated host characters—Bananas, a monkey, and Jack, a jack-in-the-box—who guide children through various learning activities set within a playhouse environment containing six different playrooms[^ref-1][^ref-4]. The game was also marketed under the alternate title "Beginning Reading" and was designed with a philosophy of positive reinforcement, avoiding negative feedback for incorrect answers[^ref-1]. Instead, the educational approach reduces available choices over time to help struggling learners succeed[^ref-1].
+The software features two animated host characters—Bananas, a monkey, and Jack, a jack-in-the-box—who guide children through various learning activities set within a playhouse environment containing six different playrooms[^ref-1][^ref-4]. The game was also marketed under the alternate title "Beginning Reading" and was designed with a philosophy of positive reinforcement, avoiding negative feedback for incorrect answers[^ref-1]. Instead, the educational approach reduces available choices over time to help struggling learners succeed[^ref-1].[^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Bright Star Technology]][^ref-1]
@@ -46,7 +46,7 @@ Ready, Set, Read with Bananas & Jack does not follow a traditional narrative str
 
 The playhouse setting contains six different playrooms, each offering various reading and language activities designed to engage young learners[^ref-4]. Children interact with the animated hosts who provide encouragement and assistance as they progress through alphabet ordering, word building, and story reading exercises[^ref-1][^ref-4].
 
-The characters appear throughout the game with animated surprises, including brass orchestra congratulations for successful completion of tasks, running man animations, sun animations, and fairy animations that reward progress and keep children engaged[^ref-4].
+The characters appear throughout the game with animated surprises, including brass orchestra congratulations for successful completion of tasks, running man animations, sun animations, and fairy animations that reward progress and keep children engaged[^ref-4].[^ref-14]
 
 ## Gameplay
 

@@ -26,7 +26,7 @@ Merchant Colony is a complex strategy and business simulation game released in 1
 
 Set in the 18th century, Merchant Colony simulates the naval trading and colonial expansion that characterized the era of great merchant companies like the East India Trading Company[^ref-3]. Players take on the role of a beginner shipowner with limited capital who must develop their business through shrewd trading, colony establishment, and strategic resource management[^ref-4]. The game encompasses colonization, industrial development, trading, and warfare, offering a comprehensive simulation of geo-politics during the age of expansionism[^ref-5].
 
-Despite receiving mixed reviews from contemporary gaming magazines, Merchant Colony has attracted a dedicated cult following among fans of historical strategy games. The game is considered a forerunner to Impressions' later and more polished title, High Seas Trader (1995), and was released three years before Sid Meier's celebrated Colonization[^ref-6].
+Despite receiving mixed reviews from contemporary gaming magazines, Merchant Colony has attracted a dedicated cult following among fans of historical strategy games. The game is considered a forerunner to Impressions' later and more polished title, High Seas Trader (1995), and was released three years before Sid Meier's celebrated Colonization[^ref-6].[^ref-20][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -170,7 +170,7 @@ The game was noted for its steep learning curve and complex interface, which con
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|
+|---------|------|----------|-------|[^ref-27]
 | 1.0 | 1991 | DOS, Amiga, Atari ST | Initial release[^ref-1] |
 | 1.1 | 1991 | DOS | Updated version available on preservation sites[^ref-7] |
 | 1.31 | Unknown | MacOS | Later port for classic Macintosh[^ref-7] |
@@ -203,7 +203,6 @@ Merchant Colony occupies an interesting position in gaming history as an ambitio
 The dramatic variance in contemporary review scores—from 23% to 89%—illustrates how the game appealed strongly to players who appreciated its depth while frustrating those seeking more accessible gameplay. This polarization is characteristic of niche strategy titles that prioritize simulation depth over broad accessibility.
 
 From a design perspective, Merchant Colony's influence can be traced through Impressions' later work, particularly High Seas Trader which refined many of the same concepts. The game represents an early exploration of themes—global trade, colonial expansion, economic management—that would become popular subgenres in their own right. While not a landmark title, Merchant Colony deserves recognition as a notable effort in historical economic simulation.
-
 
 ## Purchase
 
@@ -264,9 +263,5 @@ From a design perspective, Merchant Colony's influence can be traced through Imp
 [^ref-20]: [GameFAQs – Merchant Colony](https://gamefaqs.gamespot.com/pc/980547-merchant-colony) – genre classification, difficulty rating, similar games
 [^ref-21]: [GameFAQs – Merchant Colony Data](https://gamefaqs.gamespot.com/pc/980547-merchant-colony/data) – regional release information
 [^ref-22]: [IMDB – Merchant Colony](https://www.imdb.com/title/tt11465814/) – country of origin, release year
-[^ref-23]: [Wikidata – Merchant Colony](https://www.wikidata.org/wiki/Q29907237) – genre classification, platforms, country of origin
-[^ref-24]: [DOS Zone – Merchant Colony](https://dos.zone/merchant-colony-1991/) – browser playability, platform confirmation
-[^ref-25]: [Games Database – Merchant Colony (Atari ST)](https://www.gamesdatabase.org/game/atari-st/merchant-colony) – platform availability
-[^ref-26]: [Games Database – Merchant Colony (Amiga)](https://www.gamesdatabase.org/game/commodore-amiga/merchant-colony) – cross-platform release confirmation
 
 [^ref-27]: [Atari Legend – Merchant Colony](https://www.atarilegend.com/games/2201) – designer credit (Simon Bradbury), graphics team

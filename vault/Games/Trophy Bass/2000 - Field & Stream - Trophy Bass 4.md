@@ -29,7 +29,7 @@ tags:
 
 Field & Stream: Trophy Bass 4 is a fishing simulation game developed by [[Dynamix]] and published by Sierra Sports, released in May 2000 for Windows[^ref-1][^ref-2]. The fourth entry in the Trophy Bass series, the game expanded on its predecessors with 25 real-world lakes reconstructed across the United States, over 30 species of freshwater game fish including stripers, walleyes, catfish, and muskies, and thousands of rod, reel, and lure combinations[^ref-3][^ref-4].
 
-GameSpot's Stephen Poole awarded the game 8.2/10[^ref-1], while IGN gave it 8/10[^ref-5]. The game earned a 74% aggregate score on GameRankings[^ref-1]. Published under the Field & Stream magazine licensing agreement, Trophy Bass 4 continued Sierra Sports' strategy of targeting outdoor sports enthusiasts alongside traditional gamers, a market segment where the earlier Trophy Bass titles had found significant commercial success[^ref-6].
+GameSpot's Stephen Poole awarded the game 8.2/10[^ref-1], while IGN gave it 8/10[^ref-5]. The game earned a 74% aggregate score on GameRankings[^ref-1]. Published under the Field & Stream magazine licensing agreement, Trophy Bass 4 continued Sierra Sports' strategy of targeting outdoor sports enthusiasts alongside traditional gamers, a market segment where the earlier Trophy Bass titles had found significant commercial success[^ref-6].[^ref-16][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -79,7 +79,7 @@ Stephen Poole's GameSpot review praised the game's improvements over Trophy Bass
 
 ### Modern Assessment
 
-Amazon customer reviews maintain a 3.8/5 average rating[^ref-3], though users report compatibility issues with Windows 7 and Vista, including graphics problems and disc-reading errors on newer systems[^ref-3]. MyAbandonware users rate the game 4.75/5[^ref-9], reflecting strong nostalgia among the fishing simulation community. CNET Download users gave it 4.2/5[^ref-10]. GamePressure users rated it 7.8/10[^ref-4].
+Amazon customer reviews maintain a 3.8/5 average rating[^ref-3], though users report compatibility issues with Windows 7 and Vista, including graphics problems and disc-reading errors on newer systems[^ref-3]. MyAbandonware users rate the game 4.75/5[^ref-9], reflecting strong nostalgia among the fishing simulation community. CNET Download users gave it 4.2/5[^ref-10]. GamePressure users rated it 7.8/10[^ref-4].[^ref-18]
 
 ## Development
 

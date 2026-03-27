@@ -22,7 +22,7 @@ tags: [2020s, fps, multiplayer, tribes, dynamix]
 
 Tribes 3: Rivals is a first-person shooter developed and published by Prophecy Games for Windows.[^ref-1] Released into Early Access on Steam on March 12, 2024, it is the latest entry in the Tribes franchise, originally created by Dynamix and Sierra Entertainment with [[1998 - Starsiege - Tribes|Starsiege: Tribes]].[^ref-2]
 
-Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes formula of jet-pack enhanced multiplayer combat with an emphasis on high-speed movement and "skiing" mechanics.[^ref-2]
+Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes formula of jet-pack enhanced multiplayer combat with an emphasis on high-speed movement and "skiing" mechanics.[^ref-2][^ref-7][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** Prophecy Games[^ref-1]
@@ -39,7 +39,7 @@ Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes
 
 Prophecy Games, an independent studio, developed Tribes 3: Rivals as an attempt to revive the classic Tribes franchise that had been dormant since Tribes: Ascend (2012).[^ref-2] The game was built using Unreal Engine 5, representing a significant technical upgrade from previous entries.[^ref-1] Lead programmer Mick Larkins headed the development effort, with designer Erez Goren overseeing the gameplay vision.[^ref-1][^ref-12]
 
-The development team focused on recreating the core Tribes experience while attracting both veterans and new players to the series.[^ref-5]
+The development team focused on recreating the core Tribes experience while attracting both veterans and new players to the series.[^ref-5][^ref-9]
 
 ## Gameplay
 
@@ -92,7 +92,7 @@ The game failed to reach a thousand concurrent players and has maintained only a
 On June 27, 2024, Prophecy Games posted an announcement on Steam stating that neither Tribes 3: Rivals nor their other title Starsiege: Deadzone "had enough success yet to support the studio."[^ref-4] The developer announced that updating the game would no longer be their main focus, effectively putting the title on indefinite hiatus.[^ref-4] PC Gamer's retrospective coverage noted that the game "looks cooked after three months," reflecting the rapid decline in player engagement.[^ref-4]
 
 | Metric | Status |
-|--------|--------|
+|--------|--------|[^ref-17][^ref-19]
 | Peak Players | Under 1,000[^ref-3] |
 | Current Status | Development paused[^ref-4] |
 | Steam Reviews | Mixed |
@@ -159,4 +159,3 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-17]: [IGN Coverage](https://www.ign.com/articles/tribes-3-rivals-preview) – preview coverage
 [^ref-18]: [Gamerant – Tribes History](https://gamerant.com/tribes-franchise-history/) – series background
 [^ref-19]: [Metacritic User Reviews](https://www.metacritic.com/game/tribes-3-rivals/user-reviews/) – community reception
-[^ref-20]: [Steam Community Hub](https://steamcommunity.com/app/2687970/) – player discussions

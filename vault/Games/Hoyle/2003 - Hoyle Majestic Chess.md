@@ -27,7 +27,7 @@ Hoyle Majestic Chess is a chess video game developed by Fluent Entertainment, In
 
 The game was marketed as a chess product that could "go head to head with Chessmaster on any feature point" while offering something entirely unique in its adventure-based learning approach.[^ref-3] Hoyle Majestic Chess featured multiple play styles including traditional chess matches, tutorial modes, puzzles, and the signature Chess Adventure campaign.[^ref-4] The game received generally positive reviews from critics, earning an aggregate score of 78% on GameRankings and praise for its accessibility to players of all skill levels.[^ref-2]
 
-The European release came significantly later, on February 25, 2005, published by JoWooD Productions under the shortened title "Majestic Chess."[^ref-2] An Xbox version was announced in April 2003 but was ultimately canceled, leaving the Windows platform as the sole release.[^ref-2] The game has developed a devoted following over the years, with many players considering it the best chess learning tool ever created.[^ref-5]
+The European release came significantly later, on February 25, 2005, published by JoWooD Productions under the shortened title "Majestic Chess."[^ref-2] An Xbox version was announced in April 2003 but was ultimately canceled, leaving the Windows platform as the sole release.[^ref-2] The game has developed a devoted following over the years, with many players considering it the best chess learning tool ever created.[^ref-5][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** Fluent Entertainment, Inc.[^ref-1]

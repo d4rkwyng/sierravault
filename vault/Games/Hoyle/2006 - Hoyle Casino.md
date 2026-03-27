@@ -26,7 +26,7 @@ Hoyle Casino 2006 is a comprehensive casino simulation game released on Septembe
 
 The 2006 edition distinguishes itself by offering more than 500 variants of 16 of the most popular casino games[^ref-5][^ref-1]. This staggering variety includes Texas Hold'em, slots, video poker, and numerous table games, all presented with detailed tutorials and an official rulebook[^ref-1]. The game received an ESRB rating of E for Everyone, with content descriptors noting Mild Language and Simulated Gambling[^ref-6][^ref-5], making it accessible to a wide audience seeking casino entertainment without real monetary stakes.
 
-User reception for Hoyle Casino 2006 was notably positive, with one GameSpot user reviewer describing it as "the only casino game out so far that gets it right" and praising its "dizzying selection of casino games and excellent instruction"[^ref-7]. The game was positioned as an educational tool as much as entertainment, with its comprehensive tutorials reportedly helping players develop skills applicable to real casino gaming[^ref-7].
+User reception for Hoyle Casino 2006 was notably positive, with one GameSpot user reviewer describing it as "the only casino game out so far that gets it right" and praising its "dizzying selection of casino games and excellent instruction"[^ref-7]. The game was positioned as an educational tool as much as entertainment, with its comprehensive tutorials reportedly helping players develop skills applicable to real casino gaming[^ref-7].[^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-2][^ref-3]
@@ -166,7 +166,7 @@ The Hoyle Casino series as a whole has an extensive version history spanning fro
 
 ### Technical Issues
 
-The 2007 edition of the Hoyle Casino series experienced a significant bug where the game would freeze for approximately 30 seconds after placing a bet in card games[^ref-4]. Encore was unable to fix this bug, which persisted until it was resolved in Hoyle Casino 2008[^ref-4]. No specific technical issues have been documented for the 2006 edition in available research materials.
+The 2007 edition of the Hoyle Casino series experienced a significant bug where the game would freeze for approximately 30 seconds after placing a bet in card games[^ref-4]. Encore was unable to fix this bug, which persisted until it was resolved in Hoyle Casino 2008[^ref-4]. No specific technical issues have been documented for the 2006 edition in available research materials.[^ref-15]
 
 ### Easter Eggs and Trivia
 

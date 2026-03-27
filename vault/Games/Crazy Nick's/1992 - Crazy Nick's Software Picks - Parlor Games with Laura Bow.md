@@ -25,7 +25,7 @@ Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation
 
 The game is essentially a cut-down version of Hoyle Official Book of Games Volume 3, containing a subset of games from that collection with Laura Bow serving as the featured opponent character[^ref-1]. Players can challenge Laura at three different difficulty levels in both included games[^ref-2]. As a budget title designed for casual play, Parlor Games with Laura Bow offered an accessible entry point to Sierra's gaming catalog while capitalizing on the popularity of their adventure game heroines.
 
-Contemporary and modern reception has been mixed, with critics noting that while the game was considered "above-average" for its time as a board/party game title, better versions of the included games were readily available elsewhere[^ref-4][^ref-1]. The game represents an interesting marketing experiment by Sierra to leverage their recognizable adventure game characters in more casual gaming contexts.
+Contemporary and modern reception has been mixed, with critics noting that while the game was considered "above-average" for its time as a board/party game title, better versions of the included games were readily available elsewhere[^ref-4][^ref-1]. The game represents an interesting marketing experiment by Sierra to leverage their recognizable adventure game characters in more casual gaming contexts.[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-2]

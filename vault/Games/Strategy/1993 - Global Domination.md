@@ -24,7 +24,7 @@ tags: [1990s, n-a, sierra, strategy]
 
 Global Domination is a turn-based strategy game developed and published by [[Impressions Games]] in 1993 for DOS and Amiga platforms[^ref-1][^ref-4]. The game is modeled closely on the classic board game Risk, expanding upon that foundation with additional territories, unit types, intelligence operations, and unit obsolescence mechanics[^ref-3]. Set in a near-future world divided into five power nations fighting for complete planetary control, players employ tactics, spying, and diplomacy to achieve global conquest[^ref-4].
 
-Designed by [[Simon Bradbury]] and [[David Lester]], Global Domination represents Impressions Games' entry into the strategic conquest genre during the early 1990s[^ref-1]. The game was released under the alternate title "Stratagem" in the European market[^ref-5]. Despite mixed reception, contemporary reviewers praised it as "a simple, workmanlike, intermediate-level, conquer-the-world game that's surprisingly enjoyable and addictive"[^ref-3], while noting it served as "a great solitaire game with high replay value"[^ref-6].
+Designed by [[Simon Bradbury]] and [[David Lester]], Global Domination represents Impressions Games' entry into the strategic conquest genre during the early 1990s[^ref-1]. The game was released under the alternate title "Stratagem" in the European market[^ref-5]. Despite mixed reception, contemporary reviewers praised it as "a simple, workmanlike, intermediate-level, conquer-the-world game that's surprisingly enjoyable and addictive"[^ref-3], while noting it served as "a great solitaire game with high replay value"[^ref-6].[^ref-20][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

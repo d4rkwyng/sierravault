@@ -28,7 +28,7 @@ Mickey's Space Adventure is a graphic adventure computer game developed by Sierr
 
 The game features Mickey Mouse and his faithful companion Pluto embarking on an interplanetary quest across the solar system, collecting nine pieces of a fragmented memory crystal for an alien race from the planet Oron.[^ref-4] As an educational title aimed at children, the game combines adventure gameplay with lessons about astronomy, planetary science, and problem-solving skills, exploring the solar system through approximately 150 captivating scenes.[^ref-5] The game was marketed under the Walt Disney Personal Computer Software banner with the motto "Playing for fun/learning for life," capturing children's imagination while developing skills and knowledge.[^ref-5]
 
-Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified interface designed for young players who were still learning to read.[^ref-6] Contemporary reviewers noted that while many software houses created games around famous characters hoping the brand would sell the product, this game "deserved to succeed on merit alone."[^ref-7]
+Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified interface designed for young players who were still learning to read.[^ref-6] Contemporary reviewers noted that while many software houses created games around famous characters hoping the brand would sell the product, this game "deserved to succeed on merit alone."[^ref-7][^ref-28][^ref-30][^ref-31]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Walt [[Disney]] Computer Software[^ref-4]
@@ -188,7 +188,7 @@ The game features two possible endings based on player actions during the advent
 - **Standard Ending:** Mickey returns the completed crystal to the Oronians
 - **Alternate Ending with Minnie:** If the player chooses to write a letter to Minnie Mouse during the game, Minnie appears to celebrate Mickey's successful return
 
-The alternate ending requires players to complete the optional letter-writing action, demonstrating early experimentation with branching narrative elements in children's educational games.
+The alternate ending requires players to complete the optional letter-writing action, demonstrating early experimentation with branching narrative elements in children's educational games.[^ref-29]
 
 ## Legacy
 
@@ -269,4 +269,3 @@ The collaboration between Sierra and Disney established a template for education
 [^ref-29]: [VideoGameGeek](https://videogamegeek.com/videogame/122848/mickeys-space-adventure) – media format, designers
 [^ref-30]: [IMDB – Mickey's Space Adventure](https://www.imdb.com/title/tt3708320/) – release year, creator credit
 [^ref-31]: [StrategyWiki – Mickey's Space Adventure](https://strategywiki.org/wiki/Mickey's_Space_Adventure) – platform list, basic overview
-[^ref-32]: [Wikidata – Q3311840](https://www.wikidata.org/wiki/Q3311840) – structured metadata, platform releases

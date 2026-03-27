@@ -23,7 +23,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 
 King's Quest III: To Heir Is Human is a fan-made VGA remake of Sierra On-Line's classic 1986 adventure game, developed and published by [[Infamous Adventures]] in 2006[^ref-1]. The remake faithfully recreates the original story designed by [[Roberta Williams]] while modernizing the experience with full VGA graphics, hand-drawn cutscenes, dialogue portraits, original music, a complete voice pack including narration, and a point-and-click interface replacing the original text parser[^ref-2]. Infamous Adventures, known as "Makers of Sierra Remakes including King's Quest III and Space Quest II," created this project to introduce a new generation of gamers to the classic adventure while providing longtime fans with a fresh experience[^ref-3].
 
-The remake preserves the challenging gameplay that made the original notorious—described as "climbing an iceberg while covered in superslick oil hard"—while making it more accessible through modern interface conventions[^ref-2]. Players assume the role of Gwydion, a seventeen-year-old slave who must escape from the tyrannical wizard Manannan and discover his true identity[^ref-4]. The game is available as a free download on itch.io with a "name your own price" model, demonstrating the passionate fan community that continues to preserve and enhance Sierra's adventure gaming legacy[^ref-4].
+The remake preserves the challenging gameplay that made the original notorious—described as "climbing an iceberg while covered in superslick oil hard"—while making it more accessible through modern interface conventions[^ref-2]. Players assume the role of Gwydion, a seventeen-year-old slave who must escape from the tyrannical wizard Manannan and discover his true identity[^ref-4]. The game is available as a free download on itch.io with a "name your own price" model, demonstrating the passionate fan community that continues to preserve and enhance Sierra's adventure gaming legacy[^ref-4].[^ref-12][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Adventures]][^ref-1]
@@ -124,7 +124,7 @@ The developers acknowledge these limitations, noting that "it IS an older progra
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|
+|---------|------|----------|-------|[^ref-16]
 | Original Release | 2006 | Windows | Initial fan remake release[^ref-1] |
 | itch.io Release | Various | Windows, macOS | Current distribution platform[^ref-4] |
 
@@ -213,9 +213,4 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 [^ref-12]: [Giant Bomb](https://www.giantbomb.com/kings-quest-iii-to-heir-is-human/3030-16093/) – game database with wiki info
 [^ref-13]: [IGDB](https://www.igdb.com/games/kings-quest-iii-to-heir-is-human) – Internet Game Database entry
 [^ref-14]: [King's Quest Omnipedia](https://kingsquest.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – wiki documentation
-[^ref-15]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – Sierra wiki entry
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/King%27s_Quest_III:_To_Heir_is_Human) – technical compatibility info
-[^ref-17]: [AGD Interactive](https://www.agdinteractive.com/games/kq3/) – related remake information
-[^ref-18]: [Wikidata](https://www.wikidata.org/wiki/Q849887) – structured metadata
-[^ref-19]: [Wikipedia - King's Quest III](https://en.wikipedia.org/wiki/King%27s_Quest_III:_To_Heir_Is_Human) – original game encyclopedia entry
-[^ref-20]: [UVList](https://www.uvlist.net/game-108419-kings-quest-iii-to-heir-is-human) – Universal Videogame List

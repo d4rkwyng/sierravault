@@ -23,7 +23,7 @@ tags: [1990s, adventure, police-quest, sci, sierra]
 
 Police Quest: Open Season, released in 1993, marked a radical departure from the established Police Quest series[^ref-1]. Developed by Sierra On-Line under the guidance of former LAPD Chief Daryl F. Gates, this fourth installment abandoned the story arc of the previous three games, introducing a new setting and a new protagonist, homicide detective John Carey of the Los Angeles Police Department[^ref-2]. The game emerged during the golden era of DOS gaming, captivating audiences with its unique blend of law enforcement themes and interactive storytelling[^ref-3].
 
-As part of Ken Williams' ambitious Reality Role-Playing series, the game represented Sierra's attempt to create serious simulations of real-world events rather than traditional games[^ref-4]. Williams explained his vision: "I want to find the top cop, lawyer, airline pilot, fireman, race-car driver, politician, military hero, schoolteacher, white-water rafter, mountain climber, etc., and have them work with us on a simulation of their world. Chief Gates gives us the cop game"[^ref-4]. This philosophy resulted in Sierra's first fully photo-realistic game, featuring digitized backgrounds of actual Los Angeles locations and real actors instead of traditional 2D art[^ref-47].
+As part of Ken Williams' ambitious Reality Role-Playing series, the game represented Sierra's attempt to create serious simulations of real-world events rather than traditional games[^ref-4]. Williams explained his vision: "I want to find the top cop, lawyer, airline pilot, fireman, race-car driver, politician, military hero, schoolteacher, white-water rafter, mountain climber, etc., and have them work with us on a simulation of their world. Chief Gates gives us the cop game"[^ref-4]. This philosophy resulted in Sierra's first fully photo-realistic game, featuring digitized backgrounds of actual Los Angeles locations and real actors instead of traditional 2D art[^ref-47].[^ref-45]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -129,7 +129,7 @@ The CD-ROM version featured extensive voice acting with over 10,000 lines of dia
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|
+|---------|------|----------|-------|[^ref-43][^ref-44]
 | 1.0 | Late 1993 | DOS | Original floppy release[^ref-1] |
 | CD-ROM | 1994 | DOS/Windows | Full voice acting, 10,000+ lines[^ref-34] |
 | 1.0 | 1994 | Mac OS | Macintosh release[^ref-1] |

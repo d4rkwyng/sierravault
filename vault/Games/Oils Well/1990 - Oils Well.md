@@ -27,7 +27,7 @@ Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and
 
 The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] The game has been described as "a fine cocktail of Dig-Dug, Snake, and Pac-Man elements stirred into a unique but fun and challenging game."[^ref-6]
 
-While the original 1983 version became a solid commercial hit and won Computer Games Magazine's 1984 Golden Floppy Award for Maze Game of the Year[^ref-3][^ref-6], the 1990 remake arrived when customer expectations had significantly evolved.[^ref-6] Contemporary critics noted that "while the simple yet unique gameplay was plentiful for a commercial game in 1983, customers' expectations had changed significantly by 1990."[^ref-6]
+While the original 1983 version became a solid commercial hit and won Computer Games Magazine's 1984 Golden Floppy Award for Maze Game of the Year[^ref-3][^ref-6], the 1990 remake arrived when customer expectations had significantly evolved.[^ref-6] Contemporary critics noted that "while the simple yet unique gameplay was plentiful for a commercial game in 1983, customers' expectations had changed significantly by 1990."[^ref-6][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Banana Development, Inc.[^ref-1]
@@ -70,7 +70,7 @@ The game supports 1-2 players, allowing for competitive or alternating play sess
 
 The core mechanic involves navigating the drill head through pre-existing tunnel networks to collect all oil pellets scattered throughout each level.[^ref-9][^ref-10] The gameplay combines elements of maze navigation with the strategic considerations of managing an extending appendage – similar to the classic Snake game mechanic but with the added complexity of enemy avoidance.[^ref-6]
 
-Players must carefully time their movements and plan their routes to avoid the various underground pests that patrol the tunnels.[^ref-1][^ref-3] The action is "well-paced" with "progressive difficulty," requiring good "eye-hand coordination, timing, and strategy" to succeed at higher levels.[^ref-3] Unlike many arcade games of the era, Oil's Well features an actual ending after completing all eight levels.[^ref-8]
+Players must carefully time their movements and plan their routes to avoid the various underground pests that patrol the tunnels.[^ref-1][^ref-3] The action is "well-paced" with "progressive difficulty," requiring good "eye-hand coordination, timing, and strategy" to succeed at higher levels.[^ref-3] Unlike many arcade games of the era, Oil's Well features an actual ending after completing all eight levels.[^ref-8][^ref-19]
 
 ## Reception
 

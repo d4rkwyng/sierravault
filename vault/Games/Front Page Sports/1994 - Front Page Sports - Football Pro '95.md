@@ -26,7 +26,7 @@ Front Page Sports: Football Pro '95 represents the third installment in [[Dynami
 
 The '95 edition was developed during a transitional period for Sierra On-Line, with [[Dynamix]] recognized as "the most consistent of Sierra's subsidiary studios" delivering solid performers in non-adventure games[^ref-3]. The game unified the PC football simulation market immediately upon its release, as Home of the Underdogs noted that Dynamix "pulled out a masterpiece that few football games have rivalled since"[^ref-4]. Available in both diskette and CD-ROM formats, the two versions offered substantially different features, with the CD-ROM version containing significantly more content[^ref-5].
 
-Front Page Sports: Football Pro '95 established itself as a landmark title that forced competitors like EA Sports to adopt management options in their Madden NFL series[^ref-6]. The game earned Computer Gaming World's prestigious Sports Game of the Year award and was later ranked the 11th best computer game of all time in the publication's 1996 survey[^ref-6]. Critics praised its comprehensive approach to football simulation, calling it "one of the best sports games ever made, period"[^ref-4].
+Front Page Sports: Football Pro '95 established itself as a landmark title that forced competitors like EA Sports to adopt management options in their Madden NFL series[^ref-6]. The game earned Computer Gaming World's prestigious Sports Game of the Year award and was later ranked the 11th best computer game of all time in the publication's 1996 survey[^ref-6]. Critics praised its comprehensive approach to football simulation, calling it "one of the best sports games ever made, period"[^ref-4].[^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]

@@ -26,7 +26,7 @@ Team Fortress Classic is a class-based multiplayer first-person shooter develope
 
 The modification focused on one central philosophy: "the only way you'll win is by working as a team."[^ref-4] Team Fortress Classic emphasizes coordination and strategy between opposing factions, rewarding organized teams over individual skill.[^ref-5] PC Gamer US declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] The game has been described as one of the most popular online action games of all time, featuring character classes ranging from Medic to Spy to Demolition Man in a unique style of online team warfare.[^ref-6]
 
-Team Fortress Classic served as a crucial bridge between the original Quake mod and the eventual Team Fortress 2, demonstrating Valve's commitment to nurturing modding communities and recognizing exceptional talent.[^ref-2] The game was included in the book *1001 Video Games You Must Play Before You Die*, cementing its status as a historically significant title in the first-person shooter genre.[^ref-7]
+Team Fortress Classic served as a crucial bridge between the original Quake mod and the eventual Team Fortress 2, demonstrating Valve's commitment to nurturing modding communities and recognizing exceptional talent.[^ref-2] The game was included in the book *1001 Video Games You Must Play Before You Die*, cementing its status as a historically significant title in the first-person shooter genre.[^ref-7][^ref-40]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]

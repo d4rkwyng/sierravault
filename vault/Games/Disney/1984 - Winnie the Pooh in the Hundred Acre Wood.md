@@ -25,7 +25,7 @@ tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 
 Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] The game's interface was revolutionary for its time in children's software—requiring no typing whatsoever, instead using cursor keys to select from context-sensitive action lists, making it accessible to early readers while still providing an engaging adventure experience.[^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
 
-The game achieved commercial success and critical acclaim, with contemporary reviewers noting that while many licensed games rely on character recognition to sell, this title "deserve[s] to succeed on merit alone."[^ref-6] Al Lowe generously released the game as freeware in later years, ensuring its preservation for new generations of players.[^ref-7]
+The game achieved commercial success and critical acclaim, with contemporary reviewers noting that while many licensed games rely on character recognition to sell, this title "deserve[s] to succeed on merit alone."[^ref-6] Al Lowe generously released the game as freeware in later years, ensuring its preservation for new generations of players.[^ref-7][^ref-26][^ref-28][^ref-29]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]] / Walt [[Disney]] Computer Software[^ref-1]
@@ -202,7 +202,7 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 
 The game also represents a significant early work for two future Sierra luminaries: Al Lowe, who would go on to create the phenomenally successful *Leisure Suit Larry* franchise, and Mark Crowe, who would co-create the beloved *Space Quest* series.[^ref-20] In this context, the game serves as a fascinating artifact of Sierra's expansion period and the creative development of some of the industry's most important designers.
 
-From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.
+From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]
 
 ## Downloads
 
@@ -254,4 +254,3 @@ From a design perspective, the game's innovation of eliminating typing requireme
 [^ref-27]: [MoegamerNet – Atari ST A to Z](https://moegamer.net/2019/02/28/atari-st-a-to-z-winnie-the-pooh-in-the-hundred-acre-wood/) – retrospective perspective, Sierra context
 [^ref-28]: [Play DOS Games](https://www.playdosgames.com/online/winnie-the-pooh-in-the-hundred-acre-wood/) – publisher information, freeware status
 [^ref-29]: [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1984_Sierra_Online) – C64 release information
-[^ref-30]: [Wikipedia – Mark Crowe](https://en.wikipedia.org/wiki/Mark_Crowe) – artist background, Sierra career

@@ -24,7 +24,7 @@ tags: [1990s, educational, sierra, spelling-tricks]
 
 Spelling Jungle is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1993 for Windows 3.x and Macintosh platforms.[^ref-1] The program was designed to strengthen reading, spelling, and logic skills in children ages 7 to 10, combining challenging puzzles with an engaging storyline set in the heart of Africa.[^ref-2] The game quickly became a staple in educational gaming, appearing frequently on school computers throughout the 1990s and captivating young minds with its unique approach to spelling instruction.[^ref-3]
 
-The game underwent several name changes throughout its history, originally being distributed as "Basic Spelling Tricks" by Bright Star Technology before the company was acquired by Sierra Entertainment in 1992.[^ref-4] Following the acquisition, it was renamed "Yobi's Magic Spelling Tricks" and released as part of Sierra's Discovery Series, before finally receiving the title "Spelling Jungle" in 1994 as part of the Talking Tutor Series.[^ref-5] The game was also referred to internally as "Yobi's Spelling Demons," though this name was changed because developers feared "some people might think this program has something to do with evil supernatural beings."[^ref-6]
+The game underwent several name changes throughout its history, originally being distributed as "Basic Spelling Tricks" by Bright Star Technology before the company was acquired by Sierra Entertainment in 1992.[^ref-4] Following the acquisition, it was renamed "Yobi's Magic Spelling Tricks" and released as part of Sierra's Discovery Series, before finally receiving the title "Spelling Jungle" in 1994 as part of the Talking Tutor Series.[^ref-5] The game was also referred to internally as "Yobi's Spelling Demons," though this name was changed because developers feared "some people might think this program has something to do with evil supernatural beings."[^ref-6][^ref-28][^ref-29][^ref-30]
 
 > [!info]- Game Info
 > **Developer:** Bright Star Technology[^ref-1]
@@ -176,7 +176,7 @@ Spelling Jungle represents an interesting intersection of educational software d
 
 The game's lasting appeal among those who played it as children suggests it successfully achieved the difficult balance of making learning genuinely engaging rather than feeling like disguised homework. The puzzle-focused design, which a guide writer noted prioritizes "figuring out how to do them" over simple spelling recall, gave the game replay value and challenge that extended beyond its educational mission.[^ref-13] However, the difficulty level that modern reviewers have criticized may explain why many players, like the Let's Play archivist, remember the game fondly but never managed to complete all 101 levels.[^ref-25]
 
-The game also stands as a testament to the challenges of software preservation, with modern players struggling to run the title on contemporary systems despite its nostalgic appeal. The multiple name changes and releases make tracking the game's history particularly complex for preservationists and historians.
+The game also stands as a testament to the challenges of software preservation, with modern players struggling to run the title on contemporary systems despite its nostalgic appeal. The multiple name changes and releases make tracking the game's history particularly complex for preservationists and historians.[^ref-32]
 
 ## Downloads
 
@@ -224,5 +224,4 @@ The game also stands as a testament to the challenges of software preservation, 
 [^ref-28]: [Wikidata – Spelling Jungle](https://www.wikidata.org/wiki/Q7575894) – platform verification, publisher confirmation
 [^ref-29]: [TV Tropes – Spelling Jungle](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpellingJungle) – Yobi quote, version timeline
 [^ref-30]: [HandWiki – Spelling Jungle](https://handwiki.org/wiki/Software:Spelling_Jungle) – development history, acquisition details
-[^ref-31]: [GameSpot – Spelling Jungle](https://www.gamespot.com/games/spelling-jungle/cheats/) – release date confirmation
 [^ref-32]: [TV Tropes – Bright Star Technology](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternative titles, sequel reference

@@ -25,7 +25,7 @@ Alphabet Blocks is an interactive multimedia educational program designed to tea
 
 The game features two animated coach characters—a cheerful chimp named Bananas and a jolly jack-in-the-box named Jack—who guide children through four distinct learning activities focused on letter recognition, phonics, and beginning reading skills[^ref-3]. MacUser Magazine praised the software, noting that "even a very young child needs little or no guidance in its use"[^ref-4]. The program was marketed with the tagline "Now any child who can use a mouse can learn to read," emphasizing its accessibility for the target audience of children aged three and up[^ref-4].
 
-Alphabet Blocks distinguished itself in the crowded early 1990s educational software market through its state-of-the-art production values, including full-color animation and digitized sound, combined with a positive reinforcement approach to instruction[^ref-4]. The software was later re-released as part of Bright Star's Talking Tutor series and spawned a sequel titled "Ready, Set, Read With Bananas and Jack"[^ref-5].
+Alphabet Blocks distinguished itself in the crowded early 1990s educational software market through its state-of-the-art production values, including full-color animation and digitized sound, combined with a positive reinforcement approach to instruction[^ref-4]. The software was later re-released as part of Bright Star's Talking Tutor series and spawned a sequel titled "Ready, Set, Read With Bananas and Jack"[^ref-5].[^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Bright Star Technology]], Inc.[^ref-1]

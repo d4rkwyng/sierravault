@@ -62,7 +62,7 @@ The game abandons traditional adventure game scoring in favor of a unique "Sleut
 
 Unlike typical Sierra adventures heavy on inventory puzzles, The Colonel's Bequest focuses primarily on observation and exploration[^ref-28]. Players must carefully examine crime scenes, eavesdrop on conversations, and piece together character motivations through careful detective work[^ref-29]. The few traditional puzzles in the game involve finding secret passages, locating hidden objects like a magnifying glass (or monocle from Wilbur's body), and solving the occasional mechanical challenge[^ref-17].
 
-Death scenarios play a significant role in the gameplay, with Laura facing numerous sudden and often unexpected demises if players make poor choices[^ref-22]. These deaths range from environmental hazards like collapsing architecture to direct attacks from the murderer, including a notable Psycho-inspired shower scene[^ref-30]. However, most deaths can be avoided through careful observation and logical thinking rather than trial-and-error gameplay[^ref-31].
+Death scenarios play a significant role in the gameplay, with Laura facing numerous sudden and often unexpected demises if players make poor choices[^ref-22]. These deaths range from environmental hazards like collapsing architecture to direct attacks from the murderer, including a notable Psycho-inspired shower scene[^ref-30]. However, most deaths can be avoided through careful observation and logical thinking rather than trial-and-error gameplay[^ref-31].[^ref-58]
 
 ## Reception
 
@@ -131,7 +131,6 @@ The Colonel's Bequest established the Laura Bow franchise and demonstrated the v
 The franchise has experienced renewed interest in recent years, with independent developer NineZyme Entertainment announcing Laura Bow and the Mechanical Codex, a direct sequel to the original games[^ref-50]. Microsoft's acquisition of Activision (and therefore Sierra intellectual properties) has created new opportunities for franchise revival, with NineZyme reporting positive negotiations about licensing arrangements[^ref-43]. The upcoming game promises to maintain the classic point-and-click adventure formula while incorporating modern design sensibilities[^ref-51].
 
 Fan communities continue to create content inspired by The Colonel's Bequest, including HD graphics patches and technical modifications[^ref-52]. Speedrunning communities maintain active leaderboards for optimal completion routes[^ref-53], while preservation efforts ensure the game remains accessible through modern platforms[^ref-12]. The game's influence on interactive storytelling continues to be recognized by modern developers creating similar atmospheric mystery games[^ref-54].
-
 
 ## Downloads
 

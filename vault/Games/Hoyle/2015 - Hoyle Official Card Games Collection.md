@@ -27,7 +27,7 @@ Hoyle Official Card Games Collection 2015 represents a modern continuation of th
 
 The 2015 edition features over 70 new and classic card games, including titles never before seen in the Hoyle series such as Fan Tan, Oh Hell, and Whist[^ref-4]. The collection includes a Face Creator feature allowing players to customize their in-game avatar, along with dozens of backgrounds and card deck designs to personalize the playing experience[^ref-2]. The game supports widescreen monitors natively and offers large, easy-to-read cards designed for accessibility[^ref-5].
 
-The Hoyle name has been associated with card gaming expertise for over 200 years, named after 18th century playing card authority Edmond Hoyle[^ref-1]. Sierra On-Line originally obtained licensing rights to use trademarks and designs from the Hoyle brand of playing cards from Brown & Bigelow[^ref-1]. While the Sierra-developed versions became classics of the genre, the 2015 release was developed during the post-Sierra era when the brand had passed through various publishers, eventually landing with Viva Media and Encore[^ref-6].
+The Hoyle name has been associated with card gaming expertise for over 200 years, named after 18th century playing card authority Edmond Hoyle[^ref-1]. Sierra On-Line originally obtained licensing rights to use trademarks and designs from the Hoyle brand of playing cards from Brown & Bigelow[^ref-1]. While the Sierra-developed versions became classics of the genre, the 2015 release was developed during the post-Sierra era when the brand had passed through various publishers, eventually landing with Viva Media and Encore[^ref-6].[^ref-11][^ref-12][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Webfoot Technologies, Inc.[^ref-2]
@@ -88,7 +88,7 @@ The game's reception has remained lukewarm in the years since release. The mixed
 - **Steam User Reviews:** 52.12% positive (68 reviews)[^ref-7]
 - **Amazon UK Customer Reviews:** 4.0/5 stars[^ref-4]
 
-The game was collected by only 2 players on MobyGames, suggesting limited ongoing interest from gaming historians and collectors[^ref-2].
+The game was collected by only 2 players on MobyGames, suggesting limited ongoing interest from gaming historians and collectors[^ref-2].[^ref-13]
 
 ## Development
 
@@ -175,7 +175,7 @@ Windows 10 users have also encountered problems following system updates. One St
 
 Installation difficulties were reported by some users, and graphics quality concerns emerged as a recurring complaint[^ref-4]. The game's last update in June 2017 suggests that ongoing technical support has been limited[^ref-7].
 
-The Steam version of the game has been marked as unavailable, though a Steam App ID (397420) still exists[^ref-5]. The game was also restricted in Germany according to Steam database records[^ref-10].
+The Steam version of the game has been marked as unavailable, though a Steam App ID (397420) still exists[^ref-5]. The game was also restricted in Germany according to Steam database records[^ref-10].[^ref-14]
 
 ### Easter Eggs and Trivia
 

@@ -26,7 +26,7 @@ African Raiders-01 is an arcade-style racing simulation that immerses players in
 
 Racing games were legion in the 1980s, still struggling to differentiate themselves from arcade machines, but with the progression of home computers, color graphics and a sense of speed were enough to satisfy most players[^ref-4]. African Raiders-01 represented an ambitious attempt to bring the off-road rally experience to home computers, featuring a third-person "behind the car" perspective and pseudo-3D graphics that some contemporary critics praised as technically impressive for its era[^ref-5]. The game was released across multiple platforms including DOS, Amiga, and Atari ST, with regional distribution handled by Bomico in Germany and System 4 de España in Spain[^ref-4].
 
-Despite its technical aspirations, the game received a decidedly mixed reception. While some reviewers appreciated its high-standard graphics (particularly on French systems) and straightforward approach to rally racing[^ref-6], others found the controls frustrating and the gameplay repetitive[^ref-7]. Modern retrospectives have been particularly harsh, with one critic describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].
+Despite its technical aspirations, the game received a decidedly mixed reception. While some reviewers appreciated its high-standard graphics (particularly on French systems) and straightforward approach to rally racing[^ref-6], others found the controls frustrating and the gameplay repetitive[^ref-7]. Modern retrospectives have been particularly harsh, with one critic describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].[^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Inférence[^ref-2]
@@ -181,7 +181,6 @@ African Raiders-01 occupies an interesting if minor position in racing game hist
 
 The disparity between contemporary reviews (averaging around 58-64%) and modern assessments (frequently described as "unplayable") reflects both changing standards in game design and the loss of context that came with physical documentation like the required map. For enthusiasts of retrogaming, African Raiders-01 represents "une perle rare du désert vidéoludique" (a rare pearl of the video game desert)[^ref-1], offering a glimpse into the experimental nature of late-1980s game development. However, for most modern players, the game's technical limitations and frustrating controls make it more of a historical curiosity than an enjoyable experience[^ref-8][^ref-14].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -190,7 +189,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
-
 
 **Download / Preservation**
 - [Internet Archive](https://archive.org/details/msdos_African_Raiders-01_1989) – DOS version, browser playable

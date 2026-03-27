@@ -46,7 +46,7 @@ The castle setting evoked the dark atmosphere of Shakespeare's tragedy, with NPC
 
 The game's world was set on the same fictional island as its predecessors, The Shadow of Yserbius and The Fates of Twinion, creating a cohesive fantasy setting for the trilogy.[^ref-12] While each game featured distinct storylines and locations, they shared common elements of dungeon exploration, monster combat, and treasure hunting that defined the series. The Macbeth-inspired setting gave The Ruins of Cawdor a distinctly different atmosphere from its fantasy-focused predecessors, incorporating themes of fate, prophecy, and the corrupting influence of power.
 
-Castle Cawdor itself was inspired by the real Cawdor Castle in Scotland, though as Abandonware France noted, the actual castle is not a ruin.[^ref-6] This creative liberty allowed the developers to craft a more dramatic and dangerous environment suitable for dungeon exploration, filled with traps, puzzles, teleporters, and the restless spirits of those who fell victim to the castle's bloody history.
+Castle Cawdor itself was inspired by the real Cawdor Castle in Scotland, though as Abandonware France noted, the actual castle is not a ruin.[^ref-6] This creative liberty allowed the developers to craft a more dramatic and dangerous environment suitable for dungeon exploration, filled with traps, puzzles, teleporters, and the restless spirits of those who fell victim to the castle's bloody history.[^ref-24]
 
 ## Gameplay
 

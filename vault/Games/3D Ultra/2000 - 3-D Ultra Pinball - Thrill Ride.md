@@ -26,7 +26,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 The game was developed as part of a partnership between Sierra, Dynamix, and the Hershey chocolate company, promoting Hersheypark's attractions including their new Lightning Racer coaster by Great Coasters International[^ref-2]. Nothing captures the excitement of amusement parks and the fun of pinball quite like this title, which offers 15 different rides including two mini-tables, Night-time Fantasy mode, and plenty of special surprises[^ref-4]. With its Disney-like fun graphics and gameplay, the ball travels through roller coaster loops, waterfalls, and cascades in a vibrant amusement park setting[^ref-5].
 
-Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game developed a devoted fanbase who appreciated its accessible gameplay and charming theme park atmosphere[^ref-6]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4].
+Despite receiving mixed critical reviews that praised its visual presentation while criticizing its lack of difficulty and replay value, the game developed a devoted fanbase who appreciated its accessible gameplay and charming theme park atmosphere[^ref-6]. The title was later republished in Europe by Empire Interactive under their Xplosiv budget label in 2003[^ref-4].[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]] (PC/Mac), Left Field Productions (Game Boy Color)[^ref-1]
@@ -164,7 +164,7 @@ Several bugs have been reported by users attempting to run the game on modern sy
 - **Flipper Key Reassignment:** Problems with remapping flipper keys in the Windows version[^ref-10]
 - **Sticky Keys Conflict:** Default shift key controls trigger Windows 10's Sticky Keys accessibility feature[^ref-8]
 
-The Collection Chamber has tested the game with DxWind for Windows 10 compatibility, with an install size of approximately 205 MB[^ref-2].
+The Collection Chamber has tested the game with DxWind for Windows 10 compatibility, with an install size of approximately 205 MB[^ref-2].[^ref-17]
 
 **Game Boy Color Specific Issues:**[^ref-7]
 - Ball physics are floaty and react oddly to many hits and shots
@@ -267,8 +267,5 @@ The Game Boy Color port demonstrated the challenges of translating pinball physi
 [^ref-13]: [Giant Bomb](https://www.giantbomb.com/3-d-ultra-pinball-thrillride/3030-18093/) – game database with wiki info
 [^ref-14]: [IGDB](https://www.igdb.com/games/3-d-ultra-pinball-thrillride) – Internet Game Database entry
 [^ref-15]: [GameFAQs](https://gamefaqs.gamespot.com/pc/196472-3-d-ultra-pinball-thrillride) – game database entry
-[^ref-16]: [Wikidata](https://www.wikidata.org/wiki/Q4636093) – structured metadata
 [^ref-17]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/3-D_Ultra_Pinball:_Thrillride) – technical compatibility
 [^ref-18]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests
-[^ref-19]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/3-D_Ultra_Pinball) – series information
-[^ref-20]: [UVList](https://www.uvlist.net/game-91741-3-d-ultra-pinball-thrillride) – Universal Videogame List

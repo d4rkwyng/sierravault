@@ -25,7 +25,7 @@ Hoyle Solitaire And Mahjong Tiles 2000 is a casual card and tile matching game r
 
 Published under the Sierra Attractions label, this title represents Sierra's continued commitment to the casual gaming market during a period when the company was primarily known for its adventure game franchises[^ref-5]. The game was released simultaneously for both IBM PC and Macintosh platforms, distributed on CD-ROM media[^ref-1][^ref-5]. It formed part of the broader Hoyle Series, which had been delivering computerized versions of classic card and board games since the late 1980s[^ref-5][^ref-11][^ref-13]. Sierra Entertainment maintained the Hoyle brand as a key component of their casual gaming portfolio[^ref-12][^ref-14].
 
-The Mahjong component of the game features traditional rules along with variant modes including Memory Tiles and Gravity Tiles, offering players multiple ways to enjoy the classic tile-matching experience[^ref-3]. With 60 different board configurations available and two distinct tile styles, the game provided substantial replay value for fans of the genre[^ref-3].
+The Mahjong component of the game features traditional rules along with variant modes including Memory Tiles and Gravity Tiles, offering players multiple ways to enjoy the classic tile-matching experience[^ref-3]. With 60 different board configurations available and two distinct tile styles, the game provided substantial replay value for fans of the genre[^ref-3].[^ref-9][^ref-10]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1][^ref-2]

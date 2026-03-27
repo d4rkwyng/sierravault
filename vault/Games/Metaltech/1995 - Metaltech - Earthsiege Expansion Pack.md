@@ -26,7 +26,7 @@ The *Metaltech Earthsiege Expansion Pack* was an add-on expansion for the origin
 
 Set in the 25th or 26th century, the expansion maintains the game's core premise of piloting HERCs (Humaniform-Emulation Roboticized Combat Unit with Leg-Articulated Navigation) against relentless automated Cybrid enemies.[^ref-3][^ref-10] According to the game's narrative setup, "The attack on Earth by the Cybrids has been repelled and humanity is starting to rebuild. But a second wave is already incoming, and the battle starts again."[^ref-1] This premise established the expansion as both a continuation of the story and a reason for renewed conflict.
 
-The Metaltech universe, created by Dynamix as an alternative to the Battletech franchise after losing that license, eventually evolved into the foundation for the popular Tribes series of multiplayer shooters.[^ref-3][^ref-12] The expansion pack represents an important chapter in this franchise's development, expanding the lore and gameplay systems that would influence later entries.
+The Metaltech universe, created by Dynamix as an alternative to the Battletech franchise after losing that license, eventually evolved into the foundation for the popular Tribes series of multiplayer shooters.[^ref-3][^ref-12] The expansion pack represents an important chapter in this franchise's development, expanding the lore and gameplay systems that would influence later entries.[^ref-47]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]

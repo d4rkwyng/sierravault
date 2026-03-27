@@ -20,7 +20,6 @@ tags: [2010s, adventure, coles, hero-u, rpg, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Hero-U: Rogue to Redemption is an epic fantasy adventure and role-playing game created by [[Lori Ann Cole]] and [[Corey Cole]], the legendary designers behind Sierra On-Line's acclaimed Quest for Glory series[^ref-1]. Released in July 2018 after a troubled six-year development cycle funded through two separate Kickstarter campaigns, the game represents the Coles' long-awaited return to game development—their first major project in nearly two decades[^ref-2]. While not a direct sequel to Quest for Glory, Hero-U features the same distinctive mix of adventure gaming, role-playing elements, humor, and immersive storytelling that defined their earlier work[^ref-3].
@@ -46,7 +45,7 @@ The story begins with Shawn O'Conner, a young man from humble origins who dreams
 
 Hero University is no ordinary academy. It houses multiple schools training different types of heroes, though Shawn specifically enters the Rogues class—which operates undercover as Bard students to conceal their true nature[^ref-11]. The castle itself sits atop a labyrinth of abandoned wine cellars, stunning sea caves, creepy catacombs, and deadly dungeons, all of which Shawn must explore during his nighttime adventures[^ref-5]. As he navigates both the social hierarchy of the university and the physical dangers beneath it, Shawn encounters supernatural threats including ghosts who require his help—though communicating with them first requires crafting a special gris-gris charm with the cook's assistance[^ref-12].
 
-Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-4]. The narrative branches significantly based on player choices, allowing Shawn to develop into either a heroic rogue who helps others or a more traditional thief focused on personal gain[^ref-13]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken, and ultimately confronting the Wraith King in the final dungeon[^ref-14]. The choices players make throughout shape not only the immediate story but are designed to carry forward into planned sequels set at the university.
+Throughout the game's 50-day structure, Shawn strives to become "Rogue of the Year" while making friends and enemies among his fellow students, engaging in romance, and uncovering the secrets of his own hidden past[^ref-4]. The narrative branches significantly based on player choices, allowing Shawn to develop into either a heroic rogue who helps others or a more traditional thief focused on personal gain[^ref-13]. Major storyline events include battling creatures that threaten the school, leading zombie pirates to defeat a kraken, and ultimately confronting the Wraith King in the final dungeon[^ref-14]. The choices players make throughout shape not only the immediate story but are designed to carry forward into planned sequels set at the university.[^ref-46]
 
 ## Gameplay
 
@@ -261,7 +260,6 @@ Hero-U also represents the beginning of an intended series, with the Coles plann
 - [[2022 - SpaceVenture]]
 - [[2023 - Colossal Cave 3D Adventure]]
 - [[2023 - Summer Daze - Tilly's Tale]]
-
 
 ## References
 

@@ -25,7 +25,7 @@ Stellar 7: Draxon's Revenge is a 1993 first-person sci-fi tank simulation game d
 
 The game distinguished itself through its fully narrated introduction, voiced by actor Michael Dorn, who was famous at the time for playing the Klingon crewman Worf on the television series Star Trek: The Next Generation.[^ref-1] Drawing inspiration from the classic arcade game Battlezone, Stellar 7: Draxon's Revenge puts players in command of the Raven, a futuristic super-tank equipped with powerful weaponry and an anti-gravity propulsion system, as they battle against the tyrannical overlord Gir Draxon and his Arcturan Empire across seven alien worlds.[^ref-1]
 
-The game featured significantly higher difficulty than earlier versions in the series, with only one life and no continues, making it a punishing experience for players seeking a challenge.[^ref-4] With texture-mapped polygonal graphics, 2D sprites for specific objects, and full CD sound and music including fully narrated cutscenes, Draxon's Revenge represented an ambitious attempt to bring the tank simulation genre to new hardware.[^ref-5]
+The game featured significantly higher difficulty than earlier versions in the series, with only one life and no continues, making it a punishing experience for players seeking a challenge.[^ref-4] With texture-mapped polygonal graphics, 2D sprites for specific objects, and full CD sound and music including fully narrated cutscenes, Draxon's Revenge represented an ambitious attempt to bring the tank simulation genre to new hardware.[^ref-5][^ref-17][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -220,4 +220,3 @@ The game's design choices, including the significantly higher difficulty with on
 [^ref-17]: [MoviePosterDB – Stellar 7: Draxon's Revenge](https://es-np.movieposterdb.com/stellar-7-draxons-revenge-i19120902) – release date, director credits
 [^ref-18]: [Play-Asia – Stellar 7: Draxon's Revenge](https://www.play-asia.com/stellar-7-draxons-revenge/13/702zwz) – T&E Soft publisher (Japan), game description
 [^ref-19]: [PriceCharting – Stellar 7: Draxon's Revenge](https://www.pricecharting.com/game/3do/stellar-7-draxon%27s-revenge) – market availability
-[^ref-20]: [HonestGamers – Stellar 7: Draxon's Revenge](http://www.honestgamers.com/9895/3do/stellar-7-draxons-revenge/game.html) – Japanese title, publisher information

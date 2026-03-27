@@ -108,7 +108,7 @@ The PlayStation 2 port received significantly lower marks due to technical compr
 
 Retrospective coverage has been consistently positive, with critics noting how well the game has aged. A 2010 PC Gamer retrospective found that "NOLF is every bit the amusing, inventive, life-affirming experience I remembered," declaring it "irrefutable proof" that first-person shooters and humor can successfully coexist.[^ref-29] Modern critics at Kotaku observed that the games "not only hold up, they do some things better than most modern games do."[^ref-30]
 
-A Eurogamer retrospective offered a bittersweet assessment: "You simply couldn't make No One Lives Forever today. You couldn't because it would be too long, require far too many assets, and most significantly of all, risk all the cost of development on a comedy game—a genre that no longer exists."[^ref-31] The article praised how "NOLF learned the lesson that Half-Life had to teach, that almost no other games took notice of. It knew to be quiet at the start."[^ref-31]
+A Eurogamer retrospective offered a bittersweet assessment: "You simply couldn't make No One Lives Forever today. You couldn't because it would be too long, require far too many assets, and most significantly of all, risk all the cost of development on a comedy game—a genre that no longer exists."[^ref-31] The article praised how "NOLF learned the lesson that Half-Life had to teach, that almost no other games took notice of. It knew to be quiet at the start."[^ref-31][^ref-51]
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 91/100 (32 critics)[^ref-26]

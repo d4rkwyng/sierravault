@@ -25,7 +25,7 @@ Quarky & Quaysoo's Turbo Science is an educational puzzle game developed by [[Je
 
 The game features two space "elfs" named Quarky (green) and Quaysoo (yellow) O'Ghandi, who hail from New Delhi, India.[^ref-4] As members of the team Los Turbos, players compete against rival teams in an intergalactic racing competition that tests scientific knowledge rather than reflexes.[^ref-5] The objective is to win a series of races and climb the ranks, progressing from "Squid" to "Turbo Science Champ" by correctly answering science questions to earn money and advance through checkpoints.[^ref-6]
 
-Described as "'edutainment' at its best" by reviewers, Quarky & Quaysoo's Turbo Science represented designer Jeff Tunnell's approach to educational gaming.[^ref-7] The game included over 2,300 questions and experiments, along with a substantial 150-page Research Guide that served as a reference textbook for players.[^ref-3] This comprehensive approach to education, combined with the game's quirky humor and colorful presentation, made it a notable entry in Sierra's educational software lineup.
+Described as "'edutainment' at its best" by reviewers, Quarky & Quaysoo's Turbo Science represented designer Jeff Tunnell's approach to educational gaming.[^ref-7] The game included over 2,300 questions and experiments, along with a substantial 150-page Research Guide that served as a reference textbook for players.[^ref-3] This comprehensive approach to education, combined with the game's quirky humor and colorful presentation, made it a notable entry in Sierra's educational software lineup.[^ref-21][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions[^ref-1]
@@ -103,7 +103,7 @@ Modern retrospective assessments of Quarky & Quaysoo's Turbo Science remain gene
 - **GameSpot User Average:** 9.2[^ref-14]
 - **GamePressure User Rating:** 5.5/10[^ref-8]
 
-The game has achieved a notable following on GOG.com's wishlist system, accumulating 264 votes from users requesting its re-release on the digital platform.[^ref-15] This indicates continued interest in the title from retro gaming enthusiasts despite its educational focus.
+The game has achieved a notable following on GOG.com's wishlist system, accumulating 264 votes from users requesting its re-release on the digital platform.[^ref-15] This indicates continued interest in the title from retro gaming enthusiasts despite its educational focus.[^ref-20]
 
 ## Development
 
@@ -258,4 +258,3 @@ The game's cultural details—featuring Indian-American space elf protagonists�
 [^ref-21]: [IMDB – Quarky & Quaysoo's Turbo Science](https://www.imdb.com/find/?q=Quarky+%26+Quaysoo%27s+Turbo+Science&s=tt) – release year confirmation
 [^ref-22]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – development context, Turbo series information
 [^ref-23]: [Metacritic – Quarky & Quaysoo's Turbo Science](https://www.metacritic.com/game/quarky-and-quaysoos-turbo-science/) – genre classification, platform
-[^ref-24]: [Wikidata – Q7269171](https://www.wikidata.org/wiki/Q7269171) – structured data, external identifiers

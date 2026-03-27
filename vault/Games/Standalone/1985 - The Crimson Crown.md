@@ -20,14 +20,13 @@ tags: [1980s, adventure, sierra, transylvania]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Further Adventures in Transylvania*, is a graphic adventure game developed by Polarware and designed by Antonio Antiochia.[^ref-1] Released in October 1985 for the Apple II and Commodore 64, with subsequent ports to numerous other platforms throughout 1986, the game serves as the sequel to the original *Transylvania* (1982).[^ref-2] The game was marketed as "a spine-tingling illustrated interactive novel" and represented an evolution of the text adventure genre by combining parser-based gameplay with atmospheric graphics.[^ref-3]
 
 Unlike the more common pure text adventures of the era, The Crimson Crown renders each location with detailed illustrations, giving players a stronger sense of presence in the game world.[^ref-4] The game tasks players with a quest to defeat a magical vampire with the assistance of Princess Sabrina, who has become a fledgling magician, and the heir to the throne, Prince Erik.[^ref-5] This multi-character approach was innovative for its time, requiring players to coordinate the unique abilities of their companions to solve puzzles and progress through the story.[^ref-6]
 
-The game holds historical significance as part of Polarware's pioneering work in computer graphics, with the company's software eventually being archived in the Smithsonian Museum of American History.[^ref-7] The Crimson Crown was later released as freeware by its authors in 1990, ensuring its preservation for future generations of players.[^ref-8]
+The game holds historical significance as part of Polarware's pioneering work in computer graphics, with the company's software eventually being archived in the Smithsonian Museum of American History.[^ref-7] The Crimson Crown was later released as freeware by its authors in 1990, ensuring its preservation for future generations of players.[^ref-8][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** Polarware[^ref-1]
@@ -234,7 +233,6 @@ Modern assessments recognize the game's historical significance while acknowledg
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

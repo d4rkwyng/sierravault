@@ -23,7 +23,7 @@ tags: [1990s, sierra, standalone, strategy]
 
 High Seas Trader is a naval strategy and trading simulation game that puts players in the role of a young impoverished nobleman who must take to the high seas in order to regain fame and fortune[^ref-1]. Set in the 17th century merchant sea trading era, the game challenges players to rise through the ranks of the merchant's guild by increasing their standing in four categories: daring, honor, loyalty, and nobility[^ref-2]. Players begin as a "Peddler" and can advance through merchant ranks to become a "Viscount"[^ref-3].
 
-The game breaks away from traditional strategy gaming with its unique first-person, 3D perspective that puts players right up on deck while they outrun pirates and create trade routes[^ref-4]. This innovative approach replaced the conventional "little ships on flat maps" style that was common in naval strategy games of the era[^ref-4]. Developed by Impressions Games and published by Sierra Entertainment in 1995, High Seas Trader was David Lester's first game at Impressions and served as a follow-up to the company's earlier title Merchant Colony[^ref-5].
+The game breaks away from traditional strategy gaming with its unique first-person, 3D perspective that puts players right up on deck while they outrun pirates and create trade routes[^ref-4]. This innovative approach replaced the conventional "little ships on flat maps" style that was common in naval strategy games of the era[^ref-4]. Developed by Impressions Games and published by Sierra Entertainment in 1995, High Seas Trader was David Lester's first game at Impressions and served as a follow-up to the company's earlier title Merchant Colony[^ref-5].[^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-6]
@@ -110,7 +110,7 @@ The game's educational value extends beyond just entertainment. As one reviewer 
 
 The title represents an important entry in Sierra's diverse portfolio during the mid-1990s expansion period, demonstrating the company's commitment to publishing innovative strategy games from acquired studios[^ref-22]. Despite mixed contemporary reviews, the game has found new appreciation among retro gaming enthusiasts who value its historical detail and unique approach to naval trading simulation[^ref-15]. The game's influence can be seen in later maritime trading games, and it continues to be discussed in forums dedicated to classic strategy gaming[^ref-27].
 
-Modern retrospectives acknowledge that while the game "aged better on nostalgia than in playability"[^ref-5], it remains an important historical artifact documenting both game design experimentation and the broader economic simulation genre that thrived during the 1990s.
+Modern retrospectives acknowledge that while the game "aged better on nostalgia than in playability"[^ref-5], it remains an important historical artifact documenting both game design experimentation and the broader economic simulation genre that thrived during the 1990s.[^ref-29]
 
 ## Downloads
 

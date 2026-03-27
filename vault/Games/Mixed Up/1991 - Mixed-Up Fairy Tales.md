@@ -26,7 +26,7 @@ Mixed-Up Fairy Tales is an educational adventure game released in 1991 by Sierra
 
 The game's central premise involves helping a friendly dragon named Bookwyrm restore order to five classic fairy tales that have been mixed up by a mischievous character named Bookend[^ref-4]. Players explore a magical fairy tale world, encountering displaced characters and collecting items needed to set things right[^ref-5]. The game was designed for "classroom play," intended to be experienced in short bursts suitable for educational environments[^ref-6].
 
-Unlike Sierra's more challenging adventure titles such as King's Quest or Space Quest, Mixed-Up Fairy Tales was specifically crafted as a non-threatening entry point into the adventure game genre[^ref-7]. The hand-drawn graphics have been favorably compared to the visual quality found in contemporaneous Sierra titles like King's Quest V[^ref-8], while the classical music soundtrack featuring arrangements of Mozart and Bach adds an educational dimension to the audio experience[^ref-9].
+Unlike Sierra's more challenging adventure titles such as King's Quest or Space Quest, Mixed-Up Fairy Tales was specifically crafted as a non-threatening entry point into the adventure game genre[^ref-7]. The hand-drawn graphics have been favorably compared to the visual quality found in contemporaneous Sierra titles like King's Quest V[^ref-8], while the classical music soundtrack featuring arrangements of Mozart and Bach adds an educational dimension to the audio experience[^ref-9].[^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -93,7 +93,7 @@ Modern retrospectives have generally viewed Mixed-Up Fairy Tales positively as a
 
 User reviews on MobyGames present a mixed picture. One reviewer noted that the game "appeals to children more than adults, but the game can be used to remind yourself in case you forget what the fairy tale is about"[^ref-8]. However, another user argued that it's "probably for Sierra-game completists only" and that "Mother-goose is a lot better"[^ref-9].
 
-The Adventure Gamer blog's retrospective analysis characterized the game as "very much a First Steps to Adventure-styled title, not something that really offers much for an older audience"[^ref-7]. The reviewer suggested that having no voice acting may have actually benefited the game by encouraging reading[^ref-7].
+The Adventure Gamer blog's retrospective analysis characterized the game as "very much a First Steps to Adventure-styled title, not something that really offers much for an older audience"[^ref-7]. The reviewer suggested that having no voice acting may have actually benefited the game by encouraging reading[^ref-7].[^ref-24]
 
 **Aggregate Scores:**
 - **MobyGames:** 83% (critic reviews)[^ref-4]
@@ -159,7 +159,7 @@ A minor visual bug has been documented where examining objects causes the object
 
 **SCI Interpreter Versions:**[^ref-4]
 | Game Version | Interpreter | Type | Notes |
-|--------------|-------------|------|-------|
+|--------------|-------------|------|-------|[^ref-23][^ref-26]
 | 1.0 | SCI1 | SCI1 | Initial release with VGA graphics |
 | EGA | SCI1 | SCI1 | Alternative graphics version |
 

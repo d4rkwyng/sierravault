@@ -25,7 +25,7 @@ Zeus: Master of Olympus is a city-building simulation game set in the mythologic
 
 The game was described as what would happen "if SimCity were set in ancient Greece," requiring players to manage not only the mundane aspects of urban planning—taxation, employment, and resource distribution—but also the whims of the Olympian gods who could bless or curse a city depending on their mood[^ref-4]. Players can construct sanctuaries to the twelve major Olympians, each providing essential services to the city, while also preparing defenses against mythological threats like the Hydra and Cyclops[^ref-5]. With its colorful 2D isometric graphics and lighthearted tone filled with Ancient Greek puns, Zeus earned critical acclaim and an 87/100 Metascore, establishing itself as one of the most beloved entries in the city-building genre[^ref-6].
 
-The game was praised for achieving "the perfect balance of beauty, difficulty, detail, and puns," with reviewers noting that it remained compelling despite—or perhaps because of—its relaxed approach to historical simulation[^ref-7]. An expansion pack, Poseidon: Master of Atlantis, was released in June 2001, adding new campaigns set in the legendary sunken civilization[^ref-8].
+The game was praised for achieving "the perfect balance of beauty, difficulty, detail, and puns," with reviewers noting that it remained compelling despite—or perhaps because of—its relaxed approach to historical simulation[^ref-7]. An expansion pack, Poseidon: Master of Atlantis, was released in June 2001, adding new campaigns set in the legendary sunken civilization[^ref-8].[^ref-36]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

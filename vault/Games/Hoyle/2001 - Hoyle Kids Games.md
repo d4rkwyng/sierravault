@@ -26,7 +26,7 @@ Hoyle Kids Games is a children's compilation title developed and published by [[
 
 The compilation features fifteen beloved classic games reimagined with colorful graphics and animated character opponents[^ref-2]. Sierra's familiar format of internet play capability allows children to compete not only against computer-controlled characters but also with up to three other human players on the same computer or online[^ref-1]. The game emphasizes accessibility and ease of use, making it simple for young players to install and begin playing without complex setup procedures[^ref-2].
 
-A distinguishing feature of Hoyle Kids Games is its character customization system and cast of whimsical animated characters[^ref-1]. Children can create personalized avatars using the Facemaker utility and then challenge built-in characters like Pepper the Dalmatian and Roswell the Alien to friendly competition[^ref-2]. An animated talking Genie serves as an in-game guide, teaching rules and providing hints to help young players master each game[^ref-2].
+A distinguishing feature of Hoyle Kids Games is its character customization system and cast of whimsical animated characters[^ref-1]. Children can create personalized avatars using the Facemaker utility and then challenge built-in characters like Pepper the Dalmatian and Roswell the Alien to friendly competition[^ref-2]. An animated talking Genie serves as an in-game guide, teaching rules and providing hints to help young players master each game[^ref-2].[^ref-9][^ref-10][^ref-12]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -284,7 +284,6 @@ The title also reflects the industry's growing interest in online multiplayer ga
 [^ref-12]: [Hoyle Casino Wikipedia](https://en.wikipedia.org/wiki/Hoyle_Casino) – Hoyle series commercial context
 [^ref-13]: [GameSpot – Sierra Games](https://www.gamespot.com/profile/sierra/games/) – Sierra publisher information
 [^ref-14]: [Steam Community – Hoyle Discussion](https://steamcommunity.com/app/245780/discussions/) – community interest in Hoyle series
-[^ref-15]: [Old-Games.com – Hoyle Board Games](https://www.old-games.com/download/9974/hoyle-board-games-2001) – related Hoyle series context
 [^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – publisher history, company background
 [^ref-17]: [IGDB – Hoyle Kids Games](https://www.igdb.com/games/hoyle-kids-games) – game database entry
 [^ref-18]: [Giant Bomb – Hoyle Franchise](https://www.giantbomb.com/hoyle/3025-1050/) – franchise information

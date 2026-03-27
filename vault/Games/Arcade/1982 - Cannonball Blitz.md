@@ -25,7 +25,7 @@ Cannonball Blitz is a 1982 action platformer developed by Olaf Lubeck and publis
 
 The game was released during Sierra's prolific period of creating arcade-style action games, following their successful clones Crossfire (a Targ clone) and Jawbreaker (a Pac-Man clone).[^ref-2] Players control a rebel soldier attempting to scale Nutcracker Hill to reach and destroy Cannonball Castle, facing rough terrain, enemy troops, and the titular constant rain of cannonballs.[^ref-4] The game featured three distinct screens that mirrored the structure of Donkey Kong while introducing unique mechanics like balloon rides to reach higher platforms.[^ref-2]
 
-Cannonball Blitz achieved notoriety in the Apple II software community not only for its gameplay but also for its particularly robust copy protection, which proved challenging for software crackers of the era.[^ref-3] The game ran on any Apple II with 48K of memory and was subsequently ported to the VIC-20 and TI-99/4A platforms.[^ref-1]
+Cannonball Blitz achieved notoriety in the Apple II software community not only for its gameplay but also for its particularly robust copy protection, which proved challenging for software crackers of the era.[^ref-3] The game ran on any Apple II with 48K of memory and was subsequently ported to the VIC-20 and TI-99/4A platforms.[^ref-1][^ref-20][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]] ([[Sierra On-Line]])[^ref-1]
@@ -245,4 +245,3 @@ The game's aggressive copy protection and its taunting hidden message to cracker
 [^ref-20]: [VideoGameGeek – Cannonball Blitz](https://videogamegeek.com/videogame/105085/cannonball-blitz) – user ratings, platform list
 [^ref-21]: [Games Database – Apple II Version](https://www.gamesdatabase.org/game/apple-ii/cannonball-blitz) – developer/publisher confirmation
 [^ref-22]: [Wikidata – Cannonball Blitz](https://www.wikidata.org/wiki/Q5032821) – structured metadata
-[^ref-23]: [Internet Archive – On-Line Physical](https://archive.org/details/on-line-cannonball-blitz-a2-ph) – 1981 release date variant

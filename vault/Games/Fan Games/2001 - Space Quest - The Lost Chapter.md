@@ -25,7 +25,7 @@ Space Quest: The Lost Chapter is an unofficial fan-made adventure game that take
 
 The game faithfully recreates the look and feel of Sierra's classic AGI-era adventures, featuring cartoony 16-color graphics reminiscent of Space Quest II[^ref-1]. Like its official Sierra counterparts, The Lost Chapter features innumerable ways to die—a hallmark of classic Sierra design that co-creator Scott Murphy once described as "fun death," noting "if the player is gonna die or fail, they should at least get a laugh out of it"[^ref-4]. The game achieved considerable success within the Space Quest fan community and helped spawn several other fan game projects[^ref-3].
 
-Despite being an amateur production, The Lost Chapter earned positive reception from fans and reviewers who appreciated its faithful recreation of the Space Quest experience. The game provides completely original art, story, and puzzles while paying homage to the source material[^ref-5]. One review noted: "Amateur sequels to professional games are rarely of the same quality, and an amateur addition to the legendary Space Quest series would have a lot to live up to in the way of fan's expectations. It's actually rather good"[^ref-6].
+Despite being an amateur production, The Lost Chapter earned positive reception from fans and reviewers who appreciated its faithful recreation of the Space Quest experience. The game provides completely original art, story, and puzzles while paying homage to the source material[^ref-5]. One review noted: "Amateur sequels to professional games are rarely of the same quality, and an amateur addition to the legendary Space Quest series would have a lot to live up to in the way of fan's expectations. It's actually rather good"[^ref-6].[^ref-24][^ref-25][^ref-26]
 
 > [!info]- Game Info
 > **Developer:** Vonster Vision[^ref-5]
@@ -44,7 +44,7 @@ The Lost Chapter picks up immediately after the conclusion of Space Quest II: Vo
 
 Waking from his long cryosleep, Roger finds himself crash-landed on a jungle planet with no immediate means of escape[^ref-5]. The game chronicles his adventures as he explores this strange new world, encounters alien civilizations, and attempts to find a way off the planet and back to civilization[^ref-10]. Along the way, Roger must navigate treacherous environments, solve puzzles, and avoid the many deadly perils that await him—including a notoriously difficult tentacle maze that has frustrated players for years[^ref-11].
 
-The narrative provides a seamless transition from the escape pod sequence at the end of Space Quest 2 and ultimately concludes in a position that leads directly into the opening events of Space Quest III: The Pirates of Pestulon[^ref-8]. The game also attempts to explain certain continuity mysteries from the official series, including the reason for Roger's hair color changes between the AGI games (where he appears with brown hair) and the later titles (where he is blonde)[^ref-3]. The story suggests that Roger's mind is wiped and his pod returned to its original position to avoid contaminating "Future Timestreams"[^ref-3].
+The narrative provides a seamless transition from the escape pod sequence at the end of Space Quest 2 and ultimately concludes in a position that leads directly into the opening events of Space Quest III: The Pirates of Pestulon[^ref-8]. The game also attempts to explain certain continuity mysteries from the official series, including the reason for Roger's hair color changes between the AGI games (where he appears with brown hair) and the later titles (where he is blonde)[^ref-3]. The story suggests that Roger's mind is wiped and his pod returned to its original position to avoid contaminating "Future Timestreams"[^ref-3].[^ref-28]
 
 ## Gameplay
 
@@ -167,7 +167,7 @@ The Lost Chapter contains various references and hidden content for dedicated pl
 - **Fan Community References:** Contains references to the Space Quest fan community itself[^ref-13]
 - **Series Callbacks:** Multiple references to events and characters from other Space Quest games[^ref-13]
 
-Additional trivia:
+Additional trivia:[^ref-29]
 - The game is sometimes referred to as "Space Quest 2.5" due to its placement in the series timeline[^ref-3]
 - Roger appears "more robust than his former scrawny self" according to one reviewer[^ref-6]
 - The game explains why Roger's hair changes from brown (in the AGI games) to blonde (in later games)[^ref-3]
@@ -270,7 +270,5 @@ In the broader context of fan game development, The Lost Chapter stands as an ea
 [^ref-24]: [IMDB – Space Quest: The Lost Chapter](https://www.imdb.com/title/tt15478816/) – release date, country of origin, genre classification
 [^ref-25]: [Reddit r/adventuregames – Tentacle Maze](https://www.reddit.com/r/adventuregames/comments/okc3oy/space_quest_the_lost_chapter_tentacle_maze/) – fan creation confirmation
 [^ref-26]: [Space Quest Omnipedia – History](https://spacequest.fandom.com/wiki/The_Space_Quest_History) – Scott Murphy quotes, Mark Crowe quotes, series design philosophy
-[^ref-27]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Space+Quest%3A+The+Lost+Chapter) – release date confirmation
 [^ref-28]: [OldGames.sk – Space Quest I](https://www.oldgames.sk/en/game/space-quest-the-sarien-encounter/download/784/) – AGI engine context, Roger Wilco character description
 [^ref-29]: [PCGamingWiki – Space Quest I](https://www.pcgamingwiki.com/wiki/Space_Quest:_Chapter_I_-_The_Sarien_Encounter) – AGI engine technical details
-[^ref-30]: [Old Games Download](https://oldgamesdownload.com/space-quest-the-lost-chapter/) – file size, platform confirmation

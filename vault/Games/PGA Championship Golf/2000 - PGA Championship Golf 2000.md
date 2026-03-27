@@ -33,7 +33,7 @@ tags:
 
 PGA Championship Golf 2000 stands as one of Sierra Sports' most acclaimed golf simulations, representing the pinnacle of the company's golf franchise that had evolved from the earlier Front Page Sports line[^ref-1][^ref-2]. Developed by Headgate Studios and published by Sierra Sports in June 2000[^ref-3][^ref-4], the game delivered what Hartford Courant called "by far the most developed and satisfying of what has become a long line of golf games from Sierra"[^ref-1]. The game earned an impressive 88% aggregate score on GameRankings[^ref-3] and won GameSpy's 2000 Sports Game of the Year award[^ref-3].
 
-The centerpiece innovation was TrueSwing 3, a mouse-based swing system that replaced traditional click-based mechanics with actual mouse movements to simulate real golf swings[^ref-4][^ref-5]. Eurogamer declared the game "quite frankly the best golfing simulation on the market" and awarded it 9/10[^ref-6], while GameSpot's Stephen Poole called it "currently the unrivaled king of golf sims" with a score of 8.9/10[^ref-4].
+The centerpiece innovation was TrueSwing 3, a mouse-based swing system that replaced traditional click-based mechanics with actual mouse movements to simulate real golf swings[^ref-4][^ref-5]. Eurogamer declared the game "quite frankly the best golfing simulation on the market" and awarded it 9/10[^ref-6], while GameSpot's Stephen Poole called it "currently the unrivaled king of golf sims" with a score of 8.9/10[^ref-4].[^ref-23][^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Headgate Studios]][^ref-7]
@@ -85,7 +85,7 @@ However, reviews were not without criticism. Game Over noted long loading times 
 
 ### Modern Assessment
 
-Contemporary players have maintained appreciation for the game's innovative design. MobyGames users rated the game with a MobyScore of 8.0[^ref-7], while Amazon customer reviews average 3.3/5 stars[^ref-14]. User Mark A. Symmonds noted that "TrueSwing uses the mouse to make a complete stroke instead of doing the old three click"[^ref-14]. GameFabrique awarded it 7/10 in a retrospective review, noting that "it's not in the same league as Tiger Woods PGA Tour Golf, but it's still worth a look"[^ref-15]. A GOG community user recalled, "Loved playing this, always good for a quick session when on a break, and the handling of the shots via mouse was smooth and extremely accurate for my taste"[^ref-16].
+Contemporary players have maintained appreciation for the game's innovative design. MobyGames users rated the game with a MobyScore of 8.0[^ref-7], while Amazon customer reviews average 3.3/5 stars[^ref-14]. User Mark A. Symmonds noted that "TrueSwing uses the mouse to make a complete stroke instead of doing the old three click"[^ref-14]. GameFabrique awarded it 7/10 in a retrospective review, noting that "it's not in the same league as Tiger Woods PGA Tour Golf, but it's still worth a look"[^ref-15]. A GOG community user recalled, "Loved playing this, always good for a quick session when on a break, and the handling of the shots via mouse was smooth and extremely accurate for my taste"[^ref-16].[^ref-25]
 
 ## Development
 

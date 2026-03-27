@@ -169,7 +169,7 @@ The original arcade game contains several documented bugs and quirks[^ref-10]:
 - Moving left and right on the very top log can sometimes be extremely slow, especially after eating a fly
 - Players can occasionally jump off-grid and off-screen to the right from the middle section
 
-The DOS version running on modern systems experiences severe speed issues without proper DOSBox configuration, causing the game to run "very fast"[^ref-6].
+The DOS version running on modern systems experiences severe speed issues without proper DOSBox configuration, causing the game to run "very fast"[^ref-6].[^ref-35]
 
 ### Easter Eggs and Trivia
 

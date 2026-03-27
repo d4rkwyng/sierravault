@@ -20,14 +20,13 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 **Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure game created by Al Lowe and Josh Mandel at Sierra On-Line[^ref-1]. Released in 1993 for DOS and later ported to other platforms, the game represents Sierra's first Western-themed adventure, conceived when Al Lowe noticed "there wasn't a single Western computer game on the market"[^ref-2]. The game follows the adventures of a former gunslinger turned pharmacist in the frontier town of Coarsegold, California[^ref-3].
 
 Described by Computer Gaming World's Charles Ardai as "the Blazing Saddles of computer games," the title successfully combines Mel Brooks-style Western parody with Sierra's traditional point-and-click adventure gameplay[^ref-4]. Al Lowe considered this the perfect compliment, as Blazing Saddles was directly his inspiration for the game's comedic tone[^ref-collection]. The game was built using Sierra's SCI1.1 engine and featured both a text-based floppy version and a later CD-ROM release with full voice acting[^ref-5].
 
-Freddy Pharkas was a breath of fresh air, far enough away from knights, space janitors, and middle-aged losers in leisure suits[^ref-collection] to carve its own unique niche in Sierra's adventure game lineup. Al Lowe himself stated: "I think it may well be my funniest game, due in great part to the wit of Josh Mandel"[^ref-collection]. The game successfully balances historical authenticity about frontier medicine with absurdist humor, creating an experience that can make a jaded player laugh out loud frequently[^ref-collection].
+Freddy Pharkas was a breath of fresh air, far enough away from knights, space janitors, and middle-aged losers in leisure suits[^ref-collection] to carve its own unique niche in Sierra's adventure game lineup. Al Lowe himself stated: "I think it may well be my funniest game, due in great part to the wit of Josh Mandel"[^ref-collection]. The game successfully balances historical authenticity about frontier medicine with absurdist humor, creating an experience that can make a jaded player laugh out loud frequently[^ref-collection].[^ref-22][^ref-23][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -192,7 +191,6 @@ By using the Keypad keys with activated NumLock, players can play goofy noises f
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

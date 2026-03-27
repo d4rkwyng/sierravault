@@ -46,7 +46,7 @@ After fleeing the orbital station, Roger's investigation leads him to the surfac
 
 The investigation eventually reveals a sinister plot involving illegal cloning operations, fitting given Roger's posting at a cloning facility.[^ref-3] The storyline incorporates elements that would become familiar to Space Quest fans, including references to other games in the series such as Space Quest 3 and potentially Space Quest IV.[^ref-4] Roger's journey takes him through multiple locations including subterranean areas, a spaceport, the franchise-famous Monolith Burger restaurant, and ultimately to the Mitos 15 Cloning Facility where the conspiracy's origins are revealed.[^ref-9] The game also introduces a mysterious blue character named Xavi who plays a significant role in the unfolding events.[^ref-9]
 
-True to Space Quest tradition, the game features numerous opportunities for Roger to meet an untimely and often humorous demise, continuing the series' legacy of "fun death" that co-creator Scott Murphy championed when developing the original games.[^ref-10] The story concludes with Roger successfully thwarting the villainous scheme, though as a prequel, players know that greater adventures—and misadventures—await the bumbling janitor in his future.
+True to Space Quest tradition, the game features numerous opportunities for Roger to meet an untimely and often humorous demise, continuing the series' legacy of "fun death" that co-creator Scott Murphy championed when developing the original games.[^ref-10] The story concludes with Roger successfully thwarting the villainous scheme, though as a prequel, players know that greater adventures—and misadventures—await the bumbling janitor in his future.[^ref-21]
 
 ## Gameplay
 

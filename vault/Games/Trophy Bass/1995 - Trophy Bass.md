@@ -25,7 +25,7 @@ Trophy Bass is a bass fishing simulation game developed by [[Jeff Tunnell Produc
 
 The game offered players the opportunity to compete in B.A.S.S. Masters tournaments, pursue a fishing career, or simply spend an afternoon at one of nine photo-realistic virtual lakes.[^ref-3] Trophy Bass featured a top-down perspective with detailed simulation of bass behavior, habitat conditions, and fishing techniques.[^ref-4] Players could select from a variety of lures, reels, and locations while considering realistic environmental factors such as weather, water temperature, and time of day.[^ref-5]
 
-What set Trophy Bass apart from other games of its time was its unexpected commercial success. Despite receiving minimal attention from the gaming press and having zero reviews on MobyGames for years, the game sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than from traditional computer and gaming stores.[^ref-6] This retail strategy, targeting fishing enthusiasts rather than hardcore gamers, proved remarkably successful and established Trophy Bass as one of Dynamix's most profitable franchises.[^ref-6]
+What set Trophy Bass apart from other games of its time was its unexpected commercial success. Despite receiving minimal attention from the gaming press and having zero reviews on MobyGames for years, the game sold many more copies from the outdoor sections of Middle American Wal-Mart superstores than from traditional computer and gaming stores.[^ref-6] This retail strategy, targeting fishing enthusiasts rather than hardcore gamers, proved remarkably successful and established Trophy Bass as one of Dynamix's most profitable franchises.[^ref-6][^ref-35]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions / [[Dynamix]][^ref-1]
@@ -86,7 +86,7 @@ Rather than traditional puzzles, Trophy Bass challenges players with the complex
 - Retrieve speed and pattern affect lure presentation[^ref-4]
 - Hook-setting timing and fighting technique determine whether hooked fish are successfully landed[^ref-4]
 
-The game's AI simulates realistic bass behavior, with fish responding dynamically to player actions and environmental conditions in ways that reward observant, skilled players while punishing those who ignore the fundamentals of bass fishing.[^ref-7]
+The game's AI simulates realistic bass behavior, with fish responding dynamically to player actions and environmental conditions in ways that reward observant, skilled players while punishing those who ignore the fundamentals of bass fishing.[^ref-7][^ref-34]
 
 ## Reception
 

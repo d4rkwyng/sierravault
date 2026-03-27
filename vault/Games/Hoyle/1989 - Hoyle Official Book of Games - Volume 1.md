@@ -27,7 +27,7 @@ Hoyle Official Book of Games: Volume 1 is a collection of six classic card games
 
 The game represents a spiritual sequel to Sierra's earlier Hi-Res Cribbage from 1981, but expanded significantly in scope and presentation[^ref-4]. What set Hoyle apart from other card games of its era was the integration of Sierra's trademark humor and personality, featuring 18 computer opponents including characters like Larry Laffer from Leisure Suit Larry, King Graham from King's Quest, Roger Wilco from Space Quest, and Officer Sonny Bonds from Police Quest[^ref-1]. The game achieved remarkable commercial success, selling over 250,000 copies by 1990[^ref-4].
 
-Built using Sierra's proprietary Creative Interpreter (SCI) engine—the same technology powering their acclaimed adventure games—Volume 1 brought unprecedented production values to the card game genre[^ref-4]. The collection includes Cribbage, Crazy Eights, Gin Rummy, Hearts, Old Maid, and Klondike Solitaire, offering both casual and serious play experiences[^ref-5]. The game was released under license from Brown & Bigelow Inc., which owned the Hoyle trademark and facecard designs[^ref-4].
+Built using Sierra's proprietary Creative Interpreter (SCI) engine—the same technology powering their acclaimed adventure games—Volume 1 brought unprecedented production values to the card game genre[^ref-4]. The collection includes Cribbage, Crazy Eights, Gin Rummy, Hearts, Old Maid, and Klondike Solitaire, offering both casual and serious play experiences[^ref-5]. The game was released under license from Brown & Bigelow Inc., which owned the Hoyle trademark and facecard designs[^ref-4].[^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

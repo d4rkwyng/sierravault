@@ -19,7 +19,6 @@ tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Slater & Charlie Go Camping is an educational interactive storybook released by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms[^ref-1][^ref-2]. The game features Slater the Petrosaur, the protagonist from Sierra's Oil's Well remake, who "has got himself a buddy in the form of Charlie, another dinosaur of indeterminate species"[^ref-3]. Together, these dinosaur characters embark on a camping adventure designed to teach children about outdoor safety and nature through interactive storytelling[^ref-2].
@@ -172,7 +171,6 @@ This educational framework proved so successful that it became the template for 
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
 
-
 ### Contemporary Market Position
 
 Slater & Charlie Go Camping competed in the growing educational software market against established titles from Brøderbund and other publishers[^ref-2]. Despite critical acclaim for its innovative approach to combining entertainment with learning, the game faced significant challenges in market penetration dominated by Living Books' established presence[^ref-1]. The game's technical achievement in delivering full narration via floppy disk was noteworthy but didn't overcome the visual polish advantage of CD-ROM based competitors[^ref-15].
@@ -204,20 +202,3 @@ The game's design philosophy emphasized that "so much fun, your children won't n
 [^ref-19]: [GOG Dreamlist - Slater Charlie Go Camping](https://www.gog.com/dreamlist) – - Community interest in digital re-release
 [^ref-20]: [Steam Search Results](https://store.steampowered.com/search/?term=Slater+%26+Charlie+Go+Camping) – - Current digital availability status
 [^ref-21]: [GOG Games Search](https://www.gog.com/en/games?query=Slater+%26+Charlie+Go+Camping) – - Digital store availability
-[^ref-22]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Slater+%26+Charlie+Go+Camping) – - Abandonware database search results
-[^ref-23]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Slater+%26+Charlie+Go+Camping) – - Adventure gaming database search
-[^ref-24]: [Internet Archive - Game Data Debian Packages](https://archive.org/details/game-data-debian-packages-2) – - Software preservation context
-[^ref-25]: [eBay Canada Listing](https://www.ebay.ca/itm/126542412467) – - Vintage marketplace availability and pricing
-[^ref-26]: [eBay US Listing - CD Version](https://www.ebay.com/itm/405106228476) – - Physical media format information
-[^ref-27]: [eBay US Listing - Educational Game](https://www.ebay.com/itm/156189209859) – - Educational software categorization
-[^ref-28]: [EmuParadise Similar Games](https://www.emuparadise.me/roms/similar-games.php?gid=95987) – - Related educational games reference
-[^ref-29]: [Filfre.net Search](https://www.filfre.net/?s=Slater+%26+Charlie+Go+Camping) – - Digital antiquarian blog search results
-[^ref-30]: [HowLongToBeat Search](https://howlongtobeat.com/?q=Slater+%26+Charlie+Go+Camping) – - Game completion time database search
-[^ref-31]: [IMDB Search](https://www.imdb.com/find/?q=Slater+%26+Charlie+Go+Camping&s=tt) – - Entertainment database search results
-[^ref-32]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Slater+%26+Charlie+Go+Camping) – - Game database search functionality
-[^ref-33]: [MobyGames - The Slater](https://www.mobygames.com/game/152194/the-slater/) – - Related game with similar character name
-[^ref-34]: [MobyGames - Slater Man](https://www.mobygames.com/game/68421/slater-man/) – - Another game with Slater character reference
-[^ref-35]: [MobyGames - Charlie and the Chocolate Factory](https://www.mobygames.com/game/18796/charlie-and-the-chocolate-factory/) – - Game featuring character named Charlie
-[^ref-36]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Slater+%26+Charlie+Go+Camping) – - Abandonware search results
-[^ref-37]: [MyAbandonware Play Page](https://www.myabandonware.com/game/slater-charlie-go-camping-2ax/play-2ax) – - Direct play access for preserved game
-[^ref-38]: [Sierra Gamers Updates](https://www.sierragamers.com/Updates/) – - Sierra gaming community archive and historical context

@@ -25,7 +25,7 @@ Mixed-Up Mother Goose is a classic educational adventure game designed by [[Robe
 
 The game tasks players with exploring Mother Goose Land, where all the nursery rhymes have become "mixed up," requiring the player to locate missing items and return them to their rightful owners to restore order.[^ref-3] Unlike Sierra's more complex adventure titles that featured text parsers and challenging puzzles, Mixed-Up Mother Goose was deliberately designed to be simple enough that "even young children can play it when adults are out of the room."[^ref-4] This accessibility, combined with its charming premise and educational value, made it one of Sierra's most commercially successful and frequently remade titles, with subsequent versions released in 1990, 1991/1992, and 1995/1996.[^ref-5]
 
-The picture of Mother Goose on the original game box was actually [[Roberta Williams]] herself in costume, with the two children pictured beside her being her own children—a personal touch that reflected the game's family-friendly origins.[^ref-3] Contemporary reviews praised the game highly, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-5]
+The picture of Mother Goose on the original game box was actually [[Roberta Williams]] herself in costume, with the two children pictured beside her being her own children—a personal touch that reflected the game's family-friendly origins.[^ref-3] Contemporary reviews praised the game highly, with Compute! magazine declaring "I can't think of a better way to teach kids the classical nursery rhymes."[^ref-5][^ref-29][^ref-32]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -46,7 +46,7 @@ Players take on the role of a child character whose appearance and name can be c
 
 As players explore the various locations of Mother Goose Land—including houses, fields, castles, and other storybook settings—they encounter beloved characters like Old King Cole, Little Miss Muffet, Jack and Jill, and many others.[^ref-3] Each character is missing something vital to their nursery rhyme, and the player must use observation and memory to match the correct items with the correct characters. The game features 18 different nursery rhymes to restore, providing ample content for young players.[^ref-9]
 
-When a player successfully returns an item to its rightful owner, the game rewards them by playing the complete nursery rhyme with animated visuals and lyrics appearing on screen.[^ref-9] This educational reward system teaches children the classic rhymes while providing satisfying feedback for correct matches. The game concludes when all 18 rhymes have been restored to their proper state, bringing harmony back to Mother Goose Land.[^ref-3]
+When a player successfully returns an item to its rightful owner, the game rewards them by playing the complete nursery rhyme with animated visuals and lyrics appearing on screen.[^ref-9] This educational reward system teaches children the classic rhymes while providing satisfying feedback for correct matches. The game concludes when all 18 rhymes have been restored to their proper state, bringing harmony back to Mother Goose Land.[^ref-3][^ref-30]
 
 ## Gameplay
 
@@ -185,7 +185,7 @@ Technical documentation notes that "of all the AGI games, it is unknown whether 
 
 ### Cut Content
 
-An Atari ST version labeled "Classic's Reillustrated" was announced but ultimately cancelled before release.[^ref-5] This would have been an enhanced version for the Atari ST platform, but no further details about its planned features have survived.
+An Atari ST version labeled "Classic's Reillustrated" was announced but ultimately cancelled before release.[^ref-5] This would have been an enhanced version for the Atari ST platform, but no further details about its planned features have survived.[^ref-31]
 
 ### Easter Eggs and Trivia
 

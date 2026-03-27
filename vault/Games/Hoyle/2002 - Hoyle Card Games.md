@@ -25,7 +25,7 @@ Hoyle Card Games 2002 represents the fifth installment in Sierra Entertainment's
 
 The game offered sixteen distinct card games alongside an impressive collection of forty-three varieties of solitaire, providing players with "lively, interactive play and crisp, colorful graphics" that made it "the number one game in its class" according to manufacturer descriptions.[^ref-4] A notable feature of this release was the "International Games Selection," which introduced Skat from Germany and Tarot from France to the series for the first time, expanding the game's appeal beyond traditional American and British card games.[^ref-1] The package also included a version of Hoyle Solitaire compatible with Palm OS devices, allowing players to take their card gaming on the go.[^ref-5]
 
-Hoyle Card Games 2002 was published by [[Sierra On-Line]] and received an ESRB rating of E for Everyone with a content descriptor for Gambling, reflecting the game's focus on traditional card games that involve wagering mechanics.[^ref-6] The game featured ten animated AI opponents with distinct personalities and included the popular Facemaker function, allowing players to create custom characters in their own likeness for use across multiple Hoyle products including Board Games and Casino.[^ref-1]
+Hoyle Card Games 2002 was published by [[Sierra On-Line]] and received an ESRB rating of E for Everyone with a content descriptor for Gambling, reflecting the game's focus on traditional card games that involve wagering mechanics.[^ref-6] The game featured ten animated AI opponents with distinct personalities and included the popular Facemaker function, allowing players to create custom characters in their own likeness for use across multiple Hoyle products including Board Games and Casino.[^ref-1][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-7]
@@ -261,6 +261,3 @@ The game's technical conservatism, criticized at release, ironically contributed
 [^ref-16]: [Metacritic – Hoyle Card Games 2002](https://www.metacritic.com/game/hoyle-card-games-2002/) – release date confirmation
 [^ref-17]: [MSU Libraries – Hoyle Card Games](https://lib.msu.edu/rovi_game/5731) – publisher information, hybrid format
 [^ref-18]: [Igromania – Hoyle Card Games 2002](https://www.igromania.ru/game/reviews/16673/Hoyle_Card_Games_(2002).html) – Russian publication listing
-[^ref-19]: [GameFAQs – Hoyle Card Games 2005 Data](https://gamefaqs.gamespot.com/pc/924221-hoyle-card-games-2005/data) – VU Games publishing
-[^ref-20]: [GameFAQs – Hoyle Card Games 2011](https://gamefaqs.gamespot.com/pc/624651-hoyle-card-games-2011) – Encore Software continuation
-[^ref-21]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – market pricing, platform formats

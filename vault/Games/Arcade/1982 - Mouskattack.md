@@ -25,7 +25,7 @@ Mouskattack is an action arcade game developed and published by On-Line Systems 
 
 The game was originally developed for the Atari 400/800 platform in late 1981 before being ported to the Apple II in early 1982 and later to the IBM PC.[^ref-5] While the core gameplay closely resembled Namco's iconic Pac-Man, Mouskattack distinguished itself through its unique pest control theme and the addition of mouse traps as a strategic gameplay element.[^ref-3][^ref-4] The game represented On-Line Systems' continued experimentation with arcade-style action games alongside their growing adventure game catalog during this formative period of the company's history.
 
-Despite its solid gameplay foundation, Mouskattack was not considered a major commercial success for the publisher.[^ref-5] The game's development history is intertwined with On-Line Systems' earlier and more legally troubled Pac-Man clones, making it an interesting footnote in Sierra's early arcade game efforts.[^ref-5]
+Despite its solid gameplay foundation, Mouskattack was not considered a major commercial success for the publisher.[^ref-5] The game's development history is intertwined with On-Line Systems' earlier and more legally troubled Pac-Man clones, making it an interesting footnote in Sierra's early arcade game efforts.[^ref-5][^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1][^ref-2]
@@ -121,7 +121,7 @@ Mouskattack was programmed in machine language to achieve the fast response time
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|
+|---------|------|----------|-------|[^ref-15]
 | 1.0 | Late 1981 | Atari 400/800 | Original release by John Harris[^ref-5] |
 | 1.0 | January 1, 1982 | Atari 800 | Commercial release[^ref-1] |
 | 1.0 | Early 1982 | Apple II | Remake by Ken Williams and Al Nystrom with different maze[^ref-5] |

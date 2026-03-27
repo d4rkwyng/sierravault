@@ -23,7 +23,7 @@ tags: [1990s, dr-brain, educational, sierra]
 
 The Time Warp of Dr. Brain is an educational puzzle adventure game developed by Sierra On-Line in 1996[^ref-1]. The fourth installment in the Dr. Brain series[^ref-2], the game follows the hapless scientist Dr. Brain as he "teleports himself into last week to retrieve his car keys, only to end up floating in the space-time discontinuum"[^ref-1]. Players must help Dr. Brain navigate through various time periods by solving over 600 brain-building puzzles across 10 different 3D worlds[^ref-3].
 
-As described by Sierra's original marketing materials, "Dr. Brain is trapped in the space time discontinuum. Now he needs your brain power to bring him home. Travel through the ages, solve a myriad of mind-warping puzzles and save Dr. Brain... just in time!"[^ref-4] The marketing promised the game would let players "Play over 400... no... 500... no... 600 mind-building puzzles!"[^ref-43] and offered puzzles that "rebuild themselves for unlimited game play"[^ref-43]. The game was designed by Mark Krause and Ward Makielski[^ref-2], with music composed by Jonathan Cunningham and voice work provided by Rodney Sherwood as Dr. Brain[^ref-1]. This would prove to be the final Dr. Brain game before the series was sold to Knowledge Adventure[^ref-1].
+As described by Sierra's original marketing materials, "Dr. Brain is trapped in the space time discontinuum. Now he needs your brain power to bring him home. Travel through the ages, solve a myriad of mind-warping puzzles and save Dr. Brain... just in time!"[^ref-4] The marketing promised the game would let players "Play over 400... no... 500... no... 600 mind-building puzzles!"[^ref-43] and offered puzzles that "rebuild themselves for unlimited game play"[^ref-43]. The game was designed by Mark Krause and Ward Makielski[^ref-2], with music composed by Jonathan Cunningham and voice work provided by Rodney Sherwood as Dr. Brain[^ref-1]. This would prove to be the final Dr. Brain game before the series was sold to Knowledge Adventure[^ref-1].[^ref-20][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -163,7 +163,7 @@ The Digital Antiquarian has explored the educational gaming genre that Dr. Brain
 
 The Time Warp of Dr. Brain was released with comprehensive language support, available in English, German, and French[^ref-43], with some versions even including sign language options[^ref-12]. As Electric Playground noted, "if you found that the puzzles weren't difficult enough at the genius level (unlikely), you might want to go back to the beginning and play them all in German or French and brush up your language skills"[^ref-45]. The game supported network play with Windows 95[^ref-45] and featured both cooperative and competitive multiplayer modes[^ref-10], including local co-op, online co-op, and LAN competitive options[^ref-39]. 
 
-Technical specifications included support for 68K and PowerPC architectures on Mac[^ref-3], with minimum requirements of a 486 DX2-66 processor, 8MB RAM, SVGA display at 640x480 with 256 colors, and a 2x CD-ROM drive[^ref-46]. The Windows version required Windows 3.1 or Windows 95[^ref-46]. The game's playtime data is tracked by HowLongToBeat[^ref-28], while IMDB documents the voice acting credits[^ref-29]. VGChartz provides basic game metadata for the release[^ref-30].
+Technical specifications included support for 68K and PowerPC architectures on Mac[^ref-3], with minimum requirements of a 486 DX2-66 processor, 8MB RAM, SVGA display at 640x480 with 256 colors, and a 2x CD-ROM drive[^ref-46]. The Windows version required Windows 3.1 or Windows 95[^ref-46]. The game's playtime data is tracked by HowLongToBeat[^ref-28], while IMDB documents the voice acting credits[^ref-29]. VGChartz provides basic game metadata for the release[^ref-30].[^ref-19]
 
 ## Legacy
 
@@ -190,7 +190,6 @@ Original Sierra marketing materials preserved in the Wayback Machine showcase th
 ## Availability
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
-
 
 ## Downloads
 

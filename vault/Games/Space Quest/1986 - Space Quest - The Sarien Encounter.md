@@ -50,7 +50,7 @@ Roger boards the Deltaur and secures a Sarien disguise[^ref-5]. He programs the 
 
 ## Gameplay
 
-Space Quest was created using Sierra's AGI engine and featured a pseudo-3D environment, allowing the character to move in front of and behind background objects[^ref-5][^ref-17]. The game uses 16-color graphics at 160×200 resolution[^ref-4][^ref-5].
+Space Quest was created using Sierra's AGI engine and featured a pseudo-3D environment, allowing the character to move in front of and behind background objects[^ref-5][^ref-17]. The game uses 16-color graphics at 160×200 resolution[^ref-4][^ref-5].[^ref-18]
 
 ### Interface and Controls
 - The primary means of input is through a text parser for entering commands and arrow keys for moving Roger around the screen[^ref-5]

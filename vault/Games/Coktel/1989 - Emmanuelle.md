@@ -102,7 +102,7 @@ Modern retrospectives tend to view Emmanuelle as a curious historical artifact r
 
 Home of the Underdogs gave the game a particularly damning assessment, recommending it "only if you're a masochist, or someone who simply must play every game with mature content."[^ref-14] They noted that "any erotic element in the game is reduced to abstract numbers and gauges and sexual innuendos in the (awfully translated dialogues)."[^ref-14]
 
-GameFAQs walkthrough author jimfish offered a nuanced perspective: "Emmanuelle is a bad game. Ask anybody who's played it. But, like Stockholm Syndrome, the more time you commit to trying to understand it, the more sympathetic you are towards it."[^ref-9]
+GameFAQs walkthrough author jimfish offered a nuanced perspective: "Emmanuelle is a bad game. Ask anybody who's played it. But, like Stockholm Syndrome, the more time you commit to trying to understand it, the more sympathetic you are towards it."[^ref-9][^ref-27]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 55% (9 reviews)[^ref-1]

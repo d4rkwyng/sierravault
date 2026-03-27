@@ -26,7 +26,7 @@ Crazy Nick's Software Picks: Leisure Suit Larry's Casino is a budget gambling ti
 
 The game consists of three casino mini-games: Slot Machine, Blackjack, and Video Poker.[^ref-1] Players begin with 100.00 "Larry Dollars" to gamble with, and in the event they lose everything, the game allows them to take out a loan to continue playing.[^ref-1] While not a full adventure game, the title provided fans of the Leisure Suit Larry series with an opportunity to enjoy the gambling sequences from the mainline games without having to navigate through the adventure game content.[^ref-3] The game was later included in the Leisure Suit Larry Collectors Edition CD-ROM compilation, making it accessible to a broader audience of series enthusiasts.[^ref-4]
 
-Despite its budget origins, the game utilized Sierra's SCI1.1 engine and supported both EGA and VGA graphics modes.[^ref-5] The soundtrack featured music taken directly from the Leisure Suit Larry 1 VGA remake, including a shortened version of the famous Larry Theme composed by [[Al Lowe]].[^ref-2] The game has since been classified as abandonware and can be played through ScummVM emulation for modern compatibility.[^ref-6]
+Despite its budget origins, the game utilized Sierra's SCI1.1 engine and supported both EGA and VGA graphics modes.[^ref-5] The soundtrack featured music taken directly from the Leisure Suit Larry 1 VGA remake, including a shortened version of the famous Larry Theme composed by [[Al Lowe]].[^ref-2] The game has since been classified as abandonware and can be played through ScummVM emulation for modern compatibility.[^ref-6][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -284,6 +284,3 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 [^ref-18]: [MobyGames – Leisure Suit Larry 6: Shape Up or Slip Out!](https://www.mobygames.com/game/407/leisure-suit-larry-6-shape-up-or-slip-out/) – subsequent series entry information
 
-[^ref-19]: [LaunchBox Games Database – ScummVM Entry](https://gamesdb.launchbox-app.com/games/details/86019) – ScummVM platform listing, alternate naming
-
-[^ref-20]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Crazy+Nick%27s+Software+Picks%3A+Leisure+Suit+Larry%27s+Casino) – release date confirmation

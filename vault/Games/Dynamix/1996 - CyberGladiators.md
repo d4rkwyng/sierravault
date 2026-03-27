@@ -25,7 +25,7 @@ CyberGladiators is a one-on-one 3D fighting game released in November 1996 for W
 
 The premise centers on a cosmic event that transformed both heroes and villains into powerful cyborg warriors known as CyberGladiators[^ref-4]. Players can choose to fight for either the Quaaflax Alliance or the terrorist organization Gy Djin in this futuristic combat arena[^ref-1]. The game was notable for its time due to its 3D graphics running on Microsoft DirectX, though contemporary reviewers compared it unfavorably to other fighting games of the era, with one user noting it "feels like Rise of the Robots, but in 3D"[^ref-5].
 
-CyberGladiators represents an interesting evolutionary step in Sierra's catalog, as it evolved from a cancelled project called CRY.SYS[^ref-3]. While not achieving the same recognition as Sierra's adventure game franchises, it demonstrates the company's willingness to experiment with different genres during the Windows 95 era, offering both single-player and local multiplayer combat with LAN support[^ref-6].
+CyberGladiators represents an interesting evolutionary step in Sierra's catalog, as it evolved from a cancelled project called CRY.SYS[^ref-3]. While not achieving the same recognition as Sierra's adventure game franchises, it demonstrates the company's willingness to experiment with different genres during the Windows 95 era, offering both single-player and local multiplayer combat with LAN support[^ref-6].[^ref-23][^ref-24][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** Dynamix, Inc.[^ref-1]
@@ -186,7 +186,7 @@ Users on MyAbandonware report that the best method for playing the game on moder
 The game was released in multiple regional editions, with confirmed releases in the United States, Germany, and France[^ref-18].
 
 **Demo Distribution:**[^ref-7]
-The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra and third-party titles:
+The CyberGladiators demo (2.99 MB) was included as promotional material with several other Sierra and third-party titles:[^ref-26]
 - 2 Good 2 Be True
 - 3-D Ultra Pinball 2: Creep Night
 - Birthright: The Gorgon's Alliance

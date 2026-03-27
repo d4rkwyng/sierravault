@@ -23,7 +23,7 @@ tags: [1990s, adventure, dgds, dynamix, dynamix-adventures, sierra]
 
 Heart of China is a 1991 adventure game developed by Dynamix and published by Sierra On-Line, representing one of the studio's most ambitious attempts at creating an "interactive movie" experience[^ref-3]. Set against the breathtaking splendor of 1930s Asia, the game follows former World War I fighter pilot Jake "Lucky" Masters on a globe-spanning adventure to rescue a kidnapped nurse from a ruthless Chinese warlord[^ref-2]. The game was designed by [[Jeff Tunnell]], who envisioned it as an immersive cinematic experience that would eliminate the frustration factor commonly associated with adventure gaming[^ref-3].
 
-The game is notable for its innovative visual presentation, utilizing a mixture of digitized photos of live actors superimposed on beautifully hand-painted backgrounds—a technique that made it "perhaps one of the most graphically stunning PC games of the era"[^ref-4]. Inspired by adventure films such as Raiders of the Lost Ark and Romancing the Stone, Heart of China captures the spirit of 1930s pulp adventure serials while incorporating multiple solution paths, branching narratives, and optional arcade sequences that can be skipped by players who prefer pure adventure gameplay[^ref-5]. The game represents Dynamix's "excellent farewell to the adventure genre" before the studio shifted focus to simulation and strategy games[^ref-6].
+The game is notable for its innovative visual presentation, utilizing a mixture of digitized photos of live actors superimposed on beautifully hand-painted backgrounds—a technique that made it "perhaps one of the most graphically stunning PC games of the era"[^ref-4]. Inspired by adventure films such as Raiders of the Lost Ark and Romancing the Stone, Heart of China captures the spirit of 1930s pulp adventure serials while incorporating multiple solution paths, branching narratives, and optional arcade sequences that can be skipped by players who prefer pure adventure gameplay[^ref-5]. The game represents Dynamix's "excellent farewell to the adventure genre" before the studio shifted focus to simulation and strategy games[^ref-6].[^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-3]
@@ -192,7 +192,7 @@ Heart of China features multiple endings based on player choices throughout the 
 - **Key Decision Points:** Specific choices made during crucial story moments
 - **Character Survival:** Whether certain characters survive the adventure
 
-Possible endings include marriage between Jake and Kate, or alternatively "ending up in a ditch"[^ref-11]. The "best" ending involves all three main characters celebrating their success with champagne in a Parisian five-star hotel room[^ref-14].
+Possible endings include marriage between Jake and Kate, or alternatively "ending up in a ditch"[^ref-11]. The "best" ending involves all three main characters celebrating their success with champagne in a Parisian five-star hotel room[^ref-14].[^ref-29]
 
 ## Legacy
 
@@ -212,7 +212,7 @@ The game's innovative use of multiple solution paths and branching narratives an
 
 From a technical standpoint, Heart of China demonstrated the potential of combining live-action elements with traditional artwork, a technique that would be refined and expanded in the FMV game explosion of the mid-1990s. While some critics found the story "superficial and unsatisfying"[^ref-18], others praised "the inherent silliness to the whole affair" as evidence that "Dynamix clearly loved the story they worked so hard for"[^ref-19].
 
-The game serves as an important artifact of early 1990s game design philosophy, demonstrating both the ambitions and limitations of attempting to create truly cinematic interactive experiences before CD-ROM technology made full-motion video practical. Its legacy lives on as "one of the most graphically stunning PC games of the era" and a testament to Dynamix's creative ambitions during their brief foray into adventure gaming[^ref-4].
+The game serves as an important artifact of early 1990s game design philosophy, demonstrating both the ambitions and limitations of attempting to create truly cinematic interactive experiences before CD-ROM technology made full-motion video practical. Its legacy lives on as "one of the most graphically stunning PC games of the era" and a testament to Dynamix's creative ambitions during their brief foray into adventure gaming[^ref-4].[^ref-30]
 
 ## Downloads
 

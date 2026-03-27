@@ -26,7 +26,7 @@ Playtoons 4: The Mandarine Prince is an interactive adventure game released in 1
 
 The game features the beloved French comic book heroes Spirou and Fantasio in an adventure against the crime boss Don Vito Cortizone in the country of Mandarine.[^ref-3] Like other entries in the Playtoons series, the game was designed to teach children school topics in a digital format meant to be more enthralling for young audiences.[^ref-1] The series was notable for its innovative approach to edutainment, combining reading comprehension with creative expression through its integrated animation editor.
 
-Playtoons 4: The Mandarine Prince represents an important entry in Coktel Vision's catalog of children's educational entertainment, building upon the successful formula established by the earlier Playtoons titles while introducing new characters and storylines based on the popular Spirou comic strip.[^ref-3][^ref-4]
+Playtoons 4: The Mandarine Prince represents an important entry in Coktel Vision's catalog of children's educational entertainment, building upon the successful formula established by the earlier Playtoons titles while introducing new characters and storylines based on the popular Spirou comic strip.[^ref-3][^ref-4][^ref-11][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1][^ref-10]
@@ -73,7 +73,7 @@ No specific contemporary review scores were found in the available research data
 
 ### Modern Assessment
 
-The game currently has no user ratings recorded on MyAbandonware, showing 0/5 with 0 votes.[^ref-4] This suggests the title remains relatively obscure in modern gaming communities, though it has been preserved through abandonware archives for historical purposes.
+The game currently has no user ratings recorded on MyAbandonware, showing 0/5 with 0 votes.[^ref-4] This suggests the title remains relatively obscure in modern gaming communities, though it has been preserved through abandonware archives for historical purposes.[^ref-12][^ref-15]
 
 **Aggregate Scores:**
 - **MyAbandonware:** 0/5 (0 votes)[^ref-4]
@@ -162,7 +162,7 @@ The game is currently supported by ScummVM, allowing it to be played on modern s
 
 Playtoons 4: The Mandarine Prince represents an interesting intersection of edutainment, licensed properties, and creative tools that was characteristic of the mid-1990s children's software market. The game's incorporation of the Spirou comic characters demonstrated the growing interest in adapting established intellectual properties for interactive media, particularly in the European market where Franco-Belgian comics enjoyed tremendous popularity.
 
-The Playtoons series as a whole represented Coktel Vision's attempt to create a platform for creative expression rather than simply passive consumption, an approach that anticipated later developments in user-generated content. However, the series remained relatively obscure outside of European markets, and the educational adventure genre would eventually decline with the rise of more action-oriented children's games in the late 1990s.
+The Playtoons series as a whole represented Coktel Vision's attempt to create a platform for creative expression rather than simply passive consumption, an approach that anticipated later developments in user-generated content. However, the series remained relatively obscure outside of European markets, and the educational adventure genre would eventually decline with the rise of more action-oriented children's games in the late 1990s.[^ref-13]
 
 ## Purchase
 

@@ -25,7 +25,7 @@ NASCAR Racing 2 Grand National Series Expansion was an add-on pack for Sierra's 
 
 The expansion was part of NASCAR Racing 2's evolution, which used a new game engine that improved graphics, physics, sound, and multiplayer capabilities over its predecessor.[^ref-3] Racing advisor voices were provided by Elton Sawyer and Patty Moise, adding authentic NASCAR commentary to the experience.[^ref-1] The game maintained the series' reputation for uncompromising realism, with one reviewer noting that "NASCAR 2 is not a toy" but rather a comprehensive racing simulation designed for serious racing enthusiasts.[^ref-4]
 
-The Busch Grand National Series represented NASCAR's second-tier racing series, where up-and-coming drivers honed their skills before advancing to the Winston Cup. By adding this series to NASCAR Racing 2, Papyrus gave players the opportunity to follow the career path of real NASCAR drivers—starting in the Grand National Series before competing at the highest level.
+The Busch Grand National Series represented NASCAR's second-tier racing series, where up-and-coming drivers honed their skills before advancing to the Winston Cup. By adding this series to NASCAR Racing 2, Papyrus gave players the opportunity to follow the career path of real NASCAR drivers—starting in the Grand National Series before competing at the highest level.[^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]

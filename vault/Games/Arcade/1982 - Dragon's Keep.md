@@ -25,7 +25,7 @@ Dragon's Keep is a children's educational adventure game originally developed by
 
 What makes Dragon's Keep particularly significant in gaming history is its connection to [[Al Lowe]], who would later become famous as the creator of the Leisure Suit Larry series. This was the very first game ever made by Al Lowe, who had purchased an Apple II computer specifically to learn how to program[^ref-3]. Developed in the summer of 1982 with his wife Margaret Lowe and friends Mike and Rae Lynn MacChesney through their small software company Sunnyside Soft, the game caught the attention of Sierra On-Line founders Ken and Roberta Williams[^ref-4].
 
-The game helped children develop reading comprehension through a controlled vocabulary interface and map reading skills through exploration of the dragon's lair[^ref-5]. Rather than using a traditional text parser that might frustrate young players, Dragon's Keep employed a simple menu-driven interface where children could select actions from a short list of choices by pressing just two keys[^ref-2].
+The game helped children develop reading comprehension through a controlled vocabulary interface and map reading skills through exploration of the dragon's lair[^ref-5]. Rather than using a traditional text parser that might frustrate young players, Dragon's Keep employed a simple menu-driven interface where children could select actions from a short list of choices by pressing just two keys[^ref-2].[^ref-15]
 
 > [!info]- Game Info
 > **Developer:** SunnySide Soft[^ref-1]

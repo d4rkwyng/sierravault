@@ -26,7 +26,7 @@ tags: [1980s, adventure, sierra, ultima]
 
 The game has achieved legendary status among collectors not for its gameplay quality, which has been widely criticized, but for its extreme rarity[^ref-1][^ref-2][^ref-6]. It is often referred to as the "HOLY GRAIL!" among Commodore VIC-20 collectors.[^ref-6] With approximately only 3,000 units manufactured, complete copies have sold for thousands of dollars on eBay, making it one of the most sought-after collectibles in vintage gaming[^ref-1][^ref-3]. The game's obscurity was so complete that Sierra On-Line itself denied the game ever existed until Zabalaoui personally confirmed its completion and retail distribution[^ref-1][^ref-3].
 
-Sierra's skepticism about the game's commercial viability proved well-founded, as they only manufactured the minimum number of copies required to meet contractual obligations[^ref-1]. The combination of a declining VIC-20 market and the requirement for an expensive memory expansion cartridge severely limited the game's potential audience[^ref-1]. Despite bearing the Ultima name, the game has very little connection to the other entries in the celebrated RPG series[^ref-2][^ref-7].
+Sierra's skepticism about the game's commercial viability proved well-founded, as they only manufactured the minimum number of copies required to meet contractual obligations[^ref-1]. The combination of a declining VIC-20 market and the requirement for an expensive memory expansion cartridge severely limited the game's potential audience[^ref-1]. Despite bearing the Ultima name, the game has very little connection to the other entries in the celebrated RPG series[^ref-2][^ref-7].[^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -67,7 +67,7 @@ The game is structured as a dungeon escape, with players navigating through the 
 
 The core gameplay loop involves navigating the dungeon's maze-like structure while engaging in real-time combat with the garrintrots[^ref-1][^ref-3]. The game utilizes the VIC-20's standard set of graphical characters to render its environments and creatures[^ref-1]. Sound is provided through the 4-voice capabilities of the MOS Technology VIC video chip[^ref-1].
 
-The 3D first-person view has been criticized as being "nearly useless" since it fails to display monsters or gems, forcing players to rely primarily on the top-down combat view for meaningful gameplay information[^ref-2]. The lack of visual feedback for item collection compounds the difficulty of understanding one's progress through the game[^ref-2].
+The 3D first-person view has been criticized as being "nearly useless" since it fails to display monsters or gems, forcing players to rely primarily on the top-down combat view for meaningful gameplay information[^ref-2]. The lack of visual feedback for item collection compounds the difficulty of understanding one's progress through the game[^ref-2].[^ref-11][^ref-12][^ref-15]
 
 ## Reception
 
@@ -134,7 +134,7 @@ No documented cut content has been identified in available sources. The game app
 
 The game suffers from significant design flaws that hamper playability[^ref-2]. The first-person 3D view is described as "nearly useless" because it fails to display monsters or gems, critical gameplay elements[^ref-2]. Additionally, the game provides no feedback when collecting gems, leaving players uncertain whether they have successfully picked up items or not[^ref-2].
 
-The copy protection system that disables the 'Run/Stop' and 'Restore' keys could be considered a usability issue, as it prevented players from using standard VIC-20 system functions during gameplay[^ref-3].
+The copy protection system that disables the 'Run/Stop' and 'Restore' keys could be considered a usability issue, as it prevented players from using standard VIC-20 system functions during gameplay[^ref-3].[^ref-13]
 
 ### Easter Eggs and Trivia
 

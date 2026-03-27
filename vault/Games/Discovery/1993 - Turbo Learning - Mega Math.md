@@ -26,7 +26,7 @@ Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff
 
 Described as "one of the least known Sierra games ever," Mega Math followed the formula established by its predecessor, Quarky & Quaysoo's Turbo Science, featuring the same alien characters in a new educational setting[^ref-4]. The game was designed to help children practice fundamental math facts through repetitive but engaging gameplay, with the philosophy that "practice, practice, practice" is the key to building mathematical fluency[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress throughout the learning experience[^ref-6].
 
-One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].
+One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-16][^ref-17][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions[^ref-1]
@@ -187,7 +187,7 @@ Turbo Learning: Mega Math represents an interesting footnote in the history of e
 
 The game's failure to achieve the success of its predecessor, Turbo Science, illustrates the challenges faced by educational software developers in creating sufficiently varied content to maintain children's interest[^ref-4]. While the racing mechanics of Turbo Science provided a more dynamic gameplay framework, Mega Math's three mini-games offered insufficient variety to sustain engagement over time[^ref-4]. This experience likely contributed to Sierra's eventual retreat from the educational software market, focusing instead on their more successful adventure game franchises.
 
-From a historical perspective, Mega Math serves as an example of the drill-and-practice approach to educational software that would later be superseded by more sophisticated adaptive learning systems. Its emphasis on repetition as the path to mathematical fluency reflects the educational thinking of its era, even as its execution fell short of creating a truly compelling learning experience[^ref-3].
+From a historical perspective, Mega Math serves as an example of the drill-and-practice approach to educational software that would later be superseded by more sophisticated adaptive learning systems. Its emphasis on repetition as the path to mathematical fluency reflects the educational thinking of its era, even as its execution fell short of creating a truly compelling learning experience[^ref-3].[^ref-19]
 
 ## Downloads
 

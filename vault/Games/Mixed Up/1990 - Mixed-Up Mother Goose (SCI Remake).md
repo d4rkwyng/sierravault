@@ -38,7 +38,7 @@ Last updated: March 18, 2026
 
 Mixed-Up Mother Goose (SCI Remake), released in 1990, stands as Sierra On-Line's enhanced remake of their beloved children's adventure game originally released in November 1987[^ref-7]. Created by Roberta Williams, the pioneering designer behind the King's Quest series[^ref-23], this educational adventure combines classic nursery rhymes with Sierra's traditional adventure game mechanics in a package specifically designed for young children[^ref-2][^ref-3].
 
-The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goose Land have become mixed up!"[^ref-5] Players must help restore order by finding missing items for various fairy tale characters scattered throughout the magical land[^ref-5]. What makes this title particularly notable is that it became "probably the contender for 'Most Remade Game' in Sierra's whole library, with a total of three remakes", demonstrating its enduring popularity and Sierra's commitment to keeping it current with advancing technology.
+The game's premise is elegantly simple: "all of the nursery rhymes in Mother Goose Land have become mixed up!"[^ref-5] Players must help restore order by finding missing items for various fairy tale characters scattered throughout the magical land[^ref-5]. What makes this title particularly notable is that it became "probably the contender for 'Most Remade Game' in Sierra's whole library, with a total of three remakes", demonstrating its enduring popularity and Sierra's commitment to keeping it current with advancing technology.[^ref-15][^ref-16][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
@@ -86,7 +86,7 @@ Mixed-Up Mother Goose received overwhelmingly positive reception, particularly f
 
 ### Modern Assessment
 
-Modern retrospective reviews continue to praise the game's design philosophy and execution. MobyGames user reviews consistently highlight the game's appeal, with one reviewer stating "Very good remake by the author that brought you King's Quest"[^ref-19]. Another parent review titled "My kids LOVE this game" emphasizes its continued relevance for families[^ref-19]. The lasting impact is evident in community preservation efforts, with GOG wishlist comments noting it as "a true hidden gem, and a great game for kids!"[^ref-9]
+Modern retrospective reviews continue to praise the game's design philosophy and execution. MobyGames user reviews consistently highlight the game's appeal, with one reviewer stating "Very good remake by the author that brought you King's Quest"[^ref-19]. Another parent review titled "My kids LOVE this game" emphasizes its continued relevance for families[^ref-19]. The lasting impact is evident in community preservation efforts, with GOG wishlist comments noting it as "a true hidden gem, and a great game for kids!"[^ref-9][^ref-20][^ref-22]
 
 ## Development
 
@@ -151,20 +151,15 @@ The Mixed-Up series represents Sierra's notable effort in educational adventure 
 [^ref-8]: [Digital Entertainment History Blog](https://www.filfre.net/?s=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Historical context and limited game details
 [^ref-9]: [GOG Dreamlist - Mixed-Up Mother Goose](https://www.gog.com/dreamlist/game/mixed-up-mother-goose) - Community preservation interest and user comments
 
-
 [^ref-15]: [Metacritic - Game Page](https://www.metacritic.com/game/roberta-williams-mixed-up-mother-goose/) - Game metadata and marketing description
 [^ref-16]: [MobyGames - Original Entry](https://www.mobygames.com/game/758/) - Comprehensive game documentation
 [^ref-17]: [MobyGames - 1985 Version](https://www.mobygames.com/game/1085/mixed-up-mother-goose/) - Version-specific information
-[^ref-18]: [MobyGames - Alternate Entry](https://www.mobygames.com/game/1085/roberta-williams-mixed-up-mother-goose/) - Additional development details
 [^ref-19]: [MobyGames - Enhanced Version](https://www.mobygames.com/game/22295/mixed-up-mother-goose/) - Player reviews and technical specifications
 [^ref-20]: [MobyGames - SCI Version](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/) - Historical context and player reviews
-[^ref-21]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Platform and release information
 [^ref-22]: [MobyGames Reviews Section](https://www.mobygames.com/game/1085/mixed-up-mother-goose/reviews/) - Detailed player reviews and analysis
 [^ref-23]: [MobyGames User Review](https://www.mobygames.com/game/1085/mixed-up-mother-goose/user-review/2537323/) - Version comparison review
-[^ref-24]: [MobyGames Screenshots](https://www.mobygames.com/game/758/roberta-williams-mixed-up-mother-goose/screenshots/) - Visual documentation
 [^ref-25]: [MyAbandonware - Main Entry](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-254) - Game archive with historical information
 [^ref-26]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Roberta+Williams%E2%80%99+Mixed-Up+Mother+Goose) - Platform and release data
-[^ref-27]: [MyAbandonware - Alternative Entry](https://www.myabandonware.com/game/roberta-williams-mixed-up-mother-goose-273) - Additional version information
 [^ref-28]: [Play Classic Games](https://playclassic.games/games/adventure-dos-games-online/play-roberta-williams-mixed-mother-goose-online/) - Game overview and mechanics
 [^ref-29]: [Play Old Games](https://playold.games/play-game/roberta-williams-mixed-up-mother-goose/) - Technical details and gameplay information
 [^ref-30]: [ROMs Fun - Basic Metadata](https://romsfun.com/roms/ms-dos/roberta-williams-mixed-up-mother-goose.html) - ROM distribution information

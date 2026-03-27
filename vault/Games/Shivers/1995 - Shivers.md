@@ -25,7 +25,7 @@ Shivers is a first-person horror adventure game released by Sierra On-Line in No
 
 "The superb production value in Shivers is testimonial to the talent of the artists involved," noted Philip Jong of Adventure Classic Gaming, highlighting the game's exceptional visual design[^ref-3]. The development team created over 2,500 hand-painted background shots using watercolors and gouache, which were then scanned into the game[^ref-4]. Despite receiving mixed critical reception upon release, Shivers achieved cult status and became one of the sleeper hits of 1995, praised particularly for its atmospheric presentation and original logic puzzles[^ref-3].
 
-What distinguished Shivers from contemporaries like Myst and The 7th Guest was its unique randomization system—the locations of items and puzzle states change each playthrough, ensuring "every game is played differently with no fixed path"[^ref-5]. This design choice, influenced by Sierra's earlier Mixed-Up Mother Goose Deluxe according to designer Marcia Bales, gave the game significant replay value despite its relatively contained setting[^ref-6].
+What distinguished Shivers from contemporaries like Myst and The 7th Guest was its unique randomization system—the locations of items and puzzle states change each playthrough, ensuring "every game is played differently with no fixed path"[^ref-5]. This design choice, influenced by Sierra's earlier Mixed-Up Mother Goose Deluxe according to designer Marcia Bales, gave the game significant replay value despite its relatively contained setting[^ref-6].[^ref-29][^ref-39]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -265,7 +265,7 @@ The game's accessibility features, particularly its closed captioning, were rema
 
 Critics remain divided on whether the horror elements succeed—PC Gamer's comparison to "Casper rather than the essence of evil" and PC Games Magazine's "more Scooby-Doo than Psycho" assessment suggest the game works better as a mystery-puzzle experience than true horror[^ref-17][^ref-18]. Yet this may have contributed to its broader appeal and longevity, making it approachable for younger audiences while still providing atmospheric thrills.
 
-The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shivers has aged well in players' memories, even as some modern critics like Just Adventure's Ray Ivey found the "protracted scavenger hunt punctuated with irrelevant puzzles" tedious[^ref-23]. Its cult status is well-earned—Shivers created a unique niche combining museum exploration, mythology, and accessible horror that still resonates with adventure gaming enthusiasts decades later.
+The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shivers has aged well in players' memories, even as some modern critics like Just Adventure's Ray Ivey found the "protracted scavenger hunt punctuated with irrelevant puzzles" tedious[^ref-23]. Its cult status is well-earned—Shivers created a unique niche combining museum exploration, mythology, and accessible horror that still resonates with adventure gaming enthusiasts decades later.[^ref-40]
 
 ## Downloads
 

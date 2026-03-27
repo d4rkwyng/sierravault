@@ -26,7 +26,7 @@ Power Chess 98 is an updated version of the original Power Chess, released by [[
 
 The game distinguished itself from competitors like Chessmaster through its innovative adaptive difficulty system and educational approach. Rather than simply crushing players with superior calculation, the Power Chess King would attempt to emulate a human player who was "just a bit better than you," adjusting its playing strength during the game to match the player's skill level[^ref-4]. International Grandmaster Larry Christiansen praised it as "the first innovation in chess programs in more than a decade"[^ref-3]. The software featured twin game engines running in parallel—players would compete against the King while the Queen observed, then immediately replay the game with commentary on the moves[^ref-5].
 
-Power Chess 98 was designed to appeal to both novice and expert chess players, offering a chess learning environment that was "chess with a 'human' side to it, not just the typical crunch-positions chess program"[^ref-6]. The game received recognition as the Traditional Game of the Year from Computer Games Strategy Plus in 1996 for the original release[^ref-2], and went on to spawn Power Chess 2.0 in 1998-1999[^ref-7].
+Power Chess 98 was designed to appeal to both novice and expert chess players, offering a chess learning environment that was "chess with a 'human' side to it, not just the typical crunch-positions chess program"[^ref-6]. The game received recognition as the Traditional Game of the Year from Computer Games Strategy Plus in 1996 for the original release[^ref-2], and went on to spawn Power Chess 2.0 in 1998-1999[^ref-7].[^ref-22][^ref-23][^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -251,5 +251,3 @@ The game's adaptive AI and mentor-style feedback were ahead of their time, antic
 [^ref-22]: [Sierra Chest – Power Chess 98](https://sierrachest.com/index.php?a=games&id=411&title=power-chess-98&fld=general) – release date confirmation
 [^ref-23]: [IMDB – Power Chess 98](https://www.imdb.com/title/tt0292197/) – release date, publisher
 [^ref-24]: [Metacritic – Power Chess 98](https://www.metacritic.com/game/power-chess-98/) – developer, publisher confirmation
-[^ref-25]: [IGDB – Power Chess 98](https://www.igdb.com/games/power-chess-98/similar) – platform, similar games
-[^ref-26]: [PC Powerplay Magazine #33 (February 1999)](https://archive.org/details/PCPowerplay-033-1999-02/page/n112) – period publication reference

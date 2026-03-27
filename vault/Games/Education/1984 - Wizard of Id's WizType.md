@@ -26,7 +26,7 @@ Wizard of Id's WizType is an educational typing game released in 1984 by Sierra 
 
 The game was released simultaneously for multiple platforms including DOS, Apple II, Commodore 64, and Atari 8-bit systems, demonstrating Sierra's commitment to the educational software market across the major home computer platforms of the era.[^ref-4][^ref-8][^ref-9] At the time of its release, WizType was considered one of the better typing software products available, competing in a market that offered a variety of software products designed to teach keyboard skills.[^ref-5] The game featured multiple skill levels to accommodate different typing abilities and increased in challenge as players progressed through their lessons.[^ref-1]
 
-WizType was part of a pair of edutainment titles based on the Wizard of Id license, designed primarily for the Apple II educational market.[^ref-6][^ref-8] Its companion game, WizMath, was released only for the Commodore 64 and ColecoVision, making WizType the more widely distributed of the two titles.[^ref-6][^ref-11] The Wizard of Id comic strip itself had been launched in 1964, giving the license two decades of recognition before being adapted into educational software.[^ref-6]
+WizType was part of a pair of edutainment titles based on the Wizard of Id license, designed primarily for the Apple II educational market.[^ref-6][^ref-8] Its companion game, WizMath, was released only for the Commodore 64 and ColecoVision, making WizType the more widely distributed of the two titles.[^ref-6][^ref-11] The Wizard of Id comic strip itself had been launched in 1964, giving the license two decades of recognition before being adapted into educational software.[^ref-6][^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-2]
@@ -95,7 +95,7 @@ Modern retrospective reviews have generally been favorable toward WizType, appre
 - **MobyGames:** 3.5 out of 5 (user rating)[^ref-2]
 - **MyAbandonware:** 3.67 out of 5 (3 votes)[^ref-4]
 
-The game's preservation status as abandonware has made it accessible to retro gaming enthusiasts and historians interested in the evolution of educational software.[^ref-4] Its relatively small file size (approximately 33 KB for most versions) has facilitated its preservation across multiple archive sites.[^ref-4]
+The game's preservation status as abandonware has made it accessible to retro gaming enthusiasts and historians interested in the evolution of educational software.[^ref-4] Its relatively small file size (approximately 33 KB for most versions) has facilitated its preservation across multiple archive sites.[^ref-4][^ref-16]
 
 ## Development
 

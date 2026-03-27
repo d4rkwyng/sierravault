@@ -25,7 +25,7 @@ Playtoons 1: Featuring Uncle Archibald is an edutainment title developed by [[Co
 
 The game combines an interactive story unique to its specific title with a construction game common to the entire Playtoons collection.[^ref-3] Players can not only read through the interactive comic book narrative but also create their own animated stories using an integrated editor tool that allows manipulation of characters, backgrounds, scenery, and props.[^ref-1] This dual-purpose approach—offering both guided entertainment and creative freedom—distinguished the Playtoons series from other children's software of the era.
 
-One of the series' innovative features was its interoperability: if multiple Playtoons games were installed on the same system, players could combine assets from different titles within the editor, vastly expanding their creative possibilities.[^ref-4] The game also included a built-in camera function for creating animated films with voice overs, allowing children to craft presentations of up to twenty scenes in length.[^ref-3]
+One of the series' innovative features was its interoperability: if multiple Playtoons games were installed on the same system, players could combine assets from different titles within the editor, vastly expanding their creative possibilities.[^ref-4] The game also included a built-in camera function for creating animated films with voice overs, allowing children to craft presentations of up to twenty scenes in length.[^ref-3][^ref-15][^ref-16][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -220,7 +220,3 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
-[^ref-18]: [GameFAQs – Mac Version](https://gamefaqs.gamespot.com/mac/232207-playtoons-1-featuring-uncle-archibald) – Macintosh platform confirmation
-[^ref-19]: [GameFAQs – PC Data](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald/data) – US release year, ESRB K-A rating
-[^ref-20]: [MobyGames – 1995 Mac Releases](https://www.mobygames.com/platform/macintosh/year:1995/page:3/) – Macintosh 1995 release confirmation
-[^ref-21]: [Metacritic – Details Page](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/details/) – basic metadata confirmation

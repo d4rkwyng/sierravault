@@ -162,7 +162,7 @@ Common issues reported by users include:
 - Windows version crashes on launch for some users[^ref-12]
 - Incompatibility with newer operating systems[^ref-10]
 
-The game can be run with the command "INDYCAR.EXE -h" for better graphics in the DOS version[^ref-12].
+The game can be run with the command "INDYCAR.EXE -h" for better graphics in the DOS version[^ref-12].[^ref-9]
 
 ### Easter Eggs and Trivia
 

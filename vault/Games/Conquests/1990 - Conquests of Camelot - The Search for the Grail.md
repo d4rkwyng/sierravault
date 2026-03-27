@@ -27,7 +27,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 
 The game distinguished itself from other adventure titles of its era through its extensive research into medieval history, mythology, and religious traditions.[^ref-4] As Marx explained in the game's documentation: "The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information."[^ref-2] This approach created what one reviewer described as "a more subtle, complex and powerful vision of Arthur than anything you've seen before."[^ref-5]
 
-*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2]
+*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2][^ref-30][^ref-31][^ref-32]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

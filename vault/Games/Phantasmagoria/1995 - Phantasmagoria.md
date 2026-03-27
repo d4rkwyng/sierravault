@@ -268,7 +268,7 @@ Phantasmagoria occupies a paradoxical position in adventure gaming history. It s
 
 Some historians argue that "live-actor ROM-era games did more to damage the adventure-puzzle genre than the arrival of FPS gaming"[^ref-7]. The game's simplified puzzles and linear structure—designed to appeal to a mainstream audience—alienated traditional adventure game fans who expected more challenging gameplay. One retrospective noted: "No amount of lavishly decadent digitized decor and symphonic tracks with Latin lyrics can change the fact that Phantasmagoria is an overbloated, cheesy horror story with tiny bits of gameplay collapsing under the weight of multimedia aspirations"[^ref-17].
 
-Yet the game's influence on horror gaming and interactive storytelling cannot be dismissed. It demonstrated that games could tackle mature, disturbing content with production values rivaling film, even if the execution remained controversial. As one reviewer observed: "it was a horror game that was never scary at all"[^ref-7]—yet for others, it remains "possibly the only video game that ever truly frightened me"[^ref-22]. This polarized legacy reflects both the game's ambition and its limitations as an interactive experience.
+Yet the game's influence on horror gaming and interactive storytelling cannot be dismissed. It demonstrated that games could tackle mature, disturbing content with production values rivaling film, even if the execution remained controversial. As one reviewer observed: "it was a horror game that was never scary at all"[^ref-7]—yet for others, it remains "possibly the only video game that ever truly frightened me"[^ref-22]. This polarized legacy reflects both the game's ambition and its limitations as an interactive experience.[^ref-29]
 
 ## Downloads
 

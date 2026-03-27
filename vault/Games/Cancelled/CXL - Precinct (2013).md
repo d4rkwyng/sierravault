@@ -25,7 +25,7 @@ Precinct was an ambitious crowdfunded police adventure video game announced in 2
 
 Set in the fictional corrupt town of Fraser Canyon, California, Precinct would have placed players in the role of Officer Maxwell Jones, starting as a rookie and progressing through the ranks while facing adrenaline-charged scenarios and conducting real police procedures[^ref-3]. The project launched on Kickstarter on July 16, 2013, but the campaign was ultimately cancelled by its creators in August 2013[^ref-1]. Rather than continuing to seek funding through the traditional Kickstarter model, the development team pivoted to a staged funding approach, intending to create a playable pilot version that would allow potential backers to experience the vision behind the game rather than relying solely on a tech demo video[^ref-1].
 
-The cancellation of the Kickstarter campaign and subsequent attempts to fund the project through alternative means marked the end of one of the most anticipated Sierra alumni revivals of the early 2010s crowdfunding boom[^ref-4]. The project remains significant as a testament to the enduring appeal of the Police Quest legacy and the challenges faced by veteran designers attempting to revive classic franchises in the modern gaming landscape.
+The cancellation of the Kickstarter campaign and subsequent attempts to fund the project through alternative means marked the end of one of the most anticipated Sierra alumni revivals of the early 2010s crowdfunding boom[^ref-4]. The project remains significant as a testament to the enduring appeal of the Police Quest legacy and the challenges faced by veteran designers attempting to revive classic franchises in the modern gaming landscape.[^ref-6][^ref-7][^ref-10]
 
 > [!info]- Game Info
 > **Developer:** Jim Walls Reloaded / Tiny Castle Studios[^ref-1][^ref-4]
@@ -164,7 +164,7 @@ As the game was never completed, the entire project effectively represents cut c
 
 ### Technical Issues
 
-The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter campaign failing to generate sufficient momentum before being cancelled[^ref-1].
+The project never reached a state where technical issues in gameplay could be documented. The primary issues were financial and organizational rather than technical, with the Kickstarter campaign failing to generate sufficient momentum before being cancelled[^ref-1].[^ref-9][^ref-15]
 
 ### Easter Eggs and Trivia
 
@@ -198,7 +198,6 @@ Precinct represents a poignant chapter in the history of adventure gaming reviva
 The project's failure highlighted several challenges facing veteran designers in the crowdfunding era: the need to demonstrate tangible progress rather than relying on reputation, the difficulty of communicating a vision for a game that didn't yet exist, and the competitive landscape of crowdfunding where multiple projects competed for the same nostalgic audience[^ref-1]. Jim Walls' authentic law enforcement background, which had been such an asset in the original Police Quest development, proved insufficient to overcome these modern fundraising challenges.
 
 The Police Quest legacy would continue to influence gaming, however. The concept of playing as a law enforcement officer following proper procedures has been explored by numerous subsequent games, even if Precinct itself was never completed[^ref-2].
-
 
 ## Purchase
 

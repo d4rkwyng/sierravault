@@ -29,7 +29,7 @@ Originally commissioned by IBM to showcase their PCjr home computer and released
 
 Electronic Games magazine proclaimed it "a major breakthrough in action-adventure games" that "blows everything away"[^ref-5].
 
-The title's revolutionary combination of animated graphics, text parser input, and explorable environments set new standards for interactive entertainment and spawned one of gaming's most influential franchises[^ref-6].
+The title's revolutionary combination of animated graphics, text parser input, and explorable environments set new standards for interactive entertainment and spawned one of gaming's most influential franchises[^ref-6].[^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

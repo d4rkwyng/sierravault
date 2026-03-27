@@ -25,7 +25,7 @@ Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive puzz
 
 The game stands out as the only entry in *The Incredible Machine* franchise to feature an actual plot, distinguishing it from the purely mechanical puzzle focus of its predecessors[^ref-3][^ref-6]. Players must help Arthur navigate through increasingly complex puzzle chambers by placing various machines, traps, cogwheels, and other contraptions to fulfill specific objectives such as guiding Arthur to the exit[^ref-7]. The combination of the whimsical Rube Goldberg-style mechanics with the gothic fantasy setting of the Ghosts 'n Goblins universe creates a surprisingly humorous and engaging puzzle experience[^ref-7][^ref-6].
 
-Developed by Magical Formation Co., Ltd. under license from Dynamix, the game was published by Capcom exclusively for the Japanese market[^ref-1][^ref-9]. It features remixed music from the Ghosts 'n Goblins series and includes 100 puzzles along with an editor for creating custom puzzle designs[^ref-6][^ref-10]. The game has achieved cult status among collectors and retro gaming enthusiasts as one of the more obscure spinoffs in both franchises' histories[^ref-5].
+Developed by Magical Formation Co., Ltd. under license from Dynamix, the game was published by Capcom exclusively for the Japanese market[^ref-1][^ref-9]. It features remixed music from the Ghosts 'n Goblins series and includes 100 puzzles along with an editor for creating custom puzzle designs[^ref-6][^ref-10]. The game has achieved cult status among collectors and retro gaming enthusiasts as one of the more obscure spinoffs in both franchises' histories[^ref-5].[^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** Magical Formation Co., Ltd.[^ref-1]
@@ -234,14 +234,11 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 
 [^ref-7]: [RomStation](https://www.romstation.fr/games/psx/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-r67733/) – gameplay description, mechanics, objectives
 
-
 [^ref-9]: [MobyGames – Releases Page](https://www.mobygames.com/game/43749/arthur-to-astaroth-no-nazo-makaimura-incredible-toons/releases/) – Dynamix license, release details
 
 [^ref-10]: [romsfun.com](https://romsfun.com/roms/playstation/arthur-to-astaroth-no-nazo-maikamura-incredible-toons.html) – Sid & Al's connection, 100 puzzles, puzzle editor, Sierra On-Line 1993 release
 
-
 [^ref-12]: [Exophase – Achievement Data](https://www.exophase.com/game/arthur-to-astaroth-no-nazo-makaimura-incredible-toons-retro/achievements/) – 100 puzzles, achievement names, progression structure
-
 
 [^ref-14]: [Emuparadise](https://www.emuparadise.me/Sony_Playstation_ISOs/Arthur_to_Astaroth_no_Nazo_Makaimura_-_Incredible_Toons_(Japan)/53424-download) – user ratings, file size, platform confirmation
 

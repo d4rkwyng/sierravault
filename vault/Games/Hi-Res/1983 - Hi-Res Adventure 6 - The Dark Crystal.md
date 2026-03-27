@@ -25,7 +25,7 @@ Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement in early 
 
 The game was revolutionary for its time, being "the first official movie tie-in game on a platform where it was possible to follow the plot step-by-step"[^ref-4]. What made this adaptation particularly special was the unprecedented level of cooperation from Henson Associates, who provided artwork, character sheets, and extensive backstory materials that went far beyond what appeared in the film itself[^ref-4]. This collaboration resulted in a game that, according to contemporary reviews, proved that "games based on movies often have a wretched reputation. By this metric, The Dark Crystal does better than most"[^ref-5].
 
-As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Crystal represented both an ending and a beginning - it was "Sierra's last adventure game before the groundbreaking King's Quest"[^ref-6], marking the transition from Sierra's early text-based adventures to the revolutionary graphic adventures that would define the company's future.
+As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Crystal represented both an ending and a beginning - it was "Sierra's last adventure game before the groundbreaking King's Quest"[^ref-6], marking the transition from Sierra's early text-based adventures to the revolutionary graphic adventures that would define the company's future.[^ref-36][^ref-37][^ref-39]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -62,7 +62,7 @@ One walkthrough author advised: "SEE THE MOVIE (OPTIONAL) MANY OF THE HINTS ARE 
 
 True to Sierra's adventure game design philosophy of the era, death was a constant threat. As Alex Bevilacqua observed, "And you will die on most screens"[^ref-2], reflecting the unforgiving nature of early Sierra adventures. The game featured environmental hazards and creature encounters that required careful navigation and correct command input to survive.
 
-The final puzzle of the game required players to use logical deduction based on the film's climax, with one walkthrough noting: "KIRA IS DEAD. LOGICAL ANSWER: KISS KIRA"[^ref-10], demonstrating how the game expected familiarity with fantasy adventure tropes and the source material's themes of love conquering death.
+The final puzzle of the game required players to use logical deduction based on the film's climax, with one walkthrough noting: "KIRA IS DEAD. LOGICAL ANSWER: KISS KIRA"[^ref-10], demonstrating how the game expected familiarity with fantasy adventure tropes and the source material's themes of love conquering death.[^ref-31][^ref-32][^ref-34]
 
 ## Reception
 
@@ -85,7 +85,7 @@ However, not all reviews were entirely positive. Mark S. Murley of Hi-Res magazi
 
 Modern retrospective reviews have been more critical, with Alex Bevilacqua's detailed analysis scoring the game at just 28%[^ref-2]. Contemporary adventure game enthusiasts on sites like Mobygames have been more generous, with critics giving it 86%[^ref-7], while user ratings on MyAbandonware show a perfect 5/5 score[^ref-14].
 
-Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty close to a shot by shot remake of the movie in game form"[^ref-5], praising its faithfulness while acknowledging the limitations of early adventure game design. The review concluded that "by this metric, The Dark Crystal does better than most" when compared to other movie-to-game adaptations of the era[^ref-5].
+Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty close to a shot by shot remake of the movie in game form"[^ref-5], praising its faithfulness while acknowledging the limitations of early adventure game design. The review concluded that "by this metric, The Dark Crystal does better than most" when compared to other movie-to-game adaptations of the era[^ref-5].[^ref-33][^ref-35][^ref-38]
 
 ## Development
 
@@ -124,7 +124,6 @@ The Dark Crystal franchise returned to gaming in 2020 with The Dark Crystal: Age
 The tactics game received mixed reviews, earning a 59/100 Metascore on Metacritic[^ref-20][^ref-30] and criticism for its user interface design. As IGN's Mike Epstein noted, "Even at its best, combat is dragged down by poorly designed menus that take far longer to navigate than they should"[^ref-21]. Despite mixed critical reception[^ref-29], the game found a dedicated audience among fans of the Netflix series[^ref-28], with Game Informer's Matt Miller acknowledging it as "a pale imitation of its source material" but still recognizing its appeal to franchise enthusiasts[^ref-22].
 
 A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], earning praise from RPGnet's Jacob DC Ross who described it as combining "the worldbuilding of Tolkien, the action of a Zelda videogame, and the heart of Fraggle Rock"[^ref-15].
-
 
 ## Purchase
 
@@ -201,5 +200,3 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 [^ref-37]: [Game Dork's Corner Board Game Review](http://www.gamedorkscorner.com/2018/06/board-game-review-jim-hensons-dark.html) – - Related board game assessment for context
 [^ref-38]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Review scores and critical assessments
 [^ref-39]: [MobyGames – Hi-Res Adventure #6: The Dark Crystal](https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/) – Release year, developer, and publisher information
-[^ref-40]: [Muppet Fandom Wiki](https://muppet.fandom.com/wiki/The_Dark_Crystal_(computer_game) – ) - Franchise context and cross-references
-[^ref-41]: [Dark Crystal Official Website](https://www.darkcrystal.com/) – - Official franchise information and context

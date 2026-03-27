@@ -25,7 +25,7 @@ Front Lines is a tactical wargame set in the "near" future, developed and publis
 
 The game has been described as a spiritual successor to QQP's venerable "The Perfect General" series, combining the elements of board game warfare with good graphics and sound.[^ref-4] Front Lines distinguishes itself through its alternate history theme and accessible approach to wargaming, serving as an effective gateway for novices to the genre.[^ref-5] The game presents players with a European theater of operations that incorporates real-world geographical features, including the strategically significant Fulda Gap.[^ref-2]
 
-Critics and players have noted that Front Lines achieves a careful balance between accessibility and strategic depth, offering detailed gameplay without overwhelming newcomers to the wargaming genre.[^ref-5] The game has been retrospectively compared to both Warlords and Command & Conquer, though reviewers have noted it as a hybrid that combines elements from multiple strategic traditions.[^ref-6]
+Critics and players have noted that Front Lines achieves a careful balance between accessibility and strategic depth, offering detailed gameplay without overwhelming newcomers to the wargaming genre.[^ref-5] The game has been retrospectively compared to both Warlords and Command & Conquer, though reviewers have noted it as a hybrid that combines elements from multiple strategic traditions.[^ref-6][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

@@ -36,7 +36,7 @@ Unlike conventional screensavers of the era—such as the famous "flying toaster
 
 Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes tantalizingly close to rescue, only to remain stranded due to various unfortunate accidents.[^ref-4] The screensaver reads the computer's system clock, cycling through day and night sequences and recognizing major U.S. holidays with special themed animations.[^ref-1]
 
-The product shipped on a single 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-1] A letter accompanying the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me—kill some time to save an old salt!"*[^ref-3]
+The product shipped on a single 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-1] A letter accompanying the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me—kill some time to save an old salt!"*[^ref-3][^ref-19][^ref-21][^ref-23][^ref-20]
 
 ## Gameplay
 
@@ -127,7 +127,7 @@ The screensaver shipped in November 1992, with a stable version 1.02 released in
 
 ### Screen Antics Brand
 
-Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line. However, the brand began and ended with Johnny—though the ROI was excellent, the budget was so minimal that a sequel wasn't deemed worthwhile. Sierra also acquired After Dark's parent company around this time, making that team the de facto screensaver division.[^ref-3]
+Sierra positioned Johnny Castaway as the first release in a "Screen Antics" product line. However, the brand began and ended with Johnny—though the ROI was excellent, the budget was so minimal that a sequel wasn't deemed worthwhile. Sierra also acquired After Dark's parent company around this time, making that team the de facto screensaver division.[^ref-3][^ref-22][^ref-25][^ref-26]
 
 ## Reception
 
@@ -192,8 +192,6 @@ Not currently available for purchase. As abandonware, Johnny Castaway can be dow
 [^ref-22]: [Mobygames – Johnny Castaway](https://www.mobygames.com/game/johnny-castaway/) – Game database entry with complete credits, development details, and historical context
 
 [^ref-23]: [Wikipedia – Screen Antics](https://en.wikipedia.org/wiki/Screen_Antics) – Documentation of Sierra's Screen Antics brand and Johnny Castaway as the sole release
-
-[^ref-24]: [Jeff Tunnell Productions Archives](https://jefftunnell.com/) – Official documentation of projects developed at JTP including Johnny Castaway development timeline
 
 [^ref-25]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Johnny_Castaway) – Community documentation including voice actors, complete animation sequences, and production details
 

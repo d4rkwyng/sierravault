@@ -25,7 +25,7 @@ Front Page Sports: Ski Racing '99 is a realistic alpine skiing simulation develo
 
 The game simulates five skiing variants: Slalom, Giant Slalom, Super Giant Slalom, Downhill, and Alpine Combination, covering the full range of World Cup competitive events.[^ref-1] Players can compete across 20 square kilometers of open terrain or challenge themselves on six authentic World Cup slopes recreated from real-world locations including Garmisch, Aspen, Mt. Bachelor, Val-d'Isère, Vail, and Whistler.[^ref-1] The simulation's commitment to realism meant that players needed to master more than simple directional steering—the game required understanding of weight distribution, edge control, and racing line optimization to achieve competitive times.[^ref-3]
 
-Released during a period when 3D graphics acceleration was transforming PC gaming, Front Page Sports: Ski Racing '99 supported both 3Dfx graphics acceleration cards, allowing players with compatible hardware to experience enhanced visual fidelity.[^ref-3] The game was also released under alternate titles in different regions, including "DSF Ski '99: Extreme Edition" in Germany.[^ref-4]
+Released during a period when 3D graphics acceleration was transforming PC gaming, Front Page Sports: Ski Racing '99 supported both 3Dfx graphics acceleration cards, allowing players with compatible hardware to experience enhanced visual fidelity.[^ref-3] The game was also released under alternate titles in different regions, including "DSF Ski '99: Extreme Edition" in Germany.[^ref-4][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -159,7 +159,7 @@ The game was reportedly rushed for Christmas release, with planned features that
 
 The game has significant compatibility issues with modern Windows operating systems. Like many titles from the late 1990s that relied on specific DirectX versions and hardware configurations, Front Page Sports: Ski Racing '99 often fails to run properly on 64-bit Windows versions without special modifications.[^ref-8]
 
-Users have reported that the game does not function on modern systems, requiring compatibility modes, patches, or specialized wrappers to achieve functionality.[^ref-5] The game's reliance on period-specific 3D acceleration technology (3Dfx) means that graphics wrapper solutions like nGlide may be necessary to run the game on contemporary hardware.[^ref-8]
+Users have reported that the game does not function on modern systems, requiring compatibility modes, patches, or specialized wrappers to achieve functionality.[^ref-5] The game's reliance on period-specific 3D acceleration technology (3Dfx) means that graphics wrapper solutions like nGlide may be necessary to run the game on contemporary hardware.[^ref-8][^ref-17]
 
 ### Easter Eggs and Trivia
 
@@ -270,7 +270,6 @@ Today, the game serves as a historical artifact of late 1990s PC gaming, represe
 [^ref-11]: [Sierra Help – FPS Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/FPSSeriesUpdates.html) – official patches availability, Sierra publisher confirmation
 
 [^ref-12]: [Steam Store – Search Results](https://store.steampowered.com/search/?term=Front+Page+Sports%3A+Ski+Racing+%2799) – game not available on Steam platform
-
 
 [^ref-15]: [GOG Dreamlist – Front Page Sports: Ski Racing '99](https://www.gog.com/dreamlist/game/front-page-sports-ski-racing-99) – Community wishlist for digital re-release
 [^ref-16]: [MobyGames – Front Page Sports - Ski Racing 99](https://www.mobygames.com/game/243406/) – game information and details

@@ -25,7 +25,7 @@ Sid & Al's Incredible Toons is a puzzle game developed by [[Jeff Tunnell]] Produ
 
 The game features approximately 100 puzzles where players must complete elaborate Rube Goldberg-style contraptions with crucial parts intentionally left out[^ref-4]. The titular characters, Sid E. Mouse and Al E. Cat, serve as both puzzle pieces and colorful protagonists in what *Home of the Underdogs* described as "catapult[ing] the already addictive concept of The Incredible Machines into whole new levels"[^ref-5]. While The Incredible Machine earned credit for originating the concept, many reviewers felt that "Sid and Al definitely gets glory for perfecting it"[^ref-6].
 
-The game shipped with physical extras including 8 trading cards and a poster[^ref-1], and featured a robust puzzle editor allowing players to create their own challenges[^ref-7]. Its success led to a Windows-based sequel, The Incredible Toon Machine, released in 1994 with additional features including a two-player hotseat mode[^ref-8].
+The game shipped with physical extras including 8 trading cards and a poster[^ref-1], and featured a robust puzzle editor allowing players to create their own challenges[^ref-7]. Its success led to a Windows-based sequel, The Incredible Toon Machine, released in 1994 with additional features including a two-player hotseat mode[^ref-8].[^ref-23][^ref-24][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell Productions]][^ref-1]
@@ -71,7 +71,7 @@ The core gameplay involves completing Rube Goldberg-style devices where crucial 
 
 The game features 71 different gadget parts including ropes, pulleys, balloons, trapdoors, catapults, bombs, electrical hairdryers, and motors[^ref-10][^ref-13]. Unlike The Incredible Machine's focus on realistic physics, Sid & Al's operates under "Toon Physics" where cartoon logic prevails[^ref-11]. This means characters can survive absurd punishment, gravity works selectively, and outcomes follow cartoon conventions rather than real-world physics.
 
-The built-in level editor allows players to create and share their own puzzles, extending the game's replayability significantly[^ref-7]. This feature proved particularly popular among fans who created custom challenges of varying difficulty.
+The built-in level editor allows players to create and share their own puzzles, extending the game's replayability significantly[^ref-7]. This feature proved particularly popular among fans who created custom challenges of varying difficulty.[^ref-21][^ref-27]
 
 ## Reception
 
@@ -158,7 +158,7 @@ No significant cut content has been documented in available sources.
 
 Users with STB video cards experienced blank video problems that required a dedicated patch (STBVID) to resolve[^ref-1]. The game includes copy protection tied to the manual, requiring players to reference the "Toon Box" to verify ownership[^ref-13].
 
-Modern players running the game in DOSBox report full compatibility with DOSBox version 0.70[^ref-5].
+Modern players running the game in DOSBox report full compatibility with DOSBox version 0.70[^ref-5].[^ref-22][^ref-26]
 
 ### Easter Eggs and Trivia
 
@@ -256,6 +256,3 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [^ref-25]: [Metacritic](https://www.metacritic.com/game/sid-and-als-incredible-toons/) – platform and genre classification
 [^ref-26]: [IMDB – Sid & Al's Incredible Toons](https://www.imdb.com/title/tt0471034/) – release year, designer credits
 [^ref-27]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – user commentary on gameplay
-[^ref-28]: [Internet Archive – Incredible Toon Machine](https://archive.org/details/incredible-toon-machine) – sequel details, character information
-[^ref-29]: [Internet Archive – Masque Version](https://archive.org/details/masque_202208) – Windows port information
-[^ref-30]: [Consolidated Research Data](_consolidated) – multiple source aggregation

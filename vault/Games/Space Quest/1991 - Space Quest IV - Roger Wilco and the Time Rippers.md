@@ -28,7 +28,7 @@ The game was released on floppy disks in March 1991 and later re-released on CD-
 
 The game cost over $1,000,000 to produce but was a commercial success, selling more copies than all three previous Space Quest games combined[^ref-4][^ref-5].
 
-It was one of the first games to use motion capture animation and featured video-captured animation[^ref-3][^ref-4].
+It was one of the first games to use motion capture animation and featured video-captured animation[^ref-3][^ref-4].[^ref-12][^ref-14][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-6]
@@ -57,7 +57,7 @@ Infiltrating Vohaul's base, Roger discovers the true identity of the soldier who
 
 ## Gameplay
 
-Space Quest IV was developed using Sierra's SCI engine with 256-color hand-painted graphics, representing a significant visual upgrade from previous entries[^ref-3][^ref-4]. It was one of the first games ever with video-captured animation[^ref-3].
+Space Quest IV was developed using Sierra's SCI engine with 256-color hand-painted graphics, representing a significant visual upgrade from previous entries[^ref-3][^ref-4]. It was one of the first games ever with video-captured animation[^ref-3].[^ref-15]
 
 ### Interface and Controls
 - In contrast to the first three games, Space Quest IV uses a point-and-click interface similar to King's Quest V[^ref-3][^ref-6]
@@ -160,7 +160,7 @@ The CD-ROM version (December 1992) featured full speech support with professiona
 **Principal Cast:**[^ref-38]
 
 | Actor | Characters |
-|-------|------------|
+|-------|------------|[^ref-13]
 | Gary Owens | Narrator |
 | Jeff Bender | Roger Wilco |
 | [[Stuart Moulder]] | Roger Wilco Jr. |
@@ -331,8 +331,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 [^ref-15]: [Adventure Classic Gaming – Space Quest IV](https://www.adventureclassicgaming.com/) – gameplay analysis
 [^ref-16]: [WiW – Space Quest IV Point List](https://wiw.org/~jess/sq4pts.html) – complete point list
 [^ref-17]: [Virtual Broomcloset – Josh Mandel Interview](https://www.wiw.org/~jess/josho.html) – writing contributions, Sierra lawyer anecdote
-[^ref-18]: [Virtual Broomcloset – Publications Archive](https://wiw.org/~jess/publications.html) – manuals, hint books, pack-in feelies
-[^ref-19]: [DOS.Zone – Space Quest IV](https://dos.zone/space-quest-iv-roger-wilco-and-the-time-rippers/) – play in browser
 [^ref-20]: [Adventure Classic Gaming – Mark Crowe Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/729/) – design regrets, Sequel Police criticism
 [^ref-21]: [ScummVM Wiki – Space Quest IV](https://wiki.scummvm.org/index.php?title=Space_Quest_IV) – ScummVM 1.2.0 support, SCI engine, 320x200 resolution, 256 colors, simultaneous speech+text
 [^ref-22]: [Sierra Help – Space Quest IV](https://sierrahelp.com/Games/SpaceQuest/SQ4Help.html) – system requirements, speed bugs, patches, King Graham condor easter egg
@@ -340,7 +338,6 @@ In December 2025, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion P
 [^ref-24]: [SpaceQuest.net – SQ4 Fun Facts](https://spacequest.net/sq4/funfacts/) – Gary Owens biography, disk vs CD differences, Energizer Bunny permission, CD typo
 [^ref-25]: [Sierra Help – Space Quest Easter Eggs](https://sierrahelp.com/Misc/EasterEggs/SQEasterEggs.html) – Bob Andrews cameo, QA credits, Luke's speeder, Cedric target, Get Smart reference
 [^ref-26]: [SpaceQuest.net – SQ4 Cancelled Content](https://spacequest.net/sq4/cancelled/) – Dacron Danny, Stunt Flyer, hidden KQ6 room, unused audio
-[^ref-27]: [SpaceQuest.net – SQ4 Spoofs & References](https://spacequest.net/sq4/spoofref/) – Star Wars, Twin Peaks, Alien, Carmen Sandiego parodies
 [^ref-28]: [GameFAQs – Space Quest IV](https://gamefaqs.gamespot.com/pc/565077-space-quest-iv-roger-wilco-and-the-time-rippers) – user ratings, difficulty rating, FAQs
 [^ref-29]: [SpaceQuest.net – SQ4 Cheats & Debug](https://www.spacequest.net/sq4/cheatdebug/) – debug activation, Alt key commands, beta version commands, CLASSES file trick, teleport codes
 [^ref-30]: [Sierra Help – SQ4 Cheats](https://sierrahelp.com/Cheats/SQ4Cheat.html) – Alt+I, Alt+M, Alt+R, Alt+T commands

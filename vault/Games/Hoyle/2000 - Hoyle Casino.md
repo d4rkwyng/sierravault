@@ -27,7 +27,7 @@ Hoyle Casino 2000, also known simply as Hoyle Casino or Hoyle Casino 5, is a com
 
 The game serves as a spin-off of Hoyle's Official Book of Games series and allows players to begin with $5,000 in virtual currency to try their luck across an impressive array of casino games[^ref-3]. Players can choose from 25 default characters to interact with at various gaming tables, creating a social atmosphere that mimics the experience of a real casino floor[^ref-4]. Short of paying players off in real money, Hoyle Casino 2000 includes everything expected from the exciting world of casino gambling, making it an ideal stress-relief activity for home computer users[^ref-5].
 
-The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].
+The title proved commercially successful in North America, moving over 230,000 units and generating more than $6 million in revenue within its first year[^ref-4]. Released across multiple platforms including Windows, Macintosh, Sega Dreamcast, and Game Boy Color, the game reached a wide audience of both dedicated PC gamers and console owners looking for a comprehensive gambling simulation[^ref-3].[^ref-12][^ref-13][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-3]
@@ -147,7 +147,7 @@ The Dreamcast version has several minor gameplay limitations noted by reviewers,
 | 1.0 | September 29, 2000 | Dreamcast | Console release[^ref-7] |
 | 1.0 | October 2000 | Game Boy Color | Portable release by Pulsar Interactive[^ref-6] |
 
-The game received yearly standalone updates for the following few years that added additional mini-games and slot machines to the package[^ref-11].
+The game received yearly standalone updates for the following few years that added additional mini-games and slot machines to the package[^ref-11].[^ref-14]
 
 ### Easter Eggs and Trivia
 

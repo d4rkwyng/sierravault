@@ -25,7 +25,7 @@ tags: [1990s, pro-pilot, sierra, simulation]
 
 This was the first edition in the Pro Pilot civilian flight simulation series[^ref-12], marketed by Sierra as "The Most Authentic and Accurate Flight Simulator for Home PCs"[^ref-4]. The tagline "The Complete Flight Simulator" emphasized Sierra's intention to provide a comprehensive aviation experience that rivaled or exceeded Microsoft's long-established franchise. Press materials proclaimed that "Sierra Pro Pilot combines visual beauty with instruction for a fabulous flight experience all in one box!"[^ref-4]
 
-Despite ambitious marketing claims touting it as "the best program of its kind"[^ref-5], the initial release was widely criticized for being rushed to market with numerous technical issues and missing features[^ref-6]. GameSpot's Denny Atkin noted that "Sierra's initial entry into the civilian flight simulator market, Pro Pilot '98, was far from the Microsoft Flight Simulator killer it was touted as"[^ref-7]. However, the series would eventually improve, with subsequent releases addressing many of the original's shortcomings.
+Despite ambitious marketing claims touting it as "the best program of its kind"[^ref-5], the initial release was widely criticized for being rushed to market with numerous technical issues and missing features[^ref-6]. GameSpot's Denny Atkin noted that "Sierra's initial entry into the civilian flight simulator market, Pro Pilot '98, was far from the Microsoft Flight Simulator killer it was touted as"[^ref-7]. However, the series would eventually improve, with subsequent releases addressing many of the original's shortcomings.[^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Sub-Logic[^ref-1][^ref-2]

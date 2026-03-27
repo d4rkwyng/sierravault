@@ -19,14 +19,13 @@ tags: [1980s, rpg, sierra, standalone]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim and published by Sierra On-Line in 1986 for the Apple II and Commodore 64 platforms.[^ref-1] Set in the war-torn world of Deledain, the game tasks players with defeating the evil Lord Denethenor, who has embraced dark mysticism and plunged the realm into chaos.[^ref-2] The game represents one of Sierra's ventures into publishing third-party developed RPGs during the mid-1980s, offering an accessible entry point into the genre for novice players.[^ref-3]
 
 Often described as "the most competent Ultima clone that we've seen," Wrath of Denethenor draws heavy inspiration from Richard Garriott's Ultima II and III, employing a similar top-down graphic tile perspective while attempting to add its own complexities and expanded scope.[^ref-4] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Despite the similarities, the game introduces several innovations including a classless character system, ten unique magic spells with visual effects, and dimension doors for inter-continental travel.[^ref-6]
 
-The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1]
+The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** Christopher Crim[^ref-1]
@@ -244,7 +243,6 @@ From a modern perspective, the game serves as an important data point in underst
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

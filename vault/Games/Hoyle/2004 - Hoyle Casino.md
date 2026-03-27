@@ -26,7 +26,7 @@ Hoyle Casino 2004 is a casino simulation game developed and published by Sierra 
 
 The 2004 edition represented one of Sierra Entertainment's final entries in the Hoyle Casino franchise before the series transitioned to Encore, Inc. in 2005.[^ref-5] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
 
-Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7]
+Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]

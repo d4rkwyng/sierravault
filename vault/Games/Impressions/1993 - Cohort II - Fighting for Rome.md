@@ -23,7 +23,7 @@ tags: [1990s, cohort, sierra, strategy]
 
 Cohort II: Fighting for Rome is a real-time tactics game developed and published by [[Impressions Games]] in 1993 for DOS, Amiga, and Atari ST platforms[^ref-1]. Set during the period of approximately 200 BC to 200 AD, the game places players in command of Roman legions or barbarian hordes, allowing them to orchestrate tactical battles across the ancient world[^ref-2]. As a sequel to the original Cohort: Fighting for Rome (1991), the game represented a significant upgrade with enhanced VGA graphics and expanded scenario options[^ref-3].
 
-The game was designed as part of an interlocking game system module that could be linked with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within the tactical framework of Cohort II[^ref-1]. This cross-game functionality made Cohort II particularly valuable as a companion piece, though critics noted it was "recommended for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Despite offering over two dozen pre-set scenarios and a computer opponent with adaptive tactics, the game received generally poor reviews, with critics citing frustrating controls and outdated presentation[^ref-4].
+The game was designed as part of an interlocking game system module that could be linked with Impressions' city-building title Caesar, allowing players who owned both games to resolve Caesar's city battles within the tactical framework of Cohort II[^ref-1]. This cross-game functionality made Cohort II particularly valuable as a companion piece, though critics noted it was "recommended for anyone who wants to delve into Caesar battles in more detail, but definitely not as a stand-alone product"[^ref-3]. Despite offering over two dozen pre-set scenarios and a computer opponent with adaptive tactics, the game received generally poor reviews, with critics citing frustrating controls and outdated presentation[^ref-4].[^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -66,7 +66,7 @@ The game features up to nineteen different scenarios according to one source[^re
 
 As a real-time tactics game, Cohort II focuses on military strategy rather than traditional puzzle-solving[^ref-8]. Players must position their units effectively before battle, then coordinate their movements and attacks in real-time as the engagement unfolds[^ref-2]. The game allows for battle planning and strategy setup phases where players can arrange their forces according to tactical doctrine[^ref-5].
 
-The scenario editor/builder allows players to create custom battles, though it was criticized as "difficult to operate and very limited" in its capabilities[^ref-7]. One significant criticism was the lack of numerical values for unit attributes, making it difficult to assess troop capabilities and plan accordingly[^ref-9]. Perhaps most damning, one reviewer noted that "It's possible to win a battle without giving a single order, which certainly brings the tactical value of the game into question"[^ref-4].
+The scenario editor/builder allows players to create custom battles, though it was criticized as "difficult to operate and very limited" in its capabilities[^ref-7]. One significant criticism was the lack of numerical values for unit attributes, making it difficult to assess troop capabilities and plan accordingly[^ref-9]. Perhaps most damning, one reviewer noted that "It's possible to win a battle without giving a single order, which certainly brings the tactical value of the game into question"[^ref-4].[^ref-21]
 
 ## Reception
 
@@ -237,6 +237,3 @@ The game's most significant contribution to gaming history may be its innovative
 [^ref-19]: [Kagi FastGPT Research](kagi:fastgpt) – release year confirmation, platform information
 [^ref-20]: [Amazon Product Listing](https://www.amazon.com/Cohort-II/dp/B000E5F86W) – publisher, platform, media format
 [^ref-21]: [Play Classic Games](https://playclassic.games/games/strategy-dos-games-online/play-cohort-ii-online/) – gameplay features description
-[^ref-22]: [Metacritic – Cohort II](https://www.metacritic.com/game/cohort-ii/) – developer and publisher confirmation
-[^ref-23]: [MyAbandonware Search Results](https://www.myabandonware.com/search/q/Cohort+II) – platform and release year confirmation
-[^ref-24]: [Playonline-games – Cohort 2](https://playonline-games.com/cohort-2/) – modern platform compatibility

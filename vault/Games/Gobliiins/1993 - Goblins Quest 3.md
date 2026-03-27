@@ -30,7 +30,7 @@ Unlike its predecessors, which featured multiple controllable goblins (reflected
 
 The game was marketed by Sierra as "a genuinely interactive Tex Avery style animated game" and was praised for its challenging puzzles, bright VGA graphics, and comedic charm[^ref-4].
 
-PC Gamer declared that "its puzzles will challenge and delight even the most experienced gamers," while Computer Gaming World noted it was "designed to thoroughly amuse" and guaranteed "an enjoyably bizarre experience"[^ref-1].
+PC Gamer declared that "its puzzles will challenge and delight even the most experienced gamers," while Computer Gaming World noted it was "designed to thoroughly amuse" and guaranteed "an enjoyably bizarre experience"[^ref-1].[^ref-26][^ref-29][^ref-30]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -49,7 +49,7 @@ The game's narrative centers on the legendary Labyrinth of Foliandre, said to ha
 
 Players take control of Blount, a talented reporter from the "Goblins News" who becomes entangled in a series of catastrophic events[^ref-9]. The game opens with Blount awakening to discover his flying ship under attack—the captain and even the rats have abandoned ship[^ref-2]. Jumping overboard, Blount crashes to earth, is surrounded by guards, becomes smitten by love, defeats the guards, and is then devoured by a werewolf, waking up dead—"and that's just a tune-up for his real adventure," according to Electronic Games[^ref-2]. Strange events have begun occurring throughout the land: the guardian of the labyrinth has died, his daughter has disappeared, and King Bodd has apparently fallen under a mysterious curse[^ref-7].
 
-After being bitten by a werewolf, Blount gains the ability to transform into a werewolf form when exposed to moonlight, giving him a dual personality[^ref-8]. Thanks to this double personality, he might have a chance to overcome the obstacles of the labyrinth and become the champion of both Xina and Bodd[^ref-8]. Throughout his journey, Blount must also deal with falling in love and having his beloved kidnapped, creating both romantic and heroic motivations[^ref-10]. In a clever series connection, Blount is revealed to be the little prince who was kidnapped in the previous game, Gobliins 2: The Prince Buffoon[^ref-11].
+After being bitten by a werewolf, Blount gains the ability to transform into a werewolf form when exposed to moonlight, giving him a dual personality[^ref-8]. Thanks to this double personality, he might have a chance to overcome the obstacles of the labyrinth and become the champion of both Xina and Bodd[^ref-8]. Throughout his journey, Blount must also deal with falling in love and having his beloved kidnapped, creating both romantic and heroic motivations[^ref-10]. In a clever series connection, Blount is revealed to be the little prince who was kidnapped in the previous game, Gobliins 2: The Prince Buffoon[^ref-11].[^ref-28]
 
 ## Gameplay
 
@@ -86,7 +86,7 @@ The game received more mixed coverage from CU Amiga, which awarded only 53% in t
 
 Retrospective assessments have generally been favorable. Adventure Classic Gaming's Jess Beebe gave the game 4 out of 5 stars in a May 2010 review, calling it "a great finale to a great series"[^ref-3]. The reviewer praised the game's unique qualities while acknowledging some issues with the music not always fitting the locale or changing appropriately during scene transitions[^ref-3].
 
-User reviews on various platforms have been consistently positive. MobyGames shows a critic score of 80% based on 25 ratings and a player score of 3.9 out of 5 based on 62 ratings[^ref-5]. The game holds a 4.63 out of 5 rating on MyAbandonware[^ref-17] and 4.00 out of 5 based on 34 votes on Abandonware DOS[^ref-2]. Amazon customer reviews show 4.8 out of 5 stars from 3 global ratings[^ref-18]. GameFAQs user Tastii awarded the game 7 out of 10 in their August 2000 review, calling it "a must-have game" that combines "great puzzle elements with witty humor"[^ref-12].
+User reviews on various platforms have been consistently positive. MobyGames shows a critic score of 80% based on 25 ratings and a player score of 3.9 out of 5 based on 62 ratings[^ref-5]. The game holds a 4.63 out of 5 rating on MyAbandonware[^ref-17] and 4.00 out of 5 based on 34 votes on Abandonware DOS[^ref-2]. Amazon customer reviews show 4.8 out of 5 stars from 3 global ratings[^ref-18]. GameFAQs user Tastii awarded the game 7 out of 10 in their August 2000 review, calling it "a must-have game" that combines "great puzzle elements with witty humor"[^ref-12].[^ref-27]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.8/10 (Critics: 80%, Players: 3.9/5)[^ref-5]

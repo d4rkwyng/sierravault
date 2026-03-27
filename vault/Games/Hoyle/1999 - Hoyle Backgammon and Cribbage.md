@@ -26,7 +26,7 @@ Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and car
 
 The title combined two distinct games: backgammon, the ancient race game where players move markers around the board attempting to bear off all their pieces first, and cribbage, a classic card game involving strategic card play and a distinctive scoring board.[^ref-1] Players could challenge ten different computer-controlled opponents of varying skill levels or compete against friends via internet play, a feature that was becoming increasingly common in late 1990s gaming.[^ref-1]
 
-Released during a turbulent period in Sierra's corporate history—just months after the February 1999 "Black Monday" layoffs that saw approximately 135 employees lose their jobs—Hoyle Backgammon & Cribbage represented the company's continued commitment to their casual gaming catalog even as their adventure game division faced significant restructuring.[^ref-4] The game received an ESRB rating of Everyone, making it suitable for players of all ages.[^ref-1]
+Released during a turbulent period in Sierra's corporate history—just months after the February 1999 "Black Monday" layoffs that saw approximately 135 employees lose their jobs—Hoyle Backgammon & Cribbage represented the company's continued commitment to their casual gaming catalog even as their adventure game division faced significant restructuring.[^ref-4] The game received an ESRB rating of Everyone, making it suitable for players of all ages.[^ref-1][^ref-8][^ref-9][^ref-10]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -86,7 +86,7 @@ Due to the limited availability of contemporary gaming magazine reviews in the r
 
 ### Modern Assessment
 
-Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the game as "Fair" based on 2 user ratings.[^ref-5] The game falls within the broader Hoyle series franchise, which maintained a steady following among casual game enthusiasts throughout the late 1990s.[^ref-3]
+Modern retrospective assessments of Hoyle Backgammon & Cribbage have been modest. GameFAQs users rated the game as "Fair" based on 2 user ratings.[^ref-5] The game falls within the broader Hoyle series franchise, which maintained a steady following among casual game enthusiasts throughout the late 1990s.[^ref-3][^ref-16]
 
 **Aggregate Scores:**
 - **MobyGames:** 85% (user rating)[^ref-1]
@@ -272,10 +272,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-9]: [Giant Bomb – Hoyle's Backgammon & Cribbage](https://giantbomb.com/wiki/Games/Hoyles_Backgammon_And_Cribbage) – release date, platforms, developer, publisher, genre
 
 [^ref-10]: [Academic Kids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Sierra company information, Hoyle series mention
-
-[^ref-11]: [Amantes Retro – Sierra Entertainment Catalog](https://amantes-retro.webnode.page/l/sierra-entertainment-1979-2008/) – game listing, publication year
-
-[^ref-12]: [Croatian Wikipedia – Sierra Entertainment](https://hr.wikipedia.org/wiki/Sierra_Entertainment) – Hoyle series games list
 
 [^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
 

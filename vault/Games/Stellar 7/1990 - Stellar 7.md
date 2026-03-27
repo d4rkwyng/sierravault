@@ -25,7 +25,7 @@ Stellar 7 is a futuristic tank simulation computer game inspired by the 1980 arc
 
 The game combines first-person perspective tank combat with vector graphics, creating what contemporary reviewers called "arcade-style excitement" with "first-rate graphics and sound effects."[^ref-4] Players traverse seven different star systems, battling various enemy units ranging from tanks to mechanical birds, culminating in a final confrontation with Gir Draxon himself in the Arcturus system.[^ref-2] The title "Stellar 7" references these seven planetary battlegrounds that players must conquer to reach the final boss.[^ref-5]
 
-Stellar 7 achieved significant commercial and critical success, with novelist Tom Clancy famously declaring it one of his two favorite computer games, stating "It is so unforgiving. It is just like life."[^ref-6] The game was remade in 1990 with enhanced VGA graphics, becoming notable as one of the first Sierra-published titles to support VGA graphics, beating even King's Quest V to that distinction by a few months.[^ref-5]
+Stellar 7 achieved significant commercial and critical success, with novelist Tom Clancy famously declaring it one of his two favorite computer games, stating "It is so unforgiving. It is just like life."[^ref-6] The game was remade in 1990 with enhanced VGA graphics, becoming notable as one of the first Sierra-published titles to support VGA graphics, beating even King's Quest V to that distinction by a few months.[^ref-5][^ref-29][^ref-30][^ref-31]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -305,5 +305,3 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-29]: [Hardcore Gaming 101 – Stellar 7](http://hg101.kontek.net/stellar7/stellar7.htm) – series overview, platform history
 [^ref-30]: [ClassicReload – Stellar 7](https://classicreload.com/stellar-7.html) – Battlezone inspiration, sequel information
 [^ref-31]: [Retroinvaders – Dynamix History](https://retroinvaders.com/index.php/en/125564/unsung-and-mostly-forgotten-heroes-dynamix-inc) – company founding, game description
-[^ref-32]: [Space Quest Omnipedia – Dynamix](https://spacequest.fandom.com/wiki/Dynamix) – company founding details
-[^ref-33]: [Sierra Fandom – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – pre-founding release history

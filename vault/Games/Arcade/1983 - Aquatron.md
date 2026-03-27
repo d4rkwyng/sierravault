@@ -26,7 +26,7 @@ Aquatron is a horizontally scrolling shooter developed by Justin Gray and publis
 
 The game arrived during what some retrocomputing enthusiasts have called the "golden age" of Atari arcade games, though its release was unfortunately timed to coincide with the video game crash of 1983.[^ref-3][^ref-6] Aquatron distinguished itself from other Apple II titles of its era through its blend of fast-paced action and resource management elements, requiring players to protect their supply zeppelin while managing ammunition and shield energy.[^ref-7][^ref-5] Sierra's marketing emphasized this dual-environment approach, promoting it as combining "arcade air battles and video sea battles" into "one exciting game."[^ref-8]
 
-Despite receiving mixed contemporary reviews, Aquatron earned praise for its technical achievements on the Apple II platform, featuring smooth scrolling backgrounds and detailed sprite animations that pushed the hardware's capabilities.[^ref-7] The game would later gain appreciation among retro gaming enthusiasts as a competent *Defender* clone that arrived on home computers before Atari's own official conversion.[^ref-6]
+Despite receiving mixed contemporary reviews, Aquatron earned praise for its technical achievements on the Apple II platform, featuring smooth scrolling backgrounds and detailed sprite animations that pushed the hardware's capabilities.[^ref-7] The game would later gain appreciation among retro gaming enthusiasts as a competent *Defender* clone that arrived on home computers before Atari's own official conversion.[^ref-6][^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** Justin Gray[^ref-1]
@@ -71,7 +71,7 @@ Rather than traditional puzzles, Aquatron emphasizes real-time resource manageme
 
 The core mechanical challenge lies in balancing offensive action against defensive positioning. Straying too far from the zeppelin means missing supply drops, while staying too close limits the player's ability to intercept incoming threats.[^ref-5] Enemy parachutists add strategic complexity—if they reach the water, they transform into submarines that must then be hunted underwater.[^ref-5]
 
-A notable quirk in the mechanics allows players to continue firing even when their ammunition counter shows empty, a bug that some community members identified as feeling unfinished.[^ref-3]
+A notable quirk in the mechanics allows players to continue firing even when their ammunition counter shows empty, a bug that some community members identified as feeling unfinished.[^ref-3][^ref-17]
 
 ## Reception
 
@@ -151,7 +151,7 @@ The rushed disk release of the Atari version left several elements feeling incom
 
 ### Technical Issues
 
-Several bugs were identified in various versions of the game:
+Several bugs were identified in various versions of the game:[^ref-21]
 
 - **Ammunition Bug:** Players can continue shooting even when the ammunition counter shows empty[^ref-3]
 - **High Score Bug (Cartridge Conversion):** The in-game running high score displays blank on 16K RAM machines when running the fan-made cartridge conversion[^ref-3]
@@ -197,7 +197,6 @@ Aquatron occupies an interesting position in Sierra On-Line's history as an exam
 The game represents a competent execution of an established formula rather than a notable innovation. Its dual-environment gameplay—seamlessly transitioning between aerial and underwater combat—provided enough distinction from pure *Defender* clones to justify its existence, while the resource management elements added strategic depth unusual for the genre.[^ref-7][^ref-5] Had it released even a year earlier, before the market crash devastated consumer confidence, Aquatron might be remembered more fondly as one of the better home adaptations of Williams' arcade classic. Instead, it serves as a reminder of how timing and market conditions can overshadow technical and design merit.
 
 Modern retro gaming enthusiasts have given Aquatron warmer reception than its contemporary reviewers, appreciating it as an artifact of early home computer gaming that executed its goals with surprising polish for the era.[^ref-3][^ref-6]
-
 
 ## Purchase
 

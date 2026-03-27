@@ -26,7 +26,7 @@ Gobliiins 4 is the fourth installment in the beloved puzzle-adventure series tha
 
 Released in March 2009, the game features 3D graphics while maintaining the classic gameplay mechanics that defined the series[^ref-2]. Players take on the roles of Detective Tchoup and his companions Stucco and Perluis, who are hired by King Balderon VIII to locate his missing pet aardvark named Riri[^ref-4]. For many gamers, the Gobliiins series represents "the gaming equivalent of marmite: either you love it or you hate it," with its challenging puzzles and distinctive humor dividing audiences[^ref-5].
 
-The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. Despite its divisive reception, Gobliiins 4 successfully revived the franchise and demonstrated continued interest in the series, eventually leading to Gobliiins 5 in 2023[^ref-7].
+The game received mixed reviews upon release, with critics praising its puzzle design while criticizing its dated presentation and lack of modern conveniences[^ref-6]. Despite its divisive reception, Gobliiins 4 successfully revived the franchise and demonstrated continued interest in the series, eventually leading to Gobliiins 5 in 2023[^ref-7].[^ref-35][^ref-36]
 
 > [!info]- Game Info
 > **Developer:** Société Pollene[^ref-1]
@@ -97,7 +97,7 @@ The game maintains a contested legacy among adventure gaming enthusiasts. Some f
 - **Software Informer:** 4/5[^ref-12]
 - **GameBoomers:** B-[^ref-14]
 
-The Metacritic breakdown reveals significant division: 23% positive (3 reviews), 46% mixed (6 reviews), and 31% negative (4 reviews)[^ref-6]. User scores remained largely unavailable, reflecting the game's niche audience. The game's availability became increasingly limited over time, leading fans to note on GOG's wishlist page: "It's sad that a not so old game (2009) is not available anywhere in the world"[^ref-22].
+The Metacritic breakdown reveals significant division: 23% positive (3 reviews), 46% mixed (6 reviews), and 31% negative (4 reviews)[^ref-6]. User scores remained largely unavailable, reflecting the game's niche audience. The game's availability became increasingly limited over time, leading fans to note on GOG's wishlist page: "It's sad that a not so old game (2009) is not available anywhere in the world"[^ref-22].[^ref-37]
 
 ## Development
 

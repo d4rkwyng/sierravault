@@ -25,7 +25,7 @@ Fast Attack: High Tech Submarine Warfare is a submarine combat simulation develo
 
 The simulation was notable for its uncompromising approach to realism, offering players a closer approximation of modern undersea combat than any previous title in the genre.[^ref-4] Using strategy and stealth, players monitor the movement of hostile targets, destroy enemy ships and submarines, hunt for mines, and attack enemy convoys.[^ref-2] The game's tagline encapsulated its philosophy: "In high-tech submarine warfare, there are no problems. Only solutions."[^ref-2] The stakes were made abundantly clear to players—should they fail their mission objectives, their "final rest will be upon the ocean floor."[^ref-3]
 
-Development of Fast Attack benefited from authentic military consultation, with members of the USS Pogy (SSN-647) and Admiral Robert "Yogi" Kaufman contributing their expertise to ensure the simulation's accuracy.[^ref-5] This attention to detail resulted in what reviewers called an "incredibly complex, yet easy to grasp and operate" experience that smoothly integrated numerous complex elements into a working game of substantial depth.[^ref-6]
+Development of Fast Attack benefited from authentic military consultation, with members of the USS Pogy (SSN-647) and Admiral Robert "Yogi" Kaufman contributing their expertise to ensure the simulation's accuracy.[^ref-5] This attention to detail resulted in what reviewers called an "incredibly complex, yet easy to grasp and operate" experience that smoothly integrated numerous complex elements into a working game of substantial depth.[^ref-6][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Software Sorcery[^ref-1]
@@ -85,7 +85,7 @@ Critics were harsh about the stability issues that plagued the initial release. 
 
 ### Modern Assessment
 
-Modern retrospective analysis has been more forgiving, with the understanding that patches eventually resolved many technical issues. Old PC Gaming noted that "I can't think of another game running under DOS that so smoothly integrates so many complex elements into a working game of substantial depth."[^ref-6] The site praised the simulation as "incredibly complex, yet easy to grasp and operate."[^ref-6]
+Modern retrospective analysis has been more forgiving, with the understanding that patches eventually resolved many technical issues. Old PC Gaming noted that "I can't think of another game running under DOS that so smoothly integrates so many complex elements into a working game of substantial depth."[^ref-6] The site praised the simulation as "incredibly complex, yet easy to grasp and operate."[^ref-6][^ref-15][^ref-20]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 72% (10 ratings)[^ref-1]
@@ -265,5 +265,4 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 [^ref-16]: [Kotaku – Fast Attack](https://kotaku.com/games/fast-attack-high-tech-submarine-warfare) – game description
 [^ref-17]: [Metacritic – Fast Attack](https://www.metacritic.com/game/fast-attack-high-tech-submarine-warfare/) – genre classification
 [^ref-18]: [Never Die Media – Product Page](https://www.neverdiemedia.com/products/fast-attack-high-tech-submarine-warfare) – game description, compatibility
-[^ref-19]: [MobyGames – Fast Attack: High Tech Submarine Warfare](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/) – Developer, publisher, release year, and game information
 [^ref-20]: [MobyGames – Reviews](https://www.mobygames.com/game/2804/fast-attack-high-tech-submarine-warfare/reviews/) – aggregate review scores

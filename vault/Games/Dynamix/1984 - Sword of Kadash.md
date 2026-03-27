@@ -147,7 +147,7 @@ Chris Cole expressed some disappointment with the final product's setting change
 
 ### Technical Issues
 
-The game's design was intentionally unforgiving, with some players noting "poor gameplay quirks" that contributed to the extreme difficulty.[^ref-16] The lack of an in-game save system combined with the trial-and-error nature of progression meant that players could lose hours of progress to a single mistake.[^ref-6] One user on Atarimania asked: "Is there a version out there that features a trainer for inf hit points?"[^ref-8]
+The game's design was intentionally unforgiving, with some players noting "poor gameplay quirks" that contributed to the extreme difficulty.[^ref-16] The lack of an in-game save system combined with the trial-and-error nature of progression meant that players could lose hours of progress to a single mistake.[^ref-6] One user on Atarimania asked: "Is there a version out there that features a trainer for inf hit points?"[^ref-8][^ref-22]
 
 ### Easter Eggs and Trivia
 
@@ -182,7 +182,6 @@ Sword of Kadash occupies an interesting position in gaming history as an early e
 The title also represents a fascinating snapshot of the pre-commercial indie game development scene of the early 1980s.[^ref-1] Created by teenagers at a computer store, published by a small software company, it demonstrates how the low barriers to entry in early home computer gaming allowed young developers to create and sell their work.[^ref-3] Chris Cole later returned to Dynamix in 1991, bringing his career full circle.[^ref-4]
 
 While modern critics have been harsh on the game's punishing difficulty and repetitive nature—with some finding it "a bit repetitious" and "kinda pointless"[^ref-16]—its dedicated fanbase continues to appreciate its ambitious scope and rewarding exploration. As one nostalgic player wrote: "my favorite game on the c64. i still have my disk copy, but no drive to read it from."[^ref-18]
-
 
 ## Purchase
 

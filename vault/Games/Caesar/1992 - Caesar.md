@@ -56,7 +56,6 @@ The control system emphasized point-and-click construction, allowing players to 
 
 Caesar is not currently available for digital purchase. The game can be found through preservation archives for historical research purposes.
 
-
 Unlike SimCity's open-ended approach, Caesar introduced a structured campaign with clear objectives and victory conditions[^ref-18]. As Josh Bycer noted in his analysis, "Starting with Caesar in 1992, the Impressions series were set up differently compared to SimCity... With Caesar you had goals to accomplish to win each map"[^ref-19]. This mission-based structure became a defining characteristic of the historical city-building subgenre.
 
 The progression system required players to meet specific population, prosperity, and security thresholds before advancing to new provinces[^ref-20]. Fan-created strategy guides reveal the complexity of these requirements: "Romans hate open spaces. Strongly avoid building housing blocks near empty land" and other detailed mechanics that players needed to master[^ref-21]. The game also featured combat elements, integrating military management with urban development in ways that SimCity had not attempted[^ref-22].
@@ -192,26 +191,4 @@ Caesar is part of Caesar's series of city-building simulation games developed by
 [^ref-50]: https://grokipedia.com/page/Caesar_(video_game) - Analysis of gameplay innovations
 [^ref-51]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs - GameFAQs basic information
 [^ref-52]: https://gamefaqs.gamespot.com/pc/929476-caesar-iv/faqs/49292 - Fan walkthrough guide
-[^ref-68]: https://www.lemonamiga.com/game/caesar-deluxe - Caesar Deluxe database entry
-[^ref-69]: https://lilura1.blogspot.com/2022/04/Caesar-IBM-PC-MS-DOS-1992-Impressions-Games-Original-Version.html - Technical blog analysis
-[^ref-70]: https://www.mdpi.com/2073-431X/10/11/146 - Academic VR research paper
-[^ref-71]: https://www.metacritic.com/game/caesar-iv/ - Metacritic aggregation page
-[^ref-72]: https://www.metacritic.com/game/caesar-iii/ - Caesar III Metacritic page
-[^ref-73]: https://www.mobygames.com/game/3146/ - MobyGames database entry
-[^ref-74]: https://www.mobygames.com/game/3146/caesar/cover/group-423062/cover-1006320/ - Cover gallery page
-[^ref-75]: https://www.mobygames.com/game/3146/caesar/ - Comprehensive database entry
-[^ref-76]: https://www.mobygames.com/game/1588/caesar-ii/ - Caesar II database entry
-[^ref-77]: https://www.neoseeker.com/caesar-iv/faqs/ - Gaming community FAQ repository
-[^ref-78]: https://www.old-games.com/download/5123/caesar - Game download site
-[^ref-79]: https://www.pcgamer.com/revisiting-pharaoh-the-complex-city-builder-that-rewards-meticulous-planning/ - Pharaoh retrospective
-[^ref-80]: https://www.pcgamingwiki.com/wiki/Caesar - Technical compatibility wiki
-[^ref-81]: https://www.pcgamingwiki.com/wiki/Caesar_III - Caesar III technical reference
-[^ref-82]: https://www.reddit.com/r/impressionsgames/comments/1bty0i7/i_feel_caesar_ii_is_the_best_of_the_caesar_series/ - User forum discussion
-[^ref-83]: https://www.reddit.com/r/Games/comments/a3mtec/legacy_of_sierra_online/ - Sierra legacy discussion
-[^ref-84]: https://www.resetera.com/threads/an-interview-with-chris-beatrice-ex-impressions-games-tilted-mill-project-lead-on-lord-of-the-realms-pharaoh-franchises.96636/ - Chris Beatrice interview
-[^ref-85]: https://roman-empire.net/games/caesar-game-series - Fan retrospective by historian
-[^ref-86]: https://scientificgamer.com/in-praise-of-pharaoh/ - Detailed Impressions Games analysis
-[^ref-87]: https://www.shouldiremoveit.com/caesar-iv-26923-program.aspx - Software tracking statistics
-[^ref-88]: https://sierrachest.com/ufaa/index.php?a=games&id=89&title=caesar-1&fld=general - Sierra Chest database entry
-[^ref-89]: https://www.sierrachest.com/index.php?a=games&id=90&title=caesar-2&fld=walkthrough&pid=101 - Fan walkthrough guide
 [^ref-90]: https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Caesar - TV Tropes article on Caesar series with version history

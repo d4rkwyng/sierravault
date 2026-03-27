@@ -31,7 +31,7 @@ Released in December 1993 on floppy discs and re-released on CD-ROM in September
 
 According to Corey Cole, the game was developed with a budget of $750,000[^ref-1].
 
-The floppy disc version was released with inadequate testing and is considered "almost unplayable," though the CD re-release addressed many issues[^ref-1].
+The floppy disc version was released with inadequate testing and is considered "almost unplayable," though the CD re-release addressed many issues[^ref-1].[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -90,7 +90,7 @@ Jim Trunzo reviewed the game in White Wolf #43 (May 1994), giving it a "Very Goo
 ### Modern Assessment
 Rowan Kaizer of Engadget and Ryan Stevens of GameTrailers consider it the best entry of the entire series[^ref-1][^ref-7]. Michael Baker for RPGamer considers it "worth money even twenty years on," scoring it 4 out of 5 stars[^ref-1][^ref-8]. Adam Rosenberg of G4TV considers Shadows of Darkness "the most elaborate and well-designed" entry in the series[^ref-1]. PC Gamer's Richard Cobbett considers the game "absolutely wonderful"[^ref-1][^ref-9].
 
-In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDB users rate it 8.7/10, one of the highest-rated adventure games on the platform[^ref-4]. MobyGames critics average 79%[^ref-19]. The CRPG Addict gave it 47/100, a respectable score in their stringent system[^ref-20]. HowLongToBeat reports the main story takes approximately 13 hours to complete, with completionist runs taking about 24 hours[^ref-10]. Speedrunners have achieved completion times under 20 minutes[^ref-21].
+In 2011, Adventure Gamers named Shadows of Darkness the 23rd-best adventure game ever released[^ref-1]. IMDB users rate it 8.7/10, one of the highest-rated adventure games on the platform[^ref-4]. MobyGames critics average 79%[^ref-19]. The CRPG Addict gave it 47/100, a respectable score in their stringent system[^ref-20]. HowLongToBeat reports the main story takes approximately 13 hours to complete, with completionist runs taking about 24 hours[^ref-10]. Speedrunners have achieved completion times under 20 minutes[^ref-21].[^ref-26]
 
 - **Adventure Gamers:** #23 best adventure game of all time[^ref-1]
 - **White Wolf Magazine:** "Very Good" (May 1994)[^ref-1]
@@ -163,7 +163,7 @@ The game draws heavily from Eastern European mythology and cosmic horror[^ref-23
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|
+|---------|------|----------|-------|[^ref-24]
 | 1.0 | December 1993 | DOS | Original floppy release, notorious for bugs[^ref-1] |
 | CD-ROM | September 1994 | DOS, Windows 3.x | Full voice acting, many bug fixes[^ref-1][^ref-5] |
 | GOG/Steam | May 10, 2012 | Windows (DOSBox) | Digital re-release with NewRisingSun patches[^ref-5] |
@@ -257,8 +257,6 @@ This game has been included in the following collections:
 [^ref-13]: [My Abandonware – Quest for Glory IV](https://www.myabandonware.com/game/quest-for-glory-shadows-of-darkness-fh) – – platforms, availability
 [^ref-14]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_IV%3A_Shadows_of_Darkness) – – series information
 [^ref-15]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
-[^ref-16]: [Digital Antiquarian – Quest for Glory III and IV](https://www.filfre.net/2018/10/quest-for-glory-iii-and-iv/) – – historical analysis
-[^ref-17]: [StrategyWiki – Quest for Glory IV](https://strategywiki.org/wiki/Quest_for_Glory_IV) – walkthrough, game guide
 [^ref-18]: [ESRB Rating](https://www.esrb.org/ratings/26723/Quest+for+Glory%3A+Shadows+of+Darkness/) – "Kids to Adults" rating
 [^ref-19]: [MobyGames – Quest for Glory IV](https://www.mobygames.com/game/172/quest-for-glory-shadows-of-darkness/) – critic reviews, credits
 [^ref-20]: [CRPG Addict – Quest for Glory IV](https://crpgaddict.blogspot.com/2021/09/quest-for-glory-iv-shadows-of-darkness.html) – detailed analysis
@@ -266,5 +264,4 @@ This game has been included in the following collections:
 [^ref-22]: [GameFAQs – Quest for Glory IV](https://gamefaqs.gamespot.com/pc/562693-quest-for-glory-shadows-of-darkness) – user reviews, guides
 [^ref-23]: [TV Tropes – Quest for Glory IV](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/QuestForGloryIV) – trope analysis, cultural references
 [^ref-24]: [ScummVM Wiki – Quest for Glory IV](https://wiki.scummvm.org/index.php?title=Quest_for_Glory%3A_Shadows_of_Darkness) – technical compatibility
-[^ref-25]: [The Cutting Room Floor – Quest for Glory IV](https://tcrf.net/Quest_for_Glory%3A_Shadows_of_Darkness) – unused content
 [^ref-26]: [RPGFan – Quest for Glory IV Soundtrack](https://rpgfan.com/soundtracks/quest-for-glory-iv-shadows-of-darkness/) – music review

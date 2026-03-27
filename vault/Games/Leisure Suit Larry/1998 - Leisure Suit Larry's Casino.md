@@ -23,7 +23,7 @@ tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 
 The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-4] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-4]
 
-The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-7]
+The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-7][^ref-6][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-1]
@@ -77,7 +77,7 @@ The casino also featured three restaurants and three bars where players could so
 
 ### Characters
 
-Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] The game featured voice acting from the adventure series cast, with Jan Rabson reprising his role as Larry Laffer.[^ref-1]
+Players could select their online persona from a roster of characters drawn primarily from *Leisure Suit Larry 7: Love for Sail!*, with Cavaricchi Vuarnet from *Leisure Suit Larry 6: Shape Up or Slip Out!* also available.[^ref-5] The game featured voice acting from the adventure series cast, with Jan Rabson reprising his role as Larry Laffer.[^ref-1][^ref-15]
 
 ## Voice Cast
 

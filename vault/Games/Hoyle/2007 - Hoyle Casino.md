@@ -25,7 +25,7 @@ Hoyle Casino 2007 is a casino simulation video game developed and published by [
 
 The title represents a continuation of the Hoyle Casino series after Encore, Inc. acquired publishing rights from Sierra Entertainment in 2005[^ref-6]. The Hoyle brand had been a staple of Sierra's catalog from 1996 through 2003, establishing itself as a premiere casual gaming franchise focusing on card and casino games[^ref-6]. Unfortunately, this particular edition became notorious among fans for significant technical issues, including a persistent bug that caused 30-second freezes during card games—a problem that Encore was ultimately unable to resolve, forcing the company to offer refunds to affected customers[^ref-6].
 
-The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].
+The game was rated T for Teen by the ESRB for Simulated Gambling content[^ref-1][^ref-7][^ref-8], typical for casino simulation titles that recreate the gambling experience without real monetary stakes. Despite its troubled release, Hoyle Casino 2007 remained part of Encore's catalog and was distributed through various retail channels including DigitalRiver[^ref-9].[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]

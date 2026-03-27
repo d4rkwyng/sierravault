@@ -24,7 +24,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 3-D Ultra Mini Golf Deluxe is "a minigolf game for the Windows PC, designed by Dynamix and published by Sierra. It was released in 1998 as a sequel to the 1997 game 3-D Ultra Minigolf, and it features 9 brand-new holes."[^ref-2] As part of Sierra's 3D Ultra series and the first non-pinball entry in the franchise[^ref-3], the game promised that "the unique playability of 3-D Ultra Minigolf will help you perform amazing golfing feats never seen before in a miniature game"[^ref-1]. The game was marketed with claims of having "the most realistic physics and accurate ball movement of any computer mini golf game"[^ref-3], utilizing "true-to-life ball dynamics and different surface types to come as close to realism as possible"[^ref-1].
 
-3-D Ultra Minigolf Deluxe was an "enlarged version of 3-D Ultra Minigolf" with "9 new holes added, overall 27 holes playable. No changes to gameplay were made" from the original[^ref-7]. The game has been described as "a strange hybrid of golf, pool, and pinball"[^ref-4] and was created by the same studio behind "the critically-acclaimed Tribes series and The Incredible Machine"[^ref-12]. Despite its age, modern retrospectives note that it "remains an insane amount of fun"[^ref-3].
+3-D Ultra Minigolf Deluxe was an "enlarged version of 3-D Ultra Minigolf" with "9 new holes added, overall 27 holes playable. No changes to gameplay were made" from the original[^ref-7]. The game has been described as "a strange hybrid of golf, pool, and pinball"[^ref-4] and was created by the same studio behind "the critically-acclaimed Tribes series and The Incredible Machine"[^ref-12]. Despite its age, modern retrospectives note that it "remains an insane amount of fun"[^ref-3].[^ref-17][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -37,7 +37,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Story Summary
 
-3-D Ultra Mini Golf Deluxe does not feature a traditional narrative storyline. Instead, the game focuses on pure miniature golf gameplay across fantastical courses. As described in the official summary, "Minigolf was never like this. 3-D Ultra Minigolf Deluxe takes the classic game you love to whole new level of fun! Your favorite holes are here, plus some very unique new holes that have been created with adventure in mind."[^ref-13] The game features "interactive 3D animations that will challenge even the most intrepid putter, with hidden holes and other surprises guaranteed to inflate your score"[^ref-20].
+3-D Ultra Mini Golf Deluxe does not feature a traditional narrative storyline. Instead, the game focuses on pure miniature golf gameplay across fantastical courses. As described in the official summary, "Minigolf was never like this. 3-D Ultra Minigolf Deluxe takes the classic game you love to whole new level of fun! Your favorite holes are here, plus some very unique new holes that have been created with adventure in mind."[^ref-13] The game features "interactive 3D animations that will challenge even the most intrepid putter, with hidden holes and other surprises guaranteed to inflate your score"[^ref-20].[^ref-22]
 
 ## Gameplay
 
@@ -68,7 +68,7 @@ The game received mixed reviews across different platforms and time periods. Use
 
 ### Modern Assessment
 
-Modern retrospective reviews have been largely positive. The Collection Chamber review notes that "despite its age, it remains an insane amount of fun"[^ref-3], though it criticizes some technical aspects like the preferences menu crashing and inconsistent TruePutt controls[^ref-3]. Zomb's Lair describes it as a "childhood favorite" and states "3D Ultra Minigolf is a really fun, constantly smile-inducing time that's really worth a look, especially if you have a couple friends or family members to play with"[^ref-27]. The game is noted for combining "whimsical and fantastical mini-golf courses with interactive elements"[^ref-11] and described as having "fun holes, great gameplay, and lots of replayability"[^ref-16].
+Modern retrospective reviews have been largely positive. The Collection Chamber review notes that "despite its age, it remains an insane amount of fun"[^ref-3], though it criticizes some technical aspects like the preferences menu crashing and inconsistent TruePutt controls[^ref-3]. Zomb's Lair describes it as a "childhood favorite" and states "3D Ultra Minigolf is a really fun, constantly smile-inducing time that's really worth a look, especially if you have a couple friends or family members to play with"[^ref-27]. The game is noted for combining "whimsical and fantastical mini-golf courses with interactive elements"[^ref-11] and described as having "fun holes, great gameplay, and lots of replayability"[^ref-16].[^ref-15]
 
 ## Development
 
@@ -89,7 +89,7 @@ The game ran on Windows 95 and later systems[^ref-4], with file sizes of "611 Mb
 ### Version History
 
 | Version | Year | Notes |
-|---------|------|-------|
+|---------|------|-------|[^ref-18]
 | 1.0 | 1998 | Initial release (611 MB download)[^ref-3] |
 | 1.01 | 1998 | Added online multiplayer support[^ref-6] |
 | 2.0 | 1998 | Optimized version (571 MB download)[^ref-3] |
@@ -101,7 +101,6 @@ The game ran on Windows 95 and later systems[^ref-4], with file sizes of "611 Mb
 The series eventually saw releases on modern platforms, including Xbox 360 and Steam[^ref-25], though with mixed results. Steam Community reviews show "Mostly Positive (70% of 113)" ratings[^ref-26], but users frequently complain about technical issues and poor PC porting. One Steam review notes the "game doesnt have controller support. What are people supposed to do, pass around the keyboard and mouse or take turns sitting at a desk?"[^ref-24]
 
 The game maintains a cult following among retro gaming enthusiasts, with preservation sites like MyAbandonware[^ref-19] and the Internet Archive[^ref-2] ensuring its continued availability. Modern players appreciate it as "3D Ultra Minigolf was a childhood favorite" that provides "fun and charming" gameplay[^ref-27].
-
 
 ## Purchase
 

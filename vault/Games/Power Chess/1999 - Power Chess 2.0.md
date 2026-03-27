@@ -24,7 +24,7 @@ tags: [1990s, power-chess, sierra]
 
 Power Chess 2.0 is a chess simulation game developed and published by [[Sierra On-Line]] in 1999 for Windows[^ref-1]. As the third entry in the Power Chess series, the game represented "the culmination of a long history of chess games that have ranged from Radio Shack hand-held computer chess games to IBM's Deep Blue"[^ref-2]. The game allowed players to compete against computer opponents or challenge human players over the Internet, featuring multiple AI personalities modeled after famous chess grandmasters including Gary Kasparov, Bobby Fischer, Judit Polgar, and Anatoly Karpov[^ref-1].
 
-The game continued Sierra's mission to "humanize" computer chess, a concept French reviewers praised as "un pari réussi" (a successful bet)[^ref-3]. Power Chess 2.0 featured the distinctive voice of Natacha LaFerriere as the Queen character, who provided post-game analysis and tutoring in both English and French versions[^ref-4]. The program incorporated adaptive difficulty technology, automatically adjusting its playing level during games to match the player's skill[^ref-5]. Despite being positioned as an updated release, some critics noted it was essentially "a simple update of Power Chess 98" with nothing significantly new[^ref-6].
+The game continued Sierra's mission to "humanize" computer chess, a concept French reviewers praised as "un pari réussi" (a successful bet)[^ref-3]. Power Chess 2.0 featured the distinctive voice of Natacha LaFerriere as the Queen character, who provided post-game analysis and tutoring in both English and French versions[^ref-4]. The program incorporated adaptive difficulty technology, automatically adjusting its playing level during games to match the player's skill[^ref-5]. Despite being positioned as an updated release, some critics noted it was essentially "a simple update of Power Chess 98" with nothing significantly new[^ref-6].[^ref-13][^ref-15][^ref-16][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -194,4 +194,3 @@ The series is perhaps best remembered for its educational features rather than i
 [^ref-14]: [Open Chess Forum](https://open-chess.org/viewtopic.php?t=693) – version history, compatibility notes, VirtualPC workaround
 [^ref-15]: [Sierra Chest – Power Chess 2](https://sierrachest.com/index.php?a=games&id=541&title=power-chess-2&fld=general) – release date, developer
 [^ref-16]: [Glitchwave – Power Chess](https://glitchwave.com/game/power-chess/) – platform, release year, ESRB rating
-[^ref-17]: [IMDB Search Results](https://www.imdb.com/find/?q=Power+Chess+2.0&s=tt) – release years for series entries

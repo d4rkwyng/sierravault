@@ -24,7 +24,7 @@ tags: [1990s, aces, sierra, simulation]
 
 Aces Over Europe stands as one of Dynamix's most ambitious World War II flight simulators, released in 1993 as the follow-up to the acclaimed Aces of the Pacific[^ref-1]. As designer Damon Slye's "most accurate and detailed simulation yet,"[^ref-2] the game transported players to the European Theater of WWII, spanning from the beaches of Normandy to the war-torn ruins of Berlin[^ref-2]. The simulation allowed pilots to fly for the U.S. Army Air Force, R.A.F., and German Luftwaffe[^ref-2], featuring over 20 meticulously modeled aircraft including the Messerschmitt 262, Supermarine Spitfire IX, Arado-234B, DeHaviland Mosquito VI, and P-47D Thunderbolt[^ref-3].
 
-The game was praised by contemporary reviewers as "a solid flight simulator" that was "very good considering the year it was released" with a "decent physics model, and just plain fun!"[^ref-4] Critics awarded the game an impressive 86% aggregate score based on 11 ratings[^ref-5], while Dragon magazine gave it a perfect 5/5 stars[^ref-6]. Despite being released in an era before modern graphics standards, users noted that "it was the best flight sim available 'til Microsoft Combat Flight Simulator came in 1999"[^ref-4]. The game's success helped establish Dynamix as the premier developer of flight simulation software for consumer computers during the early 1990s[^ref-2].
+The game was praised by contemporary reviewers as "a solid flight simulator" that was "very good considering the year it was released" with a "decent physics model, and just plain fun!"[^ref-4] Critics awarded the game an impressive 86% aggregate score based on 11 ratings[^ref-5], while Dragon magazine gave it a perfect 5/5 stars[^ref-6]. Despite being released in an era before modern graphics standards, users noted that "it was the best flight sim available 'til Microsoft Combat Flight Simulator came in 1999"[^ref-4]. The game's success helped establish Dynamix as the premier developer of flight simulation software for consumer computers during the early 1990s[^ref-2].[^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-7]
@@ -126,7 +126,6 @@ Aces Over Europe's legacy as a significant flight simulation achievement continu
 
 The game established Dynamix's reputation for uncompromising simulation detail that would define the company's future flight simulator releases[^ref-2]. Strategic implementation of both arcade and realistic flight modes proved the viability of this dual-approach design philosophy[^ref-1].
 
-
 The game's influence extended to subsequent flight simulators that adopted similar design philosophies balancing authenticity with accessibility[^ref-2].
 
 ## See Also
@@ -144,7 +143,6 @@ Aces Over Europe became part of several compilation releases, including the "Ace
 The game's technical innovations, particularly its record and playback system, influenced later flight simulators. As one user noted, "The Aces Over series had the absolute best record/playback mission deck and video edit interface"[^ref-2] among its contemporaries. The simulation's attention to environmental detail, such as the unique bird strike feature[^ref-13], demonstrated Dynamix's commitment to realistic flight modeling that would influence future aviation games.
 
 The game has been preserved in multiple formats including original floppy disk images[^ref-22] and VCR tape recordings[^ref-21], with media databases documenting its release[^ref-23]. The title has maintained a dedicated fanbase, evidenced by over 1,456 votes on GOG.com's community wishlist requesting its re-release[^ref-2]. Game media including cover art[^ref-24] and promotional materials[^ref-25] have been preserved, alongside the official strategy guide documentation[^ref-26].
-
 
 Aces Over Europe became part of several compilation releases, including the "Aces - The Complete Collector's Edition" in 1995[^ref-17] and "Best Of Sierra Volume 06" in 1998[^ref-18].
 

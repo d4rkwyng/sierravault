@@ -323,42 +323,4 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-48]: [Narkive Forum – Soundtrack Discussion](https://comp.sys.ibm.pc.games.rpg.narkive.com/jfRmTQ8C/crosspost-return-to-krondor-soundtrack) – fan testimonials, Raymond Feist response
 [^ref-1]: [Academy of Interactive Arts Award Nomination](https://en.wikipedia.org/wiki/Return_to_Krondor#Reception) – AIAS PC RPG of Year
 [^ref-50]: [Game-Over.net Review](https://www.game-over.net/review/december/rtk/) – series intentions
-[^ref-51]: [MobyGames Screenshots](https://www.mobygames.com/game/3254/return-to-krondor/screenshots/) – Visual documentation
-[^ref-52]: [MobyGames Cover Art](https://www.mobygames.com/game/3254/return-to-krondor/cover/) – Box art gallery
-[^ref-53]: [MobyGames Credits](https://www.mobygames.com/game/3254/return-to-krondor/credits/) – Full PyroTechnix team
-[^ref-54]: [MobyGames Tech Specs](https://www.mobygames.com/game/3254/return-to-krondor/specs/) – Technical requirements
-[^ref-55]: [MobyGames User Reviews](https://www.mobygames.com/game/3254/return-to-krondor/reviews/) – Player assessments
-[^ref-56]: [GOG.com Store Page](https://www.gog.com/game/return_to_krondor) – Digital distribution
-[^ref-57]: [GOG Forum Technical](https://www.gog.com/forum/krondor_series/return_to_krondor) – Community fixes
-[^ref-59]: [Archive.org Game](https://archive.org/details/return-to-krondor) – Game preservation
-[^ref-60]: [Wikipedia PyroTechnix](https://en.wikipedia.org/wiki/PyroTechnix) – Developer history
-[^ref-61]: [Wikipedia True3D Engine](https://en.wikipedia.org/wiki/True3D) – Engine technical details
-[^ref-62]: [Raymond E. Feist Interview](https://www.crydee.com/raymond-feist/faq) – Author involvement
-[^ref-63]: [Jimmy's Luck Novel](https://en.wikipedia.org/wiki/Jimmy_and_the_Crawler) – Related Feist novel
-[^ref-65]: [GameFAQs Answers](https://gamefaqs.gamespot.com/pc/90603-return-to-krondor/answers) – Community Q&A
-[^ref-66]: [GameFAQs Board](https://gamefaqs.gamespot.com/boards/90603-return-to-krondor) – Discussion forum
-[^ref-67]: [Giant Bomb Wiki](https://www.giantbomb.com/return-to-krondor/3030-5872/) – Community wiki
-[^ref-68]: [IGN Database](https://www.ign.com/games/return-to-krondor) – Game database
-[^ref-69]: [MyAbandonware Entry](https://www.myabandonware.com/game/return-to-krondor-e3r) – Abandonware preservation
-[^ref-70]: [Classic Reload](https://classicreload.com/return-to-krondor.html) – Browser playability
-[^ref-71]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/return-to-krondor/) – Fan community
 [^ref-44]: [Sierra Chest Full Entry](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor) – Sierra archive
-[^ref-73]: [VGMPF Wiki](https://vgmpf.com/Wiki/index.php/Return_to_Krondor) – Music technical details
-[^ref-74]: [VGMdb Entry](https://vgmdb.net/album/return-to-krondor) – Soundtrack database
-[^ref-75]: [Khinsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/return-to-krondor) – Audio preservation
-[^ref-77]: [StrategyWiki](https://strategywiki.org/wiki/Return_to_Krondor) – Gameplay wiki
-[^ref-78]: [IGDB Entry](https://www.igdb.com/games/return-to-krondor) – Game database
-[^ref-79]: [TheGamesDB](https://thegamesdb.net/game/return-to-krondor) – Media database
-[^ref-80]: [LaunchBox Database](https://gamesdb.launchbox-app.com/games/details/return-to-krondor) – Metadata
-[^ref-81]: [How Long To Beat](https://howlongtobeat.com/game/return-to-krondor) – Completion times
-[^ref-82]: [VGCollect](https://vgcollect.com/item/return-to-krondor) – Collector database
-[^ref-83]: [Price Charting](https://www.pricecharting.com/game/pc/return-to-krondor) – Market value
-[^ref-84]: [Hardcore Gaming 101](https://www.hardcoregaming101.net/return-to-krondor/) – Detailed retrospective
-[^ref-85]: [Retro Gamer Coverage](https://www.retrogamer.net/return-to-krondor/) – Magazine article
-[^ref-86]: [Reddit r/CRPG](https://www.reddit.com/r/crpg/search?q=return+to+krondor) – Community discussion
-[^ref-87]: [Reddit r/PatientGamers](https://www.reddit.com/r/patientgamers/search?q=return+to+krondor) – Retrospective threads
-[^ref-88]: [YouTube Longplay](https://www.youtube.com/results?search_query=return+to+krondor+longplay) – Video archive
-[^ref-89]: [Twitch Category](https://www.twitch.tv/directory/game/return-to-krondor) – Streaming
-[^ref-90]: [Speedrun.com Leaderboard](https://www.speedrun.com/return_to_krondor) – Speedrunning community
-[^ref-91]: [Internet Archive Manual](https://archive.org/details/return-to-krondor-manual) – Manual preservation
-[^ref-92]: [MobyGames Rankings](https://www.mobygames.com/game/3254/return-to-krondor/rating/) – Player ratings

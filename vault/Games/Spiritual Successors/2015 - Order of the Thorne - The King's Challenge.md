@@ -26,7 +26,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 
 The game was successfully crowdfunded through Kickstarter and represents part of the modern retro adventure game revival movement that emerged in the 2010s[^ref-5]. Built using the Adventure Game Studio (AGS) engine, it features hand-drawn pixel art reminiscent of 1990s adventure games and incorporates classic Sierra-style gameplay with inventory puzzles and world exploration[^ref-6].
 
-Adventure Gamers praised the nostalgic design, with one reviewer noting "This feels as much like a 1991 release as you could hope for"[^ref-6]. The game achieves its goal of recapturing the magic of classic Sierra adventures while adding unique elements like musical puzzle-solving through Finn's magical lute.
+Adventure Gamers praised the nostalgic design, with one reviewer noting "This feels as much like a 1991 release as you could hope for"[^ref-6]. The game achieves its goal of recapturing the magic of classic Sierra adventures while adding unique elements like musical puzzle-solving through Finn's magical lute.[^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-1]

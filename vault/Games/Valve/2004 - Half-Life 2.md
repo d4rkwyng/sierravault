@@ -103,7 +103,7 @@ Half-Life 2's reputation has only grown over the two decades since its release. 
 - **IMDb:** 9.4/10[^ref-8]
 - **Amazon Customer Reviews:** 4.7/5[^ref-19]
 
-The game won over 39 Game of the Year awards from various publications[^ref-3] and continues to be cited as one of the most influential first-person shooters ever created. Modern retrospectives acknowledge both its achievements and its age, with Eurogamer noting "the 'classic' moniker almost instantly embalms them, gradually fossilising to a few forever-parroted talking points while the living entity is obscured."[^ref-7]
+The game won over 39 Game of the Year awards from various publications[^ref-3] and continues to be cited as one of the most influential first-person shooters ever created. Modern retrospectives acknowledge both its achievements and its age, with Eurogamer noting "the 'classic' moniker almost instantly embalms them, gradually fossilising to a few forever-parroted talking points while the living entity is obscured."[^ref-7][^ref-41]
 
 ## Development
 

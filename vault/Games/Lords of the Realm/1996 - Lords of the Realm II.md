@@ -26,7 +26,7 @@ Lords of the Realm II is a medieval strategy game that masterfully blends turn-b
 
 What distinguished Lords of the Realm II from many medieval strategy games of its era was its commitment to historical authenticity over fantasy elements—the game features no magic, no supernatural forces, and no technology tree.[^ref-4] Instead, players must carefully manage food, population, and happiness levels to build their power base while avoiding Malthusian population crashes.[^ref-4] PC Gamer praised the game as offering "the best of two worlds, adding the real time combat model of a WarCraft II to the turn-based strategic elements of a Civilization."[^ref-5]
 
-The game achieved significant commercial success, selling over 2.5 million copies and generating nearly $3 million in revenue by 1998.[^ref-6] It consistently appeared in PC games best-seller charts throughout 1997, reaching as high as number 9 in January of that year.[^ref-7] Steam user reviews remain overwhelmingly positive decades later, with 96% of 1,517 reviews recommending the game as of November 2025.[^ref-8]
+The game achieved significant commercial success, selling over 2.5 million copies and generating nearly $3 million in revenue by 1998.[^ref-6] It consistently appeared in PC games best-seller charts throughout 1997, reaching as high as number 9 in January of that year.[^ref-7] Steam user reviews remain overwhelmingly positive decades later, with 96% of 1,517 reviews recommending the game as of November 2025.[^ref-8][^ref-49]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

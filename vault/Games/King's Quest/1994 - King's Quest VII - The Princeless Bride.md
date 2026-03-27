@@ -28,7 +28,7 @@ Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed
 
 The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-7] It was also the first King's Quest that required CD-ROM distribution exclusively, unable to fit on floppy disks.[^ref-4]
 
-Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-29]
+Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-29][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

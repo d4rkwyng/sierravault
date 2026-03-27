@@ -19,14 +19,13 @@ tags: [1980s, sierra, standalone, strategy]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Kempelen is a chess program developed by Hungarian programmer Attila Kovács and published by Sierra On-Line for the Commodore 64 in 1986[^ref-1][^ref-2][^ref-3]. Named after Wolfgang von Kempelen, the 18th-century Hungarian inventor who constructed the famous chess-playing automaton known as "The Turk," the software represents one of Sierra's ventures into publishing strategy titles during the mid-1980s[^ref-1][^ref-4]. The program was developed by Andromeda Software and later saw international release on additional platforms including the MSX, where it was published by Pony Canyon, Inc. in Japan in 1988[^ref-5][^ref-6].
 
 The commercial Commodore version was a collaborative effort, co-authored by Hungarian Grandmaster István Bilek and Tamás Révkirá, lending the program authentic chess expertise that distinguished it from purely algorithmic competitors[^ref-1][^ref-2]. The software competed in several World Microcomputer Chess Championships throughout the late 1980s, demonstrating its capabilities against other chess programs of the era[^ref-1]. While not widely remembered as a classic, Kempelen holds a special niche for nostalgic gamers who appreciate historical connections within gaming, particularly the namesake reference to one of history's most famous chess-related curiosities[^ref-4].
 
-The game featured a top-down perspective with a pseudo-3D feel, animated piece movements, and multiple difficulty settings designed to accommodate players of varying skill levels[^ref-5][^ref-6]. Its estimated playing strength of approximately 1150-1250 ELO (or 1350-1450 USCF) made it suitable for beginners and casual players looking to improve their game[^ref-6].
+The game featured a top-down perspective with a pseudo-3D feel, animated piece movements, and multiple difficulty settings designed to accommodate players of varying skill levels[^ref-5][^ref-6]. Its estimated playing strength of approximately 1150-1250 ELO (or 1350-1450 USCF) made it suitable for beginners and casual players looking to improve their game[^ref-6].[^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Andromeda Software[^ref-2][^ref-3]
@@ -219,7 +218,7 @@ Kempelen occupies an interesting position in Sierra On-Line's publishing history
 
 From a historical perspective, the game reflects the state of computer chess in the mid-to-late 1980s, when 8-bit home computers were pushing the boundaries of what affordable hardware could achieve in terms of game-playing artificial intelligence[^ref-6]. The estimated ELO rating of approximately 1150-1250 represents respectable performance for consumer-grade chess software of the era, though it falls short of the master-level play that would become possible on more powerful hardware[^ref-6].
 
-The software's historical connections to Wolfgang von Kempelen and the legacy of The Turk provide cultural context that elevates the program beyond mere functionality[^ref-4]. This thematic depth, combined with the involvement of Grandmaster István Bilek in development, demonstrates an attempt to create a chess program with both educational value and authentic chess credentials[^ref-1]. While not widely remembered today, Kempelen serves as documentation of both Sierra's diverse publishing catalog and the evolution of computer chess software during a formative period in gaming history.
+The software's historical connections to Wolfgang von Kempelen and the legacy of The Turk provide cultural context that elevates the program beyond mere functionality[^ref-4]. This thematic depth, combined with the involvement of Grandmaster István Bilek in development, demonstrates an attempt to create a chess program with both educational value and authentic chess credentials[^ref-1]. While not widely remembered today, Kempelen serves as documentation of both Sierra's diverse publishing catalog and the evolution of computer chess software during a formative period in gaming history.[^ref-15]
 
 ## Purchase
 
@@ -270,7 +269,6 @@ The software's historical connections to Wolfgang von Kempelen and the legacy of
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

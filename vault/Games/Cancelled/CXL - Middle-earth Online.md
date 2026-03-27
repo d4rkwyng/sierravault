@@ -23,7 +23,7 @@ tags: [rpg, sierra, the-lord-of-the-rings]
 
 Middle Earth Online (also known as MEO) was an ambitious massively multiplayer online role-playing game based on J.R.R. Tolkien's Middle-earth that was licensed by Sierra On-Line in 1998 and initially developed by Yosemite Entertainment.[^ref-1] The project represented one of the earliest attempts to bring Tolkien's legendary fantasy world into the online gaming space, predating what would eventually become The Lord of the Rings Online by nearly a decade.[^ref-2] Sierra wasn't the first MMO studio to take a crack at Tolkien's license—the company had a brief but memorable run designing what could have been a revolutionary MMORPG with truly innovative gameplay concepts.[^ref-3]
 
-The game was distinguished by its bold design philosophy that embraced controversial features rarely seen in the genre, including permanent character death, strict limitations on the Elven population, and severe restrictions on magic abilities—all intended to create a more authentic Middle-earth experience.[^ref-4] These design decisions were directly inspired by Tolkien's lore, where magic was subtle and Elves were diminishing in number during the later ages.[^ref-5] However, the project's troubled development history ultimately led to the dissolution of the original development team, leaving fans wondering what might have been had Sierra's ambitious vision come to fruition.[^ref-6]
+The game was distinguished by its bold design philosophy that embraced controversial features rarely seen in the genre, including permanent character death, strict limitations on the Elven population, and severe restrictions on magic abilities—all intended to create a more authentic Middle-earth experience.[^ref-4] These design decisions were directly inspired by Tolkien's lore, where magic was subtle and Elves were diminishing in number during the later ages.[^ref-5] However, the project's troubled development history ultimately led to the dissolution of the original development team, leaving fans wondering what might have been had Sierra's ambitious vision come to fruition.[^ref-6][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment / Turbine[^ref-1]
@@ -42,7 +42,7 @@ Middle Earth Online was set during the Third Age of Middle-earth, specifically d
 
 The original Sierra vision placed players in a world where the consequences of their actions would be permanent and meaningful.[^ref-4] Unlike traditional MMORPGs where death was merely an inconvenience, Middle Earth Online's permanent death system would have forced players to consider the weight of every decision, mirroring the perilous journey that characters in Tolkien's works undertook.[^ref-5] The narrative framework would have allowed players to explore iconic locations from the books while carving out their own stories within the established lore.
 
-When development was later transferred to Turbine and the project evolved into what would become The Lord of the Rings Online, the timeline shifted to coincide with the events of The Fellowship of the Ring.[^ref-9] In this iteration, The Fellowship had just escaped Moria and was continuing their journey toward Mordor, though players would never encounter the heroes directly—instead learning of their exploits through stories relayed by famous NPCs such as Farmer Maggot.[^ref-9]
+When development was later transferred to Turbine and the project evolved into what would become The Lord of the Rings Online, the timeline shifted to coincide with the events of The Fellowship of the Ring.[^ref-9] In this iteration, The Fellowship had just escaped Moria and was continuing their journey toward Mordor, though players would never encounter the heroes directly—instead learning of their exploits through stories relayed by famous NPCs such as Farmer Maggot.[^ref-9][^ref-16]
 
 ## Gameplay
 
@@ -165,7 +165,6 @@ The project's troubled history at Sierra coincided with the company's broader fi
 
 Gaming historians continue to wonder what might have been had Sierra's vision come to fruition. Would a successful permadeath MMO have changed the trajectory of the genre? Or would it have proven that some innovations are simply too far ahead of their time? These questions make Middle Earth Online one of the most intriguing "what ifs" in MMORPG history.[^ref-3]
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -209,7 +208,6 @@ Middle Earth Online was never released and is not available for purchase.
 [^ref-11]: [RPGWatch – Lord of the Rings Online Review @ Eurogamer](https://rpgwatch.com/news/lord-of-the-rings-online--review-eurogamer-4732.html) – Eurogamer review, permadeath controversy
 
 [^ref-12]: [Steam – The Lord of the Rings Online](https://store.steampowered.com/app/212500/The_Lord_of_the_Rings_Online/) – user reviews, current availability
-
 
 [^ref-14]: [The Tolkien Forum – Middle Earth Online Thread](https://thetolkien.forum/threads/middle-earth-online.14921/) – fan discussion, development tracking
 

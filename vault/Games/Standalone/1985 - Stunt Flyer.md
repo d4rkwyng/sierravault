@@ -19,12 +19,11 @@ tags: [1980s, sierra, simulation, standalone]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Stunt Flyer is a stunt-flying simulation released for the Commodore 64 in September 1985[^ref-1][^ref-2]. The game places players in control of a small prop-plane at an airshow, where they attempt to perform a number of airplane-based stunts[^ref-1]. Developed by French studio Nice Ideas and published by Sierra On-Line, the game holds the distinction of being the first published game developed in Europe for Sierra On-Line[^ref-3].
 
-The simulation was notable for its authentic flight physics, with the development team having thoroughly studied actual flight dynamics to create a realistic experience[^ref-4]. The game was based on the flight characteristics of the Pitts Special, a famous aerobatic biplane used in real airshow competitions[^ref-3]. Stunt Flyer featured both a first-person cockpit view during gameplay and a side-scrolling 2D perspective for watching replay footage of performed maneuvers[^ref-1][^ref-3].
+The simulation was notable for its authentic flight physics, with the development team having thoroughly studied actual flight dynamics to create a realistic experience[^ref-4]. The game was based on the flight characteristics of the Pitts Special, a famous aerobatic biplane used in real airshow competitions[^ref-3]. Stunt Flyer featured both a first-person cockpit view during gameplay and a side-scrolling 2D perspective for watching replay footage of performed maneuvers[^ref-1][^ref-3].[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Nice Ideas[^ref-1]
@@ -213,7 +212,6 @@ However, this commitment to realism came at the cost of accessibility. The steep
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

@@ -26,7 +26,7 @@ Adiboo and the Energy Thieves is an educational action-adventure game released i
 
 The game casts players in the role of Adiboo, a character described by one nostalgic reviewer as "the famous character of our first steps on computers"[^ref-3]. Set on the planet Celesta, the adventure tasks young players with stopping a mysterious robot from stealing the planet's vital natural resources[^ref-4]. Despite being designed as edutainment to "stimulate the minds of a child while also giving them a fun time," the game received mixed reception, with some critics and retrospective reviewers questioning whether it succeeded in either goal[^ref-5].
 
-The transition to 3D was part of a broader trend in children's gaming during the early 2000s, though some commentators noted that the franchise lost some of its distinctive charm in the process. One retrospective blogger lamented that "all the creativity, inventiveness, and bizarre art have disappeared, and we're left with an uninspired, terribly modelled copy"[^ref-6]. Nevertheless, the game found its audience among younger players, with one contemporary review noting "the kids loved it"[^ref-7].
+The transition to 3D was part of a broader trend in children's gaming during the early 2000s, though some commentators noted that the franchise lost some of its distinctive charm in the process. One retrospective blogger lamented that "all the creativity, inventiveness, and bizarre art have disappeared, and we're left with an uninspired, terribly modelled copy"[^ref-6]. Nevertheless, the game found its audience among younger players, with one contemporary review noting "the kids loved it"[^ref-7].[^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]

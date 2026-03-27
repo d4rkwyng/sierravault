@@ -26,7 +26,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 
 The game was developed using Sierra's Creative Interpreter (SCI) engine, specifically version SCI1.1,[^ref-4] and designed by Bridget McKenna and Marti McKenna.[^ref-5] After making award-winning adventure games for years, Sierra wanted to do something different, creating the overlooked Crazy Nick series as an experiment in budget gaming.[^ref-1] In the summer of 1992, Sierra combined mini arcade sequences, casino and board games that were originally included in various adventure and Hoyle games, and released these mini compilations as budget releases in blister cards.[^ref-6]
 
-King Graham's Board Game Challenge represents a marked improvement over earlier entries in the Crazy Nick's series, with one reviewer noting that "Maybe Crazy Nick realised that Nine Men's Morris was the only game in the first set that was actually a game and not a broken mess, so he set his Sierra buddies onto making a set of proper, colourful games."[^ref-9]
+King Graham's Board Game Challenge represents a marked improvement over earlier entries in the Crazy Nick's series, with one reviewer noting that "Maybe Crazy Nick realised that Nine Men's Morris was the only game in the first set that was actually a game and not a broken mess, so he set his Sierra buddies onto making a set of proper, colourful games."[^ref-9][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

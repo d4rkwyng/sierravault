@@ -24,7 +24,7 @@ tags: [2010s, adventure, 'null', rpg, sierra]
 
 Quest for Infamy is a hybrid point-and-click adventure game and RPG developed by Infamous Quests and released in 2014[^ref-1]. The game was created as a spiritual successor to Sierra's Quest for Glory series, allowing players to experience the classic adventure game formula from the perspective of an anti-hero rather than a traditional protagonist[^ref-2]. Built using Adventure Game Studio (AGS), Quest for Infamy deliberately evokes the classic Sierra adventure game aesthetic with hand-drawn graphics and full voice acting[^ref-3].
 
-The game follows Mr. Roehm, a scoundrel on the run from his latest scrape who finds himself trapped in a valley until he completes a dangerous mission[^ref-4]. Originally conceived to take place in Spielburg Valley as the villain's perspective on Quest for Glory, the final released version takes place in an original setting but maintains the inspiration from Sierra's classic adventure games and RPGs of the 1990s[^ref-5]. The project was successfully funded through a Kickstarter campaign launched on July 6, 2012, marking the transition of the development team from fan remake creators to commercial game developers[^ref-6].
+The game follows Mr. Roehm, a scoundrel on the run from his latest scrape who finds himself trapped in a valley until he completes a dangerous mission[^ref-4]. Originally conceived to take place in Spielburg Valley as the villain's perspective on Quest for Glory, the final released version takes place in an original setting but maintains the inspiration from Sierra's classic adventure games and RPGs of the 1990s[^ref-5]. The project was successfully funded through a Kickstarter campaign launched on July 6, 2012, marking the transition of the development team from fan remake creators to commercial game developers[^ref-6].[^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-2]
@@ -101,7 +101,6 @@ The success of Quest for Infamy demonstrated the viability of crowdfunded spirit
 ### Modern Platform Expansion
 
 The game has been ported to modern consoles including Nintendo Switch, PlayStation 4/5, and Xbox platforms, published by Ratalaika Games in 2022[^ref-8]. This console expansion brought the game to audiences beyond traditional PC gamers, though professional console reviews were more critical than user reviews, with TheXboxHub noting voice acting quality issues[^ref-20]. Regardless, the availability on modern platforms ensured that Quest for Infamy reached a new generation of players interested in classic-style adventure games.
-
 
 ### ### Modern Adventure Game Tribute
 

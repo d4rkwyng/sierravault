@@ -51,7 +51,7 @@ The level creation feature proved particularly influential. As one fan noted: "I
 ### Puzzles and Mechanics
 Typical puzzle objectives include putting a baseball into a basket or turning on a fan[^ref-3]. Players build monkey or mouse-powered machines, use lasers and fire fireworks, and start fires using a bowling ball and flint[^ref-16]. The experience of working through the stages of a solution, getting a little closer each time, is almost indescribably satisfying for anyone with the slightest hint of a tinkering spirit[^ref-17].
 
-The game description emphasizes its creative possibilities: "Want to build a better mousetrap? All it takes are bike-riding monkeys, treadmill mice and a few bowling balls. Genius and junk combine to solve the convoluted contraptions in The Incredible Machine"[^ref-collection].
+The game description emphasizes its creative possibilities: "Want to build a better mousetrap? All it takes are bike-riding monkeys, treadmill mice and a few bowling balls. Genius and junk combine to solve the convoluted contraptions in The Incredible Machine"[^ref-collection].[^ref-2]
 
 ## Reception
 
@@ -74,7 +74,7 @@ The game description emphasizes its creative possibilities: "Want to build a bet
 
 The game has maintained strong reception in modern times, with GOG.com users rating it 4.5/5[^ref-21] and MyAbandonware users giving it 4.42/5 based on 646 votes[^ref-22]. Steam users rate it "Very Positive" at 94% (92% positive from 897 reviews)[^ref-collection]. IMDb users rate it 8.3/10[^ref-collection]. Computer Gaming World retrospectively ranked it #62 in their Hall of Fame[^ref-1] and awarded it Classics/Puzzles Game of the Year in 1996[^ref-1].
 
-The soundtrack also received praise. One reviewer noted: "I think this was a particularly thoughtful soundtrack, for an equally thoughtfully well done game with a wide range of styles"[^ref-collection]. The music included compositions inspired by classical pieces, with arrangements by Brian Hahn, Christopher Stevens, Jan Paul Moorhead, Ken Rogers, Randy Dersham, and Timothy Steven Clarke[^ref-32].
+The soundtrack also received praise. One reviewer noted: "I think this was a particularly thoughtful soundtrack, for an equally thoughtfully well done game with a wide range of styles"[^ref-collection]. The music included compositions inspired by classical pieces, with arrangements by Brian Hahn, Christopher Stevens, Jan Paul Moorhead, Ken Rogers, Randy Dersham, and Timothy Steven Clarke[^ref-32].[^ref-23]
 
 ## Development
 

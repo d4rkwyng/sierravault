@@ -76,7 +76,7 @@ Beyond straightforward energy production and sales, PowerHouse includes what the
 - **Espionage:** Gathering intelligence on rival corporations
 - **Slander:** Using media manipulation to damage competitors' reputations
 
-These features were notably similar to mechanics originally promised for but ultimately left out of Transport Tycoon, giving PowerHouse a distinctive edge in the business simulation genre[^ref-6]. The complexity of the economic simulation means players must carefully study the manual to understand all the elements of play, though this depth was viewed as appropriate given the multifaceted nature of the global energy market[^ref-6].
+These features were notably similar to mechanics originally promised for but ultimately left out of Transport Tycoon, giving PowerHouse a distinctive edge in the business simulation genre[^ref-6]. The complexity of the economic simulation means players must carefully study the manual to understand all the elements of play, though this depth was viewed as appropriate given the multifaceted nature of the global energy market[^ref-6].[^ref-18]
 
 ## Reception
 
@@ -161,7 +161,7 @@ A PowerHouse Update patch was made available through Sierra Help, though specifi
 
 ### Technical Issues
 
-Critics and players identified several issues with PowerHouse's gameplay systems[^ref-7][^ref-4]:
+Critics and players identified several issues with PowerHouse's gameplay systems[^ref-7][^ref-4]:[^ref-8]
 
 - **Weak AI:** Computer-controlled competitors were not sufficiently challenging
 - **Dubious economic model:** The game's simulation of energy markets was questioned for accuracy
@@ -201,7 +201,6 @@ PowerHouse represents an ambitious but flawed attempt to simulate the complexiti
 The game's significance lies partly in its timing—released during a period when concerns about energy sustainability were gaining public attention, and when business simulations were a popular genre. Its cyberpunk framing, drawing from RoboCop's satirical corporate dystopia, gave the energy simulation an edge that distinguished it from more straightforward competitors.
 
 However, PowerHouse also demonstrates the challenges of early Windows game development. As Impressions' first Windows title, it served as a learning experience for the company's transition away from DOS. The decision to use WinG showed technical innovation, even if the underlying game design received mixed reception. The cancelled Amiga version reflects the broader industry shifts occurring during this period, as established platforms gave way to Windows-based PC gaming.
-
 
 ## Purchase
 

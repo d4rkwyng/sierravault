@@ -30,7 +30,7 @@ The game was always planned as part of the series (whereas Wages of War original
 
 Dragon Fire features polygonal 3D characters over pre-rendered 2D backgrounds, making it one of the earliest adopters of a 3D character creation system, predating EverQuest and Asheron's Call[^ref-1].
 
-The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].
+The soundtrack by Emmy-winning composer Chance Thomas was released on CD, selling 50,000 copies and generating $500,000 in revenue prior to the game's launch[^ref-1].[^ref-29][^ref-31]
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
@@ -137,7 +137,7 @@ Quest for Glory V features full voice acting with a notable cast[^ref-23][^ref-1
 
 ### Music
 
-Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^ref-1][^ref-26]. The soundtrack was released separately on CD prior to the game's launch, selling 50,000 copies and generating $500,000 in revenue[^ref-1]. Jenny Jordan provided vocals for "The Dance of Mystery and Intrigue" and "The Rite of Destiny," while Thomas himself performed the vocal chant for "The Rite of Peace"[^ref-26]. RPGFan praised the orchestral score as one of the game's strongest elements[^ref-27].
+Emmy-winning composer Chance Thomas created the game's celebrated soundtrack[^ref-1][^ref-26]. The soundtrack was released separately on CD prior to the game's launch, selling 50,000 copies and generating $500,000 in revenue[^ref-1]. Jenny Jordan provided vocals for "The Dance of Mystery and Intrigue" and "The Rite of Destiny," while Thomas himself performed the vocal chant for "The Rite of Peace"[^ref-26]. RPGFan praised the orchestral score as one of the game's strongest elements[^ref-27].[^ref-30]
 
 ### Technical Achievements
 - First and only Quest for Glory game with 3D polygonal characters[^ref-1]

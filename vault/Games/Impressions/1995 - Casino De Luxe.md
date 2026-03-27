@@ -26,7 +26,7 @@ Casino De Luxe is a casino gambling simulation game developed and published by [
 
 Shortly after Casino De Luxe's release, Impressions Games was acquired by Sierra On-Line, resulting in subsequent re-releases and international distribution being published under the Sierra brand[^ref-3][^ref-4]. This acquisition positioned the title within Sierra's growing catalog of entertainment software, though the original release remained an Impressions publication[^ref-7]. The game was distributed on CD-ROM and featured a top-down perspective of its virtual casino environment[^ref-1][^ref-2].
 
-Casino De Luxe distinguished itself from competitors through its combination of realistic visuals, sound effects, speech, and integrated on-line gambling strategies designed to help players improve their gaming skills[^ref-5][^ref-6]. The game spawned a sequel, Casino Deluxe 2, released in 1996 under the Sierra On-Line banner, continuing the series' tradition of providing accessible casino gaming experiences[^ref-2][^ref-8].
+Casino De Luxe distinguished itself from competitors through its combination of realistic visuals, sound effects, speech, and integrated on-line gambling strategies designed to help players improve their gaming skills[^ref-5][^ref-6]. The game spawned a sequel, Casino Deluxe 2, released in 1996 under the Sierra On-Line banner, continuing the series' tradition of providing accessible casino gaming experiences[^ref-2][^ref-8].[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -89,7 +89,7 @@ European publications offered more varied assessments. The French magazine Joyst
 
 Casino De Luxe has maintained a modest following among retrogaming enthusiasts[^ref-11]. The game holds a MobyGames aggregate critic score of 58% based on 5 ratings, alongside a player rating of 2.8 out of 5 based on 2 ratings[^ref-2]. The MobyGames ranking places it at #21,621 of approximately 27,600 games in their database, indicating its niche appeal[^ref-2].
 
-Modern abandonware sites have given the game more favorable assessments, with My Abandonware users rating it 4.92 out of 5[^ref-11]. GameFAQs users have collectively rated the game as "Great" based on 4 user ratings[^ref-5]. The game has been collected by 9 players on MobyGames, suggesting a small but dedicated community of enthusiasts[^ref-2].
+Modern abandonware sites have given the game more favorable assessments, with My Abandonware users rating it 4.92 out of 5[^ref-11]. GameFAQs users have collectively rated the game as "Great" based on 4 user ratings[^ref-5]. The game has been collected by 9 players on MobyGames, suggesting a small but dedicated community of enthusiasts[^ref-2].[^ref-14][^ref-17]
 
 **Aggregate Scores:**
 - **MobyGames:** 58% critics / 2.8/5 players (7 total ratings)[^ref-2]
@@ -176,7 +176,7 @@ No information about cut content or removed features has been documented in avai
 
 ### Technical Issues
 
-No significant bugs or technical issues have been documented in available sources. The game was designed for Windows 3.x and may require compatibility layers or period-appropriate operating systems to run on modern hardware[^ref-1][^ref-11].
+No significant bugs or technical issues have been documented in available sources. The game was designed for Windows 3.x and may require compatibility layers or period-appropriate operating systems to run on modern hardware[^ref-1][^ref-11].[^ref-15]
 
 ### Easter Eggs and Trivia
 

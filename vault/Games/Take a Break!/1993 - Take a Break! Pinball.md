@@ -23,7 +23,7 @@ tags: [1990s, dynamix, sierra, take-a-break]
 
 Take a Break! Pinball was a 1993 pinball computer game collection developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]][^ref-1] The game was the second and last entry in the Take a Break! series, designed as bite-sized experiences for Windows users who wanted quick gaming sessions between work tasks[^ref-2]. Marketed with the tagline "Take a break and have some fun!", the game promised "Amazingly real Pinball action!" that was Windows compatible, allowing users to "jump from work to play in a nanosecond"[^ref-3].
 
-The game distinguished itself from typical pinball simulations by featuring eight full-featured pinball tables, each themed around various popular Sierra and Dynamix game franchises[^ref-4]. These included tables based on King's Quest, Space Quest, Willy Beamish, Leisure Suit Larry, and Nova 9: Return of Gir Draxon[^ref-1]. Rather than pursuing realistic ball physics, the developers eschewed realistic ball motions in favor of fast action and imaginative table designs[^ref-5]. The game supported up to four players and could have up to three balls in play simultaneously[^ref-3].
+The game distinguished itself from typical pinball simulations by featuring eight full-featured pinball tables, each themed around various popular Sierra and Dynamix game franchises[^ref-4]. These included tables based on King's Quest, Space Quest, Willy Beamish, Leisure Suit Larry, and Nova 9: Return of Gir Draxon[^ref-1]. Rather than pursuing realistic ball physics, the developers eschewed realistic ball motions in favor of fast action and imaginative table designs[^ref-5]. The game supported up to four players and could have up to three balls in play simultaneously[^ref-3].[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -159,7 +159,7 @@ Performance was the most widely criticized technical aspect, with the game runni
 
 The game contained a hidden "Dinner Menu" easter egg featuring elaborate gourmet dish descriptions created by the development team[^ref-7]. This playful addition reflected the sense of humor common in Sierra and Dynamix productions of the era.
 
-Additional trivia:
+Additional trivia:[^ref-16]
 - Take a Break! Pinball was the second and final entry in the Take a Break! series[^ref-5]
 - The first game in the series was Take a Break! Crossword[^ref-5]
 - The game was designed for quick play sessions during work breaks[^ref-2]
@@ -231,7 +231,4 @@ The performance issues that plagued the game highlighted the challenges develope
 [^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/565310-take-a-break-pinball) – game database entry
 [^ref-15]: [Wikidata](https://www.wikidata.org/wiki/Q4390287) – structured metadata
 [^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Take_a_Break!_Pinball) – technical compatibility info
-[^ref-17]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Take_a_Break!_Pinball) – series information
-[^ref-18]: [UVList](https://www.uvlist.net/game-11896-take-a-break-pinball) – Universal Videogame List
 [^ref-19]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests for Sierra games
-[^ref-20]: [Games Database](https://www.gamesdb.net/g/14541-take-a-break-pinball) – game database entry

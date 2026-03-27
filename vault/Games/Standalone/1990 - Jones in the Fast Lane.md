@@ -19,14 +19,13 @@ tags: [1990s, sci, sierra, simulation, standalone]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Jones in the Fast Lane is a life simulation game developed by Sierra On-Line and released in 1990[^ref-1]. The game represents a unique departure from Sierra's typical adventure game formula, combining elements of board games with life simulation in what designer Bill Davis described as "the game you'll bring out when friends drop by, or when the family just can't take one more evening of Trivial Pursuit"[^ref-2]. Built using Sierra's SCI (Sierra Creative Interpreter) engine[^ref-3], the game presents players with a satirical take on the pursuit of the American Dream[^ref-4].
 
 Somewhere between a conventional board game and a computer adventure game lies Jones in the Fast Lane, a tricky trip through real life[^ref-collection]. COMPUTE! magazine observed that "while essentially a board game played on a computer, Jones is a compelling diversion enhanced by appealing graphics and clever asides"[^ref-collection]. The game is structured as a turn-based strategy simulation where players compete to achieve various life goals including money, happiness, education, and career advancement[^ref-5].
 
-The game earned significant recognition, winning Computer Gaming World's "Adventure of the Year" award for 1990[^ref-21] and the Software Publishers Association's "Best Adventure" award for the same year[^ref-22]. As one modern assessment noted: "Not only did it successfully incorporate strategic elements into a life simulation game, but it also managed to do so with an endearing sense of humor that still resonates with players today"[^ref-collection].
+The game earned significant recognition, winning Computer Gaming World's "Adventure of the Year" award for 1990[^ref-21] and the Software Publishers Association's "Best Adventure" award for the same year[^ref-22]. As one modern assessment noted: "Not only did it successfully incorporate strategic elements into a life simulation game, but it also managed to do so with an endearing sense of humor that still resonates with players today"[^ref-collection].[^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -172,7 +171,6 @@ The game's satirical take on the American Dream resonates differently in differe
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

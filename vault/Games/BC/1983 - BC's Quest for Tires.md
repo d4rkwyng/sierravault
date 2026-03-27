@@ -26,7 +26,7 @@ B.C.'s Quest for Tires is a 1983 side-scrolling action game based on Johnny Hart
 
 The game holds a distinctive place in video game history as an early precursor to the "endless runner" genre, being released twenty-six years before *Canabalt* popularized the format.[^ref-2] Despite featuring characters from the *B.C.* comic strip, players neither control the title character B.C. himself nor actually search for tires during gameplay.[^ref-4] The game achieved significant commercial success, reportedly selling over a million copies.[^ref-3]
 
-Contemporary reviewers praised the game's animation and faithful recreation of Hart's comic strip aesthetic, with *ANTIC Magazine* noting that "Quest for Tires looks very much like an animated Sunday comics page."[^ref-5] The game was released across numerous platforms throughout 1983-1985, becoming one of Sierra On-Line's most widely ported titles of the era.[^ref-1]
+Contemporary reviewers praised the game's animation and faithful recreation of Hart's comic strip aesthetic, with *ANTIC Magazine* noting that "Quest for Tires looks very much like an animated Sunday comics page."[^ref-5] The game was released across numerous platforms throughout 1983-1985, becoming one of Sierra On-Line's most widely ported titles of the era.[^ref-1][^ref-27]
 
 > [!info]- Game Info
 > **Developer:** Sydney Development Corp.[^ref-1]
@@ -100,7 +100,7 @@ User communities have maintained generally positive scores. *Lemon64* users rate
 
 The *Data Driven Gamer* blog offered a more critical retrospective, stating the game is "best described as an early runner platformer" but criticizing that "the controls and collision detection are inconsistent, the graphics are ugly."[^ref-4] A *HOTUD* review concluded: "Fun for a while, but gets repetitive quite quickly as there's not enough gameplay variation or types of obstacles to hold anyone's interest for long. Too bad the witticisms of the comic strip are all but lost in this computer license."[^ref-19]
 
-The *C64-Wiki* community notes: "Spartan comical graphics with a bumpy scrolling and only a minimum of sound do not prevent that you can have some fun with this game."[^ref-11]
+The *C64-Wiki* community notes: "Spartan comical graphics with a bumpy scrolling and only a minimum of sound do not prevent that you can have some fun with this game."[^ref-11][^ref-25]
 
 **Aggregate Scores:**
 - **MobyGames:** 7.3 Moby Score, 73% critics average (12 reviews), 3.7/5 players (64 ratings)[^ref-1]

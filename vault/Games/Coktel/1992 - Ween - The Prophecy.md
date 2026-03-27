@@ -26,7 +26,7 @@ tags: [1990s, adventure, coktel, gobliiins, sierra]
 
 Players assume the role of Ween, a young wizard tasked with fulfilling an ancient prophecy to defeat the evil wizard Kraal before the Great Eclipse arrives in three days.[^ref-4] The game's distinctive visual style experiments with faux-sepia tones for outdoor environments contrasted with bright, vivid colors for interior scenes, creating a unique aesthetic that set it apart from other adventure games of the period.[^ref-5] While some critics found the puzzles overly difficult and illogical, others praised the game's beautiful digitized screens, humorous creatures, and intricate puzzle design.[^ref-6]
 
-The game holds particular significance as the first and only Coktel Vision title to allow players to reach their destination through multiple different paths, offering branching puzzle solutions at two key points in the adventure.[^ref-7] This design choice, combined with live-action cutscenes featuring actors in heavily tinted scenes, demonstrated the studio's willingness to experiment with the adventure game formula.[^ref-8]
+The game holds particular significance as the first and only Coktel Vision title to allow players to reach their destination through multiple different paths, offering branching puzzle solutions at two key points in the adventure.[^ref-7] This design choice, combined with live-action cutscenes featuring actors in heavily tinted scenes, demonstrated the studio's willingness to experiment with the adventure game formula.[^ref-8][^ref-23][^ref-24][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], MDO[^ref-1]
@@ -69,7 +69,7 @@ The game branches at two distinct points, allowing players to solve completely d
 
 Like the company's *Gobliiins* series, *The Prophecy* has a heavier focus on self-sufficient puzzles than other traditional adventure games.[^ref-5] The game involves transforming jewels and mixing potions in a cauldron, with each puzzle building upon previous solutions.[^ref-7] Players must carefully observe their environment and combine inventory items in creative ways to progress.
 
-The puzzles received mixed reception, with some critics finding them intricate and solvable while others complained they were too strange and irrational.[^ref-14] One reviewer noted that the puzzles became extremely difficult near the ending, with non-obvious solutions and occasional pixel hunting required.[^ref-7] A typical playthrough takes roughly 10 hours if puzzles are solved quickly, though the difficulty may extend this considerably for inexperienced players.[^ref-15]
+The puzzles received mixed reception, with some critics finding them intricate and solvable while others complained they were too strange and irrational.[^ref-14] One reviewer noted that the puzzles became extremely difficult near the ending, with non-obvious solutions and occasional pixel hunting required.[^ref-7] A typical playthrough takes roughly 10 hours if puzzles are solved quickly, though the difficulty may extend this considerably for inexperienced players.[^ref-15][^ref-26]
 
 ## Reception
 
@@ -262,4 +262,3 @@ Modern retrospectives recognize the game as an important stepping stone in the e
 [^ref-24]: [VideoGameGeek – The Prophecy](https://videogamegeek.com/videogame/217004/the-prophecy) – North American release details, media format
 [^ref-25]: [Games Nostalgia – Coktel Vision](https://gamesnostalgia.com/games/publisher/coktel+vision) – publisher information, genre, perspective
 [^ref-26]: [Play Classic Games – Ween: The Prophecy](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-ween-the-prophecy-online/) – interface description, puzzle mechanics
-[^ref-27]: [Tropedia – Ween the Prophecy](https://tropedia.fandom.com/wiki/Ween_the_Prophecy) – gameplay overview, visual style description

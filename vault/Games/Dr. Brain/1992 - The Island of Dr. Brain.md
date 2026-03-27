@@ -26,7 +26,7 @@ The Island of Dr. Brain is an educational puzzle adventure game released in 1992
 
 The game's premise involves assisting the eccentric scientist Dr. Thaddeus Egghead Brain in retrieving a battery for one of his experiments after the plans were stolen by his archrival scientist.[^ref-4] This mission takes players to Dr. Brain's whimsical private island, described as being "filled with visual puns and a gauntlet of peculiar puzzles."[^ref-5] The game tests problem-solving skills across numerous academic subjects including math, language, chemistry, art history, physics, logic, mechanics, music, genetics, literature, and navigation.[^ref-6]
 
-Marketed with the tagline "Fill your head while you boggle your mind," The Island of Dr. Brain represents Sierra's commitment to the edutainment market during the early 1990s.[^ref-7] Contemporary reviews noted that while the puzzles have "legitimate academic content," opinions varied on whether the sequel matched the quality of its predecessor.[^ref-8] The game was designed for ages 12 and above and featured multiple difficulty levels that could be adjusted at any time during gameplay.[^ref-9]
+Marketed with the tagline "Fill your head while you boggle your mind," The Island of Dr. Brain represents Sierra's commitment to the edutainment market during the early 1990s.[^ref-7] Contemporary reviews noted that while the puzzles have "legitimate academic content," opinions varied on whether the sequel matched the quality of its predecessor.[^ref-8] The game was designed for ages 12 and above and featured multiple difficulty levels that could be adjusted at any time during gameplay.[^ref-9][^ref-32][^ref-33][^ref-34]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

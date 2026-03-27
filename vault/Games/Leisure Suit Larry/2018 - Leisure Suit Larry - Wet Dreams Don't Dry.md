@@ -24,7 +24,7 @@ tags: [2010s, adventure, leisure-suit-larry, sierra]
 
 Leisure Suit Larry: Wet Dreams Don't Dry represents the ninth installment in the legendary Leisure Suit Larry series and marks the first proper return to the franchise's point-and-click adventure roots in over two decades[^ref-1]. Released in 2018 by German developer CrazyBunch and published by Assemble Entertainment[^ref-2], the game catapults the iconic Larry Laffer from the late 1980s directly into the modern era of smartphones, social media, and dating apps[^ref-3]. This fish-out-of-water concept serves as both a narrative device and commentary on how dating culture has evolved in the digital age[^ref-4].
 
-The game received a mixed but generally positive reception, earning a Metacritic score of 72% for the PC version and 52% for the Nintendo Switch version[^ref-5]. Critics praised the return to classic point-and-click gameplay and hand-drawn visuals while expressing concerns about whether Larry's brand of humor could translate appropriately to modern sensibilities[^ref-6]. Notably, series creator Al Lowe was not involved in this revival, learning about the project only when it was publicly announced in May 2018[^ref-7].
+The game received a mixed but generally positive reception, earning a Metacritic score of 72% for the PC version and 52% for the Nintendo Switch version[^ref-5]. Critics praised the return to classic point-and-click gameplay and hand-drawn visuals while expressing concerns about whether Larry's brand of humor could translate appropriately to modern sensibilities[^ref-6]. Notably, series creator Al Lowe was not involved in this revival, learning about the project only when it was publicly announced in May 2018[^ref-7].[^ref-39][^ref-40][^ref-43]
 
 > [!info]- Game Info
 > **Developer:** CrazyBunch[^ref-2]
@@ -39,7 +39,7 @@ The game received a mixed but generally positive reception, earning a Metacritic
 
 The narrative begins with Larry Laffer awakening in the 21st century after being held captive since the 1980s[^ref-3]. Finding himself in the modern world of New Lost Wages (a Las Vegas parody), Larry discovers that "many of the people I knew are dead... everything has changed... I don't know this world"[^ref-3]. The central plot revolves around Larry's quest to win the affections of Faith, a successful businesswoman who "only dates men with a perfect score on the dating app Timber"[^ref-1].
 
-To achieve his romantic goals, Larry must navigate the complexities of modern dating culture, including mastering the Timber app (a clear parody of Tinder)[^ref-9]. The game's structure follows Larry as he attempts various schemes to improve his dating profile score, leading him through encounters with numerous characters across New Lost Wages[^ref-10]. The story culminates in Larry discovering that Faith has been using a male figurehead named BJ to run her tech company, as "the business would not have thrived if it was known a woman was behind everything"[^ref-1].
+To achieve his romantic goals, Larry must navigate the complexities of modern dating culture, including mastering the Timber app (a clear parody of Tinder)[^ref-9]. The game's structure follows Larry as he attempts various schemes to improve his dating profile score, leading him through encounters with numerous characters across New Lost Wages[^ref-10]. The story culminates in Larry discovering that Faith has been using a male figurehead named BJ to run her tech company, as "the business would not have thrived if it was known a woman was behind everything"[^ref-1].[^ref-41][^ref-42]
 
 ## Gameplay
 
@@ -78,7 +78,7 @@ The game received mixed to positive reviews from critics and players alike. Prof
 
 Contemporary criticism focused on the challenge of updating Larry's character for modern audiences. Common Sense Media noted the game was "content to more or less disregard the #MeToo movement, not only allowing Larry to get away with making inappropriate comments to and hit on just about every woman he meets"[^ref-20]. However, Screen Rant's Rob Gordon observed that the game "feels much less predatory than it could do, with characters - both men and women - more accepting to Larry's 'charms'"[^ref-13].
 
-User reviews on platforms like GameFAQs were more positive, with one reviewer stating: "While it is a shame that Al Lowe couldn't be a part of this game, I think Crazy Bunch has done an excellent job bringing an old game like Leisure Suit Larry into the 21st century"[^ref-12]. The visual presentation consistently received praise, with multiple reviewers highlighting the "amazing hand-drawn art style"[^ref-15].
+User reviews on platforms like GameFAQs were more positive, with one reviewer stating: "While it is a shame that Al Lowe couldn't be a part of this game, I think Crazy Bunch has done an excellent job bringing an old game like Leisure Suit Larry into the 21st century"[^ref-12]. The visual presentation consistently received praise, with multiple reviewers highlighting the "amazing hand-drawn art style"[^ref-15].[^ref-47][^ref-48]
 
 ## Development
 
@@ -179,9 +179,5 @@ The title sparked discussions about updating classic gaming franchises for moder
 [^ref-41]: [The Digital Antiquarian Search](https://www.filfre.net/?s=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Gaming history coverage
 [^ref-42]: [GameFAQs Lance Guide](https://gamefaqs.gamespot.com/ps4/261667-leisure-suit-larry-wet-dreams-dont-dry/faqs/79679/lance) – - Character-specific walkthrough
 [^ref-43]: [GameFAQs Xbox Review](https://gamefaqs.gamespot.com/xboxone/300734-leisure-suit-larry-wet-dreams-dont-dry/reviews/173859) – - Xbox One version assessment
-[^ref-44]: [GOG Search Results](https://www.gog.com/en/games?query=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - GOG platform search
-[^ref-45]: [IMDb Main Page](https://www.imdb.com/title/tt9175418/) – - Basic production information
-[^ref-46]: [IMDb Search Results](https://www.imdb.com/find/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry&s=tt) – - Database search metadata
 [^ref-47]: [Indie Game Reviewer](https://indiegamereviewer.com/leisure-suit-larry-wet-dreams-dont-dry-review/) – - Independent review perspective
 [^ref-48]: [Metacritic Main Page](https://www.metacritic.com/game/leisure-suit-larry-wet-dreams-dont-dry/) – - Aggregate review data
-[^ref-49]: [MobyGames Search](https://www.mobygames.com/search/?q=Leisure+Suit+Larry%3A+Wet+Dreams+Don%27t+Dry) – - Database search results

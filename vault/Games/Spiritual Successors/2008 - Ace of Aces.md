@@ -25,7 +25,7 @@ Ace of Aces is a 2008 browser-based World War I dogfighting game developed by Ma
 
 Ace of Aces represented Slye's return to flight combat games after a 12-year hiatus from the gaming industry[^ref-6]. Having left Dynamix in 1994 to pursue other interests—including obtaining his pilot's license and flying his own Bonanza A36 aircraft—Slye founded Mad Otter Games in 2007 with fellow ex-Dynamix employees in Eugene, Oregon[^ref-7][^ref-8]. The game served as a spiritual successor to his earlier WWI flight sim Red Baron, bringing his signature approach to accessible flight combat to the then-emerging browser gaming market[^ref-9][^ref-10].
 
-The game launched on the InstantAction platform in 2008 and featured both single-player training modes and competitive multiplayer battles[^ref-2]. When InstantAction shut down in November 2010, Ace of Aces became unavailable, with planned re-release efforts never materializing[^ref-11].
+The game launched on the InstantAction platform in 2008 and featured both single-player training modes and competitive multiplayer battles[^ref-2]. When InstantAction shut down in November 2010, Ace of Aces became unavailable, with planned re-release efforts never materializing[^ref-11].[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-2]

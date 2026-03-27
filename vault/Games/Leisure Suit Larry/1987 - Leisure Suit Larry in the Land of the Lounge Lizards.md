@@ -221,37 +221,3 @@ Academic analysis has also examined the series' cultural significance, with the 
 [^ref-37]: [Steam Community](https://steamcommunity.com/app/763970/discussions/0/600771622034541259/) – - Steam availability discussion
 [^ref-38]: [Internet Archive 1991](https://archive.org/details/msdos_Leisure_Suit_Larry_1_-_Land_of_the_Lounge_Lizards_VGA_1991) – - VGA remake preservation
 [^ref-39]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Leisure+Suit+Larry+1:+In+the+Land+of+the+Lounge+Lizards&gid=1258) – - User ratings and download
-[^ref-40]: [1UP Archive](http://www.1up.com/do/feature?cId=3161878) – - Homepage content reference
-[^ref-41]: [Abandonware DOS Search](https://www.abandonwaredos.com/search.php?search=Leisure+Suit+Larry+in+the+Land+of+the+Lounge+Lizards) – - Search results listing
-[^ref-42]: [Adventure Gamers Search](https://adventuregamers.com/search/?q=Leisure+Suit+Larry+in+the+Land+of+the+Lounge+Lizards) – - Website homepage reference
-[^ref-43]: [Adventure Gamers Walkthrough](https://adventuregamers.com/walkthroughs/leisure-suit-larry-in-the-land-of-the-lounge-lizards) – - Comprehensive walkthrough guide
-[^ref-44]: [Adventure Game Studio](https://www.adventuregamestudio.co.uk/play/game/2866-leisure-suit-larry-in-the-land-of-the-lounge-lizards-agi-remake/) – - Fan remake project page
-[^ref-45]: [Al Lowe Troubleshooting](https://allowe.com/games/troubleshooting.html) – - Technical compatibility guide
-[^ref-46]: [Al Lowe Larry Main](https://allowe.com/games/larry.html) – - Official series navigation
-[^ref-47]: [Al Lowe Collections](https://allowe.com/games/larry/history-of-larry/larry-collections.html) – - Compilation information
-[^ref-48]: [Al Lowe Walkthroughs](https://allowe.com/games/larry/tips-manuals/walk-throughs.html) – - Navigation page for guides
-[^ref-49]: [Internet Archive Mac](https://archive.org/details/LeisureSuitLarry1Macintosh) – - Macintosh version preservation
-[^ref-50]: [Archive Games Machine](https://archive.org/details/the-games-machine-05/page/n81/mode/1up?view=theater) – - Magazine archive metadata
-[^ref-51]: [Archive Computer Gaming World](https://archive.org/details/Computer_Gaming_World_Issue_41/page/n43/mode/1up?view=theater) – - Magazine metadata page
-[^ref-52]: [Archive Amiga Action](https://archive.org/details/amiga-action-1992-05/Amiga%20Action%20%281992-05%29/page/n77) – - Magazine listing
-[^ref-53]: [Archive PC Action](https://archive.org/details/pc-action-05/page/60) – - PC Action catalog page
-[^ref-54]: [Archive Sierra Newsletter](https://archive.org/details/Sierra_Newsletter_The_Volume_1_Number_2_1987_Sierra_On-Line_US/page/n3/mode/2up?q=%22released+in+June%22) – - Company newsletter reference
-[^ref-55]: [Archive MacWorld](https://archive.org/details/MacWorld_8712_December_1987/page/n153) – - MacWorld archive page
-[^ref-56]: [Archive Manual](https://archive.org/details/Leisure_Suit_Larry_1_-_Manual) – - Manual preservation metadata
-[^ref-57]: [Archive Manual Text](https://archive.org/stream/vgmuseum_sierra_lsl123-lsl-manual/lsl123-lsl-manual_djvu.txt) – - Manual archive structure
-[^ref-58]: [Ars Technica](https://arstechnica.com/gaming/2011/01/history-of-graphic-adventures/) – - Adventure genre history
-[^ref-59]: [Choicest Games](https://www.choicestgames.com/2014/09/leisure-suit-larry-reloaded-review.html) – - Reloaded version review
-[^ref-60]: [Classic Gaming CC Downloads](https://www.classicgaming.cc/pc/leisure-suit-larry/downloads) – - Fan site downloads
-[^ref-61]: [Classic Reload](https://classicreload.com/leisure-suit-larry-in-the-land-of-the-lounge-lizards.html) – - Retro gaming website
-[^ref-62]: [Dedoimedo](https://www.dedoimedo.com/games/reviving/larry.html) – - Nostalgic retrospective review
-[^ref-63]: [DOS Zone](https://dos.zone/leisure-suit-larry-in-the-land-of-the-lounge-lizards/) – - Browser emulation site
-[^ref-64]: [KH Insider](https://downloads.khinsider.com/game-soundtracks/album/leisure-suit-larry-in-the-land-of-the-lounge-lizards-1-2) – - Soundtrack download site
-[^ref-65]: [eBay Listing](https://www.ebay.com/itm/126370704324) – - Marketplace listing
-[^ref-66]: [Esquire Archive](http://www.esquire.com/entertainment/a26554/leisure-suit-larry-and-me/) – - Entertainment section reference
-[^ref-67]: [Everything 80s Podcast](https://www.everything80spodcast.com/leisure-suit-larry/) – - Cultural impact analysis
-[^ref-68]: [Digital Antiquarian Search](https://www.filfre.net/?s=Leisure+Suit+Larry+in+the+Land+of+the+Lounge+Lizards) – - Historical analysis search
-[^ref-69]: [Digital Antiquarian Design](https://www.filfre.net/2015/07/the-14-deadly-sins-of-graphic-adventure-design/) – - Adventure design analysis
-[^ref-70]: [GameFAQs Text Walkthrough](https://gamefaqs.gamespot.com/pc/565080-leisure-suit-larry-in-the-land-of-the-lounge-lizards/faqs/36583/text-only-walkthrough) – - Text-only guide
-[^ref-71]: [GameSpot Page](http://www.gamespot.com/leisure-suit-larry-1-in-the-land-of-the-lounge-li/) – - Basic database entry
-[^ref-72]: [GamesRadar](http://www.gamesradar.com/leisure-suit-larry-receive-hd-treatment/) – - HD remaster announcement
-[^ref-73]: [Gaming Shogun](https://gamingshogun.com/2013/07/15/leisure-suit-larry-in-the-land-of-the-lounge-lizards-reloaded-review/) – - Contemporary remaster review

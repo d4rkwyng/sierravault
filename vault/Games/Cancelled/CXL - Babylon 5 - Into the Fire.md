@@ -20,14 +20,13 @@ tags: [1990s, babylon-5, sierra]
 
 <small style="color: gray">Last updated: March 27, 2026</small>
 
-
 ## Overview
 
 Babylon 5: Into the Fire was an ambitious space combat simulator developed by Yosemite Entertainment and published by Sierra Entertainment, based on the critically acclaimed science fiction television series that won two Emmy Awards and two Hugo Awards[^ref-1]. The partnership between Sierra and Warner Bros. was announced on October 27, 1997, setting in motion what would become one of the most mourned cancelled games of the late 1990s[^ref-1]. The game promised to deliver an unprecedented combination of authentic Babylon 5 universe combat, innovative flight mechanics, and involvement from the television series' original cast and crew[^ref-2].
 
 Development began in 1998 with the goal of creating what Sierra described as a "self-evolving universe" that would allow players to experience the major conflicts of the Babylon 5 timeline[^ref-3]. The game utilized ships based on the television show's original digital models, created in Lightwave 3D but optimized with lower polygon counts for real-time gameplay[^ref-1]. Sierra boasted the ability to render up to 1,000 simultaneous ships in battles, with over 60 unique ship models from Earth Alliance and alien factions[^ref-1][^ref-3].
 
-Tragically, despite being approximately 65% complete with all live-action sequences filmed, the game was cancelled on September 21, 1999, as part of Sierra's corporate reorganization[^ref-1][^ref-4]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A playable alpha version eventually surfaced in autumn 2014, fifteen years after the cancellation, allowing fans a tantalizing glimpse of what might have been[^ref-5].
+Tragically, despite being approximately 65% complete with all live-action sequences filmed, the game was cancelled on September 21, 1999, as part of Sierra's corporate reorganization[^ref-1][^ref-4]. The development team was laid off, and the project was shelved just months before its intended late spring 2000 release[^ref-2]. A playable alpha version eventually surfaced in autumn 2014, fifteen years after the cancellation, allowing fans a tantalizing glimpse of what might have been[^ref-5].[^ref-12][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Yosemite Entertainment[^ref-1]
@@ -138,7 +137,7 @@ The entire game represents cut content, as it was cancelled before completion. A
 
 ### Technical Issues
 
-The surviving alpha version is notoriously difficult to run on modern systems. Users report that the ISO file structure can be problematic[^ref-7], and one commenter noted a requirement to create a Windows 98 virtual machine using PCem to successfully run the technical demo[^ref-9]. The incomplete state of the alpha means that many features are non-functional or unstable.
+The surviving alpha version is notoriously difficult to run on modern systems. Users report that the ISO file structure can be problematic[^ref-7], and one commenter noted a requirement to create a Windows 98 virtual machine using PCem to successfully run the technical demo[^ref-9]. The incomplete state of the alpha means that many features are non-functional or unstable.[^ref-15]
 
 ### Easter Eggs and Trivia
 
@@ -207,7 +206,6 @@ The cancellation came at a particularly unfortunate moment—the game was demons
 - [[CXL - Leisure Suit Larry 8]]
 - [[CXL - SWAT - Urban Justice]]
 - [[CXL - Middle-earth Online]]
-
 
 ## References
 

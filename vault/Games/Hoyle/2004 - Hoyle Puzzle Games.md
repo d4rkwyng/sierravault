@@ -25,7 +25,7 @@ Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed an
 
 The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
 
-A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].
+A standout feature of Hoyle Puzzle Games 2004 is the Facemaker Tool, which allows players to create unique-looking characters from hundreds of customizable features[^ref-6]. The game also includes a free Hoyle Rulebook and Strategy Guide, along with the ability to save and print completed word searches and crossword puzzles as proof of puzzle-solving prowess[^ref-6][^ref-8].[^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]

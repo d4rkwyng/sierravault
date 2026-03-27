@@ -39,7 +39,7 @@ This adventure game alternates control between series protagonist Larry Laffer a
 
 The plot begins with Larry Laffer being assigned a dream job: traveling across the United States to visit three of America's sexiest women for his company's video production[^ref-13]. His boss figures that since Larry is so pathetic with women, any woman willing to get with him must be the perfect candidate for their adult video show[^ref-14]. Meanwhile, Passionate Patti is working undercover for the FBI, investigating organized crime connections in the pornography industry[^ref-15].
 
-The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-16]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 forever referred to as "The Case of the Missing Floppies"[^ref-17].
+The game's premise cleverly incorporates the mystery of the missing Leisure Suit Larry 4 into its narrative. Larry has supposedly forgotten his fourth adventure due to amnesia caused by the villainous Julius Biggs, who stole the "missing floppies" containing the fourth game[^ref-16]. This tongue-in-cheek explanation became part of the series mythology, with Larry 4 forever referred to as "The Case of the Missing Floppies"[^ref-17].[^ref-43]
 
 ## Gameplay
 
@@ -103,7 +103,7 @@ Craig Safan, an Emmy-nominated composer known for writing the Cheers theme song,
 
 Leisure Suit Larry 5 featured several technical firsts for the series. It was the first to use hand-painted backgrounds that were then digitized for the computer[^ref-7]. The game also introduced Sierra's full icon-based interface system to the Larry series, though this change had unexpected consequences for gameplay difficulty[^ref-3].
 
-The game included copy protection through its airline booking system, requiring players to consult the included travel brochure[^ref-32]. Additionally, it featured an age verification system to prevent minors from accessing adult content[^ref-33].
+The game included copy protection through its airline booking system, requiring players to consult the included travel brochure[^ref-32]. Additionally, it featured an age verification system to prevent minors from accessing adult content[^ref-33].[^ref-41]
 
 ## Legacy
 
@@ -111,7 +111,7 @@ Leisure Suit Larry 5's impact on the series was significant but controversial. W
 
 The mysterious "missing" Larry 4 became a running gag that persisted throughout the series' history. Fans spent years speculating about what the fourth game might have contained, with Al Lowe playfully encouraging them to "DO keep looking for it!"[^ref-16]. The truth was eventually revealed that Larry 4 was originally planned as a multiplayer online adventure for Sierra Network but was abandoned due to technical limitations of dial-up internet speeds[^ref-15].
 
-The game achieved commercial success despite mixed critical reception, with the Leisure Suit Larry series as a whole selling over 1.4 million copies according to Sierra's SEC filings[^ref-34]. Sales data from 1991 indicated that more than 125,000 copies had been sold within two months of its September release[^ref-35].
+The game achieved commercial success despite mixed critical reception, with the Leisure Suit Larry series as a whole selling over 1.4 million copies according to Sierra's SEC filings[^ref-34]. Sales data from 1991 indicated that more than 125,000 copies had been sold within two months of its September release[^ref-35].[^ref-42]
 
 ## Downloads
 

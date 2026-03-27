@@ -49,7 +49,7 @@ As Gwydion explores his limited world during Manannan's absences, he discovers t
 
 The journey takes Gwydion across the sea to the kingdom of Daventry, which he learns has fallen into despair. A fearsome three-headed dragon terrorizes the land, and the royal family—King Graham and Queen Valanice—have suffered the kidnapping of both their children years ago.[^ref-9] The King's Quest Companion reveals that Manannan kidnapped Alexander in revenge for Graham's rescue of Valanice from his sister Hagatha in the previous game.[^ref-18] A princess named Rosella has been offered as a sacrifice to appease the dragon. Using his magical abilities, Gwydion defeats the dragon and rescues the princess.[^ref-2]
 
-The game concludes with a climactic revelation that recontextualizes the entire adventure.[^ref-2] This twist establishes the foundation for the subsequent game in the series, as "the actions taken by Gwydion in this story lead directly to the events that begin King's Quest V."[^ref-2]
+The game concludes with a climactic revelation that recontextualizes the entire adventure.[^ref-2] This twist establishes the foundation for the subsequent game in the series, as "the actions taken by Gwydion in this story lead directly to the events that begin King's Quest V."[^ref-2][^ref-17]
 
 > [!warning]- Major Plot Twist (Critical Spoiler)
 > In the game's climactic revelation, it is discovered that Gwydion is actually Prince Alexander, the long-lost son of Graham and Valanice, who was kidnapped from his crib as an infant.[^ref-2] The princess he rescued is his twin sister Rosella.[^ref-2] The reunion of the royal family provides an emotionally satisfying conclusion that recontextualizes the entire adventure as a hero's journey home.[^ref-10]

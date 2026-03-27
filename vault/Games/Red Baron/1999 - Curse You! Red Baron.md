@@ -25,7 +25,7 @@ Curse You! Red Baron is an arcade-style World War I flight combat game developed
 
 The game utilizes 3D graphic acceleration to create what developers described as "a lifelike experience," featuring clouds, smoke, and other atmospheric effects.[^ref-5] Players could choose from four German and four Allied aircraft, including famous planes such as the Fokker Dr. I, Sopwith Camel, British Spad XIII, and German Pfalz D III.[^ref-3] Multiple game modes were available, including Dogfight mode, Red Baron Challenge mode, and Hot Seat Competition mode supporting up to six pilots.[^ref-3][^ref-5]
 
-Despite its pedigree as part of an established flight simulation franchise, Curse You! Red Baron received a lukewarm reception from critics and players alike. Contemporary reviews criticized the game's flat graphics, difficult controls, and lack of excitement, with IGN famously quipping that "Dynamix celebrates the infancy of air combat with a game for infants."[^ref-6] The game represents an unusual entry in the Red Baron lineage, positioned between the well-regarded Red Baron 3-D (1998) and the much later Red Baron: Arcade (2008).[^ref-1]
+Despite its pedigree as part of an established flight simulation franchise, Curse You! Red Baron received a lukewarm reception from critics and players alike. Contemporary reviews criticized the game's flat graphics, difficult controls, and lack of excitement, with IGN famously quipping that "Dynamix celebrates the infancy of air combat with a game for infants."[^ref-6] The game represents an unusual entry in the Red Baron lineage, positioned between the well-regarded Red Baron 3-D (1998) and the much later Red Baron: Arcade (2008).[^ref-1][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]

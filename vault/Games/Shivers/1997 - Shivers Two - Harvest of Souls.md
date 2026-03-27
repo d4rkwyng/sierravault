@@ -23,7 +23,7 @@ tags: [1990s, adventure, shivers, sierra]
 
 Shivers Two: Harvest of Souls is a horror adventure game developed and published by Sierra On-Line in 1997[^ref-1]. Set in the mysterious desert town of Cyclone, Arizona, the game follows the player as they search for their missing friends from the rock band Trip Cyclone who have disappeared while filming music videos[^ref-2]. As the second installment in the Shivers series, the game maintains the first-person slideshow interface of its predecessor while introducing significant technical improvements[^ref-3].
 
-The game incorporates Native American mysticism and supernatural horror elements, requiring players to collect twelve ceremonial prayer sticks called Bahos to free their friends' souls from an ancient curse[^ref-4]. Sierra On-Line "clearly listened to the many criticisms by gamers on Shivers during the design of this sequel," resulting in enhanced gameplay mechanics and improved production values[^ref-5]. The game features an innovative soundtrack by the fictional band Trip Cyclone, with clue-riddled music videos serving as integral puzzle elements[^ref-6].
+The game incorporates Native American mysticism and supernatural horror elements, requiring players to collect twelve ceremonial prayer sticks called Bahos to free their friends' souls from an ancient curse[^ref-4]. Sierra On-Line "clearly listened to the many criticisms by gamers on Shivers during the design of this sequel," resulting in enhanced gameplay mechanics and improved production values[^ref-5]. The game features an innovative soundtrack by the fictional band Trip Cyclone, with clue-riddled music videos serving as integral puzzle elements[^ref-6].[^ref-30][^ref-33][^ref-35]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -40,7 +40,7 @@ The game incorporates Native American mysticism and supernatural horror elements
 
 As the investigation unfolds, players discover the disappearances are connected to ancient Native American curses involving Kachina masks, ceremonial prayer sticks called Bahos, and sacred petroglyphs[^ref-10]. A cryptic message reveals "I have your friends. Only the warrior can free them"[^ref-3], setting up the central quest. The antagonist Darkcloud taunts the player with "They thought I liked their music. They were such pawns"[^ref-3], suggesting the band's apparent success was part of an elaborate supernatural trap.
 
-The game's plot weaves together rock music culture with Native American spiritual traditions, as players must navigate between the modern world of the music industry and ancient mystical forces to rescue their friends and uncover the dark secrets of Cyclone[^ref-11].
+The game's plot weaves together rock music culture with Native American spiritual traditions, as players must navigate between the modern world of the music industry and ancient mystical forces to rescue their friends and uncover the dark secrets of Cyclone[^ref-11].[^ref-36]
 
 ## Gameplay
 
@@ -132,7 +132,6 @@ The soundtrack has maintained a cult following, with fans particularly appreciat
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
 
-
 ## Downloads
 
 **Download / Preservation**
@@ -176,8 +175,6 @@ Despite technical obsolescence, the game continues to attract interest from retr
 [^ref-33]: [MyAbandonware Search](https://www.myabandonware.com/search/q/Shivers+Two%3A+Harvest+of+Souls) – - Additional preservation data
 [^ref-35]: [SierraChest](https://www.sierrachest.com/index.php?a=games&id=48&fld=general) – - Sierra game database entry
 [^ref-36]: [TV Tropes Shivers Original](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Shivers1995) – - Narrative and gameplay analysis
-[^ref-39]: [Filfre Search](https://www.filfre.net/?s=Shivers+Two%3A+Harvest+of+Souls) – - Digital Antiquarian blog search results
-[^ref-41]: [Goodreads Strategy Guide](https://www.goodreads.com/book/show/1110198.Shivers_Two) – - Strategy guide publication details
 [^ref-43]: [UVList](https://www.uvlist.net/game-154424-Shivers+Two+Harvest+of+Souls) – Génération 4 review score from June 1997
 [^ref-44]: [Glitchwave](https://glitchwave.com/game/shivers-two-harvest-of-souls/) – User aggregate rating and gameplay analysis
 [^ref-45]: [IMDb](https://www.imdb.com/find/?q=Shivers+Two%3A+Harvest+of+Souls&s=tt) – User rating of 8.2/10

@@ -24,7 +24,7 @@ tags: [1980s, educational, sierra, talking-tutor]
 
 Early Math is an educational video game, with development roots dating to 1983, developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in its final form in 1993, designed to introduce fundamental mathematical concepts to children ages three to six.[^ref-1] The game features an animated and talkative alien named Loid who welcomes young players to his asteroid home, where they explore various mini-games that teach counting, geometric shapes, pattern recognition, addition, subtraction, spatial concepts, and one-to-one correspondence.[^ref-2] As part of Sierra's broader initiative to develop "the most creative and technologically advanced products available," Early Math represented the company's commitment to the educational software market during the early 1990s.[^ref-3]
 
-The game employs a point-and-click interface with drag-and-drop mechanics, making it accessible for young children who may not yet be comfortable with keyboard controls.[^ref-1] One of Early Math's distinctive features is its adaptive difficulty system—Loid increases the challenge level as the player's knowledge grows, while a special parent's screen allows adults to track their child's progress.[^ref-2] This approach aligned with contemporary educational research suggesting that "educational video games are effective tools for teaching because they use action instead of explanation, create personal motivation and satisfaction, accommodate multiple learning styles and skills, reinforce mastery skills, and provide interactive and decision making context."[^ref-4]
+The game employs a point-and-click interface with drag-and-drop mechanics, making it accessible for young children who may not yet be comfortable with keyboard controls.[^ref-1] One of Early Math's distinctive features is its adaptive difficulty system—Loid increases the challenge level as the player's knowledge grows, while a special parent's screen allows adults to track their child's progress.[^ref-2] This approach aligned with contemporary educational research suggesting that "educational video games are effective tools for teaching because they use action instead of explanation, create personal motivation and satisfaction, accommodate multiple learning styles and skills, reinforce mastery skills, and provide interactive and decision making context."[^ref-4][^ref-14][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Bright Star Technology]], Inc.[^ref-1]
@@ -43,7 +43,7 @@ Early Math takes place on a small asteroid in space, home to a cheerful alien ch
 
 Loid is described as "always ready for your child, sitting on his favorite stool, riding in his convertible or hopping along in a bucket, eager to play and teach."[^ref-6] This characterization establishes Loid as a friendly companion rather than an authority figure, encouraging children to engage with mathematical concepts through play rather than formal instruction. Players explore Loid's house and its surrounding area on the asteroid, discovering different mini-games that each focus on specific mathematical skills.[^ref-2]
 
-The game's structure allows children to freely navigate between activities at their own pace, with Loid providing verbal instructions and encouragement throughout.[^ref-1] This open-ended approach supports the educational philosophy that "games often include opportunities for children to practice math skills in a way that is embedded in a context that can make math meaningful."[^ref-7] The asteroid environment serves as a unified thematic space where all mathematical activities feel connected to Loid's charming alien world.
+The game's structure allows children to freely navigate between activities at their own pace, with Loid providing verbal instructions and encouragement throughout.[^ref-1] This open-ended approach supports the educational philosophy that "games often include opportunities for children to practice math skills in a way that is embedded in a context that can make math meaningful."[^ref-7] The asteroid environment serves as a unified thematic space where all mathematical activities feel connected to Loid's charming alien world.[^ref-16]
 
 ## Gameplay
 
@@ -145,7 +145,7 @@ Early Math represented the capabilities of CD-ROM educational software in 1993, 
 | 1.0 | 1993 | Windows 3.1, Macintosh | Initial release[^ref-1] |
 | CD Update | 1995 | IBM PC, Macintosh | Updated CD version[^ref-5] |
 
-The game received updates as noted on Sierra Help Pages, indicating ongoing support for compatibility with evolving hardware and operating systems.[^ref-12]
+The game received updates as noted on Sierra Help Pages, indicating ongoing support for compatibility with evolving hardware and operating systems.[^ref-12][^ref-15]
 
 ### Easter Eggs and Trivia
 
@@ -233,5 +233,3 @@ Within Sierra On-Line's history, Early Math demonstrates the company's ambitious
 [^ref-16]: [Dynamix Fandom Wiki – Sierra Entertainment](https://dynamix.fandom.com/wiki/Sierra_Entertainment) – Sierra company history context
 [^ref-17]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company background information
 [^ref-18]: [MyAbandonware – Search Results](https://www.myabandonware.com/search/q/Early+Math) – platform listings, year confirmation
-[^ref-19]: [MDPI Technologies – Math Video Game Study](https://www.mdpi.com/2227-7080/5/2/30) – educational video game effectiveness research
-[^ref-20]: [Prodigy Game Blog – Math Video Games](https://www.prodigygame.com/main-en/blog/math-video-games) – educational gaming philosophy

@@ -25,7 +25,7 @@ Cougar Force is a multi-genre action game released in 1990, developed by MDO (a 
 
 "Cougar Force feels like the '80s exploded into a side-scrolling action game. Big guns, big hair, and bigger explosions define this run-and-gun romp where subtlety is for other people"[^ref-5]. The game distinguishes itself through its combination of multiple gameplay styles, transitioning from side-scrolling beat 'em up sequences to flight simulation and concluding with motorcycle racing segments[^ref-6][^ref-7]. This ambitious multi-sequence approach made it one of Tomahawk and Coktel Vision's few action game releases[^ref-8].
 
-The game was also released under the alternate title "Piège" in some markets[^ref-1][^ref-8]. While MDO handled most of the engineering work at their development studio, graphics and designs were provided by Coktel Vision headquarters in Paris[^ref-9]. The MDO company name was derived from its three co-founders: Mathieu Marciacq (M), Arnaud Delrue (D), and Roland Oskian (O)[^ref-9].
+The game was also released under the alternate title "Piège" in some markets[^ref-1][^ref-8]. While MDO handled most of the engineering work at their development studio, graphics and designs were provided by Coktel Vision headquarters in Paris[^ref-9]. The MDO company name was derived from its three co-founders: Mathieu Marciacq (M), Arnaud Delrue (D), and Roland Oskian (O)[^ref-9].[^ref-25]
 
 > [!info]- Game Info
 > **Developer:** MDO / [[Coktel Vision]][^ref-1][^ref-2]
@@ -204,7 +204,6 @@ The game's wildly divergent review scores—ranging from 83% to 18%—reflect bo
 
 As a product of Coktel Vision and MDO, the game stands as an outlier in a catalog dominated by adventure games like the Gobliiins series. Its significance lies primarily in its demonstration that even experienced developers could struggle when venturing into unfamiliar genres, and as a historical artifact of early attempts at genre-blending game design.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -213,7 +212,6 @@ As a product of Coktel Vision and MDO, the game stands as an outlier in a catalo
 
 **Purchase / Digital Stores:**
 - Not currently available for digital purchase
-
 
 **Download / Preservation**
 - [Internet Archive – Cougar Force (German 5.25" version)](https://archive.org/details/cougar-force-1990-5.25de)

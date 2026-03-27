@@ -23,7 +23,7 @@ tags: [1980s, laf-pak, sierra]
 
 Creepy Corridors is a maze-based arcade game originally developed by Chuck Bueche and published by Sierra On-Line in 1982 as part of the Laf Pak compilation for the Apple II.[^ref-1] The game follows adventurer Sierra Smith as he navigates the catacombs of the titular Creepy Corridors in search of treasures, collecting diamonds while avoiding or shooting at monsters in gameplay reminiscent of Wizard of Wor and Mr. Do![^ref-2] The game holds a unique place in early computer game history as allegedly the third Apple II game ever to feature sampled speech.[^ref-3]
 
-Originally bundled with three other games—Apple Zap, Mine Sweep, and Space Race—in the Laf Pak compilation, Creepy Corridors was later ported to the Commodore VIC-20 as a standalone cartridge release in 1983 by Don McGlauflin.[^ref-4] The game represented Sierra On-Line's efforts in the arcade game market during the golden age of video games, years before the company became synonymous with graphic adventure games like the King's Quest series.[^ref-5] Despite its modest commercial success, the game demonstrated technical innovation and established Chuck Bueche as a capable programmer who would later become famous as "Chuckles" in the Ultima series.[^ref-6]
+Originally bundled with three other games—Apple Zap, Mine Sweep, and Space Race—in the Laf Pak compilation, Creepy Corridors was later ported to the Commodore VIC-20 as a standalone cartridge release in 1983 by Don McGlauflin.[^ref-4] The game represented Sierra On-Line's efforts in the arcade game market during the golden age of video games, years before the company became synonymous with graphic adventure games like the King's Quest series.[^ref-5] Despite its modest commercial success, the game demonstrated technical innovation and established Chuck Bueche as a capable programmer who would later become famous as "Chuckles" in the Ultima series.[^ref-6][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -42,7 +42,7 @@ The game's narrative is straightforward arcade-style fare typical of early 1980s
 
 An anonymous epigraph associated with the game reflects its themes of good versus evil: "Goodness reflects the light and evil bears the seed of all darkness. These are mirrors of the soul, reflections of the mind. Choose well."[^ref-2] This philosophical framing elevates what might otherwise be a simple maze game into something with aspirations toward deeper meaning, even if the gameplay itself remains purely action-oriented.
 
-The corridors Sierra Smith explores are infested with monsters that must either be avoided or eliminated. The game's atmosphere draws on the inherent unease that corridors create—spaces of limited visibility where danger could lurk around every corner.[^ref-11] This design philosophy anticipates decades of horror game development that would exploit similar architectural anxiety.
+The corridors Sierra Smith explores are infested with monsters that must either be avoided or eliminated. The game's atmosphere draws on the inherent unease that corridors create—spaces of limited visibility where danger could lurk around every corner.[^ref-11] This design philosophy anticipates decades of horror game development that would exploit similar architectural anxiety.[^ref-16]
 
 ## Gameplay
 

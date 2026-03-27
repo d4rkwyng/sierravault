@@ -25,7 +25,7 @@ Hoyle Card Games 2003 is a comprehensive digital card game collection developed 
 
 The game distinguished itself through its Facemaker feature, which allowed players to create customized avatars with hundreds of options for personalization, enabling unique representations at the virtual card table[^ref-2][^ref-6]. Players could compete against 12 unique computer-controlled characters, each with distinct personalities and playing styles, providing variety and replayability across the included card games[^ref-2]. The package also included a bonus CD-ROM featuring Hoyle Friday Night Poker, adding additional value for card game enthusiasts[^ref-5].
 
-Hoyle Card Games 2003 represented one of Sierra Entertainment's final entries in the Hoyle franchise before the series transitioned to Encore, Inc., who would continue publishing Hoyle games from 2005 through 2016[^ref-7]. The game was rated E for Everyone by the ESRB and was released across multiple platforms including Windows PC, Macintosh, Palm Pilot, and Pocket PC devices[^ref-8][^ref-9].
+Hoyle Card Games 2003 represented one of Sierra Entertainment's final entries in the Hoyle franchise before the series transitioned to Encore, Inc., who would continue publishing Hoyle games from 2005 through 2016[^ref-7]. The game was rated E for Everyone by the ESRB and was released across multiple platforms including Windows PC, Macintosh, Palm Pilot, and Pocket PC devices[^ref-8][^ref-9].[^ref-20][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]

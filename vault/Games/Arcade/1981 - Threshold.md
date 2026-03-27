@@ -24,7 +24,7 @@ tags: [1980s, arcade, shooter, sierra]
 
 Threshold is a space-themed fixed shooter developed by On-Line Systems (later [[Sierra On-Line]]) and released in 1981 for the Apple II, making it one of the earliest titles from the company that would become synonymous with adventure gaming[^ref-1]. The game was inspired by Sega's arcade hit Astro Blaster, though designer [[Warren Schwader]] chose to take the concept in his own direction rather than create a straight clone[^ref-2]. As Schwader stated during development, "Instead of trying to duplicate the game in every detail, I set out to just take the concept and run with it"[^ref-2].
 
-The game places players in command of the spaceship Threshold during a dark age for the Earth Federation, when humanity's home planet is under attack and colonies are being raided unmercifully[^ref-3]. Players must defend against waves of increasingly aggressive alien enemies while managing limited resources including fuel and weapon heat levels[^ref-4]. Threshold achieved notable commercial success for its era, selling approximately 25,000 copies and receiving a Certificate of Merit for Best Science Fiction/Fantasy Videogame in 1983[^ref-2].
+The game places players in command of the spaceship Threshold during a dark age for the Earth Federation, when humanity's home planet is under attack and colonies are being raided unmercifully[^ref-3]. Players must defend against waves of increasingly aggressive alien enemies while managing limited resources including fuel and weapon heat levels[^ref-4]. Threshold achieved notable commercial success for its era, selling approximately 25,000 copies and receiving a Certificate of Merit for Best Science Fiction/Fantasy Videogame in 1983[^ref-2].[^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]
@@ -81,7 +81,7 @@ The game was recognized by the industry, receiving a Certificate of Merit in the
 
 Modern retrospectives have viewed Threshold as a competent but derivative example of the fixed shooter genre. MobyGames rates the game at 49% based on aggregated scores[^ref-1]. User reviews on My Abandonware rate the game at 5 out of 5 stars, though this is based on only 2 votes[^ref-7].
 
-Contemporary collectors note the game's historical significance as an early On-Line Systems title. The ColecoVision version is considered moderately collectible, with a rarity rating of 6 for loose cartridges and 7 for complete-in-box copies[^ref-8]. Some modern commentators have acknowledged its relationship to Sega's Astro Blaster, with one user noting "Great.. another Astro Blaster clone.. ready to try it.."[^ref-7].
+Contemporary collectors note the game's historical significance as an early On-Line Systems title. The ColecoVision version is considered moderately collectible, with a rarity rating of 6 for loose cartridges and 7 for complete-in-box copies[^ref-8]. Some modern commentators have acknowledged its relationship to Sega's Astro Blaster, with one user noting "Great.. another Astro Blaster clone.. ready to try it.."[^ref-7].[^ref-12][^ref-13][^ref-15]
 
 **Aggregate Scores:**
 - **MobyGames:** 49/100[^ref-1]

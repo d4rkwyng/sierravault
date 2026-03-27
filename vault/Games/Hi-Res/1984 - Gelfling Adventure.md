@@ -25,7 +25,7 @@ Gelfling Adventure is an adventure game developed and published by Sierra On-Lin
 
 The game shares the same graphics and storyline as The Dark Crystal but features simplified puzzles and a more accessible interface.[^ref-2] Al Lowe created the game using a custom interpreter he had developed, describing it as "multiple choice questions for little kids."[^ref-3] This interface approach was notably innovative for its time, predating and arguably influencing the point-and-click adventure genre that would later flourish.[^ref-4]
 
-Gelfling Adventure is considered extremely rare today, with very few copies known to exist.[^ref-5] The game represents an important early experiment in making adventure games accessible to younger audiences.
+Gelfling Adventure is considered extremely rare today, with very few copies known to exist.[^ref-5] The game represents an important early experiment in making adventure games accessible to younger audiences.[^ref-9][^ref-10]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

@@ -25,7 +25,7 @@ Space Quest VII represents one of the most lamented casualties in Sierra On-Line
 
 The cancellation of Space Quest VII left Space Quest 6: Roger Wilco in the Spinal Frontier (1995) as the unintended finale to the franchise[^ref-3]. The game had been announced for a late 1998 release date but development was paused indefinitely before the end of 1997 and formally ceased in 1999 following massive Sierra layoffs[^ref-4]. Multiple attempts to revive the project—including an Escape Factory reboot aimed at consoles—all met similar fates, leaving fans with nothing but concept art, developer interviews, and a promotional trailer that ironically joked about the game's likely cancellation[^ref-2].
 
-The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's well-known development studios. When Vivendi Games acquired Sierra, the new management showed little interest in continuing projects that didn't fit their vision for profitable gaming, citing poor adventure game sales following the commercial disappointment of LucasArts' Grim Fandango[^ref-5].
+The story of Space Quest VII's troubled development offers a window into the broader collapse of the adventure game genre in the late 1990s, as well as the corporate restructuring that dismantled Sierra's well-known development studios. When Vivendi Games acquired Sierra, the new management showed little interest in continuing projects that didn't fit their vision for profitable gaming, citing poor adventure game sales following the commercial disappointment of LucasArts' Grim Fandango[^ref-5].[^ref-14][^ref-16][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -44,7 +44,7 @@ While Space Quest VII never reached completion, developer interviews and leaked 
 
 One of the most surprising plot revelations came from [[Scott Murphy]] himself regarding the Escape Factory version of the project. Murphy disclosed that Sludge Vohaul, the recurring villain of the Space Quest series, was planned to be revealed as Roger Wilco's brother—specifically, a failed clone[^ref-6]. This dramatic retcon would have added significant depth to the antagonist relationship that had defined much of the series.
 
-The promotional trailer included with The Space Quest Collection provided the only glimpse of what might have been, showing Roger in a dramatic sequence. Notably, the trailer depicted Roger more or less "dying" in the footage, while self-referentially making fun of the fact that the game would likely be cancelled[^ref-2]. This meta-humor was characteristic of the series' irreverent tone, though in this case it proved tragically prophetic.
+The promotional trailer included with The Space Quest Collection provided the only glimpse of what might have been, showing Roger in a dramatic sequence. Notably, the trailer depicted Roger more or less "dying" in the footage, while self-referentially making fun of the fact that the game would likely be cancelled[^ref-2]. This meta-humor was characteristic of the series' irreverent tone, though in this case it proved tragically prophetic.[^ref-19]
 
 ## Gameplay
 
@@ -157,7 +157,7 @@ As the game was never released, no end-user technical issues were documented. Ho
 
 ### Easter Eggs and Trivia
 
-While Space Quest VII itself never released, several notable pieces of trivia emerged from its development:
+While Space Quest VII itself never released, several notable pieces of trivia emerged from its development:[^ref-15]
 
 - The promotional trailer included with The Space Quest Collection depicted Roger "dying" and self-referentially joked about the game's likely cancellation[^ref-2]
 - The trailer "had nothing to do with what Space Quest 7 was supposed to be" according to developers—it was "merely eye candy for management"[^ref-6]
@@ -244,6 +244,4 @@ The subsequent failure of SpaceVenture—despite the involvement of the original
 [^ref-15]: [Only Solitaire – Space Quest 6 Review](https://onlysolitaire.substack.com/p/game-review-space-quest-6-roger-wilco) – SQ7 production and early 1999 cancellation, Josh Mandel involvement with SQ6
 [^ref-16]: [Wiw.org – Space Quest FAQ](https://www.wiw.org/~jess/SQFAQ20.txt) – Scott Murphy collaboration with Leslie Balfour and Jay Lee
 [^ref-17]: [MyAbandonware – Space Quest Search](https://www.myabandonware.com/search/q/Space+Quest+VII) – series ending at Space Quest 6, no official SQ7 release
-[^ref-18]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Space+Quest+VII&type=game) – confirmation no official SQ7 in database
 [^ref-19]: [Nintendo Life Forums](https://www.nintendolife.com/forums/wii/wiiware_ideas1) – fan requests for SQ7 continuation, "true to its roots" sentiment
-[^ref-20]: [Space Quest Fandom – This Time It's Personal](https://spacequest.fandom.com/wiki/Space_Quest_7:_This_Time_It%27s_Personal) – working title documentation

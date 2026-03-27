@@ -259,7 +259,7 @@ The game's mixed reception reflects an inherent tension in evaluating mod-derive
 
 The dissolution of Rewolf Software shortly after release—with team members "dropping people off at the airport, good friends I might keep in touch with, but never see in person again"[^ref-37]—meant the game received no post-release support. The exhausted developers had poured everything into the project: Flower described how the experience "threw water on the flame of my soul."[^ref-37]
 
-Despite its troubled development and lukewarm critical reception, Gunman Chronicles has earned enduring affection from those who discovered it. As one retrospective noted: "You can see seeds of those ideas in the escalating scale of Gunman"—ideas about weapon customization, narrative ambition, and genre-blending that would become common in later shooters.[^ref-51] The game remains a fascinating artifact of early 2000s game development, demonstrating both the potential and the perils of transforming passion projects into commercial products.
+Despite its troubled development and lukewarm critical reception, Gunman Chronicles has earned enduring affection from those who discovered it. As one retrospective noted: "You can see seeds of those ideas in the escalating scale of Gunman"—ideas about weapon customization, narrative ambition, and genre-blending that would become common in later shooters.[^ref-51] The game remains a fascinating artifact of early 2000s game development, demonstrating both the potential and the perils of transforming passion projects into commercial products.[^ref-52]
 
 ## Downloads
 

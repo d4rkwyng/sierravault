@@ -26,7 +26,7 @@ E.S.S. (European Space Simulator) is a space shuttle simulation game developed b
 
 The simulation covers the complete lifecycle of a space mission, from launch preparations and orbital insertion to docking with a space station and returning the shuttle safely to Earth.[^ref-4] Unlike many space simulations that focus on grand strategic decisions, E.S.S. emphasizes micro-level choices such as fuel allocation, crew assignments, and cargo management over macro-level space program policies.[^ref-1] The game spawned an enhanced sequel, E.S.S. Mega, in 1991, which added improved 3D-modelled graphics and expanded gameplay features.[^ref-5]
 
-As a piece of gaming history, E.S.S. represents an interesting snapshot of pre-Challenger optimism about civilian space exploration, joining titles like Project: Space Station in documenting "our sunniest expectations for a future in space."[^ref-6] While reviews described it as "a fairly enjoyable game" that "fails to push back the boundaries of computer entertainment," it remains a notable entry in the space simulation genre.[^ref-7]
+As a piece of gaming history, E.S.S. represents an interesting snapshot of pre-Challenger optimism about civilian space exploration, joining titles like Project: Space Station in documenting "our sunniest expectations for a future in space."[^ref-6] While reviews described it as "a fairly enjoyable game" that "fails to push back the boundaries of computer entertainment," it remains a notable entry in the space simulation genre.[^ref-7][^ref-16][^ref-17][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]] / Inférence[^ref-1]
@@ -176,7 +176,7 @@ The original release featured a color-code copy protection system (codewheel/ID 
 | E.S.S. Mega | 1992 | CDTV | CD-ROM release for Commodore CDTV[^ref-5] |
 | WHDLoad | 2021-04-24 | Amiga | Preservation release with bug fixes[^ref-9] |
 
-The "Mega" version represented a significant update, adding an introductory sequence, improved graphics, and enhanced music.[^ref-10]
+The "Mega" version represented a significant update, adding an introductory sequence, improved graphics, and enhanced music.[^ref-10][^ref-18]
 
 ### Easter Eggs and Trivia
 

@@ -26,7 +26,7 @@ Front Page Sports: Football (often referred to as Front Page Sports Football 92 
 
 The Front Page Sports series was notable for being one of the first football simulations to include a career mode where players aged and retired, offering unprecedented depth in team and player management[^ref-1]. This foundational title introduced approximately 1,000 stock plays and featured improved ball carrier AI that set it apart from competitors[^ref-3]. The series would go on to be recognized as a landmark in sports gaming, with Computer Gaming World eventually naming it the 11th Best Computer Game of All-Time in 1996[^ref-1].
 
-What distinguished Front Page Sports: Football from other football games of its era was its commitment to simulation depth over arcade-style action. The game offered a player ratings system on a 0-99 scale across 8 performance classifications, along with over 300 trackable statistics that would become hallmarks of the franchise[^ref-1]. This approach appealed to a dedicated audience of football enthusiasts who valued strategic depth and statistical realism over flashy graphics.
+What distinguished Front Page Sports: Football from other football games of its era was its commitment to simulation depth over arcade-style action. The game offered a player ratings system on a 0-99 scale across 8 performance classifications, along with over 300 trackable statistics that would become hallmarks of the franchise[^ref-1]. This approach appealed to a dedicated audience of football enthusiasts who valued strategic depth and statistical realism over flashy graphics.[^ref-23][^ref-24]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-3]
@@ -92,7 +92,7 @@ GameSpot's review of the franchise noted that "for gamers who revel in the chall
 
 Modern retrospectives have been largely positive, with players fondly remembering the series for its depth and innovation. User reviews consistently praise the career mode as groundbreaking for its era[^ref-8]. One reviewer noted, "For a computer game designed in [the 1990s] it is fun, yes the graphics are dated, but were and are excellent for the period"[^ref-8].
 
-Community sentiment remains strong among fans of football simulation. Multiple users have declared it "the BEST American Football Sim ever"[^ref-9], and another stated, "This was the greatest game I ever had"[^ref-10]. The series' emphasis on management and strategy over action gameplay created a dedicated fanbase that continues to play and discuss the games decades later.
+Community sentiment remains strong among fans of football simulation. Multiple users have declared it "the BEST American Football Sim ever"[^ref-9], and another stated, "This was the greatest game I ever had"[^ref-10]. The series' emphasis on management and strategy over action gameplay created a dedicated fanbase that continues to play and discuss the games decades later.[^ref-22]
 
 **Aggregate Scores:**
 - **MobyGames (FPS Football Pro):** 79% (Critics)[^ref-3]

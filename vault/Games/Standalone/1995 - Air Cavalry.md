@@ -25,7 +25,7 @@ Air Cavalry is a helicopter combat flight simulation game developed by [[Synergi
 
 The game features multiple helicopter types with distinct characteristics, including the OH-6 Defender, UH-60 Black Hawk, AH-64H Apache, and the fictional AH-94[^ref-4]. Air Cavalry presents three distinct campaign areas—the Middle East, Indonesia, and Central America—each offering six to eight missions of increasing danger and complexity[^ref-1]. The game also includes competitive and cooperative two-player split-screen modes, making it one of the more ambitious helicopter simulators on the SNES platform[^ref-2].
 
-Despite its technical ambitions, Air Cavalry received mixed reviews from contemporary gaming publications, with critics praising its presentation while criticizing repetitive gameplay and punishing difficulty[^ref-5]. The game has developed a modest following among retro gaming enthusiasts who appreciate its unique approach to helicopter combat on the 16-bit console[^ref-6].
+Despite its technical ambitions, Air Cavalry received mixed reviews from contemporary gaming publications, with critics praising its presentation while criticizing repetitive gameplay and punishing difficulty[^ref-5]. The game has developed a modest following among retro gaming enthusiasts who appreciate its unique approach to helicopter combat on the 16-bit console[^ref-6].[^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Synergistic Software]][^ref-1]
@@ -93,7 +93,7 @@ Modern retrospectives have maintained the mixed consensus established at release
 
 The same reviewer praised certain technical elements, observing that "Air Cavalry invites players to soar through dynamic 3D landscapes, engaging in thrilling two-player battles, delivering a nostalgic flight experience with commendable SNES graphics"[^ref-6]. The sound design was noted as distinctive, with "the sound landscape transforms into a cacophony of explosions, gunfire, helicopter rotor noise, and the incessant cry of 'MAYDAY!!!' piercing through the auditory canvas"[^ref-6].
 
-An informal blog review from Super Adventures in Gaming described it as "not a very good game" that was "boring the hell out of me," citing confusion over damage mechanics and limited play areas as significant issues[^ref-7].
+An informal blog review from Super Adventures in Gaming described it as "not a very good game" that was "boring the hell out of me," citing confusion over damage mechanics and limited play areas as significant issues[^ref-7].[^ref-21]
 
 **Aggregate Scores:**
 - **MobyGames:** 60% (based on 5 critic ratings)[^ref-1]
@@ -266,7 +266,3 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 [^ref-19]: [Almar's Guides – Air Cavalry](https://www.almarsguides.com/retro/walkthroughs/snes/games/AirCavalry/) – basic game overview, developer/publisher
 [^ref-20]: [VideoGameGeek – Air Cavalry](https://videogamegeek.com/videogame/107941/air-cavalry) – release dates, genre classification, gameplay description
 [^ref-21]: [HandWiki – Air Cavalry](https://handwiki.org/wiki/Software:Air_Cavalry_(video_game)) – review compilation, programmer credits
-[^ref-22]: [Wikidata – Air Cavalry](https://www.wikidata.org/wiki/Q3607174) – structured metadata, country of origin
-[^ref-23]: [HonestGamers – Air Cavalry](http://www.honestgamers.com/2153/snes/air-cavalry/game.html) – release date, developer confirmation
-[^ref-24]: [ROMhacking.net – Air Cavalry](https://www.romhacking.net/games/4754/) – release date, publisher
-[^ref-25]: [DKOldies – Air Cavalry](https://www.dkoldies.com/air-cavalry-snes-game/) – ESRB rating, platform specifications

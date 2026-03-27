@@ -27,7 +27,7 @@ Take a Break! Crosswords is a puzzle video game developed by [[Dynamix]] and N8 
 
 The game features a collection of 375 crossword puzzles licensed from Dell Magazine, offering players a comprehensive digital crossword experience with multiple difficulty settings and puzzle sizes[^ref-2]. Take a Break! Crosswords represented an early effort to bring traditional newspaper-style puzzles into the emerging multimedia PC market, complete with digitized speech, sound effects, and animated graphics[^ref-6]. The Oregonian newspaper noted that the Eugene-based Dynamix's creation "should be a popular gift option for the upcoming holiday season"[^ref-6].
 
-As Compute! Magazine observed, "Although designed for breaks in the workday, Crosswords Deluxe is an ideal way to jump-start your brain on those particularly slow mornings. It's more natural than caffeine, but no less habit-forming"[^ref-6]. The game was the first entry in Sierra's Take a Break! series, which would later include Take a Break! Pinball in 1993[^ref-7].
+As Compute! Magazine observed, "Although designed for breaks in the workday, Crosswords Deluxe is an ideal way to jump-start your brain on those particularly slow mornings. It's more natural than caffeine, but no less habit-forming"[^ref-6]. The game was the first entry in Sierra's Take a Break! series, which would later include Take a Break! Pinball in 1993[^ref-7].[^ref-12][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], N8 Productions[^ref-1]
@@ -130,7 +130,7 @@ Take a Break! Crosswords incorporated several multimedia features that were inno
 | 1.0 | 1992 | Windows 3.x | Initial release[^ref-1][^ref-2] |
 | 1.0 | 1993 | Macintosh | Presage Software port[^ref-4][^ref-5] |
 
-Additional volumes were released, with archive.org documenting Volume 1 and Volume 2 editions, described as "infinitely challenging" and "erasable"[^ref-10].
+Additional volumes were released, with archive.org documenting Volume 1 and Volume 2 editions, described as "infinitely challenging" and "erasable"[^ref-10].[^ref-17]
 
 ### Easter Eggs and Trivia
 
@@ -162,7 +162,7 @@ Take a Break! Crosswords was initially released on 3.5" floppy disks, with Sierr
 
 Take a Break! Crosswords represents an important milestone in the evolution of casual gaming software. While not technologically groundbreaking, the game demonstrated that established puzzle formats could find new audiences through digital distribution and multimedia enhancement[^ref-6]. The addition of features like autochecking, hint systems, and the animated Wanda character showed thoughtful consideration of how to improve upon the paper puzzle experience rather than simply replicating it[^ref-1][^ref-2].
 
-The game's design philosophy—creating bite-sized entertainment experiences for Windows users—presaged the casual gaming revolution that would transform the industry decades later[^ref-7]. Dynamix and Sierra's willingness to pursue this market, despite their reputation for larger-scale adventure and action titles, showed prescient awareness of computing's expanding role in daily life beyond dedicated gaming sessions[^ref-7].
+The game's design philosophy—creating bite-sized entertainment experiences for Windows users—presaged the casual gaming revolution that would transform the industry decades later[^ref-7]. Dynamix and Sierra's willingness to pursue this market, despite their reputation for larger-scale adventure and action titles, showed prescient awareness of computing's expanding role in daily life beyond dedicated gaming sessions[^ref-7].[^ref-18]
 
 ## Purchase
 

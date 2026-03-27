@@ -26,7 +26,7 @@ Playtoons 2: The Case of the Counterfeit Collaborator is an interactive storyboo
 
 The game combines an interactive comic book narrative with a robust construction kit that allows children to create their own animated stories[^ref-4]. The interactive story component is effectively a digital adaptation of "Spirou Episode 18: Micmac In Champignac" (1993), utilizing the same story, voice actors, art, and animations from the original cartoon[^ref-5]. This approach of repurposing existing animated content into interactive software was characteristic of Coktel Vision's educational titles during this period.
 
-As part of the Playtoons series, the game was designed with an innovative cross-title integration system: if multiple Playtoons games are installed on the same system, the assets from all those games become available in the editor, essentially combining themselves into one expanded creative tool[^ref-4]. This feature encouraged collectors to acquire multiple titles in the series to unlock additional creative possibilities.
+As part of the Playtoons series, the game was designed with an innovative cross-title integration system: if multiple Playtoons games are installed on the same system, the assets from all those games become available in the editor, essentially combining themselves into one expanded creative tool[^ref-4]. This feature encouraged collectors to acquire multiple titles in the series to unlock additional creative possibilities.[^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -45,7 +45,7 @@ The Case of the Counterfeit Collaborator follows the adventures of Spirou and Fa
 
 The interactive story component allows children to read along, listen to narration, and engage with the plot at their own pace[^ref-8]. Each panel starts with narrated text, drawing young readers into a script designed to captivate their attention[^ref-2]. As described in promotional materials, "the child reads, listens and becomes drawn into a script that will make them tremble with excitement or burst out laughing"[^ref-5].
 
-Players can experience the story from start to finish in a linear fashion, or they can jump to any part they prefer[^ref-9]. The interactive nature of the storybook means that some pages lead to secret parts of the story, rewarding exploration and repeated engagement with hidden narrative content[^ref-9].
+Players can experience the story from start to finish in a linear fashion, or they can jump to any part they prefer[^ref-9]. The interactive nature of the storybook means that some pages lead to secret parts of the story, rewarding exploration and repeated engagement with hidden narrative content[^ref-9].[^ref-21]
 
 ## Gameplay
 
@@ -221,6 +221,3 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-19]: [Metacritic – Playtoons 3](https://www.metacritic.com/game/playtoons-3-the-secret-of-the-castle/) – developer, publisher confirmation
 [^ref-20]: [MobyGames – Coktel Vision Company Page](https://www.mobygames.com/company/1127/coktel-vision/) – company game listings, platform information
 [^ref-21]: [Ultimate Pop Culture Wiki – Coktel Vision](https://ultimatepopculture.fandom.com/wiki/Coktel_Vision) – company history, game chronology
-[^ref-22]: [Internet Archive – Playtoons: The Secret of the Castle](https://archive.org/details/playtoons-the-secret-of-the-castle) – Sierra as publisher, CD-ROM format
-[^ref-23]: [Internet Archive – Playtoons: Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – series format, preservation status
-[^ref-24]: [Wikipedia – Category: Coktel Vision Games](https://en.wikipedia.org/wiki/Category:Coktel_Vision_games) – game categorization

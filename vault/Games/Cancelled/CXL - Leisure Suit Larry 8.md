@@ -19,14 +19,13 @@ tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 <small style="color: gray">Last updated: March 27, 2026</small>
 
-
 ## Overview
 
 **Leisure Suit Larry 8: Lust in Space**, also known by the alternate title **Leisure Suit Larry Explores Uranus**, was a planned sequel in the long-running adult comedy adventure series that was never released.[^ref-1] Development began at Sierra in 1998 under the direction of series creator [[Al Lowe]], who had helmed all previous entries in the franchise.[^ref-2] The game was intended to be the first entry in the series rendered in full 3D, representing a significant technical leap for the franchise.[^ref-1]
 
 The cancellation of Leisure Suit Larry 8 marked a significant turning point for both the series and Sierra Entertainment as a company. The project fell victim to the corporate upheaval that followed the acquisition of Sierra by CUC International, which left the company's management in turmoil.[^ref-3] Al Lowe himself has spoken about the situation, noting that "Sierra management was in turmoil after Ken and Roberta got bought out by CUC. The new management tried to get me to design my next game without a contract, saying 'we'll work it out later.'"[^ref-3]
 
-Despite never reaching full production, Leisure Suit Larry 8 holds a unique place in gaming history as one of the casualties of Sierra's declining adventure game division. Only very early test renders survive from the development period, representing a tantalizing glimpse of what might have been the next chapter in Larry Laffer's comedic adventures.[^ref-1] Shortly after the cancellation, Sierra's adventure games department was disbanded entirely, and Al Lowe departed the company on February 22, 1999.[^ref-1]
+Despite never reaching full production, Leisure Suit Larry 8 holds a unique place in gaming history as one of the casualties of Sierra's declining adventure game division. Only very early test renders survive from the development period, representing a tantalizing glimpse of what might have been the next chapter in Larry Laffer's comedic adventures.[^ref-1] Shortly after the cancellation, Sierra's adventure games department was disbanded entirely, and Al Lowe departed the company on February 22, 1999.[^ref-1][^ref-14][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -170,7 +169,6 @@ The Larry series would eventually return, but never with Al Lowe's direct involv
 
 The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken Williams has described Leisure Suit Larry as the company's best-known franchise.[^ref-12] This commercial success makes the cancellation of Al Lowe's planned eighth installment all the more poignant, representing a missed opportunity for the original creator to continue evolving his most famous creation.
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -197,7 +195,6 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 - [[2004 - Leisure Suit Larry - Magna Cum Laude]]
 - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry]]
 
-
 ## References
 
 [^ref-1]: [Unseen64 – Leisure Suit Larry 8 PC Cancelled](https://www.unseen64.net/2009/10/25/leisure-suit-larry-8-pc-cancelled/) – Development timeline, cancellation details, technical plans, Al Lowe departure date
@@ -223,7 +220,6 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 [^ref-11]: [Hardcore Gaming 101 – Leisure Suit Larry Assorted](http://www.hardcoregaming101.net/leisure-suit-larry-assorted/) – Larry's Casino as last Al Lowe Larry product, The Laffer Utilities
 
 [^ref-12]: [Wikipedia – Leisure Suit Larry Series](https://en.wikipedia.org/wiki/Leisure_Suit_Larry) – Series history, Softporn Adventure origins, 10 million sales figure, Ken Williams quote
-
 
 [^ref-14]: [IMDB – Leisure Suit Larry: Magna Cum Laude](https://www.imdb.com/title/tt0421136/) – Cast and crew information, voice actors
 

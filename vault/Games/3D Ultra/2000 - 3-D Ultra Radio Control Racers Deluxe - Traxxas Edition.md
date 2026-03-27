@@ -26,7 +26,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 The game promised "little cars, huge fun," inviting players to select from four car models, upgrade and customize them, then compete across fourteen hilarious tracks filled with unexpected obstacles and hazards.[^ref-4] True to the 3-D Ultra series' signature style, the game featured whimsical hazards including "mad chickens, sea monsters, anarchist lawn gnomes" that players had to navigate during fast and furious racing.[^ref-1] The Traxxas Edition partnership brought official RC car branding to the experience, lending authenticity to the virtual racing.[^ref-5]
 
-Part of the 3-D Ultra series influx during the final year of the millennium, alongside titles like TrainTown and Cool Pool, this game represented Dynamix's continued commitment to accessible, family-friendly entertainment software.[^ref-6] The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] Some fans have even credited the game with innovating car-soccer gameplay that would later be popularized by games like Rocket League.[^ref-8]
+Part of the 3-D Ultra series influx during the final year of the millennium, alongside titles like TrainTown and Cool Pool, this game represented Dynamix's continued commitment to accessible, family-friendly entertainment software.[^ref-6] The game was rated "E for Everyone" by the ESRB with no content descriptors, making it suitable for all ages.[^ref-7] Some fans have even credited the game with innovating car-soccer gameplay that would later be popularized by games like Rocket League.[^ref-8][^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]

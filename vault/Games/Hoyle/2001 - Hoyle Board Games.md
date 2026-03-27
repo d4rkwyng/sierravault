@@ -25,7 +25,7 @@ Hoyle Board Games 2001, also known as Hoyle Board Games 5, is a comprehensive di
 
 The games have the same challenging play elements as their real-world counterparts, but they are enhanced with animated opponents and customizable features that distinguish them from simple digital recreations[^ref-4]. Players can compete against ten computer opponents with adjustable skill levels, engage in local head-to-head play, or connect with friends and family over the Internet[^ref-2]. The package includes Sierra's patented "facemaker" character creation system, allowing players to create personalized avatars that speak and are fully animated[^ref-5].
 
-As part of the long-running Hoyle series, this installment represents the fifth entry in the Board Games sub-series, continuing Sierra's tradition of delivering quality digital adaptations of classic games[^ref-1]. The title was designed for the whole family to enjoy, featuring helpful hints and rule explanations that make it accessible to newcomers while providing enough depth to satisfy experienced players[^ref-2].
+As part of the long-running Hoyle series, this installment represents the fifth entry in the Board Games sub-series, continuing Sierra's tradition of delivering quality digital adaptations of classic games[^ref-1]. The title was designed for the whole family to enjoy, featuring helpful hints and rule explanations that make it accessible to newcomers while providing enough depth to satisfy experienced players[^ref-2].[^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]

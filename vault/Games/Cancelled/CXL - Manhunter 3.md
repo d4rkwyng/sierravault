@@ -19,12 +19,11 @@ tags: [adventure, agi, manhunter, sierra]
 
 <small style="color: gray">Last updated: March 27, 2026</small>
 
-
 ## Overview
 
 Manhunter 3: London is a cancelled post-apocalyptic adventure game that was planned as the third installment in the Manhunter series.[^ref-1] The game was to be designed by Barry Murry, Dave Murry, and Dee Dee Murry of Evryware and published by Sierra On-Line, continuing the story of the unnamed Manhunter protagonist as he tracks down the serial killer Phil Cook to London and attempts to drive the alien Orbs away from Earth.[^ref-1] The game's existence was teased as early as 1989 through an in-game Easter egg in Manhunter 2: San Francisco, where a poster advertising "Manhunter 3: London" can be seen on the side of a tram at the Cable Car Barn.[^ref-1]
 
-The cancellation of Manhunter 3: London represents one of Sierra's more notable unrealized projects, as the second game had ended on a dramatic cliffhanger that left fans eagerly anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, with plans to potentially extend to a fourth game following the London chapter.[^ref-1][^ref-3] Despite never being officially released, interest in the cancelled project has persisted for decades, with periodic rumors of revival surfacing in the fan community.[^ref-3][^ref-7]
+The cancellation of Manhunter 3: London represents one of Sierra's more notable unrealized projects, as the second game had ended on a dramatic cliffhanger that left fans eagerly anticipating the continuation of the story.[^ref-2][^ref-4] The series was originally conceived as a trilogy, with plans to potentially extend to a fourth game following the London chapter.[^ref-1][^ref-3] Despite never being officially released, interest in the cancelled project has persisted for decades, with periodic rumors of revival surfacing in the fan community.[^ref-3][^ref-7][^ref-9][^ref-10][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** [[Evryware]][^ref-1]
@@ -62,7 +61,7 @@ Based on the series' established formula, Manhunter 3: London would likely have 
 
 ### Puzzles and Mechanics
 
-The previous Manhunter games featured a variety of puzzle types including tracking sequences using the MAD device, environmental puzzles, and action-based arcade sequences.[^ref-6] The games were known for their sometimes cryptic puzzle solutions and challenging arcade segments that could result in gruesome death scenes.[^ref-6] Players in the original games had to follow suspects through their daily movements, identify key locations, and gather evidence to progress the story.[^ref-5]
+The previous Manhunter games featured a variety of puzzle types including tracking sequences using the MAD device, environmental puzzles, and action-based arcade sequences.[^ref-6] The games were known for their sometimes cryptic puzzle solutions and challenging arcade segments that could result in gruesome death scenes.[^ref-6] Players in the original games had to follow suspects through their daily movements, identify key locations, and gather evidence to progress the story.[^ref-5][^ref-8]
 
 ## Reception
 
@@ -144,7 +143,7 @@ Despite these promising developments reported in 2008, no further public announc
 The most famous Easter egg related to Manhunter 3: London appears in Manhunter 2: San Francisco itself:[^ref-1]
 - **London Poster:** Looking at the side of the tram at Cable Car Barn reveals posters advertising both "Manhunter: New York" and "Manhunter 3: London"—a tantalizing preview of the sequel that was never to be.[^ref-1]
 
-The Manhunter series as a whole contained numerous references to real-world locations in New York City and San Francisco, with the cancelled third game presumably planning to incorporate authentic London landmarks in similar fashion.[^ref-5]
+The Manhunter series as a whole contained numerous references to real-world locations in New York City and San Francisco, with the cancelled third game presumably planning to incorporate authentic London landmarks in similar fashion.[^ref-5][^ref-13]
 
 ## Legacy
 
@@ -166,7 +165,7 @@ The cancellation of Manhunter 3: London represents a significant "what if" momen
 
 The Manhunter series' influence can be seen in later first-person adventure games and the eventual dominance of the point-and-click interface that replaced text parsers.[^ref-5] While the third game was never completed, the series' legacy endures through its technical innovations and its devoted fan community, who continue to hope that the Manhunter's story might someday reach its intended conclusion in London.[^ref-2]
 
-The intellectual property's current ownership by Activision has led to periodic speculation about potential remakes or revivals, though no official announcements have been made.[^ref-7] The story of Manhunter 3: London serves as a reminder of the precarious nature of game development and the many factors beyond simple sales figures that can determine whether a beloved series continues or ends prematurely.
+The intellectual property's current ownership by Activision has led to periodic speculation about potential remakes or revivals, though no official announcements have been made.[^ref-7] The story of Manhunter 3: London serves as a reminder of the precarious nature of game development and the many factors beyond simple sales figures that can determine whether a beloved series continues or ends prematurely.[^ref-15]
 
 ## Purchase
 

@@ -26,7 +26,7 @@ Poseidon: Master of Atlantis is the official expansion pack for Zeus: Master of 
 
 The expansion centers on the mythological origins of Atlantis, drawing from Plato's classical writings about the legendary island civilization[^ref-4]. Players design villages in a setting of classic Greek mythology and manage them through day-to-day events and divine interventions as they develop into large, powerful cities[^ref-3]. The game allows players to build great empires, dabble in combat, trade, and politics, and keep monsters like Medusa at bay with the help of great heroes from mythology[^ref-5].
 
-Poseidon received generally favorable reviews upon release, with critics praising its solid gameplay mechanics inherited from the base game while noting that it focused more on aesthetic improvements than revolutionary new features[^ref-4]. The expansion adds the Atlantis civilization to Zeus with its own unique gods, monuments, heroes, monsters, industries and more[^ref-1], offering players a fresh setting while maintaining the engaging city-building formula that made the original game successful.
+Poseidon received generally favorable reviews upon release, with critics praising its solid gameplay mechanics inherited from the base game while noting that it focused more on aesthetic improvements than revolutionary new features[^ref-4]. The expansion adds the Atlantis civilization to Zeus with its own unique gods, monuments, heroes, monsters, industries and more[^ref-1], offering players a fresh setting while maintaining the engaging city-building formula that made the original game successful.[^ref-19][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -117,7 +117,7 @@ Modern retrospectives continue to hold Zeus and Poseidon in high regard. Alice B
 - **Amazon Customer Reviews:** 4.0/5[^ref-2]
 - **GamePressure:** 8.8[^ref-15]
 
-The game was notably recommended by Poland's Ministry of National Education as a teaching aid for history lessons[^ref-9], demonstrating its educational value beyond pure entertainment.
+The game was notably recommended by Poland's Ministry of National Education as a teaching aid for history lessons[^ref-9], demonstrating its educational value beyond pure entertainment.[^ref-23]
 
 ## Development
 
@@ -294,5 +294,3 @@ Within the broader context of strategy gaming, Zeus and Poseidon represent a ref
 [^ref-21]: [VGTimes](https://www.vgtimes.com/games/poseidon-zeus-official-expansion/?amp=1) – genre classification, alternate titles
 [^ref-22]: [eBay Product Listing](https://www.ebay.com/itm/154867746470) – developer, publisher, ESRB rating
 [^ref-23]: [Go64 – GameVortex Mirror](https://go64.com/gamevortex/soft_rev.php/409) – review details, technical specifications
-[^ref-24]: [PriceCharting](https://www.pricecharting.com/game/pc-games/poseidon-zeus-official-expansion) – publisher, genre, player count
-[^ref-25]: [LoneBullet – Patch Download](https://www.lonebullet.com/patches/download-poseidon-zeus-official-expansion-patch-v21-patch-free-20220.htm) – patch file size, download statistics

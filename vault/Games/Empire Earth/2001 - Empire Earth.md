@@ -113,7 +113,7 @@ Empire Earth has maintained a positive reputation among strategy gaming enthusia
 - **IMDb:** 7.9/10 (376 ratings)[^ref-23]
 - **GOG.com Users:** 4.3/5 (1,160 reviews)[^ref-24]
 
-Modern retrospectives from sites like Hardcore Gaming 101 acknowledge that "the goal from the start was to combine the best of RTS gameplay with that of empire-building" and that the game successfully achieved this vision despite some pacing issues[^ref-9]. User reviews on GOG.com frequently compare the game favorably to modern strategy titles, with one reviewer stating "I swear this thing has me more addicted than WoW"[^ref-24].
+Modern retrospectives from sites like Hardcore Gaming 101 acknowledge that "the goal from the start was to combine the best of RTS gameplay with that of empire-building" and that the game successfully achieved this vision despite some pacing issues[^ref-9]. User reviews on GOG.com frequently compare the game favorably to modern strategy titles, with one reviewer stating "I swear this thing has me more addicted than WoW"[^ref-24].[^ref-32]
 
 ## Development
 

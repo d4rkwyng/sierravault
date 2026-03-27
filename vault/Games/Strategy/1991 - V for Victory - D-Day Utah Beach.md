@@ -25,7 +25,7 @@ V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based strategy wa
 
 The game was revolutionary for its time, being described as "the first wargame (since Eastern Front) that broke the mold and wrote a computer wargame" rather than simply adapting traditional hex-and-counter board games to the computer screen[^ref-4]. This debut title from Atomic Games established the V for Victory series, which would go on to spawn three additional games covering other World War II battles[^ref-5]. The success of the series also inspired the similar World at War series published by Avalon Hill[^ref-5].
 
-V for Victory: Utah Beach was designed to be accessible to non-hardcore wargamers while still providing the depth and complexity that enthusiasts demanded[^ref-3]. The game eliminated much of the drudgery associated with traditional board wargames by automating complex logistics and supply calculations, allowing players to focus on strategic and tactical decision-making[^ref-3].
+V for Victory: Utah Beach was designed to be accessible to non-hardcore wargamers while still providing the depth and complexity that enthusiasts demanded[^ref-3]. The game eliminated much of the drudgery associated with traditional board wargames by automating complex logistics and supply calculations, allowing players to focus on strategic and tactical decision-making[^ref-3].[^ref-10][^ref-11][^ref-12]
 
 > [!info]- Game Info
 > **Developer:** Atomic Games, Inc.[^ref-1]
@@ -207,11 +207,6 @@ The game's influence extended beyond its immediate series. The similar World at 
 [^ref-10]: [GameFAQs – V for Victory](https://gamefaqs.gamespot.com/pc/934125-v-for-victory-d-day-utah-beach/videos/1257239) – platform confirmation, developer/publisher
 [^ref-11]: [Metacritic – V for Victory](https://www.metacritic.com/game/v-for-victory-d-day-utah-beach/) – developer, publisher, genre classification
 [^ref-12]: [IMDB – V for Victory](https://www.imdb.com/find/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944&s=tt) – release year confirmation
-[^ref-13]: [MyAbandonware – Browse V](https://www.myabandonware.com/browse/name/V/) – series identification, release date
-[^ref-14]: [MyAbandonware – Search Results](https://www.myabandonware.com/search/q/V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – platform confirmation
-[^ref-15]: [GamesNostalgia – Search](https://gamesnostalgia.com/search?query=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – Amiga platform reference
-[^ref-16]: [GOG – Game Search](https://www.gog.com/en/games?query=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – series confirmation, historical setting
-[^ref-17]: [Steam Store – Search](https://store.steampowered.com/search/?term=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – genre classification
 [^ref-18]: [AbandonwareDOS – Search](https://www.abandonwaredos.com/search.php?search=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – historical context
 [^ref-19]: [AdventureGamers – Search](https://adventuregamers.com/search/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – series identification
 [^ref-20]: [HowLongToBeat – Search](https://howlongtobeat.com/?q=V+for+Victory%3A+Battleset+1+-+D-Day+Utah+Beach+-+1944) – game title confirmation

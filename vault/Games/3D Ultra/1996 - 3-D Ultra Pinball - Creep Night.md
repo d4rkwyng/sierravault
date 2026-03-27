@@ -25,7 +25,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 3-D Ultra Pinball: Creep Night is the second installment in Sierra's 3-D Ultra Pinball series, developed by Dynamix and published by Sierra On-Line in 1996[^ref-1]. The game embraces a gothic horror theme with what sources describe as a "cartoonish 'Disney Haunted House' quality"[^ref-2], featuring animated skeletons, ghosts, and various creepy crawlies across its haunted castle setting[^ref-3]. As one reviewer noted, "Do you like dead things? Watching horror movies? Playing an exciting game of pinball? Burying bodies in your crawl space? Hey, we can help you with the first three"[^ref-4].
 
-Unlike traditional pinball simulations of its era, Creep Night deliberately took advantage of being a video pinball game, incorporating elements that would be impossible on a physical pinball table[^ref-2]. The game featured three main tables - the Castle grounds, Tower top, and Dungeon depths - plus a bonus fourth table hidden somewhere within the game[^ref-4]. Despite advertising claims of "realistic pinball physics," reviewers noted that "the truth is somewhat the opposite," with the game's ball gravitating towards points of no return and frequent losses to outlanes or untouchable spaces between flippers[^ref-4].
+Unlike traditional pinball simulations of its era, Creep Night deliberately took advantage of being a video pinball game, incorporating elements that would be impossible on a physical pinball table[^ref-2]. The game featured three main tables - the Castle grounds, Tower top, and Dungeon depths - plus a bonus fourth table hidden somewhere within the game[^ref-4]. Despite advertising claims of "realistic pinball physics," reviewers noted that "the truth is somewhat the opposite," with the game's ball gravitating towards points of no return and frequent losses to outlanes or untouchable spaces between flippers[^ref-4].[^ref-17][^ref-18][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]
@@ -76,7 +76,7 @@ Computer Gaming World's Charlotte Panther concluded that "Creep Night is an ente
 
 ### Modern Assessment
 
-Modern retrospective reviews have been generally positive, with users on GameSpot giving it an average rating of 7.8/10 across reviews from 2004-2006[^ref-6]. One user declared it "the best of them" among the 3D Ultra Pinball games[^ref-6], while others praised its innovative use of 3D effects and sound design[^ref-6]. On My Abandonware, the game maintains a strong 4.47/5 rating based on 47 user votes[^ref-5], with enthusiastic users calling it "amazing" and "way better than any of the other 'virtual pinball' apps I've tried"[^ref-5].
+Modern retrospective reviews have been generally positive, with users on GameSpot giving it an average rating of 7.8/10 across reviews from 2004-2006[^ref-6]. One user declared it "the best of them" among the 3D Ultra Pinball games[^ref-6], while others praised its innovative use of 3D effects and sound design[^ref-6]. On My Abandonware, the game maintains a strong 4.47/5 rating based on 47 user votes[^ref-5], with enthusiastic users calling it "amazing" and "way better than any of the other 'virtual pinball' apps I've tried"[^ref-5].[^ref-15][^ref-16][^ref-19]
 
 ## Development
 
@@ -102,7 +102,7 @@ Creep Night's influence can be seen in its approach to video pinball design, pri
 
 ### Later Releases and Adaptability
 
-The game's cross-platform success led to a Portuguese language version that included support for multiple other languages[^ref-13], demonstrating its international appeal. A German re-release followed in 2005, showing the game's longevity and continued market demand decades after its original release[^ref-5]. The game's extensive configurability became a defining feature—Chuck Miller of Gamecenter highlighted how "A belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options make Creep Night one of the most adaptable pinball games to scare up attention"[^ref-14]. This adaptability meant both novice players and pinball enthusiasts could tailor the experience to their skill level and preferences.
+The game's cross-platform success led to a Portuguese language version that included support for multiple other languages[^ref-13], demonstrating its international appeal. A German re-release followed in 2005, showing the game's longevity and continued market demand decades after its original release[^ref-5]. The game's extensive configurability became a defining feature—Chuck Miller of Gamecenter highlighted how "A belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options make Creep Night one of the most adaptable pinball games to scare up attention"[^ref-14]. This adaptability meant both novice players and pinball enthusiasts could tailor the experience to their skill level and preferences.[^ref-21]
 
 ## Downloads
 
@@ -159,10 +159,4 @@ The game's cross-platform success led to a Portuguese language version that incl
 [^ref-19]: [MobyGames – 3-D Ultra Pinball: Creep Night Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/) – Aggregated review scores and critical assessments
 [^ref-20]: [MobyGames – 3-D Ultra Pinball: Creep Night](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/) – Game information, release year, developer, and publisher details
 [^ref-21]: [Microsoft Learn - Technical Support](https://learn.microsoft.com/en-us/answers/questions/2843618/how-do-i-run-a-sierra-3d-ultra-pinball-creep-night) - Modern compatibility support discussion
-[^ref-22]: [Metacritic - 3-D Ultra Pinball: Creep Night](https://www.metacritic.com/game/3-d-ultra-pinball-creep-night/) - Aggregate review scores
-[^ref-23]: [MobyGames - Game Entry](https://www.mobygames.com/game/1506/) - Comprehensive game database entry
-[^ref-24]: [MobyGames - Windows Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/windows/) - Platform-specific reviews
-[^ref-25]: [MobyGames - All Reviews](https://www.mobygames.com/game/1506/3-d-ultra-pinball-creep-night/reviews/) - Complete review compilation
-[^ref-26]: [Horror Games Collection Fandom](https://the-official-horror-games-collection.fandom.com/wiki/3-D_Ultra_Pinball:_Creep_Night_(1996)) - Horror game wiki entry
 
-[^ref-27]: [TV Tropes - 3D Ultra Pinball: Creep Night](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/ThreeDUltraPinballCreepNight) - Cultural analysis and tropes documentation

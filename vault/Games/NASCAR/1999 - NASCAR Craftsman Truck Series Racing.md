@@ -24,7 +24,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 
 NASCAR Craftsman Truck Series Racing is a racing simulation developed by Papyrus Design Group and published by Sierra Sports in 1999 for Windows.[^ref-1][^ref-2] The game is essentially the truck-racing portion of NASCAR Racing 1999 Edition sold as a standalone product, allowing players to experience the 700-horsepower trucks of the NASCAR Craftsman Truck Series without purchasing the full NASCAR Racing package.[^ref-3] This standalone release represented Sierra's strategy of offering modular racing content to serve different segments of the NASCAR fanbase.
 
-The game featured authentic trucks, tracks, and drivers from the 1999 NASCAR Craftsman Truck Series season, with full 3Dfx accelerator support and an included paint kit for custom vehicle designs.[^ref-3][^ref-4] As one of Papyrus's later NASCAR releases, the game built upon the studio's reputation for creating the most realistic racing simulations available on the PC platform during the 1990s.
+The game featured authentic trucks, tracks, and drivers from the 1999 NASCAR Craftsman Truck Series season, with full 3Dfx accelerator support and an included paint kit for custom vehicle designs.[^ref-3][^ref-4] As one of Papyrus's later NASCAR releases, the game built upon the studio's reputation for creating the most realistic racing simulations available on the PC platform during the 1990s.[^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]

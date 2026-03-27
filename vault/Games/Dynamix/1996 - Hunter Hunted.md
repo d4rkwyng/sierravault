@@ -46,7 +46,7 @@ The Masters, seeking entertainment from the conquered species, have established 
 
 The competitions take place in abandoned urban environments—dark alleys, office buildings, and even abandoned malls—that have become the Masters' gladiatorial arenas[^ref-2]. Players must navigate through these hostile environments, battling not only each other but also the various dangers the Masters have placed throughout the arenas. The ultimate goal is to collect all the car parts needed to build an escape vehicle called the SCURVe, which will allow the champion to escape from the evil Masters[^ref-9][^ref-10].
 
-The narrative frames the competition as a struggle for survival where "if you've never owed your life to someone before, you will now," hinting at the cooperative elements where former enemies must sometimes work together against their common oppressors[^ref-11]. The game explores themes of resistance, survival, and the unlikely alliances that form when beings from different worlds face a common threat.
+The narrative frames the competition as a struggle for survival where "if you've never owed your life to someone before, you will now," hinting at the cooperative elements where former enemies must sometimes work together against their common oppressors[^ref-11]. The game explores themes of resistance, survival, and the unlikely alliances that form when beings from different worlds face a common threat.[^ref-13]
 
 ## Gameplay
 

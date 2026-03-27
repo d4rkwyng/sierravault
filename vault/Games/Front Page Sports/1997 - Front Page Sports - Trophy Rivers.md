@@ -27,7 +27,7 @@ Front Page Sports: Trophy Rivers is a fishing simulation game developed by [[Dyn
 
 The game was designed to appeal specifically to the niche market of fly-fishing enthusiasts who also enjoyed computer gaming[^ref-4]. Unlike the franchise's earlier Trophy Bass titles that focused on bass fishing from an overhead view, Trophy Rivers concentrated on the art of fly-fishing for salmon, steelhead, and trout species across carefully recreated river environments[^ref-4]. Contemporary reviews noted that the game was "occasionally boring, at times just plain annoying, but generally realistic and comprehensive," concluding it was "surely a game that only a fisherman could love"[^ref-4].
 
-Trophy Rivers featured multiple gameplay modes including single-player fishing trips, computer tournaments, and multi-tournament professional career progression[^ref-1]. The game also supported multiplayer functionality via LAN, modem, and internet connections, allowing both cooperative and competitive tournament play[^ref-1]. Its educational components included an extensive "How-To" electronic library providing fishing knowledge and tips from professional anglers[^ref-1].
+Trophy Rivers featured multiple gameplay modes including single-player fishing trips, computer tournaments, and multi-tournament professional career progression[^ref-1]. The game also supported multiplayer functionality via LAN, modem, and internet connections, allowing both cooperative and competitive tournament play[^ref-1]. Its educational components included an extensive "How-To" electronic library providing fishing knowledge and tips from professional anglers[^ref-1].[^ref-18][^ref-19][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]

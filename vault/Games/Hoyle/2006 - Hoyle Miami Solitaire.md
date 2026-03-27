@@ -26,7 +26,7 @@ Hoyle Miami Solitaire is a card game compilation released in November 2006 for P
 
 Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion [^ref-5]. The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
 
-As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].
+As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].[^ref-10][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
@@ -237,5 +237,3 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 [^ref-17]: [Sierra Entertainment History](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Hoyle franchise origins with Sierra
 [^ref-18]: [Internet Archive – Casual Gaming 2006](https://archive.org/search?query=hoyle+solitaire+2006) – preservation context
 [^ref-19]: [MobyGames – Hoyle Card Games](https://www.mobygames.com/game/1233/hoyle-card-games/) – related franchise entries
-[^ref-20]: [Metacritic – Casual Games 2006](https://www.metacritic.com/browse/games/release-date/available/pc/date?page=0) – release context
-[^ref-21]: [GameSpot – Card Game Genre](https://www.gamespot.com/games/?genre=card-games) – genre classification context

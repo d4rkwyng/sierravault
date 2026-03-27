@@ -26,7 +26,7 @@ Hoyle Casino 3D represents a significant technical evolution in the long-running
 
 The game offered more than 21 casino games including blackjack, video slots, video poker, craps, roulette, and Texas Hold'em, with promotional materials claiming over 300 different game variations across 40 classic casino games[^ref-1][^ref-2]. Players could create their own animated characters from head to toe and compete against AI opponents designed to behave like real casino players[^ref-6]. This character customization feature, combined with multiple game modes ranging from tutorials to tournaments, positioned Hoyle Casino 3D as both an entry point for beginners and a comprehensive experience for seasoned virtual gamblers[^ref-4].
 
-As a product of the Encore acquisition of the Hoyle brand, Hoyle Casino 3D represented the company's ambitious attempt to modernize the franchise with contemporary 3D graphics technology[^ref-7]. The game was marketed as "the only casino title powered by RenderWare," a claim that highlighted its technical distinctiveness within the casino gaming genre[^ref-1]. Despite its technical aspirations, the game received mixed reception from users who encountered installation difficulties and gameplay issues[^ref-1][^ref-8].
+As a product of the Encore acquisition of the Hoyle brand, Hoyle Casino 3D represented the company's ambitious attempt to modernize the franchise with contemporary 3D graphics technology[^ref-7]. The game was marketed as "the only casino title powered by RenderWare," a claim that highlighted its technical distinctiveness within the casino gaming genre[^ref-1]. Despite its technical aspirations, the game received mixed reception from users who encountered installation difficulties and gameplay issues[^ref-1][^ref-8].[^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-6]
@@ -86,7 +86,7 @@ Amazon customer reviews reflected similar concerns, with the game receiving a 3.
 
 ### Modern Assessment
 
-The game has received limited retrospective coverage. GameFAQs lists a user rating of "Good" based on a single rating[^ref-2]. Software Informer gave the game a 5 out of 5 rating, describing it as combining "all the best you need for a great gaming experience: nonstop entertainment, endless replayability, attention to rules, and an easy-to-use interface"[^ref-6].
+The game has received limited retrospective coverage. GameFAQs lists a user rating of "Good" based on a single rating[^ref-2]. Software Informer gave the game a 5 out of 5 rating, describing it as combining "all the best you need for a great gaming experience: nonstop entertainment, endless replayability, attention to rules, and an easy-to-use interface"[^ref-6].[^ref-15]
 
 **Aggregate Scores:**
 - **GameFAQs:** "Good" (1 rating)[^ref-2]

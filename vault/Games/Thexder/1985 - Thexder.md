@@ -167,45 +167,4 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-35]: [Gamia Archive](https://gamia-archive.fandom.com/wiki/List_of_best-selling_PC_video_games) – - Sales figures
 [^ref-36]: [VGMPF](https://vgmpf.com/Wiki/index.php/Thexder_(FC)) – - Licensing information
 [^ref-37]: [Time Extension](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – - Modern re-release
-[^ref-38]: [Atari Magazines Review](https://www.atarimagazines.com/compute/issue100/Thexder.php) – - "Jumps into the past to grab a theme that was the rage in video arcades"
-[^ref-39]: [Hardcore Gaming 101](https://blog.hardcoregaming101.net/2015/08/thexder.html) – - "Mecha who can transform into a jet" detailed retrospective
 [^ref-20]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"
-[^ref-46]: [Pixelated Arcade](https://pixelatedarcade.com/games/thexder) – - "Best selling games of its time with over one million copies sold"
-[^ref-48]: [Nintendo Life](https://www.nintendolife.com/games/switch-eshop/eggconsole_thexder_pc-8801mkiisr) – - "Hyper dual-armor which can transform into robot and fighter forms"
-[^ref-49]: [Nintendo World Report](https://www.nintendoworldreport.com/review/61247/eggconsole-thexder-pc-8801mkiisr-switch-review) – - "Intriguingly combining side-scrolling action and shoot-em-up"
-[^ref-51]: [StrategyWiki Gameplay](https://strategywiki.org/wiki/Thexder/Walkthrough) – - "Energy is a precious commodity throughout the game"
-[^ref-53]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – - Ken Williams licensing discussion
-[^ref-55]: [Engadget](https://www.engadget.com/2009-08-24-thexder-neo-flying-and-stomping-on-ps3-and-psp-this-fall.html) – - PS3 version announcement
-[^ref-56]: [Retro Mags](https://www.retromags.com/forums/topic/thexder/) – - "Became best-selling hit, selling over 500,000 copies in Japan by 1987"
-[^ref-57]: [Sierra Newsletter 1990](https://savagetaylor.com/2016/01/30/sierra-newsletter-summer-1990/) – - Macintosh development challenges
-[^ref-59]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=92&title=thexder&fld=walkthrough) – - "Crucial to increase the maximum energy level"
-[^ref-59]: [Sierra Chest Music](https://sierrachest.com/index.php?a=games&id=92&title=thexder&fld=music) – - Moonlight Sonata soundtrack information
-[^ref-61]: [Games Database NES](https://www.gamesdatabase.org/game/nintendo-nes/thexder) – - "Robot capable of transforming into a jet whose job is to destroy central computer"
-[^ref-63]: [IGN Archive](https://www.ign.com/games/thexder) – - Game database entry and platform information
-[^ref-64]: [TouchArcade](https://toucharcade.com/2023/01/03/switcharcade-round-up-reviews-featuring-eggconsole-thexder/) – - 3.5/5 SwitchArcade Round-Up review
-[^ref-65]: [Amazon Customer Reviews](https://www.amazon.com/Thexder-Sierra-On-Line/dp/B00005JL7A/reviews) – - 3.6/5 rating from 2013-2014 reviews
-[^ref-66]: [TCRF Thexder](https://tcrf.net/Thexder) – - Regional differences and unused content
-[^ref-67]: [D4 Enterprise](https://d4e.co.jp/en/game/thexder/) – - Publisher official page for Switch release
-[^ref-68]: [Square Enix Store](https://store.na.square-enix-games.com/thexder) – - Official Square Enix listing
-[^ref-69]: [Reddit r/Sierra](https://www.reddit.com/r/Sierra/comments/thexder/) – - Community discussion thread
-[^ref-70]: [Game Arts Official](https://www.gamearts.co.jp/en/game/thexder/) – - Developer official history
-[^ref-71]: [MobyGames Tech Specs](https://www.mobygames.com/game/49/thexder/specs/) – - Full technical specifications
-[^ref-72]: [MobyGames Screenshots](https://www.mobygames.com/game/49/thexder/screenshots/) – - Multi-platform screenshot gallery
-[^ref-73]: [MobyGames Cover Art](https://www.mobygames.com/game/49/thexder/cover/) – - Box art from all regions
-[^ref-74]: [MobyGames Promo](https://www.mobygames.com/game/49/thexder/promo/) – - Promotional materials archive
-[^ref-75]: [MobyGames Credits](https://www.mobygames.com/game/49/thexder/credits/) – - Full development credits
-[^ref-77]: [Internet Archive Apple II](https://archive.org/details/Thexder_Apple_II) – - Apple II version preservation
-[^ref-78]: [Internet Archive Amiga](https://archive.org/details/Thexder_Amiga) – - Amiga version preservation
-[^ref-80]: [Discogs Soundtrack](https://www.discogs.com/release/thexder-ost) – - Physical soundtrack releases
-[^ref-81]: [GameFAQs NES](https://gamefaqs.gamespot.com/nes/578267-thexder) – - NES version database entry
-[^ref-82]: [GameFAQs DOS](https://gamefaqs.gamespot.com/pc/564893-thexder) – - DOS version database entry
-[^ref-83]: [Wikipedia Game Arts](https://en.wikipedia.org/wiki/Game_Arts) – - Developer company history
-[^ref-84]: [PC-8801 Games Database](https://www.pc88.gr.jp/game/thexder) – - Japanese platform information
-[^ref-85]: [MSX Resource Center](https://www.msx.org/wiki/Thexder) – - MSX version details
-[^ref-86]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=1066) – - Amiga version documentation
-[^ref-87]: [Atari ST Database](https://www.atarimania.com/game-atari-st-thexder_13267.html) – - Atari ST version info
-[^ref-88]: [World of Spectrum](https://worldofspectrum.org/archive/software/games/thexder) – - ZX Spectrum coverage
-[^ref-89]: [Sierra Newsletter Archive](https://savagetaylor.com/sierra-newsletters/) – - Historical marketing documents
-[^ref-90]: [Ken Williams Interview](https://www.filfre.net/ken-williams-interview/) – - Sierra founder discussing Thexder
-[^ref-91]: [MobyGames Rankings](https://www.mobygames.com/game/49/thexder/rating/) – - Player and critic ratings
-[^ref-92]: [Japanese Game Preservation](https://www.oldgamemags.net/thexder) – - Magazine scans and reviews

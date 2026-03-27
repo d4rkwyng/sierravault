@@ -171,7 +171,7 @@ The original DOS version had various compatibility issues that emerged as hardwa
 
 The CD version introduced its own technical challenges. The DOS executable LORDSDDR.EXE on the CD required proper LORDS.INF configuration for sound to function correctly. Users reported that "DOS CD version has no sound during gameplay and intro" when configuration files were improperly set up.[^ref-25] The Windows install creates the LORDS.INF file at install time, and this file does not exist on the disk itself.[^ref-25]
 
-Modern compatibility solutions include using DOSBox for emulation or running the game through a virtual machine with Windows XP mode.[^ref-26] The GOG and Steam releases utilize DOSBox to ensure compatibility with contemporary operating systems.[^ref-11]
+Modern compatibility solutions include using DOSBox for emulation or running the game through a virtual machine with Windows XP mode.[^ref-26] The GOG and Steam releases utilize DOSBox to ensure compatibility with contemporary operating systems.[^ref-11][^ref-38]
 
 ### Easter Eggs and Trivia
 

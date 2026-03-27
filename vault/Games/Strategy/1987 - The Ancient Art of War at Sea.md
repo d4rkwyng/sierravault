@@ -25,7 +25,7 @@ The Ancient Art of War at Sea is a real-time naval strategy game released in 198
 
 The game challenges players to face off against five of history's greatest naval commanders, each employing unique strategies based on their historical tactics.[^ref-4] Players can engage in eleven pre-arranged campaigns and scenarios covering both historical engagements and imaginative "what if" situations.[^ref-5] The game's scope ranges from Caribbean pirate encounters to the decisive Battle of Trafalgar, offering a comprehensive education in naval warfare of the sailing era.[^ref-6]
 
-What set The Ancient Art of War at Sea apart from contemporary strategy games was its powerful game editor, allowing players to create their own naval battles, design custom continents and oceans, and determine every detail from fleet composition to the dangers of the waters.[^ref-7] This feature meant that, as the game's marketing proclaimed, "You can play thousands of times… yet never play the same game twice."[^ref-8] The title went on to sell more than 100,000 copies and won two CODiE Awards in 1988 for Best Packaging and Best Action/Strategy Program.[^ref-9]
+What set The Ancient Art of War at Sea apart from contemporary strategy games was its powerful game editor, allowing players to create their own naval battles, design custom continents and oceans, and determine every detail from fleet composition to the dangers of the waters.[^ref-7] This feature meant that, as the game's marketing proclaimed, "You can play thousands of times… yet never play the same game twice."[^ref-8] The title went on to sell more than 100,000 copies and won two CODiE Awards in 1988 for Best Packaging and Best Action/Strategy Program.[^ref-9][^ref-27][^ref-28][^ref-29]
 
 > [!info]- Game Info
 > **Developer:** [[Evryware]], Inc.[^ref-1]
@@ -289,4 +289,3 @@ Modern players approaching The Ancient Art of War at Sea will find an accessible
 [^ref-27]: [RAWG](https://rawg.io/games/the-ancient-art-of-war-at-sea) – genre classification, release date
 [^ref-28]: [MobyGames – The Ancient Art of War](https://www.mobygames.com/game/23/the-ancient-art-of-war/) – original game background, developer quotes
 [^ref-29]: [MobyGames – The Ancient Art of War in the Skies](https://www.mobygames.com/game/1595/the-ancient-art-of-war-in-the-skies/) – series sequel information
-[^ref-30]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Sierra/Dynamix relationship context

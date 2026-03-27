@@ -25,7 +25,7 @@ Hoyle Card Games 2008 represents a significant milestone in the long-running Hoy
 
 The game stands as a comprehensive digital card gaming experience, featuring more than 75 different card games including popular titles such as Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle, and Rummy 500[^ref-2][^ref-3]. Additionally, the package includes 55 different solitaire games as a bonus feature, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. The inclusion of online Texas Hold'em functionality demonstrated Encore's awareness of the poker boom prevalent during the mid-2000s[^ref-3].
 
-Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the series' history, arriving as a PC/Mac hybrid disc[^ref-9]. The game received a Teen rating from the ESRB due to simulated gambling content[^ref-10][^ref-5]. While the Hoyle franchise originated with Sierra On-Line in 1989 and was designed by [[Warren Schwader]][^ref-11], by 2008 the series had transitioned entirely to Encore Software, which had acquired the brand and continued annual releases throughout the 2000s[^ref-12].
+Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the series' history, arriving as a PC/Mac hybrid disc[^ref-9]. The game received a Teen rating from the ESRB due to simulated gambling content[^ref-10][^ref-5]. While the Hoyle franchise originated with Sierra On-Line in 1989 and was designed by [[Warren Schwader]][^ref-11], by 2008 the series had transitioned entirely to Encore Software, which had acquired the brand and continued annual releases throughout the 2000s[^ref-12].[^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-4]
@@ -66,7 +66,7 @@ The game operates as a sandbox collection rather than following a structured pro
 
 The core mechanics revolve around faithful implementations of official Hoyle card game rules[^ref-3]. Each game follows standardized regulations that have defined proper card gaming for over two centuries. The AI opponents provide varying levels of challenge, though some players questioned the quality of the random number generation, suggesting that card sequences might be predictable or that win/loss outcomes appeared to be predetermined rather than properly randomized[^ref-1].
 
-The game supports online multiplayer for Texas Hold'em, allowing players to compete against human opponents over the internet[^ref-3][^ref-14]. This feature capitalized on the poker phenomenon of the era, providing a social component beyond single-player card gaming.
+The game supports online multiplayer for Texas Hold'em, allowing players to compete against human opponents over the internet[^ref-3][^ref-14]. This feature capitalized on the poker phenomenon of the era, providing a social component beyond single-player card gaming.[^ref-18]
 
 ## Reception
 
@@ -149,7 +149,7 @@ No documented cut content has been identified in available sources.
 
 ### Technical Issues
 
-Several technical issues have been reported by users over the years:
+Several technical issues have been reported by users over the years:[^ref-19]
 
 - **Left-click/right-click confusion:** Some players found the mouse control scheme unintuitive and required time to adjust[^ref-6]
 - **Fixed window sizes:** The game cannot scale to higher resolutions due to sprite artwork limitations; only full-screen and fixed-size window modes are available[^ref-1]

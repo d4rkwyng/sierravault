@@ -26,7 +26,7 @@ Fort Apache is a turn-based strategy game set in the American Wild West during t
 
 The game represents the third entry in Impressions' "Micro Miniatures" series, following Rorke's Drift and Charge of The Light Brigade[^ref-2][^ref-5]. As with its predecessors, Fort Apache employs a top-down perspective and turn-based tactical gameplay, allowing players to command up to 44 individual units in combat scenarios[^ref-1][^ref-2]. The game was graphically similar to other Impressions titles such as Cohort: Fighting for Rome[^ref-1].
 
-Despite featuring improved graphics and expanded formation and attack options compared to earlier entries in the series, Fort Apache received mixed reviews from contemporary gaming publications[^ref-2][^ref-5]. Critics noted that while the historical premise remained engaging, persistent issues with the user interface and AI carried over from previous Micro Miniatures games[^ref-2][^ref-5].
+Despite featuring improved graphics and expanded formation and attack options compared to earlier entries in the series, Fort Apache received mixed reviews from contemporary gaming publications[^ref-2][^ref-5]. Critics noted that while the historical premise remained engaging, persistent issues with the user interface and AI carried over from previous Micro Miniatures games[^ref-2][^ref-5].[^ref-7][^ref-8][^ref-9]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-6]
@@ -65,7 +65,7 @@ Fort Apache builds upon its predecessors by offering more formation options and 
 
 As a turn-based strategy game, Fort Apache focuses on tactical combat mechanics rather than traditional puzzle-solving[^ref-1]. Players must manage unit positioning, formation arrangements, and attack timing to overcome enemy forces[^ref-1][^ref-2].
 
-The game's mechanics draw heavily from the established Micro Miniatures formula, which critics noted made it "virtually identical" to Rorke's Drift and Charge of The Light Brigade in terms of core gameplay[^ref-2][^ref-5]. The primary differences between the games lie in their historical settings, visual presentation of units (described as different "unit clothes"), and thematic premises[^ref-2][^ref-5].
+The game's mechanics draw heavily from the established Micro Miniatures formula, which critics noted made it "virtually identical" to Rorke's Drift and Charge of The Light Brigade in terms of core gameplay[^ref-2][^ref-5]. The primary differences between the games lie in their historical settings, visual presentation of units (described as different "unit clothes"), and thematic premises[^ref-2][^ref-5].[^ref-19]
 
 ## Reception
 
@@ -128,7 +128,7 @@ The development approach prioritized iterative improvement over the existing Mic
 
 ### Technical Issues
 
-The game's user interface was consistently cited as problematic across reviews[^ref-2][^ref-5]. Critics noted that the "muddled user interface" persisted from earlier Micro Miniatures games without meaningful improvements[^ref-2]. Additionally, the AI controlling enemy forces was considered insufficiently advanced, failing to provide compelling tactical challenges despite the expanded player options[^ref-2][^ref-5].
+The game's user interface was consistently cited as problematic across reviews[^ref-2][^ref-5]. Critics noted that the "muddled user interface" persisted from earlier Micro Miniatures games without meaningful improvements[^ref-2]. Additionally, the AI controlling enemy forces was considered insufficiently advanced, failing to provide compelling tactical challenges despite the expanded player options[^ref-2][^ref-5].[^ref-10]
 
 ### Easter Eggs and Trivia
 
@@ -202,11 +202,6 @@ The game's mixed reception reflects the tensions between promising premises and 
 [^ref-8]: [IGDB – Fort Apache](https://www.igdb.com/games/fort-apache) – Internet Games Database entry with release info
 [^ref-9]: [GameFAQs – Fort Apache](https://gamefaqs.gamespot.com/pc/564432-fort-apache) – game database entry
 [^ref-10]: [Hall of Light – Fort Apache](https://hol.abime.net/1653) – Amiga database with technical details
-[^ref-11]: [Retro Games CC – Fort Apache](https://www.retrogames.cz/play_064-DOS.php) – browser playable version
-[^ref-12]: [DOS Zone – Fort Apache](https://dos.zone/fort-apache-1992/) – DOS emulation and game information
-[^ref-13]: [Archive.org – Fort Apache Manual](https://archive.org/details/fort-apache-manual) – original game documentation
-[^ref-14]: [World of Spectrum – Micro Miniatures](https://worldofspectrum.org/) – series context and wargame history
-[^ref-15]: [Abandonia – Fort Apache](https://www.abandonia.com/en/games/30785/Fort+Apache.html) – abandonware preservation
 [^ref-16]: [ClassicReload – Fort Apache](https://classicreload.com/fort-apache.html) – browser emulation
 [^ref-17]: [Abandonware France – Fort Apache](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2315) – French preservation site
 [^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data

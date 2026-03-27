@@ -28,7 +28,7 @@ SWAT Force is a mobile tactical action game[^ref-1][^ref-11][^ref-12] released o
 
 The game takes the form of a 2D side-scroller[^ref-3][^ref-5][^ref-12] featuring two-man team gameplay[^ref-3][^ref-4][^ref-12] across seven missions[^ref-3][^ref-6]. Players control two distinct SWAT operatives—an artilleryman and an expert[^ref-4][^ref-5]—each with specialized abilities suited to different tactical situations[^ref-4][^ref-5][^ref-12]. Despite the inherent limitations of mobile gaming hardware in 2006[^ref-3][^ref-6], SWAT Force was generally well-received by critics[^ref-1][^ref-6], with GameSpot calling it "a surprisingly good translation of the tactical shooting experience on PC to a mobile format"[^ref-3].
 
-As a spin-off of the long-running Police Quest series[^ref-11][^ref-12], SWAT Force brought the franchise to an entirely new audience and platform[^ref-1][^ref-2], though its compact design meant players could complete all missions in approximately one hour[^ref-3][^ref-6]. The game utilized the licensed SWAT trademark from the LAPD[^ref-4], maintaining the series' commitment to authentic law enforcement representation[^ref-4][^ref-11].
+As a spin-off of the long-running Police Quest series[^ref-11][^ref-12], SWAT Force brought the franchise to an entirely new audience and platform[^ref-1][^ref-2], though its compact design meant players could complete all missions in approximately one hour[^ref-3][^ref-6]. The game utilized the licensed SWAT trademark from the LAPD[^ref-4], maintaining the series' commitment to authentic law enforcement representation[^ref-4][^ref-11].[^ref-10][^ref-13][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Kaolink[^ref-1][^ref-7][^ref-11]
@@ -83,7 +83,7 @@ Pocket Gamer offered a more critical assessment[^ref-5], with reviewer Fraser Ma
 
 ### Modern Assessment
 
-The game received "average" reviews according to the review aggregation website GameRankings[^ref-1], which compiled a score of 66%[^ref-1]. This aggregate score reflects the mixed reception[^ref-1][^ref-6], where impressive visuals[^ref-3][^ref-5] and faithful adaptation of the SWAT formula[^ref-6] were offset by technical issues[^ref-3][^ref-5] and limited content[^ref-3][^ref-6].
+The game received "average" reviews according to the review aggregation website GameRankings[^ref-1], which compiled a score of 66%[^ref-1]. This aggregate score reflects the mixed reception[^ref-1][^ref-6], where impressive visuals[^ref-3][^ref-5] and faithful adaptation of the SWAT formula[^ref-6] were offset by technical issues[^ref-3][^ref-5] and limited content[^ref-3][^ref-6].[^ref-14]
 
 **Aggregate Scores:**
 - **GameRankings:** 66%[^ref-1]

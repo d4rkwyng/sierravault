@@ -25,7 +25,7 @@ Red Baron 2013 Remake was an ambitious but ultimately unsuccessful attempt by [[
 
 The Kickstarter campaign for the remake launched on October 22, 2013, seeking $250,000 in funding to bring the project to fruition[^ref-2]. Despite the legendary status of the original game—which had sold more than 500,000 units worldwide and earned Computer Gaming World's 1991 Simulation of the Year award[^ref-4]—the crowdfunding effort failed dramatically, raising only $40,493 before being cancelled[^ref-5]. The developers acknowledged several missteps, including failing to build a community before launch and presenting the game with graphics that looked "a little arcade-ey" rather than conveying the "living history, interactive history" aesthetic they intended[^ref-1].
 
-Following the failed Kickstarter, Slye's team regrouped and continued development, later seeking a more modest $50,000 for a prototype with a planned 2016 release[^ref-1]. The project was listed on Steam Greenlight and aimed for a November 2014 release, though this version was ultimately cancelled as well[^ref-6]. The remake was planned to be DRM-free for single-player content with no subscriptions and no pay-to-win elements[^ref-7].
+Following the failed Kickstarter, Slye's team regrouped and continued development, later seeking a more modest $50,000 for a prototype with a planned 2016 release[^ref-1]. The project was listed on Steam Greenlight and aimed for a November 2014 release, though this version was ultimately cancelled as well[^ref-6]. The remake was planned to be DRM-free for single-player content with no subscriptions and no pay-to-win elements[^ref-7].[^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Mad Otter Games[^ref-2]
@@ -202,7 +202,6 @@ The failure of the Red Baron 2013 Remake represents a cautionary tale about the 
 The project's failure highlighted several key lessons for game revivals: the importance of community building before crowdfunding campaigns, the critical role of visual presentation in demonstrating a game's potential, and the difficulty of recapturing lightning in a bottle. As one community member philosophically noted after the Kickstarter's cancellation: "Thank god you can still play the original one!"[^ref-5]
 
 The original Red Baron continues to be celebrated as a notable achievement. One reviewer declared it "the best dogfighting game the PC has ever seen, bar none"[^ref-3], while another stated that "this game represents a ground-breaking achievement in computer air combat simulation"[^ref-3]. The remake's cancellation ensures that these accolades remain attached to the 1990 original rather than being passed to a successor.
-
 
 ## Purchase
 

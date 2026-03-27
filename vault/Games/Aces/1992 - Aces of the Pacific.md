@@ -23,7 +23,7 @@ tags: [1990s, aces-series, sierra, simulation]
 
 Aces of the Pacific is a World War II combat flight simulator developed by Dynamix and published by Sierra On-Line in 1992[^ref-1]. Created by renowned flight sim designer Damon Slye, the game transports players to the Pacific Theater of World War II, where they can experience aerial combat from December 7, 1941, through the end of the war[^ref-2]. The game allows players to fly for either the Allied or Japanese forces, featuring over 25 meticulously researched vintage aircraft including the A6M Zero, F4U Corsair, F6F Hellcat, and P-47 Thunderbolt[^ref-2].
 
-Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroshi Nishizawa, and America's highest-ranking ace Richard Bong[^ref-2]. The game's success led Dynamix to create the acclaimed follow-up Aces Over Europe in 1993[^ref-3], establishing what would become one of the most respected flight simulation franchises of the era.
+Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroshi Nishizawa, and America's highest-ranking ace Richard Bong[^ref-2]. The game's success led Dynamix to create the acclaimed follow-up Aces Over Europe in 1993[^ref-3], establishing what would become one of the most respected flight simulation franchises of the era.[^ref-20][^ref-27][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Damon Slye]][^ref-4]
@@ -111,7 +111,6 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 
-
 ## Downloads
 
 **Download / Preservation**
@@ -129,7 +128,7 @@ The Sierra Chest archives provide extensive documentation of the game's various 
 
 Aces of the Pacific established Dynamix as a premier developer of military flight simulations and directly led to the creation of Aces Over Europe in 1993[^ref-3]. The game's influence extended beyond its immediate sequel, with the series noted for having "the absolute best record/playback mission deck and video edit interface" that allowed players to create sophisticated mission recordings[^ref-4].
 
-The title's impact on flight simulation gaming remains significant, with modern players still praising its atmospheric presentation and historical authenticity[^ref-4]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19].
+The title's impact on flight simulation gaming remains significant, with modern players still praising its atmospheric presentation and historical authenticity[^ref-4]. Community-created content continues to be preserved and distributed through archive sites, demonstrating the game's lasting appeal among flight simulation enthusiasts[^ref-18]. The game also faced some technical challenges with DOSBox compatibility, experiencing input control issues similar to other period flight simulators when run on modern systems[^ref-19].[^ref-26]
 
 ## References
 
@@ -160,8 +159,3 @@ The title's impact on flight simulation gaming remains significant, with modern 
 [^ref-26]: [Sierra Help - DOSBox Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – - Modern compatibility support
 [^ref-27]: [MobyGames - Cover Gallery](https://www.mobygames.com/game/1419/aces-of-the-pacific/cover/group-61497/cover-355625/) – - Packaging materials
 [^ref-28]: [MobyGames - Patch Information](https://www.mobygames.com/game/1420/aces-of-the-pacific-expansion-disk-wwii-1946/patches/) – - Update status
-[^ref-29]: [MobyGames - Series Information](https://www.mobygames.com/game-group/aces-of-the-pacific-series) – - Franchise details
-[^ref-30]: [GOG Forum - Pacific Strike Discussion](https://www.gog.com/forum/strike_commander/does_anyone_remember_pacific_strike) – - Related game comparison
-[^ref-31]: [Internet Archive - Floppy Collection](https://archive.org/details/001352-AcesOfThePacific) – - Physical media preservation
-[^ref-32]: [Internet Archive - DOS Collection](https://archive.org/details/RBAOEAOP) – - DOS version archive
-[^ref-33]: [AeroScale Review](https://archive.aeroscale.net/review/2525/index.htm) – - Aviation publication coverage

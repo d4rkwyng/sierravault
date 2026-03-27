@@ -19,7 +19,7 @@ last_updated: '2026-02-04'
 
 **Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2]
 
-The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2]
+The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Seattle[^ref-1]
@@ -70,7 +70,7 @@ The game was noted as an excellent entry point for players unfamiliar with the o
 
 ### Awards
 
-Carcassonne was recognized as one of the stronger board game adaptations on Xbox Live Arcade during the service's early years.[^ref-3]
+Carcassonne was recognized as one of the stronger board game adaptations on Xbox Live Arcade during the service's early years.[^ref-3][^ref-5][^ref-8][^ref-10]
 
 ## Development
 
@@ -88,7 +88,7 @@ Additional expansion packs based on the physical board game expansions were rele
 - **"The River"** - Included at launch[^ref-2]
 - **"King & Baron"** - Available as DLC[^ref-1]
 
-Sierra Online announced plans for additional expansions including "Inns & Cathedrals" and "The Tower," though the availability of these varied by region.[^ref-1]
+Sierra Online announced plans for additional expansions including "Inns & Cathedrals" and "The Tower," though the availability of these varied by region.[^ref-1][^ref-7][^ref-17]
 
 ## Legacy
 
@@ -132,7 +132,6 @@ The original Xbox 360 XBLA version may no longer be available due to marketplace
 [^ref-9]: [Carcassonne for Xbox 360 - GameFAQs](https://gamefaqs.gamespot.com/xbox360/935186-carcassonne) - GameFAQs game page
 [^ref-10]: [Carcassonne Review - GameSpot](https://www.gamespot.com/reviews/carcassonne-review/1900-6173330/) - GameSpot review
 [^ref-11]: [Carcassonne builds out XBLA - GameSpot](https://www.gamespot.com/articles/carcassonne-builds-out-xbla/1100-6173055/) - Announcement article
-[^ref-12]: [Xbox Live Arcade - Wikipedia](https://en.wikipedia.org/wiki/Xbox_Live_Arcade) - XBLA platform history
 [^ref-13]: [Carcassonne FAQ - GameFAQs](https://gamefaqs.gamespot.com/xbox360/935186-carcassonne/faqs/50178) - Game guide and information
 [^ref-14]: [Carcassonne - TrueAchievements](https://www.trueachievements.com/game/Carcassonne) - Publisher: Sierra Entertainment, Xbox Game Studios
 [^ref-16]: [Xbox 360 Preview - Carcassonne - WorthPlaying](https://www.worthplaying.com/article/2007/5/15/previews/42023-xbox-360-preview-carcassonne/) - Preview article, confirms Sierra Online publisher/developer

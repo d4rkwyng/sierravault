@@ -26,7 +26,7 @@ Half-Life: Counter-Strike is a 2000 tactical first-person shooter game developed
 
 Counter-Strike fundamentally changed how people think about first-person shooters and online gaming in general, surpassing even genre-defining titles like Quake and Unreal Tournament in popularity.[^ref-3] At its peak, the game maintained a weekly average of 1.2 million players four years after its initial release, cementing its status as the most popular action game in the world.[^ref-3] The franchise has since sold over 25 million units across all iterations over its more than two-decade history.[^ref-4]
 
-The gameplay formula proved so compelling that critics widely praised its emphasis on teamwork and strategy, with GameRevolution declaring it "the best multi-player game of 2000, bar none."[^ref-5] The game immersed players in what Sierra described as "the frighteningly intense world of Counter-Terrorism," where team-based gameplay cast players in roles that required tactical coordination and quick reflexes to succeed.[^ref-6]
+The gameplay formula proved so compelling that critics widely praised its emphasis on teamwork and strategy, with GameRevolution declaring it "the best multi-player game of 2000, bar none."[^ref-5] The game immersed players in what Sierra described as "the frighteningly intense world of Counter-Terrorism," where team-based gameplay cast players in roles that required tactical coordination and quick reflexes to succeed.[^ref-6][^ref-52][^ref-54][^ref-56]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
@@ -45,7 +45,7 @@ Unlike traditional first-person shooters, Counter-Strike eschews any narrative c
 
 The game operates within a realistic framework depicting a duel between police forces and terrorists across various global settings.[^ref-11] Players choose to join either the Terrorist (T) or Counter-Terrorist (CT) faction, with each side having distinct objectives depending on the map type.[^ref-2] The absence of a narrative was a deliberate design choice that allowed the game to focus entirely on competitive multiplayer mechanics, with the "story" emerging organically from each round's tactical encounters.
 
-The game's scenarios are designed around real-world counter-terrorism situations, with equipment and weapons modeled after their actual counterparts.[^ref-12] This grounding in reality, combined with the complete absence of single-player content, represented a significant departure from the genre conventions of the era and helped establish Counter-Strike as more of a competitive sport than a traditional video game experience.[^ref-9]
+The game's scenarios are designed around real-world counter-terrorism situations, with equipment and weapons modeled after their actual counterparts.[^ref-12] This grounding in reality, combined with the complete absence of single-player content, represented a significant departure from the genre conventions of the era and helped establish Counter-Strike as more of a competitive sport than a traditional video game experience.[^ref-9][^ref-57][^ref-58]
 
 ## Gameplay
 
@@ -72,7 +72,7 @@ The retail version shipped with 13 official maps plus one scripted training miss
 
 Rather than traditional puzzles, Counter-Strike's challenge comes from its tactical depth and weapon mastery requirements.[^ref-8] Players can carry one primary weapon, one secondary weapon, one HE grenade, and up to two flashbang grenades at any time.[^ref-15] Weapon selection is crucial—silencing certain weapons increases accuracy and provides the element of surprise, making tactical choices as important as aiming skill.[^ref-14]
 
-The game features realistic damage modeling where players cannot simply absorb multiple bullet hits and continue fighting.[^ref-20] This encourages use of cover, team coordination, and tactical approaches rather than run-and-gun gameplay. Money management across rounds adds a strategic layer, as teams must decide when to save resources for future rounds versus fully equipping for the current engagement.
+The game features realistic damage modeling where players cannot simply absorb multiple bullet hits and continue fighting.[^ref-20] This encourages use of cover, team coordination, and tactical approaches rather than run-and-gun gameplay. Money management across rounds adds a strategic layer, as teams must decide when to save resources for future rounds versus fully equipping for the current engagement.[^ref-51]
 
 ## Reception
 
@@ -88,7 +88,7 @@ The Xbox port, released in 2003 and developed by Ritual Entertainment, received 
 
 ### Modern Assessment
 
-Counter-Strike's legacy has only grown over time, with the game widely recognized as one of the highly influential titles in gaming history. Academic research has examined Counter-Strike as "a significant and enduring online phenomenon, attracting a diverse array of players, teams, and organizations."[^ref-24] The game maintained over 280,000 simultaneous players years after release and fostered a competitive community that helped establish esports as a legitimate sporting endeavor.[^ref-24]
+Counter-Strike's legacy has only grown over time, with the game widely recognized as one of the highly influential titles in gaming history. Academic research has examined Counter-Strike as "a significant and enduring online phenomenon, attracting a diverse array of players, teams, and organizations."[^ref-24] The game maintained over 280,000 simultaneous players years after release and fostered a competitive community that helped establish esports as a legitimate sporting endeavor.[^ref-24][^ref-53]
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 88/100 (11 reviews)[^ref-21]
@@ -276,7 +276,7 @@ Counter-Strike represents a watershed moment in gaming history, demonstrating th
 
 The game's influence on competitive gaming cannot be overstated. Counter-Strike essentially helped create modern esports, establishing the format, culture, and infrastructure that professional gaming continues to build upon today.[^ref-24] Its emphasis on team coordination and tactical depth over individual twitch reflexes created a template that countless tactical shooters have since attempted to replicate.[^ref-17]
 
-From a design perspective, Counter-Strike's success stemmed from its elegant simplicity. The core loop of team-based objective play with persistent round-to-round economy created emergent strategic depth from relatively straightforward mechanics.[^ref-9] As one MobyGames reviewer noted, "The best Artificial Intelligence (AI) in gaming is called Human Intelligence"—Counter-Strike's genius was recognizing that human opponents provided infinite replayability that no scripted campaign could match.[^ref-25]
+From a design perspective, Counter-Strike's success stemmed from its elegant simplicity. The core loop of team-based objective play with persistent round-to-round economy created emergent strategic depth from relatively straightforward mechanics.[^ref-9] As one MobyGames reviewer noted, "The best Artificial Intelligence (AI) in gaming is called Human Intelligence"—Counter-Strike's genius was recognizing that human opponents provided infinite replayability that no scripted campaign could match.[^ref-25][^ref-55]
 
 ## Purchase
 

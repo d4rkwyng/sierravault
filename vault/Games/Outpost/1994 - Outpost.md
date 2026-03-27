@@ -25,7 +25,7 @@ Outpost is a city-building and colony management simulation game developed and p
 
 The game was designed by Bruce Balfour, a former Systems Manager at NASA's Ames Research Center, who brought authentic scientific expertise to the project[^ref-4]. Outpost was noteworthy for its hard science fiction approach, deliberately avoiding standard sci-fi technologies like faster-than-light travel, force fields, cloaking devices, or teleportation[^ref-5]. Despite receiving some of the highest review scores of 1994 upon release, the game became infamous as one of the most troubled releases in gaming history—shipped incomplete with numerous bugs, missing features, and an essentially unbeatable endgame[^ref-1].
 
-The controversy surrounding Outpost represents one of the earliest major gaming journalism scandals, as reviewers had evaluated an unfinished beta version containing features that never made it into the retail product[^ref-3]. Computer Gaming World would later name it the "Worst Game of All Time" in their 15th anniversary issue, awarding it just 20 out of 100 points[^ref-1].
+The controversy surrounding Outpost represents one of the earliest major gaming journalism scandals, as reviewers had evaluated an unfinished beta version containing features that never made it into the retail product[^ref-3]. Computer Gaming World would later name it the "Worst Game of All Time" in their 15th anniversary issue, awarding it just 20 out of 100 points[^ref-1].[^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]

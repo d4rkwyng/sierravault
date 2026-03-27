@@ -23,7 +23,7 @@ The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preservi
 
 Led by key members DaRaSCo and kikems (of AmigaWave), the SCP has developed techniques to extract, modify, and re-inject improved graphics back into Sierra's SCI engine games.[^ref-2] Their work addresses a long-standing frustration in the retro gaming community—Sierra's Amiga ports were widely considered among the worst conversions of the era, with fans describing the original Space Quest IV Amiga version as causing them to "vomit at the non-amiga-worthy graphics" and "swear at the arrogance of Sierra for releasing a daft excuse for a port."[^ref-3]
 
-The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-1][^ref-4][^ref-5]
+The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-1][^ref-4][^ref-5][^ref-7][^ref-11][^ref-12][^ref-8][^ref-9][^ref-10]
 
 > [!info]- Project Info
 > **Group:** Sierra Conversion Project (SCP)
@@ -147,7 +147,7 @@ The Sierra Gaming World Facebook group has been instrumental in spreading awaren
 
 English Amiga Board discussions have praised the technical achievement of the SCP's approach, with community members noting that the enhanced versions finally address decades-old frustrations with Sierra's poor Amiga ports.[^ref-6] AmigaWave's coverage of the project highlighted the artistic craftsmanship involved in palette optimization and sprite enhancement, describing the work as "forensic-level restoration of what Sierra should have delivered in the first place."[^ref-1]
 
-The rapid release schedule (three major games in six weeks from January 3–15, 2026) generated sustained momentum within the retro gaming community, with backers and preservation enthusiasts celebrating each release as a milestone in Sierra fan history.[^ref-1][^ref-2][^ref-3]
+The rapid release schedule (three major games in six weeks from January 3–15, 2026) generated sustained momentum within the retro gaming community, with backers and preservation enthusiasts celebrating each release as a milestone in Sierra fan history.[^ref-1][^ref-2][^ref-3][^ref-15]
 
 ## Legacy
 

@@ -19,12 +19,11 @@ tags: [2020s, adventure, quest-for-infamy, rpg, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 *Quest for Infamy: Roehm to Ruin* is a point-and-click adventure RPG developed by [[Infamous Quests]] serving as a prequel to their 2014 title *Quest for Infamy*.[^ref-1] The game follows the story behind protagonist Mr. Roehm's escape from the Baron's Castle, exploring the fateful events that led him to flee to the Valley of Krasna where the original game begins.[^ref-2] After years in development, the game entered its final stages with voice recording sessions with lead actor Steve Patrick expected to complete production.[^ref-3]
 
-The prequel was first announced alongside *Order of the Thorne: The King's Challenge* during a dual Kickstarter campaign in April 2015, which successfully raised $30,943 against an $11,225 goal with support from 836 backers.[^ref-4] Like its predecessor, *Roehm to Ruin* draws heavy inspiration from Sierra's *Quest for Glory* series while maintaining the morally ambiguous anti-hero perspective that distinguished the original game.[^ref-5] The game promises multiple story paths with different endings and hidden secrets, offering meaningful choices that affect the storyline.[^ref-6]
+The prequel was first announced alongside *Order of the Thorne: The King's Challenge* during a dual Kickstarter campaign in April 2015, which successfully raised $30,943 against an $11,225 goal with support from 836 backers.[^ref-4] Like its predecessor, *Roehm to Ruin* draws heavy inspiration from Sierra's *Quest for Glory* series while maintaining the morally ambiguous anti-hero perspective that distinguished the original game.[^ref-5] The game promises multiple story paths with different endings and hidden secrets, offering meaningful choices that affect the storyline.[^ref-6][^ref-17][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-1]
@@ -165,7 +164,7 @@ The game itself represents the continuation of a tradition rooted in fan develop
 
 *Quest for Infamy: Roehm to Ruin* represents an interesting case study in independent adventure game development. The extended development timeline—from 2015 announcement to expected 2026 release—illustrates the challenges facing small studios attempting to maintain commercial viability while delivering on crowdfunded promises.[^ref-3]
 
-The game stands as part of a broader movement of Sierra-inspired spiritual successors that emerged in the 2010s.[^ref-9] Adventure Gamers noted that the original *Quest for Infamy* "really channeled those influences and created a surprisingly authentic-feeling new title," suggesting the prequel may maintain this quality.[^ref-11] The deliberate choice to portray an anti-hero rather than a traditional protagonist distinguishes the series within the genre, offering a morally gray perspective uncommon in classic-style adventure games.[^ref-5]
+The game stands as part of a broader movement of Sierra-inspired spiritual successors that emerged in the 2010s.[^ref-9] Adventure Gamers noted that the original *Quest for Infamy* "really channeled those influences and created a surprisingly authentic-feeling new title," suggesting the prequel may maintain this quality.[^ref-11] The deliberate choice to portray an anti-hero rather than a traditional protagonist distinguishes the series within the genre, offering a morally gray perspective uncommon in classic-style adventure games.[^ref-5][^ref-20]
 
 ## Downloads
 
@@ -194,7 +193,6 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 - [[2022 - SpaceVenture]]
 - [[2023 - Colossal Cave 3D Adventure]]
 - [[2023 - Summer Daze - Tilly's Tale]]
-
 
 ## References
 

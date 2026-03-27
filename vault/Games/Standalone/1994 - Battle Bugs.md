@@ -25,7 +25,7 @@ Battle Bugs is a unique real-time tactics video game developed by Epyx, Inc. and
 
 The game was created by Dennis Caswell, the legendary designer behind classics like *Impossible Mission* and *Pitstop II*.[^ref-3] Battle Bugs stood out in the crowded 1994 strategy market through its irreverent humor and parody of military conventions, featuring elements like the fictional military leader "Winston Anthill" declaring "We will fight in the pizza. We will fight in the cookies. We will fight in the coleslaw. We will never give up."[^ref-4] The front cover itself spoofs the famous World War II photograph *Raising the Flag on Iwo Jima*, depicting cockroaches raising a flag above pepperoni carnage.[^ref-1]
 
-Following its initial DOS release, Battle Bugs was later ported to the PlayStation, releasing in Japan on September 18, 1997 through Manning Co., Ltd.[^ref-5] The game found renewed life in 2020 when Pixel Games UK brought it to Steam, introducing the classic tactical experience to modern audiences.[^ref-3]
+Following its initial DOS release, Battle Bugs was later ported to the PlayStation, releasing in Japan on September 18, 1997 through Manning Co., Ltd.[^ref-5] The game found renewed life in 2020 when Pixel Games UK brought it to Steam, introducing the classic tactical experience to modern audiences.[^ref-3][^ref-28][^ref-29]
 
 > [!info]- Game Info
 > **Developer:** Epyx, Inc.[^ref-1]
@@ -194,7 +194,7 @@ Earlier DOS versions had documented compatibility issues:[^ref-17]
 - Game locks when pressing DONE button after selecting Sound Blaster Pro in copy protection screen
 - DOSBox 0.65 reported to work better than version 0.73 for some users
 
-The *Game Bytes Magazine* review warned players about using disk caching in extended memory.[^ref-9]
+The *Game Bytes Magazine* review warned players about using disk caching in extended memory.[^ref-9][^ref-30]
 
 ### Easter Eggs and Trivia
 
@@ -246,7 +246,6 @@ The game's enduring appeal is evidenced by the passionate community requests on 
 ## Soundtrack
 
 The PlayStation soundtrack consists of 14 tracks with a total runtime of approximately 18 minutes.[^ref-24] Music and sound were produced by Byte-Size Sound Inc., with additional sound work by Halestorm, Inc. and THE Audio Solution Inc.[^ref-5]
-
 
 ## Purchase
 

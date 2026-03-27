@@ -27,7 +27,7 @@ Conqueror: A.D. 1086 is an ambitious hybrid strategy, role-playing, and action g
 
 The game distinguished itself through its multi-genre approach, combining strategic territory management with first-person combat sequences, jousting tournaments, castle building, and RPG character development elements[^ref-4]. Players start as a 12-year-old boy with only money and a basic sword, and must develop their character and domain before their 30th birthday—the maximum life expectancy of a male during the 11th century—when all games end regardless of progress[^ref-2]. Despite its innovative concept and impressive SVGA graphics that were described as "magically evocative, almost Tolkien-esque," the game received mixed reviews due to gameplay issues that many felt failed to match its visual ambitions[^ref-5].
 
-Modern gaming enthusiasts often cite Conqueror: A.D. 1086 as "the grandfather to Mount and Blade" due to its pioneering combination of first-person medieval combat with strategic empire-building elements[^ref-3]. The game was re-released digitally on GOG.com on November 8, 2017, allowing a new generation of players to experience this unique title[^ref-6].
+Modern gaming enthusiasts often cite Conqueror: A.D. 1086 as "the grandfather to Mount and Blade" due to its pioneering combination of first-person medieval combat with strategic empire-building elements[^ref-3]. The game was re-released digitally on GOG.com on November 8, 2017, allowing a new generation of players to experience this unique title[^ref-6].[^ref-20][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** Software Sorcery[^ref-1]
@@ -77,7 +77,7 @@ The economic management system forms the foundation of gameplay, requiring playe
 
 Tournament mechanics center on jousting, where players must carefully control their lance position for successful strikes[^ref-14]. A notable exploit exists where keeping the lance exactly in its starting position when entering the joust combat screen will result in winning all jousts[^ref-14]. The romance system allows players to court multiple ladies, each requiring different approaches based on their individual preferences[^ref-6].
 
-The diplomacy system enables players to form alliances and negotiate peace treaties with neighboring lords[^ref-13]. Combat in RTS army sequences presents challenges, as AI soldiers have been noted to ignore orders after approximately 8 seconds[^ref-3].
+The diplomacy system enables players to form alliances and negotiate peace treaties with neighboring lords[^ref-13]. Combat in RTS army sequences presents challenges, as AI soldiers have been noted to ignore orders after approximately 8 seconds[^ref-3].[^ref-19]
 
 ## Reception
 
@@ -274,4 +274,3 @@ Despite its critical reception as a game where presentation exceeded substance, 
 [^ref-20]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/85600-conqueror-ad-1086) – ESRB rating, gameplay description, genre
 [^ref-21]: [ChapterCheats – Conqueror 1086 AD](https://www.chaptercheats.com/cheats/pc/1137/conqueror-1086-ad-cheat-codes) – ESRB rating, genre, hint contribution
 [^ref-22]: [KHInsider – Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/conqueror-ad-1086-msdos-gamerip-1995) – audio track count, total duration
-[^ref-23]: [OldPCGaming.net Review](https://oldpcgaming.net/conqueror-a-d-1086/) – detailed critique, system requirements, Defender of the Crown comparison

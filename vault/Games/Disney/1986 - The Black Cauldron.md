@@ -23,7 +23,7 @@ tags: [1980s, adventure, agi, al-lowe, 'null', roberta-williams, sierra]
 
 The Black Cauldron is a 1986 adventure game developed by Sierra On-Line in collaboration with Disney[^ref-1]. Created by designer Al Lowe, who would later become famous for the Leisure Suit Larry series, this was Sierra's second movie-licensed game and represented a unique partnership between the computer game industry and Disney animation[^ref-2]. Based on Disney's 1985 animated film of the same name, which was itself adapted from Lloyd Alexander's Chronicles of Prydain novel series, the game featured an innovative simplified interface designed specifically to make adventure gaming more accessible to children[^ref-3].
 
-The game was notable for being "the last of the pre-Michael Eisner Disney animated feature-length movies" and marked Disney's early experimental foray into computer software development[^ref-4]. Sierra was chosen for the project because "Disney had no software developers back then and had seen Al Lowe's very early game, 'Troll's Tale.' They asked him to do a movie spinoff using its simplified Spacebar & Enter key-only interface"[^ref-4].
+The game was notable for being "the last of the pre-Michael Eisner Disney animated feature-length movies" and marked Disney's early experimental foray into computer software development[^ref-4]. Sierra was chosen for the project because "Disney had no software developers back then and had seen Al Lowe's very early game, 'Troll's Tale.' They asked him to do a movie spinoff using its simplified Spacebar & Enter key-only interface"[^ref-4].[^ref-26][^ref-27]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -106,7 +106,6 @@ The collaboration between Sierra and Disney also marked an early example of succ
 While the original game is no longer commercially available, Al Lowe "generously released this game as freeware"[^ref-7], ensuring its preservation for future generations of players. This act of generosity by the original designer ensured the game would not be lost to time, making it permanently accessible to adventure game enthusiasts and historians.
 
 The game has inspired fan remakes, including an AGS (Adventure Game Studio) version that received positive reception from the adventure gaming community[^ref-18]. Modern players often praise the game's accessibility and note that it may "actually best the King's Quest games" in terms of approachability "even though it's not quite as groundbreaking"[^ref-13]. The longevity of fan interest demonstrates that the game's core design remains sound despite its age and simpler interface compared to modern standards.
-
 
 ### ### Animated Adventure Aesthetics
 

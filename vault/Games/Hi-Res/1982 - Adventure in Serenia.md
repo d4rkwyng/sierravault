@@ -24,7 +24,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 
 Adventure in Serenia stands as a pivotal title in adventure gaming history, representing "the first of On-Line Systems' pictorial adventures for the IBM Personal Computer"[^ref-15]. Originally released as "Hi-Res Adventure #2: The Wizard and the Princess" for the Apple II in September 1980[^ref-6], the game was later ported to the IBM PC in 1982 under the new title "Adventure in Serenia"[^ref-3]. This groundbreaking adventure game combined text-based commands with color graphics, making it "one of the first adventure games to feature color graphics"[^ref-6] and establishing it as a precursor to Sierra's legendary King's Quest series[^ref-26].
 
-The game tells the fairy tale story of a brave wanderer who must rescue Princess Priscilla from the evil wizard Harlin. As one review colorfully described it: "Before heroes had inventory screens and voice acting, there was Adventure in Serenia, the lovechild of a text parser and a fever dream"[^ref-1]. Despite its historical significance as "one of the earliest graphical adventure games"[^ref-24], the title is often overshadowed by its successors, earning the assessment that "It's history, with a side of headache"[^ref-1] from modern players encountering its challenging text parser interface.
+The game tells the fairy tale story of a brave wanderer who must rescue Princess Priscilla from the evil wizard Harlin. As one review colorfully described it: "Before heroes had inventory screens and voice acting, there was Adventure in Serenia, the lovechild of a text parser and a fever dream"[^ref-1]. Despite its historical significance as "one of the earliest graphical adventure games"[^ref-24], the title is often overshadowed by its successors, earning the assessment that "It's history, with a side of headache"[^ref-1] from modern players encountering its challenging text parser interface.[^ref-16][^ref-17][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-3]
@@ -55,7 +55,7 @@ The game world was structured around approximately 200 location illustrations[^r
 
 ### Puzzles and Mechanics
 
-Adventure in Serenia's puzzle design reflected the experimental nature of early adventure games. As one retrospective analysis noted: "There are lots of interesting elements drawn from fairy tales and fantasy, but the plotting is almost non-existent, few meaningful clues are provided, and many of the puzzles depend on trying random actions until something works"[^ref-9]. The game's designer approach meant that "Williams' games tend to be imaginative and colorful but loosely, even randomly, structured"[^ref-9], creating challenges that often frustrated players but also contributed to the game's memorable difficulty.
+Adventure in Serenia's puzzle design reflected the experimental nature of early adventure games. As one retrospective analysis noted: "There are lots of interesting elements drawn from fairy tales and fantasy, but the plotting is almost non-existent, few meaningful clues are provided, and many of the puzzles depend on trying random actions until something works"[^ref-9]. The game's designer approach meant that "Williams' games tend to be imaginative and colorful but loosely, even randomly, structured"[^ref-9], creating challenges that often frustrated players but also contributed to the game's memorable difficulty.[^ref-22]
 
 ## Reception
 
@@ -98,7 +98,7 @@ However, the IBM PC port faced technical challenges. The CGA graphics mode used 
 
 ### Audio Design
 
-The game's music was composed by Ken Allen and Al Lowe[^ref-31], who would go on to become prominent figures in Sierra's sound design. The audio supported multiple platforms including Atari ST, Commodore 64, and PC systems, with audio quality varying significantly based on the target hardware's capabilities. The Commodore 64 version featured distinctly different sound due to the platform's SID chip limitations, while the PC booter and Atari versions showcased what their respective sound hardware could deliver during the early 1980s.
+The game's music was composed by Ken Allen and Al Lowe[^ref-31], who would go on to become prominent figures in Sierra's sound design. The audio supported multiple platforms including Atari ST, Commodore 64, and PC systems, with audio quality varying significantly based on the target hardware's capabilities. The Commodore 64 version featured distinctly different sound due to the platform's SID chip limitations, while the PC booter and Atari versions showcased what their respective sound hardware could deliver during the early 1980s.[^ref-13][^ref-21][^ref-27]
 
 ## Legacy
 
@@ -159,12 +159,7 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 [^ref-20]: [RetroGames.cz](https://www.retrogames.cz/play_1146-DOS.php) – - Game information and Wikipedia summary
 [^ref-21]: [ScummVM Wiki](https://wiki.scummvm.org/index.php?title=Wizard_and_the_Princess&mobileaction=toggle_view_desktop) – - Technical compatibility documentation
 [^ref-22]: [Serenia Fantasy Wiki](https://sereniafantasy.fandom.com/wiki/Classes) – - Fan documentation of related game mechanics
-[^ref-23]: [Sierra Wiki - Hi-Res Adventure](https://sierra.fandom.com/wiki/Hi-Res_Adventure) – - Series documentation confirming alternate title
 [^ref-24]: [Sierra Wiki - Wizard and Princess](https://sierra.fandom.com/wiki/Wizard_and_the_Princess) – - Plot details and King's Quest connections
-[^ref-25]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=195&title=wizard-and-the-princess&fld=walkthrough&pid=100) – - Fan site walkthrough and specifications
 [^ref-26]: [Sierra Help Walkthroughs](https://sierrahelp.com/Walkthroughs/Walkthroughs.html) – - Navigation page showing alternate title reference
 [^ref-27]: [PCGamingWiki Staging](https://staging.pcgamingwiki.com/wiki/Adventure_in_Serenia) – - Technical compatibility and system requirements
-[^ref-28]: [TV Tropes - King's Quest](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuest) – - Series overview and development context
-[^ref-29]: [Walkthrough King](https://www.walkthroughking.com/text/adventureinserenia.aspx) – - Game walkthrough and historical information
-[^ref-30]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Adventure_in_Serenia) – - Technical reference (limited access)
 [^ref-31]: [VGMDB – Hi-Res Adventure 2 Soundtrack](https://vgmdb.net/) – - Composer credits for Ken Allen and Al Lowe

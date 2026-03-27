@@ -27,7 +27,7 @@ tags: [2000s, city-building-series, sierra, strategy]
 
 Emperor: Rise of the Middle Kingdom is a city-building strategy game developed by BreakAway Games in collaboration with [[Impressions Games]] and published by [[Sierra On-Line|Sierra Entertainment]] in September 2002[^ref-1]. The sixth and final entry in Sierra's acclaimed City Building Series, Emperor transported players to ancient China, spanning nearly 3,300 years of classical Chinese history from the Xia Dynasty (2033 BCE) to the Song-Jin Dynasties (1234 CE)[^ref-1]. The game represented both a culmination of the series' established mechanics and a thematic departure, being the first title to move outside of European and Northern African settings[^ref-2].
 
-The game challenges players to construct and manage Chinese cities through seven imperial dynasties, balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac for company naming, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, Emperor is widely regarded by fans as the pinnacle of the City Building formula[^ref-4].
+The game challenges players to construct and manage Chinese cities through seven imperial dynasties, balancing economic development, monument construction, military defense, and diplomatic relations[^ref-3]. Emperor introduced several innovations to the series, including the feng shui system for harmonious city planning, the Chinese zodiac for company naming, and—for the first time in the franchise—multiplayer support with both cooperative and competitive modes[^ref-1]. Despite being the last game to use the series' traditional 2D-sprite engine before Caesar IV's transition to 3D, Emperor is widely regarded by fans as the pinnacle of the City Building formula[^ref-4].[^ref-36][^ref-37]
 
 > [!info]- Game Info
 > **Developer:** BreakAway Games, [[Impressions Games]][^ref-1]
@@ -287,7 +287,6 @@ The game also holds significance as the final 2D entry in the series and the las
 [^ref-7]: [GameZone Review](https://web.archive.org/web/20081006201435/http://pc.gamezone.com/gzreviews/r19809.htm) – review score 9.3/10, gameplay analysis
 
 [^ref-8]: [TV Tropes – Emperor: Rise of the Middle Kingdom](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/EmperorRiseOfTheMiddleKingdom) – gameplay tropes, zodiac names, alternate history
-
 
 [^ref-10]: [GameFAQs – FAQ/Walkthrough by Mike Jenista](https://gamefaqs.gamespot.com/pc/553878-emperor-rise-of-the-middle-kingdom/faqs/54453) – fixed grid system, series comparison
 

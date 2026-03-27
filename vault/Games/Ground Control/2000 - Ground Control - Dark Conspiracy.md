@@ -26,7 +26,7 @@ Ground Control: Dark Conspiracy is an expansion pack for the critically acclaime
 
 What made this expansion particularly notable was Sierra's distribution strategy—the expansion was offered free to owners of the original Ground Control, with only a $4.95 shipping and handling fee required[^ref-4]. New purchasers of Ground Control would receive the expansion included at no additional cost[^ref-5]. This consumer-friendly approach was widely praised by reviewers, with IGN's Dan Adams declaring that owners who didn't take advantage of the offer were "seriously in danger of your children falling backwards on the evolutionary ladder"[^ref-6].
 
-The expansion featured 15 new single-player missions spread across new environments, expanded the roster of units for existing factions, and continued the tactical gameplay that distinguished Ground Control from traditional resource-management focused RTS games[^ref-7]. Unlike conventional real-time strategy games, Ground Control featured no base-building or resource management—victory depended entirely on tactical deployment and maneuvering of pre-selected forces[^ref-8].
+The expansion featured 15 new single-player missions spread across new environments, expanded the roster of units for existing factions, and continued the tactical gameplay that distinguished Ground Control from traditional resource-management focused RTS games[^ref-7]. Unlike conventional real-time strategy games, Ground Control featured no base-building or resource management—victory depended entirely on tactical deployment and maneuvering of pre-selected forces[^ref-8].[^ref-29][^ref-30][^ref-31]
 
 > [!info]- Game Info
 > **Developer:** High Voltage Software, [[Massive Entertainment]][^ref-1]
@@ -277,4 +277,3 @@ The game's legacy is preserved through digital distribution on platforms like GO
 [^ref-29]: [MobyGames – Ground Control: Dark Conspiracy](https://www.mobygames.com/game/11173/ground-control-dark-conspiracy/) – game overview, multiplayer details
 [^ref-30]: [RAWG.io – Ground Control: Dark Conspiracy](https://rawg.io/games/ground-control-dark-conspiracy) – basic game metadata
 [^ref-31]: [IMDB – Ground Control: Dark Conspiracy](https://www.imdb.com/title/tt0416788/) – release date, voice cast confirmation
-[^ref-32]: [FreeGOGPCGames – Ground Control Anthology](https://freegogpcgames.com/475/ground-control-anthology/) – narrative context, platform compatibility

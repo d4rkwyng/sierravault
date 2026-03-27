@@ -26,7 +26,7 @@ Hoyle Battling Ships And War is a digital board game compilation released by [[S
 
 The compilation offered players the ability to compete against computer-controlled opponents or challenge other players through both local same-screen multiplayer and internet connectivity, a feature that was becoming increasingly common in late 1990s gaming[^ref-1]. Released during Sierra's prolific era of casual gaming titles, the game targeted a broader audience beyond the company's traditional adventure game fans, providing accessible entertainment for families and casual gamers alike[^ref-3].
 
-Developed for Windows platforms including Windows 3.1, Windows 95, and Windows 98, Hoyle Battling Ships And War featured voice acting and music composition, elevating what could have been simple digital recreations into more engaging entertainment experiences[^ref-1][^ref-4]. The game was distributed on CD-ROM and represented Sierra's continued investment in the casual gaming market during the late 1990s[^ref-1].
+Developed for Windows platforms including Windows 3.1, Windows 95, and Windows 98, Hoyle Battling Ships And War featured voice acting and music composition, elevating what could have been simple digital recreations into more engaging entertainment experiences[^ref-1][^ref-4]. The game was distributed on CD-ROM and represented Sierra's continued investment in the casual gaming market during the late 1990s[^ref-1].[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]

@@ -23,7 +23,7 @@ tags: [2000s, pga-championship-golf, sierra]
 
 PGA Championship Golf 2000 Titanium Edition was a sports golf simulation video game developed by EA Salt Lake[^ref-26] and published by Sierra Entertainment[^ref-10]. Released in 2000[^ref-21] as an enhanced version of the original PGA Championship Golf 2000, the Titanium Edition featured significant improvements including seven new 18-hole golf courses and enhanced multiplayer functionality[^ref-11]. The game was also known by the alternate title "PGA Championship Golf 2001" in some markets[^ref-25].
 
-As part of Sierra's sports game lineup during their Sierra Sports division era[^ref-23], PGA Championship Golf 2000 Titanium Edition represented the company's commitment to delivering comprehensive golf simulation experiences. The game featured innovative mouse-based swing controls that replaced traditional power meter clicking, offering players what the developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-4]. This unique control scheme set it apart from other golf games of the era and became one of its defining characteristics.
+As part of Sierra's sports game lineup during their Sierra Sports division era[^ref-23], PGA Championship Golf 2000 Titanium Edition represented the company's commitment to delivering comprehensive golf simulation experiences. The game featured innovative mouse-based swing controls that replaced traditional power meter clicking, offering players what the developers described as "a more visceral interface and (with practice) more direct control over the shot"[^ref-4]. This unique control scheme set it apart from other golf games of the era and became one of its defining characteristics.[^ref-8][^ref-9][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** EA Salt Lake[^ref-26]
@@ -36,7 +36,7 @@ As part of Sierra's sports game lineup during their Sierra Sports division era[^
 
 ## Story Summary
 
-As a golf simulation game, PGA Championship Golf 2000 Titanium Edition focused on realistic golf gameplay rather than narrative storytelling. The game provided players with authentic golf course experiences, featuring both fantasy and real-life golf courses[^ref-5]. Players could engage in various golf play modes including skins, scramble, and best ball formats[^ref-4], creating their own sporting narratives through tournament play and course management.
+As a golf simulation game, PGA Championship Golf 2000 Titanium Edition focused on realistic golf gameplay rather than narrative storytelling. The game provided players with authentic golf course experiences, featuring both fantasy and real-life golf courses[^ref-5]. Players could engage in various golf play modes including skins, scramble, and best ball formats[^ref-4], creating their own sporting narratives through tournament play and course management.[^ref-6]
 
 ## Gameplay
 
@@ -106,8 +106,6 @@ PGA Championship Golf 2000 Titanium Edition contributed to the evolution of golf
 The game's multiple edition releases and regional variations[^ref-23] demonstrated the commercial viability of enhanced sports simulations, paving the way for future special editions and expanded content models in sports gaming. The practice of offering free upgrades to existing customers[^ref-11] also set precedents for customer service approaches in the gaming industry. The TrueSwing 3 engine became a benchmark for golf game physics simulation, providing ultra-realistic ball impact physics and natural swing mechanics that remained influential even as newer golf titles emerged in the 2000s. The game's ability to balance accessibility for casual players with depth for serious golf enthusiasts made it a lasting entry in the sports simulation genre.
 Support for multiplayer competition through internet and LAN connections helped extend the game's appeal beyond single-player career modes.
 
-
-
 ### ### Sports Simulation Polish
 
 The Titanium Edition represented Sierra's commitment to delivering authentic golf simulation with enhanced graphics and refined controls[^ref-2]. Tournament structure and player statistics provided depth for golf enthusiasts seeking comprehensive simulation features[^ref-3].
@@ -155,17 +153,9 @@ The realistic golf swing mechanics and statistical accuracy made it a favorite a
 [^ref-11]: [GameSpot News Article](https://www.gamespot.com/articles/in-stores-pga-championship-golf-2000-titanium/1100-2663592/) – - Contemporary release announcement
 [^ref-12]: [Giant Bomb Game Page](https://www.giantbomb.com/pga-championship-golf-2000-titanium-edition/3030-1325/) – - Comprehensive game database entry
 [^ref-13]: [GOG Games Search](https://www.gog.com/en/games?query=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Digital distribution platform search
-[^ref-14]: [How Long to Beat](https://howlongtobeat.com/?q=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Game completion time tracking
-[^ref-15]: [IMDb Game Search](https://www.imdb.com/find/?q=PGA+Championship+Golf+2000%3A+Titanium+Edition&s=tt) – - Entertainment database search results
-[^ref-16]: [Lootr.fr Game Database](https://lootr.fr/pc/pga-championship-golf-2000-titanium-edition-295320/) – - French gaming database entry
-[^ref-17]: [MobyGames Base Entry](https://www.mobygames.com/game/3068/) – - Primary game database record
-[^ref-18]: [MobyGames Titanium Edition](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/) – - Specific edition information
 [^ref-19]: [MobyGames Reviews](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/reviews/) – - Critical review aggregation
-[^ref-20]: [MobyGames Search Results](https://www.mobygames.com/search/?q=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Database search functionality
 [^ref-21]: [MobyGames Release Information](https://www.mobygames.com/game/3068/pga-championship-golf-2000-titanium-edition/releases/) – - Official release details and technical specifications
-[^ref-22]: [My Abandonware Search](https://www.myabandonware.com/search/q/PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Abandonware archive search
 [^ref-23]: [Sierra Chest General Info](https://sierrachest.com/index.php?a=games&id=585&title=golf-2000-titanium&fld=general) – - Sierra archive general information
-[^ref-24]: [Steam Store Search](https://store.steampowered.com/search/?term=PGA+Championship+Golf+2000%3A+Titanium+Edition) – - Digital platform availability
 [^ref-25]: [VGTimes Game Database](https://vgtimes.com/games/pga-championship-golf-2000-titanium-edition/) – - Gaming information and alternate titles
 [^ref-26]: [Wikidata Game Entry](https://www.wikidata.org/wiki/Q7119131) – - Comprehensive metadata and developer information
 [^ref-27]: [Wikipedia – PGA Championship Golf 2000](https://en.wikipedia.org/wiki/PGA_Championship_Golf_2000) – - Career mode, tournament formats (match play, Stableford), and Course Architect features

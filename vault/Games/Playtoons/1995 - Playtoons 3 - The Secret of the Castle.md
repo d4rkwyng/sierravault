@@ -26,7 +26,7 @@ Playtoons 3: Secret of the Castle is a children's creativity and interactive sto
 
 The Playtoons series represents an innovative approach to children's educational software, focusing on teaching school topics in a digital format designed to be more engaging for kids.[^ref-5] Like its predecessors, Secret of the Castle allows players to both experience a pre-made interactive story and create their own animated tales using an integrated editor tool that provides background scenery, props, and characters that can be added to scenes and manipulated.[^ref-6] The game was notable for being the first Playtoons title to implement construction kit backgrounds, items, characters, and animations directly into its story panels, blurring the line between the narrative experience and creative gameplay.[^ref-7]
 
-Released initially in France and Germany in 1995, the game arrived in the United States and Canada the following year in 1996.[^ref-8][^ref-9] As a construction game targeting children ages 6 and up, it offered cross-compatibility with other Playtoons titles, meaning that if multiple games from the series were installed, assets from all games became available in the editor.[^ref-3][^ref-6]
+Released initially in France and Germany in 1995, the game arrived in the United States and Canada the following year in 1996.[^ref-8][^ref-9] As a construction game targeting children ages 6 and up, it offered cross-compatibility with other Playtoons titles, meaning that if multiple games from the series were installed, assets from all games became available in the editor.[^ref-3][^ref-6][^ref-11][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-1]
@@ -82,7 +82,7 @@ Limited contemporary review data is available for Playtoons 3: Secret of the Cas
 
 ### Modern Assessment
 
-The game maintains a solid reputation among those who have revisited it, with MobyGames listing an aggregate score of 83%.[^ref-1] However, community engagement appears limited, with MyAbandonware showing a current rating of 0/5 based on minimal user reviews.[^ref-8]
+The game maintains a solid reputation among those who have revisited it, with MobyGames listing an aggregate score of 83%.[^ref-1] However, community engagement appears limited, with MyAbandonware showing a current rating of 0/5 based on minimal user reviews.[^ref-8][^ref-12][^ref-15]
 
 **Aggregate Scores:**
 - **MobyGames:** 83%[^ref-1]

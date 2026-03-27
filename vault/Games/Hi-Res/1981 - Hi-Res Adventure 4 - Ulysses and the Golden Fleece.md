@@ -25,7 +25,7 @@ Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure game r
 
 The game represents a significant entry in Sierra's early catalog, serving as the fourth installment in the Hi-Res Adventure series that would help establish the company as a leader in adventure gaming[^ref-4]. As an adventure game, it is considered a tad fairer than the previous entries in the series, offering players a mythological journey through ancient Greece filled with puzzles and encounters with legendary creatures[^ref-5]. The game utilizes a two-word parser command system, requiring players to type verb-noun combinations to interact with the game world[^ref-6].
 
-ScummVM, the modern game preservation platform, added support for Ulysses and the Golden Fleece in version 2.0.0, making it possible to run this classic point-and-click adventure on modern platforms by replacing the original game's binaries with native interpreters[^ref-7]. This support has helped preserve the game for contemporary audiences interested in experiencing early Sierra adventures.
+ScummVM, the modern game preservation platform, added support for Ulysses and the Golden Fleece in version 2.0.0, making it possible to run this classic point-and-click adventure on modern platforms by replacing the original game's binaries with native interpreters[^ref-7]. This support has helped preserve the game for contemporary audiences interested in experiencing early Sierra adventures.[^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-1]

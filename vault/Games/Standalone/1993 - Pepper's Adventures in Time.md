@@ -19,7 +19,6 @@ tags: [1990s, educational, 'null', sci, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Pepper's Adventures in Time is an educational adventure game released by Sierra On-Line in 1993[^ref-1]. Developed by Brightstar, a Seattle-based company acquired by Sierra, the game was designed as an edutainment title that teaches American colonial history through interactive gameplay[^ref-2]. The game follows a young tomboy named Pepper Pumpernickel and her pit bull dog Lockjaw as they travel back in time to 1764 Philadelphia to correct historical anomalies[^ref-3].
@@ -28,7 +27,7 @@ Part of Sierra's Discovery Series, Pepper's Adventures in Time employs a "learni
 
 Back in the early 90s, Sierra was churning out edutainment titles faster than you can say '3-2-1 Contact'[^ref-collection]. Pepper's Adventures in Time was one of the best. Not only could you learn a thing or two about American history, but the character designs were hilarious and the dialogue was pretty damn witty for a game aimed at a younger audience[^ref-collection]. The game features cartoonish graphics similar to Day of the Tentacle[^ref-collection], giving it a distinct visual style that set it apart from Sierra's more realistic adventure games.
 
-One Sierra fan declared: "I still consider it the greatest educational adventure ever created," explaining why they ranked it #19 in their personal Top 20 Adventure Games of All-Time list[^ref-collection]. Another enthusiast noted: "I learned more about the colonial era from this game than I did from an upper-division college history course"[^ref-collection].
+One Sierra fan declared: "I still consider it the greatest educational adventure ever created," explaining why they ranked it #19 in their personal Top 20 Adventure Games of All-Time list[^ref-collection]. Another enthusiast noted: "I learned more about the colonial era from this game than I did from an upper-division college history course"[^ref-collection].[^ref-13]
 
 > [!info]- Game Info
 > **Developer:** Brightstar[^ref-5]
@@ -174,7 +173,6 @@ Players who enjoyed similar titles often draw comparisons to LucasArts' Day of t
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 

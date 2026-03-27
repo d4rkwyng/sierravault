@@ -26,7 +26,7 @@ Cohort: Fighting for Rome is a real-time tactical war game developed by [[Impres
 
 Set during classical antiquity, the game presents players with battles fought across three different terrain maps, with customizable army sizes and compositions.[^ref-1] The title distinguished itself from turn-based strategy games of the era by allowing real-time combat while providing the option to pause gameplay to issue orders, creating a hybrid approach that accommodated both action-oriented and methodical players.[^ref-1] The game featured sharper graphics and improved AI compared to previous titles in the Micro Miniatures series.[^ref-3]
 
-Despite its innovative approach to Roman warfare simulation, Cohort: Fighting for Rome received mixed reception, with critics noting issues with its interface design and graphical presentation.[^ref-3] The game would later spawn a sequel, Cohort II: Fighting for Rome, released in 1993, which was widely considered a superior product.[^ref-4][^ref-3]
+Despite its innovative approach to Roman warfare simulation, Cohort: Fighting for Rome received mixed reception, with critics noting issues with its interface design and graphical presentation.[^ref-3] The game would later spawn a sequel, Cohort II: Fighting for Rome, released in 1993, which was widely considered a superior product.[^ref-4][^ref-3][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]

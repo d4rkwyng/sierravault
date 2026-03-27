@@ -27,7 +27,7 @@ Hoyle Official Book of Games Volume 3, subtitled "Great Board Games," is the thi
 
 The Hoyle series took its name from Edmond Hoyle, the renowned 18th-century playing card expert whose rule books became the definitive authority on card game regulations[^ref-4]. Sierra licensed the Hoyle trademark along with Brown & Bigelow playing card trademarks to bring authenticity to their digital recreations[^ref-4]. Volume 3 continued the tradition of featuring Sierra game characters as computer opponents, allowing players to compete against familiar faces from the company's adventure game catalog while they strategized over virtual game boards[^ref-4].
 
-The collection was designed to be accessible to players of all ages, featuring adjustable difficulty levels and AI opponents that could accommodate beginners and experts alike[^ref-5]. This family-friendly approach, combined with the interactive character opponents, made the Hoyle series a popular choice for both casual gaming sessions and serious strategy practice[^ref-6]. The game represented Sierra's commitment to expanding beyond their adventure game roots into the broader family entertainment market[^ref-7].
+The collection was designed to be accessible to players of all ages, featuring adjustable difficulty levels and AI opponents that could accommodate beginners and experts alike[^ref-5]. This family-friendly approach, combined with the interactive character opponents, made the Hoyle series a popular choice for both casual gaming sessions and serious strategy practice[^ref-6]. The game represented Sierra's commitment to expanding beyond their adventure game roots into the broader family entertainment market[^ref-7].[^ref-25][^ref-26][^ref-27]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -278,6 +278,3 @@ Ken Williams himself expressed interest in extending Sierra's core technology to
 [^ref-25]: [TCRF – Hoyle Classic Games Mac](https://tcrf.net/Hoyle_Classic_Games_(Mac_OS_Classic)) – version information, development details
 [^ref-26]: [Sierra Gamers Forum – Where Does Sierra End](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Sierra family of games
 [^ref-27]: [Internet Archive – HOYLEGAMES](https://archive.org/details/HOYLEGAMES) – games included list
-[^ref-28]: [GameSpot – Sierra Reorganizes](https://www.gamespot.com/articles/sierra-reorganizes-its-operations/1100-2804362/) – corporate restructuring
-[^ref-29]: [Old Games Download – Hoyle Classic Games](https://oldgamesdownload.com/hoyle-classic-games/) – developer, publisher confirmation
-[^ref-30]: [MobyGames – Hoyle Classic Games](https://www.mobygames.com/game/28770/hoyle-classic-games/) – release dates, platform details

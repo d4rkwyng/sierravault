@@ -30,7 +30,7 @@ Prince Alexander journeys to the Land of the Green Isles to rescue Princess Cass
 
 Dragon Magazine declared it "the best King's Quest game yet and certainly one of the best adventure games on the market"[^ref-5].
 
-With a budget exceeding $700,000, professional voice acting, and Sierra's first implementation of lip-sync technology, the game became a landmark release that dominated sales charts through Christmas 1992 and proved "the era of CD game playing is upon us"[^ref-6][^ref-7].
+With a budget exceeding $700,000, professional voice acting, and Sierra's first implementation of lip-sync technology, the game became a landmark release that dominated sales charts through Christmas 1992 and proved "the era of CD game playing is upon us"[^ref-6][^ref-7].[^ref-36][^ref-37]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-4]

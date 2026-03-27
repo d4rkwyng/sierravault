@@ -23,7 +23,7 @@ tags: [1980s, shooter, sierra, standalone]
 
 Sabotage is a fixed shooter arcade game developed by Mark Allen and published by On-Line Systems in 1981 for the Apple II computer.[^ref-1][^ref-2][^ref-3] In an era when the majority of action titles released for home computers either were inspired by or directly copied popular video arcade games, Sabotage stood apart as a genuinely original concept.[^ref-4] The game places players in command of a gun turret tasked with defending against waves of helicopters, jets, and paratroopers attempting to overwhelm their position.[^ref-3]
 
-The game was notable for its innovative scoring system that penalized wasteful shooting—one point is subtracted every time a shell is fired, discouraging the "spray & pray" gaming style common in arcade shooters of the period.[^ref-1][^ref-5] This design decision encouraged skillful, deliberate aiming rather than random firing. Sabotage achieved considerable success, ranking 16th in the Softtalk Reader's Poll Top-Thirty in 1981.[^ref-4] The game was vastly pirated and became one of the most-played Apple II games of 1981, spawning numerous clones across multiple platforms including the well-known PC title Paratrooper.[^ref-4][^ref-5]
+The game was notable for its innovative scoring system that penalized wasteful shooting—one point is subtracted every time a shell is fired, discouraging the "spray & pray" gaming style common in arcade shooters of the period.[^ref-1][^ref-5] This design decision encouraged skillful, deliberate aiming rather than random firing. Sabotage achieved considerable success, ranking 16th in the Softtalk Reader's Poll Top-Thirty in 1981.[^ref-4] The game was vastly pirated and became one of the most-played Apple II games of 1981, spawning numerous clones across multiple platforms including the well-known PC title Paratrooper.[^ref-4][^ref-5][^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[On-Line Systems]][^ref-2]
@@ -142,7 +142,7 @@ No cut content has been documented in available research materials.
 
 Technical analysis by Andy McFadden identified a bug in the collision detection code for falling bombs. At memory address $6ae0, the code uses the wrong structure size, which likely causes the collision detection to fail after the first entry in the bomb array.[^ref-1] This means that in certain circumstances, bombs after the first one may not properly register hits against shells.
 
-A user on MobyGames noted that the score counter is displayed inside the turret graphic rather than at the top of the screen, which may cause visual overflow issues at very high scores when the digits extend beyond the turret edge.[^ref-2]
+A user on MobyGames noted that the score counter is displayed inside the turret graphic rather than at the top of the screen, which may cause visual overflow issues at very high scores when the digits extend beyond the turret edge.[^ref-2][^ref-15]
 
 ### Easter Eggs and Trivia
 
@@ -192,7 +192,6 @@ Sabotage represents an important milestone in early home computer gaming as a ra
 The game's influence extended far beyond its initial success, with the Paratrooper-style gameplay becoming a recognized category that persisted for decades—even appearing as a preloaded game on Apple's iPod in 2003.[^ref-5] The scoring mechanic that penalized wasteful shooting anticipated later game design philosophies around resource management and skill-based scoring.
 
 From a technical standpoint, Sabotage demonstrated what was possible on the limited Apple II hardware through efficient machine language programming and clever sprite rendering techniques.[^ref-1] The pixel-accurate collision detection and smooth animation were remarkable achievements for a 1 MHz processor.[^ref-1] While the gameplay may feel simplistic by modern standards, Sabotage earned its place in gaming history as an innovator rather than an imitator.[^ref-4]
-
 
 ## Purchase
 

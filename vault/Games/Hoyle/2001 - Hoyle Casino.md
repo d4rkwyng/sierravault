@@ -25,7 +25,7 @@ Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment in Sie
 
 As a spin-off of the classic Hoyle's Official Book of Games series, Hoyle Casino 2001 allowed players to create custom profiles and receive virtual money to wager across fourteen different casino games with over four hundred combinations[^ref-1][^ref-2]. The game featured 25 default characters to choose from and was set in a fully-realized virtual Las Vegas casino environment[^ref-2]. This edition introduced two new games not seen in previous releases—Baccarat and Video Blackjack—along with an improved tournament mode and a bonus version of video poker designed for Palm OS devices[^ref-1].
 
-The game proved commercially successful, contributing to the Hoyle Casino series selling 230,365 units and earning $6.15 million from January through October 2000 in North America alone[^ref-2]. During the week of February 11-17, 2001, Hoyle Casino 2001 reached fifth place on PC Data's best-selling games chart, demonstrating its sustained popularity months after release[^ref-3].
+The game proved commercially successful, contributing to the Hoyle Casino series selling 230,365 units and earning $6.15 million from January through October 2000 in North America alone[^ref-2]. During the week of February 11-17, 2001, Hoyle Casino 2001 reached fifth place on PC Data's best-selling games chart, demonstrating its sustained popularity months after release[^ref-3].[^ref-12][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-4]
@@ -286,6 +286,4 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 [^ref-12]: [Metacritic – Hoyle Casino 2001 Details](https://www.metacritic.com/game/hoyle-casino-2001/details/) – release date confirmation
 [^ref-13]: [Giant Bomb – Hoyle Casino 2001](https://giantbomb.com/wiki/Games/Hoyle_Casino_2001) – release date, developer confirmation
 [^ref-14]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – franchise information
-[^ref-15]: [GameFAQs – Message Boards](https://gamefaqs.gamespot.com/boards/448849-hoyle-casino-2001) – genre classification
-[^ref-16]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, media format, release date
 [^ref-17]: [PriceCharting ES – Hoyle Casino](https://www.pricecharting.com/es/game/pc-games/hoyle-casino) – platform confirmation, disc count

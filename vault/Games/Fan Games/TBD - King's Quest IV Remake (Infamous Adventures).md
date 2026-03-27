@@ -23,7 +23,7 @@ tags: [adventure, king-s-quest, sierra]
 
 King's Quest IV Remake is an in-development fan remake of Sierra's 1988 classic *King's Quest IV: The Perils of Rosella*, being created by [[Infamous Adventures]]. The project continues the team's tradition of producing high-quality VGA remakes of classic Sierra adventure games, following their earlier releases of [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III]] (2006) and [[2011 - Space Quest II VGA Remake|Space Quest II VGA]] (2011).[^ref-1]
 
-After completing their Space Quest II remake in 2011, Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] As of January 2026, the game remains in active development with no confirmed release date.[^ref-1]
+After completing their Space Quest II remake in 2011, Infamous Adventures shifted focus to commercial development under the [[Infamous Quests]] label, releasing *Quest for Infamy* in 2014. The team has since returned to fan remake work, with the KQ4 project seeing renewed activity through the Infamous Adventures Discord community.[^ref-2] As of January 2026, the game remains in active development with no confirmed release date.[^ref-1][^ref-13][^ref-14][^ref-15]
 
 **Note:** This project is distinct from other King's Quest IV fan remakes, including "King's Quest IV Retold" by DrSlash (2021) and the "KQ4 Retold VGA + Talkie" patch by Magic Quest Entertainment (2025).
 
@@ -60,7 +60,7 @@ In January 2026, the Infamous Quests Patreon posted a development update stating
 
 Community response has been positive, with one backer commenting that the screenshots "look like what Sierra would have released for a remake of the game."[^ref-1] The Patreon author noted the team's renewed enthusiasm: "It makes me want to finish our King's Quest III gold remake that we had back a while ago. CONSIDERING THAT OUR KING'S QUEST III Remake is 20 years old this year!!"[^ref-1]
 
-The project uses the Adventure Game Studio engine, consistent with Infamous Adventures' previous remakes. The game will feature updated VGA-style graphics, point-and-click interface, and voice acting.
+The project uses the Adventure Game Studio engine, consistent with Infamous Adventures' previous remakes. The game will feature updated VGA-style graphics, point-and-click interface, and voice acting.[^ref-12]
 
 ## Story Summary
 
@@ -68,7 +68,7 @@ The remake will retell the story of the original King's Quest IV: The Perils of 
 
 In Tamir, Rosella encounters the good fairy Genesta, who is weakened by her nemesis, the evil witch Lolotte.[^ref-4] Rosella must complete tasks for Lolotte—capturing a unicorn, stealing a golden egg-laying hen, and uncovering Pandora's box—while also working to help Genesta and find the magical fruit before time runs out.[^ref-4]
 
-The original game was notable for being Sierra's first adventure game with a female protagonist and for its real-time day-night cycle mechanic, where certain puzzles could only be completed at specific times.[^ref-4] The remake is expected to preserve these story elements while modernizing the presentation.
+The original game was notable for being Sierra's first adventure game with a female protagonist and for its real-time day-night cycle mechanic, where certain puzzles could only be completed at specific times.[^ref-4] The remake is expected to preserve these story elements while modernizing the presentation.[^ref-11]
 
 ## Gameplay
 
@@ -140,7 +140,7 @@ The King's Quest IV project represents the team's return to fan remakes after tr
 
 Hardcore Gaming 101's coverage of the original King's Quest IV noted that "A fan-made VGA remake has been in the works for a few years, but nothing has been released outside of some demo footage."[^ref-4] The proliferation of KQ4 remake attempts—from Unicorn Tales' 3D version to Magic Mirror Games' abandoned project to the various 2D efforts—reflects the game's beloved status and the difficulty of completing such ambitious fan projects.
 
-The Infamous Adventures team's renewed activity in 2025-2026, with regular Discord collaboration and Patreon updates, suggests a level of organization that may help bring this long-anticipated remake to completion.[^ref-1][^ref-2]
+The Infamous Adventures team's renewed activity in 2025-2026, with regular Discord collaboration and Patreon updates, suggests a level of organization that may help bring this long-anticipated remake to completion.[^ref-1][^ref-2][^ref-16]
 
 ## Downloads
 

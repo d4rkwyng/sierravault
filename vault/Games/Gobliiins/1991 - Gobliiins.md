@@ -219,7 +219,7 @@ Gobliiins holds a significant place in adventure gaming history as a pioneer of 
 
 The game's influence extends beyond its mechanical innovations. Rock Paper Shotgun's retrospective notes the series' clever naming convention: "In this age of Thie4s and 2 Fast 2 Furiouses, I feel we can learn something from that back-to-front art."[^ref-37] The diminishing number of "i"s across sequels (three, two, one, then back to three) represented the changing number of playable characters—a creative approach to titling that remains memorable decades later.
 
-Critics remain divided on whether the game's challenging puzzles represent clever design or frustrating obscurity. Modern players often approach the series with nostalgia—"I prefer to keep on believing that Goblins III was a game that spoke to me, rather than risk the reality that it was just one more 90% lateral thinking puzzle game full of wacky characters."[^ref-37] Yet despite these concerns, the series' charm continues to attract new players, as evidenced by successful Kickstarter campaigns for Gobliiins 5 and continued availability on digital platforms.[^ref-38]
+Critics remain divided on whether the game's challenging puzzles represent clever design or frustrating obscurity. Modern players often approach the series with nostalgia—"I prefer to keep on believing that Goblins III was a game that spoke to me, rather than risk the reality that it was just one more 90% lateral thinking puzzle game full of wacky characters."[^ref-37] Yet despite these concerns, the series' charm continues to attract new players, as evidenced by successful Kickstarter campaigns for Gobliiins 5 and continued availability on digital platforms.[^ref-38][^ref-43]
 
 ## Series Overview
 
