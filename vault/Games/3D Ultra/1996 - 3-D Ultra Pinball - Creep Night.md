@@ -92,11 +92,17 @@ The game was released simultaneously for Windows and Mac OS platforms in 1996[^r
 
 Creep Night was notable as "the first pinball game to explore 3D graphics" and "the first pinball to use 3D effects"[^ref-6]. The game utilized CD-ROM technology to deliver high-quality audio and graphics[^ref-5][^ref-3], with a file size of 194 MB and installation size of 313 MB[^ref-4]. The technical specifications included an isometric perspective view and support for various detail and skill-level adjustments[^ref-5].
 
+The game's sound design was a particular technical achievement. As one user noted, "The first pinball to use 3D effects has a sound system that helps to evolve you with the game"[^ref-11], with praise for how the audio immersion complemented the visual experience. The rendering system created animated creatures and supernatural elements across the three main tables that would have been physically impossible in a real pinball machine[^ref-12].
+
 ## Legacy
 
 The 3-D Ultra Pinball series, including Creep Night, achieved significant commercial success, reaching 500,000 copies sold by 1998[^ref-3]. The series became part of Sierra's broader strategy to capture the casual gaming market during the multimedia boom of the mid-1990s[^ref-3]. Steam community discussions still reference the Sierra pinball games fondly, with users remembering them as "3 great adventure type Pinball games" that featured "20 linked areas to play through"[^ref-8].
 
 Creep Night's influence can be seen in its approach to video pinball design, prioritizing entertainment value over realistic physics simulation. As one contemporary review noted, "The wonderful animations, sound, and the focus on making a fun game and not an exact copy of a real pinball table push this one ahead of the pack of mid 90s releases"[^ref-2]. Modern users continue to appreciate this design philosophy, with one stating that "Creep Night remains one of my all time favourite pinball games"[^ref-5].
+
+### Later Releases and Adaptability
+
+The game's cross-platform success led to a Portuguese language version that included support for multiple other languages[^ref-13], demonstrating its international appeal. A German re-release followed in 2005, showing the game's longevity and continued market demand decades after its original release[^ref-5]. The game's extensive configurability became a defining feature—Chuck Miller of Gamecenter highlighted how "A belfry of configurable preferences, multiple skill-level adjustments, and a brood of toggleable detail options make Creep Night one of the most adaptable pinball games to scare up attention"[^ref-14]. This adaptability meant both novice players and pinball enthusiasts could tailor the experience to their skill level and preferences.
 
 ## Downloads
 

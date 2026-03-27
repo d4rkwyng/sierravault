@@ -93,11 +93,15 @@ The game was created with extensive attention to historical research and documen
 
 A total of 79 people were credited in the game's development, with music composed by Jan Paul Moorhead, Peter Lukaszuk, and Timothy Steven Clarke[^ref-22]. The Windows version featured enhanced graphics and the innovative voice recognition system that helped distinguish it from the original DOS release[^ref-26].
 
+### Expansion Content
+
+An expansion pack titled "Command: Aces of the Deep - Expansion Disk" was released, introducing the Type XXI submarine, a feared German innovation that never saw extensive service in World War II[^ref-31]. This advanced vessel featured enhanced specifications compared to earlier submarine models, allowing players to experience even more advanced gameplay. The expansion added new mission scenarios and historical information about the submarine that represented Nazi Germany's last hope for naval dominance[^ref-31].
+
 ### Technical Achievements
 
 The game utilized SVGA graphics and supported a wide range of audio hardware including Sound Blaster, AdLib, Roland MT-32, and General MIDI devices[^ref-27]. Minimum system requirements included a 386DX/33MHz processor with 4MB RAM, though the recommended configuration called for a 486/33MHz system with 8MB RAM[^ref-27].
 
-The Windows version's voice recognition technology was particularly innovative for its time, allowing natural language commands to submarine crew members[^ref-28]. However, the game was noted for stability issues, with frequent crashes and compatibility problems, particularly with newer sound cards like the Sound Blaster Live[^ref-29].
+The Windows version's voice recognition technology was particularly innovative for its time, allowing natural language commands to submarine crew members[^ref-28]. However, the game was noted for stability issues, with frequent crashes and compatibility problems, particularly with newer sound cards like the Sound Blaster Live[^ref-29]. The CD-ROM version included valuable multimedia content, such as video interviews with actual German U-boat commanders who provided both historical documentation and personal accounts of their wartime experiences[^ref-32].
 
 ## Legacy
 
@@ -155,3 +159,5 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-28]: [Metacritic](https://www.metacritic.com/game/aces-of-the-deep/) – - Voice control technology description
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – - Stability issues and compatibility problems
 [^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/aces-of-the-deep) – - Continuing player preference and legacy status
+[^ref-31]: [Dynamix Fandom Wiki - Expansion Disk](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – - Type XXI submarine content and expansion features
+[^ref-32]: [Wikipedia - Command: Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – - CD-ROM multimedia interviews with German U-boat commanders

@@ -56,7 +56,9 @@ Players must manage resources, recruit armies, explore dungeons, and engage in b
 
 The core gameplay revolves around strategic resource management and tactical combat. Each faith has distinct advantages and disadvantages - for example, the Life faith features "extremely powerful archers, and great magic skills" but lacks "strong armor," while the Water faith has significant economic advantages that allow them to "have their capital and all related buildings on level 3 by turn 50 while AT THE SAME TIME fielding 2 full size armies"[^ref-18][^ref-19]. 
 
-The game includes both single-player campaigns and multiplayer options supporting up to 4 players through LAN, modem, or direct cable connections[^ref-20]. Lords serve as the most important units, as their death typically ends the game unless backup lords have been established[^ref-18].
+The game includes both single-player campaigns and multiplayer options supporting up to 4 players through LAN, modem, or direct cable connections[^ref-20]. Lords serve as the most important units, as their death typically ends the game unless backup lords have been established[^ref-18]. Dungeons scattered throughout the game world contain valuable treasures and powerful artifacts that can tip the balance of warfare, incentivizing exploration alongside traditional conquest strategies. Each faith's unique unit roster creates dramatically different tactical approaches—the Chaos faith excels at summoning powerful magical creatures, while the Water faith can leverage economic advantages for sustained military campaigns[^ref-38].
+
+Artifact acquisition represents another critical progression system, with over 160 different spells available and 90 distinct artifacts offering unique benefits ranging from resource bonuses to combat enhancements[^ref-4]. Managing the recruitment and upkeep of troops while balancing spell research and artifact hunting creates a complex economic puzzle central to long-term strategy.
 
 ## Reception
 
@@ -157,4 +159,4 @@ The Special Edition release in 2000 attempted to address many of the original ga
 [^ref-35]: [ModDB](https://www.moddb.com/mods/gszero) – - Community mod description
 [^ref-36]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-special-edition-review/1900-2535719/) – - Competitive comparison
 [^ref-37]: [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – - Modern assessment quote
-[^ref-38]: [Amazon](https://www.amazon.com/Lords-Magic-Special-Jewel-Case-pc/dp/B00001NFS5) – - Special Edition assessment
+[^ref-38]: [GameFAQs Community Guide](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Chaos and Water faith strategic analysis

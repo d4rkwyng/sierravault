@@ -91,6 +91,10 @@ Field & Stream: Trophy Bass 4 was developed by Dynamix in collaboration with Jef
 
 The game rendered its lake environments in 3D at 640x480 resolution[^ref-8], supporting 3Dfx-compatible hardware acceleration. System requirements called for a Pentium 233MHz processor with 32MB of RAM[^ref-4]. WON.net integration provided online multiplayer infrastructure, continuing Sierra's investment in the World Opponent Network for competitive play across its sports titles[^ref-8].
 
+### Audio and Presentation
+
+The game's soundtrack was composed by Neal Grandstaff and Ken Allen (who also contributed the Sierra logo fanfare)[^ref-19]. The multimedia pro tips from professional anglers were integrated seamlessly into the gameplay loop, allowing players to learn realistic fishing techniques while playing[^ref-8]. The first-person perspective combined with Force Feedback controller support created an immersive angling experience that competitors struggled to replicate.
+
 ### Version History
 
 | Version | Date | Platform | Notes |
@@ -141,3 +145,4 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-16]: [ESRB – Trophy Bass 4](https://www.esrb.org/) – Rated E for Everyone
 [^ref-17]: [Wikidata – Trophy Bass 4](https://www.wikidata.org/wiki/Q7119131) – Structured metadata
 [^ref-18]: [GameFAQs – Trophy Bass 4](https://gamefaqs.gamespot.com/pc/256377-trophy-bass-4/reviews) – User reviews
+[^ref-19]: [VGMDB – Field & Stream: Trophy Bass 4 Soundtrack](https://vgmdb.net/album/6417) – Composer credits for Neal Grandstaff and Ken Allen

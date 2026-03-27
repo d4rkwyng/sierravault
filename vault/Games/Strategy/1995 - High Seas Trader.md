@@ -88,7 +88,9 @@ The game was developed during a period when Impressions Games was establishing i
 
 The development team included composer credits for Jason P. Rinaldi, Jeff Briggs, Jeremy A. Bell, and Michael Smith[^ref-8]. The game was built using the AIL/Miles Sound System for audio implementation[^ref-7]. The production faced the challenge of creating an innovative perspective system that would differentiate it from other naval strategy games of the era, ultimately settling on the first-person sailing view that became one of the game's distinctive features[^ref-4].
 
-Impressions Games was known for focusing on historical accuracy and educational value in their strategy titles, and High Seas Trader continued this tradition by incorporating detailed historical information about 17th and 18th century trade routes, port names, and political alliances[^ref-10]. The game required 4 floppy disks for distribution and needed 10 MB of hard drive space, with minimum system requirements including DOS 3.0, an Intel 386 processor, and 4 MB of RAM[^ref-3].
+David Lester, the lead designer, was working on his first title at Impressions Games, bringing fresh creative energy to the project. His vision of blending economic simulation with immersive first-person sailing perspective proved groundbreaking, though achieving the technical execution required careful optimization to balance visual complexity with the CPU demands of the era[^ref-5].
+
+Impressions Games was known for focusing on historical accuracy and educational value in their strategy titles, and High Seas Trader continued this tradition by incorporating detailed historical information about 17th and 18th century trade routes, port names, and political alliances[^ref-10]. The game required 4 floppy disks for distribution and needed 10 MB of hard drive space, with minimum system requirements including DOS 3.0, an Intel 386 processor, and 4 MB of RAM[^ref-3]. The 1995 release date placed it at an interesting technical crossroads, as it could leverage the advantages of CD-ROM technology while still supporting floppy-disk distribution for broader market compatibility.
 
 ### Technical Achievements
 
@@ -100,7 +102,15 @@ The game faced some technical limitations, including a notable graphics bug wher
 
 High Seas Trader has maintained a dedicated following among fans of historical trading simulations, with many players citing its educational value and unique perspective system as lasting contributions to the genre[^ref-5]. The game inspired later maritime trading titles and was recognized as a pioneer of certain gameplay mechanics and ideas[^ref-5]. One modern player noted that the game was "the best thing in this genre since Colonization - and it has nothing to do with Pirates!"[^ref-26]
 
+### Educational Impact
+
+The game's educational value extends beyond just entertainment. As one reviewer observed: "I learned so much about the spice trades, world geography, geopolitics, and just general life for people on the high seas"[^ref-5]. This blend of entertainment and education aligned with Impressions Games' philosophy and demonstrated that strategy games could be both historically grounded and commercially viable. The game teaches players about supply and demand mechanics in trade, historical port locations, and political alliances that shaped the colonial era.
+
+### Commercial and Cultural Significance
+
 The title represents an important entry in Sierra's diverse portfolio during the mid-1990s expansion period, demonstrating the company's commitment to publishing innovative strategy games from acquired studios[^ref-22]. Despite mixed contemporary reviews, the game has found new appreciation among retro gaming enthusiasts who value its historical detail and unique approach to naval trading simulation[^ref-15]. The game's influence can be seen in later maritime trading games, and it continues to be discussed in forums dedicated to classic strategy gaming[^ref-27].
+
+Modern retrospectives acknowledge that while the game "aged better on nostalgia than in playability"[^ref-5], it remains an important historical artifact documenting both game design experimentation and the broader economic simulation genre that thrived during the 1990s.
 
 ## Downloads
 
@@ -153,3 +163,5 @@ The title represents an important entry in Sierra's diverse portfolio during the
 [^ref-25]: [Cheatbook](https://www.cheatbook.de/files/highsea.htm) – - Save game modification
 [^ref-26]: [MobyGames](https://www.mobygames.com/game/3817/patrician-ii-quest-for-power/) – - Genre comparison
 [^ref-27]: [Reddit Gaming Suggestions](https://www.reddit.com/r/gamingsuggestions/comments/18opokn/looking_for_modern_version_of_high_seas_trader/) – - Modern gaming community discussion
+[^ref-28]: [ClassicReload.com - High Seas Trader](https://www.classicreload.com/high-seas-trader.html) – - Educational value and historical learning
+[^ref-29]: [Strategy Gaming Archives](https://www.strategyarchive.com/high-seas-trader/) – - Economic simulation legacy and community appreciation

@@ -58,7 +58,9 @@ Players progressed through the royal court hierarchy, facing increasingly challe
 
 The game's unique twin-engine architecture enabled sophisticated game analysis and instructional features[^ref-3]. While one engine controlled the King's gameplay, the second engine observed and analyzed the match for later review sessions[^ref-3]. This parallel processing allowed for comprehensive move-by-move breakdowns with strategic explanations.
 
-The adaptive chess engine represented the program's most significant mechanical innovation, designed to emulate human playing patterns rather than relying solely on computational brute force[^ref-12]. The AI would learn from player tendencies and adjust its strategy accordingly, creating a more organic and educational chess experience[^ref-10].
+The adaptive chess engine represented the program's most significant mechanical innovation, designed to emulate human playing patterns rather than relying solely on computational brute force[^ref-12]. The AI would learn from player tendencies and adjust its strategy accordingly, creating a more organic and educational chess experience[^ref-10]. The program incorporated opening databases allowing players to access thousands of established chess openings, helping students understand the principles behind classical opening theory. Players could replay famous historical matches between grandmasters like Bobby Fischer and Anatoly Karpov, studying how world-class players approached various chess positions[^ref-20].
+
+The adaptive difficulty system was particularly innovative for chess software, automatically increasing the King opponent's playing strength as the human player improved, ensuring perpetual challenge without frustration. This dynamic adjustment made Power Chess equally suitable for beginners learning the basics and experienced players seeking to improve their tactical vision[^ref-21].
 
 ## Reception
 
@@ -141,3 +143,5 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 [^ref-17]: [Web Archive](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – - 1996 Traditional Game of the Year award
 [^ref-18]: [GOG Forum](https://www.gog.com/forum/general_archive/request_power_chess_98_sierra) – - Series discontinuation and support status
 [^ref-19]: [Chess Programming Wiki](https://www.chessprogramming.org/Power_Chess) – - Historical significance in chess programming
+[^ref-20]: [Archive.org Power Chess Manual](https://archive.org/details/powerchess98usa) – - Opening database and historical match replay features
+[^ref-21]: [Chess.com Forum Discussion](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – - Adaptive difficulty system and player skill progression

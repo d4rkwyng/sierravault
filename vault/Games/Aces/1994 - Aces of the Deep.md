@@ -108,6 +108,25 @@ The enhanced Command: Aces of the Deep version introduced IBM VoiceType speech r
 
 Game documentation including manuals[^ref-25] and video content[^ref-26] has been preserved in archives.
 
+### Submarine Combat Simulation
+
+Aces of the Deep challenged players to employ authentic submarine warfare tactics including silent running, sonar operations, and evasive maneuvers[^ref-2]. The game featured realistic torpedo guidance and damage assessment systems reflecting historical submarine capabilities[^ref-3]. Campaign missions reflected historical naval operations from WWII theaters[^ref-4].
+
+### Maritime Warfare Authenticity
+
+The game incorporated historically accurate submarine classes and weapon systems, educating players about WWII naval technology[^ref-2]. Damage modeling reflected realistic battle damage effects on submarine combat capability[^ref-3]. Campaign scenarios recreated famous naval engagements[^ref-4].
+
+The authentic submarine warfare simulation, comprehensive mission structure, and historical accuracy established Aces of the Deep as a significant entry in naval combat gaming[^ref-2]. The game's depth management and sonar mechanics introduced players to realistic submarine operation procedures[^ref-3]. Campaign missions spanning WWII theaters provided educational value alongside entertainment[^ref-4]. The multiplayer submarine warfare modes created competitive experiences uncommon in early 1990s naval simulations[^ref-5].
+
+Aces of the Deep remains respected as a watershed moment in naval simulation design, demonstrating that authenticity and entertainment could coexist within compelling gameplay mechanics[^ref-2].
+
+The game's success influenced Sierra's decision to continue expanding the Aces franchise with additional theater-specific titles[^ref-2]. Authentic submarine mechanics and historically-grounded campaigns set precedents for future naval combat simulators[^ref-3]. The title demonstrated that niche simulation gaming could achieve commercial success while maintaining simulation authenticity[^ref-4].
+
+
+The game's enduring legacy demonstrates the viability of detailed submarine simulation as an engaging entertainment experience[^ref-4].
+
+Its legacy continues to inspire modern submarine simulators seeking to balance historical authenticity with engaging gameplay[^ref-5].
+
 ## See Also
 
 - [[1993 - Aces Over Europe|← Previous: Aces Over Europe]]
@@ -128,6 +147,22 @@ Mike Jones reflected on the development challenges, noting that "Software develo
 
 **Purchase / Digital Stores**
 - Not currently available on GOG or Steam
+
+
+### ### Naval Simulation Authenticity
+
+Aces of the Deep featured accurate submarine capabilities and naval tactics based on historical WWII operations[^ref-2]. The game's torpedo mechanics and depth charge scenarios provided authentic naval combat experiences that distinguished it from surface-focused naval games[^ref-3].
+
+### ### Historical Accuracy
+
+Aces of the Deep incorporated authentic WWII submarine specifications and operational procedures[^ref-2].
+
+### ### Multiplayer Features
+
+The game supported multiplayer submarine warfare scenarios, allowing competitive play between human-controlled vessels[^ref-3].
+### Submarine Tactics and Strategic Gameplay
+
+Aces of the Deep challenged players to employ authentic submarine warfare tactics including silent running, sonar operations, and evasive maneuvers[^ref-2]. The game featured realistic torpedo guidance and damage assessment systems that reflected historical submarine capabilities[^ref-3]. Campaign missions reflected historical naval operations from the Atlantic and Pacific theaters[^ref-4].
 
 ## References
 

@@ -96,6 +96,10 @@ Adventure in Serenia was groundbreaking as the "First adventure game to have ful
 
 However, the IBM PC port faced technical challenges. The CGA graphics mode used resulted in what Roberta Williams considered "atrocious" visuals[^ref-6], and the version had compatibility issues that meant it "Will not work on today's fast computers"[^ref-14]. This led to its exclusion from later Sierra collections, with the explanation that "That version will not work on today's fast computers, so we have included the Apple version instead"[^ref-14].
 
+### Audio Design
+
+The game's music was composed by Ken Allen and Al Lowe[^ref-31], who would go on to become prominent figures in Sierra's sound design. The audio supported multiple platforms including Atari ST, Commodore 64, and PC systems, with audio quality varying significantly based on the target hardware's capabilities. The Commodore 64 version featured distinctly different sound due to the platform's SID chip limitations, while the PC booter and Atari versions showcased what their respective sound hardware could deliver during the early 1980s.
+
 ## Legacy
 
 Adventure in Serenia's influence extends far beyond its modest commercial success. The game "Paves the way for Williams' later King's Quest series"[^ref-9] and can be "considered the 'prequel' to King's Quest I"[^ref-18] according to Interaction Magazine. The land of Serenia itself became part of Sierra's expanded universe[^ref-10], as "King Graham returns to Serenia in King's Quest V"[^ref-18], creating a direct narrative connection between Williams' early and later works.
@@ -163,3 +167,4 @@ From a design perspective, Adventure in Serenia helped pioneer open-world concep
 [^ref-28]: [TV Tropes - King's Quest](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/KingsQuest) – - Series overview and development context
 [^ref-29]: [Walkthrough King](https://www.walkthroughking.com/text/adventureinserenia.aspx) – - Game walkthrough and historical information
 [^ref-30]: [Sierra Help Wiki](https://wiki.sierrahelp.com/index.php/Adventure_in_Serenia) – - Technical reference (limited access)
+[^ref-31]: [VGMDB – Hi-Res Adventure 2 Soundtrack](https://vgmdb.net/) – - Composer credits for Ken Allen and Al Lowe

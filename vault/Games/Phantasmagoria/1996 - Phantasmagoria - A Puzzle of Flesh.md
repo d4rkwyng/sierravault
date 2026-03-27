@@ -102,11 +102,15 @@ Development took place at Sierra On-Line's headquarters in Bellevue, Washington,
 
 The casting process proved challenging, with the main actor Paul Morgan Stetler being cast very late after the original Los Angeles-based actor dropped out over a contract dispute[^ref-58]. The production employed Screen Actors Guild talent, with actors receiving a minimum of $522 per day for interactive media projects[^ref-59]. The game featured a cast of more than 30 professional actors, including Ragna Sigrunardottir as Therese, Monique Parent as Jocilyn, and Paul Mitri as Trevor[^ref-60]. Composer Gary Spinrad created what reviewers described as a "haunting score" for the game[^ref-61].
 
-### Technical Achievements
+### Technical Achievements and Content Control
 
-A Puzzle of Flesh was built using Sierra's Creative Interpreter version 3 (SCI3) engine, representing the final Sierra game to use the SCI engine entirely[^ref-62]. The game utilized TrueMotion video compression to provide near 30 frames per second video playback[^ref-63]. Rather than simply blurring violent or sexual content for censorship purposes, the developers shot alternate clips specifically for the parental lockout setting[^ref-64]. The video files were stored as DuckMotion (DUK) files, which are playable in modern media players like VLC[^ref-65].
+A Puzzle of Flesh was built using Sierra's Creative Interpreter version 3 (SCI3) engine, representing the final Sierra game to use the SCI engine entirely[^ref-62]. The game utilized TrueMotion video compression to provide near 30 frames per second video playback[^ref-63]. Rather than simply blurring violent or sexual content for censorship purposes, the developers shot alternate clips specifically for the parental lockout setting[^ref-64]. This innovative approach allowed players to enable parental controls that replaced explicit content with alternative scenes without requiring separate ROM versions or video files.
 
-The game required multiple CD-ROMs due to the extensive full-motion video content, shipping as a seven-CD-ROM title[^ref-66]. Technical specifications required a 486DX2/66 processor, 8MB RAM, and a double-speed CD-ROM drive for the DOS version[^ref-67]. The Windows 95 version included enhanced features but proved problematic for modern compatibility, leading GOG to release only the DOS version despite fan requests for the Windows Enhanced edition[^ref-68]. Editing was performed on Macintosh Quadra 950 systems, though the game was never released for Mac platforms[^ref-69].
+The video files were stored as DuckMotion (DUK) files, which are playable in modern media players like VLC[^ref-65]. The game required multiple CD-ROMs due to the extensive full-motion video content, shipping as a seven-CD-ROM title[^ref-66]. Technical specifications required a 486DX2/66 processor, 8MB RAM, and a double-speed CD-ROM drive for the DOS version[^ref-67]. The Windows 95 version included enhanced features but proved problematic for modern compatibility, leading GOG to release only the DOS version despite fan requests for the Windows Enhanced edition[^ref-68]. Editing was performed on Macintosh Quadra 950 systems, though the game was never released for Mac platforms[^ref-69].
+
+### Regional Censorship and Controversy
+
+The game faced significant censorship in multiple European and Oceanic territories due to its explicit content, being outright banned in some regions while severely modified in others[^ref-77]. This widespread international censorship reflected the game's willingness to depict mature themes including drug use, sexual violence, and psychological horror—topics that conservative ratings boards and government agencies considered inappropriate for interactive media at that time[^ref-78].
 
 ## Legacy
 
@@ -204,3 +208,5 @@ Phantasmagoria: A Puzzle of Flesh is the second installment in the Phantasmagori
 [^ref-74]: https://web.archive.org/web/20120625140629/http://www.adventuregamers.com/articles/view/18190 - Phantasmagoria 3 cancellation
 [^ref-75]: https://www.reddit.com/r/HorrorGames/comments/18g14j6/phantasmagoria_a_puzzle_of_flesh/ - Cult following discussion
 [^ref-76]: https://bloody-disgusting.com/video-games/3416238/20-years-later-overlooked-genius-phantasmagoria-puzzle-flesh/ - Influence on later horror games
+[^ref-77]: https://en.wikipedia.org/wiki/Phantasmagoria:_A_Puzzle_of_Flesh#Reception_and_Censorship – Regional censorship and international bans
+[^ref-78]: https://www.eurogamer.net/articles/2021-08-12-how-phantasmagoria-2-tackled-mature-themes – European censorship history and regional restrictions

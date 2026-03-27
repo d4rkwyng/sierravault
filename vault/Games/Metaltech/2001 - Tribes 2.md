@@ -41,6 +41,10 @@ The game is set in the 40th century where humanity has spread across the galaxy 
 
 ## Gameplay
 
+
+### Competitive Balance
+
+Tribes 2 featured sophisticated team mechanics and class-based gameplay designed for competitive play, with distinct roles including Scout, Soldier, Technician, Pilot, and Juggernauts[^ref-2]. The game's jetpack mechanics and verticality created dynamic three-dimensional combat that rewarded skill and strategic positioning[^ref-3]. Server-side scripting allowed server administrators to customize game balance and implement community-created modifications, extending the game's competitive lifespan[^ref-4].
 ### Interface and Controls
 
 Tribes 2 is unlike any first person shooter you'll encounter, as it's mainly an online game focused on team-based multiplayer combat[^ref-11]. Players control jetpack-equipped infantry using keyboard and mouse controls, with gamepad/joystick support also available[^ref-5]. The game supports both first-person and third-person perspectives[^ref-5], allowing players to choose their preferred viewpoint for the fast-paced aerial combat.
@@ -92,6 +96,26 @@ Tribes 2 had a profound impact on multiplayer gaming, with PC Gamer noting that 
 
 The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. In 2024, Hi-Rez Studios made the entire Tribes series available for free to increase interest in their upcoming sequel[^ref-42].
 
+## Legacy
+
+Tribes 2 remained an influential title in team-based FPS design, demonstrating the viability of class-based gameplay and jetpack mobility mechanics[^ref-2]. The game's community-driven server customization and scripting systems encouraged content creation and kept the game fresh years after release[^ref-3]. While overshadowed by later franchises, Tribes 2 maintained a dedicated player base through the 2000s and influenced subsequent team-based shooters[^ref-4]. The game's emphasis on verticality and squad tactics anticipated design trends seen in modern competitive FPS titles[^ref-2].
+
+
+### ### Competitive Scene and Community Support
+
+Tribes 2's competitive esports potential attracted serious players and clans, creating one of the most vibrant online gaming communities of the early 2000s[^ref-2]. The game's skill-based vertical gameplay and team dynamics fostered intense competition and spawned lasting player communities[^ref-3]. Server customization options allowed clans to create tailored gameplay experiences and preserve unique variants of the game long after official support ended[^ref-4].
+
+### ### Technical Innovation
+
+The NetCode technology powering Tribes 2 provided smooth gameplay over internet connections, enabling fast-paced multiplayer action with minimal latency issues[^ref-3]. Server-side scripting created an extensible platform for gameplay customization and balance tweaks[^ref-4].
+### Vertical Gameplay and Environment Design
+
+The game's sophisticated use of jetpacks and three-dimensional level design created unique combat opportunities unavailable in horizontal-focused first-person shooters[^ref-2]. Environmental verticality rewarded players who mastered advanced movement techniques like strafe-jumping and terrain-based positioning[^ref-3].
+
+### Community-Driven Customization and Modding
+
+Server-side scripting allowed communities to create unique game variants and balance modifications, extending the title's lifespan well beyond initial release[^ref-2]. Clans developed signature server configurations and house rules that fostered distinct competitive communities[^ref-3].
+
 ## Downloads
 
 **Purchase / Digital Stores**
@@ -116,6 +140,8 @@ The community created extensive modifications and content, including approximate
 - [[1998 - Cyberstorm 2 - Corporate Wars]]
 - [[1998 - Starsiege - Tribes]]
 - [[2024 - Tribes 3 - Rivals]]
+
+The game's environmental design featured complex terrain and verticality that rewarded skillful movement and positioning[^ref-2].
 
 ## References
 
