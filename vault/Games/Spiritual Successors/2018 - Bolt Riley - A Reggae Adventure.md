@@ -119,9 +119,13 @@ The game combines these elements with music-focused mechanics. As Oded Sharon de
 
 ## Reception
 
+### Contemporary Reviews
+
 Bolt Riley: A Reggae Adventure received limited critical coverage upon its release. The game holds a "Stylized" art style designation on Adventure Gamers' database, which describes it as "an adventure game, released in 2016 by Corbomite Games" (referring to the Early Access release date)[^ref-3].
 
 The project's troubled development history and episodic release model affected its reception. Only Chapter 1 was released as of February 2018, leaving the story incomplete and players waiting for future installments[^ref-3]. As of the game's release, subsequent chapters remained in development, though Oded Sharon acknowledged on Patreon that without steady income, "every single person who worked for Adventure Mob is currently busy with other projects."[^ref-22]
+
+### Modern Assessment
 
 Steam user reviews have been mixed, with players praising the art style and music while expressing concern about the incomplete nature of the episodic story[^ref-1]. The game's unique Jamaican setting and reggae theme distinguished it from other adventure games, though the limited scope of Chapter 1 left many wanting more.
 

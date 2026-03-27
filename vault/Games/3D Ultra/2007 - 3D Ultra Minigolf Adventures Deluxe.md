@@ -42,21 +42,21 @@ What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf game
 
 *3D Ultra Minigolf Adventures Deluxe* is primarily a gameplay-focused arcade sports title rather than a narrative-driven experience. The game presents players with fantastical minigolf courses set across imaginative themed environments, each offering its own visual style and gameplay challenges[^ref-7].
 
-The Classic Carnival theme features courses inspired by traditional fairground attractions, including holes named Duck Shot, Bump n' Run, Wind Tunnel, and Loop da Loop[^ref-10]. The Wild West theme transports players to frontier-era settings with courses like Graveyard Shift, Prairie Dogs, Dead Man's Creek, and Tipi Camp[^ref-10]. The Space theme takes the action to cosmic environments with holes such as Laseriffic, Planetoid, Two Planets, and Rocket Man[^ref-10].
+The Classic Carnival theme features courses inspired by traditional fairground attractions, including holes named Duck Shot, Bump n' Run, Wind Tunnel, and Loop da Loop[^ref-5]. The Wild West theme transports players to frontier-era settings with courses like Graveyard Shift, Prairie Dogs, Dead Man's Creek, and Tipi Camp[^ref-5]. The Space theme takes the action to cosmic environments with holes such as Laseriffic, Planetoid, Two Planets, and Rocket Man[^ref-5].
 
-The Lost Island expansion adds a fourth theme with tropical and nautical elements, featuring courses named Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, and Slipper Sliders[^ref-10]. Each environment features its own set of obstacles, power-ups, and hazards that complement the theme while providing unique gameplay challenges[^ref-11].
+The Lost Island expansion adds a fourth theme with tropical and nautical elements, featuring courses named Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, and Slipper Sliders[^ref-5]. Each environment features its own set of obstacles, power-ups, and hazards that complement the theme while providing unique gameplay challenges[^ref-5].
 
 ## Gameplay
 
 ### Interface and Controls
 
-The game offers two different control schemes for setting up shots and putting the ball, allowing players to choose their preferred method of play[^ref-10]. Players can control the direction and power of their shots, with the game featuring sweeping, panoramic views of each hole to help plan strategies[^ref-7]. The interface supports both single-player and local multiplayer modes for up to four players[^ref-7].
+The game offers two different control schemes for setting up shots and putting the ball, allowing players to choose their preferred method of play[^ref-5]. Players can control the direction and power of their shots, with the game featuring sweeping, panoramic views of each hole to help plan strategies[^ref-7]. The interface supports both single-player and local multiplayer modes for up to four players[^ref-7].
 
 The Steam version supports Windows PC with single-player functionality and family sharing features[^ref-2]. An Xbox 360 version was also released through Xbox Live Arcade on January 6, 2010, featuring support for multiple languages including English, Chinese, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Norwegian, Polish, Portuguese, Russian, Spanish, Swedish, and Turkish[^ref-9].
 
 ### Structure and Progression
 
-The game is organized around themed course collections, each containing multiple holes with varying par ratings[^ref-5][^ref-11]:
+The game is organized around themed course collections, each containing multiple holes with varying par ratings[^ref-5][^ref-5]:
 
 - **Classic Carnival:** 12 holes featuring fairground and circus-themed obstacles
 - **Wild West:** 12 holes set in frontier-era environments with western obstacles
@@ -67,11 +67,11 @@ Players can choose to play individual holes, complete themed courses, or engage 
 
 ### Puzzles and Mechanics
 
-Each hole presents players with physics-based puzzle challenges requiring careful consideration of angles, power, and timing[^ref-11]. The Space theme's Teleporter hole (par 4) demonstrates the game's complexity—if the ball drops into the teleporter in the center, players won't achieve a hole-in-one but will only get close to the hole; optimal play requires aiming slightly left of the spring power-up at full strength to execute a complex combination of angles[^ref-11].
+Each hole presents players with physics-based puzzle challenges requiring careful consideration of angles, power, and timing[^ref-5]. The Space theme's Teleporter hole (par 4) demonstrates the game's complexity—if the ball drops into the teleporter in the center, players won't achieve a hole-in-one but will only get close to the hole; optimal play requires aiming slightly left of the spring power-up at full strength to execute a complex combination of angles[^ref-5].
 
-The Laseriffic hole (par 4) features laser obstacles that cause the ball to go out of bounds if struck, as well as a vacuum power-up that can suck the ball toward the hole when properly utilized[^ref-11]. A tentacle hidden in one corner's grating will throw the ball at the vacuum power-up if landed there, but away from the final hole[^ref-11]. The Pinball hole (par 3) includes an actual pinball machine mechanism where players control flippers to guide the ball, with a hole-in-one requiring the ball to enter a specific yellow hole within the pinball machine[^ref-11].
+The Laseriffic hole (par 4) features laser obstacles that cause the ball to go out of bounds if struck, as well as a vacuum power-up that can suck the ball toward the hole when properly utilized[^ref-5]. A tentacle hidden in one corner's grating will throw the ball at the vacuum power-up if landed there, but away from the final hole[^ref-5]. The Pinball hole (par 3) includes an actual pinball machine mechanism where players control flippers to guide the ball, with a hole-in-one requiring the ball to enter a specific yellow hole within the pinball machine[^ref-5].
 
-Power-ups scattered throughout courses include vacuum effects, springs, and various ball-altering abilities that add strategic depth to gameplay[^ref-7][^ref-11]. Hazards vary by theme and can include lasers, water hazards, moving obstacles, and environmental traps[^ref-7][^ref-11].
+Power-ups scattered throughout courses include vacuum effects, springs, and various ball-altering abilities that add strategic depth to gameplay[^ref-7][^ref-5]. Hazards vary by theme and can include lasers, water hazards, moving obstacles, and environmental traps[^ref-7][^ref-5].
 
 ## Reception
 
@@ -111,7 +111,7 @@ The original unfinished *Minigolf Maniacs* has since received a fan completion i
 
 ### Technical Achievements
 
-The game features fully 3D-rendered courses with dynamic camera angles providing sweeping panoramic views of each hole[^ref-7]. The physics engine handles ball movement, bounces, and interactions with various course elements including power-ups, obstacles, and environmental features[^ref-11].
+The game features fully 3D-rendered courses with dynamic camera angles providing sweeping panoramic views of each hole[^ref-7]. The physics engine handles ball movement, bounces, and interactions with various course elements including power-ups, obstacles, and environmental features[^ref-5].
 
 The course editor represents a significant technical feature, allowing players to construct custom holes using a variety of components including tees, straights, corners, cups, junctions, and ramps[^ref-7]. The multiplayer system supports up to four simultaneous players in local multiplayer mode[^ref-7].
 
@@ -142,22 +142,22 @@ The course editor represents a significant technical feature, allowing players t
 
 ### Promotional Materials
 
-From May 24 until June 27, 2007, Taco Bell restaurants distributed four different demo disks of *3D Ultra Minigolf Adventures Deluxe*, each covering four holes of one of the full game's themes[^ref-10]. The demo disks could be purchased separately from a kids meal for one dollar apiece and also included a Freestyle Street Basketball preview and various kids puzzles including a simplified Sudoku puzzle[^ref-10].
+From May 24 until June 27, 2007, Taco Bell restaurants distributed four different demo disks of *3D Ultra Minigolf Adventures Deluxe*, each covering four holes of one of the full game's themes[^ref-5]. The demo disks could be purchased separately from a kids meal for one dollar apiece and also included a Freestyle Street Basketball preview and various kids puzzles including a simplified Sudoku puzzle[^ref-5].
 
 The four demo disk variants were:
 - **Wild West Demo Disk:** Graveyard Shift, Prairie Dogs, Dead Man's Creek, Tipi Camp
 - **Carnival Demo Disk:** Duck Shot, Bump n' Run, Wind Tunnel, Loop da Loop
 - **Space Demo Disk:** Laseriffic, Planetoid, Two Planets, Rocket Man
-- **Lost Island Demo Disk:** Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, Slipper Sliders[^ref-10]
+- **Lost Island Demo Disk:** Whale Of A Time, Sly Sea Serpent, Tropical Hideaway, Slipper Sliders[^ref-5]
 
-While the full version supports up to 4 players head-to-head, the demo version only allowed one player to control their selected character, with the other three characters playing as "phantoms" whose scores were reported summarily without visible action[^ref-10].
+While the full version supports up to 4 players head-to-head, the demo version only allowed one player to control their selected character, with the other three characters playing as "phantoms" whose scores were reported summarily without visible action[^ref-5].
 
 ### Easter Eggs and Trivia
 
 - The original *3D Ultra Minigolf Deluxe* (1998) was also known as *MaxiMiniGolf* and *MiniGolf Fantasy* in certain markets[^ref-15].
 - The original 1997 game received a patch to version 1.01 that added online multiplayer functionality, a feature that was built into the Deluxe version from the start[^ref-3].
-- The Laseriffic hole contains a hidden tentacle creature that interacts with the ball if it lands in a specific corner grating[^ref-11].
-- The Teleporter hole requires a specific angle slightly left of the spring power-up to achieve a hole-in-one through a complex series of bounces[^ref-11].
+- The Laseriffic hole contains a hidden tentacle creature that interacts with the ball if it lands in a specific corner grating[^ref-5].
+- The Teleporter hole requires a specific angle slightly left of the spring power-up to achieve a hole-in-one through a complex series of bounces[^ref-5].
 
 ## Legacy
 
@@ -235,8 +235,8 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 [^ref-7]: [Kotaku – 3D Ultra Minigolf Adventures Deluxe](https://kotaku.com/games/3d-ultra-minigolf-adventures-deluxe) – game features, description
 [^ref-12]: [Steam Community – 3D Ultra Minigolf Adventures Deluxe](https://steamcommunity.com/app/10140) – game description, community hub
 [^ref-9]: [XB Deals Canada – 3D Ultra Minigolf Adventures](https://xbdeals.net/ca-store/game/677939/3d-ultra-minigolf-adventures) – Xbox release date, price, languages, developer
-[^ref-10]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
-[^ref-11]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
+[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Demos](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=demos) – Taco Bell demo promotion, hole names, demo features
+[^ref-5]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: Walkthrough](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=walkthrough&pid=102) – gameplay mechanics, hole strategies, puzzle details
 [^ref-13]: [Steam Community Discussions – Lost Island Expansion?](https://steamcommunity.com/app/10140/discussions/0/648814844423043714/) – confirmation of Lost Island inclusion
 [^ref-14]: [Cybersouls.io – 3D Ultra Minigolf Adventures Deluxe](https://cybersouls.io/en/games/3d-ultra-minigolf-adventures-deluxe) – release date, platform information
 [^ref-15]: [MyAbandonware – 3D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – 1998 version details, alternate titles, technical specs

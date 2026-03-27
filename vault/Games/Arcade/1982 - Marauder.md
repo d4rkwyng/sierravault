@@ -213,7 +213,6 @@ The game's reception arc—from initial critical dismissal to modern reappraisal
 
 The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful context for understanding *Marauder*'s place in the maze shooter genre[^ref-9]. While not revolutionary, the game's line-of-sight mechanics and room persistence represented meaningful iterations on established formulas[^ref-4][^ref-11].
 
-
 ## Purchase
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
@@ -267,4 +266,4 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-13]: [RetroGames.cz – Marauder](https://www.retrogames.cz/play_1388-Atari2600.php) – file sizes, emulator access, MobyGames description
 [^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original documentation archive
 [^ref-15]: [Games Database – Marauder Atari 2600](https://www.gamesdatabase.org/game/atari-2600/marauder) – Atari game database entry and technical specifications
-[^ref-16]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information
+[^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information

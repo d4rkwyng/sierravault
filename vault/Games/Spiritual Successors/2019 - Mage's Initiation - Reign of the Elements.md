@@ -20,7 +20,6 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Mage's Initiation: Reign of the Elements is an adventure/RPG hybrid developed and published by Himalaya Studios, released on January 30, 2019 for Windows, macOS, and Linux[^ref-1]. The game represents a loving homage to Sierra On-Line's classic Quest for Glory series, blending traditional point-and-click adventure gameplay with role-playing elements including character classes, stat progression, and real-time combat[^ref-2]. Development spanned over a decade, making its gestation period longer than the entire nine-year lifespan of all five Quest for Glory releases combined[^ref-3].
@@ -113,13 +112,13 @@ Community reception on Reddit has been warm among Quest for Glory fans, with one
 
 The project that would become Mage's Initiation began in September 2009, when Himalaya Studios sought to create an original commercial property after years of producing free Sierra remakes[^ref-9]. The development team, comprised of people "all in their 30's and 40's" who "grew up on Sierra's and LucasArts' Point & Click adventures," wanted to recapture the magic of games they had experienced during the Golden Age of adventure gaming in the 1980s and 1990s[^ref-5].
 
-In 2008, Himalaya Studios conducted a fan poll to determine what type of game they should create next. The RPG/Adventure hybrid genre won, leading to the conception of Mage's Initiation[^ref-5]. The magic school concept was partly inspired by Harry Potter, though filtered through the lens of classic Sierra design sensibilities[^ref-5]. The team originally planned to release the game in late 2012, a target date that would prove wildly optimistic[^ref-27].
+In 2008, Himalaya Studios conducted a fan poll to determine what type of game they should create next. The RPG/Adventure hybrid genre won, leading to the conception of Mage's Initiation[^ref-5]. The magic school concept was partly inspired by Harry Potter, though filtered through the lens of classic Sierra design sensibilities[^ref-5]. The team originally planned to release the game in late 2012, a target date that would prove wildly optimistic[^ref-19].
 
 The studio's history with Sierra properties had been complicated. Operating previously as AGD Interactive, they had reached a legal agreement with Vivendi-Universal that allowed them to release free remakes of classic Sierra games. However, deals for commercial King's Quest titles were reportedly "bungled," leading the team to focus on original intellectual property[^ref-5].
 
 ### Production
 
-Development proved far more challenging and time-consuming than initially anticipated. Lead developer Chris Warren acknowledged in 2012 that "There's so much work to do on a multi-class RPG-style game (in hi-res, no less) that it's easy to underestimate the amount of work involved"[^ref-19]. The team lost several animators during development, significantly slowing progress[^ref-27].
+Development proved far more challenging and time-consuming than initially anticipated. Lead developer Chris Warren acknowledged in 2012 that "There's so much work to do on a multi-class RPG-style game (in hi-res, no less) that it's easy to underestimate the amount of work involved"[^ref-19]. The team lost several animators during development, significantly slowing progress[^ref-19].
 
 The Kickstarter campaign launched in February 2013 with a goal of $65,000 and concluded on March 22, 2013, having raised $125,174 from 3,157 backers[^ref-4]. The campaign originally promised a February 2014 release date[^ref-2], a deadline that would be missed by five years. The game was successfully Greenlit on Steam in February 2014[^ref-28].
 
@@ -278,7 +277,6 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 - [[2023 - Colossal Cave 3D Adventure]]
 - [[2023 - Summer Daze - Tilly's Tale]]
 
-
 ## References
 
 [^ref-1]: [MobyGames – Mage's Initiation: Reign of the Elements](https://www.mobygames.com/game/121392/mages-initiation-reign-of-the-elements/) – release dates, developer/publisher credits, engine, platforms, critics average
@@ -307,7 +305,7 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-24]: [GOG.com Store Page](https://www.gog.com/en/game/mages_initiation_reign_of_the_elements) – system requirements, OpenCritic score, user reviews
 [^ref-25]: [IMDB](https://www.imdb.com/find/?q=Mage%27s+Initiation&s=tt) – user rating
 [^ref-26]: [Reddit – Kickstarter Backer Review](https://www.reddit.com/r/questforglory/comments/tkgqpd/anyone_else_played_mages_initiation/) – user experience, combat feedback, pixel hunting issue
-[^ref-27]: [AGDI Forum – Early Development](http://www.agdinteractive.com/forum/viewtopic.php?f=18&t=15317&view=next) – 2012 release target, animator loss, pre-order success
+[^ref-19]: [AGDI Forum – Early Development](http://www.agdinteractive.com/forum/viewtopic.php?f=18&t=15317&view=next) – 2012 release target, animator loss, pre-order success
 [^ref-28]: [AGDI Forum – Development Timeline](https://www.agdinteractive.com/forum/viewtopic.php?t=14906&start=100) – Steam release, backer count, voice acting scope, completion percentage
 [^ref-29]: [Bandcamp – Soundtrack Release](https://brandonblume.bandcamp.com/album/mages-initiation-original-game-soundtrack) – track count, runtime, bonus content, release date
 [^ref-30]: [Bandcamp – Composer Bio](https://brandonblume.bandcamp.com/track/fire-mage-sidequest-untethered-spirit) – composer location, production credits

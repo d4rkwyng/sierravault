@@ -228,4 +228,4 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 
 [^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
 
-[^ref-15]: [Virtual Apple – Hi-Res Cribbage Emulation](https://www.virtualapple.org/cribbagedisk.html) – playable emulation preservation, Apple II compatibility
+[^ref-9]: [Virtual Apple – Hi-Res Cribbage Emulation](https://www.virtualapple.org/cribbagedisk.html) – playable emulation preservation, Apple II compatibility

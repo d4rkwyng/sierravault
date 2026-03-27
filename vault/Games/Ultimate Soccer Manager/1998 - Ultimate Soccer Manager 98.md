@@ -16,7 +16,7 @@ description: Ultimate Soccer Manager stands as one of the most innovative footba
   of...
 tags: [1990s, sierra, ultimate-soccer-manager]
 ---
-# Ultimate Soccer Manager
+# Ultimate Soccer Manager 98
 
 <small style="color: gray">Last updated: March 8, 2026</small>
 

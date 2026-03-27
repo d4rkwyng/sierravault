@@ -73,7 +73,7 @@ Sand Skimmer functions as an obstacle-avoidance game where players pilot a hover
 
 ### Contemporary Reviews
 
-Contemporary critical response to Roger Wilco's Spaced Out Game Pack was minimal, as budget compilations of this nature received limited coverage in gaming publications. The compilation was mentioned in Sierra's InterAction magazine in the Summer 1992 issue[^ref-9][^ref-18].
+Contemporary critical response to Roger Wilco's Spaced Out Game Pack was minimal, as budget compilations of this nature received limited coverage in gaming publications. The compilation was mentioned in Sierra's InterAction magazine in the Summer 1992 issue[^ref-5][^ref-18].
 
 The pack received harsh criticism from some players who encountered the games. One reviewer described the experience as "a horrible, horrible mess and a complete waste of time," criticizing the slow character movement and poor control responsiveness[^ref-8]. The same critic noted that "if the games responded to your controls in a timely manner, they might have been entertaining for a minute or two"[^ref-8].
 
@@ -130,7 +130,7 @@ No documented cut content exists specifically for this compilation, as the games
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | June 5, 1992 | IBM PC | Initial release[^ref-9] |
+| 1.0 | June 5, 1992 | IBM PC | Initial release[^ref-5] |
 | Alternate | 1993 | DOS | Secondary release year noted in some sources[^ref-4] |
 
 **SCI Interpreter Version:**[^ref-6]
@@ -177,7 +177,7 @@ The Space Quest series has maintained an active fan community. Quest Studios has
 
 ### Related Publications
 
-- **InterAction Magazine Vol. 5, No. 2 (Summer 1992):** Featured the game in the News Notes section, pages 14-15[^ref-9]
+- **InterAction Magazine Vol. 5, No. 2 (Summer 1992):** Featured the game in the News Notes section, pages 14-15[^ref-5]
 
 ### Critical Perspective
 
@@ -223,7 +223,7 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 [^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
 [^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
 [^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues
-[^ref-9]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
+[^ref-5]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=publications) – release date, InterAction magazine reference
 [^ref-10]: [Wikipedia – Space Quest](https://en.wikipedia.org/wiki/Space_Quest) – Scott Murphy quotes, series history
 [^ref-11]: [MyAbandonware – Play Page](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v/play-36v) – executable files, DOSBox compatibility
 [^ref-12]: [Wikipedia – Space Quest 6](https://en.wikipedia.org/wiki/Space_Quest_6) – series sales data

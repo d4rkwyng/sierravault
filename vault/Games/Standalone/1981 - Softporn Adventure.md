@@ -19,7 +19,6 @@ tags: [1980s, adventure, sierra, standalone]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Softporn Adventure is a comedic, adult-oriented text adventure game released in 1981, notable for being the only pure text adventure ever published by Sierra (then known as On-Line Systems).[^ref-1] Created by Chuck Benton as a programming exercise to teach himself Applesoft BASIC, the game became an unexpected commercial success and cultural phenomenon that would later inspire the beloved Leisure Suit Larry series.[^ref-2] Set in the fictional city of "Lost Vagueness" in a dystopian vision of the year 2020 A.D., the game tasks players with seducing three different women while navigating a world of bars, casinos, and discos.[^ref-3]
@@ -103,7 +102,7 @@ However, some modern critics have found merit in the game. The Digital Antiquari
 
 ### Origins
 
-Softporn Adventure began as a programming exercise when Chuck Benton, a Massachusetts native, purchased an Apple II computer and decided to teach himself Applesoft BASIC by creating a game.[^ref-2] According to Gary Thompson, who later ported the game to DOS, "Chuck thought that a perfect test of database programming would be to write a little adventure game.... thus Softporn was born."[^ref-34] Benton believed databases were the future of computing and designed the game around multiple database concepts.[^ref-4]
+Softporn Adventure began as a programming exercise when Chuck Benton, a Massachusetts native, purchased an Apple II computer and decided to teach himself Applesoft BASIC by creating a game.[^ref-2] According to Gary Thompson, who later ported the game to DOS, "Chuck thought that a perfect test of database programming would be to write a little adventure game.... thus Softporn was born."[^ref-14] Benton believed databases were the future of computing and designed the game around multiple database concepts.[^ref-4]
 
 The game was originally titled "Super Stud Adventure" during development.[^ref-5] Benton created it partly to entertain himself and his friends, conducting weekend playtesting sessions to gather feedback and refine the gameplay.[^ref-26] He never initially intended for commercial release, making the game primarily as a personal project and learning exercise.[^ref-35]
 
@@ -133,7 +132,7 @@ The game's structure—featuring multiple locations, inventory management, casin
 - **Sound:** None
 - **Language:** Applesoft BASIC
 
-**MS-DOS Version (1991):**[^ref-34]
+**MS-DOS Version (1991):**[^ref-14]
 - **Programming:** Microsoft C, Quick-Assembler, Macro-Assembler
 - **Display:** Supports 43/50 line screens
 - **Screen Modes:** Text-based
@@ -149,18 +148,18 @@ Chuck Benton had plans for additional content that never materialized. A female 
 | Original | Spring 1981 | Apple II | Blue Sky Software self-published release[^ref-32] |
 | On-Line Systems | 1981 | Apple II | Commercial release after Ken Williams acquisition[^ref-2] |
 | Atari 8-bit | June 14, 1981 | Atari 400/800 | Port to Atari platforms[^ref-37] |
-| PC Port 1.1 | Late 1980s | MS-DOS | Gary Thompson shareware version with 43/50 line support[^ref-34] |
-| PC Port 2.1 | ~1991 | MS-DOS | Major rewrite, bug fixes, casino games redesigned[^ref-34] |
-| PC Port 2.2 | 1994 | MS-DOS | CD-ROM release in LSL Greatest Hits[^ref-34] |
-| PC Port 2.3 | 1994 | MS-DOS | Added file-missing error trap[^ref-34] |
-| PC Port 2.4 | 1994 | MS-DOS | Bug fix for taxi driver payment calculation[^ref-34] |
+| PC Port 1.1 | Late 1980s | MS-DOS | Gary Thompson shareware version with 43/50 line support[^ref-14] |
+| PC Port 2.1 | ~1991 | MS-DOS | Major rewrite, bug fixes, casino games redesigned[^ref-14] |
+| PC Port 2.2 | 1994 | MS-DOS | CD-ROM release in LSL Greatest Hits[^ref-14] |
+| PC Port 2.3 | 1994 | MS-DOS | Added file-missing error trap[^ref-14] |
+| PC Port 2.4 | 1994 | MS-DOS | Bug fix for taxi driver payment calculation[^ref-14] |
 | Las Vegas | 1986 | PC-88, PC-98, FM-7, Sharp X1 | Japanese graphical remake by Starcraft[^ref-7] |
 | Z-code Port | October 18, 1997 | Z-Machine | Ported by Patrick Kellum[^ref-38] |
 | Browser | 2002 | Web | Unofficial browser port[^ref-39] |
 
 ### Technical Issues
 
-The MS-DOS port by Gary Thompson contained several bugs in early versions. Most notably, a taxi driver payment bug in versions prior to 2.4 would give the player $65,000 instead of charging the correct fare.[^ref-34] The game was also known for its unforgiving death system, where choosing certain revival options would exit the game entirely to DOS without allowing a save reload.[^ref-4]
+The MS-DOS port by Gary Thompson contained several bugs in early versions. Most notably, a taxi driver payment bug in versions prior to 2.4 would give the player $65,000 instead of charging the correct fare.[^ref-14] The game was also known for its unforgiving death system, where choosing certain revival options would exit the game entirely to DOS without allowing a save reload.[^ref-4]
 
 The parser's limitations frustrated many players, with one commenter noting: "This game is soooo hard!!! I am bald from pulling my hair out... The major improvement [Al Lowe] made was making it possible to win Leisure Suit Larry without a walk-through, or a PHD."[^ref-32]
 
@@ -184,18 +183,18 @@ The game's success had immediate impact on On-Line Systems, temporarily doubling
 
 ### Collections
 
-The game was included in Sierra's "Leisure Suit Larry's Greatest Hits and Misses!" collector's edition CD-ROM in 1994, featuring an updated, bug-fixed PC version (2.2).[^ref-34] This remains the most accessible official release of the game. The game is also available as freeware on Al Lowe's personal website.[^ref-1]
+The game was included in Sierra's "Leisure Suit Larry's Greatest Hits and Misses!" collector's edition CD-ROM in 1994, featuring an updated, bug-fixed PC version (2.2).[^ref-14] This remains the most accessible official release of the game. The game is also available as freeware on Al Lowe's personal website.[^ref-1]
 
 ### Fan Projects
 
-Gary Thompson's 1991 DOS port represents a significant fan preservation effort. Thompson spent approximately three months recreating the game in C after discovering the original in 1984, later claiming "my game is the only surviving copy of the original Softporn."[^ref-34] The game has also been ported to Z-code format by Patrick Kellum in 1997, allowing it to run on Z-Machine emulators.[^ref-38]
+Gary Thompson's 1991 DOS port represents a significant fan preservation effort. Thompson spent approximately three months recreating the game in C after discovering the original in 1984, later claiming "my game is the only surviving copy of the original Softporn."[^ref-14] The game has also been ported to Z-code format by Patrick Kellum in 1997, allowing it to run on Z-Machine emulators.[^ref-38]
 
 A Pascal port by Paul Schlyter was created in 1986 for CP/M and MS-DOS, originally as a learning exercise for Turbo Pascal 3.0.[^ref-22] More recently, modern Free Pascal ports have been developed to preserve the game for contemporary systems.[^ref-22]
 
 ### Related Publications
 
 - **Original Game Manual:** Included with Apple II release, containing game instructions and the famous warning about adult content[^ref-14]
-- **Shareware Manual (DOS):** Gary Thompson's comprehensive manual documenting the port's development history and version changes[^ref-34]
+- **Shareware Manual (DOS):** Gary Thompson's comprehensive manual documenting the port's development history and version changes[^ref-14]
 
 ### Critical Perspective
 
@@ -219,7 +218,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 - [IF Archive - Source Code](https://ifarchive.org/if-archive/games/source/softporp.zip)[^ref-43]
 
 **Manuals & Extras**
-- [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-34]
+- [DOS Manual (Gary Thompson Version)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt)[^ref-14]
 
 ## See Also
 
@@ -249,7 +248,6 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 - [[1997 - Diablo - Hellfire]]
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
-
 
 ## References
 
@@ -282,7 +280,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-30]: [IMDB – Softporn Adventure](https://www.imdb.com/title/tt0442702/) – user rating, credits
 [^ref-31]: [GameFAQs – Softporn Adventure Stats](https://gamefaqs.gamespot.com/atari8bit/952715-softporn-adventure/stats) – user ratings, rankings
 [^ref-33]: [Adventure Gamers – Softporn Adventure](https://adventuregamers.com/games/softporn-adventure) – community rating, publication details
-[^ref-34]: [Abandonware DOS – Softporn Adventure Manual (Gary Thompson)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt&st=manual&sg=Softporn+Adventure&idg=1123) – DOS port history, version information, bug fixes
+[^ref-14]: [Abandonware DOS – Softporn Adventure Manual (Gary Thompson)](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt&st=manual&sg=Softporn+Adventure&idg=1123) – DOS port history, version information, bug fixes
 [^ref-35]: [RetroMania.gg – Softporn Adventure](https://retromania.gg/games/dos/softporn-adventure) – trade show discovery, publishing difficulties
 [^ref-36]: [Retro365 Blog – Softporn](https://retro365.blog/2018/06/24/a-bit-from-my-personal-collection-softporn/) – sales timeline, company impact, advertising difficulties
 [^ref-37]: [Every Game Going – Softporn Adventure](https://www.everygamegoing.com/litem/Softporn-Adventure/148784/) – Atari release date, technical specifications

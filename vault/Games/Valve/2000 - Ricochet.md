@@ -51,38 +51,21 @@ Ricochet describes itself as "a futuristic action game that challenges your agil
 
 The core gameplay loop is deceptively simple: throw discs, avoid discs, don't fall off the platform. However, mastering the physics of disc bounces, predicting opponent movement, and maintaining platform position while attacking creates depth that rewarded dedicated players.
 
-### Movement and Platforming
+### Structure and Progression
 
-Unlike traditional first-person shooters, Ricochet places significant emphasis on movement and platforming skills. Players must navigate between floating platforms while simultaneously tracking opponents and avoiding incoming projectiles. The void surrounding the platforms means that positioning mistakes can be instantly fatal—getting knocked off by a disc or misjudging a jump results in immediate death.
+The game is structured around match-based deathmatch gameplay without a single-player campaign or narrative progression.[^ref-13] Players can engage in one-on-one duels or team-based matches across various futuristic battle arenas.[^ref-7] The deathmatch format tracks eliminations, with players earning points for disc kills and platform knockoffs. Team modes add strategic depth as players coordinate disc throws and platform control with teammates. Matches have adjustable length and score limits, allowing players to customize their experience for casual play or competitive tournaments.
 
-This emphasis on spatial awareness and platform navigation gave Ricochet a unique feel compared to corridor-based shooters. The open arena design meant players were constantly exposed and had to rely on movement rather than cover for survival.
+### Puzzles and Mechanics
 
-### Disc Combat
+Rather than traditional puzzles, Ricochet's depth emerges from mastering movement, positioning, and disc physics. Players must navigate between floating platforms while simultaneously tracking opponents and avoiding incoming projectiles. The void surrounding the platforms means positioning mistakes are instantly fatal—getting knocked off by a disc or misjudging a jump results in immediate death.
 
-The energy discs function as both weapon and utility tool. Players can throw discs at opponents to damage and knock them backward, but must also catch returning discs or wait for a cooldown before throwing again. Skilled players learned to bank discs off walls to hit opponents from unexpected angles, giving the combat system depth beyond simple aim-and-fire mechanics.
+The energy discs function as both weapon and utility tool. Players can throw discs at opponents to damage and knock them backward, but must also catch returning discs or wait for a cooldown before throwing again. Skilled players learn to bank discs off walls to hit opponents from unexpected angles, giving the combat system depth beyond simple aim-and-fire mechanics. Disc combat rewards prediction over pure reaction time—since discs travel slower than bullets and bounce off surfaces, players must anticipate where opponents will be rather than simply aiming at their current position.
 
-Disc combat rewards prediction over pure reaction time. Since discs travel slower than bullets and bounce off surfaces, players must anticipate where opponents will be rather than simply aiming at their current position. This created a more cerebral combat experience than typical twitch shooters.
-
-### Game Modes
-
-The game supports both one-on-one duels and team-based matches played across various futuristic battle arenas.[^ref-7] The deathmatch format tracks eliminations, with players earning points for disc kills and platform knockoffs. Team modes added strategic depth as players could coordinate disc throws and platform control with teammates.
-
-### Powerups
-
-Players can collect powerups scattered across platforms that modify disc behavior, adding variety and tactical options:[^ref-8]
-
-- **Triple Shot:** Fire three discs simultaneously, covering a wider area
-- **Fast Disc:** Increased projectile speed for harder-to-dodge attacks
-- **Power Disc:** Enhanced knockback effect, making platform knockoffs easier
-- **Freeze Disc:** Temporarily immobilizes opponents, setting up follow-up attacks
-
-These powerups spawned at fixed locations on maps, creating contested objectives that drew players into combat. Controlling powerup spawns became a key strategic element for competitive play.
+Players can collect powerups scattered across platforms that modify disc behavior, adding variety and tactical options: Triple Shot (three discs simultaneously), Fast Disc (increased speed), Power Disc (enhanced knockback), and Freeze Disc (temporary immobilization)[^ref-8]. These powerups spawn at fixed locations on maps, creating contested objectives that draw players into combat. Controlling powerup spawns becomes a key strategic element for competitive play.
 
 ### Interface and Controls
 
-Built on the GoldSrc engine, Ricochet uses Half-Life's first-person perspective but replaces traditional weapons with the disc-throwing mechanic.[^ref-1] The familiar Half-Life control scheme made the game immediately accessible to players familiar with the engine, while the unique disc mechanics provided fresh gameplay.
-
-The HUD displayed essential information including disc cooldown status, powerup availability, and platform positions. The clean interface kept focus on the action while providing necessary tactical information.
+Built on the GoldSrc engine, Ricochet uses Half-Life's first-person perspective but replaces traditional weapons with the disc-throwing mechanic.[^ref-1] The familiar Half-Life control scheme made the game immediately accessible to players familiar with the engine, while the unique disc mechanics provided fresh gameplay. The HUD displays essential information including disc cooldown status, powerup availability, and platform positions. The clean interface keeps focus on the action while providing necessary tactical information.
 
 ## Development
 
@@ -299,9 +282,9 @@ The game is occasionally included in Valve Complete Pack bundles and has been of
 [^ref-83]: [MobyGames - Ricochet Trivia](https://www.mobygames.com/game/4481/ricochet/trivia/) - Game trivia documentation
 [^ref-84]: [MobyGames - Ricochet Screenshots](https://www.mobygames.com/game/4481/ricochet/screenshots/) - Screenshot archive
 [^ref-85]: [MobyGames - Ricochet Promo](https://www.mobygames.com/game/4481/ricochet/promo/) - Promotional materials archive
-[^ref-86]: [PCGamingWiki - Ricochet System Requirements](https://www.pcgamingwiki.com/wiki/Ricochet#System_requirements) - Technical specifications
-[^ref-87]: [PCGamingWiki - Ricochet Issues](https://www.pcgamingwiki.com/wiki/Ricochet#Issues_fixed) - Technical issue documentation
-[^ref-88]: [PCGamingWiki - Ricochet Network](https://www.pcgamingwiki.com/wiki/Ricochet#Network) - Multiplayer specifications
+[^ref-15]: [PCGamingWiki - Ricochet System Requirements](https://www.pcgamingwiki.com/wiki/Ricochet#System_requirements) - Technical specifications
+[^ref-15]: [PCGamingWiki - Ricochet Issues](https://www.pcgamingwiki.com/wiki/Ricochet#Issues_fixed) - Technical issue documentation
+[^ref-15]: [PCGamingWiki - Ricochet Network](https://www.pcgamingwiki.com/wiki/Ricochet#Network) - Multiplayer specifications
 [^ref-89]: [Valve News Network - Ricochet Coverage](https://www.youtube.com/c/ValveNewsNetwork/search?query=ricochet) - YouTube gaming news channel
 [^ref-90]: [Noclip Documentary - Valve History](https://www.youtube.com/c/nikiiinotwithstanding/search?query=valve) - Documentary gaming channel
 [^ref-91]: [DidYouKnowGaming - Valve Facts](https://www.youtube.com/c/DidYouKnowGaming/search?query=valve) - Gaming facts channel

@@ -217,7 +217,7 @@ The game's emphasis on consequences for environmental destruction—whether thro
 - **Series:** [[EcoQuest: The Search for Cetus|EcoQuest Series]]
 - **Previous:** [[1991 - EcoQuest - The Search for Cetus|← The Search for Cetus]] (1991)
 - **Related Educational Games:** [[The Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
-- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
+- **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 
 ## References
 

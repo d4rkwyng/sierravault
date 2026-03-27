@@ -28,7 +28,7 @@ Casino Deluxe 2 is a gambling simulation game released on October 22, 1996 for I
 
 The game was designed as a risk-free gambling experience, allowing players to enjoy the thrill of casino gaming without wagering real money[^ref-3]. A standout feature was the on-screen professional advice system, described as being "like having a casino expert right by your side," which provided players with invaluable tips and strategies applicable even to real-world gambling scenarios[^ref-2]. The game also included a Gambling Academy feature with lessons and game histories to help players understand the rules and strategies of various casino games[^ref-4].
 
-Casino Deluxe 2 supported both Windows 3.1 and Windows 95 platforms, and notably included internet play capabilities and a free laptop version on the CD-ROM[^ref-5]. The game was part of Sierra's broader entertainment software lineup during the mid-1990s, appearing in The Game Catalogue 1996-1997[^ref-6].
+Casino Deluxe 2 supported both Windows 3.1 and Windows 95 platforms, and notably included internet play capabilities and a free laptop version on the CD-ROM[^ref-5]. The game was part of Sierra's broader entertainment software lineup during the mid-1990s, appearing in The Game Catalogue 1996-1997[^ref-1].
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -161,7 +161,7 @@ The 256-color limitation caused images to "wash out momentarily when switching b
 
 ### Sales and Commercial Impact
 
-Casino Deluxe 2 was marketed as part of Sierra's entertainment software lineup and appeared in The Game Catalogue 1996-1997[^ref-6]. While specific sales figures are not available, the game maintained enough commercial presence to warrant multiple retail releases and patches[^ref-13]. The game was distributed primarily in North America, with the Sierra brand handling international distribution[^ref-7].
+Casino Deluxe 2 was marketed as part of Sierra's entertainment software lineup and appeared in The Game Catalogue 1996-1997[^ref-1]. While specific sales figures are not available, the game maintained enough commercial presence to warrant multiple retail releases and patches[^ref-13]. The game was distributed primarily in North America, with the Sierra brand handling international distribution[^ref-7].
 
 ### Collections
 
@@ -173,7 +173,7 @@ The game has been preserved through multiple Internet Archive uploads, maintaine
 
 ### Related Publications
 
-- **The Game Catalogue 1996-1997:** Featured Casino Deluxe 2 on page 12[^ref-6]
+- **The Game Catalogue 1996-1997:** Featured Casino Deluxe 2 on page 12[^ref-1]
 
 ### Critical Perspective
 
@@ -227,7 +227,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/255059364612) – 3D environment, 18 games, dealer advice feature, gambling simulation description
 [^ref-4]: [eBay Product Page](https://www.ebay.com/p/53914700) – dealer communication, advice system, Gambling Academy feature
 [^ref-5]: [Amazon – Casino Deluxe 2](https://www.amazon.com/Casino-Deluxe-Cd-rom-Version-Internet/dp/B00ENQAV8I) – Windows 3.1/95 platforms, internet play, laptop version, UPC 020626837347
-[^ref-6]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
+[^ref-1]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
 [^ref-7]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – David Lester designer, Impressions development, Sierra acquisition, review scores from multiple publications
 [^ref-8]: [Internet Archive – Casino Deluxe 2 (Sierra 1996)](https://archive.org/details/Casino_deluxe_2_Sierra_1996) – file size 158.4M, preservation metadata, CD-ROM Preservation Project upload
 [^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – user review, 256 colors, elevator muzak, Gambling Academy description, floor layout

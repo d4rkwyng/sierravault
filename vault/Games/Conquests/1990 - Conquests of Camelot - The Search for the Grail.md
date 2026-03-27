@@ -187,12 +187,12 @@ A rare "Out of heap" error has been documented, requiring a save game workaround
 
 The game contains numerous hidden references and Easter eggs, many paying tribute to Monty Python's *Holy Grail*:
 
-- **Monty Python Treasury Dance:** Type "HAM AND JAM AND SPAM A LOT" (case sensitive) in the treasury room, and three soldiers will appear dancing to a cheerful tune. The sequence concludes with the text "In memory of Graham Chapman," honoring the Monty Python member who died on October 4, 1989.[^ref-25]
-- **"Watery Tart" Reference:** Queen Gwenhyver refers to the Lady of the Lake as "The Watery Tart," directly quoting the famous Monty Python and the Holy Grail line: "You can't expect to wield some supreme executive power, just because some watery tart threw a sword at you."[^ref-25]
+- **Monty Python Treasury Dance:** Type "HAM AND JAM AND SPAM A LOT" (case sensitive) in the treasury room, and three soldiers will appear dancing to a cheerful tune. The sequence concludes with the text "In memory of Graham Chapman," honoring the Monty Python member who died on October 4, 1989.[^ref-8]
+- **"Watery Tart" Reference:** Queen Gwenhyver refers to the Lady of the Lake as "The Watery Tart," directly quoting the famous Monty Python and the Holy Grail line: "You can't expect to wield some supreme executive power, just because some watery tart threw a sword at you."[^ref-8]
 - **Latin Graffiti:** On a wall in the dirty alley in Jerusalem, Latin text reads "PRO BONUM TEMPUS APPELA BERTA" (for a good time, call Berta), possibly referencing Roberta Williams. When examined, the game message states: "Let us simply say that it is someone's crude idea of a joke."[^ref-20]
-- **Designer Names in Greek:** At Southampton dock, typing "LOOK NAME" reveals "It is Greek for Kristi," and "LOOK KRISTI" shows "Peter loves Christie and Christie loves Peter," referencing designers Christy Marx and Peter Ledger.[^ref-25]
+- **Designer Names in Greek:** At Southampton dock, typing "LOOK NAME" reveals "It is Greek for Kristi," and "LOOK KRISTI" shows "Peter loves Christie and Christie loves Peter," referencing designers Christy Marx and Peter Ledger.[^ref-8]
 - **A sign in Jerusalem reads "LEDGER" in Greek letters, honoring illustrator Peter Ledger.[^ref-11]
-- **Producer Reference:** At Ismael's antiquities shop, a man claims to have "hairs from the beard of Guruka Singh" and mentions "the difficulty of shaving a Sikh," referencing producer Guruka Singh Khalsa.[^ref-25]
+- **Producer Reference:** At Ismael's antiquities shop, a man claims to have "hairs from the beard of Guruka Singh" and mentions "the difficulty of shaving a Sikh," referencing producer Guruka Singh Khalsa.[^ref-8]
 - **Roland MT-32 Messages:** The Roland MT-32 displays messages including "Conquest of Camelot" and "(It's Only A Model)"—another Monty Python reference. When quitting the game, it displays "HAM&JAM&SPAMALOT."[^ref-11]
 - **Hidden Runes:** The runes in the game actually contain the words "Stormbringer," "death is all," and "beware cursed is the wielder Thor" rather than the official translation about five stone poets.[^ref-11]
 
@@ -247,7 +247,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 - **Series:** [[Conquests of Camelot|Conquests Series]]
 - **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Conquests of the Longbow]] (1991)
 - **Creator:** [[Christy Marx]] (designer/writer)
-- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
+- **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
 
 ## References
@@ -275,7 +275,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-22]: [OldGames.sk](https://www.oldgames.sk/en/game/conquests-of-camelot-the-search-for-the-grail/download/1528/) – user rating
 [^ref-23]: [Conquests Fandom – Development](https://conquests.fandom.com/wiki/Conquests_of_Camelot_development) – title changes, cut content, version differences
 [^ref-24]: [Sierra Help – Soundtrack Collection](https://sierrahelp.com/Music/SierraSoundtrackCollection.html) – Mark Seibert composer notes
-[^ref-25]: [Sierra Chest – Easter Eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) – Monty Python references, designer references
+[^ref-8]: [Sierra Chest – Easter Eggs](https://www.sierrachest.com/index.php?a=games&id=140&fld=eggs) – Monty Python references, designer references
 [^ref-26]: [VGMdb – Sierra Soundtrack Collection](https://vgmdb.net/album/2241) – compilation track listing
 [^ref-27]: [Quest Studios – Digital Soundtracks](https://www.midimusicadventures.com/queststudios/digital-soundtracks/camelot/) – fan soundtrack project
 [^ref-28]: [Sierra Music Central](http://www.sierramusiccentral.com/camelot.html) – music preservation

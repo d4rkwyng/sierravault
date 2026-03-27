@@ -84,7 +84,7 @@ IGN gave the game 8.9/10, with reviewer Clayton Wolfe stating that "Never before
 
 GameSpot awarded an 8.4/10, calling it "utterly exciting and addictive" and "a model of its kind and a thrilling action game."[^ref-21] Computer Games Magazine scored it 90/100, describing the experience as "a heart-pounding, visceral experience that gets under your skin" with a "very high 'just one more round' addiction factor."[^ref-21] Additional high scores included Spank! (90/100), Happy Puppy (90/100), and CPUGamer (90/100), with the latter calling it "a revolutionary modification."[^ref-21]
 
-The Xbox port, released in 2003 and developed by Ritual Entertainment, received more mixed reviews with a Metacritic score of 74.[^ref-22] GameSpy called it "possibly the best game currently available for Xbox Live," while GameRevolution gave it only 5/10, noting it "offers little more than its PC counterpart, sorely lacking any notable changes to what is now a pretty old game."[^ref-23]
+The Xbox port, released in 2003 and developed by Ritual Entertainment, received more mixed reviews with a Metacritic score of 74.[^ref-21] GameSpy called it "possibly the best game currently available for Xbox Live," while GameRevolution gave it only 5/10, noting it "offers little more than its PC counterpart, sorely lacking any notable changes to what is now a pretty old game."[^ref-23]
 
 ### Modern Assessment
 
@@ -92,7 +92,7 @@ Counter-Strike's legacy has only grown over time, with the game widely recognize
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 88/100 (11 reviews)[^ref-21]
-- **Metacritic (Xbox):** 74/100[^ref-22]
+- **Metacritic (Xbox):** 74/100[^ref-21]
 - **MobyGames Critics:** 89%[^ref-2]
 - **MobyGames Player Average:** 3.4/5[^ref-25]
 - **IMDb:** 8.5/10 (4,100+ ratings)[^ref-26]
@@ -160,7 +160,7 @@ Counter-Strike's network code underwent complete reworking in Beta 6.5 to improv
 
 Several planned features never made it into the final game. Early development discussions mentioned a "Yogurt Cannon" and "Human Shield" mechanic that were dropped before release.[^ref-30] Creator Gooseman expressed regret about never finding time to add a revolver, specifically mentioning interest in the Colt Anaconda or Manhurin MR73.[^ref-10]
 
-The Escape scenario mode, which appeared in early beta versions, was eventually removed from official rotation.[^ref-1] Drive-able vehicles briefly appeared in Beta 7.0 but were cut from subsequent versions.[^ref-1] Maps removed during development included Docks, Forest, Railroad, and Trinity, while new maps like Arabstreets, Foption, Highrise, Jeepathon2000, Office, and Vegas were added in Beta 7.0.[^ref-35]
+The Escape scenario mode, which appeared in early beta versions, was eventually removed from official rotation.[^ref-1] Drive-able vehicles briefly appeared in Beta 7.0 but were cut from subsequent versions.[^ref-1] Maps removed during development included Docks, Forest, Railroad, and Trinity, while new maps like Arabstreets, Foption, Highrise, Jeepathon2000, Office, and Vegas were added in Beta 7.0.[^ref-33]
 
 ### Version History
 
@@ -169,7 +169,7 @@ The Escape scenario mode, which appeared in early beta versions, was eventually 
 | Beta 1 | June 19, 1999 | PC | First public release, 9 weapons, 3 maps[^ref-29] |
 | Beta 1.1 | 1999 | PC | Added losing team money, improved balance[^ref-29] |
 | Beta 6.5 | June 8, 2000 | PC | Network rework, smoke grenades, flashbang rename[^ref-33] |
-| Beta 7.0 | August 26, 2000 | PC | VGUI menus, new maps, Dual Berettas added[^ref-35] |
+| Beta 7.0 | August 26, 2000 | PC | VGUI menus, new maps, Dual Berettas added[^ref-33] |
 | 1.0 | November 9, 2000 | PC/Linux | First retail release[^ref-32] |
 | 1.1 | 2001 | PC | New spectator mode[^ref-1] |
 | 1.3 | 2001 | PC | Voice chat introduced[^ref-1] |
@@ -192,7 +192,7 @@ The Escape scenario mode, which appeared in early beta versions, was eventually 
 
 Early beta versions suffered from numerous crashing bugs due to Le's inexperience with the Half-Life codebase.[^ref-28] The retail version encountered compatibility issues with later Windows versions, requiring users to run the game in Windows 7 compatibility mode with administrator privileges on Windows 10 and later.[^ref-38] Some Spanish localized versions had an updater that never functioned properly and lacked a working update website.[^ref-39]
 
-Modern systems may experience memory detection errors, and users report that setting graphics rendering to "Software" mode can help with certain compatibility issues on vintage installations.[^ref-35] The original retail version (1.0-1.5) is separate from the Steam version (1.6+), which caused some confusion during the transition to Valve's digital platform.[^ref-7]
+Modern systems may experience memory detection errors, and users report that setting graphics rendering to "Software" mode can help with certain compatibility issues on vintage installations.[^ref-33] The original retail version (1.0-1.5) is separate from the Steam version (1.6+), which caused some confusion during the transition to Valve's digital platform.[^ref-7]
 
 Cheating became a significant problem, with players discovering ways to turn invisible, make enemies appear brighter, or crash servers using scripts.[^ref-5] These issues led to the implementation of anti-cheat measures in version 1.4.[^ref-1]
 
@@ -332,7 +332,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-19]: [Old PC Gaming – Counter-Strike Retail Review](https://oldpcgaming.net/half-life-counter-strike-retail-review/) – map count, system requirements
 [^ref-20]: [IGN – Counter-Strike Review](https://www.ign.com/articles/2000/11/23/counter-strike-2) – review score, retail package contents
 [^ref-21]: [Metacritic – Counter-Strike (PC)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores
-[^ref-22]: [Metacritic – Counter-Strike (Xbox)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=xbox) – Xbox port reviews
+[^ref-21]: [Metacritic – Counter-Strike (Xbox)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=xbox) – Xbox port reviews
 [^ref-23]: [GameRevolution – Counter-Strike Xbox Review](https://www.gamerevolution.com/review/34257-counter-strike-review-2) – Xbox port criticism, developer info
 [^ref-24]: [Academia.edu – Counter-Strike Research](https://www.academia.edu/230698) – academic analysis, player statistics
 [^ref-25]: [MobyGames – User Reviews](https://www.mobygames.com/game/2726/half-life-counter-strike/reviews/) – player perspectives, ratings
@@ -345,7 +345,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-32]: [GameSpot – Counter-Strike 1.0 Released](https://www.gamespot.com/articles/counter-strike-10-released/1100-2652037/) – release announcement, file sizes
 [^ref-33]: [HL2-Beta.ru – Beta 6.5 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=54) – version changelog
 [^ref-34]: [Neoseeker Wiki – Half-Life: Counter-Strike](https://halflife.neoseeker.com/wiki/Half-Life:_Counter-Strike) – system requirements, Steam pricing
-[^ref-35]: [HL2-Beta.ru – Beta 7.0 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=56) – version changelog, map additions
+[^ref-33]: [HL2-Beta.ru – Beta 7.0 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=56) – version changelog, map additions
 [^ref-36]: [Xbox GameSpy – Counter-Strike Review](http://xbox.gamespy.com/xbox/counter-strike/6362p1.html) – Xbox release date, review
 [^ref-37]: [MobyGames – Patch History](https://www.mobygames.com/game/2726/half-life-counter-strike/patches/) – patch version dates
 [^ref-38]: [Internet Archive – Counter-Strike 1.3 Offline](https://archive.org/details/counter-strike-13_offline_2005) – compatibility instructions

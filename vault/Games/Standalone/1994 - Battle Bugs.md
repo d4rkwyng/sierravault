@@ -78,7 +78,8 @@ The battlefields themselves are not merely passive backgrounds—environmental f
 
 ### Contemporary Reviews
 
-*Computer Gaming World* provided a positive assessment in their November 1994 issue (No. 124, pages 222-224), with reviewer Robert L. Hayes Jr. noting that "No one will lose their jobs or spouse to an overdose of Battle Bugs playing, but plenty of gamers will have many enjoyable evenings of conquering cheese wedges and slaughtering spiders."[^ref-13] The same publication praised the game's fusion of humor and strategy: "BATTLE BUGS is nothing if not an enjoyable game to play. The manual and graphic elements of the game are uniformly hilarious, from the radar display running on a 'No Entiendo Lame Boy' to gruff spiders whirling into battle in a Tasmanian-devil-like tornado. BATTLE BUGS manages to achieve that rare fusion, a meaningful tactical game which is funny as well as fun to play."[^ref-3]
+*Computer Gaming World* provided a positive assessment in their November 1994 issue (No. 124, pages 222-224), with reviewer Robert L. Hayes Jr. noting that "No one will lose their jobs or spouse to an overdose of Battle Bugs playing, but plenty of gamers will have many enjoyable evenings of conquering cheese wedges and slaughtering spiders."[^ref-13] The same publication praised the game's fusion of humor and strategy: "BATTLE BUGS is nothing if not an enjoyable game to play. The manual and graphic elements of the game are uniformly hilarious, from the radar display running on a 'No Entiendo Lame Boy' to gruff spiders whirling into battle in a Tasmanian-devil-like tornado.
+BATTLE BUGS manages to achieve that rare fusion, a meaningful tactical game which is funny as well as fun to play."[^ref-3]
 
 *PC Gamer* declared it "A real winner! This is the perfect wargame for people who normally don't like wargames."[^ref-3]
 

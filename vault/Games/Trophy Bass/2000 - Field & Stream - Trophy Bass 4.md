@@ -33,7 +33,7 @@ GameSpot's Stephen Poole awarded the game 8.2/10[^ref-1], while IGN gave it 8/10
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
-> **Designer:** Kurt Weber[^ref-7]
+> **Designer:** Kurt Weber[^ref-2]
 > **Publisher:** Sierra Sports[^ref-1]
 > **Platforms:** Windows[^ref-2]
 > **Release Year:** 2000[^ref-1]
@@ -85,7 +85,7 @@ Amazon customer reviews maintain a 3.8/5 average rating[^ref-3], though users re
 
 ### Origins
 
-Field & Stream: Trophy Bass 4 was developed by Dynamix in collaboration with Jeff Tunnell Productions[^ref-4] and published by Sierra Sports. The game was designed by Kurt Weber[^ref-7], continuing his work on the series. Development focused on expanding the lake count to 25 real-world locations, broadening the species roster beyond bass to include over 30 freshwater game fish, and adding Force Feedback controller support[^ref-3][^ref-8].
+Field & Stream: Trophy Bass 4 was developed by Dynamix in collaboration with Jeff Tunnell Productions[^ref-4] and published by Sierra Sports. The game was designed by Kurt Weber[^ref-2], continuing his work on the series. Development focused on expanding the lake count to 25 real-world locations, broadening the species roster beyond bass to include over 30 freshwater game fish, and adding Force Feedback controller support[^ref-3][^ref-8].
 
 ### Technical Achievements
 
@@ -133,7 +133,7 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-4]: [GamePressure – Field & Stream: Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – 1000+ gadgets, 30+ species, 25 lakes, multiplayer modes, system requirements
 [^ref-5]: [IGN – Field & Stream: Trophy Bass 4](https://www.ign.com/games/field-stream-trophy-bass-4) – 8/10 review score
 [^ref-6]: [The Digital Antiquarian – Trophy Bass](https://www.filfre.net/?s=Trophy+Bass) – Commercial success analysis, Wal-Mart sales
-[^ref-7]: [MobyGames – Trophy Bass Series Credits](https://www.mobygames.com/game/4831/trophy-bass/) – Kurt Weber designer credit
+[^ref-2]: [MobyGames – Trophy Bass Series Credits](https://www.mobygames.com/game/4831/trophy-bass/) – Kurt Weber designer credit
 [^ref-8]: [GameSpot – Field & Stream: Trophy Bass 4 Review](http://www.gamespot.com/pc/sports/fieldstreamtrophybass4/review.html) – 8.2/10 by Stephen Poole, 640x480, Force Feedback, WON.net, multimedia tips
 [^ref-9]: [MyAbandonware – Field & Stream: Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-dax) – 4.75/5 rating, preservation download
 [^ref-10]: [CNET Download – Trophy Bass 4](https://download.cnet.com/trophy-bass-4/3000-7536_4-10006451.html) – 4.2/5 user rating

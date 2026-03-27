@@ -46,32 +46,26 @@ The game included touches of humor alongside its espionage drama. Players were a
 
 ## Gameplay
 
-### The VCR Interface
+### Interface and Controls
 
-David Wolf: Secret Agent introduced Dynamix's innovative "VCR Interface," which was created "to minimize player frustrations" and "allow players more control over vital game playing elements to suit their styles"[^ref-4]. This interface allowed players to navigate through the game's content in a non-linear fashion, similar to controlling a VCR[^ref-5]—fast-forwarding, rewinding, and replaying sequences as desired.
+David Wolf: Secret Agent supports both keyboard and mouse input, with joystick support for action sequences[^ref-3]. The game uses a first-person perspective for action segments combined with cinematic presentation for narrative sequences. The interface is designed to smoothly transition between passive film-like viewing and active gameplay, with the "VCR Interface" serving as the navigational framework[^ref-4].
 
-The philosophy behind this interface was explicitly player-focused. Dynamix developers stated: "We have talked to game developers that purposefully design in frustrating points to make game play last longer, so the players feel they get more for their money. This is diametrically opposed to the direction we are taking with our products"[^ref-3]. This player-first approach would influence their later game design philosophy.
+### Structure and Progression
 
-### Interactive Limitations
+The game is structured as an interactive narrative with alternating cinematic sequences and action gameplay. Between the six playable action segments, players watch the story unfold through digitized footage showing David Wolf's mission progression from initial briefing through final confrontation[^ref-7]. The non-linear navigation system allows players to replay sequences and explore content at their own pace, similar to controlling a VCR—fast-forwarding, rewinding, and selecting chapters as desired[^ref-5].
 
-Despite the "interactive movie" billing, the actual interactivity was quite limited. As ClassicReload noted, "players cannot select or influence the actors' dialogue, nor select actions for the hero to try to complete"[^ref-7]. The gameplay primarily consisted of watching digitized cinematic cutscenes interspersed with brief action sequences.
+### Puzzles and Mechanics
 
-The game supports both keyboard and mouse input, with joystick support for action sequences[^ref-3]. Between the six playable action segments, players watch the story unfold through the digitized footage, unable to influence narrative outcomes.[^ref-7]
-
-### Action Sequences
-
-The game contains four distinct 3D action simulations[^ref-5]:
+Rather than traditional puzzle-solving, the game features four distinct 3D action simulations that serve as interactive gameplay challenges[^ref-5]:
 
 1. **Hang Gliding** - Flying a hang glider while shooting down enemies[^ref-8]
 2. **Sports Car Driving** - Racing down a highway while dueling with enemy cars and helicopters[^ref-8]
 3. **Fighter Simulation** - Combat flying sequences[^ref-5]
 4. **Skydiving** - Including landing on an enemy parachutist or landing on top of a moving truck[^ref-8]
 
-These action sequences allowed players to attempt various feats for David Wolf[^ref-8], representing the interactive highlights of the otherwise passive viewing experience. The polygon-filled graphics for these 3D segments used wireframe 3D programming by Damon Slye[^ref-5].
+These action sequences allowed players to attempt various feats for David Wolf[^ref-8], representing the interactive highlights of the otherwise passive viewing experience. The polygon-filled graphics for these 3D segments used wireframe 3D programming by Damon Slye[^ref-5]. Despite the "interactive movie" billing, actual interactivity was quite limited—"players cannot select or influence the actors' dialogue, nor select actions for the hero to try to complete"[^ref-7].
 
-### Technical Presentation
-
-Between action sequences, the game presents digitized cinematic cutscenes with bitmap and 3D animation[^ref-5]. The game used the Dynamix Game Development System to create these sequences, combining live-action footage with computer graphics in ways that were groundbreaking for 1989.[^ref-3]
+Between action sequences, the game presents digitized cinematic cutscenes with bitmap and 3D animation[^ref-5]. The game used the Dynamix Game Development System to create these sequences, combining live-action footage with computer graphics in ways that were groundbreaking for 1989.[^ref-3] Dynamix developers explicitly rejected the common practice of adding frustrating elements to extend playtime, stating: "We have talked to game developers that purposefully design in frustrating points to make game play last longer, so the players feel they get more for their money. This is diametrically opposed to the direction we are taking with our products"[^ref-3]. This player-first approach would influence their later game design philosophy.
 
 ## Reception
 

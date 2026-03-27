@@ -75,7 +75,7 @@ The gameplay combines tactical elements with arcade shooter sensibilities. Unlik
 
 Players must balance lethal and non-lethal approaches, as the game requires shouting for suspects to surrender before engaging them with lethal force.[^ref-19] GamePro's Air Hendrix observed that "you can't hose down a room without first shouting for the bad guys to surrender, and you actually have to capture and arrest some of them alive."[^ref-19] The game features a health system with five bars and no medipack system, though mid-level cut-scenes sometimes inexplicably restore full health.[^ref-18]
 
-A contextual command system allows players to direct their two AI teammates, Jackson and Lee, to perform various tactical actions.[^ref-16] However, critics noted that the AI wasn't particularly sophisticated, with Official Xbox Magazine observing that "the perps never move or run away - they just stand and fight to the death or give up."[^ref-20]
+A contextual command system allows players to direct their two AI teammates, Jackson and Lee, to perform various tactical actions.[^ref-16] However, critics noted that the AI wasn't particularly sophisticated, with Official Xbox Magazine observing that "the perps never move or run away - they just stand and fight to the death or give up."[^ref-6]
 
 ## Reception
 
@@ -258,7 +258,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-17]: [Speech Technology Magazine](https://www.speechtechmag.com/Articles/ReadArticle.aspx?ArticleID=34259) – Fonix voice technology, language support
 [^ref-18]: [Eurogamer – SWAT: Global Strike Team Review](https://www.eurogamer.net/articles/r_swatgst) – review score, gameplay analysis, technical issues
 [^ref-19]: [GamePro Review (Archived)](https://web.archive.org/web/20050212141434/http://www.gamepro.com/sony/ps2/games/reviews/31521.shtml) – review scores, gameplay critique
-[^ref-20]: [Metacritic Xbox Reviews](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=xbox) – Official Xbox Magazine quote
+[^ref-6]: [Metacritic Xbox Reviews](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=xbox) – Official Xbox Magazine quote
 [^ref-21]: [Next Level Gaming Review (Archived)](https://web.archive.org/web/20060509232423/http://www.nlgaming.com/nl/asp/id_769/nl/reviewDisp.htm) – review score, sound design praise
 [^ref-22]: [TweakTown – SWAT: Global Strike Team Review](https://www.tweaktown.com/gaming/1961/swat_global_strike_team_xbox_review/index.html) – linearity criticism, platform notes
 [^ref-23]: [IMDb – SWAT: Global Strike Team](https://www.imdb.com/find/?q=SWAT%3A+Global+Strike+Team&s=tt) – user rating

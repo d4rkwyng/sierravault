@@ -76,7 +76,7 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!success] Recent Releases & Updates
 > | Date | Project | Team | Status |
 > |------|---------|------|--------|
-> | Feb 2026 | [[2026 - Gobliins 6\|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
+> | Feb 2026 | [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
 > | Jan 2026 | [[2025 - SCP Sierra Conversion Project\|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
 > | Dec 2025 | [[2022 - SpaceVenture\|SpaceVenture v2]] | Two Guys from Andromeda | Released |
 > | Nov 2025 | [[2021 - King's Quest IV Retold\|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |

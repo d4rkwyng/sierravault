@@ -260,4 +260,4 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 
 [^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 NASCAR vehicle history, aero warrior specifications, racing performance
 
-[^ref-15]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information
+[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information

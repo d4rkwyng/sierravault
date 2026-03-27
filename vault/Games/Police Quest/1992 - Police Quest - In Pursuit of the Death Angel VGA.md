@@ -75,7 +75,7 @@ Failure to follow proper procedure results in penalties ranging from point deduc
 - Properly securing weapons and evidence[^ref-3]
 - Following correct traffic stop procedures[^ref-20]
 
-The game includes a poker mini-game that requires winning to progress through certain story beats.[^ref-19] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-21]
+The game includes a poker mini-game that requires winning to progress through certain story beats.[^ref-19] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-10]
 
 ## Reception
 
@@ -83,7 +83,7 @@ The game includes a poker mini-game that requires winning to progress through ce
 
 The original 1987 release received generally positive reviews that carried through to the remake's reception. Computer Gaming World's Michael S. Chaut praised some of the graphics as "the most terrific this reviewer has ever seen."[^ref-22] Antic magazine's Rick Teverbaugh noted that "there is a strong sense of actually becoming the cop on the beat," praising the game as "well-drawn, colorful and fun to play--or just to watch being played."[^ref-23]
 
-The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-21] Atari ST User awarded Police Quest II 9/10, calling it "excellent in every respect — the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-24]
+The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-10] Atari ST User awarded Police Quest II 9/10, calling it "excellent in every respect — the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-24]
 
 Not all reviews were uncritical. Macworld's Keith McCandless observed that the game "plays like a long version of a routine cop TV show, and you can't lose if you just follow the manual. The game begs for a challenging mystery."[^ref-22] Contemporary reviews were generally "positive about the game's graphics but were critical of the easy puzzles which revolved around following the police procedures manual bundled with the game."[^ref-25]
 
@@ -299,7 +299,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-18]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=1243) – driving difficulty quotes, parsing problems
 [^ref-19]: [Retro Freak Reviews – Police Quest I](https://retrofreakreviews.com/2017/02/15/police-quest-i-review/) – manual detail, driving controls, poker requirement
 [^ref-20]: [IMDB – Original Game Description](https://www.imdb.com/title/tt0289399/) – patrol duties, procedural requirements
-[^ref-21]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1:+In+Pursuit+of+the+Death+Angel&gid=1253) – Games Machine UK review quote, multiple solutions
+[^ref-10]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1:+In+Pursuit+of+the+Death+Angel&gid=1253) – Games Machine UK review quote, multiple solutions
 [^ref-22]: [Wikipedia – Police Quest: In Pursuit of the Death Angel](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – development history, sales data, contemporary reviews, source code preservation
 [^ref-23]: [Antic Magazine Vol. 7 No. 3](https://www.atarimagazines.com/v7n3/stgamesgallery.html) – Teverbaugh review quotes
 [^ref-24]: [Police Quest Fandom – PQ2](https://policequest.fandom.com/wiki/Police_Quest_II:_The_Vengeance_(MS-DOS)) – Atari ST User review quote

@@ -52,7 +52,7 @@ One of the most praised aspects of the remake is its comprehensive interaction s
 
 The game maintains the original's episodic structure while expanding content significantly. Players can complete the core experience in approximately 2-3 hours[^ref-1], though the remake includes additional content that extends gameplay beyond the original's scope[^ref-1]. The taxi system remains central to navigation, with optimization guides noting "You can get through using the taxi just seven times"[^ref-23] for efficient completion.
 
-Achievement integration adds modern gaming elements, with Steam Community guides detailing specific requirements for unlocking various achievements[^ref-68]. The game includes easter eggs referencing Sierra On-Line history[^ref-74], connecting the remake to its adventure gaming heritage.
+Achievement integration adds modern gaming elements, with Steam Community guides detailing specific requirements for unlocking various achievements[^ref-67]. The game includes easter eggs referencing Sierra On-Line history[^ref-74], connecting the remake to its adventure gaming heritage.
 
 ### Puzzles and Mechanics
 
@@ -202,7 +202,7 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 [^ref-65]: [Russian Speedrun Video](https://rutube.ru/video/dd970a4b91539fec06e99fcfd0d44660/) – - World record speedrun claim
 [^ref-66]: [Sierra Chest Archive](https://www.sierrachest.com/index.php?a=games&id=537&fld=general) – - Incomplete data for different game
 [^ref-67]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
-[^ref-68]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
+[^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
 [^ref-69]: [Steam Store Search](https://store.steampowered.com/search/?term=Leisure+Suit+Larry%3A+Reloaded) – - No specific Reloaded information
 [^ref-70]: [GOG Support Documentation](https://support.gog.com/hc/en-us/articles/214065985-Leisure-Suit-Larry-Reloaded) – - Technical support information
 [^ref-71]: [TechSpot Review Aggregation](https://www.techspot.com/products/pc-games/leisure-suit-larry-reloaded.92288/) – - Multiple publication scores

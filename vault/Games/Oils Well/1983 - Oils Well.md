@@ -253,7 +253,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 [^ref-21]: [Atarimania – Oilmania](http://www.atarimania.com/game-atari-st-oilmania_10119.html) – clone information, credits
 [^ref-22]: [Wikidata – Oil's Well](https://www.wikidata.org/wiki/Q2072141) – structured metadata, platform list
 [^ref-23]: [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file) – platform release information
-[^ref-24]: [Sierra Chest – Oil's Well](https://sierrachest.com/index.php?a=games&id=367&fld=music) – release date, publisher
+[^ref-8]: [Sierra Chest – Oil's Well](https://sierrachest.com/index.php?a=games&id=367&fld=music) – release date, publisher
 [^ref-25]: [GameFAQs – Oil's Well](https://gamefaqs.gamespot.com/pc/955730-oils-well/faqs) – platform information
 [^ref-26]: [Sierra Gamers – Oil's Well 1990](https://www.sierragamers.com/oils-well-1990/) – remake details
 [^ref-27]: [Abandonware DOS](https://www.abandonwaredos.com/search.php?search=Oil%27s+Well) – DOS release year

@@ -118,7 +118,6 @@ The game has found preservation through various digital distribution platforms a
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
 
-
 ## Downloads
 
 **Download / Preservation**
@@ -173,14 +172,14 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-40]: [AbandonwareDOS Search](https://www.abandonwaredos.com/search.php?search=Betrayal+in+Antara) – - DOS abandonware search results
 [^ref-41]: [Wikipedia - Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) – - Predecessor game information and awards
 [^ref-42]: [Amazon Manual Listing](https://www.amazon.com/Betrayal-Antara-Manual-Sierra-1996/dp/B000M80FKU) – - Game manual product listing
-[^ref-43]: [Computer Gaming World](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Reception) – - Predecessor review calling it "a rare gem" and "new high-watermark in RPG design"
+[^ref-41]: [Computer Gaming World](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Reception) – - Predecessor review calling it "a rare gem" and "new high-watermark in RPG design"
 [^ref-48]: [AbandonwareDOS - Betrayal in Antara](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Betrayal+in+Antara&gid=2842) – - Community preservation and ratings
 [^ref-50]: [MobyGames Credits](https://www.mobygames.com/game/695/betrayal-in-antara/credits/) – - Full development team credits
 [^ref-51]: [GOG Forum Technical Discussion](https://www.gog.com/forum/krondor_series/temple_of_henna_bug) – - Temple of Henna bug fix documentation
 [^ref-52]: [MobyGames Player Reviews](https://www.mobygames.com/game/695/betrayal-in-antara/reviews/mobyscore-lowest/) – - Terrence Bosky's critical assessment
 [^ref-53]: [Archive.org - Game Box](https://archive.org/details/betrayal-in-antara-box) – - Original packaging preservation
 [^ref-54]: [Steam Store Page](https://store.steampowered.com/app/559640/Betrayal_in_Antara/) – - Digital distribution availability and pricing
-[^ref-55]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review
+[^ref-1]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review
 [^ref-56]: [Amazon Customer Reviews](https://www.amazon.com/Sierra-Betrayal-in-Antara/dp/B00083B6DE/reviews) – - 4.6/5 stars from 6 global ratings
 [^ref-58]: [MobyGames Critic Aggregate](https://www.mobygames.com/game/695/betrayal-in-antara/mobyrank/) – - 68% average professional score
 [^ref-59]: [Sierra On-Line Company History](https://en.wikipedia.org/wiki/Sierra_Entertainment) – - Publisher corporate context
@@ -188,7 +187,7 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-62]: [Archive.org Betrayal in Antara Manual](https://archive.org/details/betrayal-antara-manual/mode/2up) – - Full manual preservation
 [^ref-63]: [Wikipedia Riftwar Saga](https://en.wikipedia.org/wiki/The_Riftwar_Saga) – - Source material context for series
 [^ref-64]: [Raymond E. Feist Official Site](https://www.crydee.com) – - Author's clarification about game relationship
-[^ref-65]: [Sierra Chest Archives](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara) – - Game preservation and documentation
+[^ref-27]: [Sierra Chest Archives](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara) – - Game preservation and documentation
 [^ref-67]: [MyAbandonware Screenshots](https://www.myabandonware.com/game/betrayal-in-antara-d7p/screenshots) – - Visual documentation gallery
 [^ref-70]: [MobyGames DOS Version](https://www.mobygames.com/game/695/betrayal-in-antara/platform/dos/) – - DOS platform specifications
 [^ref-71]: [MobyGames Windows Version](https://www.mobygames.com/game/695/betrayal-in-antara/platform/windows/) – - Windows platform specifications

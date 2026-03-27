@@ -322,7 +322,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 
 [^ref-13]: [RAWG – Hoyle Games 2003](https://rawg.io/games/hoyle-games-2003) – Game database, community information, modern assessment
 
-[^ref-14]: [ESRB – Hoyle Board Games 2003](https://www.esrb.org/ratings/7889/hoyle-board-games-2003/) – Official rating information, content descriptor, platform certification
+[^ref-4]: [ESRB – Hoyle Board Games 2003](https://www.esrb.org/ratings/7889/hoyle-board-games-2003/) – Official rating information, content descriptor, platform certification
 
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 

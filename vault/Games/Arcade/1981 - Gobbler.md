@@ -228,4 +228,4 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 [^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
 
-[^ref-15]: [Internet Archive Wozaday Collection – Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation archive, playable version documentation
+[^ref-5]: [Internet Archive Wozaday Collection – Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation archive, playable version documentation

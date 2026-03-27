@@ -277,11 +277,11 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-56]: [Giant Bomb Wiki](https://www.giantbomb.com/thexder-95/3030-17892/) – Community wiki entry
 [^ref-57]: [IGN Database](https://www.ign.com/games/thexder-95) – Game database
 [^ref-58]: [MyAbandonware Entry](https://www.myabandonware.com/game/thexder-95-3ub) – Abandonware preservation
-[^ref-59]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware
+[^ref-38]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware
 [^ref-60]: [Classic Reload](https://classicreload.com/thexder-95.html) – Browser playability
 [^ref-61]: [DOS Zone Entry](https://dos.zone/thexder-95/) – Platform documentation
 [^ref-62]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/thexder-95/) – Fan discussion
-[^ref-63]: [Sierra Chest Entry](https://sierrachest.com/index.php?a=games&id=93&title=thexder-95) – Sierra archive
+[^ref-29]: [Sierra Chest Entry](https://sierrachest.com/index.php?a=games&id=93&title=thexder-95) – Sierra archive
 [^ref-64]: [VGMPF Wiki](https://vgmpf.com/Wiki/index.php/Thexder_95) – Music technical details
 [^ref-65]: [VGMdb Entry](https://vgmdb.net/album/thexder-95) – Soundtrack database
 [^ref-66]: [Khinsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/thexder-95) – Audio preservation
@@ -305,7 +305,7 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-84]: [Robert Clardy Interview](https://www.gamasutra.com/robert-clardy/) – Designer background
 [^ref-85]: [Synergistic Games List](https://www.mobygames.com/company/synergistic-software/) – Developer portfolio
 [^ref-86]: [Windows 95 Launch Games](https://en.wikipedia.org/wiki/Windows_95_gaming) – Launch context
-[^ref-87]: [Microsoft Game SDK History](https://en.wikipedia.org/wiki/DirectX#History) – Technology context
+[^ref-51]: [Microsoft Game SDK History](https://en.wikipedia.org/wiki/DirectX#History) – Technology context
 [^ref-88]: [Computer Gaming World Archive](https://archive.org/details/computer-gaming-world-1996-11) – November 1996 issue
 [^ref-89]: [Game Revolution Archive](https://www.gamerevolution.com/review/thexder-95) – Review archive
 [^ref-90]: [GameSpot Historical](https://www.gamespot.com/games/thexder-95/) – Database entry

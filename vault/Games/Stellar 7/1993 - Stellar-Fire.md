@@ -214,4 +214,4 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [^ref-12]: [Dynamix Wiki – Stellar 7 Series](https://dynamix.fandom.com/wiki/Stellar_7_(series)) – series overview, game list, developer information
 [^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
 [^ref-14]: [Sega Wiki – Stellar-Fire](https://sega.fandom.com/wiki/Stellar-Fire) – Sega game wiki and series information
-[^ref-15]: [IMDB – Stellar-Fire](https://www.imdb.com/title/tt0402509/) – film/game database with Michael Dorn narration credit
+[^ref-6]: [IMDB – Stellar-Fire](https://www.imdb.com/title/tt0402509/) – film/game database with Michael Dorn narration credit

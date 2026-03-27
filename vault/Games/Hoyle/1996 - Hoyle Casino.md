@@ -183,7 +183,7 @@ Casino Empire encountered color palette corruption and compatibility issues on W
 
 - **Sultan Fortune Teller:** The game included a machine similar to the one from the movie "Big"—a Sultan that tells your fortune if you roll a quarter into its mouth[^ref-9]
 - **Sierra Character Cameos:** Following the tradition of earlier Hoyle games, various Sierra game characters appeared as computer opponents with unique personalities and dialogue[^ref-5]
-- **Music Recycling:** The intro music for Hoyle Casino 6 was reused from Hoyle Casino 5 (2000), which itself borrowed two songs from Hoyle Casino 4 (1999)[^ref-49]
+- **Music Recycling:** The intro music for Hoyle Casino 6 was reused from Hoyle Casino 5 (2000), which itself borrowed two songs from Hoyle Casino 4 (1999)[^ref-30]
 - **Video Slots Music:** The "Break The Bank" video slot used an abbreviated version of "Detective" from Hoyle Classic Board Games (1997)[^ref-30]
 - **Edmond Hoyle Connection:** The series is named after Edmond Hoyle (1672-1769), an English writer whose "A Short Treatise on the Game of Whist" went through 13 editions and remained authoritative until 1864[^ref-4]
 
@@ -353,6 +353,6 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-45]: [MobyGames – Hoyle Casino Games (2008)](https://www.mobygames.com/game/230559/hoyle-casino-games/) – Freeverse developer
 [^ref-47]: [SourceForge – DxWnd Casino Empire Thread](https://sourceforge.net/p/dxwnd/discussion/general/thread/23561786/) – compatibility issues
 [^ref-48]: [SourceForge – DxWnd Color Depth Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/1173fae9/?page=1) – 16BPP/32BPP issues
-[^ref-49]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
+[^ref-30]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
 [^ref-50]: [Encore – Casino Games Collection](https://www.encore.com/encore-casino-games-collection-download-windows) – collection details
 [^ref-51]: [MacGameStore – Hoyle Official Casino Games](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – game features, Face Creator

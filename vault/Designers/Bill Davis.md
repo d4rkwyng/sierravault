@@ -106,7 +106,7 @@ The visual quality improvements visible in Sierra's games from 1990 onwards refl
 | 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Creative Director |
 | 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | Creative Director |
 | 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Creative Director |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] | Creative Director |
+| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] | Creative Director |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Creative Director |
 | 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Creative Director |
 | 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Creative Director |

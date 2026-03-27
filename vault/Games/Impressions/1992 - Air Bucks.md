@@ -69,7 +69,7 @@ The game spans 40 years of simulated time, beginning in October 1946 and continu
 
 Rather than traditional puzzles, Air Bucks presents players with complex business management challenges that require balancing multiple competing priorities[^ref-4]. The core mechanics involve purchasing landing rights to airports, designing efficient route networks, configuring aircraft seating for first and economy class passengers, setting appropriate ticket prices, and managing in-flight service quality including food and entertainment[^ref-5].
 
-One of the game's notable features is its stock market system, which allows players to buy and sell shares in competing airlines[^ref-19]. Some players discovered that aggressive stock manipulation could be used to bankrupt computer-controlled competitors by selling all their shares, though this exploitation highlighted weaknesses in the economic model[^ref-19].
+One of the game's notable features is its stock market system, which allows players to buy and sell shares in competing airlines[^ref-16]. Some players discovered that aggressive stock manipulation could be used to bankrupt computer-controlled competitors by selling all their shares, though this exploitation highlighted weaknesses in the economic model[^ref-16].
 
 The game requires careful attention to aircraft range and route planning, as the early DC-3 can only fly 1,000 miles[^ref-10]. Players must also manage their fleet composition, deciding when to retire older aircraft and purchase newer models as technology advances. The two-airline-per-airport limitation creates strategic bottlenecks that become increasingly challenging as the game progresses into later years[^ref-13].
 
@@ -172,7 +172,7 @@ No specific cut content has been documented in the available research materials.
 | 1.0 | 1992 | DOS, Amiga, Atari ST | Initial release with known AI and economic model issues[^ref-10] |
 | 1.0 | 1992 | Amiga | OCS/ECS chipset version[^ref-4] |
 | 1.2 | 1993 | DOS | Substantially improved version with better VGA graphics, interface, AI, and economic model[^ref-8] |
-| 1.2 | 1993 | Amiga | OCS/ECS and AGA variants, AGA version had enhanced graphics[^ref-19] |
+| 1.2 | 1993 | Amiga | OCS/ECS and AGA variants, AGA version had enhanced graphics[^ref-16] |
 | Sierra Originals | Later | CD-ROM | Re-release version[^ref-11] |
 
 The version 1.2 update was made available as a free upgrade for registered owners of the original game, with upgrades distributed through the CompuServe online network[^ref-8]. This update incorporated a host of user-suggested changes and addressed many of the criticisms of the original release.
@@ -282,7 +282,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [^ref-16]: [Lemon Amiga – Air Bucks](https://www.lemonamiga.com/games/details.php?id=50) – Amiga magazine reviews, user comments
 [^ref-17]: [MobyGames – Air Bucks Tech Info](https://www.mobygames.com/game/air-bucks/techinfo) – system requirements, platform specifications
 [^ref-18]: [MyAbandonware – Air Bucks](https://www.myabandonware.com/game/air-bucks-1bv) – user ratings, known issues, development notes
-[^ref-19]: [Lemon Amiga – Air Bucks v1.2](https://www.lemonamiga.com/games/details.php?id=221) – AGA version, stock market mechanics
+[^ref-16]: [Lemon Amiga – Air Bucks v1.2](https://www.lemonamiga.com/games/details.php?id=221) – AGA version, stock market mechanics
 [^ref-20]: [Giant Bomb – Air Bucks](https://www.giantbomb.com/air-bucks/3030-5198/) – release history, version information
 [^ref-21]: [AbandonwareGames.net – Air Bucks](https://abandonwaregames.net/game/air-bucks) – user rating, platforms
 [^ref-22]: [Emuparadise – Air Bucks](https://www.emuparadise.me/Abandonware_Games/Air_Bucks_(1992)(Sierra_Online)/92298) – user rating, SimAir comparison

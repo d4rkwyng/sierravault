@@ -91,7 +91,7 @@ Leisure Suit Larry: Magna Cum Laude received extremely polarized reviews upon re
 
 **Positive Reviews:**
 - Warcry gave the PS2 version 94/100, praising: "Where else can I get the chance to score with the head of anthropology and a Russian exchange student all in the same day?"[^ref-24]
-- Game Chronicles awarded 92/100 for Xbox, stating: "Larry makes the transition to next-gen console perfectly and creates his own little naughty slice of niche-genre pie. If you love to laugh you'll love this game."[^ref-25]
+- Game Chronicles awarded 92/100 for Xbox, stating: "Larry makes the transition to next-gen console perfectly and creates his own little naughty slice of niche-genre pie. If you love to laugh you'll love this game."[^ref-24]
 - GameSpot's Alex Navarro gave the PC version 7.2/10, calling it "Without a doubt, this is the funniest game to come out so far this year."[^ref-7]
 - Eurogamer's Kristan Reed scored it 7/10, describing it as "Far from being among the worst games of the year, it's closer to being the most unlikely success story of the year, by a mile."[^ref-26]
 - IGN's Steve Butts gave 7.2/10, noting: "The real saving grace for the game is that, from start to finish, the dialogue is just hilarious."[^ref-27]
@@ -354,7 +354,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system
 [^ref-23]: [GameCritics Review](https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
 [^ref-24]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry, Next Level Gaming scores
-[^ref-25]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score
+[^ref-24]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score
 [^ref-26]: [Eurogamer Review](https://www.eurogamer.net/articles/r_leisuresuitlarry_ps2) – Kristan Reed review, 7/10, technical issues
 [^ref-27]: [IGN Review](https://www.ign.com/articles/2004/10/04/leisure-suit-larry-magna-cum-laude-3) – Steve Butts review, 7.2/10, easter eggs
 [^ref-29]: [GameSpy Review](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/554735p1.html) – Sal Accardo review, loading time complaints

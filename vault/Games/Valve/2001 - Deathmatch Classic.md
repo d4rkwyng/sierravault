@@ -301,9 +301,9 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [^ref-40]: [Wikidata – Deathmatch Classic](https://www.wikidata.org/wiki/Q1177361) – structured data entity
 [^ref-41]: [MobyGames – Deathmatch Classic Trivia](https://www.mobygames.com/game/34748/deathmatch-classic/trivia/) – German censorship details
 [^ref-42]: [MobyGames – Deathmatch Classic Screenshots](https://www.mobygames.com/game/34748/deathmatch-classic/screenshots/) – screenshot archive
-[^ref-43]: [PCGamingWiki – DMC Network](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Network) – multiplayer specifications
-[^ref-44]: [PCGamingWiki – DMC Issues](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Issues_fixed) – technical issue documentation
-[^ref-45]: [PCGamingWiki – DMC API](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#API) – DirectX 7 and OpenGL 2.1 support
+[^ref-10]: [PCGamingWiki – DMC Network](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Network) – multiplayer specifications
+[^ref-10]: [PCGamingWiki – DMC Issues](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Issues_fixed) – technical issue documentation
+[^ref-10]: [PCGamingWiki – DMC API](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#API) – DirectX 7 and OpenGL 2.1 support
 [^ref-46]: [Half-Life Wiki – Deathmatch Classic](https://half-life.fandom.com/wiki/Deathmatch_Classic) – community wiki documentation
 [^ref-47]: [Combine OverWiki – Deathmatch Classic Weapons](https://combineoverwiki.net/wiki/Deathmatch_Classic/List_of_weapons_and_items) – weapon list documentation
 [^ref-48]: [Combine OverWiki – GoldSrc](https://combineoverwiki.net/wiki/GoldSrc) – engine technical documentation

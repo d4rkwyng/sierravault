@@ -152,8 +152,8 @@ The original floppy disk version offered MT-32 sound and music support alongside
 - **Graphics:** EGA (16 colors) or VGA (256 colors)
 - **Audio:** MT-32, Sound Blaster, AdLib, Pro Audio Spectrum[^ref-8]
 - **RAM:** 640 KB minimum
-- **Storage:** 8.5 MB hard drive space[^ref-41]
-- **Processor:** 80286 or better[^ref-41]
+- **Storage:** 8.5 MB hard drive space[^ref-12]
+- **Processor:** 80286 or better[^ref-12]
 
 **Sega CD Version (1993):**[^ref-30]
 - **Media:** CD-ROM
@@ -185,7 +185,7 @@ The Sega CD version suffered from notorious loading times, with players experien
 
 Early editions of the Sega CD game were known to completely freeze up during certain scenes due to a manufacturing glitch.[^ref-1] The Sega CD version also featured washed-out colors compared to the PC original, with visible differences in details like auditorium seat colors and stage design.[^ref-44]
 
-On modern systems, timed sequences such as the babysitter chase, escaping the Cripes, or freeing the frogs may cause problems due to speed differences from original hardware.[^ref-41] The Chef Childish puzzle and fire hydrant puzzle are particularly notorious for being based on system speed, potentially becoming uncompletable on faster computers.[^ref-45]
+On modern systems, timed sequences such as the babysitter chase, escaping the Cripes, or freeing the frogs may cause problems due to speed differences from original hardware.[^ref-12] The Chef Childish puzzle and fire hydrant puzzle are particularly notorious for being based on system speed, potentially becoming uncompletable on faster computers.[^ref-45]
 
 ### Easter Eggs and Trivia
 
@@ -344,7 +344,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-38]: [VOGONS – MT-32 Discussion](https://www.vogons.org/viewtopic.php?t=44389) – CD version audio limitations
 [^ref-39]: [Pixelated Arcade – Tech Specs](https://www.pixelatedarcade.com/games/the-adventures-of-willy-beamish/techspecs) – floppy version requirements
 [^ref-40]: [Amiga Reviews](https://www.amigareviews.leveluphost.com/willybea.htm) – 12 disk count, price
-[^ref-41]: [Sierra Chest – Technical](https://www.sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=tech) – system requirements, timed sequence bugs
+[^ref-12]: [Sierra Chest – Technical](https://www.sierrachest.com/index.php?a=games&id=337&title=willy-beamish&fld=tech) – system requirements, timed sequence bugs
 [^ref-42]: [Sierra Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Tunnell departure
 [^ref-43]: [GOGDB – Willy Beamish](https://www.gogdb.org/product/1405562076) – GOG version history
 [^ref-44]: [MobyGames – Trivia](https://www.mobygames.com/game/1916/the-adventures-of-willy-beamish/trivia) – awards, packaging, version differences

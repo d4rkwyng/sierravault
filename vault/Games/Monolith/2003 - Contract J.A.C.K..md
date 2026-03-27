@@ -217,13 +217,13 @@ Community fixes exist for mouse and ammo issues through PCGamingWiki.[^ref-7] A 
 
 ### Easter Eggs and Trivia
 
-The game contains numerous references to the broader *No One Lives Forever* series:[^ref-38]
+The game contains numerous references to the broader *No One Lives Forever* series:[^ref-15]
 
-- **Cate Archer Cameo:** Cate Archer makes a brief cameo appearance near a rabbit during the opening scene of Chapter 3: Welcome to Czechoslovakia.[^ref-38]
-- **Wanted Posters:** "Wanted" posters for Cate Archer appear throughout Chapter 2: Trial by Gunfire and Chapter 7: Il Pazzo.[^ref-38]
-- **NOLF References:** In Chapter 1, the billboard near the message machine contains several series references including an opera poster for Inge Wagner from *NOLF 1*, pink paper depicting three assassins from *NOLF 1*, and a reference to La Troupe de Pantomine from *NOLF 2*.[^ref-38]
-- **Developer Reference:** A poster titled "How to Pick Up Classy Chicks by Steven Lee" likely references Steve Lee, a Senior 2D/3D Artist on the game.[^ref-38]
-- **Gollum Reference:** In the moon base battery recharger room, a hidden panel reveals a strange creature that snarls, giggles, and occasionally says "Gollum, Gollum"—a *Lord of the Rings* reference.[^ref-38]
+- **Cate Archer Cameo:** Cate Archer makes a brief cameo appearance near a rabbit during the opening scene of Chapter 3: Welcome to Czechoslovakia.[^ref-15]
+- **Wanted Posters:** "Wanted" posters for Cate Archer appear throughout Chapter 2: Trial by Gunfire and Chapter 7: Il Pazzo.[^ref-15]
+- **NOLF References:** In Chapter 1, the billboard near the message machine contains several series references including an opera poster for Inge Wagner from *NOLF 1*, pink paper depicting three assassins from *NOLF 1*, and a reference to La Troupe de Pantomine from *NOLF 2*.[^ref-15]
+- **Developer Reference:** A poster titled "How to Pick Up Classy Chicks by Steven Lee" likely references Steve Lee, a Senior 2D/3D Artist on the game.[^ref-15]
+- **Gollum Reference:** In the moon base battery recharger room, a hidden panel reveals a strange creature that snarls, giggles, and occasionally says "Gollum, Gollum"—a *Lord of the Rings* reference.[^ref-15]
 - **The Jade Hamster:** The fictional movie spy from *NOLF 2* returns on cinematic posters throughout the game.[^ref-18]
 - **The Drunken Scotsman:** Jack's flat is located above this bar, which contains various advertisement graphics from *NOLF 1* and *NOLF 2*.[^ref-17]
 
@@ -346,7 +346,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-35]: [Eurogamer – Contract Jack Demo News](https://www.eurogamer.net/news271003contractjack) – demo availability, FilePlanet protection
 [^ref-36]: [Internet Archive – Contract J.A.C.K. USA](https://archive.org/details/ContractJACKUSA) – release date, preservation stats
 [^ref-37]: [GamePressure – Contract J.A.C.K. Patch](https://www.gamepressure.com/download.asp?ID=3989) – patch details, language support
-[^ref-38]: [Sierra Chest – Contract J.A.C.K. Easter Eggs](https://sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=eggs) – easter eggs and references
+[^ref-15]: [Sierra Chest – Contract J.A.C.K. Easter Eggs](https://sierrachest.com/index.php?a=games&id=124&title=contract-jack&fld=eggs) – easter eggs and references
 [^ref-39]: [The Gamer – No One Lives Forever Legal Issues](https://www.thegamer.com/no-one-lives-forever-the-operative-legal-issues-explained/) – Night Dive interest, Monolith history
 [^ref-40]: [ModDB – Contract J.A.C.K.](https://www.moddb.com/games/contract-jack) – modding information, patch availability
 [^ref-41]: [Video Games Chronicle – Nightdive NOLF Optimism](https://www.videogameschronicle.com/news/nightdive-ceo-shares-optimism-for-no-one-lives-forever-remaster-despite-studio-closure/) – rights negotiation challenges

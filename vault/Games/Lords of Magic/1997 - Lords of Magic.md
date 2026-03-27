@@ -56,7 +56,7 @@ Players must manage resources, recruit armies, explore dungeons, and engage in b
 
 The core gameplay revolves around strategic resource management and tactical combat. Each faith has distinct advantages and disadvantages - for example, the Life faith features "extremely powerful archers, and great magic skills" but lacks "strong armor," while the Water faith has significant economic advantages that allow them to "have their capital and all related buildings on level 3 by turn 50 while AT THE SAME TIME fielding 2 full size armies"[^ref-18][^ref-19]. 
 
-The game includes both single-player campaigns and multiplayer options supporting up to 4 players through LAN, modem, or direct cable connections[^ref-20]. Lords serve as the most important units, as their death typically ends the game unless backup lords have been established[^ref-18]. Dungeons scattered throughout the game world contain valuable treasures and powerful artifacts that can tip the balance of warfare, incentivizing exploration alongside traditional conquest strategies. Each faith's unique unit roster creates dramatically different tactical approaches—the Chaos faith excels at summoning powerful magical creatures, while the Water faith can leverage economic advantages for sustained military campaigns[^ref-38].
+The game includes both single-player campaigns and multiplayer options supporting up to 4 players through LAN, modem, or direct cable connections[^ref-20]. Lords serve as the most important units, as their death typically ends the game unless backup lords have been established[^ref-18]. Dungeons scattered throughout the game world contain valuable treasures and powerful artifacts that can tip the balance of warfare, incentivizing exploration alongside traditional conquest strategies. Each faith's unique unit roster creates dramatically different tactical approaches—the Chaos faith excels at summoning powerful magical creatures, while the Water faith can leverage economic advantages for sustained military campaigns[^ref-19].
 
 Artifact acquisition represents another critical progression system, with over 160 different spells available and 90 distinct artifacts offering unique benefits ranging from resource bonuses to combat enhancements[^ref-4]. Managing the recruitment and upkeep of troops while balancing spell research and artifact hunting creates a complex economic puzzle central to long-term strategy.
 
@@ -104,7 +104,7 @@ Lords of Magic has maintained a dedicated fan community with active modding supp
 
 The game's influence can be seen in its attempt to blend multiple strategy game genres, though one contemporary reviewer noted it "falls far short of its potential" compared to competitors like Heroes of Might & Magic II and Warlords III[^ref-36]. Despite its flaws, the game has found new audiences through digital distribution platforms, with one modern assessment calling it "one of the best strategy games ever made"[^ref-37].
 
-The Special Edition release in 2000 attempted to address many of the original game's shortcomings, though reviews noted that while it "corrects a number of flaws and adds several new features," it only ended up "being only a tiny bit more appealing than its predecessor"[^ref-38].
+The Special Edition release in 2000 attempted to address many of the original game's shortcomings, though reviews noted that while it "corrects a number of flaws and adds several new features," it only ended up "being only a tiny bit more appealing than its predecessor"[^ref-19].
 
 ## Downloads
 
@@ -159,4 +159,4 @@ The Special Edition release in 2000 attempted to address many of the original ga
 [^ref-35]: [ModDB](https://www.moddb.com/mods/gszero) – - Community mod description
 [^ref-36]: [GameSpot](https://www.gamespot.com/reviews/lords-of-magic-special-edition-review/1900-2535719/) – - Competitive comparison
 [^ref-37]: [MyAbandonware](https://www.myabandonware.com/game/lords-of-magic-special-edition-crp) – - Modern assessment quote
-[^ref-38]: [GameFAQs Community Guide](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Chaos and Water faith strategic analysis
+[^ref-19]: [GameFAQs Community Guide](https://gamefaqs.gamespot.com/pc/70167-lords-of-magic-special-edition/faqs/30063) – - Chaos and Water faith strategic analysis

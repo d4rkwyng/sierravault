@@ -223,4 +223,4 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 
 [^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
 
-[^ref-15]: [Sierra Wiki – Gabriel Knight Series](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series information and game documentation
+[^ref-8]: [Sierra Wiki – Gabriel Knight Series](https://sierra.fandom.com/wiki/Gabriel_Knight) – Series information and game documentation

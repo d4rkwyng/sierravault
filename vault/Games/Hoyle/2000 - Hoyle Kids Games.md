@@ -268,7 +268,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
 
-[^ref-11]: [Steam Community Guide – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character biographies, Facemaker feature, voice actor research
+[^ref-6]: [Steam Community Guide – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character biographies, Facemaker feature, voice actor research
 
 [^ref-12]: [Walmart – Hoyle Card Games 2000](https://www.walmart.com/ip/Hoyle-Card-Games-2000/133350203) – retail product documentation
 

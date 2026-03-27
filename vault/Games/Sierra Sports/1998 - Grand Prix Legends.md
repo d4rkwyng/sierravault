@@ -212,16 +212,16 @@ The most notable cut content includes the Le Mans track, which was the only circ
 
 ### Technical Issues
 
-Grand Prix Legends was designed for hardware of its era and encountered various compatibility issues over time[^ref-39]:
+Grand Prix Legends was designed for hardware of its era and encountered various compatibility issues over time[^ref-23]:
 
 - **Cyrix 6x86 CPU Incompatibility:** The game uses Pentium-specific instructions not supported by Cyrix processors[^ref-10]
-- **Frame Rate Limitation:** Maximum of 36 FPS due to physics engine being tied to frame rate[^ref-39]
+- **Frame Rate Limitation:** Maximum of 36 FPS due to physics engine being tied to frame rate[^ref-23]
 - **Windows 98 User Profile Issues:** Problems with multi-user Windows 98 configurations[^ref-10]
 - **3Dfx Focus Issues:** "Focus follows mouse" problems with 3Dfx implementations[^ref-10]
 - **Right Shift Key:** Ignored due to Windows NUM-LOCK behavior quirks[^ref-10]
 - **Default Setup Issues:** Initial release had unrealistic camber angle and ride height settings[^ref-2]
 
-The version 1.1 patch prevented ride height setups lower than 2.5 inches to address setup exploits[^ref-13]. Modern play requires various community patches for Windows XP and later operating systems[^ref-39].
+The version 1.1 patch prevented ride height setups lower than 2.5 inches to address setup exploits[^ref-13]. Modern play requires various community patches for Windows XP and later operating systems[^ref-23].
 
 ### Easter Eggs and Trivia
 
@@ -356,7 +356,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-36]: [Grokipedia – Grand Prix Legends](https://grokipedia.com/page/Grand_Prix_Legends) – FIA endorsement, Kaemmer quote, development period
 [^ref-37]: [Sierra Sports Press Release Archive](https://web.archive.org/web/19990824162145/http://www.sierrasports.com/sierrasports/pr/grandprix.html) – official launch details, marketing quotes
 [^ref-38]: [DOS Days – Grand Prix Legends](http://www.dosdays.co.uk/topics/Games/game_gpl.php) – version history, engine details, technical specifications
-[^ref-39]: [GPL Wiki – FAQ and Troubleshooting](http://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide) – frame rate limitation, compatibility issues
+[^ref-23]: [GPL Wiki – FAQ and Troubleshooting](http://wiki.grandprixlegends.info/index.php?title=GPL_FAQ_and_troubleshooting_guide) – frame rate limitation, compatibility issues
 [^ref-40]: [ZDNet – CGW Awards](https://www.zdnet.com/article/computer-gaming-world-awards/) – Premier Awards, runner-up status
 [^ref-41]: [MobyGames – GPL Releases](https://www.mobygames.com/game/2561/grand-prix-legends/releases/windows/) – international release dates, publishers
 [^ref-42]: [Sierra Chest – Grand Prix Legends](https://sierrachest.com/index.php?a=games&id=304&title=grand-prix-legends&fld=demos) – demo bundling information

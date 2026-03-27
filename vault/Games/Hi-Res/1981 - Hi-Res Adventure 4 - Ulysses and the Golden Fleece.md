@@ -83,7 +83,7 @@ Reviews from the era noted the game's mythological theme as a compelling setting
 
 Modern retrospective assessments of the game acknowledge its historical significance within Sierra's catalog and the broader adventure gaming genre. One reviewer noted that "as an adventure game, it actually feels a tad fairer than the previous entries in the series," suggesting improvements in puzzle design compared to earlier Hi-Res Adventures[^ref-5].
 
-The game continues to attract interest from vintage gaming enthusiasts and historians of the adventure game genre, documented in gaming wikis including Giant Bomb[^ref-29] and IGDB[^ref-30]. Its inclusion in ScummVM's supported titles list demonstrates ongoing preservation efforts for this classic title[^ref-7]. Fan walkthroughs and guides remain available through Sierra community resources[^ref-28].
+The game continues to attract interest from vintage gaming enthusiasts and historians of the adventure game genre, documented in gaming wikis including Giant Bomb[^ref-29] and IGDB[^ref-30]. Its inclusion in ScummVM's supported titles list demonstrates ongoing preservation efforts for this classic title[^ref-7]. Fan walkthroughs and guides remain available through Sierra community resources[^ref-22].
 
 **Aggregate Scores:**
 - **MobyGames:** 61% (based on user reviews)[^ref-1]
@@ -95,7 +95,7 @@ The game continues to attract interest from vintage gaming enthusiasts and histo
 
 Hi-Res Adventure #4: Ulysses and the Golden Fleece was developed by On-Line Systems, the company that would later become Sierra On-Line and ultimately Sierra Entertainment[^ref-4]. The game was designed by Bob Davis and [[Ken Williams]], with Davis contributing the creative vision for the mythological adventure and Williams providing technical and design expertise[^ref-1][^ref-20].
 
-The game represented a departure from the mystery and fantasy themes of earlier Hi-Res Adventures, instead drawing upon the rich tradition of Greek mythology for its setting and characters[^ref-10][^ref-24]. This thematic choice allowed the designers to incorporate famous mythological figures and locations that would resonate with players familiar with classical literature and culture.
+The game represented a departure from the mystery and fantasy themes of earlier Hi-Res Adventures, instead drawing upon the rich tradition of Greek mythology for its setting and characters[^ref-10][^ref-22]. This thematic choice allowed the designers to incorporate famous mythological figures and locations that would resonate with players familiar with classical literature and culture.
 
 ### Production
 
@@ -211,7 +211,7 @@ The Hi-Res Adventure series, of which Ulysses was the fourth entry, helped estab
 **Manuals & Extras**
 - Original documentation available through abandonware archives
 
-The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-23].
+The game is preserved in multiple archives and databases, with documentation available through Wikipedia[^ref-18], PixelatedArcade[^ref-21], and various gaming wikis[^ref-22][^ref-22].
 
 ## See Also
 
@@ -249,11 +249,11 @@ The game is preserved in multiple archives and databases, with documentation ava
 [^ref-20]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platform release timeline, designer credits
 [^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series documentation, publisher list
 [^ref-22]: [Sierra Fandom Wiki – Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Trivia) – series position confirmation
-[^ref-23]: [Sierra Fandom Wiki – Development](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Development) – mythological theme context
-[^ref-24]: [Sierra Fandom Wiki – Items](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Items) – series placement
-[^ref-25]: [Sierra Fandom Wiki – Easter Eggs](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Easter_eggs) – series context
+[^ref-22]: [Sierra Fandom Wiki – Development](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Development) – mythological theme context
+[^ref-22]: [Sierra Fandom Wiki – Items](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Items) – series placement
+[^ref-22]: [Sierra Fandom Wiki – Easter Eggs](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Easter_eggs) – series context
 [^ref-26]: [Sierra Gamers – Updates](https://www.sierragamers.com/Updates/) – Black Box release documentation
 [^ref-27]: [MobyGames – PC Booter Version](https://www.mobygames.com/game/pc-booter/hi-res-adventure-4-ulysses-and-the-golden-fleece) – alternative rating, package variations
-[^ref-28]: [Sierra Fandom Wiki – Walkthrough](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Walkthrough) – Roberta Williams credit, series context
+[^ref-22]: [Sierra Fandom Wiki – Walkthrough](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Walkthrough) – Roberta Williams credit, series context
 [^ref-29]: [Giant Bomb - Ulysses and the Golden Fleece](https://www.giantbomb.com/ulysses-and-the-golden-fleece/) - game wiki, platform info
 [^ref-30]: [IGDB - Ulysses and the Golden Fleece](https://www.igdb.com/games/ulysses-and-the-golden-fleece) - IGDB database entry

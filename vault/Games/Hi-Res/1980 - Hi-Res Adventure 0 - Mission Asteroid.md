@@ -118,7 +118,7 @@ These modest storage requirements allowed the game to run on the limited hardwar
 
 Mission Asteroid holds historical significance as part of the seven graphic adventure games Sierra released before their landmark King's Quest series[^ref-5][^ref-16]. These early Hi-Res Adventures established many of the conventions that Sierra would refine in their later work, including the combination of graphics with text parser input and the focus on puzzle-solving within a narrative framework.
 
-The game was included in the 1997 Roberta Williams Anthology, cementing its place in Sierra's historical catalog[^ref-5][^ref-17]. This compilation recognized the game's importance in the company's history and allowed new generations of players to experience Sierra's earliest work.
+The game was included in the 1997 Roberta Williams Anthology, cementing its place in Sierra's historical catalog[^ref-5][^ref-5]. This compilation recognized the game's importance in the company's history and allowed new generations of players to experience Sierra's earliest work.
 
 ### Genre Evolution
 
@@ -187,7 +187,7 @@ Historical records indicate the game was released in multiple versions, includin
 [^ref-14]: [Glitchwave](https://glitchwave.com/game/mission-asteroid-hi-res-adventure-0/) – Modern assessment and rating
 [^ref-15]: [SierraGamers](https://www.sierragamers.com/mission-asteroid/) – Development details and graphics tablet information
 [^ref-16]: [Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra Entertainment history and adventure game development
-[^ref-17]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#0:_Mission_Asteroid/Trivia) – Roberta Williams Anthology inclusion
+[^ref-5]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#0:_Mission_Asteroid/Trivia) – Roberta Williams Anthology inclusion
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/hi-res-adventure-0-mission-asteroid/3030-12459/) – Game database entry
 [^ref-19]: [IGDB](https://www.igdb.com/games/hi-res-adventure-0-mission-asteroid) – Game database entry
 [^ref-20]: [Archive.org](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line catalog preservation

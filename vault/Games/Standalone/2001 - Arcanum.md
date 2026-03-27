@@ -237,7 +237,7 @@ Voice direction by Chad Moore, Jeff Pobst, and Leonard Boyarsky; recorded at Wav
 
 The soundtrack stands as one of the game's most celebrated elements. Composed by Ben Houge, who called it "my most significant soundtrack project to date,"[^ref-4] the score comprises "more than 50 minutes of music in total."[^ref-4] The music concept was "a sort of musical anachronism: a score centered around the styles and textures of Renaissance, medieval, and early music, but performed by a characteristic ensemble of the Victorian era, the string quartet."[^ref-4]
 
-The Seattle Times' Melinda Bargreen praised it: "The Arcanum suite, recorded by four exceptional string players from the Seattle Symphony, is sophisticated enough to pass muster on its own as an extended string quartet."[^ref-4] Community members call it "one of the greatest video game soundtracks ever."[^ref-37]
+The Seattle Times' Melinda Bargreen praised it: "The Arcanum suite, recorded by four exceptional string players from the Seattle Symphony, is sophisticated enough to pass muster on its own as an extended string quartet."[^ref-4] Community members call it "one of the greatest video game soundtracks ever."[^ref-31]
 
 **Recording Credits:**[^ref-38]
 - **Violin I:** Leonid Keylin (Seattle Symphony)
@@ -385,7 +385,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 [^ref-34]: [PCGamingWiki – Arcanum](https://www.pcgamingwiki.com/wiki/Arcanum:_Of_Steamworks_&_Magick_Obscura) – technical issues, system requirements
 [^ref-35]: [GameBanshee – UAP Release News](http://www.gamebanshee.com/news/96250-unofficial-arcanum-patch-v091225-released.html) – Virgil bug, patch creator notes
 [^ref-36]: [GameFAQs – Arcanum Trivia](https://gamefaqs.gamespot.com/pc/914155-arcanum-of-steamworks-and-magick-obscura/faqs) – Elizabeth Dane reference
-[^ref-37]: [Steam Community – Arcanum Soundtrack Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2726041484) – community soundtrack praise
+[^ref-31]: [Steam Community – Arcanum Soundtrack Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2726041484) – community soundtrack praise
 [^ref-38]: [Internet Archive – Arcanum Soundtrack](https://archive.org/details/arcanum-soundtrack) – complete recording credits, track listing
 [^ref-39]: [GameSpot Archive – Sales News](https://web.archive.org/web/20070211193402/http://www.gamespot.com/pc/rpg/arcanumofsteamworksamo/news.html?sid=2810814) – NPD chart position, retail price
 [^ref-40]: [GOG Forum Archive – Vormantown Module](https://web.archive.org/web/20180603203709/https://www.gog.com/forum/arcanum_of_steamworks_and_magick_obscura/vormantown_module) – module descriptions, player experiences

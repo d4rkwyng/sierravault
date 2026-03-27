@@ -333,8 +333,8 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-37]: [The Cutting Room Floor](https://tcrf.net) – cheat menu dialogue
 [^ref-38]: [GameFAQs Story Text Guide](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/28141) – text compilation credits, Michael Dorn quote
 [^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
-[^ref-40]: [Computer Gaming World RPG of Year](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Awards) – 1993 award announcement
-[^ref-41]: [Entertainment Weekly Best Sellers](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Sales) – Six-month chart topper
+[^ref-1]: [Computer Gaming World RPG of Year](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Awards) – 1993 award announcement
+[^ref-1]: [Entertainment Weekly Best Sellers](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Sales) – Six-month chart topper
 [^ref-42]: [MobyGames Screenshots](https://www.mobygames.com/game/564/betrayal-at-krondor/screenshots/) – Visual documentation
 [^ref-43]: [MobyGames Cover Art](https://www.mobygames.com/game/564/betrayal-at-krondor/cover/) – Box art gallery
 [^ref-44]: [MobyGames Credits](https://www.mobygames.com/game/564/betrayal-at-krondor/credits/) – Full Dynamix team

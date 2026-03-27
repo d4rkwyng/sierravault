@@ -140,4 +140,4 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 [^ref-12]: [Lost Cities - TrueAchievements](https://www.trueachievements.com/game/Lost-Cities) - Publisher: Sierra Entertainment, Developer: Sierra Entertainment, Release: April 23, 2008
 [^ref-13]: [Lost Cities Reviews - GameFAQs](https://gamefaqs.gamespot.com/xbox360/945550-lost-cities/reviews) - User reviews and ratings
 [^ref-14]: [Delisted Games – Lost Cities](https://delistedgames.com/lost-cities/) - information about game delisting and license loss
-[^ref-15]: [BoardGameGeek – Lost Cities XBLA](https://boardgamegeek.com/thread/302494/lost-cities-for-xbla) - board game community discussion of digital adaptation
+[^ref-10]: [BoardGameGeek – Lost Cities XBLA](https://boardgamegeek.com/thread/302494/lost-cities-for-xbla) - board game community discussion of digital adaptation

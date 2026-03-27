@@ -124,7 +124,7 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 | 1990 | [[1990 - Oils Well\|Oil's Well]] | Music |
 | 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown VGA]] | Music |
 | 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Music |
+| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] | Music |
 | 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Music |
 | 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Music |
 | 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Music, Sound Programming |

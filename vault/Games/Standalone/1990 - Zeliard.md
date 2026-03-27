@@ -20,7 +20,6 @@ tags: [1980s, rpg, sci, sierra, standalone]
 
 <small style="color: gray">Last updated: March 11, 2026</small>
 
-
 ## Overview
 
 Zeliard is a side-scrolling action role-playing game developed by [[Game Arts]] that combines platforming mechanics with RPG elements, originally released for the NEC PC-8801 in Japan on December 19, 1987[^ref-1]. The game was subsequently ported to the Sharp X1 on May 13, 1988, before Sierra On-Line brought it to Western audiences on MS-DOS in 1990 as part of their licensing agreement with Game Arts[^ref-2]. As Game Arts' third game and their first foray into the RPG genre, Zeliard arrived at a pivotal moment in gaming history, releasing between Zelda II (January 1987) and Ys III (1989)[^ref-3].
@@ -218,7 +217,7 @@ A dedicated fan FAQ was written "at the insistance of a friend of mine, who happ
 
 ### Related Publications
 
-- **Original Manual:** Included with retail release, contains installation instructions and gameplay information[^ref-33]
+- **Original Manual:** Included with retail release, contains installation instructions and gameplay information[^ref-11]
 - **Cavern Maps Poster:** Large poster containing maps of each game cavern included with retail copies[^ref-2]
 - **Fan-Created FAQs:** Multiple comprehensive walkthroughs created between 2000-2005, including versions by Alan Franciškovic (v1.2, August 2001), NeoZenogias (December 2000), and Sashanan (v1.3 Boss FAQ, September 2005)[^ref-11]
 
@@ -241,7 +240,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [ClassicReload](https://classicreload.com/zeliard.html) – Browser-playable version[^ref-10]
 
 **Manuals & Extras**
-- [Game Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849)[^ref-33]
+- [Game Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849)[^ref-11]
 - [FAQ/Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849)[^ref-11]
 
 **Soundtracks**
@@ -277,7 +276,6 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
 
-
 ## References
 
 [^ref-1]: [Wikipedia – Zeliard](https://en.wikipedia.org/wiki/Zeliard) – release dates, The Games Machine review score, Planetstation Magazine quote
@@ -312,5 +310,5 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 [^ref-30]: [VJ Army – Zeliard](https://vjarmy.com/archives/2013/06/zeliard.php) – Japanese gaming exposure, Game Arts legacy
 [^ref-31]: [GOG Dreamlist – Zeliard](https://www.gog.com/dreamlist/game/zeliard) – digital availability status
 [^ref-32]: [Zeliard Game Tripod – Projects](https://zeliardgame.tripod.com/projects/index.html) – ending criticism, fan project efforts, no sequel
-[^ref-33]: [Abandonware DOS – Zeliard Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849) – manual content, installation instructions
+[^ref-11]: [Abandonware DOS – Zeliard Manual](https://www.abandonwaredos.com/docawd.php?sf=zeliard.txt&st=manual&sg=Zeliard&idg=849) – manual content, installation instructions
 [^ref-34]: [KHInsider – Zeliard MT-32 Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/zeliard-msdos-pc88-sharp-x1-gamerip-1987) – MT-32 recording details, track listing

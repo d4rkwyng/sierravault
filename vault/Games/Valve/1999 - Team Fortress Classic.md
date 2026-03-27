@@ -194,7 +194,7 @@ User reviews have noted hit registration issues and occasional lag when players 
 
 ### Sales and Commercial Impact
 
-Team Fortress Classic was initially distributed free to Half-Life owners, representing an innovative approach to expanding a game's community and promoting development tools.[^ref-10] The game was distributed through multiple channels, including PC gaming magazine cover discs from publications like PC Zone and Australian PC Authority in June 1999.[^ref-29]
+Team Fortress Classic was initially distributed free to Half-Life owners, representing an innovative approach to expanding a game's community and promoting development tools.[^ref-10] The game was distributed through multiple channels, including PC gaming magazine cover discs from publications like PC Zone and Australian PC Authority in June 1999.[^ref-27]
 
 As of 2003, Team Fortress Classic ranked among the ten most played Half-Life mods according to GameSpy, second only to Counter-Strike.[^ref-13] The game maintained a consistent player base for over two decades, with approximately 500 active servers and 50-100 average monthly players as of recent years.[^ref-30]
 
@@ -287,7 +287,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [^ref-26]: [PCGamingWiki – Team Fortress Classic](https://www.pcgamingwiki.com/wiki/Team_Fortress_Classic) – technical specifications, version info
 [^ref-27]: [Steam Community Guide – TFC History](https://steamcommunity.com/sharedfiles/filedetails/?id=511395589) – original Quake TF version history
 [^ref-28]: [AlliedMods Forums – Steam Update Issues](https://forums.alliedmods.net/archive/index.php/t-79403.html) – technical issues, compatibility problems
-[^ref-29]: [Steam Community – Magazine Cover Disc Documentation](https://steamcommunity.com/sharedfiles/filedetails/?id=2463040363) – distribution history
+[^ref-27]: [Steam Community – Magazine Cover Disc Documentation](https://steamcommunity.com/sharedfiles/filedetails/?id=2463040363) – distribution history
 [^ref-30]: [Steam Charts – Team Fortress Classic](https://steamcharts.com/app/20) – player statistics over time
 [^ref-31]: [MobyGames – Half-Life Platinum](https://www.mobygames.com/game/2727/half-life-platinum/) – compilation contents
 [^ref-32]: [MobyGames – Half-Life Platinum Collection](https://www.mobygames.com/game/6130/half-life-platinum-collection/) – expanded compilation

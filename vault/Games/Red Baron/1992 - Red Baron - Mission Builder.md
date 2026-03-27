@@ -192,7 +192,7 @@ Modern players using DOSBox-based versions (GOG, Steam) generally experience imp
 
 ### Easter Eggs and Trivia
 
-The Sierra Chest fan database notes that no Easter eggs have been documented for Red Baron: Mission Builder specifically[^ref-20]. However, the base game included various historical details and authentic touches that simulation enthusiasts appreciated:
+The Sierra Chest fan database notes that no Easter eggs have been documented for Red Baron: Mission Builder specifically[^ref-9]. However, the base game included various historical details and authentic touches that simulation enthusiasts appreciated:
 
 - The game featured 28 different WWI aircraft from both Allied and German sides[^ref-4]
 - A multiplayer version was available through The Sierra Network (later ImagiNation Network)[^ref-6]
@@ -282,5 +282,5 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-17]: [Glitchwave – Red Baron Franchise](https://glitchwave.com/franchise/red-baron/) – user rating
 [^ref-18]: [Internet Archive – Red Baron Mission Builder (German)](https://archive.org/details/002245-RedBaronMissionBuilder) – media type, platform, genre
 [^ref-19]: [Sierra Classic Gaming – Red Baron Mission Builder](https://sierraclassicgaming.com/game/red-baron-mission-builder/) – complete technical specifications
-[^ref-20]: [Sierra Chest – Red Baron: Mission Builder (Easter Eggs)](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=eggs) – Easter egg documentation
+[^ref-9]: [Sierra Chest – Red Baron: Mission Builder (Easter Eggs)](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=eggs) – Easter egg documentation
 [^ref-21]: [Kickstarter – Red Baron by Mad Otter Games](http://www.kickstarter.com/projects/madottergames/red-baron) – campaign dates, developer

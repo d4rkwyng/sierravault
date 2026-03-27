@@ -119,7 +119,7 @@ The ongoing development of new entries in the Gobliiins series demonstrates the 
 | 2012 | Captain Morgane and the Golden Turtle | Wizarbox | 3D Artist/Character Animator |
 | 2012 | R.A.W: Realms of Ancient War | Wizarbox | Character Animator |
 | 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5: The Morgloton Invasion]] | Independent | Creator/Designer/Programmer/Graphics |
-| 2026 | [[2026 - Gobliins 6\|Gobliins 6]] | Independent | Creator/Designer (In Development) |
+| 2026 | [[2026 - Gobliins 6|Gobliins 6]] | Independent | Creator/Designer (In Development) |
 
 ## References
 

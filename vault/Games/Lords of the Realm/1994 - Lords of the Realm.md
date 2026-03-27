@@ -177,7 +177,7 @@ Modern compatibility solutions include using DOSBox for emulation or running the
 
 - The game included a 34-page PDF book about "England Under Edward I," providing historical context for players interested in the period.[^ref-4]
 - Players could send customized messages to rival Lords with humorous content, adding a personal touch to diplomatic interactions.[^ref-19]
-- The original CD release contains an additional scenario titled "Conquest of the Holy Roman Empire" that is absent from GOG and Steam releases.[^ref-27]
+- The original CD release contains an additional scenario titled "Conquest of the Holy Roman Empire" that is absent from GOG and Steam releases.[^ref-25]
 - Unlike many medieval strategy games of the era, Lords of the Realm deliberately avoided including magic or technology trees, focusing instead on realistic medieval governance and warfare.[^ref-28]
 - A hidden funny song exists in the Setup2.wav file in the game's sounds directory—players can discover it by opening the file directly in Windows Explorer.[^ref-29]
 
@@ -222,7 +222,6 @@ The emphasis on economic management and population welfare set Lords of the Real
 
 Today, Lords of the Realm is recognized as a foundational title that helped define the medieval strategy genre. Its influence can be seen in numerous subsequent games, from Stronghold to Medieval: Total War, all of which built upon the template established by David Lester and his team at Impressions Games.[^ref-31]
 
-
 ## Downloads
 
 **Download / Preservation**
@@ -261,7 +260,7 @@ Today, Lords of the Realm is recognized as a foundational title that helped defi
 [^ref-24]: [Sierra Help – Lords of the Realm Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/LordsOfTheRealmUpdates.html) – patch versions
 [^ref-25]: [VOGONS Forums – Lords of the Realm CD Version](https://www.vogons.org/viewtopic.php?t=65888) – CD version differences, technical issues
 [^ref-26]: [Microsoft Learn – 16-bit Application Support](https://learn.microsoft.com/en-us/answers/questions/2410263/unsupported-16-bit-application-lords-of-the-realm) – compatibility information
-[^ref-27]: [VOGONS Forums – Lords of the Realm Version Differences](https://www.vogons.org/viewtopic.php?t=104795) – Holy Roman Empire scenario
+[^ref-25]: [VOGONS Forums – Lords of the Realm Version Differences](https://www.vogons.org/viewtopic.php?t=104795) – Holy Roman Empire scenario
 [^ref-28]: [Wikipedia – Lords of the Realm II](https://en.wikipedia.org/wiki/Lords_of_the_Realm_II) – sequel information, sales data, design philosophy
 [^ref-29]: [The Easter Egg Archive – Lords of the Realm 2](https://eeggs.com/items/182.html) – hidden song easter egg
 [^ref-30]: [Metacritic – Lords of the Realm II](https://www.metacritic.com/game/lords-of-the-realm-ii/) – TotalGames.net quote about sales

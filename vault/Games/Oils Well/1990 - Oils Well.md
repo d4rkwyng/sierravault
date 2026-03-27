@@ -251,4 +251,4 @@ As an historical artifact, Oil's Well represents Sierra's diverse publishing str
 [^ref-17]: [Metacritic – Oil's Well (1990)](https://www.metacritic.com/game/oils-well-1990) – basic metadata
 [^ref-18]: [VGTimes.ru – System Requirements](https://vgtimes.ru/games/oils-well-1990/system-requirements/) – developer/publisher confirmation
 [^ref-19]: [YouTube – Oil's Well Gameplay (VGA)](https://www.youtube.com/watch?v=JYj-5wQVbYc) – gameplay footage reference
-[^ref-20]: [YouTube – Oil's Well (1990) Video](https://www.youtube.com/watch?v=70upF0dgABQ) – gameplay documentation
+[^ref-19]: [YouTube – Oil's Well (1990) Video](https://www.youtube.com/watch?v=70upF0dgABQ) – gameplay documentation

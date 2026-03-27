@@ -215,4 +215,4 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 [^ref-13]: [Sierra Wiki – Sierra Discovery Series](https://wiki.sierrahelp.com/index.php/Sierra_Discovery_Series) – series overview and catalog
 [^ref-14]: [MobyGames – Bright Star Technology](https://www.mobygames.com/company/2194/bright-star-technology-inc/) – company credits and game catalog
 [^ref-15]: [Old Games Download – Ready, Set, Read](https://oldgamesdownload.com/ready-set-read/) – educational software preservation and download
-[^ref-16]: [VOGONS Forum – Bright Star Games Discussion](https://www.vogons.org/) – DOS-era software preservation and compatibility discussion
+[^ref-12]: [VOGONS Forum – Bright Star Games Discussion](https://www.vogons.org/) – DOS-era software preservation and compatibility discussion

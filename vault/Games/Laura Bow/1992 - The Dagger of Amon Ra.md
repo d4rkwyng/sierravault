@@ -59,7 +59,7 @@ The game features four distinct endings depending on the thoroughness of the pla
 
 *The Dagger of Amon Ra* utilizes Sierra's icon-based graphic interface, a significant departure from the text parser system used in *The Colonel's Bequest*[^ref-5]. This makes it more accessible than its predecessor and similar to other contemporary Sierra adventures[^ref-15]. The game adds an innovative "Ask" icon functionality that allows Laura to question characters about various topics, with a notebook system that automatically records important information[^ref-14].
 
-Players interact with the environment using standard Sierra icons including Walk, Look, Hand, Talk, and a magnifying glass for close examination[^ref-16]. The interface encourages thorough exploration, as many clues can only be discovered by examining objects carefully with the magnifying glass.
+Players interact with the environment using standard Sierra icons including Walk, Look, Hand, Talk, and a magnifying glass for close examination[^ref-9]. The interface encourages thorough exploration, as many clues can only be discovered by examining objects carefully with the magnifying glass.
 
 ### Structure and Progression
 
@@ -310,8 +310,8 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 - **Previous:** [[1989 - The Colonel's Bequest|← The Colonel's Bequest]] (1989)
 - **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[Gabriel Knight - Sins of the Fathers - 20th Anniversary Edition|Gabriel Knight]] (contemporary detective adventure)
 - **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (designer/writer)
-- **Technology:** [[Sierra On-Line]], [[SCI Engine]]
-- **Spiritual Successor:** [[Laura Bow and the Mechanical Codex]] (fan-made 2021 sequel)
+- **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
+- **Spiritual Successor:** Laura Bow and the Mechanical Codex (fan-made 2021 sequel)
 
 ## References
 
@@ -329,7 +329,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-13]: [Grokipedia – The Dagger of Amon Ra](https://grokipedia.com/page/The_Dagger_of_Amon_Ra) – voice cast, sales data, multiple endings
 [^ref-14]: [Archive.org – Apple Manual](https://archive.org/stream/Laura_Bow_Dagger_Of_Amon_Ra_Manual/Laura_Bow_Dagger_Of_Amon_Ra_Manual_djvu.txt) – gameplay instructions, Ask icon, notebook system
 [^ref-15]: [Play Classic Games](https://playclassic.games/games/point-n-click-adventure-dos-games-online/play-dagger-amon-ra-online/) – interface description
-[^ref-16]: [Sierra Chest – Walkthrough](https://www.sierrachest.com/index.php?a=games&id=34&fld=walkthrough) – interface mechanics
+[^ref-9]: [Sierra Chest – Walkthrough](https://www.sierrachest.com/index.php?a=games&id=34&fld=walkthrough) – interface mechanics
 [^ref-17]: [Campo Santo Quarterly Review](https://quarterly.camposanto.com/selected-stories-from-the-days-of-laura-bow-5302099438a7) – developer interviews, Leslie Balfour quote, copy protection details
 [^ref-18]: [MIDI Music Adventures – Soundtrack](https://www.midimusicadventures.com/queststudios/digital-soundtracks/dagger-of-amon-ra/) – act titles, character names, locations
 [^ref-19]: [The Computer Show – Walkthrough](http://www.thecomputershow.com/computershow/walkthroughs/laurabow2daggerwalk.htm) – game maps, Act VI save restriction

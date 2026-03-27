@@ -42,7 +42,7 @@ Cool Pool attempted to recreate the realities of billiards as faithfully as poss
 
 As a sports simulation game, 3-D Ultra Cool Pool does not feature a narrative storyline. The game focuses entirely on billiards gameplay across various game modes and table configurations. Players assume the role of a pool player competing in either single-player practice sessions or multiplayer matches against human opponents[^ref-9].
 
-The game's premise centers on providing both authentic billiards experiences and creative fantasy variants that push the boundaries of what's possible on a pool table[^ref-6]. Players can customize their experience with standard balls or custom ball designs, selecting from various difficulty levels and game modes[^ref-10].
+The game's premise centers on providing both authentic billiards experiences and creative fantasy variants that push the boundaries of what's possible on a pool table[^ref-6]. Players can customize their experience with standard balls or custom ball designs, selecting from various difficulty levels and game modes[^ref-2].
 
 ## Gameplay
 
@@ -162,7 +162,7 @@ According to PriceCharting data, 3-D Ultra Cool Pool has maintained modest colle
 
 ### Collections
 
-Cool Pool demos were included as bonus content with several Sierra products[^ref-10]:
+Cool Pool demos were included as bonus content with several Sierra products[^ref-2]:
 - **3-D Ultra Pinball 5: Thrillride** – PC CD-ROM, US, version 1.0, fliptop box with flap
 - **Hoyle Solitaire & Mahjong Tiles 2 (2000)** – PC/Mac CD-ROM, US, flip-top box
 - **Incredible Machine: Contraptions (Return of the)** – PC CD-ROM, US, flip-top box with flap
@@ -175,7 +175,7 @@ The game is preserved through various abandonware sites including My Abandonware
 
 ### Demo Distribution
 
-A playable demo of approximately 15.6 MB was distributed, featuring Eight Ball and Chameleon Ball modes with single player and multiplayer with friend options[^ref-10]. The demo allowed custom balls, difficulty selection, name entry, and rules explanation, though it lacked settings changes and music[^ref-10].
+A playable demo of approximately 15.6 MB was distributed, featuring Eight Ball and Chameleon Ball modes with single player and multiplayer with friend options[^ref-2]. The demo allowed custom balls, difficulty selection, name entry, and rules explanation, though it lacked settings changes and music[^ref-2].
 
 ### Critical Perspective
 
@@ -227,7 +227,7 @@ The game's combination of realistic physics with fantastical game modes anticipa
 [^ref-7]: [IGN – Maximum Pool Review](https://www.ign.com/articles/2000/09/29/maximum-pool-2) – review score, gameplay analysis, comparison to Cool Pool
 [^ref-8]: [All Video Classic Games](https://www.allvideoclassicgames.com/products/3d-ultra-cool-pool-sierra-1999-1clk-windows-10-8-7-vista-xp-install) – game description, 3D environment features
 [^ref-9]: [GOG.com – Cool Pool Wishlist](https://www.gog.com/dreamlist/game/3d-ultra-cool-pool-1999) – game description, game modes, user testimonial
-[^ref-10]: [Sierra Chest – Cool Pool Demos](https://sierrachest.com/index.php?a=games&id=112&title=cool-pool&fld=demos) – demo specifications, bundled products
+[^ref-2]: [Sierra Chest – Cool Pool Demos](https://sierrachest.com/index.php?a=games&id=112&title=cool-pool&fld=demos) – demo specifications, bundled products
 [^ref-11]: [Collection Chamber – 3D Ultra Cool Pool](https://collectionchamber.blogspot.com/p/3d-ultra-cool-pool.html) – game mode descriptions, technical details, emulation information
 [^ref-12]: [My Abandonware – 3D Ultra Cool Pool](https://www.myabandonware.com/game/3-d-ultra-cool-pool-hur) – user ratings, user review, version information, file sizes
 [^ref-13]: [GameSpot – 3D Ultra Cool Pool User Reviews](https://www.gamespot.com/3d-ultra-cool-pool/user-reviews/2200-37820/) – user review scores, gameplay impressions

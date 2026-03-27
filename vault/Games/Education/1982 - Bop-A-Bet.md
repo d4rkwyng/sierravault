@@ -150,7 +150,7 @@ The game's primary legacy lies in its connection to Al Lowe's career trajectory[
 
 Bop-A-Bet was included in Sierra's Hi-Res Learning series following Sierra On-Line's acquisition of the Sunnyside Soft product line in 1983.[^ref-3][^ref-18][^ref-19] This educational software line positioned the game alongside other learning-focused titles in Sierra's catalog[^ref-5].
 
-The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-11][^ref-15][^ref-16][^ref-17]
+The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-11][^ref-15][^ref-2][^ref-17]
 
 ### Fan Projects
 
@@ -210,7 +210,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [^ref-13]: [FindWords.info – Bop-A-Bet](https://findwords.info/term/bop-a-bet) – development year, publisher information
 [^ref-14]: [Encyclo.co.uk – Bop-A-Bet](https://www.encyclo.co.uk/meaning-of-Bop_A_Bet) – educational gameplay description
 [^ref-15]: [Wikidata – Q4944148](https://www.wikidata.org/wiki/Q4944148) – platform confirmation, developer attribution
-[^ref-16]: [Sierra Chest – Box Documentation](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=box) – packaging scans, Sunnyside Soft origin
+[^ref-2]: [Sierra Chest – Box Documentation](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=box) – packaging scans, Sunnyside Soft origin
 [^ref-17]: [Kagi FastGPT Research](kagi:fastgpt:What_year_was_Bop_A_Bet_video_game_released_and_who_developed_it?) – release year confirmation, developer information
 [^ref-18]: [Wikiwand – Bop-A-Bet (alternate)](https://www.wikiwand.com/en/Bop-A-Bet) – pricing information, review quotes
 [^ref-19]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Bop-A-Bet) – platform and release year verification

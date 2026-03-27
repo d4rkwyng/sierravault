@@ -260,7 +260,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 [^ref-22]: [PCGamingWiki – Donald Duck's Playground](https://www.pcgamingwiki.com/wiki/Donald_Duck's_Playground) – technical specifications, video modes, related games, availability
 [^ref-23]: [Lemon Amiga – Donald Duck's Playground](https://www.lemonamiga.com/games/details.php?id=1423) – Amiga specifications, user ratings, AGI engine
 [^ref-24]: [Speedrun.com – Donald Duck's Playground](https://www.speedrun.com/donald_ducks_playground) – speedrun records, community statistics, leaderboard
-[^ref-25]: [Sierra Chest – Making Of](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=making) – development credits, genre classification
+[^ref-9]: [Sierra Chest – Making Of](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=making) – development credits, genre classification
 [^ref-26]: [MobyGames – Donald Duck's Playground](https://www.mobygames.com/game/3491/donald-ducks-playground/) – critic aggregate score, release dates, awards, AGI version details
 [^ref-27]: [GameFAQs – PC FAQ by Forteblast](https://gamefaqs.gamespot.com/pc/582556-donald-ducks-playground/faqs/70976) – AGI interpreter details, gameplay mechanics, freeware availability
 [^ref-28]: [Wikidata – Donald Duck's Playground](https://www.wikidata.org/wiki/Q1239831) – structured metadata, engine, distributor information

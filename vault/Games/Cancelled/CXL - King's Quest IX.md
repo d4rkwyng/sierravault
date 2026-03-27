@@ -134,7 +134,8 @@ The license reverted to Activision, who ultimately passed development to The Odd
 
 ### Interface and Controls
 
-The multiple cancelled versions of King's Quest IX each pursued dramatically different interface approaches, reflecting the evolution of adventure game design across nearly two decades of development attempts. The **Twins of Change** project (1999–2002) planned a 3D action-adventure interface inspired by *The Legend of Zelda: Ocarina of Time*, with real-time combat and exploration mechanics rather than traditional point-and-click controls.[^ref-2] In contrast, the **Silver Lining** fan project utilized a traditional point-and-click interface consistent with earlier King's Quest games, allowing players to interact with the environment using mouse-based commands.[^ref-18] The **Telltale Games** approach (2011–2013) would have featured an episodic adventure game interface similar to *Tales of Monkey Island*, with inventory management and dialogue-driven progression.[^ref-16] The **Silicon Knights** prototype reportedly used Unreal Engine 3, suggesting a more modern first-person or third-person perspective, though no details have been publicly documented.[^ref-1]
+The multiple cancelled versions of King's Quest IX each pursued dramatically different interface approaches, reflecting the evolution of adventure game design across nearly two decades of development attempts.
+The **Twins of Change** project (1999–2002) planned a 3D action-adventure interface inspired by *The Legend of Zelda: Ocarina of Time*, with real-time combat and exploration mechanics rather than traditional point-and-click controls.[^ref-2] In contrast, the **Silver Lining** fan project utilized a traditional point-and-click interface consistent with earlier King's Quest games, allowing players to interact with the environment using mouse-based commands.[^ref-18] The **Telltale Games** approach (2011–2013) would have featured an episodic adventure game interface similar to *Tales of Monkey Island*, with inventory management and dialogue-driven progression.[^ref-16] The **Silicon Knights** prototype reportedly used Unreal Engine 3, suggesting a more modern first-person or third-person perspective, though no details have been publicly documented.[^ref-1]
 
 ### Structure and Progression
 
@@ -246,9 +247,9 @@ Much of what is known about these cancelled projects comes from fan community ef
 
 ## See Also
 
-- [[1984 - King's Quest]]
+- [[1984 - King's Quest - Quest for the Crown]]
 - [[1985 - King's Quest II - Romancing the Throne]]
-- [[1986 - King's Quest III - To Heir is Human]]
+- [[1986 - King's Quest III - To Heir Is Human]]
 - [[1988 - King's Quest IV - The Perils of Rosella]]
 - [[1990 - King's Quest V - Absence Makes the Heart Go Yonder]]
 - [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]

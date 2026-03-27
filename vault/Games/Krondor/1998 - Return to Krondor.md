@@ -321,7 +321,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-46]: [Speedrun.com Guide](https://www.speedrun.com/return_to_krondor/guides/g6i9r) – speedrunning strategies
 [^ref-47]: [Ataniel.org Fan Site](http://www.ataniel.org/rkrondor3.htm) – fan resources
 [^ref-48]: [Narkive Forum – Soundtrack Discussion](https://comp.sys.ibm.pc.games.rpg.narkive.com/jfRmTQ8C/crosspost-return-to-krondor-soundtrack) – fan testimonials, Raymond Feist response
-[^ref-49]: [Academy of Interactive Arts Award Nomination](https://en.wikipedia.org/wiki/Return_to_Krondor#Reception) – AIAS PC RPG of Year
+[^ref-1]: [Academy of Interactive Arts Award Nomination](https://en.wikipedia.org/wiki/Return_to_Krondor#Reception) – AIAS PC RPG of Year
 [^ref-50]: [Game-Over.net Review](https://www.game-over.net/review/december/rtk/) – series intentions
 [^ref-51]: [MobyGames Screenshots](https://www.mobygames.com/game/3254/return-to-krondor/screenshots/) – Visual documentation
 [^ref-52]: [MobyGames Cover Art](https://www.mobygames.com/game/3254/return-to-krondor/cover/) – Box art gallery
@@ -342,7 +342,7 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-69]: [MyAbandonware Entry](https://www.myabandonware.com/game/return-to-krondor-e3r) – Abandonware preservation
 [^ref-70]: [Classic Reload](https://classicreload.com/return-to-krondor.html) – Browser playability
 [^ref-71]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/return-to-krondor/) – Fan community
-[^ref-72]: [Sierra Chest Full Entry](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor) – Sierra archive
+[^ref-44]: [Sierra Chest Full Entry](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor) – Sierra archive
 [^ref-73]: [VGMPF Wiki](https://vgmpf.com/Wiki/index.php/Return_to_Krondor) – Music technical details
 [^ref-74]: [VGMdb Entry](https://vgmdb.net/album/return-to-krondor) – Soundtrack database
 [^ref-75]: [Khinsider Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/return-to-krondor) – Audio preservation

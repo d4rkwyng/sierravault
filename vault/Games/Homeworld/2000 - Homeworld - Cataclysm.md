@@ -110,7 +110,7 @@ The musical score was composed by Greg Sabitz and Paul Ruskay, with Studio X Lab
 
 The game featured impressive technical specifications for its time, supporting resolutions up to 1600x900 for 16:9 monitors and 1440x900 for 16:10 monitors[^ref-26]. Save times were remarkably fast at 0.5-1 seconds even for large maps, a feat that impressed contemporary reviewers who were "stumped" by how developers achieved this performance[^ref-50]. The audio system utilized a proprietary frequency-based engine with real-time filtering capabilities created using RAD Game Tools' Relic Audio Tool (RAT)[^ref-4].
 
-Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 300 MB of storage space[^ref-6]. The game supported up to 8 players in multiplayer mode via the now-defunct WON.net network, which shut down on November 1, 2008[^ref-51]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
+Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 300 MB of storage space[^ref-6]. The game supported up to 8 players in multiplayer mode via the now-defunct WON.net network, which shut down on November 1, 2008[^ref-4]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
 
 ## Legacy
 
@@ -130,7 +130,7 @@ However, GOG.com successfully released the game in 2017 as "Homeworld: Emergence
 
 User reactions expressed surprise: "Everyone thought the source code for Cataclysm was lost, even Gearbox itself"[^ref-3].
 
-The game's canonical status within the Homeworld universe remains ambiguous. Dan Irish, Homeworld 2 Executive Producer, stated that "the events of Cataclysm are not mentioned in Homeworld 2, but they are accepted as having occurred," while Gearbox has indicated that "Cataclysm will be canon when it is necessary to progress the story"[^ref-2]. The game spawned a devoted community, including fan-created comic strips known as "Catatoons" that were created by a community member named Troff[^ref-55]. Modding efforts continue today, including a "Cataclysm Remastered" project that ports the game into the Homeworld Remastered engine[^ref-56].
+The game's canonical status within the Homeworld universe remains ambiguous. Dan Irish, Homeworld 2 Executive Producer, stated that "the events of Cataclysm are not mentioned in Homeworld 2, but they are accepted as having occurred," while Gearbox has indicated that "Cataclysm will be canon when it is necessary to progress the story"[^ref-2]. The game spawned a devoted community, including fan-created comic strips known as "Catatoons" that were created by a community member named Troff[^ref-55]. Modding efforts continue today, including a "Cataclysm Remastered" project that ports the game into the Homeworld Remastered engine[^ref-55].
 
 ## Downloads
 
@@ -201,8 +201,8 @@ The game's canonical status within the Homeworld universe remains ambiguous. Dan
 [^ref-48]: [Space Game Junkie Interview](https://spacegamejunkie.com/2017/06/homeworld-cataclysm-emergence-interview/) – Chris Stewart interview about development
 [^ref-49]: [Kotaku - Paul Ruskay Interview](https://kotaku.com/homeworld-composer-paul-ruskay-1848364291) – Audio preservation quotes
 [^ref-50]: [Angelfire Review - Save Times](https://www.angelfire.com/ab4/testrun2B/cataclysm.html) – Technical performance impressions
-[^ref-51]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
+[^ref-4]: [PCGamingWiki - Multiplayer](https://www.pcgamingwiki.com/wiki/Homeworld:_Cataclysm#Multiplayer) – WON.net shutdown date
 [^ref-52]: [ModDB - Patch 1.01](https://www.moddb.com/games/homeworld-cataclysm/downloads/homeworld-cataclysm-patch-101) – Patch notes and compatibility
 [^ref-54]: [Windows Central - Emergence Release](https://www.windowscentral.com/homeworld-emergence-gog) – Trademark renaming explanation
 [^ref-55]: [Steam Community - Catatoons](https://steamcommunity.com/sharedfiles/filedetails/?id=1234567890) – Fan comic archive
-[^ref-56]: [Steam Workshop - Cataclysm Remastered Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2106772244) – Remastered mod project
+[^ref-55]: [Steam Workshop - Cataclysm Remastered Mod](https://steamcommunity.com/sharedfiles/filedetails/?id=2106772244) – Remastered mod project

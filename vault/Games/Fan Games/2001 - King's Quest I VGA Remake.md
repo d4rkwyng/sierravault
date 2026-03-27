@@ -175,11 +175,11 @@ Certain Easter eggs from the original were not implemented, such as the response
 | 3.0 | October 1, 2003 | Windows | Translation pack support, bug fixes, optimized audio[^ref-1] |
 | 4.0 | January 17, 2009 | Windows | Enhanced Edition: redrawn backgrounds, narration, No Dead-Ends mode[^ref-6] |
 | 4.1 | September 1, 2010 | Windows/Mac | Mac support added, bug fixes, MIDI removed[^ref-1] |
-| 4.1b | November 18, 2010 | Windows | Patch with save-game fixes[^ref-28] |
-| 4.1c | 2010 | Windows | Launcher consolidation[^ref-28] |
-| 4.2 RC1 | July 21, 2024 | Windows | Engine upgrade to AGS 3.6.1, OpenGL support[^ref-29] |
+| 4.1b | November 18, 2010 | Windows | Patch with save-game fixes[^ref-6] |
+| 4.1c | 2010 | Windows | Launcher consolidation[^ref-6] |
+| 4.2 RC1 | July 21, 2024 | Windows | Engine upgrade to AGS 3.6.1, OpenGL support[^ref-6] |
 
-**AGS Engine Versions:**[^ref-29]
+**AGS Engine Versions:**[^ref-6]
 
 | Game Version | Engine | Notes |
 |--------------|--------|-------|
@@ -188,7 +188,7 @@ Certain Easter eggs from the original were not implemented, such as the response
 
 ### Technical Issues
 
-Several bugs were identified and addressed across versions[^ref-28]:
+Several bugs were identified and addressed across versions[^ref-6]:
 - Save-game files getting misnumbered and overwriting existing saves
 - GUIs not properly centered on screen
 - Fairy Godmother's spell expiring while flying with the Condor
@@ -196,9 +196,9 @@ Several bugs were identified and addressed across versions[^ref-28]:
 - Missing confirm overwrite GUI when saving
 - Crashes on restart/restore/quit dialogs[^ref-19]
 - Graphics filters in winsetup.exe causing game crashes[^ref-6]
-- Display problems and screen stretching on widescreen monitors (pre-4.2)[^ref-29]
+- Display problems and screen stretching on widescreen monitors (pre-4.2)[^ref-6]
 
-Version 4.2 was released in 2024 specifically to address "compatibility issues on modern operating systems and hardware" that had accumulated over the decade since the last update[^ref-29].
+Version 4.2 was released in 2024 specifically to address "compatibility issues on modern operating systems and hardware" that had accumulated over the decade since the last update[^ref-6].
 
 ### Easter Eggs and Trivia
 
@@ -350,8 +350,8 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-25]: [Sierra Chest – KQ1 VGA](https://sierrachest.com/index.php?a=games&id=533&fld=general) – founder identification, version history
 [^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
 [^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original
-[^ref-28]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
-[^ref-29]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
+[^ref-6]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
+[^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
 [^ref-30]: [AGD Interactive Forum – Name Change Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=8395) – Tierra to AGDI name change
 [^ref-31]: [Reddit – KQ1 Enhanced Edition Post](https://www.reddit.com/r/Sierra/comments/1jspknm/kings_quest_i_the_quest_for_the_crown_enhanced/) – download statistics
 [^ref-32]: [Reddit – KQ2 Romancing the Stones Review](https://www.reddit.com/r/adventuregames/comments/plfy46/just_finished_kings_quest_ii_romancing_the_stones/) – user impressions, comparison to original

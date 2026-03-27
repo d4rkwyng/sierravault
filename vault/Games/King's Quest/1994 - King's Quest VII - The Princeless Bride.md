@@ -55,7 +55,7 @@ As the story unfolds, both protagonists discover that the evil enchantress Malic
 
 King's Quest VII introduced a dramatically simplified interface that Roberta Williams also implemented in Phantasmagoria.[^ref-4] Gone were the multiple action icons of King's Quest V and VI; instead, a single "smart cursor" flashes when moved over interactive objects.[^ref-1][^ref-7] This design was intended to make the game accessible to younger players and newcomers to adventure gaming, though it reduced the puzzle complexity that series veterans expected.[^ref-8]
 
-The result of this minimalist approach meant most puzzles involved finding the right item to use on hotspots rather than experimenting with different actions.[^ref-5] The simplified pointer "lights up when passed over an object that can be used," eliminating the need for players to experiment with different action icons as in previous games.[^ref-33] The 3D-rendered inventory objects could be rotated for closer examination, occasionally revealing hidden details necessary for puzzle solutions.[^ref-4]
+The result of this minimalist approach meant most puzzles involved finding the right item to use on hotspots rather than experimenting with different actions.[^ref-5] The simplified pointer "lights up when passed over an object that can be used," eliminating the need for players to experiment with different action icons as in previous games.[^ref-30] The 3D-rendered inventory objects could be rotated for closer examination, occasionally revealing hidden details necessary for puzzle solutions.[^ref-4]
 
 ### Structure and Progression
 
@@ -143,7 +143,7 @@ Producer Mark Seibert recalled the coordination challenges: "I recall going to w
 
 ### Technical Achievements
 
-King's Quest VII was the first in the series to feature VESA graphics with a native resolution of 640×480 pixels.[^ref-9][^ref-19] The SCI2.1 engine (also known as SCI-32) was the new multimedia-friendly 32-bit version of Sierra's interpreter, designed to run on both DOS and Windows.[^ref-33] The engine used RBT files for DOS cutscenes and AVI movies for the Windows interpreter.[^ref-9]
+King's Quest VII was the first in the series to feature VESA graphics with a native resolution of 640×480 pixels.[^ref-9][^ref-19] The SCI2.1 engine (also known as SCI-32) was the new multimedia-friendly 32-bit version of Sierra's interpreter, designed to run on both DOS and Windows.[^ref-30] The engine used RBT files for DOS cutscenes and AVI movies for the Windows interpreter.[^ref-9]
 
 Another innovation was the 3D-rendered inventory system. All inventory objects were modeled in three dimensions and could be rotated by the player, occasionally revealing hidden details necessary for puzzle solutions.[^ref-31]
 
@@ -156,7 +156,7 @@ The Disney-inspired intro features characters with only three fingers and a thum
 - **Media:** CD-ROM only (first King's Quest that could not fit on floppy disks)
 - **ScummVM Support:** Since version 2.0.0[^ref-19]
 
-**Minimum Requirements (1994):**[^ref-29][^ref-37]
+**Minimum Requirements (1994):**[^ref-29][^ref-30]
 - **Processor:** 386 minimum, 486 or better recommended
 - **RAM:** 4 MB minimum, 8 MB recommended
 - **OS:** Windows 3.1 or later
@@ -194,7 +194,7 @@ The original release was notoriously buggy due to a rushed Christmas deadline:[^
 - Lockup when interacting with the headless horseman or bogeyman
 - Lockup in Malicia's house
 
-**Firecracker Bug:** The timer for Valanice's firecracker sequence was tied to CPU speed, causing instant explosion on faster computers. This made the puzzle essentially unwinnable on modern hardware without patches.[^ref-10][^ref-22] Version 2.0b fixed this timing issue. The Sierra Chest recommends playing the game through DOSBox to avoid this and other speed-related issues.[^ref-37]
+**Firecracker Bug:** The timer for Valanice's firecracker sequence was tied to CPU speed, causing instant explosion on faster computers. This made the puzzle essentially unwinnable on modern hardware without patches.[^ref-10][^ref-22] Version 2.0b fixed this timing issue. The Sierra Chest recommends playing the game through DOSBox to avoid this and other speed-related issues.[^ref-30]
 
 ### Cut Content
 
@@ -320,9 +320,9 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-30]: [Sierra Chest – King's Quest VII Music](https://www.sierrachest.com/index.php?a=games&id=7&fld=music) – – full soundtrack listing with 47 tracks
 [^ref-31]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
 [^ref-32]: [Film Stories – Epic History of King's Quest](https://filmstories.co.uk/features/once-upon-a-time-the-epic-history-of-kings-quest/) – – Mark Seibert interviews on crunch time, coordination with animation studios
-[^ref-33]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
+[^ref-30]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
 [^ref-34]: [Hardcore Gaming 101 – King's Quest VII](http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – – retrospective analysis, last "true" King's Quest, pacing criticism
 [^ref-35]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – – French retrospective review 16/20, "interactive cartoon" assessment
 [^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – – detailed playthrough analysis, chapter structure, interface changes
-[^ref-37]: [Sierra Chest – King's Quest VII Tech Support](https://www.sierrachest.com/index.php?a=games&id=7&fld=tech) – – DOSBox compatibility recommendations, firecracker bug workaround
+[^ref-30]: [Sierra Chest – King's Quest VII Tech Support](https://www.sierrachest.com/index.php?a=games&id=7&fld=tech) – – DOSBox compatibility recommendations, firecracker bug workaround
 [^ref-38]: [The Digital Antiquarian – The Mortgaging of Sierra Online](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) – – Sierra's financial pressures during multimedia era, corporate changes

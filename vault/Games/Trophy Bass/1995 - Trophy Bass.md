@@ -170,7 +170,7 @@ The soundtrack was recorded using Roland Sound Canvas SC-55 hardware, with MIDI 
 
 Players running Trophy Bass on modern systems may encounter compatibility issues typical of Windows 3.x era software. The game's 16-bit installer does not function on 64-bit Windows systems, requiring manual installation procedures.[^ref-18] The Sierra Help Pages maintain custom installers that allow the game to run on modern Windows systems including Windows 7, 8, and 10.[^ref-19]
 
-On some newer hardware, the game clock runs too fast, causing accelerated fish movements and fishing mechanics that can disrupt intended gameplay balance.[^ref-20] Running the game in Windows XP compatibility mode may help address some timing issues.[^ref-21]
+On some newer hardware, the game clock runs too fast, causing accelerated fish movements and fishing mechanics that can disrupt intended gameplay balance.[^ref-18] Running the game in Windows XP compatibility mode may help address some timing issues.[^ref-21]
 
 ### Easter Eggs and Trivia
 
@@ -269,7 +269,7 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 [^ref-17]: [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – patch details, version history
 [^ref-18]: [VOGONS Forum – Trophy Bass 2](https://www.vogons.org/viewtopic.php?t=28700) – 16-bit installer compatibility issues
 [^ref-19]: [Sierra Help Pages – New Sierra Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – modern Windows compatibility
-[^ref-20]: [VOGONS Forum – Trophy Bass Timing](https://www.vogons.org/viewtopic.php?t=66507) – game clock speed issues
+[^ref-18]: [VOGONS Forum – Trophy Bass Timing](https://www.vogons.org/viewtopic.php?t=66507) – game clock speed issues
 [^ref-21]: [Internet Archive – Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – compatibility mode recommendations
 [^ref-23]: [PC Gamer News (Archive.org)](https://web.archive.org/web/19980218070422/http://www.pcgamer.com/news/news-1997-11-03.html) – November 1997 sales figures
 [^ref-24]: [GameSpot – Trophy Bass 2 Review](https://www.gamespot.com/reviews/trophy-bass-2-review/1900-2538124/) – Tal Blevins review, sequel features

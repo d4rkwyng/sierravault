@@ -105,7 +105,6 @@ The game has maintained a dedicated fan following, with users on GOG's wishlist 
 
 Many of the gameplay elements that Manhunter pioneered would later become popular in adventure games developed in the 1990s and 2000s, including "first-person adventures, puzzles of the kind seen in Ripper and Black Dahlia, graphic horror, and 'detective'-based gameplay"[^ref-16]. The game's willingness to embrace mature themes and graphic content proved influential for later horror-themed adventure games. Fan-created unofficial patches have been developed to address minor technical issues, demonstrating the game's enduring appeal among retro gaming enthusiasts[^ref-22]. The game remains notable for being very different from other AGI games in both interface and perspective[^ref-16], establishing itself as an important experimental work in Sierra's catalog.
 
-
 ### ### Mature Narrative Themes
 
 Manhunter: New York explored darker themes and morally complex storytelling that distinguished it from other Sierra adventure games[^ref-2]. The game's cyberpunk aesthetic and dystopian setting anticipated later game industry trends toward mature narratives[^ref-3].
@@ -157,4 +156,4 @@ The cyberpunk worldbuilding created an immersive dystopian future that contraste
 [^ref-21]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – - Retrospective assessment
 [^ref-22]: [Larry Laffer](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – - Development origin
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) – - Fan comments and praise
-[^ref-24]: [TV Tropes - Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – - Gameplay innovation and cultural influence
+[^ref-13]: [TV Tropes - Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – - Gameplay innovation and cultural influence

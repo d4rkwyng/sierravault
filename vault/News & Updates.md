@@ -117,7 +117,7 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > [!abstract] Alumni Projects
 > | Project | Creator | Status |
 > |---------|---------|--------|
-> | [[2026 - Gobliins 6\|Gobliins 6]] | Pierre Gilhodes | ✅ **Released!** ([itch.io](https://pierre-gilhodes.itch.io/gobliins6) now, [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) Feb 13) |
+> | [[2026 - Gobliins 6|Gobliins 6]] | Pierre Gilhodes | ✅ **Released!** ([itch.io](https://pierre-gilhodes.itch.io/gobliins6) now, [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) Feb 13) |
 > | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4]] | Jane Jensen | ⏳ Awaiting MS approval |
 > | Hero-U Sequel | Corey & Lori Cole | 💰 Seeking funding |
 

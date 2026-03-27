@@ -95,7 +95,7 @@ No One Lives Forever received universal acclaim upon release, with critics prais
 The PlayStation 2 port received significantly lower marks due to technical compromises:
 - **GameSpot** gave the PS2 version only 4.6/10[^ref-1]
 - **IGN** awarded 6.9/10 for PS2, noting performance and graphics issues despite calling the underlying game "damn good"[^ref-27]
-- **Metacritic PS2 aggregate:** 67/100[^ref-28]
+- **Metacritic PS2 aggregate:** 67/100[^ref-26]
 
 **Additional critical praise:**
 
@@ -112,7 +112,7 @@ A Eurogamer retrospective offered a bittersweet assessment: "You simply couldn't
 
 **Aggregate Scores:**
 - **Metacritic (PC):** 91/100 (32 critics)[^ref-26]
-- **Metacritic (PS2):** 67/100 (22 critics)[^ref-28]
+- **Metacritic (PS2):** 67/100 (22 critics)[^ref-26]
 - **MobyGames (PC):** 7.9/10[^ref-8]
 - **MobyGames (PS2):** 70%[^ref-22]
 - **IMDB:** 8.7/10 (740 ratings)[^ref-15]
@@ -356,7 +356,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-25]: [Glitchwave Review](https://glitchwave.com/game/the-operative-no-one-lives-forever/) – feminist analysis
 [^ref-26]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
 [^ref-27]: [IGN PS2 Review](http://ps2.ign.com/articles/357/357880p1.html) – Douglass C. Perry review
-[^ref-28]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
+[^ref-26]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
 [^ref-29]: [PC Gamer Retrospective (2010)](http://www.pcgamer.com/2010/07/10/why-you-must-replay-no-one-lives-forever/) – Tim Stone retrospective
 [^ref-30]: [Kotaku – Night Dive Trademark Filing](https://kotaku.com/looks-like-no-one-lives-forever-is-coming-back-1570565974) – modern assessment
 [^ref-31]: [Eurogamer Retrospective](https://www.eurogamer.net/no-one-lives-forever-retrospective) – historical analysis

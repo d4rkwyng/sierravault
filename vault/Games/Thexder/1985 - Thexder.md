@@ -169,7 +169,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-37]: [Time Extension](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – - Modern re-release
 [^ref-38]: [Atari Magazines Review](https://www.atarimagazines.com/compute/issue100/Thexder.php) – - "Jumps into the past to grab a theme that was the rage in video arcades"
 [^ref-39]: [Hardcore Gaming 101](https://blog.hardcoregaming101.net/2015/08/thexder.html) – - "Mecha who can transform into a jet" detailed retrospective
-[^ref-40]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"
+[^ref-20]: [Compute! Magazine](https://en.wikipedia.org/wiki/Thexder#Reception) – - "First true arcade game" and "excellent play value for your dollar"
 [^ref-46]: [Pixelated Arcade](https://pixelatedarcade.com/games/thexder) – - "Best selling games of its time with over one million copies sold"
 [^ref-48]: [Nintendo Life](https://www.nintendolife.com/games/switch-eshop/eggconsole_thexder_pc-8801mkiisr) – - "Hyper dual-armor which can transform into robot and fighter forms"
 [^ref-49]: [Nintendo World Report](https://www.nintendoworldreport.com/review/61247/eggconsole-thexder-pc-8801mkiisr-switch-review) – - "Intriguingly combining side-scrolling action and shoot-em-up"
@@ -179,7 +179,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-56]: [Retro Mags](https://www.retromags.com/forums/topic/thexder/) – - "Became best-selling hit, selling over 500,000 copies in Japan by 1987"
 [^ref-57]: [Sierra Newsletter 1990](https://savagetaylor.com/2016/01/30/sierra-newsletter-summer-1990/) – - Macintosh development challenges
 [^ref-59]: [Sierra Chest Walkthrough](https://sierrachest.com/index.php?a=games&id=92&title=thexder&fld=walkthrough) – - "Crucial to increase the maximum energy level"
-[^ref-60]: [Sierra Chest Music](https://sierrachest.com/index.php?a=games&id=92&title=thexder&fld=music) – - Moonlight Sonata soundtrack information
+[^ref-59]: [Sierra Chest Music](https://sierrachest.com/index.php?a=games&id=92&title=thexder&fld=music) – - Moonlight Sonata soundtrack information
 [^ref-61]: [Games Database NES](https://www.gamesdatabase.org/game/nintendo-nes/thexder) – - "Robot capable of transforming into a jet whose job is to destroy central computer"
 [^ref-63]: [IGN Archive](https://www.ign.com/games/thexder) – - Game database entry and platform information
 [^ref-64]: [TouchArcade](https://toucharcade.com/2023/01/03/switcharcade-round-up-reviews-featuring-eggconsole-thexder/) – - 3.5/5 SwitchArcade Round-Up review

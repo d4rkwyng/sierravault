@@ -58,7 +58,7 @@ The game also included a "quick start" feature allowing players to skip technica
 
 The game claimed to be "the first golf simulation to offer both complete Season and Career tour-style gameplay"[^ref-10]. Players could create custom golfers with personalized faces, body types, and clothing, then guide them through either amateur or professional tour circuits[^ref-7]. Career mode encompassed multiple tournament formats including skins games, best ball competitions, and Ryder Cup matches[^ref-1]. Practice facilities included putting greens and a driving range for skill development[^ref-7].
 
-Course variety was substantial, featuring 13 total courses—8 carried over from the previous edition and 5 newly created[^ref-8][^ref-1]. Notably, the game did not include any real licensed PGA Tour players, instead relying on fictional golfers[^ref-1][^ref-11]. The Course Architect tool allowed players to design custom courses, and over 1,600 user-created courses eventually became available for download through the community[^ref-3][^ref-8]. Multiplayer was supported via modem, LAN, or the WON.net online network[^ref-8].
+Course variety was substantial, featuring 13 total courses—8 carried over from the previous edition and 5 newly created[^ref-8][^ref-1]. Notably, the game did not include any real licensed PGA Tour players, instead relying on fictional golfers[^ref-1][^ref-5]. The Course Architect tool allowed players to design custom courses, and over 1,600 user-created courses eventually became available for download through the community[^ref-3][^ref-8]. Multiplayer was supported via modem, LAN, or the WON.net online network[^ref-8].
 
 ### Puzzles and Mechanics
 
@@ -81,7 +81,7 @@ PGA Championship Golf 2000 received widespread critical acclaim upon release, es
 
 Stephen Poole's GameSpot review praised the game for implementing "a great mouse-swing system" and stripping away unrealistic conventions[^ref-4]. Game Over's Cody Nicholson declared it "arguably one of the best golf simulations ever to be released for the PC," noting it was one of the few Sierra Sports franchises kept alive after the NFL Football Pro 99 failure[^ref-2]. The Hartford Courant provided a comprehensive analysis praising the depth of tournament modes and course variety[^ref-1].
 
-However, reviews were not without criticism. Game Over noted long loading times with constant CD checking and the lack of TCP/IP multiplayer support[^ref-2]. The absence of real PGA Tour professionals was also noted as a limitation[^ref-1][^ref-11].
+However, reviews were not without criticism. Game Over noted long loading times with constant CD checking and the lack of TCP/IP multiplayer support[^ref-2]. The absence of real PGA Tour professionals was also noted as a limitation[^ref-1][^ref-5].
 
 ### Modern Assessment
 
@@ -161,7 +161,7 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-8]: [CNET Gamecenter – PGA Championship Golf 2000 Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – 8/10 by Jason Ocampo, 13 courses (8 old, 5 new), multiplayer modes
 [^ref-9]: [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h) – User reviews, preservation download, 4.48/5 rating
 [^ref-10]: [CD Magazine – PGA Championship Golf 2000 Announcement](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – First golf sim with Season and Career modes
-[^ref-11]: [GameVortex – PGA Championship Golf 2000](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – No real PGA Tour players included
+[^ref-5]: [GameVortex – PGA Championship Golf 2000](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – No real PGA Tour players included
 [^ref-12]: [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – Patch versions 3.2.7.1 and 3.3.4.5, system requirements
 [^ref-13]: [GamePressure – PGA Championship Golf 2000](https://www.gamepressure.com/games/pga-championship-golf-2000/zc1092) – Technical specifications, system requirements
 [^ref-14]: [Amazon – PGA Championship Golf 2000 Titanium Edition](https://www.amazon.com/PGA-Championship-Golf-2000-Titanium-PC/dp/B000056OYP) – 3.3/5 customer rating, TrueSwing user feedback

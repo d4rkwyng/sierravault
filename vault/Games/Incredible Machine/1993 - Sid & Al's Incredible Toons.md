@@ -162,9 +162,9 @@ Modern players running the game in DOSBox report full compatibility with DOSBox 
 
 ### Easter Eggs and Trivia
 
-- **Quarky Balloon Character:** The character depicted within the balloons in the game is Quarky from *Quarky and Quaysoo's Turbo Science*, another Jeff Tunnell Productions title[^ref-20].
+- **Quarky Balloon Character:** The character depicted within the balloons in the game is Quarky from *Quarky and Quaysoo's Turbo Science*, another Jeff Tunnell Productions title[^ref-13].
 
-- **Johnny Castaway References:** The icon used to program an item appears as a small island, referencing *Screen Antics: Johnny Castaway*. Several sound effects are also borrowed from that screensaver, including Johnny's humming and Mermaid Marie's chirping sound[^ref-20].
+- **Johnny Castaway References:** The icon used to program an item appears as a small island, referencing *Screen Antics: Johnny Castaway*. Several sound effects are also borrowed from that screensaver, including Johnny's humming and Mermaid Marie's chirping sound[^ref-13].
 
 - **Secret Bonus Levels:** After completing all 90 regular puzzles, entering "WIND" on the Password screen unlocks 10 additional bonus puzzles[^ref-14][^ref-13].
 
@@ -248,7 +248,7 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [^ref-17]: [Music Stack Exchange – Game Music Discussion](https://music.stackexchange.com/questions/77245/how-do-video-game-music-composers-make-so-many-songs-for-one-game-are-all-of-th) – public domain music usage
 [^ref-18]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=music) – soundtrack track listing
 [^ref-19]: [PCGamingWiki – Sid & Al's Incredible Toons](https://www.pcgamingwiki.com/wiki/Sid_&_Al's_Incredible_Toons) – save file locations, system requirements
-[^ref-20]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=eggs) – Quarky reference, Johnny Castaway sounds
+[^ref-13]: [Sierra Chest – Easter Eggs](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=eggs) – Quarky reference, Johnny Castaway sounds
 [^ref-21]: [MobyGames – The Incredible Toon Machine](https://www.mobygames.com/game/9601/the-incredible-toon-machine/) – sequel features, puzzle count
 [^ref-22]: [Dynamix Fandom Wiki](https://dynamix.fandom.com/wiki/Sid_%26_Al%27s_Incredible_Toons) – development credits, Electronic Entertainment review
 [^ref-23]: [Alchetron – Sid and Al's Incredible Toons](https://alchetron.com/Sid-and-Al's-Incredible-Toons) – designer credits, platform information

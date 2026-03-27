@@ -167,7 +167,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [^ref-20]: [Internet Archive – Legend of Djel](https://archive.org/details/msdos_Legend_of_Djel_1989) – DOS version preservation
 [^ref-21]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3317) - Comprehensive game database with technical details and user commentary
 [^ref-22]: [Hall of Light – Legend of Djel](https://hol.abime.net/577) – Amiga database entry
-[^ref-23]: [Lemon Amiga – Legend of Djel](https://www.lemonamiga.com/games/details.php?id=577) – Amiga version details
+[^ref-21]: [Lemon Amiga – Legend of Djel](https://www.lemonamiga.com/games/details.php?id=577) – Amiga version details
 [^ref-24]: [MobyGames](https://www.mobygames.com/game/3839/) - Game database entry
 [^ref-25]: [MobyGames](https://www.mobygames.com/game/3839/legend-of-djel/) - Comprehensive game metadata and ratings
 [^ref-26]: [MobyGames](https://www.mobygames.com/game/6218/the-prophecy/) - Related game profile with development context

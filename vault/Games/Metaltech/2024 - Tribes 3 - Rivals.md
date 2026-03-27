@@ -49,7 +49,7 @@ Tribes 3: Rivals utilizes keyboard and mouse controls optimized for fast-paced m
 
 The HUD displays real-time information including health, shield levels, ammunition count, team status, flag position in Capture the Flag modes, and player radar for tactical awareness.[^ref-5] This streamlined interface balances competitive information density with visual clarity, enabling players to make quick decisions in high-speed aerial combat.
 
-### Core Mechanics
+### Structure and Progression
 
 Tribes 3: Rivals preserves the signature gameplay elements that defined the original Dynamix-developed titles:[^ref-5]
 
@@ -58,7 +58,7 @@ Tribes 3: Rivals preserves the signature gameplay elements that defined the orig
 - **Spinfusors:** The series' signature disc-launching weapons requiring players to lead targets[^ref-5]
 - **Capture the Flag:** The primary competitive mode requiring teams to steal the enemy flag while defending their own[^ref-5]
 
-### Classes and Loadouts
+### Puzzles and Mechanics
 
 Players can choose from three armor classes, each with distinct capabilities:[^ref-5]
 
@@ -152,7 +152,7 @@ The official website continues to provide gameplay tutorials and FAQ documentati
 [^ref-10]: [Reddit r/Tribes](https://www.reddit.com/r/Tribes/) – community discussion
 [^ref-11]: [Prophecy Games Discord](https://discord.gg/tribes) – official community
 [^ref-12]: [Developer Interview – Mick Larkins](https://www.youtube.com/results?search_query=tribes+3+rivals+developer+interview) – development insights
-[^ref-13]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
+[^ref-12]: [YouTube Gameplay](https://www.youtube.com/results?search_query=tribes+3+rivals+gameplay) – gameplay videos
 [^ref-14]: [Tribes Wiki](https://wiki.tribesdepot.com/wiki/Tribes_Wiki) – series information
 [^ref-15]: [SteamBase Charts](https://steambase.io/games/tribes-3-rivals/steam-charts) – additional statistics
 [^ref-16]: [Prophecy Games Official](https://www.prophecygames.com/) – developer info

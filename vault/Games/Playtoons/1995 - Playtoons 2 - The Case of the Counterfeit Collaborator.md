@@ -32,7 +32,7 @@ As part of the Playtoons series, the game was designed with an innovative cross-
 > **Developer:** [[Coktel Vision]][^ref-1]
 > **Designer:** Unknown
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Gob engine[^ref-6]
+> **Engine:** Gob engine[^ref-5]
 > **Platforms:** Windows 3.1, Windows 95, Macintosh[^ref-7]
 > **Release Year:** 1995
 > **Series:** Playtoons
@@ -89,7 +89,7 @@ The decision to adapt the Spirou animated cartoon for Playtoons 2 represented an
 
 ### Production
 
-The game was developed using Coktel Vision's proprietary Gob engine, which powered many of the studio's adventure games and interactive titles during this era[^ref-6]. The engine supported the complex animation playback and interactive elements required for the Playtoons experience.
+The game was developed using Coktel Vision's proprietary Gob engine, which powered many of the studio's adventure games and interactive titles during this era[^ref-5]. The engine supported the complex animation playback and interactive elements required for the Playtoons experience.
 
 **Development Credits:**[^ref-1]
 - **Composer:** Charles Callet
@@ -206,7 +206,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-3]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, developer information
 [^ref-4]: [MobyGames – Playtoons 1 Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – cross-title integration, series description, construction kit details
 [^ref-5]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
-[^ref-6]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
+[^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
 [^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
 [^ref-8]: [Kagi FastGPT Query](kagi:fastgpt:What year was Playtoons 2: Hiccups the Ghost video game released and who developed it?) – release year, developer, alternate titles
 [^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept

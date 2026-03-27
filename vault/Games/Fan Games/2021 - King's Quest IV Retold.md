@@ -40,13 +40,13 @@ A subsequent enhanced version, King's Quest IV Retold VGA Talkie, was later deve
 
 ## Story Summary
 
-The game's narrative picks up immediately where *King's Quest III: To Heir Is Human* concluded[^ref-3]. As King Graham joyfully tosses his adventurer's cap to his reunited children, he suddenly suffers a massive heart attack and collapses, leaving him on his death bed[^ref-5]. The kingdom of Daventry is plunged into despair as the beloved monarch lies dying, and all hope seems lost for the royal family[^ref-3].
+The game's narrative picks up immediately where *King's Quest III: To Heir Is Human* concluded[^ref-3]. As King Graham joyfully tosses his adventurer's cap to his reunited children, he suddenly suffers a massive heart attack and collapses, leaving him on his death bed[^ref-3]. The kingdom of Daventry is plunged into despair as the beloved monarch lies dying, and all hope seems lost for the royal family[^ref-3].
 
-Princess Rosella, daughter of King Graham and twin sister of Prince Alexander (formerly known as Gwydion), is contacted via the Magic Mirror by the good fairy Genesta[^ref-6]. Genesta reveals that a rare magic fruit exists in the land of Tamir that can heal Rosella's father, but time is running short[^ref-5]. Rosella must journey to this distant realm and retrieve the miraculous fruit before it is too late to save the king[^ref-3].
+Princess Rosella, daughter of King Graham and twin sister of Prince Alexander (formerly known as Gwydion), is contacted via the Magic Mirror by the good fairy Genesta[^ref-6]. Genesta reveals that a rare magic fruit exists in the land of Tamir that can heal Rosella's father, but time is running short[^ref-3]. Rosella must journey to this distant realm and retrieve the miraculous fruit before it is too late to save the king[^ref-3].
 
-However, Rosella's quest becomes complicated when she discovers that the evil fairy Lolotte has been terrorizing the land of Tamir[^ref-5]. The wicked sorceress has stolen Genesta's magical talisman, leaving the good fairy weakened and near death herself[^ref-6]. Rosella must navigate the dangerous realm, overcoming both the perils of Tamir and Lolotte's dark machinations, to save not only her father but also free the land from the witch's tyranny[^ref-3].
+However, Rosella's quest becomes complicated when she discovers that the evil fairy Lolotte has been terrorizing the land of Tamir[^ref-3]. The wicked sorceress has stolen Genesta's magical talisman, leaving the good fairy weakened and near death herself[^ref-6]. Rosella must navigate the dangerous realm, overcoming both the perils of Tamir and Lolotte's dark machinations, to save not only her father but also free the land from the witch's tyranny[^ref-3].
 
-The adventure spans a full day-and-night cycle, with certain activities only possible during specific times, maintaining the original game's unique real-time gameplay element that distinguished it from other entries in the King's Quest series[^ref-6]. Rosella's journey takes her through haunted mansions, dark caves, and mystical locations as she proves herself a worthy heroine[^ref-5].
+The adventure spans a full day-and-night cycle, with certain activities only possible during specific times, maintaining the original game's unique real-time gameplay element that distinguished it from other entries in the King's Quest series[^ref-6]. Rosella's journey takes her through haunted mansions, dark caves, and mystical locations as she proves herself a worthy heroine[^ref-3].
 
 ## Gameplay
 
@@ -162,7 +162,7 @@ The VGA Talkie version has documented compatibility issues with ScummVM versions
 
 The original 1988 Sierra game had copy protection requiring manual lookups ("what's the Xth word on page x?"), which frustrated players[^ref-11]. ScummVM does not remove copy protection unless the original interpreter had an official release with it disabled[^ref-11].
 
-CrossOver testing indicated that the Retold version "Installs, Will Not Run" on Mac using CrossOver version 22.0.1, though this rating is considered outdated for current CrossOver versions[^ref-5].
+CrossOver testing indicated that the Retold version "Installs, Will Not Run" on Mac using CrossOver version 22.0.1, though this rating is considered outdated for current CrossOver versions[^ref-3].
 
 ### Easter Eggs and Trivia
 
@@ -244,7 +244,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 [^ref-2]: [Adventure Game Studio – King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – release date, awards, download statistics, user reviews, technical specifications
 [^ref-3]: [CodeWeavers Compatibility Database](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, plot summary, compatibility testing
 [^ref-4]: [Reddit r/Sierra – VGA Talkie Discussion](https://www.reddit.com/r/Sierra/comments/1pckube/kings_quest_iv_retold_vga_talkie_full_game/) – Magic Quest Entertainment credits, development notes, tribute information
-[^ref-5]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold?srsltid=AfmBOorEEm4xS6Bu3E-MnnzED5JpX6vfnLOTcyhKU5uuoS39jagHo7Ns) – game description, Mac compatibility rating
+[^ref-3]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold?srsltid=AfmBOorEEm4xS6Bu3E-MnnzED5JpX6vfnLOTcyhKU5uuoS39jagHo7Ns) – game description, Mac compatibility rating
 [^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game development, sales data, review scores, awards, technical details, Roberta Williams quotes
 [^ref-7]: [Reddit r/kingsquest – Retold Announcement](https://www.reddit.com/r/kingsquest/comments/naf8jf/for_those_not_aware_kings_quest_iv_retold_is_a/) – interface changes, community reception
 [^ref-8]: [King's Quest Omnipedia – King's Quest IV Retold EGA](https://kingsquest.fandom.com/wiki/King%27s_Quest_IV_Retold_EGA) – development motivation, EGA graphics decision, DrSlash's design philosophy

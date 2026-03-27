@@ -50,19 +50,19 @@ Players assume the role of an unnamed treasure hunter who has heard tales of the
 
 ### Interface and Controls
 
-Cranston Manor utilizes a text parser interface typical of early 1980s adventure games[^ref-4]. Players interact with the game world by typing commands using a two-word verb-noun structure[^ref-4]. According to the original documentation, "the computer has a tremendous vocabulary, although it only understands sentences of one or two words"[^ref-7]. This simple yet functional input method requires players to think carefully about how to describe their intended actions using basic command combinations like "GET LAMP" or "OPEN DOOR."
+Cranston Manor utilizes a text parser interface typical of early 1980s adventure games[^ref-4]. Players interact with the game world by typing commands using a two-word verb-noun structure[^ref-4]. According to the original documentation, "the computer has a tremendous vocabulary, although it only understands sentences of one or two words"[^ref-2]. This simple yet functional input method requires players to think carefully about how to describe their intended actions using basic command combinations like "GET LAMP" or "OPEN DOOR."
 
-The game operates with keyboard-only input, with no mouse or joystick support[^ref-4]. Players navigate the environment using directional commands and examine objects to gather clues about the treasures' locations. The interface supports saving progress, with save game slots designated from A to O, providing players with fifteen save positions to record their progress through the adventure[^ref-7].
+The game operates with keyboard-only input, with no mouse or joystick support[^ref-4]. Players navigate the environment using directional commands and examine objects to gather clues about the treasures' locations. The interface supports saving progress, with save game slots designated from A to O, providing players with fifteen save positions to record their progress through the adventure[^ref-2].
 
 ### Structure and Progression
 
 The game follows a non-linear exploration structure where players are free to investigate different areas of Cranston Manor and its grounds in their chosen order. The ultimate goal requires collecting all sixteen treasures scattered throughout the property[^ref-3]. Progress is measured by the number of treasures successfully retrieved and secured.
 
-One distinctive feature allows players to switch between graphic and text modes during gameplay[^ref-5]. When graphics are displayed, the screen is split between the visual representation of the current location and the text area where descriptions and commands appear. The text display area is limited to four lines[^ref-7], requiring concise communication between the game and player.
+One distinctive feature allows players to switch between graphic and text modes during gameplay[^ref-5]. When graphics are displayed, the screen is split between the visual representation of the current location and the text area where descriptions and commands appear. The text display area is limited to four lines[^ref-2], requiring concise communication between the game and player.
 
 ### Puzzles and Mechanics
 
-The puzzle design in Cranston Manor follows the treasure-hunt paradigm common to adventure games of the era[^ref-5]. Players must explore locations, collect useful items, and determine how to access areas where treasures are hidden. The game demands creative problem-solving, with the original documentation warning that completion "may take weeks"[^ref-7].
+The puzzle design in Cranston Manor follows the treasure-hunt paradigm common to adventure games of the era[^ref-5]. Players must explore locations, collect useful items, and determine how to access areas where treasures are hidden. The game demands creative problem-solving, with the original documentation warning that completion "may take weeks"[^ref-2].
 
 The treasure collection mechanic provides the game's central structure, with each of the sixteen treasures presenting its own set of challenges to acquire[^ref-3]. Some treasures may be protected by environmental hazards, locked behind barriers requiring specific items to bypass, or guarded by the supernatural presence that allegedly haunts the manor[^ref-2].
 
@@ -130,7 +130,7 @@ The Adventure Development Language (ADL) engine allowed for a streamlined develo
 | Japanese | 1983 | PC-88 | Japanese localization by StarCraft, Inc.[^ref-3] |
 | Japanese | 1983 | PC-98 | Japanese localization by StarCraft, Inc.[^ref-3] |
 
-The game saw several packaging variations during its initial run on the Apple II. The original release featured a black and white folder, which was later replaced by a color folder as the game continued to sell[^ref-2]. Additionally, Cranston Manor was re-released under the SierraVenture branding, which Sierra used for certain adventure titles during this period[^ref-2][^ref-7].
+The game saw several packaging variations during its initial run on the Apple II. The original release featured a black and white folder, which was later replaced by a color folder as the game continued to sell[^ref-2]. Additionally, Cranston Manor was re-released under the SierraVenture branding, which Sierra used for certain adventure titles during this period[^ref-2][^ref-2].
 
 ### Easter Eggs and Trivia
 
@@ -155,7 +155,7 @@ The game has been made playable on modern systems through the ScummVM project, w
 
 ### Related Publications
 
-- **Game Manual:** Original documentation included with game, containing gameplay instructions and parser information[^ref-7]
+- **Game Manual:** Original documentation included with game, containing gameplay instructions and parser information[^ref-2]
 
 ### Critical Perspective
 
@@ -198,7 +198,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 [^ref-4]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/reviews/) – technical specifications, gameplay analysis, historical context
 [^ref-5]: [Sierra Gamers – Cranston Manor](https://www.sierragamers.com/cranston-manor/) – gameplay mechanics, mode switching, treasure hunt objective
 [^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – DOS compatibility, physical media information, development location
-[^ref-7]: [Sierra Chest – Cranston Manor Walkthrough](https://sierrachest.com/index.php?a=games&id=196&fld=walkthrough) – parser system, save slots, text display specifications
+[^ref-2]: [Sierra Chest – Cranston Manor Walkthrough](https://sierrachest.com/index.php?a=games&id=196&fld=walkthrough) – parser system, save slots, text display specifications
 [^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, series context
 [^ref-9]: [MyAbandonware – Hi-Res Adventure #3: Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1) – file sizes, platform versions, release regions
 [^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival preservation, media format
@@ -220,5 +220,5 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 [^ref-26]: [Sierra Fandom Wiki – Cranston Manor Behind the Scenes](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Behind_the_scenes) – production context
 [^ref-27]: [Sierra Fandom Wiki – Cranston Manor Music](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Music) – audio information
 [^ref-28]: [Sierra Fandom Wiki – Cranston Manor Unused Content](https://sierra.fandom.com/wiki/Hi-Res_Adventure_%233:_Cranston_Manor/Unused_content) – cut content research
-[^ref-29]: [Sierra Chest – Screenshots](https://www.sierrachest.com/index.php?a=g&id=196&fld=s&gconf=1) – visual documentation, development details
+[^ref-24]: [Sierra Chest – Screenshots](https://www.sierrachest.com/index.php?a=g&id=196&fld=s&gconf=1) – visual documentation, development details
 [^ref-30]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Hi-Res+Adventure+%233%3A+Cranston+Manor) – alternative title confirmation

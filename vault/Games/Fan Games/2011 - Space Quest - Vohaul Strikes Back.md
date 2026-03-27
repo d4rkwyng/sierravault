@@ -63,7 +63,7 @@ The game spans approximately 90 playable screens across multiple distinct enviro
 
 - **Romanticon VII:** The opening vacation planet where Roger's adventure begins
 - **Radon Ice World:** The treacherous frozen planet serving as the main setting, featuring "gorgeous" ice landscapes[^ref-7]
-- **Al's Beach Resort:** A relaxation locale with both interior and exterior areas[^ref-16]
+- **Al's Beach Resort:** A relaxation locale with both interior and exterior areas[^ref-10]
 - **The Caves:** Underground exploration sections
 - **Furkunz Village:** Home of the indigenous people Roger must recruit
 - **Boot Camp:** Military training facility
@@ -314,7 +314,7 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 [^ref-13]: [Adventurespel.nl – Walkthrough](https://www.adventurespel.nl/games/walk/spquest.htm) – story background, gameplay details, hamster wheel trivia
 [^ref-14]: [Adventure Gamers – Game Database](https://adventuregamers.com/games/view/16272) – genre classification, presentation style, plot summary
 [^ref-15]: [MobyGames – Space Quest: Vohaul Strikes Back](https://www.mobygames.com/game/97968/space-quest-vohaul-strikes-back/) – credits, ratings, voice pack status
-[^ref-16]: [Sierra Chest – Music Tracks](https://sierrachest.com/index.php?a=games&id=426&title=space-quest-vohaul-strikes-back&fld=music) – complete soundtrack listing, location names
+[^ref-10]: [Sierra Chest – Music Tracks](https://sierrachest.com/index.php?a=games&id=426&title=space-quest-vohaul-strikes-back&fld=music) – complete soundtrack listing, location names
 [^ref-17]: [MobyGames – Space Quest II](https://www.mobygames.com/game/128/space-quest-ii-chapter-ii-vohauls-revenge/) – death messages, game responses, LucasArts quote
 [^ref-18]: [Just Adventure – Fan Games Review (Archived)](http://web.archive.org/web/20120318231725/http://justadventure.com/article/99/reviews-roger-these-two-space-quest-fan-made-games-the-sequel) – Greg Collins review, score, technical issues
 [^ref-19]: [IndieGames.com (Archived)](https://web.archive.org/web/20120109033007/http://indiegames.com/2012/01/space_quest_fans_this_is_where.html) – Cassandra Khaw review, voice pack development announcement

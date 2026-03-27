@@ -55,13 +55,13 @@ The game's arena combat represents this ongoing conflict between the two faction
 
 CyberGladiators utilizes a traditional fighting game control scheme with support for both 4-button joystick controllers and keyboard input[^ref-8]. The game was designed with the action-oriented gameplay typical of 1990s arcade fighters in mind, featuring direct character control in real-time combat[^ref-6]. Players navigate three-dimensional arenas while executing a variety of attacks and defensive maneuvers against their opponents.
 
-The game offers flexibility in display options, allowing players to choose between full-screen and windowed modes[^ref-8]. However, running in windowed mode requires the Windows desktop to be set to a high-color, 16-bit graphics mode for proper functionality[^ref-12]. This was a common technical consideration for games of this era that utilized DirectX rendering.
+The game offers flexibility in display options, allowing players to choose between full-screen and windowed modes[^ref-8]. However, running in windowed mode requires the Windows desktop to be set to a high-color, 16-bit graphics mode for proper functionality[^ref-7]. This was a common technical consideration for games of this era that utilized DirectX rendering.
 
 ### Structure and Progression
 
 CyberGladiators features a roster of eight playable metallic robotic fighters, with each character possessing a unique fighting style and approximately 50 individual moves[^ref-13]. The game additionally includes two boss characters that can be unlocked through special conditions[^ref-13].
 
-The playable roster includes fighters from both the Alliance and Gy Djin factions[^ref-14]:
+The playable roster includes fighters from both the Alliance and Gy Djin factions[^ref-7]:
 
 - **Psyclopps** – Alliance fighter
 - **Plasma** – Alliance fighter  
@@ -72,9 +72,9 @@ The playable roster includes fighters from both the Alliance and Gy Djin faction
 - **Brother Grimm** – Gy Djin fighter
 - **Master Pain** – Gy Djin fighter
 
-The two boss characters, **Carnigore** and **Shrapp**, become playable after meeting specific conditions[^ref-14]. Players who complete the game without using a continue receive a special code that unlocks these boss fighters for subsequent playthroughs[^ref-12]. However, this code cannot be earned if the fighter strength is set to "Strong," adding an additional challenge requirement[^ref-12].
+The two boss characters, **Carnigore** and **Shrapp**, become playable after meeting specific conditions[^ref-7]. Players who complete the game without using a continue receive a special code that unlocks these boss fighters for subsequent playthroughs[^ref-7]. However, this code cannot be earned if the fighter strength is set to "Strong," adding an additional challenge requirement[^ref-7].
 
-Combat takes place across multiple themed arenas representing different planetary environments[^ref-14]:
+Combat takes place across multiple themed arenas representing different planetary environments[^ref-7]:
 
 - **Magnus Dungeons**
 - **Vulca Swamp**
@@ -138,7 +138,7 @@ The production drew upon multiple external partners to achieve its ambitious aud
 
 ### Technical Achievements
 
-CyberGladiators was notable for its use of 3D graphics running through Microsoft DirectX, placing it among the early Windows 95 titles to leverage hardware-accelerated rendering[^ref-13]. The game utilized high-color, 16-bit graphics mode to achieve its detailed cybernetic character designs and futuristic environments[^ref-12].
+CyberGladiators was notable for its use of 3D graphics running through Microsoft DirectX, placing it among the early Windows 95 titles to leverage hardware-accelerated rendering[^ref-13]. The game utilized high-color, 16-bit graphics mode to achieve its detailed cybernetic character designs and futuristic environments[^ref-7].
 
 The title was compatible with Sierra's Screamin' 3D graphics card, which used the Rendition Vérité chipset—one of the first consumer-grade 3D accelerators[^ref-19]. This hardware support enabled smoother performance and enhanced visual quality on systems equipped with dedicated 3D graphics hardware.
 
@@ -200,7 +200,7 @@ The CyberGladiators demo (2.99 MB) was included as promotional material with sev
 
 - The game evolved from Sierra's cancelled project CRY.SYS[^ref-3]
 - CyberGladiators was one of only two games released under Sierra's K.A.A. action game label[^ref-3]
-- Completing the game without using continue unlocks boss character codes, but only if fighter strength is not set to "Strong"[^ref-12]
+- Completing the game without using continue unlocks boss character codes, but only if fighter strength is not set to "Strong"[^ref-7]
 - Players can control the Player 2 character in single-player games[^ref-8]
 - Boss characters (Shrapp and Carnigore) can destroy player hands with their strongest attacks[^ref-8]
 
@@ -280,9 +280,9 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [^ref-9]: [Cheatbook.de – CyberGladiators Walkthrough](https://www.cheatbook.de/wfiles/cybergladiators.htm) – Story background, narrative quotes
 [^ref-10]: [Lutris – Cyber Gladiators](https://lutris.net/games/cyber-gladiators/) – Story summary, installation notes
 [^ref-11]: [NeverDieMedia – Cyber Gladiators](https://www.neverdiemedia.com/products/cyber-gladiators) – Plot summary
-[^ref-12]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Graphics mode requirements, unlock conditions, boss code restrictions
+[^ref-7]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Graphics mode requirements, unlock conditions, boss code restrictions
 [^ref-13]: [Neoseeker – CyberGladiators](https://www.neoseeker.com/cybergladiators/) – System requirements, roster size, review quotes
-[^ref-14]: [Sierra Chest – CyberGladiators Music](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=music) – Character roster, arena listing, music track listing
+[^ref-7]: [Sierra Chest – CyberGladiators Music](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=music) – Character roster, arena listing, music track listing
 [^ref-15]: [MyAbandonware – CyberGladiators](https://www.myabandonware.com/game/cybergladiators-gwm) – User rating, download size, compatibility issues, user comments
 [^ref-16]: [MobyGames Search – CyberGladiators](https://www.mobygames.com/search/?q=CyberGladiators) – Content rating notation
 [^ref-17]: [OGDB – K.A.A. Publisher Entry](https://ogdb.eu/index.php?section=company&companyid=24902) – K.A.A. as Dynamix label

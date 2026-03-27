@@ -64,7 +64,7 @@ The game features a completely linear structure across seven distinct star syste
 - **Star System 2-6:** Progressively more difficult enemy configurations
 - **Star System 7 (Arcturus):** Final confrontation with Gir Draxon
 
-The game offers three difficulty modes: Easy, Standard, and Hard, allowing players of varying skill levels to experience the campaign.[^ref-16] User reviews frequently mention the memorable boss encounters, with one player recalling "freaking out at the giant robot boss at the end of level 1."[^ref-17]
+The game offers three difficulty modes: Easy, Standard, and Hard, allowing players of varying skill levels to experience the campaign.[^ref-11] User reviews frequently mention the memorable boss encounters, with one player recalling "freaking out at the giant robot boss at the end of level 1."[^ref-17]
 
 ### Puzzles and Mechanics
 
@@ -141,7 +141,7 @@ The 1990 remake represented a significant investment in updating the game for co
 
 ### Technical Achievements
 
-Stellar 7 utilized the 3Space engine, a custom vector graphics rendering system that would later power numerous Dynamix titles including Red Baron, the Aces series, and Earthsiege.[^ref-16] The engine enabled smooth first-person 3D graphics on hardware that typically struggled with such presentations—user reviews noted "the frame rate would put most Windows AutoCads to shame."[^ref-8]
+Stellar 7 utilized the 3Space engine, a custom vector graphics rendering system that would later power numerous Dynamix titles including Red Baron, the Aces series, and Earthsiege.[^ref-11] The engine enabled smooth first-person 3D graphics on hardware that typically struggled with such presentations—user reviews noted "the frame rate would put most Windows AutoCads to shame."[^ref-8]
 
 The original game featured wireframe vector graphics similar to Battlezone, creating an abstract but effective visual style.[^ref-8] The 1990 remake upgraded to VGA graphics with 256 colors, using opaque colored polygon panels for 3D models, though they remained unshaded and untextured.[^ref-25] This made Stellar 7 one of the first Sierra-published games to support VGA graphics.[^ref-5]
 
@@ -181,7 +181,7 @@ No significant cut content has been documented for Stellar 7. The 1990 remake wa
 | 1.0 | 1983 | Apple II | Initial release by Software Entertainment Company[^ref-8] |
 | 1.0 | 1984 | Commodore 64 | Port by Penguin Software[^ref-8] |
 | 1.0 | 1984 | Commodore 64 | U.S. Gold second edition (UK)[^ref-13] |
-| Remake | September 20, 1990 | IBM PC | Dynamix remake with VGA graphics[^ref-16] |
+| Remake | September 20, 1990 | IBM PC | Dynamix remake with VGA graphics[^ref-11] |
 | 1.0 | 1990 | Amiga | Dynamix port[^ref-7] |
 | 1.0 | 1990 | Macintosh | Dynamix port[^ref-7] |
 | CD | 1991 | DOS | CD-ROM version with voice and CD audio[^ref-15] |
@@ -290,7 +290,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-13]: [Lemon64 – Stellar 7](https://www.lemon64.com/game/stellar-7) – C64 reviews, control scheme, user quotes
 [^ref-14]: [Dynamix Fandom – Stellar 7: Draxon's Revenge](https://dynamix.fandom.com/wiki/Stellar_7:_Draxon's_Revenge) – 3DO reviews, voice cast, EGM/Entertainment Weekly quotes
 [^ref-15]: [MobyGames – Stellar 7 (1990)](https://www.mobygames.com/game/938/stellar-7/) – composers, critics aggregate, technical specs, CD version details
-[^ref-16]: [Sierra Chest – Stellar 7 General](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=general) – 3Space engine, release date, difficulty modes
+[^ref-11]: [Sierra Chest – Stellar 7 General](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=general) – 3Space engine, release date, difficulty modes
 [^ref-17]: [My Abandonware – Stellar 7](https://www.myabandonware.com/game/stellar-7-10s) – user ratings, reviews, DOSBox compatibility
 [^ref-18]: [Lemon Amiga – Stellar 7](https://www.lemonamiga.com/games/details.php?id=1813) – Amiga version, composers, ACE review
 [^ref-19]: [Every Game Going – Amiga Power Review](https://www.everygamegoing.com/larticle/stellar-7-000/45315/) – Mark Ramshaw review, 67% score, 1 MB requirement

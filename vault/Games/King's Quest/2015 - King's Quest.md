@@ -92,10 +92,10 @@ Digitally Downloaded's review of the complete series praised the narrative struc
 
 Common Sense Media praised the game as a "funny, surprising adventure with beautiful graphics," recommending it for ages 10+ and noting the "Princess Bride-style" storytelling approach where elderly King Graham relates tales to his granddaughter[^ref-15]. The review highlighted the "incredible vocal cast" and praised the game's "fun alternation among exploration, action, and puzzle solving"[^ref-15].
 
-The Complete Collection earned recognition within the gaming industry, receiving a nomination for Adventure Game of the Year at the 20th Annual D.I.C.E. Awards from the Academy of Interactive Arts & Sciences in 2017[^ref-1][^ref-16]. Individual chapters received varying reception, with Chapter 1: A Knight to Remember and Chapter 3: Once Upon a Climb generally receiving the strongest reviews[^ref-1].
+The Complete Collection earned recognition within the gaming industry, receiving a nomination for Adventure Game of the Year at the 20th Annual D.I.C.E. Awards from the Academy of Interactive Arts & Sciences in 2017[^ref-1][^ref-1]. Individual chapters received varying reception, with Chapter 1: A Knight to Remember and Chapter 3: Once Upon a Climb generally receiving the strongest reviews[^ref-1].
 
 ### Chapter-by-Chapter Reception
-According to Metacritic aggregate scores, the individual chapters received the following critical reception[^ref-1][^ref-16]:
+According to Metacritic aggregate scores, the individual chapters received the following critical reception[^ref-1][^ref-1]:
 
 **Chapter 1: A Knight to Remember** received positive reviews:
 - Windows: 82/100 (23 reviews)
@@ -112,9 +112,9 @@ According to Metacritic aggregate scores, the individual chapters received the f
 - PlayStation 4: 79/100 (10 reviews)
 - Xbox One: 80/100 (8 reviews)
 
-**Chapter 4: Snow Place Like Home** received mixed reviews with Destructoid's Chris Carter giving it 9/10, while PlayStation Lifestyle's Chandler Wood gave it 5.5/10, being happy with "some great cultural references" but criticizing the "cold and dull environment" and "boring puzzle design"[^ref-16].
+**Chapter 4: Snow Place Like Home** received mixed reviews with Destructoid's Chris Carter giving it 9/10, while PlayStation Lifestyle's Chandler Wood gave it 5.5/10, being happy with "some great cultural references" but criticizing the "cold and dull environment" and "boring puzzle design"[^ref-1].
 
-**Chapter 5: The Good Knight** received generally positive reviews with Destructoid's Chris Carter giving it 8.5/10, while PlayStation Lifestyle praised its exploration of "deep subjects of mortality, life accomplishments, and what we leave behind" and awarded it 8/10[^ref-16].
+**Chapter 5: The Good Knight** received generally positive reviews with Destructoid's Chris Carter giving it 8.5/10, while PlayStation Lifestyle praised its exploration of "deep subjects of mortality, life accomplishments, and what we leave behind" and awarded it 8/10[^ref-1].
 
 ### Modern Assessment
 The game holds a MobyScore of 7.3/10 with a 3.8/5 player rating from 13 ratings[^ref-3]. Adventure Gamers rates it 4.5/5, calling it "Excellent"[^ref-6]. The game is considered a successful revival of the dormant franchise, bringing the series to a new generation while honoring its roots[^ref-3][^ref-6].
@@ -127,7 +127,7 @@ On Steam, the game has accumulated 2,933 reviews with a "Very Positive" aggregat
 - **Adventure Gamers:** 4.5/5 "Excellent"[^ref-6]
 - **IGN:** 8/10 (Chapter 1)[^ref-9]
 - **ZTGD:** 9.5/10 "Excellent" (Chapter 1)[^ref-10]
-- **Metacritic:** 82/100 (Windows Chapter 1)[^ref-16]
+- **Metacritic:** 82/100 (Windows Chapter 1)[^ref-1]
 - **IGDB:** 8.1/10 user rating (33 ratings)[^ref-14]
 - **Common Sense Media:** Age 10+ recommended[^ref-15]
 - **ESRB:** E10+ for Fantasy Violence[^ref-15]
@@ -139,11 +139,11 @@ On Steam, the game has accumulated 2,933 reviews with a "Very Positive" aggregat
 The 2015 King's Quest reboot originated in August 2014 when Activision announced the revival of the Sierra Entertainment label and selected independent studio The Odd Gentlemen to develop a new entry in the classic adventure series[^ref-1][^ref-4]. The game received a world premiere at The Game Awards 2014 on December 5, 2014, generating significant buzz for the franchise revival[^ref-14]. Creative Director Matt Korba led the project, envisioning a reimagining of King Graham's story structured around an elderly Graham recounting his adventures to granddaughter Gwendolyn[^ref-4].
 
 ### Production
-The game was developed as a five-part episodic adventure series, serving as both a reboot and re-imagining of the classic King's Quest franchise[^ref-3]. The development team chose to include the framing device of the grandfather-granddaughter storytelling to provide greater emotional depth and explore themes of legacy, heroism, and mortality[^ref-3]. The script for the first chapter alone was 640 pages long, including branching paths, Easter eggs, narration, object use and interaction, and dialogue trees[^ref-16]. Each chapter of the series was longer and more complex than similar episodic series such as those made by Telltale Games[^ref-16].
+The game was developed as a five-part episodic adventure series, serving as both a reboot and re-imagining of the classic King's Quest franchise[^ref-3]. The development team chose to include the framing device of the grandfather-granddaughter storytelling to provide greater emotional depth and explore themes of legacy, heroism, and mortality[^ref-3]. The script for the first chapter alone was 640 pages long, including branching paths, Easter eggs, narration, object use and interaction, and dialogue trees[^ref-1]. Each chapter of the series was longer and more complex than similar episodic series such as those made by Telltale Games[^ref-1].
 
-According to Creative Director Matt Korba, the game's controls focused on "one-button context," resulting in a game without complicated interfaces or controls[^ref-16]. The original games are considered part of the canon of the new series, with each chapter taking place between those games; however, previous games may be reinterpreted in completely new ways[^ref-16]. Korba emphasized that all the choices made by Graham are heroic, and there is no way for players to build a "bad" Graham[^ref-16].
+According to Creative Director Matt Korba, the game's controls focused on "one-button context," resulting in a game without complicated interfaces or controls[^ref-1]. The original games are considered part of the canon of the new series, with each chapter taking place between those games; however, previous games may be reinterpreted in completely new ways[^ref-1]. Korba emphasized that all the choices made by Graham are heroic, and there is no way for players to build a "bad" Graham[^ref-1].
 
-The voice cast features veteran actor Christopher Lloyd (Doc Brown from Back to the Future) as the elderly King Graham, with Josh Keaton (Shiro from Voltron) voicing young Graham[^ref-9][^ref-11][^ref-16]. Wallace Shawn (Rex from Toy Story, Vizzini from The Princess Bride) voices the antagonist Manannan, bringing what reviewers described as "a quick-witted but twisted feel"[^ref-11]. Maggie Elizabeth Jones delivers a standout performance as Gwendolyn, with her "enthusiasm and childlike innocence" praised by critics[^ref-11]. Additional voice talent includes Tom Kenny (SpongeBob SquarePants), Loretta Devine, Kevin Michael Richardson, and Zelda Williams (daughter of Robin Williams)[^ref-12][^ref-15][^ref-16].
+The voice cast features veteran actor Christopher Lloyd (Doc Brown from Back to the Future) as the elderly King Graham, with Josh Keaton (Shiro from Voltron) voicing young Graham[^ref-9][^ref-11][^ref-1]. Wallace Shawn (Rex from Toy Story, Vizzini from The Princess Bride) voices the antagonist Manannan, bringing what reviewers described as "a quick-witted but twisted feel"[^ref-11]. Maggie Elizabeth Jones delivers a standout performance as Gwendolyn, with her "enthusiasm and childlike innocence" praised by critics[^ref-11]. Additional voice talent includes Tom Kenny (SpongeBob SquarePants), Loretta Devine, Kevin Michael Richardson, and Zelda Williams (daughter of Robin Williams)[^ref-12][^ref-15][^ref-1].
 
 ### Technical Achievements
 - Built on Unreal Engine 3 supporting hand-drawn art integration with cel-shaded graphical style[^ref-2][^ref-3]
@@ -207,5 +207,5 @@ This game is not available on GOG[^ref-7].
 [^ref-13]: [Metacritic – King's Quest](https://www.metacritic.com/game/kings-quest/) – user scores, critic reviews, platform information
 [^ref-14]: [IGDB – King's Quest](https://www.igdb.com/games/kings-quest) – user ratings, The Game Awards 2014 world premiere, completion times
 [^ref-15]: [Common Sense Media – King's Quest](https://www.commonsensemedia.org/game-reviews/kings-quest) – age 10+ recommendation, Princess Bride-style storytelling, voice cast praise, ESRB E10+ rating
-[^ref-16]: [Wikipedia – King's Quest (2015) Development & Reception](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29#Development) – 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
+[^ref-1]: [Wikipedia – King's Quest (2015) Development & Reception](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29#Development) – 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
 [^ref-17]: [Steam Community – King's Quest Reviews](https://store.steampowered.com/app/345390/Kings_Quest/) – 2,933 reviews, Very Positive aggregate (90% positive), recent review status, system requirements

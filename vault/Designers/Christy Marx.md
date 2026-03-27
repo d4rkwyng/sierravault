@@ -55,7 +55,7 @@ From 2010 to 2017, Marx worked at Zynga as Principal Game Designer and Narrative
 
 ### Conquests of the Longbow: The Legend of Robin Hood (1991)
 
-[[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] refined Marx's game design philosophy with improved technology and deeper gameplay.[^ref-13] The game traced Robin Hood's legends to their ballad origins while incorporating historical details from Nottingham's museum and real locations.[^ref-5] Marx gave Maid Marian a more prominent role with Druid connections, creating one of the strongest female characters in Sierra's library.[^ref-2] The game featured minigames including archery, combat, and nine men's morris with adjustable difficulty, showcasing Marx's understanding of how to blend narrative with interactive challenges.[^ref-13]
+[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] refined Marx's game design philosophy with improved technology and deeper gameplay.[^ref-13] The game traced Robin Hood's legends to their ballad origins while incorporating historical details from Nottingham's museum and real locations.[^ref-5] Marx gave Maid Marian a more prominent role with Druid connections, creating one of the strongest female characters in Sierra's library.[^ref-2] The game featured minigames including archery, combat, and nine men's morris with adjustable difficulty, showcasing Marx's understanding of how to blend narrative with interactive challenges.[^ref-13]
 
 ### Jem and the Holograms (1985-1988)
 

@@ -164,7 +164,7 @@ The game has not appeared in any known compilation releases and remains availabl
 
 The game is preserved through various abandonware initiatives:
 - Internet Archive maintains a playable version for both Windows 3.1 and Macintosh platforms.[^ref-4]
-- Sierra Chest provides a demo download for those wishing to sample the game through DOSBox emulation.[^ref-14]
+- Sierra Chest provides a demo download for those wishing to sample the game through DOSBox emulation.[^ref-3]
 
 ### Related Publications
 
@@ -192,7 +192,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 - [MyAbandonware](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – Windows 3.x download[^ref-6]
 
 **Demos & Extras**
-- [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66MB demo playable in DOSBox[^ref-14]
+- [Sierra Chest Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – 3.66MB demo playable in DOSBox[^ref-3]
 
 ## See Also
 
@@ -216,7 +216,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-11]: [Metacritic – User Reviews](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/user-reviews/) – no user reviews available
 [^ref-12]: [MobyGames – Credits](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/credits/win3x/) – full development credits, voice cast, alternate titles
 [^ref-13]: [MobyGames – Search Results](https://www.mobygames.com/search/?q=Playtoons+1%3A+Featuring+Uncle+Archibald) – alternate titles for German and French versions
-[^ref-14]: [Sierra Chest – Trailers/Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – demo download, DOSBox instructions
+[^ref-3]: [Sierra Chest – Trailers/Demo](https://sierrachest.com/index.php?a=games&id=323&fld=trailers) – demo download, DOSBox instructions
 [^ref-15]: [MobyGames – Playtoons 2](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – series continuation, Spirou characters
 [^ref-16]: [MobyGames – Playtoons 3](https://www.mobygames.com/game/185155/playtoons-3-the-secret-of-the-castle/) – series information, shared construction tools
 [^ref-17]: [MobyGames – Playtoons 4](https://www.mobygames.com/game/185156/playtoons-4-the-mandarine-prince/) – series continuation, shared features
