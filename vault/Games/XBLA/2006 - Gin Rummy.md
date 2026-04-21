@@ -2,18 +2,20 @@
 title: "Gin Rummy"
 release_year: 2006
 developer: "Sierra Online Shanghai"
+designer: null
 publisher: "Sierra Online"
 genre: "Card Game"
 platforms: ["Xbox 360"]
 series: "Standalone"
 engine: "Custom"
+protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 ---
 
 # Gin Rummy
 
-<small style="color: gray">Last updated: February 18, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -24,12 +26,15 @@ Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiati
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]
 > **Publisher:** Sierra Online / Sierra Entertainment[^ref-2]
+> **Designer:** N/A
+> **Engine:** Custom[^ref-1]
 > **Platforms:** Xbox 360 (XBLA)[^ref-1]
-> **Release Date:** September 2006[^ref-2]
-> **Genre:** Card and Board[^ref-2]
+> **Release Year:** 2006[^ref-2]
+> **Series:** Standalone
+> **Protagonist:** N/A
+> **Sierra Lineage:** Sierra Published
 > **Price:** 400 Microsoft Points[^ref-3]
 > **ESRB:** E (Everyone)[^ref-2]
-> **Sierra Lineage:** Sierra Subsidiary
 
 ## Gameplay
 
@@ -75,7 +80,7 @@ Gin Rummy received modest reviews as a competent but unremarkable adaptation of 
 
 The game found its audience among players seeking quick, accessible card game experiences on their Xbox 360 consoles.[^ref-3]
 
-### Market Position
+### Modern Assessment
 
 At 400 Microsoft Points, Gin Rummy was positioned as an affordable impulse purchase in the early days of Xbox Live Arcade, when the service was establishing itself as a venue for casual and classic game experiences.[^ref-3][^ref-8][^ref-10]
 
@@ -92,6 +97,13 @@ Sierra Online, established in 2006 as a division of Vivendi Universal Games, foc
 ### Production
 
 The development focused on creating an intuitive controller-based interface while preserving the strategic elements of the traditional card game. Online features including matchmaking and leaderboards were implemented to encourage competitive play.[^ref-2]
+
+### Technical Specifications
+
+- **Platform:** Xbox 360 (Xbox Live Arcade)[^ref-1]
+- **Price:** 400 Microsoft Points at launch[^ref-3]
+- **Online Features:** Xbox Live multiplayer, leaderboards[^ref-3]
+- **Local Play:** Up to 4 players on one console[^ref-3]
 
 ## Legacy
 

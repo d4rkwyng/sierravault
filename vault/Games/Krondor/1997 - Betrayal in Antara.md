@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a spiritual successor to the acclaimed 1993 title Betrayal
   at...
@@ -18,7 +18,7 @@ tags: [1990s, krondor-series, rpg, sierra]
 ---
 # Betrayal in Antara
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[John Cutter]], [[Neal Hallford]], Peter Sarrett[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** Updated Betrayal at Krondor engine[^ref-2]
 > **Platforms:** Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups[^ref-5]
 > **Release Year:** 1997
 > **Series:** Krondor Series
+> **Protagonist:** Aren
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -160,5 +162,4 @@ Despite mixed reception, the game provided "over 100 hours of entertaining story
 [^ref-29]: [GameSpot Review Archive](http://www.gamespot.com/pc/rpg/betrayalinantara/review.html) – - Alternative review URL
 [^ref-30]: [GameFabrique Review](https://gamefabrique.com/games/betrayal-in-antara/) – - Gaming site review and analysis
 [^ref-31]: [GameFAQs Walkthrough](https://gamefaqs.gamespot.com/pc/196753-betrayal-in-antara/faqs/2206) – - Complete gameplay guide
-[^ref-1]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review
-[^ref-27]: [Sierra Chest Archives](https://sierrachest.com/index.php?a=games&id=208&title=betrayal-in-antara) – - Game preservation and documentation
+[^ref-32]: [Next Generation Magazine](https://en.wikipedia.org/wiki/Betrayal_in_Antara#Reception) – - "Doom II" sequel comparison review

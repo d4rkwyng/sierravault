@@ -11,7 +11,7 @@ series: Front Page Sports
 engine: Updated Red Baron game engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 composer: ['Composed by Christopher Stevens, Jan Paul Moorhead, and Timothy Steven
     Clarke.']
 description: Front Page Sports Football Pro '97 is a professional American football
@@ -20,7 +20,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '97
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -36,6 +36,7 @@ The game featured comprehensive football management and simulation capabilities,
 > **Platforms:** DOS, Windows 95[^ref-9]
 > **Release Year:** 1996
 > **Series:** Front Page Sports
+> **Protagonist:** Team Manager/Coach (player-controlled)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

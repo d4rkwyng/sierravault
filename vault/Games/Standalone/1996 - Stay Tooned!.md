@@ -10,14 +10,14 @@ series: Standalone
 engine: Macromedia Director
 protagonist: The Player
 sierra_lineage: Sierra Published
-last_updated: '2026-01-18'
+last_updated: '2026-04-15'
 description: Stay Tooned! is a 1996 point-and-click cartoon adventure game developed
   by Funnybone Interactive and published by Sierra On-Line for Microsoft Windows and...
 tags: [1990s, adventure, sierra, standalone]
 ---
 # Stay Tooned!
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -228,5 +228,5 @@ The title has developed a cult following among players who experienced it during
 [^ref-11]: [GameFAQs – Stay Tooned!](https://gamefaqs.gamespot.com/pc/199175-stay-tooned) – game database entry
 [^ref-12]: [Giant Bomb – Stay Tooned!](https://www.giantbomb.com/stay-tooned/3030-21877/) – game database, screenshots
 [^ref-13]: [The Collection Chamber – Stay Tooned!](https://collectionchamber.blogspot.com/2018/09/stay-tooned.html) – game preservation and emulation guide
-[^ref-1]: [ClassicReload – Stay Tooned!](https://classicreload.com/win3x-stay-tooned.html) – browser-based game preservation
-[^ref-7]: [Internet Archive – Stay Tooned! (USA)](https://archive.org/details/staytoonedusa) – original disc image preservation
+[^ref-14]: [MobyGames – Stay Tooned!](https://www.mobygames.com/game/stay-tooned/) – full credits, screenshots, ratings, technical details
+[^ref-15]: [Sierra Chest – Stay Tooned!](https://sierrachest.com/index.php?a=games&id=182&title=stay-tooned&fld=general) – Sierra catalog entry, release details

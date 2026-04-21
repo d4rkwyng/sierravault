@@ -11,14 +11,14 @@ series: Standalone
 engine: Proprietary (Windows)
 protagonist: Space Entrepreneur
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: Space Bucks is a space-based business simulation game where players take
   on the role of a budding entrepreneur attempting to build the biggest and most...
 tags: [1990s, sierra, simulation, standalone]
 ---
 # Space Bucks
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The game takes place in real-time between the years 2375-2500, with victory achi
 > **Developer:** [[Impressions Games]][^ref-25]
 > **Designer:** Cecilia Barajas, Chris Bamford, Christopher Bamford, [[Damon Slye]], [[David Lester]][^ref-7]
 > **Publisher:** Sierra On-Line[^ref-10]
+> **Engine:** Proprietary (Windows)[^ref-25]
 > **Platforms:** Windows, Windows 95, Windows 3.1, PC[^ref-3]
 > **Release Year:** 1996
 > **Series:** Standalone
+> **Protagonist:** Space Entrepreneur
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

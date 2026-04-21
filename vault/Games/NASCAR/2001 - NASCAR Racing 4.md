@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: GPL physics engine (derived)
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: NASCAR Racing 4 is a racing simulation game that represents "the next
   evolution of the best-selling, award-winning racing series" and "fully immerses...
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 4
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game was praised as representing a turning point for the series, with one an
 > **Developer:** [[Papyrus Design Group]][^ref-6]
 > **Designer:** [[Dave Kaemmer]], Richard Yasi[^ref-7]
 > **Publisher:** Sierra Sports[^ref-8]
+> **Engine:** GPL physics engine (derived)[^ref-7]
 > **Platforms:** Microsoft Windows, Windows 95, Windows 98, Windows Me[^ref-7]
 > **Release Year:** 2001
 > **Series:** NASCAR Racing
+> **Protagonist:** NASCAR Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Gameplay

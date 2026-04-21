@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI1.1
 protagonist: Pepper Pumpernickel
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: Pepper's Adventures in Time is an educational adventure game released
   by Sierra On-Line in 1993. Developed by Brightstar, a Seattle-based company acquired...
 tags: [1990s, educational, 'null', sci, sierra]
 ---
 # Pepper's Adventures in Time
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -33,9 +33,11 @@ One Sierra fan declared: "I still consider it the greatest educational adventure
 > **Developer:** Brightstar[^ref-5]
 > **Designer:** [[Bill Davis]] (creative director), [[Lorelei Shannon]], [[Josh Mandel]][^ref-6]
 > **Publisher:** [[Sierra On-Line]][^ref-5]
+> **Engine:** SCI1.1[^ref-5]
 > **Platforms:** DOS, Windows 3.x, Amiga, CD-ROM[^ref-7]
 > **Release Year:** 1993
 > **Series:** Standalone
+> **Protagonist:** Pepper Pumpernickel
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

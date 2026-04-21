@@ -10,7 +10,7 @@ series: Starsiege
 engine: Torque Game Engine
 protagonist: Tribal Warrior (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'Tribes 2 is a sci-fi first-person shooter multiplayer video game developed
   by Dynamix and published by Sierra Studios in 2001 as the sequel to Starsiege: Tribes,
   featuring large-scale team-based combat with jetpack-powered movement.'
@@ -18,7 +18,7 @@ tags: [2000s, shooter, sierra, starsiege]
 ---
 # Tribes 2
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -105,7 +105,7 @@ Tribes 2 remained an influential title in team-based FPS design, demonstrating t
 
 Tribes 2's competitive esports potential attracted serious players and clans, creating one of the most vibrant online gaming communities of the early 2000s[^ref-2]. The game's skill-based vertical gameplay and team dynamics fostered intense competition and spawned lasting player communities[^ref-3]. Server customization options allowed clans to create tailored gameplay experiences and preserve unique variants of the game long after official support ended[^ref-4].
 
-### ### Technical Innovation
+### Technical Achievements
 
 The NetCode technology powering Tribes 2 provided smooth gameplay over internet connections, enabling fast-paced multiplayer action with minimal latency issues[^ref-3]. Server-side scripting created an extensible platform for gameplay customization and balance tweaks[^ref-4].
 ### Vertical Gameplay and Environment Design

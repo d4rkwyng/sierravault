@@ -9,15 +9,15 @@ platforms: [Microsoft Windows, PC]
 series: Pharaoh
 engine: Pharaoh Engine
 protagonist: Egyptian Governor (player-named)
-sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+sierra_lineage: Sierra Published
+last_updated: '2026-04-15'
 description: '**Cleopatra: Queen of the Nile** is an expansion pack for the city-building
   strategy game Pharaoh, developed by BreakAway Games and published by Sierra...'
 tags: [2000s, pharaoh, sierra]
 ---
 # Cleopatra: Queen of the Nile
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,10 +31,12 @@ GameSpot called it "a rare thing to find an expansion worthy of the original"[^r
 > **Developer:** BreakAway Games[^ref-1]
 > **Designer:** Alan Venable, Charles Kibler, [[Chris Beatrice]][^ref-7]
 > **Publisher:** Sierra Entertainment[^ref-1]
+> **Engine:** Pharaoh Engine[^ref-1]
 > **Platforms:** Microsoft Windows, PC[^ref-1]
 > **Release Year:** 2000
 > **Series:** Pharaoh
-> **Sierra Lineage:** Core Sierra
+> **Protagonist:** Egyptian Governor (player-named)
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

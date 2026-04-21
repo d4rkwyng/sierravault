@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: Unnamed protagonist
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Mystery House is a landmark adventure game released by On-Line Systems
   on May 5, 1980. Designed, written, and illustrated by Roberta Williams and programmed...
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #1: Mystery House
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,10 +31,11 @@ Originally packaged in Ziploc bags containing a floppy disk and photocopied inst
 > **Developer:** [[On-Line Systems]][^ref-1]
 > **Designer:** [[Roberta Williams]][^ref-2], [[Ken Williams]][^ref-2]
 > **Publisher:** [[On-Line Systems]][^ref-1]
-> **Platforms:** Apple II, PC-88, PC-98, FM-7, iOS[^ref-12]
-> **Release Year:** May 5, 1980[^ref-1]
-> **Series:** Hi-Res Adventure #1
 > **Engine:** ADL[^ref-13]
+> **Platforms:** Apple II, PC-88, PC-98, FM-7, iOS[^ref-12]
+> **Release Year:** 1980[^ref-1]
+> **Series:** Hi-Res Adventure #1
+> **Protagonist:** Unnamed protagonist
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -94,7 +95,7 @@ Recognizing that while she knew some programming, she needed someone else to cod
 
 To create the graphics, the couple purchased a VersaWriter machine, a device that allowed users to trace over line drawings and convert them to digital format[^ref-9]. Roberta drew seventy scenes for the game by hand[^ref-9], depicting the various rooms and locations within the Victorian mansion. However, Ken discovered that the resulting digital drawings were too large to fit on a 5¼-inch floppy disk[^ref-9].
 
-### Technical Innovation
+### Technical Achievements
 Ken devised an ingenious solution: instead of storing the images as static graphics, he converted them into coordinates and instructions that the program could use to redraw the lines of each scene dynamically[^ref-9]. He also wrote an improved version of the VersaWriter scanning software to facilitate this process. This innovative approach allowed all 70 drawings to fit within the game's limited storage space while maintaining visual quality.
 
 The resulting game combined text-based adventure gameplay with a visual depiction of the character's location displayed above the text interface[^ref-9]. The game's code was completed in only a few days, with development finishing on May 5, 1980[^ref-9]. The entire game occupied just 58 KB of disk space, a remarkable achievement of efficient programming.

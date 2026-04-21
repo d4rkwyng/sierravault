@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Front Page Sports engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: 'Front Page Sports: Football Pro is a classic sports simulation game
   that was first released in 1993 for DOS. Developed by Dynamix and published by Sierra...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game pioneered many features that would become standard in sports simulation
 > **Developer:** [[Dynamix]][^ref-3]
 > **Designer:** [[Patrick Cook]], [[Scott Youngblood]][^ref-6]
 > **Publisher:** [[Sierra On-Line]][^ref-3]
+> **Engine:** Front Page Sports engine[^ref-3]
 > **Platforms:** DOS, Windows, PC[^ref-7]
 > **Release Year:** 1993
 > **Series:** Front Page Sports
+> **Protagonist:** Team Manager/Coach (player-controlled)
 > **Sierra Lineage:** Core Sierra
 
 ## Gameplay

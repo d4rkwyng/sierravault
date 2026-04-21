@@ -10,14 +10,14 @@ series: Metaltech
 engine: 3Space
 protagonist: HERC Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: 'Metaltech: Earthsiege is a mech combat simulation game released by Dynamix
   in 1994. Set five hundred years in the future, the game depicts mankind''s...'
 tags: [1990s, metaltech, sierra, simulation, two-guys]
 ---
 # Metaltech: Earthsiege
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ While MechWarrior and the BattleTech series had established the mech combat genr
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[David Selle]], [[Mark Crowe]], Tim Gift[^ref-3]
 > **Publisher:** Dynamix[^ref-1]
+> **Engine:** 3Space[^ref-1]
 > **Platforms:** DOS, IBM PC, MS-DOS, PC, Windows '95[^ref-3]
 > **Release Year:** 1994
 > **Series:** Metaltech
+> **Protagonist:** HERC Pilot (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

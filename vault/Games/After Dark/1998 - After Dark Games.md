@@ -10,14 +10,14 @@ series: After Dark
 engine: Native Windows/Mac
 protagonist: N/A
 sierra_lineage: Sierra Label (Sierra Attractions)
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: After Dark Games represents a unique entry in Sierra's catalog - a collection
   of eleven mini-games based on the beloved After Dark screensaver series....
 tags: [1990s, after-dark, puzzle, sierra]
 ---
 # After Dark Games
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,10 +29,12 @@ The game compilation emerged during Sierra's exploration of casual gaming market
 > **Developer:** [[Berkeley Systems]][^ref-8]
 > **Original Creators:** Jack Eastman, Patrick Beard[^ref-7]
 > **Publisher:** Sierra Attractions[^ref-9]
+> **Engine:** Native Windows/Mac[^ref-8]
 > **Platforms:** Windows 95, Windows 98, Windows Me, Macintosh, Mac OS (Classic)[^ref-10]
 > **Release Year:** 1998[^ref-1]
 > **Series:** After Dark
-> **Sierra Lineage:** Sierra Attractions
+> **Protagonist:** N/A
+> **Sierra Lineage:** Sierra Label (Sierra Attractions)
 
 ## Story Summary
 

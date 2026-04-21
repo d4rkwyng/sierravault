@@ -10,14 +10,14 @@ series: Civil War Generals
 engine: Custom turn-based engine
 protagonist: Robert E. Lee
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'Robert E. Lee: Civil War General is a turn-based strategy wargame released
   by Sierra On-Line on August 24, 1996. The game is documented across various...'
 tags: [1990s, civil-war-generals, sierra, strategy]
 ---
 # Robert E. Lee: Civil War General
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game was conceived with the philosophy to "create a product that Civil War e
 > **Developer:** [[Impressions Games]][^ref-9]
 > **Designer:** Jeffrey Fiske[^ref-9]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Engine:** Custom turn-based engine[^ref-9]
 > **Platforms:** Microsoft Windows, PC[^ref-9]
 > **Release Year:** 1996
 > **Series:** Civil War Generals
+> **Protagonist:** Robert E. Lee
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

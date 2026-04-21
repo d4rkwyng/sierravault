@@ -10,14 +10,14 @@ series: Outpost
 engine: Proprietary (C++/DirectX)
 protagonist: Colony Commander (Plymouth or Eden)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: 'Outpost 2: Divided Destiny is a real-time strategy game developed by
   Dynamix and published by Sierra On-Line in 1997. Unlike traditional real-time strategy...'
 tags: [1990s, outpost, sierra, strategy]
 ---
 # Outpost 2: Divided Destiny
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game focuses on the happiness and survival of the colonists - the last remai
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Allen Mcpheeters]], Pat Cook[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Proprietary (C++/DirectX)[^ref-1]
 > **Platforms:** Windows 95/NT 4.0, macOS, Linux[^ref-8]
 > **Release Year:** 1997
 > **Series:** Outpost
+> **Protagonist:** Colony Commander (Plymouth or Eden)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

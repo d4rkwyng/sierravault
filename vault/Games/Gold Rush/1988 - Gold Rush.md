@@ -10,14 +10,14 @@ series: Gold Rush
 engine: AGI
 protagonist: Jerrod Wilson
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: Gold Rush! is a graphic adventure game developed by Sierra On-Line and
   released in 1988, set during the California Gold Rush of 1848-1849. The game...
 tags: [1980s, adventure, agi, 'null', sierra]
 ---
 # Gold Rush!
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ One of Sierra's best but least-known games, Gold Rush! is exceptional not only f
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Doug MacNeill, Ken MacNeill[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** AGI[^ref-1]
 > **Platforms:** MS-DOS, Apple II, Apple IIGS, Amiga, Atari ST, Macintosh[^ref-7]
 > **Release Year:** 1988
 > **Series:** Standalone
+> **Protagonist:** Jerrod Wilson
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

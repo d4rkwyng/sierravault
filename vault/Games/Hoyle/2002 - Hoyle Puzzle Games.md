@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: Hoyle Puzzle Games is a comprehensive puzzle game collection released
   on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming...
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -263,7 +263,9 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 
 [^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
 
-[^ref-2]: [The Sierra Chest – Hoyle Puzzle Games Box Art](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=box) – packaging artwork and release information
 
 [^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
 [^ref-2]: [Sierra Chest – Hoyle Puzzle Games General](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=general) – game overview, included titles list, PDA compatibility details
+[^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
+[^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
+[^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings

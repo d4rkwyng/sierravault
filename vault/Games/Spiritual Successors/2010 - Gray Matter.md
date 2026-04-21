@@ -10,7 +10,7 @@ series: Gray Matter
 engine: Direct3D 9.0c
 protagonist: Samantha Everett
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Gray Matter is a supernatural point-and-click adventure game created
   by legendary designer Jane Jensen, marking her return to adventure gaming after
   more...
@@ -18,7 +18,7 @@ tags: [2010s, adventure, jane-jensen, 'null', sierra]
 ---
 # Gray Matter
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,9 +32,11 @@ Adventure Classic Gaming called it "a game that can easily measure up against th
 > **Developer:** Wizarbox[^ref-8]
 > **Designer:** [[Jane Jensen]][^ref-9]
 > **Publisher:** dtp entertainment[^ref-3]
+> **Engine:** Direct3D 9.0c[^ref-8]
 > **Platforms:** Microsoft Windows, Xbox 360, Steam, GOG.com[^ref-10]
 > **Release Year:** 2010
 > **Series:** Standalone
+> **Protagonist:** Samantha Everett
 > **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
@@ -131,7 +133,7 @@ The quality of voice acting was praised by reviewers, with performances adding d
 
 The soundtrack was composed by Robert Holmes, Jane Jensen's husband and longtime collaborator on her adventure games[^ref-38]. Holmes had previously composed music for the Gabriel Knight series. The music was performed by The Scarlet Furies, an indie band featuring Holmes and his daughter Raleigh Holmes, giving the game a distinctive musical identity that complemented its supernatural themes[^ref-38].
 
-### Technical Implementation
+### Technical Achievements
 
 Gray Matter uses the Direct3D 9.0c engine with prerendered backgrounds and real-time 3D animated characters[^ref-39]. The game required minimum specifications of a 1.8 GHz processor, 1GB RAM, and a DirectX 9.0c compatible graphics card with 256MB VRAM[^ref-8].
 

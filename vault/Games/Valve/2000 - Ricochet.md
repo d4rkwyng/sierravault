@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Ricochet is a multiplayer deathmatch game developed by Valve and released
   on November 1, 2000 as a free modification for Half-Life. The game was developed...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Ricochet
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -35,6 +35,7 @@ The game represents an unusual experiment from Valve—a company that would beco
 > **Platforms:** Windows, Mac, Linux[^ref-7]
 > **Release Year:** 2000
 > **Series:** Half-Life
+> **Protagonist:** N/A
 > **Sierra Lineage:** Sierra Published
 
 ## Premise

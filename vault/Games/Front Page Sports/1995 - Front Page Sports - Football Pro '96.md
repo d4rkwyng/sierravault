@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: High-resolution SVGA graphics engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: '*Front Page Sports: Football Pro ''96* was a comprehensive American
   football simulation game developed by Dynamix and published by Sierra On-Line in
   late...'
@@ -18,7 +18,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro '96
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,10 +32,12 @@ The '96 edition included the NFL's two newest expansion teams, the Carolina Pant
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Doug Johnson]], L. Allen McPheeters, [[Patrick Cook]], Randy Teal, Scott Gilbert[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-1]
+> **Engine:** High-resolution SVGA graphics engine[^ref-1]
 > **Platforms:** DOS, Windows 95[^ref-1]
 > **Release Year:** 1995[^ref-1]
-> **Series:** [[1992 - Front Page Sports Football 92|Front Page Sports]]
-> **Sierra Lineage:** Core Sierra (Dynamix subsidiary)
+> **Series:** Front Page Sports
+> **Protagonist:** Team Manager/Coach (player-controlled)
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 

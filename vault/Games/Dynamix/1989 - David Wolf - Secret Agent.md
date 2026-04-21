@@ -10,14 +10,14 @@ series: David Wolf
 engine: 3Space
 protagonist: David Wolf
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'David Wolf: Secret Agent is an interactive spy adventure game developed
   by Dynamix and released in 1989. Billed as an "interactive movie," the game was...'
 tags: [1980s, david-wolf, sierra]
 ---
 # David Wolf: Secret Agent
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ Despite its technical ambitions and impressive marketing materials, David Wolf: 
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Damon Slye]], Greg Scheid, [[Jeff Tunnell]], [[Kevin Ryan]][^ref-4]
 > **Publisher:** Dynamix[^ref-1]
+> **Engine:** 3Space[^ref-1]
 > **Platforms:** DOS, IBM PC, MS-DOS, Tandy[^ref-1]
 > **Release Year:** 1989[^ref-1]
 > **Series:** David Wolf[^ref-4]
+> **Protagonist:** David Wolf
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

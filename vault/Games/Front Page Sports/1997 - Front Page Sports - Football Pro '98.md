@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: 3D Football Engine
 protagonist: Team Manager/Coach (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: 'Front Page Sports: Football Pro ''98 is a comprehensive American football
   simulation game that puts players in both the coach''s headset and the quarterback''s...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Football Pro 98
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,10 +32,12 @@ Despite these ambitious features and the tagline "Don't play with imitations. Th
 > **Developer:** [[Dynamix]][^ref-8]
 > **Designer:** Cheryl A. Makovsky (Lead Programmer), [[Doug Johnson]], Jeremy Jones (Art Director), Michael D. Branham (Executive Producer), [[Patrick Cook]], [[Scott Youngblood]][^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Engine:** 3D Football Engine[^ref-5]
 > **Platforms:** Windows 95[^ref-6]
 > **Release Year:** 1997
-> **ESRB Rating:** K-A (Kids to Adults)[^ref-6]
 > **Series:** Front Page Sports
+> **Protagonist:** Team Manager/Coach (player-controlled)
+> **ESRB Rating:** K-A (Kids to Adults)[^ref-6]
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

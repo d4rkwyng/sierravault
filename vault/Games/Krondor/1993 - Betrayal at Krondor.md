@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 composer: [Jan Paul Moorhead]
 description: Betrayal at Krondor is a groundbreaking role-playing game developed by
   Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set
@@ -19,7 +19,7 @@ tags: [1990s, dynamix, krondor, rpg, sierra]
 ---
 # Betrayal at Krondor
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -333,5 +333,5 @@ Betrayal at Krondor spawned both official and unofficial successors:
 [^ref-37]: [The Cutting Room Floor](https://tcrf.net) – cheat menu dialogue
 [^ref-38]: [GameFAQs Story Text Guide](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/28141) – text compilation credits, Michael Dorn quote
 [^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
-[^ref-1]: [Computer Gaming World RPG of Year](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Awards) – 1993 award announcement
-[^ref-1]: [Entertainment Weekly Best Sellers](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Sales) – Six-month chart topper
+[^ref-40]: [Computer Gaming World RPG of Year](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Awards) – 1993 award announcement
+[^ref-41]: [Entertainment Weekly Best Sellers](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Sales) – Six-month chart topper

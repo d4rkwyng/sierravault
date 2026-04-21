@@ -10,7 +10,7 @@ series: 3D Ultra
 engine: 3D Ultra Engine
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: Maximum Pool is a pool simulation video game developed by Dynamix and
   published by Sierra On-Line under their Sierra Sports label for Windows and Dreamcast...
 tags: [2000s, 3d-ultra, sierra]
@@ -18,7 +18,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 ---
 # Maximum Pool
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -95,13 +95,13 @@ The online multiplayer featured ladder rankings and matchmaking systems, allowin
 
 ## Development
 
-### Origins and Vision
+### Origins
 
 Maximum Pool was developed by Dynamix's 3D Ultra Group as the tenth game in the successful 3D Ultra series[^ref-2]. Following the moderate success of 1999's Cool Pool, Sierra greenlit a more ambitious sequel that would showcase advancing technology and cross-platform capabilities. The project was led by Senior Producer Randy Thompson, who championed the game's groundbreaking cross-platform online features as a major selling point[^ref-5].
 
 The development philosophy centered on creating an accessible pool simulation that would appeal to both newcomers and experienced players. Unlike some competitors that emphasized hyper-realistic simulation at the expense of accessibility, Maximum Pool prioritized intuitive controls and immediate fun while maintaining physics accuracy. GameZone noted in their review that "developers chose to add features and make every feature count" rather than padding the game with superficial additions[^ref-3].
 
-### Production Team
+### Production
 
 The game featured a development team of 66 credited individuals, reflecting the scope and ambition of the project[^ref-2]. Key leadership included:
 
@@ -112,7 +112,7 @@ The game featured a development team of 66 credited individuals, reflecting the 
 
 The programming team focused on creating a physics engine that could accurately simulate ball interactions while remaining performant across all target platforms. This was particularly challenging given the need to maintain consistency across Windows, Macintosh, and Dreamcast systems for cross-platform multiplayer[^ref-5].
 
-### Technical Implementation
+### Technical Achievements
 
 The physics model received particular attention during development, with Old PC Gaming later noting that "the physics model holding the game together is highly impressive"[^ref-10]. The engine accurately calculated ball spin, english, masse shots, and complex multi-ball interactions, enabling skilled players to execute advanced techniques.
 

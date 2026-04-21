@@ -10,13 +10,13 @@ series: Tribes
 engine: Unreal Engine 5
 protagonist: null
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: "Tribes 3: Rivals is a 2024 first-person shooter continuing the Tribes series, developed by Prophecy Games using Unreal Engine 5."
 tags: [2020s, fps, multiplayer, tribes, dynamix]
 ---
 # Tribes 3: Rivals
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,15 +31,22 @@ Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes
 > **Publisher:** Prophecy Games[^ref-1]
 > **Engine:** Unreal Engine 5[^ref-1]
 > **Platforms:** Windows[^ref-1]
-> **Release Date:** March 12, 2024 (Early Access)[^ref-2]
+> **Release Year:** 2024[^ref-2]
 > **Series:** Tribes (Starsiege)
+> **Protagonist:** N/A
 > **Sierra Lineage:** Spiritual Successor (Dynamix IP)
 
 ## Development
 
+### Origins
+
 Prophecy Games, an independent studio, developed Tribes 3: Rivals as an attempt to revive the classic Tribes franchise that had been dormant since Tribes: Ascend (2012).[^ref-2] The game was built using Unreal Engine 5, representing a significant technical upgrade from previous entries.[^ref-1] Lead programmer Mick Larkins headed the development effort, with designer Erez Goren overseeing the gameplay vision.[^ref-1][^ref-12]
 
 The development team focused on recreating the core Tribes experience while attracting both veterans and new players to the series.[^ref-5][^ref-9]
+
+### Technical Achievements
+
+Built on Unreal Engine 5, Tribes 3: Rivals represented the first Tribes game to use a modern AAA engine, allowing for significantly improved visual fidelity compared to earlier entries in the series.[^ref-1] The game's skiing physics system — the defining mechanic of the franchise — was faithfully reimplemented in the new engine, preserving the momentum-based movement that rewards skilled players.[^ref-5] The title also introduced cross-platform server infrastructure and a ranked matchmaking system, building on features absent from previous Tribes games.[^ref-5][^ref-9]
 
 ## Gameplay
 

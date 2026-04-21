@@ -10,7 +10,7 @@ series: Trophy Bass
 engine: Trophy Bass 3D Engine
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 composer: [': Timothy Steven Clarke']
 description: '**Field & Stream: Trophy Bass 3D** is a fishing video game developed
   by Dynamix and published by Sierra Sports for Microsoft Windows in 1999. The game...'
@@ -18,11 +18,11 @@ tags: [1990s, sierra, simulation, trophy-bass]
 ---
 # Field & Stream Trophy Bass 3D
 
-<small style="color: gray">Last updated: January 31, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 **Field & Stream: Trophy Bass 3D** is a fishing video game developed by Dynamix and published by Sierra Sports for Microsoft Windows in 1999[^ref-1]. The game brought three-dimensionality to a genre that was predominantly filled with 2D titles, featuring "The Bass Are Back In Extraordinary 3D Detail" as its marketing tagline[^ref-2]. As part of Sierra's licensed sports game series using the Field & Stream magazine brand[^ref-3], Trophy Bass 3D combined traditional fishing game mechanics with enhanced 3D graphics and realistic fishing environments[^ref-4].
 
@@ -34,9 +34,11 @@ As the third installment in the Trophy Bass series, following Trophy Bass (1995)
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Kurt Weber, [[Randy Dersham]][^ref-17]
 > **Publisher:** Sierra Sports[^ref-1]
+> **Engine:** Trophy Bass 3D Engine[^ref-1]
 > **Platforms:** Microsoft Windows[^ref-1]
 > **Release Year:** 1999[^ref-1]
 > **Series:** Trophy Bass
+> **Protagonist:** Angler (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

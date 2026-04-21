@@ -9,15 +9,15 @@ platforms: [DOS, Amiga, Windows]
 series: Standalone
 engine: Proprietary (Impressions)
 protagonist: Ship Captain (player-named)
-sierra_lineage: Sierra Published
-last_updated: '2026-01-27'
+sierra_lineage: Sierra Label (Impressions)
+last_updated: '2026-04-15'
 description: High Seas Trader is a naval strategy and trading simulation game that
   puts players in the role of a young impoverished nobleman who must take to the high...
 tags: [1990s, sierra, standalone, strategy]
 ---
 # High Seas Trader
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,10 +29,12 @@ The game breaks away from traditional strategy gaming with its unique first-pers
 > **Developer:** [[Impressions Games]][^ref-6]
 > **Designer:** [[David Lester]], Chris Foster[^ref-7]
 > **Publisher:** Sierra Entertainment[^ref-8]
+> **Engine:** Proprietary (Impressions)[^ref-6]
 > **Platforms:** MS-DOS, Amiga, Windows[^ref-9]
 > **Release Year:** 1995
-> **Series:** null
-> **Sierra Lineage:** Acquired Studio
+> **Series:** Standalone
+> **Protagonist:** Ship Captain (player-named)
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 

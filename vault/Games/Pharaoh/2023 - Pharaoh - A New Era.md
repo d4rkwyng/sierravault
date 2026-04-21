@@ -11,7 +11,7 @@ series: Pharaoh
 engine: Unity
 protagonist: null
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-26'
+last_updated: '2026-04-15'
 description: "Pharaoh: A New Era is a 2023 remake of the classic 1999 city-building game Pharaoh, developed by Triskell Interactive and published by Dotemu under license from Activision."
 tags:
   - 2020s
@@ -22,7 +22,7 @@ tags:
 ---
 # Pharaoh: A New Era
 
-<small style="color: gray">Last updated: March 26, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -37,8 +37,10 @@ Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^r
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 2023[^ref-2]
 > **Series:** Pharaoh / City Building (Impressions)
+> **Designer:** Triskell Interactive Team
+> **Protagonist:** Egyptian Governor
 > **Original Game:** [[1999 - Pharaoh|Pharaoh (1999)]]
-> **Sierra Lineage:** Activision License (Impressions IP)
+> **Sierra Lineage:** Post-Sierra
 
 ## Gameplay
 
@@ -98,6 +100,10 @@ The development team focused on preserving the core gameplay mechanics that had 
 |---------|------|----------|-------|
 | 1.0 | February 15, 2023 | Windows | Initial release[^ref-2] |
 
+### Technical Specifications
+
+Built on the Unity game engine[^ref-2], Pharaoh: A New Era features completely redrawn artwork at higher resolutions with zoom functionality. The game includes modernized UI elements and quality-of-life improvements drawn from later Impressions titles[^ref-3]. System requirements target modern Windows PC hardware[^ref-1].
+
 ## Legacy
 
 Pharaoh: A New Era represents a significant moment in the preservation of the Impressions Games city-building legacy, demonstrating continued commercial viability for Sierra-era game designs decades after the original studio's closure. The remake brought renewed attention to the entire City Building series, which includes [[1998 - Caesar III|Caesar III]], [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]][^ref-3][^ref-7].
@@ -151,7 +157,6 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-7]: [Gamepressure – Pharaoh: A New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – "Splendid opportunity to rediscover this timeless classic"
 [^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Mixed review, bugs noted, mobile-game aesthetics
 [^ref-9]: [GOG.com – Pharaoh: A New Era](https://www.gog.com/en/game/pharaoh_a_new_era) – DRM-free purchase, store listing
-[^ref-2]: [MobyGames – Pharaoh: A New Era Credits](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – Development team credits
 [^ref-11]: [HowLongToBeat – Pharaoh: A New Era](https://howlongtobeat.com/game/108973) – 40-50 hour campaign, 100+ hours completionist
 [^ref-12]: [PCGamingWiki – Pharaoh: A New Era](https://www.pcgamingwiki.com/wiki/Pharaoh:_A_New_Era) – Technical specifications, fixes
 [^ref-13]: [OpenCritic – Pharaoh: A New Era](https://opencritic.com/game/14558/pharaoh-a-new-era) – Review aggregation
@@ -159,6 +164,5 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-15]: [Reddit – r/impressionsgames](https://www.reddit.com/r/impressionsgames/) – Community discussion and feedback
 [^ref-16]: [Dotemu – Official Page](https://www.dotemu.com/games/pharaoh-a-new-era/) – Publisher information
 [^ref-17]: [Triskell Interactive](https://www.triskell-interactive.com/) – Developer website
-[^ref-5]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Global Labor Pool, predator toggle, interface improvements, and gameplay features
 [^ref-5]: [IGN – Pharaoh: A New Era](https://www.ign.com/games/pharaoh-a-new-era) – Game coverage
 [^ref-19]: [GameSpot – Pharaoh: A New Era](https://www.gamespot.com/games/pharaoh-a-new-era/) – Game information

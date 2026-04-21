@@ -2,18 +2,20 @@
 title: "Lost Cities"
 release_year: 2008
 developer: "Sierra Online Shanghai"
+designer: null
 publisher: "Vivendi Games"
 genre: "Card Game"
 platforms: ["Xbox 360"]
 series: "Standalone"
 engine: "Custom"
+protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 ---
 
 # Lost Cities
 
-<small style="color: gray">Last updated: February 18, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -24,11 +26,14 @@ The game challenged players to mount expeditions to five different lost cities, 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]
 > **Publisher:** Vivendi Games / Sierra Online[^ref-1]
+> **Engine:** Custom[^ref-1]
 > **Platforms:** Xbox 360 (XBLA)[^ref-1]
-> **Release Date:** April 23, 2008[^ref-1]
-> **Genre:** Card Game[^ref-1]
+> **Release Year:** 2008[^ref-1]
+> **Series:** Standalone
+> **Designer:** N/A
+> **Protagonist:** N/A
 > **Based On:** Lost Cities card game by Reiner Knizia[^ref-1]
-> **Sierra Lineage:** Sierra Subsidiary
+> **Sierra Lineage:** Sierra Published
 
 ## Gameplay
 
@@ -75,7 +80,7 @@ Lost Cities received generally positive reviews as a faithful adaptation of Kniz
 
 The game was recognized as an excellent choice for fans of the original card game and for players seeking a quick, strategic two-player experience on Xbox Live Arcade.[^ref-1]
 
-### Delisting
+### Modern Assessment
 
 Lost Cities has since been removed from the Xbox Live Arcade marketplace and is no longer available for purchase digitally.[^ref-1] This fate befell many XBLA titles as Microsoft transitioned to newer console generations.
 
@@ -88,6 +93,13 @@ Lost Cities was developed by Sierra Online Shanghai, a Chinese development studi
 ### Production
 
 The development focused on creating an accessible interface for controller-based play while preserving the strategic depth of Knizia's original design. The team implemented online features including leaderboards, multiplayer matchmaking, and Vision camera support.[^ref-1]
+
+### Technical Specifications
+
+- **Platform:** Xbox 360 (Xbox Live Arcade)[^ref-1]
+- **Players:** 2 (local and online)[^ref-1]
+- **Vision Camera:** Supported for video chat during matches[^ref-1]
+- **AI Difficulty Levels:** Three (Easy, Medium, Hard)[^ref-1]
 
 ### Sierra Online Initiative
 
@@ -140,4 +152,4 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 [^ref-12]: [Lost Cities - TrueAchievements](https://www.trueachievements.com/game/Lost-Cities) - Publisher: Sierra Entertainment, Developer: Sierra Entertainment, Release: April 23, 2008
 [^ref-13]: [Lost Cities Reviews - GameFAQs](https://gamefaqs.gamespot.com/xbox360/945550-lost-cities/reviews) - User reviews and ratings
 [^ref-14]: [Delisted Games – Lost Cities](https://delistedgames.com/lost-cities/) - information about game delisting and license loss
-[^ref-10]: [BoardGameGeek – Lost Cities XBLA](https://boardgamegeek.com/thread/302494/lost-cities-for-xbla) - board game community discussion of digital adaptation
+[^ref-15]: [MobyGames – Lost Cities](https://www.mobygames.com/game/lost-cities/) – platform information, screenshots, development details

@@ -10,7 +10,7 @@ series: Crazy Nick's Software Picks
 engine: SCI1.1
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: '**Crazy Nick''s Software Picks: King Graham''s Board Game Challenge**
   is a compilation of classic board games released by Sierra On-Line in 1992. The
   game...'
@@ -18,7 +18,7 @@ tags: [1990s, crazy-nick-s-software-picks, sci, sierra]
 ---
 # Crazy Nick's Software Picks: King Graham's Board Game Challenge
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,10 +32,11 @@ King Graham's Board Game Challenge represents a marked improvement over earlier 
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Bridget McKenna, Marti McKenna[^ref-5]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** SCI1.1[^ref-4]
 > **Platforms:** DOS, MS-DOS, IBM PC[^ref-7]
 > **Release Year:** 1992
-> **Engine:** SCI1.1[^ref-4]
 > **Series:** Crazy Nick's Software Picks
+> **Protagonist:** King Graham
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

@@ -11,14 +11,14 @@ series: Quest for Infamy
 engine: Adventure Game Studio
 protagonist: Mr. Roehm
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Quest for Infamy is a hybrid point-and-click adventure game and RPG developed
   by Infamous Quests and released in 2014. The game was created as a spiritual...
 tags: [2010s, adventure, 'null', rpg, sierra]
 ---
 # Quest for Infamy
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The game follows Mr. Roehm, a scoundrel on the run from his latest scrape who fi
 > **Developer:** [[Infamous Quests]][^ref-2]
 > **Designer:** Steven Alexander, Shawn Mills[^ref-7]
 > **Publisher:** Infamous Quests[^ref-2]
+> **Engine:** Adventure Game Studio[^ref-2]
 > **Platforms:** PC, Mac, Linux, Nintendo Switch, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S[^ref-8]
 > **Release Year:** 2014
-> **Series:** null
+> **Series:** Quest for Infamy
+> **Protagonist:** Mr. Roehm
 > **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary

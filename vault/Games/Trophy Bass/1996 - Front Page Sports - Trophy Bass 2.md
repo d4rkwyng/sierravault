@@ -10,18 +10,18 @@ series: Front Page Sports
 engine: Trophy Boss engine
 protagonist: Angler (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: '*Front Page Sports: Trophy Bass 2* is a fishing simulation game developed
   by Dynamix and published by Sierra On-Line in 1996, representing the company''s...'
 tags: [1990s, front-page-sports, sierra, simulation]
 ---
 # Front Page Sports Trophy Bass 2
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 *Front Page Sports: Trophy Bass 2* is a fishing simulation game developed by [[Dynamix]] and published by [[Sierra On-Line]] in 1996, representing the company's most ambitious bass fishing title to date.[^ref-1][^ref-5] Part of Sierra's acclaimed [[1992 - Front Page Sports Football 92|Front Page Sports]] series, which had established the company's credibility in realistic sports simulations throughout the mid-1990s, *Trophy Bass 2* built upon its predecessor's foundation with enhanced technology, improved graphics, and expanded gameplay features.[^ref-2][^ref-4]
 
@@ -33,11 +33,12 @@ The game offered substantial multiplayer capabilities, supporting 2-8 players on
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Kurt Weber, [[Randy Dersham]][^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Trophy Boss engine[^ref-5]
+> **Engine:** Trophy Bass engine[^ref-5]
 > **Platforms:** Windows 3.1, Windows 95[^ref-8]
 > **Release Year:** 1996[^ref-1]
-> **Series:** [[1992 - Front Page Sports Football 92|Front Page Sports]]
-> **Sierra Lineage:** Core Sierra (Dynamix subsidiary)
+> **Series:** Front Page Sports
+> **Protagonist:** Angler (player-named)
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 

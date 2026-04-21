@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Modified NASCAR 2 engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-04-15'
 description: NASCAR Racing 3 is a comprehensive NASCAR simulation developed by Papyrus
   Design Group and published by Sierra Sports in 1999. The game represents the third...
 tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 3
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game was part of Sierra Sports' portfolio, a label formed in February 1998 b
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** Charlie Heath, Dave Matson, David D. Flamburis, David Matson, Richard Yasi[^ref-1]
 > **Publisher:** Sierra Sports[^ref-1]
+> **Engine:** Modified NASCAR 2 engine[^ref-1]
 > **Platforms:** PC, Windows 95, Windows 98, Windows Me[^ref-4]
 > **Release Year:** 1999
 > **Series:** NASCAR Racing
+> **Protagonist:** NASCAR Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

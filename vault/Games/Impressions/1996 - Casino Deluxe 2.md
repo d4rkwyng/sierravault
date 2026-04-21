@@ -10,7 +10,7 @@ series: Casino Deluxe
 engine: Impressions Engine
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-02-02'
+last_updated: '2026-04-15'
 description: Casino Deluxe 2 is a gambling simulation game released on October 22,
   1996 for IBM PC, developed by Impressions Games and published by Sierra On-Line.
   The...
@@ -18,11 +18,11 @@ tags: [1990s, casino-deluxe, sierra, simulation]
 ---
 # Casino Deluxe 2
 
-<small style="color: gray">Last updated: February 2, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 Casino Deluxe 2 is a gambling simulation game released on October 22, 1996 for IBM PC, developed by [[Impressions Games]] and published by [[Sierra On-Line]][^ref-1]. The game invites players to experience the "intensity, allure and passion of authentic casino gambling" from the comfort of their homes, with its signature marketing tagline urging players to "beat the odds...to a pulp!"[^ref-2]. Serving as a sequel to Casino De Luxe (1995), the game expanded upon its predecessor's foundation with enhanced 3D SVGA graphics and a comprehensive suite of eighteen casino games[^ref-2].
 
@@ -227,7 +227,7 @@ In the broader context of Sierra's catalog, Casino Deluxe 2 exemplifies the comp
 [^ref-3]: [eBay Product Listing](https://www.ebay.com/itm/255059364612) – 3D environment, 18 games, dealer advice feature, gambling simulation description
 [^ref-4]: [eBay Product Page](https://www.ebay.com/p/53914700) – dealer communication, advice system, Gambling Academy feature
 [^ref-5]: [Amazon – Casino Deluxe 2](https://www.amazon.com/Casino-Deluxe-Cd-rom-Version-Internet/dp/B00ENQAV8I) – Windows 3.1/95 platforms, internet play, laptop version, UPC 020626837347
-[^ref-1]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
+[^ref-6]: [Sierra Chest – Publications](https://sierrachest.com/index.php?a=games&id=401&title=casino-deluxe-2&fld=publications) – Game Catalogue 1996-1997 listing
 [^ref-7]: [Wikipedia – Casino De Luxe](https://en.wikipedia.org/wiki/Casino_Deluxe) – David Lester designer, Impressions development, Sierra acquisition, review scores from multiple publications
 [^ref-8]: [Internet Archive – Casino Deluxe 2 (Sierra 1996)](https://archive.org/details/Casino_deluxe_2_Sierra_1996) – file size 158.4M, preservation metadata, CD-ROM Preservation Project upload
 [^ref-9]: [Old-Games.com – Casino Deluxe 2](https://www.old-games.com/download/10115/casino-deluxe-2) – user review, 256 colors, elevator muzak, Gambling Academy description, floor layout

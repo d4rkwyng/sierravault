@@ -10,14 +10,14 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: Princess Rosella
 sierra_lineage: Fan Project
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: 'King''s Quest IV Remake is an in-development fan remake of Sierra''s
   1988 classic *King''s Quest IV: The Perils of Rosella*, being created by Infamous...'
 tags: [adventure, king-s-quest, sierra]
 ---
 # King's Quest IV Remake (Infamous Adventures)
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -40,7 +40,7 @@ After completing their Space Quest II remake in 2011, Infamous Adventures shifte
 
 ## Development
 
-### Background
+### Origins
 
 Infamous Adventures was founded by Steven Alexander and Shawn Mills, dedicated to creating free VGA remakes of classic Sierra adventure games. The team gained recognition for their King's Quest III remake released in 2006—which transformed the notoriously difficult text-parser original into a more accessible point-and-click adventure while maintaining its challenging gameplay.[^ref-3] Their Space Quest II VGA remake followed in 2011 after more than five years of development, featuring over 4,000 recorded lines of dialogue and hand-drawn backgrounds.[^ref-3]
 

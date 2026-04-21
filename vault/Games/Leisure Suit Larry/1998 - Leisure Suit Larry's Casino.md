@@ -7,15 +7,16 @@ publisher: Sierra Entertainment
 genre: Casino
 platforms: [Windows]
 series: Leisure Suit Larry
+engine: "Custom (Hoyle-based)"
 protagonist: Larry Laffer
 sierra_lineage: Spinoff
-last_updated: '2026-02-19'
+last_updated: '2026-04-15'
 description: "*Leisure Suit Larry's Casino* is a casino simulation spinoff released by Sierra Entertainment in 1998, featuring Larry Laffer as the manager of his own gambling resort with both single-player and online multiplayer gameplay."
 tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 ---
 # Leisure Suit Larry's Casino
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +30,9 @@ The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe de
 > **Developer:** Sierra On-Line[^ref-1]
 > **Designer:** [[Al Lowe]][^ref-1]
 > **Publisher:** Sierra Entertainment[^ref-1]
+> **Engine:** Custom (Hoyle-based)[^ref-3]
 > **Platforms:** Windows[^ref-4]
-> **Release Date:** June 30, 1998[^ref-1]
-> **Genre:** Casino Simulation
+> **Release Year:** 1998[^ref-1]
 > **Series:** Leisure Suit Larry
 > **Protagonist:** Larry Laffer
 > **Sierra Lineage:** Spinoff
@@ -123,6 +124,10 @@ When the LarryLand concept was only partially implemented and largely unused on 
 The game was directed and written by Al Lowe, making it one of his final projects at Sierra before his departure on February 22, 1999.[^ref-10] Production took place during Sierra's transition period following its acquisition by CUC International in 1996, which later merged with HFS Corporation to form Cendant.[^ref-7]
 
 The game's online component utilized WON (World Opponent Network), Cendant's free online gaming service that Sierra games used during this era.[^ref-4] This represented Sierra's continued investment in online gaming technology following the original Sierra Network experiment.
+
+### Technical Achievements
+
+Built on a custom engine derived from Sierra's successful *Hoyle* card game series, *Leisure Suit Larry's Casino* was one of the earliest Sierra titles to integrate real-time multiplayer functionality into a casual game product.[^ref-3][^ref-4] The game supported online play through Sierra's WON (World Opponent Network) service, which was free to players via Cendant's online platform — an ambitious feature for a 1998 casual title.[^ref-4] The SVGA graphics engine rendered the casino environments and character animations at a higher resolution than the earlier Hoyle games, while the chat and social features required custom network code developed alongside the casino simulation.[^ref-5] Six returning voice actors from *Leisure Suit Larry 7: Love for Sail!* were integrated into the character roster, requiring audio synchronization across both single-player and live multiplayer sessions.[^ref-1]
 
 ### Easter Eggs
 

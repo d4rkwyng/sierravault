@@ -10,18 +10,18 @@ series: Thexder
 engine: Microsoft Game SDK
 protagonist: Thexder (Hyper Dual Armor)
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter
   originally developed by Game Arts. The game features a transforming robot protagonist...
 tags: [2000s, shooter, sierra, thexder]
 ---
 # Thexder Neo
 
-<small style="color: gray">Last updated: January 30, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 Thexder Neo is a 2009 remake of the classic 1985 arcade-style shooter originally developed by Game Arts[^ref-1]. The game features a transforming robot protagonist that can switch between mech and jet fighter modes, navigating through maze-like levels while battling enemy robots[^ref-2]. Originally created as the first title ever released by Game Arts in 1985, the Thexder series was brought to Western audiences through Sierra On-Line's publishing deal with Ken Williams, who purchased the rights from Game Arts for US distribution in the mid-1980s[^ref-3][^ref-4].
 
@@ -33,10 +33,12 @@ The remake includes revamped graphics, a novice mode for struggling players, six
 > **Developer:** [[Game Arts]] Co., Ltd.[^ref-1]
 > **Designer:** Hibiki Godai, Satoshi Uesaka[^ref-1]
 > **Publisher:** Square Enix[^ref-5]
+> **Engine:** Microsoft Game SDK[^ref-1]
 > **Platforms:** PlayStation 3, PlayStation Portable, Nintendo Switch[^ref-9]
 > **Release Year:** 2009
 > **Series:** Thexder
-> **Sierra Lineage:** Licensed (Post-Sierra)
+> **Protagonist:** Thexder (Hyper Dual Armor)
+> **Sierra Lineage:** Spiritual Successor
 
 ## Story Summary
 

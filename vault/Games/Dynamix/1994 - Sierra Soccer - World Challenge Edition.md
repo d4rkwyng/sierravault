@@ -10,7 +10,7 @@ series: Standalone
 engine: Proprietary (Dynamix)
 protagonist: Soccer Team (player-controlled)
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 composer: [Charles Callet]
 description: '*Sierra Soccer: World Challenge Edition* is an arcade-style soccer simulation
   developed by Dynamix with assistance from Coktel Vision, published by Sierra...'
@@ -18,7 +18,7 @@ tags: [1990s, dynamix, sierra, standalone]
 ---
 # Sierra Soccer: World Challenge Edition
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -41,7 +41,9 @@ Notably, *Sierra Soccer: World Challenge Edition* marked Sierra On-Line's final 
 > **Release Year:** 1994[^ref-1]
 > **Languages:** English, German, French[^ref-6]
 > **Price:** £25.99 (UK release)[^ref-8]
-> **Sierra Lineage:** Sierra Label (Dynamix subsidiary)
+> **Series:** Sierra Soccer
+> **Protagonist:** Soccer Player (player-controlled)
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
 
@@ -341,5 +343,6 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-12]: [IGDB – Sierra Soccer](https://www.igdb.com/games/sierra-soccer-world-challenge-edition) – Internet Games Database
 [^ref-13]: [Giant Bomb – Sierra Soccer](https://www.giantbomb.com/sierra-soccer-world-challenge-edition/) – Game wiki
 [^ref-14]: [ExoticA – Sierra Soccer Music](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation, composer Charles Callet
-[^ref-7]: [GamesNostalgia – Sierra Soccer Download](https://gamesnostalgia.com/download/sierra-soccer-world-challenge-edition/2199) – abandonware preservation and emulation support
 [^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry
+[^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots
+[^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots

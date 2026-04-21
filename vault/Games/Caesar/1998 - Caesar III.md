@@ -9,15 +9,15 @@ platforms: [Windows, Mac, DOS]
 series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
-sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+sierra_lineage: Sierra Label (Impressions)
+last_updated: '2026-04-15'
 description: Caesar III is a city-building strategy game that transports players to
  the Roman Empire, where they serve as a provincial governor tasked with building...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar III
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -35,10 +35,12 @@ The game's official manual states that "Caesar III is not a war game, although y
 > **Developer:** [[Impressions Games]][^ref-19]
 > **Designer:** [[David Lester]], [[Simon Bradbury]][^ref-4]
 > **Publisher:** Sierra Entertainment[^ref-19]
+> **Engine:** 2D isometric graphics engine[^ref-4]
 > **Platforms:** Windows, Macintosh, MS-DOS[^ref-49]
 > **Release Year:** 1998
 > **Series:** Caesar
-> **Sierra Lineage:** Core Sierra
+> **Protagonist:** Roman Governor (player-named)
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 

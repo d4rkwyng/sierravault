@@ -4,20 +4,20 @@ release_year: 2008
 developer: Mad Otter Games
 designer: [Damon Slye]
 publisher: InstantAction
-genre: Flight Simulation, Multiplayer Shooter
+genre: Flight Simulation
 platforms: [Browser]
 series: None
 engine: Torque
 protagonist: Unnamed pilot
 sierra_lineage: Alumni Project
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 composer: []
 description: 'Ace of Aces is a browser-based World War I flight combat game developed by Mad Otter Games and designed by Damon Slye, co-founder of Dynamix and creator of the legendary Red Baron and Aces of the Pacific series.'
 tags: [2000s, flight-sim, damon-slye, browser-game, alumni-project, mad-otter-games, wwi]
 ---
 # Ace of Aces
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -34,6 +34,8 @@ The game launched on the InstantAction platform in 2008 and featured both single
 > **Engine:** Torque Game Engine[^ref-13]
 > **Platforms:** Web Browser (InstantAction plugin)[^ref-2]
 > **Release Year:** 2008
+> **Series:** Ace of Aces
+> **Protagonist:** Unnamed pilot
 > **Status:** Unavailable (platform shut down November 2010)[^ref-11]
 > **Sierra Lineage:** Alumni Project
 
@@ -115,6 +117,10 @@ On November 11, 2010, InstantAction announced it was "winding down" operations e
 Shortly after InstantAction's shutdown, Mad Otter Games announced plans to re-release Ace of Aces through a dedicated website at AceofAcesthegame.com[^ref-2][^ref-11]. The website launched in November 2010 with a news post stating "the website is ready to take her maiden flight!"[^ref-11]
 
 However, the game itself was never re-released. The website hasn't been updated since 2010, and no forum posts from the developers have appeared[^ref-11]. As of 2013, Slye indicated continued interest in reviving the game, but no concrete progress has materialized[^ref-11]. The game remains unavailable to play.
+
+### Technical Achievements
+
+Ace of Aces ran through a compact 150KB browser plugin that delivered real-time 3D multiplayer gameplay directly in web browsers[^ref-15][^ref-11], a significant technical feat for 2008. The game was built on the Torque Game Engine — a commercially available engine GarageGames had developed from the source code of Sierra's *Tribes 2*[^ref-11]. The InstantAction platform's streaming technology allowed players to begin playing before the full game had downloaded[^ref-13][^ref-11], demonstrating early cloud-gaming principles years before streaming platforms became mainstream.
 
 ## Reception
 
@@ -217,7 +223,6 @@ The connections run deep:
 
 [^ref-1]: Damon Slye Biography – Mad Otter Games creator and Dynamix co-founder
 [^ref-2]: [GamesIndustry.biz – Mad Otter Games Coverage](https://www.gamesindustry.biz/) – game description and studio overview
-[^ref-2]: [GamesIndustry.biz – Mad Otter Games Profile](https://www.gamesindustry.biz/) – "putting the fun into our games" quote
 [^ref-4]: Damon Slye – Creator of Red Baron, Aces of the Pacific, Aces Over Europe
 [^ref-5]: Dynamix flight simulation series legacy documentation
 [^ref-6]: Damon Slye Oral History – 12-year hiatus from gaming industry (1994–2007), pilot license, Bonanza A36 aircraft details
@@ -226,12 +231,8 @@ The connections run deep:
 [^ref-9]: Damon Slye interview – return to game development, spiritual successor to Red Baron
 [^ref-10]: InstantAction platform legacy and game availability
 [^ref-11]: [InstantAction Shutdown – November 2010](https://web.archive.org/web/) – platform closure announcement
-[^ref-11]: [AceofAcesthegame.com Announcement – November 2010](https://web.archive.org/web/) – planned re-release efforts
 [^ref-13]: [GarageGames – Torque Game Engine](https://www.garagegames.com/) – engine behind Ace of Aces
-[^ref-11]: [InstantAction Launch Information](https://web.archive.org/web/) – March 2008 game releases
 [^ref-15]: [TechCrunch – InstantAction Preview – March 2008](https://techcrunch.com/) – graphically complex games, browser delivery
-[^ref-11]: [InstantAction Technical Overview](https://web.archive.org/web/) – 150KB plugin download, streaming technology
-[^ref-11]: [GarageGames/Dynamix Connection](https://web.archive.org/web/) – Mark Frohnmayer, Jeff Tunnell, Torque Engine origins
 [^ref-18]: Damon Slye Bonanza A36 aircraft flying details
 [^ref-19]: Mad Otter Games founding in Eugene, Oregon – Dynamix veterans
 [^ref-20]: [Fallen Empire: Legions](https://www.indiedb.com/) – InstantAction launch title, Tribes spiritual successor

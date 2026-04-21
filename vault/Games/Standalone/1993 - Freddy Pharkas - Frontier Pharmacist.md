@@ -10,7 +10,7 @@ series: Freddy Pharkas
 engine: SCI1.1
 protagonist: Freddy Pharkas
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: '**Freddy Pharkas: Frontier Pharmacist** is a comic Old West adventure
   game created by Al Lowe and Josh Mandel at Sierra On-Line. Released in 1993 for
   DOS...'
@@ -18,7 +18,7 @@ tags: [1990s, adventure, al-lowe, freddy-pharkas, sci, sierra]
 ---
 # Freddy Pharkas: Frontier Pharmacist
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,9 +32,11 @@ Freddy Pharkas was a breath of fresh air, far enough away from knights, space ja
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Al Lowe]], [[Josh Mandel]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** SCI1.1[^ref-1]
 > **Platforms:** DOS, CD-ROM, Floppy disk, MS-DOS, Mac, Macintosh, Windows[^ref-6]
 > **Release Year:** 1993[^ref-7]
 > **Series:** Freddy Pharkas
+> **Protagonist:** Freddy Pharkas
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

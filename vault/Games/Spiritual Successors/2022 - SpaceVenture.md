@@ -9,15 +9,15 @@ platforms: [PC, Steam, Linux, Mac, Windows, Android, iOS]
 series: SpaceVenture
 engine: Unity
 protagonist: Ace Hardway
-sierra_lineage: Spiritual Successor
-last_updated: '2026-01-31'
+sierra_lineage: Alumni Project
+last_updated: '2026-04-15'
 description: SpaceVenture is a science fiction comedy adventure game developed by
   the Two Guys from Andromeda, the original creators of Sierra's classic Space Quest...
 tags: [2020s, adventure, 'null', sierra, two-guys]
 ---
 # SpaceVenture
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 
 ## Overview
@@ -30,10 +30,12 @@ Originally announced in April 2012 and successfully funded through Kickstarter i
 > **Developer:** Guys from Andromeda[^ref-7]
 > **Designer:** [[Mark Crowe]], [[Scott Murphy]][^ref-8]
 > **Publisher:** Guys from Andromeda[^ref-7]
+> **Engine:** Unity[^ref-18]
 > **Platforms:** PC, Steam, Linux, Mac, Windows, Android, iOS[^ref-7]
-> **Release Year:** 2022 (backers), 2025 (Steam public release)
-> **Series:** null
-> **Sierra Lineage:** Spiritual Successor
+> **Release Year:** 2022[^ref-6]
+> **Series:** SpaceVenture
+> **Protagonist:** Ace Hardway
+> **Sierra Lineage:** Alumni Project
 
 ## Story Summary
 

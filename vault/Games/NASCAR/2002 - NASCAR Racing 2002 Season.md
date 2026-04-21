@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: Enhanced NASCAR Racing 4 physics engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: NASCAR Racing 2002 Season is a realistic NASCAR racing simulation developed
   by Papyrus Design Group and published by Sierra Entertainment in 2002. Building...
 tags: [2000s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2002 Season
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game features the official 2002 NASCAR Winston Cup Series season with authen
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** [[Dave Kaemmer]], Richard Yasi[^ref-1]
 > **Publisher:** Sierra Entertainment[^ref-1]
+> **Engine:** Enhanced NASCAR Racing 4 physics engine[^ref-1]
 > **Platforms:** PC, Windows, Mac, Mac OS X, PlayStation 2, Xbox, Game Boy Advance[^ref-7]
 > **Release Year:** 2002
 > **Series:** NASCAR Racing
+> **Protagonist:** NASCAR Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Gameplay

@@ -11,14 +11,14 @@ series: Thexder
 engine: Game Arts Engine
 protagonist: Thexder (transforming robot)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Thexder is a transforming robot action game originally developed by Game
   Arts for the NEC PC-8801 computer in 1985. The game features "a hyper dual-armor...
 tags: [1980s, sierra, thexder]
 ---
 # Thexder
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The game was "favored for the smooth animation, fast 8-direction scrolling and r
 > **Developer:** [[Game Arts]][^ref-1]
 > **Designer:** [[Hibiki Godai]], Satoshi Uesaka[^ref-8]
 > **Publisher:** [[Sierra On-Line]] (US), Game Arts (Japan)[^ref-1]
+> **Engine:** Game Arts Engine[^ref-1]
 > **Platforms:** PC-8801, MS-DOS, Apple II, Apple IIgs, Amiga, Atari ST, Famicom, NES, MSX, Sharp X1, FM-7, PC-9801, Macintosh, PlayStation 3, PSP, Nintendo Switch[^ref-9]
 > **Release Year:** 1985
 > **Series:** Thexder
+> **Protagonist:** Thexder (transforming robot)
 > **Sierra Lineage:** Licensed Title
 
 ## Story Summary

@@ -11,14 +11,14 @@ series: Gobliiins
 engine: Adventure Game Studio
 protagonist: Fingus, Winkle
 sierra_lineage: Post-Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: '*Gobliins 6: The Madmen of the Year 1000* is a 2026 2D puzzle adventure game that serves as
   a direct sequel to *Gobliins 2: The Prince Buffoon*, reuniting the beloved duo Fingus...'
 tags: [adventure, gobliiins, puzzle, sierra]
 ---
 # Gobliins 6: The Madmen of the Year 1000
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -118,6 +118,10 @@ This design philosophy represents a significant quality-of-life improvement whil
 
 ## Development
 
+### Origins
+
+Gobliins 6 was announced by series creator Pierre Gilhodes following the positive reception of Gobliiins 5: The Morgloton Invasion. As an alumni project by the original creator of the Gobliiins series, the game represents a continuation of the franchise that began with Sierra On-Line in 1991.[^ref-1]
+
 ### Kickstarter Campaign
 
 The Kickstarter campaign for *Gobliins 6* launched on October 10, 2024, and ran until November 9, 2024.[^ref-1][^ref-3] Pierre Gilhodes set a modest funding goal of €4,000, a conservative target that reflected both the independent nature of the project and Gilhodes' experience with crowdfunding from the *Gobliiins 5* campaign.[^ref-1][^ref-9]
@@ -170,6 +174,11 @@ The choice of AGS reflects Gilhodes' commitment to an "oldschool-style" approach
 ## Reception
 
 ### Contemporary Reviews
+
+### Modern Assessment
+
+Gobliins 6 remains highly anticipated as Pierre Gilhodes' return to the franchise. Given the critical acclaim of Gobliiins 5: The Morgloton Invasion (2023)[^ref-5], expectations are high for this sixth installment. The game has not yet been released as of this writing.[^ref-1]
+
 
 As a newly released title (February 2026), *Gobliins 6* has begun receiving initial reviews and player feedback from early adopters on Steam and itch.io platforms.[^ref-14][^ref-15] The game's Kickstarter campaign and early release reception have been positive, with community responses focused on the faithful recreation of the classic adventure gaming experience and the successful return of the beloved two-goblin duo.[^ref-1][^ref-2]
 
@@ -270,6 +279,10 @@ Based on the *Gobliiins 5* requirements and Kickstarter campaign information, th
 **Developer**
 
 - [itch.io – Pierre Gilhodes](https://pierre-gilhodes.itch.io/) – Developer page with previous releases[^ref-5]
+
+## Downloads
+
+Gobliins 6 has not yet been released. Information on purchase availability will be added upon release.[^ref-1]
 
 ## See Also
 

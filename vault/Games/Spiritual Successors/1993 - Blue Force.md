@@ -10,14 +10,14 @@ series: None
 engine: TsAGE
 protagonist: Jake Ryan
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-12'
+last_updated: '2026-04-15'
 composer: [Ken Allen]
 description: 'Blue Force is a police procedural adventure game designed by Jim Walls, creator of the Police Quest series, representing his only post-Sierra project at Tsunami Games.'
 tags: [1990s, adventure, jim-walls, police, spiritual-successor, tsunami]
 ---
 # Blue Force
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -132,7 +132,7 @@ The development team included several notable Sierra alumni[^ref-6]:
 
 The game was released on both floppy disk and CD-ROM[^ref-3]. Despite being a CD release, the CD version contains no voice acting—only an audio interview with Jim Walls as bonus content[^ref-3][^ref-6]. As Bevilacqua observed: "Along with an interview of Jim Walls and some CD tracks of the game's music, it is basically the floppy version being placed on the CD"[^ref-4].
 
-### Technical Specifications
+### Technical Achievements
 
 - **Platform:** MS-DOS[^ref-1]
 - **Engine:** TsAGE (Tsunami Adventure Game Engine)[^ref-6][^ref-11]

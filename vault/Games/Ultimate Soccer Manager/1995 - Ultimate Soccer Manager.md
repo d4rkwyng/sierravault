@@ -10,7 +10,7 @@ series: Ultimate Soccer Manager
 engine: Custom Football Management Engine
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Ultimate Soccer Manager stands as one of the most innovative football
   management simulation series of the 1990s, offering players the complete fantasy
   of...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,9 +32,11 @@ The series evolved significantly over its five-year run from 1995 to 1999, expan
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** [[David Lester]], Neal Sumsion[^ref-1]
 > **Publisher:** Impressions Games, [[Sierra On-Line]][^ref-7]
+> **Engine:** Custom Football Management Engine[^ref-1]
 > **Platforms:** DOS, Amiga, Windows 95/98[^ref-8]
 > **Release Year:** 1995
 > **Series:** Ultimate Soccer Manager
+> **Protagonist:** Football Club Manager
 > **Sierra Lineage:** Sierra Published
 
 ## Story Summary

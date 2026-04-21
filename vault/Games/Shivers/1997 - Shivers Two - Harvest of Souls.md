@@ -10,14 +10,14 @@ series: Shivers
 engine: Vision 360
 protagonist: Trip Cyclone band member (unnamed)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'Shivers Two: Harvest of Souls is a horror adventure game developed and
   published by Sierra On-Line in 1997. Set in the mysterious desert town of Cyclone,...'
 tags: [1990s, adventure, shivers, sierra]
 ---
 # Shivers Two: Harvest of Souls
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game incorporates Native American mysticism and supernatural horror elements
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Marcia Bales, Willie Eide[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** Vision 360[^ref-3]
 > **Platforms:** Windows, PC[^ref-8]
 > **Release Year:** 1997
 > **Series:** Shivers
+> **Protagonist:** Trip Cyclone band member
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

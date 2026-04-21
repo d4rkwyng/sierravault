@@ -10,7 +10,7 @@ series: Hoyle Casino
 engine: Proprietary (Windows)
 protagonist: ''
 sierra_lineage: Post-Sierra
-last_updated: '2026-01-15'
+last_updated: '2026-04-15'
 description: Hoyle Official Casino Games Collection, released in 2016, represents
   the final entry in the long-running Hoyle Casino series that began in 1996 under
   Sierra...
@@ -18,7 +18,7 @@ tags: [2010s, hoyle-casino, sierra]
 ---
 # Hoyle Official Casino Games Collection
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,10 +30,13 @@ Despite carrying the prestigious Hoyle name—a brand synonymous with card and c
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-6]
-> **Publisher:** Encore[^ref-3]
+> **Publisher:**
+> **Designer:** N/A Encore[^ref-3]
 > **Platforms:** Windows, macOS[^ref-5]
 > **Release Year:** 2016
-> **Series:** Hoyle Casino
+> **Series:** Hoyle
+> **Engine:** Proprietary
+> **Protagonist:** N/A Casino
 > **Sierra Lineage:** Sierra Legacy (Encore Era)
 > **Steam App ID:** 532950[^ref-5]
 
@@ -325,10 +328,10 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 [^ref-11]: [Metacritic – Hoyle Casino Games Collection](https://www.metacritic.com/game/hoyle-casino-games-collection/) – release date, review status
 [^ref-12]: [Softonic – Hoyle Official Card Games Collection](https://hoyle-official-card-games-collection.en.softonic.com/) – download statistics, languages, security status, developer credit
 
-[^ref-5]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – Technical specifications, system requirements, compatibility information
 
 [^ref-14]: [GG.deals – Hoyle Official Casino Games](https://gg.deals/game/hoyle-official-casino-games/) – Game pricing data, platform availability, digital store information
 
-[^ref-6]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – Game database entry, platform details, user information
 
 [^ref-16]: [AllKeyShop – Hoyle Official Casino Games](https://www.allkeyshop.com/blog/buy-hoyle-official-casino-games-cd-key-compare-prices/) – Digital key pricing, platform availability, regional information
+[^ref-17]: [MobyGames – Hoyle Casino Games Collection](https://www.mobygames.com/game/hoyle-casino-games-collection/) – platform details
+[^ref-18]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – user database entry

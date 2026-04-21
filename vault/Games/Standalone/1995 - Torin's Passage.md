@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI2.1
 protagonist: Torin
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: '**Torin''s Passage** is a point-and-click adventure game designed by
   Al Lowe and released by Sierra On-Line in 1995. Unlike Lowe''s adult-oriented Leisure...'
 tags: [1990s, adventure, al-lowe, 'null', sci, sierra]
 ---
 # Torin's Passage
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Set in a fantasy world of nested planets called Strata, the game follows young T
 > **Developer:** [[Sierra On-Line]][^ref-7]
 > **Designer:** [[Al Lowe]], [[Lorelei Shannon]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-9]
+> **Engine:** SCI2.1[^ref-7]
 > **Platforms:** DOS, Windows, Macintosh, CD-ROM[^ref-10]
 > **Release Year:** 1995
-> **Series:** null
+> **Series:** Standalone
+> **Protagonist:** Torin
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

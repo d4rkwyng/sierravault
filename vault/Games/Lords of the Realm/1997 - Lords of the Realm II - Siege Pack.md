@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: Smacker Video
 protagonist: Medieval Lord (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'Lords of the Realm II: Siege Pack is the official expansion pack to
   Lords of the Realm II, released in 1997 by Sierra On-Line. Developed by Impressions...'
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of the Realm II: Siege Pack
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Set in medieval England in 1268 A.D., the game places players in a struggle for 
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** [[Chris Beatrice]], [[David Lester]], Eric Ouellette, [[Simon Bradbury]][^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Smacker Video[^ref-1]
 > **Platforms:** DOS, Windows 95, Macintosh, Steam[^ref-8]
 > **Release Year:** 1997
 > **Series:** Lords of the Realm
+> **Protagonist:** Medieval Lord (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

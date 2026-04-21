@@ -10,14 +10,14 @@ series: Ultimate Soccer Manager
 engine: Impressions Football Engine
 protagonist: Football Club Manager
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Ultimate Soccer Manager 2 is a comprehensive football management simulation
   game developed by Impression Games and published by Sierra On-Line in 1996. As...
 tags: [1990s, sierra, ultimate-soccer-manager]
 ---
 # Ultimate Soccer Manager 2
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -26,13 +26,15 @@ Ultimate Soccer Manager 2 is a comprehensive football management simulation game
 Ultimate Soccer Manager 2 was "a massive hit in Europe" according to contemporary reports, though it "gained little support in Japan"[^ref-4]. The game was particularly well-received in most European markets, with the notable exception of Germany where it "was worse received due to some similarities with managers produced by local software houses such as Software 2000 and Ascaron"[^ref-4]. The game begins in the 1996/1997 season and allows players to continue indefinitely as "it creates new players and you can go on in the seasons"[^ref-5].
 
 > [!info]- Game Info
-> **Developer:** Impression Games[^ref-1]
+> **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** Andrew Prime, [[David Lester]], Mark Howman, Neal Sumsion[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Impressions Football Engine[^ref-1]
 > **Platforms:** DOS, Amiga, PC, Windows 95, Windows 98, PlayStation 1[^ref-1]
 > **Release Year:** 1996
 > **Series:** Ultimate Soccer Manager
-> **Sierra Lineage:** Core Sierra
+> **Protagonist:** Football Club Manager
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 

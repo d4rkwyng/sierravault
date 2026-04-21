@@ -2,18 +2,20 @@
 title: "Carcassonne"
 release_year: 2007
 developer: "Sierra Online Seattle"
+designer: null
 publisher: "Vivendi Games"
 genre: Turn-Based Strategy
 platforms: ["Xbox 360"]
 series: "Standalone"
 engine: "Custom"
+protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 ---
 
 # Carcassonne
 
-<small style="color: gray">Last updated: February 18, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -24,11 +26,14 @@ The game was the second designer board game to appear on Xbox Live Arcade, follo
 > [!info]- Game Info
 > **Developer:** Sierra Online Seattle[^ref-1]
 > **Publisher:** Vivendi Games / Sierra Online[^ref-1]
+> **Engine:** Custom[^ref-1]
 > **Platforms:** Xbox 360 (XBLA)[^ref-1]
-> **Release Date:** June 27, 2007[^ref-3]
-> **Genre:** Turn-based Strategy[^ref-3]
+> **Release Year:** 2007[^ref-3]
+> **Series:** Standalone
+> **Designer:** N/A
+> **Protagonist:** N/A
 > **Based On:** Carcassonne board game by Klaus-Jürgen Wrede[^ref-1]
-> **Sierra Lineage:** Sierra Subsidiary
+> **Sierra Lineage:** Sierra Published
 
 ## Gameplay
 
@@ -68,7 +73,7 @@ IGN awarded the game an 8/10 ("great"), with reviewer Daemon Hatfield commending
 
 The game was noted as an excellent entry point for players unfamiliar with the original board game, while still satisfying fans of the tabletop version.[^ref-3]
 
-### Awards
+### Modern Assessment
 
 Carcassonne was recognized as one of the stronger board game adaptations on Xbox Live Arcade during the service's early years.[^ref-3][^ref-5][^ref-8][^ref-10]
 
@@ -81,6 +86,13 @@ Carcassonne was developed by Sierra Online Seattle, a division of Sierra Online 
 ### Production
 
 The development team worked to faithfully recreate the tactical decision-making of the original board game while streamlining the experience for console play. The interface was designed for controller input, with clear visual feedback for legal tile placements.[^ref-2]
+
+### Technical Specifications
+
+- **Platform:** Xbox 360 (Xbox Live Arcade)[^ref-1]
+- **Price:** 800 Microsoft Points[^ref-1]
+- **Players:** 2–5 (local and online)[^ref-3]
+- **Vision Camera:** Supported for online video chat[^ref-1]
 
 ### Downloadable Content
 

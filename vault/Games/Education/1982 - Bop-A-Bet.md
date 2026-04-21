@@ -10,14 +10,14 @@ series: Hi-Res Learning Series
 engine: Applesoft BASIC
 protagonist: Boxing Glove (player-controlled)
 sierra_lineage: Sierra Published
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: Bop-A-Bet is an educational typing and letter-recognition game for children,
   originally developed by Sunnyside Soft in 1982 and later republished by Sierra...
 tags: [1980s, educational, hi-res-learning-series, sierra]
 ---
 # Bop-A-Bet
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -204,13 +204,11 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 [^ref-7]: [Wikiwand – Bop-A-Bet](https://www.wikiwand.com/en/articles/Bop-A-Bet) – programming and art credits, educational gameplay description
 [^ref-8]: [MobyGames – Bop-A-Bet](https://www.mobygames.com/game/122928/bop-a-bet/) – Computer Gaming World review summary and gameplay description
 [^ref-9]: [Kiddle Encyclopedia – Bop-A-Bet](https://kids.kiddle.co/Bop-A-Bet) – adaptive difficulty, educational focus
-[^ref-10]: [MobyGames – Bop-A-Bet](https://www.mobygames.com/game/122928/bop-a-bet/) – credits, technical specifications, platform details
 [^ref-11]: [Sierra Gamers Forum – List of Sierra Products](https://www.sierragamers.com/forums/topic/list-of-sierra-products/) – internal Sierra product documentation
 [^ref-12]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – publisher confirmation, platform listing
 [^ref-13]: [FindWords.info – Bop-A-Bet](https://findwords.info/term/bop-a-bet) – development year, publisher information
 [^ref-14]: [Encyclo.co.uk – Bop-A-Bet](https://www.encyclo.co.uk/meaning-of-Bop_A_Bet) – educational gameplay description
 [^ref-15]: [Wikidata – Q4944148](https://www.wikidata.org/wiki/Q4944148) – platform confirmation, developer attribution
 [^ref-2]: [Sierra Chest – Box Documentation](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=box) – packaging scans, Sunnyside Soft origin
-[^ref-17]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – Release year, developer, and publisher information
 [^ref-18]: [Wikiwand – Bop-A-Bet (alternate)](https://www.wikiwand.com/en/Bop-A-Bet) – pricing information, review quotes
 [^ref-19]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Bop-A-Bet) – platform and release year verification

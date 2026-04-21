@@ -10,14 +10,14 @@ series: Phantasmagoria
 engine: SCI32
 protagonist: Curtis Craig
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: 'Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure
  game released by Sierra On-Line in 1996. Though technically a sequel to Roberta...'
 tags: [1990s, adventure, phantasmagoria, sci, sierra]
 ---
 # Phantasmagoria: A Puzzle of Flesh
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -25,19 +25,15 @@ Phantasmagoria: A Puzzle of Flesh is a psychological horror adventure game relea
 
 Developed on a budget of $4.5 million with a cast of more than 30 professional actors[^ref-4], A Puzzle of Flesh represents one of Sierra's most ambitious interactive movie productions. The game was filmed over six months in and around Seattle, Washington, using high-quality movie sets built specifically for the production rather than relying on blue screen technology[^ref-5]. While not a commercial success, the game is remembered for its controversial violent and sexual content, which led to heavy censorship or outright bans in several European and Oceanic countries[^ref-6].
 
-##
-
-**Purchase / Digital Stores**
-
-Phantasmagoria: A Puzzle of Flesh is available for purchase on GOG.com as a DOS version. The game can be purchased through various digital storefronts.
-
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
 > **Designer:** [[Lorelei Shannon]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-7]
+> **Engine:** SCI32[^ref-7]
 > **Platforms:** DOS, Windows 95, Macintosh[^ref-9]
 > **Release Year:** 1996
 > **Series:** Phantasmagoria
+> **Protagonist:** Curtis Craig
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

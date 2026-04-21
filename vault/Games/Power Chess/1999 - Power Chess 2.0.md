@@ -10,7 +10,7 @@ series: Power Chess
 engine: WChess
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-16'
+last_updated: '2026-04-15'
 description: Power Chess 2.0 is a chess simulation game developed and published by
   Sierra On-Line in 1999 for Windows. As the third entry in the Power Chess series,
   the...
@@ -18,7 +18,7 @@ tags: [1990s, power-chess, sierra]
 ---
 # Power Chess 2.0
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -34,6 +34,7 @@ The game continued Sierra's mission to "humanize" computer chess, a concept Fren
 > **Platforms:** Windows[^ref-1]
 > **Release Year:** 1999
 > **Series:** Power Chess
+> **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
 
 ## Gameplay

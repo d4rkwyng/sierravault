@@ -11,14 +11,14 @@ series: IndyCar Racing
 engine: Racing simulation technology
 protagonist: Racing Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: IndyCar Racing II is a racing simulation developed by Papyrus Design
   Group and published by Sierra On-Line in 1995. The game was intended as a realistic...
 tags: [1990s, indycar-racing, racing, sierra]
 ---
 # IndyCar Racing II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The game was designed with an uncompromising focus on realism, as lead developer
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** David Kaemmer, Randy Cassidy, Rick Genter[^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Racing simulation technology[^ref-5]
 > **Platforms:** DOS, MS-DOS, Windows 95, Macintosh, Power Mac[^ref-8]
 > **Release Year:** 1995
 > **Series:** IndyCar Racing
+> **Protagonist:** Racing Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

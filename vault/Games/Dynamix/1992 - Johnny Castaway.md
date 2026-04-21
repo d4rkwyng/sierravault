@@ -12,31 +12,35 @@ protagonist: Johnny Castaway
 sierra_lineage: Sierra Label (Dynamix)
 series: Johnny Castaway
 created: 2026-02-12
-last_updated: "2026-03-27"
+last_updated: '2026-04-15'
 description: 'Johnny Castaway is a screensaver from 1992 that depicts a man stranded on a desert island, telling an ongoing narrative that unfolds over approximately 120 days of real-world time.'
 tags: [screensaver, dynamix, sierra]
 ---
 
 # Johnny Castaway
 
-<small style="color: gray">Last updated: March 27, 2026</small>
-
-> [!info]- Game Info
-> - **Developer:** [[Dynamix]]
-> - **Publisher:** [[Sierra On-Line]]
-> - **Release Date:** November 1992
-> - **Platforms:** Windows 3.x
-> - **Genre:** Screensaver
-
-**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
+
+**Johnny Castaway** is a screensaver released in 1992 by [[Sierra On-Line]]/[[Dynamix]], marketed under the **Screen Antics** brand as "the world's first story-telling screen saver."[^ref-1][^ref-4] The program depicts a man named Johnny Castaway stranded on a tiny desert island with a single palm tree, engaging in an endless variety of activities while repeatedly failing to escape his tropical prison.[^ref-1]
 
 Unlike conventional screensavers of the era—such as the famous "flying toasters" from After Dark—Johnny Castaway tells an ongoing narrative that unfolds over approximately 120 days of real-world time.[^ref-3] The screensaver features Johnny performing daily activities like fishing, reading, jogging, and drinking from coconuts, interspersed with random comedic events and an overarching escape storyline.[^ref-3]
 
 Much like the castaways of *Gilligan's Island*, Johnny repeatedly comes tantalizingly close to rescue, only to remain stranded due to various unfortunate accidents.[^ref-4] The screensaver reads the computer's system clock, cycling through day and night sequences and recognizing major U.S. holidays with special themed animations.[^ref-1]
 
 The product shipped on a single 3½-inch floppy disk and required a 386SX processor running Windows 3.1.[^ref-1] A letter accompanying the original disk pleaded: *"Stop everything! Only when you quit working, do I have a chance to escape this forsaken island. So please, do it for me—kill some time to save an old salt!"*[^ref-3][^ref-19][^ref-21][^ref-23][^ref-20]
+
+> [!info]- Game Info
+> **Developer:** [[Dynamix]][^ref-1]
+> **Designer:** [[Jeff Tunnell]][^ref-3]
+> **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** DGDS[^ref-11]
+> **Platforms:** Windows 3.x[^ref-1]
+> **Release Year:** 1992[^ref-1]
+> **Series:** Johnny Castaway
+> **Protagonist:** Johnny Castaway
+> **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Gameplay
 
@@ -145,7 +149,7 @@ According to Ken Williams, the screensaver was one of several Dynamix products t
 
 Johnny Castaway became an unexpected cult classic. Even Jeff Tunnell was surprised by its longevity: "I never expected Johnny Castaway to become the underground cult hit that it became. Of course, you always want a product to be successful, and JC was."[^ref-3] Office workers of the early 1990s developed genuine attachment to the stranded cartoon character, checking in on his progress and watching for rare events.[^ref-3] The screensaver transformed the utilitarian purpose of screen protection into entertainment, presaging concepts like virtual pets and idle games.[^ref-3]
 
-### Technical Challenges
+### Technical Achievements
 
 As a 16-bit Windows 3.1 application, Johnny Castaway cannot run natively on modern 64-bit systems. However, the devoted fan community has developed workarounds for Windows 64-bit, macOS, and Linux.[^ref-1] Browser-based reimplementations have also emerged, including the open-source Castaway project that reverse-engineers the DGDS (Dynamix Game Development System) engine.[^ref-11][^ref-16]
 

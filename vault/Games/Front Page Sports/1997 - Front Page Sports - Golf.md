@@ -10,7 +10,7 @@ series: Front Page Sports
 engine: Proprietary (Dynamix)
 protagonist: Custom Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-11'
+last_updated: '2026-04-15'
 composer: [Charles Barth]
 description: 'Front Page Sports: Golf is a golf simulation video game developed by
   Headgate Studios and published by Sierra On-Line for Microsoft Windows, released
@@ -19,7 +19,7 @@ tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Golf
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -33,6 +33,7 @@ Front Page Sports: Golf distinguished itself from competitors through its less f
 > **Developer:** [[Headgate Studios]][^ref-1]
 > **Designer:** Vance Cook[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Proprietary (Dynamix)[^ref-1]
 > **Composer:** Charles Barth[^ref-1]
 > **Platforms:** Microsoft Windows[^ref-1]
 > **Release Year:** 1997

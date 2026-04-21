@@ -29,9 +29,11 @@ The game emerged during a golden age of historical wargaming, when Sierra On-Lin
 > **Developer:** Sierra Entertainment[^ref-9]
 > **Designer:** Charles Moylan, Jeffrey Fiske, Steve Grammont[^ref-10]
 > **Publisher:** [[Sierra On-Line]][^ref-11]
+> **Engine:** Custom 3D engine with WeGo turn-based system[^ref-9]
 > **Platforms:** Microsoft Windows, PC, Windows 95[^ref-12]
-> **Release Year:** 1996
+> **Release Year:** 1997[^ref-9]
 > **Series:** Civil War Generals
+> **Protagonist:** Army Commander (Union or Confederate)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

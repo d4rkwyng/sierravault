@@ -10,7 +10,7 @@ series: Cognition
 engine: Unity
 protagonist: Erica Reed
 sierra_lineage: Alumni Project
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 composer: ['The atmospheric music was composed by Austin Haynes, Matthew Florianz,
     and Robert Holmes.']
 description: '**Cognition: An Erica Reed Thriller** is a four-part episodic point-and-click
@@ -19,7 +19,7 @@ tags: [2010s, adventure, cognition, jane-jensen, sierra]
 ---
 # Cognition: An Erica Reed Thriller
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -146,6 +146,10 @@ Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic
 
 **Music:**
 The atmospheric music was composed by Austin Haynes, Matthew Florianz, and Robert Holmes.[^ref-25] The Phoenix Online Store describes it: "From tense shootouts to melancholy moments, the atmospheric music of Austin Haynes sets the mood for Cognition: An Erica Reed Thriller."[^ref-25]
+
+### Technical Achievements
+
+Cognition was developed using the Unity 3.5 engine[^ref-4], marking one of the early uses of Unity for a commercial episodic adventure game. The game was released cross-platform for both PC and Mac from launch[^ref-11], and a Game of the Year Edition expanded availability to iOS and Android in 2018[^ref-5]. The episodic release model — spanning four episodes across 2012–2013 — demonstrated that small indie studios could sustain multi-episode adventure game projects through community support and Kickstarter funding[^ref-5][^ref-11].
 
 ### Technical Specifications
 

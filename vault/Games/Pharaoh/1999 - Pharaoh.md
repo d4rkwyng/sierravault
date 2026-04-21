@@ -9,15 +9,15 @@ platforms: [PC, Windows, Mac, Steam, GOG]
 series: Impressions City Building Series
 engine: Caesar III engine (modified)
 protagonist: Egyptian Governor (player-named)
-sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+sierra_lineage: Sierra Label (Impressions)
+last_updated: '2026-04-15'
 description: Pharaoh is a city-building simulation game set in ancient Egypt, developed
   by Impressions Games and published by Sierra Studios in 1999. As the fourth game...
 tags: [1990s, impressions-city-building-series, sierra]
 ---
 # Pharaoh
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,10 +29,12 @@ Development began after Impressions decided it was time for a change of scenery 
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** [[Chris Beatrice]], Gabe Farris, [[Simon Bradbury]][^ref-6]
 > **Publisher:** Sierra Studios[^ref-1]
+> **Engine:** Caesar III engine (modified)[^ref-6]
 > **Platforms:** PC, Windows, Macintosh, Steam, GOG[^ref-7]
 > **Release Year:** 1999
-> **Series:** Impressions City Building Series
-> **Sierra Lineage:** Core Sierra
+> **Series:** Pharaoh
+> **Protagonist:** Egyptian Governor (player-named)
+> **Sierra Lineage:** Sierra Label (Impressions)
 
 ## Story Summary
 

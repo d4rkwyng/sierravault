@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player Avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-04-15'
 description: Hoyle Slots and Video Poker 2000 is a casino simulation game released
   by Sierra Attractions in 2000, designed to replicate the Las Vegas casino experience...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Slots and Video Poker 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,13 +29,15 @@ The game was released during a period when PC gaming was experiencing significan
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-7]
-> **Publisher:** Sierra Attractions[^ref-3]
+> **Publisher:**
+> **Designer:** N/A
 > **Engine:** Unknown
 > **Platforms:** Windows, Macintosh[^ref-3][^ref-5]
 > **Release Year:** 2000[^ref-4]
-> **Series:** Hoyle Series[^ref-7]
+> **Series:** Hoyle
+> **Protagonist:** N/A
 > **ESRB Rating:** E – Everyone[^ref-6]
-> **Sierra Lineage:** Sierra Attractions
+> **Sierra Lineage:** Sierra Label (Sierra Attractions)
 
 ## Story Summary
 
@@ -285,10 +287,10 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 [^ref-11]: [MobyGames - Hoyle Slots](https://www.mobygames.com/game/hoyle-slots-and-video-poker/) - database
 [^ref-12]: [GameFAQs - Hoyle Slots](https://gamefaqs.gamespot.com/) - database
 
-[^ref-9]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – Series history, publisher transitions, commercial performance data
 
 [^ref-7]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=general) – Sierra game archive, release information, packaging documentation
 
 [^ref-15]: [Internet Archive – Hoyle Slots & Video Poker (2001)](https://archive.org/details/HoyleSlotsVideoPokerSierra2001) – Game preservation, emulated version, documentation archive
 
 [^ref-16]: [eBay – Hoyle Slots & Video Poker (Sierra)](https://www.ebay.com/itm/127156491821) – Retail pricing data, physical media information, market availability
+[^ref-17]: [GameFAQs – Hoyle Slots and Video Poker](https://gamefaqs.gamespot.com/pc/549024-hoyle-slots-and-video-poker) – user reviews, game database entry

@@ -10,14 +10,14 @@ series: NASCAR Racing
 engine: NASCAR Racing 2 simulation engine
 protagonist: NASCAR Driver (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: NASCAR Racing 2 Grand National Series Expansion was an add-on pack for
   Sierra's NASCAR Racing 2, developed by Papyrus Design Group in 1997. The expansion...
 tags: [1990s, nascar-racing, racing, sierra]
 ---
 # NASCAR Racing 2 Grand National Series Expansion
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ The Busch Grand National Series represented NASCAR's second-tier racing series, 
 > **Developer:** [[Papyrus Design Group]][^ref-1]
 > **Designer:** [[Dave Kaemmer]][^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-6]
+> **Engine:** NASCAR Racing 2 simulation engine[^ref-1]
 > **Platforms:** PC, Windows 95, Windows 98, MS-DOS[^ref-7]
 > **Release Year:** 1997
 > **Series:** NASCAR Racing
+> **Protagonist:** NASCAR Driver (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

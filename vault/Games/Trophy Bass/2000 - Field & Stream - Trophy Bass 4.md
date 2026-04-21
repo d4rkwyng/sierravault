@@ -12,7 +12,7 @@ series: Trophy Bass
 engine: null
 protagonist: Angler (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-26'
+last_updated: '2026-04-15'
 description: "Field & Stream: Trophy Bass 4 is a fishing simulation developed by Dynamix and published by Sierra Sports in 2000, featuring 25 real lakes, over 30 fish species, and 3D graphics with Force Feedback support."
 tags:
   - 2000s
@@ -23,7 +23,7 @@ tags:
 ---
 # Field & Stream: Trophy Bass 4
 
-<small style="color: gray">Last updated: March 26, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -133,7 +133,6 @@ Field & Stream: Trophy Bass 4 is not currently available on modern digital store
 [^ref-4]: [GamePressure – Field & Stream: Trophy Bass 4](https://www.gamepressure.com/games/field-stream-trophy-bass-4/zfae9) – 1000+ gadgets, 30+ species, 25 lakes, multiplayer modes, system requirements
 [^ref-5]: [IGN – Field & Stream: Trophy Bass 4](https://www.ign.com/games/field-stream-trophy-bass-4) – 8/10 review score
 [^ref-6]: [The Digital Antiquarian – Trophy Bass](https://www.filfre.net/?s=Trophy+Bass) – Commercial success analysis, Wal-Mart sales
-[^ref-2]: [MobyGames – Trophy Bass Series Credits](https://www.mobygames.com/game/4831/trophy-bass/) – Kurt Weber designer credit
 [^ref-8]: [GameSpot – Field & Stream: Trophy Bass 4 Review](http://www.gamespot.com/pc/sports/fieldstreamtrophybass4/review.html) – 8.2/10 by Stephen Poole, 640x480, Force Feedback, WON.net, multimedia tips
 [^ref-9]: [MyAbandonware – Field & Stream: Trophy Bass 4](https://www.myabandonware.com/game/field-stream-trophy-bass-4-dax) – 4.75/5 rating, preservation download
 [^ref-10]: [CNET Download – Trophy Bass 4](https://download.cnet.com/trophy-bass-4/3000-7536_4-10006451.html) – 4.2/5 user rating

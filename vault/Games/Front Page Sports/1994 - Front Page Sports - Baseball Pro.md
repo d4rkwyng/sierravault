@@ -11,14 +11,14 @@ series: Front Page Sports
 engine: Physics-based engine with motion capture technology
 protagonist: Team Manager (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Front Page Sports Baseball Pro was a groundbreaking baseball simulation
   series developed by Dynamix and published by Sierra On-Line throughout the 1990s....
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports Baseball Pro
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,9 +30,11 @@ The Front Page Sports Baseball Pro series was positioned as a mature, contemplat
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Charlie Rogers, [[Doug Johnson]], Glen Wolfram, Isamu Maruhashi, Jim Hansen[^ref-1]
 > **Publisher:** [[Sierra On-Line]], Inc.[^ref-2]
+> **Engine:** Physics-based engine with motion capture technology[^ref-1]
 > **Platforms:** DOS, Microsoft Windows, Windows 95[^ref-5]
 > **Release Year:** 1994
 > **Series:** Front Page Sports
+> **Protagonist:** Team Manager (player-controlled)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

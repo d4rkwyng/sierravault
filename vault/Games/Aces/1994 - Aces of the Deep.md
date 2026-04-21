@@ -10,14 +10,14 @@ series: Aces Series
 engine: 3D-Grafikengine
 protagonist: U-Boat Commander
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Aces of the Deep stands as one of the most acclaimed submarine simulations
   ever created, developed by Dynamix and published by Sierra On-Line in 1994. Set...
 tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Deep
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game was groundbreaking for its time, featuring what the German gaming wiki 
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Alan Roberts, Dennis A. Kilgore, Langdon Beeck, Mike Jones[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** 3D-Grafikengine[^ref-1]
 > **Platforms:** DOS, IBM PC, MS-DOS, PC, Windows, Windows 3.1, Windows 95[^ref-5]
 > **Release Year:** 1994
-> **Series:** Aces Series[^ref-6]
+> **Series:** Aces Series
+> **Protagonist:** U-Boat Commander
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

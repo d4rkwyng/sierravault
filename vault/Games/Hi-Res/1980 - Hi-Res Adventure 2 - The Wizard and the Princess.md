@@ -11,7 +11,7 @@ series: Hi-Res Adventure
 engine: ADL
 protagonist: The Wanderer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: 'Hi-Res Adventure #2: The Wizard and the Princess (also known as The
   Wizard and the Princess with a leading article) is a graphic adventure game written
   for...'
@@ -19,7 +19,7 @@ tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi-Res Adventure #2: The Wizard and the Princess
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -34,10 +34,11 @@ This pioneering title served as a precursor to Sierra On-Line's legendary [[1984
 > **Designer:** [[Roberta Williams]][^ref-1]
 > **Programmer:** [[Ken Williams]][^ref-1]
 > **Publisher:** On-Line Systems[^ref-1]
-> **Platforms:** Apple II, Atari 8-bit, IBM PC, PC-88, PC-98, FM-7, IBM PCjr, Commodore 64[^ref-8]
-> **Release Year:** September 1980[^ref-1]
-> **Series:** Hi-Res Adventure #2
 > **Engine:** ADL[^ref-9]
+> **Platforms:** Apple II, Atari 8-bit, IBM PC, PC-88, PC-98, FM-7, IBM PCjr, Commodore 64[^ref-8]
+> **Release Year:** 1980[^ref-1]
+> **Series:** Hi-Res Adventure #2
+> **Protagonist:** The Wanderer
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -103,7 +104,7 @@ The Wizard and the Princess was written by Roberta Williams in 1980, building on
 
 As with Mystery House, Wizard and the Princess was initially distributed by On-Line Systems in plastic bags containing a 5¼-inch floppy disk and instruction sheet[^ref-8]. The instruction sheet had the title listed as "The Wizard and the Princess" with the leading article, though marketing materials varied in their use of the article.
 
-### Technical Innovation
+### Technical Achievements
 
 The game significantly improved upon Mystery House by adding color graphics[^ref-3]. It was the first adventure game to have full-color graphics[^ref-3], a major technical achievement. The Apple II could only display six different colors simultaneously, but clever use of dithering made it possible to give the illusion of more colors on the screen[^ref-8], showcasing the technical ingenuity that would characterize Sierra's development approach.
 

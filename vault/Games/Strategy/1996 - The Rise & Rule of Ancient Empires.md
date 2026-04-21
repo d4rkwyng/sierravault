@@ -10,7 +10,7 @@ series: Standalone
 engine: Impressions City Builder
 protagonist: Empire Ruler (player-named)
 sierra_lineage: Sierra Published
-last_updated: '2026-01-16'
+last_updated: '2026-04-15'
 composer: [Keith Zizza]
 description: The Rise & Rule of Ancient Empires is a 1996 empire-building strategy
   game developed by Impressions Games and published by Sierra On-Line. The game...
@@ -18,7 +18,7 @@ tags: [1990s, sierra, standalone, strategy]
 ---
 # The Rise & Rule of Ancient Empires
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,10 +32,12 @@ The game featured six playable civilizations—Greeks, Egyptians, Indians, Mesop
 > **Developer:** [[Impressions Games]][^ref-1]
 > **Designer:** Gregor Koomey[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Impressions City Builder[^ref-1]
 > **Composer:** Keith Zizza[^ref-1]
 > **Platforms:** Microsoft Windows, Windows 3.x[^ref-7]
 > **Release Year:** 1996
-> **Series:** None
+> **Series:** Standalone
+> **Protagonist:** Empire Ruler (player-named)
 > **Sierra Lineage:** Sierra Published
 
 ## Story Summary

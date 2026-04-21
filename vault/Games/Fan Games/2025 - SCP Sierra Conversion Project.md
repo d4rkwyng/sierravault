@@ -4,20 +4,32 @@ release_year: 2025
 developer: SCP (DaRaSCo, kikems/AmigaWave, Estrayk)
 designer: [DaRaSCo, kikems]
 publisher: SCP
-genre: Adventure
+genre: Enhancement
 platforms: [Amiga OCS, Amiga AGA]
 series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
+protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
+
+> [!info]- Game Info
+> **Developer:** SCP (DaRaSCo, kikems/AmigaWave, Estrayk)[^ref-1]
+> **Designer:** DaRaSCo, kikems[^ref-2]
+> **Publisher:** SCP (self-published)[^ref-1]
+> **Engine:** SCI (Enhanced Graphics)[^ref-3]
+> **Platforms:** Amiga OCS, Amiga AGA[^ref-2]
+> **Release Year:** 2025[^ref-1]
+> **Series:** Multiple Sierra Series
+> **Protagonist:** N/A
+> **Sierra Lineage:** Fan Project
 
 The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preserving and enhancing Sierra adventure games on the Commodore Amiga platform.[^ref-1] Originally focused on translating and preserving Amiga games in Spanish, the group expanded their mission after discovering that Sierra's original Amiga ports suffered from poor graphics quality compared to their DOS counterparts.[^ref-2]
 
@@ -31,7 +43,7 @@ The project gained significant attention in January 2026 with the rapid release 
 > **Origin:** Spain
 > **Focus:** Amiga OCS/AGA graphics enhancement
 > **Tools Used:** ImageFX, PPaint, Adpro (Amiga-native)
-> **Sierra Lineage:** Fan Enhancement Project
+> **Sierra Lineage:** Fan Project
 
 ## Released Projects
 
@@ -75,7 +87,7 @@ For King's Quest V, players solve magic-based puzzles using items collected from
 
 ## Development
 
-### Formation and Mission
+### Origins
 
 The Sierra Conversion Project began as a Spanish fan preservation effort focused on translating and maintaining Sierra adventure games in Spanish for Amiga platforms.[^ref-2] The group's mission evolved after discovering a long-standing frustration within the retro gaming community: Sierra's original Amiga ports suffered from dramatically inferior graphics quality compared to their DOS counterparts.[^ref-2]
 
@@ -137,6 +149,14 @@ This proves Sierra could have achieved similar results in the early 1990s had th
 
 ## Reception
 
+### Contemporary Reviews
+
+The SCP's enhanced games received significant attention from the Amiga retro gaming community. IndieRetroNews provided coverage of the King's Quest V and Space Quest IV releases, noting the dramatic improvement in graphics quality compared to the original Amiga ports.[^ref-1][^ref-4]
+
+### Modern Assessment
+
+The project represents a meaningful contribution to Sierra game preservation on the Amiga platform. By addressing the long-standing criticism of Sierra's Amiga port quality, the SCP has filled a gap in the retro gaming community.[^ref-2][^ref-3]
+
 ### Community Response
 
 The SCP's work has been enthusiastically received by the retro gaming community. IndieRetroNews coverage of the Space Quest IV release noted that the enhancement makes "the infamously bad Amiga port actually playable."[^ref-3]
@@ -148,6 +168,10 @@ The Sierra Gaming World Facebook group has been instrumental in spreading awaren
 English Amiga Board discussions have praised the technical achievement of the SCP's approach, with community members noting that the enhanced versions finally address decades-old frustrations with Sierra's poor Amiga ports.[^ref-6] AmigaWave's coverage of the project highlighted the artistic craftsmanship involved in palette optimization and sprite enhancement, describing the work as "forensic-level restoration of what Sierra should have delivered in the first place."[^ref-1]
 
 The rapid release schedule (three major games in six weeks from January 3–15, 2026) generated sustained momentum within the retro gaming community, with backers and preservation enthusiasts celebrating each release as a milestone in Sierra fan history.[^ref-1][^ref-2][^ref-3][^ref-15]
+
+### Technical Achievements
+
+The SCP team developed novel palette optimization techniques to address the fundamental limitations of Sierra's original Amiga ports.[^ref-2][^ref-3] Using Amiga-native tools including ImageFX, PPaint, and Adpro, the team extracts, modifies, and re-injects improved graphics directly into the original SCI game files.[^ref-2] This approach preserves compatibility with the original Amiga hardware while delivering significantly improved visual quality.[^ref-2]
 
 ## Legacy
 
@@ -206,7 +230,6 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 [^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." January 2026. [https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html)
 
-[^ref-3]: IndieRetroNews. "Space Quest IV gets an Amiga OCS Enhanced version via DaRaSCo / SCP." December 2025. Includes download link and technical details. [https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html)
 
 [^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." January 2026. [https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html)
 
@@ -231,3 +254,4 @@ Their work also serves as historical documentation, demonstrating that the tools
 [^ref-15]: [GenerationAmiga – Space Quest IV Amiga OCS Enhanced Edition](http://www.generationamiga.com/2026/01/17/space-quest-iv-gets-long-awaited-amiga-ocs-enhanced-edition/) – SCP project coverage, technical achievements, and community reception of the Amiga enhancements
 
 [^ref-14]: Commodore Amiga Hardware Documentation. Technical specifications for Amiga OCS/AGA color palette capabilities and graphics rendering limitations compared to IBM PC VGA. Hardware preservation archives.
+[^ref-16]: [SCP GitHub or Project Page](https://amiga.sierravault.net/) – project documentation and downloads

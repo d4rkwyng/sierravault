@@ -10,14 +10,14 @@ series: Mixed-Up Mother Goose
 engine: SCI32
 protagonist: Child Player Character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: Mixed-Up Mother Goose Deluxe is an enhanced educational adventure game
   originally created by Roberta Williams and released by Sierra On-Line in 1995. This...
 tags: [1990s, educational, mixed-up-mother-goose, roberta-williams, sci, sierra]
 ---
 # Mixed-Up Mother Goose Deluxe
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Mixed-Up Mother Goose was originally introduced by Roberta Williams in 1987 and 
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Design/Writing:** [[Roberta Williams]][^ref-1]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** SCI32[^ref-1]
 > **Platforms:** DOS, Windows, CD-ROM[^ref-1]
 > **Release Year:** 1995
 > **Series:** Mixed-Up Mother Goose
+> **Protagonist:** Child Player Character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

@@ -10,7 +10,7 @@ series: Hi-Res Adventures
 engine: ADL (Adventure Development Language)
 protagonist: Unnamed Time Traveler
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Time Zone, released in February 1982 by On-Line Systems, stands as one
   of the most ambitious adventure games ever created for home computers. Designed
   by...
@@ -18,7 +18,7 @@ tags: [1980s, adventure, hi-res-adventures, roberta-williams, sierra]
 ---
 # Time Zone
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -212,7 +212,7 @@ For Sierra specifically, Time Zone represented an important learning experience.
 
 ## References
 
-[^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – development history, BYTE review, awards, sales information, team size
+[^ref-1]: [Wikipedia – Time Zone (video game)](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – development history, BYTE review, awards, sales information, team size, comprehensive historical details, technical specifications
 [^ref-2]: [MobyGames – Time Zone](https://www.mobygames.com/game/15283/time-zone/) – platforms, release dates, publisher information, ratings, development details, easter eggs
 [^ref-3]: [Sierra Fandom Wiki – Time Zone](https://sierra.fandom.com/wiki/Time_Zone) – pricing, commercial failure, technical specifications, development timeline
 [^ref-4]: [Adventure Gamers – Time Zone](https://adventuregamers.com/walkthrough/time-zone) – plot summary, historical figures, gameplay description
@@ -226,4 +226,4 @@ For Sierra specifically, Time Zone represented an important learning experience.
 [^ref-12]: [Internet Archive – Time Zone Complete Package](https://archive.org/details/on-line-time-zone-a2-1.1-ph) – version information, disk format, preservation notes
 [^ref-13]: [Sierra Gamers Forum – Time Zone Installation](https://www.sierragamers.com/forums/topic/how-to-install-play-time-zone-on-dosbox/) – emulation issues, platform compatibility
 [^ref-14]: [Internet Archive – Time Zone Manual](https://archive.org/stream/vgmuseum_sierra_timezone-manual/timezone-manual_djvu.txt) – game documentation
-[^ref-1]: [Wikipedia – Hi-Res Adventure 5 - Time Zone](https://en.wikipedia.org/wiki/Time_Zone_(video_game)) – provides comprehensive historical details about an early Sierra adventure game, documenting its development, technica...
+[^ref-15]: [MobyGames – Time Zone](https://www.mobygames.com/game/time-zone/) – platform credits, screenshots, release information, user ratings

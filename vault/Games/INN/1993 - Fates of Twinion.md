@@ -11,7 +11,7 @@ series: Shadow of Yserbius
 engine: Shadow of Yserbius game engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-02-07'
+last_updated: '2026-04-15'
 composer: [Russell Lieblich]
 description: Fates of Twinion is a fantasy RPG dungeon crawler developed by Sierra
   On-Line and released in 1993. Originally designed as an online multiplayer game
@@ -20,7 +20,7 @@ tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # Fates of Twinion
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -39,6 +39,7 @@ Sierra tried to create "a more complex game with a wider range of puzzles, traps
 > **Platforms:** DOS, Online service (TSN/INN)[^ref-3]
 > **Release Year:** 1993
 > **Series:** Shadow of Yserbius
+> **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

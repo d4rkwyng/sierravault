@@ -11,7 +11,7 @@ series: Sierra Discovery Series
 engine: Bright Star Engine
 protagonist: Bananas (monkey) and Jack (jack-in-the-box)
 sierra_lineage: Sierra Label (Bright Star)
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 composer: [Gordon van Ekström]
 description: Ready, Set, Read with Bananas & Jack is an educational software title
   developed by Bright Star Technology and published by Sierra On-Line in 1993 as part
@@ -20,7 +20,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -33,11 +33,11 @@ The software features two animated host characters—Bananas, a monkey, and Jack
 > **Designer:** Mark Swardstrom[^ref-5]
 > **Producer:** Lynn Luukinen[^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
-> **Engine:** Unknown
+> **Engine:** Bright Star Engine[^ref-1]
 > **Platforms:** Windows 3.x, Macintosh[^ref-1]
 > **Release Year:** 1993[^ref-1]
-> **Series:** Sierra Discovery Series, Bananas & Jack series, Talking Tutor series[^ref-3]
-> **Protagonists:** Bananas (monkey) and Jack (jack-in-the-box)
+> **Series:** Sierra Discovery Series
+> **Protagonist:** Bananas (monkey) and Jack (jack-in-the-box)
 > **Sierra Lineage:** Bright Star Educational
 
 ## Story Summary

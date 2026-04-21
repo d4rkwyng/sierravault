@@ -10,14 +10,14 @@ series: Birthright
 engine: Modified Doom engine
 protagonist: Regent of Anuire (player-created)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-04-15'
 description: 'Birthright: The Gorgon''s Alliance stands as one of the most ambitious
   and unique entries in Sierra''s catalog, combining turn-based strategy, real-time...'
 tags: [1990s, birthright, rpg, sierra, strategy]
 ---
 # Birthright: The Gorgon's Alliance
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game's scope was unprecedented for its time, essentially functioning as "thr
 > **Developer:** [[Synergistic Software]][^ref-7]
 > **Designer:** Bob Clardy, Ed Stark, Kirt Lemons, Robert C. Clardy[^ref-8]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Engine:** Modified Doom engine[^ref-7]
 > **Platforms:** DOS, Windows 95[^ref-10]
-> **Release Year:** 1997
+> **Release Year:** 1997[^ref-7]
 > **Series:** Birthright
+> **Protagonist:** Regent of Anuire (player-created)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

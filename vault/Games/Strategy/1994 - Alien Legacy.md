@@ -11,14 +11,14 @@ series: Standalone
 engine: Proprietary (Ybarra Productions)
 protagonist: Captain of UNS Calypso
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-04-15'
 description: Alien Legacy is a science fiction real-time strategy game published by
   Sierra On-Line in 1994, developed by Ybarra Productions under the creative direction...
 tags: [1990s, sierra, standalone, strategy]
 ---
 # Alien Legacy
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -33,10 +33,13 @@ Set in a future where humanity faces extinction following an alien attack, Alien
 > **Director:** Andy Riedel[^ref-7]
 > **Composers:** Biard MacGuineas, Steve A. Baker[^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Proprietary (Ybarra Productions)[^ref-7]
 > **Platforms:** MS-DOS[^ref-1]
-> **Release Date:** May 14, 1994[^ref-4]
+> **Release Year:** 1994[^ref-4]
+> **Series:** Standalone
+> **Protagonist:** Captain of UNS Calypso
+> **Sierra Lineage:** Sierra Published
 > **ESRB Rating:** Kids to Adults[^ref-4]
-> **Sierra Lineage:** Third-party Sierra Published
 
 ## Story Summary
 

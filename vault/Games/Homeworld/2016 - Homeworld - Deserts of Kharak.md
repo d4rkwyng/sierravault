@@ -10,7 +10,7 @@ series: Homeworld
 engine: Unity 5
 protagonist: Rachel S'jet
 sierra_lineage: Post-Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: 'Homeworld: Deserts of Kharak is a real-time strategy game that serves
   as a prequel to the classic Homeworld series, taking place over a century before
   the...'
@@ -18,7 +18,7 @@ tags: [2010s, homeworld, sierra, strategy]
 ---
 # Homeworld: Deserts of Kharak
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,10 +30,12 @@ Originally conceived as an independent project called Hardware: Shipbreakers, th
 > **Developer:** [[Blackbird Interactive]][^ref-2]
 > **Designer:** Aaron Kambeitz, Rob Cunningham, Rory McGuire[^ref-7]
 > **Publisher:** [[Gearbox Publishing]][^ref-8]
+> **Engine:** Unity 5[^ref-2]
 > **Platforms:** PC, Windows, macOS, Linux, Steam[^ref-9]
 > **Release Year:** 2016
 > **Series:** Homeworld
-> **Sierra Lineage:** Legacy Title
+> **Protagonist:** Rachel S'jet
+> **Sierra Lineage:** Post-Sierra
 
 ## Story Summary
 

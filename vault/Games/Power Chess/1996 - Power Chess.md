@@ -10,14 +10,14 @@ series: Power Chess
 engine: WChess by David Kittinger
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-04-15'
 description: Power Chess was an innovative chess software program developed by Sierra
   On-Line in 1996, featuring groundbreaking adaptive artificial intelligence...
 tags: [1990s, power-chess, sierra]
 ---
 # Power Chess
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The program represented a significant departure from conventional chess software
 > **Developer:** [[Sierra On-Line]][^ref-5]
 > **Designer:** Elon Gasper, Eric Tangborn, H. Heiss, John Gilmore, Tom Abbott, W. Wild[^ref-5]
 > **Publisher:** Sierra On-Line[^ref-6]
+> **Engine:** WChess by David Kittinger[^ref-5]
 > **Platforms:** DOS, Windows, Windows 95, Windows 98, Windows XP, Windows Vista[^ref-7]
 > **Release Year:** 1996
 > **Series:** Power Chess
+> **Protagonist:** N/A
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

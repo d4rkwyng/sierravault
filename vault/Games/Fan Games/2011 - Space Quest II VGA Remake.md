@@ -10,14 +10,14 @@ series: Space Quest
 engine: AGS (Adventure Game Studio)
 protagonist: Roger Wilco
 sierra_lineage: Fan Project
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: 'Space Quest II VGA Remake is a fan-made graphical remake of the classic
  1987 Sierra On-Line adventure game "Space Quest II: Vohaul''s Revenge," originally...'
 tags: [2010s, adventure, sierra, space-quest, two-guys]
 ---
 # Space Quest II VGA Remake
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,7 +29,7 @@ Infamous Adventures made the game available as a free download, reflecting their
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Adventures]][^ref-1]
-> **Original Designers:** [[Scott Murphy]], [[Mark Crowe]] (The Two Guys from Andromeda)[^ref-1]
+> **Design/Writing:** [[Scott Murphy]], [[Mark Crowe]] (original Two Guys from Andromeda)[^ref-1]
 > **Publisher:** Infamous Adventures[^ref-3]
 > **Engine:** AGS (Adventure Game Studio)
 > **Platforms:** Windows, macOS, Linux[^ref-3]
@@ -233,3 +233,6 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 [^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
 [^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
 [^ref-18]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information
+[^ref-18]: [Infamous Adventures – Space Quest II VGA](https://www.infamous-quests.com/space-quest-ii-vga-remake/) – developer page
+[^ref-19]: [Sierra Chest – Space Quest II VGA Remake](https://sierrachest.com/index.php?a=games&id=450&title=space-quest-ii-vga-remake&fld=general) – fan game catalog entry
+[^ref-20]: [MobyGames – Space Quest II VGA Remake](https://www.mobygames.com/game/space-quest-ii-vga-remake/) – game database

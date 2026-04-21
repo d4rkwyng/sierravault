@@ -10,14 +10,14 @@ series: Standalone
 engine: Pre-AGI
 protagonist: Young child adventurer
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Troll's Tale is a children's adventure game developed by Al Lowe and
   published by Sierra On-Line in 1983. Originally created as one of Al Lowe's earliest...
 tags: [1980s, adventure, agi, al-lowe, sierra, standalone]
 ---
 # Troll's Tale
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 
 ## Overview
@@ -30,9 +30,11 @@ Sierra acquired Troll's Tale from Sunnysoft along with Dragon's Keep and Bop-A-B
 > **Developer:** Al Lowe[^ref-1]
 > **Designer:** [[Al Lowe]], Michael MacChesney[^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Pre-AGI[^ref-1]
 > **Platforms:** Apple II, Atari 8-bit, Coleco Adam, ColecoVision, Commodore 64, DOS, IBM PC, PCjr[^ref-8]
 > **Release Year:** 1983
-> **Series:** null
+> **Series:** Standalone
+> **Protagonist:** Young child adventurer
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

@@ -8,16 +8,16 @@ genre: Adventure
 platforms: [CD-ROM, DOS, DOS, Microsoft Windows, Windows]
 series: Inca
 engine: Gob
-protagonist: El Dorado
-sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+protagonist: Atahualpa
+sierra_lineage: Sierra Published
+last_updated: '2026-04-15'
 description: 'Inca II: Nations of Immortality is the sequel to Inca, the surreal space
   combat/adventure game with a fantasy take on Incan mythologies. Developed by Coktel...'
 tags: [1990s, adventure, inca, sierra]
 ---
 # Inca II: Nations of Immortality
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -27,13 +27,13 @@ The game followed protagonist Atahualpa, son of El Dorado, battling enemy Aguirr
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]][^ref-3]
-> **Designer:** Unknown
 > **Publisher:** Coktel Vision / [[Sierra On-Line]][^ref-12]
+> **Engine:** Gob (Coktel Vision engine)[^ref-16]
 > **Platforms:** CD-ROM, DOS, MS-DOS, Microsoft Windows, Windows[^ref-16][^ref-19]
 > **Release Year:** 1993[^ref-18]
 > **Series:** Inca II
-> **Engine:** Gob[^ref-16]
-> **Sierra Lineage:** Core Sierra[^ref-20]
+> **Protagonist:** Atahualpa[^ref-12]
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

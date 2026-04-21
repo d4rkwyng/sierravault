@@ -10,14 +10,14 @@ series: Pro Pilot
 engine: Dynamix Flight Engine
 protagonist: Pilot (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-31'
+last_updated: '2026-04-15'
 description: '**Sierra Pro Pilot 98: The Complete Flight Simulator** was a civilian
   flight simulation game developed by Dynamix and published by Sierra in 1997....'
 tags: [1990s, pro-pilot, sierra, simulation]
 ---
 # Sierra Pro Pilot 98
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ Despite ambitious marketing claims touting it as "the best program of its kind"[
 > **Developer:** [[Dynamix]], Sub-Logic[^ref-1][^ref-2]
 > **Designer:** Brian Gallardo, Graeme Bayless, Mark R. Pechnick[^ref-1]
 > **Publisher:** Sierra[^ref-1]
+> **Engine:** Dynamix Flight Engine[^ref-1]
 > **Platforms:** Microsoft Windows 95/98[^ref-1]
 > **Release Year:** 1997
 > **Series:** Pro Pilot
+> **Protagonist:** Pilot (player-named)
 > **ESRB Rating:** Everyone[^ref-6]
 > **Sierra Lineage:** Core Sierra
 

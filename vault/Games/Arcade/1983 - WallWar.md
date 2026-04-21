@@ -10,14 +10,14 @@ series: Standalone
 engine: 6502 Assembly
 protagonist: Player-controlled paddle
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: Wallwar is an action game developed by Peter Oliphant and published by
   Sierra On-Line for the Atari 8-bit computer systems in 1983. Originally titled "Force...
 tags: [1980s, sierra, standalone]
 ---
 # Wallwar
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -235,10 +235,10 @@ The development story behind Wallwar is perhaps more significant than the game i
 [^ref-11]: [IGDB – WallWar](https://www.igdb.com/games/wallwar) – Internet Games Database entry
 [^ref-12]: [UVList – WallWar](https://www.uvlist.net/game-81697-Wallwar) – Universal Videogame List database entry
 
-[^ref-4]: [Internet Archive – WallWar (1982)](https://archive.org/details/a8b_WallWar_1982_Sierra_On_Line_US_k_file) – Atari 8-bit preservation, k-file format archive, game emulation
 
-[^ref-5]: [Atari Mania – WallWar](https://www.atarimania.com/game-atari-400-800-xl-xe-wallwar_6908.html) – Atari game database, platform compatibility details
 
 [^ref-15]: [Vintage-Sierra.net – WallWar](https://www.vintage-sierra.net/arcade/wallwar.php) – Sierra arcade games archive, game documentation
 
 [^ref-16]: [Eli's Software Encyclopedia – WallWar](http://www.elisoftware.org/w/index.php/WallWar_(Atari_8-Bit,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – Software archive, release date documentation, format information
+[^ref-16]: [MobyGames – WallWar](https://www.mobygames.com/game/wallwar/) – platform information, credits, screenshots
+[^ref-17]: [Sierra Chest – WallWar](https://sierrachest.com/index.php?a=games&id=284&title=wallwar&fld=general) – Sierra catalog entry, release documentation

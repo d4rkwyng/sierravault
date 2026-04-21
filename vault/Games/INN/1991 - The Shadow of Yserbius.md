@@ -10,14 +10,14 @@ series: Shadow of Yserbius
 engine: Multiplayer graphical MUD engine
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: The Shadow of Yserbius was a groundbreaking graphical multi-user dungeon
   (MUD) game that originally launched on The Sierra Network in 1991. Developed by...
 tags: [1990s, rpg, shadow-of-yserbius, sierra]
 ---
 # The Shadow of Yserbius
 
-<small style="color: gray">Last updated: March 8, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ A single-player, non-networked version was released in 1993, though critics were
 > **Developer:** [[Sierra On-Line]], Ybarra Productions[^ref-6]
 > **Designer:** Joe Ybarra, Michael Moore, Karl Buiter, Richard Aronson[^ref-6]
 > **Publisher:** Sierra On-Line[^ref-7]
+> **Engine:** Multiplayer graphical MUD engine[^ref-6]
 > **Platforms:** DOS, MS-DOS, PC, Sierra Network, ImagiNation Network[^ref-8]
 > **Release Year:** 1991
 > **Series:** Shadow of Yserbius
+> **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
@@ -107,7 +109,7 @@ The game was developed by Ybarra Productions Inc. in collaboration with Sierra O
 
 Richard Aronson, one of the designers, had previously provided the voice of Cedric the Owl in King's Quest V[^ref-24]. The development of sequels proved challenging—Aronson later revealed that "Fates of Twinion was so buggy QA refused to test anymore," indicating the pressures the team faced in expanding the online RPG franchise[^ref-24].
 
-### Technical Innovation
+### Technical Achievements
 
 The Shadow of Yserbius was built using a custom multiplayer graphical MUD engine that supported real-time interaction between dozens of players[^ref-8]. The game featured first-person 3D graphics using polygon-based rendering and utilized the AIL/Miles Sound System for audio[^ref-8]. Supporting multiple graphics modes and requiring players to connect through The Sierra Network using dial-up modems, it represented a significant technical challenge for the early 1990s[^ref-1].
 

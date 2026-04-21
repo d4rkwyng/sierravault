@@ -11,7 +11,7 @@ series: Sierra Discovery Series
 engine: Unknown/unnamed
 protagonist: Player (child)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: '**Ready, Set, Read with Bananas & Jack** (also rebranded as **Beginning
   Reading**) is an educational software title developed by Bright Star Technology
   and...'
@@ -19,7 +19,7 @@ tags: [1990s, educational, sierra, sierra-discovery-series]
 ---
 # Ready, Set, Read with Bananas & Jack
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -215,4 +215,4 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 [^ref-13]: [Sierra Wiki – Sierra Discovery Series](https://wiki.sierrahelp.com/index.php/Sierra_Discovery_Series) – series overview and catalog
 [^ref-14]: [MobyGames – Bright Star Technology](https://www.mobygames.com/company/2194/bright-star-technology-inc/) – company credits and game catalog
 [^ref-15]: [Old Games Download – Ready, Set, Read](https://oldgamesdownload.com/ready-set-read/) – educational software preservation and download
-[^ref-12]: [VOGONS Forum – Bright Star Games Discussion](https://www.vogons.org/) – DOS-era software preservation and compatibility discussion
+[^ref-16]: [MobyGames – Ready, Set, Read! with Bananas & Jack](https://www.mobygames.com/game/ready-set-read-with-bananas-jack/) – platform details, credits, screenshots

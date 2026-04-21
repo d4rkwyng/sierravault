@@ -10,14 +10,14 @@ series: Manhunter
 engine: Modified AGI (Adventure Game Interpreter)
 protagonist: Manhunter
 sierra_lineage: Core Sierra
-last_updated: '2026-02-12'
+last_updated: '2026-04-15'
 description: 'Manhunter: New York is a post-apocalyptic adventure game released in
   1988 by Sierra On-Line, developed by the husband-and-wife team Barry and Dave Murray...'
 tags: [1980s, adventure, agi, manhunter, sierra]
 ---
 # Manhunter: New York
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game represents a significant departure from Sierra's typical family-oriente
 > **Developer:** [[Evryware]][^ref-1]
 > **Designer:** Barry Murray, Dave Murray, Dee Dee Murray[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Modified AGI[^ref-1]
 > **Platforms:** DOS, Amiga, Apple II, Apple IIGS, Atari ST, Macintosh[^ref-8]
 > **Release Year:** 1988
 > **Series:** Manhunter
+> **Protagonist:** Manhunter
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

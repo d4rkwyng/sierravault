@@ -10,14 +10,14 @@ series: Standalone
 engine: SCI1
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Jones in the Fast Lane is a life simulation game developed by Sierra
   On-Line and released in 1990. The game represents a unique departure from Sierra's...
 tags: [1990s, sci, sierra, simulation, standalone]
 ---
 # Jones in the Fast Lane
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,9 +31,11 @@ The game earned significant recognition, winning Computer Gaming World's "Advent
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** [[Bill Davis]], [[Warren Schwader]][^ref-8]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** SCI1[^ref-1]
 > **Platforms:** DOS, Windows, Amiga, CD-ROM[^ref-9]
 > **Release Year:** 1990
 > **Series:** Standalone
+> **Protagonist:** Player-created character
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

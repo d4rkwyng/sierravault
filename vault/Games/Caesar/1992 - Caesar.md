@@ -10,14 +10,14 @@ series: Caesar
 engine: Impressions City Builder
 protagonist: Roman Governor (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: Caesar, released in October 1992, stands as a groundbreaking entry in
  the city-building genre, marking the first successful adaptation of SimCity's urban...
 tags: [1990s, caesar, sierra]
 ---
 # Caesar
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ The game's significance extends far beyond its historical theme. Caesar introduc
 > **Developer:** [[Impressions Games]][^ref-2]
 > **Designer:** [[Chris Beatrice]], [[David Lester]], [[Simon Bradbury]][^ref-7]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
+> **Engine:** Impressions City Builder[^ref-2]
 > **Platforms:** Amiga, Atari ST, DOS, IBM PC[^ref-8]
-> **Release Year:** 1992 (originally Amiga, ported to DOS 1993)
+> **Release Year:** 1992[^ref-2]
 > **Series:** Caesar
+> **Protagonist:** Roman Governor (player-named)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

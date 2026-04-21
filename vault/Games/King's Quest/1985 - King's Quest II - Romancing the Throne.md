@@ -10,7 +10,7 @@ series: King's Quest
 engine: AGI
 protagonist: King Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 composer: [Al Lowe]
 description: 'King''s Quest II: Romancing the Throne is the second installment in
   the King''s Quest series, released in May 1985 for IBM PC and PCjr. Designed by
@@ -19,7 +19,7 @@ tags: [1980s, adventure, agi, king-s-quest, roberta-williams, sierra]
 ---
 # King's Quest II: Romancing the Throne
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -126,7 +126,7 @@ The manual contains a prologue written by Annette Childs about King Edward's spi
 
 The booter version plays music at a slower tempo and louder volume compared to the DOS conversion[^ref-11].
 
-### Technical Innovations
+### Technical Achievements
 
 - **First opening cutscene:** First King's Quest title to feature an opening cutscene following the credits sequence[^ref-32]
 - **Goal-sensitive events:** The game world dynamically changes as players advance—new characters appear, areas open and close based on story progression[^ref-10][^ref-32]

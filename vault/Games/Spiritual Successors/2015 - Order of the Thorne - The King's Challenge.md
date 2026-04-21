@@ -10,7 +10,7 @@ series: Order of the Thorne
 engine: Adventure Game Studio
 protagonist: Finn the Bard
 sierra_lineage: Spiritual Successor
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: '**Order of the Thorne: The King''s Challenge** is a point-and-click
   adventure game developed by Infamous Quests and released in 2015. Described as "a
   classic...'
@@ -18,7 +18,7 @@ tags: [2010s, adventure, order-of-the-thorne, sierra]
 ---
 # Order of the Thorne: The King's Challenge
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -182,7 +182,7 @@ The game features extensive voice acting, bringing the fairy tale world to life:
 
 The voice acting helps establish the fairy tale atmosphere and gives personality to the diverse cast of characters Finn encounters.
 
-### Technical Implementation
+### Technical Achievements
 
 Built using the "Adventure Game Studio (AGS)" engine[^ref-5], developed by Chris Jones, the game features "hand-drawn pixel art reminiscent of 1990s adventure games"[^ref-5]. The technical specifications are deliberately modest, ensuring broad compatibility:
 

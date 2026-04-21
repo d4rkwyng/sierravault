@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: Hoyle Word Games 2001 is a word puzzle compilation developed and published
  by Sierra On-Line, released on November 14, 2000 for PC with versions available...
 tags: [2000s, hoyle, puzzle, sierra]
 ---
 # Hoyle Word Games 2001
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,10 +30,12 @@ Sierra enhanced the classic word game experience with graphics and sound effects
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
 > **Publisher:** Sierra Entertainment / Vivendi Universal Games[^ref-1][^ref-6]
+> **Engine:** Proprietary (Windows)[^ref-6]
 > **Platforms:** Windows 95/98/Me/2000/NT, Mac OS[^ref-6][^ref-2]
-> **Release Year:** 2000
+> **Release Year:** 2001[^ref-1]
 > **Series:** Hoyle
-> **Genre:** Puzzle / Logic[^ref-3]
+> **Protagonist:** N/A
+> **Sierra Lineage:** Core Sierra
 > **ESRB Rating:** Everyone (E)[^ref-5]
 
 ## Games Included

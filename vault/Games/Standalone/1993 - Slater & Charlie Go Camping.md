@@ -10,14 +10,14 @@ series: Educational Interactive Storybooks
 engine: SCI1.1
 protagonist: Slater the Petrosaur
 sierra_lineage: Core Sierra
-last_updated: '2026-01-09'
+last_updated: '2026-04-15'
 description: Slater & Charlie Go Camping is an educational interactive storybook released
   by Sierra On-Line on May 19, 1993, for MS-DOS and Macintosh platforms. The game...
 tags: [1990s, educational, educational-interactive-storybooks, sci, sierra]
 ---
 # Slater & Charlie Go Camping: A Talking Book I Can Read "All By Myself."
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -30,6 +30,9 @@ Slater & Charlie Go Camping is an educational interactive storybook released by 
 > **Engine:** SCI1.1[^ref-4]
 > **Platforms:** DOS, Mac, Windows 3.1[^ref-1]
 > **Release Year:** 1993
+> **Series:** Educational Interactive Storybooks
+> **Protagonist:** Slater the Petrosaur
+> **Sierra Lineage:** Core Sierra
 
 Developed using Sierra's Creative Interpreter (SCI) engine[^ref-4], this educational title was part of Sierra's broader push into the children's software market in the early 1990s. The game was designed to compete with Brøderbund's popular Living Books series[^ref-5] and represents Sierra's first release from their Red Dog division[^ref-5]. Contemporary reviewers described it as "a remarkably smooth blend of children's storybooks with Saturday morning cartoons"[^ref-1], though noted it was "not quite as richly animated as the Living Books"[^ref-1].
 Sierra's entry into educational software was motivated by market research showing strong demand for software that combined entertainment with learning, particularly among parents seeking quality content for young children[^ref-2]. The game's release on both floppy disk and CD-ROM formats demonstrated Sierra's commitment to reaching diverse audiences with varying hardware capabilities[^ref-5].

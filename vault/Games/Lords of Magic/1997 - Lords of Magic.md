@@ -10,14 +10,14 @@ series: Lords of the Realm
 engine: Impressions Strategy Engine
 protagonist: Faith Champion (player-selected)
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Lords of Magic is a turn-based fantasy strategy game that combines elements
   of role-playing games with traditional empire building mechanics. Developed by...
 tags: [1990s, lords-of-the-realm, sierra, strategy]
 ---
 # Lords of Magic
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Lords of Magic allows players to choose from eight different faiths - Life, Deat
 > **Developer:** [[Impressions Games]][^ref-7]
 > **Designer:** [[Chris Beatrice]], Jeff Fiske, Steve Serafino[^ref-8]
 > **Publisher:** [[Sierra On-Line]][^ref-9]
+> **Engine:** Impressions Strategy Engine[^ref-7]
 > **Platforms:** PC, Windows 95, Windows 98, Steam[^ref-10]
 > **Release Year:** 1997
-> **Series:** Lords of the Realm
+> **Series:** Lords of Magic
+> **Protagonist:** Faith Champion (player-selected)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

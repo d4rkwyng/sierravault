@@ -11,14 +11,14 @@ series: Krondor
 engine: True3D
 protagonist: Squire James
 sierra_lineage: Core Sierra
-last_updated: '2026-02-04'
+last_updated: '2026-04-15'
 description: Return to Krondor is a fantasy role-playing game released in November
   1998, serving as the direct sequel to the critically acclaimed Betrayal at Krondor...
 tags: [1990s, krondor, rpg, sierra]
 ---
 # Return to Krondor
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -321,6 +321,5 @@ The game's legacy is complicated by Sierra's decision to abandon the franchise. 
 [^ref-46]: [Speedrun.com Guide](https://www.speedrun.com/return_to_krondor/guides/g6i9r) – speedrunning strategies
 [^ref-47]: [Ataniel.org Fan Site](http://www.ataniel.org/rkrondor3.htm) – fan resources
 [^ref-48]: [Narkive Forum – Soundtrack Discussion](https://comp.sys.ibm.pc.games.rpg.narkive.com/jfRmTQ8C/crosspost-return-to-krondor-soundtrack) – fan testimonials, Raymond Feist response
-[^ref-1]: [Academy of Interactive Arts Award Nomination](https://en.wikipedia.org/wiki/Return_to_Krondor#Reception) – AIAS PC RPG of Year
+[^ref-49]: [Academy of Interactive Arts Award Nomination](https://en.wikipedia.org/wiki/Return_to_Krondor#Reception) – AIAS PC RPG of Year
 [^ref-50]: [Game-Over.net Review](https://www.game-over.net/review/december/rtk/) – series intentions
-[^ref-44]: [Sierra Chest Full Entry](https://sierrachest.com/index.php?a=games&id=209&title=return-to-krondor) – Sierra archive

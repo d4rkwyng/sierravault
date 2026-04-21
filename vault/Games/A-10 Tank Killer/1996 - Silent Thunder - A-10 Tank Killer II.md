@@ -10,7 +10,7 @@ series: A-10 Tank Killer
 engine: Dynamix' Terrain and 3DSpace technologies
 protagonist: A-10 Warthog Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: '**Silent Thunder: A-10 Tank Killer II** is a flight simulation video
   game developed by Dynamix and published by Sierra On-Line in 1996. The game serves
   as...'
@@ -18,7 +18,7 @@ tags: [1990s, a-10-tank-killer, sierra, simulation]
 ---
 # Silent Thunder: A-10 Tank Killer II
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -32,9 +32,11 @@ GameSpot's Chris Hudak awarded the game an impressive 8.5/10, praising it as "a 
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** Charles Gilley, Frank Evers, Mike Jahnke, Nels Bruckner[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
+> **Engine:** Dynamix Terrain and 3DSpace technologies[^ref-1]
 > **Platforms:** DOS, Windows, Windows 95, Windows 3.1[^ref-7]
 > **Release Year:** 1996
 > **Series:** A-10 Tank Killer
+> **Protagonist:** A-10 Warthog Pilot
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

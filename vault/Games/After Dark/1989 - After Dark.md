@@ -11,7 +11,7 @@ series: After Dark
 engine: Native Mac/Windows
 protagonist: N/A
 sierra_lineage: Sierra Published
-last_updated: '2026-01-09'
+last_updated: '2026-04-15'
 description: After Dark represents one of the most iconic screensaver collections
   in computing history, originally created by Berkeley Systems for Apple Macintosh
   in...
@@ -19,7 +19,7 @@ tags: [1980s, after-dark, puzzle, sierra]
 ---
 # After Dark
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -31,10 +31,12 @@ Berkeley Systems maintained a philosophy of remaining "aggressively stupid"[^ref
 > **Developer:** [[Berkeley Systems]][^ref-9]
 > **Designer:** Jack Eastman, Patrick Beard[^ref-10]
 > **Publisher:** Berkeley Systems[^ref-9]
+> **Engine:** Native Mac/Windows[^ref-9]
 > **Platforms:** Apple Macintosh, Microsoft Windows, DOS, Windows 95, Windows 98, Windows Me, Mac OS Classic, Java mobile phone (J2ME), Android, iOS, itch.io[^ref-3][^ref-8][^ref-15]
 > **Release Year:** 1989
 > **Series:** After Dark
-> **Sierra Lineage:** Acquired Property
+> **Protagonist:** N/A
+> **Sierra Lineage:** Sierra Published
 
 ## Story Summary
 

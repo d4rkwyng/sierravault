@@ -10,14 +10,14 @@ series: Front Page Sports
 engine: Dynamix's new 3-D engine
 protagonist: Ski Racer (player-controlled)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: '**Front Page Sports: Ski Racing** is a 1997 skiing simulation game developed
   by Dynamix and published by Sierra On-Line. The game simulates the four World...'
 tags: [1990s, front-page-sports, sierra]
 ---
 # Front Page Sports: Ski Racing
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Unlike the snowboarding games popular on console systems at the time, Front Page
 > **Developer:** [[Dynamix]][^ref-1]
 > **Designer:** [[Scott Youngblood]][^ref-5]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
+> **Engine:** Dynamix's new 3-D engine[^ref-5]
 > **Platforms:** DOS, Microsoft Windows, Windows 95[^ref-5]
 > **Release Year:** 1997
 > **Series:** Front Page Sports
+> **Protagonist:** Ski Racer (player-controlled)
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary

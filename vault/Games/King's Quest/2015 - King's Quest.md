@@ -10,14 +10,14 @@ series: King's Quest
 engine: Unreal Engine 3
 protagonist: Graham
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-15'
 description: King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen
   and published by Activision under the revived Sierra Entertainment brand for...
 tags: [2010s, adventure, king-s-quest, sierra]
 ---
 # King's Quest
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
@@ -192,7 +192,7 @@ This game is not available on GOG[^ref-7].
 - [[1998 - King's Quest - Mask of Eternity]]
 
 ## References
-[^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception
+[^ref-1]: [Wikipedia – King's Quest (2015)](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29) – history, plot, gameplay, development, reception; 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
 [^ref-2]: [PCGamingWiki – King's Quest (2015)](https://www.pcgamingwiki.com/wiki/King%27s_Quest_%282015%29) – technical specs, engine information
 [^ref-3]: [MobyGames – King's Quest: The Complete Collection](https://www.mobygames.com/game/74033/kings-quest-the-complete-collection/) – developer, publisher, platforms, gameplay description
 [^ref-4]: [GameFAQs – King's Quest: The Complete Collection](https://gamefaqs.gamespot.com/pc/134276-kings-quest-the-complete-collection) – developer, release date, user reviews
@@ -207,5 +207,5 @@ This game is not available on GOG[^ref-7].
 [^ref-13]: [Metacritic – King's Quest](https://www.metacritic.com/game/kings-quest/) – user scores, critic reviews, platform information
 [^ref-14]: [IGDB – King's Quest](https://www.igdb.com/games/kings-quest) – user ratings, The Game Awards 2014 world premiere, completion times
 [^ref-15]: [Common Sense Media – King's Quest](https://www.commonsensemedia.org/game-reviews/kings-quest) – age 10+ recommendation, Princess Bride-style storytelling, voice cast praise, ESRB E10+ rating
-[^ref-1]: [Wikipedia – King's Quest (2015) Development & Reception](https://en.wikipedia.org/wiki/King%27s_Quest_%282015_video_game%29#Development) – 640-page Chapter 1 script, Matt Korba quotes, chapter-by-chapter Metacritic scores, DICE Awards nomination, voice cast including Zelda Williams, Telltale comparison
+[^ref-16]: [Adventure Classic Gaming – King's Quest Series](http://www.adventureclassicgaming.com/index.php/site/reviews/kings-quest/) – series overview, franchise revival context, legacy assessment
 [^ref-17]: [Steam Community – King's Quest Reviews](https://store.steampowered.com/app/345390/Kings_Quest/) – 2,933 reviews, Very Positive aggregate (90% positive), recent review status, system requirements

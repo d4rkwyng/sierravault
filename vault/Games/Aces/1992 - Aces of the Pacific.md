@@ -10,14 +10,14 @@ series: Aces Series
 engine: 3Space
 protagonist: WWII Pacific Theater Pilot
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-15'
 description: Aces of the Pacific is a World War II combat flight simulator developed
   by Dynamix and published by Sierra On-Line in 1992. Created by renowned flight sim...
 tags: [1990s, aces-series, sierra, simulation]
 ---
 # Aces of the Pacific
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
 
@@ -29,9 +29,11 @@ Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans 
 > **Developer:** [[Damon Slye]][^ref-4]
 > **Designer:** Christopher Shen, Damon Slye[^ref-5]
 > **Publisher:** [[Dynamix]][^ref-6]
+> **Engine:** 3Space[^ref-4]
 > **Platforms:** Amiga, DOS, IBM PC, IBM/MS-DOS, MS-DOS, PC[^ref-7]
 > **Release Year:** 1992
 > **Series:** Aces Series
+> **Protagonist:** WWII Pacific Theater Pilot
 > **Sierra Lineage:** Core Sierra
 
 ## Story Summary
