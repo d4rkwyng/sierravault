@@ -1,6 +1,6 @@
 ---
 title: "Hoyle Classic Card Games"
-release_year: 1993
+release_year: 1997
 developer: "Sierra On-Line"
 designer:
   - "Warren Schwader"
@@ -11,12 +11,12 @@ series: "Hoyle"
 engine: "SCI1.1"
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
-last_updated: '2026-02-04'
+last_updated: '2026-04-22'
 ---
 
 # Hoyle Classic Card Games
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -111,7 +111,7 @@ A known technical issue affected some versions: "Although the 'Sierra Characters
 
 ### Version History
 
-| Version | Year | Platform | Notes |
+| Game Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | Hoyle Volume 1 | 1989 | DOS | Original series entry, 6 card games[^ref-3] |
 | Hoyle Volume 2 | 1990 | DOS | 28 solitaire games[^ref-3] |

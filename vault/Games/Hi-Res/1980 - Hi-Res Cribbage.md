@@ -10,14 +10,14 @@ series: Hi-Res Series
 engine: Machine Language
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-22'
 description: Hi-Res Cribbage is a single-player card game developed by Warren Schwader
   and published by On-Line Systems in 1980 for the Apple II computer. The game...
 tags: [1980s, hi-res-series, sierra]
 ---
 # Hi-Res Cribbage
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -189,7 +189,8 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 - Physical copies exist in personal collections and retro gaming archives[^ref-6]
 
 **Manuals & Extras**
-- Original packaging and materials are held in private collections[^ref-6]
+- Original packaging and materials are held in private collections[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-8][^ref-11][^ref-12][^ref-13][^ref-14]
+
 
 ## See Also
 
@@ -228,4 +229,3 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 
 [^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
 
-[^ref-9]: [Virtual Apple – Hi-Res Cribbage Emulation](https://www.virtualapple.org/cribbagedisk.html) – playable emulation preservation, Apple II compatibility

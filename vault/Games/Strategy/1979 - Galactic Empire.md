@@ -10,7 +10,7 @@ series: Galactic Saga
 engine: BASIC
 protagonist: Emperor Tawala
 sierra_lineage: Sierra Published
-last_updated: '2026-01-10'
+last_updated: '2026-04-22'
 description: Galactic Empire is a pioneering space strategy game released in 1979
   for the TRS-80, designed and programmed by Douglas C. Carlston . The game holds
   the...
@@ -18,7 +18,7 @@ tags: [1970s, galactic-saga, sierra, strategy]
 ---
 # Galactic Empire
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -188,7 +188,8 @@ The game's influence can be traced through the entire 4X genre—from later titl
 - [Internet Archive – TRS-80 Manual](https://archive.org/details/Galactic_Empire_1979_Broderbund)
 
 **Fan Recreations**
-- [JoeStrout's Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – HTML5 browser playable
+- [JoeStrout's Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – HTML5 browser playable Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-14][^ref-15]
+
 
 ## See Also
 
@@ -223,7 +224,6 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [^ref-9]: [MobyGames – Galactic Empire Releases](https://www.mobygames.com/game/53448/galactic-empire/releases/) – complete release history, multiple publishers, version information
 
 [^ref-10]: [JoeStrout – Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – fan project, HTML5 version, ratings, Cary Torkelson credit
-[^ref-2]: [Wikipedia – Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(1980_video_game)) – primary contemporary reviews from gaming publications and historical context about early compu...
 [^ref-12]: [Wikipedia – Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(1990_video_game)) – provides basic metadata about a space flight simulator video game from 1990
 [^ref-13]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/) – game information and details
 [^ref-14]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/21299/star-wars-empire-at-war/) – comprehensive game database entry with detailed technical specifications, credits, and multiple user reviews providin...

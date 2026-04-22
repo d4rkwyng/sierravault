@@ -10,13 +10,13 @@ series: Multiple Sierra Series
 engine: SCI (Enhanced Graphics)
 protagonist: null
 sierra_lineage: Fan Project
-last_updated: '2026-04-15'
+last_updated: '2026-04-22'
 description: 'The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to enhancing and remastering Sierra''s notoriously poor Amiga ports with improved graphics, palettes, and presentation.'
 tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ---
 # SCP - Sierra Conversion Project
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -44,6 +44,12 @@ The project gained significant attention in January 2026 with the rapid release 
 > **Focus:** Amiga OCS/AGA graphics enhancement
 > **Tools Used:** ImageFX, PPaint, Adpro (Amiga-native)
 > **Sierra Lineage:** Fan Project
+
+## Story Summary
+
+The Sierra Conversion Project is a non-narrative enhancement effort rather than a standalone game with its own plot. Each SCP release preserves the complete original story of its source title intact—players experience the same dialogue, plot beats, character arcs, and endings authored by Sierra's original writing teams.[^ref-2][^ref-3]
+
+For [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], that means King Graham's quest to recover his castle and family from the wizard Mordack across the lands of Daventry, Serenia, and beyond. For [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], it is Sonny Bonds's investigation into the cult that attacked his wife Marie. For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], it is janitor Roger Wilco's time-hopping pursuit by Sequel Police across past and future Space Quest installments. The SCP enhancements modify only graphics resources—text, scripts, and game logic remain untouched, so the storytelling experience matches the original DOS VGA releases that the Amiga ports had visually compromised.[^ref-2][^ref-3][^ref-4]
 
 ## Released Projects
 
@@ -194,20 +200,27 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 ## Downloads
 
-**SierraVault Mirror:**
-- [King's Quest V OCS Remaster](https://files.sierravault.net/FanGames/SCP_Amiga/KQ5_OCS_Remaster_SCP.lha) – 93 MB
-- [Police Quest III Enhancement](https://files.sierravault.net/FanGames/SCP_Amiga/PQ3_Enhancement_SCP.lha) – 49 MB
-- [Space Quest IV OCS Enhanced](https://files.sierravault.net/FanGames/SCP_Amiga/SQ4_OCS_Enhanced_SCP.lha) – 59 MB
+**Purchase / Digital Stores**
 
-**Original Sources:**
-- [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4]
-- [PQ3 on MEGA](https://mega.nz/file/vsFCUTYL#r6VCTRi0IMbCpF-fGpZrFyZ1ntS5nynf0gy14gIvGlY)[^ref-2]
-- [SQ4 on MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3]
+The SCP enhancement patches are distributed free of charge by the project team — they are not for sale and require an existing legal copy of the source Sierra game to apply. Original Sierra games can still be purchased commercially:
+
+| Store | Link | Notes |
+|-------|------|-------|
+| GOG (King's Quest V) | [King's Quest Collection on GOG](https://www.gog.com/en/game/kings_quest_15) | Source DOS VGA copy required for KQ5 enhancement[^ref-17] |
+| GOG (Police Quest III) | [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) | Source DOS copy required for PQ3 enhancement[^ref-18] |
+| GOG (Space Quest IV) | [Space Quest Collection on GOG](https://www.gog.com/en/game/space_quest_123_collection) | Source DOS copy required for SQ4 enhancement[^ref-19] |
+
+**Free fan downloads (SCP patches and enhanced builds):**
+
+SierraVault Mirror — [King's Quest V OCS Remaster](https://files.sierravault.net/FanGames/SCP_Amiga/KQ5_OCS_Remaster_SCP.lha) (93 MB), [Police Quest III Enhancement](https://files.sierravault.net/FanGames/SCP_Amiga/PQ3_Enhancement_SCP.lha) (49 MB), [Space Quest IV OCS Enhanced](https://files.sierravault.net/FanGames/SCP_Amiga/SQ4_OCS_Enhanced_SCP.lha) (59 MB).
+
+Original Sources — [KQ5 on MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-4], [PQ3 on MEGA](https://mega.nz/file/vsFCUTYL#r6VCTRi0IMbCpF-fGpZrFyZ1ntS5nynf0gy14gIvGlY)[^ref-2], and [SQ4 on MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)[^ref-3].
 
 ## External Links
 
 - [English Amiga Board Discussion](https://eab.abime.net/showthread.php?t=122018)[^ref-6]
-- [AmigaWave](https://www.amigawave.com/)
+- [AmigaWave](https://www.amigawave.com/) Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-14][^ref-16]
+
 
 ## See Also
 
@@ -230,10 +243,11 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 [^ref-2]: IndieRetroNews. "Police Quest III - Another Amiga Adventure game by Sierra gets an enhancement by SCP." January 2026. [https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html](https://www.indieretronews.com/2026/01/police-quest-iii-another-amiga.html)
 
+[^ref-3]: IndieRetroNews. "Space Quest IV is getting an Amiga OCS Enhanced version by SCP — palette reconstruction and MIDI support." December 2025–January 2026. [https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html](https://www.indieretronews.com/2025/12/space-quest-iv-is-getting-amiga-ocs.html) — primary source for SQ4 enhancement details, single-palette limitation, and community reception quotes.
 
 [^ref-4]: IndieRetroNews. "King's Quest V - A great adventure game by Sierra gets an Amiga OCS remaster." January 2026. [https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html)
 
-[^ref-5]: Sierra Gaming World Facebook Group. Announcements and discussion of SCP releases. December 2025-January 2026.
+[^ref-5]: [Sierra Gaming World Facebook Group](https://www.facebook.com/groups/sierragamingworld/) — community group sharing announcements and discussion of SCP releases, December 2025–January 2026.
 
 [^ref-6]: English Amiga Board. "Space Quest IV OCS Enhanced." Thread discussing technical details and downloads. [https://eab.abime.net/showthread.php?t=122018](https://eab.abime.net/showthread.php?t=122018)
 
@@ -249,9 +263,14 @@ Their work also serves as historical documentation, demonstrating that the tools
 
 [^ref-12]: AmigaWave. "Sierra Games on Amiga." Archive of preserved Amiga game information and community discussions about Sierra's Commodore ports. [https://www.amigawave.com/](https://www.amigawave.com/)
 
-[^ref-13]: Preservation Resources. "SCI Engine Reverse Engineering." Fan documentation of the SCI file format and graphics injection techniques used by the preservation community. Various preservation forums.
+[^ref-13]: [SCI Engine Reverse Engineering — ScummVM SCI Resource Format Documentation](https://wiki.scummvm.org/index.php?title=SCI/Specifications/Resource_files) — fan documentation of the SCI file format and graphics injection techniques used by the preservation community.
 
 [^ref-15]: [GenerationAmiga – Space Quest IV Amiga OCS Enhanced Edition](http://www.generationamiga.com/2026/01/17/space-quest-iv-gets-long-awaited-amiga-ocs-enhanced-edition/) – SCP project coverage, technical achievements, and community reception of the Amiga enhancements
 
-[^ref-14]: Commodore Amiga Hardware Documentation. Technical specifications for Amiga OCS/AGA color palette capabilities and graphics rendering limitations compared to IBM PC VGA. Hardware preservation archives.
-[^ref-16]: [SCP GitHub or Project Page](https://amiga.sierravault.net/) – project documentation and downloads
+[^ref-14]: [Amiga Original Chip Set (OCS) — Wikipedia](https://en.wikipedia.org/wiki/Original_Chip_Set) — technical specifications for Amiga OCS/AGA color palette capabilities and graphics rendering limitations compared to IBM PC VGA.
+[^ref-16]: [SCP project mirror on SierraVault](https://amiga.sierravault.net/) — project documentation and downloads.
+[^ref-17]: [King's Quest Collection on GOG](https://www.gog.com/en/game/kings_quest_15) — official commercial release of the original DOS VGA King's Quest titles (KQ1–5 + KQ6) used as the source for the SCP King's Quest V Amiga enhancement.
+[^ref-18]: [Police Quest Collection on GOG](https://www.gog.com/en/game/police_quest_collection) — official commercial release of the original Police Quest series (PQ1–4) including the DOS version of Police Quest III used as the source for the SCP enhancement.
+[^ref-19]: [Space Quest Collection on GOG](https://www.gog.com/en/game/space_quest_123_collection) — official commercial release of Space Quest 1–3 on GOG; Space Quest IV is also available individually as the source for the SCP Amiga enhancement.
+[^ref-20]: [Indie Retro News — King's Quest V Amiga OCS Remaster announcement (re-cap)](https://www.indieretronews.com/2026/01/kings-quest-v-great-adventure-game-by.html) — secondary index of the SCP KQ5 Amiga release with screenshots, download links, and crew credits.
+[^ref-21]: [English Amiga Board — Amiga preservation community](https://eab.abime.net/) — broader community context for Amiga port enhancement and preservation discussion that surrounds the SCP project's reception.

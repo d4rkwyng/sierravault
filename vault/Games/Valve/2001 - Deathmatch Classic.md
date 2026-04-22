@@ -10,14 +10,14 @@ series: Half-Life
 engine: GoldSrc
 protagonist: Player Character
 sierra_lineage: Sierra Published
-last_updated: '2026-01-30'
+last_updated: '2026-04-22'
 description: Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person
   shooter developed by Valve Corporation and released on June 7, 2001. Conceived...
 tags: [2000s, half-life, shooter, sierra]
 ---
 # Deathmatch Classic
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -274,7 +274,4 @@ However, the game's legacy is complicated by its technical execution. As Rock Pa
 [^ref-12]: [My Abandonware – Deathmatch Classic](https://www.myabandonware.com/game/deathmatch-classic-daz) – user ratings, alternative name DMC
 [^ref-13]: [MobyGames Releases – Deathmatch Classic](https://www.mobygames.com/game/34748/deathmatch-classic/releases/) – platform-specific release dates
 [^ref-15]: [IMDB Search Results](https://www.imdb.com/find/?q=deathmatch-classic&s=tt) – Deathmatch Classic: Refragged announcement
-[^ref-10]: [PCGamingWiki – DMC Network](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Network) – multiplayer specifications
-[^ref-10]: [PCGamingWiki – DMC Issues](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#Issues_fixed) – technical issue documentation
-[^ref-10]: [PCGamingWiki – DMC API](https://www.pcgamingwiki.com/wiki/Deathmatch_Classic#API) – DirectX 7 and OpenGL 2.1 support
 [^ref-93]: [Internet Archive – DMC](https://archive.org/search?query=deathmatch+classic+valve) – preserved materials

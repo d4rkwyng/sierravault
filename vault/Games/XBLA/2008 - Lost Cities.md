@@ -10,12 +10,12 @@ series: "Standalone"
 engine: "Custom"
 protagonist: null
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-04-22'
 ---
 
 # Lost Cities
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -119,13 +119,14 @@ Reiner Knizia's Lost Cities has seen multiple digital adaptations across platfor
 
 ## Downloads
 
-### Purchase
+**Purchase / Digital Stores**
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | N/A | **Delisted** - no longer available[^ref-1] |
-| iOS | App Store | Lost Cities card game apps available |
-| Android | Google Play | Lost Cities card game apps available |
+| Xbox Marketplace | N/A | **Delisted** — no longer available[^ref-1][^ref-14] |
+| iOS | [App Store search — Lost Cities](https://www.apple.com/app-store/) | Reiner Knizia's *Lost Cities* card game apps available[^ref-2][^ref-3] |
+| Android | [Google Play search — Lost Cities](https://play.google.com/store/search?q=lost+cities) | Reiner Knizia's *Lost Cities* card game apps available[^ref-2][^ref-6] |
+| Steam | [Steam search — Lost Cities](https://store.steampowered.com/search/?term=lost+cities) | Later PC adaptations of the Knizia card game (not the XBLA version) |
 
 ### Preservation
 
@@ -133,8 +134,15 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 
 ## See Also
 
-- [[2006 - Gin Rummy]] (Sierra Online Shanghai)
-- [[2007 - Carcassonne]] (Sierra Online Seattle)
+Lost Cities was the third and final entry in Sierra Online's brief experiment with [[XBLA|Xbox Live Arcade]]. Following [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]], it shared the same studio infrastructure (Sierra Online Shanghai for development, the broader Sierra Online label for publishing) and the same focus on adapting established tabletop card and board games to the [[XBLA]] digital storefront. All three releases were eventually delisted, leaving Sierra's [[XBLA]] legacy preserved only through archival coverage.[^ref-2][^ref-5]
+
+**Sierra XBLA releases (2006–2008)**
+
+- [[2006 - Gin Rummy]] — first XBLA release, classic card game adaptation by Sierra Online Shanghai
+- [[2007 - Carcassonne]] — board game adaptation, Sierra Online Seattle
+- [[2008 - Lost Cities]] — Reiner Knizia card game adaptation, the final XBLA title under the Sierra label
+
+**Previous / Next in Sierra's XBLA timeline:** *[[2007 - Carcassonne|← Carcassonne (2007)]]* | *— last XBLA release —*
 
 ## References
 

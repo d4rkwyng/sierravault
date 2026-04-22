@@ -1,6 +1,6 @@
 ---
 title: "Hoyle Classic Board Games"
-release_year: 1997
+release_year: 1998
 developer: "Dynamix"
 designer:
   - "Ken Williams"
@@ -12,12 +12,12 @@ series: "Hoyle"
 engine: "SCI32"
 protagonist: "N/A"
 sierra_lineage: "Core Sierra"
-last_updated: '2026-02-04'
+last_updated: '2026-04-22'
 ---
 
 # Hoyle Classic Board Games
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 

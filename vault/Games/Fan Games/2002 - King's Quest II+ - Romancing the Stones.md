@@ -10,7 +10,7 @@ series: King's Quest
 engine: Adventure Game Studio
 protagonist: King Graham
 sierra_lineage: Fan Project
-last_updated: '2026-04-15'
+last_updated: '2026-04-22'
 description: 'King''s Quest II: Romancing the Stones is a fan-made remake of Sierra''s
  1985 classic *King''s Quest II: Romancing the Throne*, developed and released by
  AGD...'
@@ -18,7 +18,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 ---
 # King's Quest II: Romancing the Stones
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -224,7 +224,3 @@ The remake's significance extends beyond its individual merits to represent a br
 [^ref-15]: [AdventureGamers Forum - KQ2 VGA Discussion](https://adventuregamers.com/forums/) - community discussion
 [^ref-16]: [ScummVM - AGD Interactive Games](https://www.scummvm.org/) - compatibility information
 [^ref-17]: [UVList - King's Quest II Romancing the Stones](https://www.uvlist.net/) - Universal Videogame List entry
-[^ref-17]: [AGD Interactive – King's Quest II+ Romancing the Stones](https://www.agdinteractive.com/games/kq2/) – developer page, version history, download
-[^ref-18]: [Sierra Chest – King's Quest II+ Romancing the Stones](https://sierrachest.com/index.php?a=games&id=436&title=kings-quest-ii-plus-romancing-the-stones&fld=general) – fan game database entry
-[^ref-19]: [King's Quest Omnipedia – Romancing the Stones](https://kingsquest.fandom.com/wiki/King%27s_Quest_II_Romancing_the_Stones) – detailed game documentation
-[^ref-20]: [Game Jolt – King's Quest II+](https://gamejolt.com/games/kings-quest-ii-romancing-the-stones/486281) – modern distribution platform entry

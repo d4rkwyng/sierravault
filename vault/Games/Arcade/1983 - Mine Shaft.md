@@ -10,14 +10,14 @@ series: None
 engine: 6502 Assembly
 protagonist: Unnamed Miner
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-22'
 description: Mine Shaft is an arcade-style action game developed and published by
   Sierra On-Line in 1983 for the Apple II and PC Booter platforms. The game was also...
 tags: [1980s, none, sierra]
 ---
 # Mine Shaft
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -171,7 +171,8 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 - [MobyGames](https://www.mobygames.com/game/79/mine-shaft/) - Game information and screenshots
 - [MyAbandonware](https://www.myabandonware.com/game/mine-shaft-5n) - Download available[^ref-2]
 - [Internet Archive (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) - Playable in browser[^ref-5]
-- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6]
+- [Internet Archive (IBM PC Floppy)](https://archive.org/details/000308-MineShaft) - Original floppy preservation[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-15]
+
 
 ## See Also
 
@@ -212,6 +213,5 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 [^ref-13]: [Retro Gamer Archive – Sierra Games](https://www.retrogamer.net/) – Historical gaming magazine archive, Sierra coverage
 
-[^ref-5]: [Internet Archive – Mine Shaft (MS-DOS)](https://archive.org/details/msdos_Mine_Shaft_1983) – Playable emulated version, game preservation, technical documentation
 
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation

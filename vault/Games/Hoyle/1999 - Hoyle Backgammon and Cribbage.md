@@ -10,7 +10,7 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-04-22'
 composer: [Evan Schiller]
 description: Hoyle Backgammon & Cribbage is a digital adaptation of two classic board
   and card games released by Sierra On-Line in 1999 for Windows and Macintosh...
@@ -18,7 +18,7 @@ tags: [1990s, hoyle, sierra]
 ---
 # Hoyle Backgammon & Cribbage
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -276,8 +276,6 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
 
 [^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams[^ref-12]: [Giant Bomb - Hoyle](https://www.giantbomb.com/) - wiki
-[^ref-13]: [IGDB - Hoyle](https://www.igdb.com/) - IGDB
-[^ref-14]: [MobyGames - Hoyle](https://www.mobygames.com/) - database
 [^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
 [^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
 [^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing

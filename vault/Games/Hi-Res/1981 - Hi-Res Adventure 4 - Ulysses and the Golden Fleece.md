@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure Text Parser
 protagonist: Ulysses
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-22'
 description: 'Hi-Res Adventure #4: Ulysses and the Golden Fleece is a graphic adventure
   game released in 1981 for the Apple II by On-Line Systems (later known as Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #4: Ulysses and the Golden Fleece
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -249,11 +249,7 @@ The game is preserved in multiple archives and databases, with documentation ava
 [^ref-20]: [Old Games Download](https://oldgamesdownload.com/hi-res-adventure-4-ulysses-and-the-golden-fleece/) – platform release timeline, designer credits
 [^ref-21]: [PixelatedArcade – Sierra Hi-Res Adventure Series](https://www.pixelatedarcade.com/related-games/sierra-hi-res-adventure-series) – series documentation, publisher list
 [^ref-22]: [Sierra Fandom Wiki – Trivia](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Trivia) – series position confirmation
-[^ref-22]: [Sierra Fandom Wiki – Development](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Development) – mythological theme context
-[^ref-22]: [Sierra Fandom Wiki – Items](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Items) – series placement
-[^ref-22]: [Sierra Fandom Wiki – Easter Eggs](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Easter_eggs) – series context
 [^ref-26]: [Sierra Gamers – Updates](https://www.sierragamers.com/Updates/) – Black Box release documentation
 [^ref-27]: [MobyGames – PC Booter Version](https://www.mobygames.com/game/pc-booter/hi-res-adventure-4-ulysses-and-the-golden-fleece) – alternative rating, package variations
-[^ref-22]: [Sierra Fandom Wiki – Walkthrough](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#4:_Ulysses_and_the_Golden_Fleece/Walkthrough) – Roberta Williams credit, series context
 [^ref-29]: [Giant Bomb - Ulysses and the Golden Fleece](https://www.giantbomb.com/ulysses-and-the-golden-fleece/) - game wiki, platform info
 [^ref-30]: [IGDB - Ulysses and the Golden Fleece](https://www.igdb.com/games/ulysses-and-the-golden-fleece) - IGDB database entry

@@ -11,14 +11,14 @@ series: Hoyle Series
 engine: Unknown/unnamed
 protagonist: Player-created avatar
 sierra_lineage: Core Sierra
-last_updated: '2026-01-22'
+last_updated: '2026-04-22'
 description: Hoyle Kids Games 2000 is a compilation of classic children's games released
   by Sierra On-Line in September 2000 as part of their long-running Hoyle game...
 tags: [2000s, hoyle-series, sierra]
 ---
 # Hoyle Kids Games 2000
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -195,7 +195,8 @@ The game's emphasis on character personality through opponents like Marvin the T
 
 **Database Entries**
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Full credits and information
-- [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data
+- [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-14][^ref-15]
+
 
 ## See Also
 
@@ -268,7 +269,6 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-9]: [MobyGames – Jeff Hoyt](https://www.mobygames.com/person/9095/jeff-hoyt/) – script writer credit
 [^ref-10]: [UVList – Hoyle Kids Games (Mac)](https://www.uvlist.net/game-225808-Hoyle+Kids+Games) – Macintosh version, color depth specifications
 
-[^ref-6]: [Steam Community Guide – Hoyle Kids Games Character Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3420245702) – character biographies, Facemaker feature, voice actor research
 
 [^ref-12]: [Walmart – Hoyle Card Games 2000](https://www.walmart.com/ip/Hoyle-Card-Games-2000/133350203) – retail product documentation
 

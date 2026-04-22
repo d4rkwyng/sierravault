@@ -10,14 +10,14 @@ series: Hoyle
 engine: Proprietary (Windows)
 protagonist: N/A
 sierra_lineage: Core Sierra
-last_updated: '2026-01-27'
+last_updated: '2026-04-22'
 description: Hoyle Board Games 2003 represents Sierra Entertainment's continuation
   of the long-running Hoyle series, offering a comprehensive digital collection of...
 tags: [2000s, hoyle, sierra]
 ---
 # Hoyle Board Games 2003
 
-<small style="color: gray">Last updated: March 19, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -246,7 +246,8 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - [Macintosh Repository](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) - Mac version preservation
 
 **Manuals & Extras**
-- Original Hoyle rulebook and strategy guide included with game[^ref-6]
+- Original Hoyle rulebook and strategy guide included with game[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-15][^ref-16]
+
 
 ## See Also
 
@@ -322,7 +323,6 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 
 [^ref-13]: [RAWG – Hoyle Games 2003](https://rawg.io/games/hoyle-games-2003) – Game database, community information, modern assessment
 
-[^ref-4]: [ESRB – Hoyle Board Games 2003](https://www.esrb.org/ratings/7889/hoyle-board-games-2003/) – Official rating information, content descriptor, platform certification
 
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 

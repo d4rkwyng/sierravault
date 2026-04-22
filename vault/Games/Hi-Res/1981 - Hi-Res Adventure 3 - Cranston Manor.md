@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Adventure Development Language (ADL)
 protagonist: Unnamed treasure hunter
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-22'
 description: 'Hi-Res Adventure #3: Cranston Manor is a text-and-graphics adventure
   game released in 1981 by On-Line Systems, the company that would later become Sierra...'
 tags: [1980s, adventure, hi-res-adventure, sierra]
 ---
 # Hi-Res Adventure #3: Cranston Manor
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -174,7 +174,8 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 - [MyAbandonware – Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1)
 
 **Modern Compatibility**
-- ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12]
+- ScummVM 2.0.0+ supports Cranston Manor for modern platforms[^ref-12] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-26][^ref-27][^ref-28][^ref-30]
+
 
 ## See Also
 
@@ -198,7 +199,6 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 [^ref-4]: [MobyGames User Review – Katakis](https://www.mobygames.com/game/15281/hi-res-adventure-3-cranston-manor/reviews/) – technical specifications, gameplay analysis, historical context
 [^ref-5]: [Sierra Gamers – Cranston Manor](https://www.sierragamers.com/cranston-manor/) – gameplay mechanics, mode switching, treasure hunt objective
 [^ref-6]: [WorthPoint – Cranston Manor Listing](https://www.worthpoint.com/worthopedia/cranston-manor-hi-res-adventure-apple-1789799701) – DOS compatibility, physical media information, development location
-[^ref-2]: [Sierra Chest – Cranston Manor Walkthrough](https://sierrachest.com/index.php?a=games&id=196&fld=walkthrough) – parser system, save slots, text display specifications
 [^ref-8]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – company history, series context
 [^ref-9]: [MyAbandonware – Hi-Res Adventure #3: Cranston Manor](https://www.myabandonware.com/game/hi-res-adventure-3-cranston-manor-7x1) – file sizes, platform versions, release regions
 [^ref-10]: [Stanford SearchWorks – Cabrinety Collection](https://searchworks.stanford.edu/view/ky378tt5201) – archival preservation, media format

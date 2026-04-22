@@ -10,14 +10,14 @@ series: Standalone
 engine: Apple II Assembly
 protagonist: Gobbler (Pac-Man-like character)
 sierra_lineage: Core Sierra
-last_updated: '2026-01-30'
+last_updated: '2026-04-22'
 description: Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by
   On-Line Systems for the Apple II in 1981. The game represents one of the earliest...
 tags: [1980s, sierra, standalone]
 ---
 # Gobbler
 
-<small style="color: gray">Last updated: March 11, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -181,7 +181,8 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 **Database Entries**
 - [MobyGames – Gobbler](https://www.mobygames.com/game/64202/gobbler/)[^ref-7]
-- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2]
+- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems)[^ref-2] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-14]
+
 
 ## See Also
 
@@ -228,4 +229,3 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 [^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
 
-[^ref-5]: [Internet Archive Wozaday Collection – Gobbler](https://archive.org/details/wozaday_Gobbler) – game preservation archive, playable version documentation

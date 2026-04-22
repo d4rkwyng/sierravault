@@ -10,14 +10,14 @@ series: Hoyle Series
 engine: Proprietary (Windows)
 protagonist: Player-created character
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-04-22'
 description: Hoyle Puzzle Games is a comprehensive puzzle game collection released
   on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming...
 tags: [2000s, hoyle-series, puzzle, sierra]
 ---
 # Hoyle Puzzle Games 2002
 
-<small style="color: gray">Last updated: April 15, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -186,7 +186,8 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 - Physical copies occasionally available through secondary markets and auction sites[^ref-4]
 
 **Manuals & Extras**
-- Physical copies occasionally available through secondary markets[^ref-4]
+- Physical copies occasionally available through secondary markets[^ref-4] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-11][^ref-12][^ref-13][^ref-15][^ref-16][^ref-18][^ref-19]
+
 
 ## See Also
 
@@ -253,9 +254,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-4]: [WorthPoint – Hoyle Puzzle Games 2002 Manual PC CD](https://www.worthpoint.com/worthopedia/hoyle-puzzle-games-2002-manual-pc-cd-1787365305) – game count, publisher information
 [^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, release timeline
 [^ref-6]: [Alchetron – Hoyle's Official Book of Games](https://alchetron.com/Hoyle's-Official-Book-of-Games) – series overview, chronological listing
-[^ref-2]: [Sierra Chest – Hoyle Puzzle Games Music](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=music) – music track listing, audio asset origins, series grouping
 [^ref-8]: [GameFAQs – Hoyle Franchise](https://gamefaqs.gamespot.com/games/franchise/43-hoyle) – platform, release year, game description, features
-[^ref-2]: [Sierra Chest – The Incredible Machine: Even More Contraptions](https://sierrachest.com/index.php?a=games&id=321&title=incredible-machine-even-more-contraptions&fld=general) – developer, release year, platforms
 [^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
 [^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
 
@@ -265,7 +264,6 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 
 
 [^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
-[^ref-2]: [Sierra Chest – Hoyle Puzzle Games General](https://sierrachest.com/index.php?a=games&id=817&title=hoyle-puzzle-games&fld=general) – game overview, included titles list, PDA compatibility details
 [^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
 [^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
 [^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings

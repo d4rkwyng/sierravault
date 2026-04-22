@@ -10,14 +10,14 @@ series: Hi-Res Adventure
 engine: Hi-Res Adventure
 protagonist: Astronaut (player-named)
 sierra_lineage: Core Sierra
-last_updated: '2026-03-27'
+last_updated: '2026-04-22'
 description: 'Hi Res Adventure #0: Mission Asteroid is a graphic adventure game that
   was part of Sierra On-Line''s pioneering Hi-Res Adventure series. Originally released...'
 tags: [1980s, adventure, hi-res-adventure, roberta-williams, sierra]
 ---
 # Hi Res Adventure #0: Mission Asteroid
 
-<small style="color: gray">Last updated: March 27, 2026</small>
+<small style="color: gray">Last updated: April 22, 2026</small>
 
 ## Overview
 
@@ -187,7 +187,6 @@ Historical records indicate the game was released in multiple versions, includin
 [^ref-14]: [Glitchwave](https://glitchwave.com/game/mission-asteroid-hi-res-adventure-0/) – Modern assessment and rating
 [^ref-15]: [SierraGamers](https://www.sierragamers.com/mission-asteroid/) – Development details and graphics tablet information
 [^ref-16]: [Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra Entertainment history and adventure game development
-[^ref-5]: [Sierra Fandom Wiki](https://sierra.fandom.com/wiki/Hi-Res_Adventure_#0:_Mission_Asteroid/Trivia) – Roberta Williams Anthology inclusion
 [^ref-18]: [Giant Bomb](https://www.giantbomb.com/hi-res-adventure-0-mission-asteroid/3030-12459/) – Game database entry
 [^ref-19]: [IGDB](https://www.igdb.com/games/hi-res-adventure-0-mission-asteroid) – Game database entry
 [^ref-20]: [Archive.org](https://archive.org/details/Sierra_On-Line_Hi-Res_Adventures_Catalog) – Sierra On-Line catalog preservation
