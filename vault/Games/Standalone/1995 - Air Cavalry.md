@@ -249,7 +249,7 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 [^ref-2]: [LaunchBox Games Database – Air Cavalry](https://gamesdb.launchbox-app.com/games/details/258-air-cavalry) – game description, dual mode-7 specifications, release date
 [^ref-3]: [KHInsider – Air Cavalry Soundtrack](https://downloads.khinsider.com/game-soundtracks/album/air-cavalry-1995-snes) – gameplay description, developer/publisher information
 [^ref-4]: [Retroplay – Air Cavalry](https://www.retroplay.com/product.html/air-cavalry) – helicopter types, mission types, gameplay features
-[^ref-5]: [Wikipedia – Air Cavalry (video game)](https://en.wikipedia.org/wiki/Air_Cavalry_(video_game)) – review scores, critical reception, publication dates
+[^ref-5]: [Wikipedia – Air Cavalry (video game)](https://en.wikipedia.org/wiki/Air_Cavalry_(video_game))) – review scores, critical reception, publication dates
 [^ref-6]: [Freebie.games – Air Cavalry](https://freebie.games/games/air-cavalry/) – modern review, gameplay assessment, audio description
 [^ref-7]: [Super Adventures in Gaming – Air Cavalry](http://superadventuresingaming.blogspot.com/2012/01/air-cavalry-snes.html) – gameplay impressions, title screen music, control mechanics
 [^ref-8]: [148Apps – Air Cavalry Review](https://148apps.com/reviews/air-cavalry-review) – cockpit descriptions, helicopter variety (Note: iOS version review)
@@ -265,4 +265,4 @@ Air Cavalry's legacy is primarily as a curiosity for collectors and retro gaming
 [^ref-18]: [Nintendo Fandom Wiki – Air Cavalry](https://nintendo.fandom.com/wiki/Air_Cavalry) – release regions, publisher information
 [^ref-19]: [Almar's Guides – Air Cavalry](https://www.almarsguides.com/retro/walkthroughs/snes/games/AirCavalry/) – basic game overview, developer/publisher
 [^ref-20]: [VideoGameGeek – Air Cavalry](https://videogamegeek.com/videogame/107941/air-cavalry) – release dates, genre classification, gameplay description
-[^ref-21]: [HandWiki – Air Cavalry](https://handwiki.org/wiki/Software:Air_Cavalry_(video_game)) – review compilation, programmer credits
+[^ref-21]: [HandWiki – Air Cavalry](https://handwiki.org/wiki/Software:Air_Cavalry_(video_game))) – review compilation, programmer credits

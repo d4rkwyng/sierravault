@@ -33,7 +33,7 @@ After Sierra's acquisition in 1997, Berkeley Systems continued operating as a su
 
 [^ref-1]: [Wikipedia - Berkeley Systems](https://en.wikipedia.org/wiki/Berkeley_Systems) - Company history and founding
 [^ref-2]: [MobyGames - Berkeley Systems, Inc.](https://www.mobygames.com/company/1199/berkeley-systems-inc/) - Wes Boyd and Joan Blades founding history
-[^ref-3]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) - Screensaver history
+[^ref-3]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software))) - Screensaver history
 [^ref-4]: [MobyGames - Sierra Entertainment](https://www.mobygames.com/company/17/sierra-entertainment-inc/) - Sierra acquisition of Berkeley Systems in 1997
 [^ref-5]: [BoardGameGeek - Berkeley Systems](https://boardgamegeek.com/videogamepublisher/12733/berkeley-systems) - Flying Toasters and You Don't Know Jack
 [^ref-6]: [MobyGames - You Don't Know Jack Trivia](https://www.mobygames.com/game/1407/you-dont-know-jack/trivia/) - Jellyvision development history

@@ -227,7 +227,7 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [^ref-10]: [Classic Reload – Asterix: Operation Getafix](https://classicreload.com/dosx-asterix-operation-getafix.html) — Ingredient collection gameplay description
 [^ref-11]: [Internet Archive – Asterix: Operation Getafix](https://archive.org/details/001520-AsterixOperationGetafix) — Game preservation and location screenshots
 [^ref-12]: [Hall of Light – Asterix: Operation Getafix](https://hol.abime.net/114) — Magazine scores: Joystick 92%, Amiga Joker 45%, CU Amiga 72%
-[^ref-13]: [Wikipedia – Asterix and the Big Fight (film)](https://en.wikipedia.org/wiki/Asterix_and_the_Big_Fight_(film)) — 1989 animated film source material
+[^ref-13]: [Wikipedia – Asterix and the Big Fight (film)](https://en.wikipedia.org/wiki/Asterix_and_the_Big_Fight_(film))) — 1989 animated film source material
 [^ref-15]: [Lemon Amiga – Downloads](https://www.lemonamiga.com/games/download.php?id=114) — Disk format: 1 × 3.5" DD (720KB)
 [^ref-16]: [MyAbandonware – Browser Play](https://www.myabandonware.com/game/asterix-operation-getafix-ld/play-ld) — Browser emulation warning
 [^ref-17]: [MobyGames – Publishers](https://www.mobygames.com/game/12987/asterix-operation-getafix/releases/) — Pactronics and Tenstar distribution 

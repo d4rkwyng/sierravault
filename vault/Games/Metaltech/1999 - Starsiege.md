@@ -288,7 +288,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 [^ref-19]: [GameOver – Starsiege Review](https://www.game-over.net/review/mar99/starsiege/) – 82% score, OpenGL criticism, MechWarrior comparison
 [^ref-20]: [GameRevolution – Starsiege Review](https://www.gamerevolution.com/review/32827-starsiege-review) – B+ score, multiplayer praise, sequel mention
 [^ref-21]: [Dynamix Press Release (Archive)](https://web.archive.org/web/19980627112604/http://www.dynamix.com/pr/starsiege-pr.html) – Jeff Tunnell quote, mission/weapon counts, engine features
-[^ref-22]: [Last.fm – Starsiege Soundtrack](https://www.last.fm/music/Dynamix+Techno/StarSiege+SoundTrack+(Phat+Techno)) – planet-themed track names
+[^ref-22]: [Last.fm – Starsiege Soundtrack](https://www.last.fm/music/Dynamix+Techno/StarSiege+SoundTrack+(Phat+Techno))) – planet-themed track names
 [^ref-23]: [GameFAQs – Starsiege FAQ](https://gamefaqs.gamespot.com/pc/89815-starsiege/faqs/36621) – progression system, technology access
 [^ref-24]: [Speedrun.com – Starsiege](https://www.speedrun.com/starsiege) – mission count breakdown
 [^ref-25]: [Old-Games.com – Starsiege](https://www.old-games.com/download/6470/starsiege) – audio specifications, customization features, mission details

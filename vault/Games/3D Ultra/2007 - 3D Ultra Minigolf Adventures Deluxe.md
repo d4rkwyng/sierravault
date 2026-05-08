@@ -228,7 +228,7 @@ The series' evolution from the simple 18-hole original in 1997 to the comprehens
 
 [^ref-1]: [SteamDB – 3D Ultra Minigolf Adventures Deluxe](https://steamdb.info/app/10140/) – release date, developer, publisher, app details
 [^ref-2]: [Raijin.gg – 3D Ultra Minigolf Adventures Reviews](https://raijin.gg/app/10140/3D_Ultra_Minigolf_Adventures_Deluxe/reviews) – sales data, review scores, player statistics
-[^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, development, releases, GameSpot review
+[^ref-3]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series))) – series history, development, releases, GameSpot review
 [^ref-4]: [Dynamix Fandom Wiki – 3-D Ultra (series)](https://dynamix.fandom.com/wiki/3-D_Ultra_(series)) – series games list, compilations, release dates
 [^ref-20]: [Sierra Chest – 3D Ultra Minigolf Adventures Deluxe: General](https://sierrachest.com/index.php?a=games&id=344&title=minigolf-adventures-deluxe&fld=general) – content details, development history, Minigolf Maniacs origins
 [^ref-6]: [GOG Dreamlist – 3D Ultra Minigolf Adventures Deluxe](https://www.gog.com/dreamlist/game/3d-ultra-minigolf-adventures-deluxe-2009) – game description, community votes, features

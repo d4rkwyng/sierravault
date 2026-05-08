@@ -207,7 +207,7 @@ The game's influence can be traced through the entire 4X genre—from later titl
 
 [^ref-1]: [MobyGames – Galactic Empire (1979)](https://www.mobygames.com/game/53448/galactic-empire/) – release dates, platforms, developer credits, technical specifications, ratings
 
-[^ref-2]: [Wikipedia – Galactic Empire (1980 video game)](https://en.wikipedia.org/wiki/Galactic_Empire_(1980_video_game)) – contemporary reviews, founding of Brøderbund, African place names, design history
+[^ref-2]: [Wikipedia – Galactic Empire (1980 video game)](https://en.wikipedia.org/wiki/Galactic_Empire_(1980_video_game))) – contemporary reviews, founding of Brøderbund, African place names, design history
 
 [^ref-3]: [The Digital Antiquarian](https://www.filfre.net/?s=Galactic+Empire) – 4X genre recognition, Doug Carlston biography, sales figures, technical details
 
@@ -224,7 +224,7 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [^ref-9]: [MobyGames – Galactic Empire Releases](https://www.mobygames.com/game/53448/galactic-empire/releases/) – complete release history, multiple publishers, version information
 
 [^ref-10]: [JoeStrout – Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – fan project, HTML5 version, ratings, Cary Torkelson credit
-[^ref-12]: [Wikipedia – Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(1990_video_game)) – provides basic metadata about a space flight simulator video game from 1990
+[^ref-12]: [Wikipedia – Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(1990_video_game))) – provides basic metadata about a space flight simulator video game from 1990
 [^ref-13]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/) – game information and details
 [^ref-14]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/21299/star-wars-empire-at-war/) – comprehensive game database entry with detailed technical specifications, credits, and multiple user reviews providin...
 [^ref-15]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) – comprehensive game database entry providing detailed historical and technical information about the game

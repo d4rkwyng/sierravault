@@ -134,7 +134,7 @@ The visual quality improvements visible in Sierra's games from 1990 onwards refl
 ## References
 
 [^ref-1]: [MobyGames - Bill Davis](https://www.mobygames.com/person/40190/bill-davis/) — Career profile and game credits
-[^ref-2]: [Wikipedia - Bill Davis (artist)](https://en.wikipedia.org/wiki/Bill_Davis_(artist)) — Biography and Sierra career
+[^ref-2]: [Wikipedia - Bill Davis (artist)](https://en.wikipedia.org/wiki/Bill_Davis_(artist))) — Biography and Sierra career
 [^ref-3]: [Emmy Award Database](https://www.emmys.com/) — 1978 Outstanding Achievement in Graphic Design
 [^ref-4]: [Sierra Sun Times - Sierra Art Trails Featured Artist: Trowzers Akimbo](https://goldrushcam.com/sierrasuntimes/index.php/news/advertising-specials/1009-sierra-art-trails-featured-artist-trowzers-akimbo) — The Gong Show logo design and Tonight Show work
 [^ref-5]: [Business Wire - Rocket Science Games on New Trajectory with Strong Studio Team](http://findarticles.com/p/articles/mi_m0EIN/is_1996_Feb_13/ai_17991583) — February 1996 hiring announcement

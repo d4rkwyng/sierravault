@@ -223,7 +223,7 @@ While More After Dark never received the critical attention afforded to traditio
 [^ref-5]: [MobyGames – More After Dark: Volume 1](https://mobygames.com/game/more-after-dark-volume-1) – release date, developer, genre, technical specs, no Volume 2 released
 [^ref-6]: [HandWiki – Software: After Dark](https://handwiki.org/wiki/Software:After_Dark) – designers, programming languages, version history, Bad Dog TV series
 [^ref-7]: [MyAbandonware – More After Dark: Volume 1](https://www.myabandonware.com/game/more-after-dark-volume-1-saf) – platforms, file sizes, user rating
-[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) – J.C. Herz quote, Computer Gaming World review, release dates
+[^ref-8]: [Wikipedia – After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software))) – J.C. Herz quote, Computer Gaming World review, release dates
 [^ref-9]: [Internet Archive – After Dark (Windows)](https://archive.org/details/AFTERDARK_WIN) – intertextual references between modules, licensed editions
 [^ref-10]: [Low End Mac – On Mighty Toaster Wings: More After Dark History](https://lowendmac.com/2007/on-mighty-toaster-wings-more-after-dark-history/) – Patrick Beard quotes on development and creative vision
 [^ref-11]: [MobyGames – After Dark Games](https://mobygames.com/game/after-dark-games) – Sierra publication, critics score, composer credit

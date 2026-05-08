@@ -177,7 +177,7 @@ A tabletop RPG version was also released by River Horse Games in 2022[^ref-23], 
 [^ref-14]: [MyAbandonware - The Dark Crystal](https://www.myabandonware.com/game/hi-res-adventure-6-the-dark-crystal-7nz) – - User ratings and community feedback
 [^ref-15]: [RPG.net - Tabletop Review](https://www.rpg.net/reviews/archive/19/19076.phtml) – - Development timeline information
 [^ref-16]: [Glitchwave Database](https://glitchwave.com/game/the-dark-crystal/) – - Development team credits and production details
-[^ref-17]: [DBpedia - The Dark Crystal Video Game](https://dbpedia.org/page/The_Dark_Crystal_(video_game) – ) - File size data across different platforms
+[^ref-17]: [DBpedia - The Dark Crystal Video Game](https://dbpedia.org/page/The_Dark_Crystal_(video_game)) – ) - File size data across different platforms
 [^ref-18]: [Official Dark Crystal Website](https://www.darkcrystal.com/galleries/dark-crystal-galleries/play/) – - Online recreation availability
 [^ref-19]: [Dark Crystal Fandom - Age of Resistance Tactics](https://darkcrystal.fandom.com/wiki/The_Dark_Crystal:_Age_of_Resistance_Tactics) – - Modern game development and publication details
 [^ref-20]: [Metacritic - Age of Resistance Tactics](https://www.metacritic.com/game/switch/the-dark-crystal-age-of-resistance-tactics) – - Review aggregation and critical reception

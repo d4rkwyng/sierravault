@@ -108,10 +108,10 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-6]: [Choicest Games - Where Are They Now: Scott Murphy](https://www.choicestgames.com/2014/08/where-are-they-now-scott-murphy.html) — comprehensive career overview and Sierra contributions
 [^ref-7]: [Adventure Classic Gaming Interview 2](http://www.adventureclassicgaming.com/index.php/site/interviews/234/) — early Sierra years and entry into gaming industry
 [^ref-8]: [MobyGames Credits](https://www.mobygames.com/person/4525/scott-murphy/credits/) — complete game development credits and roles
-[^ref-9]: [DBpedia - Scott Murphy](https://dbpedia.org/page/Scott_Murphy_(video_game_designer)) — structured biographical data
+[^ref-9]: [DBpedia - Scott Murphy](https://dbpedia.org/page/Scott_Murphy_(video_game_designer))) — structured biographical data
 [^ref-10]: [Wiw.org Interview](https://wiw.org/~jess/scott112900.html) — early career details and Creepy Corridors information
 [^ref-11]: [Retro Gamer Coverage](https://www.retrogamer.net/?s=Scott+Murphy) — King's Quest contributions and AGI engine work
-[^ref-12]: [WikiMili Biography](https://wikimili.com/en/Scott_Murphy_(video_game_designer)) — comprehensive career information
+[^ref-12]: [WikiMili Biography](https://wikimili.com/en/Scott_Murphy_(video_game_designer))) — comprehensive career information
 [^ref-13]: [Indie Retro News Review](https://www.indieretronews.com/2019/08/space-quest-i-review-classic-sci-fi.html) — Space Quest creation and development details
 [^ref-14]: [Adventure Gamers Search](https://adventuregamers.com/search?query=Scott+Murphy) — Two Guys from Andromeda partnership information
 [^ref-15]: [CelebsAgeWiki](https://www.celebsagewiki.com/scott-murphy-video-game-designer) — partnership with Mark Crowe details

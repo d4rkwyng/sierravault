@@ -328,7 +328,7 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-2]: [AGD Interactive – About KQ1](https://www.agdinteractive.com/games/kq1/about/about.html) – development history, download statistics, Sierra remake failure
 [^ref-3]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-i-quest-for-the-crown-vga) – interface description, review quotes
 [^ref-4]: [AGD Interactive – Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html) – game guide, interface details, version information
-[^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive)) – voice cast, licensing, GamesRadar ranking
+[^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive))) – voice cast, licensing, GamesRadar ranking
 [^ref-37]: [AGD Interactive Forum – v4.1 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – Enhanced Edition details, artwork credits, development notes
 [^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – company history, designer credits, commercial impact
 [^ref-8]: [AGD Interactive – Download Page](https://www.agdinteractive.com/games/kq1/download/download.html) – system requirements, platform support

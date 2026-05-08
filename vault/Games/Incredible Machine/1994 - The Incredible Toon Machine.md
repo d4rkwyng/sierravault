@@ -238,7 +238,7 @@ The game demonstrated that the Rube Goldberg puzzle concept could be successfull
 [^ref-4]: [Wikipedia – Sid & Al's Incredible Toons](https://en.wikipedia.org/wiki/Sid_&_Al's_Incredible_Toons) – review scores, awards, platform information
 [^ref-5]: [Abandonware DOS – The Incredible Toon Machine](https://www.abandonwaredos.com/abandonware-game.php?abandonware=The+Incredible+Toon+Machine&gid=2124) – release date, technical specs, puzzle count
 [^ref-6]: [Sierra Gamers – The Incredible Toon Machine](https://www.sierragamers.com/ti-toon-machine/) – 130 puzzles, player versus player mode, Hometoons feature
-[^ref-7]: [Alchetron – The Incredible Machine Series](https://alchetron.com/The-Incredible-Machine-(series)) – spin-off status, Chris Cole creation
+[^ref-7]: [Alchetron – The Incredible Machine Series](https://alchetron.com/The-Incredible-Machine-(series))) – spin-off status, Chris Cole creation
 [^ref-8]: [MyAbandonware – The Incredible Toon Machine](https://www.myabandonware.com/game/the-incredible-toon-machine-3le) – release dates, 130 puzzles, 71 gadgets, CGW review quote
 [^ref-10]: [GamePressure – The Incredible Toon Machine](https://www.gamepressure.com/games/the-incredible-toon-machine/z03bfe) – user rating, target audience, technical requirements
 [^ref-11]: [The Digital Antiquarian](https://www.filfre.net/?s=The+Incredible+Toon+Machine) – physics simulator, Tunnell development philosophy, multiple solutions

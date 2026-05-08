@@ -222,7 +222,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 
 **Preservation / Emulation**
 - [MobyGames Entry](https://www.mobygames.com/game/8009/bouncers/)[^ref-1]
-- [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game))[^ref-2]
+- [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game)))[^ref-2]
 - [VGMdb - Bouncers Soundtrack](https://vgmdb.net/release/20733)[^ref-12]
 - [Sega-16 Review](https://www.sega-16.com/2013/05/bouncers/)[^ref-3]
 - [Sega Retro - Manual Scan](https://segaretro.org/File:Bouncers_mcd_us_manual.pdf)[^ref-13]
@@ -244,7 +244,7 @@ The game demonstrates both the creative ambition and technical limitations of mi
 ## References
 
 [^ref-1]: [MobyGames - Bouncers](https://www.mobygames.com/game/8009/bouncers/) - Release dates, platforms, critics score, technical specifications, full credits, ESRB rating
-[^ref-2]: [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game)) - Development history, contemporary reviews, voice actors, LoudMouth Inc. founding, John Garvin career
+[^ref-2]: [Wikipedia - Bouncers](https://en.wikipedia.org/wiki/Bouncers_(video_game))) - Development history, contemporary reviews, voice actors, LoudMouth Inc. founding, John Garvin career
 [^ref-3]: [Sega-16 - Bouncers Review](https://www.sega-16.com/2013/05/bouncers/) - Gameplay description, court types, controls, retrospective analysis
 [^ref-4]: [Amazon - Bouncers Customer Reviews](https://www.amazon.com/dp/B000BZAAEC) - Marketing description, user reviews
 [^ref-5]: [IGDB - Bouncers](https://www.igdb.com/games/bouncers) - Genre classification, Internet Games Database entry

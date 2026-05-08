@@ -144,7 +144,7 @@ Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the temp
 
 ## References
 
-[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Primary game information
+[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game))) - Primary game information
 [^ref-2]: [Gin Rummy - Xbox Achievements](https://www.xboxachievements.com/game/gin-rummy/guide/) - Achievement guide with game details
 [^ref-3]: [Game Review: Gin Rummy (XBLA) - DCEmu](https://www.dcemu.co.uk/content/16810-Game-Review-Gin-Rummy-(XBLA)) - Contemporary review
 [^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information

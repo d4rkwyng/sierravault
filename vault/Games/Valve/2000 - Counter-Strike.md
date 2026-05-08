@@ -311,7 +311,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 
 ## References
 
-[^ref-1]: [Wikipedia – Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game)) – development history, version info, gameplay mechanics
+[^ref-1]: [Wikipedia – Counter-Strike (video game)](https://en.wikipedia.org/wiki/Counter-Strike_(video_game))) – development history, version info, gameplay mechanics
 [^ref-2]: [MobyGames – Half-Life: Counter-Strike](https://www.mobygames.com/game/2726/half-life-counter-strike/) – credits, ratings, awards, technical specifications
 [^ref-3]: [GameSpot – Greatest Games Feature (Archived)](https://web.archive.org/web/20071012131015/http://www.gamespot.com/gamespot/features/all/greatestgames/p-12.html) – historical significance, player statistics
 [^ref-4]: [Tradeit.gg – History of Counter-Strike](https://tradeit.gg/blog/history-of-counter-strike/) – franchise sales, version history

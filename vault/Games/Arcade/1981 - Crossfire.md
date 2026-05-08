@@ -239,7 +239,7 @@ The game's influence can be seen in its innovative control scheme and its achiev
 
 ## References
 
-[^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)) – release dates, platforms, awards, contemporary reviews, technical details
+[^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game))) – release dates, platforms, awards, contemporary reviews, technical details
 [^ref-2]: [MobyGames – Crossfire](https://www.mobygames.com/game/75/crossfire/) – developer, publisher, credits, ratings, trivia, gameplay description
 [^ref-3]: [Internet Archive – Apple II Version](https://archive.org/details/a2_Crossfire_1981_On_Line_Systems) – release date, publisher, platform preservation
 [^ref-4]: [Data Driven Gamer – Game 99: Crossfire](https://datadrivengamer.blogspot.com/2019/10/game-99-crossfire.html) – control scheme analysis, contemporary reviews, platform ports
@@ -253,4 +253,4 @@ The game's influence can be seen in its innovative control scheme and its achiev
 [^ref-12]: [UVList – Crossfire MS-DOS](https://www.uvlist.net/game-169491-Crossfire) – Tandy/PCjr graphics patch history
 [^ref-13]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Crossfire_1983) – DOS release date, emulation details
 [^ref-14]: [ClassicReload – Crossfire](https://classicreload.com/crossfire.html) – gameplay description, browser emulation
-[^ref-15]: [Wikipedia – Crossfire](https://en.wikipedia.org/wiki/Crossfire_(1992_video_game)) – comprehensive historical overview of an early open-source multiplayer RPG with detailed development history and techn...
+[^ref-15]: [Wikipedia – Crossfire](https://en.wikipedia.org/wiki/Crossfire_(1992_video_game))) – comprehensive historical overview of an early open-source multiplayer RPG with detailed development history and techn...

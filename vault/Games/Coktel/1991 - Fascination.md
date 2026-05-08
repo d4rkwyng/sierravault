@@ -262,7 +262,7 @@ The observation that the game's ending anticipated David Fincher's *The Game* (1
 
 ## References
 
-[^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game)) – development history, plot, critical analysis, ending comparison to The Game
+[^ref-1]: [Wikipedia – Fascination (video game)](https://en.wikipedia.org/wiki/Fascination_(video_game))) – development history, plot, critical analysis, ending comparison to The Game
 [^ref-2]: [Hardcore Gaming 101 – Fascination](http://www.hardcoregaming101.net/fascination/) – gameplay description, critical assessment, version differences
 [^ref-3]: [Abandonware France – Fascination](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=83) – release date, technical specifications, save system
 [^ref-4]: [MobyGames – Muriel Tramis Biography](https://www.mobygames.com/person/10719/muriel-tramis/) – designer biography, design philosophy

@@ -149,7 +149,7 @@ The game's puzzles maintained appropriate difficulty for the target family audie
 [^ref-8]: [PCGamingWiki - The Black Cauldron](https://www.pcgamingwiki.com/wiki/The_Black_Cauldron) – - Technical specifications
 [^ref-9]: [HonestGamers - The Black Cauldron Review](http://www.honestgamers.com/13367/pc/the-black-cauldron/review.html) – - Gameplay mechanics and critical review
 [^ref-10]: [GOG.com - The Black Cauldron Wishlist](https://www.gog.com/dreamlist/game/the-black-cauldron-1986) – - Product description
-[^ref-11]: [Grokipedia - The Black Cauldron](https://grokipedia.com/page/The_Black_Cauldron_(video_game) – ) - Engine and graphics details
+[^ref-11]: [Grokipedia - The Black Cauldron](https://grokipedia.com/page/The_Black_Cauldron_(video_game)) – ) - Engine and graphics details
 [^ref-12]: [Gamer Walkthroughs - The Black Cauldron](https://gamerwalkthroughs.com/the-black-cauldron/) – - Design philosophy
 [^ref-13]: [Hardcore Gaming 101 - The Black Cauldron](http://www.hardcoregaming101.net/the-black-cauldron/) – - Modern assessment
 [^ref-14]: [MobyGames - The Black Cauldron Trivia](https://www.mobygames.com/game/194/the-black-cauldron/trivia/) – - Easter eggs and commands

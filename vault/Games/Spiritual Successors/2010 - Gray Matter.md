@@ -207,7 +207,7 @@ Despite its flaws, Gray Matter is remembered as a successful return to form for 
 [^ref-3]: [GamesIndustry.biz](https://www.gamesindustry.biz/gray-matter-jane-jensen-s-adventure-signed-by-viva-media-for-north-american-release-next-month) – Game theme description and publisher information
 [^ref-4]: [MobyGames Trivia](https://www.mobygames.com/game/49129/gray-matter/trivia/) – Development history details
 [^ref-6]: [Wikipedia](https://en.wikipedia.org/wiki/Gray_Matter_(video_game)) – Adventure Classic Gaming and A.V. Club quotes
-[^ref-7]: [Grokipedia](https://grokipedia.com/page/Gray_Matter_(video_game)) – Metacritic score
+[^ref-7]: [Grokipedia](https://grokipedia.com/page/Gray_Matter_(video_game))) – Metacritic score
 [^ref-8]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Gray_Matter) – Developer information and technical specifications
 [^ref-9]: [GameSpot Interview](https://www.gamespot.com/articles/qanda-jane-jensen-talks-gray-matter/1100-6164900/) – Designer credits and sequel potential quote
 [^ref-10]: [Steam Store](https://store.steampowered.com/app/260570/Gray_Matter/) – Platform availability

@@ -298,7 +298,7 @@ The game's 8.4/10 IMDB rating and strong GOG user reviews demonstrate that Shive
 [^ref-10]: [Web Archive – Adventure Gamers Review](https://web.archive.org/web/20100715131847/http://www.adventuregamers.com/article/id,113/) – game quotes, review analysis
 [^ref-11]: [Sierra Help Pages – Shivers Walkthrough](https://sierrahelp.com/Walkthroughs/Shivers1Walkthrough.html) – Ixupi types, location list, gameplay mechanics
 [^ref-12]: [Web Archive – MacUser Review](https://web.archive.org/web/20010107225300/http://macuser.zdnet.com/mu_1296/personal/gameroom.html) – negative review, gameplay description
-[^ref-13]: [Grokipedia – Shivers](https://grokipedia.com/page/Shivers_(video_game)) – team size, room count, technical specifications
+[^ref-13]: [Grokipedia – Shivers](https://grokipedia.com/page/Shivers_(video_game))) – team size, room count, technical specifications
 [^ref-25]: [GOG.com – Shivers User Reviews](https://www.gog.com/en/game/shivers) – gameplay mechanics, user testimonials
 [^ref-15]: [Walkthrough King – Shivers](https://www.walkthroughking.com/text/shivers.aspx) – inventory system, gameplay tips
 [^ref-16]: [The Spoiler – Shivers Walkthrough](https://the-spoiler.com/ADVENTURE/Sierra/shivers.1.html) – point system, Easter eggs, version differences

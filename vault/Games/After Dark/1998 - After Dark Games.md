@@ -204,7 +204,7 @@ Despite its casual origins, After Dark Games maintains an active speedrunning co
 
 ## References
 
-[^ref-1]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software)) - General overview, New York Times quote, game descriptions
+[^ref-1]: [Wikipedia - After Dark (software)](https://en.wikipedia.org/wiki/After_Dark_(software))) - General overview, New York Times quote, game descriptions
 [^ref-2]: [Internet Archive - After Dark Games 1998](https://archive.org/details/after-dark-games-1998-berkeley-systems-mac-pc) - Release information and developer credits
 [^ref-3]: [Internet Archive - After Dark Games](https://archive.org/details/after-dark-games) - Platform and release data, product description
 [^ref-4]: [Encyclopedia.pub - After Dark](https://encyclopedia.pub/entry/history/show/75652) - Development history

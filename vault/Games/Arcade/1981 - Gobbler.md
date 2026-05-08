@@ -207,7 +207,7 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 
 ## References
 
-[^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game)) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history
+[^ref-1]: [Wikipedia – Gobbler (video game)](https://en.wikipedia.org/wiki/Gobbler_(video_game))) – developer, publisher, platform, release year, connection to Cannonball Blitz, company history
 [^ref-2]: [LaunchBox Games Database – On-Line Systems](https://gamesdb.launchbox-app.com/publishers/games/1735-on-line-systems) – release date August 15 1981, community rating 3.50/5, maze layout differences, Pac-Man clone description
 [^ref-3]: [Retro365 Blog – Gobbler: Ken and Roberta Williams Takes on Atari](https://retro365.blog/2021/06/15/bits-from-my-personal-collection-gobbler-ken-and-roberta-williams-takes-on-atari/) – Olaf Lubeck biography, Los Alamos employment, development history, control scheme critique, sales figures, lawsuit details, five-month market presence, Ken Williams quote
 [^ref-4]: [Retro365 Blog – Cannonball Blitz: Clones, Lawsuits, Clones](https://retro365.blog/2020/10/10/bits-from-my-personal-collection-cannonball-blitz-clones-lawsuits-clones/) – Olaf Lubeck development pattern, Los Alamos spare time work, Cannonball Blitz details, SierraVision label, VIC-20 port

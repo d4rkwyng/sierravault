@@ -151,7 +151,7 @@ Modern preservation efforts continue through platforms like myabandonware.com[^r
 [^ref-4]: [Internet Archive - After Dark Games 1998](https://archive.org/details/after-dark-games-1998-berkeley-systems-mac-pc) - Archived software package with metadata
 [^ref-6]: [Internet Archive - After Dark Games](https://archive.org/details/after-dark-games) - Additional archived copy of software
 [^ref-8]: [Apple Discussions - After Dark Compatibility](https://discussions.apple.com/thread/966505) - Mac Intel compatibility forum discussion
-[^ref-9]: [Wikipedia - After Dark Software](https://en.wikipedia.org/wiki/After_Dark_(software)) - Comprehensive software history and details
+[^ref-9]: [Wikipedia - After Dark Software](https://en.wikipedia.org/wiki/After_Dark_(software))) - Comprehensive software history and details
 [^ref-10]: [Encyclopedia.pub - After Dark History](https://encyclopedia.pub/entry/history/show/75652) - Detailed encyclopedia entry on screensaver software
 [^ref-11]: [Fazedor de Jogos - After Dark](https://fazedordejogos.itch.io/after-dark) - Developer's itch.io page with game information
 [^ref-13]: [GameFAQs - After Dark Games Cheats](https://gamefaqs.gamespot.com/pc/189342-after-dark-games/cheats) - Easter eggs and hidden features guide

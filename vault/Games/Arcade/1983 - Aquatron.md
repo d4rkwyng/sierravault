@@ -237,7 +237,7 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 
 ## References
 
-[^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game)) – release dates, developer, publisher, contemporary reviews, naming history
+[^ref-1]: [Wikipedia – Aquatron (video game)](https://en.wikipedia.org/wiki/Aquatron_(video_game))) – release dates, developer, publisher, contemporary reviews, naming history
 [^ref-2]: [Wikipedia – Aquatron](https://en.wikipedia.org/wiki/Aquatron_%28video_game%29) – designer credits, review quotes, development history
 [^ref-3]: [Atarimania – Aquatron](http://www.atarimania.com/game-atari-400-800-xl-xe-aquatron_300.html) – user reviews, technical details, bugs, development notes
 [^ref-7]: [Apple2Games Wiki – Aquatron](https://www.apple2games.com/wiki/Aquatron) – gameplay description, historical context

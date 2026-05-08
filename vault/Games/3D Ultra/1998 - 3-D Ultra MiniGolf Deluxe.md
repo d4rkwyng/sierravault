@@ -143,7 +143,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-3]: [Collection Chamber Blog - 3D Ultra Mini Golf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) – - Retro gaming review and technical details
 [^ref-4]: [CNET Download - 3D Ultra Mini Golf Deluxe](https://download.cnet.com/3d-ultra-mini-golf-deluxe/3000-2117_4-10019371.html) – - Download page with user ratings and reviews
 [^ref-5]: [Wikipedia - 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – - Comprehensive game information and review scores
-[^ref-6]: [Wikipedia - 3D Ultra Minigolf Game Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series) – ) - Series overview and development history
+[^ref-6]: [Wikipedia - 3D Ultra Minigolf Game Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – ) - Series overview and development history
 [^ref-7]: [LaunchBox Games Database - 3-D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/424355-3-d-ultra-minigolf-deluxe) – - Release details and game specifications
 [^ref-8]: [LaunchBox Games Database - 3D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/76259-3d-ultra-minigolf-deluxe) – - Development history context
 [^ref-9]: [Gamicus Wiki - 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – - Development history and controversy information

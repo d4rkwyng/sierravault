@@ -144,6 +144,6 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 [^ref-15]: [Games Domain Archive](https://web.archive.org/web/20040203121028/http://www.gamesdomain.com/gdreview/zones/reviews/pc/feb97/eatdust.html) – Market positioning
 [^ref-16]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Developer credits (Davidson & Associates, Funnybone Interactive, Van Duyne Engineering), 1997 release date
 [^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Funnybone Interactive brand history, game catalog
-[^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game)) – Game overview, developer information
+[^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game))) – Game overview, developer information
 [^ref-19]: [Retrolorean - Eat My Dust](https://www.retrolorean.com/en/eat-my-dust-6107) – Track listing, game features
 [^ref-20]: [eBay Listing Archive](https://www.ebay.com/itm/395217486746) – Original retail packaging, 1996/1997 release context

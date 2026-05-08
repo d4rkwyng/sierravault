@@ -305,7 +305,7 @@ The expansion is notably the only Half-Life game without any boss fights, distin
 [^ref-19]: [UHS Hints – Blue Shift](https://www.uhs-hints.com/uhsweb/hlbshift.php) – chapter list
 [^ref-20]: [MobyGames – Blue Shift Reviews](https://www.mobygames.com/game/144822/half-life-blue-shift/reviews/) – player reviews, ratings
 [^ref-21]: [MobyGames – Blue Shift](https://www.mobygames.com/game/144822/half-life-blue-shift/) – game details
-[^ref-23]: [The Cutting Room Floor – Blue Shift](https://tcrf.net/Half-Life:_Blue_Shift_(Windows)) – cut content, version history, technical details
+[^ref-23]: [The Cutting Room Floor – Blue Shift](https://tcrf.net/Half-Life:_Blue_Shift_(Windows))) – cut content, version history, technical details
 [^ref-24]: [Reddit – Patient Gamers Blue Shift Discussion](https://www.reddit.com/r/patientgamers/comments/ch4vbm/halflife_blue_shift/) – fan perspectives, easter eggs
 [^ref-25]: [Metacritic – Blue Shift](https://www.metacritic.com/game/half-life-blue-shift/) – aggregate scores, review excerpts
 [^ref-26]: [IGN – Blue Shift Review](https://www.ign.com/articles/2001/06/12/half-life-blue-shift) – review score, price criticism

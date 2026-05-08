@@ -198,9 +198,9 @@ This article focuses specifically on the 1993 Impressions Games title.
 
 [^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings
 [^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
-[^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game)) – gameplay mechanics, scenarios, AI opponents, reception
+[^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game))) – gameplay mechanics, scenarios, AI opponents, reception
 [^ref-5]: [GameFAQs – Global Domination (1993)](https://gamefaqs.gamespot.com/pc/218049-global-domination-1993) – alternate title "Stratagem," release regions
-[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game)) – Chuck Moss review quotes, reception analysis
+[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game))) – Chuck Moss review quotes, reception analysis
 [^ref-7]: [MobyGames – Global Domination](https://www.mobygames.com/game/3025/global-domination/) – engine, technical specs, credits, ratings
 [^ref-8]: [Games Database – Manual](https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga//Manual/formated/Global_Domination_-_1993_-_Impressions_Games.htm) – game manual content, complexity levels, cloned leaders
 [^ref-9]: [Choicest Games – VGM Analysis](https://www.choicestgames.com/2015/12/choicest-vgm-vgm-211-global-domination.html) – composer Christopher J. Denman, music analysis, playable characters

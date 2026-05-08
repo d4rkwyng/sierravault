@@ -233,7 +233,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – release dates, developer, publisher, gameplay mechanics, course editor features
-[^ref-2]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, Minigolf Maniacs origins, sequel information
+[^ref-2]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series))) – series history, Minigolf Maniacs origins, sequel information
 [^ref-3]: [GameSpot – 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) – Aaron Thomas review, gameplay criticism, course editor praise
 [^ref-4]: [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release information, user review scores, publisher
 [^ref-5]: [Gamicus – 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – power-ups list, player count, Lost Island expansion

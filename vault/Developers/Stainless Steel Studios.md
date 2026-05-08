@@ -72,7 +72,7 @@ The fan community has kept Empire Earth alive through projects like NeoEE (neoee
 ## References
 
 [^ref-1]: [GameSpy Retro - Developer Origins Page 8](https://web.archive.org/web/20070609133153/http://www.gamespy.com/articles/697/697083p8.html) — Founding story and company name origin
-[^ref-2]: [Wikipedia - Empire Earth](https://en.wikipedia.org/wiki/Empire_Earth_(video_game)) — Sales figures, release dates, and development history
+[^ref-2]: [Wikipedia - Empire Earth](https://en.wikipedia.org/wiki/Empire_Earth_(video_game))) — Sales figures, release dates, and development history
 [^ref-3]: [Artho.com - Rick Goodman Press Release](http://artho.com/age/rick2.html) — May 1998 announcement and developer vision
 [^ref-4]: [Gamasutra - Stainless Steel Studios Closes](https://www.gamedeveloper.com/game-platforms/report-stainless-steel-studios-closes-doors) — Studio closure announcement
 [^ref-5]: [Hardcore Gaming 101 - Empire Earth](http://www.hardcoregaming101.net/empire-earth/) — Rick Goodman's background and studio goals

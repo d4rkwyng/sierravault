@@ -163,4 +163,4 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 [^ref-25]: [YouTube Interview](https://www.youtube.com/watch?v=gSLWzPvgpuk) — Educational mission success
 [^ref-26]: [PC Gamer - Police Quest Training Tool](https://www.pcgamer.com/crapshoot-police-quest-which-was-horrifyingly-used-as-a-training-tool-by-real-cops/) — Real-world training use
 [^ref-27]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest) — Criminal justice career influence
-[^ref-28]: [Wikipedia - Blade Runner (1997 video game)](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game)) — Game details, Ray McCoy protagonist, 2019 Los Angeles setting
+[^ref-28]: [Wikipedia - Blade Runner (1997 video game)](https://en.wikipedia.org/wiki/Blade_Runner_(1997_video_game))) — Game details, Ray McCoy protagonist, 2019 Los Angeles setting

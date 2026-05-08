@@ -285,7 +285,7 @@ Rick Goodman's departure from Ensemble Studios and subsequent creation of Empire
 ## References
 
 [^ref-1]: [MobyGames – Empire Earth](https://www.mobygames.com/game/5374/empire-earth/) – release date, developer, publisher information
-[^ref-2]: [Wikipedia – Empire Earth (video game)](https://en.wikipedia.org/wiki/Empire_Earth_(video_game)) – release dates, sales figures, development history, awards
+[^ref-2]: [Wikipedia – Empire Earth (video game)](https://en.wikipedia.org/wiki/Empire_Earth_(video_game))) – release dates, sales figures, development history, awards
 [^ref-3]: [Internet Archive – Empire Earth Manual](https://archive.org/stream/Empire_Earth_-_Manual_-_PC/Empire_Earth_-_Manual_-_PC_djvu.txt) – epoch details, unit counts, game features
 [^ref-4]: [GameSpot – Empire Earth Review](https://www.gamespot.com/reviews/empire-earth-review/1900-2824314/) – Greg Kasavin review, gameplay analysis, score
 [^ref-5]: [Artho.com – Rick Goodman Press Release](http://artho.com/age/rick2.html) – May 1998 announcement, developer quotes, early design concepts

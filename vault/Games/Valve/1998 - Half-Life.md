@@ -344,7 +344,7 @@ Some tracks in the game files are named "Prospero," referencing Valve's cancelle
 [^ref-1]: [Wikipedia – Half-Life (video game)](https://en.wikipedia.org/wiki/Half-Life_(video_game)) – comprehensive development history, technical details, awards, quotes
 [^ref-2]: [GamesFinity – How Half-Life Revolutionized Video Games](https://www.gamesfinity.com/editorial/how-half-life-revolutionized-video-games-a-comprehensive-look/) – industry impact analysis
 [^ref-3]: [Half-Life.com – Official Game Page](https://www.half-life.com/en/halflife) – awards, release information
-[^ref-4]: [Grokipedia – Half-Life](https://grokipedia.com/page/Half-Life_(video_game)) – technical specifications, narrative approach
+[^ref-4]: [Grokipedia – Half-Life](https://grokipedia.com/page/Half-Life_(video_game))) – technical specifications, narrative approach
 [^ref-5]: [Britannica – Half-Life (electronic game)](https://www.britannica.com/topic/Half-Life-electronic-game) – Guinness World Record, sales data
 [^ref-6]: [StrategyWiki – Half-Life](https://strategywiki.org/) – plot summary, gameplay details
 [^ref-7]: [The Guardian](https://www.theguardian.com/) – retrospective coverage of opening sequence

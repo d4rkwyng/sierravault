@@ -262,7 +262,7 @@ Modern players typically approach the game "more out of historical interest than
 ## References
 
 [^ref-1]: [MobyGames – Emmanuelle: A Game of Eroticism](https://www.mobygames.com/game/3838/emmanuelle-a-game-of-eroticism/) – developer credits, publisher info, aggregate scores, awards, technical specs
-[^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game)) – source material info, contemporary reviews, technical details
+[^ref-2]: [Wikipedia – Emmanuelle (video game)](https://en.wikipedia.org/wiki/Emmanuelle_(video_game))) – source material info, contemporary reviews, technical details
 [^ref-3]: [Abandonware DOS – Emmanuelle](https://www.abandonwaredos.com/abandonware-game.php?gid=1086) – retrospective analysis, user ratings, cultural artifact assessment
 [^ref-4]: [StrategyWiki – Emmanuelle](https://strategywiki.org/wiki/Emmanuelle) – gameplay overview, puzzle design criticism, plot summary
 [^ref-6]: [RomStation – Emmanuelle](https://www.romstation.fr/games/dos/emmanuelle-a-game-of-eroticism-r57609/) – gameplay mechanics, dialogue system description

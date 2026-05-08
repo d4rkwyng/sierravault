@@ -215,7 +215,7 @@ The game has been preserved by various abandonware sites and is considered no lo
 [^ref-6]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3277) – Amiga Power review quote
 [^ref-7]: [PC Gaming Wiki](https://www.pcgamingwiki.com/wiki/Geisha) – Platform and engine information
 [^ref-8]: [GameFAQs](https://gamefaqs.gamespot.com/pc/928267-geisha/faqs/78791/plot) – Opening quote from game manual
-[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/Geisha_(video_game)) – Basic plot description
+[^ref-9]: [Wikipedia](https://en.wikipedia.org/wiki/Geisha_(video_game))) – Basic plot description
 [^ref-10]: [Adventure Gamers](https://adventuregamers.com/games/view/24171) – Game plot description
 [^ref-11]: [OldGames](https://www.oldgames.sk/en/game/geisha/download/1754/) – Plot summary and setting description
 [^ref-12]: [Alex Bevilacqua Blog](https://alexbevi.com/blog/2023/03/23/geisha/) – Modern review and plot confusion

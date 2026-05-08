@@ -257,8 +257,8 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 
 ## References
 
-[^ref-1]: [Wikipedia – Ground Control](https://en.wikipedia.org/wiki/Ground_Control_(video_game)) – release dates, developer, publisher, Metacritic score, designers, composer
-[^ref-2]: [Wikipedia – Ground Control](https://en.m.wikipedia.org/wiki/Ground_Control_(video_game)) – gameplay mechanics, plot summary, setting
+[^ref-1]: [Wikipedia – Ground Control](https://en.wikipedia.org/wiki/Ground_Control_(video_game))) – release dates, developer, publisher, Metacritic score, designers, composer
+[^ref-2]: [Wikipedia – Ground Control](https://en.m.wikipedia.org/wiki/Ground_Control_(video_game))) – gameplay mechanics, plot summary, setting
 [^ref-3]: [GameSpot – Ground Control Review](https://www.gamespot.com/reviews/ground-control-review/1900-2588769/) – review score, gameplay analysis, technical details
 [^ref-4]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?gid=2187) – GameSpy quote, genre classification
 [^ref-5]: [Cision Press Release](https://news.cision.com/massive-entertainment/) – development team size, Sierra partnership, Walfisz quote
@@ -270,7 +270,7 @@ In 2009, Rebellion acquired the Ground Control intellectual property from Vivend
 [^ref-11]: [Amazon – Ground Control](https://www.amazon.com/Ground-Control-pc/dp/B00004KD64) – product description, story elements, platform info
 [^ref-12]: [Behind The Voice Actors](https://www.behindthevoiceactors.com/video-games/Ground-Control/) – release date, character/actor information
 [^ref-13]: [IMDB – Ground Control Full Credits](https://www.imdb.com/title/tt0416787/fullcredits/) – voice cast, production credits
-[^ref-14]: [Grokipedia – Ground Control](https://grokipedia.com/page/Ground_Control_(video_game)) – camera controls, 3D rendering, review scores
+[^ref-14]: [Grokipedia – Ground Control](https://grokipedia.com/page/Ground_Control_(video_game))) – camera controls, 3D rendering, review scores
 [^ref-15]: [CNET Download](https://download.cnet.com/ground-control-1-0-0-7-to-1-0-0-8-patch/3000-2121_4-10236478.html) – patch notes, version information
 [^ref-16]: [Rock Paper Shotgun – Massive Interview](https://www.rockpapershotgun.com/massive-on-ground-control-and-world-in-conflict) – Walfisz interview, development insights, commercial performance
 [^ref-17]: [Bjoreman Review](https://www.bjoreman.com/old/games/gc.htm) – dropship mechanics, squad system, gameplay details

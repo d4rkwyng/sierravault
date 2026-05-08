@@ -141,8 +141,8 @@ Carcassonne sat between Sierra Online's two card-game Xbox Live Arcade releases 
 
 ## References
 
-[^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) - Primary game information
-[^ref-2]: [Carcassonne board game - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)) - Original board game reference
+[^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game))) - Primary game information
+[^ref-2]: [Carcassonne board game - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game))) - Original board game reference
 [^ref-3]: [Carcassonne - IGN](https://www.ign.com/games/carcassonne) - IGN game page, 8/10 score
 [^ref-4]: [Carcassonne Review - IGN](https://www.ign.com/articles/2007/06/29/carcassonne-review) - Daemon Hatfield's full review
 [^ref-5]: [Carcassonne Reviews - Metacritic](https://www.metacritic.com/game/carcassonne/) - Aggregate review scores

@@ -307,7 +307,7 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 
 [^ref-20]: [eStarland](https://www.estarland.com/product-description/colecovision/BC-II-Grogs-Revenge/32130) – ColecoVision release date, NTSC format
 
-[^ref-21]: [The Cutting Room Floor](https://tcrf.net/B.C.'s_Quest_for_Tires_II:_Grog's_Revenge_(ColecoVision)) – regional differences, removed credits screen
+[^ref-21]: [The Cutting Room Floor](https://tcrf.net/B.C.'s_Quest_for_Tires_II:_Grog's_Revenge_(ColecoVision))) – regional differences, removed credits screen
 
 [^ref-22]: [MSX.org Forum](https://www.msx.org/forum/msx-talk/development/grogs-revenge-for-the-msx-is-broken-impossible-to-fix) – bug reproduction details, community discussion
 

@@ -261,7 +261,7 @@ Red Baron also represented an important step in the maturation of flight simulat
 ## References
 
 [^ref-1]: [Dynamix Fandom Wiki – Red Baron Series](https://dynamix.fandom.com/wiki/Red_Baron_(series)) – series overview, development history, awards
-[^ref-2]: [Grokipedia – Red Baron (1990)](https://grokipedia.com/page/Red_Baron_(1990_video_game)) – technical details, Damon Slye quotes, engine information
+[^ref-2]: [Grokipedia – Red Baron (1990)](https://grokipedia.com/page/Red_Baron_(1990_video_game))) – technical details, Damon Slye quotes, engine information
 [^ref-3]: [Games Nostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – release versions, ratings, aircraft count
 [^ref-4]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – sales data, awards, development history, Warren Spector quote
 [^ref-5]: [Sierra Gamers – Red Baron](https://www.sierragamers.com/red-baron/) – aircraft count, game description
