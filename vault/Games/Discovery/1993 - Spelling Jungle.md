@@ -178,6 +178,11 @@ The game's lasting appeal among those who played it as children suggests it succ
 
 The game also stands as a testament to the challenges of software preservation, with modern players struggling to run the title on contemporary systems despite its nostalgic appeal. The multiple name changes and releases make tracking the game's history particularly complex for preservationists and historians.[^ref-32]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/spelling-blizzard-aka-yobis-advanced-spelling-tricks) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

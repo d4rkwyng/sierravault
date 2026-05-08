@@ -204,6 +204,11 @@ For historians of tactical gaming, Breach 3 serves as an important transitional 
 
 The series is perhaps best remembered today as a companion piece to Rules of Engagement 2 rather than as a standalone experience, its innovative interlocking design being its most distinctive contribution to gaming history.[^ref-17]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/rules-of-engagement-2-breach-3-2-great-games-that-interlock-into-1-amazing-experience) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

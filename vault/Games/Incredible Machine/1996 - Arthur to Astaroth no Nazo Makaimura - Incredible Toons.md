@@ -194,6 +194,12 @@ The game demonstrates how established puzzle frameworks could be successfully ad
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [Steam](https://store.steampowered.com/search/?term=Arthur+to+Astaroth+no+Nazo+Makaimura%3A+Incredible+Toons) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

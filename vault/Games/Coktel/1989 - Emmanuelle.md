@@ -225,6 +225,12 @@ Modern players typically approach the game "more out of historical interest than
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [Steam](https://store.steampowered.com/search/?term=Emmanuelle%3A+A+Game+of+Eroticism) – Available for purchase
+
 ## Downloads
 
 **Purchase / Digital Stores:**

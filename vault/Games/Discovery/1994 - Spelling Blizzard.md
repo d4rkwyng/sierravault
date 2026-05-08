@@ -186,6 +186,11 @@ The game occupies a unique position in educational software history, being remem
 
 The Spelling Jungle series ultimately consisted of only two games, with no further entries despite the sequel hook in Spelling Blizzard's ending[^ref-12]. Sierra's later corporate restructuring under CUC and subsequent owners would shift focus away from educational titles entirely, making these games artifacts of a particular moment in the company's evolution[^ref-27][^ref-28].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/spelling-blizzard-1994) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

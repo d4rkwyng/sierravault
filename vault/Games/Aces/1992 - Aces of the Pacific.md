@@ -113,6 +113,11 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

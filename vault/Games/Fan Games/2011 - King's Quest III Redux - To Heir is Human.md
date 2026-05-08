@@ -245,6 +245,11 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Official Download**

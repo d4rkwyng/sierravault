@@ -201,6 +201,11 @@ The game has been largely forgotten in discussions of colonial-era strategy game
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/discovery-in-the-steps-of-columbus-1992)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/discovery-in-the-steps-of-columbus-1992) – Available for purchase
+
 ## Downloads
 
 **Purchase / Digital Stores:**

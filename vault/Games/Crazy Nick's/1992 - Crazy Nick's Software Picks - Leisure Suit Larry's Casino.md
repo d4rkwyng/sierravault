@@ -226,6 +226,11 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

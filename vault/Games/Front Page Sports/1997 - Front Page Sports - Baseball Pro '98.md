@@ -221,6 +221,11 @@ The game's approach anticipated the later mainstream acceptance of sabermetrics 
 
 The closure of Dynamix and the end of the Front Page Sports line meant that this philosophy would not see further development within Sierra's portfolio. However, the game's continued use in online simulation leagues demonstrates that there remains an audience for this approach to sports gaming, even if the mainstream market has moved in different directions[^ref-9]. For "armchair managers," as one reviewer put it, Front Page Sports: Baseball Pro '98 remains "a must-have"[^ref-6].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/front-page-sports-baseball-pro-98) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

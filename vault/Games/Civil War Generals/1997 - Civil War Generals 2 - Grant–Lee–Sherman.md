@@ -119,6 +119,12 @@ Civil War Generals 2: Grant, Lee, Sherman remains accessible through digital pre
 
 The game is officially unavailable through modern storefronts but may be playable on Windows 7/10 with DOSBox or PCem emulation. Community patches and mod support have extended the game's lifespan well beyond its original commercial run.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/en/games?query=Robert+E.+Lee%3A+Civil+War+General) – Available for purchase
+- [Steam](https://store.steampowered.com/search/?term=Robert+E.+Lee%3A+Civil+War+General) – Available for purchase
+
 ## Downloads
 
 The following links provide access to the complete game for archival and preservation purposes:

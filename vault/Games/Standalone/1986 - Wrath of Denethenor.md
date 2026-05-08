@@ -202,6 +202,11 @@ From a modern perspective, the game serves as an important data point in underst
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

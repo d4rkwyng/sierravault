@@ -211,6 +211,11 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

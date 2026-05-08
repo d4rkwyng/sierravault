@@ -137,6 +137,11 @@ The game also illustrates the challenges facing crowdfunded adventure games in t
 
 The Adventure Mob/Corbomite Games team demonstrated technical ambition with their Unity-based approach and cross-platform goals, even if the final product didn't fully realize these aspirations[^ref-10]. The game's hand-drawn art style and original reggae soundtrack remain its most distinctive achievements[^ref-7][^ref-20].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [Steam](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) – Available for purchase
+
 ## Downloads
 
 As a modern release, Bolt Riley: A Reggae Adventure is available through digital storefronts rather than traditional downloads.

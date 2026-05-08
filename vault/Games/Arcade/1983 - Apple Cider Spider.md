@@ -182,6 +182,11 @@ Apple Cider Spider represents an interesting footnote in Sierra On-Line's histor
 
 The game's creative premise—controlling a spider through cider factory machinery—was unusual enough to merit comment from nearly every reviewer who encountered it[^ref-4][^ref-12]. Its integration of puzzle-solving elements into platforming gameplay was ahead of its time, even if the brief length (only three screens) limited its lasting appeal[^ref-6]. The game stands as an example of the inventive hi-res games of the early 1980s, when programmers were still discovering what home computers could achieve and compensated for technical limitations with creative concepts[^ref-12].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

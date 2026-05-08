@@ -189,6 +189,11 @@ The game's failure to achieve the success of its predecessor, Turbo Science, ill
 
 From a historical perspective, Mega Math serves as an example of the drill-and-practice approach to educational software that would later be superseded by more sophisticated adaptive learning systems. Its emphasis on repetition as the path to mathematical fluency reflects the educational thinking of its era, even as its execution fell short of creating a truly compelling learning experience[^ref-3].[^ref-19]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

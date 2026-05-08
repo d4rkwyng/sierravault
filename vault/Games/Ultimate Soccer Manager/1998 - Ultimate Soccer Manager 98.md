@@ -136,6 +136,11 @@ Despite plans for Ultimate Soccer Manager 2000 with an advanced 3D match engine,
 The series maintains an active community of enthusiasts who continue to create tools, patches, and updates for modern systems[^ref-47]. Projects like the USM 9899 Tweaker demonstrate ongoing interest in preserving and extending the games' functionality[^ref-32]. The games' availability on preservation sites like MyAbandonware and Internet Archive ensures continued access for new players and nostalgic fans[^ref-48].
 
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-2-1996) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

@@ -174,6 +174,12 @@ Based on contemporary documentation:[^ref-4]
 - The Wheel of Fortune game listed in documentation may not have been fully implemented at launch[^ref-5]
 - No option to set number of players at table in single-player mode[^ref-5]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- Not currently available on GOG or Steam
+- [GOG Dreamlist – Leisure Suit Larry's Casino](https://www.gog.com/dreamlist) – Community vote for re-release
+
 ## Downloads
 
 ### Purchase / Digital Stores

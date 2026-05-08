@@ -172,6 +172,11 @@ King's Quest II: Romancing the Stones stands as a landmark achievement in fan ga
 
 The remake's significance extends beyond its individual merits to represent a broader movement of fan preservation and enhancement of classic adventure games during a period when the commercial genre had largely gone dormant[^ref-2]. AGD Interactive's work helped keep interest in Sierra's adventure games alive during the early 2000s, contributing to the eventual nostalgia-driven revival of the genre. The project remains freely available today, serving as both an accessible entry point for newcomers to the King's Quest series and a nostalgic reimagining for longtime fans[^ref-3]. The game is extensively documented in gaming databases and fan communities.[^ref-10][^ref-11][^ref-12][^ref-13][^ref-14][^ref-15][^ref-16][^ref-17]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Freeware**

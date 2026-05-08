@@ -231,6 +231,11 @@ The series' most lasting contribution was its career mode, which demonstrated th
 
 GameSpot's assessment that the game was "more fun when you are not playing" actually highlighted its greatest strength—the management and strategy elements were so compelling that many players spent more time preparing for games than actually playing them[^ref-21]. This design philosophy represented a fundamentally different approach to sports gaming that continues to influence simulation-focused titles today.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/front-page-sports-football-pro-98-1997) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

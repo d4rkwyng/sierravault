@@ -212,6 +212,11 @@ The favorable comparison to Crash Bandicoot, while perhaps generous, indicates t
 - Physical copies available through secondary market
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/adiboo-paziral-s-secret-2003)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/adiboo-paziral-s-secret-2003) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

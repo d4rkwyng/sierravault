@@ -190,6 +190,11 @@ Babylon 5: Into the Fire stands as one of the most regretted casualties of the l
 
 The cancellation came at a particularly unfortunate moment—the game was demonstrably playable and impressive at E3 1999, yet fell victim to Sierra's broader corporate troubles just months later[^ref-4][^ref-6]. As one forum commenter bitterly noted: "It's an absolute travesty that this was cancelled back then—I never forgave Sierra, who, I'm extremely glad to say went bust about 2 years later"[^ref-6]. The loss is compounded by the fact that the voice recordings represent the final time the complete Babylon 5 cast performed together, making them an irreplaceable piece of the franchise's legacy now lost in corporate archives[^ref-6].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/babylon-5-into-the-fire-2000) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

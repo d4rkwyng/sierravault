@@ -190,6 +190,12 @@ The Hoyle series occupies an unusual position in Sierra's legacy. While adventur
 
 For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the complex partnership card game without needing to assemble four human players. The educational features, including the Explain Hand option and adjustable difficulty levels, made it valuable as both entertainment and a learning tool[^ref-6]. The game's appeal to older, non-technical users represented Sierra's broader mission to expand the gaming audience—a vision that [[Ken Williams]] had pursued since the company's earliest days[^ref-15].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – Available for purchase
+- [Steam](https://store.steampowered.com/search/?term=Hoyle+Bridge) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

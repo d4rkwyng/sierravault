@@ -214,6 +214,11 @@ The game's combination of educational content with sports simulation gameplay an
 
 The closure of Dynamix following Sierra's corporate restructuring meant that Trophy Rivers would be among the studio's final productions in the fishing simulation space[^ref-10]. The game remains a testament to the ambitious scope of Sierra's simulation efforts during their peak development years, even as it demonstrates the commercial challenges of targeting specialized enthusiast markets[^ref-4].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/front-page-sports-trophy-bass-2-1996) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

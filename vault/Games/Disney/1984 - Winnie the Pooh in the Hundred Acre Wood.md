@@ -204,6 +204,11 @@ The game also represents a significant early work for two future Sierra luminari
 
 From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

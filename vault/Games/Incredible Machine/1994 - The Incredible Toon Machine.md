@@ -199,6 +199,11 @@ The Incredible Toon Machine occupies an interesting position in adventure gaming
 
 The game demonstrated that the Rube Goldberg puzzle concept could be successfully adapted to different visual styles and thematic frameworks. While not as commercially prominent as the numbered Incredible Machine entries, The Incredible Toon Machine helped establish the viability of spin-offs and thematic variations within successful game franchises—a business model that would become increasingly common in the industry.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/the-incredible-toon-machine-1994) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

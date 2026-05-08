@@ -284,6 +284,11 @@ NASCAR Racing 2003 Season occupies a unique position in gaming history as both a
 
 The game's influence extends beyond nostalgia. Its netcode and replay systems became foundational technologies for iRacing, which now serves as the premier competitive online racing simulation. "NR2003 was the last great independent NASCAR simulator," notes *Traxion.gg*, and its DNA lives on in every iRacing event.[^ref-8]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/nascar-racing-2003-season-2003) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

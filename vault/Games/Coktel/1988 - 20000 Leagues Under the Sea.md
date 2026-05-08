@@ -211,6 +211,12 @@ The 1988 release also demonstrates the ongoing appeal of Verne's prescient visio
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [Steam](https://store.steampowered.com/app/821720/20000_Leagues_Under_The_Sea__Captain_Nemo/) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

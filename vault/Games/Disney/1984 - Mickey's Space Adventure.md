@@ -220,6 +220,11 @@ The collaboration between Sierra and Disney established a template for education
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/mickey-s-space-adventure-1984)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/mickey-s-space-adventure-1984) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

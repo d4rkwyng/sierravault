@@ -227,6 +227,11 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 - **CART Flag to Flag / Super Speed Racing** (1999) – A Sega Dreamcast title developed by ZOOM Inc., unrelated to the Papyrus simulation[^ref-24]
 - **CART Fury Championship Racing** (2001) – An arcade and PlayStation 2 title[^ref-25]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/forum/general/sports_and_racing_game_sections) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

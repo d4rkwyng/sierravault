@@ -120,6 +120,11 @@ The game has found preservation through various digital distribution platforms a
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

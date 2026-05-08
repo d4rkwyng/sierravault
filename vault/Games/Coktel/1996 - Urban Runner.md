@@ -204,6 +204,11 @@ Urban Runner occupies an interesting position in adventure gaming history, repre
 
 The game's spiritual connection to Lost in Time and its intended role in a larger "Lost in..." franchise speaks to Coktel Vision's ambitions during this period, even as Sierra's acquisition disrupted those plans.[^ref-4] While Urban Runner is rarely cited among the great adventure games of its era, it remains a valuable artifact of 1990s gaming culture, demonstrating both the excitement and the pitfalls that characterized the industry's brief love affair with interactive movies.[^ref-7] Modern retrospectives have been more forgiving than contemporary reviews, recognizing the game's entertainment value as a campy thriller even while acknowledging its technical and artistic shortcomings.[^ref-8]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/urban-runner-1996) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

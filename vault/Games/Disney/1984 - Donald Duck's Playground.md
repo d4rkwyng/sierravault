@@ -218,6 +218,11 @@ The game's influence can be seen in the edutainment boom that followed in the la
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist/game/donald-duck-s-playground-1984)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/donald-duck-s-playground-1984) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

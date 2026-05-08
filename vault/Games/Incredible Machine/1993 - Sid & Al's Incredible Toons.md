@@ -202,6 +202,11 @@ Sid & Al's Incredible Toons occupies an interesting position in puzzle game hist
 
 The game's influence can be seen in later physics-based puzzle games that emphasized humor and character alongside mechanical challenge. Its combination of logical puzzle-solving with cartoon entertainment values anticipated the casual gaming boom by nearly a decade, where approachable mechanics wrapped in appealing presentation became the industry standard. The fact that *Computer Gaming World* described it as transcending genre boundaries into "a new generation of software toys"[^ref-3] suggests critics recognized its forward-thinking design philosophy.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/sid-als-incredible-toons) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

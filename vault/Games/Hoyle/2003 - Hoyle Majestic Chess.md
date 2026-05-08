@@ -211,6 +211,11 @@ Hoyle Majestic Chess represents an important milestone in chess software history
 
 The game's legacy is perhaps best summarized by user reviews calling it "the best beginner chess game of all time" and noting that "there simply isn't anything else like it, even today."[^ref-5] Despite being over two decades old, the game continues to be sought after by players who appreciate its unique blend of chess instruction and fantasy adventure gaming. Its influence can be seen in later attempts to combine chess with adventure game elements, though none have achieved the same level of acclaim for their educational effectiveness.[^ref-17]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/hoyle-majestic-chess-2003) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

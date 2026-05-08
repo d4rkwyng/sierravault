@@ -190,6 +190,11 @@ The trilogy of Sierra Network dungeon games—including The Shadow of Yserbius, 
 
 The game's Macbeth-inspired setting distinguished it from typical fantasy fare, demonstrating that online games could draw from literary sources for thematic depth.[^ref-3] This creative ambition, combined with its technical innovations in multiplayer connectivity, ensures The Ruins of Cawdor's place in gaming history as a pioneering experiment in social gaming.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995) – Available for purchase
+
 ## Downloads
 
 **Purchase / Digital Stores:**

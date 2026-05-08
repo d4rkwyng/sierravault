@@ -134,6 +134,12 @@ The soundtrack has maintained a cult following, with fans particularly appreciat
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/shivers-2-harvest-of-souls) – Available for purchase
+- [Steam](https://store.steampowered.com/search/?term=Shivers+Two%3A+Harvest+of+Souls) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

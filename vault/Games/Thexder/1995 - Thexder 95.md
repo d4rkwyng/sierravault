@@ -198,6 +198,11 @@ The decision to develop Thexder 95 without Game Arts—who created and understoo
 
 The game also suffered from timing issues. By 1995, the transforming robot concept that had been revolutionary in 1985 felt dated, and the multi-window interface—intended to be innovative—instead highlighted how awkwardly traditional game designs fit within the Windows paradigm[^ref-1][^ref-2]. The harsh Computer Gaming World assessment reflected broader industry sentiment that the franchise had outlived its relevance[^ref-20].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/thexder) – Available for purchase
+
 ## Downloads
 
 **Preservation Resources**

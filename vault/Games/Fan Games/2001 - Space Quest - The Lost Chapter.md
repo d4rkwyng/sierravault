@@ -210,6 +210,12 @@ The game's faithful recreation of AGI-era gameplay represents both its greatest 
 
 In the broader context of fan game development, The Lost Chapter stands as an early example of fans taking ownership of abandoned franchises. Its release in 2001 predated the modern era of crowdfunded revivals and official fan game licensing, making it a product of pure grassroots enthusiasm. While opinions on its quality remain divided, its impact on the Space Quest fan community and its role in preserving interest in the franchise during Sierra's dormant years is undeniable.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- Not currently available on GOG or Steam
+- [GOG Dreamlist – Space Quest: The Lost Chapter](https://www.gog.com/dreamlist) – Community vote for re-release
+
 ## Downloads
 
 **Download / Preservation**

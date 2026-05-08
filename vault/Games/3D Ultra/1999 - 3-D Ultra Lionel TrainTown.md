@@ -202,6 +202,11 @@ The game's educational approach proved particularly effective, teaching fundamen
 
 In retrospect, the game represents an interesting moment in edutainment history—a period when major publishers like Sierra invested in creating quality educational titles that could compete with pure entertainment products. The combination of authentic Lionel branding, quality puzzle design, and child-friendly presentation created a title that many players remember fondly decades later[^ref-12][^ref-18].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/3d-ultra-lionel-traintown-1999) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

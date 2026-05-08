@@ -214,6 +214,11 @@ IndyCar Racing represents a pivotal moment in racing simulation history, bridgin
 
 The game's influence extends beyond its own success. Papyrus went on to create NASCAR Racing (1994), which sold over 1,000,000 copies, and eventually Grand Prix Legends (1998), which "is still considered to be one of the finest racing games of all time."[^ref-21] David Kaemmer later recovered the rights to Papyrus's racing simulation technology after the studio was shut down by Vivendi Universal in May 2004, eventually founding iRacing, which continues the Papyrus simulation legacy in the modern era.[^ref-21]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/indycar-racing-1993) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

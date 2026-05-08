@@ -205,6 +205,11 @@ Jeff Tunnell's involvement lends the game additional historical significance. As
 
 The game's cultural details—featuring Indian-American space elf protagonists—were relatively unusual for educational software of its era, though the execution combined cultural elements in ways that might seem dated by modern standards.[^ref-4] Nevertheless, the game's continued presence in abandonware collections and speedrunning communities suggests it achieved its goal of creating memorable educational experiences for a generation of young players.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/quarky-quaysoos-turbo-science) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

@@ -248,6 +248,11 @@ The game's significance extends beyond its commercial success to its role in dem
 
 The game's three remakes over a decade—more than almost any other Sierra title—speak to its enduring appeal and commercial viability.[^ref-10] Each version took advantage of technological advances to enhance the educational and entertainment value while maintaining the core gameplay loop that made the original successful. This iterative improvement approach presaged modern practices of updating successful educational titles for new platforms and capabilities.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/mixedup-mother-goose) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

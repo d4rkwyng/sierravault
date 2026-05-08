@@ -209,6 +209,11 @@ The game's emphasis on the managerial "office" environment and club infrastructu
 
 The cancellation of Ultimate Soccer Manager 2000 marked the end of a series that had provided genuine competition in the genre. While Championship Manager and its successor Football Manager would go on to dominate the market, USM's legacy lies in demonstrating that alternative approaches to football management simulation could be equally engaging and commercially viable. For many European gamers of the late 1990s, USM 98-99 remains a nostalgic benchmark for the genre.[^ref-2][^ref-14]
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-98-99-1999) – Available for purchase
+
 ## Downloads
 
 **Digital Availability Note:** Ultimate Soccer Manager 98-99 is not currently available on Steam or GOG.com digital storefronts.[^ref-19]

@@ -184,6 +184,11 @@ The series also showcased the flexibility of Sierra's SCI engine technology, pro
 
 Ken Williams himself expressed interest in extending Sierra's core technology to include multiplayer capabilities, suggesting that the social gaming experience represented by the Hoyle series aligned with the company's broader vision for interactive entertainment[^ref-24].
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/hoyle-classic-games-1995) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

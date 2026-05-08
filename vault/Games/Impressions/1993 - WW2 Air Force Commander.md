@@ -200,6 +200,11 @@ The game's historical significance lies primarily in documenting the evolution o
 
 - [GOG Dreamlist](https://www.gog.com/dreamlist)
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Purchase / Digital Stores:**

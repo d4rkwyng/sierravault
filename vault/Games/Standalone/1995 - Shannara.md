@@ -236,6 +236,11 @@ The game's design philosophy of accessibility—making puzzles solvable without 
 
 Legend Entertainment's visual achievement with Shannara showed the studio could compete with larger developers in presentation quality, even if the gameplay remained rooted in their text-adventure heritage. The game stands as one of the final examples of the illustrated adventure style that Legend pioneered before the company shifted focus to other genres in the late 1990s.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/shannara) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

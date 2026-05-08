@@ -202,6 +202,11 @@ The game's emphasis on audiovisual polish, particularly its acclaimed eleven-tra
 
 In the broader context of Sierra On-Line's publishing history, Fire Hawk represents the company's efforts to diversify beyond their core adventure game catalog through strategic partnerships with Japanese developers. This relationship with Game Arts would contribute to Sierra's reputation as a publisher willing to bring quality international titles to Western audiences, even in genres outside their primary expertise.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/fire-hawk-thexder-the-second-contact-1990) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

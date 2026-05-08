@@ -214,6 +214,11 @@ The series' long-term significance lies partly in its demonstration of Sierra's 
 
 From a preservation standpoint, Hoyle Solitaire represents an era when major game publishers invested in polished casual gaming products. While modern operating systems include free solitaire games, the comprehensive variety and presentation quality of Hoyle Solitaire set it apart from basic alternatives available at the time. The game's continued availability through abandonware sites and archives ensures that this piece of gaming history remains accessible for study and enjoyment.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**

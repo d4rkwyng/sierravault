@@ -185,6 +185,11 @@ The game's legacy is perhaps best understood in the context of its educational v
 
 The Pro Pilot series ultimately failed to sustain momentum beyond 1999, leaving Microsoft Flight Simulator unchallenged in the civilian aviation market until modern competitors like X-Plane emerged. However, the franchise demonstrated Sierra's willingness to compete across multiple simulation genres during the company's most ambitious expansion period.
 
+## Purchase
+
+**Purchase / Digital Stores**
+- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+
 ## Downloads
 
 **Download / Preservation**
