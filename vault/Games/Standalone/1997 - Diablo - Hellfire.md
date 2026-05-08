@@ -22,7 +22,7 @@ tags: [1990s, diablo, rpg, sierra]
 
 ## Overview
 
-Diablo: Hellfire is the only official expansion pack released for Blizzard Entertainment's groundbreaking 1996 action RPG Diablo.[^ref-1] Released on November 24, 1997, this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a division of Sierra On-Line.[^ref-2] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
+Diablo: Hellfire is the only official expansion pack released for Blizzard Entertainment's groundbreaking 1996 action RPG Diablo.[^ref-1][^ref-14] Released on November 24, 1997, this single-player expansion was developed not by Blizzard North, but by [[Synergistic Software]], a division of Sierra On-Line.[^ref-2][^ref-15] The expansion introduced a new playable character class—the Monk—along with two new dungeon tilesets, additional quests, new items including oils and runes, and a host of interface improvements that players would come to appreciate.[^ref-3]
 
 The expansion's storyline centers on Na-Krul, a powerful demon who once ranked highly in Diablo's hierarchy before turning on his master.[^ref-4] When a sorcerer unknowingly performs a ritual that releases Na-Krul unto the town of Tristram, the player must venture into the demon's lair to stop this new threat.[^ref-5] Despite being designed as an optional, off-the-beaten-path addition to the original game's content, Hellfire became Synergistic Software's most financially successful release.[^ref-2]
 

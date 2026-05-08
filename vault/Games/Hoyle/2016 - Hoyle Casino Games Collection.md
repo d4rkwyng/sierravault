@@ -1,7 +1,7 @@
 ---
 title: Hoyle Official Casino Games Collection
 release_year: 2016
-developer: Encore[^ref-18] Software
+developer: Encore[^ref-18][^ref-14] Software
 designer: []
 publisher: Encore
 genre: Casino
@@ -22,7 +22,7 @@ tags: [2010s, hoyle-casino, sierra]
 
 ## Overview
 
-Hoyle Official Casino Games Collection, released in 2016, represents the final entry in the long-running Hoyle Casino series that began in 1996 under Sierra Entertainment[^ref-1]. The game was developed and published by Encore Software, which had acquired the Hoyle brand from Sierra in 2005 and continued releasing annual casino game compilations[^ref-1]. This collection promised players the experience of living "the life of a High Roller" with over 20 casino games to choose from[^ref-2].
+Hoyle Official Casino Games Collection, released in 2016, represents the final entry in the long-running Hoyle Casino series that began in 1996 under Sierra Entertainment[^ref-1][^ref-16]. The game was developed and published by Encore Software, which had acquired the Hoyle brand from Sierra in 2005 and continued releasing annual casino game compilations[^ref-1][^ref-17]. This collection promised players the experience of living "the life of a High Roller" with over 20 casino games to choose from[^ref-2].
 
 The game serves as a virtual Las Vegas casino simulation where players can create profiles and are given virtual money to gamble with—a core mechanic that has defined the Hoyle Casino series since its inception[^ref-1]. Available games include Blackjack, Craps, Baccarat, Roulette, and eleven popular variations of Poker[^ref-3]. The collection also features a Face Creator tool allowing players to customize their in-game avatars[^ref-2].
 

@@ -96,18 +96,18 @@ Tribes 2 had a profound impact on multiplayer gaming, with PC Gamer noting that 
 
 The community created extensive modifications and content, including approximately 65 mods, multiple map packs, and more than 1000 scripts and utilities[^ref-40]. When Sierra discontinued official online support in 2008[^ref-41], the community developed TribesNext, a revival project that brought multiplayer functionality back online[^ref-24]. In 2024, Hi-Rez Studios made the entire Tribes series available for free to increase interest in their upcoming sequel[^ref-42].
 
-## Legacy
+### Influence on Team-Based FPS Design
 
 Tribes 2 remained an influential title in team-based FPS design, demonstrating the viability of class-based gameplay and jetpack mobility mechanics[^ref-2]. The game's community-driven server customization and scripting systems encouraged content creation and kept the game fresh years after release[^ref-3]. While overshadowed by later franchises, Tribes 2 maintained a dedicated player base through the 2000s and influenced subsequent team-based shooters[^ref-4]. The game's emphasis on verticality and squad tactics anticipated design trends seen in modern competitive FPS titles[^ref-2].
 
-
-### ### Competitive Scene and Community Support
+### Competitive Scene and Community Support
 
 Tribes 2's competitive esports potential attracted serious players and clans, creating one of the most vibrant online gaming communities of the early 2000s[^ref-2]. The game's skill-based vertical gameplay and team dynamics fostered intense competition and spawned lasting player communities[^ref-3]. Server customization options allowed clans to create tailored gameplay experiences and preserve unique variants of the game long after official support ended[^ref-4].
 
-### Technical Achievements
+### NetCode and Server Scripting
 
 The NetCode technology powering Tribes 2 provided smooth gameplay over internet connections, enabling fast-paced multiplayer action with minimal latency issues[^ref-3]. Server-side scripting created an extensible platform for gameplay customization and balance tweaks[^ref-4].
+
 ### Vertical Gameplay and Environment Design
 
 The game's sophisticated use of jetpacks and three-dimensional level design created unique combat opportunities unavailable in horizontal-focused first-person shooters[^ref-2]. Environmental verticality rewarded players who mastered advanced movement techniques like strafe-jumping and terrain-based positioning[^ref-3].

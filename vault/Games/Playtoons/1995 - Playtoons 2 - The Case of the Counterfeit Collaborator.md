@@ -22,7 +22,7 @@ tags: [1990s, coktel, educational, playtoons, sierra]
 
 ## Overview
 
-Playtoons 2: The Case of the Counterfeit Collaborator is an interactive storybook and creativity game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995[^ref-1]. Known by several regional titles including "Playtoons Nr. 2: Rummelsdorf Hoch Zwei" in Germany and "Playtoons №2: Micmac à Champignac" in France[^ref-2], the game represents the second entry in the Playtoons series of educational creativity software aimed at children[^ref-3].
+Playtoons 2: The Case of the Counterfeit Collaborator is an interactive storybook and creativity game developed by [[Coktel Vision]] and published by [[Sierra On-Line]] in 1995[^ref-1][^ref-22]. Known by several regional titles including "Playtoons Nr. 2: Rummelsdorf Hoch Zwei" in Germany and "Playtoons №2: Micmac à Champignac" in France[^ref-2], the game represents the second entry in the Playtoons series of educational creativity software aimed at children[^ref-3].
 
 The game combines an interactive comic book narrative with a robust construction kit that allows children to create their own animated stories[^ref-4]. The interactive story component is effectively a digital adaptation of "Spirou Episode 18: Micmac In Champignac" (1993), utilizing the same story, voice actors, art, and animations from the original cartoon[^ref-5]. This approach of repurposing existing animated content into interactive software was characteristic of Coktel Vision's educational titles during this period.
 

@@ -21,7 +21,7 @@ tags: [1990s, sierra, strategy, v-for-victory]
 
 ## Overview
 
-V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based strategy wargame developed by Atomic Games, Inc. and published by Three-Sixty Pacific, Inc. in 1991 for MS-DOS and Macintosh platforms[^ref-1]. The game thrusts the player into the role of a military strategist during the Normandy invasion of World War II, allowing them to command either American or German forces during one of history's most pivotal military operations[^ref-2]. Widely lauded as the best wargame of its era, it represented a significant breakthrough in computer wargame design[^ref-3].
+V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based strategy wargame developed by Atomic Games, Inc. and published by Three-Sixty Pacific, Inc. in 1991 for MS-DOS and Macintosh platforms[^ref-1][^ref-18]. The game thrusts the player into the role of a military strategist during the Normandy invasion of World War II, allowing them to command either American or German forces during one of history's most pivotal military operations[^ref-2][^ref-19]. Widely lauded as the best wargame of its era, it represented a significant breakthrough in computer wargame design[^ref-3][^ref-20].
 
 The game was revolutionary for its time, being described as "the first wargame (since Eastern Front) that broke the mold and wrote a computer wargame" rather than simply adapting traditional hex-and-counter board games to the computer screen[^ref-4]. This debut title from Atomic Games established the V for Victory series, which would go on to spawn three additional games covering other World War II battles[^ref-5]. The success of the series also inspired the similar World at War series published by Avalon Hill[^ref-5].
 

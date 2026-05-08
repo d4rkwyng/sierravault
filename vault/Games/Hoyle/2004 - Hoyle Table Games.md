@@ -21,7 +21,7 @@ tags: [2000s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Table Games 2004 represents a continuation of Sierra's long-running Hoyle series, which began in 1989 and was named after the 18th century playing card expert Edmond Hoyle[^ref-1]. Released in September 2003 for Windows PC[^ref-6], the game marketed itself with the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment under the Vivendi Universal Games umbrella[^ref-4][^ref-5].
+Hoyle Table Games 2004 represents a continuation of Sierra's long-running Hoyle series, which began in 1989 and was named after the 18th century playing card expert Edmond Hoyle[^ref-1][^ref-17]. Released in September 2003 for Windows PC[^ref-6], the game marketed itself with the tagline "A Game for Every Player. A Game for Every Night! All of the best classic table games with a brand-new twist!"[^ref-3]. The title was developed by Buzz Monkey Software, LLC and published by Sierra Entertainment under the Vivendi Universal Games umbrella[^ref-4][^ref-5].
 
 The game features an impressive collection of 18 classic table games, offering players a comprehensive digital board game experience[^ref-6]. As noted by MyGamer, "Hoyle Table Games represents the cutting edge of computer technology with its beautiful graphics and involving gameplay, but the games themselves belong to history"[^ref-7]. The title introduced several new features to the Hoyle series, including the "Hoyle Bucks" virtual currency system, a Facemaker Tool for character creation, and a BackTalk Feature for player interaction[^ref-3].
 

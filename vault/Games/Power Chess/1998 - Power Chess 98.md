@@ -1,6 +1,6 @@
 ---
 title: Power Chess 98
-release_year: 1997
+release_year: 1998
 developer: Sierra On-Line
 designer: [Elon Gasper, Tom Abbott, John Gilmore, Eric Tangborn]
 publisher: Sierra On-Line

@@ -19,9 +19,9 @@ last_updated: '2026-04-22'
 
 ## Overview
 
-**Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2]
+**Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1][^ref-13] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2][^ref-14]
 
-Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-9][^ref-11][^ref-7]
+Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-15][^ref-6][^ref-9][^ref-11][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]

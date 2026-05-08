@@ -174,14 +174,6 @@ This educational framework proved so successful that it became the template for 
 - [[2001 - Arcanum]]
 - [[2007 - World in Conflict]]
 
-### Contemporary Market Position
-
-Slater & Charlie Go Camping competed in the growing educational software market against established titles from Brøderbund and other publishers[^ref-2]. Despite critical acclaim for its innovative approach to combining entertainment with learning, the game faced significant challenges in market penetration dominated by Living Books' established presence[^ref-1]. The game's technical achievement in delivering full narration via floppy disk was noteworthy but didn't overcome the visual polish advantage of CD-ROM based competitors[^ref-15].
-
-### Educational Philosophy
-
-The game's design philosophy emphasized that "so much fun, your children won't notice they're learning"[^ref-9], reflecting Sierra's understanding that effective educational software must prioritize engagement over explicit instruction[^ref-11]. This approach influenced later titles in the Dr. Brain series and other educational software from Sierra, establishing a template for learning-through-play design[^ref-2].
-
 ## References
 
 [^ref-1]: [Wikipedia - Slater & Charlie Go Camping](https://en.wikipedia.org/wiki/Slater_&_Charlie_Go_Camping) – - Release dates, developer, and basic game information

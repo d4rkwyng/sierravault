@@ -20,7 +20,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 <small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
-King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13].
+King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-16][^ref-3][^ref-13].
 
 Released in five chapters between July 2015 and October 2016, the game reimagines the classic King's Quest franchise, featuring an elderly King Graham narrating his youthful adventures to his granddaughter Gwendolyn[^ref-1][^ref-3].
 

@@ -1,6 +1,6 @@
 ---
 title: Hoyle Casino 2003
-release_year: 2002
+release_year: 2003
 developer: Sierra Entertainment
 designer: []
 publisher: Sierra Entertainment

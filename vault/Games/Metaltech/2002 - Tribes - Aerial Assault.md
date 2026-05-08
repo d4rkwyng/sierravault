@@ -22,7 +22,7 @@ tags: [2000s, shooter, sierra, tribes]
 
 ## Overview
 
-Tribes: Aerial Assault is an online multiplayer first-person shooter developed by Inevitable Entertainment and published by [[Sierra On-Line]] for the PlayStation 2 in September 2002.[^ref-1] The game represents a console adaptation of the PC hit Tribes 2, essentially creating a simplified version of that experience for PlayStation 2 owners.[^ref-1] Set in the 40th century's wild frontier known as the Wilderzone, the game pits human tribes against genetically modified Bioderm hordes in jetpack-equipped combat across massive battlefields.[^ref-2]
+Tribes: Aerial Assault is an online multiplayer first-person shooter developed by Inevitable Entertainment and published by [[Sierra On-Line]] for the PlayStation 2 in September 2002.[^ref-1][^ref-13] The game represents a console adaptation of the PC hit Tribes 2, essentially creating a simplified version of that experience for PlayStation 2 owners.[^ref-1][^ref-15] Set in the 40th century's wild frontier known as the Wilderzone, the game pits human tribes against genetically modified Bioderm hordes in jetpack-equipped combat across massive battlefields.[^ref-2]
 
 The title holds significant historical importance as one of the first PlayStation 2 games designed almost exclusively for online play, and notably was the first online PlayStation 2 shooter to support both modem and broadband connections.[^ref-1] Tribes: Aerial Assault was announced in tandem with Sony's online strategy for the PlayStation 2 at E3 2001, positioning it as a flagship title for the console's emerging online capabilities.[^ref-1] The game supports up to 16 players online, with options for dedicated or integrated PlayStation 2 servers.[^ref-5]
 

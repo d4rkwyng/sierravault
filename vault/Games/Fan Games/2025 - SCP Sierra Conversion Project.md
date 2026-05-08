@@ -21,7 +21,7 @@ tags: [2020s, amiga, enhancement, fan-project, remaster, sierra]
 ## Overview
 
 > [!info]- Game Info
-> **Developer:** SCP (DaRaSCo, kikems/AmigaWave, Estrayk)[^ref-1]
+> **Developer:** SCP (DaRaSCo, kikems/AmigaWave, Estrayk)[^ref-1][^ref-21]
 > **Designer:** DaRaSCo, kikems[^ref-2]
 > **Publisher:** SCP (self-published)[^ref-1]
 > **Engine:** SCI (Enhanced Graphics)[^ref-1]

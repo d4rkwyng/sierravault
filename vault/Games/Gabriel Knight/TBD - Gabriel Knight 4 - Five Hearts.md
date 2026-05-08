@@ -11,7 +11,7 @@ engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
 last_updated: '2026-04-22'
-composer: [Robert Holmes[^ref-15]]
+composer: [Robert Holmes[^ref-15][^ref-6]]
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
   developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
 tags: [adventure, gabriel-knight, jane-jensen, sierra]
@@ -22,11 +22,11 @@ tags: [adventure, gabriel-knight, jane-jensen, sierra]
 
 ## Overview
 
-Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1] Rather than a completed video game, Five Hearts exists as both a pitch document for a potential fourth installment in the beloved supernatural mystery franchise and as a published short story serving as the opening chapter of what Jensen envisions for Gabriel Knight's return.[^ref-2] The project represents Jensen's ongoing efforts since the late 1990s to continue the adventures of the Schattenjäger (Shadow Hunter), a quest that has spanned decades and multiple corporate ownership changes.[^ref-3]
+Gabriel Knight 4: Five Hearts is an unreleased adventure game concept developed by [[Jane Jensen]], the original creator of the Gabriel Knight series.[^ref-1][^ref-8] Rather than a completed video game, Five Hearts exists as both a pitch document for a potential fourth installment in the beloved supernatural mystery franchise and as a published short story serving as the opening chapter of what Jensen envisions for Gabriel Knight's return.[^ref-2][^ref-9] The project represents Jensen's ongoing efforts since the late 1990s to continue the adventures of the Schattenjäger (Shadow Hunter), a quest that has spanned decades and multiple corporate ownership changes.[^ref-3][^ref-10]
 
-The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1] Despite fan enthusiasm and Jensen's continued creative work on the franchise, the game remains in limbo as of 2024, with Jensen expressing frustration at her inability to secure the necessary licensing rights to move forward with development.[^ref-4]
+The pitch was developed in cooperation with an indie development team from Israel that reached out to Jensen and her husband, composer Robert Holmes.[^ref-4][^ref-11] Jensen has been actively attempting to gain the attention of Microsoft, which acquired the Gabriel Knight intellectual property through its purchase of Activision.[^ref-1][^ref-12] Despite fan enthusiasm and Jensen's continued creative work on the franchise, the game remains in limbo as of 2024, with Jensen expressing frustration at her inability to secure the necessary licensing rights to move forward with development.[^ref-4][^ref-13]
 
-The proposed game would continue the series' tradition of blending supernatural horror with detective fiction, this time taking Gabriel to Salzburg, Austria, where serial killings involving removed hearts serve as both a literal mystery and a metaphorical exploration of Gabriel's own emotional journey.[^ref-4] The concept demonstrates Jensen's ambition to evolve the franchise while maintaining the mature storytelling that earned her the title of "the interactive Anne Rice" from Computer Gaming World.[^ref-1]
+The proposed game would continue the series' tradition of blending supernatural horror with detective fiction, this time taking Gabriel to Salzburg, Austria, where serial killings involving removed hearts serve as both a literal mystery and a metaphorical exploration of Gabriel's own emotional journey.[^ref-4][^ref-14] The concept demonstrates Jensen's ambition to evolve the franchise while maintaining the mature storytelling that earned her the title of "the interactive Anne Rice" from Computer Gaming World.[^ref-1]
 
 > [!info]- Game Info
 > **Developer:** Unreleased (Pitched with Israeli indie team)[^ref-4]

@@ -22,7 +22,7 @@ tags: [1990s, educational, sierra, spelling-jungle]
 
 ## Overview
 
-Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2]. The game serves as the sequel to Spelling Jungle, transporting the spelling-focused gameplay from a tropical setting to an arctic environment while maintaining the core puzzle mechanics that made its predecessor notable among educational software of the era[^ref-3][^ref-4].
+Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-29][^ref-2][^ref-30]. The game serves as the sequel to Spelling Jungle, transporting the spelling-focused gameplay from a tropical setting to an arctic environment while maintaining the core puzzle mechanics that made its predecessor notable among educational software of the era[^ref-3][^ref-4].
 
 Designed primarily for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving, challenging players to navigate grid-based levels while collecting letters in the correct order to spell words[^ref-5]. The game was part of Sierra's Talking Tutor series of educational software, representing the company's commitment to the edutainment market during the early 1990s[^ref-5].
 

@@ -21,7 +21,7 @@ tags: [1990s, adventure, dgds, dynamix, sierra, standalone]
 
 ## Overview
 
-The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and published by Sierra On-Line in 1991.[^ref-1] The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.[^ref-2] Designer [[Jeff Tunnell]] conceived the project with the ambitious goal of transforming the personal computer into a platform for an interactive Saturday morning cartoon, complete with hand-drawn animation and colorful characters.[^ref-3]
+The Adventures of Willy Beamish is a graphic adventure game developed by Dynamix and published by Sierra On-Line in 1991.[^ref-1][^ref-54] The game puts players in control of nine-year-old Willy Beamish, a mischievous kid navigating the last day of school before summer vacation and the chaotic days that follow.[^ref-2] Designer [[Jeff Tunnell]] conceived the project with the ambitious goal of transforming the personal computer into a platform for an interactive Saturday morning cartoon, complete with hand-drawn animation and colorful characters.[^ref-3]
 
 The game pioneered the use of in-game graphics drawn to resemble classic hand-drawn cartoon animation, setting it apart from other adventure games of the era.[^ref-4] Despite featuring a young boy as the protagonist, much of the game's humor is distinctly adult-oriented, creating an unusual tonal blend that contributed to its cult status.[^ref-5] The development team included veteran animators, most notably Rene Garcia, who had previously worked on Disney's The Little Mermaid as well as the original Scooby-Doo and The Flintstones cartoon series in the 1960s.[^ref-6]
 

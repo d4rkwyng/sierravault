@@ -21,7 +21,7 @@ tags: [2000s, hoyle-casino, sierra]
 
 ## Overview
 
-Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment in Sierra Entertainment's long-running casino simulation series[^ref-1]. Released in late 2000 for Windows and Macintosh platforms, the game continued the franchise's tradition of offering players a comprehensive virtual Las Vegas casino experience[^ref-2]. The title was also released on Sega Dreamcast and Game Boy Color, expanding the series' reach to console and handheld audiences[^ref-2].
+Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment in Sierra Entertainment's long-running casino simulation series[^ref-1][^ref-17]. Released in late 2000 for Windows and Macintosh platforms, the game continued the franchise's tradition of offering players a comprehensive virtual Las Vegas casino experience[^ref-2]. The title was also released on Sega Dreamcast and Game Boy Color, expanding the series' reach to console and handheld audiences[^ref-2].
 
 As a spin-off of the classic Hoyle's Official Book of Games series, Hoyle Casino 2001 allowed players to create custom profiles and receive virtual money to wager across fourteen different casino games with over four hundred combinations[^ref-1][^ref-2]. The game featured 25 default characters to choose from and was set in a fully-realized virtual Las Vegas casino environment[^ref-2]. This edition introduced two new games not seen in previous releases—Baccarat and Video Blackjack—along with an improved tournament mode and a bonus version of video poker designed for Palm OS devices[^ref-1].
 

@@ -22,7 +22,7 @@ tags: [1980s, adventure, sierra, ween]
 
 ## Overview
 
-Legend of Djel is a fantasy adventure game released in 1989 by French developer Coktel Vision and published by Tomahawk, a sister company launched in early 1989[^ref-12]. The game was designed by Muriel Tramis and Joseph Kluytmans, featuring artwork by Joseph Kluytmans and music by Robin Aziosmanoff[^ref-21]. Set in the mystical Kingdom of the Ashes, players take on the role of a gnome named Djel who must complete three critical missions to save the realm[^ref-3].
+Legend of Djel is a fantasy adventure game released in 1989 by French developer Coktel Vision and published by Tomahawk, a sister company launched in early 1989[^ref-12][^ref-38]. The game was designed by Muriel Tramis and Joseph Kluytmans, featuring artwork by Joseph Kluytmans and music by Robin Aziosmanoff[^ref-21]. Set in the mystical Kingdom of the Ashes, players take on the role of a gnome named Djel who must complete three critical missions to save the realm[^ref-3].
 
 The game represents an early example of Coktel Vision's adventure game development, serving as a precursor to their later Ween series[^ref-6]. Originally released for Amiga, Atari ST, and MS-DOS platforms[^ref-12], the game was previewed in Amiga Computing magazine in 1989[^ref-8]. Legend of Djel received mixed critical reception upon release, with contemporary review scores ranging dramatically from 49% to 85% across different gaming publications[^ref-7]. Despite its varied reception, the game has been preserved through various abandonware archives[^ref-1][^ref-2] and remains playable on modern systems through DOS emulation[^ref-30].
 

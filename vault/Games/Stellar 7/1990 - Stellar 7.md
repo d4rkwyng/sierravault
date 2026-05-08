@@ -1,6 +1,6 @@
 ---
 title: Stellar 7
-release_year: 1983
+release_year: 1990
 developer: Dynamix
 designer: [Damon Slye]
 publisher: Software Entertainment Company
@@ -21,7 +21,7 @@ tags: [1980s, dynamix, sierra, simulation, stellar-7]
 
 ## Overview
 
-Stellar 7 is a futuristic tank simulation computer game inspired by the 1980 arcade game Battlezone, first released in 1983 for the Apple II before being ported to other platforms.[^ref-1] Created by [[Damon Slye]], the game places players in control of the Raven, described as "the most advanced Terran fighting vehicle," tasked with defending Earth from an alien invasion led by the evil warlord Gir Draxon of the Arcturan Empire.[^ref-2] The game represents a pivotal moment in gaming history as the first title created by the founders of Dynamix, released before the company was officially established in 1984.[^ref-3]
+Stellar 7 is a futuristic tank simulation computer game inspired by the 1980 arcade game Battlezone, first released in 1983 for the Apple II before being ported to other platforms.[^ref-1][^ref-32] Created by [[Damon Slye]], the game places players in control of the Raven, described as "the most advanced Terran fighting vehicle," tasked with defending Earth from an alien invasion led by the evil warlord Gir Draxon of the Arcturan Empire.[^ref-2] The game represents a pivotal moment in gaming history as the first title created by the founders of Dynamix, released before the company was officially established in 1984.[^ref-3]
 
 The game combines first-person perspective tank combat with vector graphics, creating what contemporary reviewers called "arcade-style excitement" with "first-rate graphics and sound effects."[^ref-4] Players traverse seven different star systems, battling various enemy units ranging from tanks to mechanical birds, culminating in a final confrontation with Gir Draxon himself in the Arcturus system.[^ref-2] The title "Stellar 7" references these seven planetary battlegrounds that players must conquer to reach the final boss.[^ref-5]
 

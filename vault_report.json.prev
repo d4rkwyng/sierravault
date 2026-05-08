@@ -1,11 +1,11 @@
 {
-  "generated": "2026-05-08T17:45:19",
+  "generated": "2026-05-08T17:50:57",
   "total": 507,
-  "pass": 504,
-  "review": 3,
+  "pass": 507,
+  "review": 0,
   "fail": 0,
-  "avg": 96.68,
-  "min_score": 89,
+  "avg": 96.96,
+  "min_score": 90,
   "max_score": 100,
   "pages_below_95": [
     {
@@ -25,17 +25,7 @@
     },
     {
       "status": "PASS",
-      "page": "1999 - 3-D Ultra Cool Pool",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1999 - 3-D Ultra Lionel TrainTown",
-      "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "1999 - 3-D Ultra Pinball - Power",
       "score": 93
     },
     {
@@ -47,11 +37,6 @@
       "status": "PASS",
       "page": "2000 - Maximum Pool",
       "score": 92
-    },
-    {
-      "status": "REVIEW",
-      "page": "2007 - 3D Ultra Minigolf Adventures Deluxe",
-      "score": 89
     },
     {
       "status": "PASS",
@@ -85,13 +70,8 @@
     },
     {
       "status": "PASS",
-      "page": "1982 - Marauder",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1982 - Mouskattack",
-      "score": 93
+      "score": 94
     },
     {
       "status": "PASS",
@@ -110,11 +90,6 @@
     },
     {
       "status": "PASS",
-      "page": "1983 - WallWar",
-      "score": 92
-    },
-    {
-      "status": "PASS",
       "page": "CXL - King's Quest IX",
       "score": 94
     },
@@ -122,16 +97,6 @@
       "status": "PASS",
       "page": "CXL - Leisure Suit Larry 8",
       "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "CXL - Manhunter 3",
-      "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "CXL - Precinct (2013)",
-      "score": 94
     },
     {
       "status": "PASS",
@@ -151,7 +116,7 @@
     {
       "status": "PASS",
       "page": "1989 - Legend of Djel",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -174,9 +139,9 @@
       "score": 93
     },
     {
-      "status": "REVIEW",
+      "status": "PASS",
       "page": "1993 - Turbo Learning - Mega Math",
-      "score": 89
+      "score": 93
     },
     {
       "status": "PASS",
@@ -196,11 +161,6 @@
     {
       "status": "PASS",
       "page": "1994 - Sierra Soccer - World Challenge Edition",
-      "score": 90
-    },
-    {
-      "status": "PASS",
-      "page": "1996 - CyberGladiators",
       "score": 93
     },
     {
@@ -211,7 +171,7 @@
     {
       "status": "PASS",
       "page": "1982 - Bop-A-Bet",
-      "score": 92
+      "score": 93
     },
     {
       "status": "PASS",
@@ -241,7 +201,7 @@
     {
       "status": "PASS",
       "page": "1992 - Ready, Set, Read with Bananas & Jack",
-      "score": 91
+      "score": 93
     },
     {
       "status": "PASS",
@@ -251,7 +211,7 @@
     {
       "status": "PASS",
       "page": "2001 - King's Quest I VGA Remake",
-      "score": 90
+      "score": 93
     },
     {
       "status": "PASS",
@@ -271,22 +231,17 @@
     {
       "status": "PASS",
       "page": "2011 - Space Quest - Vohaul Strikes Back",
-      "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "2011 - Space Quest II VGA Remake",
-      "score": 91
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "2021 - King's Quest IV Retold",
-      "score": 90
+      "score": 92
     },
     {
       "status": "PASS",
       "page": "2025 - SCP Sierra Conversion Project",
-      "score": 92
+      "score": 93
     },
     {
       "status": "PASS",
@@ -311,7 +266,7 @@
     {
       "status": "PASS",
       "page": "1980 - Hi-Res Football",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -331,7 +286,7 @@
     {
       "status": "PASS",
       "page": "1982 - Hi-Res Adventure 5 - Time Zone",
-      "score": 93
+      "score": 94
     },
     {
       "status": "PASS",
@@ -406,7 +361,7 @@
     {
       "status": "PASS",
       "page": "1999 - Hoyle Backgammon and Cribbage",
-      "score": 91
+      "score": 94
     },
     {
       "status": "PASS",
@@ -436,16 +391,11 @@
     {
       "status": "PASS",
       "page": "2000 - Hoyle Slots and Video Poker",
-      "score": 91
-    },
-    {
-      "status": "PASS",
-      "page": "2001 - Hoyle Board Games",
       "score": 94
     },
     {
       "status": "PASS",
-      "page": "2001 - Hoyle Casino",
+      "page": "2001 - Hoyle Board Games",
       "score": 94
     },
     {
@@ -486,12 +436,12 @@
     {
       "status": "PASS",
       "page": "2004 - Hoyle Puzzle Games",
-      "score": 91
+      "score": 92
     },
     {
       "status": "PASS",
       "page": "2004 - Hoyle Table Games",
-      "score": 92
+      "score": 93
     },
     {
       "status": "PASS",
@@ -520,11 +470,6 @@
     },
     {
       "status": "PASS",
-      "page": "2016 - Hoyle Casino Games Collection",
-      "score": 92
-    },
-    {
-      "status": "PASS",
       "page": "1993 - Fates of Twinion",
       "score": 93
     },
@@ -540,17 +485,7 @@
     },
     {
       "status": "PASS",
-      "page": "1991 - Fort Apache",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1991 - Merchant Colony",
-      "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "1992 - Air Bucks",
       "score": 94
     },
     {
@@ -580,28 +515,13 @@
     },
     {
       "status": "PASS",
-      "page": "1996 - Casino Deluxe 2",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1997 - Betrayal in Antara",
-      "score": 93
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "2024 - Tribes 3 - Rivals",
-      "score": 92
-    },
-    {
-      "status": "PASS",
-      "page": "2003 - Contract J.A.C.K.",
-      "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "1999 - NASCAR Craftsman Truck Series Racing",
-      "score": 94
+      "score": 93
     },
     {
       "status": "PASS",
@@ -616,11 +536,6 @@
     {
       "status": "PASS",
       "page": "1998 - Sierra Sports - Bass Fishing",
-      "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "1998 - Sierra Sports Skiing 1999 Edition",
       "score": 94
     },
     {
@@ -696,7 +611,7 @@
     {
       "status": "PASS",
       "page": "1990 - Zeliard",
-      "score": 92
+      "score": 93
     },
     {
       "status": "PASS",
@@ -730,23 +645,8 @@
     },
     {
       "status": "PASS",
-      "page": "1996 - Stay Tooned!",
-      "score": 92
-    },
-    {
-      "status": "PASS",
-      "page": "1997 - Diablo - Hellfire",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1979 - Galactic Empire",
       "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "1991 - V for Victory - D-Day Utah Beach",
-      "score": 91
     },
     {
       "status": "PASS",
@@ -776,22 +676,17 @@
     {
       "status": "PASS",
       "page": "2001 - Deathmatch Classic",
-      "score": 93
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "2006 - Gin Rummy",
-      "score": 90
+      "score": 93
     },
     {
       "status": "PASS",
-      "page": "2007 - Carcassonne",
-      "score": 94
-    },
-    {
-      "status": "REVIEW",
       "page": "2008 - Lost Cities",
-      "score": 89
+      "score": 93
     }
   ]
 }

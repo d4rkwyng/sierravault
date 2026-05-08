@@ -1,6 +1,6 @@
 ---
 title: The Incredible Machine
-release_year: 1992
+release_year: 2011
 developer: Jeff Tunnell Productions
 designer: [Kevin Ryan, Jeff Tunnell]
 publisher: Sierra On-Line

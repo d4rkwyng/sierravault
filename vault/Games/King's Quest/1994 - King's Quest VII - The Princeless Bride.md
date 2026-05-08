@@ -22,7 +22,7 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 
 ## Overview
 
-King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
+King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-39][^ref-2][^ref-40] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
 
 Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon had previously written hintbooks for King's Quest and contributed to The Dagger of Amon Ra before taking primary creative control of this project.[^ref-5] As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] As Sierra marketed the game, it promised "cinema-quality animation" and "over 100 original compositions."[^ref-6]
 

@@ -22,7 +22,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-3-D Ultra Cool Pool is a billiards simulation game developed by [[Dynamix]] through [[Jeff Tunnell Productions]] and published by Sierra Attractions in 1999[^ref-3][^ref-2]. Marketed with the tagline "It's Pool with Attitude!", the game represented the ninth entry in Sierra's popular 3-D Ultra series of casual arcade-style games[^ref-3]. The series, created through the creative and commercial partnership between Dynamix and Sierra, was dedicated to carefree entertainment games where fun dominated above all else[^ref-4].
+3-D Ultra Cool Pool is a billiards simulation game developed by [[Dynamix]] through [[Jeff Tunnell Productions]] and published by Sierra Attractions in 1999[^ref-3][^ref-16][^ref-2][^ref-17]. Marketed with the tagline "It's Pool with Attitude!", the game represented the ninth entry in Sierra's popular 3-D Ultra series of casual arcade-style games[^ref-3]. The series, created through the creative and commercial partnership between Dynamix and Sierra, was dedicated to carefree entertainment games where fun dominated above all else[^ref-4].
 
 The game distinguished itself from traditional pool simulations by combining realistic physics with fantastical gameplay elements that could only exist in a video game[^ref-5]. While offering five classic billiards games on gorgeously-rendered tables, Cool Pool also featured five completely original "cool" games with specially shaped tables, exploding balls, and flying coins[^ref-6]. As one contemporary reviewer noted, "Sharp graphics, brilliantly modeled physics, and a pick up and play interface come together in a wonderful package"[^ref-7].
 

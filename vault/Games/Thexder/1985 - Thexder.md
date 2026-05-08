@@ -22,7 +22,7 @@ tags: [1980s, sierra, thexder]
 
 ## Overview
 
-Thexder is a transforming robot action game originally developed by Game Arts for the NEC PC-8801 computer in 1985[^ref-1]. The game features "a hyper dual-armor robot capable of transforming between a bipedal mech mode and a fighter jet mode"[^ref-2], representing one of the first robot action games from Game Arts[^ref-3]. Players control this transforming mecha as it navigates through 16 maze-like levels, destroying enemy robots with auto-targeting laser beams[^ref-4].
+Thexder is a transforming robot action game originally developed by Game Arts for the NEC PC-8801 computer in 1985[^ref-1][^ref-38]. The game features "a hyper dual-armor robot capable of transforming between a bipedal mech mode and a fighter jet mode"[^ref-2], representing one of the first robot action games from Game Arts[^ref-3]. Players control this transforming mecha as it navigates through 16 maze-like levels, destroying enemy robots with auto-targeting laser beams[^ref-4].
 
 The game was "favored for the smooth animation, fast 8-direction scrolling and realistic robot that transforms to fighter plane"[^ref-3], making it a runaway bestseller in Japan before being licensed to Sierra On-Line for Western release[^ref-5]. Sierra's founder Ken Williams discovered the game during a 1986 trip to Japan, where he became so captivated that he was "politely shooed out of three Japanese computer stores" for spending too much time playing it[^ref-6]. Thexder proved to be "an important breakthrough title for the run-and-gun genre, paving the way for titles such as Contra and Metal Slug"[^ref-7].
 

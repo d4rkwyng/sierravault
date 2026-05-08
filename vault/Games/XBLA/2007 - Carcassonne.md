@@ -19,9 +19,9 @@ last_updated: '2026-04-22'
 
 ## Overview
 
-**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2]
+**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1][^ref-13] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2][^ref-14]
 
-The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
+The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1][^ref-16] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Seattle[^ref-1]

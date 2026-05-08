@@ -1,6 +1,6 @@
 ---
 title: 'Birthright: The Gorgon''s Alliance'
-release_year: 1997
+release_year: 1996
 developer: Synergistic Software
 designer: [Bob Clardy, Ed Stark, Kirt Lemons, Robert C. Clardy]
 publisher: Sierra On-Line

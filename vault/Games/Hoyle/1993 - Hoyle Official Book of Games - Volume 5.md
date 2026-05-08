@@ -1,6 +1,6 @@
 ---
 title: "Hoyle Official Book of Games Volume 5 (Hoyle Solitaire)"
-release_year: 1996
+release_year: 1993
 developer: "Sierra On-Line, Inc."
 designer:
   - "Paul Horn"

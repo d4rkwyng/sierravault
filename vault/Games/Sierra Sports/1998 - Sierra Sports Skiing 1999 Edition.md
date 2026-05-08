@@ -21,7 +21,7 @@ tags: [1990s, front-page-sports, sierra]
 
 ## Overview
 
-Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game released in 1998 for Windows[^ref-1]. The game served as a follow-up to Front Page Sports: Ski Racing, which had been released in October 1997 by [[Dynamix]] under the Sierra Sports label[^ref-2]. As part of Sierra's ambitious sports gaming initiative, the title attempted to bring realistic skiing simulation to home computers during a period when the company was expanding beyond its adventure game roots.
+Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game released in 1998 for Windows[^ref-1][^ref-14]. The game served as a follow-up to Front Page Sports: Ski Racing, which had been released in October 1997 by [[Dynamix]] under the Sierra Sports label[^ref-2][^ref-15]. As part of Sierra's ambitious sports gaming initiative, the title attempted to bring realistic skiing simulation to home computers during a period when the company was expanding beyond its adventure game roots.
 
 The game featured realistic 3D graphics and multiple camera angles, allowing players to experience alpine skiing across six world-class resort courses[^ref-1]. Olympic skier Picabo Street lent her name and expertise to the project, appearing in tutorial videos that explained skiing techniques and strategies to players[^ref-2]. The title supported both single-player and two-player modes, with controls designed for mouse, keyboard, or joystick input[^ref-1].
 

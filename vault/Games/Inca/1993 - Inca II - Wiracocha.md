@@ -21,7 +21,7 @@ tags: [1990s, adventure, inca, sierra]
 
 ## Overview
 
-Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12], this ambitious 1993 adventure game combined traditional point-and-click mechanics with arcade-style action sequences in an unusual blend that would prove both memorable and controversial.
+Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12][^ref-20]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12], this ambitious 1993 adventure game combined traditional point-and-click mechanics with arcade-style action sequences in an unusual blend that would prove both memorable and controversial.
 
 The game followed protagonist Atahualpa, son of El Dorado, battling enemy Aguirre[^ref-12] across environments ranging from Australia to outer space[^ref-16]. Like its predecessor, Inca II featured full-motion video sequences and pre-rendered bitmaps, representing one of the early attempts to showcase CD-ROM technology's multimedia capabilities[^ref-12]. Available in both standard and limited edition formats, with the special "Série limitée" version[^ref-9] offering additional content for collectors.
 

@@ -1,6 +1,6 @@
 ---
 title: PGA Championship Golf 2000
-release_year: 2000
+release_year: 1998
 developer: Headgate Studios
 designer: [Brian Silvernail, Vance Cook]
 publisher: Sierra Sports

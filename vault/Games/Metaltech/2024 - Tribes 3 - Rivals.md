@@ -20,7 +20,7 @@ tags: [2020s, fps, multiplayer, tribes, dynamix]
 
 ## Overview
 
-Tribes 3: Rivals is a first-person shooter developed and published by Prophecy Games for Windows.[^ref-1] Released into Early Access on Steam on March 12, 2024, it is the latest entry in the Tribes franchise, originally created by Dynamix and Sierra Entertainment with [[1998 - Starsiege - Tribes|Starsiege: Tribes]].[^ref-2]
+Tribes 3: Rivals is a first-person shooter developed and published by Prophecy Games for Windows.[^ref-1][^ref-20] Released into Early Access on Steam on March 12, 2024, it is the latest entry in the Tribes franchise, originally created by Dynamix and Sierra Entertainment with [[1998 - Starsiege - Tribes|Starsiege: Tribes]].[^ref-2]
 
 Built on Unreal Engine 5, Tribes 3: Rivals attempts to revive the classic Tribes formula of jet-pack enhanced multiplayer combat with an emphasis on high-speed movement and "skiing" mechanics.[^ref-2][^ref-7][^ref-15][^ref-16]
 

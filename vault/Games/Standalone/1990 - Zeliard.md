@@ -1,6 +1,6 @@
 ---
 title: Zeliard
-release_year: 1987
+release_year: 1990
 developer: Game Arts Co., Ltd.
 designer: [Josh Mandel]
 publisher: Sierra On-Line
@@ -22,7 +22,7 @@ tags: [1980s, rpg, sci, sierra, standalone]
 
 ## Overview
 
-Zeliard is a side-scrolling action role-playing game developed by [[Game Arts]] that combines platforming mechanics with RPG elements, originally released for the NEC PC-8801 in Japan on December 19, 1987[^ref-1]. The game was subsequently ported to the Sharp X1 on May 13, 1988, before Sierra On-Line brought it to Western audiences on MS-DOS in 1990 as part of their licensing agreement with Game Arts[^ref-2]. As Game Arts' third game and their first foray into the RPG genre, Zeliard arrived at a pivotal moment in gaming history, releasing between Zelda II (January 1987) and Ys III (1989)[^ref-3].
+Zeliard is a side-scrolling action role-playing game developed by [[Game Arts]] that combines platforming mechanics with RPG elements, originally released for the NEC PC-8801 in Japan on December 19, 1987[^ref-1][^ref-35]. The game was subsequently ported to the Sharp X1 on May 13, 1988, before Sierra On-Line brought it to Western audiences on MS-DOS in 1990 as part of their licensing agreement with Game Arts[^ref-2]. As Game Arts' third game and their first foray into the RPG genre, Zeliard arrived at a pivotal moment in gaming history, releasing between Zelda II (January 1987) and Ys III (1989)[^ref-3].
 
 The game represents a "curious footnote in the history of Japanese computer games," blending the entertainment of an arcade game with the adventure of a role-playing game[^ref-4]. Players take control of Duke Garland, a brave knight tasked with rescuing Princess Felicia and defeating the ancient demon Jashiin, who has cursed the kingdom of Zeliard with 115 days of devastating sand rain[^ref-5]. The game features over eight different worlds with many secrets, earning comparisons to what "Zelda II should have been" from passionate fans[^ref-6].
 

@@ -1,6 +1,6 @@
 ---
 title: Silpheed
-release_year: 1986
+release_year: 1988
 developer: Game Arts
 designer: [Takeshi Miyaji, Masakuni Mitsuhashi, Osamu Harada]
 publisher: Sierra On-Line

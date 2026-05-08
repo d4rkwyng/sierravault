@@ -21,7 +21,7 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 
 ## Overview
 
-King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's beloved EGA graphics at 320x200 resolution[^ref-2]. The project aimed to make the classic adventure more accessible to new players while honoring the original's story and visual aesthetic[^ref-3].
+King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1][^ref-16]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's beloved EGA graphics at 320x200 resolution[^ref-2]. The project aimed to make the classic adventure more accessible to new players while honoring the original's story and visual aesthetic[^ref-3].
 
 The remake represents one of several community efforts to preserve and modernize the King's Quest series, garnering significant attention from the adventure gaming community. The game received a nomination for Best Game Created with AGS at the AGS Awards 2021 and was selected as Pick of the Month in August 2022[^ref-2]. With over 9,000 downloads on the Adventure Game Studio website, the project has found a dedicated audience among both nostalgic fans and newcomers to the series[^ref-2].
 

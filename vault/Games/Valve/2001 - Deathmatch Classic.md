@@ -21,7 +21,7 @@ tags: [2000s, half-life, shooter, sierra]
 
 ## Overview
 
-Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-2] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
+Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-93][^ref-2] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
 
 The game invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings, combining the fast-paced arena shooter gameplay of Quake and Quake II with the enhanced graphics capabilities of the GoldSrc engine.[^ref-2][^ref-6] This included shinier textures, enhanced models, and improved lighting compared to the original Quake.[^ref-4] Interestingly, the GoldSrc engine itself was built upon the Quake 1 engine, making this tribute particularly fitting.[^ref-5]
 

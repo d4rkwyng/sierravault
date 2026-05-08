@@ -1,6 +1,6 @@
 ---
 title: Red Baron 2013 Remake
-release_year: 2014
+release_year: 2013
 developer: Mad Otter Games
 designer: [Damon Slye]
 publisher: Unreleased

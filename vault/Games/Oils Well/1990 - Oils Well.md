@@ -23,7 +23,7 @@ tags: [1990s, oil-s-well, sierra]
 
 ## Overview
 
-Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc. [^ref-1][^ref-2] The game serves as an enhanced remake of the original 1983 Oil's Well, which was designed by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3][^ref-4] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
+Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc. [^ref-1][^ref-20][^ref-2] The game serves as an enhanced remake of the original 1983 Oil's Well, which was designed by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3][^ref-4] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
 
 The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] The game has been described as "a fine cocktail of Dig-Dug, Snake, and Pac-Man elements stirred into a unique but fun and challenging game."[^ref-6]
 
