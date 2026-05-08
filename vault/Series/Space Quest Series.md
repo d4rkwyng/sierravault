@@ -22,13 +22,15 @@ Distinguished by its satirical humor, pop culture parodies, and willingness to k
 
 ## Series Timeline
 
-- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Engine: AGI, Notes: Series debut
-- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Engine: AGI, Notes: Introduces Sludge Vohaul
-- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Engine: SCI0, Notes: Meta-humor, rescues Two Guys
-- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Engine: SCI1, Notes: VGA remake of original
-- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Engine: SCI1, Notes: Time travel storyline
-- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Engine: SCI1.1, Notes: Star Trek parody
-- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest VI: Roger Wilco in the Spinal Frontier]] — Engine: SCI32, Notes: Final official entry
+| Year | Title | Engine | Notes |
+|------|-------|--------|-------|
+| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | AGI | Series debut |
+| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | AGI | Introduces Sludge Vohaul |
+| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | SCI0 | Meta-humor, rescues Two Guys |
+| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | SCI1 | VGA remake of original |
+| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | SCI1 | Time travel storyline |
+| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | SCI1.1 | Star Trek parody |
+| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest VI: Roger Wilco in the Spinal Frontier]] | SCI32 | Final official entry |
 
 ## The Two Guys from Andromeda
 
@@ -99,6 +101,7 @@ Roger's everyman quality made him relatable—he succeeds not through skill or b
 | SQ4 | Innovative time travel, voice acting debut |
 | SQ5 | Strong Star Trek parody, fan favorite |
 | SQ6 | Mixed reception, seen as weaker finale |
+
 
 ## Cancelled Projects
 

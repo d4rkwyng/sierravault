@@ -22,16 +22,18 @@ The original King's Quest was revolutionary for its time—the first adventure g
 
 ## Series Timeline
 
-- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Engine: AGI, Protagonist: King Graham
-- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Engine: AGI, Protagonist: King Graham
-- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Engine: AGI, Protagonist: Gwydion/Alexander
-- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Engine: AGI/SCI, Protagonist: Princess Rosella
-- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI Remake]] — Engine: SCI, Protagonist: King Graham
-- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Engine: SCI1, Protagonist: King Graham
-- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Engine: SCI1.1, Protagonist: Prince Alexander
-- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Engine: SCI32, Protagonist: Rosella & Valanice
-- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Engine: Custom 3D, Protagonist: Connor
-- **2015** — [[2015 - King's Quest|King's Quest (Reboot)]] — Engine: Unity, Protagonist: King Graham
+| Year | Title | Engine | Protagonist |
+|------|-------|--------|-------------|
+| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | AGI | King Graham |
+| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | AGI | King Graham |
+| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | AGI | Gwydion/Alexander |
+| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | AGI/SCI | Princess Rosella |
+| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I SCI Remake]] | SCI | King Graham |
+| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | SCI1 | King Graham |
+| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | SCI1.1 | Prince Alexander |
+| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | SCI32 | Rosella & Valanice |
+| 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Custom 3D | Connor |
+| 2015 | [[2015 - King's Quest\|King's Quest (Reboot)]] | Unity | King Graham |
 
 ## Themes and Setting
 
@@ -94,6 +96,7 @@ King's Quest consistently received strong reviews throughout its run:
 | KQ7 | Divisive [[Disney]]-style animation |
 | KQ8 | Controversial 3D action shift |
 | KQ 2015 | Well-received return to adventure roots |
+
 
 ## Legacy
 

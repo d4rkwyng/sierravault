@@ -22,19 +22,21 @@ Distinguished by its adult-oriented humor, self-deprecating protagonist, and sha
 
 ## Series Timeline
 
-- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]] — Engine: AGI, Notes: Series debut, based on [[1981 - Softporn Adventure|Softporn Adventure]]
-- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Engine: AGI/SCI, Notes: Larry wins lottery, globe-trotting adventure
-- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry 3]] — Engine: SCI0, Notes: Introduces Passionate Patti
-- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Engine: SCI1, Notes: "Point-and-grope" remake
-- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Engine: SCI1, Notes: Famously skipped "4"
-- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] — Engine: SCI1.1, Notes: Spa resort setting
-- **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]] — Engine: SCI32, Notes: Cruise ship finale
-- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]] — Engine: Custom, Notes: Casino spinoff, online features
-- **2004** — [[2004 - Leisure Suit Larry - Magna Cum Laude|Leisure Suit Larry: Magna Cum Laude]] — Engine: Custom, Notes: Larry Lovage (nephew), college setting
-- **2009** — [[2009 - Leisure Suit Larry - Box Office Bust|Leisure Suit Larry: Box Office Bust]] — Engine: Custom, Notes: Widely panned sequel
-- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Engine: Unity, Notes: Kickstarter-funded HD remake
-- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] — Engine: Unity, Notes: German revival by CrazyBunch
-- **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Wet Dreams Dry Twice]] — Engine: Unity, Notes: Direct sequel
+| Year | Title | Engine | Notes |
+|------|-------|--------|-------|
+| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] | AGI | Series debut, based on [[1981 - Softporn Adventure\|Softporn Adventure]] |
+| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | AGI/SCI | Larry wins lottery, globe-trotting adventure |
+| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry 3]] | SCI0 | Introduces Passionate Patti |
+| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | SCI1 | "Point-and-grope" remake |
+| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | SCI1 | Famously skipped "4" |
+| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | SCI1.1 | Spa resort setting |
+| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] | SCI32 | Cruise ship finale |
+| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Custom | Casino spinoff, online features |
+| 2004 | [[2004 - Leisure Suit Larry - Magna Cum Laude\|Leisure Suit Larry: Magna Cum Laude]] | Custom | Larry Lovage (nephew), college setting |
+| 2009 | [[2009 - Leisure Suit Larry - Box Office Bust\|Leisure Suit Larry: Box Office Bust]] | Custom | Widely panned sequel |
+| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Unity | Kickstarter-funded HD remake |
+| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]] | Unity | German revival by CrazyBunch |
+| 2020 | [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Wet Dreams Dry Twice]] | Unity | Direct sequel |
 
 ## Al Lowe's Vision
 
@@ -96,6 +98,7 @@ Larry's nephew, introduced in Magna Cum Laude (2004), marked a controversial reb
 | Box Office Bust | Critical failure, Lowe thanked publisher for keeping him away |
 | Reloaded | Successful Kickstarter, mixed reviews on updates |
 | Wet Dreams Don't Dry | Praised as return to form |
+
 
 ## Legacy
 

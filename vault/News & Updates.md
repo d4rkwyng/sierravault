@@ -118,10 +118,12 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > - Hero-U Sequel — Corey & Lori Cole — 💰 Seeking funding
 
 > [!abstract] Fan Projects
-> - [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake]] — Team: Infamous Adventures, Status: 🔨 Active development
-> - [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] — Team: Infamous Quests, Status: 🎙️ Voice recording
-> - [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]] — Team: Infamous Quests, Status: ⏸️ On hold (~75%)
-> - [[2025 - SCP Sierra Conversion Project|SCP Conquests of Longbow]] — Team: DaRaSCo/kikems, Status: 🚧 90% complete
+> | Project | Team | Status |
+> |---------|------|--------|
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | 🔨 Active development |
+> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording |
+> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
+> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
 
 ---
 

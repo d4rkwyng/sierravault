@@ -23,11 +23,13 @@ Distinguished by exceptional voice acting, meticulous research into real-world m
 
 ## Series Timeline
 
-- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Engine: SCI1.1, Setting: New Orleans voodoo
-- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Engine: FMV, Setting: Bavaria werewolves
-- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Engine: 3D, Setting: France, Holy Grail
-- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Engine: Unity, Setting: HD remake
-- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Engine: TBD, Setting: Salzburg, Austria (Unreleased)
+| Year | Title | Engine | Setting |
+|------|-------|--------|---------|
+| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | SCI1.1 | New Orleans voodoo |
+| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | FMV | Bavaria werewolves |
+| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | 3D | France, Holy Grail |
+| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Unity | HD remake |
+| TBD | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | TBD | Salzburg, Austria (Unreleased) |
 
 ## Jane Jensen's Vision
 
@@ -88,6 +90,7 @@ The original Sins of the Fathers featured an exceptional cast that became legend
 | Michael Dorn | Dr. John |
 | Efrem Zimbalist Jr. | Wolfgang |
 | Virginia Capers | Narrator |
+
 
 ## Technical Evolution
 

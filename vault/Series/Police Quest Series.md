@@ -22,14 +22,15 @@ Unlike Sierra's fantasy and comedy franchises, Police Quest demanded players fol
 
 ## Series Timeline
 
-- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Engine: AGI, Designer: Jim Walls
-- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Engine: SCI0, Designer: Jim Walls
-- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Engine: SCI1, Designer: Jim Walls
-- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest I VGA]] — Engine: SCI1.1, Designer: [[Tammy Dargan]]
-- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Engine: SCI2, Designer: Daryl F. Gates
+| Year | Title | Engine | Designer |
+|------|-------|--------|----------|
+| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | AGI | Jim Walls |
+| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | SCI0 | Jim Walls |
+| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | SCI1 | Jim Walls |
+| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest I VGA]] | SCI1.1 | [[Tammy Dargan]] |
+| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | SCI2 | Daryl F. Gates |
 
 *The series continues as the [[1995 - Police Quest - SWAT\|SWAT]] tactical franchise (1995-2007). See SWAT Spinoff section below.*
-
 ## Jim Walls' Background
 
 The series' authenticity stemmed directly from designer [[Jim Walls]]' fifteen-year career with the California Highway Patrol.[^ref-5] Ken Williams met Walls in 1985 while the officer was on administrative leave following a traumatic shooting incident. Williams recognized an opportunity to create something unprecedented in gaming.
@@ -97,6 +98,7 @@ The Police Quest franchise evolved into the SWAT tactical shooter series, shifti
 | PQ2 | Expanded scope, more personal narrative |
 | PQ3 | Final Jim Walls entry, mixed reception |
 | Open Season | Controversial Gates involvement, more graphic content |
+
 
 ## Legacy
 
@@ -248,6 +250,7 @@ The Police Quest franchise evolved into the SWAT tactical shooter series, shifti
 | PQ2 | Expanded scope, more personal narrative |
 | PQ3 | Final Jim Walls entry, mixed reception |
 | Open Season | Controversial Gates involvement, more graphic content |
+
 
 ## Legacy
 

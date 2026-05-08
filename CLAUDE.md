@@ -54,11 +54,14 @@ sierravault/
 2. **Never trust GOG links without verification** - use Brave Search: `site:gog.com "Game Title"`
 3. **Never add wiki links to YAML** - plain text only
 4. **Never include folder paths in wiki links** - basename only (`[[Roberta Williams]]`)
-5. **Never use escaped pipes in wiki links** - use plain `|` for aliases
-6. **NEVER use aliased wiki links `[[X|Y]]` inside ANY markdown table — this includes callout-wrapped tables (`> | ... |`).** The unescaped `|` inside the link is parsed as a column separator by both Obsidian and Quartz, splitting the link mid-target and rendering it as broken text. **Use a bullet list inside the callout instead** (`> - [[X|Y]] — meta1, meta2`). This applies to:
-   - Plain markdown tables (`| Header | ... |`)
-   - Callout-wrapped tables (`> | Header | ... |`) — these LOOK like tables but Quartz/Obsidian still parses the `|` as separators
-   - Any structure where `|` is a column delimiter
+5. **Wiki link alias separator depends on context — get this right or links break in BOTH Obsidian AND Quartz:**
+   - **Outside tables** (prose, bullet lists, callout body, headings): use plain `|` — `[[Target|Alias]]`
+   - **Inside ANY markdown table cell** (including callout-wrapped tables `> | ... |`): use ESCAPED pipe — `[[Target\|Alias]]`. The `\` is required because the table parser otherwise treats the `|` inside the link as a column separator, splitting the link mid-target. Both Obsidian and Quartz behave this way.
+   - This applies equally to:
+     - Plain markdown tables (`| Header | ... |`)
+     - Callout-wrapped tables (`> | Header | ... |`) — these LOOK like callouts but the table parser still runs, so the same escape rule applies.
+   - Tables ARE allowed and encouraged for structured navigation (Series timelines, recent-releases lists, Site Index, Designer credits, etc.) — just escape the pipe.
+6. **No bare `[[X|Y]]` (unescaped pipe) inside table cells.** This is the same rule as #5 stated as a checklist item. Run `grep -n -E '^>?\s*\|.*\[\[[^\\]+\|' vault/**/*.md` (or the vault-health script) before committing — any hit needs the `\|` escape.
 7. **Always run link validation before committing**
 8. **Minimum 15 references per page**
 9. **Both LLM models must score >=90%** for publication

@@ -22,8 +22,10 @@ What distinguished Laura Bow from other Sierra adventures was its revolutionary 
 
 ## Series Timeline
 
-- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Engine: SCI0, Setting: Louisiana plantation
-- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Engine: SCI1.1, Setting: New York museum
+| Year | Title | Engine | Setting |
+|------|-------|--------|---------|
+| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | SCI0 | Louisiana plantation |
+| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | SCI1.1 | New York museum |
 
 ## Roberta Williams' Vision
 

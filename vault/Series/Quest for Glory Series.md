@@ -22,12 +22,14 @@ What set Quest for Glory apart was its character import system—players could t
 
 ## Series Timeline
 
-- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Engine: AGI/SCI, Setting: Germanic folklore
-- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Engine: SCI0, Setting: Arabian Nights
-- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] — Engine: SCI1, Setting: VGA remake
-- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Engine: SCI1.1, Setting: African savanna
-- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Engine: SCI1.1, Setting: Slavic horror
-- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Engine: Custom 3D, Setting: Greek mythology
+| Year | Title | Engine | Setting |
+|------|-------|--------|---------|
+| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | AGI/SCI | Germanic folklore |
+| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | SCI0 | Arabian Nights |
+| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] | SCI1 | VGA remake |
+| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | SCI1.1 | African savanna |
+| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | SCI1.1 | Slavic horror |
+| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Custom 3D | Greek mythology |
 
 ## The Coles' Vision
 
@@ -87,6 +89,7 @@ Greek mythology finale with the Rites of Rulership, dragon prophecies, and serie
 | QFG3 | Shorter, transitional entry, but culturally unique |
 | QFG4 | Atmospheric masterpiece despite bugs |
 | QFG5 | Controversial 3D shift, but satisfying conclusion |
+
 
 ## Legacy
 
