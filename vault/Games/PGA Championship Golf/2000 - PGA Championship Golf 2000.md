@@ -161,7 +161,6 @@ PGA Championship Golf 2000 is not currently available on modern digital storefro
 [^ref-8]: [CNET Gamecenter – PGA Championship Golf 2000 Review](https://web.archive.org/web/20001029055452/http://gamecenter.com/Reviews/Item/0,6,0-4344,00.html) – 8/10 by Jason Ocampo, 13 courses (8 old, 5 new), multiplayer modes
 [^ref-9]: [MyAbandonware – PGA Championship Golf 2000](https://www.myabandonware.com/game/pga-championship-golf-2000-a5h) – User reviews, preservation download, 4.48/5 rating
 [^ref-10]: [CD Magazine – PGA Championship Golf 2000 Announcement](https://web.archive.org/web/20030525180012/http://www.cdmag.com/articles/027/103/pga2000.html) – First golf sim with Season and Career modes
-[^ref-5]: [GameVortex – PGA Championship Golf 2000](https://www.gamevortex.com/gamevortex/soft_rev.php/1735) – No real PGA Tour players included
 [^ref-12]: [Sierra Help – PGA Championship Golf Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/PGAChampionshipGolfUpdates.html) – Patch versions 3.2.7.1 and 3.3.4.5, system requirements
 [^ref-13]: [GamePressure – PGA Championship Golf 2000](https://www.gamepressure.com/games/pga-championship-golf-2000/zc1092) – Technical specifications, system requirements
 [^ref-14]: [Amazon – PGA Championship Golf 2000 Titanium Edition](https://www.amazon.com/PGA-Championship-Golf-2000-Titanium-PC/dp/B000056OYP) – 3.3/5 customer rating, TrueSwing user feedback

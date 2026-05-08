@@ -12,7 +12,7 @@ last_updated: 2026-02-12
 
 Sierra On-Line adventure games became legendary for two things: groundbreaking storytelling and the remarkable number of ways players could meet their untimely demise. Unlike modern games with forgiving checkpoints and gentle tutorials, Sierra embraced death as both gameplay mechanic and entertainment.
 
-This wasn't cruelty—it was a design philosophy. As Scott Murphy explained when creating Space Quest, Sierra "was in a mindset where everything was medieval and it was all fairly serious."[^ref-2] He wanted something different, asking "What if this guy was just your average Joe, forced into the hero role? He gets lucky sometimes, and does the right thing, but he's nobody special."[^ref-3] The result? Games where exploring every wrong choice became as enjoyable as finding the right one.
+This wasn't cruelty—it was a design philosophy. As Scott Murphy explained when creating Space Quest, Sierra "was in a mindset where everything was medieval and it was all fairly serious."[^ref-2] He wanted something different, asking "What if this guy was just your average Joe, forced into the hero role? He gets lucky sometimes, and does the right thing, but he's nobody special."[^ref-1] The result? Games where exploring every wrong choice became as enjoyable as finding the right one.
 
 The universal advice for Sierra games became a mantra: **"Save early and often!"** As [[Al Lowe]] himself printed in the official Leisure Suit Larry manuals, this wasn't a warning—it was an invitation to experiment.[^ref-4]
 
@@ -83,17 +83,17 @@ The Laura Bow mysteries featured death from both sides—investigating murders w
 - [[1996 - Rama\|Rama]] had Arthur C. Clarke appear on screen when players died to "offer philosophical commentary and hints about avoiding similar fates"
 
 **Gabriel Knight:**
-- [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-15]
+- [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-7]
 
 ## The Narrator's Role
 
 The narrator became one of Sierra's most beloved features, particularly in comedy series. The voice brought death scenes to life—quite literally.
 
 **Gary Owens (Space Quest IV & VI):**
-The legendary voice actor (with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost)[^ref-5] provided sardonic commentary that made every death entertaining. When Scott Murphy wrote narrator lines, he "always imagined Gary Owens speaking them; signing Owens was 'a dream come true.'"[^ref-16] When Owens passed in 2015, the Two Guys from Andromeda called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-17]
+The legendary voice actor (with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost)[^ref-5] provided sardonic commentary that made every death entertaining. When Scott Murphy wrote narrator lines, he "always imagined Gary Owens speaking them; signing Owens was 'a dream come true.'"[^ref-5] When Owens passed in 2015, the Two Guys from Andromeda called him "a living legend in the entertainment biz whom we were both extremely privileged to have had the opportunity to work with."[^ref-17]
 
 **John Rhys-Davies (Quest for Glory IV):**
-His narration recording "took more than three weeks,"[^ref-18] establishing an epic tone for the darker fourth entry.
+His narration recording "took more than three weeks,"[^ref-13] establishing an epic tone for the darker fourth entry.
 
 **Bill Ratner (King's Quest VI):**
 Provided narration for what many consider the series' high point.
@@ -119,7 +119,7 @@ In November 1996, Computer Gaming World published their definitive ranking of PC
 | #2 | Space Quest III | Body parts sold at butcher shop |
 | #7 | Gabriel Knight | Zombie rips out heart |
 
-The same issue ranked **Space Quest IV as #1 on the "15 Funniest Games of All Time,"** praising how it "transformed every sci-fi time-travel cliche with Gary Owens' voice... providing the perfect comedic counterpoint."[^ref-19]
+The same issue ranked **Space Quest IV as #1 on the "15 Funniest Games of All Time,"** praising how it "transformed every sci-fi time-travel cliche with Gary Owens' voice... providing the perfect comedic counterpoint."[^ref-7]
 
 ## The End of an Era
 
@@ -149,7 +149,6 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 
 [^ref-1]: [Virtual Broomcloset – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – Scott Murphy on making death entertaining in Sierra games
 [^ref-2]: [Virtual Broomcloset – Mark Crowe Interview](https://www.wiw.org/~jess/markcrowe.html) – Development philosophy for Space Quest series
-[^ref-3]: [Virtual Broomcloset – Two Guys from Andromeda Interview](https://wiw.org/~jess/2guysint.html) – Origins of Roger Wilco as an "average Joe" hero
 [^ref-4]: [Al Lowe's Official Website – Larry Manuals](https://allowe.com/games/larry/tips-manuals/larry-manuals.html) – Copy protection and game manual documentation
 [^ref-5]: [Guys from Andromeda – Space Quest IV](http://guysfromandromeda.com/space-quest-iv-roger-wilco-time-rippers/) – Gary Owens biography: 30,000+ voice jobs, Roger Ramjet, Space Ghost
 [^ref-6]: [Hardcore Gaming 101 – Space Quest](http://www.hardcoregaming101.net/space-quest/) – Analysis of humorous death design philosophy
@@ -161,10 +160,6 @@ In an age of infinite retries and gentle tutorials, there's something to be said
 [^ref-12]: [Adventure Classic Gaming – Leisure Suit Larry Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/124/) – Al Lowe on death design in LSL series
 [^ref-13]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – Boris Karloff and Peter Lorre parodies
 [^ref-14]: [Reddit – The Colonel's Bequest Discussion](https://www.reddit.com/r/Sierra/comments/1natvkl/the_colonels_bequest_featuring_laura_bow_1989/) – Psycho shower scene reference
-[^ref-15]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Gabriel Knight ranked #7 for zombie heart-ripping death
-[^ref-16]: [Guys from Andromeda – SQ4 Page](http://guysfromandromeda.com/space-quest-iv-roger-wilco-time-rippers/) – Scott Murphy on writing for Gary Owens
 [^ref-17]: [NeoGAF – Gary Owens Obituary Thread](https://www.neogaf.com/threads/gary-owens-voiceover-master-space-quest-4-and-6-narrator-dead-at-80.991874/) – Two Guys' memorial tribute to Gary Owens (2015)
-[^ref-18]: [Wikipedia – Quest for Glory: Shadows of Darkness](https://en.wikipedia.org/wiki/Quest_for_Glory%3A_Shadows_of_Darkness) – John Rhys-Davies recording sessions
-[^ref-19]: [Computer Gaming World – November 1996 (Issue 148)](https://archive.org/details/Computer_Gaming_World_Issue_148) – Space Quest IV ranked #1 funniest game of all time
 [^ref-20]: [The Digital Antiquarian – LucasArts Adventure Philosophy](https://www.filfre.net/) – LucasArts' "no deaths" design philosophy
 [^ref-21]: [Adventure Classic Gaming – Al Lowe Interview](http://www.adventureclassicgaming.com/index.php/site/interviews/199/) – Al Lowe on leaving Sierra

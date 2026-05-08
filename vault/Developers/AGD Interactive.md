@@ -6,7 +6,7 @@ defunct: null
 headquarters: "United States"
 notable_games: ["King's Quest I VGA Remake", "Quest for Glory II VGA Remake", "King's Quest III Redux"]
 parent_company: null
-related_companies: ["[[Himalaya Studios]]"]
+related_companies: ["Himalaya Studios"]
 last_updated: "2026-01-15"
 ---
 # AGD Interactive

@@ -35,10 +35,10 @@ In early versions (pre-2.2), typing "ken" on the Arcada would make Ken Williams 
 
 **Cross-Universe References (Space Quest I VGA)**
 [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] contains extensive cross-references:
-- **King Graham Cameo:** In the ending sequence, King Graham from King's Quest appears to award Roger the Golden Mop—a crossover between Sierra's flagship franchises[^ref-8]
+- **King Graham Cameo:** In the ending sequence, King Graham from King's Quest appears to award Roger the Golden Mop—a crossover between Sierra's flagship franchises[^ref-7]
 - **Wrong Coordinates:** Pressing the "DO NOT TOUCH" button transports Roger to Nottingham Castle from Conquests of the Longbow (fatal); the EGA version sent players to Daventry Castle from King's Quest I instead[^ref-9]
-- **Roberta and Ken Williams Dialogue:** Entering wrong coordinates can crash-land Roger at King's Quest castle with moat alligators and dialogue from Roberta and Ken Williams[^ref-10]
-- **Cameos:** Robbie the Robot from "Forbidden Planet" works as the store droid; Blues Brothers and Madonna appear in the bar[^ref-8]
+- **Roberta and Ken Williams Dialogue:** Entering wrong coordinates can crash-land Roger at King's Quest castle with moat alligators and dialogue from Roberta and Ken Williams[^ref-9]
+- **Cameos:** Robbie the Robot from "Forbidden Planet" works as the store droid; Blues Brothers and Madonna appear in the bar[^ref-7]
 
 **Space Quest V Cameos**
 [[1993 - Space Quest V - The Next Mutation\|Space Quest V]] features an impressive array of pop culture references:
@@ -138,7 +138,7 @@ Sierra developers frequently inserted themselves and their colleagues into games
 - **Voice Cameo** - Al Lowe voices the original Larry Laffer's cameo in [[2004 - Leisure Suit Larry - Magna Cum Laude\|Magna Cum Laude]][^ref-35]
 
 ### The Two Guys from Andromeda
-- **Death Replay** - In Space Quest I VGA, one death scene features the Two Guys popping up to announce an instant replay of Roger's particularly stupid moment[^ref-10]
+- **Death Replay** - In Space Quest I VGA, one death scene features the Two Guys popping up to announce an instant replay of Roger's particularly stupid moment[^ref-9]
 - **Promotional Video** - The Two Guys filmed a humorous promotional video for SQ3, allegedly recovered around 2000[^ref-36]
 
 ---
@@ -237,11 +237,9 @@ Some easter eggs only appear on return visits:
 
 [^ref-7]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – Removed Ken/Scott easter eggs in early versions
 
-[^ref-8]: [Space Quest FAQ](https://wiw.org/~jess/sqfaq.html) – King Graham cameo, celebrity appearances in bar
 
 [^ref-9]: [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) – Conquests of Longbow easter egg
 
-[^ref-10]: [Hardcore Gaming 101 – Space Quest I](http://www.hardcoregaming101.net/space-quest-i/) – Instant replay death, King's Quest castle easter egg
 
 [^ref-11]: [TV Tropes – Space Quest V](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVTheNextMutation) – Star Wars/Pac-Man cameos
 

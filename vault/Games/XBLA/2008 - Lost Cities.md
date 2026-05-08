@@ -134,7 +134,7 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 
 ## See Also
 
-Lost Cities was the third and final entry in Sierra Online's brief experiment with [[XBLA|Xbox Live Arcade]]. Following [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]], it shared the same studio infrastructure (Sierra Online Shanghai for development, the broader Sierra Online label for publishing) and the same focus on adapting established tabletop card and board games to the [[XBLA]] digital storefront. All three releases were eventually delisted, leaving Sierra's [[XBLA]] legacy preserved only through archival coverage.[^ref-2][^ref-5]
+Lost Cities was the third and final entry in Sierra Online's brief experiment with Xbox Live Arcade. Following [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]], it shared the same studio infrastructure (Sierra Online Shanghai for development, the broader Sierra Online label for publishing) and the same focus on adapting established tabletop card and board games to the XBLA digital storefront. All three releases were eventually delisted, leaving Sierra's XBLA legacy preserved only through archival coverage.[^ref-2][^ref-5]
 
 **Sierra XBLA releases (2006–2008)**
 

@@ -21,7 +21,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 
 ## Overview
 
-NASCAR Legends is a racing simulation video game developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label, released for Windows on November 22, 1999.[^ref-1][^ref-2] The game serves as a loving tribute to the 1970 NASCAR Grand National Series season, allowing players to experience one of the most celebrated eras in American stock car racing history.[^ref-3][^ref-4] Utilizing a modified version of the NASCAR Racing 3 engine, the game recreates the look, feel, and performance characteristics of classic muscle cars from that golden age of motorsport.[^ref-5][^ref-6]
+NASCAR Legends is a racing simulation video game developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]] under its Sierra Sports label, released for Windows on November 22, 1999.[^ref-15][^ref-1][^ref-2] The game serves as a loving tribute to the 1970 NASCAR Grand National Series season, allowing players to experience one of the most celebrated eras in American stock car racing history.[^ref-3][^ref-4] Utilizing a modified version of the NASCAR Racing 3 engine, the game recreates the look, feel, and performance characteristics of classic muscle cars from that golden age of motorsport.[^ref-5][^ref-6]
 
 The game features 42 NASCAR drivers from the 1970 season and includes 16 of the 48 real events run that year on more than two dozen tracks.[^ref-3][^ref-4] Players can choose from four different customizable cars—the Plymouth Superbird, Dodge Daytona, Ford Torino, and Mercury Cyclone—each with its own distinct handling characteristics and performance envelope.[^ref-3][^ref-7] The attention to period-accurate details extends to the racing rules themselves, which lack modern safety regulations such as pit road speed limits and restrictor plates that would be implemented in later decades.[^ref-5]
 
@@ -259,5 +259,5 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [^ref-13]: [Papyrus Design Group – LaunchBox Games Database](https://gamesdb.launchbox-app.com/developers/games/270-papyrus-design-group) – Developer database, game catalog, historical context
 
 [^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 NASCAR vehicle history, aero warrior specifications, racing performance
+[^ref-15]: [Metacritic – NASCAR Legends](https://www.metacritic.com/game/nascar-legends/) – Aggregated review scores and critical reception data for the 1999 release
 
-[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information

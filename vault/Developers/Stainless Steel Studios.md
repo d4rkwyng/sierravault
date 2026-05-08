@@ -35,7 +35,7 @@ The game appeared at E3 2000 and E3 2001, generating significant interest among 
 
 ### Critical Reception and Awards
 
-Empire Earth received generally positive reviews, with GameSpy awarding it 94/100 and naming it their 2001 PC Game of the Year.[^ref-9] The publication praised that "each epoch feels fleshed out and playable, and every era has its own nuances, so it's almost like getting 14 games in one."[^ref-10] IGN gave the game 8.5/10 with an Editor's Choice award, calling it "ambitious, addictive and more than just a 3D Age of Empires II clone."[^ref-11] The game maintains a Metacritic score of 81/100 and a user score of 8.3/10.[^ref-12]
+Empire Earth received generally positive reviews, with GameSpy awarding it 94/100 and naming it their 2001 PC Game of the Year.[^ref-9] The publication praised that "each epoch feels fleshed out and playable, and every era has its own nuances, so it's almost like getting 14 games in one."[^ref-10] IGN gave the game 8.5/10 with an Editor's Choice award, calling it "ambitious, addictive and more than just a 3D Age of Empires II clone."[^ref-11] The game maintains a Metacritic score of 81/100 and a user score of 8.3/10.[^ref-9]
 
 GameSpot provided a more measured assessment at 7.9/10, with Greg Kasavin noting that "Empire Earth is massive—more than most real-time strategy games would dare to be" while warning that "you can actually have too much of a good thing."[^ref-13] The diverse critical response reflected the game's ambitious scope, which appealed strongly to hardcore strategy fans while potentially overwhelming casual players.
 
@@ -84,7 +84,6 @@ The fan community has kept Empire Earth alive through projects like NeoEE (neoee
 [^ref-9]: [Metacritic - Empire Earth](https://www.metacritic.com/game/empire-earth/) — Aggregate scores and GameSpy award
 [^ref-10]: [Amazon UK - Empire Earth](https://www.amazon.co.uk/Sierra-Best-Sellers-Empire-Earth/dp/B0000DG3RC) — GameSpy review quote
 [^ref-11]: [IGN - Empire Earth Review](https://www.ign.com/articles/2001/11/30/empire-earth) — Steve Butts review and Editor's Choice
-[^ref-12]: [Metacritic - Empire Earth User Reviews](https://www.metacritic.com/game/empire-earth/) — User score and critic aggregation
 [^ref-13]: [GameSpot - Empire Earth Review](https://www.gamespot.com/reviews/empire-earth-review/1900-2824314/) — Greg Kasavin's critique
 [^ref-14]: [MobyGames - Empires: Dawn of the Modern World](https://www.mobygames.com/game/empires-dawn-of-the-modern-world/) — Release information
 [^ref-15]: [Wikipedia - Rise and Fall: Civilizations at War](https://en.wikipedia.org/wiki/Rise_and_Fall:_Civilizations_at_War) — Game development and release

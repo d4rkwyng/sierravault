@@ -4,7 +4,7 @@ type: publisher
 founded: 2004
 headquarters: "Arizona, United States"
 parent_company: null
-related_companies: ["[[AGD Interactive]]"]
+related_companies: ["AGD Interactive"]
 last_updated: "2026-01-17"
 ---
 # Himalaya Studios

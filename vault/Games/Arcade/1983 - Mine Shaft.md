@@ -21,7 +21,7 @@ tags: [1980s, none, sierra]
 
 ## Overview
 
-Mine Shaft is an arcade-style action game developed and published by [[Sierra On-Line]] in 1983 for the Apple II and PC Booter platforms[^ref-1][^ref-8][^ref-9]. The game was also published by IBM for their PCjr system, where it was distributed as a cartridge title[^ref-1]. Programmed by John Redekopp, Mine Shaft challenges players to navigate through procedurally generated mine environments, offering a unique experience with each playthrough[^ref-1].
+Mine Shaft is an arcade-style action game developed and published by [[Sierra On-Line]] in 1983 for the Apple II and PC Booter platforms[^ref-1][^ref-8][^ref-9][^ref-16]. The game was also published by IBM for their PCjr system, where it was distributed as a cartridge title[^ref-1]. Programmed by John Redekopp, Mine Shaft challenges players to navigate through procedurally generated mine environments, offering a unique experience with each playthrough[^ref-1].
 
 The game represents Sierra's early forays into arcade-style gaming during the company's formative years, before they became predominantly known for their adventure game catalog[^ref-1][^ref-3]. Drawing comparisons to Pac-Man-style maze navigation games, Mine Shaft attempted to capitalize on the arcade game craze of the early 1980s[^ref-1]. The title showcases the technical limitations of its era, utilizing only four colors at any given time on the CGA-equipped systems[^ref-1].
 
@@ -215,3 +215,4 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation
+[^ref-16]: [Internet Archive – Sierra Online Catalog 1983](https://archive.org/details/sierra-online-catalog-1983) – Original Sierra On-Line product catalog from 1983 listing Mine Shaft alongside contemporaneous releases

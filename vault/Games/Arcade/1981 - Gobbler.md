@@ -21,7 +21,7 @@ tags: [1980s, sierra, standalone]
 
 ## Overview
 
-Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by On-Line Systems for the Apple II in 1981.[^ref-1] The game represents one of the earliest examples of arcade game cloning in the home computer market, featuring gameplay that was mostly identical to Namco's original Pac-Man arcade game, though with a slightly different maze layout.[^ref-2] On-Line Systems, founded by [[Ken Williams]] and [[Roberta Williams]], would later become Sierra Entertainment, making Gobbler part of the company's formative catalog of early titles.[^ref-1]
+Gobbler is a Pac-Man clone developed by Olaf Lubeck and published by On-Line Systems for the Apple II in 1981.[^ref-1][^ref-15] The game represents one of the earliest examples of arcade game cloning in the home computer market, featuring gameplay that was mostly identical to Namco's original Pac-Man arcade game, though with a slightly different maze layout.[^ref-2] On-Line Systems, founded by [[Ken Williams]] and [[Roberta Williams]], would later become Sierra Entertainment, making Gobbler part of the company's formative catalog of early titles.[^ref-1]
 
 The game holds significant historical importance not for its gameplay innovations, but for its role in establishing legal precedent for video game copyright protection.[^ref-3] Gobbler was removed from the market after just five months following a lawsuit from Atari, which held the home console rights to Pac-Man.[^ref-3] During its brief commercial life, the game achieved notable sales of approximately 800 copies per month, demonstrating the strong consumer demand for Pac-Man-style games on home computers.[^ref-3]
 
@@ -228,4 +228,5 @@ From a modern perspective, Gobbler serves as an artifact of the video game indus
 [^ref-13]: [Pac-Man Wiki – History of Pac-Man Clones](https://pacman.fandom.com/wiki/History_of_Pac-Man_clones_and_bootlegs/Original_games_featuring_Pac-Man) – clone history, Atari copyright litigation
 
 [^ref-14]: [FamousFix – Pac-Man Clones List](https://m.famousfix.com/list/pac-man-clones) – clone game documentation and classification
+[^ref-15]: [Apple II History – 1981 Software Releases](https://www.apple2history.org/appendix/aha/aha81/) – Apple II software release index documenting Gobbler in On-Line Systems' 1981 catalog
 

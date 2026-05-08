@@ -156,5 +156,3 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-23]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Red_Baron_3D) – - Graphics improvements
 [^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – - Critical reception history
 [^ref-25]: [Kotaku](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – - Pizza coupon story
-[^ref-17]: [Wikipedia - Red Baron 3-D](https://en.wikipedia.org/wiki/Red_Baron_3-D) – - Development research methodology
-[^ref-2]: [MobyGames - Red Baron 3-D](https://www.mobygames.com/game/5123/red-baron-3-d/) – - Manual and documentation details

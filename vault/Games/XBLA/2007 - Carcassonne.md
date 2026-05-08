@@ -118,7 +118,7 @@ The original Xbox 360 version may no longer be available for purchase on the Xbo
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | N/A | Original [[XBLA]] release — marketplace listing discontinued[^ref-1][^ref-6] |
+| Xbox Marketplace | N/A | Original XBLA release — marketplace listing discontinued[^ref-1][^ref-6] |
 | Steam | [Carcassonne — Tiles & Tactics](https://store.steampowered.com/app/598810/Carcassonne__Tiles__Tactics/) | Newer PC adaptation of the same board game |
 | iOS | [App Store search — Carcassonne](https://www.apple.com/app-store/) | Asmodee Digital mobile adaptation[^ref-2] |
 | Android | [Google Play search — Carcassonne](https://play.google.com/store/search?q=carcassonne) | Asmodee Digital mobile adaptation[^ref-2] |
@@ -129,7 +129,7 @@ The original Xbox 360 XBLA version may no longer be available due to marketplace
 
 ## See Also
 
-Carcassonne sat between Sierra Online's two card-game [[XBLA|Xbox Live Arcade]] releases — coming a year after [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and a year before [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] — and was the only entry in Sierra's three-game [[XBLA]] run that adapted a tile-laying strategy board game rather than a traditional card game.[^ref-2][^ref-11] All three [[XBLA]] releases were published under the Sierra Online brand during the Vivendi Games era and have since been delisted from the Xbox Marketplace.[^ref-6]
+Carcassonne sat between Sierra Online's two card-game Xbox Live Arcade releases — coming a year after [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and a year before [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] — and was the only entry in Sierra's three-game XBLA run that adapted a tile-laying strategy board game rather than a traditional card game.[^ref-2][^ref-11] All three XBLA releases were published under the Sierra Online brand during the Vivendi Games era and have since been delisted from the Xbox Marketplace.[^ref-6]
 
 **Sierra XBLA releases (2006–2008)**
 

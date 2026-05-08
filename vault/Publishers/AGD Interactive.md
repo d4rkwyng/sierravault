@@ -4,7 +4,7 @@ type: publisher
 founded: 2001
 headquarters: "United States"
 parent_company: null
-related_companies: ["[[Himalaya Studios]]"]
+related_companies: ["Himalaya Studios"]
 last_updated: "2026-01-17"
 ---
 # AGD Interactive

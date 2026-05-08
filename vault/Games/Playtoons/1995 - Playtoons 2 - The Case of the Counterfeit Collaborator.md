@@ -43,7 +43,7 @@ As part of the Playtoons series, the game was designed with an innovative cross-
 
 The Case of the Counterfeit Collaborator follows the adventures of Spirou and Fantasio, beloved characters from the classic Franco-Belgian comic series[^ref-5]. The narrative is directly adapted from the animated cartoon "Spirou Episode 18: Micmac In Champignac," bringing the story to interactive life for young audiences[^ref-5].
 
-The interactive story component allows children to read along, listen to narration, and engage with the plot at their own pace[^ref-8]. Each panel starts with narrated text, drawing young readers into a script designed to captivate their attention[^ref-2]. As described in promotional materials, "the child reads, listens and becomes drawn into a script that will make them tremble with excitement or burst out laughing"[^ref-5].
+The interactive story component allows children to read along, listen to narration, and engage with the plot at their own pace[^ref-1]. Each panel starts with narrated text, drawing young readers into a script designed to captivate their attention[^ref-2]. As described in promotional materials, "the child reads, listens and becomes drawn into a script that will make them tremble with excitement or burst out laughing"[^ref-5].
 
 Players can experience the story from start to finish in a linear fashion, or they can jump to any part they prefer[^ref-9]. The interactive nature of the storybook means that some pages lead to secret parts of the story, rewarding exploration and repeated engagement with hidden narrative content[^ref-9].[^ref-21]
 
@@ -133,7 +133,7 @@ The game is compatible with the ScummVM emulator, which provides modern system c
 - **Cross-Title Integration:** Installing multiple Playtoons games on the same system automatically combines their assets in the construction kit, creating an ever-expanding creative palette[^ref-4]
 - **Animated Source Material:** The game uses the exact same voice actors, art, and animations from the original "Spirou Episode 18: Micmac In Champignac" (1993) cartoon[^ref-5]
 - **Secret Story Pages:** Some pages in the interactive story lead to hidden sections of the narrative, rewarding exploratory readers[^ref-9]
-- **Regional Title Variations:** The game was marketed under significantly different names in different territories, including the German "Rummelsdorf Hoch Zwei" and French "Micmac à Champignac"[^ref-8]
+- **Regional Title Variations:** The game was marketed under significantly different names in different territories, including the German "Rummelsdorf Hoch Zwei" and French "Micmac à Champignac"[^ref-1]
 
 ## Voice Cast
 
@@ -208,7 +208,6 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-5]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
 [^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
 [^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
-[^ref-8]: [MobyGames – Playtoons 2: The Case of the Counterfeit Collaborator](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/) – Release year, developer, regional titles, and game information
 [^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept
 [^ref-10]: [Goodreads – The Ghost with the Halloween Hiccups](https://www.goodreads.com/book/show/1507587.The_Ghost_with_the_Halloween_Hiccups) – age appropriateness reference for early readers
 [^ref-11]: [SierraChest – Playtoons 3](https://sierrachest.com/index.php?a=games&id=326&fld=general) – construction kit integration, Monsters add-on, scene creation limits

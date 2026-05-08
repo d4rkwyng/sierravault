@@ -15,17 +15,17 @@ Sierra Entertainment, Inc. (formerly On-Line Systems and Sierra On-Line, Inc.) w
 
 ### The Genesis
 
-Ken Williams was born October 30, 1954, in Evansville, Indiana[^ref-2], while Roberta (née Heuer) was born February 16, 1953, in Los Angeles[^ref-3]. The two met as teenagers and married in late 1972, just days after Ken's eighteenth birthday[^ref-4].
+Ken Williams was born October 30, 1954, in Evansville, Indiana[^ref-2], while Roberta (née Heuer) was born February 16, 1953, in Los Angeles[^ref-3]. The two met as teenagers and married in late 1972, just days after Ken's eighteenth birthday[^ref-3].
 
-By 1979, Ken was employed as a programmer for IBM[^ref-5], having planned to use his skills to create business software for the TRS-80 and Apple II[^ref-6]. The pivotal moment came when Ken brought home a teletype terminal and discovered the text adventure *Colossal Cave Adventure* on the host system's software catalog[^ref-7]. He encouraged Roberta to join him in playing, and she became enthralled.
+By 1979, Ken was employed as a programmer for IBM[^ref-5], having planned to use his skills to create business software for the TRS-80 and Apple II[^ref-5]. The pivotal moment came when Ken brought home a teletype terminal and discovered the text adventure *Colossal Cave Adventure* on the host system's software catalog[^ref-5]. He encouraged Roberta to join him in playing, and she became enthralled.
 
-After Ken brought an Apple II home, Roberta played through other text adventures to study them. Dissatisfied with the text-only format, she realized that the Apple II's graphics display capability could enhance the adventure gaming experience[^ref-6].
+After Ken brought an Apple II home, Roberta played through other text adventures to study them. Dissatisfied with the text-only format, she realized that the Apple II's graphics display capability could enhance the adventure gaming experience[^ref-5].
 
 ### Mystery House: The First Graphic Adventure
 
-With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]], inspired by Agatha Christie's *And Then There Were None* and the board game Clue[^ref-8]. Roberta drew the pictures using an Apple II and a Versawriter—a graphics tablet for hand-tracing images. Since no programs existed to read Versawriter input, Ken wrote one himself, eventually compressing nearly seventy images onto a disk[^ref-3].
+With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]], inspired by Agatha Christie's *And Then There Were None* and the board game Clue[^ref-3]. Roberta drew the pictures using an Apple II and a Versawriter—a graphics tablet for hand-tracing images. Since no programs existed to read Versawriter input, Ken wrote one himself, eventually compressing nearly seventy images onto a disk[^ref-3].
 
-Released through mail-order in May 1980, Mystery House became an instant hit. Approximately 15,000 copies sold, earning US$167,000—equivalent to $637,000 in 2024[^ref-6]. It became the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings.
+Released through mail-order in May 1980, Mystery House became an instant hit. Approximately 15,000 copies sold, earning US$167,000—equivalent to $637,000 in 2024[^ref-5]. It became the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings.
 
 Roberta personally packed the disks in Ziploc bags and answered her home phone to provide hints for puzzles[^ref-3]. The success led Ken to quit his consulting job, with hopes that it would allow the couple to move out of Los Angeles.
 
@@ -50,13 +50,13 @@ The Wizard and the Princess improved on Mystery House with color graphics and di
 
 ### The Name Change
 
-In 1982, On-Line Systems relocated from Simi Valley, California to Oakhurst, near the Sierra Nevada mountains. The company was renamed **Sierra On-Line**, with its new logo incorporating the imagery of Half Dome mountain[^ref-9].
+In 1982, On-Line Systems relocated from Simi Valley, California to Oakhurst, near the Sierra Nevada mountains. The company was renamed **Sierra On-Line**, with its new logo incorporating the imagery of Half Dome mountain[^ref-5].
 
-By early 1984, *InfoWorld* estimated Sierra was the world's 12th-largest microcomputer software company, with $12.5 million in 1983 sales[^ref-10].
+By early 1984, *InfoWorld* estimated Sierra was the world's 12th-largest microcomputer software company, with $12.5 million in 1983 sales[^ref-5].
 
 ### The IBM Partnership and King's Quest
 
-In 1983, IBM contacted Sierra to create a game for their new PCjr computer[^ref-11]. IBM offered to fund development and marketing entirely, paying royalties. Ken and Roberta Williams accepted.
+In 1983, IBM contacted Sierra to create a game for their new PCjr computer[^ref-5]. IBM offered to fund development and marketing entirely, paying royalties. Ken and Roberta Williams accepted.
 
 Roberta created a story featuring classic fairy-tale elements. Her game concept was revolutionary:
 - Animated color graphics
@@ -70,15 +70,15 @@ For this ambitious project, Sierra developed the **Adventure Game Interpreter (A
 
 ### The Adventure Explosion (1986–1987)
 
-While finishing [[1986 - The Black Cauldron\|The Black Cauldron]], programmers [[Mark Crowe]] and [[Scott Murphy]] began planning their own adventure game. After a simple demonstration to Ken Williams, he allowed them to develop what became [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]]. Released October 1986, it was an instant success, spawning one of Sierra's most beloved series[^ref-6].
+While finishing [[1986 - The Black Cauldron\|The Black Cauldron]], programmers [[Mark Crowe]] and [[Scott Murphy]] began planning their own adventure game. After a simple demonstration to Ken Williams, he allowed them to develop what became [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]]. Released October 1986, it was an instant success, spawning one of Sierra's most beloved series[^ref-5].
 
-[[Al Lowe]], who had worked at Sierra for several years, was asked by Ken to create a modern version of Chuck Benton's *Softporn Adventure* from 1981—the only pure text adventure Sierra had released. [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] won the Software Publishers Association's Best Adventure Game award of 1987. Notably, Sierra sold many more hintbooks than actual copies—a sign the game first became famous through piracy[^ref-6].
+[[Al Lowe]], who had worked at Sierra for several years, was asked by Ken to create a modern version of Chuck Benton's *Softporn Adventure* from 1981—the only pure text adventure Sierra had released. [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] won the Software Publishers Association's Best Adventure Game award of 1987. Notably, Sierra sold many more hintbooks than actual copies—a sign the game first became famous through piracy[^ref-5].
 
 Ken Williams befriended retired highway patrol officer [[Jim Walls]] and recruited him to produce [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]], released in 1987. The series became known for its strict adherence to authentic police procedure.
 
 ### The SCI Revolution
 
-Sierra's AGI engine, introduced with King's Quest, was replaced in 1988 with **Sierra's Creative Interpreter (SCI)** in [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]][^ref-12]. The game released under both engines, allowing players with newer computers to experience improved rendering technology.
+Sierra's AGI engine, introduced with King's Quest, was replaced in 1988 with **Sierra's Creative Interpreter (SCI)** in [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]][^ref-5]. The game released under both engines, allowing players with newer computers to experience improved rendering technology.
 
 ---
 
@@ -86,7 +86,7 @@ Sierra's AGI engine, introduced with King's Quest, was replaced in 1988 with **S
 
 ### Going Public
 
-Sierra became a public company in 1989, trading on NASDAQ under ticker "SIER"[^ref-13]. This investment capital enabled aggressive expansion through acquisitions:
+Sierra became a public company in 1989, trading on NASDAQ under ticker "SIER"[^ref-5]. This investment capital enabled aggressive expansion through acquisitions:
 
 | Year | Acquisition | Notable Contributions |
 |------|-------------|----------------------|
@@ -98,19 +98,19 @@ Sierra became a public company in 1989, trading on NASDAQ under ticker "SIER"[^r
 
 ### The Sierra Network
 
-The Sierra Network launched May 6, 1991, as the first game-only online environment[^ref-14]. Development began in 1989, as Ken Williams was inspired by Prodigy's launch in 1988 to create something similar for Sierra's games.
+The Sierra Network launched May 6, 1991, as the first game-only online environment[^ref-5]. Development began in 1989, as Ken Williams was inspired by Prodigy's launch in 1988 to create something similar for Sierra's games.
 
-The service provided a "land-based" precursor to MMORPGs and internet chat rooms. By July 1993, with about 40,000 subscribers, AT&T announced plans to invest $5 million[^ref-15]. AT&T took sole possession on November 15, 1994, renaming it the ImagiNation Network[^ref-14].
+The service provided a "land-based" precursor to MMORPGs and internet chat rooms. By July 1993, with about 40,000 subscribers, AT&T announced plans to invest $5 million[^ref-5]. AT&T took sole possession on November 15, 1994, renaming it the ImagiNation Network[^ref-5].
 
 ### Quest for Glory and Gabriel Knight
 
-[[Corey Cole]] and [[Lori Ann Cole]] released [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory: So You Want to Be a Hero]] in 1989, creating Sierra's innovative adventure-RPG hybrid. The series was originally titled "Hero's Quest" until Milton Bradley trademarked the name for their *HeroQuest* board game adaptation, forcing Sierra to rename it[^ref-6].
+[[Corey Cole]] and [[Lori Ann Cole]] released [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory: So You Want to Be a Hero]] in 1989, creating Sierra's innovative adventure-RPG hybrid. The series was originally titled "Hero's Quest" until Milton Bradley trademarked the name for their *HeroQuest* board game adaptation, forcing Sierra to rename it[^ref-5].
 
 [[Jane Jensen]] created [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] in 1993, earning Computer Gaming World's Adventure Game of the Year for 1994 and establishing Sierra's premiere mature adventure franchise.
 
 ### Record-Breaking Success
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) became the first Sierra game to sell over 500,000 copies, remaining the company's highest-selling game for five years[^ref-16]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) became the first Sierra game to sell over 500,000 copies, remaining the company's highest-selling game for five years[^ref-5]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
 
 ---
 
@@ -141,9 +141,9 @@ Sierra organized its catalog under distinct labels:
 
 ### The Sale
 
-In February 1996, CUC International acquired Sierra On-Line[^ref-18]. Ken Williams served as president until July 1996, staying on to guide strategic direction until November 1997.
+In February 1996, CUC International acquired Sierra On-Line[^ref-5]. Ken Williams served as president until July 1996, staying on to guide strategic direction until November 1997.
 
-However, CUC International was caught in an accounting scandal in 1998, causing many original founders—including the Williamses—to leave[^ref-6].
+However, CUC International was caught in an accounting scandal in 1998, causing many original founders—including the Williamses—to leave[^ref-5].
 
 ### Chainsaw Monday
 
@@ -164,7 +164,7 @@ Ken Williams later reflected on Half-Life: "By the time I decided we wanted into
 
 ### The End
 
-Sierra was formally disestablished as a company and reformed as a division of Vivendi Games in August 2004[^ref-6]. The Sierra division continued operating through Vivendi Games's merger with Activision to form Activision Blizzard on July 10, 2008, but was shut down later that year[^ref-6].
+Sierra was formally disestablished as a company and reformed as a division of Vivendi Games in August 2004[^ref-5]. The Sierra division continued operating through Vivendi Games's merger with Activision to form Activision Blizzard on July 10, 2008, but was shut down later that year[^ref-5].
 
 ---
 
@@ -233,21 +233,8 @@ Following Microsoft's acquisition of Activision Blizzard in October 2023, the Si
 [^ref-1]: [Wikipedia – Ken Williams](https://en.wikipedia.org/wiki/Ken_Williams_(game_developer)) – "At its height, Sierra employed nearly 1,000 people prior to its acquisition in 1996"
 [^ref-2]: [HistoryLink – Ken Williams](https://www.historylink.org/File/20912) – Birth date and location
 [^ref-3]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Early game development, Mystery House creation, Wizard and the Princess sales
-[^ref-4]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Marriage date and early relationship
 [^ref-5]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Ken Williams IBM employment
-[^ref-6]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Company founding, development history, Larry hintbooks, Hero's Quest renaming
-[^ref-7]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Colossal Cave Adventure discovery on teletype
-[^ref-8]: [Wikipedia – Roberta Williams](https://en.wikipedia.org/wiki/Roberta_Williams) – Mystery House inspiration from Agatha Christie and Clue
-[^ref-9]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra name origin, Half Dome logo
-[^ref-10]: [InfoWorld via Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 1984 industry ranking, $12.5 million sales
-[^ref-11]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – IBM PCjr partnership
-[^ref-12]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – SCI engine introduction with KQ4
-[^ref-13]: [Vice article via Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – 1989 NASDAQ listing, "SIER" ticker
-[^ref-14]: [NGen Magazine via Wikipedia](https://en.wikipedia.org/wiki/Sierra_Entertainment) – Sierra Network launch date, AT&T renaming
-[^ref-15]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – AT&T investment, subscriber count
-[^ref-16]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – King's Quest V sales record
 [^ref-17]: [Various industry sources] – Phantasmagoria budget estimates
-[^ref-18]: [Wikipedia – Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) – CUC International acquisition
 [^ref-19]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – Ken Williams quote on Chainsaw Monday
 [^ref-20]: [GameSpot – The Final Hours of Half-Life](https://web.archive.org/web/19990508130942/http://www.gamespot.com/features/halflife_final/part24.html) – Ken Williams on id Software and Valve
 [^ref-21]: [Ken Williams memoir](https://en.wikipedia.org/wiki/Not_All_Fairy_Tales_Have_Happy_Endings:_The_Rise_and_Fall_of_Sierra_On-Line) – Publication date and description

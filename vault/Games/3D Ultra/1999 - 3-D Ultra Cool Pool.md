@@ -220,7 +220,7 @@ The game's combination of realistic physics with fantastical game modes anticipa
 ## References
 
 [^ref-3]: [Wikipedia – Cool Pool](https://en.wikipedia.org/wiki/Cool_Pool) – developer, publisher, series information, server shutdown details
-[^ref-2]: [Sierra Chest – Cool Pool](https://sierrachest.com/index.php?a=games&id=112&fld=walkthrough) – developer credits, release date, technical specifications, server patch information
+[^ref-17]: [Sierra Chest – Cool Pool](https://sierrachest.com/index.php?a=games&id=112&fld=walkthrough) – developer credits, release date, technical specifications, server patch information
 [^ref-4]: [Old-Games.RU – 3D Ultra Cool Pool](https://www.old-games.ru/game/8288.html) – Russian review, development philosophy, sound effects trivia
 [^ref-5]: [PriceCharting – 3D Ultra Cool Pool](https://www.pricecharting.com/game/pc-games/3d-ultra-cool-pool) – release date, platform specifications, sales data, game description
 [^ref-6]: [Internet Archive – 3D Ultra Cool Pool 1.01](https://archive.org/details/3-d-ultra-cool-pool-1.01) – box description, game modes, system requirements, special features

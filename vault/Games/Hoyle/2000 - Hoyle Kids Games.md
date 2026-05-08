@@ -22,7 +22,7 @@ tags: [2000s, hoyle-series, sierra]
 
 ## Overview
 
-Hoyle Kids Games 2000 is a compilation of classic children's games released by [[Sierra On-Line]] in September 2000 as part of their long-running Hoyle game series.[^ref-1][^ref-2] The title brought Sierra's familiar format of colorful graphics and internet play to a younger audience, featuring twelve fun titles including Battling Ships, Checkers, Chinese Checkers, Snakes & Ladders, Crazy Eights, Go Fish, Memory Match, Old Maid, War, Hangman, Placer Racer, and Speedy Racer.[^ref-1] Additionally, two bonus games—The Music Game (similar to Simon) and Tic Tac Toe—could be unlocked by players.[^ref-1]
+Hoyle Kids Games 2000 is a compilation of classic children's games released by [[Sierra On-Line]] in September 2000 as part of their long-running Hoyle game series.[^ref-1][^ref-2][^ref-16] The title brought Sierra's familiar format of colorful graphics and internet play to a younger audience, featuring twelve fun titles including Battling Ships, Checkers, Chinese Checkers, Snakes & Ladders, Crazy Eights, Go Fish, Memory Match, Old Maid, War, Hangman, Placer Racer, and Speedy Racer.[^ref-1] Additionally, two bonus games—The Music Game (similar to Simon) and Tic Tac Toe—could be unlocked by players.[^ref-1]
 
 The game was designed to appeal to families and younger players, supporting both single-player experiences against animated computer opponents and multiplayer sessions with up to four players locally or online.[^ref-1] A standout feature was the Facemaker utility, which allowed players to customize their own character avatars, adding a personal touch to the gaming experience.[^ref-1] An animated talking Genie served as the in-game helper, explaining rules and providing assistance to players who needed guidance.[^ref-1]
 
@@ -277,3 +277,4 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-14]: [ELI Software Encyclopedia – Hoyle Kids Games](https://elisoftware.org/w/index.php/Hoyle_Kids'_Games_(PC,_CD-ROM)_Sierra_-_2001_USA,_Canada_Release) – technical specifications, system requirements
 
 [^ref-15]: [JustAnswer – Hoyle Games Installation Support](https://www.justanswer.com/computer/g8zx9-recently-received-new-sierra-three-card-games.html) – user community support, technical documentation
+[^ref-16]: [Internet Archive – Hoyle Kids' Games](https://archive.org/details/HoyleKidsGames) – Game preservation entry providing access to the original 2000 Sierra release

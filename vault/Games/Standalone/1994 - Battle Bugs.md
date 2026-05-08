@@ -72,7 +72,7 @@ Key unit examples include:
 - **Rhinoceros Beetles:** The most powerful fighters, walking at consistent speed regardless of terrain, with Attack 16/Defense 7 statistics[^ref-10]
 - **Stink Bugs, Cockroaches, Lightning Bugs:** Each with specialized combat abilities[^ref-3]
 
-The battlefields themselves are not merely passive backgrounds—environmental features like ketchup pools slow down troop movements, adding an additional layer of tactical consideration.[^ref-14] Bugs can also equip weapons to enhance their combat effectiveness.[^ref-15]
+The battlefields themselves are not merely passive backgrounds—environmental features like ketchup pools slow down troop movements, adding an additional layer of tactical consideration.[^ref-14] Bugs can also equip weapons to enhance their combat effectiveness.[^ref-3]
 
 ## Reception
 
@@ -93,7 +93,7 @@ The game has maintained a positive reputation among retro gaming enthusiasts. Mo
 
 Some modern critics note the game's challenging difficulty. User Alex Man commented "Too damn hard. No point in making a little fun funny game and then making it much harder than most 'serious' RTS."[^ref-1] However, this difficulty was part of the game's appeal to dedicated strategy fans.
 
-One GOG wishlist commenter, Metamorpho, made a bold claim about the game's influence: "Battle Bugs with its turn-based strategy and real time was the progenitor upon which Westwood built Command & Conquer."[^ref-15] While this assessment may be hyperbolic, it speaks to the game's perceived innovation in blending gameplay styles.
+One GOG wishlist commenter, Metamorpho, made a bold claim about the game's influence: "Battle Bugs with its turn-based strategy and real time was the progenitor upon which Westwood built Command & Conquer."[^ref-3] While this assessment may be hyperbolic, it speaks to the game's perceived innovation in blending gameplay styles.
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 81%[^ref-1]
@@ -241,7 +241,7 @@ Battle Bugs represents an interesting case study in 1990s game design philosophy
 
 The game's semi-real-time approach, allowing players to pause freely, anticipated the "pausable real-time" systems that would later become popular in games like *Baldur's Gate* (1998). While never achieving the commercial success of Westwood's military-themed RTS titles, Battle Bugs earned a devoted following among players who appreciated its blend of strategy and comedy.
 
-The game's enduring appeal is evidenced by the passionate community requests on GOG.com spanning from 2012 to 2024, culminating in the Steam re-release.[^ref-15] User Metamorpho's testimonial captures the game's impact on families: "This was my favorite DOS game. Raising our two daughters, we all became addicted to this game."[^ref-15] The 95% positive rating on Steam suggests the game's design has aged well, offering a tactical experience that remains engaging decades after its original release.[^ref-3]
+The game's enduring appeal is evidenced by the passionate community requests on GOG.com spanning from 2012 to 2024, culminating in the Steam re-release.[^ref-3] User Metamorpho's testimonial captures the game's impact on families: "This was my favorite DOS game. Raising our two daughters, we all became addicted to this game."[^ref-3] The 95% positive rating on Steam suggests the game's design has aged well, offering a tactical experience that remains engaging decades after its original release.[^ref-3]
 
 ## Soundtrack
 
@@ -308,7 +308,6 @@ The PlayStation soundtrack consists of 14 tracks with a total runtime of approxi
 [^ref-12]: [PCGamingWiki – Battle Bugs](https://www.pcgamingwiki.com/wiki/Battle_Bugs) – technical specifications, resolution support, system requirements
 [^ref-13]: [Wikipedia – Battle Bugs](https://en.wikipedia.org/wiki/Battle_Bugs) – Computer Gaming World review citation, victory conditions
 [^ref-14]: [PlayClassic.Games – Battle Bugs](https://playclassic.games/games/real-time-tactics-dos-games-online/play-battle-bugs-online/) – environmental effects, unit types
-[^ref-15]: GOG.com – Battle Bugs not listed on GOG Dreamlist (game available on [Steam](https://store.steampowered.com/app/1462210/Battle_Bugs/) instead)
 [^ref-16]: [OldGames.sk – Battle Bugs](https://www.oldgames.sk/en/game/battle-bugs/download/2483/) – rating, platform information
 [^ref-17]: [My Abandonware – Battle Bugs](https://www.myabandonware.com/game/battle-bugs-1pp) – user rating, technical issues, DOSBox compatibility
 [^ref-18]: [Steemit – Battle Bugs Review](https://steemit.com/gaming/@zulman/90s-games-review-1994-battle-bugs-a-very-unique-real-time-strategy-game) – Epyx company history

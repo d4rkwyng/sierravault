@@ -34,9 +34,9 @@ Unlike Sierra's fantasy and comedy franchises, Police Quest demanded players fol
 
 ## Jim Walls' Background
 
-The series' authenticity stemmed directly from designer [[Jim Walls]]' fifteen-year career with the California Highway Patrol.[^ref-5] Ken Williams met Walls in 1985 while the officer was on administrative leave following a traumatic shooting incident. Williams recognized an opportunity to create something unprecedented in gaming.
+The series' authenticity stemmed directly from designer [[Jim Walls]]' fifteen-year career with the California Highway Patrol.[^ref-2] Ken Williams met Walls in 1985 while the officer was on administrative leave following a traumatic shooting incident. Williams recognized an opportunity to create something unprecedented in gaming.
 
-As Walls later explained, Williams "asked him to write a short story about his experiences, which developed into Police Quest's plot."[^ref-5] Many incidents in the games were based on actual situations Walls encountered during his law enforcement career, giving the series a grounded realism rarely seen in adventure games.
+As Walls later explained, Williams "asked him to write a short story about his experiences, which developed into Police Quest's plot."[^ref-2] Many incidents in the games were based on actual situations Walls encountered during his law enforcement career, giving the series a grounded realism rarely seen in adventure games.
 
 ## The Lytton Police Department
 
@@ -151,28 +151,6 @@ Police Quest's insistence on procedural accuracy created a unique tension betwee
 - [[King's Quest Series]] - Sierra's flagship fantasy series
 - [[Gabriel Knight Series]] - Another realistic Sierra franchise
 - [[Space Quest Series]] - Sierra's sci-fi comedy series
-- [[PQ: SWAT]]
-- [[Police Quest I VGA]]
-- [[Police Quest II: The Vengeance]]
-- [[Police Quest III: The Kindred]]
-- [[Police Quest: In Pursuit of the Death Angel]]
-- [[Police Quest: Open Season]]
-- [[Police Quest: SWAT]]
-- [[SWAT]]
-- [[SWAT 2]]
-- [[SWAT 3]]
-- [[SWAT 4]]
-- [[PQ: SWAT]]
-- [[Police Quest I VGA]]
-- [[Police Quest II: The Vengeance]]
-- [[Police Quest III: The Kindred]]
-- [[Police Quest: In Pursuit of the Death Angel]]
-- [[Police Quest: Open Season]]
-- [[Police Quest: SWAT]]
-- [[SWAT]]
-- [[SWAT 2]]
-- [[SWAT 3]]
-- [[SWAT 4]]
 
 ## References
 
@@ -180,5 +158,4 @@ Police Quest's insistence on procedural accuracy created a unique tension betwee
 [^ref-2]: [Wikipedia - Police Quest](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – Police training use and Jim Walls background
 [^ref-3]: [Classic Reload - Police Quest](https://classicreload.com/police-quest-in-pursuit-of-the-death-angel.html) – Procedural gameplay requirements
 [^ref-4]: [Nostalgia Trigger - Police Quest Retrospective](https://nostalgiatrigger.com/2017/04/17/retrospectives-part-1-police-quest-in-pursuit-of-the-death-angel-1987/) – "By the book" design philosophy
-[^ref-5]: [Wikipedia - Jim Walls](https://en.wikipedia.org/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – CHP career and Ken Williams meeting
 [^ref-6]: [MobyGames - Police Quest](https://www.mobygames.com/game/146/police-quest-in-pursuit-of-the-death-angel/) – InterAction magazine training quote

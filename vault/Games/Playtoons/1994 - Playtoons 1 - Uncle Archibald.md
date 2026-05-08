@@ -50,7 +50,7 @@ The interactive story unfolds across multiple pages, with players able to jump t
 
 ### Interface and Controls
 
-Playtoons 1: Featuring Uncle Archibald employs a fixed, flip-screen perspective typical of interactive book software from the mid-1990s.[^ref-6] Players navigate through the story by clicking on various elements within each scene, with background scenery, props, and characters responding to interaction.[^ref-7] The interface was designed with young children in mind, emphasizing accessibility and intuitive point-and-click controls appropriate for the Windows 3.x environment.
+Playtoons 1: Featuring Uncle Archibald employs a fixed, flip-screen perspective typical of interactive book software from the mid-1990s.[^ref-6] Players navigate through the story by clicking on various elements within each scene, with background scenery, props, and characters responding to interaction.[^ref-1] The interface was designed with young children in mind, emphasizing accessibility and intuitive point-and-click controls appropriate for the Windows 3.x environment.
 
 ### Structure and Progression
 
@@ -209,7 +209,6 @@ The series continued with at least four additional installments: Playtoons 2: Th
 [^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – platforms, publisher, CD-ROM format, preservation
 [^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
 [^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs
-[^ref-7]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – Game mechanics description and credits information
 [^ref-8]: [Kagi FastGPT – Review Scores Query](kagi:fastgpt:What+were+the+review+scores+for+Playtoons+1+Featuring+Uncle+Archibald+video+game?) – lack of available review scores confirmed
 [^ref-9]: [GameFAQs – Playtoons 1 PC](https://gamefaqs.gamespot.com/pc/232215-playtoons-1-featuring-uncle-archibald) – genre classification, ESRB rating, platform confirmation
 [^ref-10]: [Metacritic – Playtoons 1](https://www.metacritic.com/game/playtoons-1-featuring-uncle-archibald/) – platform, developer/publisher, no score available

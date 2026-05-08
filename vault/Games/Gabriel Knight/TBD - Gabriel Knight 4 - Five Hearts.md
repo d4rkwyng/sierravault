@@ -11,7 +11,7 @@ engine: Unreleased
 protagonist: Gabriel Knight
 sierra_lineage: Post-Sierra
 last_updated: '2026-04-22'
-composer: [Robert Holmes]
+composer: [Robert Holmes[^ref-15]]
 description: 'Gabriel Knight 4: Five Hearts is an unreleased adventure game concept
   developed by Jane Jensen, the original creator of the Gabriel Knight series. Rather...'
 tags: [adventure, gabriel-knight, jane-jensen, sierra]
@@ -222,4 +222,5 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 [^ref-13]: [Jane Jensen Official Site](http://www.janejensen.com/) – Creator portfolio, project information
 
 [^ref-14]: [Unseen64 – Gabriel Knight 4](https://www.unseen64.net/) – Cancelled game documentation and development history
+[^ref-15]: [Robert Holmes Music – Five Hearts](https://robertholmesmusic.com/five-hearts/) – Composer's page for the Five Hearts illustrated short story, including soundtrack details and project background
 

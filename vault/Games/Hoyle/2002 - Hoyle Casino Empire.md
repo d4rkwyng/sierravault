@@ -26,7 +26,7 @@ Hoyle Casino 2002 is a casino simulation game developed and published by [[Sierr
 
 The title represented a significant evolution of the series by introducing the ability to play against other players over the internet, a major improvement over previous iterations[^ref-4]. Additionally, Hoyle Casino 2002 included a Palm OS version featuring four variations of Video Poker, allowing players to take their gambling experience on the go with compatible handheld devices[^ref-3]. With a retail price of $29.95, the game positioned itself as an accessible way to experience casino gaming without risking real money[^ref-3].
 
-As part of the broader Hoyle's Official Book of Games spin-off series, Hoyle Casino 2002 set players in a virtual Las Vegas casino environment[^ref-5]. The game featured impressive audio design that one reviewer described as sounding like "a microphone was placed directly in some of the world's best casinos for use in the game"[^ref-6]. Combined with a character creation system that allowed players to customize their in-game avatar, the title offered a comprehensive casino simulation experience[^ref-7].
+As part of the broader Hoyle's Official Book of Games spin-off series, Hoyle Casino 2002 set players in a virtual Las Vegas casino environment[^ref-5][^ref-16]. The game featured impressive audio design that one reviewer described as sounding like "a microphone was placed directly in some of the world's best casinos for use in the game"[^ref-6]. Combined with a character creation system that allowed players to customize their in-game avatar, the title offered a comprehensive casino simulation experience[^ref-7].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-4]
@@ -329,4 +329,4 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 [^ref-13]: [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – user ratings, technical information, debug modes, user comments
 [^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
 [^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
-[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, product lineup, development timeline of the Hoyle Casino franchise
+[^ref-16]: [Sierra Chest – Hoyle Series Group](https://sierrachest.com/index.php?a=groups&id=42) – Sierra Chest franchise overview placing Hoyle Casino 2002 within the broader Hoyle series catalog

@@ -121,7 +121,7 @@ Like many XBLA titles from this era, Gin Rummy may no longer be available for pu
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | [Microsoft Store — Gin Rummy](https://microsoft.com/en-us/p/gin-rummy/bpzm88d5vkbs)[^ref-5] | Check current availability — early [[XBLA]] title from 2006[^ref-6] |
+| Xbox Marketplace | [Microsoft Store — Gin Rummy](https://microsoft.com/en-us/p/gin-rummy/bpzm88d5vkbs)[^ref-5] | Check current availability — early XBLA title from 2006[^ref-6] |
 | iOS | [App Store search — Gin Rummy](https://www.apple.com/app-store/) | Various third-party Gin Rummy apps available[^ref-7] |
 | Android | [Google Play search — Gin Rummy](https://play.google.com/store/search?q=gin+rummy) | Various third-party Gin Rummy apps available[^ref-7] |
 
@@ -131,7 +131,7 @@ As an early XBLA title from 2006, availability may be affected by marketplace ch
 
 ## See Also
 
-Gin Rummy was Sierra Online's first foray onto [[XBLA|Xbox Live Arcade]] and set the template for the publisher's three-game [[XBLA]] run: traditional tabletop games adapted for the digital storefront, developed by Sierra Online Shanghai or Sierra Online Seattle and released under the broader Sierra Online label during the Vivendi Games era.[^ref-4][^ref-6] [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] followed in 2007 with a board-game adaptation, and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] closed out the line in 2008. All three [[XBLA]] releases have since been delisted.
+Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the template for the publisher's three-game XBLA run: traditional tabletop games adapted for the digital storefront, developed by Sierra Online Shanghai or Sierra Online Seattle and released under the broader Sierra Online label during the Vivendi Games era.[^ref-4][^ref-6] [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] followed in 2007 with a board-game adaptation, and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] closed out the line in 2008. All three XBLA releases have since been delisted.
 
 **Sierra XBLA releases (2006–2008)**
 

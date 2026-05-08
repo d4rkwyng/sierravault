@@ -15,15 +15,15 @@ last_updated: "2026-01-31"
 
 ## Overview
 
-Yosemite Entertainment was an American video game development studio formed in 1998 as a rebranding of Sierra On-Line's original headquarters in Oakhurst, California.[^ref-1] The studio served as Sierra's adventure game and online multiplayer division, internally known as Sierra FX, and was responsible for some of Sierra's most ambitious late-1990s projects including the final Quest for Glory installment and pioneering online titles.[^ref-2] Named after the nearby Yosemite National Park, the studio occupied the historic buildings where Ken and Roberta Williams had built Sierra into a gaming powerhouse.[^ref-3]
+Yosemite Entertainment was an American video game development studio formed in 1998 as a rebranding of Sierra On-Line's original headquarters in Oakhurst, California.[^ref-1] The studio served as Sierra's adventure game and online multiplayer division, internally known as Sierra FX, and was responsible for some of Sierra's most ambitious late-1990s projects including the final Quest for Glory installment and pioneering online titles.[^ref-1] Named after the nearby Yosemite National Park, the studio occupied the historic buildings where Ken and Roberta Williams had built Sierra into a gaming powerhouse.[^ref-3]
 
-Yosemite Entertainment's brief existence represented the twilight years of Sierra's original creative vision, as corporate reorganization following CUC International's acquisition fundamentally changed the company's priorities.[^ref-4] The studio was responsible for maintaining The Realm Online, one of the first graphical MMORPGs, and developing Quest for Glory V: Dragon Fire, which concluded one of Sierra's most beloved adventure-RPG hybrid series.[^ref-5] Despite promising projects in development, including the ambitious Babylon 5: Into the Fire and Middle-earth Online, the studio was shut down on February 22, 1999, during what became known as "Chainsaw Monday."[^ref-6]
+Yosemite Entertainment's brief existence represented the twilight years of Sierra's original creative vision, as corporate reorganization following CUC International's acquisition fundamentally changed the company's priorities.[^ref-4] The studio was responsible for maintaining The Realm Online, one of the first graphical MMORPGs, and developing Quest for Glory V: Dragon Fire, which concluded one of Sierra's most beloved adventure-RPG hybrid series.[^ref-5] Despite promising projects in development, including the ambitious Babylon 5: Into the Fire and Middle-earth Online, the studio was shut down on February 22, 1999, during what became known as "Chainsaw Monday."[^ref-1]
 
 ## History
 
 ### Formation and Sierra's Reorganization
 
-When Sierra On-Line moved its headquarters from Oakhurst, California, to Bellevue, Washington, in the mid-1990s, the original Oakhurst facility continued operating as a development studio.[^ref-7] Following CUC International's acquisition of Sierra in 1996 and subsequent corporate restructuring in 1998, Sierra was divided into five sub-brands: Sierra Attractions, Sierra Home, Sierra Sports, Sierra Studios, and Sierra FX.[^ref-8] Sierra FX was based at the original Oakhurst headquarters and publicly referred to as Yosemite Entertainment, focusing on adventure games and online multiplayer titles.[^ref-2]
+When Sierra On-Line moved its headquarters from Oakhurst, California, to Bellevue, Washington, in the mid-1990s, the original Oakhurst facility continued operating as a development studio.[^ref-7] Following CUC International's acquisition of Sierra in 1996 and subsequent corporate restructuring in 1998, Sierra was divided into five sub-brands: Sierra Attractions, Sierra Home, Sierra Sports, Sierra Studios, and Sierra FX.[^ref-1] Sierra FX was based at the original Oakhurst headquarters and publicly referred to as Yosemite Entertainment, focusing on adventure games and online multiplayer titles.[^ref-1]
 
 The studio inherited a rich legacy from Sierra's golden age, occupying the very buildings where classics like King's Quest and Space Quest had been created.[^ref-3] Many veteran Sierra developers remained at the Oakhurst facility, continuing to work on the types of adventure games and innovative projects that had made Sierra famous.[^ref-9] The Yosemite Entertainment name reflected the studio's connection to the California Sierra Nevada region that had inspired Sierra On-Line's original branding.[^ref-1]
 
@@ -41,9 +41,9 @@ Middle-earth Online represented an early attempt to bring J.R.R. Tolkien's world
 
 ### Closure
 
-On February 22, 1999, Sierra announced a major reorganization resulting in the shutdown of several development studios, including Yosemite Entertainment.[^ref-6] This event, known by fans and employees as "Chainsaw Monday," was triggered by fallout from the CUC International accounting scandal discovered in 1998.[^ref-4] Approximately 250 people lost their jobs across Sierra, with the entire Yosemite Entertainment studio shut down except for warehouse and distribution functions.[^ref-6]
+On February 22, 1999, Sierra announced a major reorganization resulting in the shutdown of several development studios, including Yosemite Entertainment.[^ref-1] This event, known by fans and employees as "Chainsaw Monday," was triggered by fallout from the CUC International accounting scandal discovered in 1998.[^ref-4] Approximately 250 people lost their jobs across Sierra, with the entire Yosemite Entertainment studio shut down except for warehouse and distribution functions.[^ref-1]
 
-The closure had devastating effects on Sierra's creative talent. Legendary designers Al Lowe and Scott Murphy were among those laid off, with Lowe having just started work on Leisure Suit Larry 8 and Murphy involved in Space Quest 7.[^ref-6] The shutdown marked the effective end of Sierra's presence in Oakhurst, though UK-based Codemasters later established a new studio in the abandoned facilities using much of Yosemite's laid-off staff.[^ref-17]
+The closure had devastating effects on Sierra's creative talent. Legendary designers Al Lowe and Scott Murphy were among those laid off, with Lowe having just started work on Leisure Suit Larry 8 and Murphy involved in Space Quest 7.[^ref-1] The shutdown marked the effective end of Sierra's presence in Oakhurst, though UK-based Codemasters later established a new studio in the abandoned facilities using much of Yosemite's laid-off staff.[^ref-17]
 
 ## Key People
 
@@ -67,13 +67,10 @@ Quest for Glory V: Dragon Fire stands as the studio's most significant achieveme
 ## References
 
 [^ref-1]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Sierra's Oakhurst location renamed Yosemite Entertainment
-[^ref-2]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — Sierra FX division based in Oakhurst, publicly referred to as Yosemite Entertainment
 [^ref-3]: [GameSpy Retro - Developer Origins](https://web.archive.org/web/20070609133112/http://www.gamespy.com/articles/697/697083p17.html) — Sierra's original headquarters in Oakhurst, California
 [^ref-4]: [Vice - How Sierra Was Captured, Then Killed](https://www.vice.com/en/article/inside-story-sierra-online-death-cuc-cendant-fraud/) — CUC International accounting scandal and Sierra restructuring
 [^ref-5]: [Wikipedia - Quest for Glory V: Dragon Fire](https://en.wikipedia.org/wiki/Quest_for_Glory_V:_Dragon_Fire) — Game development at Yosemite Entertainment
-[^ref-6]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — "Chainsaw Monday" studio closures, February 22, 1999
 [^ref-7]: [Interaction Magazine Archive](https://archive.org/details/sierra-interaction-magazine) — Sierra's move to Bellevue, Washington
-[^ref-8]: [Wikipedia - Sierra Entertainment](https://en.wikipedia.org/wiki/Sierra_Entertainment) — 1998 division into five sub-brands
 [^ref-9]: [The Digital Antiquarian](https://www.filfre.net/) — Sierra's creative legacy in Oakhurst
 [^ref-10]: [MobyGames - Quest for Glory V](https://www.mobygames.com/game/quest-for-glory-v-dragon-fire/) — Development credits and game information
 [^ref-11]: [The Realm Online Wiki](https://realmserver.com/) — Game maintenance and development history

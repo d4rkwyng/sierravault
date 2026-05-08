@@ -26,7 +26,7 @@ Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff
 
 Described as "one of the least known Sierra games ever," Mega Math followed the formula established by its predecessor, Quarky & Quaysoo's Turbo Science, featuring the same alien characters in a new educational setting[^ref-4]. The game was designed to help children practice fundamental math facts through repetitive but engaging gameplay, with the philosophy that "practice, practice, practice" is the key to building mathematical fluency[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress throughout the learning experience[^ref-6].
 
-One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-16][^ref-17][^ref-20]
+One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-16][^ref-17][^ref-6]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions[^ref-1]
@@ -75,7 +75,7 @@ The game's design philosophy emphasizes repetition as the path to mathematical f
 
 ### Contemporary Reviews
 
-Turbo Learning: Mega Math received modest attention upon release, with reviewers acknowledging its educational value while noting limitations in variety and replay value. The game was characterized as "a pretty basic educational game with not enough variation" by contemporary critics[^ref-10].
+Turbo Learning: Mega Math received modest attention upon release, with reviewers acknowledging its educational value while noting limitations in variety and replay value. The game was characterized as "a pretty basic educational game with not enough variation" by contemporary critics[^ref-6].
 
 Reviews consistently noted that while children could have fun with the game initially, the limited variety in mini-games meant that "kids will probably get bored with the games before too long"[^ref-11]. One assessment summarized the title as "just an okay educational game that's fun for a while, but gets boring once you've seen all the mini games and zany antics of cartoon characters"[^ref-4].
 
@@ -88,7 +88,7 @@ Modern retrospectives have treated Mega Math as a historical curiosity within Si
 The game has found appreciation among collectors and preservationists interested in Sierra's lesser-known educational titles. Its status as "one of the least known Sierra games ever" has given it a degree of obscurity appeal[^ref-2].
 
 **Aggregate Scores:**
-- **MobyGames:** 3.7/5 (3 ratings)[^ref-10]
+- **MobyGames:** 3.7/5 (3 ratings)[^ref-6]
 - **MyAbandonware:** 4.45/5 (user ratings)[^ref-11]
 - **Free Game Empire:** 4/10[^ref-12]
 
@@ -167,7 +167,7 @@ Voice cast credited in full credits[^ref-2].
 
 ### Sales and Commercial Impact
 
-Turbo Learning: Mega Math did not achieve significant commercial success, contributing to the cancellation of the Turbo Learning series after only two titles[^ref-2]. The game's relative obscurity is reflected in its characterization as "one of the least known Sierra games ever"[^ref-2]. While Quarky & Quaysoo's Turbo Science achieved a score of 4.5/5 with 7 ratings on MobyGames, Mega Math's lower engagement suggests diminished audience interest[^ref-10].
+Turbo Learning: Mega Math did not achieve significant commercial success, contributing to the cancellation of the Turbo Learning series after only two titles[^ref-2]. The game's relative obscurity is reflected in its characterization as "one of the least known Sierra games ever"[^ref-2]. While Quarky & Quaysoo's Turbo Science achieved a score of 4.5/5 with 7 ratings on MobyGames, Mega Math's lower engagement suggests diminished audience interest[^ref-6].
 
 ### Collections
 
@@ -215,7 +215,6 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis review, technical achievements, speech on floppy
 [^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
 [^ref-9]: [MobyGames Forums – Mega Math](https://www.mobygames.com/game/dos/turbo-learning-mega-math/forums/dga,2/dgb,8/dgm,210915/) – DOSBox configuration, mouse issues
-[^ref-10]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Aggregated review scores and user ratings
 [^ref-11]: [MyAbandonware – Turbo Learning: Mega Math](https://www.myabandonware.com/game/turbo-learning-mega-math-1gq) – user ratings, regional release information
 [^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating, historical context
 [^ref-13]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – predecessor game, series information
@@ -225,4 +224,3 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
 [^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy
 [^ref-19]: [GOG Dreamlist – Mega Math](https://www.gog.com/dreamlist/game/sierra-discovery-turbo-leaning-mega-math) – community interest in preservation
-[^ref-20]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Release year and developer information

@@ -21,7 +21,7 @@ tags: [2000s, hoyle-series, puzzle, sierra]
 
 ## Overview
 
-Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
+Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2][^ref-20]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
 
 The game distinguished itself through its variety of content, featuring everything from crossword puzzles sourced from Dell Magazine to the complete version of The Incredible Machine: Even More Contraptions as a bonus game[^ref-4][^ref-2]. Each game within the collection offered high-score lists and adjustable skill levels, allowing players of varying abilities to find appropriate challenges[^ref-1][^ref-8]. The inclusion of the Facemaker Tool allowed players to create unique-looking characters to represent themselves during gameplay, adding a personalization element to the experience[^ref-1][^ref-8].
 
@@ -267,3 +267,4 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
 [^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation
 [^ref-19]: [GameFAQs – Hoyle Puzzle Games](https://gamefaqs.gamespot.com/pc/915461-hoyle-puzzle-games-2002) – user reviews and ratings
+[^ref-20]: [GameSpot – Hoyle Puzzle Games Review](https://www.gamespot.com/reviews/hoyle-puzzle-games-review/1900-2895664/) – Contemporary professional review of the 2002 puzzle compilation, calling it an enjoyable single-player puzzle collection

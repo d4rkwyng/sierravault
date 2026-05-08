@@ -275,7 +275,7 @@ The game is documented in gaming databases.[^ref-9][^ref-10][^ref-11][^ref-12]
 
 ## References
 
-[^ref-7]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – release date, developer, publisher, UPC
+[^ref-18]: [Sierra Chest – Hoyle Slots & Video Poker](https://sierrachest.com/index.php?a=games&id=578&title=hoyle-slots-video-poker-2&fld=box) – release date, developer, publisher, UPC
 [^ref-2]: [Medium – The History of Hoyle Slots Video and Poker](https://medium.com/@mpmgcllc/the-history-of-hoyle-slots-video-and-poker-game-creation-development-0bff30277a87) – series history, naming origin, market pricing, compatibility
 [^ref-3]: [Amazon Canada – Hoyle Slots Video Poker Racing](https://www.amazon.ca/Hoyle-Slots-Video-Poker-Racing/dp/B00094DZ8Q) – publisher, platforms, game features, customer rating
 [^ref-4]: [MobyGames – Hoyle Slots & Video Poker](https://www.mobygames.com/game/79577/hoyle-slots-video-poker/) – release date, machine list, denominations, payout rates, ELSPA rating, technical specs

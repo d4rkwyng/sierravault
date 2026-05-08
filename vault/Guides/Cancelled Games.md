@@ -37,7 +37,7 @@ Perhaps the most lamented cancellation in Sierra history, Space Quest VII went t
 
 ### King's Quest IX: The Long Wait
 
-"King's Quest IX" is actually an umbrella term for **five separate cancelled attempts** to continue Sierra's flagship adventure game series between 1998 and 2013.[^ref-5]
+"King's Quest IX" is actually an umbrella term for **five separate cancelled attempts** to continue Sierra's flagship adventure game series between 1998 and 2013.[^ref-2]
 
 | Years | Project | Developer | Status |
 |-------|---------|-----------|--------|
@@ -49,11 +49,11 @@ Perhaps the most lamented cancellation in Sierra history, Space Quest VII went t
 
 **The Most Developed Version:** King's Quest: Twins of Change was directed by [[Mark Seibert]] and written by Cindy Vanous at Sierra Studios Seattle. It featured Alexander and Rosella transformed by wild magic, able to change into animal forms, in a Zelda-inspired action-adventure. The studio "finally died under Vivendi Games" before completion.[^ref-6]
 
-**The Strangest Fate:** Silicon Knights' 2007 King's Quest prototype was **physically destroyed** by court order after they lost a lawsuit to Epic Games over Unreal Engine source code misuse.[^ref-5]
+**The Strangest Fate:** Silicon Knights' 2007 King's Quest prototype was **physically destroyed** by court order after they lost a lawsuit to Epic Games over Unreal Engine source code misuse.[^ref-2]
 
 **What Survives:** [[2010 - The Silver Lining\|The Silver Lining]] began as "King's Quest IX: Every Cloak Has a Silver Lining" before receiving cease-and-desist letters and being forced to continue under a new name. Four of five planned episodes were released between 2010 and 2014.[^ref-7]
 
-The series eventually continued with [[2015 - King's Quest\|The Odd Gentlemen's 2015 reboot]], which developers explicitly stated was **not** King's Quest IX.[^ref-5]
+The series eventually continued with [[2015 - King's Quest\|The Odd Gentlemen's 2015 reboot]], which developers explicitly stated was **not** King's Quest IX.[^ref-2]
 
 ---
 
@@ -138,11 +138,11 @@ The Manhunter series—Barry, Dave, and Dee Dee Murry's dark post-apocalyptic ad
 
 ### Red Baron 2013 Remake
 
-Damon Slye, creator of the legendary Red Baron flight simulator, attempted to revive the franchise through Kickstarter in 2013.[^ref-23]
+Damon Slye, creator of the legendary Red Baron flight simulator, attempted to revive the franchise through Kickstarter in 2013.[^ref-15]
 
 **What Happened:** Mad Otter Games acquired the Red Baron IP in 2009 and launched a Kickstarter on October 22, 2013, seeking $250,000. The campaign raised only $40,493 (16% of goal) before being cancelled.[^ref-24]
 
-**Why It Failed:** Slye candidly assessed the problems: "We didn't build a community before we launched the Kickstarter. We didn't present it very well. The game didn't look right. It looked a little arcade-ey. It didn't look like living history, interactive history."[^ref-23]
+**Why It Failed:** Slye candidly assessed the problems: "We didn't build a community before we launched the Kickstarter. We didn't present it very well. The game didn't look right. It looked a little arcade-ey. It didn't look like living history, interactive history."[^ref-15]
 
 ---
 
@@ -158,7 +158,7 @@ The late 1990s saw traditional adventure games fall out of commercial favor. Viv
 
 ### Original Creators Departing
 
-[[Roberta Williams]] left Sierra in 1999 (reportedly required to sign a non-competition agreement), [[Al Lowe]] departed on Chainsaw Monday, [[Scott Murphy]] was laid off—the designers who had built Sierra's franchises were gone.[^ref-5]
+[[Roberta Williams]] left Sierra in 1999 (reportedly required to sign a non-competition agreement), [[Al Lowe]] departed on Chainsaw Monday, [[Scott Murphy]] was laid off—the designers who had built Sierra's franchises were gone.[^ref-2]
 
 ### Chainsaw Monday
 
@@ -237,7 +237,6 @@ The tragedy is that many of these games could have been great. The talent was th
 [^ref-2]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – comprehensive history of all KQ9 attempts
 [^ref-3]: [SpaceQuest.net – SQ7 Documentation](https://www.spacequest.net/sq7/) – development timeline, working titles, team quotes, Chainsaw Monday details
 [^ref-4]: [Wiw.org – Space Quest 7 Archive](https://wiw.org/~jess/sq7.html) – Escape Factory version, Vohaul revelation, December 2002 cancellation
-[^ref-5]: [King's Quest Omnipedia – King's Quest IX](https://kingsquest.fandom.com/wiki/King%27s_Quest_IX) – Silicon Knights prototype destruction, marketing decisions
 [^ref-6]: [King's Quest Omnipedia – King's Quest: Twins of Change](https://kingsquest.fandom.com/wiki/King%27s_Quest:_Twins_of_Change) – Mark Seibert as director, gameplay details
 [^ref-7]: [King's Quest Omnipedia – The Silver Lining](https://kingsquest.fandom.com/wiki/The_Silver_Lining) – original "King's Quest IX" title, Phoenix Online Studios
 [^ref-8]: [Unseen64 – Leisure Suit Larry 8 PC Cancelled](https://www.unseen64.net/2009/10/25/leisure-suit-larry-8-pc-cancelled/) – Development timeline, cancellation details
@@ -255,7 +254,6 @@ The tragedy is that many of these games could have been great. The talent was th
 [^ref-20]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information
 [^ref-21]: [Sierra Gamers Forums – Why was there never a third game?](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams explanation
 [^ref-22]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – 2008 revival information
-[^ref-23]: [Polygon – The Red Baron is Ready to Fly Again](https://www.polygon.com/2015/9/22/9354153/the-red-baron-is-ready-to-fly-again/) – Kickstarter failure analysis
 [^ref-24]: [GamesNostalgia – Red Baron](https://gamesnostalgia.com/game/red-baron) – Kickstarter amount raised
 [^ref-25]: [IGN – SWAT: Urban Justice Developer Diary #5](https://www.ign.com/articles/2002/05/01/swat-urban-justice-developer-diary-5) – Evan Buehler sound design
 [^ref-26]: [Wiw.org – Old SQ7 Archive](http://www.wiw.org/~jess/old_sq7.html) – Christmas Eve cancellation quote

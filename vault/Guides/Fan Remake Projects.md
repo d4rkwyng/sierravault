@@ -82,7 +82,7 @@ Infamous Adventures (later Infamous Quests) creates VGA remakes and original adv
 | TBD | King's Quest IV Remake | In Development | — |
 
 **Notes:**
-- Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-6]
+- Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
 - Quest for Infamy is a spiritual successor to Quest for Glory, featuring anti-hero William Roehm
 - Order of the Thorne draws inspiration from King's Quest's fairy tale style
 
@@ -301,7 +301,7 @@ Recent versions of ScummVM support AGS games, allowing fan remakes to run on:
 
 Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 
-- **AGDI** — Operated with apparent tolerance from Sierra/Vivendi; no official license confirmed[^ref-7]
+- **AGDI** — Operated with apparent tolerance from Sierra/Vivendi; no official license confirmed[^ref-2]
 - **Phoenix Online** — Received cease-and-desist, then negotiated limited fan license for The Silver Lining
 - **Current status** — With Sierra IP now owned by Microsoft (via Activision Blizzard acquisition), legal landscape is uncertain
 
@@ -340,5 +340,3 @@ Most fan remakes operate under unofficial tolerance or negotiated fan licenses:
 [^ref-3]: [Adventure Gamers – KQ2+ Review (archived)](https://web.archive.org/web/20031211034253/http://www.adventuregamers.com/underground/gameinfo.php?id=213) — 2002 AGS Awards
 [^ref-4]: [Polygon – Best Fan Remakes](http://www.polygon.com/2014/8/6/5975145/best-games-of-july-2014-the-besties) — QFG2 VGA praise
 [^ref-5]: [Just Adventure – State of Adventure Gaming (archived)](https://web.archive.org/web/20100317114154/http://justadventure.com/articles/State_of_Adventure_Gaming/Oct-01/October_01.shtm) — KQ8 sales boost after KQ1 VGA release
-[^ref-6]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — AGDI SQ2 cancellation, Infamous Adventures pickup
-[^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) — Fan license status (citation needed on Wikipedia)

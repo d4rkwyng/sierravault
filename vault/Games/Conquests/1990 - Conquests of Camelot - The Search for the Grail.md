@@ -244,7 +244,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 
-- **Series:** [[Conquests of Camelot|Conquests Series]]
+- **Series:** Conquests Series
 - **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Conquests of the Longbow]] (1991)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]

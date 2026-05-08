@@ -37,7 +37,7 @@ The early 1990s marked the peak of Murphy's career at Sierra, as he and Crowe cr
 
 Following the completion of [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] in 1995, Murphy's relationship with Sierra began to evolve as the company shifted its focus toward different types of games.[^ref-21] The adventure game market was experiencing significant changes, and the creative freedom that Murphy and Crowe had enjoyed during the series' peak years was becoming increasingly constrained by corporate decisions and market pressures.[^ref-22] Despite plans for Space Quest VII, the project was ultimately cancelled, marking the end of an era for both Murphy and the adventure gaming genre at Sierra.[^ref-23]
 
-After leaving Sierra, Murphy experienced what he later described as a twenty-year estrangement from his creative partner Mark Crowe, during which time both designers pursued separate projects and career paths.[^ref-24] Murphy continued working in the video game industry in various capacities, though he maintained a lower profile compared to his Sierra years.[^ref-25] During this period, he watched as fans created numerous unofficial Space Quest projects, including fan-made games and remakes that kept the series' spirit alive in the absence of official sequels.[^ref-26]
+After leaving Sierra, Murphy experienced what he later described as a twenty-year estrangement from his creative partner Mark Crowe, during which time both designers pursued separate projects and career paths.[^ref-19] Murphy continued working in the video game industry in various capacities, though he maintained a lower profile compared to his Sierra years.[^ref-10] During this period, he watched as fans created numerous unofficial Space Quest projects, including fan-made games and remakes that kept the series' spirit alive in the absence of official sequels.[^ref-26]
 
 The advent of crowdfunding platforms in the 2010s provided Murphy and Crowe with an opportunity to reunite and return to their adventure game roots. After reconciling their differences, the Two Guys from Andromeda launched a successful Kickstarter campaign for SpaceVenture, a spiritual successor to the Space Quest series.[^ref-27] While the project faced numerous development challenges and delays, it represented Murphy's return to the genre that had defined his career and his renewed collaboration with his longtime creative partner.[^ref-28]
 
@@ -57,9 +57,9 @@ Murphy's early contribution to [[1984 - King's Quest - Quest for the Crown\|King
 
 ## Design Philosophy
 
-Scott Murphy's approach to game design emphasized the importance of humor as a vehicle for engaging players and creating memorable experiences. Throughout his career, he demonstrated a belief that games should be entertaining first and foremost, with comedy serving not just as window dressing but as an integral part of the gameplay experience.[^ref-38] Murphy often spoke about the importance of balancing challenging puzzles with moments of levity, ensuring that players remained engaged even when frustrated by difficult sections.[^ref-39]
+Scott Murphy's approach to game design emphasized the importance of humor as a vehicle for engaging players and creating memorable experiences. Throughout his career, he demonstrated a belief that games should be entertaining first and foremost, with comedy serving not just as window dressing but as an integral part of the gameplay experience.[^ref-38] Murphy often spoke about the importance of balancing challenging puzzles with moments of levity, ensuring that players remained engaged even when frustrated by difficult sections.[^ref-5]
 
-Murphy's programming background strongly influenced his design philosophy, as he understood the technical constraints and possibilities of the systems he was working with. This technical knowledge allowed him to create increasingly ambitious designs while ensuring that the final products would be stable and enjoyable for players.[^ref-40] He frequently emphasized the importance of thorough testing and iteration, believing that good game design emerged through careful refinement rather than initial inspiration alone.[^ref-41]
+Murphy's programming background strongly influenced his design philosophy, as he understood the technical constraints and possibilities of the systems he was working with. This technical knowledge allowed him to create increasingly ambitious designs while ensuring that the final products would be stable and enjoyable for players.[^ref-8] He frequently emphasized the importance of thorough testing and iteration, believing that good game design emerged through careful refinement rather than initial inspiration alone.[^ref-41]
 
 ## Legacy
 
@@ -127,8 +127,6 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-21]: [Wikipedia - Space Quest](https://en.wikipedia.org/wiki/Space_Quest) — Space Quest 6 development and Sierra's shifting focus
 [^ref-22]: [Space Quest Collection History (1997)](https://archive.org/details/the-history-of-space-quest) — adventure game market changes and Sierra corporate pressures
 [^ref-23]: [SpaceQuest.net Archives - Space Quest 7](https://www.spacequest.net/archives/sq7/) — Space Quest VII cancellation and "Chainsaw Monday" layoffs
-[^ref-24]: [Game Developer - The 20-Year Estrangement](https://www.gamedeveloper.com/business/the-20-year-estrangement-of-the-two-guys-from-andromeda) — Murphy's estrangement from Mark Crowe and reconciliation
-[^ref-25]: [Virtual Broomcloset Interview (2000)](https://wiw.org/~jess/scott112900.html) — Murphy's lower profile post-Sierra and career transitions
 [^ref-26]: [Wikipedia - Space Quest: Vohaul Strikes Back](https://en.wikipedia.org/wiki/Space_Quest:_Vohaul_Strikes_Back) — fan-made Space Quest games keeping the series alive
 [^ref-27]: [Kickstarter - SpaceVenture](https://www.kickstarter.com/projects/spaceventure/two-guys-spaceventure-by-the-creators-of-space-que) — Two Guys from Andromeda crowdfunding campaign
 [^ref-28]: [Rock Paper Shotgun - Two Guys Reform](https://www.rockpapershotgun.com/two-guys-from-andromeda-reform-to-make-space-quest) — SpaceVenture development challenges and delays
@@ -142,8 +140,6 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 [^ref-36]: [Wikipedia - Adventure Game Interpreter](https://en.wikipedia.org/wiki/Adventure_Game_Interpreter) — AGI engine development and implementation details
 [^ref-37]: [The Sierra Newsletter (1989)](https://wiw.org/~jess/2guys_sq3.html) — Murphy's technical contributions at Sierra
 [^ref-38]: [Adventure Classic Gaming - Scott Murphy Interview](https://www.adventureclassicgaming.com/index.php/site/interviews/234/) — design philosophy on humor and player engagement
-[^ref-39]: [Best of AMA - Scott Murphy](https://bestofama.com/ops/scott-murphy-video-game-designer) — balance of puzzles with comedy
-[^ref-40]: [MobyGames - Scott Murphy Credits](https://www.mobygames.com/person/4525/scott-murphy/credits/) — programming background and technical expertise
 [^ref-41]: [Guys from Andromeda Press Release (2012)](http://guysfromandromeda.com/wp-content/uploads/2012/06/Spaceventure_Press_Release_PDF1.5.pdf) — design approach and iteration philosophy
 [^ref-42]: [Game Developer - Sierra Adventure Games](https://www.gamedeveloper.com/design/the-game-design-legacy-of-roberta-williams) — adventure gaming as viable genre
 [^ref-43]: [PC Gamer - Best Adventure Games](https://www.pcgamer.com/the-best-adventure-games-on-pc/) — Space Quest influence on subsequent games

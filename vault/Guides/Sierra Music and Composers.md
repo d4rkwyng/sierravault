@@ -58,11 +58,11 @@ For [[1995 - Phantasmagoria\|Phantasmagoria]], Mark Seibert and Jay Usher create
 
 ### Mark Seibert – Music Director (1987–2001)
 
-[[Mark Seibert]] served as Sierra's music director for fifteen years, overseeing the audio direction for virtually every major release.[^ref-9] Born in 1960 in California, Seibert joined Sierra in 1987 after performing guitar and vocals for the Christian band Omega Sunrise (1979–1986).[^ref-10]
+[[Mark Seibert]] served as Sierra's music director for fifteen years, overseeing the audio direction for virtually every major release.[^ref-8] Born in 1960 in California, Seibert joined Sierra in 1987 after performing guitar and vocals for the Christian band Omega Sunrise (1979–1986).[^ref-10]
 
 **Career highlights:**
 - Accumulated 159 credits across 54 games[^ref-11]
-- Promoted to producer in 1992, expanding beyond music to all aspects of production[^ref-9]
+- Promoted to producer in 1992, expanding beyond music to all aspects of production[^ref-8]
 - Composed "Girl in the Tower" for [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]], one of the most recognized pieces of video game music from the era[^ref-12]
 
 **Select credits:**
@@ -156,7 +156,7 @@ William Goldstein's score for [[1988 - King's Quest IV - The Perils of Rosella\|
 
 ### Gabriel Knight Jazz Themes
 
-Robert Holmes's New Orleans jazz-infused score for [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] established the atmospheric identity of the series.[^ref-17] The series won Computer Gaming World's Adventure Game of the Year in 1994.[^ref-24]
+Robert Holmes's New Orleans jazz-infused score for [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] established the atmospheric identity of the series.[^ref-17] The series won Computer Gaming World's Adventure Game of the Year in 1994.[^ref-17]
 
 ## Where to Listen Today
 
@@ -204,7 +204,6 @@ Allen launched a Kickstarter project titled "Under the Half Dome" to create "hig
 [^ref-6]: [Al Lowe – Larry 7 Development](https://allowe.com/games/game-designs.html) — Live musicians quote, CD audio transition
 [^ref-7]: [Wikipedia – Phantasmagoria](https://en.wikipedia.org/wiki/Phantasmagoria_(video_game)) — Music production details, live instruments
 [^ref-8]: [Wikipedia – Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — Phantasmagoria composition credits
-[^ref-9]: [Wikipedia – Mark Seibert](https://en.wikipedia.org/wiki/Mark_Seibert) — 15-year tenure, music director role, 1992 producer promotion
 [^ref-10]: [Choicest Games – Where Are They Now: Mark Seibert](https://www.choicestgames.com/2015/04/where-are-they-now-mark-seibert.html) — Birth year, Omega Sunrise band, career retrospective
 [^ref-11]: [MobyGames – Mark Seibert Credits](https://www.mobygames.com/person/4548/mark-seibert/credits/) — 159 credits, 54 games verified
 [^ref-12]: [Mark Seibert Personal Website](http://www.markseibert.com/Sierra.htm) — "Girl in the Tower" composition, personal reflections
@@ -219,6 +218,5 @@ Allen launched a Kickstarter project titled "Under the Half Dome" to create "hig
 [^ref-21]: [Discogs – An Ode to the Isles](https://www.discogs.com/release/31112489) — 2024 Two Guys Records release, promo CD values
 [^ref-22]: [Discogs – Girl in the Tower Promo CD](https://www.discogs.com/release/14528268) — Jane Jensen lyrics, Mark Seibert composer
 [^ref-23]: [The Digital Antiquarian – Mortgaging of Sierra On-Line](https://www.filfre.net/2019/07/the-mortgaging-of-sierra-online/) — Radio campaign fiasco, Ken Williams vision, FCC threats
-[^ref-24]: [Wikipedia – Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) — CGW Adventure Game of the Year 1994
 [^ref-25]: [Xeen Music – KQ4 Soundtrack](https://xeenmusic.bandcamp.com/album/kings-quest-iv-the-perils-of-rosella-soundtrack-mt-32-archival-edition) — Official licensed MT-32 recording
 [^ref-26]: [Kickstarter – Under the Half Dome](https://www.kickstarter.com/projects/mrkenallen/under-the-half-dome-an-album-by-sierra-composer-ke) — Ken Allen album project, high-definition remakes

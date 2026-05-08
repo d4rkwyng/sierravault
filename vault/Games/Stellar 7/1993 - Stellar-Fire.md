@@ -22,7 +22,7 @@ tags: [1990s, dynamix, sierra, simulation, stellar-7]
 
 ## Overview
 
-Stellar-Fire is a futuristic first-person hovercraft combat simulation game released in December 1993 for the Sega CD[^ref-1]. Developed by Infinite Laser Dog and published by Dynamix, the game represents the only entry in the long-running Stellar 7 series not created directly by Dynamix themselves[^ref-1]. The game continues the franchise's tradition of pitting players against the malevolent Draxon empire, this time placing them in control of the experimental "Raven" hovermorph craft as humanity's last hope against alien conquest[^ref-2].
+Stellar-Fire is a futuristic first-person hovercraft combat simulation game released in December 1993 for the Sega CD[^ref-1][^ref-15]. Developed by Infinite Laser Dog and published by Dynamix, the game represents the only entry in the long-running Stellar 7 series not created directly by Dynamix themselves[^ref-1]. The game continues the franchise's tradition of pitting players against the malevolent Draxon empire, this time placing them in control of the experimental "Raven" hovermorph craft as humanity's last hope against alien conquest[^ref-2].
 
 Set in the year 2206, Stellar-Fire features polygon-based 3D graphics that were considered cutting-edge for the Sega CD hardware, along with a CD-quality soundtrack and full-motion video sequences narrated by Star Trek: The Next Generation actor Michael Dorn[^ref-3]. The game combines elements of simulation and first-person shooter gameplay with a run-and-gun strategy, challenging players to navigate across hostile moons while collecting crystals and battling enemy forces[^ref-4]. While the game received mixed reviews upon release, it has maintained a cult following among Sega CD enthusiasts who appreciate its ambitious technical achievements and distinctive musical score[^ref-5].
 
@@ -214,4 +214,4 @@ The game's mixed reception reflects broader challenges facing Sega CD developers
 [^ref-12]: [Dynamix Wiki – Stellar 7 Series](https://dynamix.fandom.com/wiki/Stellar_7_(series)) – series overview, game list, developer information
 [^ref-13]: [MPRD.se – Stellar-Fire Manual PDF](https://r.mprd.se/Sega%20CD/Manuals/Stellar-Fire%20(U).pdf) – original game manual
 [^ref-14]: [Sega Wiki – Stellar-Fire](https://sega.fandom.com/wiki/Stellar-Fire) – Sega game wiki and series information
-[^ref-6]: [IMDB – Stellar-Fire](https://www.imdb.com/title/tt0402509/) – film/game database with Michael Dorn narration credit
+[^ref-15]: [Sega-16 Forums – Stellar Fire Review Thread](https://www.sega-16forums.com/forum/site-content/latest-review/7434-stellar-fire) – Reader discussion of the Sega-16 retrospective review covering reception and gameplay assessment

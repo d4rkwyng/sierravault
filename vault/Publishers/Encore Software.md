@@ -71,4 +71,3 @@ Encore Software continues to operate as an interactive software publisher, selli
 [^ref-12]: [Scam Detector - Encore.com Review](https://www.scam-detector.com/validator/encore-com-review/) - Company verification
 [^ref-13]: [Glassdoor - Encore Software Reviews](https://www.glassdoor.com/Reviews/Encore-Software-Reviews-E13949.htm) - Employee reviews
 [^ref-14]: [Elite Systems - Wikipedia](https://en.wikipedia.org/wiki/Elite_Systems) - Encore budget label context
-[^ref-15]: [Hoyle Puzzle & Board Games](https://retrolorean.com/en/publisher/encore-software-inc) - Hoyle series information

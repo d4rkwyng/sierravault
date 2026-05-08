@@ -1,7 +1,7 @@
 ---
 title: Hoyle Official Casino Games Collection
 release_year: 2016
-developer: Encore Software
+developer: Encore[^ref-18] Software
 designer: []
 publisher: Encore
 genre: Casino
@@ -334,4 +334,4 @@ The game's removal from digital storefronts marks an ignominious end for a serie
 
 [^ref-16]: [AllKeyShop – Hoyle Official Casino Games](https://www.allkeyshop.com/blog/buy-hoyle-official-casino-games-cd-key-compare-prices/) – Digital key pricing, platform availability, regional information
 [^ref-17]: [MobyGames – Hoyle Casino Games Collection](https://www.mobygames.com/game/hoyle-casino-games-collection/) – platform details
-[^ref-18]: [GameFAQs – Hoyle Casino Games Collection](https://gamefaqs.gamespot.com/pc/201510-hoyle-casino-games-collection) – user database entry
+[^ref-18]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – Series history and context for the long-running Hoyle computer game franchise

@@ -279,7 +279,7 @@ The game's focus on historical accuracy and cultural research also distinguishes
 
 ## See Also
 
-- **Series:** [[Conquests of Camelot|Conquests Series]]
+- **Series:** Conquests Series
 - **Previous:** [[1990 - Conquests of Camelot - The Search for the Grail|← Conquests of Camelot]] (1990)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]

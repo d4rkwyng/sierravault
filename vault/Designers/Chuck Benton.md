@@ -25,7 +25,7 @@ After graduating from California University of Pennsylvania, Benton entered the 
 
 Benton's entry into game development occurred during the late 1970s when personal computers were transitioning from hobbyist curiosities to commercial products.[^ref-5] Before acquiring his Apple II, he had gained programming experience on an IBM 360 during a "failed college attempt" and worked as a field engineer managing card reader equipment.[^ref-3] His employer, a flight simulator company, agreed to purchase him an Apple computer after Benton promised to write software automating his paperwork—though he had other plans in mind.[^ref-3]
 
-Influenced heavily by Scott Adams' pioneering text adventures, particularly "Pirate Adventure," Benton was inspired by Adams' screen layout and two-word parsing format.[^ref-3] As a single 27-year-old male in 1981, he decided to create something different from the typical fantasy adventures dominating the market, explaining: "Being a single 27 year old male, I decided to make the objective to get laid three times."[^ref-3] The resulting game, initially called "Super Stud Adventure," was renamed to "Softporn Adventure" and released under his own Blue Sky Software label.[^ref-8]
+Influenced heavily by Scott Adams' pioneering text adventures, particularly "Pirate Adventure," Benton was inspired by Adams' screen layout and two-word parsing format.[^ref-3] As a single 27-year-old male in 1981, he decided to create something different from the typical fantasy adventures dominating the market, explaining: "Being a single 27 year old male, I decided to make the objective to get laid three times."[^ref-3] The resulting game, initially called "Super Stud Adventure," was renamed to "Softporn Adventure" and released under his own Blue Sky Software label.[^ref-5]
 
 After the success of Softporn Adventure, Ken Williams at Sierra (then On-Line Systems) asked Benton to develop Frogger for the Atari 8-bit platform.[^ref-3] This represented a significant technical leap from Apple BASIC to assembly language programming, though Benton noted he already knew assembly and "just had to learn my way around the Atari."[^ref-3] He subsequently programmed the Commodore 64 version—working from a dot matrix printout of Commodore's draft manual before the system's commercial release, making it "one of the first games ever on the Commodore 64."[^ref-3]
 
@@ -56,7 +56,7 @@ At TSI, Benton developed training simulators for the military and implemented wh
 
 Currently, Benton describes himself as "pseudo-retired" and works as lead systems engineer for an underwater power generator utilizing tidal currents.[^ref-3] He maintains connection to his gaming legacy, noting that at recent technical conferences he's introduced as "having written Softporn Adventure and Frogger" and is "mobbed by all these people wanting to take their pictures with me... because something I did in the early eighties!"[^ref-3]
 
-Benton also preserves his gaming history, including the original Apple II on which Softporn Adventure was written, original development disks, and BASIC source code printouts.[^ref-8] He has considered donating these materials to a museum, noting that Softporn Adventure was "the first commercially successful adult software in the world."[^ref-3]
+Benton also preserves his gaming history, including the original Apple II on which Softporn Adventure was written, original development disks, and BASIC source code printouts.[^ref-5] He has considered donating these materials to a museum, noting that Softporn Adventure was "the first commercially successful adult software in the world."[^ref-3]
 
 ### Modern Recognition
 
@@ -66,11 +66,11 @@ In 2018, German developer Crazy Bunch released "Leisure Suit Larry: Wet Dreams D
 
 ### Softporn Adventure (1981)
 
-"Softporn Adventure" represents Benton's most significant contribution to gaming history, establishing many conventions that would influence adult-themed gaming for decades.[^ref-2] The text adventure featured a contemporary setting where players navigated various locations attempting to achieve romantic encounters with three different women. Benton's design philosophy prioritized narrative immersion over traditional puzzle-solving, creating what he described as "an interactive story as opposed to a puzzle."[^ref-3] The game's initial commercial release was modest, with Benton noting "I made 1000 and sold 100" of the original Blue Sky Software version.[^ref-8]
+"Softporn Adventure" represents Benton's most significant contribution to gaming history, establishing many conventions that would influence adult-themed gaming for decades.[^ref-2] The text adventure featured a contemporary setting where players navigated various locations attempting to achieve romantic encounters with three different women. Benton's design philosophy prioritized narrative immersion over traditional puzzle-solving, creating what he described as "an interactive story as opposed to a puzzle."[^ref-3] The game's initial commercial release was modest, with Benton noting "I made 1000 and sold 100" of the original Blue Sky Software version.[^ref-5]
 
 The game gained notoriety partly due to its controversial marketing, including a photograph featuring Sierra employees (including Roberta Williams) in a hot tub that appeared on the packaging.[^ref-12] This marketing approach generated significant media attention, including coverage in Time Magazine, which led to an amusing family moment when Benton's mother remarked "oh, now everybody knows..." upon seeing the article.[^ref-3] Sales eventually exceeded 50,000 copies—a blockbuster for the era—and Sierra employees bought multiple copies of other games alongside Softporn "to hide the fact that they only wanted Softporn Adventure."[^ref-3]
 
-Benton has described the game as "Semi-Autobiographical," noting that "parts of the game were based on his own life, but did not specify which ones."[^ref-8]
+Benton has described the game as "Semi-Autobiographical," noting that "parts of the game were based on his own life, but did not specify which ones."[^ref-5]
 
 ### Frogger (1982-1983)
 
@@ -146,7 +146,6 @@ Beyond gaming, Benton's career trajectory exemplifies the entrepreneurial spirit
 [^ref-5]: [Get Lamp Interview (2006)](http://www.getlamp.com/cast/20060526benton/index.html) — Documentary interview with 2003 convention biography
 [^ref-6]: [MobyGames Profile](https://www.mobygames.com/person/6030/chuck-benton/) — Comprehensive game development history and company collaborations
 [^ref-7]: [LinkedIn Profile](https://www.linkedin.com/in/chuck-benton-2a99011a/) — Professional background and current career
-[^ref-8]: [Get Lamp Interview Materials](http://www.getlamp.com/cast/20060526benton/index.html) — Original development artifacts and Blue Sky Software history
 [^ref-9]: [Internet Archive - Jump Jet](https://archive.org/details/wozaday_Jump_Jet) — Game preservation and publication details for Avant-Garde Creations release
 [^ref-10]: [No Dice No Glory](https://nodicenoglory.com/retrospective-of-leisure-suit-larry-in-the-land-of-the-lounge-lizards/) — Leisure Suit Larry development history and Benton's involvement
 [^ref-11]: [Giant Bomb](https://www.giantbomb.com/search/?q=Chuck+Benton&filter=person) — Sales figures and franchise success metrics

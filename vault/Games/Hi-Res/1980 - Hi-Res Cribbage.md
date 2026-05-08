@@ -21,7 +21,7 @@ tags: [1980s, hi-res-series, sierra]
 
 ## Overview
 
-Hi-Res Cribbage is a single-player card game developed by [[Warren Schwader]] and published by On-Line Systems in 1980 for the Apple II computer.[^ref-1][^ref-2] The game allows one player to compete against a challenging computer opponent in the classic English card game of cribbage, utilizing the Apple II's high-resolution graphics capabilities to create an authentic digital recreation of the tabletop experience.[^ref-3][^ref-4] At the time of its development, programming in hi-res graphics and assembler was considered "like magic to people and very few knew how to do it," making this title a technical achievement for its era.[^ref-5]
+Hi-Res Cribbage is a single-player card game developed by [[Warren Schwader]] and published by On-Line Systems in 1980 for the Apple II computer.[^ref-1][^ref-2][^ref-15] The game allows one player to compete against a challenging computer opponent in the classic English card game of cribbage, utilizing the Apple II's high-resolution graphics capabilities to create an authentic digital recreation of the tabletop experience.[^ref-3][^ref-4] At the time of its development, programming in hi-res graphics and assembler was considered "like magic to people and very few knew how to do it," making this title a technical achievement for its era.[^ref-5]
 
 The game was among the earliest titles in On-Line Systems' catalog and helped establish the company's reputation for quality software during the formative years of the personal computer industry.[^ref-6] Hi-Res Cribbage sold approximately 2,000 copies, which Schwader himself described as "not awful but not a hit."[^ref-5] The game featured animated cards that appeared to be dealt by "an invisible hand," automatic scoring, and a visual cribbage board with audible pegging—innovations that distinguished it from text-based card games of the period.[^ref-3][^ref-4]
 
@@ -228,4 +228,5 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 [^ref-13]: [Timetoast Timelines – Life and Work of Warren Schwader](https://www.timetoast.com/timelines/life-and-work-of-warren-schwader) – developer timeline, career progression at On-Line Systems
 
 [^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
+[^ref-15]: [Apple II History – 1980 Software Releases](https://www.apple2history.org/appendix/aha/aha80/) – Apple II software release index documenting Hi-Res Cribbage as part of On-Line Systems' 1980 catalog
 

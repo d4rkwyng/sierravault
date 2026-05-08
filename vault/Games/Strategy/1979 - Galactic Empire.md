@@ -26,7 +26,7 @@ Galactic Empire is a notable space strategy game released in 1979 for the TRS-80
 
 The mission presented to players is nothing less than universal conquest: the entirety of the Central Galactic System, consisting of 20 planets laid out in a three-dimensional map, must be conquered and held within a time limit of 1000 years [^ref-4]. Unlike most science fiction set on an interstellar scale, there is no faster-than-light travel or communication in Galactic Empire—players must contend with realistic travel times that require cryogenic hibernation to endure the years needed to traverse interstellar distances [^ref-1]. This design choice was remarkably innovative for its era, adding genuine strategic depth to what the manual describes as a universe where "FTL travel is physically impossible" [^ref-5].
 
-The game served as the foundation for what would become the Galactic Saga series [^ref-1]. Its real-time gameplay, where one year passes in approximately four minutes, created an immersive experience that challenged players to manage resources, fleets, and planetary conquest simultaneously [^ref-4]. Despite its technical limitations on the 16KB TRS-80 platform, Galactic Empire demonstrated impressive ambition in simulating a galaxy-spanning conflict [^ref-5].
+The game served as the foundation for what would become the Galactic Saga series [^ref-1][^ref-16]. Its real-time gameplay, where one year passes in approximately four minutes, created an immersive experience that challenged players to manage resources, fleets, and planetary conquest simultaneously [^ref-4]. Despite its technical limitations on the 16KB TRS-80 platform, Galactic Empire demonstrated impressive ambition in simulating a galaxy-spanning conflict [^ref-5].
 
 > [!info]- Game Info
 > **Developer:** Brøderbund Software[^ref-1]
@@ -228,3 +228,4 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [^ref-13]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/) – game information and details
 [^ref-14]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/21299/star-wars-empire-at-war/) – comprehensive game database entry with detailed technical specifications, credits, and multiple user reviews providin...
 [^ref-15]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) – comprehensive game database entry providing detailed historical and technical information about the game
+[^ref-16]: [SF Encyclopedia – Galactic Saga](https://sf-encyclopedia.com/entry/galactic_saga) – Series overview and historical context for Galactic Empire as the first installment in Doug Carlston's Galactic Saga

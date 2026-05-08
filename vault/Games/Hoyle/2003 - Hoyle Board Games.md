@@ -21,7 +21,7 @@ tags: [2000s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Board Games 2003 represents Sierra Entertainment's continuation of the long-running Hoyle series, offering a comprehensive digital collection of classic board games for home computer users.[^ref-1] Published by [[Sierra On-Line]], the game promised to combine "the cutting edge of computer technology with its beautiful graphics and involving gameplay" while presenting games that "belong to history."[^ref-2] The collection featured 18 classic board games including Checkers, Chess, Backgammon, and Pachisi, making it one of the most complete digital board game compilations of its era.[^ref-9]
+Hoyle Board Games 2003 represents Sierra Entertainment's continuation of the long-running Hoyle series[^ref-17], offering a comprehensive digital collection of classic board games for home computer users.[^ref-1] Published by [[Sierra On-Line]], the game promised to combine "the cutting edge of computer technology with its beautiful graphics and involving gameplay" while presenting games that "belong to history."[^ref-2] The collection featured 18 classic board games including Checkers, Chess, Backgammon, and Pachisi, making it one of the most complete digital board game compilations of its era.[^ref-9]
 
 The game was designed to appeal to a broad audience, receiving an ESRB rating of E for Everyone, and was released across multiple platforms including Windows PC, Macintosh, Palm Pilot, and Pocket PC.[^ref-4] This cross-platform approach demonstrated Sierra's commitment to making casual gaming accessible to users regardless of their preferred device.[^ref-5] The package included notable extras such as Webster's New World College Dictionary and a free Hoyle rulebook and strategy guide, adding educational value to the entertainment experience.[^ref-6]
 
@@ -327,3 +327,4 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 
 [^ref-16]: [NeverDieMedia – Hoyle Puzzle Games 2003](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003) – Related software, publication documentation, series information
+[^ref-17]: [GameSpot – Hoyle Board Games Review](https://www.gamespot.com/reviews/hoyle-board-games-review/1900-2895435/) – Professional review noting the 18-game lineup and AI quality
