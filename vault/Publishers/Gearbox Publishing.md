@@ -13,25 +13,23 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Gearbox Publishing is the publishing arm of Gearbox Entertainment, founded in 2016 as a division of [[Developers/Gearbox Software\|Gearbox Software]]. The publishing division handles third-party titles as well as games developed internally, including the Homeworld franchise which they acquired along with the broader Homeworld IP in 2013.
+Gearbox Publishing is the publishing arm of Gearbox Entertainment, founded in 2016 as a division of [[Developers/Gearbox Software|Gearbox Software]]. The publishing division handles third-party titles as well as games developed internally, including the Homeworld franchise which they acquired along with the broader Homeworld IP in 2013.
 
-For information about the Gearbox development studio's work on Sierra properties, see [[Developers/Gearbox Software\|Gearbox Software (Developer)]].
+For information about the Gearbox development studio's work on Sierra properties, see [[Developers/Gearbox Software|Gearbox Software (Developer)]].
 
 ## Sierra Connection
 
-Gearbox inherited the Homeworld franchise through their 2013 acquisition from THQ's bankruptcy auction. The Homeworld series was originally developed by [[Developers/Relic Entertainment\|Relic Entertainment]] and published by Sierra Entertainment in 1999. Gearbox has since published remasters and new entries in the series.
+Gearbox inherited the Homeworld franchise through their 2013 acquisition from THQ's bankruptcy auction. The Homeworld series was originally developed by [[Developers/Relic Entertainment|Relic Entertainment]] and published by Sierra Entertainment in 1999. Gearbox has since published remasters and new entries in the series.
 
 ## Games Published
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2015 | [[2015 - Homeworld Remastered Collection\|Homeworld Remastered Collection]] | Remastered HD versions |
-| 2024 | [[2024 - Homeworld 3\|Homeworld 3]] | New mainline entry |
+- **2015** — [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] — Notes: Remastered HD versions
+- **2024** — [[2024 - Homeworld 3|Homeworld 3]] — Notes: New mainline entry
 
 ## Related
 
-- **Developer Page:** [[Developers/Gearbox Software\|Gearbox Software]]
-- **Original Publisher:** [[Publishers/Sierra On-Line\|Sierra On-Line]] (published Homeworld 1 & Cataclysm)
+- **Developer Page:** [[Developers/Gearbox Software|Gearbox Software]]
+- **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]] (published Homeworld 1 & Cataclysm)
 
 ## References
 

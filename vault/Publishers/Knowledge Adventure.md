@@ -16,22 +16,20 @@ Knowledge Adventure is an American educational software publisher founded in 199
 
 ## Sierra Connection
 
-After Vivendi's acquisition, Knowledge Adventure continued development of the Dr. Brain educational game series, which was originally created by Sierra On-Line. The Dr. Brain franchise, designed by the [[Designers/Corey Cole\|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.
+After Vivendi's acquisition, Knowledge Adventure continued development of the Dr. Brain educational game series, which was originally created by Sierra On-Line. The Dr. Brain franchise, designed by the [[Designers/Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.
 
 Knowledge Adventure released several Dr. Brain titles in the late 1990s and 2000s, continuing the legacy of Sierra's educational gaming division.
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Series |
-|------|------|--------|
-| 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Dr. Brain |
-| 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Dr. Brain |
-| 1999 | [[1999 - Dr. Brain - Action Reaction\|Dr. Brain: Action Reaction]] | Dr. Brain |
-| 2011 | [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|JumpStart Advanced: Adventures of Dr. Brain]] | Dr. Brain |
+- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Series: Dr. Brain
+- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Series: Dr. Brain
+- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Series: Dr. Brain
+- **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced: Adventures of Dr. Brain]] — Series: Dr. Brain
 
 ## Related
 
-- **Original Series Creator:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Original Series Creator:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 - **Parent Company:** Vivendi Universal Games
 
 ## References

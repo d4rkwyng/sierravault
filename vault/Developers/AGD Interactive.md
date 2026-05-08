@@ -75,12 +75,10 @@ The technical achievements of AGD Interactive have also contributed to the broad
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake]] | Adventure |
-| 2002 | [[2002 - King's Quest II+ - Romancing the Stones\|King's Quest II+: Romancing the Stones]] | Adventure |
-| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | Adventure/RPG |
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | Adventure |
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Genre: Adventure
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+: Romancing the Stones]] — Genre: Adventure
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Genre: Adventure/RPG
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Genre: Adventure
 
 ## References
 

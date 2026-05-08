@@ -13,25 +13,23 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Infamous Adventures was a freeware game publisher active from 2004 to 2012, specializing in VGA remakes of classic Sierra On-Line adventure games. Founded by Steven Alexander and Shawn Mills, the studio created high-quality fan remakes of Space Quest II and King's Quest III before transitioning to commercial development under the [[Publishers/Infamous Quests\|Infamous Quests]] label.
+Infamous Adventures was a freeware game publisher active from 2004 to 2012, specializing in VGA remakes of classic Sierra On-Line adventure games. Founded by Steven Alexander and Shawn Mills, the studio created high-quality fan remakes of Space Quest II and King's Quest III before transitioning to commercial development under the [[Publishers/Infamous Quests|Infamous Quests]] label.
 
-For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Adventures\|Infamous Adventures (Developer)]].
+For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Adventures|Infamous Adventures (Developer)]].
 
 ## Publishing Philosophy
 
-Like [[Publishers/AGD Interactive\|AGD Interactive]], Infamous Adventures operated as a non-commercial operation, distributing their remakes for free through their website. The founders eventually transitioned to commercial game development with Infamous Quests while the Infamous Adventures projects remain available as freeware.
+Like [[Publishers/AGD Interactive|AGD Interactive]], Infamous Adventures operated as a non-commercial operation, distributing their remakes for free through their website. The founders eventually transitioned to commercial game development with Infamous Quests while the Infamous Adventures projects remain available as freeware.
 
 ## Games Published
 
-| Year | Game                                                                               | Notes                                      |
-| ---- | ---------------------------------------------------------------------------------- | ------------------------------------------ |
-| 2009 | [[2011 - Space Quest II VGA Remake\|Space Quest II VGA Remake]] | Debut release                              |
-| 2011 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake]]  | Final project before commercial transition |
+- **2009** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Notes: Debut release
+- **2011** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake]] — Notes: Final project before commercial transition
 
 ## Related
 
-- **Developer Page:** [[Developers/Infamous Adventures\|Infamous Adventures]]
-- **Successor:** [[Publishers/Infamous Quests\|Infamous Quests]] (commercial games, 2012-present)
+- **Developer Page:** [[Developers/Infamous Adventures|Infamous Adventures]]
+- **Successor:** [[Publishers/Infamous Quests|Infamous Quests]] (commercial games, 2012-present)
 
 ## References
 

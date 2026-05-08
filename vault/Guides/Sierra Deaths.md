@@ -23,67 +23,67 @@ The universal advice for Sierra games became a mantra: **"Save early and often!"
 The Space Quest series perfected the art of the humorous death, with Roger Wilco meeting his end in increasingly creative ways across six games. The series featured Gary Owens as narrator in later entries—a legendary voice actor with over 30,000 voice-over jobs including Roger Ramjet and Space Ghost[^ref-5]—whose sardonic commentary made every death a performance.
 
 **Notable Death Mechanics:**
-- [[1986 - Space Quest - The Sarien Encounter\|Space Quest I]] established the series' identity with sardonic humor where "at least if you do something wrong, it tends to garner a chuckle"[^ref-6]
-- [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II]] featured memorable deaths including being squished into a pancake by a floor waxer and causing a methane explosion by lighting a lighter in the bathroom
-- [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]] was ranked **#2** on Computer Gaming World's 1996 list of "the 15 best ways to die in computer gaming" for showing "the player's body parts being sold at a butcher shop"[^ref-7]
-- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] introduced an "instant replay death" scene where the Two Guys from Andromeda pop up to replay Roger's particularly stupid moment
-- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] included a death that parodies the "This is your brain on drugs" PSA when Roger visits the surface of Ortega[^ref-8]
-- [[1993 - Space Quest V - The Next Mutation\|Space Quest V]] featured a hidden "death message viewer" accessible via an invisible button below "Space" on the death screen title bar[^ref-9]
-- [[2011 - Space Quest - Vohaul Strikes Back\|Vohaul Strikes Back]] (fan game) contained 60-70 unique death scenes, including one that taunts: "You are beaten again to a bloody pulp. Will you never learn? Come on, other people are looking at you and seeing what a bad player you are."
+- [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] established the series' identity with sardonic humor where "at least if you do something wrong, it tends to garner a chuckle"[^ref-6]
+- [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] featured memorable deaths including being squished into a pancake by a floor waxer and causing a methane explosion by lighting a lighter in the bathroom
+- [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] was ranked **#2** on Computer Gaming World's 1996 list of "the 15 best ways to die in computer gaming" for showing "the player's body parts being sold at a butcher shop"[^ref-7]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] introduced an "instant replay death" scene where the Two Guys from Andromeda pop up to replay Roger's particularly stupid moment
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] included a death that parodies the "This is your brain on drugs" PSA when Roger visits the surface of Ortega[^ref-8]
+- [[1993 - Space Quest V - The Next Mutation|Space Quest V]] featured a hidden "death message viewer" accessible via an invisible button below "Space" on the death screen title bar[^ref-9]
+- [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] (fan game) contained 60-70 unique death scenes, including one that taunts: "You are beaten again to a bloody pulp. Will you never learn? Come on, other people are looking at you and seeing what a bad player you are."
 
 **Cross-Game References:**
-Space Quest V's death messages even referenced other Sierra games: "Looks like you've been spreading yourself a bit thin lately. Perhaps you'd like to try one of our less challenging games like '[[1987 - Mixed-Up Mother Goose\|Mixed Up Mother Goose]]?'"[^ref-10]
+Space Quest V's death messages even referenced other Sierra games: "Looks like you've been spreading yourself a bit thin lately. Perhaps you'd like to try one of our less challenging games like '[[1987 - Mixed-Up Mother Goose|Mixed Up Mother Goose]]?'"[^ref-10]
 
 ### King's Quest: Death in the Fairy Tale Kingdom
 
 [[Roberta Williams]]' flagship series never shied away from killing its protagonists, though deaths often served the fairy tale atmosphere rather than pure comedy.
 
 **Notable Death Mechanics:**
-- [[1984 - King's Quest - Quest for the Crown\|King's Quest I]] featured random deaths from wandering enemies (dwarf, ogre, witch, wolf) and environmental hazards
-- [[1985 - King's Quest II - Romancing the Throne\|King's Quest II]] displayed a personal message from Roberta and Ken Williams when the player died
-- [[1986 - King's Quest III - To Heir Is Human\|King's Quest III]] was notoriously unforgiving—even Manannan's cat "purposefully tries to trip you up, which results in you falling to your death, snickering as you fall." A single misspelling when casting spells resulted in "fatal results"
-- [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] made history as the first Sierra game with a female protagonist, and Williams noted that "having the woman die bothered me more than I expected" and that "girls die differently. The way she falls has to be different from the way a guy falls"[^ref-11]
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] was criticized for pulling "nearly every dick-move from the Sierra playbook" with its frequent deaths and dead-ends
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] notably reduced deaths compared to previous entries, though the minotaur's labyrinth remained "particularly unforgiving"
-- [[2015 - King's Quest\|King's Quest (2015)]] cleverly explained deaths through the framing device: when Graham dies, he "often rewinds the story a bit or remarks it was not what he did"
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I]] featured random deaths from wandering enemies (dwarf, ogre, witch, wolf) and environmental hazards
+- [[1985 - King's Quest II - Romancing the Throne|King's Quest II]] displayed a personal message from Roberta and Ken Williams when the player died
+- [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] was notoriously unforgiving—even Manannan's cat "purposefully tries to trip you up, which results in you falling to your death, snickering as you fall." A single misspelling when casting spells resulted in "fatal results"
+- [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] made history as the first Sierra game with a female protagonist, and Williams noted that "having the woman die bothered me more than I expected" and that "girls die differently. The way she falls has to be different from the way a guy falls"[^ref-11]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] was criticized for pulling "nearly every dick-move from the Sierra playbook" with its frequent deaths and dead-ends
+- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] notably reduced deaths compared to previous entries, though the minotaur's labyrinth remained "particularly unforgiving"
+- [[2015 - King's Quest|King's Quest (2015)]] cleverly explained deaths through the framing device: when Graham dies, he "often rewinds the story a bit or remarks it was not what he did"
 
 **Darkest Death:**
-The [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I SCI remake]] featured a memorable cut scene where King Edward, dying, was supposed to say "I think the Magic Mirror would look best over on that wall" before pointing and expiring. Williams "gently asked" if they could change that scene, "since she didn't think King Edward would be giving interior decorating tips with his dying breath."
+The [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI remake]] featured a memorable cut scene where King Edward, dying, was supposed to say "I think the Magic Mirror would look best over on that wall" before pointing and expiring. Williams "gently asked" if they could change that scene, "since she didn't think King Edward would be giving interior decorating tips with his dying breath."
 
 ### Leisure Suit Larry: Dying for Love
 
 The Leisure Suit Larry series had a complex relationship with death—some entries embraced it, others deliberately avoided it.
 
 **Death Philosophy by Entry:**
-- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1]] featured deaths "played for comedy with characters from other Sierra games appearing in a 'resurrection' sequence"[^ref-12]
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] dramatically increased deaths—a YouTube compilation runs approximately 40 minutes, and the game "actively punishes Larry for flirting with any woman he meets, invariably leading to his violent death"
-- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] was revolutionary for removing death entirely: "you cannot die in game nor get stuck. There are always ways out of a situation." Al Lowe designed it as an "interactive cartoon"
-- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] reintroduced death "purely for comedic effect" with a "Try Again" button for instant retry
-- [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]] returned to the no-death philosophy: "players cannot die or become trapped in an unwinnable state, encouraging experimentation without fear"
+- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1]] featured deaths "played for comedy with characters from other Sierra games appearing in a 'resurrection' sequence"[^ref-12]
+- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] dramatically increased deaths—a YouTube compilation runs approximately 40 minutes, and the game "actively punishes Larry for flirting with any woman he meets, invariably leading to his violent death"
+- [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] was revolutionary for removing death entirely: "you cannot die in game nor get stuck. There are always ways out of a situation." Al Lowe designed it as an "interactive cartoon"
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] reintroduced death "purely for comedic effect" with a "Try Again" button for instant retry
+- [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]] returned to the no-death philosophy: "players cannot die or become trapped in an unwinnable state, encouraging experimentation without fear"
 
 ### Quest for Glory: Death with Honor
 
 The hybrid adventure-RPG series featured both traditional deaths and unique mechanics.
 
 **Notable Deaths:**
-- [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] added a stamina death mechanic where "running out of stamina points can kill the hero outright" (unlike the original). Players who try "picking your nose with the lockpick" as a Thief receive: "You delicately insert the lockpick into your left nostril. Unfortunately, you push it too far, causing yourself a cerebral hemorrhage"
-- [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV]] maintained humor despite darker themes through "Boris Karloff and Peter Lorre parodies"[^ref-13]
+- [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] added a stamina death mechanic where "running out of stamina points can kill the hero outright" (unlike the original). Players who try "picking your nose with the lockpick" as a Thief receive: "You delicately insert the lockpick into your left nostril. Unfortunately, you push it too far, causing yourself a cerebral hemorrhage"
+- [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] maintained humor despite darker themes through "Boris Karloff and Peter Lorre parodies"[^ref-13]
 
 ### Laura Bow: Murder Most Foul
 
 The Laura Bow mysteries featured death from both sides—investigating murders while avoiding becoming a victim.
 
-- [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] featured "numerous sudden and often unexpected demises" including "a notable Psycho-inspired shower scene"[^ref-14]
-- [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] showcased elaborate death scenes where victims met "gruesome ends connected to museum exhibits (including being devoured by Dermestid beetles)"—described as "Bruce's (slightly perverse) imagination at work"
+- [[1989 - The Colonel's Bequest|The Colonel's Bequest]] featured "numerous sudden and often unexpected demises" including "a notable Psycho-inspired shower scene"[^ref-14]
+- [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] showcased elaborate death scenes where victims met "gruesome ends connected to museum exhibits (including being devoured by Dermestid beetles)"—described as "Bruce's (slightly perverse) imagination at work"
 
 ### Other Series
 
 **Dynamix Games:**
-- [[1990 - Rise of the Dragon\|Rise of the Dragon]] featured death scenes "so well-crafted that some players 'remember trying different ways to die just to see them all'"
-- [[1996 - Rama\|Rama]] had Arthur C. Clarke appear on screen when players died to "offer philosophical commentary and hints about avoiding similar fates"
+- [[1990 - Rise of the Dragon|Rise of the Dragon]] featured death scenes "so well-crafted that some players 'remember trying different ways to die just to see them all'"
+- [[1996 - Rama|Rama]] had Arthur C. Clarke appear on screen when players died to "offer philosophical commentary and hints about avoiding similar fates"
 
 **Gabriel Knight:**
-- [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-7]
+- [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was listed as **#7** on Computer Gaming World's "15 best ways to die in computer gaming" for the scene where a zombie rips out the player's heart[^ref-7]
 
 ## The Narrator's Role
 
@@ -123,7 +123,7 @@ The same issue ranked **Space Quest IV as #1 on the "15 Funniest Games of All Ti
 
 ## The End of an Era
 
-By the mid-1990s, the adventure game landscape was changing. LucasArts famously advertised that "we don't believe you should die every two minutes for merely trying to pick up an object."[^ref-20] Sierra adapted—[[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]] made it "impossible to become permanently stuck" and [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] was "designed so that players cannot die or become stuck in an unwinnable scenario."
+By the mid-1990s, the adventure game landscape was changing. LucasArts famously advertised that "we don't believe you should die every two minutes for merely trying to pick up an object."[^ref-20] Sierra adapted—[[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] made it "impossible to become permanently stuck" and [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] was "designed so that players cannot die or become stuck in an unwinnable scenario."
 
 As Al Lowe reflected when cleaning out his Sierra office in 1999: "The adventure game business has died."[^ref-21]
 

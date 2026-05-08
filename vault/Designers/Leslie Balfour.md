@@ -14,9 +14,9 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Leslie Balfour (née Wilson) is a video game designer, writer, voice actress, and producer who made significant contributions to the adventure game genre during Sierra On-Line's golden age in the 1990s.[^ref-1] She joined Sierra full-time in 1993 after first working as a voice actress on [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], where she voiced lead character Laura Bow, the narrator, and the French femme fatale Yvette Delacroix.[^ref-2] Her versatility quickly established her as a valuable member of Sierra's creative team, contributing across multiple capacities from voice acting to documentation writing to game design.
+Leslie Balfour (née Wilson) is a video game designer, writer, voice actress, and producer who made significant contributions to the adventure game genre during Sierra On-Line's golden age in the 1990s.[^ref-1] She joined Sierra full-time in 1993 after first working as a voice actress on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], where she voiced lead character Laura Bow, the narrator, and the French femme fatale Yvette Delacroix.[^ref-2] Her versatility quickly established her as a valuable member of Sierra's creative team, contributing across multiple capacities from voice acting to documentation writing to game design.
 
-Balfour is perhaps best known for her work on the Space Quest series, where she wrote documentation for [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]], created the fictional magazine "Popular Janitronics," and served as co-designer alongside series creator Scott Murphy on the ultimately cancelled Space Quest VII project.[^ref-3] Her contributions also extended to The Royal Scribe, a comprehensive chronicle of Sierra's history and the King's Quest series, as well as work on Sierra's early online game The Realm.[^ref-4]
+Balfour is perhaps best known for her work on the Space Quest series, where she wrote documentation for [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]], created the fictional magazine "Popular Janitronics," and served as co-designer alongside series creator Scott Murphy on the ultimately cancelled Space Quest VII project.[^ref-3] Her contributions also extended to The Royal Scribe, a comprehensive chronicle of Sierra's history and the King's Quest series, as well as work on Sierra's early online game The Realm.[^ref-4]
 
 Her career at Sierra exemplified the collaborative spirit of the company during its peak years, working alongside legendary designers like Roberta Williams, Scott Murphy, Josh Mandel, and her future husband Bruce Balfour.[^ref-5] After leaving Sierra in 1998, Balfour transitioned to project management and later became a successful novelist, winning a Pacific Book Award for Best Historical Novel.[^ref-6]
 
@@ -26,7 +26,7 @@ Her career at Sierra exemplified the collaborative spirit of the company during 
 
 Leslie Wilson's path to Sierra On-Line began in an unconventional manner. According to her own humorous account from a 1997 interview, she was "working as a carney for a small circus called Wanda's Big Top and Catering" in 1993 when fate intervened—a story she enjoyed telling with characteristic wit.[^ref-3] In truth, her background included a bachelor's degree in theatre and a master's degree in business, which she used to write, produce, and direct numerous off-Broadway theatrical productions.[^ref-7]
 
-Her first Sierra work came in 1992 when she was cast as the voice of Laura Bow in [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]]. Director Bruce Balfour recalled that when casting proved difficult for three key roles—Laura Bow (Southern accent), Yvette Delacroix (French), and the narrator (upper-class British)—Wilson impressed everyone by demonstrating she could perform all three.[^ref-2] She was initially cast as Yvette, but when the production team exhausted local talent without finding suitable actors for Laura and the narrator, they asked her to take on those roles as well.[^ref-2]
+Her first Sierra work came in 1992 when she was cast as the voice of Laura Bow in [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]]. Director Bruce Balfour recalled that when casting proved difficult for three key roles—Laura Bow (Southern accent), Yvette Delacroix (French), and the narrator (upper-class British)—Wilson impressed everyone by demonstrating she could perform all three.[^ref-2] She was initially cast as Yvette, but when the production team exhausted local talent without finding suitable actors for Laura and the narrator, they asked her to take on those roles as well.[^ref-2]
 
 During the recording sessions at Sierra's studio, her performance as the seductive Yvette Delacroix became legendary. As Balfour recalled: "I was in the booth doing Yvette's lines, and Bruce would say, 'More sex.' So I kept increasing the sex... and programmers could hear, I guess, and were drawn to it. At the end of the session, there had to be five guys outside the studio trying to get a glimpse of Yvette. She did not emerge—I did. Scott Murphy of Space Quest fame was particularly disappointed."[^ref-2]
 
@@ -71,11 +71,11 @@ As of 2018, Leslie and Bruce Balfour had been married for over 23 years, a relat
 
 ### The Dagger of Amon Ra (1992)
 
-Balfour's voice acting work on [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] marked her entry into the video game industry. She performed three major roles: the Southern-accented protagonist Laura Bow, the upper-class British narrator, and the French femme fatale Yvette Delacroix.[^ref-2] The game was notable for its Egyptian archaeological setting and murder mystery plot, requiring players to solve a complex web of crimes during a night locked in a museum.
+Balfour's voice acting work on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] marked her entry into the video game industry. She performed three major roles: the Southern-accented protagonist Laura Bow, the upper-class British narrator, and the French femme fatale Yvette Delacroix.[^ref-2] The game was notable for its Egyptian archaeological setting and murder mystery plot, requiring players to solve a complex web of crimes during a night locked in a museum.
 
 ### Space Quest 6: Roger Wilco in the Spinal Frontier (1995)
 
-For [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6]], Balfour contributed documentation and created "Popular Janitronics," a fictional in-game magazine that parodied real-world publications with janitorial-themed humor.[^ref-3] This work established her creative partnership with the Space Quest team that would lead to her co-design role on the seventh installment.
+For [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], Balfour contributed documentation and created "Popular Janitronics," a fictional in-game magazine that parodied real-world publications with janitorial-themed humor.[^ref-3] This work established her creative partnership with the Space Quest team that would lead to her co-design role on the seventh installment.
 
 ### Space Quest VII: Return to Roman Numerals (Cancelled)
 
@@ -105,16 +105,14 @@ Her successful transition from game development to project management and novel 
 
 ### Sierra On-Line (1992–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Voice Actress (Laura Bow, Narrator, Yvette Delacroix) |
-| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Documentation Writer |
-| 1996 | Quest for Glory Anthology | Producer |
-| 1997 | King's Quest Collection Series | Writer (The Royal Scribe) |
-| 1997 | Space Quest Collection Series | Writer/Director ("Making of Space Quest" Video) |
-| 1997 | [[1996 - The Realm Online\|The Realm]] | Writer |
-| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Manual Proofreader |
-| — | [[CXL - Space Quest VII - Return to Roman Numerals\|Space Quest VII: Return to Roman Numerals]] | Co-Designer (Cancelled) |
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice Actress (Laura Bow, Narrator, Yvette Delacroix)
+- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Documentation Writer
+- 1996 — Quest for Glory Anthology — Producer
+- 1997 — King's Quest Collection Series — Writer (The Royal Scribe)
+- 1997 — Space Quest Collection Series — Writer/Director ("Making of Space Quest" Video)
+- **1997** — [[1996 - The Realm Online|The Realm]] — Role: Writer
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Manual Proofreader
+- **—** — [[CXL - Space Quest VII - Return to Roman Numerals|Space Quest VII: Return to Roman Numerals]] — Role: Co-Designer (Cancelled)
 
 ## References
 

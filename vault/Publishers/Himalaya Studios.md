@@ -13,9 +13,9 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Himalaya Studios is an independent game development and publishing studio founded in 2004 by Britney Brimhall and Christopher Warren—the same founders behind [[Publishers/AGD Interactive\|AGD Interactive]]. While AGD Interactive focuses on free Sierra remakes, Himalaya Studios develops and publishes original commercial adventure games in the classic Sierra style.
+Himalaya Studios is an independent game development and publishing studio founded in 2004 by Britney Brimhall and Christopher Warren—the same founders behind [[Publishers/AGD Interactive|AGD Interactive]]. While AGD Interactive focuses on free Sierra remakes, Himalaya Studios develops and publishes original commercial adventure games in the classic Sierra style.
 
-For detailed information about the studio's history, notable games, and key people, see [[Developers/Himalaya Studios\|Himalaya Studios (Developer)]].
+For detailed information about the studio's history, notable games, and key people, see [[Developers/Himalaya Studios|Himalaya Studios (Developer)]].
 
 ## Publishing History
 
@@ -23,15 +23,13 @@ The studio self-publishes their games through digital distribution platforms. Th
 
 ## Games Published
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Western comedy adventure |
-| 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | Fantasy adventure-RPG hybrid |
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Notes: Western comedy adventure
+- **2019** — [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]] — Notes: Fantasy adventure-RPG hybrid
 
 ## Related
 
-- **Developer Page:** [[Developers/Himalaya Studios\|Himalaya Studios]]
-- **Related Company:** [[Publishers/AGD Interactive\|AGD Interactive]] (freeware remakes by same founders)
+- **Developer Page:** [[Developers/Himalaya Studios|Himalaya Studios]]
+- **Related Company:** [[Publishers/AGD Interactive|AGD Interactive]] (freeware remakes by same founders)
 
 ## References
 

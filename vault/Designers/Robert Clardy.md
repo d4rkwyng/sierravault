@@ -131,35 +131,33 @@ In 2017, Clardy published his autobiography, "Cyber Jack: The Adventures of Robe
 
 ### Other Synergistic Software Games (1981–1997)
 
-| Year | Title | Publisher | Role/Notes |
-|------|-------|-----------|------------|
-| 1981 | Escape from Arcturus | Synergistic Software | Developer |
-| 1982 | Bolo | Synergistic Software | Developer |
-| 1982 | Crisis Mountain | Synergistic Software | Developer |
-| 1982 | Probe One: The Transmitter | Synergistic Software | Developer |
-| 1983 | Microbe | Synergistic Software | Developer |
-| 1984 | Pitstop II | Epyx | Atari 8-bit port |
-| 1986 | The Fool's Errand | Miles Computing | MS-DOS port |
-| 1987 | [[1985 - Thexder\|Thexder]] | Sierra On-Line | MS-DOS port |
-| 1988 | Rockford | Arcadia | Developer |
-| 1988 | SideWinder | Arcadia | Developer |
-| 1988 | [[1988 - Silpheed\|Silpheed]] | Sierra On-Line | MS-DOS & Apple IIGS ports |
-| 1989 | The Third Courier | Accolade | Developer |
-| 1990 | Low Blow | Accolade | Developer |
-| 1990 | NY Warriors | Virgin Games | Developer |
-| 1992 | LA Law: The Computer Game | Capstone Software | Developer |
-| 1993 | The Beverly Hillbillies | Capstone Software | Director |
-| 1993 | Homey D. Clown | Capstone Software | Developer |
-| 1993 | Super Battleship | Mindscape | Developer |
-| 1994 | Spectre | Velocity | Developer |
-| 1995 | Carrier Aces | Cybersoft | Developer |
-| 1995 | [[1995 - Air Cavalry\|Air Cavalry]] | Cybersoft | Developer |
-| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Sierra On-Line | Developer |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Sierra On-Line | Developer |
-| 1996 | Triple Play 97 | EA Sports | Developer |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Sierra On-Line | Developer |
-| 1997 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Sierra On-Line | Director |
-| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Sierra On-Line | Executive Producer |
+- 1981 — Escape from Arcturus — Synergistic Software — Developer
+- 1982 — Bolo — Synergistic Software — Developer
+- 1982 — Crisis Mountain — Synergistic Software — Developer
+- 1982 — Probe One: The Transmitter — Synergistic Software — Developer
+- 1983 — Microbe — Synergistic Software — Developer
+- 1984 — Pitstop II — Epyx — Atari 8-bit port
+- 1986 — The Fool's Errand — Miles Computing — MS-DOS port
+- **1987** — [[1985 - Thexder|Thexder]] — Publisher: Sierra On-Line, Role/Notes: MS-DOS port
+- 1988 — Rockford — Arcadia — Developer
+- 1988 — SideWinder — Arcadia — Developer
+- **1988** — [[1988 - Silpheed|Silpheed]] — Publisher: Sierra On-Line, Role/Notes: MS-DOS & Apple IIGS ports
+- 1989 — The Third Courier — Accolade — Developer
+- 1990 — Low Blow — Accolade — Developer
+- 1990 — NY Warriors — Virgin Games — Developer
+- 1992 — LA Law: The Computer Game — Capstone Software — Developer
+- 1993 — The Beverly Hillbillies — Capstone Software — Director
+- 1993 — Homey D. Clown — Capstone Software — Developer
+- 1993 — Super Battleship — Mindscape — Developer
+- 1994 — Spectre — Velocity — Developer
+- 1995 — Carrier Aces — Cybersoft — Developer
+- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Publisher: Cybersoft, Role/Notes: Developer
+- **1995** — [[1995 - Thexder 95|Thexder 95]] — Publisher: Sierra On-Line, Role/Notes: Developer
+- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Publisher: Sierra On-Line, Role/Notes: Developer
+- 1996 — Triple Play 97 — EA Sports — Developer
+- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Publisher: Sierra On-Line, Role/Notes: Developer
+- **1997** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Publisher: Sierra On-Line, Role/Notes: Director
+- **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Publisher: Sierra On-Line, Role/Notes: Executive Producer
 
 ## References
 

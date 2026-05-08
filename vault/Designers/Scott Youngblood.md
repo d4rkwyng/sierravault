@@ -87,20 +87,18 @@ The technical innovations required to support Tribes' large-scale battles and co
 
 ### Dynamix Era (1992–2001)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Quality Assurance |
-| 1992 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Tester |
-| 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Various |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Various |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Various |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Various |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Various |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Various |
-| 1997 | [[1997 - Front Page Sports - Ski Racing\|Front Page Sports: Ski Racing]] | Designer |
-| 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | Lead Designer |
-| 1999 | [[1999 - Front Page Sports - Ski Racing 99\|Front Page Sports: Ski Racing 99]] | Designer |
-| 2001 | [[2001 - Tribes 2\|Tribes 2]] | Lead Designer |
+- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Quality Assurance
+- **1992** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Tester
+- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Various
+- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Various
+- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] — Role: Various
+- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Various
+- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Various
+- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Role: Various
+- **1997** — [[1997 - Front Page Sports - Ski Racing|Front Page Sports: Ski Racing]] — Role: Designer
+- **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Role: Lead Designer
+- **1999** — [[1999 - Front Page Sports - Ski Racing 99|Front Page Sports: Ski Racing 99]] — Role: Designer
+- **2001** — [[2001 - Tribes 2|Tribes 2]] — Role: Lead Designer
 
 ### Post-Sierra (2001–2022)
 

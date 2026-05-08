@@ -22,10 +22,8 @@ What distinguished Laura Bow from other Sierra adventures was its revolutionary 
 
 ## Series Timeline
 
-| Year | Title | Engine | Setting |
-|------|-------|--------|---------|
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | SCI0 | Louisiana plantation |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | SCI1.1 | New York museum |
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Engine: SCI0, Setting: Louisiana plantation
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Engine: SCI1.1, Setting: New York museum
 
 ## Roberta Williams' Vision
 
@@ -141,8 +139,8 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - **Internet Archive** - Preservation copies available
 
 ### Recommended Play Order
-1. [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] - Introduces Laura and real-time mechanics
-2. [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] - Evolved gameplay with point-and-click interface
+1. [[1989 - The Colonel's Bequest|The Colonel's Bequest]] - Introduces Laura and real-time mechanics
+2. [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] - Evolved gameplay with point-and-click interface
 
 ### Tips for New Players
 - **Save frequently** - Events can be missed permanently
@@ -155,7 +153,7 @@ Despite positive reception, the series ended after two entries as Sierra shifted
 - [[Roberta Williams]] - Series creator
 - [[King's Quest Series]] - Williams' flagship fantasy series
 - [[Gabriel Knight Series]] - Another Sierra mystery franchise
-- [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] - Williams' first mystery game
+- [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] - Williams' first mystery game
 ## References
 
 [^ref-1]: [Grok Encyclopedia - The Colonel's Bequest](https://grokipedia.com/page/The_Colonel%27s_Bequest) – Mystery House connection

@@ -118,16 +118,16 @@ Latest releases, updates, and announcements for Sierra games and fan projects.
 > | Project | Creator | Status |
 > |---------|---------|--------|
 > | [[2026 - Gobliins 6|Gobliins 6]] | Pierre Gilhodes | ✅ **Released!** ([itch.io](https://pierre-gilhodes.itch.io/gobliins6) now, [Steam](https://store.steampowered.com/app/4293620/GOBLiiNS6/) Feb 13) |
-> | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4]] | Jane Jensen | ⏳ Awaiting MS approval |
+> | [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4]] | Jane Jensen | ⏳ Awaiting MS approval |
 > | Hero-U Sequel | Corey & Lori Cole | 💰 Seeking funding |
 
 > [!abstract] Fan Projects
 > | Project | Team | Status |
 > |---------|------|--------|
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake]] | Infamous Adventures | 🔨 Active development |
-> | [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording |
-> | [[TBD - Order of the Thorne - Fortress of Fire\|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
-> | [[2025 - SCP Sierra Conversion Project\|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
+> | [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake]] | Infamous Adventures | 🔨 Active development |
+> | [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] | Infamous Quests | 🎙️ Voice recording |
+> | [[TBD - Order of the Thorne - Fortress of Fire|Fortress of Fire]] | Infamous Quests | ⏸️ On hold (~75%) |
+> | [[2025 - SCP Sierra Conversion Project|SCP Conquests of Longbow]] | DaRaSCo/kikems | 🚧 90% complete |
 
 ---
 

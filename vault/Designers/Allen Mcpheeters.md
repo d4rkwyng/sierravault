@@ -35,7 +35,7 @@ Cook and McPheeters created the Front Page Sports series, beginning with Footbal
 
 McPheeters served as lead designer on Front Page Sports: Baseball '94, applying the same attention to statistical depth and strategic complexity that made the football games successful.[^ref-6] As he later explained: "My name is Allen McPheeters. I am the producer for Sierra Sports: Baseball PRO 2000 (BB2K). I was the lead designer for Front Page Sports: Baseball '94, and I worked with Patrick Cook on the design for the original Front Page Sports: Football."[^ref-7]
 
-In summer 1995, McPheeters accepted an offer from Viacom New Media, spending six months at the Chicago-based development house, though no products came of his time there.[^ref-1] The following February, he returned to work with Cook at Dynamix on [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]], a real-time strategy game.[^ref-1] His meticulous approach to documentation is evident in surviving development files: "NOTE: IMPORTANT!!! PLEASE NOTIFY ALLEN MCPHEETERS OF ANY CHANGES TO THIS FILE."[^ref-8]
+In summer 1995, McPheeters accepted an offer from Viacom New Media, spending six months at the Chicago-based development house, though no products came of his time there.[^ref-1] The following February, he returned to work with Cook at Dynamix on [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], a real-time strategy game.[^ref-1] His meticulous approach to documentation is evident in surviving development files: "NOTE: IMPORTANT!!! PLEASE NOTIFY ALLEN MCPHEETERS OF ANY CHANGES TO THIS FILE."[^ref-8]
 
 After Outpost 2 shipped, McPheeters worked on help file localization for Front Page Sports: Ski Racing and Red Baron 2 before transferring to Sierra's Renton, Washington-based Synergistic Software in February 1998.[^ref-1] At Synergistic, he sadly oversaw the cancellation of a revamped Baseball Pro edition (the product line had been renamed Sierra Sports) and watched helplessly as Football Pro '99 shipped and was almost immediately recalled due to bugs.[^ref-1] Most of the Synergistic staff, including McPheeters, was laid off in February 1999.[^ref-1]
 
@@ -53,11 +53,11 @@ McPheeters returned to games briefly in March 2004 when Canadian developer Exile
 
 ### Front Page Sports: Baseball '94 (1994)
 
-As lead designer on [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]], McPheeters created what many consider one of the most sophisticated baseball simulations of its era.[^ref-6] The game built upon the statistical depth and strategic complexity that had made the Front Page Sports football games so successful, applying these principles to America's pastime with remarkable results.[^ref-2] McPheeters' design philosophy emphasized authentic gameplay that respected both the statistical nature of baseball and the strategic decisions that make the sport compelling to watch and play.
+As lead designer on [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]], McPheeters created what many consider one of the most sophisticated baseball simulations of its era.[^ref-6] The game built upon the statistical depth and strategic complexity that had made the Front Page Sports football games so successful, applying these principles to America's pastime with remarkable results.[^ref-2] McPheeters' design philosophy emphasized authentic gameplay that respected both the statistical nature of baseball and the strategic decisions that make the sport compelling to watch and play.
 
 ### Outpost 2: Divided Destiny (1997)
 
-McPheeters' work on [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] marked a significant departure from his sports game expertise, taking on designer and documentation roles for this real-time strategy game set on a colonized planet.[^ref-6] The game required players to manage resources, develop technology trees, and balance competing factions in a complex political and environmental situation.[^ref-8] His contribution to the game's documentation and tech tree systems demonstrated his ability to create intricate, interconnected game systems that reward long-term strategic thinking.
+McPheeters' work on [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] marked a significant departure from his sports game expertise, taking on designer and documentation roles for this real-time strategy game set on a colonized planet.[^ref-6] The game required players to manage resources, develop technology trees, and balance competing factions in a complex political and environmental situation.[^ref-8] His contribution to the game's documentation and tech tree systems demonstrated his ability to create intricate, interconnected game systems that reward long-term strategic thinking.
 
 ### Microsoft Baseball 2001 (2000)
 
@@ -98,19 +98,17 @@ Beyond his game industry contributions, McPheeters' later involvement in civic e
 
 ### Sierra/Dynamix Era (1991–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports: Football]] | Assistant Director |
-| 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | Special Thanks To |
-| 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Previous Work Credit |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design/Testing |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Lead Designer |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Previous Work Credit |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Previous Additional Work |
-| 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Designer/Documentation |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Previous Additional Work |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Previous Work Credit |
-| 1998 | Driver's Education '98 | Special Thanks |
+- **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Role: Assistant Director
+- **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Special Thanks To
+- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Previous Work Credit
+- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Additional Design/Testing
+- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Lead Designer
+- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] — Role: Previous Work Credit
+- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Previous Additional Work
+- **1997** — [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] — Role: Designer/Documentation
+- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Role: Previous Additional Work
+- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Previous Work Credit
+- 1998 — Driver's Education '98 — Special Thanks
 
 ### Post-Sierra (1999–2004)
 

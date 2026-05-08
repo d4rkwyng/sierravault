@@ -13,9 +13,9 @@ last_updated: "2026-02-13"
 
 ## Overview
 
-Douglas Herring is a self-taught artist and game industry veteran whose career spans from the golden age of Sierra On-Line adventure games to major franchises at Microsoft Game Studios.[^ref-1] Beginning as a freelance illustrator, Herring joined Sierra in 1988 and quickly established himself as one of the company's most versatile artists, serving as the lead artist and sole animator on [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] before going on to direct [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] and serve as Team Leader and final Art Director on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]]—the best-selling adventure game of all time at the time of its release.[^ref-2]
+Douglas Herring is a self-taught artist and game industry veteran whose career spans from the golden age of Sierra On-Line adventure games to major franchises at Microsoft Game Studios.[^ref-1] Beginning as a freelance illustrator, Herring joined Sierra in 1988 and quickly established himself as one of the company's most versatile artists, serving as the lead artist and sole animator on [[1989 - The Colonel's Bequest|The Colonel's Bequest]] before going on to direct [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] and serve as Team Leader and final Art Director on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]—the best-selling adventure game of all time at the time of its release.[^ref-2]
 
-A lifelong lover of science fiction and fantasy, Herring brought his passion for fantastic genres to every project he touched.[^ref-1] His work at Sierra helped define the visual style of the company's transition from EGA to VGA graphics, and his contributions to games like [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]] and [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] demonstrated his range from character animation to combat system design.[^ref-2] After leaving Sierra in 1991, Herring continued working in the games industry for over two decades, most notably spending eight years at Microsoft Game Studios as Art Director on franchises including Age of Empires, Close Combat, and Fable.[^ref-3]
+A lifelong lover of science fiction and fantasy, Herring brought his passion for fantastic genres to every project he touched.[^ref-1] His work at Sierra helped define the visual style of the company's transition from EGA to VGA graphics, and his contributions to games like [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] and [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] demonstrated his range from character animation to combat system design.[^ref-2] After leaving Sierra in 1991, Herring continued working in the games industry for over two decades, most notably spending eight years at Microsoft Game Studios as Art Director on franchises including Age of Empires, Close Combat, and Fable.[^ref-3]
 
 ## Career
 
@@ -29,15 +29,15 @@ Herring's transition to video games came through his first computer, an Atari ST
 
 ### Sierra Years (1988–1991)
 
-Herring joined Sierra On-Line in June 1988, just as the company had moved into its large new metal building that consolidated all aspects of their operations.[^ref-1] The timing was fortuitous—Sierra was growing rapidly along with the computer game market, and there was tremendous pressure to remain the industry leader.[^ref-1] His first major assignment was leading the art team on a murder mystery game designed by Roberta Williams, which would become [[1989 - The Colonel's Bequest\|The Colonel's Bequest]].[^ref-3]
+Herring joined Sierra On-Line in June 1988, just as the company had moved into its large new metal building that consolidated all aspects of their operations.[^ref-1] The timing was fortuitous—Sierra was growing rapidly along with the computer game market, and there was tremendous pressure to remain the industry leader.[^ref-1] His first major assignment was leading the art team on a murder mystery game designed by Roberta Williams, which would become [[1989 - The Colonel's Bequest|The Colonel's Bequest]].[^ref-3]
 
 On The Colonel's Bequest, Herring served as Art Designer, lead artist, and sole animator—an enormous undertaking that required him to bring the entire visual world of the Dijon plantation to life.[^ref-2][^ref-11] Working alongside fellow artist Gerald Moore, Herring helped create one of Sierra's most atmospheric and character-driven adventure games.[^ref-4] The game's emphasis on character observation and investigation over traditional puzzle-solving required detailed character animations that could convey personality and suspicion, a challenge Herring met with his background in illustration and storytelling.[^ref-5]
 
-Following The Colonel's Bequest, Herring continued as animation lead on [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], where he also served as in-house Art Designer and designed the endgame combat system.[^ref-2][^ref-10][^ref-15] His work on [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] saw him designing the art for the desert sections and creating the game's combat system—demonstrating his versatility beyond pure artistic work.[^ref-2]
+Following The Colonel's Bequest, Herring continued as animation lead on [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]], where he also served as in-house Art Designer and designed the endgame combat system.[^ref-2][^ref-10][^ref-15] His work on [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] saw him designing the art for the desert sections and creating the game's combat system—demonstrating his versatility beyond pure artistic work.[^ref-2]
 
-The pinnacle of Herring's Sierra career came with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season. Herring served as Team Leader and final Art Director on what would become the best-selling adventure game of all time and Sierra's first major VGA game.[^ref-2][^ref-8][^ref-12] The transition to VGA's 256-color palette represented a massive leap in visual fidelity, and Herring's leadership helped ensure the game set new standards for adventure game graphics.[^ref-2][^ref-8]
+The pinnacle of Herring's Sierra career came with [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]], released for the 1990 holiday season. Herring served as Team Leader and final Art Director on what would become the best-selling adventure game of all time and Sierra's first major VGA game.[^ref-2][^ref-8][^ref-12] The transition to VGA's 256-color palette represented a massive leap in visual fidelity, and Herring's leadership helped ensure the game set new standards for adventure game graphics.[^ref-2][^ref-8]
 
-His final major project at Sierra was as Director on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]], a remake of the original 1986 game.[^ref-9][^ref-13] Herring has described this as his favorite Sierra project, calling it "a great honor to be allowed to re-draw and add to" the work of original designers Mark Crowe and Scott Murphy.[^ref-1] In addition to directing, he served as Art Designer, painter, and animator on the remake.[^ref-2][^ref-13] He also contributed to [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain\|The Castle of Dr. Brain]] as Art Designer and animator, and provided preliminary storyboards for [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] and [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] before leaving the company in October 1991.[^ref-2]
+His final major project at Sierra was as Director on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]], a remake of the original 1986 game.[^ref-9][^ref-13] Herring has described this as his favorite Sierra project, calling it "a great honor to be allowed to re-draw and add to" the work of original designers Mark Crowe and Scott Murphy.[^ref-1] In addition to directing, he served as Art Designer, painter, and animator on the remake.[^ref-2][^ref-13] He also contributed to [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] and [[1991 - Castle of Dr. Brain|The Castle of Dr. Brain]] as Art Designer and animator, and provided preliminary storyboards for [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] and [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] before leaving the company in October 1991.[^ref-2]
 
 ### Freelance Period (1991–1995)
 
@@ -65,25 +65,25 @@ Herring has been candid about the challenges of game development at large corpor
 
 ### Post-Microsoft Career
 
-After leaving Microsoft in October 2004, Herring continued his artistic pursuits, including his passion for fantasy helmet creation, photography, and other creative projects.[^ref-1] In 2018, he contributed to [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]], developed by Corey and Lori Cole—his former colleagues from the Quest for Glory series at Sierra.[^ref-6][^ref-14]
+After leaving Microsoft in October 2004, Herring continued his artistic pursuits, including his passion for fantasy helmet creation, photography, and other creative projects.[^ref-1] In 2018, he contributed to [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]], developed by Corey and Lori Cole—his former colleagues from the Quest for Glory series at Sierra.[^ref-6][^ref-14]
 
 ## Notable Works
 
 ### The Colonel's Bequest (1989)
 
-As Art Designer, lead artist, and sole animator on [[1989 - The Colonel's Bequest\|The Colonel's Bequest]], Herring faced the challenge of creating a visually compelling murder mystery that emphasized character over puzzles.[^ref-2] Working from Roberta Williams's design, he brought the decaying Dijon plantation and its suspicious inhabitants to life through detailed character portraits and atmospheric backgrounds.[^ref-4] Contemporary sources praised the artists for investing "much more personality into its characters than Roberta herself," highlighting Herring and Gerald Moore's contribution to the game's lasting appeal.[^ref-7]
+As Art Designer, lead artist, and sole animator on [[1989 - The Colonel's Bequest|The Colonel's Bequest]], Herring faced the challenge of creating a visually compelling murder mystery that emphasized character over puzzles.[^ref-2] Working from Roberta Williams's design, he brought the decaying Dijon plantation and its suspicious inhabitants to life through detailed character portraits and atmospheric backgrounds.[^ref-4] Contemporary sources praised the artists for investing "much more personality into its characters than Roberta herself," highlighting Herring and Gerald Moore's contribution to the game's lasting appeal.[^ref-7]
 
 ### King's Quest V (1990)
 
-Herring's role as Team Leader and final Art Director on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] placed him at the helm of Sierra's most ambitious visual project to date.[^ref-2] The game marked Sierra's transition to VGA graphics, and its success—becoming the best-selling adventure game of all time—validated the company's investment in higher-fidelity visuals.[^ref-2] Released for the 1990 holiday season, King's Quest V set new standards for adventure game presentation and demonstrated that computer games could offer visual experiences competitive with other entertainment media.[^ref-2]
+Herring's role as Team Leader and final Art Director on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] placed him at the helm of Sierra's most ambitious visual project to date.[^ref-2] The game marked Sierra's transition to VGA graphics, and its success—becoming the best-selling adventure game of all time—validated the company's investment in higher-fidelity visuals.[^ref-2] Released for the 1990 holiday season, King's Quest V set new standards for adventure game presentation and demonstrated that computer games could offer visual experiences competitive with other entertainment media.[^ref-2]
 
 ### Space Quest I VGA (1991)
 
-Herring has identified [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] as his favorite Sierra project, describing it as "a great honor to be allowed to re-draw and add to" the work of Mark Crowe and Scott Murphy.[^ref-1] As Director, Art Designer, painter, and animator, he led the effort to bring the classic 1986 game into the VGA era while respecting the original's humor and charm.[^ref-2] The project represented his final major contribution to Sierra before departing in October 1991.[^ref-2]
+Herring has identified [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] as his favorite Sierra project, describing it as "a great honor to be allowed to re-draw and add to" the work of Mark Crowe and Scott Murphy.[^ref-1] As Director, Art Designer, painter, and animator, he led the effort to bring the classic 1986 game into the VGA era while respecting the original's humor and charm.[^ref-2] The project represented his final major contribution to Sierra before departing in October 1991.[^ref-2]
 
 ### Conquests of Camelot (1989)
 
-On [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]], Herring served as in-house Art Designer and lead animator while also designing the endgame combat system.[^ref-2] This dual role demonstrated his ability to contribute to both visual and gameplay design, a versatility that would serve him throughout his career.[^ref-3]
+On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]], Herring served as in-house Art Designer and lead animator while also designing the endgame combat system.[^ref-2] This dual role demonstrated his ability to contribute to both visual and gameplay design, a versatility that would serve him throughout his career.[^ref-3]
 
 ## Design Philosophy
 
@@ -107,40 +107,36 @@ Herring's work continues to resonate with fans of classic adventure games. The a
 
 ### Sierra On-Line (1988–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry II: Looking for Love (in Several Wrong Places)]] | Artist (15% of pictures/animation) |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Art Designer, Lead Artist, Sole Animator |
-| 1989 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Art Designer, Lead Animator, Combat System Designer |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Art Designer (Desert Section), Combat System Designer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | Team Leader, Art Director |
-| 1990 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Art Designer, Animator |
-| 1991 | [[1991 - Castle of Dr. Brain\|The Castle of Dr. Brain]] | Art Designer, Lead Animator |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Preliminary Storyboards |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Director, Art Designer, Painter, Animator |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Preliminary Storyboards |
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II: Looking for Love (in Several Wrong Places)]] — Role: Artist (15% of pictures/animation)
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Art Designer, Lead Artist, Sole Animator
+- **1989** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Art Designer, Lead Animator, Combat System Designer
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Art Designer (Desert Section), Combat System Designer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Team Leader, Art Director
+- **1990** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Art Designer, Animator
+- **1991** — [[1991 - Castle of Dr. Brain|The Castle of Dr. Brain]] — Role: Art Designer, Lead Animator
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Preliminary Storyboards
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Director, Art Designer, Painter, Animator
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Preliminary Storyboards
 
 ### Post-Sierra (1991–2018)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Games | Game Designer, Art Designer |
-| 1993 | Star Trek: Deep Space Nine - The Hunt | Tachyon Games | Art Director (unreleased) |
-| 1994 | Spider-Man vs. Kingpin (Sega CD) | Monkey Business | Art Director, Co-Designer |
-| 1995 | Shannara | Legend Entertainment | Art Director |
-| 1996 | Close Combat | Microsoft/Atomic Games | Content Lead |
-| 1997 | Age of Empires | Microsoft/Ensemble Studios | Art Director, Content Lead |
-| 1997 | Close Combat II: A Bridge Too Far | Microsoft/Atomic Games | Content Lead, Video Producer |
-| 1998 | Close Combat III: The Russian Front | Microsoft/Atomic Games | Content Lead, Video Producer |
-| 1999 | Age of Empires II: The Age of Kings | Microsoft/Ensemble Studios | Art Director |
-| 1999 | MechWarrior 4: Vengeance | Microsoft/FASA | Art Director |
-| 1999 | Microsoft Pandora's Box | Microsoft | Art Director |
-| 2000 | Age of Empires II: The Conquerors | Microsoft/Ensemble Studios | Art Director |
-| 2001 | MechCommander 2 | Microsoft/FASA | Art Director |
-| 2002 | Blinx: The Time Sweeper | Microsoft | Art Director (External) |
-| 2003 | Rise of Nations | Microsoft/Big Huge Games | Art Director (External) |
-| 2004 | Fable | Microsoft/Lionhead Studios | Art Director (External) |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Contributor |
+- 1992 — Ringworld: Revenge of the Patriarch — Tsunami Games — Game Designer, Art Designer
+- 1993 — Star Trek: Deep Space Nine - The Hunt — Tachyon Games — Art Director (unreleased)
+- 1994 — Spider-Man vs. Kingpin (Sega CD) — Monkey Business — Art Director, Co-Designer
+- 1995 — Shannara — Legend Entertainment — Art Director
+- 1996 — Close Combat — Microsoft/Atomic Games — Content Lead
+- 1997 — Age of Empires — Microsoft/Ensemble Studios — Art Director, Content Lead
+- 1997 — Close Combat II: A Bridge Too Far — Microsoft/Atomic Games — Content Lead, Video Producer
+- 1998 — Close Combat III: The Russian Front — Microsoft/Atomic Games — Content Lead, Video Producer
+- 1999 — Age of Empires II: The Age of Kings — Microsoft/Ensemble Studios — Art Director
+- 1999 — MechWarrior 4: Vengeance — Microsoft/FASA — Art Director
+- 1999 — Microsoft Pandora's Box — Microsoft — Art Director
+- 2000 — Age of Empires II: The Conquerors — Microsoft/Ensemble Studios — Art Director
+- 2001 — MechCommander 2 — Microsoft/FASA — Art Director
+- 2002 — Blinx: The Time Sweeper — Microsoft — Art Director (External)
+- 2003 — Rise of Nations — Microsoft/Big Huge Games — Art Director (External)
+- 2004 — Fable — Microsoft/Lionhead Studios — Art Director (External)
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Contributor
 
 ## References
 

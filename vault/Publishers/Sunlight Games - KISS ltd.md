@@ -22,15 +22,13 @@ Sunlight Games has released both a remaster of the original game and a full sequ
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2014 | [[2014 - Gold Rush Anniversary\|Gold Rush! Anniversary]] | HD remaster of 1988 original |
-| 2017 | [[2017 - Gold Rush 2\|Gold Rush! 2]] | New sequel |
+- **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]] — Notes: HD remaster of 1988 original
+- **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] — Notes: New sequel
 
 ## Related
 
-- **Original Series:** [[1988 - Gold Rush\|Gold Rush! (1988)]]
-- **Original Publisher:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Original Series:** [[1988 - Gold Rush|Gold Rush! (1988)]]
+- **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 - **Original Developer:** The Software Farm
 
 ## References

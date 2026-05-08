@@ -13,7 +13,7 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Transolar Games is an independent game development and publishing company founded by [[Designers/Corey Cole\|Corey Cole]] and [[Designers/Lori Ann Cole\|Lori Ann Cole]], the legendary Sierra designers responsible for the *Quest for Glory* series. The company was established to develop and publish new adventure-RPG games in the spirit of their classic Sierra work.
+Transolar Games is an independent game development and publishing company founded by [[Designers/Corey Cole|Corey Cole]] and [[Designers/Lori Ann Cole|Lori Ann Cole]], the legendary Sierra designers responsible for the *Quest for Glory* series. The company was established to develop and publish new adventure-RPG games in the spirit of their classic Sierra work.
 
 ## Sierra Connection
 
@@ -23,20 +23,18 @@ The company successfully Kickstarter-funded *Hero-U: Rogue to Redemption* in 201
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Kickstarter-funded spiritual successor to Quest for Glory |
-| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Visual novel set in Hero-U universe |
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Notes: Kickstarter-funded spiritual successor to Quest for Glory
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Notes: Visual novel set in Hero-U universe
 
 ## Key People
 
-- **[[Designers/Corey Cole\|Corey Cole]]** - Co-founder, Lead Designer/Programmer
-- **[[Designers/Lori Ann Cole\|Lori Ann Cole]]** - Co-founder, Lead Designer/Writer
+- **[[Designers/Corey Cole|Corey Cole]]** - Co-founder, Lead Designer/Programmer
+- **[[Designers/Lori Ann Cole|Lori Ann Cole]]** - Co-founder, Lead Designer/Writer
 
 ## Related
 
-- **Original Series:** [[Series/Quest for Glory Series\|Quest for Glory Series]]
-- **Designers:** [[Designers/Corey Cole\|Corey Cole]], [[Designers/Lori Ann Cole\|Lori Ann Cole]]
+- **Original Series:** [[Series/Quest for Glory Series|Quest for Glory Series]]
+- **Designers:** [[Designers/Corey Cole|Corey Cole]], [[Designers/Lori Ann Cole|Lori Ann Cole]]
 
 ## References
 

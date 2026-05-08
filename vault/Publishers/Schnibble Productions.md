@@ -12,26 +12,24 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Schnibble Productions is a French video game company responsible for continuing the Gobliiins series created by [[Designers/Pierre Gilhodes\|Pierre Gilhodes]] at [[Developers/Coktel Vision\|Coktel Vision]]. The company has developed and published modern entries in the classic puzzle-adventure franchise.
+Schnibble Productions is a French video game company responsible for continuing the Gobliiins series created by [[Designers/Pierre Gilhodes|Pierre Gilhodes]] at [[Developers/Coktel Vision|Coktel Vision]]. The company has developed and published modern entries in the classic puzzle-adventure franchise.
 
 ## Sierra Connection
 
-Schnibble Productions continues the legacy of the Gobliiins series, which was originally created by [[Developers/Coktel Vision\|Coktel Vision]] and published by Sierra On-Line during the 1990s. The original four Gobliiins games (1991-1996) were developed at Coktel Vision under Sierra's ownership.
+Schnibble Productions continues the legacy of the Gobliiins series, which was originally created by [[Developers/Coktel Vision|Coktel Vision]] and published by Sierra On-Line during the 1990s. The original four Gobliiins games (1991-1996) were developed at Coktel Vision under Sierra's ownership.
 
 The company name "Schnibble" references *The Bizarre Adventures of Woodruff and the Schnibble of Azimuth* (1995), another Coktel Vision adventure game published by Sierra, demonstrating the connection to Coktel's creative legacy.
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5: The Morgloton Invasion]] | First new entry since 1996 |
-| 2026 | [[2026 - Gobliins 6\|Gobliins 6]] | In development |
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Notes: First new entry since 1996
+- **2026** — [[2026 - Gobliins 6|Gobliins 6]] — Notes: In development
 
 ## Related
 
-- **Original Developer:** [[Developers/Coktel Vision\|Coktel Vision]]
-- **Series Creator:** [[Designers/Pierre Gilhodes\|Pierre Gilhodes]]
-- **Original Publisher:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Original Developer:** [[Developers/Coktel Vision|Coktel Vision]]
+- **Series Creator:** [[Designers/Pierre Gilhodes|Pierre Gilhodes]]
+- **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 

@@ -35,15 +35,15 @@ Hero's Quest's success was immediate and overwhelming, selling over 100,000 copi
 
 The success of the first game led to an entire series, with Cole serving as lead programmer and technical designer on Quest for Glory II: Trial by Fire (1990), Quest for Glory III: Wages of War (1992), and Quest for Glory IV: Shadows of Darkness (1993).[^ref-9][^ref-10] Each game expanded upon the innovative mechanics of the original while exploring different cultural settings and storytelling approaches. Cole's collaboration with voice actor John Rhys-Davies on Quest for Glory IV was particularly memorable: "Incidentally, working with John was incredible. We handed him about three times as many lines as he thought he was going to perform, and he stepped right up to the task. I would love to work with him again."[^ref-11]
 
-During his Sierra years, Cole also contributed to other notable projects beyond the Quest for Glory series. He worked on [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] (1991), helping to create Sierra's educational gaming division, and contributed to [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] (1990).[^ref-12][^ref-13] His technical expertise and innovative approach to game mechanics made him a valuable contributor across multiple Sierra franchises.
+During his Sierra years, Cole also contributed to other notable projects beyond the Quest for Glory series. He worked on [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] (1991), helping to create Sierra's educational gaming division, and contributed to [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] (1990).[^ref-12][^ref-13] His technical expertise and innovative approach to game mechanics made him a valuable contributor across multiple Sierra franchises.
 
 ### Later Career
 
-Included in Sierra's major 1994 layoff, the Coles formed FAR Productions and created [[1995 - Shannara\|Shannara]] for Legend Entertainment while fans organized a mail campaign to convince Sierra to make Quest for Glory V with its creators.[^ref-14][^ref-15] While Lori was rehired as an employee, Corey felt Sierra was not fully committed to the new game, so he spent the following year working for a company near San Francisco before returning to Sierra in 1997.[^ref-3]
+Included in Sierra's major 1994 layoff, the Coles formed FAR Productions and created [[1995 - Shannara|Shannara]] for Legend Entertainment while fans organized a mail campaign to convince Sierra to make Quest for Glory V with its creators.[^ref-14][^ref-15] While Lori was rehired as an employee, Corey felt Sierra was not fully committed to the new game, so he spent the following year working for a company near San Francisco before returning to Sierra in 1997.[^ref-3]
 
-When he finally returned as an employee for Sierra Entertainment in 1997, Cole joined the development team for [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] (1998) as a programmer and system software engineer.[^ref-16] Because he joined late in the game's creation, his contributions were limited compared to earlier entries. His final role at Sierra was as a programmer on [[2000 - Hoyle Casino\|Hoyle Casino]] (2000).[^ref-6][^ref-3]
+When he finally returned as an employee for Sierra Entertainment in 1997, Cole joined the development team for [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] (1998) as a programmer and system software engineer.[^ref-16] Because he joined late in the game's creation, his contributions were limited compared to earlier entries. His final role at Sierra was as a programmer on [[2000 - Hoyle Casino|Hoyle Casino]] (2000).[^ref-6][^ref-3]
 
-After leaving Sierra, Cole and his wife Lori founded Transolar Games, eventually developing [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] (2018) through a successful crowdfunding campaign.[^ref-17][^ref-10] This spiritual successor to Quest for Glory demonstrated that their innovative design philosophy remained relevant in the modern gaming landscape. Most recently, they've expanded into mobile gaming with [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] (2023), which Cole describes as "a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-18][^ref-10]
+After leaving Sierra, Cole and his wife Lori founded Transolar Games, eventually developing [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] (2018) through a successful crowdfunding campaign.[^ref-17][^ref-10] This spiritual successor to Quest for Glory demonstrated that their innovative design philosophy remained relevant in the modern gaming landscape. Most recently, they've expanded into mobile gaming with [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] (2023), which Cole describes as "a new direction for us. We've crystallized the story and characters into a fast-paced illustrated adventure that can be played anywhere."[^ref-18][^ref-10]
 
 ## Notable Works
 
@@ -55,11 +55,11 @@ The series' success stemmed from Cole's understanding that "early computers didn
 
 ### Castle of Dr. Brain (1991)
 
-[[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] represented Cole's venture into educational gaming, combining his technical programming skills with engaging puzzle design.[^ref-7][^ref-12] As designer, director, and programmer, Cole created what would become the first game in Sierra's Dr. Brain series. The series is notable for being Sierra's only property licensed for use on television, with the Children's Television Workshop licensing it for their programming on December 9, 1993.[^ref-3][^ref-18] However, Cole had little involvement with the sequels—as he later explained, Sierra designed them with a new junior writer because they didn't want to pay the Coles' royalties or a reasonable flat payment, something he was unhappy about at the time.[^ref-3]
+[[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] represented Cole's venture into educational gaming, combining his technical programming skills with engaging puzzle design.[^ref-7][^ref-12] As designer, director, and programmer, Cole created what would become the first game in Sierra's Dr. Brain series. The series is notable for being Sierra's only property licensed for use on television, with the Children's Television Workshop licensing it for their programming on December 9, 1993.[^ref-3][^ref-18] However, Cole had little involvement with the sequels—as he later explained, Sierra designed them with a new junior writer because they didn't want to pay the Coles' royalties or a reasonable flat payment, something he was unhappy about at the time.[^ref-3]
 
 ### Hero-U: Rogue to Redemption (2018)
 
-After decades away from independent game development, Cole and his wife returned to their roots with [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]], successfully funded through Kickstarter.[^ref-10][^ref-17] This spiritual successor to Quest for Glory proved that their design philosophy remained relevant in the modern gaming era, incorporating contemporary graphics and interface improvements while maintaining the deep character progression and storytelling elements that made the original series beloved.[^ref-15]
+After decades away from independent game development, Cole and his wife returned to their roots with [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]], successfully funded through Kickstarter.[^ref-10][^ref-17] This spiritual successor to Quest for Glory proved that their design philosophy remained relevant in the modern gaming era, incorporating contemporary graphics and interface improvements while maintaining the deep character progression and storytelling elements that made the original series beloved.[^ref-15]
 
 ## Design Philosophy
 
@@ -75,7 +75,7 @@ His technical background also influenced his design decisions, particularly rega
 
 Corey Cole's impact on the video game industry extends far beyond the commercial success of his titles.[^ref-18][^ref-1] His creation of the adventure-RPG hybrid genre influenced countless subsequent games and established design principles that remain relevant today. The "practice makes perfect" skill system introduced in Quest for Glory has been adapted and refined by numerous RPG developers, while his approach to balancing narrative structure with character customization continues to inspire modern game designers.[^ref-2][^ref-3]
 
-The Quest for Glory series' declaration as "Adventure Game of the Year" by Computer Gaming World represents just one of many accolades recognizing Cole's contributions to interactive entertainment.[^ref-4][^ref-6] More importantly, the series' enduring popularity and active fan community, including fan-made remakes like the [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] (2008), demonstrate the lasting appeal of Cole's design philosophy.[^ref-5][^ref-7]
+The Quest for Glory series' declaration as "Adventure Game of the Year" by Computer Gaming World represents just one of many accolades recognizing Cole's contributions to interactive entertainment.[^ref-4][^ref-6] More importantly, the series' enduring popularity and active fan community, including fan-made remakes like the [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] (2008), demonstrate the lasting appeal of Cole's design philosophy.[^ref-5][^ref-7]
 
 Cole's influence extends beyond his own games through his mentorship of other developers and his ongoing engagement with the gaming community.[^ref-8][^ref-17] His willingness to discuss design decisions, technical challenges, and creative processes through interviews and fan interactions has provided valuable insights for aspiring game developers.[^ref-9] The successful crowdfunding of Hero-U: Rogue to Redemption proved that there remains significant interest in Cole's approach to game design, even decades after his initial innovations.[^ref-10]
 
@@ -85,30 +85,26 @@ His work at Sierra On-Line during the company's golden age also contributed to e
 
 ### Sierra On-Line (1989–2000)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Lead Programmer, Co-Designer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Development System Programming |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Co-Designer, Lead Programmer |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Designer, Director, Programmer |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Lead Programmer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Actor (Psychologist Sidney Aimes) |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero VGA]] | Co-Designer |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Co-Designer, Technical Documentation, Voice Actor |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer, Co-Director, Co-Writer |
-| 1995 | [[1995 - Shannara\|Shannara]] | Co-Designer, Programmer |
-| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Photo Model |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | RPG System Engineer, System Software Engineer |
-| 2000 | [[2000 - Hoyle Casino\|Hoyle Casino]] | Programmer |
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Role: Lead Programmer, Co-Designer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System Programming
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Co-Designer, Lead Programmer
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Designer, Director, Programmer
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Lead Programmer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Actor (Psychologist Sidney Aimes)
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero VGA]] — Role: Co-Designer
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Co-Designer, Technical Documentation, Voice Actor
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Co-Writer
+- **1995** — [[1995 - Shannara|Shannara]] — Role: Co-Designer, Programmer
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Photo Model
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: RPG System Engineer, System Software Engineer
+- **2000** — [[2000 - Hoyle Casino|Hoyle Casino]] — Role: Programmer
 
 ### Post-Sierra (2008–Present)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | AGD Interactive | Consultant |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Creator, Co-Designer, Co-Writer, Programmer, Project Lead |
-| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Co-Designer |
-| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Co-Founder, Co-Designer |
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Company: AGD Interactive, Role: Consultant
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Co-Creator, Co-Designer, Co-Writer, Programmer, Project Lead
+- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Co-Designer
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Company: Transolar Games, Role: Co-Founder, Co-Designer
 
 ## References
 

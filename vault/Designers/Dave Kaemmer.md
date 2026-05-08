@@ -73,18 +73,16 @@ Professional drivers and racing industry figures have consistently praised Kaemm
 
 ### Papyrus Design Group / Sierra On-Line (1989–2003)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | Indianapolis 500: The Simulation | Designer/Programmer |
-| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Designer/Programmer |
-| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Designer/Programmer |
-| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Designer/Programmer |
-| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Designer/Programmer |
-| 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Designer/Programmer |
-| 1998 | [[1998 - Grand Prix Legends\|Grand Prix Legends]] | Designer/Programmer |
-| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Designer/Programmer |
-| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Designer/Programmer |
-| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Designer/Programmer |
+- 1989 — Indianapolis 500: The Simulation — Designer/Programmer
+- **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Role: Designer/Programmer
+- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Role: Designer/Programmer
+- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Role: Designer/Programmer
+- **1996** — [[1996 - NASCAR Racing 2|NASCAR Racing 2]] — Role: Designer/Programmer
+- **1997** — [[1997 - NASCAR Racing 2 - Grand National Series Expansion|NASCAR Racing 2: Grand National Series Expansion]] — Role: Designer/Programmer
+- **1998** — [[1998 - Grand Prix Legends|Grand Prix Legends]] — Role: Designer/Programmer
+- **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Role: Designer/Programmer
+- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Role: Designer/Programmer
+- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Role: Designer/Programmer
 
 ### iRacing (2008–Present)
 

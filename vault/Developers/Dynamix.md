@@ -64,44 +64,42 @@ The studio's commitment to technical excellence and willingness to experiment wi
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Action/Adventure |
-| 1986 | Arcticfox | Vehicle Simulation |
-| 1987 | Skyfox II: The Cygnus Conflict | Space Combat |
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Flight Simulation |
-| 1989 | Caveman Ugh-lympics | Sports/Comedy |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Action/Adventure |
-| 1989 | Deathtrack | Racing/Combat |
-| 1989 | Project Firestart | Action/Horror |
-| 1990 | F-14 Tomcat | Flight Simulation |
-| 1990 | [[1990 - Red Baron\|Red Baron]] | Flight Simulation |
-| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Adventure |
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Tank Combat |
-| 1991 | [[1991 - Heart of China\|Heart of China]] | Adventure |
-| 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] | Tank Combat |
-| 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Adventure |
-| 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports Football 92]] | Sports |
-| 1992 | [[1992 - Johnny Castaway\|Johnny Castaway]] | Screen Saver |
-| 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Puzzle |
-| 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Flight Simulation |
-| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | RPG |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Adventure |
-| 1994 | [[1994 - Aces of the Deep\|Aces of the Deep]] | Submarine Simulation |
-| 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Mech Combat |
-| 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Puzzle |
-| 1995 | [[1995 - 3-D Ultra Pinball\|3-D Ultra Pinball]] | Pinball |
-| 1995 | [[1995 - Trophy Bass\|Trophy Bass]] | Sports/Fishing |
-| 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Mech Combat |
-| 1996 | [[1996 - Hunter Hunted\|Hunter Hunted]] | Action |
-| 1996 | [[1996 - MissionForce - Cyberstorm\|MissionForce: Cyberstorm]] | Turn-Based Strategy |
-| 1996 | [[1996 - Rama\|Rama]] | Adventure |
-| 1997 | [[1997 - Red Baron II\|Red Baron II]] | Flight Simulation |
-| 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Real-Time Strategy |
-| 1998 | [[1998 - Starsiege - Tribes\|Starsiege: Tribes]] | First-Person Shooter |
-| 1998 | [[1998 - Red Baron 3D\|Red Baron 3D]] | Flight Simulation |
-| 1999 | [[1999 - Starsiege\|Starsiege]] | Mech Combat |
-| 2001 | [[2001 - Tribes 2\|Tribes 2]] | First-Person Shooter |
+- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Genre: Action/Adventure
+- 1986 — Arcticfox — Vehicle Simulation
+- 1987 — Skyfox II: The Cygnus Conflict — Space Combat
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Genre: Flight Simulation
+- 1989 — Caveman Ugh-lympics — Sports/Comedy
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Genre: Action/Adventure
+- 1989 — Deathtrack — Racing/Combat
+- 1989 — Project Firestart — Action/Horror
+- 1990 — F-14 Tomcat — Flight Simulation
+- **1990** — [[1990 - Red Baron|Red Baron]] — Genre: Flight Simulation
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Genre: Adventure
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Genre: Tank Combat
+- **1991** — [[1991 - Heart of China|Heart of China]] — Genre: Adventure
+- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Genre: Tank Combat
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Genre: Adventure
+- **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports Football 92]] — Genre: Sports
+- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Genre: Screen Saver
+- **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Genre: Puzzle
+- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Genre: Flight Simulation
+- **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Genre: RPG
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Genre: Adventure
+- **1994** — [[1994 - Aces of the Deep|Aces of the Deep]] — Genre: Submarine Simulation
+- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] — Genre: Mech Combat
+- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Genre: Puzzle
+- **1995** — [[1995 - 3-D Ultra Pinball|3-D Ultra Pinball]] — Genre: Pinball
+- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Genre: Sports/Fishing
+- **1996** — [[1996 - Earthsiege 2|Earthsiege 2]] — Genre: Mech Combat
+- **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Genre: Action
+- **1996** — [[1996 - MissionForce - Cyberstorm|MissionForce: Cyberstorm]] — Genre: Turn-Based Strategy
+- **1996** — [[1996 - Rama|Rama]] — Genre: Adventure
+- **1997** — [[1997 - Red Baron II|Red Baron II]] — Genre: Flight Simulation
+- **1997** — [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] — Genre: Real-Time Strategy
+- **1998** — [[1998 - Starsiege - Tribes|Starsiege: Tribes]] — Genre: First-Person Shooter
+- **1998** — [[1998 - Red Baron 3D|Red Baron 3D]] — Genre: Flight Simulation
+- **1999** — [[1999 - Starsiege|Starsiege]] — Genre: Mech Combat
+- **2001** — [[2001 - Tribes 2|Tribes 2]] — Genre: First-Person Shooter
 
 ## References
 

@@ -22,16 +22,14 @@ The new Larry games maintain the series' trademark humor while updating the game
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Series |
-|------|------|--------|
-| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] | Leisure Suit Larry |
-| 2020 | [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice\|Leisure Suit Larry: Wet Dreams Dry Twice]] | Leisure Suit Larry |
+- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Series: Leisure Suit Larry
+- **2020** — [[2020 - Leisure Suit Larry - Wet Dreams Dry Twice|Leisure Suit Larry: Wet Dreams Dry Twice]] — Series: Leisure Suit Larry
 
 ## Related
 
 - **Developer:** CrazyBunch
-- **Original Series Creator:** [[Designers/Al Lowe\|Al Lowe]]
-- **Original Publisher:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Original Series Creator:** [[Designers/Al Lowe|Al Lowe]]
+- **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 

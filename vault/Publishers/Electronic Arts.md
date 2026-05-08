@@ -34,8 +34,8 @@ Electronic Arts published several games developed by studios that would later be
 
 ## Related
 
-- **Developer (later Sierra):** [[Developers/Dynamix\|Dynamix]]
-- **Developer (later Sierra):** [[Developers/Papyrus Design Group\|Papyrus Design Group]]
+- **Developer (later Sierra):** [[Developers/Dynamix|Dynamix]]
+- **Developer (later Sierra):** [[Developers/Papyrus Design Group|Papyrus Design Group]]
 
 ## References
 

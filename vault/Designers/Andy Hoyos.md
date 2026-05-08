@@ -29,13 +29,13 @@ During the late 1980s, Hoyos worked in television animation, contributing to ani
 
 In 1989, Hoyos's interest in computer animation led him to accept a position at Sierra On-Line.[^ref-3] He was initially hired as a 2D computer animator, but his artistic abilities quickly led to advancement. According to his MobyGames profile, he began art directing many games, establishing himself as one of Sierra's premier visual artists.[^ref-2]
 
-Hoyos's earliest Sierra credits included contributing as an illustrator to [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] (1990), where he worked alongside Douglas Herring and other artists to bring Christy Marx's vision of Arthurian legend to life.[^ref-9] His work on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) demonstrated his ability to create lush, painterly backgrounds that brought the fairy tale world to life.[^ref-5] The VGA Gallery has highlighted his King's Quest V artwork as among "the most indelible images seared upon my mind from gaming of yesteryear."[^ref-6]
+Hoyos's earliest Sierra credits included contributing as an illustrator to [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] (1990), where he worked alongside Douglas Herring and other artists to bring Christy Marx's vision of Arthurian legend to life.[^ref-9] His work on [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) demonstrated his ability to create lush, painterly backgrounds that brought the fairy tale world to life.[^ref-5] The VGA Gallery has highlighted his King's Quest V artwork as among "the most indelible images seared upon my mind from gaming of yesteryear."[^ref-6]
 
-In 1991, Hoyos contributed as a background artist to [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]], the remake of the classic 1986 adventure game, working alongside Douglas Herring, Jay Allan Friedmann, and other artists to reimagine the sci-fi comedy in 256-color VGA.[^ref-9] That same year, he contributed to [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] as an artist and worked on [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] as Art Director.
+In 1991, Hoyos contributed as a background artist to [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], the remake of the classic 1986 adventure game, working alongside Douglas Herring, Jay Allan Friedmann, and other artists to reimagine the sci-fi comedy in 256-color VGA.[^ref-9] That same year, he contributed to [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] as an artist and worked on [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] as Art Director.
 
-For the Phantasmagoria series, Hoyos took on expanded responsibilities. On the original [[1995 - Phantasmagoria\|Phantasmagoria]] (1995), he served as art director, responsible for rendering the actual backdrops filmed against blue screen.[^ref-7] He also collaborated closely with Roberta Williams on story development, spending six months preparing the subject matter by studying horror in both literary and cinematic forms.[^ref-8] On [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria 2: A Puzzle of Flesh]] (1996), Hoyos directed the live-action sequences, demonstrating his growth from artist to filmmaker.[^ref-4]
+For the Phantasmagoria series, Hoyos took on expanded responsibilities. On the original [[1995 - Phantasmagoria|Phantasmagoria]] (1995), he served as art director, responsible for rendering the actual backdrops filmed against blue screen.[^ref-7] He also collaborated closely with Roberta Williams on story development, spending six months preparing the subject matter by studying horror in both literary and cinematic forms.[^ref-8] On [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2: A Puzzle of Flesh]] (1996), Hoyos directed the live-action sequences, demonstrating his growth from artist to filmmaker.[^ref-4]
 
-His other Sierra art direction credits include [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] (1992), [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] (1993), and [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] (1994).[^ref-2]
+His other Sierra art direction credits include [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] (1992), [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] (1993), and [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] (1994).[^ref-2]
 
 ### Post-Sierra Career (1996–Present)
 
@@ -43,7 +43,7 @@ After departing Sierra in 1996, Hoyos continued working in game development for 
 
 Hoyos joined Monolith Productions as Art Director and 3D artist for *The Matrix Online* (2005), the massively multiplayer online game based on the Matrix film franchise developed in collaboration with Warner Bros. Interactive Entertainment.[^ref-2][^ref-2] This role marked his transition from 2D adventure game art to 3D MMORPG environments, requiring adaptation to new tools and team structures.
 
-His later work includes art direction for [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] (2014), a point-and-click adventure game designed by Jane Jensen and developed by MADKEV Studio/Pinkerton Road.[^ref-9] This project represented a return to the classic adventure game genre where Hoyos had built his reputation, demonstrating the continued relevance of his artistic skills in modern game development.
+His later work includes art direction for [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (2014), a point-and-click adventure game designed by Jane Jensen and developed by MADKEV Studio/Pinkerton Road.[^ref-9] This project represented a return to the classic adventure game genre where Hoyos had built his reputation, demonstrating the continued relevance of his artistic skills in modern game development.
 
 Since leaving commercial art design, Hoyos has focused on personal artistic expression, creating traditional acrylic paintings, digitally painted works, and mixed-media sculptures he describes as "tabletop sanctuaries."[^ref-3] Born in Los Angeles, he currently resides in Indio, California.[^ref-3]
 
@@ -51,27 +51,27 @@ Since leaving commercial art design, Hoyos has focused on personal artistic expr
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] marked Hoyos's first major Sierra project and established his reputation as a master illustrator.[^ref-5] His work on environments like the Witch's Forest demonstrated his ability to create atmospheric, visually rich scenes that enhanced the game's fairy tale narrative. The VGA Gallery featured his original sketch of the Witch's House, noting that 25 years later he revisited and expanded upon this early work.[^ref-6]
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] marked Hoyos's first major Sierra project and established his reputation as a master illustrator.[^ref-5] His work on environments like the Witch's Forest demonstrated his ability to create atmospheric, visually rich scenes that enhanced the game's fairy tale narrative. The VGA Gallery featured his original sketch of the Witch's House, noting that 25 years later he revisited and expanded upon this early work.[^ref-6]
 
 ### Conquests of Camelot: The Search for the Grail (1990)
 
-Hoyos contributed as an illustrator to [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]], working alongside Douglas Herring, Peter Ledger, Kenn Nishiuye, and Jennifer Shontz to create the game's distinctive medieval visual style.[^ref-9] This early credit demonstrated his versatility in adapting to different artistic directions and historical settings.
+Hoyos contributed as an illustrator to [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], working alongside Douglas Herring, Peter Ledger, Kenn Nishiuye, and Jennifer Shontz to create the game's distinctive medieval visual style.[^ref-9] This early credit demonstrated his versatility in adapting to different artistic directions and historical settings.
 
 ### Space Quest I VGA (1991)
 
-As a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]], Hoyos contributed to reimagining the classic 1986 adventure game in 256-color VGA graphics deliberately styled after 1950s B-movies.[^ref-9] The project, directed by Douglas Herring, required artists to balance nostalgia for the original game with the visual possibilities of the new SCI engine.
+As a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]], Hoyos contributed to reimagining the classic 1986 adventure game in 256-color VGA graphics deliberately styled after 1950s B-movies.[^ref-9] The project, directed by Douglas Herring, required artists to balance nostalgia for the original game with the visual possibilities of the new SCI engine.
 
 ### Quest for Glory III: Wages of War (1992)
 
-[[1992 - Quest for Glory III - Wages of War\|Quest for Glory III]] showcased Hoyos's versatility, as he art directed an African-inspired fantasy setting markedly different from the European fairy tale aesthetics of King's Quest.[^ref-2] The game's distinctive visual style helped distinguish it from other entries in the Quest for Glory series.
+[[1992 - Quest for Glory III - Wages of War|Quest for Glory III]] showcased Hoyos's versatility, as he art directed an African-inspired fantasy setting markedly different from the European fairy tale aesthetics of King's Quest.[^ref-2] The game's distinctive visual style helped distinguish it from other entries in the Quest for Glory series.
 
 ### Phantasmagoria (1995)
 
-[[1995 - Phantasmagoria\|Phantasmagoria]] represented one of Hoyos's most significant contributions to Sierra, as he served as art director for the company's ambitious horror adventure.[^ref-7] Working closely with Roberta Williams, Hoyos helped develop the visual approach that combined live-action video with rendered backgrounds. The game's dark, gothic aesthetic required careful balance between realistic horror elements and the limitations of CD-ROM technology.
+[[1995 - Phantasmagoria|Phantasmagoria]] represented one of Hoyos's most significant contributions to Sierra, as he served as art director for the company's ambitious horror adventure.[^ref-7] Working closely with Roberta Williams, Hoyos helped develop the visual approach that combined live-action video with rendered backgrounds. The game's dark, gothic aesthetic required careful balance between realistic horror elements and the limitations of CD-ROM technology.
 
 ### Phantasmagoria 2: A Puzzle of Flesh (1996)
 
-[[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria 2]] saw Hoyos expand his role from art director to director of the live-action sequences.[^ref-4] Written by Lorelei Shannon and filmed by cinematographer Matthew Jensen, the game's video elements required coordinating cast and crew in a manner more typical of film production than game development. This experience demonstrated Hoyos's ability to translate his visual sensibilities into directing live performers.
+[[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2]] saw Hoyos expand his role from art director to director of the live-action sequences.[^ref-4] Written by Lorelei Shannon and filmed by cinematographer Matthew Jensen, the game's video elements required coordinating cast and crew in a manner more typical of film production than game development. This experience demonstrated Hoyos's ability to translate his visual sensibilities into directing live performers.
 
 ### The Matrix Online (2005)
 
@@ -100,25 +100,21 @@ His continued work in game development after Sierra, including The Matrix Online
 
 ### Sierra On-Line (1989–1996)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Illustrator |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Artist |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Artist |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Background Artist |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Art Director |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Art Director |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Art Director |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Art Director |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Art Director, Story |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria 2: A Puzzle of Flesh]] | Director |
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Illustrator
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Artist
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Artist
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Background Artist
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Art Director
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Art Director
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Role: Art Director
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Art Director
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Art Director, Story
+- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria 2: A Puzzle of Flesh]] — Role: Director
 
 ### Post-Sierra (1996–Present)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2005 | The Matrix Online | Monolith Productions | Art Director, 3D Artist |
-| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | MADKEV Studio | Art Director |
+- 2005 — The Matrix Online — Monolith Productions — Art Director, 3D Artist
+- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Company: MADKEV Studio, Role: Art Director
 
 ## References
 

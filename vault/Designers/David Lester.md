@@ -83,35 +83,31 @@ Lester's post-Impressions work at Firefly Studios continued his legacy in strate
 
 ### Impressions Games Era (1991–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1991 | [[1991 - Merchant Colony\|Merchant Colony]] | Designer |
-| 1992 | [[1992 - Discovery - In the Steps of Columbus\|Discovery: In the Steps of Columbus]] | Producer |
-| 1992 | [[1992 - Air Force Commander\|Air Force Commander]] | Producer |
-| 1992 | [[1992 - Caesar\|Caesar]] | Designer |
-| 1993 | [[1993 - Global Domination\|Global Domination]] | Designer |
-| 1993 | [[1993 - WW2 Air Force Commander\|WW2 Air Force Commander]] | Producer |
-| 1994 | [[1994 - Detroit\|Detroit]] | Designer |
-| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Designer |
-| 1995 | [[1995 - Caesar II\|Caesar II]] | Designer |
-| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Producer |
-| 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Designer |
-| 1995 | [[1995 - Powerhouse\|Powerhouse]] | Producer |
-| 1995 | [[1995 - Ultimate Soccer Manager\|Ultimate Soccer Manager]] | Designer |
+- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Designer
+- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Producer
+- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Role: Producer
+- **1992** — [[1992 - Caesar|Caesar]] — Role: Designer
+- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Designer
+- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Role: Producer
+- **1994** — [[1994 - Detroit|Detroit]] — Role: Designer
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Designer
+- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Designer
+- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Producer
+- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Designer
+- **1995** — [[1995 - Powerhouse|Powerhouse]] — Role: Producer
+- **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Role: Designer
 
 ### Sierra/Impressions Era (1996–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1996 | [[1996 - Casino Deluxe 2\|Casino Deluxe 2]] | Producer |
-| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Producer |
-| 1996 | [[1996 - Space Bucks\|Space Bucks]] | Producer |
-| 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Designer |
-| 1996 | [[1996 - Ultimate Soccer Manager 2\|Ultimate Soccer Manager 2]] | Producer |
-| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Producer |
-| 1998 | [[1998 - Caesar III\|Caesar III]] | Designer |
-| 1998 | [[1998 - Ultimate Soccer Manager 98\|Ultimate Soccer Manager 98]] | Producer |
-| 1999 | [[1999 - Ultimate Soccer Manager 98-99\|Ultimate Soccer Manager 98-99]] | Producer |
+- **1996** — [[1996 - Casino Deluxe 2|Casino Deluxe 2]] — Role: Producer
+- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Producer
+- **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Producer
+- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Designer
+- **1996** — [[1996 - Ultimate Soccer Manager 2|Ultimate Soccer Manager 2]] — Role: Producer
+- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Producer
+- **1998** — [[1998 - Caesar III|Caesar III]] — Role: Designer
+- **1998** — [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]] — Role: Producer
+- **1999** — [[1999 - Ultimate Soccer Manager 98-99|Ultimate Soccer Manager 98-99]] — Role: Producer
 
 ## References
 

@@ -23,13 +23,11 @@ Distinguished by exceptional voice acting, meticulous research into real-world m
 
 ## Series Timeline
 
-| Year | Title | Engine | Setting |
-|------|-------|--------|---------|
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | SCI1.1 | New Orleans voodoo |
-| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | FMV | Bavaria werewolves |
-| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | 3D | France, Holy Grail |
-| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Unity | HD remake |
-| TBD | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | TBD | Salzburg, Austria (Unreleased) |
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Engine: SCI1.1, Setting: New Orleans voodoo
+- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Engine: FMV, Setting: Bavaria werewolves
+- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Engine: 3D, Setting: France, Holy Grail
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Engine: Unity, Setting: HD remake
+- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Engine: TBD, Setting: Salzburg, Austria (Unreleased)
 
 ## Jane Jensen's Vision
 
@@ -151,10 +149,8 @@ Jensen has been actively working on a fourth Gabriel Knight game titled "Five He
 
 ### Remakes & Upcoming
 
-| Title | Developer | Year | Notes |
-|-------|-----------|------|-------|
-| [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|GK: 20th Anniversary]] | Phoenix Online/Pinkerton Road | 2014 | HD remake |
-| [[TBD - Gabriel Knight 4 - Five Hearts\|GK4: Five Hearts]] | Jane Jensen / Pinkerton Road | TBD | Awaiting Microsoft approval |
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|GK: 20th Anniversary]] — Developer: Phoenix Online/Pinkerton Road, Notes: HD remake
+- **TBD** — [[TBD - Gabriel Knight 4 - Five Hearts|GK4: Five Hearts]] — Developer: Jane Jensen / Pinkerton Road, Notes: Awaiting Microsoft approval
 
 ### Recommended Play Order
 1. Gabriel Knight: Sins of the Fathers (original or remake)

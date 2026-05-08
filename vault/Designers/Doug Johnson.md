@@ -103,16 +103,14 @@ Johnson's recognition through various awards, including the IBM Excellence in Ma
 
 ### Dynamix (1993–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Special Thanks |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Additional Design, Testing |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Additional Design, Testing |
-| 1995 | [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96 Season]] | Lead Designer, Quality Assurance |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96 Season]] | Additional Design |
-| 1996 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '97]] | Lead Design |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Multiplayer Design |
-| 1998 | [[1998 - Red Baron 3D\|Red Baron 3-D]] | Designer |
+- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Special Thanks
+- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Additional Design, Testing
+- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Additional Design, Testing
+- **1995** — [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96 Season]] — Role: Lead Designer, Quality Assurance
+- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96 Season]] — Role: Additional Design
+- **1996** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '97]] — Role: Lead Design
+- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Multiplayer Design
+- **1998** — [[1998 - Red Baron 3D|Red Baron 3-D]] — Role: Designer
 
 ## References
 

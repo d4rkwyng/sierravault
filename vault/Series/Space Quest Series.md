@@ -22,15 +22,13 @@ Distinguished by its satirical humor, pop culture parodies, and willingness to k
 
 ## Series Timeline
 
-| Year | Title | Engine | Notes |
-|------|-------|--------|-------|
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | AGI | Series debut |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | AGI | Introduces Sludge Vohaul |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | SCI0 | Meta-humor, rescues Two Guys |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | SCI1 | VGA remake of original |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | SCI1 | Time travel storyline |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | SCI1.1 | Star Trek parody |
-| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest VI: Roger Wilco in the Spinal Frontier]] | SCI32 | Final official entry |
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Engine: AGI, Notes: Series debut
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Engine: AGI, Notes: Introduces Sludge Vohaul
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Engine: SCI0, Notes: Meta-humor, rescues Two Guys
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Engine: SCI1, Notes: VGA remake of original
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Engine: SCI1, Notes: Time travel storyline
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Engine: SCI1.1, Notes: Star Trek parody
+- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest VI: Roger Wilco in the Spinal Frontier]] — Engine: SCI32, Notes: Final official entry
 
 ## The Two Guys from Andromeda
 
@@ -116,7 +114,7 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 - **[SpaceQuest.net](https://spacequest.net/)** - Premier fan site with extensive resources[^ref-8]
 - **Virtual Broomcloset** - Fan fiction and community
 - Active speedrunning scene
-- Fan games including [[2012 - Space Quest - Incinerations\|Space Quest: Incinerations]] and [[2011 - Space Quest - Vohaul Strikes Back\|Vohaul Strikes Back]][^ref-9]
+- Fan games including [[2012 - Space Quest - Incinerations|Space Quest: Incinerations]] and [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]][^ref-9]
 
 ### Cultural Impact
 - Demonstrated viable comedy in adventure games
@@ -143,25 +141,19 @@ Mark Crowe and Scott Murphy reunited for a Kickstarter-funded spiritual successo
 
 ### Official & Fan Remakes
 
-| Title | Developer | Year | Download |
-|-------|-----------|------|----------|
-| [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Sierra On-Line | 1991 | Official remake |
-| [[2011 - Space Quest II VGA Remake\|SQ2 VGA Remake]] | Infamous Adventures | 2011 | [IA](https://www.infamous-adventures.com/sq2/) |
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Developer: Sierra On-Line, Download: Official remake
+- **2011** — [[2011 - Space Quest II VGA Remake|SQ2 VGA Remake]] — Developer: Infamous Adventures, Download: [IA](https://www.infamous-adventures.com/sq2/)
 
 ### Fan Sequels
 
-| Title | Developer | Year | Download |
-|-------|-----------|------|----------|
-| [[2001 - Space Quest - The Lost Chapter\|The Lost Chapter]] | Vonster D. Monster | 2001 | [Download](http://sq.vonster.com/) |
-| [[2003 - Space Quest 0 - Replicated\|SQ0: Replicated]] | Vonster D. Monster | 2003 | [Download](http://sq.vonster.com/) |
-| [[2011 - Space Quest - Vohaul Strikes Back\|Vohaul Strikes Back]] | Infamous Quests | 2011 | [Download](http://www.vohaulstrikesback.com/) |
-| [[2012 - Space Quest - Incinerations\|Incinerations]] | Infamous Quests | 2012 | [Download](http://sq-incinerations.com/) |
+- **2001** — [[2001 - Space Quest - The Lost Chapter|The Lost Chapter]] — Developer: Vonster D. Monster, Download: [Download](http://sq.vonster.com/)
+- **2003** — [[2003 - Space Quest 0 - Replicated|SQ0: Replicated]] — Developer: Vonster D. Monster, Download: [Download](http://sq.vonster.com/)
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Vohaul Strikes Back]] — Developer: Infamous Quests, Download: [Download](http://www.vohaulstrikesback.com/)
+- **2012** — [[2012 - Space Quest - Incinerations|Incinerations]] — Developer: Infamous Quests, Download: [Download](http://sq-incinerations.com/)
 
 ### Spiritual Successors
 
-| Title | Developer | Year | Link |
-|-------|-----------|------|------|
-| [[2022 - SpaceVenture\|SpaceVenture]] | Two Guys from Andromeda | 2022 | [SpaceVenture](https://guysfromandromeda.com/) |
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Developer: Two Guys from Andromeda, Link: [SpaceVenture](https://guysfromandromeda.com/)
 
 ## See Also
 

@@ -29,7 +29,7 @@ His artistic influences included Carl Barks' duck art, of which he described him
 
 ### Sierra Years (1990)
 
-Ledger's entry into video game development began in 1990 when he joined Sierra Entertainment, Inc. as Art Designer for [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]].[^ref-1] This role marked a significant transition from traditional illustration to interactive media, where his skills in creating immersive fantasy environments proved invaluable.[^ref-11] The game, set in Arthurian legend, allowed Ledger to utilize his expertise in fantasy illustration while adapting to the technical constraints and possibilities of early 1990s computer graphics.[^ref-11]
+Ledger's entry into video game development began in 1990 when he joined Sierra Entertainment, Inc. as Art Designer for [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]].[^ref-1] This role marked a significant transition from traditional illustration to interactive media, where his skills in creating immersive fantasy environments proved invaluable.[^ref-11] The game, set in Arthurian legend, allowed Ledger to utilize his expertise in fantasy illustration while adapting to the technical constraints and possibilities of early 1990s computer graphics.[^ref-11]
 
 His work on Conquests of Camelot established him as a valuable asset in the video game industry, leading to subsequent opportunities with other major game development companies.[^ref-12] The transition from traditional media to digital game art required Ledger to master new tools and techniques while maintaining the artistic quality that had made him successful in other fields.[^ref-16]
 
@@ -71,17 +71,13 @@ Beyond his direct contributions to specific games, Ledger's career represents an
 
 ### Sierra On-Line (1990)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Art Designer |
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Art Designer
 
 ### Post-Sierra (1992–1996)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Games | Background Artist |
-| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Games | Background Artist |
-| 1996 | Blood & Magic | TSR, Inc. | Background Illustrator (posthumous) |
+- 1992 — Ringworld: Revenge of the Patriarch — Tsunami Games — Background Artist
+- **1993** — [[1993 - Blue Force|Blue Force]] — Company: Tsunami Games, Role: Background Artist
+- 1996 — Blood & Magic — TSR, Inc. — Background Illustrator (posthumous)
 
 ### Posthumous Tributes (2021–2023)
 

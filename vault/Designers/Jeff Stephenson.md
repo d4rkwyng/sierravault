@@ -23,13 +23,13 @@ A retired programmer and software developer who worked at Sierra On-Line for ele
 
 Stephenson joined Sierra On-Line (then On-Line Systems) in 1982 as one of the company's earliest employees, experiencing the challenging years when Sierra struggled for survival.[^ref-6] His programming talents quickly proved essential to the company's operations. His first credited work was on the Hi-Res Adventure series, including *Ulysses and the Golden Fleece* (1982) and *The Wizard and the Princess* (1982).[^ref-7] He also served as a producer on the ambitious *Time Zone* (1982), Roberta Williams's massive six-disk adventure game.[^ref-7]
 
-His initial major work focused on the Adventure Game Interpreter (AGI), Sierra's first standardized game engine developed for [[1984 - King's Quest - Quest for the Crown\|King's Quest]] in 1984.[^ref-8] AGI was designed to run on IBM's PCjr, utilizing its 16-color EGA graphics capabilities to create animated adventure games with music and sound effects. Working alongside Ken Williams, Stephenson helped establish the technical framework that would launch Sierra's most successful franchises including King's Quest, Space Quest, Police Quest, and Leisure Suit Larry.[^ref-9]
+His initial major work focused on the Adventure Game Interpreter (AGI), Sierra's first standardized game engine developed for [[1984 - King's Quest - Quest for the Crown|King's Quest]] in 1984.[^ref-8] AGI was designed to run on IBM's PCjr, utilizing its 16-color EGA graphics capabilities to create animated adventure games with music and sound effects. Working alongside Ken Williams, Stephenson helped establish the technical framework that would launch Sierra's most successful franchises including King's Quest, Space Quest, Police Quest, and Leisure Suit Larry.[^ref-9]
 
 ### AGI Era (1984–1988)
 
-During the AGI years, Stephenson served as system programmer on nearly every major Sierra release. He worked on the foundational entries of Sierra's flagship franchises: [[1984 - King's Quest - Quest for the Crown\|King's Quest]] (1984), [[1985 - King's Quest II - Romancing the Throne\|King's Quest II]] (1985), [[1986 - King's Quest III - To Heir Is Human\|King's Quest III]] (1986), [[1986 - Space Quest - The Sarien Encounter\|Space Quest]] (1986), [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II]] (1987), [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest]] (1987), and [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry]] (1987).[^ref-7]
+During the AGI years, Stephenson served as system programmer on nearly every major Sierra release. He worked on the foundational entries of Sierra's flagship franchises: [[1984 - King's Quest - Quest for the Crown|King's Quest]] (1984), [[1985 - King's Quest II - Romancing the Throne|King's Quest II]] (1985), [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] (1986), [[1986 - Space Quest - The Sarien Encounter|Space Quest]] (1986), [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] (1987), [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]] (1987), and [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]] (1987).[^ref-7]
 
-He also contributed to Sierra's licensed Disney titles during this period, including [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] (1986) and [[1986 - The Black Cauldron\|The Black Cauldron]] (1986).[^ref-7] These games demonstrated AGI's versatility across different genres and audiences.
+He also contributed to Sierra's licensed Disney titles during this period, including [[1984 - Donald Duck's Playground|Donald Duck's Playground]] (1986) and [[1986 - The Black Cauldron|The Black Cauldron]] (1986).[^ref-7] These games demonstrated AGI's versatility across different genres and audiences.
 
 ### SCI Development (1987–1988)
 
@@ -43,7 +43,7 @@ As Roberta Williams explained, SCI was designed as "a virtual machine language w
 
 ### SCI Era (1988–1993)
 
-[[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] (1988) became the first game to employ the new SCI engine, demonstrating its capabilities with enhanced sound and the potential for 256-color VGA graphics.[^ref-15] The engine powered Sierra's most acclaimed titles throughout its golden age.
+[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (1988) became the first game to employ the new SCI engine, demonstrating its capabilities with enhanced sound and the potential for 256-color VGA graphics.[^ref-15] The engine powered Sierra's most acclaimed titles throughout its golden age.
 
 SCI remained in continuous development for eight years, with five major versions released between 1988 and 1996:[^ref-11]
 
@@ -105,64 +105,58 @@ His influence on game engine design, particularly his early adoption of object-o
 
 ### Pre-AGI Era (1982–1983)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1982 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Programming (IBM port) |
-| 1982 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Programming |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Production |
+- **1982** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Role: Programming (IBM port)
+- **1982** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Role: Programming
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Role: Production
 
 ### AGI Era (1984–1989)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | System Programmer, Designer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | System Programmer |
-| 1986 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | System Programmer |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | System Programmer |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | System Programmer |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | System Programmer, Designer |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | System Programmer |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | System Programmer |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | System Programmer, Designer |
-| 1988 | [[1988 - Gold Rush\|Gold Rush!]] | System Programmer |
-| 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] | System Programmer, Designer |
-| 1989 | [[1989 - Manhunter - San Francisco\|Manhunter 2: San Francisco]] | System Programmer |
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: System Programmer, Designer
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: System Programmer
+- **1986** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: System Programmer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: System Programmer
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: System Programmer
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: System Programmer, Designer
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: System Programmer
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: System Programmer
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: System Programmer, Designer
+- **1988** — [[1988 - Gold Rush|Gold Rush!]] — Role: System Programmer
+- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Role: System Programmer, Designer
+- **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] — Role: System Programmer
 
 ### SCI Era (1988–1993)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | SCI Creator, System Programmer |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry II: Looking for Love]] | System Programmer |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | System Programmer, Designer |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | System Programmer |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | System Programmer |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti]] | System Programmer |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | System Programmer |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | System Programmer |
-| 1990 | [[1990 - Codename - Iceman\|Codename: ICEMAN]] | System Programmer |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | System Programmer |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | System Programmer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | System Programmer, Designer |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI Remake)]] | System Programmer |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | System Programmer |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (SCI Remake)]] | System Programmer, Designer |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | System Programmer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | System Programmer |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | System Programmer |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | System Programmer |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | System Programmer |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 (VGA Remake)]] | System Programmer |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti]] | System Programmer |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | System Programmer, Designer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | System Programmer |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco (VGA Remake)]] | System Programmer |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | System Programmer |
-| 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow 2: The Dagger of Amon Ra]] | System Programmer |
-| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | System Programmer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | System Programmer |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | System Programmer |
-| 1993 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Picks: King Graham's Board Game Challenge]] | System Programmer |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: SCI Creator, System Programmer
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II: Looking for Love]] — Role: System Programmer
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: System Programmer, Designer
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: System Programmer
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Role: System Programmer
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti]] — Role: System Programmer
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: System Programmer
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: System Programmer
+- **1990** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: System Programmer
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: System Programmer
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Role: System Programmer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: System Programmer, Designer
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Role: System Programmer
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: System Programmer
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (SCI Remake)]] — Role: System Programmer, Designer
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: System Programmer
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: System Programmer
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: System Programmer
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Role: System Programmer
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: System Programmer
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 (VGA Remake)]] — Role: System Programmer
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti]] — Role: System Programmer
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: System Programmer, Designer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: System Programmer
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco (VGA Remake)]] — Role: System Programmer
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: System Programmer
+- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow 2: The Dagger of Amon Ra]] — Role: System Programmer
+- **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane (Enhanced CD-ROM)]] — Role: System Programmer
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: System Programmer
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: System Programmer
+- **1993** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Picks: King Graham's Board Game Challenge]] — Role: System Programmer
 
 ### Online Gaming
 

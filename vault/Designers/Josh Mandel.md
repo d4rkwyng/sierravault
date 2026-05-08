@@ -15,7 +15,7 @@ last_updated: "2026-02-12"
 
 Josh Mandel, born on October 9, 1958, in Queens, New York, is a distinguished video game designer, writer, and voice actor who made significant contributions to the adventure gaming genre during the golden age of Sierra On-Line.[^ref-1][^ref-2] With a background in theater and comedy, Mandel brought a unique perspective to game design that emphasized humor, exploration, and rewarding player curiosity. His career in gaming began in 1990 when he joined Sierra full-time, though his involvement with the company started earlier through freelance beta-testing and journalism work.[^ref-3][^ref-4]
 
-Mandel is perhaps best known for his work on the 1990 VGA remake of [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown]], where he also provided the voice of King Graham—becoming the first person to voice the character—and for designing [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]].[^ref-5][^ref-6] His design philosophy centered around what he termed "rewarding exploration," creating games that responded to player curiosity with amusing and entertaining feedback. Adventure game historians have described him as "one of the most underrated designers in genre history," recognizing his contributions to some of Sierra's most beloved titles.[^ref-7][^ref-8]
+Mandel is perhaps best known for his work on the 1990 VGA remake of [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown]], where he also provided the voice of King Graham—becoming the first person to voice the character—and for designing [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]].[^ref-5][^ref-6] His design philosophy centered around what he termed "rewarding exploration," creating games that responded to player curiosity with amusing and entertaining feedback. Adventure game historians have described him as "one of the most underrated designers in genre history," recognizing his contributions to some of Sierra's most beloved titles.[^ref-7][^ref-8]
 
 With credits on over 60 games spanning more than three decades, Mandel's career extended far beyond Sierra to include work at Legend Entertainment on Callahan's Crosstime Saloon (1997), writing for the Jagged Alliance 2 series at Sir-Tech, serving as Director of Game Design at Sega for the Dreamcast launch, and contributing to numerous indie adventure game revivals.[^ref-5][^ref-9]
 
@@ -35,19 +35,19 @@ Mandel's entry into the gaming industry came through his connection to Sierra On
 
 In April 1990, Mandel joined Sierra full-time, initially as an Assistant Producer to Guruka Singh Khalsa, who was the Producer of all Sierra games at that time.[^ref-13] His first major project was the VGA remake of King's Quest I, where he not only redesigned the game for the new SCI engine but also provided the voice of King Graham—becoming the first person to voice the iconic character. This project established his reputation within Sierra and demonstrated his ability to balance reverence for original material with modern enhancements.[^ref-23]
 
-During his Sierra years, Mandel worked on an impressive array of titles including [[1990 - Zeliard\|Zeliard]] and Fire Hawk: Thexder - The Second Contact as producer for the English versions, adapting Japanese games for Western audiences.[^ref-5] He contributed writing and voice acting to numerous projects, eager not to be "pigeonholed on just one game."[^ref-13] His approach was to ask every designer with a game in production if he could help by contributing either writing or design.
+During his Sierra years, Mandel worked on an impressive array of titles including [[1990 - Zeliard|Zeliard]] and Fire Hawk: Thexder - The Second Contact as producer for the English versions, adapting Japanese games for Western audiences.[^ref-5] He contributed writing and voice acting to numerous projects, eager not to be "pigeonholed on just one game."[^ref-13] His approach was to ask every designer with a game in production if he could help by contributing either writing or design.
 
-For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]], Scott Murphy and Mark Crowe set Mandel to writing the Bargain Bin text, the Radio Shock online catalog text, the fake Hintbook text, and look messages for many locations on Xenon, Estros, and the Galleria.[^ref-13] As he noted, "the Two Guys had such a no-holds-barred attitude, hence the fact that Sierra's lawyer would break out in an icy sweat every time he entered the SQ area."[^ref-13]
+For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], Scott Murphy and Mark Crowe set Mandel to writing the Bargain Bin text, the Radio Shock online catalog text, the fake Hintbook text, and look messages for many locations on Xenon, Estros, and the Galleria.[^ref-13] As he noted, "the Two Guys had such a no-holds-barred attitude, hence the fact that Sierra's lawyer would break out in an icy sweat every time he entered the SQ area."[^ref-13]
 
-Mandel's work during the early 1990s included major contributions to [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], where he collaborated with Bruce Balfour and Lorelei Shannon on writing and provided voices for multiple characters including Rocco the Taxi Driver, Steve Dorian, and Rex the Talking Dinosaur.[^ref-9] His comedic talents also extended to [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]], which he co-designed and co-wrote with Al Lowe, creating a comedic Western adventure that showcased his wit.[^ref-19]
+Mandel's work during the early 1990s included major contributions to [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], where he collaborated with Bruce Balfour and Lorelei Shannon on writing and provided voices for multiple characters including Rocco the Taxi Driver, Steve Dorian, and Rex the Talking Dinosaur.[^ref-9] His comedic talents also extended to [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]], which he co-designed and co-wrote with Al Lowe, creating a comedic Western adventure that showcased his wit.[^ref-19]
 
-The pinnacle of Mandel's Sierra career was designing [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6]], though this project became a source of controversy. Mandel designed the entire game, but due to internal politics and Scott Murphy's return to the project, the final product was marketed as a "Scott Murphy solo job," effectively erasing Mandel's contributions from public recognition.[^ref-6] Scott Murphy later publicly apologized, stating: "I want to publicly apologize to Josh for this. It was a difficult situation for both of us. Anyway, Josh did get screwed over and I hope he accepts my too-late apology for any part I may have played."[^ref-9]
+The pinnacle of Mandel's Sierra career was designing [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]], though this project became a source of controversy. Mandel designed the entire game, but due to internal politics and Scott Murphy's return to the project, the final product was marketed as a "Scott Murphy solo job," effectively erasing Mandel's contributions from public recognition.[^ref-6] Scott Murphy later publicly apologized, stating: "I want to publicly apologize to Josh for this. It was a difficult situation for both of us. Anyway, Josh did get screwed over and I hope he accepts my too-late apology for any part I may have played."[^ref-9]
 
 Mandel left Sierra during Space Quest 6's production, with the design essentially finished though they "couldn't agree on how to end the damn thing."[^ref-13] By then, Sierra was undergoing significant changes: lots of new managers, development being fragmented and moved to "Sierra North" in Bellevue, Washington. As Mandel reflected: "From my perspective, I came before everything changed for the worse. From the perspective of so many other people at Sierra, everything had already changed for the worse before I got there."[^ref-4]
 
 ### Post-Sierra Career (1995–Present)
 
-After leaving Sierra, Mandel joined Legend Entertainment, where he found a more congenial working environment.[^ref-13] He contributed to [[1995 - Shannara\|Shannara]] (designed by Corey and Lori Ann Cole) before designing and writing Callahan's Crosstime Saloon (1997), based on Spider Robinson's beloved science fiction stories.[^ref-35] Mandel had considered adapting the Callahan's Place books since the 1980s, and the project at Legend allowed him to fully implement his design philosophy without corporate restrictions.[^ref-35] He later described his time at Legend as "easily my most enjoyable experience as a freelancer."[^ref-4]
+After leaving Sierra, Mandel joined Legend Entertainment, where he found a more congenial working environment.[^ref-13] He contributed to [[1995 - Shannara|Shannara]] (designed by Corey and Lori Ann Cole) before designing and writing Callahan's Crosstime Saloon (1997), based on Spider Robinson's beloved science fiction stories.[^ref-35] Mandel had considered adapting the Callahan's Place books since the 1980s, and the project at Legend allowed him to fully implement his design philosophy without corporate restrictions.[^ref-35] He later described his time at Legend as "easily my most enjoyable experience as a freelancer."[^ref-4]
 
 Mandel's post-Sierra career demonstrated remarkable versatility. He worked with Broderbund on the Carmen Sandiego series, contributing additional case designs to Where in Time is Carmen Sandiego? (1997).[^ref-5] He joined Sir-Tech as a writer for the Jagged Alliance 2 (1999) series, contributing to the main game (1999) and its expansions including Unfinished Business (2000) and Wildfire (2004).[^ref-9]
 
@@ -57,9 +57,9 @@ Mandel contributed voice acting to Terminus (2000), both on-screen and voice wor
 
 In the 2000s, Mandel wrote for Hour of Victory (2007-2008), a World War II first-person shooter, demonstrating his range beyond adventure games.[^ref-5] He also worked on Insecticide (2008), a detective adventure game for Nintendo DS and Windows, handling both detective game design and script writing for the adventure segments.[^ref-46]
 
-The 2010s saw Mandel return to his adventure game roots through indie projects and remasters. From 2012 to 2013, he was employed by Replay Games, where he worked as designer, writer, and producer on [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] alongside Al Lowe, also contributing voice acting as the comedian character.[^ref-47] He served as Chief Creative Officer and Consulting Designer on [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]].[^ref-5]
+The 2010s saw Mandel return to his adventure game roots through indie projects and remasters. From 2012 to 2013, he was employed by Replay Games, where he worked as designer, writer, and producer on [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] alongside Al Lowe, also contributing voice acting as the comedian character.[^ref-47] He served as Chief Creative Officer and Consulting Designer on [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]].[^ref-5]
 
-Mandel contributed writing and lore to Ember (2016), an RPG developed by N-Fusion Interactive, and provided additional writing for The St Christopher's School Lockdown (2017).[^ref-5] He was a key writer on [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]], developed by his former Sierra colleagues Corey and Lori Cole, with the credits noting his contributions "scarcely begin to express" his work on the project.[^ref-5] Most recently, he contributed writing to [[2022 - SpaceVenture\|SpaceVenture]] and is providing voice acting for Asylum.[^ref-5][^ref-1]
+Mandel contributed writing and lore to Ember (2016), an RPG developed by N-Fusion Interactive, and provided additional writing for The St Christopher's School Lockdown (2017).[^ref-5] He was a key writer on [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]], developed by his former Sierra colleagues Corey and Lori Cole, with the credits noting his contributions "scarcely begin to express" his work on the project.[^ref-5] Most recently, he contributed writing to [[2022 - SpaceVenture|SpaceVenture]] and is providing voice acting for Asylum.[^ref-5][^ref-1]
 
 Throughout his post-Sierra career, Mandel has remained the definitive voice of King Graham, reprising the role in fan remakes including the AGD Interactive King's Quest I VGA (2001), King's Quest II+: Romancing the Stones (2002), the Infamous Adventures King's Quest III Remake (2006), and King's Quest III Redux: To Heir is Human (2011).[^ref-5]
 
@@ -67,15 +67,15 @@ Throughout his post-Sierra career, Mandel has remained the definitive voice of K
 
 ### King's Quest I: Quest for the Crown VGA Remake (1990)
 
-Mandel's work on the VGA remake of [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I]] represented a masterful balance between honoring Roberta Williams' original vision and modernizing the experience for contemporary players.[^ref-5] Taking the original parser-based adventure and converting it to Sierra's SCI engine with point-and-click interface, Mandel had to completely reconceptualize the game's puzzles and interactions while maintaining the essential story and character elements.[^ref-56] Additionally, Mandel provided the voice of King Graham, becoming the first person to voice the character and bringing him to life with his theatrical background and understanding of comedic timing.[^ref-17]
+Mandel's work on the VGA remake of [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I]] represented a masterful balance between honoring Roberta Williams' original vision and modernizing the experience for contemporary players.[^ref-5] Taking the original parser-based adventure and converting it to Sierra's SCI engine with point-and-click interface, Mandel had to completely reconceptualize the game's puzzles and interactions while maintaining the essential story and character elements.[^ref-56] Additionally, Mandel provided the voice of King Graham, becoming the first person to voice the character and bringing him to life with his theatrical background and understanding of comedic timing.[^ref-17]
 
 ### Space Quest 6: Roger Wilco in the Spinal Frontier (1995)
 
-Despite the controversy surrounding its attribution, [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6]] represents Mandel's most ambitious design work.[^ref-6] He designed the entire game from concept to completion, creating what many fans consider one of the finest entries in the Space Quest series. The game showcased Mandel's philosophy of rewarding exploration, with numerous optional interactions and humorous responses that weren't necessary for game progression but enriched the overall experience.[^ref-10] His work on memorable locations like the Turboshaft and Boot Liquors demonstrated his skill at creating environments that felt alive and responsive to player curiosity. As Mandel himself noted: "I'm a feedback junkie, as you can tell when you play the rooms I did manage to work on before leaving (like the Turboshaft, or Boot Liquors)."[^ref-9]
+Despite the controversy surrounding its attribution, [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]] represents Mandel's most ambitious design work.[^ref-6] He designed the entire game from concept to completion, creating what many fans consider one of the finest entries in the Space Quest series. The game showcased Mandel's philosophy of rewarding exploration, with numerous optional interactions and humorous responses that weren't necessary for game progression but enriched the overall experience.[^ref-10] His work on memorable locations like the Turboshaft and Boot Liquors demonstrated his skill at creating environments that felt alive and responsive to player curiosity. As Mandel himself noted: "I'm a feedback junkie, as you can tell when you play the rooms I did manage to work on before leaving (like the Turboshaft, or Boot Liquors)."[^ref-9]
 
 ### Freddy Pharkas: Frontier Pharmacist (1993)
 
-Co-designed with Al Lowe, [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] allowed Mandel to fully express his comedic sensibilities in a Western setting.[^ref-19] The game features a former gunslinger turned pharmacist and is filled with the kind of clever wordplay and absurdist humor that characterized Mandel's best work. The project demonstrated his ability to collaborate effectively with other prominent Sierra designers while maintaining a distinct comedic voice.[^ref-13]
+Co-designed with Al Lowe, [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] allowed Mandel to fully express his comedic sensibilities in a Western setting.[^ref-19] The game features a former gunslinger turned pharmacist and is filled with the kind of clever wordplay and absurdist humor that characterized Mandel's best work. The project demonstrated his ability to collaborate effectively with other prominent Sierra designers while maintaining a distinct comedic voice.[^ref-13]
 
 ### Callahan's Crosstime Saloon (1997)
 
@@ -111,61 +111,57 @@ Mandel remained optimistic about working with his former Sierra colleagues, stat
 
 ### Sierra On-Line (1990–1995)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Zeliard\|Zeliard]] | Producer (English version) |
-| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Producer |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Producer, Designer, Voice Actor (King Graham) |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Voice Actor (King Graham, Innkeeper's Pal, Harpy) |
-| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Producer, Voice Actor |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Writer, Voice Actor |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 (VGA)]] | Witty Text and Documentation |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Documentation |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest 3: The Kindred]] | Voice Actor (Leon the Coroner) |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Additional Material, Manual Contributors |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Voice Actor (Hippocrates) |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Writer, Voice Actor (Rocco, Steve Dorian, Crodfoller T. Rhubarb, Henri Le Mort, Rex) |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Voice Actor (King Graham, Shamir Shamazel) |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Voice Actor |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Concept |
-| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Voice Talent |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Co-Designer, Producer, Writer |
-| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Designer |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Contributing Writer |
-| 1995 | Mission Critical (1995) | Additional Testing |
-| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Designer, Writer |
-| 1995 | [[1995 - Shannara\|Shannara]] | Additional Writing |
+- **1990** — [[1990 - Zeliard|Zeliard]] — Role: Producer (English version)
+- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Producer
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (VGA)]] — Role: Producer, Designer, Voice Actor (King Graham)
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Voice Actor (King Graham, Innkeeper's Pal, Harpy)
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Producer, Voice Actor
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Writer, Voice Actor
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 (VGA)]] — Role: Witty Text and Documentation
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Documentation
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest 3: The Kindred]] — Role: Voice Actor (Leon the Coroner)
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Additional Material, Manual Contributors
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Voice Actor (Hippocrates)
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Writer, Voice Actor (Rocco, Steve Dorian, Crodfoller T. Rhubarb, Henri Le Mort, Rex)
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Voice Actor (King Graham, Shamir Shamazel)
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Voice Actor
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Concept
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Voice Talent
+- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Co-Designer, Producer, Writer
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Designer
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Contributing Writer
+- 1995 — Mission Critical (1995) — Additional Testing
+- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Designer, Writer
+- **1995** — [[1995 - Shannara|Shannara]] — Role: Additional Writing
 
 ### Post-Sierra (1997–2025)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1997 | Callahan's Crosstime Saloon (1997) | Legend Entertainment | Designer, Writer, Art Director |
-| 1997 | Where in Time is Carmen Sandiego? | Broderbund | Additional Case Designs |
-| 1998 | John Saul's Blackstone Chronicles | Red Orb Entertainment | Stereoscope |
-| 1998 | Sonic Adventure | Sega | Script Editor |
-| 1999 | Jagged Alliance 2 (1999) | Sir-Tech | Writer |
-| 2000 | Terminus | Vicarious Visions | Cast (Voice and Video) |
-| 2000 | The Wild Thornberrys: Rambler | THQ | Design |
-| 2000 | Jagged Alliance 2: Unfinished Business | Sir-Tech | Writer |
-| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake (AGD)]] | AGD Interactive | Voice Actor (King Graham) |
-| 2001 | Blue's Clues: Blue's Alphabet Book | THQ | Design |
-| 2002 | [[2002 - King's Quest II+ - Romancing the Stones\|King's Quest II+: Romancing the Stones]] | AGD Interactive | Voice Actor (King Graham) |
-| 2002 | Hungry Red Planet | Independent | Consultant |
-| 2004 | Jagged Alliance 2: Wildfire | Strategy First | Writer |
-| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake (Infamous Adventures)]] | Infamous Adventures | Voice Actor (King Graham) |
-| 2007 | Hour of Victory | Midway Games | Writer |
-| 2008 | Insecticide | Crackpot Entertainment | Detective Game Design, Script |
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (King Graham) |
-| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Replay Games | Chief Creative Officer, Consulting Designer |
-| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Replay Games | Designer, Writer, Producer, Voice Actor |
-| 2014 | Serena | Senscape | Voice Actor (Protagonist) |
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | SpaceVenture | Voice Actor (Radio Singer) |
-| 2016 | Ember | N-Fusion Interactive | Writing and Lore |
-| 2017 | The St Christopher's School Lockdown | Kindled Games | Additional Writing |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Writer |
-| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Two Guys from Andromeda | Writer |
-| 2025 | Asylum | Senscape | Voice Actor (Main Character) |
+- 1997 — Callahan's Crosstime Saloon (1997) — Legend Entertainment — Designer, Writer, Art Director
+- 1997 — Where in Time is Carmen Sandiego? — Broderbund — Additional Case Designs
+- 1998 — John Saul's Blackstone Chronicles — Red Orb Entertainment — Stereoscope
+- 1998 — Sonic Adventure — Sega — Script Editor
+- 1999 — Jagged Alliance 2 (1999) — Sir-Tech — Writer
+- 2000 — Terminus — Vicarious Visions — Cast (Voice and Video)
+- 2000 — The Wild Thornberrys: Rambler — THQ — Design
+- 2000 — Jagged Alliance 2: Unfinished Business — Sir-Tech — Writer
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake (AGD)]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
+- 2001 — Blue's Clues: Blue's Alphabet Book — THQ — Design
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+: Romancing the Stones]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
+- 2002 — Hungry Red Planet — Independent — Consultant
+- 2004 — Jagged Alliance 2: Wildfire — Strategy First — Writer
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Company: Infamous Adventures, Role: Voice Actor (King Graham)
+- 2007 — Hour of Victory — Midway Games — Writer
+- 2008 — Insecticide — Crackpot Entertainment — Detective Game Design, Script
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Company: AGD Interactive, Role: Voice Actor (King Graham)
+- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] — Company: Replay Games, Role: Chief Creative Officer, Consulting Designer
+- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Company: Replay Games, Role: Designer, Writer, Producer, Voice Actor
+- 2014 — Serena — Senscape — Voice Actor (Protagonist)
+- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Company: SpaceVenture, Role: Voice Actor (Radio Singer)
+- 2016 — Ember — N-Fusion Interactive — Writing and Lore
+- 2017 — The St Christopher's School Lockdown — Kindled Games — Additional Writing
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Writer
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Company: Two Guys from Andromeda, Role: Writer
+- 2025 — Asylum — Senscape — Voice Actor (Main Character)
 
 ## References
 

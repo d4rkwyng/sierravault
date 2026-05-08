@@ -63,13 +63,11 @@ The tragic loss of Homeworld: Cataclysm's source code prevented its inclusion in
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1999 | [[1999 - Homeworld\|Homeworld]] | Real-Time Strategy (Assist) |
-| 1999 | Counter-Strike Beta 5 | First-Person Shooter (Update) |
-| 2000 | [[2000 - Homeworld - Cataclysm\|Homeworld: Cataclysm]] | Real-Time Strategy |
-| 2002 | Global Operations | First-Person Shooter |
-| 2002 | Treasure Planet: Battle at Procyon | Real-Time Strategy |
+- **1999** — [[1999 - Homeworld|Homeworld]] — Genre: Real-Time Strategy (Assist)
+- 1999 — Counter-Strike Beta 5 — First-Person Shooter (Update)
+- **2000** — [[2000 - Homeworld - Cataclysm|Homeworld: Cataclysm]] — Genre: Real-Time Strategy
+- 2002 — Global Operations — First-Person Shooter
+- 2002 — Treasure Planet: Battle at Procyon — Real-Time Strategy
 
 ## References
 

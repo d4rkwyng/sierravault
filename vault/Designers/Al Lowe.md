@@ -63,7 +63,7 @@ Freddy Pharkas represented Lowe's attempt to create a comedy adventure game outs
 
 ### Torin's Passage (1995)
 
-[[1995 - Torin's Passage\|Torin's Passage]] marked a significant departure for Lowe—a family-friendly fantasy adventure game designed for parents and children to play together.[^ref-1] Inspired by his own desire to create something he could share with his daughter, the game followed young Torin and his morphing companion Boogle through the nested worlds of the planet Strata.[^ref-3] The game showcased Lowe's range as a designer, proving he could craft engaging puzzles and compelling stories without relying on adult humor. Critics praised the game's imaginative world-building and accessibility, though some felt it lacked the edge of Lowe's Larry titles.[^ref-8] Torin's Passage demonstrated that Lowe's fundamental design strengths—clever puzzles, memorable characters, and polished production values—transcended any single genre or audience.
+[[1995 - Torin's Passage|Torin's Passage]] marked a significant departure for Lowe—a family-friendly fantasy adventure game designed for parents and children to play together.[^ref-1] Inspired by his own desire to create something he could share with his daughter, the game followed young Torin and his morphing companion Boogle through the nested worlds of the planet Strata.[^ref-3] The game showcased Lowe's range as a designer, proving he could craft engaging puzzles and compelling stories without relying on adult humor. Critics praised the game's imaginative world-building and accessibility, though some felt it lacked the edge of Lowe's Larry titles.[^ref-8] Torin's Passage demonstrated that Lowe's fundamental design strengths—clever puzzles, memorable characters, and polished production values—transcended any single genre or audience.
 
 ## Design Philosophy
 
@@ -85,45 +85,39 @@ Lowe's preservation of Sierra's development history through his personal archive
 
 ### Early Career & Disney Era (1982–1986)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1982 | [[1982 - Bop-A-Bet\|Bop-A-Bet]] | Designer/Programmer |
-| 1982 | [[1982 - Dragon's Keep\|Dragon's Keep]] | Designer/Programmer |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Programmer |
-| 1983 | [[1983 - Troll's Tale\|Troll's Tale]] | Designer/Programmer |
-| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Designer/Programmer/Composer |
-| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Composer |
-| 1984 | [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]] | Designer/Programmer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Composer |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Lead Programmer |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Designer/Programmer |
+- **1982** — [[1982 - Bop-A-Bet|Bop-A-Bet]] — Role: Designer/Programmer
+- **1982** — [[1982 - Dragon's Keep|Dragon's Keep]] — Role: Designer/Programmer
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure 6: The Dark Crystal]] — Role: Programmer
+- **1983** — [[1983 - Troll's Tale|Troll's Tale]] — Role: Designer/Programmer
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: Designer/Programmer/Composer
+- **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Role: Composer
+- **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Role: Designer/Programmer
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Composer
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Lead Programmer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Designer/Programmer
 
 ### Sierra Golden Age (1987–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Programmer |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Designer/Programmer/Composer |
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Programmer |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Designer/Programmer/Composer |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Designer/Programmer/Producer |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Director/Designer/Programmer |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Director/Designer/Programmer/Composer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] | Designer |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Designer/Writer |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Director/Producer/Designer/Writer/Composer |
-| 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Designer/Writer/Composer/Voice Director |
-| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Director/Designer/Writer/Composer |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Images |
-| 1998 | [[1998 - Leisure Suit Larry's Casino\|Leisure Suit Larry's Casino]] | Director/Designer/Writer/Composer |
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Programmer
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Designer/Programmer/Composer
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Programmer
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Role: Designer/Programmer/Composer
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Designer/Programmer/Producer
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] — Role: Director/Designer/Programmer
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Director/Designer/Programmer/Composer
+- **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] — Role: Designer
+- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Designer/Writer
+- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Role: Director/Producer/Designer/Writer/Composer
+- **1995** — [[1995 - Torin's Passage|Torin's Passage]] — Role: Designer/Writer/Composer/Voice Director
+- **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7: Love for Sail!]] — Role: Director/Designer/Writer/Composer
+- **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]] — Role: Images
+- **1998** — [[1998 - Leisure Suit Larry's Casino|Leisure Suit Larry's Casino]] — Role: Director/Designer/Writer/Composer
 
 ### Post-Sierra (2013–Present)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Special Thanks |
-| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | Designer/Writer/Voice Director |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Special Thanks |
+- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] — Role: Special Thanks
+- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Role: Designer/Writer/Voice Director
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Role: Special Thanks
 
 ## References
 

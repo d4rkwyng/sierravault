@@ -20,7 +20,7 @@ The company has evolved significantly from its origins as a pioneering Atari 260
 
 Activision's relationship with Sierra properties spans several decades and contexts:
 
-**Vivendi Games Merger (2008):** When Activision merged with Vivendi Games, they inherited [[Publishers/Sierra On-Line\|Sierra]]'s intellectual property portfolio.[^ref-10] While Sierra's adventure game development had largely ended by this point, Activision gained access to the Sierra brand and catalog.
+**Vivendi Games Merger (2008):** When Activision merged with Vivendi Games, they inherited [[Publishers/Sierra On-Line|Sierra]]'s intellectual property portfolio.[^ref-10] While Sierra's adventure game development had largely ended by this point, Activision gained access to the Sierra brand and catalog.
 
 **King's Quest Reboot (2015):** Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen, marking a revival of Sierra's most iconic adventure franchise.[^ref-6]
 
@@ -46,9 +46,7 @@ Microsoft completed its acquisition of Activision Blizzard on October 13, 2023, 
 
 ## Games in This Archive
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2015 | [[2015 - King's Quest\|King's Quest]] | Episodic reboot by The Odd Gentlemen |
+- **2015** — [[2015 - King's Quest|King's Quest]] — Notes: Episodic reboot by The Odd Gentlemen
 
 *Note: Several games listed in the archive were developed by studios with Activision connections (Dynamix, Papyrus) but were published by Sierra, not Activision.*
 
@@ -57,10 +55,8 @@ Microsoft completed its acquisition of Activision Blizzard on October 13, 2023, 
 
 ### Cancelled Projects
 
-| Status | Game | Notes |
-|--------|------|-------|
-| Cancelled | [[CXL - Babylon 5 - Into the Fire\|Babylon 5: Into the Fire]] | Sierra/Yosemite project |
-| Unreleased | [[TBD - Gabriel Knight 4 - Five Hearts\|Gabriel Knight 4: Five Hearts]] | Jane Jensen pitch |
+- [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Status: Cancelled, Notes: Sierra/Yosemite project
+- [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] — Status: Unreleased, Notes: Jane Jensen pitch
 
 ## Key Acquisitions
 

@@ -15,7 +15,7 @@ last_updated: "2026-02-12"
 
 Patrick Cook (sometimes credited as Pat Cook) is a veteran video game producer, designer, and studio manager whose career spans from the golden age of Cinemaware's interactive movies through Microsoft's major flight simulation and racing franchises.[^ref-1] Beginning as a producer on Cinemaware classics like Rocket Ranger and It Came from the Desert in the late 1980s, Cook transitioned to Sierra's Dynamix division where he became the original designer and director of the Front Page Sports football franchise.[^ref-2]
 
-Cook's career demonstrates remarkable adaptability across gaming genres. From producing action-adventure games at Cinemaware to designing landmark sports simulations at Dynamix, then directing strategy titles like [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]], he evolved into senior management roles at Microsoft Game Studios.[^ref-3] His later career saw him serve as Design Manager on Microsoft Flight Simulator X and as part of the leadership at Turn 10 Studios working on the Forza franchise.[^ref-4]
+Cook's career demonstrates remarkable adaptability across gaming genres. From producing action-adventure games at Cinemaware to designing landmark sports simulations at Dynamix, then directing strategy titles like [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], he evolved into senior management roles at Microsoft Game Studios.[^ref-3] His later career saw him serve as Design Manager on Microsoft Flight Simulator X and as part of the leadership at Turn 10 Studios working on the Forza franchise.[^ref-4]
 
 ## Career
 
@@ -31,11 +31,11 @@ Cook's work at Cinemaware established his production skills and gave him experie
 
 After Cinemaware's decline in the early 1990s, Cook joined Dynamix, the Eugene, Oregon-based studio that had become part of Sierra On-Line.[^ref-2] At Dynamix, Cook found his signature achievement: creating the Front Page Sports franchise.
 
-Cook served as Designer and Director on [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] (1993), which established the series' reputation for deep simulation and customization.[^ref-9] He continued as Executive Producer and designer on subsequent entries including [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] (1994) and [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] indicate his foundational role in establishing the series' design direction.[^ref-10]
+Cook served as Designer and Director on [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] (1993), which established the series' reputation for deep simulation and customization.[^ref-9] He continued as Executive Producer and designer on subsequent entries including [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] (1994) and [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] (1995).[^ref-2] His "Original Concept" credits on [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] and [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] indicate his foundational role in establishing the series' design direction.[^ref-10]
 
-Beyond sports games, Cook directed [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] (1997), Sierra's real-time strategy game set on a colonized planet.[^ref-11] His versatility during the Dynamix years—spanning sports simulation, strategy, and other genres—prepared him for the diverse projects he would later manage at Microsoft.
+Beyond sports games, Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] (1997), Sierra's real-time strategy game set on a colonized planet.[^ref-11] His versatility during the Dynamix years—spanning sports simulation, strategy, and other genres—prepared him for the diverse projects he would later manage at Microsoft.
 
-Cook also contributed to [[2000 - 3-D Ultra Lionel TrainTown Deluxe\|3-D Ultra Lionel TrainTown Deluxe]] (2000), acknowledged for his work on the original TrainTown.[^ref-2]
+Cook also contributed to [[2000 - 3-D Ultra Lionel TrainTown Deluxe|3-D Ultra Lionel TrainTown Deluxe]] (2000), acknowledged for his work on the original TrainTown.[^ref-2]
 
 ### Microsoft Game Studios (2000–2013)
 
@@ -53,11 +53,11 @@ Cook's final documented game credits came at Turn 10 Studios, Microsoft's racing
 
 ### Front Page Sports: Football Pro (1993)
 
-As Designer and Director of [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]], Cook created what would become one of the most respected American football simulation series of the 1990s.[^ref-9] The game's emphasis on statistical depth, customization, and authentic playbook design set it apart from arcade-style competitors. Cook's design established the franchise's DNA, which he would refine across subsequent annual releases.
+As Designer and Director of [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]], Cook created what would become one of the most respected American football simulation series of the 1990s.[^ref-9] The game's emphasis on statistical depth, customization, and authentic playbook design set it apart from arcade-style competitors. Cook's design established the franchise's DNA, which he would refine across subsequent annual releases.
 
 ### Outpost 2: Divided Destiny (1997)
 
-Cook directed [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]], which significantly improved upon the original Outpost's troubled reception.[^ref-11] The real-time strategy sequel featured warring factions of human colonists and demonstrated Cook's ability to work outside sports games while still delivering deep simulation gameplay.
+Cook directed [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], which significantly improved upon the original Outpost's troubled reception.[^ref-11] The real-time strategy sequel featured warring factions of human colonists and demonstrated Cook's ability to work outside sports games while still delivering deep simulation gameplay.
 
 ### Microsoft Flight Simulator X (2006)
 
@@ -91,20 +91,18 @@ His work on the Front Page Sports franchise helped establish Sierra/Dynamix as a
 
 ### Sierra/Dynamix (1992–2000)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - Front Page Sports Football 92\|Front Page Sports: Football]] | Director |
-| 1993 | [[1993 - Front Page Sports - Football Pro\|Front Page Sports: Football Pro]] | Designer, Director |
-| 1994 | [[1994 - Front Page Sports - Football Pro '95\|Front Page Sports: Football Pro '95]] | Designer, Executive Producer |
-| 1994 | [[1994 - Front Page Sports - Baseball Pro\|Front Page Sports: Baseball '94]] | Original Concept, Executive Producer |
-| 1995 | [[1995 - Front Page Sports - Football Pro '96\|Front Page Sports: Football Pro '96]] | Original Design |
-| 1996 | [[1996 - Front Page Sports - Baseball Pro '96\|Front Page Sports: Baseball Pro '96]] | Previous Work |
-| 1996 | [[1996 - Front Page Sports - Football Pro '97\|Front Page Sports: Football Pro '97]] | Original Concept |
-| 1997 | [[1997 - Front Page Sports - Football Pro '98\|Front Page Sports: Football Pro '98]] | Original Concept |
-| 1997 | [[1997 - Front Page Sports - Baseball Pro '98\|Front Page Sports: Baseball Pro '98]] | Previous Work |
-| 1997 | [[1997 - Outpost 2 - Divided Destiny\|Outpost 2: Divided Destiny]] | Director, Designer |
-| 1998 | [[1997 - Driver's Education '98\|Driver's Education '98]] | Special Thanks |
-| 2000 | [[2000 - 3-D Ultra Lionel TrainTown Deluxe\|3-D Ultra Lionel TrainTown Deluxe]] | Contributor (Original TrainTown) |
+- **1992** — [[1992 - Front Page Sports Football 92|Front Page Sports: Football]] — Role: Director
+- **1993** — [[1993 - Front Page Sports - Football Pro|Front Page Sports: Football Pro]] — Role: Designer, Director
+- **1994** — [[1994 - Front Page Sports - Football Pro '95|Front Page Sports: Football Pro '95]] — Role: Designer, Executive Producer
+- **1994** — [[1994 - Front Page Sports - Baseball Pro|Front Page Sports: Baseball '94]] — Role: Original Concept, Executive Producer
+- **1995** — [[1995 - Front Page Sports - Football Pro '96|Front Page Sports: Football Pro '96]] — Role: Original Design
+- **1996** — [[1996 - Front Page Sports - Baseball Pro '96|Front Page Sports: Baseball Pro '96]] — Role: Previous Work
+- **1996** — [[1996 - Front Page Sports - Football Pro '97|Front Page Sports: Football Pro '97]] — Role: Original Concept
+- **1997** — [[1997 - Front Page Sports - Football Pro '98|Front Page Sports: Football Pro '98]] — Role: Original Concept
+- **1997** — [[1997 - Front Page Sports - Baseball Pro '98|Front Page Sports: Baseball Pro '98]] — Role: Previous Work
+- **1997** — [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]] — Role: Director, Designer
+- **1998** — [[1997 - Driver's Education '98|Driver's Education '98]] — Role: Special Thanks
+- **2000** — [[2000 - 3-D Ultra Lionel TrainTown Deluxe|3-D Ultra Lionel TrainTown Deluxe]] — Role: Contributor (Original TrainTown)
 
 ### Microsoft Game Studios (2000–2013)
 

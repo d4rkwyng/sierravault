@@ -25,27 +25,27 @@ After leaving Sierra, Crowe enjoyed a prolific career spanning three decades, fr
 
 ### Early Career
 
-Mark Crowe's entry into the video game industry was serendipitous rather than planned. In 1984, he joined Sierra On-Line without any prior computer experience, initially working on graphics and art for various projects.[^ref-14][^ref-15] His earliest contributions included artwork for [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]], where he learned the fundamentals of computer graphics and game development.[^ref-16]
+Mark Crowe's entry into the video game industry was serendipitous rather than planned. In 1984, he joined Sierra On-Line without any prior computer experience, initially working on graphics and art for various projects.[^ref-14][^ref-15] His earliest contributions included artwork for [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]], where he learned the fundamentals of computer graphics and game development.[^ref-16]
 
-During his early years at Sierra, Crowe worked as an artist on several high-profile projects, including [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] and [[1986 - The Black Cauldron\|The Black Cauldron]].[^ref-16][^ref-16] This period was crucial for his development as a game creator, as he absorbed the company's approach to adventure game design while honing his technical skills. Interestingly, his first exposure to adventure gaming came through Sierra's adult-oriented text adventure SoftPorn, which later inspired the Leisure Suit Larry series. As Crowe recalled, "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
+During his early years at Sierra, Crowe worked as an artist on several high-profile projects, including [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-16][^ref-16] This period was crucial for his development as a game creator, as he absorbed the company's approach to adventure game design while honing his technical skills. Interestingly, his first exposure to adventure gaming came through Sierra's adult-oriented text adventure SoftPorn, which later inspired the Leisure Suit Larry series. As Crowe recalled, "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
 
 ### Sierra Years (1984–1991)
 
 The pivotal moment in Crowe's career came when he partnered with programmer Scott Murphy to create the Space Quest series. Their collaboration began organically, as Crowe explained: "We both were big sci-fi fans with a twisted sense of humor. (Ok, Scott's brain stem had a couple more twists in it.)"[^ref-14] The concept for Space Quest emerged from their shared love of science fiction and desire to parody the genre: "We wanted to make a space farce that lampooned the Sci Fi genre and were confident there was an audience for such a title. We wanted the protagonist in our game to be an unlikely hero so we came up with a space janitor."[^ref-9]
 
-[[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]], released in 1986, marked Crowe's transition from support artist to co-designer.[^ref-16] The game's success led to a series that would define both creators' careers. Crowe's artistic vision, combined with Murphy's programming expertise, created a distinctive visual and comedic style that influenced countless adventure games that followed.[^ref-2]
+[[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]], released in 1986, marked Crowe's transition from support artist to co-designer.[^ref-16] The game's success led to a series that would define both creators' careers. Crowe's artistic vision, combined with Murphy's programming expertise, created a distinctive visual and comedic style that influenced countless adventure games that followed.[^ref-2]
 
-The partnership reached its creative peak with [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], which Crowe consistently cites as their masterpiece: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics."[^ref-3] However, the development was challenging, as Crowe noted: "It was also the most difficult birth. As Scott would say, 'That baby came out sideways!'"[^ref-4]
+The partnership reached its creative peak with [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]], which Crowe consistently cites as their masterpiece: "I've always considered Space Quest 4 to be our (Scott and I) masterpiece. From the wild *time-travel tru sequels* concept to the first-ever (for Sierra) VGA graphics."[^ref-3] However, the development was challenging, as Crowe noted: "It was also the most difficult birth. As Scott would say, 'That baby came out sideways!'"[^ref-4]
 
-Beyond Space Quest, Crowe contributed to numerous Sierra projects, including work on [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] as designer and the [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry]] series in various capacities.[^ref-16] His perfectionist approach to development was well-known within the company, as he admitted: "I've been called a perfectionist because I don't know when to leave things alone."[^ref-12]
+Beyond Space Quest, Crowe contributed to numerous Sierra projects, including work on [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] as designer and the [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]] series in various capacities.[^ref-16] His perfectionist approach to development was well-known within the company, as he admitted: "I've been called a perfectionist because I don't know when to leave things alone."[^ref-12]
 
 ### Dynamix Years (1991–1999)
 
 In 1991, Crowe made a significant life and career change by leaving Sierra to join Dynamix in Eugene, Oregon. As he explained: "Well, in 1991 my wife and I decided to move our young family to beautiful, green Oregon. A place where we spent many family summer vacations traveling to and dreamed of living some day."[^ref-9] This move marked the end of the original Two Guys from Andromeda partnership, leading to a 20-year professional separation between Crowe and Murphy.[^ref-7]
 
-At Dynamix, Crowe continued working on Space Quest, producing [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] without Murphy's direct involvement. One of his proudest moments came during production when voice actor Gary Owens recorded dialogue for the game: "Here was Gary Owens in a Hollywood recording studio reading dialog for our little adventure game—and busting up at the script….PRICELESS!"[^ref-3]
+At Dynamix, Crowe continued working on Space Quest, producing [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] without Murphy's direct involvement. One of his proudest moments came during production when voice actor Gary Owens recorded dialogue for the game: "Here was Gary Owens in a Hollywood recording studio reading dialog for our little adventure game—and busting up at the script….PRICELESS!"[^ref-3]
 
-Crowe then transitioned from adventure games to action titles, working on the [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] series.[^ref-16] This shift represented a significant departure from his adventure game roots, requiring him to adapt his design skills to real-time tactical combat and mech simulation. As he recalled: "After SQ 5, I had a lot of fun working on something new and different, the EarthSiege Mech battle games. My first crack at working on simulation games. I'm really proud of those titles."[^ref-9] The Earthsiege series became one of his notable achievements outside the adventure genre, establishing him as a versatile game designer.[^ref-15]
+Crowe then transitioned from adventure games to action titles, working on the [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] series.[^ref-16] This shift represented a significant departure from his adventure game roots, requiring him to adapt his design skills to real-time tactical combat and mech simulation. As he recalled: "After SQ 5, I had a lot of fun working on something new and different, the EarthSiege Mech battle games. My first crack at working on simulation games. I'm really proud of those titles."[^ref-9] The Earthsiege series became one of his notable achievements outside the adventure genre, establishing him as a versatile game designer.[^ref-15]
 
 His final Dynamix project was Front Page Sports: Ski Racing (1997), where he served as Director, Art Director, and Video Production Director.[^ref-16] In 1999, Crowe was caught in major layoffs at Dynamix, a precursor to the larger "Chainsaw Monday" cuts at Sierra's Oakhurst headquarters.[^ref-9]
 
@@ -79,11 +79,11 @@ The series' humor drew heavily from Crowe's influences, including Star Wars, Sta
 
 ### Police Quest III: The Kindred (1991)
 
-Crowe's work on [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] demonstrated his versatility as a designer beyond the comedic Space Quest series.[^ref-16] Taking on the role of director for this serious police procedural, Crowe had to adapt his skills to a completely different tone and subject matter. The game marked a significant departure from the series' previous entries, incorporating more mature themes and complex narrative structures.[^ref-14]
+Crowe's work on [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] demonstrated his versatility as a designer beyond the comedic Space Quest series.[^ref-16] Taking on the role of director for this serious police procedural, Crowe had to adapt his skills to a completely different tone and subject matter. The game marked a significant departure from the series' previous entries, incorporating more mature themes and complex narrative structures.[^ref-14]
 
 ### Earthsiege Series (1994–1996)
 
-The [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] and [[1996 - Earthsiege 2\|Earthsiege 2]] games represented Crowe's most significant departure from adventure gaming, establishing him as a producer and director of mech combat simulations.[^ref-16] Working at Dynamix, Crowe had to completely reimagine his approach to game design, moving from turn-based puzzle solving to real-time tactical combat.[^ref-2] The Earthsiege series demonstrated Crowe's adaptability and helped establish the foundation for the later Tribes series.[^ref-3]
+The [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] and [[1996 - Earthsiege 2|Earthsiege 2]] games represented Crowe's most significant departure from adventure gaming, establishing him as a producer and director of mech combat simulations.[^ref-16] Working at Dynamix, Crowe had to completely reimagine his approach to game design, moving from turn-based puzzle solving to real-time tactical combat.[^ref-2] The Earthsiege series demonstrated Crowe's adaptability and helped establish the foundation for the later Tribes series.[^ref-3]
 
 ### Godzilla Trilogy (2002–2007)
 
@@ -113,44 +113,38 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 
 ### Pre-Sierra & Early Sierra (1983–1985)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1983 | Hi-Res Adventure #6: The Dark Crystal | Special Thanks |
-| 1983 | Flip N Match (VIC-20) | Cover Art |
-| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Art/Graphics |
-| 1984 | [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]] | Art/Graphics |
-| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Art/Graphics |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Art/Graphics |
+- 1983 — Hi-Res Adventure #6: The Dark Crystal — Special Thanks
+- 1983 — Flip N Match (VIC-20) — Cover Art
+- **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Role: Art/Graphics
+- **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Role: Art/Graphics
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Role: Art/Graphics
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Art/Graphics
 
 ### Sierra On-Line (1986–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Art/Graphics |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Art/Graphics |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | Designer, Programmer, Art/Graphics |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Design, Art/Graphics |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Art/Graphics |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | Designer, Programmer, Art/Graphics |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Project Coordinator |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]] | Cover Art |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Designer, Programmer, Art/Graphics |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Voice Actor |
-| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Art Designer, Animator |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Director, Art Designer, Animator |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Co-Designer |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Lead Designer, Art Designer |
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Art/Graphics
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Art/Graphics
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Designer, Programmer, Art/Graphics
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Design, Art/Graphics
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Art/Graphics
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Designer, Programmer, Art/Graphics
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Project Coordinator
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Role: Cover Art
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Designer, Programmer, Art/Graphics
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Voice Actor
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Art Designer, Animator
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Director, Art Designer, Animator
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Co-Designer
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Lead Designer, Art Designer
 
 ### Dynamix (1993–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Producer, Director, Designer, Writer |
-| 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: Earthsiege]] | Producer, Game Designer |
-| 1994 | Metaltech: Battledrome | Producer, Art Director, Box Design |
-| 1995 | Metaltech: EarthSiege Expansion Pack | Producer |
-| 1996 | [[1996 - Earthsiege 2\|Earthsiege 2]] | Director |
-| 1997 | Front Page Sports: Ski Racing | Director, Art Director, Video Production |
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Producer, Director, Designer, Writer
+- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] — Role: Producer, Game Designer
+- 1994 — Metaltech: Battledrome — Producer, Art Director, Box Design
+- 1995 — Metaltech: EarthSiege Expansion Pack — Producer
+- **1996** — [[1996 - Earthsiege 2|Earthsiege 2]] — Role: Director
+- 1997 — Front Page Sports: Ski Racing — Director, Art Director, Video Production
 
 ### Pipeworks Software (2002–2012)
 
@@ -172,10 +166,8 @@ The enduring popularity of Space Quest, decades after the series concluded, spea
 
 ### Guys From Andromeda (2015–Present)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Creator, Designer, Artist |
-| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Creator, Writer, Scene Artist |
+- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Role: Creator, Designer, Artist
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Creator, Writer, Scene Artist
 
 ## References
 

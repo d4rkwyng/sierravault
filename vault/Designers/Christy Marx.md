@@ -41,7 +41,7 @@ Marx served as designer, writer, and director on Longbow, giving Maid Marian a m
 
 ### Later Career
 
-After completing the Conquests games, Marx returned to animation writing, working on Bucky O'Hare, Mighty Max, and leading development on Conan: The Adventurer (1992-1993).[^ref-1] Tragedy struck on November 18, 1994, when Peter Ledger was killed in a car accident with a semi-trailer.[^ref-2] Marx continued living in Oakhurst, and years later met her second husband, writer Randy Littlejohn, when she returned to Sierra to work on [[CXL - Babylon 5 - Into the Fire\|Babylon 5: Into the Fire]].[^ref-2] That game was cancelled in 1999 during Sierra's corporate restructuring.[^ref-2]
+After completing the Conquests games, Marx returned to animation writing, working on Bucky O'Hare, Mighty Max, and leading development on Conan: The Adventurer (1992-1993).[^ref-1] Tragedy struck on November 18, 1994, when Peter Ledger was killed in a car accident with a semi-trailer.[^ref-2] Marx continued living in Oakhurst, and years later met her second husband, writer Randy Littlejohn, when she returned to Sierra to work on [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]].[^ref-2] That game was cancelled in 1999 during Sierra's corporate restructuring.[^ref-2]
 
 Marx later worked with John Romero at Slipgate Ironworks on an ambitious transmedia MMO project that was also cancelled after years of development.[^ref-2] In 2004, she suffered another devastating loss when her close friend and frequent collaborator Katherine Lawrence committed suicide.[^ref-2]
 
@@ -51,7 +51,7 @@ From 2010 to 2017, Marx worked at Zynga as Principal Game Designer and Narrative
 
 ### Conquests of Camelot: The Search for the Grail (1990)
 
-[[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]] was Marx's first game and established her approach to adapting legendary material for interactive media.[^ref-15] Players control King Arthur on a quest for the Holy Grail, traveling from Camelot to Jerusalem while encountering puzzles rooted in Arthurian mythology and actual historical locations.[^ref-5] Marx wove goddess mythology into the Christian Grail legend, creating a narrative that honored source material while adding new mythological depth.[^ref-2] The game was designed with her husband Peter Ledger, who created the artwork despite the frustrating 16-color limitation.[^ref-5]
+[[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] was Marx's first game and established her approach to adapting legendary material for interactive media.[^ref-15] Players control King Arthur on a quest for the Holy Grail, traveling from Camelot to Jerusalem while encountering puzzles rooted in Arthurian mythology and actual historical locations.[^ref-5] Marx wove goddess mythology into the Christian Grail legend, creating a narrative that honored source material while adding new mythological depth.[^ref-2] The game was designed with her husband Peter Ledger, who created the artwork despite the frustrating 16-color limitation.[^ref-5]
 
 ### Conquests of the Longbow: The Legend of Robin Hood (1991)
 
@@ -81,11 +81,9 @@ Marx remains active in the gaming and writing communities, maintaining her Subst
 
 ### Sierra On-Line (1989–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Designer, Writer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Designer, Writer, Director |
-| 1999 | [[CXL - Babylon 5 - Into the Fire\|Babylon 5: Into the Fire]] | Writer (Cancelled) |
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Designer, Writer
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Designer, Writer, Director
+- **1999** — [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Role: Writer (Cancelled)
 
 ### Post-Sierra (2000–2016)
 

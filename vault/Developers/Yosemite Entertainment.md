@@ -57,12 +57,10 @@ Quest for Glory V: Dragon Fire stands as the studio's most significant achieveme
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1996 | [[1996 - The Realm Online\|The Realm Online]] | MMORPG |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Action RPG |
-| 1999 | [[CXL - Babylon 5 - Into the Fire\|Babylon 5: Into the Fire]] | Space Combat (Cancelled) |
-| N/A | [[CXL - Middle-earth Online\|Middle-earth Online]] | MMORPG (Cancelled) |
+- **1996** — [[1996 - The Realm Online|The Realm Online]] — Genre: MMORPG
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Genre: Action RPG
+- **1999** — [[CXL - Babylon 5 - Into the Fire|Babylon 5: Into the Fire]] — Genre: Space Combat (Cancelled)
+- **N/A** — [[CXL - Middle-earth Online|Middle-earth Online]] — Genre: MMORPG (Cancelled)
 
 ## References
 

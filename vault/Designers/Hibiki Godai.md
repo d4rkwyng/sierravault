@@ -71,13 +71,11 @@ The enduring appeal of Godai's work is evidenced by the continued interest in hi
 
 ## Games
 
-| Year | Title | Role |
-|------|------|------|
-| 1985 | [[1985 - Thexder\|Thexder]] | Designer/Programmer/Composer |
-| 1986 | [[1988 - Silpheed\|Silpheed]] | Sub Programmer (Music/Opening) |
-| 1987 | [[1990 - Zeliard\|Zeliard]] | Sub Programmer |
-| 1989 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder: The Second Contact]] | Original Designer |
-| 2009 | [[2009 - Thexder Neo\|Thexder Neo]] | Director/Original Game Designer |
+- **1985** — [[1985 - Thexder|Thexder]] — Role: Designer/Programmer/Composer
+- **1986** — [[1988 - Silpheed|Silpheed]] — Role: Sub Programmer (Music/Opening)
+- **1987** — [[1990 - Zeliard|Zeliard]] — Role: Sub Programmer
+- **1989** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Role: Original Designer
+- **2009** — [[2009 - Thexder Neo|Thexder Neo]] — Role: Director/Original Game Designer
 
 ## References
 

@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-David Selle is a veteran video game designer and director best known for his decade-long tenure at Dynamix, where he co-created the acclaimed EarthSiege and Starsiege universe of mech-based combat games.[^ref-1] Working at Dynamix from September 1989 to November 1999, Selle progressed from game designer to director, contributing to numerous influential titles including adventure games like [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] and the legendary [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]].[^ref-2] His career spans over three decades in the interactive entertainment industry, with notable work at major companies including Sony Computer Entertainment America and various educational institutions.
+David Selle is a veteran video game designer and director best known for his decade-long tenure at Dynamix, where he co-created the acclaimed EarthSiege and Starsiege universe of mech-based combat games.[^ref-1] Working at Dynamix from September 1989 to November 1999, Selle progressed from game designer to director, contributing to numerous influential titles including adventure games like [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] and the legendary [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]].[^ref-2] His career spans over three decades in the interactive entertainment industry, with notable work at major companies including Sony Computer Entertainment America and various educational institutions.
 
 Beyond his game design accomplishments, Selle has established himself as an educator and technology advocate, having taught at prestigious institutions including Nintendo's DigiPen Institute and Harvard University Graduate School of Design.[^ref-3] His professional philosophy centers around "learning new technology, creating with digital tools, and empowering others," which has guided both his creative work in gaming and his later ventures in business development and education.[^ref-4] Currently based in Walnut Creek, California, Selle continues to work in technology and business development while maintaining his connection to the gaming community through various projects and consulting work.[^ref-5]
 
@@ -23,15 +23,15 @@ Beyond his game design accomplishments, Selle has established himself as an educ
 
 David Selle's entry into the video game industry began in 1989 when he was hired by Dynamix, the Eugene, Oregon-based game development studio known for its innovative simulation and adventure games.[^ref-1] His educational background includes studies at the University of Washington, where he later obtained a Software Product Manager certification, and training at Nintendo's DigiPen Institute's game projects division.[^ref-6] This technical foundation would prove invaluable throughout his career in game development and later business ventures.
 
-Selle's first projects at Dynamix involved contributing to existing franchises and learning the craft of game design through hands-on experience.[^ref-7] His early work included track designs and documentation for Motocross in 1989, followed by mission design and documentation work on [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer]], also in 1989.[^ref-8] These initial assignments allowed him to understand the technical and creative challenges of game development while working alongside experienced designers and programmers.
+Selle's first projects at Dynamix involved contributing to existing franchises and learning the craft of game design through hands-on experience.[^ref-7] His early work included track designs and documentation for Motocross in 1989, followed by mission design and documentation work on [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer]], also in 1989.[^ref-8] These initial assignments allowed him to understand the technical and creative challenges of game development while working alongside experienced designers and programmers.
 
 ### Dynamix Years (1989–1999)
 
-During his ten years and three months at Dynamix, Selle worked on some of the most memorable games of the 1990s, contributing to both the company's adventure game legacy and pioneering work in mech simulation.[^ref-1] His writing talents became evident early in his tenure, contributing dialogue and text to [[1990 - Rise of the Dragon\|Rise of the Dragon]] in 1990, a cyberpunk adventure that showcased Dynamix's storytelling capabilities.[^ref-9] He continued developing his narrative skills with writer and world design credits on [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] in 1991.[^ref-10]
+During his ten years and three months at Dynamix, Selle worked on some of the most memorable games of the 1990s, contributing to both the company's adventure game legacy and pioneering work in mech simulation.[^ref-1] His writing talents became evident early in his tenure, contributing dialogue and text to [[1990 - Rise of the Dragon|Rise of the Dragon]] in 1990, a cyberpunk adventure that showcased Dynamix's storytelling capabilities.[^ref-9] He continued developing his narrative skills with writer and world design credits on [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] in 1991.[^ref-10]
 
-One of Selle's most significant contributions during this period was his work on [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] in 1991, where he served as both writer and manual writer for this beloved coming-of-age adventure game.[^ref-11] The game's success demonstrated his ability to craft engaging narratives that resonated with players and critics alike. His versatility was further showcased when he took on the role of assistant director and additional writer for [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] in 1993, working on one of Sierra's most popular comedy adventure franchises.[^ref-12]
+One of Selle's most significant contributions during this period was his work on [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] in 1991, where he served as both writer and manual writer for this beloved coming-of-age adventure game.[^ref-11] The game's success demonstrated his ability to craft engaging narratives that resonated with players and critics alike. His versatility was further showcased when he took on the role of assistant director and additional writer for [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] in 1993, working on one of Sierra's most popular comedy adventure franchises.[^ref-12]
 
-The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege\|Metaltech: EarthSiege]] in 1994.[^ref-13] This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
+The pinnacle of Selle's creative achievements at Dynamix came with his role as co-creator and designer of the EarthSiege and Starsiege universe, beginning with [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] in 1994.[^ref-13] This groundbreaking mech simulation game established a new standard for robot combat games, featuring detailed mechs called HERCs (Human Operated Remote Combatants) and a complex narrative involving humanity's struggle against artificial intelligence. Selle's design work on the game included not only gameplay mechanics but also the rich lore and universe that would support multiple sequels and expansions.[^ref-14]
 
 ### Post-Dynamix Career (1999–Present)
 
@@ -45,15 +45,15 @@ More recently, Selle has taken on educational roles, including teaching position
 
 ### Metaltech: EarthSiege (1994)
 
-[[1994 - Metaltech - Earthsiege\|Metaltech: EarthSiege]] stands as David Selle's most influential creation, establishing him as co-creator of the EarthSiege universe and pioneering the modern mech simulation genre.[^ref-21] The game featured unprecedented detail in its mech customization system, allowing players to configure their HERCs with various weapons, armor configurations, and equipment loadouts. Selle's design philosophy emphasized tactical combat over arcade-style action, requiring players to manage heat buildup, ammunition conservation, and strategic positioning.[^ref-22] The game's narrative, set in a future where humanity battles against the GAIA AI system, provided a compelling backdrop that elevated the combat beyond simple robot battles to a story of survival and technological hubris.[^ref-23]
+[[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] stands as David Selle's most influential creation, establishing him as co-creator of the EarthSiege universe and pioneering the modern mech simulation genre.[^ref-21] The game featured unprecedented detail in its mech customization system, allowing players to configure their HERCs with various weapons, armor configurations, and equipment loadouts. Selle's design philosophy emphasized tactical combat over arcade-style action, requiring players to manage heat buildup, ammunition conservation, and strategic positioning.[^ref-22] The game's narrative, set in a future where humanity battles against the GAIA AI system, provided a compelling backdrop that elevated the combat beyond simple robot battles to a story of survival and technological hubris.[^ref-23]
 
 ### EarthSiege 2 (1996)
 
-Building on the foundation established in the original game, [[1996 - Earthsiege 2\|EarthSiege 2]] saw Selle refining and expanding his vision for mech-based combat simulation.[^ref-22] The sequel featured enhanced graphics, more sophisticated AI opponents, and an expanded arsenal of mechs and weapons. Selle's design improvements included better mission variety, more intuitive controls, and enhanced multiplayer capabilities that would influence future networked gaming experiences.[^ref-25] The game's reception among critics and players solidified the EarthSiege franchise as a premier destination for mech simulation enthusiasts and demonstrated Selle's growth as both a designer and project leader.[^ref-22]
+Building on the foundation established in the original game, [[1996 - Earthsiege 2|EarthSiege 2]] saw Selle refining and expanding his vision for mech-based combat simulation.[^ref-22] The sequel featured enhanced graphics, more sophisticated AI opponents, and an expanded arsenal of mechs and weapons. Selle's design improvements included better mission variety, more intuitive controls, and enhanced multiplayer capabilities that would influence future networked gaming experiences.[^ref-25] The game's reception among critics and players solidified the EarthSiege franchise as a premier destination for mech simulation enthusiasts and demonstrated Selle's growth as both a designer and project leader.[^ref-22]
 
 ### Starsiege (1999)
 
-[[1999 - Starsiege\|Starsiege]] represented the culmination of Selle's work on the EarthSiege universe, serving as both a prequel and spiritual successor to the earlier games.[^ref-23] As his final major project at Dynamix before departing in November 1999, Starsiege showcased his mature design sensibilities and understanding of what made mech combat engaging for players. The game featured three distinct factions with unique mech designs and combat philosophies, demonstrating Selle's ability to create varied gameplay experiences within a unified design framework.[^ref-23] Starsiege also served as the foundation for the wildly successful multiplayer spin-off Starsiege: Tribes, though Selle's direct involvement in that project was limited due to his departure from Dynamix.[^ref-29]
+[[1999 - Starsiege|Starsiege]] represented the culmination of Selle's work on the EarthSiege universe, serving as both a prequel and spiritual successor to the earlier games.[^ref-23] As his final major project at Dynamix before departing in November 1999, Starsiege showcased his mature design sensibilities and understanding of what made mech combat engaging for players. The game featured three distinct factions with unique mech designs and combat philosophies, demonstrating Selle's ability to create varied gameplay experiences within a unified design framework.[^ref-23] Starsiege also served as the foundation for the wildly successful multiplayer spin-off Starsiege: Tribes, though Selle's direct involvement in that project was limited due to his departure from Dynamix.[^ref-29]
 
 ## Design Philosophy
 
@@ -73,22 +73,20 @@ Selle's influence continues through his educational work and business developmen
 
 ### Dynamix (1989–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | Motocross | Track designs, documentation |
-| 1989 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer]] | Mission design, documentation |
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Additional design, playtester |
-| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Dialogue, text |
-| 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] | Writer, world design |
-| 1991 | [[1991 - Heart of China\|Heart of China]] | Writer |
-| 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Writer, manual writer |
-| 1993 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7: Draxon's Revenge]] | Script |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Assistant director, additional writer |
-| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Designer |
-| 1994 | [[1994 - Metaltech - Earthsiege\|Metaltech: EarthSiege]] | Designer |
-| 1995 | [[1995 - Metaltech - Earthsiege Expansion Pack\|Metaltech: EarthSiege Expansion Pack]] | Mission programmer |
-| 1996 | [[1996 - Earthsiege 2\|EarthSiege 2]] | Designer |
-| 1999 | [[1999 - Starsiege\|Starsiege]] | Designer |
+- 1989 — Motocross — Track designs, documentation
+- **1989** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer]] — Role: Mission design, documentation
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Additional design, playtester
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Dialogue, text
+- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: Writer, world design
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Writer
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Writer, manual writer
+- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Script
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Assistant director, additional writer
+- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Designer
+- **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: EarthSiege]] — Role: Designer
+- **1995** — [[1995 - Metaltech - Earthsiege Expansion Pack|Metaltech: EarthSiege Expansion Pack]] — Role: Mission programmer
+- **1996** — [[1996 - Earthsiege 2|EarthSiege 2]] — Role: Designer
+- **1999** — [[1999 - Starsiege|Starsiege]] — Role: Designer
 
 ### Post-Sierra (2007)
 

@@ -37,7 +37,7 @@ For Phantasmagoria, Seibert and Jay Usher created a musical score that was recor
 
 In 1992, Seibert was promoted to producer, which expanded his responsibilities beyond music to encompass all aspects of game production.[^ref-1] His first game as producer was Pepper's Adventures in Time (1993), which has become a cult classic amongst point-and-click adventure gamers.[^ref-1] While this advancement meant less time for hands-on composition, he continued to perform pieces by other composers and maintained his influence over Sierra's audio direction.[^ref-1]
 
-As producer, Seibert oversaw major titles including King's Quest VII: The Princeless Bride (1994), Torin's Passage (1995), and Leisure Suit Larry 7: Love for Sail! (1996).[^ref-1] His crowning achievement in this role was [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] (1998), where he served as Director, Producer, Musician, and Co-designer—demonstrating his evolution from audio specialist to full game development leadership.[^ref-1]
+As producer, Seibert oversaw major titles including King's Quest VII: The Princeless Bride (1994), Torin's Passage (1995), and Leisure Suit Larry 7: Love for Sail! (1996).[^ref-1] His crowning achievement in this role was [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] (1998), where he served as Director, Producer, Musician, and Co-designer—demonstrating his evolution from audio specialist to full game development leadership.[^ref-1]
 
 Despite having produced numerous adventure games, Seibert admitted in a 1997 interview that he had never completed one himself: "I always get halfway through and get stuck someplace, and then I have to download the walk-through off the Internet and read the solution, and it's always like, 'Well that's a stupid puzzle!' I get so frustrated, I throw it down and never pick it back up."[^ref-1]
 
@@ -55,19 +55,19 @@ During his time at Breakaway Games, Seibert pursued further education, completin
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] represented one of Seibert's most significant early compositions, created in collaboration with Ken Allen.[^ref-3] As Music Director and Composer, he provided the musical backdrop for Sierra's first major CD-ROM adventure game, helping establish the emotional tone for King Graham's quest to rescue his family.[^ref-1] The game's commercial success—becoming the best-selling adventure game of all time at its release—validated Sierra's investment in high-quality audio production and demonstrated the importance of music in creating immersive gaming experiences.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] represented one of Seibert's most significant early compositions, created in collaboration with Ken Allen.[^ref-3] As Music Director and Composer, he provided the musical backdrop for Sierra's first major CD-ROM adventure game, helping establish the emotional tone for King Graham's quest to rescue his family.[^ref-1] The game's commercial success—becoming the best-selling adventure game of all time at its release—validated Sierra's investment in high-quality audio production and demonstrated the importance of music in creating immersive gaming experiences.
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-Seibert's work on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] produced "Girl in the Tower," one of the most beloved pieces of video game music from the era.[^ref-1] This vocal theme, performed during a key romantic moment between Prince Alexander and Princess Cassima, was a remix of a theme Seibert had composed for King's Quest V.[^ref-1] The song demonstrated that video game music could achieve the same emotional resonance as film scores, helping to legitimize the medium as an artistic form.
+Seibert's work on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] produced "Girl in the Tower," one of the most beloved pieces of video game music from the era.[^ref-1] This vocal theme, performed during a key romantic moment between Prince Alexander and Princess Cassima, was a remix of a theme Seibert had composed for King's Quest V.[^ref-1] The song demonstrated that video game music could achieve the same emotional resonance as film scores, helping to legitimize the medium as an artistic form.
 
 ### Phantasmagoria (1995)
 
-As Producer and Musician on [[1995 - Phantasmagoria\|Phantasmagoria]], Seibert oversaw the creation of Sierra's most ambitious full-motion video adventure game while also contributing significantly to its groundbreaking soundtrack.[^ref-1] Working with Jay Usher, he created a score recorded live with real instruments—a significant departure from purely electronic game soundtracks.[^ref-1] The music ranged from rock and roll to orchestral arrangements, and Seibert performed the ending song "Take a Stand."[^ref-1] He has stated this project represents the work he is most proud of from his entire career.[^ref-1]
+As Producer and Musician on [[1995 - Phantasmagoria|Phantasmagoria]], Seibert oversaw the creation of Sierra's most ambitious full-motion video adventure game while also contributing significantly to its groundbreaking soundtrack.[^ref-1] Working with Jay Usher, he created a score recorded live with real instruments—a significant departure from purely electronic game soundtracks.[^ref-1] The music ranged from rock and roll to orchestral arrangements, and Seibert performed the ending song "Take a Stand."[^ref-1] He has stated this project represents the work he is most proud of from his entire career.[^ref-1]
 
 ### King's Quest: Mask of Eternity (1998)
 
-[[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] represented the culmination of Seibert's career at Sierra, where he served in the quadruple role of Director, Producer, Musician, and Co-designer.[^ref-1] The game marked a bold departure for the series with its 3D engine and action-RPG elements, reflecting Seibert's vision for evolving the adventure game genre. In interviews before release, he defended the game's direction: "King's Quest: Mask of Eternity is first and foremost an adventure game. There is a lot of story, characters, and puzzles. Just because there are other elements blended in, doesn't mean it's not an adventure game."[^ref-1]
+[[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] represented the culmination of Seibert's career at Sierra, where he served in the quadruple role of Director, Producer, Musician, and Co-designer.[^ref-1] The game marked a bold departure for the series with its 3D engine and action-RPG elements, reflecting Seibert's vision for evolving the adventure game genre. In interviews before release, he defended the game's direction: "King's Quest: Mask of Eternity is first and foremost an adventure game. There is a lot of story, characters, and puzzles. Just because there are other elements blended in, doesn't mean it's not an adventure game."[^ref-1]
 
 ## Design Philosophy
 
@@ -93,59 +93,57 @@ Seibert has been married to Debbie Seibert since 1980. They have two daughters: 
 
 ### Sierra On-Line (1987–2001)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Musician, Music Editor |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Composer |
-| 1988 | [[1988 - Silpheed\|Silpheed]] | Music Editor |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Arranger, Musician |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Music/Sound Programming |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Composer |
-| 1989 | [[1990 - Codename - Iceman\|Codename: ICEMAN]] | Composer |
-| 1989 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Composer |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle's Official Book of Games: Volume 1]] | Music Director |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Music Director |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Music Director, Composer |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Music Director |
-| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Firehawk: Thexder The Second Contact]] | Music Director |
-| 1990 | [[1990 - Oils Well\|Oil's Well]] | Music Director |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle's Official Book of Games: Volume 2]] | Music Director |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Music Director, Sound Effects |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Music Director, Voice Actor |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Music Director |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Music/Sound Programming |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] | Music Director |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Music Director |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Music Director |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music Director, Musician |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Music Arrangement, Performance |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle's Official Book of Games: Volume 3]] | Music/Sound Programming |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Music Director, Composer ("Girl in the Tower") |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Music Director |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Music Director |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Music Director |
-| 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow: The Dagger of Amon Ra]] | Music Director |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Music Director |
-| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane (Enhanced CD-ROM)]] | Director |
-| 1992 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (Enhanced CD-ROM)]] | Composer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] | Music Director |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Sound |
-| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Producer, Musician |
-| 1993 | [[1991 - The Shadow of Yserbius\|The Shadow of Yserbius]] (boxed version) | Producer |
-| 1993 | [[1993 - Take a Break! Pinball\|Take-a-Break! Pinball]] | Musician |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Music Director |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Producer, Musician |
-| 1994 | King's Quest: Collector's Edition | Music |
-| 1994 | [[1994 - Outpost\|Outpost]] | Musician |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Producer, Composer, Vocalist |
-| 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Producer |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Music Director |
-| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail!]] | Producer, Musician, Sound Effects |
-| 1997 | King's Quest: Collection Series | Music |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Producer |
-| 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Director, Producer, Musician, Co-Designer |
-| 2001 | [[2001 - Arcanum\|Arcanum: Of Steamworks and Magick Obscura]] | Executive Producer |
-| 2001 | Throne of Darkness | Producer |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Musician, Music Editor
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Composer
+- **1988** — [[1988 - Silpheed|Silpheed]] — Role: Music Editor
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Arranger, Musician
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Music/Sound Programming
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Composer
+- **1989** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: Composer
+- **1989** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Composer
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle's Official Book of Games: Volume 1]] — Role: Music Director
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (VGA)]] — Role: Music Director
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Music Director, Composer
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Music Director
+- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Firehawk: Thexder The Second Contact]] — Role: Music Director
+- **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Music Director
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle's Official Book of Games: Volume 2]] — Role: Music Director
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Music Director, Sound Effects
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Music Director, Voice Actor
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Music Director
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Music/Sound Programming
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry in the Land of the Lounge Lizards (VGA)]] — Role: Music Director
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Music Director
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Music Director
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music Director, Musician
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music Arrangement, Performance
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle's Official Book of Games: Volume 3]] — Role: Music/Sound Programming
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Music Director, Composer ("Girl in the Tower")
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero (VGA)]] — Role: Music Director
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Music Director
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Music Director
+- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow: The Dagger of Amon Ra]] — Role: Music Director
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Music Director
+- **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane (Enhanced CD-ROM)]] — Role: Director
+- **1992** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (Enhanced CD-ROM)]] — Role: Composer
+- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] — Role: Music Director
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Sound
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Producer, Musician
+- **1993** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] (boxed version) — Role: Producer
+- **1993** — [[1993 - Take a Break! Pinball|Take-a-Break! Pinball]] — Role: Musician
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Music Director
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Producer, Musician
+- 1994 — King's Quest: Collector's Edition — Music
+- **1994** — [[1994 - Outpost|Outpost]] — Role: Musician
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Producer, Composer, Vocalist
+- **1995** — [[1995 - Torin's Passage|Torin's Passage]] — Role: Producer
+- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Role: Music Director
+- **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7: Love for Sail!]] — Role: Producer, Musician, Sound Effects
+- 1997 — King's Quest: Collection Series — Music
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: Producer
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Director, Producer, Musician, Co-Designer
+- **2001** — [[2001 - Arcanum|Arcanum: Of Steamworks and Magick Obscura]] — Role: Executive Producer
+- 2001 — Throne of Darkness — Producer
 
 ### Post-Sierra (2004–2008)
 

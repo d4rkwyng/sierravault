@@ -64,12 +64,10 @@ The flying toaster from After Dark became one of the most enduring symbols of 19
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1989 | [[1989 - After Dark\|After Dark]] | Screensaver/Utility |
-| 1991 | [[1991 - More After Dark\|More After Dark]] | Screensaver/Utility |
-| 1998 | [[1998 - After Dark Games\|After Dark Games]] | Mini-Games |
-| 1998 | [[1998 - Head Rush\|Head Rush]] | Educational/Trivia |
+- **1989** — [[1989 - After Dark|After Dark]] — Genre: Screensaver/Utility
+- **1991** — [[1991 - More After Dark|More After Dark]] — Genre: Screensaver/Utility
+- **1998** — [[1998 - After Dark Games|After Dark Games]] — Genre: Mini-Games
+- **1998** — [[1998 - Head Rush|Head Rush]] — Genre: Educational/Trivia
 
 ## References
 

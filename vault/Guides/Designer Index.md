@@ -207,4 +207,4 @@ The project leaders who brought games from concept to completion.
 
 ---
 
-*See also: [[Developers/Sierra On-Line\|Developers]] • [[Publishers/Sierra On-Line\|Publishers]]*
+*See also: [[Developers/Sierra On-Line|Developers]] • [[Publishers/Sierra On-Line|Publishers]]*

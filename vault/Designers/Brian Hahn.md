@@ -13,9 +13,9 @@ last_updated: "2026-02-13"
 
 ## Overview
 
-Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and animator whose career in video games spans nearly four decades, from 1985 to the present day.[^ref-1] Best known as the creative force behind [[1992 - The Incredible Machine\|The Incredible Machine]] series, Hahn spent nearly fourteen years at Dynamix, where he served in multiple roles including art director, designer, producer, audio director, and localization lead.[^ref-1][^ref-2]
+Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and animator whose career in video games spans nearly four decades, from 1985 to the present day.[^ref-1] Best known as the creative force behind [[1992 - The Incredible Machine|The Incredible Machine]] series, Hahn spent nearly fourteen years at Dynamix, where he served in multiple roles including art director, designer, producer, audio director, and localization lead.[^ref-1][^ref-2]
 
-Hahn's contributions to gaming extend far beyond puzzle design. His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon\|Rise of the Dragon]], [[1991 - Heart of China\|Heart of China]], and [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1]
+Hahn's contributions to gaming extend far beyond puzzle design. His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1]
 
 Remarkably, Hahn remains active in the game industry after a 16-year hiatus. From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude. He loves collaboration and encourages lots of communication and team-building."[^ref-3]
 
@@ -27,31 +27,31 @@ Brian Hahn attended Lane Community College and the University of Oregon beginnin
 
 ### Dynamix Years (1987–2001)
 
-Hahn was hired by Dynamix in December 1987 to work as an art director, beginning a tenure that would last thirteen years and eleven months.[^ref-1] At Dynamix, he served multiple roles beyond art direction, including producer, designer, marketing liaison, localization lead, and audio director.[^ref-1] His early contributions included graphics and animation for Caveman Ugh-Lympics (1988), artwork for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] (1989), where he also appeared as a voice actor playing Dr. Johnson.[^ref-2]
+Hahn was hired by Dynamix in December 1987 to work as an art director, beginning a tenure that would last thirteen years and eleven months.[^ref-1] At Dynamix, he served multiple roles beyond art direction, including producer, designer, marketing liaison, localization lead, and audio director.[^ref-1] His early contributions included graphics and animation for Caveman Ugh-Lympics (1988), artwork for Motocross (1989), and animation for [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] (1989), where he also appeared as a voice actor playing Dr. Johnson.[^ref-2]
 
-Hahn also contributed voice work to [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] (1989), playing Lieutenant Jake Styles.[^ref-2] His versatility was evident as he transitioned seamlessly between animation, art direction, and even acting roles within productions.
+Hahn also contributed voice work to [[1989 - A-10 Tank Killer|A-10 Tank Killer]] (1989), playing Lieutenant Jake Styles.[^ref-2] His versatility was evident as he transitioned seamlessly between animation, art direction, and even acting roles within productions.
 
 #### Adventure Game Era (1990–1991)
 
-During Dynamix's golden age of adventure games, Hahn served as an artist on several landmark titles. He contributed to [[1990 - Rise of the Dragon\|Rise of the Dragon]] (1990), the cyberpunk adventure that showcased Dynamix's cinematic approach to game design.[^ref-2] He also worked on [[1991 - Heart of China\|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] (1991), the latter being a comedic adventure about a young boy with dreams of video game stardom.[^ref-2][^ref-4]
+During Dynamix's golden age of adventure games, Hahn served as an artist on several landmark titles. He contributed to [[1990 - Rise of the Dragon|Rise of the Dragon]] (1990), the cyberpunk adventure that showcased Dynamix's cinematic approach to game design.[^ref-2] He also worked on [[1991 - Heart of China|Heart of China]] (1991) and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] (1991), the latter being a comedic adventure about a young boy with dreams of video game stardom.[^ref-2][^ref-4]
 
-Additional work during this period included [[1990 - Stellar 7\|Stellar 7]] (1990) and [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] (1991), where he served as an EGA artist.[^ref-2]
+Additional work during this period included [[1990 - Stellar 7|Stellar 7]] (1990) and [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] (1991), where he served as an EGA artist.[^ref-2]
 
 #### The Incredible Machine Era (1992–1995)
 
-The pinnacle of Hahn's career came with his work on [[1992 - The Incredible Machine\|The Incredible Machine]] (1992), a physics-based puzzle game that challenged players to create Rube Goldberg-style contraptions.[^ref-2] Serving as both designer and art director, Hahn helped create what would become one of the most beloved puzzle franchises of the 1990s, with lasting influence on educational gaming.[^ref-3]
+The pinnacle of Hahn's career came with his work on [[1992 - The Incredible Machine|The Incredible Machine]] (1992), a physics-based puzzle game that challenged players to create Rube Goldberg-style contraptions.[^ref-2] Serving as both designer and art director, Hahn helped create what would become one of the most beloved puzzle franchises of the 1990s, with lasting influence on educational gaming.[^ref-3]
 
 That same year, Hahn served as art director and contributed gags for Johnny Castaway (1992), a revolutionary screensaver featuring an animated castaway stranded on a tiny island.[^ref-1] The screensaver became a cultural phenomenon and is remembered as one of the most creative desktop diversions of the era.
 
 Hahn also art-directed educational titles including Quarky & Quaysoo's Turbo Science (1992), which taught scientific concepts through puzzles, and Turbo Learning: Mega Math (1993).[^ref-1][^ref-2]
 
-The success of The Incredible Machine led to multiple sequels and spin-offs: [[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] (1993), The Even More! Incredible Machine (1993), [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] (1994), and [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] (1994).[^ref-2] On several of these titles, Hahn wore multiple hats—serving as designer, art director, and even contributing music and sound effects for Sid & Al's Incredible Toons and The Incredible Toon Machine.[^ref-1][^ref-2]
+The success of The Incredible Machine led to multiple sequels and spin-offs: [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] (1993), The Even More! Incredible Machine (1993), [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] (1994), and [[1994 - The Incredible Machine 2|The Incredible Machine 2]] (1994).[^ref-2] On several of these titles, Hahn wore multiple hats—serving as designer, art director, and even contributing music and sound effects for Sid & Al's Incredible Toons and The Incredible Toon Machine.[^ref-1][^ref-2]
 
 He also art-directed Trophy Bass (1995), beginning his association with Sierra's fishing simulation franchise.[^ref-1]
 
 #### Later Sierra Era (1996–2001)
 
-After the Incredible Machine series established its legacy, Hahn continued as a senior art director at Sierra/Dynamix on diverse projects. He art-directed [[1996 - Hunter Hunted\|Hunter Hunted]] (1996), a side-scrolling action game, and oversaw the visual design of the 3-D Ultra series of casual games.[^ref-2]
+After the Incredible Machine series established its legacy, Hahn continued as a senior art director at Sierra/Dynamix on diverse projects. He art-directed [[1996 - Hunter Hunted|Hunter Hunted]] (1996), a side-scrolling action game, and oversaw the visual design of the 3-D Ultra series of casual games.[^ref-2]
 
 His work on the 3-D Ultra franchise included:
 - 3-D Ultra Minigolf (1997) as Art Director[^ref-2]
@@ -61,7 +61,7 @@ His work on the 3-D Ultra franchise included:
 
 He also continued contributing to the Trophy Bass series with Front Page Sports: Trophy Rivers (1997).[^ref-2]
 
-Hahn's final Sierra projects brought his career with The Incredible Machine full circle. [[2000 - Return of The Incredible Machine - Contraptions\|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director, also creating the box art for Contraptions.[^ref-2] He left Dynamix in October 2001 after nearly fourteen years with the company.[^ref-1]
+Hahn's final Sierra projects brought his career with The Incredible Machine full circle. [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] (2000) and [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] (2001) saw him return as designer and art director, also creating the box art for Contraptions.[^ref-2] He left Dynamix in October 2001 after nearly fourteen years with the company.[^ref-1]
 
 ### Post-Dynamix (2002)
 
@@ -90,7 +90,7 @@ Hahn currently lives in Eugene, Oregon, where he operates his own graphic design
 
 ### The Incredible Machine (1992)
 
-[[1992 - The Incredible Machine\|The Incredible Machine]] stands as Hahn's masterpiece and most enduring contribution to video game history.[^ref-2] This physics-based puzzle game challenged players to create elaborate Rube Goldberg-style contraptions using everyday objects—bowling balls, trampolines, conveyor belts, cats, and candles—to accomplish simple goals like popping balloons or helping mice reach cheese.[^ref-3]
+[[1992 - The Incredible Machine|The Incredible Machine]] stands as Hahn's masterpiece and most enduring contribution to video game history.[^ref-2] This physics-based puzzle game challenged players to create elaborate Rube Goldberg-style contraptions using everyday objects—bowling balls, trampolines, conveyor belts, cats, and candles—to accomplish simple goals like popping balloons or helping mice reach cheese.[^ref-3]
 
 The game's genius lay in its open-ended design philosophy, offering players virtually unlimited ways to solve each puzzle. This approach made it equally appealing to children learning cause-and-effect relationships and adults enjoying creative problem-solving. The Incredible Machine became a staple in schools and homes, helping establish video games as legitimate educational tools.[^ref-3]
 
@@ -100,7 +100,7 @@ The Johnny Castaway screensaver, for which Hahn served as art director and contr
 
 ### Sid & Al's Incredible Toons (1993)
 
-[[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] reimagined The Incredible Machine concept with cartoon characters and scenarios inspired by classic animation.[^ref-2] Hahn served as designer, art director, and contributed music and sound effects, demonstrating his multifaceted talents. The game maintained the core puzzle mechanics while adding animated personalities and slapstick humor.[^ref-1]
+[[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] reimagined The Incredible Machine concept with cartoon characters and scenarios inspired by classic animation.[^ref-2] Hahn served as designer, art director, and contributed music and sound effects, demonstrating his multifaceted talents. The game maintained the core puzzle mechanics while adding animated personalities and slapstick humor.[^ref-1]
 
 ## Design Philosophy
 
@@ -122,56 +122,48 @@ The enduring popularity of his work, particularly The Incredible Machine series,
 
 ### Early Career (1985–1989)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1985 | Dave Winfield's Batter Up! | C64 Graphics |
-| 1988 | Caveman Ugh-Lympics | Graphics, Animation |
-| 1989 | Motocross | Graphics, Artwork |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Animation, Voice Actor (Dr. Johnson) |
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Voice Actor (Lt. Jake Styles) |
-| 1989 | Ghostbusters II | Art, Art Director, Animator |
+- 1985 — Dave Winfield's Batter Up! — C64 Graphics
+- 1988 — Caveman Ugh-Lympics — Graphics, Animation
+- 1989 — Motocross — Graphics, Artwork
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Animation, Voice Actor (Dr. Johnson)
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Voice Actor (Lt. Jake Styles)
+- 1989 — Ghostbusters II — Art, Art Director, Animator
 
 ### Adventure Era (1990–1992)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Artist |
-| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Artist |
-| 1991 | [[1991 - Heart of China\|Heart of China]] | Artist |
-| 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Artist |
-| 1991 | [[1991 - Nova 9 - The Return of Gir Draxon\|Nova 9: The Return of Gir Draxon]] | EGA Artist |
-| 1991 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer v1.5]] | Voice Actor (Lt. Jake Styles) |
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Artist
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Artist
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Artist
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Artist
+- **1991** — [[1991 - Nova 9 - The Return of Gir Draxon|Nova 9: The Return of Gir Draxon]] — Role: EGA Artist
+- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Role: Voice Actor (Lt. Jake Styles)
 
 ### The Incredible Machine Era (1992–1995)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - Quarky & Quaysoo's Turbo Science\|Quarky & Quaysoo's Turbo Science]] | Art Director |
-| 1992 | [[1992 - Johnny Castaway\|Johnny Castaway]] | Art Director, Gags |
-| 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Designer, Art Director |
-| 1993 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] | Art Director |
-| 1993 | [[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] | Designer, Art Director, Music, Sound Effects |
-| 1993 | [[1993 - The Even More Incredible Machine\|The Even More! Incredible Machine]] | Art Director |
-| 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Designer, Art Director, Music, Sound Effects |
-| 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Original Designer, Art Director |
-| 1995 | [[1995 - Trophy Bass\|Trophy Bass]] | Art Director |
+- **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Role: Art Director
+- **1992** — [[1992 - Johnny Castaway|Johnny Castaway]] — Role: Art Director, Gags
+- **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Designer, Art Director
+- **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Role: Art Director
+- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designer, Art Director, Music, Sound Effects
+- **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Art Director
+- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Designer, Art Director, Music, Sound Effects
+- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Original Designer, Art Director
+- **1995** — [[1995 - Trophy Bass|Trophy Bass]] — Role: Art Director
 
 ### Later Sierra Era (1996–2001)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1996 | [[1996 - Hunter Hunted\|Hunter Hunted]] | Art Director |
-| 1997 | [[1997 - Front Page Sports - Trophy Rivers\|Front Page Sports: Trophy Rivers]] | Art Director |
-| 1997 | [[1997 - 3-D Ultra MiniGolf\|3-D Ultra Minigolf]] | Art Director |
-| 1998 | [[1998 - 3-D Ultra MiniGolf Deluxe\|3-D Ultra MiniGolf Deluxe]] | Managing Art Director |
-| 1999 | [[1998 - 3-D Ultra NASCAR Pinball\|3-D Ultra NASCAR Pinball]] | Managing Art Director |
-| 1999 | [[1999 - 3-D Ultra Radio Control Racers\|3-D Ultra Radio Control Racers]] | Special Thanks |
-| 1999 | [[1999 - Field & Stream - Trophy Bass 3D\|Field & Stream: Trophy Bass 3D]] | Past Contributions |
-| 2000 | [[2000 - Return of The Incredible Machine - Contraptions\|Return of the Incredible Machine: Contraptions]] | Designer, Art Director, Box Art |
-| 2000 | [[2000 - 3-D Ultra Pinball - Thrill Ride\|3-D Ultra Pinball: Thrillride]] | Art Assistance |
-| 2000 | [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition\|3-D Ultra Radio Control Racers Deluxe]] | Art Special Thanks |
-| 2000 | [[2000 - Field & Stream - Trophy Bass 4\|Field & Stream: Trophy Bass 4]] | Past Contributions |
-| 2001 | [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] | Designer, Art Director |
+- **1996** — [[1996 - Hunter Hunted|Hunter Hunted]] — Role: Art Director
+- **1997** — [[1997 - Front Page Sports - Trophy Rivers|Front Page Sports: Trophy Rivers]] — Role: Art Director
+- **1997** — [[1997 - 3-D Ultra MiniGolf|3-D Ultra Minigolf]] — Role: Art Director
+- **1998** — [[1998 - 3-D Ultra MiniGolf Deluxe|3-D Ultra MiniGolf Deluxe]] — Role: Managing Art Director
+- **1999** — [[1998 - 3-D Ultra NASCAR Pinball|3-D Ultra NASCAR Pinball]] — Role: Managing Art Director
+- **1999** — [[1999 - 3-D Ultra Radio Control Racers|3-D Ultra Radio Control Racers]] — Role: Special Thanks
+- **1999** — [[1999 - Field & Stream - Trophy Bass 3D|Field & Stream: Trophy Bass 3D]] — Role: Past Contributions
+- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of the Incredible Machine: Contraptions]] — Role: Designer, Art Director, Box Art
+- **2000** — [[2000 - 3-D Ultra Pinball - Thrill Ride|3-D Ultra Pinball: Thrillride]] — Role: Art Assistance
+- **2000** — [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition|3-D Ultra Radio Control Racers Deluxe]] — Role: Art Special Thanks
+- **2000** — [[2000 - Field & Stream - Trophy Bass 4|Field & Stream: Trophy Bass 4]] — Role: Past Contributions
+- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Role: Designer, Art Director
 
 ### Post-Dynamix (2002)
 

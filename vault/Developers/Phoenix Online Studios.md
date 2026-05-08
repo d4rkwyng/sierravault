@@ -60,10 +60,8 @@ Phoenix Online Studios has established itself as a crucial bridge between the cl
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2010 | [[2010 - The Silver Lining\|The Silver Lining]] | Adventure |
-| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Adventure |
+- **2010** — [[2010 - The Silver Lining|The Silver Lining]] — Genre: Adventure
+- **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Genre: Adventure
 
 ## References
 

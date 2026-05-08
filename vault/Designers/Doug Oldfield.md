@@ -37,23 +37,23 @@ Oldfield continued with Sierra through the mid-1990s, contributing to titles inc
 
 ### Space Quest III: The Pirates of Pestulon (1989)
 
-Oldfield's most famous contribution to [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]] came not from his programming duties but from his side project "Chicken Lander."[^ref-3] This lunar lander-style game became the inspiration for Astro Chicken, the arcade game hidden within Space Quest III that players must master to decode a secret message.[^ref-3] The minigame became one of Sierra's most memorable Easter eggs and demonstrates the creative freedom Sierra programmers enjoyed.
+Oldfield's most famous contribution to [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] came not from his programming duties but from his side project "Chicken Lander."[^ref-3] This lunar lander-style game became the inspiration for Astro Chicken, the arcade game hidden within Space Quest III that players must master to decode a secret message.[^ref-3] The minigame became one of Sierra's most memorable Easter eggs and demonstrates the creative freedom Sierra programmers enjoyed.
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]], Oldfield worked alongside programmers Oliver Brelsford, Juan Carlos Escobar, Chris Hoyt, Raoul Said, and Robert Lindsley to implement Sierra's first fully VGA adventure game.[^ref-8] The technical challenges of the production included implementing the new point-and-click interface and supporting the hand-painted backgrounds that made KQ5 a visual landmark.
+On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], Oldfield worked alongside programmers Oliver Brelsford, Juan Carlos Escobar, Chris Hoyt, Raoul Said, and Robert Lindsley to implement Sierra's first fully VGA adventure game.[^ref-8] The technical challenges of the production included implementing the new point-and-click interface and supporting the hand-painted backgrounds that made KQ5 a visual landmark.
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-Oldfield contributed programming to [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]], working with Randy MacNeill, Robert L. Mallory, Victor Sadauskas, and Carlo Escobar under lead programmer Robert Lindsley.[^ref-5] The game pushed Sierra's technology further with lip-sync animations and an expanded scope that made it one of the company's most ambitious productions.
+Oldfield contributed programming to [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], working with Randy MacNeill, Robert L. Mallory, Victor Sadauskas, and Carlo Escobar under lead programmer Robert Lindsley.[^ref-5] The game pushed Sierra's technology further with lip-sync animations and an expanded scope that made it one of the company's most ambitious productions.
 
 ### Conquests of Camelot: The Search for the Grail (1990)
 
-On [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]], Oldfield worked as part of the programming team led by David Slayback, alongside Robert Fischbach, Jerry Shaw, and Eric Hart.[^ref-9] The game featured Christy Marx's intricate Arthurian story and Peter Ledger's distinctive artwork.
+On [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]], Oldfield worked as part of the programming team led by David Slayback, alongside Robert Fischbach, Jerry Shaw, and Eric Hart.[^ref-9] The game featured Christy Marx's intricate Arthurian story and Peter Ledger's distinctive artwork.
 
 ### EcoQuest 2: Lost Secret of the Rainforest (1993)
 
-Oldfield co-led programming on [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2]] with Bob Fischbach, implementing the rainforest exploration and educational content that defined Sierra's environmental adventure series.[^ref-10]
+Oldfield co-led programming on [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2]] with Bob Fischbach, implementing the rainforest exploration and educational content that defined Sierra's environmental adventure series.[^ref-10]
 
 ## Legacy
 
@@ -65,26 +65,24 @@ The Astro Chicken minigame remains his most visible creative contribution, prese
 
 ### Sierra On-Line (1988–1998)
 
-| Year | Title | Role |
-|------|------|------|
-| 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] | Programmer |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Programmer, Astro Chicken Creator |
-| 1989 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] (ports) | Programmer |
-| 1990 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] | Lead Programmer |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Programmer |
-| 1990 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] (Apple II) | Programmer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Programmer |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Programmer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Lead Programmer |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Programmer |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Lead Programmer |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Programmer |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Programmer |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Programmer |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Programmer |
-| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Programmer |
-| 1996 | [[1996 - Lighthouse - The Dark Being\|Lighthouse: The Dark Being]] | Programmer |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Programmer |
+- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Role: Programmer
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Programmer, Astro Chicken Creator
+- **1989** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] (ports) — Role: Programmer
+- **1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Lead Programmer
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Programmer
+- **1990** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] (Apple II) — Role: Programmer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Programmer
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Programmer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Lead Programmer
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Programmer
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Role: Lead Programmer
+- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Role: Programmer
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Programmer
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Programmer
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Programmer
+- **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Role: Programmer
+- **1996** — [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]] — Role: Programmer
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: Programmer
 
 ## References
 

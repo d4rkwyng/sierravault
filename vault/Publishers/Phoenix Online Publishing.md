@@ -18,16 +18,14 @@ Phoenix Online Publishing is the publishing division of Phoenix Online Studios, 
 
 Phoenix Online Publishing has deep roots in Sierra's legacy. The studio began as the team behind *The Silver Lining*, an ambitious fan-made continuation of the King's Quest series that was eventually released with Activision's blessing in 2010.
 
-The publishing arm later partnered with legendary Sierra designer [[Designers/Jane Jensen\|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.
+The publishing arm later partnered with legendary Sierra designer [[Designers/Jane Jensen|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Original Phoenix Online IP |
-| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers 20th Anniversary]] | Jane Jensen remake |
-| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Jane Jensen original |
-| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Published for Infamous Quests |
+- **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Notes: Original Phoenix Online IP
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers 20th Anniversary]] — Notes: Jane Jensen remake
+- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Notes: Jane Jensen original
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Published for Infamous Quests
 
 ## Key People
 
@@ -35,9 +33,9 @@ Phoenix Online's team includes former Sierra fan community members who transitio
 
 ## Related
 
-- **Designer Partner:** [[Designers/Jane Jensen\|Jane Jensen]]
-- **Published Developer:** [[Publishers/Infamous Quests\|Infamous Quests]]
-- **Fan Project:** [[2010 - The Silver Lining\|The Silver Lining]]
+- **Designer Partner:** [[Designers/Jane Jensen|Jane Jensen]]
+- **Published Developer:** [[Publishers/Infamous Quests|Infamous Quests]]
+- **Fan Project:** [[2010 - The Silver Lining|The Silver Lining]]
 
 ## References
 

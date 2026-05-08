@@ -120,10 +120,8 @@ As of March 2026, the SCP continues development on additional game enhancements,
 
 ## Projects in Development
 
-| Game | Progress | Notes |
-|------|----------|-------|
-| **[[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]]** | 90% | Near completion[^ref-2] |
-| **Space Quest IV** (Full Remaster) | 75% | Extended enhancement beyond initial release[^ref-2] |
+- **[[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]]** — Progress: 90%, Notes: Near completion[^ref-2]
+- **Space Quest IV** (Full Remaster) — 75% — Extended enhancement beyond initial release[^ref-2]
 
 ## Technical Approach
 

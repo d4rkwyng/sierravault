@@ -64,17 +64,15 @@ The company's evolution into Sierra On-Line created one of the most influential 
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Adventure |
-| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Sports Simulation |
-| 1980 | [[1980 - Hi-Res Soccer\|Hi-Res Soccer]] | Sports Simulation |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Adventure |
-| 1981 | [[1981 - Jawbreaker\|Jawbreaker]] | Arcade |
-| 1981 | [[1981 - Threshold\|Threshold]] | Shoot 'em up |
-| 1982 | [[1982 - Cannonball Blitz\|Cannonball Blitz]] | Arcade |
-| 1982 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | Adventure |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Adventure |
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Genre: Adventure
+- **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Genre: Sports Simulation
+- **1980** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports Simulation
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Genre: Adventure
+- **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
+- **1981** — [[1981 - Threshold|Threshold]] — Genre: Shoot 'em up
+- **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Genre: Arcade
+- **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] — Genre: Adventure
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Genre: Adventure
 
 ## References
 

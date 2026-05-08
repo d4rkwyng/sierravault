@@ -104,38 +104,30 @@ Beyond gaming, Benton's career trajectory exemplifies the entrepreneurial spirit
 
 ### Blue Sky Software / Independent (1981–1982)
 
-| Year | Title | Platform | Role |
-|------|-------|----------|------|
-| 1981 | [[1981 - Softporn Adventure\|Softporn Adventure]] | Apple II, Atari 8-bit | Designer, Programmer |
-| 1982 | Jump Jet | Apple II | Designer, Programmer |
+- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Platform: Apple II, Atari 8-bit, Role: Designer, Programmer
+- 1982 — Jump Jet — Apple II — Designer, Programmer
 
 ### Sierra On-Line Contract Work (1981–1986)
 
-| Year | Title | Platform | Role |
-|------|-------|----------|------|
-| 1981 | [[1981 - Crossfire\|Crossfire]] | Commodore 64 | Programmer |
-| 1982 | Frogger | Atari 8-bit | Programmer |
-| 1983 | Frogger | Commodore 64 | Programmer |
-| 1983 | [[1983 - BC's Quest for Tires\|BC's Quest for Tires]] | Atari 8-bit | Programmer |
-| 1984 | [[1983 - BC's Quest for Tires\|BC's Quest for Tires]] | Commodore 64 | Programmer |
-| 1984 | [[1984 - Wizard of Id's WizType\|Wizard of Id's WizType]] | Apple II | Programmer |
-| 1984 | [[1984 - Wizard of Id's WizMath\|Wizard of Id's WizMath]] | Apple II | Programmer |
-| 1984 | [[1984 - Donald Duck's Playground\|Donald Duck's Playground]] | Commodore 64 | Programmer |
-| 1986 | The American Challenge: A Sailing Simulation | DOS | IBM Programmer |
+- **1981** — [[1981 - Crossfire|Crossfire]] — Platform: Commodore 64, Role: Programmer
+- 1982 — Frogger — Atari 8-bit — Programmer
+- 1983 — Frogger — Commodore 64 — Programmer
+- **1983** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Atari 8-bit, Role: Programmer
+- **1984** — [[1983 - BC's Quest for Tires|BC's Quest for Tires]] — Platform: Commodore 64, Role: Programmer
+- **1984** — [[1984 - Wizard of Id's WizType|Wizard of Id's WizType]] — Platform: Apple II, Role: Programmer
+- **1984** — [[1984 - Wizard of Id's WizMath|Wizard of Id's WizMath]] — Platform: Apple II, Role: Programmer
+- **1984** — [[1984 - Donald Duck's Playground|Donald Duck's Playground]] — Platform: Commodore 64, Role: Programmer
+- 1986 — The American Challenge: A Sailing Simulation — DOS — IBM Programmer
 
 ### Original Concept Credits (1987–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Original Concept |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Original Concept |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Original Concept |
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Original Concept
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Role: Original Concept
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] — Role: Original Concept
 
 ### Later Acknowledgments (2018)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2018 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Leisure Suit Larry: Wet Dreams Don't Dry]] | Special Thanks |
+- **2018** — [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Leisure Suit Larry: Wet Dreams Don't Dry]] — Role: Special Thanks
 
 ## References
 

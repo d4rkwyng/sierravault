@@ -171,7 +171,7 @@ The game has been re-released digitally through various platforms. It is availab
 
 ### Fan Projects
 
-The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio, releasing it on both Steam and itch.io[^ref-24]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment ([[2026 - Gobliins 6\|Gobliins 6]]) releases in 2026[^ref-24]. Community opinions on Gobliiins 4 (developed without Gilhodes' direct involvement) have been mixed, with some fans considering it "a 3D mistake"[^ref-13].
+The Gobliiins series has inspired continued development. Pierre Gilhodes himself created Gobliiins 5: The Morgloton Invasion using Adventure Game Studio, releasing it on both Steam and itch.io[^ref-24]. Gilhodes describes it as "a great adventure in 2D for all ages. 16 big levels full of puzzles"[^ref-24]. A sixth installment ([[2026 - Gobliins 6|Gobliins 6]]) releases in 2026[^ref-24]. Community opinions on Gobliiins 4 (developed without Gilhodes' direct involvement) have been mixed, with some fans considering it "a 3D mistake"[^ref-13].
 
 ### Related Publications
 

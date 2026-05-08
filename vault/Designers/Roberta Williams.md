@@ -29,9 +29,9 @@ Drawing inspiration from Agatha Christie's "And Then There Were None," Williams 
 
 ### Sierra Years (1980–1999)
 
-Following the success of Mystery House, the Williams founded On-Line Systems in 1980, which later became Sierra On-Line.[^ref-15] Roberta quickly established herself as the company's primary adventure game designer, creating the Hi-Res Adventures series between 1980 and 1982.[^ref-16] Her early games included [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|The Wizard and the Princess]] (1980), which was notable for being one of the first adventure games to feature color graphics.[^ref-17]
+Following the success of Mystery House, the Williams founded On-Line Systems in 1980, which later became Sierra On-Line.[^ref-15] Roberta quickly established herself as the company's primary adventure game designer, creating the Hi-Res Adventures series between 1980 and 1982.[^ref-16] Her early games included [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|The Wizard and the Princess]] (1980), which was notable for being one of the first adventure games to feature color graphics.[^ref-17]
 
-Williams' masterpiece came in 1984 with the release of [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]], developed in partnership with IBM to showcase the capabilities of their PCjr computer.[^ref-18] The game represented a quantum leap forward in adventure gaming, featuring animated graphics, a walking character controlled by the player, and a rich fantasy world. Williams explained her design philosophy: "The first King's Quest was really a compendium of many of the most common fairy tales, and, really was nothing but a big fairy tale that someone could directly experience in a very interactive way instead of in the old passive way of books, movies, or oral tales."[^ref-6]
+Williams' masterpiece came in 1984 with the release of [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]], developed in partnership with IBM to showcase the capabilities of their PCjr computer.[^ref-18] The game represented a quantum leap forward in adventure gaming, featuring animated graphics, a walking character controlled by the player, and a rich fantasy world. Williams explained her design philosophy: "The first King's Quest was really a compendium of many of the most common fairy tales, and, really was nothing but a big fairy tale that someone could directly experience in a very interactive way instead of in the old passive way of books, movies, or oral tales."[^ref-6]
 
 The King's Quest series became Sierra's flagship franchise, with Williams designing seven main entries through 1998. Each game pushed technological boundaries while maintaining her commitment to storytelling rooted in fairy tale traditions.[^ref-6] Her approach was deeply personal: "As a young girl, I always had enjoyed the old fairy tales of yore. I read them and re-read them. Therefore, when thinking about designing a game, I naturally gravitated to what I liked and felt comfortable with."[^ref-6]
 
@@ -45,15 +45,15 @@ Regarding her return project, Williams was careful to clarify her role: "I'm not
 
 ### Mystery House (1980)
 
-[[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] stands as one of the most important games in computer gaming history, representing the birth of the graphic adventure genre. Williams designed this murder mystery game inspired by Agatha Christie's "And Then There Were None," featuring simple but revolutionary line-drawn graphics that accompanied the traditional text-based adventure gameplay.[^ref-1] The game's success demonstrated that there was a market for more sophisticated home computer games and established Williams as a pioneer in interactive entertainment.[^ref-5]
+[[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] stands as one of the most important games in computer gaming history, representing the birth of the graphic adventure genre. Williams designed this murder mystery game inspired by Agatha Christie's "And Then There Were None," featuring simple but revolutionary line-drawn graphics that accompanied the traditional text-based adventure gameplay.[^ref-1] The game's success demonstrated that there was a market for more sophisticated home computer games and established Williams as a pioneer in interactive entertainment.[^ref-5]
 
 ### King's Quest (1984)
 
-[[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] transformed adventure gaming by introducing animated graphics, a player-controlled character, and a rich fantasy world inspired by classic fairy tales. Developed in partnership with IBM, the game showcased the potential of personal computers for sophisticated gaming experiences.[^ref-2] Williams' design philosophy of creating "a big fairy tale that someone could directly experience in a very interactive way" became the template for countless future adventure games.[^ref-6]
+[[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] transformed adventure gaming by introducing animated graphics, a player-controlled character, and a rich fantasy world inspired by classic fairy tales. Developed in partnership with IBM, the game showcased the potential of personal computers for sophisticated gaming experiences.[^ref-2] Williams' design philosophy of creating "a big fairy tale that someone could directly experience in a very interactive way" became the template for countless future adventure games.[^ref-6]
 
 ### Phantasmagoria (1995)
 
-[[1995 - Phantasmagoria\|Phantasmagoria]] represented Williams' boldest and most controversial project, a full-motion video horror game that pushed the boundaries of mature content in gaming. The game required seven CD-ROMs and featured live actors, representing a massive technical and creative undertaking that demonstrated Sierra's commitment to pushing technological boundaries.[^ref-15] Despite controversy over its violent and sexual content, Phantasmagoria became one of Sierra's best-selling games and showcased Williams' willingness to explore darker, more adult themes in interactive entertainment.[^ref-8]
+[[1995 - Phantasmagoria|Phantasmagoria]] represented Williams' boldest and most controversial project, a full-motion video horror game that pushed the boundaries of mature content in gaming. The game required seven CD-ROMs and featured live actors, representing a massive technical and creative undertaking that demonstrated Sierra's commitment to pushing technological boundaries.[^ref-15] Despite controversy over its violent and sexual content, Phantasmagoria became one of Sierra's best-selling games and showcased Williams' willingness to explore darker, more adult themes in interactive entertainment.[^ref-8]
 
 ## Design Philosophy
 
@@ -77,39 +77,35 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 
 ### On-Line Systems / Sierra On-Line (1980–1999)
 
-| Year | Title | Role |
-|------|------|------|
-| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | Designer |
-| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Designer |
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Designer |
-| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure 3: Cranston Manor]] | Designer |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Designer |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Designer |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Designer |
-| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Designer |
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Designer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Designer |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Designer |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Designer |
-| 1987 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] | Designer |
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Designer |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Designer |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown (VGA)]] | Designer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Designer, Voice Actor |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Designer, Voice Actor |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Creative Consultant |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Designer, Writer, Director |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Designer, Director |
-| 1995 | [[1995 - Mixed-Up Mother Goose Deluxe\|Mixed-Up Mother Goose Deluxe]] | Designer |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Designer, Director, Producer, Writer |
-| 1995 | [[1995 - Shivers\|Shivers]] | Script Writer, Creative Consultant |
-| 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Designer |
+- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0: Mission Asteroid]] — Role: Designer
+- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Role: Designer
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Role: Designer
+- **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3: Cranston Manor]] — Role: Designer
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Role: Designer
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Role: Designer
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure 6: The Dark Crystal]] — Role: Designer
+- **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Role: Designer
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: Designer
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Designer
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Designer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Designer
+- **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] — Role: Designer
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Designer
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Designer
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown (VGA)]] — Role: Designer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Designer, Voice Actor
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Designer, Voice Actor
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Creative Consultant
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Designer, Writer, Director
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Designer, Director
+- **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Role: Designer
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Designer, Director, Producer, Writer
+- **1995** — [[1995 - Shivers|Shivers]] — Role: Script Writer, Creative Consultant
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Role: Designer
 
 ### Post-Sierra (2023)
 
-| Year | Title | Role |
-|------|------|------|
-| 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Designer |
+- **2023** — [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — Role: Designer
 
 ## References
 

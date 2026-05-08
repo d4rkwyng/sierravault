@@ -21,7 +21,7 @@ As [[Ken Allen]] recalled about joining Sierra in 1989: "I became a musician at 
 
 Early Sierra games relied entirely on the PC's internal speaker, which could only produce single-voice square waves. Composers worked within severe constraints, using pseudo-layering and arpeggios to simulate multiple voices simultaneously.
 
-The [[2003 - Space Quest 0 - Replicated\|Space Quest 0]] developers noted that PC Speaker beeps "is not a bug, this is the way the games were made." Some games supported PCjr/Tandy 3-voice music with a white noise channel, offering slight improvements for those with the hardware.
+The [[2003 - Space Quest 0 - Replicated|Space Quest 0]] developers noted that PC Speaker beeps "is not a bug, this is the way the games were made." Some games supported PCjr/Tandy 3-voice music with a white noise channel, offering slight improvements for those with the hardware.
 
 ### FM Synthesis: AdLib and Sound Blaster (1987–1989)
 
@@ -31,28 +31,28 @@ The AdLib Music Synthesizer Card ($245) brought FM synthesis to PC gaming in 198
 
 The partnership between Sierra and Roland transformed PC game audio. Ken Williams secured this relationship after meeting a Roland representative at a trade show, enabling support for the MT-32 synthesizer's 32 simultaneous voices.[^ref-3]
 
-[[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] (1988) became the landmark title for this technology. Emmy-nominated composer William Goldstein created over 75 pieces of original music totaling forty minutes, with each of the 35 characters receiving their own theme.[^ref-3][^ref-4] Sierra's marketing asked: "Can a Computer Game Make a Person Cry?"[^ref-3]
+[[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] (1988) became the landmark title for this technology. Emmy-nominated composer William Goldstein created over 75 pieces of original music totaling forty minutes, with each of the 35 characters receiving their own theme.[^ref-3][^ref-4] Sierra's marketing asked: "Can a Computer Game Make a Person Cry?"[^ref-3]
 
 Ken Allen explained the technical challenges: "There were really only two types of sound cards when I started at Sierra, those that used FM synthesis (the kind used in the Yamaha DX7) and those that used Additive synthesis from Roland," requiring composers to adapt each song to play on five different playback devices.[^ref-5]
 
 **Notable MT-32 soundtracks:**
-- [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] – William Goldstein
-- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry II]] – [[Al Lowe]]
-- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] – [[Mark Seibert]], [[Ken Allen]]
-- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] – [[Ken Allen]]
-- [[1988 - Silpheed\|Silpheed]] – One reviewer declared: "If you're lucky enough to own an MT-32, your starship-blasting experience will be augmented by some of the most catchy music ever to be heard in a PC action game."
+- [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] – William Goldstein
+- [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II]] – [[Al Lowe]]
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] – [[Mark Seibert]], [[Ken Allen]]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] – [[Ken Allen]]
+- [[1988 - Silpheed|Silpheed]] – One reviewer declared: "If you're lucky enough to own an MT-32, your starship-blasting experience will be augmented by some of the most catchy music ever to be heard in a PC action game."
 
 ### General MIDI and Sound Canvas (1993–1996)
 
-Sierra transitioned to General MIDI compatibility with Roland Sound Canvas (SC-55) support, offering broader accessibility while maintaining quality. Games like [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas]] featured enhanced audio support for Roland SC-55 General MIDI and compatibility with SB32/AWE32/64 sound cards.
+Sierra transitioned to General MIDI compatibility with Roland Sound Canvas (SC-55) support, offering broader accessibility while maintaining quality. Games like [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]] featured enhanced audio support for Roland SC-55 General MIDI and compatibility with SB32/AWE32/64 sound cards.
 
 ### CD Audio Era (1995–1999)
 
 The move to CD-ROM enabled pre-recorded audio, fundamentally changing composition possibilities. [[Al Lowe]] celebrated this transition: "And then with Larry 7, we replaced MIDI music with real musicians. For me, as a musician, that was a wonderful treat. To be able to actually hire live musicians, set them up in a studio, record the soundtrack, and then play it back directly in the game was a big kick."[^ref-6]
 
-Ken Allen was instrumental in Sierra's adoption of "redbook audio" in CD-ROM games, with [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] being what he believed was the first game to use this technology.[^ref-5]
+Ken Allen was instrumental in Sierra's adoption of "redbook audio" in CD-ROM games, with [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] being what he believed was the first game to use this technology.[^ref-5]
 
-For [[1995 - Phantasmagoria\|Phantasmagoria]], Mark Seibert and Jay Usher created a musical score that was recorded live with real instruments mixed with synthesized sounds—a significant departure from the purely electronic scores common at the time.[^ref-7] The music ranged from rock and roll to orchestral arrangements.[^ref-8]
+For [[1995 - Phantasmagoria|Phantasmagoria]], Mark Seibert and Jay Usher created a musical score that was recorded live with real instruments mixed with synthesized sounds—a significant departure from the purely electronic scores common at the time.[^ref-7] The music ranged from rock and roll to orchestral arrangements.[^ref-8]
 
 ## Key Composers
 
@@ -63,16 +63,14 @@ For [[1995 - Phantasmagoria\|Phantasmagoria]], Mark Seibert and Jay Usher create
 **Career highlights:**
 - Accumulated 159 credits across 54 games[^ref-11]
 - Promoted to producer in 1992, expanding beyond music to all aspects of production[^ref-8]
-- Composed "Girl in the Tower" for [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]], one of the most recognized pieces of video game music from the era[^ref-12]
+- Composed "Girl in the Tower" for [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], one of the most recognized pieces of video game music from the era[^ref-12]
 
 **Select credits:**
-| Year | Game | Role |
-|------|------|------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] | Music, Music Editor |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] | Music Director, Composer |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] | Music Director, Composer |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] | Music Director |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Producer, Music |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] — Role: Music, Music Editor
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Role: Music Director, Composer
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] — Role: Music Director, Composer
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] — Role: Music Director
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Role: Producer, Music
 
 ### Ken Allen (1989–1991)
 
@@ -84,12 +82,10 @@ For [[1995 - Phantasmagoria\|Phantasmagoria]], Mark Seibert and Jay Usher create
 - Pioneered redbook audio integration for CD-ROM games[^ref-5]
 
 **Select credits:**
-| Year | Game | Role |
-|------|------|------|
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Music, Sound |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] | Composer |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Music |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music |
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Music, Sound
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Role: Composer
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Music
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music
 
 Allen later noted that working on the Space Quest series was his favorite assignment at Sierra: "I don't think any other game has been able to match the quality humor in those gems. And I had composed my brains out for the two guys."[^ref-5]
 
@@ -99,19 +95,19 @@ Allen later noted that working on the Space Quest series was his favorite assign
 
 The Leisure Suit Larry theme song was based on "Alexander's Ragtime Band," chosen because Lowe felt "it sounded so unusual, so different, so fresh compared to most computer game music."[^ref-16] Created casually with the attitude of "what the hell? It was only for a computer game," Lowe later marveled that his "silly little ditty would be heard by millions of gamers, many of whom have sworn revenge against me for making it so 'whistle-able' that they can't get it out of their heads."[^ref-16]
 
-For [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Larry 6]], Lowe also performed alto saxophone on the opening theme.
+For [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Larry 6]], Lowe also performed alto saxophone on the opening theme.
 
 ### Robert Holmes – Gabriel Knight Series
 
-Robert Holmes composed the atmospheric soundtracks for the [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] trilogy, creating music that perfectly complemented Jane Jensen's supernatural mysteries.[^ref-17] Holmes married Jensen three years after the first game's release and would continue to compose for the entire series.[^ref-18]
+Robert Holmes composed the atmospheric soundtracks for the [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] trilogy, creating music that perfectly complemented Jane Jensen's supernatural mysteries.[^ref-17] Holmes married Jensen three years after the first game's release and would continue to compose for the entire series.[^ref-18]
 
-For [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within]], Holmes wrote the complete opera "Der Fluch Des Engelhart" with libretto by Jane Jensen—a remarkable achievement for a video game production.
+For [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within]], Holmes wrote the complete opera "Der Fluch Des Engelhart" with libretto by Jane Jensen—a remarkable achievement for a video game production.
 
 The gospel hymn "When the Saints Go Marching In" appears in every Gabriel Knight game in different remixes, serving as a musical throughline for the series.[^ref-19]
 
 ### William Goldstein – King's Quest IV
 
-Emmy-nominated composer William Goldstein, known for the Fame television series, created the groundbreaking score for [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]].[^ref-3] His contribution represented Sierra's first major investment in professional outside composition:
+Emmy-nominated composer William Goldstein, known for the Fame television series, created the groundbreaking score for [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]].[^ref-3] His contribution represented Sierra's first major investment in professional outside composition:
 
 - Over 75 pieces of original music
 - 40 minutes of total score
@@ -119,32 +115,32 @@ Emmy-nominated composer William Goldstein, known for the Fame television series,
 
 ### Christopher Braymen
 
-Chris Braymen contributed to several major Sierra titles, including the original soundtrack for [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] (with additional contributions from Dan Kehler and Mark Seibert), [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II]], and [[1991 - EcoQuest - The Search for Cetus\|EcoQuest]].[^ref-20]
+Chris Braymen contributed to several major Sierra titles, including the original soundtrack for [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] (with additional contributions from Dan Kehler and Mark Seibert), [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]], and [[1991 - EcoQuest - The Search for Cetus|EcoQuest]].[^ref-20]
 
 In March 2024, Two Guys Records released "King's Quest VI - An Ode to the Isles," a two-LP vinyl reorchestration featuring Braymen alongside Erik Elsom and Error 47.[^ref-21]
 
 ### Other Notable Composers
 
-- **Jay Usher** – [[1995 - Phantasmagoria\|Phantasmagoria]], [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]]
-- **Neal Grandstaff** – [[1994 - Outpost\|Outpost]], [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]], [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]]
-- **Craig Safan** – [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] (Emmy-nominated, Cheers theme songwriter)
-- **Mike Dana** – [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]]
-- **Dan Kehler** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]], [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]]
+- **Jay Usher** – [[1995 - Phantasmagoria|Phantasmagoria]], [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]]
+- **Neal Grandstaff** – [[1994 - Outpost|Outpost]], [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]], [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]]
+- **Craig Safan** – [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] (Emmy-nominated, Cheers theme songwriter)
+- **Mike Dana** – [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]]
+- **Dan Kehler** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]]
 
 ## Signature Themes and Memorable Pieces
 
 ### "Girl in the Tower" (King's Quest VI, 1992)
 
-The love theme from [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] became an unusual case study in video game marketing. Composed by Mark Seibert with lyrics by Jane Jensen and performed by Bob Bergthold and Debbie Seibert, the ballad was inspired by Cassima's theme from King's Quest V.[^ref-22]
+The love theme from [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] became an unusual case study in video game marketing. Composed by Mark Seibert with lyrics by Jane Jensen and performed by Bob Bergthold and Debbie Seibert, the ballad was inspired by Cassima's theme from King's Quest V.[^ref-22]
 
 Sierra attempted to promote the song through radio play, a bold experiment for game music at the time. Ken Williams envisioned the song becoming a radio hit comparable to popular movie tie-in ballads of the era. Sierra sent promotional CD singles to radio stations nationwide and included an 8-page pamphlet in every game box with phone numbers for major radio stations, urging customers to call and request the song.[^ref-23]
 
 The campaign backfired spectacularly. Program directors called Ken to complain and made vague legal threats about FCC laws. Ken agreed to pull the pamphlet from future boxes.[^ref-23] The original 1992 promo CD single now commands $28-50 on the collector market.[^ref-21]
 
 The song is referenced in multiple Sierra titles:
-- [[1995 - Torin's Passage\|Torin's Passage]] (behind theater curtain)
-- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] (phone number plays the song)
-- [[2015 - King's Quest\|King's Quest 2015]] (tapestry in Gwendolyn's room)
+- [[1995 - Torin's Passage|Torin's Passage]] (behind theater curtain)
+- [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] (phone number plays the song)
+- [[2015 - King's Quest|King's Quest 2015]] (tapestry in Gwendolyn's room)
 
 ### Leisure Suit Larry Theme
 
@@ -152,35 +148,35 @@ Al Lowe created the iconic theme on May 11, 1987, in just 20 minutes.[^ref-16] T
 
 ### King's Quest IV Score
 
-William Goldstein's score for [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] set new standards for game music. The Sierra Newsletter proclaimed the game showcased "40 minutes of the best sound available on any computer disk anywhere."[^ref-3]
+William Goldstein's score for [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] set new standards for game music. The Sierra Newsletter proclaimed the game showcased "40 minutes of the best sound available on any computer disk anywhere."[^ref-3]
 
 ### Gabriel Knight Jazz Themes
 
-Robert Holmes's New Orleans jazz-infused score for [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] established the atmospheric identity of the series.[^ref-17] The series won Computer Gaming World's Adventure Game of the Year in 1994.[^ref-17]
+Robert Holmes's New Orleans jazz-infused score for [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] established the atmospheric identity of the series.[^ref-17] The series won Computer Gaming World's Adventure Game of the Year in 1994.[^ref-17]
 
 ## Where to Listen Today
 
 ### Official Releases
 
 - **Xeen Music** – Licensed archival recordings using authentic Roland MT-32/SC-55 equipment[^ref-25]
-  - [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] MT-32 Archival Edition
-  - [[1994 - Outpost\|Outpost]] soundtrack (16-bit/44.1kHz quality)
+  - [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] MT-32 Archival Edition
+  - [[1994 - Outpost|Outpost]] soundtrack (16-bit/44.1kHz quality)
   
-- **Two Guys Records** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] "An Ode to the Isles" (2024, vinyl reorchestration)[^ref-21]
+- **Two Guys Records** – [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] "An Ode to the Isles" (2024, vinyl reorchestration)[^ref-21]
 
 - **Robert Holmes Bandcamp** – Gabriel Knight series soundtracks
 
-- **Austin Wintory Bandcamp** – [[2013 - Leisure Suit Larry - Reloaded\|Larry Reloaded]] soundtrack (Grammy-nominated composer)
+- **Austin Wintory Bandcamp** – [[2013 - Leisure Suit Larry - Reloaded|Larry Reloaded]] soundtrack (Grammy-nominated composer)
 
 ### Digital Archives
 
 - **Quest Studios / MIDI Music Adventures** – Digital soundtrack recordings with Roland MT-32 and Sound Canvas
   - Leisure Suit Larry series
-  - [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]]
+  - [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]]
 
 - **KHInsider** – Game soundtrack archives including:
-  - [[1990 - Zeliard\|Zeliard]] MT-32 recordings
-  - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|Wet Dreams Don't Dry]] (41 tracks, 1:11 runtime)
+  - [[1990 - Zeliard|Zeliard]] MT-32 recordings
+  - [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|Wet Dreams Don't Dry]] (41 tracks, 1:11 runtime)
 
 ### Ken Allen's Legacy
 
@@ -188,11 +184,11 @@ Allen launched a Kickstarter project titled "Under the Half Dome" to create "hig
 
 ## See Also
 
-- [[Designers/Mark Seibert\|Mark Seibert]]
-- [[Designers/Ken Allen\|Ken Allen]]
-- [[Designers/Al Lowe\|Al Lowe]]
-- [[Guides/Sierra History\|Sierra History]]
-- [[Guides/Engine Index\|Engine Index]]
+- [[Designers/Mark Seibert|Mark Seibert]]
+- [[Designers/Ken Allen|Ken Allen]]
+- [[Designers/Al Lowe|Al Lowe]]
+- [[Guides/Sierra History|Sierra History]]
+- [[Guides/Engine Index|Engine Index]]
 
 ## References
 

@@ -51,9 +51,9 @@ Perhaps the most lamented cancellation in Sierra history, Space Quest VII went t
 
 **The Strangest Fate:** Silicon Knights' 2007 King's Quest prototype was **physically destroyed** by court order after they lost a lawsuit to Epic Games over Unreal Engine source code misuse.[^ref-2]
 
-**What Survives:** [[2010 - The Silver Lining\|The Silver Lining]] began as "King's Quest IX: Every Cloak Has a Silver Lining" before receiving cease-and-desist letters and being forced to continue under a new name. Four of five planned episodes were released between 2010 and 2014.[^ref-7]
+**What Survives:** [[2010 - The Silver Lining|The Silver Lining]] began as "King's Quest IX: Every Cloak Has a Silver Lining" before receiving cease-and-desist letters and being forced to continue under a new name. Four of five planned episodes were released between 2010 and 2014.[^ref-7]
 
-The series eventually continued with [[2015 - King's Quest\|The Odd Gentlemen's 2015 reboot]], which developers explicitly stated was **not** King's Quest IX.[^ref-2]
+The series eventually continued with [[2015 - King's Quest|The Odd Gentlemen's 2015 reboot]], which developers explicitly stated was **not** King's Quest IX.[^ref-2]
 
 ---
 
@@ -67,9 +67,9 @@ Al Lowe's planned sequel would have taken Larry Laffer into space as the series'
 
 Al Lowe departed Sierra on February 22, 1999—the same "Chainsaw Monday" that claimed Space Quest VII. Shortly after, Sierra's adventure games department was disbanded entirely.[^ref-8]
 
-**What Survives:** Only very early test renders exist from the development period. An easter egg in [[1996 - Leisure Suit Larry 7 - Love for Sail\|Love for Sail!]] referenced the planned sequel.[^ref-8]
+**What Survives:** Only very early test renders exist from the development period. An easter egg in [[1996 - Leisure Suit Larry 7 - Love for Sail|Love for Sail!]] referenced the planned sequel.[^ref-8]
 
-**The Aftermath:** The Larry series would not continue until 2004's [[2004 - Leisure Suit Larry - Magna Cum Laude\|Magna Cum Laude]]—the first Larry game without Al Lowe's involvement, featuring a new protagonist (Larry Lovage) and a radically different tone.[^ref-10]
+**The Aftermath:** The Larry series would not continue until 2004's [[2004 - Leisure Suit Larry - Magna Cum Laude|Magna Cum Laude]]—the first Larry game without Al Lowe's involvement, featuring a new protagonist (Larry Lovage) and a radically different tone.[^ref-10]
 
 ---
 
@@ -103,7 +103,7 @@ In 2013, [[Jim Walls]]—creator of the Police Quest series—attempted to reviv
 
 ### SWAT: Urban Justice
 
-Sierra's planned fourth SWAT game, Urban Justice was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4\|SWAT 4]] from Irrational Games.[^ref-16]
+Sierra's planned fourth SWAT game, Urban Justice was meant to succeed [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] but was cancelled in favor of what became [[2005 - SWAT 4|SWAT 4]] from Irrational Games.[^ref-16]
 
 **What Happened:** Set in 2006 Los Angeles during the city's 225th anniversary, the game featured three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—in open warfare. After spending years in development limbo, Vivendi discontinued the project.[^ref-16]
 
@@ -130,7 +130,7 @@ Sierra's Middle Earth Online was one of the earliest attempts to bring Tolkien's
 
 The Manhunter series—Barry, Dave, and Dee Dee Murry's dark post-apocalyptic adventure games—was planned as a trilogy, but the third game was never made.[^ref-20]
 
-**What Happened:** A poster in [[1989 - Manhunter - San Francisco\|Manhunter 2]] advertised "Manhunter 3: London," teasing the planned sequel. However, the Murrys were convinced by Brøderbund to publish their next project (Ancient Art of War) through them instead of Sierra. Ken Williams refused to be the "high bidder," and the developers never returned.[^ref-21]
+**What Happened:** A poster in [[1989 - Manhunter - San Francisco|Manhunter 2]] advertised "Manhunter 3: London," teasing the planned sequel. However, the Murrys were convinced by Brøderbund to publish their next project (Ancient Art of War) through them instead of Sierra. Ken Williams refused to be the "high bidder," and the developers never returned.[^ref-21]
 
 **Revival Attempt:** In 2008, Dave "Mike" Murry was reportedly working on a Manhunter London game with a dual protagonist structure—playing as a new Manhunter in the first half and the original protagonist in the second. The project appears to have remained in development limbo.[^ref-22]
 
@@ -181,7 +181,7 @@ Several original Sierra designers launched Kickstarters to create spiritual succ
 
 ### Fan Projects
 
-The King's Quest community maintained hope through multiple cancelled official projects. [[2010 - The Silver Lining\|The Silver Lining]] came closest to being a "King's Quest IX," releasing four of five planned episodes before development stalled—though it was forced to drop the KQ name entirely.[^ref-7]
+The King's Quest community maintained hope through multiple cancelled official projects. [[2010 - The Silver Lining|The Silver Lining]] came closest to being a "King's Quest IX," releasing four of five planned episodes before development stalled—though it was forced to drop the KQ name entirely.[^ref-7]
 
 For Space Quest, the fan game "Space Quest: The Lost Chapter" attempted to fill the gap, though with mixed results.[^ref-3]
 
@@ -190,7 +190,7 @@ For Space Quest, the fan game "Space Quest: The Lost Chapter" attempted to fill 
 Some cancelled projects eventually led to official revivals in different forms:
 
 - **Middle Earth Online** → The Lord of the Rings Online (2007) (different developer, no permadeath)
-- **King's Quest IX** → [[2015 - King's Quest\|King's Quest (2015)]] (not considered KQ9)
+- **King's Quest IX** → [[2015 - King's Quest|King's Quest (2015)]] (not considered KQ9)
 - **SWAT: Urban Justice** → [[2005 - SWAT 4]] (different developer)
 
 ---

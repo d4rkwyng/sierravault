@@ -22,14 +22,12 @@ After Sierra's acquisition in 1997, Berkeley Systems continued operating as a su
 ## Games Published (Sierra Archive)
 
 ### After Dark Series
-| Year | Game | Notes |
-|------|------|-------|
-| 1989 | [[1989 - After Dark\|After Dark]] | Original screensaver collection |
-| 1991 | [[1991 - More After Dark\|More After Dark]] | Expansion pack |
+- **1989** — [[1989 - After Dark|After Dark]] — Notes: Original screensaver collection
+- **1991** — [[1991 - More After Dark|More After Dark]] — Notes: Expansion pack
 
 ## Related
 
-- **Parent Company:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Parent Company:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 

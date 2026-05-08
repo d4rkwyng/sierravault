@@ -29,7 +29,7 @@ The founding of Sierra On-Line represented Williams' vision of combining cutting
 
 Williams co-founded Sierra On-Line and served as its president and driving business force for over two decades.[^ref-6] His role at Sierra was multifaceted—while Roberta focused on game design and creative direction, Ken handled the technical implementation, business strategy, marketing, and overall company operations. As he described their working relationship: "We're each accustomed to being the final decision maker on everything we touch. We're mapped out territories where I make the decisions (implementation, finance, marketing) and where she makes the decisions (game design, art)."[^ref-8]
 
-Under Williams' leadership, Sierra pioneered the integration of graphics with text-based adventure gameplay, beginning with [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]] in 1980.[^ref-19] This innovation established what became known as the "Sierra style" and influenced competitors including Lucasfilm Games/LucasArts. Williams oversaw the development of multiple successful game series including the [[1984 - King's Quest - Quest for the Crown\|King's Quest]] series, [[1986 - Space Quest - The Sarien Encounter\|Space Quest]], [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest]], and [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry]].[^ref-17]
+Under Williams' leadership, Sierra pioneered the integration of graphics with text-based adventure gameplay, beginning with [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] in 1980.[^ref-19] This innovation established what became known as the "Sierra style" and influenced competitors including Lucasfilm Games/LucasArts. Williams oversaw the development of multiple successful game series including the [[1984 - King's Quest - Quest for the Crown|King's Quest]] series, [[1986 - Space Quest - The Sarien Encounter|Space Quest]], [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest]], and [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]].[^ref-17]
 
 The company's growth under Williams' direction was remarkable, expanding from a two-person operation to a major software publisher with hundreds of employees. However, this growth also led to challenges with venture capital and corporate ownership. As Williams later reflected, "Once we had accepted venture capital, it became like any other drug. No one stops after the first hit... We brought in a second round of venture capital."[^ref-2] The eventual sale of Sierra to CUC International in 1996 was something Williams came to regret deeply, particularly after the accounting scandal that engulfed CUC, which he described as being run by "crooks."[^ref-2]
 
@@ -41,17 +41,17 @@ After leaving Sierra following its sale, Williams and Roberta took an extended b
 
 Following his departure from Sierra, Williams founded Talkspot, an internet broadcasting company, before eventually returning to a quieter semi-retirement focused on travel, boating, and personal technology projects.[^ref-17] He remained active in the Sierra fan community, maintaining a blog and participating in discussions about the company's legacy.
 
-In 2022, Williams returned to game development alongside Roberta to create [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]], a modern 3D remake of the original text adventure that had inspired their careers decades earlier.[^ref-3] This project marked their first collaboration in over 40 years, with Williams handling the technical and business aspects while Roberta focused on design and artistic direction.[^ref-7] The project began as Williams' attempt at a small, personal endeavor: "The original vision for the game was that I'd do 100% of everything myself. I wanted it to be a nice, small, simple project," but eventually grew to involve a team of 15 people.[^ref-1]
+In 2022, Williams returned to game development alongside Roberta to create [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]], a modern 3D remake of the original text adventure that had inspired their careers decades earlier.[^ref-3] This project marked their first collaboration in over 40 years, with Williams handling the technical and business aspects while Roberta focused on design and artistic direction.[^ref-7] The project began as Williams' attempt at a small, personal endeavor: "The original vision for the game was that I'd do 100% of everything myself. I wanted it to be a nice, small, simple project," but eventually grew to involve a team of 15 people.[^ref-1]
 
 ## Notable Works
 
 ### Hi-Res Adventure 1: Mystery House (1980)
 
-Williams' first major contribution to gaming was the technical and business foundation for [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]], which combined Roberta's creative vision with his programming and business expertise.[^ref-19] While Roberta designed the game and created its graphics, Ken handled the technical implementation and distribution strategy. The game's success established the template for Sierra's future releases and demonstrated the commercial viability of graphic adventure games on personal computers.[^ref-18]
+Williams' first major contribution to gaming was the technical and business foundation for [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]], which combined Roberta's creative vision with his programming and business expertise.[^ref-19] While Roberta designed the game and created its graphics, Ken handled the technical implementation and distribution strategy. The game's success established the template for Sierra's future releases and demonstrated the commercial viability of graphic adventure games on personal computers.[^ref-18]
 
 ### King's Quest Series (1984–1994)
 
-Though primarily known for his business leadership rather than direct design work, Williams was instrumental in the development and success of the [[1984 - King's Quest - Quest for the Crown\|King's Quest]] series.[^ref-17] His business relationships, including partnerships with IBM and other technology companies, helped secure the resources and distribution channels necessary for the series' success. Williams oversaw the technical development of Sierra's SCI (Sierra Creative Interpreter) engine, which powered many of the later King's Quest games and became the foundation for most Sierra adventures throughout the 1980s and 1990s.[^ref-19]
+Though primarily known for his business leadership rather than direct design work, Williams was instrumental in the development and success of the [[1984 - King's Quest - Quest for the Crown|King's Quest]] series.[^ref-17] His business relationships, including partnerships with IBM and other technology companies, helped secure the resources and distribution channels necessary for the series' success. Williams oversaw the technical development of Sierra's SCI (Sierra Creative Interpreter) engine, which powered many of the later King's Quest games and became the foundation for most Sierra adventures throughout the 1980s and 1990s.[^ref-19]
 
 ### Colossal Cave 3D Adventure (2023)
 
@@ -77,74 +77,68 @@ Williams' business innovations, including early adoption of online distribution 
 
 ### Designer/Programmer (1980–1987)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Hi-Res Adventure 0: Mission Asteroid]] | Designer |
-| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Programmer |
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Designer |
-| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Programmer |
-| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Hi-Res Adventure 3: Cranston Manor]] | Programmer |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Designer |
-| 1981 | [[1981 - Softporn Adventure\|Softporn Adventure]] | Designer/Programmer |
-| 1981 | [[1981 - Threshold\|Threshold]] | Programmer |
-| 1982 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | Programmer |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Executive Producer |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Program Development |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Game Logic/Programmer |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Gaffer/Designer |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | Programmer |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Programmer |
-| 1987 | [[1987 - 3-D Helicopter Simulator\|Sierra's 3-D Helicopter Simulator]] | Development/Documentation |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Programmer |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Programmer |
+- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Hi-Res Adventure 0: Mission Asteroid]] — Role: Designer
+- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Role: Programmer
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Role: Designer
+- **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Role: Programmer
+- **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Hi-Res Adventure 3: Cranston Manor]] — Role: Programmer
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Role: Designer
+- **1981** — [[1981 - Softporn Adventure|Softporn Adventure]] — Role: Designer/Programmer
+- **1981** — [[1981 - Threshold|Threshold]] — Role: Programmer
+- **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] — Role: Programmer
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Role: Executive Producer
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure 6: The Dark Crystal]] — Role: Program Development
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Game Logic/Programmer
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Gaffer/Designer
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Programmer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Programmer
+- **1987** — [[1987 - 3-D Helicopter Simulator|Sierra's 3-D Helicopter Simulator]] — Role: Development/Documentation
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Programmer
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Programmer
 
 ### Executive Producer (1988–1996)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Executive Producer |
-| 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] | Producer |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Executive Producer |
-| 1988 | [[1988 - Silpheed\|Silpheed]] | Executive Producer |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Executive Producer |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Executive Producer |
-| 1989 | [[1989 - Manhunter - San Francisco\|Manhunter 2: San Francisco]] | Producer |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Executive Producer |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Executive Producer |
-| 1990 | [[1990 - Codename - Iceman\|Code-Name: ICEMAN]] | Executive Producer |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Executive Producer |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Executive Producer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Executive Producer |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI Remake)]] | Executive Producer |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Executive Producer |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Executive Producer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Executive Producer |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Executive Producer |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Executive Producer |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] | Executive Producer |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Executive Producer |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Executive Producer |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Executive Producer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest 3: The Kindred]] | Executive Producer |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] | Executive Producer |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Executive Producer |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Executive Producer |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Executive Producer |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Executive Producer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Executive Producer |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want To Be A Hero (VGA)]] | Executive Producer |
-| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Executive Producer |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Executive Producer |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Executive Producer |
-| 1996 | [[1996 - Hoyle Bridge\|Hoyle Bridge]] | Executive Producer |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Executive Producer |
-| 1996 | [[1996 - The Realm Online\|The Realm Online]] | Executive Producer |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Executive Producer
+- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Role: Producer
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Executive Producer
+- **1988** — [[1988 - Silpheed|Silpheed]] — Role: Executive Producer
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Role: Executive Producer
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Role: Executive Producer
+- **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] — Role: Producer
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Executive Producer
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Executive Producer
+- **1990** — [[1990 - Codename - Iceman|Code-Name: ICEMAN]] — Role: Executive Producer
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Role: Executive Producer
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Role: Executive Producer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Executive Producer
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Role: Executive Producer
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Executive Producer
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Executive Producer
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Role: Executive Producer
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Executive Producer
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Role: Executive Producer
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1: In the Land of the Lounge Lizards (VGA)]] — Role: Executive Producer
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Role: Executive Producer
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Executive Producer
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Executive Producer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest 3: The Kindred]] — Role: Executive Producer
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter (VGA)]] — Role: Executive Producer
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Executive Producer
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Executive Producer
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Executive Producer
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Executive Producer
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Executive Producer
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want To Be A Hero (VGA)]] — Role: Executive Producer
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Executive Producer
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Executive Producer
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Executive Producer
+- **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] — Role: Executive Producer
+- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Role: Executive Producer
+- **1996** — [[1996 - The Realm Online|The Realm Online]] — Role: Executive Producer
 
 ### Post-Sierra (2023)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2023 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Cygnus Entertainment | Lead Engineer, Executive Producer |
+- **2023** — [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — Company: Cygnus Entertainment, Role: Lead Engineer, Executive Producer
 
 ## References
 

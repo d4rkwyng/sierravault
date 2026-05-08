@@ -15,14 +15,12 @@ Sierra games were released across dozens of platforms from 1980 to present. This
 
 The original platforms for Sierra's adventure games.
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **Apple II** | 49 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]], [[1984 - King's Quest - Quest for the Crown\|King's Quest I]], all Hi-Res Adventures |
-| **IBM PC / PCjr** | 139+ | [[1984 - King's Quest - Quest for the Crown\|King's Quest I]] (PCjr launch title), entire Sierra catalog |
-| **Commodore 64** | 19 | [[1981 - Crossfire\|Crossfire]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|LSL1]], early arcade titles |
-| **Atari 8-bit** | 12 | [[1981 - Crossfire\|Crossfire]], [[1981 - Jawbreaker\|Jawbreaker]], early arcade titles |
-| **Atari ST** | 24 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest I]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|LSL1]], AGI adventures |
-| **Amiga** | 47 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I–IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]], most AGI/early SCI games |
+- [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]], [[1984 - King's Quest - Quest for the Crown|King's Quest I]], all Hi-Res Adventures — Platform: **Apple II**, Games: 49
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I]] (PCjr launch title), entire Sierra catalog — Platform: **IBM PC / PCjr**, Games: 139+
+- [[1981 - Crossfire|Crossfire]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|LSL1]], early arcade titles — Platform: **Commodore 64**, Games: 19
+- [[1981 - Crossfire|Crossfire]], [[1981 - Jawbreaker|Jawbreaker]], early arcade titles — Platform: **Atari 8-bit**, Games: 12
+- [[1986 - Space Quest - The Sarien Encounter|Space Quest I]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|LSL1]], AGI adventures — Platform: **Atari ST**, Games: 24
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I–IV]], [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], most AGI/early SCI games — Platform: **Amiga**, Games: 47
 
 **Emulation:** AppleWin (Apple II), DOSBox (PC), VICE (C64), Hatari (Atari ST), WinUAE (Amiga)
 
@@ -45,11 +43,9 @@ The primary platforms for Sierra's entire catalog.
 
 ## Macintosh
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **Classic Mac (68k)** | 20+ | [[1984 - King's Quest - Quest for the Crown\|King's Quest I–V]], [[1989 - After Dark\|After Dark]] |
-| **Mac OS (PPC)** | 10+ | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]], [[1995 - Phantasmagoria\|Phantasmagoria]] |
-| **macOS (Intel/ARM)** | 15 | [[2013 - Leisure Suit Larry - Reloaded\|LSL Reloaded]], [[2018 - Hero-U - Rogue to Redemption\|Hero-U]], modern releases |
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I–V]], [[1989 - After Dark|After Dark]] — Platform: **Classic Mac (68k)**, Games: 20+
+- [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]], [[1995 - Phantasmagoria|Phantasmagoria]] — Platform: **Mac OS (PPC)**, Games: 10+
+- [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]], [[2018 - Hero-U - Rogue to Redemption|Hero-U]], modern releases — Platform: **macOS (Intel/ARM)**, Games: 15
 
 **Emulation:** Basilisk II (68k), SheepShaver (PPC), or use ScummVM
 
@@ -59,39 +55,31 @@ The primary platforms for Sierra's entire catalog.
 
 ### Classic Consoles (1980s–1990s)
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **Sega Master System** | 2 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry]] |
-| **NES** | 1 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] |
-| **Sega CD** | 3 | [[1990 - Rise of the Dragon\|Rise of the Dragon]], [[1991 - The Adventures of Willy Beamish\|Willy Beamish]], [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest VGA]] |
-| **Sega Saturn** | 2 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]], [[1995 - Phantasmagoria\|Phantasmagoria]] |
-| **Atari 2600** | 1 | [[1981 - Jawbreaker\|Jawbreaker]] |
-| **ColecoVision** | 2 | [[1983 - Oils Well\|Oil's Well]], [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] |
+- [[1984 - King's Quest - Quest for the Crown|King's Quest I]], [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]] — Platform: **Sega Master System**, Games: 2
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Platform: **NES**, Games: 1
+- [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - The Adventures of Willy Beamish|Willy Beamish]], [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest VGA]] — Platform: **Sega CD**, Games: 3
+- [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]], [[1995 - Phantasmagoria|Phantasmagoria]] — Platform: **Sega Saturn**, Games: 2
+- [[1981 - Jawbreaker|Jawbreaker]] — Platform: **Atari 2600**, Games: 1
+- [[1983 - Oils Well|Oil's Well]], [[1983 - Sammy Lightfoot|Sammy Lightfoot]] — Platform: **ColecoVision**, Games: 2
 
 ### PlayStation
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **PlayStation 2** | 3 | [[2003 - SWAT - Global Strike Team\|SWAT: Global Strike Team]], [[2004 - Leisure Suit Larry - Magna Cum Laude\|LSL: Magna Cum Laude]] |
-| **PlayStation 3** | 3 | [[2009 - Leisure Suit Larry - Box Office Bust\|LSL: Box Office Bust]], [[2015 - King's Quest\|King's Quest (2015)]] |
-| **PlayStation 4** | 3 | [[2015 - King's Quest\|King's Quest (2015)]], [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|LSL: Wet Dreams]] |
-| **PlayStation 5** | 1 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D]] |
-| **PS Vita / PSP** | 1 | [[2007 - SWAT - Target Liberty\|SWAT: Target Liberty]] |
+- [[2003 - SWAT - Global Strike Team|SWAT: Global Strike Team]], [[2004 - Leisure Suit Larry - Magna Cum Laude|LSL: Magna Cum Laude]] — Platform: **PlayStation 2**, Games: 3
+- [[2009 - Leisure Suit Larry - Box Office Bust|LSL: Box Office Bust]], [[2015 - King's Quest|King's Quest (2015)]] — Platform: **PlayStation 3**, Games: 3
+- [[2015 - King's Quest|King's Quest (2015)]], [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams]] — Platform: **PlayStation 4**, Games: 3
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] — Platform: **PlayStation 5**, Games: 1
+- [[2007 - SWAT - Target Liberty|SWAT: Target Liberty]] — Platform: **PS Vita / PSP**, Games: 1
 
 ### Xbox
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **Xbox** | 3 | [[2003 - SWAT - Global Strike Team\|SWAT: Global Strike Team]], [[2004 - Leisure Suit Larry - Magna Cum Laude\|LSL: Magna Cum Laude]] |
-| **Xbox 360** | 4 | [[2006 - 3D Ultra MiniGolf Adventures\|3D Ultra MiniGolf]], [[2015 - King's Quest\|King's Quest (2015)]] |
-| **Xbox One** | 3 | [[2015 - King's Quest\|King's Quest (2015)]], [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|LSL: Wet Dreams]] |
+- [[2003 - SWAT - Global Strike Team|SWAT: Global Strike Team]], [[2004 - Leisure Suit Larry - Magna Cum Laude|LSL: Magna Cum Laude]] — Platform: **Xbox**, Games: 3
+- [[2006 - 3D Ultra MiniGolf Adventures|3D Ultra MiniGolf]], [[2015 - King's Quest|King's Quest (2015)]] — Platform: **Xbox 360**, Games: 4
+- [[2015 - King's Quest|King's Quest (2015)]], [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams]] — Platform: **Xbox One**, Games: 3
 
 ### Nintendo
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **NES** | 1 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] |
-| **Nintendo Switch** | 3 | [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry\|LSL: Wet Dreams]], [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D]] |
+- [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] — Platform: **NES**, Games: 1
+- [[2018 - Leisure Suit Larry - Wet Dreams Don't Dry|LSL: Wet Dreams]], [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] — Platform: **Nintendo Switch**, Games: 3
 
 ---
 
@@ -99,42 +87,32 @@ The primary platforms for Sierra's entire catalog.
 
 ### Mobile
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **iOS** | 4 | [[2013 - Leisure Suit Larry - Reloaded\|LSL Reloaded]], [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|GK 20th Anniversary]] |
-| **Android** | 2 | [[2013 - Leisure Suit Larry - Reloaded\|LSL Reloaded]], [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|GK 20th Anniversary]] |
+- [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]], [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|GK 20th Anniversary]] — Platform: **iOS**, Games: 4
+- [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]], [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|GK 20th Anniversary]] — Platform: **Android**, Games: 2
 
 ### VR
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **Meta Quest** | 1 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D]] |
-| **PlayStation VR2** | 1 | [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D]] |
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] — Platform: **Meta Quest**, Games: 1
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D]] — Platform: **PlayStation VR2**, Games: 1
 
 ---
 
 ## Online Services
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **The Sierra Network / INN** | 3 | [[1991 - The Shadow of Yserbius\|Shadow of Yserbius]], [[1993 - Fates of Twinion\|Fates of Twinion]], [[1996 - The Realm Online\|The Realm Online]] |
+- [[1991 - The Shadow of Yserbius|Shadow of Yserbius]], [[1993 - Fates of Twinion|Fates of Twinion]], [[1996 - The Realm Online|The Realm Online]] — Platform: **The Sierra Network / INN**, Games: 3
 
 ---
 
 ## Japanese Computers
 
-| Platform | Games | Notable Titles |
-|----------|-------|----------------|
-| **PC-8801** | 1 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Thexder II]] |
-| **PC-9801** | 1 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Thexder II]] |
+- [[1989 - Fire Hawk - Thexder - The Second Contact|Thexder II]] — Platform: **PC-8801**, Games: 1
+- [[1989 - Fire Hawk - Thexder - The Second Contact|Thexder II]] — Platform: **PC-9801**, Games: 1
 
 ---
 
 ## Linux
 
-| Games | Notable Titles |
-|-------|----------------|
-| 10 | [[2013 - Leisure Suit Larry - Reloaded\|LSL Reloaded]], [[2014 - Quest for Infamy\|Quest for Infamy]], [[2018 - Hero-U - Rogue to Redemption\|Hero-U]] |
+- [[2013 - Leisure Suit Larry - Reloaded|LSL Reloaded]], [[2014 - Quest for Infamy|Quest for Infamy]], [[2018 - Hero-U - Rogue to Redemption|Hero-U]] — Games: 10
 
 Most modern alumni and fan projects support Linux natively. Classic games run via ScummVM or DOSBox.
 

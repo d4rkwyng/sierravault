@@ -79,39 +79,33 @@ The technical innovations in her games, particularly the transition from traditi
 
 ### Sierra On-Line (1991–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Producer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Producer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's: Leisure Suit Larry's Casino]] | Producer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow\|Crazy Nick's: Parlor Games with Laura Bow]] | Producer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance\|Crazy Nick's: Robin Hood's Games of Skill and Chance]] | Producer |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] | Producer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Producer |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Producer |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer, Director, Producer, Writer |
-| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Lead Designer, Project Leader, Writer |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Project Manager |
-| 1997 | King's Quest: Collection Series | Producer, Director |
-| 1999 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle]] | Designer, Director, Writer |
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Producer
+- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Producer
+- **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's: Leisure Suit Larry's Casino]] — Role: Producer
+- **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's: Parlor Games with Laura Bow]] — Role: Producer
+- **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's: Robin Hood's Games of Skill and Chance]] — Role: Producer
+- **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] — Role: Producer
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Role: Producer
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Producer
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Designer, Director, Producer, Writer
+- **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Role: Lead Designer, Project Leader, Writer
+- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Role: Project Manager
+- 1997 — King's Quest: Collection Series — Producer, Director
+- **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Role: Designer, Director, Writer
 
 ### Sierra/Vivendi Years (2000–2006)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2000 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle – Elite Edition]] | Designer, Director, Writer |
-| 2001 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Tactical Game of the Year Edition]] | Designer, Director, Writer |
-| 2006 | King's Quest Collection | Producer, Director |
+- **2000** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle – Elite Edition]] — Role: Designer, Director, Writer
+- **2001** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Tactical Game of the Year Edition]] — Role: Designer, Director, Writer
+- 2006 — King's Quest Collection — Producer, Director
 
 ### Special Thanks
 
-| Year | Title |
-|------|-------|
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|Lost Secret of the Rainforest]] |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] |
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]]
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]]
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|Lost Secret of the Rainforest]]
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]]
+- **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]]
 
 ## References
 

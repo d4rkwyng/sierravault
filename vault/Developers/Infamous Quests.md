@@ -69,10 +69,8 @@ The impact of their work extends beyond just game development, as they have fost
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Adventure/RPG |
-| 2016 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Adventure |
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Genre: Adventure/RPG
+- **2016** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Genre: Adventure
 
 ## References
 

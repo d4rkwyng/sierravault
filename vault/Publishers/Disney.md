@@ -20,18 +20,16 @@ In the mid-1980s, Sierra On-Line developed and published several educational gam
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Developer |
-|------|------|-----------|
-| 1984 | [[1984 - Mickey's Space Adventure\|Mickey's Space Adventure]] | Sierra On-Line |
-| 1984 | [[1984 - Winnie the Pooh in the Hundred Acre Wood\|Winnie the Pooh in the Hundred Acre Wood]] | Sierra On-Line |
+- **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Developer: Sierra On-Line
+- **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]] — Developer: Sierra On-Line
 
 ## Notes
 
-While Disney published these titles under their brand, they were developed by [[Developers/Sierra On-Line\|Sierra On-Line]] using Sierra's AGI engine technology. These represent early examples of major entertainment company licensing deals in the computer game industry.
+While Disney published these titles under their brand, they were developed by [[Developers/Sierra On-Line|Sierra On-Line]] using Sierra's AGI engine technology. These represent early examples of major entertainment company licensing deals in the computer game industry.
 
 ## Related
 
-- **Developer:** [[Developers/Sierra On-Line\|Sierra On-Line]]
+- **Developer:** [[Developers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 

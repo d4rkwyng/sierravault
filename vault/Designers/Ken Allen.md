@@ -115,57 +115,50 @@ His 2022 return to Space Quest-style composition for SpaceVenture demonstrated t
 
 ### Sierra On-Line (1989–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Music, Sound |
-| 1990 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder - The Second Contact]] | Music, Sound Programming |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Composer |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose VGA]] | Music, Sound |
-| 1990 | [[1990 - Oils Well\|Oil's Well]] | Music |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I: Quest for the Crown VGA]] | Music |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] | Music |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Music |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Music |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Music, Sound Programming |
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Music, Sound
+- **1990** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder - The Second Contact]] — Role: Music, Sound Programming
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Composer
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose VGA]] — Role: Music, Sound
+- **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Music
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I: Quest for the Crown VGA]] — Role: Music
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Music
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Music
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Music, Sound Programming
 
 ### Tsunami Media & Freelance (1991–1994)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Tsunami Media | Music |
-| 1992 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] (CD-ROM) | Sierra On-Line | Music |
-| 1992 | Les Manley in: Lost in L.A. | Accolade | Music |
-| 1992 | Road & Track Presents Grand Prix Unlimited | Accolade | Music |
-| 1992 | Wacky Funsters! The Geekwad's Guide to Gaming | Tsunami Media | Music |
-| 1992 | WarpSpeed (SNES) | Accolade | Music |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Sierra On-Line | Music |
-| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media | Music |
-| 1993 | Protostar: War on the Frontier | Tsunami Media | Music, Level Design |
-| 1993 | The Geekwad: Games of the Galaxy | Tsunami Media | Sound Effects |
-| 1993 | [[1993 - Take a Break! Pinball\|Take a Break! Pinball]] | Sierra On-Line | Music |
-| 1993 | WarpSpeed (Genesis) | Accolade | Music |
-| 1994 | Return to Ringworld | Tsunami Media | Lead Designer, Producer, Music |
-| 1994 | Man Enough | Tsunami Media | Music |
+- 1992 — Ringworld: Revenge of the Patriarch — Tsunami Media — Music
+- **1992** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] (CD-ROM) — Company: Sierra On-Line, Role: Music
+- 1992 — Les Manley in: Lost in L.A. — Accolade — Music
+- 1992 — Road & Track Presents Grand Prix Unlimited — Accolade — Music
+- 1992 — Wacky Funsters! The Geekwad's Guide to Gaming — Tsunami Media — Music
+- 1992 — WarpSpeed (SNES) — Accolade — Music
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Company: Sierra On-Line, Role: Music
+- **1993** — [[1993 - Blue Force|Blue Force]] — Company: Tsunami Media, Role: Music
+- 1993 — Protostar: War on the Frontier — Tsunami Media — Music, Level Design
+- 1993 — The Geekwad: Games of the Galaxy — Tsunami Media — Sound Effects
+- **1993** — [[1993 - Take a Break! Pinball|Take a Break! Pinball]] — Company: Sierra On-Line, Role: Music
+- 1993 — WarpSpeed (Genesis) — Accolade — Music
+- 1994 — Return to Ringworld — Tsunami Media — Lead Designer, Producer, Music
+- 1994 — Man Enough — Tsunami Media — Music
 
 ### Interplay, Parallax & Later Work (1994–2022)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1994 | Descent | Parallax Software | Music |
-| 1994 | Star Trek: Starfleet Academy (SNES) | Interplay | Music |
-| 1995 | C2: Clay Fighter 2 - Judgment Clay | Interplay | Music |
-| 1995 | Star Trek: Starfleet Academy (32X) | Interplay | Music |
-| 1995 | [[1995 - Mixed-Up Mother Goose Deluxe\|Mixed-Up Mother Goose Deluxe]] | Sierra On-Line | Music |
-| 1996 | [[1996 - Front Page Sports - Trophy Bass 2\|Front Page Sports: Trophy Bass 2]] | Sierra On-Line | Music |
-| 1997 | Star Trek: Secret of Vulcan Fury | Interplay | Producer (unreleased) |
-| 2000 | Nox | Westwood Studios | Producer |
-| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake]] (Fan) | AGD Interactive | Music |
-| 2004 | RollerCoaster Tycoon 3 | Atari | Senior Producer |
-| 2008 | Destroy All Humans! Big Willy Unleashed | THQ | Producer |
-| 2011 | Rift | Trion Worlds | Producer |
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Guys From Andromeda | Music |
-| 2022 | SpaceVenture | Guys From Andromeda | Music |
+- 1994 — Descent — Parallax Software — Music
+- 1994 — Star Trek: Starfleet Academy (SNES) — Interplay — Music
+- 1995 — C2: Clay Fighter 2 - Judgment Clay — Interplay — Music
+- 1995 — Star Trek: Starfleet Academy (32X) — Interplay — Music
+- **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Company: Sierra On-Line, Role: Music
+- **1996** — [[1996 - Front Page Sports - Trophy Bass 2|Front Page Sports: Trophy Bass 2]] — Company: Sierra On-Line, Role: Music
+- 1997 — Star Trek: Secret of Vulcan Fury — Interplay — Producer (unreleased)
+- 2000 — Nox — Westwood Studios — Producer
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] (Fan) — Company: AGD Interactive, Role: Music
+- 2004 — RollerCoaster Tycoon 3 — Atari — Senior Producer
+- 2008 — Destroy All Humans! Big Willy Unleashed — THQ — Producer
+- 2011 — Rift — Trion Worlds — Producer
+- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Company: Guys From Andromeda, Role: Music
+- 2022 — SpaceVenture — Guys From Andromeda — Music
 
 ## References
 

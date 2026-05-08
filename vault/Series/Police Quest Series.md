@@ -22,15 +22,13 @@ Unlike Sierra's fantasy and comedy franchises, Police Quest demanded players fol
 
 ## Series Timeline
 
-| Year | Title | Engine | Designer |
-|------|-------|--------|----------|
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | AGI | Jim Walls |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | SCI0 | Jim Walls |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | SCI1 | Jim Walls |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest I VGA]] | SCI1.1 | [[Tammy Dargan]] |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | SCI2 | Daryl F. Gates |
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Engine: AGI, Designer: Jim Walls
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Engine: SCI0, Designer: Jim Walls
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Engine: SCI1, Designer: Jim Walls
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest I VGA]] — Engine: SCI1.1, Designer: [[Tammy Dargan]]
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Engine: SCI2, Designer: Daryl F. Gates
 
-*The series continues as the [[1995 - Police Quest - SWAT\|SWAT]] tactical franchise (1995-2007). See SWAT Spinoff section below.*
+*The series continues as the [[1995 - Police Quest - SWAT|SWAT]] tactical franchise (1995-2007). See SWAT Spinoff section below.*
 
 ## Jim Walls' Background
 
@@ -71,10 +69,10 @@ The Gates era divided fans, with many preferring the Walls games' balance of pro
 
 The Police Quest franchise evolved into the SWAT tactical shooter series, shifting from adventure gaming to action:
 
-- [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] (1995) - Interactive movie
-- [[1998 - Police Quest - SWAT 2\|SWAT 2]] (1998) - Real-time tactics
-- [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3]] (1999) - First-person tactical shooter
-- [[2005 - SWAT 4\|SWAT 4]] (2005) - Developed by Irrational Games
+- [[1995 - Police Quest - SWAT|Police Quest: SWAT]] (1995) - Interactive movie
+- [[1998 - Police Quest - SWAT 2|SWAT 2]] (1998) - Real-time tactics
+- [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] (1999) - First-person tactical shooter
+- [[2005 - SWAT 4|SWAT 4]] (2005) - Developed by Irrational Games
 
 ## Technical Evolution
 
@@ -133,12 +131,10 @@ Police Quest's insistence on procedural accuracy created a unique tension betwee
 
 ### Related Spin-offs
 
-| Title | Year | Notes |
-|-------|------|-------|
-| [[1995 - Police Quest - SWAT\|PQ: SWAT]] | 1995 | Tactical shift |
-| [[1998 - Police Quest - SWAT 2\|SWAT 2]] | 1998 | Real-time tactics |
-| [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3]] | 1999 | First-person tactical |
-| [[2005 - SWAT 4\|SWAT 4]] | 2005 | Acclaimed tactical shooter |
+- **1995** — [[1995 - Police Quest - SWAT|PQ: SWAT]] — Notes: Tactical shift
+- **1998** — [[1998 - Police Quest - SWAT 2|SWAT 2]] — Notes: Real-time tactics
+- **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3]] — Notes: First-person tactical
+- **2005** — [[2005 - SWAT 4|SWAT 4]] — Notes: Acclaimed tactical shooter
 
 ### Recommended Play Order
 1. Police Quest I (VGA remake or AGI original)

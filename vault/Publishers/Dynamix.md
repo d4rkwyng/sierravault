@@ -15,18 +15,16 @@ last_updated: "2026-01-17"
 
 Dynamix, Inc. was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye. The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.
 
-For detailed information about the studio's development history and notable games, see [[Developers/Dynamix\|Dynamix (Developer)]].
+For detailed information about the studio's development history and notable games, see [[Developers/Dynamix|Dynamix (Developer)]].
 
 ## Publishing History
 
-Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Publishers/Electronic Arts\|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.
+Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Publishers/Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.
 
 ## Games Published (Pre-Sierra)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Self-published |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Self-published |
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Notes: Self-published
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Notes: Self-published
 
 ## Notable Franchises
 
@@ -39,8 +37,8 @@ Dynamix developed numerous franchises for Sierra:
 
 ## Related
 
-- **Developer Page:** [[Developers/Dynamix\|Dynamix]]
-- **Parent Company:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
+- **Developer Page:** [[Developers/Dynamix|Dynamix]]
+- **Parent Company:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 
 ## References
 

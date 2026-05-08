@@ -68,18 +68,16 @@ The modding communities that formed around Papyrus games, particularly NASCAR Ra
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1989 | Indianapolis 500: The Simulation | Racing Simulation |
-| 1993 | [[1993 - IndyCar Racing\|IndyCar Racing]] | Racing Simulation |
-| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Racing Simulation |
-| 1995 | [[1995 - IndyCar Racing II\|IndyCar Racing II]] | Racing Simulation |
-| 1996 | [[1996 - NASCAR Racing 2\|NASCAR Racing 2]] | Racing Simulation |
-| 1997 | [[1997 - NASCAR Racing 2 - Grand National Series Expansion\|NASCAR Racing 2: Grand National Series Expansion]] | Racing Simulation |
-| 1999 | [[1999 - NASCAR Racing 3\|NASCAR Racing 3]] | Racing Simulation |
-| 2001 | [[2001 - NASCAR Racing 4\|NASCAR Racing 4]] | Racing Simulation |
-| 2002 | [[2002 - NASCAR Racing 2002 Season\|NASCAR Racing 2002 Season]] | Racing Simulation |
-| 2003 | [[2003 - NASCAR Racing 2003 Season\|NASCAR Racing 2003 Season]] | Racing Simulation |
+- 1989 — Indianapolis 500: The Simulation — Racing Simulation
+- **1993** — [[1993 - IndyCar Racing|IndyCar Racing]] — Genre: Racing Simulation
+- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Genre: Racing Simulation
+- **1995** — [[1995 - IndyCar Racing II|IndyCar Racing II]] — Genre: Racing Simulation
+- **1996** — [[1996 - NASCAR Racing 2|NASCAR Racing 2]] — Genre: Racing Simulation
+- **1997** — [[1997 - NASCAR Racing 2 - Grand National Series Expansion|NASCAR Racing 2: Grand National Series Expansion]] — Genre: Racing Simulation
+- **1999** — [[1999 - NASCAR Racing 3|NASCAR Racing 3]] — Genre: Racing Simulation
+- **2001** — [[2001 - NASCAR Racing 4|NASCAR Racing 4]] — Genre: Racing Simulation
+- **2002** — [[2002 - NASCAR Racing 2002 Season|NASCAR Racing 2002 Season]] — Genre: Racing Simulation
+- **2003** — [[2003 - NASCAR Racing 2003 Season|NASCAR Racing 2003 Season]] — Genre: Racing Simulation
 
 ## References
 

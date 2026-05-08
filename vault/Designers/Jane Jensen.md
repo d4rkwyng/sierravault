@@ -29,13 +29,13 @@ The appeal of game development for Jensen was clear: "Computer games were a way 
 
 ### Sierra Years (1991–1999)
 
-Jensen joined Sierra On-Line in February 1991, quickly proving her value on multiple projects.[^ref-4] Her first assignment was documentation and text for [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]], followed by co-designing [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]].[^ref-4] Her next significant contribution came as co-designer with Roberta Williams on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] (1992), widely regarded as one of the finest entries in the King's Quest series.[^ref-8] The collaboration proved highly successful, with Jensen's influence evident in the game's improved dialogue and character interactions.[^ref-3]
+Jensen joined Sierra On-Line in February 1991, quickly proving her value on multiple projects.[^ref-4] Her first assignment was documentation and text for [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], followed by co-designing [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]].[^ref-4] Her next significant contribution came as co-designer with Roberta Williams on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] (1992), widely regarded as one of the finest entries in the King's Quest series.[^ref-8] The collaboration proved highly successful, with Jensen's influence evident in the game's improved dialogue and character interactions.[^ref-3]
 
 The breakthrough moment in Jensen's career came when she pitched her concept for Gabriel Knight to Sierra founder Ken Williams. "I had the idea that a mystery plotline would work really well with the interactivity you wanted in a game. Find clues, examine clues, question suspects, etc. But I didn't want to just do a straight mystery series; I wanted to involve the supernatural," she explained.[^ref-5] Williams was initially skeptical, telling her: "Well, I'm a little disappointed in this idea - I wish you'd come up with something lighter and more cheerful. No one wants to play something dark and depressing on the computer. But I guess we'll let you go ahead."[^ref-5]
 
-[[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] was published in 1993 as Jensen's first solo design project, receiving widespread critical acclaim and establishing her as a major talent in adventure game design.[^ref-6] The success led directly to [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] (1995), which won Computer Gaming World magazine's game of the year award in 1996.[^ref-1] Jensen traveled to Germany to research local folklore for the game's werewolf mythology, demonstrating her commitment to thorough research and cultural authenticity.[^ref-1]
+[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] was published in 1993 as Jensen's first solo design project, receiving widespread critical acclaim and establishing her as a major talent in adventure game design.[^ref-6] The success led directly to [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] (1995), which won Computer Gaming World magazine's game of the year award in 1996.[^ref-1] Jensen traveled to Germany to research local folklore for the game's werewolf mythology, demonstrating her commitment to thorough research and cultural authenticity.[^ref-1]
 
-Jensen began designing the third Gabriel Knight title in 1997, though [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] would prove controversial upon its 1999 release, with some critics questioning certain puzzle sequences.[^ref-5] Despite this, the game showcased Jensen's continued growth as a storyteller and her ability to tackle complex subject matter like the Holy Grail mythology.
+Jensen began designing the third Gabriel Knight title in 1997, though [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] would prove controversial upon its 1999 release, with some critics questioning certain puzzle sequences.[^ref-5] Despite this, the game showcased Jensen's continued growth as a storyteller and her ability to tackle complex subject matter like the Holy Grail mythology.
 
 ### Oberon Media and Casual Games (2000s)
 
@@ -45,11 +45,11 @@ An interviewer asked whether it was a big adjustment to tailor her stories to mo
 
 ### Pinkerton Road and Return to Adventure Games (2010–Present)
 
-Jensen's return to traditional adventure games began with [[2010 - Gray Matter\|Gray Matter]] (2010), developed by Wizarbox and published by dtp entertainment.[^ref-11] The game, which Jensen had announced in 2006, was four years in the making due to development challenges including a change of developers.[^ref-1] Gray Matter demonstrated that Jensen's storytelling abilities remained sharp, exploring themes of neuroscience and the supernatural.
+Jensen's return to traditional adventure games began with [[2010 - Gray Matter|Gray Matter]] (2010), developed by Wizarbox and published by dtp entertainment.[^ref-11] The game, which Jensen had announced in 2006, was four years in the making due to development challenges including a change of developers.[^ref-1] Gray Matter demonstrated that Jensen's storytelling abilities remained sharp, exploring themes of neuroscience and the supernatural.
 
 In 2012, Jensen co-founded Pinkerton Road Studio with her husband Robert Holmes, marking her full return to independent adventure game development.[^ref-7] The timing felt right to her: "I think the casual market is ready for meatier material and I think third person adventure games will be a kind of revelation after all the first person HOGs."[^ref-5] The studio launched a successful Kickstarter campaign with more than 5,000 backers.[^ref-7]
 
-Jensen also served as story consultant on Phoenix Online Studios' [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] (2012–2013), bringing her narrative expertise to a new generation of adventure games.[^ref-12] In 2014, Pinkerton Road released both [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]], allowing Jensen to create new intellectual property while also revisiting and refining her most celebrated work.[^ref-7]
+Jensen also served as story consultant on Phoenix Online Studios' [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] (2012–2013), bringing her narrative expertise to a new generation of adventure games.[^ref-12] In 2014, Pinkerton Road released both [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] and [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]], allowing Jensen to create new intellectual property while also revisiting and refining her most celebrated work.[^ref-7]
 
 However, Pinkerton Road faced financial challenges. Jensen told Adventure Game Hotspot in 2023: "It's a shame, because we could have done so much with Pinkerton Road. But if we do any more games, it will be with a publisher who fully finances them."[^ref-10] Despite these difficulties, Jensen has continued working on Gabriel Knight material, releasing the illustrated short story "Five Hearts" in November 2024 and confirming that she has written the first chapter of a potential Gabriel Knight 4.[^ref-13]
 
@@ -87,25 +87,21 @@ Jensen's continued involvement in game development and Gabriel Knight storytelli
 
 ### Sierra On-Line (1991–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Co-Designer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Writer |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Co-Designer, Writer |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Voice Actor |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Designer, Director, Writer |
-| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Designer |
-| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Designer, Writer |
-| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | Designer, Writer |
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Co-Designer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Writer
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Co-Designer, Writer
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Voice Actor
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Designer, Director, Writer
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Designer
+- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Designer, Writer
+- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Role: Designer, Writer
 
 ### Post-Sierra (2010–Present)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2010 | [[2010 - Gray Matter\|Gray Matter]] | Designer, Writer |
-| 2012 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition: An Erica Reed Thriller]] | Story Consultant |
-| 2014 | [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] | Designer, Creative Director |
-| 2014 | [[2014 - Moebius - Empire Rising\|Moebius: Empire Rising]] | Designer, Director, Writer |
+- **2010** — [[2010 - Gray Matter|Gray Matter]] — Role: Designer, Writer
+- **2012** — [[2012 - Cognition - An Erica Reed Thriller|Cognition: An Erica Reed Thriller]] — Role: Story Consultant
+- **2014** — [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]] — Role: Designer, Creative Director
+- **2014** — [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] — Role: Designer, Director, Writer
 
 ## References
 

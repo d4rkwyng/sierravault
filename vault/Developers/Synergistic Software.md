@@ -66,13 +66,11 @@ Following Synergistic Software's closure, many of their team members went on to 
 
 ### In This Archive (Sierra-Published)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1993 | The Beverly Hillbillies | Adventure |
-| 1995 | [[1995 - Air Cavalry\|Air Cavalry]] | Flight Simulation |
-| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Action |
-| 1996 | [[1996 - Birthright - The Gorgon's Alliance\|Birthright: The Gorgon's Alliance]] | Strategy/RPG |
-| 1997 | [[1997 - Diablo - Hellfire\|Diablo: Hellfire]] | Action RPG |
+- 1993 — The Beverly Hillbillies — Adventure
+- **1995** — [[1995 - Air Cavalry|Air Cavalry]] — Genre: Flight Simulation
+- **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
+- **1996** — [[1996 - Birthright - The Gorgon's Alliance|Birthright: The Gorgon's Alliance]] — Genre: Strategy/RPG
+- **1997** — [[1997 - Diablo - Hellfire|Diablo: Hellfire]] — Genre: Action RPG
 
 ### Other Notable Games (not in archive)
 - Spirit of Excalibur — 1990 (Virgin Games)

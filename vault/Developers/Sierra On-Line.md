@@ -131,118 +131,116 @@ The technical innovations pioneered by Sierra, including their AGI and SCI game 
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1980 | [[1980 - Hi-Res Adventure 1 - Mystery House\|Hi-Res Adventure 1: Mystery House]] | Adventure |
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Hi-Res Adventure 2: The Wizard and the Princess]] | Adventure |
-| 1980 | [[1980 - Hi-Res Football\|Hi-Res Football]] | Sports |
-| 1980 | [[1980 - Hi-Res Soccer\|Hi-Res Soccer]] | Sports |
-| 1981 | [[1981 - Crossfire\|Crossfire]] | Arcade |
-| 1981 | [[1981 - Jawbreaker\|Jawbreaker]] | Arcade |
-| 1981 | [[1981 - Threshold\|Threshold]] | Arcade |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] | Adventure |
-| 1982 | [[1982 - Cannonball Blitz\|Cannonball Blitz]] | Arcade |
-| 1982 | [[1982 - Creepy Corridors\|Creepy Corridors]] | Arcade |
-| 1982 | [[1982 - Adventure in Serenia\|Adventure in Serenia]] | Adventure |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Hi-Res Adventure 5: Time Zone]] | Adventure |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|Hi-Res Adventure 6: The Dark Crystal]] | Adventure |
-| 1983 | [[1983 - Learning with Leeper\|Learning with Leeper]] | Education |
-| 1983 | [[1983 - Mr. Cool\|Mr. Cool]] | Arcade |
-| 1983 | [[1983 - Oils Well\|Oils Well]] | Arcade |
-| 1983 | [[1983 - Sammy Lightfoot\|Sammy Lightfoot]] | Arcade |
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Adventure |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Adventure |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Adventure |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | Adventure |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Adventure |
-| 1987 | [[1987 - 3-D Helicopter Simulator\|3-D Helicopter Simulator]] | Simulation |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Adventure |
-| 1987 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] | Adventure |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Adventure |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | Adventure |
-| 1988 | [[1988 - Gold Rush\|Gold Rush]] | Adventure |
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Adventure |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] | Adventure |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Adventure |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Card/Board Games |
-| 1989 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Card/Board Games |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] | Adventure |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Adventure/RPG |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Adventure |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Adventure |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot: The Search for the Grail]] | Adventure |
-| 1990 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle Official Book of Games: Volume 3]] | Card/Board Games |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Adventure |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI Remake)]] | Adventure |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Adventure/RPG |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|Roberta Williams' King's Quest I: Quest for the Crown]] | Adventure |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Puzzle/Education |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow: The Legend of Robin Hood]] | Adventure |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Adventure |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 4\|Hoyle Official Book of Games: Volume 4]] | Card/Board Games |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Simulation |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] | Adventure |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Adventure |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Adventure |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter]] | Adventure |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Adventure |
-| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] | Card/Board Games |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance\|Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance]] | Card/Board Games |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack]] | Card/Board Games |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] | Card/Board Games |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow\|Crazy Nick's Software Picks: Parlor Games with Laura Bow]] | Card/Board Games |
-| 1996 | [[1996 - Hoyle Bridge\|Hoyle Bridge]] | Card/Board Games |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Adventure |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Adventure |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero VGA]] | Adventure/RPG |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Adventure/RPG |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Adventure |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Puzzle/Education |
-| 1992 | [[1991 - The Shadow of Yserbius\|The Shadow of Yserbius]] | MMORPG |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest: Lost Secret of the Rainforest]] | Adventure |
-| 1993 | [[1993 - Fates of Twinion\|Fates of Twinion]] | MMORPG |
-| 1993 | [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas: Frontier Pharmacist]] | Adventure |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Adventure |
-| 1993 | [[1996 - Hoyle Official Book of Games - Volume 5\|Hoyle Official Book of Games: Volume 5]] | Card/Board Games |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6: Shape Up or Slip Out!]] | Adventure |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Adventure |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Adventure/RPG |
-| 1993 | [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]] | Adventure |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Adventure |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Adventure |
-| 1994 | [[1994 - Outpost\|Outpost]] | Strategy |
-| 1995 | [[1995 - Mixed-Up Mother Goose Deluxe\|Mixed-Up Mother Goose Deluxe]] | Adventure |
-| 1995 | [[1995 - Phantasmagoria\|Phantasmagoria]] | Adventure/Horror |
-| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Tactical |
-| 1995 | [[1995 - Shivers\|Shivers]] | Adventure |
-| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Adventure |
-| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Adventure |
-| 1995 | [[1995 - Torin's Passage\|Torin's Passage]] | Adventure |
-| 1996 | [[1997 - Eat My Dust\|Eat My Dust]] | Racing |
-| 1996 | [[1996 - Hoyle Casino\|Hoyle Casino]] | Card/Board Games |
-| 1996 | [[2000 - Hoyle Crosswords\|Hoyle Crosswords]] | Card/Board Games |
-| 1996 | [[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7: Love for Sail]] | Adventure |
-| 1996 | [[1996 - Lighthouse - The Dark Being\|Lighthouse: The Dark Being]] | Adventure |
-| 1996 | [[1996 - Phantasmagoria - A Puzzle of Flesh\|Phantasmagoria: A Puzzle of Flesh]] | Adventure/Horror |
-| 1996 | [[1996 - Power Chess\|Power Chess]] | Card/Board Games |
-| 1996 | [[1996 - Space Bucks\|Space Bucks]] | Strategy |
-| 1996 | [[1996 - The Realm Online\|The Realm Online]] | MMORPG |
-| 1996 | [[1996 - The Time Warp of Dr. Brain\|The Time Warp of Dr. Brain]] | Puzzle/Education |
-| 1997 | [[1997 - Betrayal in Antara\|Betrayal in Antara]] | RPG |
-| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Card/Board Games |
-| 1997 | [[1997 - Hoyle Poker\|Hoyle Poker]] | Card/Board Games |
-| 1997 | [[1997 - Civil War Generals 2 - Grant–Lee–Sherman\|Civil War Generals 2: Grant–Lee–Sherman]] | Strategy |
-| 1997 | [[1997 - Shivers Two - Harvest of Souls\|Shivers Two: Harvest of Souls]] | Adventure |
-| 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Adventure/RPG |
-| 1998 | [[1998 - Power Chess 98\|Power Chess 98]] | Card/Board Games |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Adventure/RPG |
-| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Tactical |
-| 1999 | [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned\|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] | Adventure |
-| 1999 | [[1999 - Power Chess 2.0\|Power Chess 2.0]] | Card/Board Games |
-| 1999 | [[1999 - SWAT 3 - Close Quarters Battle\|SWAT 3: Close Quarters Battle]] | Tactical |
-| 2000 | [[2000 - Return of The Incredible Machine - Contraptions\|Return of The Incredible Machine: Contraptions]] | Puzzle |
-| 2001 | [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] | Puzzle |
-| 2005 | [[2005 - Hoyle Poker Series\|Hoyle Poker Series]] | Card/Board Games |
+- **1980** — [[1980 - Hi-Res Adventure 1 - Mystery House|Hi-Res Adventure 1: Mystery House]] — Genre: Adventure
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Hi-Res Adventure 2: The Wizard and the Princess]] — Genre: Adventure
+- **1980** — [[1980 - Hi-Res Football|Hi-Res Football]] — Genre: Sports
+- **1980** — [[1980 - Hi-Res Soccer|Hi-Res Soccer]] — Genre: Sports
+- **1981** — [[1981 - Crossfire|Crossfire]] — Genre: Arcade
+- **1981** — [[1981 - Jawbreaker|Jawbreaker]] — Genre: Arcade
+- **1981** — [[1981 - Threshold|Threshold]] — Genre: Arcade
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Hi-Res Adventure 4: Ulysses and the Golden Fleece]] — Genre: Adventure
+- **1982** — [[1982 - Cannonball Blitz|Cannonball Blitz]] — Genre: Arcade
+- **1982** — [[1982 - Creepy Corridors|Creepy Corridors]] — Genre: Arcade
+- **1982** — [[1982 - Adventure in Serenia|Adventure in Serenia]] — Genre: Adventure
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Hi-Res Adventure 5: Time Zone]] — Genre: Adventure
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|Hi-Res Adventure 6: The Dark Crystal]] — Genre: Adventure
+- **1983** — [[1983 - Learning with Leeper|Learning with Leeper]] — Genre: Education
+- **1983** — [[1983 - Mr. Cool|Mr. Cool]] — Genre: Arcade
+- **1983** — [[1983 - Oils Well|Oils Well]] — Genre: Arcade
+- **1983** — [[1983 - Sammy Lightfoot|Sammy Lightfoot]] — Genre: Arcade
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Genre: Adventure
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Genre: Adventure
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Genre: Adventure
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Genre: Adventure
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Genre: Adventure
+- **1987** — [[1987 - 3-D Helicopter Simulator|3-D Helicopter Simulator]] — Genre: Simulation
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Genre: Adventure
+- **1987** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] — Genre: Adventure
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Genre: Adventure
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Genre: Adventure
+- **1988** — [[1988 - Gold Rush|Gold Rush]] — Genre: Adventure
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Genre: Adventure
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]] — Genre: Adventure
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Genre: Adventure
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Genre: Card/Board Games
+- **1989** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Genre: Card/Board Games
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals]] — Genre: Adventure
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Genre: Adventure/RPG
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Genre: Adventure
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Genre: Adventure
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot: The Search for the Grail]] — Genre: Adventure
+- **1990** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle Official Book of Games: Volume 3]] — Genre: Card/Board Games
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Genre: Adventure
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI Remake)]] — Genre: Adventure
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Genre: Adventure/RPG
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|Roberta Williams' King's Quest I: Quest for the Crown]] — Genre: Adventure
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Genre: Puzzle/Education
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow: The Legend of Robin Hood]] — Genre: Adventure
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Genre: Adventure
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 4|Hoyle Official Book of Games: Volume 4]] — Genre: Card/Board Games
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Genre: Simulation
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5: Passionate Patti Does a Little Undercover Work]] — Genre: Adventure
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Genre: Adventure
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Genre: Adventure
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter]] — Genre: Adventure
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Genre: Adventure
+- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's Software Picks: King Graham's Board Game Challenge]] — Genre: Card/Board Games
+- **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's Software Picks: Robin Hood's Games of Skill and Chance]] — Genre: Card/Board Games
+- **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack]] — Genre: Card/Board Games
+- **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's Software Picks: Leisure Suit Larry's Casino]] — Genre: Card/Board Games
+- **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's Software Picks: Parlor Games with Laura Bow]] — Genre: Card/Board Games
+- **1996** — [[1996 - Hoyle Bridge|Hoyle Bridge]] — Genre: Card/Board Games
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Genre: Adventure
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Genre: Adventure
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero VGA]] — Genre: Adventure/RPG
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Genre: Adventure/RPG
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Genre: Adventure
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Genre: Puzzle/Education
+- **1992** — [[1991 - The Shadow of Yserbius|The Shadow of Yserbius]] — Genre: MMORPG
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] — Genre: Adventure
+- **1993** — [[1993 - Fates of Twinion|Fates of Twinion]] — Genre: MMORPG
+- **1993** — [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas: Frontier Pharmacist]] — Genre: Adventure
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Genre: Adventure
+- **1993** — [[1996 - Hoyle Official Book of Games - Volume 5|Hoyle Official Book of Games: Volume 5]] — Genre: Card/Board Games
+- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6: Shape Up or Slip Out!]] — Genre: Adventure
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Genre: Adventure
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Genre: Adventure/RPG
+- **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Genre: Adventure
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Genre: Adventure
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Genre: Adventure
+- **1994** — [[1994 - Outpost|Outpost]] — Genre: Strategy
+- **1995** — [[1995 - Mixed-Up Mother Goose Deluxe|Mixed-Up Mother Goose Deluxe]] — Genre: Adventure
+- **1995** — [[1995 - Phantasmagoria|Phantasmagoria]] — Genre: Adventure/Horror
+- **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Genre: Tactical
+- **1995** — [[1995 - Shivers|Shivers]] — Genre: Adventure
+- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Genre: Adventure
+- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Genre: Adventure
+- **1995** — [[1995 - Torin's Passage|Torin's Passage]] — Genre: Adventure
+- **1996** — [[1997 - Eat My Dust|Eat My Dust]] — Genre: Racing
+- **1996** — [[1996 - Hoyle Casino|Hoyle Casino]] — Genre: Card/Board Games
+- **1996** — [[2000 - Hoyle Crosswords|Hoyle Crosswords]] — Genre: Card/Board Games
+- **1996** — [[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7: Love for Sail]] — Genre: Adventure
+- **1996** — [[1996 - Lighthouse - The Dark Being|Lighthouse: The Dark Being]] — Genre: Adventure
+- **1996** — [[1996 - Phantasmagoria - A Puzzle of Flesh|Phantasmagoria: A Puzzle of Flesh]] — Genre: Adventure/Horror
+- **1996** — [[1996 - Power Chess|Power Chess]] — Genre: Card/Board Games
+- **1996** — [[1996 - Space Bucks|Space Bucks]] — Genre: Strategy
+- **1996** — [[1996 - The Realm Online|The Realm Online]] — Genre: MMORPG
+- **1996** — [[1996 - The Time Warp of Dr. Brain|The Time Warp of Dr. Brain]] — Genre: Puzzle/Education
+- **1997** — [[1997 - Betrayal in Antara|Betrayal in Antara]] — Genre: RPG
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Genre: Card/Board Games
+- **1997** — [[1997 - Hoyle Poker|Hoyle Poker]] — Genre: Card/Board Games
+- **1997** — [[1997 - Civil War Generals 2 - Grant–Lee–Sherman|Civil War Generals 2: Grant–Lee–Sherman]] — Genre: Strategy
+- **1997** — [[1997 - Shivers Two - Harvest of Souls|Shivers Two: Harvest of Souls]] — Genre: Adventure
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Genre: Adventure/RPG
+- **1998** — [[1998 - Power Chess 98|Power Chess 98]] — Genre: Card/Board Games
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Genre: Adventure/RPG
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Genre: Tactical
+- **1999** — [[1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned|Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]] — Genre: Adventure
+- **1999** — [[1999 - Power Chess 2.0|Power Chess 2.0]] — Genre: Card/Board Games
+- **1999** — [[1999 - SWAT 3 - Close Quarters Battle|SWAT 3: Close Quarters Battle]] — Genre: Tactical
+- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] — Genre: Puzzle
+- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Genre: Puzzle
+- **2005** — [[2005 - Hoyle Poker Series|Hoyle Poker Series]] — Genre: Card/Board Games
 
 ## References
 

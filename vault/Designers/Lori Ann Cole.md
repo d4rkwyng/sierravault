@@ -69,27 +69,23 @@ Cole's commitment to cultural diversity and authentic representation in game wor
 
 ### Sierra On-Line (1989–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | Director, Writer |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Co-Designer |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder!]] | Voice Actor (Queen Isabella) |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Designer, Director |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Additional Material |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I: So You Want to Be a Hero (VGA)]] | Director, Co-Designer |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Director, Designer, Writer |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | Co-Designer, Co-Director, Writer |
-| 1995 | [[1995 - Shannara\|Shannara]] | Co-Designer, Writer |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Designer |
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Role: Director, Writer
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Co-Designer
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder!]] — Role: Voice Actor (Queen Isabella)
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Designer, Director
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Additional Material
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I: So You Want to Be a Hero (VGA)]] — Role: Director, Co-Designer
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Director, Designer, Writer
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Role: Co-Designer, Co-Director, Writer
+- **1995** — [[1995 - Shannara|Shannara]] — Role: Co-Designer, Writer
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Role: Designer
 
 ### Post-Sierra (2011–2023)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | AGD Interactive | Voice Actor (Smaude) |
-| 2018 | [[2018 - Bolt Riley - A Reggae Adventure\|Bolt Riley: A Reggae Adventure]] | Adventure Mob | Writer |
-| 2018 | [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Transolar Games | Co-Designer, Lead Writer, Director |
-| 2023 | [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Transolar Games | Director, Writer |
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Company: AGD Interactive, Role: Voice Actor (Smaude)
+- **2018** — [[2018 - Bolt Riley - A Reggae Adventure|Bolt Riley: A Reggae Adventure]] — Company: Adventure Mob, Role: Writer
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Company: Transolar Games, Role: Co-Designer, Lead Writer, Director
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Company: Transolar Games, Role: Director, Writer
 
 ## References
 

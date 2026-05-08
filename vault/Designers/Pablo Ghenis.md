@@ -31,19 +31,19 @@ Beyond systems work, Ghenis took on programming and design roles on several titl
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]], Ghenis worked on the development system alongside Corey Cole, Dan Foy, John Hartin, Robert E. Heitman, and J. Mark Hood.[^ref-7] The game's revolutionary VGA graphics and point-and-click interface required significant evolution of Sierra's development tools to handle the increased complexity.
+On [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], Ghenis worked on the development system alongside Corey Cole, Dan Foy, John Hartin, Robert E. Heitman, and J. Mark Hood.[^ref-7] The game's revolutionary VGA graphics and point-and-click interface required significant evolution of Sierra's development tools to handle the increased complexity.
 
 ### Quest for Glory II: Trial by Fire (1990)
 
-Ghenis contributed to [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II]], which featured some of Sierra's most complex game systems including the hybrid adventure-RPG mechanics that defined the Quest for Glory series.[^ref-8] His development systems work helped enable the game's sophisticated character development and combat systems.
+Ghenis contributed to [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]], which featured some of Sierra's most complex game systems including the hybrid adventure-RPG mechanics that defined the Quest for Glory series.[^ref-8] His development systems work helped enable the game's sophisticated character development and combat systems.
 
 ### Codename: ICEMAN (1990)
 
-As lead programmer on [[1990 - Codename - Iceman\|Codename: ICEMAN]], Ghenis helped implement one of Sierra's most technically demanding games, featuring realistic submarine navigation and Cold War espionage elements.[^ref-5] The game's simulation aspects required careful programming to create an authentic experience.
+As lead programmer on [[1990 - Codename - Iceman|Codename: ICEMAN]], Ghenis helped implement one of Sierra's most technically demanding games, featuring realistic submarine navigation and Cold War espionage elements.[^ref-5] The game's simulation aspects required careful programming to create an authentic experience.
 
 ### Space Quest IV: Roger Wilco and the Time Rippers (1991)
 
-Ghenis's development systems work supported [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]], which pushed Sierra's SCI engine with its time-travel mechanics and varied visual styles representing different time periods.[^ref-9]
+Ghenis's development systems work supported [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], which pushed Sierra's SCI engine with its time-travel mechanics and varied visual styles representing different time periods.[^ref-9]
 
 ### Hoyle Official Book of Games Series (1989-1990)
 
@@ -59,29 +59,27 @@ His 60 credits across 22 games reflects not the limitations of his contributions
 
 ### Sierra On-Line (1988–1991)
 
-| Year | Title | Role |
-|------|------|------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | Development System |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | Additional Design |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest 2: The Vengeance]] | Development System |
-| 1988 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Development System |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Development System |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Hero's Quest: So You Want to Be a Hero]] | Development System |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry 3]] | Development System |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle Official Book of Games: Volume 1]] | Development System |
-| 1990 | [[1990 - Codename - Iceman\|Code-Name: Iceman]] | Lead Programmer |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle Official Book of Games: Volume 2]] | Development System |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Development System |
-| 1990 | [[1990 - Conquests of Camelot - The Search for the Grail\|Conquests of Camelot]] | Development System |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Development System |
-| 1990 | [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose VGA]] | Development System |
-| 1990 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1 VGA]] | Development System |
-| 1990 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I VGA]] | Development System |
-| 1990 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest I VGA]] | Development System |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] | Development System |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Development System |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Development System |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Development System |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: Development System
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Role: Additional Design
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] — Role: Development System
+- **1988** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Development System
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Development System
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Hero's Quest: So You Want to Be a Hero]] — Role: Development System
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry 3]] — Role: Development System
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle Official Book of Games: Volume 1]] — Role: Development System
+- **1990** — [[1990 - Codename - Iceman|Code-Name: Iceman]] — Role: Lead Programmer
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle Official Book of Games: Volume 2]] — Role: Development System
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Development System
+- **1990** — [[1990 - Conquests of Camelot - The Search for the Grail|Conquests of Camelot]] — Role: Development System
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Development System
+- **1990** — [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose VGA]] — Role: Development System
+- **1990** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1 VGA]] — Role: Development System
+- **1990** — [[1984 - King's Quest - Quest for the Crown|King's Quest I VGA]] — Role: Development System
+- **1990** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I VGA]] — Role: Development System
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Development System
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Development System
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Development System
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Development System
 
 ## References
 

@@ -68,14 +68,12 @@ The technical innovations pioneered by Game Arts, particularly in their early ac
 
 ### In This Archive (Sierra Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1985 | [[1985 - Thexder\|Thexder]] | Action |
-| 1988 | [[1988 - Silpheed\|Silpheed]] | Shooter |
-| 1989 | [[1989 - Fire Hawk - Thexder - The Second Contact\|Fire Hawk: Thexder: The Second Contact]] | Action |
-| 1990 | [[1990 - Zeliard\|Zeliard]] | Action RPG |
-| 1995 | [[1995 - Thexder 95\|Thexder 95]] | Action |
-| 2009 | [[2009 - Thexder Neo\|Thexder Neo]] | Action |
+- **1985** — [[1985 - Thexder|Thexder]] — Genre: Action
+- **1988** — [[1988 - Silpheed|Silpheed]] — Genre: Shooter
+- **1989** — [[1989 - Fire Hawk - Thexder - The Second Contact|Fire Hawk: Thexder: The Second Contact]] — Genre: Action
+- **1990** — [[1990 - Zeliard|Zeliard]] — Genre: Action RPG
+- **1995** — [[1995 - Thexder 95|Thexder 95]] — Genre: Action
+- **2009** — [[2009 - Thexder Neo|Thexder Neo]] — Genre: Action
 
 ### Other Notable Games (Non-Sierra)
 - Lunar: The Silver Star — 1992 (Sega CD, landmark JRPG with voice acting)

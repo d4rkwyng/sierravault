@@ -68,39 +68,37 @@ Many former Impressions Games employees went on to found or join other notable g
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1991 | [[1991 - Merchant Colony\|Merchant Colony]] | Strategy |
-| 1991 | [[1991 - The Charge of the Light Brigade\|The Charge of the Light Brigade]] | Strategy |
-| 1992 | [[1992 - Air Bucks\|Air Bucks]] | Simulation |
-| 1992 | [[1992 - Air Force Commander\|Air Force Commander]] | Strategy |
-| 1992 | [[1992 - Conquest of Japan\|Conquest of Japan]] | Strategy |
-| 1993 | [[1992 - Caesar\|Caesar]] | City Building |
-| 1993 | [[1993 - Cohort II - Fighting for Rome\|Cohort II: Fighting for Rome]] | Strategy |
-| 1993 | [[1993 - Global Domination\|Global Domination]] | Strategy |
-| 1993 | [[1993 - WW2 Air Force Commander\|WW2 Air Force Commander]] | Strategy |
-| 1994 | [[1994 - Detroit\|Detroit]] | Simulation |
-| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Strategy |
-| 1995 | [[1995 - Breach 3\|Breach 3]] | Strategy |
-| 1995 | [[1995 - Caesar II\|Caesar II]] | City Building |
-| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Simulation |
-| 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Strategy |
-| 1995 | [[1995 - Ultimate Soccer Manager\|Ultimate Soccer Manager]] | Sports |
-| 1996 | [[1996 - Casino Deluxe 2\|Casino Deluxe 2]] | Simulation |
-| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Strategy |
-| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Strategy |
-| 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Strategy |
-| 1997 | [[1997 - Lords of Magic\|Lords of Magic]] | Strategy |
-| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Strategy |
-| 1998 | [[1998 - Caesar III\|Caesar III]] | City Building |
-| 1998 | [[1998 - Lords of Magic - Special Edition\|Lords of Magic: Special Edition]] | Strategy |
-| 1998 | [[1998 - Ultimate Soccer Manager 98\|Ultimate Soccer Manager 98]] | Sports |
-| 1999 | [[1999 - Pharaoh\|Pharaoh]] | City Building |
-| 1999 | [[1999 - Ultimate Soccer Manager 98-99\|Ultimate Soccer Manager 98-99]] | Sports |
-| 2000 | [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] | City Building |
-| 2001 | [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] | City Building |
-| 2002 | [[2002 - Emperor - Rise of the Middle Kingdom\|Emperor: Rise of the Middle Kingdom]] | City Building |
-| 2004 | [[2004 - Lords of the Realm III\|Lords of the Realm III]] | Strategy |
+- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Genre: Strategy
+- **1991** — [[1991 - The Charge of the Light Brigade|The Charge of the Light Brigade]] — Genre: Strategy
+- **1992** — [[1992 - Air Bucks|Air Bucks]] — Genre: Simulation
+- **1992** — [[1992 - Air Force Commander|Air Force Commander]] — Genre: Strategy
+- **1992** — [[1992 - Conquest of Japan|Conquest of Japan]] — Genre: Strategy
+- **1993** — [[1992 - Caesar|Caesar]] — Genre: City Building
+- **1993** — [[1993 - Cohort II - Fighting for Rome|Cohort II: Fighting for Rome]] — Genre: Strategy
+- **1993** — [[1993 - Global Domination|Global Domination]] — Genre: Strategy
+- **1993** — [[1993 - WW2 Air Force Commander|WW2 Air Force Commander]] — Genre: Strategy
+- **1994** — [[1994 - Detroit|Detroit]] — Genre: Simulation
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Genre: Strategy
+- **1995** — [[1995 - Breach 3|Breach 3]] — Genre: Strategy
+- **1995** — [[1995 - Caesar II|Caesar II]] — Genre: City Building
+- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Genre: Simulation
+- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Genre: Strategy
+- **1995** — [[1995 - Ultimate Soccer Manager|Ultimate Soccer Manager]] — Genre: Sports
+- **1996** — [[1996 - Casino Deluxe 2|Casino Deluxe 2]] — Genre: Simulation
+- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Genre: Strategy
+- **1996** — [[1996 - Robert E. Lee - Civil War General|Robert E. Lee: Civil War General]] — Genre: Strategy
+- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Genre: Strategy
+- **1997** — [[1997 - Lords of Magic|Lords of Magic]] — Genre: Strategy
+- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Genre: Strategy
+- **1998** — [[1998 - Caesar III|Caesar III]] — Genre: City Building
+- **1998** — [[1998 - Lords of Magic - Special Edition|Lords of Magic: Special Edition]] — Genre: Strategy
+- **1998** — [[1998 - Ultimate Soccer Manager 98|Ultimate Soccer Manager 98]] — Genre: Sports
+- **1999** — [[1999 - Pharaoh|Pharaoh]] — Genre: City Building
+- **1999** — [[1999 - Ultimate Soccer Manager 98-99|Ultimate Soccer Manager 98-99]] — Genre: Sports
+- **2000** — [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] — Genre: City Building
+- **2001** — [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]] — Genre: City Building
+- **2002** — [[2002 - Emperor - Rise of the Middle Kingdom|Emperor: Rise of the Middle Kingdom]] — Genre: City Building
+- **2004** — [[2004 - Lords of the Realm III|Lords of the Realm III]] — Genre: Strategy
 
 ## References
 

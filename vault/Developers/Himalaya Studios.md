@@ -67,10 +67,8 @@ Through their dedication to preserving adventure game design principles while up
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Adventure |
-| 2019 | [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation: Reign of the Elements]] | Adventure/RPG |
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Genre: Adventure
+- **2019** — [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation: Reign of the Elements]] — Genre: Adventure/RPG
 
 ## References
 

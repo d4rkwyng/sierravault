@@ -13,9 +13,9 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Infamous Quests is an independent game development and publishing studio founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures\|Infamous Adventures]]. While Infamous Adventures focused on free Sierra remakes, Infamous Quests shifted to developing and publishing original commercial adventure games in the classic Sierra style.
+Infamous Quests is an independent game development and publishing studio founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]]. While Infamous Adventures focused on free Sierra remakes, Infamous Quests shifted to developing and publishing original commercial adventure games in the classic Sierra style.
 
-For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Quests\|Infamous Quests (Developer)]].
+For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Quests|Infamous Quests (Developer)]].
 
 ## Publishing History
 
@@ -23,17 +23,15 @@ The studio successfully funded their debut game, *Quest for Infamy*, through Kic
 
 ## Games Published
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Kickstarter-funded debut |
-| 2015 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne: The King's Challenge]] | Episodic fairy tale adventure |
-| TBD | [[TBD - Quest for Infamy - Roehm to Ruin\|Quest for Infamy: Roehm to Ruin]] | Prequel in development |
-| TBD | [[TBD - Order of the Thorne - Fortress of Fire\|Order of the Thorne: Fortress of Fire]] | Episode 2, development paused |
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Notes: Kickstarter-funded debut
+- **2015** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne: The King's Challenge]] — Notes: Episodic fairy tale adventure
+- **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] — Notes: Prequel in development
+- **TBD** — [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] — Notes: Episode 2, development paused
 
 ## Related
 
-- **Developer Page:** [[Developers/Infamous Quests\|Infamous Quests]]
-- **Predecessor:** [[Publishers/Infamous Adventures\|Infamous Adventures]] (free remakes, 2004-2012)
+- **Developer Page:** [[Developers/Infamous Quests|Infamous Quests]]
+- **Predecessor:** [[Publishers/Infamous Adventures|Infamous Adventures]] (free remakes, 2004-2012)
 
 ## References
 

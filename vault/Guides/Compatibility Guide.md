@@ -5,7 +5,7 @@ last_updated: 2025-01-30
 ---
 # Patch & Compatibility Guide
 
-This guide highlights essential fixes, installers, and configuration tips for running Sierra-era games on modern systems. Combine these with the [[Platform Guide\|Platform Guide]] and [[Buying Guide\|Buying Guide]] for best results.
+This guide highlights essential fixes, installers, and configuration tips for running Sierra-era games on modern systems. Combine these with the [[Platform Guide|Platform Guide]] and [[Buying Guide|Buying Guide]] for best results.
 
 ## Essential Sources
 - [SierraHelp.com](https://www.sierrahelp.com/) – Community-made installers, DOSBox/ScummVM wrappers, and patch mirrors for nearly every Sierra release.

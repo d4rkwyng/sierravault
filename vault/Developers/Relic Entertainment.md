@@ -33,10 +33,8 @@ After leaving Sierra's publishing umbrella, Relic became one of the premier RTS 
 
 ### In This Archive (Sierra Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1999 | [[1999 - Homeworld\|Homeworld]] | Real-Time Strategy |
-| 2003 | [[2003 - Homeworld 2\|Homeworld 2]] | Real-Time Strategy |
+- **1999** — [[1999 - Homeworld|Homeworld]] — Genre: Real-Time Strategy
+- **2003** — [[2003 - Homeworld 2|Homeworld 2]] — Genre: Real-Time Strategy
 
 ### Other Notable Games (Post-Sierra)
 - Warhammer 40,000: Dawn of War — 2004 (THQ, acclaimed RTS with squad-based combat)

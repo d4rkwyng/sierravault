@@ -12,27 +12,25 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Tomahawk was a French video game publisher that worked with [[Developers/Coktel Vision\|Coktel Vision]] during the late 1980s and early 1990s. The company published several Coktel Vision titles in France before Coktel's acquisition by Sierra On-Line in 1993.
+Tomahawk was a French video game publisher that worked with [[Developers/Coktel Vision|Coktel Vision]] during the late 1980s and early 1990s. The company published several Coktel Vision titles in France before Coktel's acquisition by Sierra On-Line in 1993.
 
 ## Sierra Connection
 
-Tomahawk served as the original French publisher for many [[Developers/Coktel Vision\|Coktel Vision]] games that were later distributed internationally by Sierra On-Line after the studio's acquisition. These games represent the pre-Sierra era of Coktel Vision's catalog.
+Tomahawk served as the original French publisher for many [[Developers/Coktel Vision|Coktel Vision]] games that were later distributed internationally by Sierra On-Line after the studio's acquisition. These games represent the pre-Sierra era of Coktel Vision's catalog.
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Developer |
-|------|------|-----------|
-| 1988 | [[1988 - African Raiders-01\|African Raiders-01]] | Coktel Vision |
-| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Coktel Vision |
-| 1989 | [[1989 - ESS - European Space Simulator\|ESS: European Space Simulator]] | Coktel Vision |
-| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Coktel Vision |
-| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Coktel Vision |
-| 1991 | [[1991 - Fascination\|Fascination]] | Coktel Vision |
+- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Developer: Coktel Vision
+- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Developer: Coktel Vision
+- **1989** — [[1989 - ESS - European Space Simulator|ESS: European Space Simulator]] — Developer: Coktel Vision
+- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Developer: Coktel Vision
+- **1990** — [[1990 - Cougar Force|Cougar Force]] — Developer: Coktel Vision
+- **1991** — [[1991 - Fascination|Fascination]] — Developer: Coktel Vision
 
 ## Related
 
-- **Primary Developer:** [[Developers/Coktel Vision\|Coktel Vision]]
-- **Later Publisher:** [[Publishers/Sierra On-Line\|Sierra On-Line]] (after 1993 acquisition)
+- **Primary Developer:** [[Developers/Coktel Vision|Coktel Vision]]
+- **Later Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]] (after 1993 acquisition)
 
 ## References
 

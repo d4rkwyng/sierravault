@@ -66,12 +66,10 @@ Under Ubisoft ownership, Massive has continued to push technological boundaries,
 
 ### In This Archive (Sierra/Vivendi Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2000 | [[2000 - Ground Control\|Ground Control]] | Real-Time Tactics |
-| 2000 | [[2000 - Ground Control - Dark Conspiracy\|Ground Control: Dark Conspiracy]] | Real-Time Tactics |
-| 2004 | [[2004 - Ground Control II - Operation Exodus\|Ground Control II: Operation Exodus]] | Real-Time Strategy |
-| 2007 | [[2007 - World in Conflict\|World in Conflict]] | Real-Time Strategy |
+- **2000** — [[2000 - Ground Control|Ground Control]] — Genre: Real-Time Tactics
+- **2000** — [[2000 - Ground Control - Dark Conspiracy|Ground Control: Dark Conspiracy]] — Genre: Real-Time Tactics
+- **2004** — [[2004 - Ground Control II - Operation Exodus|Ground Control II: Operation Exodus]] — Genre: Real-Time Strategy
+- **2007** — [[2007 - World in Conflict|World in Conflict]] — Genre: Real-Time Strategy
 
 ### Other Notable Games (Post-Sierra/Ubisoft Era)
 - Tom Clancy's The Division — 2016 (Ubisoft, online action RPG, massive commercial success)

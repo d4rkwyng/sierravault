@@ -15,7 +15,7 @@ last_updated: "2026-01-17"
 
 Coktel Vision was a French video game developer and publisher founded in 1985 by Roland Oskian. The studio became known for distinctive adventure games with surreal humor, including the Gobliiins series and the Adi educational software line. Sierra On-Line acquired Coktel Vision in 1993, making it Sierra's primary European development arm.
 
-For detailed information about the studio's development history, see [[Developers/Coktel Vision\|Coktel Vision (Developer)]].
+For detailed information about the studio's development history, see [[Developers/Coktel Vision|Coktel Vision (Developer)]].
 
 ## Sierra Connection
 
@@ -25,17 +25,15 @@ The Gobliiins series, Coktel's signature franchise, became part of Sierra's adve
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Series |
-|------|------|--------|
-| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Gobliiins |
-| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Gobliiins |
-| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Gobliiins |
+- **1991** — [[1991 - Gobliiins|Gobliiins]] — Series: Gobliiins
+- **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Series: Gobliiins
+- **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Series: Gobliiins
 
 ## Related
 
-- **Developer Page:** [[Developers/Coktel Vision\|Coktel Vision]]
-- **Parent Company:** [[Publishers/Sierra On-Line\|Sierra On-Line]]
-- **Pre-Sierra Publisher:** [[Publishers/Tomahawk\|Tomahawk]] (French releases)
+- **Developer Page:** [[Developers/Coktel Vision|Coktel Vision]]
+- **Parent Company:** [[Publishers/Sierra On-Line|Sierra On-Line]]
+- **Pre-Sierra Publisher:** [[Publishers/Tomahawk|Tomahawk]] (French releases)
 
 ## References
 

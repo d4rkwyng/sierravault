@@ -78,13 +78,11 @@ The studio's acquisition by EA and subsequent closure represents a common patter
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1997 | [[1997 - Front Page Sports - Golf\|Front Page Sports: Golf]] | Sports Simulation |
-| 1997 | [[1997 - Front Page Sports Golf - Tour Course Add-On\|Front Page Sports Golf: Tour Course Add-On]] | Sports Simulation |
-| 1999 | [[1999 - PGA Championship Golf 1999 Edition\|PGA Championship Golf 1999 Edition]] | Sports Simulation |
-| 2000 | [[2000 - PGA Championship Golf 2000\|PGA Championship Golf 2000]] | Sports Simulation |
-| 2001 | [[2001 - PGA Championship Golf - Collector's Edition\|PGA Championship Golf: Collector's Edition]] | Sports Simulation |
+- **1997** — [[1997 - Front Page Sports - Golf|Front Page Sports: Golf]] — Genre: Sports Simulation
+- **1997** — [[1997 - Front Page Sports Golf - Tour Course Add-On|Front Page Sports Golf: Tour Course Add-On]] — Genre: Sports Simulation
+- **1999** — [[1999 - PGA Championship Golf 1999 Edition|PGA Championship Golf 1999 Edition]] — Genre: Sports Simulation
+- **2000** — [[2000 - PGA Championship Golf 2000|PGA Championship Golf 2000]] — Genre: Sports Simulation
+- **2001** — [[2001 - PGA Championship Golf - Collector's Edition|PGA Championship Golf: Collector's Edition]] — Genre: Sports Simulation
 
 ## References
 

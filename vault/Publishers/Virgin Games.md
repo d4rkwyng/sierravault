@@ -25,14 +25,12 @@ Virgin Games published titles developed by studios that later worked with Sierra
 
 ## Games in This Archive
 
-| Year | Game | Developer |
-|------|------|-----------|
-| 1994 | [[1994 - NASCAR Racing\|NASCAR Racing]] | Papyrus Design Group |
+- **1994** — [[1994 - NASCAR Racing|NASCAR Racing]] — Developer: Papyrus Design Group
 
 ## Related
 
-- **Developer:** [[Developers/Synergistic Software\|Synergistic Software]]
-- **Developer:** [[Developers/Papyrus Design Group\|Papyrus Design Group]]
+- **Developer:** [[Developers/Synergistic Software|Synergistic Software]]
+- **Developer:** [[Developers/Papyrus Design Group|Papyrus Design Group]]
 
 ## References
 

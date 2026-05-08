@@ -27,11 +27,11 @@ His earliest credited work was Asterix: Operation Getafix (1989), where he provi
 
 ### Coktel Vision and Sierra Years
 
-The pinnacle of Gilhodes' early career came with the creation of the original [[1991 - Gobliiins\|Gobliiins]] in 1991, which he developed while working with Coktel Vision under the Sierra umbrella.[^ref-7] This breakthrough title established him as a major talent in the adventure game genre and launched what would become one of the most beloved puzzle-adventure series in gaming history.
+The pinnacle of Gilhodes' early career came with the creation of the original [[1991 - Gobliiins|Gobliiins]] in 1991, which he developed while working with Coktel Vision under the Sierra umbrella.[^ref-7] This breakthrough title established him as a major talent in the adventure game genre and launched what would become one of the most beloved puzzle-adventure series in gaming history.
 
-Following the success of the first game, Gilhodes continued to develop the series with [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3\|Goblins Quest 3]] (1993).[^ref-8] During this period, he also contributed to other notable projects including Once Upon a Time: Abracadabra (1991) and Once Upon a Time: Baba Yaga (1991) as an illustrator, and was credited as creator on [[1992 - Inca\|Inca]] (1992), Coktel Vision's action-adventure game blending space combat with puzzle-solving in an alternate-history Incan setting.[^ref-9]
+Following the success of the first game, Gilhodes continued to develop the series with [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] (1992) and [[1993 - Goblins Quest 3|Goblins Quest 3]] (1993).[^ref-8] During this period, he also contributed to other notable projects including Once Upon a Time: Abracadabra (1991) and Once Upon a Time: Baba Yaga (1991) as an illustrator, and was credited as creator on [[1992 - Inca|Inca]] (1992), Coktel Vision's action-adventure game blending space combat with puzzle-solving in an alternate-history Incan setting.[^ref-9]
 
-His work expanded beyond the Gobliiins series during the mid-1990s, contributing graphics and artwork to [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] (1995), which he describes as "créateur du jeu" (creator of the game).[^ref-2] This project demonstrated his versatility as both a visual artist and game designer, creating complex narratives that pushed the boundaries of adventure game storytelling.
+His work expanded beyond the Gobliiins series during the mid-1990s, contributing graphics and artwork to [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] (1995), which he describes as "créateur du jeu" (creator of the game).[^ref-2] This project demonstrated his versatility as both a visual artist and game designer, creating complex narratives that pushed the boundaries of adventure game storytelling.
 
 ### Later Career
 
@@ -45,9 +45,9 @@ His Wizarbox contributions continued through 2012 with Captain Morgane and the G
 
 #### Return to Gobliiins
 
-In 2009, concurrent with his Wizarbox work, Gilhodes returned to his most famous creation with [[2009 - Gobliiins 4\|Gobliiins 4]], reviving the series after more than a decade.[^ref-12] He assembled a team called Société Pollene specifically to develop the fourth installment.[^ref-6] This return marked the beginning of his transition to independent development, eventually leading to his presence on platforms like itch.io where he continues to develop games independently.[^ref-13]
+In 2009, concurrent with his Wizarbox work, Gilhodes returned to his most famous creation with [[2009 - Gobliiins 4|Gobliiins 4]], reviving the series after more than a decade.[^ref-12] He assembled a team called Société Pollene specifically to develop the fourth installment.[^ref-6] This return marked the beginning of his transition to independent development, eventually leading to his presence on platforms like itch.io where he continues to develop games independently.[^ref-13]
 
-Most recently, in 2023, Gilhodes released [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5: The Morgloton Invasion]] as an independent developer.[^ref-14] He has also announced plans for Gobliins 6, stating "Merci pour tes encouragements ! J'espère que Gobliiins5 te plaira. Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2."[^ref-15]
+Most recently, in 2023, Gilhodes released [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] as an independent developer.[^ref-14] He has also announced plans for Gobliins 6, stating "Merci pour tes encouragements ! J'espère que Gobliiins5 te plaira. Le suivant est commencé, Gobliins6, qui est la suite de Gobliins2."[^ref-15]
 
 ## Notable Works
 
@@ -89,37 +89,32 @@ The ongoing development of new entries in the Gobliiins series demonstrates the 
 
 ### Coktel Vision / Sierra Era (1989–1996)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1989 | Asterix: Operation Getafix | Graphics |
-| 1990 | [[1990 - Geisha\|Geisha]] | Graphics |
-| 1990 | Los Tres Cerditos Se Divierten | Graphics |
-| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Creator/Designer/Graphics |
-| 1991 | Once Upon a Time: Abracadabra | Illustrator |
-| 1991 | Once Upon a Time: Baba Yaga | Illustrator |
-| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Creator/Designer/Graphics |
-| 1992 | [[1992 - Inca\|Inca]] | Creator/Graphics |
-| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Creator/Designer/Graphics |
-| 1995 | Playtoons 4: The Mandarine Prince | Graphics |
-| 1995 | Playtoons № 5: La Pierre de Wakan | Graphics |
-| 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] | Creator/Scenario/Graphics |
-| 1996 | [[1996 - Urban Runner\|Urban Runner]] | Contributor |
+- 1989 — Asterix: Operation Getafix — Graphics
+- **1990** — [[1990 - Geisha|Geisha]] — Role: Graphics
+- 1990 — Los Tres Cerditos Se Divierten — Graphics
+- **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Creator/Designer/Graphics
+- 1991 — Once Upon a Time: Abracadabra — Illustrator
+- 1991 — Once Upon a Time: Baba Yaga — Illustrator
+- **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Role: Creator/Designer/Graphics
+- **1992** — [[1992 - Inca|Inca]] — Role: Creator/Graphics
+- **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Role: Creator/Designer/Graphics
+- 1995 — Playtoons 4: The Mandarine Prince — Graphics
+- 1995 — Playtoons № 5: La Pierre de Wakan — Graphics
+- **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Role: Creator/Scenario/Graphics
+- **1996** — [[1996 - Urban Runner|Urban Runner]] — Role: Contributor
 
 ### Post-Coktel Career (2003–2026)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2003 | Ben Hur: Blood of Braves | MAS Productions | 3D Animator |
-| 2005 | Bet on Soldier: Blood Sport | Kylotonn | 2D/3D Artist |
-| 2008 | So Blonde | Wizarbox | Character Animator |
-| 2009 | Scrabble Interactive: 2009 Edition | Wizarbox | Character Animator |
-| 2009 | [[2009 - Gobliiins 4\|Gobliiins 4]] | Société Pollene | Creator/Designer/Graphics/Animations |
-| 2010 | Gray Matter | Wizarbox | Additional Artist |
-| 2010 | So Blonde: Back to the Island | Wizarbox | 3D Artist/Character Animator |
-| 2012 | Captain Morgane and the Golden Turtle | Wizarbox | 3D Artist/Character Animator |
-| 2012 | R.A.W: Realms of Ancient War | Wizarbox | Character Animator |
-| 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5: The Morgloton Invasion]] | Independent | Creator/Designer/Programmer/Graphics |
-| 2026 | [[2026 - Gobliins 6|Gobliins 6]] | Independent | Creator/Designer (In Development) |
+- 2003 — Ben Hur: Blood of Braves — MAS Productions — 3D Animator
+- 2005 — Bet on Soldier: Blood Sport — Kylotonn — 2D/3D Artist
+- 2008 — So Blonde — Wizarbox — Character Animator
+- 2009 — Scrabble Interactive: 2009 Edition — Wizarbox — Character Animator
+- **2009** — [[2009 - Gobliiins 4|Gobliiins 4]] — Company: Société Pollene, Role: Creator/Designer/Graphics/Animations
+- 2010 — Gray Matter — Wizarbox — Additional Artist
+- 2010 — So Blonde: Back to the Island — Wizarbox — 3D Artist/Character Animator
+- 2012 — Captain Morgane and the Golden Turtle — Wizarbox — 3D Artist/Character Animator
+- 2012 — R.A.W: Realms of Ancient War — Wizarbox — Character Animator
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5: The Morgloton Invasion]] — Company: Independent, Role: Creator/Designer/Programmer/Graphics
 
 ## References
 

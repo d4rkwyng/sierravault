@@ -70,11 +70,9 @@ Many former Monolith employees went on to found other successful gaming companie
 
 ### In This Archive (Sierra Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | Action-Adventure |
-| 2002 | [[2002 - No One Lives Forever 2\|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] | Action-Adventure |
-| 2003 | [[2003 - Contract J.A.C.K.\|Contract J.A.C.K.]] | First-Person Shooter |
+- **2000** — [[2000 - No One Lives Forever|No One Lives Forever]] — Genre: Action-Adventure
+- **2002** — [[2002 - No One Lives Forever 2|No One Lives Forever 2: A Spy in H.A.R.M.'s Way]] — Genre: Action-Adventure
+- **2003** — [[2003 - Contract J.A.C.K.|Contract J.A.C.K.]] — Genre: First-Person Shooter
 
 ### Other Notable Games (Non-Sierra)
 - Blood — 1997 (GT Interactive, cult classic FPS with horror elements)

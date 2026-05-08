@@ -31,7 +31,7 @@ The early years at Dynamix were characterized by what Slye described as youthful
 
 One of Slye's most significant technical contributions was the co-creation of the 3Space engine alongside David McClurg.[^ref-7] This proprietary 3D rendering system provided Dynamix with advanced 3D capabilities that were cutting-edge for their time, enabling the studio to create immersive vehicular simulations that set new standards for visual fidelity and realism.[^ref-12] The 3Space engine powered many of Dynamix's most successful simulation titles and helped establish the company as a leader in 3D graphics technology.[^ref-13]
 
-Slye designed and directed a dozen games during his eleven years at Dynamix, ranging from 3D action games to modern and historical flight simulators.[^ref-7] His Great War Planes series—including [[1989 - A-10 Tank Killer\|A-10 Tank Killer]], [[1990 - Red Baron\|Red Baron]], [[1992 - Aces of the Pacific\|Aces of the Pacific]], and [[1993 - Aces Over Europe\|Aces Over Europe]]—became legendary in the simulation gaming community.[^ref-2]
+Slye designed and directed a dozen games during his eleven years at Dynamix, ranging from 3D action games to modern and historical flight simulators.[^ref-7] His Great War Planes series—including [[1989 - A-10 Tank Killer|A-10 Tank Killer]], [[1990 - Red Baron|Red Baron]], [[1992 - Aces of the Pacific|Aces of the Pacific]], and [[1993 - Aces Over Europe|Aces Over Europe]]—became legendary in the simulation gaming community.[^ref-2]
 
 When Sierra On-Line acquired Dynamix in 1990, Slye retained his key leadership role and continued to drive innovation at the studio.[^ref-4] Under Sierra's umbrella, Dynamix expanded its reach and resources while maintaining the creative independence that had made it successful.[^ref-14] As one industry observer noted: "Few game studios of the 80s and 90s tackled a wider set of genres with as much success and innovative spirit as Dynamix."[^ref-3]
 
@@ -55,13 +55,13 @@ Building on the success of Stellar 7, Arcticfox represented a significant evolut
 
 ### Red Baron (1990)
 
-[[1990 - Red Baron\|Red Baron]] stands as Slye's magnum opus and one of the most influential flight simulation games ever created.[^ref-18] Developed during his time at Dynamix under Sierra On-Line, the game featured unprecedented realism in aircraft modeling and combat mechanics.[^ref-12] Slye's background in mathematics and physics was crucial to the game's success, as he "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat," according to colleague David McClurg.[^ref-8]
+[[1990 - Red Baron|Red Baron]] stands as Slye's magnum opus and one of the most influential flight simulation games ever created.[^ref-18] Developed during his time at Dynamix under Sierra On-Line, the game featured unprecedented realism in aircraft modeling and combat mechanics.[^ref-12] Slye's background in mathematics and physics was crucial to the game's success, as he "designed and programmed a flight model from scratch for Red Baron, a historical simulator of WWI air combat," according to colleague David McClurg.[^ref-8]
 
 The game's development philosophy balanced authenticity with entertainment value, as Slye noted that "Red Baron was intended to be entertaining and fun for players rather than focusing primarily on realism."[^ref-18] This approach helped make the complex subject of World War I aerial combat accessible to a broad audience while maintaining enough technical depth to satisfy simulation enthusiasts.[^ref-13] Red Baron nabbed the #4 spot on Computer Gaming World's Best Computer Games of All Time list and won Computer Gaming World's Simulation of the Year award in 1991, cementing Slye's reputation as one of the premier flight simulation designers in the industry.[^ref-2]
 
 ### Aces of the Pacific (1992)
 
-[[1992 - Aces of the Pacific\|Aces of the Pacific]] continued Slye's dominance in the flight simulation genre, taking players back to World War II Pacific theater aerial combat.[^ref-2] As lead designer and director, Slye created a game featuring a wide variety of historically accurate fighter aircraft from both American and Japanese forces.[^ref-7] The game featured historical missions, real flying aces, and detailed realism features including changes in weather, sunspots, and blackouts.[^ref-2] Aces of the Pacific was followed by the expansion "WWII: 1946" and the European theater companion [[1993 - Aces Over Europe\|Aces Over Europe]] in 1993, completing the Aces series that further solidified the Great War Planes franchise.[^ref-7]
+[[1992 - Aces of the Pacific|Aces of the Pacific]] continued Slye's dominance in the flight simulation genre, taking players back to World War II Pacific theater aerial combat.[^ref-2] As lead designer and director, Slye created a game featuring a wide variety of historically accurate fighter aircraft from both American and Japanese forces.[^ref-7] The game featured historical missions, real flying aces, and detailed realism features including changes in weather, sunspots, and blackouts.[^ref-2] Aces of the Pacific was followed by the expansion "WWII: 1946" and the European theater companion [[1993 - Aces Over Europe|Aces Over Europe]] in 1993, completing the Aces series that further solidified the Great War Planes franchise.[^ref-7]
 
 ## Design Philosophy
 
@@ -85,32 +85,28 @@ The influence of Slye's work can be seen in the continued popularity and evoluti
 
 ### Dynamix Years (1983–1994)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1983 | Stellar 7 (original)[^ref-2] | Designer, Programmer |
-| 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Additional Designer |
-| 1986 | Arcticfox | Designer, Programmer |
-| 1987 | Skyfox II: The Cygnus Conflict | Creator |
-| 1989 | Project Firestart | Designer |
-| 1989 | [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation\|Tank: The M1A1 Abrams Battle Tank Simulation]] | Director |
-| 1989 | Deathtrack | Actor (as "Sly") |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Producer, Flight Model |
-| 1989 | [[1989 - A-10 Tank Killer\|A-10 Tank Killer]] | Director |
-| 1990 | [[1990 - Stellar 7\|Stellar 7]] | Designer, Producer |
-| 1990 | [[1990 - Red Baron\|Red Baron]] | Designer, Director, Lead Programmer |
-| 1991 | [[1991 - Heart of China\|Heart of China]] | Actor (as British Guard) |
-| 1991 | [[1991 - A-10 Tank Killer v1.5\|A-10 Tank Killer v1.5]] | Contributor |
-| 1992 | [[1992 - Aces of the Pacific\|Aces of the Pacific]] | Lead Designer, Director |
-| 1992 | [[1992 - Red Baron - Mission Builder\|Red Baron: Mission Builder]] | Producer |
-| 1993 | [[1993 - Stellar 7 - Draxon's Revenge\|Stellar 7: Draxon's Revenge]] | Original Designer |
-| 1993 | [[1993 - Aces Over Europe\|Aces Over Europe]] | Designer, Director |
+- 1983 — Stellar 7 (original)[^ref-2] — Designer, Programmer
+- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Additional Designer
+- 1986 — Arcticfox — Designer, Programmer
+- 1987 — Skyfox II: The Cygnus Conflict — Creator
+- 1989 — Project Firestart — Designer
+- **1989** — [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation|Tank: The M1A1 Abrams Battle Tank Simulation]] — Role: Director
+- 1989 — Deathtrack — Actor (as "Sly")
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Producer, Flight Model
+- **1989** — [[1989 - A-10 Tank Killer|A-10 Tank Killer]] — Role: Director
+- **1990** — [[1990 - Stellar 7|Stellar 7]] — Role: Designer, Producer
+- **1990** — [[1990 - Red Baron|Red Baron]] — Role: Designer, Director, Lead Programmer
+- **1991** — [[1991 - Heart of China|Heart of China]] — Role: Actor (as British Guard)
+- **1991** — [[1991 - A-10 Tank Killer v1.5|A-10 Tank Killer v1.5]] — Role: Contributor
+- **1992** — [[1992 - Aces of the Pacific|Aces of the Pacific]] — Role: Lead Designer, Director
+- **1992** — [[1992 - Red Baron - Mission Builder|Red Baron: Mission Builder]] — Role: Producer
+- **1993** — [[1993 - Stellar 7 - Draxon's Revenge|Stellar 7: Draxon's Revenge]] — Role: Original Designer
+- **1993** — [[1993 - Aces Over Europe|Aces Over Europe]] — Role: Designer, Director
 
 ### Post-Sierra (2007–Present)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 2008 | [[2008 - Ace of Aces\|Ace of Aces]] | Instant Action | Designer |
-| 2011 | Villagers and Heroes | Mad Otter Games | Lead Designer, Director |
+- **2008** — [[2008 - Ace of Aces|Ace of Aces]] — Company: Instant Action, Role: Designer
+- 2011 — Villagers and Heroes — Mad Otter Games — Lead Designer, Director
 ## References
 
 [^ref-1]: [Damon Slye - Wikipedia](https://en.wikipedia.org/wiki/Damon_Slye) — Basic biographical information and career overview

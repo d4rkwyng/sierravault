@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-John Cutter is a pioneering American video game designer whose career spans over four decades, making him one of the longest-serving game developers in the industry.[^ref-1] As the first employee at the legendary Amiga development studio Cinemaware, Cutter helped establish one of the most influential gaming companies of the 1980s, producing groundbreaking cinematic titles that redefined expectations for visual presentation in games.[^ref-2] Later, at Dynamix, he served as lead designer on [[1993 - Betrayal at Krondor\|Betrayal at Krondor]], widely considered one of the greatest role-playing games ever made.[^ref-3]
+John Cutter is a pioneering American video game designer whose career spans over four decades, making him one of the longest-serving game developers in the industry.[^ref-1] As the first employee at the legendary Amiga development studio Cinemaware, Cutter helped establish one of the most influential gaming companies of the 1980s, producing groundbreaking cinematic titles that redefined expectations for visual presentation in games.[^ref-2] Later, at Dynamix, he served as lead designer on [[1993 - Betrayal at Krondor|Betrayal at Krondor]], widely considered one of the greatest role-playing games ever made.[^ref-3]
 
 Born in North America, Cutter attended Pepperdine University from 1980 to 1983, studying Radio & Television broadcasting with a minor in advertising.[^ref-4] His career trajectory reflects the evolution of the gaming industry itself—from the "Wild West" days of early home computing at Cinemaware, through the golden age of Sierra-published RPGs at Dynamix, to the sophisticated casual gaming market at Big Fish Games in the 2000s.[^ref-5] He describes his philosophy succinctly: "I have worn many hats in my 40 years as a game developer, but my true passion is Game."[^ref-6]
 
@@ -41,7 +41,7 @@ His final major Cinemaware projects included Wings (1990), a critically acclaime
 
 ### Dynamix and Sierra Era (1991–1993)
 
-After a brief stay at New World Computing following Cinemaware's closure, Cutter joined Dynamix in 1991, bringing his cinematic sensibilities to the Sierra On-Line family of studios.[^ref-1] At Dynamix, he took on his most ambitious project yet: [[1993 - Betrayal at Krondor\|Betrayal at Krondor]], a role-playing game set in Raymond E. Feist's Riftwar universe.
+After a brief stay at New World Computing following Cinemaware's closure, Cutter joined Dynamix in 1991, bringing his cinematic sensibilities to the Sierra On-Line family of studios.[^ref-1] At Dynamix, he took on his most ambitious project yet: [[1993 - Betrayal at Krondor|Betrayal at Krondor]], a role-playing game set in Raymond E. Feist's Riftwar universe.
 
 Cutter served as both designer and director on Betrayal at Krondor, working alongside writer Neal Hallford to craft a narrative experience that emulated Feist's writing style.[^ref-20] The game was designed to resemble a book, featuring chapters and third-person narration, representing a significant evolution in RPG storytelling.[^ref-3] Released in 1993, Betrayal at Krondor became one of the most beloved RPGs of the decade, with its influence still felt in modern game design.[^ref-3]
 
@@ -83,7 +83,7 @@ Defender of the Crown stands as perhaps Cutter's most influential contribution t
 
 On The Three Stooges, Cutter served as producer, director, and designer, creating one of the first successful licensed comedy games.[^ref-15] The game combined minigames with the slapstick humor of the famous comedy trio, demonstrating Cinemaware's ability to tackle diverse subject matter while maintaining their high production values.
 
-### [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] (1993)
+### [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993)
 
 Cutter's work on Betrayal at Krondor as designer and director represented a significant evolution in his career, moving from action-oriented cinematic titles to complex role-playing game systems.[^ref-20] The game, based on Raymond E. Feist's Riftwar universe, required intricate character development mechanics and sophisticated narrative branching. His contributions helped establish it as one of the most beloved RPGs of the 1990s, earning multiple "RPG of the Year" awards and continued recognition decades later.[^ref-3]
 
@@ -137,9 +137,7 @@ His successful transition from the early days of home computing to modern casual
 
 ### Dynamix/Sierra (1991–1993)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | Designer, Director |
+- **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Role: Designer, Director
 
 ### Later Career (1993–2006)
 

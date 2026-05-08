@@ -23,19 +23,19 @@ Murphy's career spans over four decades in the video game industry, beginning in
 
 Scott Murphy entered the video game industry during its formative years, joining Sierra On-Line in the early 1980s when the company was still establishing itself as a major force in computer gaming.[^ref-7] His background in programming and his natural aptitude for problem-solving made him a valuable addition to Sierra's growing development team.[^ref-8] Murphy's early work involved contributing to various projects as both a programmer and designer, learning the craft of game development during an era when small teams created entire games from concept to completion.[^ref-9]
 
-His first notable contribution was work on early Sierra titles including [[1982 - Creepy Corridors\|Creepy Corridors]] in 1982, which helped him develop his skills in game programming and design.[^ref-10] Murphy also contributed programming work to the groundbreaking [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] in 1984, which introduced Sierra's revolutionary AGI (Adventure Game Interpreter) engine and established many conventions that would define adventure gaming.[^ref-11] This early experience working on Roberta Williams' pioneering adventure game provided Murphy with crucial insights into interactive storytelling and game design philosophy.[^ref-12]
+His first notable contribution was work on early Sierra titles including [[1982 - Creepy Corridors|Creepy Corridors]] in 1982, which helped him develop his skills in game programming and design.[^ref-10] Murphy also contributed programming work to the groundbreaking [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] in 1984, which introduced Sierra's revolutionary AGI (Adventure Game Interpreter) engine and established many conventions that would define adventure gaming.[^ref-11] This early experience working on Roberta Williams' pioneering adventure game provided Murphy with crucial insights into interactive storytelling and game design philosophy.[^ref-12]
 
 ### Sierra Years (1986–1995)
 
-Murphy's career truly flourished when he partnered with artist Mark Crowe to create the Space Quest series, beginning with [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] in 1986.[^ref-13] The duo, who dubbed themselves the "Two Guys from Andromeda," created a unique brand of science fiction comedy that distinguished Space Quest from other adventure games of the era.[^ref-14] Murphy's programming expertise and writing skills complemented Crowe's artistic vision, resulting in a creative partnership that would span nearly a decade.[^ref-15]
+Murphy's career truly flourished when he partnered with artist Mark Crowe to create the Space Quest series, beginning with [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] in 1986.[^ref-13] The duo, who dubbed themselves the "Two Guys from Andromeda," created a unique brand of science fiction comedy that distinguished Space Quest from other adventure games of the era.[^ref-14] Murphy's programming expertise and writing skills complemented Crowe's artistic vision, resulting in a creative partnership that would span nearly a decade.[^ref-15]
 
-The success of the first Space Quest game led to immediate sequels, with Murphy co-designing and programming [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] in 1987 and [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] in 1989.[^ref-16] Each game built upon the series' reputation for clever puzzles, memorable characters, and laugh-out-loud humor, with Murphy's technical innovations allowing for increasingly sophisticated gameplay mechanics and visual presentation.[^ref-17] During this period, Murphy also contributed to other Sierra projects, including work on [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] and [[1986 - The Black Cauldron\|The Black Cauldron]].[^ref-18]
+The success of the first Space Quest game led to immediate sequels, with Murphy co-designing and programming [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] in 1987 and [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] in 1989.[^ref-16] Each game built upon the series' reputation for clever puzzles, memorable characters, and laugh-out-loud humor, with Murphy's technical innovations allowing for increasingly sophisticated gameplay mechanics and visual presentation.[^ref-17] During this period, Murphy also contributed to other Sierra projects, including work on [[1989 - The Colonel's Bequest|The Colonel's Bequest]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-18]
 
-The early 1990s marked the peak of Murphy's career at Sierra, as he and Crowe created [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]], widely considered the series' masterpiece.[^ref-19] This game showcased Murphy's growing sophistication as both a programmer and storyteller, featuring time travel elements that allowed players to visit locations from previous games while experiencing cutting-edge VGA graphics and Sound Blaster audio.[^ref-20] Murphy also oversaw the VGA remake of the original Space Quest game, [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter]], demonstrating his commitment to preserving the series' legacy while embracing new technology.
+The early 1990s marked the peak of Murphy's career at Sierra, as he and Crowe created [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]], widely considered the series' masterpiece.[^ref-19] This game showcased Murphy's growing sophistication as both a programmer and storyteller, featuring time travel elements that allowed players to visit locations from previous games while experiencing cutting-edge VGA graphics and Sound Blaster audio.[^ref-20] Murphy also oversaw the VGA remake of the original Space Quest game, [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter]], demonstrating his commitment to preserving the series' legacy while embracing new technology.
 
 ### Post-Sierra / Guys From Andromeda (1996–Present)
 
-Following the completion of [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] in 1995, Murphy's relationship with Sierra began to evolve as the company shifted its focus toward different types of games.[^ref-21] The adventure game market was experiencing significant changes, and the creative freedom that Murphy and Crowe had enjoyed during the series' peak years was becoming increasingly constrained by corporate decisions and market pressures.[^ref-22] Despite plans for Space Quest VII, the project was ultimately cancelled, marking the end of an era for both Murphy and the adventure gaming genre at Sierra.[^ref-23]
+Following the completion of [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] in 1995, Murphy's relationship with Sierra began to evolve as the company shifted its focus toward different types of games.[^ref-21] The adventure game market was experiencing significant changes, and the creative freedom that Murphy and Crowe had enjoyed during the series' peak years was becoming increasingly constrained by corporate decisions and market pressures.[^ref-22] Despite plans for Space Quest VII, the project was ultimately cancelled, marking the end of an era for both Murphy and the adventure gaming genre at Sierra.[^ref-23]
 
 After leaving Sierra, Murphy experienced what he later described as a twenty-year estrangement from his creative partner Mark Crowe, during which time both designers pursued separate projects and career paths.[^ref-19] Murphy continued working in the video game industry in various capacities, though he maintained a lower profile compared to his Sierra years.[^ref-10] During this period, he watched as fans created numerous unofficial Space Quest projects, including fan-made games and remakes that kept the series' spirit alive in the absence of official sequels.[^ref-26]
 
@@ -45,15 +45,15 @@ The advent of crowdfunding platforms in the 2010s provided Murphy and Crowe with
 
 ### Space Quest: The Sarien Encounter (1986)
 
-The original [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] established Scott Murphy as a major creative force in adventure gaming, introducing players to the hapless janitor-turned-hero Roger Wilco and the irreverent humor that would define the series.[^ref-29] Murphy's programming work on the game utilized Sierra's AGI engine to create a seamless blend of puzzle-solving and comedy, while his writing established the series' distinctive voice that parodied science fiction tropes while creating genuinely engaging gameplay.[^ref-30] The game's success proved that adventure games could be both challenging and funny, influencing countless subsequent titles in the genre and establishing Murphy's reputation as a master of interactive comedy.[^ref-31]
+The original [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] established Scott Murphy as a major creative force in adventure gaming, introducing players to the hapless janitor-turned-hero Roger Wilco and the irreverent humor that would define the series.[^ref-29] Murphy's programming work on the game utilized Sierra's AGI engine to create a seamless blend of puzzle-solving and comedy, while his writing established the series' distinctive voice that parodied science fiction tropes while creating genuinely engaging gameplay.[^ref-30] The game's success proved that adventure games could be both challenging and funny, influencing countless subsequent titles in the genre and establishing Murphy's reputation as a master of interactive comedy.[^ref-31]
 
 ### Space Quest IV: Roger Wilco and the Time Rippers (1991)
 
-Widely regarded as the pinnacle of the Space Quest series, [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] showcased Murphy's evolution as both a programmer and storyteller.[^ref-32] The game's innovative time travel mechanics allowed Murphy to create clever puzzles that spanned multiple time periods while delivering sharp commentary on video game culture and science fiction conventions.[^ref-33] Murphy's technical achievements in the game included seamless transitions between different graphical styles representing various time periods, and his writing reached new heights of sophistication while maintaining the series' trademark humor.[^ref-34]
+Widely regarded as the pinnacle of the Space Quest series, [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] showcased Murphy's evolution as both a programmer and storyteller.[^ref-32] The game's innovative time travel mechanics allowed Murphy to create clever puzzles that spanned multiple time periods while delivering sharp commentary on video game culture and science fiction conventions.[^ref-33] Murphy's technical achievements in the game included seamless transitions between different graphical styles representing various time periods, and his writing reached new heights of sophistication while maintaining the series' trademark humor.[^ref-34]
 
 ### King's Quest: Quest for the Crown (1984)
 
-Murphy's early contribution to [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] helped establish many of the technical and design foundations that would later benefit the Space Quest series.[^ref-35] His programming work on the game's AGI engine implementation provided crucial experience in creating smooth character animation and environmental interaction systems that would become hallmarks of Sierra's adventure games.[^ref-36] While Roberta Williams conceived and designed the game, Murphy's technical contributions helped ensure that the revolutionary 3D adventure game concept could be successfully implemented and would run reliably on the various computer systems of the mid-1980s.[^ref-37]
+Murphy's early contribution to [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] helped establish many of the technical and design foundations that would later benefit the Space Quest series.[^ref-35] His programming work on the game's AGI engine implementation provided crucial experience in creating smooth character animation and environmental interaction systems that would become hallmarks of Sierra's adventure games.[^ref-36] While Roberta Williams conceived and designed the game, Murphy's technical contributions helped ensure that the revolutionary 3D adventure game concept could be successfully implemented and would run reliably on the various computer systems of the mid-1980s.[^ref-37]
 
 ## Design Philosophy
 
@@ -71,36 +71,32 @@ Murphy's work has been recognized by industry professionals and fans alike as in
 
 ### Sierra On-Line (1982–1995)
 
-| Year | Title | Role |
-|------|------|------|
-| 1982 | [[1982 - Creepy Corridors\|Creepy Corridors]] | Programmer |
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Programmer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Programmer |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | Co-Designer, Programmer |
-| 1986 | [[1986 - The Black Cauldron\|The Black Cauldron]] | Programmer |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Programmer |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | Co-Designer, Programmer |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | Co-Designer, Programmer |
-| 1989 | [[1989 - The Colonel's Bequest\|The Colonel's Bequest]] | Programmer |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I: Roger Wilco in the Sarien Encounter]] | Co-Designer |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Programmer |
-| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Programmer |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Co-Designer, Lead Programmer, Project Leader |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack]] | Designer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel VGA]] | Programmer |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Programmer |
-| 1993 | [[1993 - Hoyle Classic Card Games\|Hoyle Classic Card Games]] | Voice Talent |
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Programmer |
-| 1993 | [[1993 - Space Quest V - The Next Mutation\|Space Quest V: The Next Mutation]] | Co-Designer, Programmer |
-| 1995 | [[1995 - The Beast Within - A Gabriel Knight Mystery\|The Beast Within: A Gabriel Knight Mystery]] | Audio Editor, Foley |
-| 1995 | [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6: Roger Wilco in the Spinal Frontier]] | Co-Designer, Writer, Voice Director |
+- **1982** — [[1982 - Creepy Corridors|Creepy Corridors]] — Role: Programmer
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: Programmer
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Programmer
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Co-Designer, Programmer
+- **1986** — [[1986 - The Black Cauldron|The Black Cauldron]] — Role: Programmer
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Programmer
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Co-Designer, Programmer
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: Co-Designer, Programmer
+- **1989** — [[1989 - The Colonel's Bequest|The Colonel's Bequest]] — Role: Programmer
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I: Roger Wilco in the Sarien Encounter]] — Role: Co-Designer
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Programmer
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Programmer
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Co-Designer, Lead Programmer, Project Leader
+- **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's Software Picks: Roger Wilco's Spaced Out Game Pack]] — Role: Designer
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel VGA]] — Role: Programmer
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Programmer
+- **1993** — [[1993 - Hoyle Classic Card Games|Hoyle Classic Card Games]] — Role: Voice Talent
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Programmer
+- **1993** — [[1993 - Space Quest V - The Next Mutation|Space Quest V: The Next Mutation]] — Role: Co-Designer, Programmer
+- **1995** — [[1995 - The Beast Within - A Gabriel Knight Mystery|The Beast Within: A Gabriel Knight Mystery]] — Role: Audio Editor, Foley
+- **1995** — [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6: Roger Wilco in the Spinal Frontier]] — Role: Co-Designer, Writer, Voice Director
 
 ### Post-Sierra / Guys From Andromeda (2012–Present)
 
-| Year | Title | Role |
-|------|------|------|
-| 2015 | [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Creator |
-| 2022 | [[2022 - SpaceVenture\|SpaceVenture]] | Co-Designer |
+- **2015** — [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Role: Creator
+- **2022** — [[2022 - SpaceVenture|SpaceVenture]] — Role: Co-Designer
 
 ## References
 

@@ -115,22 +115,18 @@ Combined sales of the Police Quest series—including the SWAT spinoffs develope
 
 ### Sierra On-Line (1987–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Designer, Writer |
-| 1988 | [[1988 - Police Quest II - The Vengeance\|Police Quest II: The Vengeance]] | Designer, Writer |
-| 1989 | [[1990 - Codename - Iceman\|Codename: ICEMAN]] | Designer, Writer |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Designer |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest: In Pursuit of the Death Angel (VGA)]] | Original Designer |
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Designer, Writer
+- **1988** — [[1988 - Police Quest II - The Vengeance|Police Quest II: The Vengeance]] — Role: Designer, Writer
+- **1989** — [[1990 - Codename - Iceman|Codename: ICEMAN]] — Role: Designer, Writer
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Designer
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest: In Pursuit of the Death Angel (VGA)]] — Role: Original Designer
 
 ### Post-Sierra (1993–2002)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1993 | [[1993 - Blue Force\|Blue Force]] | Tsunami Media | Designer |
-| 1997 | Blade Runner | Westwood Studios | Designer, Voice Actor |
-| 2002 | Pirates: The Legend of Black Kat | Westwood Studios / EA | Designer |
-| 2002 | Earth & Beyond | Westwood Studios / EA | Designer |
+- **1993** — [[1993 - Blue Force|Blue Force]] — Company: Tsunami Media, Role: Designer
+- 1997 — Blade Runner — Westwood Studios — Designer, Voice Actor
+- 2002 — Pirates: The Legend of Black Kat — Westwood Studios / EA — Designer
+- 2002 — Earth & Beyond — Westwood Studios / EA — Designer
 
 ### Unreleased
 

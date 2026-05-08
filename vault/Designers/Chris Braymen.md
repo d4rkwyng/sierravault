@@ -61,19 +61,19 @@ Since August 2016, Braymen has served as an Advanced Software Engineer at WB Gam
 
 ### Quest for Glory II: Trial by Fire (1990)
 
-Braymen co-composed the soundtrack for [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II]] alongside Mark Seibert, creating the Middle Eastern-inspired musical themes that accompany the hero's journey through the desert city of Shapeir and the forbidden city of Raseir.[^ref-5] The score featured Arabic musical influences appropriate to the game's setting. His work on this soundtrack was later credited in the 2008 fan remake by AGD Interactive.[^ref-1]
+Braymen co-composed the soundtrack for [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II]] alongside Mark Seibert, creating the Middle Eastern-inspired musical themes that accompany the hero's journey through the desert city of Shapeir and the forbidden city of Raseir.[^ref-5] The score featured Arabic musical influences appropriate to the game's setting. His work on this soundtrack was later credited in the 2008 fan remake by AGD Interactive.[^ref-1]
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-As primary composer on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]], Braymen created one of Sierra's most memorable soundtracks.[^ref-7] His music accompanies Prince Alexander's journey across the Land of the Green Isles, from the Arabian-inspired Isle of the Crown to the mysterious Isle of Wonder and the haunting Realm of the Dead.[^ref-8] The soundtrack received renewed attention in 2024 through the "King's Quest VI - An Ode to the Isles" vinyl reorchestration from Two Guys Records.[^ref-4]
+As primary composer on [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]], Braymen created one of Sierra's most memorable soundtracks.[^ref-7] His music accompanies Prince Alexander's journey across the Land of the Green Isles, from the Arabian-inspired Isle of the Crown to the mysterious Isle of Wonder and the haunting Realm of the Dead.[^ref-8] The soundtrack received renewed attention in 2024 through the "King's Quest VI - An Ode to the Isles" vinyl reorchestration from Two Guys Records.[^ref-4]
 
 ### Laura Bow II: The Dagger of Amon Ra (1992)
 
-Braymen composed the soundtrack for [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], creating atmospheric music for the 1920s museum murder mystery setting.[^ref-10] His piece "Dr. Carter's Murder" achieved later recognition when it was used in the Ben Jordan: Paranormal Investigator Deluxe Edition in 2006.[^ref-10]
+Braymen composed the soundtrack for [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], creating atmospheric music for the 1920s museum murder mystery setting.[^ref-10] His piece "Dr. Carter's Murder" achieved later recognition when it was used in the Ben Jordan: Paranormal Investigator Deluxe Edition in 2006.[^ref-10]
 
 ### EcoQuest: The Search for Cetus (1991)
 
-Braymen contributed to the musical score of [[1991 - EcoQuest - The Search for Cetus\|EcoQuest]], Sierra's educational adventure game about marine conservation.[^ref-6] Working with Mark Seibert, Aubrey Hodges, Dan Kehler, and Orpheus Hanley, he helped create the underwater soundscape for Adam Greene's oceanic adventure.[^ref-6]
+Braymen contributed to the musical score of [[1991 - EcoQuest - The Search for Cetus|EcoQuest]], Sierra's educational adventure game about marine conservation.[^ref-6] Working with Mark Seibert, Aubrey Hodges, Dan Kehler, and Orpheus Hanley, he helped create the underwater soundscape for Adam Greene's oceanic adventure.[^ref-6]
 
 ## Legacy
 
@@ -85,21 +85,19 @@ The Space Quest Historian podcast has featured Braymen verifying composer credit
 
 ### Sierra On-Line (1990–1993)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Oils Well\|Oil's Well]] | Sound Effects (with Mark Seibert) |
-| 1990 | [[1988 - Police Quest II - The Vengeance\|Police Quest 2: The Vengeance]] (Amiga) | Music (with Mark Seibert) |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Composer (with Mark Seibert) |
-| 1991 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry 1 VGA]] | Sound Effects |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Music |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Music |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Music |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Composer |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood\|Conquests of the Longbow]] | Music |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | Composer |
-| 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow II: The Dagger of Amon Ra]] | Composer |
-| 1993 | [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!\|Leisure Suit Larry 6]] | Music |
-| 1993 | [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] | Sound |
+- **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Sound Effects (with Mark Seibert)
+- **1990** — [[1988 - Police Quest II - The Vengeance|Police Quest 2: The Vengeance]] (Amiga) — Role: Music (with Mark Seibert)
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Composer (with Mark Seibert)
+- **1991** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry 1 VGA]] — Role: Sound Effects
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Music
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Music
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Music
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Composer
+- **1991** — [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] — Role: Music
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Role: Composer
+- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow II: The Dagger of Amon Ra]] — Role: Composer
+- **1993** — [[1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!|Leisure Suit Larry 6]] — Role: Music
+- **1993** — [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] — Role: Sound
 
 ### Post-Sierra (1993–Present)
 

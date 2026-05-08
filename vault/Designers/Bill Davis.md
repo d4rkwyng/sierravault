@@ -57,19 +57,19 @@ Since the 2000s, Davis has maintained an active fine art practice under the arti
 
 ### King's Quest V: Absence Makes the Heart Go Yonder (1990)
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] showcased the production improvements Davis brought to Sierra, with enhanced animation quality and visual consistency that set new standards for the franchise.[^ref-11] The game's VGA graphics demonstrated the benefits of Davis's approach to art direction, and its success—becoming the best-selling adventure game of all time—validated the company's investment in higher-fidelity visuals.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] showcased the production improvements Davis brought to Sierra, with enhanced animation quality and visual consistency that set new standards for the franchise.[^ref-11] The game's VGA graphics demonstrated the benefits of Davis's approach to art direction, and its success—becoming the best-selling adventure game of all time—validated the company's investment in higher-fidelity visuals.
 
 ### Space Quest IV: Roger Wilco and the Time Rippers (1991)
 
-[[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] benefited from Davis's animation expertise, featuring more expressive character movements and improved visual storytelling.[^ref-11] The game's time-traveling narrative allowed for varied visual environments that demonstrated the flexibility of Davis's production methods.
+[[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] benefited from Davis's animation expertise, featuring more expressive character movements and improved visual storytelling.[^ref-11] The game's time-traveling narrative allowed for varied visual environments that demonstrated the flexibility of Davis's production methods.
 
 ### Jones in the Fast Lane (1991)
 
-[[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] was illustrated by Davis himself, showcasing the rotoscoping and storyboarding techniques he had introduced to Sierra.[^ref-9] The Spring 1991 edition of Sierra Magazine featured Davis's cover illustration for the game, highlighting his hands-on artistic contributions alongside his management role.
+[[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] was illustrated by Davis himself, showcasing the rotoscoping and storyboarding techniques he had introduced to Sierra.[^ref-9] The Spring 1991 edition of Sierra Magazine featured Davis's cover illustration for the game, highlighting his hands-on artistic contributions alongside his management role.
 
 ### Slater & Charlie Go Camping (1993)
 
-[[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]] represented one of Davis's most comprehensive creative involvements, with credits for writing, directing, producing, art direction, character design, and gag writing.[^ref-11] This children's title demonstrated his versatility across multiple aspects of game development.
+[[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] represented one of Davis's most comprehensive creative involvements, with credits for writing, directing, producing, art direction, character design, and gag writing.[^ref-11] This children's title demonstrated his versatility across multiple aspects of game development.
 
 ### Obsidian (1997)
 
@@ -91,37 +91,34 @@ The visual quality improvements visible in Sierra's games from 1990 onwards refl
 
 ### Sierra On-Line (1989–1996)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | [[1990 - Oils Well\|Oil's Well]] | Creative Director |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | Creative Director |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | Creative Director |
-| 1990 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose (SCI)]] | Creative Director |
-| 1991 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle: Official Book of Games - Volume 3]] | Creative Director |
-| 1991 | [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] | Creative Director |
-| 1991 | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV: Roger Wilco and the Time Rippers]] | Creative Director |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Creative Director |
-| 1991 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Creative Director, Illustrator |
-| 1991 | [[1991 - Police Quest III - The Kindred\|Police Quest III: The Kindred]] | Creative Director |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Creative Director |
-| 1991 | [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]] | Creative Director |
-| 1991 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Creative Director |
-| 1991 | [[1991 - Conquests of the Longbow - The Legend of Robin Hood|Conquests of the Longbow]] | Creative Director |
-| 1991 | [[1991 - Castle of Dr. Brain\|Castle of Dr. Brain]] | Creative Director |
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Creative Director |
-| 1992 | [[1992 - The Island of Dr. Brain\|The Island of Dr. Brain]] | Creative Director |
-| 1992 | [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest 1 VGA]] | Creative Director |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | Creative Director |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] | Creative Director |
-| 1992 | [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge\|Crazy Nick's: King Graham's Board Game Challenge]] | Director |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino\|Crazy Nick's: Leisure Suit Larry's Casino]] | Director |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow\|Crazy Nick's: Parlor Games with Laura Bow]] | Director |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance\|Crazy Nick's: Robin Hood's Games of Skill and Chance]] | Director |
-| 1992 | [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack\|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] | Director |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest 2: Lost Secret of the Rainforest]] | Quality Assurance |
-| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Original Concept |
-| 1993 | [[1993 - Slater & Charlie Go Camping\|Slater & Charlie Go Camping]] | Writer, Director, Producer, Art Director |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | Configuration Group |
+- **1990** — [[1990 - Oils Well|Oil's Well]] — Role: Creative Director
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Role: Creative Director
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Role: Creative Director
+- **1990** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose (SCI)]] — Role: Creative Director
+- **1991** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games - Volume 3]] — Role: Creative Director
+- **1991** — [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] — Role: Creative Director
+- **1991** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV: Roger Wilco and the Time Rippers]] — Role: Creative Director
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Creative Director
+- **1991** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Creative Director, Illustrator
+- **1991** — [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]] — Role: Creative Director
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Creative Director
+- **1991** — [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]] — Role: Creative Director
+- **1991** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Creative Director
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Role: Creative Director
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Creative Director
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Role: Creative Director
+- **1992** — [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest 1 VGA]] — Role: Creative Director
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Role: Creative Director
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] — Role: Creative Director
+- **1992** — [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|Crazy Nick's: King Graham's Board Game Challenge]] — Role: Director
+- **1992** — [[1992 - Crazy Nick's Software Picks - Leisure Suit Larry's Casino|Crazy Nick's: Leisure Suit Larry's Casino]] — Role: Director
+- **1992** — [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|Crazy Nick's: Parlor Games with Laura Bow]] — Role: Director
+- **1992** — [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance|Crazy Nick's: Robin Hood's Games of Skill and Chance]] — Role: Director
+- **1992** — [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack|Crazy Nick's: Roger Wilco's Spaced Out Game Pack]] — Role: Director
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest 2: Lost Secret of the Rainforest]] — Role: Quality Assurance
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Original Concept
+- **1993** — [[1993 - Slater & Charlie Go Camping|Slater & Charlie Go Camping]] — Role: Writer, Director, Producer, Art Director
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Role: Configuration Group
 
 ### Post-Sierra (1996–2011)
 

@@ -17,7 +17,7 @@ Sierra On-Line pioneered voice acting in adventure games, transitioning from sil
 
 Early Sierra games were entirely text-based, with no audio beyond PC speaker beeps and music. Players read narration and dialogue on screen, experiencing stories through the written word.
 
-During this era, games like [[1984 - King's Quest - Quest for the Crown\|King's Quest I]] through [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]] relied on:
+During this era, games like [[1984 - King's Quest - Quest for the Crown|King's Quest I]] through [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] relied on:
 - Text parser input
 - On-screen dialogue boxes
 - Written narration descriptions
@@ -29,12 +29,10 @@ The introduction of CD-ROM technology in the early 1990s made voice acting feasi
 
 **First Voiced Sierra Games:**
 
-| Year | Game | Notes |
-|------|------|-------|
-| 1991 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V CD]] | First Sierra "talkie"—voiced by Sierra staff |
-| 1991 | [[1990 - Mixed-Up Mother Goose (SCI Remake)\|Mixed-Up Mother Goose CD]] | Early talkie for children |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] | First professional voice cast |
-| 1992 | [[1992 - The Dagger of Amon Ra\|Laura Bow 2 CD]] | Full voice acting added |
+- **1991** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V CD]] — Notes: First Sierra "talkie"—voiced by Sierra staff
+- **1991** — [[1990 - Mixed-Up Mother Goose (SCI Remake)|Mixed-Up Mother Goose CD]] — Notes: Early talkie for children
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] — Notes: First professional voice cast
+- **1992** — [[1992 - The Dagger of Amon Ra|Laura Bow 2 CD]] — Notes: Full voice acting added
 
 ### The Golden Age (1993–1998)
 
@@ -46,7 +44,7 @@ By 1993, CD-ROM drives were standard on new PCs, and Sierra invested heavily in 
 
 ### Gabriel Knight: Sins of the Fathers (1993)
 
-[[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight]] featured Sierra's most star-studded cast:[^ref-1]
+[[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight]] featured Sierra's most star-studded cast:[^ref-1]
 
 | Character | Voice Actor | Known For |
 |-----------|-------------|-----------|
@@ -63,7 +61,7 @@ The all-star cast helped establish adventure games as a legitimate storytelling 
 
 ### King's Quest VI: Heir Today, Gone Tomorrow (1992)
 
-[[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI]] was the first Sierra game with a professional lead actor:[^ref-2]
+[[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI]] was the first Sierra game with a professional lead actor:[^ref-2]
 
 | Character | Voice Actor | Known For |
 |-----------|-------------|-----------|
@@ -75,10 +73,8 @@ The game featured motion capture of real actors for character animation, with th
 
 The Space Quest series featured legendary voice actor Gary Owens:[^ref-3]
 
-| Game | Narrator | Known For |
-|------|----------|-----------|
-| [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV]] | **Gary Owens** | Rowan & Martin's Laugh-In, Space Ghost, Roger Ramjet |
-| [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier\|Space Quest 6]] | **Gary Owens** | Same |
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] — Narrator: **Gary Owens**, Known For: Rowan & Martin's Laugh-In, Space Ghost, Roger Ramjet
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier|Space Quest 6]] — Narrator: **Gary Owens**, Known For: Same
 
 Owens accumulated over 30,000 voice-over jobs throughout his career.[^ref-3] When Scott Murphy wrote narrator lines for Space Quest, he "always imagined Gary Owens speaking them; signing Owens was 'a dream come true.'"[^ref-4]
 
@@ -86,7 +82,7 @@ After Owens passed away in 2015, the Two Guys from Andromeda called him "a livin
 
 ### Quest for Glory IV: Shadows of Darkness (1993)
 
-[[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV]] featured extensive narration by:
+[[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV]] featured extensive narration by:
 
 | Role | Voice Actor | Recording Time |
 |------|-------------|----------------|
@@ -96,7 +92,7 @@ Rhys-Davies, known for Indiana Jones (Sallah) and Lord of the Rings (Gimli), bro
 
 ### The Beast Within: A Gabriel Knight Mystery (1995)
 
-[[1995 - The Beast Within - A Gabriel Knight Mystery\|Gabriel Knight 2]] was a full-motion video (FMV) game featuring:
+[[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]] was a full-motion video (FMV) game featuring:
 
 | Character | Actor |
 |-----------|-------|
@@ -107,7 +103,7 @@ The game also featured **Robert Holmes'** original opera, "Der Fluch Des Engelha
 
 ### Phantasmagoria (1995)
 
-[[1995 - Phantasmagoria\|Phantasmagoria]] used live-action FMV with professional actors:
+[[1995 - Phantasmagoria|Phantasmagoria]] used live-action FMV with professional actors:
 
 | Character | Actor |
 |-----------|-------|
@@ -155,13 +151,13 @@ Voice acting presented significant technical challenges in the early 1990s:
 
 ### Robert Holmes
 
-[[Robert Holmes]] produced [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] and composed its soundtrack. He later married co-designer [[Jane Jensen]] and continued as audio director for the Gabriel Knight trilogy.[^ref-8]
+[[Robert Holmes]] produced [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] and composed its soundtrack. He later married co-designer [[Jane Jensen]] and continued as audio director for the Gabriel Knight trilogy.[^ref-8]
 
 ---
 
 ## The King's Quest V Controversy
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]]'s CD-ROM version holds a unique place in Sierra history as both a pioneering talkie and a cautionary tale.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]]'s CD-ROM version holds a unique place in Sierra history as both a pioneering talkie and a cautionary tale.
 
 ### The Problem
 

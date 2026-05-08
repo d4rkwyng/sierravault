@@ -86,30 +86,26 @@ Beyond his technical and creative contributions, Ryan's reputation as a collabor
 
 ### Dynamix Era (1984–2001)
 
-| Year | Title | Role |
-|------|------|------|
-| 1984 | [[1984 - Sword of Kadash\|Sword of Kadash]] | Programmer (C64 version) |
-| 1986 | Arcticfox | Programmer/Graphics/Sound |
-| 1987 | Skyfox II: The Cygnus Conflict | Designer/Programmer |
-| 1989 | [[1989 - David Wolf - Secret Agent\|David Wolf: Secret Agent]] | Programmer |
-| 1990 | F-14 Tomcat | Designer/Programmer |
-| 1990 | [[1990 - Rise of the Dragon\|Rise of the Dragon]] | Programmer |
-| 1991 | [[1991 - The Adventures of Willy Beamish\|The Adventures of Willy Beamish]] | Programmer |
-| 1992 | [[1992 - The Incredible Machine\|The Incredible Machine]] | Designer/Programmer |
-| 1993 | [[1993 - Sid & Al's Incredible Toons\|Sid & Al's Incredible Toons]] | Designer |
-| 1993 | [[1993 - The Even More Incredible Machine\|The Even More! Incredible Machine]] | Designer |
-| 1994 | [[1994 - The Incredible Machine 2\|The Incredible Machine 2]] | Designer |
-| 1994 | [[1994 - The Incredible Toon Machine\|The Incredible Toon Machine]] | Designer |
-| 2000 | [[2000 - Return of The Incredible Machine - Contraptions\|Return of The Incredible Machine: Contraptions]] | Designer |
-| 2001 | [[2001 - The Incredible Machine - Even More Contraptions\|The Incredible Machine: Even More Contraptions]] | Designer |
+- **1984** — [[1984 - Sword of Kadash|Sword of Kadash]] — Role: Programmer (C64 version)
+- 1986 — Arcticfox — Programmer/Graphics/Sound
+- 1987 — Skyfox II: The Cygnus Conflict — Designer/Programmer
+- **1989** — [[1989 - David Wolf - Secret Agent|David Wolf: Secret Agent]] — Role: Programmer
+- 1990 — F-14 Tomcat — Designer/Programmer
+- **1990** — [[1990 - Rise of the Dragon|Rise of the Dragon]] — Role: Programmer
+- **1991** — [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]] — Role: Programmer
+- **1992** — [[1992 - The Incredible Machine|The Incredible Machine]] — Role: Designer/Programmer
+- **1993** — [[1993 - Sid & Al's Incredible Toons|Sid & Al's Incredible Toons]] — Role: Designer
+- **1993** — [[1993 - The Even More Incredible Machine|The Even More! Incredible Machine]] — Role: Designer
+- **1994** — [[1994 - The Incredible Machine 2|The Incredible Machine 2]] — Role: Designer
+- **1994** — [[1994 - The Incredible Toon Machine|The Incredible Toon Machine]] — Role: Designer
+- **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of The Incredible Machine: Contraptions]] — Role: Designer
+- **2001** — [[2001 - The Incredible Machine - Even More Contraptions|The Incredible Machine: Even More Contraptions]] — Role: Designer
 
 ### Top Meadow (2002–present)
 
-| Year | Title | Role |
-|------|------|------|
-| 2002 | Puzzle Poker | Designer/Lead Coder |
-| 2004 | Minigolf Mania | Designer/Lead Coder |
-| 2011 | [[2011 - The Incredible Machine (2011)\|The Incredible Machine (2011)]] | Original Designer |
+- 2002 — Puzzle Poker — Designer/Lead Coder
+- 2004 — Minigolf Mania — Designer/Lead Coder
+- **2011** — [[2011 - The Incredible Machine (2011)|The Incredible Machine (2011)]] — Role: Original Designer
 ## References
 
 [^ref-1]: [GameFocus Developer Interview](https://gamefocus.wordpress.com/2007/01/27/developer-interview-kevin-ryan-at-top-meadow/) — Career overview and game development history

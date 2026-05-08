@@ -79,11 +79,9 @@ Haine's work also stands as a testament to the unique creative environment that 
 
 ### Sierra On-Line (1991–1993)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1991 - EcoQuest - The Search for Cetus\|EcoQuest: The Search for Cetus]] | Designer/Writer |
-| 1993 | [[1993 - EcoQuest - Lost Secret of the Rainforest\|EcoQuest: Lost Secret of the Rainforest]] | Designer/Writer |
-| 1993 | [[1993 - Pepper's Adventures in Time\|Pepper's Adventures in Time]] | Contributor |
+- **1992** — [[1991 - EcoQuest - The Search for Cetus|EcoQuest: The Search for Cetus]] — Role: Designer/Writer
+- **1993** — [[1993 - EcoQuest - Lost Secret of the Rainforest|EcoQuest: Lost Secret of the Rainforest]] — Role: Designer/Writer
+- **1993** — [[1993 - Pepper's Adventures in Time|Pepper's Adventures in Time]] — Role: Contributor
 ## References
 
 [^ref-1]: [The Sierra Discovery Adventures - The Digital Antiquarian](https://www.filfre.net/2018/10/the-sierra-discovery-adventures/) — Career overview and game development details

@@ -42,15 +42,15 @@ As the gaming industry evolved throughout the 1990s and 2000s, Jeff Tunnell Prod
 
 Following the success of the original Incredible Machine at Dynamix, Jeff Tunnell Productions took over development of subsequent entries in the franchise, maintaining the series' reputation for innovative physics-based puzzle gameplay.[^ref-1] The studio's approach to expanding the series involved not just creating new levels and challenges, but fundamentally enhancing the game engine to support more complex interactions and educational applications.[^ref-2] These later iterations demonstrated Tunnell's continued evolution as a designer, incorporating feedback from the educational community and advancing the technical sophistication of the puzzle mechanics.[^ref-3]
 
-### [[1992 - Quarky & Quaysoo's Turbo Science\|Quarky & Quaysoo's Turbo Science]] (1992)
+### [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] (1992)
 
 Quarky & Quaysoo's Turbo Science represented Jeff Tunnell Productions' ambitious entry into science education gaming, featuring two alien characters who guided players through interactive experiments covering physics, chemistry, and biology concepts.[^ref-4] The game utilized Tunnell's expertise in creating engaging simulation environments, allowing students to manipulate variables and observe realistic scientific outcomes in a safe, virtual laboratory setting.[^ref-5] Critics praised the title for successfully avoiding the "vegetables disguised as candy" approach that plagued many educational games, instead creating genuinely entertaining experiences that happened to teach scientific principles.[^ref-6]
 
-### [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] (1993)
+### [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] (1993)
 
 Turbo Learning: Mega Math demonstrated the studio's ability to apply its interactive design philosophy to mathematics education, creating a game environment where mathematical concepts were integrated into engaging puzzle scenarios rather than presented as abstract exercises.[^ref-7] The title featured progressive difficulty levels that adapted to player skill, incorporating Tunnell's understanding of how players learn through experimentation and discovery.[^ref-8] The game's success in both educational and entertainment markets validated the studio's approach to "stealth learning," where educational content was seamlessly woven into compelling gameplay experiences.[^ref-9]
 
-### [[2011 - The Incredible Machine (2011)\|The Incredible Machine (2011)]] (2011)
+### [[2011 - The Incredible Machine (2011)|The Incredible Machine (2011)]] (2011)
 
 The 2011 iteration of The Incredible Machine represented a modern revival of the franchise, bringing Tunnell's classic puzzle design principles to contemporary platforms while incorporating updated graphics and enhanced physics simulation.[^ref-10] This version demonstrated the enduring appeal of the core gameplay concepts that Tunnell had pioneered decades earlier, proving that well-designed puzzle mechanics could transcend technological generations.[^ref-11] The game's development involved careful balance between honoring the original's spirit and incorporating modern user interface conventions and technical capabilities.[^ref-12]
 
@@ -68,11 +68,9 @@ The company's emphasis on player experimentation and discovery learning helped l
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1992 | [[1992 - Quarky & Quaysoo's Turbo Science\|Quarky & Quaysoo's Turbo Science]] | Educational/Simulation |
-| 1993 | [[1993 - Turbo Learning - Mega Math\|Turbo Learning: Mega Math]] | Educational/Puzzle |
-| 2011 | [[2011 - The Incredible Machine (2011)\|The Incredible Machine (2011)]] | Puzzle/Simulation |
+- **1992** — [[1992 - Quarky & Quaysoo's Turbo Science|Quarky & Quaysoo's Turbo Science]] — Genre: Educational/Simulation
+- **1993** — [[1993 - Turbo Learning - Mega Math|Turbo Learning: Mega Math]] — Genre: Educational/Puzzle
+- **2011** — [[2011 - The Incredible Machine (2011)|The Incredible Machine (2011)]] — Genre: Puzzle/Simulation
 
 ## References
 

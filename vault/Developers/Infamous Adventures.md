@@ -61,10 +61,8 @@ The studio's influence extends beyond their own releases, as their success with 
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake]] | Adventure |
-| 2011 | [[2011 - Space Quest II VGA Remake\|Space Quest II VGA Remake]] | Adventure |
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake]] — Genre: Adventure
+- **2011** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Genre: Adventure
 
 ## References
 

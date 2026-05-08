@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Simon Bradbury is a British video game designer, programmer, and CEO who has shaped the strategy gaming genre over more than three decades in the industry.[^ref-1] Best known as the co-founder and creative force behind Firefly Studios, Bradbury has been instrumental in creating some of the most beloved castle-building and city-simulation games in gaming history, including the acclaimed Stronghold series, which has sold over 13 million copies worldwide.[^ref-2] His career spans from the early days of PC gaming through the modern era, with notable contributions to classic titles such as [[1998 - Caesar III\|Caesar III]], [[1996 - Lords of the Realm II\|Lords of the Realm II]], and the entire Stronghold franchise.[^ref-3]
+Simon Bradbury is a British video game designer, programmer, and CEO who has shaped the strategy gaming genre over more than three decades in the industry.[^ref-1] Best known as the co-founder and creative force behind Firefly Studios, Bradbury has been instrumental in creating some of the most beloved castle-building and city-simulation games in gaming history, including the acclaimed Stronghold series, which has sold over 13 million copies worldwide.[^ref-2] His career spans from the early days of PC gaming through the modern era, with notable contributions to classic titles such as [[1998 - Caesar III|Caesar III]], [[1996 - Lords of the Realm II|Lords of the Realm II]], and the entire Stronghold franchise.[^ref-3]
 
 Bradbury's unique position as both designer and programmer has allowed him to directly implement his creative visions, creating games that balance complex economic systems with intuitive user interfaces.[^ref-4] His design philosophy emphasizes "authenticity over accuracy"—making players feel they are genuinely simulating a city or castle while ensuring the experience remains entertaining.[^ref-5] Throughout his career, Bradbury has consistently worked to blend genres, most notably combining city-building with real-time strategy elements in ways that had never been attempted before.[^ref-6]
 
@@ -29,9 +29,9 @@ Bradbury's transition to strategy games—the genre that would become his career
 
 Bradbury's most significant early career achievements came during his time working with Impressions Games, a studio that operated under the Sierra On-Line umbrella after its 1995 acquisition.[^ref-8] Notably, Bradbury worked with Impressions on a freelance basis rather than as an employee, collaborating daily across the Atlantic with lead producer Eric Ouellette.[^ref-5]
 
-His work on the Caesar series began with [[1992 - Caesar\|Caesar]] (1992), where he served as both programmer and design assistant.[^ref-7] He continued with [[1995 - Caesar II\|Caesar II]] (1995), contributing programming and additional design, before reaching the pinnacle of the series with [[1998 - Caesar III\|Caesar III]] (1998), where he served as lead programmer.[^ref-9] Bradbury has cited Caesar III as his personal favorite in the series, describing it as "the most accomplished, polished" entry that "benefitted greatly from the experience of coding and designing the previous two games."[^ref-5]
+His work on the Caesar series began with [[1992 - Caesar|Caesar]] (1992), where he served as both programmer and design assistant.[^ref-7] He continued with [[1995 - Caesar II|Caesar II]] (1995), contributing programming and additional design, before reaching the pinnacle of the series with [[1998 - Caesar III|Caesar III]] (1998), where he served as lead programmer.[^ref-9] Bradbury has cited Caesar III as his personal favorite in the series, describing it as "the most accomplished, polished" entry that "benefitted greatly from the experience of coding and designing the previous two games."[^ref-5]
 
-During this period, Bradbury also made significant contributions to the Lords of the Realm series, working on [[1994 - Lords of the Realm\|Lords of the Realm]] (1994) and [[1996 - Lords of the Realm II\|Lords of the Realm II]] (1996) as lead game designer and programmer.[^ref-10] These projects allowed him to explore medieval themes and combine grand strategy elements with detailed tactical combat—innovations that would later become central to his work at Firefly Studios.[^ref-11] His involvement with [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] (1997) further developed the siege warfare mechanics that would become a hallmark of his later designs.[^ref-7]
+During this period, Bradbury also made significant contributions to the Lords of the Realm series, working on [[1994 - Lords of the Realm|Lords of the Realm]] (1994) and [[1996 - Lords of the Realm II|Lords of the Realm II]] (1996) as lead game designer and programmer.[^ref-10] These projects allowed him to explore medieval themes and combine grand strategy elements with detailed tactical combat—innovations that would later become central to his work at Firefly Studios.[^ref-11] His involvement with [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] (1997) further developed the siege warfare mechanics that would become a hallmark of his later designs.[^ref-7]
 
 The Sierra years were transformative for Bradbury's understanding of strategy game development. Working alongside talented developers and producers, he learned to balance creative vision with commercial viability while developing the technical skills that would prove essential when he later founded his own studio.[^ref-4]
 
@@ -49,13 +49,13 @@ In June 2021, Firefly Studios was acquired by Devolver Digital, though the studi
 
 ### Caesar III (1998)
 
-[[1998 - Caesar III\|Caesar III]] represents one of Bradbury's most influential contributions to the city-building genre, serving as a pinnacle of ancient Roman simulation gaming that continues to inspire developers more than two decades after its release.[^ref-9] As lead programmer on the project, Bradbury helped create a complex urban planning simulation that required players to balance numerous interconnected systems including housing, commerce, entertainment, religion, and public safety.[^ref-19] The game's innovative citizen simulation system, where individual residents had specific needs and would migrate through the city seeking services, created a living urban environment that felt authentic and engaging.[^ref-20]
+[[1998 - Caesar III|Caesar III]] represents one of Bradbury's most influential contributions to the city-building genre, serving as a pinnacle of ancient Roman simulation gaming that continues to inspire developers more than two decades after its release.[^ref-9] As lead programmer on the project, Bradbury helped create a complex urban planning simulation that required players to balance numerous interconnected systems including housing, commerce, entertainment, religion, and public safety.[^ref-19] The game's innovative citizen simulation system, where individual residents had specific needs and would migrate through the city seeking services, created a living urban environment that felt authentic and engaging.[^ref-20]
 
 Bradbury has described Caesar III as his favorite game in the series, praising its polish and the benefit of lessons learned from the previous two installments.[^ref-5] The success of Caesar III demonstrated his ability to transform historical subject matter into compelling interactive entertainment, establishing design principles that would influence city-building games for years to come.[^ref-21]
 
 ### Lords of the Realm II (1996)
 
-[[1996 - Lords of the Realm II\|Lords of the Realm II]] showcased Bradbury's growing expertise in medieval strategy gaming and served as a crucial stepping stone toward his later work on the Stronghold series.[^ref-10] His contributions as lead game designer and programmer encompassed siege warfare mechanics and economic management systems that demonstrated deep understanding of medieval military tactics and feudal economic structures.[^ref-22] The game successfully combined grand strategy elements with detailed tactical combat, allowing players to experience both the macro-level challenges of ruling a medieval kingdom and the micro-level excitement of castle sieges.[^ref-11]
+[[1996 - Lords of the Realm II|Lords of the Realm II]] showcased Bradbury's growing expertise in medieval strategy gaming and served as a crucial stepping stone toward his later work on the Stronghold series.[^ref-10] His contributions as lead game designer and programmer encompassed siege warfare mechanics and economic management systems that demonstrated deep understanding of medieval military tactics and feudal economic structures.[^ref-22] The game successfully combined grand strategy elements with detailed tactical combat, allowing players to experience both the macro-level challenges of ruling a medieval kingdom and the micro-level excitement of castle sieges.[^ref-11]
 
 The innovative siege mechanics Bradbury developed for Lords of the Realm II would later become a cornerstone of his design philosophy, emphasizing the importance of fortification design and defensive strategy in medieval warfare simulation.[^ref-23]
 
@@ -93,43 +93,39 @@ With Firefly Studios now part of Devolver Digital and the Stronghold franchise e
 
 ### Impressions Games / Sierra On-Line (1991–1999)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1991 | International Championship Athletics | Programmer |
-| 1991 | [[1991 - Merchant Colony\|Merchant Colony]] | Designer, Programmer |
-| 1992 | [[1992 - Discovery - In the Steps of Columbus\|Discovery: In the Steps of Columbus]] | Designer, Programmer |
-| 1992 | [[1992 - Caesar\|Caesar]] | Design Assistant, Programmer |
-| 1992 | Air Force Commander | Designer, Programmer |
-| 1993 | [[1993 - Global Domination\|Global Domination]] | Designer, Programmer |
-| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Additional Design, Programmer |
-| 1995 | [[1995 - Caesar II\|Caesar II]] | Additional Design, Programmer |
-| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Lead Designer, Programmer |
-| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Designer, Programmer |
-| 1998 | [[1998 - Caesar III\|Caesar III]] | Lead Programmer |
+- 1991 — International Championship Athletics — Programmer
+- **1991** — [[1991 - Merchant Colony|Merchant Colony]] — Role: Designer, Programmer
+- **1992** — [[1992 - Discovery - In the Steps of Columbus|Discovery: In the Steps of Columbus]] — Role: Designer, Programmer
+- **1992** — [[1992 - Caesar|Caesar]] — Role: Design Assistant, Programmer
+- 1992 — Air Force Commander — Designer, Programmer
+- **1993** — [[1993 - Global Domination|Global Domination]] — Role: Designer, Programmer
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Additional Design, Programmer
+- **1995** — [[1995 - Caesar II|Caesar II]] — Role: Additional Design, Programmer
+- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Lead Designer, Programmer
+- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Designer, Programmer
+- **1998** — [[1998 - Caesar III|Caesar III]] — Role: Lead Programmer
 
 ### Firefly Studios (1999–Present)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2001 | Stronghold | Lead Designer, Programmer, Co-founder |
-| 2002 | Stronghold: Crusader | Lead Designer, Programmer |
-| 2002 | Stronghold Deluxe | Lead Designer, Programmer |
-| 2003 | Space Colony | Lead Designer, Programmer |
-| 2004 | [[2004 - Lords of the Realm III\|Lords of the Realm III]] | Consultant |
-| 2005 | Stronghold 2 | Lead Designer |
-| 2006 | CivCity: Rome | Lead Designer |
-| 2006 | Stronghold: Legends | Lead Designer |
-| 2008 | Stronghold: Crusader Extreme | Lead Designer, Programmer |
-| 2011 | Stronghold 3 | Lead Designer |
-| 2012 | Stronghold Kingdoms | Lead Designer |
-| 2014 | Stronghold: Crusader II | Lead Designer |
-| 2015 | Space Colony: Steam Edition | Lead Designer |
-| 2016 | Stronghold Legends: Steam Edition | Lead Designer |
-| 2017 | Stronghold 2: Steam Edition | Lead Designer |
-| 2021 | Stronghold: Warlords | Lead Designer |
-| 2021 | Romans: Age of Caesar | Lead Designer |
-| 2023 | Stronghold: Definitive Edition | Lead Designer, Co-founder |
-| 2025 | Stronghold Crusader: Definitive Edition | Lead Designer |
+- 2001 — Stronghold — Lead Designer, Programmer, Co-founder
+- 2002 — Stronghold: Crusader — Lead Designer, Programmer
+- 2002 — Stronghold Deluxe — Lead Designer, Programmer
+- 2003 — Space Colony — Lead Designer, Programmer
+- **2004** — [[2004 - Lords of the Realm III|Lords of the Realm III]] — Role: Consultant
+- 2005 — Stronghold 2 — Lead Designer
+- 2006 — CivCity: Rome — Lead Designer
+- 2006 — Stronghold: Legends — Lead Designer
+- 2008 — Stronghold: Crusader Extreme — Lead Designer, Programmer
+- 2011 — Stronghold 3 — Lead Designer
+- 2012 — Stronghold Kingdoms — Lead Designer
+- 2014 — Stronghold: Crusader II — Lead Designer
+- 2015 — Space Colony: Steam Edition — Lead Designer
+- 2016 — Stronghold Legends: Steam Edition — Lead Designer
+- 2017 — Stronghold 2: Steam Edition — Lead Designer
+- 2021 — Stronghold: Warlords — Lead Designer
+- 2021 — Romans: Age of Caesar — Lead Designer
+- 2023 — Stronghold: Definitive Edition — Lead Designer, Co-founder
+- 2025 — Stronghold Crusader: Definitive Edition — Lead Designer
 
 ## References
 

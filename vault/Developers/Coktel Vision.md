@@ -62,30 +62,28 @@ Coktel Vision's impact on the adventure game genre extends far beyond their comm
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1988 | [[1988 - 20000 Leagues Under the Sea\|20000 Leagues Under the Sea]] | Adventure |
-| 1988 | [[1988 - African Raiders-01\|African Raiders-01]] | Adventure |
-| 1989 | [[1989 - Asterix - Operation Getafix\|Asterix: Operation Getafix]] | Adventure |
-| 1989 | [[1989 - ESS - European Space Simulator\|ESS: European Space Simulator]] | Simulation |
-| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Adventure |
-| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Adventure |
-| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Action |
-| 1990 | [[1990 - Geisha\|Geisha]] | Adventure |
-| 1991 | [[1991 - Fascination\|Fascination]] | Adventure |
-| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Adventure |
-| 1992 | [[1992 - Bargon Attack\|Bargon Attack]] | Adventure |
-| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Adventure |
-| 1992 | [[1992 - Inca\|Inca]] | Adventure |
-| 1992 | [[1992 - Ween - The Prophecy\|Ween: The Prophecy]] | Adventure |
-| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Adventure |
-| 1993 | [[1993 - Inca II - Wiracocha\|Inca II: Wiracocha]] | Adventure |
-| 1993 | [[1993 - Lost in Time\|Lost in Time]] | Adventure |
-| 1994 | [[1994 - Playtoons 1 - Uncle Archibald\|Playtoons 1: Uncle Archibald]] | Educational |
-| 1995 | [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator\|Playtoons 2: The Case of the Counterfeit Collaborator]] | Educational |
-| 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] | Adventure |
-| 1995 | [[1995 - The Last Dynasty\|The Last Dynasty]] | Adventure |
-| 1996 | [[1996 - Urban Runner\|Urban Runner]] | Adventure |
+- **1988** — [[1988 - 20000 Leagues Under the Sea|20000 Leagues Under the Sea]] — Genre: Adventure
+- **1988** — [[1988 - African Raiders-01|African Raiders-01]] — Genre: Adventure
+- **1989** — [[1989 - Asterix - Operation Getafix|Asterix: Operation Getafix]] — Genre: Adventure
+- **1989** — [[1989 - ESS - European Space Simulator|ESS: European Space Simulator]] — Genre: Simulation
+- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Genre: Adventure
+- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Genre: Adventure
+- **1990** — [[1990 - Cougar Force|Cougar Force]] — Genre: Action
+- **1990** — [[1990 - Geisha|Geisha]] — Genre: Adventure
+- **1991** — [[1991 - Fascination|Fascination]] — Genre: Adventure
+- **1991** — [[1991 - Gobliiins|Gobliiins]] — Genre: Adventure
+- **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Genre: Adventure
+- **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Genre: Adventure
+- **1992** — [[1992 - Inca|Inca]] — Genre: Adventure
+- **1992** — [[1992 - Ween - The Prophecy|Ween: The Prophecy]] — Genre: Adventure
+- **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Genre: Adventure
+- **1993** — [[1993 - Inca II - Wiracocha|Inca II: Wiracocha]] — Genre: Adventure
+- **1993** — [[1993 - Lost in Time|Lost in Time]] — Genre: Adventure
+- **1994** — [[1994 - Playtoons 1 - Uncle Archibald|Playtoons 1: Uncle Archibald]] — Genre: Educational
+- **1995** — [[1995 - Playtoons 2 - The Case of the Counterfeit Collaborator|Playtoons 2: The Case of the Counterfeit Collaborator]] — Genre: Educational
+- **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Genre: Adventure
+- **1995** — [[1995 - The Last Dynasty|The Last Dynasty]] — Genre: Adventure
+- **1996** — [[1996 - Urban Runner|Urban Runner]] — Genre: Adventure
 
 ## References
 

@@ -55,15 +55,15 @@ Tramis's directorial debut tackled the subject of slavery and liberation head-on
 
 ### Gobliiins Series (1991–1993)
 
-[[1991 - Gobliiins\|Gobliiins]] represents Tramis's most commercially successful work, co-created with Pierre Gilhodes.[^ref-3] Gilhodes conceived the unique gameplay system requiring three characters with complementary abilities to work together, while the zany, absurdist humor drew comparisons to Monty Python.[^ref-8] The franchise spawned multiple sequels including [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2]] and [[1993 - Goblins Quest 3\|Goblins Quest 3]], with total sales reaching 1.5 million copies.[^ref-3]
+[[1991 - Gobliiins|Gobliiins]] represents Tramis's most commercially successful work, co-created with Pierre Gilhodes.[^ref-3] Gilhodes conceived the unique gameplay system requiring three characters with complementary abilities to work together, while the zany, absurdist humor drew comparisons to Monty Python.[^ref-8] The franchise spawned multiple sequels including [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2]] and [[1993 - Goblins Quest 3|Goblins Quest 3]], with total sales reaching 1.5 million copies.[^ref-3]
 
 ### Lost in Time (1993)
 
-[[1993 - Lost in Time\|Lost in Time]] showcased Tramis's technical ambition, promoted as "The first Interactive Adventure Film using Full Motion Video Technology."[^ref-2] The game combined four graphical elements: full motion video, hand-painted backgrounds, digitized backgrounds, and 3D decor. As creator and project manager, Tramis crafted a time-travel mystery that demonstrated her ability to push technological boundaries while maintaining strong narrative focus.[^ref-3]
+[[1993 - Lost in Time|Lost in Time]] showcased Tramis's technical ambition, promoted as "The first Interactive Adventure Film using Full Motion Video Technology."[^ref-2] The game combined four graphical elements: full motion video, hand-painted backgrounds, digitized backgrounds, and 3D decor. As creator and project manager, Tramis crafted a time-travel mystery that demonstrated her ability to push technological boundaries while maintaining strong narrative focus.[^ref-3]
 
 ### The Bizarre Adventures of Woodruff and the Schnibble (1995)
 
-[[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|Woodruff and the Schnibble]] demonstrated Tramis's range, with its post-apocalyptic setting and themes of colonialism hidden beneath cartoonish graphics.[^ref-3] Working as Project Leader and handling Dialogue and Story, Tramis created what one journalist described as "a fantastic if overly perplexing point-and-click adventure game with some seriously deep themes."[^ref-13]
+[[1995 - The Bizarre Adventures of Woodruff and the Schnibble|Woodruff and the Schnibble]] demonstrated Tramis's range, with its post-apocalyptic setting and themes of colonialism hidden beneath cartoonish graphics.[^ref-3] Working as Project Leader and handling Dialogue and Story, Tramis created what one journalist described as "a fantastic if overly perplexing point-and-click adventure game with some seriously deep themes."[^ref-13]
 
 ## Design Philosophy
 
@@ -95,31 +95,27 @@ Her influence continues to inspire contemporary discussions about diversity and 
 
 ### Coktel Vision Era (1986–2003)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1987 | Méwilo | Game Designer |
-| 1988 | Freedom: Rebels in the Darkness | Director, Game Designer |
-| 1989 | [[1989 - Asterix - Operation Getafix\|Asterix: Operation Getafix]] | Conception |
-| 1989 | [[1989 - Emmanuelle\|Emmanuelle]] | Scenario, Texts and Production |
-| 1989 | [[1989 - Legend of Djel\|Legend of Djel]] | Project Contributor |
-| 1990 | [[1990 - Cougar Force\|Cougar Force]] | Project Contributor |
-| 1990 | [[1990 - Geisha\|Geisha]] | Game Designer |
-| 1991 | [[1991 - Fascination\|Fascination]] | Conception |
-| 1991 | [[1991 - Gobliiins\|Gobliiins]] | Co-Creator (with Pierre Gilhodes) |
-| 1992 | [[1992 - Bargon Attack\|Bargon Attack]] | Product Manager |
-| 1992 | [[1992 - Gobliins 2 - The Prince Buffoon\|Gobliins 2: The Prince Buffoon]] | Project Manager |
-| 1992 | [[1992 - Inca\|Inca]] | Project Manager |
-| 1993 | [[1993 - Goblins Quest 3\|Goblins Quest 3]] | Project Manager |
-| 1993 | [[1993 - Lost in Time\|Lost in Time]] | Creation and Project Manager |
-| 1995 | [[1995 - The Bizarre Adventures of Woodruff and the Schnibble\|The Bizarre Adventures of Woodruff and the Schnibble]] | Project Leader, Dialogue and Story |
-| 1996 | [[1996 - Urban Runner\|Urban Runner]] | Director |
+- 1987 — Méwilo — Game Designer
+- 1988 — Freedom: Rebels in the Darkness — Director, Game Designer
+- **1989** — [[1989 - Asterix - Operation Getafix|Asterix: Operation Getafix]] — Role: Conception
+- **1989** — [[1989 - Emmanuelle|Emmanuelle]] — Role: Scenario, Texts and Production
+- **1989** — [[1989 - Legend of Djel|Legend of Djel]] — Role: Project Contributor
+- **1990** — [[1990 - Cougar Force|Cougar Force]] — Role: Project Contributor
+- **1990** — [[1990 - Geisha|Geisha]] — Role: Game Designer
+- **1991** — [[1991 - Fascination|Fascination]] — Role: Conception
+- **1991** — [[1991 - Gobliiins|Gobliiins]] — Role: Co-Creator (with Pierre Gilhodes)
+- **1992** — [[1992 - Bargon Attack|Bargon Attack]] — Role: Product Manager
+- **1992** — [[1992 - Gobliins 2 - The Prince Buffoon|Gobliins 2: The Prince Buffoon]] — Role: Project Manager
+- **1992** — [[1992 - Inca|Inca]] — Role: Project Manager
+- **1993** — [[1993 - Goblins Quest 3|Goblins Quest 3]] — Role: Project Manager
+- **1993** — [[1993 - Lost in Time|Lost in Time]] — Role: Creation and Project Manager
+- **1995** — [[1995 - The Bizarre Adventures of Woodruff and the Schnibble|The Bizarre Adventures of Woodruff and the Schnibble]] — Role: Project Leader, Dialogue and Story
+- **1996** — [[1996 - Urban Runner|Urban Runner]] — Role: Director
 
 ### Post-Coktel Era (2003–Present)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2009 | [[2009 - Gobliiins 4\|Gobliiins 4]] | Consulting |
-| TBA | Remembrance | Game Designer |
+- **2009** — [[2009 - Gobliiins 4|Gobliiins 4]] — Role: Consulting
+- TBA — Remembrance — Game Designer
 
 ## References
 

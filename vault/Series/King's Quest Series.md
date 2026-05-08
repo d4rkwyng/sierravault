@@ -22,18 +22,16 @@ The original King's Quest was revolutionary for its time—the first adventure g
 
 ## Series Timeline
 
-| Year | Title | Engine | Protagonist |
-|------|-------|--------|-------------|
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | AGI | King Graham |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | AGI | King Graham |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | AGI | Gwydion/Alexander |
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | AGI/SCI | Princess Rosella |
-| 1990 | [[1990 - Roberta Williams' King's Quest I - Quest for the Crown\|King's Quest I SCI Remake]] | SCI | King Graham |
-| 1990 | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V: Absence Makes the Heart Go Yonder]] | SCI1 | King Graham |
-| 1992 | [[1992 - King's Quest VI - Heir Today, Gone Tomorrow\|King's Quest VI: Heir Today, Gone Tomorrow]] | SCI1.1 | Prince Alexander |
-| 1994 | [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII: The Princeless Bride]] | SCI32 | Rosella & Valanice |
-| 1998 | [[1998 - King's Quest - Mask of Eternity\|King's Quest: Mask of Eternity]] | Custom 3D | Connor |
-| 2015 | [[2015 - King's Quest\|King's Quest (Reboot)]] | Unity | King Graham |
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Engine: AGI, Protagonist: King Graham
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Engine: AGI, Protagonist: King Graham
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Engine: AGI, Protagonist: Gwydion/Alexander
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Engine: AGI/SCI, Protagonist: Princess Rosella
+- **1990** — [[1990 - Roberta Williams' King's Quest I - Quest for the Crown|King's Quest I SCI Remake]] — Engine: SCI, Protagonist: King Graham
+- **1990** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V: Absence Makes the Heart Go Yonder]] — Engine: SCI1, Protagonist: King Graham
+- **1992** — [[1992 - King's Quest VI - Heir Today, Gone Tomorrow|King's Quest VI: Heir Today, Gone Tomorrow]] — Engine: SCI1.1, Protagonist: Prince Alexander
+- **1994** — [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII: The Princeless Bride]] — Engine: SCI32, Protagonist: Rosella & Valanice
+- **1998** — [[1998 - King's Quest - Mask of Eternity|King's Quest: Mask of Eternity]] — Engine: Custom 3D, Protagonist: Connor
+- **2015** — [[2015 - King's Quest|King's Quest (Reboot)]] — Engine: Unity, Protagonist: King Graham
 
 ## Themes and Setting
 
@@ -141,20 +139,16 @@ The series maintains an active fan community decades after the original games:
 
 ### Fan Remakes
 
-| Title | Developer | Year | Download |
-|-------|-----------|------|----------|
-| [[2001 - King's Quest I VGA Remake\|KQ1 VGA Remake]] | AGD Interactive | 2001 | [AGDI](https://www.agdinteractive.com/games/kq1/) |
-| [[2002 - King's Quest II+ - Romancing the Stones\|KQ2+ Romancing the Stones]] | AGD Interactive | 2002 | [AGDI](https://www.agdinteractive.com/games/kq2/) |
-| [[2006 - King's Quest III Remake (Infamous Adventures)\|KQ3 Remake (IA)]] | Infamous Adventures | 2006 | [IA](https://www.infamous-adventures.com/kq3/) |
-| [[2011 - King's Quest III Redux - To Heir is Human\|KQ3 Redux]] | AGD Interactive | 2011 | [AGDI](https://www.agdinteractive.com/games/kq3/) |
-| [[2021 - King's Quest IV Retold\|KQ4 Retold]] | IIGS Team | 2021 | [Download](https://kq4retold.com/) |
-| [[TBD - King's Quest IV Remake (Infamous Adventures)\|KQ4 Remake (IA)]] | Infamous Adventures | TBD | In development |
+- **2001** — [[2001 - King's Quest I VGA Remake|KQ1 VGA Remake]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq1/)
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|KQ2+ Romancing the Stones]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|KQ3 Remake (IA)]] — Developer: Infamous Adventures, Download: [IA](https://www.infamous-adventures.com/kq3/)
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|KQ3 Redux]] — Developer: AGD Interactive, Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
+- **2021** — [[2021 - King's Quest IV Retold|KQ4 Retold]] — Developer: IIGS Team, Download: [Download](https://kq4retold.com/)
+- **TBD** — [[TBD - King's Quest IV Remake (Infamous Adventures)|KQ4 Remake (IA)]] — Developer: Infamous Adventures, Download: In development
 
 ### Fan Sequels
 
-| Title | Developer | Year | Link |
-|-------|-----------|------|------|
-| [[2010 - The Silver Lining\|The Silver Lining]] | Phoenix Online Studios | 2010-2012 | [POS](https://www.postudios.com/tsl/) |
+- **2010-2012** — [[2010 - The Silver Lining|The Silver Lining]] — Developer: Phoenix Online Studios, Link: [POS](https://www.postudios.com/tsl/)
 
 ## See Also
 

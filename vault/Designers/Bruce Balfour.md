@@ -31,9 +31,9 @@ Sierra On-Line recruited Balfour to their mountain headquarters near Yosemite, a
 
 When Josh Mandel became head of Sierra's design and writing department, he proposed that Balfour—with his background writing mystery comics—would be better suited for the Laura Bow sequel, while Mandel handled the comedy project.[^ref-4] With Roberta Williams' approval, Balfour took over The Dagger of Amon Ra, working from Mandel's initial three-paragraph proposal about a mystery set in a museum with a missing ancient dagger.[^ref-4]
 
-Balfour served as producer, director, designer, and writer on [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], managing a team of 50 people.[^ref-4] He designed the game to be more realistic than typical adventure games, requiring players to take notes and track character movements that followed their own schedules.[^ref-4] For the CD-ROM version, Balfour also performed voice acting for three characters: Dr. Pippin Carter, Wolf Heimlich, and Lawrence "Ziggy" Ziegfeld.[^ref-5]
+Balfour served as producer, director, designer, and writer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], managing a team of 50 people.[^ref-4] He designed the game to be more realistic than typical adventure games, requiring players to take notes and track character movements that followed their own schedules.[^ref-4] For the CD-ROM version, Balfour also performed voice acting for three characters: Dr. Pippin Carter, Wolf Heimlich, and Lawrence "Ziggy" Ziegfeld.[^ref-5]
 
-Balfour designed three games for Sierra: The Dagger of Amon Ra, Codename: Phoenix (cancelled), and [[1994 - Outpost\|Outpost]].[^ref-3] The development of Outpost represented the culmination of his scientific background and gaming expertise, incorporating his extensive knowledge from NASA research into a space colonization simulation. As Balfour explained, "Because of my work at NASA, I ended up with a lot of detailed studies regarding proposed Mars colonies, lunar colonies, orbital laboratories, terraforming, robot factories, and artificially intelligent computer systems. I've been able to make use of all this material in building the Outpost simulation."[^ref-3]
+Balfour designed three games for Sierra: The Dagger of Amon Ra, Codename: Phoenix (cancelled), and [[1994 - Outpost|Outpost]].[^ref-3] The development of Outpost represented the culmination of his scientific background and gaming expertise, incorporating his extensive knowledge from NASA research into a space colonization simulation. As Balfour explained, "Because of my work at NASA, I ended up with a lot of detailed studies regarding proposed Mars colonies, lunar colonies, orbital laboratories, terraforming, robot factories, and artificially intelligent computer systems. I've been able to make use of all this material in building the Outpost simulation."[^ref-3]
 
 ### Later Career
 
@@ -55,13 +55,13 @@ Working with Michael Stackpole, Balfour contributed to the design of Neuromancer
 
 ### The Dagger of Amon Ra (1992)
 
-As producer, director, designer, and writer on [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]], Balfour took on complete creative responsibility for this Sierra adventure game.[^ref-5] Set in 1926 New York, the game featured Laura Bow as a cub reporter investigating murders at a museum during a fundraiser for a new Egyptian exhibit. Balfour designed the game with characters moving on their own schedules in pursuit of hidden agendas, requiring players to take notes and track events throughout.[^ref-4]
+As producer, director, designer, and writer on [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]], Balfour took on complete creative responsibility for this Sierra adventure game.[^ref-5] Set in 1926 New York, the game featured Laura Bow as a cub reporter investigating murders at a museum during a fundraiser for a new Egyptian exhibit. Balfour designed the game with characters moving on their own schedules in pursuit of hidden agendas, requiring players to take notes and track events throughout.[^ref-4]
 
 The game's 600-page script required extensive voice recording for the CD-ROM version, with Balfour himself voicing three characters.[^ref-9] He also wrote the lyrics for "The Archaeologist Song" featured in the game.[^ref-5] While the concluding coroner's inquest—which tested whether players had solved the mysteries—proved challenging for some, many players appreciated the interconnected storylines and multiple playthroughs required to see different endings.[^ref-4]
 
 ### Outpost (1994)
 
-[[1994 - Outpost\|Outpost]] represents Balfour's most ambitious and personal project, combining his NASA background with cutting-edge gaming technology.[^ref-10] The strategy/simulation game challenged players to rebuild human civilization on distant planets after Earth's destruction. Based on actual NASA research into future space projects, planetary science, and interstellar spacecraft design, Outpost aimed to be both entertaining and educational.[^ref-3]
+[[1994 - Outpost|Outpost]] represents Balfour's most ambitious and personal project, combining his NASA background with cutting-edge gaming technology.[^ref-10] The strategy/simulation game challenged players to rebuild human civilization on distant planets after Earth's destruction. Based on actual NASA research into future space projects, planetary science, and interstellar spacecraft design, Outpost aimed to be both entertaining and educational.[^ref-3]
 
 The game utilized Autodesk 3D Studio for photo-realistic rendered graphics, with some animation sequences requiring 20 hours or more to render.[^ref-3] Despite technical challenges and mixed reception due to bugs and missing features at launch, Outpost demonstrated Balfour's commitment to creating scientifically accurate gaming experiences.[^ref-10] An accompanying non-fiction book explaining the science was adopted by many high school science classes.[^ref-7]
 
@@ -103,10 +103,8 @@ Several of Balfour's games, including Neuromancer, Wasteland, Outpost, and The D
 
 ### Sierra On-Line (1991–1994)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | [[1992 - The Dagger of Amon Ra\|The Dagger of Amon Ra]] | Producer, Director, Designer, Writer, Voice Actor |
-| 1994 | [[1994 - Outpost\|Outpost]] | Designer |
+- **1992** — [[1992 - The Dagger of Amon Ra|The Dagger of Amon Ra]] — Role: Producer, Director, Designer, Writer, Voice Actor
+- **1994** — [[1994 - Outpost|Outpost]] — Role: Designer
 
 ## References
 

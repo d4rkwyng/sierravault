@@ -17,21 +17,19 @@ Replay Games was an American video game development and publishing company found
 
 ## Sierra Connection
 
-Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property. The company's most notable achievement was partnering with [[Designers/Al Lowe\|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.
+Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property. The company's most notable achievement was partnering with [[Designers/Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.
 
 The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2013 | [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry: Reloaded]] | HD remake of 1987 original, Kickstarter-funded |
-| 2013 | [[2013 - Fester Mudd - Curse of the Gold\|Fester Mudd: Curse of the Gold]] | Original adventure game |
+- **2013** — [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry: Reloaded]] — Notes: HD remake of 1987 original, Kickstarter-funded
+- **2013** — [[2013 - Fester Mudd - Curse of the Gold|Fester Mudd: Curse of the Gold]] — Notes: Original adventure game
 
 ## Key People
 
 - **Paul Trowe** - Founder, CEO (former Sierra employee)
-- **[[Designers/Al Lowe\|Al Lowe]]** - Creative Partner (Leisure Suit Larry creator)
+- **[[Designers/Al Lowe|Al Lowe]]** - Creative Partner (Leisure Suit Larry creator)
 
 ## Closure
 
@@ -39,8 +37,8 @@ Replay Games ceased operations around 2018 after several years of inactivity fol
 
 ## Related
 
-- **Partner Designer:** [[Designers/Al Lowe\|Al Lowe]]
-- **Original Series:** [[Series/Leisure Suit Larry Series\|Leisure Suit Larry Series]]
+- **Partner Designer:** [[Designers/Al Lowe|Al Lowe]]
+- **Original Series:** [[Series/Leisure Suit Larry Series|Leisure Suit Larry Series]]
 
 ## References
 

@@ -65,11 +65,9 @@ The fan community has kept Empire Earth alive through projects like NeoEE (neoee
 
 ## Games
 
-| Year | Game | Publisher | Genre |
-|------|------|-----------|-------|
-| 2001 | [[2001 - Empire Earth\|Empire Earth]] | Sierra Entertainment | Real-Time Strategy |
-| 2003 | Empires: Dawn of the Modern World | Activision | Real-Time Strategy |
-| 2006 | Rise and Fall: Civilizations at War | Midway Games | Real-Time Strategy |
+- **2001** — [[2001 - Empire Earth|Empire Earth]] — Publisher: Sierra Entertainment, Genre: Real-Time Strategy
+- 2003 — Empires: Dawn of the Modern World — Activision — Real-Time Strategy
+- 2006 — Rise and Fall: Civilizations at War — Midway Games — Real-Time Strategy
 
 ## References
 

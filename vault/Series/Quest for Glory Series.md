@@ -22,14 +22,12 @@ What set Quest for Glory apart was its character import system—players could t
 
 ## Series Timeline
 
-| Year | Title | Engine | Setting |
-|------|-------|--------|---------|
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I: So You Want to Be a Hero]] | AGI/SCI | Germanic folklore |
-| 1990 | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II: Trial by Fire]] | SCI0 | Arabian Nights |
-| 1992 | [[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] | SCI1 | VGA remake |
-| 1992 | [[1992 - Quest for Glory III - Wages of War\|Quest for Glory III: Wages of War]] | SCI1.1 | African savanna |
-| 1993 | [[1993 - Quest for Glory IV - Shadows of Darkness\|Quest for Glory IV: Shadows of Darkness]] | SCI1.1 | Slavic horror |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Custom 3D | Greek mythology |
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I: So You Want to Be a Hero]] — Engine: AGI/SCI, Setting: Germanic folklore
+- **1990** — [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II: Trial by Fire]] — Engine: SCI0, Setting: Arabian Nights
+- **1992** — [[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] — Engine: SCI1, Setting: VGA remake
+- **1992** — [[1992 - Quest for Glory III - Wages of War|Quest for Glory III: Wages of War]] — Engine: SCI1.1, Setting: African savanna
+- **1993** — [[1993 - Quest for Glory IV - Shadows of Darkness|Quest for Glory IV: Shadows of Darkness]] — Engine: SCI1.1, Setting: Slavic horror
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Engine: Custom 3D, Setting: Greek mythology
 
 ## The Coles' Vision
 
@@ -126,25 +124,21 @@ The Coles continued their work after Sierra:
 
 ### Fan Remakes
 
-| Title | Developer | Year | Link |
-|-------|-----------|------|------|
-| [[2008 - Quest for Glory II VGA Remake\|QFG2 VGA Remake]] | AGD Interactive | 2008 | [AGDI](https://www.agdinteractive.com/games/qfg2/) |
+- **2008** — [[2008 - Quest for Glory II VGA Remake|QFG2 VGA Remake]] — Developer: AGD Interactive, Link: [AGDI](https://www.agdinteractive.com/games/qfg2/)
 
 ### Spiritual Successors
 
-| Title | Developer | Year | Link |
-|-------|-----------|------|------|
-| [[2014 - Quest for Infamy\|Quest for Infamy]] | Infamous Quests | 2014 | [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/) |
-| [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] | Corey & Lori Cole | 2018 | [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/) |
-| [[2023 - Summer Daze - Tilly's Tale\|Summer Daze: Tilly's Tale]] | Corey & Lori Cole | 2023 | [Steam](https://store.steampowered.com/app/1582050/Summer_Daze_at_HeroU/) |
-| [[TBD - Quest for Infamy - Roehm to Ruin\|Roehm to Ruin]] | Infamous Quests | TBD | Sequel to Quest for Infamy |
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Developer: Infamous Quests, Link: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
+- **2018** — [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] — Developer: Corey & Lori Cole, Link: [Steam](https://store.steampowered.com/app/375440/HeroU_Rogue_to_Redemption/)
+- **2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Developer: Corey & Lori Cole, Link: [Steam](https://store.steampowered.com/app/1582050/Summer_Daze_at_HeroU/)
+- **TBD** — [[TBD - Quest for Infamy - Roehm to Ruin|Roehm to Ruin]] — Developer: Infamous Quests, Link: Sequel to Quest for Infamy
 
 ## See Also
 
 - [[Corey Cole]] - Co-creator, programmer
 - [[Lori Ann Cole]] - Co-creator, designer
 - [[King's Quest Series]] - Sierra's flagship fantasy series
-- [[2018 - Hero-U - Rogue to Redemption\|Hero-U: Rogue to Redemption]] - Spiritual successor
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U: Rogue to Redemption]] - Spiritual successor
 ## References
 
 [^ref-1]: [Wikipedia - Quest for Glory](https://en.wikipedia.org/wiki/Quest_for_Glory) – Hero's Quest trademark dispute

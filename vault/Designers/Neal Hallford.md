@@ -15,7 +15,7 @@ last_updated: "2026-02-12"
 
 Neal Hallford is an accomplished author, game designer, film director, cinematographer, audio drama producer, and musician who has established himself as one of the most versatile creative professionals in the entertainment industry.[^ref-1] Born on October 17, 1966, in Sapulpa, Oklahoma, to school teachers Henry Hallford and Betty Hallford, he was "raised into an academically-oriented family that he says were also gifted, natural storytellers who supported his varied creative and dramatic interests in writing, acting, and film making."[^ref-2] This nurturing environment would prove foundational to his later success across multiple creative disciplines.
 
-Best known for the legendary computer role-playing game [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] and co-authoring the influential book "Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games," Hallford has spent over three decades entertaining audiences across various media.[^ref-3] His career spans from his early days as a disc jockey in 1984 to becoming a respected figure in both the gaming and film industries.[^ref-4] Standing at 6'3" (1.91 m), Hallford has directed notable actors including John Rhys-Davies, Kate Mulgrew, and Ron Perlman in his game production work, demonstrating his ability to bridge the gap between traditional entertainment and interactive media.[^ref-5]
+Best known for the legendary computer role-playing game [[1993 - Betrayal at Krondor|Betrayal at Krondor]] and co-authoring the influential book "Swords & Circuitry: A Designer's Guide to Computer Role-Playing Games," Hallford has spent over three decades entertaining audiences across various media.[^ref-3] His career spans from his early days as a disc jockey in 1984 to becoming a respected figure in both the gaming and film industries.[^ref-4] Standing at 6'3" (1.91 m), Hallford has directed notable actors including John Rhys-Davies, Kate Mulgrew, and Ron Perlman in his game production work, demonstrating his ability to bridge the gap between traditional entertainment and interactive media.[^ref-5]
 
 ## Career
 
@@ -27,9 +27,9 @@ The transition from radio to gaming came in 1990 when Hallford joined New World 
 
 ### Gaming Industry Years
 
-Hallford's entry into the gaming world was marked by his work on several significant titles that helped define the RPG genre. His early contributions included work on Might & Magic III: Isles of Terra and Planet's Edge, projects that established his reputation as a skilled narrative designer and world-builder.[^ref-11] However, it was his role in creating [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] in 1993 that truly cemented his place in gaming history.[^ref-12]
+Hallford's entry into the gaming world was marked by his work on several significant titles that helped define the RPG genre. His early contributions included work on Might & Magic III: Isles of Terra and Planet's Edge, projects that established his reputation as a skilled narrative designer and world-builder.[^ref-11] However, it was his role in creating [[1993 - Betrayal at Krondor|Betrayal at Krondor]] in 1993 that truly cemented his place in gaming history.[^ref-12]
 
-Following the success of Betrayal at Krondor, Hallford continued to work on notable projects including [[1997 - Betrayal in Antara\|Betrayal in Antara]] (1997) and [[1998 - Return to Krondor\|Return to Krondor]] (1998), maintaining his connection to the beloved Krondor universe.[^ref-13] His later gaming career included significant contributions to major titles such as Dungeon Siege (2002), Lords of EverQuest (2003), and Dungeon Siege II (2005).[^ref-14] During his time at Rapid Eye Entertainment as lead designer on Lords of EverQuest, he simultaneously contributed story and dialog to Snowblind Studios' Champions of Norrath (2004), a PlayStation 2 action RPG set in the same EverQuest universe.[^ref-9] He later returned to Gas Powered Games to provide story and dialogue for Supreme Commander (2007), demonstrating his ability to adapt to evolving gaming technologies and genres.[^ref-4]
+Following the success of Betrayal at Krondor, Hallford continued to work on notable projects including [[1997 - Betrayal in Antara|Betrayal in Antara]] (1997) and [[1998 - Return to Krondor|Return to Krondor]] (1998), maintaining his connection to the beloved Krondor universe.[^ref-13] His later gaming career included significant contributions to major titles such as Dungeon Siege (2002), Lords of EverQuest (2003), and Dungeon Siege II (2005).[^ref-14] During his time at Rapid Eye Entertainment as lead designer on Lords of EverQuest, he simultaneously contributed story and dialog to Snowblind Studios' Champions of Norrath (2004), a PlayStation 2 action RPG set in the same EverQuest universe.[^ref-9] He later returned to Gas Powered Games to provide story and dialogue for Supreme Commander (2007), demonstrating his ability to adapt to evolving gaming technologies and genres.[^ref-4]
 
 A colleague at Sony SCEA San Diego praised his meticulous approach: "I worked with Neal at Sony SCEA San Diego. He was a designer and he was an absolute pleasure to work with. He put in a lot of details into every level he described and designed which made it so much easier for the artists to envision."[^ref-5] This attention to detail and collaborative approach made him highly valued in the industry.
 
@@ -41,7 +41,7 @@ His work in film and television has earned him recognition with "2 wins & 2 nomi
 
 ## Notable Works
 
-### [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] (1993)
+### [[1993 - Betrayal at Krondor|Betrayal at Krondor]] (1993)
 
 Betrayal at Krondor stands as Hallford's masterpiece and one of the most beloved computer role-playing games of all time. The game, based on Raymond E. Feist's Riftwar universe, showcased Hallford's exceptional ability to adapt literary source material into an interactive medium while maintaining the depth and complexity that made the original novels compelling.[^ref-2] The project required him to work closely with Feist to ensure narrative authenticity while creating gameplay mechanics that would engage players for dozens of hours.[^ref-1]
 
@@ -67,7 +67,7 @@ His design philosophy emphasizes meticulous world-building and attention to deta
 
 ## Legacy
 
-Neal Hallford's impact on the gaming industry extends far beyond his individual game credits, encompassing his role as an educator, author, and advocate for elevating interactive entertainment as an art form.[^ref-10] His work on [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] helped establish standards for literary adaptation in games that continue to influence contemporary designers. The game's success demonstrated that audiences would embrace complex, story-driven experiences when they were well-crafted and respectfully presented.[^ref-11]
+Neal Hallford's impact on the gaming industry extends far beyond his individual game credits, encompassing his role as an educator, author, and advocate for elevating interactive entertainment as an art form.[^ref-10] His work on [[1993 - Betrayal at Krondor|Betrayal at Krondor]] helped establish standards for literary adaptation in games that continue to influence contemporary designers. The game's success demonstrated that audiences would embrace complex, story-driven experiences when they were well-crafted and respectfully presented.[^ref-11]
 
 His book "Swords & Circuitry" has influenced a generation of game designers, providing both theoretical foundations and practical guidance for creating compelling role-playing experiences. The text's enduring relevance speaks to Hallford's deep understanding of the fundamental principles underlying successful game design, principles that transcend technological limitations and platform constraints.[^ref-1] More recently, his role as "the mastermind behind the Heroes of Might and Magic: 30th Anniversary Retrospective" demonstrates his continued commitment to preserving and celebrating gaming history.[^ref-2]
 
@@ -83,26 +83,22 @@ Currently maintaining an active online presence through his website and Substack
 
 ### New World Computing & Dynamix (1990–1994)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1990 | Tunnels & Trolls: Crusaders of Khazan | Documentation, Manual |
-| 1991 | Might & Magic III: Isles of Terra | Designer |
-| 1992 | Planet's Edge | Designer, Writer |
-| 1993 | [[1993 - Betrayal at Krondor\|Betrayal at Krondor]] | Lead Designer, Writer |
-| 1994 | [[1994 - Metaltech - Battledrome\|Metaltech: Battledrome]] | Writer |
+- 1990 — Tunnels & Trolls: Crusaders of Khazan — Documentation, Manual
+- 1991 — Might & Magic III: Isles of Terra — Designer
+- 1992 — Planet's Edge — Designer, Writer
+- **1993** — [[1993 - Betrayal at Krondor|Betrayal at Krondor]] — Role: Lead Designer, Writer
+- **1994** — [[1994 - Metaltech - Battledrome|Metaltech: Battledrome]] — Role: Writer
 
 ### Post-Dynamix (1997–2008)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1997 | [[1997 - Betrayal in Antara\|Betrayal in Antara]] | Designer, Writer |
-| 1998 | [[1998 - Return to Krondor\|Return to Krondor]] | Original Story Concept |
-| 2002 | Dungeon Siege | Story and Dialogue |
-| 2003 | Lords of EverQuest | Lead Designer |
-| 2004 | Champions of Norrath | Story and Dialog |
-| 2005 | Dungeon Siege II | Story and Writing |
-| 2007 | Supreme Commander | Additional Writing |
-| 2008 | Golden Axe: Beast Rider | Writer |
+- **1997** — [[1997 - Betrayal in Antara|Betrayal in Antara]] — Role: Designer, Writer
+- **1998** — [[1998 - Return to Krondor|Return to Krondor]] — Role: Original Story Concept
+- 2002 — Dungeon Siege — Story and Dialogue
+- 2003 — Lords of EverQuest — Lead Designer
+- 2004 — Champions of Norrath — Story and Dialog
+- 2005 — Dungeon Siege II — Story and Writing
+- 2007 — Supreme Commander — Additional Writing
+- 2008 — Golden Axe: Beast Rider — Writer
 
 ## References
 

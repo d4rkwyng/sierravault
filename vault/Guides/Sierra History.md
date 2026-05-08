@@ -23,7 +23,7 @@ After Ken brought an Apple II home, Roberta played through other text adventures
 
 ### Mystery House: The First Graphic Adventure
 
-With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Mystery House\|Mystery House]], inspired by Agatha Christie's *And Then There Were None* and the board game Clue[^ref-3]. Roberta drew the pictures using an Apple II and a Versawriter—a graphics tablet for hand-tracing images. Since no programs existed to read Versawriter input, Ken wrote one himself, eventually compressing nearly seventy images onto a disk[^ref-3].
+With Ken's programming help, Roberta designed [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]], inspired by Agatha Christie's *And Then There Were None* and the board game Clue[^ref-3]. Roberta drew the pictures using an Apple II and a Versawriter—a graphics tablet for hand-tracing images. Since no programs existed to read Versawriter input, Ken wrote one himself, eventually compressing nearly seventy images onto a disk[^ref-3].
 
 Released through mail-order in May 1980, Mystery House became an instant hit. Approximately 15,000 copies sold, earning US$167,000—equivalent to $637,000 in 2024[^ref-5]. It became the first computer adventure game to feature graphics, though made with crude, static, monochrome line drawings.
 
@@ -33,14 +33,12 @@ Roberta personally packed the disks in Ziploc bags and answered her home phone t
 
 The Hi-Res Adventure series continued with several landmark titles:
 
-| Year | Game | Significance |
-|------|------|--------------|
-| 1980 | [[1980 - Hi-Res Adventure 0 - Mission Asteroid\|Mission Asteroid]] | Numbered "0" despite being second release |
-| 1980 | [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess\|Wizard and the Princess]] | First color graphics adventure; 60,000 copies sold[^ref-3]; precursor to King's Quest |
-| 1981 | [[1981 - Hi-Res Adventure 3 - Cranston Manor\|Cranston Manor]] | Expanded adventure format |
-| 1981 | [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece\|Ulysses and the Golden Fleece]] | Greek mythology setting |
-| 1982 | [[1982 - Hi-Res Adventure 5 - Time Zone\|Time Zone]] | Massive 12-disk game spanning thousands of years[^ref-3] |
-| 1983 | [[1983 - Hi-Res Adventure 6 - The Dark Crystal\|The Dark Crystal]] | Licensed adaptation; Jim Henson personally approached Ken Williams[^ref-3] |
+- **1980** — [[1980 - Hi-Res Adventure 0 - Mission Asteroid|Mission Asteroid]] — Significance: Numbered "0" despite being second release
+- **1980** — [[1980 - Hi-Res Adventure 2 - The Wizard and the Princess|Wizard and the Princess]] — Significance: First color graphics adventure; 60,000 copies sold[^ref-3]; precursor to King's Quest
+- **1981** — [[1981 - Hi-Res Adventure 3 - Cranston Manor|Cranston Manor]] — Significance: Expanded adventure format
+- **1981** — [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece|Ulysses and the Golden Fleece]] — Significance: Greek mythology setting
+- **1982** — [[1982 - Hi-Res Adventure 5 - Time Zone|Time Zone]] — Significance: Massive 12-disk game spanning thousands of years[^ref-3]
+- **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Significance: Licensed adaptation; Jim Henson personally approached Ken Williams[^ref-3]
 
 The Wizard and the Princess improved on Mystery House with color graphics and dithering[^ref-3]. Its success—60,000 copies sold—led to hiring more employees for distribution and programming.
 
@@ -66,19 +64,19 @@ Roberta created a story featuring classic fairy-tale elements. Her game concept 
 
 For this ambitious project, Sierra developed the **Adventure Game Interpreter (AGI)** engine—a complete development system that would power games for years to come.
 
-[[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] released in mid-1984 to widespread acclaim, beginning Sierra's flagship franchise.
+[[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] released in mid-1984 to widespread acclaim, beginning Sierra's flagship franchise.
 
 ### The Adventure Explosion (1986–1987)
 
-While finishing [[1986 - The Black Cauldron\|The Black Cauldron]], programmers [[Mark Crowe]] and [[Scott Murphy]] began planning their own adventure game. After a simple demonstration to Ken Williams, he allowed them to develop what became [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]]. Released October 1986, it was an instant success, spawning one of Sierra's most beloved series[^ref-5].
+While finishing [[1986 - The Black Cauldron|The Black Cauldron]], programmers [[Mark Crowe]] and [[Scott Murphy]] began planning their own adventure game. After a simple demonstration to Ken Williams, he allowed them to develop what became [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]]. Released October 1986, it was an instant success, spawning one of Sierra's most beloved series[^ref-5].
 
-[[Al Lowe]], who had worked at Sierra for several years, was asked by Ken to create a modern version of Chuck Benton's *Softporn Adventure* from 1981—the only pure text adventure Sierra had released. [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] won the Software Publishers Association's Best Adventure Game award of 1987. Notably, Sierra sold many more hintbooks than actual copies—a sign the game first became famous through piracy[^ref-5].
+[[Al Lowe]], who had worked at Sierra for several years, was asked by Ken to create a modern version of Chuck Benton's *Softporn Adventure* from 1981—the only pure text adventure Sierra had released. [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] won the Software Publishers Association's Best Adventure Game award of 1987. Notably, Sierra sold many more hintbooks than actual copies—a sign the game first became famous through piracy[^ref-5].
 
-Ken Williams befriended retired highway patrol officer [[Jim Walls]] and recruited him to produce [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]], released in 1987. The series became known for its strict adherence to authentic police procedure.
+Ken Williams befriended retired highway patrol officer [[Jim Walls]] and recruited him to produce [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]], released in 1987. The series became known for its strict adherence to authentic police procedure.
 
 ### The SCI Revolution
 
-Sierra's AGI engine, introduced with King's Quest, was replaced in 1988 with **Sierra's Creative Interpreter (SCI)** in [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]][^ref-5]. The game released under both engines, allowing players with newer computers to experience improved rendering technology.
+Sierra's AGI engine, introduced with King's Quest, was replaced in 1988 with **Sierra's Creative Interpreter (SCI)** in [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]][^ref-5]. The game released under both engines, allowing players with newer computers to experience improved rendering technology.
 
 ---
 
@@ -104,13 +102,13 @@ The service provided a "land-based" precursor to MMORPGs and internet chat rooms
 
 ### Quest for Glory and Gabriel Knight
 
-[[Corey Cole]] and [[Lori Ann Cole]] released [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory: So You Want to Be a Hero]] in 1989, creating Sierra's innovative adventure-RPG hybrid. The series was originally titled "Hero's Quest" until Milton Bradley trademarked the name for their *HeroQuest* board game adaptation, forcing Sierra to rename it[^ref-5].
+[[Corey Cole]] and [[Lori Ann Cole]] released [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory: So You Want to Be a Hero]] in 1989, creating Sierra's innovative adventure-RPG hybrid. The series was originally titled "Hero's Quest" until Milton Bradley trademarked the name for their *HeroQuest* board game adaptation, forcing Sierra to rename it[^ref-5].
 
-[[Jane Jensen]] created [[1993 - Gabriel Knight - Sins of the Fathers\|Gabriel Knight: Sins of the Fathers]] in 1993, earning Computer Gaming World's Adventure Game of the Year for 1994 and establishing Sierra's premiere mature adventure franchise.
+[[Jane Jensen]] created [[1993 - Gabriel Knight - Sins of the Fathers|Gabriel Knight: Sins of the Fathers]] in 1993, earning Computer Gaming World's Adventure Game of the Year for 1994 and establishing Sierra's premiere mature adventure franchise.
 
 ### Record-Breaking Success
 
-[[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V]] (1990) became the first Sierra game to sell over 500,000 copies, remaining the company's highest-selling game for five years[^ref-5]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
+[[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (1990) became the first Sierra game to sell over 500,000 copies, remaining the company's highest-selling game for five years[^ref-5]. It won Best Adventure Game of the Year from both the Software Publishers Association and Computer Gaming World.
 
 ---
 
@@ -118,11 +116,11 @@ The service provided a "land-based" precursor to MMORPGs and internet chat rooms
 
 ### Technical Evolution
 
-Sierra transitioned to SCI32 (Windows-native, SVGA) with [[1994 - King's Quest VII - The Princeless Bride\|King's Quest VII]] and [[1995 - The Beast Within - A Gabriel Knight Mystery\|Gabriel Knight 2]], delivering higher-fidelity visuals and full-motion video support.
+Sierra transitioned to SCI32 (Windows-native, SVGA) with [[1994 - King's Quest VII - The Princeless Bride|King's Quest VII]] and [[1995 - The Beast Within - A Gabriel Knight Mystery|Gabriel Knight 2]], delivering higher-fidelity visuals and full-motion video support.
 
 ### Ambitious Productions
 
-[[1995 - Phantasmagoria\|Phantasmagoria]] (1995) represented Sierra's most ambitious project:
+[[1995 - Phantasmagoria|Phantasmagoria]] (1995) represented Sierra's most ambitious project:
 - Seven CD-ROMs
 - Over $4 million budget[^ref-17]
 - Full-motion video with live actors
@@ -153,12 +151,10 @@ February 22, 1999—known within Sierra as "Chainsaw Monday"—devastated the co
 
 Despite internal turmoil, Sierra published major external titles:
 
-| Year | Game | Developer | Impact |
-|------|------|-----------|--------|
-| 1998 | [[1998 - Half-Life\|Half-Life]] | Valve | Revolutionary FPS, launched Valve's career |
-| 1999 | [[1999 - Homeworld\|Homeworld]] | Relic Entertainment | Pioneering 3D RTS |
-| 2000 | [[2000 - No One Lives Forever\|No One Lives Forever]] | Monolith | Critical darling spy shooter |
-| 2001 | [[2001 - Arcanum\|Arcanum]] | Troika | Steampunk RPG from Fallout creators |
+- **1998** — [[1998 - Half-Life|Half-Life]] — Developer: Valve, Impact: Revolutionary FPS, launched Valve's career
+- **1999** — [[1999 - Homeworld|Homeworld]] — Developer: Relic Entertainment, Impact: Pioneering 3D RTS
+- **2000** — [[2000 - No One Lives Forever|No One Lives Forever]] — Developer: Monolith, Impact: Critical darling spy shooter
+- **2001** — [[2001 - Arcanum|Arcanum]] — Developer: Troika, Impact: Steampunk RPG from Fallout creators
 
 Ken Williams later reflected on Half-Life: "By the time I decided we wanted into the [FPS] genre, we were too far behind. With 20/20 hindsight, I blew it when I had the chance to buy id and didn't... Valve was the first group I had spoken with that could put Sierra in front of id."[^ref-20]
 
@@ -184,14 +180,14 @@ Fan projects kept dormant series alive:
 ### The Sierra Revival (2014–2016)
 
 In 2014, Activision briefly resurrected the Sierra brand for:
-- [[2015 - King's Quest\|King's Quest]] (2015) – Episodic reboot by The Odd Gentlemen
+- [[2015 - King's Quest|King's Quest]] (2015) – Episodic reboot by The Odd Gentlemen
 - Curated indie partnerships under the Sierra label
 
 Ken and Roberta Williams were honored with The Game Awards' inaugural Industry Icons award in 2014.
 
 ### Cygnus Entertainment (2021–Present)
 
-Ken and Roberta formed Cygnus Entertainment in 2021, returning to game development. They released [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] in 2023—a VR and flat-screen reimagining of the text adventure that inspired Roberta 44 years earlier.
+Ken and Roberta formed Cygnus Entertainment in 2021, returning to game development. They released [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] in 2023—a VR and flat-screen reimagining of the text adventure that inspired Roberta 44 years earlier.
 
 Ken published his memoir, *Not All Fairy Tales Have Happy Endings: The Rise and Fall of Sierra On-Line*, on July 24, 2020[^ref-21], providing an insider account of Sierra's complete history.
 

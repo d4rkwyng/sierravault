@@ -33,12 +33,10 @@ On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interac
 
 **Released Games:**
 
-| Year | Game | Original | Download |
-|------|------|----------|----------|
-| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake]] | [[1984 - King's Quest - Quest for the Crown\|King's Quest - Quest for the Crown]] | [AGDI](https://www.agdinteractive.com/games/kq1/) |
-| 2002 | [[2002 - King's Quest II+ - Romancing the Stones\|King's Quest II+ - Romancing the Stones]] | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II - Romancing the Throne]] | [AGDI](https://www.agdinteractive.com/games/kq2/) |
-| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | [[1990 - Quest for Glory II - Trial by Fire\|Quest for Glory II - Trial by Fire]] | [AGDI](https://www.agdinteractive.com/games/qfg2/) |
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux - To Heir is Human]] | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III - To Heir Is Human]] | [AGDI](https://www.agdinteractive.com/games/kq3/) |
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Original: [[1984 - King's Quest - Quest for the Crown|King's Quest - Quest for the Crown]], Download: [AGDI](https://www.agdinteractive.com/games/kq1/)
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+ - Romancing the Stones]] — Original: [[1985 - King's Quest II - Romancing the Throne|King's Quest II - Romancing the Throne]], Download: [AGDI](https://www.agdinteractive.com/games/kq2/)
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Original: [[1990 - Quest for Glory II - Trial by Fire|Quest for Glory II - Trial by Fire]], Download: [AGDI](https://www.agdinteractive.com/games/qfg2/)
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux - To Heir is Human]] — Original: [[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]], Download: [AGDI](https://www.agdinteractive.com/games/kq3/)
 
 **Notable Achievements:**
 - King's Quest II+ won the 2002 AGS Awards for Best Game, Best Story, Best Animation, Best Music, Best Scripting, and Best Documentation[^ref-3]
@@ -52,7 +50,7 @@ On December 10, 2003, they rebranded from "Tierra Entertainment" to "AGD Interac
 
 **Commercial Work:**
 AGDI founded **Himalaya Studios** for original commercial games:
-- [[2019 - Mage's Initiation - Reign of the Elements\|Mage's Initiation - Reign of the Elements]] (2019) — Adventure/RPG in the Quest for Glory tradition
+- [[2019 - Mage's Initiation - Reign of the Elements|Mage's Initiation - Reign of the Elements]] (2019) — Adventure/RPG in the Quest for Glory tradition
 
 ---
 
@@ -66,20 +64,16 @@ Infamous Adventures (later Infamous Quests) creates VGA remakes and original adv
 
 **Released Remakes:**
 
-| Year | Game | Original | Download |
-|------|------|----------|----------|
-| 2006 | [[2006 - King's Quest III Remake (Infamous Adventures)\|King's Quest III Remake (Infamous Adventures)]] | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III - To Heir Is Human]] | [Itch.io](https://infamousadventures.itch.io/kq3) |
-| 2011 | [[2011 - Space Quest II VGA Remake\|Space Quest II VGA Remake]] | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II - Vohaul's Revenge]] | [Itch.io](https://infamousadventures.itch.io/sq2) |
+- **2006** — [[2006 - King's Quest III Remake (Infamous Adventures)|King's Quest III Remake (Infamous Adventures)]] — Original: [[1986 - King's Quest III - To Heir Is Human|King's Quest III - To Heir Is Human]], Download: [Itch.io](https://infamousadventures.itch.io/kq3)
+- **2011** — [[2011 - Space Quest II VGA Remake|Space Quest II VGA Remake]] — Original: [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II - Vohaul's Revenge]], Download: [Itch.io](https://infamousadventures.itch.io/sq2)
 
 **Original Games:**
 
-| Year | Game | Status | Download |
-|------|------|--------|----------|
-| 2014 | [[2014 - Quest for Infamy\|Quest for Infamy]] | Released | [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/) |
-| 2015 | [[2015 - Order of the Thorne - The King's Challenge\|Order of the Thorne - The King's Challenge]] | Released | [Steam](https://store.steampowered.com/app/317340/Order_of_the_Thorne__The_Kings_Challenge/) |
-| TBD | Quest for Infamy: Roehm to Ruin | In Development | — |
-| TBD | Order of the Thorne: Fortress of Fire | ~75% complete | — |
-| TBD | King's Quest IV Remake | In Development | — |
+- **2014** — [[2014 - Quest for Infamy|Quest for Infamy]] — Status: Released, Download: [Steam](https://store.steampowered.com/app/264560/Quest_for_Infamy/)
+- **2015** — [[2015 - Order of the Thorne - The King's Challenge|Order of the Thorne - The King's Challenge]] — Status: Released, Download: [Steam](https://store.steampowered.com/app/317340/Order_of_the_Thorne__The_Kings_Challenge/)
+- TBD — Quest for Infamy: Roehm to Ruin — In Development — —
+- TBD — Order of the Thorne: Fortress of Fire — ~75% complete — —
+- TBD — King's Quest IV Remake — In Development — —
 
 **Notes:**
 - Space Quest II VGA filled a gap that AGDI left when they cancelled their SQ2 remake[^ref-2]
@@ -98,10 +92,8 @@ Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as a fan s
 
 **Released Games:**
 
-| Year | Game | Episodes | Download |
-|------|------|----------|----------|
-| 2010–2014 | [[2010 - The Silver Lining\|The Silver Lining]] | 4 of 5 planned | [postudios.com](https://postudios.com/games/the-silver-lining/) |
-| 2012–2013 | [[2012 - Cognition - An Erica Reed Thriller\|Cognition - An Erica Reed Thriller]] | 4 episodes | [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/) |
+- **2010–2014** — [[2010 - The Silver Lining|The Silver Lining]] — Episodes: 4 of 5 planned, Download: [postudios.com](https://postudios.com/games/the-silver-lining/)
+- **2012–2013** — [[2012 - Cognition - An Erica Reed Thriller|Cognition - An Erica Reed Thriller]] — Episodes: 4 episodes, Download: [Steam](https://store.steampowered.com/app/242780/Cognition_An_Erica_Reed_Thriller/)
 
 **The Silver Lining History:**
 - Originally titled "King's Quest IX: Every Cloak Has a Silver Lining"
@@ -116,12 +108,10 @@ Originally created "King's Quest IX: Every Cloak Has a Silver Lining" as a fan s
 
 Multiple teams have created Space Quest fan games over the years:
 
-| Year | Game | Creator | Download |
-|------|------|---------|----------|
-| 2001 | [[2001 - Space Quest - The Lost Chapter\|Space Quest - The Lost Chapter]] | Fan team | [SpaceQuest.net](https://spacequest.net/fanprojects/) |
-| 2003 | [[2003 - Space Quest 0 - Replicated\|Space Quest 0 - Replicated]] | Vonster Productions | [SpaceQuest.net](https://spacequest.net/fanprojects/) |
-| 2011 | [[2011 - Space Quest - Vohaul Strikes Back\|Space Quest - Vohaul Strikes Back]] | Fan team | [SpaceQuest.net](https://spacequest.net/fanprojects/) |
-| 2012 | [[2012 - Space Quest - Incinerations\|Space Quest - Incinerations]] | Frostbite Games | [SpaceQuest.net](https://spacequest.net/fanprojects/) |
+- **2001** — [[2001 - Space Quest - The Lost Chapter|Space Quest - The Lost Chapter]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
+- **2003** — [[2003 - Space Quest 0 - Replicated|Space Quest 0 - Replicated]] — Creator: Vonster Productions, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
+- **2011** — [[2011 - Space Quest - Vohaul Strikes Back|Space Quest - Vohaul Strikes Back]] — Creator: Fan team, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
+- **2012** — [[2012 - Space Quest - Incinerations|Space Quest - Incinerations]] — Creator: Frostbite Games, Download: [SpaceQuest.net](https://spacequest.net/fanprojects/)
 
 **Space Quest: Vohaul Strikes Back** notably contains 60-70 unique death scenes, continuing the series' tradition of creative player deaths.
 
@@ -132,9 +122,7 @@ Multiple teams have created Space Quest fan games over the years:
 **Website:** AGS Forums
 **Status:** Active
 
-| Year | Game | Original | Download |
-|------|------|----------|----------|
-| 2021 | [[2021 - King's Quest IV Retold\|King's Quest IV Retold]] | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV - The Perils of Rosella]] | [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/) |
+- **2021** — [[2021 - King's Quest IV Retold|King's Quest IV Retold]] — Original: [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV - The Perils of Rosella]], Download: [AGS Forums](https://www.adventuregamestudio.co.uk/forums/completed-game-announcements/kings-quest-iv-retold-vga-talkie-new-version/)
 
 - Created by Jorge Pecador
 - 2025: Released VGA + Talkie version with 256-color graphics and full voice acting
@@ -148,19 +136,15 @@ Multiple teams have created Space Quest fan games over the years:
 
 The original artist and designer from Coktel Vision's Gobliiins series has created fan sequels:
 
-| Year | Game | Status |
-|------|------|--------|
-| 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion\|Gobliiins 5 - The Morgloton Invasion]] | Released |
-| 2026 | [[2026 - Gobliins 6]] | Nearly complete (translation phase) |
+- **2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5 - The Morgloton Invasion]] — Status: Released
+- 2026 — [[2026 - Gobliins 6]] — Nearly complete (translation phase)
 
 **Gobliins 6** is a direct sequel to Gobliins 2, bringing back Fingus and Winkle against villain Karcassio.
 
 ### Al Emmo
 
-| Year | Game | Creator | Status |
-|------|------|---------|--------|
-| 2006 | [[2006 - Al Emmo and the Lost Dutchman's Mine\|Al Emmo and the Lost Dutchman's Mine]] | Himalaya Studios | Released |
-| 2012 | Al Emmo (Remastered) | Himalaya Studios | Released |
+- **2006** — [[2006 - Al Emmo and the Lost Dutchman's Mine|Al Emmo and the Lost Dutchman's Mine]] — Creator: Himalaya Studios, Status: Released
+- 2012 — Al Emmo (Remastered) — Himalaya Studios — Released
 
 A Leisure Suit Larry-inspired comedy adventure by the AGDI team under their commercial studio.
 
@@ -174,47 +158,37 @@ Many original Sierra designers have created spiritual successors through crowdfu
 
 [[Scott Murphy]] and [[Mark Crowe]], creators of Space Quest, launched SpaceVenture via Kickstarter in 2012:
 
-| Game | Status | Platform |
-|------|--------|----------|
-| [[2022 - SpaceVenture\|SpaceVenture]] | Released Dec 23, 2025 | Steam, Itch.io |
-| [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid\|Cluck Yegger in Escape From The Planet of The Poultroid]] | Released 2015 (tech demo) | Free |
+- [[2022 - SpaceVenture|SpaceVenture]] — Status: Released Dec 23, 2025, Platform: Steam, Itch.io
+- [[2015 - Cluck Yegger in Escape From The Planet of The Poultroid|Cluck Yegger in Escape From The Planet of The Poultroid]] — Status: Released 2015 (tech demo), Platform: Free
 
 ### The Coles (Quest for Glory)
 
 [[Corey Cole]] and [[Lori Ann Cole]], creators of Quest for Glory:
 
-| Game | Status | Platform |
-|------|--------|----------|
-| [[2018 - Hero-U - Rogue to Redemption\|Hero-U - Rogue to Redemption]] | Released 2018 | Steam, GOG |
-| [[2023 - Summer Daze - Tilly's Tale\|Summer Daze - Tilly's Tale]] | Released 2023 | Steam |
-| Hero-U Sequel | Seeking funding | — |
+- [[2018 - Hero-U - Rogue to Redemption|Hero-U - Rogue to Redemption]] — Status: Released 2018, Platform: Steam, GOG
+- [[2023 - Summer Daze - Tilly's Tale|Summer Daze - Tilly's Tale]] — Status: Released 2023, Platform: Steam
+- Hero-U Sequel — Seeking funding — —
 
 ### Jane Jensen (Gabriel Knight)
 
 [[Jane Jensen]], creator of Gabriel Knight:
 
-| Game | Status | Platform |
-|------|--------|----------|
-| [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition\|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] | Released 2014 | Steam, GOG |
-| [[2014 - Moebius - Empire Rising\|Moebius - Empire Rising]] | Released 2014 | Steam, GOG |
-| [[2010 - Gray Matter\|Gray Matter]] | Released 2010 | Steam, GOG |
-| Gabriel Knight 4: Five Hearts | Awaiting MS approval | — |
+- [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition]] — Status: Released 2014, Platform: Steam, GOG
+- [[2014 - Moebius - Empire Rising|Moebius - Empire Rising]] — Status: Released 2014, Platform: Steam, GOG
+- [[2010 - Gray Matter|Gray Matter]] — Status: Released 2010, Platform: Steam, GOG
+- Gabriel Knight 4: Five Hearts — Awaiting MS approval — —
 
 ### Ken & Roberta Williams (Colossal Cave)
 
 [[Ken Williams]] and [[Roberta Williams]], Sierra founders:
 
-| Game | Status | Platform |
-|------|--------|----------|
-| [[2023 - Colossal Cave 3D Adventure\|Colossal Cave 3D Adventure]] | Released 2023 | Steam, VR, Consoles |
+- [[2023 - Colossal Cave 3D Adventure|Colossal Cave 3D Adventure]] — Status: Released 2023, Platform: Steam, VR, Consoles
 
 ### Al Lowe (Leisure Suit Larry)
 
 [[Al Lowe]], creator of Leisure Suit Larry:
 
-| Game | Status | Platform |
-|------|--------|----------|
-| [[2013 - Leisure Suit Larry - Reloaded\|Leisure Suit Larry - Reloaded]] | Released 2013 | Steam, GOG, Mobile |
+- [[2013 - Leisure Suit Larry - Reloaded|Leisure Suit Larry - Reloaded]] — Status: Released 2013, Platform: Steam, GOG, Mobile
 
 ---
 
@@ -227,15 +201,13 @@ Many original Sierra designers have created spiritual successors through crowdfu
 **Key Members:** DaRaSCo, kikems (AmigaWave), Estrayk
 **Status:** Active
 
-The [[2025 - SCP Sierra Conversion Project\|SCP Sierra Conversion Project]] enhances Sierra's notoriously poor Amiga ports by extracting, improving, and re-injecting graphics. Unlike VGA remakes that rebuild games from scratch, SCP preserves the original SCI engine while fixing the graphical compromises that made Sierra's Amiga conversions inferior to DOS versions.
+The [[2025 - SCP Sierra Conversion Project|SCP Sierra Conversion Project]] enhances Sierra's notoriously poor Amiga ports by extracting, improving, and re-injecting graphics. Unlike VGA remakes that rebuild games from scratch, SCP preserves the original SCI engine while fixing the graphical compromises that made Sierra's Amiga conversions inferior to DOS versions.
 
 **Released Enhancements:**
 
-| Date | Game | Original | Download |
-|------|------|----------|----------|
-| Dec 2025 | Space Quest IV OCS Enhanced | [[1991 - Space Quest IV - Roger Wilco and the Time Rippers\|Space Quest IV - Roger Wilco and the Time Rippers]] | [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU) |
-| Jan 2026 | King's Quest V OCS Remaster | [[1990 - King's Quest V - Absence Makes the Heart Go Yonder\|King's Quest V - Absence Makes the Heart Go Yonder]] | [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM) |
-| Jan 2026 | Police Quest III Enhancement | [[1991 - Police Quest III - The Kindred\|Police Quest III - The Kindred]] | Contact SCP |
+- **Dec 2025** — [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV - Roger Wilco and the Time Rippers]] — Game: Space Quest IV OCS Enhanced, Download: [MEGA](https://mega.nz/file/KtEj3IrD#S1uejpsbD2Vr8E5kldTYX3R2BqdNv3vtlIP4z9SBJPU)
+- **Jan 2026** — [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V - Absence Makes the Heart Go Yonder]] — Game: King's Quest V OCS Remaster, Download: [MEGA](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)
+- **Jan 2026** — [[1991 - Police Quest III - The Kindred|Police Quest III - The Kindred]] — Game: Police Quest III Enhancement, Download: Contact SCP
 
 **In Development:**
 

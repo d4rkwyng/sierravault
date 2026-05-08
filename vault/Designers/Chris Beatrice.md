@@ -106,43 +106,39 @@ His dual career success in both gaming and illustration has made him a role mode
 
 ### Impressions Games (1994–2002)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1994 | [[1994 - Detroit\|Detroit]] | Artist |
-| 1994 | [[1994 - Lords of the Realm\|Lords of the Realm]] | Art Director |
-| 1994 | [[1994 - Front Lines\|Front Lines]] | Art Director |
-| 1995 | [[1992 - Caesar\|Caesar II]] | Art Director |
-| 1995 | [[1995 - Breach 3\|Breach 3]] | Art Director, 3D Graphics, Campaign Designer |
-| 1995 | [[1995 - High Seas Trader\|High Seas Trader]] | Art Director |
-| 1995 | Ultimate Soccer Manager | Art Director |
-| 1995 | [[1995 - Casino De Luxe\|Casino De Luxe]] | Art Director |
-| 1996 | [[1996 - Robert E. Lee - Civil War General\|Robert E. Lee: Civil War General]] | Art Director |
-| 1996 | [[1996 - Space Bucks\|Space Bucks]] | Art Director |
-| 1996 | [[1996 - The Rise & Rule of Ancient Empires\|The Rise & Rule of Ancient Empires]] | Art Director |
-| 1996 | [[1996 - Lords of the Realm II\|Lords of the Realm II]] | Creative Director, Game Designer |
-| 1997 | [[1997 - Lords of the Realm II - Siege Pack\|Lords of the Realm II: Siege Pack]] | Creative Director, Game Designer |
-| 1997 | [[1997 - Civil War Generals 2 - Grant–Lee–Sherman\|Grant, Lee, Sherman: Civil War Generals 2]] | Creative Director |
-| 1997 | [[1997 - Lords of Magic\|Lords of Magic]] | Creative Director, Lead Designer |
-| 1998 | [[1998 - Lords of Magic - Special Edition\|Lords of Magic: Special Edition]] | Lead Designer |
-| 1998 | [[1998 - Caesar III\|Caesar III]] | Studio Head |
-| 1999 | [[1999 - Pharaoh\|Pharaoh]] | Lead Designer |
-| 2000 | [[2000 - Cleopatra - Queen of the Nile\|Cleopatra: Queen of the Nile]] | Supervising Designer |
-| 2000 | [[2000 - Zeus - Master of Olympus\|Zeus: Master of Olympus]] | Designer, Studio Head |
-| 2001 | [[2001 - Poseidon - Master of Atlantis\|Poseidon: Master of Atlantis]] | Director of Design & Development |
+- **1994** — [[1994 - Detroit|Detroit]] — Role: Artist
+- **1994** — [[1994 - Lords of the Realm|Lords of the Realm]] — Role: Art Director
+- **1994** — [[1994 - Front Lines|Front Lines]] — Role: Art Director
+- **1995** — [[1992 - Caesar|Caesar II]] — Role: Art Director
+- **1995** — [[1995 - Breach 3|Breach 3]] — Role: Art Director, 3D Graphics, Campaign Designer
+- **1995** — [[1995 - High Seas Trader|High Seas Trader]] — Role: Art Director
+- 1995 — Ultimate Soccer Manager — Art Director
+- **1995** — [[1995 - Casino De Luxe|Casino De Luxe]] — Role: Art Director
+- **1996** — [[1996 - Robert E. Lee - Civil War General|Robert E. Lee: Civil War General]] — Role: Art Director
+- **1996** — [[1996 - Space Bucks|Space Bucks]] — Role: Art Director
+- **1996** — [[1996 - The Rise & Rule of Ancient Empires|The Rise & Rule of Ancient Empires]] — Role: Art Director
+- **1996** — [[1996 - Lords of the Realm II|Lords of the Realm II]] — Role: Creative Director, Game Designer
+- **1997** — [[1997 - Lords of the Realm II - Siege Pack|Lords of the Realm II: Siege Pack]] — Role: Creative Director, Game Designer
+- **1997** — [[1997 - Civil War Generals 2 - Grant–Lee–Sherman|Grant, Lee, Sherman: Civil War Generals 2]] — Role: Creative Director
+- **1997** — [[1997 - Lords of Magic|Lords of Magic]] — Role: Creative Director, Lead Designer
+- **1998** — [[1998 - Lords of Magic - Special Edition|Lords of Magic: Special Edition]] — Role: Lead Designer
+- **1998** — [[1998 - Caesar III|Caesar III]] — Role: Studio Head
+- **1999** — [[1999 - Pharaoh|Pharaoh]] — Role: Lead Designer
+- **2000** — [[2000 - Cleopatra - Queen of the Nile|Cleopatra: Queen of the Nile]] — Role: Supervising Designer
+- **2000** — [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]] — Role: Designer, Studio Head
+- **2001** — [[2001 - Poseidon - Master of Atlantis|Poseidon: Master of Atlantis]] — Role: Director of Design & Development
 
 ### Tilted Mill Entertainment (2004–2009)
 
-| Year | Title | Role |
-|------|-------|------|
-| 2004 | [[2004 - Lords of the Realm III\|Lords of the Realm III]] | Lead Designer, Director of Development |
-| 2004 | Immortal Cities: Children of the Nile | Lead Designer, Creative Director, Studio Head |
-| 2006 | [[2006 - Caesar IV\|Caesar IV]] | Lead Designer, Studio Head |
-| 2007 | SimCity Societies | Lead Designer, Studio Head |
-| 2008 | SimCity Societies: Destinations | Designer |
-| 2008 | Mosby's Confederacy | Studio Head, Artist |
-| 2008 | Hinterland | Creative Director, Studio Head |
-| 2008 | Hinterland: Orc Lords | Studio Head |
-| CXL | Medieval Mayor | Designer, Art Director (unreleased) |
+- **2004** — [[2004 - Lords of the Realm III|Lords of the Realm III]] — Role: Lead Designer, Director of Development
+- 2004 — Immortal Cities: Children of the Nile — Lead Designer, Creative Director, Studio Head
+- **2006** — [[2006 - Caesar IV|Caesar IV]] — Role: Lead Designer, Studio Head
+- 2007 — SimCity Societies — Lead Designer, Studio Head
+- 2008 — SimCity Societies: Destinations — Designer
+- 2008 — Mosby's Confederacy — Studio Head, Artist
+- 2008 — Hinterland — Creative Director, Studio Head
+- 2008 — Hinterland: Orc Lords — Studio Head
+- CXL — Medieval Mayor — Designer, Art Director (unreleased)
 
 ### Later Career (2013–Present)
 

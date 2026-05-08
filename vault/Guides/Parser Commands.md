@@ -13,9 +13,9 @@ last_updated: "2026-02-07"
 
 ## Overview
 
-The text parser was Sierra On-Line's primary interface for adventure games from 1984 to 1991, requiring players to type commands to interact with game worlds. This system powered the [[Adventure Game Interpreter\|AGI]] engine era (1984-1989) and continued into the early [[Sierra Creative Interpreter\|SCI]] era (1988-1991) before being replaced by point-and-click interfaces.
+The text parser was Sierra On-Line's primary interface for adventure games from 1984 to 1991, requiring players to type commands to interact with game worlds. This system powered the [[Adventure Game Interpreter|AGI]] engine era (1984-1989) and continued into the early [[Sierra Creative Interpreter|SCI]] era (1988-1991) before being replaced by point-and-click interfaces.
 
-Understanding the parser is essential for playing classic Sierra adventures—from [[1984 - King's Quest - Quest for the Crown\|King's Quest]] through [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]]—and can mean the difference between frustration and enjoyment.
+Understanding the parser is essential for playing classic Sierra adventures—from [[1984 - King's Quest - Quest for the Crown|King's Quest]] through [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]]—and can mean the difference between frustration and enjoyment.
 
 ## What is a Text Parser?
 
@@ -64,19 +64,19 @@ These verbs work across virtually all Sierra parser games:
 
 Different series required specialized vocabulary:
 
-**[[Police Quest Series\|Police Quest]]**[^ref-pq1][^ext-mobygames-pq1]:
+**[[Police Quest Series|Police Quest]]**[^ref-pq1][^ext-mobygames-pq1]:
 - `RADIO` - Use police radio
 - `CUFF` - Handcuff suspects
 - `SEARCH` - Pat down suspects
 - `CITE` - Issue citations
 - `BOOK` - Process prisoners
 
-**[[Space Quest Series\|Space Quest]]**[^ref-sq1][^ext-sierra-fandom-sq1]:
+**[[Space Quest Series|Space Quest]]**[^ref-sq1][^ext-sierra-fandom-sq1]:
 - `SCAN` - Use scanner equipment
 - `PRESS BUTTON` - Operate controls
 - `HIDE` - Take cover
 
-**[[King's Quest Series\|King's Quest III]]** spell-casting[^ref-kq3][^ext-wikipedia-kq3]:
+**[[King's Quest Series|King's Quest III]]** spell-casting[^ref-kq3][^ext-wikipedia-kq3]:
 - Commands followed exact manual wording
 - Required precise punctuation
 - Single typos caused death
@@ -87,7 +87,7 @@ Different series required specialized vocabulary:
 
 The parser was notoriously literal. If one phrasing doesn't work, try alternatives:
 
-❌ `PUT BAG BOTTLE` (fails due to parser bug in [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|LSL2]][^ref-lsl2][^ext-allowe-bug])
+❌ `PUT BAG BOTTLE` (fails due to parser bug in [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|LSL2]][^ref-lsl2][^ext-allowe-bug])
 ✅ `PUT THE BAG IN BOTTLE`
 
 As Al Lowe explained: "The day before the game shipped, the system programmer in charge of 'the parser' fixed a bug that I'd been complaining about for days. He assured me he changed nothing else. I foolishly added the new code to the game."[^ext-allowe-bug] The bug causes commands like "PUT BAG BOTTLE" to fail because the parser incorrectly treats "bag" as a verb rather than a noun. "16 years later, I'm still answering emails about a bug I swear I didn't create!"[^ext-allowe-bug]
@@ -125,11 +125,11 @@ The object isn't in this screen or isn't visible. Check:
 
 ### The Speed Problem
 
-In [[1988 - Gold Rush\|Gold Rush!]], "the text parser doesn't pause while typing commands"[^ref-gr][^ext-abandonwaredos-gr], meaning the game continued running while you typed. This required fast typing during time-sensitive sequences.
+In [[1988 - Gold Rush|Gold Rush!]], "the text parser doesn't pause while typing commands"[^ref-gr][^ext-abandonwaredos-gr], meaning the game continued running while you typed. This required fast typing during time-sensitive sequences.
 
 ### Spell-Casting Nightmare
 
-[[1986 - King's Quest III - To Heir Is Human\|King's Quest III]] featured the most demanding parser use in Sierra history. Players had to:
+[[1986 - King's Quest III - To Heir Is Human|King's Quest III]] featured the most demanding parser use in Sierra history. Players had to:
 
 1. Follow spell recipes from the physical manual exactly
 2. Type every word, comma, and period precisely
@@ -143,12 +143,12 @@ Sierra designers filled their games with witty responses to unusual commands:
 
 ### Leisure Suit Larry Series
 
-Typing inappropriate commands in [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry]] yielded memorable responses[^ref-lsl1][^ext-mobygames-lsl1]:
+Typing inappropriate commands in [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry]] yielded memorable responses[^ref-lsl1][^ext-mobygames-lsl1]:
 
 - `MASTURBATE` → "Larry, the whole idea was to stop doing that!"
 - `LOOK AT PUSSY` → "Obviously, restraint is no problem for you, Larry"
 
-The [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|second game]]'s parser responses were praised as "the only parts of the game that have aged gracefully"[^ref-lsl2-ign][^ext-ign-lsl2].
+The [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|second game]]'s parser responses were praised as "the only parts of the game that have aged gracefully"[^ref-lsl2-ign][^ext-ign-lsl2].
 
 ### King's Quest III
 
@@ -168,7 +168,7 @@ The Space Quest games rewarded experimentation with the parser. Hidden easter eg
 
 By 1990-1991, Sierra phased out the parser for several reasons:
 
-1. **Accessibility**: "People solved the game much faster because they didn't have to guess which words we wanted them to type"—Al Lowe on [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|LSL5]][^ref-lsl5][^ext-ign-allowe]
+1. **Accessibility**: "People solved the game much faster because they didn't have to guess which words we wanted them to type"—Al Lowe on [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|LSL5]][^ref-lsl5][^ext-ign-allowe]
 
 2. **Competition**: LucasArts' SCUMM interface proved more accessible[^ext-hcg101]
 
@@ -176,7 +176,7 @@ By 1990-1991, Sierra phased out the parser for several reasons:
 
 ### The SCI1 Icon Bar
 
-[[Sierra Creative Interpreter\|SCI1]] games (1990-1991) introduced the iconic interface replacing the parser[^ref-sci][^ext-scummvm-sci]:
+[[Sierra Creative Interpreter|SCI1]] games (1990-1991) introduced the iconic interface replacing the parser[^ref-sci][^ext-scummvm-sci]:
 
 - **Walk** - Navigate character
 - **Look** - Examine objects
@@ -188,38 +188,34 @@ By 1990-1991, Sierra phased out the parser for several reasons:
 
 Some later games offered both options:
 
-**[[2014 - Gold Rush Anniversary\|Gold Rush! Anniversary]]** lets players "switch between a traditional text parser interface and a modern point-and-click system at any time"[^ref-gr-ann][^ext-steam-grann]. However, "certain puzzles require switching to typed commands to complete"[^ref-gr-ann].
+**[[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]]** lets players "switch between a traditional text parser interface and a modern point-and-click system at any time"[^ref-gr-ann][^ext-steam-grann]. However, "certain puzzles require switching to typed commands to complete"[^ref-gr-ann].
 
-**[[1996 - Leisure Suit Larry 7 - Love for Sail\|Leisure Suit Larry 7]]** features "a unique hybrid interface that combines point-and-click mechanics with an optional text parser"[^ref-lsl7][^ext-mobygames-lsl7]. The parser remembered previously used commands, allowing players to reuse actions like "fart" throughout the game[^ref-lsl7-parser].
+**[[1996 - Leisure Suit Larry 7 - Love for Sail|Leisure Suit Larry 7]]** features "a unique hybrid interface that combines point-and-click mechanics with an optional text parser"[^ref-lsl7][^ext-mobygames-lsl7]. The parser remembered previously used commands, allowing players to reuse actions like "fart" throughout the game[^ref-lsl7-parser].
 
 ## Parser Era Games
 
 ### AGI Era (Text Parser Required)
 
-| Year | Game | Notable Parser Feature |
-|------|------|------------------------|
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest I]] | First graphical adventure parser[^ext-sierra-fandom] |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II]] | Pull-down menus added (1987 re-release)[^ext-sierra-fandom-kq2] |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III]] | Complex spell-casting system[^ext-wikipedia-kq3] |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest I]] | Sci-fi vocabulary, witty responses[^ext-mobygames-sq1] |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II]] | Last major AGI release |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest I]] | Police procedure vocabulary[^ext-mobygames-pq1] |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry I]] | Adult humor responses[^ext-mobygames-lsl1] |
-| 1988 | [[1988 - Gold Rush\|Gold Rush!]] | Real-time parser (no pause while typing)[^ext-abandonwaredos-gr] |
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest I]] — Notable Parser Feature: First graphical adventure parser[^ext-sierra-fandom]
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II]] — Notable Parser Feature: Pull-down menus added (1987 re-release)[^ext-sierra-fandom-kq2]
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III]] — Notable Parser Feature: Complex spell-casting system[^ext-wikipedia-kq3]
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest I]] — Notable Parser Feature: Sci-fi vocabulary, witty responses[^ext-mobygames-sq1]
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II]] — Notable Parser Feature: Last major AGI release
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest I]] — Notable Parser Feature: Police procedure vocabulary[^ext-mobygames-pq1]
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry I]] — Notable Parser Feature: Adult humor responses[^ext-mobygames-lsl1]
+- **1988** — [[1988 - Gold Rush|Gold Rush!]] — Notable Parser Feature: Real-time parser (no pause while typing)[^ext-abandonwaredos-gr]
 
 ### SCI0 Era (Parser with Mouse Movement)
 
-| Year | Game | Notable Parser Feature |
-|------|------|------------------------|
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]] | Dual AGI/SCI release |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry II]] | Famous parser bug ("PUT BAG")[^ext-allowe-bug] |
-| 1989 | [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]] | Last Larry parser game[^ext-acg-lsl3] |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]] | Parser with SCI graphics |
-| 1989 | [[1989 - Quest for Glory I - So You Want to Be a Hero\|Quest for Glory I]] | RPG elements with parser |
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]] — Notable Parser Feature: Dual AGI/SCI release
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry II]] — Notable Parser Feature: Famous parser bug ("PUT BAG")[^ext-allowe-bug]
+- **1989** — [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]] — Notable Parser Feature: Last Larry parser game[^ext-acg-lsl3]
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]] — Notable Parser Feature: Parser with SCI graphics
+- **1989** — [[1989 - Quest for Glory I - So You Want to Be a Hero|Quest for Glory I]] — Notable Parser Feature: RPG elements with parser
 
 ### Simplified/No Parser (Children's Games)
 
-[[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] was "deliberately designed to be simple enough that 'even young children can play it when adults are out of the room'"[^ref-mumg]. The AGI implementation was "notably simplified, removing the text parser that was standard in other AGI titles to accommodate non-reading players"[^ref-mumg].
+[[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] was "deliberately designed to be simple enough that 'even young children can play it when adults are out of the room'"[^ref-mumg]. The AGI implementation was "notably simplified, removing the text parser that was standard in other AGI titles to accommodate non-reading players"[^ref-mumg].
 
 ## Playing Parser Games Today
 

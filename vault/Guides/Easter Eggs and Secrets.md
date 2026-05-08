@@ -21,27 +21,27 @@ This tradition began organically. Developers working in Oakhurst's informal cult
 The Space Quest series, created by the "Two Guys from Andromeda" ([[Mark Crowe]] and [[Scott Murphy]]), elevated easter eggs to an art form—most famously by making the designers themselves rescuable characters.
 
 **The Two Guys Rescue (Space Quest III)**
-The most elaborate easter egg in Sierra history: [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III]]'s entire plot revolves around Roger Wilco rescuing the game's own creators. At an orbital Monolith Burger station, achieving a high score in the Astro Chicken arcade game reveals a hidden distress message from the "Two Guys" who've been abducted by ScumSoft.[^ref-3] Players must infiltrate ScumSoft headquarters, battle Elmo Pug in a Rock 'Em Sock 'Em Robots parody, and deliver Crowe and Murphy to Ken Williams at Sierra On-Line's real offices.[^ref-4]
+The most elaborate easter egg in Sierra history: [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III]]'s entire plot revolves around Roger Wilco rescuing the game's own creators. At an orbital Monolith Burger station, achieving a high score in the Astro Chicken arcade game reveals a hidden distress message from the "Two Guys" who've been abducted by ScumSoft.[^ref-3] Players must infiltrate ScumSoft headquarters, battle Elmo Pug in a Rock 'Em Sock 'Em Robots parody, and deliver Crowe and Murphy to Ken Williams at Sierra On-Line's real offices.[^ref-4]
 
 - **Fourth Wall Break:** In the finale, one of the Two Guys turns to the screen and asks if the game was worth $59.99[^ref-5]
 - **ScumSoft Cubicles:** Ken Williams and Rick Cavin (Head of Production) appear as whip-cracking overseers over programmer cubicles—a darkly humorous commentary on game development[^ref-6]
 - **Anti-frustration Feature:** The Astro Chicken message also appears after failing 10 times, for players who can't master the arcade gameplay[^ref-5]
 
 **Hidden Ken Williams Easter Egg (Space Quest I)**
-In the original [[1986 - Space Quest - The Sarien Encounter\|Space Quest]], a Sarien guard near the elevators on the Deltaur will eventually ask if you own King's Quest II; typing "yes" awards 6 bonus points. This was secretly programmed by Ken Williams himself while Scott Murphy was staying at his house to finish the game—Murphy was reportedly upset that Ken awarded points for what was essentially a plug for another Sierra game.[^ref-2]
+In the original [[1986 - Space Quest - The Sarien Encounter|Space Quest]], a Sarien guard near the elevators on the Deltaur will eventually ask if you own King's Quest II; typing "yes" awards 6 bonus points. This was secretly programmed by Ken Williams himself while Scott Murphy was staying at his house to finish the game—Murphy was reportedly upset that Ken awarded points for what was essentially a plug for another Sierra game.[^ref-2]
 
 **Removed Developer Messages (Space Quest I)**
 In early versions (pre-2.2), typing "ken" on the Arcada would make Ken Williams walk onto the screen complaining the game was behind schedule; typing "scott" or "scott murphy" displayed a personal message from Scott Murphy asking players to write him at Sierra.[^ref-7]
 
 **Cross-Universe References (Space Quest I VGA)**
-[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter\|Space Quest I VGA]] contains extensive cross-references:
+[[1991 - Space Quest I - Roger Wilco in the Sarien Encounter|Space Quest I VGA]] contains extensive cross-references:
 - **King Graham Cameo:** In the ending sequence, King Graham from King's Quest appears to award Roger the Golden Mop—a crossover between Sierra's flagship franchises[^ref-7]
 - **Wrong Coordinates:** Pressing the "DO NOT TOUCH" button transports Roger to Nottingham Castle from Conquests of the Longbow (fatal); the EGA version sent players to Daventry Castle from King's Quest I instead[^ref-9]
 - **Roberta and Ken Williams Dialogue:** Entering wrong coordinates can crash-land Roger at King's Quest castle with moat alligators and dialogue from Roberta and Ken Williams[^ref-9]
 - **Cameos:** Robbie the Robot from "Forbidden Planet" works as the store droid; Blues Brothers and Madonna appear in the bar[^ref-7]
 
 **Space Quest V Cameos**
-[[1993 - Space Quest V - The Next Mutation\|Space Quest V]] features an impressive array of pop culture references:
+[[1993 - Space Quest V - The Next Mutation|Space Quest V]] features an impressive array of pop culture references:
 - **Star Wars:** Wander around StarCon Academy halls and you'll see Darth Vader and Obi-Wan Kenobi dueling in a far-away corridor[^ref-11]
 - **Pac-Man:** On Level 8 of the vents, Pac-Man chases Roger in a scene modeled after the Gemini Killer's attack in *The Exorcist III*[^ref-11]
 - **Astro Chicken:** Open the far left locker in the pod bay to see Astro Chicken pop out[^ref-12]
@@ -54,16 +54,16 @@ In early versions (pre-2.2), typing "ken" on the Arcada would make Ken Williams 
 [[Roberta Williams]]' flagship fantasy series contained numerous hidden gems, including developer tributes and cross-game references.
 
 **The Beam Me Easter Egg (King's Quest IV)**
-In [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]], after defeating Lolotte, typing "beam me" in the corridor teleports Rosella to a Star Trek-inspired spaceship where the KQ4 programming staff appears, including Vu Nguyen, Chris Hoyt, John Hamilton, Teresa Baker, and Roberta Williams herself.[^ref-14] This easter egg was removed in version 2.2 and later.
+In [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]], after defeating Lolotte, typing "beam me" in the corridor teleports Rosella to a Star Trek-inspired spaceship where the KQ4 programming staff appears, including Vu Nguyen, Chris Hoyt, John Hamilton, Teresa Baker, and Roberta Williams herself.[^ref-14] This easter egg was removed in version 2.2 and later.
 
 **King's Quest II Death Message**
-When players died or quit in [[1985 - King's Quest II - Romancing the Throne\|King's Quest II]], a personal message from Roberta and Ken Williams would appear on screen—an unusually personal touch for the era.[^ref-15]
+When players died or quit in [[1985 - King's Quest II - Romancing the Throne|King's Quest II]], a personal message from Roberta and Ken Williams would appear on screen—an unusually personal touch for the era.[^ref-15]
 
 ---
 
 ### Leisure Suit Larry: Al Lowe's Hidden Art
 
-[[Al Lowe]]'s adult comedy series became legendary for its extensive easter egg systems, particularly in [[1996 - Leisure Suit Larry 7 - Love for Sail\|Love for Sail]].
+[[Al Lowe]]'s adult comedy series became legendary for its extensive easter egg systems, particularly in [[1996 - Leisure Suit Larry 7 - Love for Sail|Love for Sail]].
 
 **The Where's Dildo? System (LSL7)**
 A hidden collectible game called "Where's Dildo?" (a parody of *Where's Waldo?*) challenges players to find 32 red-and-white-striped dildos hidden throughout the ship's screens.[^ref-16] Successfully finding all of them unlocks desktop wallpapers stored in the game's Drivers subdirectory under misleading filenames like "Memory1.drv" through "Memory8.drv."[^ref-16]
@@ -78,10 +78,10 @@ Players who obtain all 1,000 points, collect all 32 dildos, AND trigger all seve
 The music playing in the hot tub/spa area is the title theme from *Freddy Pharkas: Frontier Pharmacist*, another Al Lowe game. Lowe mentioned he "needed a country song but didn't want to pay royalties – so using a song from Sierra's catalog – a game he designed was too perfect!"[^ref-20]
 
 **Birthday Cheat (LSL2)**
-In [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]], entering 0724 (Al Lowe's birthday, July 24th) skips the copy protection and activates a cheat mode in later versions.[^ref-21]
+In [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]], entering 0724 (Al Lowe's birthday, July 24th) skips the copy protection and activates a cheat mode in later versions.[^ref-21]
 
 **Ken Williams Cameo (LSL1 VGA)**
-In [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leisure Suit Larry 1 VGA]], Sierra CEO Ken Williams appears as a patron in Lefty's Bar and again at the game's conclusion.[^ref-22]
+In [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)|Leisure Suit Larry 1 VGA]], Sierra CEO Ken Williams appears as a patron in Lefty's Bar and again at the game's conclusion.[^ref-22]
 
 ---
 
@@ -90,7 +90,7 @@ In [[1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA)\|Leis
 The Coles' hybrid adventure-RPG series contains numerous pop culture references and cross-game nods.
 
 **Cross-Game References (QFG1 VGA)**
-[[1992 - Quest for Glory I - So You Want to Be a Hero VGA\|Quest for Glory I VGA]] is packed with references:
+[[1992 - Quest for Glory I - So You Want to Be a Hero VGA|Quest for Glory I VGA]] is packed with references:
 - **"Daventree"** appears when clicking the eye icon on trees repeatedly—a reference to Daventry from King's Quest[^ref-23]
 - **"I want to be a pirate!"** is a gargoyle answer choice referencing The Secret of Monkey Island[^ref-23]
 - **"Call me Ishmael"** answer option references Moby Dick[^ref-23]
@@ -104,7 +104,7 @@ The Baron character in the VGA remake is a Ken Williams cameo.[^ref-25]
 An exclusive Bugs Bunny and Elmer Fudd easter egg exists in the VGA version.[^ref-24]
 
 **Sanford and Son Cameo (QFG3)**
-[[1992 - Quest for Glory III - Wages of War\|Quest for Glory III]] contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers.[^ref-26]
+[[1992 - Quest for Glory III - Wages of War|Quest for Glory III]] contains cameos by Sanford and Son as merchants in Tarna, and Laurel and Hardy as French Foreign Legion soldiers.[^ref-26]
 
 ---
 
@@ -113,13 +113,13 @@ An exclusive Bugs Bunny and Elmer Fudd easter egg exists in the VGA version.[^re
 Even the serious-minded Police Quest series contained hidden humor.
 
 **Larry Laffer Cameo (Police Quest II)**
-In [[1988 - Police Quest II - The Vengeance\|Police Quest II]], in the Lytton Airport on the second floor after passing through the metal detector, talking to the man furthest to the right on the couch reveals him to be "Larry Laffer" from Leisure Suit Larry, accompanied by a quick rendition of "For Your Thighs Only."[^ref-27]
+In [[1988 - Police Quest II - The Vengeance|Police Quest II]], in the Lytton Airport on the second floor after passing through the metal detector, talking to the man furthest to the right on the couch reveals him to be "Larry Laffer" from Leisure Suit Larry, accompanied by a quick rendition of "For Your Thighs Only."[^ref-27]
 
 **Jim Walls Creator Cameo (Police Quest II)**
 Creator Jim Walls appears in the opening, shown wanted "for excessive verbosity," with the caption "FORGIVE ME FOR SHOUTING-"[^ref-28]
 
 **VGA Pimp Cameo (Police Quest I VGA)**
-In [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest VGA]], the pimp character from Leisure Suit Larry in the Land of the Lounge Lizards makes a cameo appearance.[^ref-29]
+In [[1992 - Police Quest - In Pursuit of the Death Angel VGA|Police Quest VGA]], the pimp character from Leisure Suit Larry in the Land of the Lounge Lizards makes a cameo appearance.[^ref-29]
 
 ---
 
@@ -128,14 +128,14 @@ In [[1992 - Police Quest - In Pursuit of the Death Angel VGA\|Police Quest VGA]]
 Sierra developers frequently inserted themselves and their colleagues into games:
 
 ### The Williams Family
-- **Roberta Williams** appears as herself in LSL3's Sierra offices ending[^ref-30] and can be spotted at random when exiting the antique shop in [[1995 - Phantasmagoria\|Phantasmagoria]][^ref-31]
-- **Roberta Williams as Mother Goose** - The picture of Mother Goose on the original [[1987 - Mixed-Up Mother Goose\|Mixed-Up Mother Goose]] box is actually Roberta Williams dressed in costume, with her own children beside her[^ref-32]
+- **Roberta Williams** appears as herself in LSL3's Sierra offices ending[^ref-30] and can be spotted at random when exiting the antique shop in [[1995 - Phantasmagoria|Phantasmagoria]][^ref-31]
+- **Roberta Williams as Mother Goose** - The picture of Mother Goose on the original [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]] box is actually Roberta Williams dressed in costume, with her own children beside her[^ref-32]
 - **Ken Williams** appears in Space Quest I (secret easter egg)[^ref-2], Space Quest III (ending sequence)[^ref-6], LSL1 VGA (bar patron)[^ref-22], and as an overseer at ScumSoft[^ref-6]
 
 ### Al Lowe
-- **Wanted Poster** - A wanted poster of Al Lowe appears in Chester Field's store in [[1993 - Freddy Pharkas - Frontier Pharmacist\|Freddy Pharkas]][^ref-33]
-- **Sheriff Photo** - The photograph of the corrupt sheriff in [[1997 - Shivers Two - Harvest of Souls\|Shivers Two]] is actually Al Lowe, though he doesn't voice the character[^ref-34]
-- **Voice Cameo** - Al Lowe voices the original Larry Laffer's cameo in [[2004 - Leisure Suit Larry - Magna Cum Laude\|Magna Cum Laude]][^ref-35]
+- **Wanted Poster** - A wanted poster of Al Lowe appears in Chester Field's store in [[1993 - Freddy Pharkas - Frontier Pharmacist|Freddy Pharkas]][^ref-33]
+- **Sheriff Photo** - The photograph of the corrupt sheriff in [[1997 - Shivers Two - Harvest of Souls|Shivers Two]] is actually Al Lowe, though he doesn't voice the character[^ref-34]
+- **Voice Cameo** - Al Lowe voices the original Larry Laffer's cameo in [[2004 - Leisure Suit Larry - Magna Cum Laude|Magna Cum Laude]][^ref-35]
 
 ### The Two Guys from Andromeda
 - **Death Replay** - In Space Quest I VGA, one death scene features the Two Guys popping up to announce an instant replay of Roger's particularly stupid moment[^ref-9]
@@ -148,14 +148,14 @@ Sierra developers frequently inserted themselves and their colleagues into games
 Sierra games frequently referenced each other, creating an interconnected universe:
 
 ### LSL3's Sierra Offices Sequence
-[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals\|Leisure Suit Larry III]]'s finale features a "rampage through Sierra's offices" with cameos from:
+[[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals|Leisure Suit Larry III]]'s finale features a "rampage through Sierra's offices" with cameos from:
 - Police Quest (1987)
 - Space Quest II (1987)  
 - The King's Quest saga
 - Roberta Williams herself[^ref-30]
 
 ### LSL2's Influence
-Items from [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] are referenced in later Sierra titles:
+Items from [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] are referenced in later Sierra titles:
 - **Quest for Glory I** references the Peruvian onklunk
 - **Quest for Glory III** references a bowl of spinach dip[^ref-37]
 - **Police Quest 2** features a cameo where Larry mentions he's "starring in a new movie called 'Looking for Love In Several Wrong Places'"[^ref-37]

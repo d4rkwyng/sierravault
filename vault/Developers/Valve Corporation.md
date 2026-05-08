@@ -80,16 +80,14 @@ The company's influence on game development practices, particularly their iterat
 
 ### In This Archive (Sierra Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1998 | [[1998 - Half-Life\|Half-Life]] | First-Person Shooter |
-| 1999 | [[1999 - Team Fortress Classic\|Team Fortress Classic]] | Multiplayer Shooter |
-| 1999 | [[1999 - Half-Life - Opposing Force\|Half-Life: Opposing Force]] | First-Person Shooter |
-| 2000 | [[2000 - Counter-Strike\|Counter-Strike]] | Tactical Shooter |
-| 2000 | [[2000 - Gunman Chronicles\|Gunman Chronicles]] | First-Person Shooter |
-| 2001 | [[2001 - Deathmatch Classic\|Deathmatch Classic]] | Multiplayer Shooter |
-| 2001 | [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | First-Person Shooter |
-| 2004 | [[2004 - Counter-Strike - Condition Zero\|Counter-Strike: Condition Zero]] | Tactical Shooter |
+- **1998** — [[1998 - Half-Life|Half-Life]] — Genre: First-Person Shooter
+- **1999** — [[1999 - Team Fortress Classic|Team Fortress Classic]] — Genre: Multiplayer Shooter
+- **1999** — [[1999 - Half-Life - Opposing Force|Half-Life: Opposing Force]] — Genre: First-Person Shooter
+- **2000** — [[2000 - Counter-Strike|Counter-Strike]] — Genre: Tactical Shooter
+- **2000** — [[2000 - Gunman Chronicles|Gunman Chronicles]] — Genre: First-Person Shooter
+- **2001** — [[2001 - Deathmatch Classic|Deathmatch Classic]] — Genre: Multiplayer Shooter
+- **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] — Genre: First-Person Shooter
+- **2004** — [[2004 - Counter-Strike - Condition Zero|Counter-Strike: Condition Zero]] — Genre: Tactical Shooter
 
 ### Other Notable Games (Post-Sierra)
 - Half-Life 2 — 2004 (revolutionary FPS, Source engine debut)

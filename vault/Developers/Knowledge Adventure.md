@@ -62,13 +62,11 @@ The company's technical innovations, particularly in the use of multimedia conte
 
 ## Games
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1983 | [[1982 - Alphabet Blocks\|Beginning Reading]] | Educational |
-| 1998 | [[1998 - Dr. Brain Thinking Games - IQ Adventure\|Dr. Brain Thinking Games: IQ Adventure]] | Educational/Puzzle |
-| 1998 | [[1998 - Dr. Brain Thinking Games - Puzzle Madness\|Dr. Brain Thinking Games: Puzzle Madness]] | Educational/Puzzle |
-| 1999 | [[1999 - Dr. Brain - Action Reaction\|Dr. Brain: Action Reaction]] | Educational/Action |
-| 2011 | [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain\|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] | Educational/Adventure |
+- **1983** — [[1982 - Alphabet Blocks|Beginning Reading]] — Genre: Educational
+- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Genre: Educational/Puzzle
+- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Genre: Educational/Puzzle
+- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Genre: Educational/Action
+- **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced 3rd-5th Grade: Adventures of Dr. Brain]] — Genre: Educational/Adventure
 
 ## References
 

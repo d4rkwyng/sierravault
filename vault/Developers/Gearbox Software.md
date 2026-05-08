@@ -74,12 +74,10 @@ The company's commitment to inclusive character design and progressive themes ha
 
 ### In This Archive (Sierra Era)
 
-| Year | Game | Genre |
-|------|------|-------|
-| 1999 | [[1999 - Half-Life - Opposing Force\|Half-Life: Opposing Force]] | First-Person Shooter |
-| 2001 | [[2001 - Half-Life - Blue Shift\|Half-Life: Blue Shift]] | First-Person Shooter |
-| 2004 | [[2004 - Counter-Strike - Condition Zero\|Counter-Strike: Condition Zero]] | Tactical Shooter |
-| 2015 | [[2015 - Homeworld Remastered Collection\|Homeworld Remastered Collection]] | Real-Time Strategy |
+- **1999** — [[1999 - Half-Life - Opposing Force|Half-Life: Opposing Force]] — Genre: First-Person Shooter
+- **2001** — [[2001 - Half-Life - Blue Shift|Half-Life: Blue Shift]] — Genre: First-Person Shooter
+- **2004** — [[2004 - Counter-Strike - Condition Zero|Counter-Strike: Condition Zero]] — Genre: Tactical Shooter
+- **2015** — [[2015 - Homeworld Remastered Collection|Homeworld Remastered Collection]] — Genre: Real-Time Strategy
 
 ### Other Notable Games (Non-Sierra)
 - Brothers in Arms: Road to Hill 30 — 2005 (Ubisoft, WWII tactical shooter)

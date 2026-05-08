@@ -15,7 +15,7 @@ last_updated: "2026-01-17"
 
 AGD Interactive (originally "Anonymous Game Developers Interactive," formerly "Tierra Entertainment") is a freeware game publisher specializing in VGA remakes of classic Sierra On-Line adventure games. Founded in 2001 by Britney Brimhall and Christopher Warren, the studio self-publishes all of its games as free downloads to honor the original creators and preserve adventure gaming history.
 
-For detailed information about the studio's history, notable games, and key people, see [[Developers/AGD Interactive\|AGD Interactive (Developer)]].
+For detailed information about the studio's history, notable games, and key people, see [[Developers/AGD Interactive|AGD Interactive (Developer)]].
 
 ## Publishing Philosophy
 
@@ -23,17 +23,15 @@ Unlike commercial publishers, AGD Interactive operates as a non-profit organizat
 
 ## Games Published
 
-| Year | Game | Notes |
-|------|------|-------|
-| 2001 | [[2001 - King's Quest I VGA Remake\|King's Quest I VGA Remake]] | First release, self-published freeware |
-| 2002 | [[2002 - King's Quest II+ - Romancing the Stones\|King's Quest II+: Romancing the Stones]] | Expanded remake with new content |
-| 2008 | [[2008 - Quest for Glory II VGA Remake\|Quest for Glory II VGA Remake]] | Seven years in development |
-| 2011 | [[2011 - King's Quest III Redux - To Heir is Human\|King's Quest III Redux: To Heir is Human]] | Most ambitious project with voice acting |
+- **2001** — [[2001 - King's Quest I VGA Remake|King's Quest I VGA Remake]] — Notes: First release, self-published freeware
+- **2002** — [[2002 - King's Quest II+ - Romancing the Stones|King's Quest II+: Romancing the Stones]] — Notes: Expanded remake with new content
+- **2008** — [[2008 - Quest for Glory II VGA Remake|Quest for Glory II VGA Remake]] — Notes: Seven years in development
+- **2011** — [[2011 - King's Quest III Redux - To Heir is Human|King's Quest III Redux: To Heir is Human]] — Notes: Most ambitious project with voice acting
 
 ## Related
 
-- **Developer Page:** [[Developers/AGD Interactive\|AGD Interactive]]
-- **Related Company:** [[Publishers/Himalaya Studios\|Himalaya Studios]] (commercial spinoff by same founders)
+- **Developer Page:** [[Developers/AGD Interactive|AGD Interactive]]
+- **Related Company:** [[Publishers/Himalaya Studios|Himalaya Studios]] (commercial spinoff by same founders)
 
 ## References
 

@@ -43,7 +43,7 @@ Gates also contributed to Police Quest: SWAT in 1995, lending his expertise on t
 
 ### Police Quest: Open Season (1993)
 
-[[1993 - Police Quest - Open Season\|Police Quest: Open Season]] represented Gates' most significant contribution to video game design and remains his most controversial work[^ref-14]. The game was revolutionary in its use of full-motion video technology, featuring live actors and realistic crime scene footage that had never been attempted in adventure gaming at this scale[^ref-12]. As one contemporary review noted: "Before POLICE QUEST: OPEN SEASON came out there were no games like it... This one was a clever, puzzling game that actually used realistic graphics... Actors were hired, then rendered into the game"[^ref-5].
+[[1993 - Police Quest - Open Season|Police Quest: Open Season]] represented Gates' most significant contribution to video game design and remains his most controversial work[^ref-14]. The game was revolutionary in its use of full-motion video technology, featuring live actors and realistic crime scene footage that had never been attempted in adventure gaming at this scale[^ref-12]. As one contemporary review noted: "Before POLICE QUEST: OPEN SEASON came out there were no games like it... This one was a clever, puzzling game that actually used realistic graphics... Actors were hired, then rendered into the game"[^ref-5].
 
 Gates' involvement went beyond mere consultation; he shaped the game's narrative structure around his philosophy of aggressive law enforcement and zero-tolerance policing[^ref-5]. The game's depiction of urban crime, gang violence, and police procedures reflected his decades of experience in Los Angeles, though critics argued it also perpetuated his controversial views on race, crime, and policing methods[^ref-15]. The game's marketing prominently featured Gates' name in the title, making his involvement impossible to ignore and generating significant media attention[^ref-16].
 
@@ -71,11 +71,9 @@ However, Gates' gaming legacy remains inseparable from his reputation as a polar
 
 ### Sierra On-Line (1992–1998)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1993 | [[1993 - Police Quest - Open Season\|Police Quest: Open Season]] | Designer/Consultant |
-| 1995 | [[1995 - Police Quest - SWAT\|Police Quest: SWAT]] | Consultant |
-| 1998 | [[1998 - Police Quest - SWAT 2\|Police Quest: SWAT 2]] | Consultant |
+- **1993** — [[1993 - Police Quest - Open Season|Police Quest: Open Season]] — Role: Designer/Consultant
+- **1995** — [[1995 - Police Quest - SWAT|Police Quest: SWAT]] — Role: Consultant
+- **1998** — [[1998 - Police Quest - SWAT 2|Police Quest: SWAT 2]] — Role: Consultant
 ## References
 
 [^ref-1]: [The Digital Antiquarian](https://www.filfre.net/tag/daryl-gates/) — Career overview and gaming industry transition

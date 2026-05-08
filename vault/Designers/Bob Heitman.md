@@ -31,7 +31,7 @@ In 1985, he took on the significant project of porting Ultima II: The Revenge of
 
 Throughout his tenure at Sierra, Heitman worked on refining and extending the AGI engine while also contributing directly to game development.[^ref-6] Working alongside Jeff Stephenson, Chris Iden, and Sol Ackerman, Heitman contributed to the creation of AGI, the engine that would power Sierra's first generation of point-and-click adventure games and revolutionize the gaming industry.[^ref-7] His programming credits span many of Sierra's most beloved franchises, including King's Quest, Space Quest, Leisure Suit Larry, Police Quest, Manhunter, and Gold Rush!.[^ref-1]
 
-Heitman programmed King's Quest III along with Al Lowe and Robert Kernhagan, then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] This successor to AGI represented a major technological leap, supporting 256-color graphics, improved sound capabilities, and more sophisticated game logic. [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] became the first game to use SCI, demonstrating the engine's capabilities and setting the technical standard for Sierra's golden age of adventure gaming.[^ref-8]
+Heitman programmed King's Quest III along with Al Lowe and Robert Kernhagan, then went on to co-develop the SCI system with Jeff Stephenson.[^ref-3] This successor to AGI represented a major technological leap, supporting 256-color graphics, improved sound capabilities, and more sophisticated game logic. [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] became the first game to use SCI, demonstrating the engine's capabilities and setting the technical standard for Sierra's golden age of adventure gaming.[^ref-8]
 
 As Programming Manager, Heitman oversaw numerous Sierra development teams.[^ref-9] His responsibilities expanded beyond direct programming as the SCI engine matured, with credits for "Development System" appearing on titles like the Hoyle series, Jones in the Fast Lane, Leisure Suit Larry 5, and Mixed-Up Fairy Tales.[^ref-1] He also served as the SCI system developer during production of games like Conquests of the Longbow, where his management of art lists and technical requirements proved essential.[^ref-10]
 
@@ -51,9 +51,9 @@ In 1993, Heitman founded Triton Interactive, his own consulting and programming 
 
 His post-Sierra work included significant projects across multiple genres. For Interplay, he contributed as Additional System Programmer on Star Trek: Judgment Rites.[^ref-13] He programmed Man Enough (1994) and Dinonauts (1995), both games that emerged from the Tsunami/Triton circle.[^ref-1]
 
-Heitman's most acclaimed freelance project was [[1995 - Shannara\|Shannara]] for Legend Entertainment, based on Terry Brooks's fantasy novels. Working with Corey Cole—whom he had supervised at Sierra—Heitman programmed the map and combat systems ("RPG lite") for what became Legend's last and best-selling game.[^ref-9] The Coles hired several ex-Sierra people to work on Shannara, and Heitman's experience with both adventure game engines and RPG mechanics made him ideal for the project.
+Heitman's most acclaimed freelance project was [[1995 - Shannara|Shannara]] for Legend Entertainment, based on Terry Brooks's fantasy novels. Working with Corey Cole—whom he had supervised at Sierra—Heitman programmed the map and combat systems ("RPG lite") for what became Legend's last and best-selling game.[^ref-9] The Coles hired several ex-Sierra people to work on Shannara, and Heitman's experience with both adventure game engines and RPG mechanics made him ideal for the project.
 
-In 1998, Heitman returned to Sierra as a System Software Engineer for [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]], reuniting with the Coles on the final entry in the series he had helped make possible as their original supervisor.[^ref-14]
+In 1998, Heitman returned to Sierra as a System Software Engineer for [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]], reuniting with the Coles on the final entry in the series he had helped make possible as their original supervisor.[^ref-14]
 
 During the late 1990s and early 2000s, Heitman worked on several licensed Game Boy Color titles through contracts with Legacy Software and other publishers. These included Barbie: Fashion Pack Games (2000) as Programmer, *NSYNC: Get to the Show (2001) for System Development, and Dora the Explorer: Lost City Adventure (2002) as Engineer.[^ref-1]
 
@@ -77,7 +77,7 @@ As Game Designer on Ringworld: Revenge of the Patriarch, Heitman applied his Sie
 
 ### King's Quest IV: The Perils of Rosella (1988)
 
-As System Programmer on [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV]], Heitman worked on the first game built on the SCI engine.[^ref-8] The game's improved graphics and sound demonstrated what the new engine could achieve, helping Sierra maintain its position at the forefront of adventure gaming technology and setting the template for all SCI games that followed.
+As System Programmer on [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV]], Heitman worked on the first game built on the SCI engine.[^ref-8] The game's improved graphics and sound demonstrated what the new engine could achieve, helping Sierra maintain its position at the forefront of adventure gaming technology and setting the template for all SCI games that followed.
 
 ## Design Philosophy
 
@@ -99,53 +99,47 @@ Corey Cole, who worked under Heitman at Sierra before hiring him for Shannara, d
 
 ### Sierra On-Line (1982–1991)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1983 | Learning with Leeper (C64) | Programmer |
-| 1984 | [[1984 - King's Quest - Quest for the Crown\|King's Quest: Quest for the Crown]] | Conversion Programmer |
-| 1985 | Story Maker | Programmer |
-| 1985 | Ultima II: The Revenge of the Enchantress (Atari ST) | Conversion Programmer |
-| 1985 | [[1985 - King's Quest II - Romancing the Throne\|King's Quest II: Romancing the Throne]] | Programmer |
-| 1986 | [[1986 - Space Quest - The Sarien Encounter\|Space Quest: The Sarien Encounter]] | Programmer |
-| 1986 | [[1986 - King's Quest III - To Heir Is Human\|King's Quest III: To Heir Is Human]] | Programmer |
-| 1987 | [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards\|Leisure Suit Larry in the Land of the Lounge Lizards]] | Programmer |
-| 1987 | [[1987 - Police Quest - In Pursuit of the Death Angel\|Police Quest: In Pursuit of the Death Angel]] | Programmer |
-| 1987 | [[1987 - Space Quest II - Vohaul's Revenge\|Space Quest II: Vohaul's Revenge]] | Programmer |
-| 1988 | [[1988 - King's Quest IV - The Perils of Rosella\|King's Quest IV: The Perils of Rosella]] | System Programmer |
-| 1988 | [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)\|Leisure Suit Larry 2]] | Programmer |
-| 1988 | [[1988 - Manhunter - New York\|Manhunter: New York]] | Programmer |
-| 1988 | [[1988 - Gold Rush\|Gold Rush!]] | Programmer |
-| 1989 | [[1989 - Space Quest III - The Pirates of Pestulon\|Space Quest III: The Pirates of Pestulon]] | System Programmer |
-| 1989 | [[1989 - Manhunter - San Francisco\|Manhunter 2: San Francisco]] | Programmer |
-| 1989 | [[1989 - Hoyle Official Book of Games - Volume 1\|Hoyle: Official Book of Games Vol. 1]] | Development System |
-| 1990 | [[1990 - Hoyle Official Book of Games - Volume 2\|Hoyle: Official Book of Games Vol. 2]] | Development System |
-| 1990 | [[1991 - Hoyle Official Book of Games - Volume 3\|Hoyle: Official Book of Games Vol. 3]] | Development System |
-| 1990 | [[1990 - Jones in the Fast Lane\|Jones in the Fast Lane]] | Development System |
-| 1991 | [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work\|Leisure Suit Larry 5]] | Development System |
-| 1991 | [[1991 - Mixed-Up Fairy Tales\|Mixed-Up Fairy Tales]] | Development System |
+- 1983 — Learning with Leeper (C64) — Programmer
+- **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Role: Conversion Programmer
+- 1985 — Story Maker — Programmer
+- 1985 — Ultima II: The Revenge of the Enchantress (Atari ST) — Conversion Programmer
+- **1985** — [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] — Role: Programmer
+- **1986** — [[1986 - Space Quest - The Sarien Encounter|Space Quest: The Sarien Encounter]] — Role: Programmer
+- **1986** — [[1986 - King's Quest III - To Heir Is Human|King's Quest III: To Heir Is Human]] — Role: Programmer
+- **1987** — [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards|Leisure Suit Larry in the Land of the Lounge Lizards]] — Role: Programmer
+- **1987** — [[1987 - Police Quest - In Pursuit of the Death Angel|Police Quest: In Pursuit of the Death Angel]] — Role: Programmer
+- **1987** — [[1987 - Space Quest II - Vohaul's Revenge|Space Quest II: Vohaul's Revenge]] — Role: Programmer
+- **1988** — [[1988 - King's Quest IV - The Perils of Rosella|King's Quest IV: The Perils of Rosella]] — Role: System Programmer
+- **1988** — [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)|Leisure Suit Larry 2]] — Role: Programmer
+- **1988** — [[1988 - Manhunter - New York|Manhunter: New York]] — Role: Programmer
+- **1988** — [[1988 - Gold Rush|Gold Rush!]] — Role: Programmer
+- **1989** — [[1989 - Space Quest III - The Pirates of Pestulon|Space Quest III: The Pirates of Pestulon]] — Role: System Programmer
+- **1989** — [[1989 - Manhunter - San Francisco|Manhunter 2: San Francisco]] — Role: Programmer
+- **1989** — [[1989 - Hoyle Official Book of Games - Volume 1|Hoyle: Official Book of Games Vol. 1]] — Role: Development System
+- **1990** — [[1990 - Hoyle Official Book of Games - Volume 2|Hoyle: Official Book of Games Vol. 2]] — Role: Development System
+- **1990** — [[1991 - Hoyle Official Book of Games - Volume 3|Hoyle: Official Book of Games Vol. 3]] — Role: Development System
+- **1990** — [[1990 - Jones in the Fast Lane|Jones in the Fast Lane]] — Role: Development System
+- **1991** — [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work|Leisure Suit Larry 5]] — Role: Development System
+- **1991** — [[1991 - Mixed-Up Fairy Tales|Mixed-Up Fairy Tales]] — Role: Development System
 
 ### Tsunami Media (1991–1993)
 
-| Year | Title | Role |
-|------|-------|------|
-| 1992 | Ringworld: Revenge of the Patriarch | Game Designer, TsAGE Engine |
-| 1992 | Wacky Funsters: The Geekwad's Guide to Gaming | TsAGE Engine |
-| 1993 | [[1993 - Blue Force\|Blue Force]] | TsAGE System Development |
-| 1993 | The Geekwad: Games of the Galaxy | TsAGE Engine |
-| 1993 | Protostar: War on the Frontier | TsAGE Engine |
+- 1992 — Ringworld: Revenge of the Patriarch — Game Designer, TsAGE Engine
+- 1992 — Wacky Funsters: The Geekwad's Guide to Gaming — TsAGE Engine
+- **1993** — [[1993 - Blue Force|Blue Force]] — Role: TsAGE System Development
+- 1993 — The Geekwad: Games of the Galaxy — TsAGE Engine
+- 1993 — Protostar: War on the Frontier — TsAGE Engine
 
 ### Triton Interactive / Freelance (1993–2002)
 
-| Year | Title | Company | Role |
-|------|-------|---------|------|
-| 1993 | Star Trek: Judgment Rites | Interplay | Additional System Programmer |
-| 1994 | Man Enough | Tsunami Media | Programming |
-| 1995 | Dinonauts | Legacy Software | Programming |
-| 1995 | [[1995 - Shannara\|Shannara]] | Legend Entertainment | Programmer (Map/Combat) |
-| 1998 | [[1998 - Quest for Glory V - Dragon Fire\|Quest for Glory V: Dragon Fire]] | Sierra | System Software Engineer |
-| 2000 | Barbie: Fashion Pack Games (GBC) | Mattel Media | Programmer |
-| 2001 | *NSYNC: Get to the Show (GBC) | Infogrames | System Development |
-| 2002 | Dora the Explorer: Lost City Adventure | Infogrames | Engineer |
+- 1993 — Star Trek: Judgment Rites — Interplay — Additional System Programmer
+- 1994 — Man Enough — Tsunami Media — Programming
+- 1995 — Dinonauts — Legacy Software — Programming
+- **1995** — [[1995 - Shannara|Shannara]] — Company: Legend Entertainment, Role: Programmer (Map/Combat)
+- **1998** — [[1998 - Quest for Glory V - Dragon Fire|Quest for Glory V: Dragon Fire]] — Company: Sierra, Role: System Software Engineer
+- 2000 — Barbie: Fashion Pack Games (GBC) — Mattel Media — Programmer
+- 2001 — *NSYNC: Get to the Show (GBC) — Infogrames — System Development
+- 2002 — Dora the Explorer: Lost City Adventure — Infogrames — Engineer
 
 ## References
 

@@ -23,18 +23,16 @@ Broderbund competed with Sierra in the adventure and strategy game markets durin
 
 ## Games Published (Sierra Archive)
 
-| Year | Game | Developer |
-|------|------|-----------|
-| 1987 | [[1987 - The Ancient Art of War at Sea\|The Ancient Art of War at Sea]] | Evryware |
-| 1990 | [[1979 - Galactic Empire\|Galactic Empire]] | Coktel Vision |
+- **1987** — [[1987 - The Ancient Art of War at Sea|The Ancient Art of War at Sea]] — Developer: Evryware
+- **1990** — [[1979 - Galactic Empire|Galactic Empire]] — Developer: Coktel Vision
 
 ## Legacy
 
-The Broderbund brand continued under various owners after the 1998 acquisition. Currently, the Broderbund product line is managed by [[Publishers/Encore Software\|Encore Software]] under a licensing agreement announced in 2008.
+The Broderbund brand continued under various owners after the 1998 acquisition. Currently, the Broderbund product line is managed by [[Publishers/Encore Software|Encore Software]] under a licensing agreement announced in 2008.
 
 ## Related
 
-- **Current Brand Manager:** [[Publishers/Encore Software\|Encore Software]]
+- **Current Brand Manager:** [[Publishers/Encore Software|Encore Software]]
 
 ## References
 
