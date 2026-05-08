@@ -108,6 +108,12 @@ The game was built using Unity Engine version 4.7.1f1 as a 32-bit application[^r
 
 The game suffered from various technical issues that impacted the player experience, including cursor disappearances, sluggish animations, and stuttering during gameplay[^ref-7]. These technical problems contributed to the game's mixed critical reception and highlighted the challenges of developing modern adventure games on limited crowdfunding budgets.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 4.7** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 Despite the mixed critical reception, Moebius: Empire Rising represents an important milestone as Jane Jensen's return to adventure gaming after many years in casual game development[^ref-2]. The game was intended as "the first installment in a planned series"[^ref-16], though subsequent entries have not materialized.

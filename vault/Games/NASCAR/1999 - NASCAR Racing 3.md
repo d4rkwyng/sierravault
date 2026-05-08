@@ -99,6 +99,12 @@ NASCAR Racing 3 utilized an improved graphics and physics engine based on the NA
 
 The physics engine provided realistic car handling with accurate tire modeling, aerodynamic effects, and mechanical damage simulation[^ref-8]. Online multiplayer supported up to 32 players through the World Opponent Network (WON), making it one of the most ambitious multiplayer racing experiences of its era[^ref-23].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.2** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 NASCAR Racing 3's influence on racing simulation gaming has been profound and enduring. The game established many conventions for NASCAR simulations and maintained an active modding community for over two decades[^ref-16]. Its realistic physics model and comprehensive NASCAR authenticity set standards that subsequent NASCAR games have struggled to match[^ref-24].

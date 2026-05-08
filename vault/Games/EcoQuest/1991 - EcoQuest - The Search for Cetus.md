@@ -121,6 +121,12 @@ The game's visual design earned particular praise, with the underwater environme
 
 The original floppy disk version featured a four-digit security code system[^ref-26] that required players to reference the included "Adam's Eco News" guide. This copy protection scheme served dual purposes: preventing piracy while encouraging players to engage with additional educational materials. The CD-ROM version eliminated this requirement, streamlining the gameplay experience.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.1** — see contemporaneous sources cited in this page
+
 ## Trivia
 
 - [[Jane Jensen]], who would later create the [[Gabriel Knight Series|Gabriel Knight series]], served as co-designer on EcoQuest—one of her earliest Sierra projects[^ref-26]

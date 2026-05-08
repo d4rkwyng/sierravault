@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-08T17:55:55",
+  "generated": "2026-05-08T17:57:24",
   "total": 507,
   "pass": 507,
   "review": 0,
   "fail": 0,
-  "avg": 97.56,
+  "avg": 97.62,
   "min_score": 91,
   "max_score": 100,
   "pages_below_95": [
@@ -30,18 +30,8 @@
     },
     {
       "status": "PASS",
-      "page": "2000 - Maximum Pool",
-      "score": 92
-    },
-    {
-      "status": "PASS",
       "page": "2010 - 3-D Ultra MiniGolf Adventures 2",
       "score": 92
-    },
-    {
-      "status": "PASS",
-      "page": "1989 - After Dark",
-      "score": 93
     },
     {
       "status": "PASS",
@@ -355,11 +345,6 @@
     },
     {
       "status": "PASS",
-      "page": "1993 - Fates of Twinion",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1991 - Cohort Fighting for Rome",
       "score": 93
     },
@@ -426,7 +411,7 @@
     {
       "status": "PASS",
       "page": "2014 - Moebius - Empire Rising",
-      "score": 91
+      "score": 94
     },
     {
       "status": "PASS",
@@ -437,11 +422,6 @@
       "status": "PASS",
       "page": "2015 - Order of the Thorne - The King's Challenge",
       "score": 91
-    },
-    {
-      "status": "PASS",
-      "page": "2018 - Bolt Riley - A Reggae Adventure",
-      "score": 92
     },
     {
       "status": "PASS",
@@ -477,11 +457,6 @@
       "status": "PASS",
       "page": "1995 - High Seas Trader",
       "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "1996 - Space Bucks",
-      "score": 93
     },
     {
       "status": "PASS",

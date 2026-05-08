@@ -119,6 +119,15 @@ Data mining has revealed several cut elements from the game[^ref-18]:
 - **Removed easter eggs:** In early versions (pre-2.2), typing "ken" on the Arcada would make Ken Williams walk onto the screen complaining the game was behind schedule; typing "scott" or "scott murphy" displayed a personal message from Scott Murphy asking players to write him at Sierra[^ref-23]
 - **Hidden easter eggs:** Behind Droids-B-Us in Ulence Flats, typing "take leak" rewards 5 buckazoids with a humorous message (not in version 1.0X); traveling to a specific desert location (E,E,N,N,E,E from the escape pod) and waiting causes a meteor to crash directly on Roger[^ref-26]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **v0.10** — see contemporaneous sources cited in this page
+- **version 0.10** — see contemporaneous sources cited in this page
+- **version 1.0** — see contemporaneous sources cited in this page
+- **version 2.2** — see contemporaneous sources cited in this page
+
 ## Trivia
 
 - The planet Kerona was named after the designers' favorite beer at the time—Corona[^ref-23]

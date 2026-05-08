@@ -144,6 +144,12 @@ Multiple versions were released to address technical issues:
 
 The patches were necessary to address stability issues on various hardware configurations, a common challenge for Windows 3.1/95 era games.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **v1.2** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 ### Critical Assessment

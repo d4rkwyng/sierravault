@@ -116,6 +116,12 @@ The game spans two CD-ROMs[^ref-collection], containing the vast amount of pre-r
 
 One user noted the installation challenges: "I had an insane amount of trouble with the Windows install. I found it much easier just to go through DOS"[^ref-collection]. Like many later Sierra DOS SCI games, Lighthouse has known technical issues that persist to this day[^ref-collection].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 2.0** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 Despite being commonly dismissed as a Myst clone, Lighthouse has maintained a dedicated following among adventure game enthusiasts[^ref-25]. The game's challenging puzzle design and atmospheric presentation have been both praised and criticized, with some noting that it "manages the awkward feat of carrying Sierra's frustrating, player-hostile house style over to this new style of adventure game"[^ref-4].

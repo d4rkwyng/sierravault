@@ -183,6 +183,12 @@ The game shipped on CD-ROM with approximately 50MB minimum installation requirem
 
 **ESRB Rating**: E for Everyone[^ref-27]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **v1.0** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 ### Series Continuation

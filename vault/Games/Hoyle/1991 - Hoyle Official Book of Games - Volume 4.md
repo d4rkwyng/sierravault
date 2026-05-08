@@ -117,6 +117,12 @@ The DOS version supported both VGA and EGA graphics modes, with VGA being the re
 - RAM: 16 MB
 - Operating System: Windows 95/98
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 0.58** — see contemporaneous sources cited in this page
+
 ## Reception
 
 ### Contemporary Reviews

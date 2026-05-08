@@ -147,6 +147,12 @@ PCGamingWiki notes that the Windows 3.x version might be playable on 64-bit oper
 - Bridge was described in marketing materials as "the chess of card games," emphasizing its strategic depth[^ref-2]
 - The earlier Hoyle compilations featured 18 computer opponents modeled on Sierra game characters, including famous figures like Roger Wilco from Space Quest and King Graham from King's Quest, who could discuss events from their respective game series during idle time[^ref-14]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 2.1** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 ### Sales and Commercial Impact

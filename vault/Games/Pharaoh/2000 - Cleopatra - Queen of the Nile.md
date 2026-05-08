@@ -216,6 +216,12 @@ The game was built using a custom engine[^ref-7] based on the Caesar III framewo
 
 A widescreen patch was later made available by the community[^ref-23], allowing modern players to enjoy the game at contemporary resolutions.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **Version 2.1** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 ### Awards and Recognition

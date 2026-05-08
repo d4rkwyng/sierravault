@@ -163,6 +163,12 @@ Development involved approximately 3,500 hours, with 146,500 lines of codebase a
 
 The online version had strict anti-cheat policies with automatic week-long suspensions for violations.[^ref-16] This was one of the earliest implementations of online game moderation.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **V1.0** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 ### Historical Significance

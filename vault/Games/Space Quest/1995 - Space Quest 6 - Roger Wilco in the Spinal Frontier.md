@@ -165,6 +165,12 @@ Leslie Balfour wrote the Popular Janitronics magazine included with the game[^re
 - **SCS Eureka credit:** Admiral Toolman credits Roger for the "successful return of the SCS Eureka," but Roger actually blew up the Eureka and returned with the SCS Goliath[^ref-30]
 - **Autobucks card contradiction:** Roger offers "a free plunge job, day or night" to Jebba the Hop, but later the game says he has "no need for money aboard the DeepShip"[^ref-30]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 2.0** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-23]. Space Quest 6 was the last officially released game in the Space Quest series[^ref-3][^ref-15].

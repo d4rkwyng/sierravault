@@ -169,6 +169,12 @@ The game features two distinct victory conditions, each representing a different
 
 Failure to achieve either victory by the player character's 30th birthday results in a loss[^ref-2].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 0.65** — see contemporaneous sources cited in this page
+
 ## Voice Cast
 
 | Character | Voice Actor |

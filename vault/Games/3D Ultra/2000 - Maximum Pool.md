@@ -136,6 +136,12 @@ The Macintosh version was originally developed for Mac OS 9, with later compatib
 
 The installation package was approximately 70 MB and could optionally be played directly from the CD without full installation[^ref-21].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 10.5** — see contemporaneous sources cited in this page
+
 ## Reception
 
 ### Contemporary Reviews

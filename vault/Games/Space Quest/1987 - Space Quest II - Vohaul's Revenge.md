@@ -121,6 +121,13 @@ The original game came with: a box, two 3.5" game disks or three 5.25" disks (ve
 - **Printing error:** The game's original packaging advertised a "FREE Mating Whistle" mail-in offer, but Sierra never actually created the whistles—Mark Crowe took the blame for this oversight[^ref-16]
 - **Pop culture note:** Sludge Vohaul provides the page image for TVTropes' "Dark Lord on Life Support" entry[^ref-20]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **Version 2.0** — see contemporaneous sources cited in this page
+- **v2.14** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 According to Sierra On-Line, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-32]. Space Quest II established Sludge Vohaul as the series' recurring arch-nemesis, a role he would continue to play throughout the franchise[^ref-3].

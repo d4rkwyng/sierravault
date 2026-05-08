@@ -127,6 +127,12 @@ The game included "a mission editor for creating custom scenarios"[^ref-7] and s
 
 CyberStorm featured advanced graphics for its time, utilizing "Super VGA 640x480" resolution with "256 colors"[^ref-7]. The game supported various multiplayer modes including "LAN, Modem, 2-8 players"[^ref-7] and was "possible to play online via Sierra's WON.NET"[^ref-8]. Audio was compressed using "IMA ADPCM audio compression with reversed nibbles from standard IMA format"[^ref-23].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **v1.1** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 MissionForce: CyberStorm received significant recognition, earning placement as the "PC Gamer UK 53rd Best Computer Game" in 1997[^ref-24] and winning "Computer Gaming World #12 Best Way To Die In Computer Gaming" in 1996[^ref-24]. The game's influence on turn-based strategy gaming was substantial, with Andy Butcher of Arcane Magazine noting that "CyberStorm is excellent, and will be a tough act to follow for any other strategy-based 'big robot' game"[^ref-1].

@@ -143,6 +143,12 @@ The game was released in both VGA and a rare EGA version based on the VGA versio
 - **Dev trivia:** Kerona was named after Corona beer, the developers' preferred drink in 1986; manual credits Scott Murphy as director despite him not working on the VGA remake[^ref-22][^ref-23]
 - **Feelies:** The original AGI game included physical coupons for the Rocket Bar and Droids-B-Us; in the VGA remake, these are reworked as an extra reward alongside the jetpack offer[^ref-27]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.2** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 Although the remake received positive reviews, it was a commercial disappointment like the other Sierra VGA remakes of the era[^ref-3]. According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-34].

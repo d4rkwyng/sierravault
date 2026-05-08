@@ -111,6 +111,13 @@ Modern compatibility remains challenging, with After Dark 4.0 and "After Dark 10
 
 The screensaver files themselves use a clever technical approach where ".scr files are actually .exe files"[^ref-57], allowing execution while maintaining the screensaver file extension convention.
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.0** — see contemporaneous sources cited in this page
+- **version 2.0** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 After Dark's cultural impact extended far beyond its original screensaver functionality, establishing Berkeley Systems as a significant force in desktop computing culture. The Flying Toasters became so iconic that they inspired legal battles, including lawsuits "against Delrina Corporation in 1993" and "by Jefferson Airplane in 1994"[^ref-9] over design similarities and alleged inspiration from the band's album artwork. The franchise spawned a television series, with the "Bad Dog screensaver" inspiring "a TV series that aired on Teletoon in 1999"[^ref-9], demonstrating the characters' broad entertainment appeal beyond computing.

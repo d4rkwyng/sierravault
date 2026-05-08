@@ -114,6 +114,12 @@ The game featured impressive technical specifications for its time, supporting r
 
 Cataclysm required a Pentium II 266 MHz processor minimum, with 32 MB RAM and 300 MB of storage space[^ref-6]. The game supported up to 8 players in multiplayer mode via the now-defunct WON.net network, which shut down on November 1, 2008[^ref-4]. A patch (version 1.01) was released on December 21, 2000 to resolve balance issues and various bugs, though it rendered previous save files incompatible[^ref-52].
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.01** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 Homeworld: Cataclysm was nominated for several industry awards, including Strategy Game of the Year by Computer Gaming World and GameSpot, as well as graphics and strategy game awards from The Electric Playground[^ref-1]. Brian Rubin of Space Game Junkie noted "I've been told many a time it's the best in the series"[^ref-48]. Many fans and critics consider it the better sequel compared to Homeworld 2[^ref-45]. Despite critical acclaim, the game's legacy was complicated by the loss of its source code, preventing it from being included in later Homeworld remasters[^ref-28].

@@ -144,6 +144,12 @@ The original game came with: a box, three 3.5" game disks (four for Amiga) or si
 - **Continuity error:** Arnoid chases Roger for an unpaid whistle that was clearly stated to be free in SQ2—the 400,000 buckazoid debt is explained as accumulated interest[^ref-26]
 - **Lighter tone:** Unlike other entries, ScumSoft's evil plan is simply releasing crummy video games rather than galaxy-scale destruction[^ref-26]
 
+### Version History
+
+Documented versions referenced in source material:
+
+- **version 1.2** — see contemporaneous sources cited in this page
+
 ## Legacy
 
 According to Sierra On-Line's SEC filing, combined sales of the Space Quest series surpassed 1.2 million units by the end of March 1996[^ref-35]. The self-referential humor of Space Quest III—featuring the series' own creators as characters who need rescuing—became emblematic of the series' unique comedic style and would be further developed in Space Quest IV[^ref-2].
