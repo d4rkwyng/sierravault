@@ -1,10 +1,10 @@
 {
-  "generated": "2026-05-08T17:54:10",
+  "generated": "2026-05-08T17:55:55",
   "total": 507,
   "pass": 507,
   "review": 0,
   "fail": 0,
-  "avg": 97.28,
+  "avg": 97.56,
   "min_score": 91,
   "max_score": 100,
   "pages_below_95": [
@@ -55,13 +55,8 @@
     },
     {
       "status": "PASS",
-      "page": "1982 - Laf Pak",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1982 - Lunar Leeper",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -75,22 +70,7 @@
     },
     {
       "status": "PASS",
-      "page": "CXL - King's Quest IX",
-      "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "CXL - Leisure Suit Larry 8",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1988 - African Raiders-01",
-      "score": 92
-    },
-    {
-      "status": "PASS",
-      "page": "1989 - Asterix - Operation Getafix",
       "score": 94
     },
     {
@@ -106,17 +86,12 @@
     {
       "status": "PASS",
       "page": "1991 - A.G.E.",
-      "score": 91
+      "score": 93
     },
     {
       "status": "PASS",
       "page": "1991 - E.S.S. Mega",
       "score": 91
-    },
-    {
-      "status": "PASS",
-      "page": "1995 - The Last Dynasty",
-      "score": 94
     },
     {
       "status": "PASS",
@@ -151,7 +126,7 @@
     {
       "status": "PASS",
       "page": "1983 - Learning with Leeper",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -180,33 +155,23 @@
     },
     {
       "status": "PASS",
-      "page": "2001 - King's Quest I VGA Remake",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "2002 - King's Quest II+ - Romancing the Stones",
       "score": 93
     },
     {
       "status": "PASS",
       "page": "2006 - King's Quest III Remake (Infamous Adventures)",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "2008 - Quest for Glory II VGA Remake",
-      "score": 92
-    },
-    {
-      "status": "PASS",
-      "page": "2011 - Space Quest - Vohaul Strikes Back",
       "score": 94
     },
     {
       "status": "PASS",
       "page": "2021 - King's Quest IV Retold",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -241,7 +206,7 @@
     {
       "status": "PASS",
       "page": "1981 - Hi-Res Adventure 3 - Cranston Manor",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -260,13 +225,8 @@
     },
     {
       "status": "PASS",
-      "page": "1989 - Hoyle Official Book of Games - Volume 1",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1990 - Hoyle Official Book of Games - Volume 2",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -335,18 +295,8 @@
     },
     {
       "status": "PASS",
-      "page": "2000 - Hoyle Slots and Video Poker",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "2001 - Hoyle Board Games",
       "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "2001 - Hoyle Word Games",
-      "score": 93
     },
     {
       "status": "PASS",
@@ -370,13 +320,8 @@
     },
     {
       "status": "PASS",
-      "page": "2004 - Hoyle Casino",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "2004 - Hoyle Puzzle Games",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -391,7 +336,7 @@
     {
       "status": "PASS",
       "page": "2006 - Hoyle Miami Solitaire",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -415,33 +360,23 @@
     },
     {
       "status": "PASS",
-      "page": "1996 - The Realm Online",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1991 - Cohort Fighting for Rome",
       "score": 93
     },
     {
       "status": "PASS",
-      "page": "1992 - Air Force Commander",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "1992 - Conquest of Japan",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "1992 - Discovery - In the Steps of Columbus",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
       "page": "1993 - WW2 Air Force Commander",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -456,7 +391,7 @@
     {
       "status": "PASS",
       "page": "1997 - Driver's Education '98",
-      "score": 92
+      "score": 94
     },
     {
       "status": "PASS",
@@ -466,7 +401,7 @@
     {
       "status": "PASS",
       "page": "1999 - Professional Bull Rider",
-      "score": 91
+      "score": 93
     },
     {
       "status": "PASS",
@@ -515,28 +450,13 @@
     },
     {
       "status": "PASS",
-      "page": "1985 - Sierra Championship Boxing",
-      "score": 94
-    },
-    {
-      "status": "PASS",
       "page": "1985 - Stunt Flyer",
-      "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "1986 - Wrath of Denethenor",
       "score": 93
     },
     {
       "status": "PASS",
       "page": "1993 - Pepper's Adventures in Time",
       "score": 91
-    },
-    {
-      "status": "PASS",
-      "page": "1995 - Fast Attack - High Tech Submarine Warfare",
-      "score": 93
     },
     {
       "status": "PASS",
@@ -565,11 +485,6 @@
     },
     {
       "status": "PASS",
-      "page": "1996 - The Rise & Rule of Ancient Empires",
-      "score": 93
-    },
-    {
-      "status": "PASS",
       "page": "2000 - Ricochet",
       "score": 92
     },
@@ -577,16 +492,6 @@
       "status": "PASS",
       "page": "2001 - Deathmatch Classic",
       "score": 94
-    },
-    {
-      "status": "PASS",
-      "page": "2006 - Gin Rummy",
-      "score": 93
-    },
-    {
-      "status": "PASS",
-      "page": "2008 - Lost Cities",
-      "score": 93
     }
   ]
 }

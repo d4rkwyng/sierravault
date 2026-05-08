@@ -130,6 +130,7 @@ Despite its innovations and critical acclaim, PGA Championship Golf 2000 is not 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 PGA Championship Golf 2000 is not currently available on modern digital storefronts.
 
 **Download / Preservation**

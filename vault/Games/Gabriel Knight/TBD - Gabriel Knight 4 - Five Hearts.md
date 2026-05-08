@@ -185,6 +185,7 @@ Grace Nakimura's character, described by USgamer as "one of the best, most reali
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available (unreleased project)[^ref-4]
 - IP Rights held by Microsoft/Activision[^ref-1]
 

@@ -187,6 +187,7 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available on modern digital platforms[^ref-13][^ref-14]
 - Original physical copies extremely rare in collector markets
 

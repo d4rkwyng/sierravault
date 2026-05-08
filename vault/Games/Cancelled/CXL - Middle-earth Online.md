@@ -172,6 +172,7 @@ Gaming historians continue to wonder what might have been had Sierra's vision co
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 Middle Earth Online was never released and is not available for purchase.
 
 **Successor Game:**

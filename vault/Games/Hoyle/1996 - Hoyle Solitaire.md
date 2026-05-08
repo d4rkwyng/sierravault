@@ -248,6 +248,7 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 ## Purchase
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – Modern Encore release[^ref-13]
 
 ## Downloads

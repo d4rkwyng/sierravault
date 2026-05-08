@@ -218,6 +218,7 @@ For casino simulation enthusiasts, Hoyle Casino 3D remains a historical curiosit
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable on major digital storefronts
 
 **Preservation**

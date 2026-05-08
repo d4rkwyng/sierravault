@@ -157,10 +157,6 @@ The game nonetheless served its core purpose well as a gambling simulator, allow
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

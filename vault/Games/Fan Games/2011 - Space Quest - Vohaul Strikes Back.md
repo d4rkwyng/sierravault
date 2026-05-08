@@ -264,6 +264,7 @@ The project also showcased the maturation of the Adventure Game Studio community
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [Adventure Game Studio](https://www.adventuregamestudio.co.uk/play/game/1509/) – Free download
 
 **Download / Preservation**

@@ -189,6 +189,7 @@ Urban Justice's legacy is primarily as a cautionary tale of ambitious game devel
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available (cancelled)
 
 **Download / Preservation**

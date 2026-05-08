@@ -226,6 +226,7 @@ Modern retrospective analysis tends to view Volume 1 more favorably than its con
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - No official digital release currently available; physical copies available through secondary markets[^ref-9]
 
 **Download / Preservation**

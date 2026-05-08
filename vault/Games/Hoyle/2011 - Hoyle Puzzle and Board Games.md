@@ -165,6 +165,7 @@ The technical issues plaguing the release—from 64-bit compatibility problems t
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - No longer available through official retail channels[^ref-4]
 
 **Download / Preservation**

@@ -200,6 +200,7 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently not available on major digital distribution platforms
 
 **Download / Preservation**

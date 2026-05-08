@@ -150,6 +150,7 @@ The game's approach of combining traditional solitaire gameplay with a specific 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable through major digital storefronts
 
 **Product Information**

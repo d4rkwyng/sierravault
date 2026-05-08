@@ -117,6 +117,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [Nintendo eShop (Switch)](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/)
 
 **Download / Preservation**

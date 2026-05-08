@@ -165,10 +165,6 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

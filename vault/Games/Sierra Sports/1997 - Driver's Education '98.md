@@ -261,13 +261,6 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 ## Purchase
 
-**Digital Stores**
-- Not currently available for purchase on modern platforms
-- Game is preserved as abandonware
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 - [Steam](https://store.steampowered.com/search/?term=Driver%27s+Education+%2798) – Available for purchase

@@ -197,6 +197,7 @@ The performance issues that plagued the game highlighted the challenges develope
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available on major digital storefronts[^ref-19]
 - Physical copies occasionally available through used game retailers[^ref-10]
 

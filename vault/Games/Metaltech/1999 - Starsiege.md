@@ -239,6 +239,7 @@ The game's legacy is complicated by its commercial failure, which contributed to
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable on major digital storefronts
 
 **Download / Preservation**

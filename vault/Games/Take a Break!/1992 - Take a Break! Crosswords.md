@@ -171,6 +171,7 @@ The game's design philosophy—creating bite-sized entertainment experiences for
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available on major digital storefronts[^ref-13][^ref-14][^ref-15]
 
 **Download / Preservation**

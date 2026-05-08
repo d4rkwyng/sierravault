@@ -209,6 +209,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Free download (fan remake)[^ref-14][^ref-15]
 
 **Download / Preservation**

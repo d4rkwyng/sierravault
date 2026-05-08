@@ -169,6 +169,7 @@ The game stands as part of a broader movement of Sierra-inspired spiritual succe
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [itch.io](https://infamousquests.itch.io/qfi-rtr) - $7.99 USD, early access via Patreon[^ref-6]
 
 **Related Games**

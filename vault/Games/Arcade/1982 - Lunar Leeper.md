@@ -211,6 +211,7 @@ However, the Leeper character's transition to educational gaming through *Learni
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available for purchase; original 1982 release is abandonware[^ref-20]
 
 **Download / Preservation**

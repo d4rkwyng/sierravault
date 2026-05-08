@@ -175,6 +175,7 @@ The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [itch.io](https://infamousquests.itch.io/ootf-fortress-of-fire) - Free listing (In Development)[^ref-3]
 
 **Related Games**

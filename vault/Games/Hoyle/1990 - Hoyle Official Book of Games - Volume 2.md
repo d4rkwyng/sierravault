@@ -201,6 +201,7 @@ The game's comprehensive collection of 28 solitaire variants provided substantia
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - No official digital release currently available; physical copies available through secondary markets
 
 **Download / Preservation**

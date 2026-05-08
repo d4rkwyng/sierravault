@@ -171,6 +171,7 @@ The project's legacy extends beyond The Silver Lining itself, as Phoenix Online 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Free fan game – never sold commercially[^ref-10]
 - [Phoenix Online Studios Archive – TSL Trilogy](https://www.postudios.com/archivedTSL/trilogy/) – Official download archive[^ref-2]
 

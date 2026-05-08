@@ -166,6 +166,7 @@ The remake's success lies not merely in its technical achievements but in its ph
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available commercially (freeware release)
 
 **Download / Preservation**

@@ -204,6 +204,7 @@ Ultimately, Gobliiins 4 succeeded in proving that interest in the franchise pers
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable on major digital platforms[^ref-22]
 - Retail copies occasionally available through secondary markets
 

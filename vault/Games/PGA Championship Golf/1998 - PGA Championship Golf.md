@@ -241,10 +241,6 @@ While the graphics have not aged gracefully—contemporary reviewers already not
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

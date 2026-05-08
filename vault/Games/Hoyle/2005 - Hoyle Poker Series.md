@@ -192,6 +192,7 @@ The broader Hoyle series legacy, however, remains significant in gaming history.
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable on digital storefronts
 
 **Download / Preservation**

@@ -122,6 +122,7 @@ The game maintained appropriate difficulty for family audiences while challengin
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently available as freeware through various preservation sites
 
 **Download / Preservation**

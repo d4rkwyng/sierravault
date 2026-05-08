@@ -210,6 +210,7 @@ The game's legacy is largely one of missed potential. Critics consistently ackno
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - PlayStation Store (PSP/Vita compatible) - availability varies by region
 
 **Download / Preservation**

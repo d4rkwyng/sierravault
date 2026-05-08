@@ -220,6 +220,7 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available digitally; original Tigervision cartridges sell for $55-400 on collector's market[^ref-9]
 
 **Download / Preservation**

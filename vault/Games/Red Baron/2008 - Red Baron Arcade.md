@@ -190,10 +190,6 @@ For gaming historians, Red Baron Arcade serves as a reminder that brand recognit
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

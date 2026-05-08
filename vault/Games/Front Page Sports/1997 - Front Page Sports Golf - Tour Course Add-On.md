@@ -214,6 +214,7 @@ For 1997, the combination of innovative controls, online multiplayer through SIG
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available on digital storefronts; physical copies occasionally found through collector resources[^ref-3]
 
 **Download / Preservation**

@@ -209,6 +209,7 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available for purchase; 1995 release is abandonware[^ref-4]
 
 **Download / Preservation**

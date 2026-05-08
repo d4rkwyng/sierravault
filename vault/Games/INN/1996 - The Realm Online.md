@@ -224,10 +224,6 @@ The game also represents an important cautionary tale about the challenges of de
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist/game/the-realm-online)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist/game/the-realm-online) – Available for purchase
 

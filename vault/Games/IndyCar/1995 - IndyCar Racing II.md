@@ -139,6 +139,7 @@ The technology and design philosophy behind IndyCar Racing II would later influe
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently not available on modern digital platforms
 
 **Download / Preservation**

@@ -249,10 +249,6 @@ From a design perspective, "In comparison to its forerunner Grog's Revenge disti
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

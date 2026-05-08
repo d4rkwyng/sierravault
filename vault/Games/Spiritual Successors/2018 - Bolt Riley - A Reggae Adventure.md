@@ -146,14 +146,6 @@ The Adventure Mob/Corbomite Games team demonstrated technical ambition with thei
 
 As a modern release, Bolt Riley: A Reggae Adventure is available through digital storefronts rather than traditional downloads.
 
-## Purchase
-
-Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
-
-- [Steam](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — includes game and optional soundtrack DLC[^ref-1]
-- [itch.io](https://soundguy.itch.io/boltriley) — includes Steam key with purchase[^ref-23]
-- [Humble Bundle](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free option[^ref-24]
-
 ## See Also
 
 - [[2018 - Hero-U - Rogue to Redemption]] — The Coles' own crowdfunded project developed concurrently

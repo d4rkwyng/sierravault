@@ -176,6 +176,7 @@ The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available (game was never released)
 
 **Preservation Resources**

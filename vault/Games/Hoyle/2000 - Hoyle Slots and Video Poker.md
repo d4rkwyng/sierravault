@@ -204,6 +204,7 @@ The Hoyle brand's transition from Sierra to Encore reflected broader industry co
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - No known digital distribution currently available
 
 **Download / Preservation**

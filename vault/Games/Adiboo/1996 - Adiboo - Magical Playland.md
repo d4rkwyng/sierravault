@@ -215,6 +215,7 @@ The game occupies an interesting position within Sierra's broader catalog as a C
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available for purchase; 1996 release is abandonware[^ref-5]
 
 **Download / Preservation**

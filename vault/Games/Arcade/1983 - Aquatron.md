@@ -200,10 +200,6 @@ Modern retro gaming enthusiasts have given Aquatron warmer reception than its co
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

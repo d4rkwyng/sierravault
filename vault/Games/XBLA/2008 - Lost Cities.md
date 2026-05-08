@@ -120,6 +120,7 @@ Reiner Knizia's Lost Cities has seen multiple digital adaptations across platfor
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 
 | Store | Link | Notes |
 |-------|------|-------|

@@ -118,6 +118,7 @@ Like many XBLA titles from this era, Gin Rummy may no longer be available for pu
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 
 | Store | Link | Notes |
 |-------|------|-------|

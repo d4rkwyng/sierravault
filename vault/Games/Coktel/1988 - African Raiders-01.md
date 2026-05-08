@@ -183,10 +183,6 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

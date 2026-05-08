@@ -206,6 +206,7 @@ The Police Quest legacy would continue to influence gaming, however. The concept
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available – project cancelled before release
 - No retail or digital distribution ever occurred
 

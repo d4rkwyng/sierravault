@@ -227,6 +227,7 @@ Incinerations demonstrated that fan developers could produce work rivaling comme
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Free fan game – No purchase required
 
 **Download / Preservation**

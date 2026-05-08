@@ -229,6 +229,7 @@ The game's acquisition by Sierra On-Line shortly after release placed it within 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Not available for purchase; 1995 release is abandonware[^ref-11]
 
 **Download / Preservation**

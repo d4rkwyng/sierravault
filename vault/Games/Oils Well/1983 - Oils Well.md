@@ -210,10 +210,6 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 
 ## Purchase
 
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Purchase
-
 **Purchase / Digital Stores**
 - [GOG](https://www.gog.com/dreamlist) – Available for purchase
 

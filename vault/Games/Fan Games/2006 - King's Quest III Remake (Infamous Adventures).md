@@ -170,6 +170,7 @@ The existence of multiple fan remakes of this particular title (Infamous Adventu
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Free download from Infamous Adventures[^ref-11]
 
 **Download / Preservation**

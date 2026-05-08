@@ -244,6 +244,7 @@ The game's influence extended beyond its immediate commercial success. The tilte
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - [Nintendo eShop](https://www.nintendo.com/us/store/products/eggconsole-silpheed-pc-8801mkiisr-switch/) - EGGCONSOLE version for Nintendo Switch
 
 **Download / Preservation**

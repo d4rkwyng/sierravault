@@ -205,6 +205,7 @@ While not a groundbreaking title, Hoyle Puzzle Games 2004 served its intended pu
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Currently unavailable on major digital platforms
 
 **Download / Preservation**

@@ -182,6 +182,7 @@ The game's adaptation of PC-style competitive multiplayer for console audiences 
 ## Downloads
 
 **Purchase / Digital Stores**
+- Not currently available on GOG or Steam
 - Released as freeware by Hi-Rez Studios in October 2015[^ref-1][^ref-4]
 - Available for free download from multiple sources
 
