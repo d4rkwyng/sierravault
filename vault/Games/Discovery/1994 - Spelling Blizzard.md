@@ -209,8 +209,8 @@ The Spelling Jungle series ultimately consisted of only two games, with no furth
 [^ref-2]: [MobyGames – Spelling Blizzard](https://www.mobygames.com/game/97671/spelling-blizzard/) – credits, gameplay description, voice cast, technical specs
 [^ref-3]: [Alchetron – Spelling Jungle](https://alchetron.com/Spelling-Jungle) – version history, trivia, level count, acquisition details
 [^ref-4]: [Internet Archive – Spelling Blizzard (1996)](https://archive.org/details/spelling-blizzard-1996-sierra-mac-pc) – platform releases, file size, PDF manual
-[^ref-5]: [Sierra Chest – Spelling Blizzard General](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=general) – story description, target age, gameplay objectives
-[^ref-5]: [Sierra Chest – Spelling Blizzard Walkthrough](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=walkthrough) – narrative details, gameplay context
+[^ref-30]: [Sierra Chest – Spelling Blizzard General](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=general) – story description, target age, gameplay objectives
+[^ref-29]: [Sierra Chest – Spelling Blizzard Walkthrough](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=walkthrough) – narrative details, gameplay context
 [^ref-5]: [Sierra Chest – Spelling Blizzard Demos](https://sierrachest.com/index.php?a=games&id=563&title=spelling-blizzard&fld=demos) – Talking Tutor series, demo collection
 [^ref-8]: [GameFAQs – Spelling Blizzard FAQ](https://gamefaqs.gamespot.com/pc/928889-spelling-blizzard/faqs/43897) – alternate names, technical requirements, version history
 [^ref-9]: [TV Tropes – Bright Star Technology Inc](https://tvtropes.org/pmwiki/pmwiki.php/Creator/BrightStarTechnologyInc) – alternate title "Advanced Spelling"

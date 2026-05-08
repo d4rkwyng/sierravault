@@ -151,7 +151,7 @@ The game's influence on the action genre is evident in how it "paved the way for
 [^ref-17]: [GameFAQs FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – - Level skipping and ending description
 [^ref-18]: [Amiga Magazine Reviews](http://amr.abime.net/review_17838) – - Génération 4 review score
 [^ref-19]: [Amiga Magazine Reviews](https://amr.abime.net/review_22769) – - The Games Machine review
-[^ref-20]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – - Dragon magazine review
+[^ref-38]: [Wikipedia](https://en.wikipedia.org/wiki/Thexder) – - Dragon magazine review
 [^ref-21]: [MobyGames](https://www.mobygames.com/game/2857/thexder/) – - Aggregate review scores
 [^ref-22]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder&gid=1702) – - Modern rating
 [^ref-23]: [GameFAQs Review](https://gamefaqs.gamespot.com/nes/578267-thexder/reviews/150441) – - Critical user review

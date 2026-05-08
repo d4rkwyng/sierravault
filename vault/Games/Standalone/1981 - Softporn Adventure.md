@@ -263,7 +263,7 @@ As Al Lowe observed when approached to remake it: "that game is so out of date i
 [^ref-11]: [Data Driven Gamer – Softporn Adventure](https://datadrivengamer.blogspot.com/2019/11/game-109-softporn-adventure.html) – game manual premise, dystopian setting
 [^ref-12]: [IGN – Talking Leisure Suit Larry with Al Lowe](https://www.ign.com/articles/2014/12/26/talking-leisure-suit-larry-with-al-lowe) – "leisure suit" quote origin, remake context
 [^ref-13]: [Hardcore Gaming 101 – Softporn Adventure](http://www.hardcoregaming101.net/softporn-adventure-las-vegas/) – game objective, starting location
-[^ref-14]: [Abandonware DOS – Softporn Adventure Manual](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt&st=manual&sg=Softporn%2BAdventure&idg=1123) – game manual quotes, objective description
+[^ref-45]: [Abandonware DOS – Softporn Adventure Manual](https://www.abandonwaredos.com/docawd.php?sf=softporn_manual.txt&st=manual&sg=Softporn%2BAdventure&idg=1123) – game manual quotes, objective description
 [^ref-19]: [Gamer Walkthroughs – Softporn Adventure](https://gamerwalkthroughs.com/softporn-adventure/) – three locations, Leisure Suit Larry connection
 [^ref-16]: [PC Gamer – Saturday Crapshoot: Softporn Adventure](https://www.pcgamer.com/saturday-crapshoot-softporn-adventure/) – modern critical assessment, game text quotes
 [^ref-17]: [Game Solutions – Softporn Adventure Walkthrough](https://gamesolutions.efzeven.nl/softporn-adventure-walkthrough-chuck-benton1981/) – comparison to Leisure Suit Larry, player comments

@@ -272,7 +272,7 @@ The Mission Builder expansion demonstrated forward-thinking design philosophy, r
 [^ref-6]: [Wikipedia – Red Baron (1990 video game)](https://en.wikipedia.org/wiki/Red_Baron_(1990_video_game)) – release dates, awards, platforms, historical coverage
 [^ref-7]: [Wikipedia – Red Baron: Mission Builder](https://en.wikipedia.org/wiki/Red_Baron%3A_Mission_Builder) – sales data, Damon Slye quote, Warren Spector quote
 [^ref-8]: [SEC.gov – Sierra On-Line Form 10-K (1996)](https://www.sec.gov/Archives/edgar/data/724991/0000891020-96-000721.txt) – series sales data, flight simulation series details
-[^ref-9]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information
+[^ref-22]: [Sierra Chest – Red Baron: Mission Builder](https://sierrachest.com/index.php?a=games&id=382&title=red-baron-mission-builder&fld=general) – engine, release date, series information
 [^ref-10]: [MobyGames – Red Baron with Mission Builder](https://www.mobygames.com/game/18467/red-baron-with-mission-builder/) – 1997 release, installation notes, package contents
 [^ref-12]: [Steam – Red Baron Pack](https://store.steampowered.com/app/263940/Red_Baron_Pack/) – gameplay features, aircraft count
 [^ref-13]: [GOG.com – Red Baron Pack](https://www.gog.com/en/game/red_baron_pack) – user reviews, technical specs, gameplay description

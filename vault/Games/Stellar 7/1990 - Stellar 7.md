@@ -285,7 +285,7 @@ Mark Ramshaw's 1991 review perhaps best captured the game's enduring appeal desp
 [^ref-8]: [MobyGames – Stellar 7 (1983)](https://www.mobygames.com/game/39286/stellar-7/) – publishers, sales data, Zzap review, Penguin humor
 [^ref-9]: [C64-Wiki – Stellar 7](https://www.c64-wiki.com/wiki/Stellar_7) – 3Space engine, development time, ratings
 [^ref-10]: [Lemon Amiga – Game Documentation](https://www.lemonamiga.com/games/docs.php?id=1552) – year 3000 setting, power modules, Raven specifications
-[^ref-11]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description
+[^ref-32]: [Sierra Chest – Stellar 7 Walkthrough](https://sierrachest.com/index.php?a=games&id=372&title=stellar-7&fld=walkthrough) – plot summary, Gir Draxon description
 [^ref-12]: [eBay – Stellar 7](https://www.ebay.com/p/1800452947) – gameplay loop description, UPC
 [^ref-13]: [Lemon64 – Stellar 7](https://www.lemon64.com/game/stellar-7) – C64 reviews, control scheme, user quotes
 [^ref-14]: [Dynamix Fandom – Stellar 7: Draxon's Revenge](https://dynamix.fandom.com/wiki/Stellar_7:_Draxon's_Revenge) – 3DO reviews, voice cast, EGM/Entertainment Weekly quotes

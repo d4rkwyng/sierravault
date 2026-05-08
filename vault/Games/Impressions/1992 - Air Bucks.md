@@ -279,7 +279,7 @@ Nevertheless, Air Bucks demonstrated that the airline industry could provide com
 [^ref-13]: [MobyGames – Air Bucks MobyRank](https://www.mobygames.com/game/air-bucks/mobyrank) – player ratings, bug reports
 [^ref-14]: [ClassicReload – Air Bucks](https://classicreload.com/air-bucks.html) – alternate titles, gameplay features
 [^ref-15]: [PlayClassic Games – Air Bucks](https://playclassic.games/games/business-simulation-dos-games-online/play-air-bucks-online/) – gameplay challenges, world events
-[^ref-16]: [Lemon Amiga – Air Bucks](https://www.lemonamiga.com/games/details.php?id=50) – Amiga magazine reviews, user comments
+[^ref-28]: [Lemon Amiga – Air Bucks](https://www.lemonamiga.com/games/details.php?id=50) – Amiga magazine reviews, user comments
 [^ref-17]: [MobyGames – Air Bucks Tech Info](https://www.mobygames.com/game/air-bucks/techinfo) – system requirements, platform specifications
 [^ref-18]: [MyAbandonware – Air Bucks](https://www.myabandonware.com/game/air-bucks-1bv) – user ratings, known issues, development notes
 [^ref-16]: [Lemon Amiga – Air Bucks v1.2](https://www.lemonamiga.com/games/details.php?id=221) – AGA version, stock market mechanics

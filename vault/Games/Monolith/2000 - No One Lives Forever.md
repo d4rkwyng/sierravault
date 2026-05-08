@@ -354,7 +354,7 @@ However, the game's legacy has been complicated by its commercial unavailability
 [^ref-23]: [The Spoiler Walkthrough](https://the-spoiler.com/ACTION/Monolith/no.one.lives.forever.1.html) – randomized items
 [^ref-24]: [Blue's News .plan Files](http://www.bluesnews.com/cgi-bin/finger.pl?id=388&time=20010620190651) – patch notes, bug fixes
 [^ref-25]: [Glitchwave Review](https://glitchwave.com/game/the-operative-no-one-lives-forever/) – feminist analysis
-[^ref-26]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
+[^ref-52]: [Metacritic – PC Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=pc) – aggregate scores, critic quotes
 [^ref-27]: [IGN PS2 Review](http://ps2.ign.com/articles/357/357880p1.html) – Douglass C. Perry review
 [^ref-26]: [Metacritic – PS2 Version](https://www.metacritic.com/game/the-operative-no-one-lives-forever/critic-reviews/?platform=playstation-2) – PS2 aggregate
 [^ref-29]: [PC Gamer Retrospective (2010)](http://www.pcgamer.com/2010/07/10/why-you-must-replay-no-one-lives-forever/) – Tim Stone retrospective

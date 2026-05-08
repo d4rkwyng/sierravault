@@ -210,7 +210,7 @@ This game has been included in the following collections:
 [^ref-10]: [Steam – Quest for Glory 1-5](https://store.steampowered.com/app/502750) – – purchase, user reviews
 [^ref-11]: [My Abandonware – Quest for Glory V](https://www.myabandonware.com/game/quest-for-glory-v-dragon-fire-3p4) – – platforms, availability
 [^ref-12]: [PCGamingWiki – Quest for Glory V](https://www.pcgamingwiki.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – technical specs
-[^ref-13]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – series information
+[^ref-32]: [Quest for Glory Fandom Wiki](https://questforglory.fandom.com/wiki/Quest_for_Glory_V%3A_Dragon_Fire) – – series information
 [^ref-14]: [Hardcore Gaming 101 – Quest for Glory](http://www.hardcoregaming101.net/quest-for-glory/) – – series retrospective
 [^ref-15]: [StrategyWiki – Quest for Glory V](https://strategywiki.org/wiki/Quest_for_Glory_V) – – walkthrough, game guide
 [^ref-16]: [Open Library – Quest for Glory V Strategy Guide](https://openlibrary.org/works/OL2015945W) – hint book reference

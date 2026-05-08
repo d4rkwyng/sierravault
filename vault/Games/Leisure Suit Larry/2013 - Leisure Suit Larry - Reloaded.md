@@ -167,7 +167,7 @@ The game was eventually delisted from Steam and other digital platforms[^ref-15]
 [^ref-59]: [Polygon Soundtrack Interview](http://www.polygon.com/2013/6/5/4399684/austin-wintorys-leisure-suit-larry-reloaded-soundtrack-released) – - Composer interview about soundtrack
 [^ref-60]: [Polygon Android Issue Report](https://www.polygon.com/2013/7/19/4538278/leisure-suit-larry-reloaded-android-version-pulled-to-fix-error) – - Technical problems with mobile version
 [^ref-63]: [Reddit Developer Quote Post](https://www.reddit.com/r/Sierra/comments/1kuwdce/leisure_suit_larry_reloaded_2013_full_game/) – - Future Sierra remakes discussion
-[^ref-67]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
+[^ref-82]: [Steam Community OST](https://steamcommunity.com/sharedfiles/filedetails?id=167468330&insideModal=1) – - Removed content, no research data
 [^ref-67]: [Steam Community Walkthrough](https://steamcommunity.com/sharedfiles/filedetails/?id=155987091) – - User-generated gameplay guide
 [^ref-74]: [Walkthrough King Reloaded Guide](https://www.walkthroughking.com/text/leisuresuitlarryreloaded.aspx) – - Achievement requirements and Sierra easter eggs
 [^ref-76]: [Archived NY Post Interview](https://web.archive.org/web/20121108084927/http://www.nypost.com/p/blogs/gamereport/leisure_suit_larry_creator_making_Z6I5YvLcAW15aqgSFTSx9N) – - Al Lowe and Paul Trowe interview about Kickstarter

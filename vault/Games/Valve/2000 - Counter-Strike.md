@@ -331,7 +331,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-18]: [Planet Half-Life Guide (Archived)](https://web.archive.org/web/20010128164500/http://www.planethalflife.com/cs/guide/overview.shtm) – map types, gameplay overview
 [^ref-19]: [Old PC Gaming – Counter-Strike Retail Review](https://oldpcgaming.net/half-life-counter-strike-retail-review/) – map count, system requirements
 [^ref-20]: [IGN – Counter-Strike Review](https://www.ign.com/articles/2000/11/23/counter-strike-2) – review score, retail package contents
-[^ref-21]: [Metacritic – Counter-Strike (PC)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores
+[^ref-60]: [Metacritic – Counter-Strike (PC)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=pc) – aggregated reviews, critic scores
 [^ref-21]: [Metacritic – Counter-Strike (Xbox)](https://www.metacritic.com/game/counter-strike/critic-reviews/?platform=xbox) – Xbox port reviews
 [^ref-23]: [GameRevolution – Counter-Strike Xbox Review](https://www.gamerevolution.com/review/34257-counter-strike-review-2) – Xbox port criticism, developer info
 [^ref-24]: [Academia.edu – Counter-Strike Research](https://www.academia.edu/230698) – academic analysis, player statistics
@@ -343,7 +343,7 @@ From a design perspective, Counter-Strike's success stemmed from its elegant sim
 [^ref-30]: [Counter-Strike.net Retrospective (Archived)](https://web.archive.org/web/20010603073148/http://www.counter-strike.net/retro.html) – naming process, early beta history
 [^ref-31]: [Eurogamer – Counter-Strike 1.0 Release](http://www.eurogamer.net/articles/article_29710) – beta labeling, retail transition
 [^ref-32]: [GameSpot – Counter-Strike 1.0 Released](https://www.gamespot.com/articles/counter-strike-10-released/1100-2652037/) – release announcement, file sizes
-[^ref-33]: [HL2-Beta.ru – Beta 6.5 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=54) – version changelog
+[^ref-59]: [HL2-Beta.ru – Beta 6.5 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=54) – version changelog
 [^ref-34]: [Neoseeker Wiki – Half-Life: Counter-Strike](https://halflife.neoseeker.com/wiki/Half-Life:_Counter-Strike) – system requirements, Steam pricing
 [^ref-33]: [HL2-Beta.ru – Beta 7.0 Documentation](https://hl2-beta.ru/index.php?action=downloads;sa=view;down=56) – version changelog, map additions
 [^ref-36]: [Xbox GameSpy – Counter-Strike Review](http://xbox.gamespy.com/xbox/counter-strike/6362p1.html) – Xbox release date, review

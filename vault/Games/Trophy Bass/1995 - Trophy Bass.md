@@ -267,7 +267,7 @@ From a design perspective, Trophy Bass showed that educational and entertainment
 [^ref-15]: [Amazon – Trophy Bass Outdoor Sportsman](https://www.amazon.com/Trophy-Bass-Outdoor-Sportsman-DOS/dp/0871771128) – technical specifications
 [^ref-16]: [Xeen Music – Trophy Bass Soundtrack](https://xeenmusic.bandcamp.com/album/trophy-bass-1-official-soundtrack-volume-1-sc-55) – composer credits, recording methodology
 [^ref-17]: [Sierra Help Pages – Trophy Bass Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TrophyBassUpdates.html) – patch details, version history
-[^ref-18]: [VOGONS Forum – Trophy Bass 2](https://www.vogons.org/viewtopic.php?t=28700) – 16-bit installer compatibility issues
+[^ref-36]: [VOGONS Forum – Trophy Bass 2](https://www.vogons.org/viewtopic.php?t=28700) – 16-bit installer compatibility issues
 [^ref-19]: [Sierra Help Pages – New Sierra Installers](https://sierrahelp.com/Patches-Updates/NewSierraInstallers.html) – modern Windows compatibility
 [^ref-18]: [VOGONS Forum – Trophy Bass Timing](https://www.vogons.org/viewtopic.php?t=66507) – game clock speed issues
 [^ref-21]: [Internet Archive – Trophy Bass 4 Standalone](https://archive.org/details/trophy-bass-4-fishing-full-standalone) – compatibility mode recommendations

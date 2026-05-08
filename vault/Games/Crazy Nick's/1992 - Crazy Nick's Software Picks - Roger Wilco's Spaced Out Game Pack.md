@@ -219,7 +219,7 @@ The pack's legacy is largely overshadowed by the main Space Quest series, which 
 [^ref-2]: [Giant Bomb – Roger Wilco's Spaced Out Game Pack](https://www.giantbomb.com/crazy-nicks-software-picks-roger-wilcos-spaced-out-game-pack/3030-13252/) – game overview and series context
 [^ref-3]: [CDRomance – Crazy Nick's Software Picks Series](https://cdromance.org/scummvm/crazy-nicks-software-picks-series/) – series information, download statistics, ScummVM compatibility
 [^ref-4]: [MyAbandonware – Roger Wilco's Spaced Out Game Pack](https://www.myabandonware.com/game/crazy-nick-s-software-picks-roger-wilco-s-spaced-out-game-pack-36v) – user ratings, technical specs, user comments
-[^ref-5]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – mini-game origins, control schemes, gameplay details
+[^ref-21]: [Sierra Chest – Crazy Nick Roger Walkthrough](https://sierrachest.com/index.php?a=games&id=720&title=crazy-nick-roger&fld=walkthrough) – mini-game origins, control schemes, gameplay details
 [^ref-6]: [PCGamingWiki – Roger Wilco's Spaced Out Game Pack](https://www.pcgamingwiki.com/wiki/Roger_Wilco's_Spaced_Out_Game_Pack) – engine information, series classification
 [^ref-7]: [Free Game Empire – Roger Wilco's Spaced Out Game Pack](https://www.freegameempire.com/games/Crazy-Nick-s-Software-Picks-Roger-Wilco-s-Spaced-Out-Game-Pack) – mini-game descriptions, developer information
 [^ref-8]: [Super Adventures in Gaming – Review](http://superadventuresingaming.blogspot.com/2011/04/crazy-nicks-software-picks-roger-wilcos.html) – gameplay criticism, control issues

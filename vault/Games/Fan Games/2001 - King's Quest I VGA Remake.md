@@ -328,7 +328,7 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-3]: [Adventure Gamers – Walkthrough](https://adventuregamers.com/walkthroughs/kings-quest-i-quest-for-the-crown-vga) – interface description, review quotes
 [^ref-4]: [AGD Interactive – Hints Guide](https://www.agdinteractive.com/games/kq1/hints/hints.html) – game guide, interface details, version information
 [^ref-5]: [Alchetron – KQ1 AGD Interactive](https://alchetron.com/King's-Quest-I:-Quest-for-the-Crown-(AGD-Interactive)) – voice cast, licensing, GamesRadar ranking
-[^ref-6]: [AGD Interactive Forum – v4.1 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – Enhanced Edition details, artwork credits, development notes
+[^ref-37]: [AGD Interactive Forum – v4.1 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=13212) – Enhanced Edition details, artwork credits, development notes
 [^ref-7]: [Wikipedia – AGD Interactive](https://en.wikipedia.org/wiki/AGD_Interactive) – company history, designer credits, commercial impact
 [^ref-8]: [AGD Interactive – Download Page](https://www.agdinteractive.com/games/kq1/download/download.html) – system requirements, platform support
 [^ref-9]: [Internet Archive – KQ1 SCI Remake](https://archive.org/details/kings-quest-1-quest-for-the-crown-floppy-dos-sci-remake) – plot summary, original version history
@@ -350,7 +350,7 @@ The team's approach of receiving official licensing before distribution set an i
 [^ref-25]: [Sierra Chest – KQ1 VGA](https://sierrachest.com/index.php?a=games&id=533&fld=general) – founder identification, version history
 [^ref-26]: [zSprawl Blog Review](http://zsprawl.com/wp/2011/04/game-review-kings-quest-vga-remake/) – resolution support, graphical options
 [^ref-27]: [King's Quest Fandom – Tierra Version](https://kingsquest.fandom.com/wiki/King%27s_Quest_I:_Quest_for_the_Crown_(Tierra)) – cut content, differences from original
-[^ref-6]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
+[^ref-36]: [AGD Interactive Forum – v4.1b Patch Notes](https://www.agdinteractive.com/forum/viewtopic.php?t=14811) – bug fixes, patch details
 [^ref-6]: [AGD Interactive Forum – v4.2 Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=27004) – engine upgrade, compatibility fixes
 [^ref-30]: [AGD Interactive Forum – Name Change Discussion](http://www.agdinteractive.com/forum/viewtopic.php?t=8395) – Tierra to AGDI name change
 [^ref-31]: [Reddit – KQ1 Enhanced Edition Post](https://www.reddit.com/r/Sierra/comments/1jspknm/kings_quest_i_the_quest_for_the_crown_enhanced/) – download statistics

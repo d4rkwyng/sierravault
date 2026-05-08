@@ -237,7 +237,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 [^ref-5]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Oils_Well_1990) – 1990 remake details, Slater the Petrosaur
 [^ref-6]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – production credits, technical specs, pricing
 [^ref-7]: [ClassicReload – Oil's Well](https://classicreload.com/oils-well.html) – developer trivia, gameplay description
-[^ref-8]: [Sierra Chest – Oil's Well Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – gameplay mechanics, difficulty levels, scoring
+[^ref-31]: [Sierra Chest – Oil's Well Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – gameplay mechanics, difficulty levels, scoring
 [^ref-9]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – backstory elements (fictional oil crisis context)
 [^ref-10]: [PixelatedArcade – Oil's Well](https://pixelatedarcade.com/games/oil-s-well) – gameplay description, technical improvements
 [^ref-11]: [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line) – control scheme, level structure

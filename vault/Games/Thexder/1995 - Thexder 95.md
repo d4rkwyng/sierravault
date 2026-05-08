@@ -248,7 +248,7 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-26]: [Sierra Help Wiki – Thexder 95](https://wiki.sierrahelp.com/index.php/Thexder_95) – Windows 9x platform, Synergistic developer
 [^ref-27]: [Shmuplations – Thexder Developer Interview](https://shmuplations.com/thexder/) – Animation patterns, development time, design philosophy
 [^ref-28]: [PCGamingWiki – Thexder](https://www.pcgamingwiki.com/wiki/Thexder) – Technical specifications, DOSBox compatibility
-[^ref-29]: [Sierra Chest – Thexder Music](https://sierrachest.com/index.php?a=games&id=42&fld=music) – Moonlight Sonata intermission
+[^ref-42]: [Sierra Chest – Thexder Music](https://sierrachest.com/index.php?a=games&id=42&fld=music) – Moonlight Sonata intermission
 [^ref-30]: [GOG Dreamlist – Thexder](https://www.gog.com/dreamlist/game/thexder) – Fan memories, Moonlight Sonata nostalgia
 [^ref-31]: [Generation MSX – Thexder](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – Pronunciation guide, designer credits
 [^ref-32]: [GameFAQs – Thexder FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – Transformers comparison, Level 99 easter egg
@@ -257,7 +257,7 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-35]: [TouchArcade – EGGCONSOLE Review](https://toucharcade.com/2024/01/03/eggconsole-relics-pc-8801-switch-review-english-eshop-xanadu-falcom-inti-creates-gunvolt-sale/) – Modern re-release details, pricing
 [^ref-36]: [Scribd – Thexder Sheet Music](https://www.scribd.com/document/13267404/Thexder-theme-video-game-sheet-music-piano) – Hibiki Godai composer credit
 [^ref-37]: [MobyGames – Fire Hawk](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – Sequel details, development credits
-[^ref-38]: [Abandonware DOS – Thexder 2: Firehawk](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+2:+Firehawk&gid=2397) – 1990 DOS release
+[^ref-41]: [Abandonware DOS – Thexder 2: Firehawk](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+2:+Firehawk&gid=2397) – 1990 DOS release
 [^ref-39]: [Square Enix – Thexder Neo](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – Official product description, remake features
 [^ref-40]: [MobyGames – Thexder Neo](https://www.mobygames.com/game/43121/thexder-neo/) – PSP/PS3 release dates, developer credits
 [^ref-38]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware

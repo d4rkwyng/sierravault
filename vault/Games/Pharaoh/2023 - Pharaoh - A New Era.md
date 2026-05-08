@@ -152,7 +152,7 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-2]: [MobyGames – Pharaoh: A New Era](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – Credits, release information, platform data
 [^ref-3]: [Rock Paper Shotgun – Pharaoh: A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – "Definitive version" verdict, gameplay changes, graphics, global worker pool
 [^ref-4]: [Shacknews – Pharaoh: A New Era Review](https://www.shacknews.com/article/134182/pharaoh-a-new-era-review-score) – "Excellent spin on a classic" review verdict
-[^ref-5]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Game description, features, 50+ missions, interface improvements
+[^ref-20]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Game description, features, 50+ missions, interface improvements
 [^ref-6]: [Metacritic – Pharaoh: A New Era](https://www.metacritic.com/game/pharaoh-a-new-era/critic-reviews/?platform=pc) – Aggregate review scores
 [^ref-7]: [Gamepressure – Pharaoh: A New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – "Splendid opportunity to rediscover this timeless classic"
 [^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Mixed review, bugs noted, mobile-game aesthetics

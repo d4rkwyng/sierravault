@@ -275,12 +275,12 @@ The game's sci-fi premise and cybernetic aesthetic were well-suited to the mid-1
 [^ref-4]: [Wikipedia – CyberGladiators](https://en.wikipedia.org/wiki/CyberGladiators) – Director, producer, release date, PC Zone review score, plot summary
 [^ref-5]: [Classic Gaming Network – CyberGladiators](https://www.classic-gaming.net/game/1081/) – User reviews, aggregate rating
 [^ref-6]: [PCGamingWiki – CyberGladiators](https://www.pcgamingwiki.com/wiki/CyberGladiators) – System requirements, game modes, multiplayer types, availability status
-[^ref-7]: [Sierra Chest – CyberGladiators Demo](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=demos) – K.A.A. series info, demo distribution, hex edit fix details
+[^ref-28]: [Sierra Chest – CyberGladiators Demo](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=demos) – K.A.A. series info, demo distribution, hex edit fix details
 [^ref-8]: [GameFAQs – CyberGladiators FAQ](https://gamefaqs.gamespot.com/pc/197019-cybergladiators/faqs/17775) – Controls, gameplay mechanics, unlock conditions, boss abilities
 [^ref-9]: [Cheatbook.de – CyberGladiators Walkthrough](https://www.cheatbook.de/wfiles/cybergladiators.htm) – Story background, narrative quotes
 [^ref-10]: [Lutris – Cyber Gladiators](https://lutris.net/games/cyber-gladiators/) – Story summary, installation notes
 [^ref-11]: [NeverDieMedia – Cyber Gladiators](https://www.neverdiemedia.com/products/cyber-gladiators) – Plot summary
-[^ref-7]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Graphics mode requirements, unlock conditions, boss code restrictions
+[^ref-27]: [Sierra Chest – CyberGladiators Walkthrough](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=walkthrough) – Graphics mode requirements, unlock conditions, boss code restrictions
 [^ref-13]: [Neoseeker – CyberGladiators](https://www.neoseeker.com/cybergladiators/) – System requirements, roster size, review quotes
 [^ref-7]: [Sierra Chest – CyberGladiators Music](https://sierrachest.com/index.php?a=games&id=216&title=cybergladiators&fld=music) – Character roster, arena listing, music track listing
 [^ref-15]: [MyAbandonware – CyberGladiators](https://www.myabandonware.com/game/cybergladiators-gwm) – User rating, download size, compatibility issues, user comments

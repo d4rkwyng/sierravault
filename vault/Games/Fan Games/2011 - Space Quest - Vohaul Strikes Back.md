@@ -308,7 +308,7 @@ The developers describe the game as combining elements of "SQ5 and 6" in its vis
 [^ref-7]: [GOG Forums – Vohaul Strikes Back Discussion](https://www.gog.com/forum/space_quest_series/vohaul_strikes_back) – user reviews, developer comments, multiple endings
 [^ref-8]: [Team VSB FAQ (Archived)](https://web.archive.org/web/20120125100055/http://www.sqvsb.com/faq) – development philosophy, technical tools, freeware status
 [^ref-9]: [Shacknews – Space Quest 2 Fan-Made Remake and Unofficial Sequel](http://www.shacknews.com/article/71873/space-quest-2-fan-made-remake-and-unofficial-sequel) – Jeff Mattas preview, Scott Murphy quote
-[^ref-10]: [Sierra Chest – Vohaul Strikes Back General Info](https://sierrachest.com/index.php?a=games&id=426&fld=general) – designer credits, development history, technical approach
+[^ref-26]: [Sierra Chest – Vohaul Strikes Back General Info](https://sierrachest.com/index.php?a=games&id=426&fld=general) – designer credits, development history, technical approach
 [^ref-11]: [Adventure Gamers – Freeware Roundup (Archived)](https://web.archive.org/web/20130121021414/http://www.adventuregamers.com/articles/view/18650) – Steve Brown review, visual analysis, story setup
 [^ref-12]: [TV Tropes – Space Quest: Vohaul Strikes Back](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SpaceQuestVohaulStrikesBack) – plot details, trope analysis, Star Wars reference
 [^ref-13]: [Adventurespel.nl – Walkthrough](https://www.adventurespel.nl/games/walk/spquest.htm) – story background, gameplay details, hamster wheel trivia

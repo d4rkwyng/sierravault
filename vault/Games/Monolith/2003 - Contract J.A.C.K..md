@@ -323,7 +323,7 @@ The game is currently unavailable through legitimate digital storefronts due to 
 [^ref-12]: [IMDB – Contract J.A.C.K.](https://www.imdb.com/title/tt0388852/) – voice cast, user rating, dialogue trivia
 [^ref-13]: [Wayback Machine – PC Gamer Review](https://web.archive.org/web/20060315140726/http://www.pcgamer.com/archives/2005/06/contract_jack.html) – review score 63%, Vespa sequence, game length, budget price
 [^ref-14]: [MobyGames – Contract J.A.C.K. Specs](https://www.mobygames.com/game/11245/contract-jack/specs/) – system requirements, content ratings, multiplayer info
-[^ref-15]: [Sierra Chest – Contract J.A.C.K. Walkthrough](https://sierrachest.com/index.php?a=games&id=124&fld=walkthrough) – save system, difficulty settings, multiplayer modes
+[^ref-47]: [Sierra Chest – Contract J.A.C.K. Walkthrough](https://sierrachest.com/index.php?a=games&id=124&fld=walkthrough) – save system, difficulty settings, multiplayer modes
 [^ref-16]: [Neoseeker – Contract J.A.C.K. Cheats](https://www.neoseeker.com/nolf-contractjack/cheats/pc/) – cheat codes and activation method
 [^ref-17]: [NOLF Wiki – Contract J.A.C.K.](https://nolf.fandom.com/wiki/Contract_J.A.C.K.) – gameplay differences, location details, Man-Handler weapon
 [^ref-18]: [MobyGames – Contract J.A.C.K.](https://www.mobygames.com/game/11245/contract-jack/) – release information, censorship, trivia, awards

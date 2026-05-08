@@ -285,7 +285,7 @@ However, modern assessments acknowledge the game's limitations. As one Metacriti
 [^ref-24]: [Team Fortress Wiki – Team Fortress (Original)](https://wiki.teamfortress.com/wiki/Team_Fortress) – mod origins, version history, John Cook quote
 [^ref-25]: [Blue's News – Team Fortress Classic Release Date Changes](https://www.bluesnews.com/s/947/team-fortress-classic-release-date-changes) – delay announcement
 [^ref-26]: [PCGamingWiki – Team Fortress Classic](https://www.pcgamingwiki.com/wiki/Team_Fortress_Classic) – technical specifications, version info
-[^ref-27]: [Steam Community Guide – TFC History](https://steamcommunity.com/sharedfiles/filedetails/?id=511395589) – original Quake TF version history
+[^ref-41]: [Steam Community Guide – TFC History](https://steamcommunity.com/sharedfiles/filedetails/?id=511395589) – original Quake TF version history
 [^ref-28]: [AlliedMods Forums – Steam Update Issues](https://forums.alliedmods.net/archive/index.php/t-79403.html) – technical issues, compatibility problems
 [^ref-27]: [Steam Community – Magazine Cover Disc Documentation](https://steamcommunity.com/sharedfiles/filedetails/?id=2463040363) – distribution history
 [^ref-30]: [Steam Charts – Team Fortress Classic](https://steamcharts.com/app/20) – player statistics over time

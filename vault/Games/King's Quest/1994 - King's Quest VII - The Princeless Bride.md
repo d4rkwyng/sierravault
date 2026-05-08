@@ -317,10 +317,10 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – 2006 collection release
 [^ref-28]: [InterAction Magazine Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994) – – pre-release coverage, "most eagerly awaited sequel"
 [^ref-29]: [Coming Soon Magazine – King's Quest VII Review](http://www.csoon.com/issue2/KQVII.HTM) – – contemporary review awarding 92%, detailed breakdown of scores, technical specifications
-[^ref-30]: [Sierra Chest – King's Quest VII Music](https://www.sierrachest.com/index.php?a=games&id=7&fld=music) – – full soundtrack listing with 47 tracks
+[^ref-40]: [Sierra Chest – King's Quest VII Music](https://www.sierrachest.com/index.php?a=games&id=7&fld=music) – – full soundtrack listing with 47 tracks
 [^ref-31]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
 [^ref-32]: [Film Stories – Epic History of King's Quest](https://filmstories.co.uk/features/once-upon-a-time-the-epic-history-of-kings-quest/) – – Mark Seibert interviews on crunch time, coordination with animation studios
-[^ref-30]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
+[^ref-39]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
 [^ref-34]: [Hardcore Gaming 101 – King's Quest VII](http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – – retrospective analysis, last "true" King's Quest, pacing criticism
 [^ref-35]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – – French retrospective review 16/20, "interactive cartoon" assessment
 [^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – – detailed playthrough analysis, chapter structure, interface changes

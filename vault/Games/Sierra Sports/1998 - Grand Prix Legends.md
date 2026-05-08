@@ -341,7 +341,7 @@ The game also pioneered online racing communities. VROC (Virtual Racers' Online 
 [^ref-20]: [GPL FAQ](http://alison.hine.net/gpl/faq.htm) – difficulty levels, gameplay mechanics
 [^ref-21]: [SIRA Simracing – GPL Guide](https://www.sira-simracing.com/post/grand-prix-legends-game-guide) – game modes, driver aids, iRacing history
 [^ref-22]: [GameSpot – History of Papyrus](https://www.gamespot.com/articles/history-of-papyrus-racing-games/1100-6103365/) – Kaemmer quotes on design philosophy, European sales
-[^ref-23]: [GPL Wiki – Main Page](http://wiki.grandprixlegends.info/index.php?title=Main_Page) – licensing name changes, track accuracy
+[^ref-51]: [GPL Wiki – Main Page](http://wiki.grandprixlegends.info/index.php?title=Main_Page) – licensing name changes, track accuracy
 [^ref-24]: [Race Sim Central – Ferrari Licensed](https://racesimcentral.net/ferrari-licensed-for-grand-prix-legends/) – Ferrari licensing, car specifications, retail price
 [^ref-25]: [Old PC Gaming – GPL Review](https://oldpcgaming.net/grand-prix-legends-review/) – physics description, difficulty analysis
 [^ref-26]: [RavSim – GPL 20th Anniversary](https://ravsim.com/2018/12/08/grand-prix-legends-is-20-a-legacy-that-created-a-genre/) – physics engine details

@@ -317,7 +317,7 @@ The game's real-time elements and possibility of unwinnable states reflect early
 [^ref-9]: [ClassicReload – Willy Beamish](https://classicreload.com/the-adventures-of-willy-beamish.html) – DGDS engine, cartoon animation pioneer
 [^ref-10]: [Lemon Amiga – Walkthrough](https://www.lemonamiga.com/games/docs.php?id=37) – opening scene, target audience description
 [^ref-11]: [Pixelated Arcade – Willy Beamish](https://pixelatedarcade.com/games/the-adventures-of-willy-beamish) – Nintari Championship plot
-[^ref-12]: [Sierra Chest – Willy Beamish](https://www.sierrachest.com/index.php?a=games&id=337) – release date, Frumpton setting, mature themes
+[^ref-54]: [Sierra Chest – Willy Beamish](https://www.sierrachest.com/index.php?a=games&id=337) – release date, Frumpton setting, mature themes
 [^ref-13]: [eBay – Product Description](https://www.ebay.com/p/60651386) – 50 locations, military school, Horny gameplay
 [^ref-14]: [Adventure Gamer Blog – Willy Beamish Introduction](https://advgamer.blogspot.com/2015/10/game-60-adventures-of-willy-beamish.html) – grandfather ghost, Sierra acquisition
 [^ref-20]: [GameFAQs – Sega CD Walkthrough](https://gamefaqs.gamespot.com/segacd/587919-the-adventures-of-willy-beamish/faqs/28803) – Horny character, game controls

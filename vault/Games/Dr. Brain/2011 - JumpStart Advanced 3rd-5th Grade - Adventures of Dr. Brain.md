@@ -224,7 +224,7 @@ This transition mirrors broader trends in the educational software market of the
 [^ref-10]: [Kotaku – Game Listing](https://kotaku.com/games/jumpstart-advanced-3rd-5th-grade-adventures-of-dr-brain) – game description
 [^ref-12]: [GameFAQs – JumpStart Adventures](https://gamefaqs.gamespot.com/boards/950986-jumpstart-adventures-4th-grade) – user comments, ratings
 [^ref-13]: [MyAbandonware – Dr. Brain Thinking Games](https://www.myabandonware.com/game/dr-brain-thinking-games-iq-adventure-dt0) – user rating, comments
-[^ref-14]: [Sierra Fandom Wiki – Dr. Brain Series](https://sierra.fandom.com/wiki/Dr._Brain_(series)) – development history, designer information[^ref-13]: [Giant Bomb - Dr. Brain](https://www.giantbomb.com/) - wiki
+[^ref-18]: [Sierra Fandom Wiki – Dr. Brain Series](https://sierra.fandom.com/wiki/Dr._Brain_(series)) – development history, designer information[^ref-13]: [Giant Bomb - Dr. Brain](https://www.giantbomb.com/) - wiki
 [^ref-14]: [IGDB - Dr. Brain](https://www.igdb.com/) - IGDB
 [^ref-15]: [MobyGames - JumpStart](https://www.mobygames.com/) - database
 [^ref-16]: [GameFAQs - JumpStart](https://gamefaqs.gamespot.com/) - database

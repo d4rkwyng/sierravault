@@ -241,7 +241,7 @@ The game's influence can be seen in later physics-based puzzle games that emphas
 [^ref-10]: [Play Classic Games](https://playclassic.games/games/puzzle-solving-dos-games-online/play-sid-als-incredible-toons-online/) – gameplay description, character comparisons, puzzle elements
 [^ref-11]: [TV Tropes – Sid and Al's Incredible Toons](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/SidAndAlsIncredibleToons) – game mechanics, sequel information, Japanese versions
 [^ref-12]: [Abandonware DOS](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Sid+&gid=2512) – user rating, graphics description, series info
-[^ref-13]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – puzzle count, technical specifications, password system
+[^ref-28]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=319&title=sid-and-als-incredible-toons&fld=walkthrough) – puzzle count, technical specifications, password system
 [^ref-14]: [SuperCheats – Bonus Levels](https://www.supercheats.com/pc/sidalsincredibletoons.htm) – WIND password cheat
 [^ref-15]: [Kultboy – Power Play Coverage](http://www.kultboy.com/index.php?site=t&id=3347) – German review, user commentary
 [^ref-16]: [MobyGames – MobyRank](http://www.mobygames.com/game/dos/sid-als-incredible-toons/mobyrank) – aggregate critic and player scores

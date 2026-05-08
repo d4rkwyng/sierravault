@@ -208,9 +208,9 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 
 [^ref-1]: [GameFAQs – Turbo Learning: Mega Math](https://gamefaqs.gamespot.com/pc/532818-turbo-learning-mega-math/data) – developer, publisher, release year
 [^ref-2]: [Dynamix Fandom Wiki – Turbo Learning: Mega Math](https://dynamix.fandom.com/wiki/Turbo_Learning:_Mega_Math) – credits, voice cast, patch information, release date
-[^ref-3]: [Sierra Chest – Mega Math](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – release date, version history, Sierra Discovery Series
+[^ref-22]: [Sierra Chest – Mega Math](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=box) – release date, version history, Sierra Discovery Series
 [^ref-4]: [Old-Games.com – Mega Math](https://www.old-games.com/download/3317/mega-math) – gameplay description, character information, critical assessment
-[^ref-3]: [Sierra Chest – Mega Math Walkthrough](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=walkthrough) – educational philosophy, game design
+[^ref-21]: [Sierra Chest – Mega Math Walkthrough](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=walkthrough) – educational philosophy, game design
 [^ref-6]: [MobyGames – Turbo Learning: Mega Math](https://www.mobygames.com/game/3415/turbo-learning-mega-math/) – Dr. Krista description, Knowledge Central
 [^ref-7]: [MobyGames – Turbo Learning: Mega Math Reviews](https://www.mobygames.com/game/3415/turbo-learning-mega-math/reviews/) – 2015 Katakis review, technical achievements, speech on floppy
 [^ref-8]: [Dynamix Fandom Wiki – DGDS](https://dynamix.fandom.com/wiki/Dynamix_Game_Development_System) – engine information, development workflow
@@ -219,7 +219,7 @@ From a historical perspective, Mega Math serves as an example of the drill-and-p
 [^ref-12]: [Free Game Empire – Mega Math](https://www.freegameempire.com/games/Mega-Math) – rating, historical context
 [^ref-13]: [MobyGames – Quarky & Quaysoo's Turbo Science](https://www.mobygames.com/game/9821/quarky-quaysoos-turbo-science/) – predecessor game, series information
 [^ref-14]: [LaunchBox Games Database – Mega Math](https://gamesdb.launchbox-app.com/games/details/93798-mega-math) – resolution, platform details
-[^ref-3]: [Sierra Chest – Mega Math Easter Eggs](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=eggs) – Turbo Science blimp announcement
+[^ref-20]: [Sierra Chest – Mega Math Easter Eggs](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=eggs) – Turbo Science blimp announcement
 [^ref-16]: [Internet Archive – Mega Math](https://archive.org/details/msdos_Mega_Math_1992) – preservation, MobyGames description
 [^ref-17]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – Jeff Tunnell Productions history, Sierra Discovery Series
 [^ref-3]: [Sierra Chest – Mega Math General](https://sierrachest.com/index.php?a=games&id=469&title=megamath&fld=general) – Dr. Krista character, game philosophy

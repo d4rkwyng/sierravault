@@ -286,8 +286,8 @@ The game's significance lies primarily in its preservation of the Hoyle brand's 
 [^ref-11]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – Franchise history, original developers, designer credits
 [^ref-12]: [PriceCharting – Hoyle Card Games](https://www.pricecharting.com/game/pc-games/hoyle-card-games) – Version history across years, format information
 [^ref-13]: [My Abandonware – Hoyle Card Games 2008](https://www.myabandonware.com/game/hoyle-card-games-2008-m74) – File specifications, user ratings, bug reports
-[^ref-14]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
-[^ref-15]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
+[^ref-22]: [MobyGames](https://www.mobygames.com/game/29723/hoyle-card-games-2008/) – Game database entry
+[^ref-21]: [Giant Bomb](https://www.giantbomb.com/hoyle-card-games-2008/3030-52131/) – Game database entry
 [^ref-16]: [IGDB](https://www.igdb.com/games/hoyle-card-games-2008) – Game database entry
 [^ref-17]: [UVList](https://www.uvlist.net/game-8839-Hoyle+Card+Games+2008) – Universal Videogame List entry
 [^ref-18]: [Glitchwave](https://glitchwave.com/game/hoyle-card-games-2008/) – Modern ratings and classification

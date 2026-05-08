@@ -205,7 +205,7 @@ The series continued with at least four additional installments: Playtoons 2: Th
 
 [^ref-1]: [MobyGames – Playtoons 1: Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – developer, publisher, platforms, release year, credits, game description
 [^ref-2]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, plot summary, educational focus, interactivity features
-[^ref-3]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
+[^ref-18]: [Sierra Chest – Playtoons 1](https://sierrachest.com/index.php?a=games&id=323&title=playtoons-1&fld=general) – engine, construction game details, camera function, Monsters add-on
 [^ref-4]: [Internet Archive – Playtoons Uncle Archibald](https://archive.org/details/playtoons-uncle-archibald) – platforms, publisher, CD-ROM format, preservation
 [^ref-5]: [PriceCharting – Playtoons 1](https://www.pricecharting.com/game/pc-games/playtoons-1-featuring-uncle-archibald) – plot summary, developer confirmation
 [^ref-6]: [MyAbandonware – Playtoons 1](https://www.myabandonware.com/game/playtoons-1-featuring-uncle-archibald-yr6) – release dates by region, user rating, technical specs

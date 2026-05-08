@@ -245,7 +245,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 [^ref-6]: [FRGCB Blog – Donald Duck's Playground Multi-Platform Comparison](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) – platform ratings, development credits, AGI porting issues, trivia, version comparisons
 [^ref-7]: [GameFAQs – C64 Walkthrough by Frankomatic](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground/faqs/38109) – story premise, controls, job descriptions
 [^ref-8]: [GameFAQs – Commodore 64 Database Entry](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground) – official game description, Disney marketing text, user ratings
-[^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=walkthrough) – job mechanics, money conversion, platform differences, playground equipment
+[^ref-29]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=walkthrough) – job mechanics, money conversion, platform differences, playground equipment
 [^ref-10]: [Lemon64 – User Review by Northlander](https://www.lemon64.com/review/donald-ducks-playground/1412) – detailed review, ratings, soft-lock bug, parental perspective
 [^ref-11]: [PDXtra Blog – Donald Duck's Playground Retrospective](http://pdxtra.blogspot.com/2016/06/donald-ducks-playground.html) – mini-game descriptions, personal memories
 [^ref-12]: [StrategyWiki – Donald Duck's Playground](https://strategywiki.org/wiki/Donald_Duck%27s_Playground) – job shift mechanics, gameplay structure

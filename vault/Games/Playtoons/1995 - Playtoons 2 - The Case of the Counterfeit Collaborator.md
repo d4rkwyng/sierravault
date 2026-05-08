@@ -205,7 +205,7 @@ The cross-title asset sharing system was remarkably forward-thinking, creating a
 [^ref-2]: [MobyGames – Playtoons 2 Screenshots](https://www.mobygames.com/game/185154/playtoons-2-the-case-of-the-counterfeit-collaborator/screenshots/win3x/1159965/) – resolution, alternate titles, narration style
 [^ref-3]: [Wikipedia – Playtoons](https://en.wikipedia.org/wiki/Playtoons) – series overview, educational focus, developer information
 [^ref-4]: [MobyGames – Playtoons 1 Featuring Uncle Archibald](https://www.mobygames.com/game/184579/playtoons-1-featuring-uncle-archibald/) – cross-title integration, series description, construction kit details
-[^ref-5]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
+[^ref-22]: [SierraChest – Playtoons 2](https://www.sierrachest.com/index.php?a=games&id=325&fld=general) – Spirou adaptation, story details, construction kit features, camera function
 [^ref-5]: [SierraChest – Playtoons 2 Box](https://www.sierrachest.com/index.php?a=games&id=325&title=playtoons-2&fld=box&pid=11) – Gob engine, platforms, release date
 [^ref-7]: [Internet Archive – Playtoons 2](https://archive.org/details/playtoons-2) – file size, platforms, ScummVM compatibility, preservation
 [^ref-9]: [Kiddle Encyclopedia – Playtoons](https://kids.kiddle.co/Playtoons) – series games list, secret story pages, cartoon creator concept

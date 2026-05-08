@@ -155,7 +155,7 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 [^ref-8]: [Amiga Magazine Rack](http://amr.abime.net/review_26388) - Preview from Amiga Computing magazine 1989
 [^ref-12]: [Wikipedia](https://en.wikipedia.org/wiki/Legend_of_Djel) - Comprehensive article with contemporary gaming magazine references
 [^ref-18]: [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/72249-legend-of-djel) - Database entry with review commentary
-[^ref-21]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3317) - Comprehensive game database with technical details and user commentary
+[^ref-38]: [Lemon Amiga](https://www.lemonamiga.com/games/details.php?id=3317) - Comprehensive game database with technical details and user commentary
 [^ref-21]: [Lemon Amiga – Legend of Djel](https://www.lemonamiga.com/games/details.php?id=577) – Amiga version details
 [^ref-25]: [MobyGames](https://www.mobygames.com/game/3839/legend-of-djel/) - Comprehensive game metadata and ratings
 [^ref-26]: [MobyGames](https://www.mobygames.com/game/6218/the-prophecy/) - Related game profile with development context

@@ -288,7 +288,7 @@ The game's legacy is somewhat bittersweet. Despite passionate fan advocacy and l
 [^ref-8]: [TV Tropes – Zeliard](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Zeliard) – Josh Mandel credit, plot summary
 [^ref-9]: [Internet Archive – ZELIARD](https://archive.org/details/ZELIARD) – MobyGames description, platform information
 [^ref-10]: [ClassicReload – Zeliard](https://classicreload.com/zeliard.html) – plot details, Nine Tears of Esmesanti
-[^ref-11]: [Abandonware DOS – Zeliard FAQ](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849) – gameplay description, secret locations, items, banking system
+[^ref-35]: [Abandonware DOS – Zeliard FAQ](https://www.abandonwaredos.com/docawd.php?sf=zeliardfaq.txt&st=manual&sg=Zeliard&idg=849) – gameplay description, secret locations, items, banking system
 [^ref-12]: [GameFAQs – Zeliard Walkthrough](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs/9990) – town/cavern listings, boss names, item listings, fan club reference
 [^ref-13]: [Cheatbook – Zeliard Boss Guide](https://www.cheatbook.de/wfiles/zeliardboss.htm) – boss strategies, El Pollo Diablo quote, inventory limit
 [^ref-14]: [GameFAQs – Zeliard FAQs](https://gamefaqs.gamespot.com/pc/575849-zeliard/faqs) – Jashiin quote, community maps

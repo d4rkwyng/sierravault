@@ -336,7 +336,7 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-27]: [Steam – Hoyle Official Casino Games](https://store.steampowered.com/app/532950) – user reviews, release date
 [^ref-28]: [Steam Community – Hoyle Casino Reviews](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – AI complaints, offline play appreciation
 [^ref-29]: [MyAbandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – rating, POD file discovery
-[^ref-30]: [Sierra Chest – Hoyle Casino 4 Music](https://sierrachest.com/index.php?a=games&fld=music&id=799&title=hoyle-casino-4) – music origins, Sierra Attractions
+[^ref-52]: [Sierra Chest – Hoyle Casino 4 Music](https://sierrachest.com/index.php?a=games&fld=music&id=799&title=hoyle-casino-4) – music origins, Sierra Attractions
 [^ref-31]: [IGN – Hoyle Casino Dreamcast Announcement](https://www.ign.com/articles/2000/10/04/hoyle-casino-gets-dealt-to-retailers) – Steve Van Horn quote, platform expansion
 [^ref-32]: [A Secret Area – Hoyle Casino GBC](https://asecretarea.com/2014/12/18/hoyle-casino-game-boy-color/) – Pulsar Interactive developer info
 [^ref-33]: [Grokipedia – Hoyle Casino](https://grokipedia.com/page/Hoyle_Casino) – graphics evolution, version history
