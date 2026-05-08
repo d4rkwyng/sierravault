@@ -1,6 +1,6 @@
 ---
 title: 3D Ultra Minigolf Adventures Deluxe
-release_year: 2009
+release_year: 2007
 developer: Wanako Games
 designer: []
 publisher: Activision
@@ -22,9 +22,9 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-5].
+*3D Ultra Minigolf Adventures Deluxe* is an arcade-style miniature golf game developed by Wanako Games and published by Activision, released on July 23, 2009 for Windows PC via Steam[^ref-1][^ref-2]. The game represents the culmination of the long-running 3-D Ultra Minigolf series, which began with the original *3D Ultra Minigolf* developed by Dynamix and published by Sierra in 1997[^ref-3][^ref-4]. This Deluxe edition combines content from *3D Ultra Minigolf Adventures* (released December 20, 2006) with its *Lost Island* expansion pack (released July 25, 2007) for a comprehensive minigolf experience[^ref-5][^ref-20].
 
-The game offers players 36 challenging holes across three distinct themed environments—Classic Carnival, Old West, and Outer Space—along with an additional 18 holes from the Lost Island expansion, totaling 54 holes of gameplay[^ref-5][^ref-6]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
+The game offers players 36 challenging holes across three distinct themed environments—Classic Carnival, Old West, and Outer Space—along with an additional 18 holes from the Lost Island expansion, totaling 54 holes of gameplay[^ref-5][^ref-6]. A free demo version distributed via a Taco Bell promotion provided a preview of select holes from the full game[^ref-19]. Players can choose from four playable characters, each featuring distinctive personalities and animations, and compete in matches for up to four players[^ref-7][^ref-12]. The game features carefully crafted 3D courses with sweeping panoramic views, mind-bending course designs, elevated greens, bunkers, bridges, and water hazards among other creative obstacles[^ref-7].
 
 What sets *3D Ultra Minigolf Adventures Deluxe* apart from typical minigolf games is its creative game additions, including over-the-top power-ups and imaginative traps that keep gameplay exciting and unpredictable[^ref-7]. The game also includes a customizable course editor, allowing players to build their own course designs by mixing and matching combinations of tees, straights, corners, cups, junctions, and ramps[^ref-7]. The Steam version sold approximately 10,830 units and maintains a "Mostly Positive" rating with a 69.77% positive review score based on 129 player reviews[^ref-2].
 

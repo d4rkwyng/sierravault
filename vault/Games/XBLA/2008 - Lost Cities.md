@@ -76,19 +76,19 @@ Three AI difficulty levels provided challenges for offline play.[^ref-1]
 
 ### Contemporary Reviews
 
-Lost Cities received generally positive reviews as a faithful adaptation of Knizia's acclaimed card game. Critics praised the clean interface and strategic depth that carried over from the physical game.[^ref-1]
+Lost Cities received generally positive reviews as a faithful adaptation of Knizia's acclaimed card game. Critics praised the clean interface and strategic depth that carried over from the physical game.[^ref-1][^ref-7] IGN's pre-release coverage highlighted the title alongside other digital adaptations of acclaimed designer board games arriving on the platform[^ref-7]. Aggregated reception data is available through Metacritic[^ref-8] and the GameFAQs review database[^ref-9][^ref-13].
 
-The game was recognized as an excellent choice for fans of the original card game and for players seeking a quick, strategic two-player experience on Xbox Live Arcade.[^ref-1]
+The game was recognized as an excellent choice for fans of the original card game and for players seeking a quick, strategic two-player experience on Xbox Live Arcade.[^ref-1] Community discussion on BoardGameGeek tracked the XBLA release alongside the broader Knizia adaptations[^ref-10], and additional contemporary commentary appeared at GamePressure[^ref-11] and TrueAchievements[^ref-12].
 
 ### Modern Assessment
 
-Lost Cities has since been removed from the Xbox Live Arcade marketplace and is no longer available for purchase digitally.[^ref-1] This fate befell many XBLA titles as Microsoft transitioned to newer console generations.
+Lost Cities has since been removed from the Xbox Live Arcade marketplace and is no longer available for purchase digitally.[^ref-1][^ref-15] This fate befell many XBLA titles as Microsoft transitioned to newer console generations.
 
 ## Development
 
 ### Origins
 
-Lost Cities was developed by Sierra Online Shanghai, a Chinese development studio that was formally known as Studio Ch'in before being incorporated into Sierra Online's global structure.[^ref-1] The studio specialized in digital adaptations of classic card and board games.
+Lost Cities was developed by Sierra Online Shanghai, a Chinese development studio that was formally known as Studio Ch'in before being incorporated into Sierra Online's global structure.[^ref-1][^ref-4] The studio specialized in digital adaptations of classic card and board games.
 
 ### Production
 
