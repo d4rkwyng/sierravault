@@ -257,3 +257,6 @@ While modern critics have been harsh on the game's punishing difficulty and repe
 [^ref-21]: [GameFAQs – Sword of Kadash](https://gamefaqs.gamespot.com/c64/571970-sword-of-kadash/faqs) – walkthrough availability, platform information
 
 [^ref-22]: [Virtual Apple – Sword of Kadash](http://www.virtualapple.org/swordofkadashdisk.html) – disk image preservation, technical specifications
+ref-21]: [GameFAQs – Sword of Kadash](https://gamefaqs.gamespot.com/c64/571970-sword-of-kadash/faqs) – walkthrough availability, platform information
+
+[^ref-22]: [Virtual Apple – Sword of Kadash](http://www.virtualapple.org/swordofkadashdisk.html) – disk image preservation, technical specifications

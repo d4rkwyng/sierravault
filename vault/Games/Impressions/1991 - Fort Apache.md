@@ -207,3 +207,35 @@ The game's mixed reception reflects the tensions between promising premises and 
 [^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
 [^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
 [^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information
+[[1992 - Air Bucks]]
+- [[1992 - Air Force Commander]]
+- [[1992 - Conquest of Japan]]
+- [[1992 - Discovery - In the Steps of Columbus]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[1995 - Conqueror - A.D. 1086]]
+- [[1995 - Powerhouse]]
+- [[1996 - Casino Deluxe 2]]
+- [[2002 - Emperor - Rise of the Middle Kingdom]]
+
+## References
+
+[^ref-1]: [MobyGames – Fort Apache](https://www.mobygames.com/game/71689/fort-apache/) – release dates, platforms, technical specifications, gameplay description, aggregate ratings
+[^ref-2]: [MyAbandonware – Fort Apache](https://www.myabandonware.com/game/fort-apache-7ak) – series information, premise details, HOTUD review quotes, trivia
+[^ref-3]: [Atari Legend – Fort Apache](https://www.atarilegend.com/games/fort-apache) – designer credit (Erik Casey), composer credit (Chris Denman), ST Format review score, Atari ST release date
+[^ref-4]: [Lemon Amiga – Fort Apache](https://www.lemonamiga.com/games/details.php?id=424) – Amiga technical specifications, multiple magazine review scores and details, composer credit, language support
+[^ref-5]: [Old-Games.com – Fort Apache](https://www.old-games.com/download/5253/fort-apache) – series information, development notes on AI, review quotes, trivia
+[^ref-6]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – developer confirmation, 1991 release date
+[^ref-7]: [Giant Bomb – Fort Apache](https://www.giantbomb.com/fort-apache/3030-24145/) – game wiki with platform information
+[^ref-8]: [IGDB – Fort Apache](https://www.igdb.com/games/fort-apache) – Internet Games Database entry with release info
+[^ref-9]: [GameFAQs – Fort Apache](https://gamefaqs.gamespot.com/pc/564432-fort-apache) – game database entry
+[^ref-10]: [Hall of Light – Fort Apache](https://hol.abime.net/1653) – Amiga database with technical details
+[^ref-16]: [ClassicReload – Fort Apache](https://classicreload.com/fort-apache.html) – browser emulation
+[^ref-17]: [Abandonware France – Fort Apache](https://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=2315) – French preservation site
+[^ref-18]: [Wikidata – Q5472589](https://www.wikidata.org/wiki/Q5472589) – structured game data
+[^ref-19]: [RAWG – Fort Apache](https://rawg.io/games/fort-apache) – modern game database entry
+[^ref-20]: [Moby Games – Rorke's Drift](https://www.mobygames.com/game/21587/rorkes-drift/) – series predecessor information

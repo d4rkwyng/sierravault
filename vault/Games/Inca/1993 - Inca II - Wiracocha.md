@@ -21,7 +21,7 @@ tags: [1990s, adventure, inca, sierra]
 
 ## Overview
 
-Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12][^ref-20]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12], this ambitious 1993 adventure game combined traditional point-and-click mechanics with arcade-style action sequences in an unusual blend that would prove both memorable and controversial.
+Inca II: Nations of Immortality is the sequel to Inca, the surreal space combat/adventure game with a fantasy take on Incan mythologies[^ref-12]. Developed by Coktel Vision and published by Sierra On-Line, Inc.[^ref-12], this ambitious 1993 adventure game combined traditional point-and-click mechanics with arcade-style action sequences in an unusual blend that would prove both memorable and controversial.
 
 The game followed protagonist Atahualpa, son of El Dorado, battling enemy Aguirre[^ref-12] across environments ranging from Australia to outer space[^ref-16]. Like its predecessor, Inca II featured full-motion video sequences and pre-rendered bitmaps, representing one of the early attempts to showcase CD-ROM technology's multimedia capabilities[^ref-12]. Available in both standard and limited edition formats, with the special "Série limitée" version[^ref-9] offering additional content for collectors.
 
@@ -104,7 +104,7 @@ Developed by French studio Coktel Vision[^ref-3][^ref-7], Inca II represented th
 
 ### Production
 
-The game's production involved creating extensive full-motion video sequences and pre-rendered graphics[^ref-11][^ref-12]. As an adventure game with origins in France, the title carried a distinctly European design philosophy that would prove challenging for some international audiences[^ref-17]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12]. The French development team brought their distinctive sensibility to the project, resulting in a game that felt markedly different from American adventure titles of the same era.
+The game's production involved creating extensive full-motion video sequences and pre-rendered graphics[^ref-12][^ref-11]. As an adventure game with origins in France, the title carried a distinctly European design philosophy that would prove challenging for some international audiences[^ref-17]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12]. The French development team brought their distinctive sensibility to the project, resulting in a game that felt markedly different from American adventure titles of the same era.
 
 The production also included creating multiple regional versions, including the special "Série limitée" (Limited Series) edition[^ref-9] which offered additional content for collectors and enthusiasts. This limited edition release demonstrated Sierra's commitment to the European market and their willingness to invest in localized premium versions for dedicated fans.
 
@@ -128,12 +128,6 @@ The Inca series as a whole represents an interesting footnote in Coktel Vision's
 
 Inca II stands as a fascinating example of 1990s multimedia gaming ambition, representing both the possibilities and pitfalls of early CD-ROM adventure games. Its blend of serious mythological themes with unintentionally comedic execution has secured its place in gaming history, even if not for the reasons its developers originally intended. For many players who encountered the game during the CD-ROM boom, it remains a nostalgic curiosity—a reminder of an era when developers were still discovering what the new medium could achieve, sometimes with spectacularly bizarre results.
 
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/inca-ii) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Inca+II%3A+Wiracocha+%28S%C3%A9rie+limit%C3%A9e%29) – Available for purchase
 
 ## Downloads
 

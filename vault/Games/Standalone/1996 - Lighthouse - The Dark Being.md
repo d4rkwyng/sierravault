@@ -10,7 +10,7 @@ series: Lighthouse
 engine: SCI32
 protagonist: null
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 description: 'Lighthouse: The Dark Being is a first-person adventure game developed
   and published by Sierra On-Line in 1996. The game was conceived when Sierra''s Ken...'
 tags: [1990s, adventure, lighthouse, sci, sierra]
@@ -31,6 +31,7 @@ Lighthouses seem to invoke a kind of mystery that few things do[^ref-collection]
 > **Developer:** [[Sierra On-Line]][^ref-1]
 > **Designer:** Jon Bock[^ref-2]
 > **Publisher:** Sierra On-Line[^ref-1]
+> **Engine:** SCI32[^ref-1]
 > **Engine:** SCI32[^ref-1]
 > **Platforms:** DOS, Windows, Macintosh[^ref-5]
 > **Release Year:** 1996
@@ -115,12 +116,6 @@ Lighthouse utilized Sierra's SCI (Sierra Creative Interpreter) engine and featur
 The game spans two CD-ROMs[^ref-collection], containing the vast amount of pre-rendered content needed for its six distinct regions. System requirements included a 486DX66 processor, 12 MB RAM for Windows 95 (8 MB for DOS), and a 4X CD-ROM drive with 200 MB of hard drive space[^ref-collection].
 
 One user noted the installation challenges: "I had an insane amount of trouble with the Windows install. I found it much easier just to go through DOS"[^ref-collection]. Like many later Sierra DOS SCI games, Lighthouse has known technical issues that persist to this day[^ref-collection].
-
-### Version History
-
-Documented versions referenced in source material:
-
-- **version 2.0** — see contemporaneous sources cited in this page
 
 ## Legacy
 

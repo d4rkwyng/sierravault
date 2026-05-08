@@ -25,7 +25,7 @@ Outpost is a city-building and colony management simulation game developed and p
 
 The game was designed by Bruce Balfour, a former Systems Manager at NASA's Ames Research Center, who brought authentic scientific expertise to the project[^ref-4]. Outpost was noteworthy for its hard science fiction approach, deliberately avoiding standard sci-fi technologies like faster-than-light travel, force fields, cloaking devices, or teleportation[^ref-5]. Despite receiving some of the highest review scores of 1994 upon release, the game became infamous as one of the most troubled releases in gaming history—shipped incomplete with numerous bugs, missing features, and an essentially unbeatable endgame[^ref-1].
 
-The controversy surrounding Outpost represents one of the earliest major gaming journalism scandals, as reviewers had evaluated an unfinished beta version containing features that never made it into the retail product[^ref-3]. Computer Gaming World would later name it the "Worst Game of All Time" in their 15th anniversary issue, awarding it just 20 out of 100 points[^ref-1].[^ref-21][^ref-22]
+The controversy surrounding Outpost represents one of the earliest major gaming journalism scandals, as reviewers had evaluated an unfinished beta version containing features that never made it into the retail product[^ref-3]. Computer Gaming World would later name it the "Worst Game of All Time" in their 15th anniversary issue, awarding it just 20 out of 100 points[^ref-1].[^ref-21][^ref-22][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -229,58 +229,9 @@ Modern compatibility issues are severe: "this game is too old to work on todays 
 
 ### Sales and Commercial Impact
 
-Despite its problems, Outpost appeared on PC Data's Top Ten best-selling games list for several months following release, though it ultimately underperformed expectations[^ref-1][^ref-6]. The game benefited from Sierra's strong marketing and the initial positive reviews based on the more complete beta version.
+Despite its problems, Outpost appeared on PC Data's Top Ten best-selling games list for several months following release, though it ultimately underperformed expectations[^ref-References
 
-### Awards (Negative)
-
-Outpost holds the dubious distinction of receiving multiple "worst game" awards:
-
-- **Computer Gaming World November 1996 (15th Anniversary Issue):** Worst Game of All Time[^ref-6]
-- **PC Player (Germany) Issue 01/1995:** Most Brutal Customer Stultification in 1994[^ref-6]
-- **Power Play Issue 02/1995:** Biggest Disappointment in 1994[^ref-6]
-
-### Fan Projects
-
-The Outpost series maintains an active fan community through the Outpost Universe website (outpost2.net), which provides ongoing support including forums, development tools, patches, and multiplayer coordination[^ref-19]. The community's motto is "Extinction is not an option"[^ref-19].
-
-A fan remake project called OutpostHD is under active development, described as open-source and in a playable state[^ref-8]. The project aims to recreate the original game's vision without the bugs and missing features that plagued the 1994 release.
-
-### Related Publications
-
-- **Outpost: Official Strategy Guide:** Written by Bruce Balfour, published by Prima Games (May 9, 1994)[^ref-13]. One reviewer noted: "This is much more than a strategy guide for the original Outpost, this is also very interesting reading. Bruce Balfour goes into the science behind the technologies portrayed in the game and does it with a touch of humor. This is the best strategy guide I've seen"[^ref-13].
-
-### Music Preservation
-
-The Outpost soundtrack has been preserved through archival efforts. Xeen Music released the official soundtrack recorded using authentic Roland SC-55 MIDI equipment, capturing the original audio in 16-bit/44.1kHz quality[^ref-20]. The soundtrack features compositions by Neal Grandstaff and Mark Seibert, with the Sierra Logo Fanfare by Ken Allen[^ref-20].
-
-### Critical Perspective
-
-Outpost represents one of the most significant cautionary tales in gaming history—a game that demonstrated how ambition without execution, combined with premature release, could destroy a promising concept. The controversy also highlighted emerging issues with games journalism and the practice of reviewing unfinished builds.
-
-The game's hard science fiction approach was genuinely innovative and ahead of its time. Having a NASA scientist as lead designer brought unusual authenticity to the space colonization genre. As Rock Paper Shotgun noted, it was potentially "the world's best hard sci-fi sim game"[^ref-3]—the tragedy being that this potential was never fully realized in the shipped product.
-
-The Outpost controversy presaged later industry debates about "review copies" versus retail versions, early access, and the ethics of shipping incomplete products. It remains a frequently cited example when discussing the relationship between game publishers, press, and consumers.
-
-## Downloads
-
-**Purchase / Digital Stores**
-- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
-- Not currently available on major digital platforms
-
-**Download / Preservation**
-- [MyAbandonware – Outpost](https://www.myabandonware.com/game/outpost-2vv)
-- [ClassicReload – Outpost](https://classicreload.com/outpost.html)
-
-**Manuals & Extras**
-- [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt)
-
-## See Also
-
-- [[1997 - Outpost 2 - Divided Destiny|→ Next: Outpost 2 - Divided Destiny]]
-
-## References
-
-[^ref-1]: [Grokipedia – Outpost (1994 video game)](https://grokipedia.com/page/Outpost_(1994_video_game))) – comprehensive development history, reception, sales data, patch information
+[^ref-1]: [Grokipedia – Outpost (1994 video game)](https://grokipedia.com/page/Outpost_(1994_video_game)) – comprehensive development history, reception, sales data, patch information
 [^ref-2]: [TV Tropes – Outpost](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Outpost) – plot summary, game setting, Vulcan's Hammer background
 [^ref-3]: [Rock Paper Shotgun – DOS Boot: Outpost](https://www.rockpapershotgun.com/dos-boot-outpost-was-the-best-hard-sci-fi-sim-it-also-wasnt-finished) – retrospective analysis, journalism controversy, development history
 [^ref-4]: [Internet Archive – Outpost Manual](https://archive.org/stream/Outpost_-_Manual/Outpost_-_Manual_djvu.txt) – official game manual, designer credits, gameplay instructions

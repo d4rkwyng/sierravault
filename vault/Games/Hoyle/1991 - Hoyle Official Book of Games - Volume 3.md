@@ -27,7 +27,7 @@ Hoyle Official Book of Games Volume 3, subtitled "Great Board Games," is the thi
 
 The Hoyle series took its name from Edmond Hoyle, the renowned 18th-century playing card expert whose rule books became the definitive authority on card game regulations[^ref-4]. Sierra licensed the Hoyle trademark along with Brown & Bigelow playing card trademarks to bring authenticity to their digital recreations[^ref-4]. Volume 3 continued the tradition of featuring Sierra game characters as computer opponents, allowing players to compete against familiar faces from the company's adventure game catalog while they strategized over virtual game boards[^ref-4].
 
-The collection was designed to be accessible to players of all ages, featuring adjustable difficulty levels and AI opponents that could accommodate beginners and experts alike[^ref-5]. This family-friendly approach, combined with the interactive character opponents, made the Hoyle series a popular choice for both casual gaming sessions and serious strategy practice[^ref-6]. The game represented Sierra's commitment to expanding beyond their adventure game roots into the broader family entertainment market[^ref-7].[^ref-25][^ref-26][^ref-27]
+The collection was designed to be accessible to players of all ages, featuring adjustable difficulty levels and AI opponents that could accommodate beginners and experts alike[^ref-5]. This family-friendly approach, combined with the interactive character opponents, made the Hoyle series a popular choice for both casual gaming sessions and serious strategy practice[^ref-6]. The game represented Sierra's commitment to expanding beyond their adventure game roots into the broader family entertainment market[^ref-7].[^ref-25][^ref-26][^ref-27][^ref-25][^ref-26][^ref-27]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -184,26 +184,7 @@ The series also showcased the flexibility of Sierra's SCI engine technology, pro
 
 Ken Williams himself expressed interest in extending Sierra's core technology to include multiplayer capabilities, suggesting that the social gaming experience represented by the Hoyle series aligned with the company's broader vision for interactive entertainment[^ref-24].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/hoyle-classic-games-1995) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – Hoyle Classic Games](https://archive.org/details/HOYLE)[^ref-22]
-- [MyAbandonware – Hoyle Series](https://www.myabandonware.com/search/q/Hoyle+Classic+Games)[^ref-2]
-
-**Manuals & Extras**
-- Original documentation included with game
-
-## See Also
-
-- [[1990 - Hoyle Official Book of Games - Volume 2|← Previous: Hoyle Official Book of Games - Volume 2]]
-- [[1991 - Hoyle Official Book of Games - Volume 4|→ Next: Hoyle Official Book of Games - Volume 4]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+## [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1992 - Hoyle Bridge]]
 - [[1993 - Hoyle Classic Card Games]]
 - [[1993 - Hoyle Official Book of Games - Volume 5]]

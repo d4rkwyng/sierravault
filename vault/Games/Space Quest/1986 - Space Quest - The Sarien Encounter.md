@@ -221,6 +221,11 @@ This game has been included in the following collections:
 - [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
 - [[1993 - Space Quest V - The Next Mutation]]
 - [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
+- [[1989 - Space Quest III - The Pirates of Pestulon]]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+- [[1993 - Space Quest V - The Next Mutation]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier]]
 
 ## References
 [^ref-1]: [Wikipedia – Space Quest I](https://en.wikipedia.org/wiki/Space_Quest_I) – encyclopedia article (linked in Downloads section)

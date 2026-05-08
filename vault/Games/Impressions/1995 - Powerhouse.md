@@ -96,7 +96,7 @@ The German publication **PC Games** was particularly enthusiastic, with Petra Ma
 
 ### Modern Assessment
 
-Later assessments of PowerHouse have been more critical. Home of the Underdogs described the game as having "an over-ambitious attempt to incorporate all manners of energy and a lot of economic variables" that "result in a confusing game with a weak AI, dubious economic model, and boring gameplay where random events hardly occur and nothing seems to be going on"[^ref-4][^ref-7].
+Later assessments of PowerHouse have been more critical. Home of the Underdogs described the game as having "an over-ambitious attempt to incorporate all manners of energy and a lot of economic variables" that "result in a confusing game with a weak AI, dubious economic model, and boring gameplay where random events hardly occur and nothing seems to be going on"[^ref-7][^ref-4].
 
 One retrospective noted that "PowerHouse comes close to being that game but for an inexplicable reason one of the most important and obvious ingredients is missing which knocks the game down a peg or two"[^ref-7].
 
@@ -161,7 +161,7 @@ A PowerHouse Update patch was made available through Sierra Help, though specifi
 
 ### Technical Issues
 
-Critics and players identified several issues with PowerHouse's gameplay systems[^ref-4][^ref-7]:[^ref-8]
+Critics and players identified several issues with PowerHouse's gameplay systems[^ref-7][^ref-4]:[^ref-8]
 
 - **Weak AI:** Computer-controlled competitors were not sufficiently challenging
 - **Dubious economic model:** The game's simulation of energy markets was questioned for accuracy
@@ -209,7 +209,6 @@ However, PowerHouse also demonstrates the challenges of early Windows game devel
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 - Not available for purchase; 1995 release is abandonware[^ref-4]
 
 **Download / Preservation**

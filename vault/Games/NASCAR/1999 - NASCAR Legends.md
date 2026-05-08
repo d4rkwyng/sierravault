@@ -262,3 +262,31 @@ As the only simulation covering this specific era, NASCAR Legends remains releva
 [^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 NASCAR vehicle history, aero warrior specifications, racing performance
 [^ref-15]: [Metacritic – NASCAR Legends](https://www.metacritic.com/game/nascar-legends/) – Aggregated review scores and critical reception data for the 1999 release
 
+[[1994 - NASCAR Racing]]
+- [[1996 - NASCAR Racing 2]]
+- [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
+- [[2001 - NASCAR Racing 4]]
+- [[2002 - NASCAR Racing 2002 Season]]
+- [[2003 - NASCAR Racing 2003 Season]]
+
+## References
+
+[^ref-1]: [Wikipedia – NASCAR Legends](https://en.wikipedia.org/wiki/NASCAR_Legends) – release date, engine, car configurations, track count
+[^ref-2]: [ESPN/GameSpot – NASCAR Legends Review](https://www.espn.com/vgr/pc_nascarle.html) – system requirements, score breakdown, difficulty rating
+[^ref-3]: [GameSpot – NASCAR Legends Review](https://www.gamespot.com/reviews/nascar-legends-review/1900-2543745/) – review score, driver count, car list, missing content, critical analysis
+[^ref-4]: [IGN – NASCAR Legends](https://www.ign.com/articles/2000/01/19/nascar-legends) – release date, review score, multiplayer features, Daytona licensing issues
+[^ref-5]: [GameGenie.com – NASCAR Legends Review](https://gamegenie.com/reviews/pc/nasleg.html) – retail price, system requirements, track list, rule differences, critical perspective
+[^ref-6]: [MobyGames – NASCAR Legends](https://www.mobygames.com/game/1668/nascar-legends/) – designer credit, engine details, aggregate score, track trivia
+[^ref-7]: [PriceCharting – NASCAR Legends](https://www.pricecharting.com/game/pc-games/nascar-legends) – release date, pricing data, ESRB rating, car features, identifiers
+[^ref-8]: [My Abandonware – NASCAR Legends](https://www.myabandonware.com/game/nascar-legends-dtr) – user ratings, patch version, resolution info, compatibility issues, frame rate cap
+[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – patch version, engine confirmation, publisher details
+[^ref-10]: [Steam Workshop – NASCAR Legends Mod for Wreckfest](https://steamcommunity.com/sharedfiles/filedetails/?id=1462061824) – mod statistics, features, creator credits
+[^ref-11]: [Videojuegos Fandom – NASCAR Saga](https://videojuegos.fandom.com/es/wiki/NASCAR_(saga)) – series categorization, developer attribution
+
+[^ref-12]: [Race Sim Central – Papyrus Racing Games](https://racesimcentral.net/dev/papyrus-racing-games/) – Developer history, racing simulation expertise, Papyrus analysis
+
+[^ref-13]: [Papyrus Design Group – LaunchBox Games Database](https://gamesdb.launchbox-app.com/developers/games/270-papyrus-design-group) – Developer database, game catalog, historical context
+
+[^ref-14]: [Plymouth Superbird – Wikipedia](https://en.wikipedia.org/wiki/Plymouth_Superbird) – 1970 NASCAR vehicle history, aero warrior specifications, racing performance
+
+[^ref-9]: [Old Games Download – NASCAR Legends](https://oldgamesdownload.com/nascar-legends/) – Game download, patch availability, system information

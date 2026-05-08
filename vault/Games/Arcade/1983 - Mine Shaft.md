@@ -215,4 +215,3 @@ Modern players approaching Mine Shaft should do so primarily as historical curio
 
 
 [^ref-15]: [Nerdly Pleasures – Early PC Game Miscellaneous Notability](https://nerdlypleasures.blogspot.com/2016/04/early-pc-game-miscellaneous-notablility.html) – Early Sierra arcade games, historical analysis, platform documentation
-[^ref-16]: [Internet Archive – Sierra Online Catalog 1983](https://archive.org/details/sierra-online-catalog-1983) – Original Sierra On-Line product catalog from 1983 listing Mine Shaft alongside contemporaneous releases

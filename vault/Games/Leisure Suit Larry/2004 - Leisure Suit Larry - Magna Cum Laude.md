@@ -353,7 +353,7 @@ The game's poor reception contributed to the series' dormancy until Al Lowe's re
 [^ref-21]: [GameRevolution Review](https://www.gamerevolution.com/review/32909-leisure-suit-larry-magna-cum-laude-review) – negative review, mini-game criticism
 [^ref-22]: [GameSpy Guide](http://pc.gamespy.com/pc/leisure-suit-larry-magna-cum-laude/guide/page_2.html) – mini-game descriptions, difficulty system
 [^ref-23]: [GameCritics Review](https://gamecritics.com/brad-gallaway/1622/) – Brad Gallaway review, 3.5/10
-[^ref-45]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry, Next Level Gaming scores
+[^ref-24]: [Metacritic – PS2 Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=playstation-2) – Warcry, Next Level Gaming scores
 [^ref-24]: [Metacritic – Xbox Reviews](https://www.metacritic.com/game/leisure-suit-larry-magna-cum-laude/critic-reviews/?platform=xbox) – Game Chronicles score
 [^ref-26]: [Eurogamer Review](https://www.eurogamer.net/articles/r_leisuresuitlarry_ps2) – Kristan Reed review, 7/10, technical issues
 [^ref-27]: [IGN Review](https://www.ign.com/articles/2004/10/04/leisure-suit-larry-magna-cum-laude-3) – Steve Butts review, 7.2/10, easter eggs

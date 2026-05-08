@@ -131,6 +131,11 @@ The game's influence on later Coktel Vision titles is evident in their subsequen
 - [[1988 - African Raiders-01]]
 - [[1989 - Asterix - Operation Getafix]]
 - [[1989 - ESS - European Space Simulator]]
+
+- [[1988 - 20000 Leagues Under the Sea]]
+- [[1988 - African Raiders-01]]
+- [[1989 - Asterix - Operation Getafix]]
+- [[1989 - ESS - European Space Simulator]]
 - [[1989 - Emmanuelle]]
 - [[1990 - Cougar Force]]
 - [[1990 - Geisha]]

@@ -15,7 +15,7 @@ description: Driver's Education '98 is an educational driving simulator develope
   by Dynamix and published by Sierra On-Line, with development beginning in 1997 and...
 tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 ---
-# Driver's Education '98
+## Driver's Education '98
 
 <small style="color: gray">Last updated: January 30, 2026</small>
 
@@ -23,11 +23,13 @@ tags: [1990s, educational, sierra, sierra-s-driver-s-education, simulation]
 
 <small style="color: gray">Last updated: March 8, 2026</small>
 
+<small style="color: gray">Last updated: March 8, 2026</small>
+
 Driver's Education '98 is an educational driving simulator developed by [[Dynamix]] and published by [[Sierra On-Line]], with development beginning in 1997 and retail release in early 1998[^ref-1][^ref-4][^ref-22]. The software was designed to help prepare aspiring drivers for both the written examination and practical driving test, combining interactive test preparation with a fully realized 3D virtual city featuring real-world physics.[^ref-3] It was marketed as a "two-products-in-one" package, offering both a Driving Academy for test preparation and a 3D Virtual City for hands-on driving practice.[^ref-3]
 
 The game represented one of the last titles published under Sierra's "Discovery Series" educational brand, which had previously produced various learning software throughout the 1990s.[^ref-4] Players could drive around in a virtual world accompanied by a virtual driving instructor named "Ed," who would guide them through lessons and provide feedback on their driving performance.[^ref-5] The program was notable for taking into account the specific driving laws of different U.S. states, allowing users to customize their learning experience based on their location.[^ref-4]
 
-So confident were the developers in the effectiveness of Driver's Education that it was sold with an unprecedented money-back guarantee: if users didn't pass their driving test after completing the program, they could receive a full refund.[^ref-7] This bold marketing approach underscored the educational ambitions of the software, positioning it as a serious learning tool rather than mere entertainment. Contemporary assessments praised it as "an outstanding educational program that does exactly what it sets out to do: teaches driving in a safe environment without any risk of an accident."[^ref-7][^ref-21]
+So confident were the developers in the effectiveness of Driver's Education that it was sold with an unprecedented money-back guarantee: if users didn't pass their driving test after completing the program, they could receive a full refund.[^ref-7] This bold marketing approach underscored the educational ambitions of the software, positioning it as a serious learning tool rather than mere entertainment. Contemporary assessments praised it as "an outstanding educational program that does exactly what it sets out to do: teaches driving in a safe environment without any risk of an accident."[^ref-7][^ref-21][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -261,23 +263,7 @@ The money-back guarantee remains a notable marketing decision that demonstrated 
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Driver%27s+Education+%2798) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – Driver's Education '98](https://archive.org/details/DRIVERED) – Original 1998 version[^ref-16]
-- [Old-Games.com](https://www.old-games.com/download/3272/driver-s-education-98) – Abandonware download[^ref-7]
-- [OldGamesDownload.com](https://oldgamesdownload.com/drivers-education-98/) – Alternative download source[^ref-20]
-
-**Note:** This game is not available on Steam or GOG.[^ref-19] Running on modern systems requires emulation software such as PCem or 86box.[^ref-15]
-
-## See Also
-
-- [[1998 - Grand Prix Legends]]
-- [[1998 - Sierra Sports - Bass Fishing]]
+**[[1998 - Sierra Sports - Bass Fishing]]
 - [[1998 - Sierra Sports Skiing 1999 Edition]]
 - [[1999 - Professional Bull Rider]]
 

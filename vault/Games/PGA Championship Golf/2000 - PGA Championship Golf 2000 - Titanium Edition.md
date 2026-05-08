@@ -124,11 +124,6 @@ The realistic golf swing mechanics made it a favorite among serious golf simulat
 
 PGA Championship Golf 2000 utilized official PGA Tour licensing to provide authentic tournament structures and player statistics[^ref-2]. Integration with real professional players and courses enhanced immersion and competitive realism[^ref-3].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/en/games?query=PGA+Championship+Golf+2000%3A+Titanium+Edition) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**

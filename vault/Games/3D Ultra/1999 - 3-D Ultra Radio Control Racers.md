@@ -15,6 +15,7 @@ description: 3-D Ultra Radio Control Racers, developed by Dynamix, Inc. and publ
   by Sierra On-Line in 1999, was part of Sierra's budget-friendly 3-D Ultra series...
 tags: [1990s, 3-d-ultra, racing, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Radio Control Racers
 
@@ -129,8 +130,24 @@ The game is documented in various preservation archives.[^ref-14][^ref-15][^ref-
 
 ## See Also
 
+
 - [[1999 - 3-D Ultra Pinball - Power|← Previous: 3-D Ultra Pinball - Power]]
 - [[2000 - 3-D Ultra Lionel TrainTown Deluxe|→ Next: 3-D Ultra Lionel TrainTown Deluxe]]
+
+- [[1995 - 3-D Ultra Pinball]]
+- [[1996 - 3-D Ultra Pinball - Creep Night]]
+- [[1997 - 3-D Ultra MiniGolf]]
+- [[1997 - 3-D Ultra Pinball - The Lost Continent]]
+- [[1998 - 3-D Ultra MiniGolf Deluxe]]
+- [[1998 - 3-D Ultra NASCAR Pinball]]
+- [[1999 - 3-D Ultra Cool Pool]]
+- [[1999 - 3-D Ultra Lionel TrainTown]]
+- [[2000 - 3-D Ultra Pinball - Thrill Ride]]
+- [[2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition]]
+- [[2000 - Maximum Pool]]
+- [[2006 - 3D Ultra MiniGolf Adventures]]
+- [[2007 - 3D Ultra Minigolf Adventures Deluxe]]
+- [[2010 - 3-D Ultra MiniGolf Adventures 2]]
 
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]

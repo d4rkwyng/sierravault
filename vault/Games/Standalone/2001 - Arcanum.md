@@ -12,7 +12,7 @@ protagonist: The Living One
 sierra_lineage: Sierra Published
 last_updated: '2026-02-04'
 composer: [Ben Houge]
-description: 'Arcanum: Of Steamworks & Magick Obscura is a groundbreaking role-playing
+description: 'Arcanum: Of Steamworks & Magick Obscura is a notable role-playing
   game that merges Tolkienian high fantasy with Victorian-era steampunk, creating
   a...'
 tags: [2000s, arcanum, rpg, sierra]
@@ -379,7 +379,7 @@ As one fan summarized: "At the end of the day Arcanum is one of those ever so ra
 [^ref-28]: [ComicArtFans Archive – Glenn Fabry Gallery](https://web.archive.org/web/20220905212927/https://www.comicartfans.com/galleryroom.asp?gsub=164809) – cover artist credit
 [^ref-29]: [GameSpot – Arcanum Preview](http://www.gamespot.com/pc/rpg/arcanumofsteamworksamo/preview_2571550.html) – destructible objects, lighting system
 [^ref-30]: [Sierra Help – Arcanum Help](https://sierrahelp.com/Games/ArcanumHelp.html) – system requirements, downloadable resources
-[^ref-45]: [Steam Community – UAP Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2311393823) – resolution details, Windows compatibility
+[^ref-31]: [Steam Community – UAP Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=2311393823) – resolution details, Windows compatibility
 [^ref-32]: [Steam Store – Arcanum Search](https://store.steampowered.com/search/?term=Arcanum%3A+Of+Steamworks+%26+Magick+Obscura) – Steam release date
 [^ref-33]: [ModDB – Unofficial Arcanum Patch](https://www.moddb.com/downloads/unofficial-arcanum-patch-v091225) – patch details, community quotes
 [^ref-34]: [PCGamingWiki – Arcanum](https://www.pcgamingwiki.com/wiki/Arcanum:_Of_Steamworks_&_Magick_Obscura) – technical issues, system requirements

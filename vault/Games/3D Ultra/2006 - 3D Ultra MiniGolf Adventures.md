@@ -15,6 +15,7 @@ description: 3D Ultra Minigolf Adventures is an arcade-style miniature golf vide
   game developed by Wanako Games and published by Vivendi Games under the Sierra On-Line...
 tags: [2000s, 3d-ultra-minigolf, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3D Ultra Minigolf Adventures
 
@@ -212,10 +213,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 
 ## See Also
 
-- [[2000 - Maximum Pool|← Previous: Maximum Pool]]
-- [[2007 - 3D Ultra Minigolf Adventures Deluxe|→ Next: 3D Ultra Minigolf Adventures Deluxe]]
-
-- [[1995 - 3-D Ultra Pinball]]
+[[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]
 - [[1997 - 3-D Ultra Pinball - The Lost Continent]]
@@ -233,7 +231,7 @@ The game is perhaps best remembered as a competent but unremarkable entry in the
 ## References
 
 [^ref-1]: [Wikipedia – 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – release dates, developer, publisher, gameplay mechanics, course editor features
-[^ref-2]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series))) – series history, Minigolf Maniacs origins, sequel information
+[^ref-2]: [Wikipedia – 3D Ultra Minigolf (game series)](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – series history, Minigolf Maniacs origins, sequel information
 [^ref-3]: [GameSpot – 3D Ultra Minigolf Adventures Review](https://www.gamespot.com/reviews/3d-ultra-minigolf-adventures-review/1900-6169380/) – Aaron Thomas review, gameplay criticism, course editor praise
 [^ref-4]: [Steam – 3D Ultra Minigolf Adventures](https://store.steampowered.com/app/10140/3D_Ultra_Minigolf_Adventures/) – Steam release information, user review scores, publisher
 [^ref-5]: [Gamicus – 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – power-ups list, player count, Lost Island expansion

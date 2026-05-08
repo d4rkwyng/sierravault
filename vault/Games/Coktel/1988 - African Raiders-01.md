@@ -26,7 +26,7 @@ African Raiders-01 is an arcade-style racing simulation that immerses players in
 
 Racing games were legion in the 1980s, still struggling to differentiate themselves from arcade machines, but with the progression of home computers, color graphics and a sense of speed were enough to satisfy most players[^ref-4]. African Raiders-01 represented an ambitious attempt to bring the off-road rally experience to home computers, featuring a third-person "behind the car" perspective and pseudo-3D graphics that some contemporary critics praised as technically impressive for its era[^ref-5]. The game was released across multiple platforms including DOS, Amiga, and Atari ST, with regional distribution handled by Bomico in Germany and System 4 de España in Spain[^ref-4].
 
-Despite its technical aspirations, the game received a decidedly mixed reception. While some reviewers appreciated its high-standard graphics (particularly on French systems) and straightforward approach to rally racing[^ref-6], others found the controls frustrating and the gameplay repetitive[^ref-7]. Modern retrospectives have been particularly harsh, with one critic describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].[^ref-20]
+Despite its technical aspirations, the game received a decidedly mixed reception. While some reviewers appreciated its high-standard graphics (particularly on French systems) and straightforward approach to rally racing[^ref-6], others found the controls frustrating and the gameplay repetitive[^ref-7]. Modern retrospectives have been particularly harsh, with one critic describing it as "a borderline unplayable mess of a racer with sparse, ugly graphics, terrible sound and near zero playability"[^ref-8].[^ref-20][^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Inférence[^ref-2]
@@ -216,6 +216,19 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 - [[1993 - Lost in Time]]
 - [[1995 - The Last Dynasty]]
 - [[1996 - Urban Runner]]
+- [[1989 - ESS - European Space Simulator]]
+- [[1989 - Emmanuelle]]
+- [[1989 - Legend of Djel]]
+- [[1990 - Cougar Force]]
+- [[1990 - Geisha]]
+- [[1991 - A.G.E.]]
+- [[1991 - E.S.S. Mega]]
+- [[1991 - Fascination]]
+- [[1992 - Bargon Attack]]
+- [[1992 - Ween - The Prophecy]]
+- [[1993 - Lost in Time]]
+- [[1995 - The Last Dynasty]]
+- [[1996 - Urban Runner]]
 
 ## References
 
@@ -234,3 +247,4 @@ The disparity between contemporary reviews (averaging around 58-64%) and modern 
 [^ref-14]: [OpenRetro – African Raiders-01](https://openretro.org/amiga/african-raiders-01) – critical user review, bug documentation
 [^ref-15]: [ClassicReload – African Raiders-01](https://classicreload.com/african-raiders-01.html) – platform and year confirmation
 [^ref-20]: [Video Games Museum – African Raiders-01](https://www.video-games-museum.com/en/game/African-Raiders-01/82/3/25227) – platform confirmation
+

@@ -19,9 +19,9 @@ last_updated: '2026-04-22'
 
 ## Overview
 
-**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1][^ref-13] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2][^ref-14]
+**Carcassonne** is a turn-based strategy video game developed by Sierra Online Seattle (formerly Secret Lair Studios) and published by Vivendi Games under the Sierra Online brand for Xbox Live Arcade.[^ref-1] Released on June 27, 2007, the game is a digital adaptation of Klaus-Jürgen Wrede's acclaimed tile-laying board game of the same name.[^ref-2]
 
-The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1][^ref-16] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
+The game was the second designer board game to appear on Xbox Live Arcade, following Catan, and brought the strategic tile-placement gameplay of the tabletop original to console audiences.[^ref-1] Unlike the board game predecessor, the digital version included "The River" expansion from launch.[^ref-2][^ref-6][^ref-9][^ref-11]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Seattle[^ref-1]
@@ -118,7 +118,7 @@ The original Xbox 360 version may no longer be available for purchase on the Xbo
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | N/A | Original XBLA release — marketplace listing discontinued[^ref-1][^ref-6] |
+| Xbox Marketplace | N/A | Original [[XBLA]] release — marketplace listing discontinued[^ref-1][^ref-6] |
 | Steam | [Carcassonne — Tiles & Tactics](https://store.steampowered.com/app/598810/Carcassonne__Tiles__Tactics/) | Newer PC adaptation of the same board game |
 | iOS | [App Store search — Carcassonne](https://www.apple.com/app-store/) | Asmodee Digital mobile adaptation[^ref-2] |
 | Android | [Google Play search — Carcassonne](https://play.google.com/store/search?q=carcassonne) | Asmodee Digital mobile adaptation[^ref-2] |
@@ -129,7 +129,7 @@ The original Xbox 360 XBLA version may no longer be available due to marketplace
 
 ## See Also
 
-Carcassonne sat between Sierra Online's two card-game Xbox Live Arcade releases — coming a year after [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and a year before [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] — and was the only entry in Sierra's three-game XBLA run that adapted a tile-laying strategy board game rather than a traditional card game.[^ref-2][^ref-11] All three XBLA releases were published under the Sierra Online brand during the Vivendi Games era and have since been delisted from the Xbox Marketplace.[^ref-6]
+Carcassonne sat between Sierra Online's two card-game [[XBLA|Xbox Live Arcade]] releases — coming a year after [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and a year before [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] — and was the only entry in Sierra's three-game [[XBLA]] run that adapted a tile-laying strategy board game rather than a traditional card game.[^ref-2][^ref-11] All three [[XBLA]] releases were published under the Sierra Online brand during the Vivendi Games era and have since been delisted from the Xbox Marketplace.[^ref-6]
 
 **Sierra XBLA releases (2006–2008)**
 
@@ -141,8 +141,8 @@ Carcassonne sat between Sierra Online's two card-game Xbox Live Arcade releases 
 
 ## References
 
-[^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game))) - Primary game information
-[^ref-2]: [Carcassonne board game - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game))) - Original board game reference
+[^ref-1]: [Carcassonne (video game) - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(video_game)) - Primary game information
+[^ref-2]: [Carcassonne board game - Wikipedia](https://en.wikipedia.org/wiki/Carcassonne_(board_game)) - Original board game reference
 [^ref-3]: [Carcassonne - IGN](https://www.ign.com/games/carcassonne) - IGN game page, 8/10 score
 [^ref-4]: [Carcassonne Review - IGN](https://www.ign.com/articles/2007/06/29/carcassonne-review) - Daemon Hatfield's full review
 [^ref-5]: [Carcassonne Reviews - Metacritic](https://www.metacritic.com/game/carcassonne/) - Aggregate review scores

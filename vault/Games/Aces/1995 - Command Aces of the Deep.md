@@ -161,3 +161,5 @@ Despite being released over two decades ago, the game maintains a dedicated foll
 [^ref-28]: [Metacritic](https://www.metacritic.com/game/aces-of-the-deep/) – - Voice control technology description
 [^ref-29]: [Vogons Forum](http://www.vogons.org/viewtopic.php?t=2163) – - Stability issues and compatibility problems
 [^ref-30]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/aces-of-the-deep) – - Continuing player preference and legacy status
+[^ref-19]: [Dynamix Fandom Wiki - Expansion Disk](https://dynamix.fandom.com/wiki/Aces_of_the_Deep:_Expansion_Disk) – - Type XXI submarine content and expansion features
+[^ref-6]: [Wikipedia - Command: Aces of the Deep](https://en.wikipedia.org/wiki/Aces_of_the_Deep) – - CD-ROM multimedia interviews with German U-boat commanders

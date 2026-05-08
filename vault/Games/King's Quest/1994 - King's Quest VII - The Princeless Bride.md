@@ -22,13 +22,13 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 
 ## Overview
 
-King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2][^ref-39][^ref-40] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
+King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
 
 Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon had previously written hintbooks for King's Quest and contributed to The Dagger of Amon Ra before taking primary creative control of this project.[^ref-5] As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] As Sierra marketed the game, it promised "cinema-quality animation" and "over 100 original compositions."[^ref-6]
 
 The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-7] It was also the first King's Quest that required CD-ROM distribution exclusively, unable to fit on floppy disks.[^ref-4]
 
-Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-28][^ref-29]
+Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-29][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -210,7 +210,7 @@ Significant content was cut during development:[^ref-4][^ref-21]
 
 ### Easter Eggs and Trivia
 
-The game contains numerous hidden references:[^ref-21][^ref-23][^ref-24]
+The game contains numerous hidden references:[^ref-23][^ref-24][^ref-21]
 
 - **Silence of the Lambs reference**: The rat in Dr. Cadaver's office quotes from the film
 - **Two Guys Glasses**: The Space Quest creators' signature eyewear appears in the Faux Shop
@@ -317,10 +317,10 @@ Roberta Williams addressed the mixed reception in an interview: "I never take an
 [^ref-27]: [Steam – King's Quest Collection](https://store.steampowered.com/app/10100/Kings_Quest_Collection/) – – 2006 collection release
 [^ref-28]: [InterAction Magazine Fall 1994](https://archive.org/details/InterAction_Magazine_Vol._VII_Number_1_Fall_1994) – – pre-release coverage, "most eagerly awaited sequel"
 [^ref-29]: [Coming Soon Magazine – King's Quest VII Review](http://www.csoon.com/issue2/KQVII.HTM) – – contemporary review awarding 92%, detailed breakdown of scores, technical specifications
-[^ref-40]: [Sierra Chest – King's Quest VII Music](https://www.sierrachest.com/index.php?a=games&id=7&fld=music) – – full soundtrack listing with 47 tracks
+[^ref-30]: [Sierra Chest – King's Quest VII Music](https://www.sierrachest.com/index.php?a=games&id=7&fld=music) – – full soundtrack listing with 47 tracks
 [^ref-31]: [Geocities – King's Quest VII Development History](http://www.geocities.ws/petter_holmberg/kq7dev.html) – – detailed development timeline, animation studios, traditional hand-drawn techniques, 3D inventory innovation
 [^ref-32]: [Film Stories – Epic History of King's Quest](https://filmstories.co.uk/features/once-upon-a-time-the-epic-history-of-kings-quest/) – – Mark Seibert interviews on crunch time, coordination with animation studios
-[^ref-39]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
+[^ref-30]: [Sierra Chest – King's Quest VII General](https://www.sierrachest.com/index.php?a=games&id=7) – – SCI-32 engine details, smart pointer interface, technical specifications
 [^ref-34]: [Hardcore Gaming 101 – King's Quest VII](http://www.hardcoregaming101.net/kings-quest-vii-the-princeless-bride/) – – retrospective analysis, last "true" King's Quest, pacing criticism
 [^ref-35]: [Jeuxvideo.com – King's Quest VII Review](http://www.jeuxvideo.com/articles/0001/00012191-king-s-quest-vii-the-princeless-bride-test.htm) – – French retrospective review 16/20, "interactive cartoon" assessment
 [^ref-36]: [Gaming After 40 – King's Quest VII](http://gamingafter40.blogspot.com/2011/04/adventure-of-week-kings-quest-vii.html) – – detailed playthrough analysis, chapter structure, interface changes

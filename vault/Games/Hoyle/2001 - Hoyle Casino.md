@@ -25,7 +25,7 @@ Hoyle Casino 2001, also known as Hoyle Casino 6, is the sixth installment in Sie
 
 As a spin-off of the classic Hoyle's Official Book of Games series, Hoyle Casino 2001 allowed players to create custom profiles and receive virtual money to wager across fourteen different casino games with over four hundred combinations[^ref-1][^ref-2]. The game featured 25 default characters to choose from and was set in a fully-realized virtual Las Vegas casino environment[^ref-2]. This edition introduced two new games not seen in previous releases—Baccarat and Video Blackjack—along with an improved tournament mode and a bonus version of video poker designed for Palm OS devices[^ref-1].
 
-The game proved commercially successful, contributing to the Hoyle Casino series selling 230,365 units and earning $6.15 million from January through October 2000 in North America alone[^ref-2]. During the week of February 11-17, 2001, Hoyle Casino 2001 reached fifth place on PC Data's best-selling games chart, demonstrating its sustained popularity months after release[^ref-3].[^ref-12][^ref-13][^ref-14]
+The game proved commercially successful, contributing to the Hoyle Casino series selling 230,365 units and earning $6.15 million from January through October 2000 in North America alone[^ref-2]. During the week of February 11-17, 2001, Hoyle Casino 2001 reached fifth place on PC Data's best-selling games chart, demonstrating its sustained popularity months after release[^ref-3].[^ref-12][^ref-13][^ref-14][^ref-12][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-4]
@@ -214,10 +214,7 @@ However, the game's technical issues and eventual obsolescence highlight the cha
 
 ## See Also
 
-- [[2001 - Hoyle Board Games|← Previous: Hoyle Board Games]]
-- [[2001 - Hoyle Kids Games|→ Next: Hoyle Kids Games]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+[[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]

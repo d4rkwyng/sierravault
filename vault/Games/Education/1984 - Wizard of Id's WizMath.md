@@ -33,6 +33,7 @@ As a licensed title, WizMath holds the distinction of being the second game to f
 > **Designer:** Jewell Couch, Rick Banks, Steve Armstrong[^ref-2]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** 6502/Z80 Assembly[^ref-2]
+> **Engine:** 6502/Z80 Assembly[^ref-2]
 > **Composer:** Paul Butler[^ref-2]
 > **Platforms:** ColecoVision, Commodore 64, Apple II[^ref-2]
 > **Release Year:** 1984[^ref-1]
@@ -191,13 +192,20 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 - [ColecoVision Addict](https://cvaddict.com/profile.php?gameid=137) – Game profile and ROM information[^ref-4]
 
 ## See Also
-
 - [[1982 - Alphabet Blocks]]
 - [[1982 - Bop-A-Bet]]
 - [[1983 - Early Math]]
 - [[1983 - Learning with Leeper]]
 - [[1984 - Learning with FuzzyWOMP]]
 - [[1984 - Wizard of Id's WizType]]
+- [[1992 - Ready, Set, Read with Bananas & Jack]]
+- [[1993 - Kids' Typing
+
+- [[1982 - Alphabet Blocks]]
+- [[1982 - Bop-A-Bet]]
+- [[1983 - Early Math]]
+- [[1983 - Learning with Leeper]]
+]]
 - [[1992 - Ready, Set, Read with Bananas & Jack]]
 - [[1993 - Kids' Typing]]
 
@@ -218,3 +226,4 @@ Modern players may find WizMath most interesting as a historical curiosity—a s
 [^ref-13]: [Retrolorean – Wizard of Id's WizMath](https://www.retrolorean.com/en/wizard-of-ids-wizmath-11081) – game database entry
 [^ref-14]: [GameFAQs – Wizard of Id's WizMath](https://gamefaqs.gamespot.com/colecovision/579499-wizard-of-ids-wizmath) – ColecoVision game database
 [^ref-15]: [AtariAge – ColecoVision Games](https://atariage.com/software_page.php?SystemID=COLECOVISION) – ColecoVision software catalog
+

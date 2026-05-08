@@ -23,7 +23,7 @@ tags: [1990s, aces-series, sierra, simulation]
 
 Aces of the Pacific is a World War II combat flight simulator developed by Dynamix and published by Sierra On-Line in 1992[^ref-1]. Created by renowned flight sim designer Damon Slye, the game transports players to the Pacific Theater of World War II, where they can experience aerial combat from December 7, 1941, through the end of the war[^ref-2]. The game allows players to fly for either the Allied or Japanese forces, featuring over 25 meticulously researched vintage aircraft including the A6M Zero, F4U Corsair, F6F Hellcat, and P-47 Thunderbolt[^ref-2].
 
-Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroshi Nishizawa, and America's highest-ranking ace Richard Bong[^ref-2]. The game's success led Dynamix to create the acclaimed follow-up Aces Over Europe in 1993[^ref-3], establishing what would become one of the most respected flight simulation franchises of the era.[^ref-20][^ref-27][^ref-28]
+Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans the entire Pacific theater with "mighty 'floating airfields' carrying the battle out across the seas"[^ref-1]. Players can engage with legendary aces such as Greg "Pappy" Boyington, Hiroshi Nishizawa, and America's highest-ranking ace Richard Bong[^ref-2]. The game's success led Dynamix to create the acclaimed follow-up Aces Over Europe in 1993[^ref-3], establishing what would become one of the most respected flight simulation franchises of the era.[^ref-20][^ref-27][^ref-28][^ref-20][^ref-27][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Damon Slye]][^ref-4]
@@ -33,6 +33,7 @@ Set against the backdrop of Pearl Harbor's aftermath, Aces of the Pacific spans 
 > **Platforms:** Amiga, DOS, IBM PC, IBM/MS-DOS, MS-DOS, PC[^ref-7]
 > **Release Year:** 1992
 > **Series:** Aces Series
+> **Protagonist:** WWII Pacific Theater Pilot
 > **Protagonist:** WWII Pacific Theater Pilot
 > **Sierra Lineage:** Core Sierra
 
@@ -112,11 +113,6 @@ Version 1.2 included significant upgrades and all-new features, while the WWII: 
 | WWII: 1946 | 1994 | Expansion with alternate history scenarios[^ref-22] |
 
 The Sierra Chest archives provide extensive documentation of the game's various releases, including promotional materials[^ref-23][^ref-24] and collectible memorabilia[^ref-25].
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – Available for purchase
 
 ## Downloads
 

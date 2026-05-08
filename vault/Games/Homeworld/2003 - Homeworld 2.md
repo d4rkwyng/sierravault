@@ -26,7 +26,7 @@ Homeworld 2 is a fully three-dimensional real-time strategy game set in the dept
 
 The game distinguished itself through its groundbreaking three-dimensional gameplay, allowing players to command massive space fleets across all axes of movement with unprecedented freedom[^ref-4]. Unlike traditional RTS games confined to flat battlefields, Homeworld 2 enabled truly spatial combat where units could maneuver through 360 degrees of rotation and engage enemies from any direction[^ref-5]. Critics praised its cinematic-quality graphics, stunning special effects, and innovative interface that created an immersive 3D experience unlike anything else in the strategy genre[^ref-6].
 
-Despite receiving critical acclaim for its lavish graphics and atmospheric presentation, Homeworld 2 did not achieve the same commercial success or critical consensus as its predecessor[^ref-2]. Sierra Entertainment did not widely publicize the game, and it was not a major financial success[^ref-7]. Nevertheless, the game earned a nomination for Computer Strategy Game of the Year at the 7th Annual Interactive Achievement Awards and maintained a dedicated fanbase that continued to create modifications and content for years after release[^ref-8].[^ref-47]
+Despite receiving critical acclaim for its lavish graphics and atmospheric presentation, Homeworld 2 did not achieve the same commercial success or critical consensus as its predecessor[^ref-2]. Sierra Entertainment did not widely publicize the game, and it was not a major financial success[^ref-7]. Nevertheless, the game earned a nomination for Computer Strategy Game of the Year at the 7th Annual Interactive Achievement Awards and maintained a dedicated fanbase that continued to create modifications and content for years after release[^ref-8].[^ref-47][^ref-47]
 
 > [!info]- Game Info
 > **Developer:** [[Relic Entertainment]][^ref-1]
@@ -227,58 +227,7 @@ Voice recording for the original game was produced at Studio X Labs, with Campbe
 
 Despite critical praise, Homeworld 2 achieved only modest commercial performance upon its 2003 release, falling short of major financial success due to limited promotion by publisher Sierra Entertainment[^ref-12]. The game leveraged the fanbase established by the original Homeworld but did not significantly expand it[^ref-12]. Approximately 1.2 million units were sold on Steam for the 2015 remastered edition, indicating sustained interest over time[^ref-12].
 
-The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-12][^ref-40].
-
-### Collections
-
-The Homeworld Remastered Collection was released on February 25, 2015, including both the original Homeworld and Homeworld 2 in remastered form, plus the original "Classic" versions[^ref-35]. The collection featured high-resolution textures and models, latest graphics-rendering technology, remastered musical score, and new voice recordings from the original cast[^ref-35]. Gearbox priced it at $34.99 on Steam with a 15% pre-order discount[^ref-35].
-
-Rob Cunningham, co-founder of Relic Entertainment and original art director of Homeworld, praised the remaster: "It is a very special and rare thing to see a project so close to your heart not only get re-released, but remastered with such loving care and attention"[^ref-35]. The collection supported HD, UHD, and 4K resolutions with up to 8-player multiplayer across 23 maps[^ref-41].
-
-### Fan Projects
-
-Homeworld 2's robust modding tools—including the RDN Modkit released by Relic—enabled an extensive modding community that produced content for years after release[^ref-42]. The Dynamic Deathmatch Mod, rated 9.5/10 on ModDB, added numerous multiplayer gameplay options including strategic points, bounties, RU injections, fog of war options, mercenary ships, and hyperspace gates[^ref-43].
-
-The modding community continued to thrive through the Remastered Collection, with Gearbox announcing tools for modders and Steam Workshop support[^ref-38]. Developers stated: "We will have the capacity to do more than it was possible in HW2"[^ref-38].
-
-### Awards
-
-- **7th Annual Interactive Achievement Awards (2004):** Nominated for Computer Strategy Game of the Year[^ref-8]
-
-### Related Publications
-
-- **68-Page Game Manual:** Detailed guide through interface and gameplay, featuring 17 pages of ship guides with tactics for each race. Available both as PDF on CD and printed, depending on edition[^ref-15]
-- **Prima Official eGuide:** Comprehensive strategy guide published by Prima Games[^ref-44]
-- **Multiple Community FAQs and Walkthroughs:** Including guides hosted on GameFAQs, Neoseeker, and dedicated fan sites[^ref-16][^ref-18]
-
-### Critical Perspective
-
-Homeworld 2 occupies a complex position in gaming history. While it expanded upon the technical achievements of its notable predecessor and delivered some of the most visually stunning space battles ever seen in a video game, it struggled to recapture the emotional resonance that made the original Homeworld a landmark title. The shift toward a more mystical narrative, combined with controversial design decisions like the dynamic difficulty system, created a sequel that was undeniably impressive but perhaps lacked the soul of its predecessor.
-
-Relic Entertainment's Jonny Ebbert later reflected on the franchise's importance: "Homeworld's always been dear to our heart; it's what put us on the map, it was our first product, and I think it will always have a special place in our hearts"[^ref-45]. The game remains significant as a technical and artistic achievement in the RTS genre, and its legacy continued through the Remastered Collection and eventually Homeworld 3, released in 2024 by Blackbird Interactive—a studio founded by veterans of the original Relic team[^ref-46].
-
-As one passionate advocate wrote: "I believe it to be the greatest RTS of all time if not also one of greatest games of all time... HW is the GOAT RTS franchise because it is the only RTS that has ever been able to execute true 3D z-axis movement with mastery"[^ref-26]. Whether one agrees with that assessment or finds the sequel falling short of the original's brilliance, Homeworld 2 undeniably represents a singular achievement in real-time strategy gaming that has never been truly replicated.
-
-## Downloads
-
-**Purchase / Digital Stores**
-- [GOG – Homeworld Remastered Collection](https://www.gog.com/en/game/homeworld_remastered_collection)
-- [Steam – Homeworld Remastered Collection](https://store.steampowered.com/app/244160/Homeworld_Remastered_Collection/)
-
-**Download / Preservation**
-- [Internet Archive – Homeworld 2](https://archive.org/details/homeworld-2)
-- [Internet Archive – Homeworld 2 USA](https://archive.org/details/Homeworld2USA)
-
-**Patches & Manuals**
-- [Homeworld 2 Patch v1.1 – PCGamingWiki](https://community.pcgamingwiki.com/files/file/102-homeworld-2-patch/)
-- [Homeworld 2 Manual PDF – ModDB](https://www.moddb.com/games/homeworld-2/downloads/homeworld2-manual-pdf)
-
-## See Also
-
-- [[2000 - Homeworld - Cataclysm|← Previous: Homeworld - Cataclysm]]
-- [[2015 - Homeworld Remastered Collection|→ Next: Homeworld Remastered Collection]]
-
-- [[1999 - Homeworld]]
+The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-[[1999 - Homeworld]]
 - [[2016 - Homeworld - Deserts of Kharak]]
 - [[2024 - Homeworld 3]]
 

@@ -80,7 +80,7 @@ Rock music videos serve as more than atmospheric elements—they contain actual 
 
 Philip Jong of Adventure Classic Gaming awarded the game 3 out of 5 stars, praising it as "an interesting and immersing horror adventure, backed by rock music mixed with Native American history"[^ref-5]. However, Next Generation was less enthusiastic, arguing "It might be the best puzzle game of its type, but it's still just a puzzle game that involves lots of mouse-clicking and leaps of logic to uncover its ancient mystery"[^ref-18].
 
-GameSpot's Kevin Hunsanger provided a more positive assessment with an 8.7/10 score, noting that "The plot in Shivers II is hauntingly intelligent"[^ref-19]. The game received a mixed critical average of 72% according to multiple review aggregators[^ref-21][^ref-70].
+GameSpot's Kevin Hunsanger provided a more positive assessment with an 8.7/10 score, noting that "The plot in Shivers II is hauntingly intelligent"[^ref-19]. The game received a mixed critical average of 72% according to multiple review aggregators[^ref-70][^ref-21].
 
 ### Modern Assessment
 
@@ -133,12 +133,6 @@ Shivers Two represents one of Sierra's final successful entries in the supernatu
 The soundtrack has maintained a cult following, with fans particularly appreciating the seven-song Trip Cyclone album included on the second disc[^ref-3]. The fictional band's music videos serve as an early example of integrating multimedia content as essential gameplay elements rather than mere atmospheric enhancement[^ref-6]. One GOG wishlist commenter enthused: "Shivers 2 has an awesome soundtrack and is an amazing game where you can get lost in the town of Cyclone. Not many games can do that"[^ref-29]. The complete soundtrack and composer credits are preserved in the VGMdb database, documenting Guy Whitmore's contributions alongside the Trip Cyclone recordings[^ref-28].
 
 Despite technical obsolescence, the game continues to attract interest from retro gaming enthusiasts. A strong community demand exists for a modern digital release, as evidenced by GOG.com wishlist requests[^ref-29]. Community modders have created unofficial installers to address compatibility issues with modern 64-bit operating systems[^ref-23]. One reviewer from Old-Games.com concluded that "Sierra has struck just the right chord between rewarding puzzle gaming, detective adventuring and plot"[^ref-65], while another warned that "this game is not an easy romp through a theme park"[^ref-65].
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/shivers-2-harvest-of-souls) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Shivers+Two%3A+Harvest+of+Souls) – Available for purchase
 
 ## Downloads
 

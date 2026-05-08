@@ -125,11 +125,6 @@ The game featured historically accurate battle scenarios with proper unit types 
 
 Historical accuracy in unit representation enhanced educational value for history enthusiasts[^ref-2].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/robert-e-lee-civil-war-general-1996) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**

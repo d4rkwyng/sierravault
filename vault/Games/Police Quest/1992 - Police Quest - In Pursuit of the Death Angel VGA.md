@@ -75,7 +75,7 @@ Failure to follow proper procedure results in penalties ranging from point deduc
 - Properly securing weapons and evidence[^ref-3]
 - Following correct traffic stop procedures[^ref-20]
 
-The game includes a poker mini-game that requires winning to progress through certain story beats.[^ref-19] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-10]
+The game includes a poker mini-game that requires winning to progress through certain story beats.[^ref-19] The game also features multiple solutions to some situations, providing replay value for players who want to explore different approaches.[^ref-010]
 
 ## Reception
 
@@ -83,7 +83,7 @@ The game includes a poker mini-game that requires winning to progress through ce
 
 The original 1987 release received generally positive reviews that carried through to the remake's reception. Computer Gaming World's Michael S. Chaut praised some of the graphics as "the most terrific this reviewer has ever seen."[^ref-22] Antic magazine's Rick Teverbaugh noted that "there is a strong sense of actually becoming the cop on the beat," praising the game as "well-drawn, colorful and fun to play--or just to watch being played."[^ref-23]
 
-The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-10] Atari ST User awarded Police Quest II 9/10, calling it "excellent in every respect — the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-24]
+The Games Machine UK gave the original a positive assessment, stating that "the parser can deal with most likely inputs, and interaction is very good," though noting that "the car is tricky to control at first and the sound lets the game down slightly."[^ref-010] Atari ST User awarded Police Quest II 9/10, calling it "excellent in every respect — the graphics, plot, detail, humour and story telling are of first rate quality."[^ref-24]
 
 Not all reviews were uncritical. Macworld's Keith McCandless observed that the game "plays like a long version of a routine cop TV show, and you can't lose if you just follow the manual. The game begs for a challenging mystery."[^ref-22] Contemporary reviews were generally "positive about the game's graphics but were critical of the easy puzzles which revolved around following the police procedures manual bundled with the game."[^ref-25]
 
@@ -272,12 +272,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 
 ## See Also
 
-- [[1987 - Police Quest - In Pursuit of the Death Angel]]
-- [[1988 - Police Quest II - The Vengeance]]
-- [[1991 - Police Quest III - The Kindred]]
-- [[1993 - Police Quest - Open Season]]
-
-## References
+- [[1987 References
 
 [^ref-1]: [MobyGames – Police Quest: In Pursuit of the Death Angel (VGA)](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/) – release info, credits, ratings, Gazette trivia
 [^ref-2]: [IMDB – Police Quest (1992)](https://www.imdb.com/title/tt0289400/) – ratings, SCI technology details, character replacement trivia
@@ -288,7 +283,7 @@ The VGA remake stands as both a technical achievement and a historical artifact,
 [^ref-7]: [MobyGames – User Review by Katakis](https://www.mobygames.com/game/2031/police-quest-in-pursuit-of-the-death-angel/reviews/) – remake assessment, cut content, non-canonical status
 [^ref-8]: [My Abandonware – Police Quest VGA](https://www.myabandonware.com/game/police-quest-in-pursuit-of-the-death-angel-328) – designer credits
 [^ref-9]: [PCGamingWiki – Police Quest](https://www.pcgamingwiki.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel) – engine info, system requirements, GOG release date
-[^ref-42]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1) – career progression, platform availability
+[^ref-10]: [Abandonware DOS – Police Quest](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Police+Quest+1) – career progression, platform availability
 [^ref-11]: [Police Quest Fandom Wiki – AGI DOS Version](https://policequest.fandom.com/wiki/Police_Quest:_In_Pursuit_of_the_Death_Angel_(AGI_DOS/Tandy)) – drug crisis plot, training publication quotes
 [^ref-12]: [Walkthroughking – Police Quest](https://www.walkthroughking.com/text/policequest.aspx) – plot details, series overview
 [^ref-13]: [Nerds That Geek – Review](https://nerdsthatgeek.com/gaming/nerds-that-geek-game-review-police-quest-in-pursuit-of-the-death-angel) – emotional story elements

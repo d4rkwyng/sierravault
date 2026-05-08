@@ -25,7 +25,7 @@ tags: [adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 The cancellation of Leisure Suit Larry 8 marked a significant turning point for both the series and Sierra Entertainment as a company. The project fell victim to the corporate upheaval that followed the acquisition of Sierra by CUC International, which left the company's management in turmoil.[^ref-3] Al Lowe himself has spoken about the situation, noting that "Sierra management was in turmoil after Ken and Roberta got bought out by CUC. The new management tried to get me to design my next game without a contract, saying 'we'll work it out later.'"[^ref-3]
 
-Despite never reaching full production, Leisure Suit Larry 8 holds a unique place in gaming history as one of the casualties of Sierra's declining adventure game division. Only very early test renders survive from the development period, representing a tantalizing glimpse of what might have been the next chapter in Larry Laffer's comedic adventures.[^ref-1] Shortly after the cancellation, Sierra's adventure games department was disbanded entirely, and Al Lowe departed the company on February 22, 1999.[^ref-1][^ref-14][^ref-15][^ref-16]
+Despite never reaching full production, Leisure Suit Larry 8 holds a unique place in gaming history as one of the casualties of Sierra's declining adventure game division. Only very early test renders survive from the development period, representing a tantalizing glimpse of what might have been the next chapter in Larry Laffer's comedic adventures.[^ref-1] Shortly after the cancellation, Sierra's adventure games department was disbanded entirely, and Al Lowe departed the company on February 22, 1999.[^ref-1][^ref-14][^ref-15][^ref-16][^ref-14][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -169,25 +169,7 @@ The Larry series would eventually return, but never with Al Lowe's direct involv
 
 The series has sold over 10 million copies as of 2011, and Sierra co-founder Ken Williams has described Leisure Suit Larry as the company's best-known franchise.[^ref-12] This commercial success makes the cancellation of Al Lowe's planned eighth installment all the more poignant, representing a missed opportunity for the original creator to continue evolving his most famous creation.
 
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Not available (game was never released)
-
-**Preservation Resources**
-- [Unseen64 – Leisure Suit Larry 8](https://www.unseen64.net/2009/10/25/leisure-suit-larry-8-pc-cancelled/) – Cancelled game documentation
-
-**Historical Materials**
-- [Larry Laffer Dot Net – Test Video](http://larrylaffer.net/exxxtras/larry-game-materials/the-promo-demo-videos) – Preserved development video
-
-## See Also
-
-- [[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
+[[1987 - Leisure Suit Larry in the Land of the Lounge Lizards]]
 - [[1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places)]]
 - [[1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals]]
 - [[1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work]]

@@ -25,15 +25,13 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 > [!abstract] Flagship Series
 > The adventures that defined a generation:
 >
-> | Series | Games | Creator | Description |
-> |--------|-------|---------|-------------|
-> | [[King's Quest Series|King's Quest]] | 10 | Roberta Williams | Fairy tale adventures in the kingdom of Daventry |
-> | [[Space Quest Series|Space Quest]] | 7 | Two Guys from Andromeda | Sci-fi comedy with janitor hero Roger Wilco |
-> | [[Leisure Suit Larry Series|Leisure Suit Larry]] | 9 | Al Lowe | Adult comedy following Larry Laffer's misadventures |
-> | [[Quest for Glory Series|Quest for Glory]] | 5 | Lori & Corey Cole | RPG-adventure hybrid with character classes |
-> | [[Police Quest Series|Police Quest]] | 6 | Jim Walls / Daryl Gates | Realistic police procedural simulations |
-> | [[Gabriel Knight Series|Gabriel Knight]] | 4 | Jane Jensen | Supernatural mystery and horror |
-> | [[Laura Bow Series|Laura Bow]] | 2 | Roberta Williams | Murder mystery whodunits |
+> - [[King's Quest Series|King's Quest]] — Games: 10, Creator: Roberta Williams, Description: Fairy tale adventures in the kingdom of Daventry
+> - [[Space Quest Series|Space Quest]] — Games: 7, Creator: Two Guys from Andromeda, Description: Sci-fi comedy with janitor hero Roger Wilco
+> - [[Leisure Suit Larry Series|Leisure Suit Larry]] — Games: 9, Creator: Al Lowe, Description: Adult comedy following Larry Laffer's misadventures
+> - [[Quest for Glory Series|Quest for Glory]] — Games: 5, Creator: Lori & Corey Cole, Description: RPG-adventure hybrid with character classes
+> - [[Police Quest Series|Police Quest]] — Games: 6, Creator: Jim Walls / Daryl Gates, Description: Realistic police procedural simulations
+> - [[Gabriel Knight Series|Gabriel Knight]] — Games: 4, Creator: Jane Jensen, Description: Supernatural mystery and horror
+> - [[Laura Bow Series|Laura Bow]] — Games: 2, Creator: Roberta Williams, Description: Murder mystery whodunits
 
 > [!example] Sierra Hidden Gems
 > Adventures beyond the flagships:
@@ -74,30 +72,20 @@ From the parser-driven adventures of the 1980s through the multimedia extravagan
 *See [[News & Updates]] for further detail on releases and project updates.*
 
 > [!success] Recent Releases & Updates
-> | Date | Project | Team | Status |
-> |------|---------|------|--------|
-> | Feb 2026 | [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] | Pierre Gilhodes | Released (itch.io Feb 10, Steam Feb 13) |
-> | Jan 2026 | [[2025 - SCP Sierra Conversion Project|SCP Amiga Remasters]] | DaRaSCo & kikems | SQ4, KQ5, PQ3 released |
-> | Dec 2025 | [[2022 - SpaceVenture|SpaceVenture v2]] | Two Guys from Andromeda | Released |
-> | Nov 2025 | [[2021 - King's Quest IV Retold|KQ4 Retold VGA + Talkie]] | Magic Quest Entertainment | Voice acting added |
-> | Jul 2024 | [[2001 - King's Quest I VGA Remake|KQ1 VGA v4.2 RC1]] | AGD Interactive | Engine upgrade, modern OS compatibility |
-> | May 2024 | [[2024 - Homeworld 3|Homeworld 3]] | Blackbird Interactive | Released |
-> | Mar 2024 | [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] | Prophecy Games | Released |
-> | Aug 2023 | [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] | Lori & Corey Cole | Released |
-> | Jun 2023 | [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] | Pierre Gilhodes | Released |
-> | Feb 2023 | [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] | Triskell Interactive | Released |
-> | Jan 2023 | [[2023 - Colossal Cave 3D Adventure|Colossal Cave]] | Ken & Roberta Williams | Released |
+> - **Feb 2026** — [[2026 - Gobliins 6|Gobliins 6: The Madmen of the Year 1000]] — Team: Pierre Gilhodes, Status: Released (itch.io Feb 10, Steam Feb 13)
+> - **Jan 2026** — [[2025 - SCP Sierra Conversion Project|SCP Amiga Remasters]] — Team: DaRaSCo & kikems, Status: SQ4, KQ5, PQ3 released
+> - **Dec 2025** — [[2022 - SpaceVenture|SpaceVenture v2]] — Team: Two Guys from Andromeda, Status: Released
+> - **Nov 2025** — [[2021 - King's Quest IV Retold|KQ4 Retold VGA + Talkie]] — Team: Magic Quest Entertainment, Status: Voice acting added
+> - **Jul 2024** — [[2001 - King's Quest I VGA Remake|KQ1 VGA v4.2 RC1]] — Team: AGD Interactive, Status: Engine upgrade, modern OS compatibility
+> - **May 2024** — [[2024 - Homeworld 3|Homeworld 3]] — Team: Blackbird Interactive, Status: Released
+> - **Mar 2024** — [[2024 - Tribes 3 - Rivals|Tribes 3: Rivals]] — Team: Prophecy Games, Status: Released
+> - **Aug 2023** — [[2023 - Summer Daze - Tilly's Tale|Summer Daze: Tilly's Tale]] — Team: Lori & Corey Cole, Status: Released
+> - **Jun 2023** — [[2023 - Gobliiins 5 - The Morgloton Invasion|Gobliiins 5]] — Team: Pierre Gilhodes, Status: Released
+> - **Feb 2023** — [[2023 - Pharaoh - A New Era|Pharaoh: A New Era]] — Team: Triskell Interactive, Status: Released
+> - **Jan 2023** — [[2023 - Colossal Cave 3D Adventure|Colossal Cave]] — Team: Ken & Roberta Williams, Status: Released
 
 > [!note] In Development
-> | Project | Team | Status |
-> |---------|------|--------|
-> | [[TBD - Quest for Infamy - Roehm to Ruin|Quest for Infamy: Roehm to Ruin]] | Infamous Quests | Voice recording final phase |
-> | [[2025 - SCP Sierra Conversion Project|SCP Conquests of the Longbow]] | DaRaSCo & kikems | ~90% complete |
-> | [[TBD - King's Quest IV Remake (Infamous Adventures)|King's Quest IV Remake]] | Infamous Adventures | Active development |
-> | [[2025 - SCP Sierra Conversion Project|SCP Space Quest IV Full Remaster]] | DaRaSCo & kikems | ~75% complete |
-> | [[TBD - Order of the Thorne - Fortress of Fire|Order of the Thorne: Fortress of Fire]] | Infamous Quests | On hold — ~75% complete |
-> | [[TBD - Gabriel Knight 4 - Five Hearts|Gabriel Knight 4: Five Hearts]] | Jane Jensen | Awaiting MS approval |
-> | Hero-U Sequel | Corey & Lori Cole | Seeking funding |
+> - Hero-U Sequel — Corey & Lori Cole — Seeking funding
 
 ---
 

@@ -33,9 +33,11 @@ The game featured six playable civilizations—Greeks, Egyptians, Indians, Mesop
 > **Designer:** Gregor Koomey[^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Impressions City Builder[^ref-1]
+> **Engine:** Impressions City Builder[^ref-1]
 > **Composer:** Keith Zizza[^ref-1]
 > **Platforms:** Microsoft Windows, Windows 3.x[^ref-7]
-> **Release Year:** 1996
+> **Release Year:** Standalone
+> **Protagonist:** Empire Ruler (player-named)
 > **Series:** Standalone
 > **Protagonist:** Empire Ruler (player-named)
 > **Sierra Lineage:** Sierra Published
@@ -215,3 +217,4 @@ From a development perspective, the game is notable as an example of Impressions
 [^ref-20]: [KHInsider](https://downloads.khinsider.com/game-soundtracks/album/rise-and-rule-of-ancient-empires) – soundtrack information
 [^ref-21]: [MobyGames – Release Info](https://www.mobygames.com/game/rise-rule-of-ancient-empires/release-info) – regional release dates
 [^ref-22]: [Reddit DOSBox Community](https://www.reddit.com/r/dosbox/comments/pwrub8/how_do_i_play_run_rise_and_rule_on_dos_box/) – emulation configuration recommendations
+

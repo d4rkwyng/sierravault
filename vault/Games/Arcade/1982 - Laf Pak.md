@@ -44,7 +44,7 @@ Laf Pak does not feature a continuous narrative, as it is a compilation of four 
 
 **Creepy Corridors** places the player in a maze-like environment where they must navigate through dangerous passages while avoiding monsters and other hazards[^ref-7]. The game's atmosphere is enhanced by its notable sampled speech feature, which adds an auditory element to the player's demise[^ref-7].
 
-**Apple Zap** offers another action-oriented experience, challenging players with fast-paced gameplay requiring quick reflexes[^ref-3]. **Space Race** delivers a competitive racing experience set in outer space, while **Mine Sweep** tasks players with navigating through hazardous terrain filled with explosive obstacles[^ref-4].
+**Apple Zap** offers another action-oriented experience, challenging players with fast-paced gameplay requiring quick reflexes[^ref-3]. **Space Race** delivers a competitive racing experience set in outer space, while **Mine Sweep** tasks players with navigating through hazardous terrain filled with explosive obstacles.
 
 The simplicity of these games was characteristic of the era, when home computer games were often inspired by or directly cloning popular arcade titles. Each game could be enjoyed in short sessions, making the compilation ideal for casual play[^ref-3].
 
@@ -204,7 +204,25 @@ The technical innovation of sampled speech in Creepy Corridors, while largely fo
 
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
+- [[1981 - Gobble
+- [[1981 - Crossfire]]
+- [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Sabotage]]
+- [[1981 - Threshold]]
+- [[1982 - Cannonball Blitz]]
+- [[1982 - Creepy Corridors]]
+- [[1982 - Dragon's Keep]]
+- [[1982 - Lunar Leeper]]
+- [[1982 - Marauder]]
+- [[1982 - Mouskattack]]
+- [[1982 - Pest Patrol]]
+- [[1983 - Apple Cider Spider]]
+- [[1983 - Aquatron]]
+- [[1983 - Mine Shaft]]
+- [[1983 - Mr. Cool]]
+- [[1983 - Sammy Lightfoot]]
+- [[1983 - WallWar]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]

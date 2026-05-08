@@ -193,12 +193,6 @@ Original Sierra marketing materials preserved in the Wayback Machine showcase th
 
 The game has 218 votes on GOG's Dreamlist requesting its release[^ref-41]. One supporter asked: "I'm quite surprised that a Dr. Brain game would even be on the Dreamlist. The series should all be on GOG already!"[^ref-41]
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/the-time-warp-of-dr-brain-1996) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=The+Time+Warp+of+Dr.+Brain) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**

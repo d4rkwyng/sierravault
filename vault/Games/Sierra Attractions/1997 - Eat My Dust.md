@@ -31,10 +31,13 @@ The racing market of the mid-1990s was dominated by console kart racers, particu
 > [!info]- Game Info
 > **Developer:** Funnybone Interactive / Van Duyne Engineering[^ref-1][^ref-16]
 > **Designer:** Van Duyne Engineering[^ref-16]
+> **Designer:** Van Duyne Engineering[^ref-16]
 > **Publisher:** [[Sierra On-Line]][^ref-1]
 > **Engine:** Funnybone Racing Engine[^ref-1]
 > **Platforms:** Windows, Windows 95[^ref-6]
 > **Release Year:** 1997
+> **Series:** Sierra Attractions
+> **Protagonist:** Racing Driver
 > **Series:** Sierra Attractions
 > **Protagonist:** Racing Driver
 > **Sierra Lineage:** Core Sierra
@@ -105,7 +108,7 @@ Eat My Dust has largely been forgotten in gaming history, serving primarily as a
 The kart racing genre remained dominated by console platforms, particularly Nintendo's Mario Kart series, making it difficult for PC-based competitors to establish a foothold[^ref-15]. Eat My Dust's technical limitations and design shortcomings prevented it from capturing the same sense of fun and accessibility that made console kart racers successful[^ref-3][^ref-13].
 
 ### Preservation
-The game is now preserved on various abandonware sites where it maintains a modest following among retro gaming enthusiasts interested in exploring Sierra's lesser-known catalog[^ref-2][^ref-14]. Modern emulation through DOSBox and compatibility layers has made the game playable on contemporary systems for those interested in experiencing this piece of Sierra history[^ref-6].
+The game is now preserved on various abandonware sites where it maintains a modest following among retro gaming enthusiasts interested in exploring Sierra's lesser-known catalog[^ref-14][^ref-2]. Modern emulation through DOSBox and compatibility layers has made the game playable on contemporary systems for those interested in experiencing this piece of Sierra history[^ref-6].
 
 ### Critical Perspective
 The game's poor reception highlighted the challenges faced by traditional adventure game developers when attempting to enter established genres dominated by console gaming[^ref-14]. Sierra's core competency lay in narrative-driven adventure games, and Eat My Dust demonstrated that successful game development requires more than brand recognition—it demands genre-specific expertise and technical excellence[^ref-4][^ref-5].
@@ -144,6 +147,6 @@ The failure of Eat My Dust and similar experiments contributed to Sierra's event
 [^ref-15]: [Games Domain Archive](https://web.archive.org/web/20040203121028/http://www.gamesdomain.com/gdreview/zones/reviews/pc/feb97/eatdust.html) – Market positioning
 [^ref-16]: [MobyGames - Eat My Dust](https://www.mobygames.com/game/42140/eat-my-dust/) – Developer credits (Davidson & Associates, Funnybone Interactive, Van Duyne Engineering), 1997 release date
 [^ref-17]: [Funnybone Interactive Wiki](https://funnybone.fandom.com/wiki/Eat_My_Dust) – Funnybone Interactive brand history, game catalog
-[^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game))) – Game overview, developer information
+[^ref-18]: [Alchetron - Eat My Dust](https://alchetron.com/Eat-My-Dust-(video-game)) – Game overview, developer information
 [^ref-19]: [Retrolorean - Eat My Dust](https://www.retrolorean.com/en/eat-my-dust-6107) – Track listing, game features
 [^ref-20]: [eBay Listing Archive](https://www.ebay.com/itm/395217486746) – Original retail packaging, 1996/1997 release context

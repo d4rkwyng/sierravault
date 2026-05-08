@@ -267,3 +267,49 @@ The game also suffered from timing issues. By 1995, the transforming robot conce
 [^ref-40]: [MobyGames – Thexder Neo](https://www.mobygames.com/game/43121/thexder-neo/) – PSP/PS3 release dates, developer credits
 [^ref-38]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware
 [^ref-29]: [Sierra Chest Entry](https://sierrachest.com/index.php?a=games&id=93&title=thexder-95) – Sierra archive
+d[[1985 - Thexder]]
+
+## References
+
+[^ref-1]: [Wikipedia – Thexder](https://en.wikipedia.org/wiki/Thexder) – Windows 95 version details, Game SDK engine, multi-window interface
+[^ref-2]: [MobyGames – Thexder (Windows)](https://www.mobygames.com/game/2857/thexder/) – Development credits, CGW worst games listing, reviewer quotes
+[^ref-3]: [Internet Archive – MS-DOS Thexder (1987)](https://archive.org/details/msdos_Thexder_1987) – Platform list, gameplay description
+[^ref-4]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Ken Williams acquisition of rights from Game Arts
+[^ref-5]: [ClassicReload – Thexder](https://classicreload.com/thexder.html) – Sales data, Sierra best-seller status, publisher history
+[^ref-6]: [PixelatedArcade – Thexder](https://pixelatedarcade.com/games/thexder) – One million copies worldwide sales figure
+[^ref-7]: [Grokipedia – Thexder](https://grokipedia.com/page/Thexder) – Animation patterns, development time, story details
+[^ref-8]: [PixelatedArcade – Fire Hawk](https://www.pixelatedarcade.com/games/fire-hawk-thexder-the-second-contact) – Nediam alien race story
+[^ref-9]: [IGN – Thexder Neo](https://www.ign.com/games/thexder-neo) – Laevina and Nedium story elements
+[^ref-10]: [Atari Magazines – Compute! Review](https://www.atarimagazines.com/compute/issue94/P21_1_REVIEWS_THEXDER.php) – Gameplay mechanics, enemy count, level structure
+[^ref-11]: [Nintendo Store – EGGCONSOLE Thexder](https://www.nintendo.com/us/store/products/eggconsole-thexder-pc-8801mkiisr-switch/) – Hyper dual-armor description, stage count
+[^ref-12]: [StrategyWiki – Thexder](https://strategywiki.org/wiki/Thexder) – Mach 4.1 speed, weapon specifications
+[^ref-13]: [Games Database – Thexder](https://www.gamesdatabase.org/game/nintendo-nes/thexder.aspx) – Central computer destruction goal
+[^ref-14]: [Pix's Origin Adventures – Thexder](https://www.pixsoriginadventures.co.uk/thexder/) – Non-combat design origin, heat seeking lasers, voice warnings
+[^ref-15]: [Time Extension – PC-88 Classics](https://www.timeextension.com/news/2023/10/pc-88-classics-thexder-and-relics-land-on-nintendo-switch) – Switch release, philosophical undertones
+[^ref-16]: [Hardcore Gaming 101 – Thexder History](http://blog.hardcoregaming101.net/2009/10/brief-history-of-thexder.html) – Thexder Neo criticism, difficulty, gameplay mechanics
+[^ref-17]: [MyAbandonware – Thexder](https://www.myabandonware.com/game/thexder-dk) – No mid-level saves, user ratings
+[^ref-18]: [Giant Bomb – Thexder](https://www.giantbomb.com/thexder/3030-14476/) – Level loop, Moonlight Sonata, sales data
+[^ref-19]: [Sierra Chest – Thexder Walkthrough](https://www.sierrachest.com/index.php?a=games&id=42&title=thexder&fld=walkthrough) – Energy mechanics, gameplay systems
+[^ref-20]: [RetroMags – Thexder Discussion](https://www.retromags.com/gallery/image/47840-thexder-japan-march-1986/?tab=reviews) – CGW worst games quote, breakthrough title significance
+[^ref-21]: [TV Tropes – Thexder](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Thexder) – First Game Arts title, Sierra marketing, fondly remembered quote
+[^ref-22]: [Amiga Magazine Rack – Thexder Reviews](https://amr.abime.net/review_17838) – Magazine review scores compilation
+[^ref-23]: [MobyGames – Thexder (Original)](https://www.mobygames.com/game/49/thexder/) – Original release dates, platform history, designer credits
+[^ref-24]: [US Modern Culture Fandom – Sierra Entertainment](https://usmodernculture.fandom.com/wiki/Sierra_Entertainment) – 1986 Japan trip
+[^ref-25]: [Extra Lives – It Came From Japan: Thexder](https://extralives.wordpress.com/2015/08/11/it-came-from-japan-thexder/) – Ken Williams store visits, voice warnings, Moonlight Sonata
+[^ref-26]: [Sierra Help Wiki – Thexder 95](https://wiki.sierrahelp.com/index.php/Thexder_95) – Windows 9x platform, Synergistic developer
+[^ref-27]: [Shmuplations – Thexder Developer Interview](https://shmuplations.com/thexder/) – Animation patterns, development time, design philosophy
+[^ref-28]: [PCGamingWiki – Thexder](https://www.pcgamingwiki.com/wiki/Thexder) – Technical specifications, DOSBox compatibility
+[^ref-29]: [Sierra Chest – Thexder Music](https://sierrachest.com/index.php?a=games&id=42&fld=music) – Moonlight Sonata intermission
+[^ref-30]: [GOG Dreamlist – Thexder](https://www.gog.com/dreamlist/game/thexder) – Fan memories, Moonlight Sonata nostalgia
+[^ref-31]: [Generation MSX – Thexder](https://www.generation-msx.nl/software/compile-game-arts/thexder/799/) – Pronunciation guide, designer credits
+[^ref-32]: [GameFAQs – Thexder FAQ](https://gamefaqs.gamespot.com/nes/578267-thexder/faqs/36102) – Transformers comparison, Level 99 easter egg
+[^ref-33]: [GameSpot – Game Arts Founder](https://www.gamespot.com/articles/game-arts-founder-dead-at-45/1100-6326241/) – Game Arts history, Thexder significance
+[^ref-34]: [VGSales Fandom – 1986 Sales](https://vgsales.fandom.com/wiki/1986) – Famicom sales figures
+[^ref-35]: [TouchArcade – EGGCONSOLE Review](https://toucharcade.com/2024/01/03/eggconsole-relics-pc-8801-switch-review-english-eshop-xanadu-falcom-inti-creates-gunvolt-sale/) – Modern re-release details, pricing
+[^ref-36]: [Scribd – Thexder Sheet Music](https://www.scribd.com/document/13267404/Thexder-theme-video-game-sheet-music-piano) – Hibiki Godai composer credit
+[^ref-37]: [MobyGames – Fire Hawk](https://www.mobygames.com/game/64/fire-hawk-thexder-the-second-contact/) – Sequel details, development credits
+[^ref-38]: [Abandonware DOS – Thexder 2: Firehawk](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+2:+Firehawk&gid=2397) – 1990 DOS release
+[^ref-39]: [Square Enix – Thexder Neo](http://dlgames.square-enix.com/eu/en/psp_dl/2009/thexderneo/) – Official product description, remake features
+[^ref-40]: [MobyGames – Thexder Neo](https://www.mobygames.com/game/43121/thexder-neo/) – PSP/PS3 release dates, developer credits
+[^ref-38]: [AbandonwareDOS Entry](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Thexder+95) – DOS abandonware
+[^ref-29]: [Sierra Chest Entry](https://sierrachest.com/index.php?a=games&id=93&title=thexder-95) – Sierra archive

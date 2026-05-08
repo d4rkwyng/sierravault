@@ -22,11 +22,11 @@ tags: [1990s, sierra, you-don-t-know-jack]
 
 ## Overview
 
-Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia video game released on August 31, 1998 that serves as a teen-oriented spin-off of the popular *You Don't Know Jack* series[^ref-1][^ref-14][^ref-20]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under their Sierra Attractions label[^ref-2]. The game deliberately targeted a younger demographic than its predecessor, marketing itself as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
+Head Rush, also known as *You Don't Know Jack Headrush*, is a trivia video game released on August 31, 1998 that serves as a teen-oriented spin-off of the popular *You Don't Know Jack* series[^ref-1][^ref-14][^ref-20]. Developed by [[Berkeley Systems]] and Jellyvision, the game was published by Sierra On-Line under their Sierra Attractions label. The game deliberately targeted a younger demographic than its predecessor, marketing itself as "The Twisted Trivia Game That Will Make You Pee in Your Pants!"[^ref-3]
 
 The game retains the core gameplay mechanics and irreverent style of the *You Don't Know Jack* franchise while shifting its humor to appeal specifically to teenagers[^ref-4]. This meant replacing the sexual innuendo of the original series with toilet humor and pop culture references aimed at a younger audience[^ref-5]. Head Rush came packaged with a set of three stickers for players to place on their Q, P, and B keys—the keys used to buzz in and answer questions—featuring, simply, the letters Q, P, and B[^ref-4].
 
-The game features entirely new graphics, new questions, and new gameplay variations compared to its predecessor, *You Don't Know Jack: The Ride*[^ref-6]. With support for one to three players competing on the same screen, Head Rush brought the party game experience to households seeking irreverent trivia entertainment for teens[^ref-4]. The product famously warned consumers that it "contains immature content, loud body noises, a smattering of mildly saucy language and references to music, tv shows and movies that will definitely not be suitable for most geezers"[^ref-7].[^ref-15]
+The game features entirely new graphics, new questions, and new gameplay variations compared to its predecessor, *You Don't Know Jack: The Ride*[^ref-6]. With support for one to three players competing on the same screen, Head Rush brought the party game experience to households seeking irreverent trivia entertainment for teens[^ref-4]. The product famously warned consumers that it "contains immature content, loud body noises, a smattering of mildly saucy language and references to music, tv shows and movies that will definitely not be suitable for most geezers"[^ref-7].[^ref-15][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Berkeley Systems]], Jellyvision[^ref-4]
@@ -211,7 +211,7 @@ In retrospect, Head Rush serves as a time capsule of late 1990s teen culture, wi
 ## References
 
 [^ref-1]: [IMDB – Head Rush](https://www.imdb.com/title/tt5995744/) – credits, development information, release year, trivia
-[^ref-20]: [Sierra Chest – Head Rush](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=box) – publisher, platform, bundling information, demo details, UPC
+[^ref-2]: [Sierra Chest – Head Rush](https://sierrachest.com/index.php?a=games&id=631&title=head-rush&fld=box) – publisher, platform, bundling information, demo details, UPC
 [^ref-3]: [Metacritic – Head Rush](https://www.metacritic.com/game/head-rush/) – tagline, release date, developer
 [^ref-4]: [MobyGames – Head Rush](https://www.mobygames.com/game/3639/head-rush/) – gameplay details, technical specs, ratings, sticker trivia, multiplayer info
 [^ref-5]: [MobyGames User Review – Adam Baratz](https://www.mobygames.com/game/3639/head-rush/reviews/) – critical analysis of humor shift, comparison to YDKJ

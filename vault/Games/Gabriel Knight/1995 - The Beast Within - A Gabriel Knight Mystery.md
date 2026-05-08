@@ -117,7 +117,7 @@ The technical production faced the challenge of creating a cohesive experience f
 
 As an FMV game, The Beast Within featured a full cast of live-action performers filmed at Sierra's Oakhurst sound stage.[^ref-3] Dean Erickson replaced Tim Curry (who voiced Gabriel in the original game) to portray the character physically.[^ref-15]
 
-**Principal Cast:**[^ref-16][^ref-31][^ref-34]
+**Principal Cast:**[^ref-31][^ref-34][^ref-16]
 
 | Actor | Character |
 |-------|-----------|

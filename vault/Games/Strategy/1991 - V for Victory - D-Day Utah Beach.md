@@ -25,7 +25,7 @@ V for Victory: Battleset 1 - D-Day Utah Beach - 1944 is a turn-based strategy wa
 
 The game was revolutionary for its time, being described as "the first wargame (since Eastern Front) that broke the mold and wrote a computer wargame" rather than simply adapting traditional hex-and-counter board games to the computer screen[^ref-4]. This debut title from Atomic Games established the V for Victory series, which would go on to spawn three additional games covering other World War II battles[^ref-5]. The success of the series also inspired the similar World at War series published by Avalon Hill[^ref-5].
 
-V for Victory: Utah Beach was designed to be accessible to non-hardcore wargamers while still providing the depth and complexity that enthusiasts demanded[^ref-3]. The game eliminated much of the drudgery associated with traditional board wargames by automating complex logistics and supply calculations, allowing players to focus on strategic and tactical decision-making[^ref-3].[^ref-10][^ref-11][^ref-12]
+V for Victory: Utah Beach was designed to be accessible to non-hardcore wargamers while still providing the depth and complexity that enthusiasts demanded[^ref-3]. The game eliminated much of the drudgery associated with traditional board wargames by automating complex logistics and supply calculations, allowing players to focus on strategic and tactical decision-making[^ref-3].[^ref-10][^ref-11][^ref-12][^ref-10][^ref-11][^ref-12]
 
 > [!info]- Game Info
 > **Developer:** Atomic Games, Inc.[^ref-1]

@@ -197,7 +197,7 @@ From a preservation standpoint, Bop-A-Bet represents one of the rarest titles as
 ## References
 
 [^ref-1]: [Wikipedia – Bop-A-Bet](https://en.wikipedia.org/wiki/Bop-A-Bet) – release dates, publisher history, technical specifications, age range, gameplay mechanics
-[^ref-20]: [Sierra Chest – Bop-A-Bet News](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=news) – Al Lowe quotes about development, auction details, production numbers
+[^ref-2]: [Sierra Chest – Bop-A-Bet News](https://sierrachest.com/index.php?a=games&id=728&title=bop-a-bet&fld=news) – Al Lowe quotes about development, auction details, production numbers
 [^ref-3]: [Retro365 Blog – Bits from My Personal Collection](https://retro365.blog/2021/05/23/bits-from-my-personal-collection-bop-a-bet-al-lowes-second-game-kansasfest-san-francisco-november-1982/) – development history, Sierra acquisition, sales data, platform details
 [^ref-5]: [MobyGames – Bop-A-Bet](https://www.mobygames.com/game/25115/bop-a-bet/) – gameplay mechanics
 [^ref-6]: [King's Quest Omnipedia – Sierra](https://kingsquest.fandom.com/wiki/Sierra) – "cult classic" designation, release year

@@ -21,7 +21,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 
 ## Overview
 
-King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on February 24, 2011[^ref-1]. The remake transforms the original 16-color EGA graphics into stunning hand-painted SVGA artwork, replaces the text parser with a point-and-click interface, and adds professional voice acting, an original digital musical score, and numerous gameplay refinements[^ref-2]. This project marked AGD Interactive's final free fan remake before the studio transitioned to developing original commercial titles under the Himalaya Studios name[^ref-3].
+King's Quest III Redux: To Heir is Human is a fan-made remake of [[Roberta Williams]]' 1986 classic adventure game, developed by [[AGD Interactive]] and released for free on March 11, 2011[^ref-1]. The remake transforms the original 16-color EGA graphics into stunning hand-painted SVGA artwork, replaces the text parser with a point-and-click interface, and adds professional voice acting, an original digital musical score, and numerous gameplay refinements[^ref-2]. This project marked AGD Interactive's final free fan remake before the studio transitioned to developing original commercial titles under the Himalaya Studios name[^ref-3].
 
 The game follows Gwydion, a seventeen-year-old slave of the cruel wizard Manannan, as he discovers his true identity and attempts to escape servitude[^ref-4]. While not considered a "true" remake due to additional content including new side quests, puzzles, and characters, the core story remains faithful to [[Roberta Williams]]' original vision[^ref-5]. The remake eliminates many of the frustrating elements of the original, such as the tedious mountain climbing and extended real-time waiting sequences on the pirate ship, while introducing new Easter eggs and story connections to AGD Interactive's previous King's Quest remakes[^ref-4].
 
@@ -243,34 +243,7 @@ For fans of classic adventure gaming, King's Quest III Redux represents both an 
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Official Download**
-- [AGD Interactive Official Site](http://www.agdinteractive.com) - Free download
-
-**Download / Preservation**
-- [Old-Games.com](https://www.old-games.com/download/11892/king-s-quest-iii-redux) - 232 MB download[^ref-21]
-- [CDRomance](https://cdromance.org/windows/kings-quest-iii-redux-to-heir-is-human-remake/) - Windows installer[^ref-5]
-- [Free Games Utopia](https://www.freegamesutopia.com/game/king-s-quest-iii-redux-to-heir-is-human/118/) - Full free version[^ref-2]
-
-**SierraVault Mirror:**
-- [Windows (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.exe) – 233 MB
-- [Mac (v1.1)](https://files.sierravault.net/FanGames/AGDInteractive/KingsQuest3Redux/KQ3_Redux11.dmg) – 783 MB
-
-## See Also
-
-- [[2001 - King's Quest I VGA Remake]]
-- [[2001 - Space Quest - The Lost Chapter]]
-- [[2002 - King's Quest II+ - Romancing the Stones]]
-- [[2003 - Space Quest 0 - Replicated]]
-- [[2006 - King's Quest III Remake (Infamous Adventures)]]
-- [[2008 - Quest for Glory II VGA Remake]]
-- [[2010 - The Silver Lining]]
-- [[2011 - Space Quest - Vohaul Strikes Back]]
-- [[2011 - Space Quest II VGA Remake]]
+[[2011 - Space Quest II VGA Remake]]
 - [[2012 - Space Quest - Incinerations]]
 - [[2021 - King's Quest IV Retold]]
 - [[2025 - SCP Sierra Conversion Project]]

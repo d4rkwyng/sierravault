@@ -16,11 +16,13 @@ description: Hoyle Blackjack was a comprehensive blackjack simulation developed 
   with...
 tags: [1990s, hoyle, sci, sierra, simulation]
 ---
-# Hoyle Blackjack
+## Hoyle Blackjack
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 
 ## Overview
+
+<small style="color: gray">Last updated: March 19, 2026</small>
 
 <small style="color: gray">Last updated: March 19, 2026</small>
 
@@ -133,7 +135,7 @@ Voice acting featured:
 - **Natacha LaFerrière**: Supporting voice work (later versions)
 - **Cynthia Doyer**: Supporting voice work (later versions)
 - **Kate Myre**: Supporting voice work (later versions)
-- **James Parker**: Supporting voice work[^ref-6][^ref-11]
+- **James Parker**: Supporting voice work[^ref-11][^ref-6]
 
 The musical score was composed by Evan Schiller, Jonathan Cunningham, and Robert Atesalp[^ref-6], providing atmospheric casino ambiance that enhanced immersion.
 

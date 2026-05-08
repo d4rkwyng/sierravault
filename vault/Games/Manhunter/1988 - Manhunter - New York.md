@@ -158,3 +158,4 @@ The cyberpunk worldbuilding created an immersive dystopian future that contraste
 [^ref-21]: [PC Gamer](https://www.pcgamer.com/saturday-crapshoot-man-hunter-new-york/) – - Retrospective assessment
 [^ref-22]: [Larry Laffer](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-i-ii-unofficial-patch-fixes-by-banjos-mods) – - Development origin
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist/game/manhunter-new-york) – - Fan comments and praise
+[^ref-13]: [TV Tropes - Manhunter](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/Manhunter) – - Gameplay innovation and cultural influence

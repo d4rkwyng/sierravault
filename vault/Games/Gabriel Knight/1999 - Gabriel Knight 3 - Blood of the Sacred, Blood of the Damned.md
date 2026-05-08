@@ -185,3 +185,51 @@ Modern compatibility efforts through community patches and tools like dgVoodoo d
 [^ref-84]: https://web.archive.org/web/19990224122901/http://www.gamespot.com/features/gabriel_dd/060498/index.html - GameSpot developer diary from June 1998 archived via Wayback Machine
 [^ref-87]: https://web.archive.org/web/20020823170155/http://www.elecplay.com/review.html?article=1997&full=1#mr_toppy - Electric Playground review archived via Wayback Machine
 [^ref-92]: https://web.archive.org/web/20160714032314/http://www.adventuregamers.com/articles/view/17459 - Adventure Gamers retrospective review archived via Wayback Machine
+References
+
+[^ref-3]: https://adventuregamers.com/walkthroughs/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned - Third-party walkthrough guide with gameplay information
+[^ref-7]: https://archive.org/details/gk-31 - Internet Archive preservation page with game ISOs and manual images
+[^ref-9]: https://www.behindthevoiceactors.com/video-games/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Voice acting database with official cast credits
+[^ref-10]: http://bonny.ploeg.ws/gk3secret.html - Analysis of cut content and unused assets through game file extraction
+[^ref-11]: http://bonny.ploeg.ws/gk3.html - Comprehensive fan walkthrough with complete point system and cast list
+[^ref-13]: https://downloads.khinsider.com/game-soundtracks/album/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned-windows-gamerip-1999 - Video game music archive with soundtrack details
+[^ref-14]: https://downloads.khinsider.com/game-soundtracks/album/gabriel-knight-mysteries-soundtrack-gabriel-knight-1-3 - Gabriel Knight series soundtrack collection with composer credits
+[^ref-15]: https://en.wikipedia.org/wiki/Gabriel_Knight_3%3A_Blood_of_the_Sacred%2C_Blood_of_the_Damned - Primary Wikipedia article with comprehensive development history and critical reception
+[^ref-16]: https://en.wikipedia.org/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - Comprehensive Wikipedia article with review aggregation and cultural impact analysis
+[^ref-17]: https://www.eurogamer.net/gk3 - Contemporary Eurogamer review with detailed technical analysis
+[^ref-18]: https://www.filfre.net/?s=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Gaming history blog mentioning Da Vinci Code connections
+[^ref-19]: https://freegogpcgames.com/451/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Third-party distribution site with basic game information
+[^ref-20]: https://gabrielknight.fandom.com/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - Comprehensive wiki entry with detailed plot synopsis and cast list
+[^ref-21]: https://www.game-over.net/review/dec99/gk3/index.html - Contemporary Game Over review from December 1999
+[^ref-27]: https://www.gamerevolution.com/review/32896-gabriel-knight-3-review - Contemporary GameRevolution review with 9/10 score
+[^ref-28]: https://www.gamespot.com/reviews/gabriel-knight-3-blood-of-the-sacred-blood-of-the-/1900-2536249/ - Primary GameSpot review with detailed criticism
+[^ref-34]: http://gkpages.altervista.org/Interviews/DesignerDiaries_04.html - Primary development diary from Jane Jensen, June 1998
+[^ref-36]: https://glitchwave.com/game/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Game database with community ratings and compatibility discussions
+[^ref-38]: https://www.gog.com/en/game/gabriel_knight_3_blood_of_the_sacred_blood_of_the_damned - GOG store page with user reviews
+[^ref-39]: https://www.gogdb.org/product/1207658843 - GOG database entry with pricing history and technical specifications
+[^ref-42]: https://www.ign.com/articles/1999/12/04/gabriel-knight-iii-blood-of-the-sacred-blood-of-the-damned - Contemporary IGN review with detailed gameplay analysis
+[^ref-45]: https://www.imdb.com/title/tt0138458/ - IMDb database entry with cast information and user reviews
+[^ref-49]: https://www.metacritic.com/game/gabriel-knight-3-blood-of-the-sacred-blood-of-th/ - Metacritic aggregation with professional reviews
+[^ref-50]: https://www.metzomagic.com/showArticle.php?index=288 - Contemporary review from December 1999 with technical issues documentation
+[^ref-52]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/reviews/ - MobyGames player reviews spanning 2001-2016
+[^ref-53]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/specs/ - MobyGames technical specifications and ratings
+[^ref-54]: https://www.mobygames.com/game/484/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Comprehensive MobyGames entry with detailed credits and trivia
+[^ref-57]: https://www.myabandonware.com/game/gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned-cso - My Abandonware site with user reviews and download
+[^ref-59]: https://www.nexusmods.com/bloodofthesacredbloodofthedamned/mods/1 - Community mod for compatibility fixes
+[^ref-60]: https://www.oldgames.sk/en/game/gabriel-knight-3/download/4870/ - OldGames.sk retro gaming archive
+[^ref-61]: https://www.pcgamingwiki.com/wiki/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - PCGamingWiki technical reference with system requirements
+[^ref-63]: https://www.reddit.com/r/adventuregames/comments/1halt82/gabriel_knight_3_clunky_but_worth_it_review/ - Reddit user review discussing gameplay and visuals
+[^ref-66]: https://www.sierrachest.com/index.php?a=games&id=39&fld=eggs - Sierra Chest documentation of Easter eggs and console commands
+[^ref-67]: https://sierrachest.com/index.php?a=games&id=39&title=gabriel-knight-3&fld=walkthrough&pid=100 - Sierra Chest walkthrough including cat mustache puzzle
+[^ref-69]: https://www.sierrachest.com/index.php?a=games&id=39&fld=general - Sierra Chest comprehensive game database entry
+[^ref-70]: https://www.speedrun.com/gk3_blood - Speedrunning leaderboard showing competitive completion times
+[^ref-71]: https://steamcommunity.com/sharedfiles/filedetails/?id=3264152998 - Steam Community fan walkthrough guide
+[^ref-72]: https://steamcommunity.com/app/497360/reviews/?browsefilter=toprated - Steam Community user reviews for digital re-release
+[^ref-74]: https://steamsolo.com/guide/gabriel-knight-3-several-fixes-gabriel-knight-3-blood-of-the-sacred-blood-of-the-damned/ - Technical troubleshooting guide for modern systems
+[^ref-75]: https://store.steampowered.com/search/?term=Gabriel+Knight+3%3A+Blood+of+the+Sacred%2C+Blood+of+the+Damned - Steam store search results
+[^ref-78]: https://tcrf.net/Gabriel_Knight_3:_Blood_of_the_Sacred,_Blood_of_the_Damned - The Cutting Room Floor wiki documenting hidden content and unused assets
+[^ref-80]: https://www.uhs-hints.com/uhsweb/gk3.php - UHS hints showing game structure organized into 3 days
+[^ref-83]: https://web.archive.org/web/19971012044901/http://www.pcgamer.com/news/news081897.html - PC Gamer announcement from August 1997 archived via Wayback Machine
+[^ref-84]: https://web.archive.org/web/19990224122901/http://www.gamespot.com/features/gabriel_dd/060498/index.html - GameSpot developer diary from June 1998 archived via Wayback Machine
+[^ref-87]: https://web.archive.org/web/20020823170155/http://www.elecplay.com/review.html?article=1997&full=1#mr_toppy - Electric Playground review archived via Wayback Machine
+[^ref-92]: https://web.archive.org/web/20160714032314/http://www.adventuregamers.com/articles/view/17459 - Adventure Gamers retrospective review archived via Wayback Machine

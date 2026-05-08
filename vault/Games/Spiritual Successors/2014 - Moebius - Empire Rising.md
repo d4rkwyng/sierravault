@@ -10,7 +10,7 @@ series: Moebius
 engine: Unity
 protagonist: Malachi Rector
 sierra_lineage: Spiritual Successor
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 description: 'Moebius: Empire Rising is a point-and-click adventure game developed
   by Pinkerton Road Studios and published by Phoenix Online Publishing in 2014. Created...'
 tags: [2010s, adventure, jane-jensen, moebius, sierra]
@@ -30,9 +30,11 @@ Described as "a contemporary adventure that merges classic point-and-click puzzl
 > **Designer:** [[Jane Jensen]][^ref-1]
 > **Publisher:** [[Phoenix Online Publishing]][^ref-1]
 > **Engine:** Unity[^ref-1]
+> **Engine:** Unity[^ref-1]
 > **Platforms:** Windows, Mac, Linux, iOS, Android, Steam, GOG[^ref-7]
 > **Release Year:** 2014
 > **Series:** Moebius
+> **Protagonist:** Malachi Rector
 > **Protagonist:** Malachi Rector
 > **Sierra Lineage:** Spiritual Successor
 
@@ -107,12 +109,6 @@ The game was built using Unity Engine version 4.7.1f1 as a 32-bit application[^r
 | Storage | 3 GB available | 4 GB available |
 
 The game suffered from various technical issues that impacted the player experience, including cursor disappearances, sluggish animations, and stuttering during gameplay[^ref-7]. These technical problems contributed to the game's mixed critical reception and highlighted the challenges of developing modern adventure games on limited crowdfunding budgets.
-
-### Version History
-
-Documented versions referenced in source material:
-
-- **version 4.7** — see contemporaneous sources cited in this page
 
 ## Legacy
 

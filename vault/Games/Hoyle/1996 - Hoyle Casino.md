@@ -356,3 +356,107 @@ The transfer of the brand from Sierra to Encore marked a shift in the series' id
 [^ref-30]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
 [^ref-50]: [Encore – Casino Games Collection](https://www.encore.com/encore-casino-games-collection-download-windows) – collection details
 [^ref-51]: [MacGameStore – Hoyle Official Casino Games](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – game features, Face Creator
+[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Casino]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2008 - Hoyle Casino]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
+- **Related:** [[2002 - Hoyle Casino Empire]]
+
+## References
+
+[^ref-10]: [MobyGames – Hoyle Casino (1996)](https://www.mobygames.com/game/45135/hoyle-casino/) – developer, publisher, initial release
+[^ref-2]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – platforms, developer timeline, release history
+[^ref-3]: [Amazon – Hoyle Casino PC/Mac](https://www.amazon.com/Hoyle-Casino-PC-Mac/dp/B00001KRTG) – GameSpot review quote, compatibility issues
+[^ref-4]: [Britannica – Edmond Hoyle](https://www.britannica.com/biography/Edmond-Hoyle) – historical origin of Hoyle name
+[^ref-5]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – series history, sales data, engine
+[^ref-6]: [Quarter to Three – PC Data Sales](https://www.quartertothree.com/features/pcdata_top_10/years_bestsellers.shtml) – Hoyle Casino 2000 sales figures
+[^ref-7]: [PCGamingWiki – Hoyle Casino (2000)](https://www.pcgamingwiki.com/wiki/Hoyle_Casino_%282000%29) – version history, technical specs
+[^ref-8]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – development credits, game features
+[^ref-9]: [GameFAQs – Hoyle Casino Mac Review](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/76896) – gameplay review, Sultan machine trivia
+[^ref-11]: [Games Database – Hoyle Casino Dreamcast](https://www.gamesdatabase.org/game/sega-dreamcast/hoyle-casino.aspx) – character count, tutorial features
+[^ref-12]: [eBay – Hoyle Casino 2000 Listing](https://www.ebay.com/itm/387567554120) – Facemaker feature, game variations
+[^ref-13]: [Abandonware Games – Hoyle Casino Empire](https://abandonwaregames.net/game/hoyle-casino-empire) – casino manager gameplay
+[^ref-14]: [GameSpot – Casino Empire Review](https://www.gamespot.com/reviews/casino-empire-review/1900-2882505/) – review score, RollerCoaster Tycoon comparison
+[^ref-15]: [VGTimes – Hoyle Casino (1996)](https://vgtimes.com/games/hoyle-casino-1996/) – first-person perspective description
+[^ref-16]: [MobyGames – Hoyle Casino (2000)](https://www.mobygames.com/game/2686/hoyle-casino/) – credits, rating, technical specs
+[^ref-17]: [Amazon – Hoyle Casino Games 2012 Mac](https://www.amazon.com/Hoyle-Casino-Games-2012-Download/dp/B0085P7UWS) – features, character count
+[^ref-18]: [GameSpot – Hoyle Blackjack Review](https://www.gamespot.com/reviews/hoyle-blackjack-review/1900-2537735/) – review score, gameplay modes
+[^ref-19]: [Never Die Media – Hoyle Casino 2000](https://www.neverdiemedia.com/products/hoyle-casino-2000) – poker variations, slot details
+[^ref-20]: [WildTangent – Hoyle Casino](https://www.wildtangent.com/p/cards/hoyle-casino/) – game variations, rating
+[^ref-21]: [GameFAQs – Hoyle Blackjack Data](https://gamefaqs.gamespot.com/pc/197580-hoyle-blackjack/data) – release date, product description
+[^ref-22]: [IGN – Hoyle Casino GBC Review](https://www.ign.com/articles/2000/10/25/hoyle-casino-2) – review score, animation quality
+[^ref-23]: [GameFAQs – Hoyle Casino Dreamcast Review](https://gamefaqs.gamespot.com/dreamcast/577923-hoyle-casino/reviews/21475) – card suit visibility issue
+[^ref-24]: [GameOver – Hoyle Casino 99 Review](https://www.game-over.net/review/october/hoyle99/index.html) – review score, recommendation
+[^ref-25]: [GameSpot – Hoyle Casino 2003 Review](https://www.gamespot.com/reviews/hoyle-casino-review/1900-2895821/) – critical assessment, version comparison
+[^ref-26]: [WorthPlaying – Hoyle Casino Games 2009 Review](https://worthplaying.com/article/2009/5/24/reviews/61934-pc-review-hoyle-casino-games-2009/) – review score, criticism
+[^ref-27]: [Steam – Hoyle Official Casino Games](https://store.steampowered.com/app/532950) – user reviews, release date
+[^ref-28]: [Steam Community – Hoyle Casino Reviews](https://steamcommunity.com/app/532950/reviews/?browsefilter=toprated) – AI complaints, offline play appreciation
+[^ref-29]: [MyAbandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – rating, POD file discovery
+[^ref-30]: [Sierra Chest – Hoyle Casino 4 Music](https://sierrachest.com/index.php?a=games&fld=music&id=799&title=hoyle-casino-4) – music origins, Sierra Attractions
+[^ref-31]: [IGN – Hoyle Casino Dreamcast Announcement](https://www.ign.com/articles/2000/10/04/hoyle-casino-gets-dealt-to-retailers) – Steve Van Horn quote, platform expansion
+[^ref-32]: [A Secret Area – Hoyle Casino GBC](https://asecretarea.com/2014/12/18/hoyle-casino-game-boy-color/) – Pulsar Interactive developer info
+[^ref-33]: [Grokipedia – Hoyle Casino](https://grokipedia.com/page/Hoyle_Casino) – graphics evolution, version history
+[^ref-34]: [MobyGames – Hoyle Casino (1999)](https://www.mobygames.com/game/45137/hoyle-casino/) – Won.net online play, word games
+[^ref-35]: [Old PC Gaming – Hoyle Casino Games 4 Review](https://oldpcgaming.net/hoyle-casino-games-4-review/) – system requirements
+[^ref-36]: [Macworld – Hoyle Casino 2008](https://www.macworld.com/article/190285/casino-4.html) – Mac system requirements
+[^ref-37]: [PCGamingWiki – Hoyle Official Casino Games](https://www.pcgamingwiki.com/wiki/Hoyle_Official_Casino_Games) – 2016 technical specs
+[^ref-38]: [Sierra Chest – Hoyle Casino 1](https://www.sierrachest.com/tx8b/index.php?a=games&id=519&title=hoyle-casino-1) – October 1996 release date
+[^ref-39]: [Internet Archive – Hoyle Casino 98](https://archive.org/details/HoyleCasino98Version1.1.0.5SierraOn-Line1998) – version number
+[^ref-46]: [Sierra Help – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – version patches, bug fixes
+[^ref-42]: [Internet Archive – Hoyle Casino 2004 Manual](https://archive.org/stream/hoyle-casino-2004/HoyleCasino2004_Manual_djvu.txt) – PC-Data sales claim, Palm support
+[^ref-43]: [Metacritic – Hoyle Casino 3D](https://www.metacritic.com/game/hoyle-casino-3d/) – release date, ESRB rating
+[^ref-44]: [GameCopyWorld – Hoyle Casino 2008](https://gamecopyworld.com/games/pc_hoyle_casino_2008.shtml) – SecuROM protection, release date
+[^ref-45]: [MobyGames – Hoyle Casino Games (2008)](https://www.mobygames.com/game/230559/hoyle-casino-games/) – Freeverse developer
+[^ref-47]: [SourceForge – DxWnd Casino Empire Thread](https://sourceforge.net/p/dxwnd/discussion/general/thread/23561786/) – compatibility issues
+[^ref-48]: [SourceForge – DxWnd Color Depth Discussion](https://sourceforge.net/p/dxwnd/discussion/general/thread/1173fae9/?page=1) – 16BPP/32BPP issues
+[^ref-30]: [Sierra Chest – Hoyle Casino 6 Music](https://sierrachest.com/index.php?a=games&fld=music&id=810&title=hoyle-casino-6) – music recycling
+[^ref-50]: [Encore – Casino Games Collection](https://www.encore.com/encore-casino-games-collection-download-windows) – collection details
+[^ref-51]: [MacGameStore – Hoyle Official Casino Games](https://www.macgamestore.com/product/6226/Hoyle-Official-Casino-Games-Collection/) – game features, Face Creator

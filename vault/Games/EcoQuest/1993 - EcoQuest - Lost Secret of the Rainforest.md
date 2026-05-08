@@ -158,7 +158,7 @@ The music, composed by Dan Kehler, contributed significantly to the game's atmos
 
 ### Technical Issues
 
-The Windows 3.x release does not function on 64-bit versions of Windows.[^ref-5] The DOS version requires DOSBox or similar emulator to run on modern Windows systems.[^ref-4] A "somewhat but not quite" copy protection system exists where players must create a facemask using patterns documented in the manual; this can theoretically be brute-forced, and the game directory contains all alternative solutions.[^ref-20][^ref-28]
+The Windows 3.x release does not function on 64-bit versions of Windows.[^ref-5] The DOS version requires DOSBox or similar emulator to run on modern Windows systems.[^ref-4] A "somewhat but not quite" copy protection system exists where players must create a facemask using patterns documented in the manual; this can theoretically be brute-forced, and the game directory contains all alternative solutions.[^ref-20][^ref-28][^ref-28]
 
 ### Easter Eggs and Trivia
 
@@ -214,9 +214,9 @@ The game's emphasis on consequences for environmental destruction—whether thro
 
 ## See Also
 
-- **Series:** EcoQuest Series
-- **Previous:** [[1991 - EcoQuest - The Search for Cetus|← The Search for Cetus]] (1991)
-- **Related Educational Games:** [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
+- **Series:** [[EcoQuest: The Search for Cetus|EcoQuest Series]]
+- **Previous(1991)
+- **Related Educational Games:** [[The Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 
 ## References

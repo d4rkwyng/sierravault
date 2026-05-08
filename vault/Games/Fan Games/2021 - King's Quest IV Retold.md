@@ -21,7 +21,7 @@ tags: [2020s, adventure, king-s-quest-fan-remake, sierra]
 
 ## Overview
 
-King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1][^ref-16]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's beloved EGA graphics at 320x200 resolution[^ref-2]. The project aimed to make the classic adventure more accessible to new players while honoring the original's story and visual aesthetic[^ref-3].
+King's Quest IV Retold is a fan-made point-and-click remake of Sierra On-Line's classic 1988 adventure game *King's Quest IV: The Perils of Rosella*[^ref-1]. Created by DrSlash using the Adventure Game Studio engine, this remake was released on May 5, 2021, and introduces modern mouse-driven controls while preserving the original's beloved EGA graphics at 320x200 resolution[^ref-2]. The project aimed to make the classic adventure more accessible to new players while honoring the original's story and visual aesthetic[^ref-3].
 
 The remake represents one of several community efforts to preserve and modernize the King's Quest series, garnering significant attention from the adventure gaming community. The game received a nomination for Best Game Created with AGS at the AGS Awards 2021 and was selected as Pick of the Month in August 2022[^ref-2]. With over 9,000 downloads on the Adventure Game Studio website, the project has found a dedicated audience among both nostalgic fans and newcomers to the series[^ref-2].
 
@@ -209,7 +209,6 @@ The remake bridges generational gaps in gaming accessibility. While the original
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 - Free download (fan remake)[^ref-14][^ref-15]
 
 **Download / Preservation**
@@ -243,7 +242,7 @@ The remake bridges generational gaps in gaming accessibility. While the original
 
 [^ref-1]: [Adventure Game Studio – King's Quest IV Retold VGA Talkie](https://www.adventuregamestudio.co.uk/play/game/2907-king-s-quest-iv-retold-vga-talkie-/) – developer info, version details, technical specs, user reviews, download statistics, bugs
 [^ref-2]: [Adventure Game Studio – King's Quest IV: The Perils of Rosella Retold](https://www.adventuregamestudio.co.uk/site/games/game/2533-king-s-quest-iv-the-perils-of-rosella-retold/) – release date, awards, download statistics, user reviews, technical specifications
-[^ref-16]: [CodeWeavers Compatibility Database](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, plot summary, compatibility testing
+[^ref-3]: [CodeWeavers Compatibility Database](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold) – game description, plot summary, compatibility testing
 [^ref-4]: [Reddit r/Sierra – VGA Talkie Discussion](https://www.reddit.com/r/Sierra/comments/1pckube/kings_quest_iv_retold_vga_talkie_full_game/) – Magic Quest Entertainment credits, development notes, tribute information
 [^ref-3]: [CodeWeavers – King's Quest IV Retold](https://www.codeweavers.com/compatibility/crossover/kings-quest-iv-retold?srsltid=AfmBOorEEm4xS6Bu3E-MnnzED5JpX6vfnLOTcyhKU5uuoS39jagHo7Ns) – game description, Mac compatibility rating
 [^ref-6]: [Wikipedia – King's Quest IV](https://en.wikipedia.org/wiki/King%27s_Quest_IV) – original game development, sales data, review scores, awards, technical details, Roberta Williams quotes

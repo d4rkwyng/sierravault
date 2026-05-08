@@ -23,7 +23,7 @@ tags: [2000s, adventure, king-s-quest, sierra]
 
 King's Quest III: To Heir Is Human is a fan-made VGA remake of Sierra On-Line's classic 1986 adventure game, developed and published by [[Infamous Adventures]] in 2006[^ref-1]. The remake faithfully recreates the original story designed by [[Roberta Williams]] while modernizing the experience with full VGA graphics, hand-drawn cutscenes, dialogue portraits, original music, a complete voice pack including narration, and a point-and-click interface replacing the original text parser[^ref-2]. Infamous Adventures, known as "Makers of Sierra Remakes including King's Quest III and Space Quest II," created this project to introduce a new generation of gamers to the classic adventure while providing longtime fans with a fresh experience[^ref-3].
 
-The remake preserves the challenging gameplay that made the original notorious—described as "climbing an iceberg while covered in superslick oil hard"—while making it more accessible through modern interface conventions[^ref-2]. Players assume the role of Gwydion, a seventeen-year-old slave who must escape from the tyrannical wizard Manannan and discover his true identity[^ref-4]. The game is available as a free download on itch.io with a "name your own price" model, demonstrating the passionate fan community that continues to preserve and enhance Sierra's adventure gaming legacy[^ref-4].[^ref-12][^ref-13][^ref-14]
+The remake preserves the challenging gameplay that made the original notorious—described as "climbing an iceberg while covered in superslick oil hard"—while making it more accessible through modern interface conventions[^ref-2]. Players assume the role of Gwydion, a seventeen-year-old slave who must escape from the tyrannical wizard Manannan and discover his true identity[^ref-4]. The game is available as a free download on itch.io with a "name your own price" model, demonstrating the passionate fan community that continues to preserve and enhance Sierra's adventure gaming legacy[^ref-4].[^ref-12][^ref-13][^ref-14][^ref-12][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Adventures]][^ref-1]
@@ -124,73 +124,7 @@ The developers acknowledge these limitations, noting that "it IS an older progra
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|[^ref-16]
-| Original Release | 2006 | Windows | Initial fan remake release[^ref-1] |
-| itch.io Release | Various | Windows, macOS | Current distribution platform[^ref-4] |
-
-## Voice Cast
-
-The remake features a complete voice pack with full speech for all characters and narration[^ref-2]. Specific voice actor credits were not available in the research data.
-
-## Legacy
-
-### Sales and Commercial Impact
-
-As a free fan-made project, the Infamous Adventures remake operates outside traditional commercial metrics. The game is distributed via a "name your own price" model on itch.io, allowing players to download it freely or contribute voluntarily to support the developers[^ref-4]. This approach reflects the fan community's dedication to preserving adventure gaming history rather than pursuing commercial success.
-
-### Collections
-
-The game has been preserved on multiple platforms:
-- Previously available on the AGS (Adventure Game Studio) website[^ref-4]
-- Currently hosted on Infamous Adventures' official itch.io page[^ref-4]
-- Archived on Internet Archive for preservation purposes[^ref-7]
-
-### Fan Projects
-
-Infamous Adventures represents one of several fan groups dedicated to remaking Sierra classics. Their portfolio includes remakes of both King's Quest III and Space Quest II[^ref-3]. The team has also been reported as working on "King's Quest: Kingdom of Sorrow," a new game based on the franchise[^ref-1].
-
-AGD Interactive released their own separate remake, "King's Quest III Redux: To Heir Is Human," in February 2011[^ref-8][^ref-9], demonstrating the continued interest in updating this particular classic. The AGD Interactive version received substantial recognition including multiple AGS Awards[^ref-5] and positive reviews for its gameplay improvements[^ref-10].
-
-### Related Publications
-
-The original 1986 Sierra release included official hint materials and documentation:
-- **Original Game Manual:** Included with [[Sierra On-Line]]'s 1986 release
-- **Original Hint Book:** Sierra's official hint guide for the text parser version
-
-### Critical Perspective
-
-King's Quest III holds a unique place in adventure gaming history as one of the most challenging entries in the genre's golden age. The original game's brutal difficulty—where instant death lurked around every corner and typos could prove fatal—represents a design philosophy that has largely fallen out of favor[^ref-2]. The Infamous Adventures remake serves as both preservation effort and modernization, allowing contemporary players to experience the story and puzzles without the friction of the text parser while maintaining the essential challenge that defined the original.
-
-The existence of multiple fan remakes of this particular title (Infamous Adventures in 2006 and AGD Interactive in 2011) speaks to the game's lasting significance in the adventure gaming community. As one AGS community reviewer noted, this is considered by many to be the "Best KQ chapter" where "Gwydion is sort of new Graham"[^ref-5]. The remake's continued availability and positive reception nearly two decades after release demonstrates the enduring appeal of both the source material and the fan community's preservation efforts.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Free download from Infamous Adventures[^ref-11]
-
-**Download / Preservation**
-- [Infamous Adventures itch.io](https://infamousadventures.itch.io/kings-quest-iii-vga-remake) - Official distribution
-- [Internet Archive](https://archive.org/details/kings-quest-iii-fan-remake) - Archived preservation copy
-
-**SierraVault Mirror:**
-- [Windows](https://files.sierravault.net/FanGames/InfamousAdventures/KingsQuestIII/KQ3VGASETUP.zip) – 126 MB
-
-**Manuals & Extras**
-- Refer to original Sierra documentation for gameplay reference
-
-## See Also
-
-- [[2001 - King's Quest I VGA Remake]]
-- [[2001 - Space Quest - The Lost Chapter]]
-- [[2002 - King's Quest II+ - Romancing the Stones]]
-- [[2003 - Space Quest 0 - Replicated]]
-- [[2008 - Quest for Glory II VGA Remake]]
-- [[2010 - The Silver Lining]]
+|---------|------|----------|-------|[^ref-16][[2010 - The Silver Lining]]
 - [[2011 - King's Quest III Redux - To Heir is Human]]
 - [[2011 - Space Quest - Vohaul Strikes Back]]
 - [[2011 - Space Quest II VGA Remake]]

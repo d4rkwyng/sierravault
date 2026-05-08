@@ -195,11 +195,7 @@ The game's reliance on Windows 3.x technology has made preservation challenging,
 - [[1983 - Early Math]]
 - [[1983 - Learning with Leeper]]
 - [[1984 - Learning with FuzzyWOMP]]
-- [[1984 - Wizard of Id's WizMath]]
-- [[1984 - Wizard of Id's WizType]]
-- [[1993 - Kids' Typing]]
-
-## References
+References
 
 [^ref-1]: [MobyGames – Ready, Set, Read with Bananas & Jack](https://www.mobygames.com/game/113536/ready-set-read-with-bananas-jack/) – gameplay description, developer, publisher, platforms, genre, perspective, interface, credits count, series information, educational mechanics
 [^ref-2]: [The Sierra Chest – Ready, Set, Read with Bananas and Jack](https://sierrachest.com/index.php?a=games&id=433&title=ready-set-read&fld=demos) – first release date (1992-01-01), developer, publisher, series affiliations, platform, demo information

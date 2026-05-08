@@ -176,6 +176,12 @@ This game has been included in the following collections:
 - [GameFAQs – Space Quest II](https://gamefaqs.gamespot.com/pc/565075-space-quest-ii-chapter-ii-vohauls-revenge) – guides, FAQs, user ratings[^ref-22]
 
 ## See Also
+- [[1986 - Space Quest - The Sarien Encounter]]
+- [[1989 - Space Quest III - The Pirates of Pestulon]]
+- [[1991 - Space Quest I - Roger Wilco in the Sarien Encounter]]
+- [[1991 - Space Quest IV - Roger Wilco and the Time Rippers]]
+- [[1993 - Space Quest V - The Next Mutation]]
+- [[1995 - Space Quest 6 - Roger Wilco in the Spinal Frontier
 
 - [[1986 - Space Quest - The Sarien Encounter]]
 - [[1989 - Space Quest III - The Pirates of Pestulon]]

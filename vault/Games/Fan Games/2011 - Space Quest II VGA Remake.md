@@ -29,7 +29,7 @@ Infamous Adventures made the game available as a free download, reflecting their
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Adventures]][^ref-1]
-> **Design/Writing:** [[Scott Murphy]], [[Mark Crowe]] (original Two Guys from Andromeda)[^ref-1]
+> **Design/Writing:** [[Scott Murphy]], [[Mark Crowe]] (originaloriginal Two Guys from Andromeda)[^ref-1]
 > **Publisher:** Infamous Adventures[^ref-3]
 > **Engine:** AGS (Adventure Game Studio)
 > **Platforms:** Windows, macOS, Linux[^ref-3]
@@ -197,7 +197,7 @@ The continued support for the project, with updates still being released as rece
 **Manuals & Extras**
 - PDF Manual included with game download (2.7 MB)[^ref-3]
 
-The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-14][^ref-16][^ref-17][^ref-18]
+The game is well-documented in gaming databases and preservation archives.[^ref-13][^ref-16][^ref-17][^ref-18]
 
 ## See Also
 
@@ -233,6 +233,45 @@ The game is well-documented in gaming databases and preservation archives.[^ref-
 [^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
 [^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
 [^ref-21]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information
+[^ref-18]: [Infamous Adventures – Space Quest II VGA](https://www.infamous-quests.com/space-quest-ii-vga-remake/) – developer page
+[^ref-19]: [Sierra Chest – Space Quest II VGA Remake](https://sierrachest.com/index.php?a=games&id=450&title=space-quest-ii-vga-remake&fld=general) – fan game catalog entry
+[^ref-20]: [MobyGames – Space Quest II VGA Remake](https://www.mobygames.com/game/space-quest-ii-vga-remake/) – game database
+4][^ref-16][^ref-17][^ref-18]
+
+## See Also
+
+- [[2001 - King's Quest I VGA Remake]]
+- [[2001 - Space Quest - The Lost Chapter]]
+- [[2002 - King's Quest II+ - Romancing the Stones]]
+- [[2003 - Space Quest 0 - Replicated]]
+- [[2006 - King's Quest III Remake (Infamous Adventures)]]
+- [[2008 - Quest for Glory II VGA Remake]]
+- [[2010 - The Silver Lining]]
+- [[2011 - King's Quest III Redux - To Heir is Human]]
+- [[2011 - Space Quest - Vohaul Strikes Back]]
+- [[2012 - Space Quest - Incinerations]]
+- [[2021 - King's Quest IV Retold]]
+- [[2025 - SCP Sierra Conversion Project]]
+
+## References
+
+[^ref-1]: [Game Essence – Space Quest II VGA Remake](https://www.gamessence.net/space-quest-ii-vga-remake-by-infamous-adventures/) – Developer identification, original creators, game description
+[^ref-2]: [AGD Interactive Forums – Release Announcement](https://www.agdinteractive.com/forum/viewtopic.php?t=15596) – Release date, development time, features, voice pack details, manual information
+[^ref-3]: [Infamous Adventures itch.io – Purchase Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake/purchase) – Platform availability, file sizes, pricing model
+[^ref-4]: [Infamous Adventures itch.io – Main Page](https://infamousadventures.itch.io/space-quest-ii-vga-remake) – Version 2.0 release date, ratings, Universal Binary release, update notes
+[^ref-5]: [KBH Games – Space Quest II VGA Remake](https://kbhgames.com/game/space-quest-ii-vga-remake) – Game description, VGA graphics
+[^ref-6]: [Indie Retro News – Space Quest II VGA Remake](https://www.indieretronews.com/2020/01/space-quest-ii-vga-remake-by-infamous.html) – Version 2.0 announcement
+[^ref-7]: [VOGONS Forums – Space Quest II Discussion](https://www.vogons.org/viewtopic.php?t=22863) – Development status updates, community comparisons to AGDI
+[^ref-8]: [Sierra Gamers Forums – Space Quest II VGA Remake Topic](https://www.sierragamers.com/forums/topic/space-quest-ii-vga-remake/) – Discussion of AGD cancellation
+[^ref-9]: [PCGamingWiki – Space Quest II VGA Remake](https://www.pcgamingwiki.com/wiki/Space_Quest_II_VGA_Remake) – System requirements, platform compatibility
+[^ref-10]: [MobyGames – Space Quest II Search Results](https://www.mobygames.com/search/?q=Space+Quest+II+VGA+Remake&type=game) – Release dates, platform list
+[^ref-11]: [Infamous Adventures itch.io – Comments](https://infamousadventures.itch.io/space-quest-ii-vga-remake/comments) – Technical issues, Linux libpng problem, macOS fullscreen workarounds
+[^ref-12]: [Infamous Adventures itch.io – Devlog V2.0](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog/117383/space-quest-ii-v20) – Easter egg information, bug fixes, secret bar changes
+[^ref-13]: [Infamous Adventures itch.io – Devlog Index](https://infamousadventures.itch.io/space-quest-ii-vga-remake/devlog) – Original release date confirmation
+[^ref-14]: [RAWG.io – Space Quest II VGA Remake](https://rawg.io/games/space-quest-ii-vga-remake) – Platform information, game description: [Giant Bomb - Space Quest II VGA Remake](https://www.giantbomb.com/space-quest-ii-vga-remake/) - game wiki entry
+[^ref-16]: [IGDB - Space Quest II VGA](https://www.igdb.com/games/space-quest-ii-vga) - Internet Games Database entry
+[^ref-17]: [Sierra Wiki - Space Quest II VGA](https://wiki.sierrahelp.com/) - Sierra community documentation
+[^ref-18]: [ScummVM - Infamous Adventures](https://www.scummvm.org/) - compatibility information
 [^ref-18]: [Infamous Adventures – Space Quest II VGA](https://www.infamous-quests.com/space-quest-ii-vga-remake/) – developer page
 [^ref-19]: [Sierra Chest – Space Quest II VGA Remake](https://sierrachest.com/index.php?a=games&id=450&title=space-quest-ii-vga-remake&fld=general) – fan game catalog entry
 [^ref-20]: [MobyGames – Space Quest II VGA Remake](https://www.mobygames.com/game/space-quest-ii-vga-remake/) – game database

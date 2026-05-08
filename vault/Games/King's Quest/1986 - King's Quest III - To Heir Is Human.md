@@ -120,7 +120,7 @@ King's Quest III was developed using Sierra's AGI engine, which saw significant 
 
 The development team consisted of 18 credited personnel.[^ref-6] The game shipped on five 5.25" floppy disks and three 3.5" disks, making it Sierra's second-largest game after Time Zone.[^ref-22]
 
-**Development Credits:**[^ref-6][^ref-12]
+**Development Credits:**[^ref-12][^ref-6]
 - **Game Designer:** Roberta Williams
 - **Programmers:** [[Jeff Stephenson]], Bob Kernaghan, Robert [Bob] Heitman, Chris Iden, [[Al Lowe]]
 - **Graphic Artists:** [[Mark Crowe]], Doug MacNeill

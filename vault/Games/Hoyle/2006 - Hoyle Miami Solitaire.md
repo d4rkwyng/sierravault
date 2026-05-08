@@ -24,9 +24,9 @@ tags: [2000s, hoyle, sierra]
 
 Hoyle Miami Solitaire is a card game compilation released in November 2006 for PC, developed and published by Encore Software under the storied Hoyle brand name [^ref-1][^ref-2][^ref-12][^ref-16]. The game represents a thematic departure for the long-running Hoyle series, transporting players to the vibrant Art Deco era of 1920s Miami, where classic solitaire gameplay meets the glamorous aesthetic of the Jazz Age [^ref-3]. The title was also released in European markets under the alternate name "Hoyle South Beach Solitaire" [^ref-1].
 
-Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion [^ref-5]. The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
+Featuring over 55 different solitaire variations, the game distinguishes itself from other entries in the Hoyle catalog through its story-driven approach and mansion-building meta-game [^ref-3][^ref-5]. Players are hosted by the character John Carlisle Dunsworthy as they work through tournament play across 100 levels, unlocking card backs, bonus games, and decorative items for their Key Biscayne mansion . The fusion of classic card gaming with Miami's Latin-influenced style and Art Deco visual design creates what reviewers described as "a vibrant fusion of classic solitaire gameplay with a colorful Miami twist" [^ref-6].
 
-As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].[^ref-10][^ref-18][^ref-19]
+As part of the broader Hoyle franchise—a name traditionally associated with Sierra Entertainment in the gaming sphere—Hoyle Miami Solitaire continues the brand's legacy of delivering officially branded card game experiences to casual gaming audiences [^ref-7][^ref-13][^ref-17]. The game was distributed through various channels including retail and digital download platforms such as Big Fish Games [^ref-6][^ref-14][^ref-15].[^ref-10][^ref-18][^ref-19][^ref-10][^ref-18][^ref-19]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-1]
@@ -141,29 +141,7 @@ The game was marketed as part of the broader Hoyle franchise, which encompasses 
 
 Hoyle Miami Solitaire represents an interesting inflection point in the history of the venerable Hoyle gaming brand. Originally associated with Sierra Entertainment's long-running series of card and board game compilations dating back to the late 1980s, the Hoyle name had become synonymous with officially branded digital card gaming [^ref-7][^ref-9]. The transition to Encore Software marked a shift toward more budget-focused, thematically adventurous releases.
 
-The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not notable, Hoyle Miami Solitaire delivered on its promise of providing accessible, relaxing card gaming entertainment wrapped in an appealing aesthetic package. As Gamezebo noted, the game successfully captured "the authentic pastime (and metropolis on which it's based)'s sunny disposition" [^ref-5].
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Currently unavailable through major digital storefronts
-
-**Product Information**
-- **UPC:** 9338671004425[^ref-3]
-- **Item Code:** 137222[^ref-3]
-- **Classification:** G (General)[^ref-3]
-
-## See Also
-
-- [[2006 - Hoyle Casino|← Previous: Hoyle Casino]]
-- [[2007 - Hoyle Card Games 2008|→ Next: Hoyle Card Games 2008]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+The game's approach of combining traditional solitaire gameplay with a specific historical setting and narrative wrapper anticipated later casual gaming trends that would become more pronounced with the rise of mobile gaming. While not [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]

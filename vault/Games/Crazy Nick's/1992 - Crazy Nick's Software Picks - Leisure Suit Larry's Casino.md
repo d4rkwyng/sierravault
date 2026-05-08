@@ -26,7 +26,7 @@ Crazy Nick's Software Picks: Leisure Suit Larry's Casino is a budget gambling ti
 
 The game consists of three casino mini-games: Slot Machine, Blackjack, and Video Poker.[^ref-1] Players begin with 100.00 "Larry Dollars" to gamble with, and in the event they lose everything, the game allows them to take out a loan to continue playing.[^ref-1] While not a full adventure game, the title provided fans of the Leisure Suit Larry series with an opportunity to enjoy the gambling sequences from the mainline games without having to navigate through the adventure game content.[^ref-3] The game was later included in the Leisure Suit Larry Collectors Edition CD-ROM compilation, making it accessible to a broader audience of series enthusiasts.[^ref-4]
 
-Despite its budget origins, the game utilized Sierra's SCI1.1 engine and supported both EGA and VGA graphics modes.[^ref-5] The soundtrack featured music taken directly from the Leisure Suit Larry 1 VGA remake, including a shortened version of the famous Larry Theme composed by [[Al Lowe]].[^ref-2] The game has since been classified as abandonware and can be played through ScummVM emulation for modern compatibility.[^ref-6][^ref-16][^ref-17][^ref-18]
+Despite its budget origins, the game utilized Sierra's SCI1.1 engine and supported both EGA and VGA graphics modes.[^ref-5] The soundtrack featured music taken directly from the Leisure Suit Larry 1 VGA remake, including a shortened version of the famous Larry Theme composed by [[Al Lowe]].[^ref-2] The game has since been classified as abandonware and can be played through ScummVM emulation for modern compatibility.[^ref-6][^ref-16][^ref-17][^ref-18][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -224,27 +224,7 @@ From a preservation standpoint, the title remains notable as one of five budget 
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-leisure-suit-larry-s-casino-bo0) – Download page with game files[^ref-6]
-- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/82768) – Database entry with metadata[^ref-15]
-
-**Emulation**
-- Playable through ScummVM for modern system compatibility[^ref-5]
-
-**Manuals & Extras**
-- No dedicated manual documentation has been archived for this budget title
-
-## See Also
-
-- [[1992 - Crazy Nick's Software Picks - King Graham's Board Game Challenge|← Previous: Crazy Nick's Software Picks - King Graham's Board Game Challenge]]
-- [[1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow|→ Next: Crazy Nick's Software Picks - Parlor Games with Laura Bow]]
-
-- [[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
+[[1992 - Crazy Nick's Software Picks - Robin Hood's Games of Skill and Chance]]
 - [[1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack]]
 
 ## References

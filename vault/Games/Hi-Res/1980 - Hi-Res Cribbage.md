@@ -228,5 +228,4 @@ From a game design perspective, Hi-Res Cribbage showed that card games could suc
 [^ref-13]: [Timetoast Timelines – Life and Work of Warren Schwader](https://www.timetoast.com/timelines/life-and-work-of-warren-schwader) – developer timeline, career progression at On-Line Systems
 
 [^ref-14]: [AppleFritter Forum – Hi-Res Soccer and Cribbage Discussion](https://www.applefritter.com/node/19315) – Apple II gaming community discussion, technical details
-[^ref-15]: [Apple II History – 1980 Software Releases](https://www.apple2history.org/appendix/aha/aha80/) – Apple II software release index documenting Hi-Res Cribbage as part of On-Line Systems' 1980 catalog
 

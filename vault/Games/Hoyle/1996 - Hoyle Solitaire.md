@@ -46,7 +46,7 @@ As a solitaire card game collection, Hoyle Solitaire does not feature a narrativ
 
 The Hoyle series itself carried a rich legacy within Sierra's game catalog. The franchise began in 1989 with *Hoyle's Official Book of Games: Volume 1*, which featured Sierra game characters as computer opponents—players could compete against the likes of Leisure Suit Larry and Princess Rosella.[^ref-3] While Volume 1 featured multiplayer card games with these humorous opponents, Volume 2 and its 1996 successor Hoyle Solitaire focused on the solitary experience, removing the character interactions in favor of pure card game engagement.[^ref-3]
 
-The game's presentation emphasized creating a relaxing, meditative atmosphere for solo play. Players could customize their environment with different card back designs and wallpaper backgrounds, personalizing their solitaire experience.[^ref-5] This approach positioned Hoyle Solitaire as a break from more intense gaming experiences—as GameSpot noted, encouraging players to "Take a break from the shoot-'em-ups and God games - play a little solitaire!"[^ref-5][^ref-24]
+The game's presentation emphasized creating a relaxing, meditative atmosphere for solo play. Players could customize their environment with different card back designs and wallpaper backgrounds, personalizing their solitaire experience.[^ref-5] This approach positioned Hoyle Solitaire as a break from more intense gaming experiences—as GameSpot noted, encouraging players to "Take a break from the shoot-'em-ups and God games - play a little solitaire!"[^ref-5][^ref-24][^ref-24]
 
 ## Gameplay
 
@@ -248,23 +248,6 @@ The franchise's longevity—spanning from 1989's Volume 1 through Encore's 2013 
 ## Purchase
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [WildTangent – Hoyle Solitaire & More](https://www.wildtangent.com/p/cards/hoyle-solitaire-more) – Modern Encore release[^ref-13]
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – Hoyle Solitaire](https://archive.org/details/win3_HoyleSol) – Windows 3.x/95 version[^ref-6]
-- [Internet Archive – 1998 Rerelease](https://archive.org/details/hoyle-solitaire-usa) – USA rerelease[^ref-22]
-- [MyAbandonware – Hoyle Solitaire (1996)](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – Multiple versions[^ref-11]
-- [MyAbandonware – Hoyle Solitaire (2000)](https://www.myabandonware.com/game/hoyle-solitaire-hzh) – Later version[^ref-17]
-- [Classic Reload](https://classicreload.com/hoyle-solitaire.html) – Browser playable[^ref-23]
-
-## See Also
-
-- [[1996 - Hoyle Official Book of Games - Volume 5|← Previous: Hoyle Official Book of Games - Volume 5]]
-- [[1993 - Hoyle Classic Card Games|→ Next: Hoyle Classic Card Games]]
-
 - [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]

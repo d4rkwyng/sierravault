@@ -196,14 +196,7 @@ The game's emphasis on character personality through opponents like Marvin the T
 **Database Entries**
 - [MobyGames](https://www.mobygames.com/game/49352/hoyle-kids-games/) - Full credits and information
 - [GameFAQs](https://gamefaqs.gamespot.com/pc/916595-hoyle-kids-games) - User ratings and data Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-12][^ref-13][^ref-14][^ref-15]
-
-
-## See Also
-
-- [[2000 - Hoyle Crosswords|← Previous: Hoyle Crosswords]]
-- [[2000 - Hoyle Slots and Video Poker|→ Next: Hoyle Slots and Video Poker]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+[[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
@@ -277,4 +270,3 @@ The game's emphasis on character personality through opponents like Marvin the T
 [^ref-14]: [ELI Software Encyclopedia – Hoyle Kids Games](https://elisoftware.org/w/index.php/Hoyle_Kids'_Games_(PC,_CD-ROM)_Sierra_-_2001_USA,_Canada_Release) – technical specifications, system requirements
 
 [^ref-15]: [JustAnswer – Hoyle Games Installation Support](https://www.justanswer.com/computer/g8zx9-recently-received-new-sierra-three-card-games.html) – user community support, technical documentation
-[^ref-16]: [Internet Archive – Hoyle Kids' Games](https://archive.org/details/HoyleKidsGames) – Game preservation entry providing access to the original 2000 Sierra release

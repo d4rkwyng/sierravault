@@ -290,3 +290,73 @@ The game is documented in various gaming databases and preservation archives.[^r
 [^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
 [^ref-16]: [Amazon - Hoyle Puzzle and Board Games](https://www.amazon.com/Hoyle-Puzzle-Board-Games/dp/B0015YKVTQ) - retail listing
+[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Blackjack]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Casino]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Casino]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Casino Empire]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
+## References
+
+[^ref-1]: [Metacritic – Hoyle Puzzle and Board Games 2008](https://www.metacritic.com/game/hoyle-puzzle-and-board-games-2008/) – release date, developer, publisher, platform, ESRB rating, review status
+[^ref-2]: [GameFAQs – Hoyle Puzzle and Board Games 2008](https://gamefaqs.gamespot.com/pc/943486-hoyle-puzzle-and-board-games-2008) – release date, developer, publisher, user ratings, game description, Dominoes bug
+[^ref-3]: [FileCR – Hoyle Puzzle and Board Games 2008](https://filecr.com/pc-games/hoyle-puzzle-and-board-games-2008) – system requirements, download stats, Hoyle brand history, game description
+[^ref-4]: [MobyGames – Hoyle Puzzle & Board Games](https://www.mobygames.com/game/54289/hoyle-puzzle-board-games/) – developers, release dates, technical specs, multiplayer features, included games, Hoyle Bucks system, ESRB rating
+[^ref-5]: [Software Informer – Hoyle Puzzle and Board Games 2008](https://hoyle-puzzle-and-board-games-2008.software.informer.com/votes/) – game description, user vote count
+[^ref-6]: [Kotaku – Hoyle Puzzle and Board Games 2008](https://kotaku.com/games/hoyle-puzzle-and-board-games-2008) – game features, Hoyle Bucks system, computer opponents
+[^ref-7]: [Steam Community Guide – Encore Classic Puzzle & Board Games](https://steamcommunity.com/sharedfiles/filedetails/?id=3416472072) – game content details, cut content, bugs, trivia, music sources
+[^ref-8]: [MyAbandonware – Hoyle Puzzle and Board Games 2008](https://www.myabandonware.com/game/hoyle-puzzle-and-board-games-2008-m77) – user rating, file sizes, SecuROM protection, platform support
+[^ref-9]: [Encore Forums – Windows 10 Compatibility](http://forums.encoreusa.com/tm.asp?m=50366) – Windows 10 testing confirmation, official support statement
+[^ref-10]: [PMC/NIH – Multiple Sclerosis Cognitive Rehabilitation Study](https://pmc.ncbi.nlm.nih.gov/articles/PMC11012426/) – scientific use as control condition
+[^ref-11]: [MyAbandonware – Hoyle Solitaire](https://www.myabandonware.com/game/hoyle-solitaire-3l6) – related Hoyle product documentation, manual sizes: [Giant Bomb - Hoyle Puzzle and Board Games](https://www.giantbomb.com/hoyle-puzzle-and-board-games/) - game wiki entry
+[^ref-13]: [IGDB - Hoyle Puzzle and Board Games](https://www.igdb.com/games/hoyle-puzzle-and-board-games) - Internet Games Database entry
+[^ref-14]: [MobyGames - Hoyle Puzzle and Board Games](https://www.mobygames.com/game/hoyle-puzzle-and-board-games/) - game database entry
+[^ref-15]: [GameSpot - Hoyle Puzzle and Board Games](https://www.gamespot.com/hoyle-puzzle-and-board-games/) - game database entry
+[^ref-16]: [Amazon - Hoyle Puzzle and Board Games](https://www.amazon.com/Hoyle-Puzzle-Board-Games/dp/B0015YKVTQ) - retail listing

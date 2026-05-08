@@ -72,7 +72,7 @@ Erica's supernatural abilities serve as both investigation tools and puzzle-solv
 | **Projection** | Project memories onto the environment |
 | **Regression** | Travel deeper into past events |
 
-These powers allow players to reconstruct crime scenes and uncover hidden clues by interacting with relevant objects.[^ref-4][^ref-5] One review noted: "Her supernatural abilities are an advantage in investigating but a curse for her future."[^ref-18]
+These powers allow players to reconstruct crime scenes and uncover hidden clues by interacting with relevant objects.[^ref-5][^ref-4] One review noted: "Her supernatural abilities are an advantage in investigating but a curse for her future."[^ref-18]
 
 ### Structure and Progression
 
@@ -123,7 +123,7 @@ The game was successfully funded through a Kickstarter campaign that raised $30,
 
 ### Production
 
-The game was developed using the Unity 3.5 engine[^ref-4] by what has been described as an "indie dream team."[^ref-19] César Bittar served multiple roles as CEO, designer, writer, director, and producer.[^ref-9][^ref-15] The development utilized limited resources typical of independent game production, with the team using tools like Skype and Dropbox for communication and file sharing.[^ref-4]
+The game was developed using the Unity 3.5 engine[^ref-4] by what has been described as an "indie dream team."[^ref-19] César Bittar served multiple roles as CEO, designer, writer, director, and producer.[^ref-15][^ref-9] The development utilized limited resources typical of independent game production, with the team using tools like Skype and Dropbox for communication and file sharing.[^ref-4]
 
 **Voice Cast:**[^ref-9]
 | Actor | Character |
@@ -142,7 +142,7 @@ The game was developed using the Unity 3.5 engine[^ref-4] by what has been descr
 | Jason Victor | Robert Goodman |
 | Lisa Visotski | Gwen Graham |
 
-Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] Notably, Raleigh Holmes is the daughter of Robert Holmes, Jane Jensen's husband.[^ref-5][^ref-15]
+Voice acting was led by Raleigh Holmes as Erica Reed, praised for her "authentic Bostonian twang."[^ref-3] Notably, Raleigh Holmes is the daughter of Robert Holmes, Jane Jensen's husband.[^ref-15][^ref-5]
 
 **Music:**
 The atmospheric music was composed by Austin Haynes, Matthew Florianz, and Robert Holmes.[^ref-25] The Phoenix Online Store describes it: "From tense shootouts to melancholy moments, the atmospheric music of Austin Haynes sets the mood for Cognition: An Erica Reed Thriller."[^ref-25]

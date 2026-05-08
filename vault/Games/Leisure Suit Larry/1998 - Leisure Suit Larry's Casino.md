@@ -24,7 +24,7 @@ tags: [1990s, casino, al-lowe, leisure-suit-larry, sierra, spinoff, multiplayer]
 
 The game offered players a virtual gambling resort experience complete with five casino games, three party games, a full gift shop, three restaurants, three bars, and various surprises.[^ref-4] Characters from the adventure games, particularly *Leisure Suit Larry 7: Love for Sail!*, appeared as selectable player avatars and non-player characters throughout the casino.[^ref-5] At launch, the game featured online multiplayer functionality through Sierra's WON (World Opponent Network), allowing players to compete against each other for free via Cendant's (Sierra's parent company at the time) online service.[^ref-4]
 
-The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-6][^ref-7][^ref-13][^ref-14]
+The origins of *Leisure Suit Larry's Casino* trace back to an earlier Al Lowe design concept called "LarryLand," which was partially implemented on The Sierra Network (TSN), later known as ImagiNatioN (INN).[^ref-3] When the LarryLand concept remained largely unused, Lowe repurposed the idea using the Hoyle games as a technical foundation to create the standalone casino product.[^ref-3] The game was included in *Leisure Suit Larry: The Ultimate Pleasure Pack* (1999), a four-CD compilation that collected the entire Larry series up to that point.[^ref-7][^ref-6][^ref-13][^ref-14]
 
 > [!info]- Game Info
 > **Developer:** Sierra On-Line[^ref-1]
@@ -173,12 +173,6 @@ Based on contemporary documentation:[^ref-4]
 - Online multiplayer functionality is no longer available due to WON service shutdown[^ref-3]
 - The Wheel of Fortune game listed in documentation may not have been fully implemented at launch[^ref-5]
 - No option to set number of players at table in single-player mode[^ref-5]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist – Leisure Suit Larry's Casino](https://www.gog.com/dreamlist) – Community vote for re-release
 
 ## Downloads
 

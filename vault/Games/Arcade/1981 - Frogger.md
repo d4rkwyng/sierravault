@@ -169,7 +169,7 @@ The original arcade game contains several documented bugs and quirks[^ref-10]:
 - Moving left and right on the very top log can sometimes be extremely slow, especially after eating a fly
 - Players can occasionally jump off-grid and off-screen to the right from the middle section
 
-The DOS version running on modern systems experiences severe speed issues without proper DOSBox configuration, causing the game to run "very fast"[^ref-6].[^ref-35]
+The DOS version running on modern systems experiences severe speed issues without proper DOSBox configuration, causing the game to run "very fast"[^ref-6].[^ref-35][^ref-35]
 
 ### Easter Eggs and Trivia
 
@@ -299,7 +299,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [^ref-11]: [Medium – Great Games: Frogger](https://medium.com/portraits-in-pixel/great-games-frogger-b97b15bef2c) – development origins, publishing challenges
 [^ref-12]: [Game Developer – What Makes Frogger Fun](https://www.gamedeveloper.com/business/what-makes-frogger-fun-) – gameplay analysis
 [^ref-13]: [Entertainment Weekly – 10 Best Atari Games](http://www.ew.com/article/2013/01/25/the-10-best-atari-games) – controls, cultural impact
-[^ref-14]: [C64-Wiki – Frogger (Sierra)](https://www.c64-wiki.com/wiki/Frogger_(Sierra_Online,_Inc.))) – C64 version details, user reviews
+[^ref-14]: [C64-Wiki – Frogger (Sierra)](https://www.c64-wiki.com/wiki/Frogger_(Sierra_Online,_Inc.)) – C64 version details, user reviews
 [^ref-15]: [PrimeTime Amusements – Getting Good at Frogger](https://primetimeamusements.com/getting-good-frogger/) – gameplay mechanics, hazards
 [^ref-16]: [Atari Magazines – VG Update](http://www.atarimagazines.com/cva/v1n1/vgupdate.php) – Parker Brothers review, wraparound feature
 [^ref-17]: [Nintendo – Arcade Archives Frogger](https://www.nintendo.com/us/store/products/arcade-archives-frogger-switch/) – Switch release details
@@ -313,7 +313,7 @@ The 1997 3D remake by Hasbro Interactive—developed by SCE Studio Cambridge—a
 [^ref-25]: [Saturday Mornings Forever – Frogger](https://www.saturdaymorningsforever.com/2021/06/saturday-supercade-frogger.html) – voice cast, release timeline
 [^ref-27]: [Easter Egg Archive – Star Office Frogger](https://eeggs.com/items/4041.html) – hidden game activation
 [^ref-28]: [Museum of Play – Hall of Fame Finalists](https://www.museumofplay.org/press-release/world-video-game-hall-of-fame-reveals-12-finalists/) – 2025 finalist announcement
-[^ref-29]: [Wikipedia – Frogger (1997)](https://en.wikipedia.org/wiki/Frogger_(1997_video_game))) – sales data, reviews, development
+[^ref-29]: [Wikipedia – Frogger (1997)](https://en.wikipedia.org/wiki/Frogger_(1997_video_game)) – sales data, reviews, development
 [^ref-30]: [Apple II Games – Ribbit](https://apple2games.com/wiki/Ribbit) – clone history, legal dispute
 [^ref-31]: [C64-Wiki – Frogger Arcade (Homebrew)](https://www.c64-wiki.com/wiki/Frogger_Arcade) – fan remake details
 [^ref-32]: [Retro365 – Frogger Licensing History](https://retro365.blog/2023/02/01/bits-from-my-personal-collection-frogger-finally-an-officially-licensed-game/) – John Harris development, Sierra ports

@@ -27,7 +27,7 @@ SWAT: Global Strike Team is a tactical first-person shooter developed by Argonau
 
 Set in the near-future year of 2008, players assume the role of Mathias Kincaid, a former U.S. Army Delta Force member who leads an international peacekeeping police force tasked with combating global terrorism.[^ref-4] The game features 21 single-player missions and 10 multiplayer cooperative missions, offering players the ability to command a two-person squad through exotic locations while battling terrorists.[^ref-1] A notable feature was the integration of voice recognition technology using the USB headset (on PlayStation 2) or Xbox Live communicator, allowing players to bark commands at both teammates and enemies.[^ref-5]
 
-GameSpot called it "an impressive and successful effort to bring the old series into the 21st century," while acknowledging that the presentation and setting weren't always quite up to par.[^ref-2] The game received mixed reviews, earning a Metacritic score of 69/100 on both platforms, with critics praising its accessibility and solid gunplay while criticizing its linearity and AI shortcomings.[^ref-6][^ref-37][^ref-38]
+GameSpot called it "an impressive and successful effort to bring the old series into the 21st century," while acknowledging that the presentation and setting weren't always quite up to par.[^ref-2] The game received mixed reviews, earning a Metacritic score of 69/100 on both platforms, with critics praising its accessibility and solid gunplay while criticizing its linearity and AI shortcomings.[^ref-6][^ref-37][^ref-38][^ref-37][^ref-38]
 
 > [!info]- Game Info
 > **Developer:** Argonaut Games[^ref-1]
@@ -89,7 +89,7 @@ Other notable reviews included PSM Magazine at 80/100, praising the replayabilit
 
 ### Modern Assessment
 
-The game has maintained a modest reputation among tactical shooter fans, though it never achieved the lasting recognition of competitors like Rainbow Six or SOCOM. On IMDb, the game holds a respectable 7.2/10 rating from user reviews.[^ref-23] The game has developed a small cult following, with GOG.com users sharing nostalgic memories: "One of my all time favourite games. Also one of the absolute first games where I developed any interest in doing more than the bare minimum of playing the game on easy and calling it done."[^ref-3][^ref-39][^ref-40]
+The game has maintained a modest reputation among tactical shooter fans, though it never achieved the lasting recognition of competitors like Rainbow Six or SOCOM. On IMDb, the game holds a respectable 7.2/10 rating from user reviews.[^ref-23] The game has developed a small cult following, with GOG.com users sharing nostalgic memories: "One of my all time favourite games. Also one of the absolute first games where I developed any interest in doing more than the bare minimum of playing the game on easy and calling it done."[^ref-3][^ref-39][^ref-40][^ref-39][^ref-40]
 
 **Aggregate Scores:**
 - **Metacritic (PS2):** 69/100 (21 critics)[^ref-6]
@@ -227,10 +227,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 
 ## See Also
 
-- [[1999 - SWAT 3 - Close Quarters Battle|← Previous: SWAT 3 - Close Quarters Battle]]
-- [[2005 - SWAT 4|→ Next: SWAT 4]]
-
-- [[1995 - Police Quest - SWAT]]
+[[1995 - Police Quest - SWAT]]
 - [[1998 - Police Quest - SWAT 2]]
 - [[2006 - SWAT 4 - The Stetchkov Syndicate]]
 - [[2006 - SWAT Force]]
@@ -245,7 +242,7 @@ The Armchair Empire review encapsulated the game's mixed legacy: "If you are a t
 [^ref-3]: [GOG.com – SWAT: Global Strike Team Dreamlist](https://www.gog.com/dreamlist/game/swat-global-strike-team-2003) – user reviews, gameplay description
 [^ref-4]: [GameFAQs – SWAT: Global Strike Team (PS2)](https://gamefaqs.gamespot.com/ps2/589697-swat-global-strike-team) – game modes, user ratings, character information
 [^ref-5]: [IGN – Deliver Justice Around the Globe](https://www.ign.com/articles/2003/10/28/deliver-justice-around-the-globe) – voice command features, release announcement
-[^ref-41]: [Metacritic – SWAT: Global Strike Team](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=playstation-2) – aggregate scores, critic reviews, Edge Magazine quote
+[^ref-6]: [Metacritic – SWAT: Global Strike Team](https://www.metacritic.com/game/swat-global-strike-team/critic-reviews/?platform=playstation-2) – aggregate scores, critic reviews, Edge Magazine quote
 [^ref-7]: [MobyGames – SWAT: Global Strike Team](https://www.mobygames.com/game/40822/swat-global-strike-team/) – designers, technical specs, trivia, ratings
 [^ref-8]: [Xania.org – Developing SWAT GST Introduction](https://xania.org/201002/developing-swat-gst-introduction) – development history, engine details, Matt Godbolt quotes
 [^ref-12]: [Police Quest Fandom Wiki](https://policequest.fandom.com/wiki/SWAT:_Global_Strike_Team) – story background, character descriptions

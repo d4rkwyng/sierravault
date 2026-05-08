@@ -17,7 +17,7 @@ last_updated: "2026-02-02"
 
 ## Overview
 
-The Gabriel Knight series represents the pinnacle of Sierra On-Line's mature storytelling ambitions—Gothic horror adventures that proved computer games could be "no less literate, mature, well-informed, and thought-provoking than other media."[^ref-1][^ref-8] Created by [[Jane Jensen]] in 1993, the trilogy follows Gabriel Knight, a struggling New Orleans bookstore owner and horror novelist who discovers his birthright as a Schattenjäger (Shadow Hunter), a hereditary line of supernatural investigators.[^ref-2]
+The Gabriel Knight series represents the pinnacle of Sierra On-Line's mature storytelling ambitions—Gothic horror adventures that proved computer games could be "no less literate, mature, well-informed, and thought-provoking than other media."[^ref-1] Created by [[Jane Jensen]] in 1993, the trilogy follows Gabriel Knight, a struggling New Orleans bookstore owner and horror novelist who discovers his birthright as a Schattenjäger (Shadow Hunter), a hereditary line of supernatural investigators.[^ref-2]
 
 Distinguished by exceptional voice acting, meticulous research into real-world mythology, and sophisticated narrative themes, the Gabriel Knight series earned critical acclaim that established Jane Jensen as one of adventure gaming's preeminent designers.[^ref-3] The original Sins of the Fathers shared Computer Gaming World's 1994 Adventure Game of the Year with LucasArts' Day of the Tentacle—"possibly the single greatest double billing in gaming history."[^ref-4]
 
@@ -31,7 +31,7 @@ Distinguished by exceptional voice acting, meticulous research into real-world m
 
 ## Jane Jensen's Vision
 
-[[Jane Jensen]] brought exceptional creative freedom to Gabriel Knight, as she later reflected: "One of the great things about Sierra was that Ken Williams really believed in the artistic vision. If he gave you the chance to do a game, that was your responsibility. Nobody told you what to do with it."[^ref-2]
+[[Jane Jensen]] brought exceptional creative freedom to Gabriel Knight, as she later reflected: "One of the great things about Sierra was that Ken Williams really believed in the artistic vision. If he gave you the chance to do a game, that was your responsibility. Nobody told you what to do with it."[^ref-5]
 
 Her approach to the series involved:
 
@@ -109,7 +109,7 @@ Blood of the Sacred introduced real-time 3D graphics, though the technology led 
 | Blood of the Sacred | Mixed reception, criticized for 3D implementation |
 | 20th Anniversary | 74 Metacritic, "remake done right" - Digital Spy |
 
-George Starostin wrote: "Gabriel Knight: Sins of the Fathers is, without question, the best adventure game ever made by Sierra On-Line."[^ref-4] The series consistently received perfect scores from adventure gaming publications.
+George Starostin wrote: "Gabriel Knight: Sins of the Fathers is, without question, the best adventure game ever made by Sierra On-Line."[^ref-7] The series consistently received perfect scores from adventure gaming publications.
 
 ## Legacy
 
@@ -163,11 +163,24 @@ Jensen has been actively working on a fourth Gabriel Knight game titled "Five He
 - [[Robert Holmes]] - Composer for the series
 - [[King's Quest Series]] - Sierra's flagship adventure series
 - [[Laura Bow Series]] - Another mystery-focused Sierra series
+- [[GK: 20th Anniversary]]
+- [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]
+- [[Gabriel Knight: Sins of the Fathers]]
+- [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
+- [[The Beast Within: A Gabriel Knight Mystery]]
+- [[GK: 20th Anniversary]]
+- [[Gabriel Knight 3: Blood of the Sacred, Blood of the Damned]]
+- [[Gabriel Knight: Sins of the Fathers]]
+- [[Gabriel Knight: Sins of the Fathers – 20th Anniversary Edition]]
+- [[The Beast Within: A Gabriel Knight Mystery]]
+
 ## References
 
 [^ref-1]: [MyAbandonware - Gabriel Knight](https://www.myabandonware.com/game/gabriel-knight-sins-of-the-fathers-22m) – HOTUD review quote on literary quality
 [^ref-2]: [Wikipedia - Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) – Series overview and Schattenjäger concept
 [^ref-3]: [Adventure Gamers - Gabriel Knight Review](https://adventuregamers.com/games/view/15492) – Critical acclaim assessment
 [^ref-4]: [Only Solitaire - Gabriel Knight Review](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) – CGW award "double billing" quote
+[^ref-5]: [Wikipedia - Gabriel Knight](https://en.wikipedia.org/wiki/Gabriel_Knight%3A_Sins_of_the_Fathers) – Ken Williams creative freedom quote
 [^ref-6]: [The Digital Antiquarian - Gabriel Knight](https://www.filfre.net/?s=Gabriel+Knight%3A+Sins+of+the+Fathers) – Ken Williams "something happier" quote
+[^ref-7]: [Only Solitaire - Gabriel Knight](https://onlysolitaire.substack.com/p/game-review-gabriel-knight-sins-of) – George Starostin "best Sierra adventure" quote
 [^ref-8]: [Behind The Voice Actors - Gabriel Knight](https://www.behindthevoiceactors.com/video-games/gabriel-knight-sins-of-the-fathers/) – Voice cast credits

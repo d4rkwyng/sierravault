@@ -26,7 +26,7 @@ Donald Duck's Playground is an educational video game developed by [[Sierra On-L
 
 The game tasks players with controlling Donald Duck as he works various jobs around Duckburg to earn money, which is then spent to purchase playground equipment for his mischievous nephews Huey, Dewey, and Louie.[^ref-4] Originally written for the Commodore 64, the game was subsequently ported to Sierra's Adventure Game Interpreter (AGI) engine for multiple other platforms, making it one of the most unique uses of that adventure game technology.[^ref-5] The game has been praised as "one of the most classic examples of properly good use of a comic book/cartoon character in making children more interested in edutainment, without even noticing it."[^ref-6]
 
-Disney approached Sierra after seeing Al Lowe's earlier children's game "Troll's Tale," requesting he create an educational title featuring their beloved duck character.[^ref-1] The result was a groundbreaking piece of software that balanced genuine entertainment value with solid educational content, described by contemporary reviewers as "so much fun that one might not notice the educational content."[^ref-5][^ref-28]
+Disney approached Sierra after seeing Al Lowe's earlier children's game "Troll's Tale," requesting he create an educational title featuring their beloved duck character.[^ref-1] The result was a groundbreaking piece of software that balanced genuine entertainment value with solid educational content, described by contemporary reviewers as "so much fun that one might not notice the educational content."[^ref-5][^ref-28][^ref-28]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -72,7 +72,7 @@ After earning money, players visit the playground to purchase equipment. The AGI
 
 The educational mechanics focus heavily on money management and cash-handling skills.[^ref-4] At each job, players must correctly calculate and provide change to customers, developing practical arithmetic abilities.[^ref-2] The greengrocer job particularly tests quick thinking as produce falls and must be sorted rapidly.[^ref-6]
 
-The McDuck Airlines job has been identified as "by far the fastest money-maker of the game," making it strategically important for efficient playground completion.[^ref-9] The difficulty settings affect not just wage rates but also game speed—on Advanced mode, some mini-games become significantly more challenging due to increased speed, with some reviewers noting the train becomes almost impossibly fast compared to Donald's walking pace.[^ref-6][^ref-27]
+The McDuck Airlines job has been identified as "by far the fastest money-maker of the game," making it strategically important for efficient playground completion.[^ref-9] The difficulty settings affect not just wage rates but also game speed—on Advanced mode, some mini-games become significantly more challenging due to increased speed, with some reviewers noting the train becomes almost impossibly fast compared to Donald's walking pace.[^ref-6][^ref-27][^ref-27]
 
 ## Reception
 
@@ -86,7 +86,7 @@ The game earned particular acclaim from *The Rainbow* magazine in their Septembe
 
 Modern retrospectives have generally been positive while acknowledging the game's limited appeal to older audiences. The *Data Driven Gamer* blog rated the game as "Average" using their GAB rating system, noting it provides solid "edutainment value to small children" but that "anyone older than the target demographic is certain to find this too easy, unsubstantial, and boring."[^ref-15] However, the same reviewer acknowledged the game's historical significance as one of Disney's early computer game ventures.[^ref-15]
 
-User communities have shown enduring fondness for the title. Lemon64 users collectively rate the Commodore 64 version at 7.53/10 based on 45 votes, with individual reviews noting "This kind of game just has no business being as good as it is."[^ref-10] One Lemon64 reviewer awarded it 8/10 overall, with 7/10 for graphics, 7/10 for sound, and 8/10 for playability.[^ref-10][^ref-26]
+User communities have shown enduring fondness for the title. Lemon64 users collectively rate the Commodore 64 version at 7.53/10 based on 45 votes, with individual reviews noting "This kind of game just has no business being as good as it is."[^ref-10] One Lemon64 reviewer awarded it 8/10 overall, with 7/10 for graphics, 7/10 for sound, and 8/10 for playability.[^ref-10][^ref-26][^ref-26]
 
 **Aggregate Scores:**
 - **MobyGames Critics:** 63% (4 ratings)[^ref-2]
@@ -216,24 +216,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/donald-duck-s-playground-1984) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive](https://archive.org/details/msdos_donald_ducks_playground_1984_sierra) - Playable in browser
-- [MyAbandonware](https://www.myabandonware.com/game/donald-duck-s-playground-fk) - Multiple platform versions
-- [Al Lowe's Personal Website](https://allowe.com/downloads/games.html) - Official freeware release
-
-**Database Entries**
-- [MobyGames](https://www.mobygames.com/game/3491/donald-ducks-playground/)
-- [Lemon64](https://www.lemon64.com/game/donald-ducks-playground)
-
-## See Also
-
-- [[1984 - Mickey's Space Adventure]]
-- [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
+[[1984 - Winnie the Pooh in the Hundred Acre Wood]]
 - [[1986 - The Black Cauldron]]
 
 ## References
@@ -246,7 +229,7 @@ The game's influence can be seen in the edutainment boom that followed in the la
 [^ref-6]: [FRGCB Blog – Donald Duck's Playground Multi-Platform Comparison](http://frgcb.blogspot.com/2014/04/donald-ducks-playground-us-goldsierra.html) – platform ratings, development credits, AGI porting issues, trivia, version comparisons
 [^ref-7]: [GameFAQs – C64 Walkthrough by Frankomatic](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground/faqs/38109) – story premise, controls, job descriptions
 [^ref-8]: [GameFAQs – Commodore 64 Database Entry](https://gamefaqs.gamespot.com/c64/568792-donald-ducks-playground) – official game description, Disney marketing text, user ratings
-[^ref-29]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=walkthrough) – job mechanics, money conversion, platform differences, playground equipment
+[^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=262&title=donald-ducks-playground&fld=walkthrough) – job mechanics, money conversion, platform differences, playground equipment
 [^ref-10]: [Lemon64 – User Review by Northlander](https://www.lemon64.com/review/donald-ducks-playground/1412) – detailed review, ratings, soft-lock bug, parental perspective
 [^ref-11]: [PDXtra Blog – Donald Duck's Playground Retrospective](http://pdxtra.blogspot.com/2016/06/donald-ducks-playground.html) – mini-game descriptions, personal memories
 [^ref-12]: [StrategyWiki – Donald Duck's Playground](https://strategywiki.org/wiki/Donald_Duck%27s_Playground) – job shift mechanics, gameplay structure

@@ -25,7 +25,7 @@ King's Quest V: Absence Makes the Heart Go Yonder! marks a pivotal turning point
 
 The game pushed forward with improved visuals and production values that were groundbreaking for its time.[^ref-3] With a development budget of approximately one million dollars, it was the first adventure game to cost over $1 million USD to produce.[^ref-1] The backgrounds were hand-painted by professional artists using acrylic and watercolor on canvas, then scanned into the computer—a revolutionary technique that produced what critics called "tour de force VGA graphics."[^ref-4][^ref-5] Computer Gaming World noted that "Roberta Williams horrified Sierra traditionalists by getting the parser out of the way of some of the most beautiful graphics ever."[^ref-6]
 
-King's Quest V became a commercial phenomenon, selling over 500,000 copies and becoming the best-selling computer game in history at that time.[^ref-7] The game won the Software Publishers Association's Excellence in Software Award for Best Fantasy Role-Playing/Adventure Program in 1991, along with Computer Gaming World's Adventure Game of the Year award.[^ref-6] Despite its commercial success and technical achievements, modern retrospectives have been more critical, with reviewers noting that while revolutionary for its era, certain design decisions have aged poorly.[^ref-8][^ref-53]
+King's Quest V became a commercial phenomenon, selling over 500,000 copies and becoming the best-selling computer game in history at that time.[^ref-7] The game won the Software Publishers Association's Excellence in Software Award for Best Fantasy Role-Playing/Adventure Program in 1991, along with Computer Gaming World's Adventure Game of the Year award.[^ref-6] Despite its commercial success and technical achievements, modern retrospectives have been more critical, with reviewers noting that while revolutionary for its era, certain design decisions have aged poorly.[^ref-8][^ref-53][^ref-53]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-2]
@@ -217,72 +217,7 @@ Common compatibility issues include:
 | Tailor | D.J. Williams |
 | Elf / Harpy | Nancy Zdenek |
 
-Voice acting was performed primarily by Sierra staff members rather than professional actors, which contributed to the mixed reception of the CD-ROM version's voice work.[^ref-23][^ref-29]
-
-## Legacy
-
-### Sales and Commercial Impact
-
-King's Quest V sold 160,000 copies in its first three months and 300,000 copies within fifteen months of release.[^ref-15] By February 1993, the game had sold 250,000 units, and lifetime sales exceeded 500,000 copies worldwide.[^ref-9] Ken Williams reported that the game had sold 300,000 copies by Spring 1992.[^ref-40] By November 2000, US sales alone were estimated at 300,000-400,000 units.[^ref-6]
-
-The game's success established it as the best-selling computer game in history at that time.[^ref-7] It demonstrated the commercial viability of CD-ROM gaming and helped establish Sierra as a leader in multimedia entertainment.[^ref-15] The game was one of the best-selling DOS games of its era and won several industry awards.[^ref-41]
-
-### Collections
-
-King's Quest V has been included in numerous compilation releases:
-- **King's Quest Collection Series (1997):** Included with games I-VII[^ref-42]
-- **King's Quest Collection Series (1999):** Re-released compilation[^ref-22]
-- **King's Quest Collection (2006):** Modern Windows compatible release[^ref-22]
-- **GOG.com King's Quest 4+5+6:** Digital distribution bundle[^ref-43]
-- **Steam King's Quest Collection:** Digital distribution[^ref-37]
-
-### Fan Projects
-
-The game has inspired various fan efforts over the years. AGD Interactive, devoted to remaking classic Sierra adventure games, has discussed King's Quest V in fan community contexts.[^ref-44] Fan community member MusicallyInspired created an AGI-style version of King's Quest V as an artistic project, though not as a full playable game.[^ref-45] The game has been preserved through various archive efforts including the Internet Archive, where multiple language versions (Spanish, Italian, French) are available.[^ref-46][^ref-47]
-
-### Amiga Port & SCP Enhancement
-
-Like other Sierra SCI games, King's Quest V received an Amiga port that suffered from graphical compromises due to the SCI engine's limited Amiga implementation. The conversion used reduced color palettes that failed to capture the visual quality of the DOS VGA original.
-
-In January 2026, the [[2025 - SCP Sierra Conversion Project|Sierra Conversion Project (SCP)]]—a Spanish fan group led by kikems (AmigaWave) and DaRaSCo—released an OCS remaster that brings the Amiga version closer to the PC VGA graphics quality.[^ref-54] The enhancement includes improved palettes and MIDI support via Roland MT-32/mt32-pi.[^ref-54]
-
-**Download:** [King's Quest V OCS Remaster (MEGA)](https://mega.nz/file/nx10ATrL#nD0W0Enyvpkzr80A59kU3-8XYBrqIS1XXeZCA4ZULpM)[^ref-54]
-
-### Related Publications
-
-- **King's Quest V Manual:** Official game documentation written by Bridget McKenna, included with original release[^ref-48]
-- **Sierra Hint Book:** Official hint guide available for players needing puzzle assistance[^ref-49]
-- **Nintendo Power Strategy Guide:** NES-specific walkthrough published in August 1993 issue[^ref-50]
-
-### Critical Perspective
-
-King's Quest V occupies a fascinating and somewhat contradictory place in adventure game history. On one hand, it represents a genuine technological milestone—the game's 256-color VGA graphics, point-and-click interface, and CD-ROM voice acting were genuinely revolutionary and helped define what adventure games could become.[^ref-1] Adventure Classic Gaming's Eivind Hagerup wrote that it "marks a pivotal turning point in Sierra On-Line's gaming philosophy which has forever changed the face of adventure game design."[^ref-1]
-
-On the other hand, the game also exemplifies design philosophies that would eventually contribute to the adventure genre's decline. The numerous dead-ends, illogical puzzle solutions, and frequent deaths frustrated players and represent what one reviewer called pulling "nearly every dick-move from the Sierra playbook."[^ref-51] Williams herself later acknowledged that the transition to icon-based interface took time to fully realize: "Unfortunately it took some time to realize all the possibilities the new format offered; some players felt icon-based games were less challenging."[^ref-40] The game stands as both a monument to technological progress and a cautionary tale about game design, its legacy defined as much by what it achieved as by what its successors would improve upon.
-
-## Downloads
-
-**Purchase / Digital Stores**
-- [GOG – King's Quest 4+5+6](https://www.gog.com/en/game/kings_quest_4_5_6)
-- Steam – King's Quest Collection
-
-**Download / Preservation**
-- [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Kings_Quest_V_-_Absence_Makes_the_Heart_Go_Yonder_1990)
-- [Internet Archive – CD-ROM Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder-1990.-7z)
-- [Internet Archive – Spanish Version](https://archive.org/details/kings-quest-v-absence-makes-the-heart-go-yonder)
-
-**Manuals & Extras**
-- [Internet Archive – Game Manual](https://archive.org/details/vgmuseum_sierra_kq5-manual)
-- [Internet Archive – Alternate Manual](https://archive.org/details/vgmuseum_sierra_kq5-alt-manual)
-
-## See Also
-
-- [[1984 - King's Quest - Quest for the Crown]]
-- [[1985 - King's Quest II - Romancing the Throne]]
-- [[1986 - King's Quest III - To Heir Is Human]]
-- [[1988 - King's Quest IV - The Perils of Rosella]]
-- [[1990 - Roberta Williams' King's Quest I - Quest for the Crown]]
-- [[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
+Voice acting was performed primarily by Sierra staff members rather than professional actors, which contributed to the mixed reception of the CD-ROM version's voice work.[^ref-2[[1992 - King's Quest VI - Heir Today, Gone Tomorrow]]
 - [[1994 - King's Quest VII - The Princeless Bride]]
 - [[1998 - King's Quest - Mask of Eternity]]
 - [[2015 - King's Quest]]

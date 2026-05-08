@@ -25,7 +25,7 @@ tags: [adventure, order-of-the-thorne, sierra]
 
 The game represents a significant departure from its predecessor, shifting focus from Finn the Bard to a new protagonist named Patrick, a young squire serving under the veteran knight Sir Caradoc of the Order of the Thorne[^ref-4]. The title was originally announced for release around 2020 but has remained in development limbo for years, with the developers acknowledging in 2025 that significant work remains to complete the project[^ref-5][^ref-6].
 
-Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built their reputation on VGA remakes of classic Sierra adventures including *Space Quest II* and *King's Quest III* before transitioning to commercial development[^ref-7]. Their first original commercial title, *Quest for Infamy* (2014), established the studio's commitment to nostalgic adventure gaming, and *Fortress of Fire* was conceived as part of an ambitious expansion of their fantasy gaming universe[^ref-8].[^ref-13][^ref-15][^ref-18]
+Infamous Quests, founded in 2012 by Steven Alexander and Shawn Mills, built their reputation on VGA remakes of classic Sierra adventures including *Space Quest II* and *King's Quest III* before transitioning to commercial development[^ref-7]. Their first original commercial title, *Quest for Infamy* (2014), established the studio's commitment to nostalgic adventure gaming, and *Fortress of Fire* was conceived as part of an ambitious expansion of their fantasy gaming universe[^ref-8].[^ref-13][^ref-15][^ref-18][^ref-13][^ref-15][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** [[Infamous Quests]][^ref-7]
@@ -46,7 +46,7 @@ The primary protagonist is Patrick, nicknamed "Addy," who serves as a young squi
 
 The Land of Sunlight, once a vibrant and magical region, has found its homes blighted and dark under an unknown threat[^ref-2]. Players must uncover the enemy's plans and find a way to save both the valley and the entire magical world of Uir from the encroaching darkness[^ref-3]. The fortress itself serves as the central location and primary obstacle, requiring Patrick to work his way through a dark and desolate land, solving puzzles and riddles while meeting fantastic characters[^ref-4].
 
-The story was designed to provide closure to the *Order of the Thorne* anthology while expanding the lore and world-building established in the first game[^ref-1]. However, according to later developer commentary, the original vision for the series included more mature and developed story elements that were scaled back during the production of *The King's Challenge*[^ref-5].[^ref-17]
+The story was designed to provide closure to the *Order of the Thorne* anthology while expanding the lore and world-building established in the first game[^ref-1]. However, according to later developer commentary, the original vision for the series included more mature and developed story elements that were scaled back during the production of *The King's Challenge*[^ref-5].[^ref-17][^ref-17]
 
 ## Gameplay
 
@@ -166,27 +166,7 @@ No official hint books or strategy guides have been announced for *Fortress of F
 
 The game's prolonged development limbo illustrates the challenges facing nostalgic indie projects: critical acclaim and crowdfunding success do not always translate to sustainable commercial viability[^ref-6]. The developers' candid reflections on creative compromises—particularly the decision to pursue a "family friendly" approach that may have alienated their core audience of adult adventure gaming enthusiasts—offers valuable insight into the tensions between market assumptions and actual player demographics[^ref-5].
 
-The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-12][^ref-14].[^ref-16]
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [itch.io](https://infamousquests.itch.io/ootf-fortress-of-fire) - Free listing (In Development)[^ref-3]
-
-**Related Games**
-- [Steam – The King's Challenge](https://store.steampowered.com/app/425600/The_Order_of_the_Thorne__The_Kings_Challenge/) - First game in series[^ref-11]
-
-**Developer Support**
-- [Patreon](https://www.patreon.com/posts/updates-on-rtr-141274312) - Early access for supporters[^ref-5]
-
-## See Also
-
-- [[1993 - Blue Force]]
+The *Order of the Thorne* series, even incomplete, demonstrates that the Sierra adventure formula continues to inspire developers and attract dedicated audiences, even if the commercial realities of modern game development make such projects increasingly difficult to sustain[^ref-12][^ref-14].[^ref-16][[1993 - Blue Force]]
 - [[2006 - Al Emmo and the Lost Dutchman's Mine]]
 - [[2008 - Ace of Aces]]
 - [[2010 - Gray Matter]]

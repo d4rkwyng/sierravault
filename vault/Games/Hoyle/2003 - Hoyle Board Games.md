@@ -246,15 +246,7 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 - [Macintosh Repository](https://www.macintoshrepository.org/19810-hoyle-board-games-2003) - Mac version preservation
 
 **Manuals & Extras**
-- Original Hoyle rulebook and strategy guide included with game[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-15][^ref-16]
-
-
-## See Also
-
-- [[2002 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
-- [[2003 - Hoyle Card Games|→ Next: Hoyle Card Games]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+- Original Hoyle rulebook and strategy guide included with game[^ref-6] Additional contemporary coverage, technical documentation, and community archives are catalogued in the supporting sources.[^ref-13][^ref-15][^ref-16][[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
@@ -327,4 +319,3 @@ The Hoyle series had been a consistent performer for Sierra since the late 1980s
 [^ref-15]: [Internet Archive – Hoyle Board Games](https://archive.org/details/HOYLEBOARD) – Game preservation, archive documentation, playable version
 
 [^ref-16]: [NeverDieMedia – Hoyle Puzzle Games 2003](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2003) – Related software, publication documentation, series information
-[^ref-17]: [GameSpot – Hoyle Board Games Review](https://www.gamespot.com/reviews/hoyle-board-games-review/1900-2895435/) – Professional review noting the 18-game lineup and AI quality

@@ -26,7 +26,7 @@ tags:
 
 ## Overview
 
-Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released on February 15, 2023[^ref-1][^ref-2][^ref-20]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Entertainment, including content from the Cleopatra: Queen of the Nile expansion pack[^ref-2]. The remake also incorporates the Cleopatra expansion content, providing the complete Pharaoh experience in a single modernized package.
+Pharaoh: A New Era is a city-building video game developed by Triskell Interactive and published by Dotemu, released on February 15, 2023[^ref-1][^ref-2]. It is a full remake of the classic [[1999 - Pharaoh|Pharaoh]] (1999), originally developed by Impressions Games and published by Sierra Entertainment, including content from the Cleopatra: Queen of the Nile expansion pack[^ref-2]. The remake also incorporates the Cleopatra expansion content, providing the complete Pharaoh experience in a single modernized package.
 
 Rock Paper Shotgun called it "the definitive version of a stone-cold classic"[^ref-3], while Shacknews praised it as "an excellent spin on a classic"[^ref-4]. The game closely follows the original's design while featuring completely redrawn artwork with zoom functionality, quality-of-life improvements drawn from later Impressions titles like [[2000 - Zeus - Master of Olympus|Zeus: Master of Olympus]], and a modernized user interface[^ref-3]. With over 50 missions spanning more than 100 hours of gameplay, the remake preserves the depth that made the original a beloved entry in the City Building series[^ref-5].[^ref-19]
 
@@ -152,7 +152,7 @@ The successful remaster paved the way for potential future remakes of other clas
 [^ref-2]: [MobyGames – Pharaoh: A New Era](https://www.mobygames.com/game/199619/pharaoh-a-new-era/) – Credits, release information, platform data
 [^ref-3]: [Rock Paper Shotgun – Pharaoh: A New Era Review](https://www.rockpapershotgun.com/pharaoh-a-new-era-review) – "Definitive version" verdict, gameplay changes, graphics, global worker pool
 [^ref-4]: [Shacknews – Pharaoh: A New Era Review](https://www.shacknews.com/article/134182/pharaoh-a-new-era-review-score) – "Excellent spin on a classic" review verdict
-[^ref-20]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Game description, features, 50+ missions, interface improvements
+[^ref-5]: [Steam – Pharaoh: A New Era](https://store.steampowered.com/app/1351080/Pharaoh_A_New_Era/) – Game description, features, 50+ missions, interface improvements
 [^ref-6]: [Metacritic – Pharaoh: A New Era](https://www.metacritic.com/game/pharaoh-a-new-era/critic-reviews/?platform=pc) – Aggregate review scores
 [^ref-7]: [Gamepressure – Pharaoh: A New Era Review](https://www.gamepressure.com/editorials/reviews/pharaoh-new-era-review-pyramids-built-on-nostalgia/zb60e) – "Splendid opportunity to rediscover this timeless classic"
 [^ref-8]: [NPR – Best New Games](https://www.npr.org/2023/03/03/1160656371/npr-staff-review-the-best-new-games) – Mixed review, bugs noted, mobile-game aesthetics

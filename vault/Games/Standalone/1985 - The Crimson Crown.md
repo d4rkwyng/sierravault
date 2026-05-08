@@ -26,7 +26,7 @@ The Crimson Crown, also known as *Transylvania II: The Crimson Crown* and *Furth
 
 Unlike the more common pure text adventures of the era, The Crimson Crown renders each location with detailed illustrations, giving players a stronger sense of presence in the game world.[^ref-4] The game tasks players with a quest to defeat a magical vampire with the assistance of Princess Sabrina, who has become a fledgling magician, and the heir to the throne, Prince Erik.[^ref-5] This multi-character approach was innovative for its time, requiring players to coordinate the unique abilities of their companions to solve puzzles and progress through the story.[^ref-6]
 
-The game holds historical significance as part of Polarware's pioneering work in computer graphics, with the company's software eventually being archived in the Smithsonian Museum of American History.[^ref-7] The Crimson Crown was later released as freeware by its authors in 1990, ensuring its preservation for future generations of players.[^ref-8][^ref-22][^ref-23]
+The game holds historical significance as part of Polarware's pioneering work in computer graphics, with the company's software eventually being archived in the Smithsonian Museum of American History.[^ref-7] The Crimson Crown was later released as freeware by its authors in 1990, ensuring its preservation for future generations of players.[^ref-8][^ref-22][^ref-23][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** Polarware[^ref-1]
@@ -194,8 +194,7 @@ Modern assessments recognize the game's historical significance while acknowledg
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

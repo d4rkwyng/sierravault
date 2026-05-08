@@ -15,6 +15,7 @@ description: 3-D Ultra Pinball Power! is a comprehensive compilation package rel
   by Sierra On-Line in 1999, collecting four of the most acclaimed titles from...
 tags: [1990s, 3-d-ultra-pinball, sierra]
 last_modified: 2026-03-15T15:49:44-07:00
+last_modified: 2026-03-15T15:49:44-07:00
 ---
 # 3-D Ultra Pinball Power!
 
@@ -26,7 +27,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 The 3-D Ultra Pinball series distinguished itself from traditional arcade pinball simulations by fully embracing the possibilities of digital gaming[^ref-2]. As one description noted, "Some would call it Impossible Pinball. Not that it is difficult to play, rather that you could never build a pinball machine that could do the type of things that this game does"[^ref-4]. The games featured animation, multiple interconnected tables, and temporary targets such as spaceships, goblins, and dinosaurs appearing throughout gameplay—elements that would be physically impossible in real pinball machines[^ref-2]. The Power! compilation served as both an accessible entry point for newcomers and a comprehensive collection for fans of the series.
 
-Beyond the four pinball titles, the compilation included The Incredible Machine 3.0 as a bonus, adding significant value to the package[^ref-3]. Each game was characterized by a different graphic design and unique atmosphere, allowing players to explore remote corners of space in Fastest Pinball in Space, hunt for terrifying ghouls in Creep Night, visit the prehistoric jungle in The Lost Continent, or experience racing thrills in Turbo Racing[^ref-1].[^ref-11][^ref-12][^ref-13]
+Beyond the four pinball titles, the compilation included The Incredible Machine 3.0 as a bonus, adding significant value to the package[^ref-3]. Each game was characterized by a different graphic design and unique atmosphere, allowing players to explore remote corners of space in Fastest Pinball in Space, hunt for terrifying ghouls in Creep Night, visit the prehistoric jungle in The Lost Continent, or experience racing thrills in Turbo Racing[^ref-1].[^ref-11][^ref-12][^ref-13][^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-5]
@@ -200,20 +201,6 @@ The commercial success of the series—over half a million copies by 1998[^ref-2
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Currently not available on major digital distribution platforms
-
-**Download / Preservation**
-- Physical copies available through secondary markets and retro gaming vendors
-
-**Manuals & Extras**
-- Original manuals included with physical CD-ROM releases
-
-## See Also
-
-- [[1999 - 3-D Ultra Lionel TrainTown|← Previous: 3-D Ultra Lionel TrainTown]]
-- [[1999 - 3-D Ultra Radio Control Racers|→ Next: 3-D Ultra Radio Control Racers]]
-
 - [[1995 - 3-D Ultra Pinball]]
 - [[1996 - 3-D Ultra Pinball - Creep Night]]
 - [[1997 - 3-D Ultra MiniGolf]]

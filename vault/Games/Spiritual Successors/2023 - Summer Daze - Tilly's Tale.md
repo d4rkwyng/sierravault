@@ -46,7 +46,7 @@ Described as "a funny and charming visual novel adventure," *Tilly's Tale* was s
 
 The game takes place during the days leading up to the Harvest Festival at Hero-U[^ref-10]. Players must help Tilly navigate her relationships with various quirky characters while using her wit, charm, and rogueish skills to make the upcoming festival a success[^ref-1]. The focus is squarely on the story and the fantasy characters she meets, including a Minotaur Paladin named Sitari and a "Doggie Chef" among other potential friends and love interests[^ref-9][^ref-11].
 
-As a visual novel, the narrative is shaped by player choices, with hundreds of paths through the game and multiple endings depending on how Tilly interacts with the cast of 23 characters across 25 locations[^ref-1][^ref-7]. The Coles intended the experience to be "the opposite of a high stakes, stressful game"—a relaxing, light-hearted tale suitable for all ages[^ref-1][^ref-6].
+As a visual novel, the narrative is shaped by player choices, with hundreds of paths through the game and multiple endings depending on how Tilly interacts with the cast of 23 characters across 25 locations[^ref-7][^ref-1]. The Coles intended the experience to be "the opposite of a high stakes, stressful game"—a relaxing, light-hearted tale suitable for all ages[^ref-6][^ref-1].
 
 ## Gameplay
 
@@ -58,7 +58,7 @@ The game is fully voiced, featuring professional voice acting throughout the exp
 
 ### Structure and Progression
 
-The game follows a semester structure at Hero University, with events progressing toward the climactic Harvest Festival[^ref-1][^ref-10]. The story unfolds across 25 distinct locations within the school and its surroundings[^ref-7].
+The game follows a semester structure at Hero University, with events progressing toward the climactic Harvest Festival[^ref-10][^ref-1]. The story unfolds across 25 distinct locations within the school and its surroundings[^ref-7].
 
 - **Early Game:** Players meet various characters and establish relationships
 - **Mid Game:** Tilly navigates social situations and festival preparations
@@ -108,7 +108,7 @@ The Kickstarter campaign launched in 2019 and was successfully funded on Novembe
 
 Development took approximately four years, significantly longer than the original March 31, 2022 target date[^ref-7][^ref-8]. Delays were attributed in part to the COVID-19 pandemic[^ref-8]. Voice acting management was handled by Dave Gilbert of Wadjet Eye Games, ensuring professional quality across the fully voiced cast[^ref-8].
 
-**Development Credits:**[^ref-1][^ref-5]
+**Development Credits:**[^ref-5][^ref-1]
 - **Designer:** [[Lori Ann Cole]], Corey Cole
 - **Programming:** Cidney Hamilton, Philip Elder
 - **Background Art and Animation:** JP Selwood
@@ -119,7 +119,7 @@ Development took approximately four years, significantly longer than the origina
 
 ### Technical Achievements
 
-The game was built using the Unity engine combined with Ink, a narrative scripting language designed specifically for interactive fiction[^ref-1][^ref-5]. This combination allowed for sophisticated branching narrative structures while maintaining visual novel presentation conventions[^ref-5].
+The game was built using the Unity engine combined with Ink, a narrative scripting language designed specifically for interactive fiction[^ref-5][^ref-1]. This combination allowed for sophisticated branching narrative structures while maintaining visual novel presentation conventions[^ref-5].
 
 The Coles leveraged their decades of adventure game experience to create what they described as feeling "like just like a Sierra adventure game without having to walk everywhere"[^ref-12]. The professionally voiced dialogue and animated character portraits brought the story to life despite the fixed backgrounds[^ref-3].
 

@@ -76,19 +76,19 @@ Three AI difficulty levels provided challenges for offline play.[^ref-1]
 
 ### Contemporary Reviews
 
-Lost Cities received generally positive reviews as a faithful adaptation of Knizia's acclaimed card game. Critics praised the clean interface and strategic depth that carried over from the physical game.[^ref-1][^ref-7] IGN's pre-release coverage highlighted the title alongside other digital adaptations of acclaimed designer board games arriving on the platform[^ref-7]. Aggregated reception data is available through Metacritic[^ref-8] and the GameFAQs review database[^ref-9][^ref-13].
+Lost Cities received generally positive reviews as a faithful adaptation of Knizia's acclaimed card game. Critics praised the clean interface and strategic depth that carried over from the physical game.[^ref-1]
 
-The game was recognized as an excellent choice for fans of the original card game and for players seeking a quick, strategic two-player experience on Xbox Live Arcade.[^ref-1] Community discussion on BoardGameGeek tracked the XBLA release alongside the broader Knizia adaptations[^ref-10], and additional contemporary commentary appeared at GamePressure[^ref-11] and TrueAchievements[^ref-12].
+The game was recognized as an excellent choice for fans of the original card game and for players seeking a quick, strategic two-player experience on Xbox Live Arcade.[^ref-1]
 
 ### Modern Assessment
 
-Lost Cities has since been removed from the Xbox Live Arcade marketplace and is no longer available for purchase digitally.[^ref-1][^ref-15] This fate befell many XBLA titles as Microsoft transitioned to newer console generations.
+Lost Cities has since been removed from the Xbox Live Arcade marketplace and is no longer available for purchase digitally.[^ref-1] This fate befell many XBLA titles as Microsoft transitioned to newer console generations.
 
 ## Development
 
 ### Origins
 
-Lost Cities was developed by Sierra Online Shanghai, a Chinese development studio that was formally known as Studio Ch'in before being incorporated into Sierra Online's global structure.[^ref-1][^ref-4] The studio specialized in digital adaptations of classic card and board games.
+Lost Cities was developed by Sierra Online Shanghai, a Chinese development studio that was formally known as Studio Ch'in before being incorporated into Sierra Online's global structure.[^ref-1] The studio specialized in digital adaptations of classic card and board games.
 
 ### Production
 
@@ -120,7 +120,6 @@ Reiner Knizia's Lost Cities has seen multiple digital adaptations across platfor
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 
 | Store | Link | Notes |
 |-------|------|-------|
@@ -135,7 +134,7 @@ The original Xbox 360 XBLA version has been delisted and is no longer available 
 
 ## See Also
 
-Lost Cities was the third and final entry in Sierra Online's brief experiment with Xbox Live Arcade. Following [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]], it shared the same studio infrastructure (Sierra Online Shanghai for development, the broader Sierra Online label for publishing) and the same focus on adapting established tabletop card and board games to the XBLA digital storefront. All three releases were eventually delisted, leaving Sierra's XBLA legacy preserved only through archival coverage.[^ref-2][^ref-5]
+Lost Cities was the third and final entry in Sierra Online's brief experiment with [[XBLA|Xbox Live Arcade]]. Following [[2006 - Gin Rummy|Gin Rummy (XBLA, 2006)]] and [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]], it shared the same studio infrastructure (Sierra Online Shanghai for development, the broader Sierra Online label for publishing) and the same focus on adapting established tabletop card and board games to the [[XBLA]] digital storefront. All three releases were eventually delisted, leaving Sierra's [[XBLA]] legacy preserved only through archival coverage.[^ref-2][^ref-5]
 
 **Sierra XBLA releases (2006–2008)**
 

@@ -110,7 +110,6 @@ The game is not available on modern digital platforms like Steam or GOG[^ref-12]
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 Field & Stream: Trophy Bass 4 is not currently available on modern digital storefronts.
 
 **Download / Preservation**

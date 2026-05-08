@@ -233,7 +233,6 @@ Much of what is known about these cancelled projects comes from fan community ef
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 - Not available – project cancelled before release
 - No playable version exists from any of the five development attempts
 - No retail or digital distribution ever occurred

@@ -232,3 +232,27 @@ The contrast between Hi-Res Football's obscurity and Sierra's later successes al
 [^ref-13]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Dynamix) – comprehensive Wikipedia entry providing detailed history and game development information about Dynamix
 [^ref-14]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Sierra_Entertainment) – no information about 'Hi Res Football' found in this Sierra Entertainment Wikipedia article. The content discusses Si...
 [^ref-15]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/) – game information and details
+[[1981 - Hi-Res Adventure 3 - Cranston Manor]]
+- [[1981 - Hi-Res Adventure 4 - Ulysses and the Golden Fleece]]
+- [[1982 - Adventure in Serenia]]
+- [[1982 - Hi-Res Adventure 5 - Time Zone]]
+- [[1983 - Hi-Res Adventure 6 - The Dark Crystal]]
+- [[1984 - Gelfling Adventure]]
+
+## References
+
+[^ref-1]: [Wikipedia – List of Sierra Entertainment Video Games](https://en.wikipedia.org/wiki/List_of_Sierra_Entertainment_video_games) – release year, developer, publisher, platform information
+[^ref-2]: [Internet Archive – Hi-Res Football Manual](https://archive.org/stream/Hi-Res_Football/Hi-Res_Football_djvu.txt) – original manual text including pricing, technical requirements, gameplay description, marketing quotes
+[^ref-3]: [Retro365 Blog – Q-Bits: Hi-Res Football and Soccer](https://retro365.blog/2022/03/17/q-bits-from-my-personal-collection-hi-res-football-and-soccer-some-of-on-line-systems-earliest-titles/) – development history, Jay Sullivan's background, commercial performance context
+[^ref-4]: [Hacker News Discussion](https://news.ycombinator.com/item?id=9255133) – historical context, vintage advertisement discovery, community reactions
+[^ref-5]: [Retromags Gallery – Hi-Res Soccer/Football](https://www.retromags.com/gallery/image/21318-hi-res-soccer-hi-res-football/) – vintage magazine advertisement scan, publication context
+[^ref-6]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/hi-res-football/) – comprehensive technical specifications, designer credits, gameplay details, ratings
+[^ref-7]: [Sierra Chest – Hi-Res Football](https://sierrachest.com/index.php?a=games&id=436&title=hi-res-football&fld=general) – engine information, basic metadata
+[^ref-8]: [Ars Technica Forums – Gaming Archeology](https://arstechnica.com/civis/threads/gaming-archeology-with-dia-exhibit-01-ultima-1981-1986.1505052/) – Softline review reference, technical specifications, visual design details
+[^ref-9]: [VG Print Ads – Hi-Res Soccer/Football Advertisement](https://vgprintads.tumblr.com/post/175902936100/hi-res-soccer-hi-res-football-app2-dos/amp) – vintage print advertisement archive
+[^ref-10]: [Glitchwave – Sierra Entertainment Games](https://glitchwave.com/game-company/sierra-entertainment/) – modern rating, genre classification
+[^ref-11]: [Sierra Gamers – Hi-Res Football](https://www.sierragamers.com/hi-res-football/) – alternate release date listing
+[^ref-12]: [Sierra Fandom Wiki – Dynamix](https://sierra.fandom.com/wiki/Dynamix) – later Sierra football games context, Front Page Sports series information
+[^ref-13]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Dynamix) – comprehensive Wikipedia entry providing detailed history and game development information about Dynamix
+[^ref-14]: [Wikipedia – Hi-Res Football](https://en.wikipedia.org/wiki/Sierra_Entertainment) – no information about 'Hi Res Football' found in this Sierra Entertainment Wikipedia article. The content discusses Si...
+[^ref-15]: [MobyGames – Hi-Res Football](https://www.mobygames.com/game/76185/) – game information and details

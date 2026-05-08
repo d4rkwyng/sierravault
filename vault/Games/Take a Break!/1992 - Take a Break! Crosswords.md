@@ -27,7 +27,7 @@ Take a Break! Crosswords is a puzzle video game developed by [[Dynamix]] and N8 
 
 The game features a collection of 375 crossword puzzles licensed from Dell Magazine, offering players a comprehensive digital crossword experience with multiple difficulty settings and puzzle sizes[^ref-2]. Take a Break! Crosswords represented an early effort to bring traditional newspaper-style puzzles into the emerging multimedia PC market, complete with digitized speech, sound effects, and animated graphics[^ref-6]. The Oregonian newspaper noted that the Eugene-based Dynamix's creation "should be a popular gift option for the upcoming holiday season"[^ref-6].
 
-As Compute! Magazine observed, "Although designed for breaks in the workday, Crosswords Deluxe is an ideal way to jump-start your brain on those particularly slow mornings. It's more natural than caffeine, but no less habit-forming"[^ref-6]. The game was the first entry in Sierra's Take a Break! series, which would later include Take a Break! Pinball in 1993[^ref-7].[^ref-12][^ref-16]
+As Compute! Magazine observed, "Although designed for breaks in the workday, Crosswords Deluxe is an ideal way to jump-start your brain on those particularly slow mornings. It's more natural than caffeine, but no less habit-forming"[^ref-6]. The game was the first entry in Sierra's Take a Break! series, which would later include Take a Break! Pinball in 1993[^ref-7].[^ref-12][^ref-16][^ref-12][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], N8 Productions[^ref-1]
@@ -130,62 +130,7 @@ Take a Break! Crosswords incorporated several multimedia features that were inno
 | 1.0 | 1992 | Windows 3.x | Initial release[^ref-1][^ref-2] |
 | 1.0 | 1993 | Macintosh | Presage Software port[^ref-4][^ref-5] |
 
-Additional volumes were released, with archive.org documenting Volume 1 and Volume 2 editions, described as "infinitely challenging" and "erasable"[^ref-10].[^ref-17]
-
-### Easter Eggs and Trivia
-
-- The game features Wanda, an animated elf character who provides running commentary and tracks player progress[^ref-1][^ref-2]
-- Puzzles were licensed from Dell Magazine, ensuring professional quality crossword content[^ref-2]
-- Themed puzzles include Star Trek tributes and holiday-themed challenges[^ref-6]
-
-## Voice Cast
-
-| Character | Voice Actor |
-|-----------|-------------|
-| Wanda (Voice Talent) | Jane Chase[^ref-1] |
-
-## Legacy
-
-### Sales and Commercial Impact
-
-Take a Break! Crosswords established Sierra's presence in the casual gaming market, paving the way for subsequent Take a Break! titles[^ref-7]. By March 1996, the Take a Break! series had sold approximately 250,000 copies combined[^ref-7]. The game demonstrated that traditional puzzle formats could successfully transition to digital platforms, a concept that would later explode with web-based and mobile casual gaming[^ref-7].
-
-### Collections
-
-Take a Break! Crosswords was initially released on 3.5" floppy disks, with Sierra later producing CD-ROM compilations[^ref-7][^ref-10]. The game appeared alongside Volume 1 and Volume 2 editions in various retail packages[^ref-10]. A 1995 CD-ROM version appeared, demonstrating the game's continued commercial viability years after initial release[^ref-10][^ref-11].
-
-### Related Publications
-
-- **Built-in Crossword Dictionary:** 65-page reference included within the software[^ref-6]
-
-### Critical Perspective
-
-Take a Break! Crosswords represents an important milestone in the evolution of casual gaming software. While not technologically groundbreaking, the game demonstrated that established puzzle formats could find new audiences through digital distribution and multimedia enhancement[^ref-6]. The addition of features like autochecking, hint systems, and the animated Wanda character showed thoughtful consideration of how to improve upon the paper puzzle experience rather than simply replicating it[^ref-1][^ref-2].
-
-The game's design philosophy—creating bite-sized entertainment experiences for Windows users—presaged the casual gaming revolution that would transform the industry decades later[^ref-7]. Dynamix and Sierra's willingness to pursue this market, despite their reputation for larger-scale adventure and action titles, showed prescient awareness of computing's expanding role in daily life beyond dedicated gaming sessions[^ref-7].[^ref-18]
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Not available on major digital storefronts[^ref-13][^ref-14][^ref-15]
-
-**Download / Preservation**
-- [Internet Archive](https://archive.org/details/RESOURCE_201808) – Archive containing game files[^ref-10]
-- [MyAbandonware](https://www.myabandonware.com/game/take-a-break-crosswords-1iz) – Abandonware download[^ref-8]
-
-**Manuals & Extras**
-- Built-in 65-page crossword dictionary included with software[^ref-6]
-
-## See Also
-
-- [[1993 - Take a Break! Pinball]]
-
-## References
+Additional volumes were released, with archive.org documenting Volume 1 and Volume 2 editions, described as "infinitely challenging" and "erasable"[^ref-10].[^ref-17]References
 
 [^ref-1]: [MobyGames – Take a Break! Crosswords](https://www.mobygames.com/game/25412/take-a-break-crosswords/) – developer, publisher, designer, composer, voice cast, platforms, ratings, puzzle specifications, Wanda character details
 [^ref-2]: [Dynamix Fandom Wiki – Take a Break! Crosswords](https://dynamix.fandom.com/wiki/Take_a_Break!_Crosswords) – Dell Magazine license, 375 puzzles, puzzle sizes, difficulty levels, gameplay features, Wanda character

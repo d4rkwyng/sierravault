@@ -145,3 +145,5 @@ Despite its innovations, the series was discontinued after 1998, and the game is
 [^ref-17]: [Web Archive](https://web.archive.org/web/19970614161401/http://www.cdmag.com/news/0325971.html) – - 1996 Traditional Game of the Year award
 [^ref-18]: [GOG Forum](https://www.gog.com/forum/general_archive/request_power_chess_98_sierra) – - Series discontinuation and support status
 [^ref-19]: [Chess Programming Wiki](https://www.chessprogramming.org/Power_Chess) – - Historical significance in chess programming
+[^ref-9]: [Archive.org Power Chess Manual](https://archive.org/details/powerchess98usa) – - Opening database and historical match replay features
+[^ref-3]: [Chess.com Forum Discussion](https://www.chess.com/forum/view/chess-equipment/does-anyone-remember-this-chess-software) – - Adaptive difficulty system and player skill progression

@@ -22,7 +22,7 @@ tags: [2010s, adventure, mage-s-initiation, rpg, sierra]
 
 ## Overview
 
-Mage's Initiation: Reign of the Elements is an adventure/RPG hybrid developed and published by Himalaya Studios, released on January 30, 2019 for Windows, macOS, and Linux[^ref-1][^ref-34]. The game represents a loving homage to Sierra On-Line's classic Quest for Glory series, blending traditional point-and-click adventure gameplay with role-playing elements including character classes, stat progression, and real-time combat[^ref-2]. Development spanned over a decade, making its gestation period longer than the entire nine-year lifespan of all five Quest for Glory releases combined[^ref-3].
+Mage's Initiation: Reign of the Elements is an adventure/RPG hybrid developed and published by Himalaya Studios, released on January 30, 2019 for Windows, macOS, and Linux[^ref-1]. The game represents a loving homage to Sierra On-Line's classic Quest for Glory series, blending traditional point-and-click adventure gameplay with role-playing elements including character classes, stat progression, and real-time combat[^ref-2]. Development spanned over a decade, making its gestation period longer than the entire nine-year lifespan of all five Quest for Glory releases combined[^ref-3].
 
 The game was successfully crowdfunded through Kickstarter in early 2013, raising $125,174 from 3,157 backers—nearly double its initial $65,000 goal[^ref-4]. Himalaya Studios, known for their acclaimed VGA remakes of the first three King's Quest games and Quest for Glory II under their previous name AGD Interactive, created Mage's Initiation as their second original commercial project following Al Emmo and the Lost Dutchman's Mine in 2006[^ref-5]. The result is what Adventure Gamers described as "a modern-day Sierra On-Line gem, an extraordinarily polished adventure game"[^ref-6].
 
@@ -135,7 +135,7 @@ By late 2018, the game was approximately 95% complete, with "only the aforementi
 
 ### Technical Achievements
 
-Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10], the same open-source engine Himalaya Studios had utilized for their previous Sierra remakes. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, maintaining a 16:10 static aspect ratio that displays with vertical black bars on 16:9 monitors[^ref-4][^ref-10].
+Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10], the same open-source engine Himalaya Studios had utilized for their previous Sierra remakes. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, maintaining a 16:10 static aspect ratio that displays with vertical black bars on 16:9 monitors[^ref-10][^ref-4].
 
 The art direction received widespread praise, with Adventure Gamers noting "the background pixel art is simply extraordinary, across the board and in every scene"[^ref-20]. One MobyGames reviewer declared the game has "some of the most beautiful graphics ever"[^ref-12]. The visual style was designed to be reminiscent of classic Sierra, LucasArts, and Revolution games[^ref-15].
 
@@ -297,7 +297,7 @@ The game has a small but dedicated speedrunning community. The current Any% worl
 [^ref-16]: [Sprites and Dice Review](https://spritesanddice.com/reviews/review-mages-initiation-reign-elements/) – voice acting criticism, combat description, fast travel, death mechanics
 [^ref-17]: [Steam Community – Achievement Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1701542384) – playthrough requirements, class differences, stat system, enemy kill count
 [^ref-18]: [Walkthrough King](https://www.walkthroughking.com/text/magesinitiation.aspx) – game structure, three item quest
-[^ref-34]: [AGDI Forum – Development Discussion](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – combat system description, pricing plans, development challenges
+[^ref-19]: [AGDI Forum – Development Discussion](http://www.agdinteractive.com/forum/viewtopic.php?f=2&start=75&t=14906) – combat system description, pricing plans, development challenges
 [^ref-20]: [RPG Codex Forum – Page 9](https://rpgcodex.net/forums/threads/mages-initiation-a-classic-sierra-style-adventure-rpg.80697/page-9) – review compilation, pixel art praise, voice acting criticism
 [^ref-21]: [GameSpot Review](https://www.gamespot.com/reviews/mages-initiation-reign-of-the-elements-review-vga-/1900-6417078/) – score, reviewer name, RPG diversity criticism
 [^ref-22]: [Linux Journal Review](https://www.linuxjournal.com/content/game-review-mages-initiation-reign-elements) – post-technology world hints, nostalgia appeal, recommendation

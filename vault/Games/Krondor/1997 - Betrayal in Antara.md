@@ -10,7 +10,7 @@ series: Krondor Series
 engine: Updated version of Betrayal at Krondor engine
 protagonist: Aren
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 description: Betrayal in Antara is a 1997 role-playing game developed and published
   by Sierra On-Line as a spiritual successor to the acclaimed 1993 title Betrayal
   at...
@@ -31,9 +31,11 @@ The game emerged from Sierra's need to create a new RPG after losing the rights 
 > **Designer:** [[John Cutter]], [[Neal Hallford]], Peter Sarrett[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-1]
 > **Engine:** Updated Betrayal at Krondor engine[^ref-2]
+> **Engine:** Updated Betrayal at Krondor engine[^ref-2]
 > **Platforms:** Windows, PC, Windows 95, Windows 3.1, Windows for Workgroups[^ref-5]
 > **Release Year:** 1997
 > **Series:** Krondor Series
+> **Protagonist:** Aren
 > **Protagonist:** Aren
 > **Sierra Lineage:** Core Sierra
 
@@ -119,11 +121,6 @@ Betrayal in Antara represents Sierra's attempt to create a spiritual successor w
 The game has found preservation through various digital distribution platforms and abandonware sites[^ref-26][^ref-27]. Gaming wikis provide technical compatibility information for modern systems[^ref-11], and community forums continue to offer technical fixes for Windows XP and later operating systems[^ref-21].
 
 Despite mixed reception, the game provided "over 100 hours of entertaining storytelling"[^ref-17] according to contemporary reviews. Sarrett concluded in the game manual: "We hope this is but the first of many visits you'll be making to Ramar, just as this is Sierra's first step in our return to role playing games"[^ref-5], though Sierra's RPG ambitions would not continue as envisioned.
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/forum/krondor_series/betrayal_in_antara_what_you_need_to_know) – Available for purchase
 
 ## Downloads
 

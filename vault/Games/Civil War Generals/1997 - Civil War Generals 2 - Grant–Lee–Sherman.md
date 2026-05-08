@@ -111,9 +111,13 @@ NPD retail tracking data from September 1996 showed strong commercial performanc
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/en/games?query=Robert+E.+Lee%3A+Civil+War+General) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Robert+E.+Lee%3A+Civil+War+General) – Available for purchase
+Civil War Generals 2: Grant, Lee, Sherman remains accessible through digital preservation platforms and retro gaming marketplaces:
+
+- **GOG.com**: Available with Windows compatibility layers[^ref-60]
+- **MyAbandonware**: Full game files with community support[^ref-61]
+- **Original CD**: Vintage retail copies available on eBay and vintage game markets
+
+The game is officially unavailable through modern storefronts but may be playable on Windows 7/10 with DOSBox or PCem emulation. Community patches and mod support have extended the game's lifespan well beyond its original commercial run.
 
 ## Downloads
 

@@ -10,7 +10,7 @@ series: EcoQuest
 engine: SCI1
 protagonist: Adam Greene
 sierra_lineage: Core Sierra
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 description: '**EcoQuest: The Search for Cetus** is an educational adventure game
   designed to teach about the importance of environmental ethics and marine conservation....'
 tags: [1990s, ecoquest, educational, jane-jensen, sci, sierra]
@@ -32,9 +32,11 @@ Part of Sierra's Discovery Series of educational titles, EcoQuest represented th
 > **Designer:** [[Jane Jensen]], Gano Haine[^ref-7]
 > **Publisher:** Sierra On-Line[^ref-6]
 > **Engine:** SCI1[^ref-8]
+> **Engine:** SCI1[^ref-8]
 > **Platforms:** DOS, MS-DOS, CD-ROM, VGA, EGA[^ref-8]
 > **Release Year:** 1991
 > **Series:** EcoQuest
+> **Protagonist:** Adam Greene
 > **Protagonist:** Adam Greene
 > **Sierra Lineage:** Core Sierra
 
@@ -165,9 +167,9 @@ The game's environmental message has proven timeless, with its themes of marine 
 
 ## See Also
 
-- **Series:** EcoQuest Series
-- **Next:** [[1993 - EcoQuest - Lost Secret of the Rainforest|→ Lost Secret of the Rainforest]] (1993)
-- **Related Educational Games:** [[1987 - Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
+- **Series:** [[EcoQuest: The Search for Cetus|EcoQuest Series]]
+- **Ne(1993)
+- **Related Educational Games:** [[The Mixed-Up Mother Goose|Mixed-Up Mother Goose]], [[Leisure Suit Larry Series]]
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 
 ## References

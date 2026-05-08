@@ -345,3 +345,5 @@ The game is preserved through various Amiga preservation efforts:[^ref-1][^ref-6
 [^ref-14]: [ExoticA – Sierra Soccer Music](https://www.exotica.org.uk/wiki/Sierra%20Soccer%20-%20World%20Challenge%20Edition) – Music preservation, composer Charles Callet
 [^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry
 [^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots
+[^ref-16]: [Hall of Light – Sierra Soccer Amiga Database](https://amiga.abime.net/games/view/sierra-soccer-world-challenge-edition) – Amiga game database entry
+[^ref-15]: [MobyGames – Sierra Soccer World Challenge Edition](https://www.mobygames.com/game/sierra-soccer-world-challenge-edition/) – platform information, credits, screenshots

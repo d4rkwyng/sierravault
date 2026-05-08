@@ -279,3 +279,84 @@ The game also serves as a historical artifact of late 1990s gaming, representing
 [^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
 [^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
 [^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing
+[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Blackjack]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Casino]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Casino Empire]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2008 - Hoyle Casino]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
+## References
+
+[^ref-1]: [MobyGames – Hoyle Backgammon & Cribbage](https://www.mobygames.com/game/2872/hoyle-backgammon-cribbage/) – credits, technical specifications, ratings, game description, platform information
+
+[^ref-2]: [GameFAQs – Hoyle Backgammon and Cribbage Data](https://gamefaqs.gamespot.com/pc/565378-hoyle-backgammon-and-cribbage/data) – release dates, platforms, regional releases, developer/publisher information
+
+[^ref-3]: [Wikipedia – Hoyle's Official Book of Games](https://en.wikipedia.org/wiki/Hoyle%27s_Official_Book_of_Games) – series history, developers, publishers, Edmond Hoyle connection, Brown & Bigelow license
+
+[^ref-4]: [AGDB – Sierra Entertainment](https://agdb.net.ru/company/sierra.php) – corporate history, Black Monday layoffs, CUC International acquisition, Cendant scandal
+
+[^ref-5]: [GameFAQs – Hoyle Backgammon and Cribbage](https://gamefaqs.gamespot.com/pc/565378-hoyle-backgammon-and-cribbage) – user ratings, platform information
+
+[^ref-6]: [Sierra Chest – Hoyle Backgammon & Cribbage](https://sierrachest.com/index.php?a=games&id=819&title=hoyle-backgammon-cribbage&fld=general) – release date, platform information
+
+[^ref-7]: [German Wikipedia – Sierra Entertainment](https://de.wikipedia.org/wiki/Sierra_Entertainment) – corporate history, transitions, Vivendi ownership
+
+[^ref-8]: [Squakenet – Hoyle's Backgammon & Cribbage](https://www.squakenet.com/game/hoyle-s-backgammon-cribbage/) – genre classification, related games
+
+[^ref-9]: [Giant Bomb – Hoyle's Backgammon & Cribbage](https://giantbomb.com/wiki/Games/Hoyles_Backgammon_And_Cribbage) – release date, platforms, developer, publisher, genre
+
+[^ref-10]: [Academic Kids Encyclopedia – Sierra Entertainment](https://academickids.com/encyclopedia/index.php/Sierra_Entertainment) – Sierra company information, Hoyle series mention
+
+[^ref-13]: [Italian Wikipedia – Sierra Entertainment](https://it.wikipedia.org/wiki/Sierra_Entertainment) – Sierra company history
+
+[^ref-14]: [Bosnian Wikipedia – Sierra Entertainment](https://bs.wikipedia.org/wiki/Sierra_Entertainment) – Sierra founding history, Ken and Roberta Williams[^ref-12]: [Giant Bomb - Hoyle](https://www.giantbomb.com/) - wiki
+[^ref-15]: [GameSpot - Hoyle](https://www.gamespot.com/) - game site
+[^ref-16]: [Metacritic - Hoyle](https://www.metacritic.com/) - review aggregator
+[^ref-17]: [Amazon - Hoyle](https://www.amazon.com/) - retail listing

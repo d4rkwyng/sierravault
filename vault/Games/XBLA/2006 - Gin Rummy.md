@@ -19,9 +19,9 @@ last_updated: '2026-04-22'
 
 ## Overview
 
-**Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1][^ref-13] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2][^ref-14]
+**Gin Rummy** is a digital card game developed by Sierra Online Shanghai (also known as Studio Ch'in) and published by Sierra Online for Xbox Live Arcade.[^ref-1] Released in September 2006, the game brought the classic card game to Xbox 360 players with multiple rule variations and online multiplayer support.[^ref-2]
 
-Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-7][^ref-9][^ref-11][^ref-15]
+Gin Rummy was among the early titles in Sierra Online's XBLA publishing initiative, demonstrating the company's strategy of bringing established casual games to the console digital marketplace.[^ref-1][^ref-6][^ref-9][^ref-11][^ref-7]
 
 > [!info]- Game Info
 > **Developer:** Sierra Online Shanghai[^ref-1]
@@ -118,11 +118,10 @@ Like many XBLA titles from this era, Gin Rummy may no longer be available for pu
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 
 | Store | Link | Notes |
 |-------|------|-------|
-| Xbox Marketplace | [Microsoft Store — Gin Rummy](https://microsoft.com/en-us/p/gin-rummy/bpzm88d5vkbs)[^ref-5] | Check current availability — early XBLA title from 2006[^ref-6] |
+| Xbox Marketplace | [Microsoft Store — Gin Rummy](https://microsoft.com/en-us/p/gin-rummy/bpzm88d5vkbs)[^ref-5] | Check current availability — early [[XBLA]] title from 2006[^ref-6] |
 | iOS | [App Store search — Gin Rummy](https://www.apple.com/app-store/) | Various third-party Gin Rummy apps available[^ref-7] |
 | Android | [Google Play search — Gin Rummy](https://play.google.com/store/search?q=gin+rummy) | Various third-party Gin Rummy apps available[^ref-7] |
 
@@ -132,7 +131,7 @@ As an early XBLA title from 2006, availability may be affected by marketplace ch
 
 ## See Also
 
-Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the template for the publisher's three-game XBLA run: traditional tabletop games adapted for the digital storefront, developed by Sierra Online Shanghai or Sierra Online Seattle and released under the broader Sierra Online label during the Vivendi Games era.[^ref-4][^ref-6] [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] followed in 2007 with a board-game adaptation, and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] closed out the line in 2008. All three XBLA releases have since been delisted.
+Gin Rummy was Sierra Online's first foray onto [[XBLA|Xbox Live Arcade]] and set the template for the publisher's three-game [[XBLA]] run: traditional tabletop games adapted for the digital storefront, developed by Sierra Online Shanghai or Sierra Online Seattle and released under the broader Sierra Online label during the Vivendi Games era.[^ref-4][^ref-6] [[2007 - Carcassonne|Carcassonne (XBLA, 2007)]] followed in 2007 with a board-game adaptation, and [[2008 - Lost Cities|Lost Cities (XBLA, 2008)]] closed out the line in 2008. All three [[XBLA]] releases have since been delisted.
 
 **Sierra XBLA releases (2006–2008)**
 
@@ -144,7 +143,7 @@ Gin Rummy was Sierra Online's first foray onto Xbox Live Arcade and set the temp
 
 ## References
 
-[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game))) - Primary game information
+[^ref-1]: [Gin Rummy (video game) - Wikipedia](https://en.wikipedia.org/wiki/Gin_Rummy_(video_game)) - Primary game information
 [^ref-2]: [Gin Rummy - Xbox Achievements](https://www.xboxachievements.com/game/gin-rummy/guide/) - Achievement guide with game details
 [^ref-3]: [Game Review: Gin Rummy (XBLA) - DCEmu](https://www.dcemu.co.uk/content/16810-Game-Review-Gin-Rummy-(XBLA)) - Contemporary review
 [^ref-4]: [Sierra Online - MobyGames](https://www.mobygames.com/company/9928/sierra-online/) - Sierra Online company information

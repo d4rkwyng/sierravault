@@ -223,11 +223,6 @@ The game represents both the ambitions and the limitations of Coktel Vision's ap
 
 For French gamers of a certain generation, Bargon Attack holds nostalgic significance. As one reviewer noted, "My youth as a French adventure gamer who couldn't speak English was strictly limited to a few games"—and Bargon Attack was one of the accessible titles for non-English speakers in an era dominated by American adventure games.[^ref-10] The game's adaptation from a computer magazine comic strip also represents a unique origin story in gaming history, highlighting the interconnected nature of computer culture and gaming in France during the early 1990s.[^ref-20]
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**
@@ -284,3 +279,4 @@ For French gamers of a certain generation, Bargon Attack holds nostalgic signifi
 [^ref-23]: [GOG Dreamlist](https://www.gog.com/dreamlist) – availability status
 [^ref-24]: [GameFAQs – Guides List](https://gamefaqs.gamespot.com/pc/576708-bargon-attack/faqs) – available walkthroughs, guide metadata
 [^ref-25]: [PCGamingWiki – Bargon Attack](https://www.pcgamingwiki.com/wiki/Bargon_Attack) – localizations, Russian fan translation, system requirements
+

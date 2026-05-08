@@ -23,7 +23,7 @@ tags: [1990s, dynamix, sierra, take-a-break]
 
 Take a Break! Pinball was a 1993 pinball computer game collection developed by [[Dynamix|Dynamix, Inc.]] and published by [[Sierra On-Line|Sierra On-Line, Inc.]][^ref-1] The game was the second and last entry in the Take a Break! series, designed as bite-sized experiences for Windows users who wanted quick gaming sessions between work tasks[^ref-2]. Marketed with the tagline "Take a break and have some fun!", the game promised "Amazingly real Pinball action!" that was Windows compatible, allowing users to "jump from work to play in a nanosecond"[^ref-3].
 
-The game distinguished itself from typical pinball simulations by featuring eight full-featured pinball tables, each themed around various popular Sierra and Dynamix game franchises[^ref-4]. These included tables based on King's Quest, Space Quest, Willy Beamish, Leisure Suit Larry, and Nova 9: Return of Gir Draxon[^ref-1]. Rather than pursuing realistic ball physics, the developers eschewed realistic ball motions in favor of fast action and imaginative table designs[^ref-5]. The game supported up to four players and could have up to three balls in play simultaneously[^ref-3].[^ref-13][^ref-14][^ref-15]
+The game distinguished itself from typical pinball simulations by featuring eight full-featured pinball tables, each themed around various popular Sierra and Dynamix game franchises[^ref-4]. These included tables based on King's Quest, Space Quest, Willy Beamish, Leisure Suit Larry, and Nova 9: Return of Gir Draxon[^ref-1]. Rather than pursuing realistic ball physics, the developers eschewed realistic ball motions in favor of fast action and imaginative table designs[^ref-5]. The game supported up to four players and could have up to three balls in play simultaneously[^ref-3].[^ref-13][^ref-14][^ref-15][^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]], Inc.[^ref-1]
@@ -159,7 +159,7 @@ Performance was the most widely criticized technical aspect, with the game runni
 
 The game contained a hidden "Dinner Menu" easter egg featuring elaborate gourmet dish descriptions created by the development team[^ref-7]. This playful addition reflected the sense of humor common in Sierra and Dynamix productions of the era.
 
-Additional trivia:[^ref-16]
+Additional trivia:[^ref-16][^ref-16]
 - Take a Break! Pinball was the second and final entry in the Take a Break! series[^ref-5]
 - The first game in the series was Take a Break! Crossword[^ref-5]
 - The game was designed for quick play sessions during work breaks[^ref-2]
@@ -215,6 +215,25 @@ The performance issues that plagued the game highlighted the challenges develope
 - [[1992 - Take a Break! Crosswords]]
 
 ## References
+
+[^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/take-a-break-pinball.html) – release date, developer, publisher, franchise themes, platform information
+[^ref-2]: [Retro365 – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – series history, development context, CD-ROM version release
+[^ref-3]: [Metacritic – Take a Break! Pinball Details](https://www.metacritic.com/game/take-a-break-pinball/details/) – game description, features, multiplayer support
+[^ref-4]: [Giant Bomb – Take a Break! Pinball](https://www.giantbomb.com/take-a-break-pinball/3030-10948/) – table count, themes, user rating
+[^ref-5]: [MyAbandonware – Take a Break! Pinball](https://www.myabandonware.com/game/take-a-break-pinball-f0j) – series information, gameplay style, HOTUD rating, table themes
+[^ref-6]: [IMDB – Take a Break! Pinball](https://www.imdb.com/title/tt9676628/) – designer credit, release year
+[^ref-7]: [MobyGames – Take a Break! Pinball](https://www.mobygames.com/game/441/take-a-break-pinball/) – credits, composer names, team size, critic score, platform details, easter eggs
+[^ref-8]: [Sierra Help – Take a Break! Pinball Updates](http://sierrahelp.com/Patches-Updates/Patches-Updates-Games/TakeABreakPinballUpdates.html) – patch information, bug fixes, DLL files
+[^ref-9]: [Wikipedia – Take a Break! Pinball](https://en.wikipedia.org/wiki/Take_a_Break%21_Pinball) – contemporary reviews, technical specifications, bug information, Chris Lombardi review
+[^ref-10]: [Amazon – Take a Break! Pinball](https://www.amazon.com/Pinball-Take-a-Break/dp/B000L6SB72) – physical specifications, media type, compatibility notes
+[^ref-11]: [Internet Archive – Take a Break! Pinball](https://archive.org/details/take-a-break-pinball) – preservation copy, file size, platform
+[^ref-12]: [Old-games.com – Take a Break! Pinball](https://www.old-games.com/download/2951/take-a-break-pinball) – download information, table descriptions, gameplay notes
+[^ref-13]: [IGDB](https://www.igdb.com/games/take-a-break-pinball) – Internet Game Database entry
+[^ref-14]: [GameFAQs](https://gamefaqs.gamespot.com/pc/565310-take-a-break-pinball) – game database entry
+[^ref-15]: [Wikidata](https://www.wikidata.org/wiki/Q4390287) – structured metadata
+[^ref-16]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Take_a_Break!_Pinball) – technical compatibility info
+[^ref-19]: [GOG Dreamlist](https://www.gog.com/dreamlist) – community requests for Sierra games
+References
 
 [^ref-1]: [ClassicReload – Take a Break! Pinball](https://classicreload.com/take-a-break-pinball.html) – release date, developer, publisher, franchise themes, platform information
 [^ref-2]: [Retro365 – 3-D Ultra Pinball Article](https://retro365.blog/2025/02/16/3-d-ultra-pinball-revitalizing-a-classic-game-in-the-multimedia-age/) – series history, development context, CD-ROM version release

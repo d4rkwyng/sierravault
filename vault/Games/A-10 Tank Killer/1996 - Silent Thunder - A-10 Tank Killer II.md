@@ -137,7 +137,7 @@ Modern retrospectives have been generally positive:
 
 One user on GOG's wishlist noted that "Silent Thunder A-10 TK2 is easily in my top 5 most enjoyed and missed flight simulator games of the mid '90s"[^ref-18]. The game has developed a nostalgic following among players who experienced it during its original release.
 
-The MobyGames aggregate shows 72-80% depending on the source[^ref-2][^ref-15], indicating generally favorable but not outstanding reception overall.
+The MobyGames aggregate shows 72-80% depending on the source[^ref-15][^ref-2], indicating generally favorable but not outstanding reception overall.
 
 ## Development
 

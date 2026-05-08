@@ -55,7 +55,10 @@ sierravault/
 3. **Never add wiki links to YAML** - plain text only
 4. **Never include folder paths in wiki links** - basename only (`[[Roberta Williams]]`)
 5. **Never use escaped pipes in wiki links** - use plain `|` for aliases
-6. **Avoid wiki links with aliases inside markdown tables** - use bullet lists instead
+6. **NEVER use aliased wiki links `[[X|Y]]` inside ANY markdown table — this includes callout-wrapped tables (`> | ... |`).** The unescaped `|` inside the link is parsed as a column separator by both Obsidian and Quartz, splitting the link mid-target and rendering it as broken text. **Use a bullet list inside the callout instead** (`> - [[X|Y]] — meta1, meta2`). This applies to:
+   - Plain markdown tables (`| Header | ... |`)
+   - Callout-wrapped tables (`> | Header | ... |`) — these LOOK like tables but Quartz/Obsidian still parses the `|` as separators
+   - Any structure where `|` is a column delimiter
 7. **Always run link validation before committing**
 8. **Minimum 15 references per page**
 9. **Both LLM models must score >=90%** for publication

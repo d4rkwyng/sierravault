@@ -21,9 +21,9 @@ tags: [1980s, sierra, standalone]
 
 ## Overview
 
-Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1][^ref-7]. Originally titled "Force Fields" during development[^ref-3][^ref-9], the game was released under Sierra's short-lived SierraVision label[^ref-3][^ref-10], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
+Wallwar is an action game developed by Peter Oliphant and published by Sierra On-Line for the Atari 8-bit computer systems in 1983[^ref-1]. Originally titled "Force Fields" during development[^ref-3], the game was released under Sierra's short-lived SierraVision label[^ref-3], which was used for a brief period to differentiate certain arcade-style titles from Sierra's adventure game catalog.
 
-The game features competitive head-to-head gameplay where players must break through a kinetic brick wall positioned in the center of the screen while simultaneously attempting to destroy their opponent's force field[^ref-3][^ref-11]. Wallwar was noted for being "visually impressive with a lot of things going on at once"[^ref-3][^ref-12], borrowing elements from various existing games to create its unique gameplay experience[^ref-3][^ref-15]. The game supports both single-player and two-player modes[^ref-1][^ref-5][^ref-6][^ref-16][^ref-17][^ref-18].
+The game features competitive head-to-head gameplay where players must break through a kinetic brick wall positioned in the center of the screen while simultaneously attempting to destroy their opponent's force field[^ref-3]. Wallwar was noted for being "visually impressive with a lot of things going on at once"[^ref-3], borrowing elements from various existing games to create its unique gameplay experience[^ref-3]. The game supports both single-player and two-player modes[^ref-1][^ref-5][^ref-6].
 
 Despite its technical achievements, Wallwar failed to achieve commercial success, selling "only a very limited number of copies"[^ref-3]. The game represents an interesting footnote in Sierra's history, documenting the company's brief foray into arcade-style action games during the early 1980s and the turbulent circumstances surrounding its development.
 
@@ -239,6 +239,6 @@ The development story behind Wallwar is perhaps more significant than the game i
 
 [^ref-15]: [Vintage-Sierra.net – WallWar](https://www.vintage-sierra.net/arcade/wallwar.php) – Sierra arcade games archive, game documentation
 
-[^ref-18]: [Eli's Software Encyclopedia – WallWar](http://www.elisoftware.org/w/index.php/WallWar_(Atari_8-Bit,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – Software archive, release date documentation, format information
+[^ref-16]: [Eli's Software Encyclopedia – WallWar](http://www.elisoftware.org/w/index.php/WallWar_(Atari_8-Bit,_5_1/4%22_Disk)_Sierra_-_1982_USA,_Canada_Release) – Software archive, release date documentation, format information
 [^ref-16]: [MobyGames – WallWar](https://www.mobygames.com/game/wallwar/) – platform information, credits, screenshots
 [^ref-17]: [Sierra Chest – WallWar](https://sierrachest.com/index.php?a=games&id=284&title=wallwar&fld=general) – Sierra catalog entry, release documentation

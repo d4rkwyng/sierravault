@@ -26,7 +26,7 @@ Hoyle Casino 2004 is a casino simulation game developed and published by Sierra 
 
 The 2004 edition represented one of Sierra Entertainment's final entries in the Hoyle Casino franchise before the series transitioned to Encore, Inc. in 2005.[^ref-5] Players could create customizable characters, start with $5,000 in virtual money, and work their way up through various casino games while learning rules and strategies.[^ref-6] The game supported up to four players on a single computer and featured extensive character customization options with hundreds of features.[^ref-1]
 
-Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7][^ref-16][^ref-17][^ref-18]
+Despite its pedigree as part of a beloved series, Hoyle Casino 2004 received mixed reception from players and critics, with some noting it added little value compared to the previous 2003 edition.[^ref-3] The game earned a Teen rating from the ESRB for gambling content and was eventually discontinued by the manufacturer.[^ref-2][^ref-7][^ref-16][^ref-17][^ref-18][^ref-16][^ref-17][^ref-18]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -151,31 +151,7 @@ The 2004 release year was a busy one for the Hoyle brand, with multiple titles r
 
 ### Critical Perspective
 
-Hoyle Casino 2004 occupies an interesting position in the history of casino simulation games. As part of the commercially successful casino game franchise, it carried significant expectations, but the 2004 edition was criticized for being an incremental update that "adds no new games into the mix, and offers little value compared to the 2003 edition."[^ref-3] This criticism reflected a broader trend in annual game releases where diminishing returns became apparent to consumers.
-
-The game nonetheless served its core purpose well as a gambling simulator, allowing players to "risk millions of fake dollars" without real financial consequences.[^ref-9] For novice players, it provided valuable educational content about casino rules and strategies.[^ref-6] The transition of the Hoyle brand from Sierra to Encore following this period marked the end of an era for one of Sierra's longest-running game series, which had roots stretching back to the original Hoyle's Official Book of Games in 1989.[^ref-15]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Retail Availability**
-- Currently unavailable through major digital distributors
-- Physical copies occasionally available through secondary markets
-
-**Information Resources**
-- [GameFAQs – Hoyle Casino 2004](https://gamefaqs.gamespot.com/pc/918451-hoyle-casino-2004)
-- [MobyGames – Hoyle Casino 2004](https://www.mobygames.com/game/11804/hoyle-casino-2004/)
-
-## See Also
-
-- [[2003 - Hoyle Majestic Chess|← Previous: Hoyle Majestic Chess]]
-- [[2004 - Hoyle Puzzle Games|→ Next: Hoyle Puzzle Games]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+Hoyle Casino 2004 occupies an interesting position in the history of casino simulation games. As part of the commercially [[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]

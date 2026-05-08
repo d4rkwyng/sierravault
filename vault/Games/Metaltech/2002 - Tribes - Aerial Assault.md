@@ -26,7 +26,7 @@ Tribes: Aerial Assault is an online multiplayer first-person shooter developed b
 
 The title holds significant historical importance as one of the first PlayStation 2 games designed almost exclusively for online play, and notably was the first online PlayStation 2 shooter to support both modem and broadband connections.[^ref-1] Tribes: Aerial Assault was announced in tandem with Sony's online strategy for the PlayStation 2 at E3 2001, positioning it as a flagship title for the console's emerging online capabilities.[^ref-1] The game supports up to 16 players online, with options for dedicated or integrated PlayStation 2 servers.[^ref-5]
 
-In a remarkable turn for preservation, Hi-Rez Studios released the game as freeware in late October 2015, making it the first and only commercially released PlayStation 2 game to achieve freeware status.[^ref-4] A dedicated fan community continues to maintain private servers, having expanded server capacity from the original 16 players to 32 players using cloud-based AWS AADS servers with almost 100% uptime.[^ref-6][^ref-8][^ref-9][^ref-12]
+In a remarkable turn for preservation, Hi-Rez Studios released the game as freeware in late October 2015, making it the first and only commercially released PlayStation 2 game to achieve freeware status.[^ref-4] A dedicated fan community continues to maintain private servers, having expanded server capacity from the original 16 players to 32 players using cloud-based AWS AADS servers with almost 100% uptime.[^ref-6][^ref-8][^ref-9][^ref-12][^ref-8][^ref-9][^ref-12]
 
 > [!info]- Game Info
 > **Developer:** Inevitable Entertainment[^ref-1]
@@ -171,31 +171,7 @@ The community has also adapted the game to run on additional platforms beyond th
 
 ### Critical Perspective
 
-Tribes: Aerial Assault occupies a unique position in gaming history as a notable online console shooter that demonstrated the PlayStation 2's networking capabilities during the platform's early years. While the game received average critical reception at launch, its significance extends beyond review scores to its role in establishing console online gaming infrastructure and its remarkable journey to becoming freeware.
-
-The game's adaptation of PC-style competitive multiplayer for console audiences represented an important bridge between gaming platforms at a time when online console gaming was still nascent. Though overshadowed by later online shooters, Tribes: Aerial Assault's dedicated community and the preservation efforts through private servers demonstrate the lasting appeal of its jetpack-enabled aerial combat formula.[^ref-14]
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Released as freeware by Hi-Rez Studios in October 2015[^ref-1][^ref-4]
-- Available for free download from multiple sources
-
-**Download / Preservation**
-- [Tribes Aerial Assault Community](https://tribesaerialassault.com/) – Active community with private servers[^ref-6]
-- [Internet Archive](https://archive.org/details/tribes-aerial-assault) – Disc preservation[^ref-7]
-- [MobyGames Entry](https://www.mobygames.com/game/13459/tribes-aerial-assault/)[^ref-4]
-
-## See Also
-
-- [[2001 - Tribes 2|← Previous: Tribes 2]]
-
-- [[1994 - Metaltech - Battledrome]]
+Tribes: Aerial Assault occupies a unique position in gaming history as a [[1994 - Metaltech - Battledrome]]
 - [[1994 - Metaltech - Earthsiege Speech Pack]]
 - [[1994 - Metaltech - Earthsiege]]
 - [[1995 - Metaltech - Earthsiege Expansion Pack]]

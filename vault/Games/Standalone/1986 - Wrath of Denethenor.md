@@ -25,7 +25,7 @@ Wrath of Denethenor is a fantasy role-playing game developed by Christopher Crim
 
 Often described as "the most competent Ultima clone that we've seen," Wrath of Denethenor draws heavy inspiration from Richard Garriott's Ultima II and III, employing a similar top-down graphic tile perspective while attempting to add its own complexities and expanded scope.[^ref-4] The developer later acknowledged this influence, noting "It's easy to see the influence of Ultima II and III, games which led me to want to make a game using a similar graphic tile style."[^ref-5] Despite the similarities, the game introduces several innovations including a classless character system, ten unique magic spells with visual effects, and dimension doors for inter-continental travel.[^ref-6]
 
-The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1][^ref-17]
+The game was notably priced at $24.95 at the designer's specific request, with Crim believing that "Sierra will sell three times as many copies of my game at $25 as opposed to $50."[^ref-3] This pricing strategy, combined with the removal of copy protection also at Crim's request, made the game unusually accessible for its era.[^ref-1][^ref-17][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** Christopher Crim[^ref-1]
@@ -200,32 +200,7 @@ From a modern perspective, the game serves as an important data point in underst
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – Wrath of Denethenor Manual](https://archive.org/details/wrathofdenethenormanual)
-- [Internet Archive – C64 Disk Images](https://archive.org/details/d64_Wrath_of_Denethenor_The_1986_Sierra_Online_Disk_1_of_2_Side_A)
-- [MyAbandonware](https://www.myabandonware.com/game/wrath-of-denethenor-56w)
-
-**Manuals & Extras**
-- [Manual Text (DJVU)](https://archive.org/stream/vgmuseum_sierra_denethenor-manual/denethenor-manual_djvu.txt)
-
-**Developer Resources**
-- [Christopher Crim's Official Page](https://crimdom.net/wrath-of-denethenor/)
-
-## See Also
-
-- [[1981 - Softporn Adventure]]
-- [[1983 - Troll's Tale]]
-- [[1985 - Sierra Championship Boxing]]
-- [[1985 - Stunt Flyer]]
-- [[1985 - The Crimson Crown]]
-- [[1986 - Kempelen]]
-- [[1987 - 3-D Helicopter Simulator]]
-- [[1988 - Silpheed]]
+[[1988 - Silpheed]]
 - [[1989 - Tank - The M1A1 Abrams Battle Tank Simulation]]
 - [[1990 - Codename - Iceman]]
 - [[1990 - Jones in the Fast Lane]]

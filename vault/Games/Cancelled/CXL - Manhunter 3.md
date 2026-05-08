@@ -210,3 +210,23 @@ The intellectual property's current ownership by Activision has led to periodic 
 [^ref-13]: [Sierra Help Wiki - AGI Documentation](https://wiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) – Technical documentation on AGI engine used in Manhunter series
 [^ref-14]: [IGDB – Manhunter Series](https://www.igdb.com/search?q=Manhunter) – Series database information and metadata
 [^ref-15]: [SCUMM Bar – Manhunter Discussion](https://scummbar.com/) – Adventure game community discussion and preservation
+[[1988 - Manhunter - New York]]
+- [[1989 - Manhunter 2 - San Francisco]]
+
+## References
+
+[^ref-1]: [Manhunter Wiki – Manhunter 3: London](https://manhunter.fandom.com/wiki/Manhunter_3:_London) – cancelled game information, Easter egg details, planned story elements
+[^ref-2]: [Larry Laffer Dot Net – Manhunter History](http://larrylaffer.net/non-lsl-games/the-manhunter-shrine/manhunter-history) – development history, Murry biographies, sales figures, series innovations
+[^ref-3]: [AGD Interactive Forums – Manhunter 3: London coming soon](http://www.agdinteractive.com/forum/viewtopic.php?t=12634) – 2008 revival information, dual protagonist structure, developer contact
+[^ref-4]: [Sierra Gamers Forums – Why was there never a third game?](https://www.sierragamers.com/forums/topic/why-was-there-never-a-third-game/) – Ken Williams explanation, AGI engine details, Ancient Art of War story
+[^ref-5]: [ClassicReload – Manhunter: New York](https://classicreload.com/manhunter-new-york.html) – gameplay description, interface details, AGI engine information
+[^ref-6]: [Just Games Retro – Manhunter 2: San Francisco](https://www.justgamesretro.com/dos/manhunter-2-san-francisco) – gameplay analysis, series critique, story continuation
+[^ref-7]: [Sierra Wiki – Manhunter](https://sierra.fandom.com/wiki/Manhunter) – series overview, current IP ownership, game list
+[^ref-8]: [MobyGames – Manhunter: New York](https://www.mobygames.com/game/8752/manhunter-new-york/) – Original game details, Evryware developers, sales figures, gameplay mechanics
+[^ref-9]: [MobyGames – Manhunter 2: San Francisco](https://www.mobygames.com/game/8753/manhunter-2-san-francisco/) – Sequel details, reception, AGI engine information, cliffhanger ending
+[^ref-10]: [Wikipedia – Manhunter (video game series)](https://en.wikipedia.org/wiki/Manhunter_(video_game_series)) – Series overview, cancelled third game, developer information
+[^ref-11]: [Adventure Gamers – Manhunter Series](https://adventuregamers.com/search/?q=Manhunter) – Adventure gaming community coverage of series and cancelled game
+[^ref-12]: [Giant Bomb - Manhunter](https://www.giantbomb.com/manhunter/3025-29633/) – Series database with game information and historical notes
+[^ref-13]: [Sierra Help Wiki - AGI Documentation](https://wiki.sierrahelp.com/index.php/Adventure_Game_Interpreter) – Technical documentation on AGI engine used in Manhunter series
+[^ref-14]: [IGDB – Manhunter Series](https://www.igdb.com/search?q=Manhunter) – Series database information and metadata
+[^ref-15]: [SCUMM Bar – Manhunter Discussion](https://scummbar.com/) – Adventure game community discussion and preservation

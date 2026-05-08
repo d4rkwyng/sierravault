@@ -40,7 +40,7 @@ The game is essentially a combination of Jurassic Park, Indiana Jones, and pinba
 
 The Lost Continent follows an adventure story involving crash-landed explorers on a mysterious island. An airplane carrying three explorers is hit by lightning and crashes on an island somewhere in Africa[^ref-10]. The island is full of dinosaurs, long thought extinct[^ref-10], and is controlled by the diabolical Doktor Hekla, who has been transforming the local inhabitants into dinosaurs[^ref-2]. Your task is to lead Rex Hunter, Professor Spector, Mary, and Neeka to a safe place[^ref-4] while battling savage prehistoric tribes and surviving dinosaur stampedes[^ref-11].
 
-The story, although very short, involves crash landing on an island taken over by a mad scientist, who is turning the inhabitants into dinosaurs[^ref-9]. The plot is inspired by 1930s serials and 1950s B-movies[^ref-7], with character dialogue that is straight from a 'B' movie and is fun[^ref-9]. As the game progresses, players must discover the hidden laboratory of Doktor Hekla and ultimately earn the ultimate game payoff - a fully animated escape from the Lost Continent[^ref-11].
+The story, although very short, involves crash landing on an island taken over by a mad scientist, who is turning the inhabitants into dinosaurs[^ref-12]. The plot is inspired by 1930s serials and 1950s B-movies[^ref-7], with character dialogue that is straight from a 'B' movie and is fun[^ref-12]. As the game progresses, players must discover the hidden laboratory of Doktor Hekla and ultimately earn the ultimate game payoff - a fully animated escape from the Lost Continent[^ref-11].
 
 ## Gameplay
 
@@ -66,13 +66,13 @@ Dinosaurs interact with the ball occasionally, and notably, the T. Rex can be ki
 
 ### Contemporary Reviews
 
-The Lost Continent received mixed to positive reviews from critics and players upon release. GameSpot users rated the game 8.1 out of 10[^ref-18], while IMDb users gave it a score of 6.8/10[^ref-19]. Critics on MobyGames provided an aggregate score of 68%[^ref-9], and MyAbandonware users rated it 4.79/5[^ref-20].
+The Lost Continent received mixed to positive reviews from critics and players upon release. GameSpot users rated the game 8.1 out of 10[^ref-18], while IMDb users gave it a score of 6.8/10[^ref-19]. Critics on MobyGames provided an aggregate score of 68%[^ref-12], and MyAbandonware users rated it 4.79/5[^ref-20].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|
 | GameSpot (User) | 8.1/10 | Positive user reception[^ref-18] |
 | IMDb | 6.8/10 | Mixed critical assessment[^ref-19] |
-| MobyGames (Critics) | 68% | Moderate critical approval[^ref-9] |
+| MobyGames (Critics) | 68% | Moderate critical approval[^ref-12] |
 | MyAbandonware | 4.79/5 | Strong user ratings[^ref-20] |
 
 Contemporary reviewers praised various aspects of the game, with GameRevolution's Nebojsa Radakovic noting that "Sierra really has a good grasp on smooth and colorful design"[^ref-15] and praising the soundtrack as "one of the best I've heard" as far as game soundtracks are concerned[^ref-15]. However, the same reviewer noted that "Despite some of its annoying quirks, it's a solid game"[^ref-15], acknowledging both strengths and weaknesses.
@@ -89,7 +89,7 @@ Hardcore Gaming 101's retrospective assessment noted that "The Lost Continent is
 
 The Lost Continent was developed by Dynamix in cooperation with Sierra[^ref-3], with Dynamix getting far more adventurous for their third game in the series[^ref-7]. The game was created with the help of real pinball pros to capture true arcade table feel, targetability, visual perspective and bumper and flipper friction[^ref-14]. Jeff Tunnell Productions was also involved in the development alongside Dynamix[^ref-3], bringing additional expertise to the project.
 
-The game's development was influenced by the popularity of the Jurassic Park film[^ref-6], with the team drawing inspiration from 1930s serials and 1950s B-movies for the overall aesthetic and storytelling approach[^ref-7]. This thematic choice represented a significant departure from the space and horror motives of the previous games[^ref-9] in the series.
+The game's development was influenced by the popularity of the Jurassic Park film[^ref-6], with the team drawing inspiration from 1930s serials and 1950s B-movies for the overall aesthetic and storytelling approach[^ref-7]. This thematic choice represented a significant departure from the space and horror motives of the previous games[^ref-12] in the series.
 
 ### Production
 
@@ -107,7 +107,7 @@ The game supported multiple platforms including DOS and Windows[^ref-7], with ve
 
 3-D Ultra Pinball: The Lost Continent holds a unique position in gaming history as one of the most ambitious attempts to merge narrative storytelling with pinball gameplay. While later reviewers noted that "every complaint I had regarding the previous game has been corrected" in subsequent series entries[^ref-21], The Lost Continent's influence on narrative-driven casual games cannot be understated.
 
-The game was part of Sierra's broader 3D Ultra series of casual games[^ref-18], helping to establish a market for story-driven arcade-style experiences that would influence later casual gaming development. Despite technical limitations, one modern assessment concluded that if you are going to buy only one video pinball game to add to your arsenal, let it be 3D Ultra Pinball: The Lost Continent[^ref-14].
+The game was part of Sierra's broader 3D Ultra series of casual games[^ref-22], helping to establish a market for story-driven arcade-style experiences that would influence later casual gaming development. Despite technical limitations, one modern assessment concluded that if you are going to buy only one video pinball game to add to your arsenal, let it be 3D Ultra Pinball: The Lost Continent[^ref-14].
 
 The title remains available through preservation efforts, with multiple archive versions maintaining access to this unique gaming experience[^ref-23]. Its combination of B-movie aesthetics, dinosaur themes, and innovative pinball mechanics continues to attract retro gaming enthusiasts, with one user noting it brings back great memories of a misspent youth as a pin ball wizard[^ref-20].
 
@@ -157,6 +157,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-9]: [MobyGames – 3-D Ultra Pinball: The Lost Continent](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – Designer information and game metadata
 [^ref-10]: [NeverDieMedia - Product Listing](https://www.neverdiemedia.com/products/3d-ultra-pinball-the-lost-continent-1) – Story premise, game overview description
 [^ref-11]: [Metacritic - Game Details](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/details/) – - Marketing description of gameplay features
+[^ref-12]: [MobyGames - Game Information](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/) – - Plot summary, series comparison, critic score, dialogue assessment
 [^ref-13]: [Metacritic - Main Page](https://www.metacritic.com/game/3-d-ultra-pinball-the-lost-continent/) – - Input devices information
 [^ref-14]: [NewTechReview - The Lost Continent Review](https://www.newtechreview.com/NewTechReview/review.asp?ID=3) – - Gameplay quality assessment, final recommendation
 [^ref-15]: [GameRevolution - Review](https://www.gamerevolution.com/review/32949-3dlost-review) – - Technical praise, physics commentary, soundtrack praise, overall assessment
@@ -166,6 +167,7 @@ The title remains available through preservation efforts, with multiple archive 
 [^ref-19]: [IMDb - Game Entry](https://www.imdb.com/title/tt5652794/) – - Cast information, director, writer, rating information
 [^ref-20]: [MyAbandonware - Game Page](https://www.myabandonware.com/game/3-d-ultra-pinball-the-lost-continent-3fi) – - User rating, user comments
 [^ref-21]: [Bunny Gamer - ThrillRide Impressions](https://bunnygamer.com/3d-ultra-pinball-thrillride-game-first-impressions/) – - Comparison to later series entries
+[^ref-22]: [MobyGames - Reviews](https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/) – - Series context information
 [^ref-23]: [Archive.org - Primary Entry](https://archive.org/details/3dultrapinball_thelostcontinent) – - Preservation availability
 [^ref-24]: [PriceCharting - Market Data](https://www.pricecharting.com/game/pc-games/3-d-ultra-pinball-the-lost-continent) – - Commercial availability and pricing
 [^ref-25]: [Archive.org - Alternative Entry](https://archive.org/details/3-d-ultra-pinball-the-lost-continent) – - Alternative preservation copy

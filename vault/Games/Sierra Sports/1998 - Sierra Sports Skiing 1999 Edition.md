@@ -25,7 +25,7 @@ Sierra Sports Skiing 1999 Edition was an alpine skiing simulation game released 
 
 The game featured realistic 3D graphics and multiple camera angles, allowing players to experience alpine skiing across six world-class resort courses[^ref-1]. Olympic skier Picabo Street lent her name and expertise to the project, appearing in tutorial videos that explained skiing techniques and strategies to players[^ref-2]. The title supported both single-player and two-player modes, with controls designed for mouse, keyboard, or joystick input[^ref-1].
 
-Sierra Sports Skiing 1999 Edition represented the continuation of Sierra's Front Page Sports franchise into winter athletics. The game has since become relatively obscure, with limited documentation available in modern gaming databases and no contemporary reviews preserved for this specific edition[^ref-3].[^ref-11][^ref-12][^ref-13]
+Sierra Sports Skiing 1999 Edition represented the continuation of Sierra's Front Page Sports franchise into winter athletics. The game has since become relatively obscure, with limited documentation available in modern gaming databases and no contemporary reviews preserved for this specific edition[^ref-3].[^ref-11][^ref-12][^ref-13][^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -193,10 +193,7 @@ The closure of Dynamix by Sierra Entertainment in August 2001, as part of restru
 
 - [[1997 - Driver's Education '98]]
 - [[1998 - Grand Prix Legends]]
-- [[1998 - Sierra Sports - Bass Fishing]]
-- [[1999 - Professional Bull Rider]]
-
-## References
+References
 
 [^ref-1]: [Kagi FastGPT – Sierra Sports Skiing 1999 Edition](kagi_fastgpt_aggregate) – release date (1998), platforms (Windows), gameplay features, alternate titles, control scheme
 [^ref-2]: [Wikipedia – Front Page Sports: Ski Racing](https://en.wikipedia.org/wiki/Front_Page_Sports:_Ski_Racing) – predecessor game details, Dynamix development, October 1997 release, course locations, racing types, Picabo Street involvement, sequel confirmation

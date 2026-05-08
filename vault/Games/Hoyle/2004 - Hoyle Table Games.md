@@ -158,67 +158,7 @@ One reviewer specifically complained about the copy protection: "The fragile CD 
 
 The game saw distribution through multiple publishers across different regions and time periods:
 
-- **Sierra Entertainment** – Primary publisher[^ref-5]
-- **Vivendi Universal Games** – Parent company, listed as publisher/developer on some platforms[^ref-3][^ref-16]
-- **Hip Interactive** – UK distribution[^ref-12]
-- **Encore Software** – Later budget re-release[^ref-9]
-
-### Regional Releases
-
-| Region | Date | Publisher | Notes |
-|--------|------|-----------|-------|
-| United States | September 2, 2003 | Sierra Entertainment | Initial release[^ref-6][^ref-7] |
-| United Kingdom | 2004 | Hip Interactive | European release[^ref-4][^ref-12] |
-
-## Legacy
-
-### Commercial Impact
-
-Hoyle Table Games 2004 continued the strong commercial tradition of the Hoyle brand, which had established itself as a leading casual gaming series. The game was later re-released by Encore Software as a budget title[^ref-9], indicating sustained demand for the product.
-
-### Series Context
-
-The Hoyle series encompassed multiple product lines over the years, including card games, board games, casino games, and puzzle games[^ref-1]. Hoyle Table Games 2004 represented the table/board game branch of this franchise, distinct from companion products like Card Games: Hoyle 2004 Edition which focused on card-based gameplay[^ref-11].
-
-### Fan Reception and Nostalgia
-
-The game has maintained a devoted following among players who remember it fondly. User comments on preservation sites reveal deep emotional connections:
-
-"I would love to keep the Holy table games 2004 in my downloads" – Mohamed Radwan[^ref-14]
-
-"thanks man, my dad had this game and he recently passed away. i couldnt remember the name of it until i saw this on this site. looking forward to the awakening of some memories from playing this" – bingor[^ref-4]
-
-### Critical Perspective
-
-Hoyle Table Games 2004 represents an interesting artifact from the early 2000s casual gaming market, when Sierra continued to leverage its established brand names for accessible family entertainment. While the game didn't receive the critical acclaim of Sierra's adventure game legacy, it fulfilled its purpose as a comprehensive digital board game collection.
-
-The title's enduring appeal among nostalgic players demonstrates the value of simple, well-executed casual gaming experiences. However, its technical limitations—particularly the restrictive copy protection and Windows XP compatibility issues—highlight the challenges of software preservation for early 2000s PC games.
-
-## Purchase
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Download / Preservation**
-- [My Abandonware](https://www.myabandonware.com/game/hoyle-table-games-2004-efb) – 601 MB ISO download available[^ref-4]
-- [Old Games Download](https://oldgamesdownload.com/hoyle-table-games-2004/) – Alternative download source[^ref-15]
-
-**Database Entries**
-- [MobyGames](https://www.mobygames.com/game/13166/hoyle-table-games-2004/) – Game database entry[^ref-13]
-- [LaunchBox Games Database](https://gamesdb.launchbox-app.com/games/details/122497-hoyle-table-games-2004) – Game listing[^ref-6]
-- [RAWG](https://rawg.io/games/hoyle-table-games-2004) – Game database[^ref-16]
-
-The game is documented in various gaming databases.[^ref-15][^ref-16]
-
-## See Also
-
-- [[2004 - Hoyle Puzzle Games|← Previous: Hoyle Puzzle Games]]
-- [[2005 - Hoyle Board Games|→ Next: Hoyle Board Games]]
-
-- [[1989 - Hoyle Official Book of Games - Volume 1]]
+- **Sierra Entertainment** – Primary publisher[[1989 - Hoyle Official Book of Games - Volume 1]]
 - [[1990 - Hoyle Official Book of Games - Volume 2]]
 - [[1991 - Hoyle Official Book of Games - Volume 3]]
 - [[1991 - Hoyle Official Book of Games - Volume 4]]
@@ -286,5 +226,5 @@ The game is documented in various gaming databases.[^ref-15][^ref-16]
 [^ref-13]: [MobyGames – Hoyle Table Games 2004 Reviews](https://www.mobygames.com/game/13166/hoyle-table-games-2004/reviews/) – Aggregate critic and player scores
 [^ref-14]: [Software Informer – Hoyle Table Games 2004](https://hoyle-table-games-2004.software.informer.com/1.0/) – User rating 4.1/5, developer Sierra, user comment
 [^ref-15]: [Old Games Download – Hoyle Table Games 2004](https://oldgamesdownload.com/hoyle-table-games-2004/) – File size 601.6MB, ISO format, developer credits
-[^ref-17]: [RAWG – Hoyle Table Games 2004](https://rawg.io/games/hoyle-table-games-2004) – Release date August 1, 2003, Vivendi Universal Games attribution[^ref-15]: [Giant Bomb - Hoyle Table Games](https://www.giantbomb.com/hoyle-table-games/) - game wiki entry
+[^ref-16]: [RAWG – Hoyle Table Games 2004](https://rawg.io/games/hoyle-table-games-2004) – Release date August 1, 2003, Vivendi Universal Games attribution[^ref-15]: [Giant Bomb - Hoyle Table Games](https://www.giantbomb.com/hoyle-table-games/) - game wiki entry
 [^ref-16]: [IGDB - Hoyle Table Games](https://www.igdb.com/games/hoyle-table-games) - Internet Games Database entry

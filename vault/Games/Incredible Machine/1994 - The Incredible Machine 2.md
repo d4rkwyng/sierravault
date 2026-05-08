@@ -121,12 +121,6 @@ The integrated level editor empowered players to create and share custom puzzles
 
 The integrated level editor and exceptional puzzle design made it a landmark title in physics-based puzzle gaming[^ref-2]. Player-created content significantly extended the game's longevity, establishing communities dedicated to designing and sharing custom puzzles[^ref-3]. The game's physics engine accuracy and intuitive level building tools influenced subsequent puzzle game design[^ref-4].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/game/the_incredible_machine_mega_pack) – Available for purchase
-- [Steam](https://store.steampowered.com/app/241240/Contraption_Maker/) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**

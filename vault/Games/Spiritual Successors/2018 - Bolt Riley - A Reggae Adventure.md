@@ -21,7 +21,7 @@ tags: [2010s, adventure, coles, alumni, kickstarter, reggae]
 
 ## Overview
 
-Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by [[Corey Cole]] and [[Lori Ann Cole]], the legendary creators of Sierra's Quest for Glory series[^ref-1][^ref-23][^ref-24]. Developed by Israeli studio Adventure Mob (later Corbomite Games) under the creative direction of Oded Sharon, the game places players in the role of Bolt Riley, a poor boy from Trenchtown, Jamaica, on his pathway to becoming a reggae legend[^ref-2]. Chapter 1 was released on February 8, 2018, following a protracted development cycle that included two Kickstarter campaigns and significant financial challenges[^ref-1].
+Bolt Riley: A Reggae Adventure is a classic 2D point-and-click adventure game co-designed by [[Corey Cole]] and [[Lori Ann Cole]], the legendary creators of Sierra's Quest for Glory series[^ref-1]. Developed by Israeli studio Adventure Mob (later Corbomite Games) under the creative direction of Oded Sharon, the game places players in the role of Bolt Riley, a poor boy from Trenchtown, Jamaica, on his pathway to becoming a reggae legend[^ref-2]. Chapter 1 was released on February 8, 2018, following a protracted development cycle that included two Kickstarter campaigns and significant financial challenges[^ref-1].
 
 The game represents an interesting confluence of talent, emerging from connections formed when Adventure Mob was originally slated to develop Leisure Suit Larry: Reloaded for Replay Games[^ref-4]. When that partnership dissolved and development shifted to N-Fusion Interactive, Adventure Mob pivoted to their own original project, bringing aboard the Coles through industry connections[^ref-5]. As Oded Sharon explained: "I've been a fan of their work forever. I was looking for experienced designers when we began work on Bolt Riley. My friend Noah Falstien introduced me to them. They were in on the game's design from day one and they are in charge of about 1/3 of the puzzles and dialog of the full game."[^ref-6]
 
@@ -137,14 +137,17 @@ The game also illustrates the challenges facing crowdfunded adventure games in t
 
 The Adventure Mob/Corbomite Games team demonstrated technical ambition with their Unity-based approach and cross-platform goals, even if the final product didn't fully realize these aspirations[^ref-10]. The game's hand-drawn art style and original reggae soundtrack remain its most distinctive achievements[^ref-7][^ref-20].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [Steam](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) – Available for purchase
-
 ## Downloads
 
 As a modern release, Bolt Riley: A Reggae Adventure is available through digital storefronts rather than traditional downloads.
+
+## Purchase
+
+Bolt Riley: A Reggae Adventure - Chapter 1 is available for purchase on:
+
+- [Steam](https://store.steampowered.com/app/331210/Bolt_Riley_A_Reggae_Adventure/) — includes game and optional soundtrack DLC[^ref-1]
+- [itch.io](https://soundguy.itch.io/boltriley) — includes Steam key with purchase[^ref-23]
+- [Humble Bundle](https://www.humblebundle.com/store/bolt-riley-a-reggae-adventure) — DRM-free option[^ref-24]
 
 ## See Also
 

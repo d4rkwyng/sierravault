@@ -27,7 +27,7 @@ tags: [1990s, adventure, conquests, sci, sierra]
 
 The game distinguished itself from other adventure titles of its era through its extensive research into medieval history, mythology, and religious traditions.[^ref-4] As Marx explained in the game's documentation: "The trick with writing a story or game based upon a popular set of legends is to walk that thin line between tradition and originality. What I've striven to do with this game is to balance history and myth, fact and imagination, entertainment and information."[^ref-2] This approach created what one reviewer described as "a more subtle, complex and powerful vision of Arthur than anything you've seen before."[^ref-5]
 
-*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2][^ref-30][^ref-31][^ref-32]
+*Conquests of Camelot* was the first entry in what would become Sierra's Conquests series, followed only by *Conquests of the Longbow: The Legend of Robin Hood* in 1991.[^ref-1] The game marked Christy Marx's debut as a game designer for Sierra, though she had previously established herself as a writer for animated television series including *Spider-Man and His Amazing Friends*, *G.I. Joe*, and *Teenage Mutant Ninja Turtles*.[^ref-2][^ref-30][^ref-31][^ref-32][^ref-30][^ref-31][^ref-32]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -244,8 +244,8 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 
 ## See Also
 
-- **Series:** Conquests Series
-- **Next:** [[1991 - Conquests of the Longbow - The Legend of Robin Hood|→ Conquests of the Longbow]] (1991)
+- **Series:** [[Conquests of Camelot|Conquests Series]]
+- **Nes of the Longbow]] (1991)
 - **Creator:** [[Christy Marx]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 - **Related Adventure Games:** [[King's Quest Series]] (medieval fantasy), [[Quest for Glory Series]] (adventure-RPG hybrid)
@@ -259,7 +259,7 @@ The game occupies an interesting position in Sierra's history as a well-regarded
 [^ref-5]: [GOG.com – Conquests of Camelot](https://www.gog.com/en/game/conquests_of_camelot) – user reviews, ratings, system requirements
 [^ref-6]: [PCGamingWiki – Conquests of Camelot](https://www.pcgamingwiki.com/wiki/Conquests_of_Camelot:_The_Search_for_the_Grail) – engine info, technical specifications, video modes
 [^ref-7]: [King Arthur Fandom Wiki](https://kingarthur.fandom.com/wiki/Conquests_of_Camelot) – plot summary, gameplay description
-[^ref-33]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=140&fld=music) – location-based music, Glastonbury references
+[^ref-8]: [Sierra Chest – Music](https://www.sierrachest.com/index.php?a=games&id=140&fld=music) – location-based music, Glastonbury references
 [^ref-9]: [Sierra Chest – Walkthrough](https://sierrachest.com/index.php?a=games&id=140&title=conquests-of-camelot&fld=walkthrough&pid=100) – game locations, scoring details
 [^ref-10]: [Abandonware DOS Walkthrough](https://www.abandonwaredos.com/docawd.php?sf=conquestsofcamelotwalkthrough.txt&st=walkthrough&sg=Conquests+of+Camelot:+The+Search+for+the+Grail&idg=2398) – puzzle details, riddle difficulty, currency systems
 [^ref-11]: [MobyGames – Conquests of Camelot](https://www.mobygames.com/game/1408/conquests-of-camelot-the-search-for-the-grail/) – user reviews, trivia, Easter eggs, ratings

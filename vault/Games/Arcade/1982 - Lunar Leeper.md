@@ -226,7 +226,25 @@ However, the Leeper character's transition to educational gaming through *Learni
 
 - [[1981 - Crossfire]]
 - [[1981 - Frogger]]
+- [[1981 - Gobble
+- [[1981 - Crossfire]]
+- [[1981 - Frogger]]
 - [[1981 - Gobbler]]
+- [[1981 - Sabotage]]
+- [[1981 - Threshold]]
+- [[1982 - Cannonball Blitz]]
+- [[1982 - Creepy Corridors]]
+- [[1982 - Dragon's Keep]]
+- [[1982 - Laf Pak]]
+- [[1982 - Marauder]]
+- [[1982 - Mouskattack]]
+- [[1982 - Pest Patrol]]
+- [[1983 - Apple Cider Spider]]
+- [[1983 - Aquatron]]
+- [[1983 - Mine Shaft]]
+- [[1983 - Mr. Cool]]
+- [[1983 - Sammy Lightfoot]]
+- [[1983 - WallWar]]
 - [[1981 - Sabotage]]
 - [[1981 - Threshold]]
 - [[1982 - Cannonball Blitz]]
@@ -263,3 +281,4 @@ However, the Leeper character's transition to educational gaming through *Learni
 [^ref-18]: [Avid Wiki – Sierra Entertainment](https://www.avid.wiki/Sierra_Entertainment) – C64 logo variation
 [^ref-19]: [Internet Archive – Lunar Leeper (Apple II)](https://archive.org/details/3d0g_014a_Lunar_Leeper) – Bob & Doug McKenzie easter egg
 [^ref-20]: [ColecoVision Addict – Learning with Leeper](https://cvaddict.com/profile.php?gameid=103) – ColecoVision release date, game connection
+

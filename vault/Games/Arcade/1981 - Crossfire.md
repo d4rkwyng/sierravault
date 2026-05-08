@@ -23,7 +23,7 @@ tags: [1980s, n-a, shooter, sierra]
 
 Crossfire is a fast-paced arcade shooter developed by Jay Sullivan and published by Sierra On-Line (then known as On-Line Systems) beginning in 1981.[^ref-1] The game serves as a home adaptation of the 1980 Exidy arcade game *Targ*, challenging players to defend a city from waves of alien invaders attacking from all four directions on a grid-based playing field.[^ref-2] Initially released for the Apple II, the game quickly became one of the most sought-after titles in the early personal computer gaming scene, eventually expanding to multiple platforms including Atari 8-bit computers, Commodore 64, VIC-20, and IBM PC.[^ref-3]
 
-The game distinguished itself through its exceptionally smooth controls and responsive gameplay, which was remarkable for home computer games of the era.[^ref-4] "Crossfire is what happens when you throw a tank into a maze, give it infinite ammo, and tell it to go wild," as described by Abandonware DOS, capturing the game's frantic arcade essence.[^ref-5] The title earned a Certificate of Merit in the "Best Arcade/Action Computer Games" category at the 4th annual Arkie Awards in March 1983 for the Atari 8-bit version, cementing its status as one of the premier action games of the early 1980s.[^ref-1][^ref-15]
+The game distinguished itself through its exceptionally smooth controls and responsive gameplay, which was remarkable for home computer games of the era.[^ref-4] "Crossfire is what happens when you throw a tank into a maze, give it infinite ammo, and tell it to go wild," as described by Abandonware DOS, capturing the game's frantic arcade essence.[^ref-5] The title earned a Certificate of Merit in the "Best Arcade/Action Computer Games" category at the 4th annual Arkie Awards in March 1983 for the Atari 8-bit version, cementing its status as one of the premier action games of the early 1980s.[^ref-1][^ref-15][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -239,7 +239,29 @@ The game's influence can be seen in its innovative control scheme and its achiev
 
 ## References
 
-[^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game))) – release dates, platforms, awards, contemporary reviews, technical details
+[^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)
+- [[1981 - Frogger]]
+- [[1981 - Gobbler]]
+- [[1981 - Sabotage]]
+- [[1981 - Threshold]]
+- [[1982 - Cannonball Blitz]]
+- [[1982 - Creepy Corridors]]
+- [[1982 - Dragon's Keep]]
+- [[1982 - Laf Pak]]
+- [[1982 - Lunar Leeper]]
+- [[1982 - Marauder]]
+- [[1982 - Mouskattack]]
+- [[1982 - Pest Patrol]]
+- [[1983 - Apple Cider Spider]]
+- [[1983 - Aquatron]]
+- [[1983 - Mine Shaft]]
+- [[1983 - Mr. Cool]]
+- [[1983 - Sammy Lightfoot]]
+- [[1983 - WallWar]]
+
+## References
+
+[^ref-1]: [Wikipedia – Crossfire (1981 video game)](https://en.wikipedia.org/wiki/Crossfire_(1981_video_game)) – release dates, platforms, awards, contemporary reviews, technical details
 [^ref-2]: [MobyGames – Crossfire](https://www.mobygames.com/game/75/crossfire/) – developer, publisher, credits, ratings, trivia, gameplay description
 [^ref-3]: [Internet Archive – Apple II Version](https://archive.org/details/a2_Crossfire_1981_On_Line_Systems) – release date, publisher, platform preservation
 [^ref-4]: [Data Driven Gamer – Game 99: Crossfire](https://datadrivengamer.blogspot.com/2019/10/game-99-crossfire.html) – control scheme analysis, contemporary reviews, platform ports
@@ -253,4 +275,4 @@ The game's influence can be seen in its innovative control scheme and its achiev
 [^ref-12]: [UVList – Crossfire MS-DOS](https://www.uvlist.net/game-169491-Crossfire) – Tandy/PCjr graphics patch history
 [^ref-13]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Crossfire_1983) – DOS release date, emulation details
 [^ref-14]: [ClassicReload – Crossfire](https://classicreload.com/crossfire.html) – gameplay description, browser emulation
-[^ref-15]: [Wikipedia – Crossfire](https://en.wikipedia.org/wiki/Crossfire_(1992_video_game))) – comprehensive historical overview of an early open-source multiplayer RPG with detailed development history and techn...
+[^ref-15]: [Wikipedia – Crossfire](https://en.wikipedia.org/wiki/Crossfire_(1992_video_game)) – comprehensive historical overview of an early open-source multiplayer RPG with detailed development history and techn...

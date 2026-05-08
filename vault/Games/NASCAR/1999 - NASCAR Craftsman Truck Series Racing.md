@@ -24,7 +24,7 @@ tags: [1990s, nascar-racing, racing, sierra]
 
 NASCAR Craftsman Truck Series Racing is a racing simulation developed by Papyrus Design Group and published by Sierra Sports in 1999 for Windows.[^ref-1][^ref-2][^ref-14][^ref-15] The game is essentially the truck-racing portion of NASCAR Racing 1999 Edition sold as a standalone product, allowing players to experience the 700-horsepower trucks of the NASCAR Craftsman Truck Series without purchasing the full NASCAR Racing package.[^ref-3] This standalone release represented Sierra's strategy of offering modular racing content to serve different segments of the NASCAR fanbase.
 
-The game featured authentic trucks, tracks, and drivers from the 1999 NASCAR Craftsman Truck Series season, with full 3Dfx accelerator support and an included paint kit for custom vehicle designs.[^ref-3][^ref-4] As one of Papyrus's later NASCAR releases, the game built upon the studio's reputation for creating the most realistic racing simulations available on the PC platform during the 1990s.[^ref-11][^ref-12][^ref-13]
+The game featured authentic trucks, tracks, and drivers from the 1999 NASCAR Craftsman Truck Series season, with full 3Dfx accelerator support and an included paint kit for custom vehicle designs.[^ref-3][^ref-4] As one of Papyrus's later NASCAR releases, the game built upon the studio's reputation for creating the most realistic racing simulations available on the PC platform during the 1990s.[^ref-11][^ref-12][^ref-13][^ref-11][^ref-12][^ref-13]
 
 > [!info]- Game Info
 > **Developer:** [[Papyrus Design Group]][^ref-1]
@@ -182,6 +182,32 @@ The game has been preserved through abandonware archives and the Internet Archiv
 ## See Also
 
 - [[1994 - NASCAR Racing]]
+- [[1996 - NASCAR Racing 2]]
+- [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
+- [[1999 - NASCAR Legends]]
+- [[1999 - NASCAR Racing 3]]
+- [[2001 - NASCAR Racing 4]]
+- [[2002 - NASCAR Racing 2002 Season]]
+- [[2003 - NASCAR Racing 2003 Season]]
+
+## References
+
+[^ref-1]: [MyAbandonware - NASCAR Craftsman Truck Series Racing](https://www.myabandonware.com/game/nascar-craftsman-truck-series-racing-e0a) - developer Papyrus, publisher Sierra On-Line, 1999 release, user rating 5/5, download size
+[^ref-2]: [Internet Archive - NASCAR Craftsman Truck Series Racing](https://archive.org/details/NascarCraftsmanTruckSeriesRacing) - preservation, platform information
+[^ref-3]: [MobyGames - NASCAR Craftsman Truck Series Racing](https://www.mobygames.com/game/3225/nascar-craftsman-truck-series-racing/) - gameplay description, 700 hp trucks, paint kit, 3Dfx support, integration with NASCAR Racing 2/1999 Edition
+[^ref-4]: [Race Sim Central - Sierra Announce NASCAR Racing 1999 Edition](https://racesimcentral.net/sierra-announce-nascar-racing-1999-edition/) - truck series tracks, gameplay features
+[^ref-5]: [Wikipedia - Papyrus Design Group](https://en.wikipedia.org/wiki/Papyrus_Design_Group) - Sierra acquisition 1995, shutdown 2004, iRacing evolution
+[^ref-6]: [MobyGames - NASCAR Racing 3: Craftsman Truck Series Expansion Pack](https://www.mobygames.com/game/3221/nascar-racing-3-craftsman-truck-series-expansion-pack/) - 2000 expansion for NASCAR Racing 3
+[^ref-7]: [Squakenet - NASCAR Craftsman Truck Series Racing](https://www.squakenet.com/game/nascar-craftsman-truck-series-racing/) - gameplay review, truck handling, physics, visual quality
+[^ref-8]: [Old PC Gaming - NASCAR Racing 1999](https://oldpcgaming.net/nascar-racing-1999/) - separate truck physics, vehicle customization, system requirements
+[^ref-9]: [GameSpot - NASCAR Racing 3 Driving Game of the Year 1999](https://www.gamespot.com/) - recognition for NASCAR Racing 3, parent engine
+[^ref-10]: [The Daily Downforce - A Complete History of NASCAR Gaming](https://dailydownforce.com/a-complete-history-of-nascar-gaming/) - NASCAR gaming history, series context
+[^ref-11]: [GameFAQs - NASCAR Craftsman Truck Racing](https://gamefaqs.gamespot.com/pc/915191-nascar-craftsman-truck-racing) - platform information, franchise context
+[^ref-12]: [Giant Bomb - NASCAR Craftsman Truck](https://www.giantbomb.com/nascar-craftsman-truck-series-racing/) - wiki
+[^ref-13]: [IGDB - NASCAR Craftsman Truck](https://www.igdb.com/games/nascar-craftsman-truck-series-racing) - IGDB
+[^ref-14]: [GameFAQs - NASCAR Craftsman](https://gamefaqs.gamespot.com/pc/198362-nascar-craftsman-truck-series-racing) - database
+[^ref-15]: [MobyGames - NASCAR Craftsman](https://www.mobygames.com/game/nascar-craftsman-truck-series-racing/) - database
+[[1994 - NASCAR Racing]]
 - [[1996 - NASCAR Racing 2]]
 - [[1997 - NASCAR Racing 2 - Grand National Series Expansion]]
 - [[1999 - NASCAR Legends]]

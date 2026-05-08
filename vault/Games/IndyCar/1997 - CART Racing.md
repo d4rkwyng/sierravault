@@ -162,7 +162,7 @@ Common issues reported by users include:
 - Windows version crashes on launch for some users[^ref-12]
 - Incompatibility with newer operating systems[^ref-10]
 
-The game can be run with the command "INDYCAR.EXE -h" for better graphics in the DOS version[^ref-12].[^ref-9]
+The game can be run with the command "INDYCAR.EXE -h" for better graphics in the DOS version[^ref-12].[^ref-9][^ref-9]
 
 ### Easter Eggs and Trivia
 
@@ -227,27 +227,7 @@ This page covers the Papyrus/Sierra CART Racing (1997). Several other games use 
 - **CART Flag to Flag / Super Speed Racing** (1999) – A Sega Dreamcast title developed by ZOOM Inc., unrelated to the Papyrus simulation[^ref-24]
 - **CART Fury Championship Racing** (2001) – An arcade and PlayStation 2 title[^ref-25]
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/forum/general/sports_and_racing_game_sections) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – CART Racing CD-ROM](https://archive.org/details/cart-racing-cdrom)[^ref-1]
-- [Internet Archive – Sierra IndyCar](https://archive.org/details/sierra-indycar)[^ref-19]
-- [MyAbandonware – CART Racing](https://www.myabandonware.com/game/cart-racing-g6q)[^ref-13]
-- [MyAbandonware – IndyCar Racing II](https://www.myabandonware.com/game/indycar-racing-ii-29x)[^ref-12]
-
-**Community Resources**
-- [CART Racing Headquarters (ICR2.net)](https://www.icr2.net/) – Fan community with patches, mods, and support[^ref-2]
-
-## See Also
-
-- [[1995 - IndyCar Racing II|← Previous: IndyCar Racing II]]
-
-- [[1993 - IndyCar Racing]]
+## [[1993 - IndyCar Racing]]
 
 - **Next:** None (series concluded with rebrand)
 

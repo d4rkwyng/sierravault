@@ -9,38 +9,7 @@ platforms: [Windows, Mac, DOS]
 series: Caesar
 engine: 2D isometric graphics engine
 protagonist: Roman Governor (player-named)
-sierra_lineage: Sierra Label (Impressions)
-last_updated: '2026-04-15'
-description: Caesar III is a city-building strategy game that transports players to
- the Roman Empire, where they serve as a provincial governor tasked with building...
-tags: [1990s, caesar, sierra]
----
-# Caesar III
-
-<small style="color: gray">Last updated: April 15, 2026</small>
-
-## Overview
-
-Caesar III is a city-building strategy game that transports players to the Roman Empire, where they serve as a provincial governor tasked with building thriving settlements. Developed by Impressions Games and published by Sierra Entertainment in 1998[^ref-19], the game has been described as "SimCity set in the Roman Empire"[^ref-2] while offering significantly more depth and complexity than that simple comparison suggests. As Ron Dulin noted in his GameSpot review, "The company line on Caesar III is that it's SimCity set in the Roman Empire. That's only partially true"[^ref-2], emphasizing the game's unique mechanics and historical setting.
-
-The game represents the third installment in the Caesar series and is widely considered the pinnacle of the franchise.
-
-According to developer Simon Bradbury, who worked on all three Caesar games, "Personally Caesar 3 remains my favourite. It was the most accomplished, polished and it benefitted greatly from the experience of coding and designing the previous two games"[^ref-4].
-
-Caesar III introduced revolutionary walker-based gameplay mechanics where citizens move throughout the city carrying goods and services, creating a dynamic simulation that brought Roman cities to life[^ref-48].
-
-The game's official manual states that "Caesar III is not a war game, although you might sometimes have to defend your city against Rome's enemies. It's not a historical reference or educational program, either. It is about building cities where people can live productive, happy lives, and having fun in the process"[^ref-8].
-
-> [!info]- Game Info
-> **Developer:** [[Impressions Games]][^ref-19]
-> **Designer:** [[David Lester]], [[Simon Bradbury]][^ref-4]
-> **Publisher:** Sierra Entertainment[^ref-19]
-> **Engine:** 2D isometric graphics engine[^ref-4]
-> **Platforms:** Windows, Macintosh, MS-DOS[^ref-49]
-> **Release Year:** 1998
-> **Series:** Caesar
-> **Protagonist:** Roman Governor (player-named)
-> **Sierra Lineage:** Sierra Label (Impressions)
+sierra_lineage: Sierra Label  Label (Impressions)
 
 ## Story Summary
 
@@ -115,14 +84,14 @@ Caesar III introduced several technical innovations that became hallmarks of the
 
 The game featured detailed animations and a rich isometric visual style that brought Roman cities to life. As noted in contemporary reviews, "The graphics are some of the best I've ever seen in a computer game"[^ref-24]. The technical implementation supported cities with thousands of individual buildings and citizens, though as long-term player Teoalida observed, "The game was NOT designed to sustain cities with over 30000 inhabitants"[^ref-83], indicating the technical limitations of late 1990s hardware.
 
-The game required regular patches to address technical issues, with version 1.0.1.0 being particularly important as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26]. Sierra provided patches in multiple languages, including German versions[^ref-53] and comprehensive update support through their technical resources[^ref-1][^ref-73].
+The game required regular patches to address technical issues, with version 1.0.1.0 being particularly important as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26]. Sierra provided patches in multiple languages, including German versions[^ref-53] and comprehensive update support through their technical resources[^ref-73][^ref-1].
 
 ### Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | September 1998 | Initial release[^ref-10] |
-| 1.0.1.0 | 1998 | Critical patch required for open-source implementations[^ref-11][^ref-26] |
+| 1.0.1.0 | 1998 | Critical patch required for open-source implementations[^ref-26][^ref-11] |
 
 ## Legacy
 

@@ -147,12 +147,6 @@ PCGamingWiki notes that the Windows 3.x version might be playable on 64-bit oper
 - Bridge was described in marketing materials as "the chess of card games," emphasizing its strategic depth[^ref-2]
 - The earlier Hoyle compilations featured 18 computer opponents modeled on Sierra game characters, including famous figures like Roger Wilco from Space Quest and King Graham from King's Quest, who could discuss events from their respective game series during idle time[^ref-14]
 
-### Version History
-
-Documented versions referenced in source material:
-
-- **version 2.1** — see contemporaneous sources cited in this page
-
 ## Legacy
 
 ### Sales and Commercial Impact
@@ -180,9 +174,9 @@ By 2006, Sierra president Michael Ryder announced further reorganization, explai
 
 ### Fan Projects
 
-Hoyle Bridge remains available through abandonware preservation sites including MyAbandonware and Old Games Download[^ref-7][^ref-10]. The Computing History museum in the UK maintains records of the software as part of their historical archive[^ref-22].
+Hoyle Bridge remains available through abandonware preservation sites including MyAbandonware and Old Games Download[^ref-10][^ref-7]. The Computing History museum in the UK maintains records of the software as part of their historical archive[^ref-22].
 
-The game is not currently available on modern digital distribution platforms such as Steam or GOG[^ref-11][^ref-23], leaving emulation and abandonware sites as the primary means for contemporary players to experience the title.
+The game is not currently available on modern digital distribution platforms such as Steam or GOG[^ref-23][^ref-11], leaving emulation and abandonware sites as the primary means for contemporary players to experience the title.
 
 ### Related Publications
 
@@ -195,12 +189,6 @@ Hoyle Bridge represents an interesting footnote in Sierra's history, demonstrati
 The Hoyle series occupies an unusual position in Sierra's legacy. While adventure game enthusiasts often focus on titles like King's Quest, Space Quest, and Gabriel Knight as defining the "real Sierra" experience[^ref-13], the Hoyle games were commercially significant products that introduced many players to Sierra's software. The series' inclusion of beloved Sierra characters as opponents created a unique crossover that allowed fans to interact with characters from other franchises in a casual, social context[^ref-14].
 
 For bridge enthusiasts, Hoyle Bridge provided an accessible way to practice the complex partnership card game without needing to assemble four human players. The educational features, including the Explain Hand option and adjustable difficulty levels, made it valuable as both entertainment and a learning tool[^ref-6]. The game's appeal to older, non-technical users represented Sierra's broader mission to expand the gaming audience—a vision that [[Ken Williams]] had pursued since the company's earliest days[^ref-15].
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/sierra-hoyle-classic-card-games) – Available for purchase
-- [Steam](https://store.steampowered.com/search/?term=Hoyle+Bridge) – Available for purchase
 
 ## Downloads
 

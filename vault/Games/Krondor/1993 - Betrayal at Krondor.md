@@ -10,7 +10,7 @@ series: Krondor
 engine: 3Space
 protagonist: Gorath, Locklear, Owyn, James, Patrus, Pug
 sierra_lineage: Sierra Label (Dynamix)
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 composer: [Jan Paul Moorhead]
 description: Betrayal at Krondor is a groundbreaking role-playing game developed by
   Dynamix and published by Sierra On-Line, released on June 22, 1993 for MS-DOS. Set
@@ -289,9 +289,54 @@ Betrayal at Krondor spawned both official and unofficial successors:
 
 ## See Also
 
+
 - [[1997 - Betrayal in Antara|→ Next: Betrayal in Antara]]
 
 - [[1998 - Return to Krondor]]
+
+## References
+
+[^ref-1]: [Wikipedia – Betrayal at Krondor](https://en.wikipedia.org/wiki/Betrayal_at_Krondor) – release date, developers, publishers, awards, version history, technical specifications, trivia
+[^ref-2]: [Internet Archive – Betrayal at Krondor (1993)](https://archive.org/details/msdos_Betrayal_at_Krondor_1993) – plot summary, Feist involvement
+[^ref-3]: [Betrayal Fandom Wiki](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor) – contemporary reviews from Pelit, Dragon, Quandary, Computer Gaming World
+[^ref-4]: [Official Raymond E. Feist Website](https://www.crydee.com/raymond-feist/games/computer-based/betrayal-at-krondor) – chapter structure, gameplay features
+[^ref-5]: [COMPUTE! Magazine Issue 159](https://www.atarimagazines.com/compute/issue159/110_Betrayal_at_Krondor.php) – 3Space engine, technical details, Scott A. May review
+[^ref-6]: [Neal Hallford – Krondor Confidential Part XI](https://www.nealhallford.com/p/krondor-confidential-part-xi) – Feist quotes, awards, reception, sales data
+[^ref-7]: [Keiya's Blog Review](https://hokage.org/content/review-betrayal-at-krondor/) – timeline placement, gameplay description
+[^ref-8]: [Betrayal Fandom Wiki – Nighthawks](https://betrayal.fandom.com/wiki/Nighthawks) – Nighthawk lore and history
+[^ref-9]: [Mike's RPG Center – Timirianya](http://mikesrpgcenter.com/krondor/maps/timirianya.html) – Chapter 8 locations
+[^ref-11]: [Rock Paper Shotgun – Have You Played?](https://www.rockpapershotgun.com/have-you-played-betrayal-at-krondor) – gameplay description, combat system
+[^ref-12]: [Manual Machine – Official Manual](https://manualmachine.com/gamespc/betrayalatkrondor/1119869-user-manual/) – Cutter quotes, design philosophy
+[^ref-13]: [RPG Codex Analysis](https://rpgcodex.net/content.php?id=10511) – book-like design elements
+[^ref-14]: [CRPG Addict – Prison Break](http://crpgaddict.blogspot.com/2024/12/betrayal-at-krondor-prison-break.html) – Chapter 4 walkthrough
+[^ref-15]: [Internet Archive – BAKPAT](https://archive.org/details/BAKPAT) – official patch documentation, bug fixes
+[^ref-16]: [Mike's RPG Center – Training](http://mikesrpgcenter.com/krondor/training.html) – game locations and NPCs
+[^ref-17]: [Steam Community Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=1085028649) – chapter mechanics, exploration
+[^ref-18]: [Dimwood.net Walkthrough](https://dimwood.net/chap1.html) – gameplay tips, money exploit
+[^ref-19]: [CRPG Revisited](http://crpgrevisited.blogspot.com/2013/04/betrayal-at-krondor-revisited.html) – skill system comparison to Morrowind
+[^ref-20]: [The Digital Antiquarian](https://www.filfre.net/2019/10/betrayal-at-krondor/) – development history, Feist quotes, budget issues
+[^ref-21]: [MobyGames – Unicorn Lynx Review](https://www.mobygames.com/game/285/betrayal-at-krondor/user-review/2460737/) – BioWare influence, critical analysis
+[^ref-22]: [IGN – Top 100 RPGs](https://www.ign.com/lists/top-100-rpgs/92) – Chris Reed quotes, ranking
+[^ref-23]: [MobyGames Reviews Page](https://www.mobygames.com/game/285/betrayal-at-krondor/reviews/) – community reviews, bug reports
+[^ref-24]: [MobyGames – Betrayal at Krondor](https://www.mobygames.com/game/285/betrayal-at-krondor/) – credits, ratings, awards, technical specs
+[^ref-25]: [IMDB – Betrayal at Krondor](https://www.imdb.com/title/tt0375599/) – user ratings and reviews
+[^ref-26]: [GOG.com Store Page](https://www.gog.com/en/game/betrayal_at_krondor) – user reviews, system requirements
+[^ref-27]: [Steam Store – Betrayal Collection](https://store.steampowered.com/app/559640/Betrayal_Collection/) – user reviews, awards, system requirements
+[^ref-28]: [Neal Hallford – Krondor Confidential Part I](https://www.nealhallford.com/p/krondor-confidential-part-i) – development origins, team formation
+[^ref-29]: [Neal Hallford Tumblr – Remaster FAQ](https://nealiios.tumblr.com/post/141194355948/betrayal-at-krondor-remastered-faq/amp) – team size, development time
+[^ref-30]: [Retro365 – 30th Anniversary](https://retro365.blog/2023/05/18/betrayal-at-krondor-celebrating-30-years/) – development history, office locations
+[^ref-31]: [Internet Archive – BAK OST](https://archive.org/details/bak-ost) – composer credit, cover art credits
+[^ref-32]: [Wikipedia – Return to Krondor](https://en.wikipedia.org/wiki/Return_to_Krondor) – sequel development, Thief of Dreams cancellation
+[^ref-33]: [CRPG Addict – Summary and Rating](http://crpgaddict.blogspot.com/2025/01/betrayal-at-krondor-summary-and-rating.html) – retrospective analysis
+[^ref-34]: [Sierra Help – BaK Help](https://sierrahelp.com/Games/KrondorSeries/BaKHelp.html) – system requirements
+[^ref-35]: [PCGamingWiki – Betrayal at Krondor](https://www.pcgamingwiki.com/wiki/Betrayal_at_Krondor) – technical specifications, compatibility issues
+[^ref-36]: [GameFAQs Guide by Mr_Knowitall](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/13367) – bug documentation
+[^ref-37]: [The Cutting Room Floor](https://tcrf.net) – cheat menu dialogue
+[^ref-38]: [GameFAQs Story Text Guide](https://gamefaqs.gamespot.com/pc/564546-betrayal-at-krondor/faqs/28141) – text compilation credits, Michael Dorn quote
+[^ref-39]: [Betrayal Fandom Wiki – Manual](https://betrayal.fandom.com/wiki/Betrayal_at_Krondor_Manual) – manual specifications
+[^ref-40]: [Computer Gaming World RPG of Year](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Awards) – 1993 award announcement
+[^ref-41]: [Entertainment Weekly Best Sellers](https://en.wikipedia.org/wiki/Betrayal_at_Krondor#Sales) – Six-month chart topper
+[[1998 - Return to Krondor]]
 
 ## References
 

@@ -308,7 +308,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 
 - **Series:** [[Laura Bow Series]]
 - **Previous:** [[1989 - The Colonel's Bequest|← The Colonel's Bequest]] (1989)
-- **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[2014 - Gabriel Knight - Sins of the Fathers – 20th Anniversary Edition|Gabriel Knight]] (contemporary detective adventure)
+- **Related Games:** [[1980 - Hi-Res Adventure 1 - Mystery House|Mystery House]] (Roberta's first mystery game), [[Gabriel Knight - Sins of the Fathers - 20th Anniversary Edition|Gabriel Knight]] (contemporary detective adventure)
 - **Creator:** [[Roberta Williams]] (creative consultant), [[Bruce Balfour]] (designer/writer)
 - **Technology:** [[Sierra On-Line]], [[Sierra Creative Interpreter]]
 - **Spiritual Successor:** Laura Bow and the Mechanical Codex (fan-made 2021 sequel)
@@ -322,7 +322,7 @@ The game's challenging difficulty and possibility of unwinnable states reflect a
 [^ref-5]: [Computer Gaming World Issue 99](https://archive.org/stream/Computer_Gaming_World_Issue_99/Computer_Gaming_World_Issue_99_djvu.txt) – Chuck Miller review, Art Deco description, pricing
 [^ref-6]: [GOG.com – The Dagger of Amon Ra](https://www.gog.com/en/game/the_dagger_of_amon_ra) – user ratings, system requirements, voice acting reviews
 [^ref-7]: [PCGamingWiki – The Dagger of Amon Ra](https://www.pcgamingwiki.com/wiki/The_Dagger_of_Amon_Ra) – engine info, platform releases, series listing
-[^ref-36]: [Sierra Chest – Laura Bow 2](https://www.sierrachest.com/index.php?a=games&id=34&title=laura-bow-2) – plot summary, compilation appearances, hieroglyphics easter egg
+[^ref-9]: [Sierra Chest – Laura Bow 2](https://www.sierrachest.com/index.php?a=games&id=34&title=laura-bow-2) – plot summary, compilation appearances, hieroglyphics easter egg
 [^ref-10]: [Cheatbook Walkthrough](https://www.cheatbook.de/wfiles/laurabowdaggerofamonra.htm) – D. Griffiths walkthrough, 1926 setting
 [^ref-11]: [The Walkthrough King](https://www.walkthroughking.com/text/daggerofamonra.aspx) – game description, time mechanics
 [^ref-12]: [The Adventurers' Guild – Final Rating](https://advgamer.blogspot.com/2017/10/the-dagger-of-amon-ra-final-rating.html) – detailed scoring, bugs documentation, dead man walking scenarios

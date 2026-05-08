@@ -60,7 +60,7 @@ The game features three distinct screens that players must complete sequentially
 
 - **Level 2:** Continues the assault on Cannonball Castle with additional hazards and obstacles.
 
-- **Level 3:** Described as "particularly challenging" and by some accounts "nearly impossible," this final screen pushes player skills to their limits.[^ref-2][^ref-3]
+- **Level 3:** Described as "particularly challenging" and by some accounts "nearly impossible," this final screen pushes player skills to their limits.[^ref-3][^ref-2]
 
 ### Puzzles and Mechanics
 
@@ -98,7 +98,7 @@ The game was developed at Sierra's offices, which at the time were located in Oa
 
 ### Production
 
-The game was written entirely in machine language for optimal performance on the Apple II platform.[^ref-4] Development took place during 1981-1982, with some sources indicating a 1981 completion date and others listing the commercial release as 1982.[^ref-1][^ref-12]
+The game was written entirely in machine language for optimal performance on the Apple II platform.[^ref-4] Development took place during 1981-1982, with some sources indicating a 1981 completion date and others listing the commercial release as 1982.[^ref-12][^ref-1]
 
 **Development Credits:**[^ref-5]
 - **Written by:** Olaf Lubeck
@@ -146,7 +146,7 @@ The Apple II version's keyboard controls were cited as a source of gameplay fric
 
 Cannonball Blitz achieved significant notoriety in the Apple II software cracking community for its robust copy protection scheme.[^ref-3] The game contained a hidden message embedded on track 17, sector D of the disk that taunted would-be crackers:
 
-- **Copy Protection Message:** "YOU'LL NEVER BREAK IT (TRY IT ON ANOTHER MACHINE)" – This hidden text challenged the hacking community directly, though the game was eventually cracked.[^ref-3][^ref-15]
+- **Copy Protection Message:** "YOU'LL NEVER BREAK IT (TRY IT ON ANOTHER MACHINE)" – This hidden text challenged the hacking community directly, though the game was eventually cracked.[^ref-15][^ref-3]
 
 The game was among the first to employ such provocative anti-piracy messaging, making it a notable example in the history of software copy protection on home computers.
 

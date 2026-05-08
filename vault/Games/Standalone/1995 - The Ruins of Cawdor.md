@@ -176,7 +176,7 @@ The Ruins of Cawdor was not widely included in compilation releases due to its o
 
 The ImagiNation Revival Project revived The Ruins of Cawdor in 2007, enabling players to once again experience the game's multiplayer functionality. Community-developed offline patches released in 2006 allowed solo players to explore the castle's dungeons without requiring network connectivity.[^ref-6]
 
-Various abandonware websites have preserved the game, including MyAbandonware, Classic Reload, and the Internet Archive, ensuring that this piece of gaming history remains accessible to researchers and retro gaming enthusiasts.[^ref-1][^ref-16][^ref-18]
+Various abandonware websites have preserved the game, including MyAbandonware, Classic Reload, and the Internet Archive, ensuring that this piece of gaming history remains accessible to researchers and retro gaming enthusiasts.[^ref-16][^ref-1][^ref-18]
 
 ### Related Publications
 
@@ -189,11 +189,6 @@ The Ruins of Cawdor occupies a significant position in the evolution of online m
 The trilogy of Sierra Network dungeon games—including The Shadow of Yserbius, The Fates of Twinion, and The Ruins of Cawdor—represented a bridge between text-based MUDs and modern online RPGs.[^ref-2] Their emphasis on cooperative gameplay, persistent characters, and social interaction anticipated features that would become standard in World of Warcraft and its successors.
 
 The game's Macbeth-inspired setting distinguished it from typical fantasy fare, demonstrating that online games could draw from literary sources for thematic depth.[^ref-3] This creative ambition, combined with its technical innovations in multiplayer connectivity, ensures The Ruins of Cawdor's place in gaming history as a pioneering experiment in social gaming.
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/the-ruins-of-cawdor-1995) – Available for purchase
 
 ## Downloads
 

@@ -134,8 +134,8 @@ The game saw several packaging variations during its initial run on the Apple II
 
 ### Easter Eggs and Trivia
 
-- The game is set in Coarsegold, the same California town where On-Line Systems was headquartered, providing a local flavor to the adventure[^ref-2][^ref-4].
-- Cranston Manor is officially numbered as Hi-Res Adventure #3, though it was actually the fourth game released in the series[^ref-2][^ref-3].
+- The game is set in Coarsegold, the same California town where On-Line Systems was headquartered, providing a local flavor to the adventure[^ref-4][^ref-2].
+- Cranston Manor is officially numbered as Hi-Res Adventure #3, though it was actually the fourth game released in the series[^ref-3][^ref-2].
 - This was the first Hi-Res Adventure developed without Roberta Williams' direct involvement, marking a transition point for the series[^ref-2].
 - The Japanese versions were published by StarCraft, Inc. for multiple Japanese computer platforms[^ref-3].
 
@@ -143,7 +143,7 @@ The game saw several packaging variations during its initial run on the Apple II
 
 ### Sales and Commercial Impact
 
-Cranston Manor contributed to the growing reputation of On-Line Systems as a premier developer of adventure games for home computers. The Hi-Res Adventures series helped establish the company's position in the market before the revolutionary King's Quest launched in 1984[^ref-1][^ref-4]. The game's release across multiple platforms, including Japanese ports for the FM-7, PC-88, and PC-98, demonstrated the international appeal of Sierra's adventure game formula[^ref-3].
+Cranston Manor contributed to the growing reputation of On-Line Systems as a premier developer of adventure games for home computers. The Hi-Res Adventures series helped establish the company's position in the market before the revolutionary King's Quest launched in 1984[^ref-4][^ref-1]. The game's release across multiple platforms, including Japanese ports for the FM-7, PC-88, and PC-98, demonstrated the international appeal of Sierra's adventure game formula[^ref-3].
 
 ### Collections
 
@@ -165,8 +165,7 @@ The game's straightforward treasure-hunting premise and two-word parser system r
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 

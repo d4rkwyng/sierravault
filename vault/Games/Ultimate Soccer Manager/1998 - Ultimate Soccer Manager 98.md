@@ -10,13 +10,13 @@ series: Ultimate Soccer Manager
 engine: Custom Football Management Engine
 protagonist: Football Club Manager
 sierra_lineage: Sierra Published
-last_updated: '2026-04-15'
+last_updated: '2026-4-15'
 description: Ultimate Soccer Manager stands as one of the most innovative football
   management simulation series of the 1990s, offering players the complete fantasy
   of...
 tags: [1990s, sierra, ultimate-soccer-manager]
 ---
-# Ultimate Soccer Manager 98
+# Ultimate Soccer Manager 98 98
 
 <small style="color: gray">Last updated: April 15, 2026</small>
 
@@ -33,9 +33,11 @@ The series evolved significantly over its five-year run from 1995 to 1999, expan
 > **Designer:** [[David Lester]], Neal Sumsion[^ref-1]
 > **Publisher:** Impressions Games, [[Sierra On-Line]][^ref-7]
 > **Engine:** Custom Football Management Engine[^ref-1]
+> **Engine:** Custom Football Management Engine[^ref-1]
 > **Platforms:** DOS, Amiga, Windows 95/98[^ref-8]
 > **Release Year:** 1998[^ref-1]
 > **Series:** Ultimate Soccer Manager
+> **Protagonist:** Football Club Manager
 > **Protagonist:** Football Club Manager
 > **Sierra Lineage:** Sierra Published
 
@@ -135,11 +137,6 @@ Despite plans for Ultimate Soccer Manager 2000 with an advanced 3D match engine,
 
 The series maintains an active community of enthusiasts who continue to create tools, patches, and updates for modern systems[^ref-47]. Projects like the USM 9899 Tweaker demonstrate ongoing interest in preserving and extending the games' functionality[^ref-32]. The games' availability on preservation sites like MyAbandonware and Internet Archive ensures continued access for new players and nostalgic fans[^ref-48].
 
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/ultimate-soccer-manager-2-1996) – Available for purchase
 
 ## Downloads
 

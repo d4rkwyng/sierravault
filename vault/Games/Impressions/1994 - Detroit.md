@@ -25,7 +25,7 @@ tags: [1990s, sierra, simulation, standalone]
 
 Detroit is a turn-based business simulation game that places players in charge of a fledgling automobile company starting in 1908, the year the Ford Model T was introduced.[^ref-1] Developed by [[Impressions Games]] and published by [[Sierra On-Line]], the game challenges players to build and manage every aspect of an automotive empire over a span of 100 years, from the dawn of the automobile age through 2008.[^ref-2] The title takes its name from the city of Detroit, Michigan, nicknamed "Motor City" due to the concentration of American automobile manufacturers there during the 20th century.[^ref-3]
 
-As president of the company, players are responsible for financing, research and development, design, testing, production, and marketing of automobile product lines.[^ref-4] The game has been described as "a logical follow-up" to Impressions' excellent airline industry simulation Air Bucks, emphasizing "fun and playability over historical realisms, although there is enough historical accuracy in the game to satisfy the most demanding of gamers."[^ref-5] Despite receiving mixed reviews upon release, Detroit has gained a devoted following among fans of business simulation games, with players on GOG.com describing it as "one of the greatest" car producer simulations ever made.[^ref-6][^ref-16]
+As president of the company, players are responsible for financing, research and development, design, testing, production, and marketing of automobile product lines.[^ref-4] The game has been described as "a logical follow-up" to Impressions' excellent airline industry simulation Air Bucks, emphasizing "fun and playability over historical realisms, although there is enough historical accuracy in the game to satisfy the most demanding of gamers."[^ref-5] Despite receiving mixed reviews upon release, Detroit has gained a devoted following among fans of business simulation games, with players on GOG.com describing it as "one of the greatest" car producer simulations ever made.[^ref-6][^ref-16][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -222,10 +222,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 
 ## See Also
 
-- [[1993 - WW2 Air Force Commander|← Previous: WW2 Air Force Commander]]
-- [[1994 - Front Lines|→ Next: Front Lines]]
-
-- [[1991 - Cohort Fighting for Rome]]
+[[1991 - Cohort Fighting for Rome]]
 - [[1991 - Fort Apache]]
 - [[1991 - Merchant Colony]]
 - [[1992 - Air Bucks]]
@@ -253,7 +250,7 @@ Detroit remains notable as one of the few games to tackle the automobile industr
 [^ref-9]: [Game Bytes Issue 20 – Detroit Review](http://www.ibiblio.org/GameBytes/issue20/greviews/detroit.html) – Philip Chiu review, technical requirements, patch information
 [^ref-10]: [Emuparadise – Detroit](https://www.emuparadise.me/Abandonware_Games/Detroit_(1993)(Sierra_Online)/93082) – user rating, file information
 [^ref-11]: [Classic DOS Games – Detroit](https://www.classicdosgames.com/game/Detroit.html) – shareware demo information, genre assessment
-[^ref-12]: [Wikipedia – Detroit (video game)](https://en.wikipedia.org/wiki/Detroit_(video_game))) – comprehensive game information, Computer Gaming World review citation, gameplay mechanics, developer credits (Dale Campbell programmer)
+[^ref-12]: [Wikipedia – Detroit (video game)](https://en.wikipedia.org/wiki/Detroit_(video_game)) – comprehensive game information, Computer Gaming World review citation, gameplay mechanics, developer credits (Dale Campbell programmer)
 [^ref-13]: [Computer Gaming World Museum – August 1994 (Issue 121)](https://www.cgwmuseum.org/galleries/index.php?year=1994&pub=2&id=121) – original review by Alan Emrich and Petra Schlunk, 2/5 star rating
 [^ref-14]: [Wikipedia – Impressions Games](https://en.wikipedia.org/wiki/Impressions_Games) – company history, David Lester founder, Sierra acquisition 1995, game catalog
 [^ref-15]: [GamesNostalgia – David Lester Profile](https://gamesnostalgia.com/story/156/legendary-game-designers-david-lester) – designer biography, Impressions Games founding, game design philosophy

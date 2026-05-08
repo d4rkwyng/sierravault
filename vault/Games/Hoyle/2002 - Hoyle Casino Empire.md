@@ -330,3 +330,73 @@ The franchise's eventual move from Sierra to Encore, Inc. marked the end of an e
 [^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
 [^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
 [^ref-16]: [Sierra Chest – Hoyle Series Group](https://sierrachest.com/index.php?a=groups&id=42) – Sierra Chest franchise overview placing Hoyle Casino 2002 within the broader Hoyle series catalog
+[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Blackjack]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Casino]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Casino]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2005 - Hoyle Texas Hold Em]]
+- [[2006 - Hoyle Casino]]
+- [[2006 - Hoyle Miami Solitaire]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2008 - Hoyle Casino]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
+## References
+
+[^ref-1]: [MobyGames – Hoyle Casino (2001)](https://www.mobygames.com/game/72735/hoyle-casino/) – designer credits, publisher information
+[^ref-3]: [Macworld – Hoyle 2002](https://www.macworld.com/article/163096/hoyle.html) – game features, pricing, platform information
+[^ref-4]: [MobyGames – Hoyle Casino (2002)](https://www.mobygames.com/game/245729/hoyle-casino/) – release dates, developer information, online multiplayer feature
+[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, sales data, publisher transitions
+[^ref-6]: [GameGenie.com – Hoyle Casino Review](https://gamegenie.com/reviews/pc/hoylecasino.html) – system requirements, feature details, review quotes
+[^ref-7]: [Amazon.ca – Hoyle Casino 2002](https://www.amazon.ca/Hoyle-Casino-2002-PC-Mac/dp/B00005MJ9H) – customer reviews, ratings, product issues
+[^ref-8]: [Metacritic – Hoyle Casino 2002](https://www.metacritic.com/game/hoyle-casino-2002/) – release date, publisher
+[^ref-9]: [PriceCharting – Hoyle Casino](https://www.pricecharting.com/game/pc-games/hoyle-casino) – ESRB rating, game features
+[^ref-10]: [IMDB – Hoyle Casino 2002](https://www.imdb.com/title/tt1017443/) – voice cast credits
+[^ref-11]: [GameFAQs – Hoyle Casino Review (FlameDrake)](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/651) – gameplay assessment, dialogue criticism, Sultan easter egg
+[^ref-12]: [GameFAQs – Hoyle Casino Review (Swiftshark)](https://gamefaqs.gamespot.com/mac/996784-hoyle-casino/reviews/76896) – rating, Sultan machine description, educational value
+[^ref-13]: [My Abandonware – Hoyle Casino Empire](https://www.myabandonware.com/game/hoyle-casino-empire-dk2) – user ratings, technical information, debug modes, user comments
+[^ref-14]: [Sierra Help Pages – Hoyle Series Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/HoyleSeriesUpdates.html) – patch information, bug fixes
+[^ref-15]: [GameFAQs – Hoyle Casino 2002](https://gamefaqs.gamespot.com/pc/565477-hoyle-casino-2002) – release date, platform information
+[^ref-5]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, product lineup, development timeline of the Hoyle Casino franchise

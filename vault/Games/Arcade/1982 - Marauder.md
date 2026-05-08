@@ -220,7 +220,6 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 - Not available digitally; original Tigervision cartridges sell for $55-400 on collector's market[^ref-9]
 
 **Download / Preservation**
@@ -267,4 +266,4 @@ The comparison to *Berzerk*, *Venture*, and *Room of Doom* provides useful conte
 [^ref-13]: [RetroGames.cz – Marauder](https://www.retrogames.cz/play_1388-Atari2600.php) – file sizes, emulator access, MobyGames description
 [^ref-14]: [Atari Compendium – Marauder Manual](https://www.ataricompendium.com/archives/manuals/vcs/marauder.pdf) – original documentation archive
 [^ref-15]: [Games Database – Marauder Atari 2600](https://www.gamesdatabase.org/game/atari-2600/marauder) – Atari game database entry and technical specifications
-[^ref-16]: [Apple II History – 1982 Software Releases](https://www.apple2history.org/appendix/aha/aha82/) – Apple II software release index documenting Marauder in On-Line Systems' 1982 catalog
+[^ref-8]: [Orphaned Computers – Marauder Review](https://orphanedgames.com/articles/Marauder_Review/Marauder_Review%20(Atari%202600).html) – detailed gameplay analysis and collector information

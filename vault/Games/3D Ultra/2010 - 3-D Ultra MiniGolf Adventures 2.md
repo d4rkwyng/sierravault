@@ -155,7 +155,7 @@ The game is documented in gaming databases.[^ref-17][^ref-18][^ref-19][^ref-20][
 [^ref-2]: [Internet Archive - 3D Ultra Minigolf Adventures](https://archive.org/details/3DUltraMinigolfAdventures) - Downloadable Windows executable, file size and upload information
 [^ref-3]: [Collection Chamber - 3D Ultra Mini Golf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) - Game analysis, compatibility information, and series history
 [^ref-4]: [Wikipedia - 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) - Release dates, review scores, sales data
-[^ref-5]: [Wikipedia - 3D Ultra Minigolf Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series))) - Complete series overview, development history, platform releases
+[^ref-5]: [Wikipedia - 3D Ultra Minigolf Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) - Complete series overview, development history, platform releases
 [^ref-6]: [Eurogamer - 3D Ultra Minigolf Adventures Review](https://www.eurogamer.net/3d-ultra-minigolf-adventures-review) - Professional review with score and detailed analysis
 [^ref-7]: [GameFAQs - 3D Ultra Minigolf Adventures User Review](https://gamefaqs.gamespot.com/pc/939807-3d-ultra-minigolf-adventures/reviews/118653) - User review with technical criticism and gameplay praise
 [^ref-8]: [GameFirst - 3D Mini Golf Review](http://gamesfirst.com/reviews/craig/3DMini/3dmini.htm) - Archival review with course descriptions and hidden features

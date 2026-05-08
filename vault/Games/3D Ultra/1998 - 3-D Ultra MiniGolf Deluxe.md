@@ -89,7 +89,7 @@ The game ran on Windows 95 and later systems[^ref-4], with file sizes of "611 Mb
 ### Version History
 
 | Version | Year | Notes |
-|---------|------|-------|[^ref-10]
+|---------|------|-------|[^ref-18]
 | 1.0 | 1998 | Initial release (611 MB download)[^ref-3] |
 | 1.01 | 1998 | Added online multiplayer support[^ref-6] |
 | 2.0 | 1998 | Optimized version (571 MB download)[^ref-3] |
@@ -143,7 +143,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-3]: [Collection Chamber Blog - 3D Ultra Mini Golf](https://collectionchamber.blogspot.com/p/3d-ultra-mini-golf.html) – - Retro gaming review and technical details
 [^ref-4]: [CNET Download - 3D Ultra Mini Golf Deluxe](https://download.cnet.com/3d-ultra-mini-golf-deluxe/3000-2117_4-10019371.html) – - Download page with user ratings and reviews
 [^ref-5]: [Wikipedia - 3D Ultra Minigolf Adventures](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_Adventures) – - Comprehensive game information and review scores
-[^ref-6]: [Wikipedia - 3D Ultra Minigolf Game Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series)) – ) - Series overview and development history
+[^ref-6]: [Wikipedia - 3D Ultra Minigolf Game Series](https://en.wikipedia.org/wiki/3D_Ultra_Minigolf_(game_series) – ) - Series overview and development history
 [^ref-7]: [LaunchBox Games Database - 3-D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/424355-3-d-ultra-minigolf-deluxe) – - Release details and game specifications
 [^ref-8]: [LaunchBox Games Database - 3D Ultra Minigolf Deluxe](https://gamesdb.launchbox-app.com/games/details/76259-3d-ultra-minigolf-deluxe) – - Development history context
 [^ref-9]: [Gamicus Wiki - 3D Ultra Minigolf Adventures](https://gamicus.fandom.com/wiki/3D_Ultra_Minigolf_Adventures) – - Development history and controversy information
@@ -155,6 +155,7 @@ The game maintains a cult following among retro gaming enthusiasts, with preserv
 [^ref-15]: [Metacritic - 3D Ultra Minigolf Adventures](https://www.metacritic.com/game/3d-ultra-minigolf-adventures/) – - Professional reviews and ratings aggregation
 [^ref-16]: [MMO Central Forums - User Review](https://www.mmocentralforums.com/forums/showthread.php?t=245391&page=3) – - Detailed user review with scoring breakdown
 [^ref-17]: [MobyGames - Game Entry](https://www.mobygames.com/game/38197/) – - Comprehensive game metadata
+[^ref-18]: [MobyGames - 3-D Ultra Minigolf Deluxe](https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/) – - Credits and technical specifications
 [^ref-19]: [MyAbandonware - 3-D Ultra Minigolf Deluxe](https://www.myabandonware.com/game/3-d-ultra-minigolf-deluxe-duw) – - Download site with user compatibility reports
 [^ref-20]: [MyAbandonware - 3-D Ultra Minigolf](https://www.myabandonware.com/game/3-d-ultra-minigolf-db6) – - User reviews and compatibility information
 [^ref-21]: [Old Games Download - 3-D Ultra Minigolf Deluxe](https://oldgamesdownload.com/3-d-ultra-minigolf-deluxe/) – - Basic game metadata and download information

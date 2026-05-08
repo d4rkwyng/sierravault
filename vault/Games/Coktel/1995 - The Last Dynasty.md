@@ -199,8 +199,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
 
 ## Downloads
 
@@ -210,7 +209,7 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 
 **Technical Resources**
 - [PCGamingWiki](https://www.pcgamingwiki.com/wiki/The_Last_Dynasty)[^ref-7]
-- [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype)))[^ref-18]
+- [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))[^ref-18]
 
 ## See Also
 
@@ -247,6 +246,6 @@ The game's comparison to both Wing Commander and Myst reveals its fundamental id
 [^ref-14]: [GameFAQs – The Last Dynasty](https://gamefaqs.gamespot.com/pc/918466-the-last-dynasty) – user ratings, difficulty, length, similar games
 [^ref-15]: [Sierra Gamers Forum](https://www.sierragamers.com/forums/topic/where-does-quot-sierra-quot-end/) – Coktel Vision acquisition, game catalog
 [^ref-16]: [IMDB – The Last Dynasty](https://www.imdb.com/title/tt5554828/) – French voice cast, designers, production country
-[^ref-18]: [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype))) – prototype details, dump release info
+[^ref-18]: [Hidden Palace – Saturn Prototype](https://hiddenpalace.org/The_Last_Dynasty_(Nov_12,_1996_prototype)) – prototype details, dump release info
 [^ref-19]: [The Cutting Room Floor – The Last Dynasty](https://tcrf.net/The_Last_Dynasty) – cheat codes, debug functions, hidden content
 [^ref-20]: [Wikidata – The Last Dynasty](https://www.wikidata.org/wiki/Q18201842) – metadata, engine confirmation

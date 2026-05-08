@@ -119,11 +119,6 @@ Aces Over Europe offered exceptional mission diversity spanning tactical fighter
 
 The comprehensive aircraft roster, detailed mission types, and sophisticated flight physics established Aces Over Europe as a landmark title in early 1990s flight simulation[^ref-2]. Player feedback praised the balance between accessibility and authenticity, creating an experience suitable for both casual gamers and dedicated simulation enthusiasts[^ref-1]. The game's technical achievements in SVGA graphics representation and aircraft modeling set new industry standards for flight simulators released in subsequent years[^ref-9].
 
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/aces-of-the-pacific) – Available for purchase
-
 ## Downloads
 
 **Download / Preservation**

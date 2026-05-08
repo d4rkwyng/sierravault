@@ -304,3 +304,81 @@ The similar games listed by gaming databases—including Hoyle Casino 2007, Hoyl
 [^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...
 [^ref-14]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/) – game information and details
 [^ref-15]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45137/hoyle-casino/) – comprehensive game metadata from MobyGames, providing detailed development credits, technical specifications, and gam...
+[[1989 - Hoyle Official Book of Games - Volume 1]]
+- [[1990 - Hoyle Official Book of Games - Volume 2]]
+- [[1991 - Hoyle Official Book of Games - Volume 3]]
+- [[1991 - Hoyle Official Book of Games - Volume 4]]
+- [[1992 - Hoyle Bridge]]
+- [[1993 - Hoyle Classic Card Games]]
+- [[1993 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Blackjack]]
+- [[1996 - Hoyle Bridge]]
+- [[1996 - Hoyle Casino]]
+- [[1996 - Hoyle Official Book of Games - Volume 5]]
+- [[1996 - Hoyle Solitaire]]
+- [[1997 - Hoyle Classic Board Games]]
+- [[1997 - Hoyle Classic Card Games]]
+- [[1997 - Hoyle Poker]]
+- [[1998 - Hoyle Battling Ships and War]]
+- [[1998 - Hoyle Classic Board Games]]
+- [[1999 - Hoyle Backgammon and Cribbage]]
+- [[1999 - Hoyle Casino]]
+- [[1999 - Hoyle Word Games]]
+- [[2000 - Hoyle Casino]]
+- [[2000 - Hoyle Crosswords]]
+- [[2000 - Hoyle Kids Games]]
+- [[2000 - Hoyle Slots and Video Poker]]
+- [[2000 - Hoyle Solitaire and Mahjong Tiles]]
+- [[2001 - Hoyle Board Games]]
+- [[2001 - Hoyle Casino]]
+- [[2001 - Hoyle Kids Games]]
+- [[2001 - Hoyle Word Games]]
+- [[2002 - Hoyle Card Games]]
+- [[2002 - Hoyle Casino Empire]]
+- [[2002 - Hoyle Puzzle Games]]
+- [[2003 - Hoyle Board Games]]
+- [[2003 - Hoyle Card Games]]
+- [[2003 - Hoyle Casino]]
+- [[2003 - Hoyle Majestic Chess]]
+- [[2004 - Hoyle Casino]]
+- [[2004 - Hoyle Puzzle Games]]
+- [[2004 - Hoyle Table Games]]
+- [[2005 - Hoyle Board Games]]
+- [[2005 - Hoyle Card Games]]
+- [[2005 - Hoyle Casino 3D]]
+- [[2005 - Hoyle Poker Series]]
+- [[2005 - Hoyle Puzzle and Board Games]]
+- [[2007 - Hoyle Card Games 2008]]
+- [[2007 - Hoyle Casino]]
+- [[2008 - Hoyle Casino]]
+- [[2008 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Puzzle and Board Games]]
+- [[2011 - Hoyle Swashbucklin Slots]]
+- [[2015 - Hoyle Official Card Games Collection]]
+- [[2016 - Hoyle Casino Games Collection]]
+
+## References
+
+[^ref-1]: [GameFAQs – Hoyle Casino 2006](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006) – release date, developer, publisher, game content description, user rating
+
+[^ref-2]: [GameFAQs – Hoyle Casino 2006 Box Art](https://gamefaqs.gamespot.com/pc/929423-hoyle-casino-2006/boxes/69174) – US release date, developer, publisher confirmation
+
+[^ref-3]: [Metacritic – Hoyle Casino 2006](https://www.metacritic.com/game/hoyle-casino-2006/) – release date, developer, publisher, game content list, ESRB rating
+
+[^ref-4]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle_Casino) – series history, version timeline, sales data, developer/publisher history, technical issues, trivia
+
+[^ref-5]: [Metacritic – Hoyle Casino 2006 Details](https://www.metacritic.com/game/hoyle-casino-2006/details/) – game variants count, casino game categories list
+
+[^ref-6]: [ESRB – Hoyle Casino 2006](https://www.esrb.org/ratings/20170/hoyle-casino-2006/) – official rating, content descriptors, publisher, platform
+
+[^ref-7]: [GameSpot – Hoyle Casino 2006 User Reviews](https://www.gamespot.com/hoyle-casino-2006/user-reviews/2200-2629/) – user review score, educational value assessment, pricing information
+
+[^ref-8]: [IGN – Hoyle Casino 2006](https://www.ign.com/games/hoyle-casino-2006/user-reviews) – alternate release date, publisher, rating status
+
+[^ref-9]: [IGDB – Hoyle Casino 2006 Similar Games](https://www.igdb.com/games/hoyle-casino-2006/similar) – related games in Hoyle series, similar casino games
+[^ref-10]: [MobyGames – Hoyle Casino 2006](https://www.mobygames.com/game/22695/hoyle-casino-2006/) – game database entry with technical details
+[^ref-11]: [Giant Bomb – Hoyle Casino 2006](https://www.giantbomb.com/hoyle-casino-2006/3030-39604/) – game wiki and community content
+[^ref-12]: [Encore Software – Official Site](https://www.encoreusa.com/) – publisher information and game catalog
+[^ref-13]: [Wikipedia – Hoyle Casino](https://en.wikipedia.org/wiki/Hoyle's_Official_Book_of_Games) – comprehensive historical overview of the Hoyle's Official Book of Games video game series, providing detailed develop...
+[^ref-14]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/2686/) – game information and details
+[^ref-15]: [MobyGames – Hoyle Casino](https://www.mobygames.com/game/45137/hoyle-casino/) – comprehensive game metadata from MobyGames, providing detailed development credits, technical specifications, and gam...

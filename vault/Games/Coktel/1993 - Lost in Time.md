@@ -216,7 +216,7 @@ Lost in Time is supported by ScummVM since version 0.12.0, allowing the game to 
 ### Related Publications
 
 - **Game Manual:** Included with original release, contains character background and gameplay instructions[^ref-15]
-- **Walkthrough Guides:** Multiple fan-created walkthroughs exist, including comprehensive guides on GameFAQs, GameBoomers, and The Spoiler[^ref-12][^ref-16][^ref-25]
+- **Walkthrough Guides:** Multiple fan-created walkthroughs exist, including comprehensive guides on GameFAQs, GameBoomers, and The Spoiler[^ref-16][^ref-12][^ref-25]
 
 ### Critical Perspective
 

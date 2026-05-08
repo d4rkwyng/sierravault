@@ -212,6 +212,18 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 - [[1993 - Lost in Time]]
 - [[1995 - The Last Dynasty]]
 - [[1996 - Urban Runner]]
+- [[1989 - Emmanuelle]]
+- [[1989 - Legend of Djel]]
+- [[1990 - Cougar Force]]
+- [[1990 - Geisha]]
+- [[1991 - A.G.E.]]
+- [[1991 - E.S.S. Mega]]
+- [[1991 - Fascination]]
+- [[1992 - Bargon Attack]]
+- [[1992 - Ween - The Prophecy]]
+- [[1993 - Lost in Time]]
+- [[1995 - The Last Dynasty]]
+- [[1996 - Urban Runner]]
 
 ## References
 
@@ -231,3 +243,4 @@ The game's mixed reception highlights a recurring challenge in licensed game dev
 [^ref-15]: [Lemon Amiga – Downloads](https://www.lemonamiga.com/games/download.php?id=114) — Disk format: 1 × 3.5" DD (720KB)
 [^ref-16]: [MyAbandonware – Browser Play](https://www.myabandonware.com/game/asterix-operation-getafix-ld/play-ld) — Browser emulation warning
 [^ref-17]: [MobyGames – Publishers](https://www.mobygames.com/game/12987/asterix-operation-getafix/releases/) — Pactronics and Tenstar distribution 
+

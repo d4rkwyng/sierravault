@@ -314,8 +314,7 @@ As GameFabrique's reggie noted, "Best advice is to pretend Al Emmo is a lost gem
 
 - [[1993 - Blue Force]]
 - [[2008 - Ace of Aces]]
-- [[2010 - Gray Matter]]
-- [[2012 - Cognition - An Erica Reed Thriller]]
+ [[2012 - Cognition - An Erica Reed Thriller]]
 - [[2013 - Fester Mudd - Curse of the Gold]]
 - [[2014 - Moebius - Empire Rising]]
 - [[2014 - Quest for Infamy]]

@@ -229,3 +229,37 @@ The game's influence can be traced through the entire 4X genre—from later titl
 [^ref-14]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/21299/star-wars-empire-at-war/) – comprehensive game database entry with detailed technical specifications, credits, and multiple user reviews providin...
 [^ref-15]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) – comprehensive game database entry providing detailed historical and technical information about the game
 [^ref-16]: [SF Encyclopedia – Galactic Saga](https://sf-encyclopedia.com/entry/galactic_saga) – Series overview and historical context for Galactic Empire as the first installment in Doug Carlston's Galactic Saga
+[[1991 - The Charge of the Light Brigade]]
+- [[1991 - V for Victory - D-Day Utah Beach]]
+- [[1993 - Global Domination]]
+- [[1994 - Alien Legacy]]
+- [[1995 - High Seas Trader]]
+- [[1996 - Birthright - The Gorgon's Alliance]]
+- [[1996 - Space Bucks]]
+- [[1996 - The Rise & Rule of Ancient Empires]]
+
+## References
+
+[^ref-1]: [MobyGames – Galactic Empire (1979)](https://www.mobygames.com/game/53448/galactic-empire/) – release dates, platforms, developer credits, technical specifications, ratings
+
+[^ref-2]: [Wikipedia – Galactic Empire (1980 video game)](https://en.wikipedia.org/wiki/Galactic_Empire_(1980_video_game)) – contemporary reviews, founding of Brøderbund, African place names, design history
+
+[^ref-3]: [The Digital Antiquarian](https://www.filfre.net/?s=Galactic+Empire) – 4X genre recognition, Doug Carlston biography, sales figures, technical details
+
+[^ref-4]: [Internet Archive – Galactic Empire Atari 8-bit](https://archive.org/details/a8b_Galactic_Empire_1981_Adventure_International_US) – gameplay mechanics, technical specifications, genre classification
+
+[^ref-5]: [Data Driven Gamer – Game 165: Galactic Empire](https://datadrivengamer.blogspot.com/2020/03/game-165-galactic-empire-and-road-to.html) – version history, bugs, manual quotes, technical analysis, memory constraints
+
+[^ref-6]: [ZeitGame – Galactic Empire](https://zeitgame.net/archives/1139) – gameplay narrative, Emperor Tawala, modern review score, development history
+
+[^ref-7]: [The Centurion's Review](https://centurionsreview.com/struggle-for-the-galactic-empire/) – gameplay description, strategic elements
+
+[^ref-8]: [Internet Archive – Broderbund Manual](https://archive.org/details/Galactic_Empire_1979_Broderbund) – manual contents, game components
+
+[^ref-9]: [MobyGames – Galactic Empire Releases](https://www.mobygames.com/game/53448/galactic-empire/releases/) – complete release history, multiple publishers, version information
+
+[^ref-10]: [JoeStrout – Galactic Empire Recreation](https://joestrout.itch.io/galactic-empire) – fan project, HTML5 version, ratings, Cary Torkelson credit
+[^ref-12]: [Wikipedia – Galactic Empire](https://en.wikipedia.org/wiki/Galactic_Empire_(1990_video_game)) – provides basic metadata about a space flight simulator video game from 1990
+[^ref-13]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/) – game information and details
+[^ref-14]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/21299/star-wars-empire-at-war/) – comprehensive game database entry with detailed technical specifications, credits, and multiple user reviews providin...
+[^ref-15]: [MobyGames – Galactic Empire](https://www.mobygames.com/game/6710/galactic-empire/) – comprehensive game database entry providing detailed historical and technical information about the game

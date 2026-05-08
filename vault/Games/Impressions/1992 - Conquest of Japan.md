@@ -221,6 +221,21 @@ The game represents Impressions Games' continued experimentation with historical
 - [[1996 - Casino Deluxe 2]]
 - [[2002 - Emperor - Rise of the Middle Kingdom]]
 
+- [[1991 - Cohort Fighting for Rome]]
+- [[1991 - Fort Apache]]
+- [[1991 - Merchant Colony]]
+- [[1992 - Air Bucks]]
+- [[1993 - Cohort II - Fighting for Rome]]
+- [[1993 - WW2 Air Force Commander]]
+- [[1994 - Detroit]]
+- [[1994 - Front Lines]]
+- [[1995 - Breach 3]]
+- [[1995 - Casino De Luxe]]
+- [[1995 - Conqueror - A.D. 1086]]
+- [[1995 - Powerhouse]]
+- [[1996 - Casino Deluxe 2]]
+- [[2002 - Emperor - Rise of the Middle Kingdom]]
+
 ## References
 
 [^ref-1]: [MobyGames – Conquest of Japan](https://www.mobygames.com/game/11701/conquest-of-japan/) – release dates, platforms, developer, publisher, critics score, technical specs
@@ -237,8 +252,10 @@ The game represents Impressions Games' continued experimentation with historical
 [^ref-16]: [Retro Replay – Conquest of Japan](https://retro-replay.com/db/dos/conquest-of-japan/) – score, city capture mechanic, review quotes
 [^ref-18]: [Classic Games – Conquest of Japan](https://www.classicgames.me/conquest-of-japan.html) – ninja attacks, alliance mechanics
 [^ref-19]: [MyAbandonware – Conquest of Japan](https://www.myabandonware.com/game/conquest-of-japan-1db) – user rating, file sizes, alternate title
+
 [^ref-20]: [Lemon Amiga – Conquest of Japan](https://www.lemonamiga.com/games/details.php?id=1887) – Edcom developer, Amiga specs
 [^ref-21]: [Online Classic Games – Conquest of Japan](https://onlineclassicgames.com/game/conquest-of-japan/) – graphics praise quote
 [^ref-22]: [MyAbandonware – Play Online](https://www.myabandonware.com/game/conquest-of-japan-1db/play-1db) – DOSBox compatibility
 
 [^ref-23]: [MobyGames Search Results](https://www.mobygames.com/search/?q=Conquest+of+Japan) – alternate title confirmation
+

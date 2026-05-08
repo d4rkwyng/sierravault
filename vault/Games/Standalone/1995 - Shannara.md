@@ -26,7 +26,7 @@ Shannara is a first-person point-and-click adventure game released in December 1
 
 The game places players in the role of Jak Ohmsford, the son of Shea Ohmsford (the protagonist of *The Sword of Shannara*), who must unite the various races of the Four Lands to combat the resurrected evil of the Warlock Lord Brona [^ref-4]. Legend Entertainment, a studio celebrated for marrying illustrated graphics with the depth of traditional interactive fiction, brought their expertise in text-heavy adventure games to the Shannara universe [^ref-5]. The lush, colorful SVGA graphics represented a significant leap beyond any of Legend's previous games, though the adventure maintained the studio's signature emphasis on prose and dialogue over animation [^ref-2].
 
-Interestingly, author Terry Brooks himself had virtually no involvement with the game's development. In a later interview, when asked about the game and whether he interacted with the Cole designers, Brooks admitted: "I don't... you know, I don't know anything about it. [laughs]... No, I don't remember a thing" [^ref-6]. This disconnect between the source material's creator and the game developers reflects the sometimes distant relationship between licensed properties and their adaptations during this era.[^ref-35]
+Interestingly, author Terry Brooks himself had virtually no involvement with the game's development. In a later interview, when asked about the game and whether he interacted with the Cole designers, Brooks admitted: "I don't... you know, I don't know anything about it. [laughs]... No, I don't remember a thing" [^ref-6]. This disconnect between the source material's creator and the game developers reflects the sometimes distant relationship between licensed properties and their adaptations during this era.[^ref-35][^ref-35]
 
 > [!info]- Game Info
 > **Developer:** Legend Entertainment, FAR Productions, Triton Interactive[^ref-7]
@@ -235,11 +235,6 @@ Shannara occupies an interesting position in adventure gaming history as a meeti
 The game's design philosophy of accessibility—making puzzles solvable without excessive difficulty and explicitly discouraging combat—represents a conscious choice to broaden the adventure genre's appeal. Claire White's assessment that it serves as "a good introduction to the genre" [^ref-19] reflects this approach, though it came at the cost of challenging experienced adventure gamers.
 
 Legend Entertainment's visual achievement with Shannara showed the studio could compete with larger developers in presentation quality, even if the gameplay remained rooted in their text-adventure heritage. The game stands as one of the final examples of the illustrated adventure style that Legend pioneered before the company shifted focus to other genres in the late 1990s.
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/shannara) – Available for purchase
 
 ## Downloads
 

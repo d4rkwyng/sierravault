@@ -207,7 +207,6 @@ For submarine enthusiasts, Fast Attack remains a notable historical artifact, of
 ## Downloads
 
 **Purchase / Digital Stores**
-- Not currently available on GOG or Steam
 - Currently unavailable on major digital platforms
 
 **Download / Preservation**

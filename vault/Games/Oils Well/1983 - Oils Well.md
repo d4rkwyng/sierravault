@@ -26,7 +26,7 @@ Oil's Well is an arcade-style maze game developed and published by Sierra On-Lin
 
 The game is widely recognized as a clone or spiritual successor to the 1982 arcade game *Anteater*, re-themed around oil drilling rather than an insectivore consuming ants.[^ref-1] This creative re-skinning gave rise to the game's punning title—a twist on the old saying "all's well."[^ref-4] The appeal lies in the visual puzzle presented to players: calculating whether they can reach oil deposits before underground pests intercept them, and determining the optimal route through the maze-like underground tunnels.[^ref-3]
 
-Oil's Well received a significant remake in 1990 for MS-DOS, developed by Banana Development, Inc. and published by Sierra On-Line.[^ref-5] This version featured dramatically improved 256-color VGA graphics, a new stereo soundtrack by [[Ken Allen]], and animated cartoon sequences featuring "Slater the Petrosaur" between levels.[^ref-6] The game's enduring popularity led to various clones and inspired titles such as *Pipeline Run* (1990) and *Oilmania* (1991).[^ref-1][^ref-22][^ref-23][^ref-25]
+Oil's Well received a significant remake in 1990 for MS-DOS, developed by Banana Development, Inc. and published by Sierra On-Line.[^ref-5] This version featured dramatically improved 256-color VGA graphics, a new stereo soundtrack by [[Ken Allen]], and animated cartoon sequences featuring "Slater the Petrosaur" between levels.[^ref-6] The game's enduring popularity led to various clones and inspired titles such as *Pipeline Run* (1990) and *Oilmania* (1991).[^ref-1][^ref-22][^ref-23][^ref-25][^ref-22][^ref-23][^ref-25]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -72,7 +72,7 @@ The core mechanic involves extending the drill bit through the maze to collect o
 
 Land mines appear in some versions as hazards that must be avoided.[^ref-14] The strategic element comes from deciding when to extend the drill and when to retract—extending makes the player vulnerable along the entire length of the arm, while retracting brings the drill head safely back but means losing progress through the maze.[^ref-3] As one reviewer noted, "The appeal of Oil's Well is the visual puzzle: can I get there before they do and what route should I take?"[^ref-3]
 
-The 1990 version supports 1-2 players in a turn-based multiplayer mode, where players alternate turns attempting to achieve the highest score.[^ref-6][^ref-29]
+The 1990 version supports 1-2 players in a turn-based multiplayer mode, where players alternate turns attempting to achieve the highest score.[^ref-6][^ref-29][^ref-29]
 
 ## Reception
 
@@ -206,30 +206,7 @@ A modern remake was created by Firestorm Productions, updating the game with con
 
 Oil's Well occupies an interesting position in Sierra On-Line's history as one of their more successful arcade-style games during a period when the company was primarily known for adventure titles. While it was openly derivative of the arcade game *Anteater*, the oil drilling re-theme gave it a distinct identity that resonated with players during the energy-conscious early 1980s.
 
-The game's mechanics—extending a vulnerable "arm" through a maze while timing retractions to avoid enemies—created a unique tension not found in standard Pac-Man clones. As critics noted, the strategic element of route planning combined with reflexive timing requirements gave the game depth beyond simple dot-collection.[^ref-3] The 1990 remake demonstrated Sierra's willingness to revisit earlier successes with enhanced technology, though the updated version received more mixed reception than the nostalgically-remembered original.[^ref-26][^ref-30]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – MS-DOS Version (1990)](https://archive.org/details/msdos_Oils_Well_1990)
-- [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line)
-- [Internet Archive – Atari 8-bit Version](https://archive.org/details/a8b_Oils_Well_1983_Sierra_On_Line_US_k_file)
-- [MyAbandonware](https://www.myabandonware.com/game/oil-s-well-2jg)
-- [ClassicReload – Browser Playable](https://classicreload.com/oils-well.html)
-
-**Soundtracks**
-- [Oil's Well MT-32 Soundtrack – Bandcamp](https://xeenmusic.bandcamp.com/album/oils-well-soundtrack-mt-32)
-
-## See Also
-
-- [[1990 - Oils Well]]
-
-## References
+The game's mechanics—extending a vulnerable "arm" through a maze while timing retractions to avoid enemies—created a unique tension not found in standard Pac-Man clones. As critics noted, the strategic element of route planning combined with reflexive timing requirements gave the game depth beyond simple dot-collection.[^ref-3] The 1990 remake demonstrated Sierra's willingness to revisit earlier successes with enhanced technology, though the updated version received more mixed reception than the nostalgically-remembered original.[^ref-26][^ref-30]References
 
 [^ref-1]: [Wikipedia – Oil's Well](https://en.wikipedia.org/wiki/Oil%27s_Well) – historical overview, awards, development history, critical reception
 [^ref-2]: [MobyGames – Oil's Well (1983)](https://www.mobygames.com/game/1427/oils-well/) – release dates, platforms, credits, ratings
@@ -238,7 +215,7 @@ The game's mechanics—extending a vulnerable "arm" through a maze while timing 
 [^ref-5]: [Internet Archive – MS-DOS Version](https://archive.org/details/msdos_Oils_Well_1990) – 1990 remake details, Slater the Petrosaur
 [^ref-6]: [MobyGames – Oil's Well (1990)](https://www.mobygames.com/game/1416/oils-well/) – production credits, technical specs, pricing
 [^ref-7]: [ClassicReload – Oil's Well](https://classicreload.com/oils-well.html) – developer trivia, gameplay description
-[^ref-31]: [Sierra Chest – Oil's Well Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – gameplay mechanics, difficulty levels, scoring
+[^ref-8]: [Sierra Chest – Oil's Well Walkthrough](https://sierrachest.com/index.php?a=games&id=367&fld=walkthrough) – gameplay mechanics, difficulty levels, scoring
 [^ref-9]: [MobyGames – Code-Name: Iceman](https://www.mobygames.com/game/436/code-name-iceman/) – backstory elements (fictional oil crisis context)
 [^ref-10]: [PixelatedArcade – Oil's Well](https://pixelatedarcade.com/games/oil-s-well) – gameplay description, technical improvements
 [^ref-11]: [Internet Archive – ColecoVision Version](https://archive.org/details/Oils_Well_1984_Sierra_On_Line) – control scheme, level structure

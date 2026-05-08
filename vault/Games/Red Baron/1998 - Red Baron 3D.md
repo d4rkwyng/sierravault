@@ -97,7 +97,7 @@ The technical improvements included enhanced graphics with trees, shrubs, layere
 
 ## Legacy
 
-Red Baron 3D's impact on flight simulation gaming was significant, with Computer Gaming World recognizing the original Red Baron as "the Top Simulation of 1991" and later as "one of the best games of all time"[^ref-24]. The game received multiple award nominations, including "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards and "Best Sim Game" at CNET Gamecenter Awards 1997[^ref-8][^ref-17].
+Red Baron 3D's impact on flight simulation gaming was significant, with Computer Gaming World recognizing the original Red Baron as "the Top Simulation of 1991" and later as "one of the best games of all time"[^ref-24]. The game received multiple award nominations, including "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards and "Best Sim Game" at CNET Gamecenter Awards 1997[^ref-17][^ref-8].
 
 ### Community and Modding
 
@@ -156,3 +156,5 @@ The game's comprehensive manual featured rich illustrated content about World Wa
 [^ref-23]: [PCGamingWiki](https://www.pcgamingwiki.com/wiki/Red_Baron_3D) – - Graphics improvements
 [^ref-24]: [TV Tropes](https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RedBaronDynamix) – - Critical reception history
 [^ref-25]: [Kotaku](https://kotaku.com/man-uses-17-year-old-coupon-for-frozen-pizza-bundled-wi-1539878046) – - Pizza coupon story
+[^ref-17]: [Wikipedia - Red Baron 3-D](https://en.wikipedia.org/wiki/Red_Baron_3-D) – - Development research methodology
+[^ref-2]: [MobyGames - Red Baron 3-D](https://www.mobygames.com/game/5123/red-baron-3-d/) – - Manual and documentation details

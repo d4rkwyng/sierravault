@@ -196,18 +196,13 @@ The game is now supported by ScummVM, allowing modern players to experience Urba
 ### Related Publications
 
 - **In-Game Hint System:** Built-in help with limited "joker" uses[^ref-13]
-- **Online Walkthroughs:** Multiple fan-created walkthroughs exist, including comprehensive guides at Sierra Help and The Spoiler[^ref-13][^ref-15]
+- **Online Walkthroughs:** Multiple fan-created walkthroughs exist, including comprehensive guides at Sierra Help and The Spoiler[^ref-15][^ref-13]
 
 ### Critical Perspective
 
 Urban Runner occupies an interesting position in adventure gaming history, representing both the ambitions and limitations of the FMV era. Released during what would prove to be the final years of mainstream FMV production, the game attempted to push the boundaries of interactive storytelling while simultaneously falling victim to the genre's inherent constraints—stiff acting, limited interactivity, and the challenge of balancing gameplay with cinematic presentation.[^ref-5]
 
 The game's spiritual connection to Lost in Time and its intended role in a larger "Lost in..." franchise speaks to Coktel Vision's ambitions during this period, even as Sierra's acquisition disrupted those plans.[^ref-4] While Urban Runner is rarely cited among the great adventure games of its era, it remains a valuable artifact of 1990s gaming culture, demonstrating both the excitement and the pitfalls that characterized the industry's brief love affair with interactive movies.[^ref-7] Modern retrospectives have been more forgiving than contemporary reviews, recognizing the game's entertainment value as a campy thriller even while acknowledging its technical and artistic shortcomings.[^ref-8]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/urban-runner-1996) – Available for purchase
 
 ## Downloads
 

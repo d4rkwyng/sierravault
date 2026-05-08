@@ -265,3 +265,4 @@ The game's legacy is primarily one of curiosity—a footnote in Sierra's extensi
 [^ref-16]: [Internet Archive – ColecoVision Manual](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_On-Line) – ColecoVision publisher information
 [^ref-17]: [IGN – Sammy Lightfoot](https://www.ign.com/games/sammy-lightfoot) – release date, publisher information
 [^ref-18]: [Internet Archive – Eprom Crack](https://archive.org/details/Sammy_Lightfoot_1983_Sierra_Online_cr_Eprom) – version information
+

@@ -24,7 +24,7 @@ tags: [1990s, n-a, sierra, strategy]
 
 Global Domination is a turn-based strategy game developed and published by [[Impressions Games]] in 1993 for DOS and Amiga platforms[^ref-1][^ref-4]. The game is modeled closely on the classic board game Risk, expanding upon that foundation with additional territories, unit types, intelligence operations, and unit obsolescence mechanics[^ref-3]. Set in a near-future world divided into five power nations fighting for complete planetary control, players employ tactics, spying, and diplomacy to achieve global conquest[^ref-4].
 
-Designed by [[Simon Bradbury]] and [[David Lester]], Global Domination represents Impressions Games' entry into the strategic conquest genre during the early 1990s[^ref-1]. The game was released under the alternate title "Stratagem" in the European market[^ref-5]. Despite mixed reception, contemporary reviewers praised it as "a simple, workmanlike, intermediate-level, conquer-the-world game that's surprisingly enjoyable and addictive"[^ref-3], while noting it served as "a great solitaire game with high replay value"[^ref-6].[^ref-20][^ref-21]
+Designed by [[Simon Bradbury]] and [[David Lester]], Global Domination represents Impressions Games' entry into the strategic conquest genre during the early 1990s[^ref-1]. The game was released under the alternate title "Stratagem" in the European market[^ref-5]. Despite mixed reception, contemporary reviewers praised it as "a simple, workmanlike, intermediate-level, conquer-the-world game that's surprisingly enjoyable and addictive"[^ref-3], while noting it served as "a great solitaire game with high replay value"[^ref-6].[^ref-20][^ref-21][^ref-20][^ref-21]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -200,7 +200,24 @@ This article focuses specifically on the 1993 Impressions Games title.
 [^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
 [^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game))) – gameplay mechanics, scenarios, AI opponents, reception
 [^ref-5]: [GameFAQs – Global Domination (1993)](https://gamefaqs.gamespot.com/pc/218049-global-domination-1993) – alternate title "Stratagem," release regions
-[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game))) – Chuck Moss review quotes, reception analysis
+[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game)
+- [[1979 - Galactic Empire]]
+- [[1987 - The Ancient Art of War at Sea]]
+- [[1991 - The Charge of the Light Brigade]]
+- [[1991 - V for Victory - D-Day Utah Beach]]
+- [[1994 - Alien Legacy]]
+- [[1995 - High Seas Trader]]
+- [[1996 - Birthright - The Gorgon's Alliance]]
+- [[1996 - Space Bucks]]
+- [[1996 - The Rise & Rule of Ancient Empires]]
+
+## References
+
+[^ref-1]: [Abandonware DOS – Global Domination](https://www.abandonwaredos.com/abandonware-game.php?abandonware=Global+Domination&gid=3447) – release dates, developers, publishers, designers, platforms, ratings
+[^ref-4]: [Internet Archive – DOS Version](https://archive.org/details/msdos_Global_Domination_1993) – release dates, platforms, game description
+[^ref-3]: [Wikipedia – Global Domination](https://en.wikipedia.org/wiki/Global_Domination_(video_game)) – gameplay mechanics, scenarios, AI opponents, reception
+[^ref-5]: [GameFAQs – Global Domination (1993)](https://gamefaqs.gamespot.com/pc/218049-global-domination-1993) – alternate title "Stratagem," release regions
+[^ref-6]: [HandWiki – Global Domination](https://handwiki.org/wiki/Software:Global_Domination_(video_game)) – Chuck Moss review quotes, reception analysis
 [^ref-7]: [MobyGames – Global Domination](https://www.mobygames.com/game/3025/global-domination/) – engine, technical specs, credits, ratings
 [^ref-8]: [Games Database – Manual](https://www.gamesdatabase.org/Media/SYSTEM/Commodore_Amiga//Manual/formated/Global_Domination_-_1993_-_Impressions_Games.htm) – game manual content, complexity levels, cloned leaders
 [^ref-9]: [Choicest Games – VGM Analysis](https://www.choicestgames.com/2015/12/choicest-vgm-vgm-211-global-domination.html) – composer Christopher J. Denman, music analysis, playable characters

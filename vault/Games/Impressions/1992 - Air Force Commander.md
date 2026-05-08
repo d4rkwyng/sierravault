@@ -26,7 +26,7 @@ tags: [1990s, air-force-commander, impressions, sierra, simulation, strategy]
 
 Air Force Commander is a real-time strategy wargame developed by [[Impressions Games]] and Golden Sector Design, released in 1992 for DOS and Commodore Amiga[^ref-1][^ref-2]. The game places players in command of an entire air force, tasking them with achieving strategic air supremacy across various Middle Eastern conflict scenarios[^ref-3]. Described by contemporary reviewers as "a complex and intriguing simulation," the title was notable for being released in the same year as Dune 2 and predating the original Command & Conquer by three years[^ref-4][^ref-5].
 
-The game features 26 modern Middle East scenarios spread across its campaign, offering players control over a wide variety of aircraft ranging from vintage SU-17 fighter bombers to cutting-edge F-117A Stealth Fighters[^ref-1][^ref-6]. Players must manage resources, bases, pilots, and aircraft while combining resource management with strategic command through an easy point-and-click interface[^ref-6]. The scenarios themselves were detailed and somewhat esoteric, including conflicts such as Bahrain vs. Qatar and UAE vs. Kuwait, reflecting the political realities of the region[^ref-3][^ref-7].
+The game features 26 modern Middle East scenarios spread across its campaign, offering players control over a wide variety of aircraft ranging from vintage SU-17 fighter bombers to cutting-edge F-117A Stealth Fighters[^ref-6][^ref-1]. Players must manage resources, bases, pilots, and aircraft while combining resource management with strategic command through an easy point-and-click interface[^ref-6]. The scenarios themselves were detailed and somewhat esoteric, including conflicts such as Bahrain vs. Qatar and UAE vs. Kuwait, reflecting the political realities of the region[^ref-7][^ref-3].
 
 Impressions Games, founded in 1989 with a focus on strategy and business simulation games, would later be acquired by Sierra On-Line in 1995[^ref-8]. The engine developed for Air Force Commander was subsequently improved and reused for later titles including Global Domination and When Two Worlds War[^ref-7].
 
@@ -196,26 +196,7 @@ The game's legacy lies primarily in its engine, which Impressions refined for la
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – Air Force Commander](https://archive.org/details/msdos_Air_Force_Commander_1992) – DOS version playable in browser[^ref-4]
-- [My Abandonware](https://www.myabandonware.com/game/air-force-commander-1bw) – DOS download[^ref-7]
-- [DOS.Zone](https://dos.zone/air-force-commander-1992/) – Browser-based emulation[^ref-13]
-- [Free Game Empire](https://www.freegameempire.com/games/Air-Force-Commander) – DOS download[^ref-8]
-
-**Related Game**
-- [Internet Archive – WW2 Air Force Commander](https://archive.org/details/msdos_WW2_Air_Force_Commander_1993) – 1993 sequel[^ref-10]
-
-## See Also
-
-- [[1992 - Air Bucks|← Previous: Air Bucks]]
-- [[1992 - Conquest of Japan|→ Next: Conquest of Japan]]
-
-- [[1991 - Cohort Fighting for Rome]]
+[[1991 - Cohort Fighting for Rome]]
 - [[1991 - Fort Apache]]
 - [[1991 - Merchant Colony]]
 - [[1992 - Discovery - In the Steps of Columbus]]

@@ -25,7 +25,7 @@ tags: [1980s, adventure, al-lowe, disney-edutainment-series, sierra]
 
 Set in the familiar world of A.A. Milne's classic stories as depicted in Disney's animated featurettes, the game challenges young players to help the residents of the Hundred Acre Wood recover their belongings after a blustery wind scatters objects throughout the forest.[^ref-4] The game's interface was revolutionary for its time in children's software—requiring no typing whatsoever, instead using cursor keys to select from context-sensitive action lists, making it accessible to early readers while still providing an engaging adventure experience.[^ref-5] Disney shared artwork from their Pooh animated films, which Sierra's artists used as inspiration for the game's charming background illustrations.[^ref-3]
 
-The game achieved commercial success and critical acclaim, with contemporary reviewers noting that while many licensed games rely on character recognition to sell, this title "deserve[s] to succeed on merit alone."[^ref-6] Al Lowe generously released the game as freeware in later years, ensuring its preservation for new generations of players.[^ref-7][^ref-26][^ref-28][^ref-29]
+The game achieved commercial success and critical acclaim, with contemporary reviewers noting that while many licensed games rely on character recognition to sell, this title "deserve[s] to succeed on merit alone."[^ref-6] Al Lowe generously released the game as freeware in later years, ensuring its preservation for new generations of players.[^ref-7][^ref-26][^ref-28][^ref-29][^ref-26][^ref-28][^ref-29]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]] / Walt [[Disney]] Computer Software[^ref-1]
@@ -202,33 +202,7 @@ Al Lowe generously released the DOS version of the game as freeware, ensuring it
 
 The game also represents a significant early work for two future Sierra luminaries: Al Lowe, who would go on to create the phenomenally successful *Leisure Suit Larry* franchise, and Mark Crowe, who would co-create the beloved *Space Quest* series.[^ref-20] In this context, the game serves as a fascinating artifact of Sierra's expansion period and the creative development of some of the industry's most important designers.
 
-From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]
-
-## Purchase
-
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist/game/winnie-the-pooh-in-the-hundred-acre-wood) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – DOS Version](https://archive.org/details/msdos_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1985)
-- [Internet Archive – Commodore 64 Version](https://archive.org/details/d64_Winnie_the_Pooh_in_the_Hundred_Acre_Wood_1984_Sierra_Online)
-- [Al Lowe's Official Site – Freeware Download](https://allowe.com/downloads/games.html)
-- [DOS Games Archive](https://www.dosgamesarchive.com/download/winnie-the-pooh-in-the-hundred-acre-wood)
-- [My Abandonware](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75)
-- [ClassicReload – Play in Browser](https://classicreload.com/winnie-the-pooh-in-the-hundred-acre-wood.html)
-
-**Manuals & Extras**
-- [Lemon Amiga – Amiga Manual](https://www.lemonamiga.com/games/docs.php?id=1785)
-
-## See Also
-
-- [[1984 - Donald Duck's Playground]]
-- [[1984 - Mickey's Space Adventure]]
-- [[1986 - The Black Cauldron]]
-
-## References
+From a design perspective, the game's innovation of eliminating typing requirements entirely made it genuinely accessible to its target audience of young children in ways that few adventure games of the era could match.[^ref-5] This child-friendly interface philosophy would influence later children's educational software development. The game's emphasis on mapping and spatial reasoning also anticipated later educational game design trends that emphasized learning through exploration.[^ref-27]References
 
 [^ref-1]: [MobyGames – Winnie the Pooh in the Hundred Acre Wood](https://www.mobygames.com/game/7274/winnie-the-pooh-in-the-hundred-acre-wood/) – release dates, developers, publishers, platforms, ratings
 [^ref-2]: [My Abandonware – Winnie the Pooh in the Hundred Acre Wood](https://www.myabandonware.com/game/winnie-the-pooh-in-the-hundred-acre-wood-75) – series context, educational focus, ratings

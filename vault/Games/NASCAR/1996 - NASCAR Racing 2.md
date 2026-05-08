@@ -23,7 +23,7 @@ tags: [1990s, nascar-racing, papyrus, racing, sierra]
 
 NASCAR Racing 2 is a racing simulation video game developed by [[Papyrus Design Group]] and published by [[Sierra On-Line]], released on December 9, 1996 for MS-DOS and Windows platforms[^ref-1]. The game represented a significant technological leap for the NASCAR Racing series, introducing a completely new game engine that improved graphics, physics, sound, and multiplayer capabilities while adding the official cars, tracks, and drivers of the 1996 NASCAR Winston Cup Series season[^ref-2]. As the sequel to Sierra's award-winning NASCAR Racing, the game was praised by reviewers as "a completely professional game, both in its execution and in its dedication to the NASCAR tradition"[^ref-3].
 
-The game was notable for being the first NASCAR title to feature 3D hardware acceleration, supporting both 3Dfx Acceleration through DOS and Rendition through Windows[^ref-1]. NASCAR Racing 2 introduced several innovative features including an arcade mode for casual players, a mouse-driven interface, and an innovative radio spotter system that provided real-time audio alerts about track conditions[^ref-2]. Contemporary reviews emphasized the game's uncompromising dedication to realism, with GameSpot's Tim Soete declaring "NASCAR 2 is not a toy. This is a game where every track must be considered individually when tweaking the design of your car" and noting that "Simply put, this is as close as most of us are going to come to participating in an actual televised race"[^ref-4].[^ref-35][^ref-36][^ref-37]
+The game was notable for being the first NASCAR title to feature 3D hardware acceleration, supporting both 3Dfx Acceleration through DOS and Rendition through Windows[^ref-1]. NASCAR Racing 2 introduced several innovative features including an arcade mode for casual players, a mouse-driven interface, and an innovative radio spotter system that provided real-time audio alerts about track conditions[^ref-2]. Contemporary reviews emphasized the game's uncompromising dedication to realism, with GameSpot's Tim Soete declaring "NASCAR 2 is not a toy. This is a game where every track must be considered individually when tweaking the design of your car" and noting that "Simply put, this is as close as most of us are going to come to participating in an actual televised race"[^ref-4].[^ref-35][^ref-36][^ref-37][^ref-35][^ref-36][^ref-37]
 
 > [!info]- Game Info
 > **Developer:** Papyrus Design Group[^ref-1]
@@ -230,31 +230,7 @@ The Papyrus legacy continued to influence racing games long after the studio's c
 
 ## Purchase
 
-**Purchase / Digital Stores**
-- [GOG](https://www.gog.com/dreamlist) – Available for purchase
-
-## Downloads
-
-**Download / Preservation**
-- [Internet Archive – NASCAR Racing 2 (MS-DOS)](https://archive.org/details/msdos_NASCAR_Racing_2_1996)[^ref-2]
-- [Internet Archive – NASCAR Racing 2 (Mr. Abandonware)](https://archive.org/details/nascar-racing-2-mr-abandonware)[^ref-33]
-- [MyAbandonware – NASCAR Racing 2](https://www.myabandonware.com/game/nascar-racing-2-c6r)[^ref-9]
-- [DOS Games Archive – Demo Download](https://www.dosgamesarchive.com/download/nascar-racing-2)[^ref-8]
-- [Old Games Download – NASCAR Racing 2](https://oldgamesdownload.com/nascar-racing-2/)[^ref-34]
-- [GamesNostalgia – NASCAR Racing 2](https://gamesnostalgia.com/game/nascar-racing-2)[^ref-13]
-
-**Patches**
-- [Sierra Help – NASCAR Racing Updates](https://sierrahelp.com/Patches-Updates/Patches-Updates-Games/NASCARRacingUpdates.html)[^ref-22]
-
-**Manuals & Extras**
-- [Internet Archive – NASCAR Racing 2 Manual](https://archive.org/details/NASCAR_Racing_2_-_Manual)[^ref-32]
-
-## See Also
-
-- [[1994 - NASCAR Racing|← Previous: NASCAR Racing]]
-- [[1997 - NASCAR Racing 2 - Grand National Series Expansion|→ Next: NASCAR Racing 2 - Grand National Series Expansion]]
-
-- [[1999 - NASCAR Craftsman Truck Series Racing]]
+[[1999 - NASCAR Craftsman Truck Series Racing]]
 - [[1999 - NASCAR Legends]]
 - [[1999 - NASCAR Racing 3]]
 - [[2001 - NASCAR Racing 4]]

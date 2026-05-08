@@ -24,7 +24,7 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 3D Ultra Minigolf is a miniature golf simulation game released in 1997 by Sierra On-Line, developed by [[Dynamix]] and [[Jeff Tunnell Productions]].[^ref-1] The game marked Sierra's first venture into the minigolf genre, branching out from their successful 3D Ultra Pinball series to create what they marketed as "the first ever Minigolf game" from the publishers of the "Best Selling 3D Ultra Pinball series."[^ref-2] The game promised to deliver "the most realistic physics and accurate ball movement of any computer mini golf game" while offering players a mix of traditional holes and fantastical settings.[^ref-3]
 
-The game takes the classic miniature golf experience and expands it with unique holes featuring adventure elements, including settings on the moon and encounters with dinosaurs alongside traditional favorites like windmills and lighthouses.[^ref-2] Using pre-rendered CGI static screenshots rather than true real-time 3D graphics, the game supports up to four players and offers multiple putting techniques and play modes.[^ref-1][^ref-3] Despite some criticism regarding its fixed camera angles and the gap between marketing claims and actual presentation, 3D Ultra Minigolf earned a dedicated following and spawned a series that continued through 2010, eventually seeing modern releases on Steam and Xbox Live Arcade.[^ref-4][^ref-5]
+The game takes the classic miniature golf experience and expands it with unique holes featuring adventure elements, including settings on the moon and encounters with dinosaurs alongside traditional favorites like windmills and lighthouses.[^ref-2] Using pre-rendered CGI static screenshots rather than true real-time 3D graphics, the game supports up to four players and offers multiple putting techniques and play modes.[^ref-3][^ref-1] Despite some criticism regarding its fixed camera angles and the gap between marketing claims and actual presentation, 3D Ultra Minigolf earned a dedicated following and spawned a series that continued through 2010, eventually seeing modern releases on Steam and Xbox Live Arcade.[^ref-4][^ref-5]
 
 The game's legacy is notable for establishing a franchise that would persist for over a decade, with Sierra attempting to develop a follow-up called Minigolf Maniacs before the closure of Dynamix in 2001 left that project unfinished.[^ref-5] Many of the level designs and mechanics from that cancelled game were eventually re-fitted for 3D Ultra Minigolf Adventures, released by Wanako Games in 2006.[^ref-5]
 
@@ -108,7 +108,7 @@ The game was developed by [[Dynamix]], a Sierra subsidiary, in collaboration wit
 
 The development team created a game that combined pre-rendered CGI backgrounds with gameplay mechanics designed to simulate realistic ball physics.[^ref-3] The visual approach used static screenshots rather than real-time 3D rendering, which some critics felt undermined the "3D Ultra" branding.[^ref-2]
 
-The game was designed to support Windows 3.1 and Windows 95, reflecting the transitioning PC market of the mid-1990s.[^ref-3][^ref-6] A patch (version 1.01) was later released that enabled online multiplayer functionality, demonstrating Sierra's early interest in networked gaming.[^ref-1][^ref-5]
+The game was designed to support Windows 3.1 and Windows 95, reflecting the transitioning PC market of the mid-1990s.[^ref-3][^ref-6] A patch (version 1.01) was later released that enabled online multiplayer functionality, demonstrating Sierra's early interest in networked gaming.[^ref-5][^ref-1]
 
 **Development Credits:**[^ref-1]
 - **Developer:** Dynamix
@@ -132,7 +132,7 @@ The multiplayer support for up to four players made it suitable for party gaming
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | April 15, 1997 | IBM PC | Initial release[^ref-1] |
-| 1.01 | 1997 | IBM PC | Patch enabling online play[^ref-1][^ref-5] |
+| 1.01 | 1997 | IBM PC | Patch enabling online play[^ref-5][^ref-1] |
 | Deluxe | 1998 | Windows | Added 9 additional holes (27 total)[^ref-5] |
 
 ### Technical Issues

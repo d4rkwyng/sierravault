@@ -26,7 +26,7 @@ Merchant Colony is a complex strategy and business simulation game released in 1
 
 Set in the 18th century, Merchant Colony simulates the naval trading and colonial expansion that characterized the era of great merchant companies like the East India Trading Company[^ref-3]. Players take on the role of a beginner shipowner with limited capital who must develop their business through shrewd trading, colony establishment, and strategic resource management[^ref-4]. The game encompasses colonization, industrial development, trading, and warfare, offering a comprehensive simulation of geo-politics during the age of expansionism[^ref-5].
 
-Despite receiving mixed reviews from contemporary gaming magazines, Merchant Colony has attracted a dedicated cult following among fans of historical strategy games. The game is considered a forerunner to Impressions' later and more polished title, High Seas Trader (1995), and was released three years before Sid Meier's celebrated Colonization[^ref-6].[^ref-20][^ref-21][^ref-22]
+Despite receiving mixed reviews from contemporary gaming magazines, Merchant Colony has attracted a dedicated cult following among fans of historical strategy games. The game is considered a forerunner to Impressions' later and more polished title, High Seas Trader (1995), and was released three years before Sid Meier's celebrated Colonization[^ref-6].[^ref-20][^ref-21][^ref-22][^ref-20][^ref-21][^ref-22]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -170,7 +170,7 @@ The game was noted for its steep learning curve and complex interface, which con
 ### Version History
 
 | Version | Date | Platform | Notes |
-|---------|------|----------|-------|[^ref-27]
+|---------|------|----------|-------|[^ref-27][^ref-27]
 | 1.0 | 1991 | DOS, Amiga, Atari ST | Initial release[^ref-1] |
 | 1.1 | 1991 | DOS | Updated version available on preservation sites[^ref-7] |
 | 1.31 | Unknown | MacOS | Later port for classic Macintosh[^ref-7] |

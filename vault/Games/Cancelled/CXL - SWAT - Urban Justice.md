@@ -25,7 +25,7 @@ SWAT: Urban Justice was an ambitious tactical shooter developed by Sierra Entert
 
 Despite extensive pre-release promotion and detailed developer diaries published throughout 2002, SWAT: Urban Justice was ultimately cancelled by Vivendi after spending years in development limbo.[^ref-1] The game was described as "l'épisode le plus décalé de la série des S.W.A.T" (the most offbeat episode of the SWAT series), suggesting it would have taken the franchise in a notably different direction.[^ref-4] Sierra had positioned the title as featuring "more weapons, more combat gear, more bad guys, and a quicker pacing than ever before," promising to evolve the tactical shooter formula that had made the series successful.[^ref-5]
 
-The cancellation of Urban Justice led directly to the development of SWAT 4 by Irrational Games, with a Vivendi spokesperson confirming that "work on Urban Justice has been 'discontinued' in favor of SWAT 4's development."[^ref-6] Despite never being released, Urban Justice left a lasting mark on the franchise—an easter egg referencing the cancelled game appears in SWAT 4's Victory Imports Auto Garage mission, where it can be seen as an arcade cabinet, serving as a company in-joke acknowledging the project's troubled history.[^ref-1][^ref-13][^ref-14][^ref-15]
+The cancellation of Urban Justice led directly to the development of SWAT 4 by Irrational Games, with a Vivendi spokesperson confirming that "work on Urban Justice has been 'discontinued' in favor of SWAT 4's development."[^ref-6] Despite never being released, Urban Justice left a lasting mark on the franchise—an easter egg referencing the cancelled game appears in SWAT 4's Victory Imports Auto Garage mission, where it can be seen as an arcade cabinet, serving as a company in-joke acknowledging the project's troubled history.[^ref-1][^ref-13][^ref-14][^ref-15][^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-2]
@@ -44,7 +44,7 @@ SWAT: Urban Justice was set in a near-future Los Angeles of 2006, where years of
 
 Three rival gangs—the Loco Riders, Krazy Boyz, and Compton 187—were engaged in open warfare for control of Los Angeles' streets.[^ref-7] The escalating violence required intervention from the city's elite SWAT unit, putting players in the boots of highly trained tactical officers tasked with taking back neighborhoods block by block through 16 planned missions.[^ref-3]
 
-In a notable creative decision, the development team chose to feature a fictional SWAT team rather than the actual LA SWAT, granting themselves what they termed "liberdade poética" (poetic license) to explore scenarios and tactics without the constraints of strict realism.[^ref-7] This approach also allowed for progressive representation, as the team would include female SWAT officers among its ranks—a deliberate choice that distinguished Urban Justice from its predecessors.[^ref-7][^ref-12]
+In a notable creative decision, the development team chose to feature a fictional SWAT team rather than the actual LA SWAT, granting themselves what they termed "liberdade poética" (poetic license) to explore scenarios and tactics without the constraints of strict realism.[^ref-7] This approach also allowed for progressive representation, as the team would include female SWAT officers among its ranks—a deliberate choice that distinguished Urban Justice from its predecessors.[^ref-7][^ref-12][^ref-12]
 
 ## Gameplay
 
@@ -178,31 +178,7 @@ Due to the limited availability of development materials, no significant fan pro
 
 SWAT: Urban Justice represents a fascinating "what if" in tactical shooter history. The game was being developed during a transformative period for the genre—as IGN's Aaron Boulding noted regarding the similar SWAT: Global Strike Team, "in the time since it was announced for PS2 and Xbox and its recent arrival on those systems, other titles like SOCOM and Rainbow Six 3 have surpassed and improved on what SWAT: GST set out to do."[^ref-10]
 
-The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most well-received tactical shooters of its era. SWAT 4 received an 8.5/10 from GameSpot and was described as "the best tactical shooter ever... With AI and levels that put rainbow 6 to shame."[^ref-11]
-
-Urban Justice's legacy is primarily as a cautionary tale of ambitious game development derailed by delays and shifting market conditions, yet the easter egg in SWAT 4 ensures the cancelled title is remembered by fans of the franchise.
-
-## Purchase
-
-- [GOG Dreamlist](https://www.gog.com/dreamlist)
-
-## Downloads
-
-**Purchase / Digital Stores**
-- Not currently available on GOG or Steam
-- Not available (cancelled)
-
-**Download / Preservation**
-- [Unseen64 Documentation](https://www.unseen64.net/2010/09/13/swat-urban-justice-pc-cancelled/)
-
-**Manuals & Extras**
-- 2002 Trailer (included on No One Lives Forever 2, Disc 2)[^ref-1]
-
-## See Also
-
-- **Cancelled, replaced by:** [[2005 - SWAT 4]]
-
-## References
+The cancellation of Urban Justice and the subsequent commissioning of SWAT 4 from Irrational Games represented a strategic pivot by Vivendi. Rather than continuing with an internal Sierra project that had spent years in development difficulties, the publisher chose to hand the franchise to a studio that would go on to create one of the most References
 
 [^ref-1]: [Police Quest Omnipedia – SWAT: Urban Justice](https://policequest.fandom.com/wiki/SWAT:_Urban_Justice_(cancelled_game)) – cancellation details, easter egg documentation, development timeline
 [^ref-2]: [IGN – SWAT: Urban Justice](https://www.ign.com/games/swat-urban-justice) – game setting, designer credits, feature descriptions
