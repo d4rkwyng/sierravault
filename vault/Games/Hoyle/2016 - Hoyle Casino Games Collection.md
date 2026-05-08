@@ -1,7 +1,7 @@
 ---
 title: Hoyle Official Casino Games Collection
 release_year: 2016
-developer: Encore[^ref-14][^ref-18] Software
+developer: Encore Software
 designer: []
 publisher: Encore
 genre: Casino
