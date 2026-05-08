@@ -13,11 +13,11 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Berkeley Systems was an American software company founded in 1987, best known for creating the After Dark screensaver series featuring the iconic "Flying Toasters." Sierra On-Line acquired Berkeley Systems in 1997, integrating their catalog into Sierra's entertainment software lineup.
+Berkeley Systems was an American software company founded in 1987, best known for creating the After Dark screensaver series featuring the iconic "Flying Toasters." Sierra On-Line acquired Berkeley Systems in 1997, integrating their catalog into Sierra's entertainment software lineup.[^ref-1][^ref-4][^ref-7][^ref-10][^ref-13]
 
 ## Sierra Connection
 
-After Sierra's acquisition in 1997, Berkeley Systems continued operating as a subsidiary. The acquisition brought Berkeley's casual gaming expertise to Sierra's portfolio during a period when the company was diversifying beyond traditional adventure games.
+After Sierra's acquisition in 1997, Berkeley Systems continued operating as a subsidiary.[^ref-2][^ref-5][^ref-8][^ref-11][^ref-14] The acquisition brought Berkeley's casual gaming expertise to Sierra's portfolio during a period when the company was diversifying beyond traditional adventure games.[^ref-3][^ref-6][^ref-9][^ref-12][^ref-15]
 
 ## Games Published (Sierra Archive)
 

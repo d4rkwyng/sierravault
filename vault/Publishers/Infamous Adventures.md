@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Infamous Adventures was a freeware game publisher active from 2004 to 2012, specializing in VGA remakes of classic Sierra On-Line adventure games. Founded by Steven Alexander and Shawn Mills, the studio created high-quality fan remakes of Space Quest II and King's Quest III before transitioning to commercial development under the [[Publishers/Infamous Quests|Infamous Quests]] label.
+Infamous Adventures was a freeware game publisher active from 2004 to 2012, specializing in VGA remakes of classic Sierra On-Line adventure games.[^ref-1][^ref-5][^ref-9][^ref-13] Founded by Steven Alexander and Shawn Mills, the studio created high-quality fan remakes of Space Quest II and King's Quest III before transitioning to commercial development under the [[Publishers/Infamous Quests|Infamous Quests]] label.[^ref-2][^ref-6][^ref-10][^ref-14]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Adventures|Infamous Adventures (Developer)]].
 
 ## Publishing Philosophy
 
-Like [[Publishers/AGD Interactive|AGD Interactive]], Infamous Adventures operated as a non-commercial operation, distributing their remakes for free through their website. The founders eventually transitioned to commercial game development with Infamous Quests while the Infamous Adventures projects remain available as freeware.
+Like [[Publishers/AGD Interactive|AGD Interactive]], Infamous Adventures operated as a non-commercial operation, distributing their remakes for free through their website.[^ref-3][^ref-7][^ref-11][^ref-15] The founders eventually transitioned to commercial game development with Infamous Quests while the Infamous Adventures projects remain available as freeware.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published
 

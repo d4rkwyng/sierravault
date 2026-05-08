@@ -102,7 +102,7 @@ Hoyle Poker Series emerged from Sierra Entertainment's long-running Hoyle series
 
 By 2005, Sierra Entertainment had transitioned development of the Hoyle brand to Encore Software, which took over publishing and distribution duties while Sierra remained the developer[^ref-10]. This transition was part of broader changes in the gaming industry as Sierra's parent company, Vivendi Universal Games (VU Games), restructured its operations[^ref-9].
 
-The game built directly upon the foundation of Sierra's earlier poker titles, particularly Hoyle Poker (1997), which had pioneered the inclusion of fully developed AI characters with distinct bluffing patterns and attitudes[^ref-5]. That earlier title advertised "WE'VE RAISED THE STAKES ON COMPUTER POKER" and featured 24 different varieties of poker with 7 unique animated opponents[^ref-9][^ref-5].
+The game built directly upon the foundation of Sierra's earlier poker titles, particularly Hoyle Poker (1997), which had pioneered the inclusion of fully developed AI characters with distinct bluffing patterns and attitudes[^ref-5]. That earlier title advertised "WE'VE RAISED THE STAKES ON COMPUTER POKER" and featured 24 different varieties of poker with 7 unique animated opponents[^ref-5][^ref-9].
 
 ### Production
 

@@ -12,19 +12,19 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Knowledge Adventure is an American educational software publisher founded in 1991, best known for the JumpStart series of educational games for children. The company was acquired by Vivendi Universal Games (parent of Sierra Entertainment) in 2004, bringing it under the same corporate umbrella as Sierra's properties.
+Knowledge Adventure is an American educational software publisher founded in 1991, best known for the JumpStart series of educational games for children.[^ref-1] The company was acquired by Vivendi Universal Games (parent of Sierra Entertainment) in 2004, bringing it under the same corporate umbrella as Sierra's properties.[^ref-2]
 
 ## Sierra Connection
 
-After Vivendi's acquisition, Knowledge Adventure continued development of the Dr. Brain educational game series, which was originally created by Sierra On-Line. The Dr. Brain franchise, designed by the [[Designers/Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.
+After Vivendi's acquisition, Knowledge Adventure continued development of the Dr.[^ref-3] Brain educational game series, which was originally created by Sierra On-Line.[^ref-4] The Dr.[^ref-5] Brain franchise, designed by the [[Designers/Corey Cole|Coles]], featured puzzle games that challenged players with logic, science, and problem-solving activities.[^ref-6]
 
-Knowledge Adventure released several Dr. Brain titles in the late 1990s and 2000s, continuing the legacy of Sierra's educational gaming division.
+Knowledge Adventure released several Dr.[^ref-7] Brain titles in the late 1990s and 2000s, continuing the legacy of Sierra's educational gaming division.[^ref-8]
 
 ## Games Published (Sierra Archive)
 
-- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Series: Dr. Brain
-- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Series: Dr. Brain
-- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Series: Dr. Brain
+- **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain Thinking Games: IQ Adventure]] — Series: Dr.[^ref-11] Brain[^ref-9][^ref-10]
+- **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain Thinking Games: Puzzle Madness]] — Series: Dr.[^ref-14] Brain[^ref-12][^ref-13]
+- **1999** — [[1999 - Dr. Brain - Action Reaction|Dr. Brain: Action Reaction]] — Series: Dr. Brain[^ref-15]
 - **2011** — [[2011 - JumpStart Advanced 3rd-5th Grade - Adventures of Dr. Brain|JumpStart Advanced: Adventures of Dr. Brain]] — Series: Dr. Brain
 
 ## Related

@@ -23,7 +23,7 @@ tags: [2000s, hoyle, sierra]
 
 Hoyle Board Games 2005 is a comprehensive collection of classic board and table games developed by [[Sierra On-Line]] and published by [[Encore Software]] for Windows PC in 2005.[^ref-2] The game represents a continuation of the long-running Hoyle series, which traces its origins back to Sierra On-Line's 1989 release of Hoyle's Official Book of Games and carries forward a legacy spanning over 200 years of "playing games right" according to Edmond Hoyle's namesake.[^ref-3][^ref-4] The title was rated E for Everyone by the ESRB, with Vivendi Games listed as the official publisher for rating purposes.[^ref-5]
 
-The collection features 18 board games including Backgammon, Checkers, Chess, Chinese Checkers, Battling Ships, Dominoes, and Rummy Squares, along with a bonus of 12 pool games included for free.[^ref-6][^ref-7] New features for the 2005 edition included a High Score List to track player achievements, new games such as Word Searches and Rays, and the Facemaker Tool allowing players to create unique-looking characters from hundreds of facial features.[^ref-6] The game maintained the series tradition of offering animated opponents who "talk back and speak their minds" while providing adjustable skill levels for beginners, intermediate players, and experts.[^ref-6][^ref-4]
+The collection features 18 board games including Backgammon, Checkers, Chess, Chinese Checkers, Battling Ships, Dominoes, and Rummy Squares, along with a bonus of 12 pool games included for free.[^ref-6][^ref-7] New features for the 2005 edition included a High Score List to track player achievements, new games such as Word Searches and Rays, and the Facemaker Tool allowing players to create unique-looking characters from hundreds of facial features.[^ref-6] The game maintained the series tradition of offering animated opponents who "talk back and speak their minds" while providing adjustable skill levels for beginners, intermediate players, and experts.[^ref-4][^ref-6]
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-2]
@@ -44,7 +44,7 @@ Hoyle Board Games 2005 offers multiple visual perspectives including first-perso
 
 ### Structure and Progression
 
-The game utilizes a virtual currency system called "Hoyle Bucks" that players can earn through gameplay and use to purchase extra content and music.[^ref-6][^ref-4] This progression system encouraged continued play across the various game types included in the collection.
+The game utilizes a virtual currency system called "Hoyle Bucks" that players can earn through gameplay and use to purchase extra content and music.[^ref-4][^ref-6] This progression system encouraged continued play across the various game types included in the collection.
 
 **Games Included:**[^ref-6][^ref-7]
 - **Backgammon:** Classic dice-based racing game

@@ -93,7 +93,7 @@ The limited critical coverage suggests the game was viewed primarily as a functi
 
 Hoyle Solitaire And Mahjong Tiles 2000 was developed as part of Sierra On-Line's ongoing Hoyle series of classic game compilations[^ref-5]. The Hoyle brand had been established in the late 1980s and continued through the 1990s as Sierra's primary vehicle for casual card and board game releases[^ref-5].
 
-By 2000, Sierra was publishing these titles under their Sierra Attractions label, which handled the company's casual and family-oriented gaming products[^ref-5]. The development was handled internally by Sierra On-Line, Inc.[^ref-3][^ref-1]
+By 2000, Sierra was publishing these titles under their Sierra Attractions label, which handled the company's casual and family-oriented gaming products[^ref-5]. The development was handled internally by Sierra On-Line, Inc.[^ref-1][^ref-3]
 
 ### Production
 
@@ -121,7 +121,7 @@ The game utilized standard Windows and Macintosh development practices of the er
 |---------|------|----------|-------|
 | 1.0 | April 5, 2000 | IBM PC | Initial release[^ref-5] |
 | 1.0 | April 5, 2000 | Macintosh | Initial release[^ref-5] |
-| Standard | April 22, 2000 | PC/Mac | Standard edition[^ref-8][^ref-4] |
+| Standard | April 22, 2000 | PC/Mac | Standard edition[^ref-4][^ref-8] |
 
 ### Technical Issues
 

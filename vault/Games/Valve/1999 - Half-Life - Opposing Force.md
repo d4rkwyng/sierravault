@@ -60,7 +60,7 @@ The game introduces rope-climbing mechanics, another unique feature within the H
 
 ### Structure and Progression
 
-The single-player campaign spans 13 chapters set across 12 new interconnected levels[^ref-12][^ref-13]. The game is approximately 70% as long as the original Half-Life, with an estimated completion time of 5-10 hours depending on difficulty and playstyle[^ref-14][^ref-4]. The chapters include:
+The single-player campaign spans 13 chapters set across 12 new interconnected levels[^ref-12][^ref-13]. The game is approximately 70% as long as the original Half-Life, with an estimated completion time of 5-10 hours depending on difficulty and playstyle[^ref-4][^ref-14]. The chapters include:
 
 - **Boot Camp:** Optional training section teaching basic mechanics
 - **Welcome to Black Mesa:** Shephard awakens in the damaged facility
@@ -142,7 +142,7 @@ Gearbox Software was formed from core members of the defunct studio Rebel Boat R
 
 ### Production
 
-Development took approximately eight months with a core team of nine developers and more than 15 total contributors[^ref-10][^ref-2]. Randy Pitchford described the scope: "OpFor is such a large and complete new title that it wouldn't surprise me if it's priced like a sequel"[^ref-10].
+Development took approximately eight months with a core team of nine developers and more than 15 total contributors[^ref-2][^ref-10]. Randy Pitchford described the scope: "OpFor is such a large and complete new title that it wouldn't surprise me if it's priced like a sequel"[^ref-10].
 
 Gearbox brought in talent from across the video games industry to bolster the development team. In September 1999, designers from Daikatana, Quake II, Doom, and Shadow Warrior joined the project[^ref-2]. For multiplayer content, a team of "all-stars" was assembled including Tom "Paradox" Mustaine and Richard Gray (known as the Levelord), who had previously worked on Duke Nukem 3D, SiN, and Quake: Scourge of Armagon[^ref-4][^ref-26].
 
@@ -228,7 +228,7 @@ The game has several known technical issues across different versions[^ref-30]:
 Opposing Force contains numerous hidden secrets and developer jokes discovered by the community[^ref-32]:
 
 - **Hidden Randy Pitchford Message:** A sound file, when played in reverse, reveals the message "To win the game you must kill me, Randy Pitchford"[^ref-5][^ref-33]
-- **Skybox Poem:** The upper skybox texture during the G-Man Osprey sequence contains a hidden message reading "HACK HACK HACK ALL DAY LONG. HACK HACK HACK WHILE I SING THIS SONG"—a reference to the Adam Sandler song "The Beating of a High School Janitor"[^ref-34][^ref-32]
+- **Skybox Poem:** The upper skybox texture during the G-Man Osprey sequence contains a hidden message reading "HACK HACK HACK ALL DAY LONG. HACK HACK HACK WHILE I SING THIS SONG"—a reference to the Adam Sandler song "The Beating of a High School Janitor"[^ref-32][^ref-34]
 - **Penguin Weapon:** Console command "give weapon_penguin" spawns a penguin with a grenade on its back that acts like a snark, chasing targets. This was undiscovered for approximately nine months after release[^ref-35]. The penguin was originally created for the OpFor CTF mode[^ref-35]
 - **Snowman Easter Egg:** Using the penguin command when already carrying nine penguins spawns a snowman with the message "Beware of Penguins"[^ref-35]
 - **Haiku Command:** Typing "haiku" in the console freezes the game and displays a randomly generated haiku poem. The text is stored in OPFOR.DLL[^ref-36]
@@ -259,7 +259,7 @@ Opposing Force contains numerous hidden secrets and developer jokes discovered b
 
 ### Sales and Commercial Impact
 
-Half-Life: Opposing Force achieved significant commercial success. The game sold 108,008 copies in the United States by the end of 1999, eventually reaching over 1.1 million copies sold at retail worldwide[^ref-2][^ref-1]. This performance was remarkable for an expansion pack, demonstrating the strength of the Half-Life brand.
+Half-Life: Opposing Force achieved significant commercial success. The game sold 108,008 copies in the United States by the end of 1999, eventually reaching over 1.1 million copies sold at retail worldwide[^ref-1][^ref-2]. This performance was remarkable for an expansion pack, demonstrating the strength of the Half-Life brand.
 
 The game won the Computer Action Game of the Year award from the Academy of Interactive Arts & Sciences at the Interactive Achievement Awards of 2000[^ref-1][^ref-22]. PC Gamer US named it Best Expansion Pack of 1999[^ref-2].
 

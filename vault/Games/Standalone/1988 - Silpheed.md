@@ -44,7 +44,7 @@ The game is set in the year 3032, when an abandoned space shuttle built by an un
 
 An outlaw named Xacalite has seized control of the powerful battleship Gloire and threatens the stability of human civilization.[^ref-7][^ref-18] The supercomputer Yggdrassil has determined that the best plan for defeating Xacalite is to send a single pilot in a new prototype fighter, the SA-08 Silpheed, into battle against overwhelming odds.[^ref-13] As Xacalite himself declares: "I am Xacalite, emperor of the universe. You can never defeat me as long as I have Gloire!"[^ref-20]
 
-When the player takes the controls of the Super Air Fighter SA-08 Silpheed prototype, they take the hope of civilization with them.[^ref-10] The mission is a one-man campaign against Xacalite's forces: fight through their lines and destroy the stolen battleship before the self-proclaimed emperor can use its power to dominate the galaxy.[^ref-21][^ref-7] The player must navigate through various environments including outer space, inside enemy bases, and above planetary surfaces across twenty areas of continuous battle.[^ref-18][^ref-23]
+When the player takes the controls of the Super Air Fighter SA-08 Silpheed prototype, they take the hope of civilization with them.[^ref-10] The mission is a one-man campaign against Xacalite's forces: fight through their lines and destroy the stolen battleship before the self-proclaimed emperor can use its power to dominate the galaxy.[^ref-7][^ref-21] The player must navigate through various environments including outer space, inside enemy bases, and above planetary surfaces across twenty areas of continuous battle.[^ref-18][^ref-23]
 
 ## Gameplay
 
@@ -56,18 +56,18 @@ The control scheme allows players to move in all directions while continuously f
 
 ### Structure and Progression
 
-The game consists of twenty action-packed levels of continuous battle, with players dodging enemy projectiles and destroying increasingly difficult waves of enemies.[^ref-21][^ref-18] Each level presents different environments and enemy configurations:
+The game consists of twenty action-packed levels of continuous battle, with players dodging enemy projectiles and destroying increasingly difficult waves of enemies.[^ref-18][^ref-21] Each level presents different environments and enemy configurations:
 
 - **Outer Space Zones:** Open areas with asteroid fields and enemy squadrons
 - **Base Interiors:** Confined spaces within enemy installations
 - **Planetary Surfaces:** Low-altitude combat above various worlds
-- **Final Confrontation:** The assault on the battleship Gloire[^ref-23][^ref-7]
+- **Final Confrontation:** The assault on the battleship Gloire[^ref-7][^ref-23]
 
 The game features over 30 different types of alien enemy aircraft, each with distinct attack patterns and behaviors.[^ref-23] Progress through levels allows players to accumulate points for weapon upgrades and collect power-ups scattered throughout the stages.[^ref-5]
 
 ### Puzzles and Mechanics
 
-Rather than traditional puzzles, Silpheed focuses on combat mechanics and survival strategies. The game introduces the innovative concept of sectional damage, where different parts of the player's ship can be damaged independently rather than using a simple health bar.[^ref-8] The ship features a shield system that allows players to absorb multiple hits, with shields rated at different capacities depending on difficulty settings.[^ref-20][^ref-10]
+Rather than traditional puzzles, Silpheed focuses on combat mechanics and survival strategies. The game introduces the innovative concept of sectional damage, where different parts of the player's ship can be damaged independently rather than using a simple health bar.[^ref-8] The ship features a shield system that allows players to absorb multiple hits, with shields rated at different capacities depending on difficulty settings.[^ref-10][^ref-20]
 
 **Weapon System:**
 Players can equip different weapons on the left and right sides of their ship, with new weapons becoming available as points are gathered.[^ref-5] The weapon selection provides strategic depth, allowing players to customize their loadout for different situations.
@@ -140,7 +140,7 @@ The sectional damage system was an innovation for the shooter genre, moving beyo
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-14][^ref-10]
+**DOS Version:**[^ref-10][^ref-14]
 - **Resolution:** Up to 640x400 pixels
 - **Colors:** 16 colors maximum
 - **Video Modes:** EGA, MCGA, VGA, Tandy 16-color, CGA, PCjr
@@ -172,7 +172,7 @@ The TRS-80 CoCo versions were significantly reduced from the original, missing f
 | 1.0 | Apr 1989 | DOS | Initial US DOS release[^ref-1] |
 | 2.3 | Jul 18, 1989 | DOS | Added Game Blaster soundcard support[^ref-1][^ref-40] |
 | 2.4 | 1989 | DOS | Minor updates[^ref-35] |
-| 3.2 | 1989+ | DOS | Added IBM PS/1 Audio Card support, sampled sound effects, speech support[^ref-14][^ref-13] |
+| 3.2 | 1989+ | DOS | Added IBM PS/1 Audio Card support, sampled sound effects, speech support[^ref-13][^ref-14] |
 | - | Jul 1989 | Apple IIgs | US release[^ref-41] |
 
 **Version 2.x Updates:**[^ref-14]
@@ -239,7 +239,7 @@ The Sierra versions of Silpheed are only available as abandonware, likely due to
 
 Silpheed holds an important place in video game history as one of the notable titles to demonstrate the potential of 3D graphics on home computers. While the gameplay itself follows familiar shoot-em-up conventions, the technical achievements of rendering real-time polygons on 8-bit hardware were remarkable for 1986. The game established Game Arts as a technically ambitious developer, a reputation they would maintain through subsequent releases including the Lunar and Grandia RPG series.[^ref-12]
 
-The game's influence extended beyond its immediate commercial success. The tilted 3D perspective and polygonal ship designs are believed to have inspired Nintendo's Star Fox, which would bring similar visual concepts to console audiences years later.[^ref-43][^ref-20] Silpheed also demonstrated that high-quality music could be a significant selling point for computer games, helping to elevate expectations for game audio throughout the industry.[^ref-5][^ref-6]
+The game's influence extended beyond its immediate commercial success. The tilted 3D perspective and polygonal ship designs are believed to have inspired Nintendo's Star Fox, which would bring similar visual concepts to console audiences years later.[^ref-20][^ref-43] Silpheed also demonstrated that high-quality music could be a significant selling point for computer games, helping to elevate expectations for game audio throughout the industry.[^ref-5][^ref-6]
 
 ## Downloads
 

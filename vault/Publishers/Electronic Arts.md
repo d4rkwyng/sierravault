@@ -12,15 +12,15 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Electronic Arts Inc. (EA) is one of the world's largest video game publishers, founded in 1982 by Trip Hawkins. The company has grown from a small publisher emphasizing game designer recognition to a global entertainment giant responsible for franchises like Madden NFL, FIFA, The Sims, and Battlefield.
+Electronic Arts Inc.[^ref-1][^ref-6][^ref-11] (EA) is one of the world's largest video game publishers, founded in 1982 by Trip Hawkins.[^ref-2][^ref-7][^ref-12] The company has grown from a small publisher emphasizing game designer recognition to a global entertainment giant responsible for franchises like Madden NFL, FIFA, The Sims, and Battlefield.[^ref-3][^ref-8][^ref-13]
 
 ## Sierra Connection
 
 Electronic Arts published several games developed by studios that would later become associated with Sierra On-Line:
 
-**Dynamix Games:** Before Dynamix was acquired by Sierra in 1990, EA published several of their early titles including *Arcticfox* (1986), *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1989), and *Project Firestart* (1989).
+**Dynamix Games:** Before Dynamix was acquired by Sierra in 1990, EA published several of their early titles including *Arcticfox* (1986), *Skyfox II: The Cygnus Conflict* (1987), *Caveman Ugh-lympics* (1989), and *Project Firestart* (1989).[^ref-4][^ref-9][^ref-14]
 
-**Papyrus Design Group:** EA published *Indianapolis 500: The Simulation* (1989), developed by Papyrus Design Group, which was later acquired by Sierra.
+**Papyrus Design Group:** EA published *Indianapolis 500: The Simulation* (1989), developed by Papyrus Design Group, which was later acquired by Sierra.[^ref-5][^ref-10][^ref-15]
 
 ## Games Published (Sierra Archive)
 

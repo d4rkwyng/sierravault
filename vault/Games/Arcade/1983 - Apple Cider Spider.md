@@ -109,7 +109,7 @@ The original Apple II version was programmed entirely in machine language by Iva
 
 The game was released under Sierra's SierraVision label, which was used for their arcade-style action games as distinct from their adventure game line[^ref-7]. The C64 version was distributed on both disk and tape formats, with PAL compatibility for European markets[^ref-4][^ref-15].
 
-**Development Credits:**[^ref-4][^ref-1]
+**Development Credits:**[^ref-1][^ref-4]
 - **Designer/Original Programmer:** Ivan Strand
 - **C64 Coder:** R.B. Stuart
 - **C64 Musician:** R.B. Stuart

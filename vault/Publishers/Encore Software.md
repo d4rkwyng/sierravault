@@ -12,23 +12,23 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Encore Software, LLC is an American interactive software publisher and developer specializing in PC and Mac applications for personal productivity, education, typing training, home design, gaming, and entertainment.[^ref-1] Founded in 1994 by Michael Bell and Michael Wegmann in a basement apartment in Venice, California, the company has grown to become a top interactive software publisher.[^ref-2]
+Encore Software, LLC is an American interactive software publisher and developer specializing in PC and Mac applications for personal productivity, education, typing training, home design, gaming, and entertainment.[^ref-1] Founded in 1994 by Michael Bell and Michael Wegmann in a basement apartment in Venice, California, the company has grown to become a top interactive software publisher.[^ref-2][^ref-6]
 
-Encore is particularly notable in the Sierra Games archive for their continuation of the Hoyle series, publishing numerous Hoyle card, casino, and board game titles from 2005 through the 2010s after acquiring publishing rights from the Sierra catalog.
+Encore is particularly notable in the Sierra Games archive for their continuation of the Hoyle series, publishing numerous Hoyle card, casino, and board game titles from 2005 through the 2010s after acquiring publishing rights from the Sierra catalog.[^ref-14]
 
 ## History
 
 ### Founding and Early Growth (1994-2000)
 
-Mike Bell and Michael Wegmann founded Encore Software Inc. in 1994, initially finding success with bundled previously released software.[^ref-2] By 1998, Encore began developing original content, entering the educational market with titles like "Math Advantage" and bundles such as "Family MegaHits."[^ref-3] The company grew an average of 80% per year during its first six years, earning recognition from Inc. Magazine as one of the fastest-growing privately held companies.[^ref-3]
+Mike Bell and Michael Wegmann founded Encore Software Inc.[^ref-5] in 1994, initially finding success with bundled previously released software.[^ref-2][^ref-7] By 1998, Encore began developing original content, entering the educational market with titles like "Math Advantage" and bundles such as "Family MegaHits."[^ref-3][^ref-8] The company grew an average of 80% per year during its first six years, earning recognition from Inc. Magazine as one of the fastest-growing privately held companies.[^ref-3][^ref-9]
 
 ### Navarre Acquisition and Expansion (2002-2008)
 
-In October 1994, Encore Software became a majority-owned subsidiary of Navarre Corporation, a Minneapolis-based distributor of home entertainment and multimedia software.[^ref-4] In August 2002, Encore signed a publishing agreement with JoWooD Productions Software AG for the marketing and distribution of nine games throughout North America.[^ref-4]
+In October 1994, Encore Software became a majority-owned subsidiary of Navarre Corporation, a Minneapolis-based distributor of home entertainment and multimedia software.[^ref-4][^ref-10] In August 2002, Encore signed a publishing agreement with JoWooD Productions Software AG for the marketing and distribution of nine games throughout North America.[^ref-4][^ref-11]
 
 ### Broderbund License (2008-Present)
 
-In November 2008, Encore announced an expanded license with Riverdeep, under which Encore now manages the Broderbund family of products as well as Broderbund's direct-to-consumer business.[^ref-1] This significantly expanded their catalog of classic software titles.
+In November 2008, Encore announced an expanded license with Riverdeep, under which Encore now manages the Broderbund family of products as well as Broderbund's direct-to-consumer business.[^ref-1][^ref-12] This significantly expanded their catalog of classic software titles.
 
 ## Sierra Connection
 
@@ -51,7 +51,7 @@ Encore Software acquired publishing rights to the Hoyle series, originally creat
 
 ## Current Status
 
-Encore Software continues to operate as an interactive software publisher, selling products directly to customers through their managed websites in addition to retail publishing. The company is based in the San Francisco Bay Area.[^ref-1]
+Encore Software continues to operate as an interactive software publisher, selling products directly to customers through their managed websites in addition to retail publishing. The company is based in the San Francisco Bay Area.[^ref-1][^ref-13]
 
 ## References
 

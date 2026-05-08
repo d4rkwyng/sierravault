@@ -56,7 +56,7 @@ The heads-up display provides targeting brackets around enemy aircraft to assist
 
 ### Structure and Progression
 
-The single-player campaign comprises 23 missions in the PC version, with the PlayStation 3 release expanding this to 36 varied levels[^ref-8][^ref-1]. Missions are structured around specific objectives that players must complete to advance, though the lack of a checkpoint system meant that failure required restarting entire missions[^ref-2]. This design choice proved controversial, with critics describing the game as employing a "die-until-you-get-lucky approach" that frustrated players rather than challenging them fairly[^ref-2].
+The single-player campaign comprises 23 missions in the PC version, with the PlayStation 3 release expanding this to 36 varied levels[^ref-1][^ref-8]. Missions are structured around specific objectives that players must complete to advance, though the lack of a checkpoint system meant that failure required restarting entire missions[^ref-2]. This design choice proved controversial, with critics describing the game as employing a "die-until-you-get-lucky approach" that frustrated players rather than challenging them fairly[^ref-2].
 
 Progression through the campaign unlocks access to new aircraft, with 8 different planes available to earn through gameplay[^ref-3]. Starting aircraft like the Albatross D.III are described as slow planes with limited damage output but exceptional durability, while advanced unlockables like the Fokker Eindecker offer different performance characteristics[^ref-8]. The game features 20 total historic WWI planes according to marketing materials, including iconic aircraft such as the Sopwith Camel and the Baron's famous Fokker[^ref-9].
 
@@ -116,7 +116,7 @@ The game ultimately survived the transition, though its development appears to h
 
 ### Technical Achievements
 
-Red Baron Arcade featured support for online multiplayer accommodating up to 8 simultaneous players through GameSpy integration[^ref-3]. This represented the game's primary technical ambition, allowing players to engage in competitive dogfighting matches beyond the single-player campaign. The multiplayer functionality was undermined by sparse player populations on PC and connectivity issues including lag and host dropouts on PlayStation 3[^ref-7][^ref-2].
+Red Baron Arcade featured support for online multiplayer accommodating up to 8 simultaneous players through GameSpy integration[^ref-3]. This represented the game's primary technical ambition, allowing players to engage in competitive dogfighting matches beyond the single-player campaign. The multiplayer functionality was undermined by sparse player populations on PC and connectivity issues including lag and host dropouts on PlayStation 3[^ref-2][^ref-7].
 
 ### Technical Specifications
 
@@ -141,7 +141,7 @@ Red Baron Arcade featured support for online multiplayer accommodating up to 8 s
 
 Red Baron Arcade suffered from numerous technical problems across both platforms. Amazon customers reported that the game "hangs up frequently on Vista, Win XP and Win 95 machines"[^ref-9]. The PlayStation 3 version exhibited more severe issues including choppy graphics despite modest visual fidelity, poor framerate during gameplay, and long loading times exceeding 20 seconds for brief missions[^ref-7].
 
-Additional bugs included "ridiculous bounding boxes causing cheap deaths," problems with the camera during bombing runs, and a turbo button described as "about as powerful as a fart in a hurricane"[^ref-6][^ref-7]. Online multiplayer suffered from persistent lag issues and frequent host disconnections that rendered the mode largely unplayable[^ref-7][^ref-6].
+Additional bugs included "ridiculous bounding boxes causing cheap deaths," problems with the camera during bombing runs, and a turbo button described as "about as powerful as a fart in a hurricane"[^ref-6][^ref-7]. Online multiplayer suffered from persistent lag issues and frequent host disconnections that rendered the mode largely unplayable[^ref-6][^ref-7].
 
 ### Version History
 

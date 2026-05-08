@@ -32,7 +32,7 @@ Released initially in France and Germany in 1995, the game arrived in the United
 > **Developer:** [[Coktel Vision]][^ref-1]
 > **Publisher:** [[Sierra On-Line]][^ref-2]
 > **Engine:** Gob Engine[^ref-7]
-> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-3][^ref-1]
+> **Platforms:** Windows 3.x, Windows 95, Macintosh[^ref-1][^ref-3]
 > **Release Year:** 1995 (Europe), 1996 (North America)[^ref-8]
 > **Series:** Playtoons
 > **Protagonist:** Prince Arthur
@@ -147,7 +147,7 @@ A significant technical achievement for Playtoons 3 was its implementation of co
 |---------|------|----------|--------|-------|
 | 1.0 | 1995 | Windows 3.x | France, Germany | Initial European release[^ref-8] |
 | 1.0 | 1995 | Macintosh | Europe | Hybrid CD-ROM[^ref-6] |
-| 1.0 | 1996 | Windows 3.x/95 | USA, Canada | North American release[^ref-9][^ref-3] |
+| 1.0 | 1996 | Windows 3.x/95 | USA, Canada | North American release[^ref-3][^ref-9] |
 
 **Localized Versions:**[^ref-6]
 - **English:** 170.71 MiB ISO

@@ -22,7 +22,7 @@ tags: [2000s, hoyle-card-games, sierra]
 
 ## Overview
 
-Hoyle Card Games 2005 is a comprehensive digital card game collection released by [[Sierra On-Line]] in September 2004 for Windows PC, with additional versions for Pocket PC and Palm Organizer platforms released in January 2005[^ref-9][^ref-2]. The game represents one of the later entries in the long-running Hoyle series, which had been a staple of Sierra's catalog since the late 1980s[^ref-3][^ref-14][^ref-16][^ref-17]. This edition features over 30 classic card games including Bridge, Hearts, Gin, Solitaire, and Seven-Card Stud, along with in-game tutorials designed to help players improve their skills[^ref-4][^ref-2].
+Hoyle Card Games 2005 is a comprehensive digital card game collection released by [[Sierra On-Line]] in September 2004 for Windows PC, with additional versions for Pocket PC and Palm Organizer platforms released in January 2005[^ref-2][^ref-9]. The game represents one of the later entries in the long-running Hoyle series, which had been a staple of Sierra's catalog since the late 1980s[^ref-3][^ref-14][^ref-16][^ref-17]. This edition features over 30 classic card games including Bridge, Hearts, Gin, Solitaire, and Seven-Card Stud, along with in-game tutorials designed to help players improve their skills[^ref-2][^ref-4].
 
 The 2005 edition introduced several notable features that set it apart from previous iterations, including an innovative achievement system that was remarkably ahead of its time—predating the widespread adoption of achievements in video games by several years[^ref-3]. The game also featured a Facemaker character customization system, allowing players to create personalized avatars with different eyes, hair, and facial features, as well as a virtual currency system called "Hoyle Bucks"[^ref-6]. With adjustable skill levels ranging from amateur to professional and 10 interactive computer opponents to play against, the game aimed to provide an accessible yet challenging experience for players of all ages[^ref-6].
 
@@ -31,7 +31,7 @@ Despite Sierra's corporate restructuring during this period, which would eventua
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment, Inc.[^ref-7]
 > **Designer:** Ryan Spain[^ref-7]
-> **Publisher:** Sierra Entertainment, Inc. / Encore, Inc. / VU Games[^ref-7][^ref-4][^ref-2]
+> **Publisher:** Sierra Entertainment, Inc. / Encore, Inc. / VU Games[^ref-2][^ref-4][^ref-7]
 > **Engine:** Unknown
 > **Platforms:** Windows, Pocket PC, Palm Organizer[^ref-2][^ref-7]
 > **Release Year:** 2004
@@ -43,7 +43,7 @@ Despite Sierra's corporate restructuring during this period, which would eventua
 
 As a card game compilation, Hoyle Card Games 2005 does not feature a traditional narrative story. Instead, the game provides a social simulation framework where players compete against various computer-controlled opponents across multiple card games[^ref-6]. The setting is designed to evoke the atmosphere of casual card playing, whether at a family gathering or a friendly poker night.
 
-Players create their own avatar using the Facemaker system, selecting from various preset options for eyes, hair, and other facial features to represent themselves during gameplay[^ref-8][^ref-6]. These customized characters then interact with 10 pre-designed computer opponents, each with their own playing styles and personalities[^ref-6].
+Players create their own avatar using the Facemaker system, selecting from various preset options for eyes, hair, and other facial features to represent themselves during gameplay[^ref-6][^ref-8]. These customized characters then interact with 10 pre-designed computer opponents, each with their own playing styles and personalities[^ref-6].
 
 The game's progression system revolves around the Hoyle Bucks virtual currency, which players earn through successful gameplay[^ref-6]. This currency system adds a light competitive element to the experience without involving real money, making it appropriate for family play while still providing stakes for more serious card game enthusiasts[^ref-6].
 
@@ -51,13 +51,13 @@ The game's progression system revolves around the Hoyle Bucks virtual currency, 
 
 ### Interface and Controls
 
-Hoyle Card Games 2005 utilizes a point-and-click interface typical of card game compilations from this era[^ref-8]. Players navigate through game selection menus and interact with cards using mouse controls, with the interface designed to be accessible to players of all ages and experience levels[^ref-8]. The game includes comprehensive in-game tutorials and strategy guides to help newcomers learn the rules and techniques of various card games[^ref-4][^ref-2].
+Hoyle Card Games 2005 utilizes a point-and-click interface typical of card game compilations from this era[^ref-8]. Players navigate through game selection menus and interact with cards using mouse controls, with the interface designed to be accessible to players of all ages and experience levels[^ref-8]. The game includes comprehensive in-game tutorials and strategy guides to help newcomers learn the rules and techniques of various card games[^ref-2][^ref-4].
 
 ### Structure and Progression
 
-The game offers over 30 classic card games organized into several categories[^ref-4][^ref-2]:
+The game offers over 30 classic card games organized into several categories[^ref-2][^ref-4]:
 
-- **Competitive Card Games:** Hearts, Spades, Cribbage, Euchre, Pitch, Bridge, Gin[^ref-6][^ref-2]
+- **Competitive Card Games:** Hearts, Spades, Cribbage, Euchre, Pitch, Bridge, Gin[^ref-2][^ref-6]
 - **Family Games:** Go Fish, Old Maid, War, Memory Match[^ref-6]
 - **Poker Variants:** Seven-Card Stud and other poker games[^ref-2]
 - **Solitaire Games:** Multiple solitaire variations[^ref-6]
@@ -139,14 +139,14 @@ Users attempting to run the game on modern systems have also encountered install
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 14, 2004 | Windows | Initial PC release[^ref-9][^ref-4] |
+| 1.0 | September 14, 2004 | Windows | Initial PC release[^ref-4][^ref-9] |
 | Mobile | January 1, 2005 | Pocket PC, Palm | Handheld versions[^ref-2] |
 
 ### Easter Eggs and Trivia
 
 - The Hoyle series historically featured Sierra adventure game characters as opponents, though this tradition had diminished by the 2005 edition[^ref-3]
 - The game included a tarot card reading feature alongside traditional card games[^ref-6]
-- 18 card games were included in total, with variations bringing the count to over 30[^ref-6][^ref-2]
+- 18 card games were included in total, with variations bringing the count to over 30[^ref-2][^ref-6]
 - The boxing gloves feature allowed players to "hit" opponents as a playful interaction during games[^ref-8][^ref-9]
 - The achievement system was described by one retrospective reviewer as being "from 2034," highlighting how advanced it was for the time[^ref-3]
 
@@ -154,7 +154,7 @@ Users attempting to run the game on modern systems have also encountered install
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Hoyle Card Games 2005 are not publicly available, the game was distributed through multiple publishers including Sierra Entertainment, Encore, Inc., and VU Games[^ref-7][^ref-4][^ref-2]. The reduced price point of $20 compared to the previous $30 editions suggests a strategy to maintain market share in the competitive casual gaming market[^ref-6].
+While specific sales figures for Hoyle Card Games 2005 are not publicly available, the game was distributed through multiple publishers including Sierra Entertainment, Encore, Inc., and VU Games[^ref-2][^ref-4][^ref-7]. The reduced price point of $20 compared to the previous $30 editions suggests a strategy to maintain market share in the competitive casual gaming market[^ref-6].
 
 The game has remained available on the secondary market, with price tracking data showing continued interest from collectors and casual gamers seeking physical copies[^ref-13].
 

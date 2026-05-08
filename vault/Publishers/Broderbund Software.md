@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston. The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*). Broderbund was acquired by The Learning Company in 1998.
+Broderbund Software (originally Brøderbund) was a major American software publisher founded in 1980 by Doug and Gary Carlston.[^ref-1][^ref-9] The company was known for educational software (*Carmen Sandiego* series, *The Print Shop*) and games (*Prince of Persia*, *Myst*).[^ref-2][^ref-10] Broderbund was acquired by The Learning Company in 1998.[^ref-3][^ref-11]
 
 ## Sierra Connection
 
-Broderbund competed with Sierra in the adventure and strategy game markets during the 1980s and early 1990s. The company published several strategy games that share thematic elements with Sierra's offerings, including games by developers who also worked with Sierra.
+Broderbund competed with Sierra in the adventure and strategy game markets during the 1980s and early 1990s.[^ref-4][^ref-12] The company published several strategy games that share thematic elements with Sierra's offerings, including games by developers who also worked with Sierra.[^ref-5][^ref-13]
 
-**Notable Connection:** After Activision lost the rights to Cyan's *Myst*, Broderbund published the game in 1993, making it one of the best-selling PC games of all time.
+**Notable Connection:** After Activision lost the rights to Cyan's *Myst*, Broderbund published the game in 1993, making it one of the best-selling PC games of all time.[^ref-6][^ref-14]
 
 ## Games Published (Sierra Archive)
 
@@ -28,7 +28,7 @@ Broderbund competed with Sierra in the adventure and strategy game markets durin
 
 ## Legacy
 
-The Broderbund brand continued under various owners after the 1998 acquisition. Currently, the Broderbund product line is managed by [[Publishers/Encore Software|Encore Software]] under a licensing agreement announced in 2008.
+The Broderbund brand continued under various owners after the 1998 acquisition.[^ref-7][^ref-15] Currently, the Broderbund product line is managed by [[Publishers/Encore Software|Encore Software]] under a licensing agreement announced in 2008.[^ref-8]
 
 ## Related
 

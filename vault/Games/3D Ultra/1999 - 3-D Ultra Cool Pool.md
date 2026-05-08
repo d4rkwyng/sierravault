@@ -22,14 +22,14 @@ last_modified: 2026-03-15T15:49:44-07:00
 
 ## Overview
 
-3-D Ultra Cool Pool is a billiards simulation game developed by [[Dynamix]] through [[Jeff Tunnell Productions]] and published by Sierra Attractions in 1999[^ref-3][^ref-16][^ref-2][^ref-17]. Marketed with the tagline "It's Pool with Attitude!", the game represented the ninth entry in Sierra's popular 3-D Ultra series of casual arcade-style games[^ref-3]. The series, created through the creative and commercial partnership between Dynamix and Sierra, was dedicated to carefree entertainment games where fun dominated above all else[^ref-4].
+3-D Ultra Cool Pool is a billiards simulation game developed by [[Dynamix]] through [[Jeff Tunnell Productions]] and published by Sierra Attractions in 1999[^ref-2][^ref-3][^ref-16][^ref-17]. Marketed with the tagline "It's Pool with Attitude!", the game represented the ninth entry in Sierra's popular 3-D Ultra series of casual arcade-style games[^ref-3]. The series, created through the creative and commercial partnership between Dynamix and Sierra, was dedicated to carefree entertainment games where fun dominated above all else[^ref-4].
 
 The game distinguished itself from traditional pool simulations by combining realistic physics with fantastical gameplay elements that could only exist in a video game[^ref-5]. While offering five classic billiards games on gorgeously-rendered tables, Cool Pool also featured five completely original "cool" games with specially shaped tables, exploding balls, and flying coins[^ref-6]. As one contemporary reviewer noted, "Sharp graphics, brilliantly modeled physics, and a pick up and play interface come together in a wonderful package"[^ref-7].
 
 Cool Pool attempted to recreate the realities of billiards as faithfully as possible while taking full advantage of the three-dimensional environment[^ref-8]. The game supported online multiplayer with text-based chat during play, though Sierra shut down the public servers on August 16, 2007[^ref-3]. Community efforts through the "Online Forever" project at PAuth.com aimed to keep Cool Pool running online, though this service has since ceased operations[^ref-3].
 
 > [!info]- Game Info
-> **Developer:** [[Dynamix]] / [[Jeff Tunnell]] Productions[^ref-3][^ref-2]
+> **Developer:** [[Dynamix]] / [[Jeff Tunnell]] Productions[^ref-2][^ref-3]
 > **Publisher:** Sierra Attractions[^ref-3]
 > **Engine:** Unknown
 > **Platforms:** Windows 95/98[^ref-5]
@@ -136,7 +136,7 @@ The game also pioneered online multiplayer for the 3-D Ultra series, allowing on
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | August 16, 1999 | Windows | Initial release[^ref-5][^ref-2] |
+| 1.0 | August 16, 1999 | Windows | Initial release[^ref-2][^ref-5] |
 | 1.01 | Unknown | Windows | Official patch[^ref-12][^ref-14] |
 
 ### Technical Issues
@@ -181,7 +181,7 @@ A playable demo of approximately 15.6 MB was distributed, featuring Eight Ball a
 
 3-D Ultra Cool Pool represents an interesting intersection between serious sports simulation and casual arcade gaming that characterized late 1990s PC gaming. The 3-D Ultra series successfully carved out a niche for accessible, family-friendly gaming experiences during an era when many developers focused on increasingly complex and demanding titles[^ref-4].
 
-The game's combination of realistic physics with fantastical game modes anticipated the casual gaming boom that would emerge in the 2000s. While it never achieved the status of dedicated billiards simulations like Virtual Pool, Cool Pool found its audience among players seeking lighter entertainment[^ref-7]. The fact that fan communities continue to maintain servers and preserve the game decades after release speaks to its enduring appeal among a dedicated player base[^ref-3][^ref-2].
+The game's combination of realistic physics with fantastical game modes anticipated the casual gaming boom that would emerge in the 2000s. While it never achieved the status of dedicated billiards simulations like Virtual Pool, Cool Pool found its audience among players seeking lighter entertainment[^ref-7]. The fact that fan communities continue to maintain servers and preserve the game decades after release speaks to its enduring appeal among a dedicated player base[^ref-2][^ref-3].
 
 ## Downloads
 

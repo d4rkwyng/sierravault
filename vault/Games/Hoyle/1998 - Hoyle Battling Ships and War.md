@@ -87,7 +87,7 @@ No contemporary reviews from gaming publications have been documented for Hoyle 
 **Aggregate Scores:**
 - No review scores documented on major gaming databases
 
-Modern assessment of Hoyle Battling Ships And War is limited, as the game exists primarily as a historical artifact from Sierra's casual gaming catalog. The game's compatibility with modern systems presents challenges, requiring specific emulation settings or legacy Windows environments to run.[^ref-6][^ref-2]
+Modern assessment of Hoyle Battling Ships And War is limited, as the game exists primarily as a historical artifact from Sierra's casual gaming catalog. The game's compatibility with modern systems presents challenges, requiring specific emulation settings or legacy Windows environments to run.[^ref-2][^ref-6]
 
 Technical documentation from the DOSBox emulation project notes that the game uses PE32-type executables, which require specific CPU emulation settings to function properly.[^ref-6] This technical complexity has limited the game's accessibility to modern players interested in experiencing Sierra's gaming history.
 

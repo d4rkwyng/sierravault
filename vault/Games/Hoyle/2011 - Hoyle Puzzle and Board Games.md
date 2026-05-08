@@ -66,7 +66,7 @@ Players can challenge friends and family on one computer or play against the "wi
 ## Reception
 
 ### Contemporary Reviews
-The game received minimal critical attention from mainstream gaming publications. Metacritic lists the title but shows no critic reviews were aggregated[^ref-11]. The ESRB rated the game "E for Everyone," indicating its family-friendly content[^ref-10][^ref-3].
+The game received minimal critical attention from mainstream gaming publications. Metacritic lists the title but shows no critic reviews were aggregated[^ref-11]. The ESRB rated the game "E for Everyone," indicating its family-friendly content[^ref-3][^ref-10].
 
 ### User Assessment
 User reviews have been generally positive despite the lack of professional critical coverage. My Abandonware users rated the game 4.31 out of 5 based on 26 votes[^ref-1]. Customer reviews describe it as "a good batch of quick games you can play when you just want to take a 5- or 10-minute break from your work"[^ref-5]. One enthusiastic user declared "It is the best games I have played. Love them all" while another stated "One of my favorite games to play!"[^ref-1].
@@ -100,7 +100,7 @@ The transition from Sierra to Encore marked a significant shift in the series' c
 - **Drive:** DVD-ROM drive
 - **Internet:** 33.6 Kbps modem or faster for online features
 
-**Macintosh Version:**[^ref-4][^ref-2]
+**Macintosh Version:**[^ref-2][^ref-4]
 - **Operating System:** Mac OS X 10.4.11 through 10.6 (compatible up to 10.14)
 - **Processor:** Intel Core Solo 1.5 GHz or higher
 - **RAM:** 512 MB, 64MB VRAM

@@ -123,7 +123,7 @@ The CD-ROM version experienced some technical issues with voice playback. Archiv
 
 ## Legacy
 
-Jones in the Fast Lane stands as "one of Sierra's more unusual games, departing from their typical adventure game formula"[^ref-26][^ref-13]. The game's influence can be seen in modern life simulation games, with its board game-strategy hybrid approach being particularly innovative for its time[^ref-32][^ref-7].
+Jones in the Fast Lane stands as "one of Sierra's more unusual games, departing from their typical adventure game formula"[^ref-13][^ref-26]. The game's influence can be seen in modern life simulation games, with its board game-strategy hybrid approach being particularly innovative for its time[^ref-7][^ref-32].
 
 The game demonstrated that Sierra could successfully venture beyond fantasy adventures and murder mysteries into entirely new genres. While the company never developed a direct sequel, the game's critical and commercial success proved there was an audience for life simulation experiences on PC.
 

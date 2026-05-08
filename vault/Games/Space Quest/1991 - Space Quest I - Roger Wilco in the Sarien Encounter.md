@@ -21,9 +21,9 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-4][^ref-2].
+Space Quest I: Roger Wilco in the Sarien Encounter is a 1991 VGA remake of the original 1986 Space Quest: The Sarien Encounter, developed and published by [[Sierra On-Line]] for MS-DOS, Amiga, and Macintosh[^ref-2][^ref-4].
 
-Designed by [[Mark Crowe]] and [[Scott Murphy]], the remake features enhanced 256-color VGA graphics, Sound Blaster support, digitized sounds, and a point-and-click icon interface replacing the original text parser[^ref-4][^ref-3][^ref-5].
+Designed by [[Mark Crowe]] and [[Scott Murphy]], the remake features enhanced 256-color VGA graphics, Sound Blaster support, digitized sounds, and a point-and-click icon interface replacing the original text parser[^ref-3][^ref-4][^ref-5].
 
 The VGA graphics were deliberately drawn in a 1950s B-movie style[^ref-2][^ref-5].
 
@@ -69,7 +69,7 @@ The remake uses Sierra's SCI game engine with a point-and-click interface and ic
 
 ### Puzzles and Mechanics
 - Some puzzles have been slightly changed to accommodate the new interface[^ref-4]
-- As a form of copy protection, coordinates in the VGA version while in the escape pod and the rocket purchased at Tiny's Used Spaceships are only found in the manual[^ref-18][^ref-5]
+- As a form of copy protection, coordinates in the VGA version while in the escape pod and the rocket purchased at Tiny's Used Spaceships are only found in the manual[^ref-5][^ref-18]
 - The code for retrieving the cartridge aboard the Arcada can only be found in the manual[^ref-18]
 - Maximum score is 201 points in VGA (vs 202 in EGA)[^ref-19]
 - **VGA-exclusive actions:** Get widget, get plant, use plant on grate monster, leave Deltaur airlock, get ID card—these replaced several EGA-only actions like lifting the platform and kicking the dead body[^ref-19]

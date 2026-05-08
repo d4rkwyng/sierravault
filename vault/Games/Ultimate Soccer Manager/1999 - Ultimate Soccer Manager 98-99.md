@@ -80,7 +80,7 @@ The game featured a live match engine that allowed players to watch their tactic
 
 Ultimate Soccer Manager 98-99 received generally positive reviews upon release, though opinions varied regarding its competition with the Championship Manager series.
 
-- **Amiga Computing** gave the series 83%, praising the game's graphic approach and coverage of business issues while criticizing the match graphics.[^ref-8][^ref-2]
+- **Amiga Computing** gave the series 83%, praising the game's graphic approach and coverage of business issues while criticizing the match graphics.[^ref-2][^ref-8]
 - **PC Format** awarded 85% to the series.[^ref-2]
 - **Amiga Format** also scored it 85%.[^ref-2]
 - **Joystick** gave the 1999 release 79%.[^ref-2]
@@ -135,7 +135,7 @@ The game laid groundwork for future football management games, featuring an exte
 - **Input Devices:** Mouse
 - **Media Type:** CD-ROM
 
-**Download Versions:**[^ref-9][^ref-5]
+**Download Versions:**[^ref-5][^ref-9]
 - **Game Download:** 10.8 MB (compressed)
 - **Full CD with Fix:** 146 MB
 - **Manual:** 354 KB
@@ -143,7 +143,7 @@ The game laid groundwork for future football management games, featuring an exte
 
 ### Cut Content
 
-Ultimate Soccer Manager 2000 was planned as the next evolution of the series, set to feature an all-new 3D match engine with advanced Artificial Intelligence and completely rewritten coding.[^ref-8] However, Sierra UK became impatient with development progress and the project was ultimately scrapped, making USM 98-99 the final entry in the series.[^ref-8][^ref-2]
+Ultimate Soccer Manager 2000 was planned as the next evolution of the series, set to feature an all-new 3D match engine with advanced Artificial Intelligence and completely rewritten coding.[^ref-8] However, Sierra UK became impatient with development progress and the project was ultimately scrapped, making USM 98-99 the final entry in the series.[^ref-2][^ref-8]
 
 ### Version History
 
@@ -162,7 +162,7 @@ Ultimate Soccer Manager 2000 was planned as the next evolution of the series, se
 
 The game suffered from several technical problems that affected long-term playability:
 
-- **8th Season Crash Bug:** The game would crash after playing multiple seasons, addressed in patch 1.0.1.1[^ref-17][^ref-2]
+- **8th Season Crash Bug:** The game would crash after playing multiple seasons, addressed in patch 1.0.1.1[^ref-2][^ref-17]
 - **Windows XP Compatibility:** The game does not run properly on Windows XP or later operating systems[^ref-2][^ref-10]
 - **64-bit Systems:** Does not work natively on Windows Vista or 64-bit systems[^ref-10]
 - **Player Information Bug:** No possibility of viewing detailed info on some players[^ref-8]

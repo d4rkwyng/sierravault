@@ -124,7 +124,7 @@ Casino Deluxe 2 showcased 3D SVGA graphics that were advanced for gambling simul
 - **Colors:** 256 colors[^ref-9]
 - **Media:** CD-ROM[^ref-8]
 - **Hardware Requirements:** VESA compatible display, Mouse[^ref-15]
-- **File Size:** Approximately 108-158 MB[^ref-9][^ref-8]
+- **File Size:** Approximately 108-158 MB[^ref-8][^ref-9]
 - **Control:** Mouse, Keyboard[^ref-4]
 
 ### Technical Issues

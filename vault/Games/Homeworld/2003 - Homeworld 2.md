@@ -227,7 +227,7 @@ Voice recording for the original game was produced at Studio X Labs, with Campbe
 
 Despite critical praise, Homeworld 2 achieved only modest commercial performance upon its 2003 release, falling short of major financial success due to limited promotion by publisher Sierra Entertainment[^ref-12]. The game leveraged the fanbase established by the original Homeworld but did not significantly expand it[^ref-12]. Approximately 1.2 million units were sold on Steam for the 2015 remastered edition, indicating sustained interest over time[^ref-12].
 
-The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-40][^ref-12].
+The franchise changed hands multiple times following release. THQ acquired the Homeworld IP from Sierra/Vivendi in 2007 but subsequently ignored it for years[^ref-39]. When THQ filed for bankruptcy in 2013, the rights were auctioned off. Gearbox Software's Chief Creative Officer Brian Martel, described as having "great love and respect for Relic's brilliant, fun and innovative game," personally spearheaded the acquisition for $1.35 million[^ref-12][^ref-40].
 
 ### Collections
 

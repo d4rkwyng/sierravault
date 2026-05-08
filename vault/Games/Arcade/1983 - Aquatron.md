@@ -24,7 +24,7 @@ tags: [1980s, none, shooter, sierra]
 
 Aquatron is a horizontally scrolling shooter developed by Justin Gray and published by Sierra On-Line in 1983 for Apple II and Atari 8-bit computers.[^ref-1][^ref-2] The game takes clear inspiration from Williams Electronics' influential 1981 arcade hit *Defender*, transplanting the frantic action gameplay to a planet entirely covered by water.[^ref-3][^ref-7] Players control a spacecraft capable of operating both above and below the ocean surface, battling enemy fighters in the sky and submarines beneath the waves in an endless pursuit of high scores.[^ref-5]
 
-The game arrived during what some retrocomputing enthusiasts have called the "golden age" of Atari arcade games, though its release was unfortunately timed to coincide with the video game crash of 1983.[^ref-3][^ref-6] Aquatron distinguished itself from other Apple II titles of its era through its blend of fast-paced action and resource management elements, requiring players to protect their supply zeppelin while managing ammunition and shield energy.[^ref-7][^ref-5] Sierra's marketing emphasized this dual-environment approach, promoting it as combining "arcade air battles and video sea battles" into "one exciting game."[^ref-8]
+The game arrived during what some retrocomputing enthusiasts have called the "golden age" of Atari arcade games, though its release was unfortunately timed to coincide with the video game crash of 1983.[^ref-3][^ref-6] Aquatron distinguished itself from other Apple II titles of its era through its blend of fast-paced action and resource management elements, requiring players to protect their supply zeppelin while managing ammunition and shield energy.[^ref-5][^ref-7] Sierra's marketing emphasized this dual-environment approach, promoting it as combining "arcade air battles and video sea battles" into "one exciting game."[^ref-8]
 
 Despite receiving mixed contemporary reviews, Aquatron earned praise for its technical achievements on the Apple II platform, featuring smooth scrolling backgrounds and detailed sprite animations that pushed the hardware's capabilities.[^ref-7] The game would later gain appreciation among retro gaming enthusiasts as a competent *Defender* clone that arrived on home computers before Atari's own official conversion.[^ref-6][^ref-18][^ref-19][^ref-20]
 
@@ -120,7 +120,7 @@ The game achieved smooth scrolling action that one retrospective noted was "very
 
 ### Technical Specifications
 
-**Apple II Version:**[^ref-10][^ref-8]
+**Apple II Version:**[^ref-8][^ref-10]
 - **Memory Required:** 48K minimum
 - **Media:** 5.25" Floppy Disk
 - **Disk Format:** DOS 3.3
@@ -143,7 +143,7 @@ The rushed disk release of the Atari version left several elements feeling incom
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
 | 1.0 | 1983 | Atari 8-bit | Initial release on disk[^ref-5] |
-| 1.0 | 1983/1984 | Apple II | Release timing disputed between sources[^ref-14][^ref-5] |
+| 1.0 | 1983/1984 | Apple II | Release timing disputed between sources[^ref-5][^ref-14] |
 | Archive | 2014 | Atari 8-bit | Internet Archive preservation[^ref-9] |
 | WOZ | 2018-07-29 | Apple II | Woz-a-day preservation by 4am and san inc[^ref-8] |
 
@@ -194,7 +194,7 @@ No official hint book, strategy guide, or manual has been documented as currentl
 
 Aquatron occupies an interesting position in Sierra On-Line's history as an example of the company's diversification efforts during the early 1980s. While Sierra would become synonymous with graphic adventure games, titles like Aquatron demonstrate their willingness to publish arcade-style action games that could compete with the popular coin-op experiences of the era.[^ref-6]
 
-The game represents a competent execution of an established formula rather than a notable innovation. Its dual-environment gameplay—seamlessly transitioning between aerial and underwater combat—provided enough distinction from pure *Defender* clones to justify its existence, while the resource management elements added strategic depth unusual for the genre.[^ref-7][^ref-5] Had it released even a year earlier, before the market crash devastated consumer confidence, Aquatron might be remembered more fondly as one of the better home adaptations of Williams' arcade classic. Instead, it serves as a reminder of how timing and market conditions can overshadow technical and design merit.
+The game represents a competent execution of an established formula rather than a notable innovation. Its dual-environment gameplay—seamlessly transitioning between aerial and underwater combat—provided enough distinction from pure *Defender* clones to justify its existence, while the resource management elements added strategic depth unusual for the genre.[^ref-5][^ref-7] Had it released even a year earlier, before the market crash devastated consumer confidence, Aquatron might be remembered more fondly as one of the better home adaptations of Williams' arcade classic. Instead, it serves as a reminder of how timing and market conditions can overshadow technical and design merit.
 
 Modern retro gaming enthusiasts have given Aquatron warmer reception than its contemporary reviewers, appreciating it as an artifact of early home computer gaming that executed its goals with surprising polish for the era.[^ref-3][^ref-6]
 

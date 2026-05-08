@@ -90,7 +90,7 @@ The game was released simultaneously for Windows and Mac OS platforms in 1996[^r
 
 ### Technical Achievements
 
-Creep Night was notable as "the first pinball game to explore 3D graphics" and "the first pinball to use 3D effects"[^ref-6]. The game utilized CD-ROM technology to deliver high-quality audio and graphics[^ref-5][^ref-3], with a file size of 194 MB and installation size of 313 MB[^ref-4]. The technical specifications included an isometric perspective view and support for various detail and skill-level adjustments[^ref-5].
+Creep Night was notable as "the first pinball game to explore 3D graphics" and "the first pinball to use 3D effects"[^ref-6]. The game utilized CD-ROM technology to deliver high-quality audio and graphics[^ref-3][^ref-5], with a file size of 194 MB and installation size of 313 MB[^ref-4]. The technical specifications included an isometric perspective view and support for various detail and skill-level adjustments[^ref-5].
 
 The game's sound design was a particular technical achievement. As one user noted, "The first pinball to use 3D effects has a sound system that helps to evolve you with the game"[^ref-11], with praise for how the audio immersion complemented the visual experience. The rendering system created animated creatures and supernatural elements across the three main tables that would have been physically impossible in a real pinball machine[^ref-12].
 

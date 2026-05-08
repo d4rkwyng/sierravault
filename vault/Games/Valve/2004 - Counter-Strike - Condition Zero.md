@@ -169,7 +169,7 @@ Valve Anti-Cheat technology was integrated to prevent cheating in online multipl
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-30][^ref-21]
+**Windows Version:**[^ref-21][^ref-30]
 - **Minimum Processor:** 500 MHz
 - **Recommended Processor:** 800 MHz
 - **Minimum RAM:** 96 MB

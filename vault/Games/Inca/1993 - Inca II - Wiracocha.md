@@ -104,7 +104,7 @@ Developed by French studio Coktel Vision[^ref-3][^ref-7], Inca II represented th
 
 ### Production
 
-The game's production involved creating extensive full-motion video sequences and pre-rendered graphics[^ref-12][^ref-11]. As an adventure game with origins in France, the title carried a distinctly European design philosophy that would prove challenging for some international audiences[^ref-17]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12]. The French development team brought their distinctive sensibility to the project, resulting in a game that felt markedly different from American adventure titles of the same era.
+The game's production involved creating extensive full-motion video sequences and pre-rendered graphics[^ref-11][^ref-12]. As an adventure game with origins in France, the title carried a distinctly European design philosophy that would prove challenging for some international audiences[^ref-17]. The voice cast featured Ivan Bond as the villainous Aguirre and Yasmine Moïra as Aclla[^ref-12], while Gilles Douieb composed the musical score[^ref-12]. The French development team brought their distinctive sensibility to the project, resulting in a game that felt markedly different from American adventure titles of the same era.
 
 The production also included creating multiple regional versions, including the special "Série limitée" (Limited Series) edition[^ref-9] which offered additional content for collectors and enthusiasts. This limited edition release demonstrated Sierra's commitment to the European market and their willingness to invest in localized premium versions for dedicated fans.
 

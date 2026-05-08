@@ -21,7 +21,7 @@ tags: [1980s, sierra, standalone]
 
 ## Overview
 
-Mouskattack is an action arcade game developed and published by On-Line Systems (later Sierra On-Line) in 1982.[^ref-1][^ref-14][^ref-2] The game is a Pac-Man variant that casts players as Larry Bain, a plumber working for the fictional "Rodent Rooter" pest control company, tasked with exterminating oversized rats in the notorious underground tunnels known as Rat Alley.[^ref-3][^ref-4] Described as "an unbeatable blend of quick thinking arcade action for one or two players," Mouskattack offered both single and multiplayer modes on home computer platforms during the golden age of maze-chase games.[^ref-5]
+Mouskattack is an action arcade game developed and published by On-Line Systems (later Sierra On-Line) in 1982.[^ref-1][^ref-2][^ref-14] The game is a Pac-Man variant that casts players as Larry Bain, a plumber working for the fictional "Rodent Rooter" pest control company, tasked with exterminating oversized rats in the notorious underground tunnels known as Rat Alley.[^ref-3][^ref-4] Described as "an unbeatable blend of quick thinking arcade action for one or two players," Mouskattack offered both single and multiplayer modes on home computer platforms during the golden age of maze-chase games.[^ref-5]
 
 The game was originally developed for the Atari 400/800 platform in late 1981 before being ported to the Apple II in early 1982 and later to the IBM PC.[^ref-5] While the core gameplay closely resembled Namco's iconic Pac-Man, Mouskattack distinguished itself through its unique pest control theme and the addition of mouse traps as a strategic gameplay element.[^ref-3][^ref-4] The game represented On-Line Systems' continued experimentation with arcade-style action games alongside their growing adventure game catalog during this formative period of the company's history.
 
@@ -64,7 +64,7 @@ The core gameplay involves Larry Bain being pursued by four rats through the maz
 
 ### Contemporary Reviews
 
-As a 1982 release from a smaller publisher, detailed contemporary review scores for Mouskattack are limited in the available research. The game was released during the height of the Pac-Man clone phenomenon, when numerous publishers were producing maze-chase games to capitalize on the arcade hit's popularity.[^ref-6][^ref-5]
+As a 1982 release from a smaller publisher, detailed contemporary review scores for Mouskattack are limited in the available research. The game was released during the height of the Pac-Man clone phenomenon, when numerous publishers were producing maze-chase games to capitalize on the arcade hit's popularity.[^ref-5][^ref-6]
 
 ### Modern Assessment
 
@@ -89,7 +89,7 @@ The original Atari version was developed by John Harris, who was John Williams' 
 
 Following the completion of the Atari original, the game was remade for the Apple II platform by [[Ken Williams]] and Al Nystrom in early 1982.[^ref-5] The Apple II version featured modifications including a different maze layout and slightly altered gameplay mechanics, distinguishing it from the Atari original.[^ref-5] The IBM PC version was later developed by Dick Taylor.[^ref-2]
 
-**Development Credits:**[^ref-5][^ref-2]
+**Development Credits:**[^ref-2][^ref-5]
 - **Atari Version Designer/Programmer:** John Harris
 - **Apple II Version Designers/Programmers:** Ken Williams, Al Nystrom
 - **IBM PC Version Programmer:** Dick Taylor
@@ -160,7 +160,7 @@ Mouskattack occupies an interesting position in early Sierra history as one of s
 
 From a modern perspective, the game is best understood as a competent Pac-Man variant that offered some unique twists through its mouse trap mechanic and pest control theme.[^ref-3][^ref-6] While it failed to achieve commercial success, Mouskattack demonstrates the programming talent present at early On-Line Systems, with John Harris's ability to complete the game in under two weeks showcasing the rapid development cycles that characterized this era of home computer gaming.[^ref-5]
 
-The game's classification as a "Pac Man variant" by multiple sources reflects both its derivative nature and its place within a broader genre of maze-chase games that dominated early 1980s home computing.[^ref-6][^ref-3] For Sierra historians, Mouskattack serves as a reminder that the company's path to adventure game dominance included numerous experiments in other genres.
+The game's classification as a "Pac Man variant" by multiple sources reflects both its derivative nature and its place within a broader genre of maze-chase games that dominated early 1980s home computing.[^ref-3][^ref-6] For Sierra historians, Mouskattack serves as a reminder that the company's path to adventure game dominance included numerous experiments in other genres.
 
 ## Downloads
 

@@ -147,7 +147,7 @@ The original game featured wireframe vector graphics similar to Battlezone, crea
 
 ### Technical Specifications
 
-**DOS Version (1990):**[^ref-25][^ref-15]
+**DOS Version (1990):**[^ref-15][^ref-25]
 - **Graphics:** VGA/256 colors, MCGA modes supported
 - **Audio Devices:** AdLib, Sound Blaster, Roland MT-32, LAPC-I, PC Speaker, Tandy 3 Voice, Tandy DAC
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk, CD-ROM
@@ -193,7 +193,7 @@ No significant cut content has been documented for Stellar 7. The 1990 remake wa
 
 The 1990 DOS remake suffers from speed issues on faster processors, with users reporting "Runs too fast on my pentium."[^ref-15] This was a common problem with DOS games designed for slower hardware.
 
-The Amiga version was criticized for being a relatively direct port from the MS-DOS/VGA version with minimal optimization for Amiga hardware, requiring 1 MB of RAM which was considered excessive for the type of game.[^ref-19][^ref-18]
+The Amiga version was criticized for being a relatively direct port from the MS-DOS/VGA version with minimal optimization for Amiga hardware, requiring 1 MB of RAM which was considered excessive for the type of game.[^ref-18][^ref-19]
 
 Audio recording preservation efforts have noted timing issues and incomplete recordings of the game's soundtrack.[^ref-25]
 

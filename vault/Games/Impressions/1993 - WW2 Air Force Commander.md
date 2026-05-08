@@ -51,7 +51,7 @@ Throughout the various scenarios, players encounter the full spectrum of WWII ai
 
 ### Interface and Controls
 
-WW2 Air Force Commander utilizes a top-down perspective for its strategic gameplay, typical of war strategy games of the early 1990s[^ref-8][^ref-9]. The game supports both keyboard and mouse input, with a Microsoft-compatible mouse recommended for optimal control[^ref-5][^ref-1]. The interface allows players to manage their air force assets, issue commands to squadrons, and monitor the strategic situation across the battlefield.
+WW2 Air Force Commander utilizes a top-down perspective for its strategic gameplay, typical of war strategy games of the early 1990s[^ref-8][^ref-9]. The game supports both keyboard and mouse input, with a Microsoft-compatible mouse recommended for optimal control[^ref-1][^ref-5]. The interface allows players to manage their air force assets, issue commands to squadrons, and monitor the strategic situation across the battlefield.
 
 The game features a turn-based system that distinguishes it from real-time flight simulators of the era[^ref-4]. This approach allows players to carefully consider their strategic options without the pressure of real-time decision-making, making it accessible to strategy enthusiasts who prefer methodical gameplay over twitch reflexes.
 
@@ -181,7 +181,7 @@ WW2 Air Force Commander has been preserved as part of the MS-DOS Classic Games c
 
 ### Fan Projects
 
-As an older strategy title with a relatively niche audience, WW2 Air Force Commander has not spawned significant fan remake projects. However, the game remains available through abandonware preservation efforts, with multiple sites hosting playable versions[^ref-7][^ref-10][^ref-4].
+As an older strategy title with a relatively niche audience, WW2 Air Force Commander has not spawned significant fan remake projects. However, the game remains available through abandonware preservation efforts, with multiple sites hosting playable versions[^ref-4][^ref-7][^ref-10].
 
 ### Related Publications
 

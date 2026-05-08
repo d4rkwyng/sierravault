@@ -217,7 +217,7 @@ Common compatibility issues include:
 | Tailor | D.J. Williams |
 | Elf / Harpy | Nancy Zdenek |
 
-Voice acting was performed primarily by Sierra staff members rather than professional actors, which contributed to the mixed reception of the CD-ROM version's voice work.[^ref-29][^ref-23]
+Voice acting was performed primarily by Sierra staff members rather than professional actors, which contributed to the mixed reception of the CD-ROM version's voice work.[^ref-23][^ref-29]
 
 ## Legacy
 

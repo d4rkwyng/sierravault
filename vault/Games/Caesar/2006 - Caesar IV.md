@@ -146,7 +146,7 @@ The orchestral soundtrack comprises over 100 minutes of music with 21 full orche
 
 ### Technical Achievements
 
-Caesar IV was built on the Titan Engine, featuring what Sierra described as "cutting edge 3D graphics engine developed specifically for the title"[^ref-5]. The engine supported high dynamic range lighting, specular and bump mapping, real-time shadowing, water reflections, and dynamic weather effects[^ref-29][^ref-23]. A complete day-night cycle affected gameplay and visuals, while the camera could zoom from street-level views to panoramic overviews of entire cities[^ref-16].
+Caesar IV was built on the Titan Engine, featuring what Sierra described as "cutting edge 3D graphics engine developed specifically for the title"[^ref-5]. The engine supported high dynamic range lighting, specular and bump mapping, real-time shadowing, water reflections, and dynamic weather effects[^ref-23][^ref-29]. A complete day-night cycle affected gameplay and visuals, while the camera could zoom from street-level views to panoramic overviews of entire cities[^ref-16].
 
 The game's audio system utilized industry-standard middleware including Bink Video, Miles Sound System, and Granny Animation from RAD Game Tools[^ref-29]. Keith Zizza designed a custom audio engine that supported interactive and adaptive music, with soundscapes responding dynamically to on-screen events[^ref-40].
 
@@ -195,7 +195,7 @@ Copy protection utilized SecuROM v7 (version 7.27) for retail versions, with Act
 - The US launch release was bundled with the History Channel documentary "Rome: Engineering an Empire," which won two Emmy Awards[^ref-4].
 - The game includes cheat codes accessible via console: "denarii" sets the player's money amount, and "win" immediately completes the current scenario[^ref-33].
 - The demo, released on FilePlanet in August 2006, was set in the province of Narbonensis and provided players with more starting cash than "Donald Trumpus"[^ref-16].
-- Official multiplayer servers were shut down on November 1, 2008 following the Activision-Blizzard merger with Sierra[^ref-45][^ref-4].
+- Official multiplayer servers were shut down on November 1, 2008 following the Activision-Blizzard merger with Sierra[^ref-4][^ref-45].
 - The ESRB rated the game E10+ for Everyone 10 and older, citing Violence and Use of Alcohol[^ref-23].
 
 ## Voice Cast
@@ -222,7 +222,7 @@ Copy protection utilized SecuROM v7 (version 7.27) for retail versions, with Act
 | Various | Peter Sandon |
 | Various | Joe Thomas |
 
-Voice dialogue assistance provided by Jeff Seamster[^ref-46][^ref-40].
+Voice dialogue assistance provided by Jeff Seamster[^ref-40][^ref-46].
 
 ## Legacy
 
@@ -250,7 +250,7 @@ When online servers were scheduled for shutdown following the Activision-Blizzar
 
 ### Critical Perspective
 
-Caesar IV occupies an interesting position in city-building game history—arriving after an eight-year gap in its own series and competing directly against two other Roman-themed builders released the same year: CivCity: Rome and Glory of the Roman Empire[^ref-27][^ref-25]. While reviewers generally agreed it offered superior strategic depth to its competitors, the game's technical issues and dated interface prevented it from achieving the classic status of its predecessor.
+Caesar IV occupies an interesting position in city-building game history—arriving after an eight-year gap in its own series and competing directly against two other Roman-themed builders released the same year: CivCity: Rome and Glory of the Roman Empire[^ref-25][^ref-27]. While reviewers generally agreed it offered superior strategic depth to its competitors, the game's technical issues and dated interface prevented it from achieving the classic status of its predecessor.
 
 The game represents both the culmination and conclusion of the traditional Caesar formula. Chris Beatrice later reflected that "City-building games work better with clear, 2D graphics, I think" and expressed belief that "a modern take on the Caesar style of gameplay would work well"[^ref-37]. The franchise has not seen a new entry since, though Caesar IV continues to inspire developers—Zeljko Kos of Siscia Games cited it alongside Caesar III and Pharaoh as primary inspirations for the 2026 game Pompeii: The Legacy[^ref-49].
 

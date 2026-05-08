@@ -107,7 +107,7 @@ The developers actually visited San Francisco to accurately represent city locat
 
 Development used Sierra's Adventure Game Interpreter (AGI), despite the newer SCI system being available by the time of Manhunter 2's development.[^ref-7] The game represents one of the last titles to use the AGI engine, with only King's Quest IV sharing that distinction among later releases.[^ref-17] The technical accomplishments with the AGI engine were impressive given that the engine wasn't designed for the type of game Evryware was creating.[^ref-3]
 
-**Development Credits:**[^ref-15][^ref-2]
+**Development Credits:**[^ref-2][^ref-15]
 - **Designers:** Barry Murry, Dave Murry, Dee Dee Murry
 - **Additional Design:** Barbara Ward
 - **Composer:** Barry Murry

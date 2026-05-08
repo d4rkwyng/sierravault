@@ -67,7 +67,7 @@ The campaign takes approximately 8-15 hours to complete depending on playstyle, 
 
 ### Puzzles and Mechanics
 
-The defining gameplay innovation of Gunman Chronicles is its configurable weapons system. Rather than the standard primary/secondary fire modes common to shooters of the era, each weapon features a complex customization menu accessed via right-click.[^ref-30] This system allows players to adjust numerous parameters, resulting in up to 32 different configurations per weapon and potentially 625 total fire mode combinations across the arsenal.[^ref-26][^ref-13]
+The defining gameplay innovation of Gunman Chronicles is its configurable weapons system. Rather than the standard primary/secondary fire modes common to shooters of the era, each weapon features a complex customization menu accessed via right-click.[^ref-30] This system allows players to adjust numerous parameters, resulting in up to 32 different configurations per weapon and potentially 625 total fire mode combinations across the arsenal.[^ref-13][^ref-26]
 
 One reviewer described it as "a great, if somewhat unwieldy, idea. Instead of simply having the standard two modes of fire, Gunman allows you to right click and choose one of multiple ways to shoot your gun."[^ref-25] The weapons were praised for obeying "the laws of physics but doing things never done before in a game."[^ref-5]
 
@@ -142,7 +142,7 @@ The financial arrangement proved disappointing for the developers. After Sierra 
 
 ### Technical Achievements
 
-Gunman Chronicles was the first standalone commercial game to license the GoldSrc engine outside of Valve's own titles.[^ref-18] The game featured the same special effects and dynamic AI found in Half-Life while adding its own innovations, particularly the sophisticated weapon customization system allowing up to 625 different fire mode configurations.[^ref-28][^ref-26]
+Gunman Chronicles was the first standalone commercial game to license the GoldSrc engine outside of Valve's own titles.[^ref-18] The game featured the same special effects and dynamic AI found in Half-Life while adding its own innovations, particularly the sophisticated weapon customization system allowing up to 625 different fire mode configurations.[^ref-26][^ref-28]
 
 The game supported 3D positional surround sound and could render graphics using either Direct3D or OpenGL APIs.[^ref-2] The visual design deliberately mixed anachronistic elements, with characters wearing "19th-century cavalry and WWII flying ace uniforms" despite the futuristic setting.[^ref-18][^ref-25]
 
@@ -222,7 +222,7 @@ A particularly severe bug affects the Steam conversion patch version, causing ga
 | The Scientist | Jim French |
 | Additional Voices | Peter Immarco |
 
-[^ref-38][^ref-10]
+[^ref-10][^ref-38]
 
 ## Legacy
 

@@ -22,11 +22,11 @@ tags: [1980s, adventure, al-lowe, leisure-suit-larry, sci, sierra]
 
 ## Overview
 
-Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals is the third installment in Sierra On-Line's adult-oriented adventure game series, released in November 1989[^ref-1][^ref-43]. Designed by Al Lowe, the game marked a significant departure from its predecessor by introducing dual protagonists and returning to the more adult-themed content that made the original game a success[^ref-2]. Built using Sierra's Creative Interpreter (SCI0) engine, the game utilized 16-color EGA graphics at 320×200 resolution and featured a larger repertoire of MIDI music compared to earlier entries, with music composed by Al Lowe, Mark Seibert, and Mike Dana[^ref-3][^ref-18][^ref-15].
+Leisure Suit Larry III: Passionate Patti in Pursuit of the Pulsating Pectorals is the third installment in Sierra On-Line's adult-oriented adventure game series, released in November 1989[^ref-1][^ref-43]. Designed by Al Lowe, the game marked a significant departure from its predecessor by introducing dual protagonists and returning to the more adult-themed content that made the original game a success[^ref-2]. Built using Sierra's Creative Interpreter (SCI0) engine, the game utilized 16-color EGA graphics at 320×200 resolution and featured a larger repertoire of MIDI music compared to earlier entries, with music composed by Al Lowe, Mark Seibert, and Mike Dana[^ref-3][^ref-15][^ref-18].
 
 The game was initially intended to be the final chapter in what Lowe and his design team conceived as a trilogy[^ref-1][^ref-36].
 
-However, its commercial success led Sierra to continue the series—the game sold over 250,000 copies according to Al Lowe[^ref-40][^ref-26].
+However, its commercial success led Sierra to continue the series—the game sold over 250,000 copies according to Al Lowe[^ref-26][^ref-40].
 
 As Adventure Gamers noted in their retrospective review, "This is, quite frankly, one of my favorite Larry games, and probably the most underrated of the series"[^ref-2].
 
@@ -81,7 +81,7 @@ The game begins with an age verification quiz that determines the "filth level" 
 
 Unlike the linear progression of Leisure Suit Larry Goes Looking for Love, the third installment returns to the dating simulation aspects of the original title[^ref-15]. The game confines players to one large explorable area for most of the experience, allowing for more freedom than its immediate predecessor[^ref-16]. While Nontoonyt Island is essentially the same tropical setting from the previous game, it has been transformed into a resort with hotels, health spas, and casinos[^ref-36]. This structural change was praised by the Sierra Wiki, which noted that "Some consider this game to be a return to form, as it abandons the linear progression of Leisure Suit Larry Goes Looking for Love (in Several Wrong Places) in favor of the dating sim aspects of the original title"[^ref-17].
 
-The innovative dual-character system introduces a unique gameplay element where "you often need to leverage insights from both protagonists to progress"[^ref-18]. As Retro Replay's review explained, "This branching narrative element enriches the puzzles, as you often need to leverage insights from both protagonists to progress"[^ref-18]. The game features various female characters Larry encounters including Tawni (a beach sunbather more interested in souvenirs), Cherri Tart (a showgirl at the casino), Suzi Cheatem (a lawyer at the firm "Dewey, Cheatem & Howe"), and Bambi (an aerobics instructor at Fat City gym)[^ref-40][^ref-7].
+The innovative dual-character system introduces a unique gameplay element where "you often need to leverage insights from both protagonists to progress"[^ref-18]. As Retro Replay's review explained, "This branching narrative element enriches the puzzles, as you often need to leverage insights from both protagonists to progress"[^ref-18]. The game features various female characters Larry encounters including Tawni (a beach sunbather more interested in souvenirs), Cherri Tart (a showgirl at the casino), Suzi Cheatem (a lawyer at the firm "Dewey, Cheatem & Howe"), and Bambi (an aerobics instructor at Fat City gym)[^ref-7][^ref-40].
 
 ### Puzzles and Mechanics
 
@@ -126,7 +126,7 @@ Lowe handled multiple aspects of development, including design, programming, mus
 
 The game featured innovative copy protection methods typical of Sierra's late floppy disk period approach. As Al Lowe explained, "During the late floppy disk period, Sierra decided to put the copy protection in the complementary materials rather than on the disk. This way people could back up their games but without the documentation, you couldn't finish the games"[^ref-24]. The game included the fake "Nontoonyt Tonite Magazine" written by Marti & Bridget McKenna, which Lowe described as "truly funny adjuncts to Leisure Suit Larry 3"[^ref-24].
 
-The instruction manual was designed as a tourist brochure for the fictional Nontoonyt Island, serving both as atmospheric world-building and copy protection[^ref-3]. The game also included various technical improvements, supporting multiple graphics modes including CGA (including a tweaked mode), EGA, MCGA, VGA, Tandy/PCjr, and Hercules Monochrome[^ref-43]. Audio support extended to Roland MT-32, Ad Lib, Game Blaster (CMS), Sound Blaster, IBM Music Feature Card, Generic MPU-401 MIDI devices, Tandy DAC, PC Speaker, and Tandy/PCjr sound[^ref-43][^ref-1]. The game required a minimum of 512K RAM and an Intel 8088/8086 processor running PC/MS-DOS 2.0 or higher[^ref-43].
+The instruction manual was designed as a tourist brochure for the fictional Nontoonyt Island, serving both as atmospheric world-building and copy protection[^ref-3]. The game also included various technical improvements, supporting multiple graphics modes including CGA (including a tweaked mode), EGA, MCGA, VGA, Tandy/PCjr, and Hercules Monochrome[^ref-43]. Audio support extended to Roland MT-32, Ad Lib, Game Blaster (CMS), Sound Blaster, IBM Music Feature Card, Generic MPU-401 MIDI devices, Tandy DAC, PC Speaker, and Tandy/PCjr sound[^ref-1][^ref-43]. The game required a minimum of 512K RAM and an Intel 8088/8086 processor running PC/MS-DOS 2.0 or higher[^ref-43].
 
 ### Technical Achievements
 

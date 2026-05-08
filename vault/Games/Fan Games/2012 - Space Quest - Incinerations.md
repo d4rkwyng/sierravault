@@ -101,7 +101,7 @@ On Telltale Games' community forum, players praised Ushko's animation work, with
 
 ### Origins
 
-The origins of Space Quest: Incinerations trace back to 1999 when Chris Ushko first conceived the project[^ref-7]. The story was notably conceived while Ushko was working as a mall janitor, giving him a personal connection to Roger Wilco's janitorial profession[^ref-7]. The project was initially cancelled before being revived in 2006, leading to a six-year development cycle before its 2012 release[^ref-7][^ref-3].
+The origins of Space Quest: Incinerations trace back to 1999 when Chris Ushko first conceived the project[^ref-7]. The story was notably conceived while Ushko was working as a mall janitor, giving him a personal connection to Roger Wilco's janitorial profession[^ref-7]. The project was initially cancelled before being revived in 2006, leading to a six-year development cycle before its 2012 release[^ref-3][^ref-7].
 
 Ushko, known in the fan community by his handle "Datadog," had previously been involved in the creation of Space Quest: Vohaul Strikes Back[^ref-3]. With Incinerations, he aimed to create something more ambitious—a game that would "re-imagine the SQ universe in the style of a modern sci-fi action-thriller"[^ref-3]. The project was also inspired by the Halo 2 soundtrack, which influenced the game's more action-oriented tone[^ref-7].
 
@@ -126,7 +126,7 @@ The game was designed with legal considerations in mind, structured so that "any
 
 ### Technical Achievements
 
-The game's graphics were developed using Autodesk Maya for 3D rendering, with editing performed in Adobe Premiere and After Effects[^ref-7]. Particle Illusion was used for environmental effects[^ref-7]. The result was a visual style featuring 3D-rendered sprites and backgrounds that, while criticized by some as an "unprofessional mishmash of 2D and 3D," allowed for cinematic sequences far beyond typical AGS games[^ref-16][^ref-3].
+The game's graphics were developed using Autodesk Maya for 3D rendering, with editing performed in Adobe Premiere and After Effects[^ref-7]. Particle Illusion was used for environmental effects[^ref-7]. The result was a visual style featuring 3D-rendered sprites and backgrounds that, while criticized by some as an "unprofessional mishmash of 2D and 3D," allowed for cinematic sequences far beyond typical AGS games[^ref-3][^ref-16].
 
 The 45 minutes of fully-animated cinematics represent one of the game's most impressive technical achievements, rivaling and in some ways surpassing professional productions of the era[^ref-3][^ref-14]. The game also features over 100 CG backgrounds and over an hour of original music composed by multiple musicians[^ref-7].
 

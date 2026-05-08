@@ -114,7 +114,7 @@ The GamesDomain review philosophized about the nature of card gaming on computer
 
 ### Modern Assessment
 
-Modern retrospective reviews have been mixed, with MobyGames user scores ranging from 60% to 84% across different versions.[^ref-13][^ref-6] One review summary noted "Lots of Poker, but little else," suggesting the game's focus was narrow but well-executed within its scope.[^ref-14] The recommendation was that "Any hardcore card fan that's not pretentious about visual flair (or lack thereof) should give this a look."[^ref-14]
+Modern retrospective reviews have been mixed, with MobyGames user scores ranging from 60% to 84% across different versions.[^ref-6][^ref-13] One review summary noted "Lots of Poker, but little else," suggesting the game's focus was narrow but well-executed within its scope.[^ref-14] The recommendation was that "Any hardcore card fan that's not pretentious about visual flair (or lack thereof) should give this a look."[^ref-14]
 
 The game compares favorably to other poker games of its era. Compared to Golden Nugget, which offered a total casino simulation with poker as one component, Hoyle Poker was noted as better with its "fully developed characters and their bluffing and attitudes."[^ref-5] Golden Nugget's opponents were described as "basically like playing against robots" in contrast to Hoyle's more animated cast.
 

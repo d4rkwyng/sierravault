@@ -22,7 +22,7 @@ tags: [1990s, coles, quest-for-glory, rpg, sierra]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-32][^ref-2].
+Quest for Glory V: Dragon Fire is the fifth and final game in the Quest for Glory series, developed by Yosemite Entertainment and published by Sierra FX on December 8, 1998 for Windows[^ref-1][^ref-2][^ref-32].
 
 Designed primarily by [[Lori Ann Cole]] (with [[Corey Cole]] handling programming), the game marks a significant departure from its predecessors by being primarily an action role-playing game rather than a traditional adventure-RPG hybrid[^ref-1][^ref-6].
 
@@ -117,7 +117,7 @@ Because of deadline issues and financial pressures, several features were droppe
 
 ### Voice Cast
 
-Quest for Glory V features full voice acting with a notable cast[^ref-23][^ref-13]:
+Quest for Glory V features full voice acting with a notable cast[^ref-13][^ref-23]:
 
 **Principal Cast:**
 

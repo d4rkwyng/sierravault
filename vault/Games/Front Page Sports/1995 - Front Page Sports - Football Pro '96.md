@@ -53,7 +53,7 @@ The game captures the drama of professional football through detailed simulation
 
 **Simulation Mode:** Full tactical control over team management, play calling, and game strategy. Simulation enthusiasts could dive deep into coaching decisions, adjusting AI difficulty levels and engaging in comprehensive stat tracking.[^ref-13]
 
-**Action Mode:** Direct player control during games for those preferring hands-on gameplay. The action mode supported mouse input as the primary control method, though the game notably supported only two gamepad/joystick buttons—a limitation compared to competitors like *Madden NFL '98* (four buttons) and *ABC Monday Night Football '98* (eight buttons).[^ref-6][^ref-1]
+**Action Mode:** Direct player control during games for those preferring hands-on gameplay. The action mode supported mouse input as the primary control method, though the game notably supported only two gamepad/joystick buttons—a limitation compared to competitors like *Madden NFL '98* (four buttons) and *ABC Monday Night Football '98* (eight buttons).[^ref-1][^ref-6]
 
 ### Interface and Controls
 
@@ -195,7 +195,7 @@ The game saw multiple patches shortly after release, addressing various issues:[
 | **RAM** | 8 MB EMS[^ref-26] |
 | **Graphics** | SVGA (VESA-compatible)[^ref-26] |
 | **Screen Modes** | 640×480 or higher[^ref-26] |
-| **Input** | Mouse, Gamepad (2 buttons)[^ref-6][^ref-1] |
+| **Input** | Mouse, Gamepad (2 buttons)[^ref-1][^ref-6] |
 
 ### Game Statistics
 

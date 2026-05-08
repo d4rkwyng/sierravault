@@ -127,7 +127,7 @@ The simulation implemented image scaling capabilities, allowing players to adjus
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-1][^ref-9][^ref-13][^ref-14][^ref-3][^ref-20]
+**DOS Version:**[^ref-1][^ref-3][^ref-9][^ref-13][^ref-14][^ref-20]
 - **Graphics Support:** Hercules, EGA, Hercules InColor Card
 - **Input:** Keyboard, Joystick
 - **Media:** 3.5" Floppy Disk, 5.25" Floppy Disk

@@ -26,7 +26,7 @@ Cohort: Fighting for Rome is a real-time tactical war game developed by [[Impres
 
 Set during classical antiquity, the game presents players with battles fought across three different terrain maps, with customizable army sizes and compositions.[^ref-1] The title distinguished itself from turn-based strategy games of the era by allowing real-time combat while providing the option to pause gameplay to issue orders, creating a hybrid approach that accommodated both action-oriented and methodical players.[^ref-1] The game featured sharper graphics and improved AI compared to previous titles in the Micro Miniatures series.[^ref-3]
 
-Despite its innovative approach to Roman warfare simulation, Cohort: Fighting for Rome received mixed reception, with critics noting issues with its interface design and graphical presentation.[^ref-3] The game would later spawn a sequel, Cohort II: Fighting for Rome, released in 1993, which was widely considered a superior product.[^ref-4][^ref-3][^ref-15][^ref-16]
+Despite its innovative approach to Roman warfare simulation, Cohort: Fighting for Rome received mixed reception, with critics noting issues with its interface design and graphical presentation.[^ref-3] The game would later spawn a sequel, Cohort II: Fighting for Rome, released in 1993, which was widely considered a superior product.[^ref-3][^ref-4][^ref-15][^ref-16]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -168,7 +168,7 @@ Cohort: Fighting for Rome does not feature voice acting, as was typical for stra
 
 ### Sales and Commercial Impact
 
-While specific sales figures for Cohort: Fighting for Rome are not documented in available sources, the game achieved sufficient success to warrant a sequel. Cohort II: Fighting for Rome was released in 1993 and was considered a significant improvement over the original title.[^ref-4][^ref-3]
+While specific sales figures for Cohort: Fighting for Rome are not documented in available sources, the game achieved sufficient success to warrant a sequel. Cohort II: Fighting for Rome was released in 1993 and was considered a significant improvement over the original title.[^ref-3][^ref-4]
 
 The game's publisher, Merit Software, distributed the DOS version in the American market, while Impressions Games handled publishing for other territories.[^ref-2] The multi-platform release across DOS, Amiga, and Atari ST demonstrated commercial confidence in the title's market potential.
 

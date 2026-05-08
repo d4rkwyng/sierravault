@@ -97,7 +97,7 @@ The minimum system requirements included Windows 95 or NT 4.0, Intel Pentium 90 
 |---------|------|-------|
 | 1.0 | 1999 | Original release[^ref-10] |
 | 1.1 | October 25, 1999 | US patch - added bugoff cheat, custom vehicle skins (128x128 24-bit BMP), fixed joystick bug, corrected "fore" to "four" in Minigolf description[^ref-10] |
-| 2.0 (Traxxas Edition) | 2000 | Add-on with 6 new tracks, R/C Battle mode including Soccer and Battle Ball minigames, controlled steering, wear & tear options[^ref-10][^ref-8] |
+| 2.0 (Traxxas Edition) | 2000 | Add-on with 6 new tracks, R/C Battle mode including Soccer and Battle Ball minigames, controlled steering, wear & tear options[^ref-8][^ref-10] |
 | Deluxe: Traxxas Edition | 2000 | Enhanced retail package combining original with Traxxas content[^ref-12] |
 
 The v1.1 patch was essential for players seeking customization, allowing custom vehicle skins through 128x128 24-bit BMP files that could be applied to any of the four car types[^ref-10]. A notable bug fix addressed the issue where multiple human players using joysticks would experience control problems[^ref-13].

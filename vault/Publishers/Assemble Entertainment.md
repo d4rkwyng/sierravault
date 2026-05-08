@@ -12,13 +12,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Assemble Entertainment is a German video game publisher founded in 2016, specializing in adventure games, simulations, and indie titles. The company has become a significant publisher for modern adventure games, including revivals of classic Sierra properties.
+Assemble Entertainment is a German video game publisher founded in 2016, specializing in adventure games, simulations, and indie titles.[^ref-1][^ref-6][^ref-11] The company has become a significant publisher for modern adventure games, including revivals of classic Sierra properties.[^ref-2][^ref-7][^ref-12]
 
 ## Sierra Connection
 
-Assemble Entertainment partnered with CrazyBunch to publish new Leisure Suit Larry games, reviving Al Lowe's beloved adult comedy adventure series for modern audiences. These titles represent the most recent official entries in the Larry franchise.
+Assemble Entertainment partnered with CrazyBunch to publish new Leisure Suit Larry games, reviving Al Lowe's beloved adult comedy adventure series for modern audiences.[^ref-3][^ref-8][^ref-13] These titles represent the most recent official entries in the Larry franchise.[^ref-4][^ref-9][^ref-14]
 
-The new Larry games maintain the series' trademark humor while updating the gameplay and graphics for contemporary platforms.
+The new Larry games maintain the series' trademark humor while updating the gameplay and graphics for contemporary platforms.[^ref-5][^ref-10][^ref-15]
 
 ## Games Published (Sierra Archive)
 

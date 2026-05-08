@@ -114,7 +114,7 @@ Himalaya Studios emerged from the team behind AGDI (Anonymous Game Developer Int
 
 The decision to create an original commercial game represented a significant evolution for the studio. Al Emmo and the Lost Dutchman's Mine spent approximately three years in development, with the team taking care to "get all the details JUST right"[^ref-2]. The original projected release date was mid-2005, but the team extended development to polish the final product[^ref-5].
 
-The game's setting was inspired by actual Arizona locations and legends, particularly the famous Lost Dutchman's Gold Mine—a legendary mine supposedly located in the Superstition Mountains[^ref-5][^ref-1]. The fictional town of Anozira served as a playground for the developers' Wild West fantasies while allowing for anachronistic humor and pop culture parodies[^ref-3].
+The game's setting was inspired by actual Arizona locations and legends, particularly the famous Lost Dutchman's Gold Mine—a legendary mine supposedly located in the Superstition Mountains[^ref-1][^ref-5]. The fictional town of Anozira served as a playground for the developers' Wild West fantasies while allowing for anachronistic humor and pop culture parodies[^ref-3].
 
 ### Production
 

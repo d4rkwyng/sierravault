@@ -117,13 +117,13 @@ The creative team wanted to expand beyond the original's achievements. "It sound
 
 ### Production
 
-Half-Life 2's five-year development was marked by significant challenges. The team of approximately 82 developers, or around 100 including voice actors, worked at a cost of approximately $1 million per month[^ref-4][^ref-3]. Valve employed a "cabal" design process, breaking the team into groups working on separate areas of the game[^ref-21].
+Half-Life 2's five-year development was marked by significant challenges. The team of approximately 82 developers, or around 100 including voice actors, worked at a cost of approximately $1 million per month[^ref-3][^ref-4]. Valve employed a "cabal" design process, breaking the team into groups working on separate areas of the game[^ref-21].
 
 The development used Valve's "Club Zero" bug tracking system and maintained a tradition of breaking scanner piñatas to celebrate milestones[^ref-4]. By March 2002, the team had completed a proof of concept, though it ultimately failed to meet their standards[^ref-4]. Gabe Newell announced at E3 2003: "We're going to launch the product at E3 and we're going to ship it on September 30, 2003."[^ref-4] This date would prove impossible to meet.
 
 The game's development philosophy emphasized Newell's principle that "Late is just for a little while. Suck is forever."[^ref-20] Initial prototypes explored unusual mechanics including a "glue gun," "toilet crossing" puzzles, and "skeet shooting" segments[^ref-15]. Senior Software Engineer Jay Stelly noted the challenge of "turning your designers into 'gameplay engineers', so they use engineering methods to create, test and improve their gameplay constructs."[^ref-15]
 
-**Development Credits:**[^ref-8][^ref-4]
+**Development Credits:**[^ref-4][^ref-8]
 - **Project Lead:** Gabe Newell
 - **Lead Designer:** David Speyrer
 - **Writer:** Marc Laidlaw

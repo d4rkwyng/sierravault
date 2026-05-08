@@ -129,9 +129,9 @@ The game was completed by PyroTechnix under Sierra's direction and released in N
 
 ### Technical Achievements
 
-Return to Krondor utilized PyroTechnix's proprietary True3D engine, which supported both Direct3D and software rendering modes[^ref-21]. The game featured over 180 motion-captured 3D characters, more than 200 rendered locations, and real-time lighting and special effects that were new to RPGs at the time[^ref-17][^ref-8].
+Return to Krondor utilized PyroTechnix's proprietary True3D engine, which supported both Direct3D and software rendering modes[^ref-21]. The game featured over 180 motion-captured 3D characters, more than 200 rendered locations, and real-time lighting and special effects that were new to RPGs at the time[^ref-8][^ref-17].
 
-The graphics employed pre-rendered 2D backgrounds—over 2,500 attractive backdrops edited in Adobe Photoshop—combined with 3D character models[^ref-35][^ref-15]. Colin E. Sweeney noted that the backgrounds were "pre-rendered and edited in Adobe PhotoShop"[^ref-15]. The 16-bit color graphics were considered "pretty stunning" for the time[^ref-28].
+The graphics employed pre-rendered 2D backgrounds—over 2,500 attractive backdrops edited in Adobe Photoshop—combined with 3D character models[^ref-15][^ref-35]. Colin E. Sweeney noted that the backgrounds were "pre-rendered and edited in Adobe PhotoShop"[^ref-15]. The 16-bit color graphics were considered "pretty stunning" for the time[^ref-28].
 
 ### Technical Specifications
 
@@ -160,7 +160,7 @@ The graphics employed pre-rendered 2D backgrounds—over 2,500 attractive backdr
 
 The most significant cut content relates to planned sequels. Return to Krondor was subtitled "Book 1: Harbinger of the Shadows" because it was designed as the first part in a planned series of games[^ref-5]. However, Sierra dropped the Krondor franchise after release, and the storyline was never continued in game form[^ref-5].
 
-Additionally, the original sequel to Betrayal at Krondor—called "Thief of Dreams"—was developed by the creators at Dynamix but never completed when the RPG department was closed in 1994[^ref-10][^ref-1].
+Additionally, the original sequel to Betrayal at Krondor—called "Thief of Dreams"—was developed by the creators at Dynamix but never completed when the RPG department was closed in 1994[^ref-1][^ref-10].
 
 A PlayStation port was discussed but never materialized. When asked about the possibility, Raymond Feist responded: "Not at this time. Probably not any time in the future. The deals between game companies and platform companies tend to fluctuate at times. Sony was very tight with Pyrotechnix before the Sierra buyout. Now they are not"[^ref-33].
 

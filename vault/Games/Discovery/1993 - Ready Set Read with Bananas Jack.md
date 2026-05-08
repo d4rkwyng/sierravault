@@ -101,7 +101,7 @@ The game has maintained interest among retro gaming communities and nostalgia se
 
 Ready, Set, Read with Bananas & Jack was developed by Bright Star Technology, a company founded by Elon Gasper and Nedra Goedert during the early 1980s that became "a key player in multimedia technology"[^ref-12]. The game was created as a sequel to Alphabet Blocks, continuing the Bananas & Jack character franchise and the company's Talking Tutor educational methodology[^ref-1][^ref-3].
 
-Bright Star Technology was acquired by Sierra On-Line in 1992 and became "a cornerstone of Sierra's educational games department"[^ref-12]. Ready, Set, Read was developed during this transition period, with Sierra providing publishing and distribution support while Bright Star retained creative control over their educational software design[^ref-12][^ref-2].
+Bright Star Technology was acquired by Sierra On-Line in 1992 and became "a cornerstone of Sierra's educational games department"[^ref-12]. Ready, Set, Read was developed during this transition period, with Sierra providing publishing and distribution support while Bright Star retained creative control over their educational software design[^ref-2][^ref-12].
 
 ### Production
 
@@ -150,7 +150,7 @@ Some sources indicate an earlier release date of 1992[^ref-3], though most docum
 
 ### Technical Issues
 
-As a Windows 3.x era title, Ready, Set, Read presents compatibility challenges for modern users attempting to run the software[^ref-8][^ref-3]. The game requires a Windows 3.x environment, which can be achieved through DOSBox emulation with Windows 3.x installed[^ref-3]. The "Unplayable" rating on GameFAQs likely reflects these compatibility issues rather than problems with the original software[^ref-8].
+As a Windows 3.x era title, Ready, Set, Read presents compatibility challenges for modern users attempting to run the software[^ref-3][^ref-8]. The game requires a Windows 3.x environment, which can be achieved through DOSBox emulation with Windows 3.x installed[^ref-3]. The "Unplayable" rating on GameFAQs likely reflects these compatibility issues rather than problems with the original software[^ref-8].
 
 ### Easter Eggs and Trivia
 

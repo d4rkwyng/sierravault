@@ -150,7 +150,7 @@ The game's primary legacy lies in its connection to Al Lowe's career trajectory[
 
 Bop-A-Bet was included in Sierra's Hi-Res Learning series following Sierra On-Line's acquisition of the Sunnyside Soft product line in 1983.[^ref-3][^ref-18][^ref-19] This educational software line positioned the game alongside other learning-focused titles in Sierra's catalog[^ref-5].
 
-The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-11][^ref-15][^ref-2][^ref-17]
+The game appeared on Sierra's internal product list maintained at their Oakhurst, California offices, confirming its status as an official Sierra release.[^ref-2][^ref-11][^ref-15][^ref-17]
 
 ### Fan Projects
 

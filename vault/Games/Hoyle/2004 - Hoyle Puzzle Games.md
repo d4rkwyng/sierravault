@@ -21,7 +21,7 @@ tags: [2000s, hoyle, puzzle, sierra]
 
 ## Overview
 
-Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-19][^ref-6][^ref-3]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
+Hoyle Puzzle Games 2004 is a compilation of puzzle and arcade games developed and published by [[Sierra On-Line]], released on September 2, 2003 for Windows PC[^ref-1][^ref-3][^ref-6][^ref-19]. The collection features 17 action-packed puzzle games designed to exercise players' problem-solving skills through a diverse range of gameplay styles[^ref-4]. Building upon the success of previous Hoyle titles, this edition introduced two new puzzle games—Rays and Word Searches—while retaining beloved classics from the series[^ref-4].
 
 The game combines arcade excitement with traditional puzzle challenges, offering something for every type of player[^ref-3]. Players can challenge themselves with crossword puzzles, word searches, and a variety of tile-based games, all featuring high score tracking and adjustable skill levels[^ref-6]. The collection includes a notable bonus feature: The Incredible Machine: Even More Contraptions, adding significant value to the package[^ref-7].
 
@@ -156,7 +156,7 @@ One Amazon customer reported a concerning security issue: "game had a virus and 
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | September 2, 2003 | Windows | Initial retail release[^ref-1][^ref-6][^ref-3] |
+| 1.0 | September 2, 2003 | Windows | Initial retail release[^ref-1][^ref-3][^ref-6] |
 | 2005 Edition | 2004/2005 | Windows | Combined with table games, full install without CD requirement[^ref-7] |
 
 **Version Differences:**

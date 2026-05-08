@@ -20,7 +20,7 @@ tags: [1990s, adventure, sci, sierra, space-quest, two-guys]
 <small style="color: gray">Last updated: March 19, 2026</small>
 
 ## Overview
-Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-6][^ref-2].
+Space Quest IV: Roger Wilco and the Time Rippers is a graphic adventure game developed and published by [[Sierra On-Line]], released in March 1991 for MS-DOS with subsequent ports to Windows, Macintosh, Amiga, and PC-98[^ref-2][^ref-6].
 
 Designed by [[Mark Crowe]] and [[Scott Murphy]], the game is the fourth installment in the Space Quest series and the first to feature Sierra's icon-based point-and-click SCI interface and 256-color VGA graphics[^ref-3][^ref-6].
 
@@ -34,7 +34,7 @@ It was one of the first games to use motion capture animation and featured video
 > **Developer:** [[Sierra On-Line]][^ref-6]
 > **Designer:** [[Mark Crowe]], [[Scott Murphy]][^ref-6]
 > **Publisher:** Sierra On-Line[^ref-6]
-> **Engine:** SCI (Sierra Creative Interpreter)[^ref-6][^ref-2]
+> **Engine:** SCI (Sierra Creative Interpreter)[^ref-2][^ref-6]
 > **Platforms:** MS-DOS, Windows, Macintosh, Amiga, PC-98
 > **Release Year:** 1991
 > **Series:** Space Quest
@@ -155,7 +155,7 @@ In a 2015 interview, designer Mark Crowe reflected on design decisions he regret
 
 ### Voice Cast
 
-The CD-ROM version (December 1992) featured full speech support with professional voice actors.[^ref-38][^ref-24]
+The CD-ROM version (December 1992) featured full speech support with professional voice actors.[^ref-24][^ref-38]
 
 **Principal Cast:**[^ref-38]
 
@@ -176,7 +176,7 @@ The CD-ROM version (December 1992) featured full speech support with professiona
 - First Sierra game with scrolling screens[^ref-4]
 - CD-ROM version featured full speech support with Gary Owens as narrator[^ref-4][^ref-32]
 - MIDI music and Sound Blaster sound effects[^ref-3]
-- Platform releases: March 1991 MS-DOS floppy, December 1992 CD-ROM, 1991 Macintosh, 1992 Windows 16-bit and Amiga, 1992 PC-98[^ref-6][^ref-4]
+- Platform releases: March 1991 MS-DOS floppy, December 1992 CD-ROM, 1991 Macintosh, 1992 Windows 16-bit and Amiga, 1992 PC-98[^ref-4][^ref-6]
 - **System requirements:** 286 CPU, 4MB RAM, 6MB hard drive, VGA graphics, 2x CD-ROM drive; sound support for Roland MT-32, AdLib, Sound Blaster, PS/1, and Game Blaster[^ref-22]
 - **Disk vs CD-ROM differences:** Floppy version has superior color handling and Windows compatibility; bikes in SQ1 sequence are colored in floppy but monochrome in CD (later corrected to black and white bikes for consistency); Software Excess clerk waves only in floppy version; CD-ROM originally offered speech or text (not both), though ScummVM allows simultaneous display[^ref-21][^ref-24][^ref-50]
 - **Legal changes:** The electronics store was originally named "Radio Shock" but was changed to "Hz. So Good" in the CD-ROM version after legal pressure from Radio Shack[^ref-50]

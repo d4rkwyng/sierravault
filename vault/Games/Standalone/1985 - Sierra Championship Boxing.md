@@ -113,13 +113,13 @@ The game's earliest origins trace back to 1981, when a version was created for t
 
 ### Production
 
-Interestingly, Sierra Championship Boxing was not originally destined for Sierra On-Line. The game was initially planned to be published by Microsoft's Home Software Division.[^ref-4][^ref-2] However, "Microsoft decided at the last minute that the home market wasn't big enough yet."[^ref-2] 
+Interestingly, Sierra Championship Boxing was not originally destined for Sierra On-Line. The game was initially planned to be published by Microsoft's Home Software Division.[^ref-2][^ref-4] However, "Microsoft decided at the last minute that the home market wasn't big enough yet."[^ref-2] 
 
 The Evryware team's contact at Microsoft told Ken Williams at Sierra On-Line about the game, leading to Sierra picking up the publishing rights.[^ref-2][^ref-4] This twist of fate brought one of the era's most ambitious sports simulations to Sierra's catalog.
 
 The game was developed by Dave Murry, Barry Murry, and Joe Gargiulo at Evryware.[^ref-6]
 
-**Development Credits:**[^ref-7][^ref-6]
+**Development Credits:**[^ref-6][^ref-7]
 - **Designer:** Dave Murry
 - **Designer:** Barry Murry
 - **Developer:** Joe Gargiulo

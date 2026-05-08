@@ -87,7 +87,7 @@ The eight courts each feature unique visual themes and gameplay strategies:[^ref
 
 Each court required different strategies due to hoop placement and environmental hazards.[^ref-3]
 
-The hand-drawn stage backgrounds were praised for their quality, with reviewers noting similarities to other Dynamix adventure games like The Adventures of Willy Beamish and Space Quest V: The Next Mutation.[^ref-7][^ref-9][^ref-3]
+The hand-drawn stage backgrounds were praised for their quality, with reviewers noting similarities to other Dynamix adventure games like The Adventures of Willy Beamish and Space Quest V: The Next Mutation.[^ref-3][^ref-7][^ref-9]
 
 ## Reception
 

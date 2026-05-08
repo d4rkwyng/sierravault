@@ -78,7 +78,7 @@ Pro Pilot USA and its predecessor Pro Pilot '98 received mixed reviews from cont
 
 Computer Gaming World gave the original Pro Pilot 2.5 out of 5 stars in their April 1998 review, describing it as "solid option for instrument flying simulation due to its focus on operational procedures but lamenting the lack of scenery depth and environmental detail"[^ref-2][^ref-15]. The publication acknowledged the game's strengths in procedural accuracy while criticizing its visual presentation[^ref-2][^ref-15].
 
-PC Joker, a German gaming publication, awarded the game 58% in their September 1998 review, indicating a below-average assessment of the simulation[^ref-3][^ref-2][^ref-16].
+PC Joker, a German gaming publication, awarded the game 58% in their September 1998 review, indicating a below-average assessment of the simulation[^ref-2][^ref-3][^ref-16].
 
 ### Modern Assessment
 
@@ -170,7 +170,7 @@ Pro Pilot USA features AI air traffic controller voice communications but no doc
 
 The original Pro Pilot '98 sold more than 275,000 units, demonstrating significant commercial success for the series[^ref-3][^ref-17]. This sales performance supported the development and release of subsequent titles including Pro Pilot USA and Pro Pilot '99[^ref-3][^ref-12].
 
-The Pro Pilot series represented Sierra's attempt to compete in the lucrative civilian flight simulation market dominated by Microsoft Flight Simulator[^ref-2]. While the series achieved respectable sales, mixed critical reception limited its ability to challenge the market leader[^ref-3][^ref-2].
+The Pro Pilot series represented Sierra's attempt to compete in the lucrative civilian flight simulation market dominated by Microsoft Flight Simulator[^ref-2]. While the series achieved respectable sales, mixed critical reception limited its ability to challenge the market leader[^ref-2][^ref-3].
 
 ### Collections
 
@@ -188,7 +188,7 @@ No specific documentation of official hint books, strategy guides, or related pu
 
 ### Critical Perspective
 
-The Pro Pilot series occupies an interesting position in flight simulation history as Sierra's serious attempt to challenge Microsoft's dominance in civilian aviation simulation[^ref-2]. While the games received mixed reviews, critics consistently acknowledged their value as instrument flying trainers, positioning them as educational tools rather than entertainment products[^ref-3][^ref-2].
+The Pro Pilot series occupies an interesting position in flight simulation history as Sierra's serious attempt to challenge Microsoft's dominance in civilian aviation simulation[^ref-2]. While the games received mixed reviews, critics consistently acknowledged their value as instrument flying trainers, positioning them as educational tools rather than entertainment products[^ref-2][^ref-3].
 
 The series demonstrated the challenges facing any competitor to Microsoft Flight Simulator during the late 1990s. Despite leveraging significant resources including acquired expertise from Sub-Logic and Dynamix's 3Space technology, Sierra's simulators struggled to match the scenery depth and environmental detail that players expected[^ref-2]. GameSpot's assessment that the game was "primarily of interest to potential student pilots" captured the niche positioning that ultimately limited broader commercial appeal[^ref-3].
 

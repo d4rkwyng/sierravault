@@ -180,7 +180,7 @@ The patch released in August 1998 addressed many of these issues, adding 20 lock
 
 ### Easter Eggs and Trivia
 
-- Some retail copies of Red Baron II included a 75-cent coupon for Red Baron frozen pizza, with no expiration date. In 2014, a viewer used a 17-year-old coupon successfully, proving it still worked[^ref-31][^ref-1].
+- Some retail copies of Red Baron II included a 75-cent coupon for Red Baron frozen pizza, with no expiration date. In 2014, a viewer used a 17-year-old coupon successfully, proving it still worked[^ref-1][^ref-31].
 - Dramatic pilot animations included catching fire and jumping from the cockpit screaming, as well as Red Cross trucks rescuing crashed pilots[^ref-11].
 - The game allowed custom paint jobs upon reaching appropriate rank[^ref-11].
 - The extensive game manual contained 156 pages of WWI aviation history with diagrams, photos, color illustrations of Allied and German planes, medals, and maps[^ref-32].

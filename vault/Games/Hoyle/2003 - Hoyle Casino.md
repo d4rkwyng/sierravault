@@ -49,7 +49,7 @@ The game's social element comes through interactions with pre-made characters an
 
 ### Interface and Controls
 
-Hoyle Casino 2003 features an intuitive interface designed for user-friendly navigation between games[^ref-4]. The game operates at a resolution of 640x480 with 16-bit color depth[^ref-9][^ref-6]. Players can access any of the fourteen casino games from a central hub representing the virtual casino floor.
+Hoyle Casino 2003 features an intuitive interface designed for user-friendly navigation between games[^ref-4]. The game operates at a resolution of 640x480 with 16-bit color depth[^ref-6][^ref-9]. Players can access any of the fourteen casino games from a central hub representing the virtual casino floor.
 
 The interface includes a facemaker utility that allows players to create custom characters for their gaming sessions[^ref-9]. Players can choose from pre-made characters with different amounts of starting money, with a character named Randall possessing the highest amount at $500,000[^ref-10]. Custom character data can be saved, though pre-made character progress cannot be retained between sessions[^ref-10].
 
@@ -181,7 +181,7 @@ The Hoyle brand continued as one of the best-selling casino game collections for
 
 ### Collections
 
-Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-4][^ref-1]. The game was distributed through major retailers including Best Buy[^ref-7] and Amazon[^ref-4], and remained available for purchase years after its initial release.
+Hoyle Casino 2003 was available as a standalone product on CD-ROM[^ref-1][^ref-4]. The game was distributed through major retailers including Best Buy[^ref-7] and Amazon[^ref-4], and remained available for purchase years after its initial release.
 
 ### Fan Projects
 

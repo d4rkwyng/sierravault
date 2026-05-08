@@ -23,7 +23,7 @@ tags: [2000s, hoyle, sierra]
 
 Hoyle Puzzle and Board Games 2008 is a comprehensive compilation of classic puzzle and board games released by [[Encore Software]] for Windows and Macintosh platforms in late 2007[^ref-1][^ref-2]. Drawing on the long-standing Hoyle brand, which had been associated with authoritative gaming rules since the 18th century and Sierra On-Line's gaming compilations since the late 1980s, this collection brought together over 30 games in a single package[^ref-3][^ref-4]. The compilation was marketed under the tagline "HOYLE - The official name in gaming" and boasted over 60 classic games plus a bonus of 105 puzzle adventures[^ref-2].
 
-The game was designed as a casual-friendly collection that brought together a wide range of classic puzzles, word challenges, and board-game favorites in one package[^ref-5]. It featured the proprietary Hoyle Bucks earning system, where players could accumulate virtual currency by playing games and spend it on customization options such as new card decks, tile sets, music tracks, and other decorations[^ref-6][^ref-4]. The collection included popular titles such as Chess, Hangman, Crosswords, Mahjongg Tiles, Backgammon, Sudoku, and many more, with interactive computer opponents offering multiple skill levels[^ref-6][^ref-1].
+The game was designed as a casual-friendly collection that brought together a wide range of classic puzzles, word challenges, and board-game favorites in one package[^ref-5]. It featured the proprietary Hoyle Bucks earning system, where players could accumulate virtual currency by playing games and spend it on customization options such as new card decks, tile sets, music tracks, and other decorations[^ref-4][^ref-6]. The collection included popular titles such as Chess, Hangman, Crosswords, Mahjongg Tiles, Backgammon, Sudoku, and many more, with interactive computer opponents offering multiple skill levels[^ref-1][^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]], Inc.[^ref-1]
@@ -56,7 +56,7 @@ A defining feature of this compilation is the Hoyle Bucks earning system[^ref-6]
 - New backgrounds and themes
 - Additional music tracks
 - Card deck designs
-- Tile sets for Mahjongg and other games[^ref-6][^ref-4]
+- Tile sets for Mahjongg and other games[^ref-4][^ref-6]
 
 The music selection available for purchase includes 5 songs from Arcanum: Of Steamworks and Magick Obscura (labeled as "String Quartet selection") and 4 music themes from Casino Empire 2002 (labeled as "Swing Town musical selection")[^ref-7].
 
@@ -154,7 +154,7 @@ The game's release date shows some discrepancy across sources. Metacritic and Ga
 
 ### Technical Issues
 
-Several technical issues have been documented[^ref-7][^ref-2]:
+Several technical issues have been documented[^ref-2][^ref-7]:
 
 - **Crossword Controls:** The spacebar and TAB key functions do not work as described in the documentation[^ref-7]
 - **Triple Yacht:** A checkbox workaround is needed; players must use the game menu instead of standard interface elements[^ref-7]

@@ -226,7 +226,7 @@ The game's commercial performance was strong enough to warrant a sequel the foll
 
 ### Collections
 
-The game was re-released as part of *Magic Disk 64* compilation in issue 10/1992.[^ref-11] The game has been preserved on numerous abandonware and archive sites including MyAbandonware and the Internet Archive.[^ref-19][^ref-2]
+The game was re-released as part of *Magic Disk 64* compilation in issue 10/1992.[^ref-11] The game has been preserved on numerous abandonware and archive sites including MyAbandonware and the Internet Archive.[^ref-2][^ref-19]
 
 ### Fan Projects
 

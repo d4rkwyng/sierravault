@@ -183,7 +183,7 @@ A known compatibility issue exists with the PCjr version: the game does not work
 
 ### Multiple Endings
 
-The game features two possible endings based on player actions during the adventure:[^ref-14][^ref-11]
+The game features two possible endings based on player actions during the adventure:[^ref-11][^ref-14]
 
 - **Standard Ending:** Mickey returns the completed crystal to the Oronians
 - **Alternate Ending with Minnie:** If the player chooses to write a letter to Minnie Mouse during the game, Minnie appears to celebrate Mickey's successful return

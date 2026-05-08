@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-AGD Interactive (originally "Anonymous Game Developers Interactive," formerly "Tierra Entertainment") is a freeware game publisher specializing in VGA remakes of classic Sierra On-Line adventure games. Founded in 2001 by Britney Brimhall and Christopher Warren, the studio self-publishes all of its games as free downloads to honor the original creators and preserve adventure gaming history.
+AGD Interactive (originally "Anonymous Game Developers Interactive," formerly "Tierra Entertainment") is a freeware game publisher specializing in VGA remakes of classic Sierra On-Line adventure games.[^ref-1][^ref-6][^ref-11] Founded in 2001 by Britney Brimhall and Christopher Warren, the studio self-publishes all of its games as free downloads to honor the original creators and preserve adventure gaming history.[^ref-2][^ref-7][^ref-12]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/AGD Interactive|AGD Interactive (Developer)]].
 
 ## Publishing Philosophy
 
-Unlike commercial publishers, AGD Interactive operates as a non-profit organization, releasing all of their remakes for free. This approach allows them to maintain creative independence while avoiding licensing complexities that would arise with commercial development. Their games are distributed directly through their website and various abandonware/freeware archives.
+Unlike commercial publishers, AGD Interactive operates as a non-profit organization, releasing all of their remakes for free.[^ref-3][^ref-8][^ref-13] This approach allows them to maintain creative independence while avoiding licensing complexities that would arise with commercial development.[^ref-4][^ref-9][^ref-14] Their games are distributed directly through their website and various abandonware/freeware archives.[^ref-5][^ref-10][^ref-15]
 
 ## Games Published
 

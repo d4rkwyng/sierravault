@@ -79,7 +79,7 @@ A maximum score of 158 points rewards thorough exploration and optimal puzzle so
 
 King's Quest IV received critical acclaim upon release, with Computer & Video Games awarding it 91% across all platforms, praising the graphics (95%) and playability (90%), and declaring it "surely the most advanced animated adventure yet from Sierra" and "its finest game to date."[^ref-9] QuestBusters confirmed the game "went gold" with 100,000 copies sold in its first two weeks, a remarkable achievement for 1988.[^ref-23]
 
-The Amiga version earned strong reviews averaging 82% across seven publications, including Datormagazin's 9/10 and CU Amiga's 85%.[^ref-24] The Software Publishers Association recognized King's Quest IV with its Best Adventure Game award for 1988.[^ref-25][^ref-7]
+The Amiga version earned strong reviews averaging 82% across seven publications, including Datormagazin's 9/10 and CU Amiga's 85%.[^ref-24] The Software Publishers Association recognized King's Quest IV with its Best Adventure Game award for 1988.[^ref-7][^ref-25]
 
 Computer Gaming World's Scorpia offered a more tempered assessment, describing the game as "exasperating, irritating, tedious, boring" due to its dead ends and obscure puzzles, though acknowledging it was "a matter of personal taste."[^ref-6]
 
@@ -103,15 +103,15 @@ The decision to animate female movement differently became an unexpected creativ
 
 ### Production
 
-Development required over eleven man-years from a team exceeding thirteen programmers, developers, and artists.[^ref-5] Sierra invested over $3 million in underlying technology and an additional $500,000 in improvements specifically for King's Quest IV.[^ref-5] The resulting 5.5 megabytes of program code made it the "largest computer game in history" at release.[^ref-5][^ref-4]
+Development required over eleven man-years from a team exceeding thirteen programmers, developers, and artists.[^ref-5] Sierra invested over $3 million in underlying technology and an additional $500,000 in improvements specifically for King's Quest IV.[^ref-5] The resulting 5.5 megabytes of program code made it the "largest computer game in history" at release.[^ref-4][^ref-5]
 
 A critical development crisis emerged in late August 1988, just one month before the scheduled release tied to Sierra's October IPO. Al Lowe discovered the project in serious trouble: "Two programmers were lost. They had no clue. A lot of code was buggy."[^ref-6] Lowe took charge of an all-hands emergency effort where the team "went to the mattresses," moving into the Sierra building with food and doing laundry on-site.[^ref-6] By month's end they had a functional game, albeit "a little buggy."[^ref-6]
 
-The game uniquely shipped in both AGI and SCI versions simultaneously, a hedge against potential SCI problems. Sierra offered a disk exchange program where customers unable to run the SCI version could mail their disks to receive the AGI version.[^ref-3][^ref-27] The AGI version was quickly discontinued when sales demonstrated the market had adequate hardware, making it a collector's item.[^ref-14][^ref-8]
+The game uniquely shipped in both AGI and SCI versions simultaneously, a hedge against potential SCI problems. Sierra offered a disk exchange program where customers unable to run the SCI version could mail their disks to receive the AGI version.[^ref-3][^ref-27] The AGI version was quickly discontinued when sales demonstrated the market had adequate hardware, making it a collector's item.[^ref-8][^ref-14]
 
 ### Technical Achievements
 
-The SCI engine represented a fundamental leap in Sierra's technology. Resolution doubled from 160x200 to 320x200 pixels, enabling greater facial detail and body language in character animations.[^ref-5][^ref-3] The engine used an object-oriented language similar to LISP, written in Assembler, C, and itself.[^ref-18]
+The SCI engine represented a fundamental leap in Sierra's technology. Resolution doubled from 160x200 to 320x200 pixels, enabling greater facial detail and body language in character animations.[^ref-3][^ref-5] The engine used an object-oriented language similar to LISP, written in Assembler, C, and itself.[^ref-18]
 
 Animation requirements were substantial, with Princess Rosella requiring over 1,000 individual drawings to animate all her activities.[^ref-18] The game contained more than 140 rooms across day and night variations, with tens of thousands of lines of scripting instructions.[^ref-18]
 
@@ -200,7 +200,7 @@ The book became an important part of King's Quest canon—facts from the Compani
 
 ### Easter Eggs and Unused Content
 
-**Easter Eggs:**[^ref-14][^ref-8]
+**Easter Eggs:**[^ref-8][^ref-14]
 - **"beam me"** (AGI only, removed v2.2+) - After defeating Lolotte, typing this in the corridor teleports Rosella to a Star Trek-inspired spaceship where the KQ4 programming staff appears, including Vu Nguyen, Chris Hoyt, John Hamilton, Teresa Baker, and Roberta Williams[^ref-8]
 - **"rap kq"** (AGI only) - In the prison cell, Rosella breakdances and raps about the game's development, referring to Roberta Williams as "the Bert"[^ref-8]
 - **"pirate"** (AGI only) - At copy protection, debug mode (Alt+D) + "pirate" displays a jolly pirate picture while "Drunken Sailor" plays[^ref-8]

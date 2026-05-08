@@ -58,7 +58,7 @@ The simulation includes a helpful co-pilot character who provides strategic guid
 
 ### Structure and Progression
 
-The game offers both single mission and full campaign modes[^ref-6]. The stock campaign is set in a fictional Eastern European conflict following a Warsaw Pact attack on NATO, while version 1.5 added a Gulf War campaign with seven additional scenarios[^ref-7][^ref-6].
+The game offers both single mission and full campaign modes[^ref-6]. The stock campaign is set in a fictional Eastern European conflict following a Warsaw Pact attack on NATO, while version 1.5 added a Gulf War campaign with seven additional scenarios[^ref-6][^ref-7].
 
 - **Cold War Europe Campaign:** Multiple missions defending NATO positions against Soviet armored advances
 - **Gulf War Campaign (v1.5):** Seven missions set during Operation Desert Storm against Iraqi forces[^ref-7]
@@ -137,7 +137,7 @@ The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-4][^ref-1]
+**DOS Version:**[^ref-1][^ref-4]
 - **Graphics:** 256-color VGA, also supports CGA/EGA/MCGA/Tandy
 - **Audio:** AdLib, Roland MT-32, Roland LAPC-I, Sound Blaster, PS/1 Audio, PC speaker
 - **Input:** Keyboard, Mouse, Joystick
@@ -153,7 +153,7 @@ The promotional copy boasted of "unbelievably brilliant 256 color VGA" graphics[
 |---------|------|----------|-------|
 | 1.0 | December 1989 | DOS | Initial release[^ref-1] |
 | 1.0 | 1990/1991 | Amiga | Platform port[^ref-1][^ref-2] |
-| 1.5 | 1991 | DOS | Added Gulf War missions, improved graphics, enhanced sound, Red Baron flight model[^ref-7][^ref-1] |
+| 1.5 | 1991 | DOS | Added Gulf War missions, improved graphics, enhanced sound, Red Baron flight model[^ref-1][^ref-7] |
 
 ### Technical Issues
 
@@ -186,7 +186,7 @@ Silent Thunder simulated the same aircraft—the Fairchild-Republic A-10A Thunde
 
 ### Fan Projects
 
-The game remains available through abandonware preservation sites and the Internet Archive, where users continue to share compatibility tips for running the simulation on modern hardware[^ref-12][^ref-14][^ref-9].
+The game remains available through abandonware preservation sites and the Internet Archive, where users continue to share compatibility tips for running the simulation on modern hardware[^ref-9][^ref-12][^ref-14].
 
 ### Related Publications
 
@@ -196,7 +196,7 @@ The game remains available through abandonware preservation sites and the Intern
 
 A-10 Tank Killer holds an important position in flight simulation history as one of the notable titles to bring 256-color VGA graphics to the genre while focusing on ground attack rather than air superiority combat. Its release coincided with a period of rapid expansion in the flight sim market, where competition with established publishers like MicroProse pushed developers to innovate[^ref-5]. The game's emphasis on low-altitude, "dirty" combat—flying through smoke-filled battlefields and engaging tanks at close range—offered a distinctly different experience from the high-altitude dogfighting that dominated the genre[^ref-3].
 
-While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. The game's persistent battlefield mechanic, where destroyed or surviving targets carried consequences into future missions, presaged features that would become standard in later combat simulators. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-12][^ref-8].[^ref-19]
+While the Amiga version disappointed some critics who found it technically inferior to its PC counterpart and overly ambitious in its feature set[^ref-5], the DOS version's success demonstrated the market appetite for specialized military simulations. The game's persistent battlefield mechanic, where destroyed or surviving targets carried consequences into future missions, presaged features that would become standard in later combat simulators. Combined with its sequel, A-10 Tank Killer helped define Dynamix's reputation for quality flight simulations that balanced accessibility with authentic military hardware modeling[^ref-8][^ref-12].[^ref-19]
 
 ## Purchase
 

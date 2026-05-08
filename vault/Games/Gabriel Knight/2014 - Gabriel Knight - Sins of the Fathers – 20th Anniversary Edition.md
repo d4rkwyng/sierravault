@@ -53,7 +53,7 @@ As Gabriel delves deeper into the case, he discovers connections between the mur
 
 Gabriel's journey of discovery eventually reveals that he is the latest in a line of Schattenjäger—German "shadow hunters" who have battled supernatural evil for centuries. His family's ancestral duty becomes intertwined with his personal quest when he learns that the voodoo cult is led by an ancient entity with ties to both his family's past and his present attraction to Malia[^ref-5]. The narrative culminates in a terrifying confrontation that tests Gabriel's courage, forces impossible choices, and transforms him from a cynical dilettante into a true warrior against darkness.
 
-The original game's plot drew significant inspiration from the film Angel Heart, grounding its supernatural horror firmly in the real-world culture and history of New Orleans[^ref-24][^ref-15]. Jensen conducted extensive historical and cultural research to ensure authenticity, resulting in a story that weaves together actual voodoo traditions, local folklore, and original mythology into what reviewers called "mature audiences for all the right reasons"[^ref-34].
+The original game's plot drew significant inspiration from the film Angel Heart, grounding its supernatural horror firmly in the real-world culture and history of New Orleans[^ref-15][^ref-24]. Jensen conducted extensive historical and cultural research to ensure authenticity, resulting in a story that weaves together actual voodoo traditions, local folklore, and original mythology into what reviewers called "mature audiences for all the right reasons"[^ref-34].
 
 ## Gameplay
 
@@ -82,7 +82,7 @@ Players must complete certain objectives and gather specific evidence before pro
 
 ### Puzzles and Mechanics
 
-The remake maintains the inventory-based puzzle design of the original while adding new puzzles and occasionally streamlining others[^ref-3][^ref-27]. Notable puzzles include obtaining a snake scale from Lake Pontchartrain (which was notoriously difficult in the original), infiltrating Mosely's office at the police station, and navigating the initiation ceremony of the voodoo cult[^ref-27][^ref-6]. The game employs a point-scoring system with a maximum achievable score of 362 points, rewarding thorough exploration and optimal puzzle solutions[^ref-6].
+The remake maintains the inventory-based puzzle design of the original while adding new puzzles and occasionally streamlining others[^ref-3][^ref-27]. Notable puzzles include obtaining a snake scale from Lake Pontchartrain (which was notoriously difficult in the original), infiltrating Mosely's office at the police station, and navigating the initiation ceremony of the voodoo cult[^ref-6][^ref-27]. The game employs a point-scoring system with a maximum achievable score of 362 points, rewarding thorough exploration and optimal puzzle solutions[^ref-6].
 
 Some reviewers noted that certain new puzzles added to the remake disrupted the flow of the narrative, though the core puzzle design retained the logical—if sometimes demanding—sensibility of classic Sierra adventures[^ref-25]. The game includes achievements tied to major story moments and optional discoveries, encouraging players to engage fully with the mystery[^ref-6].
 
@@ -122,7 +122,7 @@ The project was funded through a Kickstarter campaign launched during the 2012 c
 
 ### Production
 
-Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a fan-made King's Quest sequel that later received official sanction[^ref-5][^ref-1]. Jensen served as creative lead while also acting as creative consultant for Phoenix Online's Cognition: An Erika Reed Thriller during this period[^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activision"[^ref-5].
+Development proceeded as a collaboration between Pinkerton Road Studio and Phoenix Online Studios, the latter having previously developed The Silver Lining, a fan-made King's Quest sequel that later received official sanction[^ref-1][^ref-5]. Jensen served as creative lead while also acting as creative consultant for Phoenix Online's Cognition: An Erika Reed Thriller during this period[^ref-5]. According to the Sierra Chest, Jane Jensen and Robert Holmes "obtained the permission to use its IP from the current Sierra owner, Activision"[^ref-5].
 
 The production team faced the challenge of modernizing a beloved classic without alienating its passionate fanbase. The Sierra Chest notes: "Possibly the most challenging part was to find a cast of voice actors that could somewhat match the star-studded cast of the 1993 original"[^ref-5].
 
@@ -140,13 +140,13 @@ The team rebuilt all graphics from scratch using 3D character models rendered ag
 
 ### Technical Achievements
 
-The remake utilized Unity 5 as its engine, allowing cross-platform deployment to Windows, Mac OS X, iOS, and Android[^ref-14][^ref-3]. Pre-rendered backgrounds were created at 1920x1080 resolution and scaled for various display configurations[^ref-14]. The game represented a significant technical upgrade from the original SCI2 engine production, though some critics felt the 3D character models appeared incongruous against the 2D backgrounds, sometimes resembling "paper dolls"[^ref-25].
+The remake utilized Unity 5 as its engine, allowing cross-platform deployment to Windows, Mac OS X, iOS, and Android[^ref-3][^ref-14]. Pre-rendered backgrounds were created at 1920x1080 resolution and scaled for various display configurations[^ref-14]. The game represented a significant technical upgrade from the original SCI2 engine production, though some critics felt the 3D character models appeared incongruous against the 2D backgrounds, sometimes resembling "paper dolls"[^ref-25].
 
-The remastered soundtrack by Robert Holmes preserved the atmospheric quality of the original compositions while taking advantage of modern audio capabilities[^ref-33][^ref-2]. The police station theme notably retained its humorous quality, with behind-the-scenes content revealing inspirations from Animal House and Airplane[^ref-27].
+The remastered soundtrack by Robert Holmes preserved the atmospheric quality of the original compositions while taking advantage of modern audio capabilities[^ref-2][^ref-33]. The police station theme notably retained its humorous quality, with behind-the-scenes content revealing inspirations from Animal House and Airplane[^ref-27].
 
 ### Technical Specifications
 
-**Windows Version:**[^ref-14][^ref-2]
+**Windows Version:**[^ref-2][^ref-14]
 - **Resolution:** Pre-rendered backgrounds scaled from 1920x1080
 - **API:** DirectX 9.0c
 - **Executable:** 32-bit
@@ -208,7 +208,7 @@ The Mac version faces a critical compatibility issue: as a 32-bit application, i
 | Grandma Knight/Tetelo | — | Linda Gary |
 | Gedde Butler | — | Tim Curry (dual role) |
 
-[^ref-1][^ref-34][^ref-5]
+[^ref-1][^ref-5][^ref-34]
 
 Jason Victor, who voiced Gabriel in the remake, had previously voiced King Graham in Phoenix Online's The Silver Lining, establishing a connection between the development teams[^ref-5]. The recasting of Tim Curry's iconic performance proved controversial among fans, with IGN's Chuck Osborn noting that while Curry was "ridiculously miscast as a Cajun," he nonetheless provided a memorable performance that became inseparable from the character[^ref-29].
 
@@ -224,7 +224,7 @@ The 20th Anniversary Edition is available as a standalone digital release and ha
 
 ### Awards and Recognition
 
-**Original 1993 Game Awards:**[^ref-34][^ref-2]
+**Original 1993 Game Awards:**[^ref-2][^ref-34]
 - Computer Gaming World Adventure Game of the Year 1994
 - Computer Game Review Adventure Game of the Year 1994
 - CES 1993 Best of Show

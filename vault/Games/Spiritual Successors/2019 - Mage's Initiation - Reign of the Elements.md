@@ -135,7 +135,7 @@ By late 2018, the game was approximately 95% complete, with "only the aforementi
 
 ### Technical Achievements
 
-Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10], the same open-source engine Himalaya Studios had utilized for their previous Sierra remakes. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, maintaining a 16:10 static aspect ratio that displays with vertical black bars on 16:9 monitors[^ref-10][^ref-4].
+Mage's Initiation was built using Adventure Game Studio (AGS) build 3.4.3.1[^ref-10], the same open-source engine Himalaya Studios had utilized for their previous Sierra remakes. The game features hand-painted pixel art graphics at a native resolution of 640×400 in 32-bit color, maintaining a 16:10 static aspect ratio that displays with vertical black bars on 16:9 monitors[^ref-4][^ref-10].
 
 The art direction received widespread praise, with Adventure Gamers noting "the background pixel art is simply extraordinary, across the board and in every scene"[^ref-20]. One MobyGames reviewer declared the game has "some of the most beautiful graphics ever"[^ref-12]. The visual style was designed to be reminiscent of classic Sierra, LucasArts, and Revolution games[^ref-15].
 

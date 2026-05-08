@@ -39,7 +39,7 @@ The release of King's Quest I VGA in 2001 marked a turning point for the studio,
 
 ### Continued Innovation and Recognition
 
-Following the success of their King's Quest remakes, AGD Interactive expanded their focus to include other beloved Sierra properties, most notably the Quest for Glory series.[^ref-8] Their 2008 release of Quest for Glory II VGA represented a massive technical achievement, transforming the original text-parser interface into a modern point-and-click adventure while preserving the complex character development and multiple solution paths that defined the series.[^ref-9][^ref-7]
+Following the success of their King's Quest remakes, AGD Interactive expanded their focus to include other beloved Sierra properties, most notably the Quest for Glory series.[^ref-8] Their 2008 release of Quest for Glory II VGA represented a massive technical achievement, transforming the original text-parser interface into a modern point-and-click adventure while preserving the complex character development and multiple solution paths that defined the series.[^ref-7][^ref-9]
 
 The studio's most recent major release, King's Quest III Redux: To Heir is Human in 2011, demonstrated their continued evolution as developers, featuring original voice acting, enhanced storylines, and sophisticated programming that addressed many of the frustrations players experienced with the original 1986 version.[^ref-3][^ref-4] This project took several years to complete and showcased the team's commitment to quality over speed, with extensive beta testing and community feedback integration throughout development.[^ref-5]
 

@@ -176,7 +176,7 @@ The Ruins of Cawdor was not widely included in compilation releases due to its o
 
 The ImagiNation Revival Project revived The Ruins of Cawdor in 2007, enabling players to once again experience the game's multiplayer functionality. Community-developed offline patches released in 2006 allowed solo players to explore the castle's dungeons without requiring network connectivity.[^ref-6]
 
-Various abandonware websites have preserved the game, including MyAbandonware, Classic Reload, and the Internet Archive, ensuring that this piece of gaming history remains accessible to researchers and retro gaming enthusiasts.[^ref-16][^ref-1][^ref-18]
+Various abandonware websites have preserved the game, including MyAbandonware, Classic Reload, and the Internet Archive, ensuring that this piece of gaming history remains accessible to researchers and retro gaming enthusiasts.[^ref-1][^ref-16][^ref-18]
 
 ### Related Publications
 

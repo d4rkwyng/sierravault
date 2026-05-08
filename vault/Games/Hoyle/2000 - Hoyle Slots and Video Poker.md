@@ -120,7 +120,7 @@ Hoyle Slots and Video Poker 2000 emerged as a focused entry in the series, extra
 
 ### Production
 
-Development was handled internally at Sierra On-Line, with publication managed through the Sierra Attractions label[^ref-7][^ref-3]. The game was designed for broad compatibility across Windows operating systems of the era, including Windows 95, 98, 2000, and ME[^ref-2]. A Macintosh version was developed concurrently to maximize market reach[^ref-3].
+Development was handled internally at Sierra On-Line, with publication managed through the Sierra Attractions label[^ref-3][^ref-7]. The game was designed for broad compatibility across Windows operating systems of the era, including Windows 95, 98, 2000, and ME[^ref-2]. A Macintosh version was developed concurrently to maximize market reach[^ref-3].
 
 The production incorporated authentic casino sound effects and visual design to create an immersive gambling atmosphere[^ref-6]. Horse racing announcer speech and various animations were included on the CD-ROM, though some features could be disabled to allow the game to run without the disc in the drive[^ref-4].
 
@@ -182,7 +182,7 @@ Hoyle Slots and Video Poker 2000 appeared in various compilations:
 
 ### Publisher Transition
 
-After 2005, publication of the Hoyle series transferred from Sierra Entertainment to Encore, Inc.[^ref-9] Encore continued to market Hoyle Slots and Video Poker through various retail channels, maintaining the brand's presence in the budget gaming market[^ref-6][^ref-2]. The Encore edition was listed on Newegg as first appearing on March 29, 2007[^ref-6].
+After 2005, publication of the Hoyle series transferred from Sierra Entertainment to Encore, Inc.[^ref-9] Encore continued to market Hoyle Slots and Video Poker through various retail channels, maintaining the brand's presence in the budget gaming market[^ref-2][^ref-6]. The Encore edition was listed on Newegg as first appearing on March 29, 2007[^ref-6].
 
 ### Related Publications
 

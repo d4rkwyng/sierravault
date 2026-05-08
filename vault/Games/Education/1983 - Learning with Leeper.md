@@ -152,7 +152,7 @@ Some sources list the ColecoVision release as 1984 rather than 1983, indicating 
 
 ### Technical Issues
 
-The ZX Spectrum version included "Padlock Protection" copy protection, which required multicolored code sheets for software protection[^ref-14][^ref-10]. This anti-piracy measure, while common for the era, could present accessibility challenges for young users requiring adult assistance to enter codes.
+The ZX Spectrum version included "Padlock Protection" copy protection, which required multicolored code sheets for software protection[^ref-10][^ref-14]. This anti-piracy measure, while common for the era, could present accessibility challenges for young users requiring adult assistance to enter codes.
 
 ### Easter Eggs and Trivia
 
@@ -175,7 +175,7 @@ Learning with Leeper has been preserved through various digital archives. The ga
 
 ### Fan Projects
 
-The game's historical significance has led to its documentation in multiple retro gaming databases including MobyGames, Giant Bomb, and platform-specific archives like Lemon64 (for Commodore 64) and World of Spectrum (for ZX Spectrum versions)[^ref-5][^ref-11][^ref-7][^ref-14].
+The game's historical significance has led to its documentation in multiple retro gaming databases including MobyGames, Giant Bomb, and platform-specific archives like Lemon64 (for Commodore 64) and World of Spectrum (for ZX Spectrum versions)[^ref-5][^ref-7][^ref-11][^ref-14].
 
 ### Related Publications
 

@@ -204,7 +204,7 @@ The original male protagonist Adam Church was cut during pre-production when the
 
 ### Technical Issues
 
-Known bugs and compatibility issues include:[^ref-24][^ref-14]
+Known bugs and compatibility issues include:[^ref-14][^ref-24]
 
 - Memory fragmentation causing crashes after long play sessions
 - Player inventory not saving correctly after being knocked out

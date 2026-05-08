@@ -62,7 +62,7 @@ The courses in Front Page Sports: Golf and its add-ons carried a more municipal 
 
 The Tour Course Add On utilized the same revolutionary TrueSwing mouse-controlled swing system that defined the base game[^ref-1][^ref-4]. While SimGolf was technically the first golf game to introduce a mouse-controlled swing method, TrueSwing was considered superior and became the defining feature of Front Page Sports: Golf[^ref-1]. The system allowed players to control every aspect of their swing through intuitive mouse movements, creating what reviewers described as gameplay that "just feels like golf in a way that no other golf sim duplicates"[^ref-1].
 
-The game featured a three-click swing system as an alternative control method[^ref-5], providing accessibility for players who preferred traditional golf game controls. The interface supported resolutions up to 1024x768 with 64,000 colors, delivering impressive SVGA graphics for the era[^ref-6][^ref-5]. One notable feature included the golfer character falling on their rear end if the player shook the mouse during the swing animation[^ref-6].
+The game featured a three-click swing system as an alternative control method[^ref-5], providing accessibility for players who preferred traditional golf game controls. The interface supported resolutions up to 1024x768 with 64,000 colors, delivering impressive SVGA graphics for the era[^ref-5][^ref-6]. One notable feature included the golfer character falling on their rear end if the player shook the mouse during the swing animation[^ref-6].
 
 ### Structure and Progression
 
@@ -94,7 +94,7 @@ Front Page Sports: Golf received positive reviews upon release, with critics pra
 
 ### Modern Assessment
 
-The game has maintained a dedicated fanbase among retro gaming enthusiasts[^ref-4][^ref-3][^ref-8]. Modern retrospective reviews have acknowledged its historical significance in establishing control schemes that became industry standards[^ref-4][^ref-9].
+The game has maintained a dedicated fanbase among retro gaming enthusiasts[^ref-3][^ref-4][^ref-8]. Modern retrospective reviews have acknowledged its historical significance in establishing control schemes that became industry standards[^ref-4][^ref-9].
 
 **Aggregate Scores:**
 - **MobyGames Critics Average:** 74%[^ref-4]
@@ -135,11 +135,11 @@ The multiplayer component was notably implemented late in the development cycle,
 
 The game's TrueSwing interface represented a significant advancement in golf game control systems[^ref-1]. The trademarked feature allowed for nuanced swing control that contemporary reviewers found superior to competing implementations[^ref-1][^ref-2]. The success of TrueSwing led to its later implementation in PGA Championship Golf 1999 Edition[^ref-1].
 
-Graphics utilized texture-mapped polygons for golfer rendering, distinguishing the visual approach from competitors who relied on full-motion video overlays[^ref-1]. The game supported SVGA graphics with resolutions up to 1024x768 and 64,000 colors[^ref-6][^ref-5].
+Graphics utilized texture-mapped polygons for golfer rendering, distinguishing the visual approach from competitors who relied on full-motion video overlays[^ref-1]. The game supported SVGA graphics with resolutions up to 1024x768 and 64,000 colors[^ref-5][^ref-6].
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-6][^ref-5]
+**System Requirements:**[^ref-5][^ref-6]
 - **Resolution:** Up to 1024x768, 64,000 colors
 - **Graphics:** SVGA support, texture-mapped polygon golfers
 - **Media:** CD-ROM[^ref-4]
@@ -170,7 +170,7 @@ GameSpot's review noted that "If your preference is extreme precision in a golf 
 
 ### Easter Eggs and Trivia
 
-The game included several humorous touches that set it apart from typical golf simulations[^ref-6][^ref-2]:
+The game included several humorous touches that set it apart from typical golf simulations[^ref-2][^ref-6]:
 
 - If the player leaves the game untouched, someone screams at them from a distance[^ref-6]
 - Shaking the mouse during the swing causes the character to fall on their rear end[^ref-6]
@@ -201,7 +201,7 @@ The game has been described as having lasting appeal: "Still, information about 
 
 ### Critical Perspective
 
-Front Page Sports: Golf and its Tour Course Add On represented Sierra's serious entry into the golf simulation genre during the mid-1990s[^ref-4][^ref-5]. The game's TrueSwing interface proved influential, setting standards for control schemes that would be adopted by subsequent golf titles[^ref-4][^ref-1]. The meticulous course recreation methodology—involving on-site photography and aerial surveying—established practices that would become standard in the sports simulation industry.
+Front Page Sports: Golf and its Tour Course Add On represented Sierra's serious entry into the golf simulation genre during the mid-1990s[^ref-4][^ref-5]. The game's TrueSwing interface proved influential, setting standards for control schemes that would be adopted by subsequent golf titles[^ref-1][^ref-4]. The meticulous course recreation methodology—involving on-site photography and aerial surveying—established practices that would become standard in the sports simulation industry.
 
 The game's position as "Sierra's answer to Links"[^ref-4][^ref-5] placed it in direct competition with the dominant franchise of the era, and while it didn't ultimately dethrone Links, it carved out a respected niche among golf simulation enthusiasts. The TrueSwing technology's later adoption in PGA Championship Golf 1999 Edition demonstrated the lasting impact of the control innovations pioneered in this title[^ref-1].
 

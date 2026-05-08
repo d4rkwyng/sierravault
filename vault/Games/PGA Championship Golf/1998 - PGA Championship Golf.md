@@ -68,7 +68,7 @@ PGA Championship Golf 2000 offers multiple game modes that cater to different pl
 - **Best Ball Mode:** Team-based competition format
 - **Ryder Cup Mode:** International team competition format
 - **Match Play Mode:** Head-to-head competition
-- **Stableford Scoring:** Alternative scoring system based on points[^ref-6][^ref-1]
+- **Stableford Scoring:** Alternative scoring system based on points[^ref-1][^ref-6]
 
 The game was notable for being the first to offer ReadyPlay technology, which allowed cyber golfers to move up the course independently of other players in their group, significantly improving multiplayer pacing[^ref-12].
 

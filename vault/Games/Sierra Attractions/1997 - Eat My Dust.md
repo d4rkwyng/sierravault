@@ -105,7 +105,7 @@ Eat My Dust has largely been forgotten in gaming history, serving primarily as a
 The kart racing genre remained dominated by console platforms, particularly Nintendo's Mario Kart series, making it difficult for PC-based competitors to establish a foothold[^ref-15]. Eat My Dust's technical limitations and design shortcomings prevented it from capturing the same sense of fun and accessibility that made console kart racers successful[^ref-3][^ref-13].
 
 ### Preservation
-The game is now preserved on various abandonware sites where it maintains a modest following among retro gaming enthusiasts interested in exploring Sierra's lesser-known catalog[^ref-14][^ref-2]. Modern emulation through DOSBox and compatibility layers has made the game playable on contemporary systems for those interested in experiencing this piece of Sierra history[^ref-6].
+The game is now preserved on various abandonware sites where it maintains a modest following among retro gaming enthusiasts interested in exploring Sierra's lesser-known catalog[^ref-2][^ref-14]. Modern emulation through DOSBox and compatibility layers has made the game playable on contemporary systems for those interested in experiencing this piece of Sierra history[^ref-6].
 
 ### Critical Perspective
 The game's poor reception highlighted the challenges faced by traditional adventure game developers when attempting to enter established genres dominated by console gaming[^ref-14]. Sierra's core competency lay in narrative-driven adventure games, and Eat My Dust demonstrated that successful game development requires more than brand recognition—it demands genre-specific expertise and technical excellence[^ref-4][^ref-5].

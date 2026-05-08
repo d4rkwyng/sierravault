@@ -13,17 +13,17 @@ last_updated: "2026-02-13"
 
 ## Overview
 
-Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and animator whose career in video games spans nearly four decades, from 1985 to the present day.[^ref-1] Best known as the creative force behind [[1992 - The Incredible Machine|The Incredible Machine]] series, Hahn spent nearly fourteen years at Dynamix, where he served in multiple roles including art director, designer, producer, audio director, and localization lead.[^ref-1][^ref-2]
+Brian Mark Hahn (born May 3, 1959) is an American graphics artist, designer, and animator whose career in video games spans nearly four decades, from 1985 to the present day.[^ref-1][^ref-6] Best known as the creative force behind [[1992 - The Incredible Machine|The Incredible Machine]] series, Hahn spent nearly fourteen years at Dynamix, where he served in multiple roles including art director, designer, producer, audio director, and localization lead.[^ref-1]
 
-Hahn's contributions to gaming extend far beyond puzzle design. His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1]
+Hahn's contributions to gaming extend far beyond puzzle design.[^ref-7] His work at Dynamix encompassed adventure games like [[1990 - Rise of the Dragon|Rise of the Dragon]], [[1991 - Heart of China|Heart of China]], and [[1991 - The Adventures of Willy Beamish|The Adventures of Willy Beamish]], sports titles like the Trophy Bass series, and casual games including the 3-D Ultra Minigolf franchise.[^ref-2][^ref-9] He is also credited with creating the beloved Johnny Castaway screensaver (1992), one of the most iconic desktop diversions of the Windows 3.1 era.[^ref-1][^ref-10]
 
-Remarkably, Hahn remains active in the game industry after a 16-year hiatus. From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude. He loves collaboration and encourages lots of communication and team-building."[^ref-3]
+Remarkably, Hahn remains active in the game industry after a 16-year hiatus.[^ref-2] From 2018 to 2023, he worked as an FX Artist at ZeniMax Online Studios on six major expansions for The Elder Scrolls Online, bringing his career total to over 40 games across 38+ years.[^ref-2][^ref-11] His biography notes that his specialty is "getting people excited about an idea and having a positive, upbeat attitude.[^ref-8] He loves collaboration and encourages lots of communication and team-building."[^ref-3][^ref-12]
 
 ## Career
 
 ### Education and Early Work
 
-Brian Hahn attended Lane Community College and the University of Oregon beginning in 1978, where he studied graphic design, software drawing, and HTML.[^ref-1] In 1982, he earned his Bachelor of Science degree in Visual Design, Fine Arts, and Animation.[^ref-1] His first work in the video game industry came in 1985, providing computer graphics for the Commodore 64 version of Dave Winfield's Batter Up! by Avant-Garde Publishing Corporation.[^ref-1][^ref-2]
+Brian Hahn attended Lane Community College and the University of Oregon beginning in 1978, where he studied graphic design, software drawing, and HTML.[^ref-1][^ref-13] In 1982, he earned his Bachelor of Science degree in Visual Design, Fine Arts, and Animation.[^ref-1][^ref-14] His first work in the video game industry came in 1985, providing computer graphics for the Commodore 64 version of Dave Winfield's Batter Up! by Avant-Garde Publishing Corporation.[^ref-1][^ref-2][^ref-15]
 
 ### Dynamix Years (1987–2001)
 

@@ -173,7 +173,7 @@ The game was Sierra's first 3D King's Quest title, representing a complete depar
 
 ### Cut Content
 
-Significant content was removed from the final release due to budget constraints and technical limitations. Development footage and documentation revealed two or three complete levels were cut from the game:[^ref-3][^ref-1]
+Significant content was removed from the final release due to budget constraints and technical limitations. Development footage and documentation revealed two or three complete levels were cut from the game:[^ref-1][^ref-3]
 
 - **Undersea Area:** A planned underwater level featuring seaweed, fish, and ancient ruins
 - **Green Forested Village Area:** A fully developed forest region with an inhabited village

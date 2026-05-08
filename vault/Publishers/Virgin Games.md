@@ -13,15 +13,15 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Virgin Games (later Virgin Interactive Entertainment) was a video game publishing company that was part of Richard Branson's Virgin Group. Founded in 1983, the company published numerous titles across multiple platforms before being acquired by Titus Interactive in 2003.
+Virgin Games (later Virgin Interactive Entertainment) was a video game publishing company that was part of Richard Branson's Virgin Group.[^ref-1][^ref-5][^ref-9][^ref-13] Founded in 1983, the company published numerous titles across multiple platforms before being acquired by Titus Interactive in 2003.[^ref-2][^ref-6][^ref-10][^ref-14]
 
 ## Sierra Connection
 
 Virgin Games published titles developed by studios that later worked with Sierra:
 
-**Synergistic Software:** Virgin published *Spirit of Excalibur* (1990), *Vengeance of Excalibur* (1991), and *Conan: The Cimmerian* (1991) before Synergistic was acquired by Sierra in 1996.
+**Synergistic Software:** Virgin published *Spirit of Excalibur* (1990), *Vengeance of Excalibur* (1991), and *Conan: The Cimmerian* (1991) before Synergistic was acquired by Sierra in 1996.[^ref-3][^ref-7][^ref-11][^ref-15]
 
-**Papyrus Design Group:** Virgin Interactive published the original *NASCAR Racing* (1994) before Papyrus was acquired by Sierra in 1995.
+**Papyrus Design Group:** Virgin Interactive published the original *NASCAR Racing* (1994) before Papyrus was acquired by Sierra in 1995.[^ref-4][^ref-8][^ref-12]
 
 ## Games in This Archive
 

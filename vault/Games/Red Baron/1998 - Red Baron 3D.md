@@ -97,7 +97,7 @@ The technical improvements included enhanced graphics with trees, shrubs, layere
 
 ## Legacy
 
-Red Baron 3D's impact on flight simulation gaming was significant, with Computer Gaming World recognizing the original Red Baron as "the Top Simulation of 1991" and later as "one of the best games of all time"[^ref-24]. The game received multiple award nominations, including "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards and "Best Sim Game" at CNET Gamecenter Awards 1997[^ref-17][^ref-8].
+Red Baron 3D's impact on flight simulation gaming was significant, with Computer Gaming World recognizing the original Red Baron as "the Top Simulation of 1991" and later as "one of the best games of all time"[^ref-24]. The game received multiple award nominations, including "Simulation of the Year" at GameSpot's Best & Worst of 1998 Awards and "Best Sim Game" at CNET Gamecenter Awards 1997[^ref-8][^ref-17].
 
 ### Community and Modding
 

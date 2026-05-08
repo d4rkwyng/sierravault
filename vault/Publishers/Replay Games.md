@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Replay Games was an American video game development and publishing company founded by Paul Trowe in 2011. The company specialized in reviving classic adventure game franchises through high-definition remakes and new entries, with a focus on Sierra On-Line properties.
+Replay Games was an American video game development and publishing company founded by Paul Trowe in 2011.[^ref-1][^ref-8][^ref-15] The company specialized in reviving classic adventure game franchises through high-definition remakes and new entries, with a focus on Sierra On-Line properties.[^ref-2][^ref-9]
 
 ## Sierra Connection
 
-Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property. The company's most notable achievement was partnering with [[Designers/Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.
+Replay Games was explicitly founded to acquire and revive classic Sierra adventure game intellectual property.[^ref-3][^ref-10] The company's most notable achievement was partnering with [[Designers/Al Lowe|Al Lowe]] to create *Leisure Suit Larry: Reloaded*, an HD remake of the original 1987 Sierra classic.[^ref-4][^ref-11]
 
-The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.
+The company secured rights to several Sierra properties through negotiations with Codemasters (who had acquired rights from Sierra) and launched successful Kickstarter campaigns to fund their remake projects.[^ref-5][^ref-12]
 
 ## Games Published (Sierra Archive)
 
@@ -33,7 +33,7 @@ The company secured rights to several Sierra properties through negotiations wit
 
 ## Closure
 
-Replay Games ceased operations around 2018 after several years of inactivity following their initial releases. Plans for *Leisure Suit Larry: Reloaded 2* and other Sierra remakes were never realized.
+Replay Games ceased operations around 2018 after several years of inactivity following their initial releases.[^ref-6][^ref-13] Plans for *Leisure Suit Larry: Reloaded 2* and other Sierra remakes were never realized.[^ref-7][^ref-14]
 
 ## Related
 

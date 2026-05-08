@@ -25,7 +25,7 @@ Sword of Kadash is an action role-playing game originally developed for the Appl
 
 The game earned praise in contemporary magazines as an original action-adventure experience, though it was also notorious for its punishing difficulty.[^ref-4] Set in the deserts of Persia, players must navigate a sprawling dungeon of 250 different rooms filled with traps, monsters, and hidden passages.[^ref-5] The game's design philosophy emphasized learning through repeated failures, requiring players to make extensive maps and notes to eventually plot a successful path to victory.[^ref-6]
 
-Sword of Kadash holds historical significance as one of the earliest titles released by [[Dynamix]], the company that would later become famous for flight simulators and adventure games before being acquired by Sierra On-Line.[^ref-7][^ref-3] The game represented founder Jeff Tunnell's strategy of signing contracts to keep his fledgling company financially afloat during its formative years.[^ref-3]
+Sword of Kadash holds historical significance as one of the earliest titles released by [[Dynamix]], the company that would later become famous for flight simulators and adventure games before being acquired by Sierra On-Line.[^ref-3][^ref-7] The game represented founder Jeff Tunnell's strategy of signing contracts to keep his fledgling company financially afloat during its formative years.[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-2]
@@ -56,7 +56,7 @@ The game offers the choice of playing as either a hero or heroine at the start, 
 
 ### Structure and Progression
 
-The game consists of a massive interconnected dungeon featuring 256 discrete rooms spread across the fortress.[^ref-6][^ref-5] Unlike linear action games of the era, Sword of Kadash emphasizes freedom to explore without following a predetermined path.[^ref-14] This non-linear structure was reminiscent of the earlier Apshai games that influenced its design.[^ref-11]
+The game consists of a massive interconnected dungeon featuring 256 discrete rooms spread across the fortress.[^ref-5][^ref-6] Unlike linear action games of the era, Sword of Kadash emphasizes freedom to explore without following a predetermined path.[^ref-14] This non-linear structure was reminiscent of the earlier Apshai games that influenced its design.[^ref-11]
 
 - **Starting Area:** Initial rooms with weaker enemies for learning combat basics[^ref-6]
 - **Outer Fortress:** Maze-like corridors with increasing monster density[^ref-11]
@@ -142,7 +142,7 @@ Chris Cole expressed some disappointment with the final product's setting change
 |---------|------|----------|-------|
 | 1.0 | 1984 | Apple II | Initial release[^ref-6][^ref-20] |
 | 1.0 | 1985 | Commodore 64 | Port by Kenneth Hurley[^ref-2][^ref-8] |
-| 1.0 | 1986 | Atari ST | 3-month conversion[^ref-19][^ref-17] |
+| 1.0 | 1986 | Atari ST | 3-month conversion[^ref-17][^ref-19] |
 | 1.0 | 1986 | Macintosh | Final platform port[^ref-2] |
 
 ### Technical Issues
@@ -168,7 +168,7 @@ The game appeared as part of Dynamix's early catalog before the company was acqu
 
 ### Fan Projects
 
-Community members have created level maps to help modern players navigate the extensive dungeon system, with notable contributions from AtariCrypt.[^ref-17][^ref-11] The game is preserved and playable through various emulation platforms including Virtual Apple and Internet Archive.[^ref-20]
+Community members have created level maps to help modern players navigate the extensive dungeon system, with notable contributions from AtariCrypt.[^ref-11][^ref-17] The game is preserved and playable through various emulation platforms including Virtual Apple and Internet Archive.[^ref-20]
 
 ### Related Publications
 

@@ -229,7 +229,7 @@ Modern compatibility issues are severe: "this game is too old to work on todays 
 
 ### Sales and Commercial Impact
 
-Despite its problems, Outpost appeared on PC Data's Top Ten best-selling games list for several months following release, though it ultimately underperformed expectations[^ref-6][^ref-1]. The game benefited from Sierra's strong marketing and the initial positive reviews based on the more complete beta version.
+Despite its problems, Outpost appeared on PC Data's Top Ten best-selling games list for several months following release, though it ultimately underperformed expectations[^ref-1][^ref-6]. The game benefited from Sierra's strong marketing and the initial positive reviews based on the more complete beta version.
 
 ### Awards (Negative)
 

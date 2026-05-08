@@ -53,7 +53,7 @@ The game emphasizes tactical decision-making over pure action[^ref-6], requiring
 
 ### Interface and Controls
 
-SWAT Force utilizes a control scheme adapted for mobile phone keypads typical of the era[^ref-4][^ref-3]. Movement is handled through the D-pad[^ref-4], while numbered keys are assigned to various actions including weapon selection, character switching, and special abilities[^ref-4][^ref-5]. The game employs context-sensitive action bubbles[^ref-5] that appear when players approach interactive elements[^ref-5], though this system was criticized for causing the screen to occasionally flicker back to the title image[^ref-5].
+SWAT Force utilizes a control scheme adapted for mobile phone keypads typical of the era[^ref-3][^ref-4]. Movement is handled through the D-pad[^ref-4], while numbered keys are assigned to various actions including weapon selection, character switching, and special abilities[^ref-4][^ref-5]. The game employs context-sensitive action bubbles[^ref-5] that appear when players approach interactive elements[^ref-5], though this system was criticized for causing the screen to occasionally flicker back to the title image[^ref-5].
 
 The two-character system forms the core of the gameplay experience[^ref-3][^ref-6], with players able to switch between the artilleryman and expert characters to utilize their respective specialties[^ref-4][^ref-6]. The artilleryman excels at direct confrontation and heavy weapons[^ref-4][^ref-5], while the expert handles more delicate operations[^ref-4][^ref-5].
 
@@ -96,7 +96,7 @@ The game received "average" reviews according to the review aggregation website 
 
 SWAT Force emerged from the collaboration between French development studio Kaolink[^ref-1][^ref-2] and publisher Vivendi Universal Games Mobile[^ref-1][^ref-7]. The project represented Sierra's first attempt to bring the Police Quest franchise to mobile platforms[^ref-1][^ref-11][^ref-12], capitalizing on the growing mobile gaming market of the mid-2000s[^ref-2][^ref-11].
 
-The game was conceived as an extension of the PC SWAT franchise[^ref-6][^ref-11], which itself had evolved from the Police Quest series[^ref-6][^ref-11][^ref-12]. The development challenge lay in translating the complex tactical gameplay of titles like SWAT 3[^ref-8][^ref-11] and SWAT 4[^ref-9] to the severely limited hardware capabilities of contemporary mobile phones[^ref-6][^ref-3].
+The game was conceived as an extension of the PC SWAT franchise[^ref-6][^ref-11], which itself had evolved from the Police Quest series[^ref-6][^ref-11][^ref-12]. The development challenge lay in translating the complex tactical gameplay of titles like SWAT 3[^ref-8][^ref-11] and SWAT 4[^ref-9] to the severely limited hardware capabilities of contemporary mobile phones[^ref-3][^ref-6].
 
 ### Production
 

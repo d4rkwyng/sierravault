@@ -42,7 +42,7 @@ Despite its technical ambitions, the initial release was criticized for being ru
 
 ### Interface and Controls
 
-Pro Pilot 98 offered players both first-person cockpit views and external third-person perspectives to observe their aircraft in flight[^ref-11]. The game was designed to be played primarily with mouse input, though it supported various joystick configurations for a more authentic flying experience[^ref-12]. Each aircraft featured meticulously detailed instrument panels with dual COMM/NAV radios, a built-in GPS display (notably the first consumer flight simulator to include this feature), and complete navigation instrumentation including VOR and NDB beacon receivers[^ref-8][^ref-6].
+Pro Pilot 98 offered players both first-person cockpit views and external third-person perspectives to observe their aircraft in flight[^ref-11]. The game was designed to be played primarily with mouse input, though it supported various joystick configurations for a more authentic flying experience[^ref-12]. Each aircraft featured meticulously detailed instrument panels with dual COMM/NAV radios, a built-in GPS display (notably the first consumer flight simulator to include this feature), and complete navigation instrumentation including VOR and NDB beacon receivers[^ref-6][^ref-8].
 
 The simulation included a pop-up Operator's Handbook feature that provided in-flight access to checklists and procedures, allowing players to reference proper aviation protocols without pausing the game[^ref-6]. Air Traffic Control was simulated with AI controllers providing vectoring instructions and approach guidance, adding another layer of realism to the flight experience[^ref-7][^ref-13]. However, reviewers noted that while "well-detailed on flight instruction, the manual pays very little attention to the actual controls and how they work," creating a learning curve for newcomers[^ref-14].
 
@@ -74,7 +74,7 @@ The geographic coverage included 29 major metropolitan areas with photographic i
 
 ### Contemporary Reviews
 
-Pro Pilot 98 received mixed reviews upon release, with critics acknowledging its educational value while criticizing its rushed state and technical limitations. GameSpot's Denny Atkin gave the game a score of 6.1/10 on February 9, 1998, noting that "Sierra's initial entry into the civilian flight simulator market, Pro Pilot '98, was far from the Microsoft Flight Simulator killer it was touted as"[^ref-6]. Atkin concluded that "with the glaring omissions fixed and a graphics overhaul, Pro Pilot could be contender. As it stands now, it's primarily of interest to potential student pilots looking for a good instrument flying simulator"[^ref-6][^ref-2].
+Pro Pilot 98 received mixed reviews upon release, with critics acknowledging its educational value while criticizing its rushed state and technical limitations. GameSpot's Denny Atkin gave the game a score of 6.1/10 on February 9, 1998, noting that "Sierra's initial entry into the civilian flight simulator market, Pro Pilot '98, was far from the Microsoft Flight Simulator killer it was touted as"[^ref-6]. Atkin concluded that "with the glaring omissions fixed and a graphics overhaul, Pro Pilot could be contender. As it stands now, it's primarily of interest to potential student pilots looking for a good instrument flying simulator"[^ref-2][^ref-6].
 
 Computer Gaming World gave the title 2.5 out of 5 stars in their April 1998 issue[^ref-2]. German gaming magazine PC Joker rated it 58% in their September 1998 coverage[^ref-2][^ref-16]. The consistent criticism across publications focused on the lack of 3D accelerator support, limited graphics running at only 640x480 resolution with 256 colors, and numerous bugs present at launch[^ref-6][^ref-8].
 
@@ -101,7 +101,7 @@ Sierra positioned Pro Pilot as a direct challenger to Microsoft Flight Simulator
 
 Development focused heavily on accuracy and educational value, with the team incorporating 27 million elevation data points from U.S. Geological Survey maps to create realistic terrain[^ref-3][^ref-5]. Tools including 3D Studio and PhotoShop were employed for terrain and landmark creation[^ref-5]. The cockpit instrumentation received particular attention, with each aircraft featuring detailed, functional panels that would later be praised as superior to competitor products[^ref-6].
 
-However, the project appears to have faced significant time pressure, resulting in a release that critics characterized as buggy and unfinished. The initial version shipped with over 30 known bugs, necessitating post-launch patches[^ref-8][^ref-6]. Notably, the game launched without support for 3D graphics acceleration, a significant oversight given that 3Dfx Voodoo cards were becoming standard equipment for PC gamers in late 1997[^ref-6][^ref-9].
+However, the project appears to have faced significant time pressure, resulting in a release that critics characterized as buggy and unfinished. The initial version shipped with over 30 known bugs, necessitating post-launch patches[^ref-6][^ref-8]. Notably, the game launched without support for 3D graphics acceleration, a significant oversight given that 3Dfx Voodoo cards were becoming standard equipment for PC gamers in late 1997[^ref-6][^ref-9].
 
 **Development Credits:**[^ref-11]
 - **Director:** Mark R. Pechnick
@@ -154,7 +154,7 @@ The game simulated realistic air traffic control interactions, with AI controlle
 
 ### Technical Issues
 
-The initial release suffered from numerous technical problems that damaged its competitive position against Microsoft Flight Simulator 98. Over 30 bugs were documented in the launch version, requiring multiple patches to address[^ref-8][^ref-6]. The first patch focused on improving aircraft handling characteristics[^ref-8].
+The initial release suffered from numerous technical problems that damaged its competitive position against Microsoft Flight Simulator 98. Over 30 bugs were documented in the launch version, requiring multiple patches to address[^ref-6][^ref-8]. The first patch focused on improving aircraft handling characteristics[^ref-8].
 
 More fundamental issues included problems with the flight model in unusual attitudes—the aircraft nose would freeze during loops, and spin handling was not properly simulated[^ref-6]. These limitations affected pilots who wanted to explore the full flight envelope of their virtual aircraft. The lack of 3D acceleration support meant the game looked dated compared to other 1997 releases, running at only 640x480 with 256 colors[^ref-6][^ref-8].
 

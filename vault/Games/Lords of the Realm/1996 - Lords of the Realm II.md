@@ -114,7 +114,7 @@ Impressions Games had been acquired by Sierra in 1995, and Lords of the Realm II
 
 Composer Keith Zizza worked on the game's soundtrack during the spring and summer of 1996.[^ref-28] It was his second game with Sierra, following Rise & Rule of Ancient Empires.[^ref-28] The audio production faced significant technical constraints due to CD-ROM space limitations.
 
-**Development Credits:**[^ref-6][^ref-1]
+**Development Credits:**[^ref-1][^ref-6]
 - **Lead Designer:** David Lester
 - **Designer:** [[Chris Beatrice]], Simon Bradbury, Eric Ouellette
 - **Composer:** Keith Zizza
@@ -249,7 +249,7 @@ The game inspired long-running community engagement, with detailed strategy guid
 ### Related Publications
 
 - **Lords of the Realm II User's Manual:** Published by Sierra, praised by users for its quality ("Good manual")[^ref-46]
-- **Strategy Guides:** Multiple fan-created guides available on GameFAQs and Steam Community, including comprehensive economic and military strategy documentation[^ref-22][^ref-18]
+- **Strategy Guides:** Multiple fan-created guides available on GameFAQs and Steam Community, including comprehensive economic and military strategy documentation[^ref-18][^ref-22]
 
 ### Sequels and Series Impact
 

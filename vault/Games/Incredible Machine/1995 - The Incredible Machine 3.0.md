@@ -144,8 +144,8 @@ No specific information about cut content for The Incredible Machine 3.0 has bee
 |---------|------|----------|-------|
 | The Incredible Machine | 1993 | MS-DOS | Original release[^ref-2][^ref-18] |
 | The Even More Incredible Machine | 1993 | MS-DOS | Extended version with 160 levels[^ref-2] |
-| The Incredible Machine 2 | 1994 | DOS, Macintosh | New interface, improved graphics[^ref-2][^ref-1] |
-| The Incredible Machine Version 3.0 | 1995 | DOS, Windows, Macintosh | Same levels as TIM2, improved interface[^ref-2][^ref-1] |
+| The Incredible Machine 2 | 1994 | DOS, Macintosh | New interface, improved graphics[^ref-1][^ref-2] |
+| The Incredible Machine Version 3.0 | 1995 | DOS, Windows, Macintosh | Same levels as TIM2, improved interface[^ref-1][^ref-2] |
 
 ### Technical Issues
 

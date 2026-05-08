@@ -19,7 +19,7 @@ Beginning his career at Sierra in 1984, Crowe initially worked as an artist and 
 
 Crowe's design philosophy centered on what he described as being a "stand-in for the player and trying to be in the player's head," an approach that made the Space Quest games particularly accessible and enjoyable for mainstream audiences.[^ref-9][^ref-10] His work contributed significantly to the evolution of adventure games from parser-based text interfaces to intuitive point-and-click systems, helping to expand the genre's appeal beyond hardcore computer enthusiasts.[^ref-11][^ref-12]
 
-After leaving Sierra, Crowe enjoyed a prolific career spanning three decades, from directing mech combat simulations at Dynamix to serving as Studio Design Director at Pipeworks Software, where he led development on the acclaimed Godzilla fighting game trilogy and the million-selling Rampage: Total Destruction.[^ref-13][^ref-9]
+After leaving Sierra, Crowe enjoyed a prolific career spanning three decades, from directing mech combat simulations at Dynamix to serving as Studio Design Director at Pipeworks Software, where he led development on the acclaimed Godzilla fighting game trilogy and the million-selling Rampage: Total Destruction.[^ref-9][^ref-13]
 
 ## Career
 
@@ -27,7 +27,7 @@ After leaving Sierra, Crowe enjoyed a prolific career spanning three decades, fr
 
 Mark Crowe's entry into the video game industry was serendipitous rather than planned. In 1984, he joined Sierra On-Line without any prior computer experience, initially working on graphics and art for various projects.[^ref-14][^ref-15] His earliest contributions included artwork for [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh in the Hundred Acre Wood]], where he learned the fundamentals of computer graphics and game development.[^ref-16]
 
-During his early years at Sierra, Crowe worked as an artist on several high-profile projects, including [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-16][^ref-16] This period was crucial for his development as a game creator, as he absorbed the company's approach to adventure game design while honing his technical skills. Interestingly, his first exposure to adventure gaming came through Sierra's adult-oriented text adventure SoftPorn, which later inspired the Leisure Suit Larry series. As Crowe recalled, "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
+During his early years at Sierra, Crowe worked as an artist on several high-profile projects, including [[1985 - King's Quest II - Romancing the Throne|King's Quest II: Romancing the Throne]] and [[1986 - The Black Cauldron|The Black Cauldron]].[^ref-16] This period was crucial for his development as a game creator, as he absorbed the company's approach to adventure game design while honing his technical skills. Interestingly, his first exposure to adventure gaming came through Sierra's adult-oriented text adventure SoftPorn, which later inspired the Leisure Suit Larry series. As Crowe recalled, "Well, I'm almost ashamed to say but it was Sierra's text adventure: SoftPorn. Which later became the inspiration for Leisure Suit Larry. But it was my door to the world of adventure gaming."[^ref-6]
 
 ### Sierra Years (1984–1991)
 

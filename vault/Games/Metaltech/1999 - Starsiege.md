@@ -113,7 +113,7 @@ One significant technical decision during development was the abandonment of Dir
 
 The game shipped with two early demos released in 1998 as "Alpha Technology Releases" to build community interest.[^ref-35] Over 100,000 pre-alpha downloads demonstrated significant anticipation for the title.[^ref-21] A newer demo featuring Titan and Earth worlds, 11 new multiplayer missions, and new vehicles including the Minotaur herc and Myrmidon tank was later released.[^ref-36]
 
-**Development Credits:**[^ref-27][^ref-1]
+**Development Credits:**[^ref-1][^ref-27]
 - **Executive Producer:** Jeffrey Tunnell
 - **Designer:** David Selle
 - **Lead Programmer:** Rick Overman

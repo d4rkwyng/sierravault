@@ -135,7 +135,7 @@ The game featured improved graphics over its predecessor, though it remained sof
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-18][^ref-13]
+**System Requirements:**[^ref-13][^ref-18]
 
 **Minimum:**
 - **Processor:** Intel Pentium 166MHz (Pentium II 233MHz recommended)

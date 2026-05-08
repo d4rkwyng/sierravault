@@ -26,7 +26,7 @@ Turbo Learning: Mega Math is an educational mathematics game developed by [[Jeff
 
 Described as "one of the least known Sierra games ever," Mega Math followed the formula established by its predecessor, Quarky & Quaysoo's Turbo Science, featuring the same alien characters in a new educational setting[^ref-4]. The game contains an Easter egg referencing its predecessor through an in-game blimp announcement for Turbo Science[^ref-20]. The game was designed to help children practice fundamental math facts through repetitive but engaging gameplay, with the philosophy that "practice, practice, practice" is the key to building mathematical fluency[^ref-3]. Players are guided by Dr. Krista, an intelligent talking teacher who greets them at Knowledge Central and tracks their progress throughout the learning experience[^ref-6].
 
-One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-16][^ref-17][^ref-6]
+One of the game's notable technical achievements was its inclusion of full speech synthesis despite being distributed solely on floppy disks—a relatively rare accomplishment for educational software of that era[^ref-7]. The game targeted elementary school-aged children, offering them an opportunity to have fun while solving basic equations after coming home from school[^ref-7].[^ref-6][^ref-16][^ref-17]
 
 > [!info]- Game Info
 > **Developer:** [[Jeff Tunnell]] Productions[^ref-1]

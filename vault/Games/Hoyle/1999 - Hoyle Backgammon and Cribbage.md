@@ -22,7 +22,7 @@ tags: [1990s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-13][^ref-2][^ref-14] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-15] Named after 18th century playing card expert Edmond Hoyle, the series was renowned for its accessible yet faithful recreations of beloved tabletop games.[^ref-3][^ref-17]
+Hoyle Backgammon & Cribbage is a digital adaptation of two classic board and card games released by [[Sierra On-Line]] in 1999 for Windows and Macintosh platforms.[^ref-1][^ref-2][^ref-13][^ref-14] The game was part of Sierra's long-running Hoyle series, which had been bringing traditional games to home computers since 1989.[^ref-3][^ref-15] Named after 18th century playing card expert Edmond Hoyle, the series was renowned for its accessible yet faithful recreations of beloved tabletop games.[^ref-3][^ref-17]
 
 The title combined two distinct games: backgammon, the ancient race game where players move markers around the board attempting to bear off all their pieces first, and cribbage, a classic card game involving strategic card play and a distinctive scoring board.[^ref-1] Players could challenge ten different computer-controlled opponents of varying skill levels or compete against friends via internet play, a feature that was becoming increasingly common in late 1990s gaming.[^ref-1]
 

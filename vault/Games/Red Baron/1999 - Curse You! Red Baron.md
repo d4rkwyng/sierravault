@@ -44,7 +44,7 @@ Curse You! Red Baron places players in the cockpit during the early days of aeri
 
 The central antagonist is Baron Manfred von Richthofen, the legendary German flying ace known as the Red Baron, whose flying prowess represents the ultimate challenge for players.[^ref-3] The game asks whether the player has "the wits and bravery to handle the flying prowess of Baron Von Richtoffen," positioning the historical figure as the mortal enemy to overcome.[^ref-3]
 
-Beyond this basic premise, the game emphasizes arcade-style action over deep narrative content. Set against the backdrop of historical WWI aerial battles, players engage in dogfights and challenges that evoke the romantic mythology of early air combat rather than providing a detailed historical narrative or character development.[^ref-4][^ref-1]
+Beyond this basic premise, the game emphasizes arcade-style action over deep narrative content. Set against the backdrop of historical WWI aerial battles, players engage in dogfights and challenges that evoke the romantic mythology of early air combat rather than providing a detailed historical narrative or character development.[^ref-1][^ref-4]
 
 ## Gameplay
 
@@ -126,7 +126,7 @@ Support for 3dfx graphics cards was included, using nglide as a wrapper for comp
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-9][^ref-5]
+**CD-ROM Version:**[^ref-5][^ref-9]
 - **Operating System:** Windows 95, Windows 98, Windows Me, Windows 2000
 - **Processor:** Pentium (minimum)
 - **Memory:** 32MB RAM
@@ -158,7 +158,7 @@ Curse You! Red Baron suffered from several technical problems that hampered the 
 - **Joystick Detection Issues:** Despite advertising joystick support, the option to enable it was reportedly difficult or impossible to find in the game interface.[^ref-6]
 - **Performance Problems:** The game exhibited choppy performance even on high-end hardware of the era, including 450MHz systems.[^ref-6]
 - **Control Difficulties:** Both critics and users reported that aircraft were difficult to control, contributing to frustration.[^ref-8][^ref-11]
-- **Graphics Quality:** The visual presentation was criticized as marginal and flat, failing to meet expectations for a late-90s 3D-accelerated title.[^ref-8][^ref-6]
+- **Graphics Quality:** The visual presentation was criticized as marginal and flat, failing to meet expectations for a late-90s 3D-accelerated title.[^ref-6][^ref-8]
 
 For the broader Red Baron series, Dynamix released patches addressing joystick timing issues on fast CPUs, particularly for systems running at 386/33 speeds or faster with game cards lacking speed calibration.[^ref-7] Similar timing-related issues affected other Dynamix 3Space engine games.[^ref-7]
 

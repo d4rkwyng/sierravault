@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Patrick Cook (sometimes credited as Pat Cook) is a veteran video game producer, designer, and studio manager whose career spans from the golden age of Cinemaware's interactive movies through Microsoft's major flight simulation and racing franchises.[^ref-1] Beginning as a producer on Cinemaware classics like Rocket Ranger and It Came from the Desert in the late 1980s, Cook transitioned to Sierra's Dynamix division where he became the original designer and director of the Front Page Sports football franchise.[^ref-2]
+Patrick Cook (sometimes credited as Pat Cook) is a veteran video game producer, designer, and studio manager whose career spans from the golden age of Cinemaware's interactive movies through Microsoft's major flight simulation and racing franchises.[^ref-1][^ref-16] Beginning as a producer on Cinemaware classics like Rocket Ranger and It Came from the Desert in the late 1980s, Cook transitioned to Sierra's Dynamix division where he became the original designer and director of the Front Page Sports football franchise.[^ref-2]
 
 Cook's career demonstrates remarkable adaptability across gaming genres. From producing action-adventure games at Cinemaware to designing landmark sports simulations at Dynamix, then directing strategy titles like [[1997 - Outpost 2 - Divided Destiny|Outpost 2: Divided Destiny]], he evolved into senior management roles at Microsoft Game Studios.[^ref-3] His later career saw him serve as Design Manager on Microsoft Flight Simulator X and as part of the leadership at Turn 10 Studios working on the Forza franchise.[^ref-4]
 

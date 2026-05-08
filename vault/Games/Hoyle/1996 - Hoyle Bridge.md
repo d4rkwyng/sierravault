@@ -180,9 +180,9 @@ By 2006, Sierra president Michael Ryder announced further reorganization, explai
 
 ### Fan Projects
 
-Hoyle Bridge remains available through abandonware preservation sites including MyAbandonware and Old Games Download[^ref-10][^ref-7]. The Computing History museum in the UK maintains records of the software as part of their historical archive[^ref-22].
+Hoyle Bridge remains available through abandonware preservation sites including MyAbandonware and Old Games Download[^ref-7][^ref-10]. The Computing History museum in the UK maintains records of the software as part of their historical archive[^ref-22].
 
-The game is not currently available on modern digital distribution platforms such as Steam or GOG[^ref-23][^ref-11], leaving emulation and abandonware sites as the primary means for contemporary players to experience the title.
+The game is not currently available on modern digital distribution platforms such as Steam or GOG[^ref-11][^ref-23], leaving emulation and abandonware sites as the primary means for contemporary players to experience the title.
 
 ### Related Publications
 

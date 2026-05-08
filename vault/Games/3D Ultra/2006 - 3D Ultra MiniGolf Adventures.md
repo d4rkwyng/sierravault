@@ -89,7 +89,7 @@ Power-ups scattered throughout courses add strategic depth to gameplay:[^ref-5]
 - **Vacuum Hole:** Sucks balls toward the hole[^ref-5]
 - **Blow Hole:** Pushes balls away from the hole[^ref-5]
 
-Course hazards include interactive elements like scorpions that push balls around randomly, explosive barrels that launch balls into the air, and craters that can trap errant shots.[^ref-8][^ref-3]
+Course hazards include interactive elements like scorpions that push balls around randomly, explosive barrels that launch balls into the air, and craters that can trap errant shots.[^ref-3][^ref-8]
 
 ## Reception
 

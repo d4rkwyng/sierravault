@@ -123,7 +123,7 @@ By the time development concluded, the beta test selection process for phase one
 
 Hardware acceleration was planned during development but ultimately not implemented due to time and budget constraints.[^ref-19] The game instead relied on software rendering, which contributed to some of the graphical compromises noted by reviewers.
 
-**Development Credits:**[^ref-18][^ref-7]
+**Development Credits:**[^ref-7][^ref-18]
 - **Senior Producer:** Mike Jacob
 - **Designer:** Brian Silvernail
 - **Producer/Designer:** Vance Cook
@@ -140,7 +140,7 @@ The Course Architect tool included an expanded art library in the Collector's Ed
 
 ### Technical Specifications
 
-**System Requirements:**[^ref-17][^ref-13]
+**System Requirements:**[^ref-13][^ref-17]
 
 **Minimum:**
 - **Processor:** Intel Pentium 166 MHz

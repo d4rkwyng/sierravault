@@ -80,7 +80,7 @@ Rock music videos serve as more than atmospheric elements—they contain actual 
 
 Philip Jong of Adventure Classic Gaming awarded the game 3 out of 5 stars, praising it as "an interesting and immersing horror adventure, backed by rock music mixed with Native American history"[^ref-5]. However, Next Generation was less enthusiastic, arguing "It might be the best puzzle game of its type, but it's still just a puzzle game that involves lots of mouse-clicking and leaps of logic to uncover its ancient mystery"[^ref-18].
 
-GameSpot's Kevin Hunsanger provided a more positive assessment with an 8.7/10 score, noting that "The plot in Shivers II is hauntingly intelligent"[^ref-19]. The game received a mixed critical average of 72% according to multiple review aggregators[^ref-70][^ref-21].
+GameSpot's Kevin Hunsanger provided a more positive assessment with an 8.7/10 score, noting that "The plot in Shivers II is hauntingly intelligent"[^ref-19]. The game received a mixed critical average of 72% according to multiple review aggregators[^ref-21][^ref-70].
 
 ### Modern Assessment
 

@@ -25,7 +25,7 @@ Crazy Nick's Software Picks: Parlor Games with Laura Bow is a budget compilation
 
 The game is essentially a cut-down version of Hoyle Official Book of Games Volume 3, containing a subset of games from that collection with Laura Bow serving as the featured opponent character[^ref-1]. Players can challenge Laura at three different difficulty levels in both included games[^ref-2]. As a budget title designed for casual play, Parlor Games with Laura Bow offered an accessible entry point to Sierra's gaming catalog while capitalizing on the popularity of their adventure game heroines.
 
-Contemporary and modern reception has been mixed, with critics noting that while the game was considered "above-average" for its time as a board/party game title, better versions of the included games were readily available elsewhere[^ref-4][^ref-1]. The game represents an interesting marketing experiment by Sierra to leverage their recognizable adventure game characters in more casual gaming contexts.[^ref-13][^ref-14][^ref-15]
+Contemporary and modern reception has been mixed, with critics noting that while the game was considered "above-average" for its time as a board/party game title, better versions of the included games were readily available elsewhere[^ref-1][^ref-4]. The game represents an interesting marketing experiment by Sierra to leverage their recognizable adventure game characters in more casual gaming contexts.[^ref-13][^ref-14][^ref-15]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-2]
@@ -89,7 +89,7 @@ Comparative analysis with other Crazy Nick's releases found this title wanting, 
 
 Modern retrospective assessment has been similarly lukewarm. Critics have noted that "If you've got the technology necessary to read these words on your computer, then you've almost certainly got access to better versions of Nine Men's Morris, Backgammon, Checkers, Yacht and Dominoes"[^ref-1]. The game's value proposition was questionable even at launch and has only diminished over time.
 
-The game remains playable through the ScummVM emulator, which provides compatibility with modern systems[^ref-9][^ref-5]. ScummVM version 2.1 and later supports cloud saves functionality[^ref-5].
+The game remains playable through the ScummVM emulator, which provides compatibility with modern systems[^ref-5][^ref-9]. ScummVM version 2.1 and later supports cloud saves functionality[^ref-5].
 
 **Aggregate Scores:**
 - **MyAbandonware:** 5/5 (10 votes)[^ref-4][^ref-10]
@@ -121,7 +121,7 @@ The game was built using Sierra's SCI (Sierra's Creative Interpreter) engine, ve
 
 ### Technical Achievements
 
-Parlor Games with Laura Bow utilized Sierra's proven SCI1.1 engine, which provided stable performance and familiar interface conventions[^ref-5][^ref-2]. The game featured prerendered dice graphics for the Yacht game, adding visual polish to the dice-rolling mechanics[^ref-1].
+Parlor Games with Laura Bow utilized Sierra's proven SCI1.1 engine, which provided stable performance and familiar interface conventions[^ref-2][^ref-5]. The game featured prerendered dice graphics for the Yacht game, adding visual polish to the dice-rolling mechanics[^ref-1].
 
 One notable visual element—described critically—was a "pulsating, colour-cycling background" that some reviewers found distracting[^ref-1]. The background employed palette cycling techniques common in DOS-era games to create animated effects without additional sprite rendering overhead.
 
@@ -193,7 +193,7 @@ Parlor Games with Laura Bow was part of the five-title Crazy Nick's Software Pic
 
 ### Fan Projects
 
-The game remains playable through ScummVM, which provides full compatibility with modern operating systems[^ref-9][^ref-5]. ScummVM versions 2.1 and later support cloud saves on third-party cloud storage services, adding modern convenience features to the classic title[^ref-5].
+The game remains playable through ScummVM, which provides full compatibility with modern operating systems[^ref-5][^ref-9]. ScummVM versions 2.1 and later support cloud saves on third-party cloud storage services, adding modern convenience features to the classic title[^ref-5].
 
 The game has been requested on GOG.com's community wishlist, receiving 17 votes from users interested in an official re-release[^ref-11].
 
@@ -219,7 +219,7 @@ As a historical artifact, the game documents the budget software market of the e
 - [MyAbandonware](https://www.myabandonware.com/game/crazy-nick-s-software-picks-parlor-games-with-laura-bow-bo1) - DOS version[^ref-4]
 
 **Emulation**
-- ScummVM provides full compatibility for running on modern systems[^ref-9][^ref-5]
+- ScummVM provides full compatibility for running on modern systems[^ref-5][^ref-9]
 
 ## See Also
 

@@ -22,7 +22,7 @@ tags: [1990s, educational, sierra, spelling-jungle]
 
 ## Overview
 
-Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-29][^ref-2][^ref-30]. The game serves as the sequel to Spelling Jungle, transporting the spelling-focused gameplay from a tropical setting to an arctic environment while maintaining the core puzzle mechanics that made its predecessor notable among educational software of the era[^ref-3][^ref-4].
+Spelling Blizzard is an educational adventure game developed by [[Bright Star Technology]] and published by [[Sierra On-Line]] in 1994 for Windows 3.x and Macintosh platforms[^ref-1][^ref-2][^ref-29][^ref-30]. The game serves as the sequel to Spelling Jungle, transporting the spelling-focused gameplay from a tropical setting to an arctic environment while maintaining the core puzzle mechanics that made its predecessor notable among educational software of the era[^ref-3][^ref-4].
 
 Designed primarily for children ages 9 to 12, Spelling Blizzard combines spelling instruction with logic-based puzzle solving, challenging players to navigate grid-based levels while collecting letters in the correct order to spell words[^ref-5]. The game was part of Sierra's Talking Tutor series of educational software, representing the company's commitment to the edutainment market during the early 1990s[^ref-5].
 
@@ -104,7 +104,7 @@ Bright Star Technology was founded with an educational mission rooted in founder
 
 The Spelling Jungle series evolved through multiple iterations and name changes. The original concept was distributed as "Yobi's Spelling Demons," but developers were forced to rename it because "some people might think this program has something to do with evil supernatural beings"[^ref-23]. This note was discovered in the game's executable file, revealing the developers' concern about potential misinterpretation of the title.
 
-The game went through several naming iterations including "Basic Spelling Tricks," "Yobi's Basic Spelling Tricks," "Yobi's Magic Spelling Tricks," and "Basic Spelling" before the series was renamed to "Spelling Jungle" and subsequently "Spelling Blizzard"[^ref-23][^ref-24][^ref-3].
+The game went through several naming iterations including "Basic Spelling Tricks," "Yobi's Basic Spelling Tricks," "Yobi's Magic Spelling Tricks," and "Basic Spelling" before the series was renamed to "Spelling Jungle" and subsequently "Spelling Blizzard"[^ref-3][^ref-23][^ref-24].
 
 ### Production
 
@@ -146,7 +146,7 @@ The Talking Tutor series, of which Spelling Blizzard was a part, incorporated vo
 
 ### Easter Eggs and Trivia
 
-- The game was also sold under the alternate title "Advanced Spelling Tricks"[^ref-9][^ref-8]
+- The game was also sold under the alternate title "Advanced Spelling Tricks"[^ref-8][^ref-9]
 - The original "Spelling Demons" name was changed to avoid supernatural connotations[^ref-23]
 - The game contains 101 total levels, matching its predecessor[^ref-3]
 - Despite sequel hooks in the narrative, no third game in the series was ever produced[^ref-12]

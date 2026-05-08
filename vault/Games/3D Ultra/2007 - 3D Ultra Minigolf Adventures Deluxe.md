@@ -71,7 +71,7 @@ Each hole presents players with physics-based puzzle challenges requiring carefu
 
 The Laseriffic hole (par 4) features laser obstacles that cause the ball to go out of bounds if struck, as well as a vacuum power-up that can suck the ball toward the hole when properly utilized[^ref-5]. A tentacle hidden in one corner's grating will throw the ball at the vacuum power-up if landed there, but away from the final hole[^ref-5]. The Pinball hole (par 3) includes an actual pinball machine mechanism where players control flippers to guide the ball, with a hole-in-one requiring the ball to enter a specific yellow hole within the pinball machine[^ref-5].
 
-Power-ups scattered throughout courses include vacuum effects, springs, and various ball-altering abilities that add strategic depth to gameplay[^ref-7][^ref-5]. Hazards vary by theme and can include lasers, water hazards, moving obstacles, and environmental traps[^ref-7][^ref-5].
+Power-ups scattered throughout courses include vacuum effects, springs, and various ball-altering abilities that add strategic depth to gameplay[^ref-5][^ref-7]. Hazards vary by theme and can include lasers, water hazards, moving obstacles, and environmental traps[^ref-5][^ref-7].
 
 ## Reception
 

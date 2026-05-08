@@ -24,7 +24,7 @@ tags: [2000s, hoyle-casino, sierra]
 
 Hoyle Casino 2006 is a comprehensive casino simulation game released on September 27, 2005 for Windows PC[^ref-1][^ref-2][^ref-3]. Developed by [[Sierra On-Line]] and published by [[Encore Software]], the game represents a continuation of the long-running Hoyle Casino series that began in 1996[^ref-4]. As a spin-off of the classic Hoyle's Official Book of Games series, Hoyle Casino 2006 carries the prestigious Hoyle brand name—the official name in gaming—while offering an extensive collection of casino entertainment[^ref-1].
 
-The 2006 edition distinguishes itself by offering more than 500 variants of 16 of the most popular casino games[^ref-5][^ref-1]. This staggering variety includes Texas Hold'em, slots, video poker, and numerous table games, all presented with detailed tutorials and an official rulebook[^ref-1]. The game received an ESRB rating of E for Everyone, with content descriptors noting Mild Language and Simulated Gambling[^ref-6][^ref-5], making it accessible to a wide audience seeking casino entertainment without real monetary stakes.
+The 2006 edition distinguishes itself by offering more than 500 variants of 16 of the most popular casino games[^ref-1][^ref-5]. This staggering variety includes Texas Hold'em, slots, video poker, and numerous table games, all presented with detailed tutorials and an official rulebook[^ref-1]. The game received an ESRB rating of E for Everyone, with content descriptors noting Mild Language and Simulated Gambling[^ref-5][^ref-6], making it accessible to a wide audience seeking casino entertainment without real monetary stakes.
 
 User reception for Hoyle Casino 2006 was notably positive, with one GameSpot user reviewer describing it as "the only casino game out so far that gets it right" and praising its "dizzying selection of casino games and excellent instruction"[^ref-7]. The game was positioned as an educational tool as much as entertainment, with its comprehensive tutorials reportedly helping players develop skills applicable to real casino gaming[^ref-7].[^ref-13][^ref-14]
 
@@ -33,7 +33,7 @@ User reception for Hoyle Casino 2006 was notably positive, with one GameSpot use
 > **Designer:** Unknown
 > **Publisher:** [[Encore Software]][^ref-1][^ref-2][^ref-6]
 > **Engine:** Unknown
-> **Platforms:** Windows PC[^ref-6][^ref-2]
+> **Platforms:** Windows PC[^ref-2][^ref-6]
 > **Release Year:** 2005
 > **Series:** Hoyle Casino
 > **Protagonist:** Player-created character
@@ -57,7 +57,7 @@ The game features comprehensive in-game tutorials and instructions that guide pl
 
 ### Structure and Progression
 
-The game offers an open-ended structure where players can engage with any of the more than 500 game variants at their discretion[^ref-5][^ref-1]. Progression is measured primarily through the accumulation of virtual winnings rather than through story chapters or locked content. The 16 main casino game categories provide diverse gameplay experiences:
+The game offers an open-ended structure where players can engage with any of the more than 500 game variants at their discretion[^ref-1][^ref-5]. Progression is measured primarily through the accumulation of virtual winnings rather than through story chapters or locked content. The 16 main casino game categories provide diverse gameplay experiences:
 
 - **Baccarat:** Classic card game with multiple betting options[^ref-5]
 - **Big Raise Hold 'Em:** Poker variant with escalating stakes[^ref-5]
@@ -112,7 +112,7 @@ The transition to Encore Software as publisher occurred around 2005, with the Ho
 
 ### Production
 
-Development of Hoyle Casino 2006 focused on expanding the game content to over 500 variants of casino games while maintaining the series' reputation for accurate rules and helpful instruction[^ref-5][^ref-1]. The development team built upon the established foundation of previous Hoyle Casino titles, refining the virtual casino experience and adding contemporary poker variants like Texas Hold'em to appeal to the era's poker popularity[^ref-1].
+Development of Hoyle Casino 2006 focused on expanding the game content to over 500 variants of casino games while maintaining the series' reputation for accurate rules and helpful instruction[^ref-1][^ref-5]. The development team built upon the established foundation of previous Hoyle Casino titles, refining the virtual casino experience and adding contemporary poker variants like Texas Hold'em to appeal to the era's poker popularity[^ref-1].
 
 The game was designed as a $20 budget title, positioning it as an accessible entry point for players interested in casino gaming without significant financial investment[^ref-7]. This pricing strategy, combined with the extensive content offering, was intended to provide exceptional value to consumers[^ref-7].
 
@@ -128,8 +128,8 @@ The tutorial system represented a significant feature, providing detailed instru
 ### Technical Specifications
 
 **System Requirements:**
-- **Platform:** Windows PC[^ref-6][^ref-2]
-- **Rating:** ESRB E for Everyone[^ref-6][^ref-5]
+- **Platform:** Windows PC[^ref-2][^ref-6]
+- **Rating:** ESRB E for Everyone[^ref-5][^ref-6]
 - **Content Descriptors:** Mild Language, Simulated Gambling[^ref-6]
 
 Detailed technical specifications regarding resolution, audio support, and system requirements are not available in research materials.
@@ -199,7 +199,7 @@ The Hoyle brand's association with official gaming rules and authentic instructi
 
 ### Critical Perspective
 
-Hoyle Casino 2006 represents an interesting transitional moment in Sierra Entertainment's history. Released during the period when Sierra was shifting from direct publishing to licensing arrangements with companies like Encore, the game demonstrates how classic Sierra brands continued generating revenue even as the company's focus shifted away from original game development[^ref-4][^ref-2].
+Hoyle Casino 2006 represents an interesting transitional moment in Sierra Entertainment's history. Released during the period when Sierra was shifting from direct publishing to licensing arrangements with companies like Encore, the game demonstrates how classic Sierra brands continued generating revenue even as the company's focus shifted away from original game development[^ref-2][^ref-4].
 
 The game's emphasis on education and instruction over pure entertainment reflects a practical approach to casino simulation that resonated with its target audience[^ref-7]. In an era before widespread online gambling and casino apps, products like Hoyle Casino 2006 served a genuine need for players wanting to learn and practice casino games in a risk-free environment[^ref-7]. While it lacks the cultural significance of Sierra's adventure game classics, Hoyle Casino 2006 represents the company's successful expansion into casual gaming markets during the early 2000s.
 

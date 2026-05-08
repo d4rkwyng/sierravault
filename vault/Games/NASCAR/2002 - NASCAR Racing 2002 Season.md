@@ -103,7 +103,7 @@ Darrell Waltrip's track tours represented a significant addition to the series, 
 
 ### Technical Achievements
 
-NASCAR Racing 2002 Season utilized an enhanced version of the NASCAR Racing 4 game engine, specifically the acclaimed 3D physics engine that provided unprecedented realism in stock car simulation[^ref-2]. The graphics engine featured more realistic and "organic" visuals compared to previous versions, with what reviewers called "the best graphics Papyrus has ever coded"[^ref-26][^ref-16].
+NASCAR Racing 2002 Season utilized an enhanced version of the NASCAR Racing 4 game engine, specifically the acclaimed 3D physics engine that provided unprecedented realism in stock car simulation[^ref-2]. The graphics engine featured more realistic and "organic" visuals compared to previous versions, with what reviewers called "the best graphics Papyrus has ever coded"[^ref-16][^ref-26].
 
 **System Requirements:**[^ref-9]
 

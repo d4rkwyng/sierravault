@@ -58,7 +58,7 @@ The game also included a "quick start" feature allowing players to skip technica
 
 The game claimed to be "the first golf simulation to offer both complete Season and Career tour-style gameplay"[^ref-10]. Players could create custom golfers with personalized faces, body types, and clothing, then guide them through either amateur or professional tour circuits[^ref-7]. Career mode encompassed multiple tournament formats including skins games, best ball competitions, and Ryder Cup matches[^ref-1]. Practice facilities included putting greens and a driving range for skill development[^ref-7].
 
-Course variety was substantial, featuring 13 total courses—8 carried over from the previous edition and 5 newly created[^ref-8][^ref-1]. Notably, the game did not include any real licensed PGA Tour players, instead relying on fictional golfers[^ref-1][^ref-5]. The Course Architect tool allowed players to design custom courses, and over 1,600 user-created courses eventually became available for download through the community[^ref-3][^ref-8]. Multiplayer was supported via modem, LAN, or the WON.net online network[^ref-8].
+Course variety was substantial, featuring 13 total courses—8 carried over from the previous edition and 5 newly created[^ref-1][^ref-8]. Notably, the game did not include any real licensed PGA Tour players, instead relying on fictional golfers[^ref-1][^ref-5]. The Course Architect tool allowed players to design custom courses, and over 1,600 user-created courses eventually became available for download through the community[^ref-3][^ref-8]. Multiplayer was supported via modem, LAN, or the WON.net online network[^ref-8].
 
 ### Puzzles and Mechanics
 
@@ -95,7 +95,7 @@ PGA Championship Golf 2000 was developed by Headgate Studios and published by Si
 
 ### Technical Achievements
 
-The TrueSwing 3 engine represented a significant advancement in golf simulation input methods, replacing traditional three-click swing timing with fluid mouse movements that simulated actual golf strokes[^ref-4][^ref-5]. The Course Architect tool was a notable technical feature, allowing players to design and share custom courses through an expanding online community[^ref-8][^ref-5].
+The TrueSwing 3 engine represented a significant advancement in golf simulation input methods, replacing traditional three-click swing timing with fluid mouse movements that simulated actual golf strokes[^ref-4][^ref-5]. The Course Architect tool was a notable technical feature, allowing players to design and share custom courses through an expanding online community[^ref-5][^ref-8].
 
 ### Version History
 

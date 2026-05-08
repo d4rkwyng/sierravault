@@ -66,7 +66,7 @@ Players would progress through a military career structure, advancing through th
 
 ### Puzzles and Mechanics
 
-The game featured over 60 combat ships from various factions, including Earth Alliance vessels like the Starfury and Thunderbolt fighters[^ref-5][^ref-1]. Players could also test their skills aboard alien fighters in the multiplayer mode[^ref-5]. The combat system emphasized the unique characteristics of each ship type, with the promotional materials noting both "slow and fast" fighter types with distinct handling characteristics[^ref-7].
+The game featured over 60 combat ships from various factions, including Earth Alliance vessels like the Starfury and Thunderbolt fighters[^ref-1][^ref-5]. Players could also test their skills aboard alien fighters in the multiplayer mode[^ref-5]. The combat system emphasized the unique characteristics of each ship type, with the promotional materials noting both "slow and fast" fighter types with distinct handling characteristics[^ref-7].
 
 ## Reception
 
@@ -86,7 +86,7 @@ The surviving alpha version has been evaluated by preservationists and fans who 
 
 ### Origins
 
-The project originated from a partnership between Sierra and Warner Bros. announced on October 27, 1997[^ref-1]. Sierra took an unconventional approach to the crowded space combat genre—rather than competing directly with established franchises like Wing Commander and Star Wars, they chose to develop a game based on the Babylon 5 universe, which offered a rich fictional setting with a dedicated fan base[^ref-1]. The project was initially handled by Sierra FX before development responsibilities shifted to Yosemite Entertainment[^ref-5][^ref-1].
+The project originated from a partnership between Sierra and Warner Bros. announced on October 27, 1997[^ref-1]. Sierra took an unconventional approach to the crowded space combat genre—rather than competing directly with established franchises like Wing Commander and Star Wars, they chose to develop a game based on the Babylon 5 universe, which offered a rich fictional setting with a dedicated fan base[^ref-1]. The project was initially handled by Sierra FX before development responsibilities shifted to Yosemite Entertainment[^ref-1][^ref-5].
 
 ### Production
 

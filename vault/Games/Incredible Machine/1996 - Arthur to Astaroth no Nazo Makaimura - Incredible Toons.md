@@ -23,7 +23,7 @@ tags: [1990s, dynamix, puzzle, sierra, the-incredible-machine-ghosts-n-goblins]
 
 Arthur to Astaroth no Nazo Makaimura: Incredible Toons is a Japan-exclusive puzzle game released on August 30, 1996, for both the Sony PlayStation and Sega Saturn[^ref-1][^ref-2]. The game represents a unique crossover between two distinct franchises: [[Dynamix|Dynamix's]] *The Incredible Machine* series and Capcom's beloved *Ghosts 'n Goblins* (known as *Makaimura* in Japan)[^ref-3][^ref-4]. This unusual collaboration resulted in a physics-based puzzle experience featuring the knight Arthur and the demonic creatures from Capcom's action platformer series, including chibi versions of Red Arremers and Astaroth[^ref-5].
 
-The game stands out as the only entry in *The Incredible Machine* franchise to feature an actual plot, distinguishing it from the purely mechanical puzzle focus of its predecessors[^ref-3][^ref-6]. Players must help Arthur navigate through increasingly complex puzzle chambers by placing various machines, traps, cogwheels, and other contraptions to fulfill specific objectives such as guiding Arthur to the exit[^ref-7]. The combination of the whimsical Rube Goldberg-style mechanics with the gothic fantasy setting of the Ghosts 'n Goblins universe creates a surprisingly humorous and engaging puzzle experience[^ref-7][^ref-6].
+The game stands out as the only entry in *The Incredible Machine* franchise to feature an actual plot, distinguishing it from the purely mechanical puzzle focus of its predecessors[^ref-3][^ref-6]. Players must help Arthur navigate through increasingly complex puzzle chambers by placing various machines, traps, cogwheels, and other contraptions to fulfill specific objectives such as guiding Arthur to the exit[^ref-7]. The combination of the whimsical Rube Goldberg-style mechanics with the gothic fantasy setting of the Ghosts 'n Goblins universe creates a surprisingly humorous and engaging puzzle experience[^ref-6][^ref-7].
 
 Developed by Magical Formation Co., Ltd. under license from Dynamix, the game was published by Capcom exclusively for the Japanese market[^ref-1][^ref-9]. It features remixed music from the Ghosts 'n Goblins series and includes 100 puzzles along with an editor for creating custom puzzle designs[^ref-6][^ref-10]. The game has achieved cult status among collectors and retro gaming enthusiasts as one of the more obscure spinoffs in both franchises' histories[^ref-5].[^ref-22][^ref-23]
 
@@ -85,7 +85,7 @@ The puzzle design draws directly from The Incredible Machine formula, requiring 
 
 Notably, some puzzles take a dark comedic turn by requiring players to actually kill Arthur rather than save him, adding variety to the objectives[^ref-6]. The game incorporates items from the Ghosts 'n Goblins series, including the iconic armor power-up that Arthur requires to move[^ref-6]. This integration of franchise elements into puzzle mechanics creates unique challenges not found in other Incredible Machine titles.
 
-Unlike other games in The Incredible Machine series, this title notably lacks Head-to-Head puzzles and Freeform Machine mode[^ref-3][^ref-6]. The focus remains entirely on single-player puzzle completion, though the inclusion of a puzzle editor allows for creative expression and custom challenge creation[^ref-10][^ref-7].
+Unlike other games in The Incredible Machine series, this title notably lacks Head-to-Head puzzles and Freeform Machine mode[^ref-3][^ref-6]. The focus remains entirely on single-player puzzle completion, though the inclusion of a puzzle editor allows for creative expression and custom challenge creation[^ref-7][^ref-10].
 
 ## Reception
 
@@ -95,7 +95,7 @@ Due to its Japan-exclusive release, Arthur to Astaroth no Nazo Makaimura receive
 
 ### Modern Assessment
 
-The game has garnered positive retrospective assessments from players who have discovered it through emulation and import collecting. GameFAQs users have rated the game as "Great" based on 18 ratings[^ref-2]. The game has been described as "really a lot of fun and quite humorous" by multiple sources evaluating its gameplay[^ref-7][^ref-6].
+The game has garnered positive retrospective assessments from players who have discovered it through emulation and import collecting. GameFAQs users have rated the game as "Great" based on 18 ratings[^ref-2]. The game has been described as "really a lot of fun and quite humorous" by multiple sources evaluating its gameplay[^ref-6][^ref-7].
 
 On Emuparadise, the game achieved a notably high user rating of 4.87 out of 5 based on 23 votes, suggesting strong appreciation among those who have played it[^ref-14]. The Retro Gaming Daily Show podcast featured the game in a 2019 episode recommending Japanese-only Sega Saturn titles worth playing[^ref-15].
 
@@ -109,7 +109,7 @@ On Emuparadise, the game achieved a notably high user rating of 4.87 out of 5 ba
 
 ### Origins
 
-Arthur to Astaroth no Nazo Makaimura emerged from a licensing arrangement between Capcom and Sierra On-Line's subsidiary Dynamix[^ref-1][^ref-9]. The game is based on Sid & Al's Incredible Toons, which Dynamix developed and Sierra On-Line released in 1993[^ref-10][^ref-7]. Capcom recognized an opportunity to leverage the proven puzzle mechanics of The Incredible Machine series while incorporating characters from their popular Ghosts 'n Goblins franchise[^ref-3][^ref-4].
+Arthur to Astaroth no Nazo Makaimura emerged from a licensing arrangement between Capcom and Sierra On-Line's subsidiary Dynamix[^ref-1][^ref-9]. The game is based on Sid & Al's Incredible Toons, which Dynamix developed and Sierra On-Line released in 1993[^ref-7][^ref-10]. Capcom recognized an opportunity to leverage the proven puzzle mechanics of The Incredible Machine series while incorporating characters from their popular Ghosts 'n Goblins franchise[^ref-3][^ref-4].
 
 The decision to create a narrative-driven version of The Incredible Machine formula was unprecedented for the series[^ref-3][^ref-6]. While previous entries focused purely on mechanical puzzle-solving without story context, this collaboration allowed for the integration of established characters and a plot motivation for the challenges[^ref-7]. This creative choice helped differentiate the game from its predecessors while appealing to fans of the Makaimura series.
 
@@ -128,19 +128,19 @@ The developers integrated visual and audio assets from the Ghosts 'n Goblins uni
 
 The game maintained the 2D side-scrolling perspective characteristic of The Incredible Machine series while rendering characters in the distinctive Ghosts 'n Goblins art style[^ref-1]. Screenshots indicate the PlayStation version ran at 320x240 resolution[^ref-17].
 
-The inclusion of a puzzle editor feature allowed players to create and save their own custom levels, extending the game's longevity beyond the 100 included puzzles[^ref-10][^ref-7]. This was a significant technical implementation for a console release of the era.
+The inclusion of a puzzle editor feature allowed players to create and save their own custom levels, extending the game's longevity beyond the 100 included puzzles[^ref-7][^ref-10]. This was a significant technical implementation for a console release of the era.
 
 ### Technical Specifications
 
-**PlayStation Version:**[^ref-14][^ref-10]
+**PlayStation Version:**[^ref-10][^ref-14]
 - **Resolution:** 320x240[^ref-17]
 - **Media:** CD-ROM
-- **File Size:** ~238-404 MB[^ref-14][^ref-10]
+- **File Size:** ~238-404 MB[^ref-10][^ref-14]
 - **Players:** 1
 
 **Sega Saturn Version:**[^ref-2][^ref-18]
 - **Media:** CD-ROM
-- **File Size:** ~376-406 MB[^ref-18][^ref-16]
+- **File Size:** ~376-406 MB[^ref-16][^ref-18]
 - **Players:** 1
 
 ### Cut Content
@@ -188,7 +188,7 @@ No official guidebooks, hint books, or related publications have been identified
 
 Arthur to Astaroth no Nazo Makaimura occupies a curious position in gaming history as a crossover that few knew existed. The combination of Dynamix's beloved puzzle mechanics with Capcom's iconic action franchise could have been a significant commercial success had it received wider release[^ref-5]. Instead, it remains a fascinating footnote—evidence of the creative licensing deals that characterized the 1990s gaming industry.
 
-The game demonstrates how established puzzle frameworks could be successfully adapted with new intellectual properties, predating the modern trend of franchise crossovers by decades. For collectors and enthusiasts of either parent franchise, the game represents a rare and unusual artifact worthy of preservation[^ref-5]. Its strong user ratings suggest that despite its obscurity, those who have played it found genuine entertainment value in its unique premise[^ref-14][^ref-2].
+The game demonstrates how established puzzle frameworks could be successfully adapted with new intellectual properties, predating the modern trend of franchise crossovers by decades. For collectors and enthusiasts of either parent franchise, the game represents a rare and unusual artifact worthy of preservation[^ref-5]. Its strong user ratings suggest that despite its obscurity, those who have played it found genuine entertainment value in its unique premise[^ref-2][^ref-14].
 
 ## Purchase
 

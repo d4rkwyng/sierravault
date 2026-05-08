@@ -13,9 +13,9 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Andy Hoyos is an American artist, art director, and game designer whose work at Sierra On-Line from 1989 to 1996 helped define the visual identity of the company's golden age.[^ref-1] Beginning as a 2D computer animator, Hoyos quickly advanced to art director, overseeing the visual design of numerous landmark titles including King's Quest V, King's Quest VII, Leisure Suit Larry 5, Quest for Glory III, EcoQuest 2, and the Phantasmagoria series.[^ref-2] His illustrations and art direction established the rich, painterly aesthetic that distinguished Sierra's adventure games during the VGA era.
+Andy Hoyos is an American artist, art director, and game designer whose work at Sierra On-Line from 1989 to 1996 helped define the visual identity of the company's golden age.[^ref-1][^ref-10] Beginning as a 2D computer animator, Hoyos quickly advanced to art director, overseeing the visual design of numerous landmark titles including King's Quest V, King's Quest VII, Leisure Suit Larry 5, Quest for Glory III, EcoQuest 2, and the Phantasmagoria series.[^ref-2][^ref-11] His illustrations and art direction established the rich, painterly aesthetic that distinguished Sierra's adventure games during the VGA era.
 
-Before entering the game industry, Hoyos worked as a graphic artist and illustrator for NBC television studios in Burbank, California, and subsequently in production art and design for commercial animation studios and film advertising.[^ref-3] His animation work during this period included background styling for popular television series such as *Denver, the Last Dinosaur* and *Alvin & the Chipmunks* at DIC Entertainment.[^ref-9] This background in traditional illustration and broadcast design informed his approach to game visuals, bringing a level of artistic sophistication that elevated Sierra's productions. For Phantasmagoria 2: A Puzzle of Flesh, Hoyos expanded his role to include directing the game's live-action sequences, demonstrating his versatility across multiple aspects of production.[^ref-4]
+Before entering the game industry, Hoyos worked as a graphic artist and illustrator for NBC television studios in Burbank, California, and subsequently in production art and design for commercial animation studios and film advertising.[^ref-3][^ref-12] His animation work during this period included background styling for popular television series such as *Denver, the Last Dinosaur* and *Alvin & the Chipmunks* at DIC Entertainment.[^ref-9] This background in traditional illustration and broadcast design informed his approach to game visuals, bringing a level of artistic sophistication that elevated Sierra's productions. For Phantasmagoria 2: A Puzzle of Flesh, Hoyos expanded his role to include directing the game's live-action sequences, demonstrating his versatility across multiple aspects of production.[^ref-4]
 
 ## Career
 
@@ -41,7 +41,7 @@ His other Sierra art direction credits include [[1992 - Quest for Glory III - Wa
 
 After departing Sierra in 1996, Hoyos continued working in game development for over two decades.[^ref-2] His post-Sierra career demonstrated an ability to adapt to changing technologies and game genres while maintaining his artistic vision.
 
-Hoyos joined Monolith Productions as Art Director and 3D artist for *The Matrix Online* (2005), the massively multiplayer online game based on the Matrix film franchise developed in collaboration with Warner Bros. Interactive Entertainment.[^ref-2][^ref-2] This role marked his transition from 2D adventure game art to 3D MMORPG environments, requiring adaptation to new tools and team structures.
+Hoyos joined Monolith Productions as Art Director and 3D artist for *The Matrix Online* (2005), the massively multiplayer online game based on the Matrix film franchise developed in collaboration with Warner Bros. Interactive Entertainment.[^ref-2] This role marked his transition from 2D adventure game art to 3D MMORPG environments, requiring adaptation to new tools and team structures.
 
 His later work includes art direction for [[2014 - Moebius - Empire Rising|Moebius: Empire Rising]] (2014), a point-and-click adventure game designed by Jane Jensen and developed by MADKEV Studio/Pinkerton Road.[^ref-9] This project represented a return to the classic adventure game genre where Hoyos had built his reputation, demonstrating the continued relevance of his artistic skills in modern game development.
 
@@ -75,7 +75,7 @@ As a background artist on [[1991 - Space Quest I - Roger Wilco in the Sarien Enc
 
 ### The Matrix Online (2005)
 
-After leaving Sierra, Hoyos served as Art Director and 3D artist for *The Matrix Online*, the MMORPG developed by Monolith Productions.[^ref-2][^ref-2] This project represented his transition into 3D game development and massively multiplayer online environments, requiring adaptation to the technical demands of persistent online worlds.
+After leaving Sierra, Hoyos served as Art Director and 3D artist for *The Matrix Online*, the MMORPG developed by Monolith Productions.[^ref-2] This project represented his transition into 3D game development and massively multiplayer online environments, requiring adaptation to the technical demands of persistent online worlds.
 
 ## Design Philosophy
 

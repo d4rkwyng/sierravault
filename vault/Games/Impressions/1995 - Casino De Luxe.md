@@ -109,7 +109,7 @@ Impressions Games, known primarily for their city-building and strategy titles, 
 
 Development took place at Impressions Games' facilities, with the project requiring expertise in game design, programming, art direction, and audio production[^ref-2]. The team worked to create authentic recreations of each casino game while also developing the overarching casino environment that would house all the gaming experiences[^ref-1].
 
-The game was released in July 1995 for Windows 3.x platforms on CD-ROM[^ref-7][^ref-1]. Shortly after release, Impressions Games was acquired by Sierra On-Line, which resulted in subsequent domestic re-releases and international distribution being handled under the Sierra brand[^ref-3][^ref-4]. This corporate transition did not affect the original release but positioned the Casino Deluxe series for continued development under Sierra's umbrella[^ref-8].
+The game was released in July 1995 for Windows 3.x platforms on CD-ROM[^ref-1][^ref-7]. Shortly after release, Impressions Games was acquired by Sierra On-Line, which resulted in subsequent domestic re-releases and international distribution being handled under the Sierra brand[^ref-3][^ref-4]. This corporate transition did not affect the original release but positioned the Casino Deluxe series for continued development under Sierra's umbrella[^ref-8].
 
 **Development Credits:**[^ref-2]
 

@@ -52,7 +52,7 @@ As part of Sierra's acclaimed "Dr. Brain" puzzle series, "The Lost Mind of Dr. B
 
 ### Ready Set Read with Bananas Jack (1993)
 
-"Ready Set Read with Bananas Jack" exemplified Bright Star Technology's expertise in early literacy instruction, featuring a monkey character who guided young children through fundamental reading skills including phonics, word recognition, and reading comprehension.[^ref-19][^ref-16] The game's design incorporated multiple learning modalities and provided extensive customization options for parents and teachers, allowing them to adjust difficulty levels and focus on specific skill areas. Educational specialists noted the game's alignment with established reading instruction methodologies and its effectiveness in supporting children's literacy development.[^ref-17][^ref-18]
+"Ready Set Read with Bananas Jack" exemplified Bright Star Technology's expertise in early literacy instruction, featuring a monkey character who guided young children through fundamental reading skills including phonics, word recognition, and reading comprehension.[^ref-16][^ref-19] The game's design incorporated multiple learning modalities and provided extensive customization options for parents and teachers, allowing them to adjust difficulty levels and focus on specific skill areas. Educational specialists noted the game's alignment with established reading instruction methodologies and its effectiveness in supporting children's literacy development.[^ref-17][^ref-18]
 
 ## Key People
 
@@ -62,9 +62,9 @@ The studio's design philosophy emphasized user testing with actual children and 
 
 ## Legacy
 
-Bright Star Technology's influence on educational game design extended far beyond their direct commercial success, helping to establish many of the interface conventions and design principles that became standard in children's software.[^ref-10][^ref-1] Their emphasis on age-appropriate navigation, clear visual feedback, and integrated assessment tools influenced countless educational games that followed, while their collaboration with Sierra demonstrated how traditional game publishers could successfully enter the educational market.[^ref-3][^ref-4]
+Bright Star Technology's influence on educational game design extended far beyond their direct commercial success, helping to establish many of the interface conventions and design principles that became standard in children's software.[^ref-1][^ref-10] Their emphasis on age-appropriate navigation, clear visual feedback, and integrated assessment tools influenced countless educational games that followed, while their collaboration with Sierra demonstrated how traditional game publishers could successfully enter the educational market.[^ref-3][^ref-4]
 
-The studio's games remained popular in schools and homes for many years after their initial release, with titles like "Spelling Jungle" becoming classroom staples that introduced thousands of children to computer-based learning.[^ref-20][^ref-13] Many former players and educators remember Bright Star Technology's games as positive early experiences with educational technology, contributing to broader acceptance of digital learning tools in educational settings.[^ref-14][^ref-16]
+The studio's games remained popular in schools and homes for many years after their initial release, with titles like "Spelling Jungle" becoming classroom staples that introduced thousands of children to computer-based learning.[^ref-13][^ref-20] Many former players and educators remember Bright Star Technology's games as positive early experiences with educational technology, contributing to broader acceptance of digital learning tools in educational settings.[^ref-14][^ref-16]
 
 Contemporary educational game developers continue to reference Bright Star Technology's work as examples of effective learning game design, particularly their ability to maintain educational integrity while creating genuinely entertaining experiences.[^ref-17][^ref-18] The company's legacy serves as a reminder of the potential for thoughtful, well-designed educational software to make meaningful contributions to children's learning and development.
 

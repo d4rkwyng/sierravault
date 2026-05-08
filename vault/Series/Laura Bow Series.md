@@ -16,7 +16,7 @@ last_updated: "2026-01-30"
 
 ## Overview
 
-The Laura Bow series represents [[Roberta Williams]]' return to the mystery genre that launched her career with Mystery House (1980).[^ref-1] Spanning just two games—The Colonel's Bequest (1989) and The Dagger of Amon Ra (1992)—the series pioneered innovative storytelling techniques that influenced interactive narrative design for decades.[^ref-2] Set in the 1920s, these games follow journalism student Laura Bow through atmospheric murder mysteries that prioritize observation and deduction over traditional puzzle-solving.
+The Laura Bow series represents [[Roberta Williams]]' return to the mystery genre that launched her career with Mystery House (1980).[^ref-1][^ref-8] Spanning just two games—The Colonel's Bequest (1989) and The Dagger of Amon Ra (1992)—the series pioneered innovative storytelling techniques that influenced interactive narrative design for decades.[^ref-2] Set in the 1920s, these games follow journalism student Laura Bow through atmospheric murder mysteries that prioritize observation and deduction over traditional puzzle-solving.
 
 What distinguished Laura Bow from other Sierra adventures was its revolutionary real-time progression system, where events occurred whether the player witnessed them or not.[^ref-3] This design created what many consider the first successful computer adaptation of the classic Agatha Christie murder mystery format.[^ref-4]
 

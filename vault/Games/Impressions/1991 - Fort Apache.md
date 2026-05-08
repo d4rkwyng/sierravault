@@ -22,7 +22,7 @@ tags: [1990s, micro-miniatures, sierra, strategy]
 
 ## Overview
 
-Fort Apache is a turn-based strategy game set in the American Wild West during the Gold Rush era of the 1880s[^ref-1][^ref-16][^ref-2][^ref-17]. Developed by [[Impressions Games]] and published by Impressions, the game places players in command of US cavalry troopers defending Fort Apache—described as "America's fortress"—against various hostile forces including Native Americans, Mexican bandits, and thieves[^ref-1][^ref-18]. The game was first released for the Amiga in 1991, followed by DOS and Atari ST versions in 1992[^ref-1][^ref-20][^ref-3][^ref-4].
+Fort Apache is a turn-based strategy game set in the American Wild West during the Gold Rush era of the 1880s[^ref-1][^ref-2][^ref-16][^ref-17]. Developed by [[Impressions Games]] and published by Impressions, the game places players in command of US cavalry troopers defending Fort Apache—described as "America's fortress"—against various hostile forces including Native Americans, Mexican bandits, and thieves[^ref-1][^ref-18]. The game was first released for the Amiga in 1991, followed by DOS and Atari ST versions in 1992[^ref-1][^ref-3][^ref-4][^ref-20].
 
 The game represents the third entry in Impressions' "Micro Miniatures" series, following Rorke's Drift and Charge of The Light Brigade[^ref-2][^ref-5]. As with its predecessors, Fort Apache employs a top-down perspective and turn-based tactical gameplay, allowing players to command up to 44 individual units in combat scenarios[^ref-1][^ref-2]. The game was graphically similar to other Impressions titles such as Cohort: Fighting for Rome[^ref-1].
 

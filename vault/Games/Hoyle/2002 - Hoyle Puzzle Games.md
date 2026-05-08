@@ -23,9 +23,9 @@ tags: [2000s, hoyle-series, puzzle, sierra]
 
 Hoyle Puzzle Games is a comprehensive puzzle game collection released on September 7, 2002, as part of Sierra's long-running Hoyle series of casual gaming compilations[^ref-1][^ref-2][^ref-20]. Published by Vivendi Universal Games, this title brought together fifteen mind-bending games spanning word puzzles, tile-based challenges, and action-puzzle hybrids, designed to appeal to casual gamers and puzzle enthusiasts alike[^ref-4]. The collection represented Sierra's continued commitment to the Hoyle brand, which had been producing quality casual gaming experiences since the original Hoyle's Official Book of Games in 1989[^ref-5][^ref-6].
 
-The game distinguished itself through its variety of content, featuring everything from crossword puzzles sourced from Dell Magazine to the complete version of The Incredible Machine: Even More Contraptions as a bonus game[^ref-4][^ref-2]. Each game within the collection offered high-score lists and adjustable skill levels, allowing players of varying abilities to find appropriate challenges[^ref-1][^ref-8]. The inclusion of the Facemaker Tool allowed players to create unique-looking characters to represent themselves during gameplay, adding a personalization element to the experience[^ref-1][^ref-8].
+The game distinguished itself through its variety of content, featuring everything from crossword puzzles sourced from Dell Magazine to the complete version of The Incredible Machine: Even More Contraptions as a bonus game[^ref-2][^ref-4]. Each game within the collection offered high-score lists and adjustable skill levels, allowing players of varying abilities to find appropriate challenges[^ref-1][^ref-8]. The inclusion of the Facemaker Tool allowed players to create unique-looking characters to represent themselves during gameplay, adding a personalization element to the experience[^ref-1][^ref-8].
 
-Released simultaneously for IBM PC and Macintosh platforms via CD-ROM, Hoyle Puzzle Games 2002 also included bonus content for handheld devices, with Placer Racer and Mahjong Tiles available for Palm OS and Windows CE PDA systems[^ref-4][^ref-2]. The package came complete with an authoritative Hoyle rulebook, maintaining the series' tradition of providing comprehensive gaming resources[^ref-4]. This entry was followed by Hoyle Puzzle Games 2003, continuing the annual release pattern that characterized Sierra's Hoyle line during this period[^ref-5][^ref-6].
+Released simultaneously for IBM PC and Macintosh platforms via CD-ROM, Hoyle Puzzle Games 2002 also included bonus content for handheld devices, with Placer Racer and Mahjong Tiles available for Palm OS and Windows CE PDA systems[^ref-2][^ref-4]. The package came complete with an authoritative Hoyle rulebook, maintaining the series' tradition of providing comprehensive gaming resources[^ref-4]. This entry was followed by Hoyle Puzzle Games 2003, continuing the annual release pattern that characterized Sierra's Hoyle line during this period[^ref-5][^ref-6].
 
 > [!info]- Game Info
 > **Developer:** Sierra Entertainment[^ref-1]
@@ -74,7 +74,7 @@ The fifteen games included in the collection represented diverse puzzle categori
 - **Solitaire Arcade** – Action-oriented card gameplay
 
 **Bonus Game:**
-- **The Incredible Machine: Even More Contraptions** – Complete Rube Goldberg-style physics puzzle game originally developed by Jeff Tunnell Productions[^ref-4][^ref-2]
+- **The Incredible Machine: Even More Contraptions** – Complete Rube Goldberg-style physics puzzle game originally developed by Jeff Tunnell Productions[^ref-2][^ref-4]
 
 Word searches were highlighted as a major feature, with the collection offering thousands of puzzles that players could save and print for offline enjoyment[^ref-1][^ref-8].
 
@@ -100,7 +100,7 @@ Hoyle Puzzle Games 2002 emerged from Sierra's long-standing Hoyle series, which 
 
 ### Production
 
-The development team leveraged existing assets from previous Hoyle releases to create the compilation[^ref-2]. The inclusion of The Incredible Machine: Even More Contraptions as a bonus game demonstrated Sierra's strategy of repurposing successful titles from their catalog to add value to compilation products[^ref-4][^ref-2]. The game was designed for both IBM PC and Macintosh platforms, ensuring broad compatibility with home computers of the era[^ref-2].
+The development team leveraged existing assets from previous Hoyle releases to create the compilation[^ref-2]. The inclusion of The Incredible Machine: Even More Contraptions as a bonus game demonstrated Sierra's strategy of repurposing successful titles from their catalog to add value to compilation products[^ref-2][^ref-4]. The game was designed for both IBM PC and Macintosh platforms, ensuring broad compatibility with home computers of the era[^ref-2].
 
 ### Technical Specifications
 

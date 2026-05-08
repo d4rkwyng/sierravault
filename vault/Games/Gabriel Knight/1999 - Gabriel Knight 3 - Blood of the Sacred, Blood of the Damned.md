@@ -104,7 +104,7 @@ Production challenges included the complexity of developing a new 3D engine whil
 
 ### Technical Achievements
 
-Gabriel Knight 3 utilized the custom G-Engine (also referred to as the Sheep Engine), which was built specifically for the project and represented a significant technological achievement for Sierra[^ref-78][^ref-61]. The engine supported full 3D environments, character models, and real-time rendering, marking Sierra's entry into the polygon-based adventure game market[^ref-15].
+Gabriel Knight 3 utilized the custom G-Engine (also referred to as the Sheep Engine), which was built specifically for the project and represented a significant technological achievement for Sierra[^ref-61][^ref-78]. The engine supported full 3D environments, character models, and real-time rendering, marking Sierra's entry into the polygon-based adventure game market[^ref-15].
 
 The game's technical specifications required Windows 95/98 compatibility and represented cutting-edge adventure game technology for 1999[^ref-53][^ref-61]. However, the ambitious 3D implementation came with costs, as Jensen later explained: "sales of Gabriel Knight 3 were not sufficient to offset the cost of development given that we had to build a new engine"[^ref-15].
 
@@ -118,7 +118,7 @@ The infamous "cat hair mustache" puzzle became a touchstone for discussions abou
 
 The game's influence extends beyond gaming into academic discussions of interactive narrative and historical fiction in digital media[^ref-92]. Its preservation efforts by various fan communities and digital distribution platforms ensure its availability for future players and researchers[^ref-7][^ref-38][^ref-39].
 
-Modern compatibility efforts through community patches and tools like dgVoodoo demonstrate the dedicated fanbase that continues to support and play the game decades after release[^ref-59][^ref-74][^ref-36]. The game remains available through digital platforms like GOG and Steam, though often requiring community-created fixes for modern systems[^ref-38][^ref-75].
+Modern compatibility efforts through community patches and tools like dgVoodoo demonstrate the dedicated fanbase that continues to support and play the game decades after release[^ref-36][^ref-59][^ref-74]. The game remains available through digital platforms like GOG and Steam, though often requiring community-created fixes for modern systems[^ref-38][^ref-75].
 
 ## Downloads
 

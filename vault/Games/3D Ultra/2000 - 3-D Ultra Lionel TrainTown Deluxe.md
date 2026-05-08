@@ -52,7 +52,7 @@ A recurring narrative thread involves the Tourist Project series, an episodic st
 
 3D Ultra Lionel Traintown presents itself as a third-person railroading experience with a diagonal-down perspective[^ref-13]. The game technically functions as a 2D sidescroller, though it doesn't feel like a traditional sidescroller due to its unique presentation and controls that make it feel more like a virtual model railroad[^ref-14]. Players control locomotives and manage railroad operations, with the pacing being completely down to the player for most activities[^ref-15].
 
-The mouse controls can occasionally be awkward, particularly when determining forward and backward directions on curved tracks with long trains[^ref-4]. The game includes the ability for players to edit train layouts, and finished projects could be posted on the Internet for other players to download, though this website functionality has long since been discontinued[^ref-14][^ref-8].
+The mouse controls can occasionally be awkward, particularly when determining forward and backward directions on curved tracks with long trains[^ref-4]. The game includes the ability for players to edit train layouts, and finished projects could be posted on the Internet for other players to download, though this website functionality has long since been discontinued[^ref-8][^ref-14].
 
 ### Structure and Progression
 
@@ -119,7 +119,7 @@ The audio design incorporated professional sound effects from the Hollywood Edge
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-13][^ref-4]
+**CD-ROM Version:**[^ref-4][^ref-13]
 - **Resolution:** 800x600 minimum
 - **Perspective:** Diagonal-down
 - **Media:** CD-ROM

@@ -123,7 +123,7 @@ The development team included designers Chris Cole and Brian Hahn working alongs
 
 ### Technical Achievements
 
-The game's physics simulator engine allowed for complex chain-reaction puzzles with multiple possible solutions.[^ref-11] The Windows CD version introduced animated cut scenes and enhanced CD audio tracks featuring arrangements of classical music.[^ref-13][^ref-12] The soundtrack included works by renowned classical composers: Johann Sebastian Bach, Johann Strauss II, Jacques Offenbach, Gioachino Rossini, Pyotr Ilyich Tchaikovsky, Wolfgang Amadeus Mozart, and Johannes Brahms.[^ref-12]
+The game's physics simulator engine allowed for complex chain-reaction puzzles with multiple possible solutions.[^ref-11] The Windows CD version introduced animated cut scenes and enhanced CD audio tracks featuring arrangements of classical music.[^ref-12][^ref-13] The soundtrack included works by renowned classical composers: Johann Sebastian Bach, Johann Strauss II, Jacques Offenbach, Gioachino Rossini, Pyotr Ilyich Tchaikovsky, Wolfgang Amadeus Mozart, and Johannes Brahms.[^ref-12]
 
 The game featured 21 distinct sound clips and music tracks, with the complete soundtrack totaling 45 minutes and 55 seconds of audio content.[^ref-29] The cartoon animations were noted for their entertainment value, with MobyGames observing that "the Toons adds a whole range of in-puzzle animations that increase the entertainment value of this release."[^ref-1]
 

@@ -87,7 +87,7 @@ Computer Gaming World praised the game effusively: "Heart of China is everything
 
 Modern retrospectives have been more mixed, with critics acknowledging the game's technical achievements while noting certain limitations. Adventure Classic Gaming awarded the game 3 out of 5, with reviewer Ronny Zuschke stating that "Heart of China is not a game that is to be forgotten by fans familiar with the history of the adventure genre" while praising Dynamix for "having done literally everything to satisfy the player's needs"[^ref-16].
 
-Steve Wilkins of Lemon Amiga gave the Amiga version 5 out of 10, noting: "If I have to describe this title with one word, it would be 'shallow'" but acknowledging that "the strength of the game lies rather in the technical presentation. Particularly, the graphics are of superior quality"[^ref-13]. Some players found the experience "pretty difficult and boring" while others felt it would have been "among the AAA games line up" of its era[^ref-21][^ref-2].
+Steve Wilkins of Lemon Amiga gave the Amiga version 5 out of 10, noting: "If I have to describe this title with one word, it would be 'shallow'" but acknowledging that "the strength of the game lies rather in the technical presentation. Particularly, the graphics are of superior quality"[^ref-13]. Some players found the experience "pretty difficult and boring" while others felt it would have been "among the AAA games line up" of its era[^ref-2][^ref-21].
 
 **Aggregate Scores:**
 - **MobyGames:** 78% (based on user reviews)[^ref-8]

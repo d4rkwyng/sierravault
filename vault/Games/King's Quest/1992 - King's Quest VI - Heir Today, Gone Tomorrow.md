@@ -45,11 +45,11 @@ With a budget exceeding $700,000, professional voice acting, and Sierra's first 
 
 ## Story Summary
 
-Following the events of King's Quest V, Prince Alexander cannot forget Princess Cassima, the scullery maid he helped rescue from the wizard Mordack—only to discover she was royalty herself[^ref-9]. At the end of their previous adventure, Cassima invited Alexander to visit her kingdom, but after returning to the Land of the Green Isles, she was never heard from again[^ref-9]. Gazing into the magic mirror of Daventry, Alexander sees a vision of Cassima weeping in a tower, crying for help[^ref-9]. Memorizing the star positions visible through her window, he sets sail to find her, navigating by the night sky for three months until a violent storm shipwrecks him on the very shores he sought[^ref-10][^ref-3].
+Following the events of King's Quest V, Prince Alexander cannot forget Princess Cassima, the scullery maid he helped rescue from the wizard Mordack—only to discover she was royalty herself[^ref-9]. At the end of their previous adventure, Cassima invited Alexander to visit her kingdom, but after returning to the Land of the Green Isles, she was never heard from again[^ref-9]. Gazing into the magic mirror of Daventry, Alexander sees a vision of Cassima weeping in a tower, crying for help[^ref-9]. Memorizing the star positions visible through her window, he sets sail to find her, navigating by the night sky for three months until a violent storm shipwrecks him on the very shores he sought[^ref-3][^ref-10].
 
 Alexander awakens on the Isle of the Crown to find the Green Isles in turmoil. King Caliphim and Queen Allaria have died under mysterious circumstances, and the royal Vizier Abdul Alhazred has declared himself regent[^ref-4]. Claiming Cassima is in mourning and cannot be disturbed, Alhazred plans to force her into marriage to legitimize his rule[^ref-11]. The kingdom's four main islands—once united under the Crown—have fallen into bitter dispute after their sacred treasures were stolen, each island blaming the others[^ref-10].
 
-Alexander's quest takes him across a chain of islands, each inspired by classic literary traditions. The Isle of the Crown evokes the Arabian Nights with its bazaars and palace intrigue[^ref-12]. The comma-shaped Isle of Wonder draws from Lewis Carroll's Alice in Wonderland, populated by living chess pieces, grammatical puns made flesh, and quarreling queens[^ref-13][^ref-9]. The Isle of the Sacred Mountain reflects ancient Greek mythology, featuring winged humanoids, a minotaur-haunted labyrinth, and an ancient oracle[^ref-13]. The Isle of the Beast reimagines Beauty and the Beast, where a cursed nobleman awaits true love's release[^ref-12]. A fifth island, the Isle of the Mists, lies hidden in perpetual fog, home to secretive druids[^ref-10].
+Alexander's quest takes him across a chain of islands, each inspired by classic literary traditions. The Isle of the Crown evokes the Arabian Nights with its bazaars and palace intrigue[^ref-12]. The comma-shaped Isle of Wonder draws from Lewis Carroll's Alice in Wonderland, populated by living chess pieces, grammatical puns made flesh, and quarreling queens[^ref-9][^ref-13]. The Isle of the Sacred Mountain reflects ancient Greek mythology, featuring winged humanoids, a minotaur-haunted labyrinth, and an ancient oracle[^ref-13]. The Isle of the Beast reimagines Beauty and the Beast, where a cursed nobleman awaits true love's release[^ref-12]. A fifth island, the Isle of the Mists, lies hidden in perpetual fog, home to secretive druids[^ref-10].
 
 Alexander must not only rescue Cassima but uncover the truth about her parents' deaths, discover who stole the islands' treasures, and restore harmony to the divided kingdom. His journey ultimately leads to the Realm of the Dead itself, where he may attempt to bargain with Death for the souls of the murdered king and queen[^ref-14].
 
@@ -65,7 +65,7 @@ George Starostin's retrospective praised the refinement: "Many more actions with
 
 The game world spans five islands navigated via a magic map that only functions when Alexander stands on a shore[^ref-9]. Each island is relatively compact, typically comprising no more than half a dozen screens, but puzzles interlock across locations—solving challenges on one island often requires objects or information gathered from another, similar to the design approach of LucasArts' Monkey Island 2, released the same year[^ref-12].
 
-A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-16]. This reflects the game's signature feature: nearly half of all content is entirely optional[^ref-3][^ref-5]. The design offers two major paths—a "short path" yielding between 116-184 points and requiring less exploration, versus a "long path" worth 179-231 points that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures[^ref-16][^ref-14].
+A sophisticated point system tracks completion, with 231 total points available but only 116 required to finish the game[^ref-16]. This reflects the game's signature feature: nearly half of all content is entirely optional[^ref-3][^ref-5]. The design offers two major paths—a "short path" yielding between 116-184 points and requiring less exploration, versus a "long path" worth 179-231 points that involves rescuing Cassima's parents from the Land of the Dead, freeing the enslaved genie, and recovering all stolen treasures[^ref-14][^ref-16].
 
 Lead programmer Robert Lindsley emphasized this nonlinear design in InterAction Magazine: "It's a very deep game. Players are going to see a lot of things they've never seen before. You're going to be able to play this game two or three times over. It's not linear at all. In fact, if anyone ever makes it through the game, if you ever solve it 100%, let us know. We'll give you a medal"[^ref-3].
 
@@ -122,7 +122,7 @@ Jane Jensen had joined Sierra in 1990 after seeing an ad in a Los Angeles newspa
 
 ### Production
 
-Development spanned fourteen months from May 1991 to September 1992, with a team exceeding twenty people[^ref-4][^ref-3]. The budget reached at least $700,000—equivalent to approximately $1,568,485 in 2024 dollars—with some sources indicating costs pushed past $1 million as production expanded[^ref-4][^ref-7].
+Development spanned fourteen months from May 1991 to September 1992, with a team exceeding twenty people[^ref-3][^ref-4]. The budget reached at least $700,000—equivalent to approximately $1,568,485 in 2024 dollars—with some sources indicating costs pushed past $1 million as production expanded[^ref-4][^ref-7].
 
 The design process began at Williams' home. Jensen recalled: "We sat down at her house with a huge pad of paper—that was her method of design. She already knew the game would be about King Graham's son, Alexander, and his quest to the Green Isles to meet and save Cassima. Most of the rest was brainstormed between us"[^ref-17].
 
@@ -130,7 +130,7 @@ The collaboration proved challenging but formative. Jensen reflected: "It wasn't
 
 Jensen wrote over 6,000 messages for the game—reportedly four times the script size of King's Quest V[^ref-4][^ref-9]. She also authored the Guidebook to the Land of the Green Isles, the game's copy protection manual written in-universe as the travel journal of explorer Derek Karlavaegen[^ref-13]. The character name was suggested by Peter Spear, author of The King's Quest Companion, to cement connections with his book series; Jensen's original character was named "John the Wanderer"[^ref-13].
 
-**Development Credits:**[^ref-20][^ref-3]
+**Development Credits:**[^ref-3][^ref-20]
 - **Executive Designer:** Roberta Williams
 - **Co-Designer:** Jane Jensen
 - **Project Manager/Director:** William D. Skirvin
@@ -150,7 +150,7 @@ The opening movie was created by Kronos Digital Entertainment, led by Stanley Li
 
 King's Quest VI was Sierra's first adventure game to feature lip-syncing technology, acquired through Sierra's July 1992 purchase of Bright Star Technology for $1 million[^ref-7]. The technology was developed by Elon Gasper, described as "a genius ex-college professor specializing in linguistics"[^ref-7]. This enabled character portraits to synchronize with voice acting, though only the CD-ROM version featured full voice acting throughout.
 
-The game employed video-captured actors for realistic character animation, with over 2,000 character actions recorded via motion capture[^ref-4][^ref-3]. Technical advances included "scaling" technology allowing characters to change size based on screen position for correct perspective, and "pather" technology enabling intelligent obstacle avoidance[^ref-3].
+The game employed video-captured actors for realistic character animation, with over 2,000 character actions recorded via motion capture[^ref-3][^ref-4]. Technical advances included "scaling" technology allowing characters to change size based on screen position for correct perspective, and "pather" technology enabling intelligent obstacle avoidance[^ref-3].
 
 John Shroades created 80 background paintings for the game[^ref-4]. The Windows CD-ROM version featured enhanced high-resolution (640x400) character portraits during dialogue sequences[^ref-12][^ref-26].
 
@@ -198,7 +198,7 @@ George Starostin was less charitable, calling it a "horrendous power ballad"[^re
 - **Disk Space:** 15+ MB hard drive installation (entire game)
 - **RAM:** 2 MB (DOS), 4 MB (Windows)
 
-**Floppy Version:**[^ref-7][^ref-5]
+**Floppy Version:**[^ref-5][^ref-7]
 - **Disks:** 9 high-density (3.5") or equivalent
 - **Size:** Over 17 MB
 - **Intro Movie:** 5-6 MB (recommended deletion after viewing to free space)
@@ -266,7 +266,7 @@ The "best" ending requires sending the ring via Sing-Sing the nightingale, befri
 
 ### Easter Eggs and Trivia
 
-**Pawn Shop References:** The pawn shop shelves contain humorous items referencing earlier King's Quest puzzles[^ref-11][^ref-9]:
+**Pawn Shop References:** The pawn shop shelves contain humorous items referencing earlier King's Quest puzzles[^ref-9][^ref-11]:
 - Hull-hole detector (King's Quest V)
 - Cat-cookie mix (King's Quest III)
 - Golden bridle finder (King's Quest IV)

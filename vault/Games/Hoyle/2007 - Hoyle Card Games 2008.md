@@ -21,11 +21,11 @@ tags: [2000s, hoyle, sierra]
 
 ## Overview
 
-Hoyle Card Games 2008 represents a significant milestone in the long-running Hoyle franchise, marking the first Mac OS X-compatible release since Sierra's 2002 version for Mac OS 9[^ref-1][^ref-21]. Published by Encore Software, the game delivers an extensive collection of over 150 classic card games based on official Hoyle rules—a brand that has served as the authority on card game regulations for more than 200 years[^ref-2][^ref-22][^ref-3]. The title was initially released in the United States on October 1, 2007 for PC[^ref-4][^ref-5], with subsequent releases following in various regions including a UK launch on January 26, 2009[^ref-6].
+Hoyle Card Games 2008 represents a significant milestone in the long-running Hoyle franchise, marking the first Mac OS X-compatible release since Sierra's 2002 version for Mac OS 9[^ref-1][^ref-21]. Published by Encore Software, the game delivers an extensive collection of over 150 classic card games based on official Hoyle rules—a brand that has served as the authority on card game regulations for more than 200 years[^ref-2][^ref-3][^ref-22]. The title was initially released in the United States on October 1, 2007 for PC[^ref-4][^ref-5], with subsequent releases following in various regions including a UK launch on January 26, 2009[^ref-6].
 
 The game stands as a comprehensive digital card gaming experience, featuring more than 75 different card games including popular titles such as Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle, and Rummy 500[^ref-2][^ref-3]. Additionally, the package includes 55 different solitaire games as a bonus feature, along with an official Hoyle rulebook and strategy guide[^ref-7][^ref-8]. The inclusion of online Texas Hold'em functionality demonstrated Encore's awareness of the poker boom prevalent during the mid-2000s[^ref-3].
 
-Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the series' history, arriving as a PC/Mac hybrid disc[^ref-9]. The game received a Teen rating from the ESRB due to simulated gambling content[^ref-10][^ref-5]. While the Hoyle franchise originated with Sierra On-Line in 1989 and was designed by [[Warren Schwader]][^ref-11], by 2008 the series had transitioned entirely to Encore Software, which had acquired the brand and continued annual releases throughout the 2000s[^ref-12].[^ref-20]
+Hoyle Card Games 2008 was distributed on DVD-ROM for the first time in the series' history, arriving as a PC/Mac hybrid disc[^ref-9]. The game received a Teen rating from the ESRB due to simulated gambling content[^ref-5][^ref-10]. While the Hoyle franchise originated with Sierra On-Line in 1989 and was designed by [[Warren Schwader]][^ref-11], by 2008 the series had transitioned entirely to Encore Software, which had acquired the brand and continued annual releases throughout the 2000s[^ref-12].[^ref-20]
 
 > [!info]- Game Info
 > **Developer:** [[Encore Software]][^ref-4]
@@ -59,7 +59,7 @@ The game includes comprehensive tutorials and an official Hoyle rulebook integra
 The game operates as a sandbox collection rather than following a structured progression system. Players are free to access any of the 150+ games from the outset without needing to unlock content[^ref-2]. The collection is organized by game type:
 
 - **Card Games (75+):** Including Texas Hold'em, Hearts, Bridge, Crazy Eights, Gin Rummy, Omaha Hold'em, Pinochle, Rummy 500, Spades, Blackjack, and Poker variants[^ref-2][^ref-7]
-- **Solitaire Games (55):** A comprehensive bonus collection of single-player card games[^ref-7][^ref-2]
+- **Solitaire Games (55):** A comprehensive bonus collection of single-player card games[^ref-2][^ref-7]
 - **Additional Games:** Including Sudoku puzzles sourced from Big Bang Brain Sudoku[^ref-1]
 
 ### Puzzles and Mechanics

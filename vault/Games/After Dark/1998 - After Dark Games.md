@@ -54,7 +54,7 @@ After Dark Games includes the following titles, each with "multiple levels of di
 
 | Game | Type | Description |
 |------|------|-------------|
-| **Toaster Run** | Arcade | Isometric Glider clone featuring Flying Toaster and Super Guy; "Don't get burnt in the high-flying arcade action"[^ref-8][^ref-1] |
+| **Toaster Run** | Arcade | Isometric Glider clone featuring Flying Toaster and Super Guy; "Don't get burnt in the high-flying arcade action"[^ref-1][^ref-8] |
 | **Bad Dog 911** | Word Puzzle | Word scramble based on Bad Dog modules[^ref-1] |
 | **Mowin' Maniac** | Action | "Go crazy with Mowin' Man and turn some pesky gardeners into fertilizer"[^ref-8] |
 | **Hula Girl** | Platformer | Endless 2D platforming game featuring the beloved Hula Girl character[^ref-18] |

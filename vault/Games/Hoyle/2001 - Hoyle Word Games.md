@@ -31,7 +31,7 @@ Sierra enhanced the classic word game experience with graphics and sound effects
 > **Developer:** Sierra Entertainment[^ref-1]
 > **Publisher:** Sierra Entertainment / Vivendi Universal Games[^ref-1][^ref-6]
 > **Engine:** Proprietary (Windows)[^ref-6]
-> **Platforms:** Windows 95/98/Me/2000/NT, Mac OS[^ref-6][^ref-2]
+> **Platforms:** Windows 95/98/Me/2000/NT, Mac OS[^ref-2][^ref-6]
 > **Release Year:** 2001[^ref-1]
 > **Series:** Hoyle
 > **Protagonist:** N/A
@@ -83,7 +83,7 @@ The game supports multiple ways to play with others[^ref-3]:
 - **Local Multiplayer:** Up to four players on the same computer[^ref-3]
 - **Internet Play:** Free online multiplayer functionality[^ref-3]
 
-Players can save their games in progress and print puzzles for offline completion[^ref-3][^ref-2].
+Players can save their games in progress and print puzzles for offline completion[^ref-2][^ref-3].
 
 ### Educational Value
 

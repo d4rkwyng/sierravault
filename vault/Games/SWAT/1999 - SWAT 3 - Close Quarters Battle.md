@@ -115,7 +115,7 @@ To ensure authenticity, developers spent considerable time with actual LAPD SWAT
 
 Motion capture technology was employed extensively, with most animations performed by an actual SWAT officer.[^ref-1] The game features more than 150 dynamic motion-captured characters and approximately 500 motion-captured animations.[^ref-2][^ref-27] Former LAPD Police Chief Daryl F. Gates, who had been involved with the Police Quest series since its inception, also contributed to the project.[^ref-2]
 
-**Development Credits:**[^ref-25][^ref-1]
+**Development Credits:**[^ref-1][^ref-25]
 - **Lead Designer:** [[Tammy Dargan]]
 - **Lead Programmer:** Jim Napier
 - **Composer:** Gary Spinrad
@@ -193,7 +193,7 @@ The game has experienced various compatibility issues on modern systems:[^ref-29
 - **Resolution limits:** Direct3D 6's limitation prevents resolutions above 2048 pixels
 - **Windows 10:** Severe performance issues reported, with some users experiencing "2fps"[^ref-4]
 
-Known gameplay bugs include:[^ref-32][^ref-25]
+Known gameplay bugs include:[^ref-25][^ref-32]
 - Client hang when connecting to WON.net servers
 - Operations menu screen lag when host changes mission parameters
 - Sound-related crashes in chat rooms

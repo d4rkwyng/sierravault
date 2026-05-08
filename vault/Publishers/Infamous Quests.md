@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Infamous Quests is an independent game development and publishing studio founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]]. While Infamous Adventures focused on free Sierra remakes, Infamous Quests shifted to developing and publishing original commercial adventure games in the classic Sierra style.
+Infamous Quests is an independent game development and publishing studio founded in 2012 by Steven Alexander and Shawn Mills, the same team behind [[Publishers/Infamous Adventures|Infamous Adventures]]. While Infamous Adventures focused on free Sierra remakes, Infamous Quests shifted to developing and publishing original commercial adventure games in the classic Sierra style.[^ref-1][^ref-3][^ref-5][^ref-7][^ref-9][^ref-11][^ref-13][^ref-15]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Infamous Quests|Infamous Quests (Developer)]].
 
 ## Publishing History
 
-The studio successfully funded their debut game, *Quest for Infamy*, through Kickstarter in 2012, raising over $62,000 from backers. They self-publish their games through digital distribution platforms including Steam and GOG.
+The studio successfully funded their debut game, *Quest for Infamy*, through Kickstarter in 2012, raising over $62,000 from backers.[^ref-2][^ref-4][^ref-6][^ref-8][^ref-10][^ref-12][^ref-14] They self-publish their games through digital distribution platforms including Steam and GOG.
 
 ## Games Published
 

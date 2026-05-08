@@ -142,11 +142,11 @@ The MobyGames review notes a significant design flaw: "Game doesn't let you adva
 | 1.0 | 1984 | Commodore 64 | Disk/Tape version[^ref-5] |
 | 1.0 | 1984 | Apple II | Floppy disk version[^ref-2] |
 
-Note: PriceCharting lists an initial release date of January 1, 1983 for the ColecoVision version, though most sources cite 1984.[^ref-6][^ref-1]
+Note: PriceCharting lists an initial release date of January 1, 1983 for the ColecoVision version, though most sources cite 1984.[^ref-1][^ref-6]
 
 ### Easter Eggs and Trivia
 
-- **Age-Based Difficulty:** The game asks the player's age at startup and automatically recommends a starting floor based on the response, with older players beginning on higher, more difficult floors.[^ref-4][^ref-2]
+- **Age-Based Difficulty:** The game asks the player's age at startup and automatically recommends a starting floor based on the response, with older players beginning on higher, more difficult floors.[^ref-2][^ref-4]
 - **Second Licensed Comic Game:** WizMath holds the distinction of being the second game to feature one of Creators Syndicate's famous comic strips.[^ref-2]
 - **Block Physics:** Blocks pushed by the player will fly continuously until they hit a wall or another block, requiring careful planning.[^ref-4]
 - **Escalating Complexity:** Early levels require solving only one equation to exit, while later levels require two or more complete solutions.[^ref-4]

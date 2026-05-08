@@ -174,7 +174,7 @@ Sales figures for The Charge of the Light Brigade were not publicly reported, an
 
 ### Collections
 
-The game has not appeared in any official compilation releases. It is currently available through abandonware preservation sites including MyAbandonware, Internet Archive, and various browser-based DOS emulation platforms[^ref-16][^ref-1][^ref-17].
+The game has not appeared in any official compilation releases. It is currently available through abandonware preservation sites including MyAbandonware, Internet Archive, and various browser-based DOS emulation platforms[^ref-1][^ref-16][^ref-17].
 
 ### Related Publications
 

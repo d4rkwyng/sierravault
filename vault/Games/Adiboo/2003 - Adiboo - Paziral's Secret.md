@@ -23,7 +23,7 @@ tags: [2000s, adibou, coktel, racing, sierra]
 
 Adiboo & Paziral's Secret is a 3D action-adventure platform game released in 2003 for PlayStation and 2004 for Windows PC[^ref-1][^ref-2]. Developed jointly by [[Coktel Vision]] and Neko Entertainment, the game represented a departure from the Adibou franchise's traditional educational software roots, instead offering a family-friendly action experience combining platforming, racing, and arcade gameplay across twelve distinct levels[^ref-1][^ref-3]. The game was published by Vivendi Universal Games International across multiple European territories[^ref-2].
 
-Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-4][^ref-1]. The game drew favorable comparisons to Naughty Dog's Crash Bandicoot series, featuring both 2D side-scrolling sections and 3D adventure gameplay that critics found suitable for younger audiences[^ref-5]. With support for five European languages and releases across France, Germany, Italy, Spain, and the United Kingdom, the game demonstrated Vivendi's commitment to the Adibou brand in the European children's market[^ref-2][^ref-6].
+Set on the fictional Planet Celesta, players take control of the intrepid explorer Adiboo as he embarks on a quest to save the peaceful Tonies Island from the mysterious villain Paziral and his army of robots[^ref-1][^ref-4]. The game drew favorable comparisons to Naughty Dog's Crash Bandicoot series, featuring both 2D side-scrolling sections and 3D adventure gameplay that critics found suitable for younger audiences[^ref-5]. With support for five European languages and releases across France, Germany, Italy, Spain, and the United Kingdom, the game demonstrated Vivendi's commitment to the Adibou brand in the European children's market[^ref-2][^ref-6].
 
 > [!info]- Game Info
 > **Developer:** [[Coktel Vision]], Neko Entertainment[^ref-2]
@@ -123,7 +123,7 @@ The extensive localization effort required separate voice recording for multiple
 
 ### Technical Achievements
 
-Built on the RenderWare engine, the same middleware that powered numerous successful PlayStation titles, Adiboo & Paziral's Secret achieved visuals that critics found respectable for the aging PlayStation hardware[^ref-8][^ref-5]. The game utilized textured polygon graphics to create its colorful, stylized 3D environments[^ref-11].
+Built on the RenderWare engine, the same middleware that powered numerous successful PlayStation titles, Adiboo & Paziral's Secret achieved visuals that critics found respectable for the aging PlayStation hardware[^ref-5][^ref-8]. The game utilized textured polygon graphics to create its colorful, stylized 3D environments[^ref-11].
 
 ### Technical Specifications
 

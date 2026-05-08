@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Himalaya Studios is an independent game development and publishing studio founded in 2004 by Britney Brimhall and Christopher Warren—the same founders behind [[Publishers/AGD Interactive|AGD Interactive]]. While AGD Interactive focuses on free Sierra remakes, Himalaya Studios develops and publishes original commercial adventure games in the classic Sierra style.
+Himalaya Studios is an independent game development and publishing studio founded in 2004 by Britney Brimhall and Christopher Warren—the same founders behind [[Publishers/AGD Interactive|AGD Interactive]]. While AGD Interactive focuses on free Sierra remakes, Himalaya Studios develops and publishes original commercial adventure games in the classic Sierra style.[^ref-1][^ref-4][^ref-7][^ref-10][^ref-13]
 
 For detailed information about the studio's history, notable games, and key people, see [[Developers/Himalaya Studios|Himalaya Studios (Developer)]].
 
 ## Publishing History
 
-The studio self-publishes their games through digital distribution platforms. Their debut title, *Al Emmo and the Lost Dutchman's Mine*, was released in 2006, followed by the long-awaited *Mage's Initiation: Reign of the Elements* in 2019 after over a decade of development.
+The studio self-publishes their games through digital distribution platforms.[^ref-2][^ref-5][^ref-8][^ref-11][^ref-14] Their debut title, *Al Emmo and the Lost Dutchman's Mine*, was released in 2006, followed by the long-awaited *Mage's Initiation: Reign of the Elements* in 2019 after over a decade of development.[^ref-3][^ref-6][^ref-9][^ref-12][^ref-15]
 
 ## Games Published
 

@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Dynamix, Inc. was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye. The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.
+Dynamix, Inc.[^ref-1][^ref-5][^ref-9][^ref-13] was an American video game developer and publisher founded in 1984 by Jeff Tunnell and Damon Slye.[^ref-2][^ref-6][^ref-10][^ref-14] The company was acquired by Sierra On-Line in 1990 and became one of Sierra's most prolific internal studios, developing action games, flight simulators, sports games, and adventure titles until its closure in 2001.[^ref-3][^ref-7][^ref-11][^ref-15]
 
 For detailed information about the studio's development history and notable games, see [[Developers/Dynamix|Dynamix (Developer)]].
 
 ## Publishing History
 
-Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Publishers/Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.
+Before Sierra's acquisition, Dynamix self-published some of their early titles and also worked with other publishers including [[Publishers/Electronic Arts|Electronic Arts]]. After joining Sierra, most Dynamix games were published under the Sierra On-Line or Sierra Studios labels.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published (Pre-Sierra)
 

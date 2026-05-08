@@ -178,7 +178,7 @@ More After Dark modules, including Lunatic Fringe, were included in various Afte
 
 ### Fan Projects
 
-The After Dark community created hundreds of third-party modules during the software's peak popularity, demonstrating significant fan engagement with the platform.[^ref-4] The Macintosh Repository and Internet Archive maintain accessible copies of More After Dark for preservation purposes.[^ref-3][^ref-2]
+The After Dark community created hundreds of third-party modules during the software's peak popularity, demonstrating significant fan engagement with the platform.[^ref-4] The Macintosh Repository and Internet Archive maintain accessible copies of More After Dark for preservation purposes.[^ref-2][^ref-3]
 
 ### Related Publications
 

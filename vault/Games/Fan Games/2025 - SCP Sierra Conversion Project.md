@@ -35,7 +35,7 @@ The Sierra Conversion Project (SCP) is a Spanish fan group dedicated to preservi
 
 Led by key members DaRaSCo and kikems (of AmigaWave), the SCP has developed techniques to extract, modify, and re-inject improved graphics back into Sierra's SCI engine games.[^ref-2] Their work addresses a long-standing frustration in the retro gaming community—Sierra's Amiga ports were widely considered among the worst conversions of the era, with fans describing the original Space Quest IV Amiga version as causing them to "vomit at the non-amiga-worthy graphics" and "swear at the arrogance of Sierra for releasing a daft excuse for a port."[^ref-1]
 
-The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-1][^ref-4][^ref-5][^ref-7][^ref-11][^ref-12][^ref-8][^ref-9][^ref-10]
+The project gained significant attention in January 2026 with the rapid release of three enhanced games: [[1991 - Police Quest III - The Kindred|Police Quest III]] (January 3), [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]] (January 4), and [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]] (January 15).[^ref-1][^ref-4][^ref-5][^ref-7][^ref-8][^ref-9][^ref-10][^ref-11][^ref-12]
 
 > [!info]- Project Info
 > **Group:** Sierra Conversion Project (SCP)
@@ -47,9 +47,9 @@ The project gained significant attention in January 2026 with the rapid release 
 
 ## Story Summary
 
-The Sierra Conversion Project is a non-narrative enhancement effort rather than a standalone game with its own plot. Each SCP release preserves the complete original story of its source title intact—players experience the same dialogue, plot beats, character arcs, and endings authored by Sierra's original writing teams.[^ref-2][^ref-1]
+The Sierra Conversion Project is a non-narrative enhancement effort rather than a standalone game with its own plot. Each SCP release preserves the complete original story of its source title intact—players experience the same dialogue, plot beats, character arcs, and endings authored by Sierra's original writing teams.[^ref-1][^ref-2]
 
-For [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], that means King Graham's quest to recover his castle and family from the wizard Mordack across the lands of Daventry, Serenia, and beyond. For [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], it is Sonny Bonds's investigation into the cult that attacked his wife Marie. For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], it is janitor Roger Wilco's time-hopping pursuit by Sequel Police across past and future Space Quest installments. The SCP enhancements modify only graphics resources—text, scripts, and game logic remain untouched, so the storytelling experience matches the original DOS VGA releases that the Amiga ports had visually compromised.[^ref-2][^ref-1][^ref-4]
+For [[1990 - King's Quest V - Absence Makes the Heart Go Yonder|King's Quest V]], that means King Graham's quest to recover his castle and family from the wizard Mordack across the lands of Daventry, Serenia, and beyond. For [[1991 - Police Quest III - The Kindred|Police Quest III: The Kindred]], it is Sonny Bonds's investigation into the cult that attacked his wife Marie. For [[1991 - Space Quest IV - Roger Wilco and the Time Rippers|Space Quest IV]], it is janitor Roger Wilco's time-hopping pursuit by Sequel Police across past and future Space Quest installments. The SCP enhancements modify only graphics resources—text, scripts, and game logic remain untouched, so the storytelling experience matches the original DOS VGA releases that the Amiga ports had visually compromised.[^ref-1][^ref-2][^ref-4]
 
 ## Released Projects
 
@@ -83,11 +83,11 @@ The enhanced SCP releases maintain the original SCI engine's point-and-click int
 
 ### Structure and Progression
 
-Each SCP-enhanced game preserves the original game's structure and progression intact. Whether playing Police Quest III, King's Quest V, or Space Quest IV, players experience the same puzzle design, story beats, and gameplay progression as the original DOS versions.[^ref-2][^ref-1] The enhancement process focuses exclusively on graphics replacement—new artwork is re-injected into the SCI engine without altering code, mechanics, or level design. This ensures that fans can enjoy enhanced visual presentation while maintaining the exact gameplay experience Sierra intended.
+Each SCP-enhanced game preserves the original game's structure and progression intact. Whether playing Police Quest III, King's Quest V, or Space Quest IV, players experience the same puzzle design, story beats, and gameplay progression as the original DOS versions.[^ref-1][^ref-2] The enhancement process focuses exclusively on graphics replacement—new artwork is re-injected into the SCI engine without altering code, mechanics, or level design. This ensures that fans can enjoy enhanced visual presentation while maintaining the exact gameplay experience Sierra intended.
 
 ### Puzzles and Mechanics
 
-The SCP enhancements preserve the original Sierra adventure game puzzle design without modification. Police Quest III, King's Quest V, and Space Quest IV each feature traditional Sierra puzzle mechanics including object-interaction puzzles, inventory-based challenges, environmental problem-solving, and story progression gates.[^ref-2][^ref-1] The graphical enhancement does not alter puzzle solutions, item availability, or puzzle logic—players solve the same challenges using identical inventory and interaction patterns as the original DOS versions.
+The SCP enhancements preserve the original Sierra adventure game puzzle design without modification. Police Quest III, King's Quest V, and Space Quest IV each feature traditional Sierra puzzle mechanics including object-interaction puzzles, inventory-based challenges, environmental problem-solving, and story progression gates.[^ref-1][^ref-2] The graphical enhancement does not alter puzzle solutions, item availability, or puzzle logic—players solve the same challenges using identical inventory and interaction patterns as the original DOS versions.
 
 For King's Quest V, players solve magic-based puzzles using items collected from the fantasy landscape, maintain the original game's death mechanics and resource management, and navigate the same castle and outdoor environments with unchanged geography and puzzle placement.[^ref-4] Space Quest IV's time-travel adventure maintains its comedic Sierra adventure design while benefiting from improved visual clarity that helps players identify interactive objects and understand spatial relationships within each screen.[^ref-1] The SCP approach preserves puzzle authenticity while making solutions more discoverable through enhanced artwork clarity.
 
@@ -106,7 +106,7 @@ The core team includes:[^ref-2]
 - **kikems (AmigaWave)** - Graphics artist, ImageFX specialist
 - **Estrayk** - Technical documentation and coordination
 
-The team operates on a rapid deployment schedule. All three Police Quest III, King's Quest V, and Space Quest IV enhancements were released within six weeks (January 3–15, 2026), demonstrating efficient workflow optimization.[^ref-1][^ref-4][^ref-1]
+The team operates on a rapid deployment schedule. All three Police Quest III, King's Quest V, and Space Quest IV enhancements were released within six weeks (January 3–15, 2026), demonstrating efficient workflow optimization.[^ref-1][^ref-4]
 
 ### Historical Context
 
@@ -159,7 +159,7 @@ The SCP's enhanced games received significant attention from the Amiga retro gam
 
 ### Modern Assessment
 
-The project represents a meaningful contribution to Sierra game preservation on the Amiga platform. By addressing the long-standing criticism of Sierra's Amiga port quality, the SCP has filled a gap in the retro gaming community.[^ref-2][^ref-1]
+The project represents a meaningful contribution to Sierra game preservation on the Amiga platform. By addressing the long-standing criticism of Sierra's Amiga port quality, the SCP has filled a gap in the retro gaming community.[^ref-1][^ref-2]
 
 ### Community Response
 
@@ -171,11 +171,11 @@ The Sierra Gaming World Facebook group has been instrumental in spreading awaren
 
 English Amiga Board discussions have praised the technical achievement of the SCP's approach, with community members noting that the enhanced versions finally address decades-old frustrations with Sierra's poor Amiga ports.[^ref-6] AmigaWave's coverage of the project highlighted the artistic craftsmanship involved in palette optimization and sprite enhancement, describing the work as "forensic-level restoration of what Sierra should have delivered in the first place."[^ref-1]
 
-The rapid release schedule (three major games in six weeks from January 3–15, 2026) generated sustained momentum within the retro gaming community, with backers and preservation enthusiasts celebrating each release as a milestone in Sierra fan history.[^ref-1][^ref-2][^ref-1][^ref-15]
+The rapid release schedule (three major games in six weeks from January 3–15, 2026) generated sustained momentum within the retro gaming community, with backers and preservation enthusiasts celebrating each release as a milestone in Sierra fan history.[^ref-1][^ref-2][^ref-15]
 
 ### Technical Achievements
 
-The SCP team developed novel palette optimization techniques to address the fundamental limitations of Sierra's original Amiga ports.[^ref-2][^ref-1] Using Amiga-native tools including ImageFX, PPaint, and Adpro, the team extracts, modifies, and re-injects improved graphics directly into the original SCI game files.[^ref-2] This approach preserves compatibility with the original Amiga hardware while delivering significantly improved visual quality.[^ref-2]
+The SCP team developed novel palette optimization techniques to address the fundamental limitations of Sierra's original Amiga ports.[^ref-1][^ref-2] Using Amiga-native tools including ImageFX, PPaint, and Adpro, the team extracts, modifies, and re-injects improved graphics directly into the original SCI game files.[^ref-2] This approach preserves compatibility with the original Amiga hardware while delivering significantly improved visual quality.[^ref-2]
 
 ## Legacy
 

@@ -282,7 +282,7 @@ The "best" ending requires specific actions during the final confrontation in th
 | Phone Guy #5 | Stuart M. Rosen |
 | Beignet Vendor | Stuart M. Rosen |
 
-Voice direction by Stuart M. Rosen, who had won numerous Emmy awards; recorded in Los Angeles.[^ref-6][^ref-4]
+Voice direction by Stuart M. Rosen, who had won numerous Emmy awards; recorded in Los Angeles.[^ref-4][^ref-6]
 
 ## Legacy
 

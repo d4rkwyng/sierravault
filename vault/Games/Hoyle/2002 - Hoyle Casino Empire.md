@@ -126,7 +126,7 @@ The Facemaker character creation utility represented a notable feature, allowing
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-6][^ref-4]
+**CD-ROM Version:**[^ref-4][^ref-6]
 - **Resolution:** 640x480
 - **Media:** CD-ROM (Hybrid PC/Mac)
 - **Processor:** Pentium 133 MHz minimum

@@ -64,7 +64,7 @@ Critics noted that the game's puzzle design was frustratingly simplistic, with o
 
 ### Contemporary Reviews
 
-Box Office Bust received universally negative reviews across all platforms, achieving some of the lowest review scores in gaming history. Metacritic aggregated scores of 25/100 for Xbox 360, 20/100 for PC, and 17/100 for PlayStation 3[^ref-40][^ref-42][^ref-41]. GameRankings showed similarly dismal scores of 26.08%, 20.22%, and 16.00% respectively[^ref-71][^ref-72][^ref-73].
+Box Office Bust received universally negative reviews across all platforms, achieving some of the lowest review scores in gaming history. Metacritic aggregated scores of 25/100 for Xbox 360, 20/100 for PC, and 17/100 for PlayStation 3[^ref-40][^ref-41][^ref-42]. GameRankings showed similarly dismal scores of 26.08%, 20.22%, and 16.00% respectively[^ref-71][^ref-72][^ref-73].
 
 | Publication | Score | Notes |
 |-------------|-------|-------|

@@ -115,14 +115,14 @@ Caesar III introduced several technical innovations that became hallmarks of the
 
 The game featured detailed animations and a rich isometric visual style that brought Roman cities to life. As noted in contemporary reviews, "The graphics are some of the best I've ever seen in a computer game"[^ref-24]. The technical implementation supported cities with thousands of individual buildings and citizens, though as long-term player Teoalida observed, "The game was NOT designed to sustain cities with over 30000 inhabitants"[^ref-83], indicating the technical limitations of late 1990s hardware.
 
-The game required regular patches to address technical issues, with version 1.0.1.0 being particularly important as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26]. Sierra provided patches in multiple languages, including German versions[^ref-53] and comprehensive update support through their technical resources[^ref-73][^ref-1].
+The game required regular patches to address technical issues, with version 1.0.1.0 being particularly important as "open-source implementations of the game, like Julius or Augustus, require the game to patched to 1.0.1.0"[^ref-26]. Sierra provided patches in multiple languages, including German versions[^ref-53] and comprehensive update support through their technical resources[^ref-1][^ref-73].
 
 ### Version History
 
 | Version | Date | Notes |
 |---------|------|-------|
 | 1.0 | September 1998 | Initial release[^ref-10] |
-| 1.0.1.0 | 1998 | Critical patch required for open-source implementations[^ref-26][^ref-11] |
+| 1.0.1.0 | 1998 | Critical patch required for open-source implementations[^ref-11][^ref-26] |
 
 ## Legacy
 

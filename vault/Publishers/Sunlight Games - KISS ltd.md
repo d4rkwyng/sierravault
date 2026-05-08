@@ -12,22 +12,22 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Sunlight Games is an independent game development and publishing studio that specializes in reviving and continuing classic adventure game franchises. The company operates under KISS ltd and has focused on bringing beloved Sierra properties to modern platforms.
+Sunlight Games is an independent game development and publishing studio that specializes in reviving and continuing classic adventure game franchises.[^ref-1][^ref-11] The company operates under KISS ltd and has focused on bringing beloved Sierra properties to modern platforms.[^ref-2][^ref-12]
 
 ## Sierra Connection
 
-Sunlight Games acquired the rights to the Gold Rush! franchise, originally created by Doug MacNeill and The Software Farm for Sierra On-Line in 1988. The original Gold Rush! was a historical adventure game set during the California Gold Rush of 1849.
+Sunlight Games acquired the rights to the Gold Rush![^ref-3][^ref-13] franchise, originally created by Doug MacNeill and The Software Farm for Sierra On-Line in 1988.[^ref-4][^ref-14] The original Gold Rush![^ref-5][^ref-15] was a historical adventure game set during the California Gold Rush of 1849.[^ref-6]
 
-Sunlight Games has released both a remaster of the original game and a full sequel, continuing the franchise decades after its Sierra debut.
+Sunlight Games has released both a remaster of the original game and a full sequel, continuing the franchise decades after its Sierra debut.[^ref-7]
 
 ## Games Published (Sierra Archive)
 
-- **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]] — Notes: HD remaster of 1988 original
-- **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] — Notes: New sequel
+- **2014** — [[2014 - Gold Rush Anniversary|Gold Rush! Anniversary]] — Notes: HD remaster of 1988 original[^ref-8]
+- **2017** — [[2017 - Gold Rush 2|Gold Rush! 2]] — Notes: New sequel[^ref-9]
 
 ## Related
 
-- **Original Series:** [[1988 - Gold Rush|Gold Rush! (1988)]]
+- **Original Series:** [[1988 - Gold Rush|Gold Rush! (1988)]][^ref-10]
 - **Original Publisher:** [[Publishers/Sierra On-Line|Sierra On-Line]]
 - **Original Developer:** The Software Farm
 

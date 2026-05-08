@@ -24,7 +24,7 @@ tags: [1990s, sierra, simulation, standalone]
 
 Space Bucks is a space-based business simulation game where players take on the role of a budding entrepreneur attempting to build the biggest and most successful transport empire in the galaxy before the year 2500.[^ref-1][^ref-2] Developed by Impressions Games and published by Sierra Entertainment in 1996, the game is a futuristic strategy title for Windows 3.1 distributed on CD-ROM.[^ref-3] Players start with humble beginnings—one ship and one starport—and must acquire landing rights to nearby planets and ferry needed goods to them while competing against three computer-controlled alien trading companies for galactic transport supremacy.[^ref-4][^ref-5]
 
-The game takes place in real-time between the years 2375-2500, with victory achieved through a combination of infrastructure investments, the stock market, piracy, sabotage, and of course trade goods.[^ref-25][^ref-7] Space Bucks is essentially a space trading game, a genre that goes back to M.U.L.E. and more recently Gazillionaire,[^ref-8] representing Sierra's entry into the space commerce simulation genre during the mid-1990s.
+The game takes place in real-time between the years 2375-2500, with victory achieved through a combination of infrastructure investments, the stock market, piracy, sabotage, and of course trade goods.[^ref-7][^ref-25] Space Bucks is essentially a space trading game, a genre that goes back to M.U.L.E. and more recently Gazillionaire,[^ref-8] representing Sierra's entry into the space commerce simulation genre during the mid-1990s.
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-25]
@@ -125,13 +125,13 @@ Developer David Lester founded Impressions Games and sold it to Sierra Entertain
 
 The game's development team included designers Cecilia Barajas, Chris Bamford, Christopher Bamford, Damon Slye, and David Lester.[^ref-7] The involvement of Damon Slye, known for his work on flight simulations, brought additional expertise to the project's simulation elements.
 
-Voice cast members included Karen Miller as the Personal Assistant and Enrique Cerna as the IGN Newscaster, with Michael Stanton serving as the Technology Correspondent.[^ref-10][^ref-9] These voice performances provided personality to the game's news and assistance systems.
+Voice cast members included Karen Miller as the Personal Assistant and Enrique Cerna as the IGN Newscaster, with Michael Stanton serving as the Technology Correspondent.[^ref-9][^ref-10] These voice performances provided personality to the game's news and assistance systems.
 
 The music was composed by Jay Rinaldi, Jeremy A. Bell, and Keith Zizza,[^ref-7] contributing to the game's space-faring atmosphere.
 
 ### Technical Achievements
 
-Space Bucks was distributed on CD-ROM with a file size of 47.4 MB and supports Sound Blaster or compatible sound cards.[^ref-7][^ref-3] The game requires a 486dx33 processor with 8MB RAM and a 2x CD-ROM drive.[^ref-9] The original retail price was $54.95.[^ref-7]
+Space Bucks was distributed on CD-ROM with a file size of 47.4 MB and supports Sound Blaster or compatible sound cards.[^ref-3][^ref-7] The game requires a 486dx33 processor with 8MB RAM and a 2x CD-ROM drive.[^ref-9] The original retail price was $54.95.[^ref-7]
 
 Multiple versions were released to address technical issues:
 

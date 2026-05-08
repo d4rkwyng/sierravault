@@ -130,7 +130,7 @@ The game's technical approach prioritized authenticity over interactivity. As th
 
 ### Technical Specifications
 
-**CD-ROM Version:**[^ref-22][^ref-6]
+**CD-ROM Version:**[^ref-6][^ref-22]
 - **Resolution:** 640x480 SVGA
 - **Colors:** 256
 - **Media:** 4 CD-ROMs

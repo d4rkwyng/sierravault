@@ -22,13 +22,13 @@ tags: [1990s, adventure, king-s-quest, roberta-williams, sci, sierra]
 
 ## Overview
 
-King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-39][^ref-2][^ref-40] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
+King's Quest VII: The Princeless Bride represents a dramatic stylistic departure for Sierra's flagship adventure series. Released on November 22, 1994, the game adopted Disney-inspired cel animation that divided longtime fans while attempting to capture a broader family audience.[^ref-1][^ref-2][^ref-39][^ref-40] The subtitle is a pun on the novel and film *The Princess Bride*, referencing Princess Rosella's imminent arranged marriage.[^ref-3]
 
 Designed by [[Roberta Williams]] and [[Lorelei Shannon]], the game was developed simultaneously with Williams' horror project Phantasmagoria, making this her most intensive period at Sierra.[^ref-4] Shannon had previously written hintbooks for King's Quest and contributed to The Dagger of Amon Ra before taking primary creative control of this project.[^ref-5] As Shannon recalled: "Roberta and I sat at her kitchen table and created the game together. We created the characters and puzzles together. I wrote the dialog."[^ref-4] As Sierra marketed the game, it promised "cinema-quality animation" and "over 100 original compositions."[^ref-6]
 
 The game introduced several firsts for the series: two playable female protagonists (Queen Valanice and Princess Rosella), a chapter-based structure allowing players to skip ahead, and a simplified single-cursor interface that eliminated the multiple action icons of previous entries.[^ref-1][^ref-7] It was also the first King's Quest that required CD-ROM distribution exclusively, unable to fit on floppy disks.[^ref-4]
 
-Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-29][^ref-28]
+Contemporary reviewers praised the animation quality while noting the reduced difficulty. Computer Gaming World's Charles Ardai called it "animation as good as you'd get from a middle-quality Disney feature, with voices and writing to match," while acknowledging "Sierra's quick left turn at Mass Market Street may have left some hard-core gamers in search of a challenge."[^ref-8] Coming Soon Magazine awarded it 92%, calling it "absolutely magical and without a doubt, the episode with the most magic of the saga."[^ref-28][^ref-29]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -210,7 +210,7 @@ Significant content was cut during development:[^ref-4][^ref-21]
 
 ### Easter Eggs and Trivia
 
-The game contains numerous hidden references:[^ref-23][^ref-24][^ref-21]
+The game contains numerous hidden references:[^ref-21][^ref-23][^ref-24]
 
 - **Silence of the Lambs reference**: The rat in Dr. Cadaver's office quotes from the film
 - **Two Guys Glasses**: The Space Quest creators' signature eyewear appears in the Faux Shop

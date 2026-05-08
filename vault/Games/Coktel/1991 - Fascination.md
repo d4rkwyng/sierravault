@@ -125,7 +125,7 @@ The music was composed by Frédéric Motte (credited as "Moby" in some versions)
 
 ### Technical Specifications
 
-**DOS Version:**[^ref-28][^ref-2]
+**DOS Version:**[^ref-2][^ref-28]
 - **Resolution:** 320x200, up to 256 colors (VGA)
 - **Graphics Modes:** CGA, EGA, Hercules, VGA
 - **Audio:** AdLib, Sound Blaster

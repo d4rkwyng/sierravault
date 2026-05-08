@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Pablo Ghenis is a programmer and development systems engineer who worked at Sierra On-Line during the company's transition from AGI to SCI game engines.[^ref-1] With 60 credits across 22 games, Ghenis was one of Sierra's most prolific technical contributors, working on the development systems that powered the company's adventure games rather than individual game programming.[^ref-1] His work on Sierra's SCI interpreter and development tools made him an essential part of the infrastructure that enabled Sierra's golden age of adventure gaming.
+Pablo Ghenis is a programmer and development systems engineer who worked at Sierra On-Line during the company's transition from AGI to SCI game engines.[^ref-1][^ref-11] With 60 credits across 22 games, Ghenis was one of Sierra's most prolific technical contributors, working on the development systems that powered the company's adventure games rather than individual game programming.[^ref-1][^ref-12] His work on Sierra's SCI interpreter and development tools made him an essential part of the infrastructure that enabled Sierra's golden age of adventure gaming.
 
 Ghenis's contributions extended beyond pure systems work to include lead programming and additional design credits on several titles, demonstrating his versatility within Sierra's development structure.[^ref-2] His career at Sierra spanned the entire SCI era, from early titles like King's Quest IV through the VGA revolution of King's Quest V and beyond.
 

@@ -13,15 +13,15 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Coktel Vision was a French video game developer and publisher founded in 1985 by Roland Oskian. The studio became known for distinctive adventure games with surreal humor, including the Gobliiins series and the Adi educational software line. Sierra On-Line acquired Coktel Vision in 1993, making it Sierra's primary European development arm.
+Coktel Vision was a French video game developer and publisher founded in 1985 by Roland Oskian.[^ref-1][^ref-8][^ref-15] The studio became known for distinctive adventure games with surreal humor, including the Gobliiins series and the Adi educational software line.[^ref-2][^ref-9] Sierra On-Line acquired Coktel Vision in 1993, making it Sierra's primary European development arm.[^ref-3][^ref-10]
 
 For detailed information about the studio's development history, see [[Developers/Coktel Vision|Coktel Vision (Developer)]].
 
 ## Sierra Connection
 
-After Sierra's acquisition in 1993, Coktel Vision continued developing games under both the Coktel and Sierra labels. The studio produced adventure games, educational software, and action titles for the European and international markets. Many pre-acquisition Coktel games were republished by Sierra for wider distribution.
+After Sierra's acquisition in 1993, Coktel Vision continued developing games under both the Coktel and Sierra labels.[^ref-4][^ref-11] The studio produced adventure games, educational software, and action titles for the European and international markets.[^ref-5][^ref-12] Many pre-acquisition Coktel games were republished by Sierra for wider distribution.[^ref-6][^ref-13]
 
-The Gobliiins series, Coktel's signature franchise, became part of Sierra's adventure game catalog alongside King's Quest, Space Quest, and other classic series.
+The Gobliiins series, Coktel's signature franchise, became part of Sierra's adventure game catalog alongside King's Quest, Space Quest, and other classic series.[^ref-7][^ref-14]
 
 ## Games Published (Sierra Archive)
 

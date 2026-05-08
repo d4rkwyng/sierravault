@@ -99,7 +99,7 @@ Modern retrospectives acknowledge the game's historical importance while noting 
 
 ### Origins
 
-In late 1982, IBM approached Sierra On-Line seeking software to showcase their upcoming PCjr home computer, codenamed "Peanut"[^ref-26]. IBM wanted a game that would demonstrate the machine's 16-color graphics and three-channel sound capabilities, specifically requesting something more dynamic and replayable than existing adventure games with "multiple puzzle solutions" and "many different paths"[^ref-3][^ref-1].
+In late 1982, IBM approached Sierra On-Line seeking software to showcase their upcoming PCjr home computer, codenamed "Peanut"[^ref-26]. IBM wanted a game that would demonstrate the machine's 16-color graphics and three-channel sound capabilities, specifically requesting something more dynamic and replayable than existing adventure games with "multiple puzzle solutions" and "many different paths"[^ref-1][^ref-3].
 
 Sierra co-founder Ken Williams pitched the concept during meetings at IBM's Boca Raton offices in Florida. According to historian Jimmy Maher, "the most important proposal, the biggest in the history of Sierra On-Line and one which would change adventure gaming forever, was made up on the fly, drawn up on the back of a napkin during a pause in the proceedings"[^ref-3].
 
@@ -130,7 +130,7 @@ The developers used the encryption key "Avis Durgan" to hide code—later reveal
 
 ### Platform History
 
-IBM discontinued the PCjr in March 1985, initially stunning Sierra[^ref-27]. The PCjr's poor reception and user-unfriendly "chiclet" keyboard had doomed the platform[^ref-18]. However, Sierra leveraged AGI's portability to quickly port the game to the Tandy 1000 (described as "what the IBM PCjr should have been"), standard IBM PCs, and Apple II, which revitalized sales[^ref-18][^ref-2].
+IBM discontinued the PCjr in March 1985, initially stunning Sierra[^ref-27]. The PCjr's poor reception and user-unfriendly "chiclet" keyboard had doomed the platform[^ref-18]. However, Sierra leveraged AGI's portability to quickly port the game to the Tandy 1000 (described as "what the IBM PCjr should have been"), standard IBM PCs, and Apple II, which revitalized sales[^ref-2][^ref-18].
 
 King's Quest ranked #50 in US computer game sales for 1984 with 13,000 units sold and $400,000 in revenue—representing only partial year sales after the May release[^ref-28].
 

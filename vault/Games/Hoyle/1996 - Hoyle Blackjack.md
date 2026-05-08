@@ -133,7 +133,7 @@ Voice acting featured:
 - **Natacha LaFerrière**: Supporting voice work (later versions)
 - **Cynthia Doyer**: Supporting voice work (later versions)
 - **Kate Myre**: Supporting voice work (later versions)
-- **James Parker**: Supporting voice work[^ref-11][^ref-6]
+- **James Parker**: Supporting voice work[^ref-6][^ref-11]
 
 The musical score was composed by Evan Schiller, Jonathan Cunningham, and Robert Atesalp[^ref-6], providing atmospheric casino ambiance that enhanced immersion.
 

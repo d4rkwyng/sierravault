@@ -118,7 +118,7 @@ Development was led by brothers Dariusz and Piotr Lukaszuk, who served as direct
 
 The development team created polygon models, improved graphics, CG cinemas, and CD audio specifically designed to demonstrate what the 3DO hardware could achieve.[^ref-2] The game features enhanced texture-mapped polygonal graphics combined with 2D sprites for specific objects, along with full CD sound and music including the fully narrated cutscenes voiced by Michael Dorn.[^ref-5]
 
-**Development Credits:**[^ref-5][^ref-2]
+**Development Credits:**[^ref-2][^ref-5]
 - **Producers:** Dariusz Lukaszuk, Piotr Lukaszuk
 - **Directors:** Dariusz Lukaszuk, Piotr Lukaszuk
 - **Lead Programmers:** Dariusz Lukaszuk, Piotr Lukaszuk
@@ -158,7 +158,7 @@ Voice direction details are not documented in available research, though the cas
 
 Stellar 7: Draxon's Revenge was released as part of the early wave of 3DO software, a period when the platform was attempting to establish itself against the Super Nintendo, Sega Genesis, Game Boy, and Game Gear.[^ref-9] The 3DO's high price point of $699 limited its market penetration, and Draxon's Revenge remained a niche title primarily known among 3DO enthusiasts.[^ref-9]
 
-The game was published in North America by Dynamix (a division of Sierra On-Line) and in Japan by T&E Soft, where it was released on March 26, 1994 under the title "Stellar 7: Draxon no Gyakushuu" (ステラ7 ドラクソンの逆襲).[^ref-13][^ref-8]
+The game was published in North America by Dynamix (a division of Sierra On-Line) and in Japan by T&E Soft, where it was released on March 26, 1994 under the title "Stellar 7: Draxon no Gyakushuu" (ステラ7 ドラクソンの逆襲).[^ref-8][^ref-13]
 
 ### Collections
 

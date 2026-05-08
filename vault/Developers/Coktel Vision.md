@@ -34,7 +34,7 @@ The Sierra years proved to be Coktel Vision's most productive and critically acc
 
 ### Later Years and Closure
 
-Following Sierra On-Line's acquisition by Vivendi Universal in 1996, Coktel Vision continued operations but faced increasing pressure to adapt to changing market conditions.[^ref-21][^ref-14] The late 1990s and early 2000s saw a decline in the adventure game market as action games and first-person shooters gained dominance. The studio attempted to adapt by focusing more heavily on educational games and children's software, including the Playtoons series and various Asterix-themed titles.[^ref-4][^ref-10]
+Following Sierra On-Line's acquisition by Vivendi Universal in 1996, Coktel Vision continued operations but faced increasing pressure to adapt to changing market conditions.[^ref-14][^ref-21] The late 1990s and early 2000s saw a decline in the adventure game market as action games and first-person shooters gained dominance. The studio attempted to adapt by focusing more heavily on educational games and children's software, including the Playtoons series and various Asterix-themed titles.[^ref-4][^ref-10]
 
 Despite their efforts to remain relevant, Coktel Vision struggled to maintain profitability in an increasingly competitive market that favored larger productions and different genres.[^ref-12][^ref-18] The studio officially closed its doors in 2005, marking the end of a twenty-year journey that had produced some of the most memorable and distinctive adventure games in gaming history.[^ref-5] Many former Coktel Vision developers went on to work for other French studios or founded their own companies, carrying forward the creative legacy of their unique approach to game design.[^ref-6]
 

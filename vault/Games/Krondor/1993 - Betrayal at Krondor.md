@@ -229,7 +229,7 @@ According to Raymond E. Feist himself: "Betrayal at Krondor won awards, sat atop
 
 ### Awards
 
-The game accumulated numerous accolades:[^ref-1][^ref-24][^ref-6]
+The game accumulated numerous accolades:[^ref-1][^ref-6][^ref-24]
 
 - **Computer Gaming World Role-Playing Game of the Year** (June 1994)
 - **Computer Gaming World Game of the Year** (1993)

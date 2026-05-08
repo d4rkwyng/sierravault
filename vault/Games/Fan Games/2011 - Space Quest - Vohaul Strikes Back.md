@@ -127,7 +127,7 @@ The technical approach combined multiple software tools and methodologies. 2D an
 
 The visual style intentionally echoed the pastel-painted backdrops and rich vivid colors of Space Quest 5 and 6, rendered at a higher resolution than any of the original series' titles.[^ref-11] The game mixed hand-painted backgrounds with Flash animation to create its distinctive aesthetic.[^ref-10]
 
-**Development Credits:**[^ref-15][^ref-10]
+**Development Credits:**[^ref-10][^ref-15]
 
 **Design:**
 - **Project Leads:** pcj, olzen (Frederik Olsen)

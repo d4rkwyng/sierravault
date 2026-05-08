@@ -164,7 +164,7 @@ No specific cut content has been documented for this budget release, as the game
 |--------------|-------------|------|-------|
 | 1.0 | SCI1.1 | SCI1.1 | Initial release, no save feature |
 
-Some sources list release dates ranging from 1992 to 1993, which may reflect different distribution phases or regional releases.[^ref-6][^ref-4]
+Some sources list release dates ranging from 1992 to 1993, which may reflect different distribution phases or regional releases.[^ref-4][^ref-6]
 
 ### Technical Issues
 

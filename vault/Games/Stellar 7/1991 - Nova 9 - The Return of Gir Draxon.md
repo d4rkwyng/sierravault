@@ -145,7 +145,7 @@ The development team included:
 - Christopher Stevens
 - Dale Cooper
 
-The music was considered one of the game's highlights, with the Roland/LAPC-1 soundtrack earning particular praise from players with compatible sound hardware[^ref-8][^ref-7].
+The music was considered one of the game's highlights, with the Roland/LAPC-1 soundtrack earning particular praise from players with compatible sound hardware[^ref-7][^ref-8].
 
 ### Technical Implementation
 

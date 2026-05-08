@@ -17,7 +17,7 @@ last_updated: "2026-02-02"
 
 ## Overview
 
-The Gabriel Knight series represents the pinnacle of Sierra On-Line's mature storytelling ambitions—Gothic horror adventures that proved computer games could be "no less literate, mature, well-informed, and thought-provoking than other media."[^ref-1] Created by [[Jane Jensen]] in 1993, the trilogy follows Gabriel Knight, a struggling New Orleans bookstore owner and horror novelist who discovers his birthright as a Schattenjäger (Shadow Hunter), a hereditary line of supernatural investigators.[^ref-2]
+The Gabriel Knight series represents the pinnacle of Sierra On-Line's mature storytelling ambitions—Gothic horror adventures that proved computer games could be "no less literate, mature, well-informed, and thought-provoking than other media."[^ref-1][^ref-8] Created by [[Jane Jensen]] in 1993, the trilogy follows Gabriel Knight, a struggling New Orleans bookstore owner and horror novelist who discovers his birthright as a Schattenjäger (Shadow Hunter), a hereditary line of supernatural investigators.[^ref-2]
 
 Distinguished by exceptional voice acting, meticulous research into real-world mythology, and sophisticated narrative themes, the Gabriel Knight series earned critical acclaim that established Jane Jensen as one of adventure gaming's preeminent designers.[^ref-3] The original Sins of the Fathers shared Computer Gaming World's 1994 Adventure Game of the Year with LucasArts' Day of the Tentacle—"possibly the single greatest double billing in gaming history."[^ref-4]
 

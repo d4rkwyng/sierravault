@@ -26,7 +26,7 @@ Professional Bull Rider is a sports simulation video game developed and publishe
 
 The game distinguished itself through its use of motion-captured riding sequences to create lifelike arcade play, combined with authentic running color commentary[^ref-7]. Professional Bull Rider was positioned as an offbeat but accessible entry in the sports gaming market, successfully balancing simulation authenticity with arcade-style action[^ref-4][^ref-8]. Sierra Sports made a significant commitment to the rodeo sports category with this title, becoming the first software company to sponsor cowboys in the Professional Bull Riders, Inc. 1999 Bud Light Cup Tour season[^ref-3].
 
-Released at a retail price of $19.95, Professional Bull Rider was designed to appeal to both fans of the sport and gamers seeking something different from traditional sports titles[^ref-3]. The game featured tutorial narration by bull-riding legends Ty Murray and Tuff Hedeman, with play-by-play commentary provided by official PBR announcer Justin McKee[^ref-4][^ref-7][^ref-1].
+Released at a retail price of $19.95, Professional Bull Rider was designed to appeal to both fans of the sport and gamers seeking something different from traditional sports titles[^ref-3]. The game featured tutorial narration by bull-riding legends Ty Murray and Tuff Hedeman, with play-by-play commentary provided by official PBR announcer Justin McKee[^ref-1][^ref-4][^ref-7].
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Inc.[^ref-1]
@@ -49,7 +49,7 @@ The entire bull riding run lasts only eight seconds, mirroring the real sport, w
 
 ### Structure and Progression
 
-The game offers multiple modes of play to accommodate different skill levels and preferences. Players can choose to compete as a cowboy attempting to achieve high scores by staying mounted for the full eight seconds, or they can take control of the bull with the objective of dislodging the rider as quickly as possible[^ref-6][^ref-5].
+The game offers multiple modes of play to accommodate different skill levels and preferences. Players can choose to compete as a cowboy attempting to achieve high scores by staying mounted for the full eight seconds, or they can take control of the bull with the objective of dislodging the rider as quickly as possible[^ref-5][^ref-6].
 
 The career mode allows players to progress through the PBR circuit, competing against the real riders and bulls featured in the game. A novel two-player mode enables head-to-head competition where Player One controls the cowboy while Player Two controls the bull, providing what PCMag UK described as "endless replay" value[^ref-9].
 
@@ -143,7 +143,7 @@ Modern compatibility issues have been reported, with some users noting the game 
 ### Easter Eggs and Trivia
 
 - The game featured real PBR riders and bulls from the 1999 circuit, providing authentic roster representation[^ref-4][^ref-7]
-- Players could control either the cowboy or the bull, a dual-perspective approach that was unusual for sports games of the era[^ref-6][^ref-5]
+- Players could control either the cowboy or the bull, a dual-perspective approach that was unusual for sports games of the era[^ref-5][^ref-6]
 - Sierra Sports' sponsorship of the PBR tour marked the first time a software company had sponsored professional bull riders[^ref-3]
 - The entire riding event lasts only eight seconds, faithfully recreating the real sport's timeframe[^ref-6]
 

@@ -147,7 +147,7 @@ The game has been reported to have some compatibility challenges with modern sys
 
 ### Collections
 
-The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specific compilation releases have not been documented in available sources. The title has been preserved through abandonware channels and retro gaming distribution services[^ref-12][^ref-7].
+The game was part of Sierra's broader 3-D Ultra Pinball franchise, though specific compilation releases have not been documented in available sources. The title has been preserved through abandonware channels and retro gaming distribution services[^ref-7][^ref-12].
 
 ### Critical Perspective
 

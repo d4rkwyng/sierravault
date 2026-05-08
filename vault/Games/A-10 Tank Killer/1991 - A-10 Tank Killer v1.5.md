@@ -25,7 +25,7 @@ tags: [1990s, a-10-tank-killer-series, sierra, simulation]
 
 A-10 Tank Killer is a combat flight simulation that puts players in the cockpit of the A-10 Thunderbolt II, also known as the "Warthog"[^ref-1][^ref-2]. Developed by Dynamix and released in 1989 for DOS and 1990 for Amiga[^ref-3], this simulation was designed to be "as realistic as possible without bogging the game down with complicated controls"[^ref-4]. The game focuses on close air support missions, primarily hunting enemy tanks but also destroying roads and bridges[^ref-5].
 
-The original release was enhanced in 1991 with version 1.5, which added seven new scenarios set during Operation Desert Storm in Iraq, along with improved graphics and sounds[^ref-6][^ref-4]. This timing proved fortuitous, as the game benefited from the Persian Gulf War's prominence in the news[^ref-7]. Following Dynamix's acquisition by Sierra On-Line in August 1990[^ref-8], the updated version incorporated the flight model from their successful Red Baron simulator[^ref-9].[^ref-3]
+The original release was enhanced in 1991 with version 1.5, which added seven new scenarios set during Operation Desert Storm in Iraq, along with improved graphics and sounds[^ref-4][^ref-6]. This timing proved fortuitous, as the game benefited from the Persian Gulf War's prominence in the news[^ref-7]. Following Dynamix's acquisition by Sierra On-Line in August 1990[^ref-8], the updated version incorporated the flight model from their successful Red Baron simulator[^ref-9].[^ref-3]
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-1]

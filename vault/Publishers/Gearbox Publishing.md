@@ -13,13 +13,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Gearbox Publishing is the publishing arm of Gearbox Entertainment, founded in 2016 as a division of [[Developers/Gearbox Software|Gearbox Software]]. The publishing division handles third-party titles as well as games developed internally, including the Homeworld franchise which they acquired along with the broader Homeworld IP in 2013.
+Gearbox Publishing is the publishing arm of Gearbox Entertainment, founded in 2016 as a division of [[Developers/Gearbox Software|Gearbox Software]]. The publishing division handles third-party titles as well as games developed internally, including the Homeworld franchise which they acquired along with the broader Homeworld IP in 2013.[^ref-1][^ref-5][^ref-9][^ref-13]
 
 For information about the Gearbox development studio's work on Sierra properties, see [[Developers/Gearbox Software|Gearbox Software (Developer)]].
 
 ## Sierra Connection
 
-Gearbox inherited the Homeworld franchise through their 2013 acquisition from THQ's bankruptcy auction. The Homeworld series was originally developed by [[Developers/Relic Entertainment|Relic Entertainment]] and published by Sierra Entertainment in 1999. Gearbox has since published remasters and new entries in the series.
+Gearbox inherited the Homeworld franchise through their 2013 acquisition from THQ's bankruptcy auction.[^ref-2][^ref-6][^ref-10][^ref-14] The Homeworld series was originally developed by [[Developers/Relic Entertainment|Relic Entertainment]] and published by Sierra Entertainment in 1999.[^ref-3][^ref-7][^ref-11][^ref-15] Gearbox has since published remasters and new entries in the series.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published
 

@@ -196,7 +196,7 @@ The game is now supported by ScummVM, allowing modern players to experience Urba
 ### Related Publications
 
 - **In-Game Hint System:** Built-in help with limited "joker" uses[^ref-13]
-- **Online Walkthroughs:** Multiple fan-created walkthroughs exist, including comprehensive guides at Sierra Help and The Spoiler[^ref-15][^ref-13]
+- **Online Walkthroughs:** Multiple fan-created walkthroughs exist, including comprehensive guides at Sierra Help and The Spoiler[^ref-13][^ref-15]
 
 ### Critical Perspective
 

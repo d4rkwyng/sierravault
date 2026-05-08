@@ -165,7 +165,7 @@ An Xbox version of Hoyle Majestic Chess was announced in April 2003 and appeared
 
 | Version | Date | Platform | Region | Publisher | Notes |
 |---------|------|----------|--------|-----------|-------|
-| 1.0 | August 7-15, 2003 | Windows | NA | Sierra Entertainment | Initial release[^ref-4][^ref-1] |
+| 1.0 | August 7-15, 2003 | Windows | NA | Sierra Entertainment | Initial release[^ref-1][^ref-4] |
 | EU | February 25, 2005 | Windows | EU | JoWooD Productions | Released as "Majestic Chess"[^ref-2] |
 | Reissue | Unknown | Windows | NA | ValuSoft/THQ | Multiplayer removed, jewel case packaging[^ref-5] |
 

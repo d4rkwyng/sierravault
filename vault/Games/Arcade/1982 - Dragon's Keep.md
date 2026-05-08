@@ -187,7 +187,7 @@ Dragon's Keep was originally published independently by Sunnyside Soft before be
 
 ### Fan Projects
 
-The game has been preserved through various retro gaming archives and emulation efforts. Internet Archive hosts multiple versions of the game including Apple II and Atari 8-bit versions with different crack attributions[^ref-6][^ref-2]. A 4am crack of the Apple II version, designated crack number 986, was archived in January 2017[^ref-6].
+The game has been preserved through various retro gaming archives and emulation efforts. Internet Archive hosts multiple versions of the game including Apple II and Atari 8-bit versions with different crack attributions[^ref-2][^ref-6]. A 4am crack of the Apple II version, designated crack number 986, was archived in January 2017[^ref-6].
 
 ### Related Publications
 

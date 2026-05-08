@@ -21,18 +21,18 @@ tags: [2000s, half-life, shooter, sierra]
 
 ## Overview
 
-Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-93][^ref-2] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
+Deathmatch Classic (often abbreviated as DMC) is a multiplayer first-person shooter developed by [[Valve Corporation]] and released on June 7, 2001.[^ref-1][^ref-2][^ref-93] Conceived as a tribute to id Software, the game recreates the multiplayer component of Quake using the GoldSrc engine that powered Half-Life.[^ref-3][^ref-4] The project took roughly three months to develop and was originally released as a free mod for Half-Life owners before becoming available as a standalone title on Steam.[^ref-3][^ref-5]
 
 The game invites players to grab their rocket launchers and put their reflexes to the test in a collection of futuristic settings, combining the fast-paced arena shooter gameplay of Quake and Quake II with the enhanced graphics capabilities of the GoldSrc engine.[^ref-2][^ref-6] This included shinier textures, enhanced models, and improved lighting compared to the original Quake.[^ref-4] Interestingly, the GoldSrc engine itself was built upon the Quake 1 engine, making this tribute particularly fitting.[^ref-5]
 
-Despite its historical significance as an early example of Valve's community-focused approach to game development, Deathmatch Classic has received mixed reviews over the years. While the game earned an 82% positive rating on Steam from over 1,200 reviews,[^ref-7][^ref-3] retrospective analysis has noted that the game "doesn't feel quite right" due to engine differences affecting character movement and lighting.[^ref-5] Today, the game's multiplayer servers are largely inactive, with most populated servers filled with bots rather than human players.[^ref-4][^ref-8]
+Despite its historical significance as an early example of Valve's community-focused approach to game development, Deathmatch Classic has received mixed reviews over the years. While the game earned an 82% positive rating on Steam from over 1,200 reviews,[^ref-3][^ref-7] retrospective analysis has noted that the game "doesn't feel quite right" due to engine differences affecting character movement and lighting.[^ref-5] Today, the game's multiplayer servers are largely inactive, with most populated servers filled with bots rather than human players.[^ref-4][^ref-8]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
 > **Designer:** Unknown
 > **Publisher:** Valve Corporation, Sierra Entertainment, Inc.[^ref-2]
-> **Engine:** GoldSrc[^ref-3][^ref-2]
-> **Platforms:** Windows, macOS, Linux[^ref-7][^ref-1]
+> **Engine:** GoldSrc[^ref-2][^ref-3]
+> **Platforms:** Windows, macOS, Linux[^ref-1][^ref-7]
 > **Release Year:** 2001
 > **Series:** Half-Life
 > **Protagonist:** Player Character (Gordon, Gina, or Scientist models)
@@ -83,7 +83,7 @@ Contemporary reception for Deathmatch Classic was generally positive, with GameS
 
 Modern assessments have been more mixed, with many reviewers noting the game's declining player population and technical issues. Rock Paper Shotgun's retrospective stated bluntly: "Interestingly, it's not very good," citing the engine differences that make the gameplay feel slightly off compared to the original Quake.[^ref-5] The publication also noted that "Steam reviews suggest there is maybe only one lost soul still playing it."[^ref-5]
 
-User reviews on Metacritic describe the game as "one of the fairest shooters out there" while acknowledging its simplicity: "Deathmatch Classic is as simple as it gets. Start it up, connect and go shoot people."[^ref-4] However, by 2020-2022, reviewers consistently reported that the game is "completely dead" with "no players" and servers "just full of bots."[^ref-8][^ref-4]
+User reviews on Metacritic describe the game as "one of the fairest shooters out there" while acknowledging its simplicity: "Deathmatch Classic is as simple as it gets. Start it up, connect and go shoot people."[^ref-4] However, by 2020-2022, reviewers consistently reported that the game is "completely dead" with "no players" and servers "just full of bots."[^ref-4][^ref-8]
 
 **Aggregate Scores:**
 - **Steam:** 82% positive (1,253 reviews)[^ref-7]
@@ -112,7 +112,7 @@ The development team made deliberate choices to differentiate DMC from standard 
 
 ### Technical Achievements
 
-Deathmatch Classic demonstrated the versatility of the GoldSrc engine by recreating Quake's gameplay within its framework. The game featured enhanced graphics compared to the original Quake, including:[^ref-4][^ref-2]
+Deathmatch Classic demonstrated the versatility of the GoldSrc engine by recreating Quake's gameplay within its framework. The game featured enhanced graphics compared to the original Quake, including:[^ref-2][^ref-4]
 
 - Shinier, higher-resolution textures
 - Enhanced character models
@@ -158,7 +158,7 @@ The game utilized both Direct3D 7 and OpenGL 2.1 rendering APIs, providing compa
 | 1.0 | June 7, 2001 | Windows | Initial release on Steam[^ref-1][^ref-2] |
 | 1.1.0.7 patch | July 11, 2001 | Windows | Included with Half-Life patch[^ref-3] |
 | 1.0.0.2 | Unknown | Windows | Embedded in Half-Life: Counter-Strike patch[^ref-2] |
-| Steam re-release | September 12, 2003 | Windows | Standalone Steam release[^ref-13][^ref-9] |
+| Steam re-release | September 12, 2003 | Windows | Standalone Steam release[^ref-9][^ref-13] |
 | macOS port | March 30, 2013 | macOS | Initial Mac release[^ref-10] |
 | Linux port | March 30, 2013 | Linux | Initial Linux release[^ref-10] |
 
@@ -178,7 +178,7 @@ Deathmatch Classic has experienced various technical problems across its lifespa
 - Windows 7/Vista performance problems requiring fixes
 - Broken mouselook on Windows 10 Creators Update
 
-**Network Issues:**[^ref-8][^ref-4]
+**Network Issues:**[^ref-4][^ref-8]
 - Shots going straight through opponents due to hit registration problems
 - Servers with extremely high ping making gameplay unplayable
 - Mouse control issues causing "wall magnetism"

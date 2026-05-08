@@ -48,7 +48,7 @@ The second half of the game would then transition to the familiar protagonist fr
 
 ### Interface and Controls
 
-The Manhunter series was revolutionary in its approach to adventure game interface design, and Manhunter 3: London was expected to continue these innovations.[^ref-5][^ref-2] The first two games in the series used Sierra's Adventure Game Interpreter (AGI) development tool but diverged significantly from other AGI games by not using a text parser.[^ref-5][^ref-4] Instead, the games featured a rudimentary point-and-click interface that foreshadowed later games like Myst.[^ref-5]
+The Manhunter series was revolutionary in its approach to adventure game interface design, and Manhunter 3: London was expected to continue these innovations.[^ref-2][^ref-5] The first two games in the series used Sierra's Adventure Game Interpreter (AGI) development tool but diverged significantly from other AGI games by not using a text parser.[^ref-4][^ref-5] Instead, the games featured a rudimentary point-and-click interface that foreshadowed later games like Myst.[^ref-5]
 
 The series was notable for incorporating a first-person perspective rather than the third-person view common in other Sierra adventures.[^ref-5] This perspective, combined with the game's unique interface, created a more immersive experience that drew players directly into the post-apocalyptic world ruled by the Orbs.[^ref-5] The Manhunter games featured no live dialogues; much of the gameplay revolved around tracking individuals with the MAD (Manhunter Assignment Device) to unlock new places and addresses.[^ref-5]
 

@@ -50,7 +50,7 @@ The narrative unfolds with Robin solving everyday problems while working toward 
 
 ### Interface and Controls
 
-*Conquests of the Longbow* uses Sierra's standard icon-driven point-and-click interface first introduced in *King's Quest V*, featuring an icon-based system common to most contemporary Sierra adventures.[^ref-5][^ref-1] This represented a significant upgrade from the text parser used in *Conquests of Camelot*, as the newer SCI1 engine provided 256-color VGA graphics compared to the earlier game's SCI0 engine.[^ref-9] The game supports multiple input devices including keyboard, mouse, and analog joystick.[^ref-13]
+*Conquests of the Longbow* uses Sierra's standard icon-driven point-and-click interface first introduced in *King's Quest V*, featuring an icon-based system common to most contemporary Sierra adventures.[^ref-1][^ref-5] This represented a significant upgrade from the text parser used in *Conquests of Camelot*, as the newer SCI1 engine provided 256-color VGA graphics compared to the earlier game's SCI0 engine.[^ref-9] The game supports multiple input devices including keyboard, mouse, and analog joystick.[^ref-13]
 
 ### Structure and Progression
 
@@ -196,7 +196,7 @@ The Amiga version suffered from severe performance issues. Reviewer Steve Wilkin
 
 ### Easter Eggs and Trivia
 
-The game contains numerous references to other Sierra titles and in-jokes:[^ref-12][^ref-4][^ref-11]
+The game contains numerous references to other Sierra titles and in-jokes:[^ref-4][^ref-11][^ref-12]
 
 - **Sierra staff at the fair:** Try talking to everyone at the Nottingham Fair and you will find several Sierra programmers and employees, including the Two Guys from Andromeda (creators of *Space Quest*)
 - **Political figures:** George Bush and Dan Quayle appear as NPCs at the fair

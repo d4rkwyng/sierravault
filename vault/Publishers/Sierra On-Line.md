@@ -13,7 +13,7 @@ last_updated: "2026-01-19"
 
 ## Overview
 
-Sierra On-Line (originally On-Line Systems, later Sierra Entertainment) was the flagship American video game publisher founded in 1979 by [[Designers/Ken Williams|Ken Williams]] and [[Designers/Roberta Williams|Roberta Williams]]. The company pioneered the graphic adventure game genre and published some of the most influential games in PC gaming history, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.
+Sierra On-Line (originally On-Line Systems, later Sierra Entertainment) was the flagship American video game publisher founded in 1979 by [[Designers/Ken Williams|Ken Williams]] and [[Designers/Roberta Williams|Roberta Williams]]. The company pioneered the graphic adventure game genre and published some of the most influential games in PC gaming history, including the King's Quest, Space Quest, Police Quest, Leisure Suit Larry, and Quest for Glory series.[^ref-1]
 
 ## Corporate History
 
@@ -51,7 +51,7 @@ Sierra acquired and published games from numerous development studios:
 
 ## Games Published
 
-This section lists all games published under Sierra On-Line and its subsidiaries. Games with dedicated pages in this archive are linked; others are listed for completeness.
+This section lists all games published under Sierra On-Line and its subsidiaries.[^ref-2] Games with dedicated pages in this archive are linked; others are listed for completeness.[^ref-3]
 
 ### On-Line Systems Era (1980-1982)
 
@@ -95,7 +95,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 #### Adventures & Licensed Games
 - **1983** — [[1983 - Hi-Res Adventure 6 - The Dark Crystal|The Dark Crystal]] — Notes: Licensed from Jim Henson
 - **1983** — [[1983 - Troll's Tale|Troll's Tale]] — Notes: Children's adventure
-- **1983** — [[1983 - Ultima - Escape from Mt. Drash|Ultima: Escape from Mt. Drash]] — Notes: VIC-20 spinoff
+- **1983** — [[1983 - Ultima - Escape from Mt. Drash|Ultima: Escape from Mt. Drash]] — Notes: VIC-20 spinoff[^ref-4][^ref-5]
 - **1984** — [[1984 - King's Quest - Quest for the Crown|King's Quest: Quest for the Crown]] — Notes: First AGI game
 - **1984** — [[1984 - Mickey's Space Adventure|Mickey's Space Adventure]] — Notes: Disney license
 - **1984** — [[1984 - Winnie the Pooh in the Hundred Acre Wood|Winnie the Pooh]] — Notes: Disney license
@@ -105,7 +105,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 #### Arcade Games
 - **1983** — [[1983 - BC's Quest for Tires|B.C.'s Quest for Tires]] — Notes: Licensed comic strip
 - **1983** — [[1983 - Apple Cider Spider|Apple Cider Spider]] — Notes: Ivan Strand
-- **1983** — [[1983 - Mr. Cool|Mr. Cool]] — Notes: Q*bert style
+- **1983** — [[1983 - Mr. Cool|Mr. Cool]] — Notes: Q*bert style[^ref-6][^ref-7]
 - **1983** — [[1983 - Oils Well|Oil's Well]] — Notes: Arcade puzzle
 - **1983** — [[1983 - Sammy Lightfoot|Sammy Lightfoot]] — Notes: Platformer
 - **1983** — [[1983 - Mine Shaft|Mine Shaft]] — Notes: Action
@@ -219,7 +219,7 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **1996** — [[1996 - Silent Thunder - A-10 Tank Killer II|Silent Thunder]] — Notes: A-10 sequel
 - **1997** — [[1997 - Red Baron II|Red Baron II]] — Notes: WWI sequel
 - **1998** — [[1998 - Red Baron 3D|Red Baron 3D]] — Notes: 3D accelerated
-- **1999** — [[1999 - Curse You! Red Baron|Curse You! Red Baron]] — Notes: Arcade spin-off
+- **1999** — [[1999 - Curse You! Red Baron|Curse You! Red Baron]] — Notes: Arcade spin-off[^ref-8][^ref-9]
 
 #### Dynamix Mech & Strategy
 - **1994** — [[1994 - Metaltech - Earthsiege|Metaltech: Earthsiege]] — Notes: Mech combat
@@ -245,10 +245,10 @@ This section lists all games published under Sierra On-Line and its subsidiaries
 - **2000** — [[2000 - Return of The Incredible Machine - Contraptions|Return of TIM]] — Notes: Revival
 - **2001** — [[2001 - The Incredible Machine - Even More Contraptions|Even More Contraptions]] — Notes: Add-on
 
-#### Dr. Brain Series
-- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Notes: Educational puzzle
-- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Notes: Sequel
-- **1995** — [[1995 - The Lost Mind of Dr. Brain|The Lost Mind of Dr. Brain]] — Notes: Third entry
+#### Dr.[^ref-10] Brain Series
+- **1991** — [[1991 - Castle of Dr. Brain|Castle of Dr. Brain]] — Notes: Educational puzzle[^ref-11][^ref-12]
+- **1992** — [[1992 - The Island of Dr. Brain|The Island of Dr. Brain]] — Notes: Sequel[^ref-13][^ref-14]
+- **1995** — [[1995 - The Lost Mind of Dr. Brain|The Lost Mind of Dr. Brain]] — Notes: Third entry[^ref-15]
 - **1996** — [[1996 - The Time Warp of Dr. Brain|The Time Warp of Dr. Brain]] — Notes: Fourth entry
 - **1998** — [[1998 - Dr. Brain Thinking Games - IQ Adventure|Dr. Brain: IQ Adventure]] — Notes: Children's
 - **1998** — [[1998 - Dr. Brain Thinking Games - Puzzle Madness|Dr. Brain: Puzzle Madness]] — Notes: Children's

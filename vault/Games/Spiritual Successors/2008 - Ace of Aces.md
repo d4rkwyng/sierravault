@@ -80,9 +80,9 @@ The primary focus of Ace of Aces was competitive multiplayer, featuring five dis
 
 ### Technical Implementation
 
-Ace of Aces ran through the InstantAction platform's browser plugin, a compact 150KB download that enabled console-quality 3D graphics directly in web browsers[^ref-15][^ref-11]. The underlying technology utilized the Torque Game Engine, developed by GarageGames—a company founded by other Dynamix veterans including Mark Frohnmayer and Jeff Tunnell[^ref-13][^ref-11].
+Ace of Aces ran through the InstantAction platform's browser plugin, a compact 150KB download that enabled console-quality 3D graphics directly in web browsers[^ref-11][^ref-15]. The underlying technology utilized the Torque Game Engine, developed by GarageGames—a company founded by other Dynamix veterans including Mark Frohnmayer and Jeff Tunnell[^ref-11][^ref-13].
 
-The InstantAction platform was designed to deliver "core-oriented mechanics and high-end visuals" through streaming technology that broke game downloads into small chunks, allowing players to begin playing before the full game was downloaded[^ref-13][^ref-11].
+The InstantAction platform was designed to deliver "core-oriented mechanics and high-end visuals" through streaming technology that broke game downloads into small chunks, allowing players to begin playing before the full game was downloaded[^ref-11][^ref-13].
 
 ## Development
 
@@ -98,9 +98,9 @@ Slye founded Mad Otter Games in 2007, assembling a team of talented developers, 
 
 ### The InstantAction Platform
 
-InstantAction emerged from GarageGames, which was founded in 2000 by Dynamix veterans after Sierra shut down the studio in 2001[^ref-13][^ref-11][^ref-25]. The company had licensed the source code to the Tribes 2 game engine from Sierra and developed it into the commercially successful Torque Game Engine[^ref-11][^ref-25].
+InstantAction emerged from GarageGames, which was founded in 2000 by Dynamix veterans after Sierra shut down the studio in 2001[^ref-11][^ref-13][^ref-25]. The company had licensed the source code to the Tribes 2 game engine from Sierra and developed it into the commercially successful Torque Game Engine[^ref-11][^ref-25].
 
-In September 2007, media mogul Barry Diller's IAC (InterActiveCorp) acquired GarageGames and announced the creation of InstantAction.com[^ref-13][^ref-11]. The platform's goal was to deliver graphically impressive multiplayer action games directly through web browsers—a revolutionary concept at the time[^ref-15][^ref-11].
+In September 2007, media mogul Barry Diller's IAC (InterActiveCorp) acquired GarageGames and announced the creation of InstantAction.com[^ref-11][^ref-13]. The platform's goal was to deliver graphically impressive multiplayer action games directly through web browsers—a revolutionary concept at the time[^ref-11][^ref-15].
 
 "We've been looking at the video game sector for years and it wasn't until we found GarageGames and their idea for InstantAction.com that we believed IAC could participate in a true internet innovation in online gaming," said Barry Diller at the announcement[^ref-11].
 
@@ -120,7 +120,7 @@ However, the game itself was never re-released. The website hasn't been updated 
 
 ### Technical Achievements
 
-Ace of Aces ran through a compact 150KB browser plugin that delivered real-time 3D multiplayer gameplay directly in web browsers[^ref-15][^ref-11], a significant technical feat for 2008. The game was built on the Torque Game Engine — a commercially available engine GarageGames had developed from the source code of Sierra's *Tribes 2*[^ref-11]. The InstantAction platform's streaming technology allowed players to begin playing before the full game had downloaded[^ref-13][^ref-11], demonstrating early cloud-gaming principles years before streaming platforms became mainstream.
+Ace of Aces ran through a compact 150KB browser plugin that delivered real-time 3D multiplayer gameplay directly in web browsers[^ref-11][^ref-15], a significant technical feat for 2008. The game was built on the Torque Game Engine — a commercially available engine GarageGames had developed from the source code of Sierra's *Tribes 2*[^ref-11]. The InstantAction platform's streaming technology allowed players to begin playing before the full game had downloaded[^ref-11][^ref-13], demonstrating early cloud-gaming principles years before streaming platforms became mainstream.
 
 ## Reception
 
@@ -156,7 +156,7 @@ Ace of Aces represents a direct line of succession from Sierra On-Line's Dynamix
 
 The connections run deep:
 - **Mad Otter Games** was founded by Dynamix co-founder Damon Slye[^ref-1]
-- **InstantAction/GarageGames** was founded by other Dynamix veterans including Jeff Tunnell and Mark Frohnmayer[^ref-13][^ref-11]
+- **InstantAction/GarageGames** was founded by other Dynamix veterans including Jeff Tunnell and Mark Frohnmayer[^ref-11][^ref-13]
 - The **Torque Game Engine** powering Ace of Aces descended from Dynamix's Tribes 2 engine[^ref-11]
 - The game was created in **Eugene, Oregon**, the same city that housed Dynamix for 17 years[^ref-2]
 
@@ -165,7 +165,7 @@ The connections run deep:
 - **Platform:** Web browser (requires InstantAction plugin)[^ref-2]
 - **Engine:** Torque Game Engine[^ref-13]
 - **Plugin Size:** ~150KB initial download[^ref-15]
-- **Graphics:** 3D, near-console quality for its era[^ref-15][^ref-11]
+- **Graphics:** 3D, near-console quality for its era[^ref-11][^ref-15]
 - **Multiplayer:** Yes, team-based and free-for-all modes[^ref-2]
 - **Current Status:** Unavailable (platform defunct since November 2010)[^ref-11]
 

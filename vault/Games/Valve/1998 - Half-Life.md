@@ -209,7 +209,7 @@ Known bugs and exploits included:
 - Teleporting NPCs
 - Ladder bounce control issues
 - Fall push vector boosts
-- Platform jumping graphics engine issues[^ref-33][^ref-12]
+- Platform jumping graphics engine issues[^ref-12][^ref-33]
 
 The macOS version does not function on macOS Catalina (10.15) or later due to Apple's removal of 32-bit application support[^ref-47].
 

@@ -21,7 +21,7 @@ tags: [1980s, shooter, sierra, standalone]
 
 ## Overview
 
-Sabotage is a fixed shooter arcade game developed by Mark Allen and published by On-Line Systems in 1981 for the Apple II computer.[^ref-1][^ref-14][^ref-2][^ref-3] In an era when the majority of action titles released for home computers either were inspired by or directly copied popular video arcade games, Sabotage stood apart as a genuinely original concept.[^ref-4] The game places players in command of a gun turret tasked with defending against waves of helicopters, jets, and paratroopers attempting to overwhelm their position.[^ref-3]
+Sabotage is a fixed shooter arcade game developed by Mark Allen and published by On-Line Systems in 1981 for the Apple II computer.[^ref-1][^ref-2][^ref-3][^ref-14] In an era when the majority of action titles released for home computers either were inspired by or directly copied popular video arcade games, Sabotage stood apart as a genuinely original concept.[^ref-4] The game places players in command of a gun turret tasked with defending against waves of helicopters, jets, and paratroopers attempting to overwhelm their position.[^ref-3]
 
 The game was notable for its innovative scoring system that penalized wasteful shooting—one point is subtracted every time a shell is fired, discouraging the "spray & pray" gaming style common in arcade shooters of the period.[^ref-1][^ref-5] This design decision encouraged skillful, deliberate aiming rather than random firing. Sabotage achieved considerable success, ranking 16th in the Softtalk Reader's Poll Top-Thirty in 1981.[^ref-4] The game was vastly pirated and became one of the most-played Apple II games of 1981, spawning numerous clones across multiple platforms including the well-known PC title Paratrooper.[^ref-4][^ref-5][^ref-11][^ref-12][^ref-13]
 
@@ -65,7 +65,7 @@ The game continues indefinitely until one of several loss conditions is met. The
 
 ### Puzzles and Mechanics
 
-The core gameplay mechanic revolves around the unique scoring system. Points are awarded for destroying enemies: helicopters and jets are worth 5 points each, paratroopers are worth 2 points, and bombs are worth 25 points.[^ref-5] However, firing a shell costs the player one point, creating a risk-reward calculation for every shot.[^ref-1][^ref-5][^ref-4] With paratroopers only worth two points, even perfect accuracy yields only one net point per paratrooper eliminated.[^ref-7] The score counter never drops below zero, preventing negative scores.[^ref-5]
+The core gameplay mechanic revolves around the unique scoring system. Points are awarded for destroying enemies: helicopters and jets are worth 5 points each, paratroopers are worth 2 points, and bombs are worth 25 points.[^ref-5] However, firing a shell costs the player one point, creating a risk-reward calculation for every shot.[^ref-1][^ref-4][^ref-5] With paratroopers only worth two points, even perfect accuracy yields only one net point per paratrooper eliminated.[^ref-7] The score counter never drops below zero, preventing negative scores.[^ref-5]
 
 **Game Over Conditions:**[^ref-5]
 - The turret is hit directly by a falling bomb
@@ -103,7 +103,7 @@ The game represented On-Line Systems' commitment to bringing quality arcade-styl
 
 ### Production
 
-Sabotage was written entirely in machine language to achieve smooth performance on the 1 MHz Apple II processor.[^ref-6][^ref-4] The game was released in the summer of 1981, with MobyGames citing a specific release date of October 1, 1981.[^ref-2][^ref-4] The Player Missile Podcast places the initial release as March 1981.[^ref-10]
+Sabotage was written entirely in machine language to achieve smooth performance on the 1 MHz Apple II processor.[^ref-4][^ref-6] The game was released in the summer of 1981, with MobyGames citing a specific release date of October 1, 1981.[^ref-2][^ref-4] The Player Missile Podcast places the initial release as March 1981.[^ref-10]
 
 **Development Credits:**[^ref-1][^ref-2][^ref-3]
 - **Designer/Programmer:** Mark Allen

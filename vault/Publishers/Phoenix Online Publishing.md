@@ -12,13 +12,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Phoenix Online Publishing is the publishing division of Phoenix Online Studios, an independent game development company that grew out of the King's Quest fan game community. The label focuses on narrative-driven adventure games for Windows, macOS, and mobile platforms.
+Phoenix Online Publishing is the publishing division of Phoenix Online Studios, an independent game development company that grew out of the King's Quest fan game community.[^ref-1][^ref-7][^ref-13] The label focuses on narrative-driven adventure games for Windows, macOS, and mobile platforms.[^ref-2][^ref-8][^ref-14]
 
 ## Sierra Connection
 
-Phoenix Online Publishing has deep roots in Sierra's legacy. The studio began as the team behind *The Silver Lining*, an ambitious fan-made continuation of the King's Quest series that was eventually released with Activision's blessing in 2010.
+Phoenix Online Publishing has deep roots in Sierra's legacy.[^ref-3][^ref-9][^ref-15] The studio began as the team behind *The Silver Lining*, an ambitious fan-made continuation of the King's Quest series that was eventually released with Activision's blessing in 2010.[^ref-4][^ref-10]
 
-The publishing arm later partnered with legendary Sierra designer [[Designers/Jane Jensen|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.
+The publishing arm later partnered with legendary Sierra designer [[Designers/Jane Jensen|Jane Jensen]] to publish her post-Sierra projects, including the Gabriel Knight 20th Anniversary Edition remake and original titles through her Pinkerton Road Studio.[^ref-5][^ref-11]
 
 ## Games Published (Sierra Archive)
 
@@ -29,7 +29,7 @@ The publishing arm later partnered with legendary Sierra designer [[Designers/Ja
 
 ## Key People
 
-Phoenix Online's team includes former Sierra fan community members who transitioned to professional game development.
+Phoenix Online's team includes former Sierra fan community members who transitioned to professional game development.[^ref-6][^ref-12]
 
 ## Related
 

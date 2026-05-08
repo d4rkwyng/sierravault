@@ -112,7 +112,7 @@ The 1992 remake showcased significant technical improvements, featuring 256-colo
 ## Trivia
 
 - Designer [[Jim Walls]] was a retired California Highway Patrol officer who joined Sierra after a traumatic shooting incident forced him onto administrative leave[^ref-15]
-- The game was actually used as a training tool by real police departments, including the Allegan City Police Department in Michigan[^ref-42][^ref-19]
+- The game was actually used as a training tool by real police departments, including the Allegan City Police Department in Michigan[^ref-19][^ref-42]
 - Police Quest was one of Sierra's first DOS releases without copy protection, serving "as a test for future Sierra releases"[^ref-12]
 - Many incidents in the game are based on real situations Jim Walls encountered during his 15-year law enforcement career[^ref-42]
 - In [[1988 - Police Quest II - The Vengeance|Police Quest II]], Larry Laffer from [[Leisure Suit Larry Series|Leisure Suit Larry]] makes a cameo appearance at the Lytton Airport[^ref-27]

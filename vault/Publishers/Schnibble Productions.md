@@ -12,13 +12,13 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Schnibble Productions is a French video game company responsible for continuing the Gobliiins series created by [[Designers/Pierre Gilhodes|Pierre Gilhodes]] at [[Developers/Coktel Vision|Coktel Vision]]. The company has developed and published modern entries in the classic puzzle-adventure franchise.
+Schnibble Productions is a French video game company responsible for continuing the Gobliiins series created by [[Designers/Pierre Gilhodes|Pierre Gilhodes]] at [[Developers/Coktel Vision|Coktel Vision]]. The company has developed and published modern entries in the classic puzzle-adventure franchise.[^ref-1][^ref-5][^ref-9][^ref-13]
 
 ## Sierra Connection
 
-Schnibble Productions continues the legacy of the Gobliiins series, which was originally created by [[Developers/Coktel Vision|Coktel Vision]] and published by Sierra On-Line during the 1990s. The original four Gobliiins games (1991-1996) were developed at Coktel Vision under Sierra's ownership.
+Schnibble Productions continues the legacy of the Gobliiins series, which was originally created by [[Developers/Coktel Vision|Coktel Vision]] and published by Sierra On-Line during the 1990s.[^ref-2][^ref-6][^ref-10][^ref-14] The original four Gobliiins games (1991-1996) were developed at Coktel Vision under Sierra's ownership.[^ref-3][^ref-7][^ref-11][^ref-15]
 
-The company name "Schnibble" references *The Bizarre Adventures of Woodruff and the Schnibble of Azimuth* (1995), another Coktel Vision adventure game published by Sierra, demonstrating the connection to Coktel's creative legacy.
+The company name "Schnibble" references *The Bizarre Adventures of Woodruff and the Schnibble of Azimuth* (1995), another Coktel Vision adventure game published by Sierra, demonstrating the connection to Coktel's creative legacy.[^ref-4][^ref-8][^ref-12]
 
 ## Games Published (Sierra Archive)
 

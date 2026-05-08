@@ -7,11 +7,11 @@ last_updated: "2026-01-31"
 
 <small style="color: gray">Last updated: January 31, 2026</small>
 
-A comprehensive guide to running Sierra's classic games on modern computers, consoles, and handhelds. Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing.
+A comprehensive guide to running Sierra's classic games on modern computers, consoles, and handhelds.[^ref-1] Whether you're revisiting childhood favorites or discovering these adventures for the first time, this guide will get you playing.[^ref-7]
 
 ---
 
-## Quick Start: Which Method Should I Use?
+## Quick Start: Which Method Should I Use?[^ref-4]
 
 | Game Type | Recommended Method | Difficulty |
 |-----------|-------------------|------------|
@@ -42,7 +42,7 @@ ScummVM is a program that reimplements the game engines Sierra used, allowing th
 
 ### Supported Sierra Games
 
-ScummVM supports nearly all Sierra adventure games with **Excellent** compatibility:[^ref-1]
+ScummVM supports nearly all Sierra adventure games with **Excellent** compatibility:
 
 **AGI Engine Games (1984–1989):**
 - King's Quest I–IV (including SCI remake of KQ1)
@@ -122,7 +122,7 @@ DOSBox Staging is a modern, enhanced fork of DOSBox that's ideal for games Scumm
 
 ### Why DOSBox Staging?
 
-DOSBox Staging is the recommended DOSBox variant for 2024+:[^ref-2]
+DOSBox Staging is the recommended DOSBox variant for 2024+:[^ref-2][^ref-5]
 - **Authentic CRT emulation** — Built-in shaders that auto-adjust
 - **Roland MT-32 emulation** — No extra ROMs needed for most use cases
 - **FluidSynth integration** — High-quality General MIDI
@@ -298,7 +298,7 @@ For stubborn titles, run Windows 98/XP in:
 
 ### Steam Deck
 
-Steam Deck provides excellent Sierra game compatibility:[^ref-3]
+Steam Deck provides excellent Sierra game compatibility:[^ref-3][^ref-6]
 
 **For ScummVM Games:**
 1. Install ScummVM from Flathub in Desktop Mode: `flatpak install flathub org.scummvm.ScummVM`

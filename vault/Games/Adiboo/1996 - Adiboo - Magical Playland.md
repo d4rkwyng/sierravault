@@ -66,7 +66,7 @@ The game is structured as a collection of interconnected mini-games and activiti
 
 ### Puzzles and Mechanics
 
-The game incorporates diverse mini-games designed to teach different skills. The cooking mini-game is described as "without a doubt, the most iconic part of the game," allowing players to create recipes and bake cakes using ingredients from the refrigerator[^ref-10][^ref-7]. One user fondly recalled that "my favourite part was making weird cakes"[^ref-1].
+The game incorporates diverse mini-games designed to teach different skills. The cooking mini-game is described as "without a doubt, the most iconic part of the game," allowing players to create recipes and bake cakes using ingredients from the refrigerator[^ref-7][^ref-10]. One user fondly recalled that "my favourite part was making weird cakes"[^ref-1].
 
 Additional gameplay elements include:
 - **Breakout Game:** An arcade-style brick-breaking game[^ref-8]
@@ -99,11 +99,11 @@ User testimonials highlight strong nostalgic attachment: "Pure soul. Might be th
 
 ### Origins
 
-Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-9][^ref-4]. The game represents the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4]. The development team sought to create an educational experience aligned with established curriculum standards, incorporating elements that support both the National Curriculum and Scottish National Guidelines, as well as preparation for SATS and GCSE examinations[^ref-5].
+Adiboo: Magical Playland was developed by [[Coktel Vision]], a French game development studio known for educational software[^ref-4][^ref-9]. The game represents the second major entry in the Adibou franchise, originally released in France as "Adibou 2"[^ref-4]. The development team sought to create an educational experience aligned with established curriculum standards, incorporating elements that support both the National Curriculum and Scottish National Guidelines, as well as preparation for SATS and GCSE examinations[^ref-5].
 
 ### Production
 
-The French development team at Coktel Vision created a colorful, engaging world designed to teach children ages 4-7 fundamental skills in reading and mathematics[^ref-8][^ref-5]. The game was localized into multiple languages, including German versions titled "Adi Junior" or "Addy Junior: Entdecke deine Welt - Natur + Technik," which was released on 2×CD-ROM[^ref-1][^ref-3].
+The French development team at Coktel Vision created a colorful, engaging world designed to teach children ages 4-7 fundamental skills in reading and mathematics[^ref-5][^ref-8]. The game was localized into multiple languages, including German versions titled "Adi Junior" or "Addy Junior: Entdecke deine Welt - Natur + Technik," which was released on 2×CD-ROM[^ref-1][^ref-3].
 
 **Development Credits:**[^ref-3]
 - **Project Lead (Le Chef):** Joseph

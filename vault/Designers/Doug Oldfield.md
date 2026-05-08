@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Doug Oldfield is an American programmer who worked at Sierra On-Line during the company's golden age of adventure gaming, contributing to over 18 games across multiple Sierra franchises.[^ref-1] As a versatile systems programmer, Oldfield worked on major titles including the King's Quest, Space Quest, Police Quest, and Quest for Glory series, helping to implement Sierra's SCI engine across various platforms.[^ref-2] His programming credits span from 1988 through the mid-1990s, covering some of Sierra's most technically ambitious productions.
+Doug Oldfield is an American programmer who worked at Sierra On-Line during the company's golden age of adventure gaming, contributing to over 18 games across multiple Sierra franchises.[^ref-1][^ref-11] As a versatile systems programmer, Oldfield worked on major titles including the King's Quest, Space Quest, Police Quest, and Quest for Glory series, helping to implement Sierra's SCI engine across various platforms.[^ref-2][^ref-12] His programming credits span from 1988 through the mid-1990s, covering some of Sierra's most technically ambitious productions.
 
 Beyond his programming work, Oldfield made a unique creative contribution to gaming history: his "Chicken Lander" program became the basis for the Astro Chicken minigame in Space Quest III: The Pirates of Pestulon, one of adventure gaming's most beloved Easter eggs.[^ref-3] His work exemplifies the collaborative nature of Sierra's development teams, where programmers often contributed beyond their technical roles.
 

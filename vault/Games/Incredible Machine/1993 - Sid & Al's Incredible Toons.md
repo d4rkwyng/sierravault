@@ -166,7 +166,7 @@ Modern players running the game in DOSBox report full compatibility with DOSBox 
 
 - **Johnny Castaway References:** The icon used to program an item appears as a small island, referencing *Screen Antics: Johnny Castaway*. Several sound effects are also borrowed from that screensaver, including Johnny's humming and Mermaid Marie's chirping sound[^ref-13].
 
-- **Secret Bonus Levels:** After completing all 90 regular puzzles, entering "WIND" on the Password screen unlocks 10 additional bonus puzzles[^ref-14][^ref-13].
+- **Secret Bonus Levels:** After completing all 90 regular puzzles, entering "WIND" on the Password screen unlocks 10 additional bonus puzzles[^ref-13][^ref-14].
 
 - **Tom & Jerry Inspiration:** While never officially acknowledged as an inspiration, reviewers consistently noted the obvious parallel between Sid and Al's dynamic and the classic Tom & Jerry cartoons[^ref-10].
 

@@ -20,7 +20,7 @@ tags: [2010s, adventure, king-s-quest, sierra]
 <small style="color: gray">Last updated: April 15, 2026</small>
 
 ## Overview
-King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-16][^ref-3][^ref-13].
+King's Quest is a 2015 episodic adventure game developed by The Odd Gentlemen and published by [[Activision]] under the revived Sierra Entertainment brand for Windows, PlayStation 3, PlayStation 4, Xbox 360, and Xbox One[^ref-1][^ref-3][^ref-13][^ref-16].
 
 Released in five chapters between July 2015 and October 2016, the game reimagines the classic King's Quest franchise, featuring an elderly King Graham narrating his youthful adventures to his granddaughter Gwendolyn[^ref-1][^ref-3].
 
@@ -143,7 +143,7 @@ The game was developed as a five-part episodic adventure series, serving as both
 
 According to Creative Director Matt Korba, the game's controls focused on "one-button context," resulting in a game without complicated interfaces or controls[^ref-1]. The original games are considered part of the canon of the new series, with each chapter taking place between those games; however, previous games may be reinterpreted in completely new ways[^ref-1]. Korba emphasized that all the choices made by Graham are heroic, and there is no way for players to build a "bad" Graham[^ref-1].
 
-The voice cast features veteran actor Christopher Lloyd (Doc Brown from Back to the Future) as the elderly King Graham, with Josh Keaton (Shiro from Voltron) voicing young Graham[^ref-9][^ref-11][^ref-1]. Wallace Shawn (Rex from Toy Story, Vizzini from The Princess Bride) voices the antagonist Manannan, bringing what reviewers described as "a quick-witted but twisted feel"[^ref-11]. Maggie Elizabeth Jones delivers a standout performance as Gwendolyn, with her "enthusiasm and childlike innocence" praised by critics[^ref-11]. Additional voice talent includes Tom Kenny (SpongeBob SquarePants), Loretta Devine, Kevin Michael Richardson, and Zelda Williams (daughter of Robin Williams)[^ref-12][^ref-15][^ref-1].
+The voice cast features veteran actor Christopher Lloyd (Doc Brown from Back to the Future) as the elderly King Graham, with Josh Keaton (Shiro from Voltron) voicing young Graham[^ref-1][^ref-9][^ref-11]. Wallace Shawn (Rex from Toy Story, Vizzini from The Princess Bride) voices the antagonist Manannan, bringing what reviewers described as "a quick-witted but twisted feel"[^ref-11]. Maggie Elizabeth Jones delivers a standout performance as Gwendolyn, with her "enthusiasm and childlike innocence" praised by critics[^ref-11]. Additional voice talent includes Tom Kenny (SpongeBob SquarePants), Loretta Devine, Kevin Michael Richardson, and Zelda Williams (daughter of Robin Williams)[^ref-1][^ref-12][^ref-15].
 
 ### Technical Achievements
 - Built on Unreal Engine 3 supporting hand-drawn art integration with cel-shaded graphical style[^ref-2][^ref-3]

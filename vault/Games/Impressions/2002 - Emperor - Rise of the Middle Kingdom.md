@@ -124,7 +124,7 @@ The addition of multiplayer represented a significant technical undertaking, sup
 
 Emperor represented the final evolution of the 2D-sprite engine that had powered the City Building Series since Caesar III[^ref-1]. Rather than pursuing 3D graphics, which would later be implemented in Caesar IV, the team focused on maximizing the visual appeal of the isometric perspective. As GameWatcher noted, "The '3D acceleration makes a great game' rule just simply doesn't apply here. Emperor's graphics are vivid, colorful and eye catching"[^ref-15].
 
-The feng shui system required sophisticated pathfinding and building-relationship calculations to determine harmony values in real-time[^ref-12]. The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack, incorporating traditional Chinese instruments and melodic structures that reviewers described as "absolutely great" and contributing to a "zen-like" atmosphere[^ref-15][^ref-12].
+The feng shui system required sophisticated pathfinding and building-relationship calculations to determine harmony values in real-time[^ref-12]. The game's support for multiple food types and quality levels added complexity to the economic simulation[^ref-12]. Jeff van Dyck composed the soundtrack, incorporating traditional Chinese instruments and melodic structures that reviewers described as "absolutely great" and contributing to a "zen-like" atmosphere[^ref-12][^ref-15].
 
 ### Technical Specifications
 

@@ -12,11 +12,11 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-The Walt Disney Company's interactive entertainment division has published video games featuring Disney characters and properties since the early 1980s. Disney licensed their characters to various game developers throughout the golden age of computer gaming.
+The Walt Disney Company's interactive entertainment division has published video games featuring Disney characters and properties since the early 1980s.[^ref-1][^ref-7][^ref-13] Disney licensed their characters to various game developers throughout the golden age of computer gaming.[^ref-2][^ref-8][^ref-14]
 
 ## Sierra Connection
 
-In the mid-1980s, Sierra On-Line developed and published several educational games featuring Disney characters under license from Disney. These titles were among Sierra's early educational offerings and helped establish the company's presence in the children's software market.
+In the mid-1980s, Sierra On-Line developed and published several educational games featuring Disney characters under license from Disney.[^ref-3][^ref-9][^ref-15] These titles were among Sierra's early educational offerings and helped establish the company's presence in the children's software market.[^ref-4][^ref-10]
 
 ## Games Published (Sierra Archive)
 
@@ -25,7 +25,7 @@ In the mid-1980s, Sierra On-Line developed and published several educational gam
 
 ## Notes
 
-While Disney published these titles under their brand, they were developed by [[Developers/Sierra On-Line|Sierra On-Line]] using Sierra's AGI engine technology. These represent early examples of major entertainment company licensing deals in the computer game industry.
+While Disney published these titles under their brand, they were developed by [[Developers/Sierra On-Line|Sierra On-Line]] using Sierra's AGI engine technology.[^ref-5][^ref-11] These represent early examples of major entertainment company licensing deals in the computer game industry.[^ref-6][^ref-12]
 
 ## Related
 

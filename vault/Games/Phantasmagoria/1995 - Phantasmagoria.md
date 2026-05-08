@@ -131,7 +131,7 @@ The game was essentially finished by late 1994, but Sierra chose to call back ca
 
 ### Technical Achievements
 
-Phantasmagoria utilized Sierra's SCI2.1 engine (Sierra's Creative Interpreter)[^ref-8][^ref-6], an enhanced version of the system that had powered their previous adventure games. The game pioneered the use of combined filmed actors with pre-rendered 3D backgrounds[^ref-8], creating a visual style that would influence numerous subsequent FMV titles.
+Phantasmagoria utilized Sierra's SCI2.1 engine (Sierra's Creative Interpreter)[^ref-6][^ref-8], an enhanced version of the system that had powered their previous adventure games. The game pioneered the use of combined filmed actors with pre-rendered 3D backgrounds[^ref-8], creating a visual style that would influence numerous subsequent FMV titles.
 
 The musical score featured a 135-voice choir performing compositions with Latin lyrics[^ref-1]. The opening theme, "Consumite Furore," translates to "Expend Your Rage"[^ref-9]. The game used both RBT and VMD formats for its cutscenes[^ref-8], with the VMD (Video Movie Data) format representing one of the more advanced video compression technologies of its time.
 
@@ -187,7 +187,7 @@ The game suffered from several technical problems, including:
 
 ### Easter Eggs and Trivia
 
-- **Roberta Williams Cameo:** Designer Roberta Williams can be seen at random when exiting the antique shop in town[^ref-27][^ref-2]
+- **Roberta Williams Cameo:** Designer Roberta Williams can be seen at random when exiting the antique shop in town[^ref-2][^ref-27]
 - **Bathroom Humor:** Clicking on the bathroom seating spot seven times triggers toilet sound effects[^ref-27]
 - **Baby Picture:** Clicking on the baby picture four times causes an eerie laugh and the eyes to glow red[^ref-27]
 - **Drain Cleaner Effect:** Using drain cleaner on the manacles creates a blood effect on Adrienne[^ref-27]

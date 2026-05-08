@@ -13,7 +13,7 @@ last_updated: "2026-02-12"
 
 ## Overview
 
-Chris Braymen is an American composer, sound designer, and audio programmer who worked at Sierra On-Line from February 1990 to December 1993.[^ref-1] During his time at Sierra, he composed music and created sound effects for numerous classic adventure games, frequently collaborating with music director [[Mark Seibert]].[^ref-1] His compositions helped define the audio landscape of Sierra's golden age, contributing to beloved titles including King's Quest VI, Quest for Glory II, and the EcoQuest series.[^ref-2]
+Chris Braymen is an American composer, sound designer, and audio programmer who worked at Sierra On-Line from February 1990 to December 1993.[^ref-1][^ref-13] During his time at Sierra, he composed music and created sound effects for numerous classic adventure games, frequently collaborating with music director [[Mark Seibert]].[^ref-1][^ref-14] His compositions helped define the audio landscape of Sierra's golden age, contributing to beloved titles including King's Quest VI, Quest for Glory II, and the EcoQuest series.[^ref-2][^ref-15]
 
 After leaving Sierra, Braymen transitioned from composition to audio programming, working at Sculptured Software on Genesis and 32X ports before joining Kodiak Interactive in 1998.[^ref-1] He later spent over a decade at Sony Computer Entertainment America as a Senior Sound Programmer working on PlayStation consoles, followed by positions at Disney Interactive Studios and WB Games.[^ref-1] His career arc demonstrates the evolution of game audio from the MIDI-based compositions of the early 1990s to the sophisticated audio systems of modern consoles.[^ref-3]
 

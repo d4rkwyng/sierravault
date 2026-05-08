@@ -23,11 +23,11 @@ tags: [1990s, adventure, dynamix, sci, sierra, space-quest, two-guys]
 ## Overview
 Space Quest V: Roger Wilco – The Next Mutation is a graphic adventure game developed by [[Dynamix]] and published by [[Sierra On-Line]], released on February 5, 1993 for MS-DOS[^ref-5][^ref-18].
 
-Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-18][^ref-3].
+Designed by [[Mark Crowe]], this was the first Space Quest game to be developed outside of Sierra On-Line proper, and the first not designed by both "Two Guys from Andromeda" as only Crowe worked on the project[^ref-3][^ref-18].
 
 Set within a spoof of the Star Trek franchise, the story focuses on Roger Wilco finally achieving his dream of becoming a star captain, only to become involved in saving the galaxy from a deadly threat posed by a man-made virus[^ref-5][^ref-18].
 
-The game was released on floppy disk only; early plans for a CD-ROM "talkie" version were cancelled because Dynamix was in financial trouble and eager to release new games rather than work on enhanced versions of already-released titles[^ref-4][^ref-3].
+The game was released on floppy disk only; early plans for a CD-ROM "talkie" version were cancelled because Dynamix was in financial trouble and eager to release new games rather than work on enhanced versions of already-released titles[^ref-3][^ref-4].
 
 > [!info]- Game Info
 > **Developer:** [[Dynamix]][^ref-5]
@@ -41,9 +41,9 @@ The game was released on floppy disk only; early plans for a CD-ROM "talkie" ver
 > **Sierra Lineage:** Sierra Label (Dynamix)
 
 ## Story Summary
-Following the events of Space Quest IV, lowly janitor Roger Wilco applies for a place at Starcon Academy, hoping to become a captain on his own ship[^ref-18]. While at the Academy, Roger makes an enemy of Raems T. Quirk—a toupee-wearing commander in charge of Starcon's most prized ship, the SCS Goliath, and a rather blatant spoof of Captain James T. Kirk[^ref-18][^ref-2].
+Following the events of Space Quest IV, lowly janitor Roger Wilco applies for a place at Starcon Academy, hoping to become a captain on his own ship[^ref-18]. While at the Academy, Roger makes an enemy of Raems T. Quirk—a toupee-wearing commander in charge of Starcon's most prized ship, the SCS Goliath, and a rather blatant spoof of Captain James T. Kirk[^ref-2][^ref-18].
 
-During an aptitude test, which Roger cheats through, Starcon is visited by Ambassador Beatrice Wankmeister—the very woman Roger is set to have a relationship with, after learning of her from his future son in Space Quest IV[^ref-18]. Beatrice requests an escort to investigate bizarre cases of toxic dumping across the galaxy; Quirk offers to assist her using the Goliath[^ref-5]. Meanwhile, Roger successfully achieves his dream and is given command of his own ship, the garbage scow SCS Eureka, which looks and functions like an oversized vacuum cleaner[^ref-5][^ref-2].
+During an aptitude test, which Roger cheats through, Starcon is visited by Ambassador Beatrice Wankmeister—the very woman Roger is set to have a relationship with, after learning of her from his future son in Space Quest IV[^ref-18]. Beatrice requests an escort to investigate bizarre cases of toxic dumping across the galaxy; Quirk offers to assist her using the Goliath[^ref-5]. Meanwhile, Roger successfully achieves his dream and is given command of his own ship, the garbage scow SCS Eureka, which looks and functions like an oversized vacuum cleaner[^ref-2][^ref-5].
 
 Working alongside his crew, the Eureka works to clean up rubbish, picking up a facehugger creature that Roger takes on as a pet[^ref-5]. They also intercept a transmission on a Starcon frequency concerning a collection from an unknown figure[^ref-2]. After collecting rubbish in orbit over a jungle planet, the Eureka comes under attack by a homicidal gynoid named WD40, sent by the same company that came after Roger in Space Quest III[^ref-18].
 
@@ -59,16 +59,16 @@ Space Quest V was developed using Sierra Creative Interpreter 1.1 (SCI1.1), feat
 - Uses the same point-and-click icon interface as Space Quest IV[^ref-2]
 - The game features a command bridge where Roger can give orders to his crew[^ref-5]
 - Commands include interactions with officers, such as "activate cloaking device"[^ref-17]
-- No voice acting—the game was released on floppy disk only[^ref-18][^ref-3]
+- No voice acting—the game was released on floppy disk only[^ref-3][^ref-18]
 
 ### Structure and Progression
-- Roger commands the SCS Eureka and manages a crew of officers throughout the game[^ref-5][^ref-2]
+- Roger commands the SCS Eureka and manages a crew of officers throughout the game[^ref-2][^ref-5]
 - The game takes place across multiple locations including Starcon Academy, various planets, the "space bar," and the genetics company facility[^ref-5]
 - Players collect garbage at various stops while uncovering the conspiracy[^ref-18]
 
 ### Puzzles and Mechanics
 - Inventory-based puzzle solving typical of Sierra adventures[^ref-5]
-- The game features extensive parody of Star Trek, including crew dynamics and ship operations[^ref-18][^ref-2]
+- The game features extensive parody of Star Trek, including crew dynamics and ship operations[^ref-2][^ref-18]
 - Roger can interact with his pet facehugger creature found in the garbage[^ref-5]
 - Features product placement for Sprint, appearing in communications transmissions, on a billboard in the Spacebar, and in the ending credits[^ref-18]
 
@@ -105,16 +105,16 @@ An extensive list detailing over 1,100 loops of animation was planned, with lead
 
 Space Quest IV and Space Quest VGA composer Ken Allen had his soundtrack rejected for reasons unknown and quit Sierra sometime afterwards[^ref-4]. Dynamix musicians Christopher Stevens and Timothy Steven Clarke were rushed into the project to create a score within a short period of time[^ref-3][^ref-4]. Space Quest V took about fourteen months to finish[^ref-4].
 
-A CD-ROM version with voice acting was planned and hinted in the Hintbook and some magazines, but the project was cancelled. According to SQ5 artist Sean Murphy: "Politics and the fact that Dynamix was going through a very rough financial period at that time prevented us from doing any supplemental work on it... I suspect that the management was eager to move on to another 'big profit' project instead of spending time and resources for a 'gold' version of an already-released game"[^ref-28][^ref-4][^ref-3].
+A CD-ROM version with voice acting was planned and hinted in the Hintbook and some magazines, but the project was cancelled. According to SQ5 artist Sean Murphy: "Politics and the fact that Dynamix was going through a very rough financial period at that time prevented us from doing any supplemental work on it... I suspect that the management was eager to move on to another 'big profit' project instead of spending time and resources for a 'gold' version of an already-released game"[^ref-3][^ref-4][^ref-28].
 
 ### Technical Achievements
 - Developed using Sierra Creative Interpreter 1.1 (SCI1.1)[^ref-3][^ref-4]
 - Over 200 storyboard sketches and nearly 100 backgrounds[^ref-3][^ref-4]
 - Over 1,100 animation loops including digitized video capture[^ref-4]
-- First Space Quest developed by Dynamix rather than Sierra On-Line proper[^ref-18][^ref-2]
+- First Space Quest developed by Dynamix rather than Sierra On-Line proper[^ref-2][^ref-18]
 - First Space Quest with only one of the "Two Guys from Andromeda" (Mark Crowe)[^ref-18]
 - Featured product placement for Sprint telephone company[^ref-18]
-- Released February 5, 1993 for MS-DOS on floppy disk only[^ref-18][^ref-2]
+- Released February 5, 1993 for MS-DOS on floppy disk only[^ref-2][^ref-18]
 - **Aptitude test skip:** Selecting the last option for every question allows Roger to pass the StarCon Aptitude Test without cheating—likely a QA feature left in by mistake[^ref-14]
 - **Planet name trivia:** "Lukaszuk II" is not a jab at LucasArts but a tribute to Polish programmer brothers Darius and Piotr Lukaszuk who worked at Dynamix[^ref-14]
 - **End-game failsafe:** If players forget to install the warp drive on the Goliath, the game mercifully teleports them to the engine room for a second chance instead of killing them outright[^ref-14]
@@ -125,8 +125,8 @@ A CD-ROM version with voice acting was planned and hinted in the Hintbook and so
 
 | Version | Date | Platform | Notes |
 |---------|------|----------|-------|
-| 1.0 | February 5, 1993 | DOS | Original floppy release[^ref-18][^ref-2] |
-| CD-ROM | Cancelled | — | Planned "talkie" version with voice acting never released[^ref-4][^ref-3] |
+| 1.0 | February 5, 1993 | DOS | Original floppy release[^ref-2][^ref-18] |
+| CD-ROM | Cancelled | — | Planned "talkie" version with voice acting never released[^ref-3][^ref-4] |
 | GOG/Steam | 2012 | Windows (DOSBox) | Included in Space Quest Collection[^ref-6][^ref-9] |
 | ScummVM | 1.2.0+ | Multi-platform | Full compatibility added[^ref-21] |
 

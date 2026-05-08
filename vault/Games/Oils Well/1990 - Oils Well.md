@@ -23,7 +23,7 @@ tags: [1990s, oil-s-well, sierra]
 
 ## Overview
 
-Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc. [^ref-1][^ref-20][^ref-2] The game serves as an enhanced remake of the original 1983 Oil's Well, which was designed by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3][^ref-4] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
+Oil's Well (1990) is an arcade-style action game published by Sierra On-Line and developed by Banana Development, Inc. [^ref-1][^ref-2][^ref-20] The game serves as an enhanced remake of the original 1983 Oil's Well, which was designed by Thomas J. Mitchell for Atari 8-bit computers.[^ref-3][^ref-4] This updated version features 256-color VGA graphics, a full soundtrack composed by Ken Allen, and animated cartoon sequences between levels starring Slater the "Petrosaur."[^ref-1][^ref-5]
 
 The gameplay concept draws inspiration from the 1982 arcade game Anteater, but re-themes the action around an oil drilling operation rather than a hungry insectivore.[^ref-3][^ref-6] Players guide a drilling bit through underground tunnels to collect dots of oil while avoiding subterranean creatures that can destroy the drilling apparatus.[^ref-1][^ref-7] The game has been described as "a fine cocktail of Dig-Dug, Snake, and Pac-Man elements stirred into a unique but fun and challenging game."[^ref-6]
 
@@ -44,7 +44,7 @@ While the original 1983 version became a solid commercial hit and won Computer G
 
 Oil's Well presents a straightforward arcade premise centered on resource extraction rather than a narrative-driven story.[^ref-7] Players take on the role of managing an oil drilling operation, extending a robotic mining arm deep below the earth's crust to collect valuable oil deposits.[^ref-7][^ref-8] The underground environment is populated with monstrous bugs and creatures that threaten the drilling operation at every turn.[^ref-7]
 
-Between levels, players are treated to animated cartoon sequences featuring Slater the Petrosaur, a dinosaur character who finds himself frequently inconvenienced by a drillbit in various comedic situations.[^ref-1][^ref-5] These short movies provide entertainment rewards for completing each of the eight levels.[^ref-1] The final cartoon features a limousine with the words "Oils Well That Ends Well" – a pun that plays on the game's title, which itself is a play on the phrase "all's well."[^ref-5][^ref-3]
+Between levels, players are treated to animated cartoon sequences featuring Slater the Petrosaur, a dinosaur character who finds himself frequently inconvenienced by a drillbit in various comedic situations.[^ref-1][^ref-5] These short movies provide entertainment rewards for completing each of the eight levels.[^ref-1] The final cartoon features a limousine with the words "Oils Well That Ends Well" – a pun that plays on the game's title, which itself is a play on the phrase "all's well."[^ref-3][^ref-5]
 
 Slater proved popular enough as a character that he would later star in his own game, Slater & Charlie Go Camping.[^ref-5] This spin-off demonstrated that Sierra saw potential in the character beyond the Oil's Well franchise, though the dinosaur's fame ultimately remained modest compared to Sierra's flagship adventure game protagonists.
 
@@ -107,15 +107,15 @@ User reviews on abandonware sites have been notably harsh, with one reviewer cal
 
 ### Origins
 
-Oil's Well began as an original creation by programmer Thomas J. Mitchell for Atari 8-bit computers in 1983.[^ref-3][^ref-4] The game concept was similar to Chris Oberth's Anteater/Ardy the Aardvark arcade games from 1982, but Mitchell swapped the anthill setting for an oil-drilling operation theme.[^ref-6][^ref-3] This re-theming gave the game its own identity while maintaining the core gameplay mechanic of controlling an extending appendage through a maze-like environment.[^ref-6]
+Oil's Well began as an original creation by programmer Thomas J. Mitchell for Atari 8-bit computers in 1983.[^ref-3][^ref-4] The game concept was similar to Chris Oberth's Anteater/Ardy the Aardvark arcade games from 1982, but Mitchell swapped the anthill setting for an oil-drilling operation theme.[^ref-3][^ref-6] This re-theming gave the game its own identity while maintaining the core gameplay mechanic of controlling an extending appendage through a maze-like environment.[^ref-6]
 
 The original game was released under Sierra's short-lived "SierraVision" label before being re-released in 1984 under the generic Sierra label.[^ref-6] The game proved successful enough to warrant ports to multiple platforms including Apple II (programmed by Ivan Strand), Commodore 64, ColecoVision (programmed by Don McGlauflin), IBM PC, MSX, and Sharp X1.[^ref-3][^ref-6][^ref-8]
 
 ### Production
 
-The 1990 remake came about after Sierra discovered Banana Development through their game Bananoid.[^ref-6] Sierra contracted Banana Development to create an enhanced version of Oil's Well featuring improved visuals and sound for the DOS platform.[^ref-6][^ref-1] Notably, the remake was produced without the involvement of original creator Thomas J. Mitchell.[^ref-3]
+The 1990 remake came about after Sierra discovered Banana Development through their game Bananoid.[^ref-6] Sierra contracted Banana Development to create an enhanced version of Oil's Well featuring improved visuals and sound for the DOS platform.[^ref-1][^ref-6] Notably, the remake was produced without the involvement of original creator Thomas J. Mitchell.[^ref-3]
 
-The enhanced graphics were created by Nancy Hoffelmeyer (Art Director) and Andy Hoyos (Assistant Art Director), both of whom also worked on King's Quest V.[^ref-6][^ref-5] This connection to Sierra's flagship adventure series brought high production values to the remake's visual presentation. The programming for the IBM version was handled by William Rieder.[^ref-5]
+The enhanced graphics were created by Nancy Hoffelmeyer (Art Director) and Andy Hoyos (Assistant Art Director), both of whom also worked on King's Quest V.[^ref-5][^ref-6] This connection to Sierra's flagship adventure series brought high production values to the remake's visual presentation. The programming for the IBM version was handled by William Rieder.[^ref-5]
 
 **Development Credits:**[^ref-5]
 - **Executive Producer:** [[Ken Williams]]
@@ -133,7 +133,7 @@ The enhanced graphics were created by Nancy Hoffelmeyer (Art Director) and Andy 
 
 The 1990 remake featured significant technical improvements over the original versions.[^ref-6] The game showcased 256-color VGA graphics, a substantial upgrade from the limited color palettes of the 1983 releases.[^ref-6][^ref-12] Ken Allen composed an original soundtrack that reviewers praised as "brilliantly composed" and well-suited to the game's theme.[^ref-5]
 
-One of the most notable additions was the inclusion of animated cartoon sequences between levels.[^ref-6][^ref-5] These featured Slater the Petrosaur in various comedic situations involving drillbits, providing entertainment incentives for level completion beyond simple score advancement.[^ref-1][^ref-5]
+One of the most notable additions was the inclusion of animated cartoon sequences between levels.[^ref-5][^ref-6] These featured Slater the Petrosaur in various comedic situations involving drillbits, providing entertainment incentives for level completion beyond simple score advancement.[^ref-1][^ref-5]
 
 ### Technical Specifications
 

@@ -12,15 +12,15 @@ last_updated: "2026-01-17"
 
 ## Overview
 
-Activision Publishing, Inc. is an American video game publisher based in Santa Monica, California, and one of the largest third-party video game publishers in the world.[^ref-1] Founded on October 1, 1979, by former Atari programmers David Crane, Alan Miller, Bob Whitehead, and Jim Levy, Activision holds the distinction of being the first independent, third-party console video game developer.[^ref-2][^ref-3]
+Activision Publishing, Inc.[^ref-2] is an American video game publisher based in Santa Monica, California, and one of the largest third-party video game publishers in the world.[^ref-1][^ref-11] Founded on October 1, 1979, by former Atari programmers David Crane, Alan Miller, Bob Whitehead, and Jim Levy, Activision holds the distinction of being the first independent, third-party console video game developer.[^ref-12]
 
-The company has evolved significantly from its origins as a pioneering Atari 2600 developer to become a global gaming powerhouse. In July 2008, Activision merged with Vivendi Games (parent of Blizzard Entertainment) to form Activision Blizzard.[^ref-4] Most recently, Microsoft acquired Activision Blizzard for $75.4 billion in October 2023, bringing the company under the Microsoft Gaming umbrella.[^ref-5]
+The company has evolved significantly from its origins as a pioneering Atari 2600 developer to become a global gaming powerhouse.[^ref-3] In July 2008, Activision merged with Vivendi Games (parent of Blizzard Entertainment) to form Activision Blizzard.[^ref-4][^ref-14] Most recently, Microsoft acquired Activision Blizzard for $75.4 billion in October 2023, bringing the company under the Microsoft Gaming umbrella.[^ref-5][^ref-15]
 
 ## Sierra Connection
 
 Activision's relationship with Sierra properties spans several decades and contexts:
 
-**Vivendi Games Merger (2008):** When Activision merged with Vivendi Games, they inherited [[Publishers/Sierra On-Line|Sierra]]'s intellectual property portfolio.[^ref-10] While Sierra's adventure game development had largely ended by this point, Activision gained access to the Sierra brand and catalog.
+**Vivendi Games Merger (2008):** When Activision merged with Vivendi Games, they inherited [[Publishers/Sierra On-Line|Sierra]]'s intellectual property portfolio.[^ref-10] While Sierra's adventure game development had largely ended by this point, Activision gained access to the Sierra brand and catalog.[^ref-13]
 
 **King's Quest Reboot (2015):** Activision published the episodic *King's Quest* reimagining developed by The Odd Gentlemen, marking a revival of Sierra's most iconic adventure franchise.[^ref-6]
 

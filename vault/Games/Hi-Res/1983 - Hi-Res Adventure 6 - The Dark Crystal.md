@@ -25,7 +25,7 @@ Hi-Res Adventure #6: The Dark Crystal stands as a landmark achievement in early 
 
 The game was revolutionary for its time, being "the first official movie tie-in game on a platform where it was possible to follow the plot step-by-step"[^ref-4]. What made this adaptation particularly special was the unprecedented level of cooperation from Henson Associates, who provided artwork, character sheets, and extensive backstory materials that went far beyond what appeared in the film itself[^ref-4]. This collaboration resulted in a game that, according to contemporary reviews, proved that "games based on movies often have a wretched reputation. By this metric, The Dark Crystal does better than most"[^ref-5].
 
-As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Crystal represented both an ending and a beginning - it was "Sierra's last adventure game before the groundbreaking King's Quest"[^ref-6], marking the transition from Sierra's early text-based adventures to the revolutionary graphic adventures that would define the company's future.[^ref-36][^ref-37][^ref-7]
+As the sixth and final entry in Sierra's Hi-Res Adventure series, The Dark Crystal represented both an ending and a beginning - it was "Sierra's last adventure game before the groundbreaking King's Quest"[^ref-6], marking the transition from Sierra's early text-based adventures to the revolutionary graphic adventures that would define the company's future.[^ref-7][^ref-36][^ref-37]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]][^ref-1]
@@ -85,7 +85,7 @@ However, not all reviews were entirely positive. Mark S. Murley of Hi-Res magazi
 
 Modern retrospective reviews have been more critical, with Alex Bevilacqua's detailed analysis scoring the game at just 28%[^ref-2]. Contemporary adventure game enthusiasts on sites like Mobygames have been more generous, with critics giving it 86%[^ref-7], while user ratings on MyAbandonware show a perfect 5/5 score[^ref-14].
 
-Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty close to a shot by shot remake of the movie in game form"[^ref-5], praising its faithfulness while acknowledging the limitations of early adventure game design. The review concluded that "by this metric, The Dark Crystal does better than most" when compared to other movie-to-game adaptations of the era[^ref-5].[^ref-33][^ref-35][^ref-7]
+Hardcore Gaming 101's retrospective assessment noted that the game is "Pretty close to a shot by shot remake of the movie in game form"[^ref-5], praising its faithfulness while acknowledging the limitations of early adventure game design. The review concluded that "by this metric, The Dark Crystal does better than most" when compared to other movie-to-game adaptations of the era[^ref-5].[^ref-7][^ref-33][^ref-35]
 
 ## Development
 
