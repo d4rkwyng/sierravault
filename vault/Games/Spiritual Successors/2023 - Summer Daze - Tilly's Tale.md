@@ -265,7 +265,7 @@ As [[Corey Cole]] noted, he and Lori "are pushing 70, and spending more time on 
 
 [^ref-1]: [Steam – Summer Daze: Tilly's Tale](https://store.steampowered.com/app/1139490/Summer_Daze_Tillys_Tale/) – release date, developer, publisher, platforms, technical specifications, game description
 [^ref-2]: [Nintendo eShop – Summer Daze: Tilly's Tale](https://www.nintendo.com/us/store/products/summer-daze-tillys-tale-switch/) – Nintendo Switch release date, file size, publisher (Silesia Games), technical specifications
-[^ref-3]: [Adventure Game Hotspot – Summer Daze: Tilly's Tale Review](https://adventuregamehotspot.com/review/415/summer-daze-tillys-tale) – review score, developer quotes, gameplay analysis, technical issues, Tilly's backstory
+[^ref-3]: [Adventure Game Hotspot – Summer Daze: Tilly's Tale Review](http://web.archive.org/web/20260308175533/https://adventuregamehotspot.com/review/415/summer-daze-tillys-tale) – review score, developer quotes, gameplay analysis, technical issues, Tilly's backstory
 [^ref-4]: [The Digital Antiquarian](https://www.filfre.net/?s=Summer+Daze+Tilly%27s+Tale) – historical context, Corey Cole quote about age
 [^ref-5]: [MobyGames – Summer Daze: Tilly's Tale](https://www.mobygames.com/game/201072/summer-daze-tillys-tale/) – engine, composers, voice cast, aggregate rating, technical specifications
 [^ref-6]: [Adventure Gamer Blog – Review](https://advgamer.blogspot.com/2023/03/summer-daze-tillys-tale-review.html) – release platforms, composer, Kickstarter details, hidden card minigame, developer quotes

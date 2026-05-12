@@ -258,7 +258,7 @@ The preservation of audio assets from earlier Hoyle titles reflects both the pra
 [^ref-10]: [Steam Community – Hoyle Official Card Games Collection](https://steamcommunity.com/app/397420) – user discussions, interface comparisons to 2002/2003 versions
 [^ref-11]: [Sierra Gamers](https://www.sierragamers.com/) – Hoyle series chronology and documentation
 [^ref-12]: [Internet Archive – Hoyle Puzzle Games 2002](https://archive.org/details/hoyle-puzzle-games-2002) – game preservation archive, package content documentation
-[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
+[^ref-13]: [NeverDieMedia – Hoyle Puzzle Games 2002](http://web.archive.org/web/20250212111049/https://www.neverdiemedia.com/products/hoyle-puzzle-games-2002) – retail distribution documentation
 [^ref-15]: [LaunchBox Games Database – Sierra Entertainment Games](https://gamesdb.launchbox-app.com/developers/games/2391-sierra-entertainment) – Sierra game catalog and chronology
 [^ref-16]: [MobyGames – Hoyle Puzzle Games](https://www.mobygames.com/game/hoyle-puzzle-games-2002/) – game catalog information
 [^ref-18]: [PCGamingWiki – Hoyle Puzzle Games](https://www.pcgamingwiki.com/wiki/Hoyle_Puzzle_Games) – technical documentation

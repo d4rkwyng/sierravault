@@ -122,7 +122,7 @@ Williams' critique of modern gaming also reflects her continued engagement with 
 [^ref-10]: [NYU Game Center](https://gamecenter.nyu.edu/before-we-were-gamers-roberta-williams-sierra-on-line-and-how-we-write-women-into-video-game-history/) — Recognition of market gap in adventure gaming
 [^ref-11]: [Kids Kiddle](https://kids.kiddle.co/Roberta_Williams) — Inspiration from Agatha Christie for Mystery House
 [^ref-12]: [Adventure Classic Gaming](http://www.adventureclassicgaming.com/index.php/site/interviews/198) — Mystery House opening text
-[^ref-13]: [AIGA Eye on Design](https://eyeondesign.aiga.org/roberta-williams-is-the-worlds-first-graphic-computer-game-designer-but-shes-famous-for-all-the-wrong-reasons/) — First home computer game with graphics
+[^ref-13]: [AIGA Eye on Design](http://web.archive.org/web/20260225213902/https://eyeondesign.aiga.org/roberta-williams-is-the-worlds-first-graphic-computer-game-designer-but-shes-famous-for-all-the-wrong-reasons/) — First home computer game with graphics
 [^ref-14]: [Harvard Business School](https://www.hbs.edu/faculty/Pages/item.aspx?num=4464) — Mystery House commercial success details
 [^ref-15]: [MobyGames](https://www.mobygames.com/person/60/roberta-williams/credits/) — Founding of On-Line Systems timeline
 [^ref-16]: [The Case Centre](https://www.thecasecentre.org/products/view?id=62501) — Hi-Res Adventures series development period

@@ -171,7 +171,7 @@ The team has continued supporting the game post-release, with v2 updates in late
 
 ## References
 
-[^ref-1]: [Adventure Game Hotspot](https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information
+[^ref-1]: [Adventure Game Hotspot](http://web.archive.org/web/20260305155004/https://adventuregamehotspot.com/review/20/spaceventure) – - Game overview and developer information
 [^ref-2]: [Guys from Andromeda](https://guysfromandromeda.com/uncategorized/new-game/) – - Official announcement post
 [^ref-3]: [Steam Store](https://store.steampowered.com/app/1374960/SpaceVenture/) – - Official game description and protagonist details
 [^ref-4]: [EverybodyWiki](https://en.everybodywiki.com/Two_Guys_from_Andromeda) – - Kickstarter funding information

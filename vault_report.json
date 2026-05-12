@@ -1,10 +1,10 @@
 {
   "summary": {
     "total_pages": 507,
-    "passing": 474,
-    "failing": 33,
-    "pass_rate_pct": 93.5,
-    "average_score": 96.5
+    "passing": 478,
+    "failing": 29,
+    "pass_rate_pct": 94.3,
+    "average_score": 96.7
   },
   "pages": [
     {
@@ -358,118 +358,6 @@
       ]
     },
     {
-      "filename": "2006 - Hoyle Miami Solitaire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.4,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2004 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 85.4,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2004 - Hoyle Table Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -610,6 +498,56 @@
       ]
     },
     {
+      "filename": "2006 - Hoyle Miami Solitaire.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 86.4,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Protagonist:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2023 - Pharaoh - A New Era.md",
       "series": "Pharaoh",
       "page_type": "standard",
@@ -680,6 +618,50 @@
       ]
     },
     {
+      "filename": "2004 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 87.4,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2007 - Carcassonne.md",
       "series": "XBLA",
       "page_type": "standard",
@@ -720,50 +702,6 @@
           "severity": "error",
           "message": "3 unresolved See Also link(s)",
           "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1998 - 3-D Ultra NASCAR Pinball.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 88.3,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
         }
       ]
     },
@@ -934,56 +872,6 @@
       ]
     },
     {
-      "filename": "2002 - Hoyle Card Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 88.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1999 - NASCAR Craftsman Truck Series Racing.md",
       "series": "NASCAR",
       "page_type": "standard",
@@ -1012,6 +900,44 @@
           "severity": "error",
           "message": "Missing ## Downloads section",
           "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1998 - 3-D Ultra NASCAR Pinball.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 89.3,
+      "passes": false,
+      "status": "CLOSE",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
         },
         {
           "category": "Game Info",
@@ -1098,44 +1024,6 @@
       ]
     },
     {
-      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 89.6,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Series:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reception section has no numeric scores",
-          "points_lost": 5
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "2 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "1992 - Ready, Set, Read with Bananas & Jack.md",
       "series": "Education",
       "page_type": "standard",
@@ -1196,50 +1084,6 @@
           "severity": "error",
           "message": "1 unresolved See Also link(s)",
           "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1996 - Hoyle Blackjack.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 89.7,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
         }
       ]
     },
@@ -1336,6 +1180,38 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2018 - Bolt Riley - A Reggae Adventure.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 90.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reception section has no numeric scores",
+          "points_lost": 5
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "2 unresolved See Also link(s)",
+          "points_lost": 4
         }
       ]
     },
@@ -1488,50 +1364,6 @@
       ]
     },
     {
-      "filename": "1999 - Hoyle Casino.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 90.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2016 - Hoyle Casino Games Collection.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -1579,6 +1411,44 @@
           "category": "References",
           "severity": "warning",
           "message": "Reception section has no numeric scores",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2002 - Hoyle Card Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 90.6,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
           "points_lost": 5
         }
       ]
@@ -1718,50 +1588,6 @@
       ]
     },
     {
-      "filename": "1990 - Geisha.md",
-      "series": "Coktel",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 91.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "2002 - King's Quest II+ - Romancing the Stones.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -1872,7 +1698,7 @@
       ]
     },
     {
-      "filename": "2003 - Hoyle Card Games.md",
+      "filename": "1996 - Hoyle Blackjack.md",
       "series": "Hoyle",
       "page_type": "standard",
       "is_flagship": false,
@@ -1881,18 +1707,12 @@
       "score": 91.6,
       "passes": true,
       "status": "PASS",
-      "ref_count": 20,
+      "ref_count": 17,
       "issues": [
         {
           "category": "Structure",
           "severity": "error",
-          "message": "Missing ### Contemporary Reviews",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
+          "message": "Missing ### Origins or ### Production",
           "points_lost": 2
         },
         {
@@ -1902,22 +1722,10 @@
           "points_lost": 2
         },
         {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
         }
       ]
     },
@@ -1944,44 +1752,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Nova 9 - The Return of Gir Draxon.md",
-      "series": "Stellar 7",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 91.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
         },
         {
           "category": "References",
@@ -2198,38 +1968,6 @@
       ]
     },
     {
-      "filename": "1984 - Mickey's Space Adventure.md",
-      "series": "Disney",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 30,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
       "filename": "1999 - 3-D Ultra Lionel TrainTown.md",
       "series": "3D Ultra",
       "page_type": "standard",
@@ -2251,44 +1989,6 @@
           "category": "Game Info",
           "severity": "error",
           "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
           "points_lost": 1
         },
         {
@@ -2332,6 +2032,38 @@
       ]
     },
     {
+      "filename": "1999 - Hoyle Casino.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 92.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
+        },
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2001 - Hoyle Word Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -2364,99 +2096,17 @@
       ]
     },
     {
-      "filename": "2000 - Hoyle Casino.md",
-      "series": "Hoyle",
+      "filename": "1990 - Geisha.md",
+      "series": "Coktel",
       "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 92.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1990 - King's Quest V - Absence Makes the Heart Go Yonder.md",
-      "series": "King's Quest",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 92.8,
-      "passes": false,
-      "status": "CLOSE",
-      "ref_count": 53,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Legacy section",
-          "points_lost": 3
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "2015 - Order of the Thorne - The King's Challenge.md",
-      "series": "Spiritual Successors",
-      "page_type": "spiritual",
       "is_flagship": false,
       "is_non_narrative": false,
       "threshold": 90,
       "score": 93.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 20,
+      "ref_count": 25,
       "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Puzzles and Mechanics",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Modern Assessment",
-          "points_lost": 2
-        },
         {
           "category": "Structure",
           "severity": "error",
@@ -2464,54 +2114,16 @@
           "points_lost": 2
         },
         {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1997 - Driver's Education '98.md",
-      "series": "Sierra Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
           "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
           "points_lost": 2
         },
         {
           "category": "Series Continuity",
           "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
+          "message": "1 unresolved See Also link(s)",
+          "points_lost": 4
         }
       ]
     },
@@ -2548,7 +2160,7 @@
       ]
     },
     {
-      "filename": "2010 - 3-D Ultra MiniGolf Adventures 2.md",
+      "filename": "2000 - 3-D Ultra Lionel TrainTown Deluxe.md",
       "series": "3D Ultra",
       "page_type": "standard",
       "is_flagship": false,
@@ -2557,12 +2169,12 @@
       "score": 93.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 17,
+      "ref_count": 18,
       "issues": [
         {
           "category": "Game Info",
           "severity": "error",
-          "message": "Missing `**Engine:**`",
+          "message": "Missing `**Designer:**`",
           "points_lost": 1
         },
         {
@@ -2575,70 +2187,6 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1997 - 3-D Ultra Pinball - The Lost Continent.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/', 'https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1998 - 3-D Ultra MiniGolf Deluxe.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/']",
           "points_lost": 5
         }
       ]
@@ -2660,70 +2208,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2000 - PGA Championship Golf 2000 - Titanium Edition.md",
-      "series": "PGA Championship Golf",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 19,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Hoyle Crosswords.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
         },
         {
           "category": "References",
@@ -2760,38 +2244,6 @@
       ]
     },
     {
-      "filename": "1997 - Hoyle Classic Card Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2001 - Hoyle Board Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -2818,7 +2270,7 @@
       ]
     },
     {
-      "filename": "1997 - Hoyle Poker.md",
+      "filename": "2003 - Hoyle Card Games.md",
       "series": "Hoyle",
       "page_type": "standard",
       "is_flagship": false,
@@ -2827,25 +2279,31 @@
       "score": 93.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 19,
+      "ref_count": 20,
       "issues": [
         {
-          "category": "Game Info",
+          "category": "Structure",
           "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
+          "message": "Missing ### Contemporary Reviews",
+          "points_lost": 2
         },
         {
-          "category": "Game Info",
+          "category": "Structure",
           "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
+          "message": "Missing ### Modern Assessment",
+          "points_lost": 2
         },
         {
-          "category": "References",
+          "category": "Structure",
           "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        },
+        {
+          "category": "Game Info",
+          "severity": "error",
+          "message": "Missing `**Designer:**`",
+          "points_lost": 1
         }
       ]
     },
@@ -2928,38 +2386,6 @@
       ]
     },
     {
-      "filename": "1993 - Hoyle Classic Card Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 93.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 17,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1997 - Eat My Dust.md",
       "series": "Sierra Attractions",
       "page_type": "standard",
@@ -3012,8 +2438,8 @@
       ]
     },
     {
-      "filename": "1991 - Fort Apache.md",
-      "series": "Impressions",
+      "filename": "1991 - Nova 9 - The Return of Gir Draxon.md",
+      "series": "Stellar 7",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -3021,7 +2447,7 @@
       "score": 93.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 15,
+      "ref_count": 19,
       "issues": [
         {
           "category": "Structure",
@@ -3038,8 +2464,8 @@
       ]
     },
     {
-      "filename": "1980 - Hi-Res Soccer.md",
-      "series": "Hi-Res",
+      "filename": "1991 - Fort Apache.md",
+      "series": "Impressions",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -3047,19 +2473,13 @@
       "score": 93.4,
       "passes": true,
       "status": "PASS",
-      "ref_count": 19,
+      "ref_count": 15,
       "issues": [
         {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         },
         {
           "category": "References",
@@ -3154,70 +2574,6 @@
       ]
     },
     {
-      "filename": "1983 - Hi-Res Adventure 6 - The Dark Crystal.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 39,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/']",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1980 - Hi-Res Adventure 0 - Mission Asteroid.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.0,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 18,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "1984 - Gelfling Adventure.md",
       "series": "Hi-Res",
       "page_type": "standard",
@@ -3240,38 +2596,6 @@
           "severity": "warning",
           "message": "Reception section has no numeric scores",
           "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2003 - Homeworld 2.md",
-      "series": "Homeworld",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
         }
       ]
     },
@@ -3368,32 +2692,6 @@
           "severity": "error",
           "message": "Missing ## References section",
           "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1999 - 3-D Ultra Cool Pool.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
         }
       ]
     },
@@ -3514,96 +2812,6 @@
       ]
     },
     {
-      "filename": "1998 - Hoyle Classic Board Games.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2005 - Hoyle Casino 3D.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "2002 - Hoyle Casino Empire.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
       "filename": "2003 - Hoyle Casino.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -3630,148 +2838,8 @@
       ]
     },
     {
-      "filename": "1997 - Hoyle Classic Board Games.md",
+      "filename": "2000 - Hoyle Casino.md",
       "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1991 - Hoyle Official Book of Games - Volume 4.md",
-      "series": "Hoyle",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ### Origins or ### Production",
-          "points_lost": 2
-        },
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1992 - The Incredible Machine.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "2000 - Return of The Incredible Machine - Contraptions.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 94.4,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow.md",
-      "series": "Crazy Nick's",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -3818,38 +2886,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1994 - Outpost.md",
-      "series": "Outpost",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.6,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        },
-        {
-          "category": "References",
-          "severity": "error",
-          "message": "Missing ## References section",
-          "points_lost": 1
         }
       ]
     },
@@ -3938,33 +2974,7 @@
       ]
     },
     {
-      "filename": "1997 - Diablo - Hellfire.md",
-      "series": "Standalone",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 94.8,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 15,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Blue Force.md",
+      "filename": "2015 - Order of the Thorne - The King's Challenge.md",
       "series": "Spiritual Successors",
       "page_type": "spiritual",
       "is_flagship": false,
@@ -3973,45 +2983,77 @@
       "score": 94.8,
       "passes": true,
       "status": "PASS",
-      "ref_count": 16,
+      "ref_count": 20,
       "issues": [
         {
-          "category": "Game Info",
+          "category": "Structure",
           "severity": "error",
-          "message": "Missing `**Series:**`",
-          "points_lost": 1
+          "message": "Missing ### Puzzles and Mechanics",
+          "points_lost": 2
         },
         {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Modern Assessment",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
         }
       ]
     },
     {
-      "filename": "1995 - Breach 3.md",
-      "series": "Impressions",
+      "filename": "1997 - Driver's Education '98.md",
+      "series": "Sierra Sports",
       "page_type": "standard",
       "is_flagship": false,
-      "is_non_narrative": false,
+      "is_non_narrative": true,
       "threshold": 90,
-      "score": 94.8,
+      "score": 95.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 18,
+      "ref_count": 20,
       "issues": [
         {
-          "category": "Game Info",
+          "category": "Structure",
           "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
         },
         {
-          "category": "References",
-          "severity": "warning",
-          "message": "Reference count below target of 20",
-          "points_lost": 5
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
+        }
+      ]
+    },
+    {
+      "filename": "2003 - Homeworld 2.md",
+      "series": "Homeworld",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 44,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ## Downloads section",
+          "points_lost": 2
+        },
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "Missing ## See Also / Related Games section",
+          "points_lost": 3
         }
       ]
     },
@@ -4172,33 +3214,27 @@
       ]
     },
     {
-      "filename": "1991 - The Charge of the Light Brigade.md",
-      "series": "Strategy",
+      "filename": "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
+      "series": "3D Ultra",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
       "threshold": 90,
-      "score": 95.1,
+      "score": 95.3,
       "passes": true,
       "status": "PASS",
-      "ref_count": 23,
+      "ref_count": 15,
       "issues": [
         {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
         }
       ]
     },
     {
-      "filename": "2000 - 3-D Ultra Radio Control Racers Deluxe - Traxxas Edition.md",
+      "filename": "1999 - 3-D Ultra Cool Pool.md",
       "series": "3D Ultra",
       "page_type": "standard",
       "is_flagship": false,
@@ -4278,6 +3314,26 @@
       ]
     },
     {
+      "filename": "2010 - 3-D Ultra MiniGolf Adventures 2.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1997 - 3-D Ultra MiniGolf.md",
       "series": "3D Ultra",
       "page_type": "standard",
@@ -4293,6 +3349,46 @@
           "category": "References",
           "severity": "warning",
           "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1997 - 3-D Ultra Pinball - The Lost Continent.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/', 'https://www.mobygames.com/game/3205/3-d-ultra-pinball-the-lost-continent/reviews/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1998 - 3-D Ultra MiniGolf Deluxe.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 27,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/38197/3-d-ultra-minigolf-deluxe/']",
           "points_lost": 5
         }
       ]
@@ -5056,6 +4152,46 @@
       ]
     },
     {
+      "filename": "2000 - PGA Championship Golf 2000 - Titanium Edition.md",
+      "series": "PGA Championship Golf",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Hoyle Crosswords.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2000 - Hoyle Slots and Video Poker.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -5066,6 +4202,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1997 - Hoyle Classic Card Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": [
         {
           "category": "References",
@@ -5156,7 +4312,67 @@
       ]
     },
     {
+      "filename": "1997 - Hoyle Poker.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2005 - Hoyle Casino 3D.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1999 - Hoyle Backgammon and Cribbage.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "2002 - Hoyle Casino Empire.md",
       "series": "Hoyle",
       "page_type": "standard",
       "is_flagship": false,
@@ -5226,6 +4442,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Hoyle Classic Card Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 17,
       "issues": [
         {
           "category": "References",
@@ -5396,32 +4632,6 @@
       ]
     },
     {
-      "filename": "2001 - The Incredible Machine - Even More Contraptions.md",
-      "series": "Incredible Machine",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 95.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 36,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "1 unresolved See Also link(s)",
-          "points_lost": 4
-        }
-      ]
-    },
-    {
       "filename": "1993 - Stellar-Fire.md",
       "series": "Stellar 7",
       "page_type": "standard",
@@ -5572,6 +4782,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1992 - Crazy Nick's Software Picks - Parlor Games with Laura Bow.md",
+      "series": "Crazy Nick's",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
       "issues": [
         {
           "category": "References",
@@ -5782,6 +5012,26 @@
       ]
     },
     {
+      "filename": "1980 - Hi-Res Soccer.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 95.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1998 - Sierra Pro Pilot '99.md",
       "series": "Sierra Pro Pilot",
       "page_type": "standard",
@@ -5932,32 +5182,6 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 21,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "error",
-          "message": "Missing ## Downloads section",
-          "points_lost": 2
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "Missing ## See Also / Related Games section",
-          "points_lost": 3
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Team Fortress Classic.md",
-      "series": "Valve",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 95.5,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 40,
       "issues": [
         {
           "category": "Structure",
@@ -6200,6 +5424,26 @@
       ]
     },
     {
+      "filename": "1997 - Diablo - Hellfire.md",
+      "series": "Standalone",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 15,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "2021 - King's Quest IV Retold.md",
       "series": "Fan Games",
       "page_type": "fan",
@@ -6270,6 +5514,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 19,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1993 - Blue Force.md",
+      "series": "Spiritual Successors",
+      "page_type": "spiritual",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 16,
       "issues": [
         {
           "category": "References",
@@ -6356,32 +5620,6 @@
           "severity": "warning",
           "message": "Reference count below target of 20",
           "points_lost": 5
-        }
-      ]
-    },
-    {
-      "filename": "1989 - The Colonel's Bequest.md",
-      "series": "Laura Bow",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 95.7,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 58,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Series Continuity",
-          "severity": "error",
-          "message": "5 unresolved See Also link(s)",
-          "points_lost": 4
         }
       ]
     },
@@ -6506,6 +5744,26 @@
       ]
     },
     {
+      "filename": "1995 - Breach 3.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
       "filename": "1995 - Powerhouse.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -6556,6 +5814,46 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 17,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "warning",
+          "message": "Reference count below target of 20",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1983 - Hi-Res Adventure 6 - The Dark Crystal.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 39,
+      "issues": [
+        {
+          "category": "References",
+          "severity": "error",
+          "message": "Duplicate reference URL(s): ['https://www.mobygames.com/game/16877/hi-res-adventure-6-the-dark-crystal/']",
+          "points_lost": 5
+        }
+      ]
+    },
+    {
+      "filename": "1980 - Hi-Res Adventure 0 - Mission Asteroid.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 95.7,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 18,
       "issues": [
         {
           "category": "References",
@@ -6646,6 +5944,58 @@
       ]
     },
     {
+      "filename": "1998 - Hoyle Classic Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1997 - Hoyle Classic Board Games.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
       "filename": "2011 - Hoyle Puzzle and Board Games.md",
       "series": "Hoyle",
       "page_type": "standard",
@@ -6661,6 +6011,32 @@
           "category": "Structure",
           "severity": "error",
           "message": "Missing ### Modern Assessment",
+          "points_lost": 2
+        },
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1991 - Hoyle Official Book of Games - Volume 4.md",
+      "series": "Hoyle",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "error",
+          "message": "Missing ### Origins or ### Production",
           "points_lost": 2
         },
         {
@@ -6738,6 +6114,26 @@
       ]
     },
     {
+      "filename": "2001 - The Incredible Machine - Even More Contraptions.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 36,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "1 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
       "filename": "1994 - The Incredible Toon Machine.md",
       "series": "Incredible Machine",
       "page_type": "standard",
@@ -6759,6 +6155,26 @@
     },
     {
       "filename": "1996 - Arthur to Astaroth no Nazo Makaimura - Incredible Toons.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "1 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "1992 - The Incredible Machine.md",
       "series": "Incredible Machine",
       "page_type": "standard",
       "is_flagship": false,
@@ -6848,6 +6264,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 27,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "1 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
+      "filename": "2000 - Return of The Incredible Machine - Contraptions.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 96.3,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
       "issues": [
         {
           "category": "Series Continuity",
@@ -7110,6 +6546,26 @@
       ]
     },
     {
+      "filename": "1989 - The Colonel's Bequest.md",
+      "series": "Laura Bow",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 96.5,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 58,
+      "issues": [
+        {
+          "category": "Series Continuity",
+          "severity": "error",
+          "message": "5 unresolved See Also link(s)",
+          "points_lost": 4
+        }
+      ]
+    },
+    {
       "filename": "1992 - The Dagger of Amon Ra.md",
       "series": "Laura Bow",
       "page_type": "standard",
@@ -7150,58 +6606,6 @@
       ]
     },
     {
-      "filename": "1992 - A.J.'s World of Discovery.md",
-      "series": "Adiboo",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 97.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1998 - After Dark Games.md",
-      "series": "After Dark",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 97.2,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 27,
-      "issues": [
-        {
-          "category": "Structure",
-          "severity": "warning",
-          "message": "Missing ### Technical Achievements",
-          "points_lost": 2
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1994 - Bouncers.md",
       "series": "Dynamix",
       "page_type": "standard",
@@ -7222,110 +6626,6 @@
       ]
     },
     {
-      "filename": "2000 - Maximum Pool.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 22,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1999 - 3-D Ultra Radio Control Racers.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1996 - 3-D Ultra Pinball - Creep Night.md",
-      "series": "3D Ultra",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Sierra Sports - Bass Fishing.md",
-      "series": "Sierra Sports",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 24,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1995 - Caesar II.md",
       "series": "Caesar",
       "page_type": "standard",
@@ -7342,32 +6642,6 @@
           "severity": "warning",
           "message": "Missing ### Technical Achievements",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1995 - Air Cavalry.md",
-      "series": "Standalone",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 21,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Series:**`",
-          "points_lost": 1
         }
       ]
     },
@@ -7408,6 +6682,26 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 22,
+      "issues": [
+        {
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
+        }
+      ]
+    },
+    {
+      "filename": "1992 - A.J.'s World of Discovery.md",
+      "series": "Adiboo",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 98.1,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": [
         {
           "category": "Structure",
@@ -7518,8 +6812,8 @@
       ]
     },
     {
-      "filename": "1994 - The Incredible Machine 2.md",
-      "series": "Incredible Machine",
+      "filename": "1998 - After Dark Games.md",
+      "series": "After Dark",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -7527,279 +6821,13 @@
       "score": 98.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 43,
+      "ref_count": 27,
       "issues": [
         {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2001 - Tribes 2.md",
-      "series": "Metaltech",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 98.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 29,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 81,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 35,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Series:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2020 - Leisure Suit Larry - Wet Dreams Dry Twice.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 30,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2018 - Leisure Suit Larry - Wet Dreams Don't Dry.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 45,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2013 - Leisure Suit Larry - Reloaded.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 37,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2009 - Leisure Suit Larry - Box Office Bust.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 44,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1995 - The Beast Within - A Gabriel Knight Mystery.md",
-      "series": "Gabriel Knight",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 65,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned.md",
-      "series": "Gabriel Knight",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 92,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1989 - Legend of Djel.md",
-      "series": "Coktel",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
+          "category": "Structure",
+          "severity": "warning",
+          "message": "Missing ### Technical Achievements",
+          "points_lost": 2
         }
       ]
     },
@@ -7864,32 +6892,6 @@
       ]
     },
     {
-      "filename": "1982 - Adventure in Serenia.md",
-      "series": "Hi-Res",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 26,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1980 - Hi-Res Adventure 1 - Mystery House.md",
       "series": "Hi-Res",
       "page_type": "standard",
@@ -7906,32 +6908,6 @@
           "severity": "error",
           "message": "Missing ### Origins or ### Production",
           "points_lost": 2
-        }
-      ]
-    },
-    {
-      "filename": "1987 - Police Quest - In Pursuit of the Death Angel.md",
-      "series": "Police Quest",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 98.3,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 41,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Engine:**`",
-          "points_lost": 1
-        },
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
         }
       ]
     },
@@ -7996,46 +6972,6 @@
       ]
     },
     {
-      "filename": "1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 43,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1987 - Leisure Suit Larry in the Land of the Lounge Lizards.md",
-      "series": "Leisure Suit Larry",
-      "page_type": "standard",
-      "is_flagship": true,
-      "is_non_narrative": false,
-      "threshold": 95,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 39,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Protagonist:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
       "filename": "1993 - Inca II - Wiracocha.md",
       "series": "Inca",
       "page_type": "standard",
@@ -8056,28 +6992,8 @@
       ]
     },
     {
-      "filename": "1996 - CyberGladiators.md",
-      "series": "Dynamix",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": false,
-      "threshold": 90,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 25,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "2024 - Homeworld 3.md",
-      "series": "Homeworld",
+      "filename": "1995 - Air Cavalry.md",
+      "series": "Standalone",
       "page_type": "standard",
       "is_flagship": false,
       "is_non_narrative": true,
@@ -8085,72 +7001,12 @@
       "score": 99.1,
       "passes": true,
       "status": "PASS",
-      "ref_count": 56,
+      "ref_count": 21,
       "issues": [
         {
           "category": "Game Info",
           "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack.md",
-      "series": "Crazy Nick's",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1993 - Cohort II - Fighting for Rome.md",
-      "series": "Impressions",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
-    },
-    {
-      "filename": "1998 - Sierra Pro Pilot USA.md",
-      "series": "Sierra Pro Pilot",
-      "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 99.1,
-      "passes": true,
-      "status": "PASS",
-      "ref_count": 20,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
+          "message": "Missing `**Series:**`",
           "points_lost": 1
         }
       ]
@@ -8176,24 +7032,56 @@
       ]
     },
     {
-      "filename": "1994 - Alien Legacy.md",
-      "series": "Strategy",
+      "filename": "1993 - Leisure Suit Larry 6 - Shape Up or Slip Out!.md",
+      "series": "Leisure Suit Larry",
       "page_type": "standard",
-      "is_flagship": false,
-      "is_non_narrative": true,
-      "threshold": 90,
-      "score": 99.1,
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
       "passes": true,
       "status": "PASS",
-      "ref_count": 31,
-      "issues": [
-        {
-          "category": "Game Info",
-          "severity": "error",
-          "message": "Missing `**Designer:**`",
-          "points_lost": 1
-        }
-      ]
+      "ref_count": 81,
+      "issues": []
+    },
+    {
+      "filename": "1989 - Leisure Suit Larry III - Passionate Patti in Pursuit of the Pulsating Pectorals.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 35,
+      "issues": []
+    },
+    {
+      "filename": "2020 - Leisure Suit Larry - Wet Dreams Dry Twice.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 30,
+      "issues": []
+    },
+    {
+      "filename": "1991 - Leisure Suit Larry 5 - Passionate Patti Does a Little Undercover Work.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 43,
+      "issues": []
     },
     {
       "filename": "1988 - Leisure Suit Larry Goes Looking for Love (in Several Wrong Places).md",
@@ -8206,6 +7094,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 35,
+      "issues": []
+    },
+    {
+      "filename": "2018 - Leisure Suit Larry - Wet Dreams Don't Dry.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 45,
       "issues": []
     },
     {
@@ -8222,6 +7123,19 @@
       "issues": []
     },
     {
+      "filename": "2013 - Leisure Suit Larry - Reloaded.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 37,
+      "issues": []
+    },
+    {
       "filename": "1991 - Leisure Suit Larry 1 - In the Land of the Lounge Lizards (VGA).md",
       "series": "Leisure Suit Larry",
       "page_type": "standard",
@@ -8232,6 +7146,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 38,
+      "issues": []
+    },
+    {
+      "filename": "1987 - Leisure Suit Larry in the Land of the Lounge Lizards.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 39,
+      "issues": []
+    },
+    {
+      "filename": "2009 - Leisure Suit Larry - Box Office Bust.md",
+      "series": "Leisure Suit Larry",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 44,
       "issues": []
     },
     {
@@ -8339,6 +7279,19 @@
       "issues": []
     },
     {
+      "filename": "1994 - Outpost.md",
+      "series": "Outpost",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
       "filename": "2002 - No One Lives Forever 2.md",
       "series": "Monolith",
       "page_type": "standard",
@@ -8443,6 +7396,19 @@
       "issues": []
     },
     {
+      "filename": "1996 - CyberGladiators.md",
+      "series": "Dynamix",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 25,
+      "issues": []
+    },
+    {
       "filename": "1988 - Gold Rush.md",
       "series": "Gold Rush",
       "page_type": "standard",
@@ -8453,6 +7419,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 20,
+      "issues": []
+    },
+    {
+      "filename": "1995 - The Beast Within - A Gabriel Knight Mystery.md",
+      "series": "Gabriel Knight",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 65,
       "issues": []
     },
     {
@@ -8469,6 +7448,58 @@
       "issues": []
     },
     {
+      "filename": "1999 - Gabriel Knight 3 - Blood of the Sacred, Blood of the Damned.md",
+      "series": "Gabriel Knight",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 92,
+      "issues": []
+    },
+    {
+      "filename": "2000 - Maximum Pool.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 22,
+      "issues": []
+    },
+    {
+      "filename": "1999 - 3-D Ultra Radio Control Racers.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
+      "filename": "1996 - 3-D Ultra Pinball - Creep Night.md",
+      "series": "3D Ultra",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 21,
+      "issues": []
+    },
+    {
       "filename": "1998 - Grand Prix Legends.md",
       "series": "Sierra Sports",
       "page_type": "standard",
@@ -8479,6 +7510,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 49,
+      "issues": []
+    },
+    {
+      "filename": "1998 - Sierra Sports - Bass Fishing.md",
+      "series": "Sierra Sports",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 24,
       "issues": []
     },
     {
@@ -8557,6 +7601,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 22,
+      "issues": []
+    },
+    {
+      "filename": "1989 - Legend of Djel.md",
+      "series": "Coktel",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -8950,6 +8007,19 @@
       "issues": []
     },
     {
+      "filename": "2024 - Homeworld 3.md",
+      "series": "Homeworld",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 56,
+      "issues": []
+    },
+    {
       "filename": "2000 - Homeworld - Cataclysm.md",
       "series": "Homeworld",
       "page_type": "standard",
@@ -9171,6 +8241,19 @@
       "issues": []
     },
     {
+      "filename": "1990 - King's Quest V - Absence Makes the Heart Go Yonder.md",
+      "series": "King's Quest",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 53,
+      "issues": []
+    },
+    {
       "filename": "1984 - King's Quest - Quest for the Crown.md",
       "series": "King's Quest",
       "page_type": "standard",
@@ -9324,6 +8407,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 47,
+      "issues": []
+    },
+    {
+      "filename": "1999 - Team Fortress Classic.md",
+      "series": "Valve",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 40,
       "issues": []
     },
     {
@@ -9756,6 +8852,19 @@
       "issues": []
     },
     {
+      "filename": "1994 - The Incredible Machine 2.md",
+      "series": "Incredible Machine",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 43,
+      "issues": []
+    },
+    {
       "filename": "1994 - Metaltech - Battledrome.md",
       "series": "Metaltech",
       "page_type": "standard",
@@ -9831,6 +8940,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 26,
+      "issues": []
+    },
+    {
+      "filename": "2001 - Tribes 2.md",
+      "series": "Metaltech",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 29,
       "issues": []
     },
     {
@@ -9974,6 +9096,19 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 38,
+      "issues": []
+    },
+    {
+      "filename": "1992 - Crazy Nick's Software Picks - Roger Wilco's Spaced Out Game Pack.md",
+      "series": "Crazy Nick's",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -10211,6 +9346,19 @@
       "issues": []
     },
     {
+      "filename": "1993 - Cohort II - Fighting for Rome.md",
+      "series": "Impressions",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
+      "issues": []
+    },
+    {
       "filename": "1991 - Merchant Colony.md",
       "series": "Impressions",
       "page_type": "standard",
@@ -10250,6 +9398,19 @@
       "issues": []
     },
     {
+      "filename": "1984 - Mickey's Space Adventure.md",
+      "series": "Disney",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 30,
+      "issues": []
+    },
+    {
       "filename": "1998 - Power Chess 98.md",
       "series": "Power Chess",
       "page_type": "standard",
@@ -10273,6 +9434,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 24,
+      "issues": []
+    },
+    {
+      "filename": "1982 - Adventure in Serenia.md",
+      "series": "Hi-Res",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": false,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 26,
+      "issues": []
+    },
+    {
+      "filename": "1998 - Sierra Pro Pilot USA.md",
+      "series": "Sierra Pro Pilot",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 20,
       "issues": []
     },
     {
@@ -10549,6 +9736,19 @@
       "issues": []
     },
     {
+      "filename": "1987 - Police Quest - In Pursuit of the Death Angel.md",
+      "series": "Police Quest",
+      "page_type": "standard",
+      "is_flagship": true,
+      "is_non_narrative": false,
+      "threshold": 95,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 41,
+      "issues": []
+    },
+    {
       "filename": "1993 - Police Quest - Open Season.md",
       "series": "Police Quest",
       "page_type": "standard",
@@ -10650,6 +9850,32 @@
       "passes": true,
       "status": "PASS",
       "ref_count": 29,
+      "issues": []
+    },
+    {
+      "filename": "1991 - The Charge of the Light Brigade.md",
+      "series": "Strategy",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 23,
+      "issues": []
+    },
+    {
+      "filename": "1994 - Alien Legacy.md",
+      "series": "Strategy",
+      "page_type": "standard",
+      "is_flagship": false,
+      "is_non_narrative": true,
+      "threshold": 90,
+      "score": 100.0,
+      "passes": true,
+      "status": "PASS",
+      "ref_count": 31,
       "issues": []
     },
     {
