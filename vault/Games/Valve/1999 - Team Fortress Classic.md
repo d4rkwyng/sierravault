@@ -22,11 +22,11 @@ tags: [1990s, shooter, sierra, team-fortress]
 
 ## Overview
 
-Team Fortress Classic is a class-based multiplayer first-person shooter developed and released by Valve Corporation in April 1999.[^ref-1][^ref-41] Originally created as a free add-on for Half-Life owners, the game represents a pivotal moment in gaming history when Valve hired the original creators of the popular Quake Team Fortress mod and brought them to work on an official commercial release.[^ref-2] The game puts two teams against each other in online multiplayer matches, with each team member choosing from nine distinct character classes, each possessing unique skills, weapons, and tactical roles.[^ref-3]
+Team Fortress Classic is a class-based multiplayer first-person shooter developed and released by Valve Corporation in April 1999.[^ref-1] Originally created as a free add-on for Half-Life owners, the game represents a pivotal moment in gaming history when Valve hired the original creators of the popular Quake Team Fortress mod and brought them to work on an official commercial release.[^ref-2] The game puts two teams against each other in online multiplayer matches, with each team member choosing from nine distinct character classes, each possessing unique skills, weapons, and tactical roles.[^ref-3]
 
 The modification focused on one central philosophy: "the only way you'll win is by working as a team."[^ref-4] Team Fortress Classic emphasizes coordination and strategy between opposing factions, rewarding organized teams over individual skill.[^ref-5] PC Gamer US declared it "more fun and more addictive than any other multiplayer-only title released in 1999, and didn't cost owners of Half-Life a single penny."[^ref-1] The game has been described as one of the most popular online action games of all time, featuring character classes ranging from Medic to Spy to Demolition Man in a unique style of online team warfare.[^ref-6]
 
-Team Fortress Classic served as a crucial bridge between the original Quake mod and the eventual Team Fortress 2, demonstrating Valve's commitment to nurturing modding communities and recognizing exceptional talent.[^ref-2] The game was included in the book *1001 Video Games You Must Play Before You Die*, cementing its status as a historically significant title in the first-person shooter genre.[^ref-7][^ref-40][^ref-40]
+Team Fortress Classic served as a crucial bridge between the original Quake mod and the eventual Team Fortress 2, demonstrating Valve's commitment to nurturing modding communities and recognizing exceptional talent.[^ref-2] The game was included in the book *1001 Video Games You Must Play Before You Die*, cementing its status as a historically significant title in the first-person shooter genre.[^ref-7][^ref-40]
 
 > [!info]- Game Info
 > **Developer:** [[Valve Corporation]][^ref-1]
@@ -194,7 +194,62 @@ User reviews have noted hit registration issues and occasional lag when players 
 
 ### Sales and Commercial Impact
 
-Team Fortress Classic was initially distributed free to Half-Life owners, representing an innovative approach to expanding a game's community and promoting development tools.[^ref-10] The game was distributed through multiple channels, including PC gaming magazine cover discs from publications like PC Zone and Australian PC Authority in June 1999.[^ref-2[[1998 - Half-Life]]
+Team Fortress Classic was initially distributed free to Half-Life owners, representing an innovative approach to expanding a game's community and promoting development tools.[^ref-10] The game was distributed through multiple channels, including PC gaming magazine cover discs from publications like PC Zone and Australian PC Authority in June 1999.[^ref-27]
+
+As of 2003, Team Fortress Classic ranked among the ten most played Half-Life mods according to GameSpy, second only to Counter-Strike.[^ref-13] The game maintained a consistent player base for over two decades, with approximately 500 active servers and 50-100 average monthly players as of recent years.[^ref-30]
+
+### Collections
+
+Team Fortress Classic appeared in several Half-Life compilation packages:
+
+- **Half-Life Platinum** (2000): Included Half-Life: Game of the Year Edition, Half-Life: Opposing Force, Half-Life: Counter-Strike, and Team Fortress Classic[^ref-31]
+- **Half-Life Platinum Collection** (2002): Expanded compilation including Blue Shift and Uplink demo[^ref-32]
+- **Half-Life Generation** and regional variants[^ref-31]
+
+### Fan Projects
+
+**Fortress Forever:** A Source engine mod inspired by Team Fortress Classic and QuakeWorld Team Fortress, developed by community volunteers since 2004 and released on September 13, 2007.[^ref-33] The mod features gameplay ranging from "fast-paced, competitive, and deep to absurd and chaotic."[^ref-33] With 88 contributors, 3,948 code commits, and 7,860 asset commits, it represents one of the most ambitious community efforts to preserve TFC's gameplay style.[^ref-34]
+
+**Team Fortress 2 Classic:** A mod for Team Fortress 2 that recreates elements of the franchise's earlier iterations, with an open beta launched through Steam.[^ref-35]
+
+The speedrunning community maintains active leaderboards for Team Fortress Classic, with categories including full game runs, default maps, and custom map challenges using Scout and Civilian classes.[^ref-36]
+
+### Related Publications
+
+Team Fortress Classic's strategy and class guides were extensively documented through gaming websites and community resources:
+
+- **GameSpot Character Guides:** Detailed breakdowns of all character classes with statistics and tactical advice[^ref-15]
+- **Planet Half-Life Guides:** Comprehensive map strategies and defensive tactics[^ref-37]
+- **Neoseeker Strategy Guides:** Class-specific FAQs including sniper strategies by Dark Reaper[^ref-38]
+
+### Critical Perspective
+
+Team Fortress Classic occupies a crucial position in first-person shooter history as the bridge between grassroots modding and commercial game development. The game demonstrated that talented modders could create experiences rivaling professional studios, and Valve's acquisition of the Team Fortress team established a template the company would repeat with Counter-Strike and other properties.[^ref-2]
+
+Josh Bycer of Game Developer described Team Fortress 2 as "one of the most important games released in the industry," and much of that importance stems from foundations laid by Team Fortress Classic.[^ref-39] The class-based design, team-focused objectives, and asymmetric gameplay mechanics pioneered by the original Quake mod and refined in TFC became templates for countless multiplayer shooters.
+
+However, modern assessments acknowledge the game's limitations. As one Metacritic user noted, "Team Fortress Classic is one of those titles whose legacy massively outweighs the experience of playing it today."[^ref-22] The game's technical age, combined with a dwindling player base dominated by bots, makes it more of a historical artifact than a living competitive experience.[^ref-13]
+
+## Purchase
+
+- [GOG Dreamlist](https://www.gog.com/dreamlist)
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [Steam](https://store.steampowered.com/app/20/Team_Fortress_Classic/) - $4.99 USD
+
+**Community Resources**
+- [ModDB](https://www.moddb.com/games/team-fortress-classic) - Downloads and modifications
+- [Team Fortress Wiki](https://wiki.teamfortress.com/wiki/Team_Fortress_Classic) - Comprehensive documentation
+- [Speedrun.com](https://www.speedrun.com/tfc) - Speedrunning leaderboards
+
+## See Also
+
+- [[1999 - Half-Life - Opposing Force|← Previous: Half-Life - Opposing Force]]
+- [[2000 - Counter-Strike|→ Next: Counter-Strike]]
+
+- [[1998 - Half-Life]]
 - [[2000 - Gunman Chronicles]]
 - [[2000 - Ricochet]]
 - [[2001 - Deathmatch Classic]]

@@ -28,7 +28,7 @@ Mickey's Space Adventure is a graphic adventure computer game developed by Sierr
 
 The game features Mickey Mouse and his faithful companion Pluto embarking on an interplanetary quest across the solar system, collecting nine pieces of a fragmented memory crystal for an alien race from the planet Oron.[^ref-4] As an educational title aimed at children, the game combines adventure gameplay with lessons about astronomy, planetary science, and problem-solving skills, exploring the solar system through approximately 150 captivating scenes.[^ref-5] The game was marketed under the Walt Disney Personal Computer Software banner with the motto "Playing for fun/learning for life," capturing children's imagination while developing skills and knowledge.[^ref-5]
 
-Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified interface designed for young players who were still learning to read.[^ref-6] Contemporary reviewers noted that while many software houses created games around famous characters hoping the brand would sell the product, this game "deserved to succeed on merit alone."[^ref-7][^ref-28][^ref-30][^ref-31][^ref-28][^ref-30][^ref-31]
+Mickey's Space Adventure exemplified Sierra's approach to children's educational software during the mid-1980s, utilizing a simplified interface designed for young players who were still learning to read.[^ref-6] Contemporary reviewers noted that while many software houses created games around famous characters hoping the brand would sell the product, this game "deserved to succeed on merit alone."[^ref-7][^ref-28][^ref-30][^ref-31]
 
 > [!info]- Game Info
 > **Developer:** [[Sierra On-Line]], Walt [[Disney]] Computer Software[^ref-4]
@@ -183,7 +183,59 @@ A known compatibility issue exists with the PCjr version: the game does not work
 
 ### Multiple Endings
 
-The game features two possible endings based on player actions during the adventure:[^ref-1[[1986 - The Black Cauldron]]
+The game features two possible endings based on player actions during the adventure:[^ref-14][^ref-11]
+
+- **Standard Ending:** Mickey returns the completed crystal to the Oronians
+- **Alternate Ending with Minnie:** If the player chooses to write a letter to Minnie Mouse during the game, Minnie appears to celebrate Mickey's successful return
+
+The alternate ending requires players to complete the optional letter-writing action, demonstrating early experimentation with branching narrative elements in children's educational games.[^ref-29]
+
+## Legacy
+
+### Sales and Commercial Impact
+
+Mickey's Space Adventure was part of Sierra's profitable contract with Disney that produced several successful educational titles.[^ref-3] The game helped establish Sierra's reputation in the children's educational software market and demonstrated that licensed Disney characters could be used in quality interactive entertainment rather than merely relying on brand recognition.[^ref-7]
+
+### Collections
+
+A very rare school version of the game was released directly to educational institutions, independent of Sierra's retail distribution.[^ref-26] This version included a Teacher's Guide and Activity Sheets, enhancing its educational utility in classroom settings.[^ref-26] This educational variant appears to have been produced by Walt Disney Personal Computer Software separately from Sierra, despite the game content being identical.[^ref-26]
+
+### Fan Projects
+
+Al Lowe has made the game available as freeware through his personal website, ensuring continued access to this piece of gaming history.[^ref-8] The game can be run through modern emulation solutions including ScummVM recreation possibilities.[^ref-27]
+
+### Related Publications
+
+- **Instruction Manual:** Includes parent-child activities, science glossary, and astronomical trivia about the solar system[^ref-19]
+- **Teacher's Guide:** Available with the school version, providing lesson plans and educational activities[^ref-26]
+- **Activity Sheets:** Supplementary educational materials for classroom use[^ref-26]
+
+### Critical Perspective
+
+Mickey's Space Adventure holds an important place in both Disney and Sierra gaming history as a pioneering title that successfully merged licensed characters with educational content.[^ref-2] While the game may seem simplistic by modern standards, it represented an ambitious effort to teach children about astronomy and problem-solving through interactive entertainment in an era when home computers were just beginning to enter households.
+
+The collaboration between Sierra and Disney established a template for educational adventure games that respected young players' intelligence while making learning engaging.[^ref-7] The game's design philosophy—using simplified interfaces while maintaining adventure game mechanics like inventory management and exploration—influenced subsequent children's educational titles. Its success helped pave the way for more sophisticated Disney-Sierra collaborations like The Black Cauldron, demonstrating that quality interactive entertainment could be built around beloved animated characters.[^ref-3]
+
+## Purchase
+
+- [GOG Dreamlist](https://www.gog.com/dreamlist/game/mickey-s-space-adventure-1984)
+
+## Downloads
+
+**Download / Preservation**
+- [Internet Archive - DOS Version](https://archive.org/details/msdos_Mickeys_Space_Adventure_1986)
+- [Internet Archive - Commodore 64 Version](https://archive.org/details/mickey_c64)
+- [My Abandonware](https://www.myabandonware.com/game/mickey-s-space-adventure-8k)
+- [Al Lowe's Website (Official Freeware)](http://allowe.com/downloads/games.html)
+
+**Manuals & Extras**
+- [Manual Scans - Museum of Computer Adventure Game History](https://www.mocagh.org/loadpage.php?getgame=mickey-alt2-manual)
+
+## See Also
+
+- [[1984 - Donald Duck's Playground]]
+- [[1984 - Winnie the Pooh in the Hundred Acre Wood]]
+- [[1986 - The Black Cauldron]]
 
 ## References
 

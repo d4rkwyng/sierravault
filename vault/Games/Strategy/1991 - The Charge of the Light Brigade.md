@@ -25,7 +25,7 @@ The Charge of the Light Brigade is a real-time strategy game developed and publi
 
 The title employs Impressions' "miniature-style" battle simulation system, enhanced based on user feedback from their previous games Cohort and Rorke's Drift[^ref-4]. This system presents beautifully animated soldier figures on a diagonal-down battlefield perspective, allowing players to control individual units or groups of up to eight soldiers through an entirely mouse and icon-driven interface[^ref-5]. The game's historical accuracy extends to its difficulty, reflecting the genuine futility of the Light Brigade's ill-fated charge where, of the 673 men who began the assault, only 195 were fit for action at its conclusion[^ref-6].
 
-Impressions Games, founded in 1989, would later be acquired by Sierra On-Line in 1995, making this title part of the extended Sierra family of games[^ref-7]. The game received mixed reviews upon release, with critics praising its innovative visual presentation while noting significant interface and pacing issues that hampered the strategic gameplay experience[^ref-8].[^ref-21][^ref-22][^ref-23][^ref-21][^ref-22][^ref-23]
+Impressions Games, founded in 1989, would later be acquired by Sierra On-Line in 1995, making this title part of the extended Sierra family of games[^ref-7]. The game received mixed reviews upon release, with critics praising its innovative visual presentation while noting significant interface and pacing issues that hampered the strategic gameplay experience[^ref-8].[^ref-21][^ref-22][^ref-23]
 
 > [!info]- Game Info
 > **Developer:** [[Impressions Games]][^ref-1]
@@ -174,7 +174,37 @@ Sales figures for The Charge of the Light Brigade were not publicly reported, an
 
 ### Collections
 
-The game has not appeared in any official compilation releases. It is currently available through abandonware preservation sites including MyAbandonware, Internet Archive, and various browser-based DOS emulation platforms[^ref-1[[1993 - Global Domination]]
+The game has not appeared in any official compilation releases. It is currently available through abandonware preservation sites including MyAbandonware, Internet Archive, and various browser-based DOS emulation platforms[^ref-16][^ref-1][^ref-17].
+
+### Related Publications
+
+No official hint books or strategy guides are known to have been published for The Charge of the Light Brigade. The game manual would have provided the primary documentation for players.
+
+### Critical Perspective
+
+The Charge of the Light Brigade occupies an unusual position in gaming history as one of the very few video games to tackle the Crimean War, a conflict largely overlooked by the medium[^ref-3]. While the game's innovative miniature-style presentation pointed toward future developments in real-time strategy presentation, its interface problems prevented it from achieving classic status.
+
+The game arrived during a transitional period for strategy gaming, when developers were experimenting with ways to bring the appeal of tabletop wargaming to computer screens. Impressions' approach—animated individual soldiers controlled through mouse-driven icons—represented one evolutionary path that would eventually be refined by later RTS developers. However, the execution fell short of the vision, with the contemporary reviews consistently noting that excellent presentation could not compensate for frustrating controls and pacing issues[^ref-8][^ref-14].
+
+Impressions Games would find greater success with their subsequent city-building games under Sierra On-Line's umbrella, but The Charge of the Light Brigade remains a fascinating artifact of early 1990s wargaming ambition. Its attempt to balance historical accuracy with engaging gameplay—deliberately recreating a military disaster—demonstrated both the possibilities and limitations of applying video game design to tragic historical events. As Jonathan Davies noted in Amiga Power, the game represented "definitely the way Amiga war games ought to be heading," even if it didn't fully realize that potential[^ref-8].
+
+## Downloads
+
+**Purchase / Digital Stores**
+- [GOG Dreamlist](https://www.gog.com/dreamlist) - Community Dreamlist
+
+**Download / Preservation**
+- [Internet Archive](https://archive.org/details/msdos_Charge_of_the_Light_Brigade_The_1991) – DOS version with browser emulation
+- [MyAbandonware](https://www.myabandonware.com/game/the-charge-of-the-light-brigade-141) – DOS, Amiga, and Atari ST versions
+- [ClassicReload](https://classicreload.com/the-charge-of-the-light-brigade.html) – Browser-based DOS version
+- [PlayMiniGames](https://playminigames.net/game/the-charge-of-the-light-brigade) – Browser-based DOS version
+
+## See Also
+
+- [[1979 - Galactic Empire]]
+- [[1987 - The Ancient Art of War at Sea]]
+- [[1991 - V for Victory - D-Day Utah Beach]]
+- [[1993 - Global Domination]]
 - [[1994 - Alien Legacy]]
 - [[1995 - High Seas Trader]]
 - [[1996 - Birthright - The Gorgon's Alliance]]
