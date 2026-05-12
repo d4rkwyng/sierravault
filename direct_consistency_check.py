@@ -454,7 +454,8 @@ def build_json(results: list) -> dict:
     }
 
 # Main execution
-vault = Path.home() / "Projects/sierravault/vault/Games"
+REPO_ROOT = Path(__file__).resolve().parent
+vault = REPO_ROOT / "vault/Games"
 if not vault.exists():
     print(f"ERROR: vault not found at {vault}")
     sys.exit(1)
@@ -487,7 +488,7 @@ print(f"OVERALL: {passing}/{total} pages passing  |  average: {avg:.1f}%")
 print("═" * 72)
 
 # Save JSON
-json_out = Path.home() / "Projects/sierravault/vault_report.json"
+json_out = REPO_ROOT / "vault_report.json"
 json_out.write_text(json.dumps(build_json(results), indent=2))
 print(f"\nJSON report saved to: {json_out}")
 

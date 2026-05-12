@@ -9,7 +9,8 @@ import os
 from pathlib import Path
 
 # Set up the path
-vault_games = Path.home() / "Projects/sierravault/vault/Games"
+REPO_ROOT = Path(__file__).resolve().parent
+vault_games = REPO_ROOT / "vault/Games"
 script_source = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py"
 
 # First ensure PyYAML is installed
@@ -38,7 +39,7 @@ if script_source.exists():
         str(script_source),
         "--vault", str(vault_games),
         "--quiet",
-        "--output", str(Path.home() / "Projects/sierravault/vault_report.json"),
+        "--output", str(REPO_ROOT / "vault_report.json"),
     ]
 
     # Import and run main from the script

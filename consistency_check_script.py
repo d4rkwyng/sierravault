@@ -14,8 +14,9 @@ print("Installing PyYAML...")
 subprocess.run([sys.executable, "-m", "pip", "install", "pyyaml", "--break-system-packages", "-q"], check=False)
 
 # Copy the script from the assets location
+REPO_ROOT = Path(__file__).resolve().parent
 assets_script = Path.home() / "Library/Mobile Documents/com~apple~CloudDocs/Assets/sierravault/scripts/ACTIVE/consistency_check.py"
-output_script = Path("/Users/woodd/Projects/sierravault/consistency_check.py")
+output_script = REPO_ROOT / "consistency_check.py"
 
 if assets_script.exists():
     print(f"Copying script from {assets_script}...")
@@ -32,8 +33,8 @@ print("\n" + "="*72)
 print("RUNNING CONSISTENCY CHECK - FULL RESULTS (--quiet mode)")
 print("="*72 + "\n")
 
-vault_path = Path.home() / "Projects/sierravault/vault/Games"
-json_output = Path("/Users/woodd/Projects/sierravault/vault_report.json")
+vault_path = REPO_ROOT / "vault/Games"
+json_output = REPO_ROOT / "vault_report.json"
 
 result = subprocess.run([
     sys.executable, str(output_script),
