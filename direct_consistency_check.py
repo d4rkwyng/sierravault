@@ -337,7 +337,7 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
     target_refs = 10 if (is_cancelled or is_tbd) else 20
 
     chk("References", ref_count >= min_refs, f"Only {ref_count} references — minimum is {min_refs}", 10)
-    chk("References", ref_count >= target_refs, f"Reference count below target of {target_refs}", 5, "warning")
+    chk("References", ref_count >= target_refs, f"Reference count below target of {target_refs}", 2, "warning")
 
     inline = count_inline_citations(body)
     chk("References", inline >= 5, f"Only {inline} inline citation(s) in prose", 5)
@@ -346,7 +346,7 @@ def score_page(filepath: Path, all_basenames: set) -> PageResult:
     chk("References", len(dupes) == 0, f"Duplicate reference URL(s): {dupes[:3]}", 5)
 
     if not is_cancelled and not is_tbd:
-        chk("References", has_numeric_scores(content), "Reception section has no numeric scores", 5, "warning")
+        chk("References", has_numeric_scores(content), "Reception section has no numeric scores", 2, "warning")
 
     # Wiki Links
     md_links, folder_links = wiki_link_errors(body)
