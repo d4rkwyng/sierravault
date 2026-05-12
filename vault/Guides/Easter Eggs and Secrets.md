@@ -1,7 +1,7 @@
 ---
 title: "Easter Eggs and Secrets"
 type: guide
-last_updated: 2026-02-12
+last_updated: "2026-02-12"
 ---
 # Easter Eggs and Secrets: Sierra's Hidden Treasures
 

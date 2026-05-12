@@ -1,7 +1,7 @@
 ---
 title: "Sierra Deaths"
 type: guide
-last_updated: 2026-02-12
+last_updated: "2026-02-12"
 ---
 # The Art of Dying: A Celebration of Sierra's Creative Deaths
 

@@ -1,7 +1,7 @@
 ---
 title: "Cancelled Games"
 type: guide
-last_updated: 2026-02-12
+last_updated: "2026-02-12"
 ---
 # Sierra's Cancelled Games: The Ones That Got Away
 
